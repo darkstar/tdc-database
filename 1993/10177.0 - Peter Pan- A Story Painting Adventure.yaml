@@ -1,0 +1,32 @@
+filename: Peter Pan- A Story Painting Adventure (1993)(Electronic Arts, Inc.) [Adventure, Educational].zip
+tdc_id: '10177.0'
+title:
+  box: 'Peter Pan: A Story Painting Adventure'
+publisher: Electronic Arts, Inc.
+year: '1993'
+genre:
+- Adventure
+- Educational
+language: English
+date:
+  added: '2019-03-01T19:16:08'
+  last_modified: '2019-03-01T19:16:08'
+type: zip
+commands:
+  play: PAN.EXE
+references:
+  dosid: DOS03969
+  exodos: Peter Pan - A Story Painting Adventure (1993).zip
+files:
+- name: PAN.EXE
+  size: 261984
+  date: '1994-09-06T06:28:24'
+  crc: '0xbe0f4662'
+- name: PP.RSC
+  size: 6884592
+  date: '1994-09-06T06:34:40'
+  crc: '0x5fda5621'
+- name: SAVEGAME
+  size: 10
+  date: '1999-10-14T06:32:12'
+  crc: '0x2b528d40'

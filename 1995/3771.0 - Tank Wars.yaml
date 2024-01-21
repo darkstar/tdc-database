@@ -1,0 +1,37 @@
+filename: Tank Wars v2.07 (1995)(ML) [Action, Strategy].zip
+tdc_id: '3771.0'
+title:
+  screen: Tank Wars
+publisher: ML
+year: '1995'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-02T09:06:02'
+  last_modified: '2019-03-02T09:06:02'
+version: '2.07'
+type: zip
+commands:
+  play: TANK_ENG.EXE
+references:
+  dosid: DOS15866
+  exodos: TankWars (1995).zip
+files:
+- name: TANKWARS.ICO
+  size: 766
+  date: '1995-03-13T23:46:50'
+  crc: '0x05335535'
+- name: TANKWARS.INI
+  size: 272
+  date: '2012-04-14T07:28:44'
+  crc: '0xa5ffccff'
+- name: TANK_ENG.DOC
+  size: 8094
+  date: '1996-05-27T11:51:20'
+  crc: '0x6ce6e3ca'
+- name: TANK_ENG.EXE
+  size: 106048
+  date: '2000-01-24T05:24:18'
+  crc: '0xe2ab469c'

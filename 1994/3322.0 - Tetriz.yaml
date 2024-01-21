@@ -1,0 +1,29 @@
+filename: Tetriz (1994)(Markus Kemetter) [Action, Strategy].zip
+tdc_id: '3322.0'
+title:
+  screen: Tetriz
+publisher: Markus Kemetter
+year: '1994'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-02T07:18:14'
+  last_modified: '2019-03-02T07:18:14'
+type: zip
+commands:
+  play: TETRIZ.EXE
+files:
+- name: EGAVGA.BGI
+  size: 5554
+  date: '1992-06-10T03:10:00'
+  crc: '0x9b14ff3b'
+- name: TETRIZ.EXE
+  size: 81050
+  date: '1994-10-06T21:22:50'
+  crc: '0x74e8028a'
+- name: TETRIZ.HST
+  size: 150
+  date: '1994-10-06T21:33:20'
+  crc: '0x7f8dbe1d'

@@ -1,0 +1,29 @@
+filename: Jet [DC][b1] (1985)(subLOGIC) [Simulation].zip
+tdc_id: '9714.3'
+title:
+  box: Jet
+publisher: subLOGIC
+year: '1985'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:24:28'
+  last_modified: '2019-03-01T18:24:28'
+type: zip
+tags:
+- DOSConversion
+- Bad: 1
+commands:
+  play: JET.COM
+references:
+  dosid: DOS02202
+  exodos: Jet (1985).zip
+files:
+- name: GAME.DAT
+  size: 204800
+  date: '1999-08-24T10:03:54'
+  crc: '0xdcd44492'
+- name: JET.COM
+  size: 416
+  date: '1999-08-24T10:42:32'
+  crc: '0x425e7077'

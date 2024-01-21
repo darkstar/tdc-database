@@ -1,0 +1,63 @@
+filename: Tetris [FW] (1997)(Johan Peitz) [Action, Strategy].zip
+tdc_id: '16593.0'
+title:
+  screen: Tetris
+publisher: Johan Peitz
+year: '1997'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2018-03-03T14:21:46'
+  last_modified: '2018-03-03T14:21:46'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: TETRIS.EXE
+references:
+  dosid: DOS15774
+  exodos: Tetris (1997).zip
+files:
+- name: BASEBLK.CFG
+  size: 448
+  date: '1997-10-11T17:27:46'
+  crc: '0x7535f0d5'
+- name: BKDRP.CEL
+  size: 64800
+  date: '1997-12-27T22:52:42'
+  crc: '0x02b2005e'
+- name: BKDRP2.CEL
+  size: 64800
+  date: '1997-12-28T15:51:10'
+  crc: '0x80ec820f'
+- name: FILE_ID.DIZ
+  size: 283
+  date: '1998-10-18T01:29:12'
+  crc: '0x331dece3'
+- name: README.TXT
+  size: 3300
+  date: '1998-10-18T01:26:10'
+  crc: '0xfebf7e09'
+- name: SYSTEM.FNT
+  size: 6912
+  date: '1997-12-28T17:41:54'
+  crc: '0xc8d466c5'
+- name: TETRIS.CFG
+  size: 10
+  date: '1998-01-24T11:55:08'
+  crc: '0x28623254'
+- name: TETRIS.EXE
+  size: 84761
+  date: '1997-12-28T20:27:08'
+  crc: '0x5f02f876'
+- name: TETRIS.HI
+  size: 300
+  date: '1997-12-14T15:11:30'
+  crc: '0xe030e7e1'
+- name: TITLES.CEL
+  size: 46560
+  date: '1997-12-27T01:53:00'
+  crc: '0xb0503f71'

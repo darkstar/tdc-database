@@ -1,0 +1,38 @@
+filename: Megafortress (Installer) (1991)(Mindscape International Ltd.) [Simulation, Strategy].zip
+tdc_id: '14220.1'
+title:
+  box: Megafortress
+publisher: Mindscape International Ltd.
+year: '1991'
+genre:
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:36:48'
+  last_modified: '2019-03-01T18:36:48'
+type: zip
+installer: true
+commands:
+  play: INSTALL.COM
+files:
+- name: INSTALL.COM
+  size: 17840
+  date: '1991-09-03T15:30:58'
+  crc: '0x0c0a77e1'
+- name: MEGAONEA.DAT
+  size: 121229
+  date: '1991-09-04T13:58:56'
+  crc: '0x2d666bc0'
+- name: MEGAONEB.DAT
+  size: 142818
+  date: '1991-09-04T13:59:00'
+  crc: '0x31705ad9'
+- name: MEGAREAD.ME
+  size: 882
+  date: '1991-09-09T16:13:08'
+  crc: '0x3c558cd3'
+- name: MEGATWOA.DAT
+  size: 283594
+  date: '1991-09-04T13:59:04'
+  crc: '0x286b872c'

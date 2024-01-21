@@ -1,0 +1,53 @@
+filename: Winter Olympics- Lillehammer '94 v2.0 (Installer) (En)(De)(Fr)(It)(Es)(No)(Sv)(Nl) (1993)(U.S. Gold Ltd.) [Sports].zip
+tdc_id: '7574.1'
+title:
+  box: 'Winter Olympics: Lillehammer ''94'
+publisher: U.S. Gold Ltd.
+year: '1993'
+genre: Sports
+language:
+- English
+- Spanish
+- French
+- Italian
+- German
+- Norwegian
+- Dutch
+- Swedish
+date:
+  added: '2019-03-01T21:12:22'
+  last_modified: '2019-03-01T21:12:22'
+version: '2.0'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DATA\BITS.SPR
+  size: 4491
+  date: '1993-11-29T02:39:10'
+  crc: '0x916f4593'
+- name: DATA\PSCREEN.IDM
+  size: 4446
+  date: '1993-11-29T02:38:00'
+  crc: '0x20822821'
+- name: INSTALL.EXE
+  size: 5040
+  date: '1993-11-29T03:19:00'
+  crc: '0x7f98a9f9'
+- name: JAX$WO94.000
+  size: 1350000
+  date: '1993-12-17T20:24:02'
+  crc: '0x004bd2ba'
+- name: JAX$WO94.001
+  size: 589774
+  date: '1993-12-17T20:25:10'
+  crc: '0x91111bda'
+- name: READ.ME
+  size: 781
+  date: '1993-11-29T05:02:16'
+  crc: '0x949bd491'
+- name: SYSTEM.JAX
+  size: 37500
+  date: '1993-10-09T16:46:08'
+  crc: '0xbd6d7424'

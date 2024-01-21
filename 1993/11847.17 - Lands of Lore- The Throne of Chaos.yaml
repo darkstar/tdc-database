@@ -1,0 +1,73 @@
+filename: Lands of Lore- The Throne of Chaos vE1.20 (Installer) (1993)(Virgin Games, Ltd.) [Role-Playing (RPG)].zip
+tdc_id: '11847.17'
+title:
+  box: 'Lands of Lore: The Throne of Chaos'
+publisher: Virgin Games, Ltd.
+year: '1993'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2022-06-11T13:00:22'
+  last_modified: '2022-06-11T13:00:22'
+version: E1.20
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 77328
+  date: '1993-09-24T16:28:14'
+  crc: '0x398fccee'
+- name: INSTENG.DIP
+  size: 3078
+  date: '1993-09-24T12:45:00'
+  crc: '0xab84ecdc'
+- name: INSTGER.DIP
+  size: 3772
+  date: '1993-09-20T15:30:38'
+  crc: '0x2dad9072'
+- name: WESTWOOD.1
+  size: 1350145
+  date: '1993-09-25T11:24:02'
+  crc: '0x2abd37af'
+- name: WESTWOOD.2
+  size: 1457153
+  date: '1993-09-25T11:31:14'
+  crc: '0xf9272f4d'
+- name: WESTWOOD.3
+  size: 1457153
+  date: '1993-09-25T11:32:30'
+  crc: '0x8752c5b5'
+- name: WESTWOOD.4
+  size: 1457153
+  date: '1993-09-25T11:33:46'
+  crc: '0xe94ce580'
+- name: WESTWOOD.5
+  size: 1457153
+  date: '1993-09-25T11:35:04'
+  crc: '0x2452ff13'
+- name: WESTWOOD.6
+  size: 1457153
+  date: '1993-09-25T11:36:22'
+  crc: '0x0f12aec4'
+- name: WESTWOOD.7
+  size: 1457153
+  date: '1993-09-25T11:37:38'
+  crc: '0x3587add5'
+- name: WESTWOOD.8
+  size: 1337015
+  date: '1993-09-25T11:38:50'
+  crc: '0x237462d7'
+- name: WESTWOOD.DLL
+  size: 9232
+  date: '1992-06-11T15:18:26'
+  crc: '0x671546ab'
+- name: WESTWOOD.PIF
+  size: 545
+  date: '1993-07-16T22:26:36'
+  crc: '0x1f55e5d0'
+- name: WWUNCOMP.DLL
+  size: 10256
+  date: '1993-09-20T16:32:04'
+  crc: '0x10612718'

@@ -1,0 +1,36 @@
+filename: Spectre (Installer) (1992)(Velocity Inc.) [Action, Racing - Driving, Strategy].zip
+tdc_id: '15344.4'
+title:
+  box: Spectre
+publisher: Velocity Inc.
+year: '1992'
+genre:
+- Action
+- Racing - Driving
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:51:20'
+  last_modified: '2019-03-01T18:51:20'
+type: zip
+installer: true
+references:
+  dosid: DOS04735
+  exodos: Spectre (1992).zip
+files:
+- name: INSTALL.DAT
+  size: 23586
+  date: '1992-11-28T11:51:56'
+  crc: '0x1e52136c'
+- name: INSTALL.EXE
+  size: 8204
+  date: '1992-11-27T12:52:18'
+  crc: '0xeee991b8'
+- name: README.TXT
+  size: 4205
+  date: '1992-11-28T10:48:10'
+  crc: '0x6789cf78'
+- name: SPCDATA.EXE
+  size: 575202
+  date: '1992-11-28T11:46:18'
+  crc: '0xbc77f48f'

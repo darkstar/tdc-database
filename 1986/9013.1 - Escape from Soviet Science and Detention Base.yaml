@@ -1,0 +1,33 @@
+filename: Escape from Soviet Science and Detention Base (1986)(Menco, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '9013.1'
+title:
+  screen: Escape from Soviet Science and Detention Base
+publisher: Menco, Inc.
+year: '1986'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:24:46'
+  last_modified: '2019-03-01T18:24:46'
+type: zip
+commands:
+  play: SOVIET.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: SOVIET.BAS
+  size: 21243
+  date: '1986-09-04T09:26:04'
+  crc: '0x4fd25098'
+- name: SOVIET.BAT
+  size: 15
+  date: '2014-12-18T17:34:20'
+  crc: '0xb86b01d6'
+- name: SOVIET.DOC
+  size: 2688
+  date: '1986-09-04T09:26:04'
+  crc: '0xca04cbcd'

@@ -1,0 +1,76 @@
+filename: UMS II- Nations at War (CGA) (1991)(Rainbird Software) [Strategy].zip
+tdc_id: '7312.0'
+title:
+  box: 'UMS II: Nations at War'
+  qualifier: CGA
+publisher: Rainbird Software
+year: '1991'
+genre: Strategy
+language: English
+date:
+  added: '2020-08-10T17:07:48'
+  last_modified: '2020-08-10T17:07:48'
+type: zip
+commands:
+  play: UMSIICGA.EXE
+files:
+- name: ALEX.@
+  size: 3873
+  date: '1989-12-19T16:23:06'
+  crc: '0x8dbdc3ff'
+- name: ARROW.@
+  size: 160
+  date: '1990-03-05T21:38:56'
+  crc: '0x16ada116'
+- name: CROSHAIR.@
+  size: 160
+  date: '1990-03-05T21:41:10'
+  crc: '0xf416aeb4'
+- name: DEFAULT.GEN
+  size: 3095
+  date: '1990-11-20T13:13:22'
+  crc: '0x7b27c76e'
+- name: DEFAULT.MCP
+  size: 1720
+  date: '1990-11-20T13:14:38'
+  crc: '0x431c96e3'
+- name: FONT7_7.@
+  size: 1081
+  date: '1990-04-24T20:31:04'
+  crc: '0x476f73d3'
+- name: MASTER4.CGA
+  size: 4185
+  date: '1990-11-18T12:27:10'
+  crc: '0x8dd04b39'
+- name: PATSCGA.@
+  size: 550
+  date: '1990-10-01T21:27:14'
+  crc: '0xeae74596'
+- name: PRX_TBL.BIN
+  size: 93
+  date: '1990-11-18T11:57:24'
+  crc: '0x2261e1c4'
+- name: README.TXT
+  size: 1524
+  date: '1991-01-07T15:24:06'
+  crc: '0x404b5069'
+- name: RMN9_08.@
+  size: 1628
+  date: '1990-11-14T22:57:32'
+  crc: '0xb6a50612'
+- name: UMS2BOX.@
+  size: 922
+  date: '1990-02-12T00:01:14'
+  crc: '0x0c60876e'
+- name: UMS2END.CGA
+  size: 2890
+  date: '1990-11-19T18:40:06'
+  crc: '0x446325f9'
+- name: UMSIICGA.EXE
+  size: 189246
+  date: '1991-01-04T12:46:52'
+  crc: '0x1e6357df'
+- name: WEATHER.@
+  size: 517
+  date: '1990-02-27T17:41:18'
+  crc: '0x078e80db'

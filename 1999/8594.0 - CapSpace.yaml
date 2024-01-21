@@ -1,0 +1,63 @@
+filename: CapSpace (1999)(Peter Binsted) [Action].zip
+tdc_id: '8594.0'
+title:
+  screen: CapSpace
+publisher: Peter Binsted
+year: '1999'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:45:38'
+  last_modified: '2019-03-02T10:45:38'
+type: zip
+commands:
+  play: CAPSPACE.EXE
+files:
+- name: CAPSPACE.DSK
+  size: 2950
+  date: '1999-04-26T22:59:12'
+  crc: '0x40c7b757'
+- name: CAPSPACE.EXE
+  size: 26012
+  date: '1999-04-26T22:58:42'
+  crc: '0xd754270a'
+- name: CAPSPACE.OBJ
+  size: 7696
+  date: '1999-04-26T22:58:08'
+  crc: '0x2450b11e'
+- name: CAPSPACE.PRJ
+  size: 5337
+  date: '1999-04-26T22:58:42'
+  crc: '0xfcf71d62'
+- name: GAME.CPP
+  size: 1427
+  date: '1999-04-26T22:58:36'
+  crc: '0x075199ce'
+- name: GAME.OBJ
+  size: 3654
+  date: '1999-04-26T22:58:40'
+  crc: '0x85576279'
+- name: GLOBAL.H
+  size: 356
+  date: '1999-04-26T22:58:06'
+  crc: '0x280ac553'
+- name: SHIP.DAT
+  size: 256
+  date: '1999-04-26T11:44:02'
+  crc: '0xf7cde211'
+- name: SHIPD1.DAT
+  size: 256
+  date: '1999-04-26T11:59:40'
+  crc: '0xb27c56cf'
+- name: SHIPD2.DAT
+  size: 256
+  date: '1999-04-26T12:01:18'
+  crc: '0x537db27b'
+- name: SHIPD3.DAT
+  size: 256
+  date: '1999-04-26T12:01:56'
+  crc: '0xb6e73d5c'
+- name: capspace.cpp
+  size: 1707
+  date: '1999-04-26T22:58:02'
+  crc: '0xaf0be417'

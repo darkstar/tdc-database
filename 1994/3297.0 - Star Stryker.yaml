@@ -1,0 +1,65 @@
+filename: Star Stryker [SW] (1994)(Yang Liu) [Adventure].zip
+tdc_id: '3297.0'
+title:
+  screen: Star Stryker
+publisher: Yang Liu
+year: '1994'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-02T07:17:42'
+  last_modified: '2019-03-02T07:17:42'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: STRYKER.EXE
+references:
+  dosid: DOS06346
+  exodos: Star Stryker (1994).zip
+files:
+- name: LAUNCH.DAT
+  size: 54430
+  date: '1994-07-28T14:36:36'
+  crc: '0xa085f053'
+- name: PLANET.DAT
+  size: 49961
+  date: '1994-07-28T14:36:42'
+  crc: '0x01334b8e'
+- name: SHADOW.DAT
+  size: 64552
+  date: '1994-07-28T14:50:42'
+  crc: '0xd19fe6bd'
+- name: SINCLAIR.DAT
+  size: 57712
+  date: '1994-07-28T14:59:26'
+  crc: '0xfb5b1d3b'
+- name: SPACE.DAT
+  size: 56530
+  date: '1994-07-22T17:24:26'
+  crc: '0xe7d3381d'
+- name: STRYKER.DOC
+  size: 2317
+  date: '1994-08-02T13:00:44'
+  crc: '0x20bed2d6'
+- name: STRYKER.EXE
+  size: 83920
+  date: '1994-08-02T13:01:12'
+  crc: '0x9358c2eb'
+- name: STRYKER.PAS
+  size: 71793
+  date: '1994-08-02T12:36:28'
+  crc: '0xc246bca5'
+- name: TALIA.DAT
+  size: 60519
+  date: '1994-07-28T14:52:58'
+  crc: '0x6445d2e4'
+- name: UTILS.PAS
+  size: 2325
+  date: '1994-07-28T15:33:44'
+  crc: '0x120fc4da'
+- name: VGA256.BGI
+  size: 3289
+  date: '1989-05-31T01:00:02'
+  crc: '0x55f0b0ba'

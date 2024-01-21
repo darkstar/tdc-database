@@ -1,0 +1,39 @@
+filename: Franchise Football League v8.20 (Installer) (1995)(Fantasy Sports Properties, Inc.) [Simulation, Sports].zip
+tdc_id: '13780.2'
+title:
+  screen: Franchise Football League
+publisher: Fantasy Sports Properties, Inc.
+year: '1995'
+genre:
+- Simulation
+- Sports
+language: English
+date:
+  added: '2020-11-09T12:44:16'
+  last_modified: '2020-11-09T12:44:16'
+version: '8.20'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 72372
+  date: '1995-06-28T08:02:08'
+  crc: '0x1880ffe1'
+- name: INSTALL.INI
+  size: 172
+  date: '1995-06-28T08:06:22'
+  crc: '0xf433d1d2'
+- name: PACK1.PRG
+  size: 1377400
+  date: '1995-06-28T08:02:12'
+  crc: '0x137c6d0b'
+- name: PACK2.PRG
+  size: 1288495
+  date: '1995-06-28T08:05:30'
+  crc: '0x791860da'
+- name: README.BAT
+  size: 1661
+  date: '1995-06-28T08:02:10'
+  crc: '0xb4cf0332'

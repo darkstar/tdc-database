@@ -1,0 +1,59 @@
+filename: Epic Pinball v2.0 (Installer) [SWR] (1994)(WizardWorks Software) [Action].zip
+tdc_id: '9092.4'
+title:
+  screen: Epic Pinball
+publisher: WizardWorks Software
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T21:56:32'
+  last_modified: '2019-03-01T21:56:32'
+version: '2.0'
+type: zip
+tags:
+- SharewareRegistered
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.BIN
+  size: 4000
+  date: '1995-05-05T12:45:30'
+  crc: '0x75d92d0d'
+- name: INSTALL.DAT
+  size: 32
+  date: '1995-05-05T16:44:38'
+  crc: '0x182389d4'
+- name: INSTALL.EXE
+  size: 21264
+  date: '1995-05-05T17:26:40'
+  crc: '0xeeb057e8'
+- name: INSTALL.MSG
+  size: 4000
+  date: '1995-05-05T22:40:14'
+  crc: '0x84dd63dc'
+- name: PIN1.X00
+  size: 92
+  date: '1995-05-05T16:36:44'
+  crc: '0x4d9f87a5'
+- name: PIN1.Z01
+  size: 1415160
+  date: '1995-05-05T16:43:12'
+  crc: '0xea8a0bcb'
+- name: PIN2.X00
+  size: 92
+  date: '1995-05-05T16:36:58'
+  crc: '0x2b9b5295'
+- name: PIN2.Z01
+  size: 1415175
+  date: '1995-05-05T16:23:52'
+  crc: '0x7b10b038'
+- name: PIN3.X00
+  size: 92
+  date: '1995-05-05T16:37:56'
+  crc: '0x0998e185'
+- name: PIN3.Z01
+  size: 841264
+  date: '1995-05-05T16:38:14'
+  crc: '0x1a786340'

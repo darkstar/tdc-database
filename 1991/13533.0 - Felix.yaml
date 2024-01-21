@@ -1,0 +1,28 @@
+filename: Felix (1991)(David Bratton) [Action, Strategy].zip
+tdc_id: '13533.0'
+title:
+  screen: Felix
+publisher: David Bratton
+year: '1991'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:35:56'
+  last_modified: '2019-03-01T18:35:56'
+type: zip
+commands:
+  play: FELIX.EXE
+references:
+  dosid: DOS15388
+  exodos: Felix (1991).zip
+files:
+- name: FELIX.DOC
+  size: 2593
+  date: '1991-07-01T00:00:00'
+  crc: '0x6891afc4'
+- name: FELIX.EXE
+  size: 38224
+  date: '1991-07-01T00:00:00'
+  crc: '0x27ed97ca'

@@ -1,0 +1,31 @@
+filename: 3-D Pitfall [h1] (1995)(John Shramko) [Action, Strategy].zip
+tdc_id: '5152.0'
+title:
+  screen: 3-D Pitfall
+publisher: John Shramko
+year: '1995'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-02T07:27:14'
+  last_modified: '2022-09-22T09:52:31'
+type: zip
+tags:
+- Hack: 1
+commands:
+  play: 3DPIT.EXE
+files:
+- name: 3DPIT.DAT
+  size: 260
+  date: '1997-01-29T17:14:06'
+  crc: '0x3e2c0896'
+- name: 3DPIT.EXE
+  size: 144682
+  date: '1995-06-08T12:13:00'
+  crc: '0x8927628b'
+- name: 3DPIT.IMG
+  size: 76167
+  date: '1995-06-08T12:13:00'
+  crc: '0x2f2e6276'

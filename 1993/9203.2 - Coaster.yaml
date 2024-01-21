@@ -1,0 +1,38 @@
+filename: Coaster (Installer) (1993)(Walt Disney Computer Software, Inc.) [Simulation][!].zip
+tdc_id: '9203.2'
+parent_id: '9203.4'
+title:
+  box: Coaster
+publisher: Walt Disney Computer Software, Inc.
+year: '1993'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T19:01:56'
+  last_modified: '2019-03-01T19:01:56'
+type: zip
+tags:
+- KnownGood
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: COASTER
+  size: 0
+  date: '1993-09-16T12:32:58'
+- name: DISK1.CN_
+  size: 988791
+  date: '1993-09-08T12:02:00'
+  crc: '0x8b2e3867'
+- name: DISK1.ID
+  size: 1
+  date: '1993-09-08T12:02:00'
+  crc: '0xe96ccf45'
+- name: INSTALL.CFG
+  size: 231
+  date: '1993-09-08T12:02:00'
+  crc: '0x12285d2a'
+- name: INSTALL.EXE
+  size: 48379
+  date: '1993-09-08T12:02:00'
+  crc: '0x22c9c131'

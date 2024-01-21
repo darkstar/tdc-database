@@ -1,0 +1,92 @@
+filename: Black Cauldron, The v2.00 (1987)(Sierra On-Line, Inc.) [Adventure].zip
+tdc_id: '8535.4'
+title:
+  box: The Black Cauldron
+publisher: Sierra On-Line, Inc.
+year: '1987'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:25:10'
+  last_modified: '2019-03-01T18:25:10'
+version: '2.00'
+type: zip
+commands:
+  play: BC.COM
+files:
+- name: AGI
+  size: 38400
+  date: '1999-12-31T23:59:58'
+  crc: '0x044da781'
+- name: AGIDATA.OVL
+  size: 7680
+  date: '1999-12-31T23:59:58'
+  crc: '0xe8c29f5f'
+- name: BC.COM
+  size: 2944
+  date: '1999-12-31T23:59:58'
+  crc: '0x3179eddc'
+- name: CGA_GRAF.OVL
+  size: 1024
+  date: '1999-12-31T23:59:58'
+  crc: '0xad269bd0'
+- name: EGA_GRAF.OVL
+  size: 1024
+  date: '1999-12-31T23:59:58'
+  crc: '0xcfa63d5c'
+- name: HGC_FONT
+  size: 3072
+  date: '1999-12-31T23:59:58'
+  crc: '0x200435c7'
+- name: HGC_GRAF.OVL
+  size: 1536
+  date: '1999-12-31T23:59:58'
+  crc: '0x40a8511a'
+- name: HGC_OBJS.OVL
+  size: 1024
+  date: '1999-12-31T23:59:58'
+  crc: '0x77cbc884'
+- name: IBM_OBJS.OVL
+  size: 512
+  date: '1999-12-31T23:59:58'
+  crc: '0x3bcb96dd'
+- name: JR_GRAF.OVL
+  size: 512
+  date: '1999-12-31T23:59:58'
+  crc: '0xe3713583'
+- name: LOGDIR
+  size: 357
+  date: '1999-12-31T23:59:58'
+  crc: '0x783a63a1'
+- name: OBJECT
+  size: 312
+  date: '1999-12-31T23:59:58'
+  crc: '0x14b3c6ab'
+- name: PICDIR
+  size: 216
+  date: '1999-12-31T23:59:58'
+  crc: '0xe8103bdf'
+- name: SNDDIR
+  size: 87
+  date: '1999-12-31T23:59:58'
+  crc: '0x8491f9fc'
+- name: VIEWDIR
+  size: 549
+  date: '1999-12-31T23:59:58'
+  crc: '0xd5409a74'
+- name: VOL.0
+  size: 36317
+  date: '1999-12-31T23:59:58'
+  crc: '0xff6febf8'
+- name: VOL.1
+  size: 204646
+  date: '1999-12-31T23:59:58'
+  crc: '0xe6a85e67'
+- name: VOL.2
+  size: 145491
+  date: '1999-12-31T23:59:58'
+  crc: '0xac9b48f9'
+- name: WORDS.TOK
+  size: 171
+  date: '1999-12-31T23:59:58'
+  crc: '0xd2a71a7b'

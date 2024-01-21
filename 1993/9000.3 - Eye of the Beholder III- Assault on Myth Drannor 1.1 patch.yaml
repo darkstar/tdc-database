@@ -1,0 +1,44 @@
+filename: Eye of the Beholder III- Assault on Myth Drannor 1.1 patch (Installer) (1993)(Strategic Simulations, Inc.) [Role-Playing (RPG), Addon].zip
+tdc_id: '9000.3'
+title:
+  screen: 'Eye of the Beholder III: Assault on Myth Drannor 1.1 patch'
+  qualifier: Installer
+publisher: Strategic Simulations, Inc.
+year: '1993'
+genre:
+- Role-Playing (RPG)
+- Addon
+language: English
+date:
+  added: '2019-03-01T19:07:16'
+  last_modified: '2023-10-14T12:21:20'
+type: zip
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: BOOT.NFO
+  size: 26
+  date: '1993-08-03T10:05:00'
+  crc: '0xcaf7a8e1'
+- name: DATA1.ARJ
+  size: 1375008
+  date: '1993-08-03T10:10:04'
+  crc: '0x07fbf4f1'
+- name: DATA2.ARJ
+  size: 1071504
+  date: '1993-08-03T10:13:20'
+  crc: '0x4b1118b7'
+- name: DEARJ.EXE
+  size: 39441
+  date: '1993-03-19T10:18:52'
+  crc: '0x284b68d2'
+- name: INSTALL.EXE
+  size: 40655
+  date: '1993-08-03T09:34:18'
+  crc: '0x48f1af85'
+- name: INSTALL.NFO
+  size: 124
+  date: '1993-08-03T10:05:34'
+  crc: '0x2f56b3f7'

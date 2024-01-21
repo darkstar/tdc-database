@@ -1,0 +1,33 @@
+filename: Raptor- Call of the Shadows v1.2 (Installer) [SW][a1] (1994)(Apogee Software, Ltd.) [Action].zip
+tdc_id: '14741.17'
+title:
+  screen: 'Raptor: Call of the Shadows'
+publisher: Apogee Software, Ltd.
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-07-04T10:53:22'
+  last_modified: '2019-07-04T10:53:22'
+version: '1.2'
+type: zip
+tags:
+- Shareware
+- Alternate: 1
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 498
+  date: '1994-10-01T13:20:00'
+  crc: '0xdf12f541'
+- name: INSTALL.EXE
+  size: 142411
+  date: '1994-10-01T13:20:00'
+  crc: '0x6cc0ff4d'
+- name: RAPSW12.SHR
+  size: 1940248
+  date: '1994-10-01T13:20:00'
+  crc: '0x61f272d7'

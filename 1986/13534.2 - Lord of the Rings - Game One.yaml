@@ -1,0 +1,39 @@
+filename: Lord of the Rings - Game One (1986)(Melbourne House) [Adventure, Interactive Fiction].zip
+tdc_id: '13534.2'
+title:
+  box: Lord of the Rings - Game One
+publisher: Melbourne House
+year: '1986'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2024-01-18T16:33:04'
+  last_modified: '2024-01-18T16:33:04'
+type: zip
+commands:
+  play: FOR1.EXE
+references:
+  mobygames: https://www.mobygames.com/game/9460/the-fellowship-of-the-ring/
+files:
+- name: FOR1.EXE
+  size: 69168
+  date: '1986-09-09T00:00:00'
+  crc: '0x1baceaed'
+- name: FOR1.PIC
+  size: 128121
+  date: '1986-07-24T00:00:00'
+  crc: '0xe93ccf7a'
+- name: FOR2.EXE
+  size: 70416
+  date: '1986-09-09T00:00:00'
+  crc: '0x51f6edb1'
+- name: FOR2.PIC
+  size: 81065
+  date: '1986-08-18T00:00:00'
+  crc: '0xd1478c1c'
+- name: READ_ME
+  size: 1396
+  date: '1986-09-09T00:00:00'
+  crc: '0xe7759535'

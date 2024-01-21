@@ -1,0 +1,29 @@
+filename: Chimaera v1.001A (2003)(Nicholas Perre-Wetherall) [Adventure, Interactive Fiction].zip
+tdc_id: '9229.1'
+title:
+  screen: Chimaera
+publisher: Nicholas Perre-Wetherall
+year: '2003'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T10:56:26'
+  last_modified: '2019-03-02T10:56:26'
+version: 1.001A
+type: zip
+commands:
+  play: chimaera.exe
+references:
+  dosid: DOS00036
+  exodos: Chimaera (2002).zip
+files:
+- name: CWSDPMI.EXE
+  size: 20217
+  date: '1996-12-24T17:32:00'
+  crc: '0x6ba5fa62'
+- name: chimaera.exe
+  size: 202656
+  date: '1996-12-24T17:32:00'
+  crc: '0x2123d6a7'

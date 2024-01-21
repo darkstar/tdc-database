@@ -1,0 +1,55 @@
+filename: Combat Classics 3 (Installer) (1994)(Empire Interactive Europe Ltd.) [Simulation, Compilation].zip
+tdc_id: '17312.3'
+parent_id: '17312.2'
+title:
+  box: Combat Classics 3
+  qualifier: Installer
+publisher: Empire Interactive Europe Ltd.
+year: '1994'
+genre:
+- Simulation
+- Compilation
+language: English
+date:
+  added: '2023-04-13T16:50:11'
+  last_modified: '2023-04-13T16:50:11'
+type: zip
+media: 1.44M
+installer: true
+compilation: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/37305/combat-classics-3/
+files:
+- name: CAMPAIGN.CMP
+  size: 936929
+  date: '1994-11-24T12:28:12'
+  crc: '0x5f698ac6'
+- name: CLASSICS._3
+  size: 0
+  date: '1994-11-24T12:19:34'
+- name: GS2000_1.CMP
+  size: 300000
+  date: '1994-11-24T12:30:12'
+  crc: '0x4132f187'
+- name: GS2000_2.CMP
+  size: 1457664
+  date: '1994-11-24T12:30:12'
+  crc: '0x6e61b8a9'
+- name: GS2000_3.CMP
+  size: 616867
+  date: '1994-11-24T12:30:12'
+  crc: '0x21e0fe59'
+- name: INSTALL.EXE
+  size: 26009
+  date: '1994-11-21T17:51:56'
+  crc: '0x7ffdf0b2'
+- name: MENU.CMP
+  size: 15538
+  date: '1994-11-24T13:19:54'
+  crc: '0x44c55bc6'
+- name: WITG.CMP
+  size: 771054
+  date: '1994-11-24T12:30:50'
+  crc: '0x58e5429e'

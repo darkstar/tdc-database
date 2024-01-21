@@ -1,0 +1,32 @@
+filename: Archie the Cockroach [FW] (1982)(Ira Glickstein) [Action, Educational].zip
+tdc_id: '17246.0'
+title:
+  screen: Archie the Cockroach
+publisher: Ira Glickstein
+year: '1982'
+genre:
+- Action
+- Educational
+language: English
+date:
+  added: '2023-03-01T13:52:59'
+  last_modified: '2023-03-01T13:52:59'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: archie.bat
+files:
+- name: ARCHIE.BAS
+  size: 42624
+  date: '2022-07-04T21:50:58'
+  crc: '0xbccd9c63'
+- name: archie.bat
+  size: 14
+  date: '2023-02-11T05:38:54'
+  crc: '0x54e7a180'
+- name: gwbasic.exe
+  size: 80608
+  date: '1989-04-06T23:00:02'
+  crc: '0x2a44af39'

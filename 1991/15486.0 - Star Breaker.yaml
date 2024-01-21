@@ -1,0 +1,112 @@
+filename: Star Breaker (1991)(ARC) [Action].zip
+tdc_id: '15486.0'
+title:
+  box: Star Breaker
+publisher: ARC
+year: '1991'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:39:32'
+  last_modified: '2019-03-01T18:39:32'
+type: zip
+commands:
+  play: STARB.EXE
+references:
+  dosid: DOS06600
+  exodos: Star Breaker (1989).zip
+files:
+- name: BAC\
+  size: 0
+  date: '2011-06-09T10:44:28'
+- name: BAC\CHAR.DAT
+  size: 32000
+  date: '1991-12-01T15:03:28'
+  crc: '0xb00e3088'
+- name: BAC\INTRO.PCK
+  size: 32000
+  date: '1991-11-09T07:35:32'
+  crc: '0x495a4f3b'
+- name: BAC\INTRO.VVP
+  size: 32000
+  date: '1991-12-03T06:35:32'
+  crc: '0xab9ec9bf'
+- name: BAC\SHIP.PCK
+  size: 32000
+  date: '1991-12-04T04:19:26'
+  crc: '0x739ab41d'
+- name: BAC\SHIP.VVP
+  size: 32000
+  date: '1991-11-15T04:25:22'
+  crc: '0x895d13c6'
+- name: BKGRD.X
+  size: 11520
+  date: '1991-11-10T10:37:02'
+  crc: '0x87030ddd'
+- name: BLKS.X
+  size: 32512
+  date: '1991-11-29T11:03:28'
+  crc: '0x7351bcaa'
+- name: CGAMODE.X
+  size: 28528
+  date: '1991-11-22T23:21:00'
+  crc: '0xdbee0938'
+- name: GRAFIX\
+  size: 0
+  date: '2011-06-09T10:44:28'
+- name: GRAFIX\CGAMODE.EXE
+  size: 28528
+  date: '1991-11-01T23:21:00'
+  crc: '0xdbee0938'
+- name: GRAFIX\VGAMODE.EXE
+  size: 57570
+  date: '1991-11-24T21:09:00'
+  crc: '0x08021604'
+- name: HISCORES
+  size: 144
+  date: '1991-11-05T19:53:50'
+  crc: '0x09d7e135'
+- name: IN1.X
+  size: 32000
+  date: '1991-11-12T06:35:32'
+  crc: '0xab9ec9bf'
+- name: IN2.X
+  size: 32000
+  date: '1991-11-12T07:35:32'
+  crc: '0x495a4f3b'
+- name: LOGO.X
+  size: 32000
+  date: '1991-11-18T15:03:28'
+  crc: '0xb00e3088'
+- name: MAN.X
+  size: 32000
+  date: '1991-11-17T04:25:22'
+  crc: '0x895d13c6'
+- name: MASK.X
+  size: 28528
+  date: '1991-11-21T00:06:22'
+  crc: '0xb9563614'
+- name: MUSIC.RLA
+  size: 11652
+  date: '1991-11-05T16:31:44'
+  crc: '0xdc89e68f'
+- name: OUT.X
+  size: 32000
+  date: '1991-11-19T04:19:26'
+  crc: '0x739ab41d'
+- name: STARB.EXE
+  size: 45286
+  date: '1991-11-03T09:29:22'
+  crc: '0x95df6e66'
+- name: STAT.X
+  size: 32000
+  date: '1991-11-17T01:02:00'
+  crc: '0xed205e53'
+- name: TITLE.X
+  size: 32000
+  date: '1991-11-23T02:28:02'
+  crc: '0xb661da19'
+- name: VGAMODE.X
+  size: 57570
+  date: '1991-11-01T21:09:00'
+  crc: '0x08021604'

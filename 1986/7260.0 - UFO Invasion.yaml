@@ -1,0 +1,32 @@
+filename: UFO Invasion (1986)(Anonymous) [Action].zip
+tdc_id: '7260.0'
+title:
+  screen: UFO Invasion
+publisher: Anonymous
+year: '1986'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:25:02'
+  last_modified: '2019-03-01T18:25:02'
+type: zip
+media: Download
+commands:
+  play: PLAY.BAT
+files:
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1991-01-31T13:17:34'
+  crc: '0x2a44af39'
+- name: PLAY.BAT
+  size: 14
+  date: '2016-08-15T21:19:54'
+  crc: '0x073ab11c'
+- name: UFO.BAS
+  size: 5017
+  date: '1986-05-03T11:30:24'
+  crc: '0x36ea60d1'
+- name: UFO.DOC
+  size: 3785
+  date: '1986-05-03T12:43:56'
+  crc: '0x1f7d0f29'

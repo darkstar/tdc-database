@@ -1,0 +1,35 @@
+filename: SerpentHead Deluxe (Installer) [SW] (1997)(SerpentHead Software) [Adventure].zip
+tdc_id: '5875.0'
+title:
+  screen: SerpentHead Deluxe
+publisher: SerpentHead Software
+year: '1997'
+genre: Adventure
+language: English
+date:
+  added: '2019-01-28T10:11:58'
+  last_modified: '2019-01-28T10:11:58'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 360
+  date: '1997-09-22T10:10:56'
+  crc: '0x07bd5a76'
+- name: INSTALL.EXE
+  size: 50492
+  date: '1997-09-11T13:34:14'
+  crc: '0xc69b28bb'
+- name: README.TXT
+  size: 1998
+  date: '1997-08-29T23:39:52'
+  crc: '0xe7417149'
+- name: SERP1.~
+  size: 2738164
+  date: '1997-09-11T22:36:14'
+  crc: '0xcd389429'

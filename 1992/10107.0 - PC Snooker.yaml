@@ -1,0 +1,31 @@
+filename: PC Snooker v0.2 [SW] (1992)(Stephen Haigh) [Action].zip
+tdc_id: '10107.0'
+title:
+  screen: PC Snooker
+publisher: Stephen Haigh
+year: '1992'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:49:54'
+  last_modified: '2019-03-01T18:49:54'
+version: '0.2'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: SNOOKER.EXE
+files:
+- name: SNOOKER.DAT
+  size: 48514
+  date: '2018-02-12T11:23:48'
+  crc: '0xeb077f32'
+- name: SNOOKER.DOC
+  size: 5197
+  date: '1992-01-01T00:00:00'
+  crc: '0xf560df3e'
+- name: SNOOKER.EXE
+  size: 89944
+  date: '2018-02-13T10:16:32'
+  crc: '0xa58e2783'

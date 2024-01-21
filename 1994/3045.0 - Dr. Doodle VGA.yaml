@@ -1,0 +1,63 @@
+filename: Dr. Doodle VGA v1.2 [SW] (1994)(Tim L Winkfein) [Educational].zip
+tdc_id: '3045.0'
+title:
+  screen: Dr. Doodle VGA
+publisher: Tim L Winkfein
+year: '1994'
+genre: Educational
+language: English
+date:
+  added: '2019-01-18T13:53:38'
+  last_modified: '2019-01-18T13:53:38'
+version: '1.2'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: DRDOODLE.EXE
+files:
+- name: ALF.MOD
+  size: 119138
+  date: '1993-07-16T06:47:22'
+  crc: '0x73c76692'
+- name: DRDOODLE.EXE
+  size: 160736
+  date: '1994-08-11T12:00:00'
+  crc: '0xac2cc109'
+- name: DUMP_000.PCX
+  size: 32928
+  date: '1994-11-02T13:25:48'
+  crc: '0x1c536d00'
+- name: FILE_ID.DIZ
+  size: 404
+  date: '1994-08-11T12:00:00'
+  crc: '0xfb623884'
+- name: MYPIC_01.DOO
+  size: 11294
+  date: '1994-08-11T12:00:00'
+  crc: '0x86092507'
+- name: MYPIC_02.DOO
+  size: 18097
+  date: '1994-08-11T12:00:00'
+  crc: '0xf4eb97eb'
+- name: MYPIC_03.DOO
+  size: 8885
+  date: '1994-08-11T12:00:00'
+  crc: '0xbbe0ccc0'
+- name: MYPIC_04.DOO
+  size: 8177
+  date: '1994-08-11T12:00:00'
+  crc: '0x69825c42'
+- name: ORDER.FRM
+  size: 2077
+  date: '1994-08-11T12:00:00'
+  crc: '0xd2ed6105'
+- name: README.TXT
+  size: 6337
+  date: '1994-08-11T12:00:00'
+  crc: '0x800cf8a0'
+- name: UPDATES.TXT
+  size: 512
+  date: '1994-08-11T12:00:00'
+  crc: '0xc0268ace'

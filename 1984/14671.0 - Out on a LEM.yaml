@@ -1,0 +1,26 @@
+filename: Out on a LEM (1984)(Jeff Bretz, John Clark Craig) [Action].zip
+tdc_id: '14671.0'
+title:
+  screen: Out on a LEM
+publisher: Jeff Bretz, John Clark Craig
+year: '1984'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:12'
+  last_modified: '2019-03-01T18:24:12'
+type: zip
+commands:
+  play: LEM.EXE
+references:
+  dosid: DOS06188
+  exodos: Out on a LEM (1984).zip
+files:
+- name: LEM.EXE
+  size: 32384
+  date: '1980-01-01T00:51:56'
+  crc: '0x589f8e3b'
+- name: OUTLEM.BAS
+  size: 9103
+  date: '1980-01-01T12:49:04'
+  crc: '0x9f0c51a9'

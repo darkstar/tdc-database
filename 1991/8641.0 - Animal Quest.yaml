@@ -1,0 +1,64 @@
+filename: Animal Quest v1.0 [SW] (1991)(Alive Software) [Educational, Simulation].zip
+tdc_id: '8641.0'
+title:
+  screen: Animal Quest
+publisher: Alive Software
+year: '1991'
+genre:
+- Educational
+- Simulation
+language: English
+date:
+  added: '2019-03-01T18:34:50'
+  last_modified: '2022-12-20T11:14:40'
+version: '1.0'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: AQ.EXE
+  setup: SETUPAQ.EXE
+references:
+  mobygames: https://www.mobygames.com/game/animal-quest
+files:
+- name: ALIVE.DOC
+  size: 12485
+  date: '1991-12-01T12:00:06'
+  crc: '0x6dd338fb'
+- name: AQ.DOC
+  size: 14331
+  date: '1991-12-01T01:00:00'
+  crc: '0x9533a7bd'
+- name: AQ.EXE
+  size: 71270
+  date: '1991-12-01T01:00:00'
+  crc: '0x4e16c4e8'
+- name: AQ.GGL
+  size: 61502
+  date: '1991-12-01T01:00:00'
+  crc: '0xf8c8ca0e'
+- name: AQ.LST
+  size: 64
+  date: '1991-12-01T01:00:00'
+  crc: '0x8d416d81'
+- name: FOREST.GDL
+  size: 13199
+  date: '1991-12-01T01:00:00'
+  crc: '0xbe263949'
+- name: FOREST.GGL
+  size: 130171
+  date: '1991-12-01T01:00:00'
+  crc: '0xb2204b5c'
+- name: ORDER.DOC
+  size: 4108
+  date: '1991-12-01T12:00:06'
+  crc: '0xfd922e71'
+- name: README.DOC
+  size: 3059
+  date: '1991-12-01T01:00:00'
+  crc: '0xfc479bc9'
+- name: SETUPAQ.EXE
+  size: 25596
+  date: '1991-12-01T01:00:00'
+  crc: '0xc0209e57'

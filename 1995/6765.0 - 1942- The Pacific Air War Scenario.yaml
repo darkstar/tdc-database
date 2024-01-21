@@ -1,0 +1,54 @@
+filename: 1942- The Pacific Air War Scenario (Installer) (1995)(MicroProse Software, Inc.) [Simulation, Addon].zip
+tdc_id: '6765.0'
+title:
+  box: '1942: The Pacific Air War Scenario'
+publisher: MicroProse Software, Inc.
+year: '1995'
+genre:
+- Simulation
+- Addon
+language: English
+date:
+  added: '2019-03-02T07:27:14'
+  last_modified: '2019-03-02T07:27:14'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: '1942.001'
+  size: 1341354
+  date: '1994-12-28T15:16:52'
+  crc: '0x9b073997'
+- name: '1942.002'
+  size: 1457374
+  date: '1994-12-28T15:18:38'
+  crc: '0x1d71a30f'
+- name: '1942.003'
+  size: 1273080
+  date: '1994-12-28T15:19:48'
+  crc: '0x21e5d398'
+- name: BOOTDISK.EXE
+  size: 26874
+  date: '1994-12-28T15:14:58'
+  crc: '0x7e0839fc'
+- name: INSTALL.EXE
+  size: 57803
+  date: '1994-12-28T15:14:54'
+  crc: '0x5d44fb5d'
+- name: INSTALL.INF
+  size: 4617
+  date: '1994-12-28T15:14:56'
+  crc: '0xe8da1496'
+- name: MPSLABS.IDX
+  size: 3264
+  date: '1994-12-28T15:20:04'
+  crc: '0x6afc5975'
+- name: README.NOW
+  size: 4329
+  date: '1994-12-28T15:14:58'
+  crc: '0x6e7b696a'
+- name: README.TXT
+  size: 17793
+  date: '1994-12-28T15:15:00'
+  crc: '0x5dcdbf53'

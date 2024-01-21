@@ -1,0 +1,39 @@
+filename: DOOM v1.9 (Installer) [SW] (1995)(id Software, Inc.) [Action].zip
+tdc_id: '9454.50'
+parent_id: '9454.51'
+title:
+  screen: DOOM
+publisher: id Software, Inc.
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T08:43:30'
+  last_modified: '2019-03-02T08:43:30'
+version: '1.9'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+files:
+- name: DEICE.EXE
+  size: 17303
+  date: '1995-02-02T01:23:00'
+  crc: '0xaad4552c'
+- name: DOOMS_19.1
+  size: 1439232
+  date: '1995-02-02T01:24:00'
+  crc: '0xb208c1e0'
+- name: DOOMS_19.2
+  size: 994588
+  date: '1995-02-02T01:24:50'
+  crc: '0x7d7d90d2'
+- name: DOOMS_19.DAT
+  size: 226
+  date: '1995-02-02T01:23:00'
+  crc: '0xd0d4d65c'
+- name: INSTALL.BAT
+  size: 184
+  date: '1995-02-03T18:13:38'
+  crc: '0x69922e28'

@@ -1,0 +1,50 @@
+filename: Tom & Jerry- Yankee Doodle's CAT-astrophe r901002 (1990)(Hi-Tech Expressions, Inc.) [Action].zip
+tdc_id: '6972.0'
+parent_id: '6972.3'
+title:
+  box: 'Tom & Jerry: Yankee Doodle''s CAT-astrophe'
+  screen: 'Tom & Jerry: CAT-astrophe'
+publisher: Hi-Tech Expressions, Inc.
+year: '1990'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:34:18'
+  last_modified: '2023-07-15T18:17:21'
+release: '901002'
+type: zip
+commands:
+  play: TJ.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1662/tom-jerry-yankee-doodles-cat-astrophe/
+  dosid: DOS05169
+  exodos: Tom and Jerry Cat-astrophe (1990).zip
+files:
+- name: BIG.CMP
+  size: 62907
+  date: '1990-09-28T13:12:28'
+  crc: '0x0e26c292'
+- name: COMNDR
+  size: 256
+  date: '1980-09-08T08:53:26'
+  crc: '0xa33b3b3e'
+- name: FSCREEN.LBM
+  size: 59062
+  date: '1990-09-28T16:07:58'
+  crc: '0x7a32abcc'
+- name: OBJECT.DAT
+  size: 19557
+  date: '1990-09-23T13:01:40'
+  crc: '0x4969a691'
+- name: SCREENS.DAT
+  size: 68198
+  date: '1990-09-29T12:10:46'
+  crc: '0x065b7488'
+- name: SPRITE.CMP
+  size: 92715
+  date: '1990-10-01T16:05:00'
+  crc: '0x792182e2'
+- name: TJ.EXE
+  size: 47885
+  date: '1990-10-02T11:21:02'
+  crc: '0xd0ef2e49'

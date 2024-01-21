@@ -1,0 +1,50 @@
+filename: Striker v1.2 [SW][f1] (1985)(Derek Williams) [Action].zip
+tdc_id: '5372.1'
+title:
+  screen: Striker
+publisher: Derek Williams
+year: '1985'
+genre: Action
+language: English
+date:
+  added: '2024-01-18T13:02:57'
+  last_modified: '2024-01-18T13:02:57'
+version: '1.2'
+type: zip
+tags:
+- Shareware
+- Fixed: 1
+media: Download
+commands:
+  play: STRIKER.EXE
+references:
+  mobygames: https://www.mobygames.com/game/33720/striker/
+files:
+- name: HIGHSCOR.DAT
+  size: 512
+  date: '1988-11-13T00:00:20'
+  crc: '0xe9a496cc'
+- name: MISFAC.DAT
+  size: 1536
+  date: '1980-01-01T09:56:48'
+  crc: '0x79b770a2'
+- name: STRIKER.DOC
+  size: 13519
+  date: '1980-01-01T09:56:54'
+  crc: '0xf45ee493'
+- name: STRIKER.EXE
+  size: 67285
+  date: '1989-02-19T20:45:02'
+  crc: '0xdf879925'
+- name: STRKLOGO.DAT
+  size: 6144
+  date: '1980-01-01T09:57:14'
+  crc: '0x291473a6'
+- name: STRKPARM.DAT
+  size: 512
+  date: '1988-08-26T00:00:34'
+  crc: '0xeff860a7'
+- name: TUNNELS.DAT
+  size: 49152
+  date: '1980-01-01T09:57:20'
+  crc: '0x50df6600'

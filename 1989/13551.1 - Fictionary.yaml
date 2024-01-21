@@ -1,0 +1,43 @@
+filename: Fictionary v1.32 [SW] (1989)(Steve Estvanik) [Strategy].zip
+tdc_id: '13551.1'
+title:
+  screen: Fictionary
+publisher: Steve Estvanik
+year: '1989'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:27:46'
+  last_modified: '2019-03-01T18:27:46'
+version: '1.32'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: FICT.EXE
+files:
+- name: FICT.DOC
+  size: 1904
+  date: '1990-04-30T13:47:38'
+  crc: '0x0f7c848d'
+- name: FICT.EXE
+  size: 84369
+  date: '1990-04-30T11:35:48'
+  crc: '0x1fad366d'
+- name: FICT.SCR
+  size: 4000
+  date: '1990-04-30T11:37:32'
+  crc: '0xf9a428e1'
+- name: README.LST
+  size: 4477
+  date: '1990-04-30T11:56:30'
+  crc: '0xf2a60bff'
+- name: REGISTER.FRM
+  size: 1386
+  date: '1990-04-30T11:58:10'
+  crc: '0x77282b7c'
+- name: WORD1.DAT
+  size: 24528
+  date: '1990-04-11T16:40:54'
+  crc: '0xb45e948c'

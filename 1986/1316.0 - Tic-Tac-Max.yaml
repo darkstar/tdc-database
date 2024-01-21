@@ -1,0 +1,27 @@
+filename: Tic-Tac-Max (1986)(John Anderzon) [Strategy].zip
+tdc_id: '1316.0'
+title:
+  screen: Tic-Tac-Max
+publisher: John Anderzon
+year: '1986'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:25:00'
+  last_modified: '2019-03-01T18:25:00'
+type: zip
+commands:
+  play: GO.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: GO.BAT
+  size: 18
+  date: '2018-12-08T21:00:28'
+  crc: '0xcddcb9ae'
+- name: TTM.BAS
+  size: 8336
+  date: '1980-01-02T00:03:38'
+  crc: '0x059db38e'

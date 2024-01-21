@@ -1,0 +1,33 @@
+filename: Gemini-2 [SW] (1986)(Paragon Software Corporation) [Action].zip
+tdc_id: '13987.0'
+title:
+  screen: Gemini-2
+publisher: Paragon Software Corporation
+year: '1986'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:46'
+  last_modified: '2019-03-01T18:24:46'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: GEMINI2.EXE
+references:
+  dosid: DOS02386
+  exodos: Gemini-2 (1986).zip
+files:
+- name: GEMINI2.DOC
+  size: 9216
+  date: '1986-09-10T20:45:54'
+  crc: '0x4c79ea8b'
+- name: GEMINI2.EXE
+  size: 98656
+  date: '1986-09-09T00:16:34'
+  crc: '0xa3f5c12a'
+- name: GEMINI2.SCN
+  size: 16392
+  date: '1986-08-31T13:58:36'
+  crc: '0x29d2e141'

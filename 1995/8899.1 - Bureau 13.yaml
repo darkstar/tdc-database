@@ -1,0 +1,49 @@
+filename: Bureau 13 v1.01 (Installer) (1995)(GameTek, Inc.) [Adventure].zip
+tdc_id: '8899.1'
+title:
+  box: Bureau 13
+publisher: GameTek, Inc.
+year: '1995'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-02T07:30:46'
+  last_modified: '2019-03-02T07:30:46'
+version: '1.01'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: CRACK.ZIP
+  size: 114675
+  date: '2015-12-22T15:17:30'
+  crc: '0x9e0d28cd'
+- name: DISK1.NSP
+  size: 1441280
+  date: '1995-02-22T10:47:10'
+  crc: '0xf99c45e3'
+- name: DISK2.NSP
+  size: 1457664
+  date: '1995-02-21T16:09:30'
+  crc: '0x0a2fffa3'
+- name: DISK3.NSP
+  size: 1457664
+  date: '1995-02-21T16:10:38'
+  crc: '0x221c2c6f'
+- name: DISK4.NSP
+  size: 1457664
+  date: '1995-02-21T16:11:44'
+  crc: '0xd273bb9f'
+- name: DISK5.NSP
+  size: 1457664
+  date: '1995-02-21T16:12:50'
+  crc: '0x5418c187'
+- name: DISK6.NSP
+  size: 1268090
+  date: '1995-10-29T17:15:18'
+  crc: '0x67062091'
+- name: INSTALL.EXE
+  size: 16140
+  date: '1995-10-29T17:05:18'
+  crc: '0xd4ccce12'

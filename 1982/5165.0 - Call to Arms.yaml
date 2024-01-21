@@ -1,0 +1,97 @@
+filename: Call to Arms (1982)(Sirius Software, Inc.) [Strategy, War].zip
+tdc_id: '5165.0'
+title:
+  screen: Call to Arms
+publisher: Sirius Software, Inc.
+year: '1982'
+genre:
+- Strategy
+- War
+language: English
+date:
+  added: '2019-03-01T18:22:56'
+  last_modified: '2019-03-01T18:22:56'
+type: zip
+media: Download
+commands:
+  play: play.bat
+references:
+  dosid: DOS01240
+  exodos: Call to Arms (1982).zip
+files:
+- name: COVER.SCN
+  size: 16512
+  date: '1982-01-01T00:00:00'
+  crc: '0x8272cfc5'
+- name: CTA.BAS
+  size: 1408
+  date: '2000-02-10T12:43:24'
+  crc: '0x03a2ab49'
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1989-04-07T00:00:02'
+  crc: '0x2a44af39'
+- name: HALLS.BAS
+  size: 384
+  date: '2000-02-10T12:43:24'
+  crc: '0x9080251b'
+- name: LOADMAP.BAS
+  size: 8448
+  date: '2000-02-10T12:43:16'
+  crc: '0x06d6cfdc'
+- name: MAP1.A
+  size: 16512
+  date: '1982-03-07T00:00:00'
+  crc: '0x1ab3a66c'
+- name: MAP1.B
+  size: 16512
+  date: '1982-03-07T00:00:00'
+  crc: '0x98f8d122'
+- name: MAP1.BAS
+  size: 3456
+  date: '2000-02-10T12:43:18'
+  crc: '0x94e7dc70'
+- name: MAP1.C
+  size: 16512
+  date: '1982-03-14T00:00:00'
+  crc: '0x74bf99c2'
+- name: MAP1.MAP
+  size: 512
+  date: '1982-03-07T00:00:00'
+  crc: '0x854775cd'
+- name: MAP1.SAV
+  size: 384
+  date: '1997-07-23T21:44:46'
+  crc: '0x4e436fcf'
+- name: MAP2.A
+  size: 16512
+  date: '1982-03-23T00:00:00'
+  crc: '0x196b9cd2'
+- name: MAP2.B
+  size: 16512
+  date: '1982-03-23T00:00:00'
+  crc: '0xadbf2880'
+- name: MAP2.BAS
+  size: 3456
+  date: '2000-02-10T12:43:18'
+  crc: '0xdf441bc2'
+- name: MAP2.C
+  size: 16512
+  date: '1982-07-17T02:49:40'
+  crc: '0x6caba9a0'
+- name: MAP2.MAP
+  size: 384
+  date: '1980-01-01T00:00:00'
+  crc: '0xb964945a'
+- name: MAP2.SAV
+  size: 384
+  date: '1980-01-01T00:20:36'
+  crc: '0x48b861b5'
+- name: PLAY.BAS
+  size: 20096
+  date: '2000-02-10T12:43:16'
+  crc: '0x5aa3cc3f'
+- name: play.bat
+  size: 11
+  date: '2009-11-22T12:28:08'
+  crc: '0x6413742f'

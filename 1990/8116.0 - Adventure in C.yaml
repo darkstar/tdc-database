@@ -1,0 +1,117 @@
+filename: Adventure in C (1990)(Bob Withers) [Adventure, Interactive Fiction].zip
+tdc_id: '8116.0'
+title:
+  screen: Adventure in C
+publisher: Bob Withers
+year: '1990'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:31:44'
+  last_modified: '2019-03-01T18:31:44'
+type: zip
+commands:
+  play: ADVENT.EXE
+files:
+- name: ADVENT.C
+  size: 3697
+  date: '1990-06-02T08:29:48'
+  crc: '0xdfa3dc90'
+- name: ADVENT.EXE
+  size: 77964
+  date: '1990-06-02T08:58:08'
+  crc: '0x5737f532'
+- name: ADVENT.H
+  size: 13788
+  date: '1990-05-05T09:25:32'
+  crc: '0xb7f8c15c'
+- name: ADVENT.MAP
+  size: 1915
+  date: '1990-06-02T08:57:50'
+  crc: '0x50289b1a'
+- name: ADVENT.MK
+  size: 369
+  date: '1990-05-13T08:09:08'
+  crc: '0xd6d0948a'
+- name: ADVENT.OBJ
+  size: 3510
+  date: '1990-06-02T08:38:16'
+  crc: '0x2698c1e0'
+- name: ADVENTDB.C
+  size: 96889
+  date: '1990-05-13T09:48:32'
+  crc: '0xd7236efb'
+- name: ADVENTDB.OBJ
+  size: 55799
+  date: '1990-06-02T08:57:24'
+  crc: '0x30089783'
+- name: CATALOG.DOC
+  size: 955
+  date: '1990-06-02T08:27:00'
+  crc: '0x9dd191b7'
+- name: CG159-0I.002
+  size: 1
+  date: '1980-01-01T01:14:16'
+  crc: '0x2f6016f7'
+- name: DATABASE.C
+  size: 6379
+  date: '1990-05-17T19:09:30'
+  crc: '0xaca6fc6d'
+- name: DATABASE.OBJ
+  size: 2937
+  date: '1990-06-02T08:40:38'
+  crc: '0x6c732651'
+- name: ENGLISH.C
+  size: 3049
+  date: '1990-05-05T08:02:12'
+  crc: '0x1354cb85'
+- name: ENGLISH.OBJ
+  size: 1364
+  date: '1990-06-02T08:46:44'
+  crc: '0xe8fabe82'
+- name: ENVIRON.DOC
+  size: 5094
+  date: '1990-06-02T08:32:12'
+  crc: '0x669a5e2d'
+- name: HISTORY.DOC
+  size: 2947
+  date: '1990-06-02T08:35:42'
+  crc: '0x7f9ec8dd'
+- name: ITVERB.C
+  size: 5171
+  date: '1990-05-17T19:11:02'
+  crc: '0x1df40f19'
+- name: ITVERB.OBJ
+  size: 2740
+  date: '1990-06-02T08:54:16'
+  crc: '0x01c6f201'
+- name: SAVEADV.C
+  size: 1268
+  date: '1990-05-05T08:05:16'
+  crc: '0x8df8e7f6'
+- name: SAVEADV.OBJ
+  size: 898
+  date: '1990-06-02T08:55:04'
+  crc: '0x0f58d8e8'
+- name: SUBMIT.DSK
+  size: 3692
+  date: '1991-09-04T10:40:18'
+  crc: '0x9373bd6f'
+- name: TURN.C
+  size: 16748
+  date: '1990-05-17T19:15:58'
+  crc: '0xb1eb320e'
+- name: TURN.OBJ
+  size: 8169
+  date: '1990-06-02T08:52:30'
+  crc: '0x1ba3607b'
+- name: VERB.C
+  size: 15713
+  date: '1990-05-05T08:11:12'
+  crc: '0xebe1372c'
+- name: VERB.OBJ
+  size: 7334
+  date: '1990-06-02T08:45:16'
+  crc: '0xd0290554'

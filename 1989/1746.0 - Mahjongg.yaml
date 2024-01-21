@@ -1,0 +1,30 @@
+filename: Mahjongg (1989)(Paul Frattaroli) [Strategy].zip
+tdc_id: '1746.0'
+title:
+  screen: Mahjongg
+publisher: Paul Frattaroli
+year: '1989'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:28:18'
+  last_modified: '2019-03-01T18:28:18'
+type: zip
+commands:
+  play: MAHJONGG.EXE
+references:
+  dosid: DOS08019
+  exodos: Mahjongg (1989).zip
+files:
+- name: MAHJONGG.EXE
+  size: 75926
+  date: '1989-11-03T17:10:32'
+  crc: '0x4b7e0e96'
+- name: MAHJONGG.MAN
+  size: 4340
+  date: '1989-11-03T17:46:06'
+  crc: '0xe3f425bd'
+- name: README
+  size: 2048
+  date: '1990-04-29T04:14:04'
+  crc: '0x2e7b1fb0'

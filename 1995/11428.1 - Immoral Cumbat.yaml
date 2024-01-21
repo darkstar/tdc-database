@@ -1,0 +1,79 @@
+filename: Immoral Cumbat v1.2 [SWR] (1995)(Coresoft) [Action, Adult].zip
+tdc_id: '11428.1'
+title:
+  screen: Immoral Cumbat
+publisher: Coresoft
+year: '1995'
+genre:
+- Action
+- Adult
+language: English
+date:
+  added: '2019-03-02T08:55:46'
+  last_modified: '2019-03-02T08:55:46'
+version: '1.2'
+type: zip
+tags:
+- SharewareRegistered
+commands:
+  play: CUMBAT.EXE
+references:
+  dosid: DOS00265
+  exodos: Immoral Cumbat (1995).zip
+files:
+- name: COMPILE.MAP
+  size: 368640
+  date: '2007-07-22T15:02:44'
+  crc: '0x80b6754c'
+- name: CONFIG.GAM
+  size: 282
+  date: '2007-07-22T15:02:44'
+  crc: '0xbef05085'
+- name: CUMBAT.EXE
+  size: 206320
+  date: '2007-07-22T15:02:28'
+  crc: '0x518ac3bc'
+- name: CUMBAT.INI
+  size: 1562
+  date: '2007-07-22T15:02:28'
+  crc: '0xa99befed'
+- name: FILE.LST
+  size: 1298
+  date: '2007-07-22T15:02:44'
+  crc: '0x26f0e3db'
+- name: HELP.TXT
+  size: 23504
+  date: '2007-07-22T15:02:44'
+  crc: '0xcca87b2f'
+- name: IMAGE.RDL
+  size: 4328830
+  date: '2007-07-22T15:02:44'
+  crc: '0x827e1b5f'
+- name: MISC.RDL
+  size: 490597
+  date: '2007-07-22T15:02:32'
+  crc: '0x9b412f12'
+- name: README.TXT
+  size: 652
+  date: '2007-07-22T15:02:24'
+  crc: '0x643ac9ee'
+- name: ROOM.INF
+  size: 21510
+  date: '2007-07-22T15:02:44'
+  crc: '0x4e57f953'
+- name: SOUND.RDL
+  size: 486120
+  date: '2007-07-22T15:02:32'
+  crc: '0xe8ca726a'
+- name: SPRITE.INF
+  size: 268548
+  date: '2007-07-22T15:02:44'
+  crc: '0xdeec62d1'
+- name: TEXTURE.INF
+  size: 74408
+  date: '2007-07-22T15:02:44'
+  crc: '0x25a9988a'
+- name: TEXTURED.SPR
+  size: 6730
+  date: '2007-07-22T15:02:44'
+  crc: '0x60498b79'

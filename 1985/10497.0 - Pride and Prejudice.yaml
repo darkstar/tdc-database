@@ -1,0 +1,26 @@
+filename: Pride and Prejudice (1985)(Jim Baen Software) [Simulation].zip
+tdc_id: '10497.0'
+title:
+  screen: Pride and Prejudice
+publisher: Jim Baen Software
+year: '1985'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:24:32'
+  last_modified: '2019-03-01T18:24:32'
+type: zip
+commands:
+  play: PRIDE.EXE
+references:
+  dosid: DOS16086
+  exodos: Pride and Prejudice (1985).zip
+files:
+- name: PRIDE.BAS
+  size: 34816
+  date: '1984-10-15T09:55:02'
+  crc: '0x85c96f30'
+- name: PRIDE.EXE
+  size: 61184
+  date: '1984-10-14T13:44:22'
+  crc: '0xe409b328'

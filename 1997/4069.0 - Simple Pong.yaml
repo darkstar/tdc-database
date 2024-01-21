@@ -1,0 +1,39 @@
+filename: Simple Pong (1997)(Cam Spowart, Andrew Below) [Action].zip
+tdc_id: '4069.0'
+title:
+  screen: Simple Pong
+publisher: Cam Spowart, Andrew Below
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:37:50'
+  last_modified: '2019-03-02T10:37:50'
+type: zip
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 23
+  date: '2018-06-29T00:54:32'
+  crc: '0xf0b2c529'
+- name: PONG.BAS
+  size: 9107
+  date: '2018-03-10T02:21:28'
+  crc: '0xfb6db25e'
+- name: QB.BI
+  size: 2005
+  date: '2016-03-13T02:19:44'
+  crc: '0x3c41bdf3'
+- name: QB.EXE
+  size: 278804
+  date: '2016-03-13T02:19:58'
+  crc: '0xb08bc0fe'
+- name: QB.LIB
+  size: 2075
+  date: '2016-03-13T02:20:46'
+  crc: '0xaf756407'
+- name: QB.QLB
+  size: 5822
+  date: '2016-03-13T02:20:46'
+  crc: '0x5f7d93e0'

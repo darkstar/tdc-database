@@ -1,0 +1,43 @@
+filename: Games People Play- Gin, Cribbage, Checkers, and Backgammon, The (Installer) (1990)(Software Toolworks, Inc., The) [Strategy, Cards, Board, Compilation].zip
+tdc_id: '13945.0'
+title:
+  box: 'The Games People Play: Gin, Cribbage, Checkers, and Backgammon'
+publisher: Software Toolworks, Inc., The
+year: '1990'
+genre:
+- Strategy
+- Cards
+- Board
+- Compilation
+language: English
+date:
+  added: '2019-03-01T18:32:42'
+  last_modified: '2023-01-31T13:20:59'
+type: zip
+installer: true
+compilation: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/games-people-play-gin-cribbage-checkers-backgammon
+files:
+- name: BG.TZF
+  size: 214745
+  date: '1990-06-29T17:07:32'
+  crc: '0xa0d4221e'
+- name: CG.TZF
+  size: 315442
+  date: '1990-06-29T16:01:08'
+  crc: '0xd5ab6778'
+- name: CK.TZF
+  size: 165389
+  date: '1990-06-29T16:03:22'
+  crc: '0x07226174'
+- name: CK_PIC.TZF
+  size: 51429
+  date: '1990-06-29T16:03:22'
+  crc: '0x0e9153c1'
+- name: INSTALL.EXE
+  size: 56158
+  date: '1990-06-29T17:07:32'
+  crc: '0x118c8d9e'

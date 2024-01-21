@@ -1,0 +1,29 @@
+filename: Space Dude 2 v3.117 (1997)(Jason Interactive) [Action].zip
+tdc_id: '4077.0'
+title:
+  screen: Space Dude 2
+publisher: Jason Interactive
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:37:56'
+  last_modified: '2019-03-02T10:37:56'
+version: '3.117'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 25
+  date: '2018-11-18T23:05:24'
+  crc: '0x8c262cf0'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'
+- name: SPACE.BAS
+  size: 11468
+  date: '1998-05-03T16:03:22'
+  crc: '0x96656b7c'

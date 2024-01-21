@@ -1,0 +1,66 @@
+filename: MinTris v0.01 (1996)(Min S. Kwon) [Strategy, Action].zip
+tdc_id: '336.0'
+title:
+  screen: MinTris
+publisher: Min S. Kwon
+year: '1996'
+genre:
+- Strategy
+- Action
+language: English
+date:
+  added: '2019-03-02T10:13:22'
+  last_modified: '2022-10-26T14:40:51'
+version: '0.01'
+type: zip
+commands:
+  play: MINTRIS.EXE
+files:
+- name: 1.DAT
+  size: 22831
+  date: '1996-03-22T14:52:42'
+  crc: '0x1c8794ae'
+- name: 2.DAT
+  size: 47220
+  date: '1996-03-22T14:52:32'
+  crc: '0xb9ab7a67'
+- name: 3.DAT
+  size: 12457
+  date: '1996-03-23T15:02:16'
+  crc: '0x203fd9ad'
+- name: 4.DAT
+  size: 19388
+  date: '1996-03-23T15:02:32'
+  crc: '0x0efaf7f2'
+- name: 5.DAT
+  size: 53504
+  date: '1996-03-22T14:49:36'
+  crc: '0xe21d99a1'
+- name: 6.DAT
+  size: 40132
+  date: '1996-03-22T14:49:28'
+  crc: '0x2cef8a8d'
+- name: 7.DAT
+  size: 19117
+  date: '1996-03-22T14:49:22'
+  crc: '0x8a75c9ee'
+- name: DIGITS.DAT
+  size: 3954
+  date: '1996-03-22T14:52:40'
+  crc: '0xfaadc22d'
+- name: MINTRIS.EXE
+  size: 53174
+  date: '1996-03-23T22:23:38'
+  crc: '0x285675ae'
+- name: OVER.DAT
+  size: 3496
+  date: '1996-03-23T20:25:46'
+  crc: '0x8aa13ba0'
+- name: README.1ST
+  size: 2663
+  date: '1996-03-23T22:21:04'
+  crc: '0x6877bf5a'
+- name: mintris.c
+  size: 62312
+  date: '1996-03-23T17:23:26'
+  crc: '0xed9618b6'

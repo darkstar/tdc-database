@@ -1,0 +1,31 @@
+filename: Space Intruder (Pl) (1998)(M&Ch Company) [Action].zip
+tdc_id: '6903.0'
+title:
+  screen: Space Intruder
+publisher: M&Ch Company
+year: '1998'
+genre: Action
+language: Polish
+date:
+  added: '2019-03-02T10:44:36'
+  last_modified: '2019-03-02T10:44:36'
+type: zip
+commands:
+  play: INTRUDER.EXE
+files:
+- name: DRIVERS\EGAVGA.BGI
+  size: 5527
+  date: '1992-10-27T07:00:00'
+  crc: '0xa33014d5'
+- name: DRIVERS\TRIP.CHR
+  size: 16677
+  date: '1992-10-27T07:00:00'
+  crc: '0xba867503'
+- name: INTRUDER.EXE
+  size: 28208
+  date: '1996-09-15T16:34:08'
+  crc: '0x531566c6'
+- name: README.TXT
+  size: 233
+  date: '1998-11-08T17:57:56'
+  crc: '0xe587da66'

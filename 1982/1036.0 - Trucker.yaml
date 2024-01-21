@@ -1,0 +1,27 @@
+filename: Trucker (1982)(Hughes Glantzberg) [Simulation].zip
+tdc_id: '1036.0'
+title:
+  screen: Trucker
+publisher: Hughes Glantzberg
+year: '1982'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:23:04'
+  last_modified: '2019-03-01T18:23:04'
+type: zip
+commands:
+  play: TRUCKER.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: TRUCKER.BAS
+  size: 17024
+  date: '1982-11-02T17:29:54'
+  crc: '0x678cc8a1'
+- name: TRUCKER.BAT
+  size: 16
+  date: '1980-01-01T00:00:00'
+  crc: '0x31471b6a'

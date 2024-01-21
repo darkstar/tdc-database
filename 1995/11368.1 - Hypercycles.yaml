@@ -1,0 +1,39 @@
+filename: Hypercycles (Installer) (1995)(Aclypse Corporation) [Action].zip
+tdc_id: '11368.1'
+title:
+  screen: Hypercycles
+publisher: Aclypse Corporation
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T08:55:40'
+  last_modified: '2019-03-02T08:55:40'
+type: zip
+installer: true
+commands:
+  play: INSTALL.BAT
+files:
+- name: DISK2\
+  size: 0
+  date: '2018-10-08T09:43:00'
+- name: DISK2\HYPER2.ZIP
+  size: 968246
+  date: '1995-07-29T13:22:56'
+  crc: '0xf4a26fdc'
+- name: DISK2\INSTALL.BAT
+  size: 1971
+  date: '1995-07-24T10:24:40'
+  crc: '0xe1156acd'
+- name: HYPER1.ZIP
+  size: 598118
+  date: '1995-07-29T13:57:24'
+  crc: '0x7d6b69cc'
+- name: INSTALL.BAT
+  size: 1971
+  date: '1995-07-24T10:24:40'
+  crc: '0xe1156acd'
+- name: PKUNZIP.EXE
+  size: 29378
+  date: '1993-02-01T02:04:16'
+  crc: '0x00832770'

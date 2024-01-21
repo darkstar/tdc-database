@@ -1,0 +1,89 @@
+filename: Dragonsphere v2.2R (Installer) (1994)(MicroProse Software, Inc.) [Adventure].zip
+tdc_id: '6708.7'
+parent_id: '6708.6'
+title:
+  box: Dragonsphere
+  qualifier: Installer
+publisher: MicroProse Software, Inc.
+year: '1994'
+genre: Adventure
+language: English
+date:
+  added: '2023-08-05T10:47:46'
+  last_modified: '2023-08-05T10:47:46'
+version: 2.2R
+type: zip
+media: CD-ROM
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/2257/dragonsphere/
+files:
+- name: CD.ROM
+  size: 63
+  date: '1994-01-26T13:28:36'
+  crc: '0x5d1ff79d'
+- name: INSTALL.EXE
+  size: 117841
+  date: '1994-01-26T13:28:36'
+  crc: '0x5c6d1bd1'
+- name: MPSCOPY.EXE
+  size: 36643
+  date: '1994-01-26T13:28:36'
+  crc: '0x925ea8af'
+- name: MPSLABS.001
+  size: 771220
+  date: '1994-01-26T13:29:40'
+  crc: '0xc116c575'
+- name: MPSLABS.IDX
+  size: 4636
+  date: '1994-01-26T13:29:40'
+  crc: '0xa7ed01af'
+- name: README.TXT
+  size: 3543
+  date: '1994-01-26T13:28:36'
+  crc: '0xaa3b2f46'
+- name: RESOURCE\
+  size: 0
+  date: '1994-01-21T20:43:28'
+- name: RESOURCE\GLOBAL.HAG
+  size: 2320567
+  date: '1994-01-26T13:13:26'
+  crc: '0x75c950d3'
+- name: RESOURCE\SECTION1.HAG
+  size: 2061199
+  date: '1994-01-26T12:55:16'
+  crc: '0x9bd08ef9'
+- name: RESOURCE\SECTION2.HAG
+  size: 580184
+  date: '1994-01-26T12:55:40'
+  crc: '0x4baf240a'
+- name: RESOURCE\SECTION3.HAG
+  size: 280025
+  date: '1994-01-26T12:55:58'
+  crc: '0xd2126b39'
+- name: RESOURCE\SECTION4.HAG
+  size: 832000
+  date: '1994-01-26T12:56:24'
+  crc: '0xdc7b3473'
+- name: RESOURCE\SECTION5.HAG
+  size: 1714285
+  date: '1994-01-26T12:56:56'
+  crc: '0x443cc645'
+- name: RESOURCE\SECTION6.HAG
+  size: 1557344
+  date: '1994-01-26T12:57:32'
+  crc: '0x9b342f72'
+- name: RESOURCE\SECTION9.HAG
+  size: 1888257
+  date: '1994-01-26T12:58:06'
+  crc: '0x3bb977aa'
+- name: RESOURCE\SPEECH.HAG
+  size: 54952029
+  date: '1994-01-26T13:26:40'
+  crc: '0x70602ed6'
+- name: UNRIP.WAV
+  size: 2750
+  date: '1994-01-26T13:28:36'
+  crc: '0xbc15451f'

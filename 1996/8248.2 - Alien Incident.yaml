@@ -1,0 +1,59 @@
+filename: Alien Incident v1.30 (Installer) (En)(Fr)(De) (1996)(GameTek UK Ltd.) [Adventure].zip
+tdc_id: '8248.2'
+parent_id: '8248.3'
+title:
+  box: Alien Incident
+publisher: GameTek UK Ltd.
+year: '1996'
+genre: Adventure
+language:
+- English
+- French
+- German
+date:
+  added: '2019-03-02T09:58:52'
+  last_modified: '2019-03-02T09:58:52'
+version: '1.30'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: AI.000
+  size: 9942551
+  date: '1996-09-03T16:19:16'
+  crc: '0xac3b004d'
+- name: AI.CD
+  size: 16
+  date: '1996-07-26T01:30:00'
+  crc: '0xb0819fbe'
+- name: CDA\
+  size: 0
+  date: '1996-09-03T16:50:40'
+- name: CDA\ALIEND.CDA
+  size: 41177456
+  date: '1996-08-26T16:55:36'
+  crc: '0x008e12b6'
+- name: CDA\ALINTRO.CDA
+  size: 74433421
+  date: '1996-08-22T19:50:34'
+  crc: '0xbc46be7c'
+- name: INSTALL.DAT
+  size: 1222
+  date: '1996-09-03T16:36:50'
+  crc: '0x2144df1c'
+- name: INSTALL.EXE
+  size: 51920
+  date: '1996-09-02T22:24:58'
+  crc: '0x3b7d95c5'
+- name: PIF\
+  size: 0
+  date: '1996-09-03T16:50:40'
+- name: PIF\AI.PIF
+  size: 1429
+  date: '1996-07-26T01:30:00'
+  crc: '0x6a56d6ae'
+- name: WIN95HLP.TXT
+  size: 3587
+  date: '1996-07-26T01:30:00'
+  crc: '0xfc3309f6'

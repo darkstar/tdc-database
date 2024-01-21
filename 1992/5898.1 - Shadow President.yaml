@@ -1,0 +1,50 @@
+filename: Shadow President v1.00 (Installer) (1992)(D.C. True, Ltd.) [Simulation, Strategy].zip
+tdc_id: '5898.1'
+title:
+  box: Shadow President
+  qualifier: Installer
+publisher: D.C. True, Ltd.
+year: '1992'
+genre:
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2019-03-01T21:06:32'
+  last_modified: '2023-10-15T17:40:15'
+version: '1.00'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/9598/shadow-president/
+files:
+- name: DISK.ID
+  size: 57
+  date: '1992-11-04T16:48:34'
+  crc: '0xcbb955ed'
+- name: DISK.ID2
+  size: 57
+  date: '1992-11-04T16:51:54'
+  crc: '0xc9ffebb4'
+- name: DISK.ID3
+  size: 57
+  date: '1992-11-04T16:54:18'
+  crc: '0xc83d8183'
+- name: INSTALL.EXE
+  size: 114950
+  date: '1992-07-28T12:00:00'
+  crc: '0x813b616e'
+- name: SHADOW.001
+  size: 1341864
+  date: '1992-11-04T16:55:30'
+  crc: '0x04b3292d'
+- name: SHADOW.002
+  size: 1457152
+  date: '1992-11-04T16:53:46'
+  crc: '0x288340b3'
+- name: SHADOW.003
+  size: 338738
+  date: '1992-11-04T16:54:50'
+  crc: '0x5d31428e'

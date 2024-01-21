@@ -1,0 +1,33 @@
+filename: Ega Gammon v1.50 [SW] (1989)(Daniel R. Evans) [Strategy, Board].zip
+tdc_id: '13314.0'
+title:
+  screen: Ega Gammon
+publisher: Daniel R. Evans
+year: '1989'
+genre:
+- Strategy
+- Board
+language: English
+date:
+  added: '2019-03-01T18:27:40'
+  last_modified: '2019-03-01T18:27:40'
+version: '1.50'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: EGAGAM.EXE
+files:
+- name: EGAGAM.DOC
+  size: 6313
+  date: '1989-03-25T08:54:56'
+  crc: '0x0f74e260'
+- name: EGAGAM.EXE
+  size: 140864
+  date: '1989-03-24T16:52:52'
+  crc: '0xebdfd8ee'
+- name: EGAGAM.INI
+  size: 22
+  date: '1992-11-20T04:41:14'
+  crc: '0xd355b216'

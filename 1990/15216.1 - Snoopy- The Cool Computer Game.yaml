@@ -1,0 +1,33 @@
+filename: Snoopy- The Cool Computer Game [tr Fi] (1990)(Edge, The) [Adventure].zip
+tdc_id: '15216.1'
+title:
+  box: 'Snoopy: The Cool Computer Game'
+publisher: Edge, The
+year: '1990'
+genre: Adventure
+language: Finnish
+date:
+  added: '2019-03-01T18:34:02'
+  last_modified: '2019-03-01T18:34:02'
+type: zip
+tags:
+- Translated
+commands:
+  play: RESSU.COM
+files:
+- name: BCKDATA
+  size: 21550
+  date: '1990-03-26T10:47:10'
+  crc: '0x00383908'
+- name: CHARCOM
+  size: 73814
+  date: '1990-03-26T10:49:12'
+  crc: '0xc97793af'
+- name: IMAGEDAT
+  size: 205920
+  date: '1990-03-21T07:09:36'
+  crc: '0x4cfe9541'
+- name: RESSU.COM
+  size: 51570
+  date: '1990-03-26T12:51:12'
+  crc: '0x1c31af99'

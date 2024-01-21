@@ -1,0 +1,41 @@
+filename: Xaptron [FW] (1990)(Rinzai Satori) [Action].zip
+tdc_id: '15858.0'
+title:
+  screen: Xaptron
+publisher: Rinzai Satori
+year: '1990'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:34:36'
+  last_modified: '2019-03-01T18:34:36'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: XAPTRON.EXE
+references:
+  dosid: DOS15830
+  exodos: Xaptron (1990).zip
+files:
+- name: XAPOPEN.PCX
+  size: 36950
+  date: '1990-08-12T12:18:42'
+  crc: '0xb554d102'
+- name: XAPSCRN.PCX
+  size: 31698
+  date: '1990-08-12T12:31:16'
+  crc: '0xec0dac04'
+- name: XAPTRON.BLP
+  size: 1128
+  date: '1990-08-11T22:30:48'
+  crc: '0xa6e6eef2'
+- name: XAPTRON.DOC
+  size: 7072
+  date: '1990-08-12T14:06:08'
+  crc: '0xe499c1e9'
+- name: XAPTRON.EXE
+  size: 27538
+  date: '1990-08-12T14:10:08'
+  crc: '0x4d12425c'

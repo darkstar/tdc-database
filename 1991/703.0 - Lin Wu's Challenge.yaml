@@ -1,0 +1,52 @@
+filename: Lin Wu's Challenge [h1] (1991)(LaserSoft) [Strategy].zip
+tdc_id: '703.0'
+title:
+  screen: Lin Wu's Challenge
+publisher: LaserSoft
+year: '1991'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:36:38'
+  last_modified: '2019-03-01T18:36:38'
+type: zip
+tags:
+- Hack: 1
+commands:
+  play: LINWU.EXE
+references:
+  dosid: DOS03194
+  exodos: Lin Wu's Challenge (1990).zip
+files:
+- name: BOARD.PIC
+  size: 112000
+  date: '1990-10-27T10:19:52'
+  crc: '0x07ed2458'
+- name: BUILD.PIC
+  size: 55378
+  date: '1989-09-20T03:37:52'
+  crc: '0x9f3039a5'
+- name: CARDS.PIC
+  size: 112000
+  date: '1990-10-17T20:25:46'
+  crc: '0x9f768ba2'
+- name: DELAY.PIC
+  size: 5120
+  date: '1990-11-10T20:12:32'
+  crc: '0x9af62b39'
+- name: FACES.PIC
+  size: 33920
+  date: '1990-02-12T17:24:40'
+  crc: '0x2ef3e170'
+- name: LINWU.EXE
+  size: 61772
+  date: '1991-06-10T12:00:00'
+  crc: '0xba353c66'
+- name: TITLE.PIC
+  size: 80000
+  date: '1990-11-11T00:20:16'
+  crc: '0x88e5cd06'
+- name: WORLD.PIC
+  size: 80000
+  date: '1990-11-11T01:18:50'
+  crc: '0xd94973da'

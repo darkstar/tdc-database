@@ -1,0 +1,84 @@
+filename: Goblins 3 v0.50 (Installer) (Fr) (1993)(Coktel Vision) [Adventure, Puzzle].zip
+tdc_id: '14110.5'
+parent_id: '14110.20'
+title:
+  box: Goblins 3
+  qualifier: Installer
+publisher: Coktel Vision
+year: '1993'
+genre:
+- Adventure
+- Puzzle
+language: French
+date:
+  added: '2019-03-01T19:09:16'
+  last_modified: '2023-11-27T16:39:45'
+version: '0.50'
+type: zip
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/2870/goblins-quest-3/
+files:
+- name: EXT.$00
+  size: 619008
+  date: '1993-10-22T21:44:36'
+  crc: '0x7cd97890'
+- name: EXT.$01
+  size: 1457664
+  date: '1993-10-22T21:44:44'
+  crc: '0xfc62ead8'
+- name: EXT.$02
+  size: 1457664
+  date: '1993-10-22T21:44:58'
+  crc: '0xb7d9ab46'
+- name: EXT.$03
+  size: 245737
+  date: '1993-10-22T21:45:04'
+  crc: '0x142176c7'
+- name: GOB3.#01
+  size: 110693
+  date: '1993-10-20T20:28:08'
+  crc: '0xf85a0b7d'
+- name: IMD.#06
+  size: 15264
+  date: '1993-10-19T17:11:26'
+  crc: '0x4d4bde34'
+- name: IMD.$04
+  size: 1211904
+  date: '1993-10-22T21:45:12'
+  crc: '0x31aa9a27'
+- name: IMD.$05
+  size: 1436575
+  date: '1993-10-22T21:45:22'
+  crc: '0x128d67ca'
+- name: INSTALL.ASK
+  size: 15885
+  date: '1993-09-02T09:01:16'
+  crc: '0x13a2b422'
+- name: INSTALL.EXE
+  size: 5723
+  date: '1993-08-26T15:29:10'
+  crc: '0xa3580da6'
+- name: INSTALL.INF
+  size: 658
+  date: '1993-10-22T21:45:28'
+  crc: '0x493b8311'
+- name: INTRO.#03
+  size: 139394
+  date: '1993-10-26T15:58:36'
+  crc: '0x11e2c9fe'
+- name: MDO.DEF
+  size: 181
+  date: '1993-09-13T13:01:52'
+  crc: '0x71944fdc'
+- name: SETUP.EXE
+  size: 71133
+  date: '1993-09-08T18:31:10'
+  crc: '0x9f08a924'
+- name: TOT.#07
+  size: 422389
+  date: '1993-10-26T09:31:58'
+  crc: '0x7c4cbd82'

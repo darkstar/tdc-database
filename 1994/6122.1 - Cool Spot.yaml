@@ -1,0 +1,27 @@
+filename: Cool Spot (Installer) (1994)(Virgin Games, Ltd.) [Action].zip
+tdc_id: '6122.1'
+parent_id: '6122.3'
+title:
+  box: Cool Spot
+publisher: Virgin Games, Ltd.
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T21:55:24'
+  last_modified: '2019-03-01T21:55:24'
+type: zip
+installer: true
+files:
+- name: install.bat
+  size: 964
+  date: '1996-12-24T23:32:00'
+  crc: '0x7001b58f'
+- name: lharc.exe
+  size: 31360
+  date: '1996-12-24T23:32:00'
+  crc: '0xbcbb311d'
+- name: sp.dat
+  size: 715793
+  date: '1996-12-24T23:32:00'
+  crc: '0x083cd419'

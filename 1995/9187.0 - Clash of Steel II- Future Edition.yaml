@@ -1,0 +1,40 @@
+filename: Clash of Steel II- Future Edition (Installer) (1995)(Strategic Simulations, Inc.) [Strategy].zip
+tdc_id: '9187.0'
+title:
+  box: 'Clash of Steel II: Future Edition'
+publisher: Strategic Simulations, Inc.
+year: '1995'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T07:31:48'
+  last_modified: '2019-03-02T07:31:48'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: BOOT.NFO
+  size: 240
+  date: '1995-03-20T03:47:14'
+  crc: '0x7341d600'
+- name: DATA.A00
+  size: 1351942
+  date: '1995-03-20T03:41:20'
+  crc: '0x8c9af2c8'
+- name: DATA.A01
+  size: 1340156
+  date: '1995-03-20T03:44:34'
+  crc: '0xd0182673'
+- name: DEARJ.EXE
+  size: 39441
+  date: '1995-03-20T03:25:50'
+  crc: '0x284b68d2'
+- name: INSTALL.EXE
+  size: 47464
+  date: '1995-03-20T03:50:04'
+  crc: '0xa9cf9856'
+- name: INSTALL.NFO
+  size: 473
+  date: '1995-03-20T03:46:40'
+  crc: '0x8fb57b72'

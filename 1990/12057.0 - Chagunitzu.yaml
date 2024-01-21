@@ -1,0 +1,54 @@
+filename: Chagunitzu (1990)(Softdisk Publishing) [Strategy].zip
+tdc_id: '12057.0'
+title:
+  box: Chagunitzu
+publisher: Softdisk Publishing
+year: '1990'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:32:02'
+  last_modified: '2019-03-01T18:32:02'
+type: zip
+commands:
+  play: CHAG.EXE
+references:
+  dosid: DOS01319
+  exodos: Chagunitzu (1990).zip
+files:
+- name: CHAG.CGA
+  size: 2353
+  date: '1990-07-03T21:28:02'
+  crc: '0x2ef5e439'
+- name: CHAG.DAT
+  size: 444
+  date: '1990-07-03T21:27:24'
+  crc: '0xef592271'
+- name: CHAG.EGA
+  size: 2353
+  date: '1990-07-03T21:27:48'
+  crc: '0x60794a64'
+- name: CHAG.EXE
+  size: 123550
+  date: '1990-07-03T21:26:50'
+  crc: '0x99164393'
+- name: CHAG.ROO
+  size: 11201
+  date: '1990-07-03T21:27:08'
+  crc: '0x61e08721'
+- name: CHAG.SAV
+  size: 1845
+  date: '1990-07-03T22:41:26'
+  crc: '0x0e091601'
+- name: CHAG.SCO
+  size: 38
+  date: '1990-07-03T23:26:40'
+  crc: '0xf85a556a'
+- name: CHAG.TIT
+  size: 16391
+  date: '1990-07-03T21:28:20'
+  crc: '0xca8693b6'
+- name: CHAG.TXT
+  size: 18453
+  date: '1990-07-06T01:23:06'
+  crc: '0xf8518f09'

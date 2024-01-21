@@ -1,0 +1,33 @@
+filename: Perestroika v2.2 (Ru) (1990)(Locis) [Action, Adventure].zip
+tdc_id: '10293.0'
+title:
+  screen: Perestroika
+publisher: Locis
+year: '1990'
+genre:
+- Action
+- Adventure
+language: Russian
+date:
+  added: '2019-03-01T18:33:30'
+  last_modified: '2019-03-01T18:33:30'
+version: '2.2'
+type: zip
+commands:
+  play: PERESTR.EXE
+references:
+  dosid: DOS05217
+  exodos: Toppler (1990).zip
+files:
+- name: EGAVGA.BGI
+  size: 5363
+  date: '1988-08-29T05:00:00'
+  crc: '0x06d36962'
+- name: PERESTR.EXE
+  size: 75172
+  date: '1990-07-11T19:40:06'
+  crc: '0x030262d2'
+- name: TOPPLER.DAT
+  size: 278599
+  date: '1990-11-05T18:01:52'
+  crc: '0xf2cf7f39'

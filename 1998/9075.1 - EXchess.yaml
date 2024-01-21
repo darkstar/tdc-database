@@ -1,0 +1,46 @@
+filename: EXchess v2.45 (1998)(Dan Homan) [Strategy, Chess].zip
+tdc_id: '9075.1'
+title:
+  screen: EXchess
+publisher: Dan Homan
+year: '1998'
+genre:
+- Strategy
+- Chess
+language: English
+date:
+  added: '2019-03-02T10:41:12'
+  last_modified: '2019-03-02T10:41:12'
+version: '2.45'
+type: zip
+commands:
+  play: EXCHESSD.EXE
+files:
+- name: CPIECES.DAT
+  size: 47010
+  date: '1997-09-21T12:08:14'
+  crc: '0x761f5aa0'
+- name: CWSDPMI.EXE
+  size: 20217
+  date: '1996-08-18T18:46:18'
+  crc: '0x6ba5fa62'
+- name: EXCHESSD.EXE
+  size: 580608
+  date: '1998-08-24T06:57:08'
+  crc: '0x2990e6c6'
+- name: LICENSE.TXT
+  size: 18315
+  date: '1997-08-04T15:03:44'
+  crc: '0x077819f6'
+- name: OPEN_BK.DAT
+  size: 3716064
+  date: '1998-08-14T07:32:50'
+  crc: '0x8f6a1842'
+- name: README.TXT
+  size: 4578
+  date: '1998-08-24T07:39:54'
+  crc: '0x3c7e2003'
+- name: SEARCH.PAR
+  size: 4465
+  date: '1998-08-20T09:04:46'
+  crc: '0xb2fc15bf'

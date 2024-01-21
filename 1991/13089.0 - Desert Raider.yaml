@@ -1,0 +1,54 @@
+filename: Desert Raider (Es) (1991)(Ediciones Manali, S.A.) [Action].zip
+tdc_id: '13089.0'
+title:
+  screen: Desert Raider
+publisher: Ediciones Manali, S.A.
+year: '1991'
+genre: Action
+language: Spanish
+date:
+  added: '2019-03-01T18:35:36'
+  last_modified: '2019-03-01T18:35:36'
+type: zip
+commands:
+  play: RAIDER.EXE
+references:
+  dosid: DOS15337
+  exodos: Desert Raider (1991).zip
+files:
+- name: DESAGD.BIN
+  size: 401
+  date: '1980-01-01T00:11:32'
+  crc: '0xdecdbd55'
+- name: LETRAS.DAT
+  size: 1320
+  date: '1980-01-01T03:39:28'
+  crc: '0xe5f9e27d'
+- name: NUM.SPR
+  size: 480
+  date: '1980-01-01T00:28:32'
+  crc: '0xae5d2876'
+- name: R.SPR
+  size: 3040
+  date: '1980-01-01T05:30:02'
+  crc: '0xf68f82f6'
+- name: R1.CMP
+  size: 9802
+  date: '1980-01-01T03:47:10'
+  crc: '0xcf3368e6'
+- name: R2.SPR
+  size: 6747
+  date: '1980-01-01T03:47:40'
+  crc: '0x2b97d01d'
+- name: RAIDER.EXE
+  size: 54777
+  date: '1980-01-01T00:27:38'
+  crc: '0x234def27'
+- name: TECLAINT.BIN
+  size: 98
+  date: '1980-01-01T00:02:44'
+  crc: '0x53a1e02e'
+- name: TROZOS.BIN
+  size: 520
+  date: '1980-01-01T00:20:08'
+  crc: '0x94b9ab54'

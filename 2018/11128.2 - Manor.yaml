@@ -1,0 +1,33 @@
+filename: Manor v2.22 [FW] (2018)(Leon Baradat, Stefano Crespi) [Strategy].zip
+tdc_id: '11128.2'
+title:
+  screen: Manor
+publisher: Leon Baradat, Stefano Crespi
+year: '2018'
+genre: Strategy
+language: English
+date:
+  added: '2023-02-12T17:23:03'
+  last_modified: '2023-02-12T17:23:03'
+version: '2.22'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: Manor2.bat
+references:
+  mobygames: https://www.mobygames.com/game/manor
+files:
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1989-04-07T01:00:02'
+  crc: '0x2a44af39'
+- name: MANOR2.BAS
+  size: 49012
+  date: '2019-01-03T23:45:08'
+  crc: '0xa9252e1c'
+- name: Manor2.bat
+  size: 33
+  date: '2023-02-08T09:27:58'
+  crc: '0x2a20ce48'

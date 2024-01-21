@@ -1,0 +1,33 @@
+filename: B-Venture (2004)(Paul Allen Panks) [Adventure, Interactive Fiction].zip
+tdc_id: '12232.0'
+title:
+  screen: B-Venture
+publisher: Paul Allen Panks
+year: '2004'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2020-10-24T18:39:22'
+  last_modified: '2020-10-24T18:39:22'
+type: zip
+commands:
+  play: BVENT.EXE
+files:
+- name: BVENT.BAS
+  size: 3065
+  date: '2004-07-04T04:38:24'
+  crc: '0x61ffe685'
+- name: BVENT.EXE
+  size: 38302
+  date: '2004-07-04T04:38:36'
+  crc: '0x11911499'
+- name: BVENT.TXT
+  size: 1868
+  date: '2004-07-04T04:44:18'
+  crc: '0x44dee8ba'
+- name: BVENTURE.D64
+  size: 174848
+  date: '2004-07-03T20:37:36'
+  crc: '0x89c8f167'

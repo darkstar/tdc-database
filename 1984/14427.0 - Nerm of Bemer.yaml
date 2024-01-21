@@ -1,0 +1,31 @@
+filename: Nerm of Bemer (1984)(COMPUTE! Publications, Inc.) [Action].zip
+tdc_id: '14427.0'
+title:
+  screen: Nerm of Bemer
+publisher: COMPUTE! Publications, Inc.
+year: '1984'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:12'
+  last_modified: '2019-03-01T18:24:12'
+type: zip
+media: Type-In
+commands:
+  play: RUN.BAT
+references:
+  dosid: DOS06574
+  exodos: Nerm of Bemer (1984).zip
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: BEMER.BAS
+  size: 7179
+  date: '2014-02-23T17:30:26'
+  crc: '0xc774930c'
+- name: RUN.BAT
+  size: 14
+  date: '2014-04-01T22:49:00'
+  crc: '0x086ec267'

@@ -1,0 +1,27 @@
+filename: Stunt Chopper (1998)(Dave Duvenaud) [Action].zip
+tdc_id: '16210.0'
+title:
+  screen: Stunt Chopper
+publisher: Dave Duvenaud
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:44:38'
+  last_modified: '2019-03-02T10:44:38'
+type: zip
+commands:
+  play: GO.BAT
+files:
+- name: CHOPPER.BAS
+  size: 5389
+  date: '2018-12-05T12:43:36'
+  crc: '0x74d297c0'
+- name: GO.BAT
+  size: 23
+  date: '2018-12-05T17:16:10'
+  crc: '0xb7adb727'
+- name: QB.EXE
+  size: 278804
+  date: '2016-03-13T01:19:58'
+  crc: '0xb08bc0fe'

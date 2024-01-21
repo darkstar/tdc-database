@@ -1,0 +1,97 @@
+filename: Mike's Story [FW] (2003)(Mike Wever) [Role-Playing (RPG)].zip
+tdc_id: '4896.0'
+title:
+  screen: Mike's Story
+publisher: Mike Wever
+year: '2003'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2019-10-01T11:11:28'
+  last_modified: '2019-10-01T11:11:28'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: rpg.exe
+files:
+- name: PGuide.txt
+  size: 7591
+  date: '2003-10-22T09:37:36'
+  crc: '0x2a695746'
+- name: devel\
+  size: 0
+  date: '2020-01-16T19:48:06'
+- name: devel\MAINMAP.E
+  size: 82214
+  date: '2003-10-22T10:36:30'
+  crc: '0xbb7de665'
+- name: devel\bldmap.ex
+  size: 21433
+  date: '2003-10-20T10:19:16'
+  crc: '0x71b27140'
+- name: devel\prgrmr.txt
+  size: 5061
+  date: '2003-10-22T10:32:06'
+  crc: '0x8dfef726'
+- name: devel\rpg.ex
+  size: 11944
+  date: '2003-10-21T15:10:14'
+  crc: '0x0ebf11cc'
+- name: devel\rpgchar.e
+  size: 15527
+  date: '2003-10-21T14:31:00'
+  crc: '0x6c5f8b2e'
+- name: devel\rpggame.e
+  size: 55266
+  date: '2003-10-22T11:27:58'
+  crc: '0xdc8296a3'
+- name: devel\rpggen.e
+  size: 18926
+  date: '2003-10-21T15:08:34'
+  crc: '0x898d4017'
+- name: devel\rpgglob.e
+  size: 1062
+  date: '2003-10-17T15:06:34'
+  crc: '0x7567b2cd'
+- name: devel\rpgitem.e
+  size: 678
+  date: '2003-10-20T08:43:30'
+  crc: '0x0b228e99'
+- name: devel\rpgmap.e
+  size: 898
+  date: '2003-10-17T15:47:04'
+  crc: '0xea0d33fb'
+- name: devel\rpgmnstr.e
+  size: 4532
+  date: '2003-10-22T11:22:44'
+  crc: '0x93761da2'
+- name: devel\rpgscrn.e
+  size: 10992
+  date: '2003-10-20T10:18:32'
+  crc: '0xd027aeec'
+- name: devel\rpgspcl.e
+  size: 4078
+  date: '2003-10-22T11:28:30'
+  crc: '0x157a8ffd'
+- name: devel\rpgtrn.e
+  size: 29041
+  date: '2003-10-22T10:20:28'
+  crc: '0x8d00e8df'
+- name: devel\rpgwin.e
+  size: 21936
+  date: '2003-10-17T14:51:00'
+  crc: '0xb9516dfa'
+- name: license.txt
+  size: 936
+  date: '2003-10-22T11:05:24'
+  crc: '0x92b49a95'
+- name: readme.txt
+  size: 797
+  date: '2003-10-22T11:08:54'
+  crc: '0x7483e854'
+- name: rpg.exe
+  size: 315410
+  date: '2003-10-22T11:33:42'
+  crc: '0x92f24491'

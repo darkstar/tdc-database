@@ -1,0 +1,43 @@
+filename: Vaarsimulator v3 (Nl) [FW] (1990)(H.A. Overtoom) [Simulation].zip
+tdc_id: '2118.0'
+title:
+  screen: Vaarsimulator
+publisher: H.A. Overtoom
+year: '1990'
+genre: Simulation
+language: Dutch
+date:
+  added: '2022-05-18T23:14:52'
+  last_modified: '2022-05-18T23:14:52'
+version: '3'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: SCHIP.EXE
+files:
+- name: EGAVGA.BGI
+  size: 5363
+  date: '1988-08-28T21:00:00'
+  crc: '0x06d36962'
+- name: FJORD
+  size: 932
+  date: '1990-03-18T07:06:12'
+  crc: '0xd99f9da4'
+- name: NED
+  size: 23214
+  date: '1990-03-19T07:43:12'
+  crc: '0x58e12377'
+- name: README.LVL
+  size: 1224
+  date: '1990-03-08T16:34:32'
+  crc: '0x7320499d'
+- name: SCHIP.DOC
+  size: 3925
+  date: '1990-03-27T14:28:28'
+  crc: '0x8f393462'
+- name: SCHIP.EXE
+  size: 125532
+  date: '1990-03-27T13:42:04'
+  crc: '0x5a93fca0'

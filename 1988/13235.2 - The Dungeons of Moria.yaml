@@ -1,0 +1,42 @@
+filename: Dungeons of Moria, The v4.873 (1988)(Don Kneller) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '13235.2'
+title:
+  screen: The Dungeons of Moria
+publisher: Don Kneller
+year: '1988'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:26:08'
+  last_modified: '2019-03-01T18:26:08'
+version: '4.873'
+type: zip
+commands:
+  play: MORIA.EXE
+files:
+- name: CONFIG.TXT
+  size: 11143
+  date: '1999-07-12T07:11:36'
+  crc: '0x5a0d99a4'
+- name: MORIA.CNF
+  size: 2588
+  date: '1999-07-12T06:55:02'
+  crc: '0x4e209117'
+- name: MORIA.EXE
+  size: 350791
+  date: '1988-12-14T00:00:00'
+  crc: '0x478f5d12'
+- name: MORIA.SCR
+  size: 1488
+  date: '1993-12-19T21:55:16'
+  crc: '0xa1364047'
+- name: MORIA.TXT
+  size: 88203
+  date: '1999-07-12T07:08:52'
+  crc: '0x21eb5d9c'
+- name: README.TXT
+  size: 876
+  date: '1999-07-12T07:17:30'
+  crc: '0xe9dcbeee'

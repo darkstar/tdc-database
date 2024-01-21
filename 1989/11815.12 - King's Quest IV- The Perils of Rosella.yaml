@@ -1,0 +1,118 @@
+filename: King's Quest IV- The Perils of Rosella v2.3 (Installer) [a1] (1989)(Sierra On-Line, Inc.) [Adventure][!].zip
+tdc_id: '11815.12'
+title:
+  box: 'King''s Quest IV: The Perils of Rosella'
+publisher: Sierra On-Line, Inc.
+year: '1989'
+genre: Adventure
+language: English
+date:
+  added: '2021-07-26T16:28:20'
+  last_modified: '2021-07-26T16:28:20'
+version: '2.3'
+type: zip
+tags:
+- KnownGood
+- Alternate: 1
+installer: true
+files:
+- name: AGI
+  size: 40866
+  date: '1988-07-25T11:43:04'
+  crc: '0x358e74c6'
+- name: AGIDATA.OVL
+  size: 8064
+  date: '1988-07-25T11:42:14'
+  crc: '0x2a7d5309'
+- name: CGA_GRAF.OVL
+  size: 684
+  date: '1988-07-25T11:42:10'
+  crc: '0x775dfe5a'
+- name: EGA_GRAF.OVL
+  size: 591
+  date: '1988-07-25T11:42:10'
+  crc: '0x1dde8c18'
+- name: HGC_FONT
+  size: 3072
+  date: '1987-01-26T15:47:26'
+  crc: '0x200435c7'
+- name: HGC_GRAF.OVL
+  size: 1445
+  date: '1988-07-25T11:42:10'
+  crc: '0xad49fad2'
+- name: HGC_OBJS.OVL
+  size: 599
+  date: '1988-07-25T11:42:10'
+  crc: '0x3f741835'
+- name: IBM_OBJS.OVL
+  size: 341
+  date: '1988-07-25T11:42:10'
+  crc: '0x6952076e'
+- name: INSTALLH.BAT
+  size: 1413
+  date: '1988-07-19T11:48:48'
+  crc: '0x6e082ad2'
+- name: JR_GRAF.OVL
+  size: 465
+  date: '1988-07-25T11:42:12'
+  crc: '0xc774bc20'
+- name: KQ4DIR
+  size: 2786
+  date: '1989-01-24T08:33:22'
+  crc: '0xf20e6146'
+- name: KQ4VOL.0
+  size: 94624
+  date: '1989-01-24T08:29:22'
+  crc: '0xcc544087'
+- name: KQ4VOL.1
+  size: 379139
+  date: '1989-01-24T08:30:32'
+  crc: '0xc456d0e8'
+- name: KQ4VOL.2
+  size: 576496
+  date: '1989-01-24T08:32:18'
+  crc: '0x3ddbd561'
+- name: KQ4VOL.3
+  size: 332944
+  date: '1989-01-24T08:33:22'
+  crc: '0xc5d5cd1f'
+- name: MAKEPATH.COM
+  size: 74
+  date: '1987-04-22T12:05:20'
+  crc: '0xa04a3ac3'
+- name: OBJECT
+  size: 713
+  date: '1988-06-10T17:56:18'
+  crc: '0x9a24c702'
+- name: QAFILE
+  size: 152
+  date: '1989-01-25T00:04:22'
+  crc: '0x9688dbe7'
+- name: QAFILE.BAK
+  size: 151
+  date: '1989-01-25T00:02:18'
+  crc: '0x8e191976'
+- name: RESETDSK.COM
+  size: 12
+  date: '1988-07-19T11:40:32'
+  crc: '0xa7c5a2f7'
+- name: SIERRA.COM
+  size: 3134
+  date: '1988-07-29T20:32:58'
+  crc: '0x829dbdef'
+- name: VG_GRAF.OVL
+  size: 362
+  date: '1988-07-25T11:42:12'
+  crc: '0xa59579a0'
+- name: WORDS.TOK
+  size: 6107
+  date: '1988-08-22T07:32:30'
+  crc: '0xb4bfe4d4'
+- name: _INSTALL.BAT
+  size: 1622
+  date: '1988-07-19T11:22:28'
+  crc: '0x93fcb825'
+- name: _KQ4.BAT
+  size: 39
+  date: '1988-07-14T21:48:46'
+  crc: '0x464817d8'

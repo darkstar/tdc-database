@@ -1,0 +1,31 @@
+filename: Reaping the Dungeon v1.1 [SWR] (1994)(Frontline Software) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '14783.4'
+title:
+  screen: Reaping the Dungeon
+publisher: Frontline Software
+year: '1994'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T22:03:36'
+  last_modified: '2019-03-01T22:03:36'
+version: '1.1'
+type: zip
+tags:
+- SharewareRegistered
+commands:
+  play: REAP.EXE
+references:
+  dosid: DOS04251
+  exodos: Reaping the Dungeon (1993).zip
+files:
+- name: REAP.DAT
+  size: 105910
+  date: '1994-11-11T01:10:00'
+  crc: '0x56187bd8'
+- name: REAP.EXE
+  size: 303978
+  date: '1994-11-11T01:10:00'
+  crc: '0x11e22df6'

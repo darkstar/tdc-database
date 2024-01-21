@@ -1,0 +1,54 @@
+filename: Kinder-Carton v4.0 (Installer) [SW] (1997)(KidStuff Software) [Strategy, Educational].zip
+tdc_id: '11791.2'
+title:
+  screen: Kinder-Carton
+publisher: KidStuff Software
+year: '1997'
+genre:
+- Strategy
+- Educational
+language: English
+date:
+  added: '2019-01-24T05:04:48'
+  last_modified: '2019-01-24T05:04:48'
+version: '4.0'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 329
+  date: '1997-02-01T04:00:02'
+  crc: '0x3904f3f3'
+- name: INSTALL.EXE
+  size: 34554
+  date: '1994-04-18T12:00:00'
+  crc: '0x7aeabd9c'
+- name: INSTALL.FIL
+  size: 4376
+  date: '1997-02-01T04:00:02'
+  crc: '0xeaad630f'
+- name: KCART40.001
+  size: 434558
+  date: '1997-02-01T04:00:22'
+  crc: '0xfae5b20b'
+- name: KCART40.002
+  size: 730112
+  date: '1997-02-01T04:00:22'
+  crc: '0x7a0e778e'
+- name: KCART40.PCX
+  size: 127201
+  date: '1997-02-01T04:00:02'
+  crc: '0xf05370d8'
+- name: README.TXT
+  size: 908
+  date: '1997-02-01T04:00:02'
+  crc: '0xfe42ff9e'
+- name: VENDOR.DOC
+  size: 3347
+  date: '1997-02-01T04:00:02'
+  crc: '0x305f3871'

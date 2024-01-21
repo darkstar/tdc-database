@@ -1,0 +1,38 @@
+filename: Hockey v2.1 (1994)(Andy Dolphin) [Simulation, Sports].zip
+tdc_id: '5544.1'
+title:
+  screen: Hockey
+publisher: Andy Dolphin
+year: '1994'
+genre:
+- Simulation
+- Sports
+language: English
+date:
+  added: '2019-09-30T13:17:44'
+  last_modified: '2019-09-30T13:17:44'
+version: '2.1'
+type: zip
+commands:
+  play: HOCKEY.EXE
+files:
+- name: DEMO.DOC
+  size: 200
+  date: '1994-05-23T07:42:12'
+  crc: '0xc116dbb3'
+- name: HOCKEY.DOC
+  size: 6432
+  date: '1994-05-23T07:33:58'
+  crc: '0xc334aa1a'
+- name: HOCKEY.EXE
+  size: 89680
+  date: '1994-05-23T08:44:02'
+  crc: '0x9d152c9b'
+- name: LIST.TXT
+  size: 2562
+  date: '1993-10-09T13:16:06'
+  crc: '0x8b0bc074'
+- name: NAMES.HKY
+  size: 12242
+  date: '1993-07-14T17:20:28'
+  crc: '0xf28b9107'

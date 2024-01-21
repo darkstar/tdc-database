@@ -1,0 +1,49 @@
+filename: Flight of the Amazon Queen vM.10 (Installer) (1995)(Renegade Software) [Adventure].zip
+tdc_id: '13657.5'
+title:
+  box: Flight of the Amazon Queen
+publisher: Renegade Software
+year: '1995'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-02T08:43:52'
+  last_modified: '2019-03-02T08:43:52'
+version: M.10
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 51216
+  date: '1995-03-28T13:26:54'
+  crc: '0x814ff7d1'
+- name: QUEEN.IFC
+  size: 1570
+  date: '1995-04-21T03:35:44'
+  crc: '0xad6a329e'
+- name: QUEEN._1
+  size: 1400832
+  date: '1995-04-21T03:35:30'
+  crc: '0xa0fb6024'
+- name: QUEEN._2
+  size: 1457152
+  date: '1995-04-21T03:35:34'
+  crc: '0xfd148e6e'
+- name: QUEEN._3
+  size: 1457152
+  date: '1995-04-21T03:35:36'
+  crc: '0xef7a8708'
+- name: QUEEN._4
+  size: 1457152
+  date: '1995-04-21T03:35:38'
+  crc: '0xc71c8575'
+- name: QUEEN._5
+  size: 1457152
+  date: '1995-04-21T03:35:40'
+  crc: '0xc566909a'
+- name: QUEEN._6
+  size: 1350331
+  date: '1995-04-21T03:35:42'
+  crc: '0xf3851fc8'

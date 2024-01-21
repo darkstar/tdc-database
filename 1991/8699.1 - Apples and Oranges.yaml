@@ -1,0 +1,42 @@
+filename: Apples and Oranges v1.30 [SW] (1991)(Expert Source Code, Inc.) [Strategy].zip
+tdc_id: '8699.1'
+title:
+  screen: Apples and Oranges
+publisher: Expert Source Code, Inc.
+year: '1991'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:34:52'
+  last_modified: '2019-03-01T18:34:52'
+version: '1.30'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: APP&ORG.EXE
+references:
+  dosid: DOS00820
+  exodos: Apples and Oranges (1990).zip
+files:
+- name: APP&ORG.DOC
+  size: 36446
+  date: '1991-06-25T17:18:16'
+  crc: '0xe541e2b3'
+- name: APP&ORG.EXE
+  size: 110816
+  date: '1991-06-26T01:35:10'
+  crc: '0xb48a6f3f'
+- name: APP&ORG.FNT
+  size: 3226
+  date: '1989-10-01T01:01:18'
+  crc: '0x6c8619b3'
+- name: APP&ORG.GXL
+  size: 170678
+  date: '1990-12-31T15:56:56'
+  crc: '0x7548cfa5'
+- name: REGISTER.FRM
+  size: 3676
+  date: '1991-06-25T17:26:56'
+  crc: '0x317de103'

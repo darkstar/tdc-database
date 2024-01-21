@@ -1,0 +1,29 @@
+filename: Saboteur II (1987)(Keypunch Software, Inc.) [Action, Adventure].zip
+tdc_id: '14934.0'
+title:
+  box: Saboteur II
+publisher: Keypunch Software, Inc.
+year: '1987'
+genre:
+- Action
+- Adventure
+language: English
+date:
+  added: '2019-03-01T18:25:34'
+  last_modified: '2019-03-01T18:25:34'
+type: zip
+commands:
+  play: SAB2.COM
+references:
+  dosid: DOS04386
+  exodos: Saboteur II (1987).zip
+notes: does NOT have a virus
+files:
+- name: SAB2.COM
+  size: 42890
+  date: '1987-06-01T11:36:00'
+  crc: '0x5e9438b2'
+- name: SAB_II.SCR
+  size: 256
+  date: '1997-05-15T00:40:08'
+  crc: '0xfd53a1ac'

@@ -1,0 +1,27 @@
+filename: Pac Man (1982)(Anonymous) [Action].zip
+tdc_id: '10535.0'
+title:
+  screen: Pac Man
+publisher: Anonymous
+year: '1982'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:23:02'
+  last_modified: '2019-03-01T18:23:02'
+type: zip
+media: Download
+commands:
+  play: PACMAN2.EXE
+references:
+  dosid: DOS06577
+  exodos: Pac Man (1982).zip
+files:
+- name: PACMAN2.BAS
+  size: 16494
+  date: '1980-01-01T00:00:00'
+  crc: '0x463c7705'
+- name: PACMAN2.EXE
+  size: 49664
+  date: '1980-01-01T00:00:00'
+  crc: '0xbecd83be'

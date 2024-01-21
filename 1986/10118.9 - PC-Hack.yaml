@@ -1,0 +1,60 @@
+filename: PC-Hack v3.60 [a2] (1986)(Don Kneller) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '10118.9'
+title:
+  screen: PC-Hack
+publisher: Don Kneller
+year: '1986'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:24:54'
+  last_modified: '2019-03-01T18:24:54'
+version: '3.60'
+type: zip
+tags:
+- Alternate: 2
+commands:
+  play: HACK.EXE
+files:
+- name: DATA
+  size: 10035
+  date: '1999-12-31T18:00:00'
+  crc: '0x3e88d98d'
+- name: HACK.CNF
+  size: 1746
+  date: '1999-12-31T18:00:00'
+  crc: '0x3a2463f5'
+- name: HACK.DOC
+  size: 26402
+  date: '1999-12-31T18:00:00'
+  crc: '0x16480564'
+- name: HACK.EXE
+  size: 253143
+  date: '1999-12-31T18:00:00'
+  crc: '0x39f65615'
+- name: HELP
+  size: 6992
+  date: '1999-12-31T18:00:00'
+  crc: '0x23eb153e'
+- name: HH
+  size: 3267
+  date: '1999-12-31T18:00:00'
+  crc: '0x2934f8db'
+- name: HINTS.DOC
+  size: 10861
+  date: '1999-12-31T18:00:00'
+  crc: '0x1a9a4c8c'
+- name: RECORD
+  size: 52
+  date: '1999-12-31T18:00:00'
+  crc: '0x401baddf'
+- name: RUMORS
+  size: 25585
+  date: '1999-12-31T18:00:00'
+  crc: '0x26258944'
+- name: TERMCAP
+  size: 984
+  date: '1999-12-31T18:00:00'
+  crc: '0x217d523e'

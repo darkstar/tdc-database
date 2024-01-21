@@ -1,0 +1,44 @@
+filename: Space Fortress v1.7 [FW][a1] (1999)(Pixelmusement) [Action].zip
+tdc_id: '6890.1'
+title:
+  screen: Space Fortress
+publisher: Pixelmusement
+year: '1999'
+genre: Action
+language: English
+date:
+  added: '2021-12-12T05:27:38'
+  last_modified: '2021-12-12T05:27:38'
+version: '1.7'
+type: zip
+tags:
+- Freeware
+- Alternate: 1
+media: Download
+commands:
+  play: FORTRESS.EXE
+files:
+- name: FORTRESS.EXE
+  size: 108469
+  date: '1999-10-17T15:53:32'
+  crc: '0x0fbf5356'
+- name: ICON.ICO
+  size: 2102
+  date: '1999-08-07T13:09:04'
+  crc: '0x8d1cc6eb'
+- name: game.dat
+  size: 5643
+  date: '1999-08-04T11:05:50'
+  crc: '0xda6e9a58'
+- name: readme.txt
+  size: 15870
+  date: '2003-01-05T19:58:38'
+  crc: '0x547130ff'
+- name: screens.dat
+  size: 29880
+  date: '1999-08-06T16:14:54'
+  crc: '0x274d2a84'
+- name: sprites.dat
+  size: 15198
+  date: '1999-08-18T14:58:34'
+  crc: '0xfb754aeb'

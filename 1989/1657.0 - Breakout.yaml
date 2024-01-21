@@ -1,0 +1,43 @@
+filename: Breakout (1989)(Nathan Woods) [Action].zip
+tdc_id: '1657.0'
+title:
+  screen: Breakout
+publisher: Nathan Woods
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:27:22'
+  last_modified: '2019-03-01T18:27:22'
+type: zip
+commands:
+  play: BRKTVGA.EXE
+files:
+- name: BRKTHIGH.TXT
+  size: 181
+  date: '1991-10-16T08:59:48'
+  crc: '0x80f7408f'
+- name: BRKTVGA.EXE
+  size: 39376
+  date: '1989-12-02T11:29:12'
+  crc: '0xef52498b'
+- name: EGAVGA.BGI
+  size: 5363
+  date: '1989-05-01T23:50:00'
+  crc: '0x06d36962'
+- name: GRAPH.TPU
+  size: 31584
+  date: '1989-05-01T23:50:00'
+  crc: '0xdd357e09'
+- name: LITT.CHR
+  size: 2138
+  date: '1989-05-01T23:50:00'
+  crc: '0xe18c9d7c'
+- name: SANS.CHR
+  size: 5438
+  date: '1989-05-01T23:50:00'
+  crc: '0x06f847c6'
+- name: TRIP.CHR
+  size: 7241
+  date: '1989-05-01T23:50:00'
+  crc: '0xfe5cd6b1'

@@ -1,0 +1,31 @@
+filename: Pacman3K (2009)(Olivier Poudade) [Action].zip
+tdc_id: '10571.0'
+title:
+  screen: Pacman3K
+publisher: Olivier Poudade
+year: '2009'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:57:38'
+  last_modified: '2019-03-02T10:57:38'
+type: zip
+commands:
+  play: pacman3k.bat
+files:
+- name: dosbox-0.73.conf
+  size: 1527
+  date: '2009-10-17T23:02:18'
+  crc: '0x33083a59'
+- name: pacman3k.asm
+  size: 188383
+  date: '2009-10-17T23:03:02'
+  crc: '0xbda3ccb5'
+- name: pacman3k.bat
+  size: 945
+  date: '2009-10-17T23:00:58'
+  crc: '0x3a99c9dc'
+- name: pacman3k.com
+  size: 2983
+  date: '2009-10-17T22:13:44'
+  crc: '0x97baab1a'

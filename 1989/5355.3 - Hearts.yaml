@@ -1,0 +1,33 @@
+filename: Hearts v6a [SW] (1989)(R. J. Crouch) [Strategy, Cards].zip
+tdc_id: '5355.3'
+title:
+  screen: Hearts
+publisher: R. J. Crouch
+year: '1989'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:27:54'
+  last_modified: '2019-03-01T18:27:54'
+version: 6a
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: hearts.exe
+files:
+- name: hearts.dat
+  size: 31
+  date: '1991-12-20T21:02:40'
+  crc: '0x27b75dcd'
+- name: hearts.exe
+  size: 87347
+  date: '1989-11-17T21:24:44'
+  crc: '0x97d5dab4'
+- name: hearts.txt
+  size: 4979
+  date: '1989-11-17T21:24:00'
+  crc: '0xa39babda'

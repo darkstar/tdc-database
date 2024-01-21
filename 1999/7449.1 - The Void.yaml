@@ -1,0 +1,24 @@
+filename: Void, The (Installer) (1999)(RibbonSoft) [Adventure].zip
+tdc_id: '7449.1'
+title:
+  screen: The Void
+publisher: RibbonSoft
+year: '1999'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-02T10:46:36'
+  last_modified: '2019-03-02T10:46:36'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 60762
+  date: '1999-11-10T00:00:00'
+  crc: '0x4c0c4c0c'
+- name: INSTALL.WAD
+  size: 1700701
+  date: '1999-11-10T00:00:00'
+  crc: '0xcc847bfe'

@@ -1,0 +1,36 @@
+filename: Last Knight at Camelot (1996)(Adventure LearningWare) [Action, Educational].zip
+tdc_id: '11852.0'
+title:
+  screen: Last Knight at Camelot
+publisher: Adventure LearningWare
+year: '1996'
+genre:
+- Action
+- Educational
+language: English
+date:
+  added: '2019-03-02T10:11:14'
+  last_modified: '2019-03-02T10:11:14'
+type: zip
+commands:
+  play: LKC.EXE
+references:
+  dosid: DOS03096
+  exodos: Last Knight in Camelot (1996).zip
+files:
+- name: LKC.CFG
+  size: 926
+  date: '2013-04-10T20:40:52'
+  crc: '0x9c610b38'
+- name: LKC.EXE
+  size: 588556
+  date: '1996-10-22T02:00:00'
+  crc: '0x74f7232d'
+- name: LKC.ICO
+  size: 766
+  date: '1996-10-22T02:00:00'
+  crc: '0x50ec56c1'
+- name: LKC.TXT
+  size: 29240
+  date: '1996-10-22T02:00:00'
+  crc: '0x671c8b60'

@@ -1,0 +1,33 @@
+filename: OutFox [SW] (1989)(Christopher G. Gunn) [Strategy].zip
+tdc_id: '14673.0'
+title:
+  screen: OutFox
+publisher: Christopher G. Gunn
+year: '1989'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:28:36'
+  last_modified: '2019-03-01T18:28:36'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: OUTFOX.EXE
+references:
+  dosid: DOS06991
+  exodos: OutFox (1989).zip
+files:
+- name: OUTFOX.DOC
+  size: 3490
+  date: '1990-02-01T17:02:24'
+  crc: '0xc6c958e7'
+- name: OUTFOX.EXE
+  size: 78682
+  date: '1990-02-17T10:11:24'
+  crc: '0x088c1cb0'
+- name: OUTFOX.REG
+  size: 2879
+  date: '1990-04-10T13:01:56'
+  crc: '0x8a52a2c1'

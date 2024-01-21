@@ -1,0 +1,62 @@
+filename: Battle Chess v1.00 (Installer) (1991)(Interplay Productions, Inc.) [Strategy, Chess][!].zip
+tdc_id: '12470.16'
+parent_id: '12470.13'
+title:
+  box: Battle Chess
+  qualifier: Installer
+publisher: Interplay Productions, Inc.
+year: '1991'
+genre:
+- Strategy
+- Chess
+language: English
+date:
+  added: '2023-10-25T18:32:52'
+  last_modified: '2023-10-26T08:18:03'
+version: '1.00'
+type: zip
+tags:
+- KnownGood
+media: 720K
+installer: true
+references:
+  mobygames: https://www.mobygames.com/game/1950/battle-chess/
+files:
+- name: ANIMATIO.N
+  size: 0
+  date: '1991-07-22T16:13:04'
+- name: EGA1.SS
+  size: 212658
+  date: '1991-07-22T14:38:14'
+  crc: '0x61048f24'
+- name: EGA2.SS
+  size: 358658
+  date: '1991-07-22T14:39:28'
+  crc: '0xc04a18e5'
+- name: INSTEGA.EXE
+  size: 10593
+  date: '1991-07-22T14:56:42'
+  crc: '0x7c705e64'
+- name: INSTVGA.EXE
+  size: 10585
+  date: '1991-07-22T14:57:32'
+  crc: '0xb56a6c2a'
+- name: README.DOC
+  size: 1214
+  date: '1991-07-22T16:07:08'
+  crc: '0x1560acb3'
+- name: STARTUP
+  size: 0
+  date: '1991-07-22T16:12:38'
+- name: VGA1.SS
+  size: 132650
+  date: '1991-07-22T14:40:34'
+  crc: '0xe2b74ab3'
+- name: VGA2.SS
+  size: 360555
+  date: '1991-07-22T14:41:46'
+  crc: '0x28d439b9'
+- name: VGA3.SS
+  size: 358769
+  date: '1991-07-22T14:42:50'
+  crc: '0x3ee9a357'

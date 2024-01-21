@@ -1,0 +1,28 @@
+filename: EGA Connect Four (1995)(William Yu) [Strategy].zip
+tdc_id: '13310.0'
+title:
+  screen: EGA Connect Four
+publisher: William Yu
+year: '1995'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T08:43:40'
+  last_modified: '2019-03-02T08:43:40'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: CONNECT4.BAS
+  size: 8975
+  date: '2018-03-09T18:33:28'
+  crc: '0x6875c8bf'
+- name: GO.BAT
+  size: 28
+  date: '2018-03-10T20:18:18'
+  crc: '0x6f7cd9cf'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'

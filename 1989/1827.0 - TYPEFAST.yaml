@@ -1,0 +1,45 @@
+filename: TYPEFAST (1989)(Dave Tutelman) [Action, Educational].zip
+tdc_id: '1827.0'
+title:
+  screen: TYPEFAST
+publisher: Dave Tutelman
+year: '1989'
+genre:
+- Action
+- Educational
+language: English
+date:
+  added: '2019-03-01T18:29:16'
+  last_modified: '2019-03-01T18:29:16'
+type: zip
+commands:
+  play: TYPEFAST.EXE
+files:
+- name: MAKEFILE
+  size: 240
+  date: '1989-11-27T20:02:00'
+  crc: '0xa464557e'
+- name: README
+  size: 1530
+  date: '1989-02-25T18:21:46'
+  crc: '0x75fbbb0b'
+- name: TYPEFAST.C
+  size: 14094
+  date: '1989-02-24T19:35:50'
+  crc: '0xb7645da3'
+- name: TYPEFAST.EXE
+  size: 98939
+  date: '1989-02-24T19:36:26'
+  crc: '0x6a4fce8e'
+- name: UTILS.C
+  size: 1564
+  date: '1989-02-19T18:54:16'
+  crc: '0x1457d9c8'
+- name: WORDLIST.H
+  size: 56041
+  date: '1989-02-11T17:25:12'
+  crc: '0xcd7c4917'
+- name: WORDS.C
+  size: 6444
+  date: '1989-02-19T18:48:04'
+  crc: '0xc139d241'

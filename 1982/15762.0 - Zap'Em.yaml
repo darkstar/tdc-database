@@ -1,0 +1,32 @@
+filename: Zap'Em v1B [SW][a2] (1982)(International PC Owners) [Action].zip
+tdc_id: '15762.0'
+title:
+  screen: Zap'Em
+publisher: International PC Owners
+year: '1982'
+genre: Action
+language: English
+date:
+  added: '2019-09-02T05:04:26'
+  last_modified: '2019-09-02T05:04:26'
+version: 1B
+type: zip
+tags:
+- Shareware
+- Alternate: 2
+media: Download
+commands:
+  play: ZAP'EM.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T12:00:00'
+  crc: '0x92293842'
+- name: ZAP'EM.BAS
+  size: 6400
+  date: '1983-04-16T13:00:00'
+  crc: '0xc008d7b0'
+- name: ZAP'EM.BAT
+  size: 16
+  date: '1980-01-01T12:00:00'
+  crc: '0xe71dbe6b'

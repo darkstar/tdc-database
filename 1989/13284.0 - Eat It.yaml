@@ -1,0 +1,28 @@
+filename: Eat It v2.0 (1989)(Marko Teittinen) [Action].zip
+tdc_id: '13284.0'
+title:
+  screen: Eat It
+publisher: Marko Teittinen
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:27:40'
+  last_modified: '2019-03-01T18:27:40'
+version: '2.0'
+type: zip
+commands:
+  play: EATIT.EXE
+files:
+- name: EATIT.DOC
+  size: 6620
+  date: '1989-07-30T02:00:00'
+  crc: '0xe1ae2559'
+- name: EATIT.EXE
+  size: 74058
+  date: '1989-07-30T02:00:00'
+  crc: '0x86e1f2c9'
+- name: HISCORES.EAT
+  size: 30
+  date: '2007-06-29T00:08:48'
+  crc: '0xe9d6ae84'

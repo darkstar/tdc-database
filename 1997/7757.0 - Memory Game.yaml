@@ -1,0 +1,30 @@
+filename: Memory Game [SW] (1997)(Cheng-Ning Pu) [Strategy].zip
+tdc_id: '7757.0'
+title:
+  screen: Memory Game
+publisher: Cheng-Ning Pu
+year: '1997'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:35:44'
+  last_modified: '2019-03-02T10:35:44'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 27
+  date: '2018-07-04T22:37:32'
+  crc: '0x956a9ee7'
+- name: MEMGAME.BAS
+  size: 6296
+  date: '2018-03-10T02:22:08'
+  crc: '0x1cfc233a'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T01:28:02'
+  crc: '0x19f6ed75'

@@ -1,0 +1,47 @@
+filename: Destination- Mars! v2.2 (Installer) (1993)(Compu-Teach) [Educational, Simulation].zip
+tdc_id: '13104.2'
+title:
+  box: 'Destination: Mars!'
+publisher: Compu-Teach
+year: '1993'
+genre:
+- Educational
+- Simulation
+language: English
+date:
+  added: '2019-03-01T19:02:20'
+  last_modified: '2019-03-01T19:02:20'
+version: '2.2'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 72127
+  date: '1994-01-06T10:11:10'
+  crc: '0xe2bb4450'
+- name: INSTALL.S
+  size: 4919
+  date: '1994-01-06T10:11:10'
+  crc: '0x178c623a'
+- name: MARS.001
+  size: 1347922
+  date: '1994-01-06T10:11:10'
+  crc: '0x8bba5e08'
+- name: MARS.002
+  size: 1411291
+  date: '1994-01-07T20:00:38'
+  crc: '0x5c4ecb6b'
+- name: MARS.003
+  size: 1299870
+  date: '1994-01-08T10:38:20'
+  crc: '0x93e52a9b'
+- name: MARS.004
+  size: 1182745
+  date: '1994-01-09T14:22:16'
+  crc: '0x4ba06da2'
+- name: MARS.005
+  size: 1207310
+  date: '1994-01-09T21:59:58'
+  crc: '0xc8878ba6'

@@ -1,0 +1,111 @@
+filename: Donald Duck's Playground v1.50 (Installer) (1987)(Sierra On-Line, Inc.) [Educational].zip
+tdc_id: '6623.4'
+title:
+  box: Donald Duck's Playground
+publisher: Sierra On-Line, Inc.
+year: '1987'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T18:25:16'
+  last_modified: '2019-03-01T18:25:16'
+version: '1.50'
+type: zip
+installer: true
+files:
+- name: AGI
+  size: 38400
+  date: '1987-06-23T09:54:38'
+  crc: '0x5474b33c'
+- name: AGI.BAK
+  size: 38400
+  date: '1987-06-23T09:54:38'
+  crc: '0x2551c0a6'
+- name: AGIDATA.OVL
+  size: 7680
+  date: '1987-05-29T08:16:32'
+  crc: '0x6bfc498a'
+- name: CGA_GRAF.OVL
+  size: 1024
+  date: '1987-05-29T08:16:00'
+  crc: '0xa2930a66'
+- name: CPC.COM
+  size: 8048
+  date: '1985-09-19T16:47:38'
+  crc: '0x5e7f9883'
+- name: EGA_GRAF.OVL
+  size: 1024
+  date: '1987-05-29T08:16:02'
+  crc: '0xd12b9d1e'
+- name: HGC_FONT
+  size: 3072
+  date: '1987-01-26T15:47:26'
+  crc: '0x200435c7'
+- name: HGC_GRAF.OVL
+  size: 1536
+  date: '1987-05-29T08:16:04'
+  crc: '0x98062f34'
+- name: HGC_OBJS.OVL
+  size: 1024
+  date: '1987-05-29T08:16:04'
+  crc: '0xe6b99395'
+- name: IBM_OBJS.OVL
+  size: 512
+  date: '1987-05-29T08:16:04'
+  crc: '0x1ddf5411'
+- name: INSTALLH.BAT
+  size: 1260
+  date: '1987-06-23T09:54:24'
+  crc: '0x951fe5fe'
+- name: JR_GRAF.OVL
+  size: 512
+  date: '1987-05-29T08:16:02'
+  crc: '0x03dce7ca'
+- name: LOGDIR
+  size: 132
+  date: '1987-06-23T15:46:58'
+  crc: '0xbc68812f'
+- name: MAKEPATH.COM
+  size: 74
+  date: '1987-04-22T12:05:20'
+  crc: '0xa04a3ac3'
+- name: OBJECT
+  size: 62
+  date: '1987-06-22T08:33:22'
+  crc: '0x26b1d477'
+- name: PICDIR
+  size: 90
+  date: '1987-06-23T15:46:58'
+  crc: '0x31e1ffe9'
+- name: SIERRA.COM
+  size: 2944
+  date: '1996-12-25T00:32:00'
+  crc: '0xd2435de8'
+- name: SIERRA.CO_
+  size: 2944
+  date: '1987-06-23T09:54:32'
+  crc: '0x8c7c46fe'
+- name: SNDDIR
+  size: 81
+  date: '1987-06-23T15:47:00'
+  crc: '0xd8d274d2'
+- name: VIEWDIR
+  size: 510
+  date: '1987-06-23T15:46:58'
+  crc: '0x46afbbd2'
+- name: VOL.0
+  size: 171074
+  date: '1987-06-23T15:47:00'
+  crc: '0x63fe5835'
+- name: WORDS.TOK
+  size: 208
+  date: '1987-06-22T08:49:32'
+  crc: '0x93f0225e'
+- name: _DP.BAT
+  size: 36
+  date: '1987-06-23T09:50:36'
+  crc: '0x42e6e96c'
+- name: _INSTALL.BAT
+  size: 769
+  date: '1987-06-23T09:54:28'
+  crc: '0xe1e0bb6c'

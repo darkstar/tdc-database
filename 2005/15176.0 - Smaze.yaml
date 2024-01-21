@@ -1,0 +1,35 @@
+filename: Smaze (Fr) (2005)(Frédéric Meslin) [Action].zip
+tdc_id: '15176.0'
+title:
+  screen: Smaze
+publisher: Frédéric Meslin
+year: '2005'
+genre: Action
+language: French
+date:
+  added: '2019-03-02T10:57:06'
+  last_modified: '2019-03-02T10:57:06'
+type: zip
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 21
+  date: '2018-12-13T20:08:14'
+  crc: '0x91d59d80'
+- name: NIVEAU.DAT
+  size: 19150
+  date: '2005-01-14T13:52:24'
+  crc: '0x753a09d1'
+- name: QB.EXE
+  size: 278804
+  date: '2016-03-13T01:19:58'
+  crc: '0xb08bc0fe'
+- name: SMAZE.BAS
+  size: 16091
+  date: '2005-03-09T15:06:32'
+  crc: '0x8df2bbb9'
+- name: Smaze English Readme.txt
+  size: 287
+  date: '2005-06-03T21:26:38'
+  crc: '0xac42e757'

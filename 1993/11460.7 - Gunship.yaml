@@ -1,0 +1,66 @@
+filename: Gunship v429.05 (1993)(Kixx XL) [Simulation].zip
+tdc_id: '11460.7'
+title:
+  box: 'Gunship: The Helicopter Simulation'
+  screen: Gunship
+publisher: Kixx XL
+year: '1993'
+genre: Simulation
+language: English
+date:
+  added: '2023-04-22T07:48:47'
+  last_modified: '2023-04-22T07:48:47'
+version: '429.05'
+type: zip
+commands:
+  play: GS.COM
+references:
+  mobygames: https://www.mobygames.com/game/335/gunship/
+files:
+- name: CAT1
+  size: 227723
+  date: '1988-04-20T16:44:32'
+  crc: '0x4437aa36'
+- name: CAT2
+  size: 129649
+  date: '1988-04-20T16:44:32'
+  crc: '0xdb68c912'
+- name: CGAME.EXE
+  size: 62329
+  date: '1988-04-20T16:44:32'
+  crc: '0xa42f0a57'
+- name: EGAME.EXE
+  size: 62375
+  date: '1988-04-20T16:44:32'
+  crc: '0xba0acd7d'
+- name: GS.COM
+  size: 3432
+  date: '1988-04-20T16:44:32'
+  crc: '0xbb39fd7d'
+- name: GUNSHIP.XL
+  size: 0
+  date: '1993-08-15T08:11:50'
+- name: READ.ME
+  size: 3441
+  date: '1988-04-20T16:44:32'
+  crc: '0xb04d0f79'
+- name: ROSTER.FIL
+  size: 936
+  date: '1988-04-20T16:44:32'
+  crc: '0x68795a49'
+- name: ROSTER.SAV
+  size: 936
+  date: '1988-04-20T16:44:32'
+  crc: '0x68795a49'
+- name: START.EXE
+  size: 77871
+  date: '1988-04-20T16:44:32'
+  crc: '0x05dd7b2f'
+- name: TGAME.EXE
+  size: 59533
+  date: '1988-04-20T16:44:32'
+  crc: '0x3b577f53'
+- name: TITLE.EXE
+  size: 17133
+  date: '1988-05-02T15:29:24'
+  crc: '0xd9efd60b'

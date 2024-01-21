@@ -1,0 +1,33 @@
+filename: Rings of Medusa II- The Return of Medusa v1.10 (Installer) (De) (1991)(Starbyte Software) [Strategy].zip
+tdc_id: '9963.1'
+parent_id: '9963.3'
+title:
+  box: 'Rings of Medusa II: The Return of Medusa'
+publisher: Starbyte Software
+year: '1991'
+genre: Strategy
+language: German
+date:
+  added: '2019-03-01T18:37:32'
+  last_modified: '2019-03-01T18:37:32'
+version: '1.10'
+type: zip
+media: 360K
+installer: true
+files:
+- name: INSTALL.CFG
+  size: 1182
+  date: '1991-10-17T04:53:16'
+  crc: '0x60e95469'
+- name: INSTALL.EXE
+  size: 24836
+  date: '1991-10-10T14:42:02'
+  crc: '0xab4772c2'
+- name: ROM000.PAK
+  size: 328159
+  date: '1991-10-20T21:47:32'
+  crc: '0x5b23ffff'
+- name: ROM001.PAK
+  size: 358052
+  date: '1991-10-20T16:53:24'
+  crc: '0x60dfeba5'

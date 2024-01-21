@@ -1,0 +1,67 @@
+filename: GX Games v1.01 (Installer) [f1] (1991)(Genus Microprogramming, Inc.) [Strategy, Action, Compilation].zip
+tdc_id: '662.0'
+title:
+  screen: GX Games
+publisher: Genus Microprogramming, Inc.
+year: '1991'
+genre:
+- Strategy
+- Action
+- Compilation
+language: English
+date:
+  added: '2019-03-01T18:36:12'
+  last_modified: '2019-03-01T18:36:12'
+version: '1.01'
+type: zip
+tags:
+- Fixed: 1
+installer: true
+compilation: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: BSOURCE.LIF
+  size: 95893
+  date: '1991-12-01T01:01:00'
+  crc: '0x53c7bd05'
+- name: CSOURCE.LIF
+  size: 92489
+  date: '1991-12-01T01:01:00'
+  crc: '0x2b3283fa'
+- name: DISK.ID
+  size: 38
+  date: '1991-12-01T01:01:00'
+  crc: '0x88950c7d'
+- name: GAMES.LIF
+  size: 216075
+  date: '1991-12-01T01:01:00'
+  crc: '0xbce53a4a'
+- name: GAREAD.ME
+  size: 1746
+  date: '1991-12-01T01:01:00'
+  crc: '0x3280d3bb'
+- name: GXEXPLAI.NED
+  size: 593
+  date: '1992-06-24T12:33:58'
+  crc: '0x1b383dd6'
+- name: GXL.LIF
+  size: 293271
+  date: '1991-12-01T01:01:00'
+  crc: '0x3b52aae4'
+- name: INSTALL.DAT
+  size: 16221
+  date: '2012-08-10T19:37:36'
+  crc: '0xa9fda9bc'
+- name: INSTALL.DA_
+  size: 16229
+  date: '1991-12-01T01:01:00'
+  crc: '0xf1a5b2a8'
+- name: INSTALL.EXE
+  size: 78843
+  date: '1991-12-01T01:01:00'
+  crc: '0xafa80518'
+- name: PSOURCE.LIF
+  size: 93152
+  date: '1991-12-01T01:01:00'
+  crc: '0x34b7a984'

@@ -1,0 +1,73 @@
+filename: Oxyd v3.C (Installer) (En)(De)(Fr) (1993)(Dongleware Verlags GmbH) [Strategy, Action].zip
+tdc_id: '8476.8'
+title:
+  box: Oxyd
+publisher: Dongleware Verlags GmbH
+year: '1993'
+genre:
+- Strategy
+- Action
+language:
+- English
+- French
+- German
+date:
+  added: '2020-08-23T19:48:06'
+  last_modified: '2020-08-23T19:48:06'
+version: 3.C
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 53762
+  date: '1994-11-21T18:02:32'
+  crc: '0x97e3511c'
+- name: OXYD_V3C\
+  size: 0
+  date: '1994-11-03T12:58:46'
+- name: OXYD_V3C\LANGUAGE.OX1
+  size: 2
+  date: '1993-02-18T17:34:44'
+  crc: '0x41d912ff'
+- name: OXYD_V3C\LIESMICH.TXT
+  size: 989
+  date: '1993-04-15T10:42:40'
+  crc: '0x3ab94bdb'
+- name: OXYD_V3C\LISEZMOI.TXT
+  size: 1390
+  date: '1993-04-15T10:43:24'
+  crc: '0xe41c92d5'
+- name: OXYD_V3C\MINTIMES.OX1
+  size: 802
+  date: '1993-01-14T18:53:34'
+  crc: '0x10943f1d'
+- name: OXYD_V3C\OXYD1IBM.DAT
+  size: 574909
+  date: '1993-05-27T11:32:14'
+  crc: '0x08f50816'
+- name: OXYD_V3C\OXYD_BW.EXE
+  size: 159379
+  date: '1994-11-21T17:12:58'
+  crc: '0xbd28e5bf'
+- name: OXYD_V3C\OXYD_HGC.EXE
+  size: 159283
+  date: '1994-11-21T17:12:54'
+  crc: '0xb0391b1e'
+- name: OXYD_V3C\OXYD_HI.EXE
+  size: 192378
+  date: '1994-11-21T17:13:04'
+  crc: '0x0aeec3e6'
+- name: OXYD_V3C\OXYD_LO.EXE
+  size: 159528
+  date: '1994-11-21T17:13:00'
+  crc: '0x67227554'
+- name: OXYD_V3C\README.TXT
+  size: 1220
+  date: '1993-04-15T10:43:52'
+  crc: '0xfb2fa21d'
+- name: OXYD_V3C\SOUND.OX1
+  size: 2
+  date: '1993-01-21T13:05:26'
+  crc: '0x58c223be'

@@ -1,0 +1,29 @@
+filename: Wizard Warz (1987)(GO!) [Action, Adventure, Role-Playing (RPG)].zip
+tdc_id: '7592.0'
+title:
+  screen: Wizard Warz
+publisher: GO!
+year: '1987'
+genre:
+- Action
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-04-21T16:56:12'
+  last_modified: '2019-04-21T16:56:12'
+type: zip
+commands:
+  play: WIZARD.EXE
+references:
+  dosid: DOS05685
+  exodos: Wizard Warz (1987).zip
+files:
+- name: CTITLE.SCN
+  size: 16384
+  date: '1988-03-14T14:03:34'
+  crc: '0x4858b791'
+- name: WIZARD.EXE
+  size: 171232
+  date: '1988-06-26T23:23:12'
+  crc: '0xf20327e1'

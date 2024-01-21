@@ -1,0 +1,97 @@
+filename: African Raiders-01 (1989)(Coktel Vision) [Racing - Driving, Simulation, Sports].zip
+tdc_id: '8156.0'
+title:
+  box: African Raiders-01
+publisher: Coktel Vision
+year: '1989'
+genre:
+- Racing - Driving
+- Simulation
+- Sports
+language: English
+date:
+  added: '2019-03-01T18:27:08'
+  last_modified: '2019-03-01T18:27:08'
+type: zip
+commands:
+  play: LOADER.EXE
+references:
+  dosid: DOS00746
+  exodos: African Raiders-01 (1989).zip
+files:
+- name: CARTE
+  size: 2
+  date: '1980-01-01T00:01:08'
+  crc: '0x58c223be'
+- name: CONCUR.CMP
+  size: 5721
+  date: '1989-02-23T11:10:00'
+  crc: '0xd4637923'
+- name: CPTEUR.CMP
+  size: 2770
+  date: '1986-04-24T00:12:20'
+  crc: '0x500bea94'
+- name: DECA.CMP
+  size: 2860
+  date: '1986-04-24T00:12:20'
+  crc: '0x11b6d77a'
+- name: DECB.CMP
+  size: 5187
+  date: '1986-04-24T00:12:20'
+  crc: '0x390e4640'
+- name: DECC.CMP
+  size: 5382
+  date: '1986-04-24T00:12:20'
+  crc: '0x8eda6110'
+- name: DECD.CMP
+  size: 6415
+  date: '1986-04-24T00:12:20'
+  crc: '0x7265afa9'
+- name: DECE.CMP
+  size: 7976
+  date: '1986-04-24T00:12:20'
+  crc: '0x7f1696de'
+- name: DEPART.CMP
+  size: 11046
+  date: '1986-04-24T00:12:20'
+  crc: '0x904fd8ff'
+- name: JEUCAR2.LET
+  size: 1557
+  date: '1986-04-24T00:12:20'
+  crc: '0xcf55dabf'
+- name: JEUDAK.LET
+  size: 1557
+  date: '1986-04-24T00:12:20'
+  crc: '0xfee7d28e'
+- name: JOUEUR.CMP
+  size: 13299
+  date: '1989-02-27T16:04:00'
+  crc: '0xd598df75'
+- name: LOADER.EXE
+  size: 132134
+  date: '1989-03-20T10:18:46'
+  crc: '0x18e7f518'
+- name: OBJETCO.CMP
+  size: 15422
+  date: '1986-04-24T00:12:20'
+  crc: '0x5c6fea8d'
+- name: OBJETCO1.CMP
+  size: 7160
+  date: '1986-04-24T00:12:20'
+  crc: '0xa08a7885'
+- name: OBJETCO2.CMP
+  size: 4836
+  date: '1986-04-24T00:12:20'
+  crc: '0xee4fd651'
+- name: PANNEAU.CMP
+  size: 4555
+  date: '1986-04-24T00:12:20'
+  crc: '0x30feeb04'
+- name: SABLE.CMP
+  size: 6968
+  date: '1986-04-24T00:12:20'
+  crc: '0x24b9b726'
+- name: TITRE.CMP
+  size: 9014
+  date: '1986-04-24T00:12:20'
+  crc: '0x2b59d500'

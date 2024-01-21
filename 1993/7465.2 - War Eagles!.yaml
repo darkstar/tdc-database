@@ -1,0 +1,44 @@
+filename: War Eagles! v1.10 (Installer) (1993)(Celery Software) [Simulation].zip
+tdc_id: '7465.2'
+title:
+  box: War Eagles!
+publisher: Celery Software
+year: '1993'
+genre: Simulation
+language: English
+date:
+  added: '2022-12-12T14:51:10'
+  last_modified: '2022-12-12T14:51:10'
+version: '1.10'
+type: zip
+installer: true
+commands:
+  play: GO.BAT
+files:
+- name: '567.001'
+  size: 163252
+  date: '1993-09-01T16:35:54'
+  crc: '0x4de49b2c'
+- name: 5671WEGL.110
+  size: 0
+  date: '1993-09-09T10:49:30'
+- name: DISK.ID
+  size: 33
+  date: '1993-09-01T16:34:02'
+  crc: '0x9043aca6'
+- name: GO.BAT
+  size: 25
+  date: '1993-09-01T09:06:12'
+  crc: '0x027359ef'
+- name: INSTALL.DAT
+  size: 2847
+  date: '1993-09-01T15:07:08'
+  crc: '0x89280d0c'
+- name: INSTALL.EXE
+  size: 97207
+  date: '1993-09-01T16:34:12'
+  crc: '0x5ec4c830'
+- name: README.NOW
+  size: 1410
+  date: '1993-09-01T13:31:44'
+  crc: '0xc36fa767'

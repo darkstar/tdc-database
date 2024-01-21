@@ -1,0 +1,26 @@
+filename: Apple Panic [DC][f1] (1982)(Brøderbund Software, Inc.) [Action].zip
+tdc_id: '6008.1'
+title:
+  box: Apple Panic
+publisher: Brøderbund Software, Inc.
+year: '1982'
+genre: Action
+language: English
+date:
+  added: '2019-04-19T19:14:30'
+  last_modified: '2019-04-19T19:14:30'
+type: zip
+tags:
+- DOSConversion
+- Fixed: 1
+commands:
+  play: PANIC.EXE
+files:
+- name: NOTE.TXT
+  size: 538
+  date: '2005-10-10T15:18:36'
+  crc: '0x5cafd512'
+- name: PANIC.EXE
+  size: 33281
+  date: '2005-10-10T15:17:58'
+  crc: '0x76e9a60f'

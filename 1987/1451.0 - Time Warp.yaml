@@ -1,0 +1,28 @@
+filename: Time Warp (Pinball Construction Set) (1987)(David and Eric Johnson) [Action].zip
+tdc_id: '1451.0'
+title:
+  screen: Time Warp
+  qualifier: Pinball Construction Set
+publisher: David and Eric Johnson
+year: '1987'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:25:44'
+  last_modified: '2019-03-01T18:25:44'
+type: zip
+requirements:
+  cpu:
+    min: '8088'
+media: Download
+commands:
+  play: TIMEWARP.COM
+files:
+- name: PINBALL.DOC
+  size: 560
+  date: '1988-06-25T17:43:24'
+  crc: '0xfa5e2a5c'
+- name: TIMEWARP.COM
+  size: 64512
+  date: '1993-08-25T23:56:46'
+  crc: '0x38ca9110'

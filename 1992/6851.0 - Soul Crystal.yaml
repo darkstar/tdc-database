@@ -1,0 +1,123 @@
+filename: Soul Crystal v1.5 (De) (1992)(Starbyte Software) [Adventure].zip
+tdc_id: '6851.0'
+title:
+  box: Soul Crystal
+publisher: Starbyte Software
+year: '1992'
+genre: Adventure
+language: German
+date:
+  added: '2019-03-01T18:51:06'
+  last_modified: '2019-03-01T18:51:06'
+version: '1.5'
+type: zip
+commands:
+  play: SOUL.EXE
+references:
+  dosid: DOS04676
+  exodos: Soul Crystal (1992).zip
+files:
+- name: ANIMS.PIC
+  size: 329002
+  date: '1992-02-19T07:15:00'
+  crc: '0x9089af93'
+- name: CASTTEXT.PIC
+  size: 64066
+  date: '1992-02-19T07:15:00'
+  crc: '0x147975bf'
+- name: COMMN.TXT
+  size: 15470
+  date: '1992-02-19T07:15:00'
+  crc: '0xf029942f'
+- name: FONT.PIC
+  size: 3592
+  date: '1992-02-19T07:15:00'
+  crc: '0xbf07382d'
+- name: INITIAL.PIC
+  size: 25648
+  date: '1992-02-19T07:15:00'
+  crc: '0x5e923061'
+- name: INTRO.PIC
+  size: 402730
+  date: '1992-02-19T07:15:00'
+  crc: '0x91e32448'
+- name: KEYDEFS.DAT
+  size: 1280
+  date: '1992-02-19T07:15:00'
+  crc: '0xd76ab920'
+- name: MENUMAIN.PIC
+  size: 28228
+  date: '1992-02-19T07:15:00'
+  crc: '0xe9d7e9ef'
+- name: MENUSUBS.PIC
+  size: 110634
+  date: '1992-02-19T07:15:00'
+  crc: '0x65e701f5'
+- name: MUSIK.DAT
+  size: 117898
+  date: '1992-02-19T07:15:00'
+  crc: '0xd1d6b3cd'
+- name: OBJECTS.TXT
+  size: 2656
+  date: '1992-02-19T07:15:00'
+  crc: '0x7714fc0c'
+- name: PARTA.PIC
+  size: 152866
+  date: '1992-02-19T07:15:00'
+  crc: '0x2cbab429'
+- name: PARTA.TXT
+  size: 18856
+  date: '1992-02-19T07:15:00'
+  crc: '0xb12d1bb8'
+- name: PARTB.TXT
+  size: 55256
+  date: '1992-02-19T07:15:00'
+  crc: '0x6418146b'
+- name: PARTB1.PIC
+  size: 180294
+  date: '1992-02-19T07:15:00'
+  crc: '0x3e8fd591'
+- name: PARTB2.PIC
+  size: 198872
+  date: '1992-02-19T07:15:00'
+  crc: '0x9ba816d8'
+- name: PARTC.PIC
+  size: 166068
+  date: '1992-02-19T07:15:00'
+  crc: '0x4c8f3b87'
+- name: PARTC.TXT
+  size: 16518
+  date: '1992-02-19T07:15:00'
+  crc: '0xed0e2a47'
+- name: PARTD.TXT
+  size: 52118
+  date: '1992-02-19T07:15:00'
+  crc: '0x6159890b'
+- name: PARTD1.PIC
+  size: 189730
+  date: '1992-02-19T07:15:00'
+  crc: '0xff6092f1'
+- name: PARTD2.PIC
+  size: 264208
+  date: '1992-02-19T07:15:00'
+  crc: '0xab7e6c88'
+- name: RAM.TXT
+  size: 1958
+  date: '1992-02-19T07:15:00'
+  crc: '0xb2593b9c'
+- name: SOUL.CFG
+  size: 552
+  date: '1992-02-19T07:15:00'
+  crc: '0x9bef82b4'
+- name: SOUL.EXE
+  size: 127658
+  date: '1992-02-19T07:15:00'
+  crc: '0x1c60293a'
+- name: SOUL.EX_
+  size: 127658
+  date: '1992-02-19T07:15:00'
+  crc: '0x3e8ab503'
+- name: VERBS.TXT
+  size: 1388
+  date: '1992-02-19T07:15:00'
+  crc: '0x81ad0522'

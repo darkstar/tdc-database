@@ -1,0 +1,40 @@
+filename: EdChess v2.30 [SW] (1992)(EdTech Associates Inc.) [Strategy, Chess].zip
+tdc_id: '13299.1'
+title:
+  screen: EdChess
+publisher: EdTech Associates Inc.
+year: '1992'
+genre:
+- Strategy
+- Chess
+language: English
+date:
+  added: '2019-03-01T18:44:38'
+  last_modified: '2019-03-01T18:44:38'
+version: '2.30'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: EDCHESS.EXE
+references:
+  dosid: DOS01965
+  exodos: Ed Chess (1994).zip
+files:
+- name: EDCHESS.DOC
+  size: 30338
+  date: '1992-03-12T02:30:04'
+  crc: '0x2cdc8870'
+- name: EDCHESS.EXE
+  size: 56146
+  date: '1992-03-12T02:30:04'
+  crc: '0xe9f42fcd'
+- name: EDCHESS.LIB
+  size: 44818
+  date: '1992-03-12T02:30:04'
+  crc: '0x1cb5ee7b'
+- name: VENDOR.DOC
+  size: 2045
+  date: '1992-03-12T02:30:04'
+  crc: '0xf2e64094'

@@ -1,0 +1,24 @@
+filename: DOOM v0.2 Alpha (1993)(id Software, Inc.) [Action].zip
+tdc_id: '9454.24'
+title:
+  box: DOOM
+publisher: id Software, Inc.
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T19:02:26'
+  last_modified: '2019-03-01T19:02:26'
+version: '0.2'
+type: zip
+commands:
+  play: DOOM.EXE
+files:
+- name: DOOM.EXE
+  size: 259177
+  date: '1993-02-04T15:20:46'
+  crc: '0xab5e87f7'
+- name: DOOM.WAD
+  size: 496250
+  date: '1993-02-04T15:20:50'
+  crc: '0x2587d97b'

@@ -1,0 +1,33 @@
+filename: Legend of Zelda - Ganon Strikes Agian! (1999)(Nukem Enterprises) [Adventure, Interactive Fiction].zip
+tdc_id: '6360.0'
+title:
+  screen: Legend of Zelda - Ganon Strikes Agian!
+publisher: Nukem Enterprises
+year: '1999'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T10:46:14'
+  last_modified: '2019-03-02T10:46:14'
+type: zip
+commands:
+  play: ZELDA.EXE
+files:
+- name: ZELDA.BAS
+  size: 4719
+  date: '2018-12-13T20:38:02'
+  crc: '0x94f0af01'
+- name: ZELDA.EXE
+  size: 39306
+  date: '1999-03-17T17:01:22'
+  crc: '0x08392049'
+- name: ZELDA.OBJ
+  size: 9238
+  date: '1999-03-17T17:01:22'
+  crc: '0x11be46fa'
+- name: ZELDA.TXT
+  size: 194
+  date: '1999-03-17T17:04:32'
+  crc: '0x23035a15'

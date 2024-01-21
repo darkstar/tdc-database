@@ -1,0 +1,40 @@
+filename: Traffic Department 2192 (Installer) (1994)(Monkey Business, Inc.) [Action].zip
+tdc_id: '16864.0'
+title:
+  screen: Traffic Department 2192
+publisher: Monkey Business, Inc.
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T07:18:32'
+  last_modified: '2019-03-02T07:18:32'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.BIN
+  size: 4000
+  date: '1994-03-18T18:58:20'
+  crc: '0x8b18e882'
+- name: INSTALL.DAT
+  size: 25
+  date: '1994-09-21T16:19:18'
+  crc: '0xc5475145'
+- name: INSTALL.EXE
+  size: 21264
+  date: '1994-06-03T14:37:16'
+  crc: '0x9b970def'
+- name: TD123.X00
+  size: 88
+  date: '1994-09-21T16:19:18'
+  crc: '0x1cf9d8b1'
+- name: TD123.X01
+  size: 1430528
+  date: '1994-09-21T16:18:52'
+  crc: '0xd27ea31c'
+- name: TD123.Z02
+  size: 1120150
+  date: '1994-09-21T16:19:04'
+  crc: '0xd332280e'

@@ -1,0 +1,79 @@
+filename: Sraz (Hr) (1993)(32bita d.o.o.) [Simulation].zip
+tdc_id: '2835.0'
+title:
+  screen: Sraz
+publisher: 32bita d.o.o.
+year: '1993'
+genre: Simulation
+language: Croatian
+date:
+  added: '2019-03-01T21:08:38'
+  last_modified: '2019-03-01T21:08:38'
+type: zip
+commands:
+  play: SRAZ.EXE
+files:
+- name: '0000.000'
+  size: 532
+  date: '2006-08-17T00:37:08'
+  crc: '0x192bffe5'
+- name: '00000.111'
+  size: 704
+  date: '2006-08-17T00:37:10'
+  crc: '0x014052b9'
+- name: '000000.000'
+  size: 69776
+  date: '2006-08-17T00:38:06'
+  crc: '0x969e3265'
+- name: '0001.100'
+  size: 64000
+  date: '2006-08-17T00:37:14'
+  crc: '0x1d3e2a4e'
+- name: '0001.200'
+  size: 768
+  date: '2006-08-17T00:37:16'
+  crc: '0x81b219ef'
+- name: '0002.100'
+  size: 64000
+  date: '2006-08-17T00:37:20'
+  crc: '0xbfac834e'
+- name: '0002.200'
+  size: 768
+  date: '2006-08-17T00:37:24'
+  crc: '0x45759599'
+- name: '0003.010'
+  size: 27200
+  date: '2006-08-17T00:37:26'
+  crc: '0xbf2094ed'
+- name: '0003.020'
+  size: 3120
+  date: '2006-08-17T00:37:30'
+  crc: '0x853c0197'
+- name: '0011.100'
+  size: 4040
+  date: '2006-08-17T00:37:30'
+  crc: '0x48f4520f'
+- name: '0011.200'
+  size: 106469
+  date: '2006-08-17T00:38:14'
+  crc: '0x29eb337e'
+- name: '2000.010'
+  size: 12288
+  date: '2006-08-17T00:37:32'
+  crc: '0x6ff62ff3'
+- name: '2000.020'
+  size: 384
+  date: '2006-08-17T00:37:36'
+  crc: '0x37aac4bf'
+- name: CHECKSUM.md5
+  size: 619
+  date: '2017-05-18T05:31:02'
+  crc: '0xfdbfed3b'
+- name: SRAZ.EXE
+  size: 83392
+  date: '2006-08-17T00:38:18'
+  crc: '0xa017bdd0'
+- name: info.txt
+  size: 1957
+  date: '2017-05-18T05:36:02'
+  crc: '0x7013748d'

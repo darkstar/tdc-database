@@ -1,0 +1,28 @@
+filename: Formula-1 TURBO (1996)(David S. Issel) [Action, Racing - Driving].zip
+tdc_id: '13743.0'
+title:
+  screen: Formula-1 TURBO
+publisher: David S. Issel
+year: '1996'
+genre:
+- Action
+- Racing - Driving
+language: English
+date:
+  added: '2019-03-02T10:03:48'
+  last_modified: '2019-03-02T10:03:48'
+type: zip
+commands:
+  play: f1-turbo.com
+references:
+  dosid: DOS06841
+  exodos: Formula-1 TURBO (1995).zip
+files:
+- name: f1-turbo.com
+  size: 256
+  date: '1980-01-01T00:00:00'
+  crc: '0xa3f056b8'
+- name: f1-turbo.txt
+  size: 4133
+  date: '1980-01-01T00:00:00'
+  crc: '0xdfca54df'

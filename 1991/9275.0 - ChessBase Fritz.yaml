@@ -1,0 +1,84 @@
+filename: ChessBase Fritz (En)(De) (1991)(Boeder Software GmbH) [Educational, Strategy, Chess].zip
+tdc_id: '9275.0'
+title:
+  screen: ChessBase Fritz
+publisher: Boeder Software GmbH
+year: '1991'
+genre:
+- Educational
+- Strategy
+- Chess
+language:
+- English
+- German
+date:
+  added: '2019-03-01T18:35:14'
+  last_modified: '2019-03-01T18:35:14'
+type: zip
+commands:
+  play: FRITZ.EXE
+files:
+- name: FRANZ.FBK
+  size: 29760
+  date: '1991-10-09T21:08:18'
+  crc: '0xf512fd4e'
+- name: FRITZ.BIN
+  size: 28828
+  date: '1991-08-27T12:34:34'
+  crc: '0x7a00ea34'
+- name: FRITZ.CBF
+  size: 63253
+  date: '1991-09-03T22:37:46'
+  crc: '0x35515646'
+- name: FRITZ.CBI
+  size: 2044
+  date: '1993-07-01T14:17:24'
+  crc: '0xb9bbad18'
+- name: FRITZ.CKF
+  size: 21680
+  date: '1993-07-01T14:17:24'
+  crc: '0x759784bd'
+- name: FRITZ.CPF
+  size: 6528
+  date: '1991-09-03T22:39:36'
+  crc: '0x58e8413a'
+- name: FRITZ.EXE
+  size: 120544
+  date: '1991-10-07T20:33:28'
+  crc: '0xa2c304dc'
+- name: FRITZ.FBK
+  size: 16132
+  date: '1990-08-16T13:47:18'
+  crc: '0x00cf9c8c'
+- name: FRITZ.HLD
+  size: 8406
+  date: '1991-09-03T22:24:40'
+  crc: '0xca206495'
+- name: FRITZ.HLE
+  size: 8272
+  date: '1991-09-03T23:47:32'
+  crc: '0xce9a080f'
+- name: FRITZ.IMG
+  size: 1448
+  date: '1991-09-21T22:11:18'
+  crc: '0xa4950cbd'
+- name: FRITZ.PAR
+  size: 666
+  date: '1993-09-20T18:05:20'
+  crc: '0x15b75f7b'
+- name: TAKTIK.CBF
+  size: 4077
+  date: '1991-08-26T15:26:44'
+  crc: '0xb75392d5'
+- name: TAKTIK.CBI
+  size: 192
+  date: '1991-08-26T15:26:44'
+  crc: '0xdf47aeab'
+- name: TAKTIK.CKF
+  size: 160
+  date: '1991-09-02T12:03:30'
+  crc: '0x6bd8dca8'
+- name: TAKTIK.CPF
+  size: 68
+  date: '1991-09-02T12:03:30'
+  crc: '0xac752414'

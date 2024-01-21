@@ -1,0 +1,28 @@
+filename: King (1982)(His Majesty's Game Company) [Strategy].zip
+tdc_id: '1017.0'
+title:
+  screen: King
+publisher: His Majesty's Game Company
+year: '1982'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:23:00'
+  last_modified: '2019-03-01T18:23:00'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 20
+  date: '2019-01-13T23:52:40'
+  crc: '0x4135bde5'
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1988-10-05T02:00:08'
+  crc: '0x2a44af39'
+- name: KING.BAS
+  size: 7936
+  date: '1982-04-04T00:00:00'
+  crc: '0x0ff5b69c'

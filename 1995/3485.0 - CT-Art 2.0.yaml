@@ -1,0 +1,111 @@
+filename: CT-Art 2.0 (demo) (1995)(InformSystems & M.Blokh) [Strategy, Chess, Educational].zip
+tdc_id: '3485.0'
+title:
+  screen: CT-Art 2.0
+  qualifier: demo
+publisher: InformSystems & M.Blokh
+year: '1995'
+genre:
+- Strategy
+- Chess
+- Educational
+language: English
+date:
+  added: '2019-01-17T07:55:02'
+  last_modified: '2019-01-17T07:55:02'
+type: zip
+demo: true
+commands:
+  play: CTART.EXE
+files:
+- name: 8X16.FNT
+  size: 4096
+  date: '1995-10-23T18:09:22'
+  crc: '0x5c77e32e'
+- name: BASE_M.DAT
+  size: 11451
+  date: '1995-12-22T20:32:08'
+  crc: '0xd8c25732'
+- name: BASE_M.IDX
+  size: 840
+  date: '1995-12-22T20:32:08'
+  crc: '0xa1a96d8e'
+- name: COLORS.D0
+  size: 768
+  date: '1994-11-25T20:46:12'
+  crc: '0xedd72262'
+- name: COLORS.D1
+  size: 768
+  date: '1994-11-25T20:46:12'
+  crc: '0x6b616f3c'
+- name: COLORS.DEF
+  size: 768
+  date: '1994-10-06T20:03:40'
+  crc: '0xc5f24e6e'
+- name: CONT1.DAT
+  size: 5716
+  date: '1995-12-22T19:52:52'
+  crc: '0xae5a419d'
+- name: CONT2.DAT
+  size: 5431
+  date: '1995-12-22T20:46:52'
+  crc: '0x48470c47'
+- name: CONT3.DAT
+  size: 379
+  date: '1995-12-22T21:05:54'
+  crc: '0x5ca023b0'
+- name: CS.RES
+  size: 40251
+  date: '1994-11-25T19:43:12'
+  crc: '0xd0ac23df'
+- name: CTART.CFG
+  size: 8
+  date: '1995-10-23T18:17:00'
+  crc: '0x9581863d'
+- name: CTART.EXE
+  size: 88336
+  date: '1996-02-01T20:16:46'
+  crc: '0x86862894'
+- name: CTART.OVR
+  size: 216648
+  date: '1996-02-01T20:16:46'
+  crc: '0x1398ef25'
+- name: CTART.SCR
+  size: 27833
+  date: '1995-11-14T21:23:30'
+  crc: '0x09686cae'
+- name: FILE_ID.DIZ
+  size: 85
+  date: '1996-05-21T19:56:30'
+  crc: '0x00c17566'
+- name: GAMEINFO.DAT
+  size: 250
+  date: '1995-12-22T20:32:08'
+  crc: '0x29a9c887'
+- name: GAMES1.DAT
+  size: 72
+  date: '1995-12-22T20:36:04'
+  crc: '0x04f950b6'
+- name: GAMES2.DAT
+  size: 54
+  date: '1995-12-22T20:35:22'
+  crc: '0x7d69acb0'
+- name: GAMES3.DAT
+  size: 134
+  date: '1995-12-22T21:04:30'
+  crc: '0xb57501f1'
+- name: PICTURES.DAT
+  size: 46336
+  date: '1995-04-18T08:47:46'
+  crc: '0xa3d5ede5'
+- name: PLAYING.DAT
+  size: 401
+  date: '1995-12-25T21:15:40'
+  crc: '0x882d0bbb'
+- name: USERS\
+  size: 0
+  date: '1996-05-21T19:54:38'
+- name: USERS\DIRINFO
+  size: 15
+  date: '1995-12-01T12:13:24'
+  crc: '0x2747e02e'

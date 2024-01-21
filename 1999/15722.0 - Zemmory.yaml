@@ -1,0 +1,30 @@
+filename: Zemmory (1999)(BattleCraft99) [Strategy, Puzzle].zip
+tdc_id: '15722.0'
+title:
+  screen: Zemmory
+publisher: BattleCraft99
+year: '1999'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-03-02T10:47:20'
+  last_modified: '2019-03-02T10:47:20'
+type: zip
+media: Download
+commands:
+  play: start.bat
+files:
+- name: QBASIC.EXE
+  size: 194309
+  date: '1995-07-11T10:50:00'
+  crc: '0x3152911c'
+- name: ZEMMORY.BAS
+  size: 75084
+  date: '1999-09-07T20:14:32'
+  crc: '0x6adff759'
+- name: start.bat
+  size: 25
+  date: '2014-03-09T20:36:34'
+  crc: '0x36b2a4ae'

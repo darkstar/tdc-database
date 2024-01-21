@@ -1,0 +1,52 @@
+filename: Eagles v0.10 (1996)(Peter Dornbach) [Simulation].zip
+tdc_id: '227.0'
+title:
+  screen: Eagles
+publisher: Peter Dornbach
+year: '1996'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-02T10:03:26'
+  last_modified: '2019-03-02T10:03:26'
+version: '0.10'
+type: zip
+commands:
+  play: EAGLES.EXE
+files:
+- name: DOS4GW.EXE
+  size: 265420
+  date: '1995-06-02T21:56:56'
+  crc: '0xcb214447'
+- name: EAGLES.CFG
+  size: 245
+  date: '1996-12-06T17:30:50'
+  crc: '0x3472030e'
+- name: EAGLES.EXE
+  size: 256924
+  date: '1996-12-09T13:12:20'
+  crc: '0xb98a445f'
+- name: FONTS.SIM
+  size: 26628
+  date: '1996-01-27T18:04:08'
+  crc: '0x4979cb1e'
+- name: GRANDC-E.SIM
+  size: 2919168
+  date: '1996-09-17T17:17:20'
+  crc: '0xa598b826'
+- name: KEYBOARD.TXT
+  size: 774
+  date: '1996-11-20T17:33:34'
+  crc: '0x4fb4bac3'
+- name: MISSIONS.SIM
+  size: 17536
+  date: '1996-11-26T18:59:20'
+  crc: '0x29e8cb70'
+- name: OBJECTS.SIM
+  size: 122368
+  date: '1996-12-01T18:15:32'
+  crc: '0x0ec5bf25'
+- name: SYSTEM.SIM
+  size: 429921
+  date: '1996-09-21T21:03:48'
+  crc: '0x87bc5752'

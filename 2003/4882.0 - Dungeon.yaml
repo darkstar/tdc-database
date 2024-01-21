@@ -1,0 +1,97 @@
+filename: Dungeon v3.2b (2003)(David Kinder) [Adventure, Interactive Fiction].zip
+tdc_id: '4882.0'
+title:
+  screen: Dungeon
+publisher: David Kinder
+year: '2003'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T10:56:28'
+  last_modified: '2019-03-02T10:56:28'
+version: 3.2b
+type: zip
+commands:
+  play: dungeon.exe
+files:
+- name: cwsdpmi.exe
+  size: 20125
+  date: '2000-10-22T12:55:00'
+  crc: '0x1d1b569c'
+- name: dindx
+  size: 71071
+  date: '1994-10-05T20:18:56'
+  crc: '0x1591d2bd'
+- name: dosport.txt
+  size: 1840
+  date: '2003-10-29T20:03:44'
+  crc: '0x1ca113d5'
+- name: dtext
+  size: 271280
+  date: '1994-10-05T20:19:02'
+  crc: '0x1084bb62'
+- name: dungeon.exe
+  size: 262144
+  date: '2003-10-29T20:06:08'
+  crc: '0xa79fdf23'
+- name: dungeon.txt
+  size: 20815
+  date: '2003-10-26T23:51:30'
+  crc: '0x2357ef08'
+- name: hints.txt
+  size: 2105
+  date: '1994-10-01T21:03:42'
+  crc: '0xb2a32d3c'
+- name: src\
+  size: 0
+  date: '2003-10-29T20:06:20'
+- name: src\Makefile
+  size: 227
+  date: '2003-10-28T23:23:36'
+  crc: '0xf4dd5144'
+- name: src\dparam.for
+  size: 22837
+  date: '2003-10-28T19:59:24'
+  crc: '0x2853c7ea'
+- name: src\dundiffs.txt
+  size: 7372
+  date: '1994-10-01T21:03:42'
+  crc: '0x5e141900'
+- name: src\dungeon.f
+  size: 4296
+  date: '2003-10-28T19:59:24'
+  crc: '0xdb3ea9d0'
+- name: src\game.f
+  size: 9336
+  date: '2003-10-26T22:59:32'
+  crc: '0x1ff9cea6'
+- name: src\gdt.f
+  size: 12490
+  date: '1994-10-01T21:03:30'
+  crc: '0x765e06cf'
+- name: src\objects.f
+  size: 72505
+  date: '2003-10-28T19:59:24'
+  crc: '0x3a4f25a4'
+- name: src\parser.f
+  size: 51941
+  date: '2003-10-28T19:59:24'
+  crc: '0xcffb00ef'
+- name: src\rooms.f
+  size: 22373
+  date: '2003-10-29T20:04:46'
+  crc: '0x1d68577d'
+- name: src\subr.f
+  size: 30218
+  date: '2003-10-28T23:23:02'
+  crc: '0xf50fbaec'
+- name: src\timefnc.f
+  size: 33901
+  date: '2003-10-26T23:03:36'
+  crc: '0x2950953c'
+- name: src\verbs.f
+  size: 54453
+  date: '2003-10-28T19:59:24'
+  crc: '0xf90e2942'

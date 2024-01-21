@@ -1,0 +1,30 @@
+filename: Nibbles [FW] (1997)(Jim Emptage) [Action].zip
+tdc_id: '6425.0'
+title:
+  screen: Nibbles
+publisher: Jim Emptage
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:35:28'
+  last_modified: '2023-03-13T10:07:04'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 25
+  date: '2018-06-30T16:14:04'
+  crc: '0x09448d84'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T01:28:02'
+  crc: '0x19f6ed75'
+- name: SNAKE.BAS
+  size: 5220
+  date: '2018-03-10T02:25:12'
+  crc: '0xe443cd63'

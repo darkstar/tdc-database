@@ -1,0 +1,28 @@
+filename: MYCHESS v1.0 [b1] (1984)(Software Toolworks, Inc., The) [Strategy, Chess].zip
+tdc_id: '14382.0'
+title:
+  box: MYCHESS
+publisher: Software Toolworks, Inc., The
+year: '1984'
+genre:
+- Strategy
+- Chess
+language: English
+date:
+  added: '2019-03-01T18:24:12'
+  last_modified: '2023-05-25T10:02:00'
+version: '1.0'
+type: zip
+tags:
+- Bad: 1
+media: 360K
+commands:
+  play: MYCHESS.COM
+references:
+  dosid: DOS03676
+  exodos: MYCHESS (1984).zip
+files:
+- name: MYCHESS.COM
+  size: 52284
+  date: '1980-01-01T00:10:00'
+  crc: '0x8eb04d8f'

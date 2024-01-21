@@ -1,0 +1,80 @@
+filename: 2112 (19xx)(Anonymous) [Adventure, Interactive Fiction].zip
+tdc_id: '1465.0'
+title:
+  screen: '2112'
+publisher: Anonymous
+year: 19xx
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T10:47:22'
+  last_modified: '2019-03-02T10:47:22'
+type: zip
+media: Download
+commands:
+  play: 2112.EXE
+references:
+  mobygames: http://www.mobygames.com/game/dos/2112
+files:
+- name: 2112.EXE
+  size: 43504
+  date: '1980-01-01T02:09:48'
+  crc: '0x83a7c17c'
+- name: 2112.PIC
+  size: 5113
+  date: '1980-05-18T02:09:06'
+  crc: '0x41ad67ea'
+- name: 2112DEAD.DAT
+  size: 229
+  date: '1980-05-18T01:51:50'
+  crc: '0x74073a23'
+- name: 2112DREA.DAT
+  size: 875
+  date: '1980-05-18T01:59:48'
+  crc: '0x0c259c65'
+- name: 2112ENDI.DAT
+  size: 1509
+  date: '1990-05-29T14:00:02'
+  crc: '0xc30e8688'
+- name: 2112INTR.DAT
+  size: 988
+  date: '1980-01-01T02:44:12'
+  crc: '0x47f60aa6'
+- name: 2112ITEM.DAT
+  size: 2076
+  date: '1980-05-18T02:12:20'
+  crc: '0x79d4ae68'
+- name: 2112REDS.DAT
+  size: 1033
+  date: '1990-05-21T08:14:48'
+  crc: '0x125916cc'
+- name: 2112ROOM.DAT
+  size: 5039
+  date: '1980-05-18T02:12:40'
+  crc: '0x28db0489'
+- name: 2112TALK.DAT
+  size: 660
+  date: '1990-05-20T04:27:04'
+  crc: '0xc373658c'
+- name: OVERTURE.SNG
+  size: 86
+  date: '1980-04-26T19:31:10'
+  crc: '0x5ad0ad05'
+- name: PRESENTA.SNG
+  size: 251
+  date: '1980-04-29T19:38:28'
+  crc: '0xfa29f686'
+- name: README.TXT
+  size: 244
+  date: '1994-01-04T19:30:22'
+  crc: '0x26811316'
+- name: STRUM.SNG
+  size: 59
+  date: '1980-01-01T01:58:08'
+  crc: '0x398480cb'
+- name: SYRINX.SNG
+  size: 461
+  date: '1980-04-29T19:09:44'
+  crc: '0xf8176fa3'

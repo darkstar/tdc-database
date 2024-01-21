@@ -1,0 +1,48 @@
+filename: Tricky Quiky Games- Die Suche nach den verschollenen Seiten II (Installer) (En)(Fr)(De)(It)(Pt)(Es) (1995)(Nestlé Deutschland AG) [Action].zip
+tdc_id: '3796.0'
+title:
+  screen: 'Tricky Quiky Games: Die Suche nach den'
+publisher: Nestlé Deutschland AG
+year: '1995'
+genre: Action
+language:
+- English
+- Spanish
+- French
+- Italian
+- German
+- Portuguese
+date:
+  added: '2019-03-02T09:07:08'
+  last_modified: '2022-11-01T10:15:48'
+type: zip
+installer: true
+commands:
+  play: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/tricky-quiky-games-die-suche-nach-den-verschollenen-seiten-ii
+files:
+- name: DPMI16BI.OVL
+  size: 65312
+  date: '1999-12-31T18:00:00'
+  crc: '0x512a26f9'
+- name: NESQUIK.SET
+  size: 1014830
+  date: '1999-12-31T18:00:00'
+  crc: '0x469dcd4c'
+- name: NESTLE.INI
+  size: 4468
+  date: '1999-12-31T18:00:00'
+  crc: '0x6193f214'
+- name: READ.ME
+  size: 1318
+  date: '1999-12-31T18:00:00'
+  crc: '0xc6910800'
+- name: RTM.EXE
+  size: 108686
+  date: '1999-12-31T18:00:00'
+  crc: '0x28c93c6a'
+- name: SETUP.EXE
+  size: 56320
+  date: '1999-12-31T18:00:00'
+  crc: '0x9d11ab06'

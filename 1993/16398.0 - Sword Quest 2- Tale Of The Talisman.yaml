@@ -1,0 +1,76 @@
+filename: Sword Quest 2- Tale Of The Talisman (1993)(NGS Software) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '16398.0'
+title:
+  screen: 'Sword Quest 2: Tale Of The Talisman'
+publisher: NGS Software
+year: '1993'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T21:09:30'
+  last_modified: '2019-03-01T21:09:30'
+type: zip
+commands:
+  play: QUEST2.EXE
+references:
+  dosid: DOS00107
+  exodos: Sword Quest 2 - Tale of the Talisman (1993).zip
+files:
+- name: DEMO.Q2D
+  size: 61
+  date: '1993-02-28T12:05:50'
+  crc: '0xa78ad6ab'
+- name: Q2ARM.PUT
+  size: 32110
+  date: '1993-02-28T12:05:50'
+  crc: '0x90bb2689'
+- name: Q2BUILD.BLD
+  size: 25080
+  date: '1993-02-28T12:05:50'
+  crc: '0xc012b57c'
+- name: Q2CAVES.INT
+  size: 26527
+  date: '1993-02-28T12:05:50'
+  crc: '0x11409292'
+- name: Q2INTS.INT
+  size: 69634
+  date: '1993-02-28T12:05:50'
+  crc: '0xa30e66cc'
+- name: Q2ITEMS.PUT
+  size: 4950
+  date: '1993-02-28T12:05:50'
+  crc: '0x6aa0d592'
+- name: Q2SCENE.PUT
+  size: 51172
+  date: '1993-02-28T12:05:50'
+  crc: '0x11057b54'
+- name: Q2SONG.SNG
+  size: 7593
+  date: '1993-02-28T12:05:50'
+  crc: '0x2def3d0b'
+- name: Q2TILES.PUT
+  size: 10692
+  date: '1993-02-28T12:05:50'
+  crc: '0xf6bd8857'
+- name: QUEST2.DOC
+  size: 25767
+  date: '1993-02-28T12:05:50'
+  crc: '0xbc3c90be'
+- name: QUEST2.EXE
+  size: 67448
+  date: '1993-02-28T12:05:50'
+  crc: '0xf55d7f8b'
+- name: QUEST2.IMP
+  size: 16252
+  date: '1993-02-28T12:05:50'
+  crc: '0xaa94656a'
+- name: SHAREWAR.DOC
+  size: 1715
+  date: '1993-02-28T12:05:50'
+  crc: '0x5aa12829'
+- name: VENDOR.DOC
+  size: 1648
+  date: '1993-02-28T12:05:50'
+  crc: '0xa1778f8d'

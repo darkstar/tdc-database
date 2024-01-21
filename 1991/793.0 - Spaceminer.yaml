@@ -1,0 +1,27 @@
+filename: Spaceminer (1991)(Mark P. Nelson) [Strategy].zip
+tdc_id: '793.0'
+title:
+  screen: Spaceminer
+publisher: Mark P. Nelson
+year: '1991'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:38:16'
+  last_modified: '2019-03-01T18:38:16'
+type: zip
+commands:
+  play: SPACEMIN.EXE
+files:
+- name: READIT
+  size: 2951
+  date: '1991-05-10T11:41:44'
+  crc: '0x7f2052f0'
+- name: SCORE.DAT
+  size: 300
+  date: '1991-01-18T21:30:24'
+  crc: '0x60b9c7bf'
+- name: SPACEMIN.EXE
+  size: 57568
+  date: '1991-05-10T09:21:20'
+  crc: '0xafc79a2a'

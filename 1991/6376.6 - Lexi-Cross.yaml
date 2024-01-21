@@ -1,0 +1,41 @@
+filename: Lexi-Cross (demo) (Installer) (1991)(Interplay Productions, Inc.) [Strategy].zip
+tdc_id: '6376.6'
+parent_id: '6376.2'
+title:
+  screen: Lexi-Cross
+  qualifier: demo
+publisher: Interplay Productions, Inc.
+year: '1991'
+genre: Strategy
+language: English
+date:
+  added: '2023-01-03T15:53:15'
+  last_modified: '2023-01-03T15:53:15'
+type: zip
+installer: true
+demo: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/lexi-cross
+files:
+- name: DISK31.SS
+  size: 378465
+  date: '1991-04-10T07:49:48'
+  crc: '0x7a725ede'
+- name: DISK32.SS
+  size: 132699
+  date: '1991-04-10T07:51:34'
+  crc: '0x7c23af9b'
+- name: INSTALL.EXE
+  size: 10165
+  date: '1991-04-12T02:02:46'
+  crc: '0x4b42558d'
+- name: LICENSE.TXT
+  size: 2026
+  date: '1996-05-17T13:26:16'
+  crc: '0x429439e0'
+- name: README.EXE
+  size: 6497
+  date: '1991-04-12T12:36:38'
+  crc: '0x10daccbf'

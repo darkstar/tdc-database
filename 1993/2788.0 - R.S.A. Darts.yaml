@@ -1,0 +1,38 @@
+filename: R.S.A. Darts v4.01 (1993)(Renier Crause) [Action, Strategy].zip
+tdc_id: '2788.0'
+title:
+  screen: R.S.A. Darts
+publisher: Renier Crause
+year: '1993'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2018-07-08T16:11:20'
+  last_modified: '2018-07-08T16:11:20'
+version: '4.01'
+type: zip
+media: Download
+commands:
+  play: DARTS.EXE
+references:
+  dosid: DOS06218
+  exodos: R.S.A Darts (1993).zip
+files:
+- name: DARTS.DOC
+  size: 8799
+  date: '1993-06-12T23:56:22'
+  crc: '0x87de0999'
+- name: DARTS.EXE
+  size: 115731
+  date: '1993-05-26T22:48:16'
+  crc: '0x1cf59c1f'
+- name: FILE_ID.DIZ
+  size: 532
+  date: '1993-06-13T18:41:58'
+  crc: '0xa0ba2642'
+- name: SDI00003.IMG
+  size: 12427
+  date: '1992-03-07T02:45:02'
+  crc: '0x1ed1e828'

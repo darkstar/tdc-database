@@ -1,0 +1,80 @@
+filename: Wings of Glory vF1.6 (Installer) (En)(De)(Fr) (1995)(Electronic Arts, Inc.) [Simulation].zip
+tdc_id: '7570.0'
+title:
+  box: Wings of Glory
+publisher: Electronic Arts, Inc.
+year: '1995'
+genre: Simulation
+language:
+- English
+- French
+- German
+date:
+  added: '2019-03-02T09:07:58'
+  last_modified: '2022-11-30T09:34:58'
+version: F1.6
+type: zip
+installer: true
+commands:
+  play: INSTALL.COM
+references:
+  mobygames: https://www.mobygames.com/game/dos/wings-of-glory
+  dosid: DOS05633
+  exodos: Wings of Glory (1995).zip
+files:
+- name: 001.A01
+  size: 140891
+  date: '1999-12-31T18:00:00'
+  crc: '0x1522aea1'
+- name: 002.A01
+  size: 2781064
+  date: '1999-12-31T18:00:00'
+  crc: '0x7fe4932c'
+- name: FLIGHTCD.TRE
+  size: 999834
+  date: '1999-12-31T18:00:00'
+  crc: '0x80bbf293'
+- name: FLIGHTHD.TRE
+  size: 5143595
+  date: '1999-12-31T18:00:00'
+  crc: '0xdbd31160'
+- name: HELP.TXT
+  size: 14572
+  date: '1999-12-31T18:00:00'
+  crc: '0x1d02de16'
+- name: INSTALL.COM
+  size: 19420
+  date: '1999-12-31T18:00:00'
+  crc: '0x787cce1f'
+- name: INSTALLE.EXE
+  size: 126640
+  date: '1999-12-31T18:00:00'
+  crc: '0xb2e3de68'
+- name: README.TXT
+  size: 10724
+  date: '1999-12-31T18:00:00'
+  crc: '0xa98187c4'
+- name: TABDRIH.TDA
+  size: 17937
+  date: '1999-12-31T18:00:00'
+  crc: '0x059106a6'
+- name: TEST.OUT
+  size: 110
+  date: '1999-12-31T18:00:00'
+  crc: '0x6f4505b7'
+- name: WOGDATA1.TRE
+  size: 30917934
+  date: '1999-12-31T18:00:00'
+  crc: '0xc331bf92'
+- name: WOGDATA3.TRE
+  size: 4143279
+  date: '1999-12-31T18:00:00'
+  crc: '0x1b6f7fde'
+- name: WOGNORDR.ADV
+  size: 2226
+  date: '1999-12-31T18:00:00'
+  crc: '0xeb3e6608'
+- name: WOGRDR.ADV
+  size: 2324
+  date: '1999-12-31T18:00:00'
+  crc: '0x343d4242'

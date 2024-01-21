@@ -1,0 +1,37 @@
+filename: Electro Man [FW] (2006)(Maciej Miąsik, Janusz Pelc) [Action].zip
+tdc_id: '13359.10'
+title:
+  screen: Electro Man
+publisher: Maciej Miąsik, Janusz Pelc
+year: '2006'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:57:14'
+  last_modified: '2023-12-21T15:49:19'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: EM.EXE
+  setup: CONFIG.EXE
+references:
+  mobygames: https://www.mobygames.com/game/752/electroman/
+files:
+- name: CONFIG.DTA
+  size: 2
+  date: '2006-06-15T16:20:56'
+  crc: '0x9b00ccfb'
+- name: CONFIG.EXE
+  size: 12048
+  date: '1993-10-01T14:18:38'
+  crc: '0xfaa65419'
+- name: EM.EXE
+  size: 996432
+  date: '2006-06-15T16:20:46'
+  crc: '0x31b674d0'
+- name: README.TXT
+  size: 4247
+  date: '2006-06-24T16:40:32'
+  crc: '0x68bd8985'

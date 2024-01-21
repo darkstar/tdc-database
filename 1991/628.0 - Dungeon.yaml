@@ -1,0 +1,34 @@
+filename: Dungeon v2.7a (1991)(Ian Lance Taylor) [Adventure, Interactive Fiction].zip
+tdc_id: '628.0'
+title:
+  screen: Dungeon
+publisher: Ian Lance Taylor
+year: '1991'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:35:42'
+  last_modified: '2019-03-01T18:35:42'
+version: 2.7a
+type: zip
+commands:
+  play: DUNGEON.EXE
+files:
+- name: DTEXTC.DAT
+  size: 133008
+  date: '2003-04-21T20:25:58'
+  crc: '0x288c368d'
+- name: DUNGEON.EXE
+  size: 80004
+  date: '1993-07-11T21:04:12'
+  crc: '0x4bc4ccf9'
+- name: DUNGEON.TXT
+  size: 9137
+  date: '2003-04-21T20:40:04'
+  crc: '0x84e964e1'
+- name: HISTORY.TXT
+  size: 4931
+  date: '1991-05-16T12:17:26'
+  crc: '0x5ee81be1'

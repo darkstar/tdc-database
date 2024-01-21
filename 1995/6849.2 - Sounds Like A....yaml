@@ -1,0 +1,48 @@
+filename: Sounds Like A... v3.3 (Installer) [SW] (1995)(KidStuff Software) [Educational].zip
+tdc_id: '6849.2'
+title:
+  screen: Sounds Like A...
+publisher: KidStuff Software
+year: '1995'
+genre: Educational
+language: English
+date:
+  added: '2019-01-27T04:34:10'
+  last_modified: '2019-01-27T04:34:10'
+version: '3.3'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 355
+  date: '1995-03-25T11:10:10'
+  crc: '0x51d89043'
+- name: INSTALL.EXE
+  size: 34554
+  date: '1994-04-18T12:00:00'
+  crc: '0x7aeabd9c'
+- name: INSTALL.FIL
+  size: 4086
+  date: '1995-03-25T11:12:56'
+  crc: '0x2fbbade6'
+- name: SLA33.001
+  size: 293776
+  date: '1995-04-11T09:29:10'
+  crc: '0x0e2be56f'
+- name: SLA33.002
+  size: 362496
+  date: '1995-04-11T09:29:10'
+  crc: '0x0a4ca8d6'
+- name: SLA33.PCX
+  size: 95195
+  date: '1995-03-25T11:10:10'
+  crc: '0xbe20aad8'
+- name: VENDOR.DOC
+  size: 4490
+  date: '1995-03-25T11:10:10'
+  crc: '0x9f25bb27'

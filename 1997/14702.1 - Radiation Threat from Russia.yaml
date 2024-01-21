@@ -1,0 +1,33 @@
+filename: Radiation Threat from Russia (Installer) (En)(Fi) [FW] (1997)(Codeline) [Action].zip
+tdc_id: '14702.1'
+title:
+  screen: Radiation Threat from Russia
+publisher: Codeline
+year: '1997'
+genre: Action
+language:
+- English
+- Finnish
+date:
+  added: '2022-01-08T16:03:30'
+  last_modified: '2022-01-08T16:03:30'
+type: zip
+tags:
+- Freeware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 160
+  date: '1997-05-12T01:41:18'
+  crc: '0x8146cf3c'
+- name: INSTALL.DAT
+  size: 1657800
+  date: '1997-04-14T21:46:54'
+  crc: '0x8626ff2e'
+- name: INSTALL.EXE
+  size: 22672
+  date: '1997-04-14T21:48:28'
+  crc: '0x09f3923d'

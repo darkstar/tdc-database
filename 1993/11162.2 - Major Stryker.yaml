@@ -1,0 +1,38 @@
+filename: Major Stryker [SW] (1993)(Apogee Software, Ltd.) [Action].zip
+tdc_id: '11162.2'
+title:
+  screen: Major Stryker
+publisher: Apogee Software, Ltd.
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T19:12:26'
+  last_modified: '2019-03-01T19:12:26'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: MAJOR.EXE
+files:
+- name: CONFIG.MS
+  size: 23
+  date: '2003-10-20T12:12:00'
+  crc: '0x19deeff3'
+- name: HS.MS1
+  size: 204
+  date: '2003-10-20T12:12:00'
+  crc: '0x573ca2e0'
+- name: MAJOR.EXE
+  size: 83284
+  date: '1993-01-28T13:00:56'
+  crc: '0x42d35c7b'
+- name: VOLUME1A.MS1
+  size: 889624
+  date: '1993-01-28T13:00:02'
+  crc: '0xb2435562'
+- name: VOLUME1B.MS1
+  size: 989752
+  date: '1993-01-28T13:00:06'
+  crc: '0x1e029ae1'

@@ -1,0 +1,70 @@
+filename: Billiards (De) (1993)(DOKA Company) [Simulation].zip
+tdc_id: '12636.0'
+title:
+  screen: Billiards
+publisher: DOKA Company
+year: '1993'
+genre: Simulation
+language: German
+date:
+  added: '2019-03-01T19:01:32'
+  last_modified: '2019-03-01T19:01:32'
+type: zip
+commands:
+  play: BILL.EXE
+references:
+  dosid: DOS08003
+  exodos: Billiards (1993).zip
+files:
+- name: ABC.DAT
+  size: 14349
+  date: '1993-01-18T22:09:48'
+  crc: '0x40ca8679'
+- name: ABCD.DAT
+  size: 11625
+  date: '1993-01-18T22:09:50'
+  crc: '0x8a1d41e5'
+- name: BALL.DAT
+  size: 62540
+  date: '1993-01-18T22:09:52'
+  crc: '0xb662d1db'
+- name: BILL.EXE
+  size: 288336
+  date: '1993-01-25T19:30:18'
+  crc: '0x21b1dc1c'
+- name: FACE.DAT
+  size: 55375
+  date: '1993-01-18T22:09:56'
+  crc: '0xd236cbdc'
+- name: FIRST.DAT
+  size: 25712
+  date: '1993-01-18T22:09:56'
+  crc: '0x62083ce6'
+- name: L3D.DAT
+  size: 38992
+  date: '1993-01-18T22:10:00'
+  crc: '0xdfaafc99'
+- name: MESSAGE.DAT
+  size: 6548
+  date: '1993-03-24T17:06:58'
+  crc: '0x026abd0d'
+- name: READ.ME
+  size: 11930
+  date: '1993-02-03T18:38:30'
+  crc: '0x24c1c507'
+- name: SCREN.DAT
+  size: 4002
+  date: '1992-03-19T22:31:56'
+  crc: '0x97254acc'
+- name: SHAR.DAT
+  size: 14531
+  date: '1993-01-18T22:10:02'
+  crc: '0x01d1ba2b'
+- name: SKITLLES.DAT
+  size: 4741
+  date: '1993-01-18T22:10:04'
+  crc: '0x50d6ffde'
+- name: SNUK.DAT
+  size: 5393
+  date: '1993-01-18T22:10:06'
+  crc: '0x47805a00'

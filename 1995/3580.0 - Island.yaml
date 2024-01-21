@@ -1,0 +1,33 @@
+filename: Island v2.6 (1995)(Black Gate Coderz group) [Adventure, Interactive Fiction].zip
+tdc_id: '3580.0'
+title:
+  screen: Island
+publisher: Black Gate Coderz group
+year: '1995'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2010-03-15T23:18:24'
+  last_modified: '2010-03-15T23:18:24'
+version: '2.6'
+type: zip
+commands:
+  play: ISLAND.EXE
+references:
+  dosid: DOS00073
+  exodos: Island (1995).zip
+files:
+- name: DONTREAD.ME
+  size: 3726
+  date: '1995-08-10T17:45:30'
+  crc: '0xb8af9f78'
+- name: ISLAND.C
+  size: 25665
+  date: '1995-08-01T15:42:26'
+  crc: '0xb4426a04'
+- name: ISLAND.EXE
+  size: 28077
+  date: '1995-08-01T15:43:00'
+  crc: '0xf319e589'

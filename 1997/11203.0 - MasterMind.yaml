@@ -1,0 +1,28 @@
+filename: MasterMind (1997)(Dominik Kaspar) [Strategy].zip
+tdc_id: '11203.0'
+title:
+  screen: MasterMind
+publisher: Dominik Kaspar
+year: '1997'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:35:36'
+  last_modified: '2019-03-02T10:35:36'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 26
+  date: '2018-11-27T21:24:20'
+  crc: '0xb40ac373'
+- name: MASTER.BAS
+  size: 13843
+  date: '2018-11-22T19:14:14'
+  crc: '0xaf848ca7'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

@@ -1,0 +1,90 @@
+filename: Splat! PC (1998)(RetroSpec) [Action].zip
+tdc_id: '15420.0'
+title:
+  screen: Splat! PC
+publisher: RetroSpec
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:44:36'
+  last_modified: '2019-03-02T10:44:36'
+type: zip
+commands:
+  play: splat.exe
+references:
+  dosid: DOS04766
+  exodos: Splat! PC (1998).zip
+files:
+- name: CWSDPMI.EXE
+  size: 20125
+  date: '2000-10-22T19:55:00'
+  crc: '0x1d1b569c'
+- name: MAP.DAT
+  size: 11200
+  date: '1998-03-21T09:44:32'
+  crc: '0x91f56758'
+- name: SCRLFNT.DAT
+  size: 1206
+  date: '1998-03-22T14:39:24'
+  crc: '0x178b568a'
+- name: SINETAB.DAT
+  size: 128
+  date: '1998-03-22T13:45:52'
+  crc: '0x28ac2b06'
+- name: spl.dat
+  size: 77878
+  date: '1998-04-09T20:52:44'
+  crc: '0xc7374789'
+- name: splat.dat
+  size: 65078
+  date: '1998-03-01T22:29:54'
+  crc: '0xad1ffa22'
+- name: splat.exe
+  size: 177036
+  date: '1999-09-13T13:31:42'
+  crc: '0xfee8dd13'
+- name: splatmg.dat
+  size: 17894
+  date: '1998-04-10T16:40:58'
+  crc: '0xe757f8aa'
+- name: splatmt.dat
+  size: 22659
+  date: '1998-03-08T13:16:58'
+  crc: '0x977b892d'
+- name: spsa.dat
+  size: 28976
+  date: '1998-04-10T19:57:14'
+  crc: '0xf276e70a'
+- name: spsb.dat
+  size: 5644
+  date: '1998-04-11T13:29:08'
+  crc: '0xc9249146'
+- name: spsc.dat
+  size: 4772
+  date: '1998-04-10T20:07:46'
+  crc: '0x4d3f9d2a'
+- name: spsd.dat
+  size: 8910
+  date: '1998-04-10T20:08:20'
+  crc: '0x6f4230aa'
+- name: spse.dat
+  size: 4048
+  date: '1998-04-10T20:48:16'
+  crc: '0xef4cc79a'
+- name: spsf.dat
+  size: 2890
+  date: '1998-04-10T20:49:08'
+  crc: '0xb2cbc84d'
+- name: spsg.dat
+  size: 40524
+  date: '1998-04-10T20:09:12'
+  crc: '0x535d2673'
+- name: spsh.dat
+  size: 15646
+  date: '1998-04-10T16:47:40'
+  crc: '0x35c5bacd'
+- name: spsi.dat
+  size: 29100
+  date: '1998-04-10T20:03:54'
+  crc: '0xad7d8180'

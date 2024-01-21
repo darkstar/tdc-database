@@ -1,0 +1,32 @@
+filename: 木桶镇 v56.7 (Zh) (1999)(Toyshop Studio) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '15980.6'
+title:
+  screen: 木桶镇
+  translation: Wooden Town
+publisher: Toyshop Studio
+year: '1999'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: Chinese
+date:
+  added: '2019-03-02T10:46:36'
+  last_modified: '2023-07-01T18:33:42'
+version: '56.7'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 23
+  date: '2019-01-03T15:27:00'
+  crc: '0x926c6d22'
+- name: QB.EXE
+  size: 278804
+  date: '2016-03-13T01:19:58'
+  crc: '0xb08bc0fe'
+- name: RPG56-7.BAS
+  size: 61853
+  date: '2018-08-05T21:27:30'
+  crc: '0x05b6ae12'

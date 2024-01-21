@@ -1,0 +1,28 @@
+filename: Alien Snipers (1982)(Usborne Publishing Ltd) [Puzzle].zip
+tdc_id: '17278.0'
+title:
+  screen: Alien Snipers
+publisher: Usborne Publishing Ltd
+year: '1982'
+genre: Puzzle
+language: English
+date:
+  added: '2023-03-16T07:36:36'
+  last_modified: '2023-03-16T07:36:36'
+type: zip
+media: Type-In
+commands:
+  play: Go.bat
+files:
+- name: AlienS.bas
+  size: 463
+  date: '2022-08-02T21:46:56'
+  crc: '0x5bee6cc9'
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T12:00:00'
+  crc: '0x92293842'
+- name: Go.bat
+  size: 13
+  date: '2022-08-03T19:54:40'
+  crc: '0x8b26a73e'

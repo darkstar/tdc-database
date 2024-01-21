@@ -1,0 +1,31 @@
+filename: Ski Adventure [SW] (1991)(John LaBonney) [Adventure, Interactive Fiction].zip
+tdc_id: '15126.0'
+title:
+  screen: Ski Adventure
+publisher: John LaBonney
+year: '1991'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:38:08'
+  last_modified: '2019-03-01T18:38:08'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: SKI.EXE
+references:
+  dosid: DOS00200
+  exodos: Ski Adventure (1991).zip
+files:
+- name: SKI.DOC
+  size: 18048
+  date: '1991-04-11T16:41:58'
+  crc: '0x42f735ab'
+- name: SKI.EXE
+  size: 141471
+  date: '1991-04-11T16:27:34'
+  crc: '0x95381ee4'

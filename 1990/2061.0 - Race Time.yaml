@@ -1,0 +1,28 @@
+filename: Race Time v3.00 (1990)(INS) [Simulation].zip
+tdc_id: '2061.0'
+title:
+  screen: Race Time
+publisher: INS
+year: '1990'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:33:46'
+  last_modified: '2019-03-01T18:33:46'
+version: '3.00'
+type: zip
+commands:
+  play: RACE300.EXE
+files:
+- name: CARS.REF
+  size: 5104
+  date: '1990-08-19T20:23:40'
+  crc: '0x51dc7181'
+- name: RACE300.DOC
+  size: 2560
+  date: '1990-08-19T20:36:06'
+  crc: '0xcff1f03b'
+- name: RACE300.EXE
+  size: 59736
+  date: '1990-08-19T20:23:12'
+  crc: '0x0619e43a'

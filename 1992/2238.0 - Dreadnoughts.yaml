@@ -1,0 +1,128 @@
+filename: Dreadnoughts (1992)(Turcan Research Systems Limited) [Simulation, Strategy].zip
+tdc_id: '2238.0'
+title:
+  screen: Dreadnoughts
+publisher: Turcan Research Systems Limited
+year: '1992'
+genre:
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:42:30'
+  last_modified: '2019-03-01T18:42:30'
+type: zip
+commands:
+  play: DNOUGHTS.EXE
+references:
+  dosid: DOS01880
+  exodos: Dreadnoughts (1992).zip
+files:
+- name: AUXDRV.DRV
+  size: 2507
+  date: '1991-12-13T13:35:40'
+  crc: '0x8c5f03fb'
+- name: CANOPUS.CHT
+  size: 11393
+  date: '1991-08-27T17:22:04'
+  crc: '0xe86ce44e'
+- name: CANOPUS.DAT
+  size: 4752
+  date: '1991-12-02T18:39:34'
+  crc: '0xe140650f'
+- name: CGATITLE.SCR
+  size: 16384
+  date: '1992-02-13T18:25:02'
+  crc: '0x1e956ef7'
+- name: CHANNEL.CHT
+  size: 14453
+  date: '1991-09-12T11:11:04'
+  crc: '0xc3801f55'
+- name: CHANNEL.DAT
+  size: 8093
+  date: '1991-12-02T18:39:48'
+  crc: '0xf05564d5'
+- name: CORONEL.CHT
+  size: 11393
+  date: '1991-08-27T17:22:04'
+  crc: '0xe86ce44e'
+- name: CORONEL.DAT
+  size: 4451
+  date: '1992-01-28T20:12:10'
+  crc: '0x435b08b9'
+- name: CT-VOICE.DRV
+  size: 5124
+  date: '1991-11-29T10:30:44'
+  crc: '0x4941bd60'
+- name: DLEX.TAB
+  size: 2201
+  date: '1992-02-07T00:17:12'
+  crc: '0x9c06f148'
+- name: DNOUGHTS.EXE
+  size: 133184
+  date: '1992-02-16T20:06:44'
+  crc: '0xf98f351f'
+- name: DOGBANK.DAT
+  size: 15348
+  date: '1991-12-04T11:43:00'
+  crc: '0xec6528df'
+- name: DPARSE.TAB
+  size: 7638
+  date: '1992-01-27T20:48:00'
+  crc: '0x941abd32'
+- name: EGATITLE.PCX
+  size: 20240
+  date: '1992-02-15T11:54:12'
+  crc: '0x3fba634b'
+- name: FALKLAND.CHT
+  size: 6433
+  date: '1991-09-20T02:25:38'
+  crc: '0x5a3f3137'
+- name: FALKLAND.DAT
+  size: 5909
+  date: '1991-12-02T18:41:22'
+  crc: '0xdf3d195a'
+- name: GUN1914.DAT
+  size: 3973
+  date: '1991-12-06T12:15:40'
+  crc: '0x2ebcbb44'
+- name: HGUN.VOC
+  size: 13217
+  date: '1992-02-11T09:53:04'
+  crc: '0xc8d36d97'
+- name: IMPACT.VOC
+  size: 18445
+  date: '1992-02-08T00:22:30'
+  crc: '0x22426d17'
+- name: JUTLAND.DAT
+  size: 28996
+  date: '1991-12-24T19:24:08'
+  crc: '0xa4932d59'
+- name: README.TXT
+  size: 4672
+  date: '1992-03-01T22:16:16'
+  crc: '0x0bb6cde4'
+- name: SEATRIAL.CHT
+  size: 14453
+  date: '1991-09-12T11:11:04'
+  crc: '0xc3801f55'
+- name: SEATRIAL.DAT
+  size: 5443
+  date: '1991-12-02T18:39:54'
+  crc: '0xede5ab86'
+- name: SPLOSH.VOC
+  size: 13601
+  date: '1992-02-08T13:09:44'
+  crc: '0x286d0c32'
+- name: VGATITLE.PCX
+  size: 25841
+  date: '1992-02-15T11:46:38'
+  crc: '0xf130c781'
+- name: WHISTLE.VOC
+  size: 8433
+  date: '1992-02-08T13:10:52'
+  crc: '0x73cb9cde'
+- name: WS-1914.DAT
+  size: 79771
+  date: '1991-12-05T19:13:56'
+  crc: '0xd794eca2'

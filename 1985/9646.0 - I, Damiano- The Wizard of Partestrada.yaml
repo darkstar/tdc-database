@@ -1,0 +1,32 @@
+filename: I, Damiano- The Wizard of Partestrada [DC] (1985)(Bantam Electronic Publishing) [Adventure].zip
+tdc_id: '9646.0'
+title:
+  box: 'I, Damiano: The Wizard of Partestrada'
+publisher: Bantam Electronic Publishing
+year: '1985'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:24:28'
+  last_modified: '2019-03-01T18:24:28'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: DAMIANO.COM
+references:
+  dosid: DOS05909
+  exodos: I, Damiano - The Wizard of Partestrada (1985).zip
+files:
+- name: DAMIANO.COM
+  size: 411
+  date: '2001-01-19T15:04:42'
+  crc: '0xdf067018'
+- name: DAMIANO.DAT
+  size: 80272
+  date: '1980-01-01T04:50:16'
+  crc: '0x7934bf0a'
+- name: GAME.DAT
+  size: 368640
+  date: '2001-01-11T11:58:24'
+  crc: '0xab963f31'

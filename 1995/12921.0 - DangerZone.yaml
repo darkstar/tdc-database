@@ -1,0 +1,74 @@
+filename: Danger Zone 一線生機 (Installer) (Zh) (1995)(Horng Shen Information Co., Ltd.) [Strategy].zip
+tdc_id: '12921.0'
+title:
+  box: Danger Zone 一線生機
+  screen: DangerZone
+  qualifier: Installer
+publisher: Horng Shen Information Co., Ltd.
+year: '1995'
+genre: Strategy
+language: Chinese
+date:
+  added: '2019-03-02T08:42:24'
+  last_modified: '2023-12-05T11:53:12'
+type: zip
+installer: true
+commands:
+  play: SETUP.EXE
+files:
+- name: DISK1.CPS
+  size: 557222
+  date: '1995-03-03T16:27:24'
+  crc: '0x60fe6c6d'
+- name: DISK2.CPS
+  size: 1342327
+  date: '1995-02-17T15:58:22'
+  crc: '0x7dffe730'
+- name: DISK3.CPS
+  size: 1216307
+  date: '1995-02-17T19:05:46'
+  crc: '0x0546c29c'
+- name: DISK4.CPS
+  size: 1292348
+  date: '1995-02-17T19:09:08'
+  crc: '0xbd1c96c2'
+- name: DISK5.CPS
+  size: 1281580
+  date: '1995-02-23T16:47:42'
+  crc: '0x521cdefd'
+- name: INSTALL.GDH
+  size: 34814
+  date: '1995-02-16T18:36:02'
+  crc: '0xe34bc195'
+- name: INSTALL.ICH
+  size: 3115
+  date: '1995-02-17T19:27:06'
+  crc: '0x0656634c'
+- name: INSTUNA.EXE
+  size: 18354
+  date: '1995-02-17T17:51:54'
+  crc: '0x03ba6d77'
+- name: ISETUP.EXE
+  size: 57968
+  date: '1995-02-11T16:52:46'
+  crc: '0xa3a18fee'
+- name: MOUSE.ICH
+  size: 1365
+  date: '1994-08-31T18:32:38'
+  crc: '0x28c330d9'
+- name: MOUSE.MSH
+  size: 686
+  date: '1994-08-31T18:32:00'
+  crc: '0x9333566b'
+- name: SETUP.EXE
+  size: 66166
+  date: '1995-02-17T19:48:48'
+  crc: '0xb8e3fe20'
+- name: SETUP.GDH
+  size: 34720
+  date: '1995-01-23T08:43:04'
+  crc: '0x9125c6a2'
+- name: SETUP.ICH
+  size: 4750
+  date: '1995-01-23T11:35:50'
+  crc: '0x594b60c6'

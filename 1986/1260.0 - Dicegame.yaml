@@ -1,0 +1,33 @@
+filename: Dicegame v2.50 (1986)(Bruce Geoffrion) [Strategy].zip
+tdc_id: '1260.0'
+title:
+  screen: Dicegame
+publisher: Bruce Geoffrion
+year: '1986'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:24:44'
+  last_modified: '2019-03-01T18:24:44'
+version: '2.50'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: DICE2.BAS
+  size: 13130
+  date: '1991-04-03T21:24:18'
+  crc: '0x21cc6d74'
+- name: DICE2.DOC
+  size: 416
+  date: '1991-04-04T19:10:16'
+  crc: '0xc379b51e'
+- name: GO.BAT
+  size: 21
+  date: '2019-01-12T20:49:14'
+  crc: '0xadb53f21'
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1988-10-05T02:00:08'
+  crc: '0x2a44af39'

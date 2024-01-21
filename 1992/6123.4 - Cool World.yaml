@@ -1,0 +1,32 @@
+filename: Cool World (Installer) [b1] (1992)(Ocean Software Ltd.) [Action].zip
+tdc_id: '6123.4'
+title:
+  box: Cool World
+publisher: Ocean Software Ltd.
+year: '1992'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:42:00'
+  last_modified: '2022-11-16T15:24:35'
+type: zip
+tags:
+- Bad: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/cool-world
+files:
+- name: COOLWRLD.2
+  size: 61384
+  date: '1992-11-04T05:05:16'
+  crc: '0x22f55670'
+- name: COOLWRLD.3
+  size: 313648
+  date: '1992-11-04T05:04:38'
+  crc: '0x4f11a71a'
+- name: INSTALL.EXE
+  size: 730112
+  date: '1992-11-04T05:05:20'
+  crc: '0xcfb5fb07'

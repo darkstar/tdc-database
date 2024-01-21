@@ -1,0 +1,35 @@
+filename: Quadram (1989)(Regal Software) [Action].zip
+tdc_id: '1787.0'
+title:
+  screen: Quadram
+publisher: Regal Software
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:28:44'
+  last_modified: '2019-03-01T18:28:44'
+type: zip
+commands:
+  play: QUADRAM.EXE
+files:
+- name: QUAD0.GRA
+  size: 28015
+  date: '1989-12-09T02:06:32'
+  crc: '0x5ba02d0b'
+- name: QUAD1.GRA
+  size: 28015
+  date: '1989-12-09T02:06:32'
+  crc: '0x898ba069'
+- name: QUAD2.GRA
+  size: 28015
+  date: '1989-12-09T02:06:34'
+  crc: '0x8208adc4'
+- name: QUAD3.GRA
+  size: 28015
+  date: '1989-12-09T05:36:34'
+  crc: '0x7229e63b'
+- name: QUADRAM.EXE
+  size: 62138
+  date: '1989-12-20T22:40:42'
+  crc: '0xe34793e4'

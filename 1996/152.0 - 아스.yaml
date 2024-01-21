@@ -1,0 +1,101 @@
+filename: 아스 (Installer) (Ko) (1996)(Gamebox, Himeya Soft) [Adventure, Interactive Fiction].zip
+tdc_id: '152.0'
+title:
+  box: 아스
+  translation: Ash.
+publisher: Gamebox, Himeya Soft
+year: '1996'
+genre:
+- Adventure
+- Interactive Fiction
+language: Korean
+date:
+  added: '2021-10-04T09:19:36'
+  last_modified: '2021-10-04T09:19:36'
+type: zip
+installer: true
+files:
+- name: ADAT.MIO
+  size: 579143
+  date: '1994-03-12T17:13:06'
+  crc: '0x51c05888'
+- name: ASC.FNT
+  size: 3840
+  date: '1992-08-31T19:00:00'
+  crc: '0x25ca2edf'
+- name: ASH.EXE
+  size: 25442
+  date: '1996-09-09T09:57:38'
+  crc: '0xe061de97'
+- name: ASH.PIF
+  size: 967
+  date: '1999-06-10T09:13:14'
+  crc: '0x8e9609c6'
+- name: AUTORUN.INF
+  size: 44
+  date: '1999-06-10T09:07:54'
+  crc: '0xad0d4226'
+- name: BDAT.MIO
+  size: 1141226
+  date: '1994-07-02T18:48:56'
+  crc: '0xec08ff1b'
+- name: CH.FNT
+  size: 1664
+  date: '1996-08-28T08:36:44'
+  crc: '0x10988e28'
+- name: DISK.CFG
+  size: 1
+  date: '1999-06-10T08:20:32'
+  crc: '0x59bc5767'
+- name: DISK.ROM
+  size: 14
+  date: '1996-08-28T13:47:20'
+  crc: '0xa45425dc'
+- name: Error.exe
+  size: 192512
+  date: '1999-06-10T04:28:06'
+  crc: '0x216cd267'
+- name: GAMEBOX.AVI
+  size: 7385600
+  date: '1999-01-29T17:24:30'
+  crc: '0x710c651f'
+- name: GameBox.exe
+  size: 233472
+  date: '1999-06-10T09:25:02'
+  crc: '0x6975498f'
+- name: HANX.FNT
+  size: 652800
+  date: '1996-07-07T18:45:04'
+  crc: '0x2d76a7b5'
+- name: INST.EXE
+  size: 53584
+  date: '1996-08-28T07:54:24'
+  crc: '0x17adc109'
+- name: INSTALL.BAT
+  size: 12
+  date: '1996-08-28T14:57:26'
+  crc: '0x9ede407c'
+- name: LOGO.EXE
+  size: 26112
+  date: '1999-02-05T19:29:44'
+  crc: '0xcc91d1ba'
+- name: PLAY.BAT
+  size: 22
+  date: '1999-06-10T09:14:42'
+  crc: '0x73d23699'
+- name: PLAY.PIF
+  size: 967
+  date: '1999-04-12T09:58:32'
+  crc: '0x35be942c'
+- name: README.EXE
+  size: 18044
+  date: '1996-08-28T15:00:46'
+  crc: '0x8b4f7e51'
+- name: YT.avi
+  size: 18593792
+  date: '1999-02-26T22:21:32'
+  crc: '0xb48eea0e'
+- name: YT.exe
+  size: 26112
+  date: '1999-04-09T04:59:38'
+  crc: '0xce370887'

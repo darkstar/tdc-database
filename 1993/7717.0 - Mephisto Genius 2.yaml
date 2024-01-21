@@ -1,0 +1,41 @@
+filename: Mephisto Genius 2 v2.00 (En)(De) [h1] (1993)(Richard Lang) [Strategy, Chess].zip
+tdc_id: '7717.0'
+title:
+  screen: Mephisto Genius 2
+publisher: Richard Lang
+year: '1993'
+genre:
+- Strategy
+- Chess
+language:
+- English
+- German
+date:
+  added: '2019-03-01T19:14:32'
+  last_modified: '2019-03-01T19:14:32'
+version: '2.00'
+type: zip
+tags:
+- Hack: 1
+commands:
+  play: MG2.EXE
+references:
+  dosid: DOS15621
+  exodos: Mephisto Genius 2.0 (1993).zip
+files:
+- name: CLIPBORD.GAM
+  size: 185
+  date: '1999-12-31T18:00:00'
+  crc: '0xb30c2845'
+- name: LASTGAME.GAM
+  size: 162
+  date: '1999-12-31T18:00:00'
+  crc: '0x3a349a78'
+- name: MAINBOOK.CGS
+  size: 85684
+  date: '1999-12-31T18:00:00'
+  crc: '0xe05149d3'
+- name: MG2.EXE
+  size: 54313
+  date: '1999-12-31T18:00:00'
+  crc: '0x69ef1d2a'

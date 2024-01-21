@@ -1,0 +1,31 @@
+filename: Spinout (1982)(K.R. Sloan Jr.) [Action].zip
+tdc_id: '15406.0'
+title:
+  screen: Spinout
+publisher: K.R. Sloan Jr.
+year: '1982'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:23:04'
+  last_modified: '2019-03-01T18:23:04'
+type: zip
+media: Download
+commands:
+  play: spin.bat
+references:
+  dosid: DOS04759
+  exodos: Spinout (1982).zip
+files:
+- name: BREAKOUT.BAS
+  size: 3968
+  date: '1980-01-01T00:00:00'
+  crc: '0xce48cce9'
+- name: GWBASIC.EXE
+  size: 80592
+  date: '2001-05-04T06:58:22'
+  crc: '0x8462d0e4'
+- name: spin.bat
+  size: 16
+  date: '2008-04-22T17:37:12'
+  crc: '0x743a077e'

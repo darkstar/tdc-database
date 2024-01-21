@@ -1,0 +1,60 @@
+filename: NFL Print Pro v1.0i (1991)(Hi-Tech Expressions, Inc.) [Educational].zip
+tdc_id: '14442.0'
+title:
+  box: NFL Print Pro
+publisher: Hi-Tech Expressions, Inc.
+year: '1991'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T18:37:06'
+  last_modified: '2019-03-01T18:37:06'
+version: 1.0i
+type: zip
+commands:
+  play: NFL.EXE
+files:
+- name: CGA.BGI
+  size: 6332
+  date: '1990-05-04T01:00:00'
+  crc: '0x5f4c2b51'
+- name: EGAVGA.BGI
+  size: 5554
+  date: '1990-05-04T01:00:00'
+  crc: '0x116c5498'
+- name: HERC.BGI
+  size: 6204
+  date: '1990-05-04T01:00:00'
+  crc: '0xac360ec1'
+- name: MONITOR.PPD
+  size: 1385
+  date: '1992-08-12T23:09:46'
+  crc: '0xa1c05c84'
+- name: NFL.EXE
+  size: 340080
+  date: '1991-08-08T15:32:16'
+  crc: '0x522da368'
+- name: NFLCOLOR.PVL
+  size: 237647
+  date: '1991-08-09T13:43:46'
+  crc: '0x85ee5ec2'
+- name: PP2.CFG
+  size: 418
+  date: '1992-08-12T23:34:32'
+  crc: '0x5beaf92a'
+- name: PPPF.PVL
+  size: 96712
+  date: '1991-06-28T17:07:16'
+  crc: '0x28389e32'
+- name: PPPR.PVL
+  size: 22045
+  date: '1991-06-28T17:07:24'
+  crc: '0xf8a825a0'
+- name: RON.PPD
+  size: 1438
+  date: '1980-01-01T00:45:12'
+  crc: '0xb3735473'
+- name: ROOM.PPD
+  size: 1431
+  date: '1980-01-01T00:58:58'
+  crc: '0x9ebb3433'

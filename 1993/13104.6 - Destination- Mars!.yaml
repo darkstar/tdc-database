@@ -1,0 +1,46 @@
+filename: Destination- Mars! v2.4 (Installer) (1993)(Compu-Teach) [Educational, Simulation].zip
+tdc_id: '13104.6'
+parent_id: '13104.5'
+title:
+  box: 'Destination: Mars!'
+  qualifier: Installer
+publisher: Compu-Teach
+year: '1993'
+genre:
+- Educational
+- Simulation
+language: English
+date:
+  added: '2023-07-11T20:47:53'
+  last_modified: '2023-07-11T20:47:53'
+version: '2.4'
+type: zip
+media: 1.44M
+installer: true
+references:
+  mobygames: https://www.mobygames.com/game/514/destination-mars/
+files:
+- name: INSTALL.EXE
+  size: 68340
+  date: '1993-11-29T15:26:30'
+  crc: '0xb1756a01'
+- name: INSTALL.S
+  size: 3644
+  date: '1993-11-30T16:29:06'
+  crc: '0x64924012'
+- name: MARS.001
+  size: 1377000
+  date: '1993-11-30T16:32:20'
+  crc: '0x11f55b95'
+- name: MARS.002
+  size: 1457000
+  date: '1993-11-30T16:33:42'
+  crc: '0x314fdee0'
+- name: MARS.003
+  size: 1457000
+  date: '1993-11-30T16:35:26'
+  crc: '0xfd3c4b01'
+- name: MARS.004
+  size: 1320285
+  date: '1993-11-30T16:37:08'
+  crc: '0x9225d527'

@@ -1,0 +1,25 @@
+filename: Gary Grigsby's Pacific War v1.1 (Installer) (1992)(Strategic Simulations, Inc.) [Strategy].zip
+tdc_id: '13960.1'
+title:
+  box: Gary Grigsby's Pacific War
+publisher: Strategic Simulations, Inc.
+year: '1992'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:44:56'
+  last_modified: '2019-03-01T18:44:56'
+version: '1.1'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK1.ARJ
+  size: 526421
+  date: '1993-07-29T22:49:58'
+  crc: '0x52ac396b'
+- name: INSTALL.EXE
+  size: 37770
+  date: '1993-03-10T16:19:56'
+  crc: '0x76b50582'

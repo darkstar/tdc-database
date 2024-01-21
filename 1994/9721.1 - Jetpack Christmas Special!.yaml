@@ -1,0 +1,32 @@
+filename: Jetpack Christmas Special! v1.1 (Installer) [SW] (1994)(Software Creations) [Action].zip
+tdc_id: '9721.1'
+title:
+  screen: Jetpack Christmas Special!
+publisher: Software Creations
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-01-27T16:03:00'
+  last_modified: '2019-01-27T16:03:00'
+version: '1.1'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 474
+  date: '1994-11-02T20:46:00'
+  crc: '0xa69e2a40'
+- name: INSTALL.EXE
+  size: 22372
+  date: '1994-11-02T20:50:16'
+  crc: '0xa18aad90'
+- name: _INSTALL.DAT
+  size: 450399
+  date: '1994-11-02T20:49:26'
+  crc: '0xcb724fb0'

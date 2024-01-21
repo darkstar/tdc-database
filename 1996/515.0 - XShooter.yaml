@@ -1,0 +1,31 @@
+filename: XShooter (1996)(Dan Green) [Action].zip
+tdc_id: '515.0'
+title:
+  screen: XShooter
+publisher: Dan Green
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:23:36'
+  last_modified: '2019-03-02T10:23:36'
+type: zip
+commands:
+  play: XSHOOTER.EXE
+files:
+- name: LEVEL1.DAT
+  size: 62548
+  date: '1996-01-01T05:06:46'
+  crc: '0xf75abbbb'
+- name: README.TXT
+  size: 2628
+  date: '1996-01-01T05:50:04'
+  crc: '0xd5d4ecca'
+- name: SOURCE.ZIP
+  size: 35786
+  date: '1996-01-01T05:53:32'
+  crc: '0x28302920'
+- name: XSHOOTER.EXE
+  size: 63788
+  date: '1996-01-01T05:26:52'
+  crc: '0x38e64336'

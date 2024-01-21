@@ -1,0 +1,48 @@
+filename: Talking Time Tutor v2.0 (Installer) [SW] (1994)(KidStuff Software) [Educational].zip
+tdc_id: '15674.2'
+title:
+  screen: Talking Time Tutor
+publisher: KidStuff Software
+year: '1994'
+genre: Educational
+language: English
+date:
+  added: '2018-02-27T07:46:22'
+  last_modified: '2018-02-27T07:46:22'
+version: '2.0'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 241
+  date: '1994-02-19T02:00:02'
+  crc: '0xa60f86d9'
+- name: INSTALL.EXE
+  size: 34554
+  date: '1994-04-18T12:00:00'
+  crc: '0x7aeabd9c'
+- name: INSTALL.FIL
+  size: 3981
+  date: '1994-04-23T23:25:28'
+  crc: '0x1efe9de2'
+- name: TTIME20.001
+  size: 44594
+  date: '1994-04-23T23:17:56'
+  crc: '0x704dc884'
+- name: TTIME20.002
+  size: 362496
+  date: '1994-04-23T23:17:56'
+  crc: '0x2242feb6'
+- name: TTIME20.PCX
+  size: 58598
+  date: '1994-02-19T02:00:02'
+  crc: '0xd793552c'
+- name: VENDOR.DOC
+  size: 4355
+  date: '1994-04-23T23:09:08'
+  crc: '0x34aa37f9'

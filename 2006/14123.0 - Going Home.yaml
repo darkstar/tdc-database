@@ -1,0 +1,30 @@
+filename: Going Home (2006)(Matt Brault) [Adventure, Interactive Fiction].zip
+tdc_id: '14123.0'
+title:
+  screen: Going Home
+publisher: Matt Brault
+year: '2006'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T10:57:14'
+  last_modified: '2019-03-02T10:57:14'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 26
+  date: '2018-12-14T11:03:40'
+  crc: '0x1171a49e'
+- name: GOHOME.BAS
+  size: 39958
+  date: '2006-02-07T08:33:20'
+  crc: '0x05c12559'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

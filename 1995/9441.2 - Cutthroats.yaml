@@ -1,0 +1,33 @@
+filename: Cutthroats r23 (1995)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '9441.2'
+title:
+  box: Cutthroats
+publisher: Infocom, Inc.
+year: '1995'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2022-11-14T09:52:09'
+  last_modified: '2022-11-14T09:52:09'
+release: '23'
+type: zip
+commands:
+  play: CUTTHROA.COM
+  setup: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/cutthroats
+files:
+- name: CUTTHROA.COM
+  size: 11402
+  date: '1980-01-01T00:54:56'
+  crc: '0xfb0e38c3'
+- name: CUTTHROA.DAT
+  size: 112640
+  date: '1992-06-08T11:11:16'
+  crc: '0xeaebe24b'
+- name: SETUP.EXE
+  size: 1584
+  date: '1985-06-28T10:53:14'
+  crc: '0x62ddb282'

@@ -1,0 +1,27 @@
+filename: SPCWAR (1981)(IBM) [Action].zip
+tdc_id: '5177.0'
+title:
+  box: SPCWAR
+publisher: IBM
+year: '1981'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:22:54'
+  last_modified: '2019-03-01T18:22:54'
+type: zip
+commands:
+  play: SPCWAR.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: SPCWAR.BAS
+  size: 5120
+  date: '1981-05-22T01:00:00'
+  crc: '0x9d298ed1'
+- name: SPCWAR.BAT
+  size: 16
+  date: '1980-01-01T01:00:00'
+  crc: '0x5b41531e'

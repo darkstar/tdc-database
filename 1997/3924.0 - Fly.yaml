@@ -1,0 +1,36 @@
+filename: Fly (1997)(Electronic Gaming Software) [Action].zip
+tdc_id: '3924.0'
+title:
+  screen: Fly
+publisher: Electronic Gaming Software
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:31:22'
+  last_modified: '2019-03-02T10:31:22'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: FLY.BAS
+  size: 7114
+  date: '2018-11-18T12:48:44'
+  crc: '0x36715d5d'
+- name: FLYSRC.BAS
+  size: 7122
+  date: '1997-08-13T21:53:58'
+  crc: '0xc79fdca4'
+- name: GO.BAT
+  size: 23
+  date: '2018-11-18T12:24:32'
+  crc: '0x6f90fb72'
+- name: JOYTEST.BAS
+  size: 858
+  date: '2018-11-18T12:27:32'
+  crc: '0x8bc6ff72'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'

@@ -1,0 +1,35 @@
+filename: Chain Reaction (1990)(A.R. Wright) [Strategy].zip
+tdc_id: '1897.0'
+title:
+  screen: Chain Reaction
+publisher: A.R. Wright
+year: '1990'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:32:02'
+  last_modified: '2019-03-01T18:32:02'
+type: zip
+media: Download
+commands:
+  play: REACTION.EXE
+references:
+  dosid: DOS07405
+  exodos: Chain Reaction (1990).zip
+files:
+- name: REACTION.EXE
+  size: 66346
+  date: '1990-06-28T14:24:12'
+  crc: '0xd79c10ff'
+- name: REACTION.SCO
+  size: 380
+  date: '1990-06-26T08:16:28'
+  crc: '0x1f659b1c'
+- name: REACTION.SCR
+  size: 4004
+  date: '1990-06-27T16:43:52'
+  crc: '0xa0b05d3e'
+- name: README
+  size: 2617
+  date: '1990-06-26T10:34:44'
+  crc: '0x277e2888'

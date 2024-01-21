@@ -1,0 +1,35 @@
+filename: Last Eichhof, The v1.1 (1993)(Alpha Helix Productions) [Action].zip
+tdc_id: '6304.0'
+title:
+  screen: The Last Eichhof
+publisher: Alpha Helix Productions
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T19:11:26'
+  last_modified: '2019-03-01T19:11:26'
+version: '1.1'
+type: zip
+commands:
+  play: BEER.EXE
+references:
+  dosid: DOS03091
+  exodos: Last Eichhof, The (1993).zip
+files:
+- name: BEER.DAT
+  size: 6746929
+  date: '1993-12-26T17:43:06'
+  crc: '0x36354384'
+- name: BEER.EXE
+  size: 50384
+  date: '1994-01-30T17:04:00'
+  crc: '0x57504501'
+- name: CONFIG.HIG
+  size: 208
+  date: '2001-07-14T01:06:32'
+  crc: '0x899734d2'
+- name: READ.ME
+  size: 372
+  date: '1994-01-24T10:23:14'
+  crc: '0xb9475cd7'

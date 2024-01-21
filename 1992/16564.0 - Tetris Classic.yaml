@@ -1,0 +1,157 @@
+filename: Tetris Classic v1.0 (1992)(Spectrum Holobyte, Inc.) [Strategy, Action][!].zip
+tdc_id: '16564.0'
+parent_id: '16564.2'
+title:
+  box: Tetris Classic
+publisher: Spectrum Holobyte, Inc.
+year: '1992'
+genre:
+- Strategy
+- Action
+language: English
+date:
+  added: '2019-03-01T18:51:50'
+  last_modified: '2023-03-22T16:02:24'
+version: '1.0'
+type: zip
+tags:
+- KnownGood
+media: 1.44M
+commands:
+  play: TETRISC.EXE
+references:
+  mobygames: https://www.mobygames.com/game/27780/tetris-classic/
+  dosid: DOS05093
+  exodos: Tetris Classic (1992).zip
+files:
+- name: AD.MUS
+  size: 18241
+  date: '1992-05-27T16:11:46'
+  crc: '0x14dcf660'
+- name: ADLIB.ADV
+  size: 6929
+  date: '1992-05-31T18:52:32'
+  crc: '0xff375bac'
+- name: CANVAS.ADV
+  size: 5373
+  date: '1992-06-12T23:13:40'
+  crc: '0x90d487ae'
+- name: CFGSCR
+  size: 45351
+  date: '1992-06-15T17:06:48'
+  crc: '0x13b41611'
+- name: GAME.CFG
+  size: 322
+  date: '1992-06-15T17:45:48'
+  crc: '0x951609ab'
+- name: GAMESCR
+  size: 658979
+  date: '1992-06-05T22:17:52'
+  crc: '0xcfa5c9d9'
+- name: GRAPHLIB
+  size: 10542
+  date: '1992-06-05T16:58:20'
+  crc: '0xb548c7b6'
+- name: INSTALL.EXE
+  size: 11621
+  date: '1992-06-15T13:10:22'
+  crc: '0x8ea8981b'
+- name: JOYSTICK.DEF
+  size: 72
+  date: '1992-06-14T21:54:18'
+  crc: '0x394abb78'
+- name: MIDPAK.AD
+  size: 5122
+  date: '1992-01-29T12:46:24'
+  crc: '0x4c7f0248'
+- name: MT.MUS
+  size: 18069
+  date: '1992-05-29T22:18:12'
+  crc: '0x00914bd4'
+- name: MT32MPU.ADV
+  size: 5369
+  date: '1992-05-31T18:53:06'
+  crc: '0xd46f4658'
+- name: PASFM.ADV
+  size: 7191
+  date: '1992-05-31T18:53:18'
+  crc: '0xd27b6718'
+- name: PC.MUS
+  size: 5768
+  date: '1992-05-21T11:36:44'
+  crc: '0x648b2647'
+- name: PCSPKR.ADV
+  size: 4889
+  date: '1992-06-02T19:06:44'
+  crc: '0xf62294b2'
+- name: README.BAT
+  size: 2677
+  date: '1992-06-16T16:14:10'
+  crc: '0xa7ff189c'
+- name: README.TXT
+  size: 2282
+  date: '1992-06-16T16:20:32'
+  crc: '0x80dd579f'
+- name: SBFM.ADV
+  size: 6965
+  date: '1992-05-31T18:54:20'
+  crc: '0xee86d47b'
+- name: SBP1FM.ADV
+  size: 7173
+  date: '1992-05-31T18:53:50'
+  crc: '0xb7a96ffd'
+- name: SBP2FM.ADV
+  size: 7519
+  date: '1992-05-31T18:54:06'
+  crc: '0xe354726e'
+- name: SC.MUS
+  size: 18605
+  date: '1992-05-29T00:46:24'
+  crc: '0xce1afaf3'
+- name: SCRWIN
+  size: 83600
+  date: '1992-06-05T22:07:46'
+  crc: '0xb71c1bdd'
+- name: TANDY.ADV
+  size: 4960
+  date: '1992-06-03T11:41:48'
+  crc: '0xfc75b946'
+- name: TD.MUS
+  size: 12566
+  date: '1992-05-21T11:36:30'
+  crc: '0x98ab7974'
+- name: TETRIS C.LAS
+  size: 0
+  date: '1992-06-16T17:00:18'
+- name: TETRISC.EXE
+  size: 129817
+  date: '1992-06-15T19:03:30'
+  crc: '0x0c18eade'
+- name: TETRISC.EX_
+  size: 129929
+  date: '1992-06-15T19:03:30'
+  crc: '0x5b631e4c'
+- name: TITLESCR
+  size: 50626
+  date: '1992-06-05T22:30:30'
+  crc: '0xfb98d45c'
+- name: TOPSCR
+  size: 82936
+  date: '1992-05-30T22:49:18'
+  crc: '0x71fc059c'
+- name: TTS
+  size: 1856
+  date: '1992-06-15T17:45:46'
+  crc: '0x974ad873'
+- name: TWL
+  size: 5500
+  date: '1992-06-15T17:24:02'
+  crc: '0x185a28a3'
+- name: VEDATA
+  size: 1311
+  date: '1992-06-15T17:25:46'
+  crc: '0x100f1a79'
+- name: VPALETTE
+  size: 7920
+  date: '1992-06-05T22:00:06'
+  crc: '0xd1a4187e'

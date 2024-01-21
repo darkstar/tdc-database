@@ -1,0 +1,49 @@
+filename: Chickens 3 v1.07 (demo) (2000)(Brainchild Design) [Action].zip
+tdc_id: '9235.0'
+title:
+  screen: Chickens 3
+publisher: Brainchild Design
+year: '2000'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:54:38'
+  last_modified: '2019-03-02T10:54:38'
+version: '1.07'
+type: zip
+demo: true
+commands:
+  play: ch3.exe
+files:
+- name: anm.pcx
+  size: 5206
+  date: '1999-12-31T19:00:00'
+  crc: '0xd05be8c9'
+- name: ch3.exe
+  size: 160733
+  date: '1999-12-31T19:00:00'
+  crc: '0xe6d14bf2'
+- name: ch3.pcx
+  size: 12907
+  date: '1999-12-31T19:00:00'
+  crc: '0xc99aa266'
+- name: ch3.txt
+  size: 7895
+  date: '1999-12-31T19:00:00'
+  crc: '0xdb1ecec7'
+- name: font.pcx
+  size: 32342
+  date: '1999-12-31T19:00:00'
+  crc: '0x53ad26ff'
+- name: guns.dat
+  size: 180
+  date: '1999-12-31T19:00:00'
+  crc: '0xbd6f9038'
+- name: intro.pcx
+  size: 8916
+  date: '1999-12-31T19:00:00'
+  crc: '0x48d31a25'
+- name: skypal.dat
+  size: 480
+  date: '1999-12-31T19:00:00'
+  crc: '0x36dbe0e2'

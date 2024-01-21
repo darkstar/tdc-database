@@ -1,0 +1,52 @@
+filename: Uno a.k.a. One [SW] (1990)(Suzanne Spencer Software) [Strategy, Cards].zip
+tdc_id: '2117.0'
+title:
+  screen: Uno a.k.a. One
+publisher: Suzanne Spencer Software
+year: '1990'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:34:26'
+  last_modified: '2019-03-01T18:34:26'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: UNOSCORE.EXE
+files:
+- name: CARDS1.CGA
+  size: 47119
+  date: '2018-02-26T16:52:46'
+  crc: '0xe44c02eb'
+- name: CARDS2.CGA
+  size: 47119
+  date: '2018-02-26T16:52:52'
+  crc: '0x6282375b'
+- name: HISCORE.CGA
+  size: 47111
+  date: '2018-02-26T16:52:52'
+  crc: '0x4114e2df'
+- name: HISCORE.DAT
+  size: 184
+  date: '2018-02-26T16:52:50'
+  crc: '0x5deb588b'
+- name: ONETITLE.CGA
+  size: 47119
+  date: '2018-02-26T16:52:48'
+  crc: '0xba4c743b'
+- name: SUPPORT.DOC
+  size: 1825
+  date: '2018-02-26T16:52:46'
+  crc: '0x37c6530a'
+- name: UNOSCORE.DOC
+  size: 10104
+  date: '2018-02-26T16:52:46'
+  crc: '0xbb1d68bc'
+- name: UNOSCORE.EXE
+  size: 105455
+  date: '2018-02-26T16:52:50'
+  crc: '0xa6f58d5e'

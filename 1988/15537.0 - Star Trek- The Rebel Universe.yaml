@@ -1,0 +1,34 @@
+filename: Star Trek- The Rebel Universe (CGA) (1988)(Simon & Schuster Interactive) [Simulation, Strategy].zip
+tdc_id: '15537.0'
+title:
+  box: 'Star Trek: The Rebel Universe'
+  qualifier: CGA
+publisher: Simon & Schuster Interactive
+year: '1988'
+genre:
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:26:50'
+  last_modified: '2019-03-01T18:26:50'
+type: zip
+commands:
+  play: STARTREK.EXE
+files:
+- name: LOADSCR.IMG
+  size: 16384
+  date: '1988-07-01T21:45:00'
+  crc: '0x5f44d5d0'
+- name: REMOTE0.DAT
+  size: 59083
+  date: '1988-07-01T17:38:00'
+  crc: '0x8db0388e'
+- name: REMOTE9.DAT
+  size: 53440
+  date: '1988-07-01T10:30:00'
+  crc: '0x564770a8'
+- name: STARTREK.EXE
+  size: 81792
+  date: '1988-07-01T14:24:46'
+  crc: '0x2ec6f60c'

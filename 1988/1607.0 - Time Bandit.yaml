@@ -1,0 +1,61 @@
+filename: Time Bandit v2.0 (1988)(MicroDeal) [Action, Adventure].zip
+tdc_id: '1607.0'
+title:
+  box: Time Bandit
+publisher: MicroDeal
+year: '1988'
+genre:
+- Action
+- Adventure
+language: English
+date:
+  added: '2019-03-01T18:26:54'
+  last_modified: '2019-03-01T18:26:54'
+version: '2.0'
+type: zip
+commands:
+  play: BANDIT.EXE
+references:
+  dosid: DOS05140
+  exodos: Time Bandit (1988).zip
+files:
+- name: BANDIT.CGA
+  size: 12064
+  date: '1988-11-29T19:30:30'
+  crc: '0x01628bac'
+- name: BANDIT.EGA
+  size: 20432
+  date: '1988-11-21T23:12:22'
+  crc: '0x30c7e9b7'
+- name: BANDIT.EXE
+  size: 141293
+  date: '1988-11-29T19:32:00'
+  crc: '0x03b0eb8e'
+- name: BANDIT.EX_
+  size: 141293
+  date: '1988-11-29T19:32:00'
+  crc: '0x684ef031'
+- name: BANDIT.VGA
+  size: 20699
+  date: '1988-10-18T12:37:54'
+  crc: '0xa9f6d936'
+- name: GROUND.CGA
+  size: 14723
+  date: '1988-11-29T19:30:44'
+  crc: '0xa57408d2'
+- name: GROUND.EGA
+  size: 21476
+  date: '1988-10-05T18:09:20'
+  crc: '0x78543e65'
+- name: GROUND.VGA
+  size: 21534
+  date: '1988-10-18T12:38:04'
+  crc: '0x74ce63e7'
+- name: MASKS.ALL
+  size: 10368
+  date: '1988-11-29T19:31:20'
+  crc: '0x02c9941a'
+- name: TITLE.SCR
+  size: 2826
+  date: '1988-11-21T16:27:24'
+  crc: '0xb1ac2f78'

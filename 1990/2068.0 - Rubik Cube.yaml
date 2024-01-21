@@ -1,0 +1,40 @@
+filename: Rubik Cube v2.00 [SW] (1990)(ZB_Syrel Software) [Simulation, Strategy].zip
+tdc_id: '2068.0'
+title:
+  screen: Rubik Cube
+publisher: ZB_Syrel Software
+year: '1990'
+genre:
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:33:54'
+  last_modified: '2019-03-01T18:33:54'
+version: '2.00'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: RUBIK-S.EXE
+references:
+  dosid: DOS07061
+  exodos: Rubik Cube (1991).zip
+files:
+- name: RCUBE.DOC
+  size: 3136
+  date: '1990-10-16T08:21:00'
+  crc: '0x7b5027dc'
+- name: READ-RUB.ME
+  size: 3550
+  date: '1990-10-16T08:18:32'
+  crc: '0xd1626102'
+- name: REGISTER.FRM
+  size: 1993
+  date: '1990-10-13T13:13:50'
+  crc: '0xb830aad3'
+- name: RUBIK-S.EXE
+  size: 78880
+  date: '1990-10-16T05:18:10'
+  crc: '0x8a24bffa'

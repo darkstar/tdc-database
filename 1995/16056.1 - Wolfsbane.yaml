@@ -1,0 +1,79 @@
+filename: Wolfsbane (Installer) (En)(It)(Fr)(De)(Nl) (1995)(Merit Studios, Inc.) [Adventure].zip
+tdc_id: '16056.1'
+title:
+  box: Wolfsbane
+publisher: Merit Studios, Inc.
+year: '1995'
+genre: Adventure
+language:
+- English
+- French
+- Italian
+- German
+- Dutch
+date:
+  added: '2019-03-02T09:08:00'
+  last_modified: '2022-11-30T09:36:16'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/wolfsbane
+files:
+- name: DISK001.ID
+  size: 17
+  date: '1995-07-05T01:03:00'
+  crc: '0x976bc5ee'
+- name: DISK002.ID
+  size: 17
+  date: '1995-07-05T01:03:00'
+  crc: '0x976bc5ee'
+- name: DISK003.ID
+  size: 17
+  date: '1995-07-05T01:03:00'
+  crc: '0x976bc5ee'
+- name: DUTCH.RES
+  size: 88361
+  date: '1995-08-09T01:03:00'
+  crc: '0x5d4e0741'
+- name: ENGLISH.RES
+  size: 85928
+  date: '1995-08-09T01:03:00'
+  crc: '0x9d7d9a19'
+- name: FRENCH.RES
+  size: 88659
+  date: '1995-08-09T01:03:00'
+  crc: '0xd5c8d0a1'
+- name: GERMAN.RES
+  size: 89705
+  date: '1995-08-09T01:03:00'
+  crc: '0x53980627'
+- name: INSTALL.EXE
+  size: 48675
+  date: '1995-07-27T01:03:00'
+  crc: '0x2ba38967'
+- name: ITALIAN.RES
+  size: 86333
+  date: '1995-08-09T01:03:00'
+  crc: '0x03758421'
+- name: WLFSBANE.AUD
+  size: 1232307
+  date: '1995-07-09T01:03:00'
+  crc: '0x9052f1d4'
+- name: WLFSBANE.INT
+  size: 398298
+  date: '1995-07-26T01:03:00'
+  crc: '0x3085bf28'
+- name: WLFSBANE.MSC
+  size: 654141
+  date: '1995-08-09T01:03:00'
+  crc: '0xce23d743'
+- name: WLFSBANE.PRG
+  size: 131113
+  date: '1995-07-27T01:03:00'
+  crc: '0x45577a89'
+- name: WLFSBANE.RES
+  size: 1154789
+  date: '1995-07-09T01:03:00'
+  crc: '0xc7bd2468'

@@ -1,0 +1,40 @@
+filename: Braminar (1987)(PC-SIG) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '12796.0'
+title:
+  screen: Braminar
+publisher: PC-SIG
+year: '1987'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:25:12'
+  last_modified: '2019-03-01T18:25:12'
+type: zip
+commands:
+  play: BRAMINAR.COM
+references:
+  dosid: DOS01166
+  exodos: Braminar (1987).zip
+files:
+- name: BRAM.DAT
+  size: 4320
+  date: '1987-09-17T08:57:50'
+  crc: '0x95a6d27a'
+- name: BRAMINAR.COM
+  size: 62456
+  date: '1987-09-17T08:58:04'
+  crc: '0xcba60274'
+- name: BRAMINAR.DOC
+  size: 2981
+  date: '1987-09-17T08:58:08'
+  crc: '0xcdca6b90'
+- name: FILES.TXT
+  size: 298
+  date: '1987-06-29T01:56:52'
+  crc: '0x8a5241c1'
+- name: FINASSLT.CHN
+  size: 11449
+  date: '1987-09-17T08:58:14'
+  crc: '0x337d778b'

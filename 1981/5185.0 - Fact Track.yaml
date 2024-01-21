@@ -1,0 +1,76 @@
+filename: Fact Track (1981)(IBM) [Educational].zip
+tdc_id: '5185.0'
+title:
+  box: Fact Track
+publisher: IBM
+year: '1981'
+genre: Educational
+language: English
+date:
+  added: '2019-04-12T03:08:58'
+  last_modified: '2019-04-12T03:08:58'
+type: zip
+references:
+  dosid: DOS15943
+  exodos: Fact Track (1981).zip
+files:
+- name: AUTOEXEC.BAT
+  size: 15
+  date: '1985-01-01T00:00:00'
+  crc: '0x62339c90'
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T12:00:00'
+  crc: '0x92293842'
+- name: COLOR.BAS
+  size: 896
+  date: '1985-01-01T00:00:00'
+  crc: '0xfcdbe393'
+- name: FACT.BIN
+  size: 768
+  date: '1985-01-01T00:00:00'
+  crc: '0x1f6a7036'
+- name: FT.INT
+  size: 14464
+  date: '1981-08-06T00:00:00'
+  crc: '0x46ee296b'
+- name: FT.PGE
+  size: 6912
+  date: '1981-08-06T00:00:00'
+  crc: '0x177b5d52'
+- name: FT.PGN
+  size: 11776
+  date: '1981-08-06T00:00:00'
+  crc: '0x2586efeb'
+- name: FTCARD.SPD
+  size: 12800
+  date: '1981-08-06T00:00:00'
+  crc: '0x642a61d9'
+- name: FTCARD.TEL
+  size: 19200
+  date: '1981-08-14T00:00:00'
+  crc: '0x45ae97e2'
+- name: FTCARD.TIM
+  size: 17536
+  date: '1981-08-14T00:00:00'
+  crc: '0x0a9cf4fb'
+- name: LOGO.BAS
+  size: 9330
+  date: '1981-08-04T00:00:00'
+  crc: '0x25fa9341'
+- name: LOGO.BA_
+  size: 9728
+  date: '1981-08-04T00:00:00'
+  crc: '0x03f2e7b9'
+- name: PRESS.BIN
+  size: 768
+  date: '1981-07-22T00:00:00'
+  crc: '0xa11d635c'
+- name: SETUP1.BAT
+  size: 361
+  date: '1985-01-01T00:00:00'
+  crc: '0xf625e443'
+- name: SETUP2.BAT
+  size: 327
+  date: '1985-01-01T00:00:00'
+  crc: '0xa589bfac'

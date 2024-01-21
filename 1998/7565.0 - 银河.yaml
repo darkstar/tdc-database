@@ -1,0 +1,29 @@
+filename: 银河 (1998)(Toyshop Studio) [Action].zip
+tdc_id: '7565.0'
+title:
+  screen: 银河
+  translation: Wing Manager- mad arm III
+publisher: Toyshop Studio
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2019-01-16T11:24:22'
+  last_modified: '2023-07-01T12:07:01'
+type: zip
+media: Download
+commands:
+  play: WM.EXE
+files:
+- name: README.TXT
+  size: 103
+  date: '2000-06-12T23:35:26'
+  crc: '0x1fb341e9'
+- name: WM.BAS
+  size: 31430
+  date: '2000-05-02T20:05:36'
+  crc: '0x29622bbd'
+- name: WM.EXE
+  size: 94089
+  date: '2000-05-02T20:05:46'
+  crc: '0x13faffad'

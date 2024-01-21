@@ -1,0 +1,71 @@
+filename: Run 'Em Over (2002)(Lachie Dazdarian) [Action].zip
+tdc_id: '6567.0'
+title:
+  screen: Run 'Em Over
+publisher: Lachie Dazdarian
+year: '2002'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:56:10'
+  last_modified: '2019-03-02T10:56:10'
+type: zip
+commands:
+  play: REO.EXE
+files:
+- name: CITY.MAP
+  size: 993
+  date: '1991-12-23T04:40:08'
+  crc: '0x34331a53'
+- name: DELAY.DAT
+  size: 5
+  date: '1992-01-18T21:09:02'
+  crc: '0x2242966e'
+- name: FONT.FNT
+  size: 5399
+  date: '1992-01-19T21:47:42'
+  crc: '0x9caf1321'
+- name: HIGHSCOR.DAT
+  size: 69
+  date: '1992-01-19T21:22:06'
+  crc: '0x07c358a8'
+- name: HIGHSCOR.PUT
+  size: 26423
+  date: '1992-01-01T01:57:36'
+  crc: '0x23d3a8e4'
+- name: MAINMENU.PAL
+  size: 8647
+  date: '1991-12-23T05:28:16'
+  crc: '0x41ab070e'
+- name: MAP.PAL
+  size: 1024
+  date: '1991-12-10T01:23:58'
+  crc: '0xdddd6f24'
+- name: README.TXT
+  size: 8697
+  date: '2002-09-19T13:54:14'
+  crc: '0x16d6d949'
+- name: RELPAL.PAL
+  size: 768
+  date: '2002-02-25T20:08:16'
+  crc: '0x09d81ed5'
+- name: REMULAC.MAP
+  size: 949
+  date: '1991-12-25T03:08:04'
+  crc: '0xa8a9f75c'
+- name: REO.EXE
+  size: 122934
+  date: '1988-10-08T02:10:40'
+  crc: '0xf0707131'
+- name: REO.GFX
+  size: 64011
+  date: '1991-12-23T05:28:12'
+  crc: '0x940c493b'
+- name: REO.PUT
+  size: 13377
+  date: '1991-12-23T04:37:40'
+  crc: '0xb371f4f4'
+- name: REO2.PUT
+  size: 12973
+  date: '1991-12-25T01:28:30'
+  crc: '0xcf21839f'

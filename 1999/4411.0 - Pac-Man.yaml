@@ -1,0 +1,28 @@
+filename: Pac-Man (1999)(Knight Productions) [Action].zip
+tdc_id: '4411.0'
+title:
+  screen: Pac-Man
+publisher: Knight Productions
+year: '1999'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:46:20'
+  last_modified: '2019-03-02T10:46:20'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 26
+  date: '2018-11-27T19:08:04'
+  crc: '0xd6261988'
+- name: PACMAN.BAS
+  size: 18495
+  date: '2018-03-10T14:53:48'
+  crc: '0x403ca87d'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

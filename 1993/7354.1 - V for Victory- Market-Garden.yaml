@@ -1,0 +1,62 @@
+filename: V for Victory- Market-Garden (Installer) (1993)(Three-Sixty Pacific, Inc.) [Strategy][!].zip
+tdc_id: '7354.1'
+title:
+  box: 'V for Victory: Market-Garden'
+publisher: Three-Sixty Pacific, Inc.
+year: '1993'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T21:11:12'
+  last_modified: '2019-03-01T21:11:12'
+type: zip
+tags:
+- KnownGood
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK.1
+  size: 6
+  date: '1993-03-10T21:33:46'
+  crc: '0x3d3e87fe'
+- name: INSTALL.EXE
+  size: 168688
+  date: '1993-03-11T00:46:44'
+  crc: '0x48b57625'
+- name: INSTALL5.DAT
+  size: 7794
+  date: '1993-03-11T10:46:26'
+  crc: '0x436eabd5'
+- name: MGFILE.001
+  size: 281020
+  date: '1993-03-10T21:25:12'
+  crc: '0xe5ebb478'
+- name: MGFILE.002
+  size: 60743
+  date: '1993-03-10T21:31:30'
+  crc: '0x58216b56'
+- name: MGFILE.003
+  size: 461463
+  date: '1993-03-10T23:21:52'
+  crc: '0xcc5a86c6'
+- name: MGFILE.004
+  size: 222282
+  date: '1993-03-10T23:44:24'
+  crc: '0x34cf3865'
+- name: MGFILE.005
+  size: 30274
+  date: '1993-01-21T19:08:46'
+  crc: '0x521c4971'
+- name: MGFILE.006
+  size: 81854
+  date: '1993-03-10T23:29:20'
+  crc: '0x160d98ff'
+- name: PCX.000
+  size: 26344
+  date: '1993-03-11T10:23:56'
+  crc: '0xc9d0312a'
+- name: READ.ME
+  size: 1069
+  date: '1993-03-11T10:50:08'
+  crc: '0xadfcd238'

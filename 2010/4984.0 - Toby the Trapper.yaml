@@ -1,0 +1,42 @@
+filename: Toby the Trapper v1.2 (2010)(Darren Grey) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '4984.0'
+title:
+  screen: Toby the Trapper
+publisher: Darren Grey
+year: '2010'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-02T10:57:48'
+  last_modified: '2019-03-02T10:57:48'
+version: '1.2'
+type: zip
+commands:
+  play: trapper.exe
+files:
+- name: README.txt
+  size: 4853
+  date: '2010-09-20T21:02:22'
+  crc: '0x5b4b1743'
+- name: cwsdpmi.exe
+  size: 20473
+  date: '2000-10-12T01:26:50'
+  crc: '0x80fa6999'
+- name: note.txt
+  size: 70
+  date: '2015-11-01T11:01:02'
+  crc: '0x58b9c11c'
+- name: trapper.exe
+  size: 247296
+  date: '2015-11-01T15:55:42'
+  crc: '0x3093573f'
+- name: trapper1.2.0.pas
+  size: 143918
+  date: '2010-09-12T03:27:08'
+  crc: '0x404505e2'
+- name: version history.txt
+  size: 1382
+  date: '2010-09-12T03:29:38'
+  crc: '0x920ff962'

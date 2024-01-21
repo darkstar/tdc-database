@@ -1,0 +1,89 @@
+filename: Star Wars- TIE Fighter v1.0 (Installer) (1994)(LucasArts Entertainment Company LLC) [Action, Simulation].zip
+tdc_id: '15549.4'
+title:
+  box: 'Star Wars: TIE Fighter'
+  qualifier: Installer
+publisher: LucasArts Entertainment Company LLC
+year: '1994'
+genre:
+- Action
+- Simulation
+language: English
+date:
+  added: '2019-03-02T07:17:44'
+  last_modified: '2023-11-26T11:47:11'
+version: '1.0'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/240/star-wars-tie-fighter/
+files:
+- name: DETECT.EXE
+  size: 3027
+  date: '1994-06-04T17:17:14'
+  crc: '0x672df7bf'
+- name: DISK.ID
+  size: 61
+  date: '1994-06-22T20:22:58'
+  crc: '0xee6d83f9'
+- name: DISK.ID2
+  size: 61
+  date: '1994-06-22T20:24:18'
+  crc: '0xec2b3da0'
+- name: DISK.ID3
+  size: 61
+  date: '1994-06-22T20:25:34'
+  crc: '0xede95797'
+- name: DISK.ID4
+  size: 61
+  date: '1994-06-22T20:26:48'
+  crc: '0xe8a64112'
+- name: DISK.ID5
+  size: 61
+  date: '1994-06-22T20:28:06'
+  crc: '0xe9642b25'
+- name: INSTALL.EXE
+  size: 138269
+  date: '1992-07-28T12:00:00'
+  crc: '0x4b94f10e'
+- name: READ.ME
+  size: 16800
+  date: '1994-06-21T14:44:28'
+  crc: '0x374dac68'
+- name: TIE.001
+  size: 1298080
+  date: '1994-06-22T20:29:34'
+  crc: '0xec0fd084'
+- name: TIE.002
+  size: 1457152
+  date: '1994-06-22T20:25:18'
+  crc: '0x540c78cc'
+- name: TIE.003
+  size: 1457152
+  date: '1994-06-22T20:26:34'
+  crc: '0x796eb4e6'
+- name: TIE.004
+  size: 1457152
+  date: '1994-06-22T20:27:48'
+  crc: '0x1c335310'
+- name: TIE.005
+  size: 1450197
+  date: '1994-06-22T20:29:06'
+  crc: '0x5fadac0c'
+- name: TIE_1
+  size: 0
+  date: '1994-06-22T20:22:58'
+- name: TIE_2
+  size: 0
+  date: '1994-06-22T20:24:20'
+- name: TIE_3
+  size: 0
+  date: '1994-06-22T20:25:36'
+- name: TIE_4
+  size: 0
+  date: '1994-06-22T20:26:50'
+- name: TIE_5
+  size: 0
+  date: '1994-06-22T20:28:08'

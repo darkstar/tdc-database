@@ -1,0 +1,31 @@
+filename: Brickout v1.2 [SW] (1986)(James P. Fox) [Action].zip
+tdc_id: '1248.0'
+title:
+  screen: Brickout
+publisher: James P. Fox
+year: '1986'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:42'
+  last_modified: '2019-03-01T18:24:42'
+version: '1.2'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: BRICKOUT.COM
+files:
+- name: BRICKOUT.COM
+  size: 30793
+  date: '1986-08-31T12:18:42'
+  crc: '0x22ff3a0a'
+- name: BRICKOUT.DAT
+  size: 290
+  date: '1991-01-10T19:28:30'
+  crc: '0xef532a75'
+- name: BRICKOUT.DOC
+  size: 2287
+  date: '1986-08-30T10:32:32'
+  crc: '0xb7320de3'

@@ -1,0 +1,58 @@
+filename: Netris v1.3 (1998)(VHNet) [Action, Strategy].zip
+tdc_id: '4188.0'
+title:
+  screen: Netris
+publisher: VHNet
+year: '1998'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-02T10:43:00'
+  last_modified: '2019-03-02T10:43:00'
+version: '1.3'
+type: zip
+commands:
+  play: Netris.exe
+files:
+- name: Blocks.bmp
+  size: 8638
+  date: '1998-03-19T11:58:50'
+  crc: '0x5bed98ed'
+- name: FLIP.rw2
+  size: 1258
+  date: '1998-01-31T22:56:18'
+  crc: '0x523084f8'
+- name: Font.bmp
+  size: 4390
+  date: '1998-02-17T08:42:46'
+  crc: '0xde90ba52'
+- name: HIT.rw2
+  size: 296
+  date: '1998-01-31T22:54:56'
+  crc: '0x034ec166'
+- name: LINE.rw2
+  size: 4330
+  date: '1998-01-31T22:55:46'
+  crc: '0x00e69abf'
+- name: Logo.fsp
+  size: 64771
+  date: '1998-04-15T19:21:26'
+  crc: '0xed09821a'
+- name: Netris.cfg
+  size: 508
+  date: '1998-04-15T19:17:54'
+  crc: '0xb109b7f8'
+- name: Netris.exe
+  size: 123436
+  date: '1998-04-15T19:18:08'
+  crc: '0x9eb6e981'
+- name: Ntris.bas
+  size: 30387
+  date: '1998-04-05T13:21:08'
+  crc: '0xb739aae5'
+- name: song01.fmf
+  size: 6195
+  date: '1998-04-06T19:50:12'
+  crc: '0x1229cddb'

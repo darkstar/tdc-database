@@ -1,0 +1,32 @@
+filename: Othello [SW] (1982)(Dynacomp Inc., S.C. Personal Computer Club) [Strategy, Board].zip
+tdc_id: '1022.0'
+title:
+  screen: Othello
+publisher: Dynacomp Inc., S.C. Personal Computer Club
+year: '1982'
+genre:
+- Strategy
+- Board
+language: English
+date:
+  added: '2019-09-02T05:04:02'
+  last_modified: '2019-09-02T05:04:02'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: OTHELLO.EXE
+files:
+- name: OTHELLO.EXE
+  size: 44288
+  date: '1982-09-05T12:00:00'
+  crc: '0x00012b2c'
+- name: OTHELLO.MAP
+  size: 1536
+  date: '1982-09-05T12:00:00'
+  crc: '0xb3a98f01'
+- name: OTHELLO.OBJ
+  size: 18048
+  date: '1982-09-05T12:00:00'
+  crc: '0xd10f446d'

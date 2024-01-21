@@ -1,0 +1,64 @@
+filename: TFX v1.01 (Installer) (En)(Fr)(De)(It)(Es) (1993)(Ocean Software Ltd.) [Action, Simulation].zip
+tdc_id: '16615.3'
+title:
+  box: TFX
+publisher: Ocean Software Ltd.
+year: '1993'
+genre:
+- Action
+- Simulation
+language:
+- English
+- Spanish
+- French
+- Italian
+- German
+date:
+  added: '2019-03-01T21:09:58'
+  last_modified: '2019-03-01T21:09:58'
+version: '1.01'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISKA.DAT
+  size: 1426640
+  date: '1993-11-13T16:57:10'
+  crc: '0x137e084e'
+- name: DISKB.DAT
+  size: 1456640
+  date: '1993-11-13T16:58:54'
+  crc: '0xa9ec4668'
+- name: DISKC.DAT
+  size: 1456640
+  date: '1993-11-13T17:00:32'
+  crc: '0x8c381e49'
+- name: DISKD.DAT
+  size: 1456640
+  date: '1993-11-13T17:02:26'
+  crc: '0x63a4b439'
+- name: DISKE.DAT
+  size: 1456640
+  date: '1993-11-13T17:04:04'
+  crc: '0x72e411ed'
+- name: DISKF.DAT
+  size: 1456640
+  date: '1993-11-13T17:05:52'
+  crc: '0xbc165241'
+- name: DISKG.DAT
+  size: 1456640
+  date: '1993-11-13T17:07:34'
+  crc: '0x227a8bdf'
+- name: DISKH.DAT
+  size: 1086826
+  date: '1993-11-13T17:08:54'
+  crc: '0xe299a905'
+- name: INSTALL.EXE
+  size: 30320
+  date: '1993-11-19T18:42:42'
+  crc: '0x0e5fe677'
+- name: INSTALL.EX_
+  size: 21726
+  date: '1993-11-13T17:09:12'
+  crc: '0x79786961'

@@ -1,0 +1,49 @@
+filename: Agent (Cs)(En) (2012)(Martin Koleček) [Action].zip
+tdc_id: '8166.0'
+title:
+  screen: Agent
+publisher: Martin Koleček
+year: '2012'
+genre: Action
+language:
+- English
+- Czech
+date:
+  added: '2019-03-02T10:57:52'
+  last_modified: '2019-03-02T10:57:52'
+type: zip
+commands:
+  play: AGENT.EXE
+files:
+- name: AGENT.DAT
+  size: 4
+  date: '2012-11-16T13:00:00'
+  crc: '0x30c90892'
+- name: AGENT.EXE
+  size: 53744
+  date: '2012-11-16T12:59:40'
+  crc: '0xa6b9647b'
+- name: AGENT.GRA
+  size: 5199
+  date: '2012-11-16T12:58:32'
+  crc: '0x031391b3'
+- name: AGENT.SND
+  size: 1202
+  date: '2012-11-16T12:58:32'
+  crc: '0xdb0421d0'
+- name: DESIGN.GRA
+  size: 3100
+  date: '2012-11-16T12:58:32'
+  crc: '0x1af5e162'
+- name: LEVEL1.MAP
+  size: 2971
+  date: '2012-11-16T12:58:32'
+  crc: '0xba94d976'
+- name: LEVEL2.MAP
+  size: 2355
+  date: '2012-11-16T12:58:32'
+  crc: '0x55cc8b25'
+- name: LOGO.GRA
+  size: 2489
+  date: '2012-11-16T12:58:32'
+  crc: '0x4f63f43f'

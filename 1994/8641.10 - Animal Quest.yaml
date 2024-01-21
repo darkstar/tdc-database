@@ -1,0 +1,107 @@
+filename: Animal Quest v2.1 [SWR] (1994)(Alive Software) [Educational, Simulation].zip
+tdc_id: '8641.10'
+parent_id: '8641.19'
+title:
+  screen: Animal Quest
+publisher: Alive Software
+year: '1994'
+genre:
+- Educational
+- Simulation
+language: English
+date:
+  added: '2022-12-20T10:23:33'
+  last_modified: '2022-12-20T10:23:33'
+version: '2.1'
+type: zip
+tags:
+- SharewareRegistered
+commands:
+  play: AQ.EXE
+  setup: SETUPAQ.EXE
+references:
+  mobygames: https://www.mobygames.com/game/animal-quest
+files:
+- name: ALIVECAT.EXE
+  size: 20856
+  date: '1994-09-01T02:10:00'
+  crc: '0x185522c2'
+- name: AQ.CFG
+  size: 18
+  date: '1998-08-03T11:44:40'
+  crc: '0x00167491'
+- name: AQ.DOC
+  size: 8646
+  date: '1994-09-01T02:10:00'
+  crc: '0x7f2a3600'
+- name: AQ.EXE
+  size: 85131
+  date: '1994-09-01T02:10:00'
+  crc: '0xa7e4e5db'
+- name: AQ.GSL
+  size: 260510
+  date: '1994-09-01T02:10:00'
+  crc: '0x8218f580'
+- name: AQ1.GDL
+  size: 13775
+  date: '1994-09-01T02:10:00'
+  crc: '0xe30cc6f8'
+- name: AQ1.GGL
+  size: 260112
+  date: '1994-09-01T02:10:00'
+  crc: '0xda57c25d'
+- name: AQ1.GHL
+  size: 117
+  date: '1998-07-09T11:50:58'
+  crc: '0x86136fbb'
+- name: AQ2.GDL
+  size: 13775
+  date: '1994-09-01T02:10:00'
+  crc: '0xec65028e'
+- name: AQ2.GGL
+  size: 155629
+  date: '1994-09-01T02:10:00'
+  crc: '0x8c23e8b9'
+- name: AQ2.GHL
+  size: 117
+  date: '1999-02-09T09:56:04'
+  crc: '0xf9fbdb6f'
+- name: AQ3.GDL
+  size: 13775
+  date: '1994-09-01T02:10:00'
+  crc: '0x683896d9'
+- name: AQ3.GGL
+  size: 144320
+  date: '1994-09-01T02:10:00'
+  crc: '0xc8bad4de'
+- name: AQ3.GHL
+  size: 117
+  date: '1998-07-16T09:58:50'
+  crc: '0x049656f5'
+- name: AQ4.GDL
+  size: 13775
+  date: '1994-09-01T02:10:00'
+  crc: '0xdb6966d8'
+- name: AQ4.GGL
+  size: 113429
+  date: '1994-09-01T02:10:00'
+  crc: '0x0cbbb702'
+- name: AQ4.GHL
+  size: 117
+  date: '1998-02-20T14:33:00'
+  crc: '0xfd9025ff'
+- name: AQUEST
+  size: 0
+  date: '1991-12-16T18:55:30'
+- name: ORDER.DOC
+  size: 4545
+  date: '1994-09-01T02:10:00'
+  crc: '0xda35d75a'
+- name: README.DOC
+  size: 1728
+  date: '1994-09-01T02:10:00'
+  crc: '0x84951042'
+- name: SETUPAQ.EXE
+  size: 12615
+  date: '1994-09-01T02:10:00'
+  crc: '0x303a56bf'

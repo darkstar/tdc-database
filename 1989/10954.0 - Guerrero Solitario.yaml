@@ -1,0 +1,30 @@
+filename: Guerrero Solitario (Es) (1989)(Infodisc) [Strategy].zip
+tdc_id: '10954.0'
+title:
+  box: Guerrero Solitario
+publisher: Infodisc
+year: '1989'
+genre: Strategy
+language: Spanish
+date:
+  added: '2019-03-01T18:27:52'
+  last_modified: '2019-03-01T18:27:52'
+type: zip
+commands:
+  play: GUERRERO.EXE
+references:
+  dosid: DOS15428
+  exodos: Guerrero Solitario (1989).zip
+files:
+- name: FIGURES.SPT
+  size: 1584
+  date: '1995-05-05T01:00:00'
+  crc: '0xbe1f899f'
+- name: GUERRERO.EXE
+  size: 52832
+  date: '1995-05-05T01:00:00'
+  crc: '0x142dd613'
+- name: PORTADA.SLD
+  size: 16414
+  date: '1995-05-05T01:00:00'
+  crc: '0x324a290b'

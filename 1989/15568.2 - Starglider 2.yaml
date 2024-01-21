@@ -1,0 +1,43 @@
+filename: Starglider 2 (En)(Fr)(De) [h2] (1989)(Microplay Software) [Action].zip
+tdc_id: '15568.2'
+title:
+  box: Starglider 2
+publisher: Microplay Software
+year: '1989'
+genre: Action
+language:
+- English
+- French
+- German
+date:
+  added: '2019-03-01T18:29:06'
+  last_modified: '2019-03-01T18:29:06'
+type: zip
+tags:
+- Hack: 2
+commands:
+  play: SG2.EXE
+references:
+  dosid: DOS04819
+  exodos: Starglider 2 (1989).zip
+files:
+- name: HISCORE.SG2
+  size: 354
+  date: '1989-08-25T17:19:04'
+  crc: '0x780e4bb7'
+- name: SG2.EXE
+  size: 208087
+  date: '1990-05-14T13:01:10'
+  crc: '0xc0a2df9f'
+- name: VGAGRAF.SG2
+  size: 7950
+  date: '1989-06-05T16:50:14'
+  crc: '0x92b8eaa1'
+- name: VGAGRAF1.SG2
+  size: 64000
+  date: '1989-05-25T19:02:16'
+  crc: '0xa8cad2fb'
+- name: VGAGRAF2.SG2
+  size: 19028
+  date: '1989-06-05T16:59:36'
+  crc: '0xb63979e5'

@@ -1,0 +1,86 @@
+filename: Actua Soccer v2.0 (Installer) (1995)(Gremlin Interactive Limited) [Action, Simulation, Sports].zip
+tdc_id: '13263.2'
+parent_id: '13263.1'
+title:
+  box: Actua Soccer
+  qualifier: Installer
+publisher: Gremlin Interactive Limited
+year: '1995'
+genre:
+- Action
+- Simulation
+- Sports
+language: English
+date:
+  added: '2023-06-02T09:49:25'
+  last_modified: '2023-06-05T08:58:28'
+version: '2.0'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: ACTSOC1.ARJ
+  size: 1199427
+  date: '1995-11-13T10:14:46'
+  crc: '0x2d661798'
+- name: ACTSOC2.ARJ
+  size: 1442304
+  date: '1995-11-13T10:18:52'
+  crc: '0x0e3386a7'
+- name: ACTSOC3.ARJ
+  size: 1430781
+  date: '1995-11-13T10:18:56'
+  crc: '0x1d15d4ec'
+- name: ACTSOC4.ARJ
+  size: 1442304
+  date: '1995-11-13T10:26:34'
+  crc: '0x850194f3'
+- name: ACTSOC5.ARJ
+  size: 1441041
+  date: '1995-11-13T10:26:38'
+  crc: '0x04553fb1'
+- name: ACTSOC6.ARJ
+  size: 1361924
+  date: '1995-11-13T10:29:28'
+  crc: '0xe5225e9e'
+- name: DTEST.EXE
+  size: 15732
+  date: '1995-11-13T10:32:50'
+  crc: '0x07093d5d'
+- name: DTEST2.EXE
+  size: 15212
+  date: '1995-11-13T10:34:18'
+  crc: '0xaf12a1aa'
+- name: DTEST3.EXE
+  size: 15212
+  date: '1995-11-13T10:35:40'
+  crc: '0x690de8da'
+- name: DTEST4.EXE
+  size: 15212
+  date: '1995-11-13T10:37:18'
+  crc: '0x71f0e81c'
+- name: DTEST5.EXE
+  size: 15212
+  date: '1995-11-13T10:39:10'
+  crc: '0x611adbe3'
+- name: DTEST6.EXE
+  size: 15212
+  date: '1995-11-13T10:43:12'
+  crc: '0x8244d7fb'
+- name: INSTALL.EXE
+  size: 152544
+  date: '1995-10-04T01:21:00'
+  crc: '0xc0350ae1'
+- name: INSTALL.INI
+  size: 53985
+  date: '1995-11-02T12:05:32'
+  crc: '0x8d71a55b'
+- name: READ.ME
+  size: 2758
+  date: '1995-10-20T21:42:06'
+  crc: '0xca178120'
+- name: UNARJ.EXE
+  size: 20106
+  date: '1991-09-24T03:11:22'
+  crc: '0xb97b5061'

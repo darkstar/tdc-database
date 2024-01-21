@@ -1,0 +1,39 @@
+filename: Fountain of Dreams (Installer) (1990)(Electronic Arts, Inc.) [Role-Playing (RPG)][!].zip
+tdc_id: '13753.1'
+parent_id: '13753.2'
+title:
+  box: Fountain of Dreams
+publisher: Electronic Arts, Inc.
+year: '1990'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:32:38'
+  last_modified: '2019-03-01T18:32:38'
+type: zip
+tags:
+- KnownGood
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: F1.PAK
+  size: 110114
+  date: '1990-04-16T12:18:04'
+  crc: '0x780288a1'
+- name: F1.RAW
+  size: 242262
+  date: '1990-04-16T12:19:40'
+  crc: '0x7580f18d'
+- name: F2.PAK
+  size: 62694
+  date: '1990-04-16T12:19:24'
+  crc: '0x8df25739'
+- name: F2.RAW
+  size: 297081
+  date: '1990-04-16T12:19:52'
+  crc: '0x6eb4d717'
+- name: INSTALL.EXE
+  size: 7241
+  date: '1990-03-30T16:05:34'
+  crc: '0xf47a83e8'

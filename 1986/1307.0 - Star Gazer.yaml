@@ -1,0 +1,28 @@
+filename: Star Gazer (Pinball Construction Set) (1986)(Sorcerer Ent.) [Action].zip
+tdc_id: '1307.0'
+title:
+  screen: Star Gazer
+  qualifier: Pinball Construction Set
+publisher: Sorcerer Ent.
+year: '1986'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:58'
+  last_modified: '2019-03-01T18:24:58'
+type: zip
+requirements:
+  cpu:
+    min: '8088'
+media: Download
+commands:
+  play: GAZER.COM
+files:
+- name: GAZER.COM
+  size: 64512
+  date: '1986-07-25T08:48:00'
+  crc: '0x3ac88929'
+- name: PINBALL.DOC
+  size: 560
+  date: '1988-06-25T17:43:24'
+  crc: '0xfa5e2a5c'

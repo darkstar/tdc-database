@@ -1,0 +1,98 @@
+filename: Paku Paku v1.6 (2011)(Jason M. Knight) [Action].zip
+tdc_id: '8482.7'
+title:
+  screen: Paku Paku
+publisher: Jason M. Knight
+year: '2011'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:57:50'
+  last_modified: '2019-03-02T10:57:50'
+version: '1.6'
+type: zip
+commands:
+  play: PAKU.EXE
+references:
+  dosid: DOS06190
+  exodos: Paku Paku (2011).zip
+files:
+- name: CUSTMIDI.TXT
+  size: 1671
+  date: '2011-11-06T20:59:12'
+  crc: '0x0088f5b4'
+- name: FONTS.DAT
+  size: 1152
+  date: '2011-02-13T18:13:00'
+  crc: '0xe3f8a5d3'
+- name: MAP.DAT
+  size: 566
+  date: '2011-01-04T23:42:54'
+  crc: '0x5b5f73e6'
+- name: MAPTILES.DAT
+  size: 1152
+  date: '2011-01-11T07:04:00'
+  crc: '0x0930e950'
+- name: PAKU.EXE
+  size: 36160
+  date: '2011-11-09T00:25:56'
+  crc: '0x06d7cef1'
+- name: PAT_ADLB.DAT
+  size: 17
+  date: '2011-11-06T13:51:38'
+  crc: '0x2b7e4a03'
+- name: PAT_CUST.DAT
+  size: 16
+  date: '2011-11-06T13:51:38'
+  crc: '0xe21edd63'
+- name: PAT_GM.DAT
+  size: 16
+  date: '2011-11-06T13:51:38'
+  crc: '0xe21edd63'
+- name: PAT_MT32.DAT
+  size: 16
+  date: '2011-11-06T13:51:38'
+  crc: '0x2434abd9'
+- name: README.HTM
+  size: 26774
+  date: '2011-11-07T12:41:18'
+  crc: '0x03e28c11'
+- name: SOURCE\
+  size: 0
+  date: '2011-11-06T20:32:12'
+- name: SOURCE\JFUNC.PAS
+  size: 6494
+  date: '2011-11-06T00:50:04'
+  crc: '0x062b1ad5'
+- name: SOURCE\JOYSTICK.PAS
+  size: 1495
+  date: '2011-11-05T13:05:36'
+  crc: '0x0ed28896'
+- name: SOURCE\PAKU.PAS
+  size: 52862
+  date: '2011-11-06T20:34:02'
+  crc: '0xcb539c79'
+- name: SOURCE\SOUND.PAS
+  size: 24454
+  date: '2011-11-08T16:12:36'
+  crc: '0x99b1f1ab'
+- name: SOURCE\TIMER.PAS
+  size: 2508
+  date: '2011-11-02T09:48:40'
+  crc: '0xde9af1e2'
+- name: SOURCE\TXTGRAPH.PAS
+  size: 29686
+  date: '2011-11-07T16:00:36'
+  crc: '0x13a88b99'
+- name: SPRITES.DAT
+  size: 6720
+  date: '2011-02-02T15:33:18'
+  crc: '0x9a0cf0f5'
+- name: TEXTS.DAT
+  size: 1984
+  date: '2011-11-06T19:44:20'
+  crc: '0xb46214d4'
+- name: THEME.DAT
+  size: 140
+  date: '2011-11-04T08:40:42'
+  crc: '0x5f0ba2ed'

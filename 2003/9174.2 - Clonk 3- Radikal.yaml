@@ -1,0 +1,64 @@
+filename: Clonk 3- Radikal v3.4 [FW] (2003)(RedWolf Design) [Action, Strategy].zip
+tdc_id: '9174.2'
+title:
+  screen: 'Clonk 3: Radikal'
+publisher: RedWolf Design
+year: '2003'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2021-02-27T11:53:52'
+  last_modified: '2021-02-27T11:53:52'
+version: '3.4'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: CLONK.EXE
+references:
+  dosid: DOS01411
+  exodos: Clonk 3 - Radikal (1996).zip
+files:
+- name: C3RGRAFX.GRP
+  size: 296016
+  date: '1997-03-10T20:59:00'
+  crc: '0x51e55874'
+- name: C3RSOUND.GRP
+  size: 268684
+  date: '1996-09-06T16:18:14'
+  crc: '0xd83a5478'
+- name: C3RTITLE.GRP
+  size: 294901
+  date: '1997-03-10T20:59:02'
+  crc: '0xed3a82da'
+- name: CLONK.EXE
+  size: 361055
+  date: '1997-03-10T23:35:14'
+  crc: '0x5bcae32c'
+- name: CLONK3.HLP
+  size: 54157
+  date: '1997-03-10T23:10:54'
+  crc: '0xa8086fc2'
+- name: FILE_ID.DIZ
+  size: 553
+  date: '1997-03-08T10:51:30'
+  crc: '0xc0304d7c'
+- name: Freeware.txt
+  size: 249
+  date: '2003-12-18T11:05:20'
+  crc: '0x0f0d3533'
+- name: MISSIONS.SCR
+  size: 34759
+  date: '1996-09-20T13:51:06'
+  crc: '0xc72f3473'
+- name: NAMES.TXT
+  size: 896
+  date: '1996-06-30T19:04:18'
+  crc: '0x184d7c07'
+- name: Readme.txt
+  size: 1344
+  date: '2003-12-18T11:04:16'
+  crc: '0x5d319690'

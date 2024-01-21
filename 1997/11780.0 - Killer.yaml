@@ -1,0 +1,31 @@
+filename: Killer (1997)(Jay Cook) [Action].zip
+tdc_id: '11780.0'
+title:
+  screen: Killer
+publisher: Jay Cook
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:35:22'
+  last_modified: '2019-03-02T10:35:22'
+type: zip
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 22
+  date: '2018-06-30T16:36:10'
+  crc: '0x0cb71eb4'
+- name: KILLER.BAS
+  size: 13687
+  date: '1997-09-22T11:17:20'
+  crc: '0x7031111b'
+- name: KILLER.GFX
+  size: 64775
+  date: '1997-09-21T08:29:42'
+  crc: '0x9abaf622'
+- name: QB.EXE
+  size: 278804
+  date: '2016-03-13T02:19:58'
+  crc: '0xb08bc0fe'

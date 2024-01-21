@@ -1,0 +1,48 @@
+filename: EGA Trek v3.0 [SW][a1] (1992)(Nels Anderson) [Strategy].zip
+tdc_id: '5322.11'
+title:
+  screen: EGA Trek
+publisher: Nels Anderson
+year: '1992'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:44:38'
+  last_modified: '2019-03-01T18:44:38'
+version: '3.0'
+type: zip
+tags:
+- Shareware
+- Alternate: 1
+media: Download
+commands:
+  play: egatrek.exe
+files:
+- name: egatrek.doc
+  size: 39363
+  date: '1996-12-25T00:32:00'
+  crc: '0xea6767c7'
+- name: egatrek.exe
+  size: 94855
+  date: '1996-12-25T00:32:00'
+  crc: '0xd85a6ed2'
+- name: egatrek.ref
+  size: 1904
+  date: '1996-12-25T00:32:00'
+  crc: '0xffbdd3c0'
+- name: egatrek.txt
+  size: 7228
+  date: '1996-12-25T00:32:00'
+  crc: '0x4fee8a81'
+- name: orderfrm.txt
+  size: 3737
+  date: '1996-12-25T00:32:00'
+  crc: '0xec25d4af'
+- name: ukorder.txt
+  size: 2160
+  date: '1996-12-25T00:32:00'
+  crc: '0x0a7b76a7'
+- name: vendor.txt
+  size: 3499
+  date: '1996-12-25T00:32:00'
+  crc: '0xe6e4c442'

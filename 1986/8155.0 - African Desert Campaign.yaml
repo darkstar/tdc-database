@@ -1,0 +1,41 @@
+filename: African Desert Campaign v1.5B (1986)(Matt Kaufman) [Strategy, War].zip
+tdc_id: '8155.0'
+title:
+  screen: African Desert Campaign
+publisher: Matt Kaufman
+year: '1986'
+genre:
+- Strategy
+- War
+language: English
+date:
+  added: '2019-03-01T18:24:38'
+  last_modified: '2019-03-01T18:24:38'
+version: 1.5B
+type: zip
+commands:
+  play: AFRICA.EXE
+references:
+  dosid: DOS00745
+  exodos: African Desert Campaign (1986).zip
+files:
+- name: AFRICA.DAT
+  size: 2944
+  date: '2007-12-25T21:13:50'
+  crc: '0x08afe727'
+- name: AFRICA.DOC
+  size: 11506
+  date: '2007-12-25T21:13:56'
+  crc: '0xa9df2b51'
+- name: AFRICA.EXE
+  size: 79726
+  date: '2007-12-25T21:14:02'
+  crc: '0x9bd0d50d'
+- name: AFSCRN0.DAT
+  size: 16391
+  date: '2007-12-25T21:14:02'
+  crc: '0x2062a5b3'
+- name: AFSCRN1.DAT
+  size: 16391
+  date: '2007-12-25T21:14:04'
+  crc: '0x9fee591f'

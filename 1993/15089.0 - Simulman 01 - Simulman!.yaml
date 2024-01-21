@@ -1,0 +1,46 @@
+filename: Simulman 01 - Simulman! (Installer) (It) (1993)(Simulmondo) [Action, Adventure].zip
+tdc_id: '15089.0'
+title:
+  box: Simulman 01 - Simulman!
+publisher: Simulmondo
+year: '1993'
+genre:
+- Action
+- Adventure
+language: Italian
+date:
+  added: '2019-03-01T21:07:44'
+  last_modified: '2022-11-22T10:32:29'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: 1.U
+  size: 619201
+  date: '1993-03-18T14:16:00'
+  crc: '0x1a265cef'
+- name: 2.U
+  size: 197686
+  date: '1993-03-18T14:16:50'
+  crc: '0xbe40c5c6'
+- name: ANI1.ANI
+  size: 22628
+  date: '1993-01-13T12:03:58'
+  crc: '0xf6abdb0a'
+- name: GENE.CHV
+  size: 3591
+  date: '1992-12-15T17:05:14'
+  crc: '0x2741b47a'
+- name: INSTALL.DAT
+  size: 5299
+  date: '1993-03-18T10:49:20'
+  crc: '0xebdbebce'
+- name: INSTALL.EXE
+  size: 29447
+  date: '1993-02-15T12:47:58'
+  crc: '0xd2966045'
+- name: RESETTA.COM
+  size: 19
+  date: '1992-12-17T15:23:44'
+  crc: '0xc6a39750'

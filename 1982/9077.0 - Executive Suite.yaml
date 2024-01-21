@@ -1,0 +1,29 @@
+filename: Executive Suite [DC] (1982)(Armonk Corporation) [Simulation, Strategy].zip
+tdc_id: '9077.0'
+title:
+  box: Executive Suite
+publisher: Armonk Corporation
+year: '1982'
+genre:
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:22:58'
+  last_modified: '2019-03-01T18:22:58'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: ESUITE.COM
+references:
+  mobygames: https://www.mobygames.com/game/pc-booter/executive-suite
+files:
+- name: ESUITE.COM
+  size: 384
+  date: '2000-02-29T09:04:48'
+  crc: '0x8bccfa4f'
+- name: GAME.DAT
+  size: 163840
+  date: '2000-02-29T09:03:38'
+  crc: '0x5c8f0ecd'

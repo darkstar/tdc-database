@@ -1,0 +1,76 @@
+filename: Moonman (2001)(Anonymous) [Action].zip
+tdc_id: '14330.0'
+title:
+  screen: Moonman
+publisher: Anonymous
+year: '2001'
+genre: Action
+language: English
+date:
+  added: '2021-04-10T08:35:22'
+  last_modified: '2021-04-10T08:35:22'
+type: zip
+media: Download
+commands:
+  play: moonman.exe
+files:
+- name: CWSDPMI.EXE
+  size: 21325
+  date: '2010-01-07T23:06:10'
+  crc: '0xa18c506d'
+- name: gamevars.h
+  size: 96
+  date: '2001-08-07T18:20:40'
+  crc: '0x419435de'
+- name: global.c
+  size: 730
+  date: '2001-08-07T18:30:48'
+  crc: '0x6e43d2ad'
+- name: global.h
+  size: 446
+  date: '2001-08-07T18:32:00'
+  crc: '0x042a4ff3'
+- name: input.c
+  size: 529
+  date: '2001-08-07T18:37:34'
+  crc: '0x674e521f'
+- name: input.h
+  size: 156
+  date: '2001-07-24T09:17:40'
+  crc: '0x520d6030'
+- name: ivars.h
+  size: 131
+  date: '2001-07-23T17:12:38'
+  crc: '0x1c0d855b'
+- name: main.c
+  size: 475
+  date: '2001-08-07T17:44:50'
+  crc: '0x23d9ff3e'
+- name: man.c
+  size: 4176
+  date: '2001-08-07T18:47:12'
+  crc: '0x5accaae7'
+- name: man.h
+  size: 545
+  date: '2001-08-06T12:13:38'
+  crc: '0x011a17dc'
+- name: moon.h
+  size: 790
+  date: '2001-08-07T18:48:02'
+  crc: '0x2529527e'
+- name: moonman.dat
+  size: 158673
+  date: '2001-08-06T11:47:16'
+  crc: '0x8f4afb03'
+- name: moonman.exe
+  size: 683026
+  date: '2001-08-07T18:56:58'
+  crc: '0xab2abd27'
+- name: objects.c
+  size: 1086
+  date: '2001-08-07T18:56:50'
+  crc: '0x9051376a'
+- name: objects.h
+  size: 142
+  date: '2001-07-25T15:31:18'
+  crc: '0xc33fc100'

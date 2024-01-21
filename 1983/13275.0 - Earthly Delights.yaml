@@ -1,0 +1,32 @@
+filename: Earthly Delights [DC] (1983)(Datamost, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '13275.0'
+title:
+  box: Earthly Delights
+publisher: Datamost, Inc.
+year: '1983'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:23:12'
+  last_modified: '2019-03-01T18:23:12'
+type: zip
+tags:
+- DOSConversion
+references:
+  dosid: DOS05872
+  exodos: Earthly Delights (1984).zip
+files:
+- name: earthly.exe
+  size: 37424
+  date: '2000-03-03T10:43:46'
+  crc: '0xa59a0bd0'
+- name: game.dat
+  size: 204800
+  date: '2000-03-03T08:10:38'
+  crc: '0xc950adb9'
+- name: start.bat
+  size: 20
+  date: '2000-03-03T09:46:02'
+  crc: '0x75f9651e'

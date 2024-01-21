@@ -1,0 +1,40 @@
+filename: Captain Comic II- Fractured Reality v1.5 (1990)(ComputerEasy) [Action].zip
+tdc_id: '11994.1'
+title:
+  box: 'Captain Comic II: Fractured Reality'
+publisher: ComputerEasy
+year: '1990'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:32:00'
+  last_modified: '2019-03-01T18:32:00'
+version: '1.5'
+type: zip
+commands:
+  play: FR.COM
+files:
+- name: FR.CFG
+  size: 102
+  date: '1995-02-24T07:50:40'
+  crc: '0xcc04f0a6'
+- name: FR.COM
+  size: 2324
+  date: '1993-01-02T21:14:24'
+  crc: '0x94190bb6'
+- name: FR.OVR
+  size: 98697
+  date: '1990-12-17T23:00:00'
+  crc: '0xd51d0673'
+- name: GAME.000
+  size: 3127
+  date: '1995-02-24T07:50:34'
+  crc: '0x29edf233'
+- name: GAME.001
+  size: 3127
+  date: '1995-02-24T07:50:40'
+  crc: '0x29edf233'
+- name: RESMAKER.DI1
+  size: 404732
+  date: '1993-01-02T21:11:42'
+  crc: '0xd5caf717'

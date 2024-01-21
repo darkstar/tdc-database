@@ -1,0 +1,27 @@
+filename: Microbridge (demo) (1989)(J. M. Macleod) [Strategy, Cards].zip
+tdc_id: '1755.0'
+title:
+  screen: Microbridge
+  qualifier: demo
+publisher: J. M. Macleod
+year: '1989'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:28:22'
+  last_modified: '2019-03-01T18:28:22'
+type: zip
+demo: true
+commands:
+  play: BRIDGE.EXE
+files:
+- name: BRIDGE.DOC
+  size: 6701
+  date: '1989-07-01T00:00:00'
+  crc: '0xcf92dd18'
+- name: BRIDGE.EXE
+  size: 58014
+  date: '1989-07-01T00:00:00'
+  crc: '0x84e25edb'

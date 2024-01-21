@@ -1,0 +1,58 @@
+filename: Disney's Beauty and the Beast- Be Our Guest (Installer) (1994)(Walt Disney Computer Software, Inc.) [Educational].zip
+tdc_id: '13225.1'
+parent_id: '13225.3'
+title:
+  box: 'Disney''s Beauty and the Beast: Be Our Guest'
+publisher: Walt Disney Computer Software, Inc.
+year: '1994'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T21:56:10'
+  last_modified: '2019-03-01T21:56:10'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK1.CN_
+  size: 1352490
+  date: '1994-04-15T12:01:00'
+  crc: '0xbef5c729'
+- name: DISK1.ID
+  size: 1
+  date: '1994-04-15T12:01:00'
+  crc: '0xe96ccf45'
+- name: DISK2.CN_
+  size: 1439547
+  date: '1994-04-15T12:01:00'
+  crc: '0x02001fa7'
+- name: DISK2.ID
+  size: 1
+  date: '1994-04-15T12:01:00'
+  crc: '0xe96ccf45'
+- name: DISK3.CN_
+  size: 1439040
+  date: '1994-04-15T12:01:00'
+  crc: '0x71c56deb'
+- name: DISK3.ID
+  size: 1
+  date: '1994-04-15T12:01:00'
+  crc: '0xe96ccf45'
+- name: GUEST_1
+  size: 0
+  date: '1994-04-18T11:24:12'
+- name: GUEST_2
+  size: 0
+  date: '1994-04-18T11:26:12'
+- name: GUEST_3
+  size: 0
+  date: '1994-04-18T11:28:12'
+- name: INSTALL.CFG
+  size: 345
+  date: '1994-04-15T12:01:00'
+  crc: '0xfe1ca9fb'
+- name: INSTALL.EXE
+  size: 48507
+  date: '1994-04-15T12:01:00'
+  crc: '0x1a8c8af6'

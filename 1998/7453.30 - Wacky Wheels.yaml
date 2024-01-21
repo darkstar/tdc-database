@@ -1,0 +1,29 @@
+filename: Wacky Wheels v1.1u (Installer) [SWR] (1998)(Apogee Software, Ltd.) [Action].zip
+tdc_id: '7453.30'
+title:
+  screen: Wacky Wheels
+  qualifier: Installer
+publisher: Apogee Software, Ltd.
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2023-03-14T16:01:52'
+  last_modified: '2023-03-14T16:01:52'
+version: 1.1u
+type: zip
+tags:
+- SharewareRegistered
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 142358
+  date: '1998-07-24T16:34:40'
+  crc: '0x739b3ff1'
+- name: WWR11.SHR
+  size: 3671648
+  date: '1998-07-24T16:32:00'
+  crc: '0x3666a3c2'

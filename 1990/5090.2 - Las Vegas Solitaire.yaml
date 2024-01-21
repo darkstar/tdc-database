@@ -1,0 +1,25 @@
+filename: Las Vegas Solitaire v2.0 (1990)(Brian Irvine) [Strategy, Cards].zip
+tdc_id: '5090.2'
+title:
+  screen: Las Vegas Solitaire
+publisher: Brian Irvine
+year: '1990'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:33:04'
+  last_modified: '2019-03-01T18:33:04'
+version: '2.0'
+type: zip
+commands:
+  play: LASVEGAS.EXE
+references:
+  dosid: DOS15585
+  exodos: Las Vegas Solitaire (1990).zip
+files:
+- name: LASVEGAS.EXE
+  size: 19456
+  date: '1990-02-22T11:52:38'
+  crc: '0xc38a630a'

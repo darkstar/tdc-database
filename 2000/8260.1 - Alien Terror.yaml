@@ -1,0 +1,86 @@
+filename: Alien Terror v1.3 (2000)(BINARYmagic) [Action].zip
+tdc_id: '8260.1'
+title:
+  screen: Alien Terror
+publisher: BINARYmagic
+year: '2000'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:47:26'
+  last_modified: '2019-03-02T10:47:26'
+version: '1.3'
+type: zip
+commands:
+  play: ATERROR.EXE
+files:
+- name: ATERROR.EXE
+  size: 97768
+  date: '2000-12-14T01:31:02'
+  crc: '0xd2ae0b50'
+- name: data\
+  size: 0
+  date: '2014-11-22T14:47:50'
+- name: data\DATA.BIN
+  size: 104442
+  date: '2000-07-20T20:19:30'
+  crc: '0xe65951b2'
+- name: data\alien.wav
+  size: 5564
+  date: '2000-06-07T19:57:02'
+  crc: '0x8218d48d'
+- name: data\fire.wav
+  size: 3816
+  date: '2000-06-07T19:54:22'
+  crc: '0xeca69ee3'
+- name: data\pip.wav
+  size: 1586
+  date: '2000-06-07T19:59:36'
+  crc: '0xace9317c'
+- name: data\squise.wav
+  size: 7885
+  date: '2000-06-07T20:01:16'
+  crc: '0xf1717841'
+- name: maps\
+  size: 0
+  date: '2014-11-22T14:47:50'
+- name: maps\1.map
+  size: 1547
+  date: '2000-06-07T18:10:36'
+  crc: '0xeab9aa37'
+- name: maps\2.map
+  size: 1532
+  date: '2000-06-07T18:10:40'
+  crc: '0x353c21a3'
+- name: maps\3.map
+  size: 1522
+  date: '2000-06-07T18:40:46'
+  crc: '0x91e766b3'
+- name: maps\4.map
+  size: 1598
+  date: '2000-06-07T18:46:34'
+  crc: '0x1431c47b'
+- name: maps\5.map
+  size: 1602
+  date: '2000-06-07T18:50:14'
+  crc: '0xe4ed319c'
+- name: maps\6.map
+  size: 1599
+  date: '2000-06-07T18:54:10'
+  crc: '0xf9e61ba5'
+- name: maps\7.map
+  size: 1600
+  date: '2000-06-07T18:11:10'
+  crc: '0x1e8138d6'
+- name: maps\8.map
+  size: 1540
+  date: '2000-06-07T18:31:16'
+  crc: '0x0b0483d4'
+- name: maps\9.map
+  size: 1481
+  date: '2000-06-07T18:11:20'
+  crc: '0x8cbdaeeb'
+- name: readme.txt
+  size: 1374
+  date: '2000-12-14T01:41:00'
+  crc: '0xc4c1c028'

@@ -1,0 +1,46 @@
+filename: Stronghold v1.00 (Installer) (1993)(Strategic Simulations, Inc.) [Role-Playing (RPG), Strategy].zip
+tdc_id: '5373.8'
+parent_id: '5373.6'
+title:
+  box: Stronghold
+  qualifier: Installer
+publisher: Strategic Simulations, Inc.
+year: '1993'
+genre:
+- Role-Playing (RPG)
+- Strategy
+language: English
+date:
+  added: '2023-07-16T10:05:23'
+  last_modified: '2023-07-16T10:05:23'
+version: '1.00'
+type: zip
+media: 1.44M
+installer: true
+references:
+  mobygames: https://www.mobygames.com/game/482/stronghold/
+files:
+- name: BOOT.NFO
+  size: 31
+  date: '1993-07-01T00:19:50'
+  crc: '0x01ffde7e'
+- name: DATA1.ARJ
+  size: 1388208
+  date: '1993-07-19T09:36:50'
+  crc: '0x9788f99a'
+- name: DATA2.ARJ
+  size: 1195963
+  date: '1993-07-19T09:41:12'
+  crc: '0xaddf9f53'
+- name: DEARJ.EXE
+  size: 39441
+  date: '1993-03-19T16:18:52'
+  crc: '0x284b68d2'
+- name: INSTALL.EXE
+  size: 27648
+  date: '1993-06-16T15:36:46'
+  crc: '0xfce43f85'
+- name: INSTALL.NFO
+  size: 108
+  date: '1993-07-16T13:33:42'
+  crc: '0x2209f6ba'

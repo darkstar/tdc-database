@@ -1,0 +1,55 @@
+filename: Timequest (demo) (1991)(Legend Entertainment Company) [Adventure, Interactive Fiction].zip
+tdc_id: '16737.1'
+title:
+  screen: Timequest
+  qualifier: demo
+publisher: Legend Entertainment Company
+year: '1991'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:39:46'
+  last_modified: '2019-03-01T18:39:46'
+type: zip
+demo: true
+commands:
+  play: TQ.EXE
+files:
+- name: DEMO.IN
+  size: 3770
+  date: '1991-01-09T10:21:40'
+  crc: '0x9aeb0934'
+- name: RESTART.DAT
+  size: 14638
+  date: '1991-06-05T20:34:42'
+  crc: '0x076c2e4b'
+- name: TIMESTR.DAT
+  size: 3003
+  date: '1991-01-09T05:31:34'
+  crc: '0xcccc619c'
+- name: TIME_E1.PIC
+  size: 175141
+  date: '1991-01-09T13:16:14'
+  crc: '0x70035dd8'
+- name: TIME_M1.MUS
+  size: 115059
+  date: '1991-02-27T14:40:58'
+  crc: '0xfa926388'
+- name: TIME_R1.RGN
+  size: 342
+  date: '1991-01-09T13:16:18'
+  crc: '0x0186c936'
+- name: TQ.EXE
+  size: 392032
+  date: '1991-06-05T20:15:52'
+  crc: '0xe7f984a7'
+- name: TQ.OVL
+  size: 141104
+  date: '1991-06-05T20:15:52'
+  crc: '0x41f77a1e'
+- name: VOCAB.DAT
+  size: 15227
+  date: '1991-01-08T13:17:52'
+  crc: '0xf1e3a654'

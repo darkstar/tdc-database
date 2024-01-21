@@ -1,0 +1,31 @@
+filename: Ultimate (Installer) [SW] (1996)(Dog Software) [Action].zip
+tdc_id: '7282.0'
+title:
+  screen: Ultimate
+publisher: Dog Software
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:22:26'
+  last_modified: '2019-03-02T10:22:26'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 81172
+  date: '1996-04-20T05:30:48'
+  crc: '0x230e256a'
+- name: INSTALL.INI
+  size: 710
+  date: '1996-04-20T05:31:30'
+  crc: '0xa3582fae'
+- name: PACK1.PRG
+  size: 1342869
+  date: '1996-04-20T05:30:52'
+  crc: '0x0bf30c3d'

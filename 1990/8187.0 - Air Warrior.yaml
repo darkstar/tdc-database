@@ -1,0 +1,55 @@
+filename: Air Warrior v1.1 (1990)(Kesmai Corporation) [Action, Simulation].zip
+tdc_id: '8187.0'
+title:
+  box: Air Warrior
+publisher: Kesmai Corporation
+year: '1990'
+genre:
+- Action
+- Simulation
+language: English
+date:
+  added: '2019-03-01T18:31:44'
+  last_modified: '2019-03-01T18:31:44'
+version: '1.1'
+type: zip
+references:
+  dosid: DOS00495
+  exodos: Air Warrior (1992).zip
+files:
+- name: AIRWAR.DAT
+  size: 123420
+  date: '1990-06-06T16:30:30'
+  crc: '0x4cdb69b7'
+- name: AIRWAR.EXE
+  size: 326120
+  date: '1990-06-18T16:52:06'
+  crc: '0xfc42d628'
+- name: CONFIG.AIR
+  size: 539
+  date: '2007-09-06T21:10:40'
+  crc: '0x6f1c0705'
+- name: MAKEDAT.EXE
+  size: 23981
+  date: '1989-03-29T17:11:52'
+  crc: '0x2d1138b1'
+- name: P51C
+  size: 6957
+  date: '1989-03-03T01:05:46'
+  crc: '0xbc3a0f5a'
+- name: README
+  size: 27387
+  date: '1990-06-18T14:58:14'
+  crc: '0xee6aaa31'
+- name: README.DAT
+  size: 717
+  date: '1989-03-29T17:08:56'
+  crc: '0xfaaeae26'
+- name: RMN2_8.@
+  size: 1270
+  date: '1989-06-12T17:00:16'
+  crc: '0x68747f68'
+- name: TERRAIN.DAT
+  size: 37062
+  date: '1990-02-16T17:23:46'
+  crc: '0x59d7fcce'

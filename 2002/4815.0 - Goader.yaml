@@ -1,0 +1,27 @@
+filename: Goader (2002)(Mr Moose) [Action].zip
+tdc_id: '4815.0'
+title:
+  screen: Goader
+publisher: Mr Moose
+year: '2002'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:56:00'
+  last_modified: '2019-03-02T10:56:00'
+type: zip
+commands:
+  play: goader.exe
+files:
+- name: JAKE.PUT
+  size: 30711
+  date: '2002-01-16T13:49:52'
+  crc: '0xe2eaea1d'
+- name: TILES.PAL
+  size: 768
+  date: '2001-11-19T22:18:20'
+  crc: '0x007fb19b'
+- name: goader.exe
+  size: 101306
+  date: '2002-01-16T21:00:36'
+  crc: '0x63da9ce4'

@@ -1,0 +1,26 @@
+filename: It! (Pinball Construction Set) [a1] (1986)(J. Slettedahl) [Action].zip
+tdc_id: '11584.1'
+title:
+  screen: It!
+  qualifier: Pinball Construction Set
+publisher: J. Slettedahl
+year: '1986'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:48'
+  last_modified: '2019-03-01T18:24:48'
+type: zip
+tags:
+- Alternate: 1
+requirements:
+  cpu:
+    min: '8088'
+media: Download
+commands:
+  play: PINBALL.COM
+files:
+- name: PINBALL.COM
+  size: 64512
+  date: '2107-11-29T23:00:00'
+  crc: '0x4d5130ab'

@@ -1,0 +1,40 @@
+filename: Aufstand der Dinge, Der (Installer) (De) [SWR] (1994)(NBG EDV Handels- und Verlags GmbH) [Action].zip
+tdc_id: '11606.4'
+title:
+  screen: Der Aufstand der Dinge
+publisher: NBG EDV Handels- und Verlags GmbH
+year: '1994'
+genre: Action
+language: German
+date:
+  added: '2019-03-01T21:54:28'
+  last_modified: '2022-11-15T15:01:46'
+type: zip
+tags:
+- SharewareRegistered
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/jack-flash
+files:
+- name: DADD.SQZ
+  size: 622451
+  date: '1994-08-26T07:26:00'
+  crc: '0xdf6acdb3'
+- name: HILFE.TXT
+  size: 597
+  date: '1994-08-26T07:26:00'
+  crc: '0x8a7ca38e'
+- name: INSTALL.DOC
+  size: 16896
+  date: '1996-09-09T08:47:40'
+  crc: '0x4e2c838e'
+- name: INSTALL.EXE
+  size: 14576
+  date: '1994-08-26T13:08:50'
+  crc: '0x83aa8e8b'
+- name: SQZ.EXE
+  size: 71492
+  date: '1994-08-26T07:26:00'
+  crc: '0x66fd7b9b'

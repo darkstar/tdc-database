@@ -1,0 +1,32 @@
+filename: Ringworld- Revenge of the Patriarch v1.10D (1993)(Tsunami Media, Inc.) [Adventure].zip
+tdc_id: '9967.2'
+title:
+  box: 'Ringworld: Revenge of the Patriarch'
+publisher: Tsunami Media, Inc.
+year: '1993'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:50:22'
+  last_modified: '2019-03-01T18:50:22'
+version: 1.10D
+type: zip
+commands:
+  play: RING.EXE
+files:
+- name: RING.EXE
+  size: 1016992
+  date: '1993-01-19T01:10:00'
+  crc: '0xe5b3f705'
+- name: RING.RLB
+  size: 8438770
+  date: '1993-01-19T01:10:00'
+  crc: '0x1b6db576'
+- name: TSAGE.CFG
+  size: 509
+  date: '1999-01-10T14:47:06'
+  crc: '0xc622f5f3'
+- name: TSAGE.RLB
+  size: 32235
+  date: '1993-01-19T01:10:00'
+  crc: '0xd81cf6aa'

@@ -1,0 +1,31 @@
+filename: Beyond The Tesseract v2.0p (1988)(David Lo) [Adventure].zip
+tdc_id: '1476.0'
+title:
+  screen: Beyond The Tesseract
+publisher: David Lo
+year: '1988'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:25:58'
+  last_modified: '2019-03-01T18:25:58'
+version: 2.0p
+type: zip
+commands:
+  play: TESS.EXE
+references:
+  dosid: DOS01029
+  exodos: Beyond the Tesseract (1988).zip
+files:
+- name: ADV.DOC
+  size: 6253
+  date: '1990-02-26T21:24:22'
+  crc: '0x07e193bd'
+- name: TESS.DOC
+  size: 6057
+  date: '1990-02-26T21:25:18'
+  crc: '0x0dd0e94c'
+- name: TESS.EXE
+  size: 56852
+  date: '1990-02-27T12:35:42'
+  crc: '0x9012df3d'

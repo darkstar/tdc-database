@@ -1,0 +1,40 @@
+filename: Star Gladiators II v1.5 (2001)(Kris Asick) [Action].zip
+tdc_id: '15508.0'
+title:
+  screen: Star Gladiators II
+publisher: Kris Asick
+year: '2001'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:55:46'
+  last_modified: '2019-03-02T10:55:46'
+version: '1.5'
+type: zip
+commands:
+  play: SG2.EXE
+files:
+- name: POWERUPS.DAT
+  size: 4392
+  date: '2001-07-01T20:30:52'
+  crc: '0x6b903e8c'
+- name: SG2.EXE
+  size: 151474
+  date: '2001-07-26T13:35:28'
+  crc: '0x1d716a29'
+- name: SHIPS.DAT
+  size: 70656
+  date: '2001-07-26T13:22:22'
+  crc: '0x906b3f35'
+- name: errors.txt
+  size: 2777
+  date: '2002-04-04T13:50:56'
+  crc: '0x6dedf2c5'
+- name: nullkeys.dat
+  size: 843
+  date: '2001-06-19T03:45:22'
+  crc: '0x261f72a3'
+- name: readme.txt
+  size: 23513
+  date: '2003-01-30T08:07:58'
+  crc: '0xf26d3602'

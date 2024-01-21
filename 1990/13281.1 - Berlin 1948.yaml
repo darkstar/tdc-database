@@ -1,0 +1,97 @@
+filename: Berlin 1948 (Installer) (1990)(Rainbow Arts Software GmbH) [Adventure].zip
+tdc_id: '13281.1'
+parent_id: '13281.2'
+title:
+  box: Berlin 1948
+  qualifier: Installer
+publisher: Rainbow Arts Software GmbH
+year: '1990'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:27:40'
+  last_modified: '2023-10-03T12:17:26'
+type: zip
+media: 360K
+installer: true
+references:
+  mobygames: https://www.mobygames.com/game/4807/berlin-1948/
+  dosid: DOS00332
+  exodos: Berlin 1948 (1989).zip
+files:
+- name: BERLIN.BAT
+  size: 1469
+  date: '1990-07-30T19:23:16'
+  crc: '0xc82369e3'
+- name: C
+  size: 590
+  date: '1990-05-03T14:24:44'
+  crc: '0xb67a69bb'
+- name: CGAME.EXE
+  size: 251494
+  date: '1990-05-02T20:55:36'
+  crc: '0x3c18ce40'
+- name: CVOR.EXE
+  size: 50572
+  date: '1990-05-02T22:11:10'
+  crc: '0xe2011d47'
+- name: DIRECTOR.IBM
+  size: 12174
+  date: '1990-07-07T12:55:02'
+  crc: '0xf6135275'
+- name: FIRSTBER.EXE
+  size: 12376
+  date: '1990-04-06T12:21:04'
+  crc: '0xb0752ea4'
+- name: INSTALL.BAT
+  size: 6054
+  date: '1990-07-30T19:35:32'
+  crc: '0xced398b9'
+- name: MBF.BAT
+  size: 1553
+  date: '1990-07-30T19:30:54'
+  crc: '0x00d5791b'
+- name: README.!!!
+  size: 122
+  date: '1990-05-18T13:36:12'
+  crc: '0x24a07bab'
+- name: STREAM0.IBM
+  size: 15280
+  date: '1990-07-07T12:50:56'
+  crc: '0x9c615085'
+- name: STREAM1.IBM
+  size: 351489
+  date: '1990-07-07T12:51:24'
+  crc: '0xfa31d532'
+- name: STREAM2.IBM
+  size: 331089
+  date: '1990-07-07T12:54:46'
+  crc: '0x777c40ae'
+- name: STREAM3.IBM
+  size: 23951
+  date: '1990-07-07T12:54:58'
+  crc: '0x846ca56c'
+- name: T
+  size: 590
+  date: '1990-07-30T19:21:24'
+  crc: '0x726b590a'
+- name: TGAME.EXE
+  size: 245426
+  date: '1990-07-26T18:32:54'
+  crc: '0x250f9bd7'
+- name: TVOR.EXE
+  size: 49756
+  date: '1990-07-26T12:00:14'
+  crc: '0x765a23a2'
+- name: V
+  size: 590
+  date: '1990-05-03T14:23:56'
+  crc: '0x8ef56739'
+- name: VGAME.EXE
+  size: 252778
+  date: '1990-05-02T21:29:46'
+  crc: '0x5af45390'
+- name: VVOR.EXE
+  size: 52416
+  date: '1990-05-02T22:11:56'
+  crc: '0xbd1d5295'

@@ -1,0 +1,36 @@
+filename: Curse of Enchantia (Installer) (1992)(Core Design Ltd.) [Adventure].zip
+tdc_id: '9421.1'
+title:
+  box: Curse of Enchantia
+publisher: Core Design Ltd.
+year: '1992'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:42:06'
+  last_modified: '2019-03-01T18:42:06'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: CURSE.1
+  size: 1453639
+  date: '1992-11-05T00:28:40'
+  crc: '0x5532a40b'
+- name: CURSE.2
+  size: 1457268
+  date: '1992-11-05T00:30:08'
+  crc: '0x8281250b'
+- name: CURSE.3
+  size: 1457224
+  date: '1992-11-05T00:31:48'
+  crc: '0x08219558'
+- name: CURSE.4
+  size: 1425675
+  date: '1992-11-05T00:33:54'
+  crc: '0xa75fa1e4'
+- name: INSTALL.EXE
+  size: 3167
+  date: '1992-11-09T02:43:58'
+  crc: '0xbf151674'

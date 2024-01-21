@@ -1,0 +1,47 @@
+filename: Alien v2b (1982)(Anonymous) [Adventure, Interactive Fiction].zip
+tdc_id: '6006.0'
+title:
+  screen: Alien
+publisher: Anonymous
+year: '1982'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2022-08-06T16:04:22'
+  last_modified: '2022-08-06T16:04:22'
+version: 2b
+type: zip
+media: Download
+commands:
+  play: ALIEN.BAT
+files:
+- name: A2.SPC
+  size: 1920
+  date: '1980-01-01T12:00:00'
+  crc: '0xa393ab88'
+- name: A5.SPC
+  size: 896
+  date: '1980-01-01T12:00:00'
+  crc: '0xf8868035'
+- name: ALIEN.BAS
+  size: 1792
+  date: '1980-01-01T12:00:00'
+  crc: '0xa59df64f'
+- name: ALIEN.BAT
+  size: 15
+  date: '1980-01-01T00:00:00'
+  crc: '0x049437df'
+- name: ALIEN.DOC
+  size: 384
+  date: '1980-01-01T12:00:00'
+  crc: '0xa3c00263'
+- name: ALIEN.SPC
+  size: 25728
+  date: '1980-01-01T12:00:00'
+  crc: '0xa480588f'
+- name: BASICA.COM
+  size: 59570
+  date: '1980-01-01T00:00:00'
+  crc: '0x92293842'

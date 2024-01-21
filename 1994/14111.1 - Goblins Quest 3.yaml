@@ -1,0 +1,106 @@
+filename: Goblins Quest 3 v1.00 (Installer) (1994)(Sierra On-Line, Inc.) [Adventure, Puzzle][!].zip
+tdc_id: '14111.1'
+parent_id: '14111.2'
+title:
+  box: Goblins Quest 3
+  qualifier: Installer
+publisher: Sierra On-Line, Inc.
+year: '1994'
+genre:
+- Adventure
+- Puzzle
+language: English
+date:
+  added: '2019-03-01T21:57:14'
+  last_modified: '2023-11-27T16:00:29'
+version: '1.00'
+type: zip
+tags:
+- KnownGood
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/2870/goblins-quest-3/
+files:
+- name: EXT.$00
+  size: 627200
+  date: '1994-03-17T03:25:10'
+  crc: '0x12cbb64a'
+- name: EXT.$01
+  size: 1457664
+  date: '1994-03-17T03:25:18'
+  crc: '0xf871adf0'
+- name: EXT.$02
+  size: 1457664
+  date: '1994-03-17T03:25:26'
+  crc: '0x52952b84'
+- name: EXT.$03
+  size: 260653
+  date: '1994-03-17T03:25:32'
+  crc: '0x5eeaeafc'
+- name: GO.BAT
+  size: 21
+  date: '1994-02-28T14:45:44'
+  crc: '0x64aef423'
+- name: GOB3.#04
+  size: 117180
+  date: '1994-03-17T03:24:30'
+  crc: '0xe54fee31'
+- name: IMD.#03
+  size: 15264
+  date: '1994-03-09T11:42:38'
+  crc: '0x4d4bde34'
+- name: IMD.$04
+  size: 1196544
+  date: '1994-03-17T03:25:38'
+  crc: '0x63f306d0'
+- name: IMD.$05
+  size: 1451935
+  date: '1994-03-17T03:25:48'
+  crc: '0x376197c0'
+- name: INSTALL.ASK
+  size: 15935
+  date: '1994-03-21T09:27:30'
+  crc: '0x257d42e3'
+- name: INSTALL.EXE
+  size: 5723
+  date: '1993-08-26T16:29:10'
+  crc: '0xa3580da6'
+- name: INSTALL.INF
+  size: 762
+  date: '1994-03-17T03:25:52'
+  crc: '0x6f19cfae'
+- name: INTRO.#02
+  size: 149622
+  date: '1994-03-11T11:00:26'
+  crc: '0xf101586d'
+- name: MDO.BAK
+  size: 185
+  date: '1994-02-28T14:45:28'
+  crc: '0x77d21f92'
+- name: MDO.DEF
+  size: 185
+  date: '1994-03-18T14:00:46'
+  crc: '0x40f2c3db'
+- name: README
+  size: 4264
+  date: '1994-03-18T14:06:42'
+  crc: '0x97a2f331'
+- name: README.BAT
+  size: 29
+  date: '1994-02-28T14:45:30'
+  crc: '0x2e285da6'
+- name: SETUP.EXE
+  size: 71133
+  date: '1994-02-28T14:45:44'
+  crc: '0x9f08a924'
+- name: TOT.#01
+  size: 423111
+  date: '1994-03-17T03:25:02'
+  crc: '0xaf201440'
+- name: VERSION
+  size: 40
+  date: '1994-03-22T11:02:48'
+  crc: '0x08f2ed65'

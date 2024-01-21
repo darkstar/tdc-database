@@ -1,0 +1,36 @@
+filename: SpellBound! v2.10 (Installer) [SW] (1991)(Kenneth R. Casey, Jr.) [Educational].zip
+tdc_id: '15373.0'
+title:
+  screen: SpellBound!
+publisher: Kenneth R. Casey, Jr.
+year: '1991'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T18:38:16'
+  last_modified: '2019-03-01T18:38:16'
+version: '2.10'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: ARCHIVE1
+  size: 195528
+  date: '1991-09-12T17:00:00'
+  crc: '0xbb360dd5'
+- name: ARCHIVE2
+  size: 54380
+  date: '1991-09-12T17:00:00'
+  crc: '0x2031c90b'
+- name: INSTALL.EXE
+  size: 60219
+  date: '1991-09-12T17:00:00'
+  crc: '0xde25f311'
+- name: README
+  size: 13582
+  date: '1991-09-12T17:00:00'
+  crc: '0x013ca5de'

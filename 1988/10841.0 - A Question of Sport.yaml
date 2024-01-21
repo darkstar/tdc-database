@@ -1,0 +1,108 @@
+filename: Question of Sport, A (1988)(Elite Systems Ltd.) [Strategy, Trivia].zip
+tdc_id: '10841.0'
+title:
+  box: A Question of Sport
+publisher: Elite Systems Ltd.
+year: '1988'
+genre:
+- Strategy
+- Trivia
+language: English
+date:
+  added: '2019-03-01T18:26:42'
+  last_modified: '2019-03-01T18:26:42'
+type: zip
+commands:
+  play: QOS.EXE
+references:
+  dosid: DOS00823
+  exodos: A Question of Sport (1988).zip
+files:
+- name: CGA_DD.OVR
+  size: 1127
+  date: '1988-11-15T22:03:16'
+  crc: '0x1e6bfd08'
+- name: EGA_DD.OVR
+  size: 1226
+  date: '1988-11-24T03:44:24'
+  crc: '0x343a8b54'
+- name: Q1P1.BIN
+  size: 13824
+  date: '1980-01-01T00:04:54'
+  crc: '0x2e812449'
+- name: Q1P2.BIN
+  size: 3072
+  date: '1980-01-01T02:01:44'
+  crc: '0xc7bd808a'
+- name: Q2P1.BIN
+  size: 14464
+  date: '1980-01-01T00:16:08'
+  crc: '0x9711d746'
+- name: Q2P2.BIN
+  size: 3200
+  date: '1980-01-01T02:02:02'
+  crc: '0x60dd63d0'
+- name: Q3P1.BIN
+  size: 14208
+  date: '1980-01-01T00:07:24'
+  crc: '0x5a4b78e6'
+- name: Q3P2.BIN
+  size: 3200
+  date: '1980-01-01T02:02:16'
+  crc: '0xd9ea9a29'
+- name: Q4P1.BIN
+  size: 14720
+  date: '1980-01-01T00:08:16'
+  crc: '0xbacc33d1'
+- name: Q4P2.BIN
+  size: 3072
+  date: '1980-01-01T02:02:32'
+  crc: '0x7e9a70d0'
+- name: Q5P1.BIN
+  size: 14848
+  date: '1988-11-11T21:26:38'
+  crc: '0x1bfcd183'
+- name: Q5P2.BIN
+  size: 3072
+  date: '1980-01-01T01:45:36'
+  crc: '0x174a7423'
+- name: QC_DATA1.DAT
+  size: 56536
+  date: '1988-11-12T15:46:42'
+  crc: '0xf01ef020'
+- name: QC_DATA2.DAT
+  size: 64512
+  date: '1988-11-12T15:46:52'
+  crc: '0x0743bd1b'
+- name: QE_DATA1.DAT
+  size: 64128
+  date: '1988-12-02T16:05:22'
+  crc: '0xbb3a853b'
+- name: QE_DATA2.DAT
+  size: 64608
+  date: '1988-12-02T16:05:32'
+  crc: '0xd2d9feaf'
+- name: QE_DATA3.DAT
+  size: 60160
+  date: '1988-12-02T16:05:48'
+  crc: '0x665e79e4'
+- name: QE_DATA4.DAT
+  size: 49040
+  date: '1988-12-02T16:05:56'
+  crc: '0xf022e695'
+- name: QOS.EXE
+  size: 68365
+  date: '1980-01-01T02:49:14'
+  crc: '0xa0ae994d'
+- name: QOS.EX_
+  size: 97387
+  date: '1980-01-01T02:49:14'
+  crc: '0xe17d6b0e'
+- name: QOS_L_C.SCR
+  size: 16000
+  date: '1988-11-07T22:38:20'
+  crc: '0x8905dad5'
+- name: QOS_L_E.SCR
+  size: 64000
+  date: '1988-11-30T18:58:16'
+  crc: '0x2414c122'

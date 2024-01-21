@@ -1,0 +1,35 @@
+filename: Trivia Quespians Volume I- Rock-n-Roll vI.8.0 (1987)(Poly Concepts Corporation) [Trivia].zip
+tdc_id: '1454.0'
+title:
+  screen: 'Trivia Quespians Volume I: Rock-n-Roll'
+publisher: Poly Concepts Corporation
+year: '1987'
+genre: Trivia
+language: English
+date:
+  added: '2019-03-01T18:25:46'
+  last_modified: '2019-03-01T18:25:46'
+type: zip
+commands:
+  play: TRIVIA.EXE
+files:
+- name: LVL3.DAT
+  size: 170
+  date: '1980-01-01T00:25:18'
+  crc: '0xb3268307'
+- name: QOPEN.INC
+  size: 256
+  date: '1987-03-03T20:56:58'
+  crc: '0x6ab7a41b'
+- name: RMASTER.DAT
+  size: 234112
+  date: '1987-03-03T21:01:32'
+  crc: '0x4e9f56fe'
+- name: SHUF.TRV
+  size: 3638
+  date: '1990-06-22T22:44:08'
+  crc: '0x1034da2b'
+- name: TRIVIA.EXE
+  size: 102850
+  date: '1987-04-14T21:48:22'
+  crc: '0xe02a9857'

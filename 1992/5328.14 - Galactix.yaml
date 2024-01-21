@@ -1,0 +1,82 @@
+filename: Galactix v1.0B (Installer) (Da) [SW] (1992)(AQUILA 2000 A.m.b.A.) [Action].zip
+tdc_id: '5328.14'
+parent_id: '5328.13'
+title:
+  box: Galactix
+  qualifier: Installer
+publisher: AQUILA 2000 A.m.b.A.
+year: '1992'
+genre: Action
+language: Danish
+date:
+  added: '2023-03-29T12:53:56'
+  last_modified: '2023-03-29T12:53:56'
+version: 1.0B
+type: zip
+tags:
+- Shareware
+media: 720K
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/737/galactix/
+files:
+- name: 13090F21
+  size: 0
+  date: '1980-01-07T19:09:14'
+- name: 65 30 37. 62
+  size: 0
+  date: '1994-01-09T14:38:32'
+- name: FILE0001.LZ
+  size: 272810
+  date: '1992-02-05T21:34:12'
+  crc: '0x1cab314d'
+- name: FILE0002.LZ
+  size: 192477
+  date: '1992-02-05T21:51:22'
+  crc: '0x11bd4e17'
+- name: GX1.BAT
+  size: 43
+  date: '1994-08-07T06:13:18'
+  crc: '0x4f96cb37'
+- name: GX1.EXE
+  size: 76625
+  date: '1992-02-05T22:44:00'
+  crc: '0xcf4324d6'
+- name: INSTALL.EXE
+  size: 48994
+  date: '1992-02-05T21:55:16'
+  crc: '0x0c054fb0'
+- name: INSTALL.WRF
+  size: 4874
+  date: '1992-02-03T17:29:32'
+  crc: '0x57795577'
+- name: KAOTIX.DOC
+  size: 8890
+  date: '1990-10-13T16:32:00'
+  crc: '0x1a53ad90'
+- name: KAOTIX.EXE
+  size: 55296
+  date: '1990-10-14T08:41:34'
+  crc: '0x97569d60'
+- name: LIST.COM
+  size: 3072
+  date: '1985-02-10T15:44:10'
+  crc: '0x00028309'
+- name: PKZIP.EXE
+  size: 31342
+  date: '1989-07-21T01:01:00'
+  crc: '0x115d6fe2'
+- name: README.DOC
+  size: 6850
+  date: '1994-08-07T03:02:18'
+  crc: '0xf9cdb533'
+- name: READMEUK.DOC
+  size: 5500
+  date: '1993-04-06T08:11:14'
+  crc: '0x6cf96317'
+- name: START.COM
+  size: 17623
+  date: '1994-08-07T06:23:52'
+  crc: '0xd3e0ecb9'

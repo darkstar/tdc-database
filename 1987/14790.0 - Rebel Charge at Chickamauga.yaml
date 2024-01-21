@@ -1,0 +1,85 @@
+filename: Rebel Charge at Chickamauga (1987)(Strategic Simulations, Inc.) [Simulation, Strategy, War].zip
+tdc_id: '14790.0'
+title:
+  box: Rebel Charge at Chickamauga
+publisher: Strategic Simulations, Inc.
+year: '1987'
+genre:
+- Simulation
+- Strategy
+- War
+language: English
+date:
+  added: '2020-10-19T05:27:26'
+  last_modified: '2020-10-19T05:27:26'
+type: zip
+commands:
+  play: START.EXE
+references:
+  dosid: DOS04253
+  exodos: Rebel Charge at Chickamauga (1987).zip
+files:
+- name: BASIC.OVL
+  size: 12416
+  date: '1980-01-01T00:07:00'
+  crc: '0x09256c50'
+- name: CHICKBAS.SHP
+  size: 10248
+  date: '1987-04-13T09:53:00'
+  crc: '0x41ceb0c6'
+- name: CHICKCOA.SHP
+  size: 10248
+  date: '1987-06-15T19:02:00'
+  crc: '0xb65eab1a'
+- name: CHICKCOB.SHP
+  size: 10248
+  date: '1987-06-15T19:04:00'
+  crc: '0xb45f7beb'
+- name: CHICKMON.SHP
+  size: 10248
+  date: '1987-06-14T21:51:00'
+  crc: '0xf9faec83'
+- name: CHICKSYM.SHP
+  size: 10248
+  date: '1987-05-27T09:15:00'
+  crc: '0x65add175'
+- name: COMBAT.OVL
+  size: 18861
+  date: '1987-06-23T20:28:00'
+  crc: '0x00f12390'
+- name: COMPUTE.OVL
+  size: 15063
+  date: '1987-06-24T17:07:00'
+  crc: '0xcc84b315'
+- name: COMPUTE2.OVL
+  size: 15027
+  date: '1987-06-06T02:56:00'
+  crc: '0xfc833f26'
+- name: HUMAN.OVL
+  size: 18201
+  date: '1987-06-19T21:58:00'
+  crc: '0x6d26d933'
+- name: OBJECT.OVL
+  size: 12991
+  date: '1987-06-13T04:15:00'
+  crc: '0xb23399fd'
+- name: REINF.OVL
+  size: 14333
+  date: '1987-06-25T17:48:00'
+  crc: '0x7309e263'
+- name: SAVE.OVL
+  size: 11619
+  date: '1987-06-20T16:24:00'
+  crc: '0x016fa29a'
+- name: START.EXE
+  size: 64604
+  date: '1987-06-25T19:25:00'
+  crc: '0xf2b74f86'
+- name: START.EX_
+  size: 64604
+  date: '1987-06-25T19:25:00'
+  crc: '0x3d3cae77'
+- name: UPDATE.OVL
+  size: 8045
+  date: '1987-06-16T20:49:00'
+  crc: '0x3713ac06'

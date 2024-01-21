@@ -1,0 +1,31 @@
+filename: Castaway [SW] (1986)(ButtonWare, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '5481.0'
+title:
+  screen: Castaway
+publisher: ButtonWare, Inc.
+year: '1986'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:24:42'
+  last_modified: '2019-03-01T18:24:42'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: CASTAWAY.EXE
+references:
+  dosid: DOS00133
+  exodos: Castaway (1986).zip
+files:
+- name: CASTAWAY.EXE
+  size: 73636
+  date: '1986-11-01T01:00:00'
+  crc: '0x3adf4242'
+- name: README.TXT
+  size: 24576
+  date: '1986-11-01T01:00:00'
+  crc: '0x19063361'

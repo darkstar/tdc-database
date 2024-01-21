@@ -1,0 +1,46 @@
+filename: Decision in the Desert v419.00 [DC][h1] (1985)(MicroProse Software, Inc.) [Strategy].zip
+tdc_id: '13016.0'
+title:
+  box: Decision in the Desert
+publisher: MicroProse Software, Inc.
+year: '1985'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:24:24'
+  last_modified: '2019-03-01T18:24:24'
+version: '419.00'
+type: zip
+tags:
+- DOSConversion
+- Hack: 1
+commands:
+  play: DESERT.COM
+references:
+  dosid: DOS05861
+  exodos: Decision in the Desert (1985).zip
+files:
+- name: A
+  size: 65536
+  date: '1980-01-01T15:28:08'
+  crc: '0x260914e2'
+- name: B
+  size: 131072
+  date: '1980-01-01T15:36:48'
+  crc: '0x4097b651'
+- name: DATA.BIN
+  size: 336
+  date: '1980-01-01T02:04:46'
+  crc: '0x0b87b846'
+- name: DESERT.COM
+  size: 25600
+  date: '1980-01-01T02:48:36'
+  crc: '0x2cc8351f'
+- name: DESERT.ptl
+  size: 90112
+  date: '1980-01-01T02:21:30'
+  crc: '0xfe8ae5b0'
+- name: MAIN.PTL
+  size: 512
+  date: '1980-01-01T22:27:24'
+  crc: '0x60a7a8bb'

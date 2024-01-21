@@ -1,0 +1,35 @@
+filename: Mah Jongg v2.8 [SW] (1988)(Nels Anderson) [Strategy].zip
+tdc_id: '5096.15'
+title:
+  screen: Mah Jongg
+publisher: Nels Anderson
+year: '1988'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:26:28'
+  last_modified: '2019-03-01T18:26:28'
+version: '2.8'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: MAHJONGG.EXE
+files:
+- name: MAH.TRN
+  size: 20
+  date: '1980-01-01T16:17:56'
+  crc: '0x9df35595'
+- name: MAHJONGG.DOC
+  size: 15965
+  date: '1988-09-13T07:55:28'
+  crc: '0x307c8d5e'
+- name: MAHJONGG.EXE
+  size: 96848
+  date: '1988-09-12T09:49:36'
+  crc: '0x2c76830e'
+- name: READ.ME
+  size: 2638
+  date: '1988-09-19T09:21:28'
+  crc: '0xba2c8b47'

@@ -1,0 +1,42 @@
+filename: Match'em v1.10 [SW] (1991)(Expert Source Code, Inc.) [Strategy].zip
+tdc_id: '11221.0'
+title:
+  screen: Match'em
+publisher: Expert Source Code, Inc.
+year: '1991'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:36:44'
+  last_modified: '2019-03-01T18:36:44'
+version: '1.10'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: MATCHEM.EXE
+references:
+  dosid: DOS06944
+  exodos: Match 'Em (1991).zip
+files:
+- name: MATCHEM.DOC
+  size: 36305
+  date: '1991-06-25T18:20:42'
+  crc: '0x45ce3161'
+- name: MATCHEM.EXE
+  size: 111744
+  date: '1991-06-26T02:44:26'
+  crc: '0x9118c0da'
+- name: MATCHEM.FNT
+  size: 3580
+  date: '1988-04-15T17:53:22'
+  crc: '0x769f7091'
+- name: MATCHEM.GXL
+  size: 191833
+  date: '1991-05-03T16:37:28'
+  crc: '0xb2656529'
+- name: REGISTER.FRM
+  size: 3648
+  date: '1991-06-26T02:43:12'
+  crc: '0x6a539af9'

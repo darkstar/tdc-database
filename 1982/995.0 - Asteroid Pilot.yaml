@@ -1,0 +1,30 @@
+filename: Asteroid Pilot (1982)(R. A. Bower) [Action].zip
+tdc_id: '995.0'
+title:
+  screen: Asteroid Pilot
+publisher: R. A. Bower
+year: '1982'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:22:56'
+  last_modified: '2019-03-01T18:22:56'
+type: zip
+commands:
+  play: ASTEROID.BAT
+references:
+  dosid: DOS06704
+  exodos: Asteroid Pilot (1982).zip
+files:
+- name: ASTEROID.BAS
+  size: 2422
+  date: '1984-02-01T01:36:26'
+  crc: '0xb07643c4'
+- name: ASTEROID.BAT
+  size: 17
+  date: '2014-12-04T16:31:16'
+  crc: '0x3f7c1961'
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'

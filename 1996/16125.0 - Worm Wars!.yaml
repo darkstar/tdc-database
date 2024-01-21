@@ -1,0 +1,32 @@
+filename: Worm Wars! (1996)(Jack Thomson) [Action].zip
+tdc_id: '16125.0'
+title:
+  screen: Worm Wars!
+publisher: Jack Thomson
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:23:32'
+  last_modified: '2019-03-02T10:23:32'
+type: zip
+media: Download
+commands:
+  play: start.bat
+files:
+- name: QBASIC.EXE
+  size: 194309
+  date: '1995-07-11T10:50:00'
+  crc: '0x3152911c'
+- name: WORM.REC
+  size: 21
+  date: '2014-03-19T17:20:20'
+  crc: '0x9767b1b2'
+- name: WORMWAR.BAS
+  size: 10460
+  date: '2003-03-25T22:53:46'
+  crc: '0xd1b326f7'
+- name: start.bat
+  size: 25
+  date: '2014-03-10T12:00:58'
+  crc: '0x418c9ee7'

@@ -1,0 +1,35 @@
+filename: Adventures of Larry Yu, The (1985)(H&H Software) [Action].zip
+tdc_id: '17106.0'
+title:
+  screen: The Adventures of Larry Yu
+publisher: H&H Software
+year: '1985'
+genre: Action
+language: English
+date:
+  added: '2022-11-18T09:15:50'
+  last_modified: '2022-11-18T09:15:50'
+type: zip
+commands:
+  play: START.BAT
+files:
+- name: BASICA.EXE
+  size: 80608
+  date: '1980-01-01T00:00:00'
+  crc: '0x2a44af39'
+- name: LARRYYU1.BAS
+  size: 17083
+  date: '1985-12-07T09:12:02'
+  crc: '0x6a3fec80'
+- name: LARRYYU2.BAS
+  size: 17104
+  date: '1985-12-07T09:12:02'
+  crc: '0x0bfa3232'
+- name: LARRYYU3.BAS
+  size: 17281
+  date: '1985-12-07T09:12:02'
+  crc: '0x8bab9188'
+- name: START.BAT
+  size: 16
+  date: '1980-01-01T00:00:00'
+  crc: '0x050646cd'

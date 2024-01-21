@@ -1,0 +1,51 @@
+filename: Moraff's Tempt-Tris (1993)(MoraffWare) [Action, Strategy].zip
+tdc_id: '14359.0'
+title:
+  screen: Moraff's Tempt-Tris
+publisher: MoraffWare
+year: '1993'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T19:15:14'
+  last_modified: '2019-03-01T19:15:14'
+type: zip
+commands:
+  play: TEMPT.EXE
+references:
+  dosid: DOS06572
+  exodos: Moraff's Tempt-Tris (1993).zip
+files:
+- name: 320X200.FNT
+  size: 2576
+  date: '2000-03-05T00:00:00'
+  crc: '0x49bff601'
+- name: 360X480.FNT
+  size: 6164
+  date: '2000-03-05T00:00:00'
+  crc: '0x312f458b'
+- name: EHOUT.FNT
+  size: 6900
+  date: '2000-03-05T00:00:00'
+  crc: '0x48c49f79'
+- name: LOGAN.PIC
+  size: 89614
+  date: '2000-03-05T00:00:00'
+  crc: '0xd41e2d20'
+- name: README.BAT
+  size: 416
+  date: '2000-03-05T00:00:00'
+  crc: '0xc46e8022'
+- name: TEMPT.EXE
+  size: 75282
+  date: '2000-03-05T00:00:00'
+  crc: '0x5192adaf'
+- name: TFILE.BIN
+  size: 0
+  date: '2000-08-25T16:49:40'
+- name: V
+  size: 1107
+  date: '2000-03-05T00:00:00'
+  crc: '0xf7bbd357'

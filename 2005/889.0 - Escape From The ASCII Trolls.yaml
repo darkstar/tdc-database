@@ -1,0 +1,38 @@
+filename: Escape From The ASCII Trolls (2005)(Matthew Barnes) [Adventure].zip
+tdc_id: '889.0'
+title:
+  screen: Escape From The ASCII Trolls
+publisher: Matthew Barnes
+year: '2005'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-02T10:57:04'
+  last_modified: '2019-03-02T10:57:04'
+type: zip
+commands:
+  play: ESCAPE.EXE
+files:
+- name: Data\
+  size: 0
+  date: '2014-11-22T15:27:34'
+- name: Data\Data.dat
+  size: 810
+  date: '2013-04-04T19:25:16'
+  crc: '0x88e1f7a7'
+- name: Data\Game.dat
+  size: 26014
+  date: '2005-04-16T20:09:04'
+  crc: '0x0efb4b4c'
+- name: ESCAPE.EXE
+  size: 46240
+  date: '2005-04-29T17:55:04'
+  crc: '0x229f41ca'
+- name: Readme.txt
+  size: 4972
+  date: '2005-04-16T20:44:58'
+  crc: '0x781431b5'
+- name: Windows XP Users Read This.txt
+  size: 96
+  date: '2005-03-08T23:39:56'
+  crc: '0xa445b065'

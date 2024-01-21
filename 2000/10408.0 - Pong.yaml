@@ -1,0 +1,35 @@
+filename: Pong (2000)(WOPR) [Action].zip
+tdc_id: '10408.0'
+title:
+  screen: Pong
+publisher: WOPR
+year: '2000'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:54:58'
+  last_modified: '2019-03-02T10:54:58'
+type: zip
+commands:
+  play: PONG.EXE
+files:
+- name: PONG.CPP
+  size: 7045
+  date: '2000-02-13T18:40:52'
+  crc: '0xb6fbbc27'
+- name: PONG.EXE
+  size: 26542
+  date: '2000-02-13T18:40:54'
+  crc: '0xb04743b2'
+- name: PONG.TXT
+  size: 1797
+  date: '2000-02-13T18:49:28'
+  crc: '0x5ea296c7'
+- name: TEMPO.CPP
+  size: 428
+  date: '2000-02-02T23:17:06'
+  crc: '0x141db3e2'
+- name: TEMPO.H
+  size: 130
+  date: '2000-02-02T23:14:30'
+  crc: '0x7abf3232'

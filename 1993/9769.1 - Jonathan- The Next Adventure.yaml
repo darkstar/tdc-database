@@ -1,0 +1,41 @@
+filename: Jonathan- The Next Adventure (Installer) (De) (1993)(Software 2000) [Adventure].zip
+tdc_id: '9769.1'
+parent_id: '9769.2'
+title:
+  box: 'Jonathan: The Next Adventure'
+publisher: Software 2000
+year: '1993'
+genre: Adventure
+language: German
+date:
+  added: '2022-05-09T16:12:32'
+  last_modified: '2022-05-09T16:12:32'
+type: zip
+installer: true
+commands:
+  play: INSTALL.BAT
+files:
+- name: INSTALL.BAT
+  size: 2924
+  date: '1993-05-24T14:59:48'
+  crc: '0xae3e3481'
+- name: JONA.1
+  size: 1450000
+  date: '1993-05-24T15:01:08'
+  crc: '0xc49effc1'
+- name: JONA.2
+  size: 1450000
+  date: '1993-05-24T15:01:18'
+  crc: '0x180a117e'
+- name: JONA.3
+  size: 1450000
+  date: '1993-05-24T15:01:28'
+  crc: '0xa08f1417'
+- name: JONA.4
+  size: 1450000
+  date: '1993-05-24T15:01:36'
+  crc: '0x781388c1'
+- name: JONA.5
+  size: 1286792
+  date: '1993-05-24T15:01:46'
+  crc: '0x1349efb0'

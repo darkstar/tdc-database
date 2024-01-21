@@ -1,0 +1,42 @@
+filename: Intelligent Strategy Games 10 v1.05 (Installer) (De)(En)(Fr) (1993)(Oxford Softworks) [Strategy].zip
+tdc_id: '5122.0'
+title:
+  box: Intelligent Strategy Games 10
+publisher: Oxford Softworks
+year: '1993'
+genre: Strategy
+language:
+- English
+- French
+- German
+date:
+  added: '2019-03-01T19:10:22'
+  last_modified: '2022-11-21T08:52:02'
+version: '1.05'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/intelligent-strategy-games-10
+files:
+- name: INSTALL.EXE
+  size: 38540
+  date: '1993-05-25T01:05:00'
+  crc: '0x28b6deb7'
+- name: MENU.EXE
+  size: 54780
+  date: '1993-06-04T20:35:32'
+  crc: '0xace2e33c'
+- name: OXFORD1.CMP
+  size: 690546
+  date: '1993-05-04T16:10:00'
+  crc: '0x2e99cd97'
+- name: OXFORD2.CMP
+  size: 730112
+  date: '1993-05-04T16:10:48'
+  crc: '0x6f1e74b9'
+- name: OXFORD3.CMP
+  size: 686880
+  date: '1993-05-04T16:11:16'
+  crc: '0x7c840a27'

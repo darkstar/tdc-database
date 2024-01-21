@@ -1,0 +1,77 @@
+filename: Lords of Midnight III- The Citadel v64.006 patch (Installer) (1995)(Domark Software, Inc.) [Role-Playing (RPG), Strategy, Addon].zip
+tdc_id: '11891.4'
+title:
+  screen: 'Lords of Midnight III: The Citadel'
+publisher: Domark Software, Inc.
+year: '1995'
+genre:
+- Role-Playing (RPG)
+- Strategy
+- Addon
+language: English
+date:
+  added: '2022-04-12T23:34:32'
+  last_modified: '2022-04-12T23:34:32'
+version: '64.006'
+type: zip
+installer: true
+patch: true
+files:
+- name: CITADEL.EXE
+  size: 14058
+  date: '1995-08-11T10:35:54'
+  crc: '0x8d20aed7'
+- name: GRAPHICS\
+  size: 0
+  date: '1999-05-20T21:56:50'
+- name: GRAPHICS\LOM3.LBM
+  size: 67298
+  date: '1995-08-11T10:37:34'
+  crc: '0x3eab325c'
+- name: MASTER\
+  size: 0
+  date: '1999-05-20T21:56:26'
+- name: MASTER\ARMY
+  size: 55540
+  date: '1995-08-11T15:08:02'
+  crc: '0xb94b463d'
+- name: MASTER\BEAST
+  size: 28796
+  date: '1995-08-11T15:08:02'
+  crc: '0xe8413761'
+- name: MASTER\BOAT
+  size: 14824
+  date: '1995-08-11T10:38:42'
+  crc: '0x4af8ecde'
+- name: MASTER\CHARAC
+  size: 35106
+  date: '1995-08-11T15:08:02'
+  crc: '0xe7525fda'
+- name: MASTER\CITADEL
+  size: 15048
+  date: '1995-08-11T15:08:02'
+  crc: '0x872b80ce'
+- name: MASTER\GENERAL
+  size: 67602
+  date: '1995-08-11T15:08:04'
+  crc: '0x8ae68c98'
+- name: MASTER\HEADER
+  size: 4838
+  date: '1995-08-11T15:08:02'
+  crc: '0x5229fb39'
+- name: MASTER\OBJECT
+  size: 228
+  date: '1995-08-11T15:08:02'
+  crc: '0x9808647a'
+- name: MIDNIGHT.EXE
+  size: 761193
+  date: '1995-08-11T15:12:32'
+  crc: '0x373af4e7'
+- name: PATCH.BAT
+  size: 426
+  date: '1995-08-16T21:11:48'
+  crc: '0x6817f9c7'
+- name: READ.ME
+  size: 4578
+  date: '1995-08-17T10:05:50'
+  crc: '0x930389da'

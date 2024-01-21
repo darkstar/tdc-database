@@ -1,0 +1,28 @@
+filename: Heart (Pinball Construction Set) (1988)(Barry Jones) [Action].zip
+tdc_id: '1522.0'
+title:
+  screen: Heart
+  qualifier: Pinball Construction Set
+publisher: Barry Jones
+year: '1988'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:26:16'
+  last_modified: '2019-03-01T18:26:16'
+type: zip
+requirements:
+  cpu:
+    min: '8088'
+media: Download
+commands:
+  play: HEART.COM
+files:
+- name: HEART.COM
+  size: 64512
+  date: '1988-01-10T15:00:00'
+  crc: '0x2f60861a'
+- name: PINBALL.DOC
+  size: 560
+  date: '1988-06-25T17:43:24'
+  crc: '0xfa5e2a5c'

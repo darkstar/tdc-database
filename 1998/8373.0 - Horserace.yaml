@@ -1,0 +1,30 @@
+filename: Horserace (1998)(Anonymous) [Strategy, Simulation].zip
+tdc_id: '8373.0'
+title:
+  screen: Horserace
+publisher: Anonymous
+year: '1998'
+genre:
+- Strategy
+- Simulation
+language: English
+date:
+  added: '2019-03-02T10:41:46'
+  last_modified: '2019-03-02T10:41:46'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 25
+  date: '2019-01-10T13:55:22'
+  crc: '0x66d8bd3d'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: RACE1.BAS
+  size: 3421
+  date: '1998-09-21T01:39:58'
+  crc: '0xa340c77d'

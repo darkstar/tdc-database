@@ -1,0 +1,38 @@
+filename: Sea Dragon (1983)(Adventure International) [Action].zip
+tdc_id: '5209.0'
+title:
+  box: Sea Dragon
+publisher: Adventure International
+year: '1983'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:23:18'
+  last_modified: '2019-03-01T18:23:18'
+type: zip
+commands:
+  play: SD.EXE
+references:
+  dosid: DOS04445
+  exodos: Sea Dragon (1983).zip
+files:
+- name: CAR.PIC
+  size: 16392
+  date: '1980-01-01T00:12:28'
+  crc: '0xdd4b2321'
+- name: OCBDATA.BIN
+  size: 1664
+  date: '1983-03-11T11:33:10'
+  crc: '0x814d8806'
+- name: SD.EXE
+  size: 65792
+  date: '1983-05-27T00:15:50'
+  crc: '0x317914ab'
+- name: SHAPES.RAF
+  size: 2816
+  date: '1983-03-09T18:51:10'
+  crc: '0x41e6839e'
+- name: SSDATA.BIN
+  size: 2432
+  date: '1983-03-09T15:37:02'
+  crc: '0xf68494b0'

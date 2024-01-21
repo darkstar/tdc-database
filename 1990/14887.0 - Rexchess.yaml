@@ -1,0 +1,61 @@
+filename: Rexchess v2.30 (1990)(Larry Kaufman, Don Dailey) [Strategy, Chess].zip
+tdc_id: '14887.0'
+title:
+  screen: Rexchess
+publisher: Larry Kaufman, Don Dailey
+year: '1990'
+genre:
+- Strategy
+- Chess
+language: English
+date:
+  added: '2019-03-01T18:33:48'
+  last_modified: '2019-03-01T18:33:48'
+version: '2.30'
+type: zip
+commands:
+  play: REX.EXE
+files:
+- name: CGA1.DTA
+  size: 16384
+  date: '1989-12-12T21:06:28'
+  crc: '0x01ded0eb'
+- name: CGA2.DTA
+  size: 1632
+  date: '1989-12-12T21:06:30'
+  crc: '0x51a504f8'
+- name: EGA1.DTA
+  size: 32770
+  date: '1989-11-19T16:09:38'
+  crc: '0x551aa881'
+- name: EGA2.DTA
+  size: 11232
+  date: '1989-11-19T16:09:38'
+  crc: '0x93f59636'
+- name: HERC1.DTA
+  size: 32770
+  date: '2088-01-01T01:29:22'
+  crc: '0x6e2f6646'
+- name: HERC2.DTA
+  size: 2880
+  date: '2088-01-01T01:29:24'
+  crc: '0xb9655a95'
+- name: RES.REX
+  size: 0
+  date: '1992-10-15T13:01:18'
+- name: REX.BOK
+  size: 65536
+  date: '1990-06-03T01:06:04'
+  crc: '0x1424fd74'
+- name: REX.EXE
+  size: 153008
+  date: '2088-01-01T00:29:56'
+  crc: '0x1d7a4e4f'
+- name: REX.GMS
+  size: 3360
+  date: '1991-06-12T14:21:08'
+  crc: '0x2826fea0'
+- name: REX.TOK
+  size: 16384
+  date: '1990-06-03T11:53:34'
+  crc: '0x29223f6a'

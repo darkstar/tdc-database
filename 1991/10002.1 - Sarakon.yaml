@@ -1,0 +1,29 @@
+filename: Sarakon (demo) (1991)(Virgin Mastertronic Ltd.) [Strategy].zip
+tdc_id: '10002.1'
+title:
+  screen: Sarakon
+  qualifier: demo
+publisher: Virgin Mastertronic Ltd.
+year: '1991'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:37:36'
+  last_modified: '2019-03-01T18:37:36'
+type: zip
+demo: true
+commands:
+  play: SARAKON.EXE
+files:
+- name: README.BAT
+  size: 436
+  date: '1992-03-13T10:10:16'
+  crc: '0xfb1b793f'
+- name: README.TXT
+  size: 174
+  date: '1992-03-13T11:47:22'
+  crc: '0xa322dad3'
+- name: SARAKON.EXE
+  size: 229794
+  date: '1991-05-16T11:24:50'
+  crc: '0xe389b19f'

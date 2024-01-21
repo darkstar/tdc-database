@@ -1,0 +1,52 @@
+filename: PC Jigsaw v1.1 [SW] (1989)(Bill Dedes) [Strategy, Puzzle].zip
+tdc_id: '10057.2'
+title:
+  screen: PC Jigsaw
+publisher: Bill Dedes
+year: '1989'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-12-01T13:47:58'
+  last_modified: '2019-12-01T13:47:58'
+version: '1.1'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: JIG.EXE
+references:
+  dosid: DOS07006
+  exodos: PC Jigsaw (1988).zip
+files:
+- name: DANCER.GRF
+  size: 19928
+  date: '1989-03-30T21:23:28'
+  crc: '0x89facafe'
+- name: DOG.GRF
+  size: 22303
+  date: '1989-03-30T21:23:28'
+  crc: '0x42994714'
+- name: HYDRA.GRF
+  size: 16255
+  date: '1989-03-30T09:08:28'
+  crc: '0x93ef26f3'
+- name: JIG.DOC
+  size: 12672
+  date: '1989-03-30T21:23:28'
+  crc: '0x083f68f7'
+- name: JIG.EXE
+  size: 78428
+  date: '1989-03-30T21:23:28'
+  crc: '0x4169155e'
+- name: JIGSAW.GRF
+  size: 18244
+  date: '1989-03-30T21:23:28'
+  crc: '0x50b85d77'
+- name: README.DOC
+  size: 1408
+  date: '1989-03-30T21:23:28'
+  crc: '0xfcf7fdd0'

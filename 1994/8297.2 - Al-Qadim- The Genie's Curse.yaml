@@ -1,0 +1,59 @@
+filename: Al-Qadim- The Genie's Curse (Installer) (1994)(Strategic Simulations, Inc.) [Action, Role-Playing (RPG)].zip
+tdc_id: '8297.2'
+parent_id: '8297.3'
+title:
+  box: 'Al-Qadim: The Genie''s Curse'
+publisher: Strategic Simulations, Inc.
+year: '1994'
+genre:
+- Action
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-09-11T22:18:00'
+  last_modified: '2019-09-11T22:18:00'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: BOOT.NFO
+  size: 29
+  date: '1994-05-03T15:05:46'
+  crc: '0x259366c7'
+- name: DATA.A00
+  size: 1368966
+  date: '1994-05-04T12:31:34'
+  crc: '0x3e336b4a'
+- name: DATA.A01
+  size: 1457098
+  date: '1994-05-04T12:38:32'
+  crc: '0x446ef6fe'
+- name: DATA.A02
+  size: 1457087
+  date: '1994-05-04T12:43:26'
+  crc: '0x7ad5ae23'
+- name: DATA.A03
+  size: 1457109
+  date: '1994-05-04T12:48:24'
+  crc: '0xa6b117a4'
+- name: DATA.A04
+  size: 1077945
+  date: '1994-05-04T12:52:08'
+  crc: '0x02c27a13'
+- name: DEARJ.EXE
+  size: 39441
+  date: '1993-03-19T18:18:52'
+  crc: '0x284b68d2'
+- name: INSTALL.EXE
+  size: 46991
+  date: '1994-05-03T16:09:04'
+  crc: '0x356439c4'
+- name: INSTALL.NFO
+  size: 493
+  date: '1994-05-04T12:08:30'
+  crc: '0xded008ef'
+- name: README.TXT
+  size: 1613
+  date: '1994-05-04T12:11:46'
+  crc: '0x0a3367fe'

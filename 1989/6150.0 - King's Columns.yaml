@@ -1,0 +1,30 @@
+filename: King's Columns v1.10 (1989)(Nils Larson) [Strategy, Chess].zip
+tdc_id: '6150.0'
+title:
+  screen: King's Columns
+publisher: Nils Larson
+year: '1989'
+genre:
+- Strategy
+- Chess
+language: English
+date:
+  added: '2019-03-01T18:28:06'
+  last_modified: '2019-03-01T18:28:06'
+version: '1.10'
+type: zip
+commands:
+  play: KC.EXE
+files:
+- name: KC.EXE
+  size: 93415
+  date: '1989-03-05T22:31:44'
+  crc: '0x5a3e7c61'
+- name: KC.TXT
+  size: 10341
+  date: '1980-01-08T00:05:44'
+  crc: '0x8a9371cf'
+- name: READ_ME.1ST
+  size: 1090
+  date: '1989-03-28T22:47:28'
+  crc: '0x9b9d395a'

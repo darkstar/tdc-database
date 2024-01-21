@@ -1,0 +1,28 @@
+filename: Commando v1.01 [DC][b1][h1] (1987)(Data East USA, Inc.) [Action].zip
+tdc_id: '6077.1'
+title:
+  box: Commando
+publisher: Data East USA, Inc.
+year: '1987'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:25:14'
+  last_modified: '2019-03-01T18:25:14'
+version: '1.01'
+type: zip
+tags:
+- DOSConversion
+- Hack: 1
+- Bad: 1
+commands:
+  play: COMMANDO.COM
+files:
+- name: COMMANDO.COM
+  size: 14215
+  date: '1987-06-02T12:00:00'
+  crc: '0x97d5eb49'
+- name: COMMANDO.SPI
+  size: 81464
+  date: '1987-06-02T12:00:00'
+  crc: '0x8d9ee1c9'

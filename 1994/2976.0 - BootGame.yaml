@@ -1,0 +1,62 @@
+filename: BootGame (1994)(Kolma Kornel) [Action].zip
+tdc_id: '2976.0'
+title:
+  screen: BootGame
+publisher: Kolma Kornel
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T21:54:56'
+  last_modified: '2019-03-01T21:54:56'
+type: zip
+references:
+  dosid: DOS07299
+  exodos: BootGame (1994).zip
+files:
+- name: DISK_IMG\
+  size: 0
+  date: '1980-01-01T00:00:00'
+- name: DISK_IMG\BOOTGAME.IMG
+  size: 164352
+  date: '1980-01-01T00:00:00'
+  crc: '0x72239757'
+- name: ENG.DOC
+  size: 2460
+  date: '1995-03-24T04:46:30'
+  crc: '0x4de6799f'
+- name: GER.DOC
+  size: 2404
+  date: '1995-03-24T04:46:54'
+  crc: '0xd7922378'
+- name: HUN.DOC
+  size: 2704
+  date: '1995-03-24T04:47:18'
+  crc: '0x068272a8'
+- name: KOKO.BOO
+  size: 512
+  date: '1994-12-24T06:47:44'
+  crc: '0xc3652cd4'
+- name: KOKO.EXE
+  size: 1918
+  date: '1995-03-24T04:26:28'
+  crc: '0xa832db21'
+- name: SOURCE\
+  size: 0
+  date: '1995-03-24T04:45:12'
+- name: SOURCE\BOOT.ASM
+  size: 2971
+  date: '1994-12-24T06:46:54'
+  crc: '0xa57c2d54'
+- name: SOURCE\KOKO.ASM
+  size: 8007
+  date: '1995-03-24T04:26:20'
+  crc: '0xa3b190bc'
+- name: SOURCE\START.ASM
+  size: 4327
+  date: '1995-03-13T15:22:20'
+  crc: '0x58a10e1f'
+- name: START.EXE
+  size: 1507
+  date: '1995-03-13T15:22:28'
+  crc: '0xe56000bc'

@@ -1,0 +1,35 @@
+filename: Megafortress- Operation SkyMaster (Installer) (1992)(Three-Sixty Pacific, Inc.) [Simulation, Strategy, Addon].zip
+tdc_id: '14222.0'
+title:
+  box: 'Megafortress: Operation SkyMaster'
+publisher: Three-Sixty Pacific, Inc.
+year: '1992'
+genre:
+- Simulation
+- Strategy
+- Addon
+language: English
+date:
+  added: '2019-03-01T18:49:20'
+  last_modified: '2019-03-01T18:49:20'
+type: zip
+installer: true
+commands:
+  play: INSTALL.COM
+files:
+- name: INSTALL.COM
+  size: 18148
+  date: '1992-06-17T10:29:14'
+  crc: '0x33919211'
+- name: KOREA
+  size: 93546
+  date: '1992-06-17T17:39:24'
+  crc: '0xaecbfe1c'
+- name: PHILIP
+  size: 472638
+  date: '1992-06-17T17:39:22'
+  crc: '0xec4f11fc'
+- name: README.TXT
+  size: 1421
+  date: '1992-06-15T01:48:52'
+  crc: '0xe19ce3b7'

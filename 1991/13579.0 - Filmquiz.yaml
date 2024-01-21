@@ -1,0 +1,33 @@
+filename: Filmquiz (1991)(PC Answers International Inc.) [Strategy, Trivia].zip
+tdc_id: '13579.0'
+title:
+  screen: Filmquiz
+publisher: PC Answers International Inc.
+year: '1991'
+genre:
+- Strategy
+- Trivia
+language: English
+date:
+  added: '2021-12-30T22:23:38'
+  last_modified: '2021-12-30T22:23:38'
+type: zip
+commands:
+  play: FILMQUIZ.EXE
+files:
+- name: '!!README.TXT'
+  size: 2522
+  date: '1991-07-19T23:16:08'
+  crc: '0xd38e391f'
+- name: ADISCTRL
+  size: 2304
+  date: '1991-07-01T10:22:50'
+  crc: '0x5bfbb48f'
+- name: FILMQUIZ.EXE
+  size: 65729
+  date: '1991-07-19T17:10:44'
+  crc: '0x8d572186'
+- name: MOVIE.RCD
+  size: 119616
+  date: '1991-07-17T18:32:18'
+  crc: '0xf6716b6e'

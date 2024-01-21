@@ -1,0 +1,40 @@
+filename: Star Mines II- The Planet of Mines v1.1 (1993)(Jari Karjala) [Action].zip
+tdc_id: '15513.1'
+title:
+  screen: 'Star Mines II: The Planet of Mines'
+publisher: Jari Karjala
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2012-10-25T21:05:38'
+  last_modified: '2012-10-25T21:05:38'
+version: '1.1'
+type: zip
+media: Download
+commands:
+  play: SM2.EXE
+references:
+  dosid: DOS02783
+  exodos: StarMines II - Planet of the Mines (1992).zip
+files:
+- name: FILE_ID.DIZ
+  size: 440
+  date: '1993-09-01T21:21:54'
+  crc: '0xa9dbf180'
+- name: SM2.CFG
+  size: 7
+  date: '1994-10-25T08:31:12'
+  crc: '0x9f634eaf'
+- name: SM2.EXE
+  size: 37370
+  date: '1993-09-01T21:21:54'
+  crc: '0xc434f804'
+- name: SM2.SFL
+  size: 376107
+  date: '1993-09-01T21:21:54'
+  crc: '0x7e77345b'
+- name: SM2.TXT
+  size: 6586
+  date: '1993-09-01T21:21:54'
+  crc: '0xfd8175e0'

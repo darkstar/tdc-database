@@ -1,0 +1,41 @@
+filename: Hong Kong Mahjong [SW] (1991)(Nine Dragons Software) [Strategy].zip
+tdc_id: '5549.0'
+title:
+  screen: Hong Kong Mahjong
+publisher: Nine Dragons Software
+year: '1991'
+genre: Strategy
+language: English
+date:
+  added: '2020-03-29T11:53:42'
+  last_modified: '2020-03-29T11:53:42'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: HKMJSHAR.EXE
+references:
+  dosid: DOS06883
+  exodos: Hong Kong Mahjong (1991).zip
+files:
+- name: HK1.DAT
+  size: 1730
+  date: '1990-08-01T01:02:00'
+  crc: '0xb85bf3c1'
+- name: HK2.DAT
+  size: 3600
+  date: '1990-08-01T01:02:00'
+  crc: '0x36bb426c'
+- name: HK3.DAT
+  size: 1654
+  date: '1990-08-01T01:02:00'
+  crc: '0xde2b5514'
+- name: HKMJSHAR.EXE
+  size: 121584
+  date: '1990-12-27T17:26:18'
+  crc: '0xb33f6556'
+- name: HKSHARE.DAT
+  size: 63390
+  date: '1990-12-15T18:05:30'
+  crc: '0xeaf5a1e2'

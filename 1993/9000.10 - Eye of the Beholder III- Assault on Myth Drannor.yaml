@@ -1,0 +1,74 @@
+filename: Eye of the Beholder III- Assault on Myth Drannor v1.0 (Installer) (Fr) (1993)(Strategic Simulations, Inc.) [Role-Playing (RPG)][!].zip
+tdc_id: '9000.10'
+parent_id: '9000.4'
+title:
+  box: 'Eye of the Beholder III: Assault on Myth Drannor'
+  qualifier: Installer
+publisher: Strategic Simulations, Inc.
+year: '1993'
+genre: Role-Playing (RPG)
+language: French
+date:
+  added: '2023-10-14T12:09:13'
+  last_modified: '2023-10-14T12:09:13'
+version: '1.0'
+type: zip
+tags:
+- KnownGood
+media:
+- 720K
+- 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/859/eye-of-the-beholder-iii-assault-on-myth-drannor/
+files:
+- name: ASSD1V1_.0
+  size: 0
+  date: '1993-07-22T14:06:20'
+- name: ASSD2V1_.0
+  size: 0
+  date: '1993-07-22T14:07:42'
+- name: ASSD3V1_.0
+  size: 0
+  date: '1993-07-22T14:09:02'
+- name: ASSD4V1_.0
+  size: 0
+  date: '1993-07-22T14:10:14'
+- name: DATA1.ARJ
+  size: 1359187
+  date: '1993-07-22T14:02:08'
+  crc: '0x41cefc9f'
+- name: DATA2.ARJ
+  size: 1359257
+  date: '1993-07-22T14:03:32'
+  crc: '0x333ff34e'
+- name: DATA3.ARJ
+  size: 1359267
+  date: '1993-07-22T14:05:16'
+  crc: '0xb47be22d'
+- name: DATA4.ARJ
+  size: 133142
+  date: '1993-07-22T14:05:30'
+  crc: '0x3e7ce91d'
+- name: DATA5.ARJ
+  size: 142042
+  date: '1993-07-22T14:05:54'
+  crc: '0xe9725c22'
+- name: DATA6.ARJ
+  size: 174912
+  date: '1993-07-22T14:06:08'
+  crc: '0x76269438'
+- name: DEARJ.EXE
+  size: 60416
+  date: '1993-03-22T15:11:38'
+  crc: '0xc807aa09'
+- name: INSTALL.EXE
+  size: 20162
+  date: '1993-07-12T12:58:00'
+  crc: '0xdc8d468c'
+- name: INSTALL.NFO
+  size: 591
+  date: '1993-04-13T19:19:44'
+  crc: '0xcbcf531f'

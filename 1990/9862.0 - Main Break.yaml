@@ -1,0 +1,44 @@
+filename: Main Break v4.0 [SW] (1990)(William Soleau) [Action, Strategy].zip
+tdc_id: '9862.0'
+title:
+  screen: Main Break
+publisher: William Soleau
+year: '1990'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2012-07-04T15:09:06'
+  last_modified: '2012-07-04T15:09:06'
+version: '4.0'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: MAINBR.EXE
+references:
+  dosid: DOS15607
+  exodos: Main Break (1990).zip
+files:
+- name: FILE_ID.DIZ
+  size: 241
+  date: '1992-06-03T09:05:56'
+  crc: '0x4230d0de'
+- name: MAINBR.EXE
+  size: 95248
+  date: '1991-03-10T08:05:00'
+  crc: '0x3da79f53'
+- name: MAINBR.HLP
+  size: 4401
+  date: '1990-03-11T04:54:12'
+  crc: '0xb416d58b'
+- name: MAINBR.SCR
+  size: 16392
+  date: '1990-03-06T18:12:24'
+  crc: '0xc6c5c2af'
+- name: READ.ME
+  size: 8802
+  date: '1991-05-15T03:25:28'
+  crc: '0x1e2e4009'

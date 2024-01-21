@@ -1,0 +1,27 @@
+filename: Hidden Word Search Game (1991)(Garry W. Hough) [Strategy].zip
+tdc_id: '669.0'
+title:
+  screen: Hidden Word Search Game
+publisher: Garry W. Hough
+year: '1991'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:36:18'
+  last_modified: '2019-03-01T18:36:18'
+type: zip
+commands:
+  play: WORDSRCH.EXE
+files:
+- name: WORDS.DAT
+  size: 179
+  date: '1991-03-31T15:38:20'
+  crc: '0x94ffaab2'
+- name: WORDSRCH.DOC
+  size: 1066
+  date: '1991-04-01T20:40:40'
+  crc: '0x0a6ef01c'
+- name: WORDSRCH.EXE
+  size: 92288
+  date: '1991-04-01T20:34:24'
+  crc: '0x1a4bac49'

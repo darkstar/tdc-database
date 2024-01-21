@@ -1,0 +1,26 @@
+filename: Phantasm (1988)(Exocet Software) [Action].zip
+tdc_id: '1570.0'
+title:
+  box: Phantasm
+publisher: Exocet Software
+year: '1988'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:26:36'
+  last_modified: '2019-03-01T18:26:36'
+type: zip
+commands:
+  play: PHANTASM.COM
+references:
+  dosid: DOS03981
+  exodos: Phantasm (1988).zip
+files:
+- name: PHANTASM.COM
+  size: 304
+  date: '2012-08-25T08:16:22'
+  crc: '0xd46a5a52'
+- name: PHANTASM.IMG
+  size: 368640
+  date: '2011-09-09T00:36:56'
+  crc: '0xc66c37f6'

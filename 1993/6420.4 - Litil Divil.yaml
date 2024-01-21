@@ -1,0 +1,60 @@
+filename: Litil Divil (Installer) (Es) (1993)(Gremlin Graphics Software Limited) [Action].zip
+tdc_id: '6420.4'
+title:
+  box: Litil Divil
+publisher: Gremlin Graphics Software Limited
+year: '1993'
+genre: Action
+language: Spanish
+date:
+  added: '2019-03-01T19:11:54'
+  last_modified: '2019-03-01T19:11:54'
+type: zip
+installer: true
+commands:
+  play: INSTALAR.EXE
+files:
+- name: DDX.A01
+  size: 1457017
+  date: '1993-11-30T00:05:28'
+  crc: '0x906e1207'
+- name: DDX.A02
+  size: 1456971
+  date: '1993-11-30T00:14:00'
+  crc: '0x4a020ec5'
+- name: DDX.A03
+  size: 1456974
+  date: '1993-11-30T00:23:10'
+  crc: '0xf0eb3c47'
+- name: DDX.A04
+  size: 1456999
+  date: '1993-11-30T00:29:18'
+  crc: '0x35d84f8d'
+- name: DDX.A05
+  size: 1320570
+  date: '1993-11-30T00:37:14'
+  crc: '0xfd0bd0a8'
+- name: DDX.ARJ
+  size: 1215806
+  date: '1993-11-29T23:56:50'
+  crc: '0x99db8299'
+- name: DEARJ.EXE
+  size: 67782
+  date: '1993-11-12T16:16:02'
+  crc: '0xa95b0060'
+- name: INSTALAR.EXE
+  size: 168002
+  date: '1993-11-28T13:59:54'
+  crc: '0x9dc59c62'
+- name: INSTALL.CFG
+  size: 122
+  date: '1993-11-28T15:53:54'
+  crc: '0xca96150a'
+- name: INSTALL.FIL
+  size: 1188
+  date: '1992-11-18T11:41:38'
+  crc: '0xa2abc8fb'
+- name: INSTALL.MSG
+  size: 2256
+  date: '1993-11-28T16:20:00'
+  crc: '0x4c9e06aa'

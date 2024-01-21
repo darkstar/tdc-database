@@ -1,0 +1,40 @@
+filename: Up the Wall v1.0 [SW] (1990)(William Soleau) [Action, Strategy].zip
+tdc_id: '7343.0'
+title:
+  screen: Up the Wall
+publisher: William Soleau
+year: '1990'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:34:26'
+  last_modified: '2023-04-14T07:18:46'
+version: '1.0'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: UPWALL.EXE
+references:
+  dosid: DOS15814
+  exodos: Up the Wall (1990).zip
+files:
+- name: UPWALL.DAT
+  size: 35
+  date: '1990-03-25T20:07:42'
+  crc: '0x332c5e24'
+- name: UPWALL.EXE
+  size: 94610
+  date: '1990-03-10T21:17:34'
+  crc: '0x35d3b4e1'
+- name: UPWALL.HLP
+  size: 4004
+  date: '1990-03-10T20:35:50'
+  crc: '0x50384b2f'
+- name: UPWALL.SCR
+  size: 16392
+  date: '1990-03-10T16:38:36'
+  crc: '0x8762a32a'

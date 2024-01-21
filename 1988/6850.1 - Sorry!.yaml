@@ -1,0 +1,27 @@
+filename: Sorry! v2.0 (1988)(Joe Glockner) [Strategy].zip
+tdc_id: '6850.1'
+title:
+  screen: Sorry!
+publisher: Joe Glockner
+year: '1988'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:26:46'
+  last_modified: '2019-03-01T18:26:46'
+version: '2.0'
+type: zip
+commands:
+  play: EGASORRY.EXE
+references:
+  dosid: DOS06406
+  exodos: Sorry! (1988).zip
+files:
+- name: EGASORRY.DOC
+  size: 7288
+  date: '1988-04-02T21:30:22'
+  crc: '0xe7ef9efa'
+- name: EGASORRY.EXE
+  size: 216080
+  date: '1988-04-03T00:24:00'
+  crc: '0x92f5c010'

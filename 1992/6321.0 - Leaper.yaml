@@ -1,0 +1,29 @@
+filename: Leaper (VGA) [SW] (1992)(Lee Chapel) [Action].zip
+tdc_id: '6321.0'
+title:
+  screen: Leaper
+  qualifier: VGA
+publisher: Lee Chapel
+year: '1992'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:48:40'
+  last_modified: '2019-03-01T18:48:40'
+type: zip
+tags:
+- Shareware
+commands:
+  play: VLEAPER.EXE
+references:
+  dosid: DOS15950
+  exodos: Leaper (1992).zip
+files:
+- name: VLEAPER.DOC
+  size: 9990
+  date: '1993-03-09T20:04:44'
+  crc: '0xce0182a6'
+- name: VLEAPER.EXE
+  size: 73152
+  date: '1993-02-27T14:30:32'
+  crc: '0x393d5e57'

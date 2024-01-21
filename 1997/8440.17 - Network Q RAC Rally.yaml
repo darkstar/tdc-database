@@ -1,0 +1,99 @@
+filename: Network Q RAC Rally v1.3b (Fr) (1997)(Europress Software Ltd.) [Racing - Driving, Sports].zip
+tdc_id: '8440.17'
+title:
+  box: Network Q RAC Rally
+publisher: Europress Software Ltd.
+year: '1997'
+genre:
+- Racing - Driving
+- Sports
+language: French
+date:
+  added: '2022-10-18T10:40:56'
+  last_modified: '2022-10-18T10:40:56'
+version: 1.3b
+type: zip
+commands:
+  play: RALLY.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/network-q-rac-rally
+files:
+- name: INTRO.EXE
+  size: 3590
+  date: '1994-10-31T14:48:20'
+  crc: '0x63a12b4a'
+- name: MENU.EXE
+  size: 53912
+  date: '1996-05-14T07:56:10'
+  crc: '0xada21c57'
+- name: Q.EXE
+  size: 83374
+  date: '1997-02-04T11:25:24'
+  crc: '0xb6c70866'
+- name: R.EXE
+  size: 1512
+  date: '1994-10-31T14:48:12'
+  crc: '0x78030795'
+- name: RAL.EXE
+  size: 44520
+  date: '1995-08-26T22:30:08'
+  crc: '0xc789a771'
+- name: RALLY.BAT
+  size: 16
+  date: '1997-02-04T12:59:12'
+  crc: '0x2ffe0140'
+- name: RALLY.CFG
+  size: 34
+  date: '1997-02-04T14:30:40'
+  crc: '0x4c6d012f'
+- name: RALLY.RNC
+  size: 4319348
+  date: '1994-10-31T14:52:32'
+  crc: '0xafab3e5e'
+- name: RAL_INTR.MOD
+  size: 229020
+  date: '1994-10-31T14:48:28'
+  crc: '0xcae95949'
+- name: RAL_MENU.MOD
+  size: 67668
+  date: '1994-10-31T14:48:32'
+  crc: '0x0fe40b36'
+- name: RAL_TROP.MOD
+  size: 137222
+  date: '1994-10-31T14:48:38'
+  crc: '0x49970d4d'
+- name: README.EXE
+  size: 3040
+  date: '1994-10-31T14:48:40'
+  crc: '0x7b608994'
+- name: README.TXT
+  size: 8153
+  date: '1994-10-31T14:48:40'
+  crc: '0xda5b4254'
+- name: SAVE\
+  size: 0
+  date: '1994-10-31T14:48:42'
+- name: SAVE\SAVE1.RAL
+  size: 12674
+  date: '1994-10-31T14:48:40'
+  crc: '0xdc06421a'
+- name: SAVE\SAVE2.RAL
+  size: 12674
+  date: '1994-10-31T14:48:40'
+  crc: '0x8686719b'
+- name: SAVE\SAVE3.RAL
+  size: 12674
+  date: '1994-10-31T14:48:40'
+  crc: '0xaf581790'
+- name: SAVE\SAVE4.RAL
+  size: 12674
+  date: '1994-10-31T14:48:42'
+  crc: '0x1d543523'
+- name: SAVE\SAVE5.RAL
+  size: 12674
+  date: '1994-10-31T14:48:42'
+  crc: '0x8bce9952'
+- name: SOUND.EXE
+  size: 8771
+  date: '1994-10-31T14:48:20'
+  crc: '0xf22307e7'

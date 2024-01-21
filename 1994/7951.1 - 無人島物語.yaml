@@ -1,0 +1,85 @@
+filename: 無人島物語 (Installer) (Ja) (1994)(KSS) [Simulation].zip
+tdc_id: '7951.1'
+title:
+  box: 無人島物語
+  translation: Desert Island Story - Muindo Iyag
+  transliteration: Mujintō Monogatari
+  qualifier: Installer
+publisher: KSS
+year: '1994'
+genre: Simulation
+language: Japanese
+date:
+  added: '2019-03-01T22:02:14'
+  last_modified: '2023-06-28T12:35:30'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/pc98/mujint-monogatari
+files:
+- name: BAR.BMP
+  size: 9534
+  date: '1995-10-26T11:49:38'
+  crc: '0xc4b29c50'
+- name: DAOU.D01
+  size: 1200000
+  date: '1994-05-22T00:52:58'
+  crc: '0x90eada02'
+- name: DAOU.D02
+  size: 1200000
+  date: '1994-05-22T00:53:02'
+  crc: '0x1ad7c680'
+- name: DAOU.D03
+  size: 1200000
+  date: '1994-05-22T00:53:04'
+  crc: '0x3a08c2e5'
+- name: DAOU.D04
+  size: 538326
+  date: '1994-05-22T00:53:04'
+  crc: '0x65d2129f'
+- name: DISK.01
+  size: 72
+  date: '1996-05-23T10:06:00'
+  crc: '0x71e3a492'
+- name: DISK.02
+  size: 24
+  date: '1995-03-25T16:36:56'
+  crc: '0x96695969'
+- name: DISK.03
+  size: 24
+  date: '1995-03-25T16:36:50'
+  crc: '0x8d21d9af'
+- name: DISK.04
+  size: 26
+  date: '1994-04-25T16:07:22'
+  crc: '0xa96bae74'
+- name: E043.MES
+  size: 6088
+  date: '1996-05-23T09:41:56'
+  crc: '0xb8a273ad'
+- name: E314.MES
+  size: 21725
+  date: '1996-05-21T12:14:56'
+  crc: '0x4a24bdba'
+- name: ENGLISH.FNT
+  size: 2048
+  date: '1992-08-17T13:18:04'
+  crc: '0x41c1c0a2'
+- name: HANGUL.FNT
+  size: 11520
+  date: '1993-05-20T00:09:18'
+  crc: '0x60353e2e'
+- name: INSTALL.EXE
+  size: 81405
+  date: '2002-01-05T09:14:34'
+  crc: '0xdf52a8f3'
+- name: SSAM.BMP
+  size: 28918
+  date: '1994-03-28T18:04:46'
+  crc: '0x0e7612bb'
+- name: TREE.DIR
+  size: 5673
+  date: '1996-05-23T09:34:14'
+  crc: '0xd072ea2c'

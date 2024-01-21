@@ -1,0 +1,33 @@
+filename: Tetrix v1.40 (Cs) [FW] (1996)(GEMA Soft) [Action, Strategy].zip
+tdc_id: '16584.0'
+title:
+  screen: Tetrix
+publisher: GEMA Soft
+year: '1996'
+genre:
+- Action
+- Strategy
+language: Czech
+date:
+  added: '2013-11-28T00:05:18'
+  last_modified: '2013-11-28T00:05:18'
+version: '1.40'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: TETRIX.EXE
+files:
+- name: TETRIX.DAT
+  size: 244
+  date: '1999-12-31T18:00:00'
+  crc: '0x1d62cf21'
+- name: TETRIX.EXE
+  size: 7958
+  date: '1999-12-31T18:00:00'
+  crc: '0xa96ebbec'
+- name: TETRIX.TXT
+  size: 2620
+  date: '1999-12-31T18:00:00'
+  crc: '0xb44eebbc'

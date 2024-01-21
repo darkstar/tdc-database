@@ -1,0 +1,30 @@
+filename: Whack a Mole [a1] (1996)(Michael Stein) [Action].zip
+tdc_id: '5389.1'
+title:
+  screen: Whack a Mole
+publisher: Michael Stein
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:23:26'
+  last_modified: '2019-03-02T10:23:26'
+type: zip
+tags:
+- Alternate: 1
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 28
+  date: '2018-03-13T01:30:00'
+  crc: '0x34f61897'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: WAKAMOLE.BAS
+  size: 3431
+  date: '2018-11-23T10:57:32'
+  crc: '0xddf232e3'

@@ -1,0 +1,25 @@
+filename: Jailbreak (2001)(TasmBoy) [Adventure, Interactive Fiction].zip
+tdc_id: '4701.0'
+title:
+  screen: Jailbreak
+publisher: TasmBoy
+year: '2001'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T10:55:20'
+  last_modified: '2019-03-02T10:55:20'
+type: zip
+commands:
+  play: jailbreak.com
+files:
+- name: jailbreak.com
+  size: 1024
+  date: '2001-11-25T21:44:34'
+  crc: '0x1b4c3b7f'
+- name: texta.asm
+  size: 4611
+  date: '2001-12-03T16:51:54'
+  crc: '0x76b7b984'

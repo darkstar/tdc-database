@@ -1,0 +1,30 @@
+filename: Big Top [DC][a1] (1983)(Funtastic, Inc.) [Action].zip
+tdc_id: '5195.2'
+title:
+  box: Big Top
+publisher: Funtastic, Inc.
+year: '1983'
+genre: Action
+language: English
+date:
+  added: '2019-04-19T15:44:04'
+  last_modified: '2019-04-19T15:44:04'
+type: zip
+tags:
+- DOSConversion
+- Alternate: 1
+commands:
+  play: START.COM
+files:
+- name: BIGTOP.DAT
+  size: 128000
+  date: '2007-10-09T16:29:46'
+  crc: '0xb8340cfa'
+- name: NOTE.TXT
+  size: 262
+  date: '2005-10-12T13:13:34'
+  crc: '0x5f9eee88'
+- name: START.COM
+  size: 1145
+  date: '2005-10-11T19:01:08'
+  crc: '0xeb3274ef'

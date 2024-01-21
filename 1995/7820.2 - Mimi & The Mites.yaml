@@ -1,0 +1,40 @@
+filename: Mimi & The Mites v1.01F (Installer) [SW] (1995)(Unobstructed Reason Corporation) [Action].zip
+tdc_id: '7820.2'
+title:
+  screen: Mimi & The Mites
+publisher: Unobstructed Reason Corporation
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2018-01-17T18:20:16'
+  last_modified: '2018-01-17T18:20:16'
+version: 1.01F
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK001.NID
+  size: 1325239
+  date: '1995-09-01T23:32:06'
+  crc: '0x58553aab'
+- name: FILE_ID.DIZ
+  size: 336
+  date: '1995-09-21T18:18:38'
+  crc: '0xb6d42770'
+- name: INSTALL.EXE
+  size: 34665
+  date: '1995-09-01T23:30:34'
+  crc: '0xbca126c0'
+- name: ORDER.FRM
+  size: 2101
+  date: '1995-09-01T23:27:46'
+  crc: '0xb4676ed2'
+- name: README.TXT
+  size: 37408
+  date: '1995-08-16T17:27:30'
+  crc: '0x6a2c1590'

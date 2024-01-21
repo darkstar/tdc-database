@@ -1,0 +1,44 @@
+filename: StarQuest- Rescue at Rigel (1983)(Epyx, Inc.) [Role-Playing (RPG)].zip
+tdc_id: '15577.0'
+title:
+  box: 'StarQuest: Rescue at Rigel'
+  screen: 'StarQuest: Rescue at Rigel'
+publisher: Epyx, Inc.
+year: '1983'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:23:20'
+  last_modified: '2019-03-01T18:23:20'
+type: zip
+media: Download
+commands:
+  play: Runme.bat
+references:
+  dosid: DOS05983
+  exodos: StarQuest - Rescue at Rigel (1983).zip
+files:
+- name: ATDAT.BIN
+  size: 5120
+  date: '1980-01-01T00:04:30'
+  crc: '0x93fc281d'
+- name: GRAPH.BIN
+  size: 1408
+  date: '1980-01-01T01:02:12'
+  crc: '0x914e947b'
+- name: RESDAT.BIN
+  size: 3968
+  date: '1983-03-22T00:00:00'
+  crc: '0x1c6bc48a'
+- name: RIGEL.BAS
+  size: 17536
+  date: '1980-01-01T01:33:40'
+  crc: '0x2b93f128'
+- name: Runme.bat
+  size: 19
+  date: '2001-05-31T06:04:52'
+  crc: '0x76120404'
+- name: gwbasic.exe
+  size: 66816
+  date: '2001-05-29T08:07:06'
+  crc: '0xef062ee7'

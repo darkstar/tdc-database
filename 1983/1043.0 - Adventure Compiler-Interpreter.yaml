@@ -1,0 +1,53 @@
+filename: Adventure Compiler-Interpreter (1983)(Peter F. Levy) [Interactive Fiction, Editor].zip
+tdc_id: '1043.0'
+title:
+  screen: Adventure Compiler-Interpreter
+publisher: Peter F. Levy
+year: '1983'
+genre:
+- Interactive Fiction
+- Editor
+language: English
+date:
+  added: '2019-03-01T18:23:06'
+  last_modified: '2019-03-01T18:23:06'
+type: zip
+commands:
+  play: ADVCOMP.EXE
+files:
+- name: ADVCOMP (ASCII).BAS
+  size: 13804
+  date: '2008-09-26T22:34:00'
+  crc: '0xc03aa00d'
+- name: ADVCOMP.BAS
+  size: 11270
+  date: '1984-04-24T23:20:58'
+  crc: '0xf5cba4f7'
+- name: ADVCOMP.DOC
+  size: 32256
+  date: '1986-03-29T18:13:22'
+  crc: '0x9a7d4328'
+- name: ADVCOMP.EXE
+  size: 38016
+  date: '1980-01-01T00:00:58'
+  crc: '0xe6a84811'
+- name: ADVDRVR (ASCII).BAS
+  size: 19082
+  date: '2008-09-26T22:34:48'
+  crc: '0x0ef279c6'
+- name: ADVDRVR.BAS
+  size: 14960
+  date: '1984-04-24T23:27:00'
+  crc: '0xacda5964'
+- name: STRANGE.ADV
+  size: 11392
+  date: '1986-03-29T18:13:24'
+  crc: '0xba0d1334'
+- name: STRANGER.DAT
+  size: 8960
+  date: '1984-06-23T01:59:22'
+  crc: '0x560e54bf'
+- name: STRANGER.REF
+  size: 8704
+  date: '1984-06-23T01:56:44'
+  crc: '0xdf96f2a2'

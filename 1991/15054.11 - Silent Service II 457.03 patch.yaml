@@ -1,0 +1,44 @@
+filename: Silent Service II 457.03 patch (1991)(MicroProse Software, Inc.) [Action, Simulation, Addon].zip
+tdc_id: '15054.11'
+title:
+  screen: Silent Service II 457.03 patch
+publisher: MicroProse Software, Inc.
+year: '1991'
+genre:
+- Action
+- Simulation
+- Addon
+language: English
+date:
+  added: '2023-06-04T19:14:28'
+  last_modified: '2023-06-04T19:14:28'
+type: zip
+media: Download
+patch: true
+references:
+  mobygames: https://www.mobygames.com/game/261/silent-service-ii/
+files:
+- name: HALL.BTL
+  size: 900
+  date: '1991-01-28T10:59:00'
+  crc: '0x95482ef3'
+- name: HALL.CPN
+  size: 900
+  date: '1991-01-28T10:59:06'
+  crc: '0xb233c54c'
+- name: HALL.WAR
+  size: 900
+  date: '1991-01-28T10:59:10'
+  crc: '0xf381fb45'
+- name: INSTALL.EXE
+  size: 17817
+  date: '1990-09-14T17:05:56'
+  crc: '0x8927083b'
+- name: READ.ME
+  size: 2705
+  date: '1991-02-12T09:28:46'
+  crc: '0x2567f5ce'
+- name: SS2.EXE
+  size: 205686
+  date: '1991-02-01T12:08:24'
+  crc: '0x6a93ab92'

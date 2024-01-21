@@ -1,0 +1,31 @@
+filename: Shape Shifter Adventure (Installer) (1995)(Eric Colomb) [Adventure, Interactive Fiction].zip
+tdc_id: '5923.1'
+title:
+  screen: Shape Shifter Adventure
+publisher: Eric Colomb
+year: '1995'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2012-07-05T12:27:02'
+  last_modified: '2012-07-05T12:27:02'
+type: zip
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 304
+  date: '1995-02-13T11:47:50'
+  crc: '0x65a0ba4c'
+- name: INSTALL.EXE
+  size: 286897
+  date: '1995-02-13T11:15:00'
+  crc: '0x67cc5c08'
+- name: INSTALL.TXT
+  size: 712
+  date: '1995-02-13T11:15:00'
+  crc: '0x3e01e5b0'

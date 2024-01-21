@@ -1,0 +1,52 @@
+filename: Holiday Lemmings 1994 v1.92 [a1] (1994)(Psygnosis Limited) [Strategy, Action].zip
+tdc_id: '8339.1'
+title:
+  box: Holiday Lemmings 1994
+publisher: Psygnosis Limited
+year: '1994'
+genre:
+- Strategy
+- Action
+language: English
+date:
+  added: '2019-03-01T22:00:44'
+  last_modified: '2019-03-01T22:00:44'
+version: '1.92'
+type: zip
+tags:
+- Alternate: 1
+commands:
+  play: VGALEMMI.EXE
+files:
+- name: ADLIB.DAT
+  size: 6894
+  date: '1994-10-22T00:00:00'
+  crc: '0xcfd4d0da'
+- name: GREET.DAT
+  size: 572
+  date: '1994-10-22T00:00:00'
+  crc: '0x2103cdfd'
+- name: GROUND2O.DAT
+  size: 1056
+  date: '1994-10-22T00:00:00'
+  crc: '0x792fa3d2'
+- name: LEVEL000.DAT
+  size: 962
+  date: '1994-10-22T00:00:00'
+  crc: '0x328749b2'
+- name: MAIN.DAT
+  size: 59116
+  date: '1994-10-22T00:00:00'
+  crc: '0x15f37242'
+- name: TANDYSND.DAT
+  size: 5470
+  date: '1994-10-22T00:00:00'
+  crc: '0xdb3e51ae'
+- name: VGAGR2.DAT
+  size: 33123
+  date: '1994-10-22T00:00:00'
+  crc: '0xe7832394'
+- name: VGALEMMI.EXE
+  size: 101562
+  date: '1994-10-22T00:00:00'
+  crc: '0x186f4000'

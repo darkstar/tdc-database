@@ -1,0 +1,37 @@
+filename: Ancient Empires v1.01 (1991)(The Learning Company) [Educational, Strategy].zip
+tdc_id: '5136.0'
+title:
+  box: Ancient Empires
+publisher: The Learning Company
+year: '1991'
+genre:
+- Educational
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:35:12'
+  last_modified: '2023-06-22T10:54:05'
+version: '1.01'
+type: zip
+commands:
+  play: AEPROG.EXE
+references:
+  dosid: DOS04967
+  exodos: Super Solvers Challenge of the Ancient Empires (1990).zip
+files:
+- name: AE.ICO
+  size: 766
+  date: '1992-09-21T09:11:38'
+  crc: '0xf9f1f0f6'
+- name: AE000.DAT
+  size: 227560
+  date: '2005-01-28T18:54:28'
+  crc: '0x6180521c'
+- name: AE001.DAT
+  size: 360674
+  date: '1992-09-21T09:12:08'
+  crc: '0x1e6f7967'
+- name: AEPROG.EXE
+  size: 79154
+  date: '1992-09-21T09:11:38'
+  crc: '0x94948d0d'

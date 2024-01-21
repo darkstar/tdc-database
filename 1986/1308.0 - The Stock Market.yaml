@@ -1,0 +1,30 @@
+filename: Stock Market, The (prototype) (1986)(Serengeti Enterprise) [Simulation, Strategy].zip
+tdc_id: '1308.0'
+title:
+  box: The Stock Market
+  qualifier: prototype
+publisher: Serengeti Enterprise
+year: '1986'
+genre:
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:24:58'
+  last_modified: '2019-03-01T18:24:58'
+type: zip
+commands:
+  play: STOCK.EXE
+files:
+- name: STOCK.DAT
+  size: 2816
+  date: '1986-04-27T15:26:10'
+  crc: '0x9a043819'
+- name: STOCK.DOC
+  size: 5760
+  date: '1986-04-27T15:26:10'
+  crc: '0x73eccc3e'
+- name: STOCK.EXE
+  size: 33664
+  date: '1986-04-27T15:26:10'
+  crc: '0x01b0b012'

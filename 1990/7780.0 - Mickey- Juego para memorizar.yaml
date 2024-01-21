@@ -1,0 +1,53 @@
+filename: Mickey- Juego para memorizar (Es) (1990)(Infogrames Entertainment SA) [Strategy, Educational].zip
+tdc_id: '7780.0'
+title:
+  box: 'Mickey: Juego para memorizar'
+publisher: Infogrames Entertainment SA
+year: '1990'
+genre:
+- Strategy
+- Educational
+language: Spanish
+date:
+  added: '2019-03-01T18:33:14'
+  last_modified: '2019-03-01T18:33:14'
+type: zip
+commands:
+  play: MICKEY.EXE
+files:
+- name: MAIN.PAK
+  size: 68338
+  date: '1999-12-14T00:58:48'
+  crc: '0x74b818c3'
+- name: MICKEY.EXE
+  size: 78336
+  date: '1999-12-14T00:58:48'
+  crc: '0xb1a106ab'
+- name: MICKEY.ICO
+  size: 766
+  date: '1999-12-14T00:58:48'
+  crc: '0xe961217a'
+- name: PARMS.DAT
+  size: 80
+  date: '1999-12-14T00:58:48'
+  crc: '0xe5c0be28'
+- name: SUBR.PAK
+  size: 43157
+  date: '1999-12-14T00:58:48'
+  crc: '0x64589249'
+- name: TILE_C.PAK
+  size: 35343
+  date: '1999-12-14T00:58:48'
+  crc: '0xdc612bde'
+- name: TILE_N.PAK
+  size: 28523
+  date: '1999-12-14T00:58:48'
+  crc: '0x25ea4bf7'
+- name: TILE_O.PAK
+  size: 28364
+  date: '1999-12-14T00:58:48'
+  crc: '0xdae6c333'
+- name: TILE_W.PAK
+  size: 28895
+  date: '1999-12-14T00:58:48'
+  crc: '0xe28ce3b6'

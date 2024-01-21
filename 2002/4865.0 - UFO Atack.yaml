@@ -1,0 +1,33 @@
+filename: UFO Atack (De)(En) (2002)(Daniel Nolting) [Action].zip
+tdc_id: '4865.0'
+title:
+  screen: UFO Atack
+publisher: Daniel Nolting
+year: '2002'
+genre: Action
+language:
+- English
+- German
+date:
+  added: '2019-03-02T10:56:18'
+  last_modified: '2019-03-02T10:56:18'
+type: zip
+commands:
+  play: UFO.EXE
+files:
+- name: HINAME.DAT
+  size: 82
+  date: '2002-10-28T17:42:46'
+  crc: '0xa40106a7'
+- name: HIPUNKTE.DAT
+  size: 79
+  date: '2002-10-28T17:42:14'
+  crc: '0xab2bb7cb'
+- name: UFO.EXE
+  size: 65556
+  date: '2002-10-28T17:34:00'
+  crc: '0x99169482'
+- name: sav.txt
+  size: 19
+  date: '2002-10-28T17:33:10'
+  crc: '0x2caa28d6'

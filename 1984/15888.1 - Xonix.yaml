@@ -1,0 +1,33 @@
+filename: Xonix [a1] (1984)(Ilan Rav) [Action].zip
+tdc_id: '15888.1'
+title:
+  screen: Xonix
+publisher: Ilan Rav
+year: '1984'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:20'
+  last_modified: '2019-03-01T18:24:20'
+type: zip
+tags:
+- Alternate: 1
+commands:
+  play: XONIX.EXE
+files:
+- name: BASRUN.EXE
+  size: 31744
+  date: '1982-05-07T12:00:04'
+  crc: '0x86bdc5f3'
+- name: HISCORES.XNX
+  size: 256
+  date: '1980-01-01T00:43:34'
+  crc: '0x6f50a0bf'
+- name: XONIX.BIN
+  size: 4104
+  date: '1984-02-22T15:11:22'
+  crc: '0x1f1ff4ed'
+- name: XONIX.EXE
+  size: 8576
+  date: '1989-10-10T00:01:12'
+  crc: '0x26813df4'

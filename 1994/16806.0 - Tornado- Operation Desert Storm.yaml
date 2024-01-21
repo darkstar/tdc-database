@@ -1,0 +1,27 @@
+filename: Tornado- Operation Desert Storm v1.0D (Installer) (1994)(Spectrum HoloByte, Inc.) [Simulation, Addon].zip
+tdc_id: '16806.0'
+title:
+  box: 'Tornado: Operation Desert Storm'
+publisher: Spectrum HoloByte, Inc.
+year: '1994'
+genre:
+- Simulation
+- Addon
+language: English
+date:
+  added: '2019-03-02T07:18:30'
+  last_modified: '2019-03-02T07:18:30'
+version: 1.0D
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: GULF.RNC
+  size: 1355179
+  date: '1994-01-19T17:09:30'
+  crc: '0x0cdd0b9b'
+- name: INSTALL.EXE
+  size: 20982
+  date: '1994-01-19T17:09:50'
+  crc: '0x660b6ab6'

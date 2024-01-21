@@ -1,0 +1,30 @@
+filename: Haunted Halloween (1994)(Jason Jackson) [Adventure, Interactive Fiction].zip
+tdc_id: '9601.0'
+title:
+  screen: Haunted Halloween
+publisher: Jason Jackson
+year: '1994'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T21:59:54'
+  last_modified: '2019-03-01T21:59:54'
+type: zip
+media: Download
+commands:
+  play: run.bat
+files:
+- name: HH22.BAS
+  size: 111931
+  date: '1996-06-05T10:05:50'
+  crc: '0xfb232360'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1995-07-11T10:50:00'
+  crc: '0x3152911c'
+- name: run.bat
+  size: 22
+  date: '2014-03-05T18:00:02'
+  crc: '0xde4c6f16'

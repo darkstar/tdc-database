@@ -1,0 +1,32 @@
+filename: C.I.A. Adventure [SW] (1982)(Pete Wohlmut) [Adventure, Interactive Fiction].zip
+tdc_id: '997.0'
+title:
+  screen: C.I.A. Adventure
+publisher: Pete Wohlmut
+year: '1982'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-09-02T05:03:32'
+  last_modified: '2019-09-02T05:03:32'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: CIAADVEN.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: CIAADVEN.BAS
+  size: 14592
+  date: '1982-11-27T12:00:00'
+  crc: '0x8e2fa73e'
+- name: CIAADVEN.BAT
+  size: 18
+  date: '1980-01-01T12:00:00'
+  crc: '0xf7ee3ed6'

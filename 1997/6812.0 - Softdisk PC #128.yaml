@@ -1,0 +1,27 @@
+filename: 'Softdisk PC #128 (Installer) (1997)(Softdisk Publishing) [Compilation].zip'
+tdc_id: '6812.0'
+title:
+  box: 'Softdisk PC #128'
+publisher: Softdisk Publishing
+year: '1997'
+genre: Compilation
+language: English
+date:
+  added: '2019-03-02T10:37:54'
+  last_modified: '2019-03-02T10:37:54'
+type: zip
+installer: true
+compilation: true
+files:
+- name: CHECKFOR.EXE
+  size: 3366
+  date: '1995-08-16T06:24:34'
+  crc: '0x655783b3'
+- name: GO.BAT
+  size: 524
+  date: '1997-03-04T10:16:30'
+  crc: '0xb4add05f'
+- name: SD128INS.EXE
+  size: 1424869
+  date: '1997-03-12T09:47:42'
+  crc: '0x952f94b7'

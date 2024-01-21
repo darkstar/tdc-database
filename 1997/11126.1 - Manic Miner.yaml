@@ -1,0 +1,54 @@
+filename: Manic Miner v1.51 [FW] (1997)(Andy Noble) [Action].zip
+tdc_id: '11126.1'
+title:
+  screen: Manic Miner
+publisher: Andy Noble
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:35:36'
+  last_modified: '2019-03-02T10:35:36'
+version: '1.51'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: MANIC.EXE
+references:
+  dosid: DOS03342
+  exodos: Manic Miner (1997).zip
+files:
+- name: LICENSE.TXT
+  size: 4932
+  date: '1997-08-18T21:03:36'
+  crc: '0x80ea895d'
+- name: MANIC.EXE
+  size: 443439
+  date: '1998-09-26T17:14:18'
+  crc: '0xf5d8e380'
+- name: MM-CONF.CFG
+  size: 8
+  date: '1998-11-21T19:28:44'
+  crc: '0xb82c2774'
+- name: MM-DATA1.DAT
+  size: 48722
+  date: '1997-09-20T10:36:36'
+  crc: '0xa783e64c'
+- name: MM-DATA2.DAT
+  size: 1121
+  date: '1997-09-20T19:15:18'
+  crc: '0xf6c630b3'
+- name: MM-DATA3.DAT
+  size: 2383
+  date: '1997-09-21T14:29:34'
+  crc: '0x96da1b24'
+- name: MM-DATA4.DAT
+  size: 2790
+  date: '1997-09-21T14:29:24'
+  crc: '0x41fd1ed3'
+- name: README.TXT
+  size: 12353
+  date: '1998-09-26T17:16:12'
+  crc: '0x405f5ddf'

@@ -1,0 +1,106 @@
+filename: Brzdąc v1.0 (Pl) (1995)(TimSoft) [Educational].zip
+tdc_id: '8868.0'
+title:
+  screen: Brzdąc
+publisher: TimSoft
+year: '1995'
+genre: Educational
+language: Polish
+date:
+  added: '2019-03-02T07:30:44'
+  last_modified: '2022-11-01T11:00:46'
+version: '1.0'
+type: zip
+commands:
+  play: START.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/brzdc
+files:
+- name: BRZDAC.PIF
+  size: 545
+  date: '2017-05-26T18:25:52'
+  crc: '0x3c9a40fa'
+- name: CZYTAJ\AUTOEXEC.001
+  size: 197
+  date: '2017-05-26T18:26:34'
+  crc: '0x1e3547d8'
+- name: CZYTAJ\CONFIG.001
+  size: 212
+  date: '2017-05-26T18:26:34'
+  crc: '0x8d794d68'
+- name: CZYTAJ\CZYTAJ.TXT
+  size: 3411
+  date: '2017-05-26T18:26:34'
+  crc: '0x0fe92e4f'
+- name: DANE\BRZDAC.ICO
+  size: 766
+  date: '2017-05-26T18:26:34'
+  crc: '0x39bf9eba'
+- name: DANE\DANE.001
+  size: 690411
+  date: '2017-05-26T18:26:16'
+  crc: '0x0b9fb376'
+- name: DANE\DANE.002
+  size: 1600
+  date: '2017-05-26T18:26:16'
+  crc: '0x1d6762ae'
+- name: DANE\DANE.003
+  size: 219239
+  date: '2017-05-26T18:26:20'
+  crc: '0xd284e476'
+- name: DANE\DANE.004
+  size: 22081
+  date: '2017-05-26T18:26:20'
+  crc: '0xaf44381f'
+- name: DANE\DANE.005
+  size: 74273
+  date: '2017-05-26T18:26:20'
+  crc: '0x2ab6d459'
+- name: DANE\DANE.006
+  size: 300741
+  date: '2017-05-26T18:26:24'
+  crc: '0x6f5f1f3a'
+- name: DANE\DANE.007
+  size: 124306
+  date: '2017-05-26T18:26:26'
+  crc: '0xe1fd998b'
+- name: DANE\DANE.008
+  size: 98836
+  date: '2017-05-26T18:26:28'
+  crc: '0x83dfec20'
+- name: DANE\DANE.009
+  size: 92825
+  date: '2017-05-26T18:26:30'
+  crc: '0x1426e884'
+- name: DANE\DANE.010
+  size: 103468
+  date: '2017-05-26T18:26:32'
+  crc: '0x061ed3cd'
+- name: DANE\DANE.011
+  size: 86907
+  date: '2017-05-26T18:26:34'
+  crc: '0xe588071f'
+- name: DANE\DANE.012
+  size: 3648
+  date: '2017-05-26T18:26:34'
+  crc: '0x7a024ac4'
+- name: DANE\DANE.013
+  size: 375
+  date: '2017-05-26T18:26:34'
+  crc: '0x7af07ba9'
+- name: DANE\DANE.CFG
+  size: 10
+  date: '2017-05-26T18:26:40'
+  crc: '0x3eaceb66'
+- name: DANE\DANE.SUM
+  size: 19
+  date: '2017-05-26T18:26:34'
+  crc: '0x5c297c41'
+- name: MUZYKA.EXE
+  size: 15002
+  date: '2017-05-26T18:26:34'
+  crc: '0xada739ab'
+- name: START.EXE
+  size: 65605
+  date: '2017-05-26T18:25:52'
+  crc: '0xcae0dab9'

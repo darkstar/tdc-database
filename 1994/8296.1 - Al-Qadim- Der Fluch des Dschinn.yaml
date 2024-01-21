@@ -1,0 +1,61 @@
+filename: Al-Qadim- Der Fluch des Dschinn v1.2 (Installer) (De) (1994)(Softgold Computerspiele GmbH) [Action, Role-Playing (RPG)].zip
+tdc_id: '8296.1'
+title:
+  box: 'Al-Qadim: Der Fluch des Dschinn'
+publisher: Softgold Computerspiele GmbH
+year: '1994'
+genre:
+- Action
+- Role-Playing (RPG)
+language: German
+date:
+  added: '2019-09-11T22:48:06'
+  last_modified: '2022-11-15T14:58:14'
+version: '1.2'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/al-qadim-the-genies-curse
+files:
+- name: BOOT.NFO
+  size: 29
+  date: '1994-10-07T15:57:22'
+  crc: '0x259366c7'
+- name: DATA.A00
+  size: 1367644
+  date: '1994-10-07T15:57:22'
+  crc: '0xf23f5dc8'
+- name: DATA.A01
+  size: 1457640
+  date: '1994-10-07T15:00:10'
+  crc: '0x18403c4b'
+- name: DATA.A02
+  size: 1457625
+  date: '1994-10-07T15:00:10'
+  crc: '0xfc341411'
+- name: DATA.A03
+  size: 1457659
+  date: '1994-10-07T15:00:10'
+  crc: '0xc08b5066'
+- name: DATA.A04
+  size: 1013938
+  date: '1994-10-07T15:00:10'
+  crc: '0xf16efde8'
+- name: DEARJ.EXE
+  size: 39441
+  date: '1994-10-07T15:57:22'
+  crc: '0x284b68d2'
+- name: INSTALL.EXE
+  size: 46879
+  date: '1994-10-07T15:57:22'
+  crc: '0x1299fae6'
+- name: INSTALL.NFO
+  size: 494
+  date: '1994-10-07T15:57:22'
+  crc: '0x0bb0e67b'
+- name: README.TXT
+  size: 1976
+  date: '1994-09-22T14:43:48'
+  crc: '0xbfa3a16b'

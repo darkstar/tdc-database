@@ -1,0 +1,41 @@
+filename: Dark Sun- Shattered Lands v1.1 (Installer) (1995)(Strategic Simulations, Inc.) [Role-Playing (RPG)].zip
+tdc_id: '12935.3'
+title:
+  box: 'Dark Sun: Shattered Lands'
+publisher: Strategic Simulations, Inc.
+year: '1995'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2020-05-15T09:04:06'
+  last_modified: '2020-05-15T09:04:06'
+version: '1.1'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: BOOT.NFO
+  size: 215
+  date: '1995-03-29T10:46:06'
+  crc: '0xdfeb72e5'
+- name: DATA.A00
+  size: 15291289
+  date: '1995-04-05T14:38:50'
+  crc: '0x12e563b2'
+- name: DEARJ.EXE
+  size: 39441
+  date: '1993-03-19T16:18:52'
+  crc: '0x284b68d2'
+- name: HELP.TXT
+  size: 8456
+  date: '1995-02-02T15:15:56'
+  crc: '0x229f8347'
+- name: INSTALL.EXE
+  size: 143670
+  date: '1995-02-17T16:58:04'
+  crc: '0xa14124b3'
+- name: INSTALL.NFO
+  size: 453
+  date: '1995-03-01T11:54:10'
+  crc: '0x350efaf6'

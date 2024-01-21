@@ -1,0 +1,78 @@
+filename: Follow the Reader (Installer) (1992)(Walt Disney Computer Software, Inc.) [Educational].zip
+tdc_id: '13702.2'
+title:
+  box: Follow the Reader
+publisher: Walt Disney Computer Software, Inc.
+year: '1992'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T18:44:48'
+  last_modified: '2019-03-01T18:44:48'
+type: zip
+installer: true
+files:
+- name: DATA\
+  size: 0
+  date: '1992-08-18T15:52:04'
+- name: DATA\DISK1.CN_
+  size: 1008119
+  date: '1992-10-01T00:00:00'
+  crc: '0x358043fe'
+- name: DATA\DISK2.CN_
+  size: 1422592
+  date: '1992-10-01T00:00:00'
+  crc: '0x231690bf'
+- name: DATA\DISK3.CN_
+  size: 510018
+  date: '1992-10-01T00:00:00'
+  crc: '0x8df15a73'
+- name: DISK1.ID
+  size: 1
+  date: '1992-10-01T12:00:00'
+  crc: '0xd202ef8d'
+- name: DISK2.ID
+  size: 1
+  date: '1992-10-01T00:00:00'
+  crc: '0xd202ef8d'
+- name: DISK3.ID
+  size: 1
+  date: '1992-10-01T00:00:00'
+  crc: '0xd202ef8d'
+- name: INSTALL.CFG
+  size: 328
+  date: '1992-10-01T12:00:00'
+  crc: '0x9ce6c81a'
+- name: INSTALL.EXE
+  size: 45547
+  date: '1992-10-01T12:00:00'
+  crc: '0xc37ebb78'
+- name: MREGA.EXE
+  size: 124052
+  date: '1992-10-01T12:00:00'
+  crc: '0x92f514e5'
+- name: MRMCGA.EXE
+  size: 116807
+  date: '1992-10-01T12:00:00'
+  crc: '0xcb9fc3db'
+- name: MRTDY.EXE
+  size: 118688
+  date: '1992-10-01T12:00:00'
+  crc: '0x4ebea7f4'
+- name: READER.COM
+  size: 7979
+  date: '1992-10-01T12:00:00'
+  crc: '0xa2d49879'
+- name: READER1
+  size: 0
+  date: '1992-08-18T16:16:28'
+- name: READER2
+  size: 0
+  date: '1992-08-18T16:16:16'
+- name: READER3
+  size: 0
+  date: '1992-08-18T17:03:36'
+- name: SETUP.BAT
+  size: 16
+  date: '1992-10-01T12:00:00'
+  crc: '0x33b9a3ee'

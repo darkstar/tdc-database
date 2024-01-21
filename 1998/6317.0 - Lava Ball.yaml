@@ -1,0 +1,32 @@
+filename: Lava Ball (De) (1998)(Ingo Ruhnke) [Action].zip
+tdc_id: '6317.0'
+title:
+  screen: Lava Ball
+publisher: Ingo Ruhnke
+year: '1998'
+genre: Action
+language: German
+date:
+  added: '2019-03-02T10:42:16'
+  last_modified: '2019-03-02T10:42:16'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 25
+  date: '2018-11-24T17:26:36'
+  crc: '0x6480e3fb'
+- name: HIGH.SCR
+  size: 55
+  date: '1996-06-24T21:15:50'
+  crc: '0x1a386845'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: SPIEL.BAS
+  size: 13907
+  date: '1998-03-28T22:50:10'
+  crc: '0x6ed1b21a'

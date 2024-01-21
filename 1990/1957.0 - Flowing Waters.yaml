@@ -1,0 +1,31 @@
+filename: Flowing Waters [SW] (1990)(Rick Ryan) [Action, Strategy].zip
+tdc_id: '1957.0'
+title:
+  screen: Flowing Waters
+publisher: Rick Ryan
+year: '1990'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:32:38'
+  last_modified: '2019-03-01T18:32:38'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: WATER.EXE
+references:
+  dosid: DOS15393
+  exodos: Flowing Waters (1990).zip
+files:
+- name: WATER.DOC
+  size: 4799
+  date: '1990-09-18T16:56:10'
+  crc: '0xa561d2a9'
+- name: WATER.EXE
+  size: 36252
+  date: '1990-09-18T16:56:46'
+  crc: '0x794888c3'

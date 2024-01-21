@@ -1,0 +1,26 @@
+filename: Hell Fire (1989)(D.Trivett) [Action].zip
+tdc_id: '1714.0'
+title:
+  screen: Hell Fire
+publisher: D.Trivett
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:27:56'
+  last_modified: '2019-03-01T18:27:56'
+type: zip
+commands:
+  play: HELLFIRE.EXE
+references:
+  dosid: DOS15436
+  exodos: Hell Fire (1989).zip
+files:
+- name: HELLFIRE.EXE
+  size: 41632
+  date: '1989-07-21T13:00:32'
+  crc: '0x37c860af'
+- name: SPRITES.DAT
+  size: 15646
+  date: '1989-07-20T11:36:08'
+  crc: '0x2c9ca99d'

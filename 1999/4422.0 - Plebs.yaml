@@ -1,0 +1,51 @@
+filename: Plebs (1999)(Duncan Scott) [Action].zip
+tdc_id: '4422.0'
+title:
+  screen: Plebs
+publisher: Duncan Scott
+year: '1999'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:46:20'
+  last_modified: '2019-03-02T10:46:20'
+type: zip
+commands:
+  play: PLEBS.EXE
+files:
+- name: ADLIB.BI
+  size: 8654
+  date: '1999-12-03T23:26:28'
+  crc: '0xa2ef1ad7'
+- name: ADLIB.LIB
+  size: 30349
+  date: '1999-11-20T17:22:50'
+  crc: '0x27dce98a'
+- name: ADLIB.QLB
+  size: 34120
+  date: '1999-11-20T17:22:52'
+  crc: '0xba3cec2f'
+- name: AIMS.PLB
+  size: 1279
+  date: '1999-12-06T08:33:18'
+  crc: '0x23a1d747'
+- name: GRAPHICS.GFX
+  size: 41883
+  date: '1999-12-06T08:05:28'
+  crc: '0x69da0416'
+- name: MENU.PLB
+  size: 2498
+  date: '1999-12-06T08:36:32'
+  crc: '0x9a2f2135'
+- name: PLEBS.BAS
+  size: 43760
+  date: '1980-01-04T10:42:36'
+  crc: '0x175d6931'
+- name: PLEBS.EXE
+  size: 103722
+  date: '1980-01-04T10:42:40'
+  crc: '0x444b36a5'
+- name: PLEBS.RGB
+  size: 768
+  date: '1999-12-03T16:43:46'
+  crc: '0x28b2f48a'

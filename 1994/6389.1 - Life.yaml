@@ -1,0 +1,53 @@
+filename: Life v1.06 [SW][a1] (1994)(Al Hensel) [Simulation, Educational].zip
+tdc_id: '6389.1'
+title:
+  screen: Life
+publisher: Al Hensel
+year: '1994'
+genre:
+- Simulation
+- Educational
+language: English
+date:
+  added: '2016-02-17T10:08:58'
+  last_modified: '2016-02-17T10:08:58'
+version: '1.06'
+type: zip
+tags:
+- Shareware
+- Alternate: 1
+media: Download
+commands:
+  play: LIFE.EXE
+references:
+  dosid: DOS01518
+  exodos: Conway's Game of Life (1996).zip
+files:
+- name: FILE_ID.DIZ
+  size: 465
+  date: '1994-06-25T01:30:52'
+  crc: '0x9dd676f3'
+- name: LIFE.EXE
+  size: 61352
+  date: '1994-06-03T22:42:40'
+  crc: '0xd7c4da36'
+- name: LIFE.ICO
+  size: 766
+  date: '1994-05-01T17:27:50'
+  crc: '0xaf184318'
+- name: LIFE106.DOC
+  size: 26625
+  date: '1994-06-03T22:37:24'
+  crc: '0x92fe883f'
+- name: LIFEP.ZIP
+  size: 165863
+  date: '1994-05-19T22:42:54'
+  crc: '0x01577414'
+- name: LIFEPW.ZIP
+  size: 16275
+  date: '1994-05-01T23:43:42'
+  crc: '0x3b3d4e53'
+- name: READ.ME
+  size: 150
+  date: '1994-06-24T22:36:46'
+  crc: '0x10091a84'

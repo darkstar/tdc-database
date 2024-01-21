@@ -1,0 +1,37 @@
+filename: Qbasic TANK COMMANDER v2 (1999)(Matthew River Knight) [Action].zip
+tdc_id: '4435.0'
+title:
+  screen: Qbasic TANK COMMANDER
+publisher: Matthew River Knight
+year: '1999'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:46:22'
+  last_modified: '2019-03-02T10:46:22'
+version: '2'
+type: zip
+media: Download
+commands:
+  play: start.bat
+files:
+- name: Arena.bsv
+  size: 65542
+  date: '1999-07-25T05:21:50'
+  crc: '0x45bde5b7'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1995-07-11T10:50:00'
+  crc: '0x3152911c'
+- name: Sprites.bsv
+  size: 65542
+  date: '1999-07-31T14:02:20'
+  crc: '0xb9029d0b'
+- name: Tcv2.bas
+  size: 14906
+  date: '1999-09-10T02:23:58'
+  crc: '0x5dacf49a'
+- name: start.bat
+  size: 22
+  date: '2014-03-19T17:35:34'
+  crc: '0xcc5c5cba'

@@ -1,0 +1,32 @@
+filename: Mystery Mansion (2001)(Bob Sorem) [Adventure, Interactive Fiction].zip
+tdc_id: '8002.0'
+title:
+  screen: Mystery Mansion
+publisher: Bob Sorem
+year: '2001'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T10:55:32'
+  last_modified: '2019-03-02T10:55:32'
+type: zip
+commands:
+  play: MMM.EXE
+references:
+  dosid: DOS03682
+  exodos: Mystery Mansion (2001).zip
+files:
+- name: MANSION.ICO
+  size: 766
+  date: '1999-12-29T05:10:16'
+  crc: '0xcbeaa898'
+- name: MMM.EXE
+  size: 154658
+  date: '2003-09-10T10:36:18'
+  crc: '0x4186a712'
+- name: MMMEXPL.TXT
+  size: 3128
+  date: '2000-01-05T02:53:20'
+  crc: '0x90ca0b9c'

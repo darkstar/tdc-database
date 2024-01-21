@@ -1,0 +1,28 @@
+filename: Lunar Transport v1.1 (1989)(Anne C. Jolly) [Action].zip
+tdc_id: '1741.0'
+title:
+  screen: Lunar Transport
+publisher: Anne C. Jolly
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:28:14'
+  last_modified: '2019-03-01T18:28:14'
+version: '1.1'
+type: zip
+commands:
+  play: LUNAR.EXE
+files:
+- name: LUNAR.DOC
+  size: 272
+  date: '1989-01-06T13:23:28'
+  crc: '0x8db8b63d'
+- name: LUNAR.EXE
+  size: 49056
+  date: '1989-01-25T12:42:38'
+  crc: '0x96547541'
+- name: LUNAR.HIS
+  size: 230
+  date: '1989-01-25T12:41:46'
+  crc: '0x76d88a85'

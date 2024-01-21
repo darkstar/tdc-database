@@ -1,0 +1,59 @@
+filename: Reederei (De) (1990)(Art Edition) [Simulation].zip
+tdc_id: '2063.0'
+title:
+  screen: Reederei
+publisher: Art Edition
+year: '1990'
+genre: Simulation
+language: German
+date:
+  added: '2021-12-12T05:27:34'
+  last_modified: '2021-12-12T05:27:34'
+type: zip
+commands:
+  play: REEDEREI.EXE
+files:
+- name: AED.CGA
+  size: 4245
+  date: '1988-06-05T19:45:52'
+  crc: '0xcb200418'
+- name: AED.EGA
+  size: 8479
+  date: '1988-05-29T01:30:48'
+  crc: '0x1ff7056d'
+- name: APIC.CGA
+  size: 16011
+  date: '1986-02-06T09:03:02'
+  crc: '0x399d20f3'
+- name: APIC.EGA
+  size: 32011
+  date: '1986-02-06T08:13:00'
+  crc: '0x85bcd324'
+- name: BPIC.CGA
+  size: 16011
+  date: '1986-02-06T08:11:36'
+  crc: '0x635f23fc'
+- name: BPIC.EGA
+  size: 32011
+  date: '1986-02-06T08:13:32'
+  crc: '0xa231d0fc'
+- name: DPIC.CGA
+  size: 16011
+  date: '1986-02-06T08:12:00'
+  crc: '0x4414ab41'
+- name: DPIC.EGA
+  size: 32011
+  date: '1986-02-06T08:14:02'
+  crc: '0x5bd175f8'
+- name: REEDEREI.EXE
+  size: 122808
+  date: '1990-12-07T21:58:02'
+  crc: '0xe0c34bdd'
+- name: W_KARTE.CGA
+  size: 16011
+  date: '1986-02-06T08:12:30'
+  crc: '0x3df1ee8a'
+- name: W_KARTE.EGA
+  size: 32011
+  date: '1986-02-06T08:14:36'
+  crc: '0x154510e7'

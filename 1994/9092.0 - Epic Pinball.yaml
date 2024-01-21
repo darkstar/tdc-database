@@ -1,0 +1,47 @@
+filename: Epic Pinball (Installer) [SW] (1994)(Epic MegaGames, Inc.) [Action].zip
+tdc_id: '9092.0'
+title:
+  screen: Epic Pinball
+publisher: Epic MegaGames, Inc.
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T21:56:32'
+  last_modified: '2019-03-01T21:56:32'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: EPICPCX2.X00
+  size: 77
+  date: '1994-07-13T14:43:08'
+  crc: '0x2dd9aeeb'
+- name: EPICPCX2.Z01
+  size: 525355
+  date: '1994-07-13T14:42:40'
+  crc: '0x61220128'
+- name: INSTALL.BIN
+  size: 4000
+  date: '1994-03-18T12:45:30'
+  crc: '0x75d92d0d'
+- name: INSTALL.DAT
+  size: 23
+  date: '1994-07-13T14:43:08'
+  crc: '0xa664cd07'
+- name: INSTALL.EXE
+  size: 21264
+  date: '1994-06-03T14:37:16'
+  crc: '0x9b970def'
+- name: PINSW.X00
+  size: 86
+  date: '1994-07-13T14:43:08'
+  crc: '0xddb901b4'
+- name: PINSW.Z01
+  size: 862070
+  date: '1994-07-13T14:42:54'
+  crc: '0xec17b666'

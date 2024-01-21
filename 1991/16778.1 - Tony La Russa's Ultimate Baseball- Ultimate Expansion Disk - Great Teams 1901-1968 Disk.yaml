@@ -1,0 +1,30 @@
+filename: Tony La Russa's Ultimate Baseball- Ultimate Expansion Disk - Great Teams 1901-1968 Disk (Installer) [a1] (1991)(Strategic Simulations, Inc.) [Sports, Addon].zip
+tdc_id: '16778.1'
+title:
+  box: 'Tony La Russa''s Ultimate Baseball: Ultimate Expansion Disk - Great Teams 1901-1968 Disk'
+publisher: Strategic Simulations, Inc.
+year: '1991'
+genre:
+- Sports
+- Addon
+language: English
+date:
+  added: '2019-03-01T18:39:48'
+  last_modified: '2022-11-23T10:04:06'
+type: zip
+tags:
+- Alternate: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/tony-la-russas-ultimate-baseball-ultimate-expansion-disk-great-t
+files:
+- name: GREATTMS.EXE
+  size: 66610
+  date: '1991-09-10T16:23:52'
+  crc: '0x45066bba'
+- name: INSTALL.EXE
+  size: 12689
+  date: '1991-09-06T15:51:26'
+  crc: '0x11780147'

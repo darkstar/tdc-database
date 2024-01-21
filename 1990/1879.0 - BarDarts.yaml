@@ -1,0 +1,48 @@
+filename: BarDarts v1.1 [SW] (1990)(Michael Fisher) [Simulation, Sports].zip
+tdc_id: '1879.0'
+title:
+  screen: BarDarts
+publisher: Michael Fisher
+year: '1990'
+genre:
+- Simulation
+- Sports
+language: English
+date:
+  added: '2019-03-01T18:31:50'
+  last_modified: '2019-03-01T18:31:50'
+version: '1.1'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: BDARTS1.EXE
+references:
+  dosid: DOS06717
+  exodos: Bardarts (1990).zip
+files:
+- name: BAR801.PNT
+  size: 75064
+  date: '1991-03-12T21:08:36'
+  crc: '0x0f84dce3'
+- name: BARDARTS.DOC
+  size: 3131
+  date: '1991-07-15T12:00:00'
+  crc: '0x289699fe'
+- name: BDARTS1.EXE
+  size: 77220
+  date: '1991-07-15T12:00:00'
+  crc: '0xc3e11d90'
+- name: DART250.PPP
+  size: 44274
+  date: '1991-03-05T20:12:40'
+  crc: '0x3bf31484'
+- name: DARTMET.PNT
+  size: 1579
+  date: '1991-07-15T12:00:00'
+  crc: '0x6f1b2538'
+- name: LOGO2.PNT
+  size: 2580
+  date: '1991-05-04T20:55:02'
+  crc: '0xde21b9ac'

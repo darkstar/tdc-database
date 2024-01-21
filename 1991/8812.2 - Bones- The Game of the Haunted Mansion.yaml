@@ -1,0 +1,57 @@
+filename: Bones- The Game of the Haunted Mansion v3.8c (1991)(Bruce N. Baker) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '8812.2'
+title:
+  screen: 'Bones: The Game of the Haunted Mansion'
+publisher: Bruce N. Baker
+year: '1991'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:35:04'
+  last_modified: '2019-03-01T18:35:04'
+version: 3.8c
+type: zip
+commands:
+  play: BONES.EXE
+references:
+  dosid: DOS01142
+  exodos: Bones - The Game of the Haunted Mansion (1991).zip
+files:
+- name: BONE.D1
+  size: 18056
+  date: '1991-11-24T23:53:16'
+  crc: '0xd55eed1b'
+- name: BONE.D2
+  size: 17944
+  date: '1991-11-25T00:05:54'
+  crc: '0x706f5bd7'
+- name: BONE.D3
+  size: 17969
+  date: '1991-11-25T00:03:22'
+  crc: '0x2c5fee93'
+- name: BONEHIGH.DAT
+  size: 71
+  date: '1991-11-25T02:58:48'
+  crc: '0x91239839'
+- name: BONEINFO
+  size: 1094
+  date: '1991-11-24T23:57:46'
+  crc: '0x448aa4e6'
+- name: BONES.DOC
+  size: 16943
+  date: '1991-11-16T16:38:32'
+  crc: '0xf6be10b6'
+- name: BONES.EXE
+  size: 136488
+  date: '1991-11-25T02:51:48'
+  crc: '0xff084627'
+- name: ROMAN.FON
+  size: 11120
+  date: '1987-11-12T13:27:10'
+  crc: '0xb2a89c7c'
+- name: WHATS.NEW
+  size: 1664
+  date: '1991-11-25T02:58:36'
+  crc: '0xbbbaeb89'

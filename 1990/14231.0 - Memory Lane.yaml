@@ -1,0 +1,35 @@
+filename: Memory Lane v2.1 (1990)(Stone & Associates, Nighthawk Computing) [Strategy, Educational].zip
+tdc_id: '14231.0'
+title:
+  box: Memory Lane
+publisher: Stone & Associates, Nighthawk Computing
+year: '1990'
+genre:
+- Strategy
+- Educational
+language: English
+date:
+  added: '2020-03-24T11:30:36'
+  last_modified: '2023-12-29T16:21:13'
+version: '2.1'
+type: zip
+media: 360K
+commands:
+  play: MEMORYL.EXE
+files:
+- name: CGA.BGI
+  size: 6253
+  date: '1988-08-29T03:00:00'
+  crc: '0x17cbdd92'
+- name: EGAVGA.BGI
+  size: 5363
+  date: '1988-08-29T03:00:00'
+  crc: '0x06d36962'
+- name: MEMORYL.EXE
+  size: 229734
+  date: '1992-03-19T12:20:32'
+  crc: '0x7f31f69c'
+- name: VGA256.BGI
+  size: 3289
+  date: '1990-02-23T16:12:00'
+  crc: '0x55f0b0ba'

@@ -1,0 +1,102 @@
+filename: D-Generation (Installer) [a1][h1] (1991)(Mindscape, Inc.) [Action, Adventure, Strategy].zip
+tdc_id: '13133.5'
+title:
+  box: D/Generation
+publisher: Mindscape, Inc.
+year: '1991'
+genre:
+- Action
+- Adventure
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:35:30'
+  last_modified: '2019-03-01T18:35:30'
+type: zip
+tags:
+- Hack: 1
+- Alternate: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DG1.TZF
+  size: 309129
+  date: '1991-09-29T03:18:48'
+  crc: '0x448a3dc9'
+- name: DG2.TZF
+  size: 200094
+  date: '1991-09-29T04:02:18'
+  crc: '0xda587fbf'
+- name: DG3.TZF
+  size: 25394
+  date: '1991-09-29T03:21:40'
+  crc: '0x800250c6'
+- name: DG4.TZF
+  size: 46122
+  date: '1991-09-29T05:41:48'
+  crc: '0xc3654654'
+- name: DG5.TZF
+  size: 14901
+  date: '1991-09-29T03:22:14'
+  crc: '0xc79c916d'
+- name: DG6.TZF
+  size: 9411
+  date: '1991-09-29T03:20:26'
+  crc: '0x7c80cb0f'
+- name: DG7.TZF
+  size: 67347
+  date: '1991-09-29T03:17:14'
+  crc: '0x6e0f4447'
+- name: DG8.TZF
+  size: 9172
+  date: '1991-09-29T03:22:16'
+  crc: '0x18c3d9f8'
+- name: DG9.TZF
+  size: 8277
+  date: '1991-09-29T03:20:28'
+  crc: '0xb5be8210'
+- name: DGA.TZF
+  size: 22507
+  date: '1991-09-29T03:22:24'
+  crc: '0xcea0e2b4'
+- name: DGB.TZF
+  size: 6749
+  date: '1991-09-29T03:22:28'
+  crc: '0xf759c8b3'
+- name: DGC.TZF
+  size: 35520
+  date: '1991-09-29T03:22:48'
+  crc: '0x858a66d7'
+- name: DGD.TZF
+  size: 21055
+  date: '1991-09-29T03:21:24'
+  crc: '0x2452a072'
+- name: DGE.TZF
+  size: 93909
+  date: '1991-09-29T04:16:00'
+  crc: '0x01e4e5f6'
+- name: DGF.TZF
+  size: 16858
+  date: '1991-09-29T03:22:54'
+  crc: '0x7b9a11e2'
+- name: DGG.TZF
+  size: 7076
+  date: '1991-09-29T03:23:00'
+  crc: '0x350cd8d2'
+- name: DGH.TZF
+  size: 76958
+  date: '1991-09-29T04:16:56'
+  crc: '0x19e8c8d7'
+- name: DI1.QPZ
+  size: 4
+  date: '1991-09-29T05:47:04'
+  crc: '0x04e5916b'
+- name: DI2.QPZ
+  size: 4
+  date: '1991-09-29T06:01:14'
+  crc: '0x04e5916b'
+- name: INSTALL.EXE
+  size: 38638
+  date: '1992-03-17T01:35:52'
+  crc: '0x0af16c08'

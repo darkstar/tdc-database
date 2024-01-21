@@ -1,0 +1,32 @@
+filename: Freezer Frenzy (1989)(Mushroom Magic) [Action, Strategy].zip
+tdc_id: '1702.0'
+title:
+  screen: Freezer Frenzy
+publisher: Mushroom Magic
+year: '1989'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:27:46'
+  last_modified: '2019-03-01T18:27:46'
+type: zip
+commands:
+  play: SPONGS!.EXE
+references:
+  dosid: DOS15403
+  exodos: Freezer Frenzy (1989).zip
+files:
+- name: SPONGS!.DOC
+  size: 953
+  date: '1989-09-04T15:21:26'
+  crc: '0xe284fa23'
+- name: SPONGS!.EXE
+  size: 67584
+  date: '1989-09-04T16:27:22'
+  crc: '0x19ab4641'
+- name: SPONGS!.FOF
+  size: 314
+  date: '1990-02-22T13:19:44'
+  crc: '0x7b098c2e'

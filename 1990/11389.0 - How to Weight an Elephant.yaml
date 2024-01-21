@@ -1,0 +1,38 @@
+filename: How to Weight an Elephant (1990)(Softdisk Publishing) [Educational].zip
+tdc_id: '11389.0'
+title:
+  box: How to Weight an Elephant
+publisher: Softdisk Publishing
+year: '1990'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T18:32:50'
+  last_modified: '2019-03-01T18:32:50'
+type: zip
+commands:
+  play: WEIGH.EXE
+references:
+  dosid: DOS02659
+  exodos: How to Weigh an Elephant (1989).zip
+files:
+- name: HTWE.CGA
+  size: 50612
+  date: '1990-05-21T09:50:16'
+  crc: '0x68d2de09'
+- name: MENU.CGA
+  size: 10696
+  date: '1990-05-16T22:44:42'
+  crc: '0xc84d4ffe'
+- name: PANDA.CGA
+  size: 35505
+  date: '1990-05-21T09:53:36'
+  crc: '0x515222cc'
+- name: WEIGH.EXE
+  size: 6438
+  date: '1990-05-18T13:57:44'
+  crc: '0xa93d3f6c'
+- name: WEIGH.TXT
+  size: 2078
+  date: '1990-05-18T16:22:10'
+  crc: '0x18ae6ba6'

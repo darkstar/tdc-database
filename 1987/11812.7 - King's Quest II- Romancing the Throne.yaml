@@ -1,0 +1,93 @@
+filename: King's Quest II- Romancing the Throne v2.2 [a2] (1987)(Sierra On-Line, Inc.) [Adventure].zip
+tdc_id: '11812.7'
+title:
+  box: 'King''s Quest II: Romancing the Throne'
+publisher: Sierra On-Line, Inc.
+year: '1987'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:25:24'
+  last_modified: '2019-03-01T18:25:24'
+version: '2.2'
+type: zip
+tags:
+- Alternate: 2
+commands:
+  play: KQ2.EXE
+references:
+  dosid: DOS03011
+  exodos: King's Quest II - Romancing the Throne (1987).zip
+files:
+- name: AGIDATA.OVL
+  size: 7680
+  date: '1987-05-06T10:33:08'
+  crc: '0x451381ec'
+- name: CGA_GRAF.OVL
+  size: 1024
+  date: '1987-05-06T10:32:38'
+  crc: '0xed543aa5'
+- name: EGA_GRAF.OVL
+  size: 1024
+  date: '1987-05-06T10:32:38'
+  crc: '0x8e14b45e'
+- name: HGC_FONT
+  size: 3072
+  date: '1987-01-26T15:47:26'
+  crc: '0x200435c7'
+- name: HGC_GRAF.OVL
+  size: 1536
+  date: '1987-05-06T10:32:40'
+  crc: '0x4793a021'
+- name: HGC_OBJS.OVL
+  size: 1024
+  date: '1987-05-06T10:32:42'
+  crc: '0x73f6170f'
+- name: IBM_OBJS.OVL
+  size: 512
+  date: '1987-05-06T10:32:40'
+  crc: '0x143da6ff'
+- name: JR_GRAF.OVL
+  size: 512
+  date: '1987-05-06T10:32:38'
+  crc: '0xc49114dd'
+- name: KQ2.EXE
+  size: 38400
+  date: '1988-03-20T15:24:10'
+  crc: '0x7dcaac7a'
+- name: LOGDIR
+  size: 543
+  date: '1987-05-07T12:55:28'
+  crc: '0xa9a679c2'
+- name: OBJECT
+  size: 601
+  date: '1987-04-07T14:40:46'
+  crc: '0x3a3c3723'
+- name: PICDIR
+  size: 354
+  date: '1987-05-07T12:55:28'
+  crc: '0xa99b4b89'
+- name: SNDDIR
+  size: 135
+  date: '1987-05-07T12:55:28'
+  crc: '0x4c31249c'
+- name: VIEWDIR
+  size: 705
+  date: '1987-05-07T12:55:28'
+  crc: '0x9dcaadbd'
+- name: VOL.0
+  size: 47769
+  date: '1987-05-07T12:54:10'
+  crc: '0xec87d062'
+- name: VOL.1
+  size: 190509
+  date: '1987-05-07T12:54:44'
+  crc: '0xcd9efd72'
+- name: VOL.2
+  size: 247952
+  date: '1987-05-07T12:55:28'
+  crc: '0xbc52a0fd'
+- name: WORDS.TOK
+  size: 3516
+  date: '1987-04-06T14:57:16'
+  crc: '0x6cf8a510'

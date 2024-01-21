@@ -1,0 +1,32 @@
+filename: Rodney Rat (1994)(Jonathan Gray) [Strategy].zip
+tdc_id: '6520.0'
+title:
+  screen: Rodney Rat
+publisher: Jonathan Gray
+year: '1994'
+genre: Strategy
+language: English
+date:
+  added: '2019-01-27T13:57:56'
+  last_modified: '2019-01-27T13:57:56'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: FILE_ID.DIZ
+  size: 168
+  date: '1994-09-15T13:18:12'
+  crc: '0xe919a6ad'
+- name: GO.BAT
+  size: 23
+  date: '2019-01-27T20:09:30'
+  crc: '0xb80f94c0'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: RAT.BAS
+  size: 1933
+  date: '1994-09-15T12:36:32'
+  crc: '0xdbafd516'

@@ -1,0 +1,39 @@
+filename: Blake Stone- Aliens of Gold v3.00S (Installer) [SW][a1] (1994)(Apogee Software, Ltd.) [Action].zip
+tdc_id: '8484.26'
+title:
+  screen: 'Blake Stone: Aliens of Gold'
+publisher: Apogee Software, Ltd.
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-01-16T11:29:08'
+  last_modified: '2019-01-16T11:29:08'
+version: 3.00S
+type: zip
+tags:
+- Shareware
+- Alternate: 1
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/blake-stone-aliens-of-gold
+files:
+- name: BS_1BBS._1
+  size: 739328
+  date: '1994-11-01T15:00:00'
+  crc: '0xf15bba52'
+- name: BS_1BBS._2
+  size: 738996
+  date: '1994-11-01T15:00:00'
+  crc: '0xedeae9ef'
+- name: FILE_ID.DIZ
+  size: 495
+  date: '1994-11-01T15:00:00'
+  crc: '0x3f9a795d'
+- name: INSTALL.EXE
+  size: 34095
+  date: '1994-11-01T15:00:00'
+  crc: '0x6e033cc8'

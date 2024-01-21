@@ -1,0 +1,28 @@
+filename: QBasic Rockwars (1996)(Brennen Bearnes) [Strategy].zip
+tdc_id: '10776.0'
+title:
+  screen: QBasic Rockwars
+publisher: Brennen Bearnes
+year: '1996'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:16:14'
+  last_modified: '2019-03-02T10:16:14'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 28
+  date: '2018-04-12T17:27:20'
+  crc: '0x13e2d99c'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T01:28:02'
+  crc: '0x19f6ed75'
+- name: ROCKWARS.BAS
+  size: 13625
+  date: '2018-03-10T01:52:22'
+  crc: '0x6df5f7eb'

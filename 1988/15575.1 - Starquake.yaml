@@ -1,0 +1,29 @@
+filename: Starquake (demo) (1988)(ShareData, Inc.) [Action].zip
+tdc_id: '15575.1'
+title:
+  screen: Starquake
+  qualifier: demo
+publisher: ShareData, Inc.
+year: '1988'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:26:50'
+  last_modified: '2019-03-01T18:26:50'
+type: zip
+demo: true
+commands:
+  play: QUAKED.EXE
+files:
+- name: HISCORE
+  size: 243
+  date: '1980-01-01T00:00:00'
+  crc: '0x93af810c'
+- name: MAP.BIN
+  size: 17280
+  date: '1988-08-31T16:00:00'
+  crc: '0x74c3d722'
+- name: QUAKED.EXE
+  size: 90880
+  date: '1988-08-31T16:00:00'
+  crc: '0x25d9df84'

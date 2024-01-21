@@ -1,0 +1,72 @@
+filename: Qjak Entertainment Pack v2.0 (1997)(Jake Gustafson) [Action, Compilation].zip
+tdc_id: '4048.0'
+title:
+  screen: Qjak Entertainment Pack
+publisher: Jake Gustafson
+year: '1997'
+genre:
+- Action
+- Compilation
+language: English
+date:
+  added: '2019-03-02T10:37:00'
+  last_modified: '2019-03-02T10:37:00'
+version: '2.0'
+type: zip
+media: Download
+compilation: true
+commands:
+  play: GO.BAT
+files:
+- name: 256BLOCK.BAS
+  size: 2608
+  date: '1997-10-01T22:24:46'
+  crc: '0x896abe95'
+- name: BLOCK.ICO
+  size: 766
+  date: '1997-09-07T19:42:30'
+  crc: '0x6bc9f763'
+- name: CHECK.DID
+  size: 3
+  date: '1997-10-01T22:13:40'
+  crc: '0x8e51abd1'
+- name: GO.BAT
+  size: 28
+  date: '2018-11-26T19:58:40'
+  crc: '0xf3be49a3'
+- name: JAKDRAW.BAS
+  size: 18923
+  date: '1997-10-01T22:24:56'
+  crc: '0x38403690'
+- name: JAKSOUND.BAS
+  size: 10483
+  date: '1997-10-01T22:25:02'
+  crc: '0xc3720e23'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: QJAK.ICO
+  size: 766
+  date: '1997-09-01T16:15:32'
+  crc: '0x526e66d6'
+- name: QJAKMENU.BAS
+  size: 6652
+  date: '1997-10-01T22:25:08'
+  crc: '0x4074901b'
+- name: QUIET.JAK
+  size: 3
+  date: '1997-10-01T22:03:30'
+  crc: '0x8dd57fbf'
+- name: README QJAK.TXT
+  size: 1346
+  date: '1997-10-01T22:28:58'
+  crc: '0x74f9d064'
+- name: SPHEROID.BAS
+  size: 6346
+  date: '1997-10-01T22:25:14'
+  crc: '0x0bbe1a18'
+- name: SPHMENU.BAS
+  size: 4211
+  date: '1997-10-01T22:26:08'
+  crc: '0x7c12d67e'

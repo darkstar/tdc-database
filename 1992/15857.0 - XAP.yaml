@@ -1,0 +1,55 @@
+filename: XAP (demo) [SW] (1992)(Sean Wachob) [Action].zip
+tdc_id: '15857.0'
+title:
+  screen: XAP
+  qualifier: demo
+publisher: Sean Wachob
+year: '1992'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:52:36'
+  last_modified: '2019-03-01T18:52:36'
+type: zip
+tags:
+- Shareware
+demo: true
+commands:
+  play: XAP.EXE
+files:
+- name: DEMO.BGY
+  size: 11072
+  date: '1992-02-05T23:04:12'
+  crc: '0xa9ae7e04'
+- name: DEMO.BKG
+  size: 31788
+  date: '1992-01-16T22:03:44'
+  crc: '0x83bd0ebb'
+- name: DEMO.DAT
+  size: 800
+  date: '1992-02-08T11:29:28'
+  crc: '0x6b9a2545'
+- name: DEMO.EVT
+  size: 2944
+  date: '1992-02-08T11:27:22'
+  crc: '0xe12fee7d'
+- name: DEMO.MAP
+  size: 302
+  date: '1992-01-17T08:21:48'
+  crc: '0x603d7432'
+- name: DEMO.MUS
+  size: 39836
+  date: '1992-01-17T11:31:56'
+  crc: '0xb2922e90'
+- name: DEMO.PAL
+  size: 768
+  date: '1992-02-13T10:07:46'
+  crc: '0x5907be67'
+- name: DEMO.PAT
+  size: 2748
+  date: '1992-02-05T21:58:12'
+  crc: '0x710dbbc9'
+- name: XAP.EXE
+  size: 119587
+  date: '1992-02-13T22:47:22'
+  crc: '0x0171dc25'

@@ -1,0 +1,44 @@
+filename: Hat Trick (1987)(Capcom U.S.A., Inc.) [Sports][!].zip
+tdc_id: '9597.0'
+title:
+  box: Hat Trick
+publisher: Capcom U.S.A., Inc.
+year: '1987'
+genre: Sports
+language: English
+date:
+  added: '2019-03-01T18:25:22'
+  last_modified: '2019-03-01T18:25:22'
+type: zip
+tags:
+- KnownGood
+commands:
+  play: HAT.EXE
+references:
+  dosid: DOS02555
+  exodos: Hat Trick (1987).zip
+files:
+- name: CAPCOM.PIC
+  size: 16356
+  date: '1987-09-21T16:09:42'
+  crc: '0x78f9ba10'
+- name: HAT.EXE
+  size: 113949
+  date: '1987-09-25T20:55:52'
+  crc: '0xcd0eab3e'
+- name: HAT.EX_
+  size: 113949
+  date: '1987-09-25T20:55:52'
+  crc: '0x1708bc1d'
+- name: HTRICK.PIC
+  size: 16356
+  date: '1987-09-25T16:25:24'
+  crc: '0x013c3b13'
+- name: ICERINK.PIC
+  size: 16356
+  date: '1987-09-25T16:29:44'
+  crc: '0xe561c9ae'
+- name: LYNDON.PIC
+  size: 16356
+  date: '1987-09-25T16:27:54'
+  crc: '0x4290d7a6'

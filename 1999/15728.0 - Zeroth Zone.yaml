@@ -1,0 +1,39 @@
+filename: Zeroth Zone v1.2 (1999)(Binary Spells) [Action].zip
+tdc_id: '15728.0'
+title:
+  screen: Zeroth Zone
+publisher: Binary Spells
+year: '1999'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:47:20'
+  last_modified: '2019-03-02T10:47:20'
+version: '1.2'
+type: zip
+commands:
+  play: 0z.exe
+references:
+  dosid: DOS05802
+  exodos: Zeroth Zone (1999).zip
+files:
+- name: 0z.dat
+  size: 335296
+  date: '1999-05-26T12:16:52'
+  crc: '0x81f6aba1'
+- name: 0z.exe
+  size: 266752
+  date: '1999-08-08T14:21:00'
+  crc: '0x83f2bba3'
+- name: Cwsdpmi.doc
+  size: 7186
+  date: '1996-08-08T00:35:14'
+  crc: '0x9e137891'
+- name: Cwsdpmi.exe
+  size: 20217
+  date: '1996-08-18T20:46:18'
+  crc: '0x6ba5fa62'
+- name: Readme.txt
+  size: 4889
+  date: '1999-08-08T19:25:40'
+  crc: '0x0a571f25'

@@ -1,0 +1,29 @@
+filename: Monster Maze [h1] (1987)(Keypunch Software, Inc.) [Action].zip
+tdc_id: '5640.0'
+title:
+  box: Monster Maze
+publisher: Keypunch Software, Inc.
+year: '1987'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:25:28'
+  last_modified: '2019-03-01T18:25:28'
+type: zip
+tags:
+- Hack: 1
+commands:
+  play: MONSTER.EXE
+files:
+- name: MONSTER.DA1
+  size: 550
+  date: '2008-04-06T13:53:16'
+  crc: '0x24c91d0a'
+- name: MONSTER.DA3
+  size: 550
+  date: '1987-04-22T15:59:20'
+  crc: '0xc37db6d8'
+- name: MONSTER.EXE
+  size: 59774
+  date: '1987-04-21T19:44:00'
+  crc: '0x88a49b5a'

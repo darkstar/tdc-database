@@ -1,0 +1,32 @@
+filename: Subtrade- Return to Irata (Installer) (1992)(Boeder Games) [Strategy].zip
+tdc_id: '16231.1'
+title:
+  screen: 'Subtrade: Return to Irata'
+publisher: Boeder Games
+year: '1992'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:51:38'
+  last_modified: '2019-03-01T18:51:38'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK1.PCK
+  size: 1379629
+  date: '1994-09-01T12:59:32'
+  crc: '0x37645d35'
+- name: DISK2A.PCK
+  size: 12602
+  date: '1994-09-01T12:59:50'
+  crc: '0xe3f3cc76'
+- name: DISK2B.PCK
+  size: 127616
+  date: '1994-09-01T13:00:00'
+  crc: '0x3b0ce210'
+- name: INSTALL.EXE
+  size: 26240
+  date: '1994-06-22T21:18:08'
+  crc: '0x8f78b340'

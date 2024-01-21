@@ -1,0 +1,40 @@
+filename: Indiana Jones and the Fate of Atlantis (Installer) (Es) (1992)(Lucasfilm Games LLC) [Adventure].zip
+tdc_id: '11473.15'
+title:
+  box: Indiana Jones and the Fate of Atlantis
+publisher: Lucasfilm Games LLC
+year: '1992'
+genre: Adventure
+language: Spanish
+date:
+  added: '2019-03-01T18:46:08'
+  last_modified: '2019-03-01T18:46:08'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 34649
+  date: '1992-10-12T15:55:28'
+  crc: '0x99d7b641'
+- name: PCVIQA_A.ND4
+  size: 1419388
+  date: '1992-10-12T16:08:44'
+  crc: '0xcf8c8582'
+- name: PCVIQA_B.ND4
+  size: 1454088
+  date: '1992-10-12T16:08:44'
+  crc: '0x2f47f818'
+- name: PCVIQA_C.ND4
+  size: 1454088
+  date: '1992-10-12T16:08:44'
+  crc: '0x5e04e1cb'
+- name: PCVIQA_D.ND4
+  size: 1454088
+  date: '1992-10-12T16:08:44'
+  crc: '0xa3d1445f'
+- name: PCVIQA_E.ND4
+  size: 1444773
+  date: '1992-10-12T16:08:44'
+  crc: '0xd4b194da'

@@ -1,0 +1,30 @@
+filename: Missle Strike (1982)(International PC Owners) [Action].zip
+tdc_id: '14317.0'
+title:
+  screen: Missle Strike
+publisher: International PC Owners
+year: '1982'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:23:00'
+  last_modified: '2019-03-01T18:23:00'
+type: zip
+commands:
+  play: MISSLE.BAT
+references:
+  dosid: DOS06958
+  exodos: Missle Strike (1982).zip
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: MISSLE.BAS
+  size: 1942
+  date: '1982-08-21T14:14:00'
+  crc: '0xb0deeae3'
+- name: MISSLE.BAT
+  size: 15
+  date: '2014-12-01T01:31:20'
+  crc: '0xa8fb8fa8'

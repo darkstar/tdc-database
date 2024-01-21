@@ -1,0 +1,75 @@
+filename: ZZT Collection (Installer) [SWR] (1997)(Epic MegaGames, Inc.) [Action, Adventure, Role-Playing (RPG), Compilation].zip
+tdc_id: '15695.13'
+parent_id: '15695.12'
+title:
+  box: ZZT Collection
+  qualifier: Installer
+publisher: Epic MegaGames, Inc.
+year: '1997'
+genre:
+- Action
+- Adventure
+- Role-Playing (RPG)
+- Compilation
+language: English
+date:
+  added: '2023-05-15T17:54:36'
+  last_modified: '2023-05-15T17:54:36'
+type: zip
+tags:
+- SharewareRegistered
+media: 1.44M
+installer: true
+compilation: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/393/zzt/
+files:
+- name: E0_1_3H
+  size: 0
+  date: '1997-04-09T18:19:22'
+- name: INSTALL.BIN
+  size: 4000
+  date: '1994-03-18T12:45:30'
+  crc: '0x75d92d0d'
+- name: INSTALL.DAT
+  size: 24
+  date: '1997-04-09T18:19:28'
+  crc: '0x3facb24d'
+- name: INSTALL.EXE
+  size: 21264
+  date: '1994-06-03T14:37:16'
+  crc: '0x9b970def'
+- name: SUPERZR.X00
+  size: 90
+  date: '1997-04-09T18:19:28'
+  crc: '0xdb924d24'
+- name: SUPERZR.Z01
+  size: 161781
+  date: '1997-04-09T18:19:16'
+  crc: '0x16bfe935'
+- name: ZZTBEST.X00
+  size: 61
+  date: '1997-04-09T18:19:28'
+  crc: '0x8a77aaec'
+- name: ZZTBEST.Z01
+  size: 146027
+  date: '1997-04-09T18:19:18'
+  crc: '0xa914a7a6'
+- name: ZZTR.X00
+  size: 78
+  date: '1997-04-09T18:19:30'
+  crc: '0x4ba379ea'
+- name: ZZTR.Z01
+  size: 179333
+  date: '1997-04-09T18:19:20'
+  crc: '0x60fcee3c'
+- name: ZZTREV.X00
+  size: 53
+  date: '1997-04-09T18:19:30'
+  crc: '0x5208c513'
+- name: ZZTREV.Z01
+  size: 224127
+  date: '1997-04-09T18:19:22'
+  crc: '0xbc84b493'

@@ -1,0 +1,34 @@
+filename: Kick Ass Driving (Installer) (2000)(Vral) [Action, Racing - Driving].zip
+tdc_id: '11750.1'
+title:
+  screen: Kick Ass Driving
+publisher: Vral
+year: '2000'
+genre:
+- Action
+- Racing - Driving
+language: English
+date:
+  added: '2019-03-02T10:54:52'
+  last_modified: '2019-03-02T10:54:52'
+type: zip
+installer: true
+commands:
+  play: Install.exe
+files:
+- name: Install.exe
+  size: 64678
+  date: '2000-04-01T13:06:08'
+  crc: '0x021cbad1'
+- name: pak1.pak
+  size: 32086
+  date: '1999-03-02T06:13:40'
+  crc: '0x5e651154'
+- name: pak2.pak
+  size: 678153
+  date: '2000-04-01T13:05:26'
+  crc: '0xef843e6e'
+- name: pak3.pak
+  size: 14428
+  date: '2000-04-01T11:08:46'
+  crc: '0x74abf45a'

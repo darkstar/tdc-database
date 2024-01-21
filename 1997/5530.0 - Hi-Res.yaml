@@ -1,0 +1,28 @@
+filename: Hi-Res (1997)(Ingo Ruhnke) [Action].zip
+tdc_id: '5530.0'
+title:
+  screen: Hi-Res
+publisher: Ingo Ruhnke
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:34:24'
+  last_modified: '2019-03-02T10:34:24'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 22
+  date: '2018-11-24T17:53:24'
+  crc: '0x43ced548'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: __.BAS
+  size: 2689
+  date: '1997-01-21T09:13:28'
+  crc: '0xd13f383d'

@@ -1,0 +1,35 @@
+filename: SpinWall [SW][a1] (1989)(Christopher G. Gunn) [Strategy, Puzzle].zip
+tdc_id: '15407.1'
+title:
+  screen: SpinWall
+publisher: Christopher G. Gunn
+year: '1989'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-03-01T18:29:04'
+  last_modified: '2022-12-06T10:23:02'
+type: zip
+tags:
+- Shareware
+- Alternate: 1
+media: Download
+commands:
+  play: SPINWALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/spinwall
+files:
+- name: SPINWALL.DAT
+  size: 3371
+  date: '1989-06-04T03:56:06'
+  crc: '0x54f86c89'
+- name: SPINWALL.DOC
+  size: 3158
+  date: '1989-10-25T22:48:26'
+  crc: '0x3a4a55ae'
+- name: SPINWALL.EXE
+  size: 79248
+  date: '1989-07-05T21:08:14'
+  crc: '0x9d57fa18'

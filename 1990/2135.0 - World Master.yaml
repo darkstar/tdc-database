@@ -1,0 +1,36 @@
+filename: World Master v1.14 (Nl) (1990)(Walter E.R. Stroebel) [Strategy].zip
+tdc_id: '2135.0'
+title:
+  screen: World Master
+publisher: Walter E.R. Stroebel
+year: '1990'
+genre: Strategy
+language: Dutch
+date:
+  added: '2022-05-18T23:14:54'
+  last_modified: '2022-05-18T23:14:54'
+version: '1.14'
+type: zip
+commands:
+  play: WM.EXE
+files:
+- name: EGAVGA.BGI
+  size: 5363
+  date: '1989-05-10T21:01:00'
+  crc: '0x06d36962'
+- name: SCRI.CHR
+  size: 10989
+  date: '1989-05-30T20:00:02'
+  crc: '0xa84e53ce'
+- name: WM.DOC
+  size: 10398
+  date: '1990-12-09T06:11:40'
+  crc: '0x90a3fa30'
+- name: WM.EXE
+  size: 59202
+  date: '1990-12-09T07:20:06'
+  crc: '0x7b9c4a2b'
+- name: WORLD.MAP
+  size: 38144
+  date: '1990-12-09T05:57:10'
+  crc: '0xa1a4cd05'

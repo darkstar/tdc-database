@@ -1,0 +1,31 @@
+filename: Queen's Quarry v13 (1999)(Anonymous) [Adventure, Interactive Fiction].zip
+tdc_id: '10827.0'
+title:
+  screen: Queen's Quarry
+publisher: Anonymous
+year: '1999'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T10:46:22'
+  last_modified: '2019-03-02T10:46:22'
+version: '13'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 25
+  date: '2018-12-08T14:41:12'
+  crc: '0xbff6fc0d'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: QUEEN.BAS
+  size: 15660
+  date: '1999-01-08T14:35:46'
+  crc: '0x7bb18de1'

@@ -1,0 +1,30 @@
+filename: Invaders 1978 v1.0 [FW] (1996)(James Eibisch) [Action].zip
+tdc_id: '4989.0'
+title:
+  screen: Invaders 1978
+publisher: James Eibisch
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:10:30'
+  last_modified: '2022-09-20T19:09:09'
+version: '1.0'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: INV78.EXE
+references:
+  dosid: DOS02829
+  exodos: Invaders 1978 (1996).zip
+files:
+- name: INV78.EXE
+  size: 59676
+  date: '1996-10-23T19:28:12'
+  crc: '0x30c4780a'
+- name: INV78.TXT
+  size: 4027
+  date: '1996-10-23T20:15:58'
+  crc: '0xdade9e6f'

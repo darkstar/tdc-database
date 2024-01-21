@@ -1,0 +1,155 @@
+filename: AIV Network$ v1.122 (Installer) [f1] (1995)(Infogrames Multimedia SA) [Simulation].zip
+tdc_id: '8199.1'
+parent_id: '8199.3'
+title:
+  box: AIV Network$
+  qualifier: Installer
+publisher: Infogrames Multimedia SA
+year: '1995'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-02T07:28:16'
+  last_modified: '2023-09-20T10:20:17'
+version: '1.122'
+type: zip
+tags:
+- Fixed: 1
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.BAT
+references:
+  mobygames: https://www.mobygames.com/game/6042/ceo/
+files:
+- name: A4.ICO
+  size: 766
+  date: '1995-05-16T09:57:06'
+  crc: '0x905c8f46'
+- name: D256.PA3
+  size: 120832
+  date: '1995-05-16T10:00:06'
+  crc: '0xb121c23f'
+- name: D256.PA4
+  size: 1456640
+  date: '1995-05-16T10:01:50'
+  crc: '0xe6618f65'
+- name: D256.PA5
+  size: 470391
+  date: '1995-05-16T10:04:04'
+  crc: '0xc686b409'
+- name: DECOMP.PIF
+  size: 545
+  date: '1995-05-16T09:57:12'
+  crc: '0x3ec4d1fd'
+- name: DECOMP2.ICO
+  size: 766
+  date: '1995-05-16T09:57:04'
+  crc: '0xeb776127'
+- name: DEXENP.PAK
+  size: 177830
+  date: '1995-05-31T11:45:46'
+  crc: '0x97a9268f'
+- name: DINSTALL.EXE
+  size: 133207
+  date: '1995-05-16T09:55:54'
+  crc: '0x2b5a2d36'
+- name: DISK1
+  size: 0
+  date: '1995-05-31T17:57:04'
+- name: DISK2
+  size: 0
+  date: '1995-05-16T10:26:40'
+- name: DISK3
+  size: 0
+  date: '1995-05-16T09:59:02'
+- name: DISK4
+  size: 0
+  date: '1995-05-16T10:00:50'
+- name: DISK5
+  size: 0
+  date: '1995-05-16T10:03:46'
+- name: DOTH.PAK
+  size: 801232
+  date: '1995-05-31T11:46:56'
+  crc: '0x036c32d8'
+- name: INSTALL.BA5
+  size: 344
+  date: '1995-04-13T15:35:56'
+  crc: '0x878df66a'
+- name: INSTALL.BAT
+  size: 558
+  date: '1995-05-16T09:57:14'
+  crc: '0xaa0eb73d'
+- name: INSTALL.BA_
+  size: 344
+  date: '1995-05-16T09:57:14'
+  crc: '0x878df66a'
+- name: INSTALL.OPT
+  size: 2122
+  date: '1995-05-16T10:04:18'
+  crc: '0xc7fb1a8d'
+- name: MAP1.PAK
+  size: 16800
+  date: '1995-03-25T16:11:40'
+  crc: '0xb9629461'
+- name: MAP2.PAK
+  size: 12207
+  date: '1995-03-25T16:11:42'
+  crc: '0x98314507'
+- name: MAP3.PAK
+  size: 14663
+  date: '1995-03-25T16:11:44'
+  crc: '0xd68fa8e9'
+- name: MAP4.PAK
+  size: 24527
+  date: '1995-03-30T18:38:24'
+  crc: '0xfcf86fd4'
+- name: MAP5.PAK
+  size: 7676
+  date: '1995-05-30T20:18:48'
+  crc: '0xed32bf77'
+- name: NW.PIF
+  size: 545
+  date: '1995-05-16T09:57:08'
+  crc: '0x335f876c'
+- name: PAKINST.BAT
+  size: 1042
+  date: '1995-05-16T09:57:02'
+  crc: '0x7f919305'
+- name: PAKINST.BA_
+  size: 1045
+  date: '1995-05-16T09:57:02'
+  crc: '0x7de529af'
+- name: PHOTO.PA1
+  size: 66048
+  date: '1995-05-16T09:57:20'
+  crc: '0x12280b27'
+- name: PHOTO.PA2
+  size: 1090560
+  date: '1995-05-16T10:27:42'
+  crc: '0x9fd3df2b'
+- name: PHOTO.PA3
+  size: 1335378
+  date: '1995-05-16T09:59:56'
+  crc: '0x319c64bb'
+- name: README.TXT
+  size: 3517
+  date: '1995-05-30T17:59:44'
+  crc: '0xcd95db6d'
+- name: TITRE.PAK
+  size: 365751
+  date: '1995-05-16T10:26:56'
+  crc: '0xc4c32480'
+- name: UNPAK.EXE
+  size: 32133
+  date: '1995-05-16T09:56:42'
+  crc: '0x5b5bd0c6'
+- name: VER
+  size: 61
+  date: '1995-05-30T23:36:38'
+  crc: '0x5b3892b1'
+- name: WINSTALL.EXE
+  size: 148496
+  date: '1995-03-08T14:45:18'
+  crc: '0xffcdde36'

@@ -1,0 +1,86 @@
+filename: Rockford- The Arcade Game r880225 (1988)(First Star Software, Inc.) [Action, Strategy].zip
+tdc_id: '6508.0'
+title:
+  box: 'Rockford: The Arcade Game'
+  screen: Rockford
+publisher: First Star Software, Inc.
+year: '1988'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:25:34'
+  last_modified: '2023-04-21T08:56:07'
+release: '880225'
+type: zip
+commands:
+  play: ROCKFORD.EXE
+references:
+  dosid: DOS04351
+  exodos: Rockford - The Arcade Game (1987).zip
+files:
+- name: AUTOEXEC.BAT
+  size: 10
+  date: '1987-10-23T19:12:12'
+  crc: '0x5b655c82'
+- name: BODY.CCM
+  size: 30154
+  date: '1988-02-23T17:09:38'
+  crc: '0x3dd7bf75'
+- name: BODY.SCM
+  size: 31174
+  date: '1988-02-24T14:53:16'
+  crc: '0x3705a3f8'
+- name: CELLMAPS.BIN
+  size: 35200
+  date: '1987-08-26T10:28:56'
+  crc: '0xdf2c9eab'
+- name: COOK.CCM
+  size: 26361
+  date: '1988-02-23T17:10:00'
+  crc: '0x62d5bf15'
+- name: COOK.SCM
+  size: 31030
+  date: '1988-02-18T12:56:10'
+  crc: '0xa85d5523'
+- name: COWBOY.CCM
+  size: 26968
+  date: '1988-02-23T17:13:10'
+  crc: '0xf23dbcb6'
+- name: COWBOY.SCM
+  size: 32122
+  date: '1988-02-23T18:40:56'
+  crc: '0x0f6a42ff'
+- name: HUNTER.CCM
+  size: 30418
+  date: '1988-02-24T13:39:36'
+  crc: '0x8e572ee6'
+- name: HUNTER.SCM
+  size: 28217
+  date: '1988-02-18T12:52:10'
+  crc: '0x52bc16ad'
+- name: MENU_I.SCM
+  size: 10772
+  date: '1988-02-22T18:59:16'
+  crc: '0x76c310bf'
+- name: ROCKFORD.EXE
+  size: 31789
+  date: '1988-02-25T12:21:12'
+  crc: '0x4503fd98'
+- name: SPACE.CCM
+  size: 26340
+  date: '1988-02-23T17:11:36'
+  crc: '0x1acefa04'
+- name: SPACE.SCM
+  size: 32050
+  date: '1988-02-18T12:56:12'
+  crc: '0x2e325940'
+- name: TITLE.SCM
+  size: 45861
+  date: '1988-02-19T17:56:34'
+  crc: '0x1c0226a8'
+- name: TITLEANI.SCM
+  size: 32514
+  date: '1988-02-17T11:13:24'
+  crc: '0xfe57320e'

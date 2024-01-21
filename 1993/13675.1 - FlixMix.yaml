@@ -1,0 +1,50 @@
+filename: FlixMix v1.5 (1993)(Celeris Inc.) [Strategy].zip
+tdc_id: '13675.1'
+parent_id: '13675.2'
+title:
+  box: FlixMix
+publisher: Celeris Inc.
+year: '1993'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T19:08:42'
+  last_modified: '2019-03-01T19:08:42'
+version: '1.5'
+type: zip
+references:
+  dosid: DOS02254
+  exodos: FlixMix (1993).zip
+files:
+- name: CELERIS.LGO
+  size: 186250
+  date: '1993-02-10T09:20:48'
+  crc: '0x76fc5a3f'
+- name: FLIXMIX.001
+  size: 1190846
+  date: '1999-07-13T09:26:22'
+  crc: '0xe9f0b645'
+- name: FLIXMIX.002
+  size: 1177652
+  date: '1995-10-29T22:38:40'
+  crc: '0xe4ed3a8a'
+- name: FLIXMIX.CFG
+  size: 3
+  date: '1999-06-29T07:29:10'
+  crc: '0x7771305d'
+- name: FLIXMIX.EXE
+  size: 85513
+  date: '1993-11-23T05:17:34'
+  crc: '0x29700195'
+- name: INSTALL.DAT
+  size: 1383
+  date: '1993-10-20T07:51:50'
+  crc: '0x6caf2812'
+- name: SETUP.EXE
+  size: 90304
+  date: '1992-09-27T20:20:00'
+  crc: '0x929e6b84'
+- name: SETUP.PIF
+  size: 967
+  date: '1999-06-27T12:51:44'
+  crc: '0x7a5c83b4'

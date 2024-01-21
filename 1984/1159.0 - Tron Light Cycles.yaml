@@ -1,0 +1,26 @@
+filename: Tron Light Cycles (1984)(D & D Enterprises) [Action].zip
+tdc_id: '1159.0'
+title:
+  screen: Tron Light Cycles
+publisher: D & D Enterprises
+year: '1984'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:18'
+  last_modified: '2019-03-01T18:24:18'
+type: zip
+commands:
+  play: TRONLC.EXE
+references:
+  dosid: DOS07658
+  exodos: Tron Light Cycles (1983).zip
+files:
+- name: TRONLC.BAS
+  size: 4480
+  date: '1980-01-01T01:00:00'
+  crc: '0xbc7b24d5'
+- name: TRONLC.EXE
+  size: 26864
+  date: '1984-12-15T11:10:00'
+  crc: '0x00dc01f5'

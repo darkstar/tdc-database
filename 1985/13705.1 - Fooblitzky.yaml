@@ -1,0 +1,27 @@
+filename: Fooblitzky v2R.C (1985)(Infocom, Inc.) [Strategy].zip
+tdc_id: '13705.1'
+title:
+  box: Fooblitzky
+publisher: Infocom, Inc.
+year: '1985'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:24:26'
+  last_modified: '2019-03-01T18:24:26'
+version: 2R.C
+type: zip
+commands:
+  play: FOOBLITZ.COM
+references:
+  dosid: DOS02261
+  exodos: Fooblitzky (1985).zip
+files:
+- name: FOOBLITZ.COM
+  size: 13886
+  date: '1985-10-08T11:27:50'
+  crc: '0x7e02a7ea'
+- name: FOOBLITZ.DAT
+  size: 88007
+  date: '1985-10-09T13:17:24'
+  crc: '0xb56b9280'

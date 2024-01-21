@@ -1,0 +1,72 @@
+filename: 뿌요뿌요 (1994)(Psycho) [Action, Strategy, Puzzle].zip
+tdc_id: '17162.0'
+title:
+  screen: 뿌요뿌요
+  transliteration: Puyo Puyo
+publisher: Psycho
+year: '1994'
+genre:
+- Action
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2022-12-09T07:47:39'
+  last_modified: '2023-06-28T08:33:59'
+type: zip
+media: Download
+commands:
+  play: TTT.EXE
+files:
+- name: BACK.DAT
+  size: 45829
+  date: '1994-10-01T13:15:40'
+  crc: '0x4e5f4bb5'
+- name: CHAR.SET
+  size: 768
+  date: '1996-08-13T14:52:44'
+  crc: '0xa71a1cf0'
+- name: DOS4GW.EXE
+  size: 265420
+  date: '1996-07-13T06:24:52'
+  crc: '0xcb214447'
+- name: EGAVGA.BGI
+  size: 5554
+  date: '1992-06-09T23:10:00'
+  crc: '0x9b14ff3b'
+- name: NOSBPLAY.EXE
+  size: 156402
+  date: '1994-11-07T08:06:20'
+  crc: '0xee620d6d'
+- name: PUYO.CFG
+  size: 1
+  date: '1995-01-04T21:38:28'
+  crc: '0x1ad5be0d'
+- name: PUYO.DAT
+  size: 54124
+  date: '1994-11-03T19:46:56'
+  crc: '0x628b5c8d'
+- name: PUYO.MUS
+  size: 485252
+  date: '1994-10-29T13:27:32'
+  crc: '0x208fe1b7'
+- name: PUYO.MVC
+  size: 56856
+  date: '1994-10-31T16:57:54'
+  crc: '0xaa89df02'
+- name: README.1ST
+  size: 1406
+  date: '1995-01-04T22:02:48'
+  crc: '0xdfb7f341'
+- name: SBPLAY.EXE
+  size: 156402
+  date: '1994-11-06T10:52:40'
+  crc: '0x3f78621f'
+- name: TTT.EXE
+  size: 209400
+  date: '1994-11-23T11:08:24'
+  crc: '0x99b5c145'
+- name: Z80.TBL
+  size: 21529
+  date: '1995-01-13T12:25:04'
+  crc: '0x249c5982'

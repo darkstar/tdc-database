@@ -1,0 +1,55 @@
+filename: Miner (2003)(Andrey Zhuchkov) [Strategy].zip
+tdc_id: '17130.0'
+title:
+  screen: Miner
+publisher: Andrey Zhuchkov
+year: '2003'
+genre: Strategy
+language: English
+date:
+  added: '2022-12-07T12:36:19'
+  last_modified: '2022-12-07T12:36:19'
+type: zip
+commands:
+  play: SAPER.EXE
+files:
+- name: EGAVGA.BGI
+  size: 5527
+  date: '1992-10-01T08:00:00'
+  crc: '0xa33014d5'
+- name: PICTURE.PAS
+  size: 2625
+  date: '2003-07-28T11:32:48'
+  crc: '0x5dcd6c32'
+- name: PICTURE.TPU
+  size: 5504
+  date: '2005-12-24T16:04:26'
+  crc: '0x6a1077a2'
+- name: SAPER.EXE
+  size: 32880
+  date: '2005-12-24T16:04:26'
+  crc: '0x1c33680d'
+- name: SAPER.OVR
+  size: 6563
+  date: '2005-12-24T16:04:26'
+  crc: '0xb3347115'
+- name: SAPER.PAS
+  size: 13672
+  date: '2003-08-26T15:06:42'
+  crc: '0x47037b6e'
+- name: TIME.PAS
+  size: 4506
+  date: '2003-07-28T13:24:24'
+  crc: '0x5c735a40'
+- name: TIME.TPU
+  size: 9248
+  date: '2005-12-24T16:04:26'
+  crc: '0x907895c9'
+- name: WIND.PAS
+  size: 8570
+  date: '2003-08-07T14:38:22'
+  crc: '0x3fc2395f'
+- name: WIND.TPU
+  size: 13808
+  date: '2005-12-24T16:04:26'
+  crc: '0x97b04c3b'

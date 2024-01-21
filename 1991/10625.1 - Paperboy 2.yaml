@@ -1,0 +1,28 @@
+filename: Paperboy 2 (Installer) (1991)(Mindscape, Inc.) [Action].zip
+tdc_id: '10625.1'
+title:
+  box: Paperboy 2
+publisher: Mindscape, Inc.
+year: '1991'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:37:20'
+  last_modified: '2019-03-01T18:37:20'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DI1.QPZ
+  size: 3
+  date: '1991-12-18T14:00:00'
+  crc: '0x8e51abd1'
+- name: INSTALL.EXE
+  size: 64864
+  date: '1991-12-18T14:00:00'
+  crc: '0x63f6e323'
+- name: PB.TZF
+  size: 247745
+  date: '1991-12-18T14:00:00'
+  crc: '0x23fa4a20'

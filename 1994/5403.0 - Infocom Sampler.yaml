@@ -1,0 +1,33 @@
+filename: Infocom Sampler (1994)(Activision, Inc.) [Adventure, Interactive Fiction, Compilation].zip
+tdc_id: '5403.0'
+title:
+  box: Infocom Sampler
+publisher: Activision, Inc.
+year: '1994'
+genre:
+- Adventure
+- Interactive Fiction
+- Compilation
+language: English
+date:
+  added: '2019-03-01T22:00:52'
+  last_modified: '2019-03-01T22:00:52'
+type: zip
+compilation: true
+files:
+- name: README.TXT
+  size: 245
+  date: '1994-10-13T08:00:18'
+  crc: '0x788507f6'
+- name: RUNME.BAT
+  size: 283
+  date: '1994-10-13T07:58:04'
+  crc: '0x5f38ba9b'
+- name: SAMPLER.Z3
+  size: 126902
+  date: '1994-10-12T16:00:00'
+  crc: '0x1030d649'
+- name: ZIP.EXE
+  size: 44394
+  date: '1994-10-03T22:24:04'
+  crc: '0xb8518766'

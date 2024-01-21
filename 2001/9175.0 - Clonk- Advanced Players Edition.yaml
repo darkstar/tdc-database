@@ -1,0 +1,71 @@
+filename: Clonk- Advanced Players Edition [FW] (2001)(RedWolf Design) [Action, Strategy].zip
+tdc_id: '9175.0'
+title:
+  screen: 'Clonk: Advanced Players Edition'
+publisher: RedWolf Design
+year: '2001'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-02T10:55:16'
+  last_modified: '2019-03-02T10:55:16'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: CLONK.EXE
+references:
+  dosid: DOS01412
+  exodos: Clonk APE (1995).zip
+files:
+- name: CLONK.EXE
+  size: 172145
+  date: '1995-05-25T09:44:58'
+  crc: '0xa71df813'
+- name: CLONK.HLP
+  size: 23060
+  date: '1995-05-25T11:12:12'
+  crc: '0x61a75273'
+- name: CLONKBSB.AGC
+  size: 13577
+  date: '1995-04-30T09:48:34'
+  crc: '0xb8cf8387'
+- name: CLONK_BS.AGC
+  size: 64777
+  date: '1995-05-07T21:57:06'
+  crc: '0xc9ed7b37'
+- name: CLONK_BS.PAL
+  size: 1536
+  date: '1995-04-26T16:14:44'
+  crc: '0xbb64481e'
+- name: CLONK_BS.SND
+  size: 71792
+  date: '1995-05-02T16:02:34'
+  crc: '0x0ffa2694'
+- name: CUSTOM.AGC
+  size: 39177
+  date: '1995-05-19T18:25:20'
+  crc: '0x0a4e5f1c'
+- name: Freeware.txt
+  size: 165
+  date: '2001-01-22T00:52:52'
+  crc: '0x3c58a278'
+- name: REDWOLF.AGC
+  size: 20777
+  date: '1995-04-28T07:39:30'
+  crc: '0xa97a03ba'
+- name: Readme.txt
+  size: 5202
+  date: '2001-01-22T00:52:52'
+  crc: '0xcfd4c3d2'
+- name: TEST.VOC
+  size: 6424
+  date: '1995-05-01T15:55:40'
+  crc: '0x0f2ad2ac'
+- name: TITLE.AGC
+  size: 64777
+  date: '1995-05-08T12:34:08'
+  crc: '0x8980bd3a'

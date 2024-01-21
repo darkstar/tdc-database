@@ -1,0 +1,30 @@
+filename: Slot (1983)(International PC Owners) [Simulation].zip
+tdc_id: '15148.0'
+title:
+  screen: Slot
+publisher: International PC Owners
+year: '1983'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:23:20'
+  last_modified: '2019-03-01T18:23:20'
+type: zip
+commands:
+  play: SLOTMACH.BAT
+references:
+  dosid: DOS07082
+  exodos: Slot (1983).zip
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: SLOTMACH.BAS
+  size: 12288
+  date: '1983-04-02T18:07:12'
+  crc: '0x96efe150'
+- name: SLOTMACH.BAT
+  size: 17
+  date: '2014-12-01T01:31:52'
+  crc: '0xa431683c'

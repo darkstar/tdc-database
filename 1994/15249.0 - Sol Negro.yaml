@@ -1,0 +1,56 @@
+filename: Sol Negro (Es) (1994)(Opera Soft S.A.) [Action].zip
+tdc_id: '15249.0'
+title:
+  box: Sol Negro
+publisher: Opera Soft S.A.
+year: '1994'
+genre: Action
+language: Spanish
+date:
+  added: '2019-03-01T18:26:46'
+  last_modified: '2023-12-22T08:59:29'
+type: zip
+media: CD-ROM
+commands:
+  play: SOL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/20249/sol-negro/
+  dosid: DOS04665
+  exodos: Sol Negro (1988).zip
+files:
+- name: SOL.CTR
+  size: 934
+  date: '1994-11-29T19:15:00'
+  crc: '0xcbbef9ab'
+- name: SOL.EXE
+  size: 2743
+  date: '1992-11-30T15:38:16'
+  crc: '0x8ec8c392'
+- name: SOL_CGA.PIC
+  size: 16384
+  date: '1988-11-07T10:38:26'
+  crc: '0xd2f5a9d9'
+- name: SOL_CGA1.OVL
+  size: 42869
+  date: '1994-02-15T00:28:32'
+  crc: '0xa48ea63e'
+- name: SOL_CGA2.OVL
+  size: 41023
+  date: '1994-02-15T00:31:24'
+  crc: '0xec5f8643'
+- name: SOL_CGAD.OVL
+  size: 21011
+  date: '1994-02-15T00:36:04'
+  crc: '0x89bf97a6'
+- name: SOL_EGA.PIC
+  size: 32000
+  date: '1989-08-10T21:22:04'
+  crc: '0xaa5aa0e1'
+- name: SOL_EGA1.OVL
+  size: 102751
+  date: '1994-02-15T00:21:54'
+  crc: '0x03ab9740'
+- name: SOL_EGA2.OVL
+  size: 107397
+  date: '1994-02-15T00:22:02'
+  crc: '0xcc393915'

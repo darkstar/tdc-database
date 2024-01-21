@@ -1,0 +1,30 @@
+filename: Tales of a Meek (1999)(Jem Games) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '16434.0'
+title:
+  screen: Tales of a Meek
+publisher: Jem Games
+year: '1999'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-02T10:46:30'
+  last_modified: '2019-03-02T10:46:30'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 24
+  date: '2018-11-28T19:04:58'
+  crc: '0xab2748b9'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: TOAM.BAS
+  size: 28754
+  date: '2018-03-10T14:53:44'
+  crc: '0x842ed678'

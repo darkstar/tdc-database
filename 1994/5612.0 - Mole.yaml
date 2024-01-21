@@ -1,0 +1,31 @@
+filename: Mole (1994)(Anonymous) [Action].zip
+tdc_id: '5612.0'
+title:
+  screen: Mole
+publisher: Anonymous
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T22:02:10'
+  last_modified: '2019-03-01T22:02:10'
+type: zip
+media: Download
+commands:
+  play: G.EXE
+references:
+  dosid: DOS07929
+  exodos: Mole (1994).zip
+files:
+- name: G.EXE
+  size: 50087
+  date: '1994-08-04T02:54:56'
+  crc: '0x7be915c2'
+- name: SANGO.DAT
+  size: 6
+  date: '1996-02-24T09:20:10'
+  crc: '0x3f65ce9b'
+- name: SG2.SFM
+  size: 23010
+  date: '1994-08-04T03:18:18'
+  crc: '0xca921227'

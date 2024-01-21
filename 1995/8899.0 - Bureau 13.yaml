@@ -1,0 +1,50 @@
+filename: Bureau 13 v1.01 (1995)(GameTek, Inc.) [Adventure].zip
+tdc_id: '8899.0'
+parent_id: '8899.1'
+title:
+  box: Bureau 13
+publisher: GameTek, Inc.
+year: '1995'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-02T07:30:46'
+  last_modified: '2019-03-02T07:30:46'
+version: '1.01'
+type: zip
+references:
+  dosid: DOS01212
+  exodos: Bureau 13 (1995).zip
+files:
+- name: B13.COM
+  size: 1287
+  date: '2015-12-22T15:09:06'
+  crc: '0x24acf587'
+- name: B13.DAT
+  size: 314331
+  date: '2015-12-22T15:09:10'
+  crc: '0x75c2e527'
+- name: BUREAU.CFG
+  size: 22
+  date: '2015-12-22T15:12:02'
+  crc: '0xed50f5a7'
+- name: DATA.GL
+  size: 11179625
+  date: '2015-12-22T15:10:48'
+  crc: '0xbbc8c553'
+- name: SETUP.EXE
+  size: 24985
+  date: '2015-12-22T15:10:48'
+  crc: '0x13eefae0'
+- name: SETUP.GL
+  size: 58452
+  date: '2015-12-22T15:09:10'
+  crc: '0x555807ee'
+- name: TEXT.GL
+  size: 301677
+  date: '1995-10-29T17:16:30'
+  crc: '0x5b39d1df'
+- name: TEXT.GL_
+  size: 301677
+  date: '2015-12-22T15:10:50'
+  crc: '0x6a67e13d'

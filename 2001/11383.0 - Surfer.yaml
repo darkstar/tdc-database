@@ -1,0 +1,50 @@
+filename: Surfer (Ru) (2001)(NicK Soft) [Action].zip
+tdc_id: '11383.0'
+title:
+  screen: Surfer
+publisher: NicK Soft
+year: '2001'
+genre: Action
+language: Russian
+date:
+  added: '2019-03-02T10:55:46'
+  last_modified: '2019-03-02T10:55:46'
+type: zip
+commands:
+  play: SURF.EXE
+files:
+- name: SURF.EXE
+  size: 84000
+  date: '2001-08-21T00:23:08'
+  crc: '0x4f439fac'
+- name: readme.txt
+  size: 4000
+  date: '2001-08-11T23:22:20'
+  crc: '0xbcc47b71'
+- name: source\
+  size: 0
+  date: '2001-11-14T21:24:24'
+- name: source\SURF.DSK
+  size: 2646
+  date: '2001-08-21T11:34:10'
+  crc: '0x4787afbf'
+- name: source\SURF.H
+  size: 4273
+  date: '2001-08-11T22:36:44'
+  crc: '0xd02b981e'
+- name: source\dialogs.cpp
+  size: 3310
+  date: '2001-08-20T22:09:18'
+  crc: '0x9e6fdfad'
+- name: source\lib256.cpp
+  size: 34838
+  date: '2001-08-08T20:51:28'
+  crc: '0xace2ddb4'
+- name: source\main.cpp
+  size: 76549
+  date: '2001-08-21T00:21:24'
+  crc: '0x5e7209bf'
+- name: source\surf.prj
+  size: 5434
+  date: '2001-08-21T00:23:08'
+  crc: '0x838b8b10'

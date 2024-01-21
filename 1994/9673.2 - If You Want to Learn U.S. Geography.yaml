@@ -1,0 +1,48 @@
+filename: If You Want to Learn U.S. Geography v2.2 (Installer) [SW] (1994)(KidStuff Software) [Educational].zip
+tdc_id: '9673.2'
+title:
+  screen: If You Want to Learn U.S. Geography
+publisher: KidStuff Software
+year: '1994'
+genre: Educational
+language: English
+date:
+  added: '2019-01-27T04:22:22'
+  last_modified: '2019-01-27T04:22:22'
+version: '2.2'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 183
+  date: '1995-03-25T11:51:30'
+  crc: '0x94e99658'
+- name: INSTALL.EXE
+  size: 34554
+  date: '1994-04-18T12:00:00'
+  crc: '0x7aeabd9c'
+- name: INSTALL.FIL
+  size: 4172
+  date: '1995-03-25T11:51:30'
+  crc: '0xb1efae64'
+- name: USGEO22.001
+  size: 143864
+  date: '1995-03-25T11:51:54'
+  crc: '0x8e38df6b'
+- name: USGEO22.002
+  size: 362496
+  date: '1995-03-25T11:51:54'
+  crc: '0x0b5e1ac4'
+- name: USGEO22.PCX
+  size: 90384
+  date: '1995-03-25T11:51:30'
+  crc: '0x8378a9d5'
+- name: VENDOR.DOC
+  size: 4511
+  date: '1995-03-25T11:51:30'
+  crc: '0xb105ab82'

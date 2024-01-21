@@ -1,0 +1,40 @@
+filename: Tetris v1.1 [FW] (2006)(Kris Cieslak) [Action, Strategy].zip
+tdc_id: '926.0'
+title:
+  screen: Tetris
+publisher: Kris Cieslak
+year: '2006'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2020-03-11T08:07:56'
+  last_modified: '2020-03-11T08:07:56'
+version: '1.1'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: TETRIS.COM
+references:
+  dosid: DOS06683
+  exodos: Tetris (2004).zip
+files:
+- name: TETRIS.ASM
+  size: 110135
+  date: '2006-09-22T23:04:06'
+  crc: '0xa5469d84'
+- name: TETRIS.COM
+  size: 17119
+  date: '2006-09-22T23:03:10'
+  crc: '0x40852f20'
+- name: TETRIS.ICO
+  size: 2102
+  date: '2006-09-22T23:03:10'
+  crc: '0xd0363e21'
+- name: readme.txt
+  size: 264
+  date: '2006-09-22T23:07:04'
+  crc: '0x711d1c3a'

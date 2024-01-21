@@ -1,0 +1,34 @@
+filename: Boris the Orb Collector (2001)(Phat Games) [Action].zip
+tdc_id: '12757.0'
+title:
+  screen: Boris the Orb Collector
+publisher: Phat Games
+year: '2001'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:55:14'
+  last_modified: '2019-03-02T10:55:14'
+type: zip
+commands:
+  play: boris.exe
+files:
+- name: BORIS.BMP
+  size: 3382
+  date: '2001-04-21T10:53:38'
+  crc: '0xadc84075'
+- name: CWSDPMI.EXE
+  size: 21325
+  date: '2010-01-07T23:06:10'
+  crc: '0xa18c506d'
+- name: MSE.CFG
+  size: 0
+  date: '2001-10-21T21:38:06'
+- name: boris.exe
+  size: 574754
+  date: '2001-04-21T10:58:58'
+  crc: '0x01e035b0'
+- name: readme.txt
+  size: 1202
+  date: '2001-04-22T00:37:50'
+  crc: '0x8896790a'

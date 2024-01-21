@@ -1,0 +1,35 @@
+filename: Ski Racer (1995)(Michael Black) [Action].zip
+tdc_id: '15142.0'
+title:
+  screen: Ski Racer
+publisher: Michael Black
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T09:03:14'
+  last_modified: '2019-03-02T09:03:14'
+type: zip
+commands:
+  play: SKI.EXE
+files:
+- name: CELLS.PCX
+  size: 7607
+  date: '1995-01-19T01:19:20'
+  crc: '0x7b05c443'
+- name: GAMEINS.PCX
+  size: 20119
+  date: '1995-02-18T14:33:36'
+  crc: '0x8484ce63'
+- name: GAMEINT.PCX
+  size: 21118
+  date: '1995-02-18T14:33:38'
+  crc: '0x2ab0c18e'
+- name: SKI.EXE
+  size: 63114
+  date: '1995-06-09T03:46:24'
+  crc: '0xec48788f'
+- name: TREECELL.PCX
+  size: 3675
+  date: '1995-01-18T01:47:40'
+  crc: '0xd6e3bcc5'

@@ -1,0 +1,27 @@
+filename: Monster Killer (2002)(HT) [Action].zip
+tdc_id: '4832.0'
+title:
+  screen: Monster Killer
+publisher: HT
+year: '2002'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:56:04'
+  last_modified: '2019-03-02T10:56:04'
+type: zip
+commands:
+  play: MKILLER.EXE
+files:
+- name: Controls.txt
+  size: 249
+  date: '2002-02-25T22:26:14'
+  crc: '0xf892a3e3'
+- name: GRAPHICS.dat
+  size: 1280
+  date: '1995-02-08T10:41:04'
+  crc: '0x0c73d7e9'
+- name: MKILLER.EXE
+  size: 109968
+  date: '2002-02-25T21:13:34'
+  crc: '0x17a93b6a'

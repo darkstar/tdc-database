@@ -1,0 +1,25 @@
+filename: Green Falls (2006)(Paul Allen Panks) [Adventure, Interactive Fiction].zip
+tdc_id: '10923.0'
+title:
+  screen: Green Falls
+publisher: Paul Allen Panks
+year: '2006'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T10:57:14'
+  last_modified: '2019-03-02T10:57:14'
+type: zip
+commands:
+  play: greenfl.exe
+files:
+- name: greenfl.bas
+  size: 38009
+  date: '1980-01-01T00:00:00'
+  crc: '0x2afb0b37'
+- name: greenfl.exe
+  size: 78927
+  date: '1980-01-01T00:00:00'
+  crc: '0xd3a208f0'

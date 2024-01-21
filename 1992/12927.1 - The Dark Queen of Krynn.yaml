@@ -1,0 +1,42 @@
+filename: Dark Queen of Krynn, The (Installer) (De) (1992)(Strategic Simulations, Inc.) [Role-Playing (RPG)].zip
+tdc_id: '12927.1'
+title:
+  box: The Dark Queen of Krynn
+publisher: Strategic Simulations, Inc.
+year: '1992'
+genre: Role-Playing (RPG)
+language: German
+date:
+  added: '2019-03-01T18:42:12'
+  last_modified: '2022-11-16T15:27:56'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/dark-queen-of-krynn
+files:
+- name: DQK.EXE
+  size: 449402
+  date: '2011-11-26T15:13:02'
+  crc: '0xd5255588'
+- name: DQKINST1.EXE
+  size: 898059
+  date: '1993-04-14T11:50:34'
+  crc: '0x7f9a4ea1'
+- name: DQKINST2.EXE
+  size: 1150593
+  date: '1993-04-14T11:51:22'
+  crc: '0x236ac0d4'
+- name: INSTALL.EXE
+  size: 112198
+  date: '1993-03-19T16:25:46'
+  crc: '0x3f027fa4'
+- name: SAVGAMA.QSV
+  size: 7965
+  date: '1992-04-22T16:51:40'
+  crc: '0x48af4fad'
+- name: VAULTA.DAT
+  size: 866
+  date: '1992-04-08T15:41:14'
+  crc: '0x111b719a'

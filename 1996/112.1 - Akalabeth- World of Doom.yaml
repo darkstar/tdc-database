@@ -1,0 +1,29 @@
+filename: Akalabeth- World of Doom [f1] (1996)(California Pacific Computer Co., Finire Dragon, Juergen Strobel) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '112.1'
+title:
+  screen: 'Akalabeth: World of Doom'
+publisher: California Pacific Computer Co., Finire Dragon, Juergen Strobel
+year: '1996'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2022-11-02T07:00:29'
+  last_modified: '2022-11-04T10:22:57'
+type: zip
+tags:
+- Fixed: 1
+commands:
+  play: aklabeth.exe
+references:
+  mobygames: https://www.mobygames.com/game/apple2/akalabeth-world-of-doom
+files:
+- name: aklabeth.bas
+  size: 44033
+  date: '2017-01-06T11:35:26'
+  crc: '0xdad444cb'
+- name: aklabeth.exe
+  size: 115644
+  date: '2017-01-06T11:35:14'
+  crc: '0xcfb7f909'

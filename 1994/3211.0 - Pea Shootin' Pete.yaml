@@ -1,0 +1,34 @@
+filename: Pea Shootin' Pete (1994)(MindStorm Software) [Action].zip
+tdc_id: '3211.0'
+title:
+  screen: Pea Shootin' Pete
+publisher: MindStorm Software
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T22:02:38'
+  last_modified: '2019-03-01T22:02:38'
+type: zip
+commands:
+  play: PETE.EXE
+references:
+  dosid: DOS03943
+  exodos: Pea Shootin' Pete (1994).zip
+files:
+- name: DATA.PTE
+  size: 778998
+  date: '1994-03-15T07:11:00'
+  crc: '0x75ae45e1'
+- name: HIGH.SCR
+  size: 147
+  date: '1997-07-10T11:51:50'
+  crc: '0x4f61e5ba'
+- name: PETE.EXE
+  size: 185543
+  date: '1994-03-15T07:11:00'
+  crc: '0xbc330ba7'
+- name: SCRIPTS.PTE
+  size: 2100
+  date: '1994-03-15T07:11:00'
+  crc: '0xb424ed4f'

@@ -1,0 +1,58 @@
+filename: 15 x 15 (1994)(NIKITA Ltd., IFTECH Software AB) [Strategy, Puzzle].zip
+tdc_id: '6012.0'
+title:
+  screen: 15 x 15
+publisher: NIKITA Ltd., IFTECH Software AB
+year: '1994'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-03-01T21:46:34'
+  last_modified: '2019-03-01T21:46:34'
+type: zip
+references:
+  dosid: DOS00615
+  exodos: 15x15 (1996).zip
+files:
+- name: CONFIG.COM
+  size: 247
+  date: '1993-07-22T23:16:26'
+  crc: '0x40ac556a'
+- name: CONFIG.DAT
+  size: 20
+  date: '1994-10-19T03:30:00'
+  crc: '0x855f9e6a'
+- name: NIKITA.CFG
+  size: 14
+  date: '1994-02-09T20:09:04'
+  crc: '0xa1e0e1d6'
+- name: PUZ.DAT
+  size: 100
+  date: '1994-10-18T23:49:48'
+  crc: '0x9988c6ca'
+- name: PUZ1.DAT
+  size: 175724
+  date: '1994-02-15T11:09:02'
+  crc: '0x3ab2387b'
+- name: PUZ2.DAT
+  size: 179346
+  date: '1994-02-15T11:09:22'
+  crc: '0xbcc000b6'
+- name: PUZ3.DAT
+  size: 151778
+  date: '1994-02-15T11:09:38'
+  crc: '0xa8287eab'
+- name: PUZLIB
+  size: 153120
+  date: '1994-06-06T10:34:48'
+  crc: '0xbbddb987'
+- name: PUZZLE.EXE
+  size: 76248
+  date: '1994-06-06T10:32:16'
+  crc: '0x684e0862'
+- name: PUZZLE.RES
+  size: 640
+  date: '1994-02-10T12:37:38'
+  crc: '0x4b7716da'

@@ -1,0 +1,75 @@
+filename: Dizzy Dice (1990)(Smash 16) [Simulation][!].zip
+tdc_id: '1935.0'
+parent_id: '1935.1'
+title:
+  box: Dizzy Dice
+publisher: Smash 16
+year: '1990'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:32:24'
+  last_modified: '2023-09-20T14:19:56'
+type: zip
+tags:
+- KnownGood
+media: 720K
+commands:
+  play: DIZZY.COM
+references:
+  mobygames: https://www.mobygames.com/game/21046/dizzy-dice/
+  dosid: DOS01815
+  exodos: Dizzy Dice (1990).zip
+files:
+- name: BONUS.BIN
+  size: 506
+  date: '1990-01-17T16:01:00'
+  crc: '0x92e27f64'
+- name: CGA.COM
+  size: 8501
+  date: '1990-05-18T17:48:30'
+  crc: '0xfff5ca40'
+- name: CHRSET.BIN
+  size: 800
+  date: '1990-01-17T15:45:20'
+  crc: '0x80eee7b5'
+- name: DICE.CGA
+  size: 9726
+  date: '1990-02-05T20:01:54'
+  crc: '0x3e7e554a'
+- name: DICE.EGA
+  size: 18732
+  date: '1990-02-04T18:03:18'
+  crc: '0xa2cfcac4'
+- name: DIZLOAD.CGA
+  size: 4422
+  date: '1990-05-24T11:08:00'
+  crc: '0x3c70607b'
+- name: DIZLOAD.EGA
+  size: 17292
+  date: '1990-05-24T11:16:24'
+  crc: '0xda9aec95'
+- name: DIZZY.COM
+  size: 421
+  date: '1990-02-07T12:46:06'
+  crc: '0xf387cfb0'
+- name: EGA.COM
+  size: 6936
+  date: '1990-05-24T11:31:16'
+  crc: '0x479834dc'
+- name: FRUIT.BIN
+  size: 960
+  date: '1990-01-17T15:40:40'
+  crc: '0x8123a7e0'
+- name: MAIN.CGA
+  size: 9796
+  date: '1990-02-06T00:21:24'
+  crc: '0xd1f785bf'
+- name: MAIN.EGA
+  size: 20554
+  date: '1990-02-06T06:27:14'
+  crc: '0xc374f80f'
+- name: WHEEL.BIN
+  size: 4000
+  date: '1990-01-17T15:55:26'
+  crc: '0xbcecb618'

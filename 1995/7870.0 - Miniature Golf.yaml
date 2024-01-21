@@ -1,0 +1,30 @@
+filename: Miniature Golf (1995)(Jason Jackson) [Simulation, Sports].zip
+tdc_id: '7870.0'
+title:
+  screen: Miniature Golf
+publisher: Jason Jackson
+year: '1995'
+genre:
+- Simulation
+- Sports
+language: English
+date:
+  added: '2019-03-02T08:57:26'
+  last_modified: '2019-03-02T08:57:26'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 24
+  date: '2018-03-14T19:46:16'
+  crc: '0x925d5cbe'
+- name: GOLF.BAS
+  size: 26260
+  date: '2018-12-05T12:42:22'
+  crc: '0x50659094'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'

@@ -1,0 +1,31 @@
+filename: GW-Tetris v3 (1997)(Sjoerd Verweij) [Action, Strategy].zip
+tdc_id: '3941.0'
+title:
+  screen: GW-Tetris
+publisher: Sjoerd Verweij
+year: '1997'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-02T10:34:10'
+  last_modified: '2019-03-02T10:34:10'
+version: '3'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 26
+  date: '2018-04-15T14:23:06'
+  crc: '0x11eaedb5'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T01:28:02'
+  crc: '0x19f6ed75'
+- name: TETRIS.BAS
+  size: 4539
+  date: '2018-03-10T02:26:14'
+  crc: '0x126df077'

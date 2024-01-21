@@ -1,0 +1,31 @@
+filename: Sopwith ME (2001)(Jornand de Buisonjé) [Action].zip
+tdc_id: '4761.0'
+title:
+  screen: Sopwith ME
+publisher: Jornand de Buisonjé
+year: '2001'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:55:44'
+  last_modified: '2019-03-02T10:55:44'
+type: zip
+commands:
+  play: swme.exe
+files:
+- name: CWSDPMI.DOC
+  size: 7073
+  date: '2016-10-15T16:22:52'
+  crc: '0xdfc52298'
+- name: CWSDPMI.EXE
+  size: 25916
+  date: '2016-10-15T16:22:52'
+  crc: '0x8760f94d'
+- name: readme.txt
+  size: 1583
+  date: '2001-11-26T16:17:56'
+  crc: '0x63da2b99'
+- name: swme.exe
+  size: 118632
+  date: '2001-11-26T16:11:30'
+  crc: '0xc863119e'

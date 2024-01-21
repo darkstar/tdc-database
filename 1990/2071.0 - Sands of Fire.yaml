@@ -1,0 +1,42 @@
+filename: Sands of Fire (1990)(Three-Sixty Pacific, Inc.) [Action, Simulation].zip
+tdc_id: '2071.0'
+title:
+  box: Sands of Fire
+publisher: Three-Sixty Pacific, Inc.
+year: '1990'
+genre:
+- Action
+- Simulation
+language: English
+date:
+  added: '2019-03-01T18:33:54'
+  last_modified: '2023-07-05T12:25:41'
+type: zip
+media: 360K
+commands:
+  play: SOF.EXE
+references:
+  mobygames: https://www.mobygames.com/game/35178/sands-of-fire/
+  dosid: DOS04395
+  exodos: Sands of Fire (1990).zip
+files:
+- name: README.TXT
+  size: 1166
+  date: '1990-06-04T04:10:56'
+  crc: '0x459f8c86'
+- name: SOF.EXE
+  size: 178110
+  date: '1991-08-22T12:25:44'
+  crc: '0x33dbbc85'
+- name: SOF.OPT
+  size: 2704
+  date: '2010-07-30T18:49:06'
+  crc: '0x5b32b024'
+- name: SOFCGA.RES
+  size: 265165
+  date: '1990-06-04T06:19:20'
+  crc: '0xcdad98cb'
+- name: SOFEGA.RES
+  size: 326997
+  date: '1991-08-22T12:25:44'
+  crc: '0xacd06d45'

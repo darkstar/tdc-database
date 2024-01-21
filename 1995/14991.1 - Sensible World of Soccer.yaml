@@ -1,0 +1,62 @@
+filename: Sensible World of Soccer (Installer) (En)(De)(Fr)(It) (1995)(Renegade Software) [Simulation, Sports].zip
+tdc_id: '14991.1'
+title:
+  box: Sensible World of Soccer
+publisher: Renegade Software
+year: '1995'
+genre:
+- Simulation
+- Sports
+language:
+- English
+- French
+- Italian
+- German
+date:
+  added: '2020-04-08T09:09:52'
+  last_modified: '2020-04-08T09:09:52'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FREAD.ME
+  size: 1164
+  date: '1995-11-03T17:21:54'
+  crc: '0x7b2366d6'
+- name: GREAD.ME
+  size: 1048
+  date: '1995-11-03T17:21:54'
+  crc: '0x8a1afd69'
+- name: INSTALL.EXE
+  size: 20891
+  date: '1995-11-09T16:38:06'
+  crc: '0xf3434adc'
+- name: IREAD.ME
+  size: 1271
+  date: '1995-11-03T17:21:56'
+  crc: '0xe1f30a04'
+- name: READ.ME
+  size: 1016
+  date: '1995-11-03T17:21:56'
+  crc: '0x20cadf09'
+- name: SWOS_1.RNC
+  size: 1303040
+  date: '1995-11-06T19:10:40'
+  crc: '0x07aced99'
+- name: SWOS_2.RNC
+  size: 1457664
+  date: '1995-11-06T19:10:48'
+  crc: '0x0f743fdd'
+- name: SWOS_3.RNC
+  size: 1296177
+  date: '1995-11-06T19:10:54'
+  crc: '0x27b3a095'
+- name: UNPACK.EXE
+  size: 126671
+  date: '1995-11-06T19:08:52'
+  crc: '0x2057a797'
+- name: WAVE.INF
+  size: 35
+  date: '1995-10-21T14:35:54'
+  crc: '0xcee1043c'

@@ -1,0 +1,31 @@
+filename: Zork- The Great Underground Empire r52 (1987)(Infocom, Inc.) [Adventure, Interactive Fiction][!].zip
+tdc_id: '15702.1'
+title:
+  box: 'Zork: The Great Underground Empire'
+publisher: Infocom, Inc.
+year: '1987'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2022-06-09T08:38:38'
+  last_modified: '2022-06-09T08:38:38'
+release: '52'
+type: zip
+tags:
+- KnownGood
+commands:
+  play: ZORK1.EXE
+references:
+  dosid: DOS05819
+  exodos: Zork I - The Great Underground Empire (1980).zip
+files:
+- name: ZORK1.DAT
+  size: 105265
+  date: '1987-11-30T10:29:28'
+  crc: '0xb881d108'
+- name: ZORK1.EXE
+  size: 31924
+  date: '1987-11-18T11:14:28'
+  crc: '0x45f2c954'

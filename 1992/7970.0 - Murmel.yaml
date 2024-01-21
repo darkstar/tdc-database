@@ -1,0 +1,28 @@
+filename: Murmel v1.05 (1992)(Jeff Anderson) [Strategy].zip
+tdc_id: '7970.0'
+title:
+  screen: Murmel
+publisher: Jeff Anderson
+year: '1992'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:49:38'
+  last_modified: '2019-03-01T18:49:38'
+version: '1.05'
+type: zip
+commands:
+  play: murmel.exe
+files:
+- name: murmel.doc
+  size: 2487
+  date: '1992-04-28T23:13:42'
+  crc: '0xbfb02fd3'
+- name: murmel.exe
+  size: 35216
+  date: '1992-06-06T01:55:44'
+  crc: '0xa9eaae2c'
+- name: vga256.bgi
+  size: 3289
+  date: '1989-05-31T02:00:02'
+  crc: '0x55f0b0ba'

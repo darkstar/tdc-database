@@ -1,0 +1,111 @@
+filename: Smuś v1.10 (Pl) (1993)(L.K. Avalon) [Action].zip
+tdc_id: '15182.0'
+title:
+  box: Smuś
+publisher: L.K. Avalon
+year: '1993'
+genre: Action
+language: Polish
+date:
+  added: '2019-03-01T21:08:10'
+  last_modified: '2022-11-01T10:58:04'
+version: '1.10'
+type: zip
+commands:
+  play: SMUS.EXE
+  setup: KONFIG.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/smu
+  dosid: DOS06241
+  exodos: Smus (1993).zip
+files:
+- name: CZYTAJ.EXE
+  size: 25208
+  date: '2012-08-08T17:32:40'
+  crc: '0xd935d4cb'
+- name: CZYTAJTO.BAT
+  size: 20
+  date: '2012-08-08T17:32:40'
+  crc: '0x9e19eb7c'
+- name: GFX\
+  size: 0
+  date: '2013-01-07T19:28:06'
+- name: GFX\SMUS.AVA
+  size: 5800
+  date: '2012-08-08T17:32:40'
+  crc: '0xd36bd8be'
+- name: GFX\SMUS.BLK
+  size: 23386
+  date: '2012-08-08T17:32:40'
+  crc: '0x95edb89c'
+- name: GFX\SMUS.COL
+  size: 763
+  date: '2012-08-08T17:32:40'
+  crc: '0xc71d4045'
+- name: GFX\SMUS.LVL
+  size: 10426
+  date: '2012-08-08T17:32:40'
+  crc: '0x42e38451'
+- name: GFX\SMUS.PNE
+  size: 5323
+  date: '2012-08-08T17:32:40'
+  crc: '0xe29946da'
+- name: GFX\SMUS.SP0
+  size: 14476
+  date: '2012-08-08T17:32:40'
+  crc: '0x3ba7f3b2'
+- name: GFX\SMUS.SP1
+  size: 2199
+  date: '2012-08-08T17:32:40'
+  crc: '0x278ab809'
+- name: GFX\SMUS.SP2
+  size: 9727
+  date: '2012-08-08T17:32:40'
+  crc: '0xdbe9880a'
+- name: GFX\SMUS.SP3
+  size: 7794
+  date: '2012-08-08T17:32:40'
+  crc: '0xe711f18b'
+- name: GFX\SMUS.TTL
+  size: 21050
+  date: '2012-08-08T17:32:40'
+  crc: '0x350d8e88'
+- name: GFX\SMUS.WI1
+  size: 8826
+  date: '2012-08-08T17:32:40'
+  crc: '0x76a4fad6'
+- name: GFX\SMUS.WI2
+  size: 183221
+  date: '2012-08-08T17:32:40'
+  crc: '0xea10dc1f'
+- name: KONFIG.EXE
+  size: 10400
+  date: '2012-08-08T17:32:40'
+  crc: '0xb1a69ebd'
+- name: SMUS.DOC
+  size: 1548
+  date: '2012-08-08T17:32:40'
+  crc: '0xb909a7d7'
+- name: SMUS.EXE
+  size: 13072
+  date: '2013-01-07T20:29:54'
+  crc: '0x2413275a'
+- name: SMUS.EX_
+  size: 13072
+  date: '2012-08-08T17:32:40'
+  crc: '0x321bbc41'
+- name: SND\
+  size: 0
+  date: '2013-01-07T19:28:06'
+- name: SND\SMUS.SFX
+  size: 19059
+  date: '2012-08-08T17:32:40'
+  crc: '0xea9ea382'
+- name: SND\SMUS.SN1
+  size: 232764
+  date: '2012-08-08T17:32:40'
+  crc: '0x418f5432'
+- name: SND\SMUS.SN2
+  size: 123200
+  date: '2012-08-08T17:32:40'
+  crc: '0xb7dae112'

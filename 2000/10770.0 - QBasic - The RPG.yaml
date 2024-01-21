@@ -1,0 +1,32 @@
+filename: QBasic - The RPG (2000)(Dark Legends Software) [Role-Playing (RPG)].zip
+tdc_id: '10770.0'
+title:
+  screen: QBasic - The RPG
+publisher: Dark Legends Software
+year: '2000'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-02T10:55:00'
+  last_modified: '2019-03-02T10:55:00'
+type: zip
+media: Download
+commands:
+  play: start.bat
+files:
+- name: MAP.MAP
+  size: 3607
+  date: '2000-08-05T21:02:50'
+  crc: '0x97fa9993'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1995-07-11T10:50:00'
+  crc: '0x3152911c'
+- name: QBTHERPG.BAS
+  size: 16955
+  date: '2000-08-09T01:47:10'
+  crc: '0x57ae3695'
+- name: start.bat
+  size: 26
+  date: '2014-03-19T17:42:52'
+  crc: '0xdcd83b44'

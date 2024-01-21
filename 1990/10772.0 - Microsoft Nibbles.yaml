@@ -1,0 +1,36 @@
+filename: Microsoft Nibbles (1990)(Microsoft Corporation) [Action].zip
+tdc_id: '10772.0'
+title:
+  screen: Microsoft Nibbles
+publisher: Microsoft Corporation
+year: '1990'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:33:40'
+  last_modified: '2023-01-30T15:15:01'
+type: zip
+media: Download
+commands:
+  play: nibbles.bat
+references:
+  mobygames: https://www.mobygames.com/game/dos/ms-dos-5-included-games
+  dosid: DOS06300
+  exodos: Nibbles (1991).zip
+files:
+- name: NIBBLES.EXE
+  size: 51792
+  date: '2008-08-19T15:16:20'
+  crc: '0x5edcd8e6'
+- name: QBasic.EXE
+  size: 194309
+  date: '1993-09-30T06:20:00'
+  crc: '0x3152911c'
+- name: nibbles.bas
+  size: 24114
+  date: '2008-08-19T15:16:18'
+  crc: '0x0599879c'
+- name: nibbles.bat
+  size: 65
+  date: '2009-07-12T15:38:16'
+  crc: '0xb7895c5d'

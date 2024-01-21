@@ -1,0 +1,30 @@
+filename: Tetris v1.1 (1994)(Corey Garrow) [Action, Strategy].zip
+tdc_id: '3320.0'
+title:
+  screen: Tetris
+publisher: Corey Garrow
+year: '1994'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-02T07:18:14'
+  last_modified: '2019-03-02T07:18:14'
+version: '1.1'
+type: zip
+commands:
+  play: TETRIS.EXE
+files:
+- name: README.DOC
+  size: 14637
+  date: '1994-02-12T15:19:26'
+  crc: '0x07984c8f'
+- name: TETRIS.CFG
+  size: 29
+  date: '2014-03-31T17:48:04'
+  crc: '0x522f6207'
+- name: TETRIS.EXE
+  size: 59370
+  date: '1994-02-12T15:28:18'
+  crc: '0xca29376b'

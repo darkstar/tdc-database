@@ -1,0 +1,30 @@
+filename: Conquest [DC][h2] (1983)(Windmill Software) [Action].zip
+tdc_id: '5197.4'
+title:
+  box: Conquest
+publisher: Windmill Software
+year: '1983'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:23:10'
+  last_modified: '2019-03-01T18:23:10'
+type: zip
+tags:
+- DOSConversion
+- Hack: 2
+commands:
+  play: CONQUEST.COM
+files:
+- name: CONQUEST.COM
+  size: 62464
+  date: '1986-03-09T17:18:28'
+  crc: '0x003bbc86'
+- name: CONQUEST.HI
+  size: 512
+  date: '1980-01-01T00:01:52'
+  crc: '0xe5af45fc'
+- name: CONQUEST.PIC
+  size: 16641
+  date: '1988-07-06T14:04:26'
+  crc: '0x27c0b8e0'

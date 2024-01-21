@@ -1,0 +1,38 @@
+filename: Digging for Buried Treasure (Installer) (1994)(Marathon Technology, Inc.) [Strategy, Educational].zip
+tdc_id: '13170.0'
+title:
+  screen: Digging for Buried Treasure
+publisher: Marathon Technology, Inc.
+year: '1994'
+genre:
+- Strategy
+- Educational
+language: English
+date:
+  added: '2019-03-01T21:56:06'
+  last_modified: '2019-03-01T21:56:06'
+type: zip
+installer: true
+commands:
+  play: install.exe
+files:
+- name: disk.id
+  size: 28
+  date: '1999-12-31T19:00:00'
+  crc: '0x3db7f287'
+- name: install.dat
+  size: 4222
+  date: '1999-12-31T19:00:00'
+  crc: '0xcb8123fc'
+- name: install.exe
+  size: 103017
+  date: '1999-12-31T19:00:00'
+  crc: '0xb6356c24'
+- name: read.me
+  size: 3191
+  date: '1999-12-31T19:00:00'
+  crc: '0x54930b9a'
+- name: treasdig.red
+  size: 931159
+  date: '1999-12-31T19:00:00'
+  crc: '0x2badf80d'

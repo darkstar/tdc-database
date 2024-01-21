@@ -1,0 +1,168 @@
+filename: Battle Chess 4000 v1.01 (1994)(Interplay Productions, Inc.) [Strategy, Chess].zip
+tdc_id: '12471.4'
+parent_id: '17369.1'
+title:
+  box: Battle Chess 4000
+publisher: Interplay Productions, Inc.
+year: '1994'
+genre:
+- Strategy
+- Chess
+language: English
+date:
+  added: '2019-03-01T18:41:26'
+  last_modified: '2023-10-25T07:29:52'
+version: '1.01'
+type: zip
+media: CD-ROM
+audio:
+- CD-DA
+commands:
+  play: BC4000.EXE
+  setup: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/3460/battle-chess-4000/
+files:
+- name: 2001_2.XMI
+  size: 1734
+  date: '1992-12-16T22:02:40'
+  crc: '0x612b6164'
+- name: 2001_4.XMI
+  size: 2630
+  date: '1992-12-16T22:02:40'
+  crc: '0x3799d0fa'
+- name: ADLIB.ADV
+  size: 14775
+  date: '1992-12-15T23:04:40'
+  crc: '0x865e52d2'
+- name: ADLIB.COM
+  size: 3088
+  date: '1992-12-15T23:04:50'
+  crc: '0x2f780ee5'
+- name: BC4000.EXE
+  size: 411288
+  date: '1994-11-30T04:47:00'
+  crc: '0x51939dcd'
+- name: BOOKDATA\
+  size: 0
+  date: '1994-12-12T19:32:16'
+- name: BOOKDATA\BOOK.BOK
+  size: 150958
+  date: '1992-12-15T23:04:28'
+  crc: '0x2ffc9fbd'
+- name: BOOKDATA\OPENINGS.BOK
+  size: 5596
+  date: '1992-12-15T23:04:30'
+  crc: '0x18b74f29'
+- name: CHESS.MNU
+  size: 817
+  date: '1992-12-02T18:54:54'
+  crc: '0x72d4a082'
+- name: CHESS.RSC
+  size: 13404
+  date: '1993-01-18T17:45:52'
+  crc: '0x22c355f9'
+- name: CHESSP.EXE
+  size: 81363
+  date: '1990-04-19T01:00:00'
+  crc: '0xd50b13b1'
+- name: DATA320.DAT
+  size: 4974592
+  date: '1994-07-22T13:55:36'
+  crc: '0xfba81bb4'
+- name: DATA320.OFF
+  size: 2092
+  date: '1993-01-22T13:48:00'
+  crc: '0xcbd3dbb7'
+- name: DATA320.SIZ
+  size: 2092
+  date: '1993-01-22T13:48:00'
+  crc: '0xc277f7ce'
+- name: GO.COM
+  size: 844
+  date: '1994-11-16T12:51:40'
+  crc: '0x6672e651'
+- name: IBMBAK.COM
+  size: 2816
+  date: '1992-12-15T23:04:52'
+  crc: '0xf961d0d6'
+- name: IBMSND.COM
+  size: 2720
+  date: '1992-12-15T23:04:52'
+  crc: '0xafd5b296'
+- name: INTRO_2.XMI
+  size: 1056
+  date: '1992-12-15T23:04:54'
+  crc: '0x0ef388e6'
+- name: INTRO_4.XMI
+  size: 1202
+  date: '1992-12-15T23:04:54'
+  crc: '0x92fd4c1d'
+- name: INTRPLAY.CFG
+  size: 16
+  date: '1994-10-10T17:18:32'
+  crc: '0x9231f701'
+- name: LOSE_2.XMI
+  size: 582
+  date: '1992-12-15T23:04:54'
+  crc: '0x4fa03013'
+- name: LOSE_4.XMI
+  size: 734
+  date: '1992-12-15T23:04:54'
+  crc: '0xe3fbf974'
+- name: PASDIG.ADV
+  size: 4361
+  date: '1992-12-15T23:04:40'
+  crc: '0x0edba24b'
+- name: PASFM.ADV
+  size: 15242
+  date: '1992-12-15T23:04:42'
+  crc: '0xd73676bd'
+- name: PASOPL.ADV
+  size: 16333
+  date: '1992-12-15T23:04:44'
+  crc: '0x527b4aef'
+- name: PCSPKR.ADV
+  size: 8434
+  date: '1992-12-15T23:04:44'
+  crc: '0x092c07c9'
+- name: SAMPLE.AD
+  size: 2562
+  date: '1992-12-15T23:04:56'
+  crc: '0x3f4f4f3e'
+- name: SAMPLE.OPL
+  size: 3662
+  date: '1992-12-15T23:04:56'
+  crc: '0x0aa95eb5'
+- name: SBDIG.ADV
+  size: 4667
+  date: '1992-12-15T23:04:46'
+  crc: '0xf492b007'
+- name: SBFM.ADV
+  size: 14825
+  date: '1992-12-15T23:04:48'
+  crc: '0xaa4f129e'
+- name: SBP1FM.ADV
+  size: 15235
+  date: '1992-12-15T23:04:48'
+  crc: '0x8abc7aa2'
+- name: SBP2FM.ADV
+  size: 16357
+  date: '1992-12-15T23:04:50'
+  crc: '0x87e2ad7b'
+- name: SBPDIG.ADV
+  size: 4946
+  date: '1992-12-15T23:04:46'
+  crc: '0xe08717b1'
+- name: SETUP.EXE
+  size: 38711
+  date: '1993-01-22T12:29:08'
+  crc: '0xbdcaa85a'
+- name: WIN_2.XMI
+  size: 1714
+  date: '1992-12-15T23:04:54'
+  crc: '0x7bc74579'
+- name: WIN_4.XMI
+  size: 2090
+  date: '1992-12-15T23:04:54'
+  crc: '0x35970009'

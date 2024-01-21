@@ -1,0 +1,97 @@
+filename: ShadowCaster v1.12F (1993)(ORIGIN Systems, Inc.) [Action].zip
+tdc_id: '5901.0'
+title:
+  box: ShadowCaster
+publisher: ORIGIN Systems, Inc.
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T21:06:34'
+  last_modified: '2019-03-01T21:06:34'
+version: 1.12F
+type: zip
+references:
+  dosid: DOS04501
+  exodos: ShadowCaster (1993).zip
+files:
+- name: A32MT32.DLL
+  size: 14336
+  date: '1992-11-29T06:00:00'
+  crc: '0x6e92c2a7'
+- name: A32SBDG.DLL
+  size: 10752
+  date: '1992-11-29T06:00:00'
+  crc: '0xe5da30c6'
+- name: A32SBFM.DLL
+  size: 19968
+  date: '1992-11-29T06:00:00'
+  crc: '0x38bb48ff'
+- name: ADPLAY.EXE
+  size: 67466
+  date: '1993-10-01T11:34:40'
+  crc: '0xde561c50'
+- name: CHECKHI.EXE
+  size: 20343
+  date: '1993-09-27T14:10:02'
+  crc: '0x3a7437f6'
+- name: CHECKMEM.EXE
+  size: 9186
+  date: '1993-09-03T17:19:14'
+  crc: '0x36078b1d'
+- name: DOS4GW.EXE
+  size: 231179
+  date: '1992-11-11T09:01:00'
+  crc: '0x32376422'
+- name: DRIVERS.CFG
+  size: 40
+  date: '1994-11-18T04:20:30'
+  crc: '0xce4273dc'
+- name: END.DAT
+  size: 768949
+  date: '1993-08-29T15:50:04'
+  crc: '0x493346e3'
+- name: INSTALL.EXE
+  size: 132150
+  date: '1992-11-12T10:11:16'
+  crc: '0xd161c14a'
+- name: INTRO.DAT
+  size: 1967253
+  date: '1993-08-29T13:35:46'
+  crc: '0x6ff5cf3a'
+- name: RAVDATA.DAT
+  size: 8579498
+  date: '1993-09-14T11:30:28'
+  crc: '0x28ff3c7e'
+- name: RAVEN.EXE
+  size: 437733
+  date: '1993-10-13T08:55:24'
+  crc: '0x62b59b05'
+- name: SAMPLE.AD
+  size: 1986
+  date: '1993-08-11T17:27:46'
+  crc: '0x39a36347'
+- name: SHADOW.BAT
+  size: 1019
+  date: '1993-09-23T15:49:54'
+  crc: '0xdc153f97'
+- name: SHADOW.LIB
+  size: 534053
+  date: '1993-10-12T11:53:38'
+  crc: '0x764b94dd'
+- name: SHADOW2.LIB
+  size: 861156
+  date: '1993-09-22T18:42:08'
+  crc: '0x0d6bcd70'
+- name: TESTVOC.EXE
+  size: 31078
+  date: '1993-08-18T17:21:08'
+  crc: '0x078e4918'
+- name: TESTXMI.EXE
+  size: 31630
+  date: '1993-08-18T17:31:44'
+  crc: '0x5fcc0ad4'
+- name: TITLE.DAT
+  size: 441151
+  date: '1993-09-12T13:24:56'
+  crc: '0x8d9040b9'

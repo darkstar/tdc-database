@@ -1,0 +1,26 @@
+filename: Silly Master Blaster (Pinball Construction Set) [a2] (1985)(Anonymous) [Action].zip
+tdc_id: '15055.1'
+title:
+  screen: Silly Master Blaster
+  qualifier: Pinball Construction Set
+publisher: Anonymous
+year: '1985'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:34'
+  last_modified: '2019-03-01T18:24:34'
+type: zip
+tags:
+- Alternate: 2
+requirements:
+  cpu:
+    min: '8088'
+media: Download
+commands:
+  play: PINBALL.EXE
+files:
+- name: PINBALL.EXE
+  size: 25947
+  date: '1980-01-01T00:10:16'
+  crc: '0xe922365e'

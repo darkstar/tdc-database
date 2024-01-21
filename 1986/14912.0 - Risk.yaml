@@ -1,0 +1,30 @@
+filename: Risk (EGA) [SW] (1986)(Russell Fleming) [Strategy].zip
+tdc_id: '14912.0'
+title:
+  screen: Risk
+  qualifier: EGA
+publisher: Russell Fleming
+year: '1986'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:24:56'
+  last_modified: '2019-03-01T18:24:56'
+type: zip
+tags:
+- Shareware
+commands:
+  play: EGARISK.EXE
+files:
+- name: EGARISK.BRD
+  size: 97926
+  date: '1986-09-09T19:23:04'
+  crc: '0xe376e180'
+- name: EGARISK.DOC
+  size: 13952
+  date: '1986-10-03T15:50:18'
+  crc: '0x3f422850'
+- name: EGARISK.EXE
+  size: 110122
+  date: '1986-10-06T19:26:24'
+  crc: '0x88137219'

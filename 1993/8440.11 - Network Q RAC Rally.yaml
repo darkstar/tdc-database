@@ -1,0 +1,163 @@
+filename: Network Q RAC Rally (Installer) [a1][f1] (1993)(Europress Software Ltd.) [Racing - Driving, Sports].zip
+tdc_id: '8440.11'
+title:
+  box: Network Q RAC Rally
+publisher: Europress Software Ltd.
+year: '1993'
+genre:
+- Racing - Driving
+- Sports
+language: English
+date:
+  added: '2022-10-18T08:37:44'
+  last_modified: '2022-10-18T08:37:44'
+type: zip
+tags:
+- Alternate: 1
+- Fixed: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/network-q-rac-rally
+files:
+- name: 001.KDB
+  size: 256
+  date: '1993-12-08T13:47:16'
+  crc: '0x3442f712'
+- name: DISK1\
+  size: 0
+  date: '1993-12-08T13:44:12'
+- name: DISK1\001.KDB
+  size: 256
+  date: '1993-12-08T13:43:46'
+  crc: '0x37bb0f71'
+- name: 'DISK1\DISK #1'
+  size: 0
+  date: '1980-01-01T12:00:00'
+- name: DISK1\RALLY.RNC
+  size: 632320
+  date: '1993-12-08T13:44:12'
+  crc: '0x854abd4a'
+- name: DISK2\
+  size: 0
+  date: '1993-12-08T13:45:18'
+- name: DISK2\002.KDB
+  size: 256
+  date: '1993-12-08T13:44:22'
+  crc: '0x37bb0f71'
+- name: 'DISK2\DISK #1'
+  size: 0
+  date: '1980-01-01T12:00:00'
+- name: DISK2\RALLY.RNC
+  size: 1457152
+  date: '1993-12-08T13:45:18'
+  crc: '0x24c5cfd5'
+- name: DISK3\
+  size: 0
+  date: '1993-12-08T13:46:28'
+- name: DISK3\003.KDB
+  size: 256
+  date: '1993-12-08T13:45:32'
+  crc: '0x37bb0f71'
+- name: 'DISK3\DISK #1'
+  size: 0
+  date: '1980-01-01T12:00:00'
+- name: DISK3\RALLY.RNC
+  size: 1457152
+  date: '1993-12-08T13:46:28'
+  crc: '0x42ebcda3'
+- name: DISK4\
+  size: 0
+  date: '1993-12-08T13:47:16'
+- name: DISK4\004.KDB
+  size: 256
+  date: '1993-12-08T13:47:16'
+  crc: '0x3442f712'
+- name: 'DISK4\DISK #1'
+  size: 0
+  date: '1980-01-01T12:00:00'
+- name: DISK4\RALLY.RNC
+  size: 818810
+  date: '1993-12-08T13:47:14'
+  crc: '0xcb5fd0d8'
+- name: INSTALL.EXE
+  size: 5925
+  date: '1993-11-04T13:08:58'
+  crc: '0xc93eb971'
+- name: INSTALL.LBM
+  size: 23186
+  date: '1993-09-29T20:39:42'
+  crc: '0xf6382535'
+- name: INSTALL.SPR
+  size: 58861
+  date: '1993-10-01T02:16:24'
+  crc: '0x1728aa82'
+- name: INTRO.EXE
+  size: 3590
+  date: '1993-12-08T14:16:52'
+  crc: '0x63a12b4a'
+- name: MENU.EXE
+  size: 30030
+  date: '1993-12-11T10:26:26'
+  crc: '0x05eced3a'
+- name: RAL.EXE
+  size: 43928
+  date: '1993-12-11T10:23:20'
+  crc: '0x6df3627c'
+- name: RALLY.CFG
+  size: 34
+  date: '1993-12-08T14:19:04'
+  crc: '0xcf0a3f76'
+- name: RALLY.EXE
+  size: 1288
+  date: '1993-12-07T18:52:34'
+  crc: '0xf1615b0d'
+- name: RALLY.RNC
+  size: 4365434
+  date: '1993-12-08T13:44:12'
+  crc: '0x86f76586'
+- name: RAL_INTR.MOD
+  size: 229020
+  date: '1993-10-26T20:58:16'
+  crc: '0xcae95949'
+- name: RAL_MENU.MOD
+  size: 67668
+  date: '1993-10-26T12:48:10'
+  crc: '0x0fe40b36'
+- name: RAL_TROP.MOD
+  size: 137222
+  date: '1993-10-15T15:16:52'
+  crc: '0x49970d4d'
+- name: README.EXE
+  size: 3040
+  date: '1993-10-28T00:46:42'
+  crc: '0x7b608994'
+- name: README.TXT
+  size: 10103
+  date: '1993-12-14T16:10:58'
+  crc: '0xc025c77f'
+- name: SAVE1.RAL
+  size: 12674
+  date: '1993-10-22T15:26:44'
+  crc: '0xdc06421a'
+- name: SAVE2.RAL
+  size: 12674
+  date: '1993-10-22T16:08:14'
+  crc: '0x8686719b'
+- name: SAVE3.RAL
+  size: 12674
+  date: '1993-10-22T16:52:06'
+  crc: '0xaf581790'
+- name: SAVE4.RAL
+  size: 12674
+  date: '1993-10-22T18:35:56'
+  crc: '0x1d543523'
+- name: SAVE5.RAL
+  size: 12674
+  date: '1993-10-23T11:46:46'
+  crc: '0x8bce9952'
+- name: SOUND.EXE
+  size: 8553
+  date: '1993-12-11T10:23:22'
+  crc: '0xa2e37155'

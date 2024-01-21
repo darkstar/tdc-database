@@ -1,0 +1,42 @@
+filename: PC-Hack v1.0.1 (1985)(Don Kneller) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '10118.0'
+title:
+  screen: PC-Hack
+publisher: Don Kneller
+year: '1985'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:24:32'
+  last_modified: '2019-03-01T18:24:32'
+version: 1.0.1
+type: zip
+commands:
+  play: HACK.EXE
+files:
+- name: DATA
+  size: 8724
+  date: '1985-06-04T09:20:12'
+  crc: '0x397939c4'
+- name: HACK.DOC
+  size: 9662
+  date: '1985-06-04T09:20:16'
+  crc: '0x67aaad97'
+- name: HACK.EXE
+  size: 223362
+  date: '1985-06-04T09:20:30'
+  crc: '0x9cb3f585'
+- name: HELP
+  size: 4802
+  date: '1985-06-04T09:20:08'
+  crc: '0xd7e58dbf'
+- name: RECORD
+  size: 92
+  date: '1985-06-04T09:20:14'
+  crc: '0xa9836771'
+- name: RUMORS
+  size: 11606
+  date: '1985-06-04T09:20:06'
+  crc: '0x3df279c6'

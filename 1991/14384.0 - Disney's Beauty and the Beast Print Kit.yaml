@@ -1,0 +1,40 @@
+filename: Disney's Beauty and the Beast Print Kit (1991)(Walt Disney Computer Software, Inc.) [Educational].zip
+tdc_id: '14384.0'
+title:
+  box: Disney's Beauty and the Beast Print Kit
+publisher: Walt Disney Computer Software, Inc.
+year: '1991'
+genre: Educational
+language: English
+date:
+  added: '2023-06-06T13:56:24'
+  last_modified: '2023-06-06T13:56:24'
+type: zip
+media: 360K
+commands:
+  play: BB.EXE
+files:
+- name: BB.EXE
+  size: 61430
+  date: '1991-09-10T12:00:00'
+  crc: '0xecdbc675'
+- name: GRAF.PAK
+  size: 135007
+  date: '1991-09-10T12:00:00'
+  crc: '0x8d24a33a'
+- name: MAIN.PAK
+  size: 47591
+  date: '1991-09-10T12:00:00'
+  crc: '0xc8821025'
+- name: PARMS.DAT
+  size: 6
+  date: '1991-09-10T12:00:00'
+  crc: '0x895a8e76'
+- name: PRINT.PAK
+  size: 7416
+  date: '1991-09-10T12:00:00'
+  crc: '0xf2cce797'
+- name: SUBR.PAK
+  size: 55506
+  date: '1991-09-10T12:00:00'
+  crc: '0x38518439'

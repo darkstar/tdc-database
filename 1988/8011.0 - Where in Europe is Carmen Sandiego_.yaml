@@ -1,0 +1,29 @@
+filename: Where in Europe is Carmen Sandiego_ (demo) (1988)(Brøderbund Software, Inc.) [Adventure, Educational].zip
+tdc_id: '8011.0'
+title:
+  box: Where in Europe is Carmen Sandiego?
+  qualifier: demo
+publisher: Brøderbund Software, Inc.
+year: '1988'
+genre:
+- Adventure
+- Educational
+language: English
+date:
+  added: '2019-03-01T18:27:00'
+  last_modified: '2023-05-01T07:14:32'
+type: zip
+demo: true
+commands:
+  play: CARMEN.EXE
+references:
+  mobygames: https://www.mobygames.com/game/4943/where-in-europe-is-carmen-sandiego/
+files:
+- name: CARMEN.DAT
+  size: 96905
+  date: '1988-02-29T17:00:22'
+  crc: '0x1adacaf8'
+- name: CARMEN.EXE
+  size: 59113
+  date: '1988-02-29T17:00:50'
+  crc: '0x055ef037'

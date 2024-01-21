@@ -1,0 +1,42 @@
+filename: Jelly Bean Factory v1.01.19 (Installer) [SW] (1993)(Summit Software) [Action, Strategy].zip
+tdc_id: '9700.0'
+title:
+  screen: Jelly Bean Factory
+publisher: Summit Software
+year: '1993'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2011-07-04T10:19:18'
+  last_modified: '2011-07-04T10:19:18'
+version: 1.01.19
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 232
+  date: '1993-11-06T22:15:24'
+  crc: '0xf30652d5'
+- name: INSTALL.EXE
+  size: 19692
+  date: '1993-11-08T09:51:10'
+  crc: '0xf2483536'
+- name: JBF.1
+  size: 567489
+  date: '1993-11-08T09:52:10'
+  crc: '0x8eb356ed'
+- name: JELLY.DOC
+  size: 6205
+  date: '1993-11-08T09:51:10'
+  crc: '0xe5dac9b8'
+- name: ORDER.DOC
+  size: 1250
+  date: '1993-11-08T09:51:10'
+  crc: '0xea8e21b5'

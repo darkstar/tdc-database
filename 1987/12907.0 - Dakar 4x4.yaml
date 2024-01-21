@@ -1,0 +1,48 @@
+filename: Dakar 4x4 (Fr) (1987)(Coktel Vision) [Action, Racing - Driving].zip
+tdc_id: '12907.0'
+title:
+  box: Dakar 4x4
+publisher: Coktel Vision
+year: '1987'
+genre:
+- Action
+- Racing - Driving
+language: French
+date:
+  added: '2019-03-01T18:25:14'
+  last_modified: '2019-03-01T18:25:14'
+type: zip
+commands:
+  play: DAKAR.COM
+references:
+  dosid: DOS15924
+  exodos: Dakar 4x4 (1987).zip
+files:
+- name: B0
+  size: 16384
+  date: '1987-01-30T12:25:32'
+  crc: '0x494be8f5'
+- name: B1
+  size: 2560
+  date: '1980-01-01T08:11:16'
+  crc: '0x4419b0be'
+- name: B2
+  size: 768
+  date: '1980-01-01T08:51:50'
+  crc: '0xe565e079'
+- name: B3
+  size: 1536
+  date: '1980-01-01T09:08:16'
+  crc: '0xa9c89b79'
+- name: B4
+  size: 256
+  date: '1980-01-01T02:29:06'
+  crc: '0x20cba561'
+- name: B5
+  size: 512
+  date: '1987-02-03T13:15:14'
+  crc: '0x65392cce'
+- name: DAKAR.COM
+  size: 33401
+  date: '1987-02-09T21:32:06'
+  crc: '0x826b3007'

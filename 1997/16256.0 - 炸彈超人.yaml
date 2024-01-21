@@ -1,0 +1,65 @@
+filename: 炸彈超人 (Installer) (Zh) (1997)(Tan Ton Nerw Information Co., Ltd.) [Action].zip
+tdc_id: '16256.0'
+title:
+  box: 炸彈超人
+  translation: Super Bomberman
+  qualifier: Installer
+publisher: Tan Ton Nerw Information Co., Ltd.
+year: '1997'
+genre: Action
+language: Chinese
+date:
+  added: '2021-06-01T15:51:16'
+  last_modified: '2023-06-30T19:00:16'
+type: zip
+media: CD-ROM
+installer: true
+audio:
+- CD-DA
+commands:
+  play: INSTALL.EXE
+files:
+- name: ASCII16.FON
+  size: 3840
+  date: '1992-08-31T19:00:00'
+  crc: '0x25ca2edf'
+- name: DAT.TRJ
+  size: 8847204
+  date: '1997-04-22T12:18:54'
+  crc: '0xe41fa64e'
+- name: INSTALL.BIN
+  size: 3213
+  date: '1995-01-16T09:49:48'
+  crc: '0x7301ae0f'
+- name: INSTALL.CMD
+  size: 1077
+  date: '1997-04-18T17:24:16'
+  crc: '0x0c3ac245'
+- name: INSTALL.EXE
+  size: 58584
+  date: '1997-04-21T10:17:14'
+  crc: '0x925dc5ab'
+- name: INSTALL.R16
+  size: 81991
+  date: '1997-04-14T07:30:28'
+  crc: '0x147bc8dd'
+- name: LEVEL.TRJ
+  size: 139381
+  date: '1997-04-18T16:41:30'
+  crc: '0x2b0ed669'
+- name: MAP.TRJ
+  size: 645667
+  date: '1997-04-18T16:41:12'
+  crc: '0xdabdcc1d'
+- name: SYSTEM.TRJ
+  size: 1408681
+  date: '1997-04-22T20:04:24'
+  crc: '0x02fe6df8'
+- name: TTN.ID
+  size: 14
+  date: '1997-04-18T17:20:56'
+  crc: '0x23f584b5'
+- name: TTN.TRJ
+  size: 16989081
+  date: '1997-04-18T16:51:50'
+  crc: '0x94639f3e'

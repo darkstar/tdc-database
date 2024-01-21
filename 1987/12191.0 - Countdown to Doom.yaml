@@ -1,0 +1,32 @@
+filename: Countdown to Doom (1987)(Topologika Software Ltd.) [Adventure, Interactive Fiction].zip
+tdc_id: '12191.0'
+title:
+  box: Countdown to Doom
+publisher: Topologika Software Ltd.
+year: '1987'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:25:14'
+  last_modified: '2019-03-01T18:25:14'
+type: zip
+commands:
+  play: DOOM.COM
+references:
+  dosid: DOS01536
+  exodos: Countdown to Doom (1987).zip
+files:
+- name: COUNTDWN.DAT
+  size: 57344
+  date: '1987-08-18T21:12:00'
+  crc: '0xfc0bcb8c'
+- name: COUNTDWN.DYN
+  size: 2048
+  date: '1987-08-18T21:12:00'
+  crc: '0x6daaeedc'
+- name: DOOM.COM
+  size: 10240
+  date: '1987-09-01T19:06:00'
+  crc: '0xae822798'

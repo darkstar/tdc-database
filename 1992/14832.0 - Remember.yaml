@@ -1,0 +1,43 @@
+filename: Remember (De) (1992)(Frank Ruttkamp) [Strategy].zip
+tdc_id: '14832.0'
+title:
+  screen: Remember
+publisher: Frank Ruttkamp
+year: '1992'
+genre: Strategy
+language: German
+date:
+  added: '2019-03-01T18:50:16'
+  last_modified: '2019-03-01T18:50:16'
+type: zip
+commands:
+  play: REMEMBER.EXE
+files:
+- name: 1FELD.PUT
+  size: 30604
+  date: '2018-02-26T18:22:34'
+  crc: '0x62822e35'
+- name: 1FRONT.PUT
+  size: 31404
+  date: '2018-02-26T18:22:34'
+  crc: '0x285279eb'
+- name: 2FELD.PUT
+  size: 30404
+  date: '2018-02-26T18:22:34'
+  crc: '0x20f98c85'
+- name: 2FRONT.PUT
+  size: 31404
+  date: '2018-02-26T18:22:34'
+  crc: '0xc665c98b'
+- name: PUNKTE.DAT
+  size: 133
+  date: '2018-02-26T18:22:34'
+  crc: '0x4c2f1fea'
+- name: REMEMBER.EXE
+  size: 53112
+  date: '2018-02-26T18:22:36'
+  crc: '0x82a33af1'
+- name: ZUSATZ.PUT
+  size: 2824
+  date: '2018-02-26T18:22:34'
+  crc: '0x24526fd7'

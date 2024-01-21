@@ -1,0 +1,48 @@
+filename: Battle for Atlantis v1.0 [SWR] (1990)(William Soleau) [Strategy].zip
+tdc_id: '12477.4'
+title:
+  screen: Battle for Atlantis
+publisher: William Soleau
+year: '1990'
+genre: Strategy
+language: English
+date:
+  added: '2023-05-20T14:10:13'
+  last_modified: '2023-05-20T14:10:13'
+version: '1.0'
+type: zip
+tags:
+- SharewareRegistered
+media: Download
+commands:
+  play: ATLANTIS.EXE
+references:
+  mobygames: https://www.mobygames.com/game/75399/battle-for-atlantis/
+files:
+- name: ATLANT1.OVL
+  size: 25298
+  date: '1990-05-02T21:24:12'
+  crc: '0xfd6f5338'
+- name: ATLANT2.OVL
+  size: 33142
+  date: '1990-05-31T23:10:20'
+  crc: '0xf863ce3b'
+- name: ATLANT3.OVL
+  size: 39754
+  date: '1990-06-03T17:15:52'
+  crc: '0x8c9d2e3e'
+- name: ATLANT4.OVL
+  size: 0
+  date: '1980-01-01T00:00:00'
+- name: ATLANTIS.DOC
+  size: 7107
+  date: '1990-06-03T19:41:48'
+  crc: '0xc90f708a'
+- name: ATLANTIS.EXE
+  size: 127632
+  date: '1990-06-03T21:21:18'
+  crc: '0xc8716d2a'
+- name: ATLANTIS.SCR
+  size: 152
+  date: '1991-03-13T02:53:20'
+  crc: '0x8f38bc8a'

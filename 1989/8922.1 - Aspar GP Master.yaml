@@ -1,0 +1,46 @@
+filename: Aspar GP Master [DC] (Es) (1989)(Dinamic Software) [Racing - Driving].zip
+tdc_id: '8922.1'
+parent_id: '8922.3'
+title:
+  box: Aspar GP Master
+  qualifier: CGA
+publisher: Dinamic Software
+year: '1989'
+genre: Racing - Driving
+language: Spanish
+date:
+  added: '2021-06-15T12:43:34'
+  last_modified: '2023-12-22T09:36:33'
+type: zip
+tags:
+- DOSConversion
+media: 360K
+commands:
+  play: ASPAR.COM
+references:
+  mobygames: https://www.mobygames.com/game/1941/grand-prix-master/
+files:
+- name: ASPAR.COM
+  size: 247
+  date: '1980-01-01T00:10:06'
+  crc: '0xe0fc4e65'
+- name: ASPAR.PIC
+  size: 16384
+  date: '1980-01-01T12:00:00'
+  crc: '0x54803ad5'
+- name: ASPAR1.BIN
+  size: 64366
+  date: '1980-01-01T00:31:12'
+  crc: '0x3297b30f'
+- name: ASPAR2.BIN
+  size: 45056
+  date: '1980-01-01T00:33:06'
+  crc: '0x65548198'
+- name: ASPAR3.BIN
+  size: 65535
+  date: '1980-01-01T00:34:56'
+  crc: '0xf5a74133'
+- name: ASPAR4.BIN
+  size: 24576
+  date: '1980-01-01T00:32:30'
+  crc: '0x917bcdc1'

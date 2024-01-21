@@ -1,0 +1,38 @@
+filename: Labyrnth (1995)(Daniel Boswell) [Strategy, Adventure].zip
+tdc_id: '3595.0'
+title:
+  screen: Labyrnth
+publisher: Daniel Boswell
+year: '1995'
+genre:
+- Strategy
+- Adventure
+language: English
+date:
+  added: '2019-03-02T08:56:26'
+  last_modified: '2019-03-02T08:56:26'
+type: zip
+media: Download
+commands:
+  play: start.bat
+files:
+- name: LABLEVEL.DAT
+  size: 7256
+  date: '1995-04-07T19:38:16'
+  crc: '0x3155041c'
+- name: LABYRNTH.BAS
+  size: 39224
+  date: '2007-04-28T18:58:08'
+  crc: '0xd89fe753'
+- name: LABYRNTH.TXT
+  size: 6249
+  date: '1995-07-20T12:49:06'
+  crc: '0x9db7cfc3'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1995-07-11T10:50:00'
+  crc: '0x3152911c'
+- name: start.bat
+  size: 26
+  date: '2014-03-07T11:22:30'
+  crc: '0xc1831d4d'

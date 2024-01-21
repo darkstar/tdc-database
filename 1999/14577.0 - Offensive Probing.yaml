@@ -1,0 +1,29 @@
+filename: Offensive Probing (1999)(Ben Croshaw) [Adventure, Interactive Fiction].zip
+tdc_id: '14577.0'
+title:
+  screen: Offensive Probing
+publisher: Ben Croshaw
+year: '1999'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T10:46:18'
+  last_modified: '2019-03-02T10:46:18'
+type: zip
+commands:
+  play: PROBING.EXE
+files:
+- name: PROBING.EXE
+  size: 120776
+  date: '1999-09-30T15:33:46'
+  crc: '0x6cd0debe'
+- name: Probing.txt
+  size: 4185
+  date: '1999-09-30T18:00:14'
+  crc: '0xd7521c44'
+- name: Probing.z5
+  size: 73216
+  date: '1999-09-19T21:46:38'
+  crc: '0xd8287b4a'

@@ -1,0 +1,39 @@
+filename: Squasher (1989)(Stephen Peter) [Action].zip
+tdc_id: '15463.0'
+title:
+  screen: Squasher
+publisher: Stephen Peter
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:29:04'
+  last_modified: '2019-03-01T18:29:04'
+type: zip
+commands:
+  play: SQUASHER.EXE
+files:
+- name: BOARD.DAT
+  size: 12032
+  date: '1987-09-18T19:43:48'
+  crc: '0x90de519f'
+- name: FIGURES.DAT
+  size: 1920
+  date: '1987-09-08T07:39:30'
+  crc: '0x0cebc7eb'
+- name: HIGHSCOR.DAT
+  size: 30
+  date: '1990-05-18T00:51:12'
+  crc: '0xae390a60'
+- name: SQUASHER.DOC
+  size: 5065
+  date: '1989-06-16T08:16:10'
+  crc: '0xb6245461'
+- name: SQUASHER.EXE
+  size: 41200
+  date: '1989-06-18T12:31:28'
+  crc: '0x12476bcc'
+- name: SQUASHER.INI
+  size: 717
+  date: '1989-05-31T08:57:30'
+  crc: '0xc104af89'

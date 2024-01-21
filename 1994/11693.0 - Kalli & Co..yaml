@@ -1,0 +1,49 @@
+filename: Kalli & Co. (De) (1994)(Volkswagen) [Racing - Driving].zip
+tdc_id: '11693.0'
+title:
+  screen: Kalli & Co.
+publisher: Volkswagen
+year: '1994'
+genre: Racing - Driving
+language: German
+date:
+  added: '2019-03-01T22:01:10'
+  last_modified: '2019-03-01T22:01:10'
+type: zip
+commands:
+  play: KALLI.EXE
+references:
+  dosid: DOS06901
+  exodos: Kalli and Co. (1994).zip
+files:
+- name: DATA\
+  size: 0
+  date: '2018-04-06T15:47:30'
+- name: DATA\KALLI.INF
+  size: 1064
+  date: '1994-03-10T16:35:48'
+  crc: '0xa1dafb27'
+- name: DATA\KALLI.SPR
+  size: 10646
+  date: '1994-03-10T16:35:46'
+  crc: '0x43520ab1'
+- name: DATA\LEVEL01
+  size: 23777
+  date: '1994-03-10T16:43:52'
+  crc: '0xb23019c8'
+- name: DATA\SPIEL01.PAL
+  size: 768
+  date: '1994-03-10T16:35:48'
+  crc: '0xd8dbb7f7'
+- name: DATA\SPIEL01.PIC
+  size: 64000
+  date: '1994-03-10T16:35:48'
+  crc: '0x8c302298'
+- name: KALLI.EXE
+  size: 283916
+  date: '1994-03-10T18:36:58'
+  crc: '0x574c99fb'
+- name: KALLI.HI
+  size: 2200
+  date: '2010-10-29T03:55:46'
+  crc: '0xfbd2ee58'

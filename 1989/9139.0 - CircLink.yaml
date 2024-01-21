@@ -1,0 +1,35 @@
+filename: CircLink [SW] (1989)(Christopher G. Gunn) [Strategy, Puzzle].zip
+tdc_id: '9139.0'
+title:
+  screen: CircLink
+publisher: Christopher G. Gunn
+year: '1989'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-03-01T18:27:26'
+  last_modified: '2019-03-01T18:27:26'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: CIRCLINK.EXE
+references:
+  dosid: DOS06775
+  exodos: Circlink (1989).zip
+files:
+- name: CIRCLINK.DOC
+  size: 3008
+  date: '1989-10-24T02:00:46'
+  crc: '0x55603e1a'
+- name: CIRCLINK.EXE
+  size: 82054
+  date: '1989-05-30T20:46:00'
+  crc: '0xad931586'
+- name: GUNN.REG
+  size: 2526
+  date: '1989-06-27T21:37:46'
+  crc: '0x75ac465c'

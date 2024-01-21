@@ -1,0 +1,32 @@
+filename: Ski King III Prototype (1997)(Axe Productions) [Action, Sports].zip
+tdc_id: '15140.0'
+title:
+  screen: Ski King III Prototype
+publisher: Axe Productions
+year: '1997'
+genre:
+- Action
+- Sports
+language: English
+date:
+  added: '2019-03-02T10:37:50'
+  last_modified: '2019-03-02T10:37:50'
+type: zip
+commands:
+  play: SKIKING3.EXE
+references:
+  dosid: DOS00220
+  exodos: Ski King 3 (1997).zip
+files:
+- name: SKIKING3.DAT
+  size: 37336
+  date: '1998-11-28T07:47:06'
+  crc: '0xd0025d49'
+- name: SKIKING3.DOC
+  size: 3187
+  date: '2006-07-16T15:42:44'
+  crc: '0x7c340cd6'
+- name: SKIKING3.EXE
+  size: 92305
+  date: '1998-11-28T07:57:52'
+  crc: '0x52769812'

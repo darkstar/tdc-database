@@ -1,0 +1,45 @@
+filename: Blue Max- Aces of the Great War v1.1 (1994)(Three-Sixty Pacific, Inc.) [Simulation, Strategy][!].zip
+tdc_id: '8527.1'
+parent_id: '8527.2'
+title:
+  box: 'Blue Max: Aces of the Great War'
+publisher: Three-Sixty Pacific, Inc.
+year: '1994'
+genre:
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2019-03-01T21:54:50'
+  last_modified: '2022-10-15T18:41:50'
+version: '1.1'
+type: zip
+tags:
+- KnownGood
+commands:
+  play: BLUEMAX.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/blue-max-aces-of-the-great-war
+  dosid: DOS01117
+  exodos: Blue Max - Aces of the Great War (1990).zip
+files:
+- name: BLUEMAX.D01
+  size: 171510
+  date: '1991-01-17T12:07:16'
+  crc: '0x7e17664f'
+- name: BLUEMAX.D02
+  size: 371965
+  date: '1991-01-17T12:07:18'
+  crc: '0xcb68e113'
+- name: BLUEMAX.D03
+  size: 371139
+  date: '1991-01-17T12:07:18'
+  crc: '0xf774193b'
+- name: BLUEMAX.D04
+  size: 360803
+  date: '1991-01-17T12:07:18'
+  crc: '0xd56ad00c'
+- name: BLUEMAX.EXE
+  size: 196768
+  date: '1991-03-20T16:22:04'
+  crc: '0xac328b59'

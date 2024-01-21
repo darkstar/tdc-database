@@ -1,0 +1,33 @@
+filename: Chess [SW][a2] (1981)(M.C. Rakaska, S.W. Huggins) [Strategy, Chess].zip
+tdc_id: '5156.2'
+title:
+  screen: Chess
+publisher: M.C. Rakaska, S.W. Huggins
+year: '1981'
+genre:
+- Strategy
+- Chess
+language: English
+date:
+  added: '2019-09-02T05:03:34'
+  last_modified: '2019-09-02T05:03:34'
+type: zip
+tags:
+- Shareware
+- Alternate: 2
+media: Download
+commands:
+  play: CHESS.EXE
+files:
+- name: BASRUN.EXE
+  size: 31744
+  date: '1982-05-07T11:00:04'
+  crc: '0x86bdc5f3'
+- name: CHESS.BAS
+  size: 15488
+  date: '1980-01-01T12:00:00'
+  crc: '0xcf186ebe'
+- name: CHESS.EXE
+  size: 18560
+  date: '1982-08-19T12:00:00'
+  crc: '0xa30accb2'

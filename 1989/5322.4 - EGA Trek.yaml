@@ -1,0 +1,40 @@
+filename: EGA Trek v2.0 [SW][a2] (1989)(Nels Anderson) [Strategy].zip
+tdc_id: '5322.4'
+title:
+  screen: EGA Trek
+publisher: Nels Anderson
+year: '1989'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:27:40'
+  last_modified: '2019-03-01T18:27:40'
+version: '2.0'
+type: zip
+tags:
+- Shareware
+- Alternate: 2
+media: Download
+commands:
+  play: TREK.EXE
+files:
+- name: TREK.DOC
+  size: 26286
+  date: '1989-05-09T07:23:06'
+  crc: '0xc402653c'
+- name: TREK.EXE
+  size: 179520
+  date: '1989-05-09T07:46:12'
+  crc: '0xd68fc9e6'
+- name: TREK.REF
+  size: 1855
+  date: '1989-05-09T04:27:18'
+  crc: '0x92d5a978'
+- name: TREK.SAV
+  size: 1426
+  date: '1988-03-06T18:42:36'
+  crc: '0x5beae34d'
+- name: TREK.SCR
+  size: 209
+  date: '1991-07-17T09:34:02'
+  crc: '0xf1e8e502'

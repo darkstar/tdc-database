@@ -1,0 +1,30 @@
+filename: Werewolf Howls at Dawn, The (1982)(Softline) [Adventure, Interactive Fiction].zip
+tdc_id: '1038.0'
+title:
+  screen: The Werewolf Howls at Dawn
+publisher: Softline
+year: '1982'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:23:06'
+  last_modified: '2019-03-01T18:23:06'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 24
+  date: '2019-01-13T18:33:10'
+  crc: '0x5040d441'
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1988-10-05T02:00:08'
+  crc: '0x2a44af39'
+- name: WEREWOLF.BAS
+  size: 11520
+  date: '1980-01-01T01:05:56'
+  crc: '0x47f0c9ca'

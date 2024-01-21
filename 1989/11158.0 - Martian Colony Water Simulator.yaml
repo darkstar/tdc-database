@@ -1,0 +1,35 @@
+filename: Martian Colony Water Simulator (1989)(Alan Meiss) [Simulation].zip
+tdc_id: '11158.0'
+title:
+  screen: Martian Colony Water Simulator
+publisher: Alan Meiss
+year: '1989'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:28:18'
+  last_modified: '2019-03-01T18:28:18'
+type: zip
+commands:
+  play: WATER.EXE
+files:
+- name: NUM.DAT
+  size: 1000
+  date: '1980-01-24T18:34:22'
+  crc: '0x6061a03e'
+- name: TITLE.PIC
+  size: 16384
+  date: '1989-11-01T20:19:04'
+  crc: '0xa484d9b1'
+- name: WATER.DOC
+  size: 16768
+  date: '1990-05-25T20:56:26'
+  crc: '0x63cc293f'
+- name: WATER.EXE
+  size: 29584
+  date: '1990-05-25T21:01:20'
+  crc: '0x71c46075'
+- name: WATER.PIC
+  size: 16384
+  date: '1989-11-01T20:18:48'
+  crc: '0x7bce55f6'

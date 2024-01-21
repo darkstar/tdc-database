@@ -1,0 +1,36 @@
+filename: Prowler [DC][b1] (1987)(Mastertronic Group Ltd.) [Action].zip
+tdc_id: '10677.0'
+parent_id: '10677.3'
+title:
+  box: Prowler
+publisher: Mastertronic Group Ltd.
+year: '1987'
+genre: Action
+language: English
+date:
+  added: '2022-02-17T11:51:28'
+  last_modified: '2023-11-11T09:03:56'
+type: zip
+tags:
+- DOSConversion
+- Bad: 1
+media: 360K
+commands:
+  play: PROWLER.COM
+references:
+  mobygames: https://www.mobygames.com/game/1220/prowler/
+  dosid: DOS05957
+  exodos: Prowler (1987).zip
+files:
+- name: CODE.DAT
+  size: 156672
+  date: '1999-06-24T07:31:00'
+  crc: '0x2c153a37'
+- name: PIC.DAT
+  size: 16384
+  date: '1999-06-24T07:25:00'
+  crc: '0x774bc192'
+- name: PROWLER.COM
+  size: 240
+  date: '2022-01-29T20:30:12'
+  crc: '0x294039bf'

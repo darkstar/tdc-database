@@ -1,0 +1,36 @@
+filename: Mes lettres, mes chiffres et mes mots v2.2 (Fr) (1990)(Stone & Associates, Nighthawk Computing) [Educational].zip
+tdc_id: '17395.1'
+title:
+  box: Mes lettres, mes chiffres et mes mots
+publisher: Stone & Associates, Nighthawk Computing
+year: '1990'
+genre: Educational
+language: French
+date:
+  added: '2023-12-29T16:35:52'
+  last_modified: '2023-12-29T16:35:52'
+version: '2.2'
+type: zip
+commands:
+  play: Letters.exe
+files:
+- name: CGA.BGI
+  size: 6253
+  date: '1988-08-29T04:00:00'
+  crc: '0x17cbdd92'
+- name: EGAVGA.BGI
+  size: 5363
+  date: '1988-08-29T04:00:00'
+  crc: '0x06d36962'
+- name: LNW.DAT
+  size: 20
+  date: '1990-06-12T17:39:26'
+  crc: '0x67e1d1ab'
+- name: Letters.exe
+  size: 186026
+  date: '1991-08-06T22:34:58'
+  crc: '0x7f2d599e'
+- name: VGA256.BGI
+  size: 3289
+  date: '1990-02-23T16:12:00'
+  crc: '0x55f0b0ba'

@@ -1,0 +1,34 @@
+filename: NSF - Catch the Scouting Spirit v2.1 (Installer) (Sv)(En) [FW] (1995)(Johan Peitz) [Action].zip
+tdc_id: '14529.0'
+title:
+  screen: NSF - Catch the Scouting Spirit
+publisher: Johan Peitz
+year: '1995'
+genre: Action
+language:
+- English
+- Swedish
+date:
+  added: '2018-03-03T14:21:38'
+  last_modified: '2022-11-22T10:25:37'
+version: '2.1'
+type: zip
+tags:
+- Freeware
+media: Download
+installer: true
+commands:
+  play: INSTALL.BAT
+files:
+- name: DONT_RUN.EXE
+  size: 100164
+  date: '1996-12-10T22:35:10'
+  crc: '0xfdf40558'
+- name: FILE_ID.DIZ
+  size: 361
+  date: '1998-10-18T01:18:48'
+  crc: '0xdf113752'
+- name: INSTALL.BAT
+  size: 18
+  date: '1996-12-10T22:40:20'
+  crc: '0x4c3428c7'

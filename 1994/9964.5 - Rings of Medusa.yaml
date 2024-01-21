@@ -1,0 +1,47 @@
+filename: Rings of Medusa v1.30 (De) (1994)(Topshots) [Strategy].zip
+tdc_id: '9964.5'
+title:
+  box: Rings of Medusa
+publisher: Topshots
+year: '1994'
+genre: Strategy
+language: German
+date:
+  added: '2021-06-02T18:04:16'
+  last_modified: '2023-09-02T13:24:03'
+version: '1.30'
+type: zip
+media: 720K
+commands:
+  play: ROM.EXE
+references:
+  mobygames: https://www.mobygames.com/game/6203/rings-of-medusa/
+files:
+- name: CGA.RES
+  size: 162788
+  date: '1990-05-21T22:28:16'
+  crc: '0x465d46d0'
+- name: EGA.RES
+  size: 295666
+  date: '1990-05-21T20:33:52'
+  crc: '0xaf53245e'
+- name: GMAPS.PKD
+  size: 8272
+  date: '1990-02-12T15:36:32'
+  crc: '0xcf51e192'
+- name: READ.ME
+  size: 492
+  date: '1993-08-02T13:24:20'
+  crc: '0x85f3c714'
+- name: ROM.EXE
+  size: 176314
+  date: '1990-06-06T18:00:12'
+  crc: '0x3edb8549'
+- name: SND.RES
+  size: 63030
+  date: '1990-04-17T18:14:54'
+  crc: '0xc77c9088'
+- name: TMAPS.PKD
+  size: 3200
+  date: '1990-02-12T15:34:52'
+  crc: '0x15e1d2c7'

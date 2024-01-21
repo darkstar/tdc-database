@@ -1,0 +1,32 @@
+filename: Nuclear- Part II v1.071 (Installer) [SW] (1996)(Chris Jones) [Action].zip
+tdc_id: '14532.0'
+title:
+  screen: 'Nuclear: Part II'
+publisher: Chris Jones
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2021-06-05T00:11:20'
+  last_modified: '2021-06-05T00:11:20'
+version: '1.071'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.1
+  size: 625626
+  date: '1998-06-18T20:42:28'
+  crc: '0x180e9727'
+- name: INSTALL.CFG
+  size: 218
+  date: '1998-06-18T20:44:46'
+  crc: '0x2c751b4b'
+- name: INSTALL.EXE
+  size: 64006
+  date: '1998-04-25T19:26:52'
+  crc: '0xa036e184'

@@ -1,0 +1,50 @@
+filename: Pinball Construction Set [DC][b1] (1985)(Electronic Arts, Inc.) [Action].zip
+tdc_id: '10260.1'
+title:
+  box: Pinball Construction Set
+publisher: Electronic Arts, Inc.
+year: '1985'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:32'
+  last_modified: '2019-03-01T18:24:32'
+type: zip
+tags:
+- DOSConversion
+- Bad: 1
+commands:
+  play: PINBALL.COM
+files:
+- name: DATA.BIN
+  size: 4722
+  date: '1980-01-01T11:31:28'
+  crc: '0xb330631d'
+- name: DEMO1.PB
+  size: 732
+  date: '1997-06-22T23:12:40'
+  crc: '0xc08655ed'
+- name: DEMO2.PB
+  size: 1988
+  date: '1997-06-22T23:12:40'
+  crc: '0xdc505a70'
+- name: DEMO3.PB
+  size: 3452
+  date: '1997-06-22T23:12:40'
+  crc: '0x2f20d41b'
+- name: DEMO4.PB
+  size: 3187
+  date: '1997-06-22T23:12:40'
+  crc: '0x0c332ae4'
+- name: DEMO5.PB
+  size: 3707
+  date: '1997-06-22T23:12:40'
+  crc: '0x62aa706d'
+- name: PINBALL.COM
+  size: 50432
+  date: '1986-04-23T12:00:00'
+  crc: '0xb6ea7d4c'
+- name: PINBALL.PIC
+  size: 16384
+  date: '1988-08-10T22:46:10'
+  crc: '0x3a2edcd4'

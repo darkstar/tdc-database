@@ -1,0 +1,100 @@
+filename: King's Quest IV- The Perils of Rosella v1.000.111 [tr Ru] (1988)(Sierra On-Line, Inc.) [Adventure].zip
+tdc_id: '11815.0'
+parent_id: '11815.14'
+title:
+  box: 'King''s Quest IV: The Perils of Rosella'
+  screen: King's Quest IV- Приключения Розеллы
+publisher: Sierra On-Line, Inc.
+year: '1988'
+genre: Adventure
+language: Russian
+date:
+  added: '2022-04-04T00:27:56'
+  last_modified: '2023-06-26T08:43:40'
+version: 1.000.111
+type: zip
+tags:
+- Translated
+media: 360K
+commands:
+  play: SIERRA.EXE
+  setup: INSTAL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/129/kings-quest-iv-the-perils-of-rosella/
+files:
+- name: ADL.DRV
+  size: 5720
+  date: '1988-09-23T07:25:28'
+  crc: '0xfbf83aec'
+- name: CGA320BW.DRV
+  size: 2404
+  date: '1988-09-15T13:30:08'
+  crc: '0x54834c4f'
+- name: CGA320C.DRV
+  size: 2404
+  date: '1988-09-01T05:30:12'
+  crc: '0x47d14587'
+- name: EGA320.DRV
+  size: 1952
+  date: '1988-09-15T13:29:32'
+  crc: '0xf6658b70'
+- name: IBMKBD.DRV
+  size: 442
+  date: '1988-09-09T13:59:58'
+  crc: '0x3d43a22c'
+- name: IMF.DRV
+  size: 4973
+  date: '1988-09-23T07:23:40'
+  crc: '0x77e5e89f'
+- name: INSTALL.EXE
+  size: 18201
+  date: '1988-09-26T07:58:34'
+  crc: '0x884d0075'
+- name: JOYSTICK.DRV
+  size: 494
+  date: '1988-09-09T09:54:04'
+  crc: '0x5da73437'
+- name: JR.DRV
+  size: 1883
+  date: '1988-09-23T07:22:34'
+  crc: '0xacf6166f'
+- name: MCGA320.DRV
+  size: 1552
+  date: '1988-09-15T13:29:54'
+  crc: '0x3f0d0f87'
+- name: MT32.DRV
+  size: 1747
+  date: '1988-09-23T07:24:12'
+  crc: '0x3367139d'
+- name: RESOURCE.CFG
+  size: 74
+  date: '2016-07-11T21:04:50'
+  crc: '0xbff3abdd'
+- name: SIERRA.EXE
+  size: 73407
+  date: '1988-09-26T07:58:28'
+  crc: '0xcfb29033'
+- name: STD.DRV
+  size: 1333
+  date: '1988-09-23T07:21:58'
+  crc: '0xd038c4db'
+- name: TANDY320.DRV
+  size: 1648
+  date: '1988-09-15T13:29:44'
+  crc: '0x1276b6ae'
+- name: TANDYKBD.DRV
+  size: 477
+  date: '1988-09-09T13:57:40'
+  crc: '0x3820b6b6'
+- name: readme_rus.txt
+  size: 908
+  date: '2016-07-17T00:20:52'
+  crc: '0x522bf6e1'
+- name: resource.001
+  size: 2401589
+  date: '2016-07-16T23:27:34'
+  crc: '0x767ff2fa'
+- name: resource.map
+  size: 5712
+  date: '2016-07-16T23:27:34'
+  crc: '0xa75b6361'

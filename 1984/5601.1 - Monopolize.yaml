@@ -1,0 +1,29 @@
+filename: Monopolize [SW] (1984)(Frank R. Neal) [Strategy].zip
+tdc_id: '5601.1'
+title:
+  screen: Monopolize
+publisher: Frank R. Neal
+year: '1984'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:24:10'
+  last_modified: '2019-03-01T18:24:10'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: Monopoly.exe
+references:
+  dosid: DOS06383
+  exodos: Monopoly 1985 (1985).zip
+files:
+- name: Monopoly.exe
+  size: 65408
+  date: '1984-11-03T00:51:00'
+  crc: '0x80c88063'
+- name: monopoly.pic
+  size: 4224
+  date: '1984-11-03T00:51:00'
+  crc: '0xbfb7a591'

@@ -1,0 +1,24 @@
+filename: NetWars v2.03 (1993)(Novell, Inc.) [Action].zip
+tdc_id: '14435.0'
+title:
+  box: NetWars
+publisher: Novell, Inc.
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T19:15:26'
+  last_modified: '2019-03-01T19:15:26'
+version: '2.03'
+type: zip
+commands:
+  play: NETWARS.EXE
+files:
+- name: HISCORES.DAT
+  size: 80
+  date: '1994-05-22T17:02:00'
+  crc: '0x4695b928'
+- name: NETWARS.EXE
+  size: 43659
+  date: '1994-03-15T20:52:44'
+  crc: '0x38829eb7'

@@ -1,0 +1,33 @@
+filename: Flagger [SW] (1992)(James A. Sausville) [Strategy].zip
+tdc_id: '13636.0'
+title:
+  screen: Flagger
+publisher: James A. Sausville
+year: '1992'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:44:48'
+  last_modified: '2019-03-01T18:44:48'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: FLAGGER.EXE
+references:
+  dosid: DOS02236
+  exodos: Flagger (1992).zip
+files:
+- name: FLAGGER.EXE
+  size: 79962
+  date: '1992-12-17T05:41:20'
+  crc: '0x2cdb7012'
+- name: FLAGSTUF.FLG
+  size: 9727
+  date: '1992-12-02T06:11:56'
+  crc: '0xc22dc8a4'
+- name: HISCORE1.DAT
+  size: 101
+  date: '1995-07-10T21:01:02'
+  crc: '0x41aded97'

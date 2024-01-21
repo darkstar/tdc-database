@@ -1,0 +1,30 @@
+filename: Pinball Mania v1.00b (Installer) (1995)(21st Century Entertainment Ltd.) [Simulation, Action].zip
+tdc_id: '10268.0'
+title:
+  box: Pinball Mania
+publisher: 21st Century Entertainment Ltd.
+year: '1995'
+genre:
+- Simulation
+- Action
+language: English
+date:
+  added: '2019-03-02T08:58:14'
+  last_modified: '2019-03-02T08:58:14'
+version: 1.00b
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  dosid: DOS04011
+  exodos: Pinball Mania (1995).zip
+files:
+- name: INSTALL.EXE
+  size: 49990
+  date: '1995-05-15T01:00:00'
+  crc: '0x9ab2370b'
+- name: MANIA.LCC
+  size: 1378386
+  date: '1995-05-15T01:00:00'
+  crc: '0x1f1502b0'

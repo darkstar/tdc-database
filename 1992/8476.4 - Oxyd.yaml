@@ -1,0 +1,58 @@
+filename: Oxyd v3.9 (En)(De)(Fr) [a1] (1992)(Dongleware Verlags GmbH) [Strategy, Action].zip
+tdc_id: '8476.4'
+title:
+  box: Oxyd
+publisher: Dongleware Verlags GmbH
+year: '1992'
+genre:
+- Strategy
+- Action
+language:
+- English
+- French
+- German
+date:
+  added: '2019-03-01T18:49:50'
+  last_modified: '2019-03-01T18:49:50'
+version: '3.9'
+type: zip
+tags:
+- Alternate: 1
+commands:
+  play: OXYD.EXE
+references:
+  dosid: DOS03876
+  exodos: Oxyd (1992).zip
+files:
+- name: ADDRESS.OX1
+  size: 155
+  date: '1994-10-20T12:01:18'
+  crc: '0x9a49d5ab'
+- name: DISCOUNT.TXT
+  size: 996
+  date: '1994-10-20T12:01:40'
+  crc: '0xfbe49e4f'
+- name: HINTS.TXT
+  size: 4692
+  date: '1994-10-20T12:02:04'
+  crc: '0x503c36ff'
+- name: LANGUAGE.OX1
+  size: 2
+  date: '1993-06-17T12:49:34'
+  crc: '0x2fc51328'
+- name: OXYD.EXE
+  size: 291506
+  date: '1993-04-03T08:10:44'
+  crc: '0xb69ee9d1'
+- name: OXYD1IBM.DAT
+  size: 574947
+  date: '1993-04-08T11:59:00'
+  crc: '0x6df0ed06'
+- name: README.TXT
+  size: 3116
+  date: '1993-06-25T15:34:48'
+  crc: '0x0332fbe6'
+- name: SOUND.OX1
+  size: 2
+  date: '1993-04-08T12:00:38'
+  crc: '0x58c223be'

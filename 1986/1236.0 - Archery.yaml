@@ -1,0 +1,26 @@
+filename: Archery (1986)(Brian Blankenship) [Action].zip
+tdc_id: '1236.0'
+title:
+  screen: Archery
+publisher: Brian Blankenship
+year: '1986'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:40'
+  last_modified: '2019-03-01T18:24:40'
+type: zip
+commands:
+  play: ARCHERY.EXE
+references:
+  dosid: DOS06502
+  exodos: Archery (1985).zip
+files:
+- name: ARCHERY.EXE
+  size: 31616
+  date: '1986-04-01T20:28:22'
+  crc: '0x86c3d5f2'
+- name: ARCHERY.SCR
+  size: 256
+  date: '1998-05-10T15:07:20'
+  crc: '0x1793ea87'

@@ -1,0 +1,29 @@
+filename: Snake Pit [SW] (1986)(Robert Kemmetmueller) [Action].zip
+tdc_id: '15192.0'
+title:
+  screen: Snake Pit
+publisher: Robert Kemmetmueller
+year: '1986'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:56'
+  last_modified: '2019-03-01T18:24:56'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: SNAKEPIT.COM
+references:
+  dosid: DOS15738
+  exodos: Snake Pit (1986).zip
+files:
+- name: SNAKEPIT.COM
+  size: 24916
+  date: '1986-08-18T21:14:22'
+  crc: '0x6f344f0e'
+- name: SNAKEPIT.DAT
+  size: 25758
+  date: '1986-07-03T17:01:18'
+  crc: '0x5096bf45'

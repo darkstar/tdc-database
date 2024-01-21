@@ -1,0 +1,31 @@
+filename: Castle Adventure [h1] (1984)(Kevin Bales) [Action, Adventure].zip
+tdc_id: '5483.2'
+title:
+  screen: Castle Adventure
+publisher: Kevin Bales
+year: '1984'
+genre:
+- Action
+- Adventure
+language: English
+date:
+  added: '2019-03-01T18:24:22'
+  last_modified: '2019-03-01T18:24:22'
+type: zip
+tags:
+- Hack: 1
+commands:
+  play: Castle.exe
+files:
+- name: CASTLE.RAN
+  size: 48512
+  date: '1987-09-12T11:39:06'
+  crc: '0xb63dc20f'
+- name: CASTLE.TIP
+  size: 1645
+  date: '1992-08-05T17:59:16'
+  crc: '0x61930328'
+- name: Castle.exe
+  size: 72960
+  date: '1998-04-26T16:33:52'
+  crc: '0x6c0c6285'

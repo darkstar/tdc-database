@@ -1,0 +1,42 @@
+filename: Tau Ceti (1987)(Thunder Mountain) [Action, Simulation][!].zip
+tdc_id: '16468.0'
+title:
+  box: Tau Ceti
+publisher: Thunder Mountain
+year: '1987'
+genre:
+- Action
+- Simulation
+language: English
+date:
+  added: '2019-03-01T18:25:42'
+  last_modified: '2022-08-30T15:19:11'
+type: zip
+tags:
+- KnownGood
+commands:
+  play: TAU.EXE
+references:
+  dosid: DOS05032
+  exodos: Tau Ceti (1987).zip
+files:
+- name: CITIES.DAT
+  size: 12032
+  date: '1988-04-29T14:06:36'
+  crc: '0xf3cdcba4'
+- name: LOGOPC.DAT
+  size: 16712
+  date: '1988-04-29T13:13:00'
+  crc: '0x90b64d52'
+- name: PICTURE.DAT
+  size: 40960
+  date: '1988-06-09T12:59:06'
+  crc: '0x225717ba'
+- name: SCREEN.DAT
+  size: 16000
+  date: '1988-03-20T17:32:20'
+  crc: '0x7b8a64f1'
+- name: TAU.EXE
+  size: 28697
+  date: '1989-08-30T16:31:50'
+  crc: '0x0aa565f8'

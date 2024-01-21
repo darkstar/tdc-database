@@ -1,0 +1,31 @@
+filename: Funball (Installer) (En)(Fr)(De) [SWR] (1995)(Impulse Games, Inc.) [Strategy].zip
+tdc_id: '13865.0'
+title:
+  screen: Funball
+publisher: Impulse Games, Inc.
+year: '1995'
+genre: Strategy
+language:
+- English
+- French
+- German
+date:
+  added: '2019-03-02T08:44:06'
+  last_modified: '2022-11-21T08:40:36'
+type: zip
+tags:
+- SharewareRegistered
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/funball
+files:
+- name: INSTALL.EXE
+  size: 22321
+  date: '1995-03-21T17:58:10'
+  crc: '0x451bfce0'
+- name: _INSTALL.DAT
+  size: 1239859
+  date: '1995-03-21T17:51:46'
+  crc: '0x6ea87251'

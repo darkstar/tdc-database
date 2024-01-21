@@ -1,0 +1,31 @@
+filename: Dino Eggs [h1][b1][DC] (1983)(Micro Fun) [Action].zip
+tdc_id: '13183.1'
+title:
+  box: Dino Eggs
+publisher: Micro Fun
+year: '1983'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:23:12'
+  last_modified: '2019-03-01T18:23:12'
+type: zip
+tags:
+- DOSConversion
+- Hack: 1
+- Bad: 1
+commands:
+  play: DINOEGGS.COM
+files:
+- name: DINOBY50.BIN
+  size: 49152
+  date: '1986-11-27T20:29:36'
+  crc: '0x635ee7b8'
+- name: DINOBY50.DAT
+  size: 65536
+  date: '1986-11-27T20:41:10'
+  crc: '0x52428555'
+- name: DINOEGGS.COM
+  size: 16896
+  date: '1986-11-27T20:20:30'
+  crc: '0xace9909d'

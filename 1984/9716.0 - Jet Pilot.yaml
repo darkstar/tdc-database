@@ -1,0 +1,35 @@
+filename: Jet Pilot (1984)(Anonymous) [Simulation].zip
+tdc_id: '9716.0'
+title:
+  screen: Jet Pilot
+publisher: Anonymous
+year: '1984'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:24:08'
+  last_modified: '2019-03-01T18:24:08'
+type: zip
+media: Download
+commands:
+  play: JET.BAT
+references:
+  dosid: DOS15564
+  exodos: Jet Pilot (1984).zip
+files:
+- name: GWBASIC.EXE
+  size: 80592
+  date: '2001-05-04T06:58:22'
+  crc: '0x8462d0e4'
+- name: JET.BAT
+  size: 18
+  date: '2008-04-23T09:52:42'
+  crc: '0xa47895ee'
+- name: JETPILOT.BAS
+  size: 14080
+  date: '1984-10-28T00:06:00'
+  crc: '0x5ae86841'
+- name: JETPILOT.DOC
+  size: 3456
+  date: '1984-10-28T00:06:00'
+  crc: '0xb0fb4e91'

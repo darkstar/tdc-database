@@ -1,0 +1,47 @@
+filename: Jump (Es) (1992)(Zigurat Software S.L.) [Action].zip
+tdc_id: '11650.0'
+title:
+  screen: Jump
+publisher: Zigurat Software S.L.
+year: '1992'
+genre: Action
+language: Spanish
+date:
+  added: '2019-03-01T18:48:30'
+  last_modified: '2023-02-16T15:27:28'
+type: zip
+commands:
+  play: JUMP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/jump
+  dosid: DOS02959
+  exodos: Jump (1992).zip
+files:
+- name: J1.DAT
+  size: 56253
+  date: '1992-02-21T10:51:34'
+  crc: '0xe9734689'
+- name: J2.DAT
+  size: 79422
+  date: '1992-02-21T15:50:30'
+  crc: '0x3dd5650b'
+- name: JUMP.EXE
+  size: 1438
+  date: '1992-05-19T20:22:46'
+  crc: '0x4c74afdd'
+- name: PANCGA.BIN
+  size: 16384
+  date: '1992-04-20T11:56:30'
+  crc: '0x56e7990a'
+- name: PANEGA1.BIN
+  size: 51200
+  date: '1992-04-20T12:41:56'
+  crc: '0x2009f27f'
+- name: PANEGA2.BIN
+  size: 51200
+  date: '1992-04-20T12:42:30'
+  crc: '0x6c05c369'
+- name: PANEGA3.BIN
+  size: 51200
+  date: '1992-04-20T12:43:16'
+  crc: '0xb37491b2'

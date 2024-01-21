@@ -1,0 +1,115 @@
+filename: Life & Death 2- The Brain v1.1 (Installer) (1990)(Software Toolworks, Inc., The) [Simulation, Strategy].zip
+tdc_id: '5590.1'
+title:
+  box: 'Life & Death 2: The Brain'
+publisher: Software Toolworks, Inc., The
+year: '1990'
+genre:
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2021-10-26T22:57:20'
+  last_modified: '2021-10-26T22:57:20'
+version: '1.1'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: CP\
+  size: 0
+  date: '1997-02-27T01:54:32'
+- name: CP\ANIM.EGA
+  size: 85450
+  date: '1990-11-29T00:00:00'
+  crc: '0x10742d2f'
+- name: CP\ANIM.VGA
+  size: 136645
+  date: '1990-11-29T00:00:00'
+  crc: '0xcacf47a4'
+- name: CP\CLASS.EGA
+  size: 20078
+  date: '1990-11-29T00:00:00'
+  crc: '0xcd5f49f5'
+- name: CP\CLASS.VGA
+  size: 25618
+  date: '1990-11-29T00:00:00'
+  crc: '0xcccce668'
+- name: CP\DIMAGES.EGA
+  size: 196333
+  date: '1990-11-29T00:00:00'
+  crc: '0xdfcb732f'
+- name: CP\DIMAGES.VGA
+  size: 342761
+  date: '1990-11-29T00:00:00'
+  crc: '0xdb275275'
+- name: CP\HIMAGES.EGA
+  size: 189727
+  date: '1990-11-29T00:00:00'
+  crc: '0x5cd04b7c'
+- name: CP\HIMAGES.VGA
+  size: 352635
+  date: '1990-12-02T00:00:00'
+  crc: '0xa1a085d2'
+- name: CP\HOSPITAL.RSC
+  size: 129800
+  date: '1990-12-02T00:00:00'
+  crc: '0xdaac31e9'
+- name: CP\MC.EGA
+  size: 230
+  date: '1990-11-29T00:00:00'
+  crc: '0x3962f392'
+- name: CP\MC.VGA
+  size: 232
+  date: '1990-11-29T00:00:00'
+  crc: '0x8e9f15ce'
+- name: CP\OP_IMAGE.EGA
+  size: 224661
+  date: '1990-11-29T00:00:00'
+  crc: '0xb78633f4'
+- name: CP\OP_IMAGE.VGA
+  size: 348079
+  date: '1990-11-29T00:00:00'
+  crc: '0xea417fef'
+- name: CP\OP_SOUND.RES
+  size: 59382
+  date: '1990-11-29T00:00:00'
+  crc: '0x231d5092'
+- name: CP\TITLE.EGA
+  size: 13014
+  date: '1990-11-29T00:00:00'
+  crc: '0xaa2d30b5'
+- name: CP\TITLE.VGA
+  size: 20286
+  date: '1990-11-29T00:00:00'
+  crc: '0xd37a15fe'
+- name: DI1.QPZ
+  size: 4
+  date: '1990-12-02T00:00:00'
+  crc: '0x04e5916b'
+- name: DI2.QPZ
+  size: 0
+  date: '1990-11-29T00:00:00'
+- name: DI3.QPZ
+  size: 0
+  date: '1990-11-29T00:00:00'
+- name: DI4.QPZ
+  size: 0
+  date: '1990-11-29T00:00:00'
+- name: INSTALL.EXE
+  size: 65104
+  date: '1990-12-02T00:00:00'
+  crc: '0xa014d0e3'
+- name: INSTALL.EX_
+  size: 65104
+  date: '1990-12-02T00:00:00'
+  crc: '0xcd07fcca'
+- name: LD2_1.TZF
+  size: 105305
+  date: '1990-12-02T00:00:00'
+  crc: '0x44fd8804'
+- name: LD2_2.TZF
+  size: 86154
+  date: '1990-11-29T00:00:00'
+  crc: '0x41de575e'

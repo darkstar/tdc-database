@@ -1,0 +1,48 @@
+filename: Pizza Worm v2.1h (2007)(Zorlim Software) [Action].zip
+tdc_id: '10326.7'
+title:
+  screen: Pizza Worm
+publisher: Zorlim Software
+year: '2007'
+genre: Action
+language: English
+date:
+  added: '2011-10-01T20:02:32'
+  last_modified: '2011-10-01T20:02:32'
+version: 2.1h
+type: zip
+media: Download
+commands:
+  play: pworm.exe
+references:
+  dosid: DOS04029
+  exodos: Pizza Worm (1994).zip
+files:
+- name: FILE_ID.DIZ
+  size: 287
+  date: '2007-09-29T09:59:26'
+  crc: '0xa9ece62f'
+- name: PWORM.001
+  size: 185558
+  date: '1995-01-11T17:03:36'
+  crc: '0x58838806'
+- name: PWORM.002
+  size: 35152
+  date: '1995-01-11T21:21:52'
+  crc: '0xad7e654a'
+- name: PWORM.003
+  size: 18866
+  date: '1995-01-11T21:21:52'
+  crc: '0x7a91b3ba'
+- name: PWORM.004
+  size: 33949
+  date: '1995-01-11T21:21:52'
+  crc: '0x2026ff4a'
+- name: PWORM.DOC
+  size: 5989
+  date: '2007-09-29T10:05:30'
+  crc: '0xf3d4ae74'
+- name: pworm.exe
+  size: 89344
+  date: '2007-09-29T10:04:54'
+  crc: '0xcda17d8e'

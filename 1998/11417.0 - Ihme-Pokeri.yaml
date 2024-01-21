@@ -1,0 +1,33 @@
+filename: Ihme-Pokeri (Fi) (1998)(Kaima, Kai Kuittinen) [Strategy, Cards].zip
+tdc_id: '11417.0'
+title:
+  screen: Ihme-Pokeri
+publisher: Kaima, Kai Kuittinen
+year: '1998'
+genre:
+- Strategy
+- Cards
+language: Finnish
+date:
+  added: '2016-09-29T16:24:52'
+  last_modified: '2016-09-29T16:24:52'
+type: zip
+media: Download
+commands:
+  play: IPOKER.EXE
+files:
+- name: IPOKCL.FND
+  size: 2
+  date: '1997-11-16T18:11:44'
+  crc: '0x14a285ac'
+- name: IPOKER.EXE
+  size: 43744
+  date: '1997-07-01T03:00:10'
+  crc: '0xed4f821c'
+- name: TOPPOK.DAT
+  size: 0
+  date: '1998-01-23T12:38:08'
+- name: file_id.diz
+  size: 29
+  date: '1998-01-23T12:38:30'
+  crc: '0x7f34a4f1'

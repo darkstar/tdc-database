@@ -1,0 +1,49 @@
+filename: Black Jack (1995)(William Yu) [Strategy, Cards].zip
+tdc_id: '8541.0'
+title:
+  screen: Black Jack
+publisher: William Yu
+year: '1995'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-02T07:30:28'
+  last_modified: '2019-03-02T07:30:28'
+type: zip
+commands:
+  play: GO.BAT
+files:
+- name: BJ.BAS
+  size: 16418
+  date: '2018-03-11T00:46:32'
+  crc: '0x0bc4037a'
+- name: BJ.ICO
+  size: 1147
+  date: '2018-03-11T00:44:42'
+  crc: '0xf6d178b0'
+- name: BJ2.ICO
+  size: 1183
+  date: '2018-03-11T00:44:52'
+  crc: '0xcaaf1e00'
+- name: GO.BAT
+  size: 21
+  date: '2018-03-11T00:45:48'
+  crc: '0xbdbaf34c'
+- name: QB.BI
+  size: 2005
+  date: '2016-03-13T01:19:44'
+  crc: '0x3c41bdf3'
+- name: QB.EXE
+  size: 278804
+  date: '2016-03-13T01:19:58'
+  crc: '0xb08bc0fe'
+- name: QB.LIB
+  size: 2075
+  date: '2016-03-13T01:20:46'
+  crc: '0xaf756407'
+- name: QB.QLB
+  size: 5822
+  date: '2016-03-13T01:20:46'
+  crc: '0x5f7d93e0'

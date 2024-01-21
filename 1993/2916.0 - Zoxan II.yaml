@@ -1,0 +1,28 @@
+filename: Zoxan II (1993)(Tapani Raiko) [Action].zip
+tdc_id: '2916.0'
+title:
+  screen: Zoxan II
+publisher: Tapani Raiko
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T21:12:50'
+  last_modified: '2019-03-01T21:12:50'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 26
+  date: '2018-06-30T21:03:38'
+  crc: '0x22c3aac1'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T01:28:02'
+  crc: '0x19f6ed75'
+- name: ZOXAN2.BAS
+  size: 16437
+  date: '2018-03-10T02:26:18'
+  crc: '0xece8de2a'

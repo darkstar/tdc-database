@@ -1,0 +1,37 @@
+filename: Centipede [h1] (1983)(R. J. Grafe) [Action].zip
+tdc_id: '8608.5'
+title:
+  screen: Centipede
+publisher: R. J. Grafe
+year: '1983'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:23:08'
+  last_modified: '2019-03-01T18:23:08'
+type: zip
+tags:
+- Hack: 1
+commands:
+  play: CTP.EXE
+files:
+- name: CTP.EXE
+  size: 17536
+  date: '1985-12-09T21:28:06'
+  crc: '0x136104f2'
+- name: JOYSTICK.CTP
+  size: 18
+  date: '1987-05-08T16:00:28'
+  crc: '0xdc4d4cb4'
+- name: TOPTENA.CTP
+  size: 237
+  date: '1986-04-19T04:43:16'
+  crc: '0xed472bf6'
+- name: TOPTENP.CTP
+  size: 237
+  date: '1987-05-08T16:00:02'
+  crc: '0xfba5a370'
+- name: TOPTENS.CTP
+  size: 237
+  date: '1987-05-08T16:05:16'
+  crc: '0x9a431d0e'

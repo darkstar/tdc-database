@@ -1,0 +1,30 @@
+filename: CompuRace (1997)(Jay Cook) [Action, Racing - Driving].zip
+tdc_id: '6091.0'
+title:
+  screen: CompuRace
+publisher: Jay Cook
+year: '1997'
+genre:
+- Action
+- Racing - Driving
+language: English
+date:
+  added: '2019-03-02T10:26:00'
+  last_modified: '2019-03-02T10:26:00'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: COMPRACE.BAS
+  size: 13991
+  date: '2018-03-10T02:24:48'
+  crc: '0x0c98e9b8'
+- name: GO.BAT
+  size: 28
+  date: '2018-06-30T16:21:48'
+  crc: '0xdbc92968'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T01:28:02'
+  crc: '0x19f6ed75'

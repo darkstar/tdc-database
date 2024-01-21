@@ -1,0 +1,28 @@
+filename: Light Cycles (1995)(Anonymous) [Action].zip
+tdc_id: '6393.0'
+title:
+  screen: Light Cycles
+publisher: Anonymous
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T08:56:30'
+  last_modified: '2019-03-02T08:56:30'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 28
+  date: '2018-12-08T15:30:08'
+  crc: '0xf99d0976'
+- name: LIGHTCY2.BAS
+  size: 3748
+  date: '1995-06-24T16:54:22'
+  crc: '0xdd51ced6'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

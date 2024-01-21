@@ -1,0 +1,28 @@
+filename: Games, The- Summer Challenge (Installer) (1992)(Accolade, Inc.) [Action, Sports][!].zip
+tdc_id: '13948.1'
+parent_id: '13948.2'
+title:
+  box: 'The Games: Summer Challenge'
+publisher: Accolade, Inc.
+year: '1992'
+genre:
+- Action
+- Sports
+language: English
+date:
+  added: '2022-03-24T08:26:54'
+  last_modified: '2022-03-24T08:26:54'
+type: zip
+tags:
+- KnownGood
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  dosid: DOS02360
+  exodos: Games, The - Summer Challenge (1992).zip
+files:
+- name: INSTALL.EXE
+  size: 819200
+  date: '1992-10-01T22:28:34'
+  crc: '0x08983319'

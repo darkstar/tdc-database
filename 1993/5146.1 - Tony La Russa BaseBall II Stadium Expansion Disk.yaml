@@ -1,0 +1,46 @@
+filename: Tony La Russa BaseBall II Stadium Expansion Disk (Installer) [a1] (1993)(Strategic Simulations, Inc.) [Simulation, Sports, Strategy, Addon].zip
+tdc_id: '5146.1'
+title:
+  box: Tony La Russa BaseBall II Stadium Expansion Disk
+publisher: Strategic Simulations, Inc.
+year: '1993'
+genre:
+- Simulation
+- Sports
+- Strategy
+- Addon
+language: English
+date:
+  added: '2019-03-01T21:10:22'
+  last_modified: '2019-03-01T21:10:22'
+type: zip
+tags:
+- Alternate: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK1.ARJ
+  size: 1091264
+  date: '1993-06-18T15:26:12'
+  crc: '0xd54f9ef7'
+- name: DISK2.ARJ
+  size: 1303335
+  date: '1993-03-16T07:09:26'
+  crc: '0xe37c1f25'
+- name: DISK3.ARJ
+  size: 1382205
+  date: '1993-03-16T07:10:58'
+  crc: '0xd8df9c54'
+- name: DISK4.ARJ
+  size: 1372286
+  date: '1993-03-16T07:12:32'
+  crc: '0x88246066'
+- name: DISK5.ARJ
+  size: 514726
+  date: '1993-05-07T10:08:00'
+  crc: '0x22698201'
+- name: INSTALL.EXE
+  size: 24447
+  date: '1993-04-30T06:17:26'
+  crc: '0xb73ff288'

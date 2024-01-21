@@ -1,0 +1,69 @@
+filename: Little Big Adventure (Installer) (En)(Fr)(Es)(It) (1995)(Electronic Arts, Inc.) [Adventure].zip
+tdc_id: '6422.1'
+parent_id: '6422.2'
+title:
+  box: Little Big Adventure
+publisher: Electronic Arts, Inc.
+year: '1995'
+genre: Adventure
+language:
+- English
+- Spanish
+- French
+- Italian
+date:
+  added: '2019-03-02T08:56:52'
+  last_modified: '2019-03-02T08:56:52'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DOS4GW.EXE
+  size: 231179
+  date: '1994-10-10T10:39:14'
+  crc: '0x32376422'
+- name: INSTALL.EXE
+  size: 70442
+  date: '1995-03-16T16:12:12'
+  crc: '0xb5d0653a'
+- name: LBA.000
+  size: 1124352
+  date: '1995-03-17T14:51:36'
+  crc: '0xe7e1d87c'
+- name: LBA.001
+  size: 1457664
+  date: '1995-03-17T14:37:52'
+  crc: '0xbb371913'
+- name: LBA.002
+  size: 1457664
+  date: '1995-03-17T14:39:30'
+  crc: '0xa29aaa27'
+- name: LBA.003
+  size: 1457664
+  date: '1995-03-17T14:45:00'
+  crc: '0x10a5f9cf'
+- name: LBA.004
+  size: 1457664
+  date: '1995-03-17T14:46:34'
+  crc: '0x41b19726'
+- name: LBA.005
+  size: 1457664
+  date: '1995-03-17T14:48:10'
+  crc: '0xa6726c8f'
+- name: LBA.006
+  size: 1457664
+  date: '1995-03-17T14:49:46'
+  crc: '0x7ac6511f'
+- name: LBA.007
+  size: 1444948
+  date: '1995-03-17T14:51:24'
+  crc: '0xd555db9f'
+- name: README.TXT
+  size: 7626
+  date: '1995-03-16T20:42:38'
+  crc: '0x07f8d448'
+- name: SETUP.LST
+  size: 20568
+  date: '1995-04-06T10:06:44'
+  crc: '0xac5615ad'

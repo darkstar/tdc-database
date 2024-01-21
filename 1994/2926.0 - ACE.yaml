@@ -1,0 +1,37 @@
+filename: ACE (De) [SW] (1994)(Markus Zajc) [Simulation].zip
+tdc_id: '2926.0'
+title:
+  screen: ACE
+publisher: Markus Zajc
+year: '1994'
+genre: Simulation
+language: German
+date:
+  added: '2019-03-01T21:46:44'
+  last_modified: '2022-12-14T09:36:17'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: ACE.EXE
+references:
+  dosid: DOS07531
+  exodos: Ace (1994).zip
+files:
+- name: ACE.DAT
+  size: 234432
+  date: '1994-07-11T22:47:14'
+  crc: '0x5669b798'
+- name: ACE.EXE
+  size: 202768
+  date: '1994-07-11T22:47:36'
+  crc: '0x88dd14f7'
+- name: GAME.DAT
+  size: 1186473
+  date: '1994-07-10T16:39:54'
+  crc: '0x885c7ea3'
+- name: README.TXT
+  size: 953
+  date: '1994-06-27T00:36:20'
+  crc: '0xa685bdbd'

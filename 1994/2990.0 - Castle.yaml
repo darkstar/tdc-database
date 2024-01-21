@@ -1,0 +1,28 @@
+filename: Castle v3.4 (1994)(Peter Hewitt) [Adventure].zip
+tdc_id: '2990.0'
+title:
+  screen: Castle
+publisher: Peter Hewitt
+year: '1994'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T21:55:04'
+  last_modified: '2019-03-01T21:55:04'
+version: '3.4'
+type: zip
+commands:
+  play: CASTLE.EXE
+files:
+- name: BEST.DAT
+  size: 104
+  date: '1994-04-03T17:21:24'
+  crc: '0x074dcff1'
+- name: CASTLE.DOC
+  size: 3532
+  date: '1994-04-18T09:22:44'
+  crc: '0x1f5aa99e'
+- name: CASTLE.EXE
+  size: 101368
+  date: '1994-03-29T14:45:38'
+  crc: '0x0547f970'

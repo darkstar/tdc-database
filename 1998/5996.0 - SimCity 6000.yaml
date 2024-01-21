@@ -1,0 +1,33 @@
+filename: SimCity 6000 (1998)(ISO) [Simulation, Strategy].zip
+tdc_id: '5996.0'
+title:
+  screen: SimCity 6000
+publisher: ISO
+year: '1998'
+genre:
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2019-03-02T10:44:34'
+  last_modified: '2019-03-02T10:44:34'
+type: zip
+commands:
+  play: SC6000.EXE
+files:
+- name: NEWCITY.VOI
+  size: 32470
+  date: '1998-04-19T16:12:52'
+  crc: '0x7763a08c'
+- name: SC6000.DOC
+  size: 848
+  date: '1998-04-20T01:36:00'
+  crc: '0x14cd3a1f'
+- name: SC6000.EXE
+  size: 118333
+  date: '1998-04-20T01:12:12'
+  crc: '0x64d68d49'
+- name: SC6000.VOI
+  size: 33614
+  date: '1998-04-19T18:08:52'
+  crc: '0x1e6268a3'

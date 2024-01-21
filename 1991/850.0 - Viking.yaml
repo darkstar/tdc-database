@@ -1,0 +1,27 @@
+filename: Viking (1991)(La-Fanty) [Strategy].zip
+tdc_id: '850.0'
+title:
+  screen: Viking
+publisher: La-Fanty
+year: '1991'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:39:58'
+  last_modified: '2019-03-01T18:39:58'
+type: zip
+commands:
+  play: VIKING.EXE
+files:
+- name: INFO.VIK
+  size: 3078
+  date: '1991-05-01T00:00:00'
+  crc: '0x9c6112e4'
+- name: VIKING.DOC
+  size: 1024
+  date: '1991-05-01T00:00:00'
+  crc: '0xb2b4f95f'
+- name: VIKING.EXE
+  size: 19851
+  date: '1991-05-01T00:00:00'
+  crc: '0x0b80c014'

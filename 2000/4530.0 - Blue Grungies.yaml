@@ -1,0 +1,28 @@
+filename: Blue Grungies (2000)(WayneSoft) [Action].zip
+tdc_id: '4530.0'
+title:
+  screen: Blue Grungies
+publisher: WayneSoft
+year: '2000'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:54:36'
+  last_modified: '2019-03-02T10:54:36'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: BLUGRUNG.BAS
+  size: 14312
+  date: '2000-10-09T19:35:26'
+  crc: '0x20a233b8'
+- name: GO.BAT
+  size: 28
+  date: '2018-12-26T16:35:44'
+  crc: '0x709915c1'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

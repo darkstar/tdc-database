@@ -1,0 +1,32 @@
+filename: Big Rig v4.0 [a1] (1987)(Micro Star) [Educational, Simulation, Strategy].zip
+tdc_id: '12623.1'
+title:
+  box: Big Rig
+publisher: Micro Star
+year: '1987'
+genre:
+- Educational
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:25:10'
+  last_modified: '2019-03-01T18:25:10'
+version: '4.0'
+type: zip
+tags:
+- Alternate: 1
+commands:
+  play: BIGRIG.EXE
+references:
+  dosid: DOS01050
+  exodos: Big Rig (1987).zip
+files:
+- name: BIGRIG.DOC
+  size: 3132
+  date: '1986-09-15T19:14:52'
+  crc: '0x7c94ef0b'
+- name: BIGRIG.EXE
+  size: 77824
+  date: '1986-01-27T18:35:40'
+  crc: '0xe5ddb25e'

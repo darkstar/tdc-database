@@ -1,0 +1,38 @@
+filename: Space (1997)(Alex Knight-Percival) [Action, Strategy].zip
+tdc_id: '6860.0'
+title:
+  screen: Space
+publisher: Alex Knight-Percival
+year: '1997'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-02T10:37:54'
+  last_modified: '2019-03-02T10:37:54'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: FONTS.CHR
+  size: 28581
+  date: '1996-12-24T20:20:32'
+  crc: '0x3bdf2717'
+- name: GO.BAT
+  size: 25
+  date: '2018-11-21T17:53:50'
+  crc: '0x8c262cf0'
+- name: MCURSORS.DAT
+  size: 1927
+  date: '1996-08-23T12:23:06'
+  crc: '0x71e446f8'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: SPACE.BAS
+  size: 14943
+  date: '1997-09-01T20:06:18'
+  crc: '0x71f1ab68'

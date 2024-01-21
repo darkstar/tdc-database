@@ -1,0 +1,27 @@
+filename: Facemaker (Tandy) (1984)(Tandy Corporation) [Educational].zip
+tdc_id: '9124.1'
+title:
+  box: Facemaker
+  qualifier: Tandy
+publisher: Tandy Corporation
+year: '1984'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T18:24:04'
+  last_modified: '2019-03-01T18:24:04'
+type: zip
+commands:
+  play: FMK.EXE
+references:
+  dosid: DOS05878
+  exodos: FaceMaker (1982).zip
+files:
+- name: FMK.EXE
+  size: 22356
+  date: '1984-10-19T09:35:00'
+  crc: '0x956bf9f3'
+- name: FMK.EX_
+  size: 22356
+  date: '1984-10-19T09:35:00'
+  crc: '0x3b5c3125'

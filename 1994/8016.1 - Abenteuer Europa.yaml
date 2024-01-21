@@ -1,0 +1,40 @@
+filename: Abenteuer Europa (Installer) (De) (1994)(Sozialdemokratische Partei Deutschlands) [Adventure].zip
+tdc_id: '8016.1'
+title:
+  screen: Abenteuer Europa
+publisher: Sozialdemokratische Partei Deutschlands
+year: '1994'
+genre: Adventure
+language: German
+date:
+  added: '2019-03-01T21:46:44'
+  last_modified: '2022-11-15T14:56:01'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/abenteuer-europa
+files:
+- name: INST001.EXE
+  size: 1401944
+  date: '1994-03-10T04:22:32'
+  crc: '0x82620dc8'
+- name: INST002.EXE
+  size: 1447590
+  date: '1994-03-10T04:38:06'
+  crc: '0x6244e845'
+- name: INSTALL.EXE
+  size: 48827
+  date: '1994-03-10T02:36:16'
+  crc: '0x5a010648'
+- name: README.TXT
+  size: 4903
+  date: '1994-03-10T03:56:14'
+  crc: '0x63ddf0e0'
+- name: SPD_01
+  size: 0
+  date: '1994-03-10T04:33:58'
+- name: SPD_02
+  size: 0
+  date: '1994-03-10T04:36:26'

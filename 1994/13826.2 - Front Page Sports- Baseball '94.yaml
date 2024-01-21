@@ -1,0 +1,86 @@
+filename: Front Page Sports- Baseball '94 v1.0WF (Installer) (1994)(Sierra On-Line, Inc.) [Simulation, Sports][!].zip
+tdc_id: '13826.2'
+parent_id: '13826.3'
+title:
+  box: 'Front Page Sports: Baseball ''94'
+  qualifier: Installer
+publisher: Sierra On-Line, Inc.
+year: '1994'
+genre:
+- Simulation
+- Sports
+language: English
+date:
+  added: '2019-03-01T21:56:48'
+  last_modified: '2023-07-08T11:09:32'
+version: 1.0WF
+type: zip
+tags:
+- KnownGood
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.BAT
+references:
+  mobygames: https://www.mobygames.com/game/4437/front-page-sports-baseball-94/
+files:
+- name: BB94.VER
+  size: 8
+  date: '1994-09-10T01:00:00'
+  crc: '0x612a205a'
+- name: COPYFILZ.EXE
+  size: 77191
+  date: '1994-09-10T01:00:00'
+  crc: '0xfd841739'
+- name: INSTALL.BAT
+  size: 1326
+  date: '1994-09-10T01:00:00'
+  crc: '0xbb8ceb29'
+- name: INSTALL.HLP
+  size: 138
+  date: '1994-09-10T01:00:00'
+  crc: '0x0189e260'
+- name: INSTALL.SCR
+  size: 7156
+  date: '1994-09-10T01:00:00'
+  crc: '0xf69b9d43'
+- name: INSTALL.TXT
+  size: 10365
+  date: '1994-09-10T01:00:00'
+  crc: '0xddf51b32'
+- name: MANBASE.TXT
+  size: 3867
+  date: '1994-09-10T01:00:00'
+  crc: '0x0cc6aae0'
+- name: READ.ME
+  size: 48484
+  date: '1994-09-10T01:00:00'
+  crc: '0x9385f8e4'
+- name: README.BAT
+  size: 51
+  date: '1994-09-10T01:00:00'
+  crc: '0xfe0360a7'
+- name: RESOURCE.000
+  size: 1199649
+  date: '1994-09-10T01:00:00'
+  crc: '0xef730010'
+- name: RESOURCE.001
+  size: 1449630
+  date: '1994-09-10T01:00:00'
+  crc: '0x770d9506'
+- name: RESOURCE.002
+  size: 1449693
+  date: '1994-09-10T01:00:00'
+  crc: '0x70708fc7'
+- name: RESOURCE.003
+  size: 1164401
+  date: '1994-09-10T01:00:00'
+  crc: '0x58ca8122'
+- name: RESOURCE.CFG
+  size: 171
+  date: '1994-09-10T01:00:00'
+  crc: '0x0a6a629e'
+- name: UNCHUNK.EXE
+  size: 15955
+  date: '1994-09-10T01:00:00'
+  crc: '0xfb7cf65c'

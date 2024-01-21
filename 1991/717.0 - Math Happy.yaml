@@ -1,0 +1,35 @@
+filename: Math Happy (1991)(Michael J. Salera) [Educational].zip
+tdc_id: '717.0'
+title:
+  screen: Math Happy
+publisher: Michael J. Salera
+year: '1991'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T18:36:46'
+  last_modified: '2019-03-01T18:36:46'
+type: zip
+commands:
+  play: MATHAPPY.EXE
+files:
+- name: EGAVGA.BGI
+  size: 5554
+  date: '1990-05-03T19:00:00'
+  crc: '0x116c5498'
+- name: MATHAPPY.DOC
+  size: 4034
+  date: '1991-09-20T12:48:04'
+  crc: '0x5063b614'
+- name: MATHAPPY.EXE
+  size: 28650
+  date: '1991-09-21T05:03:42'
+  crc: '0xb12f8e52'
+- name: SANS.CHR
+  size: 5438
+  date: '1990-05-03T19:00:00'
+  crc: '0x06f847c6'
+- name: TRIP.CHR
+  size: 7241
+  date: '1990-05-03T19:00:00'
+  crc: '0xfe5cd6b1'

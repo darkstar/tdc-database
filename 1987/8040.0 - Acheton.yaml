@@ -1,0 +1,32 @@
+filename: Acheton (1987)(Topologika Software Ltd.) [Adventure, Interactive Fiction].zip
+tdc_id: '8040.0'
+title:
+  box: Acheton
+publisher: Topologika Software Ltd.
+year: '1987'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:25:06'
+  last_modified: '2019-03-01T18:25:06'
+type: zip
+commands:
+  play: ACHETON.COM
+references:
+  dosid: DOS00698
+  exodos: Acheton (1987).zip
+files:
+- name: ACHETON.COM
+  size: 10240
+  date: '1987-09-01T19:06:02'
+  crc: '0xc7dde01a'
+- name: ACHETON.DAT
+  size: 126976
+  date: '1987-08-18T21:13:22'
+  crc: '0x578d4b14'
+- name: ACHETON.DYN
+  size: 4096
+  date: '1987-08-18T21:13:22'
+  crc: '0xc151fced'

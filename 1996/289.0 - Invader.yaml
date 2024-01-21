@@ -1,0 +1,28 @@
+filename: Invader (1996)(Jonathon Shelley) [Action].zip
+tdc_id: '289.0'
+title:
+  screen: Invader
+publisher: Jonathon Shelley
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:10:30'
+  last_modified: '2019-03-02T10:10:30'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 27
+  date: '2018-12-06T20:46:52'
+  crc: '0x590225e1'
+- name: INVADER.BAS
+  size: 11863
+  date: '2018-11-22T18:47:54'
+  crc: '0xf90c1e9d'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

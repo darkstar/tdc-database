@@ -1,0 +1,39 @@
+filename: Yendorian Tales Book I (Installer) [SW] (1994)(Spectrum Pacific Publishing) [Role-Playing (RPG)].zip
+tdc_id: '15781.0'
+title:
+  screen: Yendorian Tales Book I
+publisher: Spectrum Pacific Publishing
+year: '1994'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-02T07:20:12'
+  last_modified: '2019-03-02T07:20:12'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: BBS_INST.BAT
+files:
+- name: BBS_INST.BAT
+  size: 1121
+  date: '1993-12-04T14:48:32'
+  crc: '0xc4abc5be'
+- name: DATA.ZIP
+  size: 7594
+  date: '1996-05-29T21:00:20'
+  crc: '0x3c206329'
+- name: PKUNZIP.EXE
+  size: 29378
+  date: '1993-02-01T02:04:16'
+  crc: '0x00832770'
+- name: PROG.ZIP
+  size: 1372747
+  date: '1996-05-29T21:01:28'
+  crc: '0x087e8409'
+- name: YENDOR1.TXT
+  size: 7528
+  date: '1996-05-23T16:08:02'
+  crc: '0x62218332'

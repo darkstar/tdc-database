@@ -1,0 +1,28 @@
+filename: Connect 4 (1998)(Dominik Kaspar) [Strategy].zip
+tdc_id: '6040.0'
+title:
+  screen: Connect 4
+publisher: Dominik Kaspar
+year: '1998'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:41:04'
+  last_modified: '2019-03-02T10:41:04'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: CONNECT4.BAS
+  size: 8130
+  date: '2018-03-10T14:53:22'
+  crc: '0xf0b99796'
+- name: GO.BAT
+  size: 28
+  date: '2018-11-27T11:48:10'
+  crc: '0x6f7cd9cf'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

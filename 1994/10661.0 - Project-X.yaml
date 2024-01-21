@@ -1,0 +1,37 @@
+filename: Project-X (demo) (1994)(Team17 Software Limited) [Action].zip
+tdc_id: '10661.0'
+title:
+  screen: Project-X
+  qualifier: demo
+publisher: Team17 Software Limited
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T22:02:52'
+  last_modified: '2019-03-01T22:02:52'
+type: zip
+demo: true
+commands:
+  play: X.EXE
+files:
+- name: PXDEMO.EPF
+  size: 1057554
+  date: '1994-08-10T20:22:20'
+  crc: '0x4b9fcb07'
+- name: PXLOADER.MOD
+  size: 24518
+  date: '1992-03-03T09:32:14'
+  crc: '0x133b5019'
+- name: RAVE.MOD
+  size: 119536
+  date: '1994-07-14T04:34:02'
+  crc: '0x5d952ff2'
+- name: README.TXT
+  size: 461
+  date: '1994-08-02T02:01:20'
+  crc: '0xc1309464'
+- name: X.EXE
+  size: 170046
+  date: '1994-08-10T20:30:02'
+  crc: '0x7c8959b7'

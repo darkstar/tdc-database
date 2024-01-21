@@ -1,0 +1,36 @@
+filename: Nurmans (1994)(KMZSoft) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '3199.0'
+title:
+  screen: Nurmans
+publisher: KMZSoft
+year: '1994'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T22:02:24'
+  last_modified: '2019-03-01T22:02:24'
+type: zip
+commands:
+  play: NURMANS.EXE
+references:
+  dosid: DOS00089
+  exodos: Nurmans (1994).zip
+files:
+- name: NURMANS.DOC
+  size: 8326
+  date: '1994-02-28T13:47:12'
+  crc: '0x4d461adb'
+- name: NURMANS.EXE
+  size: 55627
+  date: '1994-03-02T15:47:56'
+  crc: '0x7dfaa811'
+- name: NURMANS.SAV
+  size: 11776
+  date: '1994-06-30T14:52:10'
+  crc: '0x8efab2cc'
+- name: NURMANS.SPR
+  size: 20768
+  date: '1994-02-26T15:21:26'
+  crc: '0xc5d29303'

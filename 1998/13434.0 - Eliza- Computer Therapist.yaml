@@ -1,0 +1,61 @@
+filename: Eliza- Computer Therapist v10.0b (1998)(Daniel Fletcher) [Simulation].zip
+tdc_id: '13434.0'
+title:
+  screen: 'Eliza: Computer Therapist'
+publisher: Daniel Fletcher
+year: '1998'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-02T10:41:10'
+  last_modified: '2019-03-02T10:41:10'
+version: 10.0b
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: EDITOR.BAS
+  size: 26652
+  date: '1997-11-15T10:47:16'
+  crc: '0xf729c238'
+- name: ELIZA.BAS
+  size: 24216
+  date: '1998-02-17T16:55:20'
+  crc: '0xbbd31315'
+- name: ELIZA.ELZ
+  size: 5864
+  date: '1998-02-13T21:13:46'
+  crc: '0x351968a9'
+- name: ELIZA_01.PAL
+  size: 4442
+  date: '1998-02-13T20:08:42'
+  crc: '0x260da88c'
+- name: ELIZA_01.PIC
+  size: 64007
+  date: '1998-02-13T20:10:20'
+  crc: '0x685f517f'
+- name: ELIZA_02.PAL
+  size: 4477
+  date: '1998-02-13T20:08:56'
+  crc: '0xd2969d43'
+- name: ELIZA_02.PIC
+  size: 64007
+  date: '1998-02-13T20:10:34'
+  crc: '0x47008efb'
+- name: ELIZA_03.PAL
+  size: 4461
+  date: '1998-02-13T20:09:08'
+  crc: '0xbc786b2d'
+- name: ELIZA_03.PIC
+  size: 64007
+  date: '1998-02-13T20:10:48'
+  crc: '0xad929d76'
+- name: GO.BAT
+  size: 25
+  date: '2018-12-11T16:22:18'
+  crc: '0x9a5e889b'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

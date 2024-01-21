@@ -1,0 +1,58 @@
+filename: Rings of Medusa v1.30 (1995)(Starbyte Software, General Admission Software) [Strategy].zip
+tdc_id: '9964.7'
+parent_id: '9964.6'
+title:
+  box: Rings of Medusa
+publisher: Starbyte Software, General Admission Software
+year: '1995'
+genre: Strategy
+language: English
+date:
+  added: '2022-05-10T09:48:38'
+  last_modified: '2023-09-03T09:51:35'
+version: '1.30'
+type: zip
+media: CD-ROM
+commands:
+  play: ROM.EXE
+references:
+  mobygames: https://www.mobygames.com/game/6203/rings-of-medusa/
+  dosid: DOS04310
+  exodos: Rings of Medusa (1990).zip
+files:
+- name: CGA.RES
+  size: 162672
+  date: '1990-06-03T18:19:24'
+  crc: '0xf52298ec'
+- name: EGA.RES
+  size: 295660
+  date: '1990-05-21T23:05:08'
+  crc: '0x0db0297b'
+- name: GMAPS.PKD
+  size: 8272
+  date: '1990-02-12T15:36:32'
+  crc: '0xcf51e192'
+- name: MANUAL.TXT
+  size: 44599
+  date: '1995-02-20T12:21:24'
+  crc: '0x9871fb47'
+- name: README.TXT
+  size: 651
+  date: '1995-01-23T16:41:34'
+  crc: '0xd7d1026e'
+- name: ROM.BAK
+  size: 44604
+  date: '1995-02-20T12:19:10'
+  crc: '0xb8e552a2'
+- name: ROM.EXE
+  size: 175866
+  date: '1991-08-09T14:33:08'
+  crc: '0x6ca55f18'
+- name: SND.RES
+  size: 63030
+  date: '1990-04-17T18:14:54'
+  crc: '0xc77c9088'
+- name: TMAPS.PKD
+  size: 3200
+  date: '1990-02-12T15:34:52'
+  crc: '0x15e1d2c7'

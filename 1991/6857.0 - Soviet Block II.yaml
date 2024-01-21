@@ -1,0 +1,36 @@
+filename: Soviet Block II (1991)(U.S.E.D. Software) [Strategy, Action].zip
+tdc_id: '6857.0'
+title:
+  screen: Soviet Block II
+publisher: U.S.E.D. Software
+year: '1991'
+genre:
+- Strategy
+- Action
+language: English
+date:
+  added: '2019-03-01T18:38:10'
+  last_modified: '2019-03-01T18:38:10'
+type: zip
+commands:
+  play: SOVIETII.EXE
+references:
+  dosid: DOS02407
+  exodos: Soviet Block II (1991).zip
+files:
+- name: SOVIETII.BIN
+  size: 4002
+  date: '1990-09-12T05:09:56'
+  crc: '0xc51f6bdb'
+- name: SOVIETII.DOC
+  size: 5348
+  date: '1991-12-25T05:33:22'
+  crc: '0xb4c0acd0'
+- name: SOVIETII.EXE
+  size: 36528
+  date: '1991-12-25T10:25:52'
+  crc: '0xd4507e4f'
+- name: SOVIETII.PRM
+  size: 3
+  date: '1996-01-30T07:11:04'
+  crc: '0x909fb2f2'

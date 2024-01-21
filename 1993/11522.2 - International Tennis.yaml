@@ -1,0 +1,38 @@
+filename: International Tennis (Installer) (1993)(Celery Software) [Sports, Action].zip
+tdc_id: '11522.2'
+title:
+  box: International Tennis
+publisher: Celery Software
+year: '1993'
+genre:
+- Sports
+- Action
+language: English
+date:
+  added: '2019-03-01T19:10:24'
+  last_modified: '2019-03-01T19:10:24'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: '582.001'
+  size: 539487
+  date: '2093-11-26T16:11:32'
+  crc: '0x48489433'
+- name: COSMI.INF
+  size: 672155
+  date: '2093-11-26T16:10:00'
+  crc: '0x2a1b46ea'
+- name: DISK.ID
+  size: 45
+  date: '2093-11-26T16:04:20'
+  crc: '0x2286ca16'
+- name: INSTALL.DAT
+  size: 4190
+  date: '2093-11-26T16:11:20'
+  crc: '0x3a980bb4'
+- name: INSTALL.EXE
+  size: 97207
+  date: '2093-11-26T16:04:52'
+  crc: '0x5ec4c830'

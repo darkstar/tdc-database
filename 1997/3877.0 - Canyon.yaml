@@ -1,0 +1,28 @@
+filename: Canyon (1997)(Chris Gunn) [Action].zip
+tdc_id: '3877.0'
+title:
+  screen: Canyon
+publisher: Chris Gunn
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:25:24'
+  last_modified: '2019-03-02T10:25:24'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: CANYON.BAS
+  size: 4102
+  date: '2018-03-10T02:15:02'
+  crc: '0x6a9475ae'
+- name: GO.BAT
+  size: 26
+  date: '2018-06-29T01:45:06'
+  crc: '0x2821ef1f'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T01:28:02'
+  crc: '0x19f6ed75'

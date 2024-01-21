@@ -1,0 +1,42 @@
+filename: Safari Guns (1989)(Infogrames Europe SA) [Action].zip
+tdc_id: '6582.0'
+title:
+  box: Safari Guns
+publisher: Infogrames Europe SA
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:28:50'
+  last_modified: '2019-03-01T18:28:50'
+type: zip
+commands:
+  play: SAFARI.COM
+references:
+  dosid: DOS04388
+  exodos: Safari Guns (1989).zip
+files:
+- name: ACOR.DAT
+  size: 115
+  date: '1989-09-18T14:31:44'
+  crc: '0xe8a2a613'
+- name: CONFIG.TAT
+  size: 229
+  date: '2007-06-23T19:25:38'
+  crc: '0xde4a7870'
+- name: SAFARI.COM
+  size: 6720
+  date: '1989-10-09T12:47:18'
+  crc: '0xf3fc56ad'
+- name: SAFARI.PXI
+  size: 55291
+  date: '2001-05-24T08:28:54'
+  crc: '0x9c5e4e7d'
+- name: SAFCGA.CC1
+  size: 178317
+  date: '1989-10-08T15:51:36'
+  crc: '0x29c04c35'
+- name: SAFEGA.CC1
+  size: 322924
+  date: '1989-10-08T17:36:34'
+  crc: '0x75d0c849'

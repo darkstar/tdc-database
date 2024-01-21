@@ -1,0 +1,86 @@
+filename: Battle of Antietam v1.1 (1986)(Strategic Simulations, Inc.) [Simulation, Strategy, War].zip
+tdc_id: '12491.0'
+title:
+  box: Battle of Antietam
+publisher: Strategic Simulations, Inc.
+year: '1986'
+genre:
+- Simulation
+- Strategy
+- War
+language: English
+date:
+  added: '2019-03-01T18:24:42'
+  last_modified: '2019-03-01T18:24:42'
+version: '1.1'
+type: zip
+commands:
+  play: START.EXE
+references:
+  dosid: DOS00985
+  exodos: Battle of Antietam (1986).zip
+files:
+- name: BASIC.OVL
+  size: 8634
+  date: '1986-08-13T15:08:00'
+  crc: '0x1333c9f3'
+- name: COMPHAS.OVL
+  size: 10550
+  date: '1986-08-18T20:36:00'
+  crc: '0xdb515149'
+- name: COMPUTE.OVL
+  size: 8114
+  date: '1986-08-13T15:42:00'
+  crc: '0xc8efa95f'
+- name: CONFED.OVL
+  size: 7726
+  date: '1986-08-13T18:46:00'
+  crc: '0x821c2197'
+- name: HUMAN.OVL
+  size: 11746
+  date: '1986-08-13T22:35:00'
+  crc: '0x0da8943d'
+- name: REINF.OVL
+  size: 12092
+  date: '1986-08-18T20:26:00'
+  crc: '0xacb95c3c'
+- name: SAVE.OVL
+  size: 12164
+  date: '1986-08-13T16:38:00'
+  crc: '0x8a22420a'
+- name: SHAPE.BAS
+  size: 8136
+  date: '1986-08-13T00:15:00'
+  crc: '0x0af231aa'
+- name: SHAPE.COA
+  size: 8136
+  date: '1986-08-05T16:01:00'
+  crc: '0xc85262cf'
+- name: SHAPE.COB
+  size: 8136
+  date: '1986-08-12T22:01:00'
+  crc: '0x3ee85658'
+- name: SHAPE.MON
+  size: 8136
+  date: '1986-07-20T13:34:00'
+  crc: '0x9d3ba9b2'
+- name: SHAPE.SYM
+  size: 8136
+  date: '1986-06-29T15:30:00'
+  crc: '0x637bf8ed'
+- name: START.DOC
+  size: 482
+  date: '1986-08-22T23:28:00'
+  crc: '0x6d1b59ba'
+- name: START.EXE
+  size: 54028
+  date: '1986-08-21T04:00:00'
+  crc: '0x7a3635e6'
+- name: UNION.OVL
+  size: 7134
+  date: '1986-08-13T16:28:00'
+  crc: '0x5f20fc0b'
+- name: UPDATE.OVL
+  size: 5986
+  date: '1986-08-13T15:28:00'
+  crc: '0x04dd8df9'

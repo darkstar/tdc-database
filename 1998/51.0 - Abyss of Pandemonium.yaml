@@ -1,0 +1,81 @@
+filename: Abyss of Pandemonium (Installer) (1998)(Perfect Publishing) [Action, Addon].zip
+tdc_id: '51.0'
+parent_id: '51.1'
+title:
+  box: Abyss of Pandemonium
+publisher: Perfect Publishing
+year: '1998'
+genre:
+- Action
+- Addon
+language: English
+date:
+  added: '2019-03-02T10:40:38'
+  last_modified: '2019-03-02T10:40:38'
+type: zip
+installer: true
+commands:
+  play: SETUP.EXE
+references:
+  dosid: DOS00486
+  exodos: Abyss of Pandemonium (1998).zip
+files:
+- name: AUTORUN.INF
+  size: 40
+  date: '1998-04-09T07:12:16'
+  crc: '0xfa9ac9a6'
+- name: DEUTSCH.TXT
+  size: 6128
+  date: '1998-04-14T10:02:46'
+  crc: '0xf0a5ed67'
+- name: ENGLISH.TXT
+  size: 10945
+  date: '1998-04-14T10:02:58'
+  crc: '0xaa0cf7a0'
+- name: ESPANOLE.TXT
+  size: 6804
+  date: '1998-04-14T10:03:10'
+  crc: '0x4d521234'
+- name: FRANCAIS.TXT
+  size: 6580
+  date: '1998-04-14T10:03:24'
+  crc: '0xaf54b4f8'
+- name: ITALIANO.TXT
+  size: 5764
+  date: '1998-04-14T10:03:36'
+  crc: '0x592d686a'
+- name: MANUAL.DOC
+  size: 15587
+  date: '1998-04-09T07:53:54'
+  crc: '0xe51fe2a6'
+- name: README.TXT
+  size: 769
+  date: '1998-04-09T07:50:06'
+  crc: '0x46705e99'
+- name: SETUP.EXE
+  size: 13774821
+  date: '1998-04-14T10:30:24'
+  crc: '0xaddbdf56'
+- name: impel\
+  size: 0
+  date: '1998-04-09T08:10:12'
+- name: impel\PAK0.PAK
+  size: 31837471
+  date: '1998-04-01T11:27:00'
+  crc: '0x988f73ef'
+- name: impel\PROGS.DAT
+  size: 668696
+  date: '1998-03-21T09:28:20'
+  crc: '0xcd69e4ba'
+- name: license.txt
+  size: 4125
+  date: '1998-03-27T06:34:26'
+  crc: '0x998bff1c'
+- name: pp.ico
+  size: 2238
+  date: '1997-09-15T03:11:36'
+  crc: '0x0c7b6b17'
+- name: pp16.ico
+  size: 766
+  date: '1997-09-15T03:42:40'
+  crc: '0xe6252638'

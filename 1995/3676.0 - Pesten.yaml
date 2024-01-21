@@ -1,0 +1,29 @@
+filename: Pesten (1995)(Patrick Giesbergen) [Strategy, Cards].zip
+tdc_id: '3676.0'
+title:
+  screen: Pesten
+publisher: Patrick Giesbergen
+year: '1995'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-02T08:58:12'
+  last_modified: '2019-03-02T08:58:12'
+type: zip
+commands:
+  play: PESTEN.EXE
+files:
+- name: CARDS.DAT
+  size: 145476
+  date: '1995-10-27T12:01:58'
+  crc: '0xd5d1a7dd'
+- name: PESTEN.DOC
+  size: 9254
+  date: '1995-10-22T16:22:00'
+  crc: '0x6355248b'
+- name: PESTEN.EXE
+  size: 87283
+  date: '1995-11-01T10:12:46'
+  crc: '0x9f80518c'

@@ -1,0 +1,28 @@
+filename: Ball Game (1998)(Dominick Aguilar) [Action].zip
+tdc_id: '12382.0'
+title:
+  screen: Ball Game
+publisher: Dominick Aguilar
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:40:42'
+  last_modified: '2019-03-02T10:40:42'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: BALGAME.BAS
+  size: 4229
+  date: '1998-09-21T01:10:42'
+  crc: '0x1e44667b'
+- name: GO.BAT
+  size: 27
+  date: '2018-03-07T13:21:16'
+  crc: '0x1802de18'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-08T17:28:02'
+  crc: '0x19f6ed75'

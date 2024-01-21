@@ -1,0 +1,35 @@
+filename: Meteor! (1982)(Edward T. Ordman, Creative Computing, Andrew Fluegelman, Nancy Miller) [Action].zip
+tdc_id: '5188.1'
+title:
+  screen: Meteor!
+publisher: Edward T. Ordman, Creative Computing, Andrew Fluegelman, Nancy Miller
+year: '1982'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:23:00'
+  last_modified: '2023-06-22T10:19:26'
+type: zip
+media: Type-In
+commands:
+  play: meteor!.bat
+references:
+  dosid: DOS06567
+  exodos: Meteor (1981).zip
+files:
+- name: GWBASIC.EXE
+  size: 80592
+  date: '2001-05-04T06:58:22'
+  crc: '0x8462d0e4'
+- name: METEOR!.BAS
+  size: 4480
+  date: '1982-09-04T01:09:00'
+  crc: '0xcdaa2fcc'
+- name: Meteor!_Source.bas
+  size: 5352
+  date: '2010-01-08T16:03:14'
+  crc: '0x648d89f2'
+- name: meteor!.bat
+  size: 15
+  date: '2010-01-17T20:32:44'
+  crc: '0x2aa5ae53'

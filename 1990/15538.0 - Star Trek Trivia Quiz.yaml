@@ -1,0 +1,30 @@
+filename: Star Trek Trivia Quiz (1990)(K.K. Enterprises) [Educational, Trivia].zip
+tdc_id: '15538.0'
+title:
+  screen: Star Trek Trivia Quiz
+publisher: K.K. Enterprises
+year: '1990'
+genre:
+- Educational
+- Trivia
+language: English
+date:
+  added: '2019-03-01T18:34:08'
+  last_modified: '2019-03-01T18:34:08'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 24
+  date: '2019-01-13T12:40:28'
+  crc: '0x15086a26'
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1988-10-05T02:00:08'
+  crc: '0x2a44af39'
+- name: TREKTRIV.BAS
+  size: 6446
+  date: '1990-10-13T06:06:20'
+  crc: '0x3a5a23dc'

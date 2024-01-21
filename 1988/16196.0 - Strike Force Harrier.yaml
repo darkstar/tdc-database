@@ -1,0 +1,108 @@
+filename: Strike Force Harrier (1988)(Mirrorsoft Ltd.) [Simulation].zip
+tdc_id: '16196.0'
+title:
+  box: Strike Force Harrier
+publisher: Mirrorsoft Ltd.
+year: '1988'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:26:52'
+  last_modified: '2019-03-01T18:26:52'
+type: zip
+references:
+  dosid: DOS15764
+  exodos: Strike Force Harrier (1988).zip
+files:
+- name: CHKSCR.EXE
+  size: 1129
+  date: '1988-03-03T02:19:32'
+  crc: '0x7246d2b6'
+- name: DEMO.DAT
+  size: 3000
+  date: '1988-03-01T17:41:50'
+  crc: '0x7d86aa33'
+- name: DEMOLIST.DAT
+  size: 65
+  date: '1988-01-28T10:45:32'
+  crc: '0x46a02c58'
+- name: GAME.DAT
+  size: 65535
+  date: '1988-03-01T17:38:56'
+  crc: '0x5f31ce82'
+- name: HLOAD.LOD
+  size: 16385
+  date: '1988-02-19T09:59:02'
+  crc: '0x0000e1e2'
+- name: HLOAD2_C.LOD
+  size: 16384
+  date: '1988-03-04T16:20:22'
+  crc: '0xdc8ecff7'
+- name: HLOAD2_H.LOD
+  size: 32768
+  date: '1988-03-04T17:02:04'
+  crc: '0xdac1f022'
+- name: HLOAD_C.LOD
+  size: 16385
+  date: '1988-03-04T15:17:00'
+  crc: '0xa814462d'
+- name: HLOAD_H.LOD
+  size: 32768
+  date: '1988-03-04T16:54:50'
+  crc: '0x4e11f8a6'
+- name: MAKEDAT.BAT
+  size: 19
+  date: '1988-02-19T12:16:08'
+  crc: '0x978ad5c3'
+- name: SAVELIST.DAT
+  size: 65
+  date: '1988-02-23T16:22:04'
+  crc: '0x4e3c4ba3'
+- name: SFH.BAT
+  size: 154
+  date: '1988-03-04T17:18:42'
+  crc: '0xd0092c52'
+- name: SFHC.BAT
+  size: 32
+  date: '1988-03-03T14:53:30'
+  crc: '0x3f3f0e70'
+- name: SFHH.BAT
+  size: 63
+  date: '1988-03-04T17:23:56'
+  crc: '0x2a57b2e4'
+- name: SFH_C.EXE
+  size: 352846
+  date: '1988-03-17T17:24:18'
+  crc: '0x20fe39f8'
+- name: SFH_H.EXE
+  size: 331399
+  date: '1988-03-17T16:43:54'
+  crc: '0xfbccc366'
+- name: START2_C.EXE
+  size: 1666
+  date: '1988-03-17T12:36:24'
+  crc: '0xf3220b22'
+- name: START2_H.EXE
+  size: 1706
+  date: '1988-03-17T12:47:26'
+  crc: '0x93a4d83f'
+- name: START_C.EXE
+  size: 1320
+  date: '1988-03-04T15:28:34'
+  crc: '0x4d477ad3'
+- name: START_H.EXE
+  size: 1327
+  date: '1988-03-04T16:40:04'
+  crc: '0x7ea03ff2'
+- name: TSR_COMP.EXE
+  size: 22837
+  date: '1988-02-22T19:16:36'
+  crc: '0x24a0d60d'
+- name: TSR_PIT.EXE
+  size: 16469
+  date: '1988-02-22T19:16:54'
+  crc: '0x8636b284'
+- name: TSR_SELE.EXE
+  size: 16661
+  date: '1988-02-22T19:17:02'
+  crc: '0x99b61fc9'

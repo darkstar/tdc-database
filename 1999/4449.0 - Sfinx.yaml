@@ -1,0 +1,36 @@
+filename: Sfinx (Pl) (1999)(IO) [Adventure].zip
+tdc_id: '4449.0'
+title:
+  screen: Sfinx
+publisher: IO
+year: '1999'
+genre: Adventure
+language: Polish
+date:
+  added: '2019-03-02T10:46:26'
+  last_modified: '2019-03-02T10:46:26'
+type: zip
+references:
+  dosid: DOS04499
+  exodos: Sfinx (1997).zip
+files:
+- name: CGE.EXE
+  size: 110504
+  date: '1999-04-09T15:07:14'
+  crc: '0x64a84cf7'
+- name: INSTALUJ.EXE
+  size: 34389
+  date: '1997-10-30T01:15:00'
+  crc: '0x72ce832f'
+- name: SFINX.BAT
+  size: 22
+  date: '1997-10-30T01:15:00'
+  crc: '0x688004b9'
+- name: VOL.CAT
+  size: 129024
+  date: '1997-10-30T01:15:00'
+  crc: '0x674c10f4'
+- name: VOL.DAT
+  size: 34180844
+  date: '1997-10-30T01:15:00'
+  crc: '0xac3309ae'

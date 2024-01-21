@@ -1,0 +1,30 @@
+filename: Bios (Es) (1990)(Ediciones Manali, S.A.) [Action].zip
+tdc_id: '12660.0'
+title:
+  screen: Bios
+publisher: Ediciones Manali, S.A.
+year: '1990'
+genre: Action
+language: Spanish
+date:
+  added: '2019-03-01T18:31:54'
+  last_modified: '2019-03-01T18:31:54'
+type: zip
+commands:
+  play: BIOS.EXE
+references:
+  dosid: DOS15250
+  exodos: Bios (1990).zip
+files:
+- name: BIOS.BIN
+  size: 5432
+  date: '1980-01-01T00:09:22'
+  crc: '0x055ffe33'
+- name: BIOS.EXE
+  size: 54924
+  date: '1980-01-01T00:12:24'
+  crc: '0x186ffda0'
+- name: TECLAINT.BIN
+  size: 98
+  date: '1980-01-01T00:02:44'
+  crc: '0x53a1e02e'

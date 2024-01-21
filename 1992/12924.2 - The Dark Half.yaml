@@ -1,0 +1,50 @@
+filename: Dark Half, The (Installer) [a1] (1992)(Capstone Software) [Adventure].zip
+tdc_id: '12924.2'
+title:
+  box: The Dark Half
+publisher: Capstone Software
+year: '1992'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:42:12'
+  last_modified: '2019-03-01T18:42:12'
+type: zip
+tags:
+- Alternate: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DH 5 1
+  size: 0
+  date: '1992-07-31T07:01:26'
+- name: DH 5 2
+  size: 0
+  date: '1992-07-31T07:03:08'
+- name: DH 5 3
+  size: 0
+  date: '1992-07-31T07:04:46'
+- name: DH 5 4
+  size: 0
+  date: '1992-07-31T07:06:38'
+- name: DH00.INS
+  size: 1134555
+  date: '1992-07-31T14:55:48'
+  crc: '0x396fe234'
+- name: DH01.INS
+  size: 1213856
+  date: '1992-07-31T15:04:58'
+  crc: '0xb5ffe65f'
+- name: DH02.INS
+  size: 1213942
+  date: '1992-07-31T15:13:30'
+  crc: '0xc8a14a6d'
+- name: DH03.INS
+  size: 728484
+  date: '1992-07-31T15:20:56'
+  crc: '0x5d818d38'
+- name: INSTALL.EXE
+  size: 79226
+  date: '1992-07-31T14:29:40'
+  crc: '0x226400de'

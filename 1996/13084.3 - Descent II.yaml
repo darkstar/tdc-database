@@ -1,0 +1,135 @@
+filename: Descent II (Installer) (1996)(Interplay Productions, Inc.) [Action].zip
+tdc_id: '13084.3'
+parent_id: '13084.5'
+title:
+  box: Descent II
+publisher: Interplay Productions, Inc.
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2020-05-03T13:09:50'
+  last_modified: '2020-05-03T13:09:50'
+type: zip
+installer: true
+references:
+  dosid: DOS01743
+  exodos: Descent II (1996).zip
+files:
+- name: AUTORUN.INF
+  size: 64
+  date: '1996-02-17T09:35:40'
+  crc: '0xf8ba63e9'
+- name: AUTORUN\
+  size: 0
+  date: '1996-03-04T07:55:52'
+- name: AUTORUN\AUTORUN.EXE
+  size: 401920
+  date: '1996-02-19T08:20:12'
+  crc: '0xf920b2e3'
+- name: AUTORUN\CD.ICO
+  size: 766
+  date: '1996-02-17T09:18:40'
+  crc: '0x5462d374'
+- name: AUTORUN\FINISHIT.EXE
+  size: 35981
+  date: '1996-02-23T14:12:08'
+  crc: '0xbe6ff88f'
+- name: CONTROLS\
+  size: 0
+  date: '1996-03-04T07:55:52'
+- name: CONTROLS\AVGRD2.EXE
+  size: 58186
+  date: '1996-02-23T11:00:10'
+  crc: '0xd39c2188'
+- name: CONTROLS\D2TQS.B50
+  size: 1967
+  date: '1995-11-09T05:53:20'
+  crc: '0x00cc94cb'
+- name: CONTROLS\D2TQS.M50
+  size: 1073
+  date: '1995-10-20T09:00:28'
+  crc: '0x0979d2e6'
+- name: CONTROLS\D2WCS.B50
+  size: 1792
+  date: '1995-11-09T05:52:04'
+  crc: '0xc045047e'
+- name: CONTROLS\D2WCS.M50
+  size: 1073
+  date: '1995-10-20T09:00:28'
+  crc: '0x0979d2e6'
+- name: CONTROLS\DESCENT2.ADV
+  size: 1267
+  date: '1995-11-07T14:45:18'
+  crc: '0xe3dfb69d'
+- name: CONTROLS\DESCENT2.KEY
+  size: 730
+  date: '1995-10-25T05:05:16'
+  crc: '0xd7cb6111'
+- name: CONTROLS\DESCENT2.PHX
+  size: 2079
+  date: '1994-11-12T06:41:36'
+  crc: '0x1017917f'
+- name: D2DATA\
+  size: 0
+  date: '1996-03-04T07:55:52'
+- name: D2DATA\BEN-H.MVE
+  size: 2349776
+  date: '1996-01-11T10:51:30'
+  crc: '0x70f27659'
+- name: D2DATA\DESCENT2.SOW
+  size: 22195279
+  date: '1996-03-04T08:22:56'
+  crc: '0xb19e0b20'
+- name: D2DATA\HMIDET.386
+  size: 81915
+  date: '1996-02-02T14:10:08'
+  crc: '0xa2e42083'
+- name: D2DATA\HMIDRV.386
+  size: 261273
+  date: '1996-02-02T14:10:08'
+  crc: '0x878b942a'
+- name: D2DATA\HMIMDRV.386
+  size: 111928
+  date: '1996-02-02T14:10:08'
+  crc: '0x051fbae5'
+- name: D2DATA\INTRO-H.MVL
+  size: 99782888
+  date: '1996-02-23T15:42:54'
+  crc: '0x976cce6d'
+- name: D2DATA\INTRO-L.MVL
+  size: 48968464
+  date: '1996-02-23T15:44:08'
+  crc: '0x354f37b1'
+- name: D2DATA\OTHER-H.MVL
+  size: 104199780
+  date: '1996-02-23T15:46:40'
+  crc: '0xfebefdf8'
+- name: D2DATA\OTHER-L.MVL
+  size: 51056534
+  date: '1996-02-23T15:47:56'
+  crc: '0xa8d9993c'
+- name: D2DATA\ROBOTS-H.MVL
+  size: 16766970
+  date: '1996-02-17T11:06:02'
+  crc: '0xab851ff2'
+- name: D2DATA\ROBOTS-L.MVL
+  size: 5087804
+  date: '1996-02-17T11:06:26'
+  crc: '0x2639d408'
+- name: D2DATA\SETUP.EXE
+  size: 800083
+  date: '1996-03-04T09:35:00'
+  crc: '0x33ae2077'
+- name: D2DATA\SETUP.EX_
+  size: 800083
+  date: '1996-03-04T08:35:46'
+  crc: '0xbaa9771a'
+- name: DESCENT2.EXE
+  size: 1448873
+  date: '1980-01-01T01:00:00'
+  crc: '0x9f98474f'
+- name: INSTALL.EXE
+  size: 10734
+  date: '1996-01-23T12:43:12'
+  crc: '0xe341fcf4'

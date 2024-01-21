@@ -1,0 +1,65 @@
+filename: Blackhawk (Installer) (De)(En)(Fr) (1994)(Interplay Productions Ltd.) [Action].zip
+tdc_id: '8483.4'
+parent_id: '8483.15'
+title:
+  box: Blackhawk
+publisher: Interplay Productions Ltd.
+year: '1994'
+genre: Action
+language:
+- English
+- French
+- German
+date:
+  added: '2021-06-22T08:49:42'
+  last_modified: '2021-06-22T08:49:42'
+type: zip
+installer: true
+commands:
+  play: English\INSTALL.EXE
+files:
+- name: Deutsch\
+  size: 0
+  date: '1998-06-19T06:44:28'
+- name: Deutsch\BHAWK.I00
+  size: 1064960
+  date: '1994-12-12T07:03:06'
+  crc: '0x52f87232'
+- name: Deutsch\BHAWK.I01
+  size: 451045
+  date: '1994-12-12T07:03:10'
+  crc: '0x16d1f395'
+- name: Deutsch\INSTALL.EXE
+  size: 57184
+  date: '1994-12-12T07:04:30'
+  crc: '0xb7b9f851'
+- name: English\
+  size: 0
+  date: '1998-06-19T06:44:28'
+- name: English\BHAWK.I00
+  size: 1064960
+  date: '1994-12-09T06:57:18'
+  crc: '0xc98fa527'
+- name: English\BHAWK.I01
+  size: 450828
+  date: '1994-12-09T06:57:20'
+  crc: '0x7ce4503b'
+- name: English\INSTALL.EXE
+  size: 56832
+  date: '1994-12-09T06:53:02'
+  crc: '0xd45b8d09'
+- name: Francais\
+  size: 0
+  date: '1998-06-19T06:44:28'
+- name: Francais\BHAWK.I00
+  size: 1064960
+  date: '1994-12-12T06:59:38'
+  crc: '0x52a12f35'
+- name: Francais\BHAWK.I01
+  size: 450928
+  date: '1994-12-12T06:59:40'
+  crc: '0x3d0372dd'
+- name: Francais\INSTALL.EXE
+  size: 57056
+  date: '1994-12-12T06:37:24'
+  crc: '0xf7b5ead0'

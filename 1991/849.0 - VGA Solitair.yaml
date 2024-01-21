@@ -1,0 +1,34 @@
+filename: VGA Solitair (De) [SW] (1991)(Stephan Ehrmann) [Strategy].zip
+tdc_id: '849.0'
+title:
+  screen: VGA Solitair
+publisher: Stephan Ehrmann
+year: '1991'
+genre: Strategy
+language: German
+date:
+  added: '2019-03-01T18:39:58'
+  last_modified: '2019-03-01T18:39:58'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: SHARESOL.EXE
+files:
+- name: FELDER.DAT
+  size: 55007
+  date: '1991-11-29T18:01:16'
+  crc: '0x6021f5c1'
+- name: GRAFIK.DAT
+  size: 11007
+  date: '1991-11-30T04:31:18'
+  crc: '0x2d44c0ed'
+- name: SCHATTEN.DAT
+  size: 19007
+  date: '1991-11-30T04:31:18'
+  crc: '0xb7f3df36'
+- name: SHARESOL.EXE
+  size: 63714
+  date: '1991-11-30T04:31:18'
+  crc: '0x78606349'

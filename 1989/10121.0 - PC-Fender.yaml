@@ -1,0 +1,26 @@
+filename: PC-Fender (1989)(Bruce Mealey) [Action].zip
+tdc_id: '10121.0'
+title:
+  screen: PC-Fender
+publisher: Bruce Mealey
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:28:38'
+  last_modified: '2019-03-01T18:28:38'
+type: zip
+commands:
+  play: PCFENDER.EXE
+references:
+  dosid: DOS06192
+  exodos: PC-Fender (1989).zip
+files:
+- name: PCFENDER.DOC
+  size: 528
+  date: '1989-03-04T12:09:00'
+  crc: '0x31e52181'
+- name: PCFENDER.EXE
+  size: 63413
+  date: '1989-03-04T12:59:08'
+  crc: '0x5761e472'

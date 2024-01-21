@@ -1,0 +1,30 @@
+filename: Zappa Roidz (1989)(Softdisk Publishing) [Action].zip
+tdc_id: '15763.0'
+title:
+  box: Zappa Roidz
+publisher: Softdisk Publishing
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:29:24'
+  last_modified: '2019-03-01T18:29:24'
+type: zip
+commands:
+  play: ZAPPA.EXE
+references:
+  dosid: DOS05794
+  exodos: Zappa Roidz (1989).zip
+files:
+- name: ZAPPA.EXE
+  size: 24863
+  date: '1989-08-14T16:12:00'
+  crc: '0x43cb3651'
+- name: ZAPPA.PIC
+  size: 32754
+  date: '1989-07-28T09:19:00'
+  crc: '0x97310818'
+- name: ZAPPA.TXT
+  size: 2647
+  date: '1989-08-14T10:57:00'
+  crc: '0xb1757fd7'

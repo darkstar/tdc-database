@@ -1,0 +1,30 @@
+filename: Red Baron (Installer) (De) (1994)(Kixx XL) [Action, Simulation].zip
+tdc_id: '14801.3'
+title:
+  box: Red Baron
+publisher: Kixx XL
+year: '1994'
+genre:
+- Action
+- Simulation
+language: German
+date:
+  added: '2019-03-01T22:03:36'
+  last_modified: '2019-03-01T22:03:36'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 24098
+  date: '1993-09-06T15:48:46'
+  crc: '0x9ba6da83'
+- name: RB_GER_1.RNC
+  size: 1430000
+  date: '1993-09-06T15:52:02'
+  crc: '0xfa096b05'
+- name: RB_GER_2.RNC
+  size: 270331
+  date: '1993-09-06T15:52:02'
+  crc: '0xa074f261'

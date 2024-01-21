@@ -1,0 +1,43 @@
+filename: PixelShips v1.51 [FW] (1999)(Kris Asick) [Action].zip
+tdc_id: '10323.0'
+title:
+  screen: PixelShips
+publisher: Kris Asick
+year: '1999'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:46:20'
+  last_modified: '2019-03-02T10:46:20'
+version: '1.51'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: pixships.exe
+files:
+- name: CWSDPMI.EXE
+  size: 20473
+  date: '1997-10-19T21:48:14'
+  crc: '0x80fa6999'
+- name: pixships.dat
+  size: 97581
+  date: '2001-02-13T11:18:14'
+  crc: '0x17228bcd'
+- name: pixships.exe
+  size: 699232
+  date: '2001-02-13T11:27:10'
+  crc: '0x2ce64b74'
+- name: readme.txt
+  size: 18339
+  date: '2002-12-31T18:44:10'
+  crc: '0x743ae0db'
+- name: shipgfx.dat
+  size: 10962
+  date: '2001-01-29T22:56:54'
+  crc: '0x75b46b85'
+- name: ships.dat
+  size: 68202
+  date: '2001-02-27T08:34:24'
+  crc: '0xaffa7dfb'

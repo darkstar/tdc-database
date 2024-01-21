@@ -1,0 +1,46 @@
+filename: Armada (1992)(Villa Crespo Software, Inc.) [Strategy][!].zip
+tdc_id: '8776.0'
+parent_id: '8776.3'
+title:
+  box: Armada
+publisher: Villa Crespo Software, Inc.
+year: '1992'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:41:14'
+  last_modified: '2023-08-13T10:23:12'
+type: zip
+tags:
+- KnownGood
+media: 1.2M
+commands:
+  play: ARMADA.EXE
+references:
+  mobygames: https://www.mobygames.com/game/70813/armada/
+  dosid: DOS00373
+  exodos: Armada (1992).zip
+files:
+- name: ARM.L
+  size: 364082
+  date: '1992-08-27T16:23:36'
+  crc: '0xbc682d37'
+- name: ARM.V
+  size: 285248
+  date: '1992-08-27T16:23:36'
+  crc: '0x07535854'
+- name: ARMADA.EXE
+  size: 265898
+  date: '1992-08-27T16:23:36'
+  crc: '0xf357e4f9'
+- name: CBS06.BAT
+  size: 38
+  date: '1992-08-27T16:23:36'
+  crc: '0x20fd822e'
+- name: CBS2.EXE
+  size: 4846
+  date: '1992-08-27T04:24:00'
+  crc: '0xf31bacf9'
+- name: DELTA
+  size: 0
+  date: '1992-10-11T15:54:00'

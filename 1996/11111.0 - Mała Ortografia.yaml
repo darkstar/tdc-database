@@ -1,0 +1,93 @@
+filename: Mała Ortografia (demo) (Pl) (1996)(VIPS) [Educational, Action].zip
+tdc_id: '11111.0'
+title:
+  screen: Mała Ortografia
+  qualifier: demo
+publisher: VIPS
+year: '1996'
+genre:
+- Educational
+- Action
+language: Polish
+date:
+  added: '2022-03-07T00:41:22'
+  last_modified: '2022-12-28T16:40:45'
+type: zip
+demo: true
+commands:
+  play: STARTUJ.BAT
+  setup: _KONFIG.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/maa-ortografia
+files:
+- name: CZYTAJTO.EXE
+  size: 29526
+  date: '1995-06-23T10:22:08'
+  crc: '0x3f4a7c18'
+- name: DANE0.VOL
+  size: 230944
+  date: '1995-06-23T10:22:18'
+  crc: '0xe80b6ca5'
+- name: INFO.TXT
+  size: 1555
+  date: '1996-02-21T07:20:02'
+  crc: '0x0f87530e'
+- name: INSTALUJ.BAT
+  size: 361
+  date: '1996-07-16T07:15:02'
+  crc: '0x8c34b31f'
+- name: OFERTA.EXE
+  size: 37994
+  date: '1996-03-05T07:45:50'
+  crc: '0xb0633b3f'
+- name: OPIS\
+  size: 0
+  date: '2022-03-07T06:52:46'
+- name: OPIS\MALAORT.GIF
+  size: 89762
+  date: '1996-07-20T03:59:28'
+  crc: '0xc1b52c87'
+- name: OPIS\OPIS.BAT
+  size: 19
+  date: '1996-07-01T21:12:30'
+  crc: '0x8883633b'
+- name: OPIS\VPIC.EXE
+  size: 122608
+  date: '1996-04-05T11:46:00'
+  crc: '0x2af89a1e'
+- name: ORT.CFG
+  size: 12
+  date: '1996-03-05T07:47:46'
+  crc: '0xb47cc5f7'
+- name: ORT.ICO
+  size: 766
+  date: '1995-06-23T10:22:16'
+  crc: '0x8425a603'
+- name: ORT.PIF
+  size: 545
+  date: '1995-06-23T10:22:12'
+  crc: '0xb116d0b8'
+- name: STARTUJ.BAT
+  size: 9
+  date: '1996-07-01T21:12:44'
+  crc: '0xc863c6c1'
+- name: UWAGA.!!!
+  size: 357
+  date: '1996-03-05T07:48:24'
+  crc: '0xa3a50151'
+- name: WYNIKI0.DAT
+  size: 1675
+  date: '2022-03-05T22:47:08'
+  crc: '0xbd2f9f8f'
+- name: ZAMOWIEN.TXT
+  size: 1770
+  date: '1996-02-21T07:20:02'
+  crc: '0x328a92f3'
+- name: _KONFIG.EXE
+  size: 32314
+  date: '1995-06-23T10:22:08'
+  crc: '0x8d6bfb10'
+- name: _ORT.EXE
+  size: 51803
+  date: '1995-06-23T10:22:08'
+  crc: '0x4efd163c'

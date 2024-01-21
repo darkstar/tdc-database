@@ -1,0 +1,63 @@
+filename: Sooty & Sweep (1994)(Alternative Software Ltd.) [Action].zip
+tdc_id: '15280.0'
+title:
+  box: Sooty & Sweep
+publisher: Alternative Software Ltd.
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2020-10-19T17:08:00'
+  last_modified: '2020-10-19T17:08:00'
+type: zip
+commands:
+  play: SOOTY.EXE
+files:
+- name: END.PLA
+  size: 10560
+  date: '1994-03-18T14:00:22'
+  crc: '0x388cc16c'
+- name: OPTION.PLA
+  size: 32000
+  date: '1994-03-18T14:00:32'
+  crc: '0xecce0789'
+- name: ROOMS.CHR
+  size: 166922
+  date: '1994-03-18T14:00:34'
+  crc: '0x1eb9172a'
+- name: ROOMS.MAP
+  size: 17008
+  date: '1994-03-18T14:00:12'
+  crc: '0xd0a659bd'
+- name: SOOTY.EXE
+  size: 49956
+  date: '1994-03-18T14:00:36'
+  crc: '0x790692f6'
+- name: SOOTY.EX_
+  size: 18432
+  date: '1994-03-18T14:00:22'
+  crc: '0x7b152f13'
+- name: SSTITLE.PLA
+  size: 32000
+  date: '1994-03-18T14:00:36'
+  crc: '0x706a3c30'
+- name: STAIRS.CHA
+  size: 2698
+  date: '1994-03-18T14:00:22'
+  crc: '0xebec70e0'
+- name: STAIRS.MAP
+  size: 2048
+  date: '1994-03-18T14:00:38'
+  crc: '0x5b9a9f36'
+- name: SUBGAME.PLA
+  size: 32000
+  date: '1994-03-18T14:00:06'
+  crc: '0x72f5073b'
+- name: TPPUZ.DAT
+  size: 49956
+  date: '1994-03-18T14:00:36'
+  crc: '0x790692f6'
+- name: WAVE.SPR
+  size: 10382
+  date: '1994-03-18T14:00:42'
+  crc: '0x249faebf'

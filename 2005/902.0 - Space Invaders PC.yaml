@@ -1,0 +1,30 @@
+filename: Space Invaders PC [FW] (2005)(anarky) [Action].zip
+tdc_id: '902.0'
+title:
+  screen: Space Invaders PC
+publisher: anarky
+year: '2005'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:57:08'
+  last_modified: '2023-01-23T14:11:21'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: INVADERS.EXE
+files:
+- name: INVADERS.EXE
+  size: 60256
+  date: '2005-04-15T23:51:22'
+  crc: '0x77582ea3'
+- name: invader.bas
+  size: 30944
+  date: '2005-04-15T22:46:48'
+  crc: '0xd225d024'
+- name: readme.txt
+  size: 4430
+  date: '2005-04-15T22:44:14'
+  crc: '0x95f50e7d'

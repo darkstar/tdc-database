@@ -1,0 +1,36 @@
+filename: Wizardry IV- The Return of Werdna [DC] (1988)(Sir-tech Software, Inc.) [Role-Playing (RPG)].zip
+tdc_id: '7599.0'
+title:
+  box: 'Wizardry IV: The Return of Werdna'
+publisher: Sir-tech Software, Inc.
+year: '1988'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:27:02'
+  last_modified: '2019-03-01T18:27:02'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: WIZ4.COM
+references:
+  dosid: DOS05679
+  exodos: Wizardry IV - The Return of Werdna (1986).zip
+files:
+- name: CLUE4.TXT
+  size: 1394
+  date: '1998-10-01T09:56:48'
+  crc: '0x75c70618'
+- name: SAVE4.DSK
+  size: 655360
+  date: '1998-09-09T08:50:38'
+  crc: '0x83a918cb'
+- name: WIZ4.COM
+  size: 18694
+  date: '1998-09-01T10:03:00'
+  crc: '0x8610d8a9'
+- name: WIZ4.DSK
+  size: 327680
+  date: '1998-06-18T07:38:06'
+  crc: '0x227e614e'

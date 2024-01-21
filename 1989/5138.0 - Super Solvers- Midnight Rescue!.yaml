@@ -1,0 +1,70 @@
+filename: Super Solvers- Midnight Rescue! (1989)(Learning Co., Inc., The) [Action, Adventure, Educational].zip
+tdc_id: '5138.0'
+title:
+  box: 'Super Solvers: Midnight Rescue!'
+publisher: Learning Co., Inc., The
+year: '1989'
+genre:
+- Action
+- Adventure
+- Educational
+language: English
+date:
+  added: '2021-04-19T15:30:08'
+  last_modified: '2021-04-19T15:30:08'
+type: zip
+commands:
+  play: SSR.EXE
+references:
+  mobygames: http://www.mobygames.com/game/dos/super-solvers-midnight-rescue
+  dosid: DOS04969
+  exodos: Super Solvers Midnight Rescue (1989).zip
+files:
+- name: CLOSE.GRA
+  size: 27191
+  date: '1996-12-24T23:32:00'
+  crc: '0x3caf1306'
+- name: DATTRIB.GRA
+  size: 54195
+  date: '1996-12-24T23:32:00'
+  crc: '0xa4b8aad8'
+- name: DMENUS.GRA
+  size: 3428
+  date: '1996-12-24T23:32:00'
+  crc: '0x790d2e8f'
+- name: DOPEN.GRA
+  size: 30436
+  date: '1996-12-24T23:32:00'
+  crc: '0x10efe27a'
+- name: DSSR.GRA
+  size: 60289
+  date: '1996-12-24T23:32:00'
+  crc: '0x9c9ee5eb'
+- name: FASTLOAD.GRA
+  size: 157463
+  date: '1996-12-24T23:32:00'
+  crc: '0xeaf2d2c5'
+- name: HELP.DAT
+  size: 5809
+  date: '1996-12-24T23:32:00'
+  crc: '0xbdf3ef47'
+- name: SSR.CGA
+  size: 4294
+  date: '1996-12-24T23:32:00'
+  crc: '0x4ae6d05c'
+- name: SSR.DAT
+  size: 53176
+  date: '1996-12-24T23:32:00'
+  crc: '0x8c303377'
+- name: SSR.EXE
+  size: 110505
+  date: '1996-12-24T23:32:00'
+  crc: '0xe3fcb9b8'
+- name: SSR.TGA
+  size: 3504
+  date: '1996-12-24T23:32:00'
+  crc: '0x7d8367b5'
+- name: TASK.RSC
+  size: 134076
+  date: '1996-12-24T23:32:00'
+  crc: '0xc3d2cd1a'

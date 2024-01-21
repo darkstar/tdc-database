@@ -1,0 +1,51 @@
+filename: Bangul-i-wa Bangul Sai (Ko) [FW] (1995)(D.C.C., Projino) [Strategy, Puzzle].zip
+tdc_id: '3422.0'
+title:
+  screen: Bangul-i-wa Bangul Sai
+publisher: D.C.C., Projino
+year: '1995'
+genre:
+- Strategy
+- Puzzle
+language: Korean
+date:
+  added: '2019-03-02T07:29:44'
+  last_modified: '2019-03-02T07:29:44'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: BWBW.EXE
+references:
+  dosid: DOS07957
+  exodos: BangWool (1995).zip
+files:
+- name: BALL.SPR
+  size: 2453
+  date: '1995-10-21T11:49:18'
+  crc: '0xc821a6b7'
+- name: BLOCK.SPR
+  size: 1550
+  date: '1995-10-23T15:43:40'
+  crc: '0x0386843f'
+- name: BWBW.EXE
+  size: 138099
+  date: '1995-10-26T18:46:10'
+  crc: '0x10e777a0'
+- name: JINO.PAL
+  size: 768
+  date: '1995-10-03T11:42:20'
+  crc: '0xfbc4ac33'
+- name: TITLE.SPR
+  size: 53753
+  date: '1995-10-07T08:29:48'
+  crc: '0xe8313752'
+- name: WALL.SPR
+  size: 1006
+  date: '1995-10-22T09:47:10'
+  crc: '0xc3af3a74'
+- name: WWBW.TXT
+  size: 1295
+  date: '1995-10-24T18:33:00'
+  crc: '0xc4e78eea'

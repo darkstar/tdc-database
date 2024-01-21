@@ -1,0 +1,76 @@
+filename: Cryptic Passage for Blood v1.031 (Installer) (1997)(WizardWorks Group, Inc.) [Action, Addon].zip
+tdc_id: '9403.1'
+parent_id: '9403.2'
+title:
+  box: Cryptic Passage for Blood
+publisher: WizardWorks Group, Inc.
+year: '1997'
+genre:
+- Action
+- Addon
+language: English
+date:
+  added: '2019-03-02T10:26:08'
+  last_modified: '2023-01-12T17:40:07'
+version: '1.031'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/cryptic-passage-for-blood
+files:
+- name: CP1031.TXT
+  size: 104
+  date: '1997-07-22T04:34:44'
+  crc: '0x2f8e20ae'
+- name: CPINTRO.TXT
+  size: 5684
+  date: '1997-06-29T14:44:28'
+  crc: '0xc500c67b'
+- name: CRYPTIC\
+  size: 0
+  date: '1997-07-28T11:13:02'
+- name: CRYPTIC\CPINTRO.TXT
+  size: 5684
+  date: '1997-06-29T14:44:28'
+  crc: '0xc500c67b'
+- name: CRYPTIC\CRYPTIC.SSI
+  size: 9753361
+  date: '1997-07-09T11:03:10'
+  crc: '0xc6df85ed'
+- name: CRYPTIC\GAMER.EXE
+  size: 34528
+  date: '1997-07-02T01:34:32'
+  crc: '0x3db4ef1e'
+- name: CRYPTIC\GAMER.INI
+  size: 1634
+  date: '1997-06-01T21:20:40'
+  crc: '0x6cb30430'
+- name: CRYPTIC\README.TXT
+  size: 16237
+  date: '1997-07-03T15:16:44'
+  crc: '0xb80e2aa0'
+- name: INSTALL.EXE
+  size: 31920
+  date: '1997-07-28T10:22:04'
+  crc: '0xfe488b01'
+- name: LICENSE.TXT
+  size: 6957
+  date: '1997-07-03T15:41:02'
+  crc: '0x4d95bc46'
+- name: PATCHES\
+  size: 0
+  date: '1997-07-28T11:13:02'
+- name: PATCHES\R0002.EXE
+  size: 2358904
+  date: '1997-07-02T10:40:12'
+  crc: '0x7a2125d5'
+- name: PATCHES\R0102.EXE
+  size: 717288
+  date: '1997-07-02T10:26:54'
+  crc: '0x1d1cc971'
+- name: README.TXT
+  size: 16237
+  date: '1997-07-03T15:16:44'
+  crc: '0xb80e2aa0'

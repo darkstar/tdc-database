@@ -1,0 +1,38 @@
+filename: Super Solvers- Challenge of the Ancient Empires! v1.0 (1990)(The Learning Company) [Educational, Strategy].zip
+tdc_id: '5136.2'
+parent_id: '5136.1'
+title:
+  box: 'Super Solvers: Challenge of the Ancient Empires!'
+  screen: Challenge of the Ancient Empires! A Super Solvers Adventure
+publisher: The Learning Company
+year: '1990'
+genre:
+- Educational
+- Strategy
+language: English
+date:
+  added: '2020-10-15T21:42:00'
+  last_modified: '2023-06-22T10:59:41'
+version: '1.0'
+type: zip
+commands:
+  play: SSA.BAT
+references:
+  mobygames: https://www.mobygames.com/game/1963/super-solvers-challenge-of-the-ancient-empires/
+files:
+- name: SSA.BAT
+  size: 444
+  date: '1990-09-07T14:59:48'
+  crc: '0xafd22006'
+- name: SSA000.DAT
+  size: 228727
+  date: '1990-09-24T14:33:00'
+  crc: '0xb6f06043'
+- name: SSA001.DAT
+  size: 360674
+  date: '1990-09-24T14:33:54'
+  crc: '0x1e6f7967'
+- name: SSAPROG.EXE
+  size: 79190
+  date: '1990-09-24T14:34:16'
+  crc: '0x94854799'

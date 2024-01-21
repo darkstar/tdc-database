@@ -1,0 +1,97 @@
+filename: Hitchhiker's Guide to the Galaxy, The r58 (Installer) (1987)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '8335.7'
+parent_id: '8335.13'
+title:
+  box: The Hitchhiker's Guide to the Galaxy
+publisher: Infocom, Inc.
+year: '1987'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2022-04-09T18:31:38'
+  last_modified: '2022-04-09T18:31:38'
+release: '58'
+type: zip
+installer: true
+files:
+- name: AF.EXE
+  size: 13168
+  date: '1985-05-28T13:27:14'
+  crc: '0xac30980c'
+- name: DEMO\
+  size: 0
+  date: '1980-01-01T00:04:06'
+- name: DEMO\DEMOHD.BAT
+  size: 128
+  date: '1987-11-21T11:10:24'
+  crc: '0x0f533a8e'
+- name: DEMO\DEMOTF.BAT
+  size: 21
+  date: '1986-09-08T05:24:40'
+  crc: '0x0a0b4962'
+- name: DEMO\DPRES.EXE
+  size: 33888
+  date: '1986-09-08T04:48:28'
+  crc: '0x10dbc114'
+- name: DEMO\TRAIN.DST
+  size: 4608
+  date: '1985-03-18T21:15:32'
+  crc: '0x42bff28d'
+- name: DEMO\TRAIN.REF
+  size: 27520
+  date: '1986-09-04T05:03:58'
+  crc: '0x1a47b0df'
+- name: DEMO\TRAINP.CMP
+  size: 771
+  date: '1986-09-04T03:34:14'
+  crc: '0x33de4a34'
+- name: DEMO\TRAINT.CMP
+  size: 85895
+  date: '1986-08-07T01:39:36'
+  crc: '0x4e49fa48'
+- name: GAMEDIR.COM
+  size: 62
+  date: '1985-05-31T10:45:50'
+  crc: '0xee6703b0'
+- name: HITCHHIK.COM
+  size: 11402
+  date: '1980-01-01T03:32:22'
+  crc: '0x963d10e4'
+- name: HITCHHIK.DAT
+  size: 113333
+  date: '1980-01-01T03:23:56'
+  crc: '0xf136885e'
+- name: INSTALL.BAT
+  size: 2432
+  date: '1986-12-12T12:18:06'
+  crc: '0x695f9849'
+- name: INSTALLD.BAT
+  size: 1664
+  date: '1986-12-12T12:46:30'
+  crc: '0x346645e6'
+- name: INSTALLH.BAT
+  size: 2176
+  date: '1986-12-12T12:17:28'
+  crc: '0x0c476eab'
+- name: SCAN.COM
+  size: 114
+  date: '1986-09-25T13:40:48'
+  crc: '0x78387415'
+- name: SETUP.EXE
+  size: 1584
+  date: '1985-06-28T10:53:14'
+  crc: '0x62ddb282'
+- name: SETUP.INF
+  size: 3
+  date: '1985-05-04T20:39:12'
+  crc: '0x8bdcb97d'
+- name: STATLINE.BAT
+  size: 3200
+  date: '1986-12-10T10:18:56'
+  crc: '0x331dbf34'
+- name: YES.COM
+  size: 93
+  date: '1984-11-30T12:02:30'
+  crc: '0x01bd6af9'

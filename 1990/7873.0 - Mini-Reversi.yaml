@@ -1,0 +1,28 @@
+filename: Mini-Reversi (De) (1990)(Andreas Meile) [Strategy].zip
+tdc_id: '7873.0'
+title:
+  screen: Mini-Reversi
+publisher: Andreas Meile
+year: '1990'
+genre: Strategy
+language: German
+date:
+  added: '2019-03-01T18:33:16'
+  last_modified: '2019-03-01T18:33:16'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 27
+  date: '2018-12-01T11:41:26'
+  crc: '0x6ece7d82'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: REVERSI.BAS
+  size: 9076
+  date: '2018-12-01T11:41:10'
+  crc: '0xd0240143'

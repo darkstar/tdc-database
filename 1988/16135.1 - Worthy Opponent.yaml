@@ -1,0 +1,35 @@
+filename: Worthy Opponent v2.0 [SW] (1988)(Future Ideas Today, Inc.) [Compilation].zip
+tdc_id: '16135.1'
+title:
+  screen: Worthy Opponent
+publisher: Future Ideas Today, Inc.
+year: '1988'
+genre: Compilation
+language: English
+date:
+  added: '2019-03-01T18:27:02'
+  last_modified: '2019-03-01T18:27:02'
+version: '2.0'
+type: zip
+tags:
+- Shareware
+media: Download
+compilation: true
+commands:
+  play: WORTHY.EXE
+references:
+  dosid: DOS05358
+  exodos: Worthy Opponent (1988).zip
+files:
+- name: WORTHY.CFG
+  size: 1048
+  date: '1991-03-09T18:53:38'
+  crc: '0x615035f8'
+- name: WORTHY.DOC
+  size: 78593
+  date: '1990-07-14T07:16:02'
+  crc: '0xe258936a'
+- name: WORTHY.EXE
+  size: 186304
+  date: '1989-12-30T13:37:02'
+  crc: '0x9a7862d7'

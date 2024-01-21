@@ -1,0 +1,37 @@
+filename: Destiny (1987)(Pete Koziar) [Adventure, Interactive Fiction].zip
+tdc_id: '1368.0'
+title:
+  screen: Destiny
+publisher: Pete Koziar
+year: '1987'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:25:16'
+  last_modified: '2019-03-01T18:25:16'
+type: zip
+commands:
+  play: PLAY.EXE
+files:
+- name: DESTINY.DAT
+  size: 15501
+  date: '1987-11-10T22:39:26'
+  crc: '0x142f74e3'
+- name: DESTINY.DOC
+  size: 5122
+  date: '1987-12-08T22:18:24'
+  crc: '0x4a8a5632'
+- name: DESTINY.MES
+  size: 40825
+  date: '1987-11-10T22:41:10'
+  crc: '0xfa6a810e'
+- name: FILE1327.TXT
+  size: 654
+  date: '1993-02-25T23:12:56'
+  crc: '0x7b60e110'
+- name: PLAY.EXE
+  size: 43008
+  date: '1985-05-22T18:25:18'
+  crc: '0x46bde067'

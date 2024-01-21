@@ -1,0 +1,29 @@
+filename: Flight of the Amazon Queen (demo) (1995)(Renegade Software) [Adventure].zip
+tdc_id: '13657.0'
+title:
+  screen: Flight of the Amazon Queen
+  qualifier: demo
+publisher: Renegade Software
+year: '1995'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-02T08:43:48'
+  last_modified: '2019-03-02T08:43:48'
+type: zip
+demo: true
+commands:
+  play: QUEEN.EXE
+files:
+- name: DOS4GW.EXE
+  size: 244716
+  date: '1994-04-25T02:34:50'
+  crc: '0xc8e3cf7d'
+- name: QUEEN.1
+  size: 3732177
+  date: '1994-11-10T05:36:10'
+  crc: '0xd168bde3'
+- name: QUEEN.EXE
+  size: 235561
+  date: '1994-11-10T05:36:32'
+  crc: '0x080ed38e'

@@ -1,0 +1,82 @@
+filename: Neverworld (Installer) (It) (1997)(Peruzzo Informatica) [Adventure].zip
+tdc_id: '17180.0'
+title:
+  box: Neverworld
+publisher: Peruzzo Informatica
+year: '1997'
+genre: Adventure
+language: Italian
+date:
+  added: '2023-01-30T11:10:12'
+  last_modified: '2023-01-30T11:10:12'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/neverworld
+files:
+- name: CROS.BIG
+  size: 44552938
+  date: '1997-01-21T23:08:56'
+  crc: '0xd0e01533'
+- name: CROS.BNK
+  size: 6894717
+  date: '1997-01-21T23:08:56'
+  crc: '0xa249e2af'
+- name: CROS.EXE
+  size: 394424
+  date: '1997-01-21T23:28:08'
+  crc: '0xa7b73f04'
+- name: DPMI16BI.OVL
+  size: 60672
+  date: '1995-05-19T07:00:00'
+  crc: '0x2fe2f395'
+- name: INSTALL.CFG
+  size: 222
+  date: '1996-11-13T16:54:46'
+  crc: '0xc86f3309'
+- name: INSTALL.EXE
+  size: 68280
+  date: '1996-11-08T21:41:20'
+  crc: '0xc08c8599'
+- name: NW.BAT
+  size: 1457
+  date: '1996-11-13T16:53:44'
+  crc: '0xf4454c6c'
+- name: NW01.BIG
+  size: 26231945
+  date: '1996-12-08T18:21:32'
+  crc: '0x2a0508ef'
+- name: NW01.BNK
+  size: 19856681
+  date: '1996-12-08T18:21:32'
+  crc: '0xfe206427'
+- name: NW01.EXE
+  size: 424728
+  date: '1996-12-10T14:09:00'
+  crc: '0x5381ba59'
+- name: RTM.EXE
+  size: 120853
+  date: '1995-05-19T07:00:00'
+  crc: '0xa4e940a6'
+- name: SETUP.EXE
+  size: 64058
+  date: '1996-11-06T22:08:08'
+  crc: '0x641d3f8d'
+- name: TEKY.BIG
+  size: 4
+  date: '1996-10-23T13:06:38'
+  crc: '0x6fc1568e'
+- name: TEKY.BNK
+  size: 8525091
+  date: '1996-10-23T13:06:38'
+  crc: '0x05095d74'
+- name: TEKY.EXE
+  size: 383000
+  date: '1996-11-13T16:32:50'
+  crc: '0x4ec9183b'
+- name: WDETECT.EXE
+  size: 4460
+  date: '1996-11-10T13:01:40'
+  crc: '0x1c43c8eb'

@@ -1,0 +1,87 @@
+filename: Game of Jots, The (1989)(PC Resource) [Strategy].zip
+tdc_id: '1704.0'
+title:
+  screen: The Game of Jots
+publisher: PC Resource
+year: '1989'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:27:48'
+  last_modified: '2019-03-01T18:27:48'
+type: zip
+commands:
+  play: JOTS.EXE
+files:
+- name: BOXES.BAS
+  size: 1570
+  date: '1989-03-14T10:42:36'
+  crc: '0xbbea1ec2'
+- name: GUESLIST.BAS
+  size: 2115
+  date: '1989-03-13T08:41:32'
+  crc: '0x45b15a77'
+- name: GUESS.BAS
+  size: 2334
+  date: '1989-03-14T01:03:14'
+  crc: '0x28029d1e'
+- name: INSTRUCT.BAS
+  size: 7284
+  date: '1989-03-15T08:55:28'
+  crc: '0x4a16e472'
+- name: J.INC
+  size: 2317
+  date: '1989-03-14T13:41:34'
+  crc: '0x7c0d80f8'
+- name: JOT.MAK
+  size: 1169
+  date: '1989-03-14T14:12:20'
+  crc: '0xfae3c0a0'
+- name: JOTS.EXE
+  size: 64040
+  date: '1989-03-15T08:56:00'
+  crc: '0x98527179'
+- name: JWORDS.JOT
+  size: 9716
+  date: '1989-08-30T19:05:32'
+  crc: '0xecdf8ff1'
+- name: KNWNLIST.BAS
+  size: 2160
+  date: '1989-03-13T08:45:44'
+  crc: '0xcc9579d1'
+- name: MAIN.BAS
+  size: 1597
+  date: '1989-03-14T12:17:20'
+  crc: '0x3f45039d'
+- name: MAKELIST.BAS
+  size: 1616
+  date: '1989-03-13T23:19:48'
+  crc: '0xd342cd0e'
+- name: MENU.BAS
+  size: 1119
+  date: '1989-03-14T13:41:32'
+  crc: '0x3bdce219'
+- name: MSGBOX.BAS
+  size: 1108
+  date: '1989-03-13T08:46:16'
+  crc: '0x4a3a0974'
+- name: NOTE.BAS
+  size: 1788
+  date: '1989-03-13T17:09:40'
+  crc: '0x933ecf6f'
+- name: POSSLIST.BAS
+  size: 2137
+  date: '1989-03-13T17:04:30'
+  crc: '0x42d599da'
+- name: SCORE.BAS
+  size: 977
+  date: '1989-03-13T08:43:28'
+  crc: '0xfbf6c60d'
+- name: USEDLIST.BAS
+  size: 974
+  date: '1989-03-13T08:44:10'
+  crc: '0xd0c6c698'
+- name: WORDS.BAS
+  size: 8679
+  date: '1989-03-15T08:48:18'
+  crc: '0x5e231e04'

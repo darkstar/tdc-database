@@ -1,0 +1,35 @@
+filename: PC Downs [a1] (1987)(Michael P. Ellerbe) [Simulation, Sports].zip
+tdc_id: '10058.1'
+title:
+  screen: PC Downs
+publisher: Michael P. Ellerbe
+year: '1987'
+genre:
+- Simulation
+- Sports
+language: English
+date:
+  added: '2019-03-01T18:25:30'
+  last_modified: '2019-03-01T18:25:30'
+type: zip
+tags:
+- Alternate: 1
+commands:
+  play: PCDOWNS.EXE
+files:
+- name: OTB.BAS
+  size: 15087
+  date: '2030-11-01T00:04:18'
+  crc: '0xb50dc0c4'
+- name: PCDOWNS.EXE
+  size: 40803
+  date: '2030-11-01T00:11:28'
+  crc: '0x28468c02'
+- name: PERSON.DAT
+  size: 841
+  date: '1980-01-01T06:31:22'
+  crc: '0x8a815753'
+- name: STABLES.DAT
+  size: 3521
+  date: '1980-01-01T01:54:30'
+  crc: '0x14b4616e'

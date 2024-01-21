@@ -1,0 +1,71 @@
+filename: Crusade v1.02 (Installer) (1995)(Funsoft GmbH) [Strategy].zip
+tdc_id: '12257.1'
+parent_id: '12257.2'
+title:
+  box: Crusade
+publisher: Funsoft GmbH
+year: '1995'
+genre: Strategy
+language: English
+date:
+  added: '2021-03-06T18:40:56'
+  last_modified: '2021-03-06T18:40:56'
+version: '1.02'
+type: zip
+installer: true
+files:
+- name: CRUSADE.BAT
+  size: 32
+  date: '1995-11-22T12:00:00'
+  crc: '0x946e5491'
+- name: CRUSADE\
+  size: 0
+  date: '1995-11-22T14:38:04'
+- name: CRUSADE\CRUSADE.PAK
+  size: 1191140
+  date: '1995-11-22T12:00:00'
+  crc: '0xc14b23d4'
+- name: CRUSADE\CR_ANIMS.VDF
+  size: 50935795
+  date: '1995-11-22T12:00:00'
+  crc: '0x14ff3df4'
+- name: CRUSADE\CR_DATA.VDF
+  size: 2872962
+  date: '1995-11-22T12:00:00'
+  crc: '0x8dd250d6'
+- name: CRUSADE\CR_INT1.VDF
+  size: 19952890
+  date: '1995-11-22T12:00:00'
+  crc: '0x7ff55e3d'
+- name: CRUSADE\CR_INT2.VDF
+  size: 2540162
+  date: '1995-11-22T12:00:00'
+  crc: '0xad8193d0'
+- name: CRUSADE\CR_LAGE.VDF
+  size: 11431967
+  date: '1995-11-22T12:00:00'
+  crc: '0xb52840a3'
+- name: CRUSADE\CR_MOVIE.VDF
+  size: 3841914
+  date: '1995-11-22T12:00:00'
+  crc: '0x4dafdbf5'
+- name: CRUSADE\CR_SFX.VDF
+  size: 1840808
+  date: '1995-11-22T12:00:00'
+  crc: '0x8b120c2f'
+- name: CRUSADE\CR_WAVE.VDF
+  size: 6035025
+  date: '1995-11-22T12:00:00'
+  crc: '0x1bc805fc'
+- name: CRUSADE\INSTALL.CFG
+  size: 1182
+  date: '1995-11-22T12:00:00'
+  crc: '0x17d8b685'
+- name: CRUSADE\INSTALL.EXE
+  size: 46752
+  date: '1995-11-22T12:00:00'
+  crc: '0xb9d8a0a0'
+- name: INSTALL.BAT
+  size: 32
+  date: '1995-11-22T12:00:00'
+  crc: '0x946e5491'

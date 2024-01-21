@@ -1,0 +1,27 @@
+filename: ZTAC! (1994)(Edwin Zargarian) [Action].zip
+tdc_id: '3381.0'
+title:
+  screen: ZTAC!
+publisher: Edwin Zargarian
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T07:20:28'
+  last_modified: '2019-03-02T07:20:28'
+type: zip
+commands:
+  play: TICTAC.EXE
+files:
+- name: EGAVGA.BGI
+  size: 5527
+  date: '1992-10-27T07:00:00'
+  crc: '0xa33014d5'
+- name: README.TXT
+  size: 722
+  date: '1994-07-09T02:32:52'
+  crc: '0x96ae6dba'
+- name: TICTAC.EXE
+  size: 24208
+  date: '1994-07-09T02:06:20'
+  crc: '0x23bd0970'

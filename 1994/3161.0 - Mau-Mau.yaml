@@ -1,0 +1,49 @@
+filename: Mau-Mau (Installer) (De) [SW] (1994)(Dom's Fun Art) [Strategy, Cards].zip
+tdc_id: '3161.0'
+title:
+  screen: Mau-Mau
+publisher: Dom's Fun Art
+year: '1994'
+genre:
+- Strategy
+- Cards
+language: German
+date:
+  added: '2019-03-01T22:02:00'
+  last_modified: '2022-11-21T20:05:31'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FATAL.EXE
+  size: 38075
+  date: '1994-10-03T13:35:26'
+  crc: '0x93c0f69a'
+- name: INFO.TXT
+  size: 20165
+  date: '1994-10-06T19:17:10'
+  crc: '0x87cf8cc0'
+- name: INSTALL.EXE
+  size: 40171
+  date: '1994-10-03T13:35:36'
+  crc: '0xb2537e74'
+- name: MMSHWPAC.EXE
+  size: 276936
+  date: '1994-10-06T19:38:38'
+  crc: '0xfdac7cdb'
+- name: PRTINFO.EXE
+  size: 40091
+  date: '1994-10-03T13:35:58'
+  crc: '0x23ca6976'
+- name: README.EXE
+  size: 3803
+  date: '1994-10-03T13:36:04'
+  crc: '0x1e4360a0'
+- name: REGISTER.TXT
+  size: 1780
+  date: '1994-10-06T18:56:06'
+  crc: '0x737df999'

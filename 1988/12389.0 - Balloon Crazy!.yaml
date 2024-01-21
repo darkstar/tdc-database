@@ -1,0 +1,28 @@
+filename: Balloon Crazy! (1988)(Anonymous) [Action].zip
+tdc_id: '12389.0'
+title:
+  screen: Balloon Crazy!
+publisher: Anonymous
+year: '1988'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:25:56'
+  last_modified: '2019-03-01T18:25:56'
+type: zip
+media: Download
+commands:
+  play: RUN.BAT
+files:
+- name: BALLOON.BAS
+  size: 7002
+  date: '1988-01-03T10:16:40'
+  crc: '0x85abc111'
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: RUN.BAT
+  size: 22
+  date: '2018-12-08T16:30:10'
+  crc: '0x67081b20'

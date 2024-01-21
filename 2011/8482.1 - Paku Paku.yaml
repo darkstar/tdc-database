@@ -1,0 +1,73 @@
+filename: Paku Paku (Demo) (2011)(Jason M. Knight) [Action].zip
+tdc_id: '8482.1'
+title:
+  screen: Paku Paku
+  qualifier: Demo
+publisher: Jason M. Knight
+year: '2011'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:57:50'
+  last_modified: '2019-03-02T10:57:50'
+type: zip
+demo: true
+commands:
+  play: PAKU.EXE
+files:
+- name: FONTS.DAT
+  size: 3840
+  date: '2011-01-11T21:32:46'
+  crc: '0xba694974'
+- name: FONTS.KRN
+  size: 70
+  date: '2011-01-11T22:46:18'
+  crc: '0xf1213800'
+- name: HEXNUM.DAT
+  size: 1920
+  date: '2011-01-31T05:47:40'
+  crc: '0x4f2f5c53'
+- name: JFUNC.PAS
+  size: 1634
+  date: '2011-01-29T05:47:30'
+  crc: '0xcdf6f7b6'
+- name: KEYBOARD.PAS
+  size: 397
+  date: '2011-01-30T10:48:34'
+  crc: '0xb439a10f'
+- name: MAP.DAT
+  size: 566
+  date: '2011-01-04T23:42:54'
+  crc: '0x5b5f73e6'
+- name: MAPTILES.DAT
+  size: 1152
+  date: '2011-01-11T07:04:00'
+  crc: '0x0930e950'
+- name: MYDOS.PAS
+  size: 455
+  date: '2011-01-26T07:05:46'
+  crc: '0xcdf66157'
+- name: PAKU.EXE
+  size: 22496
+  date: '2011-01-31T20:05:54'
+  crc: '0x44ca9693'
+- name: SOUND.PAS
+  size: 4684
+  date: '2011-01-31T19:59:44'
+  crc: '0xff9e8c75'
+- name: SPRITES.DAT
+  size: 5760
+  date: '2011-01-31T06:25:08'
+  crc: '0x9a412049'
+- name: TIMER.PAS
+  size: 2040
+  date: '2011-01-26T07:04:42'
+  crc: '0x0eca90d3'
+- name: paku.pas
+  size: 25120
+  date: '2011-01-31T20:05:46'
+  crc: '0x24b326a2'
+- name: txtGraph.pas
+  size: 28428
+  date: '2011-01-31T17:53:20'
+  crc: '0xa4de5852'

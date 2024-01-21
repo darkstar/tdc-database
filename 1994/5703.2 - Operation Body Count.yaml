@@ -1,0 +1,42 @@
+filename: Operation Body Count (Installer) (1994)(Capstone Software) [Action].zip
+tdc_id: '5703.2'
+title:
+  box: Operation Body Count
+publisher: Capstone Software
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T22:02:28'
+  last_modified: '2019-03-01T22:02:28'
+type: zip
+installer: true
+files:
+- name: BC1.CMP
+  size: 1076701
+  date: '1994-11-01T11:42:40'
+  crc: '0xf20de17c'
+- name: BC2.CMP
+  size: 1059274
+  date: '1994-11-04T10:34:38'
+  crc: '0x4affded5'
+- name: BC3.CMP
+  size: 908157
+  date: '1994-11-04T10:12:56'
+  crc: '0xef1d2b3a'
+- name: INSTALL.EXE
+  size: 49046
+  date: '1994-10-28T11:11:06'
+  crc: '0xbdc6df80'
+- name: README.EXE
+  size: 38702
+  date: '1994-03-11T12:21:28'
+  crc: '0x98804f73'
+- name: README.TXT
+  size: 4585
+  date: '1994-11-04T10:32:32'
+  crc: '0x61021e94'
+- name: UNCMP.EXE
+  size: 19411
+  date: '1991-10-15T19:30:00'
+  crc: '0x43c890d7'

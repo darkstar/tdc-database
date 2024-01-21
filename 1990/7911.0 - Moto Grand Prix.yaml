@@ -1,0 +1,73 @@
+filename: Moto Grand Prix (He) (1990)(BUG Multisystem Ltd.) [Racing - Driving, Simulation, Sports].zip
+tdc_id: '7911.0'
+title:
+  box: Moto Grand Prix
+publisher: BUG Multisystem Ltd.
+year: '1990'
+genre:
+- Racing - Driving
+- Simulation
+- Sports
+language: Hewbrew
+date:
+  added: '2020-03-17T13:20:42'
+  last_modified: '2020-03-17T13:20:42'
+type: zip
+commands:
+  play: MGP.EXE
+references:
+  dosid: DOS16059
+  exodos: Moto Grand Prix (1990).zip
+files:
+- name: CTR1.DAT
+  size: 12251
+  date: '1980-01-01T01:06:06'
+  crc: '0xe6228d43'
+- name: CTR2.DAT
+  size: 13385
+  date: '1980-01-01T01:12:24'
+  crc: '0x1005c4b4'
+- name: CTR3.DAT
+  size: 12356
+  date: '1980-01-01T01:05:46'
+  crc: '0x2617c37c'
+- name: DAT.DAT
+  size: 161535
+  date: '1980-01-01T02:06:10'
+  crc: '0xde8cce58'
+- name: HELP.DAT
+  size: 8878
+  date: '1980-01-01T00:08:08'
+  crc: '0x90117f24'
+- name: MENU.DAT
+  size: 8644
+  date: '1980-01-01T00:08:48'
+  crc: '0x70278599'
+- name: MGP.EXE
+  size: 70674
+  date: '1980-01-01T00:13:10'
+  crc: '0xd99c4e23'
+- name: MNTA.DAT
+  size: 5760
+  date: '1980-01-01T01:07:40'
+  crc: '0x7099cfbc'
+- name: MNTB.DAT
+  size: 5760
+  date: '1980-01-01T00:23:58'
+  crc: '0xa2959317'
+- name: MNTC.DAT
+  size: 5760
+  date: '1980-01-01T01:14:16'
+  crc: '0xf8225b37'
+- name: PIC1.DAT
+  size: 8664
+  date: '1980-01-01T00:07:32'
+  crc: '0x23953d62'
+- name: RINGS.DAT
+  size: 7891
+  date: '1980-01-01T00:06:50'
+  crc: '0xf1f8d4a3'
+- name: TOP.DAT
+  size: 160
+  date: '1980-01-01T00:02:12'
+  crc: '0x054eed4c'

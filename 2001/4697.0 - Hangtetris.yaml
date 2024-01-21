@@ -1,0 +1,86 @@
+filename: Hangtetris v5.1 [SW] (2001)(Hangvorgel) [Strategy, Action, Puzzle].zip
+tdc_id: '4697.0'
+title:
+  screen: Hangtetris
+publisher: Hangvorgel
+year: '2001'
+genre:
+- Strategy
+- Action
+- Puzzle
+language: English
+date:
+  added: '2019-03-02T10:55:20'
+  last_modified: '2019-03-02T10:55:20'
+version: '5.1'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: HT_UNREG.EXE
+files:
+- name: CGA.BGI
+  size: 6332
+  date: '1990-10-23T05:00:00'
+  crc: '0x5f4c2b51'
+- name: EGAVGA.BGI
+  size: 5554
+  date: '1990-10-23T05:00:00'
+  crc: '0x116c5498'
+- name: GOTH.CHR
+  size: 18063
+  date: '1990-10-23T05:00:00'
+  crc: '0xb38f8e47'
+- name: HERC.BGI
+  size: 6204
+  date: '1990-10-23T05:00:00'
+  crc: '0xac360ec1'
+- name: HT_UNREG.EXE
+  size: 55504
+  date: '2001-10-03T23:15:06'
+  crc: '0xdb453fa9'
+- name: IBM8514.BGI
+  size: 6665
+  date: '1990-10-23T05:00:00'
+  crc: '0x0350d1bd'
+- name: LITT.CHR
+  size: 5131
+  date: '1990-10-23T05:00:00'
+  crc: '0xfeac5336'
+- name: MAXSCORE.BLO
+  size: 250
+  date: '2001-10-03T21:03:38'
+  crc: '0x8a2adec4'
+- name: PC3270.BGI
+  size: 6012
+  date: '1990-10-23T05:00:00'
+  crc: '0xdcc0f8d3'
+- name: SANS.CHR
+  size: 13596
+  date: '1990-10-23T05:00:00'
+  crc: '0x18438f9b'
+- name: TRIP.CHR
+  size: 16677
+  date: '1990-10-23T05:00:00'
+  crc: '0xba867503'
+- name: install.txt
+  size: 493
+  date: '1999-11-02T20:08:52'
+  crc: '0xaba91576'
+- name: leesmij.txt
+  size: 4016
+  date: '2001-10-03T23:34:02'
+  crc: '0x308c8d47'
+- name: level15.gif
+  size: 5643
+  date: '1999-11-02T21:00:58'
+  crc: '0xcb48943f'
+- name: lisezmoi.txt
+  size: 3968
+  date: '2001-10-03T23:30:44'
+  crc: '0xe7cd7e6a'
+- name: readme.txt
+  size: 3976
+  date: '2001-10-03T23:27:20'
+  crc: '0x4924c79e'

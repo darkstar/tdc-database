@@ -1,0 +1,69 @@
+filename: Animal Quest v1.0 [SW] (1993)(Express Software) [Educational, Simulation].zip
+tdc_id: '8641.12'
+parent_id: '8641.11'
+title:
+  screen: Animal Quest
+publisher: Express Software
+year: '1993'
+genre:
+- Educational
+- Simulation
+language: English
+date:
+  added: '2022-12-20T11:11:49'
+  last_modified: '2022-12-20T11:11:49'
+version: '1.0'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: AQ.EXE
+  setup: SETUPAQ.EXE
+references:
+  mobygames: https://www.mobygames.com/game/animal-quest
+files:
+- name: ALIVE.DOC
+  size: 12481
+  date: '1992-01-01T12:00:04'
+  crc: '0x89739fe5'
+- name: AQ.DOC
+  size: 14331
+  date: '1991-12-01T01:00:00'
+  crc: '0x9533a7bd'
+- name: AQ.EXE
+  size: 71270
+  date: '1991-12-01T01:00:00'
+  crc: '0x4e16c4e8'
+- name: AQ.GGL
+  size: 61502
+  date: '1991-12-01T01:00:00'
+  crc: '0xf8c8ca0e'
+- name: AQ.LST
+  size: 64
+  date: '1991-12-01T01:00:00'
+  crc: '0x8d416d81'
+- name: FOREST.GDL
+  size: 13199
+  date: '1991-12-01T01:00:00'
+  crc: '0xbe263949'
+- name: FOREST.GGL
+  size: 130171
+  date: '1991-12-01T01:00:00'
+  crc: '0xb2204b5c'
+- name: MANUAL.BAT
+  size: 92
+  date: '1993-06-02T09:55:10'
+  crc: '0x8884fdf9'
+- name: ORDER.DOC
+  size: 3962
+  date: '1992-01-01T12:00:04'
+  crc: '0xd9424820'
+- name: README.DOC
+  size: 3059
+  date: '1991-12-01T01:00:00'
+  crc: '0xfc479bc9'
+- name: SETUPAQ.EXE
+  size: 25609
+  date: '1991-12-01T01:00:00'
+  crc: '0x4f670681'

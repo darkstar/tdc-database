@@ -1,0 +1,30 @@
+filename: Fishing (1993)(Jonathan Reinberg) [Sports, Simulation].zip
+tdc_id: '2640.0'
+title:
+  screen: Fishing
+publisher: Jonathan Reinberg
+year: '1993'
+genre:
+- Sports
+- Simulation
+language: English
+date:
+  added: '2019-03-01T19:08:36'
+  last_modified: '2019-03-01T19:08:36'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: FISHING.BAS
+  size: 3430
+  date: '2018-12-05T12:42:02'
+  crc: '0x1f18606c'
+- name: GO.BAT
+  size: 27
+  date: '2018-12-05T18:24:00'
+  crc: '0xdeee1dcb'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

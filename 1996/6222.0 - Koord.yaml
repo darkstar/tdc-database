@@ -1,0 +1,28 @@
+filename: Koord (Sv) (1996)(Andreas Mattsson) [Action].zip
+tdc_id: '6222.0'
+title:
+  screen: Koord
+publisher: Andreas Mattsson
+year: '1996'
+genre: Action
+language: Swedish
+date:
+  added: '2019-03-02T10:10:44'
+  last_modified: '2019-03-02T10:10:44'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 25
+  date: '2018-12-30T19:55:22'
+  crc: '0x9b706ccd'
+- name: KOORD.BAS
+  size: 5180
+  date: '1996-09-23T19:38:36'
+  crc: '0x503a9460'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

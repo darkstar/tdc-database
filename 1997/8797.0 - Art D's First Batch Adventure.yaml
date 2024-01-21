@@ -1,0 +1,23 @@
+filename: Art D's First Batch Adventure v1.1 (Installer) (1997)(Arthur DiBianca) [Adventure, Interactive Fiction].zip
+tdc_id: '8797.0'
+title:
+  screen: Art D's First Batch Adventure
+publisher: Arthur DiBianca
+year: '1997'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T10:25:06'
+  last_modified: '2019-03-02T10:25:06'
+version: '1.1'
+type: zip
+installer: true
+commands:
+  play: ADVENT.BAT
+files:
+- name: ADVENT.BAT
+  size: 9964
+  date: '1997-04-22T19:25:24'
+  crc: '0x480df911'

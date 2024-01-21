@@ -1,0 +1,28 @@
+filename: Spielsi (De) (1995)(Ingo Ruhnke) [Action].zip
+tdc_id: '15403.0'
+title:
+  screen: Spielsi
+publisher: Ingo Ruhnke
+year: '1995'
+genre: Action
+language: German
+date:
+  added: '2019-03-02T09:04:58'
+  last_modified: '2019-03-02T09:04:58'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 27
+  date: '2018-11-24T20:28:26'
+  crc: '0x2a5f82dd'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: SPIELSI.BAS
+  size: 4470
+  date: '1995-05-08T21:04:26'
+  crc: '0x3bcdc41b'

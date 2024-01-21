@@ -1,0 +1,30 @@
+filename: Wasteland Rebels v2.5d [SW] (1994)(Falcon) [Strategy].zip
+tdc_id: '3361.0'
+title:
+  screen: Wasteland Rebels
+publisher: Falcon
+year: '1994'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T07:19:28'
+  last_modified: '2019-03-02T07:19:28'
+version: 2.5d
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: WREBEL.EXE
+references:
+  dosid: DOS15821
+  exodos: Wasteland Rebels (1994).zip
+files:
+- name: WREB.DAT
+  size: 32
+  date: '1997-03-27T10:00:30'
+  crc: '0xf9ed0ef1'
+- name: WREBEL.EXE
+  size: 85008
+  date: '1994-07-25T22:42:50'
+  crc: '0x72aba50b'

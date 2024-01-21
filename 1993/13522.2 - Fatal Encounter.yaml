@@ -1,0 +1,39 @@
+filename: Fatal Encounter (Installer) (1993)(Computer & Entertainment Inc.) [Action].zip
+tdc_id: '13522.2'
+parent_id: '13522.3'
+title:
+  box: Fatal Encounter
+publisher: Computer & Entertainment Inc.
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2022-11-13T16:07:00'
+  last_modified: '2022-11-13T16:07:00'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/super-fighter
+files:
+- name: DISK1
+  size: 1032763
+  date: '1993-03-25T02:08:42'
+  crc: '0x6310cf49'
+- name: DISK2
+  size: 1097222
+  date: '1993-03-25T01:48:14'
+  crc: '0xd95aa6ac'
+- name: DISK3
+  size: 1167606
+  date: '1993-03-25T01:48:58'
+  crc: '0x5e8be674'
+- name: DISK4
+  size: 1091892
+  date: '1993-03-25T02:07:48'
+  crc: '0x57ef8948'
+- name: INSTALL.EXE
+  size: 21962
+  date: '1993-01-16T17:10:52'
+  crc: '0xe8230ab3'

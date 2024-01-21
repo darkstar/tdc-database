@@ -1,0 +1,48 @@
+filename: Chorweiler Shooting v1.1 (De) (2000)(Barsch-Soft) [Action].zip
+tdc_id: '9148.0'
+title:
+  screen: Chorweiler Shooting
+publisher: Barsch-Soft
+year: '2000'
+genre: Action
+language: German
+date:
+  added: '2019-03-02T10:54:38'
+  last_modified: '2019-03-02T10:54:38'
+version: '1.1'
+type: zip
+commands:
+  play: CHORWEIL.EXE
+files:
+- name: CHORWEIL.EXE
+  size: 83874
+  date: '2000-05-19T07:00:00'
+  crc: '0xcbd38bd2'
+- name: DAT2.WAV
+  size: 12334
+  date: '1998-02-15T19:03:00'
+  crc: '0xa4647c84'
+- name: DAT3.WAV
+  size: 19308
+  date: '1998-02-15T19:03:00'
+  crc: '0x8570513b'
+- name: ReadMe.txt
+  size: 1945
+  date: '2000-05-22T16:18:16'
+  crc: '0x0491eeee'
+- name: SONG.WAV
+  size: 119080
+  date: '2000-05-19T06:54:10'
+  crc: '0xb1306fc9'
+- name: chooser.pcx
+  size: 20517
+  date: '2000-05-15T15:39:16'
+  crc: '0xd0c5b09b'
+- name: dat1.pcx
+  size: 76177
+  date: '2000-05-02T12:43:16'
+  crc: '0xa55092ab'
+- name: schuss.wav
+  size: 9996
+  date: '2000-05-22T16:01:04'
+  crc: '0xda27ecf0'

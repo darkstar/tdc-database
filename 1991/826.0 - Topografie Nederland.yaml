@@ -1,0 +1,27 @@
+filename: Topografie Nederland (Nl) (1991)(C. R. de Hond) [Educational].zip
+tdc_id: '826.0'
+title:
+  screen: Topografie Nederland
+publisher: C. R. de Hond
+year: '1991'
+genre: Educational
+language: Dutch
+date:
+  added: '2019-03-01T18:39:50'
+  last_modified: '2019-03-01T18:39:50'
+type: zip
+commands:
+  play: NLV.EXE
+files:
+- name: NLV.EXE
+  size: 57584
+  date: '1991-03-15T02:00:00'
+  crc: '0x4cfe331b'
+- name: NLVFILE
+  size: 7410
+  date: '1991-03-15T02:00:00'
+  crc: '0x01726a6c'
+- name: READMEV.TXT
+  size: 215
+  date: '1991-03-31T08:07:42'
+  crc: '0x56e88afe'

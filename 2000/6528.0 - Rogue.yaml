@@ -1,0 +1,36 @@
+filename: Rogue v3.6.1 (2000)(Nicholas J. Kisseberth) [Role-Playing (RPG)].zip
+tdc_id: '6528.0'
+title:
+  screen: Rogue
+publisher: Nicholas J. Kisseberth
+year: '2000'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-02T10:55:02'
+  last_modified: '2019-03-02T10:55:02'
+version: 3.6.1
+type: zip
+commands:
+  play: rogue36.exe
+files:
+- name: CWSDPMI.EXE
+  size: 20217
+  date: '1996-08-18T20:46:18'
+  crc: '0x6ba5fa62'
+- name: License.txt
+  size: 1550
+  date: '2000-04-29T16:49:24'
+  crc: '0x07800937'
+- name: README.txt
+  size: 1835
+  date: '2000-04-30T15:54:40'
+  crc: '0x68b97ed3'
+- name: dod36.txt
+  size: 15015
+  date: '2000-04-30T15:54:04'
+  crc: '0x95d53ed9'
+- name: rogue36.exe
+  size: 528134
+  date: '2000-04-30T19:28:18'
+  crc: '0x83cdfa8c'

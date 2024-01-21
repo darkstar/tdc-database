@@ -1,0 +1,76 @@
+filename: Mission Pom-Bär (De)(En)(Fr)(Cs)(Pl)(Nl)(Sl)(Sk)(Hu) (1997)(Wolf Snack & Gebäck GmbH) [Action].zip
+tdc_id: '4003.0'
+title:
+  screen: Mission Pom-Bär
+publisher: Wolf Snack & Gebäck GmbH
+year: '1997'
+genre: Action
+language:
+- English
+- French
+- German
+- Polish
+- Czech
+- Dutch
+- Hungarian
+- Slovenian
+- Slovakian
+date:
+  added: '2019-03-02T10:35:46'
+  last_modified: '2022-10-29T15:31:13'
+type: zip
+commands:
+  play: POMBAER.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/mission-pom-br-the-snackn-run-game
+  dosid: DOS15636
+  exodos: Mission Pom-Baer (1997).zip
+files:
+- name: DAX1\
+  size: 0
+  date: '2010-09-01T18:54:44'
+- name: DAX1\COMMON\
+  size: 0
+  date: '2010-09-01T18:54:44'
+- name: DAX1\COMMON\INSTRUCT.PIC
+  size: 118332
+  date: '1997-08-11T23:44:22'
+  crc: '0x870c91bc'
+- name: DAX1\COMMON\MISSION.PIC
+  size: 119718
+  date: '1997-09-25T21:56:24'
+  crc: '0xcf079104'
+- name: DAX1\LEVEL\
+  size: 0
+  date: '2010-09-01T18:54:44'
+- name: DAX1\LEVEL\MAGIER2\
+  size: 0
+  date: '2010-09-01T18:54:44'
+- name: DAX1\LEVEL\MAGIER2\PLATFORM.DEF
+  size: 52
+  date: '1997-08-06T20:18:12'
+  crc: '0xc43f7b46'
+- name: DOS4GW.EXE
+  size: 265396
+  date: '1996-05-11T11:00:00'
+  crc: '0x5cc34b0f'
+- name: POMBAER.CFG
+  size: 7
+  date: '2010-07-29T21:53:14'
+  crc: '0xee8c6bbe'
+- name: POMBAER.EXE
+  size: 268865
+  date: '1997-08-11T20:46:52'
+  crc: '0x98baf898'
+- name: POMBAER.HIS
+  size: 156
+  date: '2010-05-02T22:37:12'
+  crc: '0xcee24a53'
+- name: POMBAER1.RCH
+  size: 36724
+  date: '1997-08-25T16:30:40'
+  crc: '0x756deec5'
+- name: POMBAER1.RES
+  size: 4869158
+  date: '1997-08-25T16:29:42'
+  crc: '0x81806b9a'

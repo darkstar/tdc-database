@@ -1,0 +1,50 @@
+filename: Desperabis - Erweiterte Version (De) (2000)(Florian Born) [Action, Adventure].zip
+tdc_id: '4547.0'
+title:
+  screen: Desperabis - Erweiterte Version
+publisher: Florian Born
+year: '2000'
+genre:
+- Action
+- Adventure
+language: German
+date:
+  added: '2019-03-02T10:54:40'
+  last_modified: '2019-03-02T10:54:40'
+type: zip
+references:
+  dosid: DOS15338
+  exodos: Desperabis (2000).zip
+files:
+- name: CONFIG.000
+  size: 47
+  date: '2000-12-17T15:40:02'
+  crc: '0x1f19cb36'
+- name: DESPERAB.EXE
+  size: 203760
+  date: '2000-12-17T15:38:00'
+  crc: '0xa71c56e9'
+- name: GAME.DAT
+  size: 3174569
+  date: '2000-12-17T15:33:10'
+  crc: '0x50c5c120'
+- name: LiesMich.txt
+  size: 3687
+  date: '2000-12-17T15:46:10'
+  crc: '0xffd75cd7'
+- name: MUSIC.DAT
+  size: 2595808
+  date: '2000-04-16T00:39:32'
+  crc: '0x9a212c66'
+- name: SB_INST.EXE
+  size: 9648
+  date: '2000-12-17T15:38:00'
+  crc: '0x722feb0d'
+- name: SOUNDS.DAT
+  size: 1722677
+  date: '2000-12-17T15:33:16'
+  crc: '0xcab1ee57'
+- name: Tasten.txt
+  size: 1518
+  date: '2000-05-10T22:54:26'
+  crc: '0x8175981e'

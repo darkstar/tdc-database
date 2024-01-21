@@ -1,0 +1,38 @@
+filename: Adventure (1987)(Willie Crowther, Kevin B. Black) [Adventure, Interactive Fiction].zip
+tdc_id: '1336.0'
+title:
+  screen: Adventure
+publisher: Willie Crowther, Kevin B. Black
+year: '1987'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:25:06'
+  last_modified: '2019-03-01T18:25:06'
+type: zip
+references:
+  dosid: DOS00015
+  exodos: Adventure (1987).zip
+files:
+- name: adv.bat
+  size: 20
+  date: '1987-12-08T19:18:38'
+  crc: '0xcda4d7bd'
+- name: adventur.ctl
+  size: 22096
+  date: '1988-04-08T23:00:58'
+  crc: '0xa9bf1618'
+- name: adventur.exe
+  size: 64512
+  date: '1988-04-09T17:00:06'
+  crc: '0x5401d31a'
+- name: adventur.mtx
+  size: 66196
+  date: '1988-04-08T23:01:58'
+  crc: '0x0ca6f62e'
+- name: read.me
+  size: 3297
+  date: '1987-12-07T14:42:38'
+  crc: '0x1e019808'

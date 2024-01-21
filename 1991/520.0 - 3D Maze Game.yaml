@@ -1,0 +1,49 @@
+filename: 3D Maze Game (1991)(Charles W. Haden) [Action, Strategy].zip
+tdc_id: '520.0'
+title:
+  screen: 3D Maze Game
+publisher: Charles W. Haden
+year: '1991'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:34:40'
+  last_modified: '2019-03-01T18:34:40'
+type: zip
+commands:
+  play: MAZE.EXE
+files:
+- name: EGAVGA.BGI
+  size: 5554
+  date: '1990-05-04T01:00:00'
+  crc: '0x116c5498'
+- name: MAKEFILE
+  size: 56
+  date: '1991-07-28T10:10:52'
+  crc: '0x4b038318'
+- name: MAZE.CPP
+  size: 19021
+  date: '1991-07-28T12:49:42'
+  crc: '0xc3996b7b'
+- name: MAZE.EXE
+  size: 35952
+  date: '1991-07-28T12:50:42'
+  crc: '0x57f1f0bf'
+- name: MAZE.OBJ
+  size: 8490
+  date: '1991-07-28T12:50:40'
+  crc: '0x2f877573'
+- name: MAZE1.DAT
+  size: 1387
+  date: '1991-07-28T12:50:36'
+  crc: '0x251942fd'
+- name: MAZE2.DAT
+  size: 2403
+  date: '1991-07-28T12:50:34'
+  crc: '0x91086252'
+- name: README.DOC
+  size: 1731
+  date: '1991-07-28T12:36:36'
+  crc: '0xeecaa1ff'

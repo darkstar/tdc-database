@@ -1,0 +1,42 @@
+filename: Wheel of Fortune v600072D (1987)(ShareData, Inc.) [Strategy].zip
+tdc_id: '5401.1'
+title:
+  box: Wheel of Fortune
+publisher: ShareData, Inc.
+year: '1987'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:25:50'
+  last_modified: '2022-12-17T09:36:12'
+version: 600072D
+type: zip
+commands:
+  play: MENU.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/wheel-of-fortune
+files:
+- name: ANSWERS.DAT
+  size: 52616
+  date: '1987-05-05T10:38:28'
+  crc: '0x80b6c548'
+- name: CHAMPS.DAT
+  size: 2688
+  date: '1987-05-02T16:25:44'
+  crc: '0xb3974116'
+- name: CLIST.DAT
+  size: 162
+  date: '1987-05-02T07:53:16'
+  crc: '0x5b772d06'
+- name: GIRL.DAT
+  size: 14112
+  date: '1987-07-28T12:05:04'
+  crc: '0x1dea3ced'
+- name: MENU.EXE
+  size: 61792
+  date: '1987-07-28T12:04:44'
+  crc: '0x708ca215'
+- name: WHEELS.DAT
+  size: 187200
+  date: '1987-07-28T12:05:32'
+  crc: '0x03f6faf8'

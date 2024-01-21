@@ -1,0 +1,126 @@
+filename: Ultima I r871229 (1987)(ORIGIN Systems, Inc.) [Adventure, Role-Playing (RPG)][!].zip
+tdc_id: '5382.2'
+title:
+  box: Ultima I
+publisher: ORIGIN Systems, Inc.
+year: '1987'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2022-11-02T14:26:52'
+  last_modified: '2022-11-02T15:26:08'
+release: '871229'
+type: zip
+tags:
+- KnownGood
+commands:
+  play: ULTIMA.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/ultima-i
+files:
+- name: CASTLE.16
+  size: 32000
+  date: '1987-08-18T14:57:32'
+  crc: '0xb6a8d7d7'
+- name: CASTLE.4
+  size: 16384
+  date: '1987-08-19T14:12:06'
+  crc: '0x07de99eb'
+- name: CGAFIGHT.BIN
+  size: 3192
+  date: '1987-06-13T14:04:30'
+  crc: '0x7fd21c48'
+- name: CGAMOND.BIN
+  size: 1216
+  date: '1987-07-07T01:58:42'
+  crc: '0x1513afe7'
+- name: CGASPACE.BIN
+  size: 7296
+  date: '1987-07-09T17:10:26'
+  crc: '0x48844666'
+- name: CGATILES.BIN
+  size: 3328
+  date: '1987-08-27T10:56:18'
+  crc: '0xceec8d71'
+- name: CGATOWN.BIN
+  size: 816
+  date: '1987-04-27T09:29:18'
+  crc: '0x3f42599b'
+- name: EGAFIGHT.BIN
+  size: 3192
+  date: '1987-06-13T14:04:34'
+  crc: '0x72a6f1a7'
+- name: EGAMOND.BIN
+  size: 2432
+  date: '1987-07-07T01:58:46'
+  crc: '0xdfc3bfef'
+- name: EGASPACE.BIN
+  size: 7296
+  date: '1987-07-09T17:10:34'
+  crc: '0x0c795424'
+- name: EGATILES.BIN
+  size: 6656
+  date: '1987-08-26T17:06:44'
+  crc: '0x3b46f55f'
+- name: EGATOWN.BIN
+  size: 1632
+  date: '1987-04-25T14:40:52'
+  crc: '0x5a24331a'
+- name: GEN.EXE
+  size: 20112
+  date: '1987-12-29T14:36:58'
+  crc: '0x5d3abb48'
+- name: MAP.BIN
+  size: 13104
+  date: '1987-02-23T18:14:20'
+  crc: '0xfeb8846f'
+- name: MONDAIN.EXE
+  size: 31650
+  date: '1987-12-29T14:45:02'
+  crc: '0xa8b75875'
+- name: NIF.BIN
+  size: 6720
+  date: '1987-07-21T10:06:14'
+  crc: '0xb4947d5a'
+- name: OUT.EXE
+  size: 69858
+  date: '1987-12-29T14:42:38'
+  crc: '0x19a29e2a'
+- name: SPACE.EXE
+  size: 39824
+  date: '1987-12-31T21:13:18'
+  crc: '0xa95a059e'
+- name: T1KFIGHT.BIN
+  size: 3192
+  date: '1987-06-13T14:04:36'
+  crc: '0x7c1fc7cd'
+- name: T1KMOND.BIN
+  size: 2432
+  date: '1987-07-07T01:58:50'
+  crc: '0x2d66239c'
+- name: T1KSPACE.BIN
+  size: 7296
+  date: '1987-07-09T17:10:42'
+  crc: '0xfb381e83'
+- name: T1KTILES.BIN
+  size: 6656
+  date: '1987-08-26T17:06:54'
+  crc: '0x01a24cb9'
+- name: T1KTOWN.BIN
+  size: 1632
+  date: '1987-07-03T16:03:20'
+  crc: '0xd8d5b49a'
+- name: TCD.BIN
+  size: 6840
+  date: '1987-04-26T13:23:26'
+  crc: '0x7a8ec6c5'
+- name: ULTIMA.EXE
+  size: 36880
+  date: '1987-12-29T14:36:22'
+  crc: '0x1aa1ebf6'
+- name: ULTIMA.EX_
+  size: 36880
+  date: '1987-12-29T14:36:22'
+  crc: '0x0f55f366'

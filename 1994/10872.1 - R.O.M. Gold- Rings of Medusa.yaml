@@ -1,0 +1,41 @@
+filename: R.O.M. Gold- Rings of Medusa v1.00 (Installer) (De) (1994)(Starbyte Software) [Action, Simulation, Strategy].zip
+tdc_id: '10872.1'
+title:
+  box: 'R.O.M. Gold: Rings of Medusa'
+  qualifier: Installer
+publisher: Starbyte Software
+year: '1994'
+genre:
+- Action
+- Simulation
+- Strategy
+language: German
+date:
+  added: '2021-04-19T15:38:50'
+  last_modified: '2023-09-03T09:22:33'
+version: '1.00'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: GOLD1.PAK
+  size: 1457093
+  date: '1994-06-18T15:26:24'
+  crc: '0xb2b00da5'
+- name: GOLD2.PAK
+  size: 1457121
+  date: '1994-06-18T15:26:32'
+  crc: '0x571ae72f'
+- name: GOLD3.PAK
+  size: 1196685
+  date: '1994-06-18T15:26:38'
+  crc: '0xfd8e139f'
+- name: INSTALL.CFG
+  size: 642
+  date: '1994-06-17T12:59:40'
+  crc: '0x8f2a9bfc'
+- name: INSTALL.EXE
+  size: 24836
+  date: '1991-10-10T12:41:28'
+  crc: '0xab4772c2'

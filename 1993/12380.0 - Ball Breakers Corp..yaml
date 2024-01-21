@@ -1,0 +1,42 @@
+filename: Ball Breakers Corp. (Es) (1993)(Kronos) [Action].zip
+tdc_id: '12380.0'
+title:
+  screen: Ball Breakers Corp.
+publisher: Kronos
+year: '1993'
+genre: Action
+language: Spanish
+date:
+  added: '2019-03-01T19:01:18'
+  last_modified: '2019-03-01T19:01:18'
+type: zip
+commands:
+  play: CRB.EXE
+references:
+  dosid: DOS00317
+  exodos: Ball Breakers Corp. (1993).zip
+files:
+- name: AYUDA.CRB
+  size: 5435
+  date: '1993-03-12T20:39:18'
+  crc: '0xed63e108'
+- name: CRB.CFG
+  size: 18
+  date: '1996-02-24T23:15:08'
+  crc: '0x8f4a8c4a'
+- name: CRB.EXE
+  size: 77793
+  date: '1993-03-04T17:05:10'
+  crc: '0xf2b0c1d8'
+- name: CRB.GRF
+  size: 460237
+  date: '1992-12-03T20:00:10'
+  crc: '0x4538a3fb'
+- name: CRB.PLT
+  size: 1016
+  date: '1992-12-03T20:00:10'
+  crc: '0x41b1d34a'
+- name: CRB.RCD
+  size: 90
+  date: '1993-05-08T13:22:22'
+  crc: '0x8e865a8a'

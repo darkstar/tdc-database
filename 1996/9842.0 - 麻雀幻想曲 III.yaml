@@ -1,0 +1,82 @@
+filename: 麻雀幻想曲 III (Installer) (Zh) (1996)(Active Software) [Strategy, Adult].zip
+tdc_id: '9842.0'
+title:
+  box: 麻雀幻想曲 III
+  translation: Mahjong Fantasia the 3rd Stage
+  qualifier: Installer
+publisher: Active Software
+year: '1996'
+genre:
+- Strategy
+- Adult
+language: Chinese
+date:
+  added: '2021-12-30T13:31:02'
+  last_modified: '2023-06-25T16:50:46'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/46073/mahjong-fantasia-the-3rd-stage/
+files:
+- name: ASCII16.FON
+  size: 3840
+  date: '1992-09-01T00:00:00'
+  crc: '0x25ca2edf'
+- name: DISK.A
+  size: 2
+  date: '1996-01-23T19:57:46'
+  crc: '0x14a285ac'
+- name: DISK.B
+  size: 2
+  date: '1996-01-23T19:58:52'
+  crc: '0x14a285ac'
+- name: DISK.C
+  size: 2
+  date: '1996-01-23T19:59:20'
+  crc: '0x14a285ac'
+- name: DISK.D
+  size: 2
+  date: '1996-01-23T19:59:50'
+  crc: '0x14a285ac'
+- name: EDO0.TRJ
+  size: 1454649
+  date: '1996-01-19T22:02:10'
+  crc: '0xe62a8ac7'
+- name: EDO1.TRJ
+  size: 1455156
+  date: '1996-01-19T22:39:58'
+  crc: '0x885fe9b4'
+- name: EDO2.TRJ
+  size: 1170613
+  date: '1996-01-19T22:45:38'
+  crc: '0xcfcc301f'
+- name: EFC.TRJ
+  size: 84582
+  date: '1996-01-19T21:33:48'
+  crc: '0xde750470'
+- name: HGO.TRJ
+  size: 144798
+  date: '1996-01-24T02:52:58'
+  crc: '0xe9bc4527'
+- name: INSTALL.BIN
+  size: 3213
+  date: '1995-01-16T14:49:48'
+  crc: '0x7301ae0f'
+- name: INSTALL.CMD
+  size: 1245
+  date: '1996-01-23T20:03:04'
+  crc: '0xb63ec87b'
+- name: INSTALL.EXE
+  size: 54536
+  date: '1996-01-23T19:57:22'
+  crc: '0xf26b9637'
+- name: INSTALL.R16
+  size: 83663
+  date: '1996-01-19T12:41:24'
+  crc: '0x5234994a'
+- name: SYSTEM.TRJ
+  size: 792412
+  date: '1996-01-23T19:55:06'
+  crc: '0x65bbb697'

@@ -1,0 +1,37 @@
+filename: Brojke i Slova v3.0 (Demo) (Sr) (1990)(Milovan Kovacevic) [Educational].zip
+tdc_id: '1889.0'
+title:
+  screen: Brojke i Slova
+publisher: Milovan Kovacevic
+year: '1990'
+genre: Educational
+language: Serbian
+date:
+  added: '2020-07-18T06:10:50'
+  last_modified: '2020-07-18T06:10:50'
+version: '3.0'
+type: zip
+demo: true
+commands:
+  play: BISDEMO.EXE
+files:
+- name: BIS.DOC
+  size: 3884
+  date: '1990-03-07T07:47:46'
+  crc: '0x279b17bd'
+- name: BISDEMO.EXE
+  size: 87168
+  date: '1990-03-06T17:21:12'
+  crc: '0x2ed32b78'
+- name: BISRECI.DAT
+  size: 30020
+  date: '1980-01-01T00:06:54'
+  crc: '0xd3601947'
+- name: BISRECI.NDX
+  size: 54250
+  date: '1980-01-01T00:06:54'
+  crc: '0x182a73e1'
+- name: HERC.BGI
+  size: 6125
+  date: '1988-10-10T05:00:00'
+  crc: '0xc1f40043'

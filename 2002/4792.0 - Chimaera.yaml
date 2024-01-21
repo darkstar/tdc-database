@@ -1,0 +1,29 @@
+filename: Chimaera vC1.001 (2002)(Chris Newall) [Adventure, Interactive Fiction].zip
+tdc_id: '4792.0'
+title:
+  screen: Chimaera
+publisher: Chris Newall
+year: '2002'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T10:55:54'
+  last_modified: '2019-03-02T10:55:54'
+type: zip
+commands:
+  play: chimaera.exe
+files:
+- name: CWSDPMI.DOC
+  size: 7073
+  date: '2015-01-10T21:31:48'
+  crc: '0xdfc52298'
+- name: CWSDPMI.EXE
+  size: 25916
+  date: '2015-01-10T21:31:38'
+  crc: '0x8760f94d'
+- name: chimaera.exe
+  size: 202144
+  date: '2003-03-19T15:19:56'
+  crc: '0xac50063c'

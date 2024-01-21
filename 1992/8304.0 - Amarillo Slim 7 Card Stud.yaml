@@ -1,0 +1,38 @@
+filename: Amarillo Slim 7 Card Stud (1992)(Villa Crespo Software) [Simulation].zip
+tdc_id: '8304.0'
+title:
+  box: Amarillo Slim 7 Card Stud
+publisher: Villa Crespo Software
+year: '1992'
+genre: Simulation
+language: English
+date:
+  added: '2021-10-21T13:20:44'
+  last_modified: '2021-10-21T13:20:44'
+type: zip
+commands:
+  play: 7STUD.EXE
+references:
+  dosid: DOS07542
+  exodos: Amarillo Slim's 7 Card Stud (1992).zip
+files:
+- name: 7STUD.DAT
+  size: 90
+  date: '1992-05-01T07:11:00'
+  crc: '0x20c5b238'
+- name: 7STUD.EXE
+  size: 116166
+  date: '1992-05-01T07:11:00'
+  crc: '0x33905c3e'
+- name: POKER.DOC
+  size: 52541
+  date: '1992-05-01T07:11:00'
+  crc: '0xff18f30a'
+- name: POKERDOC.IDX
+  size: 1922
+  date: '1992-05-01T07:11:00'
+  crc: '0xfc2d47ee'
+- name: POKSOUND.DB
+  size: 54107
+  date: '1992-05-01T07:11:00'
+  crc: '0x71cee59e'

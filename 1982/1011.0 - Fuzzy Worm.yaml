@@ -1,0 +1,50 @@
+filename: Fuzzy Worm [f1] (1982)(Boise Computer) [Action].zip
+tdc_id: '1011.0'
+title:
+  screen: Fuzzy Worm
+publisher: Boise Computer
+year: '1982'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:23:00'
+  last_modified: '2019-03-01T18:23:00'
+type: zip
+tags:
+- Fixed: 1
+references:
+  dosid: DOS06852
+  exodos: Fuzzy Worm (1982).zip
+files:
+- name: AUTOEXEC.BAT
+  size: 7
+  date: '1983-03-24T12:06:22'
+  crc: '0xa1e82e16'
+- name: CHAR1.DAT
+  size: 2432
+  date: '1980-01-01T00:27:12'
+  crc: '0xbbc4b408'
+- name: CHAR2.DAT
+  size: 2560
+  date: '1980-01-01T00:28:10'
+  crc: '0x19d4d4d3'
+- name: TOPSCORE.DAT
+  size: 128
+  date: '1980-01-01T00:00:00'
+  crc: '0x0d524654'
+- name: WORM.EXE
+  size: 45824
+  date: '1983-02-08T12:51:34'
+  crc: '0xf4806f3c'
+- name: WORM.EX_
+  size: 45824
+  date: '1983-02-08T12:51:34'
+  crc: '0x2549e872'
+- name: WORMTEXT.EXE
+  size: 40832
+  date: '1983-02-01T13:16:26'
+  crc: '0x4652d7ba'
+- name: WORMTEXT.EX_
+  size: 40832
+  date: '1983-02-01T13:16:26'
+  crc: '0xf6df256e'

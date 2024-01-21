@@ -1,0 +1,50 @@
+filename: Action SuperCross v1.1 (Installer) [SW] (1997)(Balazs Rozsa) [Action, Sports].zip
+tdc_id: '8056.2'
+title:
+  screen: Action SuperCross
+publisher: Balazs Rozsa
+year: '1997'
+genre:
+- Action
+- Sports
+language: English
+date:
+  added: '2019-01-17T11:58:00'
+  last_modified: '2019-01-17T11:58:00'
+version: '1.1'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DATA1.DAT
+  size: 927919
+  date: '1997-03-24T01:00:00'
+  crc: '0x69ece6ba'
+- name: DATA2.DAT
+  size: 349069
+  date: '1997-03-24T01:00:00'
+  crc: '0x62ace0e8'
+- name: FILE_ID.DIZ
+  size: 240
+  date: '1997-03-24T01:00:00'
+  crc: '0x1bde5ae7'
+- name: INSTALL.EXE
+  size: 40880
+  date: '1997-03-24T01:00:00'
+  crc: '0x0ae75eb7'
+- name: INSTALL.TXT
+  size: 282
+  date: '1997-03-24T01:00:00'
+  crc: '0x8a83ccab'
+- name: VENDINFO.DIZ
+  size: 7540
+  date: '1997-03-24T01:10:00'
+  crc: '0x4cfdb4bc'
+- name: VENDOR.DOC
+  size: 346
+  date: '1997-03-24T01:00:00'
+  crc: '0x1b73fc21'

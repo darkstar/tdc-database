@@ -1,0 +1,35 @@
+filename: Cribbage (demo) (1988)(Ology Ltd.) [Cards, Strategy].zip
+tdc_id: '1493.0'
+title:
+  screen: Cribbage
+  qualifier: demo
+publisher: Ology Ltd.
+year: '1988'
+genre:
+- Cards
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:26:04'
+  last_modified: '2019-03-01T18:26:04'
+type: zip
+demo: true
+commands:
+  play: CRIBDEMO.EXE
+files:
+- name: CRIBBAGE.DOC
+  size: 4691
+  date: '1989-01-07T12:54:28'
+  crc: '0xe12fb116'
+- name: CRIBDEMO.EXE
+  size: 74351
+  date: '1988-12-29T16:02:44'
+  crc: '0xaf1f009f'
+- name: CRIBINI.COL
+  size: 723
+  date: '1988-12-27T17:36:14'
+  crc: '0x836d5b8a'
+- name: CRIBINI.MNO
+  size: 723
+  date: '1988-12-27T18:40:08'
+  crc: '0xd074e80c'

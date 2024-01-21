@@ -1,0 +1,53 @@
+filename: Major Inferno II v1.10 (1998)(Jeremy Hammond) [Action].zip
+tdc_id: '9867.0'
+title:
+  screen: Major Inferno II
+publisher: Jeremy Hammond
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:42:20'
+  last_modified: '2019-03-02T10:42:20'
+version: '1.10'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 25
+  date: '2018-12-15T21:28:24'
+  crc: '0xde2704e3'
+- name: INFERNO.DAT
+  size: 147
+  date: '1998-01-22T16:07:36'
+  crc: '0x4259559e'
+- name: INFERNO.GFX
+  size: 64007
+  date: '1998-01-21T22:58:08'
+  crc: '0x857d3aa6'
+- name: INFERNO.PAL
+  size: 1543
+  date: '1995-11-18T22:22:30'
+  crc: '0x8bf03751'
+- name: INFERNO.SFX
+  size: 1742
+  date: '1998-01-21T05:06:42'
+  crc: '0x7dba9281'
+- name: ITITLE.GFX
+  size: 64775
+  date: '1998-01-21T20:24:50'
+  crc: '0xa2d08189'
+- name: IWRITE.BAS
+  size: 601
+  date: '1998-01-22T16:08:24'
+  crc: '0x7c76650b'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: SHIP2.BAS
+  size: 48156
+  date: '1998-01-22T16:11:24'
+  crc: '0xd98d448c'

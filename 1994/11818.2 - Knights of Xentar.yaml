@@ -1,0 +1,71 @@
+filename: Knights of Xentar (Installer) (1994)(MegaTech Software) [Role-Playing (RPG), Adult].zip
+tdc_id: '11818.2'
+title:
+  box: Knights of Xentar
+publisher: MegaTech Software
+year: '1994'
+genre:
+- Role-Playing (RPG)
+- Adult
+language: English
+date:
+  added: '2019-03-17T15:29:34'
+  last_modified: '2019-03-17T15:29:34'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.CFG
+  size: 50
+  date: '1995-04-25T01:00:00'
+  crc: '0x9d6a9f4a'
+- name: INSTALL.EXE
+  size: 26600
+  date: '1995-04-18T02:02:00'
+  crc: '0x3fa4cfaa'
+- name: INSTALL.GPH
+  size: 4700
+  date: '1995-04-25T01:00:00'
+  crc: '0x9c9d76e7'
+- name: INSTALLE.TXC
+  size: 5292
+  date: '1995-04-25T01:00:00'
+  crc: '0xea3ec771'
+- name: KXFD DISK-2
+  size: 0
+  date: '1995-04-28T15:23:44'
+- name: KXFD DISK-3
+  size: 0
+  date: '1995-04-28T15:24:06'
+- name: KXFD DISK-4
+  size: 0
+  date: '1995-04-28T15:24:26'
+- name: KXGAME.001
+  size: 1357312
+  date: '1995-04-25T01:00:00'
+  crc: '0x00e3d4fe'
+- name: KXGAME.002
+  size: 1396224
+  date: '1995-04-25T01:00:00'
+  crc: '0x72de3161'
+- name: KXGAME.003
+  size: 1396224
+  date: '1995-04-25T01:00:00'
+  crc: '0xe79a57cf'
+- name: KXGAME.004
+  size: 1396224
+  date: '1995-04-25T01:00:00'
+  crc: '0xf70d1956'
+- name: KXGAME.005
+  size: 1396224
+  date: '1995-04-25T01:00:00'
+  crc: '0x63cc9c69'
+- name: KXGAME.006
+  size: 1396224
+  date: '1995-04-25T01:00:00'
+  crc: '0xeda1df7a'
+- name: KXGAME.007
+  size: 1393455
+  date: '1995-04-25T01:00:00'
+  crc: '0xa55aea40'

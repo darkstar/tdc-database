@@ -1,0 +1,36 @@
+filename: Off to Europe v4.3 (En)(De)(Fr)(Da)(Pt) (1992)(Glamus) [Educational].zip
+tdc_id: '14575.1'
+title:
+  screen: Off to Europe
+publisher: Glamus
+year: '1992'
+genre: Educational
+language:
+- English
+- French
+- German
+- Danish
+- Portuguese
+date:
+  added: '2019-03-01T18:49:42'
+  last_modified: '2019-03-01T18:49:42'
+version: '4.3'
+type: zip
+commands:
+  play: EUROPA.EXE
+references:
+  dosid: DOS15375
+  exodos: Europe (1992).zip
+files:
+- name: EURO.001
+  size: 532947
+  date: '1992-08-19T13:27:04'
+  crc: '0xd3c1d56d'
+- name: EURO.DOI
+  size: 4410
+  date: '1992-08-19T13:27:04'
+  crc: '0x796e5731'
+- name: EUROPA.EXE
+  size: 82387
+  date: '1992-08-19T13:26:50'
+  crc: '0x83c072bf'

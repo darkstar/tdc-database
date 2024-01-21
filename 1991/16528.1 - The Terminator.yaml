@@ -1,0 +1,60 @@
+filename: Terminator, The (Installer) (1991)(Bethesda Softworks LLC) [Action, Adventure].zip
+tdc_id: '16528.1'
+title:
+  box: The Terminator
+publisher: Bethesda Softworks LLC
+year: '1991'
+genre:
+- Action
+- Adventure
+language: English
+date:
+  added: '2019-03-01T18:39:44'
+  last_modified: '2019-03-01T18:39:44'
+type: zip
+installer: true
+files:
+- name: BOOTEXEC.CPY
+  size: 119
+  date: '1994-01-04T18:04:50'
+  crc: '0xccef16de'
+- name: CONFIG.CPY
+  size: 98
+  date: '1994-01-04T18:04:58'
+  crc: '0x68a94867'
+- name: DUMMY
+  size: 5000
+  date: '1993-11-21T14:53:42'
+  crc: '0xd8e50ea8'
+- name: HELP.TXT
+  size: 5716
+  date: '1994-01-05T13:23:42'
+  crc: '0xc7601910'
+- name: INSTALL.EXE
+  size: 25400
+  date: '1994-01-04T19:37:48'
+  crc: '0x9a153459'
+- name: TERMCRK.COM
+  size: 2194
+  date: '1999-03-28T21:44:46'
+  crc: '0x72fada8a'
+- name: TERMNATR.1
+  size: 1403025
+  date: '1994-01-04T18:09:58'
+  crc: '0x2f7f3dde'
+- name: TERMNATR.2
+  size: 997808
+  date: '1994-01-04T18:12:54'
+  crc: '0xe319a96a'
+- name: TERMNATR.H1
+  size: 13344
+  date: '1994-01-04T18:13:08'
+  crc: '0x9997971a'
+- name: TERMNATR.H2
+  size: 2784
+  date: '1994-01-04T18:12:54'
+  crc: '0xafe4ffaa'
+- name: TERMNATR.TDS
+  size: 4
+  date: '1994-01-04T18:13:08'
+  crc: '0xe3a333d0'

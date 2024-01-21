@@ -1,0 +1,42 @@
+filename: Zombíci v1.6 (Cs) (1996)(Eriador Games) [Action, Strategy].zip
+tdc_id: '15748.0'
+title:
+  screen: Zombíci
+publisher: Eriador Games
+year: '1996'
+genre:
+- Action
+- Strategy
+language: Czech
+date:
+  added: '2019-03-02T10:23:40'
+  last_modified: '2019-03-02T10:23:40'
+version: '1.6'
+type: zip
+commands:
+  play: ZOMBI1_6.EXE
+files:
+- name: DIRA.ZOM
+  size: 234
+  date: '1993-12-17T10:10:16'
+  crc: '0xa8ef2675'
+- name: PALETA.PIM
+  size: 52
+  date: '1993-12-12T18:16:40'
+  crc: '0xb749cc8d'
+- name: PLPA.ZOM
+  size: 234
+  date: '1993-12-12T20:03:28'
+  crc: '0x3cfd9669'
+- name: POLE.ZOM
+  size: 234
+  date: '1994-03-29T18:37:24'
+  crc: '0x65684c70'
+- name: ZOMB.ZOM
+  size: 234
+  date: '1993-12-16T13:36:04'
+  crc: '0x6d886f7c'
+- name: ZOMBI1_6.EXE
+  size: 100592
+  date: '1996-01-14T13:34:44'
+  crc: '0xd44cf116'

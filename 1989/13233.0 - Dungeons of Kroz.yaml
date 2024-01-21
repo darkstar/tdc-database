@@ -1,0 +1,28 @@
+filename: Dungeons of Kroz (1989)(Softdisk Publishing) [Action, Adventure].zip
+tdc_id: '13233.0'
+title:
+  box: Dungeons of Kroz
+publisher: Softdisk Publishing
+year: '1989'
+genre:
+- Action
+- Adventure
+language: English
+date:
+  added: '2019-03-01T18:27:40'
+  last_modified: '2019-03-01T18:27:40'
+type: zip
+commands:
+  play: DUNGEONS.COM
+references:
+  dosid: DOS01939
+  exodos: Dungeons of Kroz (1989).zip
+files:
+- name: DUNGEONS.000
+  size: 32768
+  date: '1988-12-15T19:09:02'
+  crc: '0x8deb1082'
+- name: DUNGEONS.COM
+  size: 47064
+  date: '1988-12-15T19:09:16'
+  crc: '0x6d9624eb'

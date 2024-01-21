@@ -1,0 +1,45 @@
+filename: C (1995)(Brat Software) [Action, Strategy].zip
+tdc_id: '3456.0'
+title:
+  screen: C
+publisher: Brat Software
+year: '1995'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-02T07:30:46'
+  last_modified: '2019-03-02T07:30:46'
+type: zip
+commands:
+  play: C.EXE
+files:
+- name: BRICK.CDA
+  size: 6453
+  date: '1995-11-24T09:35:56'
+  crc: '0x019b6a2b'
+- name: C.EXE
+  size: 30864
+  date: '1995-11-24T09:23:16'
+  crc: '0x6a437786'
+- name: PAL.CDA
+  size: 899
+  date: '1995-11-20T14:24:24'
+  crc: '0x0ddc7ac6'
+- name: READ.ME
+  size: 3197
+  date: '1995-11-24T11:51:08'
+  crc: '0xc9baa512'
+- name: SCORE.CDA
+  size: 38
+  date: '1995-11-25T10:09:02'
+  crc: '0xaf848752'
+- name: SCREEN.CDA
+  size: 23774
+  date: '1995-11-22T14:30:30'
+  crc: '0x470897f9'
+- name: WRITE.CDA
+  size: 18330
+  date: '1995-11-23T18:52:44'
+  crc: '0xff3d357b'

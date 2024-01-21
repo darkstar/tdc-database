@@ -1,0 +1,48 @@
+filename: Quest (1998)(Johnny Ingersoll) [Role-Playing (RPG)].zip
+tdc_id: '10838.0'
+title:
+  screen: Quest
+publisher: Johnny Ingersoll
+year: '1998'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-02T10:44:18'
+  last_modified: '2019-03-02T10:44:18'
+type: zip
+media: Download
+commands:
+  play: QUEST.BAT
+files:
+- name: CONST.DAT
+  size: 205
+  date: '1998-08-12T22:07:04'
+  crc: '0x0ab197cc'
+- name: HIGHSCOR.DAT
+  size: 323
+  date: '1998-09-12T23:30:32'
+  crc: '0x13ad1ec5'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1995-07-11T10:50:00'
+  crc: '0x3152911c'
+- name: QUEST-B.BAS
+  size: 66626
+  date: '1998-09-12T23:15:42'
+  crc: '0xe0b548bb'
+- name: QUEST-C.BAS
+  size: 48067
+  date: '1998-09-12T23:14:32'
+  crc: '0x3abae00b'
+- name: QUEST.BAS
+  size: 66466
+  date: '1998-09-12T23:04:00'
+  crc: '0x1fc7a5c4'
+- name: QUEST.BAT
+  size: 21
+  date: '1997-11-07T21:36:54'
+  crc: '0x535edfbf'
+- name: README.TXT
+  size: 2850
+  date: '1998-09-12T23:46:20'
+  crc: '0x89b15a32'

@@ -1,0 +1,28 @@
+filename: Solitaire (1997)(Robin Ohm) [Strategy].zip
+tdc_id: '6841.0'
+title:
+  screen: Solitaire
+publisher: Robin Ohm
+year: '1997'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:37:54'
+  last_modified: '2019-03-02T10:37:54'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 23
+  date: '2018-11-23T19:45:32'
+  crc: '0x74e22247'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: SOL.BAS
+  size: 9614
+  date: '2018-11-23T10:46:38'
+  crc: '0x4186aa15'

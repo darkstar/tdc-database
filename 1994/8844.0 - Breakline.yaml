@@ -1,0 +1,75 @@
+filename: Breakline (1994)(Kalisto) [Action].zip
+tdc_id: '8844.0'
+title:
+  box: Breakline
+publisher: Kalisto
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T21:54:58'
+  last_modified: '2019-03-01T21:54:58'
+type: zip
+commands:
+  play: BL.COM
+references:
+  dosid: DOS01174
+  exodos: Breakline (1994).zip
+files:
+- name: BL.COM
+  size: 2763
+  date: '1994-03-03T20:35:30'
+  crc: '0xbb0503e2'
+- name: BL.EXT
+  size: 104999
+  date: '1994-03-17T14:10:32'
+  crc: '0x8f3ac667'
+- name: BRKLINE\
+  size: 0
+  date: '2012-04-10T20:26:58'
+- name: DATA\
+  size: 0
+  date: '2014-11-22T14:59:40'
+- name: DATA\BOSS.BRR
+  size: 96257
+  date: '1994-02-11T19:38:14'
+  crc: '0x8275aa42'
+- name: DATA\DIVERS.BRR
+  size: 131113
+  date: '1994-03-03T17:57:28'
+  crc: '0x1a3d0cec'
+- name: DATA\LANGUAGE.BRR
+  size: 22852
+  date: '1994-03-03T20:08:12'
+  crc: '0x330ac784'
+- name: DATA\NEWPREFS.BRR
+  size: 254014
+  date: '2005-03-30T03:37:58'
+  crc: '0xb28e9c41'
+- name: DATA\QPICTS.BRR
+  size: 781036
+  date: '1994-03-03T18:14:38'
+  crc: '0x0eccffcf'
+- name: DATA\QSOUNDS.BRR
+  size: 143271
+  date: '1993-10-04T18:03:52'
+  crc: '0x8bef14de'
+- name: DATA\XLEVEL.BRR
+  size: 41573
+  date: '1994-02-03T14:50:00'
+  crc: '0xb1179873'
+- name: UNIVESA\
+  size: 0
+  date: '2014-11-22T14:59:40'
+- name: UNIVESA\COPYRIGH
+  size: 1027
+  date: '1994-01-11T06:43:34'
+  crc: '0xb46c38f8'
+- name: UNIVESA\UNIVESA.DOC
+  size: 6263
+  date: '1994-01-11T06:43:36'
+  crc: '0x707e77f6'
+- name: UNIVESA\UNIVESA.EXE
+  size: 34032
+  date: '1994-01-11T06:43:36'
+  crc: '0xcf9cd246'

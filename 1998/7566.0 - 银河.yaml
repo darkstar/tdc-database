@@ -1,0 +1,30 @@
+filename: 银河 v7.2 (1998)(Toyshop Studio) [Action].zip
+tdc_id: '7566.0'
+title:
+  screen: 银河
+  translation: Wing Manager- mad Arm III
+publisher: Toyshop Studio
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2019-01-16T11:24:24'
+  last_modified: '2023-07-01T12:07:37'
+version: '7.2'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 22
+  date: '2019-01-04T11:33:06'
+  crc: '0xe372f050'
+- name: QB.EXE
+  size: 278804
+  date: '2016-03-13T01:19:58'
+  crc: '0xb08bc0fe'
+- name: WM-7-2.BAS
+  size: 33554
+  date: '1998-11-29T16:46:54'
+  crc: '0xaf93b086'

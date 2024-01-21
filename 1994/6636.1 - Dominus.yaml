@@ -1,0 +1,87 @@
+filename: Dominus (Installer) [f1] (1994)(U.S. Gold Ltd.) [Strategy].zip
+tdc_id: '6636.1'
+parent_id: '6636.2'
+title:
+  box: Dominus
+publisher: U.S. Gold Ltd.
+year: '1994'
+genre: Strategy
+language: English
+date:
+  added: '2019-07-07T20:36:24'
+  last_modified: '2019-07-07T20:36:24'
+type: zip
+tags:
+- Fixed: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK1\
+  size: 0
+  date: '2019-07-07T20:17:36'
+- name: DISK1\DOMINUS.ZIP
+  size: 1387520
+  date: '1994-09-24T09:27:04'
+  crc: '0xae8deed7'
+- name: DISK2\
+  size: 0
+  date: '2019-07-07T19:16:28'
+- name: DISK2\DOMINUS.ZIP
+  size: 1457664
+  date: '1994-09-24T09:31:54'
+  crc: '0xecf77af8'
+- name: DISK3\
+  size: 0
+  date: '2019-07-07T19:16:38'
+- name: DISK3\DOMINUS.ZIP
+  size: 1457664
+  date: '1994-09-24T09:35:44'
+  crc: '0x85af1c89'
+- name: DISK4\
+  size: 0
+  date: '2019-07-07T19:16:48'
+- name: DISK4\DOMINUS.ZIP
+  size: 1457664
+  date: '1994-09-24T09:39:42'
+  crc: '0x1c3121d9'
+- name: DISK5\
+  size: 0
+  date: '2019-07-07T19:16:56'
+- name: DISK5\DOMINUS.ZIP
+  size: 1457664
+  date: '1994-09-24T09:45:38'
+  crc: '0x8d811ecd'
+- name: DISK6\
+  size: 0
+  date: '2019-07-07T19:17:04'
+- name: DISK6\DOMINUS.ZIP
+  size: 1457664
+  date: '1994-09-24T09:51:10'
+  crc: '0x4920268d'
+- name: DISK7\
+  size: 0
+  date: '2019-07-07T20:15:06'
+- name: DISK7\DOMINUS.ZIP
+  size: 1457664
+  date: '1994-09-24T09:55:16'
+  crc: '0x52163e31'
+- name: DISK8\
+  size: 0
+  date: '2019-07-07T19:17:18'
+- name: DISK8\DOMINUS.ZIP
+  size: 409282
+  date: '1994-09-24T09:57:10'
+  crc: '0xc09b9f18'
+- name: DOMINUS.ZIP
+  size: 10532184
+  date: '1994-09-24T10:00:00'
+  crc: '0x6eb77e2e'
+- name: INSTALL.EXE
+  size: 40032
+  date: '1994-09-14T23:09:18'
+  crc: '0x686b316d'
+- name: PKUNZIP.EXE
+  size: 28959
+  date: '1993-02-01T02:04:16'
+  crc: '0xeeaac5ea'

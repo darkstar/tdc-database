@@ -1,0 +1,49 @@
+filename: Pushem (1997)(Danny Albocher) [Strategy, Puzzle].zip
+tdc_id: '4040.0'
+title:
+  screen: Pushem
+publisher: Danny Albocher
+year: '1997'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-03-02T10:36:58'
+  last_modified: '2019-03-02T10:36:58'
+type: zip
+commands:
+  play: PUSHEM.EXE
+files:
+- name: EMPTY.BRD
+  size: 2060
+  date: '1997-07-11T00:36:08'
+  crc: '0x9c8d313c'
+- name: LEVEL1.BRD
+  size: 2059
+  date: '1997-07-13T23:19:40'
+  crc: '0xb4a868ca'
+- name: LEVEL2.BRD
+  size: 2059
+  date: '1997-07-13T23:21:10'
+  crc: '0x169af7df'
+- name: LEVEL3.BRD
+  size: 2059
+  date: '1997-07-13T23:22:40'
+  crc: '0xfdf77d8d'
+- name: LEVEL4.BRD
+  size: 2060
+  date: '1997-07-13T23:24:00'
+  crc: '0x27b3bd83'
+- name: LEVEL5.BRD
+  size: 2060
+  date: '1997-07-13T16:05:06'
+  crc: '0xb8fa58fe'
+- name: PUSHEM.BAS
+  size: 12155
+  date: '1997-07-24T13:34:40'
+  crc: '0x2f850d7f'
+- name: PUSHEM.EXE
+  size: 66372
+  date: '2005-10-28T23:37:32'
+  crc: '0xb5853646'

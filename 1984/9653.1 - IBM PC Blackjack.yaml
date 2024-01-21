@@ -1,0 +1,27 @@
+filename: IBM PC Blackjack (1984)(Patrick Leabo) [Strategy, Cards][!].zip
+tdc_id: '9653.1'
+title:
+  screen: IBM PC Blackjack
+publisher: Patrick Leabo
+year: '1984'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2021-09-04T10:31:52'
+  last_modified: '2023-02-02T08:58:13'
+type: zip
+tags:
+- KnownGood
+commands:
+  play: BLACKJAC.EXE
+references:
+  mobygames: https://www.mobygames.com/game/blackjack_____
+  dosid: DOS01070
+  exodos: Blackjack (IBM)(1984).zip
+files:
+- name: BLACKJAC.EXE
+  size: 36352
+  date: '1984-09-22T18:37:00'
+  crc: '0x097d4580'

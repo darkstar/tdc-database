@@ -1,0 +1,36 @@
+filename: Frankenstein (Installer) (1994)(Merit Studios (Europe) Ltd.) [Action].zip
+tdc_id: '13782.2'
+title:
+  box: Frankenstein
+publisher: Merit Studios (Europe) Ltd.
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T21:56:46'
+  last_modified: '2019-03-01T21:56:46'
+type: zip
+installer: true
+commands:
+  play: install.exe
+files:
+- name: install.exe
+  size: 40946
+  date: '1999-12-31T18:00:00'
+  crc: '0x119c1f1d'
+- name: save.dat
+  size: 1376256
+  date: '1999-12-31T18:00:00'
+  crc: '0xd82bf5e4'
+- name: save2.dat
+  size: 1376256
+  date: '1999-12-31T18:00:00'
+  crc: '0xc643d438'
+- name: save3.dat
+  size: 1376256
+  date: '1999-12-31T18:00:00'
+  crc: '0x3fed1557'
+- name: save4.dat
+  size: 1211943
+  date: '1999-12-31T18:00:00'
+  crc: '0xdb65d65b'

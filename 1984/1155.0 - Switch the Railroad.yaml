@@ -1,0 +1,29 @@
+filename: Switch the Railroad (1984)(Chris Torkildson) [Simulation, Strategy].zip
+tdc_id: '1155.0'
+title:
+  screen: Switch the Railroad
+publisher: Chris Torkildson
+year: '1984'
+genre:
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:24:18'
+  last_modified: '2019-03-01T18:24:18'
+type: zip
+commands:
+  play: RAILROAD.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: RAILROAD.BAS
+  size: 5248
+  date: '1984-10-08T08:06:30'
+  crc: '0x0c5eac09'
+- name: RAILROAD.BAT
+  size: 19
+  date: '2014-12-18T18:00:48'
+  crc: '0x7411804b'

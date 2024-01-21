@@ -1,0 +1,60 @@
+filename: U.S.S. Stinger (1989)(Keypunch Software, Inc.) [Simulation].zip
+tdc_id: '17015.0'
+title:
+  box: U.S.S. Stinger
+publisher: Keypunch Software, Inc.
+year: '1989'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:29:16'
+  last_modified: '2019-03-01T18:29:16'
+type: zip
+references:
+  dosid: DOS05453
+  exodos: U.S.S. Stinger (1989).zip
+files:
+- name: CONFIG.COM
+  size: 64
+  date: '1980-01-01T00:12:24'
+  crc: '0x45cb7cdd'
+- name: GO.BAT
+  size: 123
+  date: '1980-01-01T00:19:26'
+  crc: '0x1056930e'
+- name: HELP.EXE
+  size: 12564
+  date: '1988-10-21T16:29:10'
+  crc: '0x0f3b82d4'
+- name: K1.CPR
+  size: 4039
+  date: '1980-01-01T06:50:34'
+  crc: '0x751eaf4e'
+- name: K5.CPR
+  size: 4645
+  date: '1980-01-01T00:13:42'
+  crc: '0x7f79a737'
+- name: KEYPUNCH.EXE
+  size: 28951
+  date: '1988-12-06T16:07:00'
+  crc: '0x543d7bb5'
+- name: README.DOC
+  size: 14210
+  date: '1980-01-01T02:27:16'
+  crc: '0xf81cf637'
+- name: STINGER.DAT
+  size: 25449
+  date: '1989-03-10T20:47:54'
+  crc: '0x92bb4263'
+- name: STINGER.EXE
+  size: 67573
+  date: '1989-03-10T19:35:00'
+  crc: '0xa1324ffa'
+- name: STINGER.HLP
+  size: 13549
+  date: '1989-03-28T15:43:42'
+  crc: '0x3fd0988b'
+- name: STINGER.LOG
+  size: 70
+  date: '1980-01-01T00:04:08'
+  crc: '0xca4a2ea4'

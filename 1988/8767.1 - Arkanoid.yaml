@@ -1,0 +1,37 @@
+filename: Arkanoid [a1] (1988)(Taito Corporation) [Action].zip
+tdc_id: '8767.1'
+title:
+  box: Arkanoid
+publisher: Taito Corporation
+year: '1988'
+genre: Action
+language: English
+date:
+  added: '2020-08-10T09:57:48'
+  last_modified: '2020-08-10T09:57:48'
+type: zip
+tags:
+- Alternate: 1
+commands:
+  play: ARKANOID.EXE
+files:
+- name: ARKANOID.CO_
+  size: 2368
+  date: '1988-11-02T13:47:12'
+  crc: '0x502530cf'
+- name: ARKANOID.EXE
+  size: 227328
+  date: '1988-11-02T13:46:52'
+  crc: '0x0d4e0fbc'
+- name: ARKANOID.TSI
+  size: 227328
+  date: '1988-11-02T13:46:52'
+  crc: '0x3ea5e56e'
+- name: CML0300.FCL
+  size: 16944
+  date: '1988-10-03T10:33:46'
+  crc: '0xbc696d56'
+- name: VDF0300.VDF
+  size: 2464
+  date: '1988-11-02T13:47:02'
+  crc: '0xe63a4692'

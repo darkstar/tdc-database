@@ -1,0 +1,60 @@
+filename: Goblins 3 v1.00 (He) (1994)(Coktel Vision) [Adventure, Puzzle].zip
+tdc_id: '14110.21'
+title:
+  box: Goblins 3
+publisher: Coktel Vision
+year: '1994'
+genre:
+- Adventure
+- Puzzle
+language: Hewbrew
+date:
+  added: '2023-11-27T16:57:25'
+  last_modified: '2023-11-27T16:57:25'
+version: '1.00'
+type: zip
+commands:
+  play: GOB3.EXE
+references:
+  mobygames: https://www.mobygames.com/game/2870/goblins-quest-3/
+files:
+- name: EXT.STK
+  size: 3922498
+  date: '1987-12-01T00:06:12'
+  crc: '0x820b0662'
+- name: GOB3.EXE
+  size: 224864
+  date: '1987-11-30T23:56:54'
+  crc: '0x4fdba640'
+- name: IMD.ITK
+  size: 2951256
+  date: '1987-12-01T00:12:56'
+  crc: '0xb4dd097c'
+- name: IMD.LTK
+  size: 45344
+  date: '1987-11-30T23:57:02'
+  crc: '0x987238bb'
+- name: INSTALL.ASK
+  size: 15885
+  date: '1987-11-30T23:57:00'
+  crc: '0x13a2b422'
+- name: INTRO.INF
+  size: 39
+  date: '1987-11-30T23:57:02'
+  crc: '0x14d23874'
+- name: INTRO.STK
+  size: 178582
+  date: '1987-11-30T23:56:42'
+  crc: '0x86222497'
+- name: MDO.DEF
+  size: 181
+  date: '1987-11-30T23:57:02'
+  crc: '0x45a14b7a'
+- name: SETUP.EXE
+  size: 76933
+  date: '1987-11-30T23:56:58'
+  crc: '0x2aae97eb'
+- name: TOT.STK
+  size: 449888
+  date: '1987-11-30T23:56:18'
+  crc: '0xfc0f99bd'

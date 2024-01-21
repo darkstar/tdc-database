@@ -1,0 +1,49 @@
+filename: Castles II- Siege & Conquest r921016 (Installer) (1992)(Interplay Entertainment Corp.) [Simulation, Strategy].zip
+tdc_id: '12028.2'
+title:
+  box: 'Castles II: Siege & Conquest'
+publisher: Interplay Entertainment Corp.
+year: '1992'
+genre:
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:41:42'
+  last_modified: '2023-01-14T14:22:06'
+release: '921016'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/castles-ii-siege-conquest
+files:
+- name: CASTLES2.1
+  size: 1407664
+  date: '1992-10-16T10:57:28'
+  crc: '0xecbf90fe'
+- name: CASTLES2.2
+  size: 1457664
+  date: '1992-10-16T10:53:14'
+  crc: '0xda4f5620'
+- name: CASTLES2.3
+  size: 1457664
+  date: '1992-10-16T10:55:08'
+  crc: '0x995bf874'
+- name: CASTLES2.4
+  size: 1457664
+  date: '1992-10-16T10:56:22'
+  crc: '0x5751a618'
+- name: CASTLES2.5
+  size: 1055567
+  date: '1992-10-16T10:57:28'
+  crc: '0x91781fbc'
+- name: INSTALL.EXE
+  size: 33444
+  date: '1992-10-16T12:00:00'
+  crc: '0x4d504e16'
+- name: README.DOC
+  size: 724
+  date: '1992-11-16T11:35:46'
+  crc: '0x477fbf71'

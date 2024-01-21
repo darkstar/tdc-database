@@ -1,0 +1,38 @@
+filename: Minesweeper [FW] (2002)(High Voltz) [Strategy].zip
+tdc_id: '4831.0'
+title:
+  screen: Minesweeper
+publisher: High Voltz
+year: '2002'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:56:04'
+  last_modified: '2019-03-02T10:56:04'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: minesw.exe
+files:
+- name: game.dat
+  size: 144057
+  date: '2002-05-12T18:26:04'
+  crc: '0x73442aed'
+- name: game.h
+  size: 3116
+  date: '2002-05-12T18:26:04'
+  crc: '0x5b06fa3a'
+- name: minesw.exe
+  size: 186436
+  date: '2002-07-01T20:33:16'
+  crc: '0xb974eb70'
+- name: minesweeper.c
+  size: 53177
+  date: '2002-07-01T20:14:28'
+  crc: '0x46b1c3e7'
+- name: readme.txt
+  size: 2179
+  date: '2002-07-01T22:36:34'
+  crc: '0x8f67f551'

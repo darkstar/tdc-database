@@ -1,0 +1,44 @@
+filename: Epic (Installer) [h1] (1991)(Ocean Software Ltd.) [Action, Simulation].zip
+tdc_id: '13429.2'
+title:
+  box: Epic
+publisher: Ocean Software Ltd.
+year: '1991'
+genre:
+- Action
+- Simulation
+language: English
+date:
+  added: '2019-03-01T18:35:50'
+  last_modified: '2019-03-01T18:35:50'
+type: zip
+tags:
+- Hack: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISKA.DAT
+  size: 1434624
+  date: '1992-06-18T13:30:46'
+  crc: '0x439de763'
+- name: DISKB.DAT
+  size: 1456640
+  date: '1992-06-18T14:02:50'
+  crc: '0x44c2bf3d'
+- name: DISKC.DAT
+  size: 1456640
+  date: '1992-06-18T14:04:48'
+  crc: '0xeda454b7'
+- name: DISKD.DAT
+  size: 1456640
+  date: '1992-06-18T14:06:44'
+  crc: '0x7a6ffdef'
+- name: DISKE.DAT
+  size: 1360621
+  date: '1992-06-18T14:08:28'
+  crc: '0xb3a28979'
+- name: INSTALL.EXE
+  size: 21768
+  date: '1992-06-18T14:08:40'
+  crc: '0xff25959a'

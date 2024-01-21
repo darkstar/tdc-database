@@ -1,0 +1,38 @@
+filename: Tetris 2- The New Blood (1998)(Christian Dever) [Action, Strategy].zip
+tdc_id: '4272.0'
+title:
+  screen: 'Tetris 2: The New Blood'
+publisher: Christian Dever
+year: '1998'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-02T10:44:40'
+  last_modified: '2019-03-02T10:44:40'
+type: zip
+media: Download
+commands:
+  play: runme.bat
+files:
+- name: QBASIC.EXE
+  size: 194309
+  date: '1995-07-11T10:50:00'
+  crc: '0x3152911c'
+- name: TET.BAS
+  size: 50671
+  date: '1998-09-22T13:38:12'
+  crc: '0x17cb9307'
+- name: TET.INF
+  size: 216
+  date: '2005-12-19T00:31:00'
+  crc: '0xfaf00f90'
+- name: TET_NEW.BAS
+  size: 50943
+  date: '2005-07-22T03:32:10'
+  crc: '0x71901e98'
+- name: runme.bat
+  size: 27
+  date: '2005-12-19T00:33:20'
+  crc: '0x3b89449a'

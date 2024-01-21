@@ -1,0 +1,46 @@
+filename: Dead of Night (Installer) (1996)(Locoware) [Action, Adventure].zip
+tdc_id: '13000.1'
+title:
+  screen: Dead of Night
+publisher: Locoware
+year: '1996'
+genre:
+- Action
+- Adventure
+language: English
+date:
+  added: '2019-08-10T03:32:44'
+  last_modified: '2019-08-10T03:32:44'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DON.001
+  size: 353270
+  date: '1996-10-23T12:00:00'
+  crc: '0x15c637aa'
+- name: DON.002
+  size: 390000
+  date: '1996-10-23T12:00:00'
+  crc: '0xab6971b9'
+- name: DON.003
+  size: 390000
+  date: '1996-10-23T12:00:00'
+  crc: '0xf4f34873'
+- name: DON.004
+  size: 390000
+  date: '1996-10-23T12:00:00'
+  crc: '0x28f5034a'
+- name: DOS4GW.EXE
+  size: 265396
+  date: '1996-10-23T12:00:00'
+  crc: '0x5cc34b0f'
+- name: INSTALL.EXE
+  size: 130819
+  date: '1996-10-23T12:00:00'
+  crc: '0x201f17e4'
+- name: MANUAL.TXT
+  size: 14279
+  date: '1996-10-23T12:00:00'
+  crc: '0x98917144'

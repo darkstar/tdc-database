@@ -1,0 +1,49 @@
+filename: Tetris (Ru) (1996)(Vladimir Kon'kov) [Action, Strategy].zip
+tdc_id: '470.0'
+title:
+  screen: Tetris
+publisher: Vladimir Kon'kov
+year: '1996'
+genre:
+- Action
+- Strategy
+language: Russian
+date:
+  added: '2020-12-10T01:34:58'
+  last_modified: '2020-12-10T01:34:58'
+type: zip
+commands:
+  play: TETRIS.EXE
+files:
+- name: EGAVGA.BGI
+  size: 5527
+  date: '1992-10-05T05:00:00'
+  crc: '0xa33014d5'
+- name: LITT.CHR
+  size: 5418
+  date: '1994-08-01T23:28:48'
+  crc: '0x4ab89768'
+- name: TETRIS.EXE
+  size: 44112
+  date: '2020-11-23T10:09:12'
+  crc: '0x61767aef'
+- name: TETRIS.INI
+  size: 280
+  date: '1996-05-06T22:01:10'
+  crc: '0xabfc6da1'
+- name: TETRIS.PAS
+  size: 24876
+  date: '1996-05-06T22:00:00'
+  crc: '0x739bc7ab'
+- name: TETRIS.REC
+  size: 247
+  date: '2020-11-23T10:11:44'
+  crc: '0x60201f3f'
+- name: TRIP.CHR
+  size: 15305
+  date: '1994-08-01T23:28:56'
+  crc: '0xa6fa765e'
+- name: TSCR.CHR
+  size: 15323
+  date: '1994-08-01T23:28:56'
+  crc: '0xbf47ef64'

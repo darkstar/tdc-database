@@ -1,0 +1,74 @@
+filename: Jim Quest I- The Phantom Thesis (2003)(Jim Carleton) [Adventure].zip
+tdc_id: '4890.0'
+title:
+  screen: 'Jim Quest I: The Phantom Thesis'
+publisher: Jim Carleton
+year: '2003'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-02T10:56:30'
+  last_modified: '2019-03-02T10:56:30'
+type: zip
+commands:
+  play: JQ1.EXE
+references:
+  dosid: DOS00425
+  exodos: Jim Quest 1 - The Phantom Thesis (2007).zip
+files:
+- name: ADL.DRV
+  size: 9778
+  date: '1990-01-31T18:47:24'
+  crc: '0x9f2cea3f'
+- name: EGA320.DRV
+  size: 1952
+  date: '1989-03-13T18:35:16'
+  crc: '0x3b2fc0de'
+- name: IBMKBD.DRV
+  size: 446
+  date: '1989-04-11T17:57:44'
+  crc: '0xb495c666'
+- name: JOYSTICK.DRV
+  size: 541
+  date: '1990-02-21T15:51:20'
+  crc: '0xfa815721'
+- name: JQ1.EXE
+  size: 44443
+  date: '1990-07-11T16:14:00'
+  crc: '0xfd6dee90'
+- name: JQ1.txt
+  size: 677
+  date: '2003-12-24T23:10:12'
+  crc: '0xe6159ede'
+- name: STD.DRV
+  size: 2466
+  date: '1990-01-18T17:38:16'
+  crc: '0x05dbf64a'
+- name: TEMPLATE.000
+  size: 45508
+  date: '2003-12-24T23:04:26'
+  crc: '0xdd0d2475'
+- name: TEMPLATE.DIR
+  size: 9
+  date: '2003-12-24T23:04:26'
+  crc: '0x1f3bfa36'
+- name: game.ini
+  size: 742
+  date: '2003-12-24T21:23:14'
+  crc: '0x2410c774'
+- name: gm.drv
+  size: 4819
+  date: '2002-01-07T16:05:08'
+  crc: '0xec5029fe'
+- name: resource.001
+  size: 496446
+  date: '2003-12-24T23:06:48'
+  crc: '0xc2868b6d'
+- name: resource.cfg
+  size: 151
+  date: '2002-06-02T01:51:24'
+  crc: '0x5f8b6210'
+- name: resource.map
+  size: 960
+  date: '2003-12-24T23:06:48'
+  crc: '0x310c4818'

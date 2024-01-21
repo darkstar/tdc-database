@@ -1,0 +1,43 @@
+filename: Harpoon II- Battleset 3 - Cold War (1995)(U.S. Gold Ltd.) [Simulation, Strategy, Addon].zip
+tdc_id: '11012.0'
+parent_id: '11012.1'
+title:
+  box: 'Harpoon II: Battleset 3 - Cold War'
+publisher: U.S. Gold Ltd.
+year: '1995'
+genre:
+- Simulation
+- Strategy
+- Addon
+language: English
+date:
+  added: '2021-05-12T15:48:56'
+  last_modified: '2021-05-12T15:48:56'
+type: zip
+commands:
+  play: INSTALL.EXE
+files:
+- name: COLDWAR.000
+  size: 1153520
+  date: '1995-03-12T13:46:00'
+  crc: '0x886bbc7f'
+- name: COLDWAR.001
+  size: 1289760
+  date: '1995-03-12T13:52:06'
+  crc: '0x889a6977'
+- name: DISK.2
+  size: 1
+  date: '1994-02-01T12:56:42'
+  crc: '0x6c09ff9d'
+- name: INSTALL.EXE
+  size: 245628
+  date: '1994-12-15T14:00:56'
+  crc: '0x82f2b2ea'
+- name: INSTALL5.DAT
+  size: 8679
+  date: '1995-03-08T16:24:46'
+  crc: '0xb6098220'
+- name: PCX.000
+  size: 42517
+  date: '1995-01-23T16:39:16'
+  crc: '0xa67cdf7e'

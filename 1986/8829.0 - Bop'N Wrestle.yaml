@@ -1,0 +1,38 @@
+filename: Bop'N Wrestle (1986)(Mindscape, Inc.) [Sports].zip
+tdc_id: '8829.0'
+title:
+  box: Bop'N Wrestle
+publisher: Mindscape, Inc.
+year: '1986'
+genre: Sports
+language: English
+date:
+  added: '2019-03-01T18:24:42'
+  last_modified: '2019-03-01T18:24:42'
+type: zip
+commands:
+  play: BOP.EXE
+references:
+  dosid: DOS01147
+  exodos: Bop'N Wrestle (1986).zip
+files:
+- name: BOP.EXE
+  size: 48880
+  date: '2002-12-08T16:07:32'
+  crc: '0xf9a5eee5'
+- name: BOPDA2
+  size: 4096
+  date: '1986-10-20T16:34:50'
+  crc: '0xb9167735'
+- name: BOPVM
+  size: 39168
+  date: '1986-10-31T16:16:16'
+  crc: '0x9a6b9863'
+- name: BSOUND
+  size: 18452
+  date: '1986-10-22T09:20:04'
+  crc: '0x99882f7a'
+- name: TITLE
+  size: 10001
+  date: '1986-10-29T11:54:52'
+  crc: '0xd719cf26'

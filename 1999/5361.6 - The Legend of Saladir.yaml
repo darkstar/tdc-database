@@ -1,0 +1,55 @@
+filename: Legend of Saladir, The v0.34 (1999)(Erno Tuomainen) [Role-Playing (RPG)].zip
+tdc_id: '5361.6'
+title:
+  screen: The Legend of Saladir
+publisher: Erno Tuomainen
+year: '1999'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2014-12-06T15:12:10'
+  last_modified: '2014-12-06T15:12:10'
+version: '0.34'
+type: zip
+commands:
+  play: SALADIR.EXE
+references:
+  dosid: DOS06027
+  exodos: Legend of Saladir (1999).zip
+files:
+- name: CWSDPMI.EXE
+  size: 20473
+  date: '1997-10-19T21:48:14'
+  crc: '0x80fa6999'
+- name: HELP\FILE_ID.DIZ
+  size: 112
+  date: '1999-04-18T21:26:00'
+  crc: '0x952a4570'
+- name: HELP\HISTORY.TXT
+  size: 15849
+  date: '1999-04-19T03:31:46'
+  crc: '0x53378202'
+- name: HELP\INVENTOR.HLP
+  size: 4875
+  date: '1999-03-18T16:10:20'
+  crc: '0xb687e4ce'
+- name: HELP\LICENSE.TXT
+  size: 1026
+  date: '1998-01-28T19:04:02'
+  crc: '0x71027514'
+- name: HELP\MANUAL.TXT
+  size: 47629
+  date: '1999-04-18T20:28:00'
+  crc: '0xbdcf3bcd'
+- name: HELP\MISSILE.TXT
+  size: 2705
+  date: '1999-04-18T16:06:26'
+  crc: '0xec13da7f'
+- name: OUTWORLD.MAP
+  size: 78420
+  date: '1999-04-10T17:29:00'
+  crc: '0x8c8dfe6c'
+- name: SALADIR.EXE
+  size: 875756
+  date: '1999-04-19T00:55:48'
+  crc: '0x8be846cd'

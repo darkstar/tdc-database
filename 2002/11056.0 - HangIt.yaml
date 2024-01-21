@@ -1,0 +1,125 @@
+filename: HangIt v0.60 (2002)(Michael Olson) [Strategy].zip
+tdc_id: '11056.0'
+title:
+  screen: HangIt
+publisher: Michael Olson
+year: '2002'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:56:00'
+  last_modified: '2019-03-02T10:56:00'
+version: '0.60'
+type: zip
+commands:
+  play: hangit.exe
+files:
+- name: ChangeLog
+  size: 5916
+  date: '2002-12-16T10:47:46'
+  crc: '0x91d69e10'
+- name: Dos
+  size: 224
+  date: '2002-12-16T10:47:46'
+  crc: '0xb134b23f'
+- name: Makefile
+  size: 5075
+  date: '2002-12-16T10:47:46'
+  crc: '0xc84c2f3d'
+- name: authors
+  size: 381
+  date: '2002-12-16T10:47:46'
+  crc: '0xe77c33e0'
+- name: bugs
+  size: 426
+  date: '2002-12-16T10:47:46'
+  crc: '0xdf1b4509'
+- name: copying
+  size: 18409
+  date: '2002-12-16T10:47:46'
+  crc: '0xce5ad968'
+- name: doc\
+  size: 0
+  date: '2002-12-16T10:47:46'
+- name: doc\index.html
+  size: 9663
+  date: '2002-12-16T10:47:46'
+  crc: '0x8cc4925b'
+- name: doc\sflogo.php
+  size: 2112
+  date: '2002-12-16T10:47:46'
+  crc: '0x9fe942e4'
+- name: hangit.exe
+  size: 53456
+  date: '2002-12-16T10:47:46'
+  crc: '0x9c99a343'
+- name: install
+  size: 1083
+  date: '2002-12-16T10:47:46'
+  crc: '0x6ff65f37'
+- name: man\
+  size: 0
+  date: '2002-12-16T10:47:46'
+- name: man\hangit.4
+  size: 3025
+  date: '2002-12-16T10:47:46'
+  crc: '0x8b3d5c62'
+- name: news
+  size: 6570
+  date: '2002-12-16T10:47:46'
+  crc: '0x0bc1bdc1'
+- name: readme
+  size: 3873
+  date: '2002-12-16T10:47:46'
+  crc: '0x18bd0cad'
+- name: src\
+  size: 0
+  date: '2002-12-16T10:47:46'
+- name: src\defs.h
+  size: 584
+  date: '2002-12-16T10:47:46'
+  crc: '0x170c017e'
+- name: src\extutil.c
+  size: 3587
+  date: '2002-12-16T10:47:46'
+  crc: '0x8ab8e366'
+- name: src\extutil.h
+  size: 701
+  date: '2002-12-16T10:47:46'
+  crc: '0x1fe97e3d'
+- name: src\game.c
+  size: 5690
+  date: '2002-12-16T10:47:46'
+  crc: '0xf03147d4'
+- name: src\game.h
+  size: 535
+  date: '2002-12-16T10:47:46'
+  crc: '0x8c401982'
+- name: src\graphics.c
+  size: 15446
+  date: '2002-12-16T10:47:46'
+  crc: '0x2a825797'
+- name: src\graphics.h
+  size: 614
+  date: '2002-12-16T10:47:46'
+  crc: '0x773e4247'
+- name: src\main.c
+  size: 7845
+  date: '2002-12-16T10:47:46'
+  crc: '0x061bd21f'
+- name: src\wordlist.c
+  size: 4395
+  date: '2002-12-16T10:47:46'
+  crc: '0x131c0f03'
+- name: src\wordlist.h
+  size: 301
+  date: '2002-12-16T10:47:46'
+  crc: '0xe6e38627'
+- name: thanks
+  size: 749
+  date: '2002-12-16T10:47:46'
+  crc: '0x43e31537'
+- name: todo
+  size: 1094
+  date: '2002-12-16T10:47:46'
+  crc: '0xc6dd015b'

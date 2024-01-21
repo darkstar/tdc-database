@@ -1,0 +1,96 @@
+filename: Awe-Chasm v2.0 (1991)(Tony Stiles) [Adventure, Interactive Fiction].zip
+tdc_id: '12315.0'
+title:
+  screen: Awe-Chasm
+publisher: Tony Stiles
+year: '1991'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:34:54'
+  last_modified: '2019-03-01T18:34:54'
+version: '2.0'
+type: zip
+commands:
+  play: AWECHASM.EXE
+references:
+  dosid: DOS06707
+  exodos: Awe-Chasm, The (1991).zip
+files:
+- name: AWECHASM.EXE
+  size: 110856
+  date: '1991-06-15T12:41:50'
+  crc: '0xd8bfe3e7'
+- name: AWECHASM.PRG
+  size: 110562
+  date: '1991-06-15T12:33:48'
+  crc: '0x75d84b05'
+- name: FILES.TXT
+  size: 204
+  date: '1991-05-04T16:07:10'
+  crc: '0xd3658a5c'
+- name: README.TXT
+  size: 3088
+  date: '1991-07-10T22:04:48'
+  crc: '0x9bb34ec9'
+- name: SOURCE\
+  size: 0
+  date: '2012-03-25T15:58:00'
+- name: SOURCE\CODE.EXE
+  size: 10534
+  date: '1991-06-10T22:56:06'
+  crc: '0x41c6d3e8'
+- name: SOURCE\CODE.TTP
+  size: 9038
+  date: '1991-06-10T23:03:38'
+  crc: '0xe6b801f2'
+- name: SOURCE\GENLIST
+  size: 99
+  date: '1991-06-15T12:55:24'
+  crc: '0xe2f7db94'
+- name: SOURCE\HIGH.D
+  size: 9881
+  date: '1991-06-15T12:50:04'
+  crc: '0x28805a08'
+- name: SOURCE\INIT.D
+  size: 1384
+  date: '1991-06-15T12:50:48'
+  crc: '0x756173a6'
+- name: SOURCE\LOW.D
+  size: 21350
+  date: '1991-06-15T12:52:30'
+  crc: '0x4ae61ecf'
+- name: SOURCE\MSG.D
+  size: 2449
+  date: '1991-06-15T12:50:54'
+  crc: '0xda4e980a'
+- name: SOURCE\OBJ.D
+  size: 18660
+  date: '1991-06-15T12:51:26'
+  crc: '0x5661a9af'
+- name: SOURCE\README
+  size: 347
+  date: '1991-06-15T12:54:36'
+  crc: '0x46e8bcb4'
+- name: SOURCE\ROOM.D
+  size: 12601
+  date: '1991-06-15T12:51:48'
+  crc: '0x734e9f27'
+- name: SOURCE\VERB.D
+  size: 320
+  date: '1991-06-15T12:51:50'
+  crc: '0x901f9242'
+- name: START.TXT
+  size: 7183
+  date: '1991-05-04T16:08:20'
+  crc: '0xca2b89ea'
+- name: START123.SAV
+  size: 9574
+  date: '1987-04-22T00:01:28'
+  crc: '0x85076349'
+- name: TITLE.TXT
+  size: 544
+  date: '1991-06-15T12:36:56'
+  crc: '0x7d2c1cb3'

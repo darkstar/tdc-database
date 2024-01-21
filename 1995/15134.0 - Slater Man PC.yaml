@@ -1,0 +1,30 @@
+filename: Slater Man PC (Installer) (Pl) (1995)(TimSoft) [Action].zip
+tdc_id: '15134.0'
+title:
+  screen: Slater Man PC
+publisher: TimSoft
+year: '1995'
+genre: Action
+language: Polish
+date:
+  added: '2021-06-03T08:01:08'
+  last_modified: '2022-12-28T12:02:31'
+type: zip
+installer: true
+commands:
+  play: INSTALUJ.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/slater-man-pc
+files:
+- name: INSTALUJ.EXE
+  size: 5415
+  date: '1995-12-13T21:21:44'
+  crc: '0xb2246f43'
+- name: SLATER.001
+  size: 1053424
+  date: '1995-12-13T21:01:22'
+  crc: '0x4075d834'
+- name: SLATER.002
+  size: 1457064
+  date: '1995-12-13T21:01:30'
+  crc: '0xa80cf208'

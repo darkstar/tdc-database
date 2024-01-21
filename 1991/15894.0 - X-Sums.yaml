@@ -1,0 +1,58 @@
+filename: X-Sums [SW] (1991)(Alan Meiss) [Strategy].zip
+tdc_id: '15894.0'
+title:
+  screen: X-Sums
+publisher: Alan Meiss
+year: '1991'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:40:06'
+  last_modified: '2019-03-01T18:40:06'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: xsum.exe
+files:
+- name: BOARD1.DAT
+  size: 450
+  date: '1991-05-26T00:27:46'
+  crc: '0xabb3cee9'
+- name: BOARD2.DAT
+  size: 450
+  date: '1991-05-26T12:40:06'
+  crc: '0xa7e68fea'
+- name: BOARD3.DAT
+  size: 450
+  date: '1991-05-26T12:47:16'
+  crc: '0x9aa462ae'
+- name: BOARD4.DAT
+  size: 450
+  date: '1991-05-26T12:49:38'
+  crc: '0x9d81a9db'
+- name: BOARD5.DAT
+  size: 450
+  date: '1991-05-26T12:51:56'
+  crc: '0x17f9770a'
+- name: BOARD6.DAT
+  size: 450
+  date: '1991-05-26T13:01:16'
+  crc: '0x30b5a484'
+- name: BOARD7.DAT
+  size: 450
+  date: '1991-05-26T13:02:42'
+  crc: '0x973ab1a0'
+- name: BOARD8.DAT
+  size: 450
+  date: '1991-05-26T13:04:04'
+  crc: '0xde3e7d01'
+- name: BOARD9.DAT
+  size: 450
+  date: '1991-05-26T13:05:28'
+  crc: '0x373087a4'
+- name: xsum.exe
+  size: 47280
+  date: '1991-05-27T17:03:18'
+  crc: '0xff0dedcd'

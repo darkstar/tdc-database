@@ -1,0 +1,90 @@
+filename: Inca II- Wiracocha v1.000 (De)(En)(Es)(Fr)(It) (1993)(Sierra On-Line, Inc.) [Action, Adventure].zip
+tdc_id: '11456.0'
+title:
+  box: 'Inca II: Wiracocha'
+publisher: Sierra On-Line, Inc.
+year: '1993'
+genre:
+- Action
+- Adventure
+language:
+- English
+- Spanish
+- French
+- Italian
+- German
+date:
+  added: '2022-05-07T08:41:24'
+  last_modified: '2022-10-17T12:34:24'
+version: '1.000'
+type: zip
+commands:
+  play: INCA2.EXE
+  setup: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/inca-ii-nations-of-immortality
+files:
+- name: COKTEL.CLT
+  size: 768
+  date: '1980-03-28T01:58:20'
+  crc: '0x9a56d39a'
+- name: COKTEL.IMS
+  size: 4003
+  date: '1980-03-28T01:58:20'
+  crc: '0xe5140e91'
+- name: EXT.STK
+  size: 5258646
+  date: '1980-03-28T02:03:56'
+  crc: '0x58af7645'
+- name: INCA2.EXE
+  size: 694800
+  date: '1980-03-28T01:58:14'
+  crc: '0xb90535b0'
+- name: INCA2.STK
+  size: 404552
+  date: '1980-03-28T02:04:14'
+  crc: '0x06d51ff8'
+- name: INSTALL.ASK
+  size: 16371
+  date: '1980-03-28T01:58:20'
+  crc: '0xaffc9565'
+- name: INTRO.STK
+  size: 909058
+  date: '1980-03-28T04:10:02'
+  crc: '0x9bcbf135'
+- name: LOCO.STK
+  size: 188088
+  date: '1980-03-28T01:58:20'
+  crc: '0x9d26cd6c'
+- name: LOKAA.IMD
+  size: 901493
+  date: '1980-03-28T02:04:04'
+  crc: '0xdccb429e'
+- name: LOKBB.IMD
+  size: 618836
+  date: '1980-03-28T02:04:22'
+  crc: '0x5dea232d'
+- name: LOKCC.IMD
+  size: 901477
+  date: '1980-03-28T03:38:52'
+  crc: '0xcd1f9ed9'
+- name: LOKDD.IMD
+  size: 618820
+  date: '1980-03-28T03:39:04'
+  crc: '0xa417a930'
+- name: MDO.DEF
+  size: 208
+  date: '1980-03-28T01:58:20'
+  crc: '0x247b1fd4'
+- name: OBLIHD.ITK
+  size: 8146052
+  date: '1980-03-28T02:01:38'
+  crc: '0xff5aa1c2'
+- name: SETUP.EXE
+  size: 74092
+  date: '1980-03-28T01:58:20'
+  crc: '0xe60693ad'
+- name: VERSION
+  size: 19
+  date: '1980-03-28T01:58:20'
+  crc: '0x143babd0'

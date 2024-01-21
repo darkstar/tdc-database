@@ -1,0 +1,26 @@
+filename: Python (1989)(Intercomputer) [Action].zip
+tdc_id: '1786.0'
+title:
+  screen: Python
+publisher: Intercomputer
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:28:44'
+  last_modified: '2019-03-01T18:28:44'
+type: zip
+commands:
+  play: PYT.EXE
+references:
+  dosid: DOS15699
+  exodos: Python (1989).zip
+files:
+- name: PYT.DAT
+  size: 1300
+  date: '1980-01-01T01:08:20'
+  crc: '0x15989085'
+- name: PYT.EXE
+  size: 61328
+  date: '1989-04-25T20:34:46'
+  crc: '0xddf55f34'

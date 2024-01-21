@@ -1,0 +1,30 @@
+filename: Skier (1997)(Chance Sanders) [Sports, Simulation].zip
+tdc_id: '4072.0'
+title:
+  screen: Skier
+publisher: Chance Sanders
+year: '1997'
+genre:
+- Sports
+- Simulation
+language: English
+date:
+  added: '2019-03-02T10:37:50'
+  last_modified: '2019-03-02T10:37:50'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 25
+  date: '2018-11-19T19:35:10'
+  crc: '0x9a81e765'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'
+- name: SKIER.BAS
+  size: 2698
+  date: '1997-05-30T11:44:40'
+  crc: '0xbef64714'

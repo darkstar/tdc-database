@@ -1,0 +1,48 @@
+filename: Quake Deathmatch Test 1 v0.1 (1996)(id Software, Inc.) [Action].zip
+tdc_id: '10798.3'
+title:
+  box: Quake Deathmatch Test 1
+publisher: id Software, Inc.
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2011-03-03T16:25:08'
+  last_modified: '2011-03-03T16:25:08'
+version: '0.1'
+type: zip
+commands:
+  play: QUAKE.EXE
+files:
+- name: CWSDPMI.EXE
+  size: 25870
+  date: '1996-02-24T06:00:00'
+  crc: '0x9d237d29'
+- name: ID1.PAK
+  size: 7764079
+  date: '1996-02-24T06:00:00'
+  crc: '0x5329f1f7'
+- name: LICENSE.TXT
+  size: 6623
+  date: '1996-02-24T06:00:00'
+  crc: '0x28442514'
+- name: NETWORK.TXT
+  size: 12018
+  date: '1996-02-24T06:00:00'
+  crc: '0xc5958d16'
+- name: QUAKE.EXE
+  size: 305152
+  date: '1996-02-24T06:00:00'
+  crc: '0x29b617cf'
+- name: README.TXT
+  size: 19255
+  date: '1996-02-24T06:00:00'
+  crc: '0x82b27060'
+- name: SOUND.TXT
+  size: 15635
+  date: '1996-02-24T06:00:00'
+  crc: '0xff0e0ce0'
+- name: VIDEO.TXT
+  size: 11915
+  date: '1996-02-24T06:00:00'
+  crc: '0x3b483fb0'

@@ -1,0 +1,23 @@
+filename: SNAKE- Ultimate Version (No) (1984)(Tom Kristensen) [Action].zip
+tdc_id: '1148.0'
+title:
+  screen: 'SNAKE: Ultimate Version'
+publisher: Tom Kristensen
+year: '1984'
+genre: Action
+language: Norwegian
+date:
+  added: '2019-03-01T18:24:16'
+  last_modified: '2019-03-01T18:24:16'
+type: zip
+commands:
+  play: SNAKE.COM
+files:
+- name: RANKINGL.SNK
+  size: 90
+  date: '1980-01-01T00:01:00'
+  crc: '0x4e6b3f32'
+- name: SNAKE.COM
+  size: 18315
+  date: '1984-11-14T00:38:00'
+  crc: '0xcaaaf56f'

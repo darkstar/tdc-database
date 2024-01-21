@@ -1,0 +1,30 @@
+filename: Puzzle (1997)(Robin Ohm) [Strategy, Puzzle].zip
+tdc_id: '10719.1'
+title:
+  screen: Puzzle
+publisher: Robin Ohm
+year: '1997'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-03-02T10:36:58'
+  last_modified: '2019-03-02T10:36:58'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 26
+  date: '2018-04-12T16:00:30'
+  crc: '0x2dc9a07a'
+- name: PUZZLE.BAS
+  size: 8620
+  date: '2018-11-23T19:36:56'
+  crc: '0x24129275'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

@@ -1,0 +1,69 @@
+filename: EGA Gammon (1989)(ComputerEasy) [Strategy, Board].zip
+tdc_id: '13313.0'
+title:
+  box: EGA Gammon
+publisher: ComputerEasy
+year: '1989'
+genre:
+- Strategy
+- Board
+language: English
+date:
+  added: '2019-03-01T18:27:40'
+  last_modified: '2019-03-01T18:27:40'
+type: zip
+commands:
+  play: GAMMON.EXE
+files:
+- name: BOARD1.PIC
+  size: 16881
+  date: '1989-11-04T14:28:00'
+  crc: '0x16205e96'
+- name: BOARD2.PIC
+  size: 19871
+  date: '1989-11-04T14:28:00'
+  crc: '0xf6f6cb93'
+- name: BOARD3.PIC
+  size: 36824
+  date: '1989-11-04T14:28:04'
+  crc: '0x2ba9bd00'
+- name: BOARD4.PIC
+  size: 17127
+  date: '1989-11-04T14:28:04'
+  crc: '0x7499bbac'
+- name: BOARD5.PIC
+  size: 36720
+  date: '1989-11-04T14:28:08'
+  crc: '0x755d0208'
+- name: CHIP1.PIC
+  size: 127
+  date: '1989-11-04T14:28:08'
+  crc: '0xcf420261'
+- name: CHIP2.PIC
+  size: 160
+  date: '1989-11-04T14:28:08'
+  crc: '0xbbdb7525'
+- name: DICE.PIC
+  size: 3464
+  date: '1989-11-04T14:28:08'
+  crc: '0x9ada97f9'
+- name: DOUBLE.PIC
+  size: 171
+  date: '1989-11-04T14:28:10'
+  crc: '0x9cfd0274'
+- name: EGAVGA.BGI
+  size: 5363
+  date: '1989-11-04T14:28:10'
+  crc: '0x06d36962'
+- name: GAMMON.EXE
+  size: 98309
+  date: '1989-11-04T14:27:58'
+  crc: '0x1ff11201'
+- name: INTRO.PIC
+  size: 5257
+  date: '1989-11-04T14:28:08'
+  crc: '0x11d9af63'
+- name: VCHIP.PIC
+  size: 53
+  date: '1989-11-04T14:28:10'
+  crc: '0xe336e834'

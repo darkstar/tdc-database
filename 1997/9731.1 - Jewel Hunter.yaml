@@ -1,0 +1,35 @@
+filename: Jewel Hunter v2.0 [SW] (1997)(John Hess) [Action].zip
+tdc_id: '9731.1'
+title:
+  screen: Jewel Hunter
+publisher: John Hess
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:35:06'
+  last_modified: '2019-03-02T10:35:06'
+version: '2.0'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 28
+  date: '2018-11-24T13:47:22'
+  crc: '0x8e789ef0'
+- name: JHUNTER2.BAS
+  size: 87118
+  date: '2018-11-24T13:48:20'
+  crc: '0x32373487'
+- name: JHUNTER2.SRC
+  size: 87119
+  date: '1997-05-04T19:59:44'
+  crc: '0x04fa636c'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

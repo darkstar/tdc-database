@@ -1,0 +1,26 @@
+filename: Draw Poker v5.64 (1989)(Gellman Software) [Strategy, Cards].zip
+tdc_id: '6720.0'
+title:
+  screen: Draw Poker
+publisher: Gellman Software
+year: '1989'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:27:38'
+  last_modified: '2019-03-01T18:27:38'
+version: '5.64'
+type: zip
+commands:
+  play: POKER.EXE
+files:
+- name: POKER.DOC
+  size: 8879
+  date: '1989-01-22T15:11:18'
+  crc: '0x32f63967'
+- name: POKER.EXE
+  size: 77540
+  date: '1989-01-22T14:51:14'
+  crc: '0xc53b5b4a'

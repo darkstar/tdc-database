@@ -1,0 +1,36 @@
+filename: Alex the Allegator 2 (2001)(Johan Peitz) [Strategy].zip
+tdc_id: '8222.0'
+title:
+  screen: Alex the Allegator 2
+publisher: Johan Peitz
+year: '2001'
+genre: Strategy
+language: English
+date:
+  added: '2019-11-28T09:22:26'
+  last_modified: '2019-11-28T09:22:26'
+type: zip
+commands:
+  play: ALEX2.EXE
+references:
+  exodos: Alex the Alligator 2 (2002).zip
+files:
+- name: ALEX2.EXE
+  size: 198680
+  date: '2001-01-29T09:25:04'
+  crc: '0x062545f5'
+- name: CWSDPMI.EXE
+  size: 20473
+  date: '1997-10-19T21:48:14'
+  crc: '0x80fa6999'
+- name: data\
+  size: 0
+  date: '2001-01-29T09:29:02'
+- name: data\alex2.dat
+  size: 124529
+  date: '2001-01-29T01:51:22'
+  crc: '0xf6479e7a'
+- name: readme.txt
+  size: 4225
+  date: '2001-01-29T09:30:42'
+  crc: '0x27ec0a4a'

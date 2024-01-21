@@ -1,0 +1,44 @@
+filename: Banyon Wars v2.0 [SWR] (1990)(William Soleau) [Strategy].zip
+tdc_id: '12406.3'
+title:
+  screen: Banyon Wars
+publisher: William Soleau
+year: '1990'
+genre: Strategy
+language: English
+date:
+  added: '2023-05-23T08:15:52'
+  last_modified: '2023-05-23T08:15:52'
+version: '2.0'
+type: zip
+tags:
+- SharewareRegistered
+media: Download
+commands:
+  play: BANYON.EXE
+references:
+  mobygames: https://www.mobygames.com/game/71019/the-banyon-wars/
+files:
+- name: BANS.$
+  size: 0
+  date: '1980-01-01T00:00:00'
+- name: BANYON.001
+  size: 16392
+  date: '1990-07-06T21:01:26'
+  crc: '0x545588c3'
+- name: BANYON.002
+  size: 16392
+  date: '1990-06-22T21:57:32'
+  crc: '0xfcbcfd05'
+- name: BANYON.003
+  size: 39950
+  date: '1990-06-27T01:38:20'
+  crc: '0xb2f660a1'
+- name: BANYON.DOC
+  size: 7826
+  date: '1990-07-06T21:09:14'
+  crc: '0x7194f2c7'
+- name: BANYON.EXE
+  size: 124846
+  date: '1990-07-06T20:56:12'
+  crc: '0x2421d634'

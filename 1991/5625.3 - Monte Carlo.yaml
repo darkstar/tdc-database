@@ -1,0 +1,37 @@
+filename: Monte Carlo v1.14 [SW] (1991)(Randy Rasa) [Strategy, Cards].zip
+tdc_id: '5625.3'
+title:
+  screen: Monte Carlo
+publisher: Randy Rasa
+year: '1991'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:37:00'
+  last_modified: '2019-03-01T18:37:00'
+version: '1.14'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: MC.EXE
+files:
+- name: CARDS.CD1
+  size: 44679
+  date: '1991-11-30T20:00:00'
+  crc: '0x51fb6d10'
+- name: CARDS.CD2
+  size: 46075
+  date: '1991-11-30T20:00:00'
+  crc: '0xed9feed6'
+- name: MC.DOC
+  size: 21106
+  date: '1991-11-30T20:00:00'
+  crc: '0x96a24529'
+- name: MC.EXE
+  size: 97182
+  date: '1991-11-30T20:00:00'
+  crc: '0x72d2d27c'

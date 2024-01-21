@@ -1,0 +1,35 @@
+filename: Speedy (Installer) [SW] (1996)(Homebrew Software) [Racing - Driving].zip
+tdc_id: '15362.0'
+title:
+  screen: Speedy
+publisher: Homebrew Software
+year: '1996'
+genre: Racing - Driving
+language: English
+date:
+  added: '2019-01-28T07:17:18'
+  last_modified: '2019-01-28T07:17:18'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 347
+  date: '1996-01-19T01:00:00'
+  crc: '0xa452372f'
+- name: INSTALL.001
+  size: 633
+  date: '1996-01-19T01:00:00'
+  crc: '0x53638d00'
+- name: INSTALL.EXE
+  size: 87162
+  date: '1996-01-19T01:00:00'
+  crc: '0x417fa2da'
+- name: SPEEDY10.DAT
+  size: 1444308
+  date: '1996-01-19T01:00:00'
+  crc: '0xb9bfdf9e'

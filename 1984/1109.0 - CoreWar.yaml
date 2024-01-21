@@ -1,0 +1,42 @@
+filename: CoreWar v1.01 (1984)(Kevin Bjorke) [Strategy, Simulation].zip
+tdc_id: '1109.0'
+title:
+  screen: CoreWar
+publisher: Kevin Bjorke
+year: '1984'
+genre:
+- Strategy
+- Simulation
+language: English
+date:
+  added: '2019-03-01T18:24:02'
+  last_modified: '2019-03-01T18:24:02'
+version: '1.01'
+type: zip
+commands:
+  play: COREWAR.EXE
+files:
+- name: AAIMP.WAR
+  size: 128
+  date: '1980-01-01T00:03:58'
+  crc: '0x303f5165'
+- name: ANTIIMP.WAR
+  size: 128
+  date: '1980-01-01T00:03:58'
+  crc: '0x1a6439ec'
+- name: COREWAR.DOC
+  size: 8064
+  date: '1980-01-01T00:03:56'
+  crc: '0x7b693ab6'
+- name: COREWAR.EXE
+  size: 23040
+  date: '1980-01-01T00:03:54'
+  crc: '0xe52b1a4d'
+- name: DWARF.WAR
+  size: 128
+  date: '1980-01-01T00:03:56'
+  crc: '0x57982360'
+- name: IMP.WAR
+  size: 512
+  date: '1980-01-01T00:03:56'
+  crc: '0x5bf747cd'

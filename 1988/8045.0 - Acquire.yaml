@@ -1,0 +1,27 @@
+filename: Acquire v1.1 (1988)(Bill Humphrey) [Strategy].zip
+tdc_id: '8045.0'
+title:
+  screen: Acquire
+publisher: Bill Humphrey
+year: '1988'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:25:52'
+  last_modified: '2019-03-01T18:25:52'
+version: '1.1'
+type: zip
+commands:
+  play: ACQUIRE.COM
+references:
+  dosid: DOS07275
+  exodos: Acquire (1988).zip
+files:
+- name: ACQUIRE.COM
+  size: 64202
+  date: '1980-01-01T02:04:46'
+  crc: '0x50a2177a'
+- name: ACQUIRE.DOC
+  size: 11506
+  date: '1980-01-01T01:53:38'
+  crc: '0x10711a21'

@@ -1,0 +1,67 @@
+filename: Arcade Bonanza (1987)(Keypunch Software, Inc.) [Action, Compilation].zip
+tdc_id: '8716.0'
+title:
+  box: Arcade Bonanza
+publisher: Keypunch Software, Inc.
+year: '1987'
+genre:
+- Action
+- Compilation
+language: English
+date:
+  added: '2019-03-01T18:25:08'
+  last_modified: '2019-03-01T18:25:08'
+type: zip
+compilation: true
+references:
+  dosid: DOS00826
+  exodos: Arcade Bonanza (1987).zip
+files:
+- name: BOOT.BAT
+  size: 154
+  date: '1986-07-02T00:13:12'
+  crc: '0x687e47d6'
+- name: CHOICE.BAT
+  size: 21
+  date: '1989-11-29T11:20:24'
+  crc: '0x6b53be80'
+- name: FROG.EXE
+  size: 37632
+  date: '1984-02-13T18:11:58'
+  crc: '0x6fe17c4e'
+- name: KEYPUNCH.DOC
+  size: 12372
+  date: '1986-11-03T05:08:46'
+  crc: '0x5592805e'
+- name: MENU.BAT
+  size: 34
+  date: '1986-10-10T00:44:00'
+  crc: '0x9f7bce3a'
+- name: MENU.DAT
+  size: 336
+  date: '1986-10-10T03:21:12'
+  crc: '0x1ec46243'
+- name: MENU6.EXE
+  size: 49840
+  date: '1986-11-22T00:24:48'
+  crc: '0xa097a7e4'
+- name: PAC-EM.EXE
+  size: 39296
+  date: '1983-08-05T08:41:56'
+  crc: '0x2f9168e6'
+- name: RED.EXE
+  size: 51120
+  date: '1986-11-22T07:16:10'
+  crc: '0x6fdb0831'
+- name: SUBMISSI.ONS
+  size: 369
+  date: '1986-10-15T01:06:48'
+  crc: '0xf65b8de7'
+- name: TANK.EXE
+  size: 47538
+  date: '1986-07-10T21:18:42'
+  crc: '0x91de26bc'
+- name: VERSION
+  size: 157
+  date: '1986-07-10T21:37:10'
+  crc: '0x3d9ff62f'

@@ -1,0 +1,47 @@
+filename: Lost Episodes Of Doom, The (Installer) (1995)(Sybex Inc) [Action, Addon].zip
+tdc_id: '3619.0'
+title:
+  screen: The Lost Episodes Of Doom
+publisher: Sybex Inc
+year: '1995'
+genre:
+- Action
+- Addon
+language: English
+date:
+  added: '2020-08-10T17:09:14'
+  last_modified: '2020-08-10T17:09:14'
+type: zip
+installer: true
+references:
+  dosid: DOS03240
+  exodos: Lost Episodes of Doom, The (1995).zip
+files:
+- name: dmbsp.exe
+  size: 27248
+  date: '1996-12-24T23:32:00'
+  crc: '0xe04824bc'
+- name: dmdeu.exe
+  size: 506019
+  date: '1996-12-24T23:32:00'
+  crc: '0xa2bfe992'
+- name: fixfor19.zip
+  size: 22186
+  date: '1996-12-24T23:32:00'
+  crc: '0x2bf9f215'
+- name: jptr_v40.exe
+  size: 847510
+  date: '1996-12-24T23:32:00'
+  crc: '0x926f35de'
+- name: jupiter.bat
+  size: 25
+  date: '1996-12-24T23:32:00'
+  crc: '0x499602ba'
+- name: setupdeu.bat
+  size: 1186
+  date: '1996-12-24T23:32:00'
+  crc: '0x7cd38d88'
+- name: setupjup.bat
+  size: 1180
+  date: '1996-12-24T23:32:00'
+  crc: '0x08ab27c0'

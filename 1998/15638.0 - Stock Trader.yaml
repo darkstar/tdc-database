@@ -1,0 +1,30 @@
+filename: Stock Trader v1.2 (1998)(Jace Masula) [Strategy, Simulation].zip
+tdc_id: '15638.0'
+title:
+  screen: Stock Trader
+publisher: Jace Masula
+year: '1998'
+genre:
+- Strategy
+- Simulation
+language: English
+date:
+  added: '2019-03-02T10:44:38'
+  last_modified: '2019-03-02T10:44:38'
+version: '1.2'
+type: zip
+commands:
+  play: STOCKMAN.EXE
+files:
+- name: STOCKMAN.EXE
+  size: 56610
+  date: '2005-11-20T15:36:16'
+  crc: '0x4c60026b'
+- name: company.txt
+  size: 440
+  date: '2005-11-02T21:18:58'
+  crc: '0x4b5c3adc'
+- name: stockman.bas
+  size: 14294
+  date: '2005-11-20T15:36:16'
+  crc: '0x0c66ab45'

@@ -1,0 +1,46 @@
+filename: Grand Slam Bridge (1986)(Cybron Corporation) [Strategy, Cards].zip
+tdc_id: '10887.0'
+parent_id: '10887.3'
+title:
+  box: Grand Slam Bridge
+publisher: Cybron Corporation
+year: '1986'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2020-03-06T11:07:28'
+  last_modified: '2020-03-06T11:07:28'
+type: zip
+commands:
+  play: CYBRON1.EXE
+files:
+- name: CYBRON.BIN
+  size: 16392
+  date: '1986-07-24T05:45:02'
+  crc: '0x1b66f173'
+- name: CYBRON1.EXE
+  size: 88352
+  date: '1986-07-24T05:56:26'
+  crc: '0xb78cef3b'
+- name: CYBRON2.BIN
+  size: 3840
+  date: '1986-07-21T08:55:00'
+  crc: '0x8d7bc0a9'
+- name: CYBRON2.OVL
+  size: 41264
+  date: '1986-07-24T06:21:34'
+  crc: '0xaac180d4'
+- name: CYBRON3.BIN
+  size: 1536
+  date: '1986-07-10T04:51:30'
+  crc: '0x85ddb56d'
+- name: CYBRON3.OVL
+  size: 98512
+  date: '1986-07-24T06:22:12'
+  crc: '0xd9bcd896'
+- name: CYBRON4.OVL
+  size: 136272
+  date: '1986-07-24T06:23:00'
+  crc: '0x39a525b6'

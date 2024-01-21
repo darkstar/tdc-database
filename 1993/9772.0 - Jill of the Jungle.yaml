@@ -1,0 +1,31 @@
+filename: Jill of the Jungle - The Complete Trilogy v1.2b (Installer) [SWR] (1993)(Epic MegaGames, Inc) [Action].zip
+tdc_id: '9772.0'
+title:
+  box: Jill of the Jungle
+publisher: Epic MegaGames, Inc
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T19:10:36'
+  last_modified: '2019-03-01T19:10:36'
+version: 1.2b
+type: zip
+tags:
+- SharewareRegistered
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 31464
+  date: '1992-08-21T20:34:20'
+  crc: '0x08c1de75'
+- name: INSTALL.FIL
+  size: 829
+  date: '1992-09-29T14:49:16'
+  crc: '0x93f7b579'
+- name: JILL123.PAK
+  size: 809014
+  date: '1992-10-04T00:46:46'
+  crc: '0x63330e3c'

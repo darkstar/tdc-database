@@ -1,0 +1,46 @@
+filename: Where in the World is Carmen Sandiego_ Enhanced v2.1 (1990)(Brøderbund Software, Inc.) [Adventure, Educational].zip
+tdc_id: '8009.17'
+title:
+  box: Where in the World is Carmen Sandiego_ Enhanced
+publisher: Brøderbund Software, Inc.
+year: '1990'
+genre:
+- Adventure
+- Educational
+language: English
+date:
+  added: '2019-03-01T18:34:30'
+  last_modified: '2019-03-01T18:34:30'
+version: '2.1'
+type: zip
+commands:
+  play: carmen.exe
+files:
+- name: acme.dat
+  size: 2112
+  date: '2009-02-28T14:36:54'
+  crc: '0x0ff80034'
+- name: carmen.dat
+  size: 101727
+  date: '1996-12-24T23:32:00'
+  crc: '0x790a2624'
+- name: carmen.exe
+  size: 118849
+  date: '1996-12-24T23:32:00'
+  crc: '0x881be752'
+- name: cities.dat
+  size: 168095
+  date: '1996-12-24T23:32:00'
+  crc: '0x369fd13d'
+- name: desktopd.cfg
+  size: 55
+  date: '1996-12-24T23:32:00'
+  crc: '0xc456b7e1'
+- name: digisnd.dat
+  size: 82828
+  date: '1996-12-24T23:32:00'
+  crc: '0x43505abb'
+- name: midisnd.dat
+  size: 7548
+  date: '1996-12-24T23:32:00'
+  crc: '0x72f1096c'

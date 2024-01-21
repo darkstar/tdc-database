@@ -1,0 +1,50 @@
+filename: CHAMP Kong v1.5 [SWR] (1997)(CHAMProgramming Corporation) [Action].zip
+tdc_id: '12071.5'
+parent_id: '12071.4'
+title:
+  screen: CHAMP Kong
+publisher: CHAMProgramming Corporation
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2020-08-18T22:48:04'
+  last_modified: '2020-08-18T22:48:04'
+version: '1.5'
+type: zip
+tags:
+- SharewareRegistered
+commands:
+  play: KONG.EXE
+references:
+  dosid: DOS01343
+  exodos: CHAMP Kong (1996).zip
+files:
+- name: KONG.EXE
+  size: 271988
+  date: '1997-10-12T21:29:32'
+  crc: '0x8585c316'
+- name: KONG.HLP
+  size: 49438
+  date: '1997-10-10T14:57:32'
+  crc: '0x3254a43b'
+- name: KONG.ICO
+  size: 766
+  date: '1997-08-05T00:25:46'
+  crc: '0x68e743c5'
+- name: KONG.RES
+  size: 307259
+  date: '1997-10-10T13:36:10'
+  crc: '0x922e2580'
+- name: KONG.TXT
+  size: 13693
+  date: '1997-10-13T12:12:34'
+  crc: '0x12d000ed'
+- name: ORDER.TXT
+  size: 5377
+  date: '1997-10-04T10:23:16'
+  crc: '0x1f3c5cf2'
+- name: WHATSNEW.TXT
+  size: 1089
+  date: '1997-10-12T23:12:38'
+  crc: '0xfe762522'

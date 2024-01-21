@@ -1,0 +1,33 @@
+filename: Smart Solitaire v1.01 [SW] (1991)(Bob Dolan) [Strategy, Cards].zip
+tdc_id: '15170.0'
+title:
+  screen: Smart Solitaire
+publisher: Bob Dolan
+year: '1991'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-01-27T13:58:06'
+  last_modified: '2019-01-27T13:58:06'
+version: '1.01'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: SMARTSOL.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 118
+  date: '1994-10-10T11:26:44'
+  crc: '0x8cd0a11a'
+- name: SMARTSOL.DOC
+  size: 10490
+  date: '1991-11-13T22:40:32'
+  crc: '0xdb9129b6'
+- name: SMARTSOL.EXE
+  size: 23396
+  date: '1990-03-22T11:08:54'
+  crc: '0xa54dbfb0'

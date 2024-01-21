@@ -1,0 +1,31 @@
+filename: Snake (1991)(Leon Fu) [Strategy].zip
+tdc_id: '789.0'
+title:
+  screen: Snake
+publisher: Leon Fu
+year: '1991'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:38:10'
+  last_modified: '2019-03-01T18:38:10'
+type: zip
+commands:
+  play: SNAKE.EXE
+files:
+- name: SNAKE.BAS
+  size: 42223
+  date: '1991-07-26T19:56:50'
+  crc: '0x9cf779b3'
+- name: SNAKE.DOC
+  size: 2533
+  date: '1991-07-26T19:55:24'
+  crc: '0x1266ee0d'
+- name: SNAKE.EXE
+  size: 81066
+  date: '1991-07-26T19:35:48'
+  crc: '0x432fcda6'
+- name: SNAKE.HIS
+  size: 374
+  date: '1991-07-26T19:38:12'
+  crc: '0xe22abfa2'

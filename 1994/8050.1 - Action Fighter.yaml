@@ -1,0 +1,31 @@
+filename: Action Fighter (Installer) (1994)(Kixx) [Action, Racing - Driving].zip
+tdc_id: '8050.1'
+title:
+  box: Action Fighter
+publisher: Kixx
+year: '1994'
+genre:
+- Action
+- Racing - Driving
+language: English
+date:
+  added: '2019-03-01T18:27:08'
+  last_modified: '2019-03-01T18:27:08'
+type: zip
+installer: true
+files:
+- name: ACTION.EXE
+  size: 77765
+  date: '1994-07-21T12:06:30'
+  crc: '0x56c89e9a'
+- name: INSTALL.BAT
+  size: 3730
+  date: '1994-07-21T12:20:02'
+  crc: '0x2ad4f955'
+- name: KIXX
+  size: 0
+  date: '1994-11-29T09:53:20'
+- name: LHA213.EXE
+  size: 44381
+  date: '1993-09-26T12:22:00'
+  crc: '0xe45194cb'

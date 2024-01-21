@@ -1,0 +1,50 @@
+filename: Livingstone Supongo 2 (1989)(Opera Soft S.A.) [Action].zip
+tdc_id: '11889.0'
+title:
+  box: Livingstone Supongo 2
+publisher: Opera Soft S.A.
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:28:14'
+  last_modified: '2019-03-01T18:28:14'
+type: zip
+commands:
+  play: LIVIN2.EXE
+references:
+  dosid: DOS03202
+  exodos: Livingstone Supongo 2 (1989).zip
+files:
+- name: LIV2CGA1.OVL
+  size: 45517
+  date: '1989-11-30T11:03:40'
+  crc: '0x94e4475a'
+- name: LIV2CGA2.OVL
+  size: 45181
+  date: '1989-11-30T11:03:46'
+  crc: '0x187bda98'
+- name: LIV2EGA1.OVL
+  size: 91589
+  date: '1989-12-01T20:31:48'
+  crc: '0x58b7c736'
+- name: LIV2EGA2.OVL
+  size: 92117
+  date: '1989-12-01T20:13:16'
+  crc: '0xb00b54e5'
+- name: LIV2_CGA.PIC
+  size: 16384
+  date: '1989-11-29T16:48:48'
+  crc: '0xc54319c5'
+- name: LIV2_EGA.PIC
+  size: 32000
+  date: '1989-11-29T17:02:52'
+  crc: '0x5de103db'
+- name: LIVIN2.CTR
+  size: 781
+  date: '1994-11-29T17:45:02'
+  crc: '0x08e4ce66'
+- name: LIVIN2.EXE
+  size: 2956
+  date: '1992-11-30T15:27:50'
+  crc: '0x301031f7'

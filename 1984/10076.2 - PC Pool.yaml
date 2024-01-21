@@ -1,0 +1,25 @@
+filename: PC Pool v0.10 (1984)(Dale Jurich) [Simulation, Sports].zip
+tdc_id: '10076.2'
+title:
+  screen: PC Pool
+publisher: Dale Jurich
+year: '1984'
+genre:
+- Simulation
+- Sports
+language: English
+date:
+  added: '2019-03-01T18:24:12'
+  last_modified: '2019-03-01T18:24:12'
+version: '0.10'
+type: zip
+commands:
+  play: PCPOOL.COM
+references:
+  dosid: DOS05951
+  exodos: PC Pool (1984).zip
+files:
+- name: PCPOOL.COM
+  size: 45056
+  date: '1986-05-10T01:11:00'
+  crc: '0x3fe70c5b'

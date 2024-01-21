@@ -1,0 +1,30 @@
+filename: Abadia del Crimen, La Remake (Es) (2000)(Opera Soft S.A., Antonio Giner Gonzalez) [Adventure].zip
+tdc_id: '4518.0'
+title:
+  box: La Abadia del Crimen Remake
+publisher: Opera Soft S.A., Antonio Giner Gonzalez
+year: '2000'
+genre: Adventure
+language: Spanish
+date:
+  added: '2019-03-02T10:47:26'
+  last_modified: '2019-03-02T10:47:26'
+type: zip
+commands:
+  play: crimen.exe
+references:
+  dosid: DOS08026
+  exodos: Abadia del Crimen, La (2000).zip
+files:
+- name: crimen.exe
+  size: 7509
+  date: '2000-12-23T05:58:52'
+  crc: '0x49281b4e'
+- name: imagen
+  size: 159072
+  date: '2000-12-22T23:57:12'
+  crc: '0xc4f595a3'
+- name: leeme.txt
+  size: 2523
+  date: '2011-05-02T12:48:58'
+  crc: '0x206b2a23'

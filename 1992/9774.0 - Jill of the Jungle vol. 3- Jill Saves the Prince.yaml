@@ -1,0 +1,46 @@
+filename: Jill of the Jungle vol. 3- Jill Saves the Prince v1.2b (Installer) [SWR] (1992)(Epic MegaGames, Inc.) [Action].zip
+tdc_id: '9774.0'
+title:
+  screen: 'Jill of the Jungle vol. 3: Jill Saves the Prince'
+publisher: Epic MegaGames, Inc.
+year: '1992'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:48:00'
+  last_modified: '2019-03-01T18:48:00'
+version: 1.2b
+type: zip
+tags:
+- SharewareRegistered
+installer: true
+commands:
+  play: GO.EXE
+references:
+  dosid: DOS02919
+  exodos: Jill of the Jungle - Jill Saves the Prince (1992).zip
+files:
+- name: GO.EXE
+  size: 22992
+  date: '1994-09-27T17:59:22'
+  crc: '0x7dc57a44'
+- name: INSTALL.BIN
+  size: 4000
+  date: '1994-09-02T17:00:36'
+  crc: '0x201e41ae'
+- name: INSTALL.DAT
+  size: 24
+  date: '1994-10-19T17:29:34'
+  crc: '0x3ea8775a'
+- name: INSTALL.PCX
+  size: 5075
+  date: '1994-09-27T17:01:32'
+  crc: '0x29b5bbf2'
+- name: JILL3.X00
+  size: 75
+  date: '1994-10-19T17:29:34'
+  crc: '0xe0214b77'
+- name: JILL3.Z01
+  size: 258835
+  date: '1994-10-19T17:29:24'
+  crc: '0xb1708b0c'

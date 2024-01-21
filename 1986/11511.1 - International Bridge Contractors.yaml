@@ -1,0 +1,31 @@
+filename: International Bridge Contractors v1.10 (1986)(Greystone Software) [Simulation].zip
+tdc_id: '11511.1'
+title:
+  screen: International Bridge Contractors
+publisher: Greystone Software
+year: '1986'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:24:48'
+  last_modified: '2019-03-01T18:24:48'
+version: '1.10'
+type: zip
+commands:
+  play: IBC.EXE
+references:
+  dosid: DOS02816
+  exodos: International Bridge Contractors (1985).zip
+files:
+- name: IBC.BAS
+  size: 30459
+  date: '2001-09-05T15:49:10'
+  crc: '0x8ab3725b'
+- name: IBC.DOC
+  size: 18645
+  date: '2001-09-05T15:47:38'
+  crc: '0xf77d1a44'
+- name: IBC.EXE
+  size: 66162
+  date: '1992-09-17T00:18:58'
+  crc: '0xa05fa075'

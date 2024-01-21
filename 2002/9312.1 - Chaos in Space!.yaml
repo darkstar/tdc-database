@@ -1,0 +1,29 @@
+filename: Chaos in Space! v1.2 (2002)(Richard Kelly) [Adventure, Interactive Fiction].zip
+tdc_id: '9312.1'
+title:
+  screen: Chaos in Space!
+publisher: Richard Kelly
+year: '2002'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T10:55:54'
+  last_modified: '2019-03-02T10:55:54'
+version: '1.2'
+type: zip
+commands:
+  play: CHAOS.EXE
+references:
+  dosid: DOS00034
+  exodos: Chaos in Space! (2002).zip
+files:
+- name: CHAOS.BAS
+  size: 30545
+  date: '2002-01-24T20:33:58'
+  crc: '0x2e7c61ce'
+- name: CHAOS.EXE
+  size: 74520
+  date: '2002-01-24T20:34:46'
+  crc: '0xd9272286'

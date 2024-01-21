@@ -1,0 +1,28 @@
+filename: LeapGuy (1996)(Steven Hanov) [Action].zip
+tdc_id: '6323.0'
+title:
+  screen: LeapGuy
+publisher: Steven Hanov
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:11:16'
+  last_modified: '2019-03-02T10:11:16'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 27
+  date: '2018-03-16T19:35:24'
+  crc: '0xedeb454e'
+- name: LEAPGUY.BAS
+  size: 31619
+  date: '2018-03-10T00:58:38'
+  crc: '0x8db8dcbc'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'

@@ -1,0 +1,30 @@
+filename: Death Valley (1982)(Usborne Publishing Ltd) [Action, Racing].zip
+tdc_id: '17297.0'
+title:
+  screen: Death Valley
+publisher: Usborne Publishing Ltd
+year: '1982'
+genre:
+- Action
+- Racing
+language: English
+date:
+  added: '2023-03-16T07:48:36'
+  last_modified: '2023-03-16T07:48:36'
+type: zip
+media: Type-In
+commands:
+  play: Go.bat
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T12:00:00'
+  crc: '0x92293842'
+- name: DeathV.bas
+  size: 901
+  date: '2022-08-03T18:07:26'
+  crc: '0x92d1b953'
+- name: Go.bat
+  size: 13
+  date: '1980-01-01T00:00:00'
+  crc: '0x289be65d'

@@ -1,0 +1,58 @@
+filename: Hannibal r930316 (Installer) (De) (1993)(Starbyte Software) [Strategy].zip
+tdc_id: '11091.7'
+parent_id: '11091.10'
+title:
+  box: Hannibal
+  qualifier: Installer
+publisher: Starbyte Software
+year: '1993'
+genre: Strategy
+language: German
+date:
+  added: '2020-10-06T20:51:40'
+  last_modified: '2023-09-03T11:27:09'
+release: '930316'
+type: zip
+media: 720K
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/9931/hannibal/
+files:
+- name: H.PAK
+  size: 23746
+  date: '1993-03-05T18:00:40'
+  crc: '0x53e307b8'
+- name: HAN.PAK
+  size: 175329
+  date: '1993-03-15T16:47:16'
+  crc: '0xb4977301'
+- name: HB1.PAK
+  size: 730072
+  date: '1993-03-05T14:17:52'
+  crc: '0x35f983b2'
+- name: HB2.PAK
+  size: 730052
+  date: '1993-03-05T14:17:56'
+  crc: '0x4176d252'
+- name: HB3.PAK
+  size: 729979
+  date: '1993-03-05T14:17:58'
+  crc: '0xba393425'
+- name: HB4.PAK
+  size: 112541
+  date: '1993-03-05T18:00:12'
+  crc: '0x16c58323'
+- name: INSTALL.CFG
+  size: 807
+  date: '1993-03-16T17:48:10'
+  crc: '0xa8e97ba8'
+- name: INSTALL.EXE
+  size: 24836
+  date: '1991-10-10T12:41:28'
+  crc: '0xab4772c2'
+- name: P.PAK
+  size: 125797
+  date: '1993-03-05T18:00:26'
+  crc: '0x25b7cfde'

@@ -1,0 +1,59 @@
+filename: Attack of the Mutant Camels PC v1.1 [FW] (1999)(RetroSpec) [Action].zip
+tdc_id: '8972.0'
+title:
+  screen: Attack of the Mutant Camels PC
+publisher: RetroSpec
+year: '1999'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:45:18'
+  last_modified: '2019-03-02T10:45:18'
+version: '1.1'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: amc.exe
+files:
+- name: CWSDPMI.DOC
+  size: 7073
+  date: '2016-12-27T10:59:34'
+  crc: '0xdfc52298'
+- name: CWSDPMI.EXE
+  size: 25916
+  date: '2016-12-27T10:59:34'
+  crc: '0x8760f94d'
+- name: README.html
+  size: 2664
+  date: '1999-11-16T16:55:00'
+  crc: '0x8464d358'
+- name: amc.dat
+  size: 612354
+  date: '1999-12-21T10:29:28'
+  crc: '0x14301841'
+- name: amc.exe
+  size: 247460
+  date: '1999-12-21T11:48:30'
+  crc: '0x9c70753a'
+- name: goat.dat
+  size: 169876
+  date: '1999-10-27T14:31:00'
+  crc: '0x72cbd4df'
+- name: llama.dat
+  size: 144271
+  date: '1999-10-27T14:31:00'
+  crc: '0x1f1c1d7b'
+- name: logo.jpg
+  size: 54984
+  date: '1999-11-15T10:12:00'
+  crc: '0x23fae454'
+- name: retro.dat
+  size: 239727
+  date: '1999-10-24T14:41:08'
+  crc: '0x3b9b4b23'
+- name: sheep.dat
+  size: 415506
+  date: '1999-10-27T14:31:00'
+  crc: '0x9fdf6314'

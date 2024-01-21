@@ -1,0 +1,43 @@
+filename: Tank (1997)(Alexander Larkin) [Action].zip
+tdc_id: '16443.0'
+title:
+  screen: Tank
+publisher: Alexander Larkin
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:38:16'
+  last_modified: '2019-03-02T10:38:16'
+type: zip
+commands:
+  play: TANKI.EXE
+files:
+- name: ERROR200.TXT
+  size: 176
+  date: '1999-08-30T18:53:48'
+  crc: '0x3f52a6f1'
+- name: HEAD.TXT
+  size: 361
+  date: '1998-08-13T15:06:38'
+  crc: '0x10972bc6'
+- name: README.TXT
+  size: 1476
+  date: '1999-08-30T19:41:08'
+  crc: '0x31ae98e5'
+- name: TANK.DAT
+  size: 204998
+  date: '1998-01-15T20:50:04'
+  crc: '0xb511f5f0'
+- name: TANK.PAL
+  size: 496
+  date: '1998-01-15T20:50:04'
+  crc: '0xc8ac0396'
+- name: TANK.PCT
+  size: 356
+  date: '1998-01-15T20:50:04'
+  crc: '0x30c0bf63'
+- name: TANKI.EXE
+  size: 48432
+  date: '1999-08-30T19:29:40'
+  crc: '0x4855e2fe'

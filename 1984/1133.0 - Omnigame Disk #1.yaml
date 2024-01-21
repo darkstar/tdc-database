@@ -1,0 +1,63 @@
+filename: 'Omnigame Disk #1 (1984)(Bellsoft, Inc., Omnimax, Ltd.) [Action, Compilation].zip'
+tdc_id: '1133.0'
+title:
+  screen: 'Omnigame Disk #1'
+publisher: Bellsoft, Inc., Omnimax, Ltd.
+year: '1984'
+genre:
+- Action
+- Compilation
+language: English
+date:
+  added: '2019-03-01T18:24:12'
+  last_modified: '2019-03-01T18:24:12'
+type: zip
+media: Download
+compilation: true
+commands:
+  play: GO.BAT
+files:
+- name: BEASTIES.BAS
+  size: 16000
+  date: '1984-11-11T13:55:34'
+  crc: '0xae35b882'
+- name: BLK-JACK.BAS
+  size: 40071
+  date: '1989-12-06T08:27:02'
+  crc: '0x3465b008'
+- name: GO.BAT
+  size: 20
+  date: '2019-01-12T20:16:22'
+  crc: '0x5ada1af4'
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1988-10-05T02:00:08'
+  crc: '0x2a44af39'
+- name: MADMAZES.BAS
+  size: 12928
+  date: '1980-01-01T00:07:36'
+  crc: '0x7e3f14bb'
+- name: MENU.BAS
+  size: 7936
+  date: '1984-11-11T16:37:34'
+  crc: '0x3eacc8e9'
+- name: RESET.BAS
+  size: 11264
+  date: '1984-11-11T16:29:02'
+  crc: '0x974b3d27'
+- name: RRR-BIG.BAS
+  size: 26752
+  date: '1984-11-11T13:00:02'
+  crc: '0x956bc768'
+- name: RRR-SML.BAS
+  size: 25472
+  date: '1984-11-11T13:23:10'
+  crc: '0x8804ee7c'
+- name: SCORES.DAT
+  size: 1408
+  date: '1984-11-10T10:34:16'
+  crc: '0xcfa5b4f6'
+- name: WIGGLER.BAS
+  size: 15488
+  date: '1984-11-11T11:26:16'
+  crc: '0x44012232'

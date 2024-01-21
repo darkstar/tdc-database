@@ -1,0 +1,80 @@
+filename: Zmiy v0.85 [FW] (2013)(Mateusz Viste) [Action].zip
+tdc_id: '15739.0'
+title:
+  screen: Zmiy
+publisher: Mateusz Viste
+year: '2013'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:58:04'
+  last_modified: '2019-03-02T10:58:04'
+version: '0.85'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: zmiy.com
+files:
+- name: appinfo\
+  size: 0
+  date: '2016-01-22T19:42:24'
+- name: appinfo\zmiy.lsm
+  size: 363
+  date: '2013-07-29T11:29:30'
+  crc: '0xeeb2edb0'
+- name: license.txt
+  size: 35821
+  date: '2013-07-29T10:22:22'
+  crc: '0xba8cd1a6'
+- name: source\
+  size: 0
+  date: '2016-01-22T19:42:24'
+- name: source\zmiy\
+  size: 0
+  date: '2016-01-22T19:42:24'
+- name: source\zmiy\io.c
+  size: 4038
+  date: '2013-07-29T20:36:04'
+  crc: '0xb7eb5434'
+- name: source\zmiy\io.h
+  size: 1112
+  date: '2013-07-29T20:36:58'
+  crc: '0xaa664640'
+- name: source\zmiy\levels.c
+  size: 6386
+  date: '2013-07-29T10:06:50'
+  crc: '0x89df4394'
+- name: source\zmiy\levels.h
+  size: 1718
+  date: '2013-07-29T09:56:04'
+  crc: '0xafd9008a'
+- name: source\zmiy\license.txt
+  size: 35821
+  date: '2013-07-29T10:22:22'
+  crc: '0xba8cd1a6'
+- name: source\zmiy\makefile
+  size: 587
+  date: '2013-07-29T20:52:00'
+  crc: '0x81d0b931'
+- name: source\zmiy\zmiy.c
+  size: 14833
+  date: '2013-07-29T20:40:10'
+  crc: '0xdd52c3da'
+- name: source\zmiy\zmiy.lsm
+  size: 363
+  date: '2013-07-29T11:29:30'
+  crc: '0xeeb2edb0'
+- name: source\zmiy\zmiy.txt
+  size: 2526
+  date: '2013-07-29T20:50:18'
+  crc: '0x4dc62131'
+- name: zmiy.com
+  size: 7414
+  date: '2013-07-29T20:52:10'
+  crc: '0x628a19c9'
+- name: zmiy.txt
+  size: 2526
+  date: '2013-07-29T20:50:18'
+  crc: '0x4dc62131'

@@ -1,0 +1,32 @@
+filename: Tank v1.1 (1995)(Kevin Hayes) [Action].zip
+tdc_id: '3770.0'
+title:
+  screen: Tank
+publisher: Kevin Hayes
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T09:06:02'
+  last_modified: '2019-03-02T09:06:02'
+version: '1.1'
+type: zip
+commands:
+  play: TANK.EXE
+files:
+- name: EGAVGA.BGI
+  size: 5554
+  date: '1991-02-28T01:01:00'
+  crc: '0x116c5498'
+- name: TANK.EXE
+  size: 73709
+  date: '1995-06-24T15:13:00'
+  crc: '0x6d0f8d43'
+- name: TANK.IDX
+  size: 8
+  date: '1995-06-24T04:40:40'
+  crc: '0x86be83a3'
+- name: TANK.PKG
+  size: 26718
+  date: '1995-06-24T04:40:40'
+  crc: '0x834d83e1'

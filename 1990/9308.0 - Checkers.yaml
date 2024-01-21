@@ -1,0 +1,88 @@
+filename: Checkers v1.61 [SW] (1990)(Judson S. McCranie) [Strategy, Board].zip
+tdc_id: '9308.0'
+title:
+  screen: Checkers
+publisher: Judson S. McCranie
+year: '1990'
+genre:
+- Strategy
+- Board
+language: English
+date:
+  added: '2019-03-01T18:32:04'
+  last_modified: '2019-03-01T18:32:04'
+version: '1.61'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: CHECKERS.EXE
+references:
+  dosid: DOS06772
+  exodos: Checkers (1989).zip
+files:
+- name: ATT.BGI
+  size: 6269
+  date: '1988-08-29T05:00:00'
+  crc: '0xd33206e7'
+- name: CGA.BGI
+  size: 6253
+  date: '1988-08-29T05:00:00'
+  crc: '0x17cbdd92'
+- name: CHECK1.DAT
+  size: 689
+  date: '1990-04-22T23:45:38'
+  crc: '0x90c6f233'
+- name: CHECKERS.DOC
+  size: 18275
+  date: '1990-01-26T01:06:50'
+  crc: '0xc60e153c'
+- name: CHECKERS.DTA
+  size: 3
+  date: '1990-04-22T23:45:36'
+  crc: '0x8f93c1e6'
+- name: CHECKERS.EXE
+  size: 84334
+  date: '1990-01-26T01:06:10'
+  crc: '0x80d24a20'
+- name: CHECKERS.OPT
+  size: 23
+  date: '1990-04-22T23:38:00'
+  crc: '0x33b219fa'
+- name: CHECKPOS.DTA
+  size: 15280
+  date: '1990-01-26T01:06:10'
+  crc: '0x4057c4a5'
+- name: EGAVGA.BGI
+  size: 5363
+  date: '1988-08-29T05:00:00'
+  crc: '0x06d36962'
+- name: HERC.BGI
+  size: 6125
+  date: '1988-08-29T05:00:00'
+  crc: '0xc1f40043'
+- name: IBM8514.BGI
+  size: 6665
+  date: '1988-08-29T05:00:00'
+  crc: '0x0350d1bd'
+- name: LITT.CHR
+  size: 2138
+  date: '1988-08-29T05:00:00'
+  crc: '0xe18c9d7c'
+- name: OMBUDSMN.ASP
+  size: 998
+  date: '1990-01-26T01:06:02'
+  crc: '0x2d1c87e3'
+- name: ORDERBLK.DOC
+  size: 1109
+  date: '1990-01-26T01:06:02'
+  crc: '0xdf2c2399'
+- name: PC3270.BGI
+  size: 6029
+  date: '1988-08-29T05:00:00'
+  crc: '0x552be7f3'
+- name: SANS.CHR
+  size: 5438
+  date: '1988-08-29T05:00:00'
+  crc: '0x06f847c6'

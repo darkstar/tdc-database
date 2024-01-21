@@ -1,0 +1,29 @@
+filename: Digger v2 (1994)(Sparcie) [Action].zip
+tdc_id: '13167.0'
+title:
+  screen: Digger
+publisher: Sparcie
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T21:56:06'
+  last_modified: '2019-03-01T21:56:06'
+version: '2'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: DIGGER2A.BAS
+  size: 4436
+  date: '2016-05-04T19:11:24'
+  crc: '0x12f56275'
+- name: GO.BAT
+  size: 24
+  date: '2018-02-09T13:01:36'
+  crc: '0x75326059'
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1988-10-04T19:00:08'
+  crc: '0x2a44af39'

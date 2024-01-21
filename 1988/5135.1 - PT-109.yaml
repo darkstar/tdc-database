@@ -1,0 +1,39 @@
+filename: PT-109 (CGA) [a1] (1988)(Spectrum HoloByte, Inc.) [Simulation].zip
+tdc_id: '5135.1'
+title:
+  box: PT-109
+  qualifier: CGA
+publisher: Spectrum HoloByte, Inc.
+year: '1988'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:26:40'
+  last_modified: '2019-03-01T18:26:40'
+type: zip
+tags:
+- Alternate: 1
+commands:
+  play: PT109.EXE
+references:
+  mobygames: http://www.mobygames.com/game/dos/pt-109
+files:
+- name: DIALOG1.DAT
+  size: 4169
+  date: '1988-10-28T14:59:58'
+  crc: '0xc6b23e1a'
+- name: PT.DAT
+  size: 768
+  date: '1988-11-15T15:18:02'
+  crc: '0x94813270'
+- name: PT.RES
+  size: 127828
+  date: '1988-09-07T10:13:46'
+  crc: '0x4f80db7e'
+- name: PT109.EXE
+  size: 216714
+  date: '1988-10-28T18:17:28'
+  crc: '0xf5c116d4'
+- name: RADIO.TXT
+  size: 0
+  date: '1991-02-21T09:18:42'

@@ -1,0 +1,29 @@
+filename: PC Star Lanes (1982)(Bernauer, Higgins, Irvine) [Strategy, Simulation].zip
+tdc_id: '1024.0'
+title:
+  screen: PC Star Lanes
+publisher: Bernauer, Higgins, Irvine
+year: '1982'
+genre:
+- Strategy
+- Simulation
+language: English
+date:
+  added: '2019-03-01T18:23:02'
+  last_modified: '2019-03-01T18:23:02'
+type: zip
+commands:
+  play: STARLANE.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: STARLANE.BAS
+  size: 15104
+  date: '1982-05-23T12:00:00'
+  crc: '0xb873b1df'
+- name: STARLANE.BAT
+  size: 18
+  date: '1980-01-01T00:00:00'
+  crc: '0xf4910cd9'

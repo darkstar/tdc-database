@@ -1,0 +1,69 @@
+filename: Chuck Yeager's Air Combat (1991)(Electronic Arts, Inc., Soft-World) [Simulation][!].zip
+tdc_id: '5272.1'
+parent_id: '5272.4'
+title:
+  box: Chuck Yeager's Air Combat
+publisher: Electronic Arts, Inc., Soft-World
+year: '1991'
+genre: Simulation
+language: English
+date:
+  added: '2022-06-26T15:11:24'
+  last_modified: '2023-09-02T15:33:32'
+type: zip
+tags:
+- KnownGood
+media: 360K
+commands:
+  play: PLAY.BAT
+references:
+  mobygames: https://www.mobygames.com/game/108/chuck-yeagers-air-combat/
+files:
+- name: 1A.LIB
+  size: 34426
+  date: '1991-06-15T09:36:00'
+  crc: '0x84166a47'
+- name: 1B.LIB
+  size: 101659
+  date: '1991-06-15T09:36:00'
+  crc: '0x23486289'
+- name: 2A.LIB
+  size: 276273
+  date: '1991-06-15T09:36:00'
+  crc: '0x3f061193'
+- name: 2B.LIB
+  size: 85679
+  date: '1991-06-15T09:36:00'
+  crc: '0xbd1dc3f6'
+- name: 3A.LIB
+  size: 339508
+  date: '1991-06-15T09:36:00'
+  crc: '0xea5b0c28'
+- name: 4A.LIB
+  size: 292628
+  date: '1991-06-15T09:36:00'
+  crc: '0x8dee0e9c'
+- name: INSTALL.BAT
+  size: 4016
+  date: '1991-06-15T09:36:00'
+  crc: '0x8e260335'
+- name: MONO.COM
+  size: 1636
+  date: '1991-11-19T12:30:46'
+  crc: '0x9bc3c6b9'
+- name: PART_TWO.BAT
+  size: 1948
+  date: '1991-06-15T09:36:00'
+  crc: '0x45b2cf90'
+- name: PLAY.BAT
+  size: 50
+  date: '1991-12-20T17:21:56'
+  crc: '0xaf829a76'
+- name: YEAGER.EXE
+  size: 304136
+  date: '1991-06-15T09:36:00'
+  crc: '0xbe6a19ea'
+- name: YEAGER.EX_
+  size: 184134
+  date: '1991-06-15T09:36:00'
+  crc: '0x52961bad'

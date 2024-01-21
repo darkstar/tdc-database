@@ -1,0 +1,27 @@
+filename: Worm City (1983)(Theodore W. Perkins) [Action].zip
+tdc_id: '1094.0'
+title:
+  screen: Worm City
+publisher: Theodore W. Perkins
+year: '1983'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:23:22'
+  last_modified: '2019-03-01T18:23:22'
+type: zip
+commands:
+  play: WORMCITY.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: WORMCITY.BAS
+  size: 10880
+  date: '1983-10-09T14:50:44'
+  crc: '0x454a5aef'
+- name: WORMCITY.BAT
+  size: 18
+  date: '2014-12-19T02:35:56'
+  crc: '0x8154cdf7'

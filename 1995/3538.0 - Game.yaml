@@ -1,0 +1,36 @@
+filename: Game (1995)(Ben Taitelbaum) [Action].zip
+tdc_id: '3538.0'
+title:
+  screen: Game
+publisher: Ben Taitelbaum
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T08:44:18'
+  last_modified: '2019-03-02T08:44:18'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GAME.ANS
+  size: 3193
+  date: '1995-05-27T19:35:40'
+  crc: '0xb2573f08'
+- name: GAME.BAS
+  size: 18520
+  date: '1995-04-21T18:03:36'
+  crc: '0x86b265a1'
+- name: GAME.SCR
+  size: 116
+  date: '1995-05-27T19:34:08'
+  crc: '0x992099d1'
+- name: GO.BAT
+  size: 24
+  date: '2018-03-14T19:30:40'
+  crc: '0x4e9e8e96'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'

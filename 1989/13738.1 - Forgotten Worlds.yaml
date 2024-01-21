@@ -1,0 +1,55 @@
+filename: Forgotten Worlds (EGA) (1989)(Capcom Co., Ltd.) [Action].zip
+tdc_id: '13738.1'
+title:
+  box: Forgotten Worlds
+  qualifier: EGA
+publisher: Capcom Co., Ltd.
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2020-02-16T20:57:22'
+  last_modified: '2020-02-16T20:57:22'
+type: zip
+commands:
+  play: FW.EXE
+references:
+  dosid: DOS02282
+  exodos: Forgotten Worlds (1991).zip
+files:
+- name: BIOSS.BIN
+  size: 25491
+  date: '1980-01-01T02:51:20'
+  crc: '0x1008a7b4'
+- name: BITS.BIN
+  size: 103486
+  date: '1989-09-15T10:11:14'
+  crc: '0xf7324a24'
+- name: BLOCKS.BIN
+  size: 204323
+  date: '1989-08-30T10:46:10'
+  crc: '0x46198548'
+- name: FW.EXE
+  size: 68238
+  date: '1990-01-31T11:25:46'
+  crc: '0xf15fe5ce'
+- name: FW.EX_
+  size: 68238
+  date: '1990-01-31T11:25:46'
+  crc: '0xafb37bcc'
+- name: INTSCRNS.BIN
+  size: 45767
+  date: '1980-01-01T00:42:30'
+  crc: '0x1a9654a6'
+- name: MAPS.BIN
+  size: 24822
+  date: '1989-08-30T10:38:10'
+  crc: '0x3559a300'
+- name: MASKS.BIN
+  size: 38572
+  date: '1989-10-26T10:23:50'
+  crc: '0xbeb41751'
+- name: SPRITES.BIN
+  size: 161786
+  date: '1989-10-26T10:21:12'
+  crc: '0x76a9af04'

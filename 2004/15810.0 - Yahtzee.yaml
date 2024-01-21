@@ -1,0 +1,28 @@
+filename: Yahtzee (2004)(Mark Campbell) [Strategy].zip
+tdc_id: '15810.0'
+title:
+  screen: Yahtzee
+publisher: Mark Campbell
+year: '2004'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:57:00'
+  last_modified: '2019-03-02T10:57:00'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 27
+  date: '2018-12-11T12:20:54'
+  crc: '0xb387b00a'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: YAHTZEE.BAS
+  size: 13273
+  date: '2018-02-17T23:46:10'
+  crc: '0x11891034'

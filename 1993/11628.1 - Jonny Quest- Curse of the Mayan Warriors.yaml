@@ -1,0 +1,64 @@
+filename: Jonny Quest- Curse of the Mayan Warriors (Installer) [f1] (1993)(Hollyware Entertainment) [Action, Adventure].zip
+tdc_id: '11628.1'
+title:
+  box: 'Jonny Quest: Curse of the Mayan Warriors'
+publisher: Hollyware Entertainment
+year: '1993'
+genre:
+- Action
+- Adventure
+language: English
+date:
+  added: '2019-03-01T19:10:42'
+  last_modified: '2019-03-01T19:10:42'
+type: zip
+tags:
+- Fixed: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK.ID
+  size: 26
+  date: '1993-12-17T13:59:12'
+  crc: '0x11435326'
+- name: DRIVERS.RED
+  size: 261892
+  date: '1993-12-17T17:07:54'
+  crc: '0x74530536'
+- name: INSTALL.DAT
+  size: 13284
+  date: '2012-11-12T19:57:50'
+  crc: '0x17e9e560'
+- name: INSTALL.DA_
+  size: 13284
+  date: '1993-12-17T19:32:20'
+  crc: '0x455d36b5'
+- name: INSTALL.EXE
+  size: 102983
+  date: '1993-09-20T03:22:00'
+  crc: '0x9f8e597a'
+- name: JQDATA.RED
+  size: 360720
+  date: '1993-12-17T17:09:50'
+  crc: '0x6d115849'
+- name: JQG0.RED
+  size: 205940
+  date: '1993-12-17T17:12:08'
+  crc: '0x1778c913'
+- name: JQG1.RED
+  size: 155590
+  date: '1993-12-17T17:14:02'
+  crc: '0x0d7065cd'
+- name: JQSCEN1.RED
+  size: 74121
+  date: '1993-12-17T17:17:02'
+  crc: '0x148de3d4'
+- name: MSFX.RED
+  size: 4862
+  date: '1993-12-17T17:15:22'
+  crc: '0x583d180d'
+- name: ROOT.RED
+  size: 1307733
+  date: '1993-12-17T17:27:52'
+  crc: '0x941346a6'

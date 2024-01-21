@@ -1,0 +1,39 @@
+filename: CoTris v1.2 (1992)(Scott Abdey) [Action, Strategy].zip
+tdc_id: '12188.0'
+title:
+  screen: CoTris
+publisher: Scott Abdey
+year: '1992'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-09-30T07:01:52'
+  last_modified: '2019-09-30T07:01:52'
+version: '1.2'
+type: zip
+commands:
+  play: COTRIS.EXE
+notes: compilation, needed?
+files:
+- name: COTRIS.CFG
+  size: 2
+  date: '1995-08-17T13:45:24'
+  crc: '0x41d912ff'
+- name: COTRIS.DOC
+  size: 6608
+  date: '1992-06-03T15:15:32'
+  crc: '0xc20500a5'
+- name: COTRIS.EXE
+  size: 55212
+  date: '1992-06-03T15:15:32'
+  crc: '0xc4a3ae4e'
+- name: COTRIS.HS
+  size: 260
+  date: '1995-08-17T13:45:24'
+  crc: '0xf7368aa1'
+- name: READ.ME
+  size: 236
+  date: '1992-06-03T15:15:32'
+  crc: '0x3de6f2f7'

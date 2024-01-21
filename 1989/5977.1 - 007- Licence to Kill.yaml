@@ -1,0 +1,66 @@
+filename: 007- Licence to Kill (CGA) [b1] (1989)(Domark Limited) [Action, Racing - Driving].zip
+tdc_id: '5977.1'
+title:
+  box: '007: Licence to Kill'
+  qualifier: CGA
+publisher: Domark Limited
+year: '1989'
+genre:
+- Action
+- Racing - Driving
+language: English
+date:
+  added: '2021-08-13T08:17:30'
+  last_modified: '2021-08-13T08:17:30'
+type: zip
+tags:
+- Bad: 1
+commands:
+  play: BOND.EXE
+references:
+  mobygames: http://www.mobygames.com/game/dos/007-licence-to-kill
+files:
+- name: BLKDATA.DAT
+  size: 46392
+  date: '1989-07-16T20:25:32'
+  crc: '0xcec2a37f'
+- name: BLKPTR.DAT
+  size: 4608
+  date: '1989-07-16T20:25:32'
+  crc: '0xce97ced1'
+- name: BOND.EXE
+  size: 52232
+  date: '1989-10-16T23:03:28'
+  crc: '0x22feed0c'
+- name: CHARS.DAT
+  size: 2470
+  date: '1989-07-17T09:39:32'
+  crc: '0xa323fda0'
+- name: LEV11.DAT
+  size: 30720
+  date: '1989-07-17T15:12:08'
+  crc: '0xec0afb2b'
+- name: LEV12.DAT
+  size: 30720
+  date: '1989-07-17T15:12:10'
+  crc: '0x34ffc616'
+- name: LEV13.DAT
+  size: 30720
+  date: '1989-07-17T15:12:12'
+  crc: '0x8a359ba9'
+- name: LEV21.DAT
+  size: 30720
+  date: '1989-07-17T15:12:14'
+  crc: '0x084a449c'
+- name: LEV31.DAT
+  size: 30720
+  date: '1989-07-17T15:12:16'
+  crc: '0xd8d111a1'
+- name: SPDATA.DAT
+  size: 82870
+  date: '1989-07-16T20:20:56'
+  crc: '0xe0e4781e'
+- name: SPPTR.DAT
+  size: 4608
+  date: '1989-07-16T20:20:54'
+  crc: '0x2a629019'

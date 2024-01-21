@@ -1,0 +1,35 @@
+filename: Tommy's Space Panels [SW] (1987)(Tommy's Toys) [Strategy, Puzzle].zip
+tdc_id: '7155.0'
+title:
+  screen: Tommy's Space Panels
+publisher: Tommy's Toys
+year: '1987'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-03-01T18:25:44'
+  last_modified: '2019-03-01T18:25:44'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: PANELS.EXE
+references:
+  dosid: DOS07170
+  exodos: Tommy's Space Panels (1987).zip
+files:
+- name: PANELS.DOC
+  size: 1415
+  date: '1988-12-30T07:06:00'
+  crc: '0x80557e31'
+- name: PANELS.EXE
+  size: 130840
+  date: '1988-12-30T07:06:22'
+  crc: '0x3e2459ab'
+- name: TOMMYS.DOC
+  size: 6603
+  date: '1989-10-10T07:06:00'
+  crc: '0x526e8de9'

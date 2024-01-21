@@ -1,0 +1,26 @@
+filename: Strip Blackjack v1.3 (1986)(Micro Magic) [Strategy, Cards].zip
+tdc_id: '1310.0'
+title:
+  screen: Strip Blackjack
+publisher: Micro Magic
+year: '1986'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:24:58'
+  last_modified: '2019-03-01T18:24:58'
+version: '1.3'
+type: zip
+commands:
+  play: BJACK.COM
+files:
+- name: BJACK.COM
+  size: 28324
+  date: '1986-11-21T18:51:04'
+  crc: '0x9a1bee71'
+- name: BJACK.DAT
+  size: 14600
+  date: '1980-01-01T00:31:58'
+  crc: '0xf020399b'

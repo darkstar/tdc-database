@@ -1,0 +1,28 @@
+filename: Zork- The Great Underground Empire r75 [DC] (1983)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '15702.2'
+title:
+  box: 'Zork: The Great Underground Empire'
+publisher: Infocom, Inc.
+year: '1983'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2022-06-08T15:21:04'
+  last_modified: '2022-06-08T15:21:04'
+release: '75'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: ZORK1.COM
+files:
+- name: ZORK1.COM
+  size: 12928
+  date: '1980-01-01T00:00:00'
+  crc: '0x771ac2f7'
+- name: ZORK1.DAT
+  size: 113344
+  date: '2008-01-14T05:06:24'
+  crc: '0xd577c983'

@@ -1,0 +1,60 @@
+filename: 3D Jack's Game ED2 edition v1.2 (2004)(Dr. Jacques Mallah) [Action].zip
+tdc_id: '7615.0'
+title:
+  screen: 3D Jack's Game ED2 edition
+publisher: Dr. Jacques Mallah
+year: '2004'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:56:48'
+  last_modified: '2019-03-02T10:56:48'
+version: '1.2'
+type: zip
+commands:
+  play: 1PS-ED2.EXE
+files:
+- name: 1PS-ED2.BAS
+  size: 38163
+  date: '2004-03-19T20:54:02'
+  crc: '0x8e9bdb23'
+- name: 1PS-ED2.EXE
+  size: 99626
+  date: '2004-03-19T20:54:16'
+  crc: '0x20e9dec6'
+- name: BMPLOAD.BAS
+  size: 5922
+  date: '2004-03-14T14:30:02'
+  crc: '0x145691e3'
+- name: Boris.bmp
+  size: 65078
+  date: '1997-10-03T20:54:00'
+  crc: '0x562b7d54'
+- name: level0.txt
+  size: 3292
+  date: '2004-03-18T15:02:08'
+  crc: '0x401bf6d8'
+- name: level1.txt
+  size: 2503
+  date: '2004-03-18T15:00:56'
+  crc: '0xf73fb17c'
+- name: readme 1ps-ed2.txt
+  size: 2099
+  date: '2004-03-19T20:54:34'
+  crc: '0x1fe1a4cb'
+- name: startlev.txt
+  size: 10
+  date: '2004-03-17T23:38:54'
+  crc: '0xcdf8b37b'
+- name: textur0.bmp
+  size: 65078
+  date: '2004-03-16T22:48:08'
+  crc: '0x2c764e97'
+- name: textur1.bmp
+  size: 65078
+  date: '2004-03-16T23:16:56'
+  crc: '0x1da0337d'
+- name: textur2.bmp
+  size: 65078
+  date: '2004-03-18T01:03:24'
+  crc: '0x58655f7e'

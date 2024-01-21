@@ -1,0 +1,47 @@
+filename: Corridor 7- Alien Invasion (Installer) (1994)(Capstone Software) [Action][!].zip
+tdc_id: '9341.1'
+parent_id: '9341.8'
+title:
+  box: 'Corridor 7: Alien Invasion'
+publisher: Capstone Software
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T21:55:24'
+  last_modified: '2019-03-01T21:55:24'
+type: zip
+tags:
+- KnownGood
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: C70001
+  size: 22
+  date: '1994-04-06T13:07:10'
+  crc: '0xb29ed70c'
+- name: C70002
+  size: 22
+  date: '1994-04-06T13:08:50'
+  crc: '0xb29ed70c'
+- name: C71.LZH
+  size: 1299538
+  date: '1994-04-04T12:30:46'
+  crc: '0xf4a44db3'
+- name: C72.LZH
+  size: 1397168
+  date: '1994-03-30T16:06:48'
+  crc: '0x2dcc31b5'
+- name: EZI.CFG
+  size: 619
+  date: '1994-04-06T12:35:12'
+  crc: '0x6f8894f9'
+- name: INSTALL.EXE
+  size: 70614
+  date: '1993-07-12T11:10:48'
+  crc: '0x1d30ffb9'
+- name: INSTALL.OLB
+  size: 56778
+  date: '1994-04-06T12:50:54'
+  crc: '0x55f057f2'

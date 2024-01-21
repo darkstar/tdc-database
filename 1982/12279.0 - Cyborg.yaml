@@ -1,0 +1,38 @@
+filename: Cyborg [DC] (1982)(Sentient Software) [Adventure, Interactive Fiction].zip
+tdc_id: '12279.0'
+title:
+  box: Cyborg
+publisher: Sentient Software
+year: '1982'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:22:58'
+  last_modified: '2019-03-01T18:22:58'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: START.COM
+references:
+  dosid: DOS05859
+  exodos: Cyborg (1982).zip
+files:
+- name: CYBORG.DAT
+  size: 163840
+  date: '2005-10-08T12:46:54'
+  crc: '0x61faf358'
+- name: NOTE.TXT
+  size: 813
+  date: '2005-10-09T21:18:32'
+  crc: '0xf0227b4c'
+- name: SAVEGAME.DAT
+  size: 163840
+  date: '2005-10-09T21:08:36'
+  crc: '0xb5aef33f'
+- name: START.COM
+  size: 1209
+  date: '2005-10-09T21:14:26'
+  crc: '0xeca923f2'

@@ -1,0 +1,52 @@
+filename: Quarantine (Installer) [a1] (1994)(GameTek, Inc.) [Action, Racing - Driving].zip
+tdc_id: '10808.3'
+title:
+  box: Quarantine
+publisher: GameTek, Inc.
+year: '1994'
+genre:
+- Action
+- Racing - Driving
+language: English
+date:
+  added: '2019-03-01T22:02:56'
+  last_modified: '2019-03-01T22:02:56'
+type: zip
+tags:
+- Alternate: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK0
+  size: 1393245
+  date: '1994-09-20T13:07:52'
+  crc: '0x062bef7c'
+- name: DISK1
+  size: 1454067
+  date: '1994-09-20T13:09:32'
+  crc: '0xe5dffa2e'
+- name: DISK2
+  size: 1454403
+  date: '1994-09-20T13:11:58'
+  crc: '0xefd80267'
+- name: DISK3
+  size: 1452972
+  date: '1994-09-20T13:15:32'
+  crc: '0xd3faa0d3'
+- name: DISK4
+  size: 1245342
+  date: '1994-09-20T13:17:38'
+  crc: '0x28b6186f'
+- name: INFO.LST
+  size: 13335
+  date: '1994-09-20T13:17:38'
+  crc: '0x3a34c502'
+- name: INSTALL.EXE
+  size: 44827
+  date: '1994-09-18T21:22:08'
+  crc: '0xbc86258b'
+- name: README.TXT
+  size: 2833
+  date: '1994-09-20T14:06:00'
+  crc: '0x6a1aebe1'

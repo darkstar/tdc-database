@@ -1,0 +1,32 @@
+filename: Donkey (1981)(IBM, Microsoft) [Racing - Driving].zip
+tdc_id: '5175.0'
+title:
+  screen: Donkey
+publisher: IBM, Microsoft
+year: '1981'
+genre: Racing - Driving
+language: English
+date:
+  added: '2019-03-01T18:22:54'
+  last_modified: '2019-03-01T18:22:54'
+type: zip
+media: Download
+commands:
+  play: PLAY.BAT
+files:
+- name: DONKEY.BAS
+  size: 4651
+  date: '1981-08-04T12:00:00'
+  crc: '0x36a0e169'
+- name: GWBASIC.EXE
+  size: 80592
+  date: '2001-05-04T06:58:22'
+  crc: '0x8462d0e4'
+- name: PLAY.BAT
+  size: 15
+  date: '2009-11-22T22:06:38'
+  crc: '0x96f695ab'
+- name: SAMPLES.BAS
+  size: 2432
+  date: '1981-08-04T00:00:00'
+  crc: '0x59e7a2a8'

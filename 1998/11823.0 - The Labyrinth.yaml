@@ -1,0 +1,86 @@
+filename: Labyrinth, The vD1.6 (1998)(Eugene Alvin Villar) [Action].zip
+tdc_id: '11823.0'
+title:
+  screen: The Labyrinth
+publisher: Eugene Alvin Villar
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:42:16'
+  last_modified: '2019-03-02T10:42:16'
+version: D1.6
+type: zip
+commands:
+  play: labyrnth.exe
+files:
+- name: asm\
+  size: 0
+  date: '2019-01-24T06:48:08'
+- name: asm\PALIO.ASM
+  size: 135
+  date: '1998-09-07T05:49:46'
+  crc: '0xa9b1bd1e'
+- name: asm\keyb.asm
+  size: 231
+  date: '1998-10-30T07:24:30'
+  crc: '0xd41c222b'
+- name: asm\sprite.asm
+  size: 1031
+  date: '1998-11-02T09:26:54'
+  crc: '0xb4f2c2bf'
+- name: graphics\
+  size: 0
+  date: '2019-01-24T06:48:08'
+- name: graphics\COMPASS.GFX
+  size: 3903
+  date: '1998-12-14T20:19:00'
+  crc: '0x01c9cc6e'
+- name: graphics\GAMEBAR.GFX
+  size: 10887
+  date: '1998-11-21T22:39:50'
+  crc: '0xd084d60d'
+- name: graphics\MAPBG.GFX
+  size: 7391
+  date: '1998-11-28T09:36:10'
+  crc: '0xf17626f5'
+- name: graphics\wall021.gfx
+  size: 56793
+  date: '1998-04-30T09:51:42'
+  crc: '0xc60a6dfa'
+- name: graphics\wall022.gfx
+  size: 53795
+  date: '1998-04-30T09:51:42'
+  crc: '0x75e0c25f'
+- name: graphics\wall023.gfx
+  size: 50927
+  date: '1998-04-30T09:51:44'
+  crc: '0x9a1579e5'
+- name: graphics\wall024.gfx
+  size: 62291
+  date: '1998-04-30T09:51:44'
+  crc: '0x0f09cc94'
+- name: graphics\wall031.gfx
+  size: 56793
+  date: '1998-05-29T13:03:02'
+  crc: '0xcfe258d7'
+- name: graphics\wall032.gfx
+  size: 53795
+  date: '1998-05-29T13:03:02'
+  crc: '0x16c28b9b'
+- name: graphics\wall033.gfx
+  size: 50927
+  date: '1998-05-29T13:03:02'
+  crc: '0xcb379954'
+- name: graphics\wall034.gfx
+  size: 62291
+  date: '1998-05-29T13:03:02'
+  crc: '0xbf79273c'
+- name: labyrnth.exe
+  size: 87056
+  date: '1998-12-19T09:36:32'
+  crc: '0x53d6ce63'
+- name: readme.txt
+  size: 2024
+  date: '1998-12-15T19:59:02'
+  crc: '0xf1a0521f'

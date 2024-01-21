@@ -1,0 +1,62 @@
+filename: Simulman 08 - Il giardino virtuale (Installer) (It) (1993)(Simulmondo) [Action, Adventure].zip
+tdc_id: '15096.0'
+title:
+  box: Simulman 08 - Il giardino
+publisher: Simulmondo
+year: '1993'
+genre:
+- Action
+- Adventure
+language: Italian
+date:
+  added: '2019-03-01T21:07:44'
+  last_modified: '2022-11-22T10:44:09'
+type: zip
+installer: true
+commands:
+  play: INSTALL.BAT
+files:
+- name: 1.U
+  size: 535416
+  date: '1993-12-18T17:08:32'
+  crc: '0x5244acc5'
+- name: 2.U
+  size: 531851
+  date: '1993-12-18T17:09:34'
+  crc: '0x832b06fb'
+- name: ANI1.ANI
+  size: 25370
+  date: '1993-08-26T09:34:26'
+  crc: '0xdf0abdbf'
+- name: ANIBAN.ANI
+  size: 6147
+  date: '1993-05-27T17:59:32'
+  crc: '0xef1dcda0'
+- name: GENE.CHV
+  size: 6077
+  date: '1993-08-25T11:17:10'
+  crc: '0x008d9588'
+- name: INST.EXE
+  size: 38477
+  date: '1993-09-07T19:03:50'
+  crc: '0xeeffdeda'
+- name: INSTALL.BAT
+  size: 66
+  date: '1993-06-05T18:19:20'
+  crc: '0xa2faf4c2'
+- name: INST_DAT.KXX
+  size: 737
+  date: '1993-12-15T16:41:58'
+  crc: '0x119b8fe4'
+- name: INST_MAN.KIT
+  size: 6761
+  date: '1993-12-17T16:17:52'
+  crc: '0xab672d73'
+- name: INST_TXT.KIT
+  size: 4251
+  date: '1993-10-27T17:10:50'
+  crc: '0x30750314'
+- name: RESETTA.COM
+  size: 19
+  date: '1992-12-17T15:23:44'
+  crc: '0xc6a39750'

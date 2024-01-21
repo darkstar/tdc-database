@@ -1,0 +1,31 @@
+filename: Shining Castle, The (demo) (2001)(Daniel Eriksson) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '5937.0'
+title:
+  screen: The Shining Castle
+  qualifier: demo
+publisher: Daniel Eriksson
+year: '2001'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-02T10:55:44'
+  last_modified: '2019-03-02T10:55:44'
+type: zip
+demo: true
+commands:
+  play: game.exe
+files:
+- name: Readme.txt
+  size: 110
+  date: '2001-05-24T04:54:26'
+  crc: '0x43c4b8d8'
+- name: Shininc.rpg
+  size: 462891
+  date: '2001-05-24T04:42:00'
+  crc: '0x86f48e66'
+- name: game.exe
+  size: 117003
+  date: '2001-05-22T21:48:56'
+  crc: '0x64cf9c29'

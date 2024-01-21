@@ -1,0 +1,34 @@
+filename: Bridge 4.0 (1983)(Artworx Software Company, Inc.) [Strategy, Cards].zip
+tdc_id: '12962.0'
+title:
+  box: Bridge 4.0
+publisher: Artworx Software Company, Inc.
+year: '1983'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2023-07-25T15:09:06'
+  last_modified: '2023-07-25T15:09:06'
+type: zip
+requirements:
+  cpu:
+    min: '8088'
+commands:
+  play: PLAY.BAT
+references:
+  mobygames: https://www.mobygames.com/game/136029/bridge-40/
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T12:00:00'
+  crc: '0x92293842'
+- name: BRIDGE.BAS
+  size: 22680
+  date: '1980-01-01T00:20:38'
+  crc: '0xbe3fded3'
+- name: PLAY.BAT
+  size: 19
+  date: '1980-01-01T00:00:00'
+  crc: '0xfcaa8a8d'

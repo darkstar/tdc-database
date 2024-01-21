@@ -1,0 +1,42 @@
+filename: Rick Dangerous (1989)(Microplay Software) [Action, Adventure][!].zip
+tdc_id: '14895.0'
+title:
+  box: Rick Dangerous
+publisher: Microplay Software
+year: '1989'
+genre:
+- Action
+- Adventure
+language: English
+date:
+  added: '2021-07-22T03:29:00'
+  last_modified: '2021-07-22T03:29:00'
+type: zip
+tags:
+- KnownGood
+commands:
+  play: RICK.COM
+references:
+  dosid: DOS04306
+  exodos: Rick Dangerous (1989).zip
+files:
+- name: RICK.CGA
+  size: 97469
+  date: '1989-08-07T14:24:34'
+  crc: '0x0c5813ef'
+- name: RICK.COM
+  size: 2769
+  date: '1989-08-07T14:18:28'
+  crc: '0x66229256'
+- name: RICK.CO_
+  size: 3535
+  date: '1989-08-07T14:18:28'
+  crc: '0x2cb7ce1c'
+- name: RICK.EGA
+  size: 123255
+  date: '1989-08-07T14:23:12'
+  crc: '0xc8ae082f'
+- name: RICK.TND
+  size: 64257
+  date: '1989-08-07T15:44:30'
+  crc: '0x96fb59f5'

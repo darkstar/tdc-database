@@ -1,0 +1,65 @@
+filename: Cyril Cyberpunk [SWR] (1996)(Reality Studios) [Action].zip
+tdc_id: '12288.0'
+title:
+  screen: Cyril Cyberpunk
+publisher: Reality Studios
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:02:14'
+  last_modified: '2019-03-02T10:02:14'
+type: zip
+tags:
+- SharewareRegistered
+commands:
+  play: CYRIL.EXE
+  setup: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/20296/cyril-cyberpunk/
+  dosid: DOS01616
+  exodos: Cyril Cyberpunk (1996).zip
+files:
+- name: CD.DRV
+  size: 1
+  date: '1996-02-16T19:48:10'
+  crc: '0x0ed4e242'
+- name: CYRIL.EXE
+  size: 483285
+  date: '1996-02-16T19:48:10'
+  crc: '0x442191aa'
+- name: DOS4GW.EXE
+  size: 265420
+  date: '1996-02-16T19:48:10'
+  crc: '0xcb214447'
+- name: RIL\
+  size: 0
+  date: '1996-02-16T19:48:10'
+- name: RIL\CC2D.RIL
+  size: 1499153
+  date: '1996-02-16T19:48:10'
+  crc: '0x06f67575'
+- name: RIL\LEVEL.RIL
+  size: 17391331
+  date: '1996-02-16T19:48:10'
+  crc: '0x0cb1db7b'
+- name: RIL\MENU.RIL
+  size: 22641678
+  date: '1996-02-16T19:48:10'
+  crc: '0x4095e7d2'
+- name: RIL\MUSIC.RIL
+  size: 4453432
+  date: '1996-02-16T19:48:10'
+  crc: '0x8a23d6e2'
+- name: RIL\SOUND.RIL
+  size: 1406516
+  date: '1996-02-16T19:48:10'
+  crc: '0x4b927ff0'
+- name: SETUP.EXE
+  size: 52066
+  date: '1996-02-16T19:48:10'
+  crc: '0x5c921836'
+- name: TROUBLE.TXT
+  size: 6582
+  date: '1996-02-16T19:48:10'
+  crc: '0x2357ec76'

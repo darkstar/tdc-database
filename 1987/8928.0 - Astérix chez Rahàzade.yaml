@@ -1,0 +1,65 @@
+filename: Astérix chez Rahàzade (Fr) (1987)(Coktel Vision, Cedic-Nathan) [Action, Adventure].zip
+tdc_id: '8928.0'
+title:
+  box: Astérix chez Rahàzade
+publisher: Coktel Vision, Cedic-Nathan
+year: '1987'
+genre:
+- Action
+- Adventure
+language: French
+date:
+  added: '2020-12-10T09:36:42'
+  last_modified: '2020-12-10T09:36:42'
+type: zip
+commands:
+  play: LOADER.COM
+files:
+- name: ASTERIX.MUS
+  size: 2048
+  date: '1980-01-01T01:01:00'
+  crc: '0x892cf831'
+- name: LETTRES.BIN
+  size: 1025
+  date: '1980-01-01T00:03:48'
+  crc: '0x4ca1e574'
+- name: LOADER.COM
+  size: 49902
+  date: '1987-10-12T20:11:58'
+  crc: '0xf21adc48'
+- name: LOADER.CO_
+  size: 49902
+  date: '1987-10-12T20:11:58'
+  crc: '0x6d085e1f'
+- name: LOADER0.I00
+  size: 28288
+  date: '1987-10-12T10:27:28'
+  crc: '0xbb68a440'
+- name: LOADER0.TOT
+  size: 12001
+  date: '1987-10-12T10:27:30'
+  crc: '0xb0928f6c'
+- name: LOADER1.I00
+  size: 187136
+  date: '1987-10-12T11:53:30'
+  crc: '0x77ac6eae'
+- name: LOADER1.I01
+  size: 7424
+  date: '1987-10-12T11:42:04'
+  crc: '0x8d333a27'
+- name: LOADER1.TOT
+  size: 30707
+  date: '1987-10-12T11:53:32'
+  crc: '0x0fe95af8'
+- name: LOADER2.I00
+  size: 100608
+  date: '1987-10-12T14:49:00'
+  crc: '0x20da326a'
+- name: LOADER2.I01
+  size: 4096
+  date: '1987-10-12T14:41:20'
+  crc: '0xcc926085'
+- name: LOADER2.TOT
+  size: 19056
+  date: '1987-10-12T14:49:02'
+  crc: '0xe1b8aacf'

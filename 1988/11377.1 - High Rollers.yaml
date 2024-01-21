@@ -1,0 +1,90 @@
+filename: High Rollers v2.2 (1988)(Box Office, Inc.) [Strategy, Trivia].zip
+tdc_id: '11377.1'
+title:
+  box: High Rollers
+publisher: Box Office, Inc.
+year: '1988'
+genre:
+- Strategy
+- Trivia
+language: English
+date:
+  added: '2019-03-01T18:26:16'
+  last_modified: '2023-07-19T21:27:28'
+version: '2.2'
+type: zip
+commands:
+  play: GAME.BAT
+references:
+  mobygames: https://www.mobygames.com/game/dos/high-rollers
+  dosid: DOS02603
+  exodos: High Rollers (1988).zip
+files:
+- name: BO_SCR.PIC
+  size: 16392
+  date: '1992-01-22T05:58:20'
+  crc: '0xb907cb30'
+- name: BO_SHP.PIC
+  size: 16392
+  date: '1987-12-13T01:55:52'
+  crc: '0x9f190bbf'
+- name: BO_TITLE.EXE
+  size: 8870
+  date: '1987-12-16T11:45:28'
+  crc: '0x7b1b392c'
+- name: FNT.PIC
+  size: 16392
+  date: '1988-01-26T17:40:00'
+  crc: '0x00188cd7'
+- name: FNT2.PIC
+  size: 16392
+  date: '1988-01-26T17:42:50'
+  crc: '0x0ef836c7'
+- name: GAME.BAT
+  size: 29
+  date: '1987-12-16T11:51:08'
+  crc: '0x0f2f13cd'
+- name: HELP_FIL.BAK
+  size: 2692
+  date: '1988-01-27T15:42:50'
+  crc: '0xb648f18f'
+- name: HELP_FIL.HLP
+  size: 2703
+  date: '1980-01-01T01:36:16'
+  crc: '0x9c0c31dc'
+- name: HR_BS.PIC
+  size: 16392
+  date: '1988-01-26T18:17:34'
+  crc: '0x1f562144'
+- name: HR_DT.PIC
+  size: 16392
+  date: '1980-01-01T00:57:22'
+  crc: '0x7849c404'
+- name: HR_IS.PIC
+  size: 16392
+  date: '1988-01-26T17:46:14'
+  crc: '0xdb806441'
+- name: HR_MB.PIC
+  size: 16392
+  date: '1988-01-26T18:17:06'
+  crc: '0x2c2231c8'
+- name: H_ROLL.EXE
+  size: 53482
+  date: '1988-02-02T23:28:02'
+  crc: '0x7b1f2c3c'
+- name: QF1.QST
+  size: 40070
+  date: '1988-02-03T03:57:52'
+  crc: '0xbad48916'
+- name: RND.DAT
+  size: 16000
+  date: '1987-12-11T19:59:58'
+  crc: '0xafbab816'
+- name: VERS.DAT
+  size: 84
+  date: '1980-01-01T01:39:12'
+  crc: '0x8aa6206e'
+- name: WINK.PIC
+  size: 16392
+  date: '1992-01-21T00:14:30'
+  crc: '0x322af6fc'

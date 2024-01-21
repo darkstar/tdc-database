@@ -1,0 +1,30 @@
+filename: Demon's Forge [DC] (1987)(Mastertronic, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '13071.0'
+title:
+  box: Demon's Forge
+publisher: Mastertronic, Inc.
+year: '1987'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:25:16'
+  last_modified: '2019-03-01T18:25:16'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: FORGE.EXE
+references:
+  dosid: DOS05865
+  exodos: Demon's Forge (1987).zip
+files:
+- name: FORGE.EXE
+  size: 61789
+  date: '1999-08-23T14:31:00'
+  crc: '0x10a6550e'
+- name: GAME.DAT
+  size: 164352
+  date: '1999-08-23T14:40:00'
+  crc: '0xc8b22d65'

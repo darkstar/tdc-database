@@ -1,0 +1,46 @@
+filename: Battle Chess v1.0 r881114 (1988)(Interplay Productions, Inc.) [Strategy, Chess].zip
+tdc_id: '12470.17'
+parent_id: '12470.6'
+title:
+  box: Battle Chess
+publisher: Interplay Productions, Inc.
+year: '1988'
+genre:
+- Strategy
+- Chess
+language: English
+date:
+  added: '2023-10-26T13:14:03'
+  last_modified: '2023-10-26T13:14:03'
+version: '1.0'
+release: '881114'
+type: zip
+media: 720K
+commands:
+  play: CHESS.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1950/battle-chess/
+files:
+- name: ALLCANM1
+  size: 185726
+  date: '1988-11-12T19:20:34'
+  crc: '0x80ba0192'
+- name: ALLCANM2
+  size: 339592
+  date: '1988-11-03T11:15:48'
+  crc: '0x074d879d'
+- name: CHESS.EXE
+  size: 83415
+  date: '1988-11-14T14:33:54'
+  crc: '0xbf3d68fc'
+- name: CHESS.EX_
+  size: 83415
+  date: '1988-11-14T14:33:54'
+  crc: '0x3d2b7c4a'
+- name: INSTALL.EXE
+  size: 8837
+  date: '1988-11-14T13:39:26'
+  crc: '0xaef0d7fd'
+- name: STARTUP
+  size: 0
+  date: '1988-11-14T00:04:20'

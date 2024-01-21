@@ -1,0 +1,61 @@
+filename: Nomad v1.01 (1994)(GameTek, Inc.) [Action, Simulation].zip
+tdc_id: '14506.2'
+title:
+  box: Nomad
+publisher: GameTek, Inc.
+year: '1994'
+genre:
+- Action
+- Simulation
+language: English
+date:
+  added: '2019-03-01T22:02:24'
+  last_modified: '2019-03-01T22:02:24'
+version: '1.01'
+type: zip
+commands:
+  play: NOMAD.EXE
+references:
+  dosid: DOS03771
+  exodos: Nomad (1993).zip
+files:
+- name: ANIM.DAT
+  size: 872264
+  date: '1993-03-02T14:11:32'
+  crc: '0xb918163c'
+- name: CONVERSE.DAT
+  size: 435236
+  date: '2000-03-14T00:21:10'
+  crc: '0x526c8c99'
+- name: EZI.HST
+  size: 162
+  date: '1996-08-04T15:34:36'
+  crc: '0xfdfb5585'
+- name: INVENT.DAT
+  size: 419412
+  date: '1993-09-21T14:32:52'
+  crc: '0x21415857'
+- name: NOMAD.CFG
+  size: 22
+  date: '2002-01-24T22:45:40'
+  crc: '0x771cc554'
+- name: NOMAD.EXE
+  size: 425296
+  date: '1994-02-01T14:16:58'
+  crc: '0xcbc54c37'
+- name: NOMAD.RTP
+  size: 582
+  date: '1994-02-22T19:20:22'
+  crc: '0x3fc0b313'
+- name: READ.ME
+  size: 388
+  date: '1994-02-22T19:26:50'
+  crc: '0xcf2d321c'
+- name: SAMPLES.DAT
+  size: 2531852
+  date: '1993-10-01T14:18:36'
+  crc: '0xf2f328e4'
+- name: TEST.DAT
+  size: 1420951
+  date: '1994-01-04T22:15:50'
+  crc: '0xe8e6e6e4'

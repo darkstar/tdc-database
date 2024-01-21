@@ -1,0 +1,26 @@
+filename: Snake (No) (1985)(Roar A. Lauritzsen) [Action].zip
+tdc_id: '1222.0'
+title:
+  screen: Snake
+publisher: Roar A. Lauritzsen
+year: '1985'
+genre: Action
+language: Norwegian
+date:
+  added: '2019-03-01T18:24:34'
+  last_modified: '2019-03-01T18:24:34'
+type: zip
+commands:
+  play: SNAKE.COM
+references:
+  dosid: DOS04625
+  exodos: Snake Game (1992).zip
+files:
+- name: SNAKE.COM
+  size: 29244
+  date: '1984-08-31T00:27:16'
+  crc: '0x2d6673a5'
+- name: SNAKE.DTA
+  size: 1927
+  date: '1990-03-18T19:27:58'
+  crc: '0x282284d7'

@@ -1,0 +1,29 @@
+filename: Rain (Pinball Construction Set) [a2] (1986)(R.G. Hays) [Action].zip
+tdc_id: '14714.2'
+title:
+  screen: Rain
+  qualifier: Pinball Construction Set
+publisher: R.G. Hays
+year: '1986'
+genre: Action
+language: English
+date:
+  added: '2020-11-27T11:29:10'
+  last_modified: '2020-11-27T11:29:10'
+type: zip
+tags:
+- Alternate: 2
+requirements:
+  cpu:
+    min: '8088'
+media: Download
+commands:
+  play: RAIN.EXE
+references:
+  dosid: DOS15710
+  exodos: Rain (1985).zip
+files:
+- name: RAIN.EXE
+  size: 64768
+  date: '1985-12-14T14:50:56'
+  crc: '0xb6e11604'

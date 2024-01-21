@@ -1,0 +1,42 @@
+filename: Empire v1.10 (1986)(Northwest Software) [Strategy, Simulation].zip
+tdc_id: '13456.0'
+title:
+  screen: Empire
+publisher: Northwest Software
+year: '1986'
+genre:
+- Strategy
+- Simulation
+language: English
+date:
+  added: '2019-03-01T18:24:46'
+  last_modified: '2019-03-01T18:24:46'
+version: '1.10'
+type: zip
+commands:
+  play: EMPIRE.EXE
+files:
+- name: A.MAP
+  size: 885
+  date: '1983-06-17T09:27:32'
+  crc: '0x2ebd62f5'
+- name: B.MAP
+  size: 933
+  date: '1983-10-23T00:53:02'
+  crc: '0x2eef5959'
+- name: C.MAP
+  size: 800
+  date: '1985-01-27T11:27:02'
+  crc: '0x958eded4'
+- name: EMPIRE.EXE
+  size: 67264
+  date: '1994-08-28T12:44:50'
+  crc: '0x282dcd11'
+- name: copyright
+  size: 340
+  date: '2000-04-12T07:37:34'
+  crc: '0xe81f241b'
+- name: emphlp.txt
+  size: 24025
+  date: '2000-01-07T17:19:56'
+  crc: '0xc73ce712'

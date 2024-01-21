@@ -1,0 +1,43 @@
+filename: DOOM v1.2 (Installer) [SW] (1994)(id Software, Inc.) [Action].zip
+tdc_id: '9454.31'
+parent_id: '9454.32'
+title:
+  screen: DOOM
+publisher: id Software, Inc.
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T21:56:14'
+  last_modified: '2019-03-01T21:56:14'
+version: '1.2'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+files:
+- name: DEICE.EXE
+  size: 17303
+  date: '1994-02-17T01:20:00'
+  crc: '0xaad4552c'
+- name: DOOM1_2S.1
+  size: 1435648
+  date: '1994-02-17T01:20:00'
+  crc: '0x35e03b5c'
+- name: DOOM1_2S.2
+  size: 802842
+  date: '1994-02-17T01:20:00'
+  crc: '0x469ab928'
+- name: DOOM1_2S.DAT
+  size: 188
+  date: '1994-02-17T01:20:00'
+  crc: '0xc2185b2e'
+- name: INSTALL.BAT
+  size: 176
+  date: '1994-02-17T01:20:00'
+  crc: '0x0195d9fd'
+- name: SYSOP.DOC
+  size: 922
+  date: '1994-02-17T01:20:00'
+  crc: '0x9f2d30d8'

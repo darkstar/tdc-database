@@ -1,0 +1,39 @@
+filename: Deep Water 2 (Pl) (1998)(M&Ch Company) [Action].zip
+tdc_id: '13031.0'
+title:
+  screen: Deep Water 2
+publisher: M&Ch Company
+year: '1998'
+genre: Action
+language: Polish
+date:
+  added: '2019-03-02T10:41:06'
+  last_modified: '2019-03-02T10:41:06'
+type: zip
+commands:
+  play: DEEP2.EXE
+files:
+- name: DEEP2.EXE
+  size: 32832
+  date: '1998-11-01T16:08:18'
+  crc: '0x8bc17f2a'
+- name: DRIVERS\BOLD.CHR
+  size: 14670
+  date: '1992-10-27T07:00:00'
+  crc: '0x3450b2a7'
+- name: DRIVERS\EGAVGA.BGI
+  size: 5527
+  date: '1992-10-27T07:00:00'
+  crc: '0xa33014d5'
+- name: DRIVERS\LITT.CHR
+  size: 5131
+  date: '1992-10-27T07:00:00'
+  crc: '0xfeac5336'
+- name: DRIVERS\TRIP.CHR
+  size: 16677
+  date: '1992-10-27T07:00:00'
+  crc: '0xba867503'
+- name: README.TXT
+  size: 227
+  date: '1998-11-08T17:57:06'
+  crc: '0x7f205845'

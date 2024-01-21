@@ -1,0 +1,35 @@
+filename: Dash (demo) (1991)(Waher Data AB) [Action, Strategy].zip
+tdc_id: '607.0'
+title:
+  screen: Dash
+  qualifier: demo
+publisher: Waher Data AB
+year: '1991'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:35:32'
+  last_modified: '2019-03-01T18:35:32'
+type: zip
+demo: true
+commands:
+  play: DASH.EXE
+files:
+- name: DASH.EXE
+  size: 25360
+  date: '1991-02-08T18:25:16'
+  crc: '0x2e06dac4'
+- name: DATA0.DAT
+  size: 64769
+  date: '1991-02-01T03:36:50'
+  crc: '0xa2bcf6a1'
+- name: VGA.FNT
+  size: 2816
+  date: '1990-11-06T16:37:24'
+  crc: '0xea98aa32'
+- name: VGA.RES
+  size: 142544
+  date: '1991-09-06T11:07:00'
+  crc: '0x49838912'

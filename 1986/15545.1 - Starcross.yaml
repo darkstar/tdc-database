@@ -1,0 +1,61 @@
+filename: Starcross r17 (Installer) (1986)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '15545.1'
+title:
+  box: Starcross
+publisher: Infocom, Inc.
+year: '1986'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2022-06-11T21:05:04'
+  last_modified: '2022-06-11T21:05:04'
+release: '17'
+type: zip
+installer: true
+files:
+- name: AF.EXE
+  size: 13168
+  date: '1985-05-28T13:27:14'
+  crc: '0xac30980c'
+- name: GAMEDIR.COM
+  size: 62
+  date: '1985-05-31T10:45:50'
+  crc: '0xee6703b0'
+- name: INSTALL.BAT
+  size: 2176
+  date: '1985-06-28T12:42:44'
+  crc: '0x32bb420a'
+- name: INSTALLH.BAT
+  size: 1152
+  date: '1985-07-01T16:17:08'
+  crc: '0x1dce9881'
+- name: SCAN.COM
+  size: 114
+  date: '1985-05-23T11:58:58'
+  crc: '0x15be874f'
+- name: SETUP.EXE
+  size: 1584
+  date: '1985-06-28T10:53:14'
+  crc: '0x62ddb282'
+- name: SETUP.INF
+  size: 3
+  date: '1985-05-04T20:39:12'
+  crc: '0x8bdcb97d'
+- name: STARCROS.COM
+  size: 11402
+  date: '1986-03-23T17:21:20'
+  crc: '0xcc16b086'
+- name: STARCROS.DAT
+  size: 83970
+  date: '1986-03-23T17:26:58'
+  crc: '0x67f26aba'
+- name: STATLINE.BAT
+  size: 2304
+  date: '1985-06-28T13:27:58'
+  crc: '0xa605f617'
+- name: YES.COM
+  size: 93
+  date: '1984-11-30T12:02:30'
+  crc: '0x01bd6af9'

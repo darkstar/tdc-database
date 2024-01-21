@@ -1,0 +1,32 @@
+filename: Pacmania v1.1 [SW][a1] (1990)(Sophisticated Software Systems) [Action].zip
+tdc_id: '10573.1'
+title:
+  screen: Pacmania
+publisher: Sophisticated Software Systems
+year: '1990'
+genre: Action
+language: English
+date:
+  added: '2011-01-08T11:45:02'
+  last_modified: '2011-01-08T11:45:02'
+version: '1.1'
+type: zip
+tags:
+- Shareware
+- Alternate: 1
+media: Download
+commands:
+  play: PACMANIA.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 228
+  date: '1992-02-05T12:30:00'
+  crc: '0x31950267'
+- name: PACMANIA.DOC
+  size: 1879
+  date: '1990-12-25T13:10:00'
+  crc: '0x1f34537a'
+- name: PACMANIA.EXE
+  size: 53284
+  date: '1990-12-25T13:10:00'
+  crc: '0x057dc672'

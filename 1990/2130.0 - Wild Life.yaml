@@ -1,0 +1,38 @@
+filename: Wild Life (En)(De)(Fr) (1990)(New Deal Productions) [Action].zip
+tdc_id: '2130.0'
+title:
+  screen: Wild Life
+publisher: New Deal Productions
+year: '1990'
+genre: Action
+language:
+- English
+- French
+- German
+date:
+  added: '2019-03-01T18:34:30'
+  last_modified: '2023-10-14T15:39:32'
+type: zip
+commands:
+  play: WILD.EXE
+references:
+  mobygames: https://www.mobygames.com/game/54191/wild-life/
+  dosid: DOS05596
+  exodos: Wild Life (1990).zip
+files:
+- name: NEWSCORE
+  size: 115
+  date: '2088-01-01T00:00:00'
+  crc: '0xba3a6c8a'
+- name: WILD.EXE
+  size: 92738
+  date: '1990-01-26T10:42:32'
+  crc: '0x78be2ab3'
+- name: WILDCGA.CC1
+  size: 96920
+  date: '1990-01-21T12:47:50'
+  crc: '0x1a5b91df'
+- name: WILDEGA.CC1
+  size: 144514
+  date: '1990-01-17T18:27:14'
+  crc: '0x7e00f2ec'

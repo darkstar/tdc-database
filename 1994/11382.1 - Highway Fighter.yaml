@@ -1,0 +1,33 @@
+filename: Highway Fighter v1.1 [a1] (1994)(Omega Integral Systems) [Action].zip
+tdc_id: '11382.1'
+title:
+  screen: Highway Fighter
+publisher: Omega Integral Systems
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T22:00:40'
+  last_modified: '2019-03-01T22:00:40'
+version: '1.1'
+type: zip
+tags:
+- Alternate: 1
+commands:
+  play: HF.EXE
+references:
+  dosid: DOS02607
+  exodos: Highway Fighter (1994).zip
+files:
+- name: HF.DOC
+  size: 9322
+  date: '1993-02-17T23:44:26'
+  crc: '0x88c4681f'
+- name: HF.EXE
+  size: 2812006
+  date: '1993-02-17T23:44:58'
+  crc: '0xd8387c26'
+- name: VERSION
+  size: 72
+  date: '1993-02-17T23:44:56'
+  crc: '0x3d6612f5'

@@ -1,0 +1,27 @@
+filename: Hearts (1997)(Peter Swinkels) [Action].zip
+tdc_id: '9607.0'
+title:
+  screen: Hearts
+publisher: Peter Swinkels
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:34:22'
+  last_modified: '2019-03-02T10:34:22'
+type: zip
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 22
+  date: '2018-03-06T14:02:44'
+  crc: '0x58ba5c6f'
+- name: HEARTS.BAS
+  size: 8554
+  date: '2002-11-11T09:16:06'
+  crc: '0x35d3105c'
+- name: QB.EXE
+  size: 278804
+  date: '2016-03-12T18:19:58'
+  crc: '0xb08bc0fe'

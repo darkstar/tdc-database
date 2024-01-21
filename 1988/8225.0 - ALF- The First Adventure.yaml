@@ -1,0 +1,94 @@
+filename: ALF- The First Adventure v3.2 (1988)(Box Office, Inc.) [Action].zip
+tdc_id: '8225.0'
+title:
+  box: 'ALF: The First Adventure'
+publisher: Box Office, Inc.
+year: '1988'
+genre: Action
+language: English
+date:
+  added: '2020-01-27T20:29:04'
+  last_modified: '2022-11-21T10:48:53'
+version: '3.2'
+type: zip
+commands:
+  play: ALF.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/alf-the-first-adventure
+files:
+- name: ADD_LIB4.PIC
+  size: 16392
+  date: '1980-01-01T01:56:46'
+  crc: '0x4d796194'
+- name: ALF.EXE
+  size: 68138
+  date: '1988-03-08T14:33:02'
+  crc: '0x3c93ac9b'
+- name: ALF_HSCR.DAT
+  size: 180
+  date: '1988-03-11T11:03:52'
+  crc: '0x0f68b33c'
+- name: ALF_ISM0.PIC
+  size: 16392
+  date: '1988-03-07T05:59:10'
+  crc: '0x1856612c'
+- name: ALF_ISM1.PIC
+  size: 16392
+  date: '1980-01-01T01:53:28'
+  crc: '0x90407940'
+- name: ALF_ISM2.PIC
+  size: 16392
+  date: '1980-01-01T06:41:26'
+  crc: '0x824db845'
+- name: ALF_ISM3.PIC
+  size: 16392
+  date: '1980-01-01T00:20:36'
+  crc: '0xf6ba837d'
+- name: ALF_ISM4.PIC
+  size: 16392
+  date: '1980-01-01T00:25:16'
+  crc: '0x3ca6ccdd'
+- name: ALF_TITL.PIC
+  size: 16392
+  date: '1980-01-01T00:26:14'
+  crc: '0xc8d2ad79'
+- name: BAD1.PIC
+  size: 16392
+  date: '1980-01-01T00:42:56'
+  crc: '0x770d0333'
+- name: BAD2.PIC
+  size: 16392
+  date: '1980-01-01T06:34:02'
+  crc: '0x49a6f4ae'
+- name: BO_SCR.PIC
+  size: 16392
+  date: '1992-01-22T05:58:20'
+  crc: '0xb907cb30'
+- name: BO_SHP.PIC
+  size: 16392
+  date: '1987-12-13T01:55:52'
+  crc: '0x9f190bbf'
+- name: FNT2.PIC
+  size: 16392
+  date: '1988-02-22T23:58:48'
+  crc: '0x72a10303'
+- name: GAME.BAT
+  size: 5
+  date: '1980-01-01T00:57:36'
+  crc: '0x0aa1c19a'
+- name: HIGH2.PIC
+  size: 16392
+  date: '1980-01-01T00:10:20'
+  crc: '0xd841d870'
+- name: NEW_LIB3.PIC
+  size: 16392
+  date: '1988-02-18T19:46:24'
+  crc: '0x05eb59e4'
+- name: RND.DAT
+  size: 16000
+  date: '1987-12-11T19:59:58'
+  crc: '0xafbab816'
+- name: VERS.DAT
+  size: 96
+  date: '1980-01-01T00:46:24'
+  crc: '0xc8ef84a4'

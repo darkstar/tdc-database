@@ -1,0 +1,38 @@
+filename: Jetman (1991)(Stuart Collier) [Action].zip
+tdc_id: '683.0'
+title:
+  screen: Jetman
+publisher: Stuart Collier
+year: '1991'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:36:26'
+  last_modified: '2019-03-01T18:36:26'
+type: zip
+commands:
+  play: JET.EXE
+references:
+  dosid: DOS02905
+  exodos: Jetman (1991).zip
+files:
+- name: JET.EXE
+  size: 26946
+  date: '1996-01-20T15:36:06'
+  crc: '0x949e847d'
+- name: JET.TXT
+  size: 783
+  date: '1996-01-20T15:38:00'
+  crc: '0xcf59b767'
+- name: JETA.PAK
+  size: 15135
+  date: '1992-09-06T17:36:10'
+  crc: '0x7dfbf0ff'
+- name: JETB.PAK
+  size: 29272
+  date: '1992-09-01T17:24:42'
+  crc: '0x78ecef24'
+- name: JETC.PAK
+  size: 48203
+  date: '1992-09-02T12:53:50'
+  crc: '0xe89b9029'

@@ -1,0 +1,34 @@
+filename: Змеелов (demo) (Ru) (1992)(GAMOS Ltd.) [Strategy].zip
+tdc_id: '7544.0'
+title:
+  screen: Змеелов
+  translation: WildSnake
+  qualifier: demo
+publisher: GAMOS Ltd.
+year: '1992'
+genre: Strategy
+language: Russian
+date:
+  added: '2019-03-01T18:52:26'
+  last_modified: '2023-06-26T12:30:46'
+type: zip
+media: Download
+demo: true
+commands:
+  play: WILDS.EXE
+references:
+  dosid: DOS07723
+  exodos: Zmeelov (1992).zip
+files:
+- name: WILDS.DOC
+  size: 3824
+  date: '1995-11-25T19:29:26'
+  crc: '0x27195abb'
+- name: WILDS.EXE
+  size: 109824
+  date: '1995-11-25T19:29:26'
+  crc: '0x45002091'
+- name: WSDEMO.GPF
+  size: 225562
+  date: '1995-11-25T19:29:26'
+  crc: '0xe2ecc32c'

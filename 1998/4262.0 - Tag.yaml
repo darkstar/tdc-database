@@ -1,0 +1,29 @@
+filename: Tag v1.1 (1998)(Logan Hoehn) [Action].zip
+tdc_id: '4262.0'
+title:
+  screen: Tag
+publisher: Logan Hoehn
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:44:38'
+  last_modified: '2019-03-02T10:44:38'
+version: '1.1'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 23
+  date: '2018-12-05T21:05:38'
+  crc: '0xfc9f4ca8'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: TAG.BAS
+  size: 5283
+  date: '2018-12-05T12:43:40'
+  crc: '0xaeda4fb7'

@@ -1,0 +1,76 @@
+filename: Rex Nebular and the Cosmic Gender Bender v8.44 (Installer) (1992)(MicroProse, Ltd) [Adventure][!].zip
+tdc_id: '14886.6'
+title:
+  box: Rex Nebular and the Cosmic Gender Bender
+publisher: MicroProse, Ltd
+year: '1992'
+genre: Adventure
+language: English
+date:
+  added: '2023-01-30T07:09:36'
+  last_modified: '2023-01-30T07:09:36'
+version: '8.44'
+type: zip
+tags:
+- KnownGood
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/rex-nebular-and-the-cosmic-gender-bender
+files:
+- name: INSTALL.EXE
+  size: 100993
+  date: '1992-09-15T18:47:20'
+  crc: '0xde24bf05'
+- name: MPSCOPY.EXE
+  size: 31267
+  date: '1992-09-15T18:47:22'
+  crc: '0x9fffe8a3'
+- name: MPSLABS.001
+  size: 1315354
+  date: '1992-09-15T18:49:08'
+  crc: '0x5d1141f3'
+- name: MPSLABS.002
+  size: 1457533
+  date: '1992-09-15T18:51:34'
+  crc: '0xd9fd8545'
+- name: MPSLABS.003
+  size: 1457330
+  date: '1992-09-15T18:55:20'
+  crc: '0x36fc015e'
+- name: MPSLABS.004
+  size: 1457664
+  date: '1992-09-15T18:56:56'
+  crc: '0x4d65b1d3'
+- name: MPSLABS.005
+  size: 1457358
+  date: '1992-09-15T18:59:34'
+  crc: '0x8f63c17b'
+- name: MPSLABS.006
+  size: 1457360
+  date: '1992-09-15T19:01:38'
+  crc: '0xc23938cd'
+- name: MPSLABS.007
+  size: 1457248
+  date: '1992-09-15T19:04:58'
+  crc: '0xc001ded2'
+- name: MPSLABS.008
+  size: 1457485
+  date: '1992-09-15T19:07:36'
+  crc: '0x3e4b07c5'
+- name: MPSLABS.009
+  size: 444344
+  date: '1992-09-15T19:09:14'
+  crc: '0x30c6317c'
+- name: MPSLABS.IDX
+  size: 5598
+  date: '1992-09-15T19:09:26'
+  crc: '0xb457d7a5'
+- name: README.TXT
+  size: 2638
+  date: '1992-09-15T18:47:24'
+  crc: '0x23045c67'
+- name: REX102A.CR4
+  size: 0
+  date: '1992-09-16T13:53:28'

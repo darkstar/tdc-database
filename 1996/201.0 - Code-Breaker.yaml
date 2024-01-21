@@ -1,0 +1,28 @@
+filename: Code-Breaker (1996)(Sverre Frisch) [Strategy].zip
+tdc_id: '201.0'
+title:
+  screen: Code-Breaker
+publisher: Sverre Frisch
+year: '1996'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:01:58'
+  last_modified: '2019-03-02T10:01:58'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: CODEBRK.BAS
+  size: 26848
+  date: '2018-11-21T23:01:30'
+  crc: '0xf45346ad'
+- name: GO.BAT
+  size: 27
+  date: '2018-11-21T23:41:32'
+  crc: '0x42e080bc'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

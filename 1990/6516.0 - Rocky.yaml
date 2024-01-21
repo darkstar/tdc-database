@@ -1,0 +1,35 @@
+filename: Rocky (1990)(H. Wilhelm) [Action].zip
+tdc_id: '6516.0'
+title:
+  screen: Rocky
+publisher: H. Wilhelm
+year: '1990'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:33:52'
+  last_modified: '2019-03-01T18:33:52'
+type: zip
+commands:
+  play: ROCK.EXE
+files:
+- name: CGA.BGI
+  size: 6029
+  date: '2018-02-26T09:30:40'
+  crc: '0xcd2d7722'
+- name: ROCK.EXE
+  size: 58816
+  date: '2018-02-26T09:30:44'
+  crc: '0x6647d3bf'
+- name: ROCKY.LEV
+  size: 10306
+  date: '2018-02-26T09:30:40'
+  crc: '0x94633c1c'
+- name: ROCKY.TOP
+  size: 190
+  date: '2018-02-26T09:30:40'
+  crc: '0x7dc3a433'
+- name: TRIP.CHR
+  size: 7213
+  date: '2018-02-26T09:30:40'
+  crc: '0xb0fb0cbe'

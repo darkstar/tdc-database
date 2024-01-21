@@ -1,0 +1,54 @@
+filename: Vectorball (1988)(M.A.D.) [Action].zip
+tdc_id: '7375.0'
+title:
+  box: Vectorball
+publisher: M.A.D.
+year: '1988'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:26:58'
+  last_modified: '2019-03-01T18:26:58'
+type: zip
+commands:
+  play: VEC.EXE
+references:
+  dosid: DOS05472
+  exodos: Vectorball (1988).zip
+files:
+- name: BODY.BIN
+  size: 1664
+  date: '2036-05-14T04:07:14'
+  crc: '0xf8165a4c'
+- name: GOALMASK.CGA
+  size: 16200
+  date: '2098-01-01T00:59:58'
+  crc: '0xb8d09bd2'
+- name: GOALS.CGA
+  size: 16200
+  date: '2098-01-01T00:59:58'
+  crc: '0x61501c4f'
+- name: HEADS.BIN
+  size: 4352
+  date: '2036-05-14T04:08:04'
+  crc: '0xabf9184b'
+- name: NEGCHARS.CGA
+  size: 16200
+  date: '2098-01-01T00:59:58'
+  crc: '0x0e91753a'
+- name: PANEL.CGA
+  size: 16200
+  date: '2098-01-01T00:59:58'
+  crc: '0x44f100cd'
+- name: POSCHARS.CGA
+  size: 16200
+  date: '2098-01-01T00:59:58'
+  crc: '0xec4dea18'
+- name: VEC.EXE
+  size: 71041
+  date: '2036-08-15T04:11:16'
+  crc: '0x9b275a32'
+- name: VECLOAD.CGA
+  size: 16200
+  date: '2098-01-01T00:59:58'
+  crc: '0xa062f25e'

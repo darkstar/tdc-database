@@ -1,0 +1,28 @@
+filename: Simon Says (1995)(John Rodgers) [Strategy].zip
+tdc_id: '3730.0'
+title:
+  screen: Simon Says
+publisher: John Rodgers
+year: '1995'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T09:03:04'
+  last_modified: '2019-03-02T09:03:04'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 25
+  date: '2018-04-14T19:29:28'
+  crc: '0x28609dee'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T01:28:02'
+  crc: '0x19f6ed75'
+- name: SIMON.BAS
+  size: 21176
+  date: '2018-03-10T01:53:48'
+  crc: '0xf5c24521'

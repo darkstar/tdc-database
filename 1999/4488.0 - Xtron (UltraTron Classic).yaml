@@ -1,0 +1,44 @@
+filename: Xtron (UltraTron Classic) v1.1 (1999)(Cameron King) [Action].zip
+tdc_id: '4488.0'
+title:
+  screen: Xtron (UltraTron Classic)
+publisher: Cameron King
+year: '1999'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:47:20'
+  last_modified: '2019-03-02T10:47:20'
+version: '1.1'
+type: zip
+commands:
+  play: XTRON11.EXE
+files:
+- name: GAME.CFG
+  size: 93
+  date: '1999-08-07T16:21:20'
+  crc: '0xa4518098'
+- name: MAP1.bmp
+  size: 65078
+  date: '1999-08-04T16:56:22'
+  crc: '0x02924b17'
+- name: MAP2.bmp
+  size: 65078
+  date: '1999-08-04T17:39:12'
+  crc: '0x724855ac'
+- name: MAP3.bmp
+  size: 65078
+  date: '1999-08-04T18:47:54'
+  crc: '0x32a78d6b'
+- name: XTRON11.EXE
+  size: 92328
+  date: '1999-08-07T16:14:12'
+  crc: '0x43a86c01'
+- name: readme.txt
+  size: 1411
+  date: '2000-05-09T12:55:56'
+  crc: '0xc1fda97b'
+- name: tron.bmp
+  size: 65078
+  date: '1999-08-04T17:38:56'
+  crc: '0x1130629d'

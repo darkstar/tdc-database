@@ -1,0 +1,28 @@
+filename: Robot III- Insel der heiligen Prüfung v3.6 (Installer) (De) [SW] (1993)(TOM-Productions) [Action].zip
+tdc_id: '6482.1'
+title:
+  screen: 'Robot III: Insel der heiligen Prüfung'
+publisher: TOM-Productions
+year: '1993'
+genre: Action
+language: German
+date:
+  added: '2019-03-01T19:18:04'
+  last_modified: '2019-03-01T19:18:04'
+version: '3.6'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 21982
+  date: '1993-04-16T18:45:46'
+  crc: '0x05edb0d9'
+- name: ROBOT3.ARJ
+  size: 334528
+  date: '1993-04-15T21:00:00'
+  crc: '0x8b30233e'

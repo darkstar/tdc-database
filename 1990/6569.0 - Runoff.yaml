@@ -1,0 +1,36 @@
+filename: Runoff v1.0 [SW] (1990)(William Soleau) [Action, Strategy].zip
+tdc_id: '6569.0'
+title:
+  screen: Runoff
+publisher: William Soleau
+year: '1990'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:33:54'
+  last_modified: '2023-05-22T18:22:31'
+version: '1.0'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: RUNOFF.EXE
+references:
+  dosid: DOS15849
+  exodos: Runoff (1990).zip
+files:
+- name: READ.ME
+  size: 386
+  date: '1990-10-31T23:33:16'
+  crc: '0xd26bda4e'
+- name: RUNOFF.EXE
+  size: 102322
+  date: '1990-11-01T01:09:28'
+  crc: '0x4c40af52'
+- name: RUNOFF.OVL
+  size: 26308
+  date: '1990-10-31T22:53:14'
+  crc: '0xb84afdb8'

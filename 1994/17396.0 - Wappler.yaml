@@ -1,0 +1,73 @@
+filename: Wappler v1.24a (De) [FW] (1994)(Thomas Mally) [Strategy, Board].zip
+tdc_id: '17396.0'
+title:
+  screen: Wappler
+publisher: Thomas Mally
+year: '1994'
+genre:
+- Strategy
+- Board
+language: German
+date:
+  added: '2024-01-08T18:07:48'
+  last_modified: '2024-01-08T18:07:48'
+version: 1.24a
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: WAPPLER.EXE
+files:
+- name: KBK_C_S.DAT
+  size: 131072
+  date: '1994-02-04T02:44:04'
+  crc: '0x93ab4d80'
+- name: KBK_C_W.DAT
+  size: 131072
+  date: '1994-02-04T02:44:04'
+  crc: '0xe87e59e1'
+- name: KBK_M_S.DAT
+  size: 131072
+  date: '1994-02-04T02:48:00'
+  crc: '0xb374205d'
+- name: KBK_M_W.DAT
+  size: 131072
+  date: '1994-02-04T02:48:00'
+  crc: '0x9c21ed9c'
+- name: KDK_S.DAT
+  size: 131072
+  date: '1994-01-25T20:42:40'
+  crc: '0x90b5946c'
+- name: KDK_W.DAT
+  size: 131072
+  date: '1994-01-25T20:42:40'
+  crc: '0x7b5bae04'
+- name: KTK_S.DAT
+  size: 131072
+  date: '1994-01-25T21:04:52'
+  crc: '0x9208fa1e'
+- name: KTK_W.DAT
+  size: 131072
+  date: '1994-01-25T21:04:52'
+  crc: '0x1f5961e4'
+- name: LOGO.DAT
+  size: 10684
+  date: '1992-05-25T10:07:32'
+  crc: '0x90345661'
+- name: PSET.DAT
+  size: 14168
+  date: '1992-05-25T11:25:48'
+  crc: '0x31d8534b'
+- name: QRBASE.PAS
+  size: 12738
+  date: '1994-02-01T13:36:24'
+  crc: '0x228aa6d8'
+- name: WAPBASE8.EXE
+  size: 19792
+  date: '1994-02-05T15:33:42'
+  crc: '0x8133e46b'
+- name: WAPPLER.EXE
+  size: 93237
+  date: '1992-08-30T09:57:24'
+  crc: '0x8047f3bf'

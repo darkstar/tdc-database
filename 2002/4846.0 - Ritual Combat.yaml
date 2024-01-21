@@ -1,0 +1,52 @@
+filename: Ritual Combat v0.31a (2002)(Lachie Dazdarian, R.E.Lope) [Action].zip
+tdc_id: '4846.0'
+title:
+  screen: Ritual Combat
+publisher: Lachie Dazdarian, R.E.Lope
+year: '2002'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:56:10'
+  last_modified: '2019-03-02T10:56:10'
+version: 0.31a
+type: zip
+commands:
+  play: RITCO.EXE
+files:
+- name: GAME.PAL
+  size: 1024
+  date: '2001-09-11T10:35:30'
+  crc: '0x091e1535'
+- name: MAIN.PAL
+  size: 2651
+  date: '1991-08-08T02:50:36'
+  crc: '0xfc9f3c98'
+- name: MAIN.RCO
+  size: 63046
+  date: '1991-08-24T01:53:54'
+  crc: '0x4ab78e87'
+- name: RELPAL.PAL
+  size: 768
+  date: '2002-02-25T20:08:16'
+  crc: '0x09d81ed5'
+- name: RITCO.EXE
+  size: 133672
+  date: '1991-08-25T00:07:48'
+  crc: '0xa0471c32'
+- name: RITCO.TXT
+  size: 7512
+  date: '2006-12-30T01:25:20'
+  crc: '0x7de2bea9'
+- name: SIDE.PUT
+  size: 27075
+  date: '1991-08-15T01:42:48'
+  crc: '0xc3b31bc8'
+- name: SPRITES.PUT
+  size: 32327
+  date: '1991-08-23T00:55:46'
+  crc: '0x8e166a25'
+- name: STORYFNT.PUT
+  size: 4841
+  date: '2002-01-27T10:20:54'
+  crc: '0x2900b2a8'

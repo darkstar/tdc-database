@@ -1,0 +1,28 @@
+filename: Socko's Adventures (1998)(Hacksoft) [Action].zip
+tdc_id: '15232.0'
+title:
+  screen: Socko's Adventures
+publisher: Hacksoft
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:44:34'
+  last_modified: '2019-03-02T10:44:34'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 25
+  date: '2019-01-06T10:45:40'
+  crc: '0x18c18492'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: SOCKO.BAS
+  size: 35001
+  date: '1998-04-09T20:15:46'
+  crc: '0xc0323f91'

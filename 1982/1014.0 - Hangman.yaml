@@ -1,0 +1,33 @@
+filename: Hangman [SW] (1982)(Chris Jordan) [Strategy, Puzzle, Educational].zip
+tdc_id: '1014.0'
+title:
+  screen: Hangman
+publisher: Chris Jordan
+year: '1982'
+genre:
+- Strategy
+- Puzzle
+- Educational
+language: English
+date:
+  added: '2019-09-02T05:03:50'
+  last_modified: '2019-09-02T05:03:50'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: HANGMAN.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: HANGMAN.BAS
+  size: 4608
+  date: '1982-11-12T12:00:00'
+  crc: '0x815fa2c2'
+- name: HANGMAN.BAT
+  size: 17
+  date: '1980-01-01T11:00:00'
+  crc: '0xa40231fc'

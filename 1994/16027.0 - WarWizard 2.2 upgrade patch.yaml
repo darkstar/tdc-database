@@ -1,0 +1,27 @@
+filename: WarWizard 2.2 upgrade patch (Installer) [SWR] (1994)(MicroGenesis) [Role-Playing (RPG), Addon].zip
+tdc_id: '16027.0'
+title:
+  screen: WarWizard 2.2 upgrade patch
+publisher: MicroGenesis
+year: '1994'
+genre:
+- Role-Playing (RPG)
+- Addon
+language: English
+date:
+  added: '2022-01-01T15:28:30'
+  last_modified: '2022-01-01T15:28:30'
+type: zip
+tags:
+- SharewareRegistered
+installer: true
+patch: true
+files:
+- name: UPGRADE.BAT
+  size: 224
+  date: '1994-10-29T01:00:28'
+  crc: '0x5b8a447f'
+- name: WW1_REG.EXE
+  size: 760210
+  date: '1994-11-09T20:29:38'
+  crc: '0x4ca59c78'

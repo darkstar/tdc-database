@@ -1,0 +1,52 @@
+filename: Preschool Pack v2.2 (Installer) [SW] (1995)(KidStuff Software) [Educational].zip
+tdc_id: '10485.3'
+title:
+  screen: Preschool Pack
+publisher: KidStuff Software
+year: '1995'
+genre: Educational
+language: English
+date:
+  added: '2019-01-27T04:28:12'
+  last_modified: '2019-01-27T04:28:12'
+version: '2.2'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 257
+  date: '1995-03-02T22:36:08'
+  crc: '0x081e579c'
+- name: INSTALL.EXE
+  size: 34554
+  date: '1994-04-18T12:00:00'
+  crc: '0x7aeabd9c'
+- name: INSTALL.FIL
+  size: 4136
+  date: '1995-03-02T22:36:08'
+  crc: '0x69925513'
+- name: PPK22.001
+  size: 355724
+  date: '1995-03-02T22:45:54'
+  crc: '0x34e10050'
+- name: PPK22.002
+  size: 362496
+  date: '1995-03-02T22:45:54'
+  crc: '0x5b995f1a'
+- name: PPK22.003
+  size: 362496
+  date: '1995-03-02T22:45:54'
+  crc: '0x08006126'
+- name: PPK22.PCX
+  size: 57350
+  date: '1995-03-02T22:36:08'
+  crc: '0x30abd3bc'
+- name: VENDOR.DOC
+  size: 4517
+  date: '1995-03-02T22:36:08'
+  crc: '0x6c518a83'

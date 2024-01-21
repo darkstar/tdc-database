@@ -1,0 +1,94 @@
+filename: Oregon Trail, The v2.1 (1990)(MECC) [Adventure, Educational, Role-Playing (RPG), Simulation, Strategy][!].zip
+tdc_id: '14656.3'
+title:
+  box: The Oregon Trail
+publisher: MECC
+year: '1990'
+genre:
+- Adventure
+- Educational
+- Role-Playing (RPG)
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:33:28'
+  last_modified: '2023-02-13T11:48:57'
+version: '2.1'
+type: zip
+tags:
+- KnownGood
+media: 720K
+commands:
+  play: OREGON.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/oregon-trail
+files:
+- name: BIT8X8.GFT
+  size: 2646
+  date: '1989-07-31T01:00:04'
+  crc: '0x9744624b'
+- name: CGA.BGI
+  size: 6253
+  date: '1988-08-29T05:00:00'
+  crc: '0x17cbdd92'
+- name: DIALOGS.REC
+  size: 14586
+  date: '1991-05-01T18:10:08'
+  crc: '0x132cbecf'
+- name: HISCORES.REC
+  size: 180
+  date: '1991-05-01T18:10:08'
+  crc: '0x2ffe6389'
+- name: INSTALL.EXE
+  size: 21264
+  date: '1991-05-01T18:10:08'
+  crc: '0x726ae6e1'
+- name: JOYCAL.REC
+  size: 9
+  date: '1991-05-01T18:10:08'
+  crc: '0x2b3a3066'
+- name: LOGO.004
+  size: 1562
+  date: '1991-04-26T11:31:58'
+  crc: '0x0114b557'
+- name: LOGO.256
+  size: 2117
+  date: '1991-04-26T11:28:16'
+  crc: '0x984eec6e'
+- name: OREGON.EXE
+  size: 81896
+  date: '1991-05-01T18:10:08'
+  crc: '0xcd87ab6d'
+- name: OTCGA.PCL
+  size: 189831
+  date: '1991-05-01T18:10:08'
+  crc: '0x925e7ee3'
+- name: OTMCGA.PCL
+  size: 321139
+  date: '1991-05-01T18:10:08'
+  crc: '0x70fe5b5c'
+- name: PAL.256
+  size: 906
+  date: '1991-05-01T18:10:08'
+  crc: '0xbed724cb'
+- name: PRODUCT.PF
+  size: 350
+  date: '1991-05-06T15:40:50'
+  crc: '0x3b4de709'
+- name: README
+  size: 1177
+  date: '1991-05-01T18:10:08'
+  crc: '0xc6f81fca'
+- name: SONGS.TXT
+  size: 2867
+  date: '1991-05-01T18:10:08'
+  crc: '0xd7d34154'
+- name: TOMB.REC
+  size: 110
+  date: '1991-05-01T18:10:08'
+  crc: '0x07faad1f'
+- name: VGA256.BGI
+  size: 3289
+  date: '1989-05-31T01:00:02'
+  crc: '0x55f0b0ba'

@@ -1,0 +1,32 @@
+filename: Cutthroats r23 [DC] (1984)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '9441.0'
+parent_id: '9441.4'
+title:
+  box: Cutthroats
+publisher: Infocom, Inc.
+year: '1984'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2022-06-02T10:50:54'
+  last_modified: '2022-06-02T10:50:54'
+release: '23'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: CUTTHROA.COM
+references:
+  dosid: DOS05858
+  exodos: Cutthroats (1984).zip
+files:
+- name: CUTTHROA.COM
+  size: 12928
+  date: '1980-01-01T00:00:00'
+  crc: '0xd4b306b5'
+- name: CUTTHROA.DAT
+  size: 129728
+  date: '2008-01-14T21:57:38'
+  crc: '0xa08244e0'

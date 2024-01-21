@@ -1,0 +1,34 @@
+filename: Hyper Hangman v2.0 [SW] (1990)(William Soleau) [Strategy, Puzzle, Educational].zip
+tdc_id: '11365.0'
+title:
+  screen: Hyper Hangman
+publisher: William Soleau
+year: '1990'
+genre:
+- Strategy
+- Puzzle
+- Educational
+language: English
+date:
+  added: '2019-03-01T18:32:50'
+  last_modified: '2019-03-01T18:32:50'
+version: '2.0'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: HANGHYP.EXE
+files:
+- name: HANGHYP.EXE
+  size: 93042
+  date: '1990-01-31T20:55:40'
+  crc: '0xc9f5b2ee'
+- name: HANGMAN.SCR
+  size: 16392
+  date: '1990-01-28T01:58:50'
+  crc: '0x825e35af'
+- name: HANGWORD.SSS
+  size: 2950
+  date: '1990-01-31T00:07:34'
+  crc: '0xb0b095b9'

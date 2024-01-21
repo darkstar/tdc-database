@@ -1,0 +1,92 @@
+filename: King's Quest v2.0F (AGI 2.425) (1987)(Sierra On-Line, Inc.) [Adventure].zip
+tdc_id: '11813.3'
+title:
+  box: King's Quest
+publisher: Sierra On-Line, Inc.
+year: '1987'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:25:24'
+  last_modified: '2019-03-01T18:25:24'
+version: 2.0F
+type: zip
+commands:
+  play: SIERRA.COM
+files:
+- name: AGI
+  size: 38224
+  date: '1987-05-05T14:01:54'
+  crc: '0x4d867536'
+- name: AGIDATA.OVL
+  size: 7680
+  date: '1987-05-01T08:11:56'
+  crc: '0xf3e89085'
+- name: CGA_GRAF.OVL
+  size: 1024
+  date: '1987-05-01T08:11:26'
+  crc: '0xca8b4741'
+- name: EGA_GRAF.OVL
+  size: 1024
+  date: '1987-05-01T08:11:28'
+  crc: '0x8e14b45e'
+- name: HGC_FONT
+  size: 3072
+  date: '1987-01-26T15:47:26'
+  crc: '0x200435c7'
+- name: HGC_GRAF.OVL
+  size: 1536
+  date: '1987-05-01T08:11:28'
+  crc: '0x211da9c5'
+- name: HGC_OBJS.OVL
+  size: 1024
+  date: '1987-05-01T08:11:30'
+  crc: '0xe1d5c430'
+- name: IBM_OBJS.OVL
+  size: 512
+  date: '1987-05-01T08:11:30'
+  crc: '0x4d0b9afd'
+- name: JR_GRAF.OVL
+  size: 512
+  date: '1987-05-01T08:11:28'
+  crc: '0xc49114dd'
+- name: LOGDIR
+  size: 315
+  date: '1987-05-05T09:02:14'
+  crc: '0x4d098292'
+- name: OBJECT
+  size: 331
+  date: '1987-04-09T23:45:14'
+  crc: '0x2f7911a0'
+- name: PICDIR
+  size: 255
+  date: '1987-05-05T09:02:14'
+  crc: '0xf5d23f58'
+- name: SIERRA.COM
+  size: 2944
+  date: '1987-05-05T13:01:48'
+  crc: '0x82e8a072'
+- name: SNDDIR
+  size: 144
+  date: '1987-05-05T09:02:14'
+  crc: '0xe8a07a2c'
+- name: VIEWDIR
+  size: 432
+  date: '1987-05-05T09:02:14'
+  crc: '0x72791dbd'
+- name: VOL.0
+  size: 48472
+  date: '1987-05-05T09:01:00'
+  crc: '0xd337fbfd'
+- name: VOL.1
+  size: 200630
+  date: '1987-05-05T09:01:48'
+  crc: '0x5b5e75a0'
+- name: VOL.2
+  size: 90891
+  date: '1987-05-05T09:02:14'
+  crc: '0xb310ac5c'
+- name: WORDS.TOK
+  size: 3144
+  date: '1987-03-27T11:15:28'
+  crc: '0xeba7ec7e'

@@ -1,0 +1,31 @@
+filename: Xingfu Rensheng (Zh) (1992)(IBM Taiwan) [Simulation].zip
+tdc_id: '2505.0'
+title:
+  box: Xingfu Rensheng
+publisher: IBM Taiwan
+year: '1992'
+genre: Simulation
+language: Chinese
+date:
+  added: '2019-08-10T02:39:12'
+  last_modified: '2019-08-10T02:39:12'
+type: zip
+commands:
+  play: RS402.EXE
+files:
+- name: RS402.DAT
+  size: 278
+  date: '1994-05-15T21:56:54'
+  crc: '0x5eb86e1a'
+- name: RS402.EXE
+  size: 35323
+  date: '1992-10-09T08:07:00'
+  crc: '0x53080e83'
+- name: RS4020.ROM
+  size: 938349
+  date: '1992-10-09T07:19:00'
+  crc: '0xccd5b064'
+- name: RS4021.ROM
+  size: 361577
+  date: '1992-10-09T07:19:00'
+  crc: '0x044fead6'

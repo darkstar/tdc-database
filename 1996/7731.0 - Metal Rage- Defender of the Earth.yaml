@@ -1,0 +1,31 @@
+filename: Metal Rage- Defender of the Earth (1996)(Titus France SA) [Action].zip
+tdc_id: '7731.0'
+title:
+  box: 'Metal Rage: Defender of the Earth'
+publisher: Titus France SA
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:13:20'
+  last_modified: '2019-03-02T10:13:20'
+type: zip
+commands:
+  play: METAL.EXE
+files:
+- name: AUTORUN.INF
+  size: 43
+  date: '1996-07-11T19:00:42'
+  crc: '0x718b49e5'
+- name: BANK1.DAT
+  size: 7921873
+  date: '1996-07-11T19:00:52'
+  crc: '0x03ef4135'
+- name: METAL.EXE
+  size: 245488
+  date: '1996-11-27T17:01:32'
+  crc: '0xbc4f1ce2'
+- name: METAL.ICO
+  size: 766
+  date: '1996-07-11T19:00:00'
+  crc: '0xda990aed'

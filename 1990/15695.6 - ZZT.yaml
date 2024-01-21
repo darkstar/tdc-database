@@ -1,0 +1,65 @@
+filename: ZZT v3.0 [SWR] (1990)(Potomac Computer Systems) [Action, Adventure, Role-Playing (RPG)].zip
+tdc_id: '15695.6'
+title:
+  screen: ZZT
+publisher: Potomac Computer Systems
+year: '1990'
+genre:
+- Action
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2023-05-10T16:09:17'
+  last_modified: '2023-05-10T16:09:17'
+version: '3.0'
+type: zip
+tags:
+- SharewareRegistered
+media: Download
+commands:
+  play: zzt.exe
+files:
+- name: LPT1
+  size: 0
+  date: '2019-12-25T09:55:00'
+- name: asp
+  size: 2646
+  date: '1990-02-03T16:23:20'
+  crc: '0x5e3981f6'
+- name: demo.zzt
+  size: 26465
+  date: '1990-01-25T17:35:58'
+  crc: '0xf76864d4'
+- name: hints
+  size: 5416
+  date: '1991-07-02T03:33:46'
+  crc: '0xbb44b6b3'
+- name: order
+  size: 1704
+  date: '1991-06-01T03:21:08'
+  crc: '0x13458c72'
+- name: readme
+  size: 2281
+  date: '1991-11-15T17:27:16'
+  crc: '0x8988e66e'
+- name: town.hi
+  size: 1590
+  date: '1990-01-24T09:10:16'
+  crc: '0x060589f9'
+- name: town.zzt
+  size: 73920
+  date: '1990-02-02T06:56:38'
+  crc: '0x4390d9d0'
+- name: zzt.cfg
+  size: 30
+  date: '2019-12-25T09:51:00'
+  crc: '0xff3102b4'
+- name: zzt.dat
+  size: 40581
+  date: '1990-02-03T16:36:12'
+  crc: '0x54b76f63'
+- name: zzt.exe
+  size: 47473
+  date: '1990-02-03T16:36:40'
+  crc: '0x5bddcbd4'

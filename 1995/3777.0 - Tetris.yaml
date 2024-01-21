@@ -1,0 +1,53 @@
+filename: Tetris (1995)(Paul Egan) [Action, Strategy].zip
+tdc_id: '3777.0'
+title:
+  screen: Tetris
+publisher: Paul Egan
+year: '1995'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-02T09:06:12'
+  last_modified: '2019-03-02T09:06:12'
+type: zip
+commands:
+  play: TETRIS.EXE
+files:
+- name: BRICKS.DAT
+  size: 6692
+  date: '1995-09-28T13:42:02'
+  crc: '0x62aeadcb'
+- name: KEYS.DAT
+  size: 15
+  date: '1995-09-28T11:43:40'
+  crc: '0x95ec135a'
+- name: LUMPYSLI.PAS
+  size: 4732
+  date: '1995-09-28T14:54:06'
+  crc: '0x77f2e46c'
+- name: SCORES.DAT
+  size: 360
+  date: '1995-09-27T13:24:16'
+  crc: '0xa5d7b5cb'
+- name: SCREENS.DAT
+  size: 81200
+  date: '1995-09-26T14:24:12'
+  crc: '0x40513ef5'
+- name: START.DAT
+  size: 16160
+  date: '1995-09-28T14:49:04'
+  crc: '0xa8e24fbf'
+- name: TETRIS.EXE
+  size: 38144
+  date: '1995-09-28T14:57:56'
+  crc: '0x075f5bc0'
+- name: TETRIS.PAS
+  size: 16443
+  date: '1995-09-28T14:50:34'
+  crc: '0x5e590584'
+- name: TETRIS.TXT
+  size: 818
+  date: '1995-09-27T15:43:38'
+  crc: '0xf2ebfc95'

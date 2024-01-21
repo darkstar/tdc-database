@@ -1,0 +1,72 @@
+filename: Metaltech- EarthSiege v1.0 (Installer) (1994)(Sierra On-Line, Inc.) [Simulation].zip
+tdc_id: '14239.0'
+parent_id: '14239.13'
+title:
+  box: 'Metaltech: EarthSiege'
+  qualifier: Installer
+publisher: Sierra On-Line, Inc.
+year: '1994'
+genre: Simulation
+language: English
+date:
+  added: '2020-06-12T15:21:22'
+  last_modified: '2023-08-05T13:40:46'
+version: '1.0'
+type: zip
+media: 1.44M
+installer: true
+references:
+  mobygames: https://www.mobygames.com/game/1402/metaltech-earthsiege/
+files:
+- name: COPYFILZ.EXE
+  size: 75972
+  date: '1995-10-25T01:00:00'
+  crc: '0x2d452473'
+- name: INSTALL.BAT
+  size: 467
+  date: '1995-10-25T01:00:00'
+  crc: '0x1ecfcbaf'
+- name: INSTALL.HLP
+  size: 20894
+  date: '1995-10-25T01:00:00'
+  crc: '0x529f6fee'
+- name: INSTALL.SCR
+  size: 5843
+  date: '1994-10-25T01:00:00'
+  crc: '0xb150bd4d'
+- name: INSTALL.TXT
+  size: 9501
+  date: '1995-10-25T01:00:00'
+  crc: '0x1e23be7f'
+- name: README
+  size: 13387
+  date: '1995-10-25T01:00:00'
+  crc: '0x86f89171'
+- name: RESOURCE.000
+  size: 1299556
+  date: '1995-10-25T01:00:00'
+  crc: '0x4887827a'
+- name: RESOURCE.001
+  size: 1456732
+  date: '1995-10-25T01:00:00'
+  crc: '0x64da1c2f'
+- name: RESOURCE.002
+  size: 1456663
+  date: '1995-10-25T01:00:00'
+  crc: '0x7e412e58'
+- name: RESOURCE.003
+  size: 1456505
+  date: '1995-10-25T01:00:00'
+  crc: '0x7253da47'
+- name: RESOURCE.004
+  size: 945398
+  date: '1995-10-25T01:00:00'
+  crc: '0x8dbd5590'
+- name: RESOURCE.CFG
+  size: 112
+  date: '1995-10-25T01:00:00'
+  crc: '0xf3f7ff13'
+- name: UNCHUNK.EXE
+  size: 15926
+  date: '1995-10-25T01:00:00'
+  crc: '0xceddc4ab'

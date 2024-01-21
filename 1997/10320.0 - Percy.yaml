@@ -1,0 +1,48 @@
+filename: Percy (1997)(Laz) [Strategy].zip
+tdc_id: '10320.0'
+title:
+  screen: Percy
+publisher: Laz
+year: '1997'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:36:18'
+  last_modified: '2019-03-02T10:36:18'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: DEFAULTS.PCY
+  size: 14
+  date: '1997-02-18T17:49:32'
+  crc: '0x03f0deba'
+- name: GO.BAT
+  size: 25
+  date: '2018-11-17T21:37:10'
+  crc: '0x72d6d3aa'
+- name: LAZLEVEL.PCY
+  size: 855
+  date: '1997-02-18T22:13:30'
+  crc: '0x1fec488b'
+- name: PCYREAD.TXT
+  size: 6507
+  date: '1997-02-18T22:10:50'
+  crc: '0x7193904b'
+- name: PERCY.BAS
+  size: 70863
+  date: '2018-11-17T21:41:06'
+  crc: '0x6002d23c'
+- name: PERCYSRC.BAS
+  size: 70877
+  date: '1997-02-19T16:40:22'
+  crc: '0x1bac2b18'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'
+- name: TANKGFX.PCY
+  size: 118322
+  date: '1997-01-29T21:32:34'
+  crc: '0x96f066fc'

@@ -1,0 +1,39 @@
+filename: MicroLeague Baseball II [h1][b1] (1989)(MicroLeague) [Strategy, Sports].zip
+tdc_id: '14257.0'
+title:
+  box: MicroLeague Baseball II
+publisher: MicroLeague
+year: '1989'
+genre:
+- Strategy
+- Sports
+language: English
+date:
+  added: '2019-03-01T18:28:24'
+  last_modified: '2019-03-01T18:28:24'
+type: zip
+tags:
+- Hack: 1
+- Bad: 1
+commands:
+  play: MLB2FIRM.COM
+references:
+  dosid: DOS03536
+  exodos: MicroLeague Baseball 2 (1989).zip
+files:
+- name: INFOFIRM
+  size: 1400
+  date: '1980-01-01T00:26:42'
+  crc: '0x150ac1fd'
+- name: MLB2DAT1.FRM
+  size: 80500
+  date: '1980-01-01T00:01:08'
+  crc: '0x38a27d6d'
+- name: MLB2DAT2.FRM
+  size: 377856
+  date: '1980-01-01T00:10:24'
+  crc: '0x2f91f47c'
+- name: MLB2FIRM.COM
+  size: 1694
+  date: '1985-01-02T16:33:50'
+  crc: '0x0d108705'

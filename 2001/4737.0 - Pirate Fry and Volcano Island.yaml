@@ -1,0 +1,26 @@
+filename: Pirate Fry and Volcano Island (2001)(Squinky Productions) [Adventure].zip
+tdc_id: '4737.0'
+title:
+  screen: Pirate Fry and Volcano Island
+publisher: Squinky Productions
+year: '2001'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-02T10:55:38'
+  last_modified: '2019-03-02T10:55:38'
+type: zip
+commands:
+  play: FRY.exe
+references:
+  dosid: DOS04019
+  exodos: Pirate Fry and Volcano Island (2001).zip
+files:
+- name: CWSDPMI.EXE
+  size: 20473
+  date: '1996-12-24T22:32:00'
+  crc: '0x80fa6999'
+- name: FRY.exe
+  size: 3865973
+  date: '1996-12-24T22:32:00'
+  crc: '0xc757bbaa'

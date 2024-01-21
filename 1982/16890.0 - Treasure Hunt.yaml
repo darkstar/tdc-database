@@ -1,0 +1,26 @@
+filename: Treasure Hunt (1982)(Ensign Software) [Adventure].zip
+tdc_id: '16890.0'
+title:
+  screen: Treasure Hunt
+publisher: Ensign Software
+year: '1982'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:23:04'
+  last_modified: '2019-03-01T18:23:04'
+type: zip
+commands:
+  play: HUNT.COM
+references:
+  dosid: DOS05260
+  exodos: Treasure Hunt (1982).zip
+files:
+- name: HUNT.COM
+  size: 31232
+  date: '1986-06-10T11:01:28'
+  crc: '0xf186555a'
+- name: HUNT.DOC
+  size: 147
+  date: '1987-05-08T00:35:48'
+  crc: '0x4c976d47'

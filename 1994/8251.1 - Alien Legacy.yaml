@@ -1,0 +1,84 @@
+filename: Alien Legacy (Installer) (1994)(Sierra On-Line, Inc.) [Strategy].zip
+tdc_id: '8251.1'
+title:
+  box: Alien Legacy
+publisher: Sierra On-Line, Inc.
+year: '1994'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T21:47:54'
+  last_modified: '2019-03-01T21:47:54'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: ALIEN1.RED
+  size: 1344779
+  date: '1994-05-13T17:33:24'
+  crc: '0xbd8cae75'
+- name: ALIEN2.RED
+  size: 1457109
+  date: '1994-05-13T17:36:10'
+  crc: '0x6fe86814'
+- name: ALIEN3.RED
+  size: 1457020
+  date: '1994-05-13T17:38:30'
+  crc: '0x16d117a3'
+- name: ALIEN4.RED
+  size: 1457152
+  date: '1994-05-13T17:40:42'
+  crc: '0xa03b65c4'
+- name: ALIEN5.RED
+  size: 1456477
+  date: '1994-05-13T17:43:02'
+  crc: '0x917ffbbe'
+- name: ALIEN6.RED
+  size: 1457059
+  date: '1994-05-13T17:46:32'
+  crc: '0xd4473c52'
+- name: ALIEN7.RED
+  size: 1456764
+  date: '1994-05-13T17:49:34'
+  crc: '0x54378970'
+- name: DISK.ID
+  size: 30
+  date: '1994-05-14T01:00:00'
+  crc: '0x1209c256'
+- name: DISK.ID2
+  size: 30
+  date: '1994-05-14T01:00:00'
+  crc: '0x55a9b886'
+- name: DISK.ID3
+  size: 30
+  date: '1994-05-14T01:00:00'
+  crc: '0x68c99136'
+- name: DISK.ID4
+  size: 30
+  date: '1994-05-14T01:00:00'
+  crc: '0xdae94d26'
+- name: DISK.ID5
+  size: 30
+  date: '1994-05-14T01:00:00'
+  crc: '0xe7896496'
+- name: DISK.ID6
+  size: 30
+  date: '1994-05-14T01:00:00'
+  crc: '0xa0291e46'
+- name: DISK.ID7
+  size: 30
+  date: '1994-05-14T01:00:00'
+  crc: '0x9d4937f6'
+- name: INSTALL.DAT
+  size: 8008
+  date: '2017-09-10T17:26:52'
+  crc: '0x8391a25f'
+- name: INSTALL.DA_
+  size: 8008
+  date: '1994-05-17T17:18:26'
+  crc: '0x5a8635ab'
+- name: INSTALL.EXE
+  size: 102983
+  date: '1993-09-20T03:22:00'
+  crc: '0x9f8e597a'

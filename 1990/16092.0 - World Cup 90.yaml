@@ -1,0 +1,54 @@
+filename: World Cup 90 (1990)(Genias) [Sports].zip
+tdc_id: '16092.0'
+title:
+  box: World Cup 90
+publisher: Genias
+year: '1990'
+genre: Sports
+language: English
+date:
+  added: '2019-03-01T18:34:36'
+  last_modified: '2019-03-01T18:34:36'
+type: zip
+commands:
+  play: WC90.EXE
+references:
+  dosid: DOS07227
+  exodos: World Cup 90 (1990).zip
+files:
+- name: CGA.BGI
+  size: 6029
+  date: '1987-12-16T04:00:00'
+  crc: '0xcd2d7722'
+- name: WC90.EXE
+  size: 53504
+  date: '1989-09-03T07:01:08'
+  crc: '0x30324a30'
+- name: WC901.DAT
+  size: 28160
+  date: '1989-08-18T23:56:28'
+  crc: '0xef7ecf18'
+- name: WC902.DAT
+  size: 3584
+  date: '1989-08-18T22:54:34'
+  crc: '0xb5ab1bc3'
+- name: WC903.DAT
+  size: 512
+  date: '1989-08-18T22:56:28'
+  crc: '0x2b24c309'
+- name: WC904.DAT
+  size: 512
+  date: '1989-08-18T23:04:12'
+  crc: '0x6caf5218'
+- name: WC905.DAT
+  size: 114688
+  date: '1989-08-31T11:39:50'
+  crc: '0x5406a2e2'
+- name: WC906.DAT
+  size: 3584
+  date: '1989-08-18T22:37:40'
+  crc: '0x638a9c19'
+- name: WC907.DAT
+  size: 3584
+  date: '1989-08-18T22:41:04'
+  crc: '0x3f526979'

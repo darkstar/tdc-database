@@ -1,0 +1,50 @@
+filename: Mission (Fr) (1987)(Loriciels) [Action].zip
+tdc_id: '14307.0'
+title:
+  box: Mission
+publisher: Loriciels
+year: '1987'
+genre: Action
+language: French
+date:
+  added: '2019-03-01T18:25:28'
+  last_modified: '2019-03-01T18:25:28'
+type: zip
+commands:
+  play: MISSION.EXE
+references:
+  dosid: DOS03591
+  exodos: Mission (1987).zip
+files:
+- name: DATA1.MIS
+  size: 5728
+  date: '1987-06-01T10:38:32'
+  crc: '0x8479954c'
+- name: DATA2.MIS
+  size: 17500
+  date: '2015-07-23T15:02:54'
+  crc: '0x11be56bc'
+- name: DATA3.MIS
+  size: 17500
+  date: '2011-01-07T15:36:06'
+  crc: '0x5c2869e1'
+- name: DATA4.MIS
+  size: 16384
+  date: '2015-07-18T08:23:44'
+  crc: '0xa7dec095'
+- name: DATA5.MIS
+  size: 40658
+  date: '2012-02-17T14:46:58'
+  crc: '0x392d2231'
+- name: MISSION.EXE
+  size: 57020
+  date: '2015-07-24T04:35:50'
+  crc: '0x17e41777'
+- name: SATA2.MIS
+  size: 17150
+  date: '2015-07-18T09:38:52'
+  crc: '0x99a7f975'
+- name: SATA3.MIS
+  size: 17150
+  date: '2015-07-19T14:50:04'
+  crc: '0xc70ec517'

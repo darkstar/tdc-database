@@ -1,0 +1,39 @@
+filename: Days of Thunder (Installer) (1990)(Mindscape, Inc.) [Racing - Driving, Simulation].zip
+tdc_id: '12987.1'
+parent_id: '12987.4'
+title:
+  box: Days of Thunder
+publisher: Mindscape, Inc.
+year: '1990'
+genre:
+- Racing - Driving
+- Simulation
+language: English
+date:
+  added: '2019-03-01T18:32:20'
+  last_modified: '2019-03-01T18:32:20'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DI1.QPZ
+  size: 4
+  date: '1990-08-23T17:54:40'
+  crc: '0xbc59f60e'
+- name: DI2.QPZ
+  size: 4
+  date: '1990-08-23T17:55:18'
+  crc: '0xbc59f60e'
+- name: DOT1.TZF
+  size: 274924
+  date: '1990-08-23T17:54:40'
+  crc: '0xc3f9abf9'
+- name: DOT2.TZF
+  size: 290785
+  date: '1990-08-23T17:55:18'
+  crc: '0x72af14a4'
+- name: INSTALL.EXE
+  size: 52292
+  date: '1990-08-23T17:54:40'
+  crc: '0x58d2039a'

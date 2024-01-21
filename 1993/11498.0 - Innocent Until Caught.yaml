@@ -1,0 +1,49 @@
+filename: Innocent Until Caught v1.0 (Installer) (1993)(Psygnosis Limited) [Adventure].zip
+tdc_id: '11498.0'
+title:
+  box: Innocent Until Caught
+publisher: Psygnosis Limited
+year: '1993'
+genre: Adventure
+language: English
+date:
+  added: '2021-06-22T11:35:52'
+  last_modified: '2021-06-22T11:35:52'
+version: '1.0'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 28507
+  date: '1993-10-14T15:54:20'
+  crc: '0x531a1cbf'
+- name: IUC_1.RNC
+  size: 1427664
+  date: '1993-10-22T13:08:22'
+  crc: '0xd3c1c453'
+- name: IUC_2.RNC
+  size: 1457664
+  date: '1993-10-22T13:08:22'
+  crc: '0xba0e63f1'
+- name: IUC_3.RNC
+  size: 1457664
+  date: '1993-10-22T13:08:22'
+  crc: '0x3e24fe25'
+- name: IUC_4.RNC
+  size: 1457664
+  date: '1993-10-22T13:08:22'
+  crc: '0x986c2cb6'
+- name: IUC_5.RNC
+  size: 1457664
+  date: '1993-10-22T13:08:22'
+  crc: '0x848bd2bb'
+- name: IUC_6.RNC
+  size: 1457664
+  date: '1993-10-22T13:08:22'
+  crc: '0x4743b0a3'
+- name: IUC_7.RNC
+  size: 35963
+  date: '1993-10-22T13:08:22'
+  crc: '0x96eabc62'

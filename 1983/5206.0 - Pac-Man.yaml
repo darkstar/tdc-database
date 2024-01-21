@@ -1,0 +1,24 @@
+filename: Pac-Man [DC] (1983)(Atarisoft) [Action].zip
+tdc_id: '5206.0'
+title:
+  box: Pac-Man
+publisher: Atarisoft
+year: '1983'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:23:16'
+  last_modified: '2019-03-01T18:23:16'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: PACMAN.COM
+references:
+  dosid: DOS05948
+  exodos: Pac-Man (1983).zip
+files:
+- name: PACMAN.COM
+  size: 11243
+  date: '1980-01-01T00:02:34'
+  crc: '0x02c0e233'

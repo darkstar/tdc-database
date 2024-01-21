@@ -1,0 +1,36 @@
+filename: Murder in the Marching Band (1989)(Sam Xenubius) [Adventure, Interactive Fiction].zip
+tdc_id: '1764.0'
+title:
+  screen: Murder in the Marching Band
+publisher: Sam Xenubius
+year: '1989'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:28:26'
+  last_modified: '2019-03-01T18:28:26'
+type: zip
+commands:
+  play: MMB.EXE
+references:
+  dosid: DOS00084
+  exodos: Murder in the Marching Band (1989).zip
+files:
+- name: BANDATA.DAT
+  size: 1079
+  date: '1989-06-11T12:52:02'
+  crc: '0x2720302d'
+- name: MMB.DOC
+  size: 8938
+  date: '1990-08-20T11:30:44'
+  crc: '0xc58eb745'
+- name: MMB.EXE
+  size: 80576
+  date: '1989-06-16T23:46:42'
+  crc: '0x4b4e52e8'
+- name: NUMDATA.DAT
+  size: 161
+  date: '1989-08-24T22:06:32'
+  crc: '0xea21edcb'

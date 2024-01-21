@@ -1,0 +1,48 @@
+filename: Backlash - A Turret Gunner Simulation v1.20 (Installer) [SWR] (1995)(Sanctuary Software Studio, Inc.) [Action].zip
+tdc_id: '12346.1'
+title:
+  screen: Backlash - A Turret Gunner Simulation
+publisher: Sanctuary Software Studio, Inc.
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2020-05-17T18:13:42'
+  last_modified: '2020-05-17T18:13:42'
+version: '1.20'
+type: zip
+tags:
+- SharewareRegistered
+installer: true
+commands:
+  play: INSTALL.EXE
+notes: is this the v1.5 edition?
+files:
+- name: BL0000.BAG
+  size: 1305
+  date: '1996-12-24T23:32:00'
+  crc: '0xe43c491b'
+- name: BL0001.BAG
+  size: 1370000
+  date: '1996-12-24T23:32:00'
+  crc: '0x97a3a459'
+- name: BL0002.BAG
+  size: 1457152
+  date: '1996-12-24T23:32:00'
+  crc: '0xef83d973'
+- name: BL0003.BAG
+  size: 1457152
+  date: '1996-12-24T23:32:00'
+  crc: '0x5639e5df'
+- name: BL0004.BAG
+  size: 1329483
+  date: '1996-12-24T23:32:00'
+  crc: '0x42ad85c4'
+- name: HELP.TXT
+  size: 2694
+  date: '1996-12-24T23:32:00'
+  crc: '0xeb9fbe56'
+- name: INSTALL.EXE
+  size: 78772
+  date: '1996-12-24T23:32:00'
+  crc: '0xc7e8273a'

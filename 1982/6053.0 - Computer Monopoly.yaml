@@ -1,0 +1,30 @@
+filename: Computer Monopoly (1982)(Anonymous) [Strategy, Board].zip
+tdc_id: '6053.0'
+title:
+  screen: Computer Monopoly
+publisher: Anonymous
+year: '1982'
+genre:
+- Strategy
+- Board
+language: English
+date:
+  added: '2019-03-01T18:22:58'
+  last_modified: '2019-03-01T18:22:58'
+type: zip
+media: Download
+commands:
+  play: MONOPOLY.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: MONOPOLY.BAS
+  size: 16384
+  date: '1982-05-23T08:00:00'
+  crc: '0x8923d312'
+- name: MONOPOLY.BAT
+  size: 19
+  date: '2014-12-18T17:59:58'
+  crc: '0xe571b9ec'

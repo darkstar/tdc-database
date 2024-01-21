@@ -1,0 +1,70 @@
+filename: Simulman 10 - Pentagram (Installer) (It) (1994)(Simulmondo) [Action, Adventure].zip
+tdc_id: '15098.0'
+title:
+  box: Simulman 10 - Pentagram
+publisher: Simulmondo
+year: '1994'
+genre:
+- Action
+- Adventure
+language: Italian
+date:
+  added: '2019-03-02T07:16:22'
+  last_modified: '2022-11-23T10:27:40'
+type: zip
+installer: true
+commands:
+  play: INSTALL.BAT
+files:
+- name: 1.U
+  size: 613122
+  date: '1994-01-18T15:38:52'
+  crc: '0xd1ca933a'
+- name: 2.U
+  size: 614992
+  date: '1994-01-18T15:39:58'
+  crc: '0xaf804844'
+- name: ANI1.ANI
+  size: 25370
+  date: '1993-08-26T09:34:26'
+  crc: '0xdf0abdbf'
+- name: ANIBAN.ANI
+  size: 6147
+  date: '1993-05-27T17:59:32'
+  crc: '0xef1dcda0'
+- name: GENE.CHV
+  size: 6077
+  date: '1993-08-25T11:17:10'
+  crc: '0x008d9588'
+- name: INST.EXE
+  size: 38477
+  date: '1993-09-07T19:03:50'
+  crc: '0xeeffdeda'
+- name: INSTALL.BAT
+  size: 66
+  date: '1993-06-05T18:19:20'
+  crc: '0xa2faf4c2'
+- name: INST_DAT.KXX
+  size: 738
+  date: '1994-01-18T10:17:02'
+  crc: '0xbadcdf7d'
+- name: INST_MAN.KIT
+  size: 6879
+  date: '1994-01-18T10:04:44'
+  crc: '0xefb81fd9'
+- name: INST_TXT.KIT
+  size: 4251
+  date: '1994-01-13T16:23:22'
+  crc: '0xad9d2329'
+- name: RESETTA.COM
+  size: 19
+  date: '1992-12-17T15:23:44'
+  crc: '0xc6a39750'
+- name: SPOTX00.LBM
+  size: 40074
+  date: '1994-01-14T12:08:56'
+  crc: '0x130534e6'
+- name: SPOT_DD.LBM
+  size: 37904
+  date: '1994-01-18T14:12:46'
+  crc: '0x642f6481'

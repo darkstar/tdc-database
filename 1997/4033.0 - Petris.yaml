@@ -1,0 +1,58 @@
+filename: Petris v2.4 (De) (1997)(Peter Suter) [Action, Strategy].zip
+tdc_id: '4033.0'
+title:
+  screen: Petris
+publisher: Peter Suter
+year: '1997'
+genre:
+- Action
+- Strategy
+language: German
+date:
+  added: '2019-03-02T10:36:20'
+  last_modified: '2019-03-02T10:36:20'
+version: '2.4'
+type: zip
+commands:
+  play: PETRIS.EXE
+files:
+- name: ATTOOLS.PAS
+  size: 4357
+  date: '1998-04-12T21:01:04'
+  crc: '0xfa09c6dd'
+- name: COLOR.PAS
+  size: 7549
+  date: '1998-04-12T21:01:28'
+  crc: '0x5df3e3d9'
+- name: FILER.PAS
+  size: 3311
+  date: '1998-04-12T21:03:18'
+  crc: '0x35cb315b'
+- name: FONT.PAS
+  size: 6729
+  date: '1998-07-12T20:15:08'
+  crc: '0xa0b6fc89'
+- name: FX.PAS
+  size: 2430
+  date: '1998-05-17T16:00:00'
+  crc: '0x4515c340'
+- name: MOUSE.PAS
+  size: 1186
+  date: '1998-04-12T20:51:20'
+  crc: '0xc8d04048'
+- name: PETRIS.EXE
+  size: 14480
+  date: '1998-07-12T19:31:22'
+  crc: '0xc16f9f6a'
+- name: PETRIS.PAS
+  size: 17783
+  date: '1998-07-01T20:04:34'
+  crc: '0xfe2c77bc'
+- name: PETRIS.VAR
+  size: 2176
+  date: '1997-07-03T13:27:12'
+  crc: '0x4f40832d'
+- name: TASTEN.PAS
+  size: 3684
+  date: '1998-04-12T21:02:02'
+  crc: '0x95fd4d29'

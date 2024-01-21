@@ -1,0 +1,69 @@
+filename: Legend of Kyrandia, The- Hand of Fate v1.00c (Installer) (1993)(Virgin Games, Inc.) [Adventure].zip
+tdc_id: '11848.3'
+title:
+  box: 'The Legend of Kyrandia: Hand of Fate'
+publisher: Virgin Games, Inc.
+year: '1993'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T19:11:34'
+  last_modified: '2019-03-01T19:11:34'
+version: 1.00c
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 78352
+  date: '1993-10-24T12:50:24'
+  crc: '0xa626cc51'
+- name: INSTENG.DIP
+  size: 3007
+  date: '1993-10-13T12:06:20'
+  crc: '0xf9489176'
+- name: WESTWOOD.001
+  size: 1353735
+  date: '1993-10-31T20:02:24'
+  crc: '0xdd90d14a'
+- name: WESTWOOD.002
+  size: 1457153
+  date: '1993-10-31T19:54:46'
+  crc: '0xb227bd97'
+- name: WESTWOOD.003
+  size: 1457153
+  date: '1993-10-31T19:36:50'
+  crc: '0xaf83d761'
+- name: WESTWOOD.004
+  size: 1457153
+  date: '1993-10-31T19:57:24'
+  crc: '0x672d6e3f'
+- name: WESTWOOD.005
+  size: 1457153
+  date: '1993-10-31T19:58:38'
+  crc: '0x36803452'
+- name: WESTWOOD.006
+  size: 1457153
+  date: '1993-10-31T19:59:48'
+  crc: '0x62035f6b'
+- name: WESTWOOD.007
+  size: 1457153
+  date: '1993-10-31T20:01:00'
+  crc: '0x1717f198'
+- name: WESTWOOD.008
+  size: 1415996
+  date: '1993-10-31T20:02:08'
+  crc: '0xbd64f2ee'
+- name: WESTWOOD.DLL
+  size: 9232
+  date: '1992-06-11T15:18:26'
+  crc: '0x671546ab'
+- name: WESTWOOD.PIF
+  size: 545
+  date: '1993-07-16T22:26:36'
+  crc: '0x1f55e5d0'
+- name: WWUNCOMP.DLL
+  size: 10256
+  date: '1993-09-20T16:32:04'
+  crc: '0x10612718'

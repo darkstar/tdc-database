@@ -1,0 +1,52 @@
+filename: Animal Quest v1.0 (Installer) [SW] (1993)(Express Software) [Educational, Simulation].zip
+tdc_id: '8641.11'
+parent_id: '8641.18'
+title:
+  screen: Animal Quest
+publisher: Express Software
+year: '1993'
+genre:
+- Educational
+- Simulation
+language: English
+date:
+  added: '2022-12-20T11:08:00'
+  last_modified: '2022-12-20T11:08:00'
+version: '1.0'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: EXPRESS.BAT
+references:
+  mobygames: https://www.mobygames.com/game/animal-quest
+files:
+- name: A8011093.0
+  size: 0
+  date: '1993-09-30T11:50:46'
+- name: CAL1.DAT
+  size: 1864
+  date: '1993-01-09T22:37:52'
+  crc: '0x9a03aee7'
+- name: CAL2.DAT
+  size: 1783
+  date: '1993-01-09T22:38:14'
+  crc: '0xafb593a5'
+- name: EXP.EXE
+  size: 43116
+  date: '1993-06-06T17:47:28'
+  crc: '0x01e106a4'
+- name: EXPRESS.BAT
+  size: 417
+  date: '1993-01-11T13:25:14'
+  crc: '0xaf13dc17'
+- name: EXPRESS.DAT
+  size: 415
+  date: '1993-06-03T13:58:08'
+  crc: '0x0b22635a'
+- name: PKQUEST.EXE
+  size: 209627
+  date: '1993-06-03T13:50:28'
+  crc: '0x823ec193'

@@ -1,0 +1,62 @@
+filename: Sesame Street- Learning Classics (Installer) (1991)(Hi-Tech Expressions, Inc.) [Educational, Compilation].zip
+tdc_id: '17314.2'
+parent_id: '17314.1'
+title:
+  box: 'Sesame Street: Learning Classics'
+  qualifier: Installer
+publisher: Hi-Tech Expressions, Inc.
+year: '1991'
+genre:
+- Educational
+- Compilation
+language: English
+date:
+  added: '2023-05-02T08:40:57'
+  last_modified: '2023-05-02T08:40:57'
+type: zip
+media: 360K
+installer: true
+compilation: true
+commands:
+  play: INSTALL.COM
+files:
+- name: INSTALL.COM
+  size: 14305
+  date: '1991-09-05T20:02:20'
+  crc: '0xfd42b926'
+- name: INSTALL.DAT
+  size: 189
+  date: '1991-09-05T17:09:06'
+  crc: '0x83c46447'
+- name: LHA.EXE
+  size: 34283
+  date: '1991-07-20T02:13:00'
+  crc: '0x2c68a172'
+- name: SSC_AG.LZH
+  size: 47876
+  date: '1991-09-03T17:03:34'
+  crc: '0x5ac8d020'
+- name: SSC_BBSD.LZH
+  size: 39140
+  date: '1991-09-03T17:03:46'
+  crc: '0x362c9cfb'
+- name: SSC_EBS.LZH
+  size: 75934
+  date: '1991-09-03T17:04:14'
+  crc: '0x6d66cedc'
+- name: SSC_EMS.LZH
+  size: 40733
+  date: '1991-09-03T17:03:40'
+  crc: '0x7d68c770'
+- name: SSC_GAA.LZH
+  size: 108274
+  date: '1991-09-03T17:04:02'
+  crc: '0x47423af8'
+- name: SSC_LGR.LZH
+  size: 52800
+  date: '1991-09-03T17:04:40'
+  crc: '0x0a123360'
+- name: SSC_PAT.LZH
+  size: 98348
+  date: '1991-09-03T17:04:28'
+  crc: '0x60acaf49'

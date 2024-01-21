@@ -1,0 +1,26 @@
+filename: Color Lines (1992)(GAMOS Ltd.) [Strategy].zip
+tdc_id: '9324.0'
+title:
+  screen: Color Lines
+publisher: GAMOS Ltd.
+year: '1992'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:41:52'
+  last_modified: '2019-03-01T18:41:52'
+type: zip
+commands:
+  play: lines.exe
+references:
+  dosid: DOS01432
+  exodos: Color Lines (1992).zip
+files:
+- name: LINES.EXE
+  size: 108432
+  date: '1992-11-10T10:51:12'
+  crc: '0x485b2f74'
+- name: LINES.LIB
+  size: 198125
+  date: '1992-10-06T01:32:22'
+  crc: '0xf91a08a8'

@@ -1,0 +1,35 @@
+filename: Zone Raiders (demo) v1.14s (Installer) (1995)(Virgin Interactive Entertainment, Inc.) [Action, Racing - Driving].zip
+tdc_id: '15755.2'
+title:
+  screen: Zone Raiders
+  qualifier: demo
+publisher: Virgin Interactive Entertainment, Inc.
+year: '1995'
+genre:
+- Action
+- Racing - Driving
+language: English
+date:
+  added: '2022-12-16T20:26:57'
+  last_modified: '2022-12-16T20:26:57'
+version: 1.14s
+type: zip
+installer: true
+demo: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/zone-raiders
+files:
+- name: INSTALL.EXE
+  size: 35136
+  date: '1995-09-27T13:57:32'
+  crc: '0x06c0f89c'
+- name: RAID001.DAT
+  size: 2130246
+  date: '1995-09-27T13:58:28'
+  crc: '0x34912144'
+- name: README.TXT
+  size: 17357
+  date: '1995-09-27T13:54:32'
+  crc: '0xc567f362'

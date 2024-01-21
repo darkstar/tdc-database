@@ -1,0 +1,86 @@
+filename: 魔龍紀事 (Installer) (Zh) (1994)(Tan Ton Nerw Information Co.,Ltd.) [Role-Playing (RPG), Adult].zip
+tdc_id: '10858.0'
+title:
+  box: 魔龍紀事
+  screen: Quintia Road 2
+  qualifier: Installer
+publisher: Tan Ton Nerw Information Co.,Ltd.
+year: '1994'
+genre:
+- Role-Playing (RPG)
+- Adult
+language: Chinese
+date:
+  added: '2019-03-01T19:16:58'
+  last_modified: '2023-12-27T19:07:12'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/58916/quintia-road-ii/
+files:
+- name: ASCII16.FON
+  size: 3840
+  date: '1992-09-01T00:00:00'
+  crc: '0x25ca2edf'
+- name: DISK.A
+  size: 2
+  date: '1994-12-30T14:58:58'
+  crc: '0x14a285ac'
+- name: DISK.B
+  size: 2
+  date: '1994-12-30T14:59:06'
+  crc: '0x14a285ac'
+- name: DISK.C
+  size: 2
+  date: '1994-12-30T14:59:18'
+  crc: '0x14a285ac'
+- name: DISK.D
+  size: 2
+  date: '1994-12-30T14:59:26'
+  crc: '0x14a285ac'
+- name: DISK_A
+  size: 0
+  date: '1994-12-31T11:22:46'
+- name: DISK_B
+  size: 0
+  date: '1994-12-31T11:25:54'
+- name: DISK_C
+  size: 0
+  date: '1994-12-31T11:28:00'
+- name: DISK_D
+  size: 0
+  date: '1994-12-31T08:32:26'
+- name: DRAGON.TRJ
+  size: 640579
+  date: '1994-12-31T11:03:28'
+  crc: '0x56d92de5'
+- name: HMA.TRJ
+  size: 480027
+  date: '1994-12-30T14:56:56'
+  crc: '0xd2e5c034'
+- name: INSTALL.BIN
+  size: 3213
+  date: '1994-11-09T16:45:48'
+  crc: '0x7301ae0f'
+- name: INSTALL.CMD
+  size: 909
+  date: '1994-12-30T15:06:36'
+  crc: '0x34f69582'
+- name: INSTALL.EXE
+  size: 53952
+  date: '1994-12-29T04:30:42'
+  crc: '0x52ecb4f7'
+- name: INSTALL.R16
+  size: 81666
+  date: '1994-12-29T04:24:10'
+  crc: '0x30f2f92d'
+- name: MA.TRJ
+  size: 1073286
+  date: '1994-12-30T14:55:50'
+  crc: '0xb4b8e4ce'
+- name: PAC.TRJ
+  size: 748851
+  date: '1994-12-30T14:57:38'
+  crc: '0xb5d10063'

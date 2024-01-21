@@ -1,0 +1,30 @@
+filename: Pac-Man [FW] (1996)(John Wantland) [Action].zip
+tdc_id: '10562.0'
+title:
+  screen: Pac-Man
+publisher: John Wantland
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:15:48'
+  last_modified: '2023-10-24T12:08:43'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 26
+  date: '2018-03-25T17:15:24'
+  crc: '0xd6261988'
+- name: PACMAN.BAS
+  size: 13131
+  date: '2018-03-10T01:56:08'
+  crc: '0x4f7922ed'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T01:28:02'
+  crc: '0x19f6ed75'

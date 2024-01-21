@@ -1,0 +1,91 @@
+filename: Space Racer [f1] (1988)(Brøderbund Software, Inc.) [Action, Racing - Driving][!].zip
+tdc_id: '15305.1'
+title:
+  box: Space Racer
+publisher: Brøderbund Software, Inc.
+year: '1988'
+genre:
+- Action
+- Racing - Driving
+language: English
+date:
+  added: '2021-02-06T06:36:58'
+  last_modified: '2021-02-06T06:36:58'
+type: zip
+tags:
+- KnownGood
+- Fixed: 1
+commands:
+  play: SR.EXE
+references:
+  dosid: DOS04716
+  exodos: Space Racer (1988).zip
+files:
+- name: FINISH.PI1
+  size: 16384
+  date: '1988-12-09T00:00:00'
+  crc: '0x32f09e01'
+- name: MENU.PI1
+  size: 16384
+  date: '1988-12-09T00:00:00'
+  crc: '0x67962dc3'
+- name: MONTAIN0.PI1
+  size: 16384
+  date: '1988-12-09T00:00:00'
+  crc: '0x0717eef0'
+- name: MONTAIN1.PI1
+  size: 16384
+  date: '1988-12-09T00:00:00'
+  crc: '0x0bd5f4ce'
+- name: MONTAIN2.PI1
+  size: 16384
+  date: '1988-12-09T00:00:00'
+  crc: '0xd0f6bf08'
+- name: MUSIC0.SPL
+  size: 42000
+  date: '1988-12-09T00:00:00'
+  crc: '0x57b2c0d9'
+- name: MUSIC1.SPL
+  size: 56085
+  date: '1988-12-09T00:00:00'
+  crc: '0x843add2f'
+- name: PRES.PI1
+  size: 16384
+  date: '1988-12-09T00:00:00'
+  crc: '0x2f5b3cb6'
+- name: RAIL.PI1
+  size: 16384
+  date: '1988-12-09T00:00:00'
+  crc: '0x7da9c71a'
+- name: SR.EXE
+  size: 38912
+  date: '1988-12-09T00:00:00'
+  crc: '0xc9b3e812'
+- name: SR.EX_
+  size: 38912
+  date: '1988-12-09T00:00:00'
+  crc: '0x14249613'
+- name: TOUT0.BIN
+  size: 22910
+  date: '1988-12-09T00:00:00'
+  crc: '0xbb7a1d48'
+- name: TOUT0.MSK
+  size: 22910
+  date: '1988-12-09T00:00:00'
+  crc: '0x94ebfb47'
+- name: TOUT1.BIN
+  size: 14739
+  date: '1988-12-09T00:00:00'
+  crc: '0xc7301b77'
+- name: TOUT1.MSK
+  size: 14739
+  date: '1988-12-09T00:00:00'
+  crc: '0x7e553320'
+- name: VOIX.SPL
+  size: 13700
+  date: '1988-12-09T00:00:00'
+  crc: '0x3ecec1b5'
+- name: WELCOME.PI1
+  size: 16384
+  date: '1988-12-09T00:00:00'
+  crc: '0xca9dc72b'

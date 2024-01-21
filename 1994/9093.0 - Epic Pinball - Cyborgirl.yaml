@@ -1,0 +1,44 @@
+filename: Epic Pinball - Cyborgirl (Installer) (1994)(Epic MegaGames, Inc.) [Action].zip
+tdc_id: '9093.0'
+parent_id: '9093.1'
+title:
+  box: Epic Pinball - Cyborgirl
+publisher: Epic MegaGames, Inc.
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T21:56:32'
+  last_modified: '2019-03-01T21:56:32'
+type: zip
+installer: true
+commands:
+  play: GO.EXE
+references:
+  dosid: DOS07686
+  exodos: Cyborgirl (1995).zip
+files:
+- name: GO.EXE
+  size: 22992
+  date: '1994-09-27T17:59:22'
+  crc: '0x7dc57a44'
+- name: INSTALL.BIN
+  size: 4000
+  date: '1994-09-02T17:00:36'
+  crc: '0x201e41ae'
+- name: INSTALL.DAT
+  size: 22
+  date: '1994-09-02T14:31:14'
+  crc: '0x6e66c570'
+- name: INSTALL.PCX
+  size: 5075
+  date: '1994-09-27T17:01:32'
+  crc: '0x29b5bbf2'
+- name: PINLCR31.X00
+  size: 82
+  date: '1994-09-02T14:31:14'
+  crc: '0x7a14fdcc'
+- name: PINLCR31.Z01
+  size: 630406
+  date: '1994-09-02T14:30:56'
+  crc: '0x533c5123'

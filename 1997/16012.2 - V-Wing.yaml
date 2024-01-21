@@ -1,0 +1,77 @@
+filename: V-Wing v1.91 [SWR] (1997)(Simo Siiria) [Action].zip
+tdc_id: '16012.2'
+title:
+  screen: V-Wing
+publisher: Simo Siiria
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:39:12'
+  last_modified: '2019-03-02T10:39:12'
+version: '1.91'
+type: zip
+tags:
+- SharewareRegistered
+commands:
+  play: VWING.EXE
+references:
+  dosid: DOS05522
+  exodos: V-Wing (1997).zip
+files:
+- name: FONT.DAT
+  size: 9308
+  date: '1996-08-22T22:17:12'
+  crc: '0x18c4ef3d'
+- name: LEVEL1.LEV
+  size: 82982
+  date: '1996-08-22T22:17:06'
+  crc: '0xeadf2e29'
+- name: LEVEL2.LEV
+  size: 74986
+  date: '1996-08-22T22:17:06'
+  crc: '0x680d45f3'
+- name: LEVEL3.LEV
+  size: 70888
+  date: '1996-08-22T22:17:06'
+  crc: '0xdb959b96'
+- name: LEVEL4.LEV
+  size: 66278
+  date: '1996-08-22T22:17:08'
+  crc: '0xdabb096f'
+- name: LEVEL5.LEV
+  size: 89479
+  date: '1996-08-22T22:17:08'
+  crc: '0xffc199eb'
+- name: LEVEL6.LEV
+  size: 62845
+  date: '1996-08-22T22:17:08'
+  crc: '0x9431801e'
+- name: LEVEL7.LEV
+  size: 150591
+  date: '1996-08-22T22:17:10'
+  crc: '0x7eb19f8b'
+- name: LEVEL8.LEV
+  size: 58977
+  date: '1996-08-22T22:17:10'
+  crc: '0xd9216101'
+- name: LEVEL9.LEV
+  size: 66794
+  date: '1996-08-22T22:17:12'
+  crc: '0x60dc0142'
+- name: LOGO.DAT
+  size: 4908
+  date: '1996-04-10T17:07:08'
+  crc: '0xf0c6f3ff'
+- name: VWING.CFG
+  size: 134
+  date: '1999-01-24T17:15:46'
+  crc: '0xc424f590'
+- name: VWING.DOC
+  size: 79462
+  date: '1996-08-21T20:10:42'
+  crc: '0x282bbd54'
+- name: VWING.EXE
+  size: 505331
+  date: '1996-09-15T00:25:50'
+  crc: '0xa8978b07'

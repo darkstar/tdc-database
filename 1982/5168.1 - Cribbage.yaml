@@ -1,0 +1,34 @@
+filename: Cribbage (mono) (1982)(Patrick Leabo) [Strategy, Cards].zip
+tdc_id: '5168.1'
+title:
+  screen: Cribbage
+  qualifier: mono
+publisher: Patrick Leabo
+year: '1982'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:22:58'
+  last_modified: '2019-03-01T18:22:58'
+type: zip
+commands:
+  play: CRIBBAGE.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: CRIBBAGE.BAS
+  size: 23296
+  date: '1980-01-01T00:05:30'
+  crc: '0x12201d1c'
+- name: CRIBBAGE.BAT
+  size: 18
+  date: '1980-01-01T00:00:00'
+  crc: '0xcd35324a'
+- name: CRIBBAGE.BLD
+  size: 128
+  date: '1982-08-22T13:21:06'
+  crc: '0xa42be4b5'

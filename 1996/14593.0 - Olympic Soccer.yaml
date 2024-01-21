@@ -1,0 +1,70 @@
+filename: Olympic Soccer v1.4 (En)(De)(Es)(It)(Fr) [b1] (1996)(U.S. Gold Ltd.) [Sports].zip
+tdc_id: '14593.0'
+title:
+  box: Olympic Soccer
+publisher: U.S. Gold Ltd.
+year: '1996'
+genre: Sports
+language:
+- English
+- Spanish
+- French
+- Italian
+- German
+date:
+  added: '2019-03-02T10:14:14'
+  last_modified: '2019-03-02T10:14:14'
+version: '1.4'
+type: zip
+tags:
+- Bad: 1
+commands:
+  play: SOCCER.EXE
+references:
+  dosid: DOS03813
+  exodos: Olympic Soccer (1996).zip
+files:
+- name: SDSOCCER\
+  size: 0
+  date: '2017-01-20T17:33:52'
+- name: SDSOCCER\CONFIG.INI
+  size: 504
+  date: '1996-12-25T00:32:00'
+  crc: '0x35fa08e4'
+- name: SDSOCCER\FILES.ALL
+  size: 460381
+  date: '1996-12-25T00:32:00'
+  crc: '0x6f852466'
+- name: SDSOCCER\HMIDET.386
+  size: 81990
+  date: '1996-12-25T00:32:00'
+  crc: '0x637c56a8'
+- name: SDSOCCER\HMIDRV.386
+  size: 261425
+  date: '1996-12-25T00:32:00'
+  crc: '0xf6d116a3'
+- name: SDSOCCER\SAVE\
+  size: 0
+  date: '2017-01-20T17:28:46'
+- name: SDSOCCER\SAVE\T.T
+  size: 0
+  date: '1996-12-25T00:32:00'
+- name: SDSOCCER\SETUP.EXE
+  size: 797667
+  date: '1996-12-25T00:32:00'
+  crc: '0xc5c269d2'
+- name: SDSOCCER\SILICOND.WAD
+  size: 14240464
+  date: '1996-12-25T00:32:00'
+  crc: '0x29b167cd'
+- name: SDSOCCER\SPOOL.DAT
+  size: 17808584
+  date: '1996-12-25T00:32:00'
+  crc: '0xc93cd204'
+- name: SDSOCCER\SPRITE.TXT
+  size: 0
+  date: '1996-12-25T00:32:00'
+- name: SOCCER.EXE
+  size: 1304547
+  date: '1996-12-25T00:32:00'
+  crc: '0x5cbeb2ff'

@@ -1,0 +1,32 @@
+filename: Crypt v2.0 [SW] (1990)(Herringbone Software) [Adventure, Interactive Fiction].zip
+tdc_id: '9402.0'
+title:
+  screen: Crypt
+publisher: Herringbone Software
+year: '1990'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:32:14'
+  last_modified: '2019-03-01T18:32:14'
+version: '2.0'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: CRYPT.EXE
+references:
+  dosid: DOS00143
+  exodos: Crypt (1990).zip
+files:
+- name: CRYPT.DOC
+  size: 5138
+  date: '1991-11-21T22:37:30'
+  crc: '0xf02a88cc'
+- name: CRYPT.EXE
+  size: 113364
+  date: '1990-11-03T21:50:42'
+  crc: '0xfa1b2b2a'

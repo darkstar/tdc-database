@@ -1,0 +1,42 @@
+filename: Cookie PC [FW] (1999)(RetroSpec) [Action].zip
+tdc_id: '6119.0'
+title:
+  screen: Cookie PC
+publisher: RetroSpec
+year: '1999'
+genre: Action
+language: English
+date:
+  added: '2017-10-18T20:05:16'
+  last_modified: '2017-10-18T20:05:16'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: cookie.exe
+files:
+- name: CWSDPMI.DOC
+  size: 7073
+  date: '2016-12-27T11:15:30'
+  crc: '0xdfc52298'
+- name: CWSDPMI.EXE
+  size: 25916
+  date: '2016-12-27T11:15:30'
+  crc: '0x8760f94d'
+- name: cookie.dat
+  size: 185857
+  date: '1999-08-28T11:51:54'
+  crc: '0x8959287b'
+- name: cookie.exe
+  size: 212820
+  date: '1999-08-28T11:57:18'
+  crc: '0xb21143ac'
+- name: file_id.diz
+  size: 147
+  date: '1999-09-02T00:33:02'
+  crc: '0x78d6e260'
+- name: readme.txt
+  size: 2582
+  date: '1999-08-24T21:49:02'
+  crc: '0x3949684d'

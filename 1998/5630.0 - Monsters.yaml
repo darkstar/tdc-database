@@ -1,0 +1,60 @@
+filename: Monsters v1.18 (1998)(Peter Swinkels) [Action].zip
+tdc_id: '5630.0'
+title:
+  screen: Monsters
+publisher: Peter Swinkels
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:42:24'
+  last_modified: '2019-03-02T10:42:24'
+version: '1.18'
+type: zip
+commands:
+  play: GO.BAT
+files:
+- name: DRAW.BAS
+  size: 12720
+  date: '2002-11-12T17:17:10'
+  crc: '0x17a1041f'
+- name: DRAWHELP.HLP
+  size: 729
+  date: '2000-03-18T10:04:24'
+  crc: '0x336a9f64'
+- name: FIELDS.LST
+  size: 19
+  date: '2001-10-12T06:52:38'
+  crc: '0x8f07e68d'
+- name: GO.BAT
+  size: 24
+  date: '2018-03-06T14:22:16'
+  crc: '0x1dd2cacc'
+- name: HELP.HLP
+  size: 1329
+  date: '2000-06-28T12:30:36'
+  crc: '0xe8701fcd'
+- name: MONSTERS.BAS
+  size: 23513
+  date: '2007-05-03T09:51:20'
+  crc: '0xddb35770'
+- name: MONSTERS.FLD
+  size: 3680
+  date: '2000-03-16T07:15:46'
+  crc: '0xfe007d00'
+- name: MONSTERS.SET
+  size: 6
+  date: '2007-05-03T09:51:44'
+  crc: '0x783d804d'
+- name: QB.EXE
+  size: 278804
+  date: '2016-03-12T18:19:58'
+  crc: '0xb08bc0fe'
+- name: SCORELST.DAT
+  size: 225
+  date: '2001-10-12T06:29:26'
+  crc: '0x0f4dc3f7'
+- name: TITLE.DAT
+  size: 235
+  date: '2000-02-28T06:17:16'
+  crc: '0x8feaaca8'

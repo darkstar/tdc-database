@@ -1,0 +1,39 @@
+filename: Blade Warrior (Installer) [b1] (1991)(Image Works) [Action, Adventure].zip
+tdc_id: '8493.1'
+title:
+  box: Blade Warrior
+publisher: Image Works
+year: '1991'
+genre:
+- Action
+- Adventure
+language: English
+date:
+  added: '2019-03-01T18:35:02'
+  last_modified: '2019-03-01T18:35:02'
+type: zip
+tags:
+- Bad: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: '581.001'
+  size: 480974
+  date: '1993-09-16T14:50:08'
+  crc: '0xa0a23117'
+- name: 5811BWAR100
+  size: 0
+  date: '1993-11-18T08:01:58'
+- name: DISK.ID
+  size: 37
+  date: '1993-09-16T14:43:16'
+  crc: '0x11ac158d'
+- name: INSTALL.DAT
+  size: 9726
+  date: '1993-09-28T11:13:52'
+  crc: '0xe4186c60'
+- name: INSTALL.EXE
+  size: 97207
+  date: '1993-09-16T14:43:26'
+  crc: '0x5ec4c830'

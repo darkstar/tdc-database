@@ -1,0 +1,61 @@
+filename: Hugo III, Jungle of Doom! v2.1R [SWR] (1995)(Gray Design Associates) [Adventure].zip
+tdc_id: '11407.7'
+title:
+  screen: Hugo III, Jungle of Doom!
+publisher: Gray Design Associates
+year: '1995'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-02T08:55:38'
+  last_modified: '2019-03-02T08:55:38'
+version: 2.1R
+type: zip
+tags:
+- SharewareRegistered
+commands:
+  play: HUGO.EXE
+references:
+  dosid: DOS02667
+  exodos: Hugo 3 - Jungle of Doom (1992).zip
+files:
+- name: HELP.DAT
+  size: 1888
+  date: '1992-09-12T15:47:38'
+  crc: '0x0ae09cbd'
+- name: HUGO.BSF
+  size: 1134
+  date: '1995-12-02T19:25:38'
+  crc: '0x5110f12f'
+- name: HUGO.EXE
+  size: 110587
+  date: '1994-06-05T23:37:30'
+  crc: '0xc2e4f80e'
+- name: MANUAL.DOC
+  size: 10393
+  date: '1995-07-07T13:36:48'
+  crc: '0x43bb8532'
+- name: OBJECTS.DAT
+  size: 136419
+  date: '1992-02-15T13:05:56'
+  crc: '0xf0476085'
+- name: PLAYBACK.DAT
+  size: 6408
+  date: '1992-02-09T11:12:06'
+  crc: '0x47eb8e5c'
+- name: SCENERY1.DAT
+  size: 484746
+  date: '1992-02-15T13:06:22'
+  crc: '0x5b83b044'
+- name: SCENERY2.DAT
+  size: 137029
+  date: '1992-02-15T13:06:22'
+  crc: '0x81a59aaa'
+- name: STRINGS.DAT
+  size: 22777
+  date: '1992-04-05T10:11:52'
+  crc: '0xd03b8170'
+- name: TMSRB.FON
+  size: 45936
+  date: '1987-11-12T13:27:48'
+  crc: '0x3518f506'

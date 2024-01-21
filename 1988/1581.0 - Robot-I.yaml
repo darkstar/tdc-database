@@ -1,0 +1,48 @@
+filename: Robot-I v1.3 (1988)(C & A Softwareproductions) [Action].zip
+tdc_id: '1581.0'
+title:
+  screen: Robot-I
+publisher: C & A Softwareproductions
+year: '1988'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:26:42'
+  last_modified: '2019-03-01T18:26:42'
+version: '1.3'
+type: zip
+commands:
+  play: ROBOT.EXE
+files:
+- name: DEUTSCH.DOC
+  size: 822
+  date: '1988-12-05T13:30:04'
+  crc: '0x5a82542f'
+- name: ENGLISH.DOC
+  size: 671
+  date: '1988-12-05T14:00:04'
+  crc: '0x85fc1915'
+- name: ITEM.ROB
+  size: 19634
+  date: '1988-12-05T13:30:04'
+  crc: '0xc888f38e'
+- name: ITEMG.ROB
+  size: 22363
+  date: '1988-12-05T13:30:04'
+  crc: '0x4b04714e'
+- name: ROBOT.EXE
+  size: 146672
+  date: '1988-12-05T13:30:04'
+  crc: '0xe099d53f'
+- name: ROOMS.DEF
+  size: 139320
+  date: '1988-12-05T13:15:04'
+  crc: '0x15cabd1b'
+- name: ROOMS.ROB
+  size: 7697
+  date: '1988-12-05T13:15:04'
+  crc: '0xa7c06734'
+- name: WINNER.ROB
+  size: 380
+  date: '1991-01-16T18:10:14'
+  crc: '0x993b614c'

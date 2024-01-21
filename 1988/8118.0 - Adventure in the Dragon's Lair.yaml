@@ -1,0 +1,29 @@
+filename: Adventure in the Dragon's Lair v2.00 [SW] (1988)(Kevin L. Shelton) [Adventure, Interactive Fiction].zip
+tdc_id: '8118.0'
+title:
+  screen: Adventure in the Dragon's Lair
+publisher: Kevin L. Shelton
+year: '1988'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:25:52'
+  last_modified: '2019-03-01T18:25:52'
+version: '2.00'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: DRAGLAIR.EXE
+files:
+- name: DRAGLAIR.DOC
+  size: 3546
+  date: '1988-11-01T15:05:52'
+  crc: '0x02640e60'
+- name: DRAGLAIR.EXE
+  size: 55360
+  date: '1988-11-01T09:58:22'
+  crc: '0xe9ca90f4'

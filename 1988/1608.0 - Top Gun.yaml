@@ -1,0 +1,28 @@
+filename: Top Gun (Pinball Construction Set) (1988)(Peter Manca) [Action].zip
+tdc_id: '1608.0'
+title:
+  screen: Top Gun
+  qualifier: Pinball Construction Set
+publisher: Peter Manca
+year: '1988'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:26:54'
+  last_modified: '2019-03-01T18:26:54'
+type: zip
+requirements:
+  cpu:
+    min: '8088'
+media: Download
+commands:
+  play: TOPPGUN.COM
+files:
+- name: PINBALL.DOC
+  size: 560
+  date: '1988-06-25T17:43:24'
+  crc: '0xfa5e2a5c'
+- name: TOPPGUN.COM
+  size: 64512
+  date: '1986-07-25T08:03:54'
+  crc: '0x426036a9'

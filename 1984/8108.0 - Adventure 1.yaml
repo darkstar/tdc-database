@@ -1,0 +1,29 @@
+filename: Adventure 1 (1984)(PC-SIG) [Adventure, Interactive Fiction].zip
+tdc_id: '8108.0'
+title:
+  screen: Adventure 1
+publisher: PC-SIG
+year: '1984'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:23:58'
+  last_modified: '2019-03-01T18:23:58'
+type: zip
+commands:
+  play: ADVENTUR.BAT
+files:
+- name: ADVENTUR.BAS
+  size: 19712
+  date: '1984-10-09T00:43:06'
+  crc: '0xd6b36d87'
+- name: ADVENTUR.BAT
+  size: 19
+  date: '2014-12-18T18:01:22'
+  crc: '0x3decb1c4'
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'

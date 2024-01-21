@@ -1,0 +1,44 @@
+filename: Avish! (1993)(BUG Multisystem Ltd.) [Action].zip
+tdc_id: '12307.0'
+title:
+  screen: Avish!
+publisher: BUG Multisystem Ltd.
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T19:01:16'
+  last_modified: '2019-03-01T19:01:16'
+type: zip
+references:
+  dosid: DOS00907
+  exodos: Avish! (1993).zip
+files:
+- name: AVISH.CFG
+  size: 6
+  date: '1994-11-25T19:36:04'
+  crc: '0xeb8adf1e'
+- name: GAME.EXE
+  size: 45648
+  date: '1993-08-08T20:09:58'
+  crc: '0x0244543c'
+- name: README.TXT
+  size: 2824
+  date: '1999-08-20T00:35:14'
+  crc: '0x571fda3a'
+- name: RESOURCE.DAT
+  size: 790694
+  date: '1993-08-08T20:38:18'
+  crc: '0x54dec476'
+- name: RESOURCE.MUS
+  size: 25071
+  date: '1993-08-08T19:00:02'
+  crc: '0xe7f142c5'
+- name: RESOURCE.SND
+  size: 176467
+  date: '1993-08-04T23:16:50'
+  crc: '0x8d427722'
+- name: SETUP.EXE
+  size: 17968
+  date: '1993-07-29T18:14:32'
+  crc: '0xaa51927f'

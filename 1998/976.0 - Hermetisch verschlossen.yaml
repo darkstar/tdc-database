@@ -1,0 +1,33 @@
+filename: Hermetisch verschlossen v1.1.1 (De) (1998)(Uwe Pilz) [Adventure, Interactive Fiction].zip
+tdc_id: '976.0'
+title:
+  screen: Hermetisch verschlossen
+publisher: Uwe Pilz
+year: '1998'
+genre:
+- Adventure
+- Interactive Fiction
+language: German
+date:
+  added: '2020-10-24T17:25:04'
+  last_modified: '2020-10-24T17:25:04'
+type: zip
+commands:
+  play: HERMET.EXE
+files:
+- name: CWSDPMI.EXE
+  size: 25920
+  date: '1997-11-12T10:07:02'
+  crc: '0x537cbe02'
+- name: HERMET.ACD
+  size: 25600
+  date: '1998-05-27T07:11:22'
+  crc: '0xbb047f3f'
+- name: HERMET.DAT
+  size: 24577
+  date: '1998-05-27T07:11:22'
+  crc: '0xa28eede3'
+- name: HERMET.EXE
+  size: 299319
+  date: '1997-08-14T11:25:20'
+  crc: '0x14b7328c'

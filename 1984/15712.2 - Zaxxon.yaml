@@ -1,0 +1,26 @@
+filename: Zaxxon [DC] (1984)(SEGA Enterprises, Inc.) [Action].zip
+tdc_id: '15712.2'
+title:
+  box: Zaxxon
+publisher: SEGA Enterprises, Inc.
+year: '1984'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:20'
+  last_modified: '2019-03-01T18:24:20'
+type: zip
+tags:
+- DOSConversion
+references:
+  dosid: DOS06013
+  exodos: Zaxxon (1984).zip
+files:
+- name: ZAXXONJR.EXE
+  size: 20992
+  date: '1984-01-01T01:00:00'
+  crc: '0x251065ac'
+- name: ZAXXONPC.EXE
+  size: 20992
+  date: '1984-01-01T01:00:00'
+  crc: '0x4810779a'

@@ -1,0 +1,25 @@
+filename: Chess88 v2.0 (1984)(Don Berg) [Strategy, Chess].zip
+tdc_id: '9256.1'
+title:
+  screen: Chess88
+publisher: Don Berg
+year: '1984'
+genre:
+- Strategy
+- Chess
+language: English
+date:
+  added: '2019-03-01T18:24:02'
+  last_modified: '2019-03-01T18:24:02'
+version: '2.0'
+type: zip
+commands:
+  play: CHESS.EXE
+references:
+  dosid: DOS01356
+  exodos: Chess88 (1984).zip
+files:
+- name: CHESS.EXE
+  size: 9728
+  date: '1984-06-27T08:13:08'
+  crc: '0xb01208b8'

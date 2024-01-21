@@ -1,0 +1,45 @@
+filename: Clyde's Revenge v1.3 [SWR] (1995)(Moonlite Software) [Action].zip
+tdc_id: '5281.2'
+title:
+  screen: Clyde's Revenge
+publisher: Moonlite Software
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T07:31:50'
+  last_modified: '2019-03-02T07:31:50'
+version: '1.3'
+type: zip
+tags:
+- SharewareRegistered
+commands:
+  play: Revenge.exe
+references:
+  dosid: DOS00213
+  exodos: Clyde's Revenge (1995).zip
+files:
+- name: C2.CFG
+  size: 2436
+  date: '2007-07-25T19:21:02'
+  crc: '0xbf7257c4'
+- name: C2.db
+  size: 9396407
+  date: '1995-10-16T12:53:28'
+  crc: '0x10bf9210'
+- name: Dos4gw.exe
+  size: 265396
+  date: '1994-05-31T22:00:32'
+  crc: '0x5cc34b0f'
+- name: Gusmidi.ini
+  size: 6374
+  date: '1995-08-08T20:51:54'
+  crc: '0x7e669c81'
+- name: Order.frm
+  size: 2674
+  date: '2003-10-10T09:15:46'
+  crc: '0x909a357b'
+- name: Revenge.exe
+  size: 546322
+  date: '1995-10-16T12:52:24'
+  crc: '0x5b773b44'

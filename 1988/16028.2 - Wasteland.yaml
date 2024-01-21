@@ -1,0 +1,82 @@
+filename: Wasteland (EGA) (1988)(Electronic Arts, Inc.) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '16028.2'
+title:
+  box: Wasteland
+  qualifier: EGA
+publisher: Electronic Arts, Inc.
+year: '1988'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2022-01-04T20:32:30'
+  last_modified: '2022-01-04T20:32:30'
+type: zip
+commands:
+  play: WL.EXE
+files:
+- name: ALLHTDS1
+  size: 34307
+  date: '1988-06-10T13:40:52'
+  crc: '0x1e364b50'
+- name: ALLHTDS2
+  size: 39230
+  date: '1988-06-10T13:40:52'
+  crc: '0x632ed018'
+- name: ALLPICS1
+  size: 105866
+  date: '1988-08-19T10:33:52'
+  crc: '0xa047b063'
+- name: ALLPICS2
+  size: 133433
+  date: '1988-08-19T10:33:52'
+  crc: '0xf51c6063'
+- name: COLORF.FNT
+  size: 5504
+  date: '1988-12-01T05:25:04'
+  crc: '0x3ef70a01'
+- name: CURS
+  size: 2048
+  date: '1988-12-01T05:25:04'
+  crc: '0x8868f9b9'
+- name: END.CPA
+  size: 21027
+  date: '1988-11-19T23:17:06'
+  crc: '0x72be5aff'
+- name: GAME1
+  size: 159429
+  date: '1988-12-01T04:45:16'
+  crc: '0x68f09dc4'
+- name: GAME2
+  size: 172235
+  date: '1988-12-01T04:45:46'
+  crc: '0xa5ef709c'
+- name: IC0-9.WLF
+  size: 1280
+  date: '1988-12-01T05:25:04'
+  crc: '0x8ac5d743'
+- name: INFO
+  size: 2
+  date: '1988-12-01T05:25:04'
+  crc: '0xd5cc98fe'
+- name: MASKS.WLF
+  size: 320
+  date: '1988-12-01T05:25:04'
+  crc: '0xa63f2362'
+- name: TITLE.PIC
+  size: 18432
+  date: '1988-11-19T23:17:36'
+  crc: '0xe8a4d42e'
+- name: TRANSTBL
+  size: 800
+  date: '1988-12-01T05:25:04'
+  crc: '0x9acb24f5'
+- name: WL.EXE
+  size: 62549
+  date: '1988-12-01T05:16:02'
+  crc: '0x8dc6cb12'
+- name: WLA.BIN
+  size: 4209
+  date: '1988-12-01T05:25:04'
+  crc: '0x19ceeaee'

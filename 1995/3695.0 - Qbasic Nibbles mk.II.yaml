@@ -1,0 +1,32 @@
+filename: Qbasic Nibbles mk.II (1995)(Sammy the Man) [Action].zip
+tdc_id: '3695.0'
+title:
+  screen: Qbasic Nibbles mk.II
+publisher: Sammy the Man
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T08:58:26'
+  last_modified: '2019-03-02T08:58:26'
+type: zip
+media: Download
+commands:
+  play: nibbles.bat
+files:
+- name: nibbles.bas
+  size: 29935
+  date: '1996-08-13T10:50:08'
+  crc: '0xcaa34d0e'
+- name: nibbles.bat
+  size: 27
+  date: '2012-09-29T19:21:32'
+  crc: '0xaea73efe'
+- name: qbasic.exe
+  size: 194309
+  date: '1998-05-11T20:01:00'
+  crc: '0x3152911c'
+- name: qbasic.hlp
+  size: 130881
+  date: '1998-05-11T20:01:00'
+  crc: '0x5f159ed0'

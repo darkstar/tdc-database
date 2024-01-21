@@ -1,0 +1,38 @@
+filename: Code- Europe v1.4 (Installer) (1994)(Compu-Teach) [Educational, Strategy].zip
+tdc_id: '9221.4'
+parent_id: '9221.3'
+title:
+  box: 'Code: Europe'
+  qualifier: Installer
+publisher: Compu-Teach
+year: '1994'
+genre:
+- Educational
+- Strategy
+language: English
+date:
+  added: '2023-07-12T09:11:47'
+  last_modified: '2023-07-12T09:11:47'
+version: '1.4'
+type: zip
+media: 1.44M
+installer: true
+references:
+  mobygames: https://www.mobygames.com/game/6545/code-europe/
+files:
+- name: EUROPE.001
+  size: 1364439
+  date: '1994-04-20T09:51:24'
+  crc: '0x02409a78'
+- name: EUROPE.002
+  size: 585133
+  date: '1994-04-20T09:53:00'
+  crc: '0x98eba866'
+- name: INSTALL.EXE
+  size: 68340
+  date: '1993-11-29T15:26:30'
+  crc: '0xb1756a01'
+- name: INSTALL.S
+  size: 3635
+  date: '1994-04-20T10:28:40'
+  crc: '0xd71d73c0'

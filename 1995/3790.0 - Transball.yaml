@@ -1,0 +1,30 @@
+filename: Transball (Es) (1995)(Brain) [Action].zip
+tdc_id: '3790.0'
+title:
+  screen: Transball
+publisher: Brain
+year: '1995'
+genre: Action
+language: Spanish
+date:
+  added: '2020-11-27T15:19:30'
+  last_modified: '2020-11-27T15:19:30'
+type: zip
+commands:
+  play: TRANSBAL.EXE
+references:
+  dosid: DOS15505
+  exodos: Transball (2003).zip
+files:
+- name: TRANS1.DAT
+  size: 14525
+  date: '1995-09-12T10:29:44'
+  crc: '0xb98ec700'
+- name: TRANS2.DAT
+  size: 41763
+  date: '1995-09-12T11:06:32'
+  crc: '0x3a7fc3d6'
+- name: TRANSBAL.EXE
+  size: 31516
+  date: '1995-09-12T15:14:54'
+  crc: '0x6cf88a97'

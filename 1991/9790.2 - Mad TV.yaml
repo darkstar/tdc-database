@@ -1,0 +1,26 @@
+filename: Mad TV (demo) (Installer) (De) (1991)(Rainbow Arts Software GmbH) [Simulation, Strategy].zip
+tdc_id: '9790.2'
+title:
+  screen: Mad TV
+  qualifier: demo
+publisher: Rainbow Arts Software GmbH
+year: '1991'
+genre:
+- Simulation
+- Strategy
+language: German
+date:
+  added: '2019-03-01T18:36:40'
+  last_modified: '2019-03-01T18:36:40'
+type: zip
+installer: true
+demo: true
+files:
+- name: INSTALL.BAT
+  size: 634
+  date: '1991-10-02T14:38:38'
+  crc: '0x8285f4fd'
+- name: MTVD.EXE
+  size: 348035
+  date: '1991-10-02T13:50:16'
+  crc: '0x4eea6f09'

@@ -1,0 +1,48 @@
+filename: World Circuit v1.03 (Installer) (1992)(MicroProse Software, Inc.) [Racing - Driving, Simulation][!].zip
+tdc_id: '7693.26'
+parent_id: '7693.24'
+title:
+  box: World Circuit
+publisher: MicroProse Software, Inc.
+year: '1992'
+genre:
+- Racing - Driving
+- Simulation
+language: English
+date:
+  added: '2022-02-28T15:28:28'
+  last_modified: '2022-02-28T15:28:28'
+version: '1.03'
+type: zip
+tags:
+- KnownGood
+installer: true
+files:
+- name: F1GP.001
+  size: 1264203
+  date: '1992-11-26T12:31:02'
+  crc: '0x82b1055b'
+- name: F1GP.002
+  size: 1457501
+  date: '1992-11-26T12:34:26'
+  crc: '0x7ed778ca'
+- name: F1GP.003
+  size: 1158395
+  date: '1992-11-26T12:37:44'
+  crc: '0x9571311c'
+- name: INSTALL.EXE
+  size: 96163
+  date: '1992-11-26T12:28:50'
+  crc: '0xd3ed3f5b'
+- name: MPSCOPY.EXE
+  size: 84210
+  date: '1992-11-26T12:28:44'
+  crc: '0x9816d013'
+- name: MPSLABS.IDX
+  size: 5892
+  date: '1992-11-26T12:38:08'
+  crc: '0xac93bece'
+- name: README.TXT
+  size: 5694
+  date: '1992-11-26T12:28:50'
+  crc: '0xb4d9e190'

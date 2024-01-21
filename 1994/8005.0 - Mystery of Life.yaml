@@ -1,0 +1,71 @@
+filename: Mystery of Life v1.2 (Installer) (De) (1994)(mvg Verlag Software) [Strategy, Educational].zip
+tdc_id: '8005.0'
+title:
+  screen: Mystery of Life
+publisher: mvg Verlag Software
+year: '1994'
+genre:
+- Strategy
+- Educational
+language: German
+date:
+  added: '2019-03-01T22:02:16'
+  last_modified: '2019-03-01T22:02:16'
+version: '1.2'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DAT00
+  size: 550988
+  date: '1999-12-31T18:00:00'
+  crc: '0x191adfc7'
+- name: EGOWS
+  size: 286189
+  date: '1999-12-31T18:00:00'
+  crc: '0x12547284'
+- name: INDX
+  size: 38514
+  date: '1999-12-31T18:00:00'
+  crc: '0xca824c68'
+- name: INSTALL.EXE
+  size: 53168
+  date: '1999-12-31T18:00:00'
+  crc: '0x0d11861c'
+- name: LIB00
+  size: 39280
+  date: '1999-12-31T18:00:00'
+  crc: '0xda2364f3'
+- name: MOL10
+  size: 240280
+  date: '1999-12-31T18:00:00'
+  crc: '0x80c50a5c'
+- name: PGF01
+  size: 392374
+  date: '1999-12-31T18:00:00'
+  crc: '0xb99132df'
+- name: PGF02
+  size: 454041
+  date: '1999-12-31T18:00:00'
+  crc: '0x148eb37b'
+- name: PGF03
+  size: 289179
+  date: '1999-12-31T18:00:00'
+  crc: '0x76e55e93'
+- name: PGF04
+  size: 320839
+  date: '1999-12-31T18:00:00'
+  crc: '0xa58ec336'
+- name: PGF05
+  size: 285729
+  date: '1999-12-31T18:00:00'
+  crc: '0x663ab746'
+- name: PGF06
+  size: 408072
+  date: '1999-12-31T18:00:00'
+  crc: '0x092ee7f7'
+- name: PGFMOL
+  size: 153434
+  date: '1999-12-31T18:00:00'
+  crc: '0x64229eaa'

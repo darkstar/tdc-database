@@ -1,0 +1,23 @@
+filename: Quickball (De) (1992)(Asem) [Action].zip
+tdc_id: '2385.0'
+title:
+  screen: Quickball
+publisher: Asem
+year: '1992'
+genre: Action
+language: German
+date:
+  added: '2019-03-01T18:50:14'
+  last_modified: '2019-03-01T18:50:14'
+type: zip
+commands:
+  play: QBALL.EXE
+files:
+- name: BREAKER.DAT
+  size: 336
+  date: '1993-10-23T23:20:54'
+  crc: '0x51656c7a'
+- name: QBALL.EXE
+  size: 69633
+  date: '1992-05-11T22:58:46'
+  crc: '0x89829c81'

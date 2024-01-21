@@ -1,0 +1,28 @@
+filename: PC-Maze (1992)(Gary & Donna McCoy) [Strategy].zip
+tdc_id: '2365.0'
+title:
+  screen: PC-Maze
+publisher: Gary & Donna McCoy
+year: '1992'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:49:54'
+  last_modified: '2019-03-01T18:49:54'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 23
+  date: '2019-01-12T23:21:10'
+  crc: '0xafdbe8fe'
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1988-10-05T02:00:08'
+  crc: '0x2a44af39'
+- name: PC-MAZE.BAS
+  size: 5774
+  date: '1992-05-17T00:10:56'
+  crc: '0x9b5e374d'

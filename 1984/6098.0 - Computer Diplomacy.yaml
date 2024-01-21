@@ -1,0 +1,55 @@
+filename: Computer Diplomacy v2.4 (1984)(The Avalon Hill Game Company) [Strategy].zip
+tdc_id: '6098.0'
+title:
+  box: Computer Diplomacy
+publisher: The Avalon Hill Game Company
+year: '1984'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:24:02'
+  last_modified: '2019-03-01T18:24:02'
+version: '2.4'
+type: zip
+commands:
+  play: DIPLO.EXE
+references:
+  dosid: DOS01487
+  exodos: Computer Diplomacy (1984).zip
+files:
+- name: $CH24.TXT
+  size: 484
+  date: '2004-09-27T00:45:20'
+  crc: '0x845e276e'
+- name: BDJUIL
+  size: 512
+  date: '1980-01-01T00:23:38'
+  crc: '0x01ddd496'
+- name: BDJUIL1
+  size: 512
+  date: '1990-07-12T08:34:58'
+  crc: '0x7182e27c'
+- name: BDJUIN
+  size: 512
+  date: '1980-01-01T01:01:42'
+  crc: '0xa35f2e5a'
+- name: BDMAI
+  size: 512
+  date: '1991-05-27T13:34:46'
+  crc: '0x260d17d5'
+- name: DIP1.MAP
+  size: 65664
+  date: '1984-04-01T00:00:00'
+  crc: '0x9aa3ad25'
+- name: DIP2.MAP
+  size: 38528
+  date: '1983-10-17T00:00:00'
+  crc: '0x7be49def'
+- name: DIPLO.EXE
+  size: 49584
+  date: '1986-02-12T19:25:08'
+  crc: '0xd60257d5'
+- name: DIPLO2.GX1
+  size: 5632
+  date: '1987-11-01T11:38:52'
+  crc: '0x027d0584'

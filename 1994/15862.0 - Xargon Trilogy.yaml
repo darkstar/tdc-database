@@ -1,0 +1,35 @@
+filename: Xargon Trilogy v3.0 (Installer) [SWR] (1994)(Epic MegaGames, Inc.) [Action].zip
+tdc_id: '15862.0'
+title:
+  screen: Xargon Trilogy
+publisher: Epic MegaGames, Inc.
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T07:19:40'
+  last_modified: '2019-03-02T07:19:40'
+version: '3.0'
+type: zip
+tags:
+- SharewareRegistered
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.DAT
+  size: 25
+  date: '1994-02-14T02:25:46'
+  crc: '0xe1522539'
+- name: INSTALL.EXE
+  size: 10800
+  date: '1994-02-11T10:04:28'
+  crc: '0x42e84133'
+- name: XAR123.X00
+  size: 72
+  date: '1994-02-14T02:25:48'
+  crc: '0x18a14244'
+- name: XAR123.Z01
+  size: 1445285
+  date: '1994-02-14T02:25:30'
+  crc: '0x4bafcd20'

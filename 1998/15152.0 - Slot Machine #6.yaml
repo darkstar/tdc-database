@@ -1,0 +1,28 @@
+filename: 'Slot Machine #6 (1998)(Anonymous) [Strategy].zip'
+tdc_id: '15152.0'
+title:
+  screen: 'Slot Machine #6'
+publisher: Anonymous
+year: '1998'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:44:34'
+  last_modified: '2019-03-02T10:44:34'
+type: zip
+media: Download
+commands:
+  play: RUN.BAT
+files:
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1988-10-04T19:00:08'
+  crc: '0x2a44af39'
+- name: RUN.BAT
+  size: 21
+  date: '2018-02-15T13:18:54'
+  crc: '0xd75e0377'
+- name: SLOT6.BAS
+  size: 5910
+  date: '1998-12-22T15:34:10'
+  crc: '0x96a05a7f'

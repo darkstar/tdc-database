@@ -1,0 +1,46 @@
+filename: Eagle Eye Mysteries in London (Installer) (1993)(EA-Kids) [Adventure, Educational].zip
+tdc_id: '13254.1'
+title:
+  box: Eagle Eye Mysteries in London
+publisher: EA-Kids
+year: '1993'
+genre:
+- Adventure
+- Educational
+language: English
+date:
+  added: '2019-03-01T19:02:38'
+  last_modified: '2019-03-01T19:02:38'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK1.EEM
+  size: 1421000
+  date: '1993-10-27T11:18:28'
+  crc: '0xfdd7d572'
+- name: DISK2.EEM
+  size: 1457664
+  date: '1993-10-27T11:18:40'
+  crc: '0xc5b39308'
+- name: DISK3.EEM
+  size: 1457664
+  date: '1993-10-27T11:18:50'
+  crc: '0x793f9fa3'
+- name: DISK4.EEM
+  size: 1457664
+  date: '1993-10-27T11:19:00'
+  crc: '0xe7764a30'
+- name: DISK5.EEM
+  size: 1457664
+  date: '1993-10-27T11:19:10'
+  crc: '0x6c68896f'
+- name: DISK6.EEM
+  size: 1170494
+  date: '1993-10-27T11:19:18'
+  crc: '0x36c0d527'
+- name: INSTALL.EXE
+  size: 26272
+  date: '1993-10-26T01:11:02'
+  crc: '0x5d3e0d47'

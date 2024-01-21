@@ -1,0 +1,41 @@
+filename: 688 Attack Sub (Installer) (1989)(Electronic Arts, Inc.) [Simulation].zip
+tdc_id: '7639.1'
+parent_id: '7639.7'
+title:
+  box: 688 Attack Sub
+publisher: Electronic Arts, Inc.
+year: '1989'
+genre: Simulation
+language: English
+date:
+  added: '2021-08-13T08:17:30'
+  last_modified: '2021-08-13T08:17:30'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: 688_5.IEA
+  size: 9702
+  date: '1989-02-02T10:54:54'
+  crc: '0x19b1c1a8'
+- name: DISK1
+  size: 166815
+  date: '1989-03-04T19:40:48'
+  crc: '0xd54002dd'
+- name: DISK1.ENC
+  size: 144461
+  date: '1989-03-04T12:40:28'
+  crc: '0x579c4bd4'
+- name: DISK2
+  size: 65595
+  date: '1989-03-04T19:40:48'
+  crc: '0x4dfe3d0d'
+- name: DISK2.ENC
+  size: 285449
+  date: '1989-03-04T19:40:48'
+  crc: '0xfb291387'
+- name: INSTALL.EXE
+  size: 37227
+  date: '1989-01-30T16:09:46'
+  crc: '0x5c3b3d76'

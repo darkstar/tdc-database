@@ -1,0 +1,32 @@
+filename: StarShip (De) (1998)(Ingo Ruhnke) [Action].zip
+tdc_id: '15582.0'
+title:
+  screen: StarShip
+publisher: Ingo Ruhnke
+year: '1998'
+genre: Action
+language: German
+date:
+  added: '2019-03-02T10:44:38'
+  last_modified: '2019-03-02T10:44:38'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 28
+  date: '2018-11-24T18:10:26'
+  crc: '0x3e6531ca'
+- name: JOYSTICK.INI
+  size: 82
+  date: '1996-10-06T17:25:12'
+  crc: '0x4e873777'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: STARSHIP.BAS
+  size: 9632
+  date: '1998-03-29T19:39:54'
+  crc: '0xf5a7ef21'

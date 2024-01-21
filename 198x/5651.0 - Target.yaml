@@ -1,0 +1,23 @@
+filename: Target (198x)(IBM) [Action].zip
+tdc_id: '5651.0'
+title:
+  box: Target
+publisher: IBM
+year: 198x
+genre: Action
+language: English
+date:
+  added: '2023-05-24T08:38:50'
+  last_modified: '2023-05-24T08:38:50'
+type: zip
+commands:
+  play: SCHOT.EXE
+files:
+- name: BASRUN.EXE
+  size: 31744
+  date: '1982-05-07T12:00:04'
+  crc: '0x86bdc5f3'
+- name: SCHOT.EXE
+  size: 6144
+  date: '1980-01-01T00:12:34'
+  crc: '0xe836563b'

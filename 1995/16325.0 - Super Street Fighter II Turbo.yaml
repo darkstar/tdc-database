@@ -1,0 +1,56 @@
+filename: Super Street Fighter II Turbo (Installer) (1995)(GameTek, Inc.) [Action].zip
+tdc_id: '16325.0'
+title:
+  box: Super Street Fighter II Turbo
+publisher: GameTek, Inc.
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2020-01-19T18:27:02'
+  last_modified: '2020-01-19T18:27:02'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: BLD_INFO.CFG
+  size: 1272
+  date: '1995-04-20T05:15:20'
+  crc: '0x24e78a70'
+- name: DEFAULT.CFG
+  size: 67
+  date: '1995-03-30T02:18:08'
+  crc: '0xbf0adaeb'
+- name: EUROLOGO.PCX
+  size: 9414
+  date: '1995-01-19T19:57:46'
+  crc: '0x5cbef23b'
+- name: GAMETEK.PCX
+  size: 18276
+  date: '1994-12-16T02:56:00'
+  crc: '0x4ae1b2a2'
+- name: IMAGE.DAT
+  size: 54798
+  date: '1995-04-20T05:15:16'
+  crc: '0x0e0085ae'
+- name: INSTALL.EXE
+  size: 151314
+  date: '1995-04-05T02:53:00'
+  crc: '0x5336a4e4'
+- name: LANGRC.RES
+  size: 6243
+  date: '1995-04-20T05:15:24'
+  crc: '0x5445282f'
+- name: README.TXT
+  size: 7894
+  date: '1995-04-17T18:53:06'
+  crc: '0xd3c95ae5'
+- name: SF2TURBO.1
+  size: 10306527
+  date: '1995-04-20T05:15:16'
+  crc: '0x52ae2c95'
+- name: SOUNDCRD.PCX
+  size: 5435
+  date: '1995-03-10T23:37:10'
+  crc: '0x12d31edf'

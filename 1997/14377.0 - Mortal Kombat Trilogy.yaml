@@ -1,0 +1,68 @@
+filename: Mortal Kombat Trilogy (Installer) (Beta Build 2) (1997)(Midway Games, Inc.) [Action].zip
+tdc_id: '14377.0'
+title:
+  box: Mortal Kombat Trilogy
+publisher: Midway Games, Inc.
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:35:56'
+  last_modified: '2019-03-02T10:35:56'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: AUDIOSPR.BMP
+  size: 140456
+  date: '1997-04-24T18:16:44'
+  crc: '0x3f7e73d5'
+- name: CHAR30B.FNT
+  size: 14272
+  date: '1993-01-20T14:51:52'
+  crc: '0xe2fe95fb'
+- name: DOS4GW.EXE
+  size: 265396
+  date: '1995-07-11T07:05:00'
+  crc: '0x5cc34b0f'
+- name: FIX14X26.FNT
+  size: 6414
+  date: '1993-01-20T16:28:36'
+  crc: '0xf5f65412'
+- name: HELV22B.FNT
+  size: 8900
+  date: '1993-01-20T14:39:44'
+  crc: '0x305ab5ec'
+- name: INSTALL.EXE
+  size: 597385
+  date: '1997-05-21T16:42:12'
+  crc: '0xda8ea3bf'
+- name: KBDBG.BMP
+  size: 921656
+  date: '1997-04-25T16:14:20'
+  crc: '0xbfc5d449'
+- name: KBDSPR.BMP
+  size: 249656
+  date: '1997-04-24T17:05:22'
+  crc: '0x701bd959'
+- name: MKBGRND.BMP
+  size: 921656
+  date: '1997-04-24T09:34:44'
+  crc: '0x64caa960'
+- name: MKTRIL.ZIP
+  size: 61455394
+  date: '1997-05-23T11:39:02'
+  crc: '0x80c346ce'
+- name: PC8X8.FNT
+  size: 3592
+  date: '1993-01-20T15:48:26'
+  crc: '0x88ea2cbf'
+- name: PKUNZIP.EXE
+  size: 29378
+  date: '1993-02-01T02:04:16'
+  crc: '0x00832770'
+- name: PLAYSPR.BMP
+  size: 79580
+  date: '1997-04-23T11:23:42'
+  crc: '0xddcfb394'

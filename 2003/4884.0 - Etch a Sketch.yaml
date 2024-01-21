@@ -1,0 +1,23 @@
+filename: Etch a Sketch (2003)(James Kirk) [Educational].zip
+tdc_id: '4884.0'
+title:
+  screen: Etch a Sketch
+publisher: James Kirk
+year: '2003'
+genre: Educational
+language: English
+date:
+  added: '2019-03-02T10:56:28'
+  last_modified: '2019-03-02T10:56:28'
+type: zip
+commands:
+  play: ETCH.EXE
+files:
+- name: ETCH.BAS
+  size: 1939
+  date: '2003-02-24T17:57:28'
+  crc: '0xa396f3a2'
+- name: ETCH.EXE
+  size: 39002
+  date: '2003-02-24T17:57:36'
+  crc: '0xbf078f7f'

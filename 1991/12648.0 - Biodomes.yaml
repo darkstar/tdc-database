@@ -1,0 +1,66 @@
+filename: Biodomes (1991)(Softdisk Publishing) [Action].zip
+tdc_id: '12648.0'
+title:
+  box: Biodomes
+publisher: Softdisk Publishing
+year: '1991'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:35:02'
+  last_modified: '2019-03-01T18:35:02'
+type: zip
+commands:
+  play: BIODOMES.EXE
+references:
+  dosid: DOS15247
+  exodos: Biodomes (1991).zip
+files:
+- name: AUDIO.BIO
+  size: 2388
+  date: '1991-10-01T01:37:08'
+  crc: '0xd44f7ebd'
+- name: AUDIOT.BIO
+  size: 3441
+  date: '1991-09-30T10:04:18'
+  crc: '0x4a91f5da'
+- name: BIODOMES.EXE
+  size: 73321
+  date: '1991-10-01T09:01:24'
+  crc: '0xec36cf37'
+- name: BIOTITLE.BIO
+  size: 3276
+  date: '1991-10-01T08:00:26'
+  crc: '0xdb0d1519'
+- name: CREDITS.BIO
+  size: 18091
+  date: '1991-09-27T08:56:54'
+  crc: '0x4458ad5d'
+- name: EGAGRAPH.BIO
+  size: 108288
+  date: '1991-10-01T03:43:02'
+  crc: '0x0b5ac0ab'
+- name: GAMEMAPS.BIO
+  size: 33224
+  date: '1991-10-01T08:50:08'
+  crc: '0x2dc4a296'
+- name: GETITLE.BIO
+  size: 2239
+  date: '1991-09-27T08:56:58'
+  crc: '0x317a7692'
+- name: MUSEINFO.BIO
+  size: 3608
+  date: '1991-09-30T10:04:18'
+  crc: '0xc3572fbc'
+- name: PIRATE1E.BIO
+  size: 6862
+  date: '1991-09-27T08:57:00'
+  crc: '0xf17588f3'
+- name: PIRATE2E.BIO
+  size: 8979
+  date: '1991-09-27T08:57:02'
+  crc: '0x0e62abef'
+- name: WINNER.BIO
+  size: 11410
+  date: '1991-09-25T10:09:06'
+  crc: '0xd95e7972'

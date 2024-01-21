@@ -1,0 +1,42 @@
+filename: Signplay (1984)(Compu-Teach) [Educational].zip
+tdc_id: '3875.3'
+parent_id: '3875.2'
+title:
+  box: Signplay
+  screen: Sign Play
+publisher: Compu-Teach
+year: '1984'
+genre: Educational
+language: English
+date:
+  added: '2023-07-11T22:37:21'
+  last_modified: '2023-07-11T22:37:21'
+type: zip
+media: 360K
+commands:
+  play: SIGNPLAY.EXE
+files:
+- name: IBMBIO.COM
+  size: 1920
+  date: '1982-05-07T12:00:00'
+  crc: '0x05e63f82'
+- name: IBMDOS.COM
+  size: 6400
+  date: '1982-05-07T12:00:00'
+  crc: '0xd09fa41a'
+- name: LEFTG.DAT
+  size: 11254
+  date: '1980-01-01T00:37:52'
+  crc: '0x1036b679'
+- name: PRESENTS.DAT
+  size: 204
+  date: '1984-03-02T13:32:38'
+  crc: '0x3eac710e'
+- name: RIGHTG.DAT
+  size: 11254
+  date: '1980-01-01T00:36:06'
+  crc: '0xeb08f84f'
+- name: SIGNPLAY.EXE
+  size: 74752
+  date: '1984-09-26T17:07:58'
+  crc: '0x930032ba'

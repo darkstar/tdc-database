@@ -1,0 +1,45 @@
+filename: Biprolex (Installer) (En)(Ru) [SW] (1995)(Studio Sivers) [Action].zip
+tdc_id: '12664.0'
+title:
+  screen: Biprolex
+publisher: Studio Sivers
+year: '1995'
+genre: Action
+language:
+- English
+- Russian
+date:
+  added: '2007-09-08T10:52:46'
+  last_modified: '2007-09-08T10:52:46'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: BIPROLEX.000
+  size: 1010004
+  date: '1995-11-08T00:00:00'
+  crc: '0x53df5819'
+- name: BIPROLEX.001
+  size: 1010004
+  date: '1995-11-08T00:00:00'
+  crc: '0xdb938bc9'
+- name: BIPROLEX.002
+  size: 1037578
+  date: '1995-11-08T00:00:00'
+  crc: '0x54f814f6'
+- name: FILE_ID.DIZ
+  size: 425
+  date: '1995-11-08T00:00:00'
+  crc: '0x45667e34'
+- name: INSTALL.DAT
+  size: 289
+  date: '1995-11-08T00:00:00'
+  crc: '0x578c2d3f'
+- name: INSTALL.EXE
+  size: 152857
+  date: '1995-11-08T00:00:00'
+  crc: '0x794763aa'

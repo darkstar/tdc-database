@@ -1,0 +1,45 @@
+filename: Shooter (demo) (1994)(Team Infinity) [Action].zip
+tdc_id: '3270.0'
+title:
+  screen: Shooter
+  qualifier: demo
+publisher: Team Infinity
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-09-30T13:17:56'
+  last_modified: '2019-09-30T13:17:56'
+type: zip
+demo: true
+commands:
+  play: SHOOTER.EXE
+files:
+- name: ABANDON.SPR
+  size: 13487
+  date: '1994-06-26T21:17:06'
+  crc: '0x89b3ba0d'
+- name: BLUEWAVE.SPR
+  size: 28894
+  date: '1994-06-27T19:55:34'
+  crc: '0x0f93f74a'
+- name: BLUGU.BLK
+  size: 64004
+  date: '1994-06-27T21:20:48'
+  crc: '0x4b9e17f8'
+- name: COMBO2.FLI
+  size: 277454
+  date: '1994-06-15T23:03:52'
+  crc: '0xf95e8a8a'
+- name: NSPACE.SPR
+  size: 36811
+  date: '1994-06-26T21:18:32'
+  crc: '0x2fffdf04'
+- name: README.TXT
+  size: 1154
+  date: '1994-08-30T10:05:20'
+  crc: '0xb90e01df'
+- name: SHOOTER.EXE
+  size: 70797
+  date: '1994-06-28T19:49:28'
+  crc: '0xc413b102'

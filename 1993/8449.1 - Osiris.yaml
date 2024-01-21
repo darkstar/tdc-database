@@ -1,0 +1,26 @@
+filename: Osiris (Installer) [h1] (1993)(Pixlers Entertainment) [Strategy].zip
+tdc_id: '8449.1'
+title:
+  box: Osiris
+publisher: Pixlers Entertainment
+year: '1993'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T19:15:48'
+  last_modified: '2019-03-01T19:15:48'
+type: zip
+tags:
+- Hack: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.DAT
+  size: 535676
+  date: '1993-08-11T10:48:30'
+  crc: '0x3b6cd978'
+- name: INSTALL.EXE
+  size: 66869
+  date: '1994-03-01T00:52:42'
+  crc: '0x1ed25e23'

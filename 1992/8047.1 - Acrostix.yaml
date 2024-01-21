@@ -1,0 +1,30 @@
+filename: Acrostix v2.0 (1992)(Intelligent Educational Software) [Strategy, Puzzle].zip
+tdc_id: '8047.1'
+title:
+  box: Acrostix
+publisher: Intelligent Educational Software
+year: '1992'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-03-01T18:40:54'
+  last_modified: '2019-03-01T18:40:54'
+version: '2.0'
+type: zip
+commands:
+  play: ACROSTIX.EXE
+files:
+- name: ACROSTIX.ACR
+  size: 52542
+  date: '1992-01-19T06:13:20'
+  crc: '0x3381ad13'
+- name: ACROSTIX.EXE
+  size: 35133
+  date: '1992-01-19T06:17:38'
+  crc: '0xc1312a1d'
+- name: README.ACX
+  size: 1150
+  date: '1992-01-19T06:13:20'
+  crc: '0xcfc672fb'

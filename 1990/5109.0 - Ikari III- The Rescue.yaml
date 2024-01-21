@@ -1,0 +1,148 @@
+filename: Ikari III- The Rescue v1.03 (1990)(SNK Corporation of America) [Action].zip
+tdc_id: '5109.0'
+title:
+  box: 'Ikari III: The Rescue'
+publisher: SNK Corporation of America
+year: '1990'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:32:50'
+  last_modified: '2022-09-21T09:31:32'
+version: '1.03'
+type: zip
+commands:
+  play: IKARI3.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/ikari-iii-the-rescue
+  dosid: DOS02697
+  exodos: Ikari III - The Rescue (1989).zip
+files:
+- name: CAPTEXT.BIN
+  size: 3934
+  date: '1989-12-15T11:28:36'
+  crc: '0x9e80aec5'
+- name: CAPTURE.BIN
+  size: 17419
+  date: '1989-12-15T11:28:40'
+  crc: '0xd8e4706c'
+- name: CNTDWN.BIN
+  size: 6950
+  date: '1990-01-18T10:35:58'
+  crc: '0x1ce49248'
+- name: CREDITS.BIN
+  size: 13988
+  date: '1990-01-25T09:07:50'
+  crc: '0xdf954e3b'
+- name: FACES.BIN
+  size: 5278
+  date: '1989-12-15T11:28:46'
+  crc: '0x4ceb764d'
+- name: HIGH.BIN
+  size: 8438
+  date: '1989-12-15T11:28:48'
+  crc: '0x866a33b4'
+- name: HIGH.SCR
+  size: 270
+  date: '1990-01-17T05:51:18'
+  crc: '0x111cc2ea'
+- name: IKARI3.EXE
+  size: 110887
+  date: '1990-04-19T09:58:42'
+  crc: '0x93ac3be5'
+- name: LEVEL1.BIN
+  size: 29536
+  date: '1989-12-21T06:56:52'
+  crc: '0xca0b6f18'
+- name: LEVEL1.PLA
+  size: 684
+  date: '1989-12-22T07:02:04'
+  crc: '0x88b55954'
+- name: LEVEL2.BIN
+  size: 22383
+  date: '1990-01-24T10:15:30'
+  crc: '0xa5cdd1c5'
+- name: LEVEL2.PLA
+  size: 480
+  date: '1989-12-22T07:11:02'
+  crc: '0x65a02e66'
+- name: LEVEL3.BIN
+  size: 28686
+  date: '1990-01-24T11:18:34'
+  crc: '0xda93898a'
+- name: LEVEL3.PLA
+  size: 800
+  date: '1989-12-22T07:11:42'
+  crc: '0x0a6590ac'
+- name: LEVEL4.BIN
+  size: 18800
+  date: '1989-12-15T11:29:16'
+  crc: '0xf903184a'
+- name: LEVEL5.BIN
+  size: 27442
+  date: '1990-02-06T07:10:30'
+  crc: '0x8cbce648'
+- name: LEVEL6.BIN
+  size: 24607
+  date: '1989-12-15T11:29:28'
+  crc: '0xecac441c'
+- name: MOVIE.BIN
+  size: 20879
+  date: '1989-12-15T11:29:34'
+  crc: '0xc4582038'
+- name: SCOPE.BIN
+  size: 2449
+  date: '1989-12-15T11:29:36'
+  crc: '0x75e14475'
+- name: SCORE.BIN
+  size: 1754
+  date: '1989-12-15T11:29:38'
+  crc: '0xa1cbe36f'
+- name: SHOTS.BIN
+  size: 276
+  date: '1989-12-15T11:29:40'
+  crc: '0x6894694b'
+- name: SPRITES.CG1
+  size: 93434
+  date: '1990-01-26T05:05:04'
+  crc: '0xf8ee4197'
+- name: SPRITES.CG2
+  size: 18279
+  date: '1990-01-26T05:05:06'
+  crc: '0x18f1f699'
+- name: SPRITES.EGA
+  size: 126413
+  date: '1990-01-26T05:04:08'
+  crc: '0xd76b554f'
+- name: STAFF.BIN
+  size: 8206
+  date: '1989-12-15T11:29:42'
+  crc: '0x20f11cf4'
+- name: STATUS.BIN
+  size: 7607
+  date: '1989-12-15T11:29:46'
+  crc: '0x97191a52'
+- name: STORY.BIN
+  size: 25784
+  date: '1990-01-18T10:36:06'
+  crc: '0x1e952fd9'
+- name: STORY2.BIN
+  size: 14468
+  date: '1989-12-15T11:29:54'
+  crc: '0x7a37b6d0'
+- name: SUNSET.BIN
+  size: 9499
+  date: '1989-12-15T11:29:58'
+  crc: '0x013c3223'
+- name: TEXT.BIN
+  size: 17925
+  date: '1989-12-15T11:30:02'
+  crc: '0xf934b346'
+- name: TEXT2.BIN
+  size: 9472
+  date: '1989-12-15T11:30:04'
+  crc: '0x8080ee0b'
+- name: WAIT.BIN
+  size: 11604
+  date: '1990-01-04T11:28:28'
+  crc: '0x68b577e4'

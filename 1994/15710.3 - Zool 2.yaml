@@ -1,0 +1,25 @@
+filename: Zool 2 (demo) (1994)(PC Player) [Action].zip
+tdc_id: '15710.3'
+title:
+  screen: Zool 2
+  qualifier: demo
+publisher: PC Player
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T07:20:14'
+  last_modified: '2019-03-02T07:20:14'
+type: zip
+demo: true
+commands:
+  play: ZOOL2.EXE
+files:
+- name: ZOOL2.DAT
+  size: 524318
+  date: '1994-07-07T14:50:14'
+  crc: '0x86aa6336'
+- name: ZOOL2.EXE
+  size: 1252
+  date: '1994-05-18T17:21:02'
+  crc: '0x58c32270'

@@ -1,0 +1,51 @@
+filename: Mario Teaches Typing v1.1 (Installer) (1992)(Interplay Entertainment Corp.) [Educational].zip
+tdc_id: '11144.3'
+title:
+  box: Mario Teaches Typing
+publisher: Interplay Entertainment Corp.
+year: '1992'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T18:49:14'
+  last_modified: '2023-01-12T17:42:44'
+version: '1.1'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/mario-teaches-typing
+files:
+- name: DIRA.LST
+  size: 2268
+  date: '1992-11-02T15:48:26'
+  crc: '0xb25c04f5'
+- name: DIRB.LST
+  size: 2268
+  date: '1992-11-02T18:11:08'
+  crc: '0xb8dda3fc'
+- name: INSTALL.DAT
+  size: 4702
+  date: '1992-11-06T12:08:46'
+  crc: '0x6c4c2b5d'
+- name: INSTALL.EXE
+  size: 45643
+  date: '1992-11-05T17:01:54'
+  crc: '0xa6629ac4'
+- name: INSTALL.INI
+  size: 161
+  date: '1992-11-06T11:59:40'
+  crc: '0x6c7dd55f'
+- name: PRE1.CMP
+  size: 663000
+  date: '1992-11-06T12:06:10'
+  crc: '0x8449db89'
+- name: PRE2.CMP
+  size: 450653
+  date: '1992-11-06T12:08:46'
+  crc: '0x75a8cbc1'
+- name: README.INS
+  size: 599
+  date: '1992-10-14T15:08:04'
+  crc: '0xb80f918f'

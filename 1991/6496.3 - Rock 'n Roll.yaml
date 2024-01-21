@@ -1,0 +1,90 @@
+filename: Rock 'n Roll r911001 (Installer) (1991)(Rainbow Arts Software GmbH) [Action, Strategy].zip
+tdc_id: '6496.3'
+parent_id: '6496.7'
+title:
+  box: Rock 'n Roll
+  qualifier: Installer
+publisher: Rainbow Arts Software GmbH
+year: '1991'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:33:52'
+  last_modified: '2023-10-13T17:56:35'
+release: '911001'
+type: zip
+media: 720K
+installer: true
+commands:
+  play: ROCKROLL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/2047/rock-n-roll/
+  dosid: DOS04353
+  exodos: Rock 'n Roll (1990).zip
+files:
+- name: README.DAT
+  size: 16940
+  date: '1991-10-01T00:00:00'
+  crc: '0x9bbaa51e'
+- name: README.EXE
+  size: 20808
+  date: '1991-10-01T00:00:00'
+  crc: '0xc66a3104'
+- name: ROCKINST.BAT
+  size: 4632
+  date: '1991-10-01T00:00:00'
+  crc: '0xd4c975f1'
+- name: ROCKROLL.DAT
+  size: 117552
+  date: '1991-10-01T00:00:00'
+  crc: '0x66ba7315'
+- name: ROCKROLL.EXE
+  size: 41639
+  date: '1991-10-01T00:00:00'
+  crc: '0x098d3c5e'
+- name: RRCGA.DAT
+  size: 86337
+  date: '1991-10-01T00:00:00'
+  crc: '0x759bab6b'
+- name: RREGA.DAT
+  size: 152830
+  date: '1991-10-01T00:00:00'
+  crc: '0x5a87c18b'
+- name: RRLEV.DAT
+  size: 177024
+  date: '1991-10-01T00:00:00'
+  crc: '0x78383c2f'
+- name: _BIGCOPY.EXE
+  size: 6189
+  date: '1991-10-01T00:00:00'
+  crc: '0xe0dc36a0'
+- name: _COPY.BAT
+  size: 4070
+  date: '1991-10-01T00:00:00'
+  crc: '0x1d1b0541'
+- name: _COPY360.BAT
+  size: 4228
+  date: '1991-10-01T00:00:00'
+  crc: '0xee488bc2'
+- name: _COPYBIG.BAT
+  size: 2748
+  date: '1991-10-01T00:00:00'
+  crc: '0x80c33ea6'
+- name: _DSKRES.COM
+  size: 9
+  date: '1991-10-01T00:00:00'
+  crc: '0x62b4361a'
+- name: _GETKEY.COM
+  size: 412
+  date: '1991-10-01T00:00:00'
+  crc: '0x91f9766b'
+- name: _GK.COM
+  size: 412
+  date: '1991-10-01T00:00:00'
+  crc: '0x91f9766b'
+- name: _INSTL.BAT
+  size: 3638
+  date: '1991-10-01T00:00:00'
+  crc: '0x14b0d2e9'

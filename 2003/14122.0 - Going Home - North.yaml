@@ -1,0 +1,34 @@
+filename: Going Home - North (2003)(Matt Brault) [Adventure, Interactive Fiction].zip
+tdc_id: '14122.0'
+title:
+  screen: Going Home - North
+publisher: Matt Brault
+year: '2003'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T10:56:30'
+  last_modified: '2019-03-02T10:56:30'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 26
+  date: '2018-12-14T11:03:40'
+  crc: '0x1171a49e'
+- name: GOHOME.BAS
+  size: 14132
+  date: '2003-06-30T15:30:04'
+  crc: '0x344913c1'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: README.TXT
+  size: 104
+  date: '2003-06-30T19:04:22'
+  crc: '0x27f6715f'

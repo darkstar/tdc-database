@@ -1,0 +1,35 @@
+filename: Outer Ridge (Installer) (De)(En) [SWR] (1995)(Wizard Software) [Action].zip
+tdc_id: '5368.3'
+title:
+  screen: Outer Ridge
+publisher: Wizard Software
+year: '1995'
+genre: Action
+language:
+- English
+- German
+date:
+  added: '2019-03-02T08:58:06'
+  last_modified: '2019-03-02T08:58:06'
+type: zip
+tags:
+- SharewareRegistered
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 17189
+  date: '1995-03-24T11:41:14'
+  crc: '0x722ea8d6'
+- name: OUTRIDGE.001
+  size: 869405
+  date: '1995-04-05T09:14:46'
+  crc: '0x1d547dec'
+- name: OUTRIDGE.002
+  size: 736387
+  date: '1995-04-05T09:14:32'
+  crc: '0x815b92d1'
+- name: WIZARD
+  size: 0
+  date: '1995-05-04T22:37:32'

@@ -1,0 +1,44 @@
+filename: Solitaire's Journey (Installer) [a1] (1992)(Quantum Quality Productions) [Strategy, Cards].zip
+tdc_id: '15263.2'
+title:
+  box: Solitaire's Journey
+publisher: Quantum Quality Productions
+year: '1992'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:51:06'
+  last_modified: '2019-03-01T18:51:06'
+type: zip
+tags:
+- Alternate: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK.ID
+  size: 55
+  date: '1992-04-16T16:17:44'
+  crc: '0x3eee95fd'
+- name: DISK2.ID
+  size: 55
+  date: '1992-04-16T16:18:42'
+  crc: '0x3ca82ba4'
+- name: INSTALL.EXE
+  size: 102849
+  date: '1992-03-22T14:48:46'
+  crc: '0x70e95656'
+- name: SOLIT.001
+  size: 256000
+  date: '1992-04-16T16:19:34'
+  crc: '0xe65da340'
+- name: SOLIT.002
+  size: 299779
+  date: '1992-04-16T16:19:14'
+  crc: '0x0d59ee77'
+- name: SOLIT.INF
+  size: 1887
+  date: '1992-04-09T17:00:44'
+  crc: '0x022fe803'

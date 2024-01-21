@@ -1,0 +1,126 @@
+filename: Схватка (Installer) (Ru) (1997)(OPTIMUS Pascal) [Strategy].zip
+tdc_id: '3891.0'
+parent_id: '3891.2'
+title:
+  box: Схватка
+publisher: OPTIMUS Pascal
+year: '1997'
+genre: Strategy
+language: Russian
+date:
+  added: '2020-08-30T17:34:24'
+  last_modified: '2022-11-16T15:23:32'
+type: zip
+installer: true
+commands:
+  play: DOS_INST.BAT
+files:
+- name: AUTORUN.INF
+  size: 54
+  date: '1997-09-16T08:12:12'
+  crc: '0xc606e7bf'
+- name: CLASH\
+  size: 0
+  date: '1998-05-12T12:13:50'
+- name: CLASH\CLASH.EXE
+  size: 1536138
+  date: '1998-04-27T04:34:32'
+  crc: '0x4e25167d'
+- name: CLASH\CLASH.ICO
+  size: 2238
+  date: '1997-09-16T05:54:48'
+  crc: '0x1dad0a38'
+- name: CLASH\CLASH.PIF
+  size: 967
+  date: '1997-09-16T08:17:06'
+  crc: '0x765f349c'
+- name: CLASH\DATA\
+  size: 0
+  date: '1998-05-12T11:51:58'
+- name: CLASH\DATA\GFX3.RES
+  size: 4895293
+  date: '1998-02-08T06:58:20'
+  crc: '0xb54fdd47'
+- name: CLASH\DATA\INFORUS.RES
+  size: 8754473
+  date: '1998-04-03T07:53:44'
+  crc: '0x15012453'
+- name: CLASH\DATA\IS.RES
+  size: 269867263
+  date: '1998-02-21T03:25:00'
+  crc: '0x8ca4edcc'
+- name: CLASH\DATA\MAPS.RES
+  size: 11571421
+  date: '1998-01-28T04:51:02'
+  crc: '0xf56bee92'
+- name: CLASH\DATA\MAXIMUM.RES
+  size: 44227820
+  date: '1998-03-24T09:03:32'
+  crc: '0x1c7273b5'
+- name: CLASH\DATA\MINIMUM.RES
+  size: 23447959
+  date: '1998-05-06T11:00:10'
+  crc: '0xe2d64bc1'
+- name: CLASH\DATA\MUSIC.RES
+  size: 105118388
+  date: '1997-09-04T04:29:20'
+  crc: '0x1bae893f'
+- name: CLASH\DATA\NORMAL.RES
+  size: 28357077
+  date: '1997-10-02T09:59:06'
+  crc: '0x40578301'
+- name: CLASH\DOS4GW.EXE
+  size: 265396
+  date: '1996-02-29T11:06:00'
+  crc: '0x5cc34b0f'
+- name: CLASH\OPTIONS.CFG
+  size: 27
+  date: '1997-09-16T08:00:14'
+  crc: '0xd5c54636'
+- name: CLASH\SETUP.EXE
+  size: 281503
+  date: '1998-03-30T10:05:18'
+  crc: '0xdc9262e9'
+- name: CLASH\SETUP.PIF
+  size: 967
+  date: '1997-09-16T08:35:12'
+  crc: '0xbc61746a'
+- name: CLASH\SETUP.RES
+  size: 1005571
+  date: '1998-03-30T09:26:24'
+  crc: '0x84d97d85'
+- name: CLASH\STRATEG\
+  size: 0
+  date: '1998-05-12T12:11:02'
+- name: CLASH\STRATEG\CLASH.DAT
+  size: 106717
+  date: '1997-11-06T09:38:34'
+  crc: '0x88e77ee5'
+- name: CLASH\STRATEG\PRIOR
+  size: 92
+  date: '1997-07-29T07:07:18'
+  crc: '0x3ac4a606'
+- name: DOS4GW.EXE
+  size: 265396
+  date: '1996-02-29T11:06:00'
+  crc: '0x5cc34b0f'
+- name: DOS_INST.BAT
+  size: 10
+  date: '1997-09-19T09:39:14'
+  crc: '0x42c00173'
+- name: SETUP.EXE
+  size: 281503
+  date: '1998-03-30T10:05:18'
+  crc: '0xdc9262e9'
+- name: SETUP.PIF
+  size: 967
+  date: '1998-05-12T08:52:58'
+  crc: '0x073159da'
+- name: SETUP.RES
+  size: 1005571
+  date: '1998-03-30T09:26:24'
+  crc: '0x84d97d85'
+- name: WINSETUP.EXE
+  size: 15360
+  date: '1997-09-16T05:08:58'
+  crc: '0xc984a618'

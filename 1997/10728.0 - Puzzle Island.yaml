@@ -1,0 +1,30 @@
+filename: Puzzle Island (1997)(Alex Knight-Percival) [Adventure, Interactive Fiction].zip
+tdc_id: '10728.0'
+title:
+  screen: Puzzle Island
+publisher: Alex Knight-Percival
+year: '1997'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T10:36:58'
+  last_modified: '2019-03-02T10:36:58'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 26
+  date: '2018-11-21T17:32:08'
+  crc: '0x846e1a42'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: STRAT1.BAS
+  size: 106769
+  date: '1998-02-15T15:32:22'
+  crc: '0xec00eb67'

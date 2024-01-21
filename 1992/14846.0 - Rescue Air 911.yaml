@@ -1,0 +1,41 @@
+filename: Rescue Air 911 (Installer) (1992)(Mallard Software) [Simulation, Addon].zip
+tdc_id: '14846.0'
+title:
+  box: Rescue Air 911
+publisher: Mallard Software
+year: '1992'
+genre:
+- Simulation
+- Addon
+language: English
+date:
+  added: '2019-03-01T18:50:18'
+  last_modified: '2019-03-01T18:50:18'
+type: zip
+installer: true
+commands:
+  play: AIRINSTL.EXE
+files:
+- name: AIRFILES.ZIP
+  size: 182710
+  date: '1992-10-20T13:40:06'
+  crc: '0x4538e61e'
+- name: AIRINSTL.EXE
+  size: 17797
+  date: '1992-10-20T08:37:44'
+  crc: '0x7fd0c044'
+- name: DISK2\
+  size: 0
+  date: '2016-09-15T19:07:32'
+- name: DISK2\VOC1.ZIP
+  size: 1425708
+  date: '1992-10-14T23:56:12'
+  crc: '0x8d92409b'
+- name: PKUNZIP.EXE
+  size: 22022
+  date: '1989-10-01T01:02:00'
+  crc: '0x0b7eb4d5'
+- name: VOC1.ZIP
+  size: 1229688
+  date: '1992-10-14T23:31:38'
+  crc: '0xf684a53f'

@@ -1,0 +1,43 @@
+filename: Puzzle (Demo) (Sr) (1991)(Majkl) [Strategy, Puzzle].zip
+tdc_id: '759.0'
+title:
+  screen: Puzzle
+  qualifier: Demo
+publisher: Majkl
+year: '1991'
+genre:
+- Strategy
+- Puzzle
+language: Serbian
+date:
+  added: '2020-07-18T06:11:04'
+  last_modified: '2020-07-18T06:11:04'
+type: zip
+demo: true
+commands:
+  play: PZLDEMO.EXE
+files:
+- name: EGAVGA.BGI
+  size: 5363
+  date: '1989-05-02T05:50:00'
+  crc: '0x06d36962'
+- name: HERC.BGI
+  size: 6125
+  date: '1989-05-02T05:50:00'
+  crc: '0xc1f40043'
+- name: PROCITAJ.TXT
+  size: 337
+  date: '1991-05-11T08:03:16'
+  crc: '0x622220cc'
+- name: PUZSL8.PIC
+  size: 150750
+  date: '1991-05-08T10:20:34'
+  crc: '0x5a4dbd8f'
+- name: PUZSL8H.PIC
+  size: 54950
+  date: '1991-05-11T01:56:20'
+  crc: '0xabf9f8d9'
+- name: PZLDEMO.EXE
+  size: 27264
+  date: '1991-05-11T07:07:42'
+  crc: '0x556395d4'

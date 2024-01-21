@@ -1,0 +1,33 @@
+filename: Von Krashenburn's Flying Circus v1.02 (Installer) (1994)(Cosmi Corporation) [Action].zip
+tdc_id: '17086.1'
+title:
+  box: Von Krashenburn's Flying Circus
+publisher: Cosmi Corporation
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T07:19:04'
+  last_modified: '2019-03-02T07:19:04'
+version: '1.02'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: '585.001'
+  size: 650861
+  date: '1994-04-25T09:29:16'
+  crc: '0xffc50c19'
+- name: DISK.ID
+  size: 54
+  date: '1994-04-25T09:20:24'
+  crc: '0xec0aa442'
+- name: INSTALL.DAT
+  size: 2819
+  date: '1994-04-25T09:58:54'
+  crc: '0xfb8f9245'
+- name: INSTALL.EXE
+  size: 103017
+  date: '1994-04-25T09:20:32'
+  crc: '0xb6356c24'

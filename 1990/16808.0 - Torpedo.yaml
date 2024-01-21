@@ -1,0 +1,79 @@
+filename: Torpedo (Es) (1990)(Ediciones Manali, S.A.) [Action].zip
+tdc_id: '16808.0'
+title:
+  screen: Torpedo
+publisher: Ediciones Manali, S.A.
+year: '1990'
+genre: Action
+language: Spanish
+date:
+  added: '2019-03-01T18:34:20'
+  last_modified: '2019-03-01T18:34:20'
+type: zip
+commands:
+  play: TORPEDO.EXE
+files:
+- name: BARCOS.SPR
+  size: 2272
+  date: '1990-04-21T19:05:08'
+  crc: '0xe5e86b0f'
+- name: C1.CMP
+  size: 2865
+  date: '1980-07-29T00:16:02'
+  crc: '0x16e36a38'
+- name: C2.CMP
+  size: 3849
+  date: '1980-07-29T00:04:26'
+  crc: '0x2355606b'
+- name: C3.CMP
+  size: 9672
+  date: '1980-07-29T06:00:04'
+  crc: '0x4209a1a8'
+- name: CARGADOR.PIC
+  size: 7560
+  date: '1980-07-29T03:32:02'
+  crc: '0xfa90ac95'
+- name: COGETOR.SPR
+  size: 7548
+  date: '1990-05-05T14:16:14'
+  crc: '0xb6801f6b'
+- name: CORREAS.SPR
+  size: 3968
+  date: '1990-05-05T16:16:28'
+  crc: '0x08d585bb'
+- name: T1.CMP
+  size: 3037
+  date: '1980-07-29T10:44:56'
+  crc: '0x2a0b41ad'
+- name: T2.CMP
+  size: 4856
+  date: '1980-07-29T18:23:32'
+  crc: '0x112a7d74'
+- name: T3.CMP
+  size: 6842
+  date: '1980-07-29T06:00:04'
+  crc: '0xf2f25aaf'
+- name: TECLAINT.BIN
+  size: 98
+  date: '1980-07-29T06:22:48'
+  crc: '0x53a1e02e'
+- name: TORPE.PIC
+  size: 2939
+  date: '1980-07-29T00:21:20'
+  crc: '0xc4283e6a'
+- name: TORPE.REC
+  size: 297
+  date: '2009-01-09T10:48:10'
+  crc: '0x155bedb9'
+- name: TORPEDI.SPR
+  size: 304
+  date: '1980-07-29T21:18:20'
+  crc: '0x6ce15dcf'
+- name: TORPEDO.EXE
+  size: 48581
+  date: '1990-05-07T19:03:30'
+  crc: '0xff245798'
+- name: TROZOS.BIN
+  size: 520
+  date: '1980-07-29T06:00:04'
+  crc: '0x94b9ab54'

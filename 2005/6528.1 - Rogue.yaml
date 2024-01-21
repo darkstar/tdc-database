@@ -1,0 +1,36 @@
+filename: Rogue v3.6.3 (2005)(Nicholas J. Kisseberth) [Role-Playing (RPG)].zip
+tdc_id: '6528.1'
+title:
+  screen: Rogue
+publisher: Nicholas J. Kisseberth
+year: '2005'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-02T10:57:06'
+  last_modified: '2019-03-02T10:57:06'
+version: 3.6.3
+type: zip
+commands:
+  play: rogue.exe
+files:
+- name: CWSDPMI.EXE
+  size: 21325
+  date: '2010-01-07T23:06:10'
+  crc: '0xa18c506d'
+- name: LICENSE.TXT
+  size: 1523
+  date: '2000-05-02T11:31:46'
+  crc: '0x073694e4'
+- name: rogue.cat
+  size: 2078
+  date: '2005-02-06T15:48:44'
+  crc: '0x233b6397'
+- name: rogue.doc
+  size: 19783
+  date: '2005-02-06T15:48:44'
+  crc: '0x4dbc759d'
+- name: rogue.exe
+  size: 346641
+  date: '2005-02-06T15:48:42'
+  crc: '0x2dddbd36'

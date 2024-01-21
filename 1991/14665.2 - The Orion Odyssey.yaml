@@ -1,0 +1,64 @@
+filename: Orion Odyssey, The v3.0 [SW] (1991)(Billy Dalrymple) [Action, Adventure].zip
+tdc_id: '14665.2'
+title:
+  screen: The Orion Odyssey
+publisher: Billy Dalrymple
+year: '1991'
+genre:
+- Action
+- Adventure
+language: English
+date:
+  added: '2019-03-01T18:37:16'
+  last_modified: '2019-03-01T18:37:16'
+version: '3.0'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: ORION.EXE
+references:
+  dosid: DOS03855
+  exodos: Orion Odyssey - The Search for the Magic Ankh (1991).zip
+files:
+- name: GAME.SAV
+  size: 312
+  date: '1991-10-13T22:18:02'
+  crc: '0x8bac7062'
+- name: INTRO.PCX
+  size: 22312
+  date: '1991-10-13T14:52:28'
+  crc: '0x9d7d6a1e'
+- name: ORION.DOC
+  size: 19233
+  date: '1991-10-13T22:16:58'
+  crc: '0x657eb401'
+- name: ORION.EXE
+  size: 105746
+  date: '1991-10-14T03:27:58'
+  crc: '0x648be666'
+- name: SAIPH.ALN
+  size: 3123
+  date: '1991-10-13T22:46:16'
+  crc: '0x31cba38d'
+- name: SAIPH.DAT
+  size: 31428
+  date: '1991-10-13T15:18:36'
+  crc: '0x8a4fc254'
+- name: SAIPH.IMG
+  size: 614825
+  date: '1991-10-13T15:16:12'
+  crc: '0xca3f0a2d'
+- name: SCREEN1.PCX
+  size: 43212
+  date: '1991-10-13T15:44:36'
+  crc: '0xb09826e9'
+- name: SPRITE.IMG
+  size: 216078
+  date: '1991-10-12T21:46:32'
+  crc: '0xafd2275c'
+- name: TRANSPOR.PCX
+  size: 38860
+  date: '1991-09-15T12:58:32'
+  crc: '0x48a34f2d'

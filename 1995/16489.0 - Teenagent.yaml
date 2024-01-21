@@ -1,0 +1,42 @@
+filename: Teenagent (Installer) [SWR] (1995)(Union Logic Software Publishing, Inc.) [Adventure].zip
+tdc_id: '16489.0'
+title:
+  screen: Teenagent
+publisher: Union Logic Software Publishing, Inc.
+year: '1995'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-02T09:06:02'
+  last_modified: '2019-03-02T09:06:02'
+type: zip
+tags:
+- SharewareRegistered
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: ENGLISH.LRM
+  size: 4212
+  date: '1994-03-16T07:01:14'
+  crc: '0xeee04e84'
+- name: INSTALL.EXE
+  size: 162583
+  date: '1995-05-11T14:23:00'
+  crc: '0x7d2350f7'
+- name: RUNME.INF
+  size: 1105
+  date: '1995-05-11T14:30:08'
+  crc: '0x88949da3'
+- name: TEEN_REG.001
+  size: 1276496
+  date: '1995-05-11T14:24:36'
+  crc: '0x567679df'
+- name: TEEN_REG.002
+  size: 1457152
+  date: '1995-05-11T14:26:42'
+  crc: '0x4215b070'
+- name: TEEN_REG.003
+  size: 997059
+  date: '1995-05-11T14:28:06'
+  crc: '0x59b4aeea'

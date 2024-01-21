@@ -1,0 +1,33 @@
+filename: Hannibal (Installer) (1995)(General Admission Software) [Strategy].zip
+tdc_id: '11091.6'
+parent_id: '11091.9'
+title:
+  box: Hannibal
+publisher: General Admission Software
+year: '1995'
+genre: Strategy
+language: English
+date:
+  added: '2020-10-03T21:18:36'
+  last_modified: '2020-10-03T21:18:36'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK.ID
+  size: 25
+  date: '1993-12-14T11:09:20'
+  crc: '0x95dbe219'
+- name: HANNIBAL.001
+  size: 2484525
+  date: '1995-07-09T18:52:04'
+  crc: '0xb5c13cad'
+- name: INSTALL.DAT
+  size: 8707
+  date: '1995-07-09T19:03:28'
+  crc: '0x1da53bfd'
+- name: INSTALL.EXE
+  size: 90304
+  date: '1993-12-14T11:09:20'
+  crc: '0x929e6b84'

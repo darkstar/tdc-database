@@ -1,0 +1,36 @@
+filename: Turbo Gomoku v4.0 (1987)(Borland International) [Strategy].zip
+tdc_id: '7240.3'
+title:
+  screen: Turbo Gomoku
+publisher: Borland International
+year: '1987'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:25:48'
+  last_modified: '2019-03-01T18:25:48'
+version: '4.0'
+type: zip
+commands:
+  play: GO-MOKU.EXE
+files:
+- name: GO-HELP.INC
+  size: 8067
+  date: '1987-12-21T04:00:00'
+  crc: '0x904999b5'
+- name: GO-MOKU.BAK
+  size: 21059
+  date: '1987-12-21T04:00:00'
+  crc: '0x609df5ca'
+- name: GO-MOKU.EXE
+  size: 14752
+  date: '1987-12-21T04:00:00'
+  crc: '0xd06dc0cc'
+- name: GO-MOKU.HLP
+  size: 644
+  date: '1987-12-21T04:00:00'
+  crc: '0xbc0267a7'
+- name: GO-MOKU.PAS
+  size: 21054
+  date: '1991-03-06T23:16:30'
+  crc: '0xe2acc64f'

@@ -1,0 +1,26 @@
+filename: Super Stupid Space Invaders (1997)(PLBM Games) [Action].zip
+tdc_id: '16326.0'
+title:
+  screen: Super Stupid Space Invaders
+publisher: PLBM Games
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:38:08'
+  last_modified: '2019-03-02T10:38:08'
+type: zip
+commands:
+  play: SSSI.EXE
+references:
+  dosid: DOS04979
+  exodos: Super Stupid Space Invaders (1997).zip
+files:
+- name: README.SSS
+  size: 504
+  date: '1997-11-27T03:15:24'
+  crc: '0xa789478e'
+- name: SSSI.EXE
+  size: 24754
+  date: '1997-11-27T03:10:52'
+  crc: '0x5ad0af82'

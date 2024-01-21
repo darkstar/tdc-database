@@ -1,0 +1,87 @@
+filename: AstroRock (1996)(Logicware, Inc.) [Action].zip
+tdc_id: '157.0'
+title:
+  screen: AstroRock
+publisher: Logicware, Inc.
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2020-04-19T16:41:46'
+  last_modified: '2020-04-19T16:41:46'
+type: zip
+references:
+  dosid: DOS15221
+  exodos: Astrorock (1996).zip
+files:
+- name: ASTRO.CFG
+  size: 432
+  date: '1996-08-06T20:10:20'
+  crc: '0x1d56a1c3'
+- name: ASTRODOS.EXE
+  size: 408939
+  date: '1996-08-06T20:03:28'
+  crc: '0x79237116'
+- name: DOS4GW.EXE
+  size: 254556
+  date: '1996-08-06T20:03:30'
+  crc: '0x95d35b4d'
+- name: DRUM.BNK
+  size: 5404
+  date: '1996-08-06T20:03:46'
+  crc: '0xc9e2e6bf'
+- name: HMIDET.386
+  size: 83774
+  date: '1996-08-06T20:03:30'
+  crc: '0xae8d1a06'
+- name: HMIDRV.386
+  size: 317317
+  date: '1996-08-06T20:03:34'
+  crc: '0x21c398b8'
+- name: HMIMDRV.386
+  size: 117852
+  date: '1996-08-06T20:03:36'
+  crc: '0x833fbc45'
+- name: LETSROCK.WAV
+  size: 58412
+  date: '1996-08-06T20:03:46'
+  crc: '0x297f9ab9'
+- name: MELODIC.BNK
+  size: 5404
+  date: '1996-08-06T20:03:46'
+  crc: '0xfe9aae07'
+- name: MUSIC\
+  size: 0
+  date: '1996-08-30T10:40:10'
+- name: MUSIC\SONG1
+  size: 40929316
+  date: '1996-08-06T20:06:16'
+  crc: '0xbed1e8bb'
+- name: REZFILE
+  size: 2808121
+  date: '1996-08-06T20:03:46'
+  crc: '0x5f75cfcc'
+- name: SETUP.EXE
+  size: 165739
+  date: '1996-08-06T20:03:46'
+  crc: '0xd65b7929'
+- name: SETUP.INI
+  size: 3460
+  date: '1996-08-06T20:03:46'
+  crc: '0x292669dd'
+- name: SOSLIB.INI
+  size: 3960
+  date: '1996-08-06T20:03:46'
+  crc: '0x6dfe691a'
+- name: SOUND.CFG
+  size: 236
+  date: '1996-08-06T20:06:44'
+  crc: '0x725c37bd'
+- name: TEST.HMI
+  size: 13125
+  date: '1996-08-06T20:03:46'
+  crc: '0x7fc4ae55'
+- name: TEST.HMP
+  size: 19069
+  date: '1996-08-06T20:03:48'
+  crc: '0x5355c0db'

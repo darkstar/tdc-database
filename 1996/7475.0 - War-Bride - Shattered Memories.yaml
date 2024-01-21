@@ -1,0 +1,35 @@
+filename: War-Bride - Shattered Memories (Installer) [SW] (1996)(Slaughtervision) [Action].zip
+tdc_id: '7475.0'
+title:
+  screen: War-Bride - Shattered Memories
+publisher: Slaughtervision
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-01-28T07:18:02'
+  last_modified: '2019-01-28T07:18:02'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 17272
+  date: '1996-04-02T21:01:32'
+  crc: '0xeeeb3051'
+- name: INSTALL.INI
+  size: 121
+  date: '1996-03-29T17:22:56'
+  crc: '0x898210e2'
+- name: WARBRIDE.E1E
+  size: 1439744
+  date: '1996-04-03T00:02:48'
+  crc: '0x91b7dca2'
+- name: WARBRIDE.E2E
+  size: 546574
+  date: '1996-04-03T19:36:22'
+  crc: '0xa9576a96'

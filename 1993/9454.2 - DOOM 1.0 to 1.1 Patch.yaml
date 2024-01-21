@@ -1,0 +1,39 @@
+filename: DOOM 1.0 to 1.1 Patch [SW] (1993)(id Software, Inc.) [Action, Addon].zip
+tdc_id: '9454.2'
+title:
+  screen: DOOM 1.0 to 1.1 Patch
+publisher: id Software, Inc.
+year: '1993'
+genre:
+- Action
+- Addon
+language: English
+date:
+  added: '2019-03-01T19:02:26'
+  last_modified: '2019-03-01T19:02:26'
+type: zip
+tags:
+- Shareware
+media: Download
+patch: true
+files:
+- name: DOOM11PT.BAT
+  size: 260
+  date: '1993-12-15T01:01:00'
+  crc: '0xe58b7568'
+- name: PATCH.EXE
+  size: 76981
+  date: '1993-02-04T01:01:00'
+  crc: '0xb6cc2f2a'
+- name: PATCH.RTD
+  size: 1773
+  date: '1993-12-16T17:22:58'
+  crc: '0x5cc03036'
+- name: PATCH.RTP
+  size: 319172
+  date: '1993-12-16T17:22:58'
+  crc: '0x601656be'
+- name: README.PAT
+  size: 494
+  date: '1993-12-16T01:01:00'
+  crc: '0xa035a969'

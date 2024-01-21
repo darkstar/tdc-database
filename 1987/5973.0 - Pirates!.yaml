@@ -1,0 +1,46 @@
+filename: Pirates! v432.02 [DC] (1987)(MicroProse Software, Inc.) [Action, Role-Playing (RPG)].zip
+tdc_id: '5973.0'
+title:
+  box: Pirates!
+publisher: MicroProse Software, Inc.
+year: '1987'
+genre:
+- Action
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:25:36'
+  last_modified: '2023-10-22T10:23:37'
+version: '432.02'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: PIR.EXE
+references:
+  mobygames: https://www.mobygames.com/game/214/sid-meiers-pirates
+files:
+- name: DISK1
+  size: 368640
+  date: '1989-05-02T12:13:50'
+  crc: '0x7e8f46aa'
+- name: DISK2
+  size: 202752
+  date: '1989-05-02T12:09:56'
+  crc: '0xe4489d04'
+- name: DISKP
+  size: 163952
+  date: '1989-05-02T12:00:30'
+  crc: '0x6da43061'
+- name: DISKS
+  size: 18432
+  date: '1998-08-07T18:10:16'
+  crc: '0x224c6ac0'
+- name: PIR.ASM
+  size: 5742
+  date: '1991-06-18T13:57:26'
+  crc: '0x50cb9152'
+- name: PIR.EXE
+  size: 1983
+  date: '1989-05-02T12:08:02'
+  crc: '0x37e3dcc6'

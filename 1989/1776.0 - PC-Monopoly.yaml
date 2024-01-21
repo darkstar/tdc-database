@@ -1,0 +1,40 @@
+filename: PC-Monopoly v2.0 [SW] (1989)(Foothills Software) [Strategy, Board].zip
+tdc_id: '1776.0'
+title:
+  screen: PC-Monopoly
+publisher: Foothills Software
+year: '1989'
+genre:
+- Strategy
+- Board
+language: English
+date:
+  added: '2019-03-01T18:28:38'
+  last_modified: '2019-03-01T18:28:38'
+version: '2.0'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: PCM.EXE
+references:
+  dosid: DOS07007
+  exodos: PC-Monopoly (1989).zip
+files:
+- name: PCM-READ.1ST
+  size: 327
+  date: '1989-11-04T16:25:46'
+  crc: '0xd87785fc'
+- name: PCM.DOC
+  size: 14324
+  date: '1989-11-04T16:16:46'
+  crc: '0x89c82714'
+- name: PCM.EXE
+  size: 68880
+  date: '1989-11-18T11:49:02'
+  crc: '0x9cf2efec'
+- name: REGISTER.FRM
+  size: 1660
+  date: '1990-04-16T03:23:30'
+  crc: '0xcbdecf91'

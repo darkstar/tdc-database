@@ -1,0 +1,57 @@
+filename: Cobra Mission- Panic in Cobra City (Installer) [b1] (1992)(MegaTech Software) [Adventure, Role-Playing (RPG), Adult].zip
+tdc_id: '9219.2'
+title:
+  box: 'Cobra Mission: Panic in Cobra City'
+publisher: MegaTech Software
+year: '1992'
+genre:
+- Adventure
+- Role-Playing (RPG)
+- Adult
+language: English
+date:
+  added: '2019-03-01T18:41:50'
+  last_modified: '2019-03-01T18:41:50'
+type: zip
+tags:
+- Bad: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK01.LZH
+  size: 598815
+  date: '1992-09-16T22:08:00'
+  crc: '0xc1fc66d7'
+- name: DISK02.LZH
+  size: 1182376
+  date: '1992-09-02T01:00:00'
+  crc: '0x67249dc6'
+- name: DISK03.LZH
+  size: 1198121
+  date: '1992-09-02T01:00:00'
+  crc: '0xb629116c'
+- name: DISK04.LZH
+  size: 1208601
+  date: '1992-09-02T01:00:00'
+  crc: '0xee2069bf'
+- name: DISK05.LZH
+  size: 1194699
+  date: '1992-09-02T01:00:00'
+  crc: '0xf89871f5'
+- name: DISK06.LZH
+  size: 1190367
+  date: '1992-09-02T01:00:00'
+  crc: '0x642fb775'
+- name: ECG.LZH
+  size: 293466
+  date: '1992-09-02T01:00:00'
+  crc: '0xc46246df'
+- name: INSTALL.EXE
+  size: 45044
+  date: '1992-09-02T01:00:00'
+  crc: '0xcadf526b'
+- name: MCG.LZH
+  size: 192716
+  date: '1992-09-02T01:00:00'
+  crc: '0x5f901c8c'

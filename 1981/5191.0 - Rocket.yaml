@@ -1,0 +1,35 @@
+filename: Rocket (1981)(Anonymous) [Simulation].zip
+tdc_id: '5191.0'
+title:
+  screen: Rocket
+publisher: Anonymous
+year: '1981'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:22:54'
+  last_modified: '2019-03-01T18:22:54'
+type: zip
+media: Download
+commands:
+  play: ROCKET.BAT
+references:
+  dosid: DOS07057
+  exodos: Rocket (1981).zip
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: ROCKET.BAS
+  size: 3018
+  date: '1981-12-31T12:00:00'
+  crc: '0xd18b9396'
+- name: ROCKET.BAT
+  size: 16
+  date: '1980-01-01T00:00:00'
+  crc: '0x4d5e5f26'
+- name: ROCKET.BA_
+  size: 3072
+  date: '1981-12-31T12:00:00'
+  crc: '0xa3ccc48c'

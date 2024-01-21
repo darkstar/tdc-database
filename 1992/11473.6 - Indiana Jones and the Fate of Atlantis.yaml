@@ -1,0 +1,50 @@
+filename: Indiana Jones and the Fate of Atlantis (demo) (1992)(Lucasfilm Games LLC) [Adventure].zip
+tdc_id: '11473.6'
+parent_id: '11473.7'
+title:
+  screen: Indiana Jones and the Fate of Atlantis
+  qualifier: demo
+publisher: Lucasfilm Games LLC
+year: '1992'
+genre: Adventure
+language: English
+date:
+  added: '2021-06-27T09:47:14'
+  last_modified: '2021-06-27T09:47:14'
+type: zip
+demo: true
+commands:
+  play: PLAYFATE.EXE
+files:
+- name: ADLIB.IMS
+  size: 20736
+  date: '1992-04-24T01:00:56'
+  crc: '0x178fac5a'
+- name: PLAYFATE.000
+  size: 12030
+  date: '1992-04-24T01:00:56'
+  crc: '0xdbef6cd3'
+- name: PLAYFATE.001
+  size: 929852
+  date: '1992-04-24T01:00:56'
+  crc: '0x044b3e6f'
+- name: PLAYFATE.EXE
+  size: 112565
+  date: '1992-04-24T01:00:56'
+  crc: '0x0c2c9361'
+- name: READ.ME
+  size: 1316
+  date: '1992-04-24T01:00:56'
+  crc: '0xb9a29498'
+- name: ROLAND.IMS
+  size: 18976
+  date: '1992-04-24T01:00:56'
+  crc: '0xedc7f11f'
+- name: SOUNBLAS.IMS
+  size: 24920
+  date: '1992-04-24T01:00:56'
+  crc: '0x6916c083'
+- name: SPEAKER.IMS
+  size: 20078
+  date: '1992-04-24T01:00:56'
+  crc: '0x30390c69'

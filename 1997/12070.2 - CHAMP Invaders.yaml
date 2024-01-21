@@ -1,0 +1,44 @@
+filename: CHAMP Invaders [SWR] (1997)(CHAMProgramming Corporation) [Action].zip
+tdc_id: '12070.2'
+title:
+  screen: CHAMP Invaders
+publisher: CHAMProgramming Corporation
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2020-08-18T22:47:46'
+  last_modified: '2020-08-18T22:47:46'
+type: zip
+tags:
+- SharewareRegistered
+commands:
+  play: INVADERS.EXE
+references:
+  dosid: DOS01328
+  exodos: CHAMP Invaders (1997).zip
+files:
+- name: INVADERS.EXE
+  size: 205700
+  date: '1997-10-13T11:35:34'
+  crc: '0x2de0be88'
+- name: INVADERS.HLP
+  size: 60886
+  date: '1997-10-11T13:46:52'
+  crc: '0xb9887334'
+- name: INVADERS.ICO
+  size: 766
+  date: '1997-08-05T00:22:42'
+  crc: '0x38b4deb6'
+- name: INVADERS.RES
+  size: 192062
+  date: '1997-10-11T13:46:34'
+  crc: '0x3ea03f20'
+- name: INVADERS.TXT
+  size: 16195
+  date: '1997-10-13T11:43:20'
+  crc: '0xcc0f64e2'
+- name: ORDER.TXT
+  size: 5377
+  date: '1997-10-04T10:23:16'
+  crc: '0x1f3c5cf2'

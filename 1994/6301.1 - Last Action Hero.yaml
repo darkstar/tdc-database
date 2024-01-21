@@ -1,0 +1,42 @@
+filename: Last Action Hero (Installer) (1994)(Psygnosis Limited) [Action, Racing - Driving].zip
+tdc_id: '6301.1'
+title:
+  box: Last Action Hero
+publisher: Psygnosis Limited
+year: '1994'
+genre:
+- Action
+- Racing - Driving
+language: English
+date:
+  added: '2019-03-01T22:01:18'
+  last_modified: '2019-03-01T22:01:18'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.2
+  size: 1457664
+  date: '1994-04-19T19:57:02'
+  crc: '0x113c1ba0'
+- name: INSTALL.3
+  size: 1457664
+  date: '1994-04-19T19:57:10'
+  crc: '0x97f56908'
+- name: INSTALL.4
+  size: 1457664
+  date: '1994-04-19T19:57:18'
+  crc: '0x046264f0'
+- name: INSTALL.5
+  size: 1457664
+  date: '1994-04-19T19:57:26'
+  crc: '0xbb20972d'
+- name: INSTALL.6
+  size: 157622
+  date: '1994-04-19T19:57:26'
+  crc: '0xdd398325'
+- name: INSTALL.EXE
+  size: 1457664
+  date: '1994-04-19T19:57:40'
+  crc: '0x28fd3d92'

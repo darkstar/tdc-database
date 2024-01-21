@@ -1,0 +1,39 @@
+filename: SpinWall [SW] (1989)(Christopher G. Gunn) [Strategy, Puzzle].zip
+tdc_id: '15407.0'
+title:
+  screen: SpinWall
+publisher: Christopher G. Gunn
+year: '1989'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-03-01T18:29:04'
+  last_modified: '2019-03-01T18:29:04'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: SPINWALL.EXE
+references:
+  dosid: DOS07095
+  exodos: SpinWall (1989).zip
+files:
+- name: SPINWALL.DAT
+  size: 3371
+  date: '1989-06-04T02:56:06'
+  crc: '0x54f86c89'
+- name: SPINWALL.DOC
+  size: 3790
+  date: '1990-02-03T20:25:20'
+  crc: '0xd4bbb029'
+- name: SPINWALL.EXE
+  size: 73802
+  date: '1990-01-05T23:31:30'
+  crc: '0xd4701a4a'
+- name: SPINWALL.REG
+  size: 2932
+  date: '1990-01-28T22:56:22'
+  crc: '0xd8670769'

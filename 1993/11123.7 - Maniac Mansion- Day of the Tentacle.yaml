@@ -1,0 +1,53 @@
+filename: Maniac Mansion- Day of the Tentacle v1.1 (Installer) (Es) (1993)(Erbe Software, S.A.) [Adventure].zip
+tdc_id: '11123.7'
+title:
+  box: 'Maniac Mansion: Day of the Tentacle'
+publisher: Erbe Software, S.A.
+year: '1993'
+genre: Adventure
+language: Spanish
+date:
+  added: '2020-03-08T15:53:28'
+  last_modified: '2020-03-08T15:53:28'
+version: '1.1'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK.ID
+  size: 44
+  date: '1993-10-20T03:47:06'
+  crc: '0xbf5ab557'
+- name: DOTT.001
+  size: 1343400
+  date: '1993-10-20T04:14:52'
+  crc: '0x1cba7ea1'
+- name: DOTT.002
+  size: 1457152
+  date: '1993-10-20T03:50:28'
+  crc: '0x2daa3332'
+- name: DOTT.003
+  size: 1457152
+  date: '1993-10-20T03:52:04'
+  crc: '0x5d1d6da2'
+- name: DOTT.004
+  size: 1457152
+  date: '1993-10-20T04:04:24'
+  crc: '0x59517700'
+- name: DOTT.005
+  size: 1457152
+  date: '1993-10-20T04:11:50'
+  crc: '0x3631f6d5'
+- name: DOTT.006
+  size: 1457152
+  date: '1993-10-20T04:13:18'
+  crc: '0x5c6d5532'
+- name: DOTT.007
+  size: 968983
+  date: '1993-10-20T04:14:28'
+  crc: '0xbd02157e'
+- name: INSTALL.EXE
+  size: 113178
+  date: '1993-07-23T05:20:16'
+  crc: '0x2a387584'

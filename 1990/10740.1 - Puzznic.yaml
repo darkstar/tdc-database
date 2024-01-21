@@ -1,0 +1,62 @@
+filename: Puzznic (1990)(Taito America Corp.) [Action, Strategy].zip
+tdc_id: '10740.1'
+title:
+  box: Puzznic
+publisher: Taito America Corp.
+year: '1990'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:33:40'
+  last_modified: '2019-03-01T18:33:40'
+type: zip
+references:
+  dosid: DOS04162
+  exodos: Puzznic (1990).zip
+files:
+- name: CONFIG.DAT
+  size: 16
+  date: '2009-06-18T20:06:38'
+  crc: '0xcf351d94'
+- name: EXTRA.PUZ
+  size: 6227
+  date: '1990-04-03T08:40:46'
+  crc: '0xf03f816f'
+- name: INSTALL.BAT
+  size: 2188
+  date: '1990-07-09T13:49:28'
+  crc: '0x1b5b2f09'
+- name: LEVELMP1.MAP
+  size: 5596
+  date: '1980-02-14T16:03:28'
+  crc: '0xb967161c'
+- name: LIB_0.LBS
+  size: 25908
+  date: '1990-05-25T10:18:52'
+  crc: '0x355721e8'
+- name: LIB_1.LBS
+  size: 166032
+  date: '1990-05-25T10:19:00'
+  crc: '0x66088ccc'
+- name: 'NULL'
+  size: 32
+  date: '1990-08-07T21:28:22'
+  crc: '0x763d8254'
+- name: PUZ.ATI
+  size: 43227
+  date: '1990-07-04T23:37:42'
+  crc: '0xc5ce354d'
+- name: PUZZNIC.BAT
+  size: 25
+  date: '2009-06-18T20:04:48'
+  crc: '0xaf30d28b'
+- name: PUZZNIC.EXE
+  size: 23040
+  date: '1990-08-07T17:56:18'
+  crc: '0x08d6b308'
+- name: RECONFIG.BAT
+  size: 9
+  date: '2009-06-18T20:15:54'
+  crc: '0xc0cfe36e'

@@ -1,0 +1,96 @@
+filename: Wizard Wars (1988)(Out of the Blue Software) [Role-Playing (RPG)].zip
+tdc_id: '1621.0'
+title:
+  box: Wizard Wars
+publisher: Out of the Blue Software
+year: '1988'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:27:02'
+  last_modified: '2019-03-01T18:27:02'
+type: zip
+references:
+  dosid: DOS05684
+  exodos: Wizard Wars (1988).zip
+files:
+- name: CGA1.XLT
+  size: 288
+  date: '1980-01-01T12:00:00'
+  crc: '0x6183d346'
+- name: CGA2.XLT
+  size: 324
+  date: '1980-01-01T12:00:00'
+  crc: '0xbc20c9a5'
+- name: CGA3.XLT
+  size: 558
+  date: '1980-01-01T12:00:00'
+  crc: '0xd96d5eb9'
+- name: PLAY.COM
+  size: 800
+  date: '1980-01-01T12:00:00'
+  crc: '0x89875a51'
+- name: WW.CFG
+  size: 5
+  date: '2011-01-22T09:47:36'
+  crc: '0x74d13004'
+- name: WW.EXE
+  size: 90596
+  date: '1980-01-01T12:00:00'
+  crc: '0xcd39b073'
+- name: WW_CGA0.PCS
+  size: 127135
+  date: '1980-01-01T00:12:34'
+  crc: '0xb22a9e25'
+- name: WW_CGA1.PCS
+  size: 92052
+  date: '1980-01-01T00:17:30'
+  crc: '0xafe03f4f'
+- name: WW_CGA2.PCS
+  size: 97412
+  date: '1980-01-01T00:21:00'
+  crc: '0x2ce03d76'
+- name: WW_CGA3.PCS
+  size: 203073
+  date: '1980-01-01T00:27:58'
+  crc: '0xc5b4c0ee'
+- name: WW_DATA.DAT
+  size: 33475
+  date: '1980-01-01T12:00:00'
+  crc: '0x00a01b6a'
+- name: WW_EGA0.PCS
+  size: 213936
+  date: '1980-01-01T12:00:00'
+  crc: '0xe259e8fc'
+- name: WW_EGA1.PCS
+  size: 176929
+  date: '1980-01-01T12:00:00'
+  crc: '0x1c491133'
+- name: WW_EGA2.PCS
+  size: 177391
+  date: '1980-01-01T12:00:00'
+  crc: '0xa313bb75'
+- name: WW_EGA3.PCS
+  size: 360249
+  date: '1980-01-01T12:00:00'
+  crc: '0x72c528ce'
+- name: WW_START.DAT
+  size: 873
+  date: '1980-01-01T12:00:00'
+  crc: '0x3518a5c6'
+- name: cga.bat
+  size: 27
+  date: '2011-01-22T09:46:34'
+  crc: '0xb959b2ef'
+- name: cga.cfg
+  size: 5
+  date: '2011-01-22T09:46:06'
+  crc: '0xfb91c5a4'
+- name: ega.bat
+  size: 27
+  date: '2011-01-22T09:46:24'
+  crc: '0xcba8e86f'
+- name: ega.cfg
+  size: 5
+  date: '2011-01-22T09:46:06'
+  crc: '0x74d13004'

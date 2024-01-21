@@ -1,0 +1,31 @@
+filename: Microsoft Gorillas [f1] (1990)(Microsoft Corporation) [Strategy].zip
+tdc_id: '10771.3'
+title:
+  box: Microsoft Gorillas
+publisher: Microsoft Corporation
+year: '1990'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:33:40'
+  last_modified: '2023-01-30T15:16:22'
+type: zip
+tags:
+- Fixed: 1
+commands:
+  play: Gorillas.bat
+references:
+  mobygames: https://www.mobygames.com/game/dos/ms-dos-5-included-games
+files:
+- name: Gorillas.bat
+  size: 67
+  date: '1998-07-17T01:00:38'
+  crc: '0x9d690295'
+- name: Readme.txt
+  size: 3308
+  date: '2006-08-07T07:45:26'
+  crc: '0x0cca7030'
+- name: gorilla.bas
+  size: 30329
+  date: '2006-08-07T07:40:54'
+  crc: '0xbf5bf502'

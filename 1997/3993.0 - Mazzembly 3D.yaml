@@ -1,0 +1,30 @@
+filename: Mazzembly 3D (1997)(Dennis Courtney Five) [Role-Playing (RPG)].zip
+tdc_id: '3993.0'
+title:
+  screen: Mazzembly 3D
+publisher: Dennis Courtney Five
+year: '1997'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-02T10:35:36'
+  last_modified: '2019-03-02T10:35:36'
+type: zip
+commands:
+  play: MAZZ3D.EXE
+references:
+  dosid: DOS06948
+  exodos: Mazzembly 3D (1997).zip
+files:
+- name: MAZZ3D.DOC
+  size: 10195
+  date: '1997-03-12T15:37:08'
+  crc: '0x57c1999d'
+- name: MAZZ3D.EXE
+  size: 36817
+  date: '1997-03-12T15:36:38'
+  crc: '0x53872199'
+- name: NFO.DC5
+  size: 1854
+  date: '1997-03-12T15:06:16'
+  crc: '0x7ddf400d'

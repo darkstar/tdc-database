@@ -1,0 +1,31 @@
+filename: Ultimate Combat (1994)(Joshua Coon) [Action].zip
+tdc_id: '3347.0'
+title:
+  screen: Ultimate Combat
+publisher: Joshua Coon
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T07:18:48'
+  last_modified: '2019-03-02T07:18:48'
+type: zip
+commands:
+  play: COMBAT.EXE
+files:
+- name: CHI
+  size: 129280
+  date: '1994-02-10T17:43:56'
+  crc: '0xc9af5b78'
+- name: COMBAT.EXE
+  size: 29632
+  date: '1994-02-18T18:01:46'
+  crc: '0x837eb0fb'
+- name: README.DOC
+  size: 1698
+  date: '1994-05-29T20:22:54'
+  crc: '0x79b740e3'
+- name: U-COMBAT
+  size: 129280
+  date: '1993-12-25T10:48:38'
+  crc: '0x255029d0'

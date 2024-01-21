@@ -1,0 +1,38 @@
+filename: Acrostix v2.3 (1993)(Intelligent Educational Software) [Strategy, Puzzle].zip
+tdc_id: '8047.2'
+title:
+  screen: Acrostix
+publisher: Intelligent Educational Software
+year: '1993'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2012-01-02T22:06:46'
+  last_modified: '2012-01-02T22:06:46'
+version: '2.3'
+type: zip
+media: Download
+commands:
+  play: ACROSTIX.EXE
+references:
+  dosid: DOS07276
+  exodos: Acrostix (1993).zip
+files:
+- name: ACROSTIX.ACR
+  size: 52542
+  date: '1993-05-25T14:50:26'
+  crc: '0x8c09c5c2'
+- name: ACROSTIX.EXE
+  size: 34439
+  date: '1993-05-25T15:04:24'
+  crc: '0xd589d421'
+- name: FILE_ID.DIZ
+  size: 260
+  date: '1993-05-25T14:50:26'
+  crc: '0x5fefd444'
+- name: README
+  size: 1590
+  date: '1993-05-25T14:50:26'
+  crc: '0x8eab6bfd'

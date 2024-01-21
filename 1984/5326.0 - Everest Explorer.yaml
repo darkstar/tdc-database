@@ -1,0 +1,33 @@
+filename: Everest Explorer v2.1 (1984)(Acorn Software Products, Inc.) [Simulation][!].zip
+tdc_id: '5326.0'
+title:
+  box: Everest Explorer
+publisher: Acorn Software Products, Inc.
+year: '1984'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:24:04'
+  last_modified: '2019-03-01T18:24:04'
+version: '2.1'
+type: zip
+tags:
+- KnownGood
+notes: +=PCMag Sep.'82, 68 + Sep.'82, 310 /// 48K, $19.95
+files:
+- name: AUTOEXEC.BAT
+  size: 19
+  date: '1980-01-01T00:16:50'
+  crc: '0xf9007f8e'
+- name: EVEREST.BAS
+  size: 25545
+  date: '1984-03-03T13:51:10'
+  crc: '0x31c1340d'
+- name: IBMBIO.COM
+  size: 1920
+  date: '1980-01-01T00:00:00'
+  crc: '0xe6a18450'
+- name: IBMDOS.COM
+  size: 6400
+  date: '1980-01-01T00:00:00'
+  crc: '0x17c1a985'

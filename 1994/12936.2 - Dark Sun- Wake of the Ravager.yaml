@@ -1,0 +1,66 @@
+filename: Dark Sun- Wake of the Ravager v1.0 (Installer) (1994)(Strategic Simulations, Inc.) [Role-Playing (RPG)].zip
+tdc_id: '12936.2'
+title:
+  box: 'Dark Sun: Wake of the Ravager'
+  qualifier: Installer
+publisher: Strategic Simulations, Inc.
+year: '1994'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T21:55:48'
+  last_modified: '2023-12-07T09:21:13'
+version: '1.0'
+release: ''
+type: zip
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/3279/dark-sun-wake-of-the-ravager/
+files:
+- name: BOOT.NFO
+  size: 213
+  date: '1994-09-16T11:18:04'
+  crc: '0xda2d5c64'
+- name: DATA.A00
+  size: 1359288
+  date: '1994-09-16T10:48:52'
+  crc: '0x488974c8'
+- name: DATA.A01
+  size: 1359396
+  date: '1994-09-16T10:50:18'
+  crc: '0xa014eae2'
+- name: DATA.A02
+  size: 1359180
+  date: '1994-09-16T10:52:06'
+  crc: '0x31efcfc5'
+- name: DATA.A03
+  size: 1359281
+  date: '1994-09-16T10:53:54'
+  crc: '0xa2277c87'
+- name: DATA.A04
+  size: 1359206
+  date: '1994-09-16T10:55:16'
+  crc: '0xfabc50a6'
+- name: DATA.A05
+  size: 1359350
+  date: '1994-09-16T10:56:44'
+  crc: '0x75a9cc5d'
+- name: DATA.A06
+  size: 787682
+  date: '1994-09-16T14:26:02'
+  crc: '0x79e8376d'
+- name: DEARJ.EXE
+  size: 39441
+  date: '1993-03-19T16:18:52'
+  crc: '0x284b68d2'
+- name: INSTALL.EXE
+  size: 47982
+  date: '1994-09-16T10:17:46'
+  crc: '0x4e271475'
+- name: INSTALL.NFO
+  size: 521
+  date: '1994-09-16T11:17:44'
+  crc: '0xab6b8bda'

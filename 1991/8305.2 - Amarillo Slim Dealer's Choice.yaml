@@ -1,0 +1,57 @@
+filename: Amarillo Slim Dealer's Choice [a2] (1991)(Villa Crespo Software) [Simulation].zip
+tdc_id: '8305.2'
+title:
+  box: Amarillo Slim Dealer's Choice
+publisher: Villa Crespo Software
+year: '1991'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:34:50'
+  last_modified: '2019-03-01T18:34:50'
+type: zip
+tags:
+- Alternate: 2
+commands:
+  play: POKER.EXE
+files:
+- name: CONTROL.SAV
+  size: 13
+  date: '1992-05-10T16:50:08'
+  crc: '0x52849d7f'
+- name: GAMES.SAV
+  size: 41
+  date: '1992-05-10T17:09:56'
+  crc: '0x86255ebc'
+- name: PLAYERS.SAV
+  size: 86
+  date: '1992-05-10T17:10:12'
+  crc: '0x98f722d2'
+- name: POKER.DOC
+  size: 74740
+  date: '1992-05-10T16:45:04'
+  crc: '0x5e973f80'
+- name: POKER.EXE
+  size: 155437
+  date: '1992-05-10T16:46:28'
+  crc: '0x5e92747b'
+- name: POKERDOC.IDX
+  size: 2882
+  date: '1992-05-10T16:45:04'
+  crc: '0xe7ffd461'
+- name: POKSOUND.DB
+  size: 54107
+  date: '1992-05-10T16:45:12'
+  crc: '0x71cee59e'
+- name: RULES.SAV
+  size: 22
+  date: '1992-05-11T16:46:46'
+  crc: '0x55435186'
+- name: SCORES.SAV
+  size: 351
+  date: '1992-05-11T16:48:06'
+  crc: '0x423dc067'
+- name: STATS.SAV
+  size: 4017
+  date: '1992-05-11T16:47:50'
+  crc: '0x36689ce7'

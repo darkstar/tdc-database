@@ -1,0 +1,28 @@
+filename: Boppin' (Installer) [SW] (1994)(Apogee Software, Ltd.) [Action].zip
+tdc_id: '8830.0'
+parent_id: '8830.2'
+title:
+  screen: Boppin'
+publisher: Apogee Software, Ltd.
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T21:54:56'
+  last_modified: '2019-03-01T21:54:56'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: BOP_1BBS._1
+  size: 1258242
+  date: '1994-11-15T13:00:00'
+  crc: '0x9b5a5e4b'
+- name: INSTALL.EXE
+  size: 37356
+  date: '1994-11-15T13:00:00'
+  crc: '0x5f5bb2cb'

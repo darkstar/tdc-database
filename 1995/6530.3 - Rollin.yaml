@@ -1,0 +1,35 @@
+filename: Rollin v1.1 (Installer) (En)(De)(Fr) [SW] (1995)(Ticsoft) [Action].zip
+tdc_id: '6530.3'
+title:
+  screen: Rollin
+publisher: Ticsoft
+year: '1995'
+genre: Action
+language:
+- English
+- French
+- German
+date:
+  added: '2019-03-02T09:02:08'
+  last_modified: '2019-03-02T09:02:08'
+version: '1.1'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.001
+  size: 626
+  date: '1995-04-18T01:10:00'
+  crc: '0x034d1c92'
+- name: INSTALL.EXE
+  size: 87162
+  date: '1995-04-18T01:10:00'
+  crc: '0x417fa2da'
+- name: ROLLIN.DAT
+  size: 1085095
+  date: '1995-04-18T01:10:00'
+  crc: '0x0b3d1d98'

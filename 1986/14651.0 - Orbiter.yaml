@@ -1,0 +1,54 @@
+filename: Orbiter (1986)(Spectrum HoloByte, Inc.) [Educational, Simulation][!].zip
+tdc_id: '14651.0'
+title:
+  box: Orbiter
+publisher: Spectrum HoloByte, Inc.
+year: '1986'
+genre:
+- Educational
+- Simulation
+language: English
+date:
+  added: '2019-03-01T18:24:52'
+  last_modified: '2019-03-01T18:24:52'
+type: zip
+tags:
+- KnownGood
+commands:
+  play: ORBITER.EXE
+references:
+  dosid: DOS03848
+  exodos: Orbiter (1986).zip
+files:
+- name: MISSION.DAT
+  size: 5920
+  date: '1987-10-22T18:04:50'
+  crc: '0x8d59127f'
+- name: MISSION.TEX
+  size: 5887
+  date: '1987-10-22T18:04:52'
+  crc: '0x8db3b936'
+- name: ORBITER.CPR
+  size: 20641
+  date: '1987-11-11T20:36:40'
+  crc: '0xb93ea5a0'
+- name: ORBITER.DAT
+  size: 8819
+  date: '1987-10-22T18:04:54'
+  crc: '0xb6e499ae'
+- name: ORBITER.EXE
+  size: 252672
+  date: '1988-09-30T19:01:50'
+  crc: '0xe048bcd6'
+- name: SATELLIT.TEX
+  size: 6016
+  date: '1988-10-11T16:29:10'
+  crc: '0x8b0cbb19'
+- name: SHUTTLE.TEX
+  size: 6784
+  date: '1988-10-12T00:09:58'
+  crc: '0xeb2bee71'
+- name: SPECTRUM.TEX
+  size: 3968
+  date: '1988-10-12T13:08:26'
+  crc: '0xc8ab2c66'

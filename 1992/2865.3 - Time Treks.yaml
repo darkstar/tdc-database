@@ -1,0 +1,72 @@
+filename: Time Treks (Installer) (1992)(Earthquest Inc.) [Adventure, Educational].zip
+tdc_id: '2865.3'
+title:
+  box: Time Treks
+publisher: Earthquest Inc.
+year: '1992'
+genre:
+- Adventure
+- Educational
+language: English
+date:
+  added: '2023-01-29T14:03:34'
+  last_modified: '2023-01-29T14:03:34'
+type: zip
+installer: true
+commands:
+  play: 'INSTALL.BAT c:'
+references:
+  mobygames: https://www.mobygames.com/game/dos/time-treks
+files:
+- name: '1'
+  size: 3
+  date: '1992-11-10T04:54:06'
+  crc: '0x8f93c1e6'
+- name: '2'
+  size: 3
+  date: '1992-11-10T04:55:16'
+  crc: '0x8dd57fbf'
+- name: '3'
+  size: 3
+  date: '1992-11-10T04:56:24'
+  crc: '0x8c171588'
+- name: '4'
+  size: 3
+  date: '1992-11-10T04:57:34'
+  crc: '0x8958030d'
+- name: ALL4.ZI1
+  size: 729088
+  date: '1992-11-10T04:48:58'
+  crc: '0x5406dafd'
+- name: ALL4.ZI2
+  size: 729088
+  date: '1992-11-10T04:49:16'
+  crc: '0xbcd9d1ac'
+- name: ALL4.ZI3
+  size: 729088
+  date: '1992-11-10T04:49:34'
+  crc: '0xd3ca49c1'
+- name: ALL4.ZI4
+  size: 170697
+  date: '1992-11-10T04:49:38'
+  crc: '0xed1f62df'
+- name: INSTALL.BAT
+  size: 5178
+  date: '1992-11-10T04:37:38'
+  crc: '0x95db8ef3'
+- name: INSTX2.BAT
+  size: 9750
+  date: '1992-11-10T04:40:08'
+  crc: '0x9b86c5ac'
+- name: JOIN.ZIP
+  size: 10178
+  date: '1992-11-03T10:40:06'
+  crc: '0x122166ba'
+- name: PKUNZIP.EXE
+  size: 23528
+  date: '1992-04-27T02:35:44'
+  crc: '0x4457e783'
+- name: TT.BAT
+  size: 31
+  date: '1992-09-15T04:32:06'
+  crc: '0xfbbf19bb'

@@ -1,0 +1,69 @@
+filename: VGA Concentrate v4.01 (2003)(Alive Software) [Strategy].zip
+tdc_id: '17055.1'
+title:
+  screen: VGA Concentrate
+publisher: Alive Software
+year: '2003'
+genre: Strategy
+language: English
+date:
+  added: '2022-12-19T17:26:03'
+  last_modified: '2022-12-19T17:26:03'
+version: '4.01'
+type: zip
+commands:
+  play: Vc.exe
+  setup: CFG_VC.EXE
+files:
+- name: CFG_VC.exe
+  size: 32193
+  date: '2003-10-01T04:01:00'
+  crc: '0x48d9777b'
+- name: License.txt
+  size: 8689
+  date: '2003-10-01T04:01:00'
+  crc: '0x0db5a9c8'
+- name: Readme.txt
+  size: 771
+  date: '2003-10-01T04:01:00'
+  crc: '0xc51b06ef'
+- name: Vc.cfg
+  size: 16
+  date: '2003-10-01T04:01:00'
+  crc: '0x15aa269b'
+- name: Vc.exe
+  size: 78520
+  date: '2003-10-01T04:01:00'
+  crc: '0x1ef2f3a3'
+- name: Vc.txt
+  size: 5926
+  date: '2003-10-01T04:01:00'
+  crc: '0x3965a3ef'
+- name: Vc116.vcl
+  size: 455125
+  date: '2003-10-01T04:01:00'
+  crc: '0x941684b6'
+- name: Vc116.vct
+  size: 124
+  date: '2003-10-01T04:01:00'
+  crc: '0x525a8883'
+- name: Vc1256.vcl
+  size: 206959
+  date: '2003-10-01T04:01:00'
+  crc: '0xa19fdd2b'
+- name: Vc1256.vct
+  size: 127
+  date: '2003-10-01T04:01:00'
+  crc: '0xe856db60'
+- name: Vc164.vcl
+  size: 357707
+  date: '2003-10-01T04:01:00'
+  crc: '0x67673f6f'
+- name: Vc164.vct
+  size: 126
+  date: '2003-10-01T04:01:00'
+  crc: '0xa3a62714'
+- name: Vcsng.gsl
+  size: 16327
+  date: '2003-10-01T04:01:00'
+  crc: '0x214ce0ac'

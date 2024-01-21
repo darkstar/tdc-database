@@ -1,0 +1,27 @@
+filename: Boppin' v1.1 (Installer) [SWR] (1994)(Apogee Software, Ltd.) [Strategy].zip
+tdc_id: '8830.10'
+title:
+  box: Boppin'
+publisher: Apogee Software, Ltd.
+year: '1994'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T21:54:56'
+  last_modified: '2019-03-01T21:54:56'
+version: '1.1'
+type: zip
+tags:
+- SharewareRegistered
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: BOPR11.SHR
+  size: 1459428
+  date: '1998-07-24T13:00:14'
+  crc: '0xf569d675'
+- name: INSTALL.EXE
+  size: 142324
+  date: '1998-07-24T13:03:20'
+  crc: '0x1ac1158b'

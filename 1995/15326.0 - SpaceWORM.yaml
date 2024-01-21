@@ -1,0 +1,26 @@
+filename: SpaceWORM (1995)(David S. Issel) [Action].zip
+tdc_id: '15326.0'
+title:
+  screen: SpaceWORM
+publisher: David S. Issel
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T09:04:34'
+  last_modified: '2019-03-02T09:04:34'
+type: zip
+commands:
+  play: SW.COM
+references:
+  dosid: DOS07093
+  exodos: SpaceWORM (1995).zip
+files:
+- name: SW.COM
+  size: 256
+  date: '1995-03-21T22:25:38'
+  crc: '0x6bc9a57f'
+- name: SW.TXT
+  size: 3911
+  date: '1995-03-21T22:25:38'
+  crc: '0x064318fd'

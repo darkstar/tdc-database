@@ -1,0 +1,93 @@
+filename: Tetris r880114 (1988)(Spectrum HoloByte, Inc.) [Action, Strategy].zip
+tdc_id: '16563.2'
+title:
+  box: Tetris
+publisher: Spectrum HoloByte, Inc.
+year: '1988'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:25:42'
+  last_modified: '2023-02-10T09:49:59'
+release: '880114'
+type: zip
+media: 360K
+commands:
+  play: ETETRIS.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/tetris
+files:
+- name: BKGR0
+  size: 16002
+  date: '1987-12-14T16:26:48'
+  crc: '0x46837a9a'
+- name: BKGR1
+  size: 10511
+  date: '1987-12-14T16:28:16'
+  crc: '0xedb8be93'
+- name: BKGR2
+  size: 11170
+  date: '1987-12-31T16:02:02'
+  crc: '0x75ee8fc8'
+- name: BKGR3
+  size: 6351
+  date: '1987-12-14T00:08:40'
+  crc: '0x3ead4cdf'
+- name: BKGR4
+  size: 10973
+  date: '1987-12-14T00:09:18'
+  crc: '0x6087782d'
+- name: BKGR5
+  size: 10646
+  date: '1987-12-14T00:15:50'
+  crc: '0x77879bfc'
+- name: BKGR6
+  size: 10786
+  date: '1987-12-14T00:16:52'
+  crc: '0x9c18f468'
+- name: BKGR7
+  size: 9759
+  date: '1987-12-15T21:54:26'
+  crc: '0x3d80ced9'
+- name: BKGR8
+  size: 11862
+  date: '1987-12-14T00:18:38'
+  crc: '0xe23ef382'
+- name: BKGR9
+  size: 11318
+  date: '1987-12-15T21:54:38'
+  crc: '0x9e66e2e9'
+- name: CTETRIS.EXE
+  size: 18824
+  date: '1988-01-13T22:56:54'
+  crc: '0x8b8b2857'
+- name: ETETRIS.EXE
+  size: 21212
+  date: '1988-01-13T23:05:50'
+  crc: '0x3eba46d8'
+- name: HIGH
+  size: 200
+  date: '1990-03-24T15:42:58'
+  crc: '0x2024abc3'
+- name: RTETRIS.COM
+  size: 57509
+  date: '1988-01-14T06:21:48'
+  crc: '0xeaeb6806'
+- name: SLC
+  size: 16002
+  date: '1987-12-15T00:50:58'
+  crc: '0xa6a15561'
+- name: TBKGR0
+  size: 32004
+  date: '1988-01-02T15:38:10'
+  crc: '0x0ad140c8'
+- name: TETRIS.TTL
+  size: 16004
+  date: '1987-12-18T06:25:20'
+  crc: '0xb8dd478c'
+- name: TTETRIS.EXE
+  size: 21864
+  date: '1988-01-14T01:21:44'
+  crc: '0x9cb3c97f'

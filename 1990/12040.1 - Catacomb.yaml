@@ -1,0 +1,82 @@
+filename: Catacomb [a1] (1990)(Softdisk Publishing) [Action, Adventure].zip
+tdc_id: '12040.1'
+title:
+  box: Catacomb
+publisher: Softdisk Publishing
+year: '1990'
+genre:
+- Action
+- Adventure
+language: English
+date:
+  added: '2019-03-01T18:32:02'
+  last_modified: '2019-03-01T18:32:02'
+type: zip
+tags:
+- Alternate: 1
+commands:
+  play: CATACOMB.EXE
+references:
+  dosid: DOS01289
+  exodos: Catacomb (1990).zip
+files:
+- name: CATACOMB.EXE
+  size: 69078
+  date: '2040-04-11T01:24:24'
+  crc: '0x77e99889'
+- name: CATACOMB.TXT
+  size: 6027
+  date: '2040-03-13T06:32:14'
+  crc: '0x078842b6'
+- name: DEMO.CAT
+  size: 3001
+  date: '2038-09-09T06:33:16'
+  crc: '0x56e837ba'
+- name: LEVEL1.CAT
+  size: 943
+  date: '2040-04-11T13:20:00'
+  crc: '0x821e1a90'
+- name: LEVEL10.CAT
+  size: 1829
+  date: '2040-04-17T04:01:28'
+  crc: '0xbe3114b2'
+- name: LEVEL2.CAT
+  size: 1421
+  date: '2040-04-11T13:20:00'
+  crc: '0xc10c6000'
+- name: LEVEL3.CAT
+  size: 1464
+  date: '2040-04-11T13:20:00'
+  crc: '0x2d229dcc'
+- name: LEVEL4.CAT
+  size: 1852
+  date: '2040-04-11T13:20:00'
+  crc: '0xdcbe33e7'
+- name: LEVEL5.CAT
+  size: 1516
+  date: '2040-04-17T06:38:14'
+  crc: '0xce4af1c5'
+- name: LEVEL6.CAT
+  size: 2170
+  date: '2040-04-11T13:20:02'
+  crc: '0xe082ba0e'
+- name: LEVEL7.CAT
+  size: 2369
+  date: '2040-04-17T03:48:26'
+  crc: '0x47af8d0c'
+- name: LEVEL8.CAT
+  size: 2228
+  date: '2040-04-11T13:20:02'
+  crc: '0x90843ebb'
+- name: LEVEL9.CAT
+  size: 2350
+  date: '2040-04-11T13:20:04'
+  crc: '0xda665d7e'
+- name: SOUNDS.CAT
+  size: 3796
+  date: '2038-08-28T20:12:28'
+  crc: '0x832dcac8'
+- name: TOPSCORS.CAT
+  size: 45
+  date: '2042-09-30T02:40:06'
+  crc: '0x9999bdb2'

@@ -1,0 +1,60 @@
+filename: Rings of Medusa II- The Return of Medusa v1.12 (De) [f1] (1994)(Starbyte Software) [Strategy].zip
+tdc_id: '9963.2'
+parent_id: '10872.4'
+title:
+  box: 'Rings of Medusa II: The Return of Medusa'
+publisher: Starbyte Software
+year: '1994'
+genre: Strategy
+language: German
+date:
+  added: '2019-03-01T18:37:32'
+  last_modified: '2023-09-03T09:32:37'
+version: '1.12'
+type: zip
+tags:
+- Fixed: 1
+media: CD-ROM
+commands:
+  play: ROM.EXE
+references:
+  mobygames: https://www.mobygames.com/game/56110/the-return-of-medusa/
+  dosid: DOS04289
+  exodos: Return of Medusa, The (1991).zip
+files:
+- name: CONFIG.DAT
+  size: 8
+  date: '1980-01-01T12:00:00'
+  crc: '0x8d78d4cb'
+- name: MCGA.OVL
+  size: 1774
+  date: '1991-09-17T00:57:18'
+  crc: '0xf09039bf'
+- name: ROM.BAT
+  size: 17
+  date: '1980-01-01T12:00:00'
+  crc: '0x306045eb'
+- name: ROM.EXE
+  size: 288000
+  date: '1992-02-16T16:14:52'
+  crc: '0x265a6e26'
+- name: ROM.EX_
+  size: 288000
+  date: '1992-02-16T16:14:52'
+  crc: '0xf741237a'
+- name: ROM.KEY
+  size: 1479
+  date: '1991-10-06T04:38:06'
+  crc: '0xe7f50b32'
+- name: ROM_GRFX.000
+  size: 890316
+  date: '1992-02-13T18:16:34'
+  crc: '0xa13620fa'
+- name: ROM_GRFX.001
+  size: 679196
+  date: '1992-02-13T18:16:32'
+  crc: '0xef6be106'
+- name: SND.EXE
+  size: 8056
+  date: '1993-04-08T12:49:02'
+  crc: '0x888ce0ad'

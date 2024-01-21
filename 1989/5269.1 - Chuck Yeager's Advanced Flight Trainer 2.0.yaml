@@ -1,0 +1,35 @@
+filename: Chuck Yeager's Advanced Flight Trainer 2.0 (Installer) (1989)(Electronic Arts, Inc.) [Simulation][!].zip
+tdc_id: '5269.1'
+parent_id: '5269.2'
+title:
+  box: Chuck Yeager's Advanced Flight Trainer 2.0
+publisher: Electronic Arts, Inc.
+year: '1989'
+genre: Simulation
+language: English
+date:
+  added: '2022-03-05T11:54:54'
+  last_modified: '2022-03-05T11:54:54'
+type: zip
+tags:
+- KnownGood
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: AFT1
+  size: 260989
+  date: '1989-03-08T06:06:12'
+  crc: '0xdbd354d9'
+- name: AFT2
+  size: 123426
+  date: '1989-03-08T06:06:12'
+  crc: '0x98e937e2'
+- name: AFT_5.IEA
+  size: 5743
+  date: '1989-03-08T06:06:12'
+  crc: '0x0aff0aaf'
+- name: INSTALL.EXE
+  size: 39531
+  date: '1989-03-08T06:06:12'
+  crc: '0x0820df1c'

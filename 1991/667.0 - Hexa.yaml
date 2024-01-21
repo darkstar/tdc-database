@@ -1,0 +1,33 @@
+filename: Hexa v0.94 (1991)(Chof) [Action, Strategy].zip
+tdc_id: '667.0'
+title:
+  screen: Hexa
+publisher: Chof
+year: '1991'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:36:18'
+  last_modified: '2019-03-01T18:36:18'
+version: '0.94'
+type: zip
+commands:
+  play: HEXAVGA.EXE
+references:
+  dosid: DOS07942
+  exodos: Hexa (1991).zip
+files:
+- name: HEXAVGA.EXE
+  size: 26469
+  date: '1991-03-23T03:57:30'
+  crc: '0x4c6440a8'
+- name: HEXAVGA.PIC
+  size: 7740
+  date: '1991-03-15T00:48:52'
+  crc: '0xfa6c1fa5'
+- name: README.VGA
+  size: 3516
+  date: '1991-03-23T03:53:20'
+  crc: '0x165f409e'

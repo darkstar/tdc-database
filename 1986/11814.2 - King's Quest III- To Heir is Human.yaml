@@ -1,0 +1,82 @@
+filename: King's Quest III- To Heir is Human v1.01 [a2] (1986)(Sierra On-Line, Inc.) [Adventure].zip
+tdc_id: '11814.2'
+title:
+  box: 'King''s Quest III: To Heir is Human'
+publisher: Sierra On-Line, Inc.
+year: '1986'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:24:50'
+  last_modified: '2019-03-01T18:24:50'
+version: '1.01'
+type: zip
+tags:
+- Alternate: 2
+commands:
+  play: king.com
+files:
+- name: agi
+  size: 34817
+  date: '1986-11-07T15:20:40'
+  crc: '0x9fd023a1'
+- name: agidata.ovl
+  size: 6656
+  date: '1986-11-07T09:27:02'
+  crc: '0x3d5d7bad'
+- name: cga_graf.ovl
+  size: 1024
+  date: '1986-11-07T09:25:10'
+  crc: '0xe7c78dc1'
+- name: ega_graf.ovl
+  size: 1024
+  date: '1986-11-07T09:25:12'
+  crc: '0x33daae91'
+- name: jr_graf.ovl
+  size: 512
+  date: '1986-11-07T09:25:10'
+  crc: '0xfde4aeac'
+- name: king.com
+  size: 2266
+  date: '1991-03-20T19:09:16'
+  crc: '0x68b2ac64'
+- name: logdir
+  size: 390
+  date: '1986-11-08T12:24:14'
+  crc: '0xf16aa84c'
+- name: object
+  size: 796
+  date: '1986-11-02T15:31:22'
+  crc: '0xb533db7f'
+- name: picdir
+  size: 531
+  date: '1986-11-08T12:24:14'
+  crc: '0x8fd6245c'
+- name: snddir
+  size: 120
+  date: '1986-11-08T12:24:14'
+  crc: '0xdb5bfd35'
+- name: viewdir
+  size: 756
+  date: '1986-11-08T12:24:14'
+  crc: '0x21d4b1f8'
+- name: vol.0
+  size: 78516
+  date: '1986-11-08T12:22:32'
+  crc: '0x443288e8'
+- name: vol.1
+  size: 162616
+  date: '1986-11-08T12:23:00'
+  crc: '0x7c62f7b0'
+- name: vol.2
+  size: 201817
+  date: '1986-11-08T12:23:34'
+  crc: '0xba6b9d2b'
+- name: vol.3
+  size: 206381
+  date: '1986-11-08T12:24:14'
+  crc: '0xb4c75d2e'
+- name: words.tok
+  size: 5657
+  date: '1986-11-05T00:47:02'
+  crc: '0x46d861cb'

@@ -1,0 +1,25 @@
+filename: BurgerTime [a2][DC] (1982)(Mattel Electronics) [Action].zip
+tdc_id: '5164.1'
+title:
+  box: BurgerTime
+publisher: Mattel Electronics
+year: '1982'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:22:56'
+  last_modified: '2019-03-01T18:22:56'
+type: zip
+tags:
+- DOSConversion
+- Alternate: 2
+commands:
+  play: BURGER.EXE
+references:
+  dosid: DOS05846
+  exodos: BurgerTime (1982).zip
+files:
+- name: BURGER.EXE
+  size: 35280
+  date: '1998-11-27T12:04:32'
+  crc: '0x61639d72'

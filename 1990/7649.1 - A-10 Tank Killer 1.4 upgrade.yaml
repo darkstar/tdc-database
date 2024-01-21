@@ -1,0 +1,52 @@
+filename: A-10 Tank Killer 1.4 upgrade (1990)(Dynamix, Inc.) [Simulation, Addon].zip
+tdc_id: '7649.1'
+title:
+  screen: A-10 Tank Killer 1.4 upgrade
+publisher: Dynamix, Inc.
+year: '1990'
+genre:
+- Simulation
+- Addon
+language: English
+date:
+  added: '1992-01-24T12:00:00'
+  last_modified: '1992-01-24T12:00:00'
+type: zip
+patch: true
+files:
+- name: '!'
+  size: 1832
+  date: '1992-01-24T12:16:28'
+  crc: '0x6a62fcf1'
+- name: A.EXE
+  size: 191755
+  date: '1990-08-22T19:08:10'
+  crc: '0xfb1be406'
+- name: A10.COM
+  size: 546
+  date: '1989-10-30T01:01:04'
+  crc: '0x35213c08'
+- name: GO.BAT
+  size: 18
+  date: '1989-10-30T01:01:04'
+  crc: '0x6ddfb2d0'
+- name: INSTALL.COM
+  size: 18388
+  date: '1990-05-11T01:01:24'
+  crc: '0xe178fd3b'
+- name: PLAY.BAT
+  size: 637
+  date: '1989-10-30T01:01:04'
+  crc: '0xedb935aa'
+- name: PS.EXE
+  size: 141841
+  date: '1990-06-02T01:02:08'
+  crc: '0x27134e81'
+- name: RUN.BAT
+  size: 16
+  date: '1989-10-30T01:01:04'
+  crc: '0xdd98e261'
+- name: SIM.FNT
+  size: 2352
+  date: '1989-10-30T01:01:04'
+  crc: '0xe53904b9'

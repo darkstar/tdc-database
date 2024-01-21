@@ -1,0 +1,28 @@
+filename: Sopwith 2 (1986)(BMB Compuscience) [Action][!].zip
+tdc_id: '15282.0'
+title:
+  screen: Sopwith 2
+publisher: BMB Compuscience
+year: '1986'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:56'
+  last_modified: '2019-03-01T18:24:56'
+type: zip
+tags:
+- KnownGood
+commands:
+  play: SOPWITH2.EXE
+references:
+  dosid: DOS06298
+  exodos: Sopwith 2 (1985).zip
+files:
+- name: SOPWITH2.DOC
+  size: 1536
+  date: '1987-08-20T15:44:00'
+  crc: '0x94b8daf1'
+- name: SOPWITH2.EXE
+  size: 49536
+  date: '1987-08-20T15:43:00'
+  crc: '0xfd9a6db1'

@@ -1,0 +1,28 @@
+filename: MYCHESS v1.0 (1984)(Software Toolworks, Inc., The) [Strategy, Chess].zip
+tdc_id: '14382.2'
+title:
+  box: MYCHESS
+publisher: Software Toolworks, Inc., The
+year: '1984'
+genre:
+- Strategy
+- Chess
+language: English
+date:
+  added: '2023-05-24T09:07:36'
+  last_modified: '2023-05-25T10:01:39'
+version: '1.0'
+type: zip
+media: 360K
+commands:
+  play: MYCHESS.COM
+  setup: MYCONFIG.EXE
+files:
+- name: MYCHESS.COM
+  size: 52352
+  date: '1985-01-01T00:00:00'
+  crc: '0x23592a79'
+- name: MYCONFIG.EXE
+  size: 49152
+  date: '1985-01-01T00:00:00'
+  crc: '0x7807c273'

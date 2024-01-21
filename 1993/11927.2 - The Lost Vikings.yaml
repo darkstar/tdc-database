@@ -1,0 +1,32 @@
+filename: Lost Vikings, The (Fr) (1993)(Interplay Productions Ltd.) [Action, Strategy].zip
+tdc_id: '11927.2'
+title:
+  box: The Lost Vikings
+publisher: Interplay Productions Ltd.
+year: '1993'
+genre:
+- Action
+- Strategy
+language: French
+date:
+  added: '2019-03-01T19:12:14'
+  last_modified: '2023-12-31T08:41:08'
+type: zip
+commands:
+  play: vik.exe
+  setup: setup.exe
+references:
+  mobygames: https://www.mobygames.com/game/1547/the-lost-vikings/
+files:
+- name: data.dat
+  size: 1571358
+  date: '2001-05-23T23:07:24'
+  crc: '0x9dbac7fb'
+- name: setup.exe
+  size: 20743
+  date: '1993-07-29T18:47:26'
+  crc: '0x2ab84bed'
+- name: vik.exe
+  size: 45088
+  date: '1993-07-29T18:47:28'
+  crc: '0x70eb1554'

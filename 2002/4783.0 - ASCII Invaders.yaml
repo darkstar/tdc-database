@@ -1,0 +1,28 @@
+filename: ASCII Invaders v1.6 (2002)(Corey Mercer) [Action].zip
+tdc_id: '4783.0'
+title:
+  screen: ASCII Invaders
+publisher: Corey Mercer
+year: '2002'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:55:52'
+  last_modified: '2019-03-02T10:55:52'
+version: '1.6'
+type: zip
+commands:
+  play: ASCINV.EXE
+files:
+- name: ASCINV.DAT
+  size: 46902
+  date: '2001-01-05T16:36:40'
+  crc: '0x707c4b52'
+- name: ASCINV.EXE
+  size: 23280
+  date: '2002-01-17T15:20:44'
+  crc: '0xdc8aef96'
+- name: README.TXT
+  size: 4417
+  date: '2002-01-17T15:27:28'
+  crc: '0x0c2bd389'

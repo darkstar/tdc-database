@@ -1,0 +1,57 @@
+filename: Endless Night, The [SW] (1993)(Andy Wood) [Adventure].zip
+tdc_id: '2628.0'
+title:
+  screen: The Endless Night
+publisher: Andy Wood
+year: '1993'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T19:02:46'
+  last_modified: '2019-03-01T19:02:46'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: NIGHTVGA.EXE
+references:
+  dosid: DOS06823
+  exodos: Endless Night, The (1993).zip
+files:
+- name: NIGHT.GIS
+  size: 199
+  date: '1993-02-04T03:24:00'
+  crc: '0xa776adb9'
+- name: NIGHT.PAL
+  size: 1031
+  date: '1993-01-31T14:50:42'
+  crc: '0x61b69486'
+- name: NIGHT.SAV
+  size: 100
+  date: '1993-02-13T10:37:28'
+  crc: '0xac344740'
+- name: NIGHT.SCR
+  size: 30727
+  date: '1993-02-04T03:24:00'
+  crc: '0xabf897c9'
+- name: NIGHT.SPR
+  size: 25865
+  date: '1993-02-13T10:41:12'
+  crc: '0xacedab27'
+- name: NIGHTICE.PAL
+  size: 1031
+  date: '1993-02-03T12:29:44'
+  crc: '0x5fef6e1b'
+- name: NIGHTSAN.PAL
+  size: 1031
+  date: '1993-02-04T02:47:44'
+  crc: '0x9a4f57e0'
+- name: NIGHTVGA.EXE
+  size: 149310
+  date: '1993-02-15T05:15:02'
+  crc: '0x468cf595'
+- name: README.DOC
+  size: 1509
+  date: '1993-02-15T05:10:20'
+  crc: '0x22290781'

@@ -1,0 +1,41 @@
+filename: Double Deck Pinochle v1.0 [SW] (1994)(Chris Chapman) [Strategy, Cards].zip
+tdc_id: '989.0'
+title:
+  screen: Double Deck Pinochle
+publisher: Chris Chapman
+year: '1994'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2022-10-13T09:12:13'
+  last_modified: '2022-10-13T09:12:13'
+version: '1.0'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: pinochle.exe
+files:
+- name: FILE_ID.DIZ
+  size: 255
+  date: '1987-07-17T07:27:36'
+  crc: '0x51263d60'
+- name: pinochle.exe
+  size: 53536
+  date: '1994-08-02T01:00:02'
+  crc: '0x186fa4f5'
+- name: pinochle.hlp
+  size: 20426
+  date: '1994-08-02T01:00:02'
+  crc: '0xac029e00'
+- name: readme
+  size: 1481
+  date: '1994-08-02T01:00:02'
+  crc: '0x7d46d9f3'
+- name: register.doc
+  size: 1552
+  date: '1994-08-02T01:00:02'
+  crc: '0x4ee9ad16'

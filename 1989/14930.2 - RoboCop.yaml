@@ -1,0 +1,52 @@
+filename: RoboCop [a1] (1989)(Data East USA, Inc.) [Action].zip
+tdc_id: '14930.2'
+title:
+  box: RoboCop
+publisher: Data East USA, Inc.
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2020-01-02T21:57:34'
+  last_modified: '2020-01-02T21:57:34'
+type: zip
+tags:
+- Alternate: 1
+commands:
+  play: ROBOCOP.EXE
+references:
+  dosid: DOS04331
+  exodos: RoboCop (1989).zip
+files:
+- name: FILES.A
+  size: 348883
+  date: '2019-12-19T19:22:28'
+  crc: '0x2f993b93'
+- name: FILES.A_
+  size: 348883
+  date: '1989-10-10T21:03:00'
+  crc: '0xe5ae8a32'
+- name: FILES.B
+  size: 357688
+  date: '2019-12-19T19:22:48'
+  crc: '0x5a6adeb8'
+- name: FILES.B_
+  size: 357688
+  date: '1989-10-10T21:05:00'
+  crc: '0x0af8fe2a'
+- name: FILES.C
+  size: 356999
+  date: '1989-10-10T21:06:00'
+  crc: '0x317f9de4'
+- name: FILES.D
+  size: 326723
+  date: '1989-10-10T21:04:00'
+  crc: '0xa3825120'
+- name: PLAYER.FYL
+  size: 186
+  date: '1989-11-10T20:22:00'
+  crc: '0x3069911b'
+- name: ROBOCOP.EXE
+  size: 8787
+  date: '1980-01-01T00:00:00'
+  crc: '0x9e30c516'

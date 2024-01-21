@@ -1,0 +1,30 @@
+filename: Crux v1.1 [SW] (1991)(Bob Lancaster) [Strategy].zip
+tdc_id: '9400.1'
+title:
+  screen: Crux
+publisher: Bob Lancaster
+year: '1991'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:35:28'
+  last_modified: '2019-03-01T18:35:28'
+version: '1.1'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: MLCRUX.EXE
+references:
+  dosid: DOS15316
+  exodos: Crux (1993).zip
+files:
+- name: MLCRUX.DOC
+  size: 19191
+  date: '1992-01-10T19:11:12'
+  crc: '0xf247d3d1'
+- name: MLCRUX.EXE
+  size: 26368
+  date: '1992-01-10T19:04:26'
+  crc: '0x4feabb15'

@@ -1,0 +1,27 @@
+filename: BananaTron v1.1 (1989)(Thomas G. Hanlin III) [Action].zip
+tdc_id: '12398.0'
+title:
+  screen: BananaTron
+publisher: Thomas G. Hanlin III
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:27:14'
+  last_modified: '2019-03-01T18:27:14'
+version: '1.1'
+type: zip
+commands:
+  play: BANATRON.EXE
+references:
+  dosid: DOS00325
+  exodos: BananaTron (1989).zip
+files:
+- name: BANATRON.DOC
+  size: 4152
+  date: '1989-05-03T11:50:58'
+  crc: '0x3f4eaec1'
+- name: BANATRON.EXE
+  size: 57816
+  date: '1989-05-02T12:49:48'
+  crc: '0x9849452f'

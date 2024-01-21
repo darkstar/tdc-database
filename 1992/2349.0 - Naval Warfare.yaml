@@ -1,0 +1,36 @@
+filename: Naval Warfare v2.1 (1992)(George D. Deluca) [Strategy].zip
+tdc_id: '2349.0'
+title:
+  screen: Naval Warfare
+publisher: George D. Deluca
+year: '1992'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:49:38'
+  last_modified: '2019-03-01T18:49:38'
+version: '2.1'
+type: zip
+commands:
+  play: WAR.EXE
+files:
+- name: READ.ME
+  size: 2664
+  date: '1993-04-20T16:43:14'
+  crc: '0x0ac257ac'
+- name: WAR.EXE
+  size: 91646
+  date: '1993-04-20T16:14:00'
+  crc: '0x049a7957'
+- name: WAR.HTX
+  size: 9786
+  date: '1992-01-03T14:16:40'
+  crc: '0xc106a5ed'
+- name: WAR.MTX
+  size: 10091
+  date: '1993-04-13T14:45:20'
+  crc: '0x947ed9c1'
+- name: WAR.STX
+  size: 2993
+  date: '1992-01-20T15:14:36'
+  crc: '0xac2ccf12'

@@ -1,0 +1,31 @@
+filename: Super Worms [SWR] (1996)(Wiering Software) [Action, Racing - Driving].zip
+tdc_id: '16336.0'
+title:
+  screen: Super Worms
+publisher: Wiering Software
+year: '1996'
+genre:
+- Action
+- Racing - Driving
+language: English
+date:
+  added: '2013-11-27T23:47:46'
+  last_modified: '2013-11-27T23:47:46'
+type: zip
+tags:
+- SharewareRegistered
+commands:
+  play: SW.EXE
+files:
+- name: SW.CFG
+  size: 2240
+  date: '1999-12-31T18:00:00'
+  crc: '0x7d818934'
+- name: SW.EXE
+  size: 103405
+  date: '1999-12-31T18:00:00'
+  crc: '0x32cb0f1f'
+- name: TRACKS.DAT
+  size: 27762
+  date: '1999-12-31T18:00:00'
+  crc: '0xacc7cf8a'

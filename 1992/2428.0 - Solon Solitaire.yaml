@@ -1,0 +1,66 @@
+filename: Solon Solitaire [SW] (1992)(Solon Software) [Strategy, Cards, Compilation].zip
+tdc_id: '2428.0'
+title:
+  screen: Solon Solitaire
+publisher: Solon Software
+year: '1992'
+genre:
+- Strategy
+- Cards
+- Compilation
+language: English
+date:
+  added: '2019-03-01T18:51:06'
+  last_modified: '2019-03-01T18:51:06'
+type: zip
+tags:
+- Shareware
+media: Download
+compilation: true
+commands:
+  play: SOLON1.EXE
+files:
+- name: INTELL.HLP
+  size: 12778
+  date: '1992-06-23T01:00:10'
+  crc: '0x8c3d289e'
+- name: INTELL.SOL
+  size: 22286
+  date: '1992-06-23T01:00:10'
+  crc: '0x01c90ccd'
+- name: KLONDIKE.HLP
+  size: 13684
+  date: '1992-06-23T01:00:08'
+  crc: '0xf11a4fc4'
+- name: KLONDIKE.SOL
+  size: 22668
+  date: '1992-06-23T01:00:08'
+  crc: '0xb42a7fd1'
+- name: LBL.HLP
+  size: 13271
+  date: '1992-06-23T01:00:08'
+  crc: '0x9cf59fac'
+- name: LBL.SOL
+  size: 21298
+  date: '1992-06-23T01:00:08'
+  crc: '0x672ce880'
+- name: README.COM
+  size: 19794
+  date: '1992-06-23T01:00:10'
+  crc: '0xd81f39fd'
+- name: README.SOL
+  size: 5739
+  date: '1992-06-23T01:00:10'
+  crc: '0xebdfd265'
+- name: SHARDIST.LST
+  size: 1068
+  date: '1992-06-23T01:00:08'
+  crc: '0x3e80c93b'
+- name: SOLON.HLP
+  size: 3531
+  date: '1992-06-23T01:00:10'
+  crc: '0x391d8e97'
+- name: SOLON1.EXE
+  size: 29642
+  date: '1992-06-23T01:00:08'
+  crc: '0xb087dfb0'

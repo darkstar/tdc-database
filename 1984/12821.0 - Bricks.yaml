@@ -1,0 +1,28 @@
+filename: Bricks (1984)(Vince Bly) [Action][!].zip
+tdc_id: '12821.0'
+title:
+  screen: Bricks
+publisher: Vince Bly
+year: '1984'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:02'
+  last_modified: '2019-03-01T18:24:02'
+type: zip
+tags:
+- KnownGood
+commands:
+  play: BRICK.EXE
+references:
+  dosid: DOS01179
+  exodos: Bricks (1984).zip
+files:
+- name: BRICK.EXE
+  size: 18560
+  date: '2032-11-26T13:19:06'
+  crc: '0xd49dc9e4'
+- name: BRICKS.DOC
+  size: 1792
+  date: '1984-04-08T13:30:48'
+  crc: '0xa382e3a2'

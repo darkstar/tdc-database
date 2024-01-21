@@ -1,0 +1,78 @@
+filename: Oxyd v3.9 (Installer) (En)(De)(Fr) (1992)(Dongleware Verlags GmbH) [Strategy, Action].zip
+tdc_id: '8476.5'
+title:
+  screen: Oxyd
+publisher: Dongleware Verlags GmbH
+year: '1992'
+genre:
+- Strategy
+- Action
+language:
+- English
+- French
+- German
+date:
+  added: '2022-08-03T16:54:50'
+  last_modified: '2022-08-03T16:54:50'
+version: '3.9'
+type: zip
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 443
+  date: '1993-04-09T15:11:02'
+  crc: '0x89192424'
+- name: INSTALL.EXE
+  size: 42540
+  date: '1993-04-08T16:00:46'
+  crc: '0x58834c26'
+- name: OXYD_V39\
+  size: 0
+  date: '2010-02-13T22:47:34'
+- name: OXYD_V39\HINTS.TXT
+  size: 5223
+  date: '1993-04-09T15:06:46'
+  crc: '0x99924d66'
+- name: OXYD_V39\LANGUAGE.OX1
+  size: 2
+  date: '1992-10-26T06:47:48'
+  crc: '0x36de2269'
+- name: OXYD_V39\LIESMICH.TXT
+  size: 1180
+  date: '1993-04-08T15:58:52'
+  crc: '0xb4201340'
+- name: OXYD_V39\LISEZMOI.TXT
+  size: 1517
+  date: '1993-04-08T15:58:54'
+  crc: '0xc60c4dfb'
+- name: OXYD_V39\MINTIMES.OX1
+  size: 802
+  date: '1993-04-08T15:58:56'
+  crc: '0x10943f1d'
+- name: OXYD_V39\OXYD1IBM.DAT
+  size: 574947
+  date: '1993-04-08T15:59:00'
+  crc: '0x541a071a'
+- name: OXYD_V39\OXYD_BW.EXE
+  size: 158727
+  date: '1993-04-08T15:59:46'
+  crc: '0xe8a799f0'
+- name: OXYD_V39\OXYD_HI.EXE
+  size: 183012
+  date: '1993-04-08T16:00:00'
+  crc: '0xc83c2ba5'
+- name: OXYD_V39\OXYD_LO.EXE
+  size: 159214
+  date: '1993-04-08T16:00:18'
+  crc: '0x6369ba1a'
+- name: OXYD_V39\README.TXT
+  size: 1480
+  date: '1993-04-09T15:00:48'
+  crc: '0x86253a1c'
+- name: OXYD_V39\SOUND.OX1
+  size: 2
+  date: '1993-04-08T16:00:38'
+  crc: '0x58c223be'

@@ -1,0 +1,32 @@
+filename: Sequence (1984)(Glenn R. Abelson) [Educational].zip
+tdc_id: '1143.0'
+title:
+  screen: Sequence
+publisher: Glenn R. Abelson
+year: '1984'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T18:24:14'
+  last_modified: '2019-03-01T18:24:14'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 24
+  date: '2019-01-25T18:16:56'
+  crc: '0x3aaee3ab'
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1988-10-05T02:00:08'
+  crc: '0x2a44af39'
+- name: SEQUENCE.BAS
+  size: 7424
+  date: '1984-03-19T21:16:32'
+  crc: '0x9525cc93'
+- name: SEQUENCE.DOC
+  size: 768
+  date: '1984-03-19T21:17:58'
+  crc: '0x8e682902'

@@ -1,0 +1,58 @@
+filename: Chessmaster 3000, The v1.02a (Installer) (1991)(Software Toolworks, Inc., The) [Strategy, Chess].zip
+tdc_id: '9281.2'
+title:
+  box: The Chessmaster 3000
+publisher: Software Toolworks, Inc., The
+year: '1991'
+genre:
+- Strategy
+- Chess
+language: English
+date:
+  added: '2019-03-01T18:35:14'
+  last_modified: '2019-03-01T18:35:14'
+version: 1.02a
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: CBOARDS.TZF
+  size: 125803
+  date: '1991-11-13T00:00:00'
+  crc: '0x809a0fcd'
+- name: CLASSICS.TZF
+  size: 127328
+  date: '1991-11-13T00:00:00'
+  crc: '0x084abdc9'
+- name: CM.TZF
+  size: 291083
+  date: '1991-11-13T00:00:00'
+  crc: '0x2db30954'
+- name: CPIECES.TZF
+  size: 158807
+  date: '1991-11-13T00:00:00'
+  crc: '0x40a181fa'
+- name: DI1.QPZ
+  size: 4
+  date: '1991-11-13T00:00:00'
+  crc: '0x04e5916b'
+- name: DI2.QPZ
+  size: 0
+  date: '1991-11-13T00:00:00'
+- name: GRAPHIC.TZF
+  size: 97878
+  date: '1991-11-13T00:00:00'
+  crc: '0xd4884641'
+- name: INSTALL.EXE
+  size: 39476
+  date: '1991-11-23T01:28:14'
+  crc: '0x6c143348'
+- name: RESOURCE.TZF
+  size: 355090
+  date: '1991-11-13T00:00:00'
+  crc: '0x038ae2d7'
+- name: TITLE.TZF
+  size: 177067
+  date: '1991-11-13T00:00:00'
+  crc: '0x9a81d149'

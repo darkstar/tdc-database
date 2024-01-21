@@ -1,0 +1,39 @@
+filename: Unlimited Adventures vBeta (Installer) [h1] (1993)(Strategic Simulations, Inc.) [Role-Playing (RPG)].zip
+tdc_id: '17041.4'
+title:
+  box: Unlimited Adventures
+publisher: Strategic Simulations, Inc.
+year: '1993'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T21:11:04'
+  last_modified: '2022-12-01T08:19:52'
+version: Beta
+type: zip
+tags:
+- Hack: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/unlimited-adventures
+  dosid: DOS05433
+  exodos: Unlimited Adventures (1993).zip
+files:
+- name: FRUADST1.EXE
+  size: 600427
+  date: '1993-03-27T02:46:24'
+  crc: '0x8f554ce6'
+- name: FRUADST2.EXE
+  size: 1132905
+  date: '1993-02-17T15:13:02'
+  crc: '0x7f0f41b4'
+- name: FRUADST3.EXE
+  size: 1130967
+  date: '1993-02-02T22:58:10'
+  crc: '0x1652b5cb'
+- name: INSTALL.EXE
+  size: 96940
+  date: '1993-02-17T12:02:44'
+  crc: '0xf3bb27ec'

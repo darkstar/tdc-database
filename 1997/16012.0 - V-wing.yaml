@@ -1,0 +1,75 @@
+filename: V-wing v1.9 [SW] (1997)(Simo Siiria) [Action].zip
+tdc_id: '16012.0'
+title:
+  screen: V-wing
+publisher: Simo Siiria
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:39:12'
+  last_modified: '2019-03-02T10:39:12'
+version: '1.9'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: VWING.EXE
+files:
+- name: FONT.DAT
+  size: 9301
+  date: '1996-01-06T14:07:04'
+  crc: '0xa32f2a28'
+- name: LEVEL1.LEV
+  size: 83012
+  date: '1996-01-05T23:17:52'
+  crc: '0x82ec02ae'
+- name: LEVEL2.LEV
+  size: 74986
+  date: '1996-03-04T12:47:20'
+  crc: '0xd55d2e48'
+- name: LEVEL3.LEV
+  size: 70888
+  date: '1996-01-05T23:23:16'
+  crc: '0x55f9b204'
+- name: LEVEL4.LEV
+  size: 66278
+  date: '1996-03-04T17:40:06'
+  crc: '0xacf58d5d'
+- name: LEVEL5.LEV
+  size: 89479
+  date: '1996-01-05T23:25:44'
+  crc: '0xc604b463'
+- name: LEVEL6.LEV
+  size: 62845
+  date: '1996-03-04T12:45:40'
+  crc: '0xd97b0d3a'
+- name: LEVEL7.LEV
+  size: 150591
+  date: '1996-01-05T23:29:18'
+  crc: '0x127c5555'
+- name: LEVEL8.LEV
+  size: 58648
+  date: '1996-01-06T14:06:22'
+  crc: '0x4dd08096'
+- name: LOGO.DAT
+  size: 4908
+  date: '1996-04-14T09:05:56'
+  crc: '0x7c68cf6d'
+- name: READ_ME.1ST
+  size: 655
+  date: '1996-01-08T18:31:12'
+  crc: '0x5acee511'
+- name: VWING.CFG
+  size: 123
+  date: '1996-06-25T14:49:02'
+  crc: '0xf6795c89'
+- name: VWING.DOC
+  size: 45934
+  date: '1996-01-08T13:16:36'
+  crc: '0xcf8208dc'
+- name: VWING.EXE
+  size: 224208
+  date: '1996-01-08T09:17:12'
+  crc: '0x7dd5163b'

@@ -1,0 +1,31 @@
+filename: Zork III- The Dungeon Master r17 [DC] (1984)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '15701.3'
+title:
+  box: 'Zork III: The Dungeon Master'
+publisher: Infocom, Inc.
+year: '1984'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2022-06-10T17:08:38'
+  last_modified: '2022-06-10T17:08:38'
+release: '17'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: ZORK3.COM
+references:
+  dosid: DOS06014
+  exodos: Zork III - The Dungeon Master (1982).zip
+files:
+- name: ZORK3.COM
+  size: 12928
+  date: '1980-01-01T00:00:00'
+  crc: '0xf19deea0'
+- name: ZORK3R17.DAT
+  size: 113344
+  date: '2022-02-17T08:32:10'
+  crc: '0xa906bda1'

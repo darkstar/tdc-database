@@ -1,0 +1,47 @@
+filename: DOOM v1.666 (Installer) [SW] (1994)(id Software, Inc.) [Action].zip
+tdc_id: '9454.41'
+parent_id: '9454.43'
+title:
+  screen: DOOM
+publisher: id Software, Inc.
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T21:56:14'
+  last_modified: '2019-03-01T21:56:14'
+version: '1.666'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+files:
+- name: DEICE.EXE
+  size: 17303
+  date: '1993-02-04T15:33:24'
+  crc: '0xaad4552c'
+- name: DOOM1666.1
+  size: 1439232
+  date: '1994-09-01T17:34:08'
+  crc: '0xd6c16040'
+- name: DOOM1666.2
+  size: 985789
+  date: '1994-09-01T17:35:08'
+  crc: '0x6bef0f04'
+- name: DOOM1666.DAT
+  size: 177
+  date: '1994-09-01T17:33:08'
+  crc: '0xa8eb17e4'
+- name: INSTALL.BAT
+  size: 176
+  date: '1994-09-01T17:13:00'
+  crc: '0xb2a362aa'
+- name: SYSOP.DOC
+  size: 924
+  date: '1994-09-01T15:50:32'
+  crc: '0x09fd51d6'
+- name: VENDOR.DOC
+  size: 396
+  date: '1994-09-01T15:50:32'
+  crc: '0x590e98b8'

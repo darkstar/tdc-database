@@ -1,0 +1,31 @@
+filename: So I Mangled My Mom (1995)(Aaron Oldenburg) [Adventure, Interactive Fiction, Adult].zip
+tdc_id: '3736.0'
+title:
+  screen: So I Mangled My Mom
+publisher: Aaron Oldenburg
+year: '1995'
+genre:
+- Adventure
+- Interactive Fiction
+- Adult
+language: English
+date:
+  added: '2019-03-02T09:03:16'
+  last_modified: '2019-03-02T09:03:16'
+type: zip
+media: Download
+commands:
+  play: MANGLE.EXE
+files:
+- name: EX.TXT
+  size: 619
+  date: '1995-12-18T22:04:52'
+  crc: '0x99fe9715'
+- name: MANGLE.BAS
+  size: 36827
+  date: '1995-12-18T21:16:42'
+  crc: '0xabf54159'
+- name: MANGLE.EXE
+  size: 87216
+  date: '1995-12-18T21:17:16'
+  crc: '0x656bd18d'

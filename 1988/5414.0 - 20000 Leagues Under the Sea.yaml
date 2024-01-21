@@ -1,0 +1,156 @@
+filename: 20000 Leagues Under the Sea (1988)(Coktel Vision) [Adventure].zip
+tdc_id: '5414.0'
+title:
+  box: 20000 Leagues Under the Sea
+publisher: Coktel Vision
+year: '1988'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:25:50'
+  last_modified: '2023-10-10T10:14:57'
+type: zip
+media: 360K
+commands:
+  play: LOADER.COM
+references:
+  mobygames: https://www.mobygames.com/game/6396/20000-leagues-under-the-sea/
+  dosid: DOS00625
+  exodos: 20,000 Leagues Under the Sea (1988).zip
+files:
+- name: BOADER.000
+  size: 6912
+  date: '1988-11-18T17:33:54'
+  crc: '0xe6255d1a'
+- name: BOADER.001
+  size: 11008
+  date: '1988-11-18T17:34:06'
+  crc: '0x94977b5c'
+- name: BOADER.TOT
+  size: 24064
+  date: '1988-11-03T15:33:22'
+  crc: '0xd6e665ff'
+- name: BOADER0.TOT
+  size: 30976
+  date: '1988-11-07T14:55:24'
+  crc: '0x12fcd1a2'
+- name: BOADER1.I00
+  size: 50688
+  date: '1988-10-21T11:14:26'
+  crc: '0x2dcc105f'
+- name: BOADER1.I01
+  size: 10496
+  date: '1988-10-21T10:56:12'
+  crc: '0xf363cb17'
+- name: BOADER1.I07
+  size: 47488
+  date: '1988-10-21T11:11:40'
+  crc: '0x726b07af'
+- name: BOADER1.TOT
+  size: 9472
+  date: '1988-11-07T14:51:34'
+  crc: '0x6a1425b5'
+- name: BOADER10.I00
+  size: 28928
+  date: '1988-10-21T14:32:44'
+  crc: '0x02c71eed'
+- name: BOADER10.I07
+  size: 26112
+  date: '1988-10-21T14:31:44'
+  crc: '0x5a9a955d'
+- name: BOADER10.TOT
+  size: 3968
+  date: '1988-11-07T15:24:18'
+  crc: '0x74414b2e'
+- name: BOADER11.TOT
+  size: 6016
+  date: '1988-11-07T11:49:50'
+  crc: '0xd6ca96ee'
+- name: BOADER12.TOT
+  size: 6016
+  date: '1988-11-07T11:51:50'
+  crc: '0xbc5605e2'
+- name: BOADER13.I00
+  size: 21760
+  date: '1988-10-21T15:06:40'
+  crc: '0x50c038b7'
+- name: BOADER13.TOT
+  size: 27136
+  date: '1988-11-03T16:29:30'
+  crc: '0x8bf03ffa'
+- name: BOADER14.TOT
+  size: 4736
+  date: '1988-11-07T11:54:12'
+  crc: '0x5279ca0b'
+- name: BOADER15.I00
+  size: 19840
+  date: '1988-10-21T15:37:52'
+  crc: '0xe3b42bcb'
+- name: BOADER15.I07
+  size: 8704
+  date: '1988-10-21T15:36:56'
+  crc: '0x2c2ac274'
+- name: BOADER15.TOT
+  size: 6400
+  date: '1988-11-11T12:24:08'
+  crc: '0x456bd19f'
+- name: BOADER16.TOT
+  size: 12800
+  date: '1988-11-03T16:36:38'
+  crc: '0x63d8a448'
+- name: BOADER19.TOT
+  size: 16256
+  date: '1988-11-11T12:26:50'
+  crc: '0x436efa5b'
+- name: BOADER2.I00
+  size: 18048
+  date: '1988-10-21T11:28:24'
+  crc: '0xb1978688'
+- name: BOADER2.I07
+  size: 22528
+  date: '1988-10-21T11:27:38'
+  crc: '0x5ee8669f'
+- name: BOADER2.TOT
+  size: 8576
+  date: '1988-11-07T14:59:42'
+  crc: '0xd65003c8'
+- name: BOADER3.I00
+  size: 13824
+  date: '1988-10-28T11:51:34'
+  crc: '0x4b099144'
+- name: BOADER3.TOT
+  size: 11776
+  date: '1988-11-11T12:21:48'
+  crc: '0xd1f92f38'
+- name: BOADER4.TOT
+  size: 12672
+  date: '1988-11-11T12:07:34'
+  crc: '0xace3332d'
+- name: BOADER5.TOT
+  size: 10112
+  date: '1988-11-09T13:52:40'
+  crc: '0x733cfd81'
+- name: BOADER6.TOT
+  size: 512
+  date: '1988-11-03T16:02:30'
+  crc: '0x283db8bc'
+- name: BOADER7.TOT
+  size: 12160
+  date: '1988-11-07T15:14:06'
+  crc: '0x44b57e82'
+- name: BOADER8.TOT
+  size: 17024
+  date: '1988-11-11T12:18:12'
+  crc: '0xed7cb31a'
+- name: BOADER9.TOT
+  size: 5376
+  date: '1988-11-03T16:19:30'
+  crc: '0xf1d71db6'
+- name: LETTRES.BIN
+  size: 1024
+  date: '1980-01-01T00:03:48'
+  crc: '0xf0dfc5c5'
+- name: LOADER.COM
+  size: 48450
+  date: '1988-11-18T17:34:12'
+  crc: '0x20d800a3'

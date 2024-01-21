@@ -1,0 +1,60 @@
+filename: 'HyperComix issue # 1 - Lance Stone- Trouble at the Woz (Installer) [SW] (1993)(Direct Advantage Software) [Simulation, Adventure].zip'
+tdc_id: '2682.0'
+title:
+  screen: 'HyperComix issue # 1 - Lance Stone: Trouble at the Woz'
+publisher: Direct Advantage Software
+year: '1993'
+genre:
+- Simulation
+- Adventure
+language: English
+date:
+  added: '2011-06-17T19:05:06'
+  last_modified: '2011-06-17T19:05:06'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  dosid: DOS00176
+  exodos: 'HyperComix issue # 1 - Lance Stone - Trouble at the Woz (1993).zip'
+files:
+- name: COMIX.DOC
+  size: 6192
+  date: '1993-03-10T07:15:20'
+  crc: '0x103faf31'
+- name: FILE_ID.DIZ
+  size: 332
+  date: '1993-02-10T12:47:08'
+  crc: '0x93a03a95'
+- name: INSTALL.EXE
+  size: 14720
+  date: '1993-03-02T11:14:08'
+  crc: '0x2a14b654'
+- name: LS1DDDA.ID1
+  size: 256000
+  date: '1993-03-02T11:07:48'
+  crc: '0xee8d2b00'
+- name: LS1DDDA.ID2
+  size: 320000
+  date: '1993-03-02T11:08:22'
+  crc: '0x362190c2'
+- name: LS1DDDA.ID3
+  size: 144171
+  date: '1993-03-02T11:08:42'
+  crc: '0xd2c2f7f2'
+- name: ORDER.FRM
+  size: 2329
+  date: '1993-03-03T11:18:14'
+  crc: '0xb568c8a4'
+- name: README.DOC
+  size: 3556
+  date: '1993-02-06T16:44:40'
+  crc: '0x3d04ffa0'
+- name: VENDOR.DOC
+  size: 5028
+  date: '1993-02-08T17:05:26'
+  crc: '0x2cf3c8d2'

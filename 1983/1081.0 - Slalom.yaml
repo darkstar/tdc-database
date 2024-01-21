@@ -1,0 +1,27 @@
+filename: Slalom (1983)(J. Panek) [Simulation].zip
+tdc_id: '1081.0'
+title:
+  screen: Slalom
+publisher: J. Panek
+year: '1983'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:23:20'
+  last_modified: '2019-03-01T18:23:20'
+type: zip
+commands:
+  play: SLALOM.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: SLALOM.BAS
+  size: 5632
+  date: '1983-04-15T15:17:34'
+  crc: '0x635c7ce1'
+- name: SLALOM.BAT
+  size: 16
+  date: '1980-01-01T00:00:00'
+  crc: '0x39916da3'

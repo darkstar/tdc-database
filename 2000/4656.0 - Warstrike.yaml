@@ -1,0 +1,28 @@
+filename: Warstrike (De) (2000)(Johannes Schaeffer) [Strategy].zip
+tdc_id: '4656.0'
+title:
+  screen: Warstrike
+publisher: Johannes Schaeffer
+year: '2000'
+genre: Strategy
+language: German
+date:
+  added: '2019-03-02T10:55:08'
+  last_modified: '2019-03-02T10:55:08'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 23
+  date: '2018-11-30T15:45:00'
+  crc: '0x65774ec7'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: WAR.BAS
+  size: 21622
+  date: '2000-07-20T18:25:04'
+  crc: '0x39ba77e9'

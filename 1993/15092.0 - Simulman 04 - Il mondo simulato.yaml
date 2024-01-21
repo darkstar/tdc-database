@@ -1,0 +1,46 @@
+filename: Simulman 04 - Il mondo simulato (Installer) (It) (1993)(Simulmondo) [Action, Adventure].zip
+tdc_id: '15092.0'
+title:
+  box: Simulman 04 - Il mondo simulato
+publisher: Simulmondo
+year: '1993'
+genre:
+- Action
+- Adventure
+language: Italian
+date:
+  added: '2019-03-01T21:07:44'
+  last_modified: '2022-11-22T10:39:24'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: 1.U
+  size: 320272
+  date: '1993-05-07T18:17:08'
+  crc: '0xf2ff64e7'
+- name: 2.U
+  size: 305613
+  date: '1993-05-07T18:19:10'
+  crc: '0x8330f7e0'
+- name: ANI1.ANI
+  size: 22628
+  date: '1993-01-13T12:03:58'
+  crc: '0xf6abdb0a'
+- name: GENE.CHV
+  size: 3591
+  date: '1992-12-15T17:05:14'
+  crc: '0x2741b47a'
+- name: INSTALL.DAT
+  size: 5285
+  date: '1993-04-17T11:36:10'
+  crc: '0x5609125c'
+- name: INSTALL.EXE
+  size: 29447
+  date: '1993-02-15T12:47:58'
+  crc: '0xd2966045'
+- name: RESETTA.COM
+  size: 19
+  date: '1992-12-17T15:23:44'
+  crc: '0xc6a39750'

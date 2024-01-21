@@ -1,0 +1,49 @@
+filename: Hole in One (Installer) (En)(Fr)(De) (1995)(BMG Interactive Entertainment) [Simulation, Sports].zip
+tdc_id: '8346.0'
+title:
+  box: Hole in One
+publisher: BMG Interactive Entertainment
+year: '1995'
+genre:
+- Simulation
+- Sports
+language:
+- English
+- French
+- German
+date:
+  added: '2020-03-08T20:16:40'
+  last_modified: '2020-03-08T20:16:40'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: BLD_INFO.CFG
+  size: 596
+  date: '2000-01-29T05:38:24'
+  crc: '0xdc0dcfea'
+- name: HOLE.1
+  size: 3637228
+  date: '2000-01-29T05:38:24'
+  crc: '0xb7106cff'
+- name: IMAGE.DAT
+  size: 18551
+  date: '2000-01-29T05:38:26'
+  crc: '0xdba636f2'
+- name: INSTALL.EXE
+  size: 76582
+  date: '2000-01-29T05:38:26'
+  crc: '0xc1f1c7f0'
+- name: INSTALL.PIF
+  size: 967
+  date: '2002-01-07T15:50:32'
+  crc: '0x77905d09'
+- name: LANGRC.RES
+  size: 6243
+  date: '2000-01-29T05:38:26'
+  crc: '0x5445282f'
+- name: MEMORY.TXT
+  size: 60
+  date: '2000-01-29T05:38:26'
+  crc: '0x9ee3004f'

@@ -1,0 +1,29 @@
+filename: Hitchhiker's Guide to the Galaxy, The r31 (1987)(Infocom, Inc.) [Adventure, Interactive Fiction][!].zip
+tdc_id: '8335.0'
+parent_id: '8335.14'
+title:
+  box: The Hitchhiker's Guide to the Galaxy
+publisher: Infocom, Inc.
+year: '1987'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:25:22'
+  last_modified: '2019-03-01T18:25:22'
+release: '31'
+type: zip
+tags:
+- KnownGood
+commands:
+  play: HITCHHIK.EXE
+files:
+- name: HITCHHIK.DAT
+  size: 158413
+  date: '1987-11-23T09:40:00'
+  crc: '0xf36ca097'
+- name: HITCHHIK.EXE
+  size: 31924
+  date: '1987-11-18T10:57:42'
+  crc: '0xaade1439'

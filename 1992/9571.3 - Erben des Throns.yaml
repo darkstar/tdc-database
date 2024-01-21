@@ -1,0 +1,88 @@
+filename: Erben des Throns v1.0 (De) (1992)(German Design Group) [Strategy].zip
+tdc_id: '9571.3'
+parent_id: '9571.2'
+title:
+  box: Erben des Throns
+publisher: German Design Group
+year: '1992'
+genre: Strategy
+language: German
+date:
+  added: '2022-11-21T13:52:34'
+  last_modified: '2022-11-21T13:52:34'
+version: '1.0'
+type: zip
+commands:
+  play: START.EXE
+  setup: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/heirs-to-the-throne
+files:
+- name: DATA1.PCE
+  size: 338478
+  date: '1992-11-04T18:09:46'
+  crc: '0xb568ca13'
+- name: DATA1.PCV
+  size: 542406
+  date: '1992-11-04T18:09:46'
+  crc: '0xd969ad93'
+- name: DATA2.PCE
+  size: 367811
+  date: '1992-11-04T18:09:46'
+  crc: '0xae8985ca'
+- name: DATA2.PCV
+  size: 669148
+  date: '1992-11-04T18:09:46'
+  crc: '0x1e1d9992'
+- name: EDT.SET
+  size: 6
+  date: '1992-11-04T18:09:46'
+  crc: '0xd45f2206'
+- name: EDT.VER
+  size: 7
+  date: '1992-11-04T18:09:46'
+  crc: '0x7a4d4324'
+- name: INTRO.PCE
+  size: 30616
+  date: '1992-11-04T18:09:46'
+  crc: '0xe636a287'
+- name: INTRO.PCV
+  size: 403806
+  date: '1992-11-04T18:09:46'
+  crc: '0x778f3b84'
+- name: OUTRO.PCV
+  size: 156928
+  date: '1992-11-04T18:09:46'
+  crc: '0x63ac85f7'
+- name: PSMCFG.DAT
+  size: 32
+  date: '1992-11-04T18:09:46'
+  crc: '0x5269e6d6'
+- name: PSMCFG.EXE
+  size: 7787
+  date: '1992-11-04T18:09:46'
+  crc: '0xfe85cc46'
+- name: SETUP.EXE
+  size: 10018
+  date: '1992-11-04T18:09:46'
+  crc: '0x7e4477a6'
+- name: SOUND1.PCS
+  size: 18648
+  date: '1992-11-04T18:09:46'
+  crc: '0x0d3df4df'
+- name: SOUND2.PCS
+  size: 6912
+  date: '1992-11-04T18:09:46'
+  crc: '0x655fc73e'
+- name: SOUND3.PCS
+  size: 1852
+  date: '1992-11-04T18:09:46'
+  crc: '0x61bf0f90'
+- name: START.EXE
+  size: 233174
+  date: '1992-11-04T18:09:46'
+  crc: '0xad3217c7'
+- name: START.EX_
+  size: 97015
+  date: '1992-11-04T18:09:46'
+  crc: '0x999f0ac6'

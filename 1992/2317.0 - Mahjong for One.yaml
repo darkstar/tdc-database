@@ -1,0 +1,33 @@
+filename: Mahjong for One [SW] (1992)(LongView Systems) [Strategy].zip
+tdc_id: '2317.0'
+title:
+  screen: Mahjong for One
+publisher: LongView Systems
+year: '1992'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:49:12'
+  last_modified: '2019-03-01T18:49:12'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: MAHJONG.EXE
+references:
+  dosid: DOS08018
+  exodos: Mahjong for One (1992).zip
+files:
+- name: MAHJONG.EXE
+  size: 274904
+  date: '1992-12-08T14:48:20'
+  crc: '0xec88e7d1'
+- name: MJDATA
+  size: 40
+  date: '2013-04-20T15:42:58'
+  crc: '0xc2dcc70b'
+- name: MJREADME.DOC
+  size: 9855
+  date: '1992-12-17T20:37:08'
+  crc: '0x6ccd4be4'

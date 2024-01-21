@@ -1,0 +1,38 @@
+filename: Catacomb 3-D (1991)(Softdisk Publishing) [Action].zip
+tdc_id: '12041.0'
+title:
+  box: Catacomb 3-D
+publisher: Softdisk Publishing
+year: '1991'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:35:12'
+  last_modified: '2019-03-01T18:35:12'
+type: zip
+commands:
+  play: CAT3D.EXE
+references:
+  dosid: DOS01290
+  exodos: Catacomb 3-D (1992).zip
+files:
+- name: AUDIO.C3D
+  size: 5062
+  date: '1991-11-14T14:26:14'
+  crc: '0x074f7525'
+- name: CAT3D.EXE
+  size: 78483
+  date: '1991-11-15T16:16:46'
+  crc: '0xe20992c7'
+- name: CATACOMB.DOC
+  size: 7512
+  date: '1991-12-07T17:14:00'
+  crc: '0xa00b4787'
+- name: EGAGRAPH.C3D
+  size: 258007
+  date: '1991-11-14T16:34:34'
+  crc: '0x7b756d01'
+- name: GAMEMAPS.C3D
+  size: 14288
+  date: '1991-11-11T18:03:06'
+  crc: '0x1d8d501e'

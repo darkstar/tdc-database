@@ -1,0 +1,40 @@
+filename: Warriors of Legend (Installer) (1993)(Virgin Games, Inc.) [Role-Playing (RPG)].zip
+tdc_id: '7482.1'
+title:
+  box: Warriors of Legend
+publisher: Virgin Games, Inc.
+year: '1993'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T21:11:34'
+  last_modified: '2019-03-01T21:11:34'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 72160
+  date: '1993-08-04T16:52:16'
+  crc: '0x9c8aa778'
+- name: INSTALL.S
+  size: 4855
+  date: '1993-08-04T14:08:24'
+  crc: '0x9290008b'
+- name: WOFL.001
+  size: 831575
+  date: '1993-08-23T15:12:32'
+  crc: '0xb5f187ab'
+- name: WOFL.002
+  size: 1146333
+  date: '1993-08-23T15:13:02'
+  crc: '0x979bc1b0'
+- name: WOFL.003
+  size: 1070758
+  date: '1993-08-23T15:13:06'
+  crc: '0x0fb001a1'
+- name: WOFL.004
+  size: 1115191
+  date: '1993-08-23T15:13:40'
+  crc: '0xce77c062'

@@ -1,0 +1,31 @@
+filename: SPOC The Chess Master (1983)(Cypress Software) [Strategy, Chess].zip
+tdc_id: '1084.0'
+title:
+  screen: SPOC The Chess Master
+publisher: Cypress Software
+year: '1983'
+genre:
+- Strategy
+- Chess
+language: English
+date:
+  added: '2019-03-01T18:23:20'
+  last_modified: '2019-03-01T18:23:20'
+type: zip
+references:
+  dosid: DOS07586
+  exodos: SPOC the Chess Master (1983).zip
+notes: +=*** PCMag 3/83 p559 * 128K, CGA/mono
+files:
+- name: SPOC.COM
+  size: 312
+  date: '2016-11-08T23:32:04'
+  crc: '0x1efad01e'
+- name: SPOC.DAT
+  size: 18944
+  date: '2016-11-08T23:32:04'
+  crc: '0x0ef2a364'
+- name: SPOC.EXE
+  size: 99056
+  date: '1980-01-01T01:02:36'
+  crc: '0x0af4bd69'

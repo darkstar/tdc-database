@@ -1,0 +1,38 @@
+filename: Word Ladders (1991)(Softdisk Publishing) [Strategy].zip
+tdc_id: '16073.0'
+title:
+  box: Word Ladders
+publisher: Softdisk Publishing
+year: '1991'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:40:04'
+  last_modified: '2019-03-01T18:40:04'
+type: zip
+commands:
+  play: LADDER.EXE
+references:
+  dosid: DOS05695
+  exodos: Word Ladders (1991).zip
+files:
+- name: BONUS.DAT
+  size: 2606
+  date: '1996-12-24T23:32:00'
+  crc: '0x8e644e39'
+- name: DICT1.DAT
+  size: 5618
+  date: '1996-12-24T23:32:00'
+  crc: '0x85ab6a67'
+- name: DICT2.DAT
+  size: 3556
+  date: '1996-12-24T23:32:00'
+  crc: '0xc53dbf68'
+- name: LADDER.EXE
+  size: 50309
+  date: '1996-12-24T23:32:00'
+  crc: '0x2c50f1c2'
+- name: LADDER.HLP
+  size: 4687
+  date: '1996-12-24T23:32:00'
+  crc: '0x349aa167'

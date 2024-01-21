@@ -1,0 +1,33 @@
+filename: PC-Gammon v3.01 [SW] (1991)(Repstad Computer Consultants) [Strategy, Board].zip
+tdc_id: '10120.1'
+title:
+  screen: PC-Gammon
+publisher: Repstad Computer Consultants
+year: '1991'
+genre:
+- Strategy
+- Board
+language: English
+date:
+  added: '2019-03-01T18:37:22'
+  last_modified: '2019-03-01T18:37:22'
+version: '3.01'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: PCGAMMON.EXE
+files:
+- name: PCGAMMON.DOC
+  size: 15940
+  date: '1991-09-05T13:31:54'
+  crc: '0x030e0717'
+- name: PCGAMMON.EXE
+  size: 179360
+  date: '1991-09-05T13:34:26'
+  crc: '0x655293c8'
+- name: REGISTER.DOC
+  size: 2603
+  date: '1991-07-21T11:02:00'
+  crc: '0x22f4c6fa'

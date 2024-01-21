@@ -1,0 +1,28 @@
+filename: Memory (1996)(Dennis Crudden, CruddenSoft) [Strategy].zip
+tdc_id: '5098.0'
+title:
+  screen: Memory
+publisher: Dennis Crudden, CruddenSoft
+year: '1996'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:13:20'
+  last_modified: '2022-09-20T18:32:13'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 26
+  date: '2018-11-21T23:44:50'
+  crc: '0x8c0d7a60'
+- name: MEMORY.BAS
+  size: 10349
+  date: '1997-04-28T14:47:52'
+  crc: '0xfc10414e'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

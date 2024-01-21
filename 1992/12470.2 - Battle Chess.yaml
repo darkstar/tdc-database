@@ -1,0 +1,39 @@
+filename: Battle Chess v1.0 [FW] (1992)(Interplay Productions, Inc.) [Strategy, Chess].zip
+tdc_id: '12470.2'
+title:
+  screen: Battle Chess
+publisher: Interplay Productions, Inc.
+year: '1992'
+genre:
+- Strategy
+- Chess
+language: English
+date:
+  added: '2019-03-01T18:41:24'
+  last_modified: '2023-10-26T11:41:09'
+version: '1.0'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: CHESS.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1950/battle-chess/
+files:
+- name: ALLCANM1
+  size: 185726
+  date: '1989-08-24T16:50:06'
+  crc: '0x80ba0192'
+- name: ALLCANM2
+  size: 339592
+  date: '1989-08-24T16:50:54'
+  crc: '0x074d879d'
+- name: CHESS.EXE
+  size: 83415
+  date: '1991-06-20T23:40:28'
+  crc: '0xcef5325a'
+- name: READ.NOW
+  size: 4002
+  date: '1992-01-16T17:10:28'
+  crc: '0x4bbce647'

@@ -1,0 +1,31 @@
+filename: Adskok v3.0 (1996)(Intellect) [Action].zip
+tdc_id: '131.0'
+title:
+  screen: Adskok
+publisher: Intellect
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T09:58:40'
+  last_modified: '2019-03-02T09:58:40'
+version: '3.0'
+type: zip
+commands:
+  play: ADSKOK.EXE
+references:
+  dosid: DOS15204
+  exodos: Adskok (1996).zip
+files:
+- name: ADSKOK.DOS
+  size: 4239
+  date: '2001-06-25T08:55:32'
+  crc: '0xace0039c'
+- name: ADSKOK.EXE
+  size: 85370
+  date: '2001-01-15T22:45:36'
+  crc: '0xe26c3d79'
+- name: ADSKOK.WIN
+  size: 4239
+  date: '2001-06-25T08:55:46'
+  crc: '0xca0773eb'

@@ -1,0 +1,30 @@
+filename: Checkers (1996)(James Prevatt) [Strategy, Board].zip
+tdc_id: '194.0'
+title:
+  screen: Checkers
+publisher: James Prevatt
+year: '1996'
+genre:
+- Strategy
+- Board
+language: English
+date:
+  added: '2019-03-02T10:01:40'
+  last_modified: '2019-03-02T10:01:40'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: CHECKERS.BAS
+  size: 7314
+  date: '2018-03-10T02:24:44'
+  crc: '0xa7021f94'
+- name: GO.BAT
+  size: 28
+  date: '2018-04-26T13:23:10'
+  crc: '0xc4f9bfa4'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T01:28:02'
+  crc: '0x19f6ed75'

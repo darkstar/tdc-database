@@ -1,0 +1,35 @@
+filename: Gobbler [SW] (1991)(Ian Warmby) [Action, Puzzle].zip
+tdc_id: '14102.0'
+title:
+  screen: Gobbler
+publisher: Ian Warmby
+year: '1991'
+genre:
+- Action
+- Puzzle
+language: English
+date:
+  added: '2019-03-01T18:36:04'
+  last_modified: '2019-03-01T18:36:04'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: GOBBLER.EXE
+references:
+  dosid: DOS06869
+  exodos: Gobbler (1991).zip
+files:
+- name: GOBBLER.EXE
+  size: 22336
+  date: '1980-01-08T22:18:44'
+  crc: '0xb45e335f'
+- name: INSTRUCT.DOC
+  size: 3675
+  date: '1980-01-02T23:13:00'
+  crc: '0x6967db3e'
+- name: REGISTER.DOC
+  size: 3219
+  date: '1980-01-02T23:15:32'
+  crc: '0x379fa9da'

@@ -1,0 +1,28 @@
+filename: Pong Ball (1998)(Chris Berry) [Action].zip
+tdc_id: '10393.0'
+title:
+  screen: Pong Ball
+publisher: Chris Berry
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:44:14'
+  last_modified: '2019-03-02T10:44:14'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 28
+  date: '2018-11-13T19:28:42'
+  crc: '0x03246350'
+- name: PONGBALL.BAS
+  size: 27002
+  date: '1998-03-24T16:21:26'
+  crc: '0x54c010be'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'

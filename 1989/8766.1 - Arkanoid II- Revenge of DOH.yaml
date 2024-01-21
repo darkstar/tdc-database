@@ -1,0 +1,56 @@
+filename: Arkanoid II- Revenge of DOH r890622 (1989)(Taito Corporation) [Action].zip
+tdc_id: '8766.1'
+parent_id: '8766.4'
+title:
+  box: 'Arkanoid II: Revenge of DOH'
+publisher: Taito Corporation
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2016-04-24T15:01:00'
+  last_modified: '2023-08-30T18:15:46'
+release: '890622'
+type: zip
+media: 360K
+commands:
+  play: DOH.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1088/arkanoid-revenge-of-doh/
+files:
+- name: CML0300.FCL
+  size: 19360
+  date: '1989-04-12T14:08:20'
+  crc: '0xf7361169'
+- name: DOH.CO_
+  size: 4384
+  date: '1989-06-22T16:05:52'
+  crc: '0x2c14df96'
+- name: DOH.EXE
+  size: 9728
+  date: '1989-06-22T16:05:26'
+  crc: '0x4f73da95'
+- name: INSTALL.BAT
+  size: 2223
+  date: '1989-06-15T12:12:06'
+  crc: '0xe3e8fd7f'
+- name: REVOFDOH.CGA
+  size: 34244
+  date: '1989-06-21T16:03:24'
+  crc: '0x6df8dc97'
+- name: REVOFDOH.DAT
+  size: 74537
+  date: '1989-06-21T16:40:40'
+  crc: '0xb98d81b4'
+- name: REVOFDOH.EGA
+  size: 82038
+  date: '1989-06-21T16:02:16'
+  crc: '0xb5b8bd59'
+- name: REVOFDOH.TGA
+  size: 33875
+  date: '1989-06-21T16:37:16'
+  crc: '0x8d6cd30c'
+- name: VDF0300.VDF
+  size: 2432
+  date: '1989-06-22T16:05:38'
+  crc: '0xd7e78370'

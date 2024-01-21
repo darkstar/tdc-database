@@ -1,0 +1,23 @@
+filename: Renju (1992)(Vertisoft Systems, Inc.) [Strategy].zip
+tdc_id: '2392.0'
+title:
+  screen: Renju
+publisher: Vertisoft Systems, Inc.
+year: '1992'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:50:16'
+  last_modified: '2019-03-01T18:50:16'
+type: zip
+commands:
+  play: RENJU.EXE
+files:
+- name: EGAVGA.BGI
+  size: 5554
+  date: '1991-11-11T03:00:00'
+  crc: '0x9b14ff3b'
+- name: RENJU.EXE
+  size: 173876
+  date: '1993-03-15T22:10:02'
+  crc: '0x8db23694'

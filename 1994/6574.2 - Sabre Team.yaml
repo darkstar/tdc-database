@@ -1,0 +1,37 @@
+filename: Sabre Team (Installer) (En)(De)(Fr)(It)(Es) (1994)(Krisalis Software Ltd.) [Strategy].zip
+tdc_id: '6574.2'
+title:
+  box: Sabre Team
+publisher: Krisalis Software Ltd.
+year: '1994'
+genre: Strategy
+language:
+- English
+- Spanish
+- French
+- Italian
+- German
+date:
+  added: '2019-03-01T22:04:08'
+  last_modified: '2019-03-01T22:04:08'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK.001
+  size: 1376172
+  date: '1994-03-03T14:39:26'
+  crc: '0x2cfb0871'
+- name: DISK.002
+  size: 1441704
+  date: '1994-03-03T14:39:38'
+  crc: '0x9a2ccef6'
+- name: DISK.003
+  size: 903518
+  date: '1994-03-03T14:39:46'
+  crc: '0x2c9d2764'
+- name: INSTALL.EXE
+  size: 13442
+  date: '1994-02-20T17:30:20'
+  crc: '0x013ae049'

@@ -1,0 +1,36 @@
+filename: QLife (1995)(Jim Golston) [Simulation].zip
+tdc_id: '10787.0'
+title:
+  screen: QLife
+publisher: Jim Golston
+year: '1995'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-02T08:58:26'
+  last_modified: '2019-03-02T08:58:26'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 25
+  date: '2018-11-29T20:04:28'
+  crc: '0xeae6ffc6'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: QLIFE.BAS
+  size: 9498
+  date: '1995-06-20T21:07:32'
+  crc: '0x9a86a3e6'
+- name: QLIFE.TXT
+  size: 1222
+  date: '1997-07-07T08:02:56'
+  crc: '0xdaa968cc'
+- name: README.TXT
+  size: 938
+  date: '1997-08-11T22:38:34'
+  crc: '0x545830f4'

@@ -1,0 +1,37 @@
+filename: Dots [SW] (1992)(TumbleWeed Software) [Strategy].zip
+tdc_id: '2235.0'
+title:
+  screen: Dots
+publisher: TumbleWeed Software
+year: '1992'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:42:28'
+  last_modified: '2019-03-01T18:42:28'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: DOTS.EXE
+references:
+  dosid: DOS06808
+  exodos: Dots (1992).zip
+files:
+- name: DOTGENS.OVL
+  size: 55245
+  date: '1992-09-09T01:01:02'
+  crc: '0x2e0ae0b2'
+- name: DOTS.EXE
+  size: 70784
+  date: '1992-09-09T01:01:02'
+  crc: '0xaaac8281'
+- name: REGISTER.FRM
+  size: 3469
+  date: '1992-09-09T16:56:12'
+  crc: '0x1908dee0'
+- name: WHATSUP.DOC
+  size: 11841
+  date: '1992-09-09T17:14:14'
+  crc: '0xbcf1cbaa'

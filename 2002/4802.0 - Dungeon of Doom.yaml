@@ -1,0 +1,975 @@
+filename: Dungeon of Doom v1.9.9f (2002)(George Veeder) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '4802.0'
+title:
+  screen: Dungeon of Doom
+publisher: George Veeder
+year: '2002'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-02T10:55:58'
+  last_modified: '2019-03-02T10:55:58'
+version: 1.9.9f
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: '#README#'
+  size: 15736
+  date: '2002-03-02T15:12:58'
+  crc: '0xbad36c01'
+- name: ALCHEMY
+  size: 370
+  date: '2002-03-03T16:17:42'
+  crc: '0xd6725bb1'
+- name: ATTACK.TXT
+  size: 217
+  date: '2002-03-03T09:30:24'
+  crc: '0x4c90d9a4'
+- name: BLAS.TXT
+  size: 385
+  date: '2002-03-03T09:19:04'
+  crc: '0xdbfaafff'
+- name: BLASJ.TXT
+  size: 136
+  date: '2002-03-03T09:19:14'
+  crc: '0x8f6ade46'
+- name: BOSS1
+  size: 438
+  date: '2002-03-03T16:40:50'
+  crc: '0xb8cdaf38'
+- name: BOSS2
+  size: 534
+  date: '2002-03-03T16:41:00'
+  crc: '0x6aa6bb5d'
+- name: BOSS3
+  size: 452
+  date: '2002-03-03T16:41:10'
+  crc: '0xff99d0d5'
+- name: BOSS4
+  size: 611
+  date: '2002-03-03T16:41:18'
+  crc: '0x8d6f4fdd'
+- name: BOSS5
+  size: 713
+  date: '2002-03-03T16:41:26'
+  crc: '0x8e27e118'
+- name: BOSS6
+  size: 315
+  date: '2002-03-03T16:41:32'
+  crc: '0x575e8880'
+- name: BOSS7
+  size: 408
+  date: '2002-03-03T16:41:40'
+  crc: '0xe890e84a'
+- name: BOSS8
+  size: 672
+  date: '2002-03-03T16:41:48'
+  crc: '0x63e6ea9d'
+- name: CHANGES.TXT
+  size: 1459
+  date: '2002-03-15T12:58:28'
+  crc: '0xdc5b7f59'
+- name: CRITIC
+  size: 293
+  date: '2002-03-03T09:05:12'
+  crc: '0x6fe192fa'
+- name: DEATH.TXT
+  size: 1021
+  date: '2002-03-02T15:13:00'
+  crc: '0xd9ed9bdf'
+- name: DEFEND.TXT
+  size: 319
+  date: '2002-03-03T09:30:40'
+  crc: '0xae7f7dfa'
+- name: DGDOOM.BAS
+  size: 68079
+  date: '2018-12-10T19:58:22'
+  crc: '0xfc4be424'
+- name: DGDOOM.SRC
+  size: 68124
+  date: '2005-07-01T18:50:34'
+  crc: '0x04e2e2e0'
+- name: DGEDIT.BAS
+  size: 5494
+  date: '2005-07-01T18:53:36'
+  crc: '0x4643f325'
+- name: DGEDIT.TXT
+  size: 1893
+  date: '2002-03-07T16:50:30'
+  crc: '0x4c4774bc'
+- name: DGEN.B
+  size: 43676
+  date: '2002-03-02T15:13:00'
+  crc: '0xfb4f1bf1'
+- name: DGEN.BAS
+  size: 47538
+  date: '2005-07-01T18:58:10'
+  crc: '0x34188339'
+- name: DGHELP.TXT
+  size: 781
+  date: '2002-03-03T09:31:10'
+  crc: '0xdaaa5d2e'
+- name: DOOMSAVE
+  size: 469
+  date: '2005-07-01T18:36:58'
+  crc: '0x5a65e6b7'
+- name: E
+  size: 990
+  date: '2002-03-02T15:13:02'
+  crc: '0xebcf9d8c'
+- name: EGGO.TXT
+  size: 273
+  date: '2002-03-03T09:19:24'
+  crc: '0x053e2243'
+- name: EGGOJ.TXT
+  size: 178
+  date: '2002-03-03T09:19:32'
+  crc: '0xff6824b7'
+- name: ENEMY 1
+  size: 1445
+  date: '2002-03-03T09:54:30'
+  crc: '0xd73a24e1'
+- name: ENEMY 10
+  size: 1211
+  date: '2002-03-03T10:00:56'
+  crc: '0x8f688a1d'
+- name: ENEMY 11
+  size: 1203
+  date: '2002-03-03T10:01:06'
+  crc: '0x0ff959aa'
+- name: ENEMY 12
+  size: 1152
+  date: '2002-03-03T09:59:38'
+  crc: '0x0f9a79f9'
+- name: ENEMY 13
+  size: 700
+  date: '2002-03-03T09:59:46'
+  crc: '0x52f25883'
+- name: ENEMY 14
+  size: 1248
+  date: '2002-03-03T09:59:54'
+  crc: '0x33f46edf'
+- name: ENEMY 15
+  size: 1213
+  date: '2002-03-03T10:00:02'
+  crc: '0x0354dbbe'
+- name: ENEMY 16
+  size: 1236
+  date: '2002-03-03T10:00:12'
+  crc: '0xd5cc5445'
+- name: ENEMY 17
+  size: 1574
+  date: '2002-03-03T10:00:20'
+  crc: '0x64185004'
+- name: ENEMY 18
+  size: 1145
+  date: '2002-03-03T10:00:32'
+  crc: '0x679a5b89'
+- name: ENEMY 19
+  size: 1691
+  date: '2002-03-03T10:00:46'
+  crc: '0xe0c24499'
+- name: ENEMY 2
+  size: 1160
+  date: '2002-03-03T09:55:36'
+  crc: '0x49ce4586'
+- name: ENEMY 20
+  size: 1965
+  date: '2002-03-03T15:36:12'
+  crc: '0xc4087efd'
+- name: ENEMY 21
+  size: 1664
+  date: '2002-03-03T09:54:40'
+  crc: '0x42b2e074'
+- name: ENEMY 22
+  size: 1831
+  date: '2002-03-03T10:01:16'
+  crc: '0xd7309d42'
+- name: ENEMY 23
+  size: 1873
+  date: '2002-03-03T10:01:24'
+  crc: '0xf4823adf'
+- name: ENEMY 24
+  size: 1241
+  date: '2002-03-03T10:01:34'
+  crc: '0xae8ebcca'
+- name: ENEMY 25
+  size: 2193
+  date: '2002-03-03T10:01:42'
+  crc: '0x21dfdc8e'
+- name: ENEMY 26
+  size: 1811
+  date: '2002-03-03T10:02:32'
+  crc: '0xe351a4b6'
+- name: ENEMY 27
+  size: 1787
+  date: '2002-03-03T10:02:50'
+  crc: '0xfbc632dd'
+- name: ENEMY 28
+  size: 1615
+  date: '2002-03-03T10:02:58'
+  crc: '0x805f9076'
+- name: ENEMY 29
+  size: 2916
+  date: '2002-03-03T10:03:08'
+  crc: '0x2e5b0669'
+- name: ENEMY 3
+  size: 1817
+  date: '2002-03-03T15:47:22'
+  crc: '0xfe773c90'
+- name: ENEMY 30
+  size: 2692
+  date: '2002-03-03T15:36:20'
+  crc: '0xb9faec36'
+- name: ENEMY 31
+  size: 1082
+  date: '2002-03-03T09:54:54'
+  crc: '0x1933d5ee'
+- name: ENEMY 32
+  size: 1317
+  date: '2002-03-03T10:03:36'
+  crc: '0xaff8b68e'
+- name: ENEMY 33
+  size: 1372
+  date: '2002-03-03T15:33:28'
+  crc: '0x28a1c797'
+- name: ENEMY 34
+  size: 3489
+  date: '2002-03-03T15:33:40'
+  crc: '0x860329d5'
+- name: ENEMY 35
+  size: 4090
+  date: '2002-03-03T15:33:50'
+  crc: '0x54191c16'
+- name: ENEMY 36
+  size: 3791
+  date: '2002-03-03T15:34:00'
+  crc: '0x3600dbbb'
+- name: ENEMY 37
+  size: 2069
+  date: '2002-03-03T15:34:12'
+  crc: '0x3b3eb0a6'
+- name: ENEMY 38
+  size: 2121
+  date: '2002-03-03T15:34:20'
+  crc: '0x20428cb3'
+- name: ENEMY 39
+  size: 3812
+  date: '2002-03-03T15:34:30'
+  crc: '0xb232dc47'
+- name: ENEMY 4
+  size: 1740
+  date: '2002-03-03T09:59:18'
+  crc: '0x56117659'
+- name: ENEMY 40
+  size: 1491
+  date: '2002-03-03T15:38:50'
+  crc: '0xacf99901'
+- name: ENEMY 41
+  size: 1653
+  date: '2002-03-03T09:55:02'
+  crc: '0xd77f9adc'
+- name: ENEMY 42
+  size: 2348
+  date: '2002-03-03T15:34:56'
+  crc: '0x839118be'
+- name: ENEMY 43
+  size: 2936
+  date: '2002-03-03T15:35:10'
+  crc: '0xd7995938'
+- name: ENEMY 44
+  size: 1655
+  date: '2002-03-03T15:35:18'
+  crc: '0x9afde9c5'
+- name: ENEMY 45
+  size: 1862
+  date: '2002-03-03T15:35:26'
+  crc: '0x8be53b14'
+- name: ENEMY 46
+  size: 3182
+  date: '2002-03-03T15:35:38'
+  crc: '0xc90f8438'
+- name: ENEMY 47
+  size: 2707
+  date: '2002-03-03T15:35:46'
+  crc: '0xf9a933ad'
+- name: ENEMY 48
+  size: 2272
+  date: '2002-03-03T15:35:52'
+  crc: '0x078d3f90'
+- name: ENEMY 49
+  size: 3533
+  date: '2002-03-03T15:36:04'
+  crc: '0xf4e6fd83'
+- name: ENEMY 5
+  size: 1152
+  date: '2002-03-03T09:59:26'
+  crc: '0xbbdaefda'
+- name: ENEMY 50
+  size: 1131
+  date: '2002-03-03T15:38:58'
+  crc: '0x440ab076'
+- name: ENEMY 51
+  size: 1137
+  date: '2002-03-03T09:55:12'
+  crc: '0x095dfda8'
+- name: ENEMY 52
+  size: 2413
+  date: '2002-03-03T15:36:32'
+  crc: '0xd75ff5b7'
+- name: ENEMY 53
+  size: 2787
+  date: '2002-03-03T15:36:40'
+  crc: '0x953319f6'
+- name: ENEMY 54
+  size: 2969
+  date: '2002-03-03T15:37:52'
+  crc: '0x95c8c4f3'
+- name: ENEMY 55
+  size: 1697
+  date: '2002-03-03T15:38:00'
+  crc: '0x225f597c'
+- name: ENEMY 56
+  size: 2897
+  date: '2002-03-03T15:38:08'
+  crc: '0xb60283df'
+- name: ENEMY 57
+  size: 2797
+  date: '2002-03-03T15:38:14'
+  crc: '0xf7a46e27'
+- name: ENEMY 58
+  size: 1411
+  date: '2002-03-03T15:38:34'
+  crc: '0x900e89f6'
+- name: ENEMY 59
+  size: 3090
+  date: '2002-03-03T15:38:42'
+  crc: '0x81553a90'
+- name: ENEMY 6
+  size: 2129
+  date: '2002-03-03T10:03:18'
+  crc: '0x240466aa'
+- name: ENEMY 60
+  size: 1691
+  date: '2002-03-03T15:40:18'
+  crc: '0x28dd02bf'
+- name: ENEMY 61
+  size: 1118
+  date: '2002-03-03T09:55:22'
+  crc: '0x36cdd1d3'
+- name: ENEMY 62
+  size: 3365
+  date: '2002-03-03T15:39:14'
+  crc: '0x94151fa6'
+- name: ENEMY 63
+  size: 1598
+  date: '2002-03-03T15:39:22'
+  crc: '0x1b9a1382'
+- name: ENEMY 64
+  size: 1423
+  date: '2002-03-03T15:39:30'
+  crc: '0x5457d3e8'
+- name: ENEMY 65
+  size: 19753
+  date: '2002-03-03T15:39:38'
+  crc: '0x3b1b35f6'
+- name: ENEMY 66
+  size: 4948
+  date: '2002-03-03T15:39:44'
+  crc: '0xf4383cca'
+- name: ENEMY 67
+  size: 2185
+  date: '2002-03-03T15:39:54'
+  crc: '0xec595a64'
+- name: ENEMY 68
+  size: 499
+  date: '2002-03-03T15:40:02'
+  crc: '0x36f0a602'
+- name: ENEMY 69
+  size: 1723
+  date: '2002-03-03T15:40:10'
+  crc: '0x547a88b3'
+- name: ENEMY 7
+  size: 1415
+  date: '2002-03-03T10:03:28'
+  crc: '0x6d5faa9b'
+- name: ENEMY 70
+  size: 321
+  date: '2002-03-03T15:40:26'
+  crc: '0xaf673b85'
+- name: ENEMY 8
+  size: 2404
+  date: '2002-03-03T15:34:40'
+  crc: '0xaa04e129'
+- name: ENEMY 9
+  size: 3061
+  date: '2002-03-03T15:34:48'
+  crc: '0x7bdc434a'
+- name: EW
+  size: 990
+  date: '2002-03-02T15:13:02'
+  crc: '0x91477603'
+- name: EXIT
+  size: 10
+  date: '2005-07-01T17:55:16'
+  crc: '0x0c03770c'
+- name: GANJ.TXT
+  size: 270
+  date: '2002-03-03T09:19:44'
+  crc: '0xfc7f2751'
+- name: GANJJ.TXT
+  size: 150
+  date: '2002-03-03T09:19:56'
+  crc: '0x6b90b1de'
+- name: GO.BAT
+  size: 26
+  date: '2018-12-10T19:57:58'
+  crc: '0x6b894200'
+- name: GREM.TXT
+  size: 440
+  date: '2002-03-03T09:20:18'
+  crc: '0x2744b705'
+- name: GREMJ.TXT
+  size: 101
+  date: '2002-03-03T09:20:32'
+  crc: '0x1e670b22'
+- name: GROA.TXT
+  size: 197
+  date: '2002-03-03T09:20:40'
+  crc: '0x72e12b82'
+- name: GROAJ.TXT
+  size: 174
+  date: '2002-03-03T09:20:48'
+  crc: '0xa0128570'
+- name: HIXX.TXT
+  size: 575
+  date: '2002-03-03T09:20:58'
+  crc: '0xa1f8c188'
+- name: HIXXJ.TXT
+  size: 387
+  date: '2002-03-03T09:21:10'
+  crc: '0x29f296ad'
+- name: INDEX.BAS
+  size: 794
+  date: '2005-07-01T18:54:34'
+  crc: '0xcfce400c'
+- name: INDEX.TXT
+  size: 102420
+  date: '2002-03-03T15:48:48'
+  crc: '0x674a6698'
+- name: INIT.DAT
+  size: 4279
+  date: '2002-03-15T12:54:06'
+  crc: '0x37edb96f'
+- name: INTRO.TXT
+  size: 1683
+  date: '2002-03-03T09:31:24'
+  crc: '0xc8992ef7'
+- name: JACK.TXT
+  size: 381
+  date: '2002-03-03T09:21:20'
+  crc: '0x50f51e4d'
+- name: JACKJ.TXT
+  size: 185
+  date: '2002-03-03T09:21:32'
+  crc: '0xe8173a84'
+- name: JOHN.TXT
+  size: 202
+  date: '2002-03-03T09:21:52'
+  crc: '0x74191aad'
+- name: JOHNJ.TXT
+  size: 73
+  date: '2002-03-03T09:22:00'
+  crc: '0xbdd4520b'
+- name: KESS.TXT
+  size: 280
+  date: '2002-03-03T09:22:10'
+  crc: '0xfede2759'
+- name: KESSJ.TXT
+  size: 275
+  date: '2002-03-03T09:22:22'
+  crc: '0x4d2bccc4'
+- name: KINN.TXT
+  size: 290
+  date: '2002-03-03T09:22:30'
+  crc: '0xdd611f63'
+- name: KINNJ.TXT
+  size: 256
+  date: '2002-03-03T09:26:02'
+  crc: '0x1010481e'
+- name: KONJ.TXT
+  size: 162
+  date: '2002-03-03T09:26:10'
+  crc: '0x90445591'
+- name: KONJJ.TXT
+  size: 125
+  date: '2002-03-03T09:26:24'
+  crc: '0x7fcbc9d2'
+- name: LEDO.TXT
+  size: 333
+  date: '2002-03-03T09:26:40'
+  crc: '0x38c87104'
+- name: LEDOJ.TXT
+  size: 33
+  date: '2002-03-03T09:26:48'
+  crc: '0xac62ba43'
+- name: LEV 1
+  size: 2230
+  date: '2005-07-01T17:55:16'
+  crc: '0x7a89fc63'
+- name: LEV 10
+  size: 2216
+  date: '2005-07-01T17:55:18'
+  crc: '0x7ece3681'
+- name: LEV 11
+  size: 2214
+  date: '2005-07-01T17:55:18'
+  crc: '0xbd987204'
+- name: LEV 12
+  size: 2208
+  date: '2005-07-01T17:55:18'
+  crc: '0x2a667deb'
+- name: LEV 13
+  size: 2222
+  date: '2005-07-01T17:55:18'
+  crc: '0xdc5b9d95'
+- name: LEV 14
+  size: 2214
+  date: '2005-07-01T17:55:18'
+  crc: '0x0482363f'
+- name: LEV 15
+  size: 2222
+  date: '2005-07-01T17:55:18'
+  crc: '0x51e893b0'
+- name: LEV 16
+  size: 2207
+  date: '2005-07-01T17:55:20'
+  crc: '0xb48d73a4'
+- name: LEV 17
+  size: 2220
+  date: '2005-07-01T17:55:20'
+  crc: '0x2ae816ca'
+- name: LEV 18
+  size: 2220
+  date: '2005-07-01T17:55:20'
+  crc: '0xe4b4425a'
+- name: LEV 19
+  size: 2224
+  date: '2005-07-01T17:55:20'
+  crc: '0x8e28b760'
+- name: LEV 2
+  size: 2211
+  date: '2005-07-01T17:55:16'
+  crc: '0x6bbdca76'
+- name: LEV 20
+  size: 2238
+  date: '2005-07-01T17:55:20'
+  crc: '0x8dfe57d7'
+- name: LEV 21
+  size: 2232
+  date: '2005-07-01T17:55:20'
+  crc: '0x248ef711'
+- name: LEV 22
+  size: 2233
+  date: '2005-07-01T17:55:20'
+  crc: '0x1c40ec58'
+- name: LEV 23
+  size: 2226
+  date: '2005-07-01T17:55:20'
+  crc: '0x3d200176'
+- name: LEV 24
+  size: 2211
+  date: '2005-07-01T17:55:20'
+  crc: '0xdcb55559'
+- name: LEV 25
+  size: 2220
+  date: '2005-07-01T17:55:20'
+  crc: '0xfc3e8943'
+- name: LEV 26
+  size: 2202
+  date: '2005-07-01T17:55:22'
+  crc: '0x4d6b24a2'
+- name: LEV 27
+  size: 2227
+  date: '2005-07-01T17:55:22'
+  crc: '0x779c7be8'
+- name: LEV 28
+  size: 2230
+  date: '2005-07-01T17:55:22'
+  crc: '0x3dd8bb6a'
+- name: LEV 29
+  size: 2222
+  date: '2005-07-01T17:55:22'
+  crc: '0x0613d16c'
+- name: LEV 3
+  size: 2225
+  date: '2005-07-01T17:55:16'
+  crc: '0x3644b8c1'
+- name: LEV 30
+  size: 2222
+  date: '2005-07-01T17:55:24'
+  crc: '0xcb3c7a36'
+- name: LEV 31
+  size: 2223
+  date: '2005-07-01T17:55:24'
+  crc: '0x21c13dc5'
+- name: LEV 32
+  size: 2216
+  date: '2005-07-01T17:55:32'
+  crc: '0x3dc735cb'
+- name: LEV 33
+  size: 2214
+  date: '2005-07-01T17:55:34'
+  crc: '0xc4494ae4'
+- name: LEV 34
+  size: 2229
+  date: '2005-07-01T17:55:34'
+  crc: '0xe1012660'
+- name: LEV 35
+  size: 2234
+  date: '2005-07-01T17:55:34'
+  crc: '0x9e74f8b7'
+- name: LEV 36
+  size: 2229
+  date: '2005-07-01T17:55:34'
+  crc: '0xc1b27154'
+- name: LEV 37
+  size: 2233
+  date: '2005-07-01T17:55:34'
+  crc: '0xd36e83a8'
+- name: LEV 38
+  size: 2213
+  date: '2005-07-01T17:55:34'
+  crc: '0x285e6586'
+- name: LEV 39
+  size: 2232
+  date: '2005-07-01T17:55:34'
+  crc: '0x56b322eb'
+- name: LEV 4
+  size: 2219
+  date: '2005-07-01T17:55:16'
+  crc: '0xce3b71b4'
+- name: LEV 40
+  size: 2232
+  date: '2005-07-01T17:55:34'
+  crc: '0xec53e980'
+- name: LEV 41
+  size: 2229
+  date: '2005-07-01T17:55:34'
+  crc: '0xbe755b37'
+- name: LEV 42
+  size: 2217
+  date: '2005-07-01T17:55:36'
+  crc: '0xb880329e'
+- name: LEV 43
+  size: 2236
+  date: '2005-07-01T17:55:38'
+  crc: '0x98dcfee1'
+- name: LEV 44
+  size: 2234
+  date: '2005-07-01T17:55:38'
+  crc: '0xc6d4d7f4'
+- name: LEV 45
+  size: 2225
+  date: '2005-07-01T17:55:38'
+  crc: '0xea5abac6'
+- name: LEV 46
+  size: 2217
+  date: '2005-07-01T17:55:38'
+  crc: '0x0e23331c'
+- name: LEV 47
+  size: 2231
+  date: '2005-07-01T17:55:38'
+  crc: '0xcd5cbfb0'
+- name: LEV 48
+  size: 2225
+  date: '2005-07-01T17:55:38'
+  crc: '0xbb3968c7'
+- name: LEV 49
+  size: 2212
+  date: '2005-07-01T17:55:38'
+  crc: '0xa758b90c'
+- name: LEV 5
+  size: 2220
+  date: '2005-07-01T17:55:16'
+  crc: '0x70663e7b'
+- name: LEV 50
+  size: 2219
+  date: '2005-07-01T17:55:40'
+  crc: '0x554507a5'
+- name: LEV 51
+  size: 2225
+  date: '2005-07-01T17:55:40'
+  crc: '0x968eb7d0'
+- name: LEV 52
+  size: 2215
+  date: '2005-07-01T17:55:40'
+  crc: '0x91e4a901'
+- name: LEV 53
+  size: 2224
+  date: '2005-07-01T17:55:40'
+  crc: '0x5bfb4932'
+- name: LEV 54
+  size: 2235
+  date: '2005-07-01T17:55:40'
+  crc: '0xe85b5caa'
+- name: LEV 55
+  size: 2235
+  date: '2005-07-01T17:55:40'
+  crc: '0xda808c15'
+- name: LEV 56
+  size: 2209
+  date: '2005-07-01T17:55:40'
+  crc: '0x75f70be1'
+- name: LEV 57
+  size: 2208
+  date: '2005-07-01T17:55:44'
+  crc: '0x30071d64'
+- name: LEV 58
+  size: 2231
+  date: '2005-07-01T17:55:44'
+  crc: '0x2672da4c'
+- name: LEV 59
+  size: 2222
+  date: '2005-07-01T17:55:44'
+  crc: '0xc2867c22'
+- name: LEV 6
+  size: 2226
+  date: '2005-07-01T17:55:16'
+  crc: '0xf5472fcc'
+- name: LEV 60
+  size: 2217
+  date: '2005-07-01T17:55:44'
+  crc: '0xc94dd81e'
+- name: LEV 61
+  size: 2216
+  date: '2005-07-01T17:55:44'
+  crc: '0x9e2ff664'
+- name: LEV 62
+  size: 2214
+  date: '2005-07-01T17:55:44'
+  crc: '0xf25dd8cf'
+- name: LEV 63
+  size: 2231
+  date: '2005-07-01T17:55:44'
+  crc: '0xdd901cd1'
+- name: LEV 64
+  size: 2226
+  date: '2005-07-01T17:55:44'
+  crc: '0xd951010b'
+- name: LEV 65
+  size: 2222
+  date: '2005-07-01T17:55:46'
+  crc: '0x7236aec0'
+- name: LEV 66
+  size: 2213
+  date: '2005-07-01T17:55:46'
+  crc: '0x9adecee0'
+- name: LEV 67
+  size: 2217
+  date: '2005-07-01T17:55:46'
+  crc: '0x6680250a'
+- name: LEV 68
+  size: 2229
+  date: '2005-07-01T17:55:46'
+  crc: '0x66c63c46'
+- name: LEV 69
+  size: 2227
+  date: '2005-07-01T17:55:46'
+  crc: '0xe81e78f3'
+- name: LEV 7
+  size: 2220
+  date: '2005-07-01T17:55:18'
+  crc: '0x1a07a514'
+- name: LEV 70
+  size: 2208
+  date: '2005-07-01T17:55:46'
+  crc: '0x5e4ba65d'
+- name: LEV 8
+  size: 2204
+  date: '2005-07-01T17:55:18'
+  crc: '0x7c4be8fa'
+- name: LEV 9
+  size: 2200
+  date: '2005-07-01T17:55:18'
+  crc: '0x2d04d4eb'
+- name: LUKE.TXT
+  size: 36
+  date: '2002-03-03T09:26:56'
+  crc: '0x1877407d'
+- name: LUKEJ.TXT
+  size: 156
+  date: '2002-03-03T09:27:06'
+  crc: '0x37b1ccb0'
+- name: MAINC
+  size: 86
+  date: '2002-03-03T09:05:32'
+  crc: '0xeb6e2303'
+- name: MAKEFILE
+  size: 292
+  date: '2002-03-02T15:12:58'
+  crc: '0xfe1659a5'
+- name: MAP.DAT
+  size: 255
+  date: '2002-03-02T15:13:02'
+  crc: '0x19bf9438'
+- name: MONSTEJ.TXT
+  size: 41
+  date: '2002-03-03T09:31:32'
+  crc: '0x04e1aff3'
+- name: MONSTER.TXT
+  size: 451
+  date: '2002-03-03T09:31:42'
+  crc: '0xfad56c23'
+- name: MONSTERS.TXT
+  size: 102357
+  date: '2005-07-01T18:53:56'
+  crc: '0x3fcfeee7'
+- name: MURL.TXT
+  size: 120
+  date: '2002-03-03T09:27:56'
+  crc: '0x36ab7207'
+- name: MURLJ.TXT
+  size: 127
+  date: '2002-03-03T09:28:06'
+  crc: '0xc38d27a1'
+- name: N
+  size: 993
+  date: '2002-03-02T15:13:02'
+  crc: '0x92cb67f5'
+- name: NE
+  size: 990
+  date: '2002-03-02T15:13:02'
+  crc: '0xe02ab81d'
+- name: NEW
+  size: 990
+  date: '2002-03-02T15:13:02'
+  crc: '0x9aa25392'
+- name: NPCS
+  size: 1832
+  date: '2002-03-02T15:13:02'
+  crc: '0x1df121a8'
+- name: NPCS.BK2
+  size: 1964
+  date: '2002-03-02T15:13:02'
+  crc: '0x840ddd9d'
+- name: NPCS.ORG
+  size: 1832
+  date: '2002-03-02T15:13:02'
+  crc: '0x1df121a8'
+- name: NS
+  size: 990
+  date: '2002-03-02T15:13:02'
+  crc: '0x92245632'
+- name: NSE
+  size: 990
+  date: '2002-03-02T15:13:02'
+  crc: '0x99aa7ea3'
+- name: NSEW
+  size: 990
+  date: '2002-03-02T15:13:02'
+  crc: '0xc6dc499b'
+- name: NSW
+  size: 990
+  date: '2002-03-02T15:13:02'
+  crc: '0xe8acbdbd'
+- name: NW
+  size: 990
+  date: '2002-03-02T15:13:02'
+  crc: '0x912c7b03'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: README.WIN
+  size: 14665
+  date: '2002-03-04T23:15:46'
+  crc: '0x01aaa5cc'
+- name: RUDY.TXT
+  size: 415
+  date: '2002-03-03T09:28:16'
+  crc: '0x2fadb1f6'
+- name: RUDYJ.TXT
+  size: 199
+  date: '2002-03-03T09:28:30'
+  crc: '0x33715236'
+- name: S
+  size: 990
+  date: '2002-03-02T15:13:02'
+  crc: '0x99c173a3'
+- name: SE
+  size: 990
+  date: '2002-03-02T15:13:02'
+  crc: '0xb7b18785'
+- name: SEW
+  size: 990
+  date: '2002-03-02T15:13:02'
+  crc: '0xcd396c0a'
+- name: SW
+  size: 990
+  date: '2002-03-02T15:13:02'
+  crc: '0xe349982c'
+- name: SYDO.TXT
+  size: 17
+  date: '2002-03-03T09:28:38'
+  crc: '0xfec6c5e5'
+- name: SYDOJ.TXT
+  size: 17
+  date: '2002-03-03T09:28:48'
+  crc: '0xfec6c5e5'
+- name: TAMO.TXT
+  size: 154
+  date: '2002-03-03T09:29:00'
+  crc: '0x95cc4f23'
+- name: TAMOJ.TXT
+  size: 238
+  date: '2002-03-03T09:29:12'
+  crc: '0xe85113e9'
+- name: TAVI.TXT
+  size: 182
+  date: '2002-03-03T09:29:20'
+  crc: '0xd11017e6'
+- name: TAVIJ.TXT
+  size: 238
+  date: '2002-03-03T09:29:28'
+  crc: '0xfec3b900'
+- name: THRA.TXT
+  size: 560
+  date: '2002-03-03T09:29:46'
+  crc: '0x182954bc'
+- name: THRAJ.TXT
+  size: 24
+  date: '2002-03-03T09:29:54'
+  crc: '0xa104e533'
+- name: TITLE.TXT
+  size: 1202
+  date: '2002-03-02T15:13:02'
+  crc: '0x8ac90da3'
+- name: TOWNMAP
+  size: 1130
+  date: '2002-03-03T09:38:12'
+  crc: '0xfbfaffa5'
+- name: VIKT.TXT
+  size: 526
+  date: '2002-03-03T09:30:02'
+  crc: '0x4cf5b699'
+- name: VIKTJ.TXT
+  size: 153
+  date: '2002-03-03T09:30:14'
+  crc: '0x1acc1de6'
+- name: W
+  size: 990
+  date: '2002-03-02T15:13:02'
+  crc: '0x9ac95e92'
+- name: WILD.TXT
+  size: 212
+  date: '2002-03-03T09:32:30'
+  crc: '0xac646c55'
+- name: WIN.TXT
+  size: 1330
+  date: '2002-03-03T09:32:46'
+  crc: '0x4e516a88'

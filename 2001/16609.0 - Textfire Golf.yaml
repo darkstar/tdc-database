@@ -1,0 +1,27 @@
+filename: Textfire Golf (2001)(Adam Cadre) [Sports].zip
+tdc_id: '16609.0'
+title:
+  screen: Textfire Golf
+publisher: Adam Cadre
+year: '2001'
+genre: Sports
+language: English
+date:
+  added: '2019-03-02T10:55:48'
+  last_modified: '2019-03-02T10:55:48'
+type: zip
+commands:
+  play: golf.exe
+files:
+- name: CWSDPMI.DOC
+  size: 7073
+  date: '2016-10-15T08:53:30'
+  crc: '0xdfc52298'
+- name: CWSDPMI.EXE
+  size: 25916
+  date: '2016-10-15T08:53:30'
+  crc: '0x8760f94d'
+- name: golf.exe
+  size: 320587
+  date: '1980-01-01T00:00:00'
+  crc: '0xf8ce2881'

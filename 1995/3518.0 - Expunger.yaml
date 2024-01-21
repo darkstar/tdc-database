@@ -1,0 +1,31 @@
+filename: Expunger (1995)(David Friedman) [Action].zip
+tdc_id: '3518.0'
+title:
+  screen: Expunger
+publisher: David Friedman
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T08:43:44'
+  last_modified: '2019-03-02T08:43:44'
+type: zip
+commands:
+  play: EXPUNGE.EXE
+files:
+- name: EXPUNGE.EXE
+  size: 30048
+  date: '1995-12-29T17:07:30'
+  crc: '0xf687adf9'
+- name: EXPUNGE.RES
+  size: 236403
+  date: '1995-12-27T13:46:50'
+  crc: '0xb8cc08a5'
+- name: README.TXT
+  size: 3834
+  date: '1995-12-29T17:22:44'
+  crc: '0x2263e1a8'
+- name: WIN.DEM
+  size: 9288
+  date: '1995-12-29T13:49:06'
+  crc: '0xc1f23e7b'

@@ -1,0 +1,27 @@
+filename: Yahtzee! (2003)(Benjamin Wolf) [Strategy].zip
+tdc_id: '15805.0'
+title:
+  screen: Yahtzee!
+publisher: Benjamin Wolf
+year: '2003'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:56:48'
+  last_modified: '2019-03-02T10:56:48'
+type: zip
+commands:
+  play: GO.BAT
+files:
+- name: BWYAHTZE.BAS
+  size: 12572
+  date: '2012-04-25T21:22:54'
+  crc: '0x2712784a'
+- name: GO.BAT
+  size: 24
+  date: '2018-02-10T11:32:56'
+  crc: '0xd579d304'
+- name: QB.EXE
+  size: 278804
+  date: '2016-03-12T18:19:58'
+  crc: '0xb08bc0fe'

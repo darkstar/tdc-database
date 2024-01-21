@@ -1,0 +1,33 @@
+filename: Ironseed v1.10 (Installer) (1994)(Channel 7 Software) [Strategy].zip
+tdc_id: '11558.1'
+title:
+  screen: Ironseed
+  qualifier: Installer
+publisher: Channel 7 Software
+year: '1994'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T22:00:56'
+  last_modified: '2023-07-05T12:49:18'
+version: '1.10'
+type: zip
+media: Download
+installer: true
+commands:
+  play: IS.EXE
+references:
+  mobygames: https://www.mobygames.com/game/11777/ironseed/
+files:
+- name: IS.002
+  size: 1457664
+  date: '1994-11-18T10:22:00'
+  crc: '0xdd01d5bd'
+- name: IS.003
+  size: 1453737
+  date: '1994-11-18T10:22:22'
+  crc: '0xfe6e6b4a'
+- name: IS.EXE
+  size: 1457664
+  date: '1994-11-18T10:21:36'
+  crc: '0x1884a627'

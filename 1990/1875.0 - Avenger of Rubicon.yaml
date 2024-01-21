@@ -1,0 +1,32 @@
+filename: Avenger of Rubicon v2.1 [SW] (1990)(Conrad button) [Adventure, Interactive Fiction].zip
+tdc_id: '1875.0'
+title:
+  screen: Avenger of Rubicon
+publisher: Conrad button
+year: '1990'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:31:48'
+  last_modified: '2019-03-01T18:31:48'
+version: '2.1'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: RUBICON.EXE
+references:
+  dosid: DOS06309
+  exodos: Avenger of Rubicon (1990).zip
+files:
+- name: RUB.DAT
+  size: 10401
+  date: '1992-05-30T14:19:16'
+  crc: '0xc8cd1cf4'
+- name: RUBICON.EXE
+  size: 85855
+  date: '1996-01-14T14:41:58'
+  crc: '0xbf7b7a6e'

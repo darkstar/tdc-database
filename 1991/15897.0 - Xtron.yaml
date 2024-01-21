@@ -1,0 +1,44 @@
+filename: Xtron (1991)(Keypunch Software, Inc.) [Action][!].zip
+tdc_id: '15897.0'
+title:
+  box: Xtron
+publisher: Keypunch Software, Inc.
+year: '1991'
+genre: Action
+language: English
+date:
+  added: '2020-07-28T09:03:12'
+  last_modified: '2020-07-28T09:03:12'
+type: zip
+tags:
+- KnownGood
+commands:
+  play: XTRON.EXE
+references:
+  dosid: DOS15837
+  exodos: Xtron (1991).zip
+files:
+- name: 40COL.FNT
+  size: 2050
+  date: '1991-08-22T01:13:10'
+  crc: '0x3c396a04'
+- name: INFO.CPK
+  size: 4740
+  date: '1991-12-11T17:33:10'
+  crc: '0xd91f45ad'
+- name: KEYPUNCH.CPK
+  size: 2444
+  date: '1991-12-09T16:48:14'
+  crc: '0xb4029824'
+- name: MAIN.CPK
+  size: 4093
+  date: '1991-12-09T21:41:06'
+  crc: '0xf238e1eb'
+- name: SHAPES.CSH
+  size: 2217
+  date: '1991-11-25T13:38:34'
+  crc: '0x9030dddb'
+- name: XTRON.EXE
+  size: 54804
+  date: '1991-12-11T22:04:40'
+  crc: '0xc8aa8c98'

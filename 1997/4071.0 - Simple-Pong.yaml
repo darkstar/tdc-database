@@ -1,0 +1,28 @@
+filename: Simple-Pong (1997)(Paul Lowe) [Action].zip
+tdc_id: '4071.0'
+title:
+  screen: Simple-Pong
+publisher: Paul Lowe
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:37:50'
+  last_modified: '2019-03-02T10:37:50'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 25
+  date: '2018-11-19T21:41:42'
+  crc: '0x361b3d92'
+- name: PONG2.BAS
+  size: 17428
+  date: '1997-08-13T21:58:42'
+  crc: '0x7b678db7'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'

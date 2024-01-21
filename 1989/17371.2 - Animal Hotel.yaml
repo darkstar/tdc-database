@@ -1,0 +1,84 @@
+filename: Animal Hotel v1.4 (1989)(Learning Technologies, Inc.) [Educational].zip
+tdc_id: '17371.2'
+parent_id: '17371.1'
+title:
+  box: Animal Hotel
+publisher: Learning Technologies, Inc.
+year: '1989'
+genre: Educational
+language: English
+date:
+  added: '2023-11-10T12:14:38'
+  last_modified: '2023-11-10T12:14:38'
+version: '1.4'
+type: zip
+media: 360K
+commands:
+  play: LTI.BAT
+references:
+  mobygames: https://www.mobygames.com/game/143317/animal-hotel/
+files:
+- name: DIR.SCR
+  size: 16016
+  date: '1987-04-28T16:12:22'
+  crc: '0x262d19cf'
+- name: DIRECS.SCR
+  size: 16016
+  date: '1986-12-02T13:48:58'
+  crc: '0x76ed0e96'
+- name: END.SCR
+  size: 16016
+  date: '1986-12-02T13:45:22'
+  crc: '0x37641c4f'
+- name: LEVEL.SCR
+  size: 16016
+  date: '1987-04-28T16:12:16'
+  crc: '0x2d36d674'
+- name: LOGO.SCR
+  size: 16016
+  date: '1988-10-31T09:59:46'
+  crc: '0xca123f62'
+- name: LTI.BAT
+  size: 24
+  date: '1987-11-16T11:23:52'
+  crc: '0xcb4ca783'
+- name: LTI_PGM.EXE
+  size: 28351
+  date: '1989-01-16T14:56:36'
+  crc: '0x11c846f8'
+- name: OPTION.SCR
+  size: 16016
+  date: '1987-04-28T16:12:34'
+  crc: '0x2f643258'
+- name: SCORE.SCR
+  size: 16016
+  date: '1987-04-28T16:12:12'
+  crc: '0xe1cf11ac'
+- name: SIMCGA.COM
+  size: 618
+  date: '1987-04-15T14:31:48'
+  crc: '0xc0f301b9'
+- name: SIMTEST.EXE
+  size: 6902
+  date: '1987-11-16T10:58:58'
+  crc: '0xd1f96411'
+- name: SOUND.SCR
+  size: 16016
+  date: '1987-04-28T16:12:18'
+  crc: '0x012646eb'
+- name: SPRITES1.DPI
+  size: 4606
+  date: '1987-04-28T16:12:04'
+  crc: '0xe9551287'
+- name: SPRITES2.DPI
+  size: 18336
+  date: '1987-04-28T16:12:08'
+  crc: '0xf08e7355'
+- name: SPRITES3.DPI
+  size: 1720
+  date: '1987-04-28T16:12:02'
+  crc: '0x51fbc8ad'
+- name: TITLE.SCR
+  size: 16016
+  date: '1989-01-16T10:33:22'
+  crc: '0xb34869c4'

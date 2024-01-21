@@ -1,0 +1,30 @@
+filename: Mat's ASCII BlackJack (1997)(Mathew Brenaman) [Strategy, Cards].zip
+tdc_id: '3989.0'
+title:
+  screen: Mat's ASCII BlackJack
+publisher: Mathew Brenaman
+year: '1997'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-02T10:35:36'
+  last_modified: '2019-03-02T10:35:36'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: BLACKJ.BAS
+  size: 25707
+  date: '2018-12-05T12:44:40'
+  crc: '0x2d35f365'
+- name: GO.BAT
+  size: 26
+  date: '2018-12-05T15:11:04'
+  crc: '0x4233568c'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

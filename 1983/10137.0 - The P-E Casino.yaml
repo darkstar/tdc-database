@@ -1,0 +1,32 @@
+filename: P-E Casino, The [SW] (1983)(Dynacomp Inc.) [Strategy, Cards].zip
+tdc_id: '10137.0'
+title:
+  screen: The P-E Casino
+publisher: Dynacomp Inc.
+year: '1983'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-09-02T05:04:08'
+  last_modified: '2019-09-02T05:04:08'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: CASINO.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T12:00:00'
+  crc: '0x92293842'
+- name: CASINO.BAS
+  size: 9088
+  date: '1983-03-05T13:00:00'
+  crc: '0x49650574'
+- name: CASINO.BAT
+  size: 16
+  date: '1980-01-01T12:00:00'
+  crc: '0x39b1c76c'

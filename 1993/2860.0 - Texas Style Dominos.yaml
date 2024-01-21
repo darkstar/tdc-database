@@ -1,0 +1,31 @@
+filename: Texas Style Dominos v1.2 [SW] (1993)(IPS Ltd.) [Strategy].zip
+tdc_id: '2860.0'
+title:
+  screen: Texas Style Dominos
+publisher: IPS Ltd.
+year: '1993'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T21:09:56'
+  last_modified: '2019-03-01T21:09:56'
+version: '1.2'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: DOMINO.EXE
+files:
+- name: DOMIMAGE.BMP
+  size: 48496
+  date: '1992-12-17T20:47:46'
+  crc: '0xcf2f3875'
+- name: DOMINO.EXE
+  size: 162808
+  date: '1993-09-10T14:58:06'
+  crc: '0xec354982'
+- name: TITLESCR.BMP
+  size: 58298
+  date: '1993-02-07T14:01:22'
+  crc: '0x8aa85bd6'

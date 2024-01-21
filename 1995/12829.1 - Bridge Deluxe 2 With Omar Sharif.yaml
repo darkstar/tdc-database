@@ -1,0 +1,47 @@
+filename: Bridge Deluxe 2 With Omar Sharif v2.0 (Installer) (1995)(Interplay Productions, Inc., Oxford Softworks) [Strategy, Cards].zip
+tdc_id: '12829.1'
+title:
+  box: Bridge Deluxe 2 With Omar Sharif
+publisher: Interplay Productions, Inc., Oxford Softworks
+year: '1995'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-02T07:30:42'
+  last_modified: '2019-03-02T07:30:42'
+version: '2.0'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: ARJ.EXE
+  size: 115808
+  date: '1993-07-10T20:03:00'
+  crc: '0xe0f7d93e'
+- name: BRIDGE.001
+  size: 1305480
+  date: '1995-02-20T12:23:58'
+  crc: '0x8695d673'
+- name: BRIDGE.002
+  size: 1457053
+  date: '1995-02-20T12:29:12'
+  crc: '0x9149c320'
+- name: BRIDGE.003
+  size: 657071
+  date: '1995-02-20T12:31:36'
+  crc: '0x42052633'
+- name: INSTALL.EXE
+  size: 32272
+  date: '1995-02-10T19:42:58'
+  crc: '0x82fc35e1'
+- name: README.BAT
+  size: 26
+  date: '1995-01-05T14:58:26'
+  crc: '0x44b648dd'
+- name: README.DOC
+  size: 1559
+  date: '1995-01-27T18:38:14'
+  crc: '0x21128075'

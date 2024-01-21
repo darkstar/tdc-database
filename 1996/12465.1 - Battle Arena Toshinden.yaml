@@ -1,0 +1,81 @@
+filename: Battle Arena Toshinden (demo) v.88 (1996)(Playmates Interactive Entertainment, Inc.) [Action].zip
+tdc_id: '12465.1'
+title:
+  screen: Battle Arena Toshinden
+  qualifier: demo
+publisher: Playmates Interactive Entertainment, Inc.
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2022-12-16T19:59:32'
+  last_modified: '2022-12-16T19:59:32'
+version: '.88'
+type: zip
+demo: true
+commands:
+  play: TSD.EXE
+  setup: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/battle-arena-toshinden
+files:
+- name: DATA.TSD
+  size: 3574792
+  date: '1996-01-18T23:42:54'
+  crc: '0x442fe196'
+- name: DOS4GW.EXE
+  size: 265420
+  date: '1994-09-01T10:00:00'
+  crc: '0xcb214447'
+- name: DRUM.BNK
+  size: 5404
+  date: '1995-09-27T14:09:54'
+  crc: '0xc9e2e6bf'
+- name: HMIDET.386
+  size: 83774
+  date: '1995-09-27T14:09:54'
+  crc: '0xae8d1a06'
+- name: HMIDRV.386
+  size: 317317
+  date: '1995-09-27T14:09:54'
+  crc: '0x21c398b8'
+- name: HMIMDRV.386
+  size: 117852
+  date: '1995-09-27T14:09:54'
+  crc: '0x833fbc45'
+- name: HMISET.CFG
+  size: 247
+  date: '1996-01-24T19:21:24'
+  crc: '0x2e07e69b'
+- name: MELODIC.BNK
+  size: 5404
+  date: '1995-09-27T14:09:54'
+  crc: '0xfe9aae07'
+- name: README.TXT
+  size: 2536
+  date: '1996-01-24T19:17:16'
+  crc: '0xb5017f1d'
+- name: SETUP.EXE
+  size: 165831
+  date: '1995-09-27T14:09:54'
+  crc: '0x43a2b339'
+- name: SETUP.INI
+  size: 3505
+  date: '1995-10-02T02:46:56'
+  crc: '0x462c3d2a'
+- name: TEST.HMI
+  size: 13125
+  date: '1995-09-27T14:09:54'
+  crc: '0x7fc4ae55'
+- name: TEST.HMP
+  size: 19069
+  date: '1995-03-13T11:45:38'
+  crc: '0x5355c0db'
+- name: TEST.WAV
+  size: 27242
+  date: '1995-12-27T18:13:04'
+  crc: '0x4643bd74'
+- name: TSD.EXE
+  size: 1202143
+  date: '1996-01-25T12:14:40'
+  crc: '0xc8e9446c'

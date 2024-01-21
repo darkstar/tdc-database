@@ -1,0 +1,75 @@
+filename: Patton Strikes Back- The Battle of the Bulge v1.2 (Installer) (Es) [a1] (1991)(Brøderbund Software, Inc.) [Educational, Strategy].zip
+tdc_id: '10095.3'
+title:
+  box: 'Patton Strikes Back: The Battle of the Bulge'
+publisher: Brøderbund Software, Inc.
+year: '1991'
+genre:
+- Educational
+- Strategy
+language: Spanish
+date:
+  added: '2020-04-09T11:18:08'
+  last_modified: '2022-11-23T10:02:09'
+version: '1.2'
+type: zip
+tags:
+- Alternate: 1
+installer: true
+commands:
+  play: INSTALA.BAT
+references:
+  mobygames: https://www.mobygames.com/game/dos/patton-strikes-back-the-battle-of-the-bulge
+files:
+- name: ADLIB.CFG
+  size: 3
+  date: '1992-05-28T08:39:38'
+  crc: '0x8dd57fbf'
+- name: ASK.COM
+  size: 8386
+  date: '1992-05-28T09:26:26'
+  crc: '0x5196799b'
+- name: IBM.CFG
+  size: 3
+  date: '1992-05-28T08:39:52'
+  crc: '0x8f93c1e6'
+- name: INSTAL2.BAT
+  size: 565
+  date: '1992-06-03T12:47:36'
+  crc: '0x7ad593ae'
+- name: INSTALA.BAT
+  size: 1547
+  date: '1992-06-03T12:48:28'
+  crc: '0x631f471f'
+- name: LHA.EXE
+  size: 33999
+  date: '1991-03-02T21:11:00'
+  crc: '0xcd37ca26'
+- name: PSB1.LZH
+  size: 223269
+  date: '1992-06-04T07:57:00'
+  crc: '0xe5f9d57d'
+- name: PSB2.LZH
+  size: 269662
+  date: '1992-06-03T08:38:42'
+  crc: '0xbbdf68c1'
+- name: PSB3.LZH
+  size: 584569
+  date: '1992-06-03T08:50:04'
+  crc: '0x402eaa4f'
+- name: PSB4.LZH
+  size: 723622
+  date: '1994-02-01T07:00:00'
+  crc: '0x47c353f3'
+- name: PSBSND1.LZH
+  size: 184951
+  date: '1992-06-03T12:08:30'
+  crc: '0xf097a2d1'
+- name: PSBSND2.LZH
+  size: 202214
+  date: '1994-02-01T07:00:00'
+  crc: '0x5c7e570e'
+- name: SB.CFG
+  size: 11
+  date: '1992-05-28T08:26:38'
+  crc: '0x574744af'

@@ -1,0 +1,50 @@
+filename: Fluf! (Tandy 1000) [f1] (1989)(RufusPro Software, Brooks deForest) [Action].zip
+tdc_id: '13681.0'
+title:
+  screen: Fluf!
+  qualifier: Tandy 1000
+publisher: RufusPro Software, Brooks deForest
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:27:46'
+  last_modified: '2019-03-01T18:27:46'
+type: zip
+tags:
+- Fixed: 1
+media: Download
+commands:
+  play: BASIC.EXE
+references:
+  dosid: DOS07557
+  exodos: Fluf! (1989).zip
+files:
+- name: BASIC.EXE
+  size: 68672
+  date: '2016-03-23T20:48:02'
+  crc: '0x0999e916'
+- name: BASICA.COM
+  size: 942
+  date: '2016-03-23T20:48:10'
+  crc: '0x5978f665'
+- name: back.spr
+  size: 16392
+  date: '2016-03-23T21:32:34'
+  crc: '0x91a0eaab'
+- name: fluf.ba_
+  size: 16486
+  date: '2006-03-15T14:46:02'
+  crc: '0x90046025'
+- name: fluf.bas
+  size: 16486
+  date: '2016-03-23T21:32:30'
+  crc: '0xc50466cd'
+- name: fluf.loc
+  size: 279
+  date: '2016-03-23T21:32:34'
+  crc: '0x66786693'
+- name: fluf.spr
+  size: 16392
+  date: '2016-03-23T21:32:32'
+  crc: '0x3a46f197'

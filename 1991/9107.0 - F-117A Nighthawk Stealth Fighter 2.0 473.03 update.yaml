@@ -1,0 +1,28 @@
+filename: F-117A Nighthawk Stealth Fighter 2.0 473.03 update (1991)(MicroProse Software, Inc.) [Action, Simulation, Addon].zip
+tdc_id: '9107.0'
+parent_id: '9107.7'
+title:
+  screen: F-117A Nighthawk Stealth Fighter 2.0 473.03 update
+publisher: MicroProse Software, Inc.
+year: '1991'
+genre:
+- Action
+- Simulation
+- Addon
+language: English
+date:
+  added: '2020-11-03T15:00:20'
+  last_modified: '2020-11-03T15:00:20'
+type: zip
+patch: true
+commands:
+  play: UPDATE.EXE
+files:
+- name: UPDATE.CMP
+  size: 309903
+  date: '1991-10-25T14:59:12'
+  crc: '0xd65a2952'
+- name: UPDATE.EXE
+  size: 11189
+  date: '1991-10-25T15:25:00'
+  crc: '0x7961e089'

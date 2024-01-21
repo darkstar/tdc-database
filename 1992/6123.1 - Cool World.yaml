@@ -1,0 +1,30 @@
+filename: Cool World (demo) (1992)(Ocean Software Ltd.) [Action].zip
+tdc_id: '6123.1'
+parent_id: '6123.2'
+title:
+  screen: Cool World
+  qualifier: demo
+publisher: Ocean Software Ltd.
+year: '1992'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:41:58'
+  last_modified: '2019-03-01T18:41:58'
+type: zip
+demo: true
+commands:
+  play: COOL.EXE
+files:
+- name: COOL.EXE
+  size: 97402
+  date: '1992-10-02T17:55:38'
+  crc: '0xb8d9f3e8'
+- name: COOL1
+  size: 578688
+  date: '1992-10-01T15:03:44'
+  crc: '0x3d68bc66'
+- name: COOLED1
+  size: 800
+  date: '1992-10-01T15:03:44'
+  crc: '0x576388ce'

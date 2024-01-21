@@ -1,0 +1,33 @@
+filename: Tommy's Gorilla Balls [SW] (1989)(Tommy's Toys) [Action].zip
+tdc_id: '5374.0'
+title:
+  screen: Tommy's Gorilla Balls
+publisher: Tommy's Toys
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:25:00'
+  last_modified: '2019-03-01T18:25:00'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: GBALLS.EXE
+references:
+  dosid: DOS05182
+  exodos: Tommy's Gorilla Balls (1986).zip
+files:
+- name: GBALLS.DOC
+  size: 2242
+  date: '1989-01-15T07:06:00'
+  crc: '0xf87265dd'
+- name: GBALLS.EXE
+  size: 77502
+  date: '1989-01-15T07:06:12'
+  crc: '0x0508372c'
+- name: TOMMYS.DOC
+  size: 6603
+  date: '1989-10-10T07:06:00'
+  crc: '0x526e8de9'

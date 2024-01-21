@@ -1,0 +1,31 @@
+filename: Stupid Kats (1999)(Dim4) [Action].zip
+tdc_id: '4464.0'
+title:
+  screen: Stupid Kats
+publisher: Dim4
+year: '1999'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:46:30'
+  last_modified: '2019-03-02T10:46:30'
+type: zip
+commands:
+  play: SHOOT.EXE
+files:
+- name: BOF.PCX
+  size: 18024
+  date: '1999-08-29T07:16:00'
+  crc: '0x751edf5f'
+- name: BT-SCORE.MOD
+  size: 3600
+  date: '1999-08-29T07:16:00'
+  crc: '0xa2b67335'
+- name: CWSDPMI.EXE
+  size: 20473
+  date: '1997-10-19T21:48:14'
+  crc: '0x80fa6999'
+- name: SHOOT.EXE
+  size: 78712
+  date: '1999-08-29T07:16:00'
+  crc: '0x344106c9'

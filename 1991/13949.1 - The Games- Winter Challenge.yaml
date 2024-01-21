@@ -1,0 +1,58 @@
+filename: Games, The- Winter Challenge (Installer) (1991)(Accolade, Inc.) [Action, Sports][!].zip
+tdc_id: '13949.1'
+parent_id: '13949.3'
+title:
+  box: 'The Games: Winter Challenge'
+publisher: Accolade, Inc.
+year: '1991'
+genre:
+- Action
+- Sports
+language: English
+date:
+  added: '2021-10-28T15:11:56'
+  last_modified: '2021-10-28T15:11:56'
+type: zip
+tags:
+- KnownGood
+installer: true
+references:
+  dosid: DOS02362
+  exodos: Games, The - Winter Challenge (1991).zip
+files:
+- name: DEFAULT.WGL
+  size: 2736
+  date: '1991-10-03T00:00:00'
+  crc: '0x08b041e6'
+- name: INSTALL.COM
+  size: 184
+  date: '1991-10-03T00:00:00'
+  crc: '0x5077d3e3'
+- name: MUSIC.DRV
+  size: 5845
+  date: '1991-10-03T00:00:00'
+  crc: '0xd3084383'
+- name: SAMPLE.DRV
+  size: 3648
+  date: '1991-10-03T00:00:00'
+  crc: '0xa661a676'
+- name: WGDEF.BIN
+  size: 94
+  date: '1991-10-03T00:00:00'
+  crc: '0xf3d38689'
+- name: WINTER.EXE
+  size: 684032
+  date: '1991-10-03T00:00:00'
+  crc: '0xd3beff6d'
+- name: WINTER.ICO
+  size: 766
+  date: '1991-10-03T00:00:00'
+  crc: '0xfab4c26c'
+- name: WINTER.PIF
+  size: 545
+  date: '1991-10-03T00:00:00'
+  crc: '0xfe417672'
+- name: WINTER2.BIN
+  size: 507904
+  date: '1991-10-03T00:00:00'
+  crc: '0x61542a3a'

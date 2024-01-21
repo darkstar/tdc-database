@@ -1,0 +1,30 @@
+filename: Tower of Hanoi (1998)(Alex Knight-Percival) [Strategy, Puzzle].zip
+tdc_id: '16830.0'
+title:
+  screen: Tower of Hanoi
+publisher: Alex Knight-Percival
+year: '1998'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-03-02T10:44:42'
+  last_modified: '2019-03-02T10:44:42'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 25
+  date: '2018-11-21T20:22:34'
+  crc: '0x56d89c7a'
+- name: HANOI.BAS
+  size: 13209
+  date: '2018-11-21T19:26:00'
+  crc: '0xbc96ed17'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

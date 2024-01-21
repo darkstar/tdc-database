@@ -1,0 +1,32 @@
+filename: 15 Puzzle, The (1983)(Dale Dewey) [Strategy, Puzzle].zip
+tdc_id: '1042.0'
+title:
+  screen: The 15 Puzzle
+publisher: Dale Dewey
+year: '1983'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-03-01T18:23:06'
+  last_modified: '2019-03-01T18:23:06'
+type: zip
+commands:
+  play: 15PUZZLE.BAT
+references:
+  dosid: DOS07259
+  exodos: 15 Puzzle, The (1982).zip
+files:
+- name: 15PUZZLE.BAS
+  size: 3200
+  date: '1983-10-09T12:00:00'
+  crc: '0xe855758d'
+- name: 15PUZZLE.BAT
+  size: 18
+  date: '1980-01-01T00:00:00'
+  crc: '0x64ad1b89'
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'

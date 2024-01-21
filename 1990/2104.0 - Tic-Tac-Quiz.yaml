@@ -1,0 +1,32 @@
+filename: Tic-Tac-Quiz [SW] (1990)(Pro-Tech Software) [Strategy, Trivia].zip
+tdc_id: '2104.0'
+title:
+  screen: Tic-Tac-Quiz
+publisher: Pro-Tech Software
+year: '1990'
+genre:
+- Strategy
+- Trivia
+language: English
+date:
+  added: '2019-03-01T18:34:16'
+  last_modified: '2019-03-01T18:34:16'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: TTQ.EXE
+files:
+- name: TICTAC.QSL
+  size: 13398
+  date: '1990-09-28T22:54:58'
+  crc: '0xc5509118'
+- name: TTQ.DOC
+  size: 4096
+  date: '1990-10-01T15:07:04'
+  crc: '0x9e69dd0b'
+- name: TTQ.EXE
+  size: 72673
+  date: '1990-09-28T23:21:26'
+  crc: '0xe20b6379'

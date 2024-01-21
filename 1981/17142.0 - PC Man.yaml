@@ -1,0 +1,30 @@
+filename: PC Man [FW] (1981)(Ed Davis) [Action].zip
+tdc_id: '17142.0'
+title:
+  screen: PC Man
+publisher: Ed Davis
+year: '1981'
+genre: Action
+language: English
+date:
+  added: '2023-03-01T13:33:05'
+  last_modified: '2023-03-01T13:33:05'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: PCMan.bat
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T13:00:00'
+  crc: '0x92293842'
+- name: PCMan.bat
+  size: 27
+  date: '2023-01-30T09:32:50'
+  crc: '0x84157784'
+- name: pcman.bas
+  size: 9154
+  date: '2002-01-18T09:19:24'
+  crc: '0xd88ed4a2'

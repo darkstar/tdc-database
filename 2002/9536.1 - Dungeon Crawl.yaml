@@ -1,0 +1,51 @@
+filename: Dungeon Crawl v4.00b26 (2002)(Linley Henzell) [Role-Playing (RPG)].zip
+tdc_id: '9536.1'
+title:
+  screen: Dungeon Crawl
+publisher: Linley Henzell
+year: '2002'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-02T10:55:58'
+  last_modified: '2019-03-02T10:55:58'
+version: 4.00b26
+type: zip
+commands:
+  play: crawl.exe
+references:
+  dosid: DOS03193
+  exodos: Linley Henzell's Dungeon Crawl (1997).zip
+files:
+- name: crawl.exe
+  size: 551804
+  date: '2003-03-26T13:59:46'
+  crc: '0x7fee351c'
+- name: crawl.txt
+  size: 60998
+  date: '2001-12-26T13:52:44'
+  crc: '0x8d7900b6'
+- name: cwsdpmi.exe
+  size: 20125
+  date: '2002-07-22T03:43:38'
+  crc: '0x1d1b569c'
+- name: init.txt
+  size: 10366
+  date: '2003-03-20T01:13:46'
+  crc: '0x8d4b824c'
+- name: licence.txt
+  size: 5871
+  date: '2001-09-12T14:46:36'
+  crc: '0xd4ac0636'
+- name: macro.txt
+  size: 477
+  date: '2001-09-12T14:46:36'
+  crc: '0x314fe98f'
+- name: packaged.txt
+  size: 454
+  date: '2003-03-25T20:53:46'
+  crc: '0xb483e41c'
+- name: readme.txt
+  size: 7323
+  date: '2001-09-12T14:46:36'
+  crc: '0x4f07ea06'

@@ -1,0 +1,65 @@
+filename: Club 500 Bid v2.10 [SW] (1992)(John Buckwalker & Clubware) [Strategy, Cards].zip
+tdc_id: '2199.0'
+title:
+  screen: Club 500 Bid
+publisher: John Buckwalker & Clubware
+year: '1992'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:41:50'
+  last_modified: '2019-03-01T18:41:50'
+version: '2.10'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: 500demo.exe
+files:
+- name: 500demo.exe
+  size: 113260
+  date: '1992-12-06T02:49:42'
+  crc: '0xe38ddf0e'
+- name: 500demo.txt
+  size: 5364
+  date: '1992-12-06T03:20:04'
+  crc: '0xfc625a10'
+- name: 500rules.txt
+  size: 8646
+  date: '1992-12-05T03:54:12'
+  crc: '0x0047101f'
+- name: bold.chr
+  size: 14670
+  date: '1992-02-18T03:00:00'
+  crc: '0x3450b2a7'
+- name: cards.bgi
+  size: 125820
+  date: '1992-12-03T15:13:22'
+  crc: '0x9ff3e725'
+- name: egavga.bgi
+  size: 5554
+  date: '1992-02-18T03:00:00'
+  crc: '0x9b14ff3b'
+- name: register.doc
+  size: 1125
+  date: '1992-12-06T00:28:06'
+  crc: '0xe4e641cd'
+- name: rules.dat
+  size: 5704
+  date: '1992-08-30T15:31:52'
+  crc: '0x12388b90'
+- name: sans.chr
+  size: 5438
+  date: '1990-05-04T01:00:00'
+  crc: '0x06f847c6'
+- name: trip.chr
+  size: 16677
+  date: '1992-02-18T03:00:00'
+  crc: '0xba867503'
+- name: tscr.chr
+  size: 17355
+  date: '1992-02-18T03:00:00'
+  crc: '0xdb61ebf0'

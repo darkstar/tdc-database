@@ -1,0 +1,27 @@
+filename: Black Box (Pinball Construction Set) (1987)(Russco) [Action].zip
+tdc_id: '8548.0'
+title:
+  screen: Black Box
+  qualifier: Pinball Construction Set
+publisher: Russco
+year: '1987'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:25:10'
+  last_modified: '2019-03-01T18:25:10'
+type: zip
+requirements:
+  cpu:
+    min: '8088'
+media: Download
+commands:
+  play: BLACKBOX.EXE
+references:
+  dosid: DOS00410
+  exodos: Black Box (1987).zip
+files:
+- name: BLACKBOX.EXE
+  size: 26235
+  date: '1980-01-01T00:02:00'
+  crc: '0xe7402efd'

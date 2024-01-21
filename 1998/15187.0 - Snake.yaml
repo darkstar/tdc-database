@@ -1,0 +1,28 @@
+filename: Snake (1998)(Anders Olofsson) [Action].zip
+tdc_id: '15187.0'
+title:
+  screen: Snake
+publisher: Anders Olofsson
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:44:34'
+  last_modified: '2019-03-02T10:44:34'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 25
+  date: '2018-11-26T18:45:48'
+  crc: '0x09448d84'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: SNAKE.BAS
+  size: 13148
+  date: '2018-03-10T11:54:42'
+  crc: '0x3d3ec310'

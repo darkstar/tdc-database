@@ -1,0 +1,30 @@
+filename: Haunted Mansion (1993)(Lightning Productions) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '2672.0'
+title:
+  screen: Haunted Mansion
+publisher: Lightning Productions
+year: '1993'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T19:09:34'
+  last_modified: '2019-03-01T19:09:34'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 25
+  date: '2019-02-03T20:41:42'
+  crc: '0x602dd4d8'
+- name: HAUNT.BAS
+  size: 100295
+  date: '2001-01-30T01:01:48'
+  crc: '0x0b3ede8c'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

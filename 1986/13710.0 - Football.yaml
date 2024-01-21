@@ -1,0 +1,38 @@
+filename: Football (1986)(subLOGIC) [Action, Sports, Strategy].zip
+tdc_id: '13710.0'
+parent_id: '13710.1'
+title:
+  box: Football
+publisher: subLOGIC
+year: '1986'
+genre:
+- Action
+- Sports
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:24:46'
+  last_modified: '2019-03-01T18:24:46'
+type: zip
+commands:
+  play: FOOTBALL.EXE
+references:
+  dosid: DOS02263
+  exodos: Football (1986).zip
+files:
+- name: ALSTARS.FBF
+  size: 1928
+  date: '1986-11-28T10:59:46'
+  crc: '0xd411140f'
+- name: FOOTBALL.EXE
+  size: 89328
+  date: '1986-12-12T08:25:34'
+  crc: '0x9afe87f9'
+- name: NLSTARS.FBF
+  size: 1928
+  date: '1986-11-28T11:00:40'
+  crc: '0xd015f942'
+- name: TEAMLIST.FBF
+  size: 537
+  date: '1986-02-21T07:45:32'
+  crc: '0x0b1eb4f9'

@@ -1,0 +1,33 @@
+filename: Ripper 1.05 upgrade patch (1996)(Take-Two Interactive Software, Inc.) [Action, Adventure, Addon].zip
+tdc_id: '17201.8'
+title:
+  screen: Ripper 1.05 upgrade patch
+publisher: Take-Two Interactive Software, Inc.
+year: '1996'
+genre:
+- Action
+- Adventure
+- Addon
+language: English
+date:
+  added: '2023-03-23T08:26:39'
+  last_modified: '2023-03-23T08:26:39'
+type: zip
+media: Download
+commands:
+  play: RIPPER.EXE
+references:
+  mobygames: https://www.mobygames.com/game/3198/ripper/
+files:
+- name: PATCH.TXT
+  size: 2631
+  date: '1996-07-30T16:35:28'
+  crc: '0xec1a66f1'
+- name: README.TXT
+  size: 9644
+  date: '1996-07-30T16:35:24'
+  crc: '0x3c6dda49'
+- name: RIPPER.EXE
+  size: 780285
+  date: '1996-07-30T11:45:54'
+  crc: '0xa7cb067b'

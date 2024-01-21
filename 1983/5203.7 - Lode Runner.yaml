@@ -1,0 +1,35 @@
+filename: Lode Runner v3.0 [DC][f1] (1983)(Brøderbund Software, Inc.) [Action].zip
+tdc_id: '5203.7'
+title:
+  box: Lode Runner
+publisher: Brøderbund Software, Inc.
+year: '1983'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:23:16'
+  last_modified: '2019-03-01T18:23:16'
+version: '3.0'
+type: zip
+tags:
+- DOSConversion
+- Fixed: 1
+commands:
+  play: LR.COM
+files:
+- name: LODERUN.DAT
+  size: 81920
+  date: '2006-07-07T18:56:20'
+  crc: '0x6131465d'
+- name: LR.COM
+  size: 43264
+  date: '1998-02-23T21:24:08'
+  crc: '0x6179940d'
+- name: patching.txt
+  size: 120
+  date: '1998-02-25T17:21:10'
+  crc: '0xa1a53e3c'
+- name: readme.txt
+  size: 678
+  date: '2006-07-07T19:04:54'
+  crc: '0x0b3e79f2'

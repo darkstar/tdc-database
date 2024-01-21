@@ -1,0 +1,30 @@
+filename: Fifteen Puzzle (1983)(International PC Owners) [Puzzle].zip
+tdc_id: '13564.0'
+title:
+  screen: Fifteen Puzzle
+publisher: International PC Owners
+year: '1983'
+genre: Puzzle
+language: English
+date:
+  added: '2019-03-01T18:23:12'
+  last_modified: '2019-03-01T18:23:12'
+type: zip
+commands:
+  play: FIFTEEN.BAT
+references:
+  dosid: DOS06832
+  exodos: Fifteen Puzzle (1983).zip
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: FIFTEEN.BAS
+  size: 4352
+  date: '1983-04-23T15:50:58'
+  crc: '0x939843e0'
+- name: FIFTEEN.BAT
+  size: 16
+  date: '2014-12-01T01:30:28'
+  crc: '0x70490ce5'

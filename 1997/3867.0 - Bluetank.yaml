@@ -1,0 +1,28 @@
+filename: Bluetank (1997)(Reinder Glas) [Action].zip
+tdc_id: '3867.0'
+title:
+  screen: Bluetank
+publisher: Reinder Glas
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:25:20'
+  last_modified: '2019-03-02T10:25:20'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: BLUETANK.BAS
+  size: 52496
+  date: '2018-03-10T02:25:58'
+  crc: '0x79ebd56e'
+- name: GO.BAT
+  size: 28
+  date: '2018-06-29T02:21:02'
+  crc: '0xce61611c'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T01:28:02'
+  crc: '0x19f6ed75'

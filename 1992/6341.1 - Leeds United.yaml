@@ -1,0 +1,77 @@
+filename: Leeds United (Es) (1992)(CDS Software Ltd) [Simulation, Sports].zip
+tdc_id: '6341.1'
+title:
+  box: Leeds United
+publisher: CDS Software Ltd
+year: '1992'
+genre:
+- Simulation
+- Sports
+language: Spanish
+date:
+  added: '2022-08-06T12:40:16'
+  last_modified: '2022-10-26T14:40:02'
+type: zip
+commands:
+  play: LEEDS.BAT
+files:
+- name: ADDIMENU.PUT
+  size: 32048
+  date: '1992-08-11T17:32:26'
+  crc: '0x58c7cb7d'
+- name: BACKGRND.PUT
+  size: 32048
+  date: '1992-08-11T17:32:30'
+  crc: '0x9431b066'
+- name: CDSTITLE.PUT
+  size: 32048
+  date: '1992-08-11T17:32:34'
+  crc: '0x226553f1'
+- name: COURIER.FON
+  size: 19088
+  date: '1987-11-12T13:23:36'
+  crc: '0x2d3871e0'
+- name: HEADER.PUT
+  size: 32048
+  date: '1992-08-11T17:32:38'
+  crc: '0xd89e8e30'
+- name: INST-HD.BAT
+  size: 493
+  date: '1992-11-23T17:01:20'
+  crc: '0x427289c3'
+- name: LEEDS.BAT
+  size: 27
+  date: '1992-11-23T15:43:38'
+  crc: '0xd8e3bee2'
+- name: LEEDS.EXE
+  size: 367540
+  date: '1992-11-27T11:09:38'
+  crc: '0xc21ae2dc'
+- name: MAINMENU.PUT
+  size: 32048
+  date: '1992-08-11T17:32:42'
+  crc: '0xac4302c3'
+- name: NAMES.DAT
+  size: 9000
+  date: '1980-10-12T04:42:16'
+  crc: '0x99211735'
+- name: OFFICE1.PUT
+  size: 32048
+  date: '1992-08-11T17:32:44'
+  crc: '0xf771cbcc'
+- name: OFFICE2.PUT
+  size: 32048
+  date: '1992-08-11T17:32:48'
+  crc: '0x2260381b'
+- name: SCOREB2.PUT
+  size: 32048
+  date: '1992-08-11T17:32:54'
+  crc: '0x3c9d206d'
+- name: SQUAD.PUT
+  size: 32048
+  date: '1992-08-11T17:32:56'
+  crc: '0x323e7e0b'
+- name: TICKET_P.PUT
+  size: 32048
+  date: '1992-08-11T17:33:04'
+  crc: '0xb7743b03'

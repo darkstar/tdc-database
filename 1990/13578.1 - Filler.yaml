@@ -1,0 +1,30 @@
+filename: Filler (Work Version) (1990)(GAMOS Ltd.) [Strategy, Action].zip
+tdc_id: '13578.1'
+title:
+  screen: Filler
+  qualifier: Work Version
+publisher: GAMOS Ltd.
+year: '1990'
+genre:
+- Strategy
+- Action
+language: English
+date:
+  added: '2019-03-01T18:32:36'
+  last_modified: '2019-03-01T18:32:36'
+type: zip
+commands:
+  play: FILLER.EXE
+files:
+- name: EGAVGA.BGI
+  size: 5363
+  date: '1989-05-02T05:50:00'
+  crc: '0x06d36962'
+- name: FILLER.EXE
+  size: 66400
+  date: '1990-11-01T16:05:18'
+  crc: '0xfbb74ef4'
+- name: SPRITE.EGA
+  size: 275514
+  date: '1990-10-31T14:13:24'
+  crc: '0xb307b27e'

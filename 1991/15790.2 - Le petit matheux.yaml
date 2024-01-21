@@ -1,0 +1,36 @@
+filename: petit matheux, Le v2.2 (Fr) (1991)(Stone & Associates, Nighthawk Computing) [Educational].zip
+tdc_id: '15790.2'
+title:
+  box: Le petit matheux
+publisher: Stone & Associates, Nighthawk Computing
+year: '1991'
+genre: Educational
+language: French
+date:
+  added: '2023-12-29T16:41:46'
+  last_modified: '2023-12-29T16:41:46'
+version: '2.2'
+type: zip
+commands:
+  play: Matheux.exe
+files:
+- name: CGA.BGI
+  size: 6253
+  date: '1988-08-29T04:00:00'
+  crc: '0x17cbdd92'
+- name: EGAVGA.BGI
+  size: 5363
+  date: '1988-08-29T04:00:00'
+  crc: '0x06d36962'
+- name: Matheux.exe
+  size: 189206
+  date: '1991-08-06T22:36:54'
+  crc: '0x3101b57d'
+- name: VGA256.BGI
+  size: 3289
+  date: '1990-02-23T16:12:00'
+  crc: '0x55f0b0ba'
+- name: YMATH.DAT
+  size: 16
+  date: '1991-07-29T09:39:58'
+  crc: '0x12986930'

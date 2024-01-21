@@ -1,0 +1,27 @@
+filename: Battle of Kursk, The v2.1 (1989)(Mattew Kowalski) [Strategy].zip
+tdc_id: '1648.0'
+title:
+  screen: The Battle of Kursk
+publisher: Mattew Kowalski
+year: '1989'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:27:16'
+  last_modified: '2019-03-01T18:27:16'
+version: '2.1'
+type: zip
+commands:
+  play: KURSK.EXE
+references:
+  dosid: DOS15781
+  exodos: Battle of Kursk, The (1989).zip
+files:
+- name: KURSK.DOC
+  size: 3247
+  date: '1989-06-18T00:06:06'
+  crc: '0x272c8568'
+- name: KURSK.EXE
+  size: 66687
+  date: '1989-06-18T20:10:40'
+  crc: '0xa5395338'

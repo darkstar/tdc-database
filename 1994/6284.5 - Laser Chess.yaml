@@ -1,0 +1,76 @@
+filename: Laser Chess v3.1 [SW] (1994)(Peter Venable, B&N Companies, Inc.) [Strategy, Chess][!].zip
+tdc_id: '6284.5'
+parent_id: '6284.4'
+title:
+  box: Laser Chess
+publisher: Peter Venable, B&N Companies, Inc.
+year: '1994'
+genre:
+- Strategy
+- Chess
+language: English
+date:
+  added: '2024-01-04T08:26:20'
+  last_modified: '2024-01-04T08:26:20'
+version: '3.1'
+type: zip
+tags:
+- Shareware
+- KnownGood
+media: 720K
+commands:
+  play: LACHESS\LASER.EXE
+references:
+  mobygames: https://www.mobygames.com/game/46304/laser-chess/
+files:
+- name: BN.BLD
+  size: 1074
+  date: '1994-08-07T23:28:02'
+  crc: '0x4deaac0a'
+- name: GO.BAT
+  size: 31
+  date: '1994-08-07T23:33:06'
+  crc: '0x55dfd662'
+- name: LACHESS\
+  size: 0
+  date: '1994-08-07T12:35:30'
+- name: LACHESS\BN.EXE
+  size: 12260
+  date: '1994-08-07T23:28:02'
+  crc: '0x58b7727c'
+- name: LACHESS\DESCRIP.TXT
+  size: 3072
+  date: '1994-04-27T19:45:44'
+  crc: '0xe7f373c2'
+- name: LACHESS\DOCS.BAT
+  size: 34
+  date: '1994-08-07T23:29:44'
+  crc: '0xa88a3f5b'
+- name: LACHESS\LASER.EXE
+  size: 117813
+  date: '1994-08-05T03:13:42'
+  crc: '0x6cb72bd6'
+- name: LACHESS\LASER.ICO
+  size: 766
+  date: '1993-07-04T15:07:44'
+  crc: '0xc4b7f256'
+- name: LACHESS\LASER.PXL
+  size: 42018
+  date: '1993-07-15T16:15:22'
+  crc: '0x4f97dcb5'
+- name: LACHESS\LASER.TXT
+  size: 8480
+  date: '1994-08-07T23:31:42'
+  crc: '0xd1340783'
+- name: LACHESS\LASERANM.PXL
+  size: 57306
+  date: '1993-07-15T12:26:50'
+  crc: '0x07d15604'
+- name: LACHESS\LOGO.PXL
+  size: 13394
+  date: '1994-04-27T13:57:44'
+  crc: '0xac946428'
+- name: LACHESS\WRITE1.EXE
+  size: 13744
+  date: '1994-07-18T14:17:48'
+  crc: '0x8489cc3b'

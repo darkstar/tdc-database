@@ -1,0 +1,44 @@
+filename: Rimworld v2.11 [SW] (1987)(Russel A. Duderstadt) [Adventure, Interactive Fiction].zip
+tdc_id: '1433.0'
+title:
+  screen: Rimworld
+publisher: Russel A. Duderstadt
+year: '1987'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:25:34'
+  last_modified: '2019-03-01T18:25:34'
+version: '2.11'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: RIMWORLD.COM
+references:
+  dosid: DOS00193
+  exodos: Rimworld (1987).zip
+files:
+- name: RIMWORLD.000
+  size: 56576
+  date: '1989-07-23T00:28:56'
+  crc: '0x23cb2fdf'
+- name: RIMWORLD.COM
+  size: 56465
+  date: '1989-07-23T00:29:02'
+  crc: '0x655c3b2d'
+- name: RIMWORLD.DOC
+  size: 2344
+  date: '1989-07-22T23:09:14'
+  crc: '0xa4e80004'
+- name: RIMWORLD.PSG
+  size: 22800
+  date: '1989-07-22T23:52:06'
+  crc: '0x7c9d0c18'
+- name: RIMWORLD.RMS
+  size: 38000
+  date: '1989-07-22T23:52:12'
+  crc: '0x45b3388e'

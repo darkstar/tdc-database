@@ -1,0 +1,26 @@
+filename: Catch 'Em (1989)(Edson Software) [Action].zip
+tdc_id: '8603.0'
+title:
+  screen: Catch 'Em
+publisher: Edson Software
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:27:24'
+  last_modified: '2019-03-01T18:27:24'
+type: zip
+commands:
+  play: CATCHEM.EXE
+references:
+  dosid: DOS01294
+  exodos: Catch 'Em (1989).zip
+files:
+- name: CATCHEM.EXE
+  size: 82778
+  date: '1989-09-06T20:38:28'
+  crc: '0xcbd71015'
+- name: CATCHEM.TXT
+  size: 2477
+  date: '1989-09-06T20:39:28'
+  crc: '0x1d8ac084'

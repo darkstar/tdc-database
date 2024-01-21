@@ -1,0 +1,99 @@
+filename: PowerHits Sports v1.00 (Installer) [f1] (1992)(Activision Publishing, Inc.) [Compilation].zip
+tdc_id: '17380.1'
+title:
+  box: PowerHits Sports
+  qualifier: Installer
+publisher: Activision Publishing, Inc.
+year: '1992'
+genre: Compilation
+language: English
+date:
+  added: '2023-12-06T19:19:29'
+  last_modified: '2023-12-06T19:19:29'
+version: '1.00'
+type: zip
+tags:
+- Fixed: 1
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/2007/powerhits-sports/
+files:
+- name: BAT.LIF
+  size: 707
+  date: '1992-06-30T13:29:30'
+  crc: '0x61dab857'
+- name: BITMAPS.LIF
+  size: 463413
+  date: '1992-06-25T14:50:44'
+  crc: '0x55102ab7'
+- name: BLUEBYTE.LIF
+  size: 130666
+  date: '1992-06-30T14:03:52'
+  crc: '0xdcc014d9'
+- name: CGA01.LIF
+  size: 66260
+  date: '1992-06-24T17:58:14'
+  crc: '0x157812c7'
+- name: CGA02.LIF
+  size: 32986
+  date: '1992-06-24T18:00:08'
+  crc: '0x012b64a4'
+- name: DISK.ID
+  size: 43
+  date: '1992-06-25T13:15:14'
+  crc: '0x690d3fa9'
+- name: DISK.ID2
+  size: 42
+  date: '1992-06-25T13:26:08'
+  crc: '0xec586ad8'
+- name: EGA01.LIF
+  size: 106949
+  date: '1992-06-24T18:01:56'
+  crc: '0xecc4cc2a'
+- name: EGA02.LIF
+  size: 32986
+  date: '1992-06-24T18:02:50'
+  crc: '0x80b9f0d8'
+- name: FACEOFF.LIF
+  size: 578467
+  date: '1992-06-24T17:51:14'
+  crc: '0x462798ae'
+- name: GRAFIK.LIF
+  size: 586468
+  date: '1992-06-25T09:07:48'
+  crc: '0x0f179699'
+- name: INSTALL.DAT
+  size: 25715
+  date: '1992-06-30T14:56:30'
+  crc: '0x87fe60b2'
+- name: INSTALL.DA_
+  size: 25708
+  date: '1992-06-30T14:56:30'
+  crc: '0xd26238f2'
+- name: INSTALL.EXE
+  size: 75908
+  date: '1992-04-09T14:53:02'
+  crc: '0x2b503bed'
+- name: MCGA01.LIF
+  size: 87469
+  date: '1992-06-24T18:04:06'
+  crc: '0x6c24a3eb'
+- name: MCGA02.LIF
+  size: 33056
+  date: '1992-06-24T18:05:06'
+  crc: '0x8c9784c3'
+- name: MOTO.LIF
+  size: 105943
+  date: '1992-06-24T18:09:16'
+  crc: '0x0ef50197'
+- name: PDRIFT.LIF
+  size: 567921
+  date: '1992-06-24T18:06:44'
+  crc: '0xdcfa992b'
+- name: TRACK.LIF
+  size: 13880
+  date: '1992-06-25T15:00:50'
+  crc: '0x0e9b155d'

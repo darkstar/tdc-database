@@ -1,0 +1,37 @@
+filename: Sphere Fighter v1.7 (1996)(Mike Hulme & Co.) [Action].zip
+tdc_id: '441.0'
+title:
+  screen: Sphere Fighter
+publisher: Mike Hulme & Co.
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:18:46'
+  last_modified: '2019-03-02T10:18:46'
+version: '1.7'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: FIG1.DAT
+  size: 2386
+  date: '1996-01-03T21:37:18'
+  crc: '0xe2947189'
+- name: FIG2.DAT
+  size: 2382
+  date: '1996-01-03T21:37:26'
+  crc: '0xfb8ecd05'
+- name: GO.BAT
+  size: 28
+  date: '2018-04-14T20:05:04'
+  crc: '0xf7cd54ce'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T01:28:02'
+  crc: '0x19f6ed75'
+- name: SPHRFITE.BAS
+  size: 60071
+  date: '1996-03-08T08:11:48'
+  crc: '0x361955a4'

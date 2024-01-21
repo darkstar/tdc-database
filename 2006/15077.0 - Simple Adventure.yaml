@@ -1,0 +1,29 @@
+filename: Simple Adventure (2006)(Paul Allen Panks) [Adventure, Interactive Fiction].zip
+tdc_id: '15077.0'
+title:
+  screen: Simple Adventure
+publisher: Paul Allen Panks
+year: '2006'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T10:57:16'
+  last_modified: '2019-03-02T10:57:16'
+type: zip
+commands:
+  play: simpadv.exe
+files:
+- name: simpadv.bas
+  size: 21362
+  date: '1980-01-01T00:00:00'
+  crc: '0xe937c416'
+- name: simpadv.exe
+  size: 59943
+  date: '1980-01-01T00:00:00'
+  crc: '0x2cfbdde6'
+- name: simpadv.txt
+  size: 615
+  date: '1980-01-01T00:00:00'
+  crc: '0x61ea427c'

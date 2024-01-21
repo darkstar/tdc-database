@@ -1,0 +1,40 @@
+filename: Abuse (Installer) [SW] (1995)(Crack Dot Com) [Action].zip
+tdc_id: '5155.0'
+parent_id: '5155.1'
+title:
+  screen: Abuse
+publisher: Crack Dot Com
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T07:27:32'
+  last_modified: '2019-03-02T07:27:32'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK1.DAT
+  size: 623558
+  date: '1995-09-14T01:53:12'
+  crc: '0x1a42890f'
+- name: DISK2.DAT
+  size: 1078669
+  date: '1995-09-14T01:55:06'
+  crc: '0x9d73c57b'
+- name: DISK3.DAT
+  size: 686897
+  date: '1995-09-14T01:55:50'
+  crc: '0xf1ee74fa'
+- name: INSTALL.EXE
+  size: 277874
+  date: '1995-09-13T23:09:00'
+  crc: '0x1bd610bf'
+- name: INSTALL.LSP
+  size: 5561
+  date: '1995-09-10T17:15:00'
+  crc: '0x7db59a6d'

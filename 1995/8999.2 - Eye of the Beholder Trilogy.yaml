@@ -1,0 +1,99 @@
+filename: Eye of the Beholder Trilogy (Installer) (1995)(Strategic Simulations, Inc.) [Action, Adventure, Role-Playing (RPG), Compilation][!].zip
+tdc_id: '8999.2'
+parent_id: '8999.8'
+title:
+  box: Eye of the Beholder Trilogy
+  qualifier: Installer
+publisher: Strategic Simulations, Inc.
+year: '1995'
+genre:
+- Action
+- Adventure
+- Role-Playing (RPG)
+- Compilation
+language: English
+date:
+  added: '2022-08-03T07:05:06'
+  last_modified: '2023-10-14T13:13:12'
+type: zip
+tags:
+- KnownGood
+media:
+- 720K
+- 1.44M
+installer: true
+references:
+  mobygames: https://www.mobygames.com/game/1224/eye-of-the-beholder-eye-of-the-beholder-ii-the-legend-of-darkmoo/
+files:
+- name: BOOT.NFO
+  size: 32
+  date: '1993-09-03T11:32:48'
+  crc: '0x2d8254fd'
+- name: DATA1.ARJ
+  size: 1360415
+  date: '1993-07-28T08:39:50'
+  crc: '0x8d8ff9cc'
+- name: DATA2.ARJ
+  size: 1359306
+  date: '1993-07-06T15:26:28'
+  crc: '0xc2f31efe'
+- name: DATA3.ARJ
+  size: 1359245
+  date: '1993-07-06T15:27:24'
+  crc: '0xd525d3ce'
+- name: DATA4.ARJ
+  size: 145776
+  date: '1993-07-06T15:27:46'
+  crc: '0x4205f1eb'
+- name: DATA5.ARJ
+  size: 141650
+  date: '1993-07-06T15:27:56'
+  crc: '0x52c2e262'
+- name: DATA6.ARJ
+  size: 174830
+  date: '1993-07-06T15:28:02'
+  crc: '0x3d069539'
+- name: DEARJ.EXE
+  size: 60416
+  date: '1993-03-22T15:11:38'
+  crc: '0xc807aa09'
+- name: EYE1.NFO
+  size: 115
+  date: '1993-09-03T11:40:04'
+  crc: '0xd66b85a3'
+- name: EYE11.ARJ
+  size: 999305
+  date: '1993-09-03T11:36:54'
+  crc: '0x46d5f241'
+- name: EYE12.ARJ
+  size: 559492
+  date: '1993-09-03T11:38:40'
+  crc: '0x2d656551'
+- name: EYE2.NFO
+  size: 133
+  date: '1993-09-03T11:50:28'
+  crc: '0xa80c8807'
+- name: EYE21.ARJ
+  size: 371118
+  date: '1993-09-03T11:42:04'
+  crc: '0x7baeeed7'
+- name: EYE22.ARJ
+  size: 896913
+  date: '1993-09-03T11:45:38'
+  crc: '0x976d3495'
+- name: EYE23.ARJ
+  size: 557604
+  date: '1993-09-03T11:47:52'
+  crc: '0x6755eb38'
+- name: INSTALL.EXE
+  size: 44215
+  date: '1993-09-03T12:03:08'
+  crc: '0xfecc9d36'
+- name: INSTALL.NFO
+  size: 591
+  date: '1993-04-13T19:19:44'
+  crc: '0xcbcf531f'
+- name: INSTALL3.EXE
+  size: 26478
+  date: '1993-04-13T15:11:18'
+  crc: '0x5fa42a7e'

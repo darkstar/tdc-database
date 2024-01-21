@@ -1,0 +1,32 @@
+filename: Lexi-Cross (Installer) (1991)(Interplay Productions, Inc.) [Strategy].zip
+tdc_id: '6376.2'
+title:
+  box: Lexi-Cross
+publisher: Interplay Productions, Inc.
+year: '1991'
+genre: Strategy
+language: English
+date:
+  added: '2021-09-12T20:07:50'
+  last_modified: '2021-09-12T20:07:50'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK31.SS
+  size: 393523
+  date: '1991-03-18T14:59:38'
+  crc: '0x8fdfcf26'
+- name: DISK32.SS
+  size: 175928
+  date: '1991-03-18T15:01:32'
+  crc: '0x776948b1'
+- name: INSTALL.EXE
+  size: 10133
+  date: '1991-03-15T18:13:58'
+  crc: '0xf7540b3d'
+- name: README.DOC
+  size: 5885
+  date: '1991-03-18T13:28:40'
+  crc: '0xc0952982'

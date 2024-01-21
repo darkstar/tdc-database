@@ -1,0 +1,72 @@
+filename: Las Vegas EGA Casino, The v2.0 [SW] (1991)(Ted Gruber Software) [Simulation, Cards].zip
+tdc_id: '6294.0'
+title:
+  screen: The Las Vegas EGA Casino
+publisher: Ted Gruber Software
+year: '1991'
+genre:
+- Simulation
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:36:32'
+  last_modified: '2019-03-01T18:36:32'
+version: '2.0'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: CASINO.EXE
+references:
+  dosid: DOS03101
+  exodos: Las Vegas EGA Casino, The (Version 2.0) (1991).zip
+files:
+- name: ABOUT_FG.TXT
+  size: 2506
+  date: '1991-05-20T10:34:58'
+  crc: '0xa7f05399'
+- name: AINTMISB.CMF
+  size: 8096
+  date: '1991-04-15T15:39:18'
+  crc: '0xb823d759'
+- name: CARD.VOC
+  size: 455
+  date: '1991-04-09T18:17:46'
+  crc: '0x681cbf9b'
+- name: CASINO.DOC
+  size: 18138
+  date: '1991-05-20T10:52:14'
+  crc: '0xb0a643a8'
+- name: CASINO.EXE
+  size: 62189
+  date: '1991-05-24T15:29:24'
+  crc: '0x2b8e3fb8'
+- name: INSERT.VOC
+  size: 156
+  date: '1991-04-15T03:13:50'
+  crc: '0x0d7005bc'
+- name: INTRO.PBM
+  size: 28080
+  date: '1991-04-17T07:26:56'
+  crc: '0x5bd96617'
+- name: MENU.PBM
+  size: 14400
+  date: '1991-04-15T12:40:14'
+  crc: '0x52fb1899'
+- name: ORDER.FRM
+  size: 2956
+  date: '1991-04-26T16:42:36'
+  crc: '0x6f300b11'
+- name: PAYOUT0.VOC
+  size: 2309
+  date: '1991-04-11T09:48:36'
+  crc: '0x794e2557'
+- name: PAYOUT1.VOC
+  size: 2608
+  date: '1991-04-11T07:14:08'
+  crc: '0x586e5623'
+- name: SLOT.PBM
+  size: 30780
+  date: '1991-04-14T13:37:50'
+  crc: '0xd3eab1c9'

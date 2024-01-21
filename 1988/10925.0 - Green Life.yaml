@@ -1,0 +1,64 @@
+filename: Green Life v1.2 (1988)(Alan Farmer) [Simulation].zip
+tdc_id: '10925.0'
+title:
+  screen: Green Life
+publisher: Alan Farmer
+year: '1988'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:26:16'
+  last_modified: '2019-03-01T18:26:16'
+version: '1.2'
+type: zip
+commands:
+  play: GLIFE.EXE
+files:
+- name: FIZZBLOK.BLK
+  size: 1091
+  date: '1999-12-31T19:00:00'
+  crc: '0x0a351fc1'
+- name: FLOTILLA.SCN
+  size: 25285
+  date: '1999-12-31T19:00:00'
+  crc: '0x9ebb3307'
+- name: GLIDER.BLK
+  size: 11
+  date: '1999-12-31T19:00:00'
+  crc: '0x2384d875'
+- name: GLIFE.DOC
+  size: 31744
+  date: '1999-12-31T19:00:00'
+  crc: '0xeaba2449'
+- name: GLIFE.EXE
+  size: 51344
+  date: '1999-12-31T19:00:00'
+  crc: '0x1c358b6e'
+- name: GUN.BLK
+  size: 326
+  date: '1999-12-31T19:00:00'
+  crc: '0xc4dbe732'
+- name: MAKEGUN.SCN
+  size: 25285
+  date: '1999-12-31T19:00:00'
+  crc: '0x1ca098dd'
+- name: PUFFER.BLK
+  size: 92
+  date: '1999-12-31T19:00:00'
+  crc: '0xe9982e63'
+- name: QUEENBEE.BLK
+  size: 156
+  date: '1999-12-31T19:00:00'
+  crc: '0x4834cf5b'
+- name: STUFF.SCN
+  size: 25285
+  date: '1999-12-31T19:00:00'
+  crc: '0xc14eb170'
+- name: STUFF34.SCN
+  size: 25285
+  date: '1999-12-31T19:00:00'
+  crc: '0x58cc85f4'
+- name: TUMBLERS.BLK
+  size: 44
+  date: '1999-12-31T19:00:00'
+  crc: '0xd676a01e'

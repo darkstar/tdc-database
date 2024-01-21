@@ -1,0 +1,97 @@
+filename: Patrician, The CD (Installer) (1993)(Ascon GmbH) [Simulation, Strategy].zip
+tdc_id: '1486.23'
+title:
+  box: The Patrician CD
+publisher: Ascon GmbH
+year: '1993'
+genre:
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2022-09-01T14:35:29'
+  last_modified: '2022-09-01T14:35:29'
+type: zip
+installer: true
+references:
+  mobygames: https://www.mobygames.com/game/dos/patrician
+files:
+- name: ANIS\
+  size: 0
+  date: '2022-09-01T07:27:52'
+- name: ANIS\ABWEHR.ANI
+  size: 2979763
+  date: '1993-03-12T15:26:36'
+  crc: '0xc7e2e359'
+- name: ANIS\BELAGER.ANI
+  size: 2783671
+  date: '1993-03-12T15:26:46'
+  crc: '0x078b4056'
+- name: ANIS\FEUER.ANI
+  size: 1896371
+  date: '1993-03-12T15:26:52'
+  crc: '0xf1e3ce38'
+- name: ANIS\GEWUERZ.ANI
+  size: 777971
+  date: '1993-03-12T15:26:54'
+  crc: '0xf497c97b'
+- name: ANIS\INTRO1.ANI
+  size: 2898932
+  date: '1993-10-21T17:27:06'
+  crc: '0xd9c595e5'
+- name: ANIS\INTRO2.ANI
+  size: 1561505
+  date: '1993-03-12T15:27:10'
+  crc: '0x89d819ff'
+- name: ANIS\PEST.ANI
+  size: 1140238
+  date: '1993-03-12T15:27:14'
+  crc: '0xa51d56ec'
+- name: ANIS\PIRATEN.ANI
+  size: 1185150
+  date: '1993-03-12T15:27:18'
+  crc: '0xa995e1e3'
+- name: ANIS\STURM.ANI
+  size: 1951859
+  date: '1993-03-12T15:27:24'
+  crc: '0x73e6b703'
+- name: ANIS\WRACK.ANI
+  size: 1533022
+  date: '1993-03-12T15:27:30'
+  crc: '0x58131356'
+- name: F0.EXE
+  size: 212889
+  date: '1993-12-06T19:02:40'
+  crc: '0x0770e692'
+- name: F1.EXE
+  size: 1263569
+  date: '1993-11-27T11:18:44'
+  crc: '0xae86a899'
+- name: F2.EXE
+  size: 330192
+  date: '1993-03-12T15:26:24'
+  crc: '0x152ea9e4'
+- name: F3.EXE
+  size: 18207
+  date: '1993-11-27T11:08:20'
+  crc: '0x743175fc'
+- name: F6.EXE
+  size: 53705
+  date: '1993-03-12T15:26:26'
+  crc: '0xbf5111ec'
+- name: F7.EXE
+  size: 46475
+  date: '1993-03-12T15:26:26'
+  crc: '0x36df3709'
+- name: F9.EXE
+  size: 28670
+  date: '1993-11-27T11:04:10'
+  crc: '0xa9e93d27'
+- name: INSTALL.EXE
+  size: 23776
+  date: '1993-12-06T18:58:56'
+  crc: '0x0c64dc4d'
+- name: LHA213.EXE
+  size: 44416
+  date: '1993-03-12T15:26:26'
+  crc: '0xd873d490'

@@ -1,0 +1,41 @@
+filename: Creep Clash v1.01 (Installer) [SW] (1994)(47-TEK, Inc.) [Action].zip
+tdc_id: '9362.2'
+title:
+  screen: Creep Clash
+  qualifier: Installer
+publisher: 47-TEK, Inc.
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2023-05-24T12:25:43'
+  last_modified: '2023-05-24T12:25:43'
+version: '1.01'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: 47CDOS.EXE
+files:
+- name: 47CDOS.EXE
+  size: 1366906
+  date: '1994-11-22T18:50:28'
+  crc: '0x5dd8f3dd'
+- name: FILE_ID.DIZ
+  size: 544
+  date: '1994-11-23T04:02:52'
+  crc: '0x439d3f17'
+- name: ORDER.BAT
+  size: 24
+  date: '1994-11-23T09:35:10'
+  crc: '0x591b5e06'
+- name: ORDER.TXT
+  size: 1738
+  date: '1994-11-23T09:43:00'
+  crc: '0xcc447291'
+- name: VENDOR.DOC
+  size: 4758
+  date: '1994-11-25T10:13:28'
+  crc: '0x8fc40874'

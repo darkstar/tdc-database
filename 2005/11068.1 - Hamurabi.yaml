@@ -1,0 +1,32 @@
+filename: Hamurabi [a1] (2005)(Anonymous) [Simulation, Strategy].zip
+tdc_id: '11068.1'
+title:
+  screen: Hamurabi
+publisher: Anonymous
+year: '2005'
+genre:
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2019-03-02T10:57:04'
+  last_modified: '2019-03-02T10:57:04'
+type: zip
+tags:
+- Alternate: 1
+media: Download
+commands:
+  play: RUN.BAT
+files:
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1988-10-04T19:00:08'
+  crc: '0x2a44af39'
+- name: HAMURABI.BAS
+  size: 2239
+  date: '2005-02-07T20:49:46'
+  crc: '0x42d13c68'
+- name: RUN.BAT
+  size: 24
+  date: '2018-02-15T12:27:44'
+  crc: '0x44f5cec2'

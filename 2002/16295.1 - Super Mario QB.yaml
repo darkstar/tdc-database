@@ -1,0 +1,88 @@
+filename: Super Mario QB v.15 (2002)(Dark Flare Software) [Action].zip
+tdc_id: '16295.1'
+title:
+  screen: Super Mario QB
+publisher: Dark Flare Software
+year: '2002'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:56:14'
+  last_modified: '2019-03-02T10:56:14'
+version: '.15'
+type: zip
+commands:
+  play: MARIO.EXE
+files:
+- name: EFFECTS.SND
+  size: 306
+  date: '2002-03-27T02:43:42'
+  crc: '0x1886be00'
+- name: GRAPHICS.COL
+  size: 769
+  date: '2002-03-27T18:45:16'
+  crc: '0x6085dae5'
+- name: GRAPHICS.GPH
+  size: 64007
+  date: '2002-03-27T18:45:18'
+  crc: '0x1793a2f3'
+- name: LOGO.COL
+  size: 769
+  date: '2002-03-28T00:32:58'
+  crc: '0x65fd3cd3'
+- name: LOGO.GPH
+  size: 64007
+  date: '2002-03-28T00:33:00'
+  crc: '0x83352416'
+- name: Level1.dat
+  size: 15050
+  date: '2002-03-27T16:55:56'
+  crc: '0x597700aa'
+- name: Level2.dat
+  size: 15060
+  date: '2002-03-27T23:56:54'
+  crc: '0x4accdfb1'
+- name: MARIO.BAS
+  size: 31176
+  date: '2002-03-28T06:19:04'
+  crc: '0x61a10857'
+- name: MARIO.EXE
+  size: 79188
+  date: '2002-03-28T06:19:06'
+  crc: '0x787912d4'
+- name: Readme.txt
+  size: 2639
+  date: '2002-03-28T06:00:42'
+  crc: '0x7fd3aae5'
+- name: SPRITES1.DAT
+  size: 1510
+  date: '2002-03-27T16:55:56'
+  crc: '0xd7754eb4'
+- name: SPRITES2.DAT
+  size: 1510
+  date: '2002-03-27T23:56:54'
+  crc: '0xcb7f8312'
+- name: TITLE.COL
+  size: 769
+  date: '2002-03-28T00:33:18'
+  crc: '0xf1152c5d'
+- name: TITLE.GPH
+  size: 64007
+  date: '2002-03-28T00:33:20'
+  crc: '0x6d77eb67'
+- name: die.wav
+  size: 64435
+  date: '2002-03-26T08:08:22'
+  crc: '0xa7d491d3'
+- name: intro.wav
+  size: 109798
+  date: '2002-03-28T00:42:52'
+  crc: '0x08f0d53f'
+- name: music1.wav
+  size: 564260
+  date: '2002-03-27T12:40:12'
+  crc: '0x6cc054ac'
+- name: win.wav
+  size: 79923
+  date: '2002-03-27T11:19:12'
+  crc: '0x37657104'

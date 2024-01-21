@@ -1,0 +1,86 @@
+filename: Shippy Gold (2003)(Ryan Broomfield) [Action].zip
+tdc_id: '5932.1'
+title:
+  screen: Shippy Gold
+publisher: Ryan Broomfield
+year: '2003'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:56:44'
+  last_modified: '2019-03-02T10:56:44'
+type: zip
+commands:
+  play: shipex.EXE
+files:
+- name: DOOP.PUT
+  size: 415
+  date: '2002-01-24T00:15:24'
+  crc: '0x5b6ee191'
+- name: FONTG.PUT
+  size: 3847
+  date: '2002-03-12T11:08:58'
+  crc: '0xeae299f7'
+- name: GAME.PAL
+  size: 768
+  date: '2001-10-06T15:10:16'
+  crc: '0x40fb8f26'
+- name: GAME.PUT
+  size: 1047
+  date: '2002-01-19T04:19:12'
+  crc: '0xa58d9dc4'
+- name: HOLDER.PUT
+  size: 1167
+  date: '2002-01-19T04:25:30'
+  crc: '0x7f7e71cf'
+- name: SHIPEX.BAS
+  size: 46169
+  date: '2003-12-09T05:35:44'
+  crc: '0x0eef0d42'
+- name: SPLO.PUT
+  size: 16455
+  date: '2002-01-23T23:32:48'
+  crc: '0x1381149d'
+- name: Ship1.put
+  size: 787
+  date: '2002-01-14T23:50:52'
+  crc: '0x082d3164'
+- name: TITLE.IMG
+  size: 64007
+  date: '2003-12-09T05:33:46'
+  crc: '0x58ea4041'
+- name: TITLE.PAL
+  size: 768
+  date: '2003-12-09T05:33:46'
+  crc: '0x3980edec'
+- name: TITLE.gif
+  size: 8810
+  date: '2003-12-09T05:33:38'
+  crc: '0x37516729'
+- name: bot\
+  size: 0
+  date: '2002-08-22T00:54:06'
+- name: bot\BOT.CFG
+  size: 984
+  date: '2004-06-03T00:55:42'
+  crc: '0xee2e935e'
+- name: engine.LIB
+  size: 4647
+  date: '2001-10-06T15:10:00'
+  crc: '0x34e97fb7'
+- name: engine.QLB
+  size: 9101
+  date: '2002-01-16T22:58:00'
+  crc: '0xc25ea389'
+- name: font.put
+  size: 3847
+  date: '2002-01-19T06:04:08'
+  crc: '0x35c592e7'
+- name: readme.txt
+  size: 1225
+  date: '2004-06-03T00:55:26'
+  crc: '0x491de9df'
+- name: shipex.EXE
+  size: 97482
+  date: '2003-12-09T05:35:50'
+  crc: '0xcef33472'

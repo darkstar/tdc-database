@@ -1,0 +1,32 @@
+filename: Spear of Destiny (demo) (Installer) (1992)(FormGen, Inc.) [Action].zip
+tdc_id: '15335.2'
+title:
+  screen: Spear of Destiny
+  qualifier: demo
+publisher: FormGen, Inc.
+year: '1992'
+genre: Action
+language: English
+date:
+  added: '2019-01-30T17:31:34'
+  last_modified: '2019-01-30T17:31:34'
+type: zip
+installer: true
+demo: true
+files:
+- name: FILE_ID.DIZ
+  size: 415
+  date: '1992-10-22T03:35:20'
+  crc: '0x24334550'
+- name: INSTALL.CMD
+  size: 190
+  date: '1992-10-22T03:19:14'
+  crc: '0x27367aea'
+- name: INSTALL.EXE
+  size: 9949
+  date: '1992-10-22T03:17:26'
+  crc: '0xdd55b961'
+- name: SODEMO.EXE
+  size: 691765
+  date: '1992-10-22T03:20:16'
+  crc: '0x27255eeb'

@@ -1,0 +1,61 @@
+filename: Mad TV r911106 (En)(De) (1991)(Rainbow Arts Software GmbH) [Simulation, Strategy].zip
+tdc_id: '9790.9'
+parent_id: '9790.15'
+title:
+  box: Mad TV
+publisher: Rainbow Arts Software GmbH
+year: '1991'
+genre:
+- Simulation
+- Strategy
+language:
+- English
+- German
+date:
+  added: '2020-05-13T20:53:26'
+  last_modified: '2023-08-07T17:21:34'
+release: '911106'
+type: zip
+references:
+  mobygames: https://www.mobygames.com/game/2831/mad-tv/
+files:
+- name: DATAE.PCK
+  size: 9348
+  date: '1991-11-05T16:31:44'
+  crc: '0x024b8647'
+- name: DATAV.PCK
+  size: 11652
+  date: '1991-11-05T16:31:44'
+  crc: '0xdc89e68f'
+- name: INSTALL.BAT
+  size: 4389
+  date: '1991-11-07T18:04:12'
+  crc: '0x84582ce8'
+- name: INTRO.EXE
+  size: 8510
+  date: '1991-11-05T16:31:44'
+  crc: '0x7a7302ad'
+- name: MADTV.BAT
+  size: 13
+  date: '1991-11-06T17:42:40'
+  crc: '0x6c50dcaf'
+- name: MCE.BIN
+  size: 2122
+  date: '1991-11-05T16:31:44'
+  crc: '0xc0231d97'
+- name: MCV.BIN
+  size: 2236
+  date: '1991-11-05T16:31:44'
+  crc: '0x4f4eae5b'
+- name: MTV.EXE
+  size: 121409
+  date: '1991-11-07T17:42:58'
+  crc: '0x01b812c0'
+- name: SOURCE1.RSC
+  size: 631173
+  date: '1991-11-06T17:01:02'
+  crc: '0xce9c12ac'
+- name: SOURCE2.RSC
+  size: 319341
+  date: '1991-11-06T17:01:12'
+  crc: '0x34a8759c'

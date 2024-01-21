@@ -1,0 +1,32 @@
+filename: UnReal World v2.051 (Installer) [SW] (1995)(The Three Relaxed Byte-Biters) [Role-Playing (RPG)].zip
+tdc_id: '7336.5'
+title:
+  screen: UnReal World
+publisher: The Three Relaxed Byte-Biters
+year: '1995'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2020-12-13T13:07:06'
+  last_modified: '2020-12-13T13:07:06'
+version: '2.051'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 540
+  date: '1995-04-01T07:34:54'
+  crc: '0x829b35d5'
+- name: INSTALL.EXE
+  size: 19498
+  date: '1995-04-01T07:34:54'
+  crc: '0x95bbe8a0'
+- name: URWDATA.DAT
+  size: 304993
+  date: '1995-04-01T07:34:54'
+  crc: '0xde2516e5'

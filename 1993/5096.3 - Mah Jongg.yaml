@@ -1,0 +1,25 @@
+filename: Mah Jongg v4.1 (Installer) (1993)(Nels Anderson) [Strategy].zip
+tdc_id: '5096.3'
+title:
+  screen: Mah Jongg
+publisher: Nels Anderson
+year: '1993'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T19:12:24'
+  last_modified: '2019-03-01T19:12:24'
+version: '4.1'
+type: zip
+installer: true
+commands:
+  play: GO.EXE
+files:
+- name: GO.EXE
+  size: 75263
+  date: '1994-05-15T20:15:00'
+  crc: '0x431b073d'
+- name: MAHJONGG.DNK
+  size: 193949
+  date: '1994-05-19T08:24:48'
+  crc: '0x842ed54f'

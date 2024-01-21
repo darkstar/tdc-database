@@ -1,0 +1,30 @@
+filename: Tetris (Nl) (1992)(HVB Software) [Action, Strategy].zip
+tdc_id: '16585.0'
+title:
+  screen: Tetris
+publisher: HVB Software
+year: '1992'
+genre:
+- Action
+- Strategy
+language: Dutch
+date:
+  added: '2021-12-05T12:48:14'
+  last_modified: '2021-12-05T12:48:14'
+type: zip
+references:
+  dosid: DOS07609
+  exodos: Tetris (1992).zip
+files:
+- name: IAFIX.BAT
+  size: 100
+  date: '2019-10-09T17:14:06'
+  crc: '0x0aa6f408'
+- name: TETRIS.EXE
+  size: 63307
+  date: '1992-11-08T10:36:48'
+  crc: '0x0395781d'
+- name: TETRIS.HS
+  size: 190
+  date: '2006-04-14T11:24:42'
+  crc: '0x335fa4ca'

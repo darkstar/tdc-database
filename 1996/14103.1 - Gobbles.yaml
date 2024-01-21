@@ -1,0 +1,32 @@
+filename: Gobbles (Sv) (1996)(Andreas Mattsson) [Action].zip
+tdc_id: '14103.1'
+title:
+  screen: Gobbles
+publisher: Andreas Mattsson
+year: '1996'
+genre: Action
+language: Swedish
+date:
+  added: '2019-03-02T10:04:58'
+  last_modified: '2019-03-02T10:04:58'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 27
+  date: '2018-12-30T15:49:36'
+  crc: '0x959a1690'
+- name: GOBBLES.BAS
+  size: 3243
+  date: '1996-06-30T14:10:42'
+  crc: '0x795aa40f'
+- name: GOBBLES.DAT
+  size: 140
+  date: '1996-03-21T19:12:50'
+  crc: '0xc4876db9'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

@@ -1,0 +1,27 @@
+filename: EdChess v3.0 (Installer) (1994)(EdTech Associates Inc.) [Strategy, Chess].zip
+tdc_id: '13299.3'
+title:
+  screen: EdChess
+publisher: EdTech Associates Inc.
+year: '1994'
+genre:
+- Strategy
+- Chess
+language: English
+date:
+  added: '2019-03-01T21:56:22'
+  last_modified: '2019-03-01T21:56:22'
+version: '3.0'
+type: zip
+installer: true
+commands:
+  play: GO.EXE
+files:
+- name: EDCHESS.DNK
+  size: 76745
+  date: '1994-05-19T18:56:12'
+  crc: '0x26c1e771'
+- name: GO.EXE
+  size: 71541
+  date: '1994-05-15T20:15:00'
+  crc: '0x4fa08f71'

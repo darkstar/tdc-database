@@ -1,0 +1,24 @@
+filename: Ylitano's Five v1.01a (1993)(Kalahann Associates & TTE Ltd.) [Strategy].zip
+tdc_id: '2911.0'
+title:
+  screen: Ylitano's Five
+publisher: Kalahann Associates & TTE Ltd.
+year: '1993'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T21:12:46'
+  last_modified: '2019-03-01T21:12:46'
+version: 1.01a
+type: zip
+commands:
+  play: five.exe
+files:
+- name: five.exe
+  size: 8273
+  date: '1997-05-30T09:32:28'
+  crc: '0xa33c6220'
+- name: five.pas
+  size: 29750
+  date: '1997-05-30T09:32:28'
+  crc: '0x53bdfe0d'

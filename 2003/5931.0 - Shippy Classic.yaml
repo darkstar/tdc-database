@@ -1,0 +1,71 @@
+filename: Shippy Classic (2003)(Ryan Broomfield) [Action].zip
+tdc_id: '5931.0'
+title:
+  screen: Shippy Classic
+publisher: Ryan Broomfield
+year: '2003'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:56:44'
+  last_modified: '2019-03-02T10:56:44'
+type: zip
+commands:
+  play: SHIPPY.EXE
+files:
+- name: DOOP.PUT
+  size: 483
+  date: '2003-05-06T23:25:22'
+  crc: '0x74f2dd77'
+- name: GAME.PAL
+  size: 768
+  date: '2001-10-06T14:10:16'
+  crc: '0x40fb8f26'
+- name: GAME.PUT
+  size: 22107
+  date: '2001-10-06T14:10:32'
+  crc: '0x7d4ae270'
+- name: MAP.DAT
+  size: 16891
+  date: '2001-02-20T23:02:42'
+  crc: '0x735795d1'
+- name: SHIP.PUT
+  size: 3127
+  date: '2003-05-07T02:19:08'
+  crc: '0x4a1f9164'
+- name: SHIPPY.BAS
+  size: 32192
+  date: '2003-05-22T01:39:04'
+  crc: '0x008e76d5'
+- name: SHIPPY.EXE
+  size: 84208
+  date: '2003-05-29T23:44:50'
+  crc: '0xac97cd01'
+- name: SHIPPY.IMG
+  size: 64007
+  date: '2003-05-07T05:46:32'
+  crc: '0xd19379f2'
+- name: SHIPPY.PAL
+  size: 768
+  date: '2003-05-07T05:46:32'
+  crc: '0xe145cc72'
+- name: SHIPR.PUT
+  size: 3127
+  date: '2003-05-07T02:20:02'
+  crc: '0x50bd728e'
+- name: SPLO.PUT
+  size: 4119
+  date: '2001-10-06T14:10:26'
+  crc: '0x9591e1f5'
+- name: engine.LIB
+  size: 4647
+  date: '2001-10-06T14:10:00'
+  crc: '0x34e97fb7'
+- name: engine.QLB
+  size: 9101
+  date: '2002-01-16T21:58:00'
+  crc: '0xc25ea389'
+- name: font.put
+  size: 3847
+  date: '2001-10-06T14:10:22'
+  crc: '0xc8866c8d'

@@ -1,0 +1,36 @@
+filename: Max Blackjack (Tandy 1000) [f1] (1989)(Brooks deForest) [Strategy, Cards].zip
+tdc_id: '11288.0'
+title:
+  screen: Max Blackjack
+  qualifier: Tandy 1000
+publisher: Brooks deForest
+year: '1989'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:28:18'
+  last_modified: '2019-03-01T18:28:18'
+type: zip
+tags:
+- Fixed: 1
+media: Download
+commands:
+  play: BASIC.EXE
+references:
+  dosid: DOS07550
+  exodos: Max Blackjack (1989).zip
+files:
+- name: BASIC.EXE
+  size: 68672
+  date: '2016-03-23T20:48:02'
+  crc: '0x0999e916'
+- name: BASICA.COM
+  size: 942
+  date: '2016-03-23T20:48:10'
+  crc: '0x5978f665'
+- name: blackjck.bas
+  size: 16524
+  date: '2016-03-25T00:07:42'
+  crc: '0x11f08ff3'

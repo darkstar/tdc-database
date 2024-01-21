@@ -1,0 +1,99 @@
+filename: Space Quest- The Lost Chapter (2001)(Vonster D Monster) [Adventure].zip
+tdc_id: '6913.0'
+title:
+  screen: 'Space Quest: The Lost Chapter'
+publisher: Vonster D Monster
+year: '2001'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-02T10:55:44'
+  last_modified: '2019-03-02T10:55:44'
+type: zip
+commands:
+  play: agi.exe
+files:
+- name: AGI
+  size: 39424
+  date: '1986-12-04T09:33:04'
+  crc: '0x40ae7b2d'
+- name: AGIDATA.OVL
+  size: 8192
+  date: '2000-06-22T19:19:52'
+  crc: '0xc5f8a09f'
+- name: CGA_GRAF.OVL
+  size: 1024
+  date: '1986-12-01T08:48:44'
+  crc: '0x838c18ac'
+- name: EGA_GRAF.OVL
+  size: 1024
+  date: '1986-12-01T08:48:46'
+  crc: '0x67e8b0ad'
+- name: HGC_GRAF.OVL
+  size: 1536
+  date: '1986-12-01T08:48:48'
+  crc: '0x7c999ac8'
+- name: HGC_OBJS.OVL
+  size: 1024
+  date: '1986-12-01T08:48:52'
+  crc: '0x4232dbd7'
+- name: IBM_OBJS.OVL
+  size: 512
+  date: '1986-12-01T08:48:50'
+  crc: '0xa0a04da4'
+- name: JR_GRAF.OVL
+  size: 512
+  date: '1986-12-01T08:48:46'
+  crc: '0xdc361ea6'
+- name: LOGDIR
+  size: 768
+  date: '2001-03-12T16:24:18'
+  crc: '0x04f5458a'
+- name: OBJECT
+  size: 847
+  date: '2001-02-05T11:20:38'
+  crc: '0x059540c8'
+- name: PICDIR
+  size: 768
+  date: '2001-03-12T16:24:20'
+  crc: '0x1f61f6d1'
+- name: README.TXT
+  size: 4294
+  date: '2001-03-02T07:54:26'
+  crc: '0x75fbdeac'
+- name: SNDDIR
+  size: 210
+  date: '2001-03-12T16:24:24'
+  crc: '0x3ce0c5b7'
+- name: VG_GRAF.OVL
+  size: 512
+  date: '1986-12-01T08:48:50'
+  crc: '0xca491b69'
+- name: VIEWDIR
+  size: 768
+  date: '2001-03-12T16:24:22'
+  crc: '0x7e65cc02'
+- name: VOL.0
+  size: 1045851
+  date: '2001-03-12T16:24:20'
+  crc: '0x0213ab8f'
+- name: VOL.1
+  size: 534525
+  date: '2001-03-12T16:24:22'
+  crc: '0xaaa86abd'
+- name: WORDS.TOK
+  size: 3434
+  date: '2001-02-08T12:36:48'
+  crc: '0xd176cf58'
+- name: agi.exe
+  size: 39424
+  date: '2001-01-01T20:59:50'
+  crc: '0x2556b0ab'
+- name: agigraf.ovl
+  size: 1024
+  date: '2001-01-01T18:53:52'
+  crc: '0x14890570'
+- name: agiobjs.ovl
+  size: 512
+  date: '1986-12-01T07:48:50'
+  crc: '0xa0a04da4'

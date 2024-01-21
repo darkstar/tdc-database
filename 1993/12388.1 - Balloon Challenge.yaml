@@ -1,0 +1,62 @@
+filename: Balloon Challenge v1.0 r930401 [SW] (1993)(Soleau Software, Inc.) [Strategy].zip
+tdc_id: '12388.1'
+title:
+  screen: Balloon Challenge
+publisher: Soleau Software, Inc.
+year: '1993'
+genre: Strategy
+language: English
+date:
+  added: '1993-04-01T16:00:00'
+  last_modified: '2023-09-22T10:30:28'
+version: '1.0'
+release: '930401'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: BALLOONC.EXE
+references:
+  mobygames: https://www.mobygames.com/game/4732/balloon-challenge/
+files:
+- name: BALLOON1.JFT
+  size: 8738
+  date: '1993-04-01T12:00:00'
+  crc: '0x75ed1c11'
+- name: BALLOON2.JFT
+  size: 3298
+  date: '1993-04-01T12:00:00'
+  crc: '0xa871ae08'
+- name: BALLOONC.DOC
+  size: 5378
+  date: '1993-04-01T12:00:00'
+  crc: '0x9ebfc3b8'
+- name: BALLOONC.EXE
+  size: 76152
+  date: '1993-04-01T12:00:00'
+  crc: '0x00fcb51e'
+- name: BALLOONC.OV0
+  size: 7672
+  date: '1993-04-01T12:00:00'
+  crc: '0xbe8025a5'
+- name: BALLOONC.OV1
+  size: 41734
+  date: '1993-04-01T12:00:00'
+  crc: '0xf9245ea8'
+- name: BALLOONC.OV2
+  size: 141
+  date: '1993-04-01T12:00:00'
+  crc: '0x16d4a9f9'
+- name: BALLOONC.OV3
+  size: 2124
+  date: '1993-04-01T12:00:00'
+  crc: '0x8a03253d'
+- name: BALL_REG.DOC
+  size: 2129
+  date: '1993-04-01T12:00:00'
+  crc: '0xa702adca'
+- name: FILE_ID.DIZ
+  size: 422
+  date: '1992-08-15T00:00:00'
+  crc: '0x4155c8bb'

@@ -1,0 +1,72 @@
+filename: V for Victory- Victory Pack v3.1 (Installer) (1993)(Three-Sixty Pacific, Inc.) [Strategy, Compilation].zip
+tdc_id: '7357.0'
+title:
+  box: 'V for Victory: Victory Pack'
+publisher: Three-Sixty Pacific, Inc.
+year: '1993'
+genre:
+- Strategy
+- Compilation
+language: English
+date:
+  added: '2019-03-01T21:11:12'
+  last_modified: '2019-03-01T21:11:12'
+version: '3.1'
+type: zip
+installer: true
+compilation: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK.1
+  size: 45
+  date: '1993-08-26T15:03:54'
+  crc: '0xe96ff408'
+- name: DISK.2
+  size: 183
+  date: '1993-08-25T17:57:40'
+  crc: '0xbaca53e1'
+- name: INSTALL.EXE
+  size: 168352
+  date: '1993-08-12T04:00:00'
+  crc: '0x48207b75'
+- name: INSTALL5.DAT
+  size: 7624
+  date: '1993-08-26T10:37:44'
+  crc: '0x78a96fdf'
+- name: PCX.000
+  size: 48655
+  date: '1993-08-26T09:54:38'
+  crc: '0x3d02dc6a'
+- name: READ.ME
+  size: 6923
+  date: '1993-08-26T11:57:14'
+  crc: '0xac6a339f'
+- name: VPAK.001
+  size: 232061
+  date: '1993-08-25T16:21:48'
+  crc: '0xc08b2c4a'
+- name: VPAK.002
+  size: 315902
+  date: '1993-08-25T16:02:40'
+  crc: '0x115c4cad'
+- name: VPAK.003
+  size: 342576
+  date: '1993-08-25T16:28:18'
+  crc: '0xf1d80aaf'
+- name: VPAK.004
+  size: 329173
+  date: '1993-08-25T16:43:06'
+  crc: '0xe8d22a93'
+- name: VPAK.005
+  size: 343012
+  date: '1993-08-25T17:07:52'
+  crc: '0x55d62a79'
+- name: VPAK.006
+  size: 30211
+  date: '1993-08-26T09:23:42'
+  crc: '0xc71e676d'
+- name: VPAK.007
+  size: 69479
+  date: '1993-08-25T17:11:38'
+  crc: '0xfd7f020a'

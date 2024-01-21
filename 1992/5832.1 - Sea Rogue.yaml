@@ -1,0 +1,73 @@
+filename: Sea Rogue v2.95 (Installer) [f1] (1992)(Microplay Software) [Simulation, Strategy].zip
+tdc_id: '5832.1'
+title:
+  box: Sea Rogue
+publisher: Microplay Software
+year: '1992'
+genre:
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2021-03-30T08:24:42'
+  last_modified: '2021-03-30T08:24:42'
+version: '2.95'
+type: zip
+tags:
+- Fixed: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK.ID
+  size: 31
+  date: '1992-02-11T15:48:56'
+  crc: '0x5c214ae0'
+- name: DISK.ID2
+  size: 31
+  date: '1992-02-11T15:49:16'
+  crc: '0x5e67f4b9'
+- name: DISK.ID3
+  size: 31
+  date: '1992-02-11T15:49:36'
+  crc: '0x5fa59e8e'
+- name: DISK.ID4
+  size: 31
+  date: '1992-02-11T15:49:58'
+  crc: '0x5aea880b'
+- name: INSTALL.DAT
+  size: 1855
+  date: '1992-03-07T15:08:50'
+  crc: '0x945cec18'
+- name: INSTALL.DA_
+  size: 1855
+  date: '1992-02-11T15:51:48'
+  crc: '0x91c79a32'
+- name: INSTALL.EXE
+  size: 81553
+  date: '1991-09-26T03:11:06'
+  crc: '0xd98937f2'
+- name: WBIT.001
+  size: 913726
+  date: '1992-02-21T10:42:12'
+  crc: '0x8007fc50'
+- name: WDATEXE.001
+  size: 1102647
+  date: '1992-02-25T16:35:36'
+  crc: '0x36961a63'
+- name: WDATEXE.002
+  size: 243989
+  date: '1992-02-21T10:33:58'
+  crc: '0xbe77bb05'
+- name: WSSB.001
+  size: 945963
+  date: '1992-02-21T10:36:24'
+  crc: '0x2d68b0ee'
+- name: WSSB.002
+  size: 461782
+  date: '1992-02-21T10:37:34'
+  crc: '0xbe0536b3'
+- name: WSSP.001
+  size: 681887
+  date: '1992-02-21T10:39:26'
+  crc: '0xf0529394'

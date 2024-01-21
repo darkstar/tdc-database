@@ -1,0 +1,71 @@
+filename: Untima IX - Descension v0.53 (1995)(Garrett Birkel) [Role-Playing (RPG)].zip
+tdc_id: '7337.0'
+title:
+  screen: Untima IX - Descension
+publisher: Garrett Birkel
+year: '1995'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2020-12-13T11:10:50'
+  last_modified: '2020-12-13T11:10:50'
+version: '0.53'
+type: zip
+commands:
+  play: Untima9.exe
+references:
+  dosid: DOS05441
+  exodos: Untima IX - Descension (2003).zip
+files:
+- name: Hints!.doc
+  size: 12288
+  date: '1996-06-18T13:03:54'
+  crc: '0x1ba756c2'
+- name: U9array1.bin
+  size: 64768
+  date: '1996-08-19T19:33:00'
+  crc: '0x63fd15f7'
+- name: U9array2.bin
+  size: 41802
+  date: '1996-08-10T19:10:48'
+  crc: '0x68e98549'
+- name: U9contrl.bin
+  size: 40074
+  date: '1996-08-10T19:12:26'
+  crc: '0x0d0f6e47'
+- name: U9dialog.bin
+  size: 42054
+  date: '1996-01-08T22:15:06'
+  crc: '0x51ff95c0'
+- name: U9items.bin
+  size: 36542
+  date: '1995-11-04T23:34:40'
+  crc: '0x91a19e37'
+- name: U9monstr.bin
+  size: 40946
+  date: '1996-07-15T14:16:44'
+  crc: '0xc83511dd'
+- name: U9pack.bin
+  size: 33958
+  date: '1996-08-10T19:14:04'
+  crc: '0x62f57232'
+- name: U9people.bin
+  size: 42300
+  date: '1995-11-13T21:01:38'
+  crc: '0xd1b528e5'
+- name: Unt9blox.bin
+  size: 16384
+  date: '1995-07-24T13:45:44'
+  crc: '0x4771269f'
+- name: Unt9new.bin
+  size: 32768
+  date: '1996-07-06T23:44:18'
+  crc: '0x7460e181'
+- name: Unt9titl.bin
+  size: 40906
+  date: '1995-11-04T23:31:56'
+  crc: '0x96dfb082'
+- name: Untima9.exe
+  size: 88574
+  date: '1997-01-23T04:08:04'
+  crc: '0x329dea24'

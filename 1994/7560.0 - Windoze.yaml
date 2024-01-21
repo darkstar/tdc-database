@@ -1,0 +1,63 @@
+filename: Windoze [FW] (1994)(Lenny Boreal) [Action, Strategy].zip
+tdc_id: '7560.0'
+title:
+  screen: Windoze
+publisher: Lenny Boreal
+year: '1994'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-02T07:19:30'
+  last_modified: '2019-03-02T07:19:30'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: WINDOZE.EXE
+references:
+  dosid: DOS06630
+  exodos: Windoze (1994).zip
+files:
+- name: LOADLBM.XPL
+  size: 6378
+  date: '1994-09-29T16:16:56'
+  crc: '0x5df193ae'
+- name: MOVIMAGE.ASM
+  size: 2159
+  date: '1994-09-29T16:18:20'
+  crc: '0xb0c337ae'
+- name: SETPAL.ASM
+  size: 1333
+  date: '1994-09-29T16:19:20'
+  crc: '0x1c082fd8'
+- name: WINDOZE.DAT
+  size: 263
+  date: '1980-01-01T00:00:00'
+  crc: '0x39ab2967'
+- name: WINDOZE.DOC
+  size: 3412
+  date: '1994-10-05T10:38:46'
+  crc: '0x8a872bd6'
+- name: WINDOZE.EXE
+  size: 39480
+  date: '1994-10-03T19:17:42'
+  crc: '0xaf9da7e0'
+- name: WINDOZE.F14
+  size: 3584
+  date: '1994-08-28T13:20:48'
+  crc: '0x0766a021'
+- name: WINDOZE.XPL
+  size: 20528
+  date: '1994-10-03T19:17:34'
+  crc: '0x6040ae18'
+- name: WINDOZE1.LBM
+  size: 111700
+  date: '1994-09-21T21:04:38'
+  crc: '0xf47c5cc8'
+- name: WINDOZE2.LBM
+  size: 21854
+  date: '1994-09-29T16:31:06'
+  crc: '0x749b1edd'

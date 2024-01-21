@@ -1,0 +1,31 @@
+filename: Adventure, The (1988)(C-Tek industries) [Adventure].zip
+tdc_id: '1467.0'
+title:
+  screen: The Adventure
+publisher: C-Tek industries
+year: '1988'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:25:52'
+  last_modified: '2019-03-01T18:25:52'
+type: zip
+media: Download
+commands:
+  play: START.BAT
+references:
+  dosid: DOS07241
+  exodos: Adventure, The (1988).zip
+files:
+- name: ADVENTUR.BAS
+  size: 16413
+  date: '2005-04-14T23:40:24'
+  crc: '0xc7870544'
+- name: GWBASIC.EXE
+  size: 80592
+  date: '1998-06-16T02:32:16'
+  crc: '0x8462d0e4'
+- name: START.BAT
+  size: 37
+  date: '2007-02-01T07:58:30'
+  crc: '0x4d8fab57'

@@ -1,0 +1,43 @@
+filename: Twilight- 2000 (EGA) (Installer) (1991)(MicroProse Software, Inc.) [Role-Playing (RPG), Strategy].zip
+tdc_id: '16999.1'
+title:
+  box: 'Twilight: 2000'
+  qualifier: EGA
+publisher: MicroProse Software, Inc.
+year: '1991'
+genre:
+- Role-Playing (RPG)
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:39:54'
+  last_modified: '2019-03-01T18:39:54'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK1.TWI
+  size: 314850
+  date: '1991-12-17T10:55:06'
+  crc: '0x2b73100f'
+- name: DISK2.TWI
+  size: 362496
+  date: '1991-12-17T10:54:22'
+  crc: '0x45649495'
+- name: DISK3.TWI
+  size: 362496
+  date: '1991-12-17T10:54:42'
+  crc: '0x663e9085'
+- name: DISK4.TWI
+  size: 328621
+  date: '1991-12-17T10:55:04'
+  crc: '0x183dbbcf'
+- name: INSTALL.EXE
+  size: 14442
+  date: '1991-12-17T05:26:26'
+  crc: '0x03859b8f'
+- name: README.COM
+  size: 26350
+  date: '1991-12-17T05:10:40'
+  crc: '0x30ededd4'

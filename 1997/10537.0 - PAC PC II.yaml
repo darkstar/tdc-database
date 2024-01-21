@@ -1,0 +1,99 @@
+filename: PAC PC II v2.00A (1997)(JROK) [Action].zip
+tdc_id: '10537.0'
+title:
+  screen: PAC PC II
+publisher: JROK
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:36:04'
+  last_modified: '2019-03-02T10:36:04'
+version: 2.00A
+type: zip
+commands:
+  play: PACPC2.EXE
+references:
+  dosid: DOS03890
+  exodos: Pac PC II (1995).zip
+files:
+- name: BACKGND
+  size: 6378
+  date: '1996-09-29T09:32:28'
+  crc: '0x9cb11d61'
+- name: BACKGND2
+  size: 5858
+  date: '1996-11-14T15:19:46'
+  crc: '0x88e4b92d'
+- name: BACKGND3
+  size: 5254
+  date: '1996-11-14T15:19:36'
+  crc: '0x186a72cd'
+- name: BACKGND4
+  size: 4722
+  date: '1996-11-14T15:08:00'
+  crc: '0x4059b68b'
+- name: BACKGND5
+  size: 4292
+  date: '1996-11-14T19:13:18'
+  crc: '0x33ab2581'
+- name: CHOMP
+  size: 2024
+  date: '1995-11-14T17:22:02'
+  crc: '0x54a4850d'
+- name: EAT1A
+  size: 4706
+  date: '1996-09-29T09:26:14'
+  crc: '0xd6c323b0'
+- name: EAT1B
+  size: 5948
+  date: '1996-09-29T09:50:30'
+  crc: '0xbc814aae'
+- name: EATFR
+  size: 11332
+  date: '1996-10-08T09:13:48'
+  crc: '0xfdbc1932'
+- name: EATGH
+  size: 12856
+  date: '1996-10-08T06:46:04'
+  crc: '0xe067171d'
+- name: EXLIFE
+  size: 35010
+  date: '1996-02-15T20:17:48'
+  crc: '0x3454cfe5'
+- name: FRTB
+  size: 2456
+  date: '1995-11-14T19:16:12'
+  crc: '0x88a986ba'
+- name: M1
+  size: 84568
+  date: '1996-10-02T08:42:30'
+  crc: '0x41923625'
+- name: PACDIE
+  size: 27818
+  date: '1996-10-08T09:15:18'
+  crc: '0xeeba2a68'
+- name: PACPC2.DOC
+  size: 7438
+  date: '1997-12-13T22:51:10'
+  crc: '0xb4317f93'
+- name: PACPC2.EXE
+  size: 220648
+  date: '1997-01-03T18:15:18'
+  crc: '0x0762977c'
+- name: PM_MAZE
+  size: 1024
+  date: '1996-09-22T05:15:16'
+  crc: '0x1e421ed6'
+- name: POWERUP
+  size: 4344
+  date: '1996-10-08T09:43:06'
+  crc: '0xee5a5458'
+- name: POWUP2
+  size: 4228
+  date: '1996-09-29T09:33:06'
+  crc: '0x07101581'
+- name: TITLE
+  size: 69922
+  date: '1996-09-29T07:06:10'
+  crc: '0xdb459f86'

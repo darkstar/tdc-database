@@ -1,0 +1,70 @@
+filename: Schatz im Silbersee, Der (Installer) (De) (1993)(Software 2000) [Adventure][!].zip
+tdc_id: '5780.1'
+title:
+  box: Der Schatz im Silbersee
+publisher: Software 2000
+year: '1993'
+genre: Adventure
+language: German
+date:
+  added: '2022-05-08T08:52:04'
+  last_modified: '2022-05-08T08:52:04'
+type: zip
+tags:
+- KnownGood
+installer: true
+files:
+- name: DISK.INF
+  size: 8
+  date: '1993-10-12T10:07:28'
+  crc: '0xf22e33b2'
+- name: DISK.IN_
+  size: 8
+  date: '1993-10-12T10:07:28'
+  crc: '0xbfe692b9'
+- name: DISK2\
+  size: 0
+  date: '1993-10-12T10:05:54'
+- name: DISK2\DISK.INF
+  size: 8
+  date: '1993-10-12T10:04:22'
+  crc: '0xf2f0d316'
+- name: DISK2\RESOURCE.DAT
+  size: 1456128
+  date: '1993-10-12T10:05:54'
+  crc: '0x5df30eb4'
+- name: DISK3\
+  size: 0
+  date: '1993-10-12T10:07:10'
+- name: DISK3\DISK.INF
+  size: 8
+  date: '1993-10-12T10:06:10'
+  crc: '0x54a15609'
+- name: DISK3\RESOURCE.DAT
+  size: 946928
+  date: '1993-10-12T10:07:10'
+  crc: '0xcab0cf3f'
+- name: INSTALL.BAT
+  size: 118
+  date: '1980-01-01T13:00:00'
+  crc: '0xe8cdd1a3'
+- name: INSTALL.EXE
+  size: 9770
+  date: '1993-10-12T10:25:58'
+  crc: '0x3127cf52'
+- name: LHA.DOC
+  size: 31840
+  date: '1992-11-21T13:54:18'
+  crc: '0xf15fa52f'
+- name: LHA.EXE
+  size: 34283
+  date: '1992-11-21T13:54:18'
+  crc: '0x2c68a172'
+- name: RESOURCE.DAT
+  size: 3782384
+  date: '1993-10-12T10:04:06'
+  crc: '0x5295c5f1'
+- name: RESOURCE.DA_
+  size: 1379328
+  date: '1993-10-12T10:04:06'
+  crc: '0xfbd9d275'

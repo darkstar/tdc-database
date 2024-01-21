@@ -1,0 +1,44 @@
+filename: Global Thermonuclear War (PCjr or Tandy BASIC) (1985)(PC-SIG) [Strategy].zip
+tdc_id: '14074.1'
+title:
+  screen: Global Thermonuclear War
+  qualifier: PCjr or Tandy BASIC
+publisher: PC-SIG
+year: '1985'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:24:26'
+  last_modified: '2019-03-01T18:24:26'
+type: zip
+requirements:
+  cpu:
+    min: '8088'
+references:
+  dosid: DOS16019
+  exodos: Global Thermonuclear War (1985).zip
+files:
+- name: BASIC.EXE
+  size: 79232
+  date: '1988-09-13T15:00:00'
+  crc: '0xa0274038'
+- name: BASICA.COM
+  size: 969
+  date: '1988-09-13T15:00:00'
+  crc: '0x2185872d'
+- name: MAP
+  size: 6572
+  date: '1985-01-24T19:43:28'
+  crc: '0x4f04df08'
+- name: RUN.BAT
+  size: 12
+  date: '2014-04-01T23:01:14'
+  crc: '0x41435ec3'
+- name: WAR.BAS
+  size: 30962
+  date: '1985-03-24T16:10:04'
+  crc: '0x420c76be'
+- name: WAR.DOC
+  size: 2664
+  date: '1985-03-23T17:50:24'
+  crc: '0x8faf0804'

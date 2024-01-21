@@ -1,0 +1,143 @@
+filename: UMoria v5.52 (1994)(James E. Wilson) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '17027.4'
+title:
+  screen: UMoria
+publisher: James E. Wilson
+year: '1994'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-02T07:18:56'
+  last_modified: '2019-03-02T07:18:56'
+version: '5.52'
+type: zip
+commands:
+  play: umoria.exe
+references:
+  dosid: DOS03632
+  exodos: Moria (1992).zip
+files:
+- name: CWSDPMI.DOC
+  size: 7186
+  date: '1996-08-07T22:35:14'
+  crc: '0x9e137891'
+- name: CWSDPMI.EXE
+  size: 20217
+  date: '1996-08-18T18:46:18'
+  crc: '0x6ba5fa62'
+- name: MORIA.CNF
+  size: 2798
+  date: '1997-09-08T11:53:20'
+  crc: '0x6d49947e'
+- name: Read.Me
+  size: 2261
+  date: '1997-09-08T11:57:08'
+  crc: '0xf25bc8b7'
+- name: doc\
+  size: 0
+  date: '2004-05-09T18:32:04'
+- name: doc\ERRORS
+  size: 746
+  date: '1994-07-21T22:36:20'
+  crc: '0x76e63128'
+- name: doc\FEATURES.NEW
+  size: 12043
+  date: '1994-07-21T22:36:20'
+  crc: '0x7a33796e'
+- name: doc\README
+  size: 1511
+  date: '1994-07-21T22:36:20'
+  crc: '0x2d852e16'
+- name: doc\dragon.inf
+  size: 2517
+  date: '1994-07-21T22:36:20'
+  crc: '0xa0c66358'
+- name: doc\exp.doc
+  size: 6074
+  date: '1994-07-21T22:36:20'
+  crc: '0x016ad323'
+- name: doc\faq
+  size: 28276
+  date: '1994-07-22T02:07:46'
+  crc: '0x7a3d1f6e'
+- name: doc\history
+  size: 6788
+  date: '1994-07-21T22:36:18'
+  crc: '0x87bc24b6'
+- name: doc\moria.6
+  size: 3509
+  date: '1994-07-21T22:36:20'
+  crc: '0x4aa5ada3'
+- name: doc\moria.man
+  size: 3544
+  date: '1994-07-21T22:36:20'
+  crc: '0x5d6132ca'
+- name: doc\moria1.ms
+  size: 55307
+  date: '1994-07-21T22:36:18'
+  crc: '0x02a26348'
+- name: doc\moria1.txt
+  size: 49264
+  date: '1994-07-21T22:36:22'
+  crc: '0xa1470b23'
+- name: doc\moria2.ms
+  size: 26698
+  date: '1994-07-21T22:36:20'
+  crc: '0xc171c33b'
+- name: doc\moria2.txt
+  size: 58383
+  date: '1994-07-21T22:36:24'
+  crc: '0x18dca6cf'
+- name: doc\pronounc
+  size: 2553
+  date: '1994-07-21T22:36:18'
+  crc: '0x417e1f89'
+- name: doc\spells.doc
+  size: 11528
+  date: '1994-07-21T22:36:18'
+  crc: '0xf7655cde'
+- name: doc\where.inf
+  size: 4339
+  date: '1994-07-21T22:36:20'
+  crc: '0x9465af10'
+- name: hours
+  size: 350
+  date: '1994-07-21T22:36:16'
+  crc: '0x06233693'
+- name: news
+  size: 767
+  date: '1997-09-08T11:29:00'
+  crc: '0xa8e6fc8b'
+- name: origcmds.hlp
+  size: 2852
+  date: '1994-07-21T22:36:16'
+  crc: '0x41cae7a6'
+- name: owizcmds.hlp
+  size: 376
+  date: '1994-07-21T22:36:16'
+  crc: '0xd99dfb04'
+- name: roglcmds.hlp
+  size: 3049
+  date: '1994-07-21T22:36:18'
+  crc: '0x23014710'
+- name: rwizcmds.hlp
+  size: 376
+  date: '1994-07-21T22:36:18'
+  crc: '0x422be4f2'
+- name: scores
+  size: 0
+  date: '1997-09-08T11:25:52'
+- name: umoria.exe
+  size: 404992
+  date: '1997-09-08T11:54:18'
+  crc: '0x4bc92a0e'
+- name: version.hlp
+  size: 2242
+  date: '1997-09-08T11:27:42'
+  crc: '0x1c3940e0'
+- name: welcome.hlp
+  size: 423
+  date: '1994-07-21T22:36:16'
+  crc: '0x3dcdf30c'

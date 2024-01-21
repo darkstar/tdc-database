@@ -1,0 +1,28 @@
+filename: Ship (1998)(Anonymous) [Action].zip
+tdc_id: '5938.0'
+title:
+  screen: Ship
+publisher: Anonymous
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:44:32'
+  last_modified: '2019-03-02T10:44:32'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 24
+  date: '2018-12-18T11:14:46'
+  crc: '0x1066ae70'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: SHIP.BAS
+  size: 8601
+  date: '1998-09-21T01:47:54'
+  crc: '0x0f3080f7'

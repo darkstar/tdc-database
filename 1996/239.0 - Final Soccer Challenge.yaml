@@ -1,0 +1,73 @@
+filename: Final Soccer Challenge [FW] (1996)(Martin Magnusson, Mattias Brynervall) [Action].zip
+tdc_id: '239.0'
+title:
+  screen: Final Soccer Challenge
+publisher: Martin Magnusson, Mattias Brynervall
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2020-04-01T08:32:16'
+  last_modified: '2020-04-01T08:32:16'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: SOCCER.EXE
+references:
+  dosid: DOS15392
+  exodos: Final Soccer Challenge (1996).zip
+files:
+- name: CROWD.SMP
+  size: 20209
+  date: '1998-01-19T08:45:26'
+  crc: '0x43a64d0c'
+- name: END.DAT
+  size: 2880
+  date: '1996-10-30T22:00:40'
+  crc: '0x3ba37683'
+- name: FILE_ID.DIZ
+  size: 354
+  date: '1994-08-12T02:36:56'
+  crc: '0x425a4595'
+- name: FONT.MPF
+  size: 6476
+  date: '1996-10-24T21:15:06'
+  crc: '0x0f357062'
+- name: KICK.SMP
+  size: 1338
+  date: '1998-01-19T08:45:26'
+  crc: '0xaa8cddcf'
+- name: MENU.DAT
+  size: 15704
+  date: '1996-10-29T08:11:08'
+  crc: '0xf2956d1c'
+- name: MENU.SMP
+  size: 4352
+  date: '1998-01-19T08:45:26'
+  crc: '0xa73c27b9'
+- name: PLAN.DAT
+  size: 63059
+  date: '1996-10-29T08:11:42'
+  crc: '0xf3f6a283'
+- name: POBS.MPF
+  size: 6517
+  date: '1996-10-28T15:29:48'
+  crc: '0xc919dd14'
+- name: README.TXT
+  size: 3458
+  date: '1996-10-30T22:08:10'
+  crc: '0xea1ae5cd'
+- name: SOCCER.EXE
+  size: 59302
+  date: '1996-10-30T22:01:52'
+  crc: '0xbbaea3f6'
+- name: STUDS.SMP
+  size: 3312
+  date: '1998-01-19T08:45:26'
+  crc: '0x82b48e43'
+- name: WHISTLE.SMP
+  size: 4926
+  date: '1998-01-19T08:45:26'
+  crc: '0x861f0a6c'

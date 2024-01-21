@@ -1,0 +1,33 @@
+filename: Outer Ridge (Installer) (De)(En) [SW] (1995)(Wizard Software) [Action].zip
+tdc_id: '5368.2'
+title:
+  screen: Outer Ridge
+publisher: Wizard Software
+year: '1995'
+genre: Action
+language:
+- English
+- German
+date:
+  added: '2016-08-20T12:07:32'
+  last_modified: '2016-08-20T12:07:32'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 452
+  date: '1995-03-22T19:43:04'
+  crc: '0x289cd6f4'
+- name: INSTALL.EXE
+  size: 16818
+  date: '1995-03-23T20:11:02'
+  crc: '0x35cd6fbc'
+- name: OUTRIDGE.001
+  size: 1009672
+  date: '1995-03-24T21:45:52'
+  crc: '0xe20d4604'

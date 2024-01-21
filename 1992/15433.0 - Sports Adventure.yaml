@@ -1,0 +1,75 @@
+filename: Sports Adventure (Installer) (1992)(Knowledge Adventure, Inc.) [Educational].zip
+tdc_id: '15433.0'
+title:
+  box: Sports Adventure
+publisher: Knowledge Adventure, Inc.
+year: '1992'
+genre: Educational
+language: English
+date:
+  added: '2021-03-31T13:20:28'
+  last_modified: '2021-03-31T13:20:28'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: IMAGES2.DAT
+  size: 710432
+  date: '1992-01-06T23:09:16'
+  crc: '0x019d9688'
+- name: IMAGES3.DAT
+  size: 704479
+  date: '1992-01-06T23:10:42'
+  crc: '0xed61691f'
+- name: IMAGES4.DAT
+  size: 707254
+  date: '1992-01-06T23:11:40'
+  crc: '0x2b38a5bb'
+- name: IMAGES5.DAT
+  size: 704717
+  date: '1992-01-06T23:12:48'
+  crc: '0x2d4ad9fb'
+- name: IMAGES6.DAT
+  size: 702549
+  date: '1992-01-06T23:13:58'
+  crc: '0x6e3e6c58'
+- name: IMAGES7.DAT
+  size: 582981
+  date: '1992-01-06T23:16:00'
+  crc: '0xe545dc95'
+- name: INSTALL.EXE
+  size: 49496
+  date: '1992-01-06T21:26:52'
+  crc: '0x10abd93e'
+- name: SADVCDOX.TXT
+  size: 27621
+  date: '1997-12-14T18:17:18'
+  crc: '0x26c279e3'
+- name: SA\
+  size: 0
+  date: '1997-12-14T18:15:30'
+- name: SA\IMAGES1.DAT
+  size: 68092
+  date: '1992-01-06T23:08:04'
+  crc: '0x0c351f40'
+- name: SA\INSTALL.FNT
+  size: 1624
+  date: '1990-08-01T01:02:00'
+  crc: '0xd573b182'
+- name: SA\INSTALL1.DAT
+  size: 33392
+  date: '1992-01-06T22:46:42'
+  crc: '0xb0aae2ed'
+- name: SA\INSTALL2.DAT
+  size: 38014
+  date: '1992-01-06T22:47:20'
+  crc: '0xcef6e7d4'
+- name: SA\SA.DAT
+  size: 507543
+  date: '1992-01-06T20:52:18'
+  crc: '0x1d184cb4'
+- name: SA\TRANSFER.EXE
+  size: 19396
+  date: '1991-09-26T20:08:30'
+  crc: '0x73cb8ad6'

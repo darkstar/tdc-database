@@ -1,0 +1,47 @@
+filename: Despair 2 (Installer) [SW] (1995)(U-NEEK Software) [Action].zip
+tdc_id: '13101.0'
+title:
+  screen: Despair 2
+publisher: U-NEEK Software
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2011-06-14T12:35:08'
+  last_modified: '2011-06-14T12:35:08'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 298
+  date: '1995-09-28T10:33:52'
+  crc: '0x863bd6ea'
+- name: INSTALL.EXE
+  size: 80564
+  date: '1995-09-18T01:11:38'
+  crc: '0xc40ae4ca'
+- name: INSTALL.INI
+  size: 998
+  date: '1995-09-18T01:20:30'
+  crc: '0x9b0c31d2'
+- name: PACK1.PRG
+  size: 1375232
+  date: '1995-09-18T01:13:16'
+  crc: '0x844f6298'
+- name: PACK2.PRG
+  size: 1457152
+  date: '1995-09-18T01:15:26'
+  crc: '0x5ce54c21'
+- name: PACK3.PRG
+  size: 1457152
+  date: '1995-09-18T01:17:26'
+  crc: '0x83486d2d'
+- name: PACK4.PRG
+  size: 1384249
+  date: '1995-09-18T01:19:58'
+  crc: '0x886e8d9e'

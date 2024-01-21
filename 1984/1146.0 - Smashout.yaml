@@ -1,0 +1,30 @@
+filename: Smashout (1984)(Tim McClarren) [Action].zip
+tdc_id: '1146.0'
+title:
+  screen: Smashout
+publisher: Tim McClarren
+year: '1984'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:16'
+  last_modified: '2019-03-01T18:24:16'
+type: zip
+commands:
+  play: SMASHOUT.BAT
+references:
+  dosid: DOS07083
+  exodos: Smashout (1984).zip
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: SMASHOUT.BAS
+  size: 8064
+  date: '1984-01-28T21:25:32'
+  crc: '0x6af9bffc'
+- name: SMASHOUT.BAT
+  size: 19
+  date: '2014-12-18T18:01:22'
+  crc: '0x90dc695b'

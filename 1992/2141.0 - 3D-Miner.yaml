@@ -1,0 +1,39 @@
+filename: 3D-Miner (De) (1992)(Digital Challenge) [Strategy].zip
+tdc_id: '2141.0'
+title:
+  screen: 3D-Miner
+publisher: Digital Challenge
+year: '1992'
+genre: Strategy
+language: German
+date:
+  added: '2019-03-01T18:40:46'
+  last_modified: '2019-03-01T18:40:46'
+type: zip
+commands:
+  play: 3DM.EXE
+files:
+- name: 3DM.DAT
+  size: 22
+  date: '2018-02-26T18:17:56'
+  crc: '0x2bb5345c'
+- name: 3DM.DOC
+  size: 1488
+  date: '2018-02-26T18:17:58'
+  crc: '0x6174d511'
+- name: 3DM.EXE
+  size: 52703
+  date: '2018-02-26T18:18:00'
+  crc: '0xe3f7e046'
+- name: 3DM.HAI
+  size: 720
+  date: '2018-02-26T18:17:58'
+  crc: '0xbe83df4e'
+- name: 3DM.PIC
+  size: 64000
+  date: '2018-02-26T18:17:58'
+  crc: '0xd750b8a5'
+- name: VGA256.BGI
+  size: 3289
+  date: '2018-02-26T18:17:56'
+  crc: '0x55f0b0ba'

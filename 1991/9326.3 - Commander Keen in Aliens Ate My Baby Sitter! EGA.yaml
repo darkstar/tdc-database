@@ -1,0 +1,36 @@
+filename: Commander Keen in Aliens Ate My Baby Sitter! EGA (1991)(FormGen Corporation, Inc.) [Action].zip
+tdc_id: '9326.3'
+parent_id: '9326.6'
+title:
+  box: Commander Keen in Aliens Ate My Baby Sitter! EGA
+publisher: FormGen Corporation, Inc.
+year: '1991'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:35:16'
+  last_modified: '2019-03-01T18:35:16'
+type: zip
+commands:
+  play: KEEN6.EXE
+files:
+- name: AUDIO.CK6
+  size: 56265
+  date: '1991-11-15T08:16:06'
+  crc: '0x472e62f3'
+- name: EGAGRAPH.CK6
+  size: 457309
+  date: '1991-11-15T08:16:06'
+  crc: '0xfe555279'
+- name: GAMEMAPS.CK6
+  size: 95421
+  date: '1991-11-15T08:16:06'
+  crc: '0x40f298f8'
+- name: KEEN6.EXE
+  size: 104938
+  date: '1991-11-15T08:16:06'
+  crc: '0x4588e2af'
+- name: KEEN6.EX_
+  size: 104938
+  date: '1991-11-15T08:16:06'
+  crc: '0xec76900b'

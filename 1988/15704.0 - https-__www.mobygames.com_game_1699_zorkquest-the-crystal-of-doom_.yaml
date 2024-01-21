@@ -1,0 +1,34 @@
+filename: ZorkQuest- The Crystal Of Doom [DC] (1988)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '15704.0'
+parent_id: '15704.2'
+title:
+  box: 'ZorkQuest: The Crystal Of Doom'
+  screen: https://www.mobygames.com/game/1699/zorkquest-the-crystal-of-doom/
+publisher: Infocom, Inc.
+year: '1988'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2021-08-13T08:17:28'
+  last_modified: '2023-08-03T13:48:51'
+type: zip
+tags:
+- DOSConversion
+media: 360K
+commands:
+  play: ZQ2.COM
+references:
+  mobygames: https://www.mobygames.com/game/1699/zorkquest-the-crystal-of-doom/
+  dosid: DOS06017
+  exodos: ZorkQuest - The Crystal of Doom (1989).zip
+files:
+- name: ZQ2.360
+  size: 368640
+  date: '2006-09-01T12:04:52'
+  crc: '0xb5df5b73'
+- name: ZQ2.COM
+  size: 586
+  date: '2006-09-01T12:04:52'
+  crc: '0xbcec291e'

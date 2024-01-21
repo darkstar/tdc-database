@@ -1,0 +1,50 @@
+filename: CHAMP Pac-em v1.5 [SWR] (1997)(CHAMProgramming Corporation) [Action].zip
+tdc_id: '12074.2'
+parent_id: '12074.1'
+title:
+  screen: CHAMP Pac-em
+publisher: CHAMProgramming Corporation
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2020-08-18T22:48:44'
+  last_modified: '2020-08-18T22:48:44'
+version: '1.5'
+type: zip
+tags:
+- SharewareRegistered
+commands:
+  play: PACEM.EXE
+references:
+  dosid: DOS01345
+  exodos: CHAMP Pac-em (1996).zip
+files:
+- name: ORDER.TXT
+  size: 5377
+  date: '1997-10-04T10:23:16'
+  crc: '0x1f3c5cf2'
+- name: PACEM.EXE
+  size: 214020
+  date: '1997-10-13T15:55:32'
+  crc: '0x5fdb4fa5'
+- name: PACEM.HLP
+  size: 63557
+  date: '1997-10-11T11:51:28'
+  crc: '0x223f3367'
+- name: PACEM.ICO
+  size: 766
+  date: '1997-08-05T00:29:32'
+  crc: '0x1bed4586'
+- name: PACEM.RES
+  size: 199409
+  date: '1997-10-11T11:51:30'
+  crc: '0xf508d0f3'
+- name: PACEM.TXT
+  size: 14065
+  date: '1997-10-13T12:11:32'
+  crc: '0x6b6a657c'
+- name: WHATSNEW.TXT
+  size: 722
+  date: '1997-10-12T23:13:26'
+  crc: '0x3ac72ea3'

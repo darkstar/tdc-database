@@ -1,0 +1,30 @@
+filename: Joe's Stock Game [FW] (1998)(Joe) [Strategy].zip
+tdc_id: '9754.0'
+title:
+  screen: Joe's Stock Game
+publisher: Joe
+year: '1998'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:41:52'
+  last_modified: '2023-10-24T12:04:10'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: PLAY.BAT
+files:
+- name: PLAY.BAT
+  size: 19
+  date: '2016-07-07T17:31:04'
+  crc: '0x3d3f347a'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-08T17:28:02'
+  crc: '0x19f6ed75'
+- name: stock.bas
+  size: 8536
+  date: '2016-02-21T21:09:50'
+  crc: '0x31ab4e40'

@@ -1,0 +1,35 @@
+filename: C-Master (2005)(Tim Carlisle) [Action].zip
+tdc_id: '881.0'
+title:
+  screen: C-Master
+publisher: Tim Carlisle
+year: '2005'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:57:02'
+  last_modified: '2019-03-02T10:57:02'
+type: zip
+commands:
+  play: CMASTERE.EXE
+files:
+- name: CMASTERE.BAS
+  size: 5556
+  date: '2005-08-01T13:31:10'
+  crc: '0x9fee7fee'
+- name: CMASTERE.EXE
+  size: 44420
+  date: '2005-08-01T13:31:20'
+  crc: '0xf4779555'
+- name: MAPEDIT.BAS
+  size: 1913
+  date: '2005-08-01T13:55:14'
+  crc: '0xa02ebe36'
+- name: MAPONE.MAP
+  size: 347
+  date: '2005-08-01T13:31:08'
+  crc: '0x3d8a6cfc'
+- name: README.txt
+  size: 920
+  date: '2005-08-01T13:58:42'
+  crc: '0xb5f44ce5'

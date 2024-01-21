@@ -1,0 +1,36 @@
+filename: Micropede v1.40 (1994)(Robert B. Easter) [Action].zip
+tdc_id: '7701.1'
+title:
+  screen: Micropede
+publisher: Robert B. Easter
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2013-11-12T21:53:48'
+  last_modified: '2013-11-12T21:53:48'
+version: '1.40'
+type: zip
+media: Download
+commands:
+  play: MPEDE14.EXE
+references:
+  dosid: DOS06957
+  exodos: Micropede (1994).zip
+files:
+- name: FILE_ID.DIZ
+  size: 125
+  date: '1994-06-25T01:40:00'
+  crc: '0xa99bb933'
+- name: MPEDE.DOC
+  size: 15093
+  date: '1996-03-11T17:53:04'
+  crc: '0x0b1ce2bf'
+- name: MPEDE14.EXE
+  size: 69266
+  date: '1994-06-25T01:40:00'
+  crc: '0x4805c5e3'
+- name: MPEDE14.PIC
+  size: 19828
+  date: '1994-06-25T01:40:00'
+  crc: '0x95e79958'

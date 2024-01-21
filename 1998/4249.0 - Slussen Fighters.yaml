@@ -1,0 +1,28 @@
+filename: Slussen Fighters (1998)(Otso Kassinen) [Action].zip
+tdc_id: '4249.0'
+title:
+  screen: Slussen Fighters
+publisher: Otso Kassinen
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:44:34'
+  last_modified: '2019-03-02T10:44:34'
+type: zip
+media: Download
+commands:
+  play: start.bat
+files:
+- name: QBASIC.EXE
+  size: 194309
+  date: '1995-07-11T10:50:00'
+  crc: '0x3152911c'
+- name: SLUSFIGH.BAS
+  size: 116750
+  date: '1998-07-07T23:57:08'
+  crc: '0x3903fc5c'
+- name: start.bat
+  size: 26
+  date: '2014-03-20T07:16:26'
+  crc: '0x94b6d3cd'

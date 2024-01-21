@@ -1,0 +1,50 @@
+filename: ACE- Air Combat Emulator (1987)(Spinnaker Software Corporation) [Simulation].zip
+tdc_id: '8026.0'
+title:
+  box: 'ACE: Air Combat Emulator'
+publisher: Spinnaker Software Corporation
+year: '1987'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:25:06'
+  last_modified: '2019-03-01T18:25:06'
+type: zip
+commands:
+  play: ACE.EXE
+references:
+  dosid: DOS00491
+  exodos: ACE Air Combat Emulator (1986).zip
+files:
+- name: ACE.DAT
+  size: 16384
+  date: '1987-06-22T12:04:54'
+  crc: '0xcecbca4a'
+- name: ACE.EXE
+  size: 30146
+  date: '2001-12-16T22:01:50'
+  crc: '0xe29c89b7'
+- name: ACE.EX_
+  size: 30146
+  date: '1987-08-26T17:07:10'
+  crc: '0x2f2229cf'
+- name: ACE.PAN
+  size: 16384
+  date: '1987-08-25T12:52:44'
+  crc: '0x815beb1b'
+- name: README.DOC
+  size: 520
+  date: '2001-12-16T17:26:00'
+  crc: '0x9759eb7b'
+- name: SCORE.DAT
+  size: 155
+  date: '1987-07-04T20:00:00'
+  crc: '0x95da22bd'
+- name: SCREEN.DAT
+  size: 16512
+  date: '1987-07-07T11:23:10'
+  crc: '0xcd8e1fad'
+- name: SPRITE.DAT
+  size: 9216
+  date: '1987-06-23T12:34:48'
+  crc: '0xbc1e563a'

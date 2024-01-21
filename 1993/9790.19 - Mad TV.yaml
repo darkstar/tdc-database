@@ -1,0 +1,72 @@
+filename: Mad TV (Installer) (En)(De) (1993)(Rainbow Arts Software GmbH) [Simulation, Strategy][!].zip
+tdc_id: '9790.19'
+parent_id: '9790.18'
+title:
+  box: Mad TV
+  qualifier: Installer
+publisher: Rainbow Arts Software GmbH
+year: '1993'
+genre:
+- Simulation
+- Strategy
+language:
+- English
+- German
+date:
+  added: '2023-07-05T15:22:53'
+  last_modified: '2023-08-07T13:30:21'
+type: zip
+tags:
+- KnownGood
+media: 1.44M
+installer: true
+references:
+  mobygames: https://www.mobygames.com/game/2831/mad-tv/
+files:
+- name: DATAE.PCK
+  size: 9348
+  date: '1991-11-18T15:49:04'
+  crc: '0x024b8647'
+- name: DATAV.PCK
+  size: 11652
+  date: '1991-11-18T15:49:04'
+  crc: '0xdc89e68f'
+- name: INSTALL.BAT
+  size: 3375
+  date: '1991-11-18T15:49:04'
+  crc: '0x0707206f'
+- name: INTRO.EXE
+  size: 8510
+  date: '1991-11-18T15:49:04'
+  crc: '0x7a7302ad'
+- name: MADTV
+  size: 0
+  date: '1993-08-05T08:18:50'
+- name: MCE.BIN
+  size: 2122
+  date: '1991-11-18T15:49:04'
+  crc: '0xc0231d97'
+- name: MCV.BIN
+  size: 2236
+  date: '1991-11-18T15:49:04'
+  crc: '0x4f4eae5b'
+- name: MEGA.EXE
+  size: 123135
+  date: '1991-11-25T09:02:28'
+  crc: '0x7399cfc8'
+- name: MENG.FIL
+  size: 13
+  date: '1991-11-18T15:49:04'
+  crc: '0x6c50dcaf'
+- name: MVGA.EXE
+  size: 120956
+  date: '1991-11-25T09:02:42'
+  crc: '0xcba6d36b'
+- name: SOURCE1.EXE
+  size: 420002
+  date: '1991-11-18T15:49:04'
+  crc: '0x417de1c1'
+- name: SOURCE2.EXE
+  size: 318464
+  date: '1991-11-18T15:49:04'
+  crc: '0xd16a1039'

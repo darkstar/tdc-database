@@ -1,0 +1,29 @@
+filename: Enchanter r16 [DC] (1983)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '13390.1'
+parent_id: '13390.6'
+title:
+  box: Enchanter
+publisher: Infocom, Inc.
+year: '1983'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2022-06-03T14:13:44'
+  last_modified: '2022-06-03T14:13:44'
+release: '16'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: ENCHANT.COM
+files:
+- name: ENCHANT.COM
+  size: 12928
+  date: '1980-01-01T00:00:00'
+  crc: '0x4f62e6f4'
+- name: ENCHANT.DAT
+  size: 129728
+  date: '2007-12-20T05:54:36'
+  crc: '0x07a79acd'

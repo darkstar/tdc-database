@@ -1,0 +1,33 @@
+filename: Valley, The [a1] (2001)(Paul Robson) [Adventure].zip
+tdc_id: '7376.1'
+title:
+  screen: The Valley
+publisher: Paul Robson
+year: '2001'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-02T10:55:48'
+  last_modified: '2019-03-02T10:55:48'
+type: zip
+tags:
+- Alternate: 1
+commands:
+  play: VALLEY.EXE
+files:
+- name: EGAVGA.BGI
+  size: 5363
+  date: '1988-08-29T02:00:00'
+  crc: '0x06d36962'
+- name: GRAPHICS.BIN
+  size: 4608
+  date: '2001-12-05T10:23:16'
+  crc: '0x400117d5'
+- name: LITT.CHR
+  size: 2138
+  date: '1988-08-29T02:00:00'
+  crc: '0xe18c9d7c'
+- name: VALLEY.EXE
+  size: 76468
+  date: '2001-12-05T10:23:06'
+  crc: '0x3d038f54'

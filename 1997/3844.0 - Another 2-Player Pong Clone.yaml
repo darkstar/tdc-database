@@ -1,0 +1,27 @@
+filename: Another 2-Player Pong Clone (1997)(Bob Perkins) [Action].zip
+tdc_id: '3844.0'
+title:
+  screen: Another 2-Player Pong Clone
+publisher: Bob Perkins
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:23:54'
+  last_modified: '2019-03-02T10:23:54'
+type: zip
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 20
+  date: '2018-06-29T01:02:48'
+  crc: '0xbbd3f0da'
+- name: PONG.BAS
+  size: 5590
+  date: '2018-03-10T02:21:42'
+  crc: '0x8c7c9d46'
+- name: QB.EXE
+  size: 278804
+  date: '2016-03-13T02:19:58'
+  crc: '0xb08bc0fe'

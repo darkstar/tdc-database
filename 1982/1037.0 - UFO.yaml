@@ -1,0 +1,26 @@
+filename: UFO (1982)(Tom Anderson) [Action].zip
+tdc_id: '1037.0'
+title:
+  screen: UFO
+publisher: Tom Anderson
+year: '1982'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:23:04'
+  last_modified: '2019-03-01T18:23:04'
+type: zip
+commands:
+  play: UFO.EXE
+references:
+  dosid: DOS07418
+  exodos: UFO (1982).zip
+files:
+- name: UFO.BAS
+  size: 2560
+  date: '1982-11-06T12:00:00'
+  crc: '0x4d6f97a0'
+- name: UFO.EXE
+  size: 23040
+  date: '1982-11-06T12:00:00'
+  crc: '0x8bf39eba'

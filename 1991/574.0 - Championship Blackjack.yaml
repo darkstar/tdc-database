@@ -1,0 +1,129 @@
+filename: Championship Blackjack (1991)(Stone & Associates, PCsoftware) [Strategy, Cards].zip
+tdc_id: '574.0'
+title:
+  box: Championship Blackjack
+publisher: Stone & Associates, PCsoftware
+year: '1991'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:35:12'
+  last_modified: '2023-12-29T16:54:15'
+type: zip
+media: 720K
+commands:
+  play: CBJ.BAT
+references:
+  dosid: DOS06517
+  exodos: Championship Blackjack (1982).zip
+files:
+- name: BASIC-AC.SYS
+  size: 373
+  date: '1990-08-08T15:23:56'
+  crc: '0x5a7cae54'
+- name: BASIC-RT.SYS
+  size: 373
+  date: '1990-08-08T15:51:16'
+  crc: '0xf4158f15'
+- name: BASIC.SYS
+  size: 384
+  date: '2019-09-25T22:40:30'
+  crc: '0xfa222382'
+- name: BASIC1-D.SYS
+  size: 373
+  date: '1990-08-08T22:06:48'
+  crc: '0x715906b2'
+- name: BASIC1.SYS
+  size: 384
+  date: '2019-09-25T22:40:30'
+  crc: '0xfa222382'
+- name: BASIC2.SYS
+  size: 373
+  date: '1990-08-17T05:06:08'
+  crc: '0xcf7c264e'
+- name: BJACK.CFG
+  size: 63
+  date: '1991-09-20T16:21:14'
+  crc: '0x2966f3d6'
+- name: BJACK.EXE
+  size: 67820
+  date: '1991-09-20T15:58:08'
+  crc: '0x6a22c569'
+- name: BJACKC.EXE
+  size: 59313
+  date: '1991-09-20T16:17:56'
+  crc: '0x24a5b704'
+- name: BRAUN.SYS
+  size: 1976
+  date: '1988-06-20T14:38:58'
+  crc: '0x4803ed42'
+- name: BRUN20.EXE
+  size: 69454
+  date: '1987-01-16T11:44:44'
+  crc: '0xfed31ef4'
+- name: CBJ.BAT
+  size: 7
+  date: '1991-09-16T14:21:08'
+  crc: '0x25bde17c'
+- name: CHAMPBJ.PCX
+  size: 50692
+  date: '1991-08-25T05:39:44'
+  crc: '0x12b5c657'
+- name: CKCURDRV.COM
+  size: 11
+  date: '1990-08-16T17:11:24'
+  crc: '0x6244a2a5'
+- name: EGAC.PIX
+  size: 474
+  date: '1989-09-25T15:13:36'
+  crc: '0x00e80835'
+- name: EGAD.PIX
+  size: 474
+  date: '1989-09-25T15:11:56'
+  crc: '0xbf6871ae'
+- name: EGAH.PIX
+  size: 474
+  date: '1989-09-25T15:13:04'
+  crc: '0xeef92a00'
+- name: EGAS.PIX
+  size: 474
+  date: '1989-09-25T15:13:20'
+  crc: '0x6cc4c38e'
+- name: F9HELP.PIX
+  size: 1092
+  date: '1989-10-10T21:39:12'
+  crc: '0x4579f15e'
+- name: INSTALL.BAT
+  size: 1502
+  date: '2088-01-01T02:39:30'
+  crc: '0xa54fa766'
+- name: NUM10B.PIX
+  size: 400
+  date: '1989-10-03T02:35:42'
+  crc: '0xe7e1ef38'
+- name: NUM10R.PIX
+  size: 400
+  date: '1989-10-03T02:43:02'
+  crc: '0xad8b5df1'
+- name: OPTION.COM
+  size: 98
+  date: '1988-03-09T13:44:52'
+  crc: '0x1df998d4'
+- name: VVCOUNTC.EXE
+  size: 8833
+  date: '1991-09-12T06:15:26'
+  crc: '0xe3fa469f'
+- name: VVCOUNTE.EXE
+  size: 8801
+  date: '1991-09-12T05:58:48'
+  crc: '0x17882ce6'
+- name: VVDRILLC.EXE
+  size: 22017
+  date: '1991-09-13T10:03:56'
+  crc: '0x21769ef8'
+- name: VVDRILLE.EXE
+  size: 22017
+  date: '1991-09-11T02:39:14'
+  crc: '0x9451e80e'

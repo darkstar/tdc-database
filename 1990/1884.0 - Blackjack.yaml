@@ -1,0 +1,29 @@
+filename: Blackjack (1990)(Paul Warner) [Strategy, Cards].zip
+tdc_id: '1884.0'
+title:
+  screen: Blackjack
+publisher: Paul Warner
+year: '1990'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:31:56'
+  last_modified: '2019-03-01T18:31:56'
+type: zip
+commands:
+  play: BJ.EXE
+files:
+- name: BJ.EXE
+  size: 43394
+  date: '1990-07-04T11:15:38'
+  crc: '0xa0c1990c'
+- name: BJ.TXT
+  size: 3530
+  date: '1990-07-04T11:11:50'
+  crc: '0xc025c034'
+- name: SYS.FNT
+  size: 4354
+  date: '1990-06-05T16:42:14'
+  crc: '0x3f669b7d'

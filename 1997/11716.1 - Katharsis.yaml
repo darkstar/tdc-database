@@ -1,0 +1,31 @@
+filename: Katharsis (Installer) [SW] (1997)(CD Projekt Sp. z o.o.) [Action].zip
+tdc_id: '11716.1'
+title:
+  screen: Katharsis
+publisher: CD Projekt Sp. z o.o.
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2021-10-17T23:47:52'
+  last_modified: '2021-10-17T23:47:52'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: KTS_PACK.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 484
+  date: '1997-03-18T00:31:22'
+  crc: '0x0f0aad81'
+- name: KTS_PACK.EXE
+  size: 7711848
+  date: '1997-03-18T01:06:06'
+  crc: '0xd99f2f9a'
+- name: KTS_PACK.TXT
+  size: 186
+  date: '1997-03-15T22:19:24'
+  crc: '0xe143cdb3'

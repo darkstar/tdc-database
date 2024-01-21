@@ -1,0 +1,49 @@
+filename: Add It! [SW] (1992)(Lori Beean) [Educational].zip
+tdc_id: '8060.0'
+title:
+  screen: Add It!
+publisher: Lori Beean
+year: '1992'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T18:40:54'
+  last_modified: '2019-03-01T18:40:54'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: ADDIT.EXE
+references:
+  dosid: DOS00713
+  exodos: Add It! (1992).zip
+files:
+- name: ADDIT.DOC
+  size: 745
+  date: '1993-04-14T17:07:52'
+  crc: '0x945262d3'
+- name: ADDIT.EXE
+  size: 26224
+  date: '1993-04-14T17:19:32'
+  crc: '0x9a9b584d'
+- name: EGAVGA.BGI
+  size: 5363
+  date: '1988-08-29T05:00:00'
+  crc: '0x06d36962'
+- name: GOTH.CHR
+  size: 8560
+  date: '1988-08-29T05:00:00'
+  crc: '0x48a03304'
+- name: LITT.CHR
+  size: 2138
+  date: '1988-08-29T05:00:00'
+  crc: '0xe18c9d7c'
+- name: SANS.CHR
+  size: 5438
+  date: '1988-08-29T05:00:00'
+  crc: '0x06f847c6'
+- name: TRIP.CHR
+  size: 7241
+  date: '1988-08-29T05:00:00'
+  crc: '0xfe5cd6b1'

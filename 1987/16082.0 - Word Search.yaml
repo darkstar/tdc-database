@@ -1,0 +1,29 @@
+filename: Word Search (1987)(Tink Kinney) [Strategy, Puzzle].zip
+tdc_id: '16082.0'
+title:
+  screen: Word Search
+publisher: Tink Kinney
+year: '1987'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-03-01T18:25:50'
+  last_modified: '2019-03-01T18:25:50'
+type: zip
+commands:
+  play: GO.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: GO.BAT
+  size: 21
+  date: '2018-12-08T20:46:22'
+  crc: '0x84c22ed1'
+- name: SEARCH.BAS
+  size: 9282
+  date: '1987-10-20T01:29:08'
+  crc: '0xefe79dc5'

@@ -1,0 +1,62 @@
+filename: MiG-29 v1.01.1 (Installer) (1993)(Spectrum HoloByte, Inc.) [Simulation].zip
+tdc_id: '14285.0'
+title:
+  box: MiG-29
+publisher: Spectrum HoloByte, Inc.
+year: '1993'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T19:14:54'
+  last_modified: '2019-03-01T19:14:54'
+version: 1.01.1
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 67281
+  date: '1993-11-16T17:27:24'
+  crc: '0xabfe49bf'
+- name: INSTALL.TIM
+  size: 129
+  date: '1993-11-16T15:29:28'
+  crc: '0x344073be'
+- name: MIGALO01.RES
+  size: 1074776
+  date: '1993-11-18T14:30:10'
+  crc: '0xfa33041b'
+- name: MIGALO02.RES
+  size: 1447872
+  date: '1993-11-18T14:31:30'
+  crc: '0x31bf5552'
+- name: MIGALO03.RES
+  size: 1420614
+  date: '1993-11-18T14:32:22'
+  crc: '0xe468a33c'
+- name: MIGALONE._1
+  size: 0
+  date: '1993-11-26T12:46:54'
+- name: MIGALONE._2
+  size: 0
+  date: '1993-11-26T12:51:36'
+- name: MIGALONE._3
+  size: 0
+  date: '1993-11-26T12:55:38'
+- name: OFT-MIG.TIM
+  size: 118
+  date: '1993-07-27T14:38:40'
+  crc: '0x477dc640'
+- name: README.TXT
+  size: 2145
+  date: '1993-11-17T13:41:44'
+  crc: '0xd26d484f'
+- name: TRIVIA.NDX
+  size: 376
+  date: '1993-11-17T12:55:24'
+  crc: '0x966c1472'
+- name: TRIVIA.RES
+  size: 3576
+  date: '1993-11-17T12:55:24'
+  crc: '0xca863053'

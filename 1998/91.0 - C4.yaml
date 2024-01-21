@@ -1,0 +1,28 @@
+filename: C4 (1998)(Christie) [Strategy].zip
+tdc_id: '91.0'
+title:
+  screen: C4
+publisher: Christie
+year: '1998'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:41:00'
+  last_modified: '2019-03-02T10:41:00'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: C4.BAS
+  size: 58334
+  date: '1998-02-15T00:06:22'
+  crc: '0x3abaa2f8'
+- name: GO.BAT
+  size: 22
+  date: '2018-11-14T15:37:42'
+  crc: '0xd93851f4'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'

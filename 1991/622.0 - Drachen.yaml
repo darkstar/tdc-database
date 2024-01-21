@@ -1,0 +1,35 @@
+filename: Drachen von Laas (De) [b1] (1991)(Attic Entertainment Software GmbH) [Adventure, Interactive Fiction].zip
+tdc_id: '622.0'
+title:
+  box: Drachen
+publisher: Attic Entertainment Software GmbH
+year: '1991'
+genre:
+- Adventure
+- Interactive Fiction
+language: German
+date:
+  added: '2019-03-01T18:35:40'
+  last_modified: '2019-03-01T18:35:40'
+type: zip
+tags:
+- Bad: 1
+commands:
+  play: LAAS.EXE
+files:
+- name: ATTIC.DAT
+  size: 2774
+  date: '1991-03-04T17:00:04'
+  crc: '0xbde11908'
+- name: LAAS.EXE
+  size: 188976
+  date: '1991-03-04T18:08:38'
+  crc: '0x26da0a6f'
+- name: TITEL.EGA
+  size: 18144
+  date: '1991-03-04T17:00:04'
+  crc: '0xd8ac4652'
+- name: TITEL.VGA
+  size: 16280
+  date: '1991-03-04T17:00:04'
+  crc: '0x57402b50'

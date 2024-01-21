@@ -1,0 +1,66 @@
+filename: PC-Gammon v6.0 (1986)(David C. Oshel) [Strategy, Board].zip
+tdc_id: '10474.0'
+title:
+  screen: PC-Gammon
+publisher: David C. Oshel
+year: '1986'
+genre:
+- Strategy
+- Board
+language: English
+date:
+  added: '2019-03-01T18:24:54'
+  last_modified: '2019-03-01T18:24:54'
+version: '6.0'
+type: zip
+commands:
+  play: BACKGMMN.EXE
+files:
+- name: BACKGMMN
+  size: 452
+  date: '1986-09-08T13:25:38'
+  crc: '0xaace10d0'
+- name: BACKGMMN.DOC
+  size: 12708
+  date: '1986-09-08T13:30:20'
+  crc: '0xd5086830'
+- name: BACKGMMN.EXE
+  size: 55575
+  date: '1986-09-10T09:46:36'
+  crc: '0xf9103879'
+- name: BACKGMMN.H
+  size: 2993
+  date: '1986-09-08T13:32:42'
+  crc: '0x1120d3ff'
+- name: BG0.C
+  size: 9514
+  date: '1986-09-10T02:15:58'
+  crc: '0x7e7d539d'
+- name: BG1.C
+  size: 6537
+  date: '1986-09-08T16:48:02'
+  crc: '0xb7d94ef4'
+- name: BG2.C
+  size: 39682
+  date: '1986-08-19T01:14:22'
+  crc: '0x0c2f5f1b'
+- name: BG3.C
+  size: 25515
+  date: '1986-08-17T02:41:00'
+  crc: '0x09c2ece8'
+- name: CIAO.H
+  size: 7055
+  date: '1986-12-13T19:12:38'
+  crc: '0xdf0096bd'
+- name: CIAO.LIB
+  size: 23040
+  date: '1986-12-07T22:46:26'
+  crc: '0x524e8119'
+- name: PC-GAMN6.DOC
+  size: 14567
+  date: '1986-09-08T17:28:18'
+  crc: '0x3ffd1195'
+- name: README
+  size: 416
+  date: '1986-09-08T17:17:06'
+  crc: '0x6270e1c8'

@@ -1,0 +1,38 @@
+filename: Target (1983)(Brian D. Mann) [Action].zip
+tdc_id: '1088.0'
+title:
+  screen: Target
+publisher: Brian D. Mann
+year: '1983'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:23:22'
+  last_modified: '2019-03-01T18:23:22'
+type: zip
+commands:
+  play: TARGET.BAT
+references:
+  dosid: DOS07112
+  exodos: Target (1983).zip
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: TARGET.BAS
+  size: 4434
+  date: '1983-10-06T02:48:38'
+  crc: '0x5c961245'
+- name: TARGET.BAT
+  size: 16
+  date: '2014-12-19T03:03:22'
+  crc: '0x9da5639f'
+- name: TARGET.DOC
+  size: 272
+  date: '1983-10-06T02:48:38'
+  crc: '0x133db04c'
+- name: TARGET.PIC
+  size: 1024
+  date: '1983-10-06T02:48:38'
+  crc: '0x01a3cd29'

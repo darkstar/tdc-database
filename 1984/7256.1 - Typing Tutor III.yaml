@@ -1,0 +1,35 @@
+filename: Typing Tutor III (PCjr) (1984)(Simon & Schuster Interactive) [Educational][!].zip
+tdc_id: '7256.1'
+title:
+  box: Typing Tutor III
+  qualifier: PCjr
+publisher: Simon & Schuster Interactive
+year: '1984'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T18:24:18'
+  last_modified: '2019-03-01T18:24:18'
+type: zip
+tags:
+- KnownGood
+requirements:
+  cpu:
+    min: '8088'
+files:
+- name: AUTOEXEC.BAT
+  size: 2
+  date: '1980-01-01T00:08:28'
+  crc: '0x5de21b28'
+- name: STDTST.001
+  size: 256
+  date: '1984-03-16T14:56:36'
+  crc: '0xfc3b6279'
+- name: TT.COM
+  size: 48118
+  date: '1980-01-01T02:48:06'
+  crc: '0x25972dd1'
+- name: TT.SCR
+  size: 25088
+  date: '1984-04-05T16:59:36'
+  crc: '0xfedeb8d8'

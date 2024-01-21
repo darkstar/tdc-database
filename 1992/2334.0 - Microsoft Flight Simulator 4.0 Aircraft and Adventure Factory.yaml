@@ -1,0 +1,40 @@
+filename: Microsoft Flight Simulator 4.0 Aircraft and Adventure Factory (Installer) (1992)(Mallard Software Inc.) [Simulation, Addon].zip
+tdc_id: '2334.0'
+title:
+  box: Microsoft Flight Simulator 4.0 Aircraft and Adventure Factory
+publisher: Mallard Software Inc.
+year: '1992'
+genre:
+- Simulation
+- Addon
+language: English
+date:
+  added: '2019-03-01T18:49:26'
+  last_modified: '2022-10-27T18:08:08'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/aircraft-and-adventure-factory
+files:
+- name: ADVENTUR.LZH
+  size: 663430
+  date: '1992-09-28T13:00:12'
+  crc: '0x99559778'
+- name: AIRCRAFT.LZH
+  size: 412746
+  date: '1992-09-28T13:00:12'
+  crc: '0x0f44dc4f'
+- name: INSTALL.EXE
+  size: 19526
+  date: '1992-09-26T17:25:24'
+  crc: '0xf0bdef1c'
+- name: LHA.EXE
+  size: 33965
+  date: '1991-03-21T02:12:00'
+  crc: '0xa3bcc074'
+- name: LHADOC.LZH
+  size: 16776
+  date: '1992-09-28T13:00:12'
+  crc: '0x0bafdb20'

@@ -1,0 +1,102 @@
+filename: Dracula in London v1.03 (1988)(SDJ Enterprises, Inc.) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '9503.0'
+title:
+  box: Dracula in London
+publisher: SDJ Enterprises, Inc.
+year: '1988'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:26:06'
+  last_modified: '2019-03-01T18:26:06'
+version: '1.03'
+type: zip
+commands:
+  play: DRACULA.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/dracula-in-london
+  dosid: DOS01849
+  exodos: Dracula in London (1988).zip
+files:
+- name: '1'
+  size: 144
+  date: '1988-05-04T15:16:22'
+  crc: '0x7185c437'
+- name: '2'
+  size: 238
+  date: '1988-05-04T14:57:14'
+  crc: '0x006737f7'
+- name: '3'
+  size: 246
+  date: '1988-05-04T14:57:00'
+  crc: '0x5c6f5e97'
+- name: '4'
+  size: 286
+  date: '1988-05-04T14:52:10'
+  crc: '0x7e585a61'
+- name: '5'
+  size: 96
+  date: '1988-05-04T14:52:18'
+  crc: '0x79efcf3c'
+- name: '7'
+  size: 180
+  date: '1988-05-04T14:52:24'
+  crc: '0x9141b777'
+- name: BOARD1.BAS
+  size: 4806
+  date: '1988-04-07T08:23:20'
+  crc: '0x18402c25'
+- name: BOARD2.BAS
+  size: 4806
+  date: '1988-04-07T08:23:20'
+  crc: '0xef4ef635'
+- name: BRUN20.EXE
+  size: 69454
+  date: '1987-01-16T11:44:22'
+  crc: '0xfed31ef4'
+- name: DRACULA.EXE
+  size: 42529
+  date: '1988-10-12T09:14:06'
+  crc: '0x792aa899'
+- name: DRACULA1.EXE
+  size: 72545
+  date: '1988-05-26T15:51:26'
+  crc: '0x51325a5c'
+- name: ENDGAME.EXE
+  size: 8497
+  date: '1988-02-17T16:00:16'
+  crc: '0x28e404e7'
+- name: FILE.TXT
+  size: 1532
+  date: '1991-11-12T20:35:52'
+  crc: '0x127fa166'
+- name: FINDATA1.TXT
+  size: 3754
+  date: '1988-04-22T10:44:06'
+  crc: '0x8f095e4b'
+- name: FINDATA2.TXT
+  size: 3824
+  date: '1988-04-22T10:44:26'
+  crc: '0xd5499d18'
+- name: HUNTER1.EXE
+  size: 22513
+  date: '1988-05-20T15:16:14'
+  crc: '0xc3908a31'
+- name: LAIR1.EXE
+  size: 27089
+  date: '1988-05-11T14:49:16'
+  crc: '0x37cad6d6'
+- name: LAIR2.EXE
+  size: 61489
+  date: '1988-05-26T15:52:04'
+  crc: '0x61b517b9'
+- name: README.DOC
+  size: 1107
+  date: '1988-10-12T09:17:08'
+  crc: '0xe8ed9157'
+- name: ROOMSUB.EXE
+  size: 25793
+  date: '1988-02-17T15:59:00'
+  crc: '0xf6ad1241'

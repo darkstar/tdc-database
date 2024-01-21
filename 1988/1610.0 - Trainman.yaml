@@ -1,0 +1,30 @@
+filename: Trainman (1988)(Chuck Baird) [Strategy, Educational].zip
+tdc_id: '1610.0'
+title:
+  screen: Trainman
+publisher: Chuck Baird
+year: '1988'
+genre:
+- Strategy
+- Educational
+language: English
+date:
+  added: '2019-03-01T18:26:56'
+  last_modified: '2019-03-01T18:26:56'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 24
+  date: '2019-01-26T21:16:22'
+  crc: '0xf23b7d30'
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1988-10-05T02:00:08'
+  crc: '0x2a44af39'
+- name: TRAINMAN.BAS
+  size: 10810
+  date: '1988-09-20T15:45:30'
+  crc: '0x8cedb549'

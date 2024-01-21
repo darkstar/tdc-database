@@ -1,0 +1,30 @@
+filename: World Games [DC] (1986)(Epyx, Inc.) [Action, Sports].zip
+tdc_id: '16098.0'
+title:
+  box: World Games
+publisher: Epyx, Inc.
+year: '1986'
+genre:
+- Action
+- Sports
+language: English
+date:
+  added: '2019-03-01T18:25:04'
+  last_modified: '2019-03-01T18:25:04'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: WORLD.COM
+references:
+  dosid: DOS06011
+  exodos: World Games (1986).zip
+files:
+- name: WORLD.COM
+  size: 416
+  date: '1999-08-24T22:21:00'
+  crc: '0xbb294b79'
+- name: WORLD.DAT
+  size: 368640
+  date: '1997-07-03T09:27:00'
+  crc: '0x897efaa3'

@@ -1,0 +1,45 @@
+filename: Deluxe Video Poker (1991)(Applications Plus, Inc.) [Strategy, Cards].zip
+tdc_id: '13061.0'
+title:
+  box: Deluxe Video Poker
+publisher: Applications Plus, Inc.
+year: '1991'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:35:36'
+  last_modified: '2019-03-01T18:35:36'
+type: zip
+commands:
+  play: POKER.EXE
+files:
+- name: CARDS.GRF
+  size: 34912
+  date: '1990-09-11T09:31:52'
+  crc: '0x703e434b'
+- name: EGAVGA.BGI
+  size: 5363
+  date: '1988-08-29T05:00:00'
+  crc: '0x06d36962'
+- name: GRAPHICS.DAT
+  size: 786
+  date: '1989-08-20T18:50:20'
+  crc: '0x08515996'
+- name: PLAYFILE.DAT
+  size: 4080
+  date: '1991-12-22T21:41:32'
+  crc: '0xa55668d9'
+- name: POKER.EXE
+  size: 62176
+  date: '1991-12-22T21:23:26'
+  crc: '0x0b25e203'
+- name: STANDARD.CFG
+  size: 240
+  date: '1991-12-19T20:38:02'
+  crc: '0xce463e2b'
+- name: TRIP.CHR
+  size: 7241
+  date: '1988-08-29T05:00:00'
+  crc: '0xfe5cd6b1'

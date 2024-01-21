@@ -1,0 +1,100 @@
+filename: Leisure Suit Larry in the Land of the Lounge Lizards (1987)(Sierra On-Line, Inc.) [Adventure].zip
+tdc_id: '11856.0'
+title:
+  box: Leisure Suit Larry in the Land of the Lounge Lizards
+publisher: Sierra On-Line, Inc.
+year: '1987'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:25:26'
+  last_modified: '2019-03-01T18:25:26'
+type: zip
+references:
+  dosid: DOS03128
+  exodos: Leisure Suit Larry 1 - Land of the Lounge Lizards (1987).zip
+files:
+- name: AGI
+  size: 38400
+  date: '1987-05-29T08:30:02'
+  crc: '0x06f3692b'
+- name: AGIDATA.OVL
+  size: 7680
+  date: '1987-05-29T08:16:32'
+  crc: '0x6bfc498a'
+- name: CGA_GRAF.OVL
+  size: 1024
+  date: '1987-05-29T08:16:00'
+  crc: '0xa2930a66'
+- name: EGA_GRAF.OVL
+  size: 1024
+  date: '1987-05-29T08:16:02'
+  crc: '0xd12b9d1e'
+- name: HGC_FONT
+  size: 3072
+  date: '1987-01-26T15:47:26'
+  crc: '0x200435c7'
+- name: HGC_GRAF.OVL
+  size: 1536
+  date: '1987-05-29T08:16:04'
+  crc: '0x98062f34'
+- name: HGC_OBJS.OVL
+  size: 1024
+  date: '1987-05-29T08:16:04'
+  crc: '0xe6b99395'
+- name: IBM_OBJS.OVL
+  size: 512
+  date: '1987-05-29T08:16:04'
+  crc: '0x1ddf5411'
+- name: JR_GRAF.OVL
+  size: 512
+  date: '1987-05-29T08:16:02'
+  crc: '0x03dce7ca'
+- name: LOGDIR
+  size: 177
+  date: '1987-06-01T17:22:10'
+  crc: '0x2f82e0b1'
+- name: LSL1.COM
+  size: 2944
+  date: '1994-08-15T09:36:32'
+  crc: '0x066ed68d'
+- name: LSL1.ICO
+  size: 766
+  date: '1994-11-02T10:38:10'
+  crc: '0x6867857a'
+- name: OBJECT
+  size: 311
+  date: '1987-06-01T16:59:04'
+  crc: '0x1cb5f786'
+- name: PICDIR
+  size: 138
+  date: '1987-06-01T17:22:12'
+  crc: '0xfddfaf76'
+- name: SIERRA.COM
+  size: 2944
+  date: '1994-08-15T09:36:32'
+  crc: '0x066ed68d'
+- name: SNDDIR
+  size: 102
+  date: '1987-06-01T17:22:12'
+  crc: '0x578de438'
+- name: VIEWDIR
+  size: 573
+  date: '1987-06-01T17:22:12'
+  crc: '0x03629772'
+- name: VOL.0
+  size: 66731
+  date: '1987-06-01T17:21:18'
+  crc: '0xb7a0f8fa'
+- name: VOL.1
+  size: 146558
+  date: '1987-06-01T17:21:38'
+  crc: '0x4917e107'
+- name: VOL.2
+  size: 237821
+  date: '1987-06-01T17:22:12'
+  crc: '0x42c8cd81'
+- name: WORDS.TOK
+  size: 6597
+  date: '1987-06-01T16:58:52'
+  crc: '0x295fe597'

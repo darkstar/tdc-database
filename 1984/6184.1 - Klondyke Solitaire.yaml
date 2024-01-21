@@ -1,0 +1,32 @@
+filename: Klondyke Solitaire [a1] (1984)(Jeff Littlefield) [Strategy, Cards].zip
+tdc_id: '6184.1'
+title:
+  screen: Klondyke Solitaire
+publisher: Jeff Littlefield
+year: '1984'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:24:10'
+  last_modified: '2019-03-01T18:24:10'
+type: zip
+tags:
+- Alternate: 1
+media: Download
+commands:
+  play: SOLITAIR.bat
+files:
+- name: GWBASIC.EXE
+  size: 80592
+  date: '2001-05-04T06:58:22'
+  crc: '0x8462d0e4'
+- name: SOLITAIR.bat
+  size: 16
+  date: '2011-09-13T21:59:08'
+  crc: '0xf2480d3a'
+- name: SOLITARE.BAS
+  size: 9191
+  date: '2088-01-01T00:03:58'
+  crc: '0x2649930e'

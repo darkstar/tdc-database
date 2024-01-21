@@ -1,0 +1,35 @@
+filename: Out 'M Up (Final) (2000)(PPPTeam) [Action].zip
+tdc_id: '14669.1'
+title:
+  box: Out 'M Up
+  qualifier: Final
+publisher: PPPTeam
+year: '2000'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:54:56'
+  last_modified: '2019-03-02T10:54:56'
+type: zip
+commands:
+  play: OUTM.EXE
+references:
+  dosid: DOS06992
+  exodos: Out 'M' Up (2000).zip
+files:
+- name: NOTTABLE.SB
+  size: 216
+  date: '1997-08-21T21:53:14'
+  crc: '0x098b35ed'
+- name: OUTM.EXE
+  size: 17649
+  date: '2000-07-29T17:13:18'
+  crc: '0xab96d44f'
+- name: OUTM.PPF
+  size: 11373
+  date: '2000-07-13T12:58:58'
+  crc: '0xab2ea7a2'
+- name: OUTM.Z3M
+  size: 35018
+  date: '2000-07-14T13:23:42'
+  crc: '0xae38262b'

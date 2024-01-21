@@ -1,0 +1,31 @@
+filename: Robot v3.2 (1996)(Robin Ohm) [Strategy, Puzzle].zip
+tdc_id: '6489.0'
+title:
+  screen: Robot
+publisher: Robin Ohm
+year: '1996'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-03-02T10:16:52'
+  last_modified: '2019-03-02T10:16:52'
+version: '3.2'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 25
+  date: '2018-11-23T19:49:00'
+  crc: '0x256c7fe0'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: ROBOT.BAS
+  size: 46149
+  date: '2018-11-23T10:38:54'
+  crc: '0x3692a48d'

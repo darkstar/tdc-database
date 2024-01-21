@@ -1,0 +1,30 @@
+filename: City (1989)(John Y Lewis) [Strategy].zip
+tdc_id: '1663.0'
+title:
+  screen: City
+publisher: John Y Lewis
+year: '1989'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:27:26'
+  last_modified: '2019-03-01T18:27:26'
+type: zip
+commands:
+  play: CITY.EXE
+references:
+  dosid: DOS07256
+  exodos: City (1989).zip
+files:
+- name: CITY.BAS
+  size: 65305
+  date: '1987-11-06T18:01:42'
+  crc: '0x451ada01'
+- name: CITY.EXE
+  size: 140850
+  date: '1989-05-10T10:03:02'
+  crc: '0x007203a6'
+- name: CITY40.BAS
+  size: 54707
+  date: '1987-04-26T18:01:42'
+  crc: '0x975484f1'

@@ -1,0 +1,74 @@
+filename: MTV Remote Control (1989)(Hi-Tech Expressions, Inc.) [Simulation].zip
+tdc_id: '7942.0'
+title:
+  box: MTV Remote Control
+publisher: Hi-Tech Expressions, Inc.
+year: '1989'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:28:26'
+  last_modified: '2019-03-01T18:28:26'
+type: zip
+commands:
+  play: RC.EXE
+references:
+  dosid: DOS04277
+  exodos: Remote Control (1989).zip
+files:
+- name: CONTDAT
+  size: 38097
+  date: '1989-06-02T20:45:34'
+  crc: '0x8f9eac2d'
+- name: ENDDAT
+  size: 8655
+  date: '1999-11-15T08:01:14'
+  crc: '0xc616dc6e'
+- name: GAMEDAT
+  size: 21950
+  date: '1989-06-23T14:57:46'
+  crc: '0xf4054436'
+- name: NPPC.CMP
+  size: 5513
+  date: '1999-11-15T07:46:34'
+  crc: '0x10a8a9a0'
+- name: OC.CMP
+  size: 39617
+  date: '1999-11-15T07:46:34'
+  crc: '0x8a27f3f5'
+- name: ODATA
+  size: 25403
+  date: '1989-06-10T18:31:50'
+  crc: '0x2c3d34ed'
+- name: OPCONT
+  size: 7646
+  date: '1989-05-08T10:58:06'
+  crc: '0xdf40083f'
+- name: PC.CMP
+  size: 17113
+  date: '1999-11-15T07:46:34'
+  crc: '0x6c76a010'
+- name: PCDAT
+  size: 11346
+  date: '1989-06-10T13:06:12'
+  crc: '0x285bc641'
+- name: PDATA
+  size: 23635
+  date: '1989-05-30T11:24:58'
+  crc: '0xa2a8729a'
+- name: RC.EXE
+  size: 41034
+  date: '1989-06-23T16:28:10'
+  crc: '0xdfac3902'
+- name: RRG.CMP
+  size: 18725
+  date: '1999-11-15T07:46:34'
+  crc: '0x48a74b02'
+- name: RRS.CMP
+  size: 35809
+  date: '1999-11-15T07:46:34'
+  crc: '0xe1fa36eb'
+- name: SC.CMP
+  size: 42809
+  date: '1999-11-15T07:46:34'
+  crc: '0x01d77ff5'

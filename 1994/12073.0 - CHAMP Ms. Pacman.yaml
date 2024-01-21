@@ -1,0 +1,63 @@
+filename: CHAMP Ms. Pacman v1.1 [SW] (1994)(CHAMProgramming Corporation) [Action].zip
+tdc_id: '12073.0'
+title:
+  screen: CHAMP Ms. Pacman
+publisher: CHAMProgramming Corporation
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2020-08-18T21:46:14'
+  last_modified: '2020-08-18T21:46:14'
+version: '1.1'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: MSPACLT.EXE
+files:
+- name: ALPHA.FNT
+  size: 1024
+  date: '1993-11-10T01:01:50'
+  crc: '0x6ade0542'
+- name: FINALE.SNG
+  size: 404
+  date: '1994-11-06T23:10:14'
+  crc: '0xe644e64e'
+- name: MSP1.MZ
+  size: 1228
+  date: '1994-09-14T22:28:26'
+  crc: '0x91346ec0'
+- name: MSP2.MZ
+  size: 1228
+  date: '1994-08-06T18:07:46'
+  crc: '0x0bfbf80d'
+- name: MSPAC2.SNG
+  size: 404
+  date: '1994-08-28T10:18:22'
+  crc: '0x6991c4af'
+- name: MSPACLT.EXE
+  size: 280969
+  date: '1994-12-12T01:24:58'
+  crc: '0x7662c12f'
+- name: MSPACMAN.DOC
+  size: 8286
+  date: '1994-12-12T01:34:30'
+  crc: '0xa49ed7ae'
+- name: MSPACMAN.ICO
+  size: 766
+  date: '1994-08-13T09:54:06'
+  crc: '0x57989e5f'
+- name: MSPACMAN.SNG
+  size: 404
+  date: '1993-04-13T12:10:08'
+  crc: '0x3c64dc07'
+- name: PACMAN.SNG
+  size: 404
+  date: '1993-04-13T12:10:08'
+  crc: '0x3c64dc07'
+- name: README.BAT
+  size: 51
+  date: '1994-10-16T03:46:54'
+  crc: '0xf8602e87'

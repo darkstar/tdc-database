@@ -1,0 +1,44 @@
+filename: Battle Chess v1.00 (VGA) (Installer) (1990)(Interplay Productions, Inc.) [Strategy, Chess].zip
+tdc_id: '12470.4'
+parent_id: '12470.21'
+title:
+  box: Battle Chess
+  qualifier: VGA
+publisher: Interplay Productions, Inc.
+year: '1990'
+genre:
+- Strategy
+- Chess
+language: English
+date:
+  added: '2020-03-16T04:34:04'
+  last_modified: '2023-10-26T09:31:08'
+version: '1.00'
+type: zip
+media: 720K
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1950/battle-chess/
+files:
+- name: ALLCANM1
+  size: 105248
+  date: '1990-04-19T01:00:48'
+  crc: '0x2f4bd6b9'
+- name: ALLCANM2
+  size: 362496
+  date: '1990-04-19T01:00:36'
+  crc: '0x6bd3d772'
+- name: ALLCANM3
+  size: 296097
+  date: '1990-04-19T01:00:14'
+  crc: '0x575a22d1'
+- name: CHESS.EXE
+  size: 81363
+  date: '1990-04-19T01:00:48'
+  crc: '0xd50b13b1'
+- name: INSTALL.EXE
+  size: 8117
+  date: '1990-04-19T01:00:48'
+  crc: '0xc96a8757'

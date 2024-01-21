@@ -1,0 +1,83 @@
+filename: Commander Keen 7 build 6 (2001)(Kevin Wellwood) [Action].zip
+tdc_id: '9335.3'
+title:
+  screen: Commander Keen 7 build 6
+publisher: Kevin Wellwood
+year: '2001'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:55:16'
+  last_modified: '2019-03-02T10:55:16'
+type: zip
+commands:
+  play: KEEN7.EXE
+files:
+- name: ENEMY.DAT
+  size: 421
+  date: '2001-01-25T00:00:00'
+  crc: '0x2fa36335'
+- name: ENGINE.DAT
+  size: 287
+  date: '2001-01-25T00:00:00'
+  crc: '0x471ecb03'
+- name: ERRORS.DAT
+  size: 2755
+  date: '2001-01-25T00:00:00'
+  crc: '0x1a83f2b1'
+- name: FONT.DAT
+  size: 2305
+  date: '2001-01-25T00:00:00'
+  crc: '0x65e1417a'
+- name: HISTORY.TXT
+  size: 4300
+  date: '2001-01-25T00:00:00'
+  crc: '0x3082c4d2'
+- name: ITEMS.DAT
+  size: 581
+  date: '2001-01-25T00:00:00'
+  crc: '0x729050bd'
+- name: KEEN16.DAT
+  size: 14141
+  date: '2001-01-25T00:00:00'
+  crc: '0x64bde95f'
+- name: KEEN16.GPK
+  size: 440366
+  date: '2001-01-25T00:00:00'
+  crc: '0x1ceb4b21'
+- name: KEEN7.EXE
+  size: 148582
+  date: '2001-01-25T00:00:00'
+  crc: '0x8188501c'
+- name: KEEN7.MAP
+  size: 20262
+  date: '2001-01-25T00:00:00'
+  crc: '0x4cbcdedb'
+- name: MENU.DAT
+  size: 158
+  date: '2001-01-25T00:00:00'
+  crc: '0xb60742de'
+- name: PALETTE.DAT
+  size: 1543
+  date: '2001-01-25T00:00:00'
+  crc: '0x68b085bc'
+- name: PLAYER.DAT
+  size: 584
+  date: '2001-01-25T00:00:00'
+  crc: '0x4e432f76'
+- name: README.TXT
+  size: 971
+  date: '2001-01-25T00:00:00'
+  crc: '0xabd4f19a'
+- name: SCORES.DAT
+  size: 104
+  date: '2001-01-25T00:00:00'
+  crc: '0xf5cdd538'
+- name: SOUNDS.DAT
+  size: 37
+  date: '2001-01-25T00:00:00'
+  crc: '0x530d2846'
+- name: WEAPONS.DAT
+  size: 244
+  date: '2001-01-25T00:00:00'
+  crc: '0x82c1ee53'

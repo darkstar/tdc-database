@@ -1,0 +1,55 @@
+filename: Ant Hill volume 2 v2.1 [SWR] (1991)(Chris Busch) [Action].zip
+tdc_id: '8673.3'
+title:
+  screen: Anthill Volume 2
+publisher: Chris Busch
+year: '1991'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:34:50'
+  last_modified: '2023-10-05T16:34:15'
+version: '2.1'
+type: zip
+tags:
+- SharewareRegistered
+media: Download
+commands:
+  play: ANTHILL2.EXE
+references:
+  mobygames: https://www.mobygames.com/game/206467/ant-hill-volume-1/
+  dosid: DOS15969
+  exodos: Anthill Volume 2 (1991).zip
+files:
+- name: ANTDEMO.BAT
+  size: 1004
+  date: '1993-05-14T19:18:28'
+  crc: '0xa2607782'
+- name: ANTHILL2.CKP
+  size: 564
+  date: '1993-05-14T19:18:28'
+  crc: '0xec4305b4'
+- name: ANTHILL2.DOC
+  size: 4769
+  date: '1993-05-14T19:18:28'
+  crc: '0x3afb4533'
+- name: ANTHILL2.EXE
+  size: 80064
+  date: '1993-05-14T19:18:28'
+  crc: '0xfdbfb36b'
+- name: ANTHILL2.IMG
+  size: 3840
+  date: '1993-05-14T19:18:28'
+  crc: '0x08b36ad8'
+- name: ANTHILL2.LVL
+  size: 105600
+  date: '1993-05-14T19:18:28'
+  crc: '0x16a314e1'
+- name: NOTICE.TXT
+  size: 485
+  date: '2003-01-08T23:52:30'
+  crc: '0x56a8a38a'
+- name: SAMPLE.LVL
+  size: 7040
+  date: '1993-05-14T19:18:28'
+  crc: '0xcc45f017'

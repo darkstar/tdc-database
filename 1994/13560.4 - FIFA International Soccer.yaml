@@ -1,0 +1,65 @@
+filename: FIFA International Soccer (Installer) (En)(De)(Fr)(Es)(It) (1994)(Electronic Arts, Inc.) [Sports].zip
+tdc_id: '13560.4'
+parent_id: '13560.7'
+title:
+  box: FIFA International Soccer
+publisher: Electronic Arts, Inc.
+year: '1994'
+genre: Sports
+language:
+- English
+- Spanish
+- French
+- Italian
+- German
+date:
+  added: '2021-07-12T18:34:10'
+  last_modified: '2021-07-12T18:34:10'
+type: zip
+installer: true
+files:
+- name: DISK.ID
+  size: 32
+  date: '1994-07-08T15:29:30'
+  crc: '0xd154940e'
+- name: DISK_2.ID
+  size: 32
+  date: '1994-07-08T15:30:48'
+  crc: '0xd3122a57'
+- name: DISK_3.ID
+  size: 32
+  date: '1994-07-08T15:32:00'
+  crc: '0xd2d04060'
+- name: FIFA.001
+  size: 1312400
+  date: '1994-07-08T15:30:36'
+  crc: '0x28998daf'
+- name: FIFA.002
+  size: 1457152
+  date: '1994-07-08T15:31:46'
+  crc: '0x9a117eb5'
+- name: FIFA.003
+  size: 651152
+  date: '1994-07-08T15:32:28'
+  crc: '0x5d472c90'
+- name: FIFA.INF
+  size: 1255
+  date: '1994-07-08T15:33:36'
+  crc: '0x7418915e'
+- name: FIFA_1
+  size: 0
+  date: '1994-07-08T15:30:36'
+- name: FIFA_2
+  size: 0
+  date: '1994-07-08T15:31:46'
+- name: FIFA_3
+  size: 0
+  date: '1994-07-08T15:32:28'
+- name: INSTALL.BAT
+  size: 18
+  date: '1994-07-08T15:33:20'
+  crc: '0x52f1d504'
+- name: INSTALL2.EXE
+  size: 140873
+  date: '1994-03-16T12:41:30'
+  crc: '0x8e282297'

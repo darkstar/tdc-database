@@ -1,0 +1,35 @@
+filename: Galactix II [SW] (1991)(Richard L. Wright) [Action, Adventure].zip
+tdc_id: '13901.0'
+title:
+  screen: Galactix II
+publisher: Richard L. Wright
+year: '1991'
+genre:
+- Action
+- Adventure
+language: English
+date:
+  added: '2019-03-01T18:36:00'
+  last_modified: '2019-03-01T18:36:00'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: GTIX2.COM
+references:
+  dosid: DOS07740
+  exodos: Galactix II - The Search for the Lost Orbs (1991).zip
+files:
+- name: GALACTIX.DAT
+  size: 16384
+  date: '1988-04-01T10:55:48'
+  crc: '0xe4837492'
+- name: GTIX2.COM
+  size: 48267
+  date: '1989-01-12T22:42:40'
+  crc: '0xd387f968'
+- name: GTIX2.DOC
+  size: 1953
+  date: '1991-06-02T20:29:24'
+  crc: '0xcff86924'

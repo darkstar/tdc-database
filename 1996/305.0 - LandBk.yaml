@@ -1,0 +1,28 @@
+filename: LandBk (1996)(Kenny Anderson) [Action].zip
+tdc_id: '305.0'
+title:
+  screen: LandBk
+publisher: Kenny Anderson
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:11:14'
+  last_modified: '2019-03-02T10:11:14'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 26
+  date: '2018-11-15T12:28:42'
+  crc: '0xab5dd532'
+- name: LANDBK.BAS
+  size: 16945
+  date: '1996-11-14T00:00:00'
+  crc: '0x952a75c0'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'

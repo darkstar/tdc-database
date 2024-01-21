@@ -1,0 +1,35 @@
+filename: Pacmania v1.1 (1990)(Sophisticated Software Systems) [Action].zip
+tdc_id: '10573.0'
+title:
+  screen: Pacmania
+publisher: Sophisticated Software Systems
+year: '1990'
+genre: Action
+language: English
+date:
+  added: '2020-04-28T14:54:30'
+  last_modified: '2020-04-28T14:54:30'
+version: '1.1'
+type: zip
+commands:
+  play: PACMANIA.EXE
+references:
+  dosid: DOS15668
+  exodos: Pacmania (1990).zip
+files:
+- name: PACMAN.ICO
+  size: 766
+  date: '1990-07-15T11:57:18'
+  crc: '0xcf4c6548'
+- name: PACMANIA.DAT
+  size: 368
+  date: '1994-10-26T22:19:08'
+  crc: '0x0c5dc66e'
+- name: PACMANIA.DOC
+  size: 17932
+  date: '1990-04-22T01:10:00'
+  crc: '0x3b4072c6'
+- name: PACMANIA.EXE
+  size: 53284
+  date: '1990-04-22T01:10:00'
+  crc: '0xc5aab5fa'

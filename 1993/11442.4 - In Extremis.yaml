@@ -1,0 +1,54 @@
+filename: In Extremis (Installer) (Fr) (1993)(U.S. Gold Ltd.) [Action].zip
+tdc_id: '11442.4'
+title:
+  box: In Extremis
+publisher: U.S. Gold Ltd.
+year: '1993'
+genre: Action
+language: French
+date:
+  added: '2019-03-01T19:09:50'
+  last_modified: '2019-03-01T19:09:50'
+type: zip
+installer: true
+files:
+- name: DATA1
+  size: 1181095
+  date: '1993-12-07T18:59:52'
+  crc: '0xf2e6c09a'
+- name: DATA2
+  size: 1204306
+  date: '1993-12-07T19:03:00'
+  crc: '0x8e7972c4'
+- name: DATA3
+  size: 1278275
+  date: '1993-12-07T19:06:18'
+  crc: '0xa91fad29'
+- name: DATA4
+  size: 1231581
+  date: '1993-12-07T19:11:52'
+  crc: '0xc473f853'
+- name: DATA5
+  size: 1121948
+  date: '1993-12-07T19:14:10'
+  crc: '0x9261e9d6'
+- name: DATA6
+  size: 1009209
+  date: '1993-12-07T19:16:00'
+  crc: '0xdf735415'
+- name: DECOMP.EXE
+  size: 12867
+  date: '1993-10-28T08:22:54'
+  crc: '0x724a7897'
+- name: EXTREMIS.EXE
+  size: 149303
+  date: '1993-12-13T13:55:10'
+  crc: '0x5fe22f3f'
+- name: INSTALL.EXE
+  size: 3289
+  date: '1993-12-10T00:26:12'
+  crc: '0x9c9a2d80'
+- name: SOUND.EXE
+  size: 2271
+  date: '1993-11-25T14:56:40'
+  crc: '0x79774d46'

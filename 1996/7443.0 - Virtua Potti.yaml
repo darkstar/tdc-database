@@ -1,0 +1,32 @@
+filename: Virtua Potti (Fi) (1996)(Jarno Elonen) [Simulation].zip
+tdc_id: '7443.0'
+title:
+  screen: Virtua Potti
+publisher: Jarno Elonen
+year: '1996'
+genre: Simulation
+language: Finnish
+date:
+  added: '2021-11-09T02:57:42'
+  last_modified: '2021-11-09T02:57:42'
+type: zip
+media: Download
+commands:
+  play: potti.exe
+files:
+- name: FILE_ID.DIZ
+  size: 157
+  date: '1996-09-13T01:00:00'
+  crc: '0x9e9336aa'
+- name: POTTI.HIG
+  size: 342
+  date: '1997-09-29T15:04:56'
+  crc: '0x27abd661'
+- name: POTTI.TXT
+  size: 4874
+  date: '1996-11-30T03:24:42'
+  crc: '0x2a94f9d3'
+- name: potti.exe
+  size: 414930
+  date: '1996-09-13T01:00:00'
+  crc: '0xff447d47'

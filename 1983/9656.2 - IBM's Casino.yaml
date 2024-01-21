@@ -1,0 +1,30 @@
+filename: IBM's Casino (color) [SW] (1983)(Boston Computer Society) [Simulation].zip
+tdc_id: '9656.2'
+title:
+  screen: IBM's Casino
+  qualifier: color
+publisher: Boston Computer Society
+year: '1983'
+genre: Simulation
+language: English
+date:
+  added: '2019-09-02T05:03:54'
+  last_modified: '2019-09-02T05:03:54'
+type: zip
+tags:
+- Shareware
+commands:
+  play: SLOTMACH.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: SLOTMACH.BAS
+  size: 6272
+  date: '1983-04-15T12:00:00'
+  crc: '0x65451d3f'
+- name: SLOTMACH.BAT
+  size: 18
+  date: '1980-01-01T11:00:00'
+  crc: '0x62c80808'

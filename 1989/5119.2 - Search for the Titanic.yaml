@@ -1,0 +1,175 @@
+filename: Search for the Titanic (Installer) [a1] (1989)(Capstone Software) [Adventure, Simulation][!].zip
+tdc_id: '5119.2'
+title:
+  box: Search for the Titanic
+publisher: Capstone Software
+year: '1989'
+genre:
+- Adventure
+- Simulation
+language: English
+date:
+  added: '2022-12-12T15:38:25'
+  last_modified: '2022-12-12T15:38:25'
+type: zip
+tags:
+- KnownGood
+- Alternate: 1
+installer: true
+commands:
+  play: STINSTAL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/search-for-the-titanic
+files:
+- name: CACOB.CSC
+  size: 13973
+  date: '1988-12-11T21:12:20'
+  crc: '0xf8248a21'
+- name: CBFB1C.CSC
+  size: 4952
+  date: '1988-12-11T19:54:54'
+  crc: '0xa6418a97'
+- name: CBML.CSC
+  size: 6234
+  date: '1988-12-11T20:05:48'
+  crc: '0x11496a22'
+- name: CC.CSC
+  size: 11129
+  date: '1988-12-11T21:03:12'
+  crc: '0xc25fd8ca'
+- name: CCN.CSC
+  size: 11569
+  date: '1988-12-11T21:22:38'
+  crc: '0x3e726713'
+- name: CCS.CSC
+  size: 7176
+  date: '1988-12-11T20:02:50'
+  crc: '0xa9631d16'
+- name: CGA.BGI
+  size: 6029
+  date: '1987-12-10T01:05:00'
+  crc: '0xcd2d7722'
+- name: COCW.CSC
+  size: 14272
+  date: '1988-12-11T19:34:40'
+  crc: '0xad965cfc'
+- name: CONFIG
+  size: 21
+  date: '1980-01-01T00:01:02'
+  crc: '0x01da0881'
+- name: CROB.CSC
+  size: 3793
+  date: '1988-12-11T19:59:42'
+  crc: '0x110209d1'
+- name: CSBWF.CSC
+  size: 15452
+  date: '1988-12-11T21:30:16'
+  crc: '0x46ecda81'
+- name: CSMB.CSC
+  size: 3657
+  date: '1988-12-11T20:16:02'
+  crc: '0xf9d08ab0'
+- name: CSPS.CSC
+  size: 5459
+  date: '1988-12-11T20:21:24'
+  crc: '0x80c64bfc'
+- name: CWSS.CSC
+  size: 8319
+  date: '1988-12-11T20:29:38'
+  crc: '0xe1d49537'
+- name: EGAVGA.BGI
+  size: 5139
+  date: '1987-12-10T01:05:00'
+  crc: '0x03b024cc'
+- name: GNOMON.VOL
+  size: 5670
+  date: '1988-12-15T11:55:50'
+  crc: '0x223d8dd2'
+- name: IBMDBL.CHR
+  size: 2048
+  date: '1987-12-17T13:45:32'
+  crc: '0xc472d5a7'
+- name: MAPS.VOL
+  size: 90852
+  date: '1989-02-13T00:00:28'
+  crc: '0x57dde2c3'
+- name: OBJECTS.DAT
+  size: 14384
+  date: '1989-02-13T23:42:26'
+  crc: '0x96ecd7cf'
+- name: PHASEII.EXE
+  size: 126972
+  date: '1989-03-10T19:43:18'
+  crc: '0xfc642105'
+- name: RX.WVL
+  size: 60374
+  date: '1989-02-13T23:55:52'
+  crc: '0x7a4de02d'
+- name: ST.BAT
+  size: 138
+  date: '1988-01-01T21:20:20'
+  crc: '0xd3aa99fc'
+- name: STINSTAL.EXE
+  size: 20096
+  date: '1980-01-01T01:21:16'
+  crc: '0x6a7d9efa'
+- name: TANIC.EXE
+  size: 71386
+  date: '1989-02-22T00:18:42'
+  crc: '0xb2fdfeb0'
+- name: TITANIC.GAM
+  size: 2230
+  date: '1980-01-01T00:03:30'
+  crc: '0x9071c09a'
+- name: VACOB.VVC
+  size: 58069
+  date: '1988-12-29T17:31:30'
+  crc: '0x24138809'
+- name: VBFB1C.VVC
+  size: 19958
+  date: '1988-12-29T16:59:10'
+  crc: '0x511c3fc2'
+- name: VBML.VVC
+  size: 25154
+  date: '1988-12-29T17:09:30'
+  crc: '0x9c773ade'
+- name: VCN.VVC
+  size: 52885
+  date: '1988-12-29T17:36:08'
+  crc: '0x5fad48e8'
+- name: VCS.VVC
+  size: 30985
+  date: '1988-12-29T17:06:06'
+  crc: '0x0889faab'
+- name: VOCW.VVC
+  size: 62962
+  date: '1988-12-29T16:29:10'
+  crc: '0xac2276ae'
+- name: VROB.VVC
+  size: 18156
+  date: '1988-12-29T17:02:20'
+  crc: '0x0c211cce'
+- name: VRP.VVC
+  size: 28311
+  date: '1988-12-29T16:55:52'
+  crc: '0xb8eae78f'
+- name: VSBWF.VVC
+  size: 58697
+  date: '1988-12-29T17:40:54'
+  crc: '0xc58a706a'
+- name: VSMB.VVC
+  size: 26096
+  date: '1988-12-29T17:13:28'
+  crc: '0xf25db20b'
+- name: VSPS.VVC
+  size: 27092
+  date: '1988-12-29T17:18:08'
+  crc: '0x45bf19c1'
+- name: VWSS.VVC
+  size: 43049
+  date: '1988-12-29T17:22:40'
+  crc: '0xa347c949'
+- name: WRECKS.DAT
+  size: 3362
+  date: '1980-01-01T00:01:36'
+  crc: '0x644aa62d'

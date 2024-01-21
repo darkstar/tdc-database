@@ -1,0 +1,81 @@
+filename: Bomberogue (2005)(Jakub Debski) [Role-Playing (RPG)].zip
+tdc_id: '878.0'
+title:
+  screen: Bomberogue
+publisher: Jakub Debski
+year: '2005'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-02T10:57:02'
+  last_modified: '2019-03-02T10:57:02'
+type: zip
+commands:
+  play: b-rogue.exe
+files:
+- name: b-rogue.exe
+  size: 440500
+  date: '2005-03-11T11:47:00'
+  crc: '0xee53b3c7'
+- name: b-rogue.ico
+  size: 3262
+  date: '2005-03-11T10:54:22'
+  crc: '0x2185b97e'
+- name: cwsdpmi.exe
+  size: 20125
+  date: '2002-07-22T03:43:38'
+  crc: '0x1d1b569c'
+- name: data\
+  size: 0
+  date: '2005-03-11T11:48:24'
+- name: data\README.TXT
+  size: 364
+  date: '2004-01-28T14:54:10'
+  crc: '0x219a66ad'
+- name: data\ammotype.lst
+  size: 7
+  date: '2005-03-11T00:42:58'
+  crc: '0x8ac86bce'
+- name: data\category.lst
+  size: 113
+  date: '2005-03-11T02:34:42'
+  crc: '0x89347c10'
+- name: data\grenades.lst
+  size: 477
+  date: '2004-05-08T16:45:44'
+  crc: '0x67ebbde0'
+- name: data\items.def
+  size: 1115
+  date: '2005-03-11T11:02:14'
+  crc: '0x7cf37e7c'
+- name: data\keyboard.def
+  size: 445
+  date: '2004-05-30T15:42:52'
+  crc: '0x8111b41a'
+- name: data\levels.def
+  size: 1310
+  date: '2005-03-11T10:46:26'
+  crc: '0x8e6952be'
+- name: data\monsters.def
+  size: 1621
+  date: '2005-03-11T11:02:28'
+  crc: '0x09164114'
+- name: data\pills.lst
+  size: 377
+  date: '2004-05-30T20:54:58'
+  crc: '0xa02bc569'
+- name: data\terrains.def
+  size: 867
+  date: '2005-03-11T02:53:22'
+  crc: '0xb006dac5'
+- name: data\un_gren.lst
+  size: 17
+  date: '2005-03-11T00:49:38'
+  crc: '0x25331e36'
+- name: data\un_pills.lst
+  size: 17
+  date: '2004-05-08T13:46:40'
+  crc: '0x25331e36'
+- name: save\
+  size: 0
+  date: '2005-03-11T11:48:24'

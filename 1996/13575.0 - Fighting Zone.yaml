@@ -1,0 +1,30 @@
+filename: Fighting Zone (1996)(Michael Stein) [Simulation, Strategy].zip
+tdc_id: '13575.0'
+title:
+  screen: Fighting Zone
+publisher: Michael Stein
+year: '1996'
+genre:
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2019-03-02T10:03:34'
+  last_modified: '2019-03-02T10:03:34'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: FIGHT.BAS
+  size: 30586
+  date: '2018-03-10T00:57:38'
+  crc: '0xfad00651'
+- name: GO.BAT
+  size: 25
+  date: '2018-03-14T01:22:42'
+  crc: '0x5d127a05'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'

@@ -1,0 +1,34 @@
+filename: Captain Zoose 1 - Zapped by the Light! (Installer) [SW] (1993)(Acord Games) [Action].zip
+tdc_id: '12004.0'
+title:
+  screen: Captain Zoose 1 - Zapped by the Light!
+  qualifier: Installer
+publisher: Acord Games
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:41:38'
+  last_modified: '2023-03-06T15:59:31'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+files:
+- name: $GAM.EXE
+  size: 8287
+  date: '1993-01-09T20:35:18'
+  crc: '0x42dca0db'
+- name: $ZOOSE.EXE
+  size: 647766
+  date: '1993-02-22T17:51:28'
+  crc: '0x0c6ea1d7'
+- name: INSTALL.BAT
+  size: 130
+  date: '1993-02-16T18:19:16'
+  crc: '0xca583b1e'
+- name: READTHIS.BAT
+  size: 823
+  date: '1993-02-16T18:20:08'
+  crc: '0x7e03eb2b'

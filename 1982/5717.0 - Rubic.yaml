@@ -1,0 +1,32 @@
+filename: Rubic [SW] (1982)(Boston Computer Society) [Strategy, Puzzle].zip
+tdc_id: '5717.0'
+title:
+  screen: Rubic
+publisher: Boston Computer Society
+year: '1982'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-09-02T05:04:14'
+  last_modified: '2019-09-02T05:04:14'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: RUBIC.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T12:00:00'
+  crc: '0x92293842'
+- name: RUBIC.BAS
+  size: 7424
+  date: '1982-06-18T13:00:00'
+  crc: '0xf0fd909a'
+- name: RUBIC.BAT
+  size: 15
+  date: '1980-01-01T12:00:00'
+  crc: '0x59bb1d15'

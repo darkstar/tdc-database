@@ -1,0 +1,33 @@
+filename: Jungle Strike [a1] (1995)(Gremlin Interactive Limited) [Action].zip
+tdc_id: '11665.2'
+title:
+  box: Jungle Strike
+publisher: Gremlin Interactive Limited
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T08:56:08'
+  last_modified: '2019-03-02T08:56:08'
+type: zip
+tags:
+- Alternate: 1
+commands:
+  play: JUNGLE.EXE
+files:
+- name: JUNGLE.CFG
+  size: 404
+  date: '1995-07-30T07:06:30'
+  crc: '0x62dbc00c'
+- name: JUNGLE.DAT
+  size: 3378167
+  date: '1995-07-30T06:59:02'
+  crc: '0x9baa3628'
+- name: JUNGLE.EXE
+  size: 1453
+  date: '1995-07-30T06:58:36'
+  crc: '0x97c48acc'
+- name: README.TXT
+  size: 57
+  date: '1995-07-30T06:58:36'
+  crc: '0x246a46e7'

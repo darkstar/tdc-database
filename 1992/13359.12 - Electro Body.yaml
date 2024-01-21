@@ -1,0 +1,122 @@
+filename: Electro Body v1.000 (Pl) (1992)(xLand Games) [Action].zip
+tdc_id: '13359.12'
+title:
+  box: Electro Body
+publisher: xLand Games
+year: '1992'
+genre: Action
+language: Polish
+date:
+  added: '2019-03-01T18:44:38'
+  last_modified: '2023-12-16T11:20:37'
+version: '1.000'
+type: zip
+media: 360K
+commands:
+  play: EB.BAT
+  setup: INSTALUJ.EXE
+references:
+  mobygames: https://www.mobygames.com/game/752/electroman/
+  dosid: DOS07893
+  exodos: Electro Body (1992).zip
+files:
+- name: CZYTAJ.TO
+  size: 2110
+  date: '1992-02-24T17:34:24'
+  crc: '0xb2c25ef3'
+- name: CZYTAJTO.EXE
+  size: 32800
+  date: '1992-02-12T09:59:22'
+  crc: '0x226110ed'
+- name: DATA_00.VOL
+  size: 34522
+  date: '1992-02-24T17:15:02'
+  crc: '0x7b56a070'
+- name: DATA_01.VOL
+  size: 19124
+  date: '1992-02-24T16:54:14'
+  crc: '0xb42b7013'
+- name: DATA_02.VOL
+  size: 14022
+  date: '1992-02-24T16:54:22'
+  crc: '0x8fab32c8'
+- name: DATA_03.VOL
+  size: 22792
+  date: '1992-02-24T16:54:34'
+  crc: '0x67bbe839'
+- name: DATA_04.VOL
+  size: 18795
+  date: '1992-02-24T16:54:46'
+  crc: '0xd7a25a9a'
+- name: DATA_05.VOL
+  size: 13803
+  date: '1992-02-24T16:54:54'
+  crc: '0xbe1835e5'
+- name: DATA_06.VOL
+  size: 18463
+  date: '1992-02-24T16:55:04'
+  crc: '0xbd1e790b'
+- name: DATA_07.VOL
+  size: 13526
+  date: '1992-02-24T16:55:10'
+  crc: '0xaa7b2c9a'
+- name: DATA_08.VOL
+  size: 13938
+  date: '1992-02-24T16:55:18'
+  crc: '0xebef2a0b'
+- name: DATA_09.VOL
+  size: 22965
+  date: '1992-02-24T16:55:32'
+  crc: '0x99ae8f8c'
+- name: DATA_10.VOL
+  size: 21815
+  date: '1992-02-24T16:55:44'
+  crc: '0x643314c7'
+- name: DATA_11.VOL
+  size: 13925
+  date: '1992-02-24T16:55:52'
+  crc: '0xc76c233e'
+- name: DATA_12.VOL
+  size: 14559
+  date: '1992-02-24T16:56:00'
+  crc: '0x4b5adfde'
+- name: DATA_13.VOL
+  size: 110069
+  date: '1992-02-24T16:57:04'
+  crc: '0x398363e1'
+- name: DATA_14.VOL
+  size: 168248
+  date: '1992-02-24T16:58:44'
+  crc: '0xf20670ef'
+- name: DATA_15.VOL
+  size: 123359
+  date: '1992-02-24T16:59:56'
+  crc: '0x8c1b0cb5'
+- name: DATA_16.VOL
+  size: 173433
+  date: '1992-02-24T17:01:38'
+  crc: '0x0cecb9cd'
+- name: EB.BAT
+  size: 26
+  date: '1992-07-02T21:21:48'
+  crc: '0x2183dafd'
+- name: INSTALUJ.EXE
+  size: 8256
+  date: '1992-02-12T20:02:06'
+  crc: '0xabe10bd3'
+- name: PRODUKTY.DOK
+  size: 7950
+  date: '1992-02-03T11:19:52'
+  crc: '0x1f3454e1'
+- name: UWAGI.DOK
+  size: 2142
+  date: '1991-12-31T09:46:48'
+  crc: '0xed77be19'
+- name: ZAMOW.DOK
+  size: 1188
+  date: '1992-02-24T21:34:26'
+  crc: '0xf8e03042'
+- name: _EB.EXE
+  size: 37008
+  date: '1992-02-24T21:37:00'
+  crc: '0xbaae8ca5'

@@ -1,0 +1,28 @@
+filename: Ping Pong (1995)(Charles Huff) [Action].zip
+tdc_id: '3678.0'
+title:
+  screen: Ping Pong
+publisher: Charles Huff
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T08:58:16'
+  last_modified: '2019-03-02T08:58:16'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 24
+  date: '2018-11-21T23:16:38'
+  crc: '0x948bec37'
+- name: PONG.BAS
+  size: 12014
+  date: '2018-11-21T23:02:10'
+  crc: '0x7f67062e'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

@@ -1,0 +1,41 @@
+filename: Capone [a1] (1988)(Actionware Corporation) [Action].zip
+tdc_id: '8593.1'
+title:
+  box: Capone
+publisher: Actionware Corporation
+year: '1988'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:26:02'
+  last_modified: '2019-03-01T18:26:02'
+type: zip
+tags:
+- Alternate: 1
+commands:
+  play: CAPONE.EXE
+files:
+- name: CAPONE.EXE
+  size: 78410
+  date: '1989-03-08T13:58:58'
+  crc: '0xfd6f781b'
+- name: DISK1
+  size: 207896
+  date: '1988-12-22T01:04:16'
+  crc: '0x3a7fff81'
+- name: DISK2
+  size: 358762
+  date: '1988-12-22T01:14:58'
+  crc: '0x7b1b246b'
+- name: DISK3
+  size: 313274
+  date: '1988-12-22T01:50:24'
+  crc: '0x5007fc4d'
+- name: PCMAPLE.SMU
+  size: 1226
+  date: '1988-09-09T01:07:52'
+  crc: '0x3b226f0a'
+- name: READ.ME
+  size: 1134
+  date: '1989-06-20T00:12:34'
+  crc: '0x129afb10'

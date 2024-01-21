@@ -1,0 +1,40 @@
+filename: Commando Enhanced v1.5 (1999)(the lost patrol) [Action].zip
+tdc_id: '6076.1'
+title:
+  screen: Commando Enhanced
+publisher: the lost patrol
+year: '1999'
+genre: Action
+language: English
+date:
+  added: '2016-02-16T18:05:14'
+  last_modified: '2016-02-16T18:05:14'
+version: '1.5'
+type: zip
+media: Download
+commands:
+  play: COMMANDO.EXE
+references:
+  dosid: DOS07501
+  exodos: Commando Enhanced (1998).zip
+files:
+- name: COMMANDO.EXE
+  size: 961658
+  date: '1999-08-06T12:37:44'
+  crc: '0x30eab7d5'
+- name: FILE_ID.DIZ
+  size: 879
+  date: '1999-08-06T13:07:52'
+  crc: '0x726ef26d'
+- name: README.TXT
+  size: 22426
+  date: '1999-08-06T13:07:06'
+  crc: '0xee1ccf8b'
+- name: TLPIP236.TXT
+  size: 22119
+  date: '1999-08-06T13:12:44'
+  crc: '0x8552efcb'
+- name: WHATSNEW.TXT
+  size: 3128
+  date: '1999-08-06T13:09:48'
+  crc: '0x69f00c3e'

@@ -1,0 +1,41 @@
+filename: Empire v1.9 (1985)(Northwest Software) [Strategy, Simulation].zip
+tdc_id: '13456.1'
+title:
+  screen: Empire
+publisher: Northwest Software
+year: '1985'
+genre:
+- Strategy
+- Simulation
+language: English
+date:
+  added: '2019-03-01T18:24:24'
+  last_modified: '2019-03-01T18:24:24'
+version: '1.9'
+type: zip
+commands:
+  play: EMPIRE.EXE
+references:
+  dosid: DOS15487
+  exodos: Empire (1985).zip
+files:
+- name: A.MAP
+  size: 885
+  date: '1980-01-03T18:25:02'
+  crc: '0x2ebd62f5'
+- name: B.MAP
+  size: 933
+  date: '1980-01-03T18:25:02'
+  crc: '0x2eef5959'
+- name: EMP.HLP
+  size: 17918
+  date: '1980-01-03T18:25:06'
+  crc: '0x6f0552c8'
+- name: EMPIRE.EXE
+  size: 66432
+  date: '1980-01-03T18:25:12'
+  crc: '0x107ccfba'
+- name: EMPIRE.HLP
+  size: 1865
+  date: '1989-10-08T14:50:26'
+  crc: '0xccc40cd8'

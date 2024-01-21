@@ -1,0 +1,122 @@
+filename: Caesars Palace v2.0 (1991)(Virgin Mastertronic International, Inc.) [Simulation].zip
+tdc_id: '12128.0'
+parent_id: '12128.2'
+title:
+  box: Caesars Palace
+publisher: Virgin Mastertronic International, Inc.
+year: '1991'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:35:08'
+  last_modified: '2023-10-05T11:02:52'
+version: '2.0'
+type: zip
+media: 720K
+commands:
+  play: CP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/57649/caesars-palace/
+  dosid: DOS00439
+  exodos: Caesars Palace (1990).zip
+files:
+- name: BCTBLCHR.DAT
+  size: 8258
+  date: '1990-08-07T14:27:00'
+  crc: '0x80ab9263'
+- name: BCTBLSCR.DAT
+  size: 2000
+  date: '1990-08-07T14:27:00'
+  crc: '0x7b8b3665'
+- name: BJTBLCHR.DAT
+  size: 9282
+  date: '1990-05-24T11:48:54'
+  crc: '0x0c21209f'
+- name: BJTBLSCR.DAT
+  size: 2000
+  date: '1990-05-24T11:48:54'
+  crc: '0x7b58dbda'
+- name: CARD.SND
+  size: 1117
+  date: '1990-08-07T11:43:06'
+  crc: '0x8bbdc4b1'
+- name: CGACARD.DAT
+  size: 4078
+  date: '1990-08-07T12:58:18'
+  crc: '0x105d4d7f'
+- name: CGATITLE.DAT
+  size: 16384
+  date: '1990-08-07T14:27:14'
+  crc: '0x4946401d'
+- name: COLCGA.DAT
+  size: 2152
+  date: '1990-01-18T08:44:38'
+  crc: '0xd7e34f1f'
+- name: COLEGA.DAT
+  size: 2152
+  date: '1990-01-18T08:44:40'
+  crc: '0xd43c1c0e'
+- name: COLHRC.DAT
+  size: 2152
+  date: '1990-01-18T08:44:40'
+  crc: '0xe7d524f0'
+- name: COLMCG.DAT
+  size: 2152
+  date: '1990-01-18T08:44:40'
+  crc: '0x0287a2b6'
+- name: COLTAN.DAT
+  size: 2152
+  date: '1990-01-18T08:44:40'
+  crc: '0x61d6ee5d'
+- name: CP.EXE
+  size: 79697
+  date: '1991-01-30T16:28:00'
+  crc: '0xea004872'
+- name: DPTBLCHR.DAT
+  size: 9282
+  date: '1990-05-24T09:38:00'
+  crc: '0xb053e739'
+- name: DPTBLSCR.DAT
+  size: 2000
+  date: '1990-05-24T09:38:00'
+  crc: '0x2c9ef86b'
+- name: HRCCARD.DAT
+  size: 4063
+  date: '1990-08-07T12:58:50'
+  crc: '0x0da8c1f3'
+- name: HRCTITLE.DAT
+  size: 16384
+  date: '1990-08-07T14:27:14'
+  crc: '0x5e0d5128'
+- name: LTRCHR.DAT
+  size: 8258
+  date: '1990-05-24T11:54:06'
+  crc: '0xb2407c72'
+- name: LTRSCR.DAT
+  size: 1
+  date: '1990-05-24T11:54:06'
+  crc: '0xd202ef8d'
+- name: MENUCHR.DAT
+  size: 8258
+  date: '1990-06-11T20:50:02'
+  crc: '0x10421a97'
+- name: MENUSCR.DAT
+  size: 2000
+  date: '1990-06-11T20:50:02'
+  crc: '0x57cf8ae3'
+- name: PGTBLCHR.DAT
+  size: 9282
+  date: '1990-05-24T09:39:44'
+  crc: '0x50269103'
+- name: PGTBLSCR.DAT
+  size: 2000
+  date: '1990-05-24T09:39:44'
+  crc: '0x900e26ca'
+- name: TEMCARD.DAT
+  size: 4728
+  date: '1990-08-07T12:57:36'
+  crc: '0x548cb661'
+- name: TEMTITLE.DAT
+  size: 32768
+  date: '1990-08-07T14:27:14'
+  crc: '0x319abe32'

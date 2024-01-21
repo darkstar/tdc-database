@@ -1,0 +1,38 @@
+filename: Heretic v1.2 (Installer) [SW] (1994)(id Software, Inc.) [Action].zip
+tdc_id: '9593.6'
+title:
+  screen: Heretic
+publisher: id Software, Inc.
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T22:00:30'
+  last_modified: '2019-03-01T22:00:30'
+version: '1.2'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+files:
+- name: deice.exe
+  size: 17303
+  date: '1996-12-24T23:32:00'
+  crc: '0xaad4552c'
+- name: htic_v12.1
+  size: 1439232
+  date: '1996-12-24T23:32:00'
+  crc: '0x547a100d'
+- name: htic_v12.2
+  size: 1429662
+  date: '1996-12-24T23:32:00'
+  crc: '0x9e8d58f3'
+- name: htic_v12.dat
+  size: 257
+  date: '1996-12-24T23:32:00'
+  crc: '0xfbc4098a'
+- name: install.bat
+  size: 188
+  date: '1996-12-24T23:32:00'
+  crc: '0x779b416c'

@@ -1,0 +1,34 @@
+filename: MicroLeague Football 2 (Installer) (1993)(MicroLeague Multimedia, Inc.) [Sports][!].zip
+tdc_id: '14262.1'
+title:
+  box: MicroLeague Football 2
+publisher: MicroLeague Multimedia, Inc.
+year: '1993'
+genre: Sports
+language: English
+date:
+  added: '2019-03-01T19:14:46'
+  last_modified: '2019-03-01T19:14:46'
+type: zip
+tags:
+- KnownGood
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK.ID
+  size: 39
+  date: '1994-07-20T15:08:38'
+  crc: '0x02b68aef'
+- name: INSTALL.DAT
+  size: 6780
+  date: '1994-07-20T16:01:04'
+  crc: '0x5f730d92'
+- name: INSTALL.EXE
+  size: 102888
+  date: '1993-09-13T03:22:00'
+  crc: '0x608e7a0d'
+- name: MLF2.001
+  size: 1281570
+  date: '1994-07-20T14:40:56'
+  crc: '0x9f6be3bc'

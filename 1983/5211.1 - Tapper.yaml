@@ -1,0 +1,26 @@
+filename: Tapper [DC][a1] (1983)(SEGA Enterprises Ltd.) [Action].zip
+tdc_id: '5211.1'
+title:
+  box: Tapper
+publisher: SEGA Enterprises Ltd.
+year: '1983'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:23:22'
+  last_modified: '2019-03-01T18:23:22'
+type: zip
+tags:
+- DOSConversion
+- Alternate: 1
+commands:
+  play: TAPPER.COM
+files:
+- name: TAPPER.COM
+  size: 17920
+  date: '2006-02-05T21:10:38'
+  crc: '0x880a7fe8'
+- name: TAPPER.DAT
+  size: 92160
+  date: '1986-07-09T18:27:22'
+  crc: '0x8c308c5a'

@@ -1,0 +1,49 @@
+filename: Operation Stealth (Installer) (1993)(Delphine Software International, Kixx XL) [Action, Adventure].zip
+tdc_id: '14643.17'
+parent_id: '14643.16'
+title:
+  box: Operation Stealth
+  qualifier: Installer
+publisher: Delphine Software International, Kixx XL
+year: '1993'
+genre:
+- Action
+- Adventure
+language: English
+date:
+  added: '2023-10-17T12:19:59'
+  last_modified: '2023-10-17T12:26:49'
+type: zip
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/2236/007-james-bond-the-stealth-affair/
+files:
+- name: B.BAT
+  size: 462
+  date: '1993-02-12T06:12:40'
+  crc: '0xc0fe4383'
+- name: D1.LZH
+  size: 1150440
+  date: '1993-02-12T03:09:54'
+  crc: '0xe1a0d3a2'
+- name: D2.LZH
+  size: 1358553
+  date: '1993-02-12T03:07:48'
+  crc: '0xc99a6aa5'
+- name: INSTALL.BAT
+  size: 108
+  date: '1993-02-12T04:37:28'
+  crc: '0x3ae826d7'
+- name: LHA.EXE
+  size: 33999
+  date: '1991-03-03T02:11:00'
+  crc: '0xcd37ca26'
+- name: STEALTH.1
+  size: 0
+  date: '1993-02-12T06:08:46'
+- name: STEALTH.2
+  size: 0
+  date: '1993-02-12T06:15:34'

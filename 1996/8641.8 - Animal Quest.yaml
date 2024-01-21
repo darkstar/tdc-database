@@ -1,0 +1,73 @@
+filename: Animal Quest v4.0 [SW] (1996)(Alive Software) [Educational, Simulation].zip
+tdc_id: '8641.8'
+parent_id: '8641.7'
+title:
+  screen: Animal Quest
+publisher: Alive Software
+year: '1996'
+genre:
+- Educational
+- Simulation
+language: English
+date:
+  added: '2019-11-22T19:51:50'
+  last_modified: '2022-12-20T11:17:08'
+version: '4.0'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: AQ.EXE
+  setup: SETUPAQ.EXE
+references:
+  mobygames: https://www.mobygames.com/game/animal-quest
+files:
+- name: ALIVECAT.EXE
+  size: 25065
+  date: '1996-04-01T04:00:00'
+  crc: '0xd54e0ef5'
+- name: AQ.EXE
+  size: 98936
+  date: '1996-04-01T04:00:00'
+  crc: '0xfcf0f95e'
+- name: AQ.TXT
+  size: 9717
+  date: '1996-04-01T04:00:00'
+  crc: '0xa334db59'
+- name: AQ1.GDL
+  size: 13613
+  date: '1996-04-01T04:00:00'
+  crc: '0xffe8fb33'
+- name: AQ1.GGL
+  size: 258572
+  date: '1996-04-01T04:00:00'
+  crc: '0x30d4486e'
+- name: AQ1.GSL
+  size: 114695
+  date: '1996-04-01T04:00:00'
+  crc: '0x27f5ee80'
+- name: FILE_ID.DIZ
+  size: 448
+  date: '1996-04-01T04:00:00'
+  crc: '0x8f4d193b'
+- name: LICENSE.TXT
+  size: 6173
+  date: '1996-04-01T04:00:00'
+  crc: '0x0ae0e84e'
+- name: ORDER.TXT
+  size: 4205
+  date: '1996-04-01T04:00:00'
+  crc: '0x22818a80'
+- name: README.TXT
+  size: 2217
+  date: '1996-04-01T04:00:00'
+  crc: '0x2d3b15ca'
+- name: SETUPAQ.EXE
+  size: 12582
+  date: '1996-04-01T04:00:00'
+  crc: '0x1d5f17ab'
+- name: VENDINFO.DIZ
+  size: 7076
+  date: '1996-04-01T04:00:00'
+  crc: '0xe16c9174'

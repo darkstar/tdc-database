@@ -1,0 +1,35 @@
+filename: CJ's Elephant Antics (1993)(Codemasters Software Company Limited, The) [Action].zip
+tdc_id: '9186.0'
+parent_id: '9186.1'
+title:
+  box: CJ's Elephant Antics
+publisher: Codemasters Software Company Limited, The
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2021-06-24T16:25:50'
+  last_modified: '2021-06-24T16:25:50'
+type: zip
+commands:
+  play: CJ.EXE
+references:
+  dosid: DOS01399
+  exodos: CJ's Elephant Antics (1993).zip
+files:
+- name: ADLIB.BIN
+  size: 19842
+  date: '1993-08-26T15:34:52'
+  crc: '0x6f9fabe6'
+- name: ANTIFONT.BIN
+  size: 13013
+  date: '1993-06-21T09:57:00'
+  crc: '0xade13216'
+- name: CJ.EXE
+  size: 104370
+  date: '1993-09-11T17:46:54'
+  crc: '0xb5b70318'
+- name: GFX1.GFX
+  size: 54273
+  date: '1993-06-17T18:38:10'
+  crc: '0x1768493e'

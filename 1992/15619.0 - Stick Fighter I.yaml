@@ -1,0 +1,30 @@
+filename: Stick Fighter I (1992)(Gary Shaw) [Action].zip
+tdc_id: '15619.0'
+title:
+  screen: Stick Fighter I
+publisher: Gary Shaw
+year: '1992'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:51:32'
+  last_modified: '2019-03-01T18:51:32'
+type: zip
+commands:
+  play: SFI.EXE
+references:
+  dosid: DOS00276
+  exodos: Stick Fighter I (1991).zip
+files:
+- name: EGAVGA.BGI
+  size: 5554
+  date: '1990-10-23T00:00:00'
+  crc: '0x116c5498'
+- name: SFI.DOC
+  size: 264
+  date: '1992-01-16T04:47:22'
+  crc: '0xd2a250e9'
+- name: SFI.EXE
+  size: 45088
+  date: '1992-01-15T03:51:40'
+  crc: '0x8ca7c1b8'

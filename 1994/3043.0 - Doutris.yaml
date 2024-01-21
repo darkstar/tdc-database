@@ -1,0 +1,50 @@
+filename: Doutris v1.2 (1994)(Jens Egeblad) [Strategy, Action].zip
+tdc_id: '3043.0'
+title:
+  screen: Doutris
+publisher: Jens Egeblad
+year: '1994'
+genre:
+- Strategy
+- Action
+language: English
+date:
+  added: '2019-03-01T21:56:14'
+  last_modified: '2019-03-01T21:56:14'
+version: '1.2'
+type: zip
+commands:
+  play: DOUTRIS.EXE
+files:
+- name: DOUTRIS.CFG
+  size: 13
+  date: '2012-09-26T17:46:14'
+  crc: '0x3b27e5de'
+- name: DOUTRIS.EXE
+  size: 59280
+  date: '1994-07-16T20:00:20'
+  crc: '0x6966d99f'
+- name: DOUTRIS0.SEQ
+  size: 282780
+  date: '1994-07-02T20:40:22'
+  crc: '0x01625fbc'
+- name: INTRO.PAL
+  size: 768
+  date: '1994-02-27T15:24:16'
+  crc: '0x0579d3de'
+- name: INTRO.SEQ
+  size: 419495
+  date: '1994-02-27T15:23:42'
+  crc: '0x1adc55af'
+- name: MANUAL.DAT
+  size: 2324
+  date: '1994-07-20T10:42:12'
+  crc: '0xbcbcbf23'
+- name: MEGAFILE.DAT
+  size: 267854
+  date: '1994-07-03T11:59:50'
+  crc: '0xd311532d'
+- name: README.TXT
+  size: 4093
+  date: '1994-07-26T12:01:30'
+  crc: '0x4a506b8b'

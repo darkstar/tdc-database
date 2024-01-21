@@ -1,0 +1,46 @@
+filename: Simulman 03 - Nel regno di Doors (Installer) (It) (1993)(Simulmondo) [Action, Adventure].zip
+tdc_id: '15091.0'
+title:
+  box: Simulman 03 - Nel regno di Doors
+publisher: Simulmondo
+year: '1993'
+genre:
+- Action
+- Adventure
+language: Italian
+date:
+  added: '2019-03-01T21:07:44'
+  last_modified: '2022-11-22T10:38:51'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: 1.U
+  size: 294907
+  date: '1993-04-26T12:52:18'
+  crc: '0xe30e3d90'
+- name: 2.U
+  size: 257050
+  date: '1993-04-26T12:53:02'
+  crc: '0xace0247c'
+- name: ANI1.ANI
+  size: 22628
+  date: '1993-01-13T12:03:58'
+  crc: '0xf6abdb0a'
+- name: GENE.CHV
+  size: 3591
+  date: '1992-12-15T17:05:14'
+  crc: '0x2741b47a'
+- name: INSTALL.DAT
+  size: 5305
+  date: '1993-04-22T06:10:46'
+  crc: '0x473e38ad'
+- name: INSTALL.EXE
+  size: 29447
+  date: '1993-02-15T12:47:58'
+  crc: '0xd2966045'
+- name: RESETTA.COM
+  size: 19
+  date: '1992-12-17T15:23:44'
+  crc: '0xc6a39750'

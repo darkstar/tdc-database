@@ -1,0 +1,33 @@
+filename: Golf (1998)(Dominik Kaspar) [Simulation, Sports].zip
+tdc_id: '14147.0'
+title:
+  screen: Golf
+publisher: Dominik Kaspar
+year: '1998'
+genre:
+- Simulation
+- Sports
+language: English
+date:
+  added: '2019-03-02T10:41:20'
+  last_modified: '2019-03-02T10:41:20'
+type: zip
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 20
+  date: '2018-11-27T12:14:08'
+  crc: '0xbd054053'
+- name: GOLF.BAS
+  size: 17340
+  date: '2018-11-27T12:14:38'
+  crc: '0x90e6e0ca'
+- name: GOLF.SRC
+  size: 17346
+  date: '2018-03-10T14:53:24'
+  crc: '0xb05a0548'
+- name: QB.EXE
+  size: 278804
+  date: '2016-03-13T01:19:58'
+  crc: '0xb08bc0fe'

@@ -1,0 +1,55 @@
+filename: Менск II v2.71828 (Be) (2000)(MenskBand) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '7712.0'
+title:
+  screen: Менск II
+  transliteration: Mensk II
+publisher: MenskBand
+year: '2000'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: Belarusian
+date:
+  added: '2019-03-02T10:54:56'
+  last_modified: '2023-07-02T10:45:26'
+version: '2.71828'
+type: zip
+commands:
+  play: MENSKBND.EXE
+files:
+- name: MENSKBND.EXE
+  size: 29469
+  date: '2000-02-13T18:22:38'
+  crc: '0xf2b68b9a'
+- name: MENSKBND.HOF
+  size: 294
+  date: '2000-02-11T19:38:52'
+  crc: '0x020e3cd7'
+- name: MNSKBND1.DAT
+  size: 4096
+  date: '2000-02-13T17:54:52'
+  crc: '0x75276454'
+- name: MNSKBND2.DAT
+  size: 10639
+  date: '2000-02-13T18:40:48'
+  crc: '0x9afefc29'
+- name: MNSKBND3.DAT
+  size: 64768
+  date: '2000-02-13T18:30:18'
+  crc: '0x5a8e4aa1'
+- name: MNSKBND4.DAT
+  size: 720
+  date: '1999-03-18T13:41:36'
+  crc: '0x2e029186'
+- name: MNSKBND5.DAT
+  size: 544
+  date: '1999-12-29T19:55:10'
+  crc: '0x51a44f7c'
+- name: MNSKBND6.DAT
+  size: 318
+  date: '1999-03-20T12:09:00'
+  crc: '0x0d9cd371'
+- name: README.NOW
+  size: 521
+  date: '2000-02-10T16:36:18'
+  crc: '0xe13610e1'

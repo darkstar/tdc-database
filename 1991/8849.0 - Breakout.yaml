@@ -1,0 +1,39 @@
+filename: Breakout (1991)(Ken Silverman) [Action].zip
+tdc_id: '8849.0'
+title:
+  screen: Breakout
+publisher: Ken Silverman
+year: '1991'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:35:06'
+  last_modified: '2019-03-01T18:35:06'
+type: zip
+commands:
+  play: BREAKOUT.EXE
+files:
+- name: BREAKOUT.256
+  size: 4088
+  date: '1991-03-21T17:03:22'
+  crc: '0xe80cc5b1'
+- name: BREAKOUT.C
+  size: 14421
+  date: '1999-03-26T16:09:38'
+  crc: '0x7de5b0b0'
+- name: BREAKOUT.EXE
+  size: 36553
+  date: '1999-03-26T16:11:56'
+  crc: '0x60d8b0ea'
+- name: GOODGAME.256
+  size: 5050
+  date: '1991-03-23T10:48:42'
+  crc: '0xbcefddc4'
+- name: WINGAME.256
+  size: 13682
+  date: '1991-03-23T10:41:08'
+  crc: '0xefa8cbea'
+- name: YOUSUCK.256
+  size: 9206
+  date: '1991-03-27T23:00:34'
+  crc: '0x669f1859'

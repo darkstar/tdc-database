@@ -1,0 +1,37 @@
+filename: PC-Gammon v2.1 [SW] (1987)(Repstad Computer Consultants) [Strategy, Board].zip
+tdc_id: '10120.0'
+title:
+  screen: PC-Gammon
+publisher: Repstad Computer Consultants
+year: '1987'
+genre:
+- Strategy
+- Board
+language: English
+date:
+  added: '2019-03-01T18:25:30'
+  last_modified: '2019-03-01T18:25:30'
+version: '2.1'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: PCGAMMON.EXE
+files:
+- name: PCGAMMON.DOC
+  size: 7752
+  date: '1987-05-15T15:29:38'
+  crc: '0x0943e364'
+- name: PCGAMMON.EXE
+  size: 117974
+  date: '1987-05-15T15:30:26'
+  crc: '0x20743a92'
+- name: REGISTER.DOC
+  size: 1259
+  date: '1987-05-15T15:33:04'
+  crc: '0x39524890'
+- name: TOKEN.DAT
+  size: 14772
+  date: '1985-12-02T09:22:12'
+  crc: '0x6f21ecca'

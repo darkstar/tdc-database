@@ -1,0 +1,44 @@
+filename: Legacy of the Ancients (Installer) (1989)(Electronic Arts, Inc.) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '6342.1'
+title:
+  box: Legacy of the Ancients
+  qualifier: Installer
+publisher: Electronic Arts, Inc.
+year: '1989'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2023-10-24T17:24:38'
+  last_modified: '2023-10-24T17:24:38'
+type: zip
+media: 360K
+installer: true
+commands:
+  play: LEGACY.BAT
+files:
+- name: CHAR
+  size: 964
+  date: '1989-02-23T17:00:26'
+  crc: '0x5bc66182'
+- name: INSTALL.EXE
+  size: 39531
+  date: '1989-02-13T14:59:36'
+  crc: '0x0820df1c'
+- name: LEGACY.IEA
+  size: 7792
+  date: '1989-02-23T16:56:24'
+  crc: '0xe4aae2cd'
+- name: LEGACY1
+  size: 122796
+  date: '1989-02-27T16:46:04'
+  crc: '0x7666755a'
+- name: LEGACY2
+  size: 202044
+  date: '1989-02-23T17:00:04'
+  crc: '0x18e5b562'
+- name: LEGACY3
+  size: 151026
+  date: '1989-02-23T17:00:22'
+  crc: '0x2c0655bd'

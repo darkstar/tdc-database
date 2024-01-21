@@ -1,0 +1,30 @@
+filename: Computer Operator (1982)(D. Johnson) [Simulation].zip
+tdc_id: '1002.0'
+title:
+  screen: Computer Operator
+publisher: D. Johnson
+year: '1982'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:22:58'
+  last_modified: '2019-03-01T18:22:58'
+type: zip
+commands:
+  play: OPERATOR.BAT
+references:
+  dosid: DOS06784
+  exodos: Computer Operator (1982).zip
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: OPERATOR.BAS
+  size: 12416
+  date: '1982-10-16T20:45:34'
+  crc: '0x85b47fba'
+- name: OPERATOR.BAT
+  size: 17
+  date: '2014-12-07T20:19:00'
+  crc: '0xa5e2d05a'

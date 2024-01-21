@@ -1,0 +1,40 @@
+filename: Original Labyrinth, The (1996)(Eugene Alvin Villar) [Action].zip
+tdc_id: '14662.0'
+title:
+  screen: The Original Labyrinth
+publisher: Eugene Alvin Villar
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:15:28'
+  last_modified: '2019-03-02T10:15:28'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: FONTS.001
+  size: 1958
+  date: '1995-12-22T16:28:52'
+  crc: '0xe560860e'
+- name: GO.BAT
+  size: 28
+  date: '2019-01-02T13:16:04'
+  crc: '0x74729342'
+- name: LABYRINT.BAS
+  size: 75178
+  date: '2019-01-02T13:16:46'
+  crc: '0x9c7947da'
+- name: LABYRINT.HOF
+  size: 64
+  date: '1997-12-21T06:30:00'
+  crc: '0xbeb32532'
+- name: LABYRINT.SRC
+  size: 75176
+  date: '1998-08-16T18:33:08'
+  crc: '0xa639d4d0'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

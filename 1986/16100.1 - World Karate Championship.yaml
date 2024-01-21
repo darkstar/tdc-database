@@ -1,0 +1,30 @@
+filename: World Karate Championship [DC][h1] (1986)(Epyx, Inc.) [Action].zip
+tdc_id: '16100.1'
+title:
+  box: World Karate Championship
+publisher: Epyx, Inc.
+year: '1986'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:25:04'
+  last_modified: '2019-03-01T18:25:04'
+type: zip
+tags:
+- DOSConversion
+- Hack: 1
+commands:
+  play: KARATE.COM
+files:
+- name: KARATE.COM
+  size: 3502
+  date: '1986-11-04T12:00:00'
+  crc: '0x28cd30c2'
+- name: KARATE.KEY
+  size: 550
+  date: '1991-10-18T15:14:10'
+  crc: '0x3f7dc879'
+- name: KARATE.SPI
+  size: 97124
+  date: '1986-11-04T12:00:00'
+  crc: '0xb1e2b776'

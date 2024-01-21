@@ -1,0 +1,33 @@
+filename: Tintin on the Moon (En)(De)(Fr) (1989)(Infogrames Europe SA) [Action].zip
+tdc_id: '16745.0'
+title:
+  box: Tintin on the Moon
+publisher: Infogrames Europe SA
+year: '1989'
+genre: Action
+language:
+- English
+- French
+- German
+date:
+  added: '2019-03-01T18:29:12'
+  last_modified: '2019-03-01T18:29:12'
+type: zip
+commands:
+  play: TATOU.COM
+references:
+  dosid: DOS05151
+  exodos: Tintin on the Moon (1989).zip
+files:
+- name: CONFIG.TAT
+  size: 168
+  date: '1991-07-31T12:06:28'
+  crc: '0x3285fdc1'
+- name: TATOU.COM
+  size: 6789
+  date: '1990-12-05T10:28:56'
+  crc: '0x621a6ca3'
+- name: TINTINC.1
+  size: 145605
+  date: '1990-12-11T15:14:10'
+  crc: '0x4954704a'

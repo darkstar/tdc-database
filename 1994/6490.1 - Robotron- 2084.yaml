@@ -1,0 +1,58 @@
+filename: Robotron- 2084 v1.1 [SW] (1994)(Softlair) [Action].zip
+tdc_id: '6490.1'
+title:
+  screen: 'Robotron: 2084'
+publisher: Softlair
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T22:04:04'
+  last_modified: '2019-03-01T22:04:04'
+version: '1.1'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: ROBOTRON.COM
+references:
+  dosid: DOS07422
+  exodos: Robotron - 2084 (1995).zip
+files:
+- name: ROBOTRON.BSS
+  size: 14080
+  date: '1994-10-10T01:10:00'
+  crc: '0xb4b70574'
+- name: ROBOTRON.COM
+  size: 63731
+  date: '1994-10-10T01:10:00'
+  crc: '0x51251c3f'
+- name: ROBOTRON.DAT
+  size: 5376
+  date: '1994-10-10T01:10:00'
+  crc: '0xa905efb6'
+- name: ROBOTRON.DOC
+  size: 10365
+  date: '1994-10-10T01:10:00'
+  crc: '0x5e88afae'
+- name: ROBOTRON.GRX
+  size: 124672
+  date: '1994-10-10T01:10:00'
+  crc: '0x72aaba92'
+- name: ROBOTRON.PIC
+  size: 65024
+  date: '1994-10-10T01:10:00'
+  crc: '0x4fd82662'
+- name: ROBOTRON.SND
+  size: 198656
+  date: '1994-10-10T01:10:00'
+  crc: '0x9f47298f'
+- name: ROBOTRON.TBL
+  size: 512
+  date: '1994-10-10T01:10:00'
+  crc: '0x04f6f929'
+- name: ROBOTRON.TXT
+  size: 1639
+  date: '1994-10-10T01:10:00'
+  crc: '0xe399e310'

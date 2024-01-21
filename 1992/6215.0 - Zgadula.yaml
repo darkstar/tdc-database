@@ -1,0 +1,64 @@
+filename: Koło Fortuny v1.0 (Pl) (1992)(Techland Soft) [Strategy].zip
+tdc_id: '6215.0'
+title:
+  box: Koło Fortuny
+  screen: Zgadula
+publisher: Techland Soft
+year: '1992'
+genre: Strategy
+language: Polish
+date:
+  added: '2019-03-01T18:48:34'
+  last_modified: '2023-11-03T17:03:37'
+version: '1.0'
+type: zip
+media: 360K
+commands:
+  play: GO.BAT
+references:
+  mobygames: https://www.mobygames.com/game/dos/koo-fortuny
+files:
+- name: FONT.LIB
+  size: 5120
+  date: '1992-05-02T23:08:40'
+  crc: '0x4dae4f26'
+- name: GO.BAT
+  size: 7
+  date: '1993-01-14T19:53:48'
+  crc: '0x71548e8e'
+- name: HASLA.DAT
+  size: 4402
+  date: '1992-06-08T08:17:18'
+  crc: '0x8c068365'
+- name: KOLO.DAT
+  size: 2520
+  date: '1992-04-25T09:20:26'
+  crc: '0xd3396ec4'
+- name: MOUSE.LIB
+  size: 4608
+  date: '1992-01-27T13:23:32'
+  crc: '0x0c56b387'
+- name: SCREEN00.LBM
+  size: 64824
+  date: '1992-12-08T17:04:50'
+  crc: '0xefaa1340'
+- name: SYSTEM.FNT
+  size: 10428
+  date: '1991-10-12T07:23:48'
+  crc: '0x7d261239'
+- name: ZGADGRAF.LIB
+  size: 29184
+  date: '1992-05-12T21:06:30'
+  crc: '0x9e28130d'
+- name: ZGADULA.EXE
+  size: 40035
+  date: '1992-05-18T07:17:16'
+  crc: '0x677071a8'
+- name: ZGADULA.PRJ
+  size: 6767
+  date: '1992-05-13T20:53:28'
+  crc: '0xd110bbe4'
+- name: ZGADULA.TXT
+  size: 1375
+  date: '1992-05-13T20:01:24'
+  crc: '0xeb65d837'

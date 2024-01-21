@@ -1,0 +1,31 @@
+filename: Universe (demo) (1994)(Core Design Ltd.) [Adventure].zip
+tdc_id: '7326.0'
+title:
+  screen: Universe
+  qualifier: demo
+publisher: Core Design Ltd.
+year: '1994'
+genre: Adventure
+language: English
+date:
+  added: '2018-01-23T15:00:08'
+  last_modified: '2018-01-23T15:00:08'
+type: zip
+demo: true
+files:
+- name: FILE_ID.DIZ
+  size: 29
+  date: '1994-09-17T20:16:16'
+  crc: '0x1e481647'
+- name: GO.BAT
+  size: 8
+  date: '1994-08-16T10:56:56'
+  crc: '0x61353835'
+- name: UNIVERSE.EPF
+  size: 1081219
+  date: '1994-07-12T11:52:36'
+  crc: '0x403b9cd5'
+- name: UNIVERSE.EXE
+  size: 55608
+  date: '1994-07-12T12:00:58'
+  crc: '0x707e7c58'

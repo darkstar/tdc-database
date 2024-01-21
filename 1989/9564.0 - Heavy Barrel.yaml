@@ -1,0 +1,84 @@
+filename: Heavy Barrel (1989)(Data East Corporation) [Action].zip
+tdc_id: '9564.0'
+title:
+  box: Heavy Barrel
+publisher: Data East Corporation
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:27:54'
+  last_modified: '2019-03-01T18:27:54'
+type: zip
+references:
+  dosid: DOS02567
+  exodos: Heavy Barrel (1989).zip
+files:
+- name: BACKDROP.MAP
+  size: 4874
+  date: '1989-06-19T12:00:04'
+  crc: '0xcfa8320a'
+- name: CHECKFOR.EXE
+  size: 6661
+  date: '1989-06-19T12:00:02'
+  crc: '0xcf5d4f3d'
+- name: HB.EXE
+  size: 1202
+  date: '1989-06-19T12:00:02'
+  crc: '0x8dda1091'
+- name: HB_PROG.EXE
+  size: 140412
+  date: '1989-07-16T18:14:44'
+  crc: '0x1bb93acd'
+- name: INST.BAT
+  size: 1725
+  date: '1989-06-19T12:00:02'
+  crc: '0xb7763158'
+- name: INSTALL.BAT
+  size: 2386
+  date: '1989-06-19T12:00:02'
+  crc: '0xc93d6e8b'
+- name: LEVEL0.BIN
+  size: 8067
+  date: '1989-06-19T12:00:02'
+  crc: '0xa3e2268e'
+- name: LEVEL1.BIN
+  size: 23285
+  date: '1989-06-19T12:00:02'
+  crc: '0x1d30c875'
+- name: LEVEL2.BIN
+  size: 25986
+  date: '1989-06-19T12:00:02'
+  crc: '0x83f7f89a'
+- name: LEVEL3.BIN
+  size: 25184
+  date: '1989-06-19T12:00:02'
+  crc: '0x63c1d97d'
+- name: LEVEL4.BIN
+  size: 24507
+  date: '1989-06-19T12:00:02'
+  crc: '0x41f7f420'
+- name: LEVEL5.BIN
+  size: 26036
+  date: '1989-06-19T12:00:02'
+  crc: '0x8d40d451'
+- name: LEVEL6.BIN
+  size: 30385
+  date: '1989-06-19T12:00:02'
+  crc: '0xd998f8b8'
+- name: LEVEL7.BIN
+  size: 22008
+  date: '1989-06-19T12:00:02'
+  crc: '0x4397982a'
+- name: SCRIPT.BIN
+  size: 1880
+  date: '1989-06-19T12:00:02'
+  crc: '0x320160a2'
+- name: SPRITES.CGA
+  size: 65634
+  date: '1989-06-19T12:00:00'
+  crc: '0x1b18c9e1'
+- name: SPRITES.EGA
+  size: 98563
+  date: '1989-06-19T12:00:02'
+  crc: '0x7fdfefc1'

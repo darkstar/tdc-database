@@ -1,0 +1,40 @@
+filename: Wacky Wheels v1.0 [SW] (1994)(Game Bytes Magazine) [Action].zip
+tdc_id: '7453.13'
+title:
+  screen: Wacky Wheels
+publisher: Game Bytes Magazine
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2023-03-14T07:01:53'
+  last_modified: '2023-03-14T07:01:53'
+version: '1.0'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: WW.EXE
+  setup: SETUP.EXE
+files:
+- name: MODEM.PCK
+  size: 2997
+  date: '1994-08-24T19:19:52'
+  crc: '0xc163daba'
+- name: SETUP.EXE
+  size: 403759
+  date: '1994-09-09T22:16:10'
+  crc: '0xc8b9a15d'
+- name: WACKY.LID
+  size: 4382297
+  date: '1994-09-10T00:13:22'
+  crc: '0x245d677d'
+- name: WW.EXE
+  size: 667049
+  date: '1994-09-09T22:34:20'
+  crc: '0xda49381e'
+- name: WWSW.BIN
+  size: 4000
+  date: '1994-09-05T18:59:54'
+  crc: '0x433704a5'

@@ -1,0 +1,32 @@
+filename: Four Symbols, The v1.1 [SW] (1992)(Borphee Computers) [Adventure, Interactive Fiction].zip
+tdc_id: '2255.0'
+title:
+  screen: The Four Symbols
+publisher: Borphee Computers
+year: '1992'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:44:50'
+  last_modified: '2019-03-01T18:44:50'
+version: '1.1'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: SYMSAMP.EXE
+references:
+  dosid: DOS00165
+  exodos: Four Symbols, The (1992).zip
+files:
+- name: README.DOC
+  size: 4787
+  date: '1993-02-26T19:21:20'
+  crc: '0x5292ffcb'
+- name: SYMSAMP.EXE
+  size: 244278
+  date: '1993-04-13T12:06:32'
+  crc: '0xd77a915c'

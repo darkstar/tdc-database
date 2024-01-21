@@ -1,0 +1,29 @@
+filename: Tätris (1997)(Marko Berkenbusch) [Strategy, Action].zip
+tdc_id: '4122.0'
+title:
+  screen: Tätris
+publisher: Marko Berkenbusch
+year: '1997'
+genre:
+- Strategy
+- Action
+language: English
+date:
+  added: '2019-03-02T10:38:54'
+  last_modified: '2019-03-02T10:38:54'
+type: zip
+commands:
+  play: TETRIS.COM
+files:
+- name: TETRIS.COM
+  size: 8879
+  date: '1997-06-04T17:03:00'
+  crc: '0x20199a3e'
+- name: TETRIS.PAL
+  size: 768
+  date: '1997-03-04T21:04:02'
+  crc: '0x0978bb0e'
+- name: TETRLOGO.DAT
+  size: 4136
+  date: '1997-02-24T20:59:02'
+  crc: '0x565b3728'

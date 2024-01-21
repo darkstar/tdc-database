@@ -1,0 +1,74 @@
+filename: World Cup USA 94 (Installer) (En)(De)(Fr)(It) (1994)(U.S. Gold Ltd.) [Sports].zip
+tdc_id: '16094.1'
+title:
+  box: World Cup USA 94
+publisher: U.S. Gold Ltd.
+year: '1994'
+genre: Sports
+language:
+- English
+- French
+- Italian
+- German
+date:
+  added: '2019-03-02T07:19:38'
+  last_modified: '2022-11-30T10:28:24'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/world-cup-usa-94
+files:
+- name: ADLIB.RNC
+  size: 11456
+  date: '1994-05-27T10:53:56'
+  crc: '0x0989efaf'
+- name: FORMS.RNC
+  size: 4543
+  date: '1994-06-06T13:06:46'
+  crc: '0x60512bcf'
+- name: GRAPHICS.RNC
+  size: 689246
+  date: '1994-06-07T18:00:58'
+  crc: '0xa64820a3'
+- name: INSTALL.EXE
+  size: 77461
+  date: '1994-06-09T11:58:38'
+  crc: '0xea3d8ff9'
+- name: KITS.RNC
+  size: 800
+  date: '1994-06-06T13:07:38'
+  crc: '0x243245ce'
+- name: LANGUAGE.RNC
+  size: 7710
+  date: '1994-06-07T14:35:52'
+  crc: '0x318ce06b'
+- name: PPUNPACK.EXE
+  size: 40035
+  date: '1994-06-07T12:12:24'
+  crc: '0xe9c234d0'
+- name: PROGRAMS.RNC
+  size: 131193
+  date: '1994-06-08T16:11:48'
+  crc: '0xb47433df'
+- name: ROLAND.RNC
+  size: 24813
+  date: '1994-05-27T10:55:56'
+  crc: '0x951e950e'
+- name: SBMUSIC.RNC
+  size: 507842
+  date: '1994-05-27T10:55:14'
+  crc: '0xb6abb163'
+- name: SBSFX.RNC
+  size: 62849
+  date: '1994-05-27T10:55:28'
+  crc: '0xaf1b81ca'
+- name: SEQUENCE.RNC
+  size: 91975
+  date: '1994-05-27T10:53:42'
+  crc: '0x9a0e3b4e'
+- name: TACTIC.RNC
+  size: 2063
+  date: '1994-06-07T16:17:24'
+  crc: '0x15b2e110'

@@ -1,0 +1,28 @@
+filename: Traveler (1998)(Joe) [Role-Playing (RPG)].zip
+tdc_id: '16886.0'
+title:
+  screen: Traveler
+publisher: Joe
+year: '1998'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-02T10:44:42'
+  last_modified: '2019-03-02T10:44:42'
+type: zip
+media: Download
+commands:
+  play: PLAY.BAT
+files:
+- name: PLAY.BAT
+  size: 20
+  date: '2016-07-07T18:34:30'
+  crc: '0x6c54bc66'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-08T17:28:02'
+  crc: '0x19f6ed75'
+- name: traveler.bas
+  size: 35460
+  date: '2016-02-21T21:09:26'
+  crc: '0xfbb311e1'

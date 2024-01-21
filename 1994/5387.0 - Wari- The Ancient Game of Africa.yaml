@@ -1,0 +1,57 @@
+filename: Wari- The Ancient Game of Africa v1.2 (Installer) [SW][f1] (1994)(ImagiSOFT, Inc.) [Strategy].zip
+tdc_id: '5387.0'
+title:
+  screen: 'Wari: The Ancient Game of Africa'
+publisher: ImagiSOFT, Inc.
+year: '1994'
+genre: Strategy
+language: English
+date:
+  added: '2022-03-20T18:19:42'
+  last_modified: '2022-03-20T18:19:42'
+version: '1.2'
+type: zip
+tags:
+- Shareware
+- Fixed: 1
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 408
+  date: '1994-05-01T12:00:00'
+  crc: '0x1c438410'
+- name: INSTALL.BIN
+  size: 4000
+  date: '1994-05-01T12:00:00'
+  crc: '0x79ab781f'
+- name: INSTALL.EXE
+  size: 34499
+  date: '1994-05-01T12:00:00'
+  crc: '0x52750937'
+- name: INSTALL.FIL
+  size: 6683
+  date: '1994-05-01T12:00:00'
+  crc: '0xcf238f52'
+- name: INSTALL.FI_
+  size: 6683
+  date: '1994-05-01T12:00:00'
+  crc: '0xdafb1f58'
+- name: READ.ME
+  size: 6355
+  date: '1994-05-01T12:00:00'
+  crc: '0xe6083c9c'
+- name: VENDOR.DOC
+  size: 5321
+  date: '1994-05-01T12:00:00'
+  crc: '0x63c6df35'
+- name: WARI.PAK
+  size: 328093
+  date: '1994-05-01T12:00:00'
+  crc: '0xea665c93'
+- name: WINDOWS.PAK
+  size: 837
+  date: '1994-05-01T12:00:00'
+  crc: '0x65d810c9'

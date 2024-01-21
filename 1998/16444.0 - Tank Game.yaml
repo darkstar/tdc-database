@@ -1,0 +1,28 @@
+filename: Tank Game (1998)(Dave Duvenaud) [Strategy].zip
+tdc_id: '16444.0'
+title:
+  screen: Tank Game
+publisher: Dave Duvenaud
+year: '1998'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:44:38'
+  last_modified: '2019-03-02T10:44:38'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: BOMB.BAS
+  size: 17714
+  date: '1998-05-30T13:06:30'
+  crc: '0xb405ee49'
+- name: GO.BAT
+  size: 24
+  date: '2018-11-18T10:04:22'
+  crc: '0xe46127bf'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

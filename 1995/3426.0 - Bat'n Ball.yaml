@@ -1,0 +1,47 @@
+filename: Bat'n Ball v1.1 (1995)(Button Soft) [Action].zip
+tdc_id: '3426.0'
+title:
+  screen: Bat'n Ball
+publisher: Button Soft
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T07:29:46'
+  last_modified: '2019-03-02T07:29:46'
+version: '1.1'
+type: zip
+commands:
+  play: BAT.EXE
+references:
+  dosid: DOS00963
+  exodos: Bat'n Ball (1995).zip
+files:
+- name: BALLFNT.VGA
+  size: 3042
+  date: '1992-08-20T17:20:48'
+  crc: '0x006ea45e'
+- name: BAT.EXE
+  size: 42438
+  date: '1995-10-17T12:12:50'
+  crc: '0x5a0ccc65'
+- name: BAT0
+  size: 17212
+  date: '1994-09-30T16:25:32'
+  crc: '0xcf65df02'
+- name: BAT1
+  size: 3042
+  date: '1992-09-16T13:19:24'
+  crc: '0x3967d39a'
+- name: BAT3
+  size: 768
+  date: '1994-09-30T15:53:46'
+  crc: '0x82ddf68a'
+- name: BAT4
+  size: 4
+  date: '1995-10-17T12:14:24'
+  crc: '0xc17d291e'
+- name: READ.ME
+  size: 3691
+  date: '1995-10-17T11:59:48'
+  crc: '0x8410ba25'

@@ -1,0 +1,30 @@
+filename: Checkers (1985)(Anonymous) [Strategy, Board].zip
+tdc_id: '9298.0'
+title:
+  screen: Checkers
+publisher: Anonymous
+year: '1985'
+genre:
+- Strategy
+- Board
+language: English
+date:
+  added: '2019-03-01T18:24:22'
+  last_modified: '2019-03-01T18:24:22'
+type: zip
+media: Download
+commands:
+  play: RUN.BAT
+files:
+- name: CHECKERS.BAS
+  size: 4971
+  date: '1985-08-15T02:56:52'
+  crc: '0x655f33cd'
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1988-10-04T19:00:08'
+  crc: '0x2a44af39'
+- name: RUN.BAT
+  size: 24
+  date: '2018-02-15T12:04:30'
+  crc: '0x3c1aaced'

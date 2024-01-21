@@ -1,0 +1,74 @@
+filename: Sons of Liberty (1988)(Strategic Simulations, Inc.) [Strategy].zip
+tdc_id: '15279.0'
+title:
+  box: Sons of Liberty
+publisher: Strategic Simulations, Inc.
+year: '1988'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:26:46'
+  last_modified: '2019-03-01T18:26:46'
+type: zip
+commands:
+  play: START.EXE
+references:
+  dosid: DOS04669
+  exodos: Sons of Liberty (1988).zip
+files:
+- name: MONM.DAT
+  size: 7930
+  date: '1988-03-24T19:46:00'
+  crc: '0x1d660cd5'
+- name: REVBAS.SHP
+  size: 8192
+  date: '1988-02-23T18:58:50'
+  crc: '0xd3afd308'
+- name: REVCGAST.SHP
+  size: 2048
+  date: '1988-03-23T20:52:32'
+  crc: '0xf4a93d86'
+- name: REVEGAA.SHP
+  size: 6213
+  date: '1988-03-25T19:48:48'
+  crc: '0xf88fc339'
+- name: REVEGAB.SHP
+  size: 5043
+  date: '1988-03-20T14:10:26'
+  crc: '0xd5a8b397'
+- name: REVEGAST.SHP
+  size: 1765
+  date: '1988-03-23T20:48:56'
+  crc: '0xd020281e'
+- name: REVMON.SHP
+  size: 8192
+  date: '1988-03-21T08:22:32'
+  crc: '0x4f8a8878'
+- name: REVSYM.SHP
+  size: 8192
+  date: '1988-03-21T17:58:44'
+  crc: '0x6ecd75c5'
+- name: SARA.DAT
+  size: 7930
+  date: '1988-03-24T19:45:24'
+  crc: '0xdbb9e1d4'
+- name: SOL1.GIF
+  size: 214327
+  date: '1997-04-09T21:48:56'
+  crc: '0xb2dce936'
+- name: SOL2.GIF
+  size: 154952
+  date: '1997-04-10T04:13:32'
+  crc: '0x3ce04c2d'
+- name: SOL3.GIF
+  size: 75200
+  date: '1997-04-10T04:12:34'
+  crc: '0x4b75ffa7'
+- name: SONSLIBQ.DOC
+  size: 820
+  date: '1997-05-28T18:01:28'
+  crc: '0xe2cfedd5'
+- name: START.EXE
+  size: 232990
+  date: '2001-11-10T18:36:06'
+  crc: '0xa838891e'

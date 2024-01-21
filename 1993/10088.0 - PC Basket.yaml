@@ -1,0 +1,96 @@
+filename: PC Basket (Es) (1993)(Dinamic Multimedia, S.A.) [Simulation, Sports].zip
+tdc_id: '10088.0'
+title:
+  box: PC Basket
+publisher: Dinamic Multimedia, S.A.
+year: '1993'
+genre:
+- Simulation
+- Sports
+language: Spanish
+date:
+  added: '2020-04-09T12:19:02'
+  last_modified: '2020-04-09T12:19:02'
+type: zip
+commands:
+  play: PCBASKET.EXE
+references:
+  dosid: DOS03924
+  exodos: PC Basket (1993).zip
+files:
+- name: BASKET93.DBC
+  size: 16472
+  date: '2008-07-23T01:11:16'
+  crc: '0xb03cac0e'
+- name: BASKET93.DGF
+  size: 1138189
+  date: '2008-07-23T01:11:16'
+  crc: '0x8b03d94a'
+- name: BICAM.DIB
+  size: 24011
+  date: '2008-07-23T01:10:42'
+  crc: '0xd6ed25af'
+- name: CTRLMAN.DAT
+  size: 200762
+  date: '1993-05-04T00:52:34'
+  crc: '0xb00f85b6'
+- name: CTRLMAN.DA_
+  size: 200762
+  date: '2008-07-23T01:11:20'
+  crc: '0x967c3dcf'
+- name: GFX00.DAT
+  size: 1020342
+  date: '2008-07-23T01:11:00'
+  crc: '0x08082c38'
+- name: JUGADA.GME
+  size: 58284
+  date: '2008-07-23T01:10:42'
+  crc: '0x2ef35037'
+- name: MANAGER.DAT
+  size: 92144
+  date: '2008-07-23T01:10:44'
+  crc: '0x7aa05d9e'
+- name: MARCA.DIB
+  size: 1539
+  date: '2008-07-23T01:10:42'
+  crc: '0x20d0a34c'
+- name: MARCAD.DIB
+  size: 882
+  date: '2008-07-23T01:10:42'
+  crc: '0x7adcabaa'
+- name: MARCADO.DIB
+  size: 1012
+  date: '2008-07-23T01:10:42'
+  crc: '0x7c45cabe'
+- name: MARCADOR.DIB
+  size: 1012
+  date: '2008-07-23T01:10:42'
+  crc: '0xa3b84020'
+- name: MIS.DIB
+  size: 3254
+  date: '2008-07-23T01:10:42'
+  crc: '0xd4f763a7'
+- name: PAL.GME
+  size: 1380
+  date: '2008-07-23T01:10:44'
+  crc: '0x771dde5d'
+- name: PALCAM.GME
+  size: 6144
+  date: '2008-07-23T01:10:44'
+  crc: '0x6b5d2ce8'
+- name: PCBASKET.EXE
+  size: 21190
+  date: '2008-07-23T01:10:46'
+  crc: '0x890351c0'
+- name: PROTA.DIB
+  size: 173585
+  date: '2008-07-23T01:10:42'
+  crc: '0x7c72acbe'
+- name: REDAOL.DAT
+  size: 17492
+  date: '2008-07-23T01:11:18'
+  crc: '0xb5ceeb63'
+- name: SONIDO.GME
+  size: 63086
+  date: '2008-07-23T01:10:44'
+  crc: '0xbf662e84'

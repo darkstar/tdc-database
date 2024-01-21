@@ -1,0 +1,34 @@
+filename: Starshift v1.01 (Installer) (1998)(Jetro Lauha) [Action].zip
+tdc_id: '15580.0'
+title:
+  screen: Starshift
+publisher: Jetro Lauha
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2015-05-02T15:04:20'
+  last_modified: '2015-05-02T15:04:20'
+version: '1.01'
+type: zip
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: CAB.0
+  size: 1275563
+  date: '1998-05-18T20:02:30'
+  crc: '0x14da1d19'
+- name: FILE_ID.DIZ
+  size: 194
+  date: '1998-05-18T19:49:04'
+  crc: '0x64d056c8'
+- name: FILE_ID.ENG
+  size: 196
+  date: '1998-05-18T19:46:10'
+  crc: '0xb377726d'
+- name: INSTALL.EXE
+  size: 75978
+  date: '1998-05-18T19:42:32'
+  crc: '0x48ba9504'

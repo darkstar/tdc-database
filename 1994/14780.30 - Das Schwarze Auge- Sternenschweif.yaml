@@ -1,0 +1,36 @@
+filename: Das Schwarze Auge- Sternenschweif (playable demo) (Installer) (De) (1994)(Attic Entertainment Software GmbH) [Role-Playing (RPG)].zip
+tdc_id: '14780.30'
+parent_id: '14780.29'
+title:
+  box: 'Das Schwarze Auge: Sternenschweif'
+  qualifier: playable demo
+publisher: Attic Entertainment Software GmbH
+year: '1994'
+genre: Role-Playing (RPG)
+language: German
+date:
+  added: '2023-08-01T11:37:13'
+  last_modified: '2023-08-01T11:37:13'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/3438/realms-of-arkania-star-trail/
+files:
+- name: DEMO.DAT
+  size: 1376639
+  date: '1994-06-23T18:15:16'
+  crc: '0x2d04d851'
+- name: INSTALL.AIF
+  size: 45522
+  date: '1994-05-23T18:44:46'
+  crc: '0xf6185680'
+- name: INSTALL.EXE
+  size: 25032
+  date: '1994-06-23T14:36:14'
+  crc: '0x8fcb1d4e'
+- name: SCHWEIF.TXT
+  size: 1065
+  date: '1994-06-23T17:18:46'
+  crc: '0x9842f226'

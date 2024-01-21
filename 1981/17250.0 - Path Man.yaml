@@ -1,0 +1,30 @@
+filename: Path Man [FW] (1981)(Ed Davis, Dave Smith) [Action].zip
+tdc_id: '17250.0'
+title:
+  screen: Path Man
+publisher: Ed Davis, Dave Smith
+year: '1981'
+genre: Action
+language: English
+date:
+  added: '2023-03-01T13:36:08'
+  last_modified: '2023-03-01T13:36:08'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: pathman.bat
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T12:00:00'
+  crc: '0x92293842'
+- name: pathman.bas
+  size: 11104
+  date: '2002-01-19T08:57:22'
+  crc: '0xed6aadaa'
+- name: pathman.bat
+  size: 29
+  date: '2023-01-30T09:32:02'
+  crc: '0xaae1a46f'

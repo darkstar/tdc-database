@@ -1,0 +1,31 @@
+filename: Twilight- 2000 v1.01 Upgrade (Installer) (1992)(MicroProse Software, Inc.) [Role-Playing (RPG), Strategy, Addon].zip
+tdc_id: '16999.5'
+title:
+  screen: 'Twilight: 2000'
+publisher: MicroProse Software, Inc.
+year: '1992'
+genre:
+- Role-Playing (RPG)
+- Strategy
+- Addon
+language: English
+date:
+  added: '2019-03-01T18:52:04'
+  last_modified: '2019-03-01T18:52:04'
+version: '1.01'
+type: zip
+installer: true
+patch: true
+files:
+- name: README.COM
+  size: 682
+  date: '1992-02-04T15:15:58'
+  crc: '0xb4095907'
+- name: UPDATE.EXE
+  size: 10794
+  date: '1992-02-12T08:39:42'
+  crc: '0x69d4dbc4'
+- name: VGAUPD1.TWI
+  size: 325197
+  date: '1992-03-27T15:46:54'
+  crc: '0xbc49dea0'

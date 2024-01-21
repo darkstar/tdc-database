@@ -1,0 +1,85 @@
+filename: Disney's The Jungle Book v2.1 (Installer) (1995)(Virgin Interactive Entertainment (Europe) Ltd.) [Action].zip
+tdc_id: '9485.1'
+parent_id: '9485.2'
+title:
+  box: Disney's The Jungle Book
+publisher: Virgin Interactive Entertainment (Europe) Ltd.
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2023-02-03T16:36:28'
+  last_modified: '2023-02-03T16:36:28'
+version: '2.1'
+type: zip
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/disneys-the-jungle-book__
+files:
+- name: DEINST.EXE
+  size: 23552
+  date: '1995-10-11T11:24:30'
+  crc: '0x98dd485e'
+- name: DISK1
+  size: 700000
+  date: '1995-10-23T16:05:22'
+  crc: '0x5c3bdbfe'
+- name: DISK2
+  size: 1420000
+  date: '1995-10-23T16:05:20'
+  crc: '0xd4fbc350'
+- name: DISK3
+  size: 1086241
+  date: '1995-10-23T16:05:22'
+  crc: '0x07f02b7f'
+- name: EPREMOVE.EXE
+  size: 35328
+  date: '1995-10-11T12:14:12'
+  crc: '0xfbcc324f'
+- name: INSTALL.EXE
+  size: 13048
+  date: '1995-09-25T12:10:58'
+  crc: '0x042754a4'
+- name: JUNGLE.BMP
+  size: 8578
+  date: '1995-09-04T05:44:48'
+  crc: '0x8e282412'
+- name: JUNGLE.CFG
+  size: 125
+  date: '1995-10-17T15:40:54'
+  crc: '0x96dc15f6'
+- name: JUNGLE.ICO
+  size: 766
+  date: '1995-08-14T04:31:20'
+  crc: '0x73b412a5'
+- name: SETUP.EPI
+  size: 7398
+  date: '1995-10-17T16:13:44'
+  crc: '0xec402234'
+- name: SETUP.EXE
+  size: 61952
+  date: '1995-10-18T10:49:46'
+  crc: '0x66692e47'
+- name: WING.DLL
+  size: 92208
+  date: '1994-09-20T16:00:00'
+  crc: '0x420c7155'
+- name: WING32.DLL
+  size: 12800
+  date: '1994-09-20T16:00:00'
+  crc: '0xc259f8ca'
+- name: WINGDE.DLL
+  size: 188960
+  date: '1994-08-23T16:00:00'
+  crc: '0x3b514083'
+- name: WINGDIB.DRV
+  size: 6736
+  date: '1994-09-20T16:00:00'
+  crc: '0x1be07fa4'
+- name: WINGPAL.WND
+  size: 5024
+  date: '1994-09-20T16:00:00'
+  crc: '0xa2b26dc7'

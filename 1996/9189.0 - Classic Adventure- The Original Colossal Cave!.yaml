@@ -1,0 +1,35 @@
+filename: Classic Adventure- The Original Colossal Cave! (1996)(FunStuff Software) [Adventure].zip
+tdc_id: '9189.0'
+title:
+  screen: 'Classic Adventure: The Original Colossal Cave!'
+publisher: FunStuff Software
+year: '1996'
+genre: Adventure
+language: English
+date:
+  added: '2018-04-08T09:17:10'
+  last_modified: '2018-04-08T09:17:10'
+type: zip
+media: Download
+commands:
+  play: ADVENTUR.EXE
+references:
+  dosid: DOS06779
+  exodos: Classic Adventure - The Original Colossal Cave! (1996).zip
+files:
+- name: AD.DAT
+  size: 52398
+  date: '1996-09-16T01:36:54'
+  crc: '0x959b66fa'
+- name: ADVENTUR.EXE
+  size: 98101
+  date: '1996-09-16T01:36:54'
+  crc: '0xe37c585d'
+- name: FILE_ID.DIZ
+  size: 347
+  date: '1996-09-16T01:36:54'
+  crc: '0x5c12fda9'
+- name: README.ADV
+  size: 3028
+  date: '1996-09-16T01:36:54'
+  crc: '0xf3572cf9'

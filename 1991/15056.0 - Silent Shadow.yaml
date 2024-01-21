@@ -1,0 +1,90 @@
+filename: Silent Shadow (1991)(Topo Soft) [Action].zip
+tdc_id: '15056.0'
+title:
+  box: Silent Shadow
+publisher: Topo Soft
+year: '1991'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:38:08'
+  last_modified: '2019-03-01T18:38:08'
+type: zip
+commands:
+  play: Silent.exe
+references:
+  dosid: DOS04554
+  exodos: Silent Shadow (1988).zip
+files:
+- name: AVIONESC.BIN
+  size: 9412
+  date: '1991-03-19T15:06:00'
+  crc: '0x481fa75d'
+- name: BARRAC.BIN
+  size: 322
+  date: '1991-03-24T20:58:20'
+  crc: '0x7835d97a'
+- name: CARACTC.BIN
+  size: 34
+  date: '1991-03-19T15:06:24'
+  crc: '0x88e07328'
+- name: ENEMCOPC.BIN
+  size: 7712
+  date: '1991-03-20T10:51:34'
+  crc: '0xf0172a70'
+- name: ENEMYC.BIN
+  size: 15410
+  date: '1991-03-19T15:06:10'
+  crc: '0x97b7557e'
+- name: F1PC.BIN
+  size: 24672
+  date: '1991-03-19T15:06:18'
+  crc: '0x04a5dd57'
+- name: F2PC.BIN
+  size: 24672
+  date: '1991-03-19T15:06:28'
+  crc: '0x22824b1b'
+- name: F3PC.BIN
+  size: 24672
+  date: '1991-03-19T15:06:32'
+  crc: '0x6c1e455c'
+- name: F4PC.BIN
+  size: 24672
+  date: '1991-04-18T12:45:00'
+  crc: '0x1ad26c36'
+- name: F5PC.BIN
+  size: 18710
+  date: '1991-03-19T15:06:24'
+  crc: '0xcfe61333'
+- name: F6PC.BIN
+  size: 2498
+  date: '1991-03-19T15:06:24'
+  crc: '0xd322c7dd'
+- name: FIN1C.BIN
+  size: 20644
+  date: '1991-04-09T15:44:26'
+  crc: '0xfac87601'
+- name: FIN2C.BIN
+  size: 26882
+  date: '1991-04-09T15:44:28'
+  crc: '0x26a39180'
+- name: FIN3C.BIN
+  size: 30402
+  date: '1991-04-09T16:07:00'
+  crc: '0xaa96bb55'
+- name: LETRASC.BIN
+  size: 1952
+  date: '1991-03-19T15:06:26'
+  crc: '0xc8a6ff84'
+- name: PLANESC.BIN
+  size: 2896
+  date: '1991-03-24T20:58:22'
+  crc: '0xad171f87'
+- name: SIL2C.BIN
+  size: 32002
+  date: '1991-04-11T02:03:52'
+  crc: '0x410eb65a'
+- name: Silent.exe
+  size: 161988
+  date: '2002-01-03T20:32:56'
+  crc: '0x193db730'

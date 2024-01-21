@@ -1,0 +1,30 @@
+filename: Maze [FW] (1999)(Jean Crpeau) [Strategy].zip
+tdc_id: '17277.0'
+title:
+  screen: Maze
+publisher: Jean Crpeau
+year: '1999'
+genre: Strategy
+language: English
+date:
+  added: '2023-03-16T06:53:58'
+  last_modified: '2023-03-16T06:53:58'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: go.bat
+files:
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T02:28:02'
+  crc: '0x19f6ed75'
+- name: go.bat
+  size: 24
+  date: '2023-03-16T07:52:40'
+  crc: '0xc18da07d'
+- name: maze.bas
+  size: 6576
+  date: '1999-08-28T19:56:22'
+  crc: '0x8913d936'

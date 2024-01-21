@@ -1,0 +1,42 @@
+filename: Venture (1997)(LaPeste) [Action, Strategy].zip
+tdc_id: '4126.0'
+title:
+  screen: Venture
+publisher: LaPeste
+year: '1997'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-02T10:39:14'
+  last_modified: '2019-03-02T10:39:14'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 27
+  date: '2018-11-21T16:53:50'
+  crc: '0xb215dff6'
+- name: MAP.DAT
+  size: 1241
+  date: '1997-03-29T15:30:52'
+  crc: '0x76b4110b'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'
+- name: SCORES.DAT
+  size: 108
+  date: '1997-03-29T15:31:08'
+  crc: '0x15a4b1a8'
+- name: SPRITES.DAT
+  size: 2522
+  date: '1997-03-29T15:31:28'
+  crc: '0xdfe6bd6d'
+- name: VENTURE.BAS
+  size: 13516
+  date: '1997-04-03T12:20:08'
+  crc: '0xd7dec943'

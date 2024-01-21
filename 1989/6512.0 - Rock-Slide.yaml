@@ -1,0 +1,28 @@
+filename: Rock-Slide (1989)(Viking Technologies) [Strategy, Puzzle].zip
+tdc_id: '6512.0'
+title:
+  screen: Rock-Slide
+publisher: Viking Technologies
+year: '1989'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-03-01T18:28:48'
+  last_modified: '2019-03-01T18:28:48'
+type: zip
+commands:
+  play: SLIDER.EXE
+references:
+  dosid: DOS04355
+  exodos: Rock-Slide (1989).zip
+files:
+- name: SLIDER.DAT
+  size: 4422
+  date: '1991-10-15T18:12:44'
+  crc: '0xf9506d72'
+- name: SLIDER.EXE
+  size: 77537
+  date: '1991-10-15T18:12:40'
+  crc: '0xe8f22c5b'

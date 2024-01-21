@@ -1,0 +1,29 @@
+filename: Edge of the Abyss (2002)(Tony Ash) [Adventure, Interactive Fiction].zip
+tdc_id: '4805.0'
+title:
+  screen: Edge of the Abyss
+publisher: Tony Ash
+year: '2002'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T10:55:58'
+  last_modified: '2019-03-02T10:55:58'
+type: zip
+commands:
+  play: GENRUN2.EXE
+files:
+- name: ABOUT.TXT
+  size: 2270
+  date: '2002-05-19T11:50:48'
+  crc: '0x24309039'
+- name: ABYSS.TAG
+  size: 18483
+  date: '2002-05-18T16:28:20'
+  crc: '0x052b65ec'
+- name: GENRUN2.EXE
+  size: 19584
+  date: '1999-11-20T18:48:12'
+  crc: '0xf2a2c3a0'

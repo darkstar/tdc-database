@@ -1,0 +1,29 @@
+filename: Snakes v1.2 (199x)(J. Brewer) [Action].zip
+tdc_id: '17249.0'
+title:
+  screen: Snakes
+publisher: J. Brewer
+year: 199x
+genre: Action
+language: English
+date:
+  added: '2023-03-01T14:18:51'
+  last_modified: '2023-03-01T14:18:51'
+version: '1.2'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 27
+  date: '2023-02-21T06:45:22'
+  crc: '0x9b903e11'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T02:28:02'
+  crc: '0x19f6ed75'
+- name: SNAKES3.BAS
+  size: 7220
+  date: '2022-07-04T21:50:58'
+  crc: '0xcf044261'

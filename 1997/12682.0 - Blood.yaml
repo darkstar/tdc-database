@@ -1,0 +1,36 @@
+filename: Blood v1.11 (Installer) [SW] (1997)(GT Interactive Software Corp.) [Action].zip
+tdc_id: '12682.0'
+title:
+  screen: Blood
+publisher: GT Interactive Software Corp.
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-01-17T14:49:22'
+  last_modified: '2019-01-17T14:49:22'
+version: '1.11'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 340
+  date: '1998-10-27T09:38:10'
+  crc: '0x35387978'
+- name: INSTALL.EXE
+  size: 143925
+  date: '1997-09-23T14:01:48'
+  crc: '0xd94be634'
+- name: MONO320.PCX
+  size: 19431
+  date: '1997-02-27T15:13:24'
+  crc: '0x137388c8'
+- name: SHARE.SHR
+  size: 17410851
+  date: '1997-09-23T14:01:24'
+  crc: '0x378baa42'

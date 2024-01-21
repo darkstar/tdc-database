@@ -1,0 +1,30 @@
+filename: WarFare (1997)(Claymore Software) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '4134.0'
+title:
+  screen: WarFare
+publisher: Claymore Software
+year: '1997'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-02T10:39:38'
+  last_modified: '2019-03-02T10:39:38'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 27
+  date: '2018-11-21T20:17:16'
+  crc: '0x9d8b9fa2'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: WARFARE.BAS
+  size: 15482
+  date: '1998-02-18T08:05:20'
+  crc: '0xa81c4f97'

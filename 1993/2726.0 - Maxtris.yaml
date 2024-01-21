@@ -1,0 +1,46 @@
+filename: Maxtris (En)(Ru) (1993)(Maxim Shemanarev) [Strategy, Action].zip
+tdc_id: '2726.0'
+title:
+  screen: Maxtris
+publisher: Maxim Shemanarev
+year: '1993'
+genre:
+- Strategy
+- Action
+language:
+- English
+- Russian
+date:
+  added: '2019-03-01T19:13:14'
+  last_modified: '2019-03-01T19:13:14'
+type: zip
+commands:
+  play: MAXTRIS.EXE
+references:
+  dosid: DOS15615
+  exodos: Maxtris (1993).zip
+files:
+- name: CLOCKS9.GSL
+  size: 1259
+  date: '1992-12-28T22:12:08'
+  crc: '0x30bde908'
+- name: HISCORES.RES
+  size: 522
+  date: '1993-12-29T16:39:32'
+  crc: '0x6620a192'
+- name: MAXTRIS.EXE
+  size: 41932
+  date: '1993-01-12T21:17:30'
+  crc: '0xa73ec47c'
+- name: PRSA9B.GSL
+  size: 41478
+  date: '1992-09-17T13:10:26'
+  crc: '0xfd9db93e'
+- name: SP.GSI
+  size: 7620
+  date: '1992-11-25T20:23:38'
+  crc: '0xf6b3da02'
+- name: TT3P20.GSL
+  size: 57577
+  date: '1992-11-25T20:23:38'
+  crc: '0xf5808a69'

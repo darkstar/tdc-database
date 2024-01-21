@@ -1,0 +1,27 @@
+filename: Fifteen Game (1984)(Phillip R. Johnson) [Puzzle].zip
+tdc_id: '13563.0'
+title:
+  screen: Fifteen Game
+publisher: Phillip R. Johnson
+year: '1984'
+genre: Puzzle
+language: English
+date:
+  added: '2019-03-01T18:24:04'
+  last_modified: '2019-03-01T18:24:04'
+type: zip
+commands:
+  play: 15GAME.BAT
+files:
+- name: 15GAME.BAS
+  size: 2874
+  date: '1984-01-01T09:26:04'
+  crc: '0x166e520d'
+- name: 15GAME.BAT
+  size: 17
+  date: '2014-12-18T17:59:58'
+  crc: '0x51f70596'
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'

@@ -1,0 +1,48 @@
+filename: Gunship 2000 v469.03 Update (1991)(MicroProse Software, Inc.) [Simulation, Addon].zip
+tdc_id: '11461.15'
+title:
+  box: Gunship 2000 v469.03 Update
+publisher: MicroProse Software, Inc.
+year: '1991'
+genre:
+- Simulation
+- Addon
+language: English
+date:
+  added: '2023-04-13T13:02:53'
+  last_modified: '2023-04-13T13:02:53'
+type: zip
+media: Download
+commands:
+  play: UPDATE.EXE
+references:
+  mobygames: https://www.mobygames.com/game/891/gunship-2000/
+files:
+- name: ASNDIRQ2.GS2
+  size: 11936
+  date: '1991-10-29T12:59:10'
+  crc: '0xc9d67427'
+- name: ASNDIRQ3.GS2
+  size: 11936
+  date: '1991-10-29T12:59:24'
+  crc: '0xff40ff5e'
+- name: ASNDIRQ5.GS2
+  size: 11936
+  date: '1991-10-29T12:59:36'
+  crc: '0x4837c448'
+- name: GSSNDPAT.DOC
+  size: 1634
+  date: '1991-10-29T13:37:56'
+  crc: '0xc0390f18'
+- name: READ.ME
+  size: 9472
+  date: '1991-11-07T18:44:12'
+  crc: '0x42758e30'
+- name: UPDATE.CMP
+  size: 327691
+  date: '1991-10-28T11:08:06'
+  crc: '0xa29bab03'
+- name: UPDATE.EXE
+  size: 17487
+  date: '1991-10-28T11:02:56'
+  crc: '0x535a31ce'

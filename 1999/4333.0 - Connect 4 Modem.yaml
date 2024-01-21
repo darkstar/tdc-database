@@ -1,0 +1,28 @@
+filename: Connect 4 Modem (1999)(Robin Ohm, The Chicken) [Strategy].zip
+tdc_id: '4333.0'
+title:
+  screen: Connect 4 Modem
+publisher: Robin Ohm, The Chicken
+year: '1999'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:45:40'
+  last_modified: '2019-03-02T10:45:40'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: CON4M.BAS
+  size: 14954
+  date: '1999-03-01T22:33:02'
+  crc: '0xc17ff2f3'
+- name: GO.BAT
+  size: 25
+  date: '2018-12-26T21:55:12'
+  crc: '0x55624b57'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

@@ -1,0 +1,40 @@
+filename: Where in the U.S.A. is Carmen Sandiego_ v2.0 (Demo) (1989)(Brøderbund Software, Inc.) [Adventure, Educational].zip
+tdc_id: '8008.7'
+title:
+  screen: Where in the U.S.A. is Carmen Sandiego?
+  qualifier: Demo
+publisher: Brøderbund Software, Inc.
+year: '1989'
+genre:
+- Adventure
+- Educational
+language: English
+date:
+  added: '2019-03-01T18:29:22'
+  last_modified: '2019-03-01T18:29:22'
+version: '2.0'
+type: zip
+demo: true
+commands:
+  play: CARMEN.EXE
+files:
+- name: CARMEN.DAT
+  size: 163631
+  date: '1990-01-17T00:00:02'
+  crc: '0x8de8cb04'
+- name: CARMEN.EXE
+  size: 124000
+  date: '1990-01-17T00:00:02'
+  crc: '0x6a0657da'
+- name: CITIES.DAT
+  size: 65738
+  date: '1990-01-17T00:00:02'
+  crc: '0x6814a569'
+- name: INTERPOL.DAT
+  size: 2112
+  date: '1990-10-25T17:56:44'
+  crc: '0x9c31dfa0'
+- name: MIDISND.DAT
+  size: 10190
+  date: '1990-01-17T00:00:02'
+  crc: '0xa12d579e'

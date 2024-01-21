@@ -1,0 +1,39 @@
+filename: Jetsons, The - The Computer Game [h1][a1] (1992)(Hi-Tec Software Ltd.) [Action, Racing - Driving].zip
+tdc_id: '9727.1'
+title:
+  box: The Jetsons - The Computer Game
+publisher: Hi-Tec Software Ltd.
+year: '1992'
+genre:
+- Action
+- Racing - Driving
+language: English
+date:
+  added: '2019-03-01T18:48:00'
+  last_modified: '2019-03-01T18:48:00'
+type: zip
+tags:
+- Hack: 1
+- Alternate: 1
+commands:
+  play: JETSONS.COM
+references:
+  dosid: DOS02911
+  exodos: Jetsons, The - The Computer Game (1992).zip
+files:
+- name: JETSONS!.DI0
+  size: 55373
+  date: '1992-05-31T00:39:50'
+  crc: '0x049cf6c6'
+- name: JETSONS!.DI1
+  size: 382995
+  date: '1992-05-31T00:45:48'
+  crc: '0x88e13d82'
+- name: JETSONS!.DI2
+  size: 240962
+  date: '1992-05-31T00:46:22'
+  crc: '0xec1c87ca'
+- name: JETSONS.COM
+  size: 2682
+  date: '1992-05-31T00:47:14'
+  crc: '0x7ea990fc'

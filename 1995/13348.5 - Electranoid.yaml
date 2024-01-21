@@ -1,0 +1,35 @@
+filename: Electranoid v1.20r (1995)(Pixel Painters Corporation) [Action].zip
+tdc_id: '13348.5'
+title:
+  screen: Electranoid
+publisher: Pixel Painters Corporation
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T08:43:40'
+  last_modified: '2019-03-02T08:43:40'
+version: 1.20r
+type: zip
+commands:
+  play: ENOID.EXE
+references:
+  dosid: DOS01983
+  exodos: Electranoid (1995).zip
+files:
+- name: ENOID.DAT
+  size: 216
+  date: '1999-06-24T13:25:14'
+  crc: '0xb8a8595d'
+- name: ENOID.EXE
+  size: 79616
+  date: '1995-09-01T13:20:28'
+  crc: '0x8edb507b'
+- name: ENOID.RES
+  size: 236760
+  date: '1995-09-01T13:20:48'
+  crc: '0x000581e3'
+- name: LICENSE.TXT
+  size: 3905
+  date: '1998-04-01T01:00:00'
+  crc: '0x448b648b'

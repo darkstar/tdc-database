@@ -1,0 +1,70 @@
+filename: Inanimate Racer (1998)(Watermelon Productions) [Racing - Driving].zip
+tdc_id: '983.0'
+title:
+  screen: Inanimate Racer
+publisher: Watermelon Productions
+year: '1998'
+genre: Racing - Driving
+language: English
+date:
+  added: '2019-03-02T10:41:48'
+  last_modified: '2019-03-02T10:41:48'
+type: zip
+commands:
+  play: RACER.EXE
+references:
+  dosid: DOS02710
+  exodos: Inanimate Racer (1998).zip
+files:
+- name: BACK.PCX
+  size: 7933
+  date: '1996-12-24T23:32:00'
+  crc: '0x8334ab1b'
+- name: CHOOSE.RAW
+  size: 32249
+  date: '1996-12-24T23:32:00'
+  crc: '0x6a6f72e1'
+- name: GO.RAW
+  size: 11204
+  date: '1996-12-24T23:32:00'
+  crc: '0x5bcfc75c'
+- name: GRAPHICS.RCE
+  size: 12500
+  date: '1996-12-24T23:32:00'
+  crc: '0x07dd10b3'
+- name: OVER.RAW
+  size: 41677
+  date: '1996-12-24T23:32:00'
+  crc: '0x0a0599be'
+- name: RACER.BAK
+  size: 651
+  date: '1996-12-24T23:32:00'
+  crc: '0xc2a75710'
+- name: RACER.EXE
+  size: 34912
+  date: '1996-12-24T23:32:00'
+  crc: '0x1e2b0fc1'
+- name: RACER.INI
+  size: 645
+  date: '1996-12-24T23:32:00'
+  crc: '0xdff698f8'
+- name: RACER.TXT
+  size: 2725
+  date: '1996-12-24T23:32:00'
+  crc: '0xb7802941'
+- name: START.RAW
+  size: 59933
+  date: '1996-12-24T23:32:00'
+  crc: '0xa9f8aeb8'
+- name: TITLE.PCX
+  size: 8172
+  date: '1996-12-24T23:32:00'
+  crc: '0x54b0ff50'
+- name: TITLE.RAW
+  size: 29940
+  date: '1996-12-24T23:32:00'
+  crc: '0x6d896f60'
+- name: racer.ico
+  size: 2238
+  date: '1996-12-24T23:32:00'
+  crc: '0x24f918ed'

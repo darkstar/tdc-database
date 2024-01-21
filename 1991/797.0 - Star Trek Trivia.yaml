@@ -1,0 +1,38 @@
+filename: Star Trek Trivia v2.1 (1991)(Robert A. Seace) [Strategy, Trivia].zip
+tdc_id: '797.0'
+title:
+  screen: Star Trek Trivia
+publisher: Robert A. Seace
+year: '1991'
+genre:
+- Strategy
+- Trivia
+language: English
+date:
+  added: '2019-03-01T18:39:32'
+  last_modified: '2019-03-01T18:39:32'
+version: '2.1'
+type: zip
+commands:
+  play: TREKTRIV.EXE
+files:
+- name: README.DOC
+  size: 2544
+  date: '1991-03-11T11:35:10'
+  crc: '0xa0e4c062'
+- name: TREK1.DAT
+  size: 25600
+  date: '1991-01-13T16:18:34'
+  crc: '0x88161251'
+- name: TREK2.DAT
+  size: 25600
+  date: '1991-01-13T16:18:34'
+  crc: '0x7efae78c'
+- name: TREK3.DAT
+  size: 25600
+  date: '1991-01-13T16:18:34'
+  crc: '0xf70dec08'
+- name: TREKTRIV.EXE
+  size: 65354
+  date: '1991-03-11T11:16:56'
+  crc: '0x31180038'

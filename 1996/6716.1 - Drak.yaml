@@ -1,0 +1,63 @@
+filename: Drak v1.60 [SW] (1996)(Enypsox enr.) [Action, Puzzle].zip
+tdc_id: '6716.1'
+title:
+  screen: Drak
+publisher: Enypsox enr.
+year: '1996'
+genre:
+- Action
+- Puzzle
+language: English
+date:
+  added: '2019-01-18T19:06:52'
+  last_modified: '2024-01-15T12:21:58'
+version: '1.60'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: DRAK.BAT
+references:
+  mobygames: https://www.mobygames.com/game/19632/drak/
+files:
+- name: CONFIG.EXE
+  size: 51160
+  date: '1996-07-03T12:48:12'
+  crc: '0xb2f14f40'
+- name: CREDIT.TXT
+  size: 1677
+  date: '1996-10-15T13:51:26'
+  crc: '0xb9bdcb66'
+- name: DATA.DRK
+  size: 683854
+  date: '1995-03-05T14:47:58'
+  crc: '0xed992ff6'
+- name: DRAK.BAT
+  size: 25
+  date: '1996-10-09T10:56:40'
+  crc: '0x3abee4ff'
+- name: DRAKS.EXE
+  size: 146286
+  date: '1996-10-15T13:50:00'
+  crc: '0x9cfb0f40'
+- name: FILE_ID.DIZ
+  size: 456
+  date: '1996-11-09T07:09:12'
+  crc: '0x9c123e0b'
+- name: MANUAL.TXT
+  size: 16199
+  date: '1996-09-27T09:31:02'
+  crc: '0x354080a6'
+- name: ORDER.FRM
+  size: 2538
+  date: '1996-10-15T13:52:40'
+  crc: '0xe037bda7'
+- name: SOUND.DRK
+  size: 324214
+  date: '1995-02-15T14:52:18'
+  crc: '0x373bd5ba'
+- name: VENDOR.DOC
+  size: 1094
+  date: '1995-11-07T09:58:36'
+  crc: '0xdd0e4b4d'

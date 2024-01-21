@@ -1,0 +1,37 @@
+filename: Indiana Jones and the Last Crusade- The Graphic Adventure v2.0 (Installer) (1992)(Lucasfilm Games LLC) [Adventure].zip
+tdc_id: '11475.14'
+title:
+  box: 'Indiana Jones and the Last Crusade: The Graphic Adventure'
+  qualifier: Installer
+publisher: Lucasfilm Games LLC
+year: '1992'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:32:52'
+  last_modified: '2023-11-22T14:41:48'
+version: '2.0'
+type: zip
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/534/indiana-jones-and-the-last-crusade-the-graphic-adventure/
+files:
+- name: INDY256A.ND3
+  size: 1419088
+  date: '1992-08-06T11:04:32'
+  crc: '0xb8261968'
+- name: INDY256B.ND3
+  size: 1454088
+  date: '1992-08-06T11:04:32'
+  crc: '0x1f8d5bf4'
+- name: INDY256C.ND3
+  size: 675475
+  date: '1992-08-06T11:04:32'
+  crc: '0x950d8617'
+- name: INSTALL.EXE
+  size: 34640
+  date: '1992-08-06T11:28:22'
+  crc: '0x848d05ee'

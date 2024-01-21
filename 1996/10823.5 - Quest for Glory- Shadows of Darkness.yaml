@@ -1,0 +1,173 @@
+filename: Quest for Glory- Shadows of Darkness (CD-ROM) v1.1 (De) (1996)(Sierra On-Line, Inc.) [Action, Adventure, Role-Playing (RPG)].zip
+tdc_id: '10823.5'
+title:
+  box: 'Quest for Glory: Shadows of Darkness (CD-ROM)'
+  screen: 'Quest for Glory: Shadows of Darkness'
+  qualifier: CD-ROM
+publisher: Sierra On-Line, Inc.
+year: '1996'
+genre:
+- Action
+- Adventure
+- Role-Playing (RPG)
+language: German
+date:
+  added: '2019-03-01T22:03:28'
+  last_modified: '2023-01-16T12:23:38'
+version: '1.1'
+type: zip
+media: CD-ROM
+commands:
+  play: SHADOWS.BAT
+  setup: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/quest-for-glory-shadows-of-darkness
+files:
+- name: 330.HEP
+  size: 1998
+  date: '1994-02-14T15:15:08'
+  crc: '0x95ddb187'
+- name: 330.SCR
+  size: 4978
+  date: '1994-02-14T15:15:08'
+  crc: '0xfa22dfc1'
+- name: 65535.MAP
+  size: 237
+  date: '1996-01-24T10:21:30'
+  crc: '0x70a0db36'
+- name: ADL.DRV
+  size: 10445
+  date: '1993-11-18T10:04:18'
+  crc: '0x97b288f9'
+- name: DACBLAST.DRV
+  size: 4717
+  date: '1994-02-04T08:36:10'
+  crc: '0xa577da3b'
+- name: DACMSSYS.DRV
+  size: 2745
+  date: '1993-12-07T13:33:40'
+  crc: '0xab47a093'
+- name: DACNONE.DRV
+  size: 46
+  date: '1993-12-07T13:34:44'
+  crc: '0xd20dcf62'
+- name: DACPRO.DRV
+  size: 2956
+  date: '1993-12-07T13:33:36'
+  crc: '0xefe84434'
+- name: DACPRO16.DRV
+  size: 3098
+  date: '1993-12-07T13:33:36'
+  crc: '0xba17233a'
+- name: DACTHUND.DRV
+  size: 3752
+  date: '1993-12-07T13:52:34'
+  crc: '0x85c36f83'
+- name: GENMIDI.DRV
+  size: 3111
+  date: '1993-12-02T16:43:34'
+  crc: '0xeda422e5'
+- name: INSTALL.EXE
+  size: 76541
+  date: '1993-11-21T17:15:42'
+  crc: '0x1a0937b6'
+- name: INSTALL.HLP
+  size: 21781
+  date: '1994-02-04T13:55:46'
+  crc: '0x061b9ba6'
+- name: INSTALL.TXT
+  size: 11032
+  date: '1994-01-07T15:38:06'
+  crc: '0xf513db5c'
+- name: LIESMICH
+  size: 21661
+  date: '1993-12-16T13:33:00'
+  crc: '0xd72cf57f'
+- name: LIESMICH.BAT
+  size: 33
+  date: '1994-02-04T18:22:04'
+  crc: '0x3ef84e8f'
+- name: MICROSOF.DRV
+  size: 10926
+  date: '1993-11-21T13:48:02'
+  crc: '0x26c6b2c8'
+- name: MIDNONE.DRV
+  size: 10427
+  date: '1993-10-08T13:22:50'
+  crc: '0xa21ad12c'
+- name: MT32.DRV
+  size: 3104
+  date: '1993-12-05T16:28:36'
+  crc: '0x57b54010'
+- name: PKCOMP.INF
+  size: 1068
+  date: '1996-02-06T14:25:50'
+  crc: '0x5e7cdf83'
+- name: PROAUDIO.DRV
+  size: 11411
+  date: '1993-11-18T14:57:32'
+  crc: '0xd176473d'
+- name: QG4G35.BAT
+  size: 54
+  date: '1996-02-07T11:45:16'
+  crc: '0x2b842d2b'
+- name: README
+  size: 33345
+  date: '1996-05-20T16:49:26'
+  crc: '0x28b42af9'
+- name: README.BAT
+  size: 31
+  date: '1994-02-04T18:22:14'
+  crc: '0xf9259da2'
+- name: README.OLD
+  size: 21661
+  date: '1993-12-16T13:33:00'
+  crc: '0xd72cf57f'
+- name: RESOURCE.000
+  size: 11076197
+  date: '1994-02-11T17:01:38'
+  crc: '0xea27208a'
+- name: RESOURCE.CFG
+  size: 259
+  date: '1996-02-05T13:11:06'
+  crc: '0x37755340'
+- name: RESOURCE.MAP
+  size: 9301
+  date: '1994-02-11T16:55:30'
+  crc: '0xf1b4258f'
+- name: RESOURCE.SFX
+  size: 2626716
+  date: '1996-01-24T10:21:30'
+  crc: '0xdfcfc57b'
+- name: SADL.DRV
+  size: 10429
+  date: '1993-11-21T14:08:46'
+  crc: '0x2231e08d'
+- name: SBPRO.DRV
+  size: 10970
+  date: '1993-11-21T13:47:06'
+  crc: '0x466fac86'
+- name: SHADOWS.BAT
+  size: 33
+  date: '1996-01-24T10:09:18'
+  crc: '0x7505ac47'
+- name: SIERRA.ERR
+  size: 8263
+  date: '1993-12-20T16:30:00'
+  crc: '0x86256eaa'
+- name: SIERRA.EXE
+  size: 691840
+  date: '1994-02-11T16:55:30'
+  crc: '0x8b657173'
+- name: STD.DRV
+  size: 1682
+  date: '1993-10-31T15:24:40'
+  crc: '0xe2df89fc'
+- name: VERSION
+  size: 62
+  date: '1994-02-14T08:03:06'
+  crc: '0x4b3f5786'
+- name: VGA.DRV
+  size: 33
+  date: '1993-10-20T12:26:56'
+  crc: '0xaabb2404'

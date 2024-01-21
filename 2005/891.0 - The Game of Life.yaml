@@ -1,0 +1,826 @@
+filename: Game of Life, The v1.6 (2005)(LDC Soft) [Simulation].zip
+tdc_id: '891.0'
+title:
+  screen: The Game of Life
+publisher: LDC Soft
+year: '2005'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-02T10:57:04'
+  last_modified: '2019-03-02T10:57:04'
+version: '1.6'
+type: zip
+files:
+- name: File.ICO
+  size: 11062
+  date: '2005-03-06T20:12:50'
+  crc: '0x4eb101dd'
+- name: LIFE.EXE
+  size: 92920
+  date: '2005-05-09T19:37:00'
+  crc: '0x1289248b'
+- name: LIFE.ICO
+  size: 766
+  date: '2003-05-06T17:05:44'
+  crc: '0x7f8fda0e'
+- name: LIFE3.ICO
+  size: 3126
+  date: '2003-06-11T09:33:32'
+  crc: '0x3703491e'
+- name: Life3.exe
+  size: 892928
+  date: '2005-08-20T15:53:54'
+  crc: '0x7f993748'
+- name: README
+  size: 12314
+  date: '2001-12-01T13:36:02'
+  crc: '0x5738887a'
+- name: README.COM
+  size: 4217
+  date: '1992-10-27T06:00:00'
+  crc: '0x46ada1ce'
+- name: README.ICO
+  size: 766
+  date: '2003-05-06T17:06:06'
+  crc: '0xf87f545d'
+- name: RESERVE\
+  size: 0
+  date: '2019-01-10T21:03:40'
+- name: RESERVE\RES.INI
+  size: 1
+  date: '2005-08-20T00:51:54'
+  crc: '0x1ad5be0d'
+- name: SYSTEM\
+  size: 0
+  date: '2019-01-10T21:03:40'
+- name: SYSTEM\LIFE.LFH
+  size: 3645
+  date: '2002-04-27T16:21:16'
+  crc: '0xd4e93f60'
+- name: SYSTEM\ZAST.LFG
+  size: 66
+  date: '2001-06-18T16:43:38'
+  crc: '0x6de782af'
+- name: SYSTEM\logo.bmp
+  size: 3450
+  date: '2005-05-09T19:33:26'
+  crc: '0x92a8ae2c'
+- name: Saved files\
+  size: 0
+  date: '2019-01-10T21:03:38'
+- name: Saved files\Extra Configurations\
+  size: 0
+  date: '2019-01-10T21:03:38'
+- name: Saved files\Extra Configurations\CONFIGS\
+  size: 0
+  date: '2019-01-10T21:03:40'
+- name: Saved files\Extra Configurations\CONFIGS\Agars\
+  size: 0
+  date: '2019-01-10T21:03:40'
+- name: Saved files\Extra Configurations\CONFIGS\Agars\Uleys1.lfg
+  size: 18094
+  date: '2002-02-06T10:40:08'
+  crc: '0x72204710'
+- name: Saved files\Extra Configurations\CONFIGS\Agars\Uleys2.lfg
+  size: 26498
+  date: '2002-02-06T14:31:02'
+  crc: '0x2b1fb521'
+- name: Saved files\Extra Configurations\CONFIGS\Agars\Virus.lfg
+  size: 2178
+  date: '2000-06-26T09:22:34'
+  crc: '0xfe5527e9'
+- name: Saved files\Extra Configurations\CONFIGS\Agars\Virus1.lfg
+  size: 27450
+  date: '2002-01-12T12:11:42'
+  crc: '0x985a6501'
+- name: Saved files\Extra Configurations\CONFIGS\Agars\virus2.lf2
+  size: 987880
+  date: '2004-03-03T09:44:32'
+  crc: '0x57ae4acc'
+- name: Saved files\Extra Configurations\CONFIGS\Guns\
+  size: 0
+  date: '2019-01-10T21:03:40'
+- name: Saved files\Extra Configurations\CONFIGS\Guns\Bg.lfg
+  size: 776
+  date: '2002-04-25T05:26:34'
+  crc: '0x419d6031'
+- name: Saved files\Extra Configurations\CONFIGS\Guns\Gun#2.lfg
+  size: 180
+  date: '2001-02-04T14:51:12'
+  crc: '0x09c86680'
+- name: Saved files\Extra Configurations\CONFIGS\Guns\Gun#3.lfg
+  size: 398
+  date: '2001-01-26T11:34:04'
+  crc: '0xa378a0d7'
+- name: Saved files\Extra Configurations\CONFIGS\Guns\Gun&pent.lfg
+  size: 194
+  date: '2001-02-05T10:26:06'
+  crc: '0x3d70407a'
+- name: Saved files\Extra Configurations\CONFIGS\Guns\Gun.lfg
+  size: 86
+  date: '2001-01-26T11:34:04'
+  crc: '0x5425cf86'
+- name: Saved files\Extra Configurations\CONFIGS\Guns\Gun1.lfg
+  size: 312
+  date: '2001-01-26T11:34:04'
+  crc: '0x2056b2f3'
+- name: Saved files\Extra Configurations\CONFIGS\Guns\Gun2.lfg
+  size: 138
+  date: '2001-01-26T11:34:04'
+  crc: '0x3d7ea0b3'
+- name: Saved files\Extra Configurations\CONFIGS\Guns\Gun3.lfg
+  size: 138
+  date: '2001-01-26T11:34:04'
+  crc: '0xc9ea1af3'
+- name: Saved files\Extra Configurations\CONFIGS\Guns\Gun4.lfg
+  size: 308
+  date: '2001-01-26T11:34:04'
+  crc: '0xbe64c5b8'
+- name: Saved files\Extra Configurations\CONFIGS\Guns\Gun5.lfg
+  size: 234
+  date: '2001-01-26T11:34:04'
+  crc: '0x2adaa8ac'
+- name: Saved files\Extra Configurations\CONFIGS\Guns\Gun6.lfg
+  size: 226
+  date: '2001-01-28T10:22:46'
+  crc: '0x1304eebc'
+- name: Saved files\Extra Configurations\CONFIGS\Guns\Gun7.lfg
+  size: 194
+  date: '2001-02-05T10:16:48'
+  crc: '0xbb3ccca5'
+- name: Saved files\Extra Configurations\CONFIGS\Guns\Gun@2.lfg
+  size: 120
+  date: '2002-04-06T13:26:10'
+  crc: '0x3c3e2461'
+- name: Saved files\Extra Configurations\CONFIGS\Guns\Gun@3.lfg
+  size: 212
+  date: '2002-04-06T15:46:46'
+  crc: '0xfa2c823a'
+- name: Saved files\Extra Configurations\CONFIGS\Guns\Gunnew.lfg
+  size: 130
+  date: '2002-03-20T12:22:30'
+  crc: '0x77914342'
+- name: Saved files\Extra Configurations\CONFIGS\Guns\Qwer.lf2
+  size: 15184
+  date: '2003-01-16T13:32:32'
+  crc: '0xd7c48994'
+- name: Saved files\Extra Configurations\CONFIGS\Guns\Show.lfg
+  size: 246
+  date: '2002-04-06T13:30:16'
+  crc: '0xf09ea7ce'
+- name: Saved files\Extra Configurations\CONFIGS\Jneics\
+  size: 0
+  date: '2019-01-10T21:03:38'
+- name: Saved files\Extra Configurations\CONFIGS\Jneics\Jn1.lfg
+  size: 268
+  date: '2002-02-23T14:18:56'
+  crc: '0xe78dd7d3'
+- name: Saved files\Extra Configurations\CONFIGS\Jneics\Jn@2.lfg
+  size: 266
+  date: '2002-02-23T14:17:22'
+  crc: '0x86472b61'
+- name: Saved files\Extra Configurations\CONFIGS\Jneics\Jnpred.lfg
+  size: 396
+  date: '2002-02-23T14:14:54'
+  crc: '0x9be44f3f'
+- name: Saved files\Extra Configurations\CONFIGS\Krests\
+  size: 0
+  date: '2019-01-10T21:03:38'
+- name: Saved files\Extra Configurations\CONFIGS\Krests\Krest3~1.lf2
+  size: 2536
+  date: '2002-11-30T11:24:22'
+  crc: '0x5715eee8'
+- name: Saved files\Extra Configurations\CONFIGS\Krests\Krest4.lfg
+  size: 578
+  date: '2000-06-26T09:22:34'
+  crc: '0xa7ce338a'
+- name: Saved files\Extra Configurations\CONFIGS\Ograds\
+  size: 0
+  date: '2019-01-10T21:03:38'
+- name: Saved files\Extra Configurations\CONFIGS\Ograds\Ograda.lfg
+  size: 210
+  date: '2002-02-23T13:53:48'
+  crc: '0xf868997b'
+- name: Saved files\Extra Configurations\CONFIGS\Ograds\Ograda1.lfg
+  size: 112
+  date: '2001-02-05T11:28:36'
+  crc: '0x4035b19e'
+- name: Saved files\Extra Configurations\CONFIGS\Ograds\Ograda2.lfg
+  size: 130
+  date: '2002-03-06T12:14:30'
+  crc: '0xf66f958e'
+- name: Saved files\Extra Configurations\CONFIGS\Ograds\Ograda3.lfg
+  size: 138
+  date: '2002-03-06T12:15:20'
+  crc: '0xb32cd955'
+- name: Saved files\Extra Configurations\CONFIGS\Ograds\Ograda4.lfg
+  size: 528
+  date: '2001-01-28T13:30:28'
+  crc: '0x7e08b52c'
+- name: Saved files\Extra Configurations\CONFIGS\Ograds\Ograda5.lfg
+  size: 250
+  date: '2001-02-04T14:14:30'
+  crc: '0x8b063b04'
+- name: Saved files\Extra Configurations\CONFIGS\Ograds\Ograda6.lfg
+  size: 624
+  date: '2001-01-28T13:31:44'
+  crc: '0x3587f0de'
+- name: Saved files\Extra Configurations\CONFIGS\Ograds\Ograda7.lf2
+  size: 1032
+  date: '2002-12-25T07:55:42'
+  crc: '0x23bc75ce'
+- name: Saved files\Extra Configurations\GENERAL\
+  size: 0
+  date: '2019-01-10T21:03:38'
+- name: Saved files\Extra Configurations\GENERAL\Dolg\
+  size: 0
+  date: '2019-01-10T21:03:38'
+- name: Saved files\Extra Configurations\GENERAL\Dolg\1103.lfg
+  size: 12
+  date: '2001-01-26T11:34:04'
+  crc: '0xfbf0e84e'
+- name: Saved files\Extra Configurations\GENERAL\Dolg\D1.lfg
+  size: 22
+  date: '2002-03-22T15:07:28'
+  crc: '0xd585c9e5'
+- name: Saved files\Extra Configurations\GENERAL\Dolg\D2.lfg
+  size: 1086
+  date: '2002-03-22T15:38:18'
+  crc: '0x3da7e1a6'
+- name: Saved files\Extra Configurations\GENERAL\Dolg\D3.lfg
+  size: 998
+  date: '2002-08-23T12:08:10'
+  crc: '0x09f96ed7'
+- name: Saved files\Extra Configurations\GENERAL\Dolg\Dolg1.lfg
+  size: 42
+  date: '2001-02-02T15:17:48'
+  crc: '0x657e41dd'
+- name: Saved files\Extra Configurations\GENERAL\Dolg\Dolg10.lfg
+  size: 1016
+  date: '2002-03-06T15:14:26'
+  crc: '0x4d161a65'
+- name: Saved files\Extra Configurations\GENERAL\Dolg\Dolg2.lfg
+  size: 110
+  date: '2001-02-05T10:01:32'
+  crc: '0x12ba3f1d'
+- name: Saved files\Extra Configurations\GENERAL\Dolg\Dolg3.lfg
+  size: 4314
+  date: '2001-02-09T14:05:20'
+  crc: '0x8d0542fd'
+- name: Saved files\Extra Configurations\GENERAL\Dolg\Dolg4.lfg
+  size: 28
+  date: '2002-01-11T10:45:38'
+  crc: '0x19f27c46'
+- name: Saved files\Extra Configurations\GENERAL\Dolg\Dolg5.lfg
+  size: 1792
+  date: '2002-01-12T10:55:52'
+  crc: '0x70e9e586'
+- name: Saved files\Extra Configurations\GENERAL\Dolg\Dolg6.lfg
+  size: 50
+  date: '2001-02-09T14:28:00'
+  crc: '0xfde8e16f'
+- name: Saved files\Extra Configurations\GENERAL\Dolg\Dolg7.lfg
+  size: 760
+  date: '2002-01-25T13:08:10'
+  crc: '0xd0e62b52'
+- name: Saved files\Extra Configurations\GENERAL\Dolg\Dolg8.lfg
+  size: 132
+  date: '2002-02-08T14:59:42'
+  crc: '0x91842174'
+- name: Saved files\Extra Configurations\GENERAL\Dolg\Dolg9.lfg
+  size: 178
+  date: '2002-02-20T12:40:32'
+  crc: '0x3cf29c50'
+- name: Saved files\Extra Configurations\GENERAL\Dolg\Gun7.lfg
+  size: 194
+  date: '2001-02-05T10:16:48'
+  crc: '0xbb3ccca5'
+- name: Saved files\Extra Configurations\GENERAL\Dolg\Kovor.lfg
+  size: 38310
+  date: '2001-01-26T11:34:04'
+  crc: '0x83caac58'
+- name: Saved files\Extra Configurations\GENERAL\Dolg\R.lfg
+  size: 10
+  date: '2001-01-26T11:34:04'
+  crc: '0xc58d67e4'
+- name: Saved files\Extra Configurations\GENERAL\Dolg\Ulitka.lfg
+  size: 270
+  date: '2002-02-08T14:36:38'
+  crc: '0x81ff14f0'
+- name: Saved files\Extra Configurations\GENERAL\Umir\
+  size: 0
+  date: '2019-01-10T21:03:38'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Die1.lfg
+  size: 22
+  date: '2001-02-03T13:33:40'
+  crc: '0x0dea3c40'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Die2.lfg
+  size: 38
+  date: '2001-02-03T13:34:52'
+  crc: '0x2c742229'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Die3.lfg
+  size: 32
+  date: '2001-02-09T14:08:28'
+  crc: '0x8e18fef9'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Die4.lfg
+  size: 68
+  date: '2001-02-09T14:32:40'
+  crc: '0x003be29c'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Die5.lfg
+  size: 74
+  date: '2002-01-18T13:59:46'
+  crc: '0xa91b1d89'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Die6.lfg
+  size: 96
+  date: '2002-01-25T13:12:38'
+  crc: '0x61d4525f'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Dieunic1.lfg
+  size: 104
+  date: '2001-02-04T14:25:06'
+  crc: '0xa9d3d35d'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Resheto.lfg
+  size: 160
+  date: '2002-02-13T10:48:16'
+  crc: '0x82c4ab1b'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umir.lfg
+  size: 56
+  date: '2001-11-22T07:14:50'
+  crc: '0xf47e4804'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umir1.lfg
+  size: 136
+  date: '2001-01-26T11:34:04'
+  crc: '0xe28b9d0a'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umir10.lfg
+  size: 32
+  date: '2001-01-26T11:34:04'
+  crc: '0x2b9b66b8'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umir11.lfg
+  size: 40
+  date: '2001-01-26T11:34:04'
+  crc: '0xd5fcc460'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umir12.lfg
+  size: 80
+  date: '2001-01-26T11:34:04'
+  crc: '0x1594289e'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umir13.lfg
+  size: 88
+  date: '2001-12-18T13:39:32'
+  crc: '0x5bb208bf'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umir14.lfg
+  size: 80
+  date: '2000-06-26T09:22:34'
+  crc: '0x02df11c2'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umir15.lfg
+  size: 144
+  date: '2001-06-25T08:39:14'
+  crc: '0x19d0c35b'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umir16.lfg
+  size: 72
+  date: '2001-01-27T08:21:06'
+  crc: '0x3ff7d942'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umir17.lfg
+  size: 96
+  date: '2001-01-28T09:19:04'
+  crc: '0xfa9b8b51'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umir18.lfg
+  size: 32
+  date: '2001-01-28T09:27:12'
+  crc: '0x972cc176'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umir19.lfg
+  size: 20
+  date: '2001-01-28T09:29:14'
+  crc: '0x8bdd8fa4'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umir2.lfg
+  size: 48
+  date: '2001-11-30T13:35:56'
+  crc: '0x75b2f2a3'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umir20.lfg
+  size: 80
+  date: '2001-01-28T09:30:02'
+  crc: '0x4319ecf3'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umir21.lfg
+  size: 28
+  date: '2001-01-28T09:40:52'
+  crc: '0x3942167f'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umir22.lfg
+  size: 112
+  date: '2001-01-28T10:08:26'
+  crc: '0x3ed56d42'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umir23.lfg
+  size: 28
+  date: '2001-01-28T09:37:24'
+  crc: '0xe0bc5684'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umir24.lfg
+  size: 152
+  date: '2001-01-28T12:56:40'
+  crc: '0xd2be9e18'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umir25.lfg
+  size: 48
+  date: '2001-01-28T13:01:54'
+  crc: '0x2bd6dfd5'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umir26.lfg
+  size: 48
+  date: '2001-01-28T13:04:36'
+  crc: '0x39f75135'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umir27.lfg
+  size: 48
+  date: '2001-01-28T13:05:40'
+  crc: '0x7a259f5b'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umir28.lfg
+  size: 64
+  date: '2001-01-28T13:07:46'
+  crc: '0x67959323'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umir29.lfg
+  size: 72
+  date: '2001-01-28T13:08:20'
+  crc: '0x53307f6c'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umir3.lfg
+  size: 216
+  date: '2001-11-30T14:14:40'
+  crc: '0xee99f842'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umir30.lfg
+  size: 98
+  date: '2001-01-28T13:50:46'
+  crc: '0x73b4911c'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umir31.lfg
+  size: 18
+  date: '2001-02-02T12:00:34'
+  crc: '0xfee5d4b1'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umir32.lfg
+  size: 26
+  date: '2001-02-02T14:49:16'
+  crc: '0x6ffcd2a7'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umir33.lfg
+  size: 34
+  date: '2001-02-02T15:16:54'
+  crc: '0xbe3d4083'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umir34.lfg
+  size: 104
+  date: '2001-02-02T15:21:46'
+  crc: '0xfba7ee42'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umir35.lfg
+  size: 104
+  date: '2001-02-02T15:22:20'
+  crc: '0x09c290a8'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umir36.lfg
+  size: 116
+  date: '2001-02-02T15:23:56'
+  crc: '0xae186c74'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umir37.lfg
+  size: 108
+  date: '2001-02-02T15:26:54'
+  crc: '0x92bb05bc'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umir39.lfg
+  size: 34
+  date: '2001-01-28T13:44:48'
+  crc: '0x9637f065'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umir4.lfg
+  size: 80
+  date: '2001-12-01T10:27:20'
+  crc: '0x528bde3a'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umir41.lfg
+  size: 50
+  date: '2001-01-28T13:45:36'
+  crc: '0xf24c9628'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umir42.lfg
+  size: 64
+  date: '2001-02-04T14:27:06'
+  crc: '0x7a9eb591'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umir43.lfg
+  size: 18
+  date: '2001-02-05T11:04:16'
+  crc: '0xda86bef9'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umir45.lfg
+  size: 120
+  date: '2001-02-04T09:44:16'
+  crc: '0x73d3663a'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umir46.lfg
+  size: 94
+  date: '2001-02-04T13:59:00'
+  crc: '0x1e886c0f'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umir47.lfg
+  size: 122
+  date: '2001-02-05T11:21:16'
+  crc: '0xd1e072f4'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umir48.lfg
+  size: 314
+  date: '2001-02-05T11:32:00'
+  crc: '0xd5b92088'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umir49.lfg
+  size: 56
+  date: '2001-02-09T13:37:12'
+  crc: '0x7e615e1f'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umir5.lfg
+  size: 36
+  date: '2001-12-01T10:36:04'
+  crc: '0x9d876b1c'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umir6.lfg
+  size: 48
+  date: '2001-12-01T11:26:48'
+  crc: '0x76ec646b'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umir7.lfg
+  size: 52
+  date: '2001-12-14T13:11:28'
+  crc: '0x96f574e2'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umir8.lfg
+  size: 94
+  date: '2001-12-14T13:15:04'
+  crc: '0xca474e40'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umir9.lfg
+  size: 24
+  date: '2001-01-26T11:34:04'
+  crc: '0xfa941614'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Umunic1.lfg
+  size: 112
+  date: '2001-02-05T11:29:06'
+  crc: '0x620df38a'
+- name: Saved files\Extra Configurations\GENERAL\Umir\Vs4#1.lfg
+  size: 168
+  date: '2001-02-09T13:42:36'
+  crc: '0x1767965d'
+- name: Saved files\Extra Configurations\NAMED\
+  size: 0
+  date: '2019-01-10T21:03:38'
+- name: Saved files\Extra Configurations\NAMED\1103.lfg
+  size: 12
+  date: '2001-01-26T11:34:04'
+  crc: '0xfbf0e84e'
+- name: Saved files\Extra Configurations\NAMED\Angle.lfg
+  size: 78
+  date: '2001-02-04T14:31:48'
+  crc: '0xf69bf04c'
+- name: Saved files\Extra Configurations\NAMED\As#sim1.lfg
+  size: 28
+  date: '2001-02-05T11:03:00'
+  crc: '0x7db721fe'
+- name: Saved files\Extra Configurations\NAMED\Assim1.lfg
+  size: 118
+  date: '2001-01-28T09:32:28'
+  crc: '0xe50f5471'
+- name: Saved files\Extra Configurations\NAMED\Dom.lfg
+  size: 352
+  date: '2001-02-07T11:59:22'
+  crc: '0xc55ccc6d'
+- name: Saved files\Extra Configurations\NAMED\Israel.lfg
+  size: 1944
+  date: '2002-08-23T12:19:38'
+  crc: '0x0d540181'
+- name: Saved files\Extra Configurations\NAMED\Loman.lfg
+  size: 106
+  date: '2000-06-26T09:22:34'
+  crc: '0x9104febf'
+- name: Saved files\Extra Configurations\NAMED\Loman1.lfg
+  size: 426
+  date: '2001-01-26T11:34:04'
+  crc: '0x0db30e41'
+- name: Saved files\Extra Configurations\NAMED\Long.lfg
+  size: 496
+  date: '2002-02-18T14:28:38'
+  crc: '0x26749225'
+- name: Saved files\Extra Configurations\NAMED\Mig1.lfg
+  size: 306
+  date: '2001-02-05T11:31:22'
+  crc: '0xa71c3e2e'
+- name: Saved files\Extra Configurations\NAMED\Morda.lfg
+  size: 2916
+  date: '2002-08-23T12:23:50'
+  crc: '0x64377e47'
+- name: Saved files\Extra Configurations\NAMED\Pseudlin.lfg
+  size: 72
+  date: '2001-02-05T11:34:44'
+  crc: '0x08337c23'
+- name: Saved files\Extra Configurations\NAMED\Res5.lfg
+  size: 162
+  date: '2001-02-04T14:01:06'
+  crc: '0xc3b7fb82'
+- name: Saved files\Extra Configurations\NAMED\Sh.lfg
+  size: 88
+  date: '2001-01-26T11:34:04'
+  crc: '0x14d1b9c3'
+- name: Saved files\Extra Configurations\NAMED\Stals.lfg
+  size: 14
+  date: '2001-01-28T09:35:08'
+  crc: '0xe873dcfd'
+- name: Saved files\Extra Configurations\NAMED\T.lfg
+  size: 10
+  date: '2001-01-26T11:34:04'
+  crc: '0x36802c83'
+- name: Saved files\Extra Configurations\NAMED\X.lfg
+  size: 338
+  date: '2000-06-26T09:22:34'
+  crc: '0x973fdcbb'
+- name: Saved files\Extra Configurations\NAMED\Z1.lfg
+  size: 216
+  date: '2001-02-02T14:35:14'
+  crc: '0xa2c1d1e3'
+- name: Saved files\Extra Configurations\NAMED\Zmeia.lfg
+  size: 236
+  date: '2001-01-26T11:34:04'
+  crc: '0x475b1a15'
+- name: Saved files\Extra Configurations\NAMED\Zmeia1.lfg
+  size: 302
+  date: '2001-01-26T11:34:04'
+  crc: '0x1b3eb586'
+- name: Saved files\Extra Configurations\NAMED\Zvezda.lfg
+  size: 178
+  date: '2002-03-06T12:20:46'
+  crc: '0xfb29df4c'
+- name: Saved files\Extra Configurations\NEW\
+  size: 0
+  date: '2019-01-10T21:03:40'
+- name: Saved files\Extra Configurations\NEW\T2.lfg
+  size: 112
+  date: '2001-01-26T11:34:04'
+  crc: '0xb5c87712'
+- name: Saved files\Extra Configurations\NEW\T3.lfg
+  size: 240
+  date: '2001-01-26T11:34:04'
+  crc: '0x2c4dda50'
+- name: Saved files\Extra Configurations\NEW\T4.lfg
+  size: 416
+  date: '2001-01-26T11:34:04'
+  crc: '0x5a4fbebb'
+- name: Saved files\Extra Configurations\NEW\T5.lfg
+  size: 640
+  date: '2001-01-26T11:34:04'
+  crc: '0xb86a6acb'
+- name: Saved files\Extra Configurations\NEW\T6.lfg
+  size: 24
+  date: '2001-01-26T11:34:04'
+  crc: '0xf06428f9'
+- name: Saved files\Extra Configurations\NEW\X10.lfg
+  size: 136
+  date: '2001-01-26T11:34:04'
+  crc: '0x4465fee2'
+- name: Saved files\Extra Configurations\NEW\X11.lfg
+  size: 144
+  date: '2001-01-26T11:34:04'
+  crc: '0x24a02fbf'
+- name: Saved files\Extra Configurations\NEW\X12.lfg
+  size: 160
+  date: '2001-01-26T11:34:04'
+  crc: '0x30703388'
+- name: Saved files\Extra Configurations\NEW\X13.lfg
+  size: 104
+  date: '2001-01-26T11:34:04'
+  crc: '0x6da0d08c'
+- name: Saved files\Extra Configurations\NEW\X15.lfg
+  size: 152
+  date: '2001-01-26T11:34:04'
+  crc: '0x21a91e2d'
+- name: Saved files\Extra Configurations\NEW\X19.lfg
+  size: 120
+  date: '2001-01-26T11:34:04'
+  crc: '0x6d234bf6'
+- name: Saved files\Extra Configurations\NEW\X2.lfg
+  size: 16
+  date: '2001-01-26T11:34:04'
+  crc: '0xa44edf2c'
+- name: Saved files\Extra Configurations\NEW\X21.lfg
+  size: 88
+  date: '2001-01-26T11:34:04'
+  crc: '0x1e51160a'
+- name: Saved files\Extra Configurations\NEW\X23.lfg
+  size: 128
+  date: '2001-01-26T11:34:04'
+  crc: '0xedd7aae6'
+- name: Saved files\Extra Configurations\NEW\X230.lfg
+  size: 208
+  date: '2001-11-30T14:15:14'
+  crc: '0xb96f8f58'
+- name: Saved files\Extra Configurations\NEW\X24.lfg
+  size: 136
+  date: '2001-01-26T11:34:04'
+  crc: '0x25eaf338'
+- name: Saved files\Extra Configurations\NEW\X25.lfg
+  size: 136
+  date: '2001-01-26T11:34:04'
+  crc: '0x6b68daa5'
+- name: Saved files\Extra Configurations\NEW\X26.lfg
+  size: 152
+  date: '2001-01-26T11:34:04'
+  crc: '0x44aa91ec'
+- name: Saved files\Extra Configurations\NEW\X27.lfg
+  size: 232
+  date: '2001-01-26T11:34:04'
+  crc: '0x5453125e'
+- name: Saved files\Extra Configurations\NEW\X28.lfg
+  size: 224
+  date: '2001-01-26T11:34:04'
+  crc: '0x6231107b'
+- name: Saved files\Extra Configurations\NEW\X29.lfg
+  size: 216
+  date: '2001-01-26T11:34:04'
+  crc: '0xee99f842'
+- name: Saved files\Extra Configurations\NEW\X32.lfg
+  size: 208
+  date: '2001-01-26T11:34:04'
+  crc: '0xb96f8f58'
+- name: Saved files\Extra Configurations\NEW\X33.lfg
+  size: 20
+  date: '2001-01-28T09:50:14'
+  crc: '0x2d1f47fc'
+- name: Saved files\Extra Configurations\NEW\X7.lfg
+  size: 120
+  date: '2001-01-26T11:34:04'
+  crc: '0x6198f437'
+- name: Saved files\Extra Configurations\NEW\X9.lfg
+  size: 120
+  date: '2001-01-26T11:34:04'
+  crc: '0xfe36f23f'
+- name: Saved files\Standard\
+  size: 0
+  date: '2019-01-10T21:03:38'
+- name: Saved files\Standard\13planer.lfg
+  size: 130
+  date: '2001-02-03T14:48:34'
+  crc: '0x2d5a14f6'
+- name: Saved files\Standard\Baken.lfg
+  size: 16
+  date: '2001-01-26T11:34:04'
+  crc: '0xd76b1668'
+- name: Saved files\Standard\Cat.lfg
+  size: 36
+  date: '2001-01-26T11:34:04'
+  crc: '0x4baba43d'
+- name: Saved files\Standard\Clock.lfg
+  size: 12
+  date: '2001-01-26T11:34:04'
+  crc: '0x5459f872'
+- name: Saved files\Standard\Diagon.lfg
+  size: 170
+  date: '2000-06-26T09:22:34'
+  crc: '0xc1646c91'
+- name: Saved files\Standard\H.lfg
+  size: 14
+  date: '2001-01-26T11:34:04'
+  crc: '0x59ac36fa'
+- name: Saved files\Standard\Jaba.lfg
+  size: 12
+  date: '2001-01-26T11:34:04'
+  crc: '0x8fdf0616'
+- name: Saved files\Standard\Jneica.lfg
+  size: 238
+  date: '2001-02-05T10:06:12'
+  crc: '0x0fa9e623'
+- name: Saved files\Standard\Juk.lfg
+  size: 82
+  date: '2001-01-26T11:34:04'
+  crc: '0xa0e6f32e'
+- name: Saved files\Standard\Migalka.lfg
+  size: 6
+  date: '2001-01-26T11:34:04'
+  crc: '0xb5ecba4a'
+- name: Saved files\Standard\Palka.lfg
+  size: 60
+  date: '2001-01-26T11:34:04'
+  crc: '0x813cbfa7'
+- name: Saved files\Standard\Pentadec.lfg
+  size: 40
+  date: '2001-02-02T14:22:40'
+  crc: '0x5f309313'
+- name: Saved files\Standard\Pi.lfg
+  size: 14
+  date: '2001-01-26T11:34:04'
+  crc: '0x68442c67'
+- name: Saved files\Standard\Planer.lfg
+  size: 10
+  date: '2001-01-26T11:34:04'
+  crc: '0x726641cb'
+- name: Saved files\Standard\Pulsar.lfg
+  size: 14
+  date: '2001-01-26T11:34:04'
+  crc: '0xa10fe800'
+- name: Saved files\Standard\R.lfg
+  size: 10
+  date: '2001-01-26T11:34:04'
+  crc: '0xc58d67e4'
+- name: Saved files\Standard\Sqr5x5.lfg
+  size: 50
+  date: '2001-01-26T11:34:04'
+  crc: '0x07cc0045'
+- name: Saved files\Standard\Svetofor.lfg
+  size: 8
+  date: '2000-06-26T09:22:34'
+  crc: '0x8fe75d59'
+- name: Saved files\Standard\Svkoskor.lfg
+  size: 72
+  date: '2001-01-26T11:34:04'
+  crc: '0xae890f9a'
+- name: Saved files\Standard\Tumbler.lfg
+  size: 44
+  date: '2001-01-26T11:34:04'
+  crc: '0x827cbbf1'
+- name: Saved files\Standard\Vertushk.lfg
+  size: 70
+  date: '2001-01-26T11:34:04'
+  crc: '0xb500ff13'
+- name: Saved files\Standard\Virus.lfg
+  size: 2178
+  date: '2000-06-26T09:22:34'
+  crc: '0xfe5527e9'
+- name: Saved files\Standard\Z.lfg
+  size: 26
+  date: '2001-02-05T10:12:40'
+  crc: '0x3316992a'

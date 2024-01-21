@@ -1,0 +1,70 @@
+filename: Towers v1.26 [SW] (1993)(MVP Software) [Strategy, Puzzle].zip
+tdc_id: '16384.4'
+parent_id: '16384.3'
+title:
+  screen: Towers
+publisher: MVP Software
+year: '1993'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-03-01T21:10:38'
+  last_modified: '2019-03-01T21:10:38'
+version: '1.26'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: TOWERS.EXE
+files:
+- name: BASIC.TWR
+  size: 2481
+  date: '1992-05-29T13:44:22'
+  crc: '0x2f19ca20'
+- name: DIAMOND.TWR
+  size: 2481
+  date: '1992-06-22T12:08:22'
+  crc: '0x1e46f203'
+- name: DOTS.TWR
+  size: 2481
+  date: '1992-05-29T13:25:02'
+  crc: '0x5512fbf3'
+- name: GRIMAGES.DAT
+  size: 108832
+  date: '1992-05-15T12:40:02'
+  crc: '0x456b91ba'
+- name: TOWER1.TWR
+  size: 2421
+  date: '1992-05-29T12:53:04'
+  crc: '0xc3961bdb'
+- name: TOWERMAP.DAT
+  size: 225
+  date: '1992-05-23T11:41:16'
+  crc: '0x019a7c44'
+- name: TOWERS.DOC
+  size: 6421
+  date: '1993-01-12T14:51:58'
+  crc: '0x26f0c8bb'
+- name: TOWERS.EXE
+  size: 203574
+  date: '1992-11-15T23:44:32'
+  crc: '0x9d96d2a4'
+- name: TOWHELP.IDX
+  size: 46
+  date: '1992-09-09T21:51:30'
+  crc: '0xaf601f38'
+- name: TOWHELP.INC
+  size: 3071
+  date: '1992-08-05T13:26:52'
+  crc: '0x8d8b3eae'
+- name: TOWHELP.TXT
+  size: 3080
+  date: '1992-09-09T21:51:30'
+  crc: '0x329929c4'
+- name: TOWTTL.PCX
+  size: 9516
+  date: '1992-07-30T23:32:44'
+  crc: '0x21fc2bfd'

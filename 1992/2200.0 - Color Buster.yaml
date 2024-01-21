@@ -1,0 +1,30 @@
+filename: Color Buster (1992)(Pyramid Software Studio) [Strategy].zip
+tdc_id: '2200.0'
+title:
+  screen: Color Buster
+publisher: Pyramid Software Studio
+year: '1992'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:41:52'
+  last_modified: '2019-03-01T18:41:52'
+type: zip
+commands:
+  play: COLOR.EXE
+references:
+  dosid: DOS01431
+  exodos: Color Buster (1992).zip
+files:
+- name: COLOR.DAT
+  size: 74761
+  date: '1992-01-11T19:27:58'
+  crc: '0x3016fbf7'
+- name: COLOR.EXE
+  size: 130160
+  date: '1992-01-11T19:28:08'
+  crc: '0x7dea17f3'
+- name: COLOR.HIS
+  size: 2326
+  date: '1992-01-11T19:28:10'
+  crc: '0xde0ef1b6'

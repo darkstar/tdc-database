@@ -1,0 +1,27 @@
+filename: Fro-Nibbler (2002)(Fro Moe Software) [Action].zip
+tdc_id: '4814.0'
+title:
+  screen: Fro-Nibbler
+publisher: Fro Moe Software
+year: '2002'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:55:58'
+  last_modified: '2019-03-02T10:55:58'
+type: zip
+commands:
+  play: SNAKE.EXE
+files:
+- name: README.TXT
+  size: 1559
+  date: '2014-03-05T12:15:38'
+  crc: '0x34fbd1de'
+- name: SCORES.DAT
+  size: 110
+  date: '2014-03-08T15:37:34'
+  crc: '0xf6d49cee'
+- name: SNAKE.EXE
+  size: 108618
+  date: '2002-09-23T21:04:52'
+  crc: '0xc1ced318'

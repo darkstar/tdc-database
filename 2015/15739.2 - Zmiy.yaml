@@ -1,0 +1,88 @@
+filename: Zmiy v0.85.2 [FW] (2015)(Mateusz Viste) [Action].zip
+tdc_id: '15739.2'
+title:
+  screen: Zmiy
+publisher: Mateusz Viste
+year: '2015'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:58:08'
+  last_modified: '2019-03-02T10:58:08'
+version: 0.85.2
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: ZMIY.EXE
+files:
+- name: APPINFO\
+  size: 0
+  date: '2016-01-22T19:44:02'
+- name: APPINFO\ZMIY.LSM
+  size: 348
+  date: '2015-06-13T07:59:16'
+  crc: '0x8b199f5f'
+- name: HISTORY.TXT
+  size: 1268
+  date: '2015-06-13T07:58:18'
+  crc: '0xf7133cf2'
+- name: SOURCE\
+  size: 0
+  date: '2016-01-22T19:44:02'
+- name: SOURCE\ZMIY\
+  size: 0
+  date: '2016-01-22T19:44:02'
+- name: SOURCE\ZMIY\HISTORY.TXT
+  size: 1268
+  date: '2015-06-13T07:58:18'
+  crc: '0xf7133cf2'
+- name: SOURCE\ZMIY\IO.C
+  size: 5597
+  date: '2015-06-11T08:27:18'
+  crc: '0x5ef00cd2'
+- name: SOURCE\ZMIY\IO.H
+  size: 1175
+  date: '2015-06-08T11:57:18'
+  crc: '0xe0b9e63b'
+- name: SOURCE\ZMIY\LEVELS.C
+  size: 16158
+  date: '2015-06-08T10:57:24'
+  crc: '0xe6809e02'
+- name: SOURCE\ZMIY\LEVELS.H
+  size: 2071
+  date: '2015-06-08T12:31:26'
+  crc: '0xf2615902'
+- name: SOURCE\ZMIY\MAKEFILE
+  size: 866
+  date: '2015-06-13T08:08:52'
+  crc: '0x35a88b2c'
+- name: SOURCE\ZMIY\TIMER.C
+  size: 3811
+  date: '2015-06-11T12:58:08'
+  crc: '0x8602f2af'
+- name: SOURCE\ZMIY\TIMER.H
+  size: 1567
+  date: '2014-07-24T20:46:54'
+  crc: '0x5b0d0031'
+- name: SOURCE\ZMIY\ZMIY.C
+  size: 20657
+  date: '2015-06-11T13:40:46'
+  crc: '0xc1590a42'
+- name: SOURCE\ZMIY\ZMIY.LSM
+  size: 348
+  date: '2015-06-13T07:59:16'
+  crc: '0x8b199f5f'
+- name: SOURCE\ZMIY\ZMIY.TXT
+  size: 4279
+  date: '2015-06-13T08:00:48'
+  crc: '0x6e32c9ca'
+- name: ZMIY.EXE
+  size: 10698
+  date: '2015-06-13T08:09:50'
+  crc: '0x7e503de0'
+- name: ZMIY.TXT
+  size: 4279
+  date: '2015-06-13T08:00:48'
+  crc: '0x6e32c9ca'

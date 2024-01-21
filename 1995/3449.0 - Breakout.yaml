@@ -1,0 +1,28 @@
+filename: Breakout (1995)(Adam Landefeld) [Action].zip
+tdc_id: '3449.0'
+title:
+  screen: Breakout
+publisher: Adam Landefeld
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2009-11-23T05:47:58'
+  last_modified: '2009-11-23T05:47:58'
+type: zip
+media: Download
+commands:
+  play: BREAKOUT.EXE
+files:
+- name: BREAKOUT.BAS
+  size: 7193
+  date: '1995-07-10T15:40:54'
+  crc: '0x645ecec0'
+- name: BREAKOUT.EXE
+  size: 139982
+  date: '1995-07-10T15:41:16'
+  crc: '0x6ef8ba1a'
+- name: FILE_ID.DIZ
+  size: 95
+  date: '1995-07-19T11:10:30'
+  crc: '0x5396a002'

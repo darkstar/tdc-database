@@ -1,0 +1,25 @@
+filename: Spellicopter [DC] (1989)(DesignWare, Inc.) [Educational].zip
+tdc_id: '10441.0'
+title:
+  box: Spellicopter
+publisher: DesignWare, Inc.
+year: '1989'
+genre: Educational
+language: English
+date:
+  added: '2020-05-02T02:21:08'
+  last_modified: '2022-11-18T12:12:34'
+type: zip
+commands:
+  play: START.COM
+references:
+  mobygames: https://www.mobygames.com/game/pc-booter/spellicopter
+files:
+- name: SCOPTER.IMG
+  size: 163840
+  date: '1989-05-29T20:18:14'
+  crc: '0xaa8dd96c'
+- name: START.COM
+  size: 836
+  date: '1989-05-29T21:13:34'
+  crc: '0x724ea5a6'

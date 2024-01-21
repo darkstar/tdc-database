@@ -1,0 +1,31 @@
+filename: Spy Hunter [f1][DC] (1984)(SEGA Enterprises Ltd.) [Action, Racing - Driving].zip
+tdc_id: '15444.0'
+title:
+  box: Spy Hunter
+publisher: SEGA Enterprises Ltd.
+year: '1984'
+genre:
+- Action
+- Racing - Driving
+language: English
+date:
+  added: '2019-03-01T18:24:18'
+  last_modified: '2019-03-01T18:24:18'
+type: zip
+tags:
+- DOSConversion
+- Fixed: 1
+commands:
+  play: SPYHUNT.COM
+references:
+  dosid: DOS05980
+  exodos: Spy Hunter (1984).zip
+files:
+- name: SPYHUNT.COM
+  size: 256
+  date: '2099-11-25T16:33:34'
+  crc: '0x8cfb3c13'
+- name: SPYHUNT.PGM
+  size: 114688
+  date: '1980-01-01T22:09:08'
+  crc: '0xf276e21c'

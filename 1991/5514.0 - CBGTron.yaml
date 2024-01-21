@@ -1,0 +1,33 @@
+filename: CBGTron [SW] (1991)(Ian Warmby) [Action].zip
+tdc_id: '5514.0'
+title:
+  screen: CBGTron
+publisher: Ian Warmby
+year: '1991'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:35:12'
+  last_modified: '2019-03-01T18:35:12'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: CBGTRON.EXE
+references:
+  dosid: DOS06769
+  exodos: Cbgtron (1991).zip
+files:
+- name: CBGTRON.EXE
+  size: 11472
+  date: '1980-01-27T03:27:20'
+  crc: '0xf002c84f'
+- name: INSTRUCT.DOC
+  size: 3675
+  date: '1980-01-02T23:13:00'
+  crc: '0x6967db3e'
+- name: REGISTER.DOC
+  size: 3219
+  date: '1980-01-02T23:15:32'
+  crc: '0x379fa9da'

@@ -1,0 +1,83 @@
+filename: Space Bugs (1992)(N.K. Dann) [Action].zip
+tdc_id: '6878.0'
+title:
+  screen: Space Bugs
+publisher: N.K. Dann
+year: '1992'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:51:08'
+  last_modified: '2019-03-01T18:51:08'
+type: zip
+commands:
+  play: sb.exe
+files:
+- name: SBGRA1.CGA
+  size: 3366
+  date: '1980-01-01T01:17:22'
+  crc: '0x18f286ae'
+- name: SBGRA1.EGA
+  size: 13446
+  date: '1980-01-01T01:03:24'
+  crc: '0x4c060408'
+- name: SBGRA1.HER
+  size: 5046
+  date: '1980-01-01T00:01:48'
+  crc: '0x08c85c02'
+- name: SBGRA2.CGA
+  size: 3366
+  date: '1980-01-01T01:21:16'
+  crc: '0x13785770'
+- name: SBGRA2.EGA
+  size: 13446
+  date: '1980-01-01T00:22:42'
+  crc: '0xf950bbf5'
+- name: SBGRA2.HER
+  size: 5046
+  date: '1980-01-01T00:05:18'
+  crc: '0x1a781096'
+- name: SBGRA3.CGA
+  size: 3366
+  date: '1980-01-01T01:23:32'
+  crc: '0xb604b7df'
+- name: SBGRA3.EGA
+  size: 13446
+  date: '1980-01-01T00:02:08'
+  crc: '0x52d5033c'
+- name: SBGRA3.HER
+  size: 5046
+  date: '1980-01-01T07:01:34'
+  crc: '0xe848fb20'
+- name: SPACEBUG.HOF
+  size: 340
+  date: '1997-04-25T20:32:58'
+  crc: '0xafb29d99'
+- name: SPACEBUG.KEY
+  size: 24
+  date: '1997-04-25T20:32:58'
+  crc: '0xe9c6757b'
+- name: SPACEBUG.MUS
+  size: 960
+  date: '1980-01-01T02:56:56'
+  crc: '0xb03e247d'
+- name: TIME.CGA
+  size: 3366
+  date: '1980-01-01T02:21:06'
+  crc: '0xc8f71d4b'
+- name: TIME.EGA
+  size: 13446
+  date: '1980-01-01T01:14:46'
+  crc: '0x90d17f9b'
+- name: TIME.HER
+  size: 5046
+  date: '1980-01-01T00:19:58'
+  crc: '0x4f716cdf'
+- name: readme.txt
+  size: 81
+  date: '1997-04-25T20:46:06'
+  crc: '0x7b95459f'
+- name: sb.exe
+  size: 130144
+  date: '1997-04-25T20:15:14'
+  crc: '0xd6f291e0'

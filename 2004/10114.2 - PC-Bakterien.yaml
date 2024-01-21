@@ -1,0 +1,26 @@
+filename: PC-Bakterien v1.5 (Installer) [SW] (2004)(TOM Productions) [Action, Strategy].zip
+tdc_id: '10114.2'
+title:
+  screen: PC-Bakterien
+publisher: TOM Productions
+year: '2004'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-02T10:56:56'
+  last_modified: '2019-03-02T10:56:56'
+version: '1.5'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: i_pcbi.exe
+files:
+- name: i_pcbi.exe
+  size: 693760
+  date: '2010-07-17T17:28:22'
+  crc: '0x9a69989b'

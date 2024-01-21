@@ -1,0 +1,31 @@
+filename: Death Knights of Krynn v1.10 (Installer) (1991)(Strategic Simulations, Inc.) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '13007.3'
+title:
+  box: Death Knights of Krynn
+publisher: Strategic Simulations, Inc.
+year: '1991'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:35:34'
+  last_modified: '2019-03-01T18:35:34'
+version: '1.10'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK1.ARJ
+  size: 622607
+  date: '1992-08-12T17:52:32'
+  crc: '0xf179c26f'
+- name: INSTALL.EXE
+  size: 36253
+  date: '1992-08-10T11:12:46'
+  crc: '0x51c9b837'
+- name: SAVE.ARJ
+  size: 3854
+  date: '1992-08-07T17:16:06'
+  crc: '0x55c323b3'

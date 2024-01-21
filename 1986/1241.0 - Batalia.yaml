@@ -1,0 +1,34 @@
+filename: Batalia (1986)(Right Brothers, The) [Action].zip
+tdc_id: '1241.0'
+title:
+  screen: Batalia
+publisher: Right Brothers, The
+year: '1986'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:42'
+  last_modified: '2019-03-01T18:24:42'
+type: zip
+commands:
+  play: BATALIA.EXE
+references:
+  dosid: DOS06724
+  exodos: Batalia (1986).zip
+files:
+- name: BATALIA.DOC
+  size: 2251
+  date: '1986-07-05T21:44:58'
+  crc: '0xe2cf1adf'
+- name: BATALIA.EXE
+  size: 70575
+  date: '1980-01-01T00:35:32'
+  crc: '0xb4bd45e0'
+- name: KBATAL.BAS
+  size: 16391
+  date: '1986-06-02T09:50:26'
+  crc: '0xfbd704eb'
+- name: RIGHTBRO.BAS
+  size: 16391
+  date: '1986-04-16T05:53:36'
+  crc: '0x64053de3'

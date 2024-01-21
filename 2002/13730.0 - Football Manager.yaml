@@ -1,0 +1,37 @@
+filename: Football Manager (2002)(Paul Robson) [Simulation, Sports].zip
+tdc_id: '13730.0'
+title:
+  screen: Football Manager
+publisher: Paul Robson
+year: '2002'
+genre:
+- Simulation
+- Sports
+language: English
+date:
+  added: '2019-03-02T10:55:58'
+  last_modified: '2019-03-02T10:55:58'
+type: zip
+commands:
+  play: afm.exe
+files:
+- name: CWSDPMI.EXE
+  size: 20125
+  date: '1996-12-24T23:32:00'
+  crc: '0x1d1b569c'
+- name: FM.TXT
+  size: 2176
+  date: '1996-12-24T23:32:00'
+  crc: '0x15c1d5b8'
+- name: FONT.BIN
+  size: 1024
+  date: '1996-12-24T23:32:00'
+  crc: '0x7601822d'
+- name: GAME.DAT
+  size: 995
+  date: '1996-12-24T23:32:00'
+  crc: '0x370cf0ee'
+- name: afm.exe
+  size: 151104
+  date: '1996-12-24T23:32:00'
+  crc: '0xb86b642a'

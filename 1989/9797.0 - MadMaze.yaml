@@ -1,0 +1,27 @@
+filename: MadMaze v1.0 [SW] (1989)(William Soleau) [Action].zip
+tdc_id: '9797.0'
+title:
+  screen: MadMaze
+publisher: William Soleau
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:28:14'
+  last_modified: '2023-05-22T16:15:20'
+version: '1.0'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: MADMAZE.EXE
+files:
+- name: MADMAZE.DAT
+  size: 49
+  date: '1980-01-01T00:14:44'
+  crc: '0x1a68bd43'
+- name: MADMAZE.EXE
+  size: 99088
+  date: '1989-08-11T17:28:54'
+  crc: '0x7304d7f0'

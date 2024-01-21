@@ -1,0 +1,65 @@
+filename: Fidelity Chessmaster 2100, The v1.15 (1989)(Software Toolworks, Inc., The) [Strategy, Chess].zip
+tdc_id: '13552.0'
+title:
+  box: The Fidelity Chessmaster 2100
+publisher: Software Toolworks, Inc., The
+year: '1989'
+genre:
+- Strategy
+- Chess
+language: English
+date:
+  added: '2019-03-01T18:27:46'
+  last_modified: '2019-03-01T18:27:46'
+version: '1.15'
+type: zip
+commands:
+  play: 2100.EXE
+references:
+  dosid: DOS02128
+  exodos: Fidelity Chessmaster 2100, The (1989).zip
+files:
+- name: 2100.EXE
+  size: 311493
+  date: '1989-11-15T16:11:06'
+  crc: '0xbb24cbf3'
+- name: BOOK.DAT
+  size: 8386
+  date: '1989-11-15T16:12:00'
+  crc: '0xb0b67ee1'
+- name: CLASSICS.DAT
+  size: 168656
+  date: '1989-11-15T16:13:56'
+  crc: '0x7fcc4c4c'
+- name: EGA.LBM
+  size: 30942
+  date: '1989-11-15T16:12:14'
+  crc: '0x21f9b480'
+- name: HELP.DAT
+  size: 42588
+  date: '1989-11-15T16:11:56'
+  crc: '0x20e71a55'
+- name: SETTINGS.DAT
+  size: 165
+  date: '1989-11-16T12:36:38'
+  crc: '0x35849e66'
+- name: SYSTEM08.FNT
+  size: 2108
+  date: '1989-11-15T16:11:30'
+  crc: '0xbbf96fa0'
+- name: TITLEEGA.LBM
+  size: 38768
+  date: '1989-11-15T16:12:36'
+  crc: '0xd6324a08'
+- name: TUTORIAL.DAT
+  size: 27393
+  date: '1989-11-15T16:11:36'
+  crc: '0xc367bce8'
+- name: TWRXEGA.LBM
+  size: 27288
+  date: '1989-11-15T16:12:48'
+  crc: '0xb819870e'
+- name: VOICE.DAT
+  size: 11100
+  date: '1989-11-15T16:11:40'
+  crc: '0xed0e1c26'

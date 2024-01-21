@@ -1,0 +1,47 @@
+filename: Casino Games (1982)(IBM) [Simulation, Cards].zip
+tdc_id: '5167.0'
+title:
+  box: Casino Games
+publisher: IBM
+year: '1982'
+genre:
+- Simulation
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:22:56'
+  last_modified: '2019-03-01T18:22:56'
+type: zip
+files:
+- name: AUTOEXEC.BAT
+  size: 31
+  date: '1982-10-01T12:00:00'
+  crc: '0x6309fb0c'
+- name: BLACK.BAS
+  size: 20992
+  date: '1982-10-01T12:00:18'
+  crc: '0xdd80d76f'
+- name: DRAWING.EXE
+  size: 34688
+  date: '1982-10-01T12:00:00'
+  crc: '0x4c670e86'
+- name: INTRO.EXE
+  size: 3072
+  date: '1982-10-01T12:00:00'
+  crc: '0x4eb210ce'
+- name: POKER.BAS
+  size: 28800
+  date: '1982-10-01T12:00:24'
+  crc: '0xe8dfd713'
+- name: SETUP.BAT
+  size: 56
+  date: '1982-10-01T12:00:00'
+  crc: '0x5839de08'
+- name: SLOT.BAS
+  size: 12032
+  date: '1982-10-01T12:00:12'
+  crc: '0xd426e9aa'
+- name: START.BAS
+  size: 10496
+  date: '1982-10-01T12:00:14'
+  crc: '0x48b81f77'

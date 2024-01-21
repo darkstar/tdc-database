@@ -1,0 +1,52 @@
+filename: Paku Paku v1.01 (2011)(Jason M. Knight) [Action].zip
+tdc_id: '8482.2'
+title:
+  screen: Paku Paku
+publisher: Jason M. Knight
+year: '2011'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:57:50'
+  last_modified: '2019-03-02T10:57:50'
+version: '1.01'
+type: zip
+commands:
+  play: PAKU.EXE
+files:
+- name: FONTS.DAT
+  size: 3840
+  date: '2011-01-11T21:32:46'
+  crc: '0xba694974'
+- name: FONTS.KRN
+  size: 70
+  date: '2011-01-11T22:46:18'
+  crc: '0xf1213800'
+- name: HEXNUM.DAT
+  size: 1920
+  date: '2011-01-31T05:47:40'
+  crc: '0x4f2f5c53'
+- name: MAP.DAT
+  size: 566
+  date: '2011-01-04T23:42:54'
+  crc: '0x5b5f73e6'
+- name: MAPTILES.DAT
+  size: 1152
+  date: '2011-01-11T07:04:00'
+  crc: '0x0930e950'
+- name: PAKU.EXE
+  size: 34944
+  date: '2011-02-08T23:41:54'
+  crc: '0xaac7c7a4'
+- name: README.HTM
+  size: 15284
+  date: '2011-02-08T23:45:04'
+  crc: '0x2586aba0'
+- name: SPRITES.DAT
+  size: 6720
+  date: '2011-02-02T15:33:18'
+  crc: '0x9a0cf0f5'
+- name: TEXTS.TDT
+  size: 2255
+  date: '2011-02-08T15:12:20'
+  crc: '0x7fd60037'

@@ -1,0 +1,50 @@
+filename: Operation Spacehog v1.01 [FW] (2000)(Free Lunch Design) [Action].zip
+tdc_id: '14642.0'
+title:
+  screen: Operation Spacehog
+publisher: Free Lunch Design
+year: '2000'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:54:56'
+  last_modified: '2019-03-02T10:54:56'
+version: '1.01'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: SH.EXE
+references:
+  dosid: DOS07319
+  exodos: Operation Spacehog (2000).zip
+files:
+- name: CWSDPMI.EXE
+  size: 20473
+  date: '1997-10-19T14:48:14'
+  crc: '0x80fa6999'
+- name: README.TXT
+  size: 16329
+  date: '2000-06-02T06:29:46'
+  crc: '0xd5af2c6e'
+- name: SH.EXE
+  size: 195640
+  date: '2000-06-02T06:51:08'
+  crc: '0x8df4a8aa'
+- name: SHBGS.DAT
+  size: 88531
+  date: '2000-02-24T13:01:28'
+  crc: '0x9ce21797'
+- name: SHLEV.DAT
+  size: 40204
+  date: '2000-02-28T16:44:46'
+  crc: '0x94c522f9'
+- name: SHSND.DAT
+  size: 134192
+  date: '2000-02-19T03:03:20'
+  crc: '0xf84f036a'
+- name: SPACEHOG.DAT
+  size: 90144
+  date: '2000-02-27T14:37:08'
+  crc: '0xb68e0808'

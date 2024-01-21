@@ -1,0 +1,31 @@
+filename: NFL (2000)(Josh Kitchens) [Sports, Strategy, Simulation].zip
+tdc_id: '4606.0'
+title:
+  screen: NFL
+publisher: Josh Kitchens
+year: '2000'
+genre:
+- Sports
+- Strategy
+- Simulation
+language: English
+date:
+  added: '2019-03-02T10:54:56'
+  last_modified: '2019-03-02T10:54:56'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 23
+  date: '2018-11-28T20:32:26'
+  crc: '0x55e48e81'
+- name: NFL.BAS
+  size: 22234
+  date: '2018-03-10T15:05:50'
+  crc: '0x2b34eaab'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

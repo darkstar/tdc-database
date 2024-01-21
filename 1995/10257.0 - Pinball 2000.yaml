@@ -1,0 +1,98 @@
+filename: Pinball 2000 (1995)(Expert Software, Inc.) [Simulation, Action].zip
+tdc_id: '10257.0'
+title:
+  box: Pinball 2000
+publisher: Expert Software, Inc.
+year: '1995'
+genre:
+- Simulation
+- Action
+language: English
+date:
+  added: '2019-03-02T08:58:12'
+  last_modified: '2019-03-02T08:58:12'
+type: zip
+references:
+  dosid: DOS04000
+  exodos: Pinball 2000 (1995).zip
+files:
+- name: CHKMEM.COM
+  size: 48
+  date: '1995-10-30T18:28:58'
+  crc: '0x04df11c8'
+- name: COPYRITE.VGA
+  size: 64000
+  date: '1995-10-30T17:53:00'
+  crc: '0x94f6cb28'
+- name: FLIPPERS.SPR
+  size: 11672
+  date: '1995-10-30T18:38:04'
+  crc: '0x61529cef'
+- name: HIGHSCOR.VGA
+  size: 64000
+  date: '1995-10-30T15:57:00'
+  crc: '0x31a0df6c'
+- name: HISCORES
+  size: 144
+  date: '2000-01-01T00:39:08'
+  crc: '0x771c31a6'
+- name: INTRO.MOD
+  size: 222304
+  date: '1995-10-30T20:11:34'
+  crc: '0x1a66c8af'
+- name: LEVEL1.MOD
+  size: 201064
+  date: '1995-10-30T18:58:44'
+  crc: '0x02860127'
+- name: LEVEL4.MOD
+  size: 151800
+  date: '1995-10-30T12:12:24'
+  crc: '0x42c44f8d'
+- name: LOGO.VGA
+  size: 64000
+  date: '1995-10-30T17:53:18'
+  crc: '0x0b348c32'
+- name: PD.EXE
+  size: 139535
+  date: '1995-10-30T18:25:52'
+  crc: '0xc11416e3'
+- name: PDCONFIG
+  size: 10
+  date: '1995-10-30T22:10:40'
+  crc: '0x08bdd375'
+- name: PDTIT.VGA
+  size: 64000
+  date: '1995-10-30T15:56:40'
+  crc: '0xb56f2df1'
+- name: SELECT.MOD
+  size: 67340
+  date: '1995-10-30T17:23:26'
+  crc: '0xcbaf954f'
+- name: SETSOUND.COM
+  size: 1894
+  date: '1995-10-30T10:44:46'
+  crc: '0x247015c6'
+- name: START.COM
+  size: 1157
+  date: '1995-10-30T15:50:52'
+  crc: '0xcb404c24'
+- name: TABLE2M.GRV
+  size: 163840
+  date: '1995-10-30T19:48:22'
+  crc: '0x44e6ee2d'
+- name: TABLE2M.RKT
+  size: 163840
+  date: '1995-10-30T19:47:24'
+  crc: '0x7c4b9930'
+- name: TBLDETHI.GRV
+  size: 6910
+  date: '1995-10-30T18:38:04'
+  crc: '0xd9385291'
+- name: TBLDETLO.GRV
+  size: 14866
+  date: '1995-10-30T20:20:06'
+  crc: '0xd4671e0c'
+- name: TBLDETLO.RKT
+  size: 13803
+  date: '1995-10-30T18:38:04'
+  crc: '0x8ce834a5'

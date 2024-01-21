@@ -1,0 +1,27 @@
+filename: Brick (198x)(Glen Fisher) [Action].zip
+tdc_id: '1844.0'
+title:
+  screen: Brick
+publisher: Glen Fisher
+year: 198x
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:29:24'
+  last_modified: '2019-03-01T18:29:24'
+type: zip
+commands:
+  play: BRICK.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: BRICK.BAS
+  size: 1920
+  date: '1980-01-01T21:00:00'
+  crc: '0xe0b12ef5'
+- name: BRICK.BAT
+  size: 16
+  date: '2014-12-18T17:59:06'
+  crc: '0x156e6d24'

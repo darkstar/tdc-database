@@ -1,0 +1,37 @@
+filename: Bi-Fi Roll 1- Snack Zone (Installer) (De) (1993)(Bi-Fi) [Adventure].zip
+tdc_id: '12607.1'
+title:
+  screen: 'Bi-Fi Roll 1: Snack Zone'
+publisher: Bi-Fi
+year: '1993'
+genre: Adventure
+language: German
+date:
+  added: '2018-01-06T17:56:52'
+  last_modified: '2018-01-06T17:56:52'
+type: zip
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 363
+  date: '1993-06-10T22:41:26'
+  crc: '0x2df34179'
+- name: INSTALL.CFG
+  size: 731
+  date: '1993-05-11T13:04:48'
+  crc: '0xf47d280e'
+- name: INSTALL.EXE
+  size: 26541
+  date: '1993-01-09T22:52:00'
+  crc: '0x23313901'
+- name: INSTALL.PAK
+  size: 1300665
+  date: '1993-05-11T11:32:46'
+  crc: '0x25e5fba1'
+- name: LIESMICH.TXT
+  size: 108
+  date: '1993-06-04T20:12:54'
+  crc: '0x1b0e1bc4'

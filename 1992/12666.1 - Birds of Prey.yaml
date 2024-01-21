@@ -1,0 +1,54 @@
+filename: Birds of Prey (Installer) [f1] (1992)(Electronic Arts, Inc.) [Simulation, Action].zip
+tdc_id: '12666.1'
+title:
+  box: Birds of Prey
+publisher: Electronic Arts, Inc.
+year: '1992'
+genre:
+- Simulation
+- Action
+language: English
+date:
+  added: '2020-06-17T17:55:02'
+  last_modified: '2020-06-17T17:55:02'
+type: zip
+tags:
+- Fixed: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  dosid: DOS01063
+  exodos: Birds of Prey (1992).zip
+files:
+- name: BIRDS.HUF
+  size: 233590
+  date: '1992-07-07T10:56:00'
+  crc: '0xb55402e7'
+- name: BOPC.HUF
+  size: 35870
+  date: '1992-05-28T11:38:48'
+  crc: '0xd8bfec04'
+- name: BOPE.HUF
+  size: 81049
+  date: '1992-05-21T17:15:04'
+  crc: '0xf10a46e1'
+- name: BOPM.HUF
+  size: 123134
+  date: '1992-05-27T18:00:48'
+  crc: '0xef1a18c5'
+- name: BOP_INST__1
+  size: 0
+  date: '1992-05-26T12:52:22'
+- name: INSTALL.EXE
+  size: 12926
+  date: '2019-05-26T11:05:06'
+  crc: '0xe8d5a4a3'
+- name: INSTALL.EX_
+  size: 12926
+  date: '1992-06-01T18:45:30'
+  crc: '0xdc664983'
+- name: SOUND.HUF
+  size: 53742
+  date: '1992-05-21T17:30:28'
+  crc: '0x2c674b01'

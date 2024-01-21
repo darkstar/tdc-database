@@ -1,0 +1,33 @@
+filename: Hextris (Ko) (1994)(Hanulso's PC Entertainment Group) [Action, Strategy].zip
+tdc_id: '11095.0'
+title:
+  screen: Hextris
+publisher: Hanulso's PC Entertainment Group
+year: '1994'
+genre:
+- Action
+- Strategy
+language: Korean
+date:
+  added: '2021-10-12T01:55:48'
+  last_modified: '2021-10-12T01:55:48'
+type: zip
+commands:
+  play: HEX.EXE
+files:
+- name: ASCII.SFT
+  size: 4096
+  date: '1992-10-04T14:08:38'
+  crc: '0x86c07a90'
+- name: HANMYUNG.SFT
+  size: 12224
+  date: '1992-03-09T20:43:56'
+  crc: '0xfad1e380'
+- name: HEX.EXE
+  size: 91692
+  date: '1994-05-14T06:17:20'
+  crc: '0x0a459fac'
+- name: SPECIAL.FNT
+  size: 40192
+  date: '1993-07-12T10:43:24'
+  crc: '0x183c48ea'

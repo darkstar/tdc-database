@@ -1,0 +1,81 @@
+filename: Arcade Wheel of Wealth (1995)(William Yu) [Strategy, Educational].zip
+tdc_id: '8726.0'
+title:
+  screen: Arcade Wheel of Wealth
+publisher: William Yu
+year: '1995'
+genre:
+- Strategy
+- Educational
+language: English
+date:
+  added: '2019-03-02T07:29:30'
+  last_modified: '2019-03-02T07:29:30'
+type: zip
+commands:
+  play: GO.BAT
+files:
+- name: B&A.DAT
+  size: 472
+  date: '1995-01-01T12:00:06'
+  crc: '0xb80fcd74'
+- name: CLUE.DAT
+  size: 583
+  date: '1995-03-21T15:46:04'
+  crc: '0xbde95edb'
+- name: GO.BAT
+  size: 25
+  date: '2018-03-11T00:17:42'
+  crc: '0xc7ecfa36'
+- name: MEGAWORD.DAT
+  size: 198
+  date: '1995-03-29T08:41:42'
+  crc: '0x393d75c0'
+- name: PEOPLE.DAT
+  size: 326
+  date: '1995-01-01T12:00:06'
+  crc: '0x90e082bc'
+- name: PHRASE.DAT
+  size: 3015
+  date: '1995-03-29T08:43:56'
+  crc: '0x3f9f4ec9'
+- name: PLACE.DAT
+  size: 264
+  date: '1995-03-16T15:42:04'
+  crc: '0x1bcfc313'
+- name: QB.BI
+  size: 2005
+  date: '2016-03-13T01:19:44'
+  crc: '0x3c41bdf3'
+- name: QB.EXE
+  size: 278804
+  date: '2016-03-13T01:19:58'
+  crc: '0xb08bc0fe'
+- name: QB.LIB
+  size: 2075
+  date: '2016-03-13T01:20:46'
+  crc: '0xaf756407'
+- name: QB.QLB
+  size: 5822
+  date: '2016-03-13T01:20:46'
+  crc: '0x5f7d93e0'
+- name: QUOTE.DAT
+  size: 578
+  date: '1995-03-29T08:42:12'
+  crc: '0x15884574'
+- name: S&R.DAT
+  size: 172
+  date: '1995-01-01T12:00:04'
+  crc: '0x02a3b5cd'
+- name: SLANG.DAT
+  size: 198
+  date: '1995-01-01T12:00:06'
+  crc: '0x0c4f3f40'
+- name: THING.DAT
+  size: 608
+  date: '1995-03-16T15:37:54'
+  crc: '0x402f3d0e'
+- name: WEALTH.BAS
+  size: 35043
+  date: '1995-10-20T16:11:04'
+  crc: '0x6ae1dec7'

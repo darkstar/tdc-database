@@ -1,0 +1,58 @@
+filename: Time Treks v1.2 (Installer) (1995)(Sanctuary Woods Multimedia Corporation) [Adventure, Educational].zip
+tdc_id: '2865.1'
+parent_id: '2865.6'
+title:
+  box: Time Treks
+publisher: Sanctuary Woods Multimedia Corporation
+year: '1995'
+genre:
+- Adventure
+- Educational
+language: English
+date:
+  added: '2022-10-04T11:27:21'
+  last_modified: '2022-10-04T11:27:21'
+version: '1.2'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/time-treks
+files:
+- name: DISK.ID
+  size: 29
+  date: '1993-10-18T01:21:20'
+  crc: '0xa52f2612'
+- name: INSTALL.DAT
+  size: 7277
+  date: '1995-02-13T15:29:00'
+  crc: '0x15d68a05'
+- name: INSTALL.EXE
+  size: 97853
+  date: '1993-10-18T01:21:30'
+  crc: '0x6f15dd22'
+- name: README.BAT
+  size: 25
+  date: '1993-10-18T01:21:32'
+  crc: '0x5cab0d58'
+- name: README.DOC
+  size: 20396
+  date: '1995-02-13T16:37:10'
+  crc: '0xd6dc8667'
+- name: TIMETREK.001
+  size: 610428
+  date: '1993-10-18T01:25:32'
+  crc: '0xbcb32c41'
+- name: TIMETREK.002
+  size: 727969
+  date: '1993-10-18T01:28:06'
+  crc: '0xb85bd0f0'
+- name: TIMETREK.003
+  size: 727383
+  date: '1993-10-18T01:31:26'
+  crc: '0x3aa852ba'
+- name: TIMETREK.004
+  size: 292372
+  date: '1993-10-18T01:34:58'
+  crc: '0xb2d3dcda'

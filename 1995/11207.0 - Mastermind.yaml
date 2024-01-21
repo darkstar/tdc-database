@@ -1,0 +1,28 @@
+filename: Mastermind (Sv) (1995)(Andreas Mattsson) [Strategy].zip
+tdc_id: '11207.0'
+title:
+  screen: Mastermind
+publisher: Andreas Mattsson
+year: '1995'
+genre: Strategy
+language: Swedish
+date:
+  added: '2019-03-02T08:57:10'
+  last_modified: '2019-03-02T08:57:10'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 26
+  date: '2018-12-30T15:56:58'
+  crc: '0xb40ac373'
+- name: MASTER.BAS
+  size: 5268
+  date: '1995-08-05T20:37:02'
+  crc: '0x060dbb5d'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

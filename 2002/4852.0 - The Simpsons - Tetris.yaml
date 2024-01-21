@@ -1,0 +1,33 @@
+filename: Simpsons, The - Tetris (2002)(P. Johansson) [Action, Strategy].zip
+tdc_id: '4852.0'
+title:
+  screen: The Simpsons - Tetris
+publisher: P. Johansson
+year: '2002'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-02T10:56:12'
+  last_modified: '2019-03-02T10:56:12'
+type: zip
+commands:
+  play: simptet.exe
+files:
+- name: simptet.exe
+  size: 59101
+  date: '1996-12-24T23:32:00'
+  crc: '0xef1e3ee3'
+- name: sprite.rix
+  size: 64778
+  date: '1996-12-24T23:32:00'
+  crc: '0x9f4b49bb'
+- name: sprite2.rix
+  size: 64778
+  date: '1996-12-24T23:32:00'
+  crc: '0x2d793f94'
+- name: sprite3.rix
+  size: 64778
+  date: '1996-12-24T23:32:00'
+  crc: '0x3b6306ed'

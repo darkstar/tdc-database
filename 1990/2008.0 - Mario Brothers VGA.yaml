@@ -1,0 +1,29 @@
+filename: Mario Brothers VGA [SW] (1990)(Dave Sharpless) [Action].zip
+tdc_id: '2008.0'
+title:
+  screen: Mario Brothers VGA
+publisher: Dave Sharpless
+year: '1990'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:33:12'
+  last_modified: '2019-03-01T18:33:12'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: MARIO.EXE
+references:
+  dosid: DOS03348
+  exodos: Mario Brothers VGA (1990).zip
+files:
+- name: MARIO.DOC
+  size: 2728
+  date: '1990-11-26T19:32:42'
+  crc: '0xe67e27cb'
+- name: MARIO.EXE
+  size: 46440
+  date: '1990-11-26T19:34:26'
+  crc: '0xede8bf33'

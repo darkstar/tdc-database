@@ -1,0 +1,33 @@
+filename: 3D-TicTacToe (1995)(Black Hole Entertainment) [Strategy].zip
+tdc_id: '1360.0'
+parent_id: '1360.1'
+title:
+  screen: 3D-TicTacToe
+publisher: Black Hole Entertainment
+year: '1995'
+genre: Strategy
+language: English
+date:
+  added: '2022-10-30T12:55:23'
+  last_modified: '2022-10-30T12:55:23'
+type: zip
+commands:
+  play: 3DTTT.EXE
+  setup: SETUP.EXE
+files:
+- name: 3DTTT.CFG
+  size: 37
+  date: '2022-09-16T17:47:38'
+  crc: '0x4e3a56ca'
+- name: 3DTTT.DAT
+  size: 439412
+  date: '2022-09-16T17:47:38'
+  crc: '0xa9a9cd76'
+- name: 3DTTT.EXE
+  size: 49408
+  date: '2022-09-16T17:47:38'
+  crc: '0x0a17d52f'
+- name: SETUP.EXE
+  size: 13152
+  date: '2022-09-16T17:47:38'
+  crc: '0x1b210692'

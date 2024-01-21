@@ -1,0 +1,36 @@
+filename: Circus Games (CGA) [f1] (1989)(Tynesoft Computer Software) [Action].zip
+tdc_id: '9145.1'
+title:
+  box: Circus Games
+  qualifier: CGA
+publisher: Tynesoft Computer Software
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:27:26'
+  last_modified: '2019-03-01T18:27:26'
+type: zip
+tags:
+- Fixed: 1
+files:
+- name: CIRCUS.EXE
+  size: 54815
+  date: '1989-03-31T23:36:22'
+  crc: '0x5fa0712d'
+- name: DATA.DAT
+  size: 252475
+  date: '1989-03-31T06:36:18'
+  crc: '0xf2f49f02'
+- name: GAME.BAT
+  size: 69
+  date: '1989-03-17T01:32:30'
+  crc: '0x5ad9b368'
+- name: KEYPUNCH.CGA
+  size: 16384
+  date: '1980-01-08T06:26:08'
+  crc: '0x6ea50120'
+- name: LOADER.EXE
+  size: 1621
+  date: '1989-03-31T23:28:14'
+  crc: '0xa81c8ee0'

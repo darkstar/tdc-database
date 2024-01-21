@@ -1,0 +1,28 @@
+filename: H-Tron v2016.12.26 (2016)(RobertK) [Action].zip
+tdc_id: '11399.1'
+title:
+  screen: H-Tron
+publisher: RobertK
+year: '2016'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:58:10'
+  last_modified: '2019-03-02T10:58:10'
+version: 2016.12.26
+type: zip
+commands:
+  play: HTRON.EXE
+files:
+- name: HERC.BGI
+  size: 6125
+  date: '2016-12-24T11:36:32'
+  crc: '0xc1f40043'
+- name: HTRON.C
+  size: 12431
+  date: '2016-12-26T11:00:40'
+  crc: '0x60f63f3b'
+- name: HTRON.EXE
+  size: 48772
+  date: '2016-12-26T11:00:42'
+  crc: '0x7fa0e338'

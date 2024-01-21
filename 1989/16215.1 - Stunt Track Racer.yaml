@@ -1,0 +1,42 @@
+filename: Stunt Track Racer (1989)(MicroProse Software, Inc.) [Action, Racing - Driving].zip
+tdc_id: '16215.1'
+title:
+  box: Stunt Track Racer
+publisher: MicroProse Software, Inc.
+year: '1989'
+genre:
+- Action
+- Racing - Driving
+language: English
+date:
+  added: '2022-02-15T09:48:50'
+  last_modified: '2022-02-15T09:48:50'
+type: zip
+references:
+  dosid: DOS04917
+  exodos: Stunt Track Racer (1989).zip
+files:
+- name: LOADCGA.COM
+  size: 2573
+  date: '1990-01-23T19:35:24'
+  crc: '0xcf989878'
+- name: LOADEGA.COM
+  size: 2573
+  date: '1990-01-23T17:38:12'
+  crc: '0x35f2106b'
+- name: LOADTDY.COM
+  size: 2573
+  date: '1990-01-23T19:38:04'
+  crc: '0xc4394c82'
+- name: STUNT.CGA
+  size: 148582
+  date: '1989-11-22T00:00:00'
+  crc: '0xf4805a41'
+- name: STUNT.EGA
+  size: 265386
+  date: '1989-11-22T00:00:00'
+  crc: '0x6fa61c70'
+- name: STUNT.TAN
+  size: 187878
+  date: '1989-11-22T00:00:00'
+  crc: '0x0fe9dbaa'

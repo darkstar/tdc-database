@@ -1,0 +1,27 @@
+filename: Surround (1984)(Grant M. Bright) [Action].zip
+tdc_id: '1154.0'
+title:
+  screen: Surround
+publisher: Grant M. Bright
+year: '1984'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:18'
+  last_modified: '2019-03-01T18:24:18'
+type: zip
+commands:
+  play: SURROUND.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: SURROUND.BAS
+  size: 4864
+  date: '1984-10-28T09:06:00'
+  crc: '0x0c833ffb'
+- name: SURROUND.BAT
+  size: 19
+  date: '2014-12-18T18:00:48'
+  crc: '0x9f91cd3e'

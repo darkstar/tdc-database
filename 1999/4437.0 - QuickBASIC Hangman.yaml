@@ -1,0 +1,31 @@
+filename: QuickBASIC Hangman (1999)(Lim Chang Meng, Bernt Figaro) [Strategy, Puzzle, Educational].zip
+tdc_id: '4437.0'
+title:
+  screen: QuickBASIC Hangman
+publisher: Lim Chang Meng, Bernt Figaro
+year: '1999'
+genre:
+- Strategy
+- Puzzle
+- Educational
+language: English
+date:
+  added: '2019-03-02T10:46:22'
+  last_modified: '2019-03-02T10:46:22'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 27
+  date: '2018-11-28T18:18:04'
+  crc: '0x13e93504'
+- name: HANGMAN.BAS
+  size: 84494
+  date: '2018-03-10T14:53:00'
+  crc: '0x8ef1d2d0'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

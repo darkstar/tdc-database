@@ -1,0 +1,27 @@
+filename: Tie Fighter (1997)(Srdjan Dakic) [Action].zip
+tdc_id: '4106.0'
+title:
+  screen: Tie Fighter
+publisher: Srdjan Dakic
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:38:34'
+  last_modified: '2019-03-02T10:38:34'
+type: zip
+commands:
+  play: TIE.COM
+files:
+- name: TIE.ASM
+  size: 9634
+  date: '1998-12-11T14:12:40'
+  crc: '0xc92bbbd3'
+- name: TIE.COM
+  size: 256
+  date: '1997-05-20T12:39:22'
+  crc: '0x83c69bf0'
+- name: TIE.TXT
+  size: 2830
+  date: '1998-12-11T14:15:56'
+  crc: '0xc30da9a1'

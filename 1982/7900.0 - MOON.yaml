@@ -1,0 +1,31 @@
+filename: MOON v1-28-82.5 (1982)(Mike Stafford) [Adventure, Interactive Fiction].zip
+tdc_id: '7900.0'
+title:
+  screen: MOON
+publisher: Mike Stafford
+year: '1982'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2020-01-19T18:18:46'
+  last_modified: '2020-01-19T18:18:46'
+version: 1-28-82.5
+type: zip
+media: Download
+commands:
+  play: START.BAT
+files:
+- name: GWBASIC.EXE
+  size: 80608
+  date: '2020-01-19T17:18:08'
+  crc: '0x2a44af39'
+- name: MOON.BAS
+  size: 23428
+  date: '2019-04-24T19:25:22'
+  crc: '0x72912c08'
+- name: START.BAT
+  size: 18
+  date: '2020-01-19T17:18:24'
+  crc: '0x8d472be4'

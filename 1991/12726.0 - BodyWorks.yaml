@@ -1,0 +1,51 @@
+filename: BodyWorks v2.0 (1991)(Software Marketing Corporation) [Educational, Simulation].zip
+tdc_id: '12726.0'
+parent_id: '12726.1'
+title:
+  box: BodyWorks
+publisher: Software Marketing Corporation
+year: '1991'
+genre:
+- Educational
+- Simulation
+language: English
+date:
+  added: '2019-03-01T18:35:04'
+  last_modified: '2019-03-01T18:35:04'
+version: '2.0'
+type: zip
+commands:
+  play: BWORKS.EXE
+files:
+- name: BWORKS.CFG
+  size: 891
+  date: '2013-12-28T13:04:34'
+  crc: '0x671651c2'
+- name: BWORKS.E2L
+  size: 68910
+  date: '2013-12-28T13:04:42'
+  crc: '0x701dfa5e'
+- name: BWORKS.E9M
+  size: 69118
+  date: '2013-12-28T13:04:40'
+  crc: '0xa8240dd4'
+- name: BWORKS.EXE
+  size: 134622
+  date: '2013-12-28T13:04:36'
+  crc: '0xcccc1d63'
+- name: BWORKS.LJ
+  size: 72780
+  date: '2013-12-28T13:04:40'
+  crc: '0x672487be'
+- name: BWORKS.OBK
+  size: 1890521
+  date: '2013-12-28T13:05:04'
+  crc: '0x986028ff'
+- name: BWORKS.OUI
+  size: 132577
+  date: '2013-12-28T13:04:40'
+  crc: '0xe6e8635b'
+- name: BWORKS.VM
+  size: 364
+  date: '2013-12-28T13:04:42'
+  crc: '0xd106fd11'

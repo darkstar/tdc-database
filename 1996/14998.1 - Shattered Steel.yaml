@@ -1,0 +1,34 @@
+filename: Shattered Steel (demo) (Installer) (1996)(Interplay Productions, Inc.) [Action].zip
+tdc_id: '14998.1'
+title:
+  screen: Shattered Steel
+  qualifier: demo
+publisher: Interplay Productions, Inc.
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2020-07-01T14:31:30'
+  last_modified: '2020-07-01T14:31:30'
+type: zip
+installer: true
+demo: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.DAT
+  size: 228
+  date: '1996-06-04T13:10:18'
+  crc: '0x7dc0ec41'
+- name: INSTALL.EXE
+  size: 79508
+  date: '1996-06-04T15:22:34'
+  crc: '0x1a44bd6c'
+- name: README.TXT
+  size: 14725
+  date: '1996-06-27T10:34:12'
+  crc: '0x1e26b10f'
+- name: SSTEEL.INS
+  size: 11195540
+  date: '1996-06-19T12:54:50'
+  crc: '0x1e799bc0'

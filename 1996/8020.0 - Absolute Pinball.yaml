@@ -1,0 +1,91 @@
+filename: Absolute Pinball (demo) (Installer) (1996)(21st Century Entertainment Ltd.) [Action, Simulation].zip
+tdc_id: '8020.0'
+parent_id: '8020.2'
+title:
+  screen: Absolute Pinball
+  qualifier: demo
+publisher: 21st Century Entertainment Ltd.
+year: '1996'
+genre:
+- Action
+- Simulation
+language: English
+date:
+  added: '2022-03-11T09:21:58'
+  last_modified: '2022-03-11T09:21:58'
+type: zip
+installer: true
+demo: true
+files:
+- name: ABS_DEMO.BAT
+  size: 569
+  date: '1996-06-29T20:32:48'
+  crc: '0xb1496705'
+- name: INSTALL.BAT
+  size: 95
+  date: '1996-07-15T15:08:42'
+  crc: '0x978c0746'
+- name: PINBALL\ABSOLUTE.ERR
+  size: 2
+  date: '1996-06-27T13:55:28'
+  crc: '0x14a285ac'
+- name: PINBALL\ABS_DEMO.CFG
+  size: 508
+  date: '1996-06-29T20:42:38'
+  crc: '0x3cc82f03'
+- name: PINBALL\ABS_DEMO.EXE
+  size: 400979
+  date: '1996-10-25T15:34:40'
+  crc: '0xd9f31aed'
+- name: PINBALL\DEMCHUNK.DAT
+  size: 1212002
+  date: '1996-06-27T12:15:54'
+  crc: '0xfd3b04b1'
+- name: PINBALL\DEMO_IN.EXE
+  size: 77414
+  date: '1996-06-07T13:39:26'
+  crc: '0x89d13dfe'
+- name: PINBALL\DESERT.DAT
+  size: 2557456
+  date: '1996-08-01T16:16:40'
+  crc: '0x64746a58'
+- name: PINBALL\DOS4GW.EXE
+  size: 265396
+  date: '1996-06-07T13:39:26'
+  crc: '0x5cc34b0f'
+- name: PINBALL\IF_DEMO.EXE
+  size: 3834
+  date: '1996-07-11T19:45:30'
+  crc: '0xec5f412b'
+- name: PINBALL\KEY_PIC.UDT
+  size: 308080
+  date: '1996-06-10T00:15:36'
+  crc: '0xb02d09bb'
+- name: PINBALL\LOADING.UDT
+  size: 64880
+  date: '1996-06-27T12:14:54'
+  crc: '0x52680714'
+- name: PINBALL\PICS.UDT
+  size: 1232282
+  date: '1996-06-07T13:39:26'
+  crc: '0x026e581d'
+- name: PINBALL\ROOTLIST.DAT
+  size: 32768
+  date: '1996-06-07T13:39:26'
+  crc: '0x06b23f22'
+- name: PINBALL\SETUP_D.EXE
+  size: 131064
+  date: '1996-08-04T23:39:48'
+  crc: '0x8d53608f'
+- name: PINBALL\TRACKS.CDL
+  size: 32
+  date: '1996-07-11T18:14:38'
+  crc: '0x1dd5e587'
+- name: SETUP.BAT
+  size: 298
+  date: '1996-06-30T12:39:10'
+  crc: '0xfa218a97'
+- name: UNINSTAL.BAT
+  size: 407
+  date: '1996-08-02T21:11:12'
+  crc: '0x941dbbf3'

@@ -1,0 +1,28 @@
+filename: 4 Player Pong (2001)(Matthew) [Action].zip
+tdc_id: '4661.0'
+title:
+  screen: 4 Player Pong
+publisher: Matthew
+year: '2001'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:55:10'
+  last_modified: '2019-03-02T10:55:10'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: 4PONG.BAS
+  size: 63390
+  date: '2001-01-27T17:26:38'
+  crc: '0x5a4ad552'
+- name: GO.BAT
+  size: 25
+  date: '2018-12-14T14:15:04'
+  crc: '0x2245fb7e'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

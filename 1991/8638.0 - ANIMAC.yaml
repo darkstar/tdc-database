@@ -1,0 +1,46 @@
+filename: ANIMAC (1991)(Craig Pell) [Action].zip
+tdc_id: '8638.0'
+title:
+  screen: ANIMAC
+publisher: Craig Pell
+year: '1991'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:34:50'
+  last_modified: '2019-03-01T18:34:50'
+type: zip
+commands:
+  play: animac.exe
+references:
+  dosid: DOS07566
+  exodos: ANIMAC (1991).zip
+files:
+- name: aenemsb1.bin
+  size: 43649
+  date: '2012-02-19T12:36:58'
+  crc: '0xc1201178'
+- name: aenemsb2.bin
+  size: 53394
+  date: '2012-02-19T12:36:58'
+  crc: '0x61f4676a'
+- name: aenemsb3.bin
+  size: 5214
+  date: '2012-02-19T12:36:58'
+  crc: '0xde6ac551'
+- name: animac.exe
+  size: 150248
+  date: '2012-02-19T12:36:58'
+  crc: '0xdfe58183'
+- name: aroomsb1.bin
+  size: 64800
+  date: '2012-02-19T12:36:58'
+  crc: '0xda5f94b1'
+- name: aroomsb2.bin
+  size: 64800
+  date: '2012-02-19T12:36:58'
+  crc: '0x63da1c5e'
+- name: aroomsb3.bin
+  size: 5400
+  date: '2012-02-19T12:36:58'
+  crc: '0x7176a727'

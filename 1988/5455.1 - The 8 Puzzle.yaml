@@ -1,0 +1,28 @@
+filename: 8 Puzzle, The v9 (1988)(Norman Newman, Kibbutz Mishmar David) [Strategy].zip
+tdc_id: '5455.1'
+title:
+  screen: The 8 Puzzle
+publisher: Norman Newman, Kibbutz Mishmar David
+year: '1988'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:25:52'
+  last_modified: '2019-03-01T18:25:52'
+version: '9'
+type: zip
+commands:
+  play: 8PUZZLE.EXE
+files:
+- name: 8PUZZLE.EXE
+  size: 13136
+  date: '1988-10-25T21:10:20'
+  crc: '0x8f38405d'
+- name: 8PUZZLE.PAS
+  size: 14337
+  date: '1988-10-25T21:01:06'
+  crc: '0x9d67eaa8'
+- name: READ.ME
+  size: 459
+  date: '1988-12-22T17:52:40'
+  crc: '0xbcdf1eb0'

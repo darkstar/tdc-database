@@ -1,0 +1,55 @@
+filename: Team Suzuki (1991)(Gremlin Graphics Software Ltd.) [Action, Simulation, Sports].zip
+tdc_id: '16474.0'
+title:
+  box: Team Suzuki
+publisher: Gremlin Graphics Software Ltd.
+year: '1991'
+genre:
+- Action
+- Simulation
+- Sports
+language: English
+date:
+  added: '2019-03-01T18:39:40'
+  last_modified: '2019-03-01T18:39:40'
+type: zip
+references:
+  dosid: DOS05035
+  exodos: Team Suzuki (1991).zip
+files:
+- name: CONFIG.EXE
+  size: 1425
+  date: '1991-09-19T11:33:28'
+  crc: '0xa372d19c'
+- name: GFX.000
+  size: 112710
+  date: '1991-09-19T11:33:28'
+  crc: '0x528ab395'
+- name: GFX.DIR
+  size: 2176
+  date: '1991-09-19T11:33:28'
+  crc: '0x050fdb1a'
+- name: MUSIC.000
+  size: 27362
+  date: '1991-09-19T11:33:28'
+  crc: '0xc74c8e1c'
+- name: MUSIC.DIR
+  size: 640
+  date: '1991-09-19T11:33:28'
+  crc: '0x7f8ee4fe'
+- name: SUZUKI.EXE
+  size: 121184
+  date: '1991-10-24T21:22:50'
+  crc: '0xec1f079a'
+- name: SUZUKI.ID
+  size: 1
+  date: '1991-09-19T11:33:28'
+  crc: '0xd202ef8d'
+- name: TRACKS1.TRK
+  size: 8192
+  date: '1991-09-19T11:33:28'
+  crc: '0x3cd27b1d'
+- name: TRACKS2.TRK
+  size: 8192
+  date: '1991-09-19T11:33:28'
+  crc: '0x541399ba'

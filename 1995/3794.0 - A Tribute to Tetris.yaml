@@ -1,0 +1,40 @@
+filename: Tribute to Tetris, A (1995)(Matthew D. Versluys) [Action, Strategy].zip
+tdc_id: '3794.0'
+title:
+  screen: A Tribute to Tetris
+publisher: Matthew D. Versluys
+year: '1995'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-02T09:07:08'
+  last_modified: '2019-03-02T09:07:08'
+type: zip
+commands:
+  play: TETRIS.EXE
+references:
+  dosid: DOS15801
+  exodos: Tribute to Tetris (1986).zip
+files:
+- name: SOUND.DAT
+  size: 388563
+  date: '1995-09-29T11:36:12'
+  crc: '0x1981e0c5'
+- name: SOURCE.ZIP
+  size: 43388
+  date: '1995-09-30T11:21:02'
+  crc: '0xa45e1b52'
+- name: TETRIS.DAT
+  size: 765125
+  date: '1995-09-30T11:17:26'
+  crc: '0x3e79e2d6'
+- name: TETRIS.DOC
+  size: 11221
+  date: '1995-09-30T11:01:34'
+  crc: '0xd93fd44a'
+- name: TETRIS.EXE
+  size: 90325
+  date: '1995-09-30T11:16:10'
+  crc: '0x9b31d5d1'

@@ -1,0 +1,97 @@
+filename: A+ Computer Parenting (Installer) (1992)(American Education Corp) [Educational][!].zip
+tdc_id: '7647.0'
+title:
+  box: A+ Computer Parenting
+publisher: American Education Corp
+year: '1992'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T18:40:46'
+  last_modified: '2019-03-01T18:40:46'
+type: zip
+tags:
+- KnownGood
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: ADCP-1F1
+  size: 0
+  date: '1992-10-28T18:07:52'
+- name: APSERIES.DAT
+  size: 24
+  date: '1992-09-05T10:18:52'
+  crc: '0x562c11cb'
+- name: INSTALL.EXE
+  size: 69428
+  date: '1992-07-25T11:10:20'
+  crc: '0x0efc5578'
+- name: INSTALL.OLB
+  size: 13816
+  date: '1992-10-12T20:09:36'
+  crc: '0xe75484e8'
+- name: SIZE.KAY
+  size: 6
+  date: '1992-10-04T03:32:54'
+  crc: '0xa5ae927e'
+- name: ~0CPL.LZH
+  size: 8586
+  date: '1992-10-28T18:06:34'
+  crc: '0x807eeaab'
+- name: ~0CPM.LZH
+  size: 472
+  date: '1992-10-28T18:06:42'
+  crc: '0x82e6c53b'
+- name: ~0CPP.LZH
+  size: 894
+  date: '1992-10-28T18:06:42'
+  crc: '0x5a736336'
+- name: ~0CPT.LZH
+  size: 31853
+  date: '1992-10-28T18:06:40'
+  crc: '0xa83aea83'
+- name: ~0P.LZH
+  size: 92060
+  date: '1992-10-28T18:05:42'
+  crc: '0x30dfe571'
+- name: ~1APDP.LZH
+  size: 77809
+  date: '1992-10-28T18:06:26'
+  crc: '0xa86e3dd8'
+- name: ~1CP1.LZH
+  size: 25763
+  date: '1992-10-28T18:07:00'
+  crc: '0xd3200f54'
+- name: ~1CP2.LZH
+  size: 346
+  date: '1992-10-28T18:07:00'
+  crc: '0x3aa73797'
+- name: ~1CP3.LZH
+  size: 42204
+  date: '1992-10-28T18:07:10'
+  crc: '0x07b2dde4'
+- name: ~1CP4.LZH
+  size: 55823
+  date: '1992-10-28T18:07:20'
+  crc: '0x45974a4f'
+- name: ~1CPC.LZH
+  size: 43483
+  date: '1992-10-28T18:06:52'
+  crc: '0xb0a05217'
+- name: ~2APDP.LZH
+  size: 31975
+  date: '1992-10-28T18:06:32'
+  crc: '0xa0a30ba0'
+- name: ~2CP1.LZH
+  size: 7638
+  date: '1992-10-28T18:07:42'
+  crc: '0x8e92b00f'
+- name: ~2CP2.LZH
+  size: 53263
+  date: '1992-10-28T18:07:40'
+  crc: '0xb5abba20'
+- name: ~2CPC.LZH
+  size: 18533
+  date: '1992-10-28T18:07:26'
+  crc: '0x6421550a'

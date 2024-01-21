@@ -1,0 +1,32 @@
+filename: Wissoll Circus Trophy (Installer) (De) (1997)(Alchemy Publishing Ltd.) [Action].zip
+tdc_id: '7580.1'
+title:
+  box: Wissoll Circus Trophy
+publisher: Alchemy Publishing Ltd.
+year: '1997'
+genre: Action
+language: German
+date:
+  added: '2019-03-02T10:40:24'
+  last_modified: '2019-03-02T10:40:24'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: CIRCUS.PAK
+  size: 1260178
+  date: '1995-08-25T10:59:50'
+  crc: '0x638d129b'
+- name: FREEWARE.TXT
+  size: 1251
+  date: '1995-03-24T13:00:00'
+  crc: '0xff210afa'
+- name: INSTALL.CFG
+  size: 711
+  date: '1995-03-24T13:00:00'
+  crc: '0x9d32add4'
+- name: INSTALL.EXE
+  size: 27781
+  date: '1995-03-24T13:00:00'
+  crc: '0x4f31f767'

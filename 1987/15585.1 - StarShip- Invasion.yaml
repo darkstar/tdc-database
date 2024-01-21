@@ -1,0 +1,42 @@
+filename: StarShip- Invasion v2.1 [SW] (1987)(Thinking Machine Associates) [Simulation].zip
+tdc_id: '15585.1'
+title:
+  screen: 'StarShip: Invasion'
+publisher: Thinking Machine Associates
+year: '1987'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:25:40'
+  last_modified: '2019-03-01T18:25:40'
+version: '2.1'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: STARSHIP.COM
+references:
+  dosid: DOS04824
+  exodos: Starship Invasion (1984).zip
+files:
+- name: READ21
+  size: 9043
+  date: '1987-03-11T16:03:36'
+  crc: '0x91fea5c3'
+- name: STARSHIP.000
+  size: 19968
+  date: '1987-03-22T00:44:20'
+  crc: '0x09d54d31'
+- name: STARSHIP.COM
+  size: 44487
+  date: '1987-03-22T00:44:22'
+  crc: '0x04461ef5'
+- name: STARSHIP.DAT
+  size: 616
+  date: '1987-03-11T15:52:08'
+  crc: '0x388c48f4'
+- name: STARSHIP.DOC
+  size: 29608
+  date: '1987-03-11T16:04:32'
+  crc: '0x9690348c'

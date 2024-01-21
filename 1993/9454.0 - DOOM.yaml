@@ -1,0 +1,46 @@
+filename: DOOM (Installer) [SW] (1993)(id Software, Inc.) [Action].zip
+tdc_id: '9454.0'
+parent_id: '9454.23'
+title:
+  screen: DOOM
+publisher: id Software, Inc.
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T19:02:26'
+  last_modified: '2019-03-01T19:02:26'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+files:
+- name: DEICE.EXE
+  size: 17303
+  date: '1993-02-04T15:33:24'
+  crc: '0xaad4552c'
+- name: DOOM1_0.1
+  size: 708608
+  date: '1993-12-10T09:45:32'
+  crc: '0xfb7a6a9b'
+- name: DOOM1_0.2
+  size: 730112
+  date: '1993-12-10T09:46:36'
+  crc: '0x90890b90'
+- name: DOOM1_0.3
+  size: 709174
+  date: '1993-12-10T09:48:10'
+  crc: '0x2da12eb9'
+- name: DOOM1_0.DAT
+  size: 181
+  date: '1993-12-10T09:44:42'
+  crc: '0x8618f7a4'
+- name: INSTALL.BAT
+  size: 91
+  date: '1993-12-10T09:57:26'
+  crc: '0xfc571f9b'
+- name: SYSOP.DOC
+  size: 1011
+  date: '1993-12-10T01:00:00'
+  crc: '0x83eebb57'

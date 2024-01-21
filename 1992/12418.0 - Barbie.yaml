@@ -1,0 +1,26 @@
+filename: Barbie (1992)(Hi-Tech Expressions, Inc.) [Action].zip
+tdc_id: '12418.0'
+title:
+  box: Barbie
+publisher: Hi-Tech Expressions, Inc.
+year: '1992'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:41:20'
+  last_modified: '2019-03-01T18:41:20'
+type: zip
+commands:
+  play: GAME.EXE
+references:
+  dosid: DOS00941
+  exodos: Barbie (1992).zip
+files:
+- name: GAME.EXE
+  size: 50808
+  date: '1992-07-02T18:48:42'
+  crc: '0x494fa456'
+- name: GAME.GAM
+  size: 204353
+  date: '1992-07-02T22:20:18'
+  crc: '0xd321c80c'

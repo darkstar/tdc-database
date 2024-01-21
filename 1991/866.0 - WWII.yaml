@@ -1,0 +1,39 @@
+filename: WWII v5.5 [SW] (1991)(Iron Rainbow Software) [Simulation].zip
+tdc_id: '866.0'
+title:
+  screen: WWII
+publisher: Iron Rainbow Software
+year: '1991'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:40:06'
+  last_modified: '2019-03-01T18:40:06'
+version: '5.5'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: WWII.EXE
+files:
+- name: IWO.PIC
+  size: 17280
+  date: '1991-02-02T23:59:04'
+  crc: '0xbfc979b6'
+- name: NOR.PIC
+  size: 17280
+  date: '1991-02-02T23:59:04'
+  crc: '0x0145b401'
+- name: SIC.PIC
+  size: 17280
+  date: '1991-02-02T23:59:04'
+  crc: '0x46b93bc8'
+- name: WWII.DOC
+  size: 87936
+  date: '1991-03-31T08:21:12'
+  crc: '0xca0539b6'
+- name: WWII.EXE
+  size: 56380
+  date: '1991-02-28T23:59:04'
+  crc: '0x9677b812'

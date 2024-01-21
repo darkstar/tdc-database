@@ -1,0 +1,28 @@
+filename: Nothing but Net! - Expansion module (Installer) (1994)(Strategic Gaming) [Simulation, Strategy, Sports, Addon].zip
+tdc_id: '14515.0'
+title:
+  screen: Nothing but Net! - Expansion module
+publisher: Strategic Gaming
+year: '1994'
+genre:
+- Simulation
+- Strategy
+- Sports
+- Addon
+language: English
+date:
+  added: '2020-11-20T11:28:36'
+  last_modified: '2020-11-20T11:28:36'
+type: zip
+installer: true
+commands:
+  play: XINSTALL.EXE
+files:
+- name: NBNEX.001
+  size: 1270262
+  date: '1994-12-01T13:57:40'
+  crc: '0xdeeca00f'
+- name: XINSTALL.EXE
+  size: 142891
+  date: '1994-03-16T12:41:30'
+  crc: '0x4daab586'

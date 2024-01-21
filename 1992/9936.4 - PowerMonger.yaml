@@ -1,0 +1,82 @@
+filename: PowerMonger (Installer) (1992)(Electronic Arts, Inc.) [Strategy][!].zip
+tdc_id: '9936.4'
+title:
+  box: PowerMonger
+publisher: Electronic Arts, Inc.
+year: '1992'
+genre: Strategy
+language: English
+date:
+  added: '2021-02-18T12:31:04'
+  last_modified: '2021-02-18T12:31:04'
+type: zip
+tags:
+- KnownGood
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: 256.HUF
+  size: 198233
+  date: '1992-05-07T10:09:12'
+  crc: '0x599d2ebe'
+- name: COL0.HUF
+  size: 157030
+  date: '1992-05-12T12:14:46'
+  crc: '0x8805a151'
+- name: COL1.HUF
+  size: 167582
+  date: '1992-05-12T12:15:34'
+  crc: '0xef919464'
+- name: COL2.HUF
+  size: 183680
+  date: '1992-05-12T12:16:18'
+  crc: '0xa9ddefd4'
+- name: COL3.HUF
+  size: 203749
+  date: '1992-05-12T12:16:58'
+  crc: '0x8f7dcae6'
+- name: EGA.HUF
+  size: 171218
+  date: '1992-05-14T16:21:54'
+  crc: '0xedf6b936'
+- name: FX.HUF
+  size: 74996
+  date: '1992-05-13T16:36:14'
+  crc: '0x25e274ba'
+- name: GAME.HUF
+  size: 128490
+  date: '1992-05-13T16:41:08'
+  crc: '0x20d7ef27'
+- name: INSTALL.EXE
+  size: 13256
+  date: '1992-05-18T14:46:18'
+  crc: '0xa32fe722'
+- name: INT1EGA.HUF
+  size: 188595
+  date: '1992-05-07T10:34:44'
+  crc: '0x5cb02f1e'
+- name: INT1EXE.HUF
+  size: 30764
+  date: '1992-05-12T15:25:24'
+  crc: '0x4a0dfd14'
+- name: INT1SND.HUF
+  size: 23126
+  date: '1992-05-07T10:35:28'
+  crc: '0x55fe2a08'
+- name: INT1VGA.HUF
+  size: 227785
+  date: '1992-05-07T10:33:54'
+  crc: '0x2bfdbf09'
+- name: INTRO2.HUF
+  size: 32330
+  date: '1992-05-12T11:43:26'
+  crc: '0xe7389619'
+- name: SPRITES.HUF
+  size: 23311
+  date: '1992-05-14T12:06:16'
+  crc: '0xe2eefc71'
+- name: VGA.HUF
+  size: 207066
+  date: '1992-05-08T15:16:42'
+  crc: '0x9303ddca'

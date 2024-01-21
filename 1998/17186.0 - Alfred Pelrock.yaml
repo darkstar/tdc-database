@@ -1,0 +1,56 @@
+filename: Alfred Pelrock (Installer) (Es) (1998)(Digital Dreams Multimedia) [Adventure].zip
+tdc_id: '17186.0'
+parent_id: '17186.2'
+title:
+  box: Alfred Pelrock
+publisher: Digital Dreams Multimedia
+year: '1998'
+genre: Adventure
+language: Spanish
+date:
+  added: '2022-12-22T16:47:14'
+  last_modified: '2022-12-22T16:47:14'
+type: zip
+media: CD-ROM
+installer: true
+audio:
+- CD-DA
+commands:
+  play: INSTALAR.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/alfred-pelrock
+files:
+- name: DATA\
+  size: 0
+  date: '1998-09-23T10:04:22'
+- name: DATA\ESCENAX.SCR
+  size: 5778
+  date: '1997-01-31T13:02:52'
+  crc: '0x4dbcc0c8'
+- name: DATA\ESCENAX.SSN
+  size: 39464960
+  date: '1997-01-20T19:21:14'
+  crc: '0x634a719c'
+- name: DATA\ICON_
+  size: 0
+  date: '1998-09-23T10:04:22'
+- name: DATA\INTROSND.DAT
+  size: 4449687
+  date: '1997-01-31T13:37:58'
+  crc: '0x5d61ea83'
+- name: DOS4GW.EXE
+  size: 265420
+  date: '1994-09-01T10:00:00'
+  crc: '0xcb214447'
+- name: INSTALAR.EXE
+  size: 158288
+  date: '1997-01-30T14:10:00'
+  crc: '0x830e55f2'
+- name: INSTALL.INI
+  size: 172
+  date: '1997-01-24T18:27:30'
+  crc: '0x7aacda29'
+- name: PACKET.001
+  size: 9869361
+  date: '1997-02-03T09:44:08'
+  crc: '0x0ea758ef'

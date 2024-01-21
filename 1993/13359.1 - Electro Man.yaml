@@ -1,0 +1,33 @@
+filename: Electro Man [SW] (1993)(Epic MegaGames, Inc., Sofsource, Inc.) [Action].zip
+tdc_id: '13359.1'
+title:
+  screen: Electro Man
+publisher: Epic MegaGames, Inc., Sofsource, Inc.
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T19:02:44'
+  last_modified: '2023-12-16T19:01:33'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: EM.EXE
+  setup: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/752/electroman/
+files:
+- name: EM.EXE
+  size: 906192
+  date: '1993-12-01T01:00:00'
+  crc: '0xc811d81f'
+- name: GO.EXE
+  size: 53650
+  date: '1993-12-24T02:11:00'
+  crc: '0x577c1cba'
+- name: SETUP.EXE
+  size: 12048
+  date: '1993-12-01T01:00:00'
+  crc: '0xfaa65419'

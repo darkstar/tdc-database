@@ -1,0 +1,35 @@
+filename: IBM PC Blackjack (1982)(Bob Vollmer, Patrick Leabo) [Strategy, Cards].zip
+tdc_id: '9653.3'
+title:
+  screen: IBM PC Blackjack
+publisher: Bob Vollmer, Patrick Leabo
+year: '1982'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:22:58'
+  last_modified: '2023-02-02T09:28:52'
+type: zip
+commands:
+  play: CCIIBJ.BAT
+references:
+  mobygames: https://www.mobygames.com/game/blackjack_____
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: CCIIBJ.BAS
+  size: 9472
+  date: '1982-09-01T21:00:00'
+  crc: '0xb9f6317e'
+- name: CCIIBJ.BAT
+  size: 17
+  date: '2014-12-18T17:59:26'
+  crc: '0x7591933d'
+- name: CCIIBJA.BAS
+  size: 12561
+  date: '1982-09-01T22:00:00'
+  crc: '0x1237b46d'

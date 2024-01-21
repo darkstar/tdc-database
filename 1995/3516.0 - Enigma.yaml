@@ -1,0 +1,30 @@
+filename: Enigma (1995)(Andrew Clare) [Strategy, Puzzle].zip
+tdc_id: '3516.0'
+title:
+  screen: Enigma
+publisher: Andrew Clare
+year: '1995'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-03-02T08:43:40'
+  last_modified: '2019-03-02T08:43:40'
+type: zip
+media: Download
+commands:
+  play: start.bat
+files:
+- name: ENIGMA.BAS
+  size: 28793
+  date: '1995-03-22T13:13:34'
+  crc: '0x233f8ae2'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1995-07-11T10:50:00'
+  crc: '0x3152911c'
+- name: start.bat
+  size: 24
+  date: '2014-03-05T11:09:50'
+  crc: '0xc5b8e2a9'

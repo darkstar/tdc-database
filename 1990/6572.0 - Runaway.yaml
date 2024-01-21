@@ -1,0 +1,28 @@
+filename: Runaway (1990)(Natural Software) [Action, Educational].zip
+tdc_id: '6572.0'
+title:
+  screen: Runaway
+publisher: Natural Software
+year: '1990'
+genre:
+- Action
+- Educational
+language: English
+date:
+  added: '2019-03-01T18:33:54'
+  last_modified: '2019-03-01T18:33:54'
+type: zip
+commands:
+  play: RUNAWAY.EXE
+references:
+  dosid: DOS00395
+  exodos: Runaway (1990).zip
+files:
+- name: RUNAWAY.DOC
+  size: 13581
+  date: '1990-03-06T20:24:28'
+  crc: '0xce7197ae'
+- name: RUNAWAY.EXE
+  size: 56627
+  date: '1990-03-05T18:44:44'
+  crc: '0xcaf9f3d4'

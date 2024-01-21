@@ -1,0 +1,66 @@
+filename: Dark Legions (Installer) (1994)(Strategic Simulations, Inc.) [Action, Strategy][!].zip
+tdc_id: '5133.2'
+title:
+  box: Dark Legions
+publisher: Strategic Simulations, Inc.
+year: '1994'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T21:55:46'
+  last_modified: '2019-03-01T21:55:46'
+type: zip
+tags:
+- KnownGood
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: http://www.mobygames.com/game/dos/dark-legions
+files:
+- name: BOOT.NFO
+  size: 209
+  date: '1994-06-28T12:19:42'
+  crc: '0x4c67f3b8'
+- name: DATA.A00
+  size: 1367385
+  date: '1994-06-28T16:29:10'
+  crc: '0xe49d2746'
+- name: DATA.A01
+  size: 1457064
+  date: '1994-06-28T14:12:08'
+  crc: '0x28aa8ec7'
+- name: DATA.A02
+  size: 1456801
+  date: '1994-06-28T14:18:30'
+  crc: '0xf28e5a83'
+- name: DATA.A03
+  size: 1456878
+  date: '1994-06-28T14:25:48'
+  crc: '0xd5a0a7c2'
+- name: DATA.A04
+  size: 1456830
+  date: '1994-06-28T14:31:56'
+  crc: '0x36d24057'
+- name: DATA.A05
+  size: 1456845
+  date: '1994-06-28T14:40:20'
+  crc: '0x0a8b251c'
+- name: DATA.A06
+  size: 1100222
+  date: '1994-06-28T15:17:12'
+  crc: '0x220aa7f3'
+- name: DEARJ.EXE
+  size: 39441
+  date: '1993-03-19T16:18:52'
+  crc: '0x284b68d2'
+- name: INSTALL.EXE
+  size: 48224
+  date: '1994-06-28T11:32:58'
+  crc: '0xb1090ec9'
+- name: INSTALL.NFO
+  size: 508
+  date: '1994-06-28T12:19:40'
+  crc: '0xb8ec39d1'

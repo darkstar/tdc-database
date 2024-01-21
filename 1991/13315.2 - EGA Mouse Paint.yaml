@@ -1,0 +1,31 @@
+filename: EGA Mouse Paint v4.0 [SW] (1991)(Flying Mouse Software) [Educational].zip
+tdc_id: '13315.2'
+title:
+  screen: EGA Mouse Paint
+publisher: Flying Mouse Software
+year: '1991'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T18:35:46'
+  last_modified: '2019-03-01T18:35:46'
+version: '4.0'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: EGAMP40.EXE
+files:
+- name: EGAMP.ICO
+  size: 766
+  date: '1990-07-19T02:11:18'
+  crc: '0x21c87c1c'
+- name: EGAMP40.EXE
+  size: 91933
+  date: '1991-03-23T02:36:20'
+  crc: '0x7b6bf580'
+- name: FMSREAD.1ST
+  size: 14945
+  date: '1991-03-18T03:26:54'
+  crc: '0x68d4cb3f'

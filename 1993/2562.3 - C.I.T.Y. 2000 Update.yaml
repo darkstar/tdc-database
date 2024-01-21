@@ -1,0 +1,104 @@
+filename: C.I.T.Y. 2000 Update (1993)(Aditus Inc.) [Adventure, Educational, Addon].zip
+tdc_id: '2562.3'
+parent_id: '2562.2'
+title:
+  box: C.I.T.Y. 2000 Update
+publisher: Aditus Inc.
+year: '1993'
+genre:
+- Adventure
+- Educational
+- Addon
+language: English
+date:
+  added: '2023-11-03T15:30:03'
+  last_modified: '2023-11-03T15:30:03'
+type: zip
+media: 1.44M
+commands:
+  play: INSTALL.BAT
+references:
+  mobygames: https://www.mobygames.com/game/dos/city-2000
+files:
+- name: AUTOEXEC.BAT
+  size: 796
+  date: '1993-11-26T18:53:30'
+  crc: '0x86d8851a'
+- name: COMMAND.COM
+  size: 49656
+  date: '1991-07-25T05:00:02'
+  crc: '0xbf1c7250'
+- name: CONFIG.SYS
+  size: 234
+  date: '1993-11-25T17:16:26'
+  crc: '0x301b538b'
+- name: INSTALL.BAT
+  size: 1026
+  date: '1993-11-30T14:41:06'
+  crc: '0x5ddb16d5'
+- name: INSTALL\
+  size: 0
+  date: '1993-11-30T17:53:44'
+- name: INSTALL\UNIVESA.EXE
+  size: 44376
+  date: '1993-10-23T13:55:04'
+  crc: '0xa263eac8'
+- name: INSTALL\VDEM.BAT
+  size: 382
+  date: '1993-11-30T07:49:02'
+  crc: '0x864b3b1b'
+- name: INSTALL\VLON.BAT
+  size: 384
+  date: '1993-11-30T07:46:28'
+  crc: '0xa4190b91'
+- name: IO.SYS
+  size: 33536
+  date: '1991-07-25T05:00:06'
+  crc: '0xe8ee2a91'
+- name: MSDOS.SYS
+  size: 37456
+  date: '1991-07-25T05:00:08'
+  crc: '0xa7df38b0'
+- name: README.BAT
+  size: 21
+  date: '1993-12-01T13:21:18'
+  crc: '0xaa387e87'
+- name: TANDY.TXT
+  size: 4218
+  date: '1993-12-01T13:17:16'
+  crc: '0xcc4143ad'
+- name: UPDATE.BAT
+  size: 567
+  date: '1980-01-05T20:20:54'
+  crc: '0xbf01721f'
+- name: UPDATE\
+  size: 0
+  date: '1993-11-30T17:53:00'
+- name: UPDATE\FPHD.EXE
+  size: 74796
+  date: '1993-11-30T20:18:20'
+  crc: '0x604ca734'
+- name: UPDATE\FPINT.EXE
+  size: 115616
+  date: '1980-01-01T04:43:36'
+  crc: '0x35d72a46'
+- name: UPDATE\LONDEM.EXE
+  size: 302992
+  date: '1993-11-24T18:18:04'
+  crc: '0x0498c9b8'
+- name: UPDATE\LONDON.BAT
+  size: 35
+  date: '1993-11-26T18:55:12'
+  crc: '0xa517df68'
+- name: UPDATE\LONEXE.EXE
+  size: 301474
+  date: '1993-11-24T18:17:20'
+  crc: '0xa56b6764'
+- name: UPDATE\LONRUN.BAT
+  size: 131
+  date: '1993-11-25T16:50:16'
+  crc: '0x7f90e99c'
+- name: VESA1D.EXE
+  size: 3234
+  date: '1991-12-03T09:20:56'
+  crc: '0x6f87a3e4'

@@ -1,0 +1,70 @@
+filename: Flight of the Intruder v1.2 (Installer) (1995)(GT Entertainment) [Simulation].zip
+tdc_id: '13659.10'
+parent_id: '13659.9'
+title:
+  box: Flight of the Intruder
+  qualifier: Installer
+publisher: GT Entertainment
+year: '1995'
+genre: Simulation
+language: English
+date:
+  added: '2023-08-29T16:21:40'
+  last_modified: '2023-08-29T16:21:40'
+version: '1.2'
+type: zip
+media: CD-ROM
+installer: true
+references:
+  mobygames: https://www.mobygames.com/game/2637/flight-of-the-intruder/
+files:
+- name: INTRUDER.EXE
+  size: 2928
+  date: '1995-05-01T09:48:58'
+  crc: '0x4364f14d'
+- name: README.EXE
+  size: 364650
+  date: '1995-03-15T15:30:18'
+  crc: '0x90fd66cc'
+- name: README.TXT
+  size: 276
+  date: '1995-05-01T17:35:40'
+  crc: '0x23ee9125'
+- name: SN.EXE
+  size: 418215
+  date: '1995-04-24T16:18:32'
+  crc: '0x8ca33ff7'
+- name: SWT\
+  size: 0
+  date: '1995-04-25T10:21:02'
+- name: SWT\GT161
+  size: 79
+  date: '1995-05-01T16:11:32'
+  crc: '0xa1173ea5'
+- name: SWT\PRODUCT\
+  size: 0
+  date: '1995-04-25T10:21:06'
+- name: SWT\PRODUCT\COPYFILE.SWT
+  size: 825097
+  date: '1995-04-25T10:20:20'
+  crc: '0x7fe6a23a'
+- name: SWT\PRODUCT\DEMOCNTL.SWT
+  size: 350
+  date: '1995-04-25T11:54:10'
+  crc: '0xd3f4eba7'
+- name: SWT\SWRT.CFG
+  size: 16921
+  date: '1995-05-01T19:28:40'
+  crc: '0xa51ad291'
+- name: SWT\SWRT.GRX
+  size: 772799
+  date: '1995-05-01T18:54:12'
+  crc: '0xadfea7a8'
+- name: SWT\SWRT.PRT
+  size: 65622
+  date: '1994-02-28T01:51:00'
+  crc: '0x5cd317e2'
+- name: SWT\SWRT.TXT
+  size: 367891
+  date: '1995-05-01T19:28:40'
+  crc: '0x7c780b22'

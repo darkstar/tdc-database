@@ -1,0 +1,35 @@
+filename: TV-Ball 3D (1999)(xsolution) [Action].zip
+tdc_id: '4475.0'
+title:
+  screen: TV-Ball 3D
+publisher: xsolution
+year: '1999'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:46:34'
+  last_modified: '2019-03-02T10:46:34'
+type: zip
+commands:
+  play: TVBALL.EXE
+files:
+- name: AMDOBJ.OBJ
+  size: 2726
+  date: '1999-12-31T18:00:00'
+  crc: '0x59fe887f'
+- name: DEMO.AMD
+  size: 3895
+  date: '1999-12-31T18:00:00'
+  crc: '0xd9446ce7'
+- name: MENU2.PCX
+  size: 8593
+  date: '1999-12-31T18:00:00'
+  crc: '0xfa563f6d'
+- name: RUBDUCK1.PCM
+  size: 3769
+  date: '1999-12-31T18:00:00'
+  crc: '0x631fe6ab'
+- name: TVBALL.EXE
+  size: 12808
+  date: '1999-12-31T18:00:00'
+  crc: '0xf99ac743'

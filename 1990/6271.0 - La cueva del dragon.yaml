@@ -1,0 +1,58 @@
+filename: La cueva del dragon (Es) (1990)(Ediciones Manali, S.A.) [Action].zip
+tdc_id: '6271.0'
+title:
+  screen: La cueva del dragon
+publisher: Ediciones Manali, S.A.
+year: '1990'
+genre: Action
+language: Spanish
+date:
+  added: '2019-03-01T18:33:02'
+  last_modified: '2019-03-01T18:33:02'
+type: zip
+commands:
+  play: DRAGON.EXE
+references:
+  dosid: DOS15579
+  exodos: Cueva del Dragon, La (1990).zip
+files:
+- name: D0.CMP
+  size: 3705
+  date: '1980-01-01T00:48:28'
+  crc: '0x8f6b52e4'
+- name: D1.CMP
+  size: 4759
+  date: '1980-01-01T00:01:24'
+  crc: '0x989c9668'
+- name: D2.CMP
+  size: 4112
+  date: '1980-01-01T00:03:36'
+  crc: '0x3d9485ed'
+- name: D3.CMP
+  size: 6176
+  date: '1980-01-01T00:04:48'
+  crc: '0xc80f4b83'
+- name: D4.CMP
+  size: 5368
+  date: '1980-01-01T00:06:12'
+  crc: '0x2f125976'
+- name: DRAGON.EXE
+  size: 48205
+  date: '1980-01-01T00:49:46'
+  crc: '0x94e5b970'
+- name: DRAGON1.SPR
+  size: 9293
+  date: '1980-01-01T00:09:20'
+  crc: '0x4f220861'
+- name: DRAGON2.SPR
+  size: 5880
+  date: '1980-01-01T00:53:20'
+  crc: '0x1e17f4c4'
+- name: TECLAINT.BIN
+  size: 98
+  date: '1980-01-01T00:02:44'
+  crc: '0x53a1e02e'
+- name: TROZOS.BIN
+  size: 520
+  date: '1980-01-01T00:20:08'
+  crc: '0x94b9ab54'

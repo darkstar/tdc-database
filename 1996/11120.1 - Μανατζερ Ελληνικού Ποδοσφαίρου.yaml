@@ -1,0 +1,43 @@
+filename: Μανατζερ Ελληνικού Ποδοσφαίρου v2.0 (El) (1996)(Panagiotis Triantafillou) [Sports, Simulation].zip
+tdc_id: '11120.1'
+title:
+  screen: Μανατζερ Ελληνικού Ποδοσφαίρου
+  translation: Manager Ellinikou Podosfairou
+publisher: Panagiotis Triantafillou
+year: '1996'
+genre:
+- Sports
+- Simulation
+language: Greek
+date:
+  added: '2019-03-02T10:13:08'
+  last_modified: '2023-06-25T16:52:55'
+version: '2.0'
+type: zip
+commands:
+  play: MEP2.EXE
+files:
+- name: COLOR.INI
+  size: 520
+  date: '2004-06-26T13:00:26'
+  crc: '0x1405e12e'
+- name: MEP2.DAT
+  size: 57922
+  date: '1997-04-09T08:04:52'
+  crc: '0x16136c46'
+- name: MEP2.EXE
+  size: 219296
+  date: '2003-01-25T08:18:12'
+  crc: '0xf99f7882'
+- name: MEP2.HLP
+  size: 39788
+  date: '1997-04-09T07:40:22'
+  crc: '0x0d896529'
+- name: MEP2.TXT
+  size: 5399
+  date: '1997-04-09T07:42:00'
+  crc: '0x9907999c'
+- name: MONO.INI
+  size: 520
+  date: '2004-06-26T13:08:40'
+  crc: '0x99682ef0'

@@ -1,0 +1,135 @@
+filename: Savage Warriors v0.4 (demo) (Installer) (En)(De)(Fr)(It)(Es) (1995)(Mindscape Inc., Pacific HiTech, Inc.) [Action].zip
+tdc_id: '7481.5'
+title:
+  box: Savage Warriors
+  qualifier: Installer
+publisher: Mindscape Inc., Pacific HiTech, Inc.
+year: '1995'
+genre: Action
+language:
+- English
+- Spanish
+- French
+- Italian
+- German
+date:
+  added: '2023-10-14T17:10:59'
+  last_modified: '2023-10-14T17:10:59'
+version: '0.4'
+type: zip
+media: Download
+installer: true
+demo: true
+commands:
+  play: INSTALL.COM
+references:
+  mobygames: https://www.mobygames.com/game/1971/savage-warriors/
+files:
+- name: ACOMP.EXE
+  size: 18545
+  date: '1995-06-08T17:56:14'
+  crc: '0x2e39df51'
+- name: BIN1
+  size: 35902
+  date: '1995-06-20T15:23:14'
+  crc: '0x97e033b6'
+- name: DCT.EXE
+  size: 11134
+  date: '1995-06-09T14:51:44'
+  crc: '0x05d734b4'
+- name: DOT1
+  size: 315088
+  date: '1995-06-20T15:26:20'
+  crc: '0xd776fba5'
+- name: DRV1
+  size: 52271
+  date: '1995-06-20T15:24:56'
+  crc: '0x23fcd980'
+- name: FAS1
+  size: 62397
+  date: '1995-06-20T15:26:06'
+  crc: '0xd60142e3'
+- name: INS1
+  size: 36274
+  date: '1995-06-20T16:33:14'
+  crc: '0x08564f16'
+- name: INSTALL.COM
+  size: 19827
+  date: '1995-06-20T15:48:10'
+  crc: '0x2767e450'
+- name: INSTALL.DEU
+  size: 1005
+  date: '1995-06-20T10:33:20'
+  crc: '0xdf2d66ae'
+- name: INSTALL.ENG
+  size: 1021
+  date: '1995-06-19T17:36:16'
+  crc: '0x4105ed7e'
+- name: INSTALL.ESP
+  size: 1016
+  date: '1995-06-20T10:33:36'
+  crc: '0xbfe6a242'
+- name: INSTALL.FNT
+  size: 3159
+  date: '1995-05-26T08:51:12'
+  crc: '0x49559cf2'
+- name: INSTALL.FRA
+  size: 1208
+  date: '1995-06-19T17:36:34'
+  crc: '0x1605100d'
+- name: INSTALL.ITA
+  size: 1018
+  date: '1995-06-20T10:34:00'
+  crc: '0x33d43fd7'
+- name: INSTALL.PCX
+  size: 49146
+  date: '1995-05-26T08:51:12'
+  crc: '0x173ea615'
+- name: MDI1
+  size: 16080
+  date: '1995-06-20T15:23:24'
+  crc: '0x90f23dbd'
+- name: MIN1
+  size: 114164
+  date: '1995-06-20T16:21:14'
+  crc: '0x3bb2a12c'
+- name: MPK1
+  size: 2558
+  date: '1995-06-20T15:21:56'
+  crc: '0xc5ee4dd3'
+- name: MSK1
+  size: 2142
+  date: '1995-06-20T15:21:40'
+  crc: '0x0fef3134'
+- name: PCX1
+  size: 958904
+  date: '1995-06-20T15:13:40'
+  crc: '0xfebe4d96'
+- name: PER1
+  size: 16183
+  date: '1995-06-20T15:22:34'
+  crc: '0x538a82d7'
+- name: PIC1
+  size: 40967
+  date: '1995-06-20T15:22:46'
+  crc: '0x166b1df7'
+- name: PRC1
+  size: 11053
+  date: '1995-06-20T15:24:06'
+  crc: '0x804148b5'
+- name: README.BAT
+  size: 34
+  date: '1995-06-20T11:50:50'
+  crc: '0x00f8faa5'
+- name: README.TXT
+  size: 8932
+  date: '1995-06-19T16:55:32'
+  crc: '0xc6ad6f2e'
+- name: SND1
+  size: 468444
+  date: '1995-06-20T15:26:38'
+  crc: '0x52e396e7'
+- name: SPC1
+  size: 16081
+  date: '1995-06-20T15:23:44'
+  crc: '0xb7fa74a2'

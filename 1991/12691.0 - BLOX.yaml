@@ -1,0 +1,38 @@
+filename: BLOX v10.0 (1991)(Gray Cluley) [Action, Strategy].zip
+tdc_id: '12691.0'
+title:
+  screen: BLOX
+publisher: Gray Cluley
+year: '1991'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2012-01-02T22:50:20'
+  last_modified: '2012-01-02T22:50:20'
+version: '10.0'
+type: zip
+media: Download
+commands:
+  play: BLOX.EXE
+references:
+  dosid: DOS01111
+  exodos: Blox (1991).zip
+files:
+- name: BLOX.DOC
+  size: 3413
+  date: '1991-12-21T09:30:00'
+  crc: '0xc90b51ce'
+- name: BLOX.EXE
+  size: 14796
+  date: '1991-12-21T09:30:00'
+  crc: '0xcc6e4654'
+- name: FILE_ID.DIZ
+  size: 189
+  date: '1991-12-21T09:30:00'
+  crc: '0x553ada9f'
+- name: ORDERFRM.TXT
+  size: 2522
+  date: '1991-12-21T09:30:00'
+  crc: '0xaeb58a08'

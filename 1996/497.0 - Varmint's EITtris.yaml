@@ -1,0 +1,60 @@
+filename: Varmint's EITtris (1996)(Eric Jorgensen) [Strategy, Action].zip
+tdc_id: '497.0'
+title:
+  screen: Varmint's EITtris
+publisher: Eric Jorgensen
+year: '1996'
+genre:
+- Strategy
+- Action
+language: English
+date:
+  added: '2019-03-02T10:22:28'
+  last_modified: '2019-03-02T10:22:28'
+type: zip
+commands:
+  play: EITTRIS.EXE
+references:
+  dosid: DOS16145
+  exodos: Varmint's Eittris (1997).zip
+files:
+- name: BEAST-PL.MOD
+  size: 100000
+  date: '1996-09-13T10:32:18'
+  crc: '0xd053e05a'
+- name: CUTDRY.MOD
+  size: 94364
+  date: '1996-09-13T16:37:34'
+  crc: '0xad24c0dd'
+- name: EITTRIS.EXE
+  size: 370608
+  date: '1996-09-13T16:28:44'
+  crc: '0xf81525fd'
+- name: GAME.DAT
+  size: 983189
+  date: '1996-09-13T03:00:58'
+  crc: '0xfbbaca23'
+- name: IVAN.CFG
+  size: 4001
+  date: '1996-12-01T19:13:44'
+  crc: '0x3b11e91a'
+- name: IVAN.FON
+  size: 4098
+  date: '1996-09-13T04:53:50'
+  crc: '0xdb297771'
+- name: PLAYERS.CFG
+  size: 162
+  date: '1996-09-13T12:51:50'
+  crc: '0x09500501'
+- name: RES800.PCX
+  size: 21116
+  date: '1996-09-13T21:19:00'
+  crc: '0x4c04ae6f'
+- name: TITLE.PCX
+  size: 86112
+  date: '1996-09-13T22:47:00'
+  crc: '0x87dea382'
+- name: TROUBLE.TXT
+  size: 2384
+  date: '1996-09-13T23:30:48'
+  crc: '0xba9a1eaf'

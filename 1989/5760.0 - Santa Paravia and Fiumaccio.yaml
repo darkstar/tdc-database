@@ -1,0 +1,132 @@
+filename: Santa Paravia and Fiumaccio (1989)(Keypunch Software, Inc.) [Simulation, Strategy].zip
+tdc_id: '5760.0'
+title:
+  box: Santa Paravia and Fiumaccio
+publisher: Keypunch Software, Inc.
+year: '1989'
+genre:
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:26:44'
+  last_modified: '2022-11-21T11:47:40'
+type: zip
+commands:
+  play: GO.BAT
+references:
+  mobygames: https://www.mobygames.com/game/dos/santa-paravia-and-fiumaccio_
+  dosid: DOS04404
+  exodos: Santa Paravia and Fiumaccio (1988).zip
+files:
+- name: GO.BAT
+  size: 26
+  date: '1988-11-08T00:08:34'
+  crc: '0xbc5db61e'
+- name: KEYTOON.CPR
+  size: 5083
+  date: '1988-11-08T00:05:08'
+  crc: '0xd5cb21e0'
+- name: KEYTOON.EXE
+  size: 26473
+  date: '1988-11-08T00:05:08'
+  crc: '0xd1b3f1b4'
+- name: PAK\
+  size: 0
+  date: '2004-03-26T21:34:52'
+- name: PAK\BUYPIECE.PAK
+  size: 5760
+  date: '1988-11-07T23:59:58'
+  crc: '0xd1ad3d8c'
+- name: PAK\BUYSLLSP.PAK
+  size: 6656
+  date: '1988-11-08T00:00:00'
+  crc: '0x33fe5242'
+- name: PAK\CASTLE.PCE
+  size: 1188
+  date: '1988-11-08T00:00:18'
+  crc: '0x04eaed66'
+- name: PAK\CATHEDRL.PCE
+  size: 1683
+  date: '1988-11-08T00:00:18'
+  crc: '0xe9c6f076'
+- name: PAK\CONPARCH.PAK
+  size: 4480
+  date: '1988-11-08T00:00:14'
+  crc: '0x3e242dbe'
+- name: PAK\CREDIT.PAK
+  size: 5632
+  date: '1988-11-07T23:59:54'
+  crc: '0xce9c8be2'
+- name: PAK\CUSTOM.PAK
+  size: 2944
+  date: '1988-11-08T00:00:14'
+  crc: '0xc018ab1b'
+- name: PAK\GRAIN.PAK
+  size: 6528
+  date: '1988-11-08T00:00:12'
+  crc: '0xd5497431'
+- name: PAK\JUSTICE.PAK
+  size: 2432
+  date: '1988-11-07T23:59:54'
+  crc: '0xf91a7276'
+- name: PAK\LANDOFFC.PAK
+  size: 6272
+  date: '1988-11-08T00:00:04'
+  crc: '0x4ef44008'
+- name: PAK\LOGO.PAK
+  size: 3456
+  date: '1988-11-07T23:59:58'
+  crc: '0x033ed4ce'
+- name: PAK\MAP.PAK
+  size: 6656
+  date: '1988-11-08T00:00:04'
+  crc: '0x255219d4'
+- name: PAK\MARKET.PCE
+  size: 81
+  date: '1988-11-08T00:00:16'
+  crc: '0x3bf34f10'
+- name: PAK\PARCHMNT.PAK
+  size: 3840
+  date: '1988-11-08T00:00:06'
+  crc: '0x4f2eaf1f'
+- name: PAK\PIECES.PAK
+  size: 7296
+  date: '1988-11-08T00:00:08'
+  crc: '0xf9e0b991'
+- name: PAK\REVENUE.PAK
+  size: 8192
+  date: '1988-11-08T00:00:10'
+  crc: '0xf1b7cbc5'
+- name: PAK\RVSPRITE.PAK
+  size: 8064
+  date: '1988-11-08T00:00:02'
+  crc: '0x91431706'
+- name: PAK\SAITAX.PAK
+  size: 4096
+  date: '1988-11-08T00:00:06'
+  crc: '0x118a18bb'
+- name: PAK\SERF.PCE
+  size: 118
+  date: '1988-11-08T00:00:20'
+  crc: '0xdb905883'
+- name: PAK\SOLDIER.PCE
+  size: 68
+  date: '1988-11-08T00:00:16'
+  crc: '0x0e5880c6'
+- name: PAK\SPLARGE.FNT
+  size: 3584
+  date: '1988-11-07T23:59:52'
+  crc: '0x5dbfb01c'
+- name: PAK\SPSMALL.FNT
+  size: 2048
+  date: '1988-11-07T23:59:52'
+  crc: '0x5c9f03fc'
+- name: PAK\TITLE.PAK
+  size: 10112
+  date: '1988-11-07T23:59:56'
+  crc: '0x1696b7e0'
+- name: PARAVIA.EXE
+  size: 63056
+  date: '1988-11-07T23:59:20'
+  crc: '0xb7224642'

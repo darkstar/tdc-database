@@ -1,0 +1,98 @@
+filename: Galactic Conqueror [f1] (1988)(Titus France SA) [Action, Strategy].zip
+tdc_id: '13891.0'
+title:
+  box: Galactic Conqueror
+publisher: Titus France SA
+year: '1988'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:26:12'
+  last_modified: '2019-03-01T18:26:12'
+type: zip
+tags:
+- Fixed: 1
+commands:
+  play: GC.EXE
+references:
+  dosid: DOS02150
+  exodos: Galactic Conqueror (1988).zip
+files:
+- name: CARTE.MCR
+  size: 10858
+  date: '1988-11-21T16:31:38'
+  crc: '0x9be689af'
+- name: EC
+  size: 300
+  date: '1980-01-01T00:02:32'
+  crc: '0xfbb406f1'
+- name: EC2
+  size: 500
+  date: '1980-01-01T00:04:20'
+  crc: '0x3a652171'
+- name: FONT
+  size: 472
+  date: '1987-11-13T12:49:16'
+  crc: '0xc5f262cd'
+- name: GC.EXE
+  size: 57490
+  date: '1989-03-03T16:01:52'
+  crc: '0x5c1606b9'
+- name: GC.EX_
+  size: 57490
+  date: '1989-03-03T16:01:52'
+  crc: '0x00839a9a'
+- name: GRAPH2.MCR
+  size: 16894
+  date: '1988-11-15T15:11:58'
+  crc: '0x72df9ed5'
+- name: GRAPHU.MCR
+  size: 14189
+  date: '1988-11-15T15:10:58'
+  crc: '0xcd470948'
+- name: MASK2.MCR
+  size: 10439
+  date: '1988-11-15T15:11:36'
+  crc: '0x7dda4aae'
+- name: MASKU.MCR
+  size: 12029
+  date: '1988-11-15T15:11:18'
+  crc: '0x07aad7e3'
+- name: MCARTE.MCR
+  size: 8645
+  date: '1988-11-21T16:31:52'
+  crc: '0x771f2543'
+- name: MERE.MCR
+  size: 31142
+  date: '1988-11-22T09:55:22'
+  crc: '0x9d863abe'
+- name: MMERE.MCR
+  size: 30763
+  date: '1988-11-22T09:55:54'
+  crc: '0x2b4cf880'
+- name: MSCORE.MCR
+  size: 4861
+  date: '1988-11-25T12:56:50'
+  crc: '0xad2aede6'
+- name: MUSIC.MCR
+  size: 64633
+  date: '1988-11-23T17:28:58'
+  crc: '0x9034616a'
+- name: MVAIS1.MCR
+  size: 4424
+  date: '1988-11-15T15:14:04'
+  crc: '0x3ace316f'
+- name: SCORE.MCR
+  size: 4861
+  date: '1988-11-25T12:56:32'
+  crc: '0xad2aede6'
+- name: SCREEN.MCR
+  size: 20604
+  date: '1988-12-23T17:06:08'
+  crc: '0x48359b4f'
+- name: VAIS1.MCR
+  size: 5083
+  date: '1988-11-15T15:13:46'
+  crc: '0xfaa9c25d'

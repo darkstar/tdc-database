@@ -1,0 +1,56 @@
+filename: Powerdrome (Installer) (En)(De)(Fr)(It) (1990)(Electronic Arts) [Action, Racing - Driving].zip
+tdc_id: '9931.1'
+title:
+  box: Powerdrome
+publisher: Electronic Arts
+year: '1990'
+genre:
+- Action
+- Racing - Driving
+language:
+- English
+- French
+- Italian
+- German
+date:
+  added: '2019-03-01T18:33:38'
+  last_modified: '2022-11-23T10:16:51'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/powerdrome_
+files:
+- name: BIGBOB.HUF
+  size: 30031
+  date: '1990-03-27T09:05:48'
+  crc: '0xc5eba974'
+- name: INSTALL.EXE
+  size: 21487
+  date: '1990-03-27T09:04:20'
+  crc: '0x0c0b0cce'
+- name: PD.HUF
+  size: 48555
+  date: '1990-03-27T08:38:58'
+  crc: '0xe6124263'
+- name: PDART.HUF
+  size: 38280
+  date: '1990-03-27T08:39:44'
+  crc: '0x0aaa0e19'
+- name: PDBOBS.HUF
+  size: 15357
+  date: '1990-03-27T09:05:08'
+  crc: '0x2888215b'
+- name: PDDATA.HUF
+  size: 37389
+  date: '1990-03-27T08:40:20'
+  crc: '0xbbb1a55e'
+- name: PDINC.EXE
+  size: 90329
+  date: '1990-05-20T09:53:10'
+  crc: '0xb3cc2774'
+- name: READ.ME
+  size: 669
+  date: '1990-05-20T12:15:00'
+  crc: '0x4ba5e1bb'

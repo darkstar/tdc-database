@@ -1,0 +1,139 @@
+filename: Psycho Pinball (demo) v3.1 (1994)(Codemasters Software Company Limited, The) [Action].zip
+tdc_id: '10684.1'
+title:
+  screen: Psycho Pinball
+  qualifier: demo
+publisher: Codemasters Software Company Limited, The
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-01-16T11:04:18'
+  last_modified: '2019-01-16T11:04:18'
+version: '3.1'
+type: zip
+demo: true
+commands:
+  play: PSYCHO.EXE
+files:
+- name: DOS4GW.EXE
+  size: 265420
+  date: '1994-09-01T14:00:00'
+  crc: '0xcb214447'
+- name: FRONT.LBM
+  size: 56510
+  date: '1994-12-13T23:37:38'
+  crc: '0x7596a739'
+- name: GRAPHICS\
+  size: 0
+  date: '2015-08-04T11:27:46'
+- name: GRAPHICS\PANEL\
+  size: 0
+  date: '2015-08-04T11:27:46'
+- name: GRAPHICS\PANEL\PANELS4.BIN
+  size: 351916
+  date: '1994-12-13T20:06:00'
+  crc: '0x99b6fb9f'
+- name: GRAPHICS\PANEL\PANELS4.OFF
+  size: 1600
+  date: '1994-12-13T20:06:00'
+  crc: '0xd4b35567'
+- name: GRAPHICS\PANEL\TEXT4.LBM
+  size: 19570
+  date: '1994-12-05T22:42:16'
+  crc: '0x751347ed'
+- name: GRAPHICS\SPRITES\
+  size: 0
+  date: '2015-08-04T11:27:46'
+- name: GRAPHICS\SPRITES\EXTRA4.BIN
+  size: 6360
+  date: '1994-11-02T23:25:00'
+  crc: '0xd1954750'
+- name: GRAPHICS\SPRITES\INTRO.BIN
+  size: 1326
+  date: '1994-09-07T03:55:24'
+  crc: '0x158e086f'
+- name: GRAPHICS\SPRITES\L_FLIP_4.BIN
+  size: 32940
+  date: '1994-11-02T23:33:14'
+  crc: '0x19d2a5c7'
+- name: GRAPHICS\SPRITES\R_FLIP_4.BIN
+  size: 35394
+  date: '1994-11-02T23:33:16'
+  crc: '0xc9e7db57'
+- name: GRAPHICS\TABLES\
+  size: 0
+  date: '2015-08-04T11:27:46'
+- name: GRAPHICS\TABLES\MASK4.BIN
+  size: 65535
+  date: '1994-11-02T20:04:00'
+  crc: '0x0f39fb95'
+- name: GRAPHICS\TABLES\MASK4A.BIN
+  size: 65535
+  date: '1994-12-13T20:02:14'
+  crc: '0xae13f92b'
+- name: GRAPHICS\TABLES\TABLE4A.LBM
+  size: 29876
+  date: '1994-12-13T19:12:34'
+  crc: '0xf06dec13'
+- name: GRAPHICS\TABLES\TABLE4B.LBM
+  size: 39232
+  date: '1994-12-13T19:12:44'
+  crc: '0x434fb446'
+- name: GRAPHICS\TABLES\TABLE4C.LBM
+  size: 40246
+  date: '1994-12-13T19:12:58'
+  crc: '0xf08a42bd'
+- name: GRAPHICS\TABLES\TABLE4D.LBM
+  size: 41606
+  date: '1994-12-13T19:13:08'
+  crc: '0x905c8959'
+- name: GRAPHICS\TABLES\TABLE4E.LBM
+  size: 5588
+  date: '1994-12-13T19:13:20'
+  crc: '0x3fd597ee'
+- name: HOTSPOTS\
+  size: 0
+  date: '2015-08-04T11:27:46'
+- name: HOTSPOTS\T4BOT.HOT
+  size: 918
+  date: '1994-08-29T00:04:56'
+  crc: '0xe4251e68'
+- name: HOTSPOTS\T4TOP.HOT
+  size: 736
+  date: '1994-09-16T08:29:24'
+  crc: '0x6357f886'
+- name: PSYCHO.EXE
+  size: 237175
+  date: '1994-12-13T23:34:26'
+  crc: '0xbfb38e80'
+- name: README.DOC
+  size: 1009
+  date: '1994-12-13T21:16:54'
+  crc: '0x584caba8'
+- name: SEGMAPS\
+  size: 0
+  date: '2015-08-04T11:27:46'
+- name: SEGMAPS\T4BOT.SEG
+  size: 10482
+  date: '1994-09-13T08:53:34'
+  crc: '0xf133973b'
+- name: SEGMAPS\T4TOP.SEG
+  size: 7179
+  date: '1994-09-13T09:23:02'
+  crc: '0x12f15364'
+- name: SOUND\
+  size: 0
+  date: '2015-08-04T11:27:46'
+- name: SOUND\TRICK.MUS
+  size: 786810
+  date: '1994-12-12T19:22:56'
+  crc: '0x1e4270c1'
+- name: SOUND\TRICK.SFX
+  size: 493494
+  date: '1994-12-13T19:32:10'
+  crc: '0x662a1c4f'
+- name: TABLE4.BIN
+  size: 28970
+  date: '1994-11-14T21:42:22'
+  crc: '0xf661ae43'

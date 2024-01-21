@@ -1,0 +1,24 @@
+filename: EGA Shogi v1.65 (1991)(Ray Gillman) [Strategy].zip
+tdc_id: '633.0'
+title:
+  screen: EGA Shogi
+publisher: Ray Gillman
+year: '1991'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:35:46'
+  last_modified: '2019-03-01T18:35:46'
+version: '1.65'
+type: zip
+commands:
+  play: SHOGI.EXE
+files:
+- name: SHOGI.DOC
+  size: 9420
+  date: '1991-02-09T22:40:30'
+  crc: '0x27d13515'
+- name: SHOGI.EXE
+  size: 93490
+  date: '1991-01-26T19:08:22'
+  crc: '0x6ce956d1'

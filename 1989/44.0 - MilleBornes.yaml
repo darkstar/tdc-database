@@ -1,0 +1,38 @@
+filename: MilleBornes v4.02b (1989)(Richard Tom) [Strategy, Cards].zip
+tdc_id: '44.0'
+title:
+  screen: MilleBornes
+publisher: Richard Tom
+year: '1989'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:28:24'
+  last_modified: '2019-03-01T18:28:24'
+version: 4.02b
+type: zip
+commands:
+  play: MILLEBV4.EXE
+files:
+- name: HOMEBASE.CAN
+  size: 3391
+  date: '1989-10-15T21:26:20'
+  crc: '0x92365654'
+- name: MILLEBV4.EXE
+  size: 215893
+  date: '1989-09-23T20:18:48'
+  crc: '0x81ba5c44'
+- name: MOREINFO.CAN
+  size: 956
+  date: '1989-10-16T04:01:30'
+  crc: '0xd6ee50c5'
+- name: README.DOC
+  size: 2282
+  date: '1989-09-23T20:34:16'
+  crc: '0x4eb3f556'
+- name: REGISTER.PRT
+  size: 3435
+  date: '1989-10-19T02:17:48'
+  crc: '0xd8d91236'

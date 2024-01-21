@@ -1,0 +1,91 @@
+filename: Network Q RAC Rally v1.3b (1996)(Europress Software Ltd.) [Racing - Driving, Sports].zip
+tdc_id: '8440.13'
+title:
+  box: Network Q RAC Rally
+publisher: Europress Software Ltd.
+year: '1996'
+genre:
+- Racing - Driving
+- Sports
+language: English
+date:
+  added: '2022-10-18T09:01:04'
+  last_modified: '2022-10-18T09:01:04'
+version: 1.3b
+type: zip
+commands:
+  play: RALLY.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/network-q-rac-rally
+files:
+- name: INTRO.EXE
+  size: 3590
+  date: '1996-02-27T16:02:34'
+  crc: '0x63a12b4a'
+- name: MENU.EXE
+  size: 30033
+  date: '1995-08-26T22:20:42'
+  crc: '0x5afe3931'
+- name: RAL.EXE
+  size: 44501
+  date: '1995-08-26T22:20:50'
+  crc: '0xa2e26d99'
+- name: RALLY.CFG
+  size: 34
+  date: '1996-02-27T16:09:04'
+  crc: '0xcf32339a'
+- name: RALLY.EXE
+  size: 1288
+  date: '1996-02-27T16:02:30'
+  crc: '0xf1615b0d'
+- name: RALLY.RNC
+  size: 4365434
+  date: '1996-02-27T16:06:50'
+  crc: '0x648fc5aa'
+- name: RAL_INTR.MOD
+  size: 229020
+  date: '1996-02-27T16:02:46'
+  crc: '0xcae95949'
+- name: RAL_MENU.MOD
+  size: 67668
+  date: '1996-02-27T16:02:50'
+  crc: '0x0fe40b36'
+- name: RAL_TROP.MOD
+  size: 137222
+  date: '1996-02-27T16:02:56'
+  crc: '0x49970d4d'
+- name: README.EXE
+  size: 3040
+  date: '1996-02-27T16:02:56'
+  crc: '0x7b608994'
+- name: README.TXT
+  size: 10103
+  date: '1996-02-27T16:02:56'
+  crc: '0xc025c77f'
+- name: SAVE\
+  size: 0
+  date: '1996-02-27T16:03:00'
+- name: SAVE\SAVE1.RAL
+  size: 12674
+  date: '1996-02-27T16:02:56'
+  crc: '0xdc06421a'
+- name: SAVE\SAVE2.RAL
+  size: 12674
+  date: '1996-02-27T16:02:58'
+  crc: '0x8686719b'
+- name: SAVE\SAVE3.RAL
+  size: 12674
+  date: '1996-02-27T16:02:58'
+  crc: '0xaf581790'
+- name: SAVE\SAVE4.RAL
+  size: 12674
+  date: '1996-02-27T16:03:00'
+  crc: '0x1d543523'
+- name: SAVE\SAVE5.RAL
+  size: 12674
+  date: '1996-02-27T16:03:00'
+  crc: '0x8bce9952'
+- name: SOUND.EXE
+  size: 8553
+  date: '1996-02-27T16:02:34'
+  crc: '0xa2e37155'

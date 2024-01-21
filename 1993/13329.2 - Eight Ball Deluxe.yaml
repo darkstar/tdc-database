@@ -1,0 +1,49 @@
+filename: Eight Ball Deluxe (Installer) [h1] (1993)(Amtex Software Corporation) [Action, Simulation].zip
+tdc_id: '13329.2'
+title:
+  box: Eight Ball Deluxe
+  qualifier: Installer
+publisher: Amtex Software Corporation
+year: '1993'
+genre:
+- Action
+- Simulation
+language: English
+date:
+  added: '2019-03-01T19:02:42'
+  last_modified: '2023-07-29T08:23:28'
+type: zip
+tags:
+- Hack: 1
+installer: true
+references:
+  mobygames: https://www.mobygames.com/game/9689/eight-ball-deluxe/
+files:
+- name: 8BALLDLX.EXE
+  size: 195110
+  date: '1993-07-27T13:10:02'
+  crc: '0xe312cd7e'
+- name: 8BLDLXP.PAS
+  size: 53878
+  date: '1993-07-07T14:48:42'
+  crc: '0xf2eae440'
+- name: CLEAN.TXT
+  size: 970
+  date: '1993-07-16T03:40:00'
+  crc: '0xf1bd1a67'
+- name: DISK1.PAS
+  size: 580573
+  date: '1993-07-16T03:57:38'
+  crc: '0xd6f89e06'
+- name: DISK2.PAS
+  size: 1443947
+  date: '1993-07-16T03:58:40'
+  crc: '0x33118191'
+- name: INSTALL.EXE
+  size: 32972
+  date: '1993-07-27T13:18:22'
+  crc: '0x68d36461'
+- name: README.TXT
+  size: 12427
+  date: '1993-07-16T03:56:08'
+  crc: '0x0ff5975a'

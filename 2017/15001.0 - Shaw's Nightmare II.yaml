@@ -1,0 +1,33 @@
+filename: Shaw's Nightmare II v1.2 (Installer) [FW] (2017)(Mickey Productions) [Action].zip
+tdc_id: '15001.0'
+title:
+  screen: Shaw's Nightmare II
+publisher: Mickey Productions
+year: '2017'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:58:12'
+  last_modified: '2019-03-02T10:58:12'
+version: '1.2'
+type: zip
+tags:
+- Freeware
+media: Download
+installer: true
+references:
+  dosid: DOS06653
+  exodos: Shaw's Nightmare II (2016).zip
+files:
+- name: install.bat
+  size: 163
+  date: '2017-01-06T20:09:26'
+  crc: '0x6d0fca7b'
+- name: minst.exe
+  size: 12642
+  date: '2017-01-06T20:09:30'
+  crc: '0x281a4cc5'
+- name: sn2_12.dat
+  size: 2502128
+  date: '2017-01-06T20:17:56'
+  crc: '0x628baddd'

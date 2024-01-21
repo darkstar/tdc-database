@@ -1,0 +1,35 @@
+filename: Solar Winds 1 and 2 (Installer) (1993)(Epic MegaGames, Inc.) [Action, Compilation].zip
+tdc_id: '15252.0'
+title:
+  box: Solar Winds 1 and 2
+publisher: Epic MegaGames, Inc.
+year: '1993'
+genre:
+- Action
+- Compilation
+language: English
+date:
+  added: '2019-03-01T21:08:12'
+  last_modified: '2019-03-01T21:08:12'
+type: zip
+installer: true
+compilation: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 31464
+  date: '1992-08-21T20:34:20'
+  crc: '0x08c1de75'
+- name: INSTALL.FIL
+  size: 3009
+  date: '1993-03-02T01:02:58'
+  crc: '0x232244c4'
+- name: SOLAR1.PAK
+  size: 556867
+  date: '1993-03-02T01:05:32'
+  crc: '0x19b8fa6a'
+- name: SOLAR2.PAK
+  size: 478708
+  date: '1993-03-02T01:08:00'
+  crc: '0x75b3bf90'

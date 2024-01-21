@@ -1,0 +1,38 @@
+filename: Pref v2.33 (1993)(Kulikoff) [Strategy, Cards].zip
+tdc_id: '2777.0'
+title:
+  screen: Pref
+publisher: Kulikoff
+year: '1993'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T19:16:26'
+  last_modified: '2019-03-01T19:16:26'
+version: '2.33'
+type: zip
+commands:
+  play: PREF.EXE
+files:
+- name: PREF.DAT
+  size: 60987
+  date: '1993-02-10T13:53:50'
+  crc: '0x50ad19eb'
+- name: PREF.EXE
+  size: 105120
+  date: '1993-06-17T01:33:18'
+  crc: '0xdfa77348'
+- name: PREF.LIM
+  size: 15
+  date: '1993-06-16T23:37:44'
+  crc: '0x59e12db5'
+- name: PREF.RES
+  size: 215
+  date: '1993-06-17T04:07:08'
+  crc: '0xa550d973'
+- name: PREF.SCR
+  size: 72
+  date: '1993-06-17T04:07:08'
+  crc: '0x708cb207'

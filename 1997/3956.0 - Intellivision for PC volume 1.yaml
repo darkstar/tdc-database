@@ -1,0 +1,32 @@
+filename: Intellivision for PC volume 1 v1.1.1 (1997)(intellivision productions inc.) [Action, Compilation].zip
+tdc_id: '3956.0'
+title:
+  box: Intellivision for PC volume 1
+publisher: intellivision productions inc.
+year: '1997'
+genre:
+- Action
+- Compilation
+language: English
+date:
+  added: '2019-03-02T10:35:00'
+  last_modified: '2019-03-02T10:35:00'
+type: zip
+compilation: true
+files:
+- name: DPMI16BI.OVL
+  size: 65376
+  date: '1993-03-09T07:01:00'
+  crc: '0x04c478a9'
+- name: RTM.EXE
+  size: 108846
+  date: '1993-03-09T07:01:00'
+  crc: '0x2e89f6e4'
+- name: VOL1.EXE
+  size: 173056
+  date: '1997-08-10T10:46:42'
+  crc: '0x2274b2cb'
+- name: VOL1.RES
+  size: 345203
+  date: '1997-08-10T10:22:36'
+  crc: '0xca30e3c4'

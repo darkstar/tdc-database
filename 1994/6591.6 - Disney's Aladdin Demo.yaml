@@ -1,0 +1,37 @@
+filename: Disney's Aladdin Demo (Installer) [a1] (1994)(Virgin Interactive Entertainment, Inc.) [Action].zip
+tdc_id: '6591.6'
+title:
+  screen: Disney's Aladdin Demo
+publisher: Virgin Interactive Entertainment, Inc.
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T21:56:10'
+  last_modified: '2022-11-20T12:29:43'
+type: zip
+tags:
+- Alternate: 1
+installer: true
+demo: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/disneys-aladdin
+files:
+- name: DISK1.DAT
+  size: 1341514
+  date: '1994-11-22T13:33:58'
+  crc: '0xac4cf0b5'
+- name: INSTALL.BAT
+  size: 988
+  date: '1994-11-19T11:56:22'
+  crc: '0xaf861326'
+- name: LHA.EXE
+  size: 35762
+  date: '1993-04-01T02:55:04'
+  crc: '0x36b8e751'
+- name: README
+  size: 1303
+  date: '1994-11-22T13:32:10'
+  crc: '0x8ee16c4c'

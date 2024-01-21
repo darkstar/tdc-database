@@ -1,0 +1,74 @@
+filename: Marioup (Pt) (1999)(Mastersoft) [Action].zip
+tdc_id: '4390.0'
+title:
+  screen: Marioup
+publisher: Mastersoft
+year: '1999'
+genre: Action
+language: Portuguese
+date:
+  added: '2019-03-02T10:46:14'
+  last_modified: '2019-03-02T10:46:14'
+type: zip
+commands:
+  play: MARIO.EXE
+references:
+  dosid: DOS08020
+  exodos: Marioup (1999).zip
+files:
+- name: MARIO.BAS
+  size: 23735
+  date: '1999-07-28T19:42:54'
+  crc: '0x5723b7a1'
+- name: MARIO.BI
+  size: 6596
+  date: '1999-02-21T13:41:12'
+  crc: '0x60ca81b2'
+- name: MARIO.EXE
+  size: 68774
+  date: '1999-07-24T18:23:54'
+  crc: '0x40b0abc2'
+- name: MARIO.GRP
+  size: 64013
+  date: '1998-11-11T21:32:20'
+  crc: '0x2f00d80d'
+- name: MARIO.LIB
+  size: 161223
+  date: '1998-10-07T20:53:24'
+  crc: '0x3ad52c05'
+- name: MARIO.PAL
+  size: 1543
+  date: '1998-11-11T20:29:22'
+  crc: '0x8e2f17bd'
+- name: MARIO.QLB
+  size: 85263
+  date: '1998-10-07T20:53:32'
+  crc: '0x0462f751'
+- name: MARIOBE.PAL
+  size: 1543
+  date: '1998-11-11T21:51:18'
+  crc: '0x99ba66b2'
+- name: MARIODUK.GRP
+  size: 64013
+  date: '1998-11-13T15:54:30'
+  crc: '0x8bd86b08'
+- name: MARIODUK.PAL
+  size: 1543
+  date: '1998-11-11T13:52:26'
+  crc: '0xd6b94027'
+- name: MARIOED.BAS
+  size: 24513
+  date: '1999-07-28T19:43:36'
+  crc: '0x23ee6194'
+- name: MARIOEDP.BAS
+  size: 1446
+  date: '1999-07-28T19:43:48'
+  crc: '0xdcd554a9'
+- name: MARIOEDP.DAT
+  size: 900
+  date: '1998-10-06T12:52:30'
+  crc: '0x62572cc1'
+- name: MARIOLEV.DAT
+  size: 134000
+  date: '1999-07-24T18:26:34'
+  crc: '0x0c4a3bb8'

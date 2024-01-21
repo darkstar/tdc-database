@@ -1,0 +1,27 @@
+filename: Witchaven v1.1 Patch3 (1996)(IntraCorp, Inc.) [Action, Addon].zip
+tdc_id: '3824.14'
+title:
+  screen: Witchaven
+publisher: IntraCorp, Inc.
+year: '1996'
+genre:
+- Action
+- Addon
+language: English
+date:
+  added: '2022-10-26T07:47:45'
+  last_modified: '2022-10-26T07:47:45'
+version: '1.1'
+type: zip
+patch: true
+references:
+  mobygames: https://www.mobygames.com/game/dos/witchaven
+files:
+- name: README.TXT
+  size: 163
+  date: '1996-01-12T11:28:40'
+  crc: '0x8e33e855'
+- name: WH.EXE
+  size: 775163
+  date: '1996-01-12T11:25:10'
+  crc: '0xff0368c7'

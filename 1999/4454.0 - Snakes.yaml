@@ -1,0 +1,28 @@
+filename: Snakes v2.1 (1999)(Lonely Dragon) [Action].zip
+tdc_id: '4454.0'
+title:
+  screen: Snakes
+publisher: Lonely Dragon
+year: '1999'
+genre: Action
+language: English
+date:
+  added: '2020-11-17T22:01:30'
+  last_modified: '2020-11-17T22:01:30'
+version: '2.1'
+type: zip
+commands:
+  play: SNAKES.EXE
+files:
+- name: SNAKES.DAT
+  size: 49162
+  date: '2002-06-28T10:04:30'
+  crc: '0xb68d7717'
+- name: SNAKES.EXE
+  size: 34800
+  date: '2002-06-28T10:07:30'
+  crc: '0x0e039da9'
+- name: readme.txt
+  size: 527
+  date: '2002-06-28T10:07:52'
+  crc: '0x9ff854d7'

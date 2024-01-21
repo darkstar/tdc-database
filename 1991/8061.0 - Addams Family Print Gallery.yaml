@@ -1,0 +1,48 @@
+filename: Addams Family Print Gallery v1.0k (1991)(Hi-Tech Expressions, Inc.) [Educational].zip
+tdc_id: '8061.0'
+title:
+  box: Addams Family Print Gallery
+publisher: Hi-Tech Expressions, Inc.
+year: '1991'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T18:34:44'
+  last_modified: '2019-03-01T18:34:44'
+version: 1.0k
+type: zip
+commands:
+  play: ADDAMS.EXE
+files:
+- name: ADDAMS.EXE
+  size: 341456
+  date: '1991-11-18T16:23:34'
+  crc: '0x4d3f2437'
+- name: ADDAMS.PVL
+  size: 173056
+  date: '1992-07-29T17:31:10'
+  crc: '0x9cfe6000'
+- name: CGA.BGI
+  size: 6332
+  date: '1990-05-04T01:00:00'
+  crc: '0x5f4c2b51'
+- name: EGAVGA.BGI
+  size: 5554
+  date: '1990-05-04T01:00:00'
+  crc: '0x116c5498'
+- name: HERC.BGI
+  size: 6204
+  date: '1990-05-04T01:00:00'
+  crc: '0xac360ec1'
+- name: PP2.CFG
+  size: 418
+  date: '2008-10-12T22:24:36'
+  crc: '0x3947b491'
+- name: PPPF.PVL
+  size: 96712
+  date: '1991-10-28T00:39:36'
+  crc: '0x28389e32'
+- name: PPPR.PVL
+  size: 22027
+  date: '1991-10-28T00:39:44'
+  crc: '0x38272feb'

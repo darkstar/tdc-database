@@ -1,0 +1,66 @@
+filename: Twilight- 2000 v1.01 (Installer) (De) (1992)(MicroProse Software, Inc.) [Role-Playing (RPG), Strategy].zip
+tdc_id: '16999.7'
+title:
+  box: 'Twilight: 2000'
+  qualifier: Installer
+publisher: MicroProse Software, Inc.
+year: '1992'
+genre:
+- Role-Playing (RPG)
+- Strategy
+language: German
+date:
+  added: '2019-03-01T18:52:04'
+  last_modified: '2023-07-26T10:48:43'
+version: '1.01'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/2476/twilight-2000/
+files:
+- name: DISK1.TWI
+  size: 314850
+  date: '1993-03-29T14:48:04'
+  crc: '0x53e60f4d'
+- name: DISK10.TWI
+  size: 116906
+  date: '1993-03-29T14:48:04'
+  crc: '0xf6fedc7f'
+- name: DISK2.TWI
+  size: 362496
+  date: '1993-03-29T14:45:32'
+  crc: '0x6a017f80'
+- name: DISK3.TWI
+  size: 362496
+  date: '1993-03-29T14:45:52'
+  crc: '0x44d9c546'
+- name: DISK4.TWI
+  size: 362496
+  date: '1993-03-29T14:46:18'
+  crc: '0x124dbf71'
+- name: DISK5.TWI
+  size: 362496
+  date: '1993-03-29T14:46:38'
+  crc: '0x582490fd'
+- name: DISK6.TWI
+  size: 362496
+  date: '1993-03-29T14:47:00'
+  crc: '0x5fa8a15d'
+- name: DISK7.TWI
+  size: 362496
+  date: '1993-03-29T14:47:20'
+  crc: '0xa2ad52b7'
+- name: DISK8.TWI
+  size: 362496
+  date: '1993-03-29T14:47:38'
+  crc: '0x39d1ea1e'
+- name: DISK9.TWI
+  size: 362496
+  date: '1993-03-29T14:47:58'
+  crc: '0x6d0a034a'
+- name: INSTALL.EXE
+  size: 14758
+  date: '1993-03-29T14:37:18'
+  crc: '0xb96ea86e'

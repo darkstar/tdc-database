@@ -1,0 +1,27 @@
+filename: Myob r2 (2003)(Igor Savin) [Adventure, Simulation, Strategy].zip
+tdc_id: '14385.0'
+title:
+  screen: Myob
+publisher: Igor Savin
+year: '2003'
+genre:
+- Adventure
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2019-03-02T10:56:42'
+  last_modified: '2019-03-02T10:56:42'
+release: '2'
+type: zip
+commands:
+  play: myob.exe
+files:
+- name: myob.exe
+  size: 53852
+  date: '2003-05-12T19:52:18'
+  crc: '0x14ddfc4d'
+- name: readme.txt
+  size: 1178
+  date: '2003-06-26T18:14:40'
+  crc: '0x3bde4b0e'

@@ -1,0 +1,69 @@
+filename: Moonmist r9 (Installer) (1986)(Infocom, Inc., Activision (UK) Ltd.) [Adventure, Interactive Fiction].zip
+tdc_id: '14329.8'
+parent_id: '14329.7'
+title:
+  box: Moonmist
+  qualifier: Installer
+publisher: Infocom, Inc., Activision (UK) Ltd.
+year: '1986'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2023-12-07T15:21:03'
+  last_modified: '2023-12-07T15:21:03'
+release: '9'
+type: zip
+media: 360K
+installer: true
+commands:
+  play: MOONMIST.COM
+  setup: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1364/moonmist/
+files:
+- name: AF.EXE
+  size: 13168
+  date: '1985-05-28T13:27:14'
+  crc: '0xac30980c'
+- name: GAMEDIR.COM
+  size: 62
+  date: '1985-05-31T10:45:50'
+  crc: '0xee6703b0'
+- name: INSTALL.BAT
+  size: 2176
+  date: '1986-07-31T14:28:24'
+  crc: '0x4472c4a3'
+- name: INSTALLH.BAT
+  size: 1152
+  date: '1985-07-01T16:17:08'
+  crc: '0x1dce9881'
+- name: MOONMIST.COM
+  size: 12004
+  date: '1986-10-30T16:02:32'
+  crc: '0xeb97324e'
+- name: MOONMIST.DAT
+  size: 128867
+  date: '1986-10-30T16:00:30'
+  crc: '0xc34de2bb'
+- name: SCAN.COM
+  size: 114
+  date: '1985-05-23T11:58:58'
+  crc: '0x15be874f'
+- name: SETUP.EXE
+  size: 1584
+  date: '1985-06-28T10:53:14'
+  crc: '0x62ddb282'
+- name: SETUP.INF
+  size: 3
+  date: '1985-05-04T20:39:12'
+  crc: '0x8bdcb97d'
+- name: STATLINE.BAT
+  size: 2304
+  date: '1985-06-28T13:27:58'
+  crc: '0xa605f617'
+- name: YES.COM
+  size: 93
+  date: '1984-11-30T12:02:30'
+  crc: '0x01bd6af9'

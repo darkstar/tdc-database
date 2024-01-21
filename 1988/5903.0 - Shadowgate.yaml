@@ -1,0 +1,77 @@
+filename: Shadowgate (1988)(Mindscape, Inc.) [Adventure].zip
+tdc_id: '5903.0'
+title:
+  box: Shadowgate
+publisher: Mindscape, Inc.
+year: '1988'
+genre: Adventure
+language: English
+date:
+  added: '2019-06-02T12:45:04'
+  last_modified: '2019-06-02T12:45:04'
+type: zip
+files:
+- name: FILTERS.S
+  size: 43916
+  date: '1988-06-27T17:00:44'
+  crc: '0xcbffccc3'
+- name: GRAPHICS.S
+  size: 340736
+  date: '1988-06-28T12:20:16'
+  crc: '0xa617db89'
+- name: HDFIX.COM
+  size: 531
+  date: '1998-08-24T22:38:04'
+  crc: '0x3ac08b10'
+- name: NEWDRIVE.ASM
+  size: 1069
+  date: '1998-08-24T22:39:04'
+  crc: '0x2e234c7b'
+- name: NEWDRIVE.COM
+  size: 318
+  date: '1998-08-24T22:39:10'
+  crc: '0xbc43e503'
+- name: NEWGAME.S
+  size: 8150
+  date: '1988-06-27T17:00:46'
+  crc: '0xef4c6c33'
+- name: OBJECTS.S
+  size: 5316
+  date: '2007-02-08T11:41:20'
+  crc: '0x9ab95242'
+- name: REMOVE.ASM
+  size: 110
+  date: '1998-08-26T17:59:58'
+  crc: '0xbe9578f3'
+- name: REMOVE.COM
+  size: 13
+  date: '1998-08-26T18:00:02'
+  crc: '0x48788d3d'
+- name: RESOURCE.S
+  size: 512
+  date: '1988-03-15T13:18:46'
+  crc: '0xea371689'
+- name: RUNME.BAT
+  size: 22
+  date: '1998-08-26T18:09:20'
+  crc: '0xa41cd020'
+- name: SGATE.EXE
+  size: 91353
+  date: '1998-11-30T21:50:32'
+  crc: '0x72f096c7'
+- name: SOUNDS.S
+  size: 31754
+  date: '1988-03-09T11:34:44'
+  crc: '0x2139913c'
+- name: START.ASM
+  size: 1333
+  date: '1998-08-26T18:10:36'
+  crc: '0x248a2986'
+- name: START.COM
+  size: 256
+  date: '1998-08-26T18:10:40'
+  crc: '0x19819627'
+- name: TEXT.S
+  size: 84498
+  date: '1988-06-27T17:00:30'
+  crc: '0x4050e16f'

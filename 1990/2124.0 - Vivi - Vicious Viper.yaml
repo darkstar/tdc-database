@@ -1,0 +1,39 @@
+filename: Vivi - Vicious Viper v2.01 (1990)(Spare Time Software) [Action].zip
+tdc_id: '2124.0'
+title:
+  screen: Vivi - Vicious Viper
+publisher: Spare Time Software
+year: '1990'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:34:26'
+  last_modified: '2019-03-01T18:34:26'
+version: '2.01'
+type: zip
+commands:
+  play: VIVI.EXE
+references:
+  dosid: DOS15818
+  exodos: Vivi Vicious Viper (1990).zip
+files:
+- name: VIVI.EXE
+  size: 112768
+  date: '2038-07-01T20:13:14'
+  crc: '0xf1c2f39a'
+- name: VIVI.LEV
+  size: 46800
+  date: '2038-06-22T08:05:14'
+  crc: '0xacec2237'
+- name: VIVI.TIT
+  size: 25055
+  date: '2038-05-31T05:16:22'
+  crc: '0xe411f55c'
+- name: VIVI.TSC
+  size: 880
+  date: '2009-02-23T22:53:58'
+  crc: '0x2f836a8c'
+- name: VIVI.TXT
+  size: 1754
+  date: '2038-10-04T05:30:24'
+  crc: '0xec262470'

@@ -1,0 +1,30 @@
+filename: Cave [SW] (1992)(F22 Software) [Action].zip
+tdc_id: '2193.0'
+title:
+  screen: Cave
+publisher: F22 Software
+year: '1992'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:41:42'
+  last_modified: '2019-03-01T18:41:42'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: CAVE.EXE
+files:
+- name: CAVE.DOC
+  size: 210
+  date: '1992-12-26T08:22:16'
+  crc: '0x090bd487'
+- name: CAVE.EXE
+  size: 27520
+  date: '1992-12-26T08:14:58'
+  crc: '0x11f2b6eb'
+- name: REG.DOC
+  size: 2426
+  date: '1992-12-26T08:33:44'
+  crc: '0x1a45113a'

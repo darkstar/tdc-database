@@ -1,0 +1,46 @@
+filename: Nomad (1994)(Phlegm Games) [Adventure, Interactive Fiction].zip
+tdc_id: '14513.0'
+title:
+  screen: Nomad
+publisher: Phlegm Games
+year: '1994'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-01-20T04:26:32'
+  last_modified: '2019-01-20T04:26:32'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: FILE_ID.DIZ
+  size: 240
+  date: '1994-04-15T12:33:16'
+  crc: '0x06f745ee'
+- name: GO.BAT
+  size: 25
+  date: '2019-01-20T00:05:40'
+  crc: '0xc33a489e'
+- name: NOMAD.BAK
+  size: 26
+  date: '1993-11-06T20:50:52'
+  crc: '0xf9e8af92'
+- name: NOMAD.BAS
+  size: 38851
+  date: '1994-03-26T20:02:48'
+  crc: '0x871ab710'
+- name: NOMAD.DAT
+  size: 27
+  date: '1993-11-06T20:51:54'
+  crc: '0x31980c30'
+- name: NOMAD.DOC
+  size: 13090
+  date: '1994-03-26T20:08:08'
+  crc: '0x11fb83c1'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

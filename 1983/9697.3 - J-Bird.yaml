@@ -1,0 +1,30 @@
+filename: J-Bird [DC][a2] (1983)(Orion Software, Inc.) [Action].zip
+tdc_id: '9697.3'
+title:
+  box: J-Bird
+publisher: Orion Software, Inc.
+year: '1983'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:23:14'
+  last_modified: '2019-03-01T18:23:14'
+type: zip
+tags:
+- DOSConversion
+- Alternate: 2
+commands:
+  play: JBIRD.EXE
+files:
+- name: JBIRD.EXE
+  size: 1024
+  date: '1984-02-11T00:12:24'
+  crc: '0x4568817c'
+- name: JBIRD.OVL
+  size: 62208
+  date: '1980-01-01T00:22:38'
+  crc: '0x14c89e0c'
+- name: JBIRD.SCR
+  size: 1280
+  date: '1998-03-21T17:38:28'
+  crc: '0xa65bdb72'

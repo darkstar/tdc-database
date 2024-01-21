@@ -1,0 +1,34 @@
+filename: Mythos (1990)(Opera Soft S.A.) [Action].zip
+tdc_id: '14396.0'
+title:
+  box: Mythos
+publisher: Opera Soft S.A.
+year: '1990'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:33:20'
+  last_modified: '2019-03-01T18:33:20'
+type: zip
+commands:
+  play: MITHOS.EXE
+references:
+  dosid: DOS03358
+  exodos: Mythos (1990).zip
+files:
+- name: MITHOS.CTR
+  size: 1459
+  date: '1994-11-29T14:58:22'
+  crc: '0xaf62353b'
+- name: MITHOS.EXE
+  size: 2115
+  date: '1993-07-28T14:37:38'
+  crc: '0xe03e9ecb'
+- name: MITOS_CG.OVL
+  size: 63601
+  date: '1990-07-27T08:12:04'
+  crc: '0x09eb2921'
+- name: MITOS_EG.OVL
+  size: 125727
+  date: '1990-07-27T08:11:24'
+  crc: '0x5b384564'

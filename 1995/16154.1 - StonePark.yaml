@@ -1,0 +1,27 @@
+filename: StonePark (Installer) (De) [SW] (1995)(WSP-Software) [Strategy].zip
+tdc_id: '16154.1'
+title:
+  screen: StonePark
+publisher: WSP-Software
+year: '1995'
+genre: Strategy
+language: German
+date:
+  added: '2019-03-02T09:05:48'
+  last_modified: '2019-03-02T09:05:48'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 23204
+  date: '1995-11-27T16:23:42'
+  crc: '0x65045a9b'
+- name: STONEP.DAT
+  size: 766526
+  date: '1996-01-29T05:16:44'
+  crc: '0xbf8d4025'

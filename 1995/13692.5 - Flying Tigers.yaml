@@ -1,0 +1,45 @@
+filename: Flying Tigers v2.1 (Installer) (De)(En) [SWR] (1995)(Ticsoft) [Action].zip
+tdc_id: '13692.5'
+title:
+  screen: Flying Tigers
+publisher: Ticsoft
+year: '1995'
+genre: Action
+language:
+- English
+- German
+date:
+  added: '2019-03-02T08:43:54'
+  last_modified: '2019-03-02T08:43:54'
+version: '2.1'
+type: zip
+tags:
+- SharewareRegistered
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK.ID
+  size: 44
+  date: '1995-03-07T20:39:44'
+  crc: '0xc7ce5ce9'
+- name: DISK.ID2
+  size: 44
+  date: '1995-03-07T20:40:22'
+  crc: '0xd57bf307'
+- name: INSTALL.DAT
+  size: 7189
+  date: '1995-03-07T20:39:36'
+  crc: '0xc43c16d7'
+- name: INSTALL.EXE
+  size: 113504
+  date: '1995-03-06T15:22:06'
+  crc: '0xd217b85b'
+- name: TIGERREG.001
+  size: 1335357
+  date: '1995-03-06T15:28:54'
+  crc: '0x211251e7'
+- name: TIGERREG.002
+  size: 132877
+  date: '1995-03-06T15:29:26'
+  crc: '0x4f7af469'

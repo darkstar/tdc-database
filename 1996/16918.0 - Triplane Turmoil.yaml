@@ -1,0 +1,39 @@
+filename: Triplane Turmoil v1.02 (Installer) [SWR] (1996)(Dodekaedron Software Creations, Inc.) [Action].zip
+tdc_id: '16918.0'
+title:
+  screen: Triplane Turmoil
+publisher: Dodekaedron Software Creations, Inc.
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2013-11-28T08:59:32'
+  last_modified: '2013-11-28T08:59:32'
+version: '1.02'
+type: zip
+tags:
+- SharewareRegistered
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: CWSDPMI.DOC
+  size: 7186
+  date: '1999-12-31T18:00:00'
+  crc: '0x9e137891'
+- name: CWSDPMI.EXE
+  size: 20217
+  date: '1999-12-31T18:00:00'
+  crc: '0xf967640f'
+- name: INSTALL.EXE
+  size: 79360
+  date: '1999-12-31T18:00:00'
+  crc: '0x2ae18bc8'
+- name: REGTRIP.000
+  size: 1280000
+  date: '1999-12-31T18:00:00'
+  crc: '0x3c1cc933'
+- name: REGTRIP.001
+  size: 801404
+  date: '1999-12-31T18:00:00'
+  crc: '0xb2f69237'

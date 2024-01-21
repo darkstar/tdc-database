@@ -1,0 +1,27 @@
+filename: Reeder, Der v1.10 (De) (1995)(Software 2000) [bin-cue].zip
+tdc_id: '14565.2'
+title:
+  box: Der Reeder
+publisher: Software 2000
+year: '1995'
+genre: bin-cue
+language: German
+date:
+  added: '2023-02-21T09:42:55'
+  last_modified: '2023-02-21T09:42:55'
+version: '1.10'
+type: bin-cue
+media: CD-ROM
+audio:
+- CD-DA
+references:
+  mobygames: https://www.mobygames.com/game/dos/ocean-trader
+files:
+- name: reeder.bin
+  size: 681658992
+  date: '2017-08-03T20:46:12'
+  crc: '0x9e51a269'
+- name: reeder.cue
+  size: 1384
+  date: '2017-08-03T20:46:48'
+  crc: '0xeb175e85'

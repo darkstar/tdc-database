@@ -1,0 +1,45 @@
+filename: Fellowship of the Ring, The (1987)(Addison-Wesley Publishing Company, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '13534.0'
+parent_id: '13534.1'
+title:
+  box: The Fellowship of the Ring
+  screen: Lord of the Rings
+publisher: Addison-Wesley Publishing Company, Inc.
+year: '1987'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:24:46'
+  last_modified: '2024-01-18T16:30:03'
+version: '1.1'
+type: zip
+media: 360K
+commands:
+  play: FOR1.EXE
+references:
+  mobygames: https://www.mobygames.com/game/9460/the-fellowship-of-the-ring/
+  dosid: DOS05665
+  exodos: Fellowship of the Ring, The - Part 2 (1986).zip
+files:
+- name: FOR1.EXE
+  size: 69360
+  date: '1987-07-24T11:22:04'
+  crc: '0x9eb8cbf6'
+- name: FOR1.PIC
+  size: 128121
+  date: '1986-07-24T15:40:46'
+  crc: '0xe93ccf7a'
+- name: FOR2.EXE
+  size: 70608
+  date: '1987-07-24T12:51:22'
+  crc: '0x9932d026'
+- name: FOR2.PIC
+  size: 81065
+  date: '1986-08-18T08:07:56'
+  crc: '0xd1478c1c'
+- name: READ_ME
+  size: 1396
+  date: '1986-09-09T10:45:50'
+  crc: '0xe7759535'

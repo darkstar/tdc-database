@@ -1,0 +1,43 @@
+filename: Ken's Labyrinth v2.01 (Installer) [SWR] (1994)(Monkey Business, Inc.) [Action].zip
+tdc_id: '11735.4'
+title:
+  screen: Ken's Labyrinth
+publisher: Monkey Business, Inc.
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T19:11:00'
+  last_modified: '2019-03-01T19:11:00'
+version: '2.01'
+type: zip
+tags:
+- SharewareRegistered
+installer: true
+commands:
+  play: GO.EXE
+files:
+- name: GO.EXE
+  size: 12768
+  date: '1994-11-23T17:55:28'
+  crc: '0xdeb38be3'
+- name: INSTALL.BIN
+  size: 4000
+  date: '1994-09-02T17:00:36'
+  crc: '0x201e41ae'
+- name: INSTALL.DAT
+  size: 25
+  date: '1995-03-03T14:17:42'
+  crc: '0x935f5fdf'
+- name: INSTALL.PCX
+  size: 5075
+  date: '1994-09-27T17:01:32'
+  crc: '0x29b5bbf2'
+- name: KEN123.X00
+  size: 74
+  date: '1995-03-03T14:17:44'
+  crc: '0x0df62df7'
+- name: KEN123.Z01
+  size: 915561
+  date: '1995-03-03T14:17:34'
+  crc: '0x5dcfb5d5'

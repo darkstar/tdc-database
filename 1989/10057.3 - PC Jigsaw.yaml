@@ -1,0 +1,55 @@
+filename: PC Jigsaw v1.2 [SW] (1989)(Alive Software) [Strategy, Puzzle].zip
+tdc_id: '10057.3'
+title:
+  screen: PC Jigsaw
+publisher: Alive Software
+year: '1989'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2022-12-19T17:18:07'
+  last_modified: '2022-12-19T17:18:07'
+version: '1.2'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: JIG.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/pc-jigsaw
+files:
+- name: DANCER.GRF
+  size: 19928
+  date: '1989-11-18T23:00:58'
+  crc: '0x89facafe'
+- name: DOG.GRF
+  size: 22303
+  date: '1989-11-18T23:00:58'
+  crc: '0x42994714'
+- name: HYDRA.GRF
+  size: 16255
+  date: '1989-11-18T23:00:58'
+  crc: '0x93ef26f3'
+- name: JIG.DOC
+  size: 12143
+  date: '1989-11-18T23:00:58'
+  crc: '0xc08e6a8e'
+- name: JIG.EXE
+  size: 78478
+  date: '1989-11-18T23:00:58'
+  crc: '0x4ac6f59a'
+- name: JIGSAW.GRF
+  size: 18244
+  date: '1989-11-18T23:00:58'
+  crc: '0x50b85d77'
+- name: README.JIG
+  size: 1549
+  date: '1989-11-18T23:00:58'
+  crc: '0x9c1cc7d7'
+- name: REGISTER.JIG
+  size: 2546
+  date: '1989-11-18T23:00:58'
+  crc: '0x1dc01d29'

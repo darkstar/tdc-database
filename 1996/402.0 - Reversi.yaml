@@ -1,0 +1,28 @@
+filename: Reversi (1996)(Peter Cooper) [Strategy].zip
+tdc_id: '402.0'
+title:
+  screen: Reversi
+publisher: Peter Cooper
+year: '1996'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:16:30'
+  last_modified: '2019-03-02T10:16:30'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 27
+  date: '2018-04-12T17:20:20'
+  crc: '0x6ece7d82'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T01:28:02'
+  crc: '0x19f6ed75'
+- name: REVERSI.BAS
+  size: 11566
+  date: '2018-03-10T01:58:08'
+  crc: '0x24b50927'

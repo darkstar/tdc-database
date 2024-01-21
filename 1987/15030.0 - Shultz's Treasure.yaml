@@ -1,0 +1,73 @@
+filename: Shultz's Treasure (1987)(VeriSoft Works, ComputerEasy) [Action].zip
+tdc_id: '15030.0'
+parent_id: '15030.1'
+title:
+  box: Shultz's Treasure
+publisher: VeriSoft Works, ComputerEasy
+year: '1987'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:23:20'
+  last_modified: '2023-10-24T12:32:44'
+type: zip
+media: 360K
+commands:
+  play: AUTOEXEC.BAT
+references:
+  mobygames: https://www.mobygames.com/game/59882/shultzs-treasure/
+  dosid: DOS06233
+  exodos: Shultz's Treasure (1987).zip
+files:
+- name: AUTOEXEC.BAT
+  size: 15
+  date: '1984-05-03T15:24:30'
+  crc: '0x3d1c95ea'
+- name: C.DIG
+  size: 9984
+  date: '1980-01-01T00:24:28'
+  crc: '0x4f03620b'
+- name: GAME.VAR
+  size: 896
+  date: '1980-01-01T00:03:34'
+  crc: '0xd94b7381'
+- name: HELLO.EXE
+  size: 20352
+  date: '1984-05-03T15:07:12'
+  crc: '0x4f9531bb'
+- name: IBMBIO.COM
+  size: 1920
+  date: '1980-01-01T00:00:00'
+  crc: '0xf1c90cfa'
+- name: IBMDOS.COM
+  size: 6400
+  date: '1980-01-01T00:00:00'
+  crc: '0x68f93c78'
+- name: INSTALL.BAT
+  size: 240
+  date: '1984-05-17T14:51:26'
+  crc: '0x853bba20'
+- name: S.COM
+  size: 41088
+  date: '1980-01-01T00:22:34'
+  crc: '0x40bafc39'
+- name: SHULT.PIC
+  size: 2944
+  date: '1980-01-01T00:09:20'
+  crc: '0xfcf67315'
+- name: SHULT1.PIC
+  size: 2944
+  date: '1980-01-01T00:24:08'
+  crc: '0xd2d9f3d4'
+- name: SHULT2.PIC
+  size: 2944
+  date: '1980-01-01T00:24:12'
+  crc: '0xda2b6b64'
+- name: SHULTZ.EXE
+  size: 40704
+  date: '1980-01-01T00:04:20'
+  crc: '0x4d79926d'
+- name: SHULTZ.PIC
+  size: 2944
+  date: '1980-01-01T00:09:16'
+  crc: '0xde7675be'

@@ -1,0 +1,28 @@
+filename: Mousey (2000)(Doug Meyer) [Action].zip
+tdc_id: '4600.0'
+title:
+  screen: Mousey
+publisher: Doug Meyer
+year: '2000'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:54:56'
+  last_modified: '2019-03-02T10:54:56'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 25
+  date: '2018-12-07T22:10:20'
+  crc: '0xddf82cd2'
+- name: MOUSE.BAS
+  size: 21727
+  date: '2000-02-05T18:02:12'
+  crc: '0xd31dfe2c'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

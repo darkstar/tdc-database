@@ -1,0 +1,51 @@
+filename: Patrizier, Der r920826 (Installer) (De) (1992)(Ascon GmbH) [Simulation, Strategy].zip
+tdc_id: '1486.19'
+title:
+  box: Der Patrizier
+publisher: Ascon GmbH
+year: '1992'
+genre:
+- Simulation
+- Strategy
+language: German
+date:
+  added: '2022-09-01T11:23:06'
+  last_modified: '2022-09-01T11:23:06'
+release: '920826'
+type: zip
+installer: true
+references:
+  mobygames: https://www.mobygames.com/game/dos/patrician
+files:
+- name: F0.EXE
+  size: 160330
+  date: '1992-08-26T12:57:10'
+  crc: '0xe6c8b9af'
+- name: F1.EXE
+  size: 924603
+  date: '1992-07-06T19:19:28'
+  crc: '0x871a0990'
+- name: F11.EXE
+  size: 296232
+  date: '1992-08-11T01:06:12'
+  crc: '0xe08efc8d'
+- name: F2.EXE
+  size: 330193
+  date: '1992-07-06T19:30:50'
+  crc: '0xfe1703d3'
+- name: F3.EXE
+  size: 18848
+  date: '1992-08-26T12:33:22'
+  crc: '0x2a7a9b65'
+- name: F6.EXE
+  size: 53706
+  date: '1992-08-11T01:08:24'
+  crc: '0x9b4001ab'
+- name: F7.EXE
+  size: 46476
+  date: '1992-07-28T21:15:50'
+  crc: '0x5316b29e'
+- name: INSTALL.EXE
+  size: 29040
+  date: '1992-07-06T19:23:10'
+  crc: '0x6af28731'

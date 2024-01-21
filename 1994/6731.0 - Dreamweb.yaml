@@ -1,0 +1,42 @@
+filename: Dreamweb (Installer) (Es) (1994)(Empire Interactive Entertainment) [Adventure].zip
+tdc_id: '6731.0'
+title:
+  box: Dreamweb
+publisher: Empire Interactive Entertainment
+year: '1994'
+genre: Adventure
+language: Spanish
+date:
+  added: '2019-03-01T21:56:20'
+  last_modified: '2022-11-20T12:30:33'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/dreamweb
+files:
+- name: DREAMW_1.CMP
+  size: 1410000
+  date: '1999-12-31T18:00:00'
+  crc: '0x77311128'
+- name: DREAMW_2.CMP
+  size: 1457664
+  date: '1999-12-31T18:00:00'
+  crc: '0x379896d3'
+- name: DREAMW_3.CMP
+  size: 1457664
+  date: '1999-12-31T18:00:00'
+  crc: '0x91505990'
+- name: DREAMW_4.CMP
+  size: 1457664
+  date: '1999-12-31T18:00:00'
+  crc: '0x2acb6ff2'
+- name: DREAMW_5.CMP
+  size: 1428189
+  date: '1999-12-31T18:00:00'
+  crc: '0x8dca34c5'
+- name: INSTALL.EXE
+  size: 39869
+  date: '1999-12-31T18:00:00'
+  crc: '0x0ea4642b'

@@ -1,0 +1,33 @@
+filename: Indy 500 Racing v1.0d [FW] (1998)(Dominick Aguilar) [Action, Racing - Driving].zip
+tdc_id: '11482.0'
+title:
+  screen: Indy 500 Racing
+publisher: Dominick Aguilar
+year: '1998'
+genre:
+- Action
+- Racing - Driving
+language: English
+date:
+  added: '2019-03-02T10:41:48'
+  last_modified: '2019-03-02T10:41:48'
+version: 1.0d
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 28
+  date: '2019-01-09T21:05:02'
+  crc: '0xd5f54824'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: RACECAR2.BAS
+  size: 4793
+  date: '1998-09-21T01:40:16'
+  crc: '0xd96f6985'

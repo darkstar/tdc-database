@@ -1,0 +1,28 @@
+filename: Tic-Tac-Toe (1998)(Anders Olofsson) [Strategy].zip
+tdc_id: '16696.0'
+title:
+  screen: Tic-Tac-Toe
+publisher: Anders Olofsson
+year: '1998'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:44:40'
+  last_modified: '2019-03-02T10:44:40'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 26
+  date: '2018-11-26T16:21:26'
+  crc: '0x6ec30646'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: TICTAC.BAS
+  size: 6702
+  date: '2018-03-10T11:54:46'
+  crc: '0x00b5d55a'

@@ -1,0 +1,36 @@
+filename: Too Many Geckos! v1.1 (Installer) [SW] (1995)(Anarchy Entertainment Inc.) [Strategy].zip
+tdc_id: '16780.1'
+title:
+  screen: Too Many Geckos!
+publisher: Anarchy Entertainment Inc.
+year: '1995'
+genre: Strategy
+language: English
+date:
+  added: '2019-02-04T19:41:02'
+  last_modified: '2019-02-04T19:41:02'
+version: '1.1'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 351
+  date: '1995-09-12T01:01:00'
+  crc: '0xed10d519'
+- name: INSTALL.EXE
+  size: 24908
+  date: '1995-09-12T01:01:00'
+  crc: '0xfb632c84'
+- name: TMG_1
+  size: 1457664
+  date: '1995-09-12T01:01:00'
+  crc: '0xc5f6cb36'
+- name: TMG_2
+  size: 1371661
+  date: '1995-09-12T01:01:00'
+  crc: '0x3394d068'

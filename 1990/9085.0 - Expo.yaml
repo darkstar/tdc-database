@@ -1,0 +1,46 @@
+filename: Expo (Tandy 1000) [f1] (1990)(RufusPro Software, Brooks deForest) [Role-Playing (RPG)].zip
+tdc_id: '9085.0'
+title:
+  screen: Expo
+  qualifier: Tandy 1000
+publisher: RufusPro Software, Brooks deForest
+year: '1990'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:32:34'
+  last_modified: '2019-03-01T18:32:34'
+type: zip
+tags:
+- Fixed: 1
+media: Download
+commands:
+  play: BASIC.EXE
+references:
+  dosid: DOS07559
+  exodos: Expo (1990).zip
+files:
+- name: BASIC.EXE
+  size: 68672
+  date: '2016-03-23T20:48:02'
+  crc: '0x0999e916'
+- name: BASICA.COM
+  size: 942
+  date: '2016-03-23T20:48:10'
+  crc: '0x5978f665'
+- name: expo.bas
+  size: 34935
+  date: '2016-03-23T21:32:48'
+  crc: '0x9730ba50'
+- name: expo.loc
+  size: 644
+  date: '2016-03-23T21:32:50'
+  crc: '0x8b34d2a9'
+- name: expo.spr
+  size: 16392
+  date: '2016-03-23T21:32:48'
+  crc: '0x84c41361'
+- name: expopic.lod
+  size: 16392
+  date: '2016-03-23T21:32:50'
+  crc: '0xe38c2148'

@@ -1,0 +1,35 @@
+filename: Alley Cat [tr Ru][h2] (1984)(IBM) [Action].zip
+tdc_id: '8278.1'
+parent_id: '8278.2'
+title:
+  box: Alley Cat
+  screen: Бродячий кот
+publisher: IBM
+year: '1984'
+genre: Action
+language: Russian
+date:
+  added: '2021-12-09T08:27:06'
+  last_modified: '2023-06-25T19:50:06'
+type: zip
+tags:
+- Translated
+- Hack: 2
+media: 360K
+commands:
+  play: ALLEYCAT.EXE
+references:
+  mobygames: https://www.mobygames.com/game/190/alley-cat/
+files:
+- name: ALCRUS.BIN
+  size: 55579
+  date: '2011-12-24T20:59:20'
+  crc: '0xcd142060'
+- name: ALLEYCAT.EXE
+  size: 16070
+  date: '2013-07-26T16:19:06'
+  crc: '0xb3bef5ff'
+- name: ReadmeRU.pdf
+  size: 292954
+  date: '2013-07-26T18:56:00'
+  crc: '0x85f18d41'

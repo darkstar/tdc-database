@@ -1,0 +1,71 @@
+filename: '''Twas the Night Before Christmas (1986)(Microstar Graphics, Ltd.) [Compilation].zip'
+tdc_id: '1112.0'
+title:
+  box: '''Twas the Night Before Christmas'
+publisher: Microstar Graphics, Ltd.
+year: '1986'
+genre: Compilation
+language: English
+date:
+  added: '2022-10-30T12:52:44'
+  last_modified: '2022-10-30T12:52:44'
+type: zip
+compilation: true
+commands:
+  play: XMAS.BAT
+files:
+- name: SHOW\
+  size: 0
+  date: '2022-10-26T04:54:08'
+- name: SHOW\CARD.PRO
+  size: 384
+  date: '1987-10-20T16:32:48'
+  crc: '0xdb3a4aff'
+- name: SHOW\COPY.PRO
+  size: 512
+  date: '1987-10-20T16:32:46'
+  crc: '0x3c1874dd'
+- name: SHOW\FXNOSHOW.EXE
+  size: 38906
+  date: '1987-10-20T16:34:28'
+  crc: '0x0d0934d3'
+- name: SHOW\GAME.PRO
+  size: 384
+  date: '1987-10-20T16:32:52'
+  crc: '0x3cb84596'
+- name: SHOW\LETTER.PRO
+  size: 384
+  date: '1987-10-20T16:32:50'
+  crc: '0xce15e293'
+- name: SHOW\LTREDIT.EXE
+  size: 2909
+  date: '1987-10-20T16:34:18'
+  crc: '0xad46171c'
+- name: SHOW\PCLIFE.PRO
+  size: 1280
+  date: '1987-10-20T16:32:10'
+  crc: '0x75abbc66'
+- name: SHOW\SHOWPART.SLB
+  size: 244279
+  date: '1987-10-20T16:34:14'
+  crc: '0x7b878933'
+- name: SHOW\SPUZ.EXE
+  size: 2308
+  date: '1987-10-20T16:34:22'
+  crc: '0x02c25042'
+- name: SHOW\STORY.PRO
+  size: 8832
+  date: '1987-10-20T16:32:42'
+  crc: '0xca337413'
+- name: SHOW\TOC.PRO
+  size: 512
+  date: '1987-10-20T16:32:12'
+  crc: '0x1eefd0d5'
+- name: SHOW\XMD.EXE
+  size: 1962
+  date: '1987-10-20T16:34:16'
+  crc: '0x56fa0025'
+- name: XMAS.BAT
+  size: 128
+  date: '1987-10-20T16:34:38'
+  crc: '0x20b31bf2'

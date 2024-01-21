@@ -1,0 +1,45 @@
+filename: Advanced Civilization Beta v1.05 (Installer) (1995)(The Avalon Hill Game Company) [Strategy].zip
+tdc_id: '8097.4'
+title:
+  box: Advanced Civilization Beta
+publisher: The Avalon Hill Game Company
+year: '1995'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T07:28:06'
+  last_modified: '2019-03-02T07:28:06'
+version: '1.05'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: ACIV.001
+  size: 1320000
+  date: '1995-05-02T14:13:48'
+  crc: '0x1f4284e9'
+- name: ACIV.002
+  size: 1440000
+  date: '1995-05-22T17:25:48'
+  crc: '0x12854abf'
+- name: ACIV.003
+  size: 82609
+  date: '1995-05-02T14:14:02'
+  crc: '0x82f15b65'
+- name: FLCS.SHR
+  size: 1149976
+  date: '1995-05-02T14:14:22'
+  crc: '0x88cf3396'
+- name: INSTALL.CFG
+  size: 563
+  date: '1995-05-02T13:50:20'
+  crc: '0x4b2d432f'
+- name: INSTALL.EXE
+  size: 57238
+  date: '1994-07-20T02:09:00'
+  crc: '0xc053fd5d'
+- name: WAV.SHR
+  size: 724205
+  date: '1995-05-02T14:14:38'
+  crc: '0x19830576'

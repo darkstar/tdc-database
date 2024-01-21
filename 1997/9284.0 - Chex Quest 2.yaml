@@ -1,0 +1,44 @@
+filename: Chex Quest 2 (1997)(Ralston Foods, Inc.) [Action].zip
+tdc_id: '9284.0'
+title:
+  screen: Chex Quest 2
+publisher: Ralston Foods, Inc.
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:25:28'
+  last_modified: '2019-03-02T10:25:28'
+type: zip
+references:
+  dosid: DOS01366
+  exodos: Chex Quest 2 (1996).zip
+files:
+- name: CHEX2.BAT
+  size: 22
+  date: '2009-11-03T08:02:58'
+  crc: '0xc0681194'
+- name: CHEX2.ICO
+  size: 766
+  date: '1997-02-04T20:25:28'
+  crc: '0x021474f3'
+- name: CHEX2.WAD
+  size: 7585664
+  date: '1997-02-05T22:37:42'
+  crc: '0x30aab11e'
+- name: DEFAULT.CFG
+  size: 872
+  date: '2010-04-13T01:33:04'
+  crc: '0xbcb101d1'
+- name: README2.TXT
+  size: 582
+  date: '1997-02-04T20:55:26'
+  crc: '0xc00e4b88'
+- name: chex.exe
+  size: 713017
+  date: '1996-10-31T20:35:34'
+  crc: '0xdd3e1573'
+- name: setup.exe
+  size: 107056
+  date: '2009-11-04T04:59:56'
+  crc: '0x2746a131'

@@ -1,0 +1,30 @@
+filename: SimAnt 1.02 update (1992)(Maxis) [Simulation, Addon].zip
+tdc_id: '2415.0'
+title:
+  screen: SimAnt 1.02 update
+publisher: Maxis
+year: '1992'
+genre:
+- Simulation
+- Addon
+language: English
+date:
+  added: '1992-07-05T17:01:00'
+  last_modified: '1992-07-05T17:01:00'
+type: zip
+patch: true
+commands:
+  play: PATCH.EXE
+files:
+- name: PATCH.EXE
+  size: 76983
+  date: '1992-02-21T19:00:00'
+  crc: '0xaece73b2'
+- name: PATCH.RTP
+  size: 164325
+  date: '1992-06-27T10:47:58'
+  crc: '0x01dd328a'
+- name: README.102
+  size: 334
+  date: '1992-06-27T11:17:36'
+  crc: '0x854eb28c'

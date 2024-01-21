@@ -1,0 +1,59 @@
+filename: Jet Set Willy PC v0.991 (1999)(RetroSpec) [Action].zip
+tdc_id: '9718.0'
+title:
+  screen: Jet Set Willy PC
+publisher: RetroSpec
+year: '1999'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:46:12'
+  last_modified: '2019-03-02T10:46:12'
+version: '0.991'
+type: zip
+commands:
+  play: JSW.EXE
+references:
+  dosid: DOS02908
+  exodos: Jet Set Willy (1999).zip
+files:
+- name: JSW-DAT2.DAT
+  size: 195144
+  date: '1999-07-31T15:26:38'
+  crc: '0xfbc571ae'
+- name: JSW-DAT3.DAT
+  size: 2776
+  date: '1999-07-31T15:26:38'
+  crc: '0xc51d8e7f'
+- name: JSW-DAT4.DAT
+  size: 2383
+  date: '1999-07-31T15:26:38'
+  crc: '0x96da1b24'
+- name: JSW-DAT5.DAT
+  size: 1121
+  date: '1999-07-31T15:26:38'
+  crc: '0xf6c630b3'
+- name: JSW-DAT6.DAT
+  size: 2790
+  date: '1999-07-31T15:26:38'
+  crc: '0x41fd1ed3'
+- name: JSW-DAT7.DAT
+  size: 1777
+  date: '1999-07-31T15:26:38'
+  crc: '0x14a1d0e1'
+- name: JSW-MID.CFG
+  size: 28
+  date: '2012-01-28T12:21:34'
+  crc: '0x9408d954'
+- name: JSW.EXE
+  size: 523871
+  date: '1999-08-29T19:41:30'
+  crc: '0x0496112a'
+- name: LICENSE.TXT
+  size: 4932
+  date: '1999-07-31T15:26:38'
+  crc: '0x80ea895d'
+- name: README.TXT
+  size: 9213
+  date: '1999-08-16T23:51:06'
+  crc: '0xbe0eaac9'

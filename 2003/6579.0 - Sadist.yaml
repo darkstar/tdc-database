@@ -1,0 +1,36 @@
+filename: Sadist v1.4 (Installer) (Pl) [FW] (2003)(Zombie Mastah Prodakshans) [Action].zip
+tdc_id: '6579.0'
+title:
+  screen: Sadist
+publisher: Zombie Mastah Prodakshans
+year: '2003'
+genre: Action
+language: Polish
+date:
+  added: '2019-03-02T10:56:44'
+  last_modified: '2019-03-02T10:56:44'
+version: '1.4'
+type: zip
+tags:
+- Freeware
+media: Download
+installer: true
+commands:
+  play: INSTALUJ.EXE
+files:
+- name: Czytaj.txt
+  size: 367
+  date: '2003-01-26T20:07:30'
+  crc: '0x53afc320'
+- name: INSTALUJ.EXE
+  size: 80868
+  date: '2003-01-26T20:02:30'
+  crc: '0x690fb068'
+- name: PKUNZIP.EXE
+  size: 29378
+  date: '1999-09-10T15:50:32'
+  crc: '0x00832770'
+- name: SADINSTL.ZIP
+  size: 693058
+  date: '2003-01-26T19:25:46'
+  crc: '0x6a465ad9'

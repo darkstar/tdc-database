@@ -1,0 +1,28 @@
+filename: UFO (De) (1999)(Anonymous) [Action].zip
+tdc_id: '17026.0'
+title:
+  screen: UFO
+publisher: Anonymous
+year: '1999'
+genre: Action
+language: German
+date:
+  added: '2019-03-02T10:46:34'
+  last_modified: '2019-03-02T10:46:34'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: BBF_UFO.BAS
+  size: 10367
+  date: '1999-01-09T23:44:00'
+  crc: '0x360da173'
+- name: GO.BAT
+  size: 27
+  date: '2018-12-04T20:25:18'
+  crc: '0x7aa395a4'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

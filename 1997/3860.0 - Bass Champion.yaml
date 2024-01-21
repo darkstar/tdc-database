@@ -1,0 +1,30 @@
+filename: Bass Champion (1997)(Ricky Mann) [Sports, Simulation].zip
+tdc_id: '3860.0'
+title:
+  screen: Bass Champion
+publisher: Ricky Mann
+year: '1997'
+genre:
+- Sports
+- Simulation
+language: English
+date:
+  added: '2019-03-02T10:25:08'
+  last_modified: '2019-03-02T10:25:08'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: BASCHAMP.BAS
+  size: 1845
+  date: '1997-05-28T11:42:56'
+  crc: '0x1c43addc'
+- name: GO.BAT
+  size: 28
+  date: '2018-11-13T11:29:16'
+  crc: '0xc141d58f'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'

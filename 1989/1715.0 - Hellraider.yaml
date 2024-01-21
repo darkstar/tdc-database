@@ -1,0 +1,38 @@
+filename: Hellraider (1989)(Atari UK Ltd.) [Action].zip
+tdc_id: '1715.0'
+title:
+  box: Hellraider
+publisher: Atari UK Ltd.
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:27:56'
+  last_modified: '2019-03-01T18:27:56'
+type: zip
+commands:
+  play: RAIDER.EXE
+references:
+  dosid: DOS02578
+  exodos: Hellraider (1989).zip
+files:
+- name: BLOCKS.DAT
+  size: 35932
+  date: '1989-10-27T17:04:08'
+  crc: '0x6baac2ed'
+- name: HISCORES.DAT
+  size: 96
+  date: '1990-05-12T14:23:54'
+  crc: '0x1b55eafb'
+- name: KEYS.DAT
+  size: 12
+  date: '1993-06-20T01:46:14'
+  crc: '0x83079c75'
+- name: MAP.DAT
+  size: 8192
+  date: '1980-01-01T04:01:34'
+  crc: '0x76364735'
+- name: RAIDER.EXE
+  size: 299127
+  date: '1989-10-27T19:26:52'
+  crc: '0xc493830c'

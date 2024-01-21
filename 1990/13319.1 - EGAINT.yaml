@@ -1,0 +1,54 @@
+filename: EGAINT v0.94.12 (1990)(Eric Ng) [Action, Strategy].zip
+tdc_id: '13319.1'
+title:
+  screen: EGAINT
+publisher: Eric Ng
+year: '1990'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:32:30'
+  last_modified: '2019-03-01T18:32:30'
+version: 0.94.12
+type: zip
+commands:
+  play: EGAINT.EXE
+files:
+- name: COPYING
+  size: 13532
+  date: '1990-04-11T19:06:00'
+  crc: '0xfcea5850'
+- name: EGAINT.EXE
+  size: 72480
+  date: '1990-04-11T19:06:00'
+  crc: '0x96a65ce3'
+- name: EGAINT.MAN
+  size: 8456
+  date: '1990-04-11T19:06:00'
+  crc: '0xb32d0e05'
+- name: GETTING
+  size: 5344
+  date: '1990-04-11T19:06:00'
+  crc: '0xbeb639b6'
+- name: MANIFEST
+  size: 328
+  date: '1990-04-11T19:06:00'
+  crc: '0x67c402ee'
+- name: ODYSSEY.BBS
+  size: 1160
+  date: '1990-04-11T19:06:00'
+  crc: '0x3cb2b58e'
+- name: PCGFX.BBS
+  size: 1416
+  date: '1990-04-11T19:06:00'
+  crc: '0x77e598d9'
+- name: README
+  size: 7144
+  date: '1990-04-11T19:06:00'
+  crc: '0x555fed2e'
+- name: VERSION.LOG
+  size: 4854
+  date: '1990-04-11T19:06:00'
+  crc: '0x01816770'

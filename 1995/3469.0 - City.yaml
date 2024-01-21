@@ -1,0 +1,33 @@
+filename: City v2.0 [FW] (1995)(Orin Smith) [Adventure, Interactive Fiction].zip
+tdc_id: '3469.0'
+title:
+  screen: City
+publisher: Orin Smith
+year: '1995'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T07:31:48'
+  last_modified: '2019-03-02T07:31:48'
+version: '2.0'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: CITY.BAT
+files:
+- name: CITY.BAS
+  size: 60595
+  date: '1995-06-20T22:41:00'
+  crc: '0x4f23102e'
+- name: CITY.BAT
+  size: 259
+  date: '1995-06-27T12:23:58'
+  crc: '0x1bda46da'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1994-05-31T06:22:02'
+  crc: '0x3152911c'

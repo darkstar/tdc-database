@@ -1,0 +1,112 @@
+filename: Super Tetris (demo) v1.01 (1991)(Sphere, Inc.) [Action, Strategy].zip
+tdc_id: '16329.1'
+title:
+  screen: Super Tetris
+  qualifier: demo
+publisher: Sphere, Inc.
+year: '1991'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:39:38'
+  last_modified: '2019-03-01T18:39:38'
+version: '1.01'
+type: zip
+demo: true
+commands:
+  play: SUPERTET.EXE
+files:
+- name: DEMOEND2
+  size: 25957
+  date: '1992-04-07T02:45:28'
+  crc: '0x43154587'
+- name: MUAD
+  size: 12676
+  date: '1991-12-02T19:58:42'
+  crc: '0x6ad98168'
+- name: MUMT
+  size: 12231
+  date: '1991-12-02T19:58:48'
+  crc: '0x7e1cb45e'
+- name: MUTD
+  size: 9263
+  date: '1991-12-02T19:58:54'
+  crc: '0x531d84a7'
+- name: SHLOGO.VGA
+  size: 8414
+  date: '1991-12-14T02:15:44'
+  crc: '0x0c603c0d'
+- name: SNDS
+  size: 80251
+  date: '1991-11-21T16:34:50'
+  crc: '0x671ebae3'
+- name: SPHERE.VGA
+  size: 9052
+  date: '1991-12-14T02:15:44'
+  crc: '0xdd31e91f'
+- name: STBLOCKS.VGA
+  size: 2075
+  date: '1991-11-13T07:53:20'
+  crc: '0xeef7911f'
+- name: STBOMB.VGA
+  size: 1273
+  date: '1991-12-14T02:15:48'
+  crc: '0x01db9d47'
+- name: STELEPH.VGA
+  size: 52701
+  date: '1991-12-14T02:16:10'
+  crc: '0xda5aed0d'
+- name: STFONT1.VGA
+  size: 4238
+  date: '1991-12-14T02:15:50'
+  crc: '0xcc1d6df4'
+- name: STMENUH.VGA
+  size: 11217
+  date: '1992-03-31T18:59:56'
+  crc: '0xe110a74d'
+- name: STMENUN.VGA
+  size: 12186
+  date: '1992-03-31T18:59:16'
+  crc: '0xdf4bc3a5'
+- name: STPITART.VGA
+  size: 6338
+  date: '1991-12-14T02:16:50'
+  crc: '0x7768fa05'
+- name: STPOPOV.VGA
+  size: 22114
+  date: '1991-12-14T02:16:24'
+  crc: '0x01fd9991'
+- name: STTITLE.VGA
+  size: 39764
+  date: '1991-12-14T02:15:48'
+  crc: '0xae207bd9'
+- name: STTXT1.VGA
+  size: 28576
+  date: '1992-03-21T00:42:40'
+  crc: '0xb68716cf'
+- name: STTXT2.VGA
+  size: 32537
+  date: '1992-03-20T23:56:56'
+  crc: '0x8692a0e6'
+- name: STTXT3.VGA
+  size: 28925
+  date: '1992-03-21T00:29:08'
+  crc: '0xde2fca61'
+- name: STTXT4.VGA
+  size: 25476
+  date: '1992-03-21T00:21:30'
+  crc: '0xc1a022ec'
+- name: STTXT5.VGA
+  size: 22111
+  date: '1992-04-02T20:40:54'
+  crc: '0x6bb93f1c'
+- name: SUPERTET.BNK
+  size: 4060
+  date: '1991-10-21T23:47:34'
+  crc: '0x64ac5bae'
+- name: SUPERTET.EXE
+  size: 88843
+  date: '1992-04-02T20:42:16'
+  crc: '0xdd23a96a'

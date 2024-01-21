@@ -1,0 +1,40 @@
+filename: Emilio Butragueno Futbol (Es) (1989)(Ocean Software Ltd.) [Simulation, Sports].zip
+tdc_id: '13444.0'
+title:
+  box: Emilio Butragueno Futbol
+publisher: Ocean Software Ltd.
+year: '1989'
+genre:
+- Simulation
+- Sports
+language: Spanish
+date:
+  added: '2019-12-27T12:43:04'
+  last_modified: '2019-12-27T12:43:04'
+type: zip
+commands:
+  play: FUTBOL.EXE
+references:
+  dosid: DOS02011
+  exodos: Emilio Butragueno Futbol (1989).zip
+files:
+- name: CPG
+  size: 9
+  date: '1980-01-01T00:01:06'
+  crc: '0x595a9978'
+- name: FUTBOL.CO_
+  size: 920
+  date: '1989-04-13T13:58:02'
+  crc: '0x917b769d'
+- name: FUTBOL.EXE
+  size: 21308
+  date: '1989-04-13T21:13:00'
+  crc: '0x3e673e50'
+- name: GRAFUB.CGA
+  size: 38408
+  date: '1989-02-23T21:14:34'
+  crc: '0x55c87405'
+- name: SPRITB.CGA
+  size: 56072
+  date: '1989-02-23T21:21:48'
+  crc: '0x592b48df'

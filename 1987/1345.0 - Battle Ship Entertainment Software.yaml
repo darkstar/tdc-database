@@ -1,0 +1,28 @@
+filename: Battle Ship Entertainment Software v4.02 (1987)(Nguyen Dang, Anh Dung, P.A. Kelly) [Strategy].zip
+tdc_id: '1345.0'
+title:
+  screen: Battle Ship Entertainment Software
+publisher: Nguyen Dang, Anh Dung, P.A. Kelly
+year: '1987'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:25:10'
+  last_modified: '2019-03-01T18:25:10'
+version: '4.02'
+type: zip
+commands:
+  play: BATTLES2.EXE
+files:
+- name: BATTLES.INT
+  size: 1254
+  date: '1987-12-10T20:19:48'
+  crc: '0xe9bdf85b'
+- name: BATTLES.PIC
+  size: 16392
+  date: '1987-12-13T03:44:36'
+  crc: '0x2a23cd06'
+- name: BATTLES2.EXE
+  size: 45696
+  date: '1987-12-21T02:38:52'
+  crc: '0x88f2a381'

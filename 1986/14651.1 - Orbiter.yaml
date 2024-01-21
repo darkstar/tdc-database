@@ -1,0 +1,74 @@
+filename: Orbiter [a1] (1986)(Spectrum HoloByte, Inc.) [Educational, Simulation].zip
+tdc_id: '14651.1'
+title:
+  box: Orbiter
+publisher: Spectrum HoloByte, Inc.
+year: '1986'
+genre:
+- Educational
+- Simulation
+language: English
+date:
+  added: '2019-03-01T18:24:52'
+  last_modified: '2019-03-01T18:24:52'
+type: zip
+tags:
+- Alternate: 1
+commands:
+  play: ORBITER.EXE
+files:
+- name: DEBUG.TXT
+  size: 0
+  date: '2088-01-01T00:00:00'
+- name: LANDING.TOU
+  size: 850
+  date: '1986-08-14T12:21:46'
+  crc: '0xc0d4f1a9'
+- name: LAUNCH.TOU
+  size: 950
+  date: '1986-08-15T01:42:54'
+  crc: '0xd3b8b3e6'
+- name: MISSION.DAT
+  size: 5920
+  date: '1986-07-21T09:38:56'
+  crc: '0x8d59127f'
+- name: MISSION.TEX
+  size: 5888
+  date: '2088-01-01T00:00:00'
+  crc: '0x486de288'
+- name: ORBIT.TOU
+  size: 1820
+  date: '1986-08-21T23:25:44'
+  crc: '0xc19ba3ac'
+- name: ORBITER.DAT
+  size: 8520
+  date: '1986-07-21T09:39:18'
+  crc: '0xbdc1a436'
+- name: ORBITER.EXE
+  size: 259168
+  date: '1986-08-20T14:40:48'
+  crc: '0xa781e85f'
+- name: ORBITER.OVL
+  size: 103792
+  date: '1986-08-20T14:40:48'
+  crc: '0x13350674'
+- name: ORBITER.RES
+  size: 103317
+  date: '1986-07-19T14:32:02'
+  crc: '0xea6b8109'
+- name: SATELLIT.TEX
+  size: 6016
+  date: '1986-07-09T15:52:02'
+  crc: '0xacff5b86'
+- name: SHUTTLE.TEX
+  size: 6784
+  date: '1986-07-09T15:48:20'
+  crc: '0x533613ec'
+- name: SPECTRUM.TEX
+  size: 4608
+  date: '2088-01-01T00:17:58'
+  crc: '0xe7fd763c'
+- name: VOLUMES.DAT
+  size: 11
+  date: '1987-07-30T04:34:04'
+  crc: '0x446d8c1e'

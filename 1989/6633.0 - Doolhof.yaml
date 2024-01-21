@@ -1,0 +1,33 @@
+filename: Doolhof (Nl) (1989)(Robosoft) [Strategy, Puzzle].zip
+tdc_id: '6633.0'
+title:
+  screen: Doolhof
+publisher: Robosoft
+year: '1989'
+genre:
+- Strategy
+- Puzzle
+language: Dutch
+date:
+  added: '2019-03-01T18:27:36'
+  last_modified: '2019-03-01T18:27:36'
+type: zip
+commands:
+  play: DOOLHOF.EXE
+files:
+- name: CGA.BGI
+  size: 6253
+  date: '1988-08-29T07:00:00'
+  crc: '0x17cbdd92'
+- name: DOOLHOF.EXE
+  size: 55504
+  date: '1989-04-17T15:22:56'
+  crc: '0xf4568a1c'
+- name: EXIT.HOE
+  size: 80
+  date: '1980-01-01T02:34:50'
+  crc: '0x33e214ba'
+- name: HERC.BGI
+  size: 6125
+  date: '1988-08-29T07:00:00'
+  crc: '0xc1f40043'

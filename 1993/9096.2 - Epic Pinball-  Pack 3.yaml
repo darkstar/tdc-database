@@ -1,0 +1,43 @@
+filename: Epic Pinball- Epic Pinball Pack 3 v2.10 (Installer) [SWR] (1993)(Epic MegaGames, Inc.) [Action].zip
+tdc_id: '9096.2'
+title:
+  screen: 'Epic Pinball:  Pack 3'
+publisher: Epic MegaGames, Inc.
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T19:06:56'
+  last_modified: '2019-03-01T19:06:56'
+version: '2.10'
+type: zip
+tags:
+- SharewareRegistered
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.BIN
+  size: 4000
+  date: '1994-03-18T12:45:30'
+  crc: '0x75d92d0d'
+- name: INSTALL.DAT
+  size: 24
+  date: '1994-06-02T17:48:56'
+  crc: '0x12451253'
+- name: INSTALL.EXE
+  size: 21264
+  date: '1994-06-01T17:26:40'
+  crc: '0x1968470b'
+- name: INSTALL.MSG
+  size: 4000
+  date: '1994-05-31T22:40:14'
+  crc: '0x0cf0e851'
+- name: PIN3.X00
+  size: 78
+  date: '1994-06-02T17:48:56'
+  crc: '0x6c8b7ece'
+- name: PIN3.Z01
+  size: 1353633
+  date: '1994-08-18T23:52:44'
+  crc: '0x50b13655'

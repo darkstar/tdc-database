@@ -1,0 +1,31 @@
+filename: Super Star Trek (1995)(Anonymous) [Strategy].zip
+tdc_id: '16321.0'
+title:
+  screen: Super Star Trek
+publisher: Anonymous
+year: '1995'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T09:05:54'
+  last_modified: '2019-03-02T09:05:54'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+references:
+  dosid: DOS16116
+  exodos: Super Star Trek (1995).zip
+files:
+- name: GO.BAT
+  size: 22
+  date: '2018-11-27T21:58:54'
+  crc: '0x43dc2422'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: ST.BAS
+  size: 63760
+  date: '1995-09-29T09:53:54'
+  crc: '0x378917a6'

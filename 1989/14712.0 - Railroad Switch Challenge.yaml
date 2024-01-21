@@ -1,0 +1,41 @@
+filename: Railroad Switch Challenge v5.0 (1989)(Fred Miller) [Simulation, Strategy].zip
+tdc_id: '14712.0'
+title:
+  screen: Railroad Switch Challenge
+publisher: Fred Miller
+year: '1989'
+genre:
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:28:46'
+  last_modified: '2019-03-01T18:28:46'
+version: '5.0'
+type: zip
+commands:
+  play: RRSWITCH.EXE
+references:
+  dosid: DOS15709
+  exodos: Railroad Switch Challenge (1982).zip
+files:
+- name: RRSWITCH.DAT
+  size: 98347
+  date: '1989-09-01T18:00:00'
+  crc: '0x6b1e9147'
+- name: RRSWITCH.DOC
+  size: 13132
+  date: '1989-09-01T18:00:00'
+  crc: '0x901f2dd3'
+- name: RRSWITCH.EXE
+  size: 17410
+  date: '1989-09-01T18:00:00'
+  crc: '0x7361f4f4'
+- name: RRSWITCH.OVL
+  size: 109891
+  date: '1989-09-01T18:00:00'
+  crc: '0x478a12ab'
+- name: RRSWITCH.TAB
+  size: 35
+  date: '1989-09-01T18:00:00'
+  crc: '0x08b2f1af'

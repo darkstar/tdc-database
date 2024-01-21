@@ -1,0 +1,49 @@
+filename: BackGammon v3.0 (De) [FW] (1994)(Stephan Körting) [Strategy, Board].zip
+tdc_id: '17351.0'
+title:
+  screen: BackGammon
+publisher: Stephan Körting
+year: '1994'
+genre:
+- Strategy
+- Board
+language: German
+date:
+  added: '2023-08-13T10:11:15'
+  last_modified: '2023-08-13T10:11:15'
+version: '3.0'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: BAKGAMON.EXE
+files:
+- name: BAKGAMON.EXE
+  size: 55184
+  date: '1994-03-27T14:28:22'
+  crc: '0xb64b7dae'
+- name: BAKGAMON.PAS
+  size: 23597
+  date: '1994-03-27T14:04:20'
+  crc: '0x19ce130a'
+- name: BG_GRAF.PAS
+  size: 62235
+  date: '1991-09-06T12:07:00'
+  crc: '0x79dcee9d'
+- name: BG_GRAF.TPU
+  size: 48336
+  date: '1994-03-27T14:01:42'
+  crc: '0xcb3ee5e5'
+- name: EGAVGA.BGI
+  size: 5554
+  date: '1990-11-07T06:00:00'
+  crc: '0x116c5498'
+- name: GRAPH.TPU
+  size: 32336
+  date: '1990-11-07T06:00:00'
+  crc: '0x9eae526d'
+- name: SAFE_IO.TPU
+  size: 2416
+  date: '1994-03-27T14:01:32'
+  crc: '0xd29a5499'

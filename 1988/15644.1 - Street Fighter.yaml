@@ -1,0 +1,30 @@
+filename: Street Fighter (Installer) (1988)(Capcom Co., Ltd.) [Action].zip
+tdc_id: '15644.1'
+title:
+  box: Street Fighter
+publisher: Capcom Co., Ltd.
+year: '1988'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:26:52'
+  last_modified: '2019-03-01T18:26:52'
+type: zip
+installer: true
+files:
+- name: INSTALL.BAT
+  size: 3352
+  date: '1994-07-07T11:16:22'
+  crc: '0xfd5f269a'
+- name: LHA.EXE
+  size: 34283
+  date: '1991-07-20T02:13:00'
+  crc: '0x2c68a172'
+- name: LHA213.EXE
+  size: 44381
+  date: '1993-09-26T12:22:00'
+  crc: '0xe45194cb'
+- name: SF.EXE
+  size: 203447
+  date: '1994-07-07T11:06:56'
+  crc: '0x7a4b1d64'

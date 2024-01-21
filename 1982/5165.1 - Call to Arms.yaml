@@ -1,0 +1,72 @@
+filename: Call to Arms (Es) (1982)(Sirius Software, Inc.) [Strategy].zip
+tdc_id: '5165.1'
+title:
+  screen: Call to Arms
+publisher: Sirius Software, Inc.
+year: '1982'
+genre: Strategy
+language: Spanish
+date:
+  added: '2019-03-01T18:22:56'
+  last_modified: '2019-03-01T18:22:56'
+type: zip
+media: Download
+commands:
+  play: TEG.BAT
+files:
+- name: COVER.SCN
+  size: 16512
+  date: '1982-01-01T00:00:00'
+  crc: '0x8272cfc5'
+- name: GWBASIC.EXE
+  size: 80592
+  date: '1988-02-09T00:00:02'
+  crc: '0x8462d0e4'
+- name: HALLS.BAS
+  size: 418
+  date: '1980-01-01T00:52:10'
+  crc: '0xa014a516'
+- name: LOADMAP.BAS
+  size: 8225
+  date: '1983-10-09T23:09:12'
+  crc: '0xb7534e2c'
+- name: MAP1.A
+  size: 16512
+  date: '1982-03-07T00:00:00'
+  crc: '0x1ab3a66c'
+- name: MAP1.B
+  size: 16512
+  date: '1982-03-07T00:00:00'
+  crc: '0x98f8d122'
+- name: MAP1.BAS
+  size: 3962
+  date: '1980-01-01T00:03:14'
+  crc: '0xce6cf6d0'
+- name: MAP1.C
+  size: 16512
+  date: '1982-03-14T00:00:00'
+  crc: '0x74bf99c2'
+- name: MAP1.MAP
+  size: 512
+  date: '1982-03-07T00:00:00'
+  crc: '0x854775cd'
+- name: MAP1.SAV
+  size: 384
+  date: '2000-02-13T15:17:56'
+  crc: '0x6c293925'
+- name: PLAY.BAS
+  size: 19996
+  date: '1983-10-09T23:18:10'
+  crc: '0x77dafbd5'
+- name: PLAY1.BAS
+  size: 23488
+  date: '1980-01-01T00:09:36'
+  crc: '0xa29b208e'
+- name: TEG.BAS
+  size: 375
+  date: '1983-10-09T22:56:32'
+  crc: '0x007dfeb0'
+- name: TEG.BAT
+  size: 27
+  date: '1980-01-01T00:00:48'
+  crc: '0xe184be11'

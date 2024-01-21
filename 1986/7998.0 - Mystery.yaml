@@ -1,0 +1,28 @@
+filename: Mystery (Pinball Construction Set) (1986)(Anonymous) [Action].zip
+tdc_id: '7998.0'
+title:
+  screen: Mystery
+  qualifier: Pinball Construction Set
+publisher: Anonymous
+year: '1986'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:52'
+  last_modified: '2019-03-01T18:24:52'
+type: zip
+requirements:
+  cpu:
+    min: '8088'
+media: Download
+commands:
+  play: MYSTERY.COM
+files:
+- name: MYSTERY.COM
+  size: 64512
+  date: '1986-09-07T19:48:06'
+  crc: '0xd145af4a'
+- name: PINBALL.DOC
+  size: 560
+  date: '1988-06-25T17:43:24'
+  crc: '0xfa5e2a5c'

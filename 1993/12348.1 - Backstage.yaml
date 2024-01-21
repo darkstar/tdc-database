@@ -1,0 +1,31 @@
+filename: Backstage (Installer) (De) [FW] (1993)(RM Buch und Medien Vertrieb GmbH) [Adventure].zip
+tdc_id: '12348.1'
+title:
+  screen: Backstage
+publisher: RM Buch und Medien Vertrieb GmbH
+year: '1993'
+genre: Adventure
+language: German
+date:
+  added: '2019-03-01T19:01:18'
+  last_modified: '2019-03-01T19:01:18'
+type: zip
+tags:
+- Freeware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.CFG
+  size: 602
+  date: '1993-12-21T08:50:46'
+  crc: '0xd8d4ba79'
+- name: INSTALL.EXE
+  size: 26541
+  date: '1993-01-09T22:52:00'
+  crc: '0x23313901'
+- name: INSTALL.PAK
+  size: 760277
+  date: '1993-12-21T09:47:58'
+  crc: '0x75053ce4'

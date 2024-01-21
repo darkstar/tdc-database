@@ -1,0 +1,28 @@
+filename: Soviet Block, The (1990)(U.S.E.D. Software) [Action, Strategy].zip
+tdc_id: '6858.0'
+title:
+  screen: The Soviet Block
+publisher: U.S.E.D. Software
+year: '1990'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:34:04'
+  last_modified: '2019-03-01T18:34:04'
+type: zip
+commands:
+  play: SOVIET.EXE
+references:
+  dosid: DOS07088
+  exodos: Soviet Block, The (1990).zip
+files:
+- name: SOVIET.DOC
+  size: 4578
+  date: '1990-05-15T10:10:58'
+  crc: '0x9afb9652'
+- name: SOVIET.EXE
+  size: 30704
+  date: '1990-05-15T10:10:48'
+  crc: '0x1f7e59a3'

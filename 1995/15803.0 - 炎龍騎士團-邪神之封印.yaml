@@ -1,0 +1,51 @@
+filename: 炎龍騎士團-邪神之封印 (Installer) (Zh) (1995)(Dynasty International Information Co., Ltd.) [Role-Playing (RPG)].zip
+tdc_id: '15803.0'
+title:
+  screen: 炎龍騎士團-邪神之封印
+  translation: Flame Dragon Knights
+  transliteration: 'Yanlong Qishituan: Xieshen-zhi Fengyin'
+  qualifier: Installer
+publisher: Dynasty International Information Co., Ltd.
+year: '1995'
+genre: Role-Playing (RPG)
+language: Chinese
+date:
+  added: '2019-03-02T09:08:14'
+  last_modified: '2023-12-05T15:47:02'
+type: zip
+installer: true
+commands:
+  play: INSTALL.BAT
+files:
+- name: FD1.LZH
+  size: 959056
+  date: '1994-05-13T17:24:12'
+  crc: '0x0119d50f'
+- name: FD2.LZH
+  size: 1208861
+  date: '1994-05-13T17:24:06'
+  crc: '0x2b97b38e'
+- name: FD3.LZH
+  size: 1204258
+  date: '1994-05-13T17:17:10'
+  crc: '0xa581727b'
+- name: FD4.LZH
+  size: 1208691
+  date: '1994-05-13T17:16:50'
+  crc: '0x0b60edfe'
+- name: FD5.LZH
+  size: 1206087
+  date: '1994-05-13T17:20:14'
+  crc: '0xc037047d'
+- name: FD6.LZH
+  size: 1207490
+  date: '1994-05-13T17:18:10'
+  crc: '0xa81cf91e'
+- name: INSTALL.BAT
+  size: 206
+  date: '1994-05-10T09:26:28'
+  crc: '0x7c44376d'
+- name: LHA.EXE
+  size: 33965
+  date: '1991-06-16T18:24:24'
+  crc: '0x27b0dde6'

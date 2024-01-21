@@ -1,0 +1,32 @@
+filename: Hurkle [SW] (1983)(Dynacomp Inc.) [Strategy, Puzzle].zip
+tdc_id: '11358.0'
+title:
+  screen: Hurkle
+publisher: Dynacomp Inc.
+year: '1983'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-09-02T05:03:52'
+  last_modified: '2019-09-02T05:03:52'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: HURKLE.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T12:00:00'
+  crc: '0x92293842'
+- name: HURKLE.BAS
+  size: 1664
+  date: '1983-03-05T13:00:00'
+  crc: '0xe6051837'
+- name: HURKLE.BAT
+  size: 16
+  date: '1980-01-01T12:00:00'
+  crc: '0xbdd77fdb'

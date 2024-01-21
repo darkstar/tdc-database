@@ -1,0 +1,44 @@
+filename: QBasic Pieces [FW] (1995)(Molnar - Kucalaba Productions) [Strategy, Puzzle].zip
+tdc_id: '10246.0'
+title:
+  screen: QBasic Pieces
+publisher: Molnar - Kucalaba Productions
+year: '1995'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-03-02T08:58:12'
+  last_modified: '2023-03-12T10:19:42'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: start.bat
+files:
+- name: PDATA.PCS
+  size: 702
+  date: '1995-07-01T03:50:52'
+  crc: '0xc4f5faf2'
+- name: PGAMES.PCS
+  size: 2834
+  date: '1995-07-01T03:53:10'
+  crc: '0xa922c9ab'
+- name: PIECES.BAS
+  size: 81794
+  date: '2005-05-09T02:30:42'
+  crc: '0xa3923d41'
+- name: PUZZLES.PCS
+  size: 54797
+  date: '1995-07-01T12:29:04'
+  crc: '0x7f9d9504'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1995-07-11T10:50:00'
+  crc: '0x3152911c'
+- name: start.bat
+  size: 22
+  date: '2005-05-09T02:34:12'
+  crc: '0x21128a17'

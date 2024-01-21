@@ -1,0 +1,28 @@
+filename: Solar Strike (1999)(Paul Crosland, XFlareSoft) [Action].zip
+tdc_id: '15251.0'
+title:
+  screen: Solar Strike
+publisher: Paul Crosland, XFlareSoft
+year: '1999'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:44:34'
+  last_modified: '2019-03-02T10:44:34'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 25
+  date: '2018-11-27T12:27:50'
+  crc: '0xd762842e'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: SOLAR.BAS
+  size: 79808
+  date: '2018-03-10T14:54:10'
+  crc: '0x0115380d'

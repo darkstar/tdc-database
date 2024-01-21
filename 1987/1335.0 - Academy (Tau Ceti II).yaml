@@ -1,0 +1,47 @@
+filename: Academy (1987)(CRL Group PLC) [Action, Strategy].zip
+tdc_id: '1335.0'
+title:
+  box: Academy
+  screen: Academy (Tau Ceti II)
+publisher: CRL Group PLC
+year: '1987'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:25:06'
+  last_modified: '2023-07-19T13:28:49'
+type: zip
+media: 360K
+commands:
+  play: ACAD.EXE
+references:
+  mobygames: https://www.mobygames.com/game/14739/space-school-simulator-the-academy/
+  dosid: DOS04718
+  exodos: Space School Simulator - The Academy (1987).zip
+files:
+- name: ACAD.EXE
+  size: 57104
+  date: '1987-11-24T15:00:40'
+  crc: '0xa6042b25'
+- name: ACADEMY.DAT
+  size: 28456
+  date: '1987-11-24T15:05:00'
+  crc: '0x24e9e5d5'
+- name: ACADGAME.DTA
+  size: 48
+  date: '1987-11-24T15:04:16'
+  crc: '0x43455310'
+- name: ACADSHIP.DTA
+  size: 192
+  date: '1987-11-24T15:04:00'
+  crc: '0x5bd301f6'
+- name: OBJECTS.DAT
+  size: 10624
+  date: '1987-11-24T15:05:14'
+  crc: '0xcc6bd254'
+- name: PICTURE.DAT
+  size: 16000
+  date: '1987-11-24T15:05:26'
+  crc: '0xe18fef36'

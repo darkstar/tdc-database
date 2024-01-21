@@ -1,0 +1,34 @@
+filename: Othello (1997)(John Woodill) [Strategy, Board].zip
+tdc_id: '4028.0'
+title:
+  screen: Othello
+publisher: John Woodill
+year: '1997'
+genre:
+- Strategy
+- Board
+language: English
+date:
+  added: '2019-03-02T10:36:04'
+  last_modified: '2019-03-02T10:36:04'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 27
+  date: '2018-11-29T23:12:44'
+  crc: '0xede32506'
+- name: OTHELLO.BAS
+  size: 8517
+  date: '1997-06-26T20:48:12'
+  crc: '0xc6d97902'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: README.TXT
+  size: 899
+  date: '1997-07-01T11:31:30'
+  crc: '0x8503a2bc'

@@ -1,0 +1,49 @@
+filename: Microprose Formula One Grand Prix v1.05 (Installer) (Es) (1993)(Erbe Software, S.A.) [Racing - Driving, Simulation].zip
+tdc_id: '7693.8'
+title:
+  box: Microprose Formula One Grand Prix
+publisher: Erbe Software, S.A.
+year: '1993'
+genre:
+- Racing - Driving
+- Simulation
+language: Spanish
+date:
+  added: '2022-02-11T23:08:34'
+  last_modified: '2022-11-21T20:06:19'
+version: '1.05'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/world-circuit
+files:
+- name: F1GP.001
+  size: 1267896
+  date: '1993-04-29T22:29:16'
+  crc: '0xe54e90b2'
+- name: F1GP.002
+  size: 1420455
+  date: '1993-04-29T22:32:12'
+  crc: '0x5f626834'
+- name: F1GP.003
+  size: 1175746
+  date: '1993-04-29T22:34:22'
+  crc: '0x0db23ee3'
+- name: INSTALL.EXE
+  size: 96831
+  date: '1993-04-29T22:27:26'
+  crc: '0x1cf0fdac'
+- name: MPSCOPY.EXE
+  size: 84210
+  date: '1993-04-29T22:27:22'
+  crc: '0x9816d013'
+- name: MPSLABS.IDX
+  size: 5794
+  date: '1993-04-29T22:34:40'
+  crc: '0x1cdbc435'
+- name: README.NOW
+  size: 1388
+  date: '1993-04-29T22:27:28'
+  crc: '0x013e0d53'

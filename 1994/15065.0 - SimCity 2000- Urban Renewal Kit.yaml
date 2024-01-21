@@ -1,0 +1,63 @@
+filename: SimCity 2000- Urban Renewal Kit (Installer) (1994)(Maxis Software Inc.) [Simulation, Strategy, Addon].zip
+tdc_id: '15065.0'
+title:
+  box: 'SimCity 2000: Urban Renewal Kit'
+publisher: Maxis Software Inc.
+year: '1994'
+genre:
+- Simulation
+- Strategy
+- Addon
+language: English
+date:
+  added: '2019-03-02T07:16:02'
+  last_modified: '2019-03-02T07:16:02'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: BOOTDISK.EXE
+  size: 27126
+  date: '1994-12-05T06:00:00'
+  crc: '0xed1f4be6'
+- name: INSTALL.EXE
+  size: 104534
+  date: '1994-04-22T15:43:06'
+  crc: '0x477ebfb5'
+- name: INSTALL.MXS
+  size: 11773
+  date: '1994-12-06T10:33:26'
+  crc: '0x396bc578'
+- name: MAXIS.CIM
+  size: 67557
+  date: '1994-09-02T06:00:00'
+  crc: '0xc3a936aa'
+- name: PCX._
+  size: 28854
+  date: '1994-12-06T10:35:30'
+  crc: '0x11f32c68'
+- name: POSTCARD.CIM
+  size: 15341
+  date: '1994-09-02T06:00:00'
+  crc: '0x0455f154'
+- name: SCURK.TXT
+  size: 19205
+  date: '1994-12-06T10:49:12'
+  crc: '0x7d96b42e'
+- name: SOUND._
+  size: 21708
+  date: '1994-12-06T10:35:26'
+  crc: '0xd533b5e5'
+- name: TILES._
+  size: 317032
+  date: '1994-12-06T10:33:48'
+  crc: '0x5c413b29'
+- name: URK._
+  size: 522490
+  date: '1994-12-06T10:35:26'
+  crc: '0xbad61bcc'
+- name: URKDAT._
+  size: 82802
+  date: '1994-12-06T10:34:48'
+  crc: '0x21f5958d'

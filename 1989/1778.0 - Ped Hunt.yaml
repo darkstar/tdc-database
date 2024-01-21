@@ -1,0 +1,30 @@
+filename: Ped Hunt [SW] (1989)(Ron Gray) [Action].zip
+tdc_id: '1778.0'
+title:
+  screen: Ped Hunt
+publisher: Ron Gray
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:28:38'
+  last_modified: '2019-03-01T18:28:38'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: PED.EXE
+files:
+- name: PED.DAT
+  size: 38
+  date: '1989-11-09T20:57:26'
+  crc: '0x47a1a0ea'
+- name: PED.EXE
+  size: 89774
+  date: '1989-10-28T12:14:04'
+  crc: '0x0d902f46'
+- name: PED.OVL
+  size: 16391
+  date: '1989-03-17T18:51:38'
+  crc: '0x88dc4839'

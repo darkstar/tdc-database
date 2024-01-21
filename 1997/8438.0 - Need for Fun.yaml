@@ -1,0 +1,68 @@
+filename: Need for Fun (1997)(Paradise Studios) [Action, Racing - Driving].zip
+tdc_id: '8438.0'
+title:
+  screen: Need for Fun
+publisher: Paradise Studios
+year: '1997'
+genre:
+- Action
+- Racing - Driving
+language: English
+date:
+  added: '2019-03-02T10:35:58'
+  last_modified: '2019-03-02T10:35:58'
+type: zip
+commands:
+  play: NFF.EXE
+files:
+- name: DATA\
+  size: 0
+  date: '2015-02-19T07:03:36'
+- name: DATA\B_HEAD.NFF
+  size: 3135
+  date: '1997-07-17T11:49:20'
+  crc: '0x154566aa'
+- name: DATA\D_HEAD.NFF
+  size: 8949
+  date: '1997-07-18T18:57:18'
+  crc: '0xc63913e6'
+- name: DATA\FONTE2.PC
+  size: 547
+  date: '1997-07-17T15:28:46'
+  crc: '0x3a650f80'
+- name: DATA\G_HEAD.NFF
+  size: 1168
+  date: '1997-07-14T23:53:26'
+  crc: '0x921c6179'
+- name: DATA\INFOBAR2.PC
+  size: 805
+  date: '1997-07-17T14:24:50'
+  crc: '0xbc75be06'
+- name: DATA\M_HEAD.NFF
+  size: 8770
+  date: '1997-07-18T23:04:50'
+  crc: '0x9c330ec9'
+- name: DATA\P_HEAD.NFF
+  size: 768
+  date: '1997-07-13T20:23:18'
+  crc: '0xc146071e'
+- name: DATA\S_FORMU1.NFF
+  size: 3212
+  date: '1997-07-13T20:23:18'
+  crc: '0xffa86e4c'
+- name: DATA\TIMES.PCX
+  size: 8392
+  date: '1997-07-17T14:04:26'
+  crc: '0x95f2708b'
+- name: DATA\WINBUGS.PCX
+  size: 14658
+  date: '1997-07-18T14:38:02'
+  crc: '0x39c91524'
+- name: NFF.CFG
+  size: 320
+  date: '1997-07-19T02:32:44'
+  crc: '0x291f8307'
+- name: NFF.EXE
+  size: 38871
+  date: '1997-07-18T23:06:26'
+  crc: '0x6c2f5a62'

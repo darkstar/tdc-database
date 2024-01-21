@@ -1,0 +1,31 @@
+filename: Federation Defender v1.01 [FW] (1996)(Richard Hilsden, SORH Software) [Action].zip
+tdc_id: '236.0'
+title:
+  screen: Federation Defender
+publisher: Richard Hilsden, SORH Software
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:03:32'
+  last_modified: '2023-03-13T09:37:50'
+version: '1.01'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: FED-DEF.BAS
+  size: 32751
+  date: '2018-03-10T00:58:12'
+  crc: '0x86c2d17e'
+- name: GO.BAT
+  size: 27
+  date: '2018-03-14T00:52:48'
+  crc: '0xa208c491'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'

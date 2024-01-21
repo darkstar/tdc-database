@@ -1,0 +1,36 @@
+filename: Caverns of Kroz (1989)(Softdisk Publishing) [Action, Adventure].zip
+tdc_id: '5508.0'
+title:
+  box: Caverns of Kroz
+publisher: Softdisk Publishing
+year: '1989'
+genre:
+- Action
+- Adventure
+language: English
+date:
+  added: '2019-03-01T18:27:24'
+  last_modified: '2019-03-01T18:27:24'
+type: zip
+commands:
+  play: CAVERNS.COM
+references:
+  dosid: DOS01301
+  exodos: Caverns of Kroz (1989).zip
+files:
+- name: CAVERNS.000
+  size: 43008
+  date: '1989-07-13T17:01:22'
+  crc: '0xe4efd7fc'
+- name: CAVERNS.COM
+  size: 45770
+  date: '1989-07-13T17:01:34'
+  crc: '0x0b83952b'
+- name: CAVERNS.DAT
+  size: 26
+  date: '1989-05-18T19:48:28'
+  crc: '0xa9f4ea8e'
+- name: CAVERNS.TXT
+  size: 3092
+  date: '1989-07-18T09:07:28'
+  crc: '0xdea59524'

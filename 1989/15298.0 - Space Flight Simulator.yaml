@@ -1,0 +1,71 @@
+filename: Space Flight Simulator v0.01 (Demo) (1989)(Bywater Software) [Simulation].zip
+tdc_id: '15298.0'
+title:
+  screen: Space Flight Simulator
+publisher: Bywater Software
+year: '1989'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:29:00'
+  last_modified: '2019-03-01T18:29:00'
+version: '0.01'
+type: zip
+demo: true
+files:
+- name: EARTH.FD
+  size: 50
+  date: '1989-04-12T15:53:00'
+  crc: '0x7a2f0523'
+- name: EARTH.SD
+  size: 37675
+  date: '1989-04-14T06:55:54'
+  crc: '0xdcbc06dd'
+- name: EARTHB.FD
+  size: 49
+  date: '1989-04-12T21:54:22'
+  crc: '0x5b42539c'
+- name: GO.BAT
+  size: 10
+  date: '1989-04-15T08:33:26'
+  crc: '0x5d49cec7'
+- name: GOH.BAT
+  size: 18
+  date: '1989-04-15T08:33:38'
+  crc: '0x05458a02'
+- name: MARS.FD
+  size: 46
+  date: '1989-04-12T15:53:00'
+  crc: '0xdef7d13b'
+- name: MERCURY.FD
+  size: 53
+  date: '1989-04-12T15:53:00'
+  crc: '0x7e53fc84'
+- name: MSHERC.COM
+  size: 6749
+  date: '1988-10-26T19:37:58'
+  crc: '0x7113e8e8'
+- name: NULL.SD
+  size: 464
+  date: '1989-03-26T14:54:08'
+  crc: '0x25508df9'
+- name: READ.ME
+  size: 6510
+  date: '1989-05-15T14:03:00'
+  crc: '0x6833d465'
+- name: SFS.EXE
+  size: 87340
+  date: '1989-05-11T17:32:30'
+  crc: '0x8b3b6715'
+- name: SFSV.EXE
+  size: 87830
+  date: '1989-05-11T17:18:42'
+  crc: '0x4480a57d'
+- name: TMSRB.FON
+  size: 45936
+  date: '1987-11-12T13:27:48'
+  crc: '0x3518f506'
+- name: VENUS.FD
+  size: 52
+  date: '1989-04-12T15:53:00'
+  crc: '0x2e4cb348'

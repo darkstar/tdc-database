@@ -1,0 +1,70 @@
+filename: UMoria v5.2.2 (1990)(Yue-loong Chang) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '2115.0'
+title:
+  screen: UMoria
+publisher: Yue-loong Chang
+year: '1990'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:34:24'
+  last_modified: '2019-03-01T18:34:24'
+version: 5.2.2
+type: zip
+commands:
+  play: PCMORIA.EXE
+files:
+- name: HISTORY
+  size: 2721
+  date: '1990-10-24T23:02:50'
+  crc: '0x8abab243'
+- name: MORIA.CNF
+  size: 2488
+  date: '1990-10-31T23:19:28'
+  crc: '0x729c1c37'
+- name: MORIA.SCR
+  size: 1463
+  date: '1992-06-07T00:41:42'
+  crc: '0x1e95fe0a'
+- name: MORIA1.TXT
+  size: 50546
+  date: '1990-05-08T06:38:26'
+  crc: '0xb94607fd'
+- name: MORIA2.TXT
+  size: 57252
+  date: '1990-05-08T06:38:54'
+  crc: '0x4b3d96d0'
+- name: ORIGCMDS.HLP
+  size: 2711
+  date: '1990-11-01T13:07:56'
+  crc: '0xd6094882'
+- name: OWIZCMDS.HLP
+  size: 376
+  date: '1990-10-24T23:03:28'
+  crc: '0xd99dfb04'
+- name: PCMORIA.EXE
+  size: 442161
+  date: '1990-11-01T13:16:52'
+  crc: '0xa9d284d7'
+- name: README.TXT
+  size: 134
+  date: '1990-11-01T15:04:20'
+  crc: '0x52a5bc5c'
+- name: ROGLCMDS.HLP
+  size: 2956
+  date: '1990-11-01T12:51:54'
+  crc: '0x771fa61a'
+- name: VERSION.HLP
+  size: 1529
+  date: '1990-11-01T12:42:04'
+  crc: '0xa675c3af'
+- name: VERSIONS.INF
+  size: 4296
+  date: '1990-10-24T23:02:42'
+  crc: '0x0179c233'
+- name: WELCOME.HLP
+  size: 409
+  date: '1990-10-24T23:03:50'
+  crc: '0x57d7b801'

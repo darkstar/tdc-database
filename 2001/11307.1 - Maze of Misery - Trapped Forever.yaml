@@ -1,0 +1,33 @@
+filename: Maze of Misery - Trapped Forever v2.1 (2001)(Steve Morrow) [Action].zip
+tdc_id: '11307.1'
+title:
+  screen: Maze of Misery - Trapped Forever
+publisher: Steve Morrow
+year: '2001'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:55:30'
+  last_modified: '2019-03-02T10:55:30'
+version: '2.1'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 26
+  date: '2018-12-01T16:18:46'
+  crc: '0xfad196a3'
+- name: MZUPD2.BAS
+  size: 67031
+  date: '1998-01-04T00:01:36'
+  crc: '0x2df5a464'
+- name: MZVER2.BMP
+  size: 921654
+  date: '1997-12-10T00:00:00'
+  crc: '0xe55c4534'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

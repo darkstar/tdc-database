@@ -1,0 +1,143 @@
+filename: Bubble Bobble v1.01 (1989)(Taito Corporation) [Action].zip
+tdc_id: '8872.0'
+title:
+  box: Bubble Bobble
+publisher: Taito Corporation
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:27:22'
+  last_modified: '2019-03-01T18:27:22'
+version: '1.01'
+type: zip
+commands:
+  play: BUBBLE.EXE
+references:
+  dosid: DOS01194
+  exodos: Bubble Bobble (1988).zip
+files:
+- name: ABUBBLE.MCF
+  size: 13508
+  date: '1989-10-24T17:18:54'
+  crc: '0x1900c13b'
+- name: AIRBLOCK.CF
+  size: 225
+  date: '1989-11-30T10:02:26'
+  crc: '0x7f3c5fcf'
+- name: AIRFLOW.CF
+  size: 1728
+  date: '1989-04-25T14:20:56'
+  crc: '0xe0db71cb'
+- name: ARCADE.TCF
+  size: 9548
+  date: '1989-08-11T16:59:32'
+  crc: '0x5900ca3c'
+- name: ATTRACT0.DCF
+  size: 365
+  date: '1989-12-01T12:46:54'
+  crc: '0x1ad4b164'
+- name: ATTRACT1.DCF
+  size: 150
+  date: '1989-12-01T12:47:06'
+  crc: '0x5f68ecd7'
+- name: ATTRACT2.DCF
+  size: 74
+  date: '1989-12-01T12:47:20'
+  crc: '0x07802486'
+- name: ATTRACT3.DCF
+  size: 179
+  date: '1989-12-01T12:47:30'
+  crc: '0x5dac4c3d'
+- name: ATTRACT4.DCF
+  size: 203
+  date: '1989-12-01T12:47:58'
+  crc: '0x3e66c65f'
+- name: ATTRACT5.DCF
+  size: 200
+  date: '1989-12-01T12:48:12'
+  crc: '0x1cc9b3c8'
+- name: ATTRACT6.DCF
+  size: 281
+  date: '1989-12-01T12:48:28'
+  crc: '0x97b2908e'
+- name: ATTRACT7.DCF
+  size: 187
+  date: '1989-12-01T12:48:48'
+  crc: '0x5502e978'
+- name: ATTRACT8.DCF
+  size: 383
+  date: '1989-12-01T12:49:00'
+  crc: '0x0d326384'
+- name: ATTRACT9.DCF
+  size: 192
+  date: '1989-12-01T12:49:12'
+  crc: '0x697e1616'
+- name: BBLOCKS.CCF
+  size: 5231
+  date: '1989-11-16T11:05:56'
+  crc: '0x836c4c23'
+- name: BBLOCKS.TCF
+  size: 6079
+  date: '1989-11-02T12:37:22'
+  crc: '0x90a9316e'
+- name: BBUBBLE.MCF
+  size: 13908
+  date: '1989-10-24T17:19:06'
+  crc: '0x421eca02'
+- name: BDATA.CF
+  size: 7132
+  date: '1989-04-25T14:48:24'
+  crc: '0x2a7d72f8'
+- name: BUBBLE.EXE
+  size: 18908
+  date: '1990-01-15T13:42:30'
+  crc: '0xddc8033d'
+- name: BUBBOB.DAT
+  size: 71538
+  date: '1989-12-29T14:09:30'
+  crc: '0x22d8ad60'
+- name: EXTEND.CCF
+  size: 8534
+  date: '1989-11-16T10:50:32'
+  crc: '0xeb6b10f3'
+- name: EXTEND.TCF
+  size: 10041
+  date: '1989-10-01T16:29:10'
+  crc: '0xd2990249'
+- name: IBUBBLE.MCF
+  size: 9362
+  date: '1989-10-24T17:18:50'
+  crc: '0xd1fa017d'
+- name: SECRET.CCF
+  size: 2750
+  date: '1989-11-09T11:53:50'
+  crc: '0xd30e91f8'
+- name: SECRET.TCF
+  size: 5267
+  date: '1989-10-01T16:23:12'
+  crc: '0x0d9ae1b0'
+- name: SPRITES.CCF
+  size: 45910
+  date: '1989-11-21T11:30:34'
+  crc: '0xf7b47638'
+- name: SPRITES.ECF
+  size: 102957
+  date: '1989-11-20T01:46:06'
+  crc: '0xc8386161'
+- name: SPRITES.TCF
+  size: 37723
+  date: '1989-11-20T01:46:40'
+  crc: '0x9bd5ecd0'
+- name: TITLEPIC.CCF
+  size: 5344
+  date: '1989-11-21T11:18:04'
+  crc: '0x823addc1'
+- name: TITLEPIC.TCF
+  size: 6447
+  date: '1989-11-02T16:44:54'
+  crc: '0x08e8e546'
+- name: YBUBBLE.MCF
+  size: 11367
+  date: '1989-10-24T17:19:00'
+  crc: '0xbb657749'

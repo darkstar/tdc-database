@@ -1,0 +1,68 @@
+filename: Solus (1988)(Matt Gruson) [Adventure, Interactive Fiction].zip
+tdc_id: '1590.0'
+title:
+  screen: Solus
+publisher: Matt Gruson
+year: '1988'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:26:46'
+  last_modified: '2019-03-01T18:26:46'
+type: zip
+commands:
+  play: SOLUS.COM
+references:
+  dosid: DOS07494
+  exodos: Solus (1988).zip
+files:
+- name: HINTLIST.SOL
+  size: 9350
+  date: '1988-01-18T03:51:32'
+  crc: '0x98540ee9'
+- name: README.NOW
+  size: 401
+  date: '1987-01-10T00:25:14'
+  crc: '0xe220ec5d'
+- name: ROOMDESC.SOL
+  size: 47952
+  date: '1987-01-15T01:06:08'
+  crc: '0xd8102405'
+- name: ROOMIX.SOL
+  size: 604
+  date: '1987-01-15T01:06:08'
+  crc: '0xf4b52609'
+- name: SAVES.SOL
+  size: 1350
+  date: '1987-01-10T00:44:38'
+  crc: '0xa8b02aeb'
+- name: SOLUS.000
+  size: 6912
+  date: '1987-01-10T00:13:14'
+  crc: '0x0465f509'
+- name: SOLUS.001
+  size: 4864
+  date: '1987-01-10T00:13:28'
+  crc: '0x734b5b2a'
+- name: SOLUS.002
+  size: 7936
+  date: '1987-01-10T00:13:38'
+  crc: '0x0ab72ab4'
+- name: SOLUS.003
+  size: 7168
+  date: '1987-01-10T00:13:50'
+  crc: '0x13e6d3db'
+- name: SOLUS.004
+  size: 143360
+  date: '1987-01-10T00:16:44'
+  crc: '0x0a04dda7'
+- name: SOLUS.COM
+  size: 40274
+  date: '1987-01-10T00:16:48'
+  crc: '0xdfe3a95e'
+- name: VOCAB.SOL
+  size: 8336
+  date: '1987-01-15T01:06:24'
+  crc: '0x3b4ab3dc'

@@ -1,0 +1,40 @@
+filename: PC-Logo Time for Kids- The Jagaranda Clock v2.01 (1993)(Demetris Loizos) [Educational].zip
+tdc_id: '17149.0'
+title:
+  screen: 'PC-Logo Time for Kids: The Jagaranda Clock'
+publisher: Demetris Loizos
+year: '1993'
+genre: Educational
+language: English
+date:
+  added: '2022-12-07T13:36:48'
+  last_modified: '2022-12-07T13:36:48'
+version: '2.01'
+type: zip
+commands:
+  play: Logo.com
+files:
+- name: Cgaclock.lgo
+  size: 3840
+  date: '2022-09-24T05:34:50'
+  crc: '0xaced5b56'
+- name: Init - Copy.lgo
+  size: 132
+  date: '2022-09-24T06:00:26'
+  crc: '0xe5aca66c'
+- name: Init.lgo
+  size: 132
+  date: '2022-09-24T06:00:26'
+  crc: '0xe5aca66c'
+- name: Instructions.txt
+  size: 301
+  date: '2022-09-24T05:34:50'
+  crc: '0x46974601'
+- name: Logo.com
+  size: 56184
+  date: '2022-09-24T05:34:50'
+  crc: '0xd9fc86d8'
+- name: Prntfile.lgo
+  size: 1408
+  date: '2022-09-24T05:34:50'
+  crc: '0xbc560b64'

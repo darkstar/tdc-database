@@ -1,0 +1,68 @@
+filename: Iron Cross (Installer) (1994)(New World Computing, Inc.) [Strategy].zip
+tdc_id: '11555.1'
+title:
+  box: Iron Cross
+publisher: New World Computing, Inc.
+year: '1994'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T22:00:56'
+  last_modified: '2019-03-01T22:00:56'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: IC.105
+  size: 1040387
+  date: '1994-09-18T12:24:34'
+  crc: '0x7d1f512c'
+- name: IC.A01
+  size: 1456400
+  date: '1994-09-18T12:23:54'
+  crc: '0x8ce16e8f'
+- name: IC.A02
+  size: 1456400
+  date: '1994-09-18T12:24:02'
+  crc: '0x4c36d265'
+- name: IC.A03
+  size: 1456400
+  date: '1994-09-18T12:24:10'
+  crc: '0xa18b36ad'
+- name: IC.A04
+  size: 1456294
+  date: '1994-09-18T12:24:20'
+  crc: '0xe61d7b5b'
+- name: IC.ARJ
+  size: 1244353
+  date: '1994-09-18T12:23:46'
+  crc: '0x44c9bd92'
+- name: INSTALL.EXE
+  size: 211008
+  date: '1994-09-17T16:32:26'
+  crc: '0xd58057f4'
+- name: IRONCRS1.FBL
+  size: 1206
+  date: '1994-09-19T20:15:38'
+  crc: '0x3b8bf5f9'
+- name: IRONCRS1.VAK
+  size: 886
+  date: '1994-09-19T20:17:02'
+  crc: '0xb80ee4fb'
+- name: IRONCRS2.TOR
+  size: 886
+  date: '1994-09-19T20:17:02'
+  crc: '0xb80ee4fb'
+- name: IRONCRS4.RCI
+  size: 886
+  date: '1994-09-19T20:17:02'
+  crc: '0xb80ee4fb'
+- name: IRONCRS4.SIW
+  size: 1206
+  date: '1994-09-19T20:15:38'
+  crc: '0x3b8bf5f9'
+- name: IRONCRS5.CLA
+  size: 886
+  date: '1994-09-19T20:17:02'
+  crc: '0xb80ee4fb'

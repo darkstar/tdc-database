@@ -1,0 +1,29 @@
+filename: Beyond Castle Wolfenstein [DC] (1985)(Muse Software) [Action].zip
+tdc_id: '12574.0'
+parent_id: '12574.2'
+title:
+  box: Beyond Castle Wolfenstein
+publisher: Muse Software
+year: '1985'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:22'
+  last_modified: '2019-03-01T18:24:22'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: Bcw.com
+references:
+  dosid: DOS05839
+  exodos: Beyond Castle Wolfenstein (1985).zip
+files:
+- name: Bcw.com
+  size: 469
+  date: '2001-01-20T21:26:44'
+  crc: '0x586f59d6'
+- name: Game.dat
+  size: 368640
+  date: '2001-01-20T21:25:52'
+  crc: '0xfd925788'

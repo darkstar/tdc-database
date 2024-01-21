@@ -1,0 +1,74 @@
+filename: Marble Fighter (1995)(Al Stevens, Stan Trujillo) [Action].zip
+tdc_id: '3626.0'
+title:
+  screen: Marble Fighter
+publisher: Al Stevens, Stan Trujillo
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T08:57:08'
+  last_modified: '2019-03-02T08:57:08'
+type: zip
+commands:
+  play: MFIGHTER.EXE
+references:
+  dosid: DOS15608
+  exodos: Marble Fighter (1995).zip
+files:
+- name: CARDS.GFX
+  size: 22594
+  date: '1995-05-16T18:54:04'
+  crc: '0x01e3a13c'
+- name: FLOOR.PCX
+  size: 53891
+  date: '1995-05-16T18:51:26'
+  crc: '0x8e944d57'
+- name: FONT.GFX
+  size: 2903
+  date: '1995-01-30T02:32:02'
+  crc: '0xcd041be3'
+- name: HELP.PCX
+  size: 85638
+  date: '1995-08-18T22:26:00'
+  crc: '0x7fb117d5'
+- name: INTRO.PCX
+  size: 104243
+  date: '1995-05-16T18:51:16'
+  crc: '0x3dad75b8'
+- name: LFIGHT.GFX
+  size: 61570
+  date: '1995-05-16T18:52:42'
+  crc: '0xf97b70ac'
+- name: MENU.GFX
+  size: 72098
+  date: '1995-05-16T18:55:14'
+  crc: '0xe33e2e7b'
+- name: MENU.PCX
+  size: 64150
+  date: '1995-05-16T18:54:32'
+  crc: '0x5b4fcd60'
+- name: MFIGHTER.EXE
+  size: 174062
+  date: '1995-08-18T21:46:16'
+  crc: '0x97c3ef85'
+- name: README.TXT
+  size: 607
+  date: '1995-08-23T16:42:24'
+  crc: '0x4a3d5095'
+- name: RFIGHT.GFX
+  size: 61570
+  date: '1995-05-16T18:53:46'
+  crc: '0xad972a9a'
+- name: SOUND.TXT
+  size: 1018
+  date: '1995-08-23T16:12:46'
+  crc: '0x65c87e4a'
+- name: SOUNDS.SFX
+  size: 17972
+  date: '1995-05-16T18:51:04'
+  crc: '0x4adf6699'
+- name: TRAILER.PCX
+  size: 63031
+  date: '1995-07-21T09:30:44'
+  crc: '0x29c8e879'

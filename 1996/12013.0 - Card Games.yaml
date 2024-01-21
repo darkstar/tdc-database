@@ -1,0 +1,64 @@
+filename: Card Games (1996)(Eric Davidson) [Strategy, Cards, Compilation].zip
+tdc_id: '12013.0'
+title:
+  screen: Card Games
+publisher: Eric Davidson
+year: '1996'
+genre:
+- Strategy
+- Cards
+- Compilation
+language: English
+date:
+  added: '2019-03-02T10:01:38'
+  last_modified: '2019-03-02T10:01:38'
+type: zip
+media: Download
+compilation: true
+commands:
+  play: GO.BAT
+files:
+- name: CARDS.BAS
+  size: 30928
+  date: '1996-12-07T16:10:26'
+  crc: '0xbf980860'
+- name: CARDTXT.EXE
+  size: 41486
+  date: '1997-04-12T01:20:40'
+  crc: '0x605a64c8'
+- name: CLUB
+  size: 2112
+  date: '1996-09-28T18:32:16'
+  crc: '0x01d09b85'
+- name: DIAMOND
+  size: 2112
+  date: '1996-09-28T17:41:12'
+  crc: '0xb16a273b'
+- name: GO.BAT
+  size: 25
+  date: '2018-11-20T11:25:06'
+  crc: '0x34648bfd'
+- name: HEART
+  size: 2112
+  date: '1996-09-28T17:39:38'
+  crc: '0xddf0b564'
+- name: JOKER
+  size: 2112
+  date: '1996-09-28T18:53:04'
+  crc: '0xd41fdefb'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'
+- name: SMALL.TXT
+  size: 1909
+  date: '1996-09-06T11:03:16'
+  crc: '0x70143647'
+- name: SPADE
+  size: 2112
+  date: '1996-09-28T18:42:02'
+  crc: '0xd763ed30'
+- name: TOP
+  size: 2200
+  date: '1996-09-29T09:26:18'
+  crc: '0x00b345d3'

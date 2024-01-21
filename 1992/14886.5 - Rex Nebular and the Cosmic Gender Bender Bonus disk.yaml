@@ -1,0 +1,42 @@
+filename: Rex Nebular and the Cosmic Gender Bender Bonus disk (Installer) (1992)(MicroProse Software, Inc.) [Adventure, Addon][!].zip
+tdc_id: '14886.5'
+title:
+  box: Rex Nebular and the Cosmic Gender Bender Bonus disk
+publisher: MicroProse Software, Inc.
+year: '1992'
+genre:
+- Adventure
+- Addon
+language: English
+date:
+  added: '2023-01-28T18:20:33'
+  last_modified: '2023-01-28T18:20:33'
+type: zip
+tags:
+- KnownGood
+installer: true
+commands:
+  play: INSTALLB.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/rex-nebular-and-the-cosmic-gender-bender
+files:
+- name: BONUS.TXT
+  size: 7280
+  date: '1992-09-30T08:57:12'
+  crc: '0x67059902'
+- name: INSTALLB.EXE
+  size: 100991
+  date: '1992-09-30T08:57:08'
+  crc: '0xe97a505c'
+- name: MPSCOPY.EXE
+  size: 31267
+  date: '1992-09-30T08:57:10'
+  crc: '0x9fffe8a3'
+- name: MPSLABS.IDX
+  size: 600
+  date: '1992-09-30T08:57:44'
+  crc: '0x5905fc7d'
+- name: NEBULAR.001
+  size: 305468
+  date: '1992-09-30T08:57:44'
+  crc: '0x76d0fc08'

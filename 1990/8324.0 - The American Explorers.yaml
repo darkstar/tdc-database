@@ -1,0 +1,48 @@
+filename: American Explorers, The v1.4 (Installer) [SW] (1990)(Hubbard C. Goodrich) [Educational].zip
+tdc_id: '8324.0'
+title:
+  screen: The American Explorers
+publisher: Hubbard C. Goodrich
+year: '1990'
+genre: Educational
+language: English
+date:
+  added: '2022-01-29T00:18:46'
+  last_modified: '2023-01-12T17:26:50'
+version: '1.4'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: E_INSTAL.BAT
+files:
+- name: EXPL_A.EXE
+  size: 93115
+  date: '1990-01-30T13:55:00'
+  crc: '0xdc3cc7c1'
+- name: EXPL_B.EXE
+  size: 139109
+  date: '1989-09-13T11:19:42'
+  crc: '0x83ead935'
+- name: E_INSTAL.BAT
+  size: 6167
+  date: '1990-02-22T15:59:24'
+  crc: '0xe90fc6b6'
+- name: E_README.1ST
+  size: 2420
+  date: '1990-02-22T16:03:04'
+  crc: '0xf62d126a'
+- name: FILE2298.TXT
+  size: 2887
+  date: '1990-07-18T14:42:06'
+  crc: '0x564ca83b'
+- name: GO.BAT
+  size: 40
+  date: '1980-01-01T06:00:08'
+  crc: '0x75d72756'
+- name: GO.TXT
+  size: 665
+  date: '1990-07-18T06:22:36'
+  crc: '0xe3516537'

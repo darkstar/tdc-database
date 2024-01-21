@@ -1,0 +1,32 @@
+filename: Pong v2.7 (2000)(LordNick Software) [Action].zip
+tdc_id: '4620.0'
+title:
+  screen: Pong
+publisher: LordNick Software
+year: '2000'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:54:58'
+  last_modified: '2019-03-02T10:54:58'
+version: '2.7'
+type: zip
+commands:
+  play: Pong.exe
+files:
+- name: EGAVGA.BGI
+  size: 5554
+  date: '1990-05-04T01:00:00'
+  crc: '0x116c5498'
+- name: Pong.exe
+  size: 75213
+  date: '2000-02-02T20:29:28'
+  crc: '0x29890ad3'
+- name: REG.TXT
+  size: 13
+  date: '2000-02-02T20:30:52'
+  crc: '0x4012b954'
+- name: Readme.txt
+  size: 4226
+  date: '2000-02-02T21:15:26'
+  crc: '0x032b31a7'

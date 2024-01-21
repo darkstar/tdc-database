@@ -1,0 +1,47 @@
+filename: SSEChess v3.3 (1996)(Sam Slutzky) [Strategy, Chess].zip
+tdc_id: '447.0'
+title:
+  screen: SSEChess
+publisher: Sam Slutzky
+year: '1996'
+genre:
+- Strategy
+- Chess
+language: English
+date:
+  added: '2012-03-24T13:11:38'
+  last_modified: '2012-03-24T13:11:38'
+version: '3.3'
+type: zip
+media: Download
+commands:
+  play: SSECHESS.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 86
+  date: '1996-06-30T20:43:44'
+  crc: '0xaa0c532b'
+- name: GAMENUM.TXT
+  size: 3
+  date: '1996-06-01T19:57:44'
+  crc: '0x8e51abd1'
+- name: OPENINDX.DAT
+  size: 1136
+  date: '1995-06-29T13:37:48'
+  crc: '0xdf27be8a'
+- name: OPENLIB.DAT
+  size: 85295
+  date: '1995-06-29T13:37:48'
+  crc: '0xc87dc6db'
+- name: SERVER.CFG
+  size: 430
+  date: '1996-06-01T21:40:04'
+  crc: '0x2a87b198'
+- name: SSECHESS.DOC
+  size: 10556
+  date: '1996-06-02T15:39:06'
+  crc: '0x8246600e'
+- name: SSECHESS.EXE
+  size: 94400
+  date: '1996-06-03T17:39:14'
+  crc: '0x4a50be94'

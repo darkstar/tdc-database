@@ -1,0 +1,30 @@
+filename: Return to Doom (1988)(Topologika Software Ltd.) [Adventure].zip
+tdc_id: '14860.0'
+title:
+  box: Return to Doom
+publisher: Topologika Software Ltd.
+year: '1988'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:26:42'
+  last_modified: '2019-03-01T18:26:42'
+type: zip
+commands:
+  play: RETURN.COM
+references:
+  dosid: DOS06051
+  exodos: Return to Doom (1988).zip
+files:
+- name: RETURN.COM
+  size: 10240
+  date: '1988-03-20T15:28:24'
+  crc: '0x2089b499'
+- name: RETURN.DAT
+  size: 95232
+  date: '1988-03-06T17:04:28'
+  crc: '0x40c50d5b'
+- name: RETURN.DYN
+  size: 2048
+  date: '1988-03-06T17:04:28'
+  crc: '0x3087d465'

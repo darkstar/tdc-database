@@ -1,0 +1,41 @@
+filename: Tetris (1997)(Ader Software) [Action, Strategy].zip
+tdc_id: '16575.0'
+title:
+  screen: Tetris
+publisher: Ader Software
+year: '1997'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-02T10:38:18'
+  last_modified: '2019-03-02T10:38:18'
+type: zip
+commands:
+  play: Tetris.exe
+files:
+- name: CWSDPMI.EXE
+  size: 21325
+  date: '2010-01-07T23:06:10'
+  crc: '0xa18c506d'
+- name: Tdat.dat
+  size: 54769
+  date: '1997-01-28T22:00:24'
+  crc: '0x7dc5275c'
+- name: Tdat.h
+  size: 1292
+  date: '1997-01-28T20:19:50'
+  crc: '0x8ee7baf3'
+- name: Tetris.exe
+  size: 185856
+  date: '1997-01-30T23:44:58'
+  crc: '0x1fce8337'
+- name: Tetris2.cc
+  size: 21974
+  date: '1997-01-30T23:44:42'
+  crc: '0xa7d912cf'
+- name: readme.txt
+  size: 1167
+  date: '1997-01-29T19:10:40'
+  crc: '0xa5709534'

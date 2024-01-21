@@ -1,0 +1,51 @@
+filename: Ms. Piggy Bank (Installer) [SW] (1994)(KidStuff Software) [Educational].zip
+tdc_id: '7930.0'
+title:
+  screen: Ms. Piggy Bank
+publisher: KidStuff Software
+year: '1994'
+genre: Educational
+language: English
+date:
+  added: '2019-01-27T04:24:50'
+  last_modified: '2019-01-27T04:24:50'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 168
+  date: '1994-01-20T01:00:04'
+  crc: '0x4bd2ace3'
+- name: INSTALL.EXE
+  size: 51856
+  date: '1994-01-20T01:00:04'
+  crc: '0x73c99e83'
+- name: MSPIG10.PCX
+  size: 84671
+  date: '1994-01-20T01:00:04'
+  crc: '0xfedd2b3d'
+- name: MSPIG10.SI
+  size: 112
+  date: '1994-01-20T01:00:38'
+  crc: '0x46139da6'
+- name: MSPIG10.~~1
+  size: 200000
+  date: '1994-01-20T01:00:30'
+  crc: '0x7e9a8a08'
+- name: MSPIG10.~~2
+  size: 320000
+  date: '1994-01-20T01:00:34'
+  crc: '0x3cdfbc73'
+- name: MSPIG10.~~3
+  size: 290403
+  date: '1994-01-20T01:00:38'
+  crc: '0xf9385098'
+- name: VENDOR.DOC
+  size: 4976
+  date: '1994-01-20T01:00:04'
+  crc: '0x23d12b19'

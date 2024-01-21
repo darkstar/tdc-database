@@ -1,0 +1,30 @@
+filename: DJ Puff's Volcanic Capers (1992)(Codemasters Software Company Limited, The) [Action].zip
+tdc_id: '6640.0'
+title:
+  box: DJ Puff's Volcanic Capers
+publisher: Codemasters Software Company Limited, The
+year: '1992'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:42:26'
+  last_modified: '2019-03-01T18:42:26'
+type: zip
+commands:
+  play: DJ.EXE
+references:
+  dosid: DOS01817
+  exodos: DJ Puff's Volcanic Capers (1992).zip
+files:
+- name: ADLIB.BIN
+  size: 6191
+  date: '2004-10-26T07:19:12'
+  crc: '0x688fadc4'
+- name: BEEPER.BIN
+  size: 2747
+  date: '2004-10-26T07:19:12'
+  crc: '0x8d709b8c'
+- name: DJ.EXE
+  size: 171984
+  date: '2004-10-26T07:19:12'
+  crc: '0x9f6bad09'

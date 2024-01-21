@@ -1,0 +1,28 @@
+filename: Commander Keen in Goodbye, Galaxy!- Episode IV to Episode V v1.4 EGA (Installer) [a2] (1992)(Apogee Software, Ltd.) [Compilation].zip
+tdc_id: '9334.3'
+title:
+  screen: 'Commander Keen in Goodbye, Galaxy!: Episode IV to Episode V'
+publisher: Apogee Software, Ltd.
+year: '1992'
+genre: Compilation
+language: English
+date:
+  added: '2019-03-01T18:41:54'
+  last_modified: '2019-03-01T18:41:54'
+version: '1.4'
+type: zip
+tags:
+- Alternate: 2
+installer: true
+compilation: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: GGR14.SHR
+  size: 1245864
+  date: '1998-07-24T13:21:32'
+  crc: '0xf10858d9'
+- name: INSTALL.EXE
+  size: 142275
+  date: '1998-07-24T13:23:38'
+  crc: '0x8af7c27e'

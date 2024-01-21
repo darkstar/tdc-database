@@ -1,0 +1,29 @@
+filename: TinyTris v1.6 (2004)(Ben Hanke) [Action, Strategy].zip
+tdc_id: '16751.0'
+title:
+  screen: TinyTris
+publisher: Ben Hanke
+year: '2004'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-02T10:57:00'
+  last_modified: '2019-03-02T10:57:00'
+version: '1.6'
+type: zip
+commands:
+  play: tinytris.com
+references:
+  dosid: DOS07121
+  exodos: TinyTris (2004).zip
+files:
+- name: readme.txt
+  size: 506
+  date: '2009-02-04T22:05:26'
+  crc: '0x4258c23c'
+- name: tinytris.com
+  size: 2384
+  date: '2009-02-04T21:58:16'
+  crc: '0xa22c08b0'

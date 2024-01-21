@@ -1,0 +1,34 @@
+filename: Laser Balls [FW] (2002)(Marco Chiesi) [Action].zip
+tdc_id: '6283.0'
+title:
+  screen: Laser Balls
+publisher: Marco Chiesi
+year: '2002'
+genre: Action
+language: English
+date:
+  added: '2021-10-24T09:02:00'
+  last_modified: '2021-10-24T09:02:00'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: laser.exe
+files:
+- name: cpu.lb
+  size: 108
+  date: '2002-04-15T13:54:32'
+  crc: '0xee3c3519'
+- name: laser.exe
+  size: 238352
+  date: '2002-04-15T15:44:44'
+  crc: '0xa585d28b'
+- name: laserbal.dat
+  size: 132077
+  date: '2002-04-14T21:34:32'
+  crc: '0xbcee2126'
+- name: readme.txt
+  size: 2980
+  date: '2002-04-15T15:43:40'
+  crc: '0xb41c4cc6'

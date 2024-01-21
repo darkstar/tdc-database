@@ -1,0 +1,48 @@
+filename: LHX- Attack Chopper (demo) (1990)(Electronic Arts, Inc.) [Action, Simulation].zip
+tdc_id: '6382.1'
+parent_id: '6382.4'
+title:
+  screen: 'LHX: Attack Chopper'
+  qualifier: demo
+publisher: Electronic Arts, Inc.
+year: '1990'
+genre:
+- Action
+- Simulation
+language: English
+date:
+  added: '2019-03-01T18:33:06'
+  last_modified: '2019-03-01T18:33:06'
+type: zip
+demo: true
+commands:
+  play: LHX.EXE
+files:
+- name: LHX.EXE
+  size: 268937
+  date: '1990-03-30T16:07:30'
+  crc: '0xd8f84701'
+- name: LHX0.LIB
+  size: 15985
+  date: '1990-03-20T10:51:02'
+  crc: '0x5ae35a89'
+- name: LHX1.LIB
+  size: 15821
+  date: '1990-03-20T10:51:22'
+  crc: '0x58167377'
+- name: LHX2.LIB
+  size: 9359
+  date: '1990-03-20T10:51:26'
+  crc: '0x603d96b9'
+- name: LHX3.LIB
+  size: 11749
+  date: '1990-03-20T10:51:32'
+  crc: '0xbc2ec50e'
+- name: LHX4.LIB
+  size: 21270
+  date: '1990-03-19T17:53:42'
+  crc: '0x109b1d1a'
+- name: LHXDEMO.TXT
+  size: 9266
+  date: '1990-09-07T10:18:36'
+  crc: '0x96c76e62'

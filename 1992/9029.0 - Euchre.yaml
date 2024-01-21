@@ -1,0 +1,37 @@
+filename: Euchre v1.1 [SW] (1992)(Scott Abdey) [Strategy, Cards].zip
+tdc_id: '9029.0'
+title:
+  screen: Euchre
+publisher: Scott Abdey
+year: '1992'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:44:40'
+  last_modified: '2019-03-01T18:44:40'
+version: '1.1'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: euchre.exe
+files:
+- name: catalog.txt
+  size: 1520
+  date: '1999-12-31T19:00:00'
+  crc: '0x1059a918'
+- name: euchre.cfg
+  size: 18
+  date: '1999-12-31T19:00:00'
+  crc: '0xbaf4277d'
+- name: euchre.doc
+  size: 8244
+  date: '1999-12-31T19:00:00'
+  crc: '0xbecd6737'
+- name: euchre.exe
+  size: 84140
+  date: '1999-12-31T19:00:00'
+  crc: '0xe4a2a443'

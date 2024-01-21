@@ -1,0 +1,53 @@
+filename: Spectre VR v1.07wp (Installer) (1995)(Encore Software) [Action, Racing - Driving].zip
+tdc_id: '15346.5'
+title:
+  box: Spectre VR
+publisher: Encore Software
+year: '1995'
+genre:
+- Action
+- Racing - Driving
+language: English
+date:
+  added: '2022-11-22T13:30:17'
+  last_modified: '2022-11-22T13:30:17'
+version: 1.07wp
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/spectre-vr
+files:
+- name: INSTALL.CFG
+  size: 1368
+  date: '1995-01-09T11:07:00'
+  crc: '0xd5a2dd4a'
+- name: INSTALL.EXE
+  size: 57238
+  date: '1994-07-20T02:09:00'
+  crc: '0xc053fd5d'
+- name: SVR.TXT
+  size: 13011
+  date: '1995-01-09T11:10:50'
+  crc: '0x478e9f9d'
+- name: _ATA.SHR
+  size: 166897
+  date: '1994-12-15T19:50:44'
+  crc: '0xcd0a07f3'
+- name: _EXTURES.SHR
+  size: 28416
+  date: '1994-12-15T19:52:24'
+  crc: '0xe311947d'
+- name: _OUNDS.SHR
+  size: 737333
+  date: '1994-12-15T19:53:26'
+  crc: '0x01c32f5d'
+- name: _OVIES.SHR
+  size: 1847622
+  date: '1995-01-07T21:14:02'
+  crc: '0x57999dd0'
+- name: _ROGRAM.SHR
+  size: 1047297
+  date: '1994-12-15T19:50:02'
+  crc: '0x2135d6a9'

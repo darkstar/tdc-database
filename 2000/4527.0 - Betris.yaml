@@ -1,0 +1,31 @@
+filename: Betris v0.6 (2000)(Mike Beight) [Action, Strategy].zip
+tdc_id: '4527.0'
+title:
+  screen: Betris
+publisher: Mike Beight
+year: '2000'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-02T10:54:36'
+  last_modified: '2019-03-02T10:54:36'
+version: '0.6'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: BETRIS.BAS
+  size: 34414
+  date: '2018-12-13T16:16:12'
+  crc: '0xa40381f7'
+- name: GO.BAT
+  size: 26
+  date: '2018-12-13T16:17:44'
+  crc: '0x3b5a1c1a'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

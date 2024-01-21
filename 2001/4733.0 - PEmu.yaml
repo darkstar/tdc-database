@@ -1,0 +1,23 @@
+filename: PEmu (2001)(Jozsef Laszlo) [Action].zip
+tdc_id: '4733.0'
+title:
+  screen: PEmu
+publisher: Jozsef Laszlo
+year: '2001'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:55:38'
+  last_modified: '2019-03-02T10:55:38'
+type: zip
+commands:
+  play: PONG.EXE
+files:
+- name: PONG.EXE
+  size: 8832
+  date: '2001-09-26T11:25:30'
+  crc: '0x4b9fa16b'
+- name: readme.txt
+  size: 382
+  date: '2001-09-26T14:47:12'
+  crc: '0x713bba34'

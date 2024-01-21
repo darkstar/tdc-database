@@ -1,0 +1,28 @@
+filename: Backgammon (1987)(Mark Geer) [Strategy, Board].zip
+tdc_id: '1344.0'
+title:
+  screen: Backgammon
+publisher: Mark Geer
+year: '1987'
+genre:
+- Strategy
+- Board
+language: English
+date:
+  added: '2019-03-01T18:25:08'
+  last_modified: '2019-03-01T18:25:08'
+type: zip
+commands:
+  play: B-GAMMON.EXE
+references:
+  dosid: DOS00376
+  exodos: Backgammon (1987).zip
+files:
+- name: B-GAMMON.DOC
+  size: 5760
+  date: '1985-04-21T23:57:42'
+  crc: '0x54a564c2'
+- name: B-GAMMON.EXE
+  size: 78998
+  date: '1987-09-30T12:45:40'
+  crc: '0x98e5f95a'

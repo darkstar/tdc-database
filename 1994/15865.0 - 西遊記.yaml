@@ -1,0 +1,59 @@
+filename: 西遊記 (Installer) (Zh)(En) (1994)(Panda Entertainment Technology Co., Ltd.) [Action].zip
+tdc_id: '15865.0'
+title:
+  box: 西遊記
+  translation: Journey to the West
+  transliteration: Xi You Ji
+  qualifier: Installer
+publisher: Panda Entertainment Technology Co., Ltd.
+year: '1994'
+genre: Action
+language:
+- English
+- Chinese
+date:
+  added: '2019-03-02T07:20:08'
+  last_modified: '2023-12-05T16:16:25'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/6465/xi-you-ji/
+files:
+- name: DRIVERA.BIN
+  size: 1158
+  date: '1999-12-31T18:00:00'
+  crc: '0xf170f0f2'
+- name: DRIVERC.BIN
+  size: 1030
+  date: '1999-12-31T18:00:00'
+  crc: '0x1d8a5e45'
+- name: H.24P
+  size: 4514
+  date: '1999-12-31T18:00:00'
+  crc: '0xeb3b4aaf'
+- name: INSTALL.EXE
+  size: 51225
+  date: '1999-12-31T18:00:00'
+  crc: '0x022681f9'
+- name: WEST.BAT
+  size: 16
+  date: '1999-12-31T18:00:00'
+  crc: '0x5203fe08'
+- name: WEST1.DSK
+  size: 1149907
+  date: '1999-12-31T18:00:00'
+  crc: '0x57c802d3'
+- name: WEST2.DSK
+  size: 1196327
+  date: '1999-12-31T18:00:00'
+  crc: '0x8546897e'
+- name: WEST2.EXE
+  size: 65392
+  date: '1999-12-31T18:00:00'
+  crc: '0x0ec86510'
+- name: WEST3.DSK
+  size: 1188999
+  date: '1999-12-31T18:00:00'
+  crc: '0x551710b2'

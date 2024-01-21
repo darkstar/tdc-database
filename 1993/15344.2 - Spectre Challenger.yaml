@@ -1,0 +1,36 @@
+filename: Spectre Challenger r930901 (Installer) (1993)(Velocity Inc.) [Action, Racing - Driving, Strategy][!].zip
+tdc_id: '15344.2'
+title:
+  box: Spectre Challenger
+publisher: Velocity Inc.
+year: '1993'
+genre:
+- Action
+- Racing - Driving
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:51:20'
+  last_modified: '2022-11-25T13:52:51'
+release: '930901'
+type: zip
+tags:
+- KnownGood
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/spectre
+files:
+- name: INSTALL.EXE
+  size: 21915
+  date: '1993-11-08T01:00:00'
+  crc: '0x4b8e6416'
+- name: README.TXT
+  size: 7057
+  date: '1993-11-08T01:00:00'
+  crc: '0x9b0989c1'
+- name: SPCDATA.EXE
+  size: 440943
+  date: '1993-11-08T01:00:00'
+  crc: '0xfa09260f'

@@ -1,0 +1,28 @@
+filename: Pitfall II- Lost Caverns (PCjr, Tandy 1000) [DC] (1984)(Activision Publishing, Inc.) [Action, Adventure].zip
+tdc_id: '10309.0'
+parent_id: '10309.1'
+title:
+  box: 'Pitfall II: Lost Caverns'
+  qualifier: PCjr, Tandy 1000
+publisher: Activision Publishing, Inc.
+year: '1984'
+genre:
+- Action
+- Adventure
+language: English
+date:
+  added: '2019-03-01T18:24:12'
+  last_modified: '2019-03-01T18:24:12'
+type: zip
+tags:
+- DOSConversion
+requirements:
+  cpu:
+    min: '8088'
+commands:
+  play: PITFALL2.EXE
+files:
+- name: PITFALL2.EXE
+  size: 16709
+  date: '1984-04-14T00:00:00'
+  crc: '0x209f34d5'

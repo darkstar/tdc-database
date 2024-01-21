@@ -1,0 +1,32 @@
+filename: Старое золото (Ru) (1995)(Gelios) [Action].zip
+tdc_id: '3667.0'
+title:
+  screen: Старое золото
+  translation: Old Gold
+publisher: Gelios
+year: '1995'
+genre: Action
+language: Russian
+date:
+  added: '2019-03-02T08:58:02'
+  last_modified: '2023-06-29T18:31:17'
+type: zip
+media: Download
+commands:
+  play: OG.EXE
+references:
+  dosid: DOS15658
+  exodos: Old Gold (1995).zip
+files:
+- name: OG.EXE
+  size: 157456
+  date: '1995-05-03T10:44:18'
+  crc: '0x264dc613'
+- name: OLD_GOLD.RES
+  size: 528314
+  date: '1995-05-03T11:35:26'
+  crc: '0xd97ca710'
+- name: README.TXT
+  size: 3045
+  date: '1997-04-02T17:04:34'
+  crc: '0xb4c134e6'

@@ -1,0 +1,56 @@
+filename: Siege (Installer) [o1] (1992)(Mindcraft Software, Inc.) [Strategy].zip
+tdc_id: '15048.3'
+title:
+  box: Siege
+publisher: Mindcraft Software, Inc.
+year: '1992'
+genre: Strategy
+language: English
+date:
+  added: '2021-03-02T15:11:42'
+  last_modified: '2022-11-22T10:28:00'
+type: zip
+tags:
+- Overdump: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/siege
+files:
+- name: DCMP.EXE
+  size: 20140
+  date: '1992-01-19T23:49:54'
+  crc: '0xca2fb563'
+- name: DISK1
+  size: 11
+  date: '1992-06-26T11:23:02'
+  crc: '0xb0225c40'
+- name: DISK2
+  size: 2
+  date: '1992-07-02T12:55:08'
+  crc: '0x14a285ac'
+- name: INSTALL.EXE
+  size: 68519
+  date: '1992-07-07T13:01:36'
+  crc: '0xfa1186ef'
+- name: LASTDISK
+  size: 2
+  date: '1992-06-01T19:38:14'
+  crc: '0x14a285ac'
+- name: SIEGE1.CMP
+  size: 321296
+  date: '1992-07-09T15:55:50'
+  crc: '0x1e8b608c'
+- name: SIEGE2.CMP
+  size: 286937
+  date: '1992-07-09T15:56:48'
+  crc: '0x0b8f3baf'
+- name: SIEGE3.CMP
+  size: 371655
+  date: '1992-07-09T15:57:16'
+  crc: '0x36bd13ef'
+- name: SIEGE4.CMP
+  size: 335059
+  date: '1992-07-09T15:57:40'
+  crc: '0x8ed4ab7b'

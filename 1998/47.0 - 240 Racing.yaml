@@ -1,0 +1,49 @@
+filename: 240 Racing v1.01 [SW] (1998)(Bralanda Software) [Action, Racing - Driving].zip
+tdc_id: '47.0'
+title:
+  screen: 240 Racing
+publisher: Bralanda Software
+year: '1998'
+genre:
+- Action
+- Racing - Driving
+language: English
+date:
+  added: '2019-03-02T10:40:34'
+  last_modified: '2019-03-02T10:40:34'
+version: '1.01'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: 240R.EXE
+files:
+- name: 240BURN.BIN
+  size: 64768
+  date: '1997-02-21T06:16:38'
+  crc: '0xcbe9b57e'
+- name: 240R.EXE
+  size: 40032
+  date: '1998-09-20T01:16:36'
+  crc: '0x8df979ec'
+- name: BANA1.LEV
+  size: 64814
+  date: '1998-09-20T01:12:08'
+  crc: '0x3f4a4a77'
+- name: BANA2.LEV
+  size: 64814
+  date: '1998-09-20T01:09:32'
+  crc: '0xcf9705cd'
+- name: GFX.BIN
+  size: 64768
+  date: '1997-04-06T23:55:16'
+  crc: '0xe2c898c7'
+- name: HISCORE1.DAT
+  size: 2620
+  date: '1996-07-16T20:33:56'
+  crc: '0xb8342ab3'
+- name: HISCORE2.DAT
+  size: 2620
+  date: '1996-07-16T09:53:24'
+  crc: '0x444f22be'

@@ -1,0 +1,39 @@
+filename: Drop-Drop (1992)(Russ, Ltd., Vladimir Ryshov, Grigory Sragovich) [Strategy, Action].zip
+tdc_id: '6743.0'
+title:
+  screen: Drop-Drop
+publisher: Russ, Ltd., Vladimir Ryshov, Grigory Sragovich
+year: '1992'
+genre:
+- Strategy
+- Action
+language: English
+date:
+  added: '2019-03-01T18:42:30'
+  last_modified: '2022-11-14T09:08:16'
+type: zip
+commands:
+  play: DROPDROP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/drop-drop
+files:
+- name: DROPDROP.CFG
+  size: 8
+  date: '1993-11-07T21:18:24'
+  crc: '0x22130239'
+- name: DROPDROP.DAT
+  size: 139664
+  date: '1992-11-20T03:21:18'
+  crc: '0xef88db71'
+- name: DROPDROP.DOC
+  size: 1088
+  date: '1993-11-09T16:56:28'
+  crc: '0x1bd6f352'
+- name: DROPDROP.EXE
+  size: 116842
+  date: '1992-11-18T08:29:24'
+  crc: '0x8bab333e'
+- name: DROPDROP.GER
+  size: 623
+  date: '1993-11-09T20:53:52'
+  crc: '0x5aaa1898'

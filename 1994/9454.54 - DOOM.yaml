@@ -1,0 +1,43 @@
+filename: DOOM v1.2 (Installer) [SW] (1994)(Titanium Seal) [Action].zip
+tdc_id: '9454.54'
+title:
+  screen: DOOM
+  qualifier: Installer
+publisher: Titanium Seal
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2023-04-25T15:40:51'
+  last_modified: '2023-04-25T15:40:51'
+version: '1.2'
+type: zip
+tags:
+- Shareware
+media: 1.44M
+installer: true
+commands:
+  play: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1068/doom/
+files:
+- name: DOOM-A.EXE
+  size: 1253828
+  date: '1994-02-22T19:52:18'
+  crc: '0xdc740279'
+- name: DOOM-B.EXE
+  size: 1007374
+  date: '1994-02-22T19:38:50'
+  crc: '0xabb765e9'
+- name: SETUP.BAT
+  size: 102
+  date: '1994-01-03T10:18:50'
+  crc: '0xa8b1a89f'
+- name: SETUP.DTA
+  size: 845
+  date: '1994-02-22T19:53:28'
+  crc: '0x97a5a97e'
+- name: SETUP.EXE
+  size: 17088
+  date: '1994-03-01T14:37:30'
+  crc: '0x40bc0ebd'

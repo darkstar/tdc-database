@@ -1,0 +1,48 @@
+filename: Abuse v2.0 (Installer) (En)(De)(Fr) (1996)(Crack Dot Com) [Action].zip
+tdc_id: '5155.7'
+title:
+  screen: Abuse
+publisher: Crack Dot Com
+year: '1996'
+genre: Action
+language:
+- English
+- French
+- German
+date:
+  added: '2020-01-28T21:50:40'
+  last_modified: '2020-01-28T21:50:40'
+version: '2.0'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: AUTORUN.INF
+  size: 41
+  date: '1996-02-18T17:02:12'
+  crc: '0x14dd4b63'
+- name: DISK1.DAT
+  size: 1146727
+  date: '1996-02-18T17:13:28'
+  crc: '0xa7a82c78'
+- name: DISK2.DAT
+  size: 1393625
+  date: '1996-02-18T17:27:24'
+  crc: '0x015815c3'
+- name: DISK3.DAT
+  size: 884192
+  date: '1996-02-18T17:36:16'
+  crc: '0x7f6b21df'
+- name: ICON.ICO
+  size: 766
+  date: '1996-02-18T17:36:36'
+  crc: '0x17c81a40'
+- name: INSTALL.EXE
+  size: 269926
+  date: '1996-02-18T17:38:44'
+  crc: '0x7051cb08'
+- name: INSTALL.LSP
+  size: 12714
+  date: '1996-02-18T17:39:00'
+  crc: '0x73e7e1fe'

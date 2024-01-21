@@ -1,0 +1,30 @@
+filename: Corporation, The (1986)(Anonymous) [Strategy, Simulation].zip
+tdc_id: '6133.0'
+title:
+  screen: The Corporation
+publisher: Anonymous
+year: '1986'
+genre:
+- Strategy
+- Simulation
+language: English
+date:
+  added: '2019-03-01T18:24:44'
+  last_modified: '2019-03-01T18:24:44'
+type: zip
+media: Download
+commands:
+  play: CORP.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: CORP.BAS
+  size: 12288
+  date: '1986-02-14T13:56:28'
+  crc: '0xa4bcc773'
+- name: CORP.BAT
+  size: 13
+  date: '1980-01-01T00:00:00'
+  crc: '0x3ca9030f'

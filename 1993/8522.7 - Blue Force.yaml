@@ -1,0 +1,27 @@
+filename: Blue Force v1.11 (1993)(Tsunami Media, Inc.) [bin-cue].zip
+tdc_id: '8522.7'
+title:
+  box: Blue Force
+publisher: Tsunami Media, Inc.
+year: '1993'
+genre: bin-cue
+language: English
+date:
+  added: '2023-02-18T19:38:39'
+  last_modified: '2023-02-18T19:38:39'
+version: '1.11'
+type: bin-cue
+media: CD-ROM
+audio:
+- CD-DA
+references:
+  mobygames: https://www.mobygames.com/game/dos/blue-force
+files:
+- name: BLUFORCE.BIN
+  size: 664590528
+  date: '2011-02-27T08:15:16'
+  crc: '0x31b3639d'
+- name: BLUFORCE.CUE
+  size: 559
+  date: '2011-02-27T08:14:54'
+  crc: '0x6f4952b6'

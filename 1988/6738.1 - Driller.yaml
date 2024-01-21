@@ -1,0 +1,32 @@
+filename: Driller (demo) (1988)(Incentive Software) [Action, Strategy].zip
+tdc_id: '6738.1'
+parent_id: '6738.3'
+title:
+  screen: Driller
+  qualifier: demo
+publisher: Incentive Software
+year: '1988'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:26:08'
+  last_modified: '2019-03-01T18:26:08'
+type: zip
+demo: true
+commands:
+  play: DRILLDEM.COM
+files:
+- name: D1
+  size: 16384
+  date: '1988-06-01T00:00:00'
+  crc: '0x0f27dc5b'
+- name: D2
+  size: 41488
+  date: '1988-06-01T00:00:00'
+  crc: '0x05dc0f45'
+- name: DRILLDEM.COM
+  size: 889
+  date: '1988-06-01T00:00:00'
+  crc: '0x292678f2'

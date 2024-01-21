@@ -1,0 +1,28 @@
+filename: Space Attack (1987)(Britannia Software Ltd.) [Action].zip
+tdc_id: '1442.0'
+title:
+  box: Space Attack
+publisher: Britannia Software Ltd.
+year: '1987'
+genre: Action
+language: English
+date:
+  added: '2019-11-10T01:40:06'
+  last_modified: '2019-11-10T01:40:06'
+type: zip
+references:
+  dosid: DOS15745
+  exodos: Space Attack (1987).zip
+files:
+- name: GO.BAT
+  size: 226
+  date: '1987-12-01T14:59:08'
+  crc: '0x39be6046'
+- name: SPACE.COM
+  size: 38116
+  date: '1987-12-01T14:39:38'
+  crc: '0x47129426'
+- name: SPACERES.COM
+  size: 48209
+  date: '1987-12-01T14:49:58'
+  crc: '0x48d4424c'

@@ -1,0 +1,89 @@
+filename: Berlin 1948 (Installer) [a1] (1990)(Rainbow Arts Software GmbH) [Adventure].zip
+tdc_id: '13281.7'
+parent_id: '13281.6'
+title:
+  box: Berlin 1948
+  qualifier: Installer
+publisher: Rainbow Arts Software GmbH
+year: '1990'
+genre: Adventure
+language: English
+date:
+  added: '2023-10-03T14:58:46'
+  last_modified: '2023-10-03T14:58:46'
+type: zip
+tags:
+- Alternate: 1
+media: 720K
+installer: true
+references:
+  mobygames: https://www.mobygames.com/game/4807/berlin-1948/
+files:
+- name: BERLIN.BAT
+  size: 1469
+  date: '1990-07-30T17:01:52'
+  crc: '0x7ea34907'
+- name: C
+  size: 590
+  date: '1990-05-03T14:24:44'
+  crc: '0xb67a69bb'
+- name: CGAME.EXE
+  size: 251014
+  date: '1990-04-12T17:54:40'
+  crc: '0xce475da2'
+- name: CVOR.EXE
+  size: 50572
+  date: '1990-05-02T22:11:10'
+  crc: '0xe2011d47'
+- name: DIRECTOR.IBM
+  size: 12074
+  date: '1990-07-08T14:39:44'
+  crc: '0x1a071678'
+- name: INSTALL.BAT
+  size: 6081
+  date: '1990-07-30T17:29:50'
+  crc: '0x95513b32'
+- name: MBF.BAT
+  size: 1313
+  date: '1990-07-30T17:34:14'
+  crc: '0xe3474ba6'
+- name: README.!!!
+  size: 122
+  date: '1990-05-18T13:36:12'
+  crc: '0x24a07bab'
+- name: STREAM0.IBM
+  size: 294116
+  date: '1990-07-08T14:36:14'
+  crc: '0x64e9d186'
+- name: STREAM1.IBM
+  size: 393539
+  date: '1990-07-08T14:38:46'
+  crc: '0x4f582e23'
+- name: STREAM6.IBM
+  size: 15484
+  date: '1990-07-08T14:39:40'
+  crc: '0x6fde962a'
+- name: T
+  size: 590
+  date: '1990-07-30T16:05:08'
+  crc: '0x726b590a'
+- name: TGAME.EXE
+  size: 245426
+  date: '1990-07-26T18:32:54'
+  crc: '0x250f9bd7'
+- name: TVOR.EXE
+  size: 49756
+  date: '1990-07-26T12:00:14'
+  crc: '0x765a23a2'
+- name: V
+  size: 590
+  date: '1990-05-03T14:23:56'
+  crc: '0x8ef56739'
+- name: VGAME.EXE
+  size: 254686
+  date: '1990-04-12T18:01:04'
+  crc: '0x72fac56c'
+- name: VVOR.EXE
+  size: 52416
+  date: '1990-05-02T22:11:56'
+  crc: '0xbd1d5295'

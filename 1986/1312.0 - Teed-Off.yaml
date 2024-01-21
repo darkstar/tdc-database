@@ -1,0 +1,44 @@
+filename: Teed-Off v3.0 (1986)(Kevin Hendricks) [Sports].zip
+tdc_id: '1312.0'
+title:
+  screen: Teed-Off
+publisher: Kevin Hendricks
+year: '1986'
+genre: Sports
+language: English
+date:
+  added: '2019-03-01T18:24:58'
+  last_modified: '2019-03-01T18:24:58'
+version: '3.0'
+type: zip
+commands:
+  play: TEED-OFF.EXE
+files:
+- name: COURSE0.DAT
+  size: 4031
+  date: '1986-08-05T08:31:34'
+  crc: '0xc01ffad0'
+- name: COURSE1.DAT
+  size: 4147
+  date: '1986-07-22T11:56:30'
+  crc: '0x8e217b10'
+- name: COURSE2.DAT
+  size: 4906
+  date: '1986-08-05T08:32:28'
+  crc: '0xba0af86a'
+- name: HINTS.DOC
+  size: 3617
+  date: '1986-08-05T09:37:06'
+  crc: '0x398d97d4'
+- name: RANGE.DAT
+  size: 195
+  date: '1980-01-01T01:47:04'
+  crc: '0x8d2db041'
+- name: README.DOC
+  size: 1069
+  date: '1986-08-05T21:54:52'
+  crc: '0x03ef634a'
+- name: TEED-OFF.EXE
+  size: 88338
+  date: '1980-01-01T00:29:16'
+  crc: '0x69279e84'

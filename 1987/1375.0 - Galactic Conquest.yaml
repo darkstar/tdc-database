@@ -1,0 +1,30 @@
+filename: Galactic Conquest v2.1 [SW] (1987)(Rick Raddatz) [Strategy].zip
+tdc_id: '1375.0'
+title:
+  screen: Galactic Conquest
+publisher: Rick Raddatz
+year: '1987'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:25:18'
+  last_modified: '2019-03-01T18:25:18'
+version: '2.1'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: GALACTIC.EXE
+references:
+  dosid: DOS06299
+  exodos: Galactic Conquest (1987).zip
+files:
+- name: GALACTIC.DOC
+  size: 2806
+  date: '1987-06-10T16:42:44'
+  crc: '0x9b4b9bb6'
+- name: GALACTIC.EXE
+  size: 91036
+  date: '1987-06-08T03:12:46'
+  crc: '0x2db41498'

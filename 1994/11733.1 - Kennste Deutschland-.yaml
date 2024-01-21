@@ -1,0 +1,32 @@
+filename: Kennste Deutschland- v1.5 (Installer) (De) (1994)(CDU) [Action, Educational, Trivia].zip
+tdc_id: '11733.1'
+title:
+  screen: Kennste Deutschland-
+publisher: CDU
+year: '1994'
+genre:
+- Action
+- Educational
+- Trivia
+language: German
+date:
+  added: '2019-03-01T22:01:10'
+  last_modified: '2022-11-21T19:58:26'
+version: '1.5'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: CDUPACK.PAK
+  size: 1279247
+  date: '1994-08-12T11:00:00'
+  crc: '0xb9f9b511'
+- name: INSTALL.CFG
+  size: 565
+  date: '1993-01-04T22:03:52'
+  crc: '0x88b50f8e'
+- name: INSTALL.EXE
+  size: 20825
+  date: '1994-08-12T11:00:00'
+  crc: '0xc824403c'

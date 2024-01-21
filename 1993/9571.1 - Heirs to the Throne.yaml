@@ -1,0 +1,32 @@
+filename: Heirs to the Throne v1.21 (Installer) (De)(En) (1993)(Quantum Quality Productions) [Strategy].zip
+tdc_id: '9571.1'
+parent_id: '9571.6'
+title:
+  box: Heirs to the Throne
+publisher: Quantum Quality Productions
+year: '1993'
+genre: Strategy
+language:
+- English
+- German
+date:
+  added: '2019-03-01T19:09:36'
+  last_modified: '2019-03-01T19:09:36'
+version: '1.21'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK01.EDT
+  size: 1441280
+  date: '1993-10-10T21:17:02'
+  crc: '0x0ba343bc'
+- name: DISK02.EDT
+  size: 1270147
+  date: '1993-10-10T21:18:36'
+  crc: '0x3474d9f8'
+- name: INSTALL.EXE
+  size: 16334
+  date: '1993-10-10T21:15:36'
+  crc: '0xb212ed2a'

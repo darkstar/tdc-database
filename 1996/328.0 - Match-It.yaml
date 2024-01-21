@@ -1,0 +1,35 @@
+filename: Match-It v1.05 (Fr) (1996)(Philippe Melleret) [Strategy].zip
+tdc_id: '328.0'
+title:
+  screen: Match-It
+publisher: Philippe Melleret
+year: '1996'
+genre: Strategy
+language: French
+date:
+  added: '2019-03-02T10:13:14'
+  last_modified: '2019-03-02T10:13:14'
+version: '1.05'
+type: zip
+commands:
+  play: matchit.exe
+references:
+  dosid: DOS15612
+  exodos: Match It (1994).zip
+files:
+- name: hiscore.dat
+  size: 198
+  date: '2005-03-20T23:23:06'
+  crc: '0x1ddf7d3e'
+- name: matchit.dat
+  size: 85269
+  date: '1996-12-25T03:32:00'
+  crc: '0x07b7fb03'
+- name: matchit.exe
+  size: 56590
+  date: '1996-12-25T03:32:00'
+  crc: '0xd09a03fb'
+- name: matchit.txt
+  size: 5579
+  date: '1996-12-25T03:32:00'
+  crc: '0xd85698db'

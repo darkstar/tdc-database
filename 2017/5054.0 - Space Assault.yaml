@@ -1,0 +1,100 @@
+filename: Space Assault [FW] (2017)(Roman Hocke) [Action].zip
+tdc_id: '5054.0'
+title:
+  screen: Space Assault
+publisher: Roman Hocke
+year: '2017'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:58:14'
+  last_modified: '2019-03-02T10:58:14'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: SHOOTER.EXE
+references:
+  dosid: DOS06684
+  exodos: Space Assault (2017).zip
+files:
+- name: README.TXT
+  size: 414
+  date: '2017-09-05T09:10:14'
+  crc: '0xc31ee98a'
+- name: SHOOTER.EXE
+  size: 19756
+  date: '2017-09-04T18:58:58'
+  crc: '0xc654da7f'
+- name: src\
+  size: 0
+  date: '2017-09-05T09:42:26'
+- name: src\compile.bat
+  size: 95
+  date: '2017-09-03T15:29:30'
+  crc: '0xde9bce2e'
+- name: src\d_bible.c
+  size: 5738
+  date: '2017-08-31T22:06:34'
+  crc: '0x4e5aa4ed'
+- name: src\d_flank.c
+  size: 3884
+  date: '2017-09-03T21:07:14'
+  crc: '0x0477957b'
+- name: src\d_gen.c
+  size: 5551
+  date: '2017-09-03T21:55:16'
+  crc: '0x54b58f90'
+- name: src\d_grch.c
+  size: 6245
+  date: '2017-09-01T08:27:46'
+  crc: '0x41f6d942'
+- name: src\d_octo.c
+  size: 3600
+  date: '2017-09-03T15:41:20'
+  crc: '0x89d250cb'
+- name: src\d_supply.c
+  size: 3046
+  date: '2017-09-03T17:03:14'
+  crc: '0x5b0558dc'
+- name: src\data.c
+  size: 15092
+  date: '2017-09-04T18:58:04'
+  crc: '0xd7dd33bf'
+- name: src\data.h
+  size: 901
+  date: '2017-09-02T17:54:22'
+  crc: '0x631b58fa'
+- name: src\input.c
+  size: 1894
+  date: '2017-09-04T18:58:42'
+  crc: '0xeb850313'
+- name: src\input.h
+  size: 1129
+  date: '2017-09-04T18:58:30'
+  crc: '0x7bd99886'
+- name: src\objpool.c
+  size: 1647
+  date: '2017-08-31T21:56:32'
+  crc: '0xd64e9fa6'
+- name: src\objpool.h
+  size: 592
+  date: '2017-08-20T17:55:22'
+  crc: '0xbd86ddcb'
+- name: src\screen.c
+  size: 4902
+  date: '2017-08-23T19:55:26'
+  crc: '0x24da7ba2'
+- name: src\screen.h
+  size: 780
+  date: '2017-08-23T19:54:24'
+  crc: '0xefae659f'
+- name: src\shooter.c
+  size: 13746
+  date: '2017-09-04T18:58:52'
+  crc: '0x4fe2b0bc'
+- name: src\shooter.h
+  size: 7062
+  date: '2017-09-03T19:59:14'
+  crc: '0xb6f9958a'

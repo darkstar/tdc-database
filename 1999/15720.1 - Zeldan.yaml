@@ -1,0 +1,37 @@
+filename: Zeldan (demo) v2.5 (Installer) (1999)(Armageddon Games) [Action].zip
+tdc_id: '15720.1'
+title:
+  screen: Zeldan
+  qualifier: demo
+publisher: Armageddon Games
+year: '1999'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:47:20'
+  last_modified: '2019-03-02T10:47:20'
+version: '2.5'
+type: zip
+installer: true
+demo: true
+files:
+- name: INSTALL.bat
+  size: 1221
+  date: '1999-01-24T01:01:58'
+  crc: '0x52745875'
+- name: MEGAINST.EXE
+  size: 46022
+  date: '1998-03-04T19:06:46'
+  crc: '0xfc10e5f7'
+- name: install.zip
+  size: 92287
+  date: '1999-01-25T22:10:14'
+  crc: '0x6fad9d01'
+- name: pkunzip.exe
+  size: 29378
+  date: '1999-01-23T21:06:06'
+  crc: '0x00832770'
+- name: read1st.txt
+  size: 43
+  date: '1999-01-25T22:12:00'
+  crc: '0x456f9c25'

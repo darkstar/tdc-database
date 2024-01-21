@@ -1,0 +1,28 @@
+filename: Kindercomp - Golden Edition (1987)(Spinnaker Software Corporation) [Educational].zip
+tdc_id: '17355.1'
+title:
+  box: Kindercomp - Golden Edition
+publisher: Spinnaker Software Corporation
+year: '1987'
+genre: Educational
+language: English
+date:
+  added: '2023-08-13T14:35:28'
+  last_modified: '2023-08-13T14:35:28'
+type: zip
+media: 360K
+commands:
+  play: KINDER.COM
+files:
+- name: KINDER.COM
+  size: 212
+  date: '2023-01-24T13:52:44'
+  crc: '0x12d18dfa'
+- name: KINDER.DAT
+  size: 102400
+  date: '2023-01-24T13:52:44'
+  crc: '0x19ea4534'
+- name: KINDER.EXE
+  size: 16740
+  date: '1987-11-02T17:26:12'
+  crc: '0xdf7ecb14'

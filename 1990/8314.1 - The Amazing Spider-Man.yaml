@@ -1,0 +1,88 @@
+filename: Amazing Spider-Man, The (1990)(Empire Software) [Action].zip
+tdc_id: '8314.1'
+parent_id: '8314.4'
+title:
+  box: The Amazing Spider-Man
+publisher: Empire Software
+year: '1990'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:31:46'
+  last_modified: '2024-01-08T09:11:05'
+type: zip
+commands:
+  play: SPIDEY.EXE
+references:
+  mobygames: https://www.mobygames.com/game/471/the-amazing-spider-man/
+  dosid: DOS00598
+  exodos: Amazing Spider-Man, The (1990).zip
+files:
+- name: BACKS.SPL
+  size: 11155
+  date: '1990-10-02T10:43:12'
+  crc: '0x48483888'
+- name: BLOCKS.CGA
+  size: 8192
+  date: '1990-10-15T11:42:34'
+  crc: '0x0f135656'
+- name: CHARSET.CGA
+  size: 2048
+  date: '1990-10-12T12:24:14'
+  crc: '0xe3bd4289'
+- name: HISCORE.CGA
+  size: 3040
+  date: '1990-10-15T12:13:02'
+  crc: '0x9cb5f3c4'
+- name: LOADSCRN.CGA
+  size: 16000
+  date: '1990-10-12T10:26:42'
+  crc: '0xd05e15df'
+- name: MASKS1.CGA
+  size: 8192
+  date: '1990-10-13T19:36:06'
+  crc: '0x82bbd512'
+- name: MASKS2.CGA
+  size: 8192
+  date: '1990-10-13T19:35:52'
+  crc: '0x9ef79e75'
+- name: MOVERTAB.DAT
+  size: 768
+  date: '1990-10-02T10:43:12'
+  crc: '0xb4fef372'
+- name: ROOMS.SPL
+  size: 12124
+  date: '1990-10-04T01:49:10'
+  crc: '0xd5a78422'
+- name: SCENERY.CGA
+  size: 4096
+  date: '1990-10-15T11:44:42'
+  crc: '0x3229ae5b'
+- name: SKELFIGR.CGA
+  size: 3072
+  date: '1990-10-12T10:28:52'
+  crc: '0x8770f89a'
+- name: SPIDEY.EXE
+  size: 231936
+  date: '1990-10-19T12:25:40'
+  crc: '0xdc95c016'
+- name: SPIDEY.EX_
+  size: 231936
+  date: '1980-01-01T12:00:00'
+  crc: '0xa018369f'
+- name: SPIDFIGR.CGA
+  size: 3072
+  date: '1990-10-12T10:29:04'
+  crc: '0x4838b8a3'
+- name: SPIDS1.CGA
+  size: 8192
+  date: '1990-10-13T19:34:42'
+  crc: '0x70ee46fb'
+- name: SPIDS2.CGA
+  size: 8192
+  date: '1990-10-13T19:35:38'
+  crc: '0xdd35dd17'
+- name: WINSCRN.CGA
+  size: 16000
+  date: '1990-10-12T10:28:36'
+  crc: '0x745359f9'

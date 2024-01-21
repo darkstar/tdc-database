@@ -1,0 +1,83 @@
+filename: Ghost War vB5 (2001)(Vral) [Strategy].zip
+tdc_id: '14046.0'
+title:
+  screen: Ghost War
+publisher: Vral
+year: '2001'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:55:20'
+  last_modified: '2019-03-02T10:55:20'
+version: B5
+type: zip
+commands:
+  play: TUTORIAL.EXE
+files:
+- name: FNISS.MAP
+  size: 4225
+  date: '2000-09-11T21:24:26'
+  crc: '0x7badfed9'
+- name: TUTORIAL.EXE
+  size: 129780
+  date: '2001-01-19T23:33:40'
+  crc: '0xbb8d0675'
+- name: gfx\
+  size: 0
+  date: '2001-01-19T23:36:50'
+- name: gfx\Loading.pcx
+  size: 14558
+  date: '2001-01-19T23:37:30'
+  crc: '0xe2935968'
+- name: gfx\RED.PAL
+  size: 768
+  date: '2000-12-30T12:16:28'
+  crc: '0xc06c133d'
+- name: gfx\WEE.BP
+  size: 65536
+  date: '2000-09-11T18:09:28'
+  crc: '0x1a046953'
+- name: gfx\border.pcx
+  size: 16682
+  date: '2001-01-02T17:26:50'
+  crc: '0x5b1a8a2c'
+- name: gfx\common.pcx
+  size: 10601
+  date: '2001-01-15T21:38:52'
+  crc: '0xa28e2744'
+- name: gfx\conicons.pcx
+  size: 7279
+  date: '2001-01-14T16:05:54'
+  crc: '0xfd92b512'
+- name: gfx\constr.pcx
+  size: 31997
+  date: '2001-01-14T16:05:04'
+  crc: '0x4aa91279'
+- name: gfx\deploy.pcx
+  size: 11709
+  date: '2000-12-29T16:38:52'
+  crc: '0x7755ba46'
+- name: gfx\explos1.pcx
+  size: 11915
+  date: '2000-12-27T16:43:42'
+  crc: '0xfe810b00'
+- name: gfx\explos2.pcx
+  size: 5259
+  date: '2000-12-29T16:38:08'
+  crc: '0x1562c292'
+- name: gfx\open.pcx
+  size: 14498
+  date: '2000-09-28T21:07:28'
+  crc: '0x52d4d06d'
+- name: gfx\txts.pcx
+  size: 70403
+  date: '2000-09-04T21:51:36'
+  crc: '0xd8f513db'
+- name: gfx\txts2.pcx
+  size: 16857
+  date: '2001-01-14T13:52:16'
+  crc: '0x2121a44a'
+- name: gfx\unit1.pcx
+  size: 16408
+  date: '2000-12-28T16:41:40'
+  crc: '0x2e8b57e1'

@@ -1,0 +1,166 @@
+filename: Horde, The v1.1 CD (Installer) (1994)(Crystal Dynamics, Inc.) [Action, Strategy].zip
+tdc_id: '8363.5'
+title:
+  box: The Horde
+publisher: Crystal Dynamics, Inc.
+year: '1994'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2021-08-08T08:20:42'
+  last_modified: '2021-08-08T08:20:42'
+version: '1.1'
+type: zip
+installer: true
+commands:
+  play: INSTALL.BAT
+references:
+  dosid: DOS02650
+  exodos: Horde, The (1994).zip
+files:
+- name: BLUBLARG.WZL
+  size: 499997
+  date: '1994-04-27T02:57:48'
+  crc: '0x7337d7c7'
+- name: DISKFREE.EXE
+  size: 6445
+  date: '1994-02-28T02:44:26'
+  crc: '0x79d7758d'
+- name: DOS4GW.EXE
+  size: 231195
+  date: '1992-09-09T00:01:00'
+  crc: '0x6953a4b8'
+- name: FAILDEAD.VDO
+  size: 3344804
+  date: '1994-02-20T04:22:14'
+  crc: '0xcf4c75f4'
+- name: FAILTAX.VDO
+  size: 5108954
+  date: '1994-02-20T04:20:06'
+  crc: '0x13d0eaa0'
+- name: FAILVILL.VDO
+  size: 3322648
+  date: '1994-02-20T04:21:06'
+  crc: '0xd689c82a'
+- name: FLOOD.VDO
+  size: 3271815
+  date: '1994-02-20T04:41:20'
+  crc: '0xfc38482c'
+- name: HORDE.PKG
+  size: 6431921
+  date: '1994-04-04T05:15:36'
+  crc: '0x59ea2de4'
+- name: INSTALL.BAT
+  size: 4166
+  date: '1994-04-02T07:51:02'
+  crc: '0xaaa51f07'
+- name: INTRO.VDX
+  size: 27215844
+  date: '1994-02-27T17:51:58'
+  crc: '0x8506a656'
+- name: LESSCROP.VDO
+  size: 4847264
+  date: '1994-02-20T04:28:16'
+  crc: '0x7dd587df'
+- name: LESSHORD.VDO
+  size: 2555867
+  date: '1994-02-20T04:24:36'
+  crc: '0xe6c85370'
+- name: LESSVILL.VDO
+  size: 3743850
+  date: '1994-02-20T04:16:38'
+  crc: '0x075d77c1'
+- name: MAXTPORT.VDO
+  size: 4069828
+  date: '1994-02-20T04:23:52'
+  crc: '0xd1c3151d'
+- name: MERCFEES.VDO
+  size: 3811164
+  date: '1994-02-20T04:40:12'
+  crc: '0x8a72bdf0'
+- name: METEOR.VDO
+  size: 3208133
+  date: '1994-02-20T04:26:38'
+  crc: '0xdcfd7d18'
+- name: MONEY.VDO
+  size: 1910303
+  date: '1994-02-20T04:22:50'
+  crc: '0x0da14260'
+- name: MORECROP.VDO
+  size: 3272328
+  date: '1994-02-20T04:38:14'
+  crc: '0x859d0d53'
+- name: MOREHORD.VDO
+  size: 3847863
+  date: '1994-02-20T04:18:38'
+  crc: '0xa986e7b7'
+- name: MOREVILL.VDO
+  size: 3203051
+  date: '1994-02-20T04:25:44'
+  crc: '0xb84423e8'
+- name: MORE_TAX.VDO
+  size: 4188226
+  date: '1994-02-20T04:15:28'
+  crc: '0x3efe348a'
+- name: NOARCHER.VDO
+  size: 3656573
+  date: '1994-02-20T04:39:14'
+  crc: '0x2267bc75'
+- name: NO_TAX.VDO
+  size: 3809550
+  date: '1994-02-20T04:42:28'
+  crc: '0x41ba2b32'
+- name: NO_TPORT.VDO
+  size: 2895196
+  date: '1994-02-20T04:17:34'
+  crc: '0x247bd3a6'
+- name: PIRATE0.VDX
+  size: 3933070
+  date: '1994-02-27T02:09:48'
+  crc: '0xbb3f73d6'
+- name: PIRATE1.VDX
+  size: 8288900
+  date: '1994-02-27T02:23:58'
+  crc: '0x2c70b374'
+- name: SEGUE00.VDX
+  size: 3377542
+  date: '1994-02-27T01:16:06'
+  crc: '0xa2f9862e'
+- name: SEGUE01.VDX
+  size: 10993807
+  date: '1994-02-19T23:25:46'
+  crc: '0x69595c7a'
+- name: SEGUE02.VDX
+  size: 6831705
+  date: '1994-02-27T21:32:02'
+  crc: '0x3d53f430'
+- name: SEGUE03.VDX
+  size: 9455723
+  date: '1994-02-21T11:58:32'
+  crc: '0x39229e7d'
+- name: SEGUE04.VDX
+  size: 9638266
+  date: '1994-02-27T00:14:14'
+  crc: '0xfc43ab07'
+- name: SEGUE10.VDX
+  size: 9704638
+  date: '1994-02-27T21:47:42'
+  crc: '0x35914412'
+- name: SEGUE11.VDX
+  size: 9923316
+  date: '1994-02-27T22:14:06'
+  crc: '0x4db5c883'
+- name: SEGUE12.VDX
+  size: 9862823
+  date: '1994-02-19T05:51:02'
+  crc: '0xb5a2f183'
+- name: SEGUE13.VDX
+  size: 12365708
+  date: '1994-02-27T23:11:52'
+  crc: '0xe3d119f8'
+- name: VICTORY.VDX
+  size: 40335969
+  date: '1994-02-26T10:13:24'
+  crc: '0x5d531378'

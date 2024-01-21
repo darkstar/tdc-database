@@ -1,0 +1,96 @@
+filename: Police Quest- In Pursuit of the Death Angel v2.0a (1987)(Sierra On-Line, Inc.) [Adventure].zip
+tdc_id: '10382.2'
+title:
+  box: 'Police Quest: In Pursuit of the Death Angel'
+publisher: Sierra On-Line, Inc.
+year: '1987'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:25:32'
+  last_modified: '2019-03-01T18:25:32'
+version: 2.0a
+type: zip
+commands:
+  play: PQ.EXE
+files:
+- name: AGIDATA.OVL
+  size: 8192
+  date: '1987-10-27T11:09:08'
+  crc: '0xca845808'
+- name: CGA_GRAF.OVL
+  size: 1024
+  date: '1987-10-27T11:08:36'
+  crc: '0x440b6049'
+- name: EGA_GRAF.OVL
+  size: 1024
+  date: '1987-10-27T11:08:38'
+  crc: '0x6f62f097'
+- name: HGC_FONT
+  size: 3072
+  date: '1987-10-23T17:00:02'
+  crc: '0x200435c7'
+- name: HGC_GRAF.OVL
+  size: 1536
+  date: '1987-10-27T11:08:44'
+  crc: '0x331b5a7e'
+- name: HGC_OBJS.OVL
+  size: 1024
+  date: '1987-10-27T11:08:52'
+  crc: '0x1225c3b5'
+- name: IBM_OBJS.OVL
+  size: 512
+  date: '1987-10-27T11:08:50'
+  crc: '0x9404ae77'
+- name: JR_GRAF.OVL
+  size: 512
+  date: '1987-10-27T11:08:36'
+  crc: '0x5e49b95d'
+- name: LOGDIR
+  size: 360
+  date: '1987-10-23T17:00:10'
+  crc: '0xff9874aa'
+- name: OBJECT
+  size: 369
+  date: '1987-10-23T17:00:08'
+  crc: '0x8b985ad2'
+- name: PICDIR
+  size: 351
+  date: '1987-10-23T17:00:10'
+  crc: '0x5761639a'
+- name: PQ.EXE
+  size: 39446
+  date: '1987-10-27T11:37:10'
+  crc: '0x618fd9f4'
+- name: SNDDIR
+  size: 126
+  date: '1987-10-23T17:00:10'
+  crc: '0x87f1ceeb'
+- name: VG_GRAF.OVL
+  size: 512
+  date: '1987-10-27T11:08:48'
+  crc: '0x9965ecb1'
+- name: VIEWDIR
+  size: 768
+  date: '1987-10-23T17:00:08'
+  crc: '0x6f01d1b3'
+- name: VOL.0
+  size: 66662
+  date: '1987-10-23T17:00:10'
+  crc: '0x224c637b'
+- name: VOL.1
+  size: 194806
+  date: '1987-10-23T17:00:10'
+  crc: '0x9c9bb069'
+- name: VOL.2
+  size: 189171
+  date: '1987-10-23T17:00:20'
+  crc: '0xeb03c37f'
+- name: VOL.3
+  size: 250243
+  date: '1987-10-23T17:00:32'
+  crc: '0x0b5a2f3b'
+- name: WORDS.TOK
+  size: 6737
+  date: '1987-10-23T17:00:08'
+  crc: '0x666de107'

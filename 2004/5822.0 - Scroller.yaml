@@ -1,0 +1,42 @@
+filename: Scroller (2004)(Ken Silverman) [Action].zip
+tdc_id: '5822.0'
+title:
+  screen: Scroller
+publisher: Ken Silverman
+year: '2004'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:56:58'
+  last_modified: '2019-03-02T10:56:58'
+type: zip
+commands:
+  play: SCROLLER.EXE
+references:
+  dosid: DOS04441
+  exodos: Scroller (2004).zip
+files:
+- name: BOARD1.BRD
+  size: 1707
+  date: '1991-01-27T22:54:34'
+  crc: '0x437f9abe'
+- name: BOARD2.BRD
+  size: 1707
+  date: '1991-01-27T23:01:56'
+  crc: '0x76ea6de1'
+- name: BOARD3.BRD
+  size: 1707
+  date: '1991-03-17T12:41:40'
+  crc: '0x50da1b88'
+- name: SCROLLER.BAS
+  size: 14091
+  date: '2004-10-28T03:13:32'
+  crc: '0x9c69b974'
+- name: SCROLLER.EXE
+  size: 47774
+  date: '2000-03-04T00:24:32'
+  crc: '0x6a359d9f'
+- name: SCROLLMK.BAS
+  size: 2938
+  date: '2004-10-28T03:13:38'
+  crc: '0x5d8fd610'

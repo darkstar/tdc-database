@@ -1,0 +1,29 @@
+filename: IBM's Casino (color) (1984)(Anonymous) [Simulation].zip
+tdc_id: '9656.0'
+title:
+  screen: IBM's Casino
+  qualifier: color
+publisher: Anonymous
+year: '1984'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:24:08'
+  last_modified: '2019-03-01T18:24:08'
+type: zip
+media: Download
+commands:
+  play: COLSLOT.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: COLSLOT.BAS
+  size: 7552
+  date: '1984-02-18T21:47:30'
+  crc: '0xd134af1a'
+- name: COLSLOT.BAT
+  size: 17
+  date: '1980-01-01T00:00:00'
+  crc: '0x0e5c7406'

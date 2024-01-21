@@ -1,0 +1,51 @@
+filename: IndyCar Racing 1.02+ GUS patch (1993)(Virgin Interactive Entertainment, Inc.) [Racing - Driving, Simulation, Sports, Addon].zip
+tdc_id: '5147.3'
+title:
+  screen: IndyCar Racing 1.02+ GUS patch
+publisher: Virgin Interactive Entertainment, Inc.
+year: '1993'
+genre:
+- Racing - Driving
+- Simulation
+- Sports
+- Addon
+language: English
+date:
+  added: '2020-03-28T13:26:22'
+  last_modified: '2020-03-28T13:26:22'
+type: zip
+media: Download
+patch: true
+files:
+- name: FILE_ID.DIZ
+  size: 32
+  date: '1987-07-17T07:27:36'
+  crc: '0x7d662970'
+- name: GRAVIS.TXT
+  size: 600
+  date: '1994-02-01T16:31:32'
+  crc: '0xff483983'
+- name: GUSDIG32.DLL
+  size: 28319
+  date: '1994-01-26T13:59:02'
+  crc: '0xf20b01e7'
+- name: GUSMID32.DLL
+  size: 58765
+  date: '1994-01-26T13:59:12'
+  crc: '0x41a6e7eb'
+- name: ICR.INI
+  size: 1720
+  date: '1994-02-01T15:51:08'
+  crc: '0x63ad683e'
+- name: LOADPATS.EXE
+  size: 24657
+  date: '1994-01-21T11:48:04'
+  crc: '0xce5885bd'
+- name: RUNICR.BAT
+  size: 29
+  date: '1994-02-01T16:10:12'
+  crc: '0xe3a1ab13'
+- name: SETUPICR.BAT
+  size: 122
+  date: '1994-02-01T16:25:20'
+  crc: '0x7579ac6a'

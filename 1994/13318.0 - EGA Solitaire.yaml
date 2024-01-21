@@ -1,0 +1,41 @@
+filename: EGA Solitaire v1.5 [SW] (1994)(Kevin Hubbard) [Strategy, Cards].zip
+tdc_id: '13318.0'
+title:
+  screen: EGA Solitaire
+publisher: Kevin Hubbard
+year: '1994'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2012-07-08T20:48:36'
+  last_modified: '2012-07-08T20:48:36'
+version: '1.5'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: EGASOL.EXE
+files:
+- name: EGASOL.EXE
+  size: 41584
+  date: '1994-09-27T12:46:52'
+  crc: '0x0c0bc9fb'
+- name: EGAVGA.BGI
+  size: 5527
+  date: '1992-11-03T07:00:00'
+  crc: '0xa33014d5'
+- name: FILE_ID.DIZ
+  size: 57
+  date: '1994-09-30T23:26:06'
+  crc: '0x11d0262f'
+- name: ORDER.FRM
+  size: 1590
+  date: '1994-09-27T16:06:46'
+  crc: '0x0b5e35be'
+- name: README.TXT
+  size: 3628
+  date: '1994-09-28T15:42:10'
+  crc: '0x66f83d20'

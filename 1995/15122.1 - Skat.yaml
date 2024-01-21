@@ -1,0 +1,38 @@
+filename: Skat v2.12 (De) (1995)(Gerlinde Fischer) [Strategy, Cards].zip
+tdc_id: '15122.1'
+title:
+  screen: Skat
+publisher: Gerlinde Fischer
+year: '1995'
+genre:
+- Strategy
+- Cards
+language: German
+date:
+  added: '2019-03-02T09:03:14'
+  last_modified: '2019-03-02T09:03:14'
+version: '2.12'
+type: zip
+commands:
+  play: SKAT.EXE
+files:
+- name: SKAT.ANL
+  size: 13710
+  date: '1995-08-02T08:48:34'
+  crc: '0xf6f7bbf9'
+- name: SKAT.EXE
+  size: 217126
+  date: '1995-08-02T18:24:30'
+  crc: '0x3f4f602b'
+- name: SKAT.ICO
+  size: 766
+  date: '1993-08-08T18:00:00'
+  crc: '0xa1de5dbf'
+- name: SKAT.PIF
+  size: 545
+  date: '1995-06-09T09:46:54'
+  crc: '0x2db6e1ae'
+- name: SKAT.VGA
+  size: 120307
+  date: '1993-08-08T18:00:00'
+  crc: '0xe025b941'

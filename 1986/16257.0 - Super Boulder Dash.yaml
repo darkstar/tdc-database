@@ -1,0 +1,50 @@
+filename: Super Boulder Dash [DC] (1986)(Electronic Arts, Inc.) [Action, Strategy, Compilation].zip
+tdc_id: '16257.0'
+title:
+  box: Super Boulder Dash
+publisher: Electronic Arts, Inc.
+year: '1986'
+genre:
+- Action
+- Strategy
+- Compilation
+language: English
+date:
+  added: '2019-03-01T18:24:58'
+  last_modified: '2019-03-01T18:24:58'
+type: zip
+tags:
+- DOSConversion
+compilation: true
+references:
+  dosid: DOS05844
+  exodos: Boulder Dash II - Rockford's Revenge (1985).zip
+files:
+- name: BD1PC.COM
+  size: 31007
+  date: '2013-04-06T22:24:00'
+  crc: '0x80eba074'
+- name: BD1PCJR.COM
+  size: 30991
+  date: '2013-04-06T22:24:00'
+  crc: '0x553b2243'
+- name: BD1TANDY.COM
+  size: 31551
+  date: '2013-04-06T22:24:00'
+  crc: '0xccfefcfe'
+- name: BD2PC.COM
+  size: 44655
+  date: '2013-04-06T22:24:00'
+  crc: '0xc107218e'
+- name: BD2PCJR.COM
+  size: 44671
+  date: '2013-04-06T22:24:00'
+  crc: '0xad370678'
+- name: BD2TANDY.COM
+  size: 45343
+  date: '2013-04-06T22:24:00'
+  crc: '0x3b471cf5'
+- name: START.COM
+  size: 256
+  date: '2013-04-06T22:24:00'
+  crc: '0x01fbff93'

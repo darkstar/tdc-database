@@ -1,0 +1,43 @@
+filename: Mopsy II- Die Welt von Dr. Böse (Installer) (De) [SW] (1995)(Funny Games) [Action].zip
+tdc_id: '14335.1'
+title:
+  screen: 'Mopsy II: Die Welt'
+publisher: Funny Games
+year: '1995'
+genre: Action
+language: German
+date:
+  added: '2021-12-11T18:19:50'
+  last_modified: '2022-11-21T20:07:34'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: HYPER.EXE
+  size: 16039
+  date: '1992-05-18T01:46:00'
+  crc: '0x44d60375'
+- name: INST.BAT
+  size: 1153
+  date: '1995-05-01T23:53:40'
+  crc: '0xc40b5e0f'
+- name: INSTALL.EXE
+  size: 31371
+  date: '1995-04-19T16:05:08'
+  crc: '0x3ada0b57'
+- name: INSTALL.TXT
+  size: 670
+  date: '1995-04-19T16:05:08'
+  crc: '0x03c2edd3'
+- name: M2.HYP
+  size: 1195664
+  date: '1995-05-10T15:46:52'
+  crc: '0x0d9758d1'
+- name: NOVIRUS.INF
+  size: 2972
+  date: '1995-05-04T10:32:24'
+  crc: '0x96448cba'

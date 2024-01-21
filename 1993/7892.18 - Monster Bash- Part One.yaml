@@ -1,0 +1,32 @@
+filename: Monster Bash- Part One v2.1 (Installer) [SW] (1993)(Apogee Software, Ltd.) [Action].zip
+tdc_id: '7892.18'
+title:
+  screen: 'Monster Bash: Part One'
+publisher: Apogee Software, Ltd.
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-07-04T10:54:54'
+  last_modified: '2019-07-04T10:54:54'
+version: '2.1'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 558
+  date: '1993-05-25T14:10:00'
+  crc: '0x3262acc5'
+- name: INSTALL.EXE
+  size: 142130
+  date: '1993-05-25T14:10:00'
+  crc: '0xe4704fa3'
+- name: MBSW21.SHR
+  size: 966240
+  date: '1993-05-25T14:10:00'
+  crc: '0x66eb3f12'

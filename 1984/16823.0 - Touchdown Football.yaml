@@ -1,0 +1,26 @@
+filename: Touchdown Football (PCjr) v1.00 (1984)(IBM) [Sports].img.zip
+tdc_id: '16823.0'
+parent_id: '16823.2'
+title:
+  box: Touchdown Football
+  qualifier: PCjr
+publisher: IBM
+year: '1984'
+genre: Sports
+language: English
+date:
+  added: '2019-12-29T13:46:00'
+  last_modified: '2023-05-01T09:55:06'
+version: '1.00'
+type: zip
+requirements:
+  cpu:
+    min: '8088'
+media: 360K
+references:
+  mobygames: https://www.mobygames.com/game/100/touchdown-football/
+files:
+- name: TDFBPCJR.IMG
+  size: 327680
+  date: '2007-12-31T17:00:00'
+  crc: '0x0fbaedb6'

@@ -1,0 +1,46 @@
+filename: Brocha Gorda (Es) (1992)(Ediciones Manali, S.A.) [Action].zip
+tdc_id: '12835.0'
+title:
+  screen: Brocha Gorda
+publisher: Ediciones Manali, S.A.
+year: '1992'
+genre: Action
+language: Spanish
+date:
+  added: '2019-03-01T18:41:36'
+  last_modified: '2019-03-01T18:41:36'
+type: zip
+commands:
+  play: BROCHA.EXE
+references:
+  dosid: DOS15268
+  exodos: Brocha Gorda (1992).zip
+files:
+- name: BROCHA.EXE
+  size: 46303
+  date: '1980-01-01T07:01:10'
+  crc: '0x4e05706e'
+- name: BROCHA.SPR
+  size: 2884
+  date: '1980-01-01T03:01:00'
+  crc: '0xbfa9330a'
+- name: LETRAS.DAT
+  size: 1320
+  date: '1980-01-01T02:39:44'
+  crc: '0xe5f9e27d'
+- name: P1.CMP
+  size: 8742
+  date: '1980-01-01T02:54:24'
+  crc: '0x6887906f'
+- name: P2.CMP
+  size: 5302
+  date: '1980-01-01T02:55:06'
+  crc: '0x7db34920'
+- name: TECLAINT.BIN
+  size: 98
+  date: '1980-01-01T00:02:44'
+  crc: '0x53a1e02e'
+- name: TROZOS.BIN
+  size: 520
+  date: '1980-01-01T00:20:08'
+  crc: '0x94b9ab54'

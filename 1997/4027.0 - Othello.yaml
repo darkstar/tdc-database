@@ -1,0 +1,34 @@
+filename: Othello (1997)(Antoni Gual) [Strategy, Board].zip
+tdc_id: '4027.0'
+title:
+  screen: Othello
+publisher: Antoni Gual
+year: '1997'
+genre:
+- Strategy
+- Board
+language: English
+date:
+  added: '2019-03-02T10:36:04'
+  last_modified: '2019-03-02T10:36:04'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 33
+  date: '2018-11-27T18:22:40'
+  crc: '0x9a5822bb'
+- name: OTHELLO.BAS
+  size: 21816
+  date: '2018-03-10T11:55:24'
+  crc: '0x651857ae'
+- name: QB.EXE
+  size: 278804
+  date: '2016-03-13T01:19:58'
+  crc: '0xb08bc0fe'
+- name: QB.QLB
+  size: 5822
+  date: '2016-03-13T01:20:46'
+  crc: '0x5f7d93e0'

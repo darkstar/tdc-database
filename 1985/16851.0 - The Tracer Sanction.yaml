@@ -1,0 +1,33 @@
+filename: Tracer Sanction, The v1.0 [DC] (1985)(Activision, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '16851.0'
+title:
+  box: The Tracer Sanction
+publisher: Activision, Inc.
+year: '1985'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:24:18'
+  last_modified: '2023-10-14T14:59:26'
+version: '1.0'
+type: zip
+tags:
+- DOSConversion
+media: 360K
+commands:
+  play: SANCTION.EXE
+references:
+  mobygames: https://www.mobygames.com/game/7485/the-tracer-sanction/
+  dosid: DOS05997
+  exodos: Tracer Sanction, The (1984).zip
+files:
+- name: SANCTION.EXE
+  size: 37888
+  date: '2006-05-26T11:48:02'
+  crc: '0x5483c15f'
+- name: TRACER.320
+  size: 327680
+  date: '1997-08-24T00:33:00'
+  crc: '0xc8ccfd18'

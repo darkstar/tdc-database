@@ -1,0 +1,76 @@
+filename: Cordat CoreWars v1.25 (Pl) (1993)(Cordat-Krakow) [Strategy].zip
+tdc_id: '2592.0'
+title:
+  screen: Cordat CoreWars
+publisher: Cordat-Krakow
+year: '1993'
+genre: Strategy
+language: Polish
+date:
+  added: '2019-03-01T19:02:04'
+  last_modified: '2019-03-01T19:02:04'
+version: '1.25'
+type: zip
+commands:
+  play: CCW.EXE
+files:
+- name: CCW.CFG
+  size: 190
+  date: '2001-11-26T09:18:18'
+  crc: '0x2ff41efe'
+- name: CCW.EXE
+  size: 108439
+  date: '2000-10-19T12:49:28'
+  crc: '0x9528d8e9'
+- name: CCW.HLP
+  size: 60848
+  date: '2000-10-18T08:57:26'
+  crc: '0x7f6672b7'
+- name: EDYN.DAT
+  size: 14188
+  date: '2000-10-18T08:57:12'
+  crc: '0xedbbf4f0'
+- name: ESTAT.DAT
+  size: 15448
+  date: '2000-10-18T08:57:14'
+  crc: '0x44db1db4'
+- name: HDYN.DAT
+  size: 4052
+  date: '2000-10-18T08:57:14'
+  crc: '0x49ac4a4d'
+- name: HPAT.DAT
+  size: 96
+  date: '2000-10-18T08:57:14'
+  crc: '0xdbde4fd7'
+- name: HSTAT.DAT
+  size: 4586
+  date: '2000-10-18T08:57:14'
+  crc: '0x3622dde4'
+- name: MINIMUM.CFG
+  size: 190
+  date: '2000-10-18T08:57:26'
+  crc: '0x15b2bd88'
+- name: README.DOC
+  size: 1142
+  date: '2000-10-18T08:57:26'
+  crc: '0x0fb9b27b'
+- name: SPOKO.CFG
+  size: 190
+  date: '2000-12-30T04:28:50'
+  crc: '0xdeb49587'
+- name: STD.PAL
+  size: 768
+  date: '2000-10-18T08:57:26'
+  crc: '0x4f2f3d77'
+- name: VDYN.DAT
+  size: 14188
+  date: '2000-10-18T08:57:14'
+  crc: '0xedbbf4f0'
+- name: VPAT.DAT
+  size: 96
+  date: '2000-10-18T08:57:14'
+  crc: '0xfaccf49e'
+- name: VSTAT.DAT
+  size: 17560
+  date: '2000-10-18T08:57:14'
+  crc: '0x4c4f5d53'

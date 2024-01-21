@@ -1,0 +1,28 @@
+filename: Hunt the Wumpus (1985)(Anonymous) [Strategy].zip
+tdc_id: '11352.0'
+title:
+  screen: Hunt the Wumpus
+publisher: Anonymous
+year: '1985'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:24:28'
+  last_modified: '2019-03-01T18:24:28'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 26
+  date: '2018-12-08T17:38:20'
+  crc: '0xd662ed0e'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: WUMPUS.BAS
+  size: 8704
+  date: '1980-01-01T00:00:00'
+  crc: '0x4535eb91'

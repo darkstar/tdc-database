@@ -1,0 +1,26 @@
+filename: Yogho Yogho spel (Installer) (Nl) (1995)(Campina) [Action].zip
+tdc_id: '15788.1'
+title:
+  screen: Yogho Yogho spel
+publisher: Campina
+year: '1995'
+genre: Action
+language: Dutch
+date:
+  added: '2019-03-02T09:08:16'
+  last_modified: '2022-11-30T09:37:00'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/yogho-yogho-spel
+files:
+- name: INSTALL.DAT
+  size: 1029977
+  date: '1999-12-31T18:00:00'
+  crc: '0x67f3df96'
+- name: INSTALL.EXE
+  size: 28242
+  date: '1999-12-31T18:00:00'
+  crc: '0x4169ef6b'

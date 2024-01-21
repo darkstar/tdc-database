@@ -1,0 +1,65 @@
+filename: Starduel [SW] (1991)(Tom Lentz) [Action].zip
+tdc_id: '15559.0'
+title:
+  screen: Starduel
+publisher: Tom Lentz
+year: '1991'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:39:32'
+  last_modified: '2019-03-01T18:39:32'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: STARDUEL.EXE
+references:
+  dosid: DOS07667
+  exodos: Starduel (1991).zip
+files:
+- name: COURB.FON
+  size: 19088
+  date: '1987-11-12T13:23:36'
+  crc: '0x2d3871e0'
+- name: FBH.DAT
+  size: 8844
+  date: '1991-01-30T19:34:18'
+  crc: '0x4583c374'
+- name: FFH.DAT
+  size: 8844
+  date: '1991-01-30T19:34:08'
+  crc: '0xdc011bf1'
+- name: HELVB.FON
+  size: 50880
+  date: '1987-11-12T13:25:40'
+  crc: '0xae3a472b'
+- name: ORDER.FRM
+  size: 1244
+  date: '1991-03-27T16:21:00'
+  crc: '0xe830744b'
+- name: ROMAN.FON
+  size: 11120
+  date: '1987-11-12T13:27:10'
+  crc: '0xb2a89c7c'
+- name: SHIPS.DAT
+  size: 49888
+  date: '1991-01-30T19:35:24'
+  crc: '0xe419d4a1'
+- name: STARDUEL.DOC
+  size: 12634
+  date: '1991-04-04T12:07:02'
+  crc: '0xf7223d53'
+- name: STARDUEL.EXE
+  size: 60140
+  date: '1991-04-02T14:57:02'
+  crc: '0x0eb0afb8'
+- name: TBH.DAT
+  size: 8844
+  date: '1991-01-30T19:35:00'
+  crc: '0xcc3239d0'
+- name: TFH.DAT
+  size: 8844
+  date: '1991-01-30T19:34:46'
+  crc: '0xa894a8b2'

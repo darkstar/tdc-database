@@ -1,0 +1,35 @@
+filename: TEGL Mille Bornes [SW] (1990)(TEGL Systems Corporation) [Strategy, Cards].zip
+tdc_id: '16495.0'
+title:
+  screen: TEGL Mille Bornes
+publisher: TEGL Systems Corporation
+year: '1990'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:34:14'
+  last_modified: '2019-03-01T18:34:14'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: MILLEBRN.EXE
+references:
+  dosid: DOS03570
+  exodos: Mille Bornes (1989).zip
+files:
+- name: MILLEBRN.DOC
+  size: 12045
+  date: '1990-04-05T08:13:58'
+  crc: '0xb3f768fb'
+- name: MILLEBRN.EXE
+  size: 110596
+  date: '1990-07-10T00:21:02'
+  crc: '0xa2c8c8be'
+- name: MILLEBRN.USR
+  size: 158
+  date: '1990-07-10T00:45:22'
+  crc: '0xdba74e25'

@@ -1,0 +1,61 @@
+filename: Rally World Championship Racing 2002 v0.65a (De) (2002)(Fatih Tavukcu) [Action, Racing - Driving].zip
+tdc_id: '4843.0'
+title:
+  screen: Rally World Championship Racing 2002
+publisher: Fatih Tavukcu
+year: '2002'
+genre:
+- Action
+- Racing - Driving
+language: German
+date:
+  added: '2019-03-02T10:56:10'
+  last_modified: '2019-03-02T10:56:10'
+version: 0.65a
+type: zip
+commands:
+  play: RWCR2002.exe
+files:
+- name: RWCR2002.exe
+  size: 83444
+  date: '2002-01-06T00:49:42'
+  crc: '0x8850763e'
+- name: dat\
+  size: 0
+  date: '2002-01-03T13:55:00'
+- name: dat\Rwcred.exe
+  size: 415744
+  date: '2002-01-05T15:29:14'
+  crc: '0x731182c2'
+- name: dat\legal.dat
+  size: 65080
+  date: '2002-01-03T13:01:46'
+  crc: '0x945405fa'
+- name: dat\level1.lvl
+  size: 20161
+  date: '2002-01-06T01:17:54'
+  crc: '0x946635e3'
+- name: dat\readmeed.txt
+  size: 4524
+  date: '2002-03-07T17:15:00'
+  crc: '0xf80e60ce'
+- name: dat\rwcr2002.dat
+  size: 65080
+  date: '2002-01-05T14:08:40'
+  crc: '0xf02dfdb7'
+- name: dat\select.bmp
+  size: 4280
+  date: '2002-01-05T14:49:42'
+  crc: '0x37ce6c21'
+- name: dat\title.dat
+  size: 65080
+  date: '2002-01-03T11:51:30'
+  crc: '0x2c0c8c9d'
+- name: liesmich.txt
+  size: 5190
+  date: '2002-03-07T17:25:04'
+  crc: '0x2de394d7'
+- name: readme.txt
+  size: 304
+  date: '2002-03-07T17:55:22'
+  crc: '0x76738d09'

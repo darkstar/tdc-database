@@ -1,0 +1,49 @@
+filename: MiG-29 Fulcrum (demo) (1991)(Domark Software, Ltd.) [Simulation].zip
+tdc_id: '14284.1'
+title:
+  screen: MiG-29 Fulcrum
+  qualifier: demo
+publisher: Domark Software, Ltd.
+year: '1991'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:36:52'
+  last_modified: '2019-03-01T18:36:52'
+type: zip
+demo: true
+commands:
+  play: MIG29.EXE
+files:
+- name: D\CDEMO
+  size: 192
+  date: '1991-01-01T00:00:00'
+  crc: '0x2f187fb4'
+- name: D\COCKPIT
+  size: 16864
+  date: '1991-01-01T00:00:00'
+  crc: '0xb537b561'
+- name: D\DEMOG
+  size: 6224
+  date: '1991-01-01T00:00:00'
+  crc: '0xcc44e1fc'
+- name: D\DEMOS
+  size: 7204
+  date: '1991-01-01T00:00:00'
+  crc: '0xef7d1737'
+- name: D\TITLE
+  size: 26420
+  date: '1991-01-01T00:00:00'
+  crc: '0x25b856ce'
+- name: MIG29.DOC
+  size: 2325
+  date: '1991-01-01T00:00:00'
+  crc: '0x40afd7f0'
+- name: MIG29.EXE
+  size: 91965
+  date: '1991-01-01T00:00:00'
+  crc: '0x86999d8f'
+- name: README
+  size: 599
+  date: '1991-02-27T15:57:50'
+  crc: '0x3fb8bbdd'

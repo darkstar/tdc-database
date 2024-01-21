@@ -1,0 +1,28 @@
+filename: Pong (1998)(Joe) [Action].zip
+tdc_id: '10401.0'
+title:
+  screen: Pong
+publisher: Joe
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:44:14'
+  last_modified: '2019-03-02T10:44:14'
+type: zip
+media: Download
+commands:
+  play: PLAY.BAT
+files:
+- name: PLAY.BAT
+  size: 18
+  date: '2016-07-07T18:30:48'
+  crc: '0x6b199f4f'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-08T17:28:02'
+  crc: '0x19f6ed75'
+- name: pong.bas
+  size: 1676
+  date: '2016-02-21T21:09:46'
+  crc: '0x25e3b21f'

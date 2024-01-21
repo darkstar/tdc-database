@@ -1,0 +1,27 @@
+filename: Surround (1990)(Big-B Soft) [Action].zip
+tdc_id: '2097.0'
+title:
+  screen: Surround
+publisher: Big-B Soft
+year: '1990'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:34:12'
+  last_modified: '2019-03-01T18:34:12'
+type: zip
+commands:
+  play: SURROUND.EXE
+files:
+- name: HIGHSCOR.SUR
+  size: 27
+  date: '1990-08-30T10:48:12'
+  crc: '0xa11717f1'
+- name: README.DOC
+  size: 3341
+  date: '1990-08-30T10:09:40'
+  crc: '0x1d04bf70'
+- name: SURROUND.EXE
+  size: 30064
+  date: '1990-08-27T17:09:14'
+  crc: '0x8dfc498b'

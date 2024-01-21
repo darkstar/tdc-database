@@ -1,0 +1,37 @@
+filename: Faceshooter v2.1 (1998)(Mike Conley) [Action].zip
+tdc_id: '956.0'
+title:
+  screen: Faceshooter
+publisher: Mike Conley
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:41:12'
+  last_modified: '2019-03-02T10:41:12'
+version: '2.1'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: FS.BAS
+  size: 5287
+  date: '2018-12-07T11:16:48'
+  crc: '0x6d34da7e'
+- name: FS.SRC
+  size: 5297
+  date: '1998-08-15T17:19:36'
+  crc: '0x823418b1'
+- name: GO.BAT
+  size: 22
+  date: '2018-12-07T11:15:22'
+  crc: '0xa2e76b1a'
+- name: POP.VOC
+  size: 4475
+  date: '1995-01-03T16:52:42'
+  crc: '0x230a4bcd'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

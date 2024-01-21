@@ -1,0 +1,44 @@
+filename: DreamWeb (Installer) (1994)(Empire Interactive Entertainment) [Adventure].zip
+tdc_id: '9516.0'
+title:
+  box: DreamWeb
+publisher: Empire Interactive Entertainment
+year: '1994'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T21:56:20'
+  last_modified: '2019-03-01T21:56:20'
+type: zip
+installer: true
+commands:
+  play: install.exe
+files:
+- name: dreamw_1.rnc
+  size: 1400000
+  date: '1996-12-24T23:32:00'
+  crc: '0x093c23cf'
+- name: dreamw_2.rnc
+  size: 1457664
+  date: '1996-12-24T23:32:00'
+  crc: '0xd216420b'
+- name: dreamw_3.rnc
+  size: 1457664
+  date: '1996-12-24T23:32:00'
+  crc: '0x5c91c6cf'
+- name: dreamw_4.rnc
+  size: 1457664
+  date: '1996-12-24T23:32:00'
+  crc: '0x159f0844'
+- name: dreamw_5.rnc
+  size: 1457664
+  date: '1996-12-24T23:32:00'
+  crc: '0xc9b0e9f0'
+- name: dreamw_6.rnc
+  size: 662246
+  date: '1996-12-24T23:32:00'
+  crc: '0x1d742d92'
+- name: install.exe
+  size: 48016
+  date: '1996-12-24T23:32:00'
+  crc: '0xb0ad210b'

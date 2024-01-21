@@ -1,0 +1,56 @@
+filename: Blue Force v1.11 (Installer) (1993)(Tsunami Media, Inc.) [Adventure].zip
+tdc_id: '8522.4'
+parent_id: '8522.7'
+title:
+  box: Blue Force
+publisher: Tsunami Media, Inc.
+year: '1993'
+genre: Adventure
+language: English
+date:
+  added: '2022-02-25T17:46:32'
+  last_modified: '2022-02-25T17:46:32'
+version: '1.11'
+type: zip
+installer: true
+files:
+- name: BLUE.EXE
+  size: 1082928
+  date: '1993-06-28T14:46:04'
+  crc: '0xf77a26c2'
+- name: BLUE.RLB
+  size: 63863322
+  date: '1993-06-28T11:48:04'
+  crc: '0x507412da'
+- name: COPYLIB.EXE
+  size: 172848
+  date: '1993-05-21T19:29:38'
+  crc: '0x2f02321d'
+- name: DEMOPS.EXE
+  size: 343823
+  date: '1993-05-28T10:26:54'
+  crc: '0x0c561325'
+- name: DEMOPS.RLB
+  size: 511111
+  date: '1993-05-28T13:04:18'
+  crc: '0xc2e41fc6'
+- name: DEMORING.EXE
+  size: 267891
+  date: '1993-05-28T10:32:42'
+  crc: '0x71367c26'
+- name: DEMORING.RLB
+  size: 832206
+  date: '1993-05-28T14:36:06'
+  crc: '0xbc504d95'
+- name: INSTALL.EXE
+  size: 226800
+  date: '1993-06-22T10:36:14'
+  crc: '0xf33a6521'
+- name: INSTALL.RLB
+  size: 47867
+  date: '1993-06-22T10:28:54'
+  crc: '0xc2633723'
+- name: TSAGE.CFG
+  size: 503
+  date: '1993-06-28T14:53:16'
+  crc: '0x36773783'

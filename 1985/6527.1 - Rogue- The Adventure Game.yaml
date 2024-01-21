@@ -1,0 +1,39 @@
+filename: Rogue- The Adventure Game v1.49 (1985)(Epyx, Inc.) [Role-Playing (RPG)].zip
+tdc_id: '6527.1'
+title:
+  box: 'Rogue: The Adventure Game'
+publisher: Epyx, Inc.
+year: '1985'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:24:32'
+  last_modified: '2019-03-01T18:24:32'
+version: '1.49'
+type: zip
+references:
+  dosid: DOS04361
+  exodos: Rogue (1983).zip
+files:
+- name: MKOPT.EXE
+  size: 14016
+  date: '1985-03-25T14:33:18'
+  crc: '0xc827b49c'
+- name: ROGUE.COM
+  size: 2616
+  date: '1995-09-01T18:46:18'
+  crc: '0xe91d015d'
+- name: ROGUE.EXE
+  size: 71520
+  date: '1986-05-30T12:55:50'
+  crc: '0xdc7b742c'
+- name: ROGUE.OPT
+  size: 0
+  date: '1995-08-26T12:11:38'
+- name: ROGUE.PIC
+  size: 16391
+  date: '1985-03-25T16:53:10'
+  crc: '0x57106c0e'
+- name: ROGUE.SCR
+  size: 0
+  date: '1995-08-26T12:11:38'

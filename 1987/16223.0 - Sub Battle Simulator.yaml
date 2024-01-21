@@ -1,0 +1,86 @@
+filename: Sub Battle Simulator (1987)(Epyx, Inc.) [Simulation].zip
+tdc_id: '16223.0'
+title:
+  box: Sub Battle Simulator
+publisher: Epyx, Inc.
+year: '1987'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:25:40'
+  last_modified: '2019-03-01T18:25:40'
+type: zip
+commands:
+  play: SUB.EXE
+references:
+  dosid: DOS04921
+  exodos: Sub Battle Simulator (1987).zip
+files:
+- name: CONVOY.DAT
+  size: 2310
+  date: '1987-01-22T15:02:58'
+  crc: '0x23e58b39'
+- name: DIALOGS.DAT
+  size: 2020
+  date: '1987-02-02T22:33:10'
+  crc: '0x81e90c1b'
+- name: EXTRA.DAT
+  size: 96
+  date: '1987-01-22T15:02:58'
+  crc: '0x6a615daa'
+- name: FAME.DAT
+  size: 384
+  date: '1987-02-03T03:18:16'
+  crc: '0xc71ea62c'
+- name: KEY.DAT
+  size: 128
+  date: '1987-01-25T17:07:40'
+  crc: '0x7aedcf2f'
+- name: MISSION.TXT
+  size: 21326
+  date: '1987-01-21T23:00:40'
+  crc: '0xcc6bbb3f'
+- name: MISSIONS.DAT
+  size: 3000
+  date: '1987-01-22T15:02:58'
+  crc: '0x49a213a8'
+- name: NEWSUB.RES
+  size: 142578
+  date: '1987-02-02T01:24:22'
+  crc: '0x03fbf95e'
+- name: PARTY.DAT
+  size: 144
+  date: '1987-01-22T15:02:24'
+  crc: '0x73642174'
+- name: PLANES.DAT
+  size: 88
+  date: '1987-01-22T15:02:26'
+  crc: '0xf4d09391'
+- name: PORTS.DAT
+  size: 260
+  date: '1987-01-22T15:02:26'
+  crc: '0xa0758692'
+- name: SHIPGUNS.DAT
+  size: 48
+  date: '1987-01-22T15:02:24'
+  crc: '0xae9248bd'
+- name: SHIPPOLY.DAT
+  size: 13200
+  date: '1987-01-22T15:02:26'
+  crc: '0x1dc9ab96'
+- name: SHIPS.DAT
+  size: 480
+  date: '1987-01-22T15:02:24'
+  crc: '0x53f4d8d6'
+- name: SUB.EXE
+  size: 80311
+  date: '1987-02-04T15:14:32'
+  crc: '0xe94c019a'
+- name: SUBTYPES.DAT
+  size: 204
+  date: '1987-01-22T15:02:24'
+  crc: '0x35cfa0dd'
+- name: TORPS.DAT
+  size: 126
+  date: '1987-01-22T15:02:24'
+  crc: '0x4eda0106'

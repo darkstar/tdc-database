@@ -1,0 +1,49 @@
+filename: Fantasy Empires (Installer) (1993)(Strategic Simulations, Inc.) [Strategy].zip
+tdc_id: '13494.1'
+parent_id: '13494.4'
+title:
+  box: Fantasy Empires
+publisher: Strategic Simulations, Inc.
+year: '1993'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T19:08:28'
+  last_modified: '2019-03-01T19:08:28'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: BOOT.NFO
+  size: 33
+  date: '1993-10-07T08:58:32'
+  crc: '0xe6d39593'
+- name: DATA1.ARJ
+  size: 1385400
+  date: '1993-10-07T08:23:18'
+  crc: '0x0552567e'
+- name: DATA2.ARJ
+  size: 1385577
+  date: '1993-10-07T16:14:00'
+  crc: '0x7b75c43f'
+- name: DATA3.ARJ
+  size: 1385273
+  date: '1993-10-07T08:30:50'
+  crc: '0x5db2a72f'
+- name: DATA4.ARJ
+  size: 1308981
+  date: '1993-10-07T20:11:00'
+  crc: '0xf3c25aa8'
+- name: DEARJ.EXE
+  size: 39441
+  date: '1993-03-19T16:18:52'
+  crc: '0x284b68d2'
+- name: INSTALL.EXE
+  size: 27963
+  date: '1993-07-28T14:58:08'
+  crc: '0x99ba3d9c'
+- name: INSTALL.NFO
+  size: 142
+  date: '1993-10-07T08:58:32'
+  crc: '0x46a75628'

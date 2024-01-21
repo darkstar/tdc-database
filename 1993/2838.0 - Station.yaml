@@ -1,0 +1,43 @@
+filename: Station [SW] (1993)(Shareware Systems) [Strategy, Simulation].zip
+tdc_id: '2838.0'
+title:
+  screen: Station
+publisher: Shareware Systems
+year: '1993'
+genre:
+- Strategy
+- Simulation
+language: English
+date:
+  added: '2019-03-01T21:08:56'
+  last_modified: '2019-03-01T21:08:56'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: STATION.EXE
+references:
+  dosid: DOS07101
+  exodos: Station (1992).zip
+files:
+- name: ABOUT.ME
+  size: 150
+  date: '1992-06-30T10:25:44'
+  crc: '0xc0496f15'
+- name: PACKING.LST
+  size: 417
+  date: '1992-01-03T22:45:36'
+  crc: '0xdfb5eb1c'
+- name: STATION.DAT
+  size: 129920
+  date: '1992-01-03T22:04:24'
+  crc: '0xf2220360'
+- name: STATION.DOC
+  size: 14325
+  date: '1992-01-03T22:41:26'
+  crc: '0xccc9ce6e'
+- name: STATION.EXE
+  size: 153072
+  date: '1992-01-03T22:49:06'
+  crc: '0xf1aa1546'

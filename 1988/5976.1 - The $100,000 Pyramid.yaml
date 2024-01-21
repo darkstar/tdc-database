@@ -1,0 +1,90 @@
+filename: $100,000 Pyramid, The v3.1 (1988)(Box Office, Inc.) [Trivia].zip
+tdc_id: '5976.1'
+parent_id: '5976.2'
+title:
+  box: The $100,000 Pyramid
+publisher: Box Office, Inc.
+year: '1988'
+genre: Trivia
+language: English
+date:
+  added: '1991-01-20T01:28:08'
+  last_modified: '2023-05-17T09:51:08'
+version: '3.1'
+type: zip
+media: 720K
+commands:
+  play: GAME.BAT
+references:
+  mobygames: https://www.mobygames.com/game/dos/100000-pyramid_
+  dosid: DOS00604
+  exodos: $100,000 Pyramid (1988).zip
+files:
+- name: BCAT.DAT
+  size: 19589
+  date: '1988-01-25T17:47:32'
+  crc: '0xd412679e'
+- name: BO_SCR.PIC
+  size: 16392
+  date: '1992-01-22T05:58:20'
+  crc: '0xb907cb30'
+- name: BO_SHP.PIC
+  size: 16392
+  date: '1987-12-13T01:55:52'
+  crc: '0x9f190bbf'
+- name: BO_TITLE.EXE
+  size: 9382
+  date: '1988-01-22T18:21:28'
+  crc: '0x3b8a6137'
+- name: CAT.DAT
+  size: 34381
+  date: '1988-02-03T00:50:32'
+  crc: '0xedc8cfe2'
+- name: FNT.PIC
+  size: 16392
+  date: '1988-01-24T15:19:48'
+  crc: '0xd6e0cec8'
+- name: GAME.BAT
+  size: 30
+  date: '1987-12-17T12:27:20'
+  crc: '0x55082609'
+- name: PYRAMID.EXE
+  size: 57624
+  date: '1988-02-03T03:30:32'
+  crc: '0xd6424bb3'
+- name: PYRAMID.HLP
+  size: 4837
+  date: '1988-01-27T12:29:16'
+  crc: '0xb7831510'
+- name: PYRAMID.SCR
+  size: 240
+  date: '1980-01-01T00:57:56'
+  crc: '0xd95d55d1'
+- name: PYRAMID1.PIC
+  size: 16392
+  date: '1988-01-24T14:14:34'
+  crc: '0x5985e785'
+- name: PYRAMID2.PIC
+  size: 16392
+  date: '1987-12-14T17:18:00'
+  crc: '0xa0b612ca'
+- name: PYRAMID3.PIC
+  size: 16392
+  date: '1987-12-18T16:48:30'
+  crc: '0x5a4624ba'
+- name: PYRAMID4.PIC
+  size: 16392
+  date: '1987-12-21T17:05:52'
+  crc: '0xf5a1572d'
+- name: RND.DAT
+  size: 16000
+  date: '1987-12-11T19:59:58'
+  crc: '0xafbab816'
+- name: VERS.DAT
+  size: 88
+  date: '1980-01-01T00:53:12'
+  crc: '0xc8f36394'
+- name: WINNER.PIC
+  size: 16392
+  date: '1988-01-18T17:11:08'
+  crc: '0x51c319b7'

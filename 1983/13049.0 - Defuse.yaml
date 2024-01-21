@@ -1,0 +1,32 @@
+filename: Defuse [SW] (1983)(Dynacomp Inc.) [Strategy, Puzzle].zip
+tdc_id: '13049.0'
+title:
+  screen: Defuse
+publisher: Dynacomp Inc.
+year: '1983'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-09-02T05:03:36'
+  last_modified: '2019-09-02T05:03:36'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: BOMB.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T12:00:00'
+  crc: '0x92293842'
+- name: BOMB.BAS
+  size: 2048
+  date: '1980-01-01T13:00:00'
+  crc: '0x87a46ec4'
+- name: BOMB.BAT
+  size: 14
+  date: '1980-01-01T12:00:00'
+  crc: '0x63576586'

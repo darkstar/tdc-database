@@ -1,0 +1,31 @@
+filename: Horde, The v1.1 (1994)(Crystal Dynamics, Inc.) [ccd].zip
+tdc_id: '8363.7'
+title:
+  box: The Horde
+publisher: Crystal Dynamics, Inc.
+year: '1994'
+genre: ccd
+language: English
+date:
+  added: '2023-02-20T10:20:27'
+  last_modified: '2023-02-20T10:20:27'
+version: '1.1'
+type: ccd
+media: CD-ROM
+audio:
+- CD-DA
+references:
+  mobygames: https://www.mobygames.com/game/dos/horde
+files:
+- name: cd.ccd
+  size: 2883
+  date: '1999-12-31T19:00:00'
+  crc: '0xb03fd012'
+- name: cd.img
+  size: 558282480
+  date: '1999-12-31T19:00:00'
+  crc: '0xb2a5978e'
+- name: cd.sub
+  size: 22787040
+  date: '1999-12-31T19:00:00'
+  crc: '0x75557f3e'

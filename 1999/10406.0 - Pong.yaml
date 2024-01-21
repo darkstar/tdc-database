@@ -1,0 +1,28 @@
+filename: Pong (1999)(Anonymous) [Action].zip
+tdc_id: '10406.0'
+title:
+  screen: Pong
+publisher: Anonymous
+year: '1999'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:46:20'
+  last_modified: '2019-03-02T10:46:20'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 24
+  date: '2018-12-18T10:47:46'
+  crc: '0x948bec37'
+- name: PONG.BAS
+  size: 5219
+  date: '1999-08-28T14:08:06'
+  crc: '0xa5a1264d'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

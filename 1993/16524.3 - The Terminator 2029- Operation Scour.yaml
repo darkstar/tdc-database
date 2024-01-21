@@ -1,0 +1,54 @@
+filename: Terminator 2029, The- Operation Scour (Installer) (1993)(Bethesda Softworks LLC) [Action, Addon].zip
+tdc_id: '16524.3'
+title:
+  box: 'The Terminator 2029: Operation Scour'
+publisher: Bethesda Softworks LLC
+year: '1993'
+genre:
+- Action
+- Addon
+language: English
+date:
+  added: '2019-03-01T21:09:42'
+  last_modified: '2019-03-01T21:09:42'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: BOOTEXEC.CPY
+  size: 186
+  date: '1993-04-20T19:12:18'
+  crc: '0xb4ef45ae'
+- name: CONFIG.CPY
+  size: 98
+  date: '1993-04-20T19:12:24'
+  crc: '0x68a94867'
+- name: HELP.TXT
+  size: 5620
+  date: '1993-04-20T19:12:16'
+  crc: '0xb061236f'
+- name: INSTALL.EXE
+  size: 24364
+  date: '1993-04-22T17:50:22'
+  crc: '0xa30439f3'
+- name: T2029.1
+  size: 1414616
+  date: '1993-04-22T18:23:30'
+  crc: '0x93267338'
+- name: T2029.2
+  size: 797837
+  date: '1993-04-22T18:26:30'
+  crc: '0x3c676ce9'
+- name: T2029.H1
+  size: 3072
+  date: '1993-04-22T18:26:44'
+  crc: '0x5f2592a5'
+- name: T2029.H2
+  size: 3840
+  date: '1993-04-22T18:26:30'
+  crc: '0xc8048087'
+- name: T2029.TDS
+  size: 4
+  date: '1993-04-22T18:26:48'
+  crc: '0x4fc48168'

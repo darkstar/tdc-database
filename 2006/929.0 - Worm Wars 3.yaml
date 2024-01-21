@@ -1,0 +1,26 @@
+filename: Worm Wars 3 (2006)(Christian Knudsen) [Action].zip
+tdc_id: '929.0'
+title:
+  screen: Worm Wars 3
+publisher: Christian Knudsen
+year: '2006'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:57:16'
+  last_modified: '2019-03-02T10:57:16'
+type: zip
+commands:
+  play: ww3dos.exe
+references:
+  dosid: DOS06675
+  exodos: WormWars 3 (2006).zip
+files:
+- name: WW3.OPT
+  size: 129
+  date: '2013-04-05T20:59:04'
+  crc: '0x0edf127b'
+- name: ww3dos.exe
+  size: 237248
+  date: '2006-09-30T22:56:00'
+  crc: '0x187ea498'

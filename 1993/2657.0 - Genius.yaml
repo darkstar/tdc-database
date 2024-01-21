@@ -1,0 +1,41 @@
+filename: Genius (1993)(Nick White) [Strategy, Trivia].zip
+tdc_id: '2657.0'
+title:
+  screen: Genius
+publisher: Nick White
+year: '1993'
+genre:
+- Strategy
+- Trivia
+language: English
+date:
+  added: '2019-03-01T19:09:12'
+  last_modified: '2019-03-01T19:09:12'
+type: zip
+commands:
+  play: GENIUS.BAT
+files:
+- name: AUSTMAC.ANS
+  size: 4299
+  date: '1994-03-27T13:32:22'
+  crc: '0xc9d05b50'
+- name: GENIUS.BAT
+  size: 139
+  date: '1994-09-19T21:01:52'
+  crc: '0x8c03ecad'
+- name: NEED.DAT
+  size: 80608
+  date: '1988-10-06T00:00:08'
+  crc: '0x2a44af39'
+- name: PQUESTIO.DAT
+  size: 1948
+  date: '1994-06-04T19:28:06'
+  crc: '0x2acb41d1'
+- name: PRODIGY.DAT
+  size: 6577
+  date: '1994-06-04T19:45:24'
+  crc: '0x1fc6d566'
+- name: TITLE.ANS
+  size: 2609
+  date: '1994-03-27T13:55:04'
+  crc: '0x424e6326'

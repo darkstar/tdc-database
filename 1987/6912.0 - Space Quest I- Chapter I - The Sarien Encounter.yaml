@@ -1,0 +1,125 @@
+filename: Space Quest I- Chapter I - The Sarien Encounter v2.2 (1987)(Sierra On-Line, Inc.) [Adventure].zip
+tdc_id: '6912.0'
+title:
+  box: 'Space Quest I: Chapter I - The Sarien Encounter'
+publisher: Sierra On-Line, Inc.
+year: '1987'
+genre: Adventure
+language: English
+date:
+  added: '2021-08-01T11:38:32'
+  last_modified: '2021-08-01T11:38:32'
+version: '2.2'
+type: zip
+references:
+  dosid: DOS04706
+  exodos: Space Quest I - The Sarien Encounter (1986).zip
+files:
+- name: AGI
+  size: 39424
+  date: '1987-12-01T09:04:12'
+  crc: '0x7e712dee'
+- name: AGIDATA.OVL
+  size: 8192
+  date: '1987-12-01T08:49:20'
+  crc: '0x477bd79b'
+- name: CGA_GRAF.OVL
+  size: 1024
+  date: '1987-12-01T08:48:44'
+  crc: '0x838c18ac'
+- name: CPC.COM
+  size: 8048
+  date: '1985-09-19T16:47:38'
+  crc: '0x5e7f9883'
+- name: EGA_GRAF.OVL
+  size: 1024
+  date: '1987-12-01T08:48:46'
+  crc: '0x67e8b0ad'
+- name: HGC_FONT
+  size: 3072
+  date: '1987-01-26T15:47:26'
+  crc: '0x200435c7'
+- name: HGC_GRAF.OVL
+  size: 1536
+  date: '1987-12-01T08:48:48'
+  crc: '0x7c999ac8'
+- name: HGC_OBJS.OVL
+  size: 1024
+  date: '1987-12-01T08:48:52'
+  crc: '0x4232dbd7'
+- name: IBM_OBJS.OVL
+  size: 512
+  date: '1987-12-01T08:48:50'
+  crc: '0xa0a04da4'
+- name: INSTALLH.BAT
+  size: 1236
+  date: '1987-12-01T09:03:30'
+  crc: '0xb6abcdf5'
+- name: JR_GRAF.OVL
+  size: 512
+  date: '1987-12-01T08:48:46'
+  crc: '0xdc361ea6'
+- name: LOGDIR
+  size: 372
+  date: '1987-05-07T12:50:52'
+  crc: '0x36f49d8d'
+- name: MAKEPATH.COM
+  size: 74
+  date: '1987-04-22T12:05:20'
+  crc: '0xa04a3ac3'
+- name: OBJECT
+  size: 331
+  date: '1987-04-13T17:07:14'
+  crc: '0x8524101a'
+- name: PICDIR
+  size: 315
+  date: '1987-05-07T12:50:52'
+  crc: '0x7fd2d036'
+- name: SIERRA.COM
+  size: 3121
+  date: '1987-12-01T09:03:54'
+  crc: '0x6597e874'
+- name: SIERRA.CO_
+  size: 3121
+  date: '1987-12-01T09:03:54'
+  crc: '0xd4a8580b'
+- name: SNDDIR
+  size: 198
+  date: '1987-05-07T12:50:52'
+  crc: '0x9b80fa17'
+- name: SQ101088.QA
+  size: 13
+  date: '1980-01-01T01:38:58'
+  crc: '0x389fa06d'
+- name: VG_GRAF.OVL
+  size: 512
+  date: '1987-12-01T08:48:50'
+  crc: '0xca491b69'
+- name: VIEWDIR
+  size: 762
+  date: '1987-05-07T12:50:52'
+  crc: '0xe3d0ffbc'
+- name: VOL.0
+  size: 40622
+  date: '1987-05-07T12:49:00'
+  crc: '0xb38bc7a5'
+- name: VOL.1
+  size: 222807
+  date: '1987-05-07T12:49:50'
+  crc: '0x8908c96f'
+- name: VOL.2
+  size: 264177
+  date: '1987-05-07T12:50:52'
+  crc: '0x0ea18761'
+- name: WORDS.TOK
+  size: 4793
+  date: '1987-04-17T15:44:34'
+  crc: '0x7c9d455a'
+- name: _INSTALL.BAT
+  size: 753
+  date: '1987-12-03T11:28:44'
+  crc: '0xdea125a1'
+- name: _SQ.BAT
+  size: 37
+  date: '1987-03-03T09:22:42'
+  crc: '0xefc89aa2'

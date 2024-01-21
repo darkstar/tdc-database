@@ -1,0 +1,76 @@
+filename: Contraption Zack v1.0.5 (1992)(Mindscape, Inc.) [Action, Strategy].zip
+tdc_id: '6115.0'
+parent_id: '6115.1'
+title:
+  box: Contraption Zack
+publisher: Mindscape, Inc.
+year: '1992'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:41:58'
+  last_modified: '2019-03-01T18:41:58'
+version: 1.0.5
+type: zip
+commands:
+  play: ZACK.EXE
+references:
+  dosid: DOS01517
+  exodos: Contraption Zack (1992).zip
+files:
+- name: Drivers\
+  size: 0
+  date: '2012-04-11T23:37:52'
+- name: Drivers\MIDPAK.AD
+  size: 5248
+  date: '2006-06-26T07:57:08'
+  crc: '0x6c318683'
+- name: Drivers\MIDPAK.ADV
+  size: 13968
+  date: '2006-06-26T07:57:08'
+  crc: '0x29697857'
+- name: Drivers\MIDPAK.COM
+  size: 12722
+  date: '2006-06-26T07:57:08'
+  crc: '0xa07eedcf'
+- name: Drivers\SNDRVR.COM
+  size: 3616
+  date: '2006-06-26T07:57:08'
+  crc: '0xfaf09c72'
+- name: RUBEAREA.SAV
+  size: 88
+  date: '2012-03-27T17:51:34'
+  crc: '0xb32f6a8c'
+- name: RUBEAREA.TMP
+  size: 68
+  date: '2012-03-27T17:51:34'
+  crc: '0xfa24ad84'
+- name: Resource\
+  size: 0
+  date: '2012-04-11T23:37:52'
+- name: Resource\INTROEND.PRS
+  size: 1731784
+  date: '2006-06-26T07:57:30'
+  crc: '0xd02c7317'
+- name: Resource\OBJECTS.PRS
+  size: 1148612
+  date: '2006-06-26T08:00:44'
+  crc: '0x89732fb4'
+- name: Resource\ROOMS.PRS
+  size: 270253
+  date: '2006-06-26T07:57:34'
+  crc: '0xb3ab4bfa'
+- name: Resource\WORLD.PRS
+  size: 44671
+  date: '2006-06-26T07:57:34'
+  crc: '0x4e3f508b'
+- name: Resource\ZACK.PRS
+  size: 209007
+  date: '2006-06-26T07:57:32'
+  crc: '0x41da004d'
+- name: ZACK.EXE
+  size: 130746
+  date: '2006-06-26T07:57:06'
+  crc: '0x09bbb183'

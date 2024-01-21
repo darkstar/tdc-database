@@ -1,0 +1,28 @@
+filename: Spacewar v1.50 [SW][o1] (1985)(Bill Seiler) [Action].zip
+tdc_id: '15324.3'
+title:
+  screen: Spacewar
+publisher: Bill Seiler
+year: '1985'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:34'
+  last_modified: '2019-03-01T18:24:34'
+version: '1.50'
+type: zip
+tags:
+- Shareware
+- Overdump: 1
+media: Download
+commands:
+  play: SPACEWAR.EXE
+files:
+- name: SPACEWAR.DOC
+  size: 6144
+  date: '2028-09-13T20:48:04'
+  crc: '0x51a13d61'
+- name: SPACEWAR.EXE
+  size: 23040
+  date: '1980-01-01T00:09:58'
+  crc: '0x8d4640e7'

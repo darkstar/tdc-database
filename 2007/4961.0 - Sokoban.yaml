@@ -1,0 +1,36 @@
+filename: Sokoban (2007)(Rebels) [Strategy, Puzzle].zip
+tdc_id: '4961.0'
+title:
+  screen: Sokoban
+publisher: Rebels
+year: '2007'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-03-02T10:57:20'
+  last_modified: '2019-03-02T10:57:20'
+type: zip
+commands:
+  play: sokoban.com
+references:
+  dosid: DOS07084
+  exodos: Sokoban (2007).zip
+files:
+- name: readme.txt
+  size: 325
+  date: '2007-08-16T21:44:14'
+  crc: '0x7eab9d71'
+- name: rebels.nfo
+  size: 3205
+  date: '2007-08-17T08:15:02'
+  crc: '0xb4532862'
+- name: sokoban.asm
+  size: 4657
+  date: '2007-08-16T21:06:54'
+  crc: '0x7e37a380'
+- name: sokoban.com
+  size: 1024
+  date: '2007-08-16T21:06:54'
+  crc: '0x8e7a4d50'

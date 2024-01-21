@@ -1,0 +1,51 @@
+filename: Sir AddaLot's 'Mini' Math Adventure (Installer) [SW] (1993)(Landmark Solutions, Inc.) [Educational].zip
+tdc_id: '15109.0'
+title:
+  screen: Sir AddaLot's 'Mini' Math Adventure
+publisher: Landmark Solutions, Inc.
+year: '1993'
+genre: Educational
+language: English
+date:
+  added: '2011-07-06T08:36:40'
+  last_modified: '2011-07-06T08:36:40'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.BAT
+files:
+- name: ADDALOTM.001
+  size: 91526
+  date: '1993-08-22T22:19:04'
+  crc: '0xf4c69555'
+- name: ADDALOTM.002
+  size: 210759
+  date: '1993-08-25T15:42:54'
+  crc: '0x824f6665'
+- name: ADDALOTM.DOC
+  size: 7592
+  date: '1993-08-22T22:25:40'
+  crc: '0x4301f3e1'
+- name: FILE_ID.DIZ
+  size: 321
+  date: '1993-06-29T22:25:04'
+  crc: '0x041119c2'
+- name: INSTALL.BAT
+  size: 2870
+  date: '1993-08-25T15:53:50'
+  crc: '0x617638b3'
+- name: ORDER.FRM
+  size: 1325
+  date: '1993-08-22T22:24:56'
+  crc: '0x082280cd'
+- name: README.DOC
+  size: 1124
+  date: '1993-08-25T22:20:12'
+  crc: '0x541754b8'
+- name: VENDOR.DOC
+  size: 2229
+  date: '1993-06-29T22:32:26'
+  crc: '0x48894a56'

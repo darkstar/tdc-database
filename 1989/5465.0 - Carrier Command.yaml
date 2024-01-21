@@ -1,0 +1,26 @@
+filename: Carrier Command (1989)(Microplay Software) [Strategy].zip
+tdc_id: '5465.0'
+title:
+  box: Carrier Command
+publisher: Microplay Software
+year: '1989'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:27:24'
+  last_modified: '2019-03-01T18:27:24'
+type: zip
+commands:
+  play: CARRIER.EXE
+references:
+  dosid: DOS01264
+  exodos: Carrier Command (1989).zip
+files:
+- name: CARRIER.DAT
+  size: 49939
+  date: '2040-10-18T05:25:16'
+  crc: '0xe3931b9d'
+- name: CARRIER.EXE
+  size: 132701
+  date: '2040-10-18T05:25:16'
+  crc: '0xc56e4e66'

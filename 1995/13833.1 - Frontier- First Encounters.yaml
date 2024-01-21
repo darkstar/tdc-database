@@ -1,0 +1,60 @@
+filename: Frontier- First Encounters (Installer) [h1] (1995)(GameTek, Inc.) [Action, Simulation].zip
+tdc_id: '13833.1'
+title:
+  box: 'Frontier: First Encounters'
+publisher: GameTek, Inc.
+year: '1995'
+genre:
+- Action
+- Simulation
+language: English
+date:
+  added: '2019-03-02T08:44:04'
+  last_modified: '2019-03-02T08:44:04'
+type: zip
+tags:
+- Hack: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: BLD_INFO.CFG
+  size: 1542
+  date: '1995-04-04T02:27:28'
+  crc: '0xa04e3cd8'
+- name: DISK.ID
+  size: 26
+  date: '1995-04-04T02:27:38'
+  crc: '0x9ff50f5b'
+- name: FIRSTENC.1
+  size: 1282560
+  date: '1995-04-04T02:28:32'
+  crc: '0x952301f6'
+- name: FIRSTENC.2
+  size: 1457152
+  date: '1995-04-04T02:29:42'
+  crc: '0x763954b2'
+- name: FIRSTENC.3
+  size: 876129
+  date: '1995-04-04T02:30:28'
+  crc: '0x6637a8d1'
+- name: IMAGE.DAT
+  size: 2479
+  date: '1995-04-04T02:27:16'
+  crc: '0x692f3cef'
+- name: INSTALL.EXE
+  size: 110758
+  date: '1995-04-11T20:56:58'
+  crc: '0x2710250d'
+- name: LANGRC.RES
+  size: 6274
+  date: '1995-04-03T14:01:54'
+  crc: '0xf576bcde'
+- name: MEMORY.TXT
+  size: 119
+  date: '1995-04-02T17:43:54'
+  crc: '0xc864b390'
+- name: README.1ST
+  size: 626
+  date: '1995-04-04T00:40:04'
+  crc: '0xdb30816d'

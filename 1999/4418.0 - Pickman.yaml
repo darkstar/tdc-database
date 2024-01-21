@@ -1,0 +1,27 @@
+filename: Pickman (1999)(Pickers Games) [Action].zip
+tdc_id: '4418.0'
+title:
+  screen: Pickman
+publisher: Pickers Games
+year: '1999'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:46:20'
+  last_modified: '2019-03-02T10:46:20'
+type: zip
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 23
+  date: '2018-12-03T18:42:12'
+  crc: '0x90166521'
+- name: PICKMAN.BAS
+  size: 23729
+  date: '1999-11-26T16:14:44'
+  crc: '0xe0d83c9e'
+- name: QB.EXE
+  size: 278804
+  date: '2016-03-13T01:19:58'
+  crc: '0xb08bc0fe'

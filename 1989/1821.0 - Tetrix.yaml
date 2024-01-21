@@ -1,0 +1,25 @@
+filename: Tetrix (De) (1989)(Stefan Mayer & Andreas Rein) [Action, Strategy].zip
+tdc_id: '1821.0'
+title:
+  screen: Tetrix
+publisher: Stefan Mayer & Andreas Rein
+year: '1989'
+genre:
+- Action
+- Strategy
+language: German
+date:
+  added: '2019-03-01T18:29:12'
+  last_modified: '2019-03-01T18:29:12'
+type: zip
+commands:
+  play: TETRIX.EXE
+files:
+- name: HIGHSCOR.TET
+  size: 360
+  date: '2018-02-26T09:41:40'
+  crc: '0xa94823ba'
+- name: TETRIX.EXE
+  size: 22976
+  date: '2018-02-26T09:41:44'
+  crc: '0x9947a847'

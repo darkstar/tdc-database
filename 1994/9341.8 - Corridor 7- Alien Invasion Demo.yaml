@@ -1,0 +1,37 @@
+filename: Corridor 7- Alien Invasion Demo (Installer) (1994)(Capstone Software) [Action].zip
+tdc_id: '9341.8'
+title:
+  screen: 'Corridor 7: Alien Invasion Demo'
+publisher: Capstone Software
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T21:55:24'
+  last_modified: '2019-03-01T21:55:24'
+type: zip
+installer: true
+demo: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: '0001'
+  size: 22
+  date: '1994-06-16T14:46:16'
+  crc: '0xe37be8b0'
+- name: C7.LZH
+  size: 1307192
+  date: '1994-03-16T18:26:14'
+  crc: '0xf671aeb9'
+- name: EZI.CFG
+  size: 627
+  date: '1994-06-16T14:44:28'
+  crc: '0x972799f6'
+- name: INSTALL.EXE
+  size: 70614
+  date: '1993-07-12T11:10:48'
+  crc: '0x1d30ffb9'
+- name: INSTALL.OLB
+  size: 56850
+  date: '1994-06-16T14:19:32'
+  crc: '0xebc29a0e'

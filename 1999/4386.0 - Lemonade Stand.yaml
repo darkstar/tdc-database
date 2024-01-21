@@ -1,0 +1,31 @@
+filename: Lemonade Stand v2.07 (1999)(Dosius Software Co.) [Simulation].zip
+tdc_id: '4386.0'
+title:
+  screen: Lemonade Stand
+publisher: Dosius Software Co.
+year: '1999'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-02T10:46:14'
+  last_modified: '2019-03-02T10:46:14'
+version: '2.07'
+type: zip
+commands:
+  play: LEMONADE.EXE
+references:
+  dosid: DOS03141
+  exodos: Lemonade Stand (1999).zip
+files:
+- name: LEMONADE.BAS
+  size: 23964
+  date: '2001-02-06T15:57:44'
+  crc: '0x240dd8a3'
+- name: LEMONADE.EXE
+  size: 67476
+  date: '2001-02-06T15:57:56'
+  crc: '0x00460f9f'
+- name: LEMONADE.TXT
+  size: 1789
+  date: '2001-02-06T15:57:26'
+  crc: '0xe5453d2b'

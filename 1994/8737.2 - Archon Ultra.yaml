@@ -1,0 +1,45 @@
+filename: Archon Ultra (Installer) [h1] (1994)(Strategic Simulations, Inc.) [Action, Strategy].zip
+tdc_id: '8737.2'
+parent_id: '8737.3'
+title:
+  box: Archon Ultra
+publisher: Strategic Simulations, Inc.
+year: '1994'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T21:48:02'
+  last_modified: '2019-03-01T21:48:02'
+type: zip
+tags:
+- Hack: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: BOOT.NFO
+  size: 32
+  date: '1994-01-25T16:37:34'
+  crc: '0xcffbb446'
+- name: DATA1.ARJ
+  size: 1456355
+  date: '1994-01-25T17:21:34'
+  crc: '0x1aece005'
+- name: DATA2.ARJ
+  size: 449495
+  date: '1994-01-25T17:22:38'
+  crc: '0x1035bdaf'
+- name: DEARJ.EXE
+  size: 39441
+  date: '1993-03-19T16:18:52'
+  crc: '0x284b68d2'
+- name: INSTALL.EXE
+  size: 27963
+  date: '1993-07-28T14:58:08'
+  crc: '0x99ba3d9c'
+- name: INSTALL.NFO
+  size: 117
+  date: '1994-01-25T16:34:40'
+  crc: '0x64f26782'

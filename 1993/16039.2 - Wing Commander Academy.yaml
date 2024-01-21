@@ -1,0 +1,59 @@
+filename: Wing Commander Academy v1.06F (Installer) (1993)(ORIGIN Systems, Inc.) [Action, Simulation].zip
+tdc_id: '16039.2'
+title:
+  box: Wing Commander Academy
+publisher: ORIGIN Systems, Inc.
+year: '1993'
+genre:
+- Action
+- Simulation
+language: English
+date:
+  added: '2019-03-01T21:12:16'
+  last_modified: '2019-03-01T21:12:16'
+version: 1.06F
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: ADLIB.ADV
+  size: 16926
+  date: '1992-07-07T19:00:00'
+  crc: '0x025f83a3'
+- name: DISK.001
+  size: 1136478
+  date: '1993-06-17T10:46:50'
+  crc: '0x2acbe31a'
+- name: DISK.002
+  size: 1457534
+  date: '1993-06-17T10:44:40'
+  crc: '0x8f30193d'
+- name: DISK.003
+  size: 1435538
+  date: '1993-06-17T10:46:36'
+  crc: '0x45fe0cab'
+- name: HELP.TXT
+  size: 14323
+  date: '1993-06-01T10:21:02'
+  crc: '0x404a75f0'
+- name: INSTALL.EXE
+  size: 131760
+  date: '1993-06-17T17:16:28'
+  crc: '0x61801a12'
+- name: MAIN.001
+  size: 137844
+  date: '1993-06-17T10:40:52'
+  crc: '0x44df2bfd'
+- name: MT32MPU.ADV
+  size: 10752
+  date: '1992-10-15T15:44:10'
+  crc: '0xee1274bf'
+- name: README.TXT
+  size: 809
+  date: '1993-05-03T10:03:06'
+  crc: '0xf7904509'
+- name: SBDIG.ADV
+  size: 4702
+  date: '1992-07-07T19:00:00'
+  crc: '0x43430cb8'

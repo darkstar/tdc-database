@@ -1,0 +1,40 @@
+filename: Math Rabbit v2.0 (1993)(Learning Company, The) [Educational].zip
+tdc_id: '11252.2'
+title:
+  box: Math Rabbit
+publisher: Learning Company, The
+year: '1993'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T19:13:12'
+  last_modified: '2019-03-01T19:13:12'
+version: '2.0'
+type: zip
+commands:
+  play: MRPROG.EXE
+files:
+- name: MR000.DAT
+  size: 107147
+  date: '2014-11-15T15:41:28'
+  crc: '0x94833617'
+- name: MR001.DAT
+  size: 119869
+  date: '2014-11-15T15:41:30'
+  crc: '0x887d5bc6'
+- name: MR002.DAT
+  size: 182983
+  date: '2014-11-15T15:41:30'
+  crc: '0xc690bfa1'
+- name: MR003.DAT
+  size: 346095
+  date: '2014-11-15T15:41:30'
+  crc: '0x6d7690e0'
+- name: MR004.DAT
+  size: 8610
+  date: '2014-11-15T15:41:28'
+  crc: '0x50faac87'
+- name: MRPROG.EXE
+  size: 160320
+  date: '2014-11-15T15:41:28'
+  crc: '0x43f587a5'

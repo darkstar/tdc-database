@@ -1,0 +1,41 @@
+filename: ShadowCaster v1.12F (Installer) (1993)(ORIGIN Systems, Inc.) [Action].zip
+tdc_id: '5901.1'
+title:
+  box: ShadowCaster
+publisher: ORIGIN Systems, Inc.
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T21:06:36'
+  last_modified: '2019-03-01T21:06:36'
+version: 1.12F
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 132150
+  date: '1992-11-12T10:11:16'
+  crc: '0xd161c14a'
+- name: SHADOW.001
+  size: 1325056
+  date: '1993-10-13T09:29:42'
+  crc: '0x2642fa80'
+- name: SHADOW.002
+  size: 1457664
+  date: '1993-10-13T09:23:32'
+  crc: '0x999eab9c'
+- name: SHADOW.003
+  size: 1457664
+  date: '1993-10-13T09:25:28'
+  crc: '0xbb9f2c83'
+- name: SHADOW.004
+  size: 1457664
+  date: '1993-10-13T09:27:22'
+  crc: '0x4a51894c'
+- name: SHADOW.005
+  size: 1451219
+  date: '1993-10-13T09:29:12'
+  crc: '0x6131a47e'

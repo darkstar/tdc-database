@@ -1,0 +1,31 @@
+filename: Portal of Worlds (1997)(Daniel Eriksson) [Adventure].zip
+tdc_id: '10459.0'
+title:
+  screen: Portal of Worlds
+publisher: Daniel Eriksson
+year: '1997'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-02T10:36:58'
+  last_modified: '2019-03-02T10:36:58'
+type: zip
+commands:
+  play: PORTWOR.EXE
+files:
+- name: PORTWOR.BAS
+  size: 51585
+  date: '1997-02-21T14:58:16'
+  crc: '0x4c6307c7'
+- name: PORTWOR.EXE
+  size: 120820
+  date: '1997-02-21T14:58:24'
+  crc: '0xcca8b590'
+- name: PORTWOR.OBJ
+  size: 91137
+  date: '1997-02-21T14:58:24'
+  crc: '0x1899a4cb'
+- name: README~1.TXT
+  size: 175
+  date: '1997-02-21T15:08:50'
+  crc: '0xaf818ad0'

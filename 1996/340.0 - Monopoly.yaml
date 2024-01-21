@@ -1,0 +1,39 @@
+filename: Monopoly v1.1 (1996)(Paul Kuliniewicz) [Strategy, Board].zip
+tdc_id: '340.0'
+title:
+  screen: Monopoly
+publisher: Paul Kuliniewicz
+year: '1996'
+genre:
+- Strategy
+- Board
+language: English
+date:
+  added: '2019-03-02T10:13:24'
+  last_modified: '2019-03-02T10:13:24'
+version: '1.1'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 28
+  date: '2018-03-16T20:50:38'
+  crc: '0xecea78a3'
+- name: MONOHELP.TXT
+  size: 3614
+  date: '1996-04-21T08:39:36'
+  crc: '0x8e85e860'
+- name: MONOPOLY.BAS
+  size: 101060
+  date: '1996-04-21T08:36:10'
+  crc: '0x7696a363'
+- name: MONOPOLY.SAV
+  size: 450
+  date: '1996-04-21T08:41:22'
+  crc: '0x420fad1a'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'

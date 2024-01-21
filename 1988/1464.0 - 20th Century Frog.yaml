@@ -1,0 +1,32 @@
+filename: 20th Century Frog r881026 (De) (1988)(Wayne Snyder III, Vincent P. P. McLaglen, Murgatroyd J. Grattini) [Action].zip
+tdc_id: '1464.0'
+title:
+  screen: 20th Century Frog
+publisher: Wayne Snyder III, Vincent P. P. McLaglen, Murgatroyd J. Grattini
+year: '1988'
+genre: Action
+language: German
+date:
+  added: '2019-03-01T18:25:50'
+  last_modified: '2022-10-03T09:28:50'
+release: '881026'
+type: zip
+commands:
+  play: FROSCH.EXE
+files:
+- name: DEUFROG.INF
+  size: 19444
+  date: '1988-10-03T13:44:00'
+  crc: '0xfb8781d4'
+- name: FROG.DRV
+  size: 2560
+  date: '1988-08-23T21:41:02'
+  crc: '0xbc51369f'
+- name: FROG.SCO
+  size: 1654
+  date: '2008-04-05T16:51:00'
+  crc: '0x762fb261'
+- name: FROSCH.EXE
+  size: 86021
+  date: '1988-11-04T11:46:10'
+  crc: '0x228bc8e9'

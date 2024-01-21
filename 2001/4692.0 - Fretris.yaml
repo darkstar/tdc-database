@@ -1,0 +1,115 @@
+filename: Fretris [FW] (2001)(Grumpy Gnome Software) [Strategy, Action].zip
+tdc_id: '4692.0'
+title:
+  screen: Fretris
+publisher: Grumpy Gnome Software
+year: '2001'
+genre:
+- Strategy
+- Action
+language: English
+date:
+  added: '2019-03-02T10:55:20'
+  last_modified: '2019-03-02T10:55:20'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: fretris.exe
+files:
+- name: CWSDPMI.EXE
+  size: 20217
+  date: '1998-08-01T18:46:18'
+  crc: '0x6ba5fa62'
+- name: CWSDPMI.SWP
+  size: 0
+  date: '2012-09-26T12:36:32'
+- name: README.txt
+  size: 2545
+  date: '2001-09-08T23:05:36'
+  crc: '0x55eb5143'
+- name: blocks.c
+  size: 751
+  date: '2001-09-08T22:11:06'
+  crc: '0x3e6e5e1b'
+- name: blocks.h
+  size: 676
+  date: '2001-08-21T12:53:50'
+  crc: '0x4b4ecdc3'
+- name: display.c
+  size: 22235
+  date: '2001-09-08T22:10:04'
+  crc: '0x0dba6132'
+- name: display.h
+  size: 676
+  date: '2001-09-08T21:48:24'
+  crc: '0x0060fe6a'
+- name: fretris.exe
+  size: 717486
+  date: '2001-09-08T22:11:48'
+  crc: '0x502d0703'
+- name: game.c
+  size: 1303
+  date: '2001-09-08T22:11:36'
+  crc: '0xaa5003dd'
+- name: game.h
+  size: 105
+  date: '2001-09-08T21:48:38'
+  crc: '0x741e1594'
+- name: gamedata.dat
+  size: 109537
+  date: '2001-09-05T12:55:46'
+  crc: '0x1ceec2d5'
+- name: gamedata.h
+  size: 1414
+  date: '2001-09-05T12:55:46'
+  crc: '0xf6a35b87'
+- name: global.c
+  size: 1432
+  date: '2001-09-08T22:10:38'
+  crc: '0x474cf4ef'
+- name: global.h
+  size: 1042
+  date: '2001-09-08T21:20:46'
+  crc: '0xd015fa68'
+- name: highscore.c
+  size: 6456
+  date: '2001-09-08T22:09:52'
+  crc: '0x745101f5'
+- name: highscore.dat
+  size: 100
+  date: '2001-09-08T23:26:56'
+  crc: '0x7fed2648'
+- name: highscore.h
+  size: 344
+  date: '2001-09-08T21:49:22'
+  crc: '0xeb06039e'
+- name: input.c
+  size: 968
+  date: '2001-09-08T22:11:24'
+  crc: '0x2762bd50'
+- name: input.h
+  size: 122
+  date: '2001-09-08T21:49:40'
+  crc: '0x47a13862'
+- name: main.c
+  size: 1116
+  date: '2001-09-08T22:07:50'
+  crc: '0x7d9fc9ab'
+- name: objects.c
+  size: 828
+  date: '2001-09-08T22:10:20'
+  crc: '0xa0e60554'
+- name: objects.h
+  size: 118
+  date: '2001-09-08T21:54:46'
+  crc: '0x0411b398'
+- name: shape.c
+  size: 53608
+  date: '2001-09-08T22:09:08'
+  crc: '0x275c7a2c'
+- name: shape.h
+  size: 1920
+  date: '2001-09-02T13:47:24'
+  crc: '0x85c5ce08'

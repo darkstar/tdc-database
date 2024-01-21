@@ -1,0 +1,54 @@
+filename: Shufflepuck Cafe (1989)(Brøderbund Software, Inc.) [Sports].zip
+tdc_id: '15027.0'
+title:
+  box: Shufflepuck Cafe
+publisher: Brøderbund Software, Inc.
+year: '1989'
+genre: Sports
+language: English
+date:
+  added: '2019-03-01T18:28:54'
+  last_modified: '2019-03-01T18:28:54'
+type: zip
+commands:
+  play: SHUFFLE.COM
+references:
+  dosid: DOS03395
+  exodos: Shufflepuck Cafe (1989).zip
+files:
+- name: CONFIG.TAT
+  size: 300
+  date: '1996-05-22T00:59:30'
+  crc: '0x1c9836d6'
+- name: GRAPHUSC.CC1
+  size: 84499
+  date: '1990-02-28T00:00:02'
+  crc: '0xc626430b'
+- name: GRAPHUSE.CC1
+  size: 192342
+  date: '1990-02-28T00:00:02'
+  crc: '0x34adeeea'
+- name: SAMPLE.CC0
+  size: 194335
+  date: '1990-02-28T00:00:02'
+  crc: '0xb285bf64'
+- name: SCORES.DAT
+  size: 420
+  date: '1991-07-03T17:44:24'
+  crc: '0x6facddc0'
+- name: SHUFFLE.COM
+  size: 6651
+  date: '1990-02-28T00:00:02'
+  crc: '0x9e6a6bac'
+- name: SHUFFLEC.PXI
+  size: 45410
+  date: '1990-02-28T00:00:02'
+  crc: '0x5a5e16b6'
+- name: SHUFFLEE.PXI
+  size: 88712
+  date: '1990-02-28T00:00:02'
+  crc: '0x8c305159'
+- name: TOURNAME.DAT
+  size: 8
+  date: '1991-07-03T17:44:30'
+  crc: '0xd6761c7e'

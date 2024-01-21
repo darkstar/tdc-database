@@ -1,0 +1,41 @@
+filename: Balloons [SW] (1996)(Eugenio Garcia) [Strategy].zip
+tdc_id: '162.0'
+title:
+  screen: Balloons
+publisher: Eugenio Garcia
+year: '1996'
+genre: Strategy
+language: English
+date:
+  added: '2019-01-02T21:10:52'
+  last_modified: '2019-01-02T21:10:52'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: BAL.EXE
+references:
+  dosid: DOS06712
+  exodos: Balloons (1996).zip
+files:
+- name: BAL.EXE
+  size: 157029
+  date: '1996-10-10T17:05:52'
+  crc: '0xb00ab409'
+- name: FILE_ID.DIZ
+  size: 362
+  date: '1996-10-08T03:38:00'
+  crc: '0x0b9a966d'
+- name: README.1ST
+  size: 590
+  date: '1996-10-08T03:55:38'
+  crc: '0x002938b7'
+- name: REGIS.FRM
+  size: 1769
+  date: '1996-10-07T08:22:46'
+  crc: '0x9c3ee023'
+- name: VENDOR.DOC
+  size: 2916
+  date: '1996-10-08T05:18:04'
+  crc: '0x80a637dc'

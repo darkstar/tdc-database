@@ -1,0 +1,39 @@
+filename: Startrek v1.2 (1982)(Zeta Products) [Strategy, Simulation].zip
+tdc_id: '1033.0'
+title:
+  screen: Startrek
+publisher: Zeta Products
+year: '1982'
+genre:
+- Strategy
+- Simulation
+language: English
+date:
+  added: '2020-03-14T07:03:24'
+  last_modified: '2020-03-14T07:03:24'
+version: '1.2'
+type: zip
+commands:
+  play: RUN.BAT
+notes: +=PCMag Sep.'82, 310 + Aug.'82, 213 + PCMag Oct.'82, 282 /// 64k, 80x25, DOS BASICA
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T12:00:00'
+  crc: '0x92293842'
+- name: RUN.BAT
+  size: 36
+  date: '2020-03-14T13:59:30'
+  crc: '0xbb334d71'
+- name: STRKDOC.BAS
+  size: 19072
+  date: '1980-01-01T00:00:00'
+  crc: '0xd9b2ed30'
+- name: STRKGAM.BAS
+  size: 3456
+  date: '1980-01-01T00:00:00'
+  crc: '0x6a313368'
+- name: STRKOVR.BAS
+  size: 15616
+  date: '1980-01-01T00:00:00'
+  crc: '0xd790d58c'

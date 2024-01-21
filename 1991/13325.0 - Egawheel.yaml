@@ -1,0 +1,35 @@
+filename: Egawheel v1.4S [SW] (1991)(Russell R. Mueller) [Strategy].zip
+tdc_id: '13325.0'
+title:
+  screen: Egawheel
+publisher: Russell R. Mueller
+year: '1991'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:35:46'
+  last_modified: '2019-03-01T18:35:46'
+version: 1.4S
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: VGAWHEEL.EXE
+files:
+- name: CHAMP.DAT
+  size: 286
+  date: '1991-01-18T00:15:28'
+  crc: '0x74860691'
+- name: VGAWHEEL.DAT
+  size: 12180
+  date: '1988-02-26T22:56:20'
+  crc: '0x63df95cb'
+- name: VGAWHEEL.DOC
+  size: 6173
+  date: '1991-03-10T19:26:14'
+  crc: '0xba6b9151'
+- name: VGAWHEEL.EXE
+  size: 106066
+  date: '1991-03-10T19:08:12'
+  crc: '0x878102c7'

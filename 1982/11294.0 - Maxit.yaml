@@ -1,0 +1,28 @@
+filename: Maxit (1982)(Patrick Leabo) [Strategy].zip
+tdc_id: '11294.0'
+title:
+  screen: Maxit
+publisher: Patrick Leabo
+year: '1982'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:23:00'
+  last_modified: '2019-03-01T18:23:00'
+type: zip
+media: Download
+commands:
+  play: PLAY.BAT
+files:
+- name: GWBASIC.EXE
+  size: 80608
+  date: '2011-09-17T11:24:30'
+  crc: '0x2a44af39'
+- name: MAXIT.BAS
+  size: 6016
+  date: '1986-01-21T20:50:32'
+  crc: '0x6dcc8e12'
+- name: PLAY.BAT
+  size: 15
+  date: '2011-09-17T11:24:04'
+  crc: '0x2a7a6e14'

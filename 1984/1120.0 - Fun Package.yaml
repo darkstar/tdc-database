@@ -1,0 +1,89 @@
+filename: Fun Package v3.0 (1984)(Software Laboratories Inc.) [Compilation].zip
+tdc_id: '1120.0'
+title:
+  screen: Fun Package
+publisher: Software Laboratories Inc.
+year: '1984'
+genre: Compilation
+language: English
+date:
+  added: '2021-02-02T00:25:22'
+  last_modified: '2021-02-02T00:25:22'
+version: '3.0'
+type: zip
+compilation: true
+commands:
+  play: START.BAT
+files:
+- name: 16CSTATE.DAT
+  size: 207
+  date: '1980-01-01T00:05:50'
+  crc: '0x2c28c21f'
+- name: BASICA.COM
+  size: 59570
+  date: '1980-01-01T00:00:00'
+  crc: '0x92293842'
+- name: BULLSEYE.PIC
+  size: 16392
+  date: '1980-01-01T00:15:44'
+  crc: '0x63643e15'
+- name: CAR.PIC
+  size: 16392
+  date: '1980-01-01T01:30:02'
+  crc: '0x02274b38'
+- name: CAR2.PIC
+  size: 16392
+  date: '1980-01-01T00:07:26'
+  crc: '0x4f7d96c2'
+- name: CHICKIE.PIC
+  size: 16392
+  date: '1980-01-01T00:12:16'
+  crc: '0x79e55837'
+- name: COMPUTER.CAR
+  size: 96
+  date: '1980-01-01T00:08:14'
+  crc: '0xe3adb120'
+- name: CS.BAS
+  size: 31488
+  date: '1980-01-01T01:47:50'
+  crc: '0x7a798915'
+- name: FIRE.PIC
+  size: 16392
+  date: '1980-01-01T00:10:04'
+  crc: '0xe78cd6ab'
+- name: FLAGS.PIC
+  size: 16392
+  date: '1980-01-01T00:25:18'
+  crc: '0x30d273d2'
+- name: HOUSE.PIC
+  size: 16392
+  date: '1980-01-01T00:16:28'
+  crc: '0x05a8d327'
+- name: MENU.BAS
+  size: 6272
+  date: '1980-01-01T01:03:54'
+  crc: '0x367289f8'
+- name: PICTURE.FLE
+  size: 128
+  date: '1986-10-21T14:56:12'
+  crc: '0x49483aa4'
+- name: PLANET.BAS
+  size: 30187
+  date: '1980-01-01T01:32:02'
+  crc: '0xa5b937eb'
+- name: RACE.BAS
+  size: 39168
+  date: '1980-01-01T01:45:18'
+  crc: '0x407edb4d'
+- name: START.BAT
+  size: 13
+  date: '1980-01-01T00:00:00'
+  crc: '0x50175012'
+- name: STOCK.BAS
+  size: 31360
+  date: '1980-01-01T01:43:12'
+  crc: '0xf1fafd96'
+- name: TRUCK.PIC
+  size: 16392
+  date: '1980-01-01T00:03:28'
+  crc: '0xaeb4cfe4'

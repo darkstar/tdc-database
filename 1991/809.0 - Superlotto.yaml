@@ -1,0 +1,57 @@
+filename: Superlotto v2.02 (De) [FW] (1991)(Martin Kochloefl) [Strategy, Simulation].zip
+tdc_id: '809.0'
+title:
+  screen: Superlotto
+publisher: Martin Kochloefl
+year: '1991'
+genre:
+- Strategy
+- Simulation
+language: German
+date:
+  added: '2019-03-01T18:39:38'
+  last_modified: '2019-03-01T18:39:38'
+version: '2.02'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: SLOTTO.EXE
+files:
+- name: CONFIG.PAS
+  size: 12186
+  date: '1991-02-12T00:41:00'
+  crc: '0x838994de'
+- name: MENU.PAS
+  size: 8778
+  date: '1991-02-12T00:42:42'
+  crc: '0xcb7e68c8'
+- name: READ.ME
+  size: 1862
+  date: '1991-02-12T00:47:42'
+  crc: '0xf737c189'
+- name: SCREEN.PAS
+  size: 11639
+  date: '1991-02-12T00:42:08'
+  crc: '0x31da376d'
+- name: SLOPROC.PAS
+  size: 12181
+  date: '1991-02-12T00:43:14'
+  crc: '0xc34b99ab'
+- name: SLOTTO.CFG
+  size: 5187
+  date: '1990-06-04T11:30:56'
+  crc: '0xd2291e87'
+- name: SLOTTO.DOC
+  size: 3812
+  date: '1991-02-12T00:50:34'
+  crc: '0xb5ff0e96'
+- name: SLOTTO.EXE
+  size: 21952
+  date: '1991-02-12T00:44:42'
+  crc: '0x8238c016'
+- name: SLOTTO.PAS
+  size: 17077
+  date: '1991-02-12T00:44:16'
+  crc: '0x4bdcccf0'

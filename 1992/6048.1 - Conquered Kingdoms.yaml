@@ -1,0 +1,41 @@
+filename: Conquered Kingdoms (Installer) (1992)(Quantum Quality Productions) [Strategy].zip
+tdc_id: '6048.1'
+parent_id: '6048.2'
+title:
+  box: Conquered Kingdoms
+publisher: Quantum Quality Productions
+year: '1992'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:41:58'
+  last_modified: '2019-03-01T18:41:58'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: CC.001
+  size: 1347072
+  date: '1992-11-09T15:03:26'
+  crc: '0x97dcb048'
+- name: CC.002
+  size: 402770
+  date: '1992-11-09T15:03:02'
+  crc: '0xc7cb682f'
+- name: CC.INF
+  size: 2031
+  date: '1992-11-03T09:22:10'
+  crc: '0x93cc2f33'
+- name: DISK.ID
+  size: 36
+  date: '1992-11-09T15:02:38'
+  crc: '0x55807803'
+- name: INSTALL.EXE
+  size: 102018
+  date: '1991-07-07T08:52:56'
+  crc: '0xdc2cb019'
+- name: READ.ME
+  size: 5187
+  date: '1992-11-07T14:41:22'
+  crc: '0xa279a788'

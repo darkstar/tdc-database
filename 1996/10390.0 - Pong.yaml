@@ -1,0 +1,43 @@
+filename: Pong (1996)(Marcel Smolenaars) [Action].zip
+tdc_id: '10390.0'
+title:
+  screen: Pong
+publisher: Marcel Smolenaars
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:16:04'
+  last_modified: '2019-03-02T10:16:04'
+type: zip
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 23
+  date: '2018-12-06T15:08:42'
+  crc: '0xf0b2c529'
+- name: PONG.BAS
+  size: 56023
+  date: '1997-09-05T05:51:24'
+  crc: '0x0b9ba541'
+- name: PONG_HS.DAT
+  size: 192
+  date: '1996-04-21T14:19:38'
+  crc: '0x2d45997b'
+- name: QB.BI
+  size: 2005
+  date: '2016-03-13T01:19:44'
+  crc: '0x3c41bdf3'
+- name: QB.EXE
+  size: 278804
+  date: '2016-03-13T01:19:58'
+  crc: '0xb08bc0fe'
+- name: QB.LIB
+  size: 2075
+  date: '2016-03-13T01:20:46'
+  crc: '0xaf756407'
+- name: QB.QLB
+  size: 5822
+  date: '2016-03-13T01:20:46'
+  crc: '0x5f7d93e0'

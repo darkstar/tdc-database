@@ -1,0 +1,27 @@
+filename: Virtual Pet (2005)(Ray Britton) [Simulation].zip
+tdc_id: '17065.0'
+title:
+  screen: Virtual Pet
+publisher: Ray Britton
+year: '2005'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-02T10:57:08'
+  last_modified: '2019-03-02T10:57:08'
+type: zip
+commands:
+  play: VP.EXE
+files:
+- name: Readme.txt
+  size: 1922
+  date: '2005-11-12T20:57:50'
+  crc: '0xab6808f3'
+- name: VP.CFG
+  size: 5
+  date: '2005-11-15T04:09:18'
+  crc: '0x2242966e'
+- name: VP.EXE
+  size: 92856
+  date: '2005-11-15T04:08:56'
+  crc: '0x7981b7bb'

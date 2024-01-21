@@ -1,0 +1,50 @@
+filename: Math Rabbit v2.0 (Installer) (1993)(Learning Company, The) [Educational].zip
+tdc_id: '11252.3'
+title:
+  box: Math Rabbit
+publisher: Learning Company, The
+year: '1993'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T19:13:12'
+  last_modified: '2019-03-01T19:13:12'
+version: '2.0'
+type: zip
+installer: true
+references:
+  dosid: DOS03434
+  exodos: Math Rabbit (1986).zip
+files:
+- name: INSTALL.EXE
+  size: 13180
+  date: '1993-01-27T10:42:12'
+  crc: '0x1c13d7df'
+- name: MR.BAT
+  size: 371
+  date: '1993-01-13T21:26:48'
+  crc: '0xde01a0f0'
+- name: MR000.DAT
+  size: 107147
+  date: '1993-03-04T16:59:16'
+  crc: '0x94833617'
+- name: MR001.DAT
+  size: 119869
+  date: '1993-03-04T17:01:04'
+  crc: '0x887d5bc6'
+- name: MR002.DAT
+  size: 182983
+  date: '1993-03-04T17:05:32'
+  crc: '0xc690bfa1'
+- name: MR003.DAT
+  size: 346095
+  date: '1993-03-04T17:05:48'
+  crc: '0x6d7690e0'
+- name: MR004.DAT
+  size: 8610
+  date: '1993-02-11T01:26:18'
+  crc: '0x50faac87'
+- name: MRPROG.EXE
+  size: 160320
+  date: '1993-03-04T17:09:34'
+  crc: '0x43f587a5'

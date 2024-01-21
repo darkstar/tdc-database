@@ -1,0 +1,75 @@
+filename: Monospace (1997)(Milo Sedlacek) [Action].zip
+tdc_id: '5605.0'
+title:
+  screen: Monospace
+publisher: Milo Sedlacek
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:35:48'
+  last_modified: '2019-03-02T10:35:48'
+type: zip
+media: Download
+commands:
+  play: RUN.BAT
+references:
+  dosid: DOS06571
+  exodos: Mono Space (1997).zip
+files:
+- name: BATTLE.FMP
+  size: 1639
+  date: '1997-10-29T22:27:56'
+  crc: '0x396d8016'
+- name: BLITBUF2.RTN
+  size: 263
+  date: '1997-12-21T02:39:32'
+  crc: '0x5fcf96ae'
+- name: BOSS6.FMP
+  size: 1297
+  date: '1997-10-31T04:19:06'
+  crc: '0x327611ef'
+- name: BOX.RTN
+  size: 519
+  date: '1997-10-23T09:01:38'
+  crc: '0x664f52a7'
+- name: COLLIDE3.RTN
+  size: 519
+  date: '1997-10-17T07:59:54'
+  crc: '0x9a7dbe46'
+- name: ENGINE7.RTN
+  size: 4103
+  date: '1997-10-15T09:08:42'
+  crc: '0x1b2f75a5'
+- name: GAME.BAS
+  size: 84808
+  date: '1997-12-21T02:48:04'
+  crc: '0xbbbc7107'
+- name: KEYBOARD.PRG
+  size: 1031
+  date: '1997-03-29T12:25:56'
+  crc: '0xe2e02824'
+- name: LEVEL1.TXT
+  size: 4981
+  date: '1997-10-31T10:10:16'
+  crc: '0xfa09165a'
+- name: MAZE12.FMP
+  size: 715
+  date: '1997-07-29T12:44:36'
+  crc: '0x66eb99ca'
+- name: MONOSPAC.IMX
+  size: 14409
+  date: '1997-12-03T20:14:46'
+  crc: '0x58e5b5f4'
+- name: MONOSPAC.SFX
+  size: 785
+  date: '1997-11-01T03:51:46'
+  crc: '0xa1e18bec'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1994-05-31T07:22:00'
+  crc: '0x3152911c'
+- name: RUN.BAT
+  size: 21
+  date: '1997-11-02T10:29:28'
+  crc: '0x77043587'

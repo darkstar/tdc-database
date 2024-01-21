@@ -1,0 +1,30 @@
+filename: Strange Days (2002)(Kunafits) [Adventure].zip
+tdc_id: '4858.0'
+title:
+  screen: Strange Days
+publisher: Kunafits
+year: '2002'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-02T10:56:12'
+  last_modified: '2019-03-02T10:56:12'
+type: zip
+commands:
+  play: Play.exe
+references:
+  dosid: DOS07104
+  exodos: Strange Days (2002).zip
+files:
+- name: Play.exe
+  size: 43008
+  date: '2002-01-06T21:57:32'
+  crc: '0x46bde067'
+- name: Strange.dat
+  size: 3298
+  date: '2002-01-06T21:58:10'
+  crc: '0x18b0a2b7'
+- name: Strange.mes
+  size: 16754
+  date: '2002-01-06T21:56:34'
+  crc: '0x814e22ab'

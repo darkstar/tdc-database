@@ -1,0 +1,31 @@
+filename: Ken's Labyrinth v2.01 (Installer) [SWR] (1993)(Epic MegaGames, Inc.) [Action].zip
+tdc_id: '11735.3'
+title:
+  screen: Ken's Labyrinth
+publisher: Epic MegaGames, Inc.
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T19:11:00'
+  last_modified: '2019-03-01T19:11:00'
+version: '2.01'
+type: zip
+tags:
+- SharewareRegistered
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 31464
+  date: '1992-08-21T20:34:20'
+  crc: '0x08c1de75'
+- name: INSTALL.FIL
+  size: 1839
+  date: '1993-06-14T09:28:00'
+  crc: '0x185878c5'
+- name: KEN123.PAK
+  size: 997557
+  date: '1993-06-14T09:30:28'
+  crc: '0x5e6936a8'

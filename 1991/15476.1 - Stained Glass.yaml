@@ -1,0 +1,39 @@
+filename: Stained Glass v910116 [SW] (1991)(Kent Brewster) [Strategy].zip
+tdc_id: '15476.1'
+title:
+  screen: Stained Glass
+publisher: Kent Brewster
+year: '1991'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:39:30'
+  last_modified: '2019-03-01T18:39:30'
+version: '910116'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: SG.EXE
+files:
+- name: JUDYBEST.SAV
+  size: 988
+  date: '1992-10-22T10:30:12'
+  crc: '0x6aaa70c9'
+- name: KENTBEST.SAV
+  size: 988
+  date: '1991-07-24T14:06:28'
+  crc: '0xfef6c4dd'
+- name: SG.BAS
+  size: 61487
+  date: '1991-01-16T21:11:16'
+  crc: '0x91d8d965'
+- name: SG.DOC
+  size: 18473
+  date: '1998-08-12T14:50:16'
+  crc: '0xce645db0'
+- name: SG.EXE
+  size: 90168
+  date: '1998-04-23T12:55:02'
+  crc: '0xcc4437d7'

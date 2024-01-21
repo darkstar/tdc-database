@@ -1,0 +1,73 @@
+filename: Armor Alley v1.1 (1991)(Three-Sixty Pacific, Inc.) [Action, Strategy].zip
+tdc_id: '8777.0'
+title:
+  box: Armor Alley
+publisher: Three-Sixty Pacific, Inc.
+year: '1991'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:34:54'
+  last_modified: '2019-03-01T18:34:54'
+version: '1.1'
+type: zip
+commands:
+  play: AA.EXE
+references:
+  dosid: DOS00854
+  exodos: Armor Alley (1991).zip
+files:
+- name: 1BIT.SHP
+  size: 49552
+  date: '1990-11-19T19:22:32'
+  crc: '0x0644aac3'
+- name: 2BIT.SHP
+  size: 27182
+  date: '1991-04-16T14:56:00'
+  crc: '0x76856fed'
+- name: 4BIT.SHP
+  size: 123879
+  date: '1990-11-21T23:28:20'
+  crc: '0xc80d1309'
+- name: 4BITL.SHP
+  size: 36591
+  date: '1991-04-16T14:56:06'
+  crc: '0x70718fd9'
+- name: AA.EXE
+  size: 265758
+  date: '1991-06-13T01:07:04'
+  crc: '0xbe99d61b'
+- name: COLSN.SHP
+  size: 24779
+  date: '1990-11-19T19:22:30'
+  crc: '0x601fd13d'
+- name: PICTS.RES
+  size: 16464
+  date: '1991-05-12T23:56:12'
+  crc: '0xa7f32761'
+- name: PREFS.RES
+  size: 1397
+  date: '1997-04-16T22:44:18'
+  crc: '0x85802333'
+- name: SOUNDS.AME
+  size: 868
+  date: '1991-04-11T18:19:26'
+  crc: '0xfef33874'
+- name: SOUNDS.RES
+  size: 31777
+  date: '1997-04-16T22:43:48'
+  crc: '0x777e1cb4'
+- name: SOUNDS.SED
+  size: 1046
+  date: '1991-04-10T17:12:34'
+  crc: '0x989887be'
+- name: STALKER.RES
+  size: 61347
+  date: '1991-05-30T10:16:58'
+  crc: '0xbffc0219'
+- name: SYSTEM.RES
+  size: 13626
+  date: '1991-06-13T13:11:06'
+  crc: '0x1c453166'

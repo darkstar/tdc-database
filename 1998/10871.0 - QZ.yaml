@@ -1,0 +1,46 @@
+filename: QZ v3.5 (1998)(Ken Silverman) [Strategy, Trivia].zip
+tdc_id: '10871.0'
+title:
+  screen: QZ
+publisher: Ken Silverman
+year: '1998'
+genre:
+- Strategy
+- Trivia
+language: English
+date:
+  added: '2019-03-02T10:44:18'
+  last_modified: '2019-03-02T10:44:18'
+version: '3.5'
+type: zip
+commands:
+  play: QZ.EXE
+files:
+- name: ATOMNAME.QZ
+  size: 1214
+  date: '1991-01-25T17:55:22'
+  crc: '0x584eaff0'
+- name: QZ.EXE
+  size: 71759
+  date: '1998-12-30T01:06:30'
+  crc: '0x76f9e192'
+- name: QZHELP.DOC
+  size: 3216
+  date: '1998-12-30T01:07:40'
+  crc: '0xbb968181'
+- name: QZSETUP.DAT
+  size: 162
+  date: '1999-03-20T15:18:14'
+  crc: '0x81836d7b'
+- name: SATWORDS.QZ
+  size: 10975
+  date: '1991-01-25T18:04:44'
+  crc: '0xb91aa93c'
+- name: STATECAP.QZ
+  size: 1037
+  date: '1991-01-25T18:04:56'
+  crc: '0x684627dc'
+- name: WRLDCP96.QZ
+  size: 3918
+  date: '1998-12-28T18:00:10'
+  crc: '0x508c291c'

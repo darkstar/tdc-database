@@ -1,0 +1,34 @@
+filename: PilgrimQuest (Installer) (1991)(Decision Development Corp.) [Educational, Adventure].zip
+tdc_id: '10254.1'
+title:
+  box: PilgrimQuest
+publisher: Decision Development Corp.
+year: '1991'
+genre:
+- Educational
+- Adventure
+language: English
+date:
+  added: '2019-03-01T18:37:24'
+  last_modified: '2019-03-01T18:37:24'
+type: zip
+installer: true
+commands:
+  play: INSTALL.BAT
+files:
+- name: INSTALL.BAT
+  size: 1075
+  date: '1992-01-14T06:47:12'
+  crc: '0x9ab0e1f6'
+- name: PKUNZIP.EXE
+  size: 22144
+  date: '1990-12-20T14:47:34'
+  crc: '0xb42fb2f6'
+- name: PQUEST.ZIP
+  size: 637411
+  date: '1992-03-12T11:49:30'
+  crc: '0x859f73fd'
+- name: TYPEME
+  size: 998
+  date: '1992-01-14T07:04:38'
+  crc: '0x198492f2'

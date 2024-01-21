@@ -1,0 +1,25 @@
+filename: Tank Wars! v1.2 (2000)(Antz Entertainment, Andrew Frost) [Strategy].zip
+tdc_id: '16459.1'
+title:
+  screen: Tank Wars!
+publisher: Antz Entertainment, Andrew Frost
+year: '2000'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:55:06'
+  last_modified: '2019-03-02T10:55:06'
+version: '1.2'
+type: zip
+media: Download
+commands:
+  play: tankwar.exe
+files:
+- name: TWinfo.doc
+  size: 11776
+  date: '2001-08-30T19:51:38'
+  crc: '0x034a7c15'
+- name: tankwar.exe
+  size: 126886
+  date: '2000-10-18T05:41:24'
+  crc: '0xbc679561'

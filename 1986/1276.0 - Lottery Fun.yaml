@@ -1,0 +1,36 @@
+filename: Lottery Fun v1.003 (1986)(Karl W. Ehrliche) [Simulation].zip
+tdc_id: '1276.0'
+title:
+  screen: Lottery Fun
+publisher: Karl W. Ehrliche
+year: '1986'
+genre: Simulation
+language: English
+date:
+  added: '2019-12-03T19:22:30'
+  last_modified: '2019-12-03T19:22:30'
+version: '1.003'
+type: zip
+commands:
+  play: LOTTERY.COM
+files:
+- name: DATA1.LFD
+  size: 36
+  date: '1986-08-17T12:16:26'
+  crc: '0xada79392'
+- name: DATA2.LFD
+  size: 1206
+  date: '1986-08-28T20:16:36'
+  crc: '0x9ab7d1ee'
+- name: LOTTERY.COM
+  size: 30393
+  date: '1986-11-08T17:08:26'
+  crc: '0x50e08576'
+- name: LOTTERY.DOC
+  size: 21675
+  date: '1986-11-08T19:26:12'
+  crc: '0x145cdd02'
+- name: LOTTERY.PAS
+  size: 52099
+  date: '1986-11-08T17:02:06'
+  crc: '0x48b7e5a3'

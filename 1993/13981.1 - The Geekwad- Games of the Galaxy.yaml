@@ -1,0 +1,58 @@
+filename: Geekwad, The- Games of the Galaxy v1.15 (Installer) (1993)(Tsunami Media, Inc.) [Action].zip
+tdc_id: '13981.1'
+title:
+  box: 'The Geekwad: Games of the Galaxy'
+publisher: Tsunami Media, Inc.
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T19:09:10'
+  last_modified: '2019-03-01T19:09:10'
+version: '1.15'
+type: zip
+installer: true
+references:
+  dosid: DOS02382
+  exodos: Geekwad, The - Games of the Galaxy (1993).zip
+files:
+- name: AUTOEXEC.TS
+  size: 22
+  date: '1992-12-31T09:41:40'
+  crc: '0xc92101ee'
+- name: CONFIG.TS
+  size: 32
+  date: '1992-12-31T09:38:46'
+  crc: '0x4e528fd3'
+- name: GEEKWAD.#02
+  size: 1134774
+  date: '1993-09-15T13:41:58'
+  crc: '0x748203a0'
+- name: GEEKWAD.EXE
+  size: 316546
+  date: '1993-09-15T13:40:08'
+  crc: '0x7c9d6155'
+- name: GEEKWAD.RLB
+  size: 774556
+  date: '1993-09-15T13:40:52'
+  crc: '0x6c66db25'
+- name: INSTALL.EXE
+  size: 229760
+  date: '1993-09-15T11:26:20'
+  crc: '0xa0f7c4fe'
+- name: INSTALL.RLB
+  size: 11402
+  date: '1993-09-15T07:23:22'
+  crc: '0x8dee1081'
+- name: JOIN.EXE
+  size: 10405
+  date: '1993-02-24T14:03:10'
+  crc: '0x967dcca1'
+- name: TSAGE.CFG
+  size: 457
+  date: '1993-09-15T13:30:40'
+  crc: '0x73609eac'
+- name: TSAGE.RLB
+  size: 41807
+  date: '1993-09-14T16:54:50'
+  crc: '0xbcbb2f58'

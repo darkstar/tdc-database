@@ -1,0 +1,56 @@
+filename: Drak v1.30 [SW] (1995)(Enypsox enr.) [Action, Puzzle].zip
+tdc_id: '6716.3'
+title:
+  screen: Drak
+publisher: Enypsox enr.
+year: '1995'
+genre:
+- Action
+- Puzzle
+language: English
+date:
+  added: '2024-01-15T13:21:38'
+  last_modified: '2024-01-15T13:21:38'
+version: '1.30'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: DRAKS.EXE
+  setup: CONFIG.EXE
+references:
+  mobygames: https://www.mobygames.com/game/19632/drak/
+files:
+- name: CONFIG.DRK
+  size: 31
+  date: '2009-09-01T00:31:32'
+  crc: '0xff5fd564'
+- name: CONFIG.EXE
+  size: 50372
+  date: '2009-08-31T00:37:44'
+  crc: '0x886e737e'
+- name: DATA.DRK
+  size: 683854
+  date: '2009-08-31T00:37:44'
+  crc: '0xed992ff6'
+- name: DRAKS.EXE
+  size: 143638
+  date: '2009-08-31T00:37:44'
+  crc: '0x85bf0a8f'
+- name: MANUAL.TXT
+  size: 15740
+  date: '2009-08-31T00:37:44'
+  crc: '0xca190b7c'
+- name: SAVES.DRK
+  size: 143
+  date: '2009-09-01T00:31:32'
+  crc: '0x8ce2197b'
+- name: SOUND.DRK
+  size: 324214
+  date: '2009-08-31T00:37:44'
+  crc: '0x373bd5ba'
+- name: TOPSCR.DRK
+  size: 1987
+  date: '2009-09-01T00:31:32'
+  crc: '0xde04d9bc'

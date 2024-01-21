@@ -1,0 +1,28 @@
+filename: Snake (1984)(Peter Quinn, Bill Barker) [Action].zip
+tdc_id: '1147.0'
+title:
+  screen: Snake
+publisher: Peter Quinn, Bill Barker
+year: '1984'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:16'
+  last_modified: '2019-03-01T18:24:16'
+type: zip
+media: Download
+commands:
+  play: snakes.bat
+files:
+- name: SNAKES.BAS
+  size: 2564
+  date: '2007-09-03T11:11:44'
+  crc: '0x7dd63fde'
+- name: gwbasic.exe
+  size: 80592
+  date: '1997-11-10T17:19:20'
+  crc: '0x8462d0e4'
+- name: snakes.bat
+  size: 14
+  date: '2007-09-03T11:11:08'
+  crc: '0x6b52b7bd'

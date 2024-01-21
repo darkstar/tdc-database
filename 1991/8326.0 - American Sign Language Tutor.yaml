@@ -1,0 +1,42 @@
+filename: American Sign Language Tutor (1991)(Softdisk Publishing) [Educational].zip
+tdc_id: '8326.0'
+title:
+  box: American Sign Language Tutor
+publisher: Softdisk Publishing
+year: '1991'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T18:34:50'
+  last_modified: '2019-03-01T18:34:50'
+type: zip
+commands:
+  play: ASLT.EXE
+references:
+  dosid: DOS00781
+  exodos: American Sign Language Tutor (1991).zip
+files:
+- name: ASL.CFG
+  size: 41
+  date: '1996-12-24T23:32:00'
+  crc: '0x2a706af4'
+- name: ASL.TXT
+  size: 110
+  date: '1996-12-24T23:32:00'
+  crc: '0x0c0bb50e'
+- name: ASLT.EXE
+  size: 58133
+  date: '1996-12-24T23:32:00'
+  crc: '0x7124381d'
+- name: ASLT.TXT
+  size: 10271
+  date: '1996-12-24T23:32:00'
+  crc: '0x6fde48fd'
+- name: LS1D.DCT
+  size: 8800
+  date: '1996-12-24T23:32:00'
+  crc: '0x9e384cf9'
+- name: LS1S.CHR
+  size: 10456
+  date: '1996-12-24T23:32:00'
+  crc: '0xb6476d31'

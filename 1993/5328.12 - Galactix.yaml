@@ -1,0 +1,45 @@
+filename: Galactix v1.5 (Installer) [FW] (1993)(Cygnus Software) [Action].zip
+tdc_id: '5328.12'
+title:
+  screen: Galactix
+  qualifier: Installer
+publisher: Cygnus Software
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2014-02-02T08:28:54'
+  last_modified: '2023-03-29T14:52:44'
+version: '1.5'
+type: zip
+tags:
+- Freeware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FILE0001.DAT
+  size: 358323
+  date: '1993-10-26T12:32:36'
+  crc: '0x90e5b5aa'
+- name: FILE0002.DAT
+  size: 254076
+  date: '1993-12-09T22:38:54'
+  crc: '0x7e3df24d'
+- name: FILE_ID.DIZ
+  size: 264
+  date: '1993-10-23T17:14:36'
+  crc: '0x021f46ec'
+- name: GX1.EXE
+  size: 45323
+  date: '1993-10-26T13:13:36'
+  crc: '0xd230b580'
+- name: INSTALL.EXE
+  size: 36113
+  date: '1993-10-23T19:31:00'
+  crc: '0x1413e503'
+- name: README.EXE
+  size: 16484
+  date: '1993-10-23T17:32:44'
+  crc: '0xcc4af966'

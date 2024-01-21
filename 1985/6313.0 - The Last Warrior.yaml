@@ -1,0 +1,31 @@
+filename: Last Warrior, The (1985)(COMPUTE! Publications, Inc.) [Action].zip
+tdc_id: '6313.0'
+title:
+  screen: The Last Warrior
+publisher: COMPUTE! Publications, Inc.
+year: '1985'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:28'
+  last_modified: '2019-03-01T18:24:28'
+type: zip
+media: Type-In
+commands:
+  play: LASTWAR.BAT
+references:
+  dosid: DOS06921
+  exodos: Last Warrior, The (1985).zip
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: LASTWAR.BAS
+  size: 7715
+  date: '1985-08-24T22:00:36'
+  crc: '0xf236e0f2'
+- name: LASTWAR.BAT
+  size: 16
+  date: '1980-01-01T00:00:00'
+  crc: '0x831a2706'

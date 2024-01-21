@@ -1,0 +1,62 @@
+filename: Air-Strike (1998)(Richard K. Collins) [Action].zip
+tdc_id: '8195.0'
+title:
+  screen: Air-Strike
+publisher: Richard K. Collins
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:40:38'
+  last_modified: '2019-03-02T10:40:38'
+type: zip
+commands:
+  play: air-strike.exe
+references:
+  dosid: DOS07244
+  exodos: Air-Strike (1998).zip
+files:
+- name: CWSDPMI.EXE
+  size: 20473
+  date: '1996-12-25T00:32:00'
+  crc: '0x80fa6999'
+- name: Readme.txt
+  size: 499
+  date: '2000-07-01T15:34:52'
+  crc: '0x75dcfcab'
+- name: air-strike.exe
+  size: 192988
+  date: '1998-10-02T17:51:14'
+  crc: '0x22557be7'
+- name: air-strike.ico
+  size: 2998
+  date: '1997-10-12T10:29:54'
+  crc: '0xd6bb5cef'
+- name: end.bin
+  size: 4000
+  date: '1998-05-28T18:56:00'
+  crc: '0x4f5e8026'
+- name: game.dat
+  size: 159585
+  date: '1998-10-01T18:39:04'
+  crc: '0xf42839e4'
+- name: level1.dat
+  size: 108020
+  date: '1998-04-30T20:12:40'
+  crc: '0xaeca2939'
+- name: level2.dat
+  size: 75733
+  date: '1998-04-30T20:49:32'
+  crc: '0xbd063ecb'
+- name: level3.dat
+  size: 128122
+  date: '1998-04-30T20:50:00'
+  crc: '0x31d8fe1b'
+- name: level4.dat
+  size: 55122
+  date: '1998-06-25T12:20:00'
+  crc: '0xc6d9a2e1'
+- name: tokens.txt
+  size: 6454
+  date: '2001-04-28T18:25:40'
+  crc: '0x48dbe407'

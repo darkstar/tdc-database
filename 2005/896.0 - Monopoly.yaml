@@ -1,0 +1,34 @@
+filename: Monopoly (2005)(Brian H. Graham) [Strategy, Board].zip
+tdc_id: '896.0'
+title:
+  screen: Monopoly
+publisher: Brian H. Graham
+year: '2005'
+genre:
+- Strategy
+- Board
+language: English
+date:
+  added: '2019-03-02T10:57:06'
+  last_modified: '2019-03-02T10:57:06'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 28
+  date: '2018-12-10T18:05:46'
+  crc: '0xecea78a3'
+- name: MONOPOLY.BAS
+  size: 67778
+  date: '2005-10-12T07:38:08'
+  crc: '0x1ae1f355'
+- name: MONOPOLY.TXT
+  size: 591
+  date: '2005-10-12T09:04:02'
+  crc: '0x309d28ec'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

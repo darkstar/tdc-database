@@ -1,0 +1,35 @@
+filename: Ultimate NFL Coaches Club Football Beta to 1.0 patch (Installer) (1994)(MicroProse Software, Inc.) [Sports, Strategy].zip
+tdc_id: '17037.2'
+title:
+  screen: Ultimate NFL Coaches Club Football Beta to 1.0 patch
+publisher: MicroProse Software, Inc.
+year: '1994'
+genre:
+- Sports
+- Strategy
+language: English
+date:
+  added: '2019-03-02T07:18:56'
+  last_modified: '2019-03-02T07:18:56'
+type: zip
+installer: true
+patch: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 23296
+  date: '1994-08-17T15:02:12'
+  crc: '0x040be8a6'
+- name: PKUNZIP.EXE
+  size: 28959
+  date: '1993-02-01T02:04:16'
+  crc: '0xeeaac5ea'
+- name: README.NOW
+  size: 636
+  date: '1994-08-18T04:09:20'
+  crc: '0x78dc9218'
+- name: UPDATE.ZIP
+  size: 654270
+  date: '1994-08-18T04:04:18'
+  crc: '0xb8d9b110'

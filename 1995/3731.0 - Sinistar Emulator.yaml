@@ -1,0 +1,30 @@
+filename: Sinistar Emulator (1995)(Digital Eclipse Software, Inc.) [Action].zip
+tdc_id: '3731.0'
+title:
+  screen: Sinistar Emulator
+publisher: Digital Eclipse Software, Inc.
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2020-11-27T14:15:46'
+  last_modified: '2020-11-27T14:15:46'
+type: zip
+commands:
+  play: SINISTAR.EXE
+references:
+  dosid: DOS15733
+  exodos: Sinistar (1995).zip
+files:
+- name: SINISTAR.EXE
+  size: 93204
+  date: '2000-04-21T12:52:38'
+  crc: '0x073313e7'
+- name: SINISTAR.SAV
+  size: 1110
+  date: '2019-08-12T06:54:14'
+  crc: '0xc0bd820a'
+- name: SINISTAR.SND
+  size: 535187
+  date: '2000-04-21T12:52:38'
+  crc: '0x0c3cbe3e'

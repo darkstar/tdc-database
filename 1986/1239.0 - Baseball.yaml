@@ -1,0 +1,54 @@
+filename: Baseball (1986)(Gregory Lamy) [Sports, Simulation].zip
+tdc_id: '1239.0'
+title:
+  screen: Baseball
+publisher: Gregory Lamy
+year: '1986'
+genre:
+- Sports
+- Simulation
+language: English
+date:
+  added: '2019-03-01T18:24:42'
+  last_modified: '2019-03-01T18:24:42'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: 1STN.BAS
+  size: 6949
+  date: '1986-01-17T14:41:02'
+  crc: '0xce83dddb'
+- name: 2STN.BAS
+  size: 6932
+  date: '1986-01-17T14:41:22'
+  crc: '0xb51b366d'
+- name: 3STN.BAS
+  size: 6932
+  date: '1986-01-17T14:41:38'
+  crc: '0x92bf2beb'
+- name: BASEBALL.BAS
+  size: 29440
+  date: '1986-07-15T08:21:50'
+  crc: '0xf66e1df6'
+- name: BASEBALL.DOC
+  size: 6575
+  date: '1986-07-08T18:05:02'
+  crc: '0xd954fc0b'
+- name: BBLIMAGE.DAT
+  size: 16400
+  date: '1986-04-23T17:41:18'
+  crc: '0x577be2b9'
+- name: GO.BAT
+  size: 24
+  date: '2019-01-12T20:31:20'
+  crc: '0xb5340aa2'
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1988-10-05T02:00:08'
+  crc: '0x2a44af39'
+- name: STANDING.BAS
+  size: 8251
+  date: '1986-01-19T22:11:54'
+  crc: '0x85c41f0e'

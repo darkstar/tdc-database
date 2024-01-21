@@ -1,0 +1,58 @@
+filename: Wasteland (Installer) (1988)(Electronic Arts, Inc.) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '16028.3'
+title:
+  box: Wasteland
+publisher: Electronic Arts, Inc.
+year: '1988'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:27:00'
+  last_modified: '2019-03-01T18:27:00'
+type: zip
+installer: true
+commands:
+  play: SETUP.EXE
+files:
+- name: ALLHDBS
+  size: 95793
+  date: '1988-12-01T04:45:16'
+  crc: '0xdcd1b167'
+- name: ALLHTDS.BIN
+  size: 73537
+  date: '1988-06-10T13:40:52'
+  crc: '0x0e29bab3'
+- name: ALLMHCS
+  size: 160358
+  date: '1988-12-01T04:45:46'
+  crc: '0xb5707f22'
+- name: ALLPICS.BIN
+  size: 222371
+  date: '1988-08-19T10:33:52'
+  crc: '0x9931290f'
+- name: END
+  size: 21027
+  date: '1988-11-19T23:17:06'
+  crc: '0x72be5aff'
+- name: GRFXN
+  size: 47637
+  date: '1988-12-01T05:25:04'
+  crc: '0xba902381'
+- name: SETUP.EXE
+  size: 18221
+  date: '1988-11-29T06:02:00'
+  crc: '0x604a39a8'
+- name: START.DAT
+  size: 5118
+  date: '1988-06-15T11:01:20'
+  crc: '0xecdec2d1'
+- name: TITLE
+  size: 8367
+  date: '1988-11-19T23:17:36'
+  crc: '0xbda6e8d2'
+- name: WL.PRG
+  size: 62549
+  date: '1988-12-01T05:16:02'
+  crc: '0x8dc6cb12'

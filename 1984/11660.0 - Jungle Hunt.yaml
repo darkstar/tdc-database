@@ -1,0 +1,52 @@
+filename: Jungle Hunt [DC] (1984)(Atarisoft) [Action].zip
+tdc_id: '11660.0'
+title:
+  box: Jungle Hunt
+publisher: Atarisoft
+year: '1984'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:08'
+  last_modified: '2019-03-01T18:24:08'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: HUNT.COM
+references:
+  dosid: DOS05917
+  exodos: Jungle Hunt (1983).zip
+files:
+- name: '@'
+  size: 16384
+  date: '1987-07-14T09:52:26'
+  crc: '0x22bcb84d'
+- name: D
+  size: 16384
+  date: '1987-12-07T11:11:36'
+  crc: '0x7ab45ef4'
+- name: H
+  size: 16384
+  date: '1987-12-07T11:11:36'
+  crc: '0xdd6121c7'
+- name: HUNT.COM
+  size: 36864
+  date: '1999-08-14T15:44:38'
+  crc: '0x1907ceed'
+- name: L
+  size: 16384
+  date: '1987-12-07T11:11:36'
+  crc: '0x4c2f4aba'
+- name: P
+  size: 16384
+  date: '1987-12-07T11:11:36'
+  crc: '0x370282cd'
+- name: T
+  size: 16384
+  date: '1987-12-07T11:11:36'
+  crc: '0x449f05f0'
+- name: X
+  size: 16384
+  date: '1987-12-07T11:11:38'
+  crc: '0x9ad48b43'

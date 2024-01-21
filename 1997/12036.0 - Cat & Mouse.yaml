@@ -1,0 +1,30 @@
+filename: Cat & Mouse (1997)(Chris McKenzie) [Action, Strategy].zip
+tdc_id: '12036.0'
+title:
+  screen: Cat & Mouse
+publisher: Chris McKenzie
+year: '1997'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-02T10:25:26'
+  last_modified: '2019-03-02T10:25:26'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: CM.BAS
+  size: 3986
+  date: '2018-03-10T02:22:14'
+  crc: '0xc9f1c3ac'
+- name: GO.BAT
+  size: 22
+  date: '2018-06-30T01:24:18'
+  crc: '0x2dfad34a'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T01:28:02'
+  crc: '0x19f6ed75'

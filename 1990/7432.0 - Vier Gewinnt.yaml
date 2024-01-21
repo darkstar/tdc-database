@@ -1,0 +1,43 @@
+filename: Vier Gewinnt (De) (1990)(Ralph Seelig) [Strategy].zip
+tdc_id: '7432.0'
+title:
+  screen: Vier Gewinnt
+publisher: Ralph Seelig
+year: '1990'
+genre: Strategy
+language: German
+date:
+  added: '2019-03-01T18:34:26'
+  last_modified: '2019-03-01T18:34:26'
+type: zip
+commands:
+  play: VG.EXE
+files:
+- name: DER.CGA
+  size: 4081
+  date: '1990-01-24T20:34:24'
+  crc: '0xffbde70f'
+- name: DER.EGA
+  size: 5968
+  date: '1990-01-24T20:33:56'
+  crc: '0xb434c47c'
+- name: VG.CGA
+  size: 6886
+  date: '1989-12-16T13:55:24'
+  crc: '0xef8487c2'
+- name: VG.EGA
+  size: 36896
+  date: '1989-11-18T22:39:34'
+  crc: '0x0a590744'
+- name: VG.EXE
+  size: 60480
+  date: '1990-01-24T20:57:08'
+  crc: '0xbf0eb399'
+- name: VG.SCC
+  size: 9121
+  date: '1989-12-18T13:23:08'
+  crc: '0xcf22eb83'
+- name: VG.SCE
+  size: 58262
+  date: '1989-11-25T06:01:16'
+  crc: '0xe0cb929f'

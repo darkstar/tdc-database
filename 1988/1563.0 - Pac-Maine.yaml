@@ -1,0 +1,28 @@
+filename: Pac-Maine (1988)(University of Maine at Fort Kent) [Action, Educational].zip
+tdc_id: '1563.0'
+title:
+  screen: Pac-Maine
+publisher: University of Maine at Fort Kent
+year: '1988'
+genre:
+- Action
+- Educational
+language: English
+date:
+  added: '2019-03-01T18:26:34'
+  last_modified: '2019-03-01T18:26:34'
+type: zip
+commands:
+  play: UMFK.EXE
+references:
+  dosid: DOS03889
+  exodos: Pac-Maine (1988).zip
+files:
+- name: INIT.SCR
+  size: 34283
+  date: '1988-08-23T20:23:06'
+  crc: '0x6a368105'
+- name: UMFK.EXE
+  size: 76108
+  date: '1988-09-30T18:36:32'
+  crc: '0x54d8ec7e'

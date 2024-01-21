@@ -1,0 +1,94 @@
+filename: 3D-TicTacToe (Installer) (1995)(Black Hole Entertainment) [Strategy].zip
+tdc_id: '1360.1'
+title:
+  screen: 3D-TicTacToe
+publisher: Black Hole Entertainment
+year: '1995'
+genre: Strategy
+language: English
+date:
+  added: '2022-10-30T12:56:03'
+  last_modified: '2022-10-30T12:56:03'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DEMO\
+  size: 0
+  date: '2022-09-16T17:47:16'
+- name: DEMO\BILD1.PCX
+  size: 64007
+  date: '1995-07-29T21:39:40'
+  crc: '0x3069a9fc'
+- name: DEMO\BILD2
+  size: 744
+  date: '1995-08-11T15:16:54'
+  crc: '0xdf4d6f93'
+- name: DEMO\BILD2.PCX
+  size: 43257
+  date: '1995-07-29T21:41:34'
+  crc: '0x2792ed24'
+- name: DEMO\BILD3
+  size: 520
+  date: '1995-07-30T13:04:36'
+  crc: '0x471cc37d'
+- name: DEMO\BILD3.PCX
+  size: 83814
+  date: '1995-07-29T21:41:50'
+  crc: '0x62c26433'
+- name: DEMO\BILD4
+  size: 458
+  date: '1995-07-30T13:04:50'
+  crc: '0xb68c36b0'
+- name: DEMO\BILD4.PCX
+  size: 63415
+  date: '1995-07-29T21:42:00'
+  crc: '0xf600fe3c'
+- name: DEMO\BILD5
+  size: 461
+  date: '1995-07-30T13:05:02'
+  crc: '0xa664bd76'
+- name: DEMO\BILD5.PCX
+  size: 54363
+  date: '1995-07-29T21:42:12'
+  crc: '0x6c45e5c5'
+- name: DEMO\DEMO.BAT
+  size: 350
+  date: '1995-08-16T16:36:20'
+  crc: '0xfb7661dc'
+- name: DEMO\DESKTOP
+  size: 0
+  date: '1995-06-20T22:33:30'
+- name: DEMO\EPILOG
+  size: 732
+  date: '1995-08-11T15:46:54'
+  crc: '0xa21de957'
+- name: DEMO\FINDER.DAT
+  size: 368
+  date: '1995-06-20T22:33:30'
+  crc: '0x6c22726d'
+- name: DEMO\PROLOG
+  size: 895
+  date: '1995-08-11T15:16:02'
+  crc: '0x0d1ca352'
+- name: DEMO\SHOWPCX.EXE
+  size: 27312
+  date: '1993-11-15T11:11:16'
+  crc: '0x51840980'
+- name: INSTALL.DAT
+  size: 502130
+  date: '1995-06-07T12:20:50'
+  crc: '0x9e496320'
+- name: INSTALL.EXE
+  size: 13872
+  date: '1995-06-08T12:24:06'
+  crc: '0xbb29a4b7'
+- name: MANUAL.ENG
+  size: 8108
+  date: '1995-06-08T11:23:46'
+  crc: '0x83426d84'
+- name: MANUAL.GER
+  size: 8759
+  date: '1995-06-08T12:25:40'
+  crc: '0xe7b09f3d'

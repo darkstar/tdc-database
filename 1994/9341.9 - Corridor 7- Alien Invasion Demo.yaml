@@ -1,0 +1,70 @@
+filename: Corridor 7- Alien Invasion Demo [a1] (1994)(Capstone Software) [Action].zip
+tdc_id: '9341.9'
+title:
+  screen: 'Corridor 7: Alien Invasion Demo'
+publisher: Capstone Software
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T21:55:24'
+  last_modified: '2019-03-01T21:55:24'
+type: zip
+tags:
+- Alternate: 1
+demo: true
+commands:
+  play: CORR7.EXE
+files:
+- name: AUDIODCT.DMO
+  size: 1024
+  date: '1993-02-04T16:01:26'
+  crc: '0x0ad5b7e8'
+- name: AUDIOHED.DMO
+  size: 804
+  date: '1994-03-15T16:36:08'
+  crc: '0x59d1ac0c'
+- name: AUDIOMUS.DMO
+  size: 606208
+  date: '1994-03-15T16:57:54'
+  crc: '0x484e35ac'
+- name: AUDIOT.DMO
+  size: 157145
+  date: '1994-03-15T16:36:08'
+  crc: '0x8a270cf9'
+- name: CORR7.EXE
+  size: 183482
+  date: '1994-03-16T18:14:24'
+  crc: '0x7d6c43f8'
+- name: GFXINFOV.DMO
+  size: 46
+  date: '1994-03-17T16:10:10'
+  crc: '0xb373cc26'
+- name: GFXTILES.DMO
+  size: 1545374
+  date: '1994-03-15T15:42:24'
+  crc: '0x62d91aa0'
+- name: MAPHEAD.DMO
+  size: 402
+  date: '1994-03-16T16:07:10'
+  crc: '0xf9ff1894'
+- name: MAPTEMP.DMO
+  size: 7302
+  date: '1994-03-16T16:07:10'
+  crc: '0x2a6e7922'
+- name: MAPTHEAD.DMO
+  size: 1096
+  date: '1994-03-16T16:07:10'
+  crc: '0x9b310c60'
+- name: VGADICT.DMO
+  size: 1024
+  date: '1994-03-17T16:10:10'
+  crc: '0xeee6472d'
+- name: VGAGRAPH.DMO
+  size: 435059
+  date: '1994-03-17T16:10:10'
+  crc: '0xafa20645'
+- name: VGAHEAD.DMO
+  size: 150
+  date: '1994-03-17T16:10:10'
+  crc: '0xc3cf51d0'

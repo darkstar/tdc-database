@@ -1,0 +1,40 @@
+filename: Zoom 1 (Installer) [SW] (1995)(Acord Games) [Action].zip
+tdc_id: '15759.0'
+title:
+  screen: Zoom 1
+  qualifier: Installer
+publisher: Acord Games
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T07:20:14'
+  last_modified: '2023-03-07T08:29:27'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.BAT
+files:
+- name: $DATA.DAT
+  size: 912422
+  date: '1995-06-04T03:05:30'
+  crc: '0x12dfe1a3'
+- name: $DATA2.DAT
+  size: 1412564
+  date: '1995-06-04T03:06:16'
+  crc: '0x48104afb'
+- name: $ZOOM.DAT
+  size: 314440
+  date: '1995-06-06T00:54:26'
+  crc: '0x6b26b8d5'
+- name: INSTALL.BAT
+  size: 3355
+  date: '1995-05-24T09:16:02'
+  crc: '0xd647af35'
+- name: INSTALL2.BAT
+  size: 3929
+  date: '1995-05-16T10:21:04'
+  crc: '0x44851e97'

@@ -1,0 +1,41 @@
+filename: Craps (demo) [SW] (1990)(TechnoWorks) [Strategy, Simulation].zip
+tdc_id: '1924.0'
+title:
+  screen: Craps
+  qualifier: demo
+publisher: TechnoWorks
+year: '1990'
+genre:
+- Strategy
+- Simulation
+language: English
+date:
+  added: '2019-03-01T18:32:12'
+  last_modified: '2019-03-01T18:32:12'
+type: zip
+tags:
+- Shareware
+demo: true
+commands:
+  play: CRAPDEMO.EXE
+files:
+- name: CATALOG.EXE
+  size: 13600
+  date: '1989-11-16T00:31:20'
+  crc: '0xc92a7c1e'
+- name: CRAPDEMO.EXE
+  size: 83296
+  date: '1990-04-26T05:57:10'
+  crc: '0x56d748ee'
+- name: INVOICE
+  size: 3060
+  date: '1989-11-16T00:37:36'
+  crc: '0x5977788b'
+- name: LTABLE.PIC
+  size: 16384
+  date: '1989-11-11T10:19:14'
+  crc: '0xc4ca4b77'
+- name: RTABLE.PIC
+  size: 16384
+  date: '1989-11-06T00:59:22'
+  crc: '0x4d61cedd'

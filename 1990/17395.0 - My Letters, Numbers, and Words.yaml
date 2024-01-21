@@ -1,0 +1,36 @@
+filename: My Letters, Numbers, and Words v2.2 (1990)(Stone & Associates, Nighthawk Computing) [Educational].zip
+tdc_id: '17395.0'
+title:
+  box: My Letters, Numbers, and Words
+publisher: Stone & Associates, Nighthawk Computing
+year: '1990'
+genre: Educational
+language: English
+date:
+  last_modified: '2023-12-29T16:34:02'
+version: '2.2'
+type: zip
+commands:
+  play: LNW.EXE
+notes: +=... PCMag 9/83 p354, PCMag 10/83 p569 / 64K, DOS 1.1, CGA, $39.95 // also "Stone & Associates Inc
+files:
+- name: CGA.BGI
+  size: 6253
+  date: '1988-08-29T04:00:00'
+  crc: '0x17cbdd92'
+- name: EGAVGA.BGI
+  size: 5363
+  date: '1988-08-29T04:00:00'
+  crc: '0x06d36962'
+- name: LNW.DAT
+  size: 20
+  date: '1990-06-12T17:39:26'
+  crc: '0x67e1d1ab'
+- name: LNW.EXE
+  size: 182382
+  date: '1991-11-19T09:36:02'
+  crc: '0x68474ed0'
+- name: VGA256.BGI
+  size: 3289
+  date: '1990-02-23T16:12:00'
+  crc: '0x55f0b0ba'

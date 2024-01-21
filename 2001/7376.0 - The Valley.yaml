@@ -1,0 +1,34 @@
+filename: Valley, The (2001)(Paul Robson) [Adventure].zip
+tdc_id: '7376.0'
+title:
+  screen: The Valley
+publisher: Paul Robson
+year: '2001'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-02T10:55:48'
+  last_modified: '2019-03-02T10:55:48'
+type: zip
+commands:
+  play: avalley.exe
+references:
+  dosid: DOS05459
+  exodos: Valley, The (2001).zip
+files:
+- name: CWSDPMI.EXE
+  size: 20125
+  date: '2000-10-22T13:55:00'
+  crc: '0x1d1b569c'
+- name: GRAPHICS.BIN
+  size: 4608
+  date: '2001-12-05T10:23:16'
+  crc: '0x400117d5'
+- name: avalley.exe
+  size: 149484
+  date: '2001-12-05T10:23:14'
+  crc: '0x3bcc52d7'
+- name: font.pcx
+  size: 14416
+  date: '2001-12-03T12:02:50'
+  crc: '0x8670c9e4'

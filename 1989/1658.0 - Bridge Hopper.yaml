@@ -1,0 +1,34 @@
+filename: Bridge Hopper (1989)(I. Harness) [Action].zip
+tdc_id: '1658.0'
+title:
+  screen: Bridge Hopper
+publisher: I. Harness
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:27:22'
+  last_modified: '2019-03-01T18:27:22'
+type: zip
+commands:
+  play: HOPPER.COM
+references:
+  dosid: DOS01181
+  exodos: Bridge Hopper (1990).zip
+files:
+- name: HOPPER.COM
+  size: 36839
+  date: '1990-03-14T20:08:16'
+  crc: '0xffb64d27'
+- name: HOPPER.DAT
+  size: 26880
+  date: '1990-03-07T20:03:54'
+  crc: '0xd4dffaf7'
+- name: HOPPER.DOC
+  size: 2688
+  date: '1990-10-09T17:18:32'
+  crc: '0x210005d6'
+- name: HOPPER.SCR
+  size: 16368
+  date: '1990-03-11T16:00:50'
+  crc: '0xdcd12d4b'

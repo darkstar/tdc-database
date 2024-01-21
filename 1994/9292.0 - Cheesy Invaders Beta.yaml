@@ -1,0 +1,42 @@
+filename: Cheesy Invaders Beta v0.7c [SW] (1994)(Jeff Anderson, Cheesy Software) [Action].zip
+tdc_id: '9292.0'
+title:
+  screen: Cheesy Invaders Beta
+publisher: Jeff Anderson, Cheesy Software
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T21:55:06'
+  last_modified: '2019-03-01T21:55:06'
+version: 0.7c
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: INV.EXE
+references:
+  dosid: DOS01354
+  exodos: Cheesy Invaders (1994).zip
+files:
+- name: INV.DOC
+  size: 6733
+  date: '1999-12-31T19:00:00'
+  crc: '0x6f693811'
+- name: INV.EXE
+  size: 173687
+  date: '1999-12-31T19:00:00'
+  crc: '0x9581e2a4'
+- name: INV.RD
+  size: 10292
+  date: '1999-12-31T19:00:00'
+  crc: '0xd2b4ccfe'
+- name: INV.RES
+  size: 1094792
+  date: '1999-12-31T19:00:00'
+  crc: '0x5344a6b4'
+- name: INV.SCO
+  size: 140
+  date: '1999-12-31T19:00:00'
+  crc: '0x178c2a93'

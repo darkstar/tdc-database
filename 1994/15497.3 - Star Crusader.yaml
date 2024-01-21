@@ -1,0 +1,74 @@
+filename: Star Crusader (Es) (1994)(GameTek, Inc.) [Simulation].zip
+tdc_id: '15497.3'
+title:
+  box: Star Crusader
+publisher: GameTek, Inc.
+year: '1994'
+genre: Simulation
+language: Spanish
+date:
+  added: '2022-12-27T13:05:45'
+  last_modified: '2022-12-27T13:05:45'
+type: zip
+commands:
+  play: SC.COM
+  setup: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/star-crusader
+files:
+- name: CRUSADER.GL
+  size: 1001191
+  date: '1995-03-28T02:47:00'
+  crc: '0x2e7c81f1'
+- name: NSP.CFG
+  size: 24
+  date: '2012-07-04T16:44:20'
+  crc: '0x85fd1951'
+- name: NSP.DAT
+  size: 1307
+  date: '1994-07-25T15:17:34'
+  crc: '0x62486174'
+- name: NSP2D.DAT
+  size: 109672
+  date: '1995-03-30T17:05:52'
+  crc: '0xfded2886'
+- name: NSP3D.DAT
+  size: 113343
+  date: '1995-03-30T16:09:32'
+  crc: '0x029e596f'
+- name: NSP3D.GL
+  size: 2275343
+  date: '1995-03-29T17:09:04'
+  crc: '0x961a60cf'
+- name: NSP4D.DAT
+  size: 52655
+  date: '1995-03-28T02:49:40'
+  crc: '0xeae9c548'
+- name: NSP4D.GL
+  size: 9542546
+  date: '1995-03-30T09:21:00'
+  crc: '0xb00fc0c8'
+- name: NSPCD.DAT
+  size: 1469
+  date: '1994-10-25T10:30:54'
+  crc: '0x2d8593c2'
+- name: PREVIOUS.GAM
+  size: 5491
+  date: '2012-07-04T16:44:52'
+  crc: '0x8c42e00a'
+- name: SC.COM
+  size: 1307
+  date: '1994-07-25T15:17:34'
+  crc: '0x62486174'
+- name: SETUP.EXE
+  size: 20638
+  date: '1995-03-29T15:22:22'
+  crc: '0x683014c9'
+- name: SETUP.GL
+  size: 28580
+  date: '1994-08-14T16:09:58'
+  crc: '0x54b6a805'
+- name: SIM.FIL
+  size: 5
+  date: '2020-06-22T12:18:06'
+  crc: '0x02b814c3'

@@ -1,0 +1,37 @@
+filename: Racer Jammer (1982)(Anonymous) [Action, Racing - Driving].zip
+tdc_id: '14691.0'
+title:
+  screen: Racer Jammer
+publisher: Anonymous
+year: '1982'
+genre:
+- Action
+- Racing - Driving
+language: English
+date:
+  added: '2019-03-01T18:23:02'
+  last_modified: '2019-03-01T18:23:02'
+type: zip
+media: Download
+commands:
+  play: JAMMER.BAT
+references:
+  dosid: DOS07039
+  exodos: Racer Jammer (1982).zip
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: JAMMER.BAS
+  size: 7808
+  date: '1982-05-07T00:00:00'
+  crc: '0x060d2846'
+- name: JAMMER.BAT
+  size: 15
+  date: '2014-12-04T11:11:40'
+  crc: '0x13bc78a1'
+- name: RACJAM.SCO
+  size: 268
+  date: '1983-02-01T20:52:00'
+  crc: '0xb234b325'

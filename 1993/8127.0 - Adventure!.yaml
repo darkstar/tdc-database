@@ -1,0 +1,34 @@
+filename: Adventure! (1993)(FunStuff Software) [Adventure, Interactive Fiction].zip
+tdc_id: '8127.0'
+title:
+  screen: Adventure!
+publisher: FunStuff Software
+year: '1993'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2012-07-04T15:12:48'
+  last_modified: '2012-07-04T15:12:48'
+type: zip
+media: Download
+commands:
+  play: ADVENTUR.EXE
+files:
+- name: AD.DAT
+  size: 52338
+  date: '1993-07-29T11:28:02'
+  crc: '0x5f0cfa4e'
+- name: ADVENTUR.EXE
+  size: 31358
+  date: '1993-07-29T11:28:02'
+  crc: '0x26a80ada'
+- name: FILE_ID.DIZ
+  size: 313
+  date: '1993-07-29T11:28:02'
+  crc: '0x5ccdfb0b'
+- name: README.ADV
+  size: 2499
+  date: '1993-07-29T11:28:02'
+  crc: '0x48b29c50'

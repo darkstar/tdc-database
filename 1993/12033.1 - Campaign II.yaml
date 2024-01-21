@@ -1,0 +1,48 @@
+filename: Campaign II (Installer) (En)(De)(Fr)(It)(Es) (1993)(Empire Software) [Strategy].zip
+tdc_id: '12033.1'
+parent_id: '12033.2'
+title:
+  box: Campaign II
+publisher: Empire Software
+year: '1993'
+genre: Strategy
+language:
+- English
+- Spanish
+- French
+- Italian
+- German
+date:
+  added: '2019-03-01T19:01:48'
+  last_modified: '2022-11-16T15:22:43'
+type: zip
+installer: true
+commands:
+  play: INSTALL.BAT
+references:
+  mobygames: https://www.mobygames.com/game/dos/campaign-ii
+files:
+- name: CAMP2.RNC
+  size: 490270
+  date: '1993-12-12T20:37:34'
+  crc: '0xabf49b86'
+- name: INSTALL.BAT
+  size: 1230
+  date: '1993-12-08T12:01:28'
+  crc: '0x529821a2'
+- name: INTRO.RNC
+  size: 326430
+  date: '1993-12-08T11:24:28'
+  crc: '0x560ff660'
+- name: PP.EXE
+  size: 37865
+  date: '1992-10-29T11:52:14'
+  crc: '0x5f18e002'
+- name: REALWARS.RNC
+  size: 224549
+  date: '1993-12-08T11:58:02'
+  crc: '0x9e08ec8f'
+- name: TRAINING.RNC
+  size: 22465
+  date: '1993-12-08T11:25:06'
+  crc: '0x6b66fd69'

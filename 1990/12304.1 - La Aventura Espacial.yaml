@@ -1,0 +1,65 @@
+filename: Aventura Espacial, La (Es) [a1] (1990)(Aventuras AD) [Adventure].zip
+tdc_id: '12304.1'
+title:
+  screen: La Aventura Espacial
+publisher: Aventuras AD
+year: '1990'
+genre: Adventure
+language: Spanish
+date:
+  added: '2019-03-01T18:31:48'
+  last_modified: '2019-03-01T18:31:48'
+type: zip
+tags:
+- Alternate: 1
+commands:
+  play: AD.EXE
+files:
+- name: AD.EXE
+  size: 14424
+  date: '1990-08-22T13:45:58'
+  crc: '0xea1b5306'
+- name: PART1.CGS
+  size: 16384
+  date: '1990-08-21T20:41:50'
+  crc: '0xf82faa94'
+- name: PART1.CHR
+  size: 2176
+  date: '1990-08-22T11:35:22'
+  crc: '0x70051457'
+- name: PART1.DAT
+  size: 86272
+  date: '1990-08-21T12:50:00'
+  crc: '0xbea04c76'
+- name: PART1.DDB
+  size: 20386
+  date: '1990-08-23T20:59:40'
+  crc: '0x2d3ee039'
+- name: PART1.EGS
+  size: 32001
+  date: '1990-06-29T12:24:00'
+  crc: '0xd8e74322'
+- name: PART2.CHR
+  size: 2176
+  date: '1990-08-22T11:35:22'
+  crc: '0x70051457'
+- name: PART2.DAT
+  size: 270080
+  date: '1990-08-21T12:59:46'
+  crc: '0x0d263411'
+- name: PART2.DDB
+  size: 22054
+  date: '1990-08-23T20:57:58'
+  crc: '0xc9a822c8'
+- name: PART3.CHR
+  size: 2176
+  date: '1990-05-17T16:21:08'
+  crc: '0x7eef7ca6'
+- name: PART3.DAT
+  size: 199680
+  date: '1990-08-21T14:37:56'
+  crc: '0x6d54d603'
+- name: PART3.DDB
+  size: 22970
+  date: '1990-08-23T20:55:02'
+  crc: '0xf7aa6f28'

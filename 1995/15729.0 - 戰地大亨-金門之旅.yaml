@@ -1,0 +1,160 @@
+filename: 戰地大亨-金門之旅 (Zh) (1995)(Horng Shen Information Co., Ltd.) [Strategy, Board].zip
+tdc_id: '15729.0'
+title:
+  screen: 戰地大亨-金門之旅
+  translation: Battlefield Tycoon- Golden Gate Tour
+  transliteration: 'Zhandi Daheng: Jinmen Zhi-Lu'
+publisher: Horng Shen Information Co., Ltd.
+year: '1995'
+genre:
+- Strategy
+- Board
+language: Chinese
+date:
+  added: '2019-03-02T09:08:20'
+  last_modified: '2024-01-03T07:59:02'
+type: zip
+commands:
+  play: KM.EXE
+  setup: INSTALL.EXE
+files:
+- name: DAY1.CMF
+  size: 8748
+  date: '1996-01-08T13:16:42'
+  crc: '0x84a19d8d'
+- name: DAY1.MID
+  size: 13682
+  date: '1995-11-01T09:45:08'
+  crc: '0x8a9f0930'
+- name: DAY2.CMF
+  size: 10582
+  date: '1996-01-08T13:16:50'
+  crc: '0xb59da93d'
+- name: DAY2.MID
+  size: 19421
+  date: '1995-11-03T12:02:42'
+  crc: '0x51fc9e91'
+- name: DAY3.CMF
+  size: 8349
+  date: '1996-01-09T10:00:42'
+  crc: '0xd7121420'
+- name: DAY3.MID
+  size: 16846
+  date: '1995-11-06T12:43:48'
+  crc: '0x8472be7e'
+- name: DAY4.CMF
+  size: 8686
+  date: '1996-01-08T13:17:06'
+  crc: '0xb1b0eac8'
+- name: DAY4.MID
+  size: 24639
+  date: '1995-11-06T09:19:22'
+  crc: '0xc96d68ef'
+- name: DPMI16BI.OVL
+  size: 50576
+  date: '1996-02-08T21:27:20'
+  crc: '0x1d6e371d'
+- name: GDLAND01.MAP
+  size: 49152
+  date: '1995-11-29T16:46:04'
+  crc: '0x76cccb43'
+- name: GDLAND02.MAP
+  size: 49152
+  date: '1995-10-17T00:09:30'
+  crc: '0x840a670b'
+- name: GDLAND03.MAP
+  size: 49152
+  date: '1995-11-15T20:27:00'
+  crc: '0x5f775f51'
+- name: GDLAND04.MAP
+  size: 49152
+  date: '1995-11-15T14:29:30'
+  crc: '0x2ea8179c'
+- name: GDLAND05.MAP
+  size: 49152
+  date: '1995-11-29T16:54:50'
+  crc: '0x779a6095'
+- name: GDOBJ01.DAT
+  size: 49152
+  date: '1995-11-29T16:07:30'
+  crc: '0x146b2c17'
+- name: GDOBJ02.DAT
+  size: 49152
+  date: '1995-10-17T00:56:22'
+  crc: '0xb83cc3c6'
+- name: GDOBJ03.DAT
+  size: 49152
+  date: '1995-10-17T13:40:24'
+  crc: '0x5f283e24'
+- name: GDOBJ04.DAT
+  size: 49152
+  date: '1995-11-20T15:11:26'
+  crc: '0x17b84e49'
+- name: GDOBJ05.DAT
+  size: 49152
+  date: '1995-11-29T16:50:42'
+  crc: '0xf73688c5'
+- name: INSTALL.EXE
+  size: 102816
+  date: '1996-02-08T21:27:20'
+  crc: '0x08498811'
+- name: KINGMEN.CFG
+  size: 5
+  date: '1996-02-08T21:37:08'
+  crc: '0x81828dcd'
+- name: KM.EXE
+  size: 247168
+  date: '1996-02-09T10:28:22'
+  crc: '0xe6b0a5fc'
+- name: KM.SDG
+  size: 33568839
+  date: '1996-01-12T13:48:22'
+  crc: '0x138e9e8e'
+- name: KM.SMP
+  size: 1599319
+  date: '1995-11-29T17:17:20'
+  crc: '0x93b1c85a'
+- name: KMINST.IMG
+  size: 615942
+  date: '1996-02-08T21:27:20'
+  crc: '0x2041a3c1'
+- name: KMPAL.DAT
+  size: 5390
+  date: '1995-10-28T11:26:10'
+  crc: '0xf0abd7f5'
+- name: NIGHT1.CMF
+  size: 6027
+  date: '1996-01-08T13:17:22'
+  crc: '0x4d092099'
+- name: NIGHT1.MID
+  size: 13174
+  date: '1995-11-01T09:50:28'
+  crc: '0x96b594ef'
+- name: NIGHT2.CMF
+  size: 8308
+  date: '1996-01-09T10:17:00'
+  crc: '0x50fceae6'
+- name: NIGHT2.MID
+  size: 10788
+  date: '1995-11-02T11:14:38'
+  crc: '0x5d0e5912'
+- name: NIGHT3.CMF
+  size: 10082
+  date: '1996-01-08T13:04:14'
+  crc: '0x08f5f8e0'
+- name: NIGHT3.MID
+  size: 13795
+  date: '1995-11-06T12:48:36'
+  crc: '0x772edae4'
+- name: RTM.EXE
+  size: 120853
+  date: '1996-02-08T21:27:20'
+  crc: '0xa4e940a6'
+- name: START.CMF
+  size: 4075
+  date: '1996-01-08T13:49:58'
+  crc: '0x9dba6aa6'
+- name: START.MID
+  size: 5619
+  date: '1995-11-06T13:51:10'
+  crc: '0xd1a6ce0b'

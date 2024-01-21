@@ -1,0 +1,58 @@
+filename: Theatre of War (Installer) [a1] (1992)(Three-Sixty Pacific, Inc.) [Strategy].zip
+tdc_id: '16621.2'
+title:
+  box: Theatre of War
+publisher: Three-Sixty Pacific, Inc.
+year: '1992'
+genre: Strategy
+language: English
+date:
+  added: '2020-11-02T22:26:04'
+  last_modified: '2020-11-02T22:26:04'
+type: zip
+tags:
+- Alternate: 1
+installer: true
+commands:
+  play: INSTALL.COM
+files:
+- name: DRIVERS.DAT
+  size: 36063
+  date: '1992-06-18T12:22:02'
+  crc: '0x5ef7e209'
+- name: INSTALL.COM
+  size: 22242
+  date: '1992-06-18T12:18:58'
+  crc: '0xf5b51e67'
+- name: READ.ME
+  size: 18225
+  date: '1992-06-16T15:48:06'
+  crc: '0xf8d20102'
+- name: TOWA.DAT
+  size: 179774
+  date: '1992-07-02T13:52:22'
+  crc: '0xbd00a4dc'
+- name: TOWB.DAT
+  size: 9440
+  date: '1992-06-18T12:21:40'
+  crc: '0xeb2de474'
+- name: TOWC.DAT
+  size: 784167
+  date: '1992-06-18T12:21:48'
+  crc: '0x6af75cc4'
+- name: TOWD.DAT
+  size: 560009
+  date: '1992-06-18T12:21:52'
+  crc: '0xe079971f'
+- name: TOWE.DAT
+  size: 604349
+  date: '1992-06-18T13:31:40'
+  crc: '0x0a910bd6'
+- name: TOWF.DAT
+  size: 126787
+  date: '1992-06-18T12:22:00'
+  crc: '0x0510e2b0'
+- name: TOWG.DAT
+  size: 56227
+  date: '1992-06-18T12:22:00'
+  crc: '0x26c9be4e'

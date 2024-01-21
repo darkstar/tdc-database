@@ -1,0 +1,29 @@
+filename: Congo Bongo [DC][b1] (1984)(SEGA Enterprises Ltd.) [Action].zip
+tdc_id: '6046.0'
+title:
+  box: Congo Bongo
+publisher: SEGA Enterprises Ltd.
+year: '1984'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:02'
+  last_modified: '2019-03-01T18:24:02'
+type: zip
+tags:
+- DOSConversion
+- Bad: 1
+commands:
+  play: Congo.com
+references:
+  dosid: DOS05852
+  exodos: Congo Bongo (1984).zip
+files:
+- name: Congo.com
+  size: 430
+  date: '2007-06-02T13:51:44'
+  crc: '0x631491d7'
+- name: Game.dat
+  size: 368640
+  date: '2007-06-02T13:52:16'
+  crc: '0x9873118c'

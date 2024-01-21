@@ -1,0 +1,48 @@
+filename: Fernando Martin Basket Master (1990)(Dinamic Software) [Sports, Action].zip
+tdc_id: '13543.0'
+title:
+  box: Fernando Martin Basket Master
+publisher: Dinamic Software
+year: '1990'
+genre:
+- Sports
+- Action
+language: English
+date:
+  added: '2019-03-01T18:32:36'
+  last_modified: '2019-03-01T18:32:36'
+type: zip
+commands:
+  play: martin.com
+references:
+  dosid: DOS02123
+  exodos: Fernando Martin Basket Master (1990).zip
+files:
+- name: CAMPOPC.BIN
+  size: 6658
+  date: '1990-09-21T00:12:42'
+  crc: '0xe6d98e3b'
+- name: GRMARC.BIN
+  size: 1054
+  date: '1990-09-21T00:19:08'
+  crc: '0x51d4dfe3'
+- name: GSPRCGA.BIN
+  size: 26868
+  date: '1990-09-30T07:49:14'
+  crc: '0xe852da84'
+- name: MARCCGA.BIN
+  size: 1068
+  date: '1990-09-22T19:55:06'
+  crc: '0x84ed2172'
+- name: PUBLCGA.BIN
+  size: 674
+  date: '1990-09-21T00:13:28'
+  crc: '0xd9c9ed57'
+- name: RUIDFM.BIN
+  size: 1732
+  date: '1990-09-30T17:08:56'
+  crc: '0xdf7a1361'
+- name: martin.com
+  size: 14027
+  date: '1990-10-05T14:31:50'
+  crc: '0x30bf46d4'

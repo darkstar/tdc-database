@@ -1,0 +1,30 @@
+filename: Deep Sea Diver (1992)(Softdisk, Inc.) [Action].zip
+tdc_id: '13027.0'
+title:
+  screen: Deep Sea Diver
+publisher: Softdisk, Inc.
+year: '1992'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:42:22'
+  last_modified: '2019-03-01T18:42:22'
+type: zip
+commands:
+  play: DIVER.EXE
+references:
+  dosid: DOS00247
+  exodos: Deep Sea Diver (1991).zip
+files:
+- name: DIVE.SCR
+  size: 3066
+  date: '1996-12-24T23:32:00'
+  crc: '0xc3252813'
+- name: DIVER.EXE
+  size: 23088
+  date: '1996-12-24T23:32:00'
+  crc: '0xb412b471'
+- name: DIVER.TXT
+  size: 1770
+  date: '1996-12-24T23:32:00'
+  crc: '0x5e78faac'

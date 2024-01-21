@@ -1,0 +1,48 @@
+filename: Hannibal CD (Installer) (De) (1996)(Computec Media Verlag) [Strategy].zip
+tdc_id: '11091.13'
+title:
+  box: Hannibal
+  qualifier: Installer
+publisher: Computec Media Verlag
+year: '1996'
+genre: Strategy
+language: German
+date:
+  added: '2023-09-03T14:01:44'
+  last_modified: '2023-09-03T14:01:44'
+type: zip
+media: CD-ROM
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/9931/hannibal/
+files:
+- name: ANLEITUN.BAT
+  size: 23
+  date: '1995-02-02T20:38:20'
+  crc: '0x527d2b9e'
+- name: HANNIBAL.TXT
+  size: 26416
+  date: '1995-02-01T14:51:36'
+  crc: '0xc384dc89'
+- name: HB1.PAK
+  size: 1457106
+  date: '1994-04-19T12:52:58'
+  crc: '0xd465da1b'
+- name: HB2.PAK
+  size: 1170366
+  date: '1994-04-19T12:53:04'
+  crc: '0xdca7491f'
+- name: INSTALL.CFG
+  size: 731
+  date: '1994-04-19T12:56:28'
+  crc: '0xdf97c32e'
+- name: INSTALL.EXE
+  size: 24836
+  date: '1991-10-10T12:41:28'
+  crc: '0xab4772c2'
+- name: SHOWTEXT.EXE
+  size: 7320
+  date: '1994-01-14T11:11:50'
+  crc: '0x8860566e'

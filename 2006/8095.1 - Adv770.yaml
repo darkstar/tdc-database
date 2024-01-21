@@ -1,0 +1,38 @@
+filename: Adv770 v1.79 (2006)(Mike Arnautov) [Adventure, Interactive Fiction].zip
+tdc_id: '8095.1'
+title:
+  screen: Adv770
+publisher: Mike Arnautov
+year: '2006'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-10-03T07:52:40'
+  last_modified: '2019-10-03T07:52:40'
+version: '1.79'
+type: zip
+commands:
+  play: adv770.exe
+files:
+- name: FAQ.txt
+  size: 36327
+  date: '2006-11-12T21:15:50'
+  crc: '0xbd85d51f'
+- name: README.txt
+  size: 7294
+  date: '2006-11-12T21:15:50'
+  crc: '0x87c032a9'
+- name: REFLIST.txt
+  size: 3333
+  date: '2006-11-13T01:16:42'
+  crc: '0xf11ede0b'
+- name: adv770.dat
+  size: 505182
+  date: '2006-11-12T21:15:48'
+  crc: '0x13ec0019'
+- name: adv770.exe
+  size: 814452
+  date: '2006-11-12T21:15:48'
+  crc: '0x35d5224f'

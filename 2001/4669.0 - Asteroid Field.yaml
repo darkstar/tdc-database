@@ -1,0 +1,31 @@
+filename: Asteroid Field (2001)(Ben Thomas) [Action].zip
+tdc_id: '4669.0'
+title:
+  screen: Asteroid Field
+publisher: Ben Thomas
+year: '2001'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:55:10'
+  last_modified: '2019-03-02T10:55:10'
+type: zip
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 20
+  date: '2018-12-12T21:32:10'
+  crc: '0x3f3eb29d'
+- name: QB.EXE
+  size: 278804
+  date: '2016-03-13T01:19:58'
+  crc: '0xb08bc0fe'
+- name: SHIP.BAS
+  size: 6251
+  date: '2001-02-25T17:49:58'
+  crc: '0xeff67258'
+- name: how do you play this.txt
+  size: 1568
+  date: '2001-02-25T15:10:16'
+  crc: '0xeb64ce5b'

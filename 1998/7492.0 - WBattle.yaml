@@ -1,0 +1,28 @@
+filename: WBattle (1998)(Joe) [Strategy].zip
+tdc_id: '7492.0'
+title:
+  screen: WBattle
+publisher: Joe
+year: '1998'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:45:04'
+  last_modified: '2019-03-02T10:45:04'
+type: zip
+media: Download
+commands:
+  play: PLAY.BAT
+files:
+- name: PLAY.BAT
+  size: 19
+  date: '2016-07-07T18:41:36'
+  crc: '0xd890e2ca'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-08T17:28:02'
+  crc: '0x19f6ed75'
+- name: wbattle.bas
+  size: 2654
+  date: '2016-02-21T21:09:54'
+  crc: '0xe6a5c870'

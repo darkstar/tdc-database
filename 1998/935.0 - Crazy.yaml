@@ -1,0 +1,30 @@
+filename: Crazy (1998)(Henrik Högberg) [Action, Strategy].zip
+tdc_id: '935.0'
+title:
+  screen: Crazy
+publisher: Henrik Högberg
+year: '1998'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-02T10:41:04'
+  last_modified: '2019-03-02T10:41:04'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: CRAZY.BAS
+  size: 6613
+  date: '2018-03-10T11:55:54'
+  crc: '0x50410dd5'
+- name: GO.BAT
+  size: 25
+  date: '2018-11-12T23:02:38'
+  crc: '0xe30a402c'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'

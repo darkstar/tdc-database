@@ -1,0 +1,28 @@
+filename: Simple Shooter (1996)(Kevin B. Kohler) [Action].zip
+tdc_id: '15080.0'
+title:
+  screen: Simple Shooter
+publisher: Kevin B. Kohler
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:18:24'
+  last_modified: '2019-03-02T10:18:24'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 27
+  date: '2018-11-15T11:54:28'
+  crc: '0xd85ce31e'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'
+- name: SSHOOT3.BAS
+  size: 3162
+  date: '2018-11-14T20:04:46'
+  crc: '0xdceb678b'

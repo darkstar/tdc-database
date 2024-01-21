@@ -1,0 +1,48 @@
+filename: Fooblitzky v2R.C (Installer) (1986)(Infocom, Inc.) [Strategy].zip
+tdc_id: '13705.0'
+title:
+  box: Fooblitzky
+publisher: Infocom, Inc.
+year: '1986'
+genre: Strategy
+language: English
+date:
+  added: '2022-07-06T09:39:34'
+  last_modified: '2023-01-12T17:41:34'
+version: 2R.C
+type: zip
+installer: true
+commands:
+  play: INSTALLH.BAT
+  setup: FOO.BAT
+references:
+  mobygames: https://www.mobygames.com/game/dos/fooblitzky
+files:
+- name: AUTOEXEC.BAT
+  size: 128
+  date: '1985-10-08T11:02:40'
+  crc: '0x3bc5abcb'
+- name: FOO.COM
+  size: 13908
+  date: '1986-03-13T11:48:56'
+  crc: '0x3226221d'
+- name: FOOBLITZ.DAT
+  size: 88007
+  date: '1985-10-09T13:17:24'
+  crc: '0xb56b9280'
+- name: FOORGB.COM
+  size: 15158
+  date: '1986-03-13T12:23:50'
+  crc: '0x65835eba'
+- name: GAMEDIR.COM
+  size: 62
+  date: '1985-05-31T10:45:50'
+  crc: '0xee6703b0'
+- name: INSTALLH.BAT
+  size: 1408
+  date: '1986-03-04T14:21:24'
+  crc: '0xdbce4191'
+- name: YES.COM
+  size: 82
+  date: '1986-03-04T14:19:34'
+  crc: '0x71de9f8b'

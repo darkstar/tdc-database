@@ -1,0 +1,27 @@
+filename: MacinCrash (1999)(Leif Starbuck) [Action].zip
+tdc_id: '11174.0'
+title:
+  screen: MacinCrash
+publisher: Leif Starbuck
+year: '1999'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:46:14'
+  last_modified: '2019-03-02T10:46:14'
+type: zip
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 24
+  date: '2018-12-05T11:54:48'
+  crc: '0xf8d670a9'
+- name: MACCRASH.BAS
+  size: 19218
+  date: '1999-02-15T17:37:58'
+  crc: '0x448d14f8'
+- name: QB.EXE
+  size: 278804
+  date: '2016-03-13T01:19:58'
+  crc: '0xb08bc0fe'

@@ -1,0 +1,47 @@
+filename: Alien Rampage v1.13 (Installer) [SWR] (1996)(Softdisk Publishing) [Action].zip
+tdc_id: '8257.8'
+title:
+  screen: Alien Rampage
+publisher: Softdisk Publishing
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T09:58:54'
+  last_modified: '2019-03-02T09:58:54'
+version: '1.13'
+type: zip
+tags:
+- SharewareRegistered
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FAQ.TXT
+  size: 6312
+  date: '1996-12-04T18:21:00'
+  crc: '0x35c07cef'
+- name: INSTALL.CFG
+  size: 1211
+  date: '1996-12-04T18:29:20'
+  crc: '0x49b09303'
+- name: INSTALL.EXE
+  size: 140088
+  date: '1995-10-15T04:00:00'
+  crc: '0xc92ca491'
+- name: LOGO.PCX
+  size: 51476
+  date: '1996-09-20T12:47:22'
+  crc: '0x54eb98d0'
+- name: RAMPAGE.SHR
+  size: 11596975
+  date: '1996-12-05T12:05:24'
+  crc: '0xce9e8e87'
+- name: README.TXT
+  size: 748
+  date: '1996-09-19T14:40:28'
+  crc: '0xd43640e3'
+- name: TECHINFO.TXT
+  size: 3711
+  date: '1996-12-04T18:20:48'
+  crc: '0x5e24d02e'

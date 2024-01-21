@@ -1,0 +1,31 @@
+filename: Eye of the Beholder II- The Legend of Darkmoon (demo) (Installer) (1991)(Strategic Simulations, Inc.) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '9001.1'
+parent_id: '9001.3'
+title:
+  screen: 'Eye of the Beholder II: The Legend of Darkmoon'
+  qualifier: demo
+publisher: Strategic Simulations, Inc.
+year: '1991'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:35:50'
+  last_modified: '2019-03-01T18:35:50'
+type: zip
+installer: true
+demo: true
+files:
+- name: EYE2DEMO.LZH
+  size: 1069708
+  date: '1991-10-20T14:23:18'
+  crc: '0xffa49bca'
+- name: LOADANIM.BAT
+  size: 239
+  date: '1991-10-13T18:20:06'
+  crc: '0x9a2c4e16'
+- name: SSILH.COM
+  size: 21128
+  date: '1991-08-02T03:03:32'
+  crc: '0x3cca0a7a'

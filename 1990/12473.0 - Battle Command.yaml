@@ -1,0 +1,71 @@
+filename: Battle Command (En)(De)(Fr) (1990)(Ocean Software Ltd.) [Action, Simulation].zip
+tdc_id: '12473.0'
+title:
+  box: Battle Command
+publisher: Ocean Software Ltd.
+year: '1990'
+genre:
+- Action
+- Simulation
+language:
+- English
+- French
+- German
+date:
+  added: '2019-03-01T18:31:52'
+  last_modified: '2019-03-01T18:31:52'
+type: zip
+commands:
+  play: BATTLE.EXE
+references:
+  dosid: DOS00972
+  exodos: Battle Command (1990).zip
+files:
+- name: BATTLE.EXE
+  size: 103247
+  date: '1991-07-16T15:20:20'
+  crc: '0x8f12891e'
+- name: CGA.PAC
+  size: 6656
+  date: '1991-07-16T15:04:34'
+  crc: '0x70b852cd'
+- name: EGA.PAC
+  size: 7165
+  date: '1991-07-16T15:20:36'
+  crc: '0xb9fd640b'
+- name: HGC.PAC
+  size: 6739
+  date: '1991-07-16T15:20:36'
+  crc: '0xf400e0f7'
+- name: MCGA.PAC
+  size: 3096
+  date: '1991-07-16T15:20:34'
+  crc: '0x0eb930be'
+- name: MISSION.DAT
+  size: 228007
+  date: '1991-07-16T15:20:56'
+  crc: '0x17c676c9'
+- name: OBJFILE.DAT
+  size: 81945
+  date: '1991-07-16T15:21:04'
+  crc: '0xc987c3ff'
+- name: ONE.PAC
+  size: 4352
+  date: '1991-04-17T18:16:28'
+  crc: '0xa8e33c6d'
+- name: PANEL.DAT
+  size: 169082
+  date: '1991-07-16T15:20:34'
+  crc: '0x58afa3ed'
+- name: TND.PAC
+  size: 6017
+  date: '1991-07-16T15:20:34'
+  crc: '0xe0d6913d'
+- name: TWO.PAC
+  size: 64000
+  date: '1991-04-17T18:16:30'
+  crc: '0x204d018b'
+- name: VGA16.PAC
+  size: 7257
+  date: '1991-07-16T15:20:38'
+  crc: '0x7983f2f7'

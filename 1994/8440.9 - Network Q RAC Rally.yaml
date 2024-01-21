@@ -1,0 +1,95 @@
+filename: Network Q RAC Rally v1.3a (Es) (1994)(Europress Software Ltd.) [Racing - Driving, Sports].zip
+tdc_id: '8440.9'
+title:
+  box: Network Q RAC Rally
+publisher: Europress Software Ltd.
+year: '1994'
+genre:
+- Racing - Driving
+- Sports
+language: Spanish
+date:
+  added: '2022-10-18T08:15:52'
+  last_modified: '2022-10-18T08:15:52'
+version: 1.3a
+type: zip
+commands:
+  play: RALLY.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/network-q-rac-rally
+files:
+- name: INTRO.EXE
+  size: 3590
+  date: '1994-11-07T11:22:46'
+  crc: '0x63a12b4a'
+- name: MENU.EXE
+  size: 53912
+  date: '1994-11-07T11:22:44'
+  crc: '0x0f35e3c3'
+- name: MENU.EX_
+  size: 30042
+  date: '1994-11-07T11:22:44'
+  crc: '0x3deea2d2'
+- name: RAL.EXE
+  size: 43735
+  date: '1994-11-07T11:22:46'
+  crc: '0x80c8eedb'
+- name: RALLY.CFG
+  size: 34
+  date: '1994-11-07T11:27:40'
+  crc: '0xb86f9158'
+- name: RALLY.EXE
+  size: 1288
+  date: '1994-11-07T11:22:42'
+  crc: '0xf1615b0d'
+- name: RALLY.RNC
+  size: 4352821
+  date: '1994-11-07T11:27:00'
+  crc: '0x4de8f2b7'
+- name: RAL_INTR.MOD
+  size: 229020
+  date: '1994-11-07T11:22:56'
+  crc: '0xcae95949'
+- name: RAL_MENU.MOD
+  size: 67668
+  date: '1994-11-07T11:23:00'
+  crc: '0x0fe40b36'
+- name: RAL_TROP.MOD
+  size: 137222
+  date: '1994-11-07T11:23:06'
+  crc: '0x49970d4d'
+- name: README.EXE
+  size: 3040
+  date: '1994-11-07T11:23:08'
+  crc: '0x7b608994'
+- name: README.TXT
+  size: 6994
+  date: '1994-11-07T11:23:08'
+  crc: '0x7fc1c73a'
+- name: SAVE\
+  size: 0
+  date: '1994-11-07T11:23:10'
+- name: SAVE\SAVE1.RAL
+  size: 12674
+  date: '1994-11-07T11:23:08'
+  crc: '0xdc06421a'
+- name: SAVE\SAVE2.RAL
+  size: 12674
+  date: '1994-11-07T11:23:08'
+  crc: '0x8686719b'
+- name: SAVE\SAVE3.RAL
+  size: 12674
+  date: '1994-11-07T11:23:08'
+  crc: '0xaf581790'
+- name: SAVE\SAVE4.RAL
+  size: 12674
+  date: '1994-11-07T11:23:10'
+  crc: '0x1d543523'
+- name: SAVE\SAVE5.RAL
+  size: 12674
+  date: '1994-11-07T11:23:10'
+  crc: '0x8bce9952'
+- name: SOUND.EXE
+  size: 8446
+  date: '1994-11-07T11:22:46'
+  crc: '0xdd300139'

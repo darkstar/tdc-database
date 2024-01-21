@@ -1,0 +1,44 @@
+filename: Zeppelin- Giants of the Sky (Installer) (De) (1994)(Ikarion Software GmbH) [Educational, Strategy].zip
+tdc_id: '15725.2'
+title:
+  box: 'Zeppelin: Giants of the Sky'
+publisher: Ikarion Software GmbH
+year: '1994'
+genre:
+- Educational
+- Strategy
+language: German
+date:
+  added: '2019-03-02T07:20:12'
+  last_modified: '2022-11-30T10:29:21'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/zeppelin-giants-of-the-sky
+files:
+- name: INSTALL.EXE
+  size: 112112
+  date: '1994-01-17T10:48:22'
+  crc: '0x0ad07678'
+- name: TITLE.BLD
+  size: 134874
+  date: '1993-11-26T21:45:46'
+  crc: '0x3d1c0353'
+- name: ZEPPO.PAL
+  size: 768
+  date: '1993-12-06T12:54:40'
+  crc: '0x1fdfdb4f'
+- name: ZEPPO1.IK1
+  size: 1201724
+  date: '1994-01-18T14:18:52'
+  crc: '0xb05de195'
+- name: ZEPPO1.IK2
+  size: 1453134
+  date: '1994-01-18T14:23:42'
+  crc: '0x0c577ae3'
+- name: ZEPPO1.IK3
+  size: 478669
+  date: '1994-01-18T14:26:22'
+  crc: '0xd8d119a2'

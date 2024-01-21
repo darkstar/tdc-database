@@ -1,0 +1,42 @@
+filename: Adventure v1.2 (1993)(Michael Goetz) [Adventure, Interactive Fiction].zip
+tdc_id: '2520.0'
+title:
+  screen: Adventure
+publisher: Michael Goetz
+year: '1993'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:57:14'
+  last_modified: '2019-03-01T18:57:14'
+version: '1.2'
+type: zip
+commands:
+  play: ADV.EXE
+files:
+- name: ADV.EXE
+  size: 48899
+  date: '1992-10-31T07:27:34'
+  crc: '0x7a5efcee'
+- name: ADVI.DAT
+  size: 34304
+  date: '1993-07-13T15:29:50'
+  crc: '0x373c2b2e'
+- name: ADVI.PTR
+  size: 4096
+  date: '1993-07-13T15:29:54'
+  crc: '0xb804a64b'
+- name: ADVT.DAT
+  size: 56320
+  date: '1993-07-13T15:29:54'
+  crc: '0x8193bced'
+- name: ADVT.PTR
+  size: 17024
+  date: '1993-07-13T15:29:56'
+  crc: '0xc1c87572'
+- name: COMPRESS.DAT
+  size: 944
+  date: '1993-07-13T15:29:54'
+  crc: '0xa278e747'

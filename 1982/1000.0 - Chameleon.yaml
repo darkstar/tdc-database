@@ -1,0 +1,32 @@
+filename: Chameleon (1982)(Codex) [Strategy].zip
+tdc_id: '1000.0'
+title:
+  screen: Chameleon
+publisher: Codex
+year: '1982'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:22:58'
+  last_modified: '2019-03-01T18:22:58'
+type: zip
+commands:
+  play: CHAM.BAT
+notes: +=PCMag Oct.'82, 286 + PCMag Oct.'82, 282 /// 80-col, $19.95
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: BEST
+  size: 54
+  date: '1984-05-28T01:33:32'
+  crc: '0x872b6b88'
+- name: CHAM.BAS
+  size: 12657
+  date: '1984-05-28T05:21:58'
+  crc: '0x38a45c1d'
+- name: CHAM.BAT
+  size: 14
+  date: '1980-01-01T00:00:00'
+  crc: '0x45b6a3dd'

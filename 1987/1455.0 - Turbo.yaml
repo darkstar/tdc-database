@@ -1,0 +1,26 @@
+filename: Turbo (1987)(Doug Ross) [Action].zip
+tdc_id: '1455.0'
+title:
+  screen: Turbo
+publisher: Doug Ross
+year: '1987'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:25:48'
+  last_modified: '2019-03-01T18:25:48'
+type: zip
+commands:
+  play: TURBO.EXE
+references:
+  dosid: DOS05311
+  exodos: Turbo (1987).zip
+files:
+- name: TURBO.DOC
+  size: 1783
+  date: '1987-10-01T10:35:48'
+  crc: '0xac10b729'
+- name: TURBO.EXE
+  size: 45782
+  date: '1987-10-29T10:50:54'
+  crc: '0xd0d94238'

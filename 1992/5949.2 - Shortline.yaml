@@ -1,0 +1,53 @@
+filename: Shortline v2.0 (1992)(DOKA Company) [Simulation, Action].zip
+tdc_id: '5949.2'
+title:
+  screen: Shortline
+publisher: DOKA Company
+year: '1992'
+genre:
+- Simulation
+- Action
+language: English
+date:
+  added: '2019-03-01T18:50:58'
+  last_modified: '2019-03-01T18:50:58'
+version: '2.0'
+type: zip
+commands:
+  play: SL.EXE
+references:
+  dosid: DOS15731
+  exodos: Shortline (1992).zip
+files:
+- name: 3.SL_
+  size: 10273
+  date: '1999-02-25T15:47:34'
+  crc: '0xfca5ec05'
+- name: 4.SL_
+  size: 10273
+  date: '1999-02-19T18:35:38'
+  crc: '0xf734b9b7'
+- name: 6.SL_
+  size: 10273
+  date: '1999-02-25T15:37:18'
+  crc: '0xef207366'
+- name: DEMO.SL_
+  size: 10273
+  date: '1993-07-28T10:01:54'
+  crc: '0x344a137d'
+- name: RESULTS.TBL
+  size: 29988
+  date: '1993-07-27T17:12:52'
+  crc: '0xacad92a3'
+- name: RULES.TXT
+  size: 9927
+  date: '1993-10-05T17:42:52'
+  crc: '0x74966706'
+- name: SL.EXE
+  size: 236480
+  date: '1992-11-04T12:10:02'
+  crc: '0x339e44ba'
+- name: SL_RU.DOC
+  size: 10898
+  date: '1994-02-23T13:43:16'
+  crc: '0xa9a69493'

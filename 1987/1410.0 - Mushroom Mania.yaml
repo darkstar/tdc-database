@@ -1,0 +1,26 @@
+filename: Mushroom Mania (1987)(Britannia Software) [Action].zip
+tdc_id: '1410.0'
+title:
+  box: Mushroom Mania
+publisher: Britannia Software
+year: '1987'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:25:28'
+  last_modified: '2019-03-01T18:25:28'
+type: zip
+commands:
+  play: MANIA.EXE
+references:
+  dosid: DOS03670
+  exodos: Mushroom Mania (1987).zip
+files:
+- name: MANIA.EXE
+  size: 58666
+  date: '1987-09-21T20:15:00'
+  crc: '0x3f566e7e'
+- name: MANIA.PIC
+  size: 16384
+  date: '1987-09-21T20:15:00'
+  crc: '0x1ac10b5c'

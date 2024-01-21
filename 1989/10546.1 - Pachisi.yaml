@@ -1,0 +1,46 @@
+filename: Pachisi v1.5 [SW] (1989)(George Leotti) [Strategy].zip
+tdc_id: '10546.1'
+title:
+  screen: Pachisi
+publisher: George Leotti
+year: '1989'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:28:36'
+  last_modified: '2019-03-01T18:28:36'
+version: '1.5'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: PACHISI.EXE
+references:
+  dosid: DOS06189
+  exodos: Pachisi (1989).zip
+files:
+- name: DESC.SDI
+  size: 46
+  date: '1989-09-12T09:08:34'
+  crc: '0x091de28f'
+- name: LARGE.FNT
+  size: 15344
+  date: '1988-04-15T19:45:08'
+  crc: '0xe05bf1dc'
+- name: PACHISI.DOC
+  size: 10416
+  date: '1989-09-11T09:25:16'
+  crc: '0xb58b313f'
+- name: PACHISI.EXE
+  size: 66070
+  date: '1989-09-12T09:08:34'
+  crc: '0xbf2cba6b'
+- name: PACHISI.NEW
+  size: 1831
+  date: '1989-09-11T09:32:50'
+  crc: '0x13d1267e'
+- name: SMALL.FNT
+  size: 4224
+  date: '1988-04-15T19:45:06'
+  crc: '0x60c5eebd'

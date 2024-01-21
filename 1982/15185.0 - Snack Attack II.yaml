@@ -1,0 +1,40 @@
+filename: Snack Attack II [DC] (1982)(Funtastic, Inc.) [Action].zip
+tdc_id: '15185.0'
+title:
+  box: Snack Attack II
+publisher: Funtastic, Inc.
+year: '1982'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:23:04'
+  last_modified: '2019-03-01T18:23:04'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: SA.EXE
+references:
+  dosid: DOS05974
+  exodos: Snack Attack II (1982).zip
+files:
+- name: Crash Warning.txt
+  size: 91
+  date: '2007-02-26T15:58:34'
+  crc: '0xb984fb96'
+- name: README.TXT
+  size: 235
+  date: '1996-10-01T00:02:00'
+  crc: '0xbe5696aa'
+- name: SA.DAT
+  size: 46336
+  date: '1990-10-25T19:33:00'
+  crc: '0x0b82aa26'
+- name: SA.EXE
+  size: 50704
+  date: '1990-10-26T19:33:00'
+  crc: '0xd91922b6'
+- name: SA.FIO
+  size: 1280
+  date: '1990-10-26T00:01:00'
+  crc: '0x49c43156'

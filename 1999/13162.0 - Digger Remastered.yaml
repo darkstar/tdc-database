@@ -1,0 +1,38 @@
+filename: Digger Remastered (1999)(Andrew Jenner) [Action].zip
+tdc_id: '13162.0'
+title:
+  screen: Digger Remastered
+publisher: Andrew Jenner
+year: '1999'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:45:42'
+  last_modified: '2019-03-02T10:45:42'
+type: zip
+commands:
+  play: DIGGER.EXE
+references:
+  dosid: DOS07425
+  exodos: Digger (1999).zip
+files:
+- name: DIGGER.EXE
+  size: 58835
+  date: '1999-05-06T16:33:50'
+  crc: '0xd24e51a3'
+- name: DIGGER.ICO
+  size: 766
+  date: '1998-07-01T20:26:18'
+  crc: '0xa138982d'
+- name: DIGGER.SCO
+  size: 512
+  date: '2001-12-22T16:28:40'
+  crc: '0xf14126cf'
+- name: DIGGER.TXT
+  size: 46030
+  date: '1999-06-17T02:29:24'
+  crc: '0xec2d470e'
+- name: ___0.DRF
+  size: 1435
+  date: '1999-12-27T21:40:58'
+  crc: '0xd8fd6652'

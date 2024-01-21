@@ -1,0 +1,31 @@
+filename: Capture the Enemy Space Ship (1982)(Anonymous) [Strategy].zip
+tdc_id: '5166.0'
+title:
+  screen: Capture the Enemy Space Ship
+publisher: Anonymous
+year: '1982'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:22:56'
+  last_modified: '2019-03-01T18:22:56'
+type: zip
+media: Download
+commands:
+  play: CAPTURE.BAT
+references:
+  dosid: DOS01259
+  exodos: Capture the Enemy Space Ship (1983).zip
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: CAPTURE.BAS
+  size: 3456
+  date: '1996-12-24T17:32:00'
+  crc: '0x52c7fe49'
+- name: CAPTURE.BAT
+  size: 16
+  date: '2014-12-01T01:30:16'
+  crc: '0x4c4eecae'

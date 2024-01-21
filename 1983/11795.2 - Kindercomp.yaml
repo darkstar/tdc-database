@@ -1,0 +1,23 @@
+filename: Kindercomp (1983)(Spinnaker Software Corporation) [JRC].zip
+tdc_id: '11795.2'
+title:
+  box: Kindercomp
+publisher: Spinnaker Software Corporation
+year: '1983'
+genre: JRC
+language: English
+date:
+  added: '2023-02-17T08:44:52'
+  last_modified: '2023-02-17T08:44:52'
+type: JRC
+requirements:
+  cpu:
+    min: '8088'
+media: Cartridge
+references:
+  mobygames: https://www.mobygames.com/game/pc-booter/kindercomp
+files:
+- name: KINDER.JRC
+  size: 8704
+  date: '2023-01-24T13:52:44'
+  crc: '0xc396b1ca'

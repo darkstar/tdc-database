@@ -1,0 +1,30 @@
+filename: Pac-Man (1982)(Bob Bison) [Action].zip
+tdc_id: '1023.0'
+title:
+  screen: Pac-Man
+publisher: Bob Bison
+year: '1982'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:23:02'
+  last_modified: '2019-03-01T18:23:02'
+type: zip
+commands:
+  play: PACMAN.BAT
+references:
+  dosid: DOS07417
+  exodos: Pac-Man (1982).zip
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: PACMAN.BAS
+  size: 9984
+  date: '1982-08-14T12:00:00'
+  crc: '0xd24fed5f'
+- name: PACMAN.BAT
+  size: 16
+  date: '1980-01-01T00:00:00'
+  crc: '0x6a5f97b4'

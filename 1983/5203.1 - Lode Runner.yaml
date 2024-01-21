@@ -1,0 +1,29 @@
+filename: Lode Runner [a1] (1983)(Brøderbund Software, Inc.) [Action].zip
+tdc_id: '5203.1'
+title:
+  box: Lode Runner
+publisher: Brøderbund Software, Inc.
+year: '1983'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:23:14'
+  last_modified: '2019-03-01T18:23:14'
+type: zip
+tags:
+- Alternate: 1
+commands:
+  play: LR.COM
+files:
+- name: LR.COM
+  size: 60672
+  date: '1987-02-23T14:47:12'
+  crc: '0xdd0597af'
+- name: LR.DAT
+  size: 77824
+  date: '1980-01-01T01:12:18'
+  crc: '0xeaaf02fa'
+- name: LR.RES
+  size: 512
+  date: '1994-01-11T12:56:18'
+  crc: '0x7598c803'

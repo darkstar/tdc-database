@@ -1,0 +1,39 @@
+filename: Boomerang v2.00 (1991)(JH enterprises) [Action].zip
+tdc_id: '560.0'
+title:
+  screen: Boomerang
+publisher: JH enterprises
+year: '1991'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:35:04'
+  last_modified: '2019-03-01T18:35:04'
+version: '2.00'
+type: zip
+commands:
+  play: BOOMRANG.EXE
+references:
+  dosid: DOS06751
+  exodos: Boomerang (1991).zip
+files:
+- name: BOOMRANG.CNF
+  size: 29
+  date: '2011-06-06T15:44:06'
+  crc: '0x58188c3c'
+- name: BOOMRANG.DOC
+  size: 8626
+  date: '1991-06-24T18:05:58'
+  crc: '0xa3a15a1f'
+- name: BOOMRANG.EXE
+  size: 55296
+  date: '1991-06-27T09:30:56'
+  crc: '0xb63bcc27'
+- name: BOOMRANG.SCO
+  size: 175
+  date: '2011-06-06T15:44:06'
+  crc: '0xdf537501'
+- name: ORDER.FRM
+  size: 1538
+  date: '1991-06-24T18:08:08'
+  crc: '0x38243c31'

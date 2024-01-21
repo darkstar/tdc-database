@@ -1,0 +1,30 @@
+filename: VSCCP- Very Simple Chinese Chess Program v1.5 (1999)(Pham Hong Nguyen) [Strategy, Board].zip
+tdc_id: '4481.0'
+title:
+  screen: 'VSCCP: Very Simple Chinese Chess Program'
+publisher: Pham Hong Nguyen
+year: '1999'
+genre:
+- Strategy
+- Board
+language: English
+date:
+  added: '2022-05-19T09:21:34'
+  last_modified: '2022-05-19T09:21:34'
+version: '1.5'
+type: zip
+commands:
+  play: VSCCP15E.EXE
+files:
+- name: PLAY.INI
+  size: 59
+  date: '1999-05-02T18:18:40'
+  crc: '0xee9c69f0'
+- name: VSCCP15E.EXE
+  size: 30136
+  date: '1999-05-03T22:03:28'
+  crc: '0xd4745070'
+- name: VSCCPE.HLP
+  size: 12738
+  date: '1999-05-03T22:04:14'
+  crc: '0x56976831'

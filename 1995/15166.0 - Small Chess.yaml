@@ -1,0 +1,29 @@
+filename: Small Chess (1995)(Vern Paxson) [Strategy, Chess].zip
+tdc_id: '15166.0'
+title:
+  screen: Small Chess
+publisher: Vern Paxson
+year: '1995'
+genre:
+- Strategy
+- Chess
+language: English
+date:
+  added: '2019-07-24T11:42:26'
+  last_modified: '2019-07-24T11:42:26'
+type: zip
+commands:
+  play: CHESS.EXE
+files:
+- name: CHESS.C
+  size: 3554
+  date: '1996-03-06T17:46:36'
+  crc: '0x1e71c9f9'
+- name: CHESS.EXE
+  size: 28200
+  date: '1996-04-09T14:49:44'
+  crc: '0x67042d8d'
+- name: README!
+  size: 2073
+  date: '2008-09-26T21:52:30'
+  crc: '0x38ad5ee8'

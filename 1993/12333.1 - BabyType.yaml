@@ -1,0 +1,96 @@
+filename: BabyType (En)(Ru)(Fr)(De) (1993)(DOKA Company) [Action, Educational].zip
+tdc_id: '12333.1'
+title:
+  screen: BabyType
+publisher: DOKA Company
+year: '1993'
+genre:
+- Action
+- Educational
+language:
+- English
+- French
+- Russian
+- German
+date:
+  added: '2019-03-01T19:01:18'
+  last_modified: '2019-03-01T19:01:18'
+type: zip
+commands:
+  play: BABYTYPE.EXE
+references:
+  dosid: DOS07765
+  exodos: BabyType (1994).zip
+files:
+- name: BABYTYPE.CNF
+  size: 13
+  date: '1995-09-11T21:34:30'
+  crc: '0x2c13e3b1'
+- name: BABYTYPE.EXE
+  size: 98320
+  date: '1994-03-02T10:58:22'
+  crc: '0x240687d4'
+- name: BABYTYPE.IND
+  size: 520
+  date: '1993-03-11T09:34:20'
+  crc: '0x9abac848'
+- name: BABYTYPE.INF
+  size: 1363
+  date: '1993-09-13T16:28:22'
+  crc: '0xf06e0e8d'
+- name: BABYTYPE.LIB
+  size: 19930
+  date: '1993-03-11T09:34:18'
+  crc: '0xa87ee937'
+- name: BABYTYPE.REZ
+  size: 217
+  date: '1995-05-03T17:34:22'
+  crc: '0xefbab6bb'
+- name: BABY_ANI.SLD
+  size: 56728
+  date: '1993-03-12T09:55:54'
+  crc: '0xd79bd124'
+- name: BABY_FRG.SLD
+  size: 52066
+  date: '1993-03-04T07:51:06'
+  crc: '0x4b6b8e53'
+- name: BABY_HIT.PDD
+  size: 13981
+  date: '1994-02-15T08:59:34'
+  crc: '0x74b68c32'
+- name: BABY_HND.PDD
+  size: 18308
+  date: '1994-02-15T09:45:08'
+  crc: '0x9e562af5'
+- name: BABY_MAI.PDD
+  size: 54726
+  date: '1994-02-15T09:46:02'
+  crc: '0xb42e371a'
+- name: BABY_TIT.PDD
+  size: 50993
+  date: '1993-03-10T08:04:54'
+  crc: '0x929c9a48'
+- name: BT_AMER.KBR
+  size: 2512
+  date: '1993-06-16T09:52:28'
+  crc: '0x54d0f678'
+- name: BT_ENGL.KBR
+  size: 2549
+  date: '1993-06-16T09:52:52'
+  crc: '0xc01091e6'
+- name: BT_FRNC.KBR
+  size: 3463
+  date: '1993-06-16T09:53:14'
+  crc: '0x134dcdde'
+- name: BT_GRMN.KBR
+  size: 2678
+  date: '1993-09-13T15:51:42'
+  crc: '0xe3efefb3'
+- name: BT_RUSS.KBR
+  size: 2542
+  date: '1993-06-16T09:53:52'
+  crc: '0x5e03afd2'
+- name: BT_SWSS.KBR
+  size: 3404
+  date: '1993-06-23T14:58:34'
+  crc: '0x992e3b37'

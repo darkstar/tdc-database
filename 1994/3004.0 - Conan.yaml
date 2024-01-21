@@ -1,0 +1,75 @@
+filename: Conan (1994)(Erik Isaksson) [Action].zip
+tdc_id: '3004.0'
+title:
+  screen: Conan
+publisher: Erik Isaksson
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T21:55:24'
+  last_modified: '2019-03-01T21:55:24'
+type: zip
+media: Download
+commands:
+  play: CONAN.EXE
+references:
+  dosid: DOS15308
+  exodos: Conan (1994).zip
+files:
+- name: BCKGMSK0.PIC
+  size: 1798
+  date: '1991-03-26T14:37:28'
+  crc: '0x7b85950a'
+- name: BCKGMSK1.PIC
+  size: 2816
+  date: '1990-08-18T21:28:34'
+  crc: '0xd64a0f3f'
+- name: BCKGMSK2.PIC
+  size: 2946
+  date: '1990-08-12T21:10:32'
+  crc: '0xdc8bed4f'
+- name: BCKGMSK3.PIC
+  size: 1855
+  date: '1990-08-01T21:51:46'
+  crc: '0xd404d4ef'
+- name: BCKGMSK4.PIC
+  size: 1947
+  date: '1991-05-26T12:21:14'
+  crc: '0xe9481dec'
+- name: CHARS.DAT
+  size: 512
+  date: '1990-06-05T19:41:14'
+  crc: '0xdf918e27'
+- name: CONAN.EXE
+  size: 38568
+  date: '1994-06-29T18:38:48'
+  crc: '0x1499d37f'
+- name: CONAN.SPR
+  size: 9671
+  date: '1991-05-25T14:16:06'
+  crc: '0x64633d1c'
+- name: READ.ME
+  size: 1539
+  date: '1990-06-16T19:11:52'
+  crc: '0xa6ef7f64'
+- name: SCENERY0.PIC
+  size: 10078
+  date: '1990-08-18T02:22:50'
+  crc: '0x6999ff14'
+- name: SCENERY1.PIC
+  size: 12798
+  date: '1990-08-18T21:28:24'
+  crc: '0x43aa6ae1'
+- name: SCENERY2.PIC
+  size: 16533
+  date: '1990-08-18T02:23:20'
+  crc: '0xa53aa3f3'
+- name: SCENERY3.PIC
+  size: 9440
+  date: '1990-08-19T23:03:34'
+  crc: '0xe9b0c168'
+- name: SCENERY4.PIC
+  size: 13914
+  date: '1991-04-14T13:28:06'
+  crc: '0xba320dd6'

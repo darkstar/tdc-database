@@ -1,0 +1,30 @@
+filename: Reverse (1983)(Anonymous) [Strategy, Puzzle].zip
+tdc_id: '14877.0'
+title:
+  screen: Reverse
+publisher: Anonymous
+year: '1983'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-03-01T18:23:18'
+  last_modified: '2019-03-01T18:23:18'
+type: zip
+media: Download
+commands:
+  play: REVERSE.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: REVERSE.BAS
+  size: 2560
+  date: '1983-03-05T12:00:00'
+  crc: '0xf636db3c'
+- name: REVERSE.BAT
+  size: 17
+  date: '1980-01-01T00:00:00'
+  crc: '0xce02b9cb'

@@ -1,0 +1,41 @@
+filename: Mysterium, Das (Installer) (De) [SW] (1991)(Manuel Dannert) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '7997.0'
+title:
+  screen: Das Mysterium
+publisher: Manuel Dannert
+year: '1991'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: German
+date:
+  added: '2019-03-01T18:37:04'
+  last_modified: '2022-11-21T20:11:10'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.BAT
+files:
+- name: INSTALL.BAT
+  size: 3858
+  date: '1991-01-25T08:18:20'
+  crc: '0x87263133'
+- name: LIESMICH.TXT
+  size: 6746
+  date: '1991-01-25T10:42:14'
+  crc: '0x719dbcf3'
+- name: MYST.EXE
+  size: 244351
+  date: '1991-01-25T11:13:18'
+  crc: '0xea729477'
+- name: REGELN.TXT
+  size: 15576
+  date: '1991-01-24T18:36:50'
+  crc: '0x0104cb18'
+- name: RUNME.EXE
+  size: 7216
+  date: '1991-10-22T17:30:14'
+  crc: '0x463706ba'

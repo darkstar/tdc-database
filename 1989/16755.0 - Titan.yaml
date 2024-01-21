@@ -1,0 +1,76 @@
+filename: Titan (1989)(Titus Interactive S.A.) [Action, Strategy].zip
+tdc_id: '16755.0'
+title:
+  box: Titan
+publisher: Titus Interactive S.A.
+year: '1989'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-06-02T13:00:24'
+  last_modified: '2019-06-02T13:00:24'
+type: zip
+commands:
+  play: TITAN.COM
+references:
+  dosid: DOS05154
+  exodos: Titan (1989).zip
+files:
+- name: BALLS.MCR
+  size: 17834
+  date: '1996-10-12T15:58:58'
+  crc: '0x1e6723cb'
+- name: BRKCGA.MCR
+  size: 7533
+  date: '1996-10-12T15:58:58'
+  crc: '0xfdc52502'
+- name: BRKEGA.MCR
+  size: 11132
+  date: '1996-10-12T15:59:00'
+  crc: '0x55f39d24'
+- name: BRKVGA.MCR
+  size: 13985
+  date: '1996-10-12T15:59:00'
+  crc: '0xc63f946e'
+- name: FONTS.MCR
+  size: 2220
+  date: '1996-10-12T15:59:02'
+  crc: '0xd6317604'
+- name: HIGH.BIN
+  size: 91
+  date: '1996-10-12T15:59:02'
+  crc: '0x39360b8a'
+- name: LABY.MCR
+  size: 41147
+  date: '1996-10-12T15:59:02'
+  crc: '0xb141889a'
+- name: MUSIC.DSC
+  size: 151067
+  date: '1996-10-12T15:59:10'
+  crc: '0xde12abdb'
+- name: PALETTE.MCR
+  size: 3117
+  date: '1996-10-12T15:59:10'
+  crc: '0x470be822'
+- name: SC-CGA.MCR
+  size: 12819
+  date: '1996-10-12T15:59:12'
+  crc: '0xfcabe1a7'
+- name: SC-EGA.MCR
+  size: 18885
+  date: '1996-10-12T15:59:14'
+  crc: '0x9b48f599'
+- name: SC-VGA.MCR
+  size: 49481
+  date: '1996-10-12T15:59:16'
+  crc: '0x0df40d4d'
+- name: TITAN.COM
+  size: 18543
+  date: '1996-10-12T15:59:18'
+  crc: '0x6668fb18'
+- name: TITRE.MCR
+  size: 923
+  date: '1996-10-12T15:59:18'
+  crc: '0x9e095330'

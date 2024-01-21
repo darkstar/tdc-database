@@ -1,0 +1,41 @@
+filename: Video Poker Tutor v1.5 [SW] (1993)(Panamint Software) [Strategy, Cards].zip
+tdc_id: '7412.2'
+title:
+  screen: Video Poker Tutor
+publisher: Panamint Software
+year: '1993'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T21:11:20'
+  last_modified: '2019-03-01T21:11:20'
+version: '1.5'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: VPTUTOR.EXE
+files:
+- name: PACKING.LST
+  size: 496
+  date: '1992-02-03T10:09:10'
+  crc: '0x16a55389'
+- name: READ.ME
+  size: 2363
+  date: '1993-07-01T23:07:48'
+  crc: '0x5c01a8ba'
+- name: VENDOR.DOC
+  size: 2675
+  date: '1993-07-01T23:10:22'
+  crc: '0x56f6ccdc'
+- name: VPTUTOR.DOC
+  size: 74340
+  date: '1993-07-01T22:51:44'
+  crc: '0x7ff398a2'
+- name: VPTUTOR.EXE
+  size: 157036
+  date: '1993-09-15T23:05:08'
+  crc: '0x82985f0a'

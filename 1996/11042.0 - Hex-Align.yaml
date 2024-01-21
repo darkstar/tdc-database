@@ -1,0 +1,28 @@
+filename: Hex-Align (1996)(Jonathan Leger) [Strategy].zip
+tdc_id: '11042.0'
+title:
+  screen: Hex-Align
+publisher: Jonathan Leger
+year: '1996'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:10:12'
+  last_modified: '2019-03-02T10:10:12'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 26
+  date: '2018-04-12T16:57:42'
+  crc: '0x07d693c3'
+- name: PUZZEL.BAS
+  size: 30612
+  date: '2018-03-10T01:56:28'
+  crc: '0xcacd2a66'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T01:28:02'
+  crc: '0x19f6ed75'

@@ -1,0 +1,38 @@
+filename: Monster Maze (2000)(John Wantland) [Action, Strategy].zip
+tdc_id: '5637.0'
+title:
+  screen: Monster Maze
+publisher: John Wantland
+year: '2000'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-02T10:54:56'
+  last_modified: '2019-03-02T10:54:56'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 24
+  date: '2018-11-28T23:09:36'
+  crc: '0xc18da07d'
+- name: MAZE.BAS
+  size: 25514
+  date: '2000-08-09T12:41:22'
+  crc: '0x3a1b349d'
+- name: MAZE.DAT
+  size: 13112
+  date: '2000-08-01T18:01:32'
+  crc: '0xc8dc2e6e'
+- name: MAZED.BAS
+  size: 5339
+  date: '2000-07-22T18:58:28'
+  crc: '0x9b51e753'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

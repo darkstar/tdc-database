@@ -1,0 +1,84 @@
+filename: AGI Tetris (2004)(Chad Goulding) [Action, Puzzle].zip
+tdc_id: '4911.0'
+title:
+  screen: AGI Tetris
+publisher: Chad Goulding
+year: '2004'
+genre:
+- Action
+- Puzzle
+language: English
+date:
+  added: '2019-11-27T13:38:18'
+  last_modified: '2019-11-27T13:38:18'
+type: zip
+commands:
+  play: AGI.COM
+references:
+  dosid: DOS00452
+  exodos: AGI Tetris (2004).zip
+files:
+- name: AGI
+  size: 39424
+  date: '1986-12-04T01:33:04'
+  crc: '0x40ae7b2d'
+- name: AGI.COM
+  size: 3115
+  date: '1986-11-16T05:32:06'
+  crc: '0x9d4eb9a4'
+- name: AGIDATA.OVL
+  size: 8192
+  date: '1986-12-01T00:49:20'
+  crc: '0x477bd79b'
+- name: CGA_GRAF.OVL
+  size: 1024
+  date: '1986-12-01T00:48:44'
+  crc: '0x838c18ac'
+- name: EGA_GRAF.OVL
+  size: 1024
+  date: '1986-12-01T00:48:46'
+  crc: '0x67e8b0ad'
+- name: HGC_GRAF.OVL
+  size: 1536
+  date: '1986-12-01T00:48:48'
+  crc: '0x7c999ac8'
+- name: HGC_OBJS.OVL
+  size: 1024
+  date: '1986-12-01T00:48:52'
+  crc: '0x4232dbd7'
+- name: IBM_OBJS.OVL
+  size: 512
+  date: '1986-12-01T00:48:50'
+  crc: '0xa0a04da4'
+- name: JR_GRAF.OVL
+  size: 512
+  date: '1986-12-01T00:48:46'
+  crc: '0xdc361ea6'
+- name: LOGDIR
+  size: 300
+  date: '2004-08-25T13:33:22'
+  crc: '0x046677a2'
+- name: OBJECT
+  size: 23
+  date: '1997-12-11T14:44:36'
+  crc: '0xfedc35f4'
+- name: PICDIR
+  size: 180
+  date: '2004-08-25T13:33:22'
+  crc: '0x15345f90'
+- name: SNDDIR
+  size: 9
+  date: '2004-08-25T13:33:22'
+  crc: '0x61634069'
+- name: VIEWDIR
+  size: 6
+  date: '2004-08-25T13:33:22'
+  crc: '0x6c128019'
+- name: VOL.0
+  size: 41816
+  date: '2004-08-25T13:33:22'
+  crc: '0x2f4b4573'
+- name: WORDS.TOK
+  size: 527
+  date: '1998-01-17T18:05:30'
+  crc: '0x94b42919'

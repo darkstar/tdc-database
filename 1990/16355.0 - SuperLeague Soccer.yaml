@@ -1,0 +1,92 @@
+filename: SuperLeague Soccer (1990)(Impressions) [Sports, Simulation].zip
+tdc_id: '16355.0'
+title:
+  box: SuperLeague Soccer
+publisher: Impressions
+year: '1990'
+genre:
+- Sports
+- Simulation
+language: English
+date:
+  added: '2020-05-01T06:30:12'
+  last_modified: '2020-05-01T06:30:12'
+type: zip
+references:
+  dosid: DOS07344
+  exodos: Superleague Soccer (1989).zip
+files:
+- name: CGA.BAT
+  size: 100
+  date: '1990-09-19T16:23:20'
+  crc: '0x0645c2ba'
+- name: CGA\
+  size: 0
+  date: '2020-05-01T13:28:06'
+- name: CGA\FONT.CGA
+  size: 848
+  date: '1990-06-05T12:47:10'
+  crc: '0x10548dcf'
+- name: CGA\GRAPHICS.CGA
+  size: 13086
+  date: '1990-09-18T14:50:10'
+  crc: '0xa69a2b73'
+- name: CGA\PITCH.CGA
+  size: 16000
+  date: '1990-08-22T17:20:00'
+  crc: '0x5996ce8c'
+- name: CGA\PLAYER.CGA
+  size: 7296
+  date: '1990-09-18T14:50:10'
+  crc: '0x6375eb53'
+- name: CGA\SOCCER.CGA
+  size: 16384
+  date: '1990-05-29T13:19:12'
+  crc: '0xb2372195'
+- name: CGA\SOCCERC.EXE
+  size: 54491
+  date: '1990-09-19T16:19:24'
+  crc: '0x5e53daa9'
+- name: CGA\TITLE.CGA
+  size: 16384
+  date: '1990-05-17T10:34:26'
+  crc: '0xdd0c8881'
+- name: EGA.BAT
+  size: 100
+  date: '1990-09-19T16:24:40'
+  crc: '0x3d758c85'
+- name: EGA\
+  size: 0
+  date: '2020-05-01T13:28:06'
+- name: EGA\FONT.EGA
+  size: 424
+  date: '1990-08-29T12:05:12'
+  crc: '0x053160c2'
+- name: EGA\GRAPHICS.EGA
+  size: 25119
+  date: '1990-09-19T15:37:10'
+  crc: '0x9486e987'
+- name: EGA\PITCH.EGA
+  size: 32000
+  date: '1990-09-05T12:47:46'
+  crc: '0x3e193d39'
+- name: EGA\PLAYER.EGA
+  size: 9280
+  date: '1990-09-19T15:37:12'
+  crc: '0xbcc000b2'
+- name: EGA\SOCCER.EGA
+  size: 32000
+  date: '1990-08-29T14:30:40'
+  crc: '0x98bebe9b'
+- name: EGA\SOCCERE.EXE
+  size: 54653
+  date: '1990-09-19T16:07:22'
+  crc: '0xc36fcf3c'
+- name: EGA\TITLE.EGA
+  size: 32000
+  date: '1990-08-29T14:28:00'
+  crc: '0x16c6468b'
+- name: SOCCER.DAT
+  size: 26670
+  date: '1990-07-07T13:57:42'
+  crc: '0xf4ade199'

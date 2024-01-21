@@ -1,0 +1,33 @@
+filename: Abbey, The v1.1 [SW][a1] (1993)(Art LaFrana) [Adventure, Interactive Fiction].zip
+tdc_id: '7658.2'
+title:
+  screen: The Abbey
+publisher: Art LaFrana
+year: '1993'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:57:12'
+  last_modified: '2019-03-01T18:57:12'
+version: '1.1'
+type: zip
+tags:
+- Shareware
+- Alternate: 1
+media: Download
+commands:
+  play: ABBEY.EXE
+references:
+  dosid: DOS00681
+  exodos: Abbey, The (1993).zip
+files:
+- name: ABBEY.DOC
+  size: 3131
+  date: '1993-07-30T03:15:18'
+  crc: '0xd80ef123'
+- name: ABBEY.EXE
+  size: 51965
+  date: '1993-04-18T14:12:00'
+  crc: '0xb660f9c1'

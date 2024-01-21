@@ -1,0 +1,36 @@
+filename: Pinball Dreams r930710 (Installer) (1993)(21st Century Entertainment Ltd.) [Simulation, Action].zip
+tdc_id: '10261.2'
+parent_id: '10261.3'
+title:
+  box: Pinball Dreams
+  qualifier: Installer
+publisher: 21st Century Entertainment Ltd.
+year: '1993'
+genre:
+- Simulation
+- Action
+language: English
+date:
+  added: '2019-03-01T19:16:10'
+  last_modified: '2023-03-27T11:46:14'
+release: '930710'
+type: zip
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.COM
+references:
+  mobygames: https://www.mobygames.com/game/703/pinball-dreams/
+files:
+- name: INSTALL.COM
+  size: 8480
+  date: '1993-06-18T14:22:46'
+  crc: '0xc339aecb'
+- name: PD.ZIP
+  size: 1025997
+  date: '1993-07-10T23:24:22'
+  crc: '0xb70eb289'
+- name: PKUNZIP.EXE
+  size: 28959
+  date: '1993-02-01T02:04:16'
+  crc: '0xeeaac5ea'

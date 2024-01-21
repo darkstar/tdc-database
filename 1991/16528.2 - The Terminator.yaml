@@ -1,0 +1,58 @@
+filename: Terminator, The (Installer) [b1] (1991)(Bethesda Softworks LLC) [Action, Adventure].zip
+tdc_id: '16528.2'
+title:
+  box: The Terminator
+publisher: Bethesda Softworks LLC
+year: '1991'
+genre:
+- Action
+- Adventure
+language: English
+date:
+  added: '2019-03-01T18:39:44'
+  last_modified: '2019-03-01T18:39:44'
+type: zip
+tags:
+- Bad: 1
+installer: true
+files:
+- name: COMMON.EXE
+  size: 445757
+  date: '1991-06-21T08:09:56'
+  crc: '0xe3809a7e'
+- name: EGA.EXE
+  size: 624322
+  date: '1991-06-08T21:58:38'
+  crc: '0x9dca5f69'
+- name: GAME.EXE
+  size: 94544
+  date: '1991-08-05T15:15:22'
+  crc: '0x14315b68'
+- name: GETDIGIT.COM
+  size: 173
+  date: '1983-12-13T08:37:46'
+  crc: '0xabf51baa'
+- name: INSTALL.BAT
+  size: 4606
+  date: '1991-08-05T15:01:50'
+  crc: '0x8f7ebd3c'
+- name: INSTALL.BA_
+  size: 4570
+  date: '1991-06-13T11:34:34'
+  crc: '0x70511a96'
+- name: TERM.COM
+  size: 531
+  date: '1991-07-23T14:33:36'
+  crc: '0x76253b51'
+- name: TERM.EXE
+  size: 87565
+  date: '1991-06-21T15:28:08'
+  crc: '0xb0636026'
+- name: VGA1.EXE
+  size: 679851
+  date: '1991-06-21T02:55:08'
+  crc: '0x05290285'
+- name: VGA2.EXE
+  size: 515008
+  date: '1991-06-21T02:48:28'
+  crc: '0x770bb65d'

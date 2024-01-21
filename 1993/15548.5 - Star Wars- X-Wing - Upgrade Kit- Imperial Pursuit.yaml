@@ -1,0 +1,36 @@
+filename: Star Wars- X-Wing - Upgrade Kit- Imperial Pursuit (Installer) (De) (1993)(Softgold Computerspiele GmbH) [Action, Simulation, Addon].zip
+tdc_id: '15548.5'
+parent_id: '15548.4'
+title:
+  box: 'Star Wars: X-Wing - Upgrade Kit: Imperial Pursuit'
+  qualifier: Installer
+publisher: Softgold Computerspiele GmbH
+year: '1993'
+genre:
+- Action
+- Simulation
+- Addon
+language: German
+date:
+  added: '2023-05-02T09:29:34'
+  last_modified: '2023-05-02T09:29:34'
+type: zip
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/901/star-wars-x-wing-imperial-pursuit/
+files:
+- name: INSTALL.EXE
+  size: 12093
+  date: '1993-09-16T17:05:10'
+  crc: '0xcafa462c'
+- name: XWUPGR-1.EXE
+  size: 1444723
+  date: '1993-09-20T15:45:46'
+  crc: '0x7daa0c00'
+- name: XWUPGR-2.EXE
+  size: 767886
+  date: '1993-09-20T15:45:54'
+  crc: '0x76501bb0'

@@ -1,0 +1,30 @@
+filename: Microace Blackjack v1.10 (1991)(Masque Publishing, Inc.) [Strategy, Cards].zip
+tdc_id: '14251.0'
+title:
+  box: Microace Blackjack
+publisher: Masque Publishing, Inc.
+year: '1991'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:36:50'
+  last_modified: '2019-03-01T18:36:50'
+version: '1.10'
+type: zip
+commands:
+  play: BJ.EXE
+files:
+- name: BJ.EXE
+  size: 143162
+  date: '1991-06-03T11:03:28'
+  crc: '0x09f93301'
+- name: BJ.HLP
+  size: 98348
+  date: '1991-05-28T10:21:24'
+  crc: '0xf0d99f45'
+- name: BJ.INI
+  size: 86
+  date: '1998-07-02T22:48:10'
+  crc: '0x00a509e4'

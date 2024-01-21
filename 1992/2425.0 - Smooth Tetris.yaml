@@ -1,0 +1,32 @@
+filename: Smooth Tetris [SW] (1992)(Terasoft) [Action, Strategy, Puzzle].zip
+tdc_id: '2425.0'
+title:
+  screen: Smooth Tetris
+publisher: Terasoft
+year: '1992'
+genre:
+- Action
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-03-01T18:51:04'
+  last_modified: '2019-03-01T18:51:04'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: TETRIS.EXE
+references:
+  dosid: DOS06240
+  exodos: Smooth Tetris (1992).zip
+files:
+- name: ORDER.FRM
+  size: 903
+  date: '1996-12-24T23:32:00'
+  crc: '0x94014bd8'
+- name: TETRIS.EXE
+  size: 133726
+  date: '1996-12-24T23:32:00'
+  crc: '0xf8fc9856'

@@ -1,0 +1,30 @@
+filename: Mirage (Antichess) v15.42 (1990)(Shpeer International) [Strategy, Chess].zip
+tdc_id: '7880.0'
+title:
+  screen: Mirage (Antichess)
+publisher: Shpeer International
+year: '1990'
+genre:
+- Strategy
+- Chess
+language: English
+date:
+  added: '2022-06-26T14:35:22'
+  last_modified: '2022-06-26T14:35:22'
+version: '15.42'
+type: zip
+commands:
+  play: ACHESS.EXE
+files:
+- name: ACHESS.DAT
+  size: 512
+  date: '1994-12-02T08:20:02'
+  crc: '0x0a597c52'
+- name: ACHESS.EXE
+  size: 52286
+  date: '1999-04-25T14:10:22'
+  crc: '0x6e314dff'
+- name: ACHESS.HLP
+  size: 1258
+  date: '1994-12-02T11:12:04'
+  crc: '0x96eea8a1'

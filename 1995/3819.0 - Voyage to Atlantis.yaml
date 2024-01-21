@@ -1,0 +1,31 @@
+filename: Voyage to Atlantis v6.5 (1995)(Greg Hassett, Nele Abels) [Adventure, Interactive Fiction].zip
+tdc_id: '3819.0'
+title:
+  screen: Voyage to Atlantis
+publisher: Greg Hassett, Nele Abels
+year: '1995'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T09:07:30'
+  last_modified: '2019-03-02T09:07:30'
+version: '6.5'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: ATLANT.BAS
+  size: 18799
+  date: '2018-02-17T23:23:26'
+  crc: '0x71519045'
+- name: GO.BAT
+  size: 26
+  date: '2018-12-10T19:22:22'
+  crc: '0x3d9bb14e'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

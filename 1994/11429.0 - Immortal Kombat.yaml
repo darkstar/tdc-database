@@ -1,0 +1,28 @@
+filename: Immortal Kombat (1994)(Jason Jackson) [Action].zip
+tdc_id: '11429.0'
+title:
+  screen: Immortal Kombat
+publisher: Jason Jackson
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T22:00:46'
+  last_modified: '2019-03-01T22:00:46'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 23
+  date: '2018-12-05T18:35:32'
+  crc: '0x48a49cdc'
+- name: IMK.BAS
+  size: 34264
+  date: '2018-12-05T12:42:14'
+  crc: '0x6be8882b'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

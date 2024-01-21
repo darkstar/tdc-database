@@ -1,0 +1,90 @@
+filename: Swap (1991)(Microïds) [Strategy].zip
+tdc_id: '16385.0'
+title:
+  box: Swap
+publisher: Microïds
+year: '1991'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:39:38'
+  last_modified: '2019-03-01T18:39:38'
+type: zip
+commands:
+  play: SWAP.EXE
+references:
+  dosid: DOS04991
+  exodos: Swap (1992).zip
+files:
+- name: DES1.CPT
+  size: 8732
+  date: '1991-06-27T16:31:02'
+  crc: '0x8381f6a0'
+- name: DES3.CPT
+  size: 15794
+  date: '1991-06-27T17:35:40'
+  crc: '0x67755518'
+- name: DES4.CPT
+  size: 8564
+  date: '1991-06-05T10:19:02'
+  crc: '0xc155e6b5'
+- name: DESG.CPT
+  size: 27014
+  date: '1991-06-05T10:19:20'
+  crc: '0xaed77489'
+- name: DESH.CPT
+  size: 33438
+  date: '1991-06-05T10:20:32'
+  crc: '0x8e4476d8'
+- name: DESP.CPT
+  size: 10228
+  date: '1991-06-05T10:19:42'
+  crc: '0xaff90f50'
+- name: DEST.CPT
+  size: 32178
+  date: '1991-06-05T10:20:06'
+  crc: '0x026841b9'
+- name: DSM1.CPT
+  size: 9130
+  date: '1991-06-24T11:15:10'
+  crc: '0x7c793f75'
+- name: DSM2.CPT
+  size: 19528
+  date: '1991-06-24T11:18:26'
+  crc: '0xfa6d70bf'
+- name: DSPL.CPT
+  size: 4102
+  date: '1991-06-05T10:33:16'
+  crc: '0xcb64dda2'
+- name: ELPL.CPT
+  size: 25212
+  date: '1991-06-27T16:24:34'
+  crc: '0xd42cdcda'
+- name: FCHS.FHS
+  size: 126
+  date: '1997-01-21T20:06:58'
+  crc: '0xafef9341'
+- name: HSCR.CPT
+  size: 7998
+  date: '1991-06-26T17:22:24'
+  crc: '0xcd607c47'
+- name: PRSB.CPT
+  size: 18002
+  date: '1991-06-28T09:13:28'
+  crc: '0xd8a73c44'
+- name: PRSF.CPT
+  size: 20642
+  date: '1991-06-05T10:32:10'
+  crc: '0x94bb2a54'
+- name: SCOR.CPT
+  size: 9684
+  date: '1991-06-26T17:22:00'
+  crc: '0x5164f88f'
+- name: SWAP.EXE
+  size: 48981
+  date: '1991-11-04T19:53:00'
+  crc: '0x11c347c4'
+- name: XXX.CPT
+  size: 12274
+  date: '1991-08-07T14:07:32'
+  crc: '0xd19b8abc'

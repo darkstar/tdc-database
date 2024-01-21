@@ -1,0 +1,29 @@
+filename: Gremlins [DC][h1] (1984)(Atarisoft) [Action].zip
+tdc_id: '5347.2'
+title:
+  box: Gremlins
+publisher: Atarisoft
+year: '1984'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:06'
+  last_modified: '2019-03-01T18:24:06'
+type: zip
+tags:
+- DOSConversion
+- Hack: 1
+commands:
+  play: GREMLINS.EXE
+references:
+  dosid: DOS05898
+  exodos: Gremlins (1984).zip
+files:
+- name: GREMLINS.DOC
+  size: 2228
+  date: '2002-07-24T21:08:06'
+  crc: '0x0d1aaf52'
+- name: GREMLINS.EXE
+  size: 80242
+  date: '2005-11-02T13:15:58'
+  crc: '0x51497748'

@@ -1,0 +1,25 @@
+filename: Space Destroyer v1.0 (1996)(Anonymous) [Action].zip
+tdc_id: '15292.0'
+title:
+  screen: Space Destroyer
+publisher: Anonymous
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2022-01-22T00:01:56'
+  last_modified: '2022-01-22T00:01:56'
+version: '1.0'
+type: zip
+media: Download
+commands:
+  play: SD.EXE
+files:
+- name: SD.CFG
+  size: 5
+  date: '2063-09-28T02:33:00'
+  crc: '0xcc4e0385'
+- name: SD.EXE
+  size: 145807
+  date: '2104-06-18T11:27:58'
+  crc: '0xabdc8bcf'

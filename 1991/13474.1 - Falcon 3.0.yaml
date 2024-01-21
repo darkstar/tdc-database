@@ -1,0 +1,97 @@
+filename: Falcon 3.0 (Installer) (1991)(Spectrum HoloByte, Inc.) [Simulation].zip
+tdc_id: '13474.1'
+parent_id: '13474.5'
+title:
+  box: Falcon 3.0
+publisher: Spectrum HoloByte, Inc.
+year: '1991'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:35:54'
+  last_modified: '2019-03-01T18:35:54'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK2\
+  size: 0
+  date: '2016-11-10T18:36:36'
+- name: DISK2\INSTALL.DAT
+  size: 2000
+  date: '1991-11-07T04:52:02'
+  crc: '0xa8a85d96'
+- name: DISK2\RES.NDX
+  size: 1486
+  date: '1991-11-07T05:00:02'
+  crc: '0xd2f47417'
+- name: DISK2\RES002
+  size: 1209025
+  date: '1991-11-07T05:01:02'
+  crc: '0xca00a675'
+- name: DISK3\
+  size: 0
+  date: '2016-11-10T18:36:26'
+- name: DISK3\INSTALL.DAT
+  size: 1604
+  date: '1991-11-07T03:35:26'
+  crc: '0x1f2c353d'
+- name: DISK3\RES.NDX
+  size: 1220
+  date: '1991-11-07T03:31:00'
+  crc: '0x0b427eb4'
+- name: DISK3\RES003
+  size: 1209974
+  date: '1991-11-07T03:32:00'
+  crc: '0x89770249'
+- name: DISK4\
+  size: 0
+  date: '2016-11-10T18:36:14'
+- name: DISK4\INSTALL.DAT
+  size: 2166
+  date: '1991-11-09T16:17:42'
+  crc: '0xcd2f2777'
+- name: DISK4\RES.NDX
+  size: 1524
+  date: '1991-11-09T16:15:04'
+  crc: '0x9c418a8c'
+- name: DISK4\RES004
+  size: 1209818
+  date: '1991-11-09T16:16:06'
+  crc: '0xf514c3c9'
+- name: DISK5\
+  size: 0
+  date: '2016-11-10T18:36:00'
+- name: DISK5\INSTALL.DAT
+  size: 3688
+  date: '1991-11-15T19:29:12'
+  crc: '0x9980ac40'
+- name: DISK5\RES.NDX
+  size: 2531
+  date: '1991-11-15T19:32:46'
+  crc: '0xa66c0a6c'
+- name: DISK5\RES005
+  size: 1203635
+  date: '1991-11-15T19:33:38'
+  crc: '0xfb069ea4'
+- name: INSTALL.DAT
+  size: 13788
+  date: '1991-12-02T06:23:38'
+  crc: '0xea8fb127'
+- name: INSTALL.EXE
+  size: 41744
+  date: '1991-12-02T05:48:52'
+  crc: '0xd5d5e0a1'
+- name: README.TXT
+  size: 7757
+  date: '1991-12-02T04:17:42'
+  crc: '0x7c596312'
+- name: RES.NDX
+  size: 8212
+  date: '1991-12-02T08:32:16'
+  crc: '0x212a9d55'
+- name: RES001
+  size: 1122069
+  date: '1991-12-02T08:11:00'
+  crc: '0xbc0f7d9d'

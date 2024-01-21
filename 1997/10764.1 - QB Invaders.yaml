@@ -1,0 +1,60 @@
+filename: QB Invaders (1997)(Tim Truman) [Action].zip
+tdc_id: '10764.1'
+title:
+  screen: QB Invaders
+publisher: Tim Truman
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:37:00'
+  last_modified: '2019-03-02T10:37:00'
+type: zip
+media: Download
+commands:
+  play: start.bat
+files:
+- name: Atari.spr
+  size: 12877
+  date: '1995-12-15T22:18:00'
+  crc: '0x929a77ac'
+- name: Default.pal
+  size: 1543
+  date: '1997-05-04T11:46:54'
+  crc: '0x0a960436'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1995-07-11T10:50:00'
+  crc: '0x3152911c'
+- name: Qbinvade.bas
+  size: 51355
+  date: '2014-03-19T17:05:48'
+  crc: '0x98a33f32'
+- name: Qbinvade.fnt
+  size: 8967
+  date: '1995-12-04T00:02:40'
+  crc: '0xeddc223f'
+- name: Qbinvade.sfx
+  size: 1742
+  date: '1997-05-04T10:59:20'
+  crc: '0x6a149e05'
+- name: Qbinvade.spr
+  size: 12877
+  date: '1995-12-15T19:38:20'
+  crc: '0xa376b8d6'
+- name: Qbinvade.txt
+  size: 335
+  date: '1997-05-13T18:13:24'
+  crc: '0x13054069'
+- name: Qbvaders.scr
+  size: 690
+  date: '1999-09-28T22:59:40'
+  crc: '0xbdb62ee5'
+- name: Upload.txt
+  size: 34
+  date: '1997-05-13T18:36:42'
+  crc: '0xc2454505'
+- name: start.bat
+  size: 26
+  date: '2014-03-19T17:04:22'
+  crc: '0x906077b2'

@@ -1,0 +1,37 @@
+filename: Alphabet Soup v1.0S (Installer) [SW][a1] (1995)(Nissen Ventures) [Educational].zip
+tdc_id: '8290.4'
+title:
+  screen: Alphabet Soup
+publisher: Nissen Ventures
+year: '1995'
+genre: Educational
+language: English
+date:
+  added: '2018-12-31T21:27:24'
+  last_modified: '2022-12-06T10:18:06'
+version: 1.0S
+type: zip
+tags:
+- Shareware
+- Alternate: 1
+media: Download
+installer: true
+commands:
+  play: INSTALL.BAT
+files:
+- name: ABC10S.EXE
+  size: 1057374
+  date: '1995-03-01T06:42:40'
+  crc: '0xbcf2d470'
+- name: FILE_ID.DIZ
+  size: 363
+  date: '1995-02-07T02:27:40'
+  crc: '0xe03635be'
+- name: INSTALL.BAT
+  size: 2899
+  date: '1995-06-12T09:04:46'
+  crc: '0x238e4926'
+- name: REPLY.COM
+  size: 14
+  date: '1987-05-18T14:05:24'
+  crc: '0xba32f48f'

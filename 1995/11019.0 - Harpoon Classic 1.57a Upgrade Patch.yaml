@@ -1,0 +1,31 @@
+filename: Harpoon Classic 1.57a Upgrade Patch (1995)(Alliance Interactive Software, Inc.) [Simulation, Strategy, Compilation, Addon].zip
+tdc_id: '11019.0'
+title:
+  screen: Harpoon Classic 1.57a Upgrade Patch
+publisher: Alliance Interactive Software, Inc.
+year: '1995'
+genre:
+- Simulation
+- Strategy
+- Compilation
+- Addon
+language: English
+date:
+  added: '2021-05-07T13:59:04'
+  last_modified: '2021-05-07T13:59:04'
+type: zip
+compilation: true
+patch: true
+files:
+- name: INSTALL.CFG
+  size: 462
+  date: '1995-02-14T16:57:38'
+  crc: '0xdc34e68e'
+- name: INSTALL.EXE
+  size: 56934
+  date: '1994-03-18T02:05:00'
+  crc: '0x14417964'
+- name: UPDATE.SHR
+  size: 547412
+  date: '1995-02-14T17:02:32'
+  crc: '0x8e554bcd'

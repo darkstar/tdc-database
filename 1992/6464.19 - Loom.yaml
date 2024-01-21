@@ -1,0 +1,31 @@
+filename: Loom CD (1992)(Lucasfilm Games LLC) [bin-cue].zip
+tdc_id: '6464.19'
+title:
+  box: Loom
+  qualifier: CD
+publisher: Lucasfilm Games LLC
+year: '1992'
+genre: bin-cue
+language: English
+date:
+  added: '2023-11-23T09:01:48'
+  last_modified: '2023-11-23T09:01:48'
+type: bin-cue
+media: CD-ROM
+audio:
+- CD-DA
+references:
+  mobygames: https://www.mobygames.com/game/176/loom/
+files:
+- name: Loom (USA) (Track 1).bin
+  size: 52567200
+  date: '1996-12-24T15:32:00'
+  crc: '0x77decfeb'
+- name: Loom (USA) (Track 2).bin
+  size: 579116496
+  date: '1996-12-24T15:32:00'
+  crc: '0x7e8466af'
+- name: Loom (USA).cue
+  size: 213
+  date: '1996-12-24T15:32:00'
+  crc: '0xc9a82597'

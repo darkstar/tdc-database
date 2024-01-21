@@ -1,0 +1,28 @@
+filename: Reversi (1994)(Anonymous) [Strategy].zip
+tdc_id: '14878.0'
+title:
+  screen: Reversi
+publisher: Anonymous
+year: '1994'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T22:03:54'
+  last_modified: '2019-03-01T22:03:54'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 27
+  date: '2018-12-08T12:12:24'
+  crc: '0x6ece7d82'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: REVERSI.BAS
+  size: 17492
+  date: '1994-12-25T22:46:32'
+  crc: '0x58146a62'

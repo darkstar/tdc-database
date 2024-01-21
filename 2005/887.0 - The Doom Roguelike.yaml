@@ -1,0 +1,49 @@
+filename: Doom, The Roguelike v.0.9.5 (beta) (2005)(Kornel Kisielewicz) [Role-Playing (RPG)].zip
+tdc_id: '887.0'
+title:
+  screen: The Doom Roguelike
+publisher: Kornel Kisielewicz
+year: '2005'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-02T10:57:04'
+  last_modified: '2019-03-02T10:57:04'
+version: .0.9.5
+type: zip
+references:
+  dosid: DOS01835
+  exodos: Doom - The Roguelike (2005).zip
+files:
+- name: CWSDPMI.DOC
+  size: 7073
+  date: '2016-10-13T20:51:52'
+  crc: '0xdfc52298'
+- name: CWSDPMI.EXE
+  size: 25916
+  date: '2016-10-13T20:51:52'
+  crc: '0x8760f94d'
+- name: doomrl.bat
+  size: 57
+  date: '2005-01-01T21:51:08'
+  crc: '0xb5153643'
+- name: doomrl.exe
+  size: 1119402
+  date: '2005-04-28T21:45:48'
+  crc: '0x1934c5da'
+- name: doomrl.ini
+  size: 1056
+  date: '2005-04-28T21:30:02'
+  crc: '0xfb917ac2'
+- name: doomrl.wad
+  size: 15422
+  date: '2005-04-28T15:44:28'
+  crc: '0x5ce61869'
+- name: manual.txt
+  size: 8502
+  date: '2005-01-01T22:49:34'
+  crc: '0xeef7d3ee'
+- name: version.txt
+  size: 9381
+  date: '2005-04-28T21:32:46'
+  crc: '0x139e1602'

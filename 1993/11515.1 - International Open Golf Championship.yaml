@@ -1,0 +1,26 @@
+filename: International Open Golf Championship (Installer) (1993)(Ocean Software Ltd.) [Action, Sports].zip
+tdc_id: '11515.1'
+title:
+  box: International Open Golf Championship
+publisher: Ocean Software Ltd.
+year: '1993'
+genre:
+- Action
+- Sports
+language: English
+date:
+  added: '2019-03-01T19:10:24'
+  last_modified: '2019-03-01T19:10:24'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.2
+  size: 1437857
+  date: '1993-06-01T15:10:28'
+  crc: '0x2901a982'
+- name: INSTALL.EXE
+  size: 1457664
+  date: '1993-06-01T15:10:36'
+  crc: '0xdad00776'

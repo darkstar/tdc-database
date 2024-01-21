@@ -1,0 +1,33 @@
+filename: Jungle Hunt v1.5 (1997)(Nick Kochakian) [Action].zip
+tdc_id: '11662.0'
+title:
+  screen: Jungle Hunt
+publisher: Nick Kochakian
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:35:08'
+  last_modified: '2019-03-02T10:35:08'
+version: '1.5'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 28
+  date: '2018-07-05T01:40:06'
+  crc: '0xbef67b46'
+- name: JSCORE.DAT
+  size: 146
+  date: '1997-03-07T14:20:34'
+  crc: '0x160fe67c'
+- name: JUNGLEHU.BAS
+  size: 12995
+  date: '1997-05-20T19:09:08'
+  crc: '0x72849745'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T01:28:02'
+  crc: '0x19f6ed75'

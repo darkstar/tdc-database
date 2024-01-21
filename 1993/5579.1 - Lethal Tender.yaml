@@ -1,0 +1,31 @@
+filename: Lethal Tender v129 (Installer) (1993)(Froggman) [Action].zip
+tdc_id: '5579.1'
+title:
+  screen: Lethal Tender
+publisher: Froggman
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T19:11:44'
+  last_modified: '2019-03-01T19:11:44'
+version: '129'
+type: zip
+installer: true
+files:
+- name: GRAPHICS.EXE
+  size: 96870
+  date: '1993-10-10T22:48:18'
+  crc: '0x4a856b02'
+- name: INSTALL.BAT
+  size: 612
+  date: '1993-10-10T23:01:28'
+  crc: '0x19a2d8a3'
+- name: KK.EXE
+  size: 938805
+  date: '1993-10-10T22:48:28'
+  crc: '0x2a807379'
+- name: LETHAL.EXE
+  size: 222849
+  date: '1993-10-10T22:48:38'
+  crc: '0x6eaef451'

@@ -1,0 +1,46 @@
+filename: Morabis 1 - The Dungeons of Morabis v1.6d (Installer) [FW] (1991)(Michael Steven Höenie, Tangerine Software) [Role-Playing (RPG)].zip
+tdc_id: '14337.0'
+title:
+  screen: Morabis 1 - The Dungeons of Morabis
+  qualifier: Installer
+publisher: Michael Steven Höenie, Tangerine Software
+year: '1991'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:37:02'
+  last_modified: '2023-10-14T21:00:54'
+version: 1.6d
+type: zip
+tags:
+- Freeware
+media: Download
+installer: true
+commands:
+  play: MORABIS.EXE
+  setup: MORSETUP.EXE
+files:
+- name: BUGLIST.TXT
+  size: 2261
+  date: '1991-02-02T09:26:48'
+  crc: '0x6e1f6025'
+- name: M.BAT
+  size: 15
+  date: '1990-09-10T12:34:24'
+  crc: '0x59b2ba6b'
+- name: MORABIS.DOC
+  size: 24109
+  date: '1991-02-03T00:13:18'
+  crc: '0xb22f16c1'
+- name: MORABIS.EXE
+  size: 172448
+  date: '1991-02-03T20:16:44'
+  crc: '0x8a7cab85'
+- name: MORSETUP.EXE
+  size: 16864
+  date: '1991-02-03T20:16:54'
+  crc: '0x40243f5c'
+- name: PREMAP.LCK
+  size: 163325
+  date: '1991-02-03T20:14:22'
+  crc: '0x438b15e9'

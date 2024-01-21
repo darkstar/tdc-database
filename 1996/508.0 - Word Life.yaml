@@ -1,0 +1,27 @@
+filename: Word Life (Ru) (1996)(Vladimir Krylov) [Strategy].zip
+tdc_id: '508.0'
+title:
+  screen: Word Life
+publisher: Vladimir Krylov
+year: '1996'
+genre: Strategy
+language: Russian
+date:
+  added: '2019-03-02T10:23:30'
+  last_modified: '2019-03-02T10:23:30'
+type: zip
+commands:
+  play: WORDLIFE.EXE
+files:
+- name: README.RUS
+  size: 4086
+  date: '1996-04-29T15:40:22'
+  crc: '0xea9a8d16'
+- name: WORDLIB.LIB
+  size: 289413
+  date: '1994-12-02T03:27:44'
+  crc: '0x9ad2e81a'
+- name: WORDLIFE.EXE
+  size: 64624
+  date: '1994-12-06T02:23:28'
+  crc: '0xe9415bcc'

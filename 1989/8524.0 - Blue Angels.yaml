@@ -1,0 +1,30 @@
+filename: Blue Angels (1989)(Artech) [Simulation].zip
+tdc_id: '8524.0'
+title:
+  box: Blue Angels
+publisher: Artech
+year: '1989'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:27:20'
+  last_modified: '2019-03-01T18:27:20'
+type: zip
+commands:
+  play: BA.EXE
+references:
+  dosid: DOS01112
+  exodos: Blue Angels Formation Flight Simulation (1989).zip
+files:
+- name: BA.EXE
+  size: 75265
+  date: '1996-09-02T22:55:30'
+  crc: '0xe1fcb525'
+- name: BA1.DAT
+  size: 224163
+  date: '1990-01-02T17:08:52'
+  crc: '0x768f7cdb'
+- name: BA2.DAT
+  size: 272995
+  date: '1990-01-02T17:06:40'
+  crc: '0x072ab582'

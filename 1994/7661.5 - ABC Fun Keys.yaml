@@ -1,0 +1,36 @@
+filename: ABC Fun Keys v4.40 (Installer) [SW] (1994)(Courtney E. Krehbiel) [Educational].zip
+tdc_id: '7661.5'
+title:
+  screen: ABC Fun Keys
+publisher: Courtney E. Krehbiel
+year: '1994'
+genre: Educational
+language: English
+date:
+  added: '2018-02-27T07:27:20'
+  last_modified: '2018-02-27T07:27:20'
+version: '4.40'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: ABC_PACK.BIN
+  size: 176025
+  date: '1994-01-04T04:40:00'
+  crc: '0xef317e1e'
+- name: FILE_ID.DIZ
+  size: 406
+  date: '1994-01-04T04:40:00'
+  crc: '0x39595497'
+- name: INSTALL.DOC
+  size: 4539
+  date: '1994-01-04T04:40:00'
+  crc: '0xa04cb956'
+- name: INSTALL.EXE
+  size: 90008
+  date: '1994-01-04T04:40:00'
+  crc: '0x90e3fdf8'

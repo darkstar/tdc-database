@@ -1,0 +1,28 @@
+filename: Arrow Game (19xx)(Saeed Abu Salih) [Action].zip
+tdc_id: '4500.0'
+title:
+  screen: Arrow Game
+publisher: Saeed Abu Salih
+year: 19xx
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:47:22'
+  last_modified: '2019-03-02T10:47:22'
+type: zip
+commands:
+  play: ARROW.COM
+notes: +=PCMag Sep.'82, 309 /// 64K, CGA, $60
+files:
+- name: ARROW.COM
+  size: 22995
+  date: '1980-01-01T02:49:44'
+  crc: '0xde28877f'
+- name: ARROW.PAS
+  size: 23165
+  date: '1980-01-01T02:36:30'
+  crc: '0x8f8caee9'
+- name: DATFILE.DAT
+  size: 170
+  date: '1980-01-01T00:56:22'
+  crc: '0xe9c4805a'

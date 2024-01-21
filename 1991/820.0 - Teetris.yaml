@@ -1,0 +1,25 @@
+filename: Teetris (1991)(Greg Ward, Tony Hinrichs) [Action, Strategy].zip
+tdc_id: '820.0'
+title:
+  screen: Teetris
+publisher: Greg Ward, Tony Hinrichs
+year: '1991'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:39:42'
+  last_modified: '2019-03-01T18:39:42'
+type: zip
+commands:
+  play: TEETRIS.EXE
+files:
+- name: TEETRIS.DOC
+  size: 12379
+  date: '1991-06-10T01:00:00'
+  crc: '0xb4319f0c'
+- name: TEETRIS.EXE
+  size: 32432
+  date: '1991-06-10T01:00:00'
+  crc: '0xf0238c4d'

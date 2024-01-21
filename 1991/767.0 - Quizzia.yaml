@@ -1,0 +1,51 @@
+filename: Quizzia v1.1 [SW] (1991)(Thomas M. Roddy) [Educational].zip
+tdc_id: '767.0'
+title:
+  screen: Quizzia
+publisher: Thomas M. Roddy
+year: '1991'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T18:37:30'
+  last_modified: '2019-03-01T18:37:30'
+version: '1.1'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: QUIZZIA.EXE
+files:
+- name: DQUEST.DB
+  size: 10385
+  date: '1991-08-20T16:54:50'
+  crc: '0x85bd7ede'
+- name: DQUEST.IDX
+  size: 2048
+  date: '1991-09-10T12:12:56'
+  crc: '0xec377b02'
+- name: EQUEST.DB
+  size: 9916
+  date: '1991-08-20T15:41:16'
+  crc: '0x4dc0bd79'
+- name: EQUEST.IDX
+  size: 2048
+  date: '1991-09-10T12:12:56'
+  crc: '0xb4638511'
+- name: QORDER.FRM
+  size: 2382
+  date: '1991-09-04T18:32:36'
+  crc: '0xd01624da'
+- name: QUIZZIA.DOC
+  size: 4943
+  date: '1991-09-04T18:29:50'
+  crc: '0x12da6d2b'
+- name: QUIZZIA.EXE
+  size: 142684
+  date: '1991-08-20T17:29:28'
+  crc: '0xbfab0519'
+- name: QUIZZIA.HLP
+  size: 6156
+  date: '1991-08-20T17:09:26'
+  crc: '0x281a2126'

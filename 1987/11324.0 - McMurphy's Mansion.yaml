@@ -1,0 +1,40 @@
+filename: McMurphy's Mansion [SW] (1987)(martin-art) [Adventure, Interactive Fiction].zip
+tdc_id: '11324.0'
+title:
+  screen: McMurphy's Mansion
+publisher: martin-art
+year: '1987'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:25:26'
+  last_modified: '2019-03-01T18:25:26'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: MCMURPHY.EXE
+files:
+- name: LUCK
+  size: 345
+  date: '1987-11-23T19:17:28'
+  crc: '0x3ebfd6b4'
+- name: MCFILE.DAT
+  size: 77142
+  date: '1987-11-12T13:00:00'
+  crc: '0x00c7c8a6'
+- name: MCMANUAL.TXT
+  size: 17809
+  date: '1987-11-12T00:34:00'
+  crc: '0x41d0ee2d'
+- name: MCMURPHY.EXE
+  size: 121051
+  date: '1987-11-12T19:40:00'
+  crc: '0xdafe3d39'
+- name: MCWM.DAT
+  size: 9634
+  date: '1987-11-12T14:43:00'
+  crc: '0x1f207848'

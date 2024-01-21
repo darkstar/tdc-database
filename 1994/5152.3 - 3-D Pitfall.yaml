@@ -1,0 +1,40 @@
+filename: 3-D Pitfall v1.3 [SW] (1994)(John Shramko) [Action, Strategy].zip
+tdc_id: '5152.3'
+title:
+  screen: 3-D Pitfall
+publisher: John Shramko
+year: '1994'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2009-11-23T02:35:46'
+  last_modified: '2022-09-22T09:53:05'
+version: '1.3'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: 3DPIT.EXE
+references:
+  dosid: DOS00643
+  exodos: 3D Pitfall (1994).zip
+files:
+- name: 3DPIT.EXE
+  size: 150036
+  date: '1995-01-07T16:24:10'
+  crc: '0xfd3dc4c2'
+- name: 3DPIT.IMG
+  size: 76167
+  date: '1994-12-14T17:21:00'
+  crc: '0x2f2e6276'
+- name: FILE_ID.DIZ
+  size: 171
+  date: '1995-01-07T16:28:24'
+  crc: '0xc0e2b4a8'
+- name: README.COM
+  size: 5598
+  date: '1995-01-06T17:43:42'
+  crc: '0x41b3e213'

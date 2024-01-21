@@ -1,0 +1,30 @@
+filename: Spots (1999)(BattleCraft99) [Strategy, Puzzle].zip
+tdc_id: '15439.0'
+title:
+  screen: Spots
+publisher: BattleCraft99
+year: '1999'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-03-02T10:46:30'
+  last_modified: '2019-03-02T10:46:30'
+type: zip
+media: Download
+commands:
+  play: start.bat
+files:
+- name: QBASIC.EXE
+  size: 194309
+  date: '1995-07-11T10:50:00'
+  crc: '0x3152911c'
+- name: SPOTS.BAS
+  size: 89775
+  date: '1999-09-11T02:26:02'
+  crc: '0x391766e9'
+- name: start.bat
+  size: 23
+  date: '2014-03-20T16:34:40'
+  crc: '0x859a644c'

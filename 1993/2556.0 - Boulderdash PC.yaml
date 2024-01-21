@@ -1,0 +1,42 @@
+filename: Boulderdash PC [FW] (1993)(Doug Mansell) [Action].zip
+tdc_id: '2556.0'
+title:
+  screen: Boulderdash PC
+publisher: Doug Mansell
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T19:01:40'
+  last_modified: '2019-03-01T19:01:40'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: DASH.EXE
+files:
+- name: DASH.DAT
+  size: 15308
+  date: '1992-03-12T13:20:30'
+  crc: '0x3750d819'
+- name: DASH.EXE
+  size: 19122
+  date: '1993-02-27T16:18:12'
+  crc: '0x267c3eb8'
+- name: LEVEL.DAT
+  size: 3815
+  date: '1992-12-23T11:50:32'
+  crc: '0x837974ff'
+- name: LEVEL.IDX
+  size: 46
+  date: '1992-12-23T11:50:32'
+  crc: '0xb85977ac'
+- name: README.TXT
+  size: 3133
+  date: '1993-02-27T16:05:04'
+  crc: '0x8806dea3'
+- name: SOUNDS.BIN
+  size: 1040
+  date: '1992-07-13T16:35:48'
+  crc: '0x7f6c7353'

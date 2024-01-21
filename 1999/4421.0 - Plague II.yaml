@@ -1,0 +1,72 @@
+filename: Plague II (Demo) (1999)(Smidge-TECH, Adam Szmigin) [Action].zip
+tdc_id: '4421.0'
+title:
+  screen: Plague II
+  qualifier: Demo
+publisher: Smidge-TECH, Adam Szmigin
+year: '1999'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:46:20'
+  last_modified: '2019-03-02T10:46:20'
+type: zip
+demo: true
+commands:
+  play: Plague2.exe
+files:
+- name: CASTLE.PDE
+  size: 320000
+  date: '1999-05-29T13:53:46'
+  crc: '0x9da5a82c'
+- name: FOREST.PDE
+  size: 320000
+  date: '1999-05-29T13:53:44'
+  crc: '0xf0c938a5'
+- name: NG-LEV2.SPF
+  size: 0
+  date: '2005-07-14T01:10:12'
+- name: NME-PAK1.SPF
+  size: 64007
+  date: '1999-05-29T13:53:40'
+  crc: '0xe55bb4b1'
+- name: NME-PAK2.SPF
+  size: 64007
+  date: '1999-05-29T13:53:40'
+  crc: '0xae42b229'
+- name: P2-DEM0.DEM
+  size: 65542
+  date: '1999-06-01T18:10:38'
+  crc: '0x947575f6'
+- name: P2-FNT.FNT
+  size: 2305
+  date: '1999-05-27T12:07:24'
+  crc: '0x64f031bb'
+- name: P2-SAV.DAT
+  size: 8
+  date: '2005-07-14T01:10:12'
+  crc: '0xb3fe265f'
+- name: PLAYER.SPF
+  size: 64007
+  date: '1999-05-29T13:53:42'
+  crc: '0x4c9c4b19'
+- name: Plague2.bmp
+  size: 65078
+  date: '1999-04-05T16:14:08'
+  crc: '0xb4961a65'
+- name: Plague2.exe
+  size: 105840
+  date: '1999-06-01T18:12:08'
+  crc: '0x3e145476'
+- name: Plague2.txt
+  size: 7834
+  date: '1999-06-01T18:20:28'
+  crc: '0xe2741117'
+- name: S-Logo.bmp
+  size: 65078
+  date: '1999-04-25T00:28:54'
+  crc: '0xdc2b1fd9'
+- name: TUT-LEV.SPF
+  size: 64007
+  date: '1999-05-29T13:53:40'
+  crc: '0x9bc41406'

@@ -1,0 +1,38 @@
+filename: Bicycle Solitaire v2.02 (1991)(SWFTE International Ltd.) [Strategy, Cards].zip
+tdc_id: '12606.1'
+title:
+  box: Bicycle Solitaire
+publisher: SWFTE International Ltd.
+year: '1991'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:35:00'
+  last_modified: '2019-03-01T18:35:00'
+version: '2.02'
+type: zip
+commands:
+  play: SOL.EXE
+files:
+- name: DKBICCGA.VBM
+  size: 16249
+  date: '1991-06-27T00:00:00'
+  crc: '0x0d11d66b'
+- name: DKBICEGA.VBM
+  size: 64441
+  date: '1991-06-27T00:00:00'
+  crc: '0x729a12d6'
+- name: DKBICLCD.VBM
+  size: 16291
+  date: '1991-06-27T00:00:00'
+  crc: '0x220687f9'
+- name: DKBICVGA.VBM
+  size: 84736
+  date: '1991-06-27T00:00:00'
+  crc: '0xce21c9b8'
+- name: SOL.EXE
+  size: 150362
+  date: '1991-06-27T00:00:00'
+  crc: '0x38c27df0'

@@ -1,0 +1,106 @@
+filename: Popeye 2 (1992)(Alternative Software Ltd.) [Action].zip
+tdc_id: '10429.0'
+title:
+  box: Popeye 2
+publisher: Alternative Software Ltd.
+year: '1992'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:50:00'
+  last_modified: '2019-03-01T18:50:00'
+type: zip
+commands:
+  play: POPEYE.COM
+references:
+  dosid: DOS04070
+  exodos: Popeye 2 (1992).zip
+files:
+- name: BANNER.LBM
+  size: 11436
+  date: '2042-03-15T04:00:28'
+  crc: '0x8d07eeaf'
+- name: BITS1.LBM
+  size: 21732
+  date: '2042-03-15T04:00:18'
+  crc: '0x43f9097c'
+- name: BITS2.LBM
+  size: 16684
+  date: '2042-03-15T04:00:12'
+  crc: '0xc40b4a0d'
+- name: DEMO.DTA
+  size: 8192
+  date: '2042-03-15T04:00:04'
+  crc: '0x54f04fc0'
+- name: FINAL.LBM
+  size: 15492
+  date: '2042-03-15T04:00:02'
+  crc: '0x7950a0d3'
+- name: LEVEL1.LBM
+  size: 21900
+  date: '2042-03-15T04:00:16'
+  crc: '0xb9fa80a4'
+- name: LEVEL2.LBM
+  size: 24778
+  date: '2042-03-15T04:00:12'
+  crc: '0x5384f66d'
+- name: LEVEL3.LBM
+  size: 25006
+  date: '2042-03-15T04:00:22'
+  crc: '0x843fecbf'
+- name: LEVEL4.LBM
+  size: 21112
+  date: '2042-03-15T04:00:28'
+  crc: '0x31e53512'
+- name: LEVEL_1.MAP
+  size: 2344
+  date: '2042-03-15T04:00:12'
+  crc: '0x462c6eeb'
+- name: LEVEL_2.MAP
+  size: 2424
+  date: '2042-03-15T04:00:06'
+  crc: '0xa9a96e30'
+- name: LEVEL_3.MAP
+  size: 2464
+  date: '2042-03-15T04:00:00'
+  crc: '0xb925ae49'
+- name: LEVEL_4.MAP
+  size: 2844
+  date: '2042-03-15T04:00:24'
+  crc: '0xc2206e12'
+- name: PANEL.LBM
+  size: 15942
+  date: '2042-03-15T04:00:06'
+  crc: '0xf7c2cacf'
+- name: POPEYE.COM
+  size: 25667
+  date: '2042-03-15T04:00:02'
+  crc: '0x2b0a78ef'
+- name: POPEYE.LBM
+  size: 18074
+  date: '2042-03-15T04:00:06'
+  crc: '0x0dd8db8c'
+- name: RNGR.DTA
+  size: 8192
+  date: '2042-03-15T04:00:20'
+  crc: '0x134f8949'
+- name: TITLE.LBM
+  size: 20940
+  date: '2042-03-15T04:00:14'
+  crc: '0xfba257fc'
+- name: WALK_1.MAP
+  size: 2344
+  date: '2042-03-15T04:00:06'
+  crc: '0x38dfc990'
+- name: WALK_2.MAP
+  size: 2424
+  date: '2042-03-15T04:00:04'
+  crc: '0x9e3013d2'
+- name: WALK_3.MAP
+  size: 2464
+  date: '2042-03-15T04:00:00'
+  crc: '0x4d0218c1'
+- name: WALK_4.MAP
+  size: 2844
+  date: '2042-03-15T04:00:16'
+  crc: '0xe25dfc62'

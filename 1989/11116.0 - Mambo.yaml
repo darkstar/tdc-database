@@ -1,0 +1,50 @@
+filename: Mambo (Es) (1989)(Positive) [Action].zip
+tdc_id: '11116.0'
+title:
+  box: Mambo
+publisher: Positive
+year: '1989'
+genre: Action
+language: Spanish
+date:
+  added: '2019-03-01T18:28:18'
+  last_modified: '2019-03-01T18:28:18'
+type: zip
+commands:
+  play: MAMBO.EXE
+references:
+  dosid: DOS03328
+  exodos: Mambo (1989).zip
+files:
+- name: COLMARCA.DAT
+  size: 448
+  date: '1989-09-21T18:18:16'
+  crc: '0x7190342c'
+- name: DECARGA.PAN
+  size: 16208
+  date: '1989-09-21T17:30:18'
+  crc: '0xa46edf68'
+- name: GRAFICOS.DAT
+  size: 52522
+  date: '1980-01-01T00:20:04'
+  crc: '0x29966020'
+- name: MAMBO.EXE
+  size: 17504
+  date: '1989-09-23T01:11:12'
+  crc: '0x80f3d92d'
+- name: MAPA.DAT
+  size: 2087
+  date: '1989-09-07T22:48:58'
+  crc: '0x3f2fc3e0'
+- name: MARCADOR.DAT
+  size: 8192
+  date: '1980-01-01T00:39:34'
+  crc: '0x4b163401'
+- name: TABLAMOV.DAT
+  size: 192
+  date: '1980-01-01T00:08:54'
+  crc: '0x25cda6ad'
+- name: TABLANUM.DAT
+  size: 256
+  date: '1989-09-21T00:02:06'
+  crc: '0xa977ad6d'

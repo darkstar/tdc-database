@@ -1,0 +1,48 @@
+filename: Loser v2.6 (Fi) [FW] (1996)(Green Pyre) [Adventure].zip
+tdc_id: '316.0'
+title:
+  screen: Loser
+publisher: Green Pyre
+year: '1996'
+genre: Adventure
+language: Finnish
+date:
+  added: '2021-09-02T01:04:42'
+  last_modified: '2021-09-02T01:04:42'
+version: '2.6'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: LOSER.EXE
+notes: a Finnish adventure game; the guy who did the music (Cadaver) mentioned its existence, but couldn't find a copy
+files:
+- name: FILE_ID.DIZ
+  size: 194
+  date: '1996-08-22T21:02:32'
+  crc: '0x9a5b4ccc'
+- name: LOSER.EXE
+  size: 7033851
+  date: '1996-09-01T14:00:10'
+  crc: '0x8cbafbaa'
+- name: LOSER.M1
+  size: 106506
+  date: '1996-06-04T10:44:10'
+  crc: '0xa4705b75'
+- name: LOSER.M2
+  size: 99930
+  date: '1996-06-01T13:22:28'
+  crc: '0xe16fab34'
+- name: LOSER.M3
+  size: 151102
+  date: '1996-05-25T19:06:56'
+  crc: '0x5d1430b3'
+- name: LOSER.M4
+  size: 131980
+  date: '1996-05-27T20:04:42'
+  crc: '0x07dd10c0'
+- name: LOSER.TXT
+  size: 3522
+  date: '1996-08-24T15:10:32'
+  crc: '0xa3a942ca'

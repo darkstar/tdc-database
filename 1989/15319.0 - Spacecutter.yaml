@@ -1,0 +1,45 @@
+filename: Spacecutter (1989)(Rainbird Software) [Action].zip
+tdc_id: '15319.0'
+title:
+  box: Spacecutter
+publisher: Rainbird Software
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:29:02'
+  last_modified: '2019-03-01T18:29:02'
+type: zip
+commands:
+  play: CUTTER.EXE
+references:
+  dosid: DOS15747
+  exodos: Spacecutter (1989).zip
+files:
+- name: '--------.---'
+  size: 0
+  date: '1989-07-01T20:14:56'
+- name: CUTTER.EXE
+  size: 69048
+  date: '1990-09-15T20:20:14'
+  crc: '0x395cb451'
+- name: VGA256.BGI
+  size: 3289
+  date: '1989-05-31T01:00:02'
+  crc: '0x55f0b0ba'
+- name: '{1}'
+  size: 150446
+  date: '1989-06-02T16:30:24'
+  crc: '0x2ef7613b'
+- name: '{2}'
+  size: 26834
+  date: '1989-06-02T16:30:06'
+  crc: '0x973df99a'
+- name: '{3}'
+  size: 5946
+  date: '1989-06-02T16:30:54'
+  crc: '0x796a42c4'
+- name: '{4}'
+  size: 16384
+  date: '1989-06-02T16:30:52'
+  crc: '0xdce7075e'

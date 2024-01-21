@@ -1,0 +1,58 @@
+filename: Wacky Wheels v1.1u (Installer) [SWR] (1995)(Kixx XL) [Action].zip
+tdc_id: '7453.12'
+parent_id: '7453.11'
+title:
+  box: Wacky Wheels
+  qualifier: Installer
+publisher: Kixx XL
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2023-03-14T06:53:04'
+  last_modified: '2023-03-14T06:53:04'
+version: 1.1u
+type: zip
+tags:
+- SharewareRegistered
+media: CD-ROM
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: CATALOG.EXE
+  size: 68891
+  date: '1994-10-17T00:00:00'
+  crc: '0xaf5fd2fc'
+- name: DEALERS.EXE
+  size: 9307
+  date: '1994-10-17T00:00:00'
+  crc: '0xd05fa850'
+- name: INSTALL.EXE
+  size: 34127
+  date: '1994-10-17T13:10:00'
+  crc: '0xf417c46a'
+- name: LICENSE.DOC
+  size: 2620
+  date: '1994-10-17T13:10:00'
+  crc: '0x9519bbbc'
+- name: ORDER.FRM
+  size: 5906
+  date: '1994-10-17T00:00:00'
+  crc: '0x24aa357b'
+- name: SWCBBS.EXE
+  size: 5766
+  date: '1994-10-17T00:00:00'
+  crc: '0x145fccc6'
+- name: WW-HELP.EXE
+  size: 17801
+  date: '1994-10-17T13:10:00'
+  crc: '0x1aa9e766'
+- name: WW_REGUP._1
+  size: 992256
+  date: '1994-10-17T13:10:00'
+  crc: '0x2949ec32'
+- name: WW_REGUP._2
+  size: 1457201
+  date: '1994-10-17T13:10:00'
+  crc: '0xe4b8bff3'

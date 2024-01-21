@@ -1,0 +1,28 @@
+filename: Three Player Dodger (1992)(A.Sill) [Action].zip
+tdc_id: '16662.0'
+title:
+  screen: Three Player Dodger
+publisher: A.Sill
+year: '1992'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:51:52'
+  last_modified: '2019-03-01T18:51:52'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: DODGE3.BAS
+  size: 2893
+  date: '1996-01-22T20:05:04'
+  crc: '0x484842fe'
+- name: GO.BAT
+  size: 22
+  date: '2019-01-09T23:59:38'
+  crc: '0x07f1c363'
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1988-10-05T02:00:08'
+  crc: '0x2a44af39'

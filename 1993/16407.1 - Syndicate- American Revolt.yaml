@@ -1,0 +1,143 @@
+filename: Syndicate- American Revolt (demo) (1993)(Electronic Arts, Inc.) [Action, Strategy, Addon].zip
+tdc_id: '16407.1'
+title:
+  screen: 'Syndicate: American Revolt'
+  qualifier: demo
+publisher: Electronic Arts, Inc.
+year: '1993'
+genre:
+- Action
+- Strategy
+- Addon
+language: English
+date:
+  added: '2019-03-01T21:09:34'
+  last_modified: '2019-03-01T21:09:34'
+type: zip
+demo: true
+commands:
+  play: MAIN.EXE
+files:
+- name: DOS4GW.EXE
+  size: 231179
+  date: '1992-11-11T09:01:00'
+  crc: '0x32376422'
+- name: MAIN.EXE
+  size: 391737
+  date: '1993-10-14T15:22:08'
+  crc: '0x20d26354'
+- name: data\
+  size: 0
+  date: '2013-02-02T15:33:32'
+- name: data\COL01.DAT
+  size: 256
+  date: '1993-10-05T15:25:00'
+  crc: '0x1b3772d1'
+- name: data\GAME01.DAT
+  size: 116010
+  date: '1993-10-06T10:42:48'
+  crc: '0x77913442'
+- name: data\GAMEDG.DLL
+  size: 10752
+  date: '1993-08-20T16:22:10'
+  crc: '0x20e21dac'
+- name: data\GAMEFM.DLL
+  size: 19968
+  date: '1993-05-07T17:34:04'
+  crc: '0x5b41b585'
+- name: data\HBLK01.DAT
+  size: 229184
+  date: '1993-10-06T10:52:40'
+  crc: '0xd8e96a36'
+- name: data\HELE-0.ANI
+  size: 104860
+  date: '1993-10-05T15:25:02'
+  crc: '0xd88e5f23'
+- name: data\HFRA-0.ANI
+  size: 71584
+  date: '1993-10-05T15:25:08'
+  crc: '0xdbc666a6'
+- name: data\HPAL01.DAT
+  size: 768
+  date: '1993-10-05T15:25:08'
+  crc: '0xfd43a360'
+- name: data\HPOINTER.DAT
+  size: 3962
+  date: '1993-10-05T15:25:08'
+  crc: '0x50057339'
+- name: data\HPOINTER.TAB
+  size: 42
+  date: '1993-10-05T15:00:02'
+  crc: '0x0ecf607a'
+- name: data\HREQ.DAT
+  size: 30720
+  date: '1993-10-05T15:25:12'
+  crc: '0xdcfcf9c8'
+- name: data\HSPR-0-D.DAT
+  size: 254356
+  date: '1993-10-06T11:21:28'
+  crc: '0x39e59258'
+- name: data\HSPR-0-D.INF
+  size: 12
+  date: '1993-07-19T12:18:32'
+  crc: '0xb12db801'
+- name: data\HSPR-0-D.TAB
+  size: 10812
+  date: '1993-10-06T11:21:28'
+  crc: '0x33128dc9'
+- name: data\HSPR-0.INF
+  size: 12
+  date: '1993-10-06T11:21:28'
+  crc: '0xb12db801'
+- name: data\HSTA-0.ANI
+  size: 3940
+  date: '1993-10-05T15:25:00'
+  crc: '0xd797157e'
+- name: data\MAP20.DAT
+  size: 64932
+  date: '1993-10-06T11:04:46'
+  crc: '0xfd80de41'
+- name: data\MLOAD.DAT
+  size: 64000
+  date: '1993-10-14T16:48:14'
+  crc: '0xd2bd1af2'
+- name: data\MLOAD.PAL
+  size: 768
+  date: '1993-10-14T16:48:18'
+  crc: '0x8046c44f'
+- name: data\MPOINT.DAT
+  size: 190
+  date: '1993-03-19T19:22:30'
+  crc: '0x632d53ef'
+- name: data\MPOINT.TAB
+  size: 18
+  date: '1993-03-19T19:22:32'
+  crc: '0x834fd8b5'
+- name: data\MTITLE.DAT
+  size: 64000
+  date: '1993-10-14T16:48:12'
+  crc: '0x0667a424'
+- name: data\MTITLE.PAL
+  size: 768
+  date: '1993-10-14T16:48:16'
+  crc: '0x8046c44f'
+- name: data\SAMPLE.AD
+  size: 3242
+  date: '1993-10-05T15:00:02'
+  crc: '0xe0cbb9d8'
+- name: data\SAMPLE.OPL
+  size: 3242
+  date: '1993-10-05T15:00:02'
+  crc: '0xe0cbb9d8'
+- name: data\SOUND-D.DAT
+  size: 222160
+  date: '1993-07-12T17:28:22'
+  crc: '0x6857f100'
+- name: data\SOUND-D.TAB
+  size: 928
+  date: '1993-07-12T17:28:26'
+  crc: '0x6812b7a4'
+- name: data\SYNGAME.XMI
+  size: 14566
+  date: '1993-10-05T15:00:02'
+  crc: '0x85c0c8d9'

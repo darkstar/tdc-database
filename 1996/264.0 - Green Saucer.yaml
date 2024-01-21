@@ -1,0 +1,58 @@
+filename: Green Saucer (1996)(Alexandr Gogava) [Action].zip
+tdc_id: '264.0'
+title:
+  screen: Green Saucer
+publisher: Alexandr Gogava
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:06:06'
+  last_modified: '2019-03-02T10:06:06'
+type: zip
+commands:
+  play: GRESAU.EXE
+references:
+  dosid: DOS06332
+  exodos: Green Saucer, The (1992).zip
+files:
+- name: BGIDRIV.TPU
+  size: 31248
+  date: '1997-09-14T20:10:32'
+  crc: '0xa4f5cdcb'
+- name: BGIFONT.TPU
+  size: 54192
+  date: '1997-09-14T20:10:42'
+  crc: '0xf78d6ca5'
+- name: EGAVGA.BGI
+  size: 5554
+  date: '1990-10-04T06:00:00'
+  crc: '0x116c5498'
+- name: GRESAU.EXE
+  size: 105344
+  date: '1998-09-14T03:59:26'
+  crc: '0x3ccfafea'
+- name: GRESAU.PAS
+  size: 63129
+  date: '1998-09-14T03:59:22'
+  crc: '0x27b0b8ab'
+- name: GRESAU.TXT
+  size: 1087
+  date: '1998-09-14T03:56:54'
+  crc: '0x10a4fa6f'
+- name: MOUS1.PAS
+  size: 1119
+  date: '1996-11-23T12:09:52'
+  crc: '0xfb880fe8'
+- name: MOUS1.TPU
+  size: 1696
+  date: '1997-12-05T19:15:26'
+  crc: '0x95f591a2'
+- name: SANS.CHR
+  size: 13596
+  date: '1990-10-04T06:00:00'
+  crc: '0x18438f9b'
+- name: TRIP.CHR
+  size: 16677
+  date: '1990-10-04T06:00:00'
+  crc: '0xba867503'

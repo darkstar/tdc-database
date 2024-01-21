@@ -1,0 +1,64 @@
+filename: Super Solvers- Spellbound! v1.0 (1991)(The Learning Company) [Educational].zip
+tdc_id: '5141.0'
+title:
+  box: 'Super Solvers: Spellbound!'
+publisher: The Learning Company
+year: '1991'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T18:39:36'
+  last_modified: '2023-06-22T10:52:14'
+version: '1.0'
+type: zip
+commands:
+  play: SSB.BAT
+references:
+  mobygames: https://www.mobygames.com/game/11401/super-solvers-spellbound/
+  dosid: DOS04971
+  exodos: Super Solvers Spellbound (1993).zip
+files:
+- name: DESKTOPD.CFG
+  size: 55
+  date: '1991-09-08T08:45:32'
+  crc: '0x3addd152'
+- name: INSTALL.EXE
+  size: 12808
+  date: '1991-10-20T10:29:34'
+  crc: '0x22693d02'
+- name: INSTALL.PDM
+  size: 517
+  date: '1990-04-03T07:52:14'
+  crc: '0x57c60474'
+- name: SSB.BAT
+  size: 384
+  date: '1991-10-01T08:20:10'
+  crc: '0x81c0009c'
+- name: SSB000.DAT
+  size: 241593
+  date: '1991-10-22T11:19:24'
+  crc: '0xebc70a49'
+- name: SSB001.DAT
+  size: 361710
+  date: '1991-10-20T10:20:26'
+  crc: '0x21ffc76f'
+- name: SSB002.DAT
+  size: 361182
+  date: '1991-10-20T10:22:14'
+  crc: '0x568f6706'
+- name: SSB003.DAT
+  size: 359401
+  date: '1991-10-20T10:23:58'
+  crc: '0x4840f26f'
+- name: SSB004.DAT
+  size: 357452
+  date: '1991-10-20T10:25:36'
+  crc: '0x2534e33b'
+- name: SSB005.DAT
+  size: 359970
+  date: '1991-10-20T10:27:22'
+  crc: '0x0794d264'
+- name: SSBPROG.EXE
+  size: 102647
+  date: '1991-10-22T11:54:50'
+  crc: '0x33571fa1'

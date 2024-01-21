@@ -1,0 +1,27 @@
+filename: Paco (1998)(Maikel) [Action].zip
+tdc_id: '10581.0'
+title:
+  screen: Paco
+publisher: Maikel
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2020-02-01T10:51:12'
+  last_modified: '2020-02-01T10:51:12'
+type: zip
+commands:
+  play: PACO.EXE
+files:
+- name: DIV32RUN.DLL
+  size: 329179
+  date: '2019-02-22T19:45:30'
+  crc: '0x44976137'
+- name: PACO.EXE
+  size: 10531
+  date: '2019-02-22T19:45:30'
+  crc: '0xe9fc2962'
+- name: PRUEBA1.FPG
+  size: 145608
+  date: '2019-02-22T19:45:30'
+  crc: '0xf24ffd53'

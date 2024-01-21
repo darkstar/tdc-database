@@ -1,0 +1,33 @@
+filename: Glasses (1994)(Sam Loyd, Christopher McPeck) [Strategy, Puzzle].zip
+tdc_id: '3074.0'
+title:
+  screen: Glasses
+publisher: Sam Loyd, Christopher McPeck
+year: '1994'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-03-01T21:57:14'
+  last_modified: '2019-03-01T21:57:14'
+type: zip
+commands:
+  play: GLASSES.EXE
+files:
+- name: EGAVGA.BGI
+  size: 5554
+  date: '1992-02-18T02:00:00'
+  crc: '0x9b14ff3b'
+- name: GLASSES.EXE
+  size: 34296
+  date: '1994-05-29T07:57:38'
+  crc: '0x13d5cbb2'
+- name: RULES.TXT
+  size: 903
+  date: '1994-05-28T11:58:58'
+  crc: '0xc7a4daad'
+- name: SANS.CHR
+  size: 13596
+  date: '1992-02-18T02:00:00'
+  crc: '0x18438f9b'

@@ -1,0 +1,32 @@
+filename: Puzza (Pl) (1996)(xLand Games) [Strategy, Puzzle].zip
+tdc_id: '10715.0'
+title:
+  screen: Puzza
+publisher: xLand Games
+year: '1996'
+genre:
+- Strategy
+- Puzzle
+language: Polish
+date:
+  added: '2019-03-02T10:16:10'
+  last_modified: '2019-03-02T10:16:10'
+type: zip
+commands:
+  play: PUZZA.EXE
+references:
+  dosid: DOS06210
+  exodos: Puzza (1996).zip
+files:
+- name: PUZZA.DAT
+  size: 2411482
+  date: '1996-03-15T14:16:44'
+  crc: '0x25ea4a35'
+- name: PUZZA.EXE
+  size: 38416
+  date: '1996-10-04T20:38:48'
+  crc: '0xff5de6e6'
+- name: PUZZA.TXT
+  size: 3151
+  date: '2000-12-04T03:18:52'
+  crc: '0xacad8b44'

@@ -1,0 +1,32 @@
+filename: Suburban Commando (1993)(New Line Productions) [Action].zip
+tdc_id: '2843.0'
+title:
+  box: Suburban Commando
+publisher: New Line Productions
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T21:09:12'
+  last_modified: '2019-03-01T21:09:12'
+type: zip
+references:
+  dosid: DOS04927
+  exodos: Suburban Commando (1993).zip
+files:
+- name: commando.exe
+  size: 101010
+  date: '1994-09-09T01:00:12'
+  crc: '0xbc46c16c'
+- name: data.dat
+  size: 1202048
+  date: '2000-06-17T04:40:10'
+  crc: '0x4599df31'
+- name: sc.set
+  size: 4
+  date: '2000-06-17T04:41:04'
+  crc: '0x4e9ab4fc'
+- name: setup.exe
+  size: 7736
+  date: '1994-09-09T01:00:32'
+  crc: '0x3f78996e'

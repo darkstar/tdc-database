@@ -1,0 +1,50 @@
+filename: Moraff's Monster Bridge v2.1 [SW] (1993)(MoraffWare) [Strategy].zip
+tdc_id: '14346.3'
+title:
+  screen: Moraff's Monster Bridge
+publisher: MoraffWare
+year: '1993'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T19:15:14'
+  last_modified: '2019-03-01T19:15:14'
+version: '2.1'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: MBRIDGE.EXE
+references:
+  dosid: DOS06167
+  exodos: Moraff's Monster Bridge (1992).zip
+files:
+- name: 320X200.FNT
+  size: 2576
+  date: '2000-03-05T00:00:00'
+  crc: '0x49bff601'
+- name: 360X480.FNT
+  size: 6164
+  date: '2000-03-05T00:00:00'
+  crc: '0x312f458b'
+- name: CASPIC2
+  size: 236457
+  date: '2000-03-05T00:00:00'
+  crc: '0xb41c186f'
+- name: EHOUT.FNT
+  size: 6900
+  date: '2000-03-05T00:00:00'
+  crc: '0x48c49f79'
+- name: MBRIDGE.EXE
+  size: 73346
+  date: '2000-03-05T00:00:00'
+  crc: '0xb40d922c'
+- name: README.BAT
+  size: 424
+  date: '2000-03-05T00:00:00'
+  crc: '0xb94548d8'
+- name: V
+  size: 1107
+  date: '2000-03-05T00:00:00'
+  crc: '0xf7bbd357'

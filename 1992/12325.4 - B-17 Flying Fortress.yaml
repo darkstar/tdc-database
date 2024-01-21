@@ -1,0 +1,57 @@
+filename: B-17 Flying Fortress version 2.0 upgrade (Installer) (1992)(MicroProse Software, Inc.) [Action, Simulation, Addon].zip
+tdc_id: '12325.4'
+title:
+  screen: B-17 Flying Fortress
+publisher: MicroProse Software, Inc.
+year: '1992'
+genre:
+- Action
+- Simulation
+- Addon
+language: English
+date:
+  added: '2019-03-01T18:41:20'
+  last_modified: '2019-03-01T18:41:20'
+type: zip
+installer: true
+patch: true
+files:
+- name: B17.CFG
+  size: 24
+  date: '1992-09-16T09:39:30'
+  crc: '0xcc969b95'
+- name: B17.EXE
+  size: 310255
+  date: '1992-10-22T12:52:10'
+  crc: '0x03378535'
+- name: DRIVERS\
+  size: 0
+  date: '1994-02-14T20:10:52'
+- name: DRIVERS\MGA.DRV
+  size: 10506
+  date: '1992-10-22T12:52:08'
+  crc: '0x427b51c8'
+- name: DRIVERS\WGA.DRV
+  size: 10912
+  date: '1992-10-22T12:52:10'
+  crc: '0xd9201549'
+- name: INSTALL.EXE
+  size: 25865
+  date: '1992-10-14T14:33:56'
+  crc: '0xfbfd0411'
+- name: READ.ME
+  size: 6381
+  date: '1992-10-22T09:56:54'
+  crc: '0xe805f3da'
+- name: _INDEX
+  size: 35194
+  date: '1992-09-14T17:07:28'
+  crc: '0x4e6e6130'
+- name: _INSTALL
+  size: 3021
+  date: '1992-10-26T12:53:36'
+  crc: '0x3a7777b6'
+- name: _NEWRES
+  size: 33401
+  date: '1992-09-14T17:07:06'
+  crc: '0x7e739cf5'

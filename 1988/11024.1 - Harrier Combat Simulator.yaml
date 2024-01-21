@@ -1,0 +1,105 @@
+filename: Harrier Combat Simulator r240488 (1988)(Mindscape, Inc.) [Simulation].zip
+tdc_id: '11024.1'
+title:
+  box: Harrier Combat Simulator
+publisher: Mindscape, Inc.
+year: '1988'
+genre: Simulation
+language: English
+date:
+  added: '2022-06-23T11:06:32'
+  last_modified: '2022-06-23T11:06:32'
+release: '240488'
+type: zip
+references:
+  dosid: DOS05902
+  exodos: Harrier Combat Simulator (1987).zip
+files:
+- name: DEMO.DAT
+  size: 3000
+  date: '1988-04-19T14:22:20'
+  crc: '0xdbb1b451'
+- name: DEMOLIST.DAT
+  size: 65
+  date: '1980-01-01T02:06:28'
+  crc: '0xcb6b3bba'
+- name: FASTDEMO.DAT
+  size: 3000
+  date: '1988-03-01T19:08:54'
+  crc: '0xdbb1b451'
+- name: HARRIER.BA_
+  size: 35
+  date: '1988-04-19T14:21:58'
+  crc: '0xf92de115'
+- name: HARRIER.COM
+  size: 301
+  date: '1980-01-01T00:00:00'
+  crc: '0xfcc67d69'
+- name: HARRIER.HRD
+  size: 46
+  date: '1988-04-12T17:34:08'
+  crc: '0x04b57181'
+- name: HLOAD.LOD
+  size: 16384
+  date: '1988-04-19T14:21:18'
+  crc: '0x0f8b92d9'
+- name: IBMBIO.COM
+  size: 4736
+  date: '1983-10-20T14:00:00'
+  crc: '0xda98a5cb'
+- name: INSTALL.EXE
+  size: 16240
+  date: '1987-09-15T12:52:56'
+  crc: '0x3f7e991d'
+- name: MAKEDAT.BAT
+  size: 19
+  date: '1988-02-19T14:16:08'
+  crc: '0x978ad5c3'
+- name: MLOAD.LOD
+  size: 16384
+  date: '1988-04-19T14:20:48'
+  crc: '0x29780508'
+- name: MLOAD2.LOD
+  size: 16384
+  date: '1988-04-19T14:21:38'
+  crc: '0xb862d6e8'
+- name: SAVELIST.DAT
+  size: 65
+  date: '1988-04-19T14:21:44'
+  crc: '0x4e3c4ba3'
+- name: SETFIXED.BAT
+  size: 435
+  date: '1988-04-12T17:33:30'
+  crc: '0xb6c65685'
+- name: SFH.EXE
+  size: 353426
+  date: '1988-04-24T16:52:22'
+  crc: '0x02780898'
+- name: SLODEMOA.DAT
+  size: 3000
+  date: '1980-01-01T04:18:40'
+  crc: '0x244cce90'
+- name: SLODEMOB.DAT
+  size: 3000
+  date: '1980-01-01T02:19:06'
+  crc: '0x67511085'
+- name: SLODEMOC.DAT
+  size: 3000
+  date: '1980-01-01T02:06:28'
+  crc: '0x8c03daa3'
+- name: SLOWDEMO.DAT
+  size: 3000
+  date: '1980-01-01T02:05:24'
+  crc: '0xf2bd176e'
+- name: STARTUP.EXE
+  size: 2382
+  date: '1988-04-19T18:32:56'
+  crc: '0x7fb85896'
+- name: STARTUP2.EXE
+  size: 2654
+  date: '1988-04-19T18:33:20'
+  crc: '0x7918c457'
+- name: UNINSTAL.BAT
+  size: 319
+  date: '1987-11-04T12:03:14'
+  crc: '0xe1e0f97d'

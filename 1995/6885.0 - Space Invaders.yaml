@@ -1,0 +1,31 @@
+filename: Space Invaders (1995)(Paul S. Reid) [Action].zip
+tdc_id: '6885.0'
+title:
+  screen: Space Invaders
+publisher: Paul S. Reid
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T09:03:20'
+  last_modified: '2019-03-02T09:03:20'
+type: zip
+commands:
+  play: INVADERS.COM
+files:
+- name: INVADERS.COM
+  size: 9051
+  date: '1995-08-15T00:00:36'
+  crc: '0xad283edd'
+- name: INVADERS.DOC
+  size: 10004
+  date: '1995-08-16T00:14:22'
+  crc: '0x728baee7'
+- name: INVADERS.ICO
+  size: 2102
+  date: '1995-08-16T23:11:40'
+  crc: '0x050198e9'
+- name: INVADERS.PIF
+  size: 967
+  date: '1995-08-16T00:00:00'
+  crc: '0xcd45411a'

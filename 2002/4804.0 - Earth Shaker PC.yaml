@@ -1,0 +1,29 @@
+filename: Earth Shaker PC (2002)(David Pegg) [Strategy, Action].zip
+tdc_id: '4804.0'
+title:
+  screen: Earth Shaker PC
+publisher: David Pegg
+year: '2002'
+genre:
+- Strategy
+- Action
+language: English
+date:
+  added: '2019-03-02T10:55:58'
+  last_modified: '2019-03-02T10:55:58'
+type: zip
+commands:
+  play: EARTH.EXE
+files:
+- name: EARTH.DAT
+  size: 45959
+  date: '2002-09-08T22:24:14'
+  crc: '0xf5e3a732'
+- name: EARTH.EXE
+  size: 120030
+  date: '2002-09-10T22:10:52'
+  crc: '0xee8b484e'
+- name: readme.txt
+  size: 1055
+  date: '2002-09-08T23:39:36'
+  crc: '0x040fff38'

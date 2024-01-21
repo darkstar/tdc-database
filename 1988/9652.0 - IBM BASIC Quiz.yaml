@@ -1,0 +1,26 @@
+filename: IBM BASIC Quiz (1988)(Softdisk Publishing) [Trivia].zip
+tdc_id: '9652.0'
+title:
+  box: IBM BASIC Quiz
+publisher: Softdisk Publishing
+year: '1988'
+genre: Trivia
+language: English
+date:
+  added: '2019-03-01T18:26:18'
+  last_modified: '2019-03-01T18:26:18'
+type: zip
+commands:
+  play: BASQUIZ.COM
+references:
+  dosid: DOS02689
+  exodos: IBM BASIC Quiz, The (1989).zip
+files:
+- name: BASQUIZ.COM
+  size: 34121
+  date: '1988-11-21T16:13:54'
+  crc: '0xebd7be93'
+- name: BASQUIZ.TXT
+  size: 2784
+  date: '1988-11-30T17:14:20'
+  crc: '0x01abd67a'

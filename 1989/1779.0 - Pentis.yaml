@@ -1,0 +1,33 @@
+filename: Pentis v2.1 [SW] (1989)(Luis E. Nale) [Action, Strategy].zip
+tdc_id: '1779.0'
+title:
+  screen: Pentis
+publisher: Luis E. Nale
+year: '1989'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:28:38'
+  last_modified: '2019-03-01T18:28:38'
+version: '2.1'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: PENTIS.EXE
+files:
+- name: PENTIS
+  size: 900
+  date: '1990-08-11T18:24:34'
+  crc: '0x781f42e3'
+- name: PENTIS.CFG
+  size: 30
+  date: '1990-08-11T18:24:34'
+  crc: '0xa81d4028'
+- name: PENTIS.EXE
+  size: 64795
+  date: '1989-12-02T12:56:26'
+  crc: '0x5beb40f2'

@@ -1,0 +1,149 @@
+filename: Patrician, The CD (Installer) (En)(Fr) (1994)(Ascon (U.K.) Ltd.) [Simulation, Strategy].zip
+tdc_id: '1486.7'
+title:
+  box: The Patrician CD
+publisher: Ascon (U.K.) Ltd.
+year: '1994'
+genre:
+- Simulation
+- Strategy
+language:
+- English
+- French
+date:
+  added: '2022-09-01T13:52:36'
+  last_modified: '2022-09-01T13:52:36'
+type: zip
+installer: true
+commands:
+  play: START.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/patrician
+  dosid: DOS03918
+  exodos: Patrician, The (1992).zip
+files:
+- name: ANIS\
+  size: 0
+  date: '1994-02-03T07:39:56'
+- name: ANIS\ABWEHR.ANI
+  size: 2979763
+  date: '1994-02-03T07:40:04'
+  crc: '0xc7e2e359'
+- name: ANIS\BELAGER.ANI
+  size: 2783671
+  date: '1994-02-03T07:40:12'
+  crc: '0x078b4056'
+- name: ANIS\FEUER.ANI
+  size: 1896371
+  date: '1994-02-03T07:40:18'
+  crc: '0xf1e3ce38'
+- name: ANIS\GEWUERZ.ANI
+  size: 777971
+  date: '1994-02-03T07:40:20'
+  crc: '0xf497c97b'
+- name: ANIS\INTRO1.ANI
+  size: 2898932
+  date: '1994-02-03T07:40:26'
+  crc: '0xd9c595e5'
+- name: ANIS\INTRO2.ANI
+  size: 1561505
+  date: '1994-02-03T07:40:32'
+  crc: '0x89d819ff'
+- name: ANIS\PEST.ANI
+  size: 1140238
+  date: '1994-02-03T07:40:34'
+  crc: '0xa51d56ec'
+- name: ANIS\PIRATEN.ANI
+  size: 1185150
+  date: '1994-02-03T07:40:38'
+  crc: '0xa995e1e3'
+- name: ANIS\STURM.ANI
+  size: 1951859
+  date: '1994-02-03T07:40:42'
+  crc: '0x73e6b703'
+- name: ANIS\WRACK.ANI
+  size: 1533022
+  date: '1994-02-03T07:40:46'
+  crc: '0x58131356'
+- name: ENGLISH\
+  size: 0
+  date: '1994-02-03T07:39:44'
+- name: ENGLISH\F0.EXE
+  size: 212889
+  date: '1994-02-03T07:39:44'
+  crc: '0x0770e692'
+- name: ENGLISH\F1.EXE
+  size: 1263569
+  date: '1994-02-03T07:39:50'
+  crc: '0xae86a899'
+- name: ENGLISH\F2.EXE
+  size: 330192
+  date: '1994-02-03T07:39:44'
+  crc: '0x152ea9e4'
+- name: ENGLISH\F3.EXE
+  size: 18207
+  date: '1994-02-03T07:39:44'
+  crc: '0x743175fc'
+- name: ENGLISH\F6.EXE
+  size: 53705
+  date: '1994-02-03T07:39:46'
+  crc: '0xbf5111ec'
+- name: ENGLISH\F7.EXE
+  size: 46475
+  date: '1994-02-03T07:39:46'
+  crc: '0x36df3709'
+- name: ENGLISH\F9.EXE
+  size: 28670
+  date: '1994-02-03T07:39:46'
+  crc: '0xa9e93d27'
+- name: ENGLISH\INSTALL.EXE
+  size: 23840
+  date: '1994-02-03T07:39:50'
+  crc: '0x6e550b72'
+- name: ENGLISH\LHA213.EXE
+  size: 44416
+  date: '1994-02-03T07:39:50'
+  crc: '0xd873d490'
+- name: FRANCE\
+  size: 0
+  date: '1994-02-03T07:39:50'
+- name: FRANCE\F0.EXE
+  size: 215673
+  date: '1994-02-03T07:39:52'
+  crc: '0xe6b70fb4'
+- name: FRANCE\F1.EXE
+  size: 1264324
+  date: '1994-02-03T07:39:56'
+  crc: '0x89904550'
+- name: FRANCE\F2.EXE
+  size: 330192
+  date: '1994-02-03T07:39:50'
+  crc: '0x152ea9e4'
+- name: FRANCE\F3.EXE
+  size: 18042
+  date: '1994-02-03T07:39:52'
+  crc: '0x0b57326c'
+- name: FRANCE\F6.EXE
+  size: 53705
+  date: '1994-02-03T07:39:50'
+  crc: '0xbf5111ec'
+- name: FRANCE\F7.EXE
+  size: 46475
+  date: '1994-02-03T07:39:52'
+  crc: '0x36df3709'
+- name: FRANCE\F9.EXE
+  size: 29690
+  date: '1994-02-03T07:39:52'
+  crc: '0xbaf80ec2'
+- name: FRANCE\INSTALL.EXE
+  size: 23792
+  date: '1994-02-03T07:39:56'
+  crc: '0x1c7738df'
+- name: FRANCE\LHA213.EXE
+  size: 44416
+  date: '1994-02-03T07:39:56'
+  crc: '0xd873d490'
+- name: START.EXE
+  size: 7072
+  date: '1994-02-03T07:39:44'
+  crc: '0xe7d044dd'

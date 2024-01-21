@@ -1,0 +1,28 @@
+filename: Connect Four (1995)(Michael Goldgeier) [Strategy].zip
+tdc_id: '3476.0'
+title:
+  screen: Connect Four
+publisher: Michael Goldgeier
+year: '1995'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T07:31:56'
+  last_modified: '2019-03-02T07:31:56'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: 4CONNECT.BAS
+  size: 79439
+  date: '1999-05-10T16:47:58'
+  crc: '0xb4a78662'
+- name: GO.BAT
+  size: 28
+  date: '2018-12-04T20:16:46'
+  crc: '0x632d244f'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

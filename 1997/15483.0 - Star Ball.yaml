@@ -1,0 +1,28 @@
+filename: Star Ball (1997)(Gunne Ekelin) [Action].zip
+tdc_id: '15483.0'
+title:
+  screen: Star Ball
+publisher: Gunne Ekelin
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:37:56'
+  last_modified: '2019-03-02T10:37:56'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 28
+  date: '2018-12-18T11:38:28'
+  crc: '0xee31ae9c'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: STARBALL.BAS
+  size: 9248
+  date: '1998-01-18T09:06:08'
+  crc: '0xb120ca5a'

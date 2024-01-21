@@ -1,0 +1,44 @@
+filename: Accordion (1989)(George Leritte) [Strategy, Cards].zip
+tdc_id: '1632.0'
+title:
+  screen: Accordion
+publisher: George Leritte
+year: '1989'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:27:06'
+  last_modified: '2019-03-01T18:27:06'
+type: zip
+commands:
+  play: ACORDION.EXE
+references:
+  dosid: DOS00489
+  exodos: Accordion (1990).zip
+files:
+- name: ACORDION.DEC
+  size: 3208
+  date: '1998-08-15T20:00:20'
+  crc: '0xbafb722f'
+- name: ACORDION.EXE
+  size: 46336
+  date: '1989-12-14T12:10:28'
+  crc: '0x0af07d76'
+- name: ACORDION.HIS
+  size: 144
+  date: '1998-08-15T20:00:20'
+  crc: '0x0aa0b33d'
+- name: ACORDION.PAK
+  size: 7181
+  date: '1989-12-05T13:21:40'
+  crc: '0xff75da1b'
+- name: ACORDION.TXT
+  size: 3246
+  date: '1989-12-13T17:07:30'
+  crc: '0x0bbda5b3'
+- name: COMPCARD.DEC
+  size: 3152
+  date: '1989-11-16T08:37:50'
+  crc: '0x7df21327'

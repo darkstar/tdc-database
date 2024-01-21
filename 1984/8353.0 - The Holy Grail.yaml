@@ -1,0 +1,30 @@
+filename: Holy Grail, The [DC] (1984)(Hayden Software) [Adventure, Interactive Fiction].zip
+tdc_id: '8353.0'
+title:
+  box: The Holy Grail
+publisher: Hayden Software
+year: '1984'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:24:08'
+  last_modified: '2019-03-01T18:24:08'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: GRAIL.COM
+references:
+  dosid: DOS05908
+  exodos: Holy Grail, The (1984).zip
+files:
+- name: GAME.DAT
+  size: 368640
+  date: '1999-06-03T22:23:44'
+  crc: '0x532e2c34'
+- name: GRAIL.COM
+  size: 528
+  date: '1999-06-04T00:22:22'
+  crc: '0xc7998f62'

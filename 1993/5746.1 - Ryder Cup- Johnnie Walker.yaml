@@ -1,0 +1,36 @@
+filename: Ryder Cup- Johnnie Walker (Installer) (1993)(Ocean Software Ltd.) [Simulation, Sports].zip
+tdc_id: '5746.1'
+title:
+  box: 'Ryder Cup: Johnnie Walker'
+publisher: Ocean Software Ltd.
+year: '1993'
+genre:
+- Simulation
+- Sports
+language: English
+date:
+  added: '2019-03-01T19:18:16'
+  last_modified: '2019-03-01T19:18:16'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK1
+  size: 0
+  date: '1999-12-31T19:00:00'
+- name: DISK2
+  size: 0
+  date: '1999-12-31T19:00:00'
+- name: INSTALL.EXE
+  size: 28723
+  date: '1999-12-31T19:00:00'
+  crc: '0x2cce524a'
+- name: RYDER_1.RNC
+  size: 1427664
+  date: '1999-12-31T19:00:00'
+  crc: '0xabe7043a'
+- name: RYDER_2.RNC
+  size: 706682
+  date: '1999-12-31T19:00:00'
+  crc: '0x008bb769'

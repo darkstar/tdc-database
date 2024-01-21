@@ -1,0 +1,71 @@
+filename: 푸른매 (Ko) [FW] (1995)(Byulbram) [Action].zip
+tdc_id: '10702.0'
+title:
+  screen: 푸른매
+  translation: Blue Falcon
+  transliteration: Pureun Mae
+publisher: Byulbram
+year: '1995'
+genre: Action
+language: Korean
+date:
+  added: '2019-03-02T08:58:22'
+  last_modified: '2023-07-27T17:56:02'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: MAIN.EXE
+references:
+  dosid: DOS07829
+  exodos: Blue Falcon 2.0 (1995).zip
+files:
+- name: BF.ANI
+  size: 9562599
+  date: '1980-01-01T00:00:00'
+  crc: '0x52c21f0e'
+- name: BF.CNF
+  size: 17
+  date: '1980-01-01T00:00:00'
+  crc: '0x54bc56cd'
+- name: BF.CON
+  size: 121
+  date: '1980-01-01T00:00:00'
+  crc: '0xecd33604'
+- name: BF.DEM
+  size: 46079
+  date: '1995-08-21T16:37:44'
+  crc: '0xff593da4'
+- name: BF.IDB
+  size: 69324
+  date: '1980-02-06T04:44:52'
+  crc: '0x7201f717'
+- name: BF.IMG
+  size: 2188639
+  date: '1997-12-09T06:05:28'
+  crc: '0x918a620d'
+- name: BF.MMO
+  size: 143324
+  date: '1994-12-15T11:12:44'
+  crc: '0xa5492acb'
+- name: BF.MUS
+  size: 812621
+  date: '1995-10-21T17:45:20'
+  crc: '0x5259c225'
+- name: BF.PCM
+  size: 230881
+  date: '1994-02-17T05:51:44'
+  crc: '0x38a81e28'
+- name: BF.SCO
+  size: 259
+  date: '1997-07-24T14:39:18'
+  crc: '0x0d058f1f'
+- name: BFMANUAL.TXT
+  size: 22570
+  date: '1995-08-24T22:35:32'
+  crc: '0x2bd70070'
+- name: MAIN.EXE
+  size: 187458
+  date: '1997-12-10T15:43:30'
+  crc: '0xaacb5572'

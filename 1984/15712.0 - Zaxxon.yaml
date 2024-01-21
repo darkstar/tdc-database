@@ -1,0 +1,27 @@
+filename: Zaxxon (PCjr) [DC][b8][h1] (1984)(SEGA Enterprises, Inc.) [Action].zip
+tdc_id: '15712.0'
+title:
+  box: Zaxxon
+  qualifier: PCjr
+publisher: SEGA Enterprises, Inc.
+year: '1984'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:20'
+  last_modified: '2019-03-01T18:24:20'
+type: zip
+tags:
+- DOSConversion
+- Hack: 1
+- Bad: 8
+requirements:
+  cpu:
+    min: '8088'
+commands:
+  play: ZAXXON.EXE
+files:
+- name: ZAXXON.EXE
+  size: 15488
+  date: '2004-07-11T19:02:36'
+  crc: '0xcf66c3f6'

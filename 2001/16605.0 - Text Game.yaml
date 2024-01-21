@@ -1,0 +1,30 @@
+filename: Text Game (2001)(Nukem Enterprises) [Adventure, Interactive Fiction].zip
+tdc_id: '16605.0'
+title:
+  screen: Text Game
+publisher: Nukem Enterprises
+year: '2001'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T10:55:48'
+  last_modified: '2019-03-02T10:55:48'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 28
+  date: '2018-12-14T10:59:32'
+  crc: '0xd3dc3000'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: TEXTGAME.BAS
+  size: 20169
+  date: '2001-06-23T00:44:44'
+  crc: '0x56349bf1'

@@ -1,0 +1,32 @@
+filename: Lassi Quest (1999)(Visy and Yannis) [Adventure].zip
+tdc_id: '4385.0'
+title:
+  screen: Lassi Quest
+publisher: Visy and Yannis
+year: '1999'
+genre: Adventure
+language: English
+date:
+  added: '2018-04-08T12:22:48'
+  last_modified: '2018-04-08T12:22:48'
+type: zip
+media: Download
+commands:
+  play: LASSI.EXE
+files:
+- name: CWSDPMI.EXE
+  size: 20473
+  date: '1996-12-24T23:32:00'
+  crc: '0x80fa6999'
+- name: EMU387.DXE
+  size: 30184
+  date: '1996-01-23T22:07:50'
+  crc: '0xd4f1b2e2'
+- name: FILE_ID.DIZ
+  size: 95
+  date: '2000-12-06T20:25:00'
+  crc: '0xe007b66f'
+- name: LASSI.EXE
+  size: 1765672
+  date: '2000-12-06T20:13:00'
+  crc: '0x0f343be8'

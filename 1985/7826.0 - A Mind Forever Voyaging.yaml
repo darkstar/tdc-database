@@ -1,0 +1,62 @@
+filename: Mind Forever Voyaging, A r77 (Installer) (1985)(Infocom, Inc.) [Adventure, Interactive Fiction][!].zip
+tdc_id: '7826.0'
+title:
+  box: A Mind Forever Voyaging
+publisher: Infocom, Inc.
+year: '1985'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2022-04-02T08:49:54'
+  last_modified: '2022-04-02T08:49:54'
+release: '77'
+type: zip
+tags:
+- KnownGood
+installer: true
+references:
+  dosid: DOS00782
+  exodos: Mind Forever Voyaging, A (1985).zip
+files:
+- name: AF.EXE
+  size: 13168
+  date: '1985-05-28T13:27:14'
+  crc: '0xac30980c'
+- name: AMFV.COM
+  size: 12640
+  date: '1985-08-16T09:57:08'
+  crc: '0x734e210d'
+- name: AMFV.DAT
+  size: 262018
+  date: '1985-08-14T14:26:52'
+  crc: '0x82818660'
+- name: GAMEDIR.COM
+  size: 62
+  date: '1985-05-31T10:45:50'
+  crc: '0xee6703b0'
+- name: INSTALL.BAT
+  size: 2176
+  date: '1985-08-14T15:20:22'
+  crc: '0x822ca7bc'
+- name: INSTALLH.BAT
+  size: 1152
+  date: '1985-08-06T11:33:24'
+  crc: '0x767dde89'
+- name: SCAN.COM
+  size: 114
+  date: '1985-05-23T11:58:58'
+  crc: '0x15be874f'
+- name: STATLINE.BAT
+  size: 2304
+  date: '1985-06-28T13:27:58'
+  crc: '0xa605f617'
+- name: STORY.BAT
+  size: 16
+  date: '1985-08-16T09:57:42'
+  crc: '0x4ed96f55'
+- name: YES.COM
+  size: 93
+  date: '1984-11-30T12:02:30'
+  crc: '0x01bd6af9'

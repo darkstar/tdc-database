@@ -1,0 +1,88 @@
+filename: Big Red Adventure, The (Installer) (En)(It)(De)(Fr) (1995)(Core Design Ltd.) [Adventure].zip
+tdc_id: '12621.2'
+title:
+  box: The Big Red Adventure
+publisher: Core Design Ltd.
+year: '1995'
+genre: Adventure
+language:
+- English
+- French
+- Italian
+- German
+date:
+  added: '2019-03-02T07:29:56'
+  last_modified: '2019-03-02T07:29:56'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK1_0.ZIP
+  size: 674410
+  date: '1995-01-25T15:46:16'
+  crc: '0xc4a6a425'
+- name: DISK1_1.ZIP
+  size: 1399076
+  date: '1995-01-23T23:22:30'
+  crc: '0x1063dd52'
+- name: DISK1_2.ZIP
+  size: 1448268
+  date: '1995-01-23T23:34:46'
+  crc: '0x311b2034'
+- name: DISK1_3.ZIP
+  size: 627770
+  date: '1995-01-23T23:41:10'
+  crc: '0x3b6ffad5'
+- name: DISK1_4.ZIP
+  size: 314920
+  date: '1995-01-26T01:05:28'
+  crc: '0x80e36daf'
+- name: DISK2_0.ZIP
+  size: 1209428
+  date: '1995-01-23T23:19:28'
+  crc: '0x65e31209'
+- name: DISK2_1.ZIP
+  size: 1321838
+  date: '1995-01-25T21:34:46'
+  crc: '0x47047727'
+- name: DISK2_2.ZIP
+  size: 1370912
+  date: '1995-01-25T15:02:52'
+  crc: '0xaaeceb12'
+- name: DISK2_3.ZIP
+  size: 1377289
+  date: '1995-01-26T01:05:12'
+  crc: '0x56c55b6c'
+- name: DISK2_4.ZIP
+  size: 1445379
+  date: '1995-01-24T00:01:44'
+  crc: '0xd9dcdd23'
+- name: DISK3_2.ZIP
+  size: 718170
+  date: '1995-01-23T23:38:42'
+  crc: '0x635b7dd5'
+- name: DISK3_3.ZIP
+  size: 988252
+  date: '1995-01-23T23:46:12'
+  crc: '0x5a01c221'
+- name: DISK3_4.ZIP
+  size: 1426725
+  date: '1995-01-24T00:02:44'
+  crc: '0x75ab7566'
+- name: DISK4_4.ZIP
+  size: 1241557
+  date: '1995-01-24T00:04:36'
+  crc: '0x13c21dd3'
+- name: INSTALL.EXE
+  size: 176268
+  date: '1995-01-24T23:31:50'
+  crc: '0x79a55591'
+- name: PKUNZIP.EXE
+  size: 29378
+  date: '1993-02-01T02:04:16'
+  crc: '0x00832770'
+- name: TBRA.ZIP
+  size: 322719
+  date: '1995-01-25T14:58:28'
+  crc: '0x0c6a9e87'

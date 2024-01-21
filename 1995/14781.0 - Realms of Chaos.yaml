@@ -1,0 +1,31 @@
+filename: Realms of Chaos (Installer) [SW] (1995)(Apogee Software, Ltd.) [Action].zip
+tdc_id: '14781.0'
+title:
+  screen: Realms of Chaos
+publisher: Apogee Software, Ltd.
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2011-06-20T01:56:02'
+  last_modified: '2011-06-20T01:56:02'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 456
+  date: '1995-11-10T13:00:00'
+  crc: '0x85d11a83'
+- name: INSTALL.EXE
+  size: 142197
+  date: '1995-11-10T13:00:00'
+  crc: '0xf18d0d96'
+- name: ROCSW10.SHR
+  size: 2688847
+  date: '1995-11-10T13:00:00'
+  crc: '0x7a96d5b8'

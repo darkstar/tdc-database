@@ -1,0 +1,42 @@
+filename: Zork Zero- The Revenge of Megaboz r393 (1989)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '15707.1'
+title:
+  box: 'Zork Zero: The Revenge of Megaboz'
+publisher: Infocom, Inc.
+year: '1989'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2022-06-11T07:16:22'
+  last_modified: '2022-11-15T15:19:11'
+release: '393'
+type: zip
+commands:
+  play: ZORKZERO.EXE /dm
+references:
+  mobygames: https://www.mobygames.com/game/dos/zork-zero-the-revenge-of-megaboz
+  dosid: DOS05821
+  exodos: Zork Zero - The Revenge of Megaboz (1988).zip
+files:
+- name: ZORK0.CG1
+  size: 244507
+  date: '1989-07-14T16:42:50'
+  crc: '0x180f5fa6'
+- name: ZORK0.EG1
+  size: 333654
+  date: '1989-07-13T17:48:04'
+  crc: '0xdc4dec33'
+- name: ZORK0.MG1
+  size: 226436
+  date: '1989-07-10T11:35:00'
+  crc: '0x41e156f2'
+- name: ZORK0.ZIP
+  size: 300032
+  date: '1989-07-14T19:00:16'
+  crc: '0x3da54ffa'
+- name: ZORKZERO.EXE
+  size: 47494
+  date: '1989-07-14T16:57:08'
+  crc: '0x4c164f13'

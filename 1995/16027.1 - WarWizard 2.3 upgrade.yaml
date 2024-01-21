@@ -1,0 +1,35 @@
+filename: WarWizard 2.3 upgrade [SW] (1995)(MicroGenesis) [Role-Playing (RPG), Addon].zip
+tdc_id: '16027.1'
+title:
+  screen: WarWizard 2.3 upgrade
+publisher: MicroGenesis
+year: '1995'
+genre:
+- Role-Playing (RPG)
+- Addon
+language: English
+date:
+  added: '2021-06-29T08:39:26'
+  last_modified: '2021-06-29T08:39:26'
+type: zip
+tags:
+- Shareware
+media: Download
+patch: true
+files:
+- name: FILE_ID.DIZ
+  size: 22
+  date: '1987-07-17T07:27:36'
+  crc: '0xe4eb9393'
+- name: PATCH.BAT
+  size: 346
+  date: '1995-12-20T01:05:26'
+  crc: '0x526d30b8'
+- name: README_P.DOC
+  size: 588
+  date: '1994-11-01T23:43:12'
+  crc: '0xd88ed774'
+- name: WW_PATCH.EXE
+  size: 448754
+  date: '1995-12-20T00:25:32'
+  crc: '0x54b17789'

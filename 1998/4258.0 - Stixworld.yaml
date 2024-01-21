@@ -1,0 +1,71 @@
+filename: Stixworld [SW] (1998)(PsychoHazard Software, Greg Alt & Sean Igo) [Action].zip
+tdc_id: '4258.0'
+title:
+  screen: Stixworld
+publisher: PsychoHazard Software, Greg Alt & Sean Igo
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2016-02-16T23:33:00'
+  last_modified: '2016-02-16T23:33:00'
+type: zip
+tags:
+- Shareware
+media: Download
+references:
+  dosid: DOS04874
+  exodos: StixWorld (1998).zip
+files:
+- name: STX.CFG
+  size: 12
+  date: '2013-04-04T18:59:44'
+  crc: '0x56f8b14e'
+- name: config.exe
+  size: 19984
+  date: '1998-08-16T04:36:28'
+  crc: '0xbdc0eac7'
+- name: desc.sdi
+  size: 59
+  date: '1998-08-16T04:36:28'
+  crc: '0xa48800e3'
+- name: dosreg.exe
+  size: 36231
+  date: '1998-08-16T04:36:30'
+  crc: '0xf5e58428'
+- name: file_id.diz
+  size: 380
+  date: '1998-08-16T05:45:10'
+  crc: '0xa8a512e0'
+- name: packing.lst
+  size: 681
+  date: '1998-08-16T05:53:46'
+  crc: '0x311b2b45'
+- name: readme.txt
+  size: 11347
+  date: '1998-08-16T04:36:30'
+  crc: '0x9c21bbb5'
+- name: regdata.dat
+  size: 6024
+  date: '1998-08-16T04:36:32'
+  crc: '0x81326d3f'
+- name: register.hlp
+  size: 15720
+  date: '1998-08-16T04:36:32'
+  crc: '0x5becfc14'
+- name: stx.exe
+  size: 1224807
+  date: '1998-08-15T07:30:40'
+  crc: '0x03adc655'
+- name: vendor.doc
+  size: 7746
+  date: '1998-08-16T04:36:46'
+  crc: '0x4c0c6e62'
+- name: vendor.txt
+  size: 4359
+  date: '1998-08-19T14:35:56'
+  crc: '0x6e817172'
+- name: winreg.exe
+  size: 128263
+  date: '1998-08-16T04:36:52'
+  crc: '0x0de5553f'

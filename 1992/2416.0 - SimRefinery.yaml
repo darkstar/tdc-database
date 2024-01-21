@@ -1,0 +1,80 @@
+filename: SimRefinery (1992)(Chevron, Maxis Software Inc.) [Simulation].zip
+tdc_id: '2416.0'
+title:
+  box: SimRefinery
+publisher: Chevron, Maxis Software Inc.
+year: '1992'
+genre: Simulation
+language: English
+date:
+  added: '2020-06-05T01:05:16'
+  last_modified: '2020-06-05T01:05:16'
+type: zip
+references:
+  dosid: DOS16101
+  exodos: SimRefinery (1992).zip
+files:
+- name: FIRSTRUN.DAT
+  size: 26252
+  date: '1992-10-16T15:36:54'
+  crc: '0x2e8cd7c2'
+- name: HELLO.R
+  size: 117148
+  date: '1992-10-15T10:37:26'
+  crc: '0xd5bd5683'
+- name: INTRO.BAT
+  size: 19
+  date: '1992-10-12T15:21:48'
+  crc: '0xb3edd433'
+- name: SIMREF.CFG
+  size: 6
+  date: '1992-04-10T17:23:18'
+  crc: '0x462ecc20'
+- name: SIMREF.EXE
+  size: 304352
+  date: '1992-10-16T10:19:48'
+  crc: '0x032a6ed8'
+- name: SIMREF.FNT
+  size: 5120
+  date: '1992-06-30T10:46:08'
+  crc: '0x11f82b03'
+- name: SIMREF.HLP
+  size: 2645
+  date: '1992-10-06T13:20:22'
+  crc: '0xd92bc39d'
+- name: SIMREF.PAL
+  size: 48
+  date: '1992-03-20T11:03:50'
+  crc: '0x0ab0e363'
+- name: SIMREF.TBL
+  size: 16000
+  date: '1992-09-04T16:30:50'
+  crc: '0x1e30f76b'
+- name: SIMREF.TIL
+  size: 1792
+  date: '1992-06-24T14:59:34'
+  crc: '0x916c9876'
+- name: SIMREF.TTL
+  size: 153600
+  date: '1992-07-15T13:26:10'
+  crc: '0x855fad4a'
+- name: SIMREF16.TIL
+  size: 165248
+  date: '1992-09-04T15:38:30'
+  crc: '0xfa84ec5b'
+- name: SIMREF4.TIL
+  size: 10560
+  date: '1992-09-04T16:49:52'
+  crc: '0xe42a6bc5'
+- name: SRCHOP.SPR
+  size: 8192
+  date: '1992-07-28T12:06:26'
+  crc: '0xa700d2c9'
+- name: SRCHOP4.SPR
+  size: 128
+  date: '1992-07-29T13:32:26'
+  crc: '0x71bac014'
+- name: SRTRUCK.SPR
+  size: 1024
+  date: '1992-08-05T09:31:16'
+  crc: '0xd205b965'

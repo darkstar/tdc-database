@@ -1,0 +1,46 @@
+filename: Block v1.1 (1994)(Jou-Nan Chen) [Strategy, Action].zip
+tdc_id: '2972.0'
+title:
+  screen: Block
+publisher: Jou-Nan Chen
+year: '1994'
+genre:
+- Strategy
+- Action
+language: English
+date:
+  added: '2019-03-01T21:54:50'
+  last_modified: '2019-03-01T21:54:50'
+version: '1.1'
+type: zip
+commands:
+  play: BLOCK.EXE
+files:
+- name: 0808ART.FNT
+  size: 768
+  date: '1997-05-24T10:56:58'
+  crc: '0x5d954872'
+- name: BLOCK.DAT
+  size: 448
+  date: '1997-05-24T10:56:56'
+  crc: '0x279264c1'
+- name: BLOCK.EXE
+  size: 11616
+  date: '2000-02-21T23:49:28'
+  crc: '0x340eae32'
+- name: BLOCK.PAS
+  size: 7208
+  date: '1997-05-25T10:38:18'
+  crc: '0x90c4067b'
+- name: BLOCK.PIC
+  size: 8000
+  date: '1997-05-24T10:57:00'
+  crc: '0x9ae71669'
+- name: SVGA256.TPU
+  size: 10128
+  date: '1997-05-24T10:57:00'
+  crc: '0x464532a0'
+- name: TXT.TPU
+  size: 10976
+  date: '1997-05-24T10:57:00'
+  crc: '0xc16faa09'

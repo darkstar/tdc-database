@@ -1,0 +1,72 @@
+filename: Design Your Own Railroad v1.11 (Installer) (1991)(Abracadata Ltd.) [Simulation, Strategy, Editor].zip
+tdc_id: '13095.8'
+parent_id: '13095.7'
+title:
+  box: Design Your Own Railroad
+  qualifier: Installer
+publisher: Abracadata Ltd.
+year: '1991'
+genre:
+- Simulation
+- Strategy
+- Editor
+language: English
+date:
+  added: '2023-03-22T14:05:32'
+  last_modified: '2023-03-22T14:05:32'
+version: '1.11'
+type: zip
+media: 720K
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/11776/design-your-own-railroad/
+files:
+- name: DFILES.EXE
+  size: 49941
+  date: '1991-12-10T11:50:32'
+  crc: '0x38eeae6d'
+- name: DYOR_111
+  size: 0
+  date: '1991-12-10T11:54:16'
+- name: EPCX.EXE
+  size: 14896
+  date: '1991-12-10T11:50:34'
+  crc: '0xdf424b72'
+- name: INSTALL.EXE
+  size: 35456
+  date: '1991-11-27T13:21:08'
+  crc: '0x636be43d'
+- name: PRINTERS.DEF
+  size: 441
+  date: '1991-07-26T14:57:00'
+  crc: '0x2d9b314d'
+- name: PROGS.EXE
+  size: 179536
+  date: '1991-12-10T11:50:16'
+  crc: '0xcb052331'
+- name: RCONVERT.EXE
+  size: 40966
+  date: '1991-11-21T17:08:12'
+  crc: '0xf4284a54'
+- name: READ.ME
+  size: 11939
+  date: '1991-12-10T11:49:30'
+  crc: '0x9b27f468'
+- name: RFILES.EXE
+  size: 21570
+  date: '1991-12-10T11:50:22'
+  crc: '0xfde90537'
+- name: SETTINGS.BW
+  size: 4232
+  date: '1991-11-21T16:11:58'
+  crc: '0xff87ae5b'
+- name: SETTINGS.STD
+  size: 4500
+  date: '1991-11-21T16:11:58'
+  crc: '0x9e07ad4e'
+- name: VPCX.EXE
+  size: 15873
+  date: '1991-12-10T11:50:38'
+  crc: '0xd0363559'

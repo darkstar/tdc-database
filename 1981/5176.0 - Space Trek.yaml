@@ -1,0 +1,34 @@
+filename: Space Trek (1981)(Dale Harris) [Adventure, Strategy].zip
+tdc_id: '5176.0'
+title:
+  screen: Space Trek
+publisher: Dale Harris
+year: '1981'
+genre:
+- Adventure
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:22:54'
+  last_modified: '2019-03-01T18:22:54'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 28
+  date: '2018-12-07T19:43:36'
+  crc: '0x9c9eb80b'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: SPACTREK.BAS
+  size: 29066
+  date: '1999-01-11T20:05:42'
+  crc: '0x446ff8b9'
+- name: SPACTREK.TXT
+  size: 26681
+  date: '1999-01-11T20:04:14'
+  crc: '0x33b8f13b'

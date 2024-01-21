@@ -1,0 +1,98 @@
+filename: Maiden (1982)(Firebrand Software) [Adventure, Interactive Fiction].zip
+tdc_id: '1020.0'
+title:
+  box: Maiden
+publisher: Firebrand Software
+year: '1982'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:23:00'
+  last_modified: '2019-03-01T18:23:00'
+type: zip
+references:
+  dosid: DOS00079
+  exodos: Maiden (1982).zip
+files:
+- name: AUTOEXEC.BAT
+  size: 18
+  date: '2012-04-26T22:40:36'
+  crc: '0x7bffaf1f'
+- name: COMMAND.COM
+  size: 3231
+  date: '1981-08-04T00:00:00'
+  crc: '0x5016c475'
+- name: LEVEL0
+  size: 256
+  date: '2000-01-01T00:00:00'
+  crc: '0x4f2266f9'
+- name: LEVEL1
+  size: 896
+  date: '2000-01-01T00:00:00'
+  crc: '0x2f12fdf7'
+- name: LEVEL2
+  size: 896
+  date: '2000-01-01T00:00:00'
+  crc: '0x0f4f080f'
+- name: LEVEL3
+  size: 896
+  date: '2000-01-01T00:00:00'
+  crc: '0x9e9b6e72'
+- name: MAID1.BAS
+  size: 17024
+  date: '1982-05-29T00:00:00'
+  crc: '0x821da6af'
+- name: MAID2.BAS
+  size: 17536
+  date: '1982-05-29T00:00:00'
+  crc: '0xe606e7cf'
+- name: MAID3.BAS
+  size: 17024
+  date: '1982-05-29T00:00:00'
+  crc: '0xd2929b78'
+- name: MAID4.BAS
+  size: 1152
+  date: '2012-04-26T22:42:24'
+  crc: '0xd43d4be4'
+- name: MAID4.BA_
+  size: 1152
+  date: '1982-04-25T00:00:00'
+  crc: '0xbce81bb1'
+- name: MAIDEN.BAS
+  size: 9088
+  date: '1982-04-14T00:00:00'
+  crc: '0x9af49e81'
+- name: MAIDI.BAS
+  size: 3072
+  date: '1982-04-14T00:00:00'
+  crc: '0x7b1a40a5'
+- name: MAIDLOGO.BAS
+  size: 2304
+  date: '1982-05-29T00:00:00'
+  crc: '0x48345b93'
+- name: MAIDR.BAS
+  size: 4608
+  date: '1982-04-14T00:00:00'
+  crc: '0x26e6407e'
+- name: MAIDS1
+  size: 128
+  date: '2000-01-01T00:00:00'
+  crc: '0xc00431d6'
+- name: MAIDS2
+  size: 128
+  date: '2000-01-01T00:00:00'
+  crc: '0xde58ad9c'
+- name: MAIDS3
+  size: 128
+  date: '2000-01-01T00:00:00'
+  crc: '0x9df12733'
+- name: MAIDS4
+  size: 128
+  date: '2000-01-01T00:00:00'
+  crc: '0xa49ad04d'
+- name: MAIDX.BAS
+  size: 3840
+  date: '1982-05-29T00:00:00'
+  crc: '0xe80b0882'

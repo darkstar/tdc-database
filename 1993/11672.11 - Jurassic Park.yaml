@@ -1,0 +1,40 @@
+filename: Jurassic Park v1.37 (Installer) (En)(De)(Fr)(It)(Es) (1993)(Ocean of America, Inc.) [Action].zip
+tdc_id: '11672.11'
+title:
+  box: Jurassic Park
+publisher: Ocean of America, Inc.
+year: '1993'
+genre: Action
+language:
+- English
+- Spanish
+- French
+- Italian
+- German
+date:
+  added: '2019-03-01T19:10:52'
+  last_modified: '2022-11-21T16:00:51'
+version: '1.37'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/jurassic-park
+files:
+- name: INSTALL.EXE
+  size: 30782
+  date: '1994-04-01T21:17:06'
+  crc: '0xe4bad5ac'
+- name: JP_1.RNC
+  size: 1425000
+  date: '1994-03-02T14:10:46'
+  crc: '0xb85d8338'
+- name: JP_2.RNC
+  size: 1457664
+  date: '1994-03-02T14:10:46'
+  crc: '0x4950d1ef'
+- name: JP_3.RNC
+  size: 1421423
+  date: '1994-03-02T14:10:46'
+  crc: '0x59daf6b1'

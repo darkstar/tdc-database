@@ -1,0 +1,30 @@
+filename: Text Adventure - Save the Princess (1995)(A.Sill) [Adventure, Interactive Fiction].zip
+tdc_id: '16592.0'
+title:
+  screen: Text Adventure - Save the Princess
+publisher: A.Sill
+year: '1995'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T09:06:12'
+  last_modified: '2019-03-02T09:06:12'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: ADVENTUR.BAS
+  size: 13518
+  date: '1995-12-05T15:55:46'
+  crc: '0x40d1e190'
+- name: GO.BAT
+  size: 28
+  date: '2019-01-10T13:22:24'
+  crc: '0x3477708b'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

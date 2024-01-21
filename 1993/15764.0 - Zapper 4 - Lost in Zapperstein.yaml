@@ -1,0 +1,36 @@
+filename: Zapper 4 - Lost in Zapperstein (Installer) [SW] (1993)(Acord Games) [Action].zip
+tdc_id: '15764.0'
+title:
+  screen: Zapper 4 - Lost in Zapperstein
+  qualifier: Installer
+publisher: Acord Games
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-01-27T04:49:10'
+  last_modified: '2023-03-07T08:18:57'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.BAT
+files:
+- name: $GAM.EXE
+  size: 5795
+  date: '1993-01-21T07:22:12'
+  crc: '0x38aafdca'
+- name: $ZPSTEIN.EXE
+  size: 542228
+  date: '1993-01-21T07:21:58'
+  crc: '0x582d3644'
+- name: INSTALL.BAT
+  size: 178
+  date: '1992-12-29T20:23:16'
+  crc: '0xe89af7c3'
+- name: READTHIS.BAT
+  size: 877
+  date: '1992-12-29T20:23:46'
+  crc: '0x1517075d'

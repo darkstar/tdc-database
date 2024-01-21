@@ -1,0 +1,30 @@
+filename: Othello (198x)(Anonymous, Yutaka Arai) [Strategy, Board].zip
+tdc_id: '1850.0'
+title:
+  screen: Othello
+publisher: Anonymous, Yutaka Arai
+year: 198x
+genre:
+- Strategy
+- Board
+language: English
+date:
+  added: '2019-03-01T18:29:28'
+  last_modified: '2019-03-01T18:29:28'
+type: zip
+media: Download
+commands:
+  play: OTHEL.EXE
+files:
+- name: OTHEL.BAS
+  size: 4341
+  date: '1997-11-10T16:33:52'
+  crc: '0x8bb31499'
+- name: OTHEL.EXE
+  size: 36160
+  date: '1997-11-10T16:36:54'
+  crc: '0xf26f9355'
+- name: gwbasic.exe
+  size: 80592
+  date: '1997-11-10T17:19:20'
+  crc: '0x8462d0e4'

@@ -1,0 +1,35 @@
+filename: Pong (1995)(Jason Maas) [Action].zip
+tdc_id: '3682.0'
+title:
+  screen: Pong
+publisher: Jason Maas
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2015-01-18T15:00:34'
+  last_modified: '2015-01-18T15:00:34'
+type: zip
+media: Download
+commands:
+  play: PONG.EXE
+references:
+  dosid: DOS07022
+  exodos: Pong (1995).zip
+files:
+- name: FILE_ID.DIZ
+  size: 318
+  date: '1995-06-09T23:53:10'
+  crc: '0x16fdb7d0'
+- name: FONT66
+  size: 1766
+  date: '1995-05-15T00:06:36'
+  crc: '0x888db51d'
+- name: PONG.EXE
+  size: 35310
+  date: '1995-06-10T00:37:24'
+  crc: '0x7f102c8b'
+- name: PONG.TXT
+  size: 3100
+  date: '1995-06-10T00:40:02'
+  crc: '0x362ff8f5'

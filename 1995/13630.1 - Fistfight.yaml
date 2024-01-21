@@ -1,0 +1,44 @@
+filename: Fistfight (Installer) (1995)(SunStar Publishing) [Action].zip
+tdc_id: '13630.1'
+title:
+  screen: Fistfight
+publisher: SunStar Publishing
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2020-11-03T15:49:04'
+  last_modified: '2020-11-03T15:49:04'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 78000
+  date: '1996-03-27T06:51:30'
+  crc: '0x204aaa46'
+- name: INSTALL.INI
+  size: 172
+  date: '1996-03-27T06:31:22'
+  crc: '0x5b459896'
+- name: PACK1.PRG
+  size: 1373816
+  date: '1996-03-27T06:24:44'
+  crc: '0xba9c8f5a'
+- name: PACK2.PRG
+  size: 1452664
+  date: '1996-03-27T06:26:26'
+  crc: '0x31af48e0'
+- name: PACK3.PRG
+  size: 1452664
+  date: '1996-03-27T06:28:26'
+  crc: '0x0df94bb4'
+- name: PACK4.PRG
+  size: 1452664
+  date: '1996-03-27T06:30:08'
+  crc: '0x1136ea9b'
+- name: PACK5.PRG
+  size: 817756
+  date: '1996-03-27T06:31:10'
+  crc: '0x2b96f93c'

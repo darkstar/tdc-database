@@ -1,0 +1,27 @@
+filename: Duke Nukum- Episode One- Shrapnel City v2.0 (Installer) [a4] (1991)(Apogee Software, Ltd.) [Action].zip
+tdc_id: '9474.11'
+title:
+  screen: 'Duke Nukum: Episode One: Shrapnel City'
+publisher: Apogee Software, Ltd.
+year: '1991'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:35:42'
+  last_modified: '2019-03-01T18:35:42'
+version: '2.0'
+type: zip
+tags:
+- Alternate: 4
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DN1SW20.SHR
+  size: 251428
+  date: '1991-11-01T14:00:00'
+  crc: '0xd6d1d5cd'
+- name: INSTALL.EXE
+  size: 142018
+  date: '1991-11-01T14:00:00'
+  crc: '0x46891a18'

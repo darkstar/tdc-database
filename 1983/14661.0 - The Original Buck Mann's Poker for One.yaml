@@ -1,0 +1,36 @@
+filename: Original Buck Mann's Poker for One, The (1983)(International PC Owners) [Strategy, Cards].zip
+tdc_id: '14661.0'
+title:
+  screen: The Original Buck Mann's Poker for One
+publisher: International PC Owners
+year: '1983'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:23:16'
+  last_modified: '2019-03-01T18:23:16'
+type: zip
+commands:
+  play: IPPOKER.BAT
+references:
+  dosid: DOS06989
+  exodos: Original Buck Mann's Poker for One, The (1983).zip
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: IPPOKER.BAS
+  size: 33759
+  date: '1983-05-14T01:08:16'
+  crc: '0x53198e5e'
+- name: IPPOKER.BAT
+  size: 16
+  date: '2014-12-01T01:31:08'
+  crc: '0x0b1756ed'
+- name: IPPOKER.DOC
+  size: 5804
+  date: '1983-01-14T22:21:24'
+  crc: '0x443f5152'

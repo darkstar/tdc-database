@@ -1,0 +1,90 @@
+filename: Another Pool v0.98 (1995)(Gerrit Jahn) [Simulation, Sports].zip
+tdc_id: '8663.0'
+title:
+  screen: Another Pool
+publisher: Gerrit Jahn
+year: '1995'
+genre:
+- Simulation
+- Sports
+language: English
+date:
+  added: '2021-10-01T20:26:34'
+  last_modified: '2021-10-01T20:26:34'
+version: '0.98'
+type: zip
+references:
+  dosid: DOS00360
+  exodos: Another Pool (1995).zip
+files:
+- name: APOOL.DOC
+  size: 11051
+  date: '1995-05-26T14:44:32'
+  crc: '0xb5dd751f'
+- name: APOOL.EXE
+  size: 137556
+  date: '1995-05-26T14:29:24'
+  crc: '0x63788ab5'
+- name: COPYING
+  size: 17982
+  date: '1993-11-28T07:15:36'
+  crc: '0x82734a69'
+- name: GO32.EXE
+  size: 78666
+  date: '1994-08-04T23:53:22'
+  crc: '0xf88bd23c'
+- name: KONST.DAT
+  size: 738
+  date: '1995-05-26T14:28:06'
+  crc: '0x90184ef2'
+- name: NCEN29B.FNT
+  size: 15999
+  date: '1993-12-06T14:21:36'
+  crc: '0xaa744da6'
+- name: SRC\
+  size: 0
+  date: '1998-01-20T16:49:30'
+- name: SRC\APOOL.C
+  size: 10927
+  date: '1995-05-26T14:24:10'
+  crc: '0xa21bff9b'
+- name: SRC\APOOL.H
+  size: 7773
+  date: '1995-05-22T13:12:08'
+  crc: '0x2ba71e1c'
+- name: SRC\COMPUTER.C
+  size: 23898
+  date: '1995-05-26T14:17:30'
+  crc: '0x1c8835d8'
+- name: SRC\CREATABL.C
+  size: 4707
+  date: '1995-05-20T15:22:06'
+  crc: '0x96160331'
+- name: SRC\GRAPHICS.C
+  size: 33382
+  date: '1995-05-26T14:21:14'
+  crc: '0x268481bf'
+- name: SRC\MAKEFILE
+  size: 526
+  date: '1995-05-23T23:30:12'
+  crc: '0x3719aa0a'
+- name: SRC\PHYSICS.C
+  size: 18761
+  date: '1995-05-26T14:24:28'
+  crc: '0xb76fb7b7'
+- name: TABLE.DAT
+  size: 392
+  date: '1995-05-24T17:59:44'
+  crc: '0xe8d32195'
+- name: VIDEO.BAT
+  size: 83
+  date: '1995-05-23T23:34:16'
+  crc: '0x7bc3d087'
+- name: XM7X14.FNT
+  size: 2251
+  date: '1993-12-06T14:21:44'
+  crc: '0xb1122c5b'
+- name: XM8X16.FNT
+  size: 2441
+  date: '1993-12-06T14:21:46'
+  crc: '0xa59209b8'

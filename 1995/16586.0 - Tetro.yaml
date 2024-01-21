@@ -1,0 +1,97 @@
+filename: Tetro (1995)(Sergei Bobrovsky) [Action, Strategy].zip
+tdc_id: '16586.0'
+title:
+  screen: Tetro
+publisher: Sergei Bobrovsky
+year: '1995'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-02T09:06:12'
+  last_modified: '2019-03-02T09:06:12'
+type: zip
+commands:
+  play: TETRO95.EXE
+files:
+- name: CLPBOARD.PAL
+  size: 768
+  date: '1995-07-31T20:55:10'
+  crc: '0x92e8ef6e'
+- name: CLPBOARD.PIC
+  size: 64000
+  date: '1995-08-07T07:59:12'
+  crc: '0x895c55f0'
+- name: DEBUG.PAL
+  size: 768
+  date: '1995-09-04T05:27:50'
+  crc: '0x102570d7'
+- name: DEBUG.PIC
+  size: 64000
+  date: '1995-09-04T05:27:50'
+  crc: '0x081d954d'
+- name: EDITOR.PAL
+  size: 768
+  date: '1995-07-31T20:55:10'
+  crc: '0x92e8ef6e'
+- name: EDITOR.PIC
+  size: 64000
+  date: '1995-07-31T20:55:10'
+  crc: '0x5ad94e55'
+- name: MENU.PAL
+  size: 768
+  date: '1995-07-22T20:04:04'
+  crc: '0x41e36cde'
+- name: MENU.PIC
+  size: 64000
+  date: '1995-07-22T20:04:04'
+  crc: '0xff765d22'
+- name: PATTERNS.PAL
+  size: 768
+  date: '1995-09-05T08:24:56'
+  crc: '0x92e8ef6e'
+- name: PATTERNS.PIC
+  size: 64000
+  date: '1995-09-05T08:24:56'
+  crc: '0xbbde83f6'
+- name: PATTERNS.TET
+  size: 18857
+  date: '1998-03-08T22:03:58'
+  crc: '0x980fafa5'
+- name: PLAY.PAL
+  size: 768
+  date: '1995-09-04T05:20:20'
+  crc: '0x627e7869'
+- name: PLAY.PIC
+  size: 64000
+  date: '1995-09-04T05:20:20'
+  crc: '0x9c8ebb6c'
+- name: SAMPLE.BIN
+  size: 8788
+  date: '1995-01-18T01:00:26'
+  crc: '0xfb0d56a5'
+- name: SCORES.BIN
+  size: 8788
+  date: '1995-09-05T06:09:28'
+  crc: '0xd5d53297'
+- name: TETRO.PAL
+  size: 768
+  date: '1994-11-06T15:18:10'
+  crc: '0x06d28d9c'
+- name: TETRO95.EXE
+  size: 26816
+  date: '1998-03-07T17:25:04'
+  crc: '0x94f21546'
+- name: TETRO95.TXT
+  size: 13527
+  date: '1998-09-19T17:47:04'
+  crc: '0x9be7577b'
+- name: TITLE.PAL
+  size: 768
+  date: '1995-08-07T08:43:52'
+  crc: '0xfb5f7dba'
+- name: TITLE.PIC
+  size: 64000
+  date: '1998-03-07T17:19:38'
+  crc: '0x4b48597b'

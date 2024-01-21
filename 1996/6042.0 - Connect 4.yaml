@@ -1,0 +1,28 @@
+filename: Connect 4 (1996)(Robin Ohm) [Strategy].zip
+tdc_id: '6042.0'
+title:
+  screen: Connect 4
+publisher: Robin Ohm
+year: '1996'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:02:04'
+  last_modified: '2019-03-02T10:02:04'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: CONNECT4.BAS
+  size: 7724
+  date: '2018-11-23T20:12:16'
+  crc: '0x97834c7c'
+- name: GO.BAT
+  size: 28
+  date: '2018-11-20T23:49:10'
+  crc: '0x6f7cd9cf'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

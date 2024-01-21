@@ -1,0 +1,45 @@
+filename: Puzzler (2006)(Scott Haag) [Strategy, Puzzle].zip
+tdc_id: '10739.0'
+title:
+  screen: Puzzler
+publisher: Scott Haag
+year: '2006'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-03-02T10:57:14'
+  last_modified: '2019-03-02T10:57:14'
+type: zip
+commands:
+  play: PUZZLER.EXE
+files:
+- name: DANCER.PCX
+  size: 4998
+  date: '1998-11-26T12:50:24'
+  crc: '0xb376c7da'
+- name: DOS4GW.EXE
+  size: 265420
+  date: '1994-09-01T10:00:00'
+  crc: '0xcb214447'
+- name: PUZZLER.DAT
+  size: 8824
+  date: '1998-11-27T00:21:08'
+  crc: '0xe0def50e'
+- name: PUZZLER.EXE
+  size: 84557
+  date: '1998-11-27T01:23:22'
+  crc: '0x202de497'
+- name: Readme.txt
+  size: 246
+  date: '2006-07-16T20:06:42'
+  crc: '0x7e5c194f'
+- name: TEST.PCX
+  size: 95978
+  date: '1998-11-26T11:04:56'
+  crc: '0x690dabff'
+- name: joy2.pcx
+  size: 53262
+  date: '2006-07-16T20:14:24'
+  crc: '0x86c3847a'

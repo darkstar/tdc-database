@@ -1,0 +1,32 @@
+filename: Тетрис++ (Ru) (1994)(BrD) [Action, Strategy, Puzzle].zip
+tdc_id: '3321.0'
+title:
+  screen: Тетрис++
+  translation: Tetris++
+publisher: BrD
+year: '1994'
+genre:
+- Action
+- Strategy
+- Puzzle
+language: Russian
+date:
+  added: '2022-08-07T23:57:14'
+  last_modified: '2023-06-28T08:47:14'
+type: zip
+media: Download
+commands:
+  play: BT.EXE
+files:
+- name: BT.CFG
+  size: 242
+  date: '1994-03-29T16:04:16'
+  crc: '0x4daf83c1'
+- name: BT.EXE
+  size: 161480
+  date: '1994-11-23T11:10:00'
+  crc: '0xee563df2'
+- name: MUSON.STM
+  size: 126385
+  date: '1991-05-28T12:22:18'
+  crc: '0x5c061db8'

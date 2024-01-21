@@ -1,0 +1,32 @@
+filename: Switch (1982)(Wes Meier) [Strategy, Puzzle].zip
+tdc_id: '16390.0'
+title:
+  screen: Switch
+publisher: Wes Meier
+year: '1982'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-03-01T18:23:04'
+  last_modified: '2019-03-01T18:23:04'
+type: zip
+commands:
+  play: SW-PEG.BAT
+references:
+  dosid: DOS07336
+  exodos: Switch (1982).zip
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: SW-PEG.BAS
+  size: 6784
+  date: '1983-11-02T12:00:00'
+  crc: '0xd22399e2'
+- name: SW-PEG.BAT
+  size: 16
+  date: '1980-01-01T00:00:00'
+  crc: '0x054f5c6a'

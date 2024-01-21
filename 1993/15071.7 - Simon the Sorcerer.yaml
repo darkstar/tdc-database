@@ -1,0 +1,124 @@
+filename: Simon the Sorcerer (Installer) [f1] (1993)(Infocom, Inc.) [Adventure][!].zip
+tdc_id: '15071.7'
+parent_id: '15071.17'
+title:
+  box: Simon the Sorcerer
+  qualifier: Installer
+publisher: Infocom, Inc.
+year: '1993'
+genre: Adventure
+language: English
+date:
+  added: '2019-12-17T19:17:44'
+  last_modified: '2023-12-31T08:49:40'
+type: zip
+tags:
+- KnownGood
+- Fixed: 1
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/495/simon-the-sorcerer/
+files:
+- name: 00VGA.RED
+  size: 188624
+  date: '1993-09-21T12:14:12'
+  crc: '0x9b40fb70'
+- name: 01VGA.RED
+  size: 239980
+  date: '1993-09-21T12:15:54'
+  crc: '0xa88cb322'
+- name: 02VGA.RED
+  size: 333828
+  date: '1993-09-21T12:18:18'
+  crc: '0xab5617f5'
+- name: 03VGA.RED
+  size: 330592
+  date: '1993-09-21T12:20:34'
+  crc: '0xfa6b3ad6'
+- name: 04VGA.RED
+  size: 252782
+  date: '1993-09-21T12:22:18'
+  crc: '0xd375c09f'
+- name: 05VGA.RED
+  size: 203166
+  date: '1993-09-21T12:23:48'
+  crc: '0x26b95069'
+- name: 06VGA.RED
+  size: 252566
+  date: '1993-09-21T12:25:40'
+  crc: '0x5195e118'
+- name: 07VGA.RED
+  size: 244378
+  date: '1993-09-21T12:27:18'
+  crc: '0x36495b78'
+- name: 08VGA.RED
+  size: 232276
+  date: '1993-09-21T12:28:54'
+  crc: '0xfb7cf564'
+- name: 09VGA.RED
+  size: 222438
+  date: '1993-09-21T12:30:28'
+  crc: '0x431223d5'
+- name: 10VGA.RED
+  size: 219109
+  date: '1993-09-21T12:32:04'
+  crc: '0xcb28a5b5'
+- name: 11VGA.RED
+  size: 359934
+  date: '1993-09-21T12:34:38'
+  crc: '0x5bd3987b'
+- name: 12VGA.RED
+  size: 259153
+  date: '1993-09-21T12:36:30'
+  crc: '0x4f802898'
+- name: 13VGA.RED
+  size: 58471
+  date: '1993-10-11T12:39:00'
+  crc: '0xaac99fca'
+- name: 14VGA.RED
+  size: 76861
+  date: '1993-09-21T12:37:46'
+  crc: '0xf49f5e63'
+- name: 15VGA.RED
+  size: 129750
+  date: '1993-10-11T12:40:58'
+  crc: '0x7a13d65c'
+- name: 16VGA.RED
+  size: 57331
+  date: '1993-09-21T12:39:34'
+  crc: '0x1f3cbba6'
+- name: DISK.ID
+  size: 34
+  date: '1993-09-21T14:42:12'
+  crc: '0x6e9d628a'
+- name: DISK.ID2
+  size: 34
+  date: '1993-09-21T14:51:28'
+  crc: '0x6cdbdcd3'
+- name: DISK.ID3
+  size: 34
+  date: '1993-09-21T14:51:46'
+  crc: '0x6d19b6e4'
+- name: GAME.RED
+  size: 336913
+  date: '1993-10-14T10:09:14'
+  crc: '0x2a69f319'
+- name: INSTALL.DAT
+  size: 15178
+  date: '1993-10-14T10:11:34'
+  crc: '0x4c44ea69'
+- name: INSTALL.DA_
+  size: 15178
+  date: '1993-10-14T10:11:34'
+  crc: '0xf05eac37'
+- name: INSTALL.EXE
+  size: 97114
+  date: '1993-08-18T15:29:24'
+  crc: '0x5b69dffa'
+- name: ITXT.TXT
+  size: 7041
+  date: '1993-09-21T11:21:08'
+  crc: '0x9f9a364f'

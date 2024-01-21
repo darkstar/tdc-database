@@ -1,0 +1,30 @@
+filename: Rack 'Em (1988)(Accolade, Inc.) [Sports].zip
+tdc_id: '14695.0'
+title:
+  box: Rack 'Em
+publisher: Accolade, Inc.
+year: '1988'
+genre: Sports
+language: English
+date:
+  added: '2019-03-01T18:26:42'
+  last_modified: '2019-03-01T18:26:42'
+type: zip
+commands:
+  play: POOL.EXE
+references:
+  dosid: DOS04219
+  exodos: Rack 'Em (1988).zip
+files:
+- name: POOL.EXE
+  size: 120454
+  date: '1988-10-05T12:52:42'
+  crc: '0x07f6305e'
+- name: POOL.SBD
+  size: 151772
+  date: '1988-10-02T14:29:22'
+  crc: '0x898ae597'
+- name: SCORES.DAT
+  size: 1700
+  date: '1980-01-01T00:01:50'
+  crc: '0xd5dc0594'

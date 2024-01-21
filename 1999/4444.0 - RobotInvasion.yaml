@@ -1,0 +1,66 @@
+filename: RobotInvasion (1999)(Niklas Lindbom) [Action].zip
+tdc_id: '4444.0'
+title:
+  screen: RobotInvasion
+publisher: Niklas Lindbom
+year: '1999'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:46:24'
+  last_modified: '2019-03-02T10:46:24'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: EmptyFil.e
+  size: 0
+  date: '1999-11-05T11:35:54'
+- name: GO.BAT
+  size: 28
+  date: '2018-12-18T19:41:02'
+  crc: '0x46e3b0a1'
+- name: Invasion.bas
+  size: 73269
+  date: '1999-11-05T11:42:40'
+  crc: '0xf23bd823'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: ReadMe.TXT
+  size: 1591
+  date: '1999-11-05T02:18:08'
+  crc: '0xe4d86d7c'
+- name: config.dat
+  size: 13
+  date: '1999-11-05T11:38:04'
+  crc: '0xdeca3179'
+- name: levels\
+  size: 0
+  date: '1999-11-02T00:43:04'
+- name: levels\level1.dat
+  size: 902
+  date: '1999-09-12T17:01:18'
+  crc: '0x22f8468f'
+- name: levels\level2.dat
+  size: 902
+  date: '1999-11-05T01:51:30'
+  crc: '0xc4ba33fa'
+- name: levels\level3.dat
+  size: 902
+  date: '1999-11-05T02:48:16'
+  crc: '0xbad923dc'
+- name: levels\level4.dat
+  size: 902
+  date: '1999-11-02T01:11:06'
+  crc: '0x649f8fc5'
+- name: levels\level5.dat
+  size: 902
+  date: '1999-11-05T02:43:04'
+  crc: '0xc4f6fada'
+- name: levels\level6.dat
+  size: 902
+  date: '1999-11-02T00:43:04'
+  crc: '0xac2fa72e'

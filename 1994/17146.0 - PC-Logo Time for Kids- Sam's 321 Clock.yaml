@@ -1,0 +1,40 @@
+filename: PC-Logo Time for Kids- Sam's 321 Clock v2.01 (1994)(Demetris Loizos) [Educational].zip
+tdc_id: '17146.0'
+title:
+  screen: 'PC-Logo Time for Kids: Sam''s 321 Clock'
+publisher: Demetris Loizos
+year: '1994'
+genre: Educational
+language: English
+date:
+  added: '2022-12-07T13:34:30'
+  last_modified: '2022-12-07T13:34:30'
+version: '2.01'
+type: zip
+commands:
+  play: Logo.com
+files:
+- name: Init - Copy.lgo
+  size: 132
+  date: '2022-09-24T06:05:10'
+  crc: '0x24549072'
+- name: Init.lgo
+  size: 132
+  date: '2022-09-24T06:05:10'
+  crc: '0x24549072'
+- name: Instructions.txt
+  size: 384
+  date: '2022-09-24T06:11:04'
+  crc: '0xa8efda66'
+- name: Logo.com
+  size: 56184
+  date: '2022-09-24T05:35:00'
+  crc: '0xd9fc86d8'
+- name: Prntfile.lgo
+  size: 1408
+  date: '2022-09-24T05:35:00'
+  crc: '0xbc560b64'
+- name: Samclock.lgo
+  size: 4864
+  date: '2022-09-24T05:35:00'
+  crc: '0x0891ac3c'

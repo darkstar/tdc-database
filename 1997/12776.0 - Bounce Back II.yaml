@@ -1,0 +1,34 @@
+filename: Bounce Back II v2.0 (1997)(Cybertech) [Action, Strategy].zip
+tdc_id: '12776.0'
+title:
+  screen: Bounce Back II
+publisher: Cybertech
+year: '1997'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-02T10:25:22'
+  last_modified: '2019-03-02T10:25:22'
+version: '2.0'
+type: zip
+commands:
+  play: GO.BAT
+files:
+- name: BOUNCE2.BAS
+  size: 65021
+  date: '1997-03-02T16:47:26'
+  crc: '0xdce5f670'
+- name: GO.BAT
+  size: 23
+  date: '2018-11-29T20:30:04'
+  crc: '0x0b246976'
+- name: QB.EXE
+  size: 278804
+  date: '2016-03-13T01:19:56'
+  crc: '0xb08bc0fe'
+- name: README.TXT
+  size: 902
+  date: '1997-05-03T17:45:34'
+  crc: '0xb2e4d728'

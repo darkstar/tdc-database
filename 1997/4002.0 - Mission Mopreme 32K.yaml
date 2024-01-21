@@ -1,0 +1,30 @@
+filename: Mission Mopreme 32K (1997)(The Black Hazard) [Action].zip
+tdc_id: '4002.0'
+title:
+  screen: Mission Mopreme 32K
+publisher: The Black Hazard
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:35:46'
+  last_modified: '2019-03-02T10:35:46'
+type: zip
+commands:
+  play: MOP32K.EXE
+references:
+  dosid: DOS15474
+  exodos: Mission Mopreme 32K (1997).zip
+files:
+- name: MOP32K.EXE
+  size: 31359
+  date: '1997-03-29T14:10:52'
+  crc: '0xa6bd0894'
+- name: MOP32K.NFO
+  size: 3205
+  date: '1997-03-29T14:10:52'
+  crc: '0xa926ac77'
+- name: TBH.NFO
+  size: 5645
+  date: '1997-03-29T14:10:52'
+  crc: '0xac5d0b85'

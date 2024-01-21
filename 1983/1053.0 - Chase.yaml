@@ -1,0 +1,24 @@
+filename: Chase (1983)(A. Barak) [Action].zip
+tdc_id: '1053.0'
+title:
+  screen: Chase
+publisher: A. Barak
+year: '1983'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:23:08'
+  last_modified: '2019-03-01T18:23:08'
+type: zip
+media: Download
+commands:
+  play: chase.exe
+files:
+- name: BASRUN.EXE
+  size: 31744
+  date: '1982-05-07T03:00:04'
+  crc: '0x86bdc5f3'
+- name: chase.exe
+  size: 8192
+  date: '2107-12-31T15:02:10'
+  crc: '0x65a20b5c'

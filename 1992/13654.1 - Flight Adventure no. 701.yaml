@@ -1,0 +1,56 @@
+filename: Flight Adventure no. 701 (Installer) (1992)(Mallard Software) [Simulation, Addon].zip
+tdc_id: '13654.1'
+title:
+  box: Flight Adventure no. 701
+publisher: Mallard Software
+year: '1992'
+genre:
+- Simulation
+- Addon
+language: English
+date:
+  added: '2019-03-01T18:44:48'
+  last_modified: '2019-03-01T18:44:48'
+type: zip
+installer: true
+commands:
+  play: 701INSTL.EXE
+files:
+- name: 701FILES.ZIP
+  size: 66887
+  date: '1992-11-16T12:00:54'
+  crc: '0x1a803900'
+- name: 701INSTL.EXE
+  size: 19841
+  date: '1992-11-04T17:07:54'
+  crc: '0x48d41dc9'
+- name: 701VOC1.ZIP
+  size: 1222208
+  date: '1992-11-13T17:53:46'
+  crc: '0xced71720'
+- name: DISK2\
+  size: 0
+  date: '2013-04-14T14:58:22'
+- name: DISK2\701VOC1.ZIP
+  size: 1253784
+  date: '1992-11-04T19:06:56'
+  crc: '0x702b98ab'
+- name: DISK2\PKUNZIP.EXE
+  size: 23528
+  date: '1990-03-15T01:10:00'
+  crc: '0x4457e783'
+- name: DISK3\
+  size: 0
+  date: '2013-04-14T14:58:24'
+- name: DISK3\701VOC1.ZIP
+  size: 1343132
+  date: '1992-11-04T18:51:44'
+  crc: '0x098db5d2'
+- name: DISK3\PKUNZIP.EXE
+  size: 23528
+  date: '1990-03-15T01:10:00'
+  crc: '0x4457e783'
+- name: PKUNZIP.EXE
+  size: 23528
+  date: '1990-03-15T01:10:00'
+  crc: '0x4457e783'

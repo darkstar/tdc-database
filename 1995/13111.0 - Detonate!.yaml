@@ -1,0 +1,29 @@
+filename: Detonate! v1.0 (1995)(Summit Software) [Action].zip
+tdc_id: '13111.0'
+title:
+  screen: Detonate!
+publisher: Summit Software
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T08:43:14'
+  last_modified: '2023-06-29T16:32:38'
+version: '1.0'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: DETONATE.BAS
+  size: 4385
+  date: '1998-09-21T01:20:06'
+  crc: '0xbc603278'
+- name: GO.BAT
+  size: 28
+  date: '2019-01-09T20:55:28'
+  crc: '0xd0fba9a6'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

@@ -1,0 +1,28 @@
+filename: Classic City Pinball (Pinball Construction Set) (1989)(Charles Harper) [Action].zip
+tdc_id: '9190.0'
+title:
+  screen: Classic City Pinball
+  qualifier: Pinball Construction Set
+publisher: Charles Harper
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:27:26'
+  last_modified: '2019-03-01T18:27:26'
+type: zip
+requirements:
+  cpu:
+    min: '8088'
+media: Download
+commands:
+  play: PLAY3.COM
+files:
+- name: PLAY3.COM
+  size: 64512
+  date: '1989-10-15T16:53:00'
+  crc: '0x392e26e9'
+- name: READ.ME
+  size: 774
+  date: '1989-10-15T16:53:00'
+  crc: '0x5b68cae6'

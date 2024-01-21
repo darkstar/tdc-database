@@ -1,0 +1,31 @@
+filename: Paciland (1997)(Fire Dream) [Action].zip
+tdc_id: '10550.0'
+title:
+  screen: Paciland
+publisher: Fire Dream
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:36:06'
+  last_modified: '2019-03-02T10:36:06'
+type: zip
+commands:
+  play: PACILAND.EXE
+files:
+- name: FDREAM.NFO
+  size: 3402
+  date: '1997-01-04T03:13:34'
+  crc: '0x871aacf2'
+- name: PACILAND.EXE
+  size: 102292
+  date: '1997-01-04T02:50:40'
+  crc: '0x862c1d03'
+- name: PACMAN.MOD
+  size: 129866
+  date: '1997-08-26T23:11:16'
+  crc: '0x8b501c3e'
+- name: PACMAN2.MOD
+  size: 57870
+  date: '1997-01-04T02:29:04'
+  crc: '0xb9289243'

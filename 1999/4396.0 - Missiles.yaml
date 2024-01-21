@@ -1,0 +1,32 @@
+filename: Missiles (1999)(Karthik) [Strategy].zip
+tdc_id: '4396.0'
+title:
+  screen: Missiles
+publisher: Karthik
+year: '1999'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:46:16'
+  last_modified: '2019-03-02T10:46:16'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 28
+  date: '2019-01-04T20:53:50'
+  crc: '0x8e694dff'
+- name: Missiles.bas
+  size: 23359
+  date: '1999-10-22T16:04:40'
+  crc: '0xc58d98a5'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: readme.txt
+  size: 314
+  date: '2000-05-03T15:38:42'
+  crc: '0xf34f424f'

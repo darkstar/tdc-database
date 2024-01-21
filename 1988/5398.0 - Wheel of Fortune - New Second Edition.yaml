@@ -1,0 +1,48 @@
+filename: Wheel of Fortune - New Second Edition r880428 (1988)(ShareData, Inc.) [Strategy].zip
+tdc_id: '5398.0'
+title:
+  box: Wheel of Fortune - New Second Edition
+publisher: ShareData, Inc.
+year: '1988'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:27:00'
+  last_modified: '2022-12-18T16:33:14'
+release: '880428'
+type: zip
+commands:
+  play: WHEEL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/wheel-of-fortune-new-second-edition
+  dosid: DOS06289
+  exodos: Wheel of Fortune - New Second Edition (1988).zip
+files:
+- name: CHAMPS.DAT
+  size: 2688
+  date: '1987-05-02T16:25:44'
+  crc: '0xb3974116'
+- name: CLIST.DAT
+  size: 162
+  date: '1980-01-01T12:00:00'
+  crc: '0x5b772d06'
+- name: GIRL.DAT
+  size: 14112
+  date: '1988-04-28T11:59:38'
+  crc: '0x1dea3ced'
+- name: WAF.DAT
+  size: 15757
+  date: '1980-01-01T12:00:00'
+  crc: '0x68d9bbe1'
+- name: WAF2.DAT
+  size: 18145
+  date: '1988-04-28T12:04:14'
+  crc: '0xb38c9d35'
+- name: WHEEL.EXE
+  size: 70048
+  date: '1988-04-28T11:59:22'
+  crc: '0x2fb37858'
+- name: WHEELS.DAT
+  size: 187200
+  date: '1988-04-28T12:04:34'
+  crc: '0x03f6faf8'

@@ -1,0 +1,62 @@
+filename: Pinball Fantasies v1.0 (Installer) [a1] (1994)(21st Century Entertainment Ltd.) [Simulation, Action].zip
+tdc_id: '10263.11'
+title:
+  box: Pinball Fantasies
+  qualifier: Installer
+publisher: 21st Century Entertainment Ltd.
+year: '1994'
+genre:
+- Simulation
+- Action
+language: English
+date:
+  added: '2023-07-10T08:51:00'
+  last_modified: '2023-07-10T08:51:00'
+version: '1.0'
+type: zip
+tags:
+- Alternate: 1
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/571/pinball-fantasies/
+files:
+- name: DISK.ID
+  size: 33
+  date: '1993-10-18T10:48:32'
+  crc: '0xb6dd061c'
+- name: DISK2\
+  size: 0
+  date: '2019-09-04T19:02:46'
+- name: DISK2\DISK.ID
+  size: 33
+  date: '1993-10-18T10:48:50'
+  crc: '0xb49bb845'
+- name: DISK2\INSTALL.SYS
+  size: 6251
+  date: '1993-12-13T10:32:10'
+  crc: '0xb2a95f37'
+- name: FANTASY.ONE
+  size: 787840
+  date: '1994-01-11T11:43:54'
+  crc: '0x606aac18'
+- name: FANTASY.TWO
+  size: 772619
+  date: '1994-01-11T11:49:54'
+  crc: '0x6d24d8f9'
+- name: INSTALL.EXE
+  size: 187206
+  date: '1993-12-08T09:33:44'
+  crc: '0xe2d404ee'
+- name: INSTALL.SYS
+  size: 6282
+  date: '1993-12-13T11:30:04'
+  crc: '0xb4a75fba'
+- name: PF_DISK1
+  size: 0
+  date: '1994-01-11T11:33:00'
+- name: PF_DISK2
+  size: 0
+  date: '1994-01-11T11:36:00'

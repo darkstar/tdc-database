@@ -1,0 +1,30 @@
+filename: Arena2 (1999)(Jeffrey Stewart) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '4314.0'
+title:
+  screen: Arena2
+publisher: Jeffrey Stewart
+year: '1999'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-02T10:45:18'
+  last_modified: '2019-03-02T10:45:18'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: ARENA2.BAS
+  size: 11857
+  date: '1999-09-05T18:59:56'
+  crc: '0x85de4788'
+- name: GO.BAT
+  size: 26
+  date: '2018-12-03T20:15:32'
+  crc: '0x40a2933e'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

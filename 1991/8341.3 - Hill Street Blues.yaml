@@ -1,0 +1,35 @@
+filename: Hill Street Blues (Installer) (En)(De)(Fr)(It)(Es) (1991)(Bestseller Games) [Simulation, Strategy].zip
+tdc_id: '8341.3'
+title:
+  box: Hill Street Blues
+publisher: Bestseller Games
+year: '1991'
+genre:
+- Simulation
+- Strategy
+language:
+- English
+- Spanish
+- French
+- Italian
+- German
+date:
+  added: '2020-10-04T19:42:42'
+  last_modified: '2020-10-04T19:42:42'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: H.PAK
+  size: 689780
+  date: '1994-04-19T12:12:26'
+  crc: '0xa5cdae32'
+- name: INSTALL.CFG
+  size: 536
+  date: '1994-04-19T12:16:58'
+  crc: '0x8bcae44e'
+- name: INSTALL.EXE
+  size: 24836
+  date: '1991-10-10T12:41:28'
+  crc: '0xab4772c2'

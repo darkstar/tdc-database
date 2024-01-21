@@ -1,0 +1,33 @@
+filename: IBM PC Blackjack (1983)(International PC Owners, Patrick Leabo) [Strategy, Cards].zip
+tdc_id: '9653.4'
+title:
+  screen: IBM PC Blackjack
+publisher: International PC Owners, Patrick Leabo
+year: '1983'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:23:08'
+  last_modified: '2023-02-02T08:56:23'
+type: zip
+commands:
+  play: BLCKJACK.BAT
+references:
+  mobygames: https://www.mobygames.com/game/blackjack_____
+  dosid: DOS07395
+  exodos: Blackjack (1983).zip
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: BLCKJACK.BAS
+  size: 12288
+  date: '1983-04-23T14:14:58'
+  crc: '0xe20b695b'
+- name: BLCKJACK.BAT
+  size: 17
+  date: '2014-12-01T01:29:36'
+  crc: '0xb527f563'

@@ -1,0 +1,23 @@
+filename: Art D's Next Batch Adventure v1.1 (Installer) (1997)(Arthur DiBianca) [Adventure, Interactive Fiction].zip
+tdc_id: '8798.0'
+title:
+  screen: Art D's Next Batch Adventure
+publisher: Arthur DiBianca
+year: '1997'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T10:25:06'
+  last_modified: '2019-03-02T10:25:06'
+version: '1.1'
+type: zip
+installer: true
+commands:
+  play: ADNEXT.BAT
+files:
+- name: ADNEXT.BAT
+  size: 13722
+  date: '1997-04-22T19:26:20'
+  crc: '0xc9715d75'

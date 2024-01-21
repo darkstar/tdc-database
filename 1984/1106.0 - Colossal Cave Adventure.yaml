@@ -1,0 +1,45 @@
+filename: Colossal Cave Adventure (1984)(Willie Crowther, Don Woods, Jerry D. Pohl) [Adventure, Interactive Fiction].zip
+tdc_id: '1106.0'
+title:
+  screen: Colossal Cave Adventure
+publisher: Willie Crowther, Don Woods, Jerry D. Pohl
+year: '1984'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:24:02'
+  last_modified: '2019-03-01T18:24:02'
+type: zip
+commands:
+  play: COLOSSAL.EXE
+files:
+- name: ADVENT.DOC
+  size: 3328
+  date: '1984-06-12T21:10:22'
+  crc: '0xe4856909'
+- name: ADVENT1.TXT
+  size: 18281
+  date: '1984-05-12T16:39:54'
+  crc: '0xa6ee6fc9'
+- name: ADVENT2.TXT
+  size: 6453
+  date: '1984-05-12T16:40:46'
+  crc: '0xb0fac4f8'
+- name: ADVENT3.TXT
+  size: 5559
+  date: '1984-05-12T16:42:00'
+  crc: '0x7cb74d89'
+- name: ADVENT4.TXT
+  size: 18180
+  date: '1984-06-10T18:00:32'
+  crc: '0x7e38084b'
+- name: COLOSSAL.EXE
+  size: 45824
+  date: '1984-06-10T23:48:02'
+  crc: '0x98161052'
+- name: SOURCES.ZIP
+  size: 46068
+  date: '1999-07-22T19:22:00'
+  crc: '0xdf37abbc'

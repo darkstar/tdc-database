@@ -1,0 +1,61 @@
+filename: Russian 6 Pak (Installer) [h1] (1993)(Interplay Productions, Inc.) [Compilation].zip
+tdc_id: '5740.1'
+title:
+  box: Russian 6 Pak
+publisher: Interplay Productions, Inc.
+year: '1993'
+genre: Compilation
+language: English
+date:
+  added: '2020-05-17T18:10:20'
+  last_modified: '2020-05-17T18:10:20'
+type: zip
+tags:
+- Hack: 1
+installer: true
+compilation: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: BOMBS.DAT
+  size: 200298
+  date: '1993-12-06T13:42:14'
+  crc: '0x7b1215ae'
+- name: CRETE.DAT
+  size: 212157
+  date: '1993-12-06T13:42:54'
+  crc: '0x45b6830a'
+- name: FP.DAT
+  size: 413902
+  date: '1993-12-06T13:49:08'
+  crc: '0x91504d65'
+- name: FRING.DAT
+  size: 185914
+  date: '1993-12-06T13:42:22'
+  crc: '0xa5b2c1bd'
+- name: INSTALL.EXE
+  size: 38029
+  date: '1994-01-25T10:50:08'
+  crc: '0x29149100'
+- name: INSTALL.IMS
+  size: 58839
+  date: '1993-12-03T17:31:14'
+  crc: '0x60a6b16a'
+- name: LINEMAN.DAT
+  size: 217382
+  date: '1993-12-06T13:42:30'
+  crc: '0x52751afd'
+- name: MENU.DAT
+  size: 125561
+  date: '1993-12-06T13:43:04'
+  crc: '0x7b0817fe'
+- name: RUS6PAKDOS1
+  size: 0
+  date: '1994-01-23T11:27:44'
+- name: RUS6PAKDOS2
+  size: 0
+  date: '1994-01-23T11:37:42'
+- name: SHADOWS.DAT
+  size: 401824
+  date: '1993-12-06T13:42:42'
+  crc: '0x3783bbd2'

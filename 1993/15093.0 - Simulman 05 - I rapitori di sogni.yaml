@@ -1,0 +1,46 @@
+filename: Simulman 05 - I rapitori di sogni (Installer) (It) (1993)(Simulmondo) [Action, Adventure].zip
+tdc_id: '15093.0'
+title:
+  box: Simulman 05 - I rapitori di sogni
+publisher: Simulmondo
+year: '1993'
+genre:
+- Action
+- Adventure
+language: Italian
+date:
+  added: '2019-03-01T21:07:44'
+  last_modified: '2022-11-22T10:39:50'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: 1.U
+  size: 348770
+  date: '1993-05-18T12:28:04'
+  crc: '0x20e1929a'
+- name: 2.U
+  size: 231021
+  date: '1993-05-18T12:28:48'
+  crc: '0xa2e9ab96'
+- name: ANI1.ANI
+  size: 22628
+  date: '1993-01-13T12:03:58'
+  crc: '0xf6abdb0a'
+- name: GENE.CHV
+  size: 3591
+  date: '1992-12-15T17:05:14'
+  crc: '0x2741b47a'
+- name: INSTALL.DAT
+  size: 5296
+  date: '1993-05-03T16:33:46'
+  crc: '0xc8ef1af8'
+- name: INSTALL.EXE
+  size: 29447
+  date: '1993-02-15T12:47:58'
+  crc: '0xd2966045'
+- name: RESETTA.COM
+  size: 19
+  date: '1992-12-17T15:23:44'
+  crc: '0xc6a39750'

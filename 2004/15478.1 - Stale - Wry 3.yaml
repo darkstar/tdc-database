@@ -1,0 +1,32 @@
+filename: Stale - Wry 3 vD2 (2004)(Nukem Enterprises) [Action].zip
+tdc_id: '15478.1'
+title:
+  screen: Stale - Wry 3
+publisher: Nukem Enterprises
+year: '2004'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:57:00'
+  last_modified: '2019-03-02T10:57:00'
+version: D2
+type: zip
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 23
+  date: '2018-12-13T23:36:04'
+  crc: '0xee89596d'
+- name: QB.EXE
+  size: 278804
+  date: '2016-03-13T01:19:58'
+  crc: '0xb08bc0fe'
+- name: README.TXT
+  size: 757
+  date: '2004-09-28T20:34:50'
+  crc: '0x0e4fc624'
+- name: STALEV2.BAS
+  size: 28633
+  date: '2004-09-28T20:28:58'
+  crc: '0x6743d125'

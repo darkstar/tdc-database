@@ -1,0 +1,26 @@
+filename: Stargate [DC][h4] (1983)(Atarisoft) [Action].zip
+tdc_id: '15563.5'
+title:
+  box: Stargate
+publisher: Atarisoft
+year: '1983'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:23:20'
+  last_modified: '2019-03-01T18:23:20'
+type: zip
+tags:
+- DOSConversion
+- Hack: 4
+commands:
+  play: STARGATE.COM
+files:
+- name: STARGATE.COM
+  size: 57600
+  date: '1980-01-03T01:27:26'
+  crc: '0xe63136be'
+- name: STARHI.DAT
+  size: 128
+  date: '1980-01-01T00:14:20'
+  crc: '0x844f8b85'

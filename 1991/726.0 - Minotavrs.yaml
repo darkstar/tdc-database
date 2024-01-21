@@ -1,0 +1,52 @@
+filename: Minotavrs (1991)(Back Star Software) [Adventure, Action].zip
+tdc_id: '726.0'
+title:
+  screen: Minotavrs
+publisher: Back Star Software
+year: '1991'
+genre:
+- Adventure
+- Action
+language: English
+date:
+  added: '2019-03-01T18:36:56'
+  last_modified: '2019-03-01T18:36:56'
+type: zip
+commands:
+  play: MINOTAVR.EXE
+references:
+  dosid: DOS15632
+  exodos: Minotavrs (1991).zip
+files:
+- name: CGA.BGI
+  size: 6253
+  date: '1989-05-02T05:50:00'
+  crc: '0x17cbdd92'
+- name: GGGGGG.MIN
+  size: 6429
+  date: '1980-01-01T00:04:26'
+  crc: '0x5e2a2a88'
+- name: KEYS.DAT
+  size: 3299
+  date: '1991-04-24T00:06:32'
+  crc: '0x4d0a2a2a'
+- name: MINDAT.DAT
+  size: 77354
+  date: '1991-12-09T00:45:46'
+  crc: '0x1a254333'
+- name: MINDAT1.DAT
+  size: 38642
+  date: '1991-12-09T00:50:48'
+  crc: '0x8353d59d'
+- name: MINOTAVR.EXE
+  size: 62928
+  date: '1992-01-28T00:02:28'
+  crc: '0x71a1eaa9'
+- name: SCORES.DAT
+  size: 85
+  date: '1999-03-15T00:05:28'
+  crc: '0xa19a93a3'
+- name: TRETE.MIN
+  size: 6400
+  date: '1980-01-01T00:01:20'
+  crc: '0xc07ae5b1'

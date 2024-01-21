@@ -1,0 +1,57 @@
+filename: Jagged Alliance v1.12 (Installer) (1995)(Sir-tech Software, Inc.) [Role-Playing (RPG), Strategy][!].zip
+tdc_id: '11617.3'
+title:
+  box: Jagged Alliance
+publisher: Sir-tech Software, Inc.
+year: '1995'
+genre:
+- Role-Playing (RPG)
+- Strategy
+language: English
+date:
+  added: '2019-03-02T08:56:02'
+  last_modified: '2019-03-02T08:56:02'
+version: '1.12'
+type: zip
+tags:
+- KnownGood
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 99776
+  date: '1995-05-02T16:32:46'
+  crc: '0x0b5d9ceb'
+- name: JAGGED.001
+  size: 1353216
+  date: '1995-05-02T16:32:50'
+  crc: '0xd0eeb72a'
+- name: JAGGED.002
+  size: 1455616
+  date: '1995-05-02T16:32:54'
+  crc: '0x50e091e7'
+- name: JAGGED.003
+  size: 1455616
+  date: '1995-05-02T16:32:58'
+  crc: '0xb6820d98'
+- name: JAGGED.004
+  size: 1455616
+  date: '1995-05-02T16:33:02'
+  crc: '0xe0d27a75'
+- name: JAGGED.005
+  size: 1455616
+  date: '1995-05-02T16:33:06'
+  crc: '0xe0ab025f'
+- name: JAGGED.006
+  size: 1455616
+  date: '1995-05-02T16:33:10'
+  crc: '0x3f62d48c'
+- name: JAGGED.007
+  size: 1455616
+  date: '1995-05-02T16:33:14'
+  crc: '0x84f3f976'
+- name: JAGGED.008
+  size: 1138394
+  date: '1995-05-02T16:33:16'
+  crc: '0xe7bd7c6e'

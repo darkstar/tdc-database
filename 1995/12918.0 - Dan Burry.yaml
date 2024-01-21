@@ -1,0 +1,94 @@
+filename: Dan Burry (1995)(Boeder Software GmbH) [Action].zip
+tdc_id: '12918.0'
+title:
+  screen: Dan Burry
+publisher: Boeder Software GmbH
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T08:42:24'
+  last_modified: '2019-03-02T08:42:24'
+type: zip
+commands:
+  play: DAN.EXE
+references:
+  dosid: DOS15322
+  exodos: Dan Burry (1995).zip
+files:
+- name: BLOCKS.COL
+  size: 288
+  date: '1995-05-15T22:50:12'
+  crc: '0x2a3f53c8'
+- name: BLOCKS.VGA
+  size: 64000
+  date: '1995-05-15T22:50:12'
+  crc: '0xf60eabd3'
+- name: BOBS.COL
+  size: 288
+  date: '1995-05-12T10:25:06'
+  crc: '0x1a0c9439'
+- name: BOBS.VGA
+  size: 64000
+  date: '1995-05-12T10:25:06'
+  crc: '0x4ef8fbe4'
+- name: CHARS.COL
+  size: 768
+  date: '1995-05-07T01:11:30'
+  crc: '0xabf4714e'
+- name: CHARS.VGA
+  size: 6400
+  date: '1995-05-07T01:11:28'
+  crc: '0x9cf5c069'
+- name: DAN.DOC
+  size: 14336
+  date: '1995-06-15T14:35:30'
+  crc: '0x137e1b7f'
+- name: DAN.EXE
+  size: 57296
+  date: '1995-06-12T15:35:00'
+  crc: '0xcdb87e93'
+- name: END.SFX
+  size: 109518
+  date: '1990-04-15T21:18:00'
+  crc: '0x3f9c4740'
+- name: GAME.SFX
+  size: 152714
+  date: '2032-12-25T13:46:00'
+  crc: '0x89e559e7'
+- name: HERO.COL
+  size: 96
+  date: '1994-12-11T21:24:46'
+  crc: '0x36c2ecce'
+- name: HERO.VGA
+  size: 64000
+  date: '1994-12-11T21:24:46'
+  crc: '0x707a7e73'
+- name: INTRO.COL
+  size: 768
+  date: '1995-05-07T01:09:18'
+  crc: '0xabf4714e'
+- name: INTRO.SFX
+  size: 108120
+  date: '2032-12-25T14:59:00'
+  crc: '0x59f63544'
+- name: INTRO.VGA
+  size: 64000
+  date: '1995-05-07T01:09:18'
+  crc: '0x4636afe8'
+- name: LEVEL.BOB
+  size: 1214
+  date: '1995-06-14T17:42:18'
+  crc: '0x3d859c6d'
+- name: LEVEL.DAT
+  size: 20160
+  date: '1995-06-14T17:42:16'
+  crc: '0x613308d5'
+- name: SCORE.COL
+  size: 96
+  date: '1994-12-11T20:33:00'
+  crc: '0xe411dfae'
+- name: SCORE.VGA
+  size: 23040
+  date: '1994-12-11T20:33:00'
+  crc: '0xd1823f44'

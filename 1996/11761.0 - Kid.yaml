@@ -1,0 +1,43 @@
+filename: Kid v1.01 (1996)(Stephan Vogler) [Action].zip
+tdc_id: '11761.0'
+title:
+  screen: Kid
+publisher: Stephan Vogler
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:10:42'
+  last_modified: '2019-03-02T10:10:42'
+version: '1.01'
+type: zip
+commands:
+  play: kid.exe
+references:
+  dosid: DOS02994
+  exodos: Kid (1996).zip
+files:
+- name: hi.kid
+  size: 130
+  date: '2018-12-21T20:02:40'
+  crc: '0x8702fb8a'
+- name: kid.exe
+  size: 63600
+  date: '1996-12-24T23:32:00'
+  crc: '0x3ccf23ff'
+- name: kidgraph.dat
+  size: 379626
+  date: '1996-12-24T23:32:00'
+  crc: '0x4e084ab4'
+- name: kidlevel.dat
+  size: 141400
+  date: '1996-12-24T23:32:00'
+  crc: '0x179c4437'
+- name: kidsound.dat
+  size: 323184
+  date: '1996-12-24T23:32:00'
+  crc: '0x9c47d4e6'
+- name: media1.ico
+  size: 630
+  date: '1996-12-24T23:32:00'
+  crc: '0x0531f743'

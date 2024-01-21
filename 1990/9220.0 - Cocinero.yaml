@@ -1,0 +1,70 @@
+filename: Cocinero (Es) (1990)(Ediciones Manali, S.A.) [Action].zip
+tdc_id: '9220.0'
+title:
+  screen: Cocinero
+publisher: Ediciones Manali, S.A.
+year: '1990'
+genre: Action
+language: Spanish
+date:
+  added: '2019-03-01T18:32:06'
+  last_modified: '2019-03-01T18:32:06'
+type: zip
+commands:
+  play: COCINERO.EXE
+references:
+  dosid: DOS15301
+  exodos: Cocinero (1990).zip
+files:
+- name: C1.CMP
+  size: 2865
+  date: '1980-01-01T01:51:02'
+  crc: '0x16e36a38'
+- name: C2.CMP
+  size: 3849
+  date: '1980-01-01T01:51:50'
+  crc: '0x2355606b'
+- name: C3.CMP
+  size: 9672
+  date: '1980-01-01T02:06:22'
+  crc: '0x4209a1a8'
+- name: CARGADOR.PIC
+  size: 7560
+  date: '1980-01-01T00:15:42'
+  crc: '0xfa90ac95'
+- name: COCINERO.EXE
+  size: 50128
+  date: '1980-01-01T00:53:38'
+  crc: '0x3c46b273'
+- name: COGETOR.SPR
+  size: 7548
+  date: '1990-05-05T19:16:14'
+  crc: '0xb6801f6b'
+- name: CORREAS.SPR
+  size: 3968
+  date: '1990-05-05T21:16:28'
+  crc: '0x08d585bb'
+- name: MASCOTA.PIC
+  size: 16391
+  date: '1980-01-01T00:11:58'
+  crc: '0xe9edf50b'
+- name: T1.CMP
+  size: 3037
+  date: '1980-01-01T00:21:50'
+  crc: '0x2a0b41ad'
+- name: T2.CMP
+  size: 4856
+  date: '1980-01-01T00:23:16'
+  crc: '0x112a7d74'
+- name: T3.CMP
+  size: 6842
+  date: '1980-01-01T00:24:46'
+  crc: '0xf2f25aaf'
+- name: TECLAINT.BIN
+  size: 98
+  date: '1980-01-01T00:02:44'
+  crc: '0x53a1e02e'
+- name: TROZOS.BIN
+  size: 520
+  date: '1980-01-01T00:20:08'
+  crc: '0x94b9ab54'

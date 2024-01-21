@@ -1,0 +1,31 @@
+filename: Tommy's Wheel of Misfortune [SW] (1987)(Tommy's Toys) [Strategy, Puzzle].zip
+tdc_id: '7204.0'
+title:
+  screen: Tommy's Wheel of Misfortune
+publisher: Tommy's Toys
+year: '1987'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-03-01T18:25:46'
+  last_modified: '2019-03-01T18:25:46'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: WHEEL.EXE
+references:
+  dosid: DOS07185
+  exodos: Tommy's Wheel of Misfortune (1987).zip
+files:
+- name: WHEEL.DOC
+  size: 6590
+  date: '1989-04-15T09:06:00'
+  crc: '0x95b25330'
+- name: WHEEL.EXE
+  size: 130554
+  date: '1989-04-15T09:06:20'
+  crc: '0xc1a1dd41'

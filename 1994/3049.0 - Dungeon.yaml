@@ -1,0 +1,108 @@
+filename: Dungeon v3.2a (1994)(Volker Blasius) [Adventure, Interactive Fiction].zip
+tdc_id: '3049.0'
+title:
+  screen: Dungeon
+publisher: Volker Blasius
+year: '1994'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T21:56:20'
+  last_modified: '2019-03-01T21:56:20'
+version: 3.2a
+type: zip
+files:
+- name: CONVSRC.BAT
+  size: 58
+  date: '1994-10-08T00:02:50'
+  crc: '0x92dd309b'
+- name: CONVSRC.C
+  size: 2309
+  date: '1994-06-22T18:53:58'
+  crc: '0x471e1a31'
+- name: CONVSRC.EXE
+  size: 8948
+  date: '1994-06-22T18:54:00'
+  crc: '0x1427ffe3'
+- name: DINDX.DAT
+  size: 71071
+  date: '1994-10-05T20:18:56'
+  crc: '0x1591d2bd'
+- name: DOSPORT.DOC
+  size: 4583
+  date: '1994-10-08T01:01:12'
+  crc: '0xebedee7e'
+- name: DOSSUBR.FOR
+  size: 819
+  date: '1994-06-23T13:36:50'
+  crc: '0xa62fb734'
+- name: DOSXMSF.EXE
+  size: 374950
+  date: '1993-01-30T00:00:00'
+  crc: '0xdfd267f6'
+- name: DOSXNT.386
+  size: 9343
+  date: '1993-01-27T00:00:00'
+  crc: '0xb0a4a334'
+- name: DPARAM.FOR
+  size: 34140
+  date: '1994-10-08T00:04:38'
+  crc: '0x200f1e51'
+- name: DTEXT.DAT
+  size: 271280
+  date: '1994-10-05T20:19:02'
+  crc: '0x1084bb62'
+- name: DUNDIFFS.DOC
+  size: 7372
+  date: '1994-10-05T20:11:28'
+  crc: '0x5e141900'
+- name: DUNGEON.DOC
+  size: 20821
+  date: '1994-10-05T20:11:30'
+  crc: '0xa4d3ae7d'
+- name: DUNGEON.FOR
+  size: 5839
+  date: '1994-10-07T21:44:12'
+  crc: '0x7afb6b79'
+- name: DUNGN32.EXE
+  size: 261632
+  date: '1994-10-08T01:03:08'
+  crc: '0x5b922347'
+- name: GAME.FOR
+  size: 11979
+  date: '1994-10-08T00:09:48'
+  crc: '0xb625315c'
+- name: GDT.FOR
+  size: 14343
+  date: '1994-10-07T21:26:28'
+  crc: '0xcecbdcd4'
+- name: HINTS.DOC
+  size: 2105
+  date: '1994-10-05T20:11:36'
+  crc: '0xb2a32d3c'
+- name: OBJECTS.FOR
+  size: 98075
+  date: '1994-10-07T20:52:18'
+  crc: '0xd4a15763'
+- name: PARSER.FOR
+  size: 64152
+  date: '1994-10-08T00:19:26'
+  crc: '0x786fc848'
+- name: ROOMS.FOR
+  size: 30496
+  date: '1994-10-07T23:53:26'
+  crc: '0xd609b372'
+- name: SUBR.FOR
+  size: 38875
+  date: '1994-10-07T23:42:52'
+  crc: '0x0b652e98'
+- name: TIMEFNC.FOR
+  size: 44954
+  date: '1994-10-07T21:40:16'
+  crc: '0x2115a3ef'
+- name: VERBS.FOR
+  size: 73495
+  date: '1994-10-08T00:56:48'
+  crc: '0xfd63e3a0'

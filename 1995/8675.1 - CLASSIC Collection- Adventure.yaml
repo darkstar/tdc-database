@@ -1,0 +1,60 @@
+filename: CLASSIC Collection- Adventure CD (Installer) (En)(De) (1995)(Delphine Software International, U.S. Gold Ltd.) [Adventure, Compilation].zip
+tdc_id: '8675.1'
+title:
+  box: 'CLASSIC Collection: Adventure'
+  qualifier: Installer
+publisher: Delphine Software International, U.S. Gold Ltd.
+year: '1995'
+genre:
+- Adventure
+- Compilation
+language:
+- English
+- German
+date:
+  added: '2023-10-17T14:08:27'
+  last_modified: '2023-10-17T14:08:27'
+type: zip
+media: CD-ROM
+installer: true
+commands:
+  play: GO.BAT
+references:
+  mobygames: https://www.mobygames.com/game/14339/classic-collection-adventure/covers/
+files:
+- name: EB.EXE
+  size: 66308
+  date: '1991-08-11T05:30:10'
+  crc: '0xe8d4217e'
+- name: ENGLISH.LZH
+  size: 10588401
+  date: '1995-05-26T10:40:48'
+  crc: '0xf70be986'
+- name: GERMAN.LZH
+  size: 9735078
+  date: '1995-05-26T10:55:06'
+  crc: '0x8a81c50a'
+- name: GINSTALL.BAT
+  size: 6001
+  date: '1995-06-02T12:02:44'
+  crc: '0x9ed288f0'
+- name: GO.BAT
+  size: 24
+  date: '1995-05-31T16:24:28'
+  crc: '0x96063c95'
+- name: GO.HTX
+  size: 1272
+  date: '1995-05-31T16:21:28'
+  crc: '0xf02ef4c1'
+- name: INSTALL.BAT
+  size: 5743
+  date: '1995-06-02T10:44:56'
+  crc: '0x7a3be535'
+- name: LHA.EXE
+  size: 34283
+  date: '1991-07-20T02:13:00'
+  crc: '0x2c68a172'
+- name: LHA213.EXE
+  size: 44381
+  date: '1993-09-26T12:22:00'
+  crc: '0xe45194cb'

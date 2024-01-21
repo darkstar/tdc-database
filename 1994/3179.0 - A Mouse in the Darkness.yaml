@@ -1,0 +1,29 @@
+filename: Mouse in the Darkness, A (He) (1994)(Computerized Training Systems) [Educational, Puzzle].zip
+tdc_id: '3179.0'
+title:
+  screen: A Mouse in the Darkness
+publisher: Computerized Training Systems
+year: '1994'
+genre:
+- Educational
+- Puzzle
+language: Hewbrew
+date:
+  added: '2020-01-27T20:29:44'
+  last_modified: '2020-01-27T20:29:44'
+type: zip
+commands:
+  play: mouse_in.exe
+files:
+- name: MOUSE.DAT
+  size: 1904
+  date: '1994-07-31T02:21:20'
+  crc: '0xfccb6b60'
+- name: MOUSELIB.GXL
+  size: 972888
+  date: '1995-01-18T09:39:20'
+  crc: '0xfc31b40f'
+- name: mouse_in.exe
+  size: 79472
+  date: '1995-01-18T09:22:22'
+  crc: '0x315e96f6'

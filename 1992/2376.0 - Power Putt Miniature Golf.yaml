@@ -1,0 +1,90 @@
+filename: Power Putt Miniature Golf v1.10 [SW] (1992)(Clubware) [Sports].zip
+tdc_id: '2376.0'
+title:
+  screen: Power Putt Miniature Golf
+publisher: Clubware
+year: '1992'
+genre: Sports
+language: English
+date:
+  added: '2019-03-01T18:50:00'
+  last_modified: '2019-03-01T18:50:00'
+version: '1.10'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: PUTTDEMO.EXE
+references:
+  dosid: DOS06427
+  exodos: Power Putt (1992).zip
+files:
+- name: EGAVGA.BGI
+  size: 5554
+  date: '1992-02-18T02:00:00'
+  crc: '0x9b14ff3b'
+- name: HOLE00.DAT
+  size: 18
+  date: '1992-12-02T20:52:40'
+  crc: '0x4c178015'
+- name: HOLE01.BGI
+  size: 60824
+  date: '1992-11-16T14:07:34'
+  crc: '0xbcfd96be'
+- name: HOLE01.DAT
+  size: 5092
+  date: '1992-12-01T11:39:06'
+  crc: '0x1693eb29'
+- name: HOLE02.BGI
+  size: 60824
+  date: '1992-11-19T17:13:56'
+  crc: '0x76c6d4f2'
+- name: HOLE02.DAT
+  size: 5092
+  date: '1992-12-01T11:40:12'
+  crc: '0xd94aeca1'
+- name: HOLE03.BGI
+  size: 60824
+  date: '1992-11-16T13:49:58'
+  crc: '0x26964130'
+- name: HOLE03.DAT
+  size: 5092
+  date: '1992-12-01T11:41:18'
+  crc: '0x3520ae9e'
+- name: HOLE04.BGI
+  size: 60824
+  date: '1992-11-17T01:41:54'
+  crc: '0x7056077c'
+- name: HOLE04.DAT
+  size: 5092
+  date: '1992-12-01T11:42:24'
+  crc: '0x8d6ec40a'
+- name: HOLE05.BGI
+  size: 60824
+  date: '1992-11-19T14:43:24'
+  crc: '0xde188145'
+- name: HOLE05.DAT
+  size: 5092
+  date: '1992-12-01T11:43:36'
+  crc: '0x6a865d7f'
+- name: PUTTDEMO.DOC
+  size: 2643
+  date: '1992-12-05T23:10:16'
+  crc: '0x857d5f95'
+- name: PUTTDEMO.EXE
+  size: 94197
+  date: '1992-12-06T13:34:14'
+  crc: '0x18b2158a'
+- name: REGISTER.DOC
+  size: 1131
+  date: '1992-12-05T23:25:52'
+  crc: '0xbaacfd19'
+- name: SANS.CHR
+  size: 5438
+  date: '1990-05-04T01:00:00'
+  crc: '0x06f847c6'
+- name: TRIP.CHR
+  size: 16677
+  date: '1992-02-18T02:00:00'
+  crc: '0xba867503'

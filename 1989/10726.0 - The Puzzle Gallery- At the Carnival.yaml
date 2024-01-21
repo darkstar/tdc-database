@@ -1,0 +1,88 @@
+filename: Puzzle Gallery, The- At the Carnival (1989)(Miles Computing, Inc.) [Strategy].zip
+tdc_id: '10726.0'
+title:
+  box: 'The Puzzle Gallery: At the Carnival'
+publisher: Miles Computing, Inc.
+year: '1989'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:28:42'
+  last_modified: '2023-12-16T10:43:21'
+type: zip
+commands:
+  play: ATC.EXE
+  setup: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1457/at-the-carnival/
+  dosid: DOS00898
+  exodos: At the Carnival (1990).zip
+files:
+- name: ATC.CLR
+  size: 2000
+  date: '1990-08-10T09:54:34'
+  crc: '0x1a17e4f1'
+- name: ATC.EXE
+  size: 121129
+  date: '1990-09-26T12:35:34'
+  crc: '0xdd797461'
+- name: DISK4
+  size: 4
+  date: '1990-06-29T08:25:58'
+  crc: '0xad8bcdd9'
+- name: DISK5
+  size: 4
+  date: '1990-06-29T08:26:04'
+  crc: '0xad8bcdd9'
+- name: EGA.DVR
+  size: 9408
+  date: '1990-06-29T11:18:42'
+  crc: '0x99e426ea'
+- name: FONT.RES
+  size: 11403
+  date: '1990-05-01T17:12:10'
+  crc: '0xf4db6dfa'
+- name: GAME.CFG
+  size: 606
+  date: '1998-05-05T21:12:42'
+  crc: '0x0d577d97'
+- name: INITDATA
+  size: 19245
+  date: '1990-06-29T16:22:20'
+  crc: '0x5761cef0'
+- name: INSTALL.EXE
+  size: 27638
+  date: '1990-08-04T13:09:32'
+  crc: '0x517aa2e6'
+- name: MCGA.DVR
+  size: 5206
+  date: '1990-06-29T11:19:20'
+  crc: '0xae88aaaa'
+- name: MISC.RES
+  size: 24347
+  date: '1990-07-11T10:57:10'
+  crc: '0x30948dc5'
+- name: PICT1.RES
+  size: 59873
+  date: '1990-07-31T22:12:50'
+  crc: '0xbb292039'
+- name: PICT2.RES
+  size: 124134
+  date: '1990-08-04T12:59:44'
+  crc: '0x67de8025'
+- name: PICT3.RES
+  size: 117693
+  date: '1990-08-08T07:21:58'
+  crc: '0xd844981b'
+- name: PICT4.RES
+  size: 243480
+  date: '1990-07-31T22:31:12'
+  crc: '0x8a524d18'
+- name: TAN.DVR
+  size: 6733
+  date: '1990-06-29T11:17:46'
+  crc: '0x84c76e6c'
+- name: TEXT.RES
+  size: 46590
+  date: '1990-08-10T09:28:54'
+  crc: '0xca369d7e'

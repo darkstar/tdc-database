@@ -1,0 +1,91 @@
+filename: MagiDuck (2018)(Mangis) [Action].zip
+tdc_id: '9844.0'
+title:
+  screen: MagiDuck
+publisher: Mangis
+year: '2018'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:58:14'
+  last_modified: '2019-03-02T10:58:14'
+type: zip
+media: Download
+commands:
+  play: DUCK.EXE
+references:
+  dosid: DOS15533
+  exodos: MagiDuck (2018).zip
+files:
+- name: DUCK.EXE
+  size: 56076
+  date: '2018-04-07T20:56:26'
+  crc: '0x88f54aba'
+- name: FLOATS.CLU
+  size: 199
+  date: '2018-04-07T20:56:26'
+  crc: '0xeb1a09d0'
+- name: HISCORES.DEF
+  size: 120
+  date: '2018-04-07T20:56:26'
+  crc: '0xb0395a60'
+- name: LEVELS.CLP
+  size: 20916
+  date: '2018-04-07T20:56:24'
+  crc: '0xcb785bcb'
+- name: MENU.CMM
+  size: 8519
+  date: '2018-04-07T20:56:26'
+  crc: '0x843a2fdd'
+- name: MENUPREL.CMP
+  size: 681
+  date: '2018-04-07T20:56:26'
+  crc: '0x7f3aeea6'
+- name: README.TXT
+  size: 2765
+  date: '2018-04-07T20:57:28'
+  crc: '0x486152c0'
+- name: SAVEGAME.SAV
+  size: 386
+  date: '2018-04-07T20:56:26'
+  crc: '0x5a4e3696'
+- name: SINCOS.CLU
+  size: 256
+  date: '2018-04-07T20:56:26'
+  crc: '0x4c84e14b'
+- name: SOUND.CST
+  size: 256
+  date: '2018-04-07T20:56:24'
+  crc: '0x90134655'
+- name: SPENEMY0.CSD
+  size: 354
+  date: '2018-04-07T20:56:24'
+  crc: '0x042d7216'
+- name: SPENEMY0.CSP
+  size: 2011
+  date: '2018-04-07T20:56:24'
+  crc: '0x7ec63553'
+- name: SPRBOSS1.CSD
+  size: 386
+  date: '2018-04-07T20:56:24'
+  crc: '0xa4e92e0a'
+- name: SPRBOSS1.CSP
+  size: 2011
+  date: '2018-04-07T20:56:24'
+  crc: '0xfd34b34a'
+- name: SPRITES0.CSD
+  size: 1026
+  date: '2018-04-07T20:56:24'
+  crc: '0xe8a29284'
+- name: SPRITES0.CSP
+  size: 2811
+  date: '2018-04-07T20:56:24'
+  crc: '0xe2d5952b'
+- name: TILES.CTP
+  size: 13064
+  date: '2018-04-07T20:56:24'
+  crc: '0x71275904'
+- name: W40CHAR.CLU
+  size: 167
+  date: '2018-04-07T20:56:26'
+  crc: '0xaacd2a8e'

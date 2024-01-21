@@ -1,0 +1,49 @@
+filename: Detective v2.1 and School Busters v3.0 (2005)(Jeffrey Quenter) [Adventure, Interactive Fiction, Compilation].zip
+tdc_id: '886.0'
+title:
+  screen: Detective v2.1 and School Busters
+publisher: Jeffrey Quenter
+year: '2005'
+genre:
+- Adventure
+- Interactive Fiction
+- Compilation
+language: English
+date:
+  added: '2019-03-02T10:57:04'
+  last_modified: '2019-03-02T10:57:04'
+version: '2.1'
+type: zip
+media: Download
+compilation: true
+commands:
+  play: play.bat
+files:
+- name: DETECTIV.BAS
+  size: 38152
+  date: '2005-12-15T22:08:42'
+  crc: '0x68ff4a0e'
+- name: FRIEND.BAS
+  size: 3703
+  date: '2005-12-15T21:54:00'
+  crc: '0x14bc013d'
+- name: Gwbasic.exe
+  size: 80608
+  date: '1988-10-05T10:00:08'
+  crc: '0x2a44af39'
+- name: MENU.BAS
+  size: 1613
+  date: '2005-12-15T22:12:42'
+  crc: '0xa876af0f'
+- name: SB3.BAS
+  size: 52411
+  date: '2005-12-15T22:06:48'
+  crc: '0x0e1966cd'
+- name: SBJ.BAS
+  size: 24373
+  date: '2005-12-15T22:07:34'
+  crc: '0x91830205'
+- name: play.bat
+  size: 16
+  date: '2008-03-29T18:10:02'
+  crc: '0xe41c0fb9'

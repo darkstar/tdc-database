@@ -1,0 +1,59 @@
+filename: NetMech (Installer) (1996)(Activision, Inc.) [Action, Simulation, Addon].zip
+tdc_id: '14432.0'
+title:
+  box: NetMech
+publisher: Activision, Inc.
+year: '1996'
+genre:
+- Action
+- Simulation
+- Addon
+language: English
+date:
+  added: '2019-03-02T10:13:42'
+  last_modified: '2019-03-02T10:13:42'
+type: zip
+installer: true
+commands:
+  play: NM10.EXE
+files:
+- name: INSTALL.TXT
+  size: 3291
+  date: '2016-11-05T22:26:06'
+  crc: '0x7f9a0755'
+- name: NM10.EXE
+  size: 15050
+  date: '2016-11-05T23:12:02'
+  crc: '0x3101d6bf'
+- name: NM10_1.BIN
+  size: 1456263
+  date: '2016-11-05T23:11:26'
+  crc: '0xfc8fe91f'
+- name: NM10_2.BIN
+  size: 1456438
+  date: '2016-11-05T23:11:30'
+  crc: '0x4a7c28ac'
+- name: NM10_3.BIN
+  size: 1456440
+  date: '2016-11-05T23:11:34'
+  crc: '0x16533bf7'
+- name: NM10_4.BIN
+  size: 1456458
+  date: '2016-11-05T23:11:38'
+  crc: '0xb87e2f4b'
+- name: NM10_5.BIN
+  size: 1456384
+  date: '2016-11-05T23:11:44'
+  crc: '0x790283a8'
+- name: NM10_6.BIN
+  size: 1456400
+  date: '2016-11-05T23:11:52'
+  crc: '0x60a16733'
+- name: NM10_7.BIN
+  size: 1456365
+  date: '2016-11-05T23:11:56'
+  crc: '0x208271e3'
+- name: NM10_8.BIN
+  size: 78374
+  date: '2016-11-05T23:12:02'
+  crc: '0xf95c1951'

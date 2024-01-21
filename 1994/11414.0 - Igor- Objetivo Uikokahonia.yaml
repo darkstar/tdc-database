@@ -1,0 +1,31 @@
+filename: Igor- Objetivo Uikokahonia (Es) (1994)(Dro Soft, Péndulo Studios, S.L.) [Adventure].zip
+tdc_id: '11414.0'
+title:
+  box: 'Igor: Objetivo Uikokahonia'
+  translation: 'Igor: Objective Uikokahonia'
+publisher: Dro Soft, Péndulo Studios, S.L.
+year: '1994'
+genre: Adventure
+language: Spanish
+date:
+  added: '2019-03-01T22:00:46'
+  last_modified: '2023-10-15T07:28:20'
+type: zip
+media: 1.44M
+commands:
+  play: IGOR.EXE
+references:
+  mobygames: https://www.mobygames.com/game/2170/igor-objective-uikokahonia/
+files:
+- name: IGOR.DAT
+  size: 11199335
+  date: '1996-03-06T16:23:04'
+  crc: '0xf9362e55'
+- name: IGOR.DA_
+  size: 11199335
+  date: '1994-05-19T18:02:54'
+  crc: '0x0dfbe285'
+- name: IGOR.EXE
+  size: 123280
+  date: '1994-09-03T21:48:58'
+  crc: '0xee79aa7d'

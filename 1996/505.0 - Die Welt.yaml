@@ -1,0 +1,55 @@
+filename: Welt, Die (De) (1996)(Die Welt) [Action].zip
+tdc_id: '505.0'
+title:
+  screen: Die Welt
+publisher: Die Welt
+year: '1996'
+genre: Action
+language: German
+date:
+  added: '2019-03-02T10:23:26'
+  last_modified: '2019-03-02T10:23:26'
+type: zip
+references:
+  dosid: DOS07478
+  exodos: Die Welt (1996).zip
+files:
+- name: DATA\
+  size: 0
+  date: '2010-05-07T21:04:40'
+- name: DATA\BLOCKS.PAL
+  size: 624
+  date: '1996-03-12T16:15:08'
+  crc: '0x9ae2785e'
+- name: DATA\BLOCKS.PIC
+  size: 64000
+  date: '1996-03-12T16:15:08'
+  crc: '0xe6548615'
+- name: DATA\DIE_WELT.INF
+  size: 1712
+  date: '1996-03-12T16:19:48'
+  crc: '0x331e92fe'
+- name: DATA\DIE_WELT.LEV
+  size: 23777
+  date: '2030-01-10T11:07:00'
+  crc: '0x90752042'
+- name: DATA\DIE_WELT.SPR
+  size: 47586
+  date: '1996-03-12T16:19:48'
+  crc: '0x3690e274'
+- name: DATA\OBJECTSB.PAL
+  size: 144
+  date: '1996-03-12T16:15:08'
+  crc: '0x4e2d5261'
+- name: INSTALL.BAT
+  size: 357
+  date: '1996-03-13T10:12:14'
+  crc: '0x007cebc7'
+- name: README.TXT
+  size: 970
+  date: '1996-03-13T10:05:44'
+  crc: '0x7f9eb1c7'
+- name: WELT.EXE
+  size: 301806
+  date: '1996-03-12T16:31:18'
+  crc: '0x15ab0729'

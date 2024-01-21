@@ -1,0 +1,101 @@
+filename: Classic Concentration (1988)(ShareData, Inc.) [Strategy][!].zip
+tdc_id: '9193.0'
+parent_id: '9193.2'
+title:
+  box: Classic Concentration
+publisher: ShareData, Inc.
+year: '1988'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:26:04'
+  last_modified: '2019-03-01T18:26:04'
+type: zip
+tags:
+- KnownGood
+commands:
+  play: CLASSIC.EXE
+references:
+  dosid: DOS00337
+  exodos: Classic Concentration (1988).zip
+files:
+- name: ALPHA.BIN
+  size: 2824
+  date: '1988-01-15T02:26:10'
+  crc: '0xa7df6da4'
+- name: CAR.CON
+  size: 452
+  date: '1988-01-15T15:34:56'
+  crc: '0x8bda8cc0'
+- name: CHAMPS.CON
+  size: 2644
+  date: '1988-01-15T15:37:00'
+  crc: '0x7b8fd615'
+- name: CLASSIC.EXE
+  size: 80748
+  date: '1988-05-31T14:33:12'
+  crc: '0x97f4b557'
+- name: DOORPIC.CON
+  size: 1496
+  date: '1988-05-31T00:00:22'
+  crc: '0x218730b0'
+- name: IBMKEYS.BIN
+  size: 7484
+  date: '1988-01-15T14:59:06'
+  crc: '0xc22a329a'
+- name: LETTERS.CON
+  size: 592
+  date: '1988-05-12T00:00:02'
+  crc: '0xbaed36b1'
+- name: LOGO.CON
+  size: 7172
+  date: '1988-01-15T15:54:04'
+  crc: '0x8b1233b7'
+- name: PICTURES.CON
+  size: 146915
+  date: '1988-05-17T10:51:32'
+  crc: '0xce92c22c'
+- name: PODIUM.CON
+  size: 10884
+  date: '1988-01-15T17:15:12'
+  crc: '0xeecd97cc'
+- name: SDMAN1.DAT
+  size: 7571
+  date: '1988-05-24T12:28:40'
+  crc: '0x7a4a3d1e'
+- name: SDMAN2.DAT
+  size: 6650
+  date: '1988-05-24T12:28:52'
+  crc: '0xaf09a584'
+- name: SDMAN3.DAT
+  size: 7177
+  date: '1988-05-24T12:29:04'
+  crc: '0x49e081d6'
+- name: SDMAN4.DAT
+  size: 5995
+  date: '1988-05-24T12:29:16'
+  crc: '0x93eeb4a0'
+- name: SDWOM1.DAT
+  size: 6564
+  date: '1988-05-24T12:29:32'
+  crc: '0x2ef01c71'
+- name: SDWOM2.DAT
+  size: 6416
+  date: '1988-05-24T12:29:44'
+  crc: '0x4c6cce7e'
+- name: SDWOM3.DAT
+  size: 7215
+  date: '1988-05-24T12:30:00'
+  crc: '0xda45d75b'
+- name: SDWOM4.DAT
+  size: 7128
+  date: '1988-05-24T12:30:12'
+  crc: '0x344ef87a'
+- name: TROPHY.CON
+  size: 2080
+  date: '1988-04-25T11:48:54'
+  crc: '0x8e303ae4'
+- name: WILD.CON
+  size: 452
+  date: '1988-04-14T16:20:12'
+  crc: '0x9d3b41e4'

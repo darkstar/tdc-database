@@ -1,0 +1,39 @@
+filename: Operation Crusader v1.1 (Installer) (1994)(The Avalon Hill Game Company) [Strategy][!].zip
+tdc_id: '14635.1'
+title:
+  box: Operation Crusader
+publisher: The Avalon Hill Game Company
+year: '1994'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T22:02:28'
+  last_modified: '2019-03-01T22:02:28'
+version: '1.1'
+type: zip
+tags:
+- KnownGood
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: CRUSADER.001
+  size: 1312840
+  date: '1994-08-22T01:10:00'
+  crc: '0x355fb2f9'
+- name: CRUSADER.002
+  size: 627354
+  date: '1994-08-22T01:10:00'
+  crc: '0xf35ebd67'
+- name: DISK.ID
+  size: 49
+  date: '1994-08-22T01:10:00'
+  crc: '0x62ae1645'
+- name: DISK.ID2
+  size: 49
+  date: '1994-08-22T01:10:00'
+  crc: '0x60e8a81c'
+- name: INSTALL.EXE
+  size: 143638
+  date: '1994-08-22T01:10:00'
+  crc: '0x844373bb'

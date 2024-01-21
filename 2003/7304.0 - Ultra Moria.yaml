@@ -1,0 +1,61 @@
+filename: Ultra Moria v0.9.9c (Ru) (2003)(Sergei Bobrovsky) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '7304.0'
+title:
+  screen: Ultra Moria
+publisher: Sergei Bobrovsky
+year: '2003'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: Russian
+date:
+  added: '2019-03-02T10:56:48'
+  last_modified: '2019-03-02T10:56:48'
+version: 0.9.9c
+type: zip
+commands:
+  play: um099c.exe
+files:
+- name: HOURS
+  size: 362
+  date: '1994-07-22T02:36:18'
+  crc: '0x92593fe6'
+- name: MORIA
+  size: 4871
+  date: '2003-03-10T17:17:34'
+  crc: '0x9c33a937'
+- name: MORIA.CNF
+  size: 2560
+  date: '1994-06-26T05:06:08'
+  crc: '0xaf8bceb8'
+- name: MORIA.SAV
+  size: 4775
+  date: '2003-03-10T20:15:58'
+  crc: '0x5f22396e'
+- name: NEWS
+  size: 383
+  date: '2003-03-12T21:49:22'
+  crc: '0xb20227f4'
+- name: TERMCAP
+  size: 1397
+  date: '1994-06-26T05:06:08'
+  crc: '0x8c8da255'
+- name: VERSION.HLP
+  size: 2353
+  date: '2003-03-12T22:01:52'
+  crc: '0x3bf5942a'
+- name: origcmds.hlp
+  size: 2815
+  date: '2003-03-10T20:39:16'
+  crc: '0x535b8424'
+- name: scores
+  size: 0
+  date: '2003-03-10T16:32:56'
+- name: um099c.exe
+  size: 628087
+  date: '2003-03-10T23:54:34'
+  crc: '0x18879147'
+- name: welcome.hlp
+  size: 273
+  date: '2003-03-10T16:36:58'
+  crc: '0x46c4f1be'

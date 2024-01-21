@@ -1,0 +1,37 @@
+filename: Hoop v1.1 [SW] (1994)(Darren Gyles) [Strategy, Cards].zip
+tdc_id: '3093.0'
+title:
+  screen: Hoop
+publisher: Darren Gyles
+year: '1994'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T22:00:44'
+  last_modified: '2019-03-01T22:00:44'
+version: '1.1'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: HOOP.EXE
+files:
+- name: DATA.BIN
+  size: 42590
+  date: '1994-06-21T19:15:26'
+  crc: '0xa695cfa3'
+- name: DATA2.BIN
+  size: 5479
+  date: '1994-06-21T19:07:04'
+  crc: '0x3ce2857d'
+- name: HOOP.EXE
+  size: 42271
+  date: '1994-06-23T00:52:54'
+  crc: '0x5a790129'
+- name: README.TXT
+  size: 1427
+  date: '1994-06-21T19:04:38'
+  crc: '0xc2dd58a4'

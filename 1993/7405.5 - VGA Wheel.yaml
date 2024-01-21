@@ -1,0 +1,58 @@
+filename: VGA Wheel v1.91 [SW] (1993)(Russell R. Mueller) [Strategy].zip
+tdc_id: '7405.5'
+title:
+  screen: VGA Wheel
+publisher: Russell R. Mueller
+year: '1993'
+genre: Strategy
+language: English
+date:
+  added: '2013-01-28T20:39:10'
+  last_modified: '2013-01-28T20:39:10'
+version: '1.91'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: VGAWHEEL.EXE
+references:
+  dosid: DOS06410
+  exodos: VGA Wheel (1990).zip
+files:
+- name: CHAMP.DAT
+  size: 286
+  date: '1994-04-18T11:49:54'
+  crc: '0xc0e76efb'
+- name: DESCRIBE.DOC
+  size: 560
+  date: '1993-12-18T03:02:22'
+  crc: '0x0aebf7bb'
+- name: FILE_ID.DIZ
+  size: 323
+  date: '1994-04-14T09:37:48'
+  crc: '0x9bf5b343'
+- name: HISTORY.DOC
+  size: 1109
+  date: '1993-12-18T03:25:26'
+  crc: '0x0c1668a9'
+- name: REGISTER.DOC
+  size: 1509
+  date: '1993-12-18T03:06:18'
+  crc: '0x0a41a56d'
+- name: VENDOR.DOC
+  size: 1905
+  date: '1993-11-07T10:46:18'
+  crc: '0xc61e215d'
+- name: VGAWHEEL.DAT
+  size: 60000
+  date: '1992-03-07T07:09:08'
+  crc: '0x94f6bf8a'
+- name: VGAWHEEL.DOC
+  size: 8352
+  date: '1993-12-18T03:27:08'
+  crc: '0x42d3800d'
+- name: VGAWHEEL.EXE
+  size: 128916
+  date: '1993-12-18T03:39:34'
+  crc: '0x251cf1b2'

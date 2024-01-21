@@ -1,0 +1,94 @@
+filename: Flyaway (1989)(Coronado Enterprises) [Adventure].zip
+tdc_id: '1698.0'
+title:
+  screen: Flyaway
+publisher: Coronado Enterprises
+year: '1989'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:27:46'
+  last_modified: '2019-03-01T18:27:46'
+type: zip
+commands:
+  play: FLYAWAY.EXE
+references:
+  dosid: DOS00057
+  exodos: Flyaway (1989).zip
+files:
+- name: ACTION.CPP
+  size: 6846
+  date: '1998-10-13T00:06:06'
+  crc: '0xad7ba631'
+- name: ACTION.H
+  size: 3050
+  date: '1998-08-21T08:49:36'
+  crc: '0x2b8dc187'
+- name: CLOCK.H
+  size: 426
+  date: '1998-05-07T14:44:56'
+  crc: '0x145b8930'
+- name: Copyrght.txt
+  size: 822
+  date: '2000-02-15T16:56:14'
+  crc: '0xdd575ad4'
+- name: EXTERN.H
+  size: 1007
+  date: '1998-07-31T06:01:46'
+  crc: '0x450327b6'
+- name: FLYAWAY.CPP
+  size: 1370
+  date: '1998-10-20T10:15:02'
+  crc: '0xc77b3588'
+- name: FLYAWAY.EXE
+  size: 34797
+  date: '1998-10-20T21:58:04'
+  crc: '0xb65b8fb1'
+- name: FLYAWAY.H
+  size: 493
+  date: '1998-05-24T12:23:32'
+  crc: '0x03eeb395'
+- name: ITEMS.CPP
+  size: 4407
+  date: '1998-07-31T05:50:34'
+  crc: '0xfeae6f57'
+- name: ITEMS.H
+  size: 890
+  date: '1998-07-31T05:06:28'
+  crc: '0xeeadaf75'
+- name: LOCATION.CPP
+  size: 4445
+  date: '1998-07-31T06:31:02'
+  crc: '0xb0ed61c3'
+- name: LOCATION.H
+  size: 2064
+  date: '1998-05-27T12:42:28'
+  crc: '0xea3ae3dc'
+- name: MAP.CPP
+  size: 5738
+  date: '1998-05-31T01:57:10'
+  crc: '0x3a427928'
+- name: MAP.H
+  size: 448
+  date: '1998-05-10T20:53:18'
+  crc: '0x68875451'
+- name: MESSAGES.H
+  size: 5547
+  date: '1998-05-29T19:13:12'
+  crc: '0x4e21d1e4'
+- name: SCHEDULE.CPP
+  size: 10535
+  date: '1998-08-22T07:36:44'
+  crc: '0x1d55bf67'
+- name: SCHEDULE.H
+  size: 1311
+  date: '1998-05-27T12:48:08'
+  crc: '0x9ff93e41'
+- name: WORDS.CPP
+  size: 7908
+  date: '1998-07-31T05:31:12'
+  crc: '0xd17b105d'
+- name: WORDS.H
+  size: 1037
+  date: '1998-05-27T16:22:48'
+  crc: '0x060d41a8'

@@ -1,0 +1,30 @@
+filename: Five-A-Side Indoor Soccer [DC] (1986)(Mastertronic Group Ltd.) [Action, Sports].zip
+tdc_id: '13635.0'
+title:
+  box: Five-A-Side Indoor Soccer
+publisher: Mastertronic Group Ltd.
+year: '1986'
+genre:
+- Action
+- Sports
+language: English
+date:
+  added: '2019-03-01T18:24:46'
+  last_modified: '2019-03-01T18:24:46'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: 5aside.com
+references:
+  dosid: DOS05879
+  exodos: Five-a-Side Indoor Soccer (1985).zip
+files:
+- name: 5aside.com
+  size: 432
+  date: '1999-08-23T21:56:32'
+  crc: '0xc0bc4f59'
+- name: Game.dat
+  size: 368640
+  date: '1997-07-09T11:02:00'
+  crc: '0xe86a13c4'

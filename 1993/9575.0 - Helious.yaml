@@ -1,0 +1,31 @@
+filename: Helious [SW] (1993)(Albino Frog Software, Inc.) [Action, Strategy].zip
+tdc_id: '9575.0'
+title:
+  screen: Helious
+publisher: Albino Frog Software, Inc.
+year: '1993'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2012-11-04T09:40:26'
+  last_modified: '2012-11-04T09:40:26'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: HELIOUS.EXE
+references:
+  dosid: DOS02574
+  exodos: Helious (1993).zip
+files:
+- name: FILE_ID.DIZ
+  size: 208
+  date: '1993-05-19T18:48:00'
+  crc: '0xa6989fe2'
+- name: HELIOUS.EXE
+  size: 339922
+  date: '1993-05-19T18:48:00'
+  crc: '0x855d01e7'

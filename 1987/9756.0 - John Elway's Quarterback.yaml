@@ -1,0 +1,35 @@
+filename: John Elway's Quarterback [DC] (1987)(Melbourne House) [Action, Sports].zip
+tdc_id: '9756.0'
+parent_id: '9756.2'
+title:
+  box: John Elway's Quarterback
+publisher: Melbourne House
+year: '1987'
+genre:
+- Action
+- Sports
+language: English
+date:
+  added: '2019-03-01T18:25:22'
+  last_modified: '2019-03-01T18:25:22'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: QBACK.COM
+references:
+  dosid: DOS05914
+  exodos: John Elway's Quarterback (1988).zip
+files:
+- name: QBACK.COM
+  size: 656
+  date: '1999-05-12T22:12:28'
+  crc: '0x881d0d9e'
+- name: QBACK.DAT
+  size: 368640
+  date: '1999-05-12T22:17:46'
+  crc: '0x48062cba'
+- name: README.TXT
+  size: 197
+  date: '1999-05-12T22:19:04'
+  crc: '0xbad8a364'

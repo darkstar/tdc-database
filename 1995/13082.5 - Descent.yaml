@@ -1,0 +1,32 @@
+filename: Descent v1.4 (Installer) [SW] (1995)(Interplay Productions, Inc.) [Action].zip
+tdc_id: '13082.5'
+title:
+  screen: Descent
+publisher: Interplay Productions, Inc.
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T08:43:10'
+  last_modified: '2019-03-02T08:43:10'
+version: '1.4'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DESCENT1.SOW
+  size: 1411591
+  date: '1995-04-11T18:25:54'
+  crc: '0x761227c1'
+- name: DESCENT2.SOW
+  size: 1449231
+  date: '1995-04-11T18:26:42'
+  crc: '0xbe265388'
+- name: INSTALL.EXE
+  size: 44773
+  date: '1995-04-11T17:05:18'
+  crc: '0x74099a68'

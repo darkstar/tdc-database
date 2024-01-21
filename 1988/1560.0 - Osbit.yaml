@@ -1,0 +1,30 @@
+filename: Osbit v1.2 [SW] (1988)(STD Research) [Action].zip
+tdc_id: '1560.0'
+title:
+  screen: Osbit
+publisher: STD Research
+year: '1988'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:26:34'
+  last_modified: '2019-03-01T18:26:34'
+version: '1.2'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: OSBIT.EXE
+references:
+  dosid: DOS06990
+  exodos: Osbit (1988).zip
+files:
+- name: OSBIT.DOC
+  size: 2825
+  date: '2099-12-31T23:59:02'
+  crc: '0x784d3438'
+- name: OSBIT.EXE
+  size: 85948
+  date: '1988-11-01T00:00:00'
+  crc: '0x162dedd2'

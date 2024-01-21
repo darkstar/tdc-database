@@ -1,0 +1,104 @@
+filename: Arcade Trivia Quiz (1993)(Zeppelin Games Limited) [Educational].zip
+tdc_id: '8722.0'
+title:
+  box: Arcade Trivia Quiz
+publisher: Zeppelin Games Limited
+year: '1993'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T19:01:14'
+  last_modified: '2019-03-01T19:01:14'
+type: zip
+commands:
+  play: TRIVIA.EXE
+references:
+  dosid: DOS00830
+  exodos: Arcade Trivia Quiz (1989).zip
+files:
+- name: GRAPHICS\
+  size: 0
+  date: '2012-08-10T18:03:38'
+- name: GRAPHICS\ARROW.DAT
+  size: 512
+  date: '1993-04-01T21:39:52'
+  crc: '0x2571d330'
+- name: GRAPHICS\ART
+  size: 25600
+  date: '1991-04-19T15:57:00'
+  crc: '0x0a7c9acc'
+- name: GRAPHICS\BOX.DAT
+  size: 3840
+  date: '1993-04-04T17:15:54'
+  crc: '0xf61f1f44'
+- name: GRAPHICS\CARDS.DAT
+  size: 28800
+  date: '1993-04-30T17:25:28'
+  crc: '0x1b6f863a'
+- name: GRAPHICS\CHAR16.DAT
+  size: 10240
+  date: '1993-04-04T09:52:36'
+  crc: '0x39a653ca'
+- name: GRAPHICS\CHAR8.DAT
+  size: 2560
+  date: '1993-05-01T18:58:40'
+  crc: '0xa2589c01'
+- name: GRAPHICS\FACES.DAT
+  size: 14784
+  date: '1993-04-03T22:05:22'
+  crc: '0x20ff4675'
+- name: GRAPHICS\LOADER.EGA
+  size: 23798
+  date: '1993-04-24T13:44:34'
+  crc: '0x5dc1ba0c'
+- name: GRAPHICS\LOADER.LBM
+  size: 23798
+  date: '1993-04-30T20:47:22'
+  crc: '0x4060d39c'
+- name: GRAPHICS\LOGO.LBM
+  size: 10152
+  date: '1993-04-02T20:28:02'
+  crc: '0xce167cd1'
+- name: GRAPHICS\QART.BLK
+  size: 30720
+  date: '1993-10-06T15:42:42'
+  crc: '0x5410fab3'
+- name: GRAPHICS\QFTV.BLK
+  size: 30600
+  date: '1993-10-06T15:43:20'
+  crc: '0x3c0c666b'
+- name: GRAPHICS\QGEO.BLK
+  size: 30720
+  date: '1993-10-06T15:44:38'
+  crc: '0x80863fcf'
+- name: GRAPHICS\QMUS.BLK
+  size: 30720
+  date: '1993-10-06T15:43:58'
+  crc: '0xdc310650'
+- name: GRAPHICS\QSCI.BLK
+  size: 30720
+  date: '1993-10-06T15:42:04'
+  crc: '0x13bd12c7'
+- name: GRAPHICS\QSPR.BLK
+  size: 30720
+  date: '1993-10-06T15:46:22'
+  crc: '0xfdbb25a6'
+- name: GRAPHICS\TIMER.DAT
+  size: 3072
+  date: '1993-04-03T07:06:18'
+  crc: '0xbf3479a7'
+- name: MUSIC\
+  size: 0
+  date: '2012-08-10T18:03:38'
+- name: MUSIC\ARCADE.MOD
+  size: 72082
+  date: '1991-04-19T16:00:00'
+  crc: '0xe675c950'
+- name: SETUP.DAT
+  size: 6
+  date: '1993-10-11T15:56:20'
+  crc: '0x7a9e7206'
+- name: TRIVIA.EXE
+  size: 32921
+  date: '1993-10-11T16:50:40'
+  crc: '0x829b9eaa'

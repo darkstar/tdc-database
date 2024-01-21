@@ -1,0 +1,32 @@
+filename: Lunar Landing (1982)(Bruce Guthrie) [Action, Simulation].zip
+tdc_id: '11964.0'
+title:
+  screen: Lunar Landing
+publisher: Bruce Guthrie
+year: '1982'
+genre:
+- Action
+- Simulation
+language: English
+date:
+  added: '2019-03-01T18:23:00'
+  last_modified: '2019-03-01T18:23:00'
+type: zip
+commands:
+  play: LUNAR.BAT
+references:
+  dosid: DOS06935
+  exodos: Lunar Landing (1982).zip
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: LUNAR.BAS
+  size: 2688
+  date: '1982-05-27T21:00:00'
+  crc: '0xe437b542'
+- name: LUNAR.BAT
+  size: 16
+  date: '2014-12-18T17:59:58'
+  crc: '0x32f6d5d9'

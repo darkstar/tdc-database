@@ -1,0 +1,63 @@
+filename: Red Lightning v1.1 (1989)(Strategic Simulations, Inc.) [Strategy].zip
+tdc_id: '14809.1'
+title:
+  box: Red Lightning
+publisher: Strategic Simulations, Inc.
+year: '1989'
+genre: Strategy
+language: English
+date:
+  added: '2008-03-02T03:52:24'
+  last_modified: '2008-03-02T03:52:24'
+version: '1.1'
+type: zip
+commands:
+  play: RL.EXE
+references:
+  dosid: DOS04263
+  exodos: Red Lightning (1989).zip
+files:
+- name: CGA.BGI
+  size: 6253
+  date: '1988-08-29T00:00:00'
+  crc: '0x17cbdd92'
+- name: CGAHEXES.IMG
+  size: 16384
+  date: '1989-07-05T06:36:02'
+  crc: '0xf61dd80d'
+- name: EGAHEXES.IMG
+  size: 64000
+  date: '1989-03-29T09:01:28'
+  crc: '0x32f4b2dc'
+- name: EGAVGA.BGI
+  size: 5363
+  date: '1988-08-29T00:00:00'
+  crc: '0x06d36962'
+- name: GH.SCE
+  size: 51962
+  date: '1989-05-10T07:27:28'
+  crc: '0xb979ccf2'
+- name: LTB.SCE
+  size: 51962
+  date: '1989-05-10T07:34:18'
+  crc: '0xf6ea3e80'
+- name: OB.ASC
+  size: 66512
+  date: '1989-06-13T09:18:04'
+  crc: '0x51dd963b'
+- name: README
+  size: 5197
+  date: '1989-07-26T15:21:54'
+  crc: '0x31589cf4'
+- name: RL.EXE
+  size: 142096
+  date: '1989-08-08T17:07:08'
+  crc: '0x37ee3437'
+- name: RL.SCE
+  size: 51962
+  date: '1989-05-10T07:35:06'
+  crc: '0x47e07ee5'
+- name: RLSLTR.SCE
+  size: 51962
+  date: '1989-05-10T07:34:46'
+  crc: '0x21fb594b'

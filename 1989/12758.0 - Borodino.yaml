@@ -1,0 +1,64 @@
+filename: Borodino (1989)(ARC) [Simulation, Strategy, War][!].zip
+tdc_id: '12758.0'
+title:
+  box: Borodino
+publisher: ARC
+year: '1989'
+genre:
+- Simulation
+- Strategy
+- War
+language: English
+date:
+  added: '2021-12-21T05:43:06'
+  last_modified: '2021-12-21T05:43:06'
+type: zip
+tags:
+- KnownGood
+commands:
+  play: BORODINO.EXE
+files:
+- name: AREA.DAT
+  size: 18445
+  date: '1989-04-13T21:26:14'
+  crc: '0x687569bc'
+- name: B870.MAP
+  size: 25088
+  date: '1988-11-04T15:31:30'
+  crc: '0xfede2bdf'
+- name: BORODINO.CGA
+  size: 16384
+  date: '1980-01-03T18:22:56'
+  crc: '0xfc3f23b2'
+- name: BORODINO.EGA
+  size: 114688
+  date: '1989-04-19T11:19:20'
+  crc: '0xcc54937f'
+- name: BORODINO.EXE
+  size: 358354
+  date: '1989-10-19T22:38:40'
+  crc: '0x0b69347c'
+- name: BORODINO.EX_
+  size: 361392
+  date: '1989-10-19T22:38:40'
+  crc: '0x46108935'
+- name: CGAFLAG
+  size: 213
+  date: '1989-10-19T22:38:40'
+  crc: '0x5d55e098'
+- name: FRENCH.GEN
+  size: 2287
+  date: '1989-04-13T21:27:40'
+  crc: '0xc87c4f4c'
+- name: LEXICON.TAB
+  size: 7245
+  date: '1989-04-13T21:29:36'
+  crc: '0x302d7a52'
+- name: PARSE.TAB
+  size: 5386
+  date: '1980-01-01T03:44:42'
+  crc: '0x1de39825'
+- name: RUSSIAN.GEN
+  size: 2580
+  date: '1989-04-13T21:28:58'
+  crc: '0x34cdae55'

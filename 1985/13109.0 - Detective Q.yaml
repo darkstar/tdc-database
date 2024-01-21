@@ -1,0 +1,30 @@
+filename: Detective Q (1985)(Anonymous) [Adventure, Simulation].zip
+tdc_id: '13109.0'
+title:
+  screen: Detective Q
+publisher: Anonymous
+year: '1985'
+genre:
+- Adventure
+- Simulation
+language: English
+date:
+  added: '2019-03-01T18:24:24'
+  last_modified: '2019-03-01T18:24:24'
+type: zip
+media: Download
+commands:
+  play: DETECTIV.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: DETECTIV.BAS
+  size: 4535
+  date: '1985-10-24T04:26:58'
+  crc: '0x7698647e'
+- name: DETECTIV.BAT
+  size: 19
+  date: '2014-12-18T18:00:26'
+  crc: '0x7aa5b8d8'

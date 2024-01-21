@@ -1,0 +1,28 @@
+filename: Zap'em (1982)(IBM) [Action].zip
+tdc_id: '15761.0'
+title:
+  box: Zap'em
+publisher: IBM
+year: '1982'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:23:06'
+  last_modified: '2019-03-01T18:23:06'
+type: zip
+references:
+  dosid: DOS05793
+  exodos: Zap'em (1982).zip
+files:
+- name: Basica.exe
+  size: 88640
+  date: '2001-02-16T08:07:50'
+  crc: '0x0ebd8da0'
+- name: Runme.bat
+  size: 19
+  date: '2004-04-01T06:40:20'
+  crc: '0xa090ee2b'
+- name: ZAP-EM.BAS
+  size: 4448
+  date: '1988-08-21T23:04:08'
+  crc: '0xb964fad3'

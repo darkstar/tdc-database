@@ -1,0 +1,27 @@
+filename: Monopo (1997)(Colin Davis) [Strategy].zip
+tdc_id: '4004.0'
+title:
+  screen: Monopo
+publisher: Colin Davis
+year: '1997'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:35:46'
+  last_modified: '2019-03-02T10:35:46'
+type: zip
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 24
+  date: '2018-07-05T02:29:32'
+  crc: '0x04705157'
+- name: MONOPOLY.BAS
+  size: 54547
+  date: '2018-03-10T02:22:24'
+  crc: '0xcac1e67f'
+- name: QB.EXE
+  size: 278804
+  date: '2016-03-13T02:19:58'
+  crc: '0xb08bc0fe'

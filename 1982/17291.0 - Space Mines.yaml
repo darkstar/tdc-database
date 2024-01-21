@@ -1,0 +1,28 @@
+filename: Space Mines (1982)(Usborne Publishing Ltd) [Strategy].zip
+tdc_id: '17291.0'
+title:
+  screen: Space Mines
+publisher: Usborne Publishing Ltd
+year: '1982'
+genre: Strategy
+language: English
+date:
+  added: '2023-03-16T07:42:48'
+  last_modified: '2023-03-16T07:42:48'
+type: zip
+media: Type-In
+commands:
+  play: Go.bat
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T12:00:00'
+  crc: '0x92293842'
+- name: Go.bat
+  size: 13
+  date: '2022-08-03T19:57:24'
+  crc: '0x17f91b34'
+- name: SMines.bas
+  size: 1954
+  date: '2022-08-03T18:28:54'
+  crc: '0x0b340bb1'

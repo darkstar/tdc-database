@@ -1,0 +1,53 @@
+filename: Double-X Slots [SW] (1992)(J&J Gameware) [Simulation].zip
+tdc_id: '6678.0'
+title:
+  screen: Double-X Slots
+publisher: J&J Gameware
+year: '1992'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:42:28'
+  last_modified: '2019-03-01T18:42:28'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: DBLXSLT2.EXE
+references:
+  dosid: DOS06810
+  exodos: Double-X Slots (1992).zip
+files:
+- name: DBLXSLOT.DOC
+  size: 2939
+  date: '1992-04-20T00:00:00'
+  crc: '0x61bf0201'
+- name: DBLXSLT2.EXE
+  size: 55920
+  date: '1993-03-05T00:00:00'
+  crc: '0x3413709a'
+- name: READ.ME2
+  size: 2228
+  date: '1992-01-16T00:00:00'
+  crc: '0x33f99731'
+- name: REGISTER.FRM
+  size: 2479
+  date: '1992-01-18T00:00:00'
+  crc: '0x26a88972'
+- name: SLTMTRXC.SCN
+  size: 17152
+  date: '1992-01-19T00:00:00'
+  crc: '0x198818bf'
+- name: SLTMTRXE.SCN
+  size: 98196
+  date: '1993-02-22T00:00:00'
+  crc: '0x02dea796'
+- name: SLTPLVPC.SCN
+  size: 17152
+  date: '1992-01-18T00:00:00'
+  crc: '0x4c2f5f0a'
+- name: SLTPLVPE.SCN
+  size: 88189
+  date: '1993-02-22T00:00:00'
+  crc: '0x500fde67'

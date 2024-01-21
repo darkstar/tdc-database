@@ -1,0 +1,107 @@
+filename: Al Pond- On Holiday v1.3 (2004)(Eigen Lenk) [Adventure].zip
+tdc_id: '8209.0'
+title:
+  screen: 'Al Pond: On Holiday'
+publisher: Eigen Lenk
+year: '2004'
+genre: Adventure
+language: English
+date:
+  added: '2020-03-08T23:07:54'
+  last_modified: '2020-03-08T23:07:54'
+version: '1.3'
+type: zip
+commands:
+  play: AGI.COM
+references:
+  dosid: DOS00420
+  exodos: Al Pond on Holiday (2003).zip
+files:
+- name: AGI
+  size: 39936
+  date: '2001-06-23T15:44:22'
+  crc: '0x2b72b173'
+- name: AGI.COM
+  size: 3115
+  date: '1986-11-16T06:32:06'
+  crc: '0x9d4eb9a4'
+- name: AGIDATA.OVL
+  size: 8192
+  date: '1994-02-24T09:26:58'
+  crc: '0xd2aa52f4'
+- name: Al Pond Site.URL
+  size: 79
+  date: '2002-08-20T09:01:54'
+  crc: '0xf3a04afc'
+- name: Al Pond Theme.mid
+  size: 1557
+  date: '2002-06-04T10:37:10'
+  crc: '0xa19d5034'
+- name: CGA_GRAF.OVL
+  size: 1024
+  date: '1994-02-24T09:26:58'
+  crc: '0xa8f00e6b'
+- name: EGA_GRAF.OVL
+  size: 1024
+  date: '1994-02-24T09:26:58'
+  crc: '0x99f00f0f'
+- name: HGC_FONT
+  size: 3072
+  date: '1994-02-24T09:27:00'
+  crc: '0x200435c7'
+- name: HGC_GRAF.OVL
+  size: 1536
+  date: '1994-02-24T09:26:58'
+  crc: '0x8ca5a1da'
+- name: HGC_OBJS.OVL
+  size: 1024
+  date: '1994-02-24T09:27:00'
+  crc: '0xbbd13bbf'
+- name: IBM_OBJS.OVL
+  size: 512
+  date: '1994-02-24T09:26:58'
+  crc: '0x3b17b970'
+- name: JR_GRAF.OVL
+  size: 512
+  date: '1994-02-24T09:26:58'
+  crc: '0x2c7b7b15'
+- name: LOGDIR
+  size: 300
+  date: '2004-08-09T01:07:26'
+  crc: '0x0e99f3c2'
+- name: LOGFILE
+  size: 2521
+  date: '2004-08-09T01:07:20'
+  crc: '0xd4263839'
+- name: OBJECT
+  size: 92
+  date: '2003-03-20T10:54:20'
+  crc: '0x0cb7dba8'
+- name: PICDIR
+  size: 84
+  date: '2004-08-09T01:07:26'
+  crc: '0xbadfee0d'
+- name: README.TXT
+  size: 451
+  date: '2004-08-09T01:03:58'
+  crc: '0xe90fd856'
+- name: SNDDIR
+  size: 39
+  date: '2004-08-09T01:07:26'
+  crc: '0x98278fbe'
+- name: VG_GRAF.OVL
+  size: 512
+  date: '1994-02-24T09:26:58'
+  crc: '0x086a550b'
+- name: VIEWDIR
+  size: 684
+  date: '2004-08-09T01:07:26'
+  crc: '0x8307a7c1'
+- name: VOL.0
+  size: 140665
+  date: '2004-08-09T01:07:26'
+  crc: '0xf3e12352'
+- name: WORDS.TOK
+  size: 4688
+  date: '2003-03-21T08:59:56'
+  crc: '0x7f11d494'

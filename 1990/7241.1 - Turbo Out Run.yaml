@@ -1,0 +1,43 @@
+filename: Turbo Out Run [a1] (1990)(SEGA Enterprises Ltd.) [Action, Simulation, Racing - Driving].zip
+tdc_id: '7241.1'
+title:
+  box: Turbo Out Run
+publisher: SEGA Enterprises Ltd.
+year: '1990'
+genre:
+- Action
+- Simulation
+- Racing - Driving
+language: English
+date:
+  added: '2019-12-17T08:12:52'
+  last_modified: '2019-12-17T08:12:52'
+type: zip
+tags:
+- Alternate: 1
+commands:
+  play: SEGA.EXE
+references:
+  dosid: DOS05313
+  exodos: Turbo Out Run (1990).zip
+files:
+- name: SEGA.EXE
+  size: 36017
+  date: '1990-07-31T10:31:00'
+  crc: '0x27d56588'
+- name: SEGA.EX_
+  size: 36017
+  date: '1990-07-31T10:31:00'
+  crc: '0x99b65a8a'
+- name: TURBO3D1.RSC
+  size: 320385
+  date: '1990-07-31T10:31:00'
+  crc: '0x694eff74'
+- name: TURBO3D2.RSC
+  size: 355682
+  date: '1990-07-31T10:31:00'
+  crc: '0x1b532a58'
+- name: TURBO3D3.RSC
+  size: 360783
+  date: '1990-07-31T10:31:00'
+  crc: '0x68bb3b48'

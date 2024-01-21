@@ -1,0 +1,31 @@
+filename: Bird-Brain (1984)(Emerald Valley Publishing Co.) [Action].zip
+tdc_id: '12665.0'
+title:
+  screen: Bird-Brain
+publisher: Emerald Valley Publishing Co.
+year: '1984'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:00'
+  last_modified: '2019-03-01T18:24:00'
+type: zip
+media: Download
+commands:
+  play: bird.bat
+references:
+  dosid: DOS06743
+  exodos: Bird Brain (1984).zip
+files:
+- name: BRDBRAIN.BAS
+  size: 6869
+  date: '2007-09-03T09:06:36'
+  crc: '0xc7833eca'
+- name: bird.bat
+  size: 16
+  date: '2007-09-03T09:05:04'
+  crc: '0xc45c3f33'
+- name: gwbasic.exe
+  size: 80592
+  date: '1997-11-10T17:19:20'
+  crc: '0x8462d0e4'

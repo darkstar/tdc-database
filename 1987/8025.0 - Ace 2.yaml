@@ -1,0 +1,32 @@
+filename: Ace 2 (1987)(Artronic Limited) [Simulation].zip
+tdc_id: '8025.0'
+title:
+  box: Ace 2
+publisher: Artronic Limited
+year: '1987'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:25:06'
+  last_modified: '2019-03-01T18:25:06'
+type: zip
+references:
+  dosid: DOS00490
+  exodos: ACE 2 (1987).zip
+files:
+- name: ACE.COM
+  size: 64640
+  date: '1988-02-10T13:35:26'
+  crc: '0x79b6a051'
+- name: ACE2.BAT
+  size: 128
+  date: '1987-12-17T20:13:24'
+  crc: '0xac57c15a'
+- name: ACEIN.COM
+  size: 3712
+  date: '1987-12-30T15:42:54'
+  crc: '0x7ba71c15'
+- name: ACELOAD.COM
+  size: 16128
+  date: '1987-12-17T20:08:14'
+  crc: '0x4155ca79'

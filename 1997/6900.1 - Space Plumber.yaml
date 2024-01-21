@@ -1,0 +1,45 @@
+filename: Space Plumber v1.0.2 (1997)(Ángel Ortega) [Action, Strategy].zip
+tdc_id: '6900.1'
+title:
+  screen: Space Plumber
+publisher: Ángel Ortega
+year: '1997'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-02T10:44:36'
+  last_modified: '2019-03-02T10:44:36'
+version: 1.0.2
+type: zip
+commands:
+  play: SPLUMBER.EXE
+references:
+  dosid: DOS15746
+  exodos: Space Plumber (1998).zip
+files:
+- name: CWSDPMI.EXE
+  size: 20217
+  date: '1996-08-18T18:46:18'
+  crc: '0x6ba5fa62'
+- name: SPDOC.HTM
+  size: 12900
+  date: '1997-11-26T09:43:02'
+  crc: '0x9340a0b9'
+- name: SPDOC.TXT
+  size: 10290
+  date: '1997-11-26T09:45:20'
+  crc: '0xcfd78d2e'
+- name: SPLUMBER.EXE
+  size: 72740
+  date: '1997-12-11T18:36:54'
+  crc: '0x3c3ba694'
+- name: SPLUMBER.PCK
+  size: 4067324
+  date: '1997-11-19T17:04:34'
+  crc: '0xe057a353'
+- name: STRATOS.TXT
+  size: 6729
+  date: '1997-11-20T12:56:02'
+  crc: '0x2106bcd6'

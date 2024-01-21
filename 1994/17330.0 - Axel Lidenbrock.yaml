@@ -1,0 +1,31 @@
+filename: Axel Lidenbrock (Es) (1994)(Tangram) [Adventure].zip
+tdc_id: '17330.0'
+title:
+  screen: Axel Lidenbrock
+publisher: Tangram
+year: '1994'
+genre: Adventure
+language: Spanish
+date:
+  added: '2023-07-26T11:05:57'
+  last_modified: '2023-07-26T11:05:57'
+type: zip
+commands:
+  play: AXEL.BAT
+files:
+- name: AXEL.BAT
+  size: 12
+  date: '1994-01-08T22:43:44'
+  crc: '0x542a8a01'
+- name: AXEL.DAT
+  size: 386616
+  date: '1994-01-08T22:44:02'
+  crc: '0x177cda36'
+- name: AXEL.GXL
+  size: 4134789
+  date: '1994-01-08T22:48:18'
+  crc: '0x5ebeab09'
+- name: COBALT.EXE
+  size: 53724
+  date: '1994-01-08T22:48:20'
+  crc: '0xe228d1b7'

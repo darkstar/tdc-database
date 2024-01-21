@@ -1,0 +1,104 @@
+filename: ALF- The First Adventure v3.3 (1988)(Box Office, Inc.) [Action].zip
+tdc_id: '8225.1'
+title:
+  box: 'ALF: The First Adventure'
+publisher: Box Office, Inc.
+year: '1988'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:25:54'
+  last_modified: '2022-11-21T10:50:13'
+version: '3.3'
+type: zip
+commands:
+  play: GAME.BAT
+references:
+  mobygames: https://www.mobygames.com/game/dos/alf-the-first-adventure
+  dosid: DOS00472
+  exodos: ALF - The First Adventure (1987).zip
+files:
+- name: ADD_LIB4.PIC
+  size: 16392
+  date: '1980-01-01T01:56:46'
+  crc: '0x4d796194'
+- name: ALF.EXE
+  size: 67994
+  date: '1988-08-11T17:31:52'
+  crc: '0x0c23757c'
+- name: ALF_HSCR.DAT
+  size: 180
+  date: '1990-10-21T15:06:36'
+  crc: '0x0f68b33c'
+- name: ALF_ISM0.PIC
+  size: 16392
+  date: '1988-03-07T05:59:10'
+  crc: '0x1856612c'
+- name: ALF_ISM1.PIC
+  size: 16392
+  date: '1980-01-01T01:53:28'
+  crc: '0x90407940'
+- name: ALF_ISM2.PIC
+  size: 16392
+  date: '1980-01-01T06:41:26'
+  crc: '0x824db845'
+- name: ALF_ISM3.PIC
+  size: 16392
+  date: '1980-01-01T00:20:36'
+  crc: '0xf6ba837d'
+- name: ALF_ISM4.PIC
+  size: 16392
+  date: '1980-01-01T00:25:16'
+  crc: '0x3ca6ccdd'
+- name: ALF_TITL.PIC
+  size: 16392
+  date: '1988-08-01T18:33:38'
+  crc: '0x76e87408'
+- name: BAD1.PIC
+  size: 16392
+  date: '1980-01-01T00:42:56'
+  crc: '0x770d0333'
+- name: BAD2.PIC
+  size: 16392
+  date: '1980-01-01T06:34:02'
+  crc: '0x49a6f4ae'
+- name: BO_SCR.PIC
+  size: 16392
+  date: '1992-01-22T05:58:20'
+  crc: '0xb907cb30'
+- name: BO_SHP.PIC
+  size: 16392
+  date: '1987-12-13T01:55:52'
+  crc: '0x9f190bbf'
+- name: CONFIG.COM
+  size: 2
+  date: '1980-01-01T00:12:24'
+  crc: '0x04e39b34'
+- name: CONFIG.CO_
+  size: 64
+  date: '1980-01-01T00:12:24'
+  crc: '0x45cb7cdd'
+- name: FNT2.PIC
+  size: 16392
+  date: '1988-02-22T23:58:48'
+  crc: '0x72a10303'
+- name: GAME.BAT
+  size: 70
+  date: '1980-01-01T00:17:04'
+  crc: '0xf23047ca'
+- name: HIGH2.PIC
+  size: 16392
+  date: '1980-01-01T00:10:20'
+  crc: '0xd841d870'
+- name: NEW_LIB3.PIC
+  size: 16392
+  date: '1988-08-01T18:38:16'
+  crc: '0xd33351fe'
+- name: RND.DAT
+  size: 16000
+  date: '1987-12-11T19:59:58'
+  crc: '0xafbab816'
+- name: VERS.DAT
+  size: 45
+  date: '1988-09-03T22:41:14'
+  crc: '0x5ef2c66a'

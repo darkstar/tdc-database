@@ -1,0 +1,27 @@
+filename: Cannoneer (1982)(Ed Davis) [Simulation].zip
+tdc_id: '8588.0'
+title:
+  screen: Cannoneer
+publisher: Ed Davis
+year: '1982'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:22:56'
+  last_modified: '2019-03-01T18:22:56'
+type: zip
+commands:
+  play: CANNON.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: CANNON.BAS
+  size: 2048
+  date: '1982-01-20T00:00:00'
+  crc: '0x797fbf82'
+- name: CANNON.BAT
+  size: 16
+  date: '2014-12-19T00:38:30'
+  crc: '0xa761440f'

@@ -1,0 +1,36 @@
+filename: Bubble Toast v1.0alpha (1997)(ribbon) [Action].zip
+tdc_id: '3876.0'
+title:
+  screen: Bubble Toast
+publisher: ribbon
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:25:24'
+  last_modified: '2019-03-02T10:25:24'
+version: 1.0alpha
+type: zip
+commands:
+  play: B-TOAST.EXE
+files:
+- name: B-TOAST.EXE
+  size: 179456
+  date: '1997-08-17T05:41:52'
+  crc: '0x4b453aea'
+- name: B-TOAST.NFO
+  size: 6082
+  date: '1997-08-18T00:04:28'
+  crc: '0x9365d2df'
+- name: DATA\ALPHA.DAT
+  size: 4096
+  date: '1997-08-17T03:15:52'
+  crc: '0xc062c5c3'
+- name: DATA\DRBUBBLE.MOD
+  size: 11154
+  date: '1997-08-17T04:11:46'
+  crc: '0x10697397'
+- name: DATA\SPRITES.RAW
+  size: 192768
+  date: '1997-08-17T03:15:44'
+  crc: '0x43e2a7c5'

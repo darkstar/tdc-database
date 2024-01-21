@@ -1,0 +1,57 @@
+filename: Warlords II Scenario Builder v1.11 (Installer) (1994)(SSG Strategic Studies Group Pty Ltd.) [Strategy, Addon].zip
+tdc_id: '16026.0'
+title:
+  box: Warlords II Scenario Builder
+publisher: SSG Strategic Studies Group Pty Ltd.
+year: '1994'
+genre:
+- Strategy
+- Addon
+language: English
+date:
+  added: '2021-12-28T16:51:44'
+  last_modified: '2021-12-28T16:51:44'
+version: '1.11'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK2\
+  size: 0
+  date: '1994-04-20T13:28:12'
+- name: DISK2\WARSCEN.PAK
+  size: 1455314
+  date: '1994-04-20T13:28:12'
+  crc: '0x846a7524'
+- name: DISK3\
+  size: 0
+  date: '1994-04-20T13:38:32'
+- name: DISK3\WARSCEN.PAK
+  size: 1136120
+  date: '1994-04-20T13:38:32'
+  crc: '0x30ca2e79'
+- name: INSTALL.EXE
+  size: 31929
+  date: '1992-09-01T12:00:00'
+  crc: '0xa4d5dc97'
+- name: INSTALL.FIL
+  size: 3781
+  date: '1994-04-20T11:41:30'
+  crc: '0x67c78993'
+- name: README.DOC
+  size: 7242
+  date: '1994-04-20T12:21:24'
+  crc: '0x7c069e6a'
+- name: SCENARIO.DAT
+  size: 84
+  date: '1994-04-20T09:50:48'
+  crc: '0x65c2a54c'
+- name: WARSCEN.PAK
+  size: 568486
+  date: '1994-04-20T13:21:46'
+  crc: '0x44fc03f6'
+- name: WARUP.PAK
+  size: 841257
+  date: '1994-04-20T13:16:40'
+  crc: '0x730654af'

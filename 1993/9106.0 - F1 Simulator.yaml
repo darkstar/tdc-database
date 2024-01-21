@@ -1,0 +1,72 @@
+filename: F1 Simulator (Es) (1993)(Mago Ediciones SL) [Action, Racing - Driving].zip
+tdc_id: '9106.0'
+title:
+  screen: F1 Simulator
+publisher: Mago Ediciones SL
+year: '1993'
+genre:
+- Action
+- Racing - Driving
+language: Spanish
+date:
+  added: '2019-03-01T19:07:16'
+  last_modified: '2019-03-01T19:07:16'
+type: zip
+commands:
+  play: F1.EXE
+references:
+  dosid: DOS15381
+  exodos: F1 Simulator (1993).zip
+files:
+- name: 000.PAL
+  size: 775
+  date: '1993-06-03T15:02:08'
+  crc: '0x602ea671'
+- name: 000.SCR
+  size: 64775
+  date: '1993-07-05T13:51:42'
+  crc: '0xc66c0e20'
+- name: 001.SCR
+  size: 64775
+  date: '1993-07-05T13:51:44'
+  crc: '0x0ff495f3'
+- name: 002.SCR
+  size: 64775
+  date: '1993-07-05T13:51:46'
+  crc: '0x3dcaeebe'
+- name: 003.SCR
+  size: 64775
+  date: '1993-09-05T21:03:26'
+  crc: '0x2988308b'
+- name: ELIGE.SCR
+  size: 64775
+  date: '1993-09-05T21:04:02'
+  crc: '0x69a65873'
+- name: F1.EXE
+  size: 64011
+  date: '1993-10-21T11:04:34'
+  crc: '0x882261f4'
+- name: F1PRES.PAL
+  size: 775
+  date: '1993-07-05T12:29:00'
+  crc: '0x33d171c2'
+- name: F1PRES.SCR
+  size: 64775
+  date: '1993-07-05T12:29:00'
+  crc: '0x89d847ac'
+- name: MONOPLAZ.SPI
+  size: 1280
+  date: '1993-09-05T14:45:54'
+  crc: '0xb7da9bc9'
+- name: MONOPLAZ.SPR
+  size: 13122
+  date: '1993-09-05T14:46:30'
+  crc: '0xeaeca3ca'
+- name: TECLAINT.BIN
+  size: 98
+  date: '1980-07-29T06:22:48'
+  crc: '0x53a1e02e'
+- name: YEC.SCR
+  size: 64775
+  date: '1993-07-14T06:59:36'
+  crc: '0x459d1754'

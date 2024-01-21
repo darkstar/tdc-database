@@ -1,0 +1,38 @@
+filename: Reader Rabbit v5.1 (1991)(Learning Co., Inc., The) [Educational][!].zip
+tdc_id: '14771.3'
+title:
+  box: Reader Rabbit
+publisher: Learning Co., Inc., The
+year: '1991'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T18:37:32'
+  last_modified: '2019-03-01T18:37:32'
+version: '5.1'
+type: zip
+tags:
+- KnownGood
+references:
+  dosid: DOS16095
+  exodos: Reader Rabbit 1 (1991).zip
+files:
+- name: INSTALL.EXE
+  size: 11212
+  date: '1991-12-30T13:41:50'
+  crc: '0x39b3ceaa'
+- name: RR1 PROG.RAM
+  size: 0
+  date: '1992-02-10T16:04:58'
+- name: RR1.BAT
+  size: 254
+  date: '1991-12-30T11:26:18'
+  crc: '0x64e8db25'
+- name: TLC\RR1\RR000.DAT
+  size: 218531
+  date: '1992-02-10T15:25:22'
+  crc: '0x61be588d'
+- name: TLC\RR1\RR1.EXE
+  size: 87944
+  date: '1992-02-10T16:02:56'
+  crc: '0x6fee13fa'

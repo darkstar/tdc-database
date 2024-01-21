@@ -1,0 +1,31 @@
+filename: Ecomatic - Eco und Ecomine (Installer) (De) [FW] (1994)(Volkswagen) [Action].zip
+tdc_id: '13294.1'
+title:
+  screen: Ecomatic - Eco und Ecomine
+publisher: Volkswagen
+year: '1994'
+genre: Action
+language: German
+date:
+  added: '2019-09-30T07:02:54'
+  last_modified: '2019-09-30T07:02:54'
+type: zip
+tags:
+- Freeware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: ECO.DAT
+  size: 496565
+  date: '1994-02-02T22:45:56'
+  crc: '0x590c3787'
+- name: INSTALL.EXE
+  size: 36995
+  date: '1994-02-02T22:45:56'
+  crc: '0xdcd84b4b'
+- name: README.TXT
+  size: 3032
+  date: '1994-02-02T22:45:56'
+  crc: '0x2ca985a4'

@@ -1,0 +1,46 @@
+filename: Explora III- Sous le Signe du Serpent (Installer) (Fr) (1990)(Microvalue) [Adventure].zip
+tdc_id: '13459.1'
+title:
+  box: 'Explora III: Sous le Signe du Serpent'
+publisher: Microvalue
+year: '1990'
+genre: Adventure
+language: French
+date:
+  added: '2019-03-01T18:32:34'
+  last_modified: '2019-03-01T18:32:34'
+type: zip
+installer: true
+files:
+- name: config_a.dat
+  size: 18
+  date: '1996-12-24T23:32:00'
+  crc: '0x8bdf5fab'
+- name: config_b.dat
+  size: 18
+  date: '1996-12-24T23:32:00'
+  crc: '0xd845042f'
+- name: config_c.dat
+  size: 18
+  date: '1996-12-24T23:32:00'
+  crc: '0x5fe3cf6c'
+- name: config_d.dat
+  size: 18
+  date: '1996-12-24T23:32:00'
+  crc: '0x7f71b327'
+- name: config_e.dat
+  size: 18
+  date: '1996-12-24T23:32:00'
+  crc: '0xf8d77864'
+- name: config_f.dat
+  size: 18
+  date: '1996-12-24T23:32:00'
+  crc: '0xab4d23e0'
+- name: explora3.exe
+  size: 1448907
+  date: '1996-12-24T23:32:00'
+  crc: '0x961df328'
+- name: install.bat
+  size: 2270
+  date: '1996-12-24T23:32:00'
+  crc: '0x2a2b8bc8'

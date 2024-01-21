@@ -1,0 +1,67 @@
+filename: EGA Coloring Book v2.2 [SW] (1991)(Kinderware, Inc.) [Educational].zip
+tdc_id: '5321.3'
+title:
+  screen: EGA Coloring Book
+publisher: Kinderware, Inc.
+year: '1991'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T18:35:46'
+  last_modified: '2019-03-01T18:35:46'
+version: '2.2'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: ECB.EXE
+files:
+- name: ECB.DOC
+  size: 53075
+  date: '1991-07-02T22:57:38'
+  crc: '0x03cbd129'
+- name: ECB.EXE
+  size: 171808
+  date: '1991-07-28T10:43:48'
+  crc: '0xb5409c2b'
+- name: ECBCOLOR.DAT
+  size: 8880
+  date: '1989-10-23T21:40:20'
+  crc: '0xa0d52a9a'
+- name: ECBFONT.000
+  size: 2625
+  date: '1989-08-09T20:42:00'
+  crc: '0xc52762e0'
+- name: ECBIMAGE.GXL
+  size: 32301
+  date: '1991-03-26T22:14:56'
+  crc: '0x3cc51729'
+- name: ECBORDER.FRM
+  size: 3345
+  date: '1991-04-28T09:42:50'
+  crc: '0x1213246e'
+- name: ECBPAL.GXL
+  size: 118035
+  date: '1991-03-24T21:03:56'
+  crc: '0xd9d080dd'
+- name: ECBPREVU.CBK
+  size: 57602
+  date: '1991-04-04T21:34:56'
+  crc: '0x1093da94'
+- name: ECBPREVU.CDT
+  size: 37500
+  date: '1991-07-02T21:55:30'
+  crc: '0x4ab93438'
+- name: ECBPREVU.GXL
+  size: 75559
+  date: '1991-03-09T16:40:44'
+  crc: '0x0af5ddb8'
+- name: ECBSETUP.DAT
+  size: 77
+  date: '1991-04-14T09:20:46'
+  crc: '0x2e2a0e5b'
+- name: ECBTP22S.GXL
+  size: 37901
+  date: '1991-07-02T22:18:38'
+  crc: '0x5f25f3a7'

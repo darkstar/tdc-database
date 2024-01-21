@@ -1,0 +1,69 @@
+filename: Déjà Vu II- Lost in Las Vegas (VGA) (1990)(Mindscape, Inc.) [Adventure].zip
+tdc_id: '13052.1'
+title:
+  box: 'Déjà Vu II: Lost in Las Vegas'
+  qualifier: VGA
+publisher: Mindscape, Inc.
+year: '1990'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:32:30'
+  last_modified: '2019-03-01T18:32:30'
+type: zip
+references:
+  dosid: DOS01718
+  exodos: Deja Vu 2 - Lost in Las Vegas (1988).zip
+files:
+- name: DEJAVUII.EXE
+  size: 86810
+  date: '1989-12-19T22:47:12'
+  crc: '0xf6e4248b'
+- name: DIPLOMA.DAT
+  size: 36821
+  date: '1989-12-18T16:58:44'
+  crc: '0x9ffe8a40'
+- name: FILTER.DAT
+  size: 55767
+  date: '1989-12-15T16:48:40'
+  crc: '0x58afc029'
+- name: GAMEFILE.DAT
+  size: 18024
+  date: '1989-12-15T16:57:44'
+  crc: '0x52bf2c8c'
+- name: GRAPHICS.DAT
+  size: 696056
+  date: '1989-12-11T13:41:54'
+  crc: '0x2f0494f2'
+- name: INSTALL.BAT
+  size: 799
+  date: '1989-12-21T15:52:26'
+  crc: '0x236b888f'
+- name: INSTALL2.BAT
+  size: 2232
+  date: '1989-12-21T16:00:48'
+  crc: '0xcb1d4b7b'
+- name: KGRAPHIC.VGA
+  size: 41339
+  date: '1989-12-07T20:02:16'
+  crc: '0xbe0dcf7d'
+- name: OBJECT.DAT
+  size: 10100
+  date: '1989-12-15T16:57:34'
+  crc: '0x6461d663'
+- name: SOUND.DAT
+  size: 83413
+  date: '1989-11-07T22:26:08'
+  crc: '0xd3bcd8b7'
+- name: STARTUP.DAT
+  size: 13
+  date: '1989-11-14T13:45:00'
+  crc: '0x0f744682'
+- name: TEXT.DAT
+  size: 74732
+  date: '1989-12-15T16:46:22'
+  crc: '0x6e5e29c1'
+- name: TITLE.DAT
+  size: 64071
+  date: '1989-12-07T20:02:40'
+  crc: '0x79e62301'

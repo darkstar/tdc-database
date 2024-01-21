@@ -1,0 +1,92 @@
+filename: Greg LeMond's Bicycle Adventure (Installer) (1993)(Eden Interactive) [Educational].zip
+tdc_id: '10926.1'
+title:
+  screen: Greg LeMond's Bicycle Adventure
+publisher: Eden Interactive
+year: '1993'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T19:09:26'
+  last_modified: '2019-03-01T19:09:26'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: BICYCLE.001
+  size: 1355649
+  date: '1993-01-06T19:36:26'
+  crc: '0xcd0f35e4'
+- name: DISK.ID
+  size: 33
+  date: '1993-01-06T19:28:50'
+  crc: '0xb2727ef5'
+- name: DISK2\
+  size: 0
+  date: '2018-06-27T20:42:04'
+- name: DISK2\BICYCLE.002
+  size: 1451107
+  date: '1993-01-06T19:49:40'
+  crc: '0x09c7dac8'
+- name: DISK2\DISK.ID
+  size: 33
+  date: '1993-01-06T19:42:14'
+  crc: '0xb034c0ac'
+- name: DISK2\INSTALL.DAT
+  size: 4755
+  date: '1993-01-06T19:49:36'
+  crc: '0x9cd9845c'
+- name: DISK3\
+  size: 0
+  date: '2018-06-27T20:41:44'
+- name: DISK3\BICYCLE.003
+  size: 1455394
+  date: '1993-01-06T19:54:28'
+  crc: '0xb200444d'
+- name: DISK3\DISK.ID
+  size: 33
+  date: '1993-01-06T19:50:00'
+  crc: '0xb1f6aa9b'
+- name: DISK3\INSTALL.DAT
+  size: 530
+  date: '1993-01-06T19:54:26'
+  crc: '0xc954f934'
+- name: DISK4\
+  size: 0
+  date: '2018-06-27T20:41:26'
+- name: DISK4\BICYCLE.004
+  size: 1454354
+  date: '1993-01-06T20:01:06'
+  crc: '0xa1ae0574'
+- name: DISK4\DISK.ID
+  size: 33
+  date: '1993-01-06T19:55:40'
+  crc: '0xb4b9bc1e'
+- name: DISK4\INSTALL.DAT
+  size: 1215
+  date: '1993-01-06T20:01:04'
+  crc: '0xc414660e'
+- name: DISK5\
+  size: 0
+  date: '2018-06-27T20:41:08'
+- name: DISK5\BICYCLE.005
+  size: 1415880
+  date: '1993-01-06T20:08:34'
+  crc: '0xcf3b4f84'
+- name: DISK5\DISK.ID
+  size: 33
+  date: '1993-01-06T20:02:54'
+  crc: '0xb57bd629'
+- name: DISK5\INSTALL.DAT
+  size: 2337
+  date: '1993-01-06T20:08:30'
+  crc: '0xd5418658'
+- name: INSTALL.DAT
+  size: 9308
+  date: '1993-01-06T20:20:54'
+  crc: '0xedfe93f2'
+- name: INSTALL.EXE
+  size: 90304
+  date: '1993-01-06T19:28:54'
+  crc: '0x929e6b84'

@@ -1,0 +1,58 @@
+filename: Deluxe Ski Jump v1.502 [SWR] (2000)(Jussi Koskela) [Action].zip
+tdc_id: '13058.0'
+title:
+  screen: Deluxe Ski Jump
+publisher: Jussi Koskela
+year: '2000'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:54:40'
+  last_modified: '2019-03-02T10:54:40'
+version: '1.502'
+type: zip
+tags:
+- SharewareRegistered
+commands:
+  play: DSJ.EXE
+files:
+- name: DSJ.CFG
+  size: 1013
+  date: '2001-02-10T19:19:28'
+  crc: '0x9326b89a'
+- name: DSJ.DAT
+  size: 418416
+  date: '2000-02-20T12:00:08'
+  crc: '0x5877f5ca'
+- name: DSJ.EXE
+  size: 142464
+  date: '2000-03-08T10:24:16'
+  crc: '0x90223170'
+- name: DSJ.HIS
+  size: 357
+  date: '2001-02-10T19:19:28'
+  crc: '0x76f9d51e'
+- name: DSJ.VER
+  size: 52
+  date: '2000-03-08T10:25:56'
+  crc: '0xbd623a6d'
+- name: ORDER.TXT
+  size: 1619
+  date: '2000-02-20T12:00:16'
+  crc: '0x601e8495'
+- name: SETSOUND.CFG
+  size: 9
+  date: '2000-08-28T16:42:00'
+  crc: '0x49203bcb'
+- name: TILAUS.TXT
+  size: 1188
+  date: '2000-02-20T12:00:24'
+  crc: '0x55764281'
+- name: readme.txt
+  size: 15214
+  date: '1996-12-24T18:32:00'
+  crc: '0x89107608'
+- name: version.txt
+  size: 22
+  date: '1996-12-24T18:32:00'
+  crc: '0x3701e28c'

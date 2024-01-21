@@ -1,0 +1,26 @@
+filename: Planetfall r10 (1988)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '10442.0'
+title:
+  box: Planetfall
+publisher: Infocom, Inc.
+year: '1988'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:26:38'
+  last_modified: '2019-03-01T18:26:38'
+release: '10'
+type: zip
+commands:
+  play: PLANETFA.EXE
+files:
+- name: PLANETFA.DAT
+  size: 136561
+  date: '1988-06-02T09:16:24'
+  crc: '0xa75f42f5'
+- name: PLANETFA.EXE
+  size: 33946
+  date: '1988-06-06T18:51:44'
+  crc: '0xc09e346c'

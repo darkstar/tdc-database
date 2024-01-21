@@ -1,0 +1,82 @@
+filename: Frontier- First Encounters 1.02 upgrade patch (1995)(GameTek, Inc.) [Action, Simulation, Addon].zip
+tdc_id: '13833.2'
+parent_id: '13833.1'
+title:
+  screen: 'Frontier: First Encounters 1.02 upgrade patch'
+publisher: GameTek, Inc.
+year: '1995'
+genre:
+- Action
+- Simulation
+- Addon
+language: English
+date:
+  added: '2022-02-25T10:51:34'
+  last_modified: '2022-02-25T10:51:34'
+type: zip
+patch: true
+files:
+- name: BLD_INFO.CFG
+  size: 753
+  date: '1995-04-27T13:04:14'
+  crc: '0xe5c4a065'
+- name: FIRSTECD.1
+  size: 213255
+  date: '1995-04-26T11:15:08'
+  crc: '0xa212b873'
+- name: FIRSTEFP.1
+  size: 212996
+  date: '1995-04-26T11:17:36'
+  crc: '0x76b1ddff'
+- name: FIRSTFCD.1
+  size: 213017
+  date: '1995-04-26T11:19:48'
+  crc: '0x765d973f'
+- name: FIRSTFFP.1
+  size: 212478
+  date: '1995-04-27T13:04:14'
+  crc: '0xd797f3d5'
+- name: FIRSTGCD.1
+  size: 212919
+  date: '1995-04-26T11:21:30'
+  crc: '0xa2f06be1'
+- name: FIRSTGFP.1
+  size: 212269
+  date: '1995-04-26T11:23:30'
+  crc: '0xddd1b770'
+- name: IMAGEECD.DAT
+  size: 104
+  date: '1995-04-26T11:15:08'
+  crc: '0xcbdf2afe'
+- name: IMAGEEFP.DAT
+  size: 104
+  date: '1995-04-26T11:17:36'
+  crc: '0xab50f99d'
+- name: IMAGEFCD.DAT
+  size: 104
+  date: '1995-04-26T11:19:48'
+  crc: '0x3eba9096'
+- name: IMAGEFFP.DAT
+  size: 106
+  date: '1995-04-27T13:04:14'
+  crc: '0x1dde7f80'
+- name: IMAGEGCD.DAT
+  size: 108
+  date: '1995-04-26T11:21:30'
+  crc: '0xf0f160c5'
+- name: IMAGEGFP.DAT
+  size: 104
+  date: '1995-04-26T11:23:30'
+  crc: '0x346d5327'
+- name: INSTALL.EXE
+  size: 108978
+  date: '1995-04-26T11:45:22'
+  crc: '0x7ef30d4e'
+- name: LANGRC.RES
+  size: 6244
+  date: '1995-04-27T13:07:10'
+  crc: '0xe3ab02a3'
+- name: README.TXT
+  size: 1813
+  date: '1995-04-27T17:50:06'
+  crc: '0xfb56ac62'

@@ -1,0 +1,84 @@
+filename: LuxMan IV (Es) (1996)(Vicens Software) [Action].zip
+tdc_id: '318.0'
+title:
+  screen: LuxMan IV
+publisher: Vicens Software
+year: '1996'
+genre: Action
+language: Spanish
+date:
+  added: '2019-03-02T10:12:58'
+  last_modified: '2019-03-02T10:12:58'
+type: zip
+commands:
+  play: LUX.EXE
+references:
+  dosid: DOS15603
+  exodos: Luxman (1996).zip
+files:
+- name: LEVELS.CFG
+  size: 1
+  date: '1996-12-01T19:10:34'
+  crc: '0xc8d83bf0'
+- name: LUX.EXE
+  size: 55824
+  date: '1996-12-03T16:25:24'
+  crc: '0x4300c449'
+- name: LUXMAN.TXT
+  size: 2362
+  date: '1996-12-02T07:01:00'
+  crc: '0xd46aa381'
+- name: MAP.CFG
+  size: 4000
+  date: '1996-12-01T19:10:34'
+  crc: '0x559c2631'
+- name: RECORDS.DAT
+  size: 540
+  date: '1998-10-01T06:08:30'
+  crc: '0x0486fef9'
+- name: TOOLS\
+  size: 0
+  date: '2013-10-21T11:35:14'
+- name: TOOLS\BUP\
+  size: 0
+  date: '2013-10-21T11:35:14'
+- name: TOOLS\BUP\LEVELS.CFG
+  size: 1
+  date: '1996-12-01T19:10:34'
+  crc: '0xc8d83bf0'
+- name: TOOLS\BUP\MAP.CFG
+  size: 4000
+  date: '1996-12-01T19:10:34'
+  crc: '0x559c2631'
+- name: TOOLS\CURSOR.RAW
+  size: 64
+  date: '1996-11-21T12:45:46'
+  crc: '0x3f46e32d'
+- name: TOOLS\EDIBUP.BAT
+  size: 120
+  date: '1996-12-01T19:28:52'
+  crc: '0x7c2e5109'
+- name: TOOLS\LEVELS.CFG
+  size: 1
+  date: '1996-12-01T19:10:34'
+  crc: '0xc8d83bf0'
+- name: TOOLS\LUXACT.BAT
+  size: 82
+  date: '1996-12-01T19:30:32'
+  crc: '0x59c83510'
+- name: TOOLS\LUXBUP.BAT
+  size: 76
+  date: '1996-12-01T19:26:22'
+  crc: '0xb0251a95'
+- name: TOOLS\LUXTOR.EXE
+  size: 38336
+  date: '1996-12-01T19:10:48'
+  crc: '0xc53740e1'
+- name: TOOLS\LUXTOR.TXT
+  size: 3315
+  date: '1996-12-01T19:55:46'
+  crc: '0xde6c3040'
+- name: TOOLS\MAP.CFG
+  size: 4000
+  date: '1996-12-01T19:10:34'
+  crc: '0x559c2631'

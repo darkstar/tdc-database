@@ -1,0 +1,28 @@
+filename: Pacman Lives! (1996)(Steven Hanov) [Action].zip
+tdc_id: '10566.0'
+title:
+  screen: Pacman Lives!
+publisher: Steven Hanov
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:15:48'
+  last_modified: '2019-03-02T10:15:48'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 26
+  date: '2018-04-12T13:30:42'
+  crc: '0xd6261988'
+- name: PACMAN.BAS
+  size: 21756
+  date: '2018-03-10T01:58:44'
+  crc: '0x69c1415c'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T01:28:02'
+  crc: '0x19f6ed75'

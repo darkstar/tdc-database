@@ -1,0 +1,28 @@
+filename: Microsoft QMaze (1990)(Microsoft Corporation) [Strategy].zip
+tdc_id: '2551.0'
+title:
+  screen: Microsoft QMaze
+publisher: Microsoft Corporation
+year: '1990'
+genre: Strategy
+language: English
+date:
+  added: '2023-01-30T14:38:09'
+  last_modified: '2023-01-30T14:38:09'
+type: zip
+media: Download
+commands:
+  play: QMaze.bat
+files:
+- name: QBASIC.EXE
+  size: 194309
+  date: '1994-05-31T08:22:00'
+  crc: '0x3152911c'
+- name: QMAZE.BAS
+  size: 76115
+  date: '2023-01-20T20:57:14'
+  crc: '0x09daa73c'
+- name: QMaze.bat
+  size: 16
+  date: '2023-01-20T20:57:58'
+  crc: '0x96b908de'

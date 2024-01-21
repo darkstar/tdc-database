@@ -1,0 +1,41 @@
+filename: Bipbop II [SW] (1993)(S&M Software) [Action].zip
+tdc_id: '12662.0'
+title:
+  screen: Bipbop II
+publisher: S&M Software
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T19:01:34'
+  last_modified: '2019-03-01T19:01:34'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: BIPBOP2.EXE
+references:
+  dosid: DOS01062
+  exodos: BipBop II (1993).zip
+files:
+- name: '!BIPBOP2.SDA'
+  size: 1446
+  date: '1993-01-24T08:21:34'
+  crc: '0x78784cbe'
+- name: BIPBOP2.DAT
+  size: 255858
+  date: '1992-04-27T07:30:00'
+  crc: '0x9c8c2b43'
+- name: BIPBOP2.DOC
+  size: 9099
+  date: '1992-04-27T07:30:00'
+  crc: '0xb165863e'
+- name: BIPBOP2.EXE
+  size: 87952
+  date: '1992-04-27T07:30:00'
+  crc: '0xd3af8fd8'
+- name: BIPBOP2.IDX
+  size: 1620
+  date: '1992-04-27T07:30:00'
+  crc: '0xb71b8383'

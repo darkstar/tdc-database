@@ -1,0 +1,41 @@
+filename: Motor-Mania [SW][a1] (1989)(Eric Hewitt) [Action, Simulation].zip
+tdc_id: '7917.1'
+title:
+  screen: Motor-Mania
+publisher: Eric Hewitt
+year: '1989'
+genre:
+- Action
+- Simulation
+language: English
+date:
+  added: '2019-03-01T18:28:26'
+  last_modified: '2019-03-01T18:28:26'
+type: zip
+tags:
+- Shareware
+- Alternate: 1
+media: Download
+commands:
+  play: MM.COM
+files:
+- name: BIKES.DAT
+  size: 15705
+  date: '1988-07-27T12:18:10'
+  crc: '0x219718f0'
+- name: JUMPS.DAT
+  size: 21946
+  date: '1989-01-02T16:30:24'
+  crc: '0xc9e4b903'
+- name: MM.COM
+  size: 22275
+  date: '1989-04-26T16:05:22'
+  crc: '0x69e073c0'
+- name: README
+  size: 10094
+  date: '1989-12-24T16:03:28'
+  crc: '0x2ab65cbe'
+- name: SCREENS.DAT
+  size: 58851
+  date: '1988-10-07T13:13:52'
+  crc: '0xc176474e'

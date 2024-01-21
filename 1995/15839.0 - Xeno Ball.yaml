@@ -1,0 +1,55 @@
+filename: Xeno Ball (Installer) [SWR][f1] (1995)(Homebrew Software) [Strategy].zip
+tdc_id: '15839.0'
+title:
+  screen: Xeno Ball
+publisher: Homebrew Software
+year: '1995'
+genre: Strategy
+language: English
+date:
+  added: '2019-07-13T17:21:26'
+  last_modified: '2019-07-13T17:21:26'
+type: zip
+tags:
+- SharewareRegistered
+- Fixed: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK.ID
+  size: 39
+  date: '1995-03-26T22:57:18'
+  crc: '0xd201f9fc'
+- name: DISK_1.ID
+  size: 39
+  date: '1995-06-02T11:46:02'
+  crc: '0xd04747a5'
+- name: DISK_2.ID
+  size: 39
+  date: '1995-06-02T11:46:12'
+  crc: '0xd1852d92'
+- name: INSTALL.DAT
+  size: 9491
+  date: '2013-07-05T10:35:40'
+  crc: '0x2cadfa9a'
+- name: INSTALL.DA_
+  size: 9491
+  date: '1995-03-26T23:47:56'
+  crc: '0xa452397c'
+- name: INSTALL.EXE
+  size: 113504
+  date: '1995-03-26T22:57:26'
+  crc: '0xd217b85b'
+- name: XENOBALL.001
+  size: 1333256
+  date: '1995-03-26T23:05:26'
+  crc: '0xa76e89f6'
+- name: XENOBALL.002
+  size: 1456022
+  date: '1995-03-26T23:10:18'
+  crc: '0x6282e7cf'
+- name: XENOBALL.003
+  size: 476095
+  date: '1995-03-26T23:47:02'
+  crc: '0x57149168'

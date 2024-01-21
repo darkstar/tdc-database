@@ -1,0 +1,42 @@
+filename: Dragon Lore- The Legend Begins (Installer) (En)(Fr)(Es) (1994)(Mindscape, Inc.) [Adventure].zip
+tdc_id: '9459.2'
+parent_id: '9459.5'
+title:
+  box: 'Dragon Lore: The Legend Begins'
+publisher: Mindscape, Inc.
+year: '1994'
+genre: Adventure
+language:
+- English
+- Spanish
+- French
+date:
+  added: '2019-03-01T21:56:16'
+  last_modified: '2019-03-01T21:56:16'
+type: zip
+installer: true
+files:
+- name: DRAGON.EXE
+  size: 696
+  date: '1994-01-13T17:25:42'
+  crc: '0xacfcc3e8'
+- name: DRAGON.LBM
+  size: 118424
+  date: '1994-10-16T06:07:02'
+  crc: '0xa20d783c'
+- name: DRAGON1
+  size: 635905504
+  date: '1994-11-25T07:39:48'
+  crc: '0xe8f5ae99'
+- name: DRAGON2
+  size: 579698592
+  date: '1994-11-09T17:16:36'
+  crc: '0x3fd66b66'
+- name: INSTALL.EXE
+  size: 91272
+  date: '1994-11-23T11:17:22'
+  crc: '0xccc6d975'
+- name: TALES.EXE
+  size: 123440
+  date: '1994-11-24T02:04:28'
+  crc: '0x5ca1d334'

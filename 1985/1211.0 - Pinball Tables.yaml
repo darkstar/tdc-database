@@ -1,0 +1,45 @@
+filename: Pinball Tables (Pinball Construction Set) (1985)(Robert G. Hays) [Action, Compilation].zip
+tdc_id: '1211.0'
+title:
+  screen: Pinball Tables
+  qualifier: Pinball Construction Set
+publisher: Robert G. Hays
+year: '1985'
+genre:
+- Action
+- Compilation
+language: English
+date:
+  added: '2020-07-22T11:22:50'
+  last_modified: '2020-07-22T11:22:50'
+type: zip
+requirements:
+  cpu:
+    min: '8088'
+media: Download
+compilation: true
+files:
+- name: BACKALLY.COM
+  size: 64512
+  date: '1980-01-01T00:00:00'
+  crc: '0xd9764489'
+- name: CNTRFLDR.COM
+  size: 40212
+  date: '1985-08-03T13:28:22'
+  crc: '0xeeb2de53'
+- name: CNTRFLDR.DOC
+  size: 3072
+  date: '1985-08-03T13:28:24'
+  crc: '0x0fea7af5'
+- name: LOOPER.COM
+  size: 64512
+  date: '1985-08-10T17:33:20'
+  crc: '0x45a352e3'
+- name: LOOPER.DOC
+  size: 43
+  date: '1985-11-08T09:08:42'
+  crc: '0x5b61684c'
+- name: RAIN.COM
+  size: 64548
+  date: '2107-12-31T00:00:00'
+  crc: '0xe672f532'

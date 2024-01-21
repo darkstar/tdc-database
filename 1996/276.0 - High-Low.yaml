@@ -1,0 +1,32 @@
+filename: High-Low (1996)(Chris Kolar) [Strategy].zip
+tdc_id: '276.0'
+title:
+  screen: High-Low
+publisher: Chris Kolar
+year: '1996'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:10:18'
+  last_modified: '2019-03-02T10:10:18'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 25
+  date: '2018-11-29T21:57:08'
+  crc: '0x2dd37543'
+- name: GUESS.BAS
+  size: 34390
+  date: '1996-08-22T21:00:54'
+  crc: '0x0ab8b064'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: README.TXT
+  size: 907
+  date: '1997-05-03T15:06:50'
+  crc: '0x472c30c2'

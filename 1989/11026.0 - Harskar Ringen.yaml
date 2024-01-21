@@ -1,0 +1,41 @@
+filename: Harskar Ringen (Sv) (1989)(Nils Eng) [Adventure, Interactive Fiction].zip
+tdc_id: '11026.0'
+title:
+  screen: Harskar Ringen
+publisher: Nils Eng
+year: '1989'
+genre:
+- Adventure
+- Interactive Fiction
+language: Swedish
+date:
+  added: '2019-03-01T18:27:54'
+  last_modified: '2019-03-01T18:27:54'
+type: zip
+commands:
+  play: RINGEN.EXE
+files:
+- name: RINGEN.BAS
+  size: 60646
+  date: '1997-06-14T06:05:36'
+  crc: '0x8bf4c3e9'
+- name: RINGEN.DAT
+  size: 33221
+  date: '1998-05-23T13:47:32'
+  crc: '0x12a8ef8e'
+- name: RINGEN.EXE
+  size: 130827
+  date: '1998-03-14T19:37:54'
+  crc: '0x677fb4a2'
+- name: RINGEN.TXT
+  size: 2585
+  date: '1997-06-14T02:20:40'
+  crc: '0xf6cd83d3'
+- name: RINGMAP1.SNA
+  size: 22907
+  date: '1993-02-27T17:48:02'
+  crc: '0xf834dadc'
+- name: RINGMAP2.SNA
+  size: 17819
+  date: '1993-02-27T17:03:12'
+  crc: '0xc6a54749'

@@ -1,0 +1,52 @@
+filename: Punk Allen Trilogy, The (2001)(Signe Rocklin) [Adventure, Interactive Fiction].zip
+tdc_id: '4742.0'
+title:
+  screen: The Punk Allen Trilogy
+publisher: Signe Rocklin
+year: '2001'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T10:55:40'
+  last_modified: '2019-03-02T10:55:40'
+type: zip
+commands:
+  play: PLAY.EXE
+references:
+  dosid: DOS07030
+  exodos: Punk Allen Trilogy, The (2001).zip
+files:
+- name: CHICKEN.DAT
+  size: 1950
+  date: '2002-01-07T15:21:36'
+  crc: '0x3ed8f94e'
+- name: CHICKEN.MES
+  size: 3529
+  date: '2001-12-22T09:55:08'
+  crc: '0x60a79801'
+- name: ESCAPE.DAT
+  size: 1649
+  date: '2002-01-07T15:21:24'
+  crc: '0x5dc63c63'
+- name: ESCAPE.MES
+  size: 1123
+  date: '2002-01-05T17:10:38'
+  crc: '0x1e8fdb56'
+- name: PLAY.EXE
+  size: 43008
+  date: '1985-05-22T18:25:38'
+  crc: '0x46bde067'
+- name: drunk.dat
+  size: 2135
+  date: '2002-01-07T15:21:12'
+  crc: '0x0fb45a33'
+- name: drunk.mes
+  size: 2282
+  date: '2002-01-07T15:17:24'
+  crc: '0xbb58d26c'
+- name: readme.txt
+  size: 569
+  date: '2002-01-07T15:20:50'
+  crc: '0x341843c6'

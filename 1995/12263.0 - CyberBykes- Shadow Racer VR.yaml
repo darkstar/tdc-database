@@ -1,0 +1,80 @@
+filename: CyberBykes- Shadow Racer VR (demo) (1995)(GameTek, Inc.) [Action, Racing - Driving].zip
+tdc_id: '12263.0'
+parent_id: '12263.1'
+title:
+  screen: 'CyberBykes: Shadow Racer VR'
+  qualifier: demo
+publisher: GameTek, Inc.
+year: '1995'
+genre:
+- Action
+- Racing - Driving
+language: English
+date:
+  added: '2016-09-29T17:51:00'
+  last_modified: '2016-09-29T17:51:00'
+type: zip
+demo: true
+commands:
+  play: CYBER.EXE
+files:
+- name: BITMAP.BIN
+  size: 245076
+  date: '1995-07-05T14:15:14'
+  crc: '0xc4e18562'
+- name: CYBER.EXE
+  size: 890337
+  date: '1995-07-06T10:00:14'
+  crc: '0x4f13e953'
+- name: CYBER.TXT
+  size: 7052
+  date: '1995-07-06T10:57:44'
+  crc: '0x3897e2f8'
+- name: DEMOEDIT.TXT
+  size: 853
+  date: '1995-07-06T10:05:46'
+  crc: '0x98d2b8be'
+- name: DRIVER.BIN
+  size: 312868
+  date: '1995-06-12T21:32:02'
+  crc: '0x6f04b792'
+- name: EARTH.FLC
+  size: 528778
+  date: '1995-05-05T16:15:00'
+  crc: '0x2bc14fb9'
+- name: FILE_ID.DIZ
+  size: 585
+  date: '1995-07-09T14:02:16'
+  crc: '0x2da7ef9c'
+- name: FONT.BIN
+  size: 54107
+  date: '1995-05-03T11:57:06'
+  crc: '0xb7d53ce6'
+- name: MEMO.BIN
+  size: 22749
+  date: '1995-06-27T14:42:30'
+  crc: '0x35de79c8'
+- name: MEXICO.LVL
+  size: 1492768
+  date: '1995-07-06T12:13:26'
+  crc: '0x78dbdafc'
+- name: POLY.BIN
+  size: 386468
+  date: '1995-06-26T00:11:24'
+  crc: '0x515b7b53'
+- name: READ.ME
+  size: 18666
+  date: '1995-07-09T13:35:12'
+  crc: '0xdc45c271'
+- name: SOUND.BIN
+  size: 436787
+  date: '1995-07-05T14:48:04'
+  crc: '0x0ae606ce'
+- name: VOICE.BIN
+  size: 589048
+  date: '1995-05-07T21:11:32'
+  crc: '0x819137d4'
+- name: WARWICK.LVL
+  size: 1445422
+  date: '1995-07-06T15:01:56'
+  crc: '0x8affc9e8'

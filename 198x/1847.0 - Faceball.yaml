@@ -1,0 +1,28 @@
+filename: Faceball (Pinball Construction Set) (198x)(Peter Herbert, Jr.) [Action].zip
+tdc_id: '1847.0'
+title:
+  screen: Faceball
+  qualifier: Pinball Construction Set
+publisher: Peter Herbert, Jr.
+year: 198x
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:29:26'
+  last_modified: '2019-03-01T18:29:26'
+type: zip
+requirements:
+  cpu:
+    min: '8088'
+media: Download
+commands:
+  play: FACEBALL.COM
+files:
+- name: FACEBALL.COM
+  size: 64512
+  date: '1992-05-16T23:54:52'
+  crc: '0x281d006c'
+- name: FACEBALL.DOC
+  size: 1297
+  date: '1987-03-15T15:26:40'
+  crc: '0x84f2b912'

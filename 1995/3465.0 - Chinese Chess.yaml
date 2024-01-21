@@ -1,0 +1,49 @@
+filename: Chinese Chess (1995)(Kelvin Chung, Kevin Tse) [Strategy, Board].zip
+tdc_id: '3465.0'
+title:
+  screen: Chinese Chess
+publisher: Kelvin Chung, Kevin Tse
+year: '1995'
+genre:
+- Strategy
+- Board
+language: English
+date:
+  added: '2022-05-20T10:21:44'
+  last_modified: '2022-05-20T10:21:44'
+type: zip
+commands:
+  play: CHESS.EXE
+files:
+- name: BOOKMOVE.DAT
+  size: 418
+  date: '1994-02-28T13:13:38'
+  crc: '0x183a454e'
+- name: CHESS.EXE
+  size: 143670
+  date: '1995-11-28T08:57:38'
+  crc: '0xfb86d8e7'
+- name: CHESS.IMG
+  size: 15204
+  date: '1994-02-09T16:18:02'
+  crc: '0xaee36168'
+- name: EGAVGA.BGI
+  size: 5554
+  date: '1992-06-10T03:10:00'
+  crc: '0x9b14ff3b'
+- name: GRID.IMG
+  size: 22806
+  date: '1994-02-09T16:08:34'
+  crc: '0x4a21cf4e'
+- name: HELP.DOC
+  size: 10011
+  date: '1994-02-28T15:56:36'
+  crc: '0x3475b6cc'
+- name: NOTE.TXT
+  size: 912
+  date: '1994-02-28T16:05:54'
+  crc: '0xf3caa779'
+- name: TRIP.CHR
+  size: 16677
+  date: '1992-06-10T03:10:00'
+  crc: '0xba867503'

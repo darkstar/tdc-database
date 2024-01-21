@@ -1,0 +1,38 @@
+filename: Aro und Elmi (De) (1996)(Wybert) [Action].zip
+tdc_id: '149.0'
+title:
+  screen: Aro und Elmi
+publisher: Wybert
+year: '1996'
+genre: Action
+language: German
+date:
+  added: '2019-03-02T09:59:08'
+  last_modified: '2019-03-02T09:59:08'
+type: zip
+commands:
+  play: AROELMI.EXE
+references:
+  dosid: DOS15222
+  exodos: Aro and Elmi Fighting the Bacteria Gang (1996).zip
+files:
+- name: AROELMI.DAT
+  size: 2751586
+  date: '2010-04-25T17:33:52'
+  crc: '0xe1ef0b78'
+- name: AROELMI.EXE
+  size: 210239
+  date: '2010-04-25T17:33:42'
+  crc: '0xd1792711'
+- name: DOS4GW.EXE
+  size: 265420
+  date: '2010-04-25T17:33:44'
+  crc: '0xcb214447'
+- name: HISCORE.SAV
+  size: 144
+  date: '2010-10-04T04:09:08'
+  crc: '0x481ef172'
+- name: README.TXT
+  size: 2970
+  date: '2010-04-25T17:33:52'
+  crc: '0xf6f33346'

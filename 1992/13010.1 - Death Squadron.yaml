@@ -1,0 +1,46 @@
+filename: Death Squadron v2.0 [h1] (1992)(Gatecom Inc.) [Action].zip
+tdc_id: '13010.1'
+title:
+  screen: Death Squadron
+publisher: Gatecom Inc.
+year: '1992'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:42:22'
+  last_modified: '2019-03-01T18:42:22'
+version: '2.0'
+type: zip
+tags:
+- Hack: 1
+commands:
+  play: DEATH.EXE
+files:
+- name: ANIMATE.DAT
+  size: 86745
+  date: '1991-06-11T14:45:50'
+  crc: '0x3ef7822b'
+- name: CGA.BGI
+  size: 6332
+  date: '1990-10-23T06:00:00'
+  crc: '0x5f4c2b51'
+- name: CHOPPER.DAT
+  size: 59473
+  date: '1991-06-11T00:04:50'
+  crc: '0x499fd6bd'
+- name: DEATH.EXE
+  size: 96960
+  date: '1991-06-21T16:51:22'
+  crc: '0x12a1a231'
+- name: DEATH.OVR
+  size: 39037
+  date: '1991-06-21T16:21:30'
+  crc: '0x7f24cd5d'
+- name: LITT.CHR
+  size: 2138
+  date: '1991-06-16T09:15:28'
+  crc: '0x49b36270'
+- name: PILOTS.DAT
+  size: 636
+  date: '1991-07-17T16:59:24'
+  crc: '0x1c02e4ee'

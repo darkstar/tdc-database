@@ -1,0 +1,46 @@
+filename: Trump Castle 3 (Installer) (1993)(TLC Properties, Inc.) [Simulation].zip
+tdc_id: '16965.1'
+title:
+  box: Trump Castle 3
+publisher: TLC Properties, Inc.
+year: '1993'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T21:10:48'
+  last_modified: '2023-01-28T12:35:12'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/trump-castle-3
+files:
+- name: INSTALL.EXE
+  size: 78364
+  date: '1993-01-19T16:42:24'
+  crc: '0xa603d7c0'
+- name: TC00.INS
+  size: 651219
+  date: '1993-01-19T14:07:18'
+  crc: '0xfad0b88e'
+- name: TC01.INS
+  size: 730097
+  date: '1993-01-19T14:15:12'
+  crc: '0xae0691db'
+- name: TC02.INS
+  size: 730094
+  date: '1993-01-19T14:21:30'
+  crc: '0x5824cbb5'
+- name: TC03.INS
+  size: 730084
+  date: '1993-01-19T14:31:20'
+  crc: '0x95501dc1'
+- name: TC04.INS
+  size: 730035
+  date: '1993-01-19T14:45:20'
+  crc: '0xff60c564'
+- name: TC05.INS
+  size: 708320
+  date: '1993-01-19T14:56:38'
+  crc: '0x67c83793'

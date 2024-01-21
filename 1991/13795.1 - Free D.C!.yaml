@@ -1,0 +1,46 @@
+filename: Free D.C! (Installer) [f1] (1991)(Cineplay Interactive, Inc.) [Adventure].zip
+tdc_id: '13795.1'
+title:
+  box: Free D.C!
+publisher: Cineplay Interactive, Inc.
+year: '1991'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:35:58'
+  last_modified: '2019-03-01T18:35:58'
+type: zip
+tags:
+- Fixed: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK.ID
+  size: 29
+  date: '1991-11-25T02:13:26'
+  crc: '0xde080eb5'
+- name: FREEDC.001
+  size: 1114386
+  date: '1991-11-25T01:55:14'
+  crc: '0xaf20876d'
+- name: FREEDC.002
+  size: 1200676
+  date: '1991-11-25T01:58:20'
+  crc: '0xa610922c'
+- name: FREEDC.003
+  size: 1112625
+  date: '1991-11-25T02:16:00'
+  crc: '0xae54ebe3'
+- name: INSTALL.DAT
+  size: 8086
+  date: '2011-05-29T19:59:12'
+  crc: '0x6900b7cd'
+- name: INSTALL.DA_
+  size: 8086
+  date: '1991-11-25T02:19:54'
+  crc: '0xfaa670b6'
+- name: INSTALL.EXE
+  size: 78927
+  date: '1991-11-25T01:47:00'
+  crc: '0xe5bf5a0c'

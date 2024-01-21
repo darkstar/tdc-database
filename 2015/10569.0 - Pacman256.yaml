@@ -1,0 +1,27 @@
+filename: Pacman256 (2015)(Red Sector Inc.) [Action].zip
+tdc_id: '10569.0'
+title:
+  screen: Pacman256
+publisher: Red Sector Inc.
+year: '2015'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:58:08'
+  last_modified: '2019-03-02T10:58:08'
+type: zip
+commands:
+  play: Pacman256.com
+files:
+- name: Pacman256.asm
+  size: 8734
+  date: '2015-05-07T23:54:46'
+  crc: '0x12da8a1a'
+- name: Pacman256.com
+  size: 256
+  date: '2015-05-06T02:17:08'
+  crc: '0x542d66d2'
+- name: Pacman256.nfo
+  size: 7202
+  date: '2015-05-06T02:16:40'
+  crc: '0x820fdbfc'

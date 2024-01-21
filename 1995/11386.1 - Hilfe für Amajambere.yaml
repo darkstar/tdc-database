@@ -1,0 +1,42 @@
+filename: Hilfe für Amajambere (Installer) (De) (1995)(Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung) [Adventure, Educational].zip
+tdc_id: '11386.1'
+title:
+  screen: Hilfe für Amajambere
+publisher: Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung
+year: '1995'
+genre:
+- Adventure
+- Educational
+language: German
+date:
+  added: '2019-03-02T08:45:32'
+  last_modified: '2019-03-02T08:45:32'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: BMZ.PAK
+  size: 1352098
+  date: '1995-06-07T16:20:52'
+  crc: '0x18e2349c'
+- name: FREEWARE.TXT
+  size: 1263
+  date: '1995-05-26T18:32:12'
+  crc: '0x42742731'
+- name: INFO.TXT
+  size: 3212
+  date: '1995-06-06T13:46:36'
+  crc: '0x8c7ba385'
+- name: INSTALL.CFG
+  size: 1382
+  date: '1995-06-07T16:28:36'
+  crc: '0xb870c93d'
+- name: INSTALL.EXE
+  size: 27781
+  date: '1994-05-10T00:08:04'
+  crc: '0x4f31f767'
+- name: LIESMICH.DOK
+  size: 3827
+  date: '1995-06-01T13:47:18'
+  crc: '0xa3ccaab2'

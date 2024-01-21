@@ -1,0 +1,41 @@
+filename: Time to Play r2.00-85 (1985)(Compaq Computer Corp.) [Action, Educational].zip
+tdc_id: '16734.1'
+title:
+  box: Time to Play
+publisher: Compaq Computer Corp.
+year: '1985'
+genre:
+- Action
+- Educational
+language: English
+date:
+  added: '2019-03-01T18:24:36'
+  last_modified: '2019-03-01T18:24:36'
+release: 2.00-85
+type: zip
+commands:
+  play: DEMO3.BAT
+references:
+  dosid: DOS07560
+  exodos: Compaq-DOS (1983).zip
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: DEMO3.BAS
+  size: 25624
+  date: '1985-12-17T11:00:00'
+  crc: '0x58f4586c'
+- name: DEMO3.BAT
+  size: 15
+  date: '1985-12-17T11:00:00'
+  crc: '0x2472263a'
+- name: EUROPE.DAT
+  size: 16008
+  date: '1985-12-17T11:00:00'
+  crc: '0x6713177d'
+- name: USA.DAT
+  size: 16128
+  date: '1985-12-17T11:00:00'
+  crc: '0xf9e31a4c'

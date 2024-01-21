@@ -1,0 +1,55 @@
+filename: Puzznic (1990)(Ocean Software Ltd.) [Action, Strategy].zip
+tdc_id: '10740.0'
+title:
+  box: Puzznic
+publisher: Ocean Software Ltd.
+year: '1990'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:33:40'
+  last_modified: '2019-03-01T18:33:40'
+type: zip
+files:
+- name: CONFIG.DAT
+  size: 16
+  date: '1980-01-06T07:00:36'
+  crc: '0x4541ca06'
+- name: HIGH.BFR
+  size: 110
+  date: '1980-01-03T11:00:48'
+  crc: '0x10620e65'
+- name: LEVELMP1.MAP
+  size: 5596
+  date: '1980-02-14T19:03:28'
+  crc: '0xb967161c'
+- name: LIB_0.LBS
+  size: 25908
+  date: '1990-11-08T14:58:22'
+  crc: '0x355721e8'
+- name: LIB_1.LBS
+  size: 158269
+  date: '1990-11-08T14:58:32'
+  crc: '0xb015e510'
+- name: PLAY.BAT
+  size: 27
+  date: '1980-01-01T00:09:58'
+  crc: '0x784d8874'
+- name: PUZ.ATI
+  size: 43337
+  date: '1990-11-08T15:35:26'
+  crc: '0xdfe2dd3b'
+- name: PUZZNIC.EXE
+  size: 22969
+  date: '1990-07-05T02:36:46'
+  crc: '0xe341aa24'
+- name: TASK.FIL
+  size: 128
+  date: '1985-01-09T03:33:38'
+  crc: '0x1a068fbe'
+- name: WHATTASK.BAT
+  size: 128
+  date: '1985-01-09T03:33:40'
+  crc: '0x2010aff7'

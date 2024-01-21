@@ -1,0 +1,96 @@
+filename: Topography 2 v2.12 (1997)(Peter Swinkels) [Educational].zip
+tdc_id: '16800.0'
+title:
+  screen: Topography 2
+publisher: Peter Swinkels
+year: '1997'
+genre: Educational
+language: English
+date:
+  added: '2019-03-02T10:38:34'
+  last_modified: '2019-03-02T10:38:34'
+version: '2.12'
+type: zip
+commands:
+  play: GO.BAT
+files:
+- name: AREAS.DAT
+  size: 131
+  date: '2000-06-22T05:31:20'
+  crc: '0xb8cf7e5f'
+- name: BELGIUM.DAT
+  size: 134
+  date: '2000-06-22T07:00:20'
+  crc: '0x1dd5ee84'
+- name: BELGIUM.IMG
+  size: 60003
+  date: '1997-09-13T09:51:24'
+  crc: '0xdf0a5e83'
+- name: BRITAIN.DAT
+  size: 423
+  date: '2006-02-07T13:09:24'
+  crc: '0xbfc34707'
+- name: BRITAIN.IMG
+  size: 106403
+  date: '1997-09-13T09:51:52'
+  crc: '0x38682bd5'
+- name: FRANCE.DAT
+  size: 312
+  date: '2000-06-22T07:03:36'
+  crc: '0x92b9517a'
+- name: FRANCE.IMG
+  size: 102003
+  date: '1997-09-13T09:51:40'
+  crc: '0xdca725b0'
+- name: GERMANY.DAT
+  size: 301
+  date: '2000-06-22T07:04:42'
+  crc: '0x0ff52400'
+- name: GERMANY.IMG
+  size: 84003
+  date: '1997-09-13T09:51:32'
+  crc: '0x2348fbb0'
+- name: GO.BAT
+  size: 24
+  date: '2018-03-06T16:49:58'
+  crc: '0x4a2e0d2a'
+- name: ITALY.DAT
+  size: 374
+  date: '2000-06-22T07:05:42'
+  crc: '0xde66e075'
+- name: ITALY.IMG
+  size: 108803
+  date: '1997-09-13T09:52:02'
+  crc: '0x2b0707dc'
+- name: NL.DAT
+  size: 515
+  date: '2000-06-22T07:06:08'
+  crc: '0xcbf0578d'
+- name: NL.IMG
+  size: 99687
+  date: '2000-06-21T14:34:42'
+  crc: '0x293e421e'
+- name: QB.EXE
+  size: 278804
+  date: '2016-03-12T18:19:58'
+  crc: '0xb08bc0fe'
+- name: QB.QLB
+  size: 5822
+  date: '2016-03-12T18:20:46'
+  crc: '0x5f7d93e0'
+- name: SPN&PRT.DAT
+  size: 419
+  date: '2000-06-22T07:06:42'
+  crc: '0xdf366a03'
+- name: SPN&PRT.IMG
+  size: 98803
+  date: '1997-09-13T09:52:20'
+  crc: '0xa266d0bc'
+- name: TITLE.DAT
+  size: 398
+  date: '2002-11-06T16:35:52'
+  crc: '0xfffbcd0b'
+- name: TOPO2.BAS
+  size: 6930
+  date: '2006-02-07T13:09:48'
+  crc: '0x151e00c0'

@@ -1,0 +1,32 @@
+filename: Snake! (198x)(Dan Rollins) [Action].zip
+tdc_id: '15196.0'
+title:
+  screen: Snake!
+publisher: Dan Rollins
+year: 198x
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:29:28'
+  last_modified: '2019-03-01T18:29:28'
+type: zip
+media: Download
+commands:
+  play: Snake.bat
+files:
+- name: GWBASIC.EXE
+  size: 80592
+  date: '2001-05-04T06:58:22'
+  crc: '0x8462d0e4'
+- name: SNAKE.BAS
+  size: 8231
+  date: '1980-01-01T00:32:10'
+  crc: '0x0d5bda67'
+- name: Snake.bat
+  size: 13
+  date: '2010-01-17T20:38:14'
+  crc: '0x368c3905'
+- name: Snake_Source.bas
+  size: 9932
+  date: '2010-01-08T16:14:38'
+  crc: '0x514abe90'

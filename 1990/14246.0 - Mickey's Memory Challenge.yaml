@@ -1,0 +1,64 @@
+filename: Mickey's Memory Challenge (1990)(Walt Disney Computer Software, Inc.) [Strategy, Educational].zip
+tdc_id: '14246.0'
+title:
+  box: Mickey's Memory Challenge
+publisher: Walt Disney Computer Software, Inc.
+year: '1990'
+genre:
+- Strategy
+- Educational
+language: English
+date:
+  added: '2019-03-01T18:33:14'
+  last_modified: '2019-03-01T18:33:14'
+type: zip
+commands:
+  play: MMC.EXE
+references:
+  dosid: DOS03530
+  exodos: Mickey's Memory Challenge (1990).zip
+files:
+- name: MAIN.PAK
+  size: 68097
+  date: '1991-09-11T11:00:00'
+  crc: '0x142b03b9'
+- name: MMC.EXE
+  size: 37751
+  date: '1991-09-11T11:00:00'
+  crc: '0xfaef4ffb'
+- name: MMC.ICO
+  size: 766
+  date: '1991-09-11T11:00:00'
+  crc: '0xe961217a'
+- name: MMC.PIF
+  size: 545
+  date: '1991-09-11T11:00:00'
+  crc: '0xe308bedc'
+- name: PARMS.DAT
+  size: 80
+  date: '2011-07-27T22:25:28'
+  crc: '0x1863a80d'
+- name: SUBR.PAK
+  size: 43147
+  date: '1991-09-11T11:00:00'
+  crc: '0xa4df890c'
+- name: TILE_C.PAK
+  size: 35343
+  date: '1991-09-11T11:00:00'
+  crc: '0xdc612bde'
+- name: TILE_N.PAK
+  size: 28420
+  date: '1991-09-11T11:00:00'
+  crc: '0x0409bc38'
+- name: TILE_O.PAK
+  size: 28364
+  date: '1991-09-11T11:00:00'
+  crc: '0xdae6c333'
+- name: TILE_W.PAK
+  size: 28596
+  date: '1991-09-11T11:00:00'
+  crc: '0x8487ac05'
+- name: VGS.LIB
+  size: 589779
+  date: '1992-12-16T10:52:16'
+  crc: '0xac7e2f32'

@@ -1,0 +1,29 @@
+filename: Eliza v3.0 (2005)(William W. Sindel) [Simulation].zip
+tdc_id: '888.0'
+title:
+  screen: Eliza
+publisher: William W. Sindel
+year: '2005'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-02T10:57:04'
+  last_modified: '2019-03-02T10:57:04'
+version: '3.0'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: ELIZA.BAS
+  size: 20569
+  date: '2018-02-17T23:25:06'
+  crc: '0x0b555fc2'
+- name: GO.BAT
+  size: 25
+  date: '2018-12-10T20:13:14'
+  crc: '0x9a5e889b'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

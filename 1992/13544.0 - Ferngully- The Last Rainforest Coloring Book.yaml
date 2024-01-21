@@ -1,0 +1,42 @@
+filename: Ferngully- The Last Rainforest Coloring Book (1992)(Capstone Software) [Educational].zip
+tdc_id: '13544.0'
+title:
+  box: 'Ferngully: The Last Rainforest Coloring Book'
+publisher: Capstone Software
+year: '1992'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T18:44:46'
+  last_modified: '2019-03-01T18:44:46'
+type: zip
+commands:
+  play: CB.EXE
+references:
+  dosid: DOS15904
+  exodos: Fern Gully - The Last Rainforest Computerized Coloring Book (1992).zip
+files:
+- name: BD.PDT
+  size: 80984
+  date: '1992-02-27T13:19:58'
+  crc: '0x1d80072b'
+- name: CB.EXE
+  size: 46386
+  date: '1992-03-16T13:39:32'
+  crc: '0xaacd0cc4'
+- name: ECPARTS
+  size: 158484
+  date: '1992-03-13T14:03:46'
+  crc: '0xce57ab24'
+- name: ECPICS
+  size: 72000
+  date: '2009-09-17T19:41:36'
+  crc: '0x0a9f8823'
+- name: ECPREFS
+  size: 36
+  date: '2009-09-17T19:41:36'
+  crc: '0xff9ace6f'
+- name: ECTEXT
+  size: 1004
+  date: '1992-03-15T19:30:12'
+  crc: '0xa0a4b279'

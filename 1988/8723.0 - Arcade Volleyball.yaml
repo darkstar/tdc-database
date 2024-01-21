@@ -1,0 +1,27 @@
+filename: Arcade Volleyball (1988)(COMPUTE! Publications, Inc.) [Sports].zip
+tdc_id: '8723.0'
+title:
+  screen: Arcade Volleyball
+publisher: COMPUTE! Publications, Inc.
+year: '1988'
+genre: Sports
+language: English
+date:
+  added: '2019-03-01T18:25:54'
+  last_modified: '2019-03-01T18:25:54'
+type: zip
+media: Type-In
+commands:
+  play: AV.EXE
+references:
+  dosid: DOS00831
+  exodos: Arcade Volleyball (1987).zip
+files:
+- name: AV.DAT
+  size: 4688
+  date: '1988-11-18T12:40:16'
+  crc: '0xc0f4a2fd'
+- name: AV.EXE
+  size: 37392
+  date: '1988-11-18T12:40:16'
+  crc: '0x1ad7cc4c'

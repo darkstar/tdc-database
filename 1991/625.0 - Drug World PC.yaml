@@ -1,0 +1,38 @@
+filename: Drug World PC v1.8 (1991)(DynaDoors) [Simulation, Strategy].zip
+tdc_id: '625.0'
+title:
+  screen: Drug World PC
+publisher: DynaDoors
+year: '1991'
+genre:
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:35:42'
+  last_modified: '2019-03-01T18:35:42'
+version: '1.8'
+type: zip
+commands:
+  play: DRUG.EXE
+files:
+- name: DRUG.EXE
+  size: 186832
+  date: '1990-01-06T02:27:14'
+  crc: '0x994d4cf1'
+- name: DRUGGIES.DBF
+  size: 542
+  date: '1991-10-14T21:19:22'
+  crc: '0xcf3ba998'
+- name: DRUGNEWS.DBF
+  size: 493
+  date: '1991-10-14T21:18:32'
+  crc: '0x8dff393f'
+- name: DRUGWRLD.DOC
+  size: 4800
+  date: '1990-01-04T23:11:00'
+  crc: '0xbb657735'
+- name: PLAYERNA.NTX
+  size: 2048
+  date: '1991-10-14T21:15:30'
+  crc: '0x03bc13a1'

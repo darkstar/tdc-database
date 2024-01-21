@@ -1,0 +1,47 @@
+filename: Death Taxi 3000 v0.5 [SW] (2019)(Thiago Marques) [Action, Racing - Driving].zip
+tdc_id: '13012.1'
+title:
+  screen: Death Taxi 3000
+publisher: Thiago Marques
+year: '2019'
+genre:
+- Action
+- Racing - Driving
+language: English
+date:
+  added: '2019-09-04T19:08:00'
+  last_modified: '2019-09-04T19:08:00'
+version: '0.5'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: TAXIDEMO.BAT
+files:
+- name: TAXIDEMO.BAT
+  size: 36
+  date: '2018-09-17T01:29:06'
+  crc: '0x664aa5c1'
+- name: data\
+  size: 0
+  date: '2019-08-30T13:48:42'
+- name: data\changelog.txt
+  size: 13371
+  date: '2019-08-22T02:25:42'
+  crc: '0x069b2ebc'
+- name: data\graphics.pak
+  size: 1058565
+  date: '2019-08-30T13:46:36'
+  crc: '0x3f07be9c'
+- name: dos\
+  size: 0
+  date: '2019-08-30T13:49:08'
+- name: dos\CWSDPMI.EXE
+  size: 21325
+  date: '2010-01-07T23:06:10'
+  crc: '0xa18c506d'
+- name: dos\taxidemo.exe
+  size: 363008
+  date: '2019-08-30T13:46:42'
+  crc: '0xd402e83b'

@@ -1,0 +1,27 @@
+filename: Unbeatable Tic Tac Toe!, The (1999)(Jeff Sweeting) [Strategy].zip
+tdc_id: '4478.0'
+title:
+  screen: The Unbeatable Tic Tac Toe!
+publisher: Jeff Sweeting
+year: '1999'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:46:36'
+  last_modified: '2019-03-02T10:46:36'
+type: zip
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 22
+  date: '2019-01-06T14:31:10'
+  crc: '0x24586c20'
+- name: QB.EXE
+  size: 278804
+  date: '2016-03-13T01:19:56'
+  crc: '0xb08bc0fe'
+- name: TICTOE.BAS
+  size: 8805
+  date: '1999-12-26T17:35:54'
+  crc: '0xa0713c10'

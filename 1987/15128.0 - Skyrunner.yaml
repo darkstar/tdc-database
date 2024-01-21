@@ -1,0 +1,31 @@
+filename: Skyrunner (1987)(Cascade Games Limited) [Action].zip
+tdc_id: '15128.0'
+title:
+  screen: Skyrunner
+publisher: Cascade Games Limited
+year: '1987'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:25:36'
+  last_modified: '2022-12-27T13:40:11'
+type: zip
+commands:
+  play: RUNNER.BAT
+references:
+  mobygames: https://www.mobygames.com/game/dos/sky-runner
+  dosid: DOS04610
+  exodos: Sky Runner (1987).zip
+files:
+- name: RUNNER.BAT
+  size: 23
+  date: '2004-10-08T10:42:32'
+  crc: '0x056892e9'
+- name: SKY1.COM
+  size: 16128
+  date: '2004-10-08T10:42:32'
+  crc: '0x33f02384'
+- name: SKY2.COM
+  size: 59905
+  date: '2004-10-08T10:42:34'
+  crc: '0x70dfc0ff'

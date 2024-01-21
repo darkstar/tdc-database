@@ -1,0 +1,30 @@
+filename: Space War! ...and the PDP-1 v1.03b (2005)(Paul Allen Panks) [Adventure, Interactive Fiction].zip
+tdc_id: '15315.0'
+title:
+  screen: Space War! ...and the PDP-1
+publisher: Paul Allen Panks
+year: '2005'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T10:57:06'
+  last_modified: '2019-03-02T10:57:06'
+version: 1.03b
+type: zip
+commands:
+  play: PDP1.EXE
+files:
+- name: PDP1.BAS
+  size: 28708
+  date: '2005-06-15T05:30:12'
+  crc: '0x0272741b'
+- name: PDP1.EXE
+  size: 65312
+  date: '2005-06-15T05:30:18'
+  crc: '0xfe43f1c5'
+- name: PDPMAP.TXT
+  size: 780
+  date: '2005-06-15T02:16:10'
+  crc: '0xf891a0b0'

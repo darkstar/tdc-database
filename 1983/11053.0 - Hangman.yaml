@@ -1,0 +1,50 @@
+filename: Hangman v4.1 [SW] (1983)(Norland Software) [Strategy, Puzzle, Educational].zip
+tdc_id: '11053.0'
+title:
+  screen: Hangman
+publisher: Norland Software
+year: '1983'
+genre:
+- Strategy
+- Puzzle
+- Educational
+language: English
+date:
+  added: '2019-03-01T18:23:14'
+  last_modified: '2019-03-01T18:23:14'
+version: '4.1'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: HANGMAN.EXE
+files:
+- name: HANGADV1.WRD
+  size: 19456
+  date: '1983-11-26T12:03:44'
+  crc: '0xef9c2ceb'
+- name: HANGBAS1.WRD
+  size: 12544
+  date: '1983-11-26T11:51:20'
+  crc: '0xfebc4a0b'
+- name: HANGCMT.REF
+  size: 222
+  date: '1983-09-23T16:12:46'
+  crc: '0xaba9bf39'
+- name: HANGED1.WRD
+  size: 28928
+  date: '1983-11-26T12:02:14'
+  crc: '0xf2c128b3'
+- name: HANGMAN.EXE
+  size: 43052
+  date: '1984-03-23T13:20:38'
+  crc: '0x85fbb548'
+- name: HANGMAN.REF
+  size: 40
+  date: '1983-09-24T14:52:16'
+  crc: '0xf188a92c'
+- name: HANGMUSE.MSC
+  size: 4864
+  date: '1983-08-26T14:33:48'
+  crc: '0xb73d8d04'

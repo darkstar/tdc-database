@@ -1,0 +1,28 @@
+filename: Classic Guess My Number (2003)(Nukem Enterprises) [Strategy].zip
+tdc_id: '9194.0'
+title:
+  screen: Classic Guess My Number
+publisher: Nukem Enterprises
+year: '2003'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:56:26'
+  last_modified: '2019-03-02T10:56:26'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 25
+  date: '2018-12-13T23:03:40'
+  crc: '0x2dd37543'
+- name: GUESS.BAS
+  size: 2345
+  date: '2003-04-09T15:46:26'
+  crc: '0xafbd824f'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

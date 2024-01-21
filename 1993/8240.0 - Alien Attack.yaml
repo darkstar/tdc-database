@@ -1,0 +1,29 @@
+filename: Alien Attack [SW] (1993)(Martin Software Productions) [Action].zip
+tdc_id: '8240.0'
+title:
+  screen: Alien Attack
+publisher: Martin Software Productions
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:58:16'
+  last_modified: '2019-03-01T18:58:16'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: aliens.exe
+references:
+  dosid: DOS00476
+  exodos: Alien Attack (1993).zip
+files:
+- name: aliens.exe
+  size: 69690
+  date: '1996-12-25T00:32:00'
+  crc: '0x06501cb2'
+- name: catalog.exe
+  size: 31652
+  date: '1996-12-25T00:32:00'
+  crc: '0x50786ddf'

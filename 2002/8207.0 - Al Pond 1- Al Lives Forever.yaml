@@ -1,0 +1,99 @@
+filename: Al Pond 1- Al Lives Forever v1.3 (2002)(Eigen Lenk) [Adventure].zip
+tdc_id: '8207.0'
+title:
+  screen: 'Al Pond 1: Al Lives Forever'
+publisher: Eigen Lenk
+year: '2002'
+genre: Adventure
+language: English
+date:
+  added: '2020-03-08T23:11:32'
+  last_modified: '2020-03-08T23:11:32'
+version: '1.3'
+type: zip
+commands:
+  play: AGI.COM
+references:
+  dosid: DOS00433
+  exodos: Al Pond 1 - Al Lives Forever (2002).zip
+files:
+- name: AGI
+  size: 39424
+  date: '1999-11-15T16:41:44'
+  crc: '0xac475ba4'
+- name: AGI.COM
+  size: 3115
+  date: '1986-11-16T13:32:06'
+  crc: '0x9d4eb9a4'
+- name: AGIDATA.OVL
+  size: 8192
+  date: '1987-12-01T10:49:20'
+  crc: '0x477bd79b'
+- name: Al Pond 1 Theme.mid
+  size: 1557
+  date: '2002-06-04T10:37:10'
+  crc: '0xa19d5034'
+- name: Al Pond Site.URL
+  size: 79
+  date: '2002-08-20T09:01:54'
+  crc: '0xf3a04afc'
+- name: CGA_GRAF.OVL
+  size: 1024
+  date: '1999-11-15T16:42:00'
+  crc: '0x838c18ac'
+- name: EGA_GRAF.OVL
+  size: 1024
+  date: '1999-11-15T16:42:02'
+  crc: '0x67e8b0ad'
+- name: HGC_GRAF.OVL
+  size: 1536
+  date: '1999-11-15T16:42:06'
+  crc: '0x7c999ac8'
+- name: HGC_OBJS.OVL
+  size: 1024
+  date: '1999-11-15T16:42:10'
+  crc: '0x4232dbd7'
+- name: IBM_OBJS.OVL
+  size: 512
+  date: '1999-11-15T16:42:12'
+  crc: '0xa0a04da4'
+- name: JR_GRAF.OVL
+  size: 512
+  date: '1986-12-01T08:48:46'
+  crc: '0xdc361ea6'
+- name: LOGDIR
+  size: 603
+  date: '2004-08-09T01:19:22'
+  crc: '0x4280c1cc'
+- name: OBJECT
+  size: 270
+  date: '2002-08-22T02:39:58'
+  crc: '0xb2d66ced'
+- name: PICDIR
+  size: 603
+  date: '2004-08-09T01:19:22'
+  crc: '0xcb246c7c'
+- name: README.TXT
+  size: 1501
+  date: '2013-10-17T19:52:58'
+  crc: '0x963fe9f2'
+- name: SNDDIR
+  size: 39
+  date: '2004-08-09T01:19:22'
+  crc: '0x02e4d85c'
+- name: VG_GRAF.OVL
+  size: 512
+  date: '1999-11-15T16:42:58'
+  crc: '0xca491b69'
+- name: VIEWDIR
+  size: 732
+  date: '2004-08-09T01:19:22'
+  crc: '0xf224b4b0'
+- name: VOL.0
+  size: 375909
+  date: '2004-08-09T01:19:22'
+  crc: '0x47dd3956'
+- name: WORDS.TOK
+  size: 4350
+  date: '2002-08-22T02:46:14'
+  crc: '0x9185fa2e'

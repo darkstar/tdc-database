@@ -1,0 +1,66 @@
+filename: Chess v1.01 (De) (1985)(Psion) [Strategy, Chess].zip
+tdc_id: '9254.1'
+title:
+  box: Chess
+publisher: Psion
+year: '1985'
+genre:
+- Strategy
+- Chess
+language: German
+date:
+  added: '2019-03-01T18:24:22'
+  last_modified: '2019-03-01T18:24:22'
+version: '1.01'
+type: zip
+commands:
+  play: chess.exe
+files:
+- name: chess.exe
+  size: 1744
+  date: '2007-09-02T11:02:10'
+  crc: '0x4fcf93ff'
+- name: chess.hlp
+  size: 7370
+  date: '1996-12-24T23:32:00'
+  crc: '0x167e31a4'
+- name: chess1.ovl
+  size: 95744
+  date: '1996-12-24T23:32:00'
+  crc: '0x7528585e'
+- name: chess2.ovl
+  size: 87552
+  date: '1996-12-24T23:32:00'
+  crc: '0x643d3730'
+- name: chess3.ovl
+  size: 9920
+  date: '1996-12-24T23:32:00'
+  crc: '0x1670ea92'
+- name: chess4.ovl
+  size: 15120
+  date: '1996-12-24T23:32:00'
+  crc: '0xe9f0121e'
+- name: chess5.ovl
+  size: 4320
+  date: '1996-12-24T23:32:00'
+  crc: '0xd0a80fe7'
+- name: chess6.ovl
+  size: 9600
+  date: '1996-12-24T23:32:00'
+  crc: '0x3a318801'
+- name: csh.dok
+  size: 2999
+  date: '1996-12-24T23:32:00'
+  crc: '0xaf7c856c'
+- name: hw1.chs
+  size: 374
+  date: '1996-12-24T23:32:00'
+  crc: '0x748bc81d'
+- name: hw2.chs
+  size: 406
+  date: '1996-12-24T23:32:00'
+  crc: '0xaa7b1f23'
+- name: psion.grt
+  size: 8192
+  date: '1996-12-24T23:32:00'
+  crc: '0xb951361d'

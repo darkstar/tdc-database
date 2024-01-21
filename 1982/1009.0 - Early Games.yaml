@@ -1,0 +1,32 @@
+filename: Early Games (1982)(Learning Tools, Inc.) [Educational].zip
+tdc_id: '1009.0'
+title:
+  screen: Early Games
+publisher: Learning Tools, Inc.
+year: '1982'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T18:22:58'
+  last_modified: '2019-03-01T18:22:58'
+type: zip
+media: Download
+commands:
+  play: START.BAT
+files:
+- name: EGCOLOR.BAS
+  size: 25088
+  date: '1986-03-05T18:18:42'
+  crc: '0x7afd03d5'
+- name: EGINST.BAS
+  size: 3200
+  date: '1986-03-05T18:18:52'
+  crc: '0xe499297f'
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1991-01-31T13:17:34'
+  crc: '0x2a44af39'
+- name: START.BAT
+  size: 16
+  date: '2016-08-18T18:37:20'
+  crc: '0x6b0e7680'

@@ -1,0 +1,38 @@
+filename: Mario Teaches Typing (Installer) (1992)(Interplay Entertainment Corp.) [Educational].zip
+tdc_id: '11144.1'
+title:
+  box: Mario Teaches Typing
+publisher: Interplay Entertainment Corp.
+year: '1992'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T18:49:14'
+  last_modified: '2019-03-01T18:49:14'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DATA_DISK
+  size: 0
+  date: '1992-08-02T21:23:20'
+- name: INSTALL.EXE
+  size: 28423
+  date: '1992-08-03T11:13:22'
+  crc: '0x97e1ef21'
+- name: MARIO1.CMP
+  size: 545724
+  date: '1992-08-03T11:06:50'
+  crc: '0xbd150361'
+- name: MARIO2.CMP
+  size: 633591
+  date: '1992-08-03T11:08:06'
+  crc: '0x1c7d3465'
+- name: README.DOC
+  size: 2279
+  date: '1992-08-03T03:14:56'
+  crc: '0x8db31ace'
+- name: STARTUP
+  size: 0
+  date: '1992-08-02T21:22:18'

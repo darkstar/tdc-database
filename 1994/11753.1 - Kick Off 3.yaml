@@ -1,0 +1,37 @@
+filename: Kick Off 3 (Installer) (En)(De)(Fr)(It)(Es)(Da)(Sv)(Fi)(No) (1994)(Anco Software Ltd.) [Sports].zip
+tdc_id: '11753.1'
+title:
+  box: Kick Off 3
+publisher: Anco Software Ltd.
+year: '1994'
+genre: Sports
+language:
+- English
+- Spanish
+- French
+- Italian
+- German
+- Finnish
+- Norwegian
+- Danish
+- Swedish
+date:
+  added: '2019-03-01T22:01:10'
+  last_modified: '2019-03-01T22:01:10'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 24233
+  date: '1999-12-31T19:00:00'
+  crc: '0x26c6a271'
+- name: KO3_1.RNC
+  size: 700000
+  date: '1999-12-31T19:00:00'
+  crc: '0x5399da8f'
+- name: KO3_2.RNC
+  size: 894992
+  date: '1999-12-31T19:00:00'
+  crc: '0xaaf2f575'

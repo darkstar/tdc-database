@@ -1,0 +1,28 @@
+filename: Yatzee (1997)(Tybee Evans) [Strategy].zip
+tdc_id: '4142.0'
+title:
+  screen: Yatzee
+publisher: Tybee Evans
+year: '1997'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:40:28'
+  last_modified: '2019-03-02T10:40:28'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 27
+  date: '2018-12-05T22:16:04'
+  crc: '0xb387b00a'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: YAHTZEE.BAS
+  size: 13059
+  date: '2018-12-05T12:45:14'
+  crc: '0x630bc3f3'

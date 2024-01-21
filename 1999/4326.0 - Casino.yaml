@@ -1,0 +1,27 @@
+filename: Casino (1999)(Shurick and Eugen) [Simulation].zip
+tdc_id: '4326.0'
+title:
+  screen: Casino
+publisher: Shurick and Eugen
+year: '1999'
+genre: Simulation
+language: English
+date:
+  added: '2020-07-31T01:29:02'
+  last_modified: '2020-07-31T01:29:02'
+type: zip
+commands:
+  play: CASINO.EXE
+files:
+- name: CASINO.DAT
+  size: 179528
+  date: '1999-08-01T10:00:00'
+  crc: '0x6d6c3860'
+- name: CASINO.EXE
+  size: 54202
+  date: '1999-08-24T15:06:54'
+  crc: '0x0cbf4408'
+- name: CASINO.TXT
+  size: 1752
+  date: '2000-01-24T19:44:34'
+  crc: '0x9b49a2f0'

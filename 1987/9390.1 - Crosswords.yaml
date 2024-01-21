@@ -1,0 +1,33 @@
+filename: Crosswords (1987)(Tink Kinney) [Strategy, Puzzle].zip
+tdc_id: '9390.1'
+title:
+  screen: Crosswords
+publisher: Tink Kinney
+year: '1987'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-03-01T18:25:14'
+  last_modified: '2019-03-01T18:25:14'
+type: zip
+commands:
+  play: GO.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: CROSWORD.BAS
+  size: 11194
+  date: '1980-01-01T00:52:40'
+  crc: '0xde86ac69'
+- name: GO.BAT
+  size: 23
+  date: '2018-12-08T19:53:16'
+  crc: '0x2c1c1eb5'
+- name: X-WORD.XXX
+  size: 16399
+  date: '1989-06-03T00:21:16'
+  crc: '0x17084a48'

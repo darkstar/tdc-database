@@ -1,0 +1,28 @@
+filename: Fleet Sweep [DC] (1983)(Mirror Images Software, Inc.) [Action].zip
+tdc_id: '13650.0'
+title:
+  box: Fleet Sweep
+publisher: Mirror Images Software, Inc.
+year: '1983'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:23:12'
+  last_modified: '2019-03-01T18:23:12'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: Fleet.com
+references:
+  dosid: DOS05880
+  exodos: Fleet Sweep (1983).zip
+files:
+- name: Fleet.com
+  size: 424
+  date: '2002-05-05T10:44:00'
+  crc: '0x70ffc968'
+- name: Game.dat
+  size: 163840
+  date: '2002-05-05T10:36:28'
+  crc: '0xddb6cfad'

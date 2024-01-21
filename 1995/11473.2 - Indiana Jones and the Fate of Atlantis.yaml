@@ -1,0 +1,94 @@
+filename: Indiana Jones and the Fate of Atlantis (1995)(Lucasfilm Games LLC) [Adventure].zip
+tdc_id: '11473.2'
+parent_id: '11473.23'
+title:
+  box: Indiana Jones and the Fate of Atlantis
+publisher: Lucasfilm Games LLC
+year: '1995'
+genre: Adventure
+language: English
+date:
+  added: '2021-08-11T12:39:52'
+  last_modified: '2021-08-11T12:39:52'
+type: zip
+commands:
+  play: ATLANTIS.EXE
+references:
+  dosid: DOS02719
+  exodos: Indiana Jones and the Fate of Atlantis (1992).zip
+files:
+- name: ATLANTIS.EXE
+  size: 40051
+  date: '1993-05-21T05:16:56'
+  crc: '0x208836b9'
+- name: ATLANTIS\
+  size: 0
+  date: '1995-06-09T12:12:34'
+- name: ATLANTIS\ADLIB.IMS
+  size: 20736
+  date: '1993-04-17T07:00:00'
+  crc: '0x9e74edec'
+- name: ATLANTIS\ATLANTIS.000
+  size: 12035
+  date: '1993-05-05T07:00:00'
+  crc: '0x60e9988f'
+- name: ATLANTIS\ATLANTIS.001
+  size: 9823920
+  date: '1993-05-05T07:00:00'
+  crc: '0x90db9c30'
+- name: ATLANTIS\ATLANTIS.EXE
+  size: 128283
+  date: '1993-05-05T07:00:00'
+  crc: '0xa803103f'
+- name: ATLANTIS\ATLANTIS.ICO
+  size: 766
+  date: '1992-05-20T07:00:00'
+  crc: '0xca2a54a8'
+- name: ATLANTIS\ATLANTIS.PIF
+  size: 545
+  date: '1992-05-18T07:00:00'
+  crc: '0xeebd65de'
+- name: ATLANTIS\HELPME.DOC
+  size: 4932
+  date: '1993-05-17T10:49:44'
+  crc: '0x8ff1850b'
+- name: ATLANTIS\HELPME.EXE
+  size: 19767
+  date: '1993-05-17T12:11:48'
+  crc: '0x2bd42e1d'
+- name: ATLANTIS\MONSTER.SOU
+  size: 149867609
+  date: '1993-05-05T07:00:00'
+  crc: '0x028ad944'
+- name: ATLANTIS\ROLAND.IMS
+  size: 18976
+  date: '1993-04-17T07:00:00'
+  crc: '0x3f89f7f5'
+- name: ATLANTIS\ROL_330.IMS
+  size: 18976
+  date: '1993-04-17T07:00:00'
+  crc: '0x3f89f7f5'
+- name: ATLANTIS\ROL_332.IMS
+  size: 18976
+  date: '1993-04-17T07:00:00'
+  crc: '0x21d0bd5e'
+- name: ATLANTIS\ROL_334.IMS
+  size: 18976
+  date: '1993-04-17T07:00:00'
+  crc: '0xe29b1790'
+- name: ATLANTIS\ROL_336.IMS
+  size: 18976
+  date: '1993-04-17T07:00:00'
+  crc: '0xe8cf61a6'
+- name: ATLANTIS\SPEAKER.IMS
+  size: 20062
+  date: '1993-04-17T07:00:00'
+  crc: '0x4fb49af3'
+- name: BOOTDISK.EXE
+  size: 52527
+  date: '1995-06-13T10:16:16'
+  crc: '0xc2134778'
+- name: README
+  size: 5225
+  date: '1993-05-21T05:20:08'
+  crc: '0xa0ae0754'

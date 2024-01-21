@@ -1,0 +1,29 @@
+filename: Silver Cloud, The (1987)(Anonymous) [Adventure, Interactive Fiction].zip
+tdc_id: '5987.0'
+title:
+  screen: The Silver Cloud
+publisher: Anonymous
+year: '1987'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:25:36'
+  last_modified: '2019-03-01T18:25:36'
+type: zip
+media: Download
+commands:
+  play: SCLOUD.EXE
+references:
+  dosid: DOS00101
+  exodos: Silver Cloud, The (1987).zip
+files:
+- name: SCLOUD.EXE
+  size: 89142
+  date: '1987-05-01T12:12:38'
+  crc: '0xb57d29cc'
+- name: SCLOUD.XPR
+  size: 69290
+  date: '1987-05-01T12:15:28'
+  crc: '0x9ae04233'

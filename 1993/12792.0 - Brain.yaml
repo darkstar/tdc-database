@@ -1,0 +1,28 @@
+filename: Brain v2.01 (De) (1993)(Jürgen Heise) [Puzzle].zip
+tdc_id: '12792.0'
+title:
+  screen: Brain
+publisher: Jürgen Heise
+year: '1993'
+genre: Puzzle
+language: German
+date:
+  added: '2019-03-01T19:01:40'
+  last_modified: '2019-03-01T19:01:40'
+version: '2.01'
+type: zip
+commands:
+  play: BRAIN.EXE
+files:
+- name: BRAIN.DOC
+  size: 3949
+  date: '1993-06-01T02:01:00'
+  crc: '0x2e88f48f'
+- name: BRAIN.EXE
+  size: 13981
+  date: '1993-06-01T02:01:00'
+  crc: '0x149af214'
+- name: BRAIN.PIF
+  size: 545
+  date: '1993-06-01T02:01:00'
+  crc: '0xcd9872c1'

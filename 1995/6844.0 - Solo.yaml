@@ -1,0 +1,32 @@
+filename: Solo (1995)(David Zohrob) [Action].zip
+tdc_id: '6844.0'
+title:
+  screen: Solo
+publisher: David Zohrob
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T09:03:20'
+  last_modified: '2019-03-02T09:03:20'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 24
+  date: '2018-04-14T19:53:54'
+  crc: '0x67bc011e'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T01:28:02'
+  crc: '0x19f6ed75'
+- name: SOLO.BAS
+  size: 25579
+  date: '1996-07-06T18:31:48'
+  crc: '0xca6ddf73'
+- name: SOLO.BSV
+  size: 16015
+  date: '1995-07-13T16:13:36'
+  crc: '0x97bd9cfc'

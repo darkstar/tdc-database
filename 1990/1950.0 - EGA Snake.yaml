@@ -1,0 +1,30 @@
+filename: EGA Snake [SW] (1990)(Michael Hulthin) [Action].zip
+tdc_id: '1950.0'
+title:
+  screen: EGA Snake
+publisher: Michael Hulthin
+year: '1990'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:32:30'
+  last_modified: '2019-03-01T18:32:30'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: EGASNAKE.EXE
+files:
+- name: EGASNAKE.DOC
+  size: 10418
+  date: '1990-06-04T09:21:48'
+  crc: '0x68774c5b'
+- name: EGASNAKE.EXE
+  size: 67728
+  date: '1990-05-20T16:33:56'
+  crc: '0x786a6002'
+- name: README.DOC
+  size: 339
+  date: '1990-05-20T16:36:54'
+  crc: '0x4718c903'

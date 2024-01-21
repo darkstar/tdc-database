@@ -1,0 +1,30 @@
+filename: Tank (1983)(International PC Owners) [Action].zip
+tdc_id: '15680.0'
+title:
+  screen: Tank
+publisher: International PC Owners
+year: '1983'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:23:22'
+  last_modified: '2019-03-01T18:23:22'
+type: zip
+commands:
+  play: TANK.BAT
+references:
+  dosid: DOS06613
+  exodos: Tank (1983).zip
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: TANK.BAS
+  size: 7808
+  date: '1983-09-18T15:51:02'
+  crc: '0x540d7a6b'
+- name: TANK.BAT
+  size: 13
+  date: '1980-01-01T00:00:00'
+  crc: '0x97f62bfb'

@@ -1,0 +1,169 @@
+filename: Pirates of the Barbary Coast v1.1 (1987)(Starsoft Development Laboratories, Inc.) [Adventure, Strategy].zip
+tdc_id: '10306.1'
+title:
+  box: Pirates of the Barbary Coast
+publisher: Starsoft Development Laboratories, Inc.
+year: '1987'
+genre:
+- Adventure
+- Strategy
+language: English
+date:
+  added: '2022-11-20T20:01:59'
+  last_modified: '2022-11-20T20:01:59'
+version: '1.1'
+type: zip
+commands:
+  play: START.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/pirates-of-the-barbary-coast
+  dosid: DOS04022
+  exodos: Pirates of the Barbary Coast (1987).zip
+files:
+- name: PAK\
+  size: 0
+  date: '1987-10-18T10:41:40'
+- name: PAK\AFRICA.PAK
+  size: 6912
+  date: '1987-08-16T18:19:10'
+  crc: '0xa645a5f4'
+- name: PAK\BADECK.SPR
+  size: 4508
+  date: '1987-08-29T20:40:58'
+  crc: '0x10f157ed'
+- name: PAK\BALL0.SPR
+  size: 92
+  date: '1987-08-29T20:41:00'
+  crc: '0x3532cee7'
+- name: PAK\BALL1.SPR
+  size: 92
+  date: '1987-08-29T20:41:00'
+  crc: '0x39983ee0'
+- name: PAK\BALL2.SPR
+  size: 220
+  date: '1987-08-29T20:41:00'
+  crc: '0xacd78f24'
+- name: PAK\BALL3.SPR
+  size: 316
+  date: '1987-08-29T20:41:02'
+  crc: '0x1af880c8'
+- name: PAK\BLDFITE.PAK
+  size: 2816
+  date: '1987-08-09T15:43:00'
+  crc: '0x252ab376'
+- name: PAK\BLDSUNK.PAK
+  size: 8320
+  date: '1987-08-08T22:40:18'
+  crc: '0xfac71a1e'
+- name: PAK\BOOTY.PAK
+  size: 7680
+  date: '1987-08-23T20:32:16'
+  crc: '0x74d9c76e'
+- name: PAK\FASTFONT.FNT
+  size: 4096
+  date: '1987-08-26T15:17:24'
+  crc: '0x4968dfed'
+- name: PAK\FLAME.SPR
+  size: 60
+  date: '1987-08-29T20:40:48'
+  crc: '0xccec7514'
+- name: PAK\FONTS.FNT
+  size: 1152
+  date: '1987-07-06T21:44:22'
+  crc: '0x35b3ab17'
+- name: PAK\GENSTORE.PAK
+  size: 9856
+  date: '1987-07-12T00:21:54'
+  crc: '0xfbaaebc7'
+- name: PAK\GOODECK.SPR
+  size: 4508
+  date: '1987-08-29T20:40:58'
+  crc: '0x11caa93d'
+- name: PAK\LAGOON.PAK
+  size: 3712
+  date: '1987-08-15T01:34:36'
+  crc: '0x86d8aeb7'
+- name: PAK\LOGO.PAK
+  size: 3456
+  date: '1987-06-28T23:26:52'
+  crc: '0x033ed4ce'
+- name: PAK\MANIFEST.PAK
+  size: 4224
+  date: '1987-08-15T01:50:56'
+  crc: '0x06827cd5'
+- name: PAK\MAP.PAK
+  size: 7680
+  date: '1987-08-23T21:19:34'
+  crc: '0x01acb9cf'
+- name: PAK\NOSHIP.PAK
+  size: 2816
+  date: '1987-08-15T01:51:12'
+  crc: '0xf797d5f3'
+- name: PAK\RANSOM.PAK
+  size: 8320
+  date: '1987-08-15T01:36:56'
+  crc: '0x9d8dbc75'
+- name: PAK\REPAIR.PAK
+  size: 9984
+  date: '1987-08-15T01:51:40'
+  crc: '0x1506c260'
+- name: PAK\SEA.PAK
+  size: 768
+  date: '1987-07-28T23:06:38'
+  crc: '0xe5388773'
+- name: PAK\SHIP00.SPR
+  size: 604
+  date: '1987-08-29T20:40:48'
+  crc: '0x30f89bfe'
+- name: PAK\SHIP01.SPR
+  size: 604
+  date: '1987-08-29T20:40:50'
+  crc: '0x46ad7944'
+- name: PAK\SHIP02.SPR
+  size: 604
+  date: '1987-08-29T20:40:50'
+  crc: '0x386c190d'
+- name: PAK\SHIP10.SPR
+  size: 924
+  date: '1987-08-29T20:40:52'
+  crc: '0x82e17360'
+- name: PAK\SHIP11.SPR
+  size: 924
+  date: '1987-08-29T20:40:52'
+  crc: '0x3beb1dc0'
+- name: PAK\SHIP12.SPR
+  size: 924
+  date: '1987-08-29T20:40:52'
+  crc: '0x225440ec'
+- name: PAK\SHIP20.SPR
+  size: 1148
+  date: '1987-08-29T20:40:54'
+  crc: '0xde50185f'
+- name: PAK\SHIP21.SPR
+  size: 1148
+  date: '1987-08-29T20:40:54'
+  crc: '0x0175c5c9'
+- name: PAK\SHIP22.SPR
+  size: 1148
+  date: '1987-08-29T20:40:56'
+  crc: '0x41720bf0'
+- name: PAK\SHIPSINK.PAK
+  size: 3456
+  date: '1987-08-15T01:51:24'
+  crc: '0x76280ead'
+- name: PAK\STARDOWN.PAK
+  size: 9216
+  date: '1987-08-08T22:30:02'
+  crc: '0x107f1fb4'
+- name: PAK\TITLE.PAK
+  size: 6784
+  date: '1987-08-15T01:39:54'
+  crc: '0x65d5773e'
+- name: PAK\TRADER.PAK
+  size: 7552
+  date: '1987-08-15T01:52:02'
+  crc: '0x64c9c6d5'
+- name: START.EXE
+  size: 63857
+  date: '1987-10-18T01:50:42'
+  crc: '0xc1adabeb'

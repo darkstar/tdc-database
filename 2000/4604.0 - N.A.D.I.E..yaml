@@ -1,0 +1,33 @@
+filename: N.A.D.I.E. (Es) (2000)(Andrea di Pietro) [Adventure, Interactive Fiction].zip
+tdc_id: '4604.0'
+title:
+  screen: N.A.D.I.E.
+publisher: Andrea di Pietro
+year: '2000'
+genre:
+- Adventure
+- Interactive Fiction
+language: Spanish
+date:
+  added: '2019-03-02T10:54:56'
+  last_modified: '2019-03-02T10:54:56'
+type: zip
+commands:
+  play: nadie.exe
+files:
+- name: nadie.PIF
+  size: 967
+  date: '2003-02-19T03:01:06'
+  crc: '0x82cd0de7'
+- name: nadie.exe
+  size: 70437
+  date: '2000-03-16T13:15:50'
+  crc: '0x6aab7c75'
+- name: nadie.ico
+  size: 766
+  date: '2003-02-19T02:59:08'
+  crc: '0xad8af93a'
+- name: nadie.txt
+  size: 577
+  date: '2008-06-21T01:01:36'
+  crc: '0xe940f42c'

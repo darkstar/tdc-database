@@ -1,0 +1,82 @@
+filename: Depth Dwellers v1.6 [SWR] (1995)(TriSoft) [Action].zip
+tdc_id: '13078.9'
+parent_id: '13078.7'
+title:
+  screen: Depth Dwellers
+publisher: TriSoft
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2023-01-15T18:40:31'
+  last_modified: '2023-01-15T18:40:31'
+version: '1.6'
+type: zip
+tags:
+- SharewareRegistered
+commands:
+  play: DD.EXE
+  setup: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/depth-dwellers
+files:
+- name: ABOUT.DOC
+  size: 749
+  date: '1994-12-23T10:57:52'
+  crc: '0x558985c6'
+- name: DD.DAT
+  size: 213772
+  date: '1994-11-22T07:32:48'
+  crc: '0x458391fe'
+- name: DD.EXE
+  size: 468129
+  date: '1995-01-01T12:54:12'
+  crc: '0xd97a7d2d'
+- name: DD.RES
+  size: 3024271
+  date: '1994-12-29T13:38:02'
+  crc: '0xd92c7ecb'
+- name: DDFAST.RES
+  size: 416177
+  date: '1994-12-23T10:48:50'
+  crc: '0xac1f7a55'
+- name: DDSND.EXE
+  size: 56386
+  date: '1994-11-25T06:24:58'
+  crc: '0xbf66578d'
+- name: DEPTH.BAT
+  size: 58
+  date: '1994-11-25T17:08:10'
+  crc: '0x5c9243ec'
+- name: DOS4GW.EXE
+  size: 265420
+  date: '1994-11-22T07:32:48'
+  crc: '0xcb214447'
+- name: HELP.DOC
+  size: 2800
+  date: '1994-12-29T13:34:46'
+  crc: '0xcc095d0f'
+- name: HINTS.DOC
+  size: 6171
+  date: '1994-12-29T14:40:06'
+  crc: '0x8eb4b21a'
+- name: ORDER.DOC
+  size: 2105
+  date: '1994-12-23T10:56:50'
+  crc: '0x879722d1'
+- name: PMINFO.EXE
+  size: 99336
+  date: '1994-05-31T10:00:00'
+  crc: '0xff654ec3'
+- name: REGLICES.DOC
+  size: 3531
+  date: '1994-12-23T10:58:24'
+  crc: '0xd84ad077'
+- name: RMINFO.EXE
+  size: 64424
+  date: '1994-05-31T10:00:00'
+  crc: '0xf3a0008a'
+- name: SETUP.EXE
+  size: 40162
+  date: '1994-12-06T00:43:30'
+  crc: '0xe006729d'

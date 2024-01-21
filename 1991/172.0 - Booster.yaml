@@ -1,0 +1,77 @@
+filename: Booster (demo) (De) (1991)(MAS) [Action].zip
+tdc_id: '172.0'
+title:
+  screen: Booster
+  qualifier: demo
+publisher: MAS
+year: '1991'
+genre: Action
+language: German
+date:
+  added: '2019-03-01T18:35:04'
+  last_modified: '2022-09-02T21:43:30'
+type: zip
+demo: true
+commands:
+  play: BODEMO.EXE
+files:
+- name: BCMSCALL.BIN
+  size: 229
+  date: '1991-12-31T00:00:00'
+  crc: '0xab55691f'
+- name: BESTELL.TXT
+  size: 1500
+  date: '1991-12-31T00:00:00'
+  crc: '0xdbdcb756'
+- name: BODEMO.EXE
+  size: 104224
+  date: '1991-12-31T00:00:00'
+  crc: '0xbe803edf'
+- name: BODEMO.HLP
+  size: 64007
+  date: '1991-12-31T00:00:00'
+  crc: '0xdc03bf4a'
+- name: BODEMO.INT
+  size: 64007
+  date: '1991-12-31T00:00:00'
+  crc: '0x10d873d4'
+- name: BODEMO.LEV
+  size: 64007
+  date: '1991-12-31T00:00:00'
+  crc: '0x4defd310'
+- name: BODEMO.SET
+  size: 64007
+  date: '1991-12-31T00:00:00'
+  crc: '0x9be057d8'
+- name: BODEMO.SPR
+  size: 64007
+  date: '1991-12-31T00:00:00'
+  crc: '0x9b0bd839'
+- name: BODEMO.TIT
+  size: 64007
+  date: '1991-12-31T00:00:00'
+  crc: '0x24807a6b'
+- name: LIESMICH.TXT
+  size: 5700
+  date: '1991-12-31T00:00:00'
+  crc: '0x226f6561'
+- name: SDEMO.INT
+  size: 13575
+  date: '1991-12-31T00:00:00'
+  crc: '0x8328182b'
+- name: SDEMO.OHH
+  size: 2055
+  date: '1991-12-31T00:00:00'
+  crc: '0xdee974ee'
+- name: SDEMO.RH1
+  size: 6407
+  date: '1991-12-31T00:00:00'
+  crc: '0xbe181ebc'
+- name: SDEMO.TIT
+  size: 9223
+  date: '1991-12-31T00:00:00'
+  crc: '0xe10a9ed6'
+- name: SETUP.CFG
+  size: 128
+  date: '1991-12-31T00:00:00'
+  crc: '0x1a10bc79'

@@ -1,0 +1,36 @@
+filename: Blackjack [SW] (1988)(Scott L. Cox) [Strategy, Cards].zip
+tdc_id: '1478.0'
+title:
+  screen: Blackjack
+publisher: Scott L. Cox
+year: '1988'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:26:00'
+  last_modified: '2019-03-01T18:26:00'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: BJ.EXE
+files:
+- name: BJ.EXE
+  size: 59194
+  date: '1980-01-01T00:16:46'
+  crc: '0x06e086cd'
+- name: BJCARDS.PIC
+  size: 16392
+  date: '1980-01-01T00:20:28'
+  crc: '0x1b268875'
+- name: INITIAL
+  size: 61
+  date: '1980-01-01T00:16:08'
+  crc: '0x87a8571b'
+- name: TOPTEN
+  size: 21
+  date: '1980-01-01T00:16:08'
+  crc: '0x873b866e'

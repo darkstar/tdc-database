@@ -1,0 +1,57 @@
+filename: Space Flight 3D (demo) (2001)(Joe Burke) [Simulation].zip
+tdc_id: '15297.0'
+title:
+  screen: Space Flight 3D
+  qualifier: demo
+publisher: Joe Burke
+year: '2001'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-02T10:55:44'
+  last_modified: '2019-03-02T10:55:44'
+type: zip
+demo: true
+commands:
+  play: SPECTRL8.EXE
+files:
+- name: FUTURE.BI
+  size: 7565
+  date: '2000-04-10T12:57:20'
+  crc: '0x953b9284'
+- name: FUTURE.LIB
+  size: 108213
+  date: '2000-12-29T18:11:32'
+  crc: '0xa9798563'
+- name: FUTURE.QLB
+  size: 90519
+  date: '2000-12-29T18:11:38'
+  crc: '0x15bbdef7'
+- name: LEVEL.3DL
+  size: 5573
+  date: '2001-03-23T02:17:48'
+  crc: '0x081702ba'
+- name: SPECTRL8.EXE
+  size: 121156
+  date: '2001-03-23T15:57:22'
+  crc: '0xa8210d69'
+- name: Spectrl8.bas
+  size: 72731
+  date: '2001-03-23T15:57:14'
+  crc: '0xbe860038'
+- name: console.bmp
+  size: 64758
+  date: '2000-11-03T21:23:52'
+  crc: '0xc69376c1'
+- name: nship.3dl
+  size: 2072
+  date: '2001-03-24T02:22:32'
+  crc: '0x7dc19924'
+- name: pal256.pal
+  size: 4529
+  date: '2000-02-20T22:05:00'
+  crc: '0x2f69e9fd'
+- name: readme.txt
+  size: 607
+  date: '2001-03-23T16:09:00'
+  crc: '0xcb1c7b88'

@@ -1,0 +1,34 @@
+filename: Submarine (1989)(Softdisk Publishing) [Simulation].zip
+tdc_id: '16229.0'
+title:
+  box: Submarine
+publisher: Softdisk Publishing
+year: '1989'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:29:08'
+  last_modified: '2019-03-01T18:29:08'
+type: zip
+commands:
+  play: SUB.EXE
+references:
+  dosid: DOS04924
+  exodos: Submarine (1989).zip
+files:
+- name: SUB.EXE
+  size: 128384
+  date: '1989-02-10T12:55:00'
+  crc: '0xe8f24d54'
+- name: SUB.HLP
+  size: 13752
+  date: '1989-02-10T12:40:00'
+  crc: '0xbd82659d'
+- name: SUB.HSR
+  size: 445
+  date: '2000-04-28T16:28:00'
+  crc: '0xc75bb124'
+- name: SUB.TXT
+  size: 34510
+  date: '1989-02-10T15:46:00'
+  crc: '0x047af464'

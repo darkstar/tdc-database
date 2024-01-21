@@ -1,0 +1,31 @@
+filename: Eishockey Manager (demo) (Installer) (De) (1993)(Software 2000) [Simulation, Sports].zip
+tdc_id: '13334.2'
+parent_id: '13334.3'
+title:
+  screen: Eishockey Manager
+  qualifier: demo
+publisher: Software 2000
+year: '1993'
+genre:
+- Simulation
+- Sports
+language: German
+date:
+  added: '2019-03-01T19:02:42'
+  last_modified: '2019-03-01T19:02:42'
+type: zip
+installer: true
+demo: true
+files:
+- name: DISK1.EXE
+  size: 408475
+  date: '1993-04-08T23:47:04'
+  crc: '0x5b3e74c1'
+- name: INSTALL.BAT
+  size: 1070
+  date: '1993-05-11T23:41:18'
+  crc: '0x58eff803'
+- name: READ_ME.TXT
+  size: 1541
+  date: '1993-04-09T00:37:18'
+  crc: '0x87ffe433'

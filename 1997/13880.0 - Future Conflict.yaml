@@ -1,0 +1,32 @@
+filename: Future Conflict v1.01PM (Installer) [SW] (1997)(Chris Jones) [Strategy].zip
+tdc_id: '13880.0'
+title:
+  screen: Future Conflict
+publisher: Chris Jones
+year: '1997'
+genre: Strategy
+language: English
+date:
+  added: '2021-06-05T00:11:16'
+  last_modified: '2021-06-05T00:11:16'
+version: 1.01PM
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.1
+  size: 1462377
+  date: '1998-06-18T15:30:28'
+  crc: '0xec65d644'
+- name: INSTALL.CFG
+  size: 445
+  date: '1998-06-17T22:42:42'
+  crc: '0x05f6cbc9'
+- name: INSTALL.EXE
+  size: 64006
+  date: '1998-04-25T19:26:52'
+  crc: '0xa036e184'

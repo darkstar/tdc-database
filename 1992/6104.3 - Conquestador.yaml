@@ -1,0 +1,41 @@
+filename: Conquestador v1.30 (Installer) (De) (1992)(German Design Group) [Strategy][!].zip
+tdc_id: '6104.3'
+parent_id: '6104.10'
+title:
+  box: Conquestador
+publisher: German Design Group
+year: '1992'
+genre: Strategy
+language: German
+date:
+  added: '2022-11-28T14:31:34'
+  last_modified: '2023-01-23T15:02:09'
+version: '1.30'
+type: zip
+tags:
+- KnownGood
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/spoils-of-war
+files:
+- name: INSTALL.EXE
+  size: 23570
+  date: '1992-07-08T22:23:36'
+  crc: '0x82811a45'
+- name: PRIVATE\
+  size: 0
+  date: '1992-10-15T16:56:18'
+- name: PRIVATE\DISK1.EXE
+  size: 619515
+  date: '1992-10-15T15:05:30'
+  crc: '0x882c5d1d'
+- name: PRIVATE\DISK2.EXE
+  size: 608097
+  date: '1992-10-15T15:07:36'
+  crc: '0xd9490e99'
+- name: PRIVATE\DISK3.EXE
+  size: 726488
+  date: '1992-10-15T15:09:40'
+  crc: '0x8bbcb394'

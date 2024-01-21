@@ -1,0 +1,32 @@
+filename: Watchout! (2002)(Daniel Miller) [Action].zip
+tdc_id: '4870.0'
+title:
+  screen: Watchout!
+publisher: Daniel Miller
+year: '2002'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:56:20'
+  last_modified: '2019-03-02T10:56:20'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 28
+  date: '2019-01-06T15:56:30'
+  crc: '0xfd1c0971'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: ReadThis.txt
+  size: 819
+  date: '2002-03-26T17:59:18'
+  crc: '0xa9452c9d'
+- name: WATCHOUT.BAS
+  size: 17170
+  date: '2002-03-26T17:40:04'
+  crc: '0x03b03142'

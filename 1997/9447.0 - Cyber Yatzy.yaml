@@ -1,0 +1,35 @@
+filename: Cyber Yatzy (1997)(Technological Dimensions) [Strategy].zip
+tdc_id: '9447.0'
+title:
+  screen: Cyber Yatzy
+publisher: Technological Dimensions
+year: '1997'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:26:08'
+  last_modified: '2019-03-02T10:26:08'
+type: zip
+commands:
+  play: YATZY.EXE
+files:
+- name: CYB1.DAT
+  size: 180418
+  date: '1997-12-23T03:25:44'
+  crc: '0xe1669892'
+- name: CYB2.DAT
+  size: 266691
+  date: '1997-12-23T05:08:12'
+  crc: '0x95a896a6'
+- name: README.TXT
+  size: 625
+  date: '1997-12-24T02:40:00'
+  crc: '0xa55e4d67'
+- name: SVGA256.BGI
+  size: 8956
+  date: '1994-08-23T00:58:46'
+  crc: '0x64b3c369'
+- name: YATZY.EXE
+  size: 129986
+  date: '1997-12-24T02:41:42'
+  crc: '0xd70f7613'

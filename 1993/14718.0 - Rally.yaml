@@ -1,0 +1,41 @@
+filename: Rally v2.0 (Ru) (1993)(DOKA Company) [Action].zip
+tdc_id: '14718.0'
+title:
+  screen: Rally
+  translation: Ралли
+publisher: DOKA Company
+year: '1993'
+genre: Action
+language: Russian
+date:
+  added: '2019-03-01T18:37:30'
+  last_modified: '2023-10-02T16:25:23'
+version: '2.0'
+type: zip
+commands:
+  play: RALLY_R.EXE
+files:
+- name: RACE.FRG
+  size: 37556
+  date: '1992-03-10T12:53:46'
+  crc: '0xa74a2759'
+- name: RACE.MAP
+  size: 4918
+  date: '1992-02-11T10:38:26'
+  crc: '0x3808d420'
+- name: RACE.PIC
+  size: 3967
+  date: '1992-02-11T10:38:14'
+  crc: '0x9693bb3f'
+- name: RACE.REZ
+  size: 250
+  date: '1994-01-12T22:56:46'
+  crc: '0x8faa4974'
+- name: RALLY.DOC
+  size: 1685
+  date: '1994-02-22T11:33:26'
+  crc: '0x2c865bf5'
+- name: RALLY_R.EXE
+  size: 78179
+  date: '1994-01-12T22:58:28'
+  crc: '0x9e0e25fa'

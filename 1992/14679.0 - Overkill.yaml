@@ -1,0 +1,30 @@
+filename: Overkill (Installer) [SWR] (1992)(Epic MegaGames, Inc.) [Action].zip
+tdc_id: '14679.0'
+title:
+  screen: Overkill
+publisher: Epic MegaGames, Inc.
+year: '1992'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:49:50'
+  last_modified: '2019-03-01T18:49:50'
+type: zip
+tags:
+- SharewareRegistered
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 31464
+  date: '1992-08-21T20:34:20'
+  crc: '0x08c1de75'
+- name: INSTALL.FIL
+  size: 829
+  date: '1992-12-11T14:28:14'
+  crc: '0xa75b09ec'
+- name: OVERKILL.PAK
+  size: 500276
+  date: '1992-12-21T00:23:56'
+  crc: '0x2567f261'

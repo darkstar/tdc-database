@@ -1,0 +1,68 @@
+filename: Subway Slueth v1.4 [SW] (1991)(Herringbone Software) [Adventure, Interactive Fiction].zip
+tdc_id: '16235.0'
+title:
+  screen: Subway Slueth
+publisher: Herringbone Software
+year: '1991'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:39:36'
+  last_modified: '2019-03-01T18:39:36'
+version: '1.4'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: SUBSL.EXE
+references:
+  dosid: DOS06347
+  exodos: Subway Slueth (1991).zip
+files:
+- name: SUBSL.BLD
+  size: 1333
+  date: '1991-07-01T16:23:48'
+  crc: '0xcfd3944f'
+- name: SUBSL.DOC
+  size: 9268
+  date: '1991-11-06T14:08:34'
+  crc: '0x1854586f'
+- name: SUBSL.EXE
+  size: 82482
+  date: '1991-11-06T13:57:16'
+  crc: '0x6dcfa58c'
+- name: SUBSL.MAP
+  size: 1888
+  date: '1991-06-30T17:02:04'
+  crc: '0x15890247'
+- name: SUBSL.MUS
+  size: 1888
+  date: '1991-08-11T10:14:26'
+  crc: '0x2664fc28'
+- name: SUBSL.RID
+  size: 2204
+  date: '1991-08-10T08:05:20'
+  crc: '0xa7875aa9'
+- name: SUBSL.SET
+  size: 3
+  date: '1991-10-26T13:00:16'
+  crc: '0x8c171588'
+- name: SUBSL.STN
+  size: 1806
+  date: '1991-11-04T15:51:20'
+  crc: '0x5a5a070b'
+- name: SUBSL.STR
+  size: 1886
+  date: '1991-06-15T15:03:38'
+  crc: '0xa1363f47'
+- name: SUBSL.TRN
+  size: 1501
+  date: '1991-06-22T18:17:46'
+  crc: '0xafc57c4e'
+- name: SUBSL.TTL
+  size: 1888
+  date: '1991-11-04T15:49:36'
+  crc: '0x08263d65'

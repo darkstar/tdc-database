@@ -1,0 +1,29 @@
+filename: Pacman v1.6 (1997)(John Hess) [Action].zip
+tdc_id: '10568.0'
+title:
+  screen: Pacman
+publisher: John Hess
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:36:06'
+  last_modified: '2019-03-02T10:36:06'
+version: '1.6'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 28
+  date: '2018-07-05T02:00:42'
+  crc: '0x4d9bd803'
+- name: PACMAN16.BAS
+  size: 56506
+  date: '2018-03-10T02:25:14'
+  crc: '0x730caba6'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

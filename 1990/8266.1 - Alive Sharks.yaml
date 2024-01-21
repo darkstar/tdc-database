@@ -1,0 +1,46 @@
+filename: Alive Sharks v1.2 [SW] (1990)(Alive Software) [Action].zip
+tdc_id: '8266.1'
+title:
+  screen: Alive Sharks
+publisher: Alive Software
+year: '1990'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:31:46'
+  last_modified: '2019-03-01T18:31:46'
+version: '1.2'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: SHARKS.EXE
+references:
+  dosid: DOS00571
+  exodos: Alive Sharks (1990).zip
+files:
+- name: ALIVE.DOC
+  size: 12481
+  date: '1992-01-01T12:00:04'
+  crc: '0x89739fe5'
+- name: README.DOC
+  size: 1925
+  date: '1991-02-01T12:00:00'
+  crc: '0x1520d59c'
+- name: REGISTER.DOC
+  size: 3965
+  date: '1992-01-01T12:00:04'
+  crc: '0x02d76208'
+- name: SHARKS.DOC
+  size: 17731
+  date: '1991-02-01T12:00:00'
+  crc: '0xa3ff5df7'
+- name: SHARKS.EXE
+  size: 123000
+  date: '1991-02-01T12:00:00'
+  crc: '0xae53b390'
+- name: SHARKS0.GDL
+  size: 148780
+  date: '1991-02-01T12:00:00'
+  crc: '0x907d21d4'

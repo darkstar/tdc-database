@@ -1,0 +1,43 @@
+filename: Greyhound [SW][a1] (1990)(Dogware) [Simulation].zip
+tdc_id: '5348.1'
+title:
+  screen: Greyhound
+publisher: Dogware
+year: '1990'
+genre: Simulation
+language: English
+date:
+  added: '2019-01-27T04:20:26'
+  last_modified: '2019-01-27T04:20:26'
+type: zip
+tags:
+- Shareware
+- Alternate: 1
+media: Download
+commands:
+  play: RUN.EXE
+files:
+- name: GH.DAT
+  size: 16320
+  date: '1990-08-30T23:52:30'
+  crc: '0x4ee5f8b8'
+- name: GH.HLP
+  size: 21383
+  date: '1990-09-02T22:12:32'
+  crc: '0x9e0d4cd9'
+- name: GH.Z
+  size: 40492
+  date: '1990-09-10T01:14:36'
+  crc: '0x08d1ab1e'
+- name: RUN.EXE
+  size: 6696
+  date: '1990-09-01T11:26:38'
+  crc: '0xad81d317'
+- name: SHARE
+  size: 1559
+  date: '1990-10-01T19:17:32'
+  crc: '0xf863cd63'
+- name: WIZARD
+  size: 13897
+  date: '1990-09-01T22:27:56'
+  crc: '0x23987e52'

@@ -1,0 +1,41 @@
+filename: Now Chess v0.1 [SW] (1991)(Imagination Enterprises) [Strategy, Chess].zip
+tdc_id: '741.0'
+title:
+  screen: Now Chess
+publisher: Imagination Enterprises
+year: '1991'
+genre:
+- Strategy
+- Chess
+language: English
+date:
+  added: '2019-03-01T18:37:10'
+  last_modified: '2019-03-01T18:37:10'
+version: '0.1'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: NOW.EXE
+files:
+- name: CGA.BGI
+  size: 6332
+  date: '1990-10-23T00:00:00'
+  crc: '0x5f4c2b51'
+- name: EGAVGA.BGI
+  size: 5554
+  date: '1990-10-23T00:00:00'
+  crc: '0x116c5498'
+- name: NOW.BOK
+  size: 20185
+  date: '1991-12-11T21:09:30'
+  crc: '0xb29a9e23'
+- name: NOW.EXE
+  size: 104048
+  date: '1991-12-13T19:51:00'
+  crc: '0xc6c5dc8a'
+- name: NOW.HLP
+  size: 20452
+  date: '1982-01-16T06:39:32'
+  crc: '0xccaa3c4b'

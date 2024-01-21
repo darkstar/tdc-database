@@ -1,0 +1,32 @@
+filename: Yahtzee (Installer) (1999)(Robert Genito) [Strategy].zip
+tdc_id: '15808.1'
+title:
+  screen: Yahtzee
+publisher: Robert Genito
+year: '1999'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:47:20'
+  last_modified: '2019-03-02T10:47:20'
+type: zip
+installer: true
+commands:
+  play: Setup.exe
+files:
+- name: PKUNZIP.EXE
+  size: 34583
+  date: '1999-03-01T02:50:00'
+  crc: '0x4e030d62'
+- name: Readme.txt
+  size: 1036
+  date: '1999-12-27T01:00:06'
+  crc: '0x9fd2b305'
+- name: Setup.exe
+  size: 35168
+  date: '1999-12-25T02:12:20'
+  crc: '0xaedac391'
+- name: data.z
+  size: 102412
+  date: '2000-05-21T02:01:14'
+  crc: '0x3fee41f8'

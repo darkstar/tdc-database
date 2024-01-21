@@ -1,0 +1,50 @@
+filename: Return to Ringworld v1.523 (Installer) (1994)(Tsunami Media, Inc.) [Adventure].zip
+tdc_id: '14863.0'
+title:
+  box: Return to Ringworld
+publisher: Tsunami Media, Inc.
+year: '1994'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T22:03:54'
+  last_modified: '2019-03-01T22:03:54'
+version: '1.523'
+type: zip
+installer: true
+references:
+  dosid: DOS04293
+  exodos: Return to Ringworld (1994).zip
+files:
+- name: INSTALL.EXE
+  size: 265888
+  date: '1994-04-07T00:45:48'
+  crc: '0x2d9cdadd'
+- name: INSTALL.RLB
+  size: 64656
+  date: '1994-04-13T04:33:00'
+  crc: '0x5684360a'
+- name: R2RW.EXE
+  size: 1206576
+  date: '1994-05-23T15:05:20'
+  crc: '0xbb7b2798'
+- name: R2RW.RLB
+  size: 47586928
+  date: '1994-04-13T04:13:04'
+  crc: '0x07dad1ce'
+- name: README
+  size: 9473
+  date: '1994-04-13T04:21:44'
+  crc: '0xa7d63af1'
+- name: README.BAT
+  size: 24
+  date: '1994-04-10T23:33:36'
+  crc: '0xd0aa3281'
+- name: SND4K.RES
+  size: 234516992
+  date: '1994-04-13T03:31:30'
+  crc: '0xaf86619c'
+- name: TSAGE.CFG
+  size: 556
+  date: '1994-05-23T10:16:16'
+  crc: '0xbf90913b'

@@ -1,0 +1,52 @@
+filename: Forgotten Worlds (CGA) (1989)(Capcom Co., Ltd.) [Action].zip
+tdc_id: '13738.0'
+title:
+  box: Forgotten Worlds
+  qualifier: CGA
+publisher: Capcom Co., Ltd.
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2020-02-16T20:56:50'
+  last_modified: '2020-02-16T20:56:50'
+type: zip
+commands:
+  play: FW.EXE
+files:
+- name: BITS.BIN
+  size: 70930
+  date: '1989-08-18T10:09:56'
+  crc: '0x0ecf3ce0'
+- name: BLOCKS.BIN
+  size: 201175
+  date: '1989-08-16T14:16:02'
+  crc: '0x41327b7c'
+- name: FW.EXE
+  size: 59776
+  date: '1980-01-01T01:27:56'
+  crc: '0x9f4b28d7'
+- name: FW.EX_
+  size: 59776
+  date: '1980-01-01T01:27:56'
+  crc: '0x8a66c352'
+- name: INTSCRNS.BIN
+  size: 20794
+  date: '1989-08-19T11:55:44'
+  crc: '0xe8e70f98'
+- name: LISTS.BIN
+  size: 2183
+  date: '1989-08-17T14:41:50'
+  crc: '0xd7e446e7'
+- name: MAPS.BIN
+  size: 87323
+  date: '1989-08-16T16:03:00'
+  crc: '0x9e3b156a'
+- name: MASKS.BIN
+  size: 71390
+  date: '1989-08-16T12:55:30'
+  crc: '0xceb1c2c8'
+- name: SPRITES.BIN
+  size: 94485
+  date: '1989-08-16T12:45:58'
+  crc: '0xb0024ecd'

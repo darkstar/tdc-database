@@ -1,0 +1,32 @@
+filename: Last Days of Doom (1990)(Topologika) [Adventure, Interactive Fiction].zip
+tdc_id: '6302.0'
+title:
+  box: Last Days of Doom
+publisher: Topologika
+year: '1990'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:33:04'
+  last_modified: '2019-03-01T18:33:04'
+type: zip
+commands:
+  play: LASTDAYS.COM
+references:
+  dosid: DOS05653
+  exodos: Last Days of Doom (1988).zip
+files:
+- name: LASTDAYS.COM
+  size: 10165
+  date: '1990-06-09T13:32:02'
+  crc: '0x22c8bfbc'
+- name: LASTDAYS.DAT
+  size: 117248
+  date: '1990-06-05T20:06:54'
+  crc: '0x78dc9d3a'
+- name: LASTDAYS.DYN
+  size: 2216
+  date: '1990-06-05T20:05:34'
+  crc: '0xb655f5f3'

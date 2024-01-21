@@ -1,0 +1,27 @@
+filename: Staten Island Ferry, The (1983)(Phillip R. Johnson) [Simulation].zip
+tdc_id: '15594.0'
+title:
+  screen: The Staten Island Ferry
+publisher: Phillip R. Johnson
+year: '1983'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:23:20'
+  last_modified: '2019-03-01T18:23:20'
+type: zip
+commands:
+  play: FERRY.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: FERRY.BAS
+  size: 5888
+  date: '1983-03-05T12:00:00'
+  crc: '0xa72ce4c0'
+- name: FERRY.BAT
+  size: 15
+  date: '1980-01-01T00:00:00'
+  crc: '0xedd6adf9'

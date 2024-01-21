@@ -1,0 +1,44 @@
+filename: Puzzle v1.3 [SW] (1993)(Lech Mazur) [Strategy, Puzzle].zip
+tdc_id: '2783.0'
+title:
+  screen: Puzzle
+publisher: Lech Mazur
+year: '1993'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-03-01T19:16:50'
+  last_modified: '2019-03-01T19:16:50'
+version: '1.3'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: PUZZLE.EXE
+files:
+- name: EGAVGA.BGI
+  size: 5527
+  date: '1992-10-05T06:00:00'
+  crc: '0xa33014d5'
+- name: PUZZLE.EXE
+  size: 38640
+  date: '1993-05-29T22:16:10'
+  crc: '0x371a19d8'
+- name: README.DOC
+  size: 2738
+  date: '1992-12-01T06:00:16'
+  crc: '0x73d5e112'
+- name: RECORD.BST
+  size: 0
+  date: '1993-01-18T16:05:10'
+- name: SANS.CHR
+  size: 13596
+  date: '1992-10-05T06:00:00'
+  crc: '0x18438f9b'
+- name: TRIP.CHR
+  size: 16677
+  date: '1992-10-05T06:00:00'
+  crc: '0xba867503'

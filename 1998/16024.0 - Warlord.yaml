@@ -1,0 +1,31 @@
+filename: Warlord vX.1 (1998)(William H. Rogers) [Strategy, Chess].zip
+tdc_id: '16024.0'
+title:
+  screen: Warlord
+publisher: William H. Rogers
+year: '1998'
+genre:
+- Strategy
+- Chess
+language: English
+date:
+  added: '2019-03-02T10:45:04'
+  last_modified: '2019-03-02T10:45:04'
+version: X.1
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 26
+  date: '2018-11-24T14:28:14'
+  crc: '0x59a4f357'
+- name: LORDX1.BAS
+  size: 58097
+  date: '2018-11-23T10:53:32'
+  crc: '0x3e1ce0e8'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

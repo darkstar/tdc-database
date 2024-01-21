@@ -1,0 +1,30 @@
+filename: 1942- The Pacific Air War 1.01 update (1994)(MicroProse Software, Inc.) [Simulation, Addon].zip
+tdc_id: '6764.4'
+title:
+  screen: '1942: The Pacific Air War 1.01 update'
+publisher: MicroProse Software, Inc.
+year: '1994'
+genre:
+- Simulation
+- Addon
+language: English
+date:
+  added: '2020-11-12T10:42:54'
+  last_modified: '2020-11-12T10:42:54'
+type: zip
+patch: true
+commands:
+  play: 1942.EXE
+files:
+- name: 1942.EXE
+  size: 609536
+  date: '1994-06-01T17:29:14'
+  crc: '0x6acb6295'
+- name: DATA.CDF
+  size: 216952
+  date: '1994-06-01T16:10:12'
+  crc: '0x07e6cef3'
+- name: README.NEW
+  size: 3866
+  date: '1994-06-02T14:53:50'
+  crc: '0xcf5df462'

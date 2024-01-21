@@ -1,0 +1,49 @@
+filename: Brain Quest - 5th Grade v1.30 (1994)(SWFTE International Ltd.) [Educational].zip
+tdc_id: '8839.0'
+parent_id: '8839.1'
+title:
+  box: Brain Quest - 5th Grade
+publisher: SWFTE International Ltd.
+year: '1994'
+genre: Educational
+language: English
+date:
+  added: '2022-05-17T04:58:48'
+  last_modified: '2022-05-17T04:58:48'
+version: '1.30'
+type: zip
+commands:
+  play: BQD5.EXE
+files:
+- name: 5QUEST.FNT
+  size: 1262
+  date: '1994-08-18T06:23:24'
+  crc: '0xe3860087'
+- name: BQD5.EXE
+  size: 159408
+  date: '1994-11-21T16:11:46'
+  crc: '0xb2e17295'
+- name: BQDGR5.WRF
+  size: 746337
+  date: '1994-11-21T16:11:54'
+  crc: '0xf734c4a3'
+- name: CHAULK.FNT
+  size: 11780
+  date: '1994-09-15T07:30:08'
+  crc: '0x82bba61d'
+- name: FNTLRGR.FNT
+  size: 4660
+  date: '1994-11-14T12:16:52'
+  crc: '0xe6b9ec16'
+- name: FNTSMLR.FNT
+  size: 3634
+  date: '1994-08-11T08:14:20'
+  crc: '0x110e0108'
+- name: METWND03.DRV
+  size: 26315
+  date: '1992-12-11T08:44:12'
+  crc: '0xac73bad6'
+- name: METWND05.DRV
+  size: 62907
+  date: '1992-12-07T17:11:38'
+  crc: '0x0b81a318'

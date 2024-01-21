@@ -1,0 +1,83 @@
+filename: Agent-0055 (1998)(Adam McCoy) [Adventure].zip
+tdc_id: '53.0'
+title:
+  screen: Agent-0055
+publisher: Adam McCoy
+year: '1998'
+genre: Adventure
+language: English
+date:
+  added: '2020-10-24T09:08:14'
+  last_modified: '2020-10-24T09:08:14'
+type: zip
+commands:
+  play: AGI.COM
+files:
+- name: AGI
+  size: 39424
+  date: '1986-12-04T09:33:04'
+  crc: '0x40ae7b2d'
+- name: AGI.COM
+  size: 3115
+  date: '1986-11-16T13:32:06'
+  crc: '0x9d4eb9a4'
+- name: AGIDATA.OVL
+  size: 8192
+  date: '1986-12-01T08:49:20'
+  crc: '0x477bd79b'
+- name: CGA_GRAF.OVL
+  size: 1024
+  date: '1986-12-01T08:48:44'
+  crc: '0x838c18ac'
+- name: EGA_GRAF.OVL
+  size: 1024
+  date: '1986-12-01T08:48:46'
+  crc: '0x67e8b0ad'
+- name: HGC_GRAF.OVL
+  size: 1536
+  date: '1986-12-01T08:48:48'
+  crc: '0x7c999ac8'
+- name: HGC_OBJS.OVL
+  size: 1024
+  date: '1986-12-01T08:48:52'
+  crc: '0x4232dbd7'
+- name: IBM_OBJS.OVL
+  size: 512
+  date: '1986-12-01T08:48:50'
+  crc: '0xa0a04da4'
+- name: JR_GRAF.OVL
+  size: 512
+  date: '1986-12-01T08:48:46'
+  crc: '0xdc361ea6'
+- name: LOGDIR
+  size: 603
+  date: '1998-10-30T19:24:24'
+  crc: '0x7f72d678'
+- name: OBJECT
+  size: 36
+  date: '1998-10-01T16:32:34'
+  crc: '0x2e956fb5'
+- name: PICDIR
+  size: 603
+  date: '1998-10-30T19:24:24'
+  crc: '0x6f2f2331'
+- name: SNDDIR
+  size: 15
+  date: '1998-10-30T19:24:24'
+  crc: '0x464ef7c6'
+- name: VG_GRAF.OVL
+  size: 512
+  date: '1986-12-01T08:48:50'
+  crc: '0xca491b69'
+- name: VIEWDIR
+  size: 669
+  date: '1998-10-30T19:24:24'
+  crc: '0x5c8b34bd'
+- name: VOL.0
+  size: 66945
+  date: '1998-10-30T19:24:24'
+  crc: '0x3210d980'
+- name: WORDS.TOK
+  size: 984
+  date: '1998-10-02T09:01:52'
+  crc: '0x545723e5'

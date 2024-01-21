@@ -1,0 +1,40 @@
+filename: America's Cup Yacht Racing Simulator (1986)(Geoff. Brayford & Associates Pty. Ltd.) [Simulation].zip
+tdc_id: '148.0'
+parent_id: '148.4'
+title:
+  box: America's Cup Yacht Racing Simulator
+publisher: Geoff. Brayford & Associates Pty. Ltd.
+year: '1986'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:24:40'
+  last_modified: '2019-03-01T18:24:40'
+type: zip
+commands:
+  play: Amcup.exe
+references:
+  mobygames: '-'
+  dosid: DOS15202
+  exodos: America's Cup Yacht Racing Simulator (1986).zip
+files:
+- name: Amcup.exe
+  size: 66064
+  date: '1986-09-02T19:07:06'
+  crc: '0x49de495d'
+- name: Ascs11.grp
+  size: 2830
+  date: '1980-01-01T00:09:02'
+  crc: '0xbbb1f9f9'
+- name: Brun20.exe
+  size: 68396
+  date: '1986-06-13T10:55:26'
+  crc: '0x3b910801'
+- name: Page1.cup
+  size: 16392
+  date: '1980-01-01T00:52:18'
+  crc: '0x437d36c8'
+- name: Page3.cup
+  size: 16392
+  date: '1980-01-01T00:52:46'
+  crc: '0x23980f45'

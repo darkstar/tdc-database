@@ -1,0 +1,56 @@
+filename: Carl Lewis' Go For The Gold (1990)(GameTek-IJE, Inc.) [Action, Sports].zip
+tdc_id: '1893.0'
+title:
+  box: Carl Lewis' Go For The Gold
+publisher: GameTek-IJE, Inc.
+year: '1990'
+genre:
+- Action
+- Sports
+language: English
+date:
+  added: '2019-03-01T18:32:00'
+  last_modified: '2019-03-01T18:32:00'
+type: zip
+commands:
+  play: GOLD.EXE
+references:
+  dosid: DOS00442
+  exodos: Carl Lewis' Go for the Gold (1990).zip
+files:
+- name: DATNAME.GNF
+  size: 10
+  date: '1990-08-29T12:02:42'
+  crc: '0x99fb8802'
+- name: EVENT.GPK
+  size: 25246
+  date: '1990-05-28T11:59:14'
+  crc: '0xc56aa442'
+- name: GOLD.EXE
+  size: 57403
+  date: '1990-10-23T11:06:50'
+  crc: '0xbf479d97'
+- name: SAMPLE.GDF
+  size: 952
+  date: '1990-06-10T11:42:58'
+  crc: '0x9b6cf281'
+- name: SPRITE.GPK
+  size: 25910
+  date: '1990-01-08T14:32:04'
+  crc: '0x70875c82'
+- name: SPRITE2.GPK
+  size: 47690
+  date: '1990-01-30T05:41:14'
+  crc: '0xe26ae032'
+- name: SPRITE3.GPK
+  size: 6499
+  date: '1990-05-29T11:34:20'
+  crc: '0x9fdd069e'
+- name: SPRITE4.GPK
+  size: 21422
+  date: '1990-03-10T09:19:24'
+  crc: '0x268029a0'
+- name: TITLE.GPK
+  size: 38293
+  date: '1990-08-23T06:55:46'
+  crc: '0xa6abca9e'

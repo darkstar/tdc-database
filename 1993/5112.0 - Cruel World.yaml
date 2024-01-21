@@ -1,0 +1,24 @@
+filename: Cruel World (Installer) (1993)(Makh-Shevet Ltd.) [Action, Adventure].zip
+tdc_id: '5112.0'
+title:
+  box: Cruel World
+publisher: Makh-Shevet Ltd.
+year: '1993'
+genre:
+- Action
+- Adventure
+language: English
+date:
+  added: '2019-03-01T19:02:08'
+  last_modified: '2019-03-01T19:02:08'
+type: zip
+installer: true
+commands:
+  play: CWORLD.EXE
+references:
+  mobygames: http://www.mobygames.com/game/dos/cruel-world
+files:
+- name: CWORLD.EXE
+  size: 887449
+  date: '1999-03-14T01:03:16'
+  crc: '0x0272f021'

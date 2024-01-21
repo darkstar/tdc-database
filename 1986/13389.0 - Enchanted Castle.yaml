@@ -1,0 +1,26 @@
+filename: Enchanted Castle r1 (1986)(Michael R. Wilk) [Adventure, Interactive Fiction].zip
+tdc_id: '13389.0'
+title:
+  screen: Enchanted Castle
+publisher: Michael R. Wilk
+year: '1986'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:24:46'
+  last_modified: '2019-03-01T18:24:46'
+release: '1'
+type: zip
+commands:
+  play: EC.COM
+files:
+- name: EC.COM
+  size: 54842
+  date: '1986-12-15T09:12:44'
+  crc: '0xd996113e'
+- name: EC.DAT
+  size: 152576
+  date: '1986-12-12T09:16:34'
+  crc: '0x57e631a9'

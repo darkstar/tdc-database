@@ -1,0 +1,44 @@
+filename: Electric Crayon 3.0- Inspector Gadget- Safety Patrol (1991)(Merit Software) [Educational, Editor].zip
+tdc_id: '13349.0'
+title:
+  box: 'Electric Crayon 3.0: Inspector Gadget: Safety Patrol'
+publisher: Merit Software
+year: '1991'
+genre:
+- Educational
+- Editor
+language: English
+date:
+  added: '2019-03-01T18:35:46'
+  last_modified: '2019-03-01T18:35:46'
+type: zip
+commands:
+  play: EC.EXE
+references:
+  dosid: DOS01984
+  exodos: Electric Crayon 3.0 - Inspector Gadget - Safety Patrol (1991).zip
+files:
+- name: EC.EXE
+  size: 141078
+  date: '1991-08-13T12:10:58'
+  crc: '0x7d2847e2'
+- name: ECDATA.DJA
+  size: 48730
+  date: '1991-08-07T10:25:40'
+  crc: '0x35778444'
+- name: GADGET.COL
+  size: 7680
+  date: '1992-09-02T00:37:24'
+  crc: '0x7e1e9a68'
+- name: GADGET.ECA
+  size: 159051
+  date: '1991-08-13T15:07:16'
+  crc: '0x1300c25b'
+- name: PARMS.DAT
+  size: 471
+  date: '1991-07-02T07:55:24'
+  crc: '0x80e5c6a5'
+- name: PINFO.DAT
+  size: 1732
+  date: '1991-08-13T15:58:50'
+  crc: '0xbda6c06c'

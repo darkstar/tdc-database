@@ -1,0 +1,60 @@
+filename: Bubble Ghost [h1] (1988)(Accolade, Inc.) [Strategy].zip
+tdc_id: '8875.2'
+title:
+  box: Bubble Ghost
+publisher: Accolade, Inc.
+year: '1988'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:26:00'
+  last_modified: '2019-03-01T18:26:00'
+type: zip
+tags:
+- Hack: 1
+commands:
+  play: BUBBLE.EXE
+references:
+  dosid: DOS00522
+  exodos: Bubble Ghost (1988).zip
+files:
+- name: BUBBLE.EXE
+  size: 37396
+  date: '1980-01-01T01:53:08'
+  crc: '0xd23f9e92'
+- name: COMP.INF
+  size: 600
+  date: '1988-03-21T22:26:48'
+  crc: '0xb98edcf8'
+- name: F1.CMP
+  size: 15514
+  date: '1988-03-21T22:26:42'
+  crc: '0xb5ab4f6e'
+- name: F2.CMP
+  size: 13593
+  date: '1988-03-21T22:26:42'
+  crc: '0x46821205'
+- name: F3.CMP
+  size: 17848
+  date: '1988-03-21T22:26:44'
+  crc: '0x6e6d63e8'
+- name: F4.CMP
+  size: 20629
+  date: '1988-03-21T22:26:46'
+  crc: '0xe66fd401'
+- name: F5.CMP
+  size: 20081
+  date: '1988-03-21T22:26:48'
+  crc: '0x78a9afbd'
+- name: GHOST.PI1
+  size: 32066
+  date: '1986-04-24T00:03:42'
+  crc: '0x42c2cfce'
+- name: HS_TAB
+  size: 542
+  date: '1988-03-21T12:17:42'
+  crc: '0x9ed34f68'
+- name: SPRITES.SPR
+  size: 7680
+  date: '1988-01-01T11:29:16'
+  crc: '0xc64c088c'

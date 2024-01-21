@@ -1,0 +1,27 @@
+filename: Slots (1987)(Tink Kinney) [Simulation].zip
+tdc_id: '15160.0'
+title:
+  screen: Slots
+publisher: Tink Kinney
+year: '1987'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:25:38'
+  last_modified: '2019-03-01T18:25:38'
+type: zip
+commands:
+  play: GO.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: GO.BAT
+  size: 20
+  date: '2018-12-08T18:22:54'
+  crc: '0x0dd8d39f'
+- name: SLOTS.BAS
+  size: 5527
+  date: '1980-01-01T01:04:36'
+  crc: '0xf0f8b8f3'

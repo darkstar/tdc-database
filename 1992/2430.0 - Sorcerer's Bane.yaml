@@ -1,0 +1,52 @@
+filename: Sorcerer's Bane v1.1 [SW] (1992)(Wood Software Development) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '2430.0'
+title:
+  screen: Sorcerer's Bane
+publisher: Wood Software Development
+year: '1992'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:51:06'
+  last_modified: '2019-03-01T18:51:06'
+version: '1.1'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: SB.EXE
+references:
+  dosid: DOS06341
+  exodos: Sorcerer's Bane (1992).zip
+files:
+- name: INVOICE.DOC
+  size: 2048
+  date: '1992-07-26T16:31:54'
+  crc: '0x67d327b6'
+- name: ITEMFILE.DAT
+  size: 5192
+  date: '1991-12-08T00:24:40'
+  crc: '0xe3e542e5'
+- name: MONSTER.DAT
+  size: 16856
+  date: '1992-05-02T02:37:16'
+  crc: '0x4fa526ee'
+- name: SB.DAT
+  size: 76263
+  date: '1992-07-31T23:56:54'
+  crc: '0x3ca53408'
+- name: SB.DOC
+  size: 45381
+  date: '1992-07-31T23:58:06'
+  crc: '0x4d1e788b'
+- name: SB.EXE
+  size: 290290
+  date: '1992-07-30T20:08:44'
+  crc: '0x5c3cf8a9'
+- name: SPELLS.DAT
+  size: 1320
+  date: '1991-11-19T00:05:44'
+  crc: '0x6654156a'

@@ -1,0 +1,29 @@
+filename: Fun School 3 - Under 5s (Installer) (1997)(Database Educational Software) [Educational].zip
+tdc_id: '13856.2'
+parent_id: '13856.3'
+title:
+  box: Fun School 3 - Under 5s
+publisher: Database Educational Software
+year: '1997'
+genre: Educational
+language: English
+date:
+  added: '2020-08-17T15:54:04'
+  last_modified: '2020-08-17T15:54:04'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FS3U5.SHR
+  size: 247665
+  date: '1997-02-07T10:19:54'
+  crc: '0x51c24067'
+- name: INSTALL.CFG
+  size: 1049
+  date: '1995-06-13T06:18:12'
+  crc: '0xa5d23ffc'
+- name: INSTALL.EXE
+  size: 56934
+  date: '1994-03-17T21:05:00'
+  crc: '0x14417964'

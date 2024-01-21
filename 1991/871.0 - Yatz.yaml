@@ -1,0 +1,95 @@
+filename: Yatz v1.1 [SW] (1991)(Michael Wollert) [Strategy].zip
+tdc_id: '871.0'
+title:
+  screen: Yatz
+publisher: Michael Wollert
+year: '1991'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:40:08'
+  last_modified: '2019-03-01T18:40:08'
+version: '1.1'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: YATZ.EXE
+files:
+- name: BUTIN.IMG
+  size: 239
+  date: '1991-11-05T03:46:56'
+  crc: '0xaeb06184'
+- name: BUTOUT.IMG
+  size: 239
+  date: '1991-11-05T03:46:56'
+  crc: '0x722a9bb6'
+- name: CUR.IMG
+  size: 143
+  date: '1991-11-12T01:24:22'
+  crc: '0x4fcbaab4'
+- name: D1.IMG
+  size: 851
+  date: '1991-11-05T04:34:20'
+  crc: '0x500f6470'
+- name: D2.IMG
+  size: 851
+  date: '1991-11-05T04:50:28'
+  crc: '0x93374089'
+- name: D3.IMG
+  size: 851
+  date: '1991-11-05T04:52:02'
+  crc: '0xad874d67'
+- name: D4.IMG
+  size: 851
+  date: '1991-11-05T04:55:20'
+  crc: '0x60918934'
+- name: D5.IMG
+  size: 851
+  date: '1991-11-05T04:56:58'
+  crc: '0x2d6a09b2'
+- name: D6.IMG
+  size: 851
+  date: '1991-11-05T05:03:00'
+  crc: '0xe40ea734'
+- name: INSTRUC.DOC
+  size: 7410
+  date: '1991-12-17T23:48:20'
+  crc: '0x665ba725'
+- name: NUMBER.DAT
+  size: 372
+  date: '1991-11-12T06:28:18'
+  crc: '0xa91b112a'
+- name: PAL.DAT
+  size: 256
+  date: '1991-12-17T01:05:44'
+  crc: '0x9665ea87'
+- name: README.BAT
+  size: 25
+  date: '1991-12-17T23:45:00'
+  crc: '0xb80b1a03'
+- name: ROLL.IMG
+  size: 1411
+  date: '1991-11-05T01:35:52'
+  crc: '0xd68306b9'
+- name: SCFILL.DAT
+  size: 602
+  date: '1991-12-05T03:46:38'
+  crc: '0x30258fbb'
+- name: SCNAME.DAT
+  size: 329
+  date: '1991-12-17T02:00:56'
+  crc: '0x9e7b6b67'
+- name: SCORES.IMG
+  size: 1411
+  date: '1991-11-05T01:38:24'
+  crc: '0xbcaf1e23'
+- name: SELECTS.IMG
+  size: 1411
+  date: '1991-11-05T01:45:48'
+  crc: '0xd2202cf6'
+- name: YATZ.EXE
+  size: 88754
+  date: '1991-12-17T23:52:04'
+  crc: '0x564f0e23'

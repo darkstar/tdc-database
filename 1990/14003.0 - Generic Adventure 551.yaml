@@ -1,0 +1,33 @@
+filename: Generic Adventure 551 v6.6 (1990)(Magnus Olsson) [Adventure, Interactive Fiction].zip
+tdc_id: '14003.0'
+title:
+  screen: Generic Adventure 551
+publisher: Magnus Olsson
+year: '1990'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:32:42'
+  last_modified: '2019-03-01T18:32:42'
+version: '6.6'
+type: zip
+commands:
+  play: ADVENT.EXE
+references:
+  dosid: DOS06863
+  exodos: Generic Adventure 551 (1990).zip
+files:
+- name: '!README'
+  size: 963
+  date: '1990-11-01T12:05:58'
+  crc: '0x2025ee69'
+- name: ADVENT.EXE
+  size: 261425
+  date: '1990-09-05T15:17:12'
+  crc: '0xfa0c1288'
+- name: ADVTXT
+  size: 136676
+  date: '1990-09-05T14:17:16'
+  crc: '0xbf88c454'

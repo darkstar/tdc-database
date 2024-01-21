@@ -1,0 +1,45 @@
+filename: P.O.D. Wars v1.2 [SW] (1989)(Merwin Updyke) [Action, Adventure].zip
+tdc_id: '10526.1'
+title:
+  screen: P.O.D. Wars
+publisher: Merwin Updyke
+year: '1989'
+genre:
+- Action
+- Adventure
+language: English
+date:
+  added: '2019-01-27T04:25:12'
+  last_modified: '2019-01-27T04:25:12'
+version: '1.2'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: PODWARS.EXE
+files:
+- name: PODWARS.DOC
+  size: 12380
+  date: '1989-11-26T12:00:00'
+  crc: '0xafdf3700'
+- name: PODWARS.EXE
+  size: 78256
+  date: '1989-11-26T12:00:00'
+  crc: '0xe0b718a8'
+- name: PW_READ.ME
+  size: 892
+  date: '1989-11-26T12:00:00'
+  crc: '0x7c78ea89'
+- name: TUNL-000.PW1
+  size: 13275
+  date: '1989-11-26T12:00:00'
+  crc: '0x9149c520'
+- name: URSK-000.PW1
+  size: 13275
+  date: '1989-11-26T12:00:00'
+  crc: '0xcd112d4a'
+- name: URSK-000.PW2
+  size: 13275
+  date: '1989-11-26T12:00:00'
+  crc: '0x9f4cb159'

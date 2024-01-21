@@ -1,0 +1,33 @@
+filename: Dogfight v1.011 (1997)(Andreas Wennström) [Action].zip
+tdc_id: '3908.0'
+title:
+  screen: Dogfight
+publisher: Andreas Wennström
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:27:14'
+  last_modified: '2019-03-02T10:27:14'
+version: '1.011'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: DOGFIGHT.BAS
+  size: 7186
+  date: '1997-06-15T22:17:04'
+  crc: '0x39cf1d1a'
+- name: GO.BAT
+  size: 28
+  date: '2018-11-29T21:41:20'
+  crc: '0x12ef3d63'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: README.TXT
+  size: 921
+  date: '1997-06-15T22:11:28'
+  crc: '0xb5904f2e'

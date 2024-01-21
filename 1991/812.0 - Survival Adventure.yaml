@@ -1,0 +1,36 @@
+filename: Survival Adventure v2.0 [SW] (1991)(Patrick J Perras) [Adventure, Interactive Fiction].zip
+tdc_id: '812.0'
+title:
+  screen: Survival Adventure
+publisher: Patrick J Perras
+year: '1991'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:39:38'
+  last_modified: '2019-03-01T18:39:38'
+version: '2.0'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: SURVIVAL.EXE
+references:
+  dosid: DOS06348
+  exodos: Survival Adventure (1991).zip
+files:
+- name: REGISTER.FRM
+  size: 3246
+  date: '1991-08-05T07:47:18'
+  crc: '0xf51572b0'
+- name: SURVIVAL.DOC
+  size: 1712
+  date: '1991-08-05T07:42:04'
+  crc: '0xa8e4ec55'
+- name: SURVIVAL.EXE
+  size: 65780
+  date: '1991-08-05T07:50:16'
+  crc: '0xeba78bfa'

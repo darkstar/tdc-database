@@ -1,0 +1,26 @@
+filename: BlackJack v1.1.2 [a1] (1984)(J. T. Chisholm) [Strategy, Cards].zip
+tdc_id: '8491.1'
+title:
+  screen: BlackJack
+publisher: J. T. Chisholm
+year: '1984'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:24:00'
+  last_modified: '2023-01-30T08:43:47'
+version: 1.1.2
+type: zip
+tags:
+- Alternate: 1
+commands:
+  play: 21C.COM
+references:
+  mobygames: https://www.mobygames.com/game/blackjack
+files:
+- name: 21C.COM
+  size: 33722
+  date: '1985-08-20T00:31:48'
+  crc: '0xf313e0d3'

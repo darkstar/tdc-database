@@ -1,0 +1,28 @@
+filename: World Class Rugby- Five Nations Edition (Installer) (1992)(Audiogenic Software Ltd.) [Sports].zip
+tdc_id: '16087.1'
+title:
+  box: 'World Class Rugby: Five Nations Edition'
+publisher: Audiogenic Software Ltd.
+year: '1992'
+genre: Sports
+language: English
+date:
+  added: '2019-03-01T18:52:34'
+  last_modified: '2019-03-01T18:52:34'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FILES.PIZ
+  size: 375659
+  date: '1992-04-16T19:05:12'
+  crc: '0x3acf547b'
+- name: INSTALL.EXE
+  size: 45768
+  date: '1992-04-16T19:04:38'
+  crc: '0x6a30a134'
+- name: README.TXT
+  size: 1796
+  date: '1992-04-16T18:52:04'
+  crc: '0x226d8315'

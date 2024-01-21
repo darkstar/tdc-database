@@ -1,0 +1,59 @@
+filename: Rules of Engagement 2 (Installer) (1993)(Impressions Games) [Simulation, Strategy].zip
+tdc_id: '5736.1'
+title:
+  box: Rules of Engagement 2
+publisher: Impressions Games
+year: '1993'
+genre:
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2019-03-01T19:18:12'
+  last_modified: '2019-03-01T19:18:12'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK.ID
+  size: 38
+  date: '1993-05-20T12:45:44'
+  crc: '0xef65693b'
+- name: INSTALL.DAT
+  size: 26449
+  date: '2014-11-16T19:55:28'
+  crc: '0xff888798'
+- name: INSTALL.DA_
+  size: 26449
+  date: '1993-05-20T13:24:32'
+  crc: '0xf3f52bd5'
+- name: INSTALL.EXE
+  size: 90304
+  date: '1993-05-20T12:46:04'
+  crc: '0x929e6b84'
+- name: README.TXT
+  size: 5162
+  date: '1993-05-20T13:41:26'
+  crc: '0xf5358869'
+- name: ROE2 DISK 1
+  size: 0
+  date: '1993-05-18T18:58:12'
+- name: ROE2 DISK 2
+  size: 0
+  date: '1993-05-18T18:58:46'
+- name: ROE2 DISK 3
+  size: 0
+  date: '1993-05-18T18:59:30'
+- name: ROE2.001
+  size: 1329831
+  date: '1993-05-20T12:54:26'
+  crc: '0xf7cef1e8'
+- name: ROE2.002
+  size: 1456037
+  date: '1993-05-20T13:08:18'
+  crc: '0x39dc82ca'
+- name: ROE2.003
+  size: 1060874
+  date: '1993-05-20T13:17:18'
+  crc: '0x3a7ff740'

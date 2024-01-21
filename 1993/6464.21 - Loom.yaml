@@ -1,0 +1,34 @@
+filename: Loom v1.2 (Installer) (Es) (1993)(Lucasfilm Games LLC, Kixx-XL) [Adventure].zip
+tdc_id: '6464.21'
+parent_id: '6464.20'
+title:
+  box: Loom
+  qualifier: Installer
+publisher: Lucasfilm Games LLC, Kixx-XL
+year: '1993'
+genre: Adventure
+language: Spanish
+date:
+  added: '2023-11-24T07:37:40'
+  last_modified: '2023-11-24T07:37:40'
+version: '1.2'
+type: zip
+media: 1.44M
+installer: true
+commands:
+  play: 'INSTALL.BAT C:'
+references:
+  mobygames: https://www.mobygames.com/game/176/loom/
+files:
+- name: INSTALL.BAT
+  size: 3610
+  date: '1980-01-18T15:43:34'
+  crc: '0x76398068'
+- name: LHA213.EXE
+  size: 44381
+  date: '1993-09-26T12:22:00'
+  crc: '0xe45194cb'
+- name: LOOM1.EXE
+  size: 1181826
+  date: '1980-01-18T15:16:54'
+  crc: '0x6e2c51f1'

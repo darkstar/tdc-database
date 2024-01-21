@@ -1,0 +1,62 @@
+filename: Black Cauldron- Point and Click (2010)(Shane Cloud) [Adventure].zip
+tdc_id: '4978.0'
+title:
+  screen: 'Black Cauldron: Point and Click'
+publisher: Shane Cloud
+year: '2010'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-02T10:57:40'
+  last_modified: '2019-03-02T10:57:40'
+type: zip
+commands:
+  play: SCIV.EXE
+references:
+  dosid: DOS00427
+  exodos: Black Cauldron, The - Point and Click (2010).zip
+files:
+- name: ADL.DRV
+  size: 9778
+  date: '2005-07-06T23:32:26'
+  crc: '0x9f2cea3f'
+- name: EGA320.DRV
+  size: 1952
+  date: '2005-07-06T23:32:26'
+  crc: '0x3b2fc0de'
+- name: IBMKBD.DRV
+  size: 446
+  date: '2005-07-06T23:32:26'
+  crc: '0xb495c666'
+- name: JOYSTICK.DRV
+  size: 541
+  date: '2005-07-06T23:32:26'
+  crc: '0xfa815721'
+- name: SCIV.EXE
+  size: 44443
+  date: '2005-07-06T23:32:26'
+  crc: '0xfd6dee90'
+- name: STD.DRV
+  size: 2466
+  date: '2005-07-06T23:32:26'
+  crc: '0x05dbf64a'
+- name: black.txt
+  size: 2161
+  date: '2010-10-03T00:13:48'
+  crc: '0x31d8afb2'
+- name: gm.drv
+  size: 4819
+  date: '2005-07-06T23:32:26'
+  crc: '0xec5029fe'
+- name: resource.001
+  size: 1881839
+  date: '2010-10-02T23:25:28'
+  crc: '0x15a9b542'
+- name: resource.cfg
+  size: 151
+  date: '2010-05-27T23:35:06'
+  crc: '0x5f8b6210'
+- name: resource.map
+  size: 2592
+  date: '2010-10-02T23:25:28'
+  crc: '0xee3b4388'

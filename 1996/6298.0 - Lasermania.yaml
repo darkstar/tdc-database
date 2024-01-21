@@ -1,0 +1,68 @@
+filename: Lasermania (Pl) (1996)(L.K. Avalon) [Strategy, Puzzle].zip
+tdc_id: '6298.0'
+title:
+  box: Lasermania
+publisher: L.K. Avalon
+year: '1996'
+genre:
+- Strategy
+- Puzzle
+language: Polish
+date:
+  added: '2019-03-02T10:11:14'
+  last_modified: '2019-03-02T10:11:14'
+type: zip
+commands:
+  play: LASER.EXE
+references:
+  dosid: DOS06139
+  exodos: Lasermania (1996).zip
+files:
+- name: '!CZYTAJ.!TO'
+  size: 209
+  date: '1996-12-24T23:32:00'
+  crc: '0x14b1691a'
+- name: ABOK1.SFG
+  size: 11904
+  date: '1996-12-24T23:32:00'
+  crc: '0x4dd84d15'
+- name: FONTY.COL
+  size: 769
+  date: '1996-12-24T23:32:00'
+  crc: '0xc3d5551b'
+- name: FONTY.FNT
+  size: 65280
+  date: '1996-12-24T23:32:00'
+  crc: '0x466f8248'
+- name: INTROQ1.PAL
+  size: 770
+  date: '1996-12-24T23:32:00'
+  crc: '0x180dbd0b'
+- name: INTROQ1.SFG
+  size: 64001
+  date: '1996-12-24T23:32:00'
+  crc: '0x14e44059'
+- name: LASER.EXE
+  size: 32864
+  date: '1996-12-24T23:32:00'
+  crc: '0x09c6404e'
+- name: PLANSZE.DAN
+  size: 10368
+  date: '1996-12-24T23:32:00'
+  crc: '0xfb62aef4'
+- name: STRONAQ1.PAL
+  size: 770
+  date: '1996-12-24T23:32:00'
+  crc: '0x03be3a7f'
+- name: STRONAQ1.SFG
+  size: 64001
+  date: '1996-12-24T23:32:00'
+  crc: '0x60543f23'
+- name: TEKST.TXT
+  size: 1800
+  date: '1996-12-24T23:32:00'
+  crc: '0x443f691e'
+- name: TEKST1.TXT
+  size: 400
+  date: '1996-12-24T23:32:00'
+  crc: '0xaac81ba9'

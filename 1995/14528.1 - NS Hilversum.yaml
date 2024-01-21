@@ -1,0 +1,29 @@
+filename: NS Hilversum (Nl) [a1] (1995)(Richard Plokhaar) [Simulation].zip
+tdc_id: '14528.1'
+title:
+  screen: NS Hilversum
+publisher: Richard Plokhaar
+year: '1995'
+genre: Simulation
+language: Dutch
+date:
+  added: '2008-03-02T01:50:30'
+  last_modified: '2008-03-02T01:50:30'
+type: zip
+tags:
+- Alternate: 1
+commands:
+  play: NSHVS.EXE
+files:
+- name: HVS.DAT
+  size: 16469
+  date: '1995-03-28T18:17:22'
+  crc: '0xd08bb91e'
+- name: NSHVS.EXE
+  size: 85561
+  date: '1995-04-03T20:36:06'
+  crc: '0x1c7b79b2'
+- name: uitleg.txt
+  size: 4129
+  date: '1999-03-14T19:38:22'
+  crc: '0xda226568'

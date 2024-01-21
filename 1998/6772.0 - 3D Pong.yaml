@@ -1,0 +1,28 @@
+filename: 3D Pong (1998)(Kevin B. Kohler) [Action].zip
+tdc_id: '6772.0'
+title:
+  screen: 3D Pong
+publisher: Kevin B. Kohler
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:40:36'
+  last_modified: '2019-03-02T10:40:36'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: 3DPONGV1.BAS
+  size: 11030
+  date: '2018-11-14T20:04:22'
+  crc: '0x0770d75a'
+- name: GO.BAT
+  size: 28
+  date: '2018-11-15T11:43:20'
+  crc: '0x6a066c59'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'

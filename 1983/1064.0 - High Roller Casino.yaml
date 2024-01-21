@@ -1,0 +1,72 @@
+filename: High Roller Casino (1983)(Executive Software Programming) [Simulation, Compilation].zip
+tdc_id: '1064.0'
+title:
+  screen: High Roller Casino
+publisher: Executive Software Programming
+year: '1983'
+genre:
+- Simulation
+- Compilation
+language: English
+date:
+  added: '2019-03-01T18:23:14'
+  last_modified: '2019-03-01T18:23:14'
+type: zip
+compilation: true
+references:
+  dosid: DOS02601
+  exodos: High Roller Casino (1983).zip
+notes: +=*** PCMag 3/83 p528 * 64K, mono/color, $49.95
+files:
+- name: BACCARAT.DAT
+  size: 256
+  date: '1996-12-24T23:32:00'
+  crc: '0xffb1257d'
+- name: BACCARAT.EXE
+  size: 39327
+  date: '1996-12-24T23:32:00'
+  crc: '0xe4db0502'
+- name: CMENU.EXE
+  size: 27776
+  date: '1996-12-24T23:32:00'
+  crc: '0x6d08cbba'
+- name: CRAPS.DAT
+  size: 640
+  date: '1996-12-24T23:32:00'
+  crc: '0x62dc0883'
+- name: CRAPS.EXE
+  size: 47104
+  date: '1996-12-24T23:32:00'
+  crc: '0xf9987c68'
+- name: KENO.DAT
+  size: 1152
+  date: '1996-12-24T23:32:00'
+  crc: '0xe2e93f72'
+- name: KENO.EXE
+  size: 34432
+  date: '1996-12-24T23:32:00'
+  crc: '0xb70c55a1'
+- name: ROULETTE.DAT
+  size: 768
+  date: '1996-12-24T23:32:00'
+  crc: '0xcc8aaf2a'
+- name: ROULETTE.EXE
+  size: 49536
+  date: '1996-12-24T23:32:00'
+  crc: '0xf39024b0'
+- name: SLOT.DAT
+  size: 128
+  date: '1996-12-24T23:32:00'
+  crc: '0x5b717763'
+- name: SLOT.EXE
+  size: 36480
+  date: '1996-12-24T23:32:00'
+  crc: '0x5fdb0b30'
+- name: WHEEL.DAT
+  size: 256
+  date: '1996-12-24T23:32:00'
+  crc: '0x28f4a5ad'
+- name: WHEEL.EXE
+  size: 35328
+  date: '1996-12-24T23:32:00'
+  crc: '0x8f2c3597'

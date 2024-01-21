@@ -1,0 +1,53 @@
+filename: MegaTraveller 2- Quest for the Ancients v1.01 (Installer) (1993)(Paragon Software Corporation) [Action, Role-Playing (RPG)][!].zip
+tdc_id: '7752.4'
+parent_id: '7752.7'
+title:
+  box: 'MegaTraveller 2: Quest for the Ancients'
+  qualifier: Installer
+publisher: Paragon Software Corporation
+year: '1993'
+genre:
+- Action
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2021-03-28T11:50:46'
+  last_modified: '2023-06-06T06:53:13'
+version: '1.01'
+type: zip
+tags:
+- KnownGood
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.BAT
+files:
+- name: CHOOSE.COM
+  size: 16
+  date: '1993-09-09T13:55:10'
+  crc: '0xdc9a37e9'
+- name: INSTALL.BAT
+  size: 2286
+  date: '1993-09-15T01:06:08'
+  crc: '0xa4f9b0ea'
+- name: MT2.ZIP
+  size: 1425408
+  date: '1993-09-15T00:51:18'
+  crc: '0x1d1a25bd'
+- name: PKBACK#.001
+  size: 0
+  date: '1993-09-15T00:51:18'
+- name: PKUNZIP.EXE
+  size: 28959
+  date: '1993-02-01T02:04:16'
+  crc: '0xeeaac5ea'
+- name: disk2\
+  size: 0
+  date: '2021-03-28T11:50:10'
+- name: disk2\MT2.ZIP
+  size: 272394
+  date: '1993-09-15T00:52:52'
+  crc: '0xc6d9975b'
+- name: disk2\PKBACK#.002
+  size: 0
+  date: '1993-09-15T00:52:54'

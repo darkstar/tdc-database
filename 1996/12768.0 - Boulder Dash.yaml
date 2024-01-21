@@ -1,0 +1,26 @@
+filename: Boulder Dash (1996)(Petr Simon) [Action].zip
+tdc_id: '12768.0'
+title:
+  screen: Boulder Dash
+publisher: Petr Simon
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:00:10'
+  last_modified: '2019-03-02T10:00:10'
+type: zip
+commands:
+  play: DASH.EXE
+references:
+  dosid: DOS07656
+  exodos: Boulder Dash Remake (1996).zip
+files:
+- name: BOULDER.TXT
+  size: 738
+  date: '1996-09-30T09:56:20'
+  crc: '0xf909fb59'
+- name: DASH.EXE
+  size: 48370
+  date: '1996-09-30T09:59:30'
+  crc: '0x75d931b3'

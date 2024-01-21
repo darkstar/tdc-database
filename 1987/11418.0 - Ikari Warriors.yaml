@@ -1,0 +1,38 @@
+filename: Ikari Warriors [DC] (1987)(Data East Corporation) [Action].zip
+tdc_id: '11418.0'
+title:
+  box: Ikari Warriors
+publisher: Data East Corporation
+year: '1987'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:25:22'
+  last_modified: '2019-03-01T18:25:22'
+type: zip
+tags:
+- DOSConversion
+references:
+  dosid: DOS05910
+  exodos: Ikari Warriors (1987).zip
+files:
+- name: IKARI.COM
+  size: 1878
+  date: '2005-11-04T18:15:00'
+  crc: '0x322086ff'
+- name: IKARI1.DAT
+  size: 409600
+  date: '2005-10-30T11:33:00'
+  crc: '0x127ad7f0'
+- name: IKARI2.DAT
+  size: 409600
+  date: '2000-08-15T22:16:00'
+  crc: '0xa8ee4437'
+- name: IKARICGA.COM
+  size: 1884
+  date: '2005-11-04T18:16:00'
+  crc: '0xb81867f2'
+- name: NOTE.TXT
+  size: 479
+  date: '2005-10-30T12:08:00'
+  crc: '0xb4436ff7'

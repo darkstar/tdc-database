@@ -1,0 +1,119 @@
+filename: Fighter Bomber v1006-011289-A [b1] (1989)(Activision (UK) Limited) [Action, Simulation].zip
+tdc_id: '13569.2'
+title:
+  box: Fighter Bomber
+publisher: Activision (UK) Limited
+year: '1989'
+genre:
+- Action
+- Simulation
+language: English
+date:
+  added: '2019-03-01T18:32:36'
+  last_modified: '2022-10-16T11:01:21'
+version: 1006-011289-A
+type: zip
+tags:
+- Bad: 1
+commands:
+  play: BOMBER.EXE
+  setup: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/strike-aces
+files:
+- name: BOMBER.CFG
+  size: 8
+  date: '1999-10-27T02:27:20'
+  crc: '0x6522df69'
+- name: BOMBER.EXE
+  size: 149991
+  date: '1987-01-01T09:00:00'
+  crc: '0x6e00bc82'
+- name: BUTTON.FNT
+  size: 481
+  date: '1987-01-01T09:00:00'
+  crc: '0x8f22ff81'
+- name: DRIVERS\
+  size: 0
+  date: '2003-11-20T14:43:38'
+- name: DRIVERS\CGA.DRV
+  size: 12529
+  date: '1989-11-27T03:48:14'
+  crc: '0xe40669b2'
+- name: DRIVERS\EGA.DRV
+  size: 9273
+  date: '1989-11-27T03:48:04'
+  crc: '0x0a8300b7'
+- name: DRIVERS\HGA.DRV
+  size: 13926
+  date: '1989-11-27T03:48:08'
+  crc: '0x71d2649e'
+- name: DRIVERS\VGA.DRV
+  size: 9273
+  date: '1989-11-27T03:48:04'
+  crc: '0x0a8300b7'
+- name: FUZZY.FNT
+  size: 362
+  date: '1987-01-01T09:00:00'
+  crc: '0x016bcd68'
+- name: HIGH.FNT
+  size: 7621
+  date: '1987-01-01T09:00:00'
+  crc: '0x436f3d48'
+- name: HUD.FNT
+  size: 362
+  date: '1987-01-01T09:00:00'
+  crc: '0x016bcd68'
+- name: INSTALL.EXE
+  size: 6417
+  date: '1987-01-01T09:00:00'
+  crc: '0x7800c3ae'
+- name: NEW.FNT
+  size: 948
+  date: '1987-01-01T09:00:00'
+  crc: '0x23c57751'
+- name: SHAPES\
+  size: 0
+  date: '2003-11-20T14:43:38'
+- name: SHAPES\_DATA.SHP
+  size: 75730
+  date: '1989-11-29T00:40:12'
+  crc: '0xe0581a7f'
+- name: SHAPES\_INDEX.SHP
+  size: 640
+  date: '1989-11-29T00:40:12'
+  crc: '0xf7e08a51'
+- name: SPRITES\
+  size: 0
+  date: '2003-11-20T14:43:38'
+- name: SPRITES\AIRCRAFT.NDX
+  size: 1168
+  date: '1989-11-23T14:27:14'
+  crc: '0x8061ec68'
+- name: SPRITES\ARMING.NDX
+  size: 3033
+  date: '1989-11-27T15:04:20'
+  crc: '0xaf9c2206'
+- name: SPRITES\ENEMY.NDX
+  size: 238
+  date: '1989-11-22T22:23:28'
+  crc: '0xcf4af4b6'
+- name: SPRITES\MISSIONS.NDX
+  size: 400
+  date: '1989-11-22T23:24:04'
+  crc: '0x8cc13500'
+- name: SPRITES\SELECT.NDX
+  size: 5423
+  date: '1989-11-22T22:23:22'
+  crc: '0x78b6ae56'
+- name: SPRITES\VGA\
+  size: 0
+  date: '2003-11-20T14:43:38'
+- name: SPRITES\VGA\_DATA.VGL
+  size: 280163
+  date: '1987-01-08T09:00:00'
+  crc: '0x66231bcd'
+- name: SPRITES\VGA\_INDEX.VGL
+  size: 4368
+  date: '1987-01-08T09:00:00'
+  crc: '0x8c15f594'

@@ -1,0 +1,49 @@
+filename: Great Naval Battles- North Atlantic 1939-1943 Admirals Set v1.2 (Installer) (1993)(Strategic Simulations, Inc.) [Simulation, Strategy, Compilation].zip
+tdc_id: '10912.0'
+title:
+  box: 'Great Naval Battles: North Atlantic 1939-1943 Admirals Set'
+publisher: Strategic Simulations, Inc.
+year: '1993'
+genre:
+- Simulation
+- Strategy
+- Compilation
+language: English
+date:
+  added: '2019-03-01T19:09:24'
+  last_modified: '2019-03-01T19:09:24'
+version: '1.2'
+type: zip
+installer: true
+compilation: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: BOOT.NFO
+  size: 29
+  date: '1993-11-23T13:55:22'
+  crc: '0xa244a2a6'
+- name: DATA1.ARJ
+  size: 1342753
+  date: '1999-12-31T18:00:00'
+  crc: '0x5f017469'
+- name: DATA2.ARJ
+  size: 1348614
+  date: '1999-12-31T18:00:00'
+  crc: '0x0365d861'
+- name: DATA3.ARJ
+  size: 1266102
+  date: '1999-12-31T18:00:00'
+  crc: '0x46749fdd'
+- name: DEARJ.EXE
+  size: 39441
+  date: '1999-12-31T18:00:00'
+  crc: '0x284b68d2'
+- name: INSTALL.EXE
+  size: 27244
+  date: '1999-12-31T18:00:00'
+  crc: '0xa413c4f1'
+- name: INSTALL.NFO
+  size: 147
+  date: '1999-12-31T18:00:00'
+  crc: '0x028d6466'

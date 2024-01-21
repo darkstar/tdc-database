@@ -1,0 +1,34 @@
+filename: Mind Castle - The Spell of the Word Wizard (Installer) (1993)(Lawrence Productions, Inc.) [Educational].zip
+tdc_id: '14295.1'
+title:
+  box: Mind Castle - The Spell of the Word Wizard
+publisher: Lawrence Productions, Inc.
+year: '1993'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T19:15:04'
+  last_modified: '2022-11-16T13:07:53'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/mind-castle
+files:
+- name: INSTALL.EXE
+  size: 17030
+  date: '2004-06-04T23:05:20'
+  crc: '0x35e58655'
+- name: ROOMS0-3.RDT
+  size: 353188
+  date: '2004-06-04T23:06:22'
+  crc: '0x9c75356f'
+- name: WW1.EXE
+  size: 233340
+  date: '2004-06-04T23:07:04'
+  crc: '0xffe043a7'
+- name: WW2.EXE
+  size: 108750
+  date: '2004-06-04T23:07:26'
+  crc: '0x15f2f8f2'

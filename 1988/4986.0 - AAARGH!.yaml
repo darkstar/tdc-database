@@ -1,0 +1,52 @@
+filename: AAARGH! (1988)(Arcadia Systems, Inc.) [Action].zip
+tdc_id: '4986.0'
+parent_id: '4986.1'
+title:
+  box: AAARGH!
+publisher: Arcadia Systems, Inc.
+year: '1988'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:25:52'
+  last_modified: '2019-03-01T18:25:52'
+type: zip
+commands:
+  play: AARGH.EXE
+references:
+  mobygames: http://www.mobygames.com/game/dos/aaargh
+  dosid: DOS00679
+  exodos: AAARGH! (1988).zip
+files:
+- name: AARGH.EXE
+  size: 73972
+  date: '1988-11-03T10:11:10'
+  crc: '0x5ec82d73'
+- name: ABLDG.RES
+  size: 6440
+  date: '1988-09-23T10:14:10'
+  crc: '0x70cec2b8'
+- name: ASCRNS.RES
+  size: 103952
+  date: '1988-09-23T10:56:18'
+  crc: '0xf4392e30'
+- name: BBLDG.RES
+  size: 86209
+  date: '1988-09-23T10:14:32'
+  crc: '0xa51961d9'
+- name: BSCRNS.RES
+  size: 211681
+  date: '1988-09-23T10:14:18'
+  crc: '0xb985483f'
+- name: MONSTER.RES
+  size: 96143
+  date: '1988-09-23T10:15:02'
+  crc: '0x9658a0a1'
+- name: PERM.RES
+  size: 15276
+  date: '1988-09-23T10:15:08'
+  crc: '0xde5744f3'
+- name: TEMP.RES
+  size: 57484
+  date: '1988-09-23T10:14:40'
+  crc: '0xff1dce7c'

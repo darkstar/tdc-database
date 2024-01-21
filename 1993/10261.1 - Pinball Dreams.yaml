@@ -1,0 +1,99 @@
+filename: Pinball Dreams (demo) (1993)(21st Century Entertainment Ltd.) [Simulation, Action].zip
+tdc_id: '10261.1'
+title:
+  screen: Pinball Dreams
+  qualifier: demo
+publisher: 21st Century Entertainment Ltd.
+year: '1993'
+genre:
+- Simulation
+- Action
+language: English
+date:
+  added: '2019-03-01T19:16:10'
+  last_modified: '2019-03-01T19:16:10'
+type: zip
+demo: true
+commands:
+  play: PD.EXE
+files:
+- name: COMPANY.VGA
+  size: 64000
+  date: '1993-01-26T11:42:28'
+  crc: '0xe2a56a49'
+- name: DIGITAL.VGA
+  size: 64000
+  date: '1993-01-26T11:44:16'
+  crc: '0xd02ed469'
+- name: FLIPPERS.SPR
+  size: 11672
+  date: '1993-03-25T12:56:28'
+  crc: '0x61529cef'
+- name: FONT.SPR
+  size: 6540
+  date: '1993-01-26T15:04:08'
+  crc: '0xe5f551f2'
+- name: HIGHFNT2.VGA
+  size: 6400
+  date: '1993-03-18T10:59:56'
+  crc: '0x7e982339'
+- name: INTRO.AMC
+  size: 24986
+  date: '1993-03-05T17:39:54'
+  crc: '0xc9e639f0'
+- name: INTRO.RMC
+  size: 59379
+  date: '1993-03-05T17:39:32'
+  crc: '0xc7e42106'
+- name: JING1.AMC
+  size: 21356
+  date: '1993-01-20T11:11:30'
+  crc: '0xfb220668'
+- name: JING1.RMC
+  size: 45695
+  date: '1993-01-22T11:56:44'
+  crc: '0x26fc1f0a'
+- name: LEVEL1.AMC
+  size: 10533
+  date: '1993-02-28T20:07:38'
+  crc: '0x2ad02b15'
+- name: LEVEL1.RMC
+  size: 18829
+  date: '1993-02-23T14:41:00'
+  crc: '0x9adeb8fd'
+- name: NEWSLCT.VGA
+  size: 64000
+  date: '1993-05-06T14:58:50'
+  crc: '0x348a431b'
+- name: PD.EXE
+  size: 102150
+  date: '1993-05-13T16:17:18'
+  crc: '0x988e13e7'
+- name: PINBALL.VGA
+  size: 64000
+  date: '1993-01-26T11:45:22'
+  crc: '0x62410bf1'
+- name: PRESENTS.VGA
+  size: 64000
+  date: '1993-03-08T17:02:48'
+  crc: '0x18f55b53'
+- name: SELECT.AMC
+  size: 16480
+  date: '1985-11-20T00:24:46'
+  crc: '0x3558a054'
+- name: SELECT.RMC
+  size: 24367
+  date: '1985-11-20T00:04:44'
+  crc: '0x0068d16e'
+- name: SPIDER.VGA
+  size: 64000
+  date: '1993-04-01T10:42:04'
+  crc: '0xc346121e'
+- name: TABLE2M.IGN
+  size: 163840
+  date: '1993-03-22T13:39:26'
+  crc: '0xeb575bf7'
+- name: TBLDETLO.IGN
+  size: 13752
+  date: '1993-04-26T12:38:04'
+  crc: '0x4bb04c51'

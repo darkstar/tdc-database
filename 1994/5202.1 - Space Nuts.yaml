@@ -1,0 +1,32 @@
+filename: Space Nuts (Installer) [SW] (1994)(Studio 21) [Strategy].zip
+tdc_id: '5202.1'
+title:
+  screen: Space Nuts
+  qualifier: Installer
+publisher: Studio 21
+year: '1994'
+genre: Strategy
+language: English
+date:
+  added: '2023-07-12T07:40:37'
+  last_modified: '2023-07-12T07:40:37'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK_01.EZP
+  size: 1366206
+  date: '1994-05-13T03:24:30'
+  crc: '0xf64d7dac'
+- name: DISK_02.EZP
+  size: 1397993
+  date: '1994-05-13T03:37:34'
+  crc: '0x4321e001'
+- name: INSTALL.EXE
+  size: 23308
+  date: '1994-05-06T18:28:22'
+  crc: '0x960d0010'

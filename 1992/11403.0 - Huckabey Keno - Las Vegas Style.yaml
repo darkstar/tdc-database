@@ -1,0 +1,29 @@
+filename: Huckabey Keno - Las Vegas Style v3.11 (1992)(James Huckabey) [Simulation].zip
+tdc_id: '11403.0'
+title:
+  screen: Huckabey Keno - Las Vegas Style
+publisher: James Huckabey
+year: '1992'
+genre: Simulation
+language: English
+date:
+  added: '2019-01-31T09:10:02'
+  last_modified: '2019-01-31T09:10:02'
+version: '3.11'
+type: zip
+media: Download
+commands:
+  play: KENO.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 81
+  date: '1992-12-19T22:49:58'
+  crc: '0xe3cbf619'
+- name: KENO.EXE
+  size: 41920
+  date: '1992-12-19T22:49:58'
+  crc: '0xba4ddb54'
+- name: READ.ME
+  size: 2307
+  date: '1992-12-19T22:49:58'
+  crc: '0x1e65286a'

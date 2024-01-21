@@ -1,0 +1,51 @@
+filename: Aurora Borealis (demo) v1.96 (En)(Ru)(Pt) [f1] (2003)(Alexander Svirin) [Strategy].zip
+tdc_id: '8983.1'
+title:
+  screen: Aurora Borealis
+  qualifier: demo
+publisher: Alexander Svirin
+year: '2003'
+genre: Strategy
+language:
+- English
+- Russian
+- Portuguese
+date:
+  added: '2019-03-02T10:56:22'
+  last_modified: '2019-03-02T10:56:22'
+version: '1.96'
+type: zip
+tags:
+- Fixed: 1
+demo: true
+commands:
+  play: AURORA.EXE
+files:
+- name: AURORA.EXE
+  size: 88922
+  date: '2003-09-01T21:33:24'
+  crc: '0x2189fa79'
+- name: AURORA.ICL
+  size: 5440
+  date: '2002-03-10T17:24:28'
+  crc: '0x2bc49854'
+- name: AURORA.REG
+  size: 1011
+  date: '2002-03-10T17:45:26'
+  crc: '0xa316a1e9'
+- name: EXPORT_E.RTF
+  size: 8025
+  date: '2003-03-02T19:38:24'
+  crc: '0x6c7dfefc'
+- name: EXPORT_R.RTF
+  size: 22241
+  date: '2003-02-23T19:36:02'
+  crc: '0xf4087bf8'
+- name: GUIDE_EN.DOC
+  size: 62464
+  date: '2003-05-04T11:57:54'
+  crc: '0xdfbbd916'
+- name: GUIDE_RU.DOC
+  size: 148992
+  date: '2003-05-04T11:57:40'
+  crc: '0xa873245e'

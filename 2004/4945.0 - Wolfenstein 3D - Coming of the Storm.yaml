@@ -1,0 +1,83 @@
+filename: Wolfenstein 3D - Coming of the Storm (2004)(Wolf Skevos-Jones) [Action].zip
+tdc_id: '4945.0'
+title:
+  screen: Wolfenstein 3D - Coming of the Storm
+publisher: Wolf Skevos-Jones
+year: '2004'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:57:00'
+  last_modified: '2019-03-02T10:57:00'
+type: zip
+commands:
+  play: CSTORM.EXE
+files:
+- name: AUDIOHED.WSJ
+  size: 1156
+  date: '2004-04-23T05:44:46'
+  crc: '0x42186696'
+- name: AUDIOT.WSJ
+  size: 650174
+  date: '2004-04-23T05:44:46'
+  crc: '0xaa8c9e40'
+- name: CONFIG.WSJ
+  size: 522
+  date: '2013-01-13T14:45:32'
+  crc: '0x506a088b'
+- name: CSTORM.EXE
+  size: 498516
+  date: '2004-05-27T20:13:48'
+  crc: '0x84d9e119'
+- name: DEMO0.WSJ
+  size: 1630
+  date: '2004-05-19T16:04:52'
+  crc: '0xd1b67de3'
+- name: DEMO1.WSJ
+  size: 2659
+  date: '2004-05-19T16:03:50'
+  crc: '0x22405eab'
+- name: DEMO2.WSJ
+  size: 2092
+  date: '2004-05-19T16:02:34'
+  crc: '0x3c74a5ea'
+- name: DEMO3.WSJ
+  size: 1171
+  date: '2004-05-19T16:01:12'
+  crc: '0x3bb2a803'
+- name: ENDART1.WSJ
+  size: 2258
+  date: '2004-05-19T02:39:02'
+  crc: '0xfe54a997'
+- name: GAMEMAPS.WSJ
+  size: 129532
+  date: '2004-05-19T12:53:50'
+  crc: '0x3eea37c7'
+- name: HELPART.WSJ
+  size: 10445
+  date: '2004-05-16T09:00:04'
+  crc: '0x6744c2d3'
+- name: MAPHEAD.WSJ
+  size: 78
+  date: '2004-05-19T12:53:50'
+  crc: '0x18d09e02'
+- name: VGADICT.WSJ
+  size: 1024
+  date: '1994-04-13T02:40:00'
+  crc: '0xaa22054e'
+- name: VGAGRAPH.WSJ
+  size: 331471
+  date: '2004-04-28T02:18:24'
+  crc: '0xcda38a35'
+- name: VGAHEAD.WSJ
+  size: 471
+  date: '2004-04-28T02:18:24'
+  crc: '0x3e8867d1'
+- name: VSWAP.WSJ
+  size: 3381900
+  date: '2004-05-19T16:53:28'
+  crc: '0x71379ff6'
+- name: credits.txt
+  size: 2134
+  date: '2004-05-13T18:21:26'
+  crc: '0x66b09fc6'

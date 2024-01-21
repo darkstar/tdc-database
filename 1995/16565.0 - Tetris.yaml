@@ -1,0 +1,45 @@
+filename: Tetris (1995)(Black Dog Software) [Action, Strategy].zip
+tdc_id: '16565.0'
+title:
+  screen: Tetris
+publisher: Black Dog Software
+year: '1995'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-02T09:06:12'
+  last_modified: '2019-03-02T09:06:12'
+type: zip
+commands:
+  play: TETRIS.EXE
+files:
+- name: BDS.PCX
+  size: 15497
+  date: '1995-09-25T10:43:28'
+  crc: '0x1f64cef8'
+- name: BLOCKS.PAS
+  size: 7034
+  date: '1995-09-25T21:50:04'
+  crc: '0x0347ee14'
+- name: DETECT.PAS
+  size: 2408
+  date: '1995-09-24T21:33:32'
+  crc: '0x79eabb70'
+- name: PCX.PAS
+  size: 3650
+  date: '1995-04-14T08:04:50'
+  crc: '0xa227ad2d'
+- name: README.TXT
+  size: 354
+  date: '1995-09-27T10:24:34'
+  crc: '0x7f425bea'
+- name: TETRIS.EXE
+  size: 15152
+  date: '1995-09-27T10:21:16'
+  crc: '0xffe7b4d2'
+- name: TETRIS.PAS
+  size: 3148
+  date: '1995-09-27T10:21:02'
+  crc: '0xc9febe0f'

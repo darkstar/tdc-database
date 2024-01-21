@@ -1,0 +1,71 @@
+filename: Fruit Machine (1997)(Sergey Melnikov, Roman Zhavnis) [Simulation].zip
+tdc_id: '3928.0'
+title:
+  screen: Fruit Machine
+publisher: Sergey Melnikov, Roman Zhavnis
+year: '1997'
+genre: Simulation
+language: English
+date:
+  added: '2021-01-16T01:55:02'
+  last_modified: '2021-01-16T01:55:02'
+type: zip
+commands:
+  play: FRUIT.EXE
+files:
+- name: DATA00.DAT
+  size: 420
+  date: '1997-01-20T13:38:22'
+  crc: '0xaf14d565'
+- name: DATA01.DAT
+  size: 30513
+  date: '1997-01-20T13:39:16'
+  crc: '0x833742b7'
+- name: DATA02.DAT
+  size: 11052
+  date: '1997-01-20T13:44:42'
+  crc: '0xd7f61dcc'
+- name: DATA03.DAT
+  size: 497
+  date: '1997-01-20T13:39:54'
+  crc: '0x0d58a328'
+- name: DATA04.DAT
+  size: 14259
+  date: '1992-08-10T14:52:04'
+  crc: '0xb452c032'
+- name: DATA05.DAT
+  size: 360
+  date: '1997-01-20T13:40:36'
+  crc: '0x2f59bcd7'
+- name: DATA06.DAT
+  size: 2100
+  date: '1997-01-20T13:41:00'
+  crc: '0xe17f5b17'
+- name: DATA07.DAT
+  size: 19689
+  date: '1997-01-20T13:33:54'
+  crc: '0x0cb9b433'
+- name: DATA08.DAT
+  size: 7432
+  date: '1997-01-22T03:14:38'
+  crc: '0xf70eea28'
+- name: DATA09.DAT
+  size: 14086
+  date: '1997-01-28T03:30:22'
+  crc: '0x42c42c6b'
+- name: DATA10.DAT
+  size: 2606
+  date: '1997-01-27T05:35:48'
+  crc: '0x86edd920'
+- name: DATA11.DAT
+  size: 22055
+  date: '1997-01-27T05:17:42'
+  crc: '0x0daa503c'
+- name: FRUIT.EXE
+  size: 31654
+  date: '1997-12-19T19:33:32'
+  crc: '0x428913dc'
+- name: READ.ME
+  size: 235
+  date: '1997-02-18T23:27:08'
+  crc: '0xfc2fa477'

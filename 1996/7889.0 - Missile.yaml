@@ -1,0 +1,28 @@
+filename: Missile (1996)(Kenneth Green) [Strategy].zip
+tdc_id: '7889.0'
+title:
+  screen: Missile
+publisher: Kenneth Green
+year: '1996'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:13:22'
+  last_modified: '2019-03-02T10:13:22'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 27
+  date: '2018-03-12T20:49:12'
+  crc: '0xeb164599'
+- name: MISSILE.BAS
+  size: 3638
+  date: '2018-03-10T00:57:08'
+  crc: '0xa02c0009'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'

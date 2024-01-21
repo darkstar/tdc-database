@@ -1,0 +1,39 @@
+filename: Adv770 v2.19 (2020)(Mike Arnautov) [Adventure, Interactive Fiction].zip
+tdc_id: '8095.8'
+title:
+  screen: Adv770
+publisher: Mike Arnautov
+year: '2020'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2020-10-22T10:20:50'
+  last_modified: '2020-10-22T10:20:50'
+version: '2.19'
+type: zip
+media: Download
+commands:
+  play: adv770.exe
+files:
+- name: LICENCE.txt
+  size: 1369
+  date: '2020-08-16T04:41:42'
+  crc: '0xc8a384ec'
+- name: README.txt
+  size: 10268
+  date: '2020-08-16T04:41:42'
+  crc: '0xb442c2c4'
+- name: adv770.dat
+  size: 512649
+  date: '2020-08-16T04:41:42'
+  crc: '0xc48ccabf'
+- name: adv770.exe
+  size: 1269504
+  date: '2020-08-16T04:41:42'
+  crc: '0x430caa94'
+- name: cwsdpmi.exe
+  size: 21325
+  date: '2020-08-16T04:41:42'
+  crc: '0xa18c506d'

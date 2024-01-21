@@ -1,0 +1,57 @@
+filename: ImpArea (En)(It)(Ru) (1994)(DOKA Company) [Action].zip
+tdc_id: '11432.0'
+title:
+  screen: ImpArea
+publisher: DOKA Company
+year: '1994'
+genre: Action
+language:
+- English
+- Russian
+- Italian
+date:
+  added: '2019-03-01T22:00:46'
+  last_modified: '2019-03-01T22:00:46'
+type: zip
+commands:
+  play: IMPAREA.EXE
+references:
+  dosid: DOS02705
+  exodos: ImpArea (1994).zip
+files:
+- name: IMP00.BIM
+  size: 189534
+  date: '1994-12-02T01:06:00'
+  crc: '0xba655aad'
+- name: IMP00.BSN
+  size: 494730
+  date: '1994-06-05T14:13:16'
+  crc: '0x7a8bbf2b'
+- name: IMP01.BIM
+  size: 8210
+  date: '1993-11-10T09:24:16'
+  crc: '0xa49841bf'
+- name: IMP02.BIM
+  size: 18113
+  date: '1993-11-19T04:33:12'
+  crc: '0xdddac017'
+- name: IMP03.BIM
+  size: 942
+  date: '1993-11-10T10:05:52'
+  crc: '0x4c94fa6a'
+- name: IMP04.BIM
+  size: 9024
+  date: '1994-02-05T01:41:08'
+  crc: '0x99364b2b'
+- name: IMPAREA.EXE
+  size: 168372
+  date: '1994-12-02T16:25:08'
+  crc: '0xad87f032'
+- name: IMP_EN.DOC
+  size: 9189
+  date: '1994-02-19T14:48:44'
+  crc: '0xf155ba3b'
+- name: IMP_R.DOC
+  size: 8091
+  date: '1994-02-19T14:48:46'
+  crc: '0x1e04a848'

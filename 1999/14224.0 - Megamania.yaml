@@ -1,0 +1,31 @@
+filename: Megamania (1999)(Dean Tersigni) [Action].zip
+tdc_id: '14224.0'
+title:
+  screen: Megamania
+publisher: Dean Tersigni
+year: '1999'
+genre: Action
+language: English
+date:
+  added: '2020-01-16T20:29:48'
+  last_modified: '2020-01-16T20:29:48'
+type: zip
+commands:
+  play: MEGA.EXE
+files:
+- name: MEGA.BAS
+  size: 25109
+  date: '1999-03-23T22:06:22'
+  crc: '0x1cc1e62c'
+- name: MEGA.EXE
+  size: 82004
+  date: '1999-03-23T22:06:26'
+  crc: '0x49d8f55b'
+- name: MEGA.OBJ
+  size: 34703
+  date: '1999-03-21T15:44:20'
+  crc: '0x155745be'
+- name: MEGA.PCX
+  size: 8310
+  date: '1999-03-23T22:03:52'
+  crc: '0x0c7fdf97'

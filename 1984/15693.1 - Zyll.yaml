@@ -1,0 +1,31 @@
+filename: Zyll [DC][a1] (1984)(IBM) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '15693.1'
+title:
+  box: Zyll
+publisher: IBM
+year: '1984'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:24:20'
+  last_modified: '2019-03-01T18:24:20'
+type: zip
+tags:
+- DOSConversion
+- Alternate: 1
+commands:
+  play: ZYLL.COM
+references:
+  dosid: DOS06018
+  exodos: Zyll (1984).zip
+files:
+- name: ZYLL.COM
+  size: 62032
+  date: '1993-01-20T01:41:54'
+  crc: '0xcd498318'
+- name: ZYLL.DAT
+  size: 159744
+  date: '1993-01-24T00:00:00'
+  crc: '0x4fe9e587'

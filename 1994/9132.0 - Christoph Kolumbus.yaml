@@ -1,0 +1,87 @@
+filename: Christoph Kolumbus (Installer) (De) (1994)(Software 2000) [Simulation, Strategy][!].zip
+tdc_id: '9132.0'
+parent_id: '9132.6'
+title:
+  box: Christoph Kolumbus
+publisher: Software 2000
+year: '1994'
+genre:
+- Simulation
+- Strategy
+language: German
+date:
+  added: '2019-03-01T21:55:08'
+  last_modified: '2022-11-29T14:39:01'
+type: zip
+tags:
+- KnownGood
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/exploration
+files:
+- name: ALLGHELP.TXT
+  size: 402
+  date: '1994-01-25T16:38:28'
+  crc: '0x77100dac'
+- name: BOXHELP.TXT
+  size: 1199
+  date: '1994-01-25T14:21:48'
+  crc: '0x7fbefd2c'
+- name: DIRHELP.TXT
+  size: 556
+  date: '1994-01-21T15:18:36'
+  crc: '0xbce85a80'
+- name: DISKA
+  size: 5
+  date: '1994-01-25T12:48:06'
+  crc: '0xfd840fc2'
+- name: DISKB
+  size: 5
+  date: '1994-01-25T12:48:12'
+  crc: '0xaad764a5'
+- name: GAMEHELP.TXT
+  size: 893
+  date: '1994-01-25T19:45:36'
+  crc: '0x5c40282b'
+- name: HDTEST.EXE
+  size: 7953
+  date: '1994-01-24T18:40:30'
+  crc: '0x390ce52d'
+- name: INSTALL.CFG
+  size: 271
+  date: '1994-01-27T06:07:02'
+  crc: '0xa9928030'
+- name: INSTALL.EXE
+  size: 72406
+  date: '1994-01-31T13:54:58'
+  crc: '0x02837d3a'
+- name: INSTHELP.TXT
+  size: 1505
+  date: '1994-01-25T19:45:54'
+  crc: '0x21986b74'
+- name: KOLUMBUS.A01
+  size: 1054058
+  date: '1994-01-26T08:48:38'
+  crc: '0x913df591'
+- name: KOLUMBUS.ARJ
+  size: 1178831
+  date: '1994-01-27T16:27:40'
+  crc: '0xf9dadbe5'
+- name: MAUSTEST.EXE
+  size: 7259
+  date: '1994-01-24T18:38:14'
+  crc: '0xd3f9cc27'
+- name: MENUHELP.TXT
+  size: 1610
+  date: '1994-01-25T17:36:16'
+  crc: '0xdccdbd14'
+- name: RAMTEST.EXE
+  size: 7721
+  date: '1994-01-24T18:42:36'
+  crc: '0x3931a7ec'
+- name: VIRTEST.EXE
+  size: 7964
+  date: '1994-01-22T16:50:34'
+  crc: '0x5ce5b965'

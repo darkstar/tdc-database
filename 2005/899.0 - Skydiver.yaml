@@ -1,0 +1,27 @@
+filename: Skydiver (2005)(Jeremy Ruten) [Action].zip
+tdc_id: '899.0'
+title:
+  screen: Skydiver
+publisher: Jeremy Ruten
+year: '2005'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:57:06'
+  last_modified: '2019-03-02T10:57:06'
+type: zip
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 24
+  date: '2018-02-24T10:09:56'
+  crc: '0xd7ca8bbf'
+- name: QB.EXE
+  size: 278804
+  date: '2016-03-12T18:19:58'
+  crc: '0xb08bc0fe'
+- name: SKYDIVER.BAS
+  size: 5343
+  date: '2005-02-24T22:07:46'
+  crc: '0x30dc9e59'

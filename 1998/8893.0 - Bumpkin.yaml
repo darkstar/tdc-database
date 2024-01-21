@@ -1,0 +1,31 @@
+filename: Bumpkin (1998)(Axe Productions) [Action].zip
+tdc_id: '8893.0'
+title:
+  screen: Bumpkin
+publisher: Axe Productions
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:41:00'
+  last_modified: '2019-03-02T10:41:00'
+type: zip
+commands:
+  play: BUMPKIN.EXE
+files:
+- name: BUMPKIN.DAT
+  size: 989196
+  date: '1998-11-17T12:17:04'
+  crc: '0xf323df92'
+- name: BUMPKIN.EXE
+  size: 122971
+  date: '1998-11-17T12:35:34'
+  crc: '0xd39ed0a8'
+- name: DOS4GW.EXE
+  size: 265420
+  date: '1994-09-01T10:00:00'
+  crc: '0xcb214447'
+- name: Readme.txt
+  size: 872
+  date: '2003-04-14T17:07:10'
+  crc: '0xaba69757'

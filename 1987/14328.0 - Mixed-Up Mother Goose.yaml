@@ -1,0 +1,126 @@
+filename: Mixed-Up Mother Goose v1.00D (1987)(Sierra On-Line, Inc.) [Adventure][!].zip
+tdc_id: '14328.0'
+parent_id: '14328.11'
+title:
+  box: Mixed-Up Mother Goose
+publisher: Sierra On-Line, Inc.
+year: '1987'
+genre: Adventure
+language: English
+date:
+  added: '2021-12-27T18:58:12'
+  last_modified: '2023-07-22T15:05:59'
+version: 1.00D
+type: zip
+tags:
+- KnownGood
+media: 360K
+references:
+  mobygames: https://www.mobygames.com/game/758/mixed-up-mother-goose/
+  dosid: DOS03598
+  exodos: Mixed-Up Mother Goose (1987).zip
+files:
+- name: AGI
+  size: 39424
+  date: '1987-11-16T16:36:48'
+  crc: '0xec923f17'
+- name: AGIDATA.OVL
+  size: 8192
+  date: '1987-11-16T15:16:58'
+  crc: '0x5745a47b'
+- name: CGA_GRAF.OVL
+  size: 1024
+  date: '1987-11-16T15:16:36'
+  crc: '0x9f7d2517'
+- name: EGA_GRAF.OVL
+  size: 1024
+  date: '1987-11-16T15:16:38'
+  crc: '0x6284c954'
+- name: HGC_FONT
+  size: 3072
+  date: '1987-01-26T15:47:26'
+  crc: '0x200435c7'
+- name: HGC_GRAF.OVL
+  size: 1536
+  date: '1987-11-16T15:16:40'
+  crc: '0x3f18f45e'
+- name: HGC_OBJS.OVL
+  size: 1024
+  date: '1987-11-16T15:16:42'
+  crc: '0xc449b9a5'
+- name: IBM_OBJS.OVL
+  size: 512
+  date: '1987-11-16T15:16:42'
+  crc: '0x3838825f'
+- name: INSTALLH.BAT
+  size: 1239
+  date: '1987-11-16T16:36:22'
+  crc: '0xde7f4b42'
+- name: JR_GRAF.OVL
+  size: 512
+  date: '1987-11-16T15:16:36'
+  crc: '0x91502785'
+- name: LOGDIR
+  size: 606
+  date: '1987-11-10T13:54:46'
+  crc: '0xadc0e9c9'
+- name: MAKEPATH.COM
+  size: 74
+  date: '1987-04-22T12:05:20'
+  crc: '0xa04a3ac3'
+- name: MGSG.1
+  size: 2688
+  date: '1987-11-04T22:00:58'
+  crc: '0xb2ce210d'
+- name: OBJECT
+  size: 8
+  date: '1987-07-02T13:23:38'
+  crc: '0xac703c85'
+- name: OBJECT.2
+  size: 8
+  date: '1987-04-16T16:49:22'
+  crc: '0x99225799'
+- name: PICDIR
+  size: 603
+  date: '1987-11-10T13:54:46'
+  crc: '0xd8337aeb'
+- name: SIERRA.COM
+  size: 3115
+  date: '1987-11-16T13:32:06'
+  crc: '0x9d4eb9a4'
+- name: SNDDIR
+  size: 198
+  date: '1987-11-10T13:54:46'
+  crc: '0x443edc2c'
+- name: VG_GRAF.OVL
+  size: 512
+  date: '1987-11-16T15:16:42'
+  crc: '0x4927f36f'
+- name: VIEWDIR
+  size: 603
+  date: '1987-11-10T13:54:46'
+  crc: '0xdf72ee30'
+- name: VOL.0
+  size: 34929
+  date: '1987-11-10T13:43:22'
+  crc: '0x6855d3d0'
+- name: VOL.1
+  size: 47397
+  date: '1987-11-10T13:43:48'
+  crc: '0x15a840f8'
+- name: VOL.2
+  size: 317869
+  date: '1987-11-10T13:54:46'
+  crc: '0x21ac3cc4'
+- name: WORDS.TOK
+  size: 235
+  date: '1987-09-24T16:24:20'
+  crc: '0x50f4710f'
+- name: _INSTALL.BAT
+  size: 772
+  date: '1987-11-16T16:36:38'
+  crc: '0x4a13b873'
+- name: _MG.BAT
+  size: 36
+  date: '1987-10-08T10:44:16'
+  crc: '0x3ebf25c1'

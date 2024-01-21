@@ -1,0 +1,26 @@
+filename: Monopoly v1.2 (1999)(Ethan B. Stone) [Strategy, Board].zip
+tdc_id: '4397.0'
+title:
+  screen: Monopoly
+publisher: Ethan B. Stone
+year: '1999'
+genre:
+- Strategy
+- Board
+language: English
+date:
+  added: '2019-03-02T10:46:16'
+  last_modified: '2019-03-02T10:46:16'
+version: '1.2'
+type: zip
+commands:
+  play: MONOPOLY.EXE
+files:
+- name: MONOPOLY.DAT
+  size: 177828
+  date: '1999-02-23T09:15:08'
+  crc: '0xbf56e1aa'
+- name: MONOPOLY.EXE
+  size: 782512
+  date: '1999-02-23T10:08:32'
+  crc: '0x9bd1e60f'

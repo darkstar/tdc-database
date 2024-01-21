@@ -1,0 +1,62 @@
+filename: Crazy Brix (1999)(PPPTeam) [Action].zip
+tdc_id: '12211.0'
+title:
+  screen: Crazy Brix
+publisher: PPPTeam
+year: '1999'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:45:40'
+  last_modified: '2019-03-02T10:45:40'
+type: zip
+commands:
+  play: BRIX.EXE
+references:
+  dosid: DOS08005
+  exodos: Crazy Brix (1999).zip
+files:
+- name: BRIX.EXE
+  size: 10377
+  date: '1999-07-11T15:42:00'
+  crc: '0x6708c3e9'
+- name: BRIX.GAM
+  size: 2376
+  date: '1999-07-11T15:42:00'
+  crc: '0x9cb71ba2'
+- name: BRIX.MAP
+  size: 3925
+  date: '1999-07-11T15:42:00'
+  crc: '0x1ab7a051'
+- name: CB99.S3M
+  size: 40708
+  date: '1999-07-18T11:20:20'
+  crc: '0xa503c84d'
+- name: CB99.Z3M
+  size: 26807
+  date: '1999-07-11T15:42:00'
+  crc: '0x58a2a116'
+- name: CUP!.PPF
+  size: 15068
+  date: '1999-07-11T15:42:00'
+  crc: '0xedeb8e52'
+- name: GAME.PPF
+  size: 7927
+  date: '1999-07-11T15:42:00'
+  crc: '0x4beccc09'
+- name: GOVR.PPF
+  size: 14542
+  date: '1999-07-11T15:42:00'
+  crc: '0x562bd3fc'
+- name: MENU.PPF
+  size: 10164
+  date: '1999-07-11T15:42:00'
+  crc: '0xabae332c'
+- name: NOTTABLE.SB
+  size: 216
+  date: '1999-07-11T15:42:00'
+  crc: '0x098b35ed'
+- name: Readme.txt
+  size: 458
+  date: '1999-07-18T11:22:32'
+  crc: '0xe7903347'

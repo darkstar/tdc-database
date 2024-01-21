@@ -1,0 +1,27 @@
+filename: Dr. Ed's 4D-Tic (1988)(Viking Technologies, Inc.) [Strategy].zip
+tdc_id: '1504.0'
+title:
+  screen: Dr. Ed's 4D-Tic
+publisher: Viking Technologies, Inc.
+year: '1988'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:26:06'
+  last_modified: '2019-03-01T18:26:06'
+type: zip
+commands:
+  play: RUN.COM
+files:
+- name: 4D-TIC.CHN
+  size: 15104
+  date: '1990-04-12T10:23:06'
+  crc: '0x8b8f6cd1'
+- name: 4D-TIC.DOC
+  size: 955
+  date: '1990-04-12T10:27:02'
+  crc: '0x43b06104'
+- name: RUN.COM
+  size: 13568
+  date: '1990-04-12T10:23:08'
+  crc: '0x82c222ee'

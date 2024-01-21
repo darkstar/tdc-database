@@ -1,0 +1,36 @@
+filename: Alien Carnage (Installer) [SW][a2] (1994)(Apogee Software, Ltd.) [Action].zip
+tdc_id: '8245.2'
+title:
+  screen: Alien Carnage
+publisher: Apogee Software, Ltd.
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2009-11-23T02:36:42'
+  last_modified: '2009-11-23T02:36:42'
+type: zip
+tags:
+- Shareware
+- Alternate: 2
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: AC_1BBS._1
+  size: 878592
+  date: '1994-10-01T13:00:00'
+  crc: '0xc6e3824f'
+- name: AC_1BBS._2
+  size: 878250
+  date: '1994-10-01T13:00:00'
+  crc: '0x1cdef27d'
+- name: FILE_ID.DIZ
+  size: 443
+  date: '1994-10-01T13:00:00'
+  crc: '0x6438c712'
+- name: INSTALL.EXE
+  size: 34749
+  date: '1994-10-01T13:00:00'
+  crc: '0x82dcde9a'

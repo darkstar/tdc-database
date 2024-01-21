@@ -1,0 +1,45 @@
+filename: Erben des Throns v1.0 (Installer) (De) (1992)(German Design Group) [Strategy].zip
+tdc_id: '9571.2'
+parent_id: '9571.5'
+title:
+  box: Erben des Throns
+publisher: German Design Group
+year: '1992'
+genre: Strategy
+language: German
+date:
+  added: '2019-03-01T18:44:40'
+  last_modified: '2022-11-21T13:54:51'
+version: '1.0'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/heirs-to-the-throne
+files:
+- name: DISK01.EDT
+  size: 1196544
+  date: '1992-11-04T15:58:50'
+  crc: '0xa03bea62'
+- name: DISK02.EDT
+  size: 1213952
+  date: '1992-11-04T16:00:00'
+  crc: '0xde2ae9c4'
+- name: DISK03.EDT
+  size: 241474
+  date: '1992-11-04T16:00:28'
+  crc: '0x50490fbc'
+- name: EDT_DISK_A
+  size: 0
+  date: '1992-10-27T08:52:42'
+- name: EDT_DISK_B
+  size: 0
+  date: '1992-10-27T08:51:14'
+- name: EDT_DISK_C
+  size: 0
+  date: '1992-10-27T08:24:10'
+- name: INSTALL.EXE
+  size: 16398
+  date: '1992-11-04T15:57:56'
+  crc: '0xf5868905'

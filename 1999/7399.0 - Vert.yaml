@@ -1,0 +1,90 @@
+filename: Vert (1999)(Entropy) [Action].zip
+tdc_id: '7399.0'
+title:
+  screen: Vert
+publisher: Entropy
+year: '1999'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:46:36'
+  last_modified: '2019-03-02T10:46:36'
+type: zip
+commands:
+  play: VERTMAIN.EXE
+files:
+- name: BULLETS.PUT
+  size: 67
+  date: '1999-07-02T23:20:26'
+  crc: '0x8dedf6ea'
+- name: NEW.PUT
+  size: 8327
+  date: '1999-07-07T19:10:54'
+  crc: '0xad22556e'
+- name: TRANS.DAT
+  size: 12295
+  date: '1999-07-08T23:54:44'
+  crc: '0x7a477370'
+- name: VERT.DAT
+  size: 41
+  date: '1999-07-15T22:30:32'
+  crc: '0x4dc10701'
+- name: VERT.EN
+  size: 2
+  date: '1999-06-20T15:14:40'
+  crc: '0x14a285ac'
+- name: VERT.FNT
+  size: 6535
+  date: '1999-06-17T18:53:26'
+  crc: '0x06ececb4'
+- name: VERT.MAP
+  size: 4105
+  date: '1999-07-17T19:16:42'
+  crc: '0x582981af'
+- name: VERT.PAL
+  size: 768
+  date: '1999-06-25T13:55:30'
+  crc: '0x9fd696c5'
+- name: VERTMAIN.EXE
+  size: 95022
+  date: '1999-07-17T19:26:52'
+  crc: '0x6bf6277b'
+- name: enemys\
+  size: 0
+  date: '2019-01-24T06:53:24'
+- name: enemys\1.en
+  size: 849
+  date: '1999-07-02T19:15:12'
+  crc: '0x76e393db'
+- name: enemys\2.en
+  size: 151
+  date: '1999-06-25T21:27:06'
+  crc: '0xbcf09cbd'
+- name: enemys\3.en
+  size: 179
+  date: '1999-07-17T19:25:32'
+  crc: '0x907138c7'
+- name: enemys\4.EN
+  size: 69
+  date: '1999-07-17T19:25:36'
+  crc: '0x64d2a7d7'
+- name: enemys\5.EN
+  size: 70
+  date: '1999-07-17T19:25:40'
+  crc: '0x37f7f29f'
+- name: enemys\6.EN
+  size: 71
+  date: '1999-07-17T19:25:44'
+  crc: '0x4e9f9552'
+- name: enemys\7.EN
+  size: 70
+  date: '1999-07-17T19:25:48'
+  crc: '0xd00dcede'
+- name: vert.put
+  size: 2087
+  date: '1999-07-17T15:57:20'
+  crc: '0xfbc09c87'
+- name: vert3.put
+  size: 735
+  date: '1999-07-17T15:47:30'
+  crc: '0x78b37807'

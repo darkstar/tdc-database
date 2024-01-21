@@ -1,0 +1,28 @@
+filename: Paddle Wars (1994)(William Yu) [Action].zip
+tdc_id: '10588.0'
+title:
+  screen: Paddle Wars
+publisher: William Yu
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T22:02:36'
+  last_modified: '2019-03-01T22:02:36'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 26
+  date: '2018-03-10T23:43:12'
+  crc: '0x8235778d'
+- name: PADDLE.BAS
+  size: 6788
+  date: '2018-03-09T18:34:20'
+  crc: '0x7e4509c9'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'

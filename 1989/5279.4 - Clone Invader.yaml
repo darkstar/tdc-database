@@ -1,0 +1,30 @@
+filename: Clone Invader v4.4 [SW] (1989)(Gary Quiring) [Action].zip
+tdc_id: '5279.4'
+title:
+  screen: Clone Invader
+publisher: Gary Quiring
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:27:26'
+  last_modified: '2019-03-01T18:27:26'
+version: '4.4'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: CLONINV.EXE
+references:
+  dosid: DOS01408
+  exodos: Clone Invader (1989).zip
+files:
+- name: CLONINV.DOC
+  size: 7682
+  date: '1989-09-19T19:36:50'
+  crc: '0xa95f8177'
+- name: CLONINV.EXE
+  size: 127160
+  date: '1989-09-19T19:34:24'
+  crc: '0x90250e16'

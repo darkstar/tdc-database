@@ -1,0 +1,76 @@
+filename: GMario (1997)(Milo Sedlacek) [Action].zip
+tdc_id: '14083.0'
+title:
+  screen: GMario
+publisher: Milo Sedlacek
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:31:38'
+  last_modified: '2019-03-02T10:31:38'
+type: zip
+media: Download
+commands:
+  play: RUN.BAT
+files:
+- name: 7X7LEV.BAS
+  size: 4953
+  date: '2005-03-24T00:14:14'
+  crc: '0x4232a654'
+- name: BIT-1.BAS
+  size: 18671
+  date: '2005-03-24T00:14:40'
+  crc: '0xfe81ea78'
+- name: BLITLIB.PRG
+  size: 8199
+  date: '1997-12-10T15:12:24'
+  crc: '0x23faff39'
+- name: ENGINE.BAS
+  size: 17663
+  date: '1997-12-20T20:18:20'
+  crc: '0x9f6e596a'
+- name: HERO.IMX
+  size: 1333
+  date: '1997-12-17T16:47:58'
+  crc: '0xe5f1a624'
+- name: ICE.LEV
+  size: 3847
+  date: '1997-12-20T14:55:20'
+  crc: '0x12b239fa'
+- name: ICE.TIL
+  size: 65287
+  date: '1997-12-20T13:49:24'
+  crc: '0x73fb5822'
+- name: KEYB2.RTN
+  size: 263
+  date: '1997-11-06T07:45:40'
+  crc: '0xe498bacf'
+- name: LEVEL1.IMX
+  size: 2390
+  date: '1997-12-20T12:35:06'
+  crc: '0x927ec29d'
+- name: MARIO.TLU
+  size: 263
+  date: '1997-12-20T13:49:24'
+  crc: '0x7dd2332e'
+- name: MDENGINE.RTN
+  size: 2055
+  date: '1997-11-08T12:58:06'
+  crc: '0x582bef34'
+- name: NGRAFIX.RTN
+  size: 4103
+  date: '1997-12-20T20:01:06'
+  crc: '0x9637ae11'
+- name: NINTENDO.PAL
+  size: 1031
+  date: '1997-12-11T11:07:40'
+  crc: '0xce2f2be2'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1995-07-11T10:50:00'
+  crc: '0x3152911c'
+- name: RUN.BAT
+  size: 22
+  date: '1997-12-20T20:03:42'
+  crc: '0xe7c667a0'

@@ -1,0 +1,117 @@
+filename: Wander (2015)(P.S.L. Games) [Adventure, Interactive Fiction].zip
+tdc_id: '5036.0'
+title:
+  screen: Wander
+publisher: P.S.L. Games
+year: '2015'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2021-12-12T05:27:40'
+  last_modified: '2021-12-12T05:27:40'
+type: zip
+commands:
+  play: WANDER.EXE
+files:
+- name: CWSDPMI.EXE
+  size: 20125
+  date: '2015-05-05T16:14:08'
+  crc: '0x1d1b569c'
+- name: Makefile
+  size: 931
+  date: '2015-05-05T16:14:08'
+  crc: '0xdc1d1b11'
+- name: WAND1.O
+  size: 28708
+  date: '2015-05-05T16:14:08'
+  crc: '0x69cdd685'
+- name: WAND2.O
+  size: 17565
+  date: '2015-05-05T16:14:08'
+  crc: '0xab195f70'
+- name: WANDER.EXE
+  size: 158000
+  date: '2015-05-05T16:14:08'
+  crc: '0xc9e1fe75'
+- name: WANDGLB.O
+  size: 13497
+  date: '2015-05-05T16:14:08'
+  crc: '0x0c4f4877'
+- name: WANDSYS.O
+  size: 1374
+  date: '2015-05-05T16:14:08'
+  crc: '0xf0838f44'
+- name: Wander.txt
+  size: 12488
+  date: '2015-05-05T16:14:08'
+  crc: '0x0dde3dcb'
+- name: WanderExportReadMe.txt
+  size: 8030
+  date: '2015-05-05T16:14:08'
+  crc: '0xc0b47ea6'
+- name: WanderMisc.txt
+  size: 10624
+  date: '2015-05-05T16:14:08'
+  crc: '0x3d7aa38b'
+- name: WanderWrld.txt
+  size: 17983
+  date: '2015-05-05T16:14:08'
+  crc: '0xce239499'
+- name: a3.msc
+  size: 16083
+  date: '2015-05-05T16:14:08'
+  crc: '0xb7384b61'
+- name: a3.sav
+  size: 179255
+  date: '2015-05-05T16:14:08'
+  crc: '0x977b6b63'
+- name: a3.wld
+  size: 44543
+  date: '2015-05-05T16:14:08'
+  crc: '0xd8d56391'
+- name: castle.msc
+  size: 7120
+  date: '2015-05-05T16:14:08'
+  crc: '0x9806f067'
+- name: castle.wld
+  size: 35347
+  date: '2015-05-05T16:14:08'
+  crc: '0x44a5553c'
+- name: library.msc
+  size: 4440
+  date: '2015-05-05T16:14:08'
+  crc: '0xc36ea2c7'
+- name: library.wld
+  size: 30717
+  date: '2015-05-05T16:14:08'
+  crc: '0x6aa7be5c'
+- name: tut.msc
+  size: 435
+  date: '2015-05-05T16:14:08'
+  crc: '0xb065e7e5'
+- name: tut.wld
+  size: 4363
+  date: '2015-05-05T16:14:08'
+  crc: '0x87f51e51'
+- name: wand1.c
+  size: 30857
+  date: '2015-05-05T16:14:08'
+  crc: '0x8ae808c4'
+- name: wand2.c
+  size: 20188
+  date: '2015-05-05T16:14:08'
+  crc: '0x03da3911'
+- name: wanddef.h
+  size: 9130
+  date: '2015-05-05T16:14:08'
+  crc: '0x149c9ae8'
+- name: wandglb.c
+  size: 5089
+  date: '2015-05-05T16:14:08'
+  crc: '0xea01a05c'
+- name: wandsys.c
+  size: 2297
+  date: '2015-05-05T16:14:08'
+  crc: '0xbd062dea'

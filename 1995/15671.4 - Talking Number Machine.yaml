@@ -1,0 +1,48 @@
+filename: Talking Number Machine v2.2 (Installer) [SW] (1995)(KidStuff Software) [Educational].zip
+tdc_id: '15671.4'
+title:
+  screen: Talking Number Machine
+publisher: KidStuff Software
+year: '1995'
+genre: Educational
+language: English
+date:
+  added: '2019-01-27T04:36:52'
+  last_modified: '2019-01-27T04:36:52'
+version: '2.2'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 313
+  date: '1995-03-19T16:37:26'
+  crc: '0xee86ebff'
+- name: INSTALL.EXE
+  size: 34554
+  date: '1994-04-18T12:00:00'
+  crc: '0x7aeabd9c'
+- name: INSTALL.FIL
+  size: 3974
+  date: '1995-03-19T16:37:26'
+  crc: '0xa44b0fc7'
+- name: TNUM22.001
+  size: 87952
+  date: '1995-03-19T16:37:54'
+  crc: '0x731d6436'
+- name: TNUM22.002
+  size: 362496
+  date: '1995-03-19T16:37:54'
+  crc: '0x5f8f4ef1'
+- name: TNUM22.PCX
+  size: 41721
+  date: '1995-03-19T16:37:26'
+  crc: '0xe58f1d08'
+- name: VENDOR.DOC
+  size: 4528
+  date: '1995-03-19T16:37:26'
+  crc: '0x208b47a1'

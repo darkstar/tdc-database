@@ -1,0 +1,36 @@
+filename: Witchaven (demo) Patch2 (1995)(IntraCorp, Inc.) [Action, Addon].zip
+tdc_id: '3824.11'
+title:
+  screen: Witchaven
+  qualifier: demo
+publisher: IntraCorp, Inc.
+year: '1995'
+genre:
+- Action
+- Addon
+language: English
+date:
+  added: '2022-10-26T07:43:59'
+  last_modified: '2022-10-26T07:43:59'
+type: zip
+demo: true
+patch: true
+references:
+  mobygames: https://www.mobygames.com/game/dos/witchaven
+files:
+- name: SETUP.DAT
+  size: 46
+  date: '1995-07-29T15:28:48'
+  crc: '0x1a2d737d'
+- name: SETUP.EXE
+  size: 50640
+  date: '1995-07-29T16:44:42'
+  crc: '0xb7a171e8'
+- name: WH.EXE
+  size: 520912
+  date: '1995-07-31T16:35:54'
+  crc: '0x1386d0ae'
+- name: WHAVEN.BAT
+  size: 87
+  date: '1995-07-29T14:12:50'
+  crc: '0x47d08c93'

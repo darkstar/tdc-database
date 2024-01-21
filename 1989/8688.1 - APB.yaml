@@ -1,0 +1,98 @@
+filename: APB [a1] (1989)(Domark Software, Inc.) [Action, Racing - Driving].zip
+tdc_id: '8688.1'
+title:
+  box: APB
+publisher: Domark Software, Inc.
+year: '1989'
+genre:
+- Action
+- Racing - Driving
+language: English
+date:
+  added: '2019-03-01T18:27:12'
+  last_modified: '2019-03-01T18:27:12'
+type: zip
+tags:
+- Alternate: 1
+commands:
+  play: APB.EXE
+references:
+  dosid: DOS00816
+  exodos: APB (1989).zip
+files:
+- name: APB.EXE
+  size: 19692
+  date: '1989-11-21T00:23:04'
+  crc: '0x06e9373c'
+- name: BIN.EGA
+  size: 35968
+  date: '1989-10-04T09:35:18'
+  crc: '0xa3b7974c'
+- name: BRIEF.EGA
+  size: 2974
+  date: '1989-10-04T16:46:40'
+  crc: '0x47b3ff62'
+- name: CLOCK.EGA
+  size: 2176
+  date: '1989-10-01T16:33:34'
+  crc: '0xf908acc3'
+- name: CONFESS.EGA
+  size: 7168
+  date: '1989-10-04T16:11:40'
+  crc: '0xcdef334d'
+- name: EGA.BIN
+  size: 27329
+  date: '1989-10-11T12:49:44'
+  crc: '0xbe175577'
+- name: FACES.EGA
+  size: 7742
+  date: '1989-10-05T10:30:30'
+  crc: '0x1d735438'
+- name: LOUSY.EGA
+  size: 8990
+  date: '1989-10-01T16:02:00'
+  crc: '0xcb79db1c'
+- name: MAP1_8.BIN
+  size: 32768
+  date: '1989-08-01T09:45:04'
+  crc: '0xfe9d3af6'
+- name: RESISTO.EGA
+  size: 960
+  date: '1989-10-05T16:23:22'
+  crc: '0x13ef69ba'
+- name: SND.PIN
+  size: 2280
+  date: '1989-09-08T17:59:48'
+  crc: '0x20847f96'
+- name: SPRITES.EGA
+  size: 40251
+  date: '1989-10-06T11:05:54'
+  crc: '0x403183c3'
+- name: STAIRS.EGA
+  size: 44988
+  date: '1989-10-04T13:26:12'
+  crc: '0x89d5b1b1'
+- name: STATS.EGA
+  size: 96
+  date: '1989-10-10T18:50:38'
+  crc: '0xaeb05b8e'
+- name: TALK.EGA
+  size: 8640
+  date: '1989-10-04T16:11:34'
+  crc: '0x19d3d8cc'
+- name: TANDY.BIN
+  size: 28790
+  date: '1989-10-11T12:49:54'
+  crc: '0x596f3eed'
+- name: TILECHRS.EGA
+  size: 8192
+  date: '1989-10-05T15:17:04'
+  crc: '0x3ed92c4e'
+- name: TILEDEFS.BIN
+  size: 5216
+  date: '1989-07-25T09:28:46'
+  crc: '0x1209e32f'
+- name: WORDS.EGA
+  size: 1950
+  date: '1989-10-05T10:38:12'
+  crc: '0x1ae1d721'

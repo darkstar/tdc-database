@@ -1,0 +1,43 @@
+filename: Caribbean Disaster v1.00.410 (Installer) (De) (1995)(Ikarion Software GmbH) [Strategy].zip
+tdc_id: '17315.1'
+title:
+  box: Caribbean Disaster
+  qualifier: Installer
+publisher: Ikarion Software GmbH
+year: '1995'
+genre: Strategy
+language: German
+date:
+  added: '2023-05-17T15:51:55'
+  last_modified: '2023-05-17T15:51:55'
+version: 1.00.410
+type: zip
+media: CD-ROM
+installer: true
+audio:
+- CD-DA
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/7996/caribbean-disaster/
+files:
+- name: INSTALL.000
+  size: 626368
+  date: '1995-11-14T04:10:00'
+  crc: '0x0d460249'
+- name: INSTALL.001
+  size: 9034961
+  date: '1995-11-14T04:10:00'
+  crc: '0xf0d3f22e'
+- name: INSTALL.002
+  size: 136
+  date: '1995-11-14T04:10:00'
+  crc: '0x93bce42a'
+- name: INSTALL.EXE
+  size: 18864
+  date: '1995-11-14T04:10:00'
+  crc: '0xf351a78b'
+- name: README.TXT
+  size: 1371
+  date: '1995-11-04T12:15:48'
+  crc: '0x7785bbc0'

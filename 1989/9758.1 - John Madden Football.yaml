@@ -1,0 +1,45 @@
+filename: John Madden Football (Installer) (1989)(Electronic Arts, Inc.) [Sports].zip
+tdc_id: '9758.1'
+parent_id: '9758.4'
+title:
+  box: John Madden Football
+publisher: Electronic Arts, Inc.
+year: '1989'
+genre: Sports
+language: English
+date:
+  added: '2020-08-04T17:24:16'
+  last_modified: '2020-08-04T17:24:16'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DPLAYS.PEA
+  size: 14386
+  date: '1989-07-17T04:37:24'
+  crc: '0x9987c5d5'
+- name: GAMES.PEA
+  size: 27866
+  date: '1989-07-17T04:37:34'
+  crc: '0x44cf7d21'
+- name: INSTALL.EXE
+  size: 39771
+  date: '1989-08-08T11:23:18'
+  crc: '0xe49d7598'
+- name: MADDEN.IEA
+  size: 6109
+  date: '1989-07-07T05:41:48'
+  crc: '0xb39b4f29'
+- name: MADDEN.PEA
+  size: 189424
+  date: '1989-07-17T04:37:06'
+  crc: '0x8a0d8b76'
+- name: OPLAYS.PEA
+  size: 14941
+  date: '1989-07-17T04:37:14'
+  crc: '0x2aa5d71b'
+- name: TEAMS.PEA
+  size: 10343
+  date: '1989-07-17T04:37:28'
+  crc: '0x0629a038'

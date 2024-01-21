@@ -1,0 +1,32 @@
+filename: CyberBox v4.23 (1994)(Edward D. Collins) [Strategy].zip
+tdc_id: '9452.0'
+title:
+  screen: CyberBox
+publisher: Edward D. Collins
+year: '1994'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T21:55:30'
+  last_modified: '2019-03-01T21:55:30'
+version: '4.23'
+type: zip
+commands:
+  play: ca-cyber.exe
+files:
+- name: ca-cyber.doc
+  size: 67091
+  date: '1994-10-18T11:42:30'
+  crc: '0x6e008fda'
+- name: ca-cyber.exe
+  size: 195006
+  date: '1994-10-18T11:42:22'
+  crc: '0x1318fcc6'
+- name: images01.dat
+  size: 5685
+  date: '1994-10-18T11:42:32'
+  crc: '0xe37d178f'
+- name: vol-001.dat
+  size: 4969
+  date: '1994-10-18T11:42:30'
+  crc: '0x5d6fc951'

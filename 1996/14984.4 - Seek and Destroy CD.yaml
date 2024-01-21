@@ -1,0 +1,72 @@
+filename: Seek and Destroy CD (Installer) [SWR] (1996)(Epic MegaGames, Inc.) [Action].zip
+tdc_id: '14984.4'
+title:
+  screen: Seek and Destroy CD
+publisher: Epic MegaGames, Inc.
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2013-05-06T17:14:48'
+  last_modified: '2013-05-06T17:14:48'
+type: zip
+tags:
+- SharewareRegistered
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: AUTORUN.INF
+  size: 31
+  date: '1996-02-12T16:03:52'
+  crc: '0x4879c0e8'
+- name: CDREADME.DOC
+  size: 2066
+  date: '1996-02-12T16:03:44'
+  crc: '0xf320c273'
+- name: INSTALL.EXE
+  size: 66758
+  date: '1995-10-17T12:56:00'
+  crc: '0x8fab7737'
+- name: INSTALL.INI
+  size: 17130
+  date: '1996-02-15T14:51:00'
+  crc: '0x4f9e8767'
+- name: INSTALL.PIF
+  size: 967
+  date: '1996-03-07T16:41:08'
+  crc: '0x5ca498f3'
+- name: MANUAL\
+  size: 0
+  date: '2007-07-27T19:21:50'
+- name: MANUAL\HELPME.DOC
+  size: 9518
+  date: '1996-02-15T14:52:10'
+  crc: '0xf863d826'
+- name: MANUAL\HELPME.EXE
+  size: 15372
+  date: '1995-09-01T00:00:06'
+  crc: '0x9d34534a'
+- name: MANUAL\LICENSE.DOC
+  size: 7925
+  date: '1996-02-09T10:51:06'
+  crc: '0x3db5a9e9'
+- name: MANUAL\MANUAL.DOC
+  size: 28400
+  date: '1996-02-07T11:47:24'
+  crc: '0xffa837d5'
+- name: MANUAL\ORDER.DOC
+  size: 2968
+  date: '1996-02-07T11:54:22'
+  crc: '0x65b0eabf'
+- name: SAFARI.DOC
+  size: 5694
+  date: '1996-02-12T16:00:06'
+  crc: '0xd8725093'
+- name: SFX\
+  size: 0
+  date: '2007-07-27T19:21:42'
+- name: SFX\SEEKCD.EXE
+  size: 12192758
+  date: '1996-02-09T10:38:10'
+  crc: '0x441bc736'

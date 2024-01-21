@@ -1,0 +1,30 @@
+filename: Poker (1997)(Andrey Berezansky) [Strategy, Cards].zip
+tdc_id: '10362.0'
+title:
+  screen: Poker
+publisher: Andrey Berezansky
+year: '1997'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-02T10:36:22'
+  last_modified: '2019-03-02T10:36:22'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 25
+  date: '2018-11-26T20:11:08'
+  crc: '0xb0d9c473'
+- name: POKER.BAS
+  size: 16316
+  date: '2018-03-10T11:55:06'
+  crc: '0x8bdcbaf5'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

@@ -1,0 +1,28 @@
+filename: Suspect r14 [DC] (1984)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '16366.1'
+title:
+  box: Suspect
+publisher: Infocom, Inc.
+year: '1984'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2022-06-08T07:45:06'
+  last_modified: '2022-06-08T07:45:06'
+release: '14'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: SUSPECT.COM
+files:
+- name: SUSPECT.COM
+  size: 12928
+  date: '1980-01-01T00:00:00'
+  crc: '0x774a661a'
+- name: SUSPECT.DAT
+  size: 146112
+  date: '1980-01-01T00:22:54'
+  crc: '0xd60af9e2'

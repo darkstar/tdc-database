@@ -1,0 +1,35 @@
+filename: Jetset - IFR Flight Simulator [a2] (1983)(BYTE Magazine) [Strategy, Simulation].zip
+tdc_id: '5200.2'
+title:
+  screen: Jetset - IFR Flight Simulator
+publisher: BYTE Magazine
+year: '1983'
+genre:
+- Strategy
+- Simulation
+language: English
+date:
+  added: '2019-03-01T18:23:14'
+  last_modified: '2019-03-01T18:23:14'
+type: zip
+tags:
+- Alternate: 2
+commands:
+  play: JETSET.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: JETSET.BAS
+  size: 25856
+  date: '1980-01-01T01:01:00'
+  crc: '0x6b490458'
+- name: JETSET.BAT
+  size: 16
+  date: '1980-01-01T01:01:00'
+  crc: '0x867a8131'
+- name: JETSET.DOC
+  size: 46080
+  date: '1983-10-13T11:34:00'
+  crc: '0x2c680ba0'

@@ -1,0 +1,48 @@
+filename: CHAMP Centipede [SW] (1993)(CHAMProgramming Corporation) [Action].zip
+tdc_id: '12065.0'
+title:
+  screen: CHAMP Centipede
+publisher: CHAMProgramming Corporation
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2006-10-23T01:00:20'
+  last_modified: '2006-10-23T01:00:20'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: CHMPCENT.EXE
+references:
+  exodos: CHAMP Centipede (1993).zip
+files:
+- name: ALPHA.FNT
+  size: 1024
+  date: '1993-11-10T01:01:50'
+  crc: '0x6ade0542'
+- name: CHAMPROG.SET
+  size: 1643
+  date: '1993-05-21T09:34:40'
+  crc: '0x1bcc4bfe'
+- name: CHMPCENT.CFG
+  size: 13
+  date: '1993-11-14T12:10:20'
+  crc: '0xf78fa334'
+- name: CHMPCENT.DOC
+  size: 3899
+  date: '1993-11-12T20:11:32'
+  crc: '0x636daca8'
+- name: CHMPCENT.EXE
+  size: 139341
+  date: '1993-11-12T22:58:48'
+  crc: '0x5900dddb'
+- name: CHMPCENT.HOF
+  size: 240
+  date: '1993-11-14T12:10:20'
+  crc: '0xd2d11fa0'
+- name: CHMPCENT.SET
+  size: 3649
+  date: '1993-11-12T19:07:58'
+  crc: '0x27f5a953'

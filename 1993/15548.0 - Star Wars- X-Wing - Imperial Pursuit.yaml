@@ -1,0 +1,53 @@
+filename: Star Wars- X-Wing - Imperial Pursuit v1.1 (Installer) (1993)(LucasArts Entertainment Company LLC) [Action, Simulation, Addon].zip
+tdc_id: '15548.0'
+title:
+  box: 'Star Wars: X-Wing - Imperial Pursuit'
+publisher: LucasArts Entertainment Company LLC
+year: '1993'
+genre:
+- Action
+- Simulation
+- Addon
+language: English
+date:
+  added: '2019-03-01T21:08:52'
+  last_modified: '2019-03-01T21:08:52'
+version: '1.1'
+type: zip
+installer: true
+files:
+- name: DETECT.EXE
+  size: 5400
+  date: '1993-05-12T18:30:00'
+  crc: '0xe4c8eab1'
+- name: DISK.ID
+  size: 61
+  date: '1993-06-08T16:52:42'
+  crc: '0xb18ad8de'
+- name: FLIGHT.OVL
+  size: 250282
+  date: '1993-07-14T11:18:14'
+  crc: '0xe9532234'
+- name: FRONTEND.OVL
+  size: 565824
+  date: '1993-06-12T14:23:24'
+  crc: '0x8efbdada'
+- name: INSTALL.EXE
+  size: 138083
+  date: '1992-07-28T12:00:00'
+  crc: '0x6b8453b2'
+- name: MS-DOS_5
+  size: 0
+  date: '1993-05-22T20:19:12'
+- name: READ.ME
+  size: 13915
+  date: '1993-06-08T10:39:44'
+  crc: '0x58ab21e3'
+- name: TOD4.001
+  size: 1260888
+  date: '1993-06-08T16:54:56'
+  crc: '0x7ee86d44'
+- name: XWING.EXE
+  size: 270751
+  date: '1993-06-12T14:23:40'
+  crc: '0xefbf14a3'

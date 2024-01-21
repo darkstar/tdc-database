@@ -1,0 +1,58 @@
+filename: Cybercon III (1992)(U.S. Gold Ltd.) [Action, Adventure].zip
+tdc_id: '12266.0'
+title:
+  box: Cybercon III
+publisher: U.S. Gold Ltd.
+year: '1992'
+genre:
+- Action
+- Adventure
+language: English
+date:
+  added: '2019-03-01T18:42:06'
+  last_modified: '2019-03-01T18:42:06'
+type: zip
+references:
+  dosid: DOS01596
+  exodos: Cybercon III (1991).zip
+files:
+- name: ADLIB.BIN
+  size: 8297
+  date: '1992-03-30T09:36:12'
+  crc: '0xd6e25a4f'
+- name: BT1.BIN
+  size: 5408
+  date: '1992-03-27T17:31:20'
+  crc: '0xab8297d9'
+- name: CYB.LBM
+  size: 17750
+  date: '1992-03-30T09:36:12'
+  crc: '0x9d81f347'
+- name: CYBERCON.EXE
+  size: 2209
+  date: '1992-06-03T21:01:16'
+  crc: '0xfca73a0e'
+- name: MAIN.EXE
+  size: 294464
+  date: '1992-08-04T18:57:32'
+  crc: '0x06b88926'
+- name: RDAT.BIN
+  size: 204912
+  date: '1992-06-16T17:11:44'
+  crc: '0x9b5cfe71'
+- name: RT1.BIN
+  size: 6150
+  date: '1992-05-27T19:34:56'
+  crc: '0x78ca14ee'
+- name: START.BAT
+  size: 65
+  date: '1992-08-04T17:16:40'
+  crc: '0xc427d538'
+- name: SYS.BIN
+  size: 14842
+  date: '1992-05-21T16:20:10'
+  crc: '0x884161dd'
+- name: VGACON.BIN
+  size: 23528
+  date: '1992-05-21T16:57:26'
+  crc: '0x2557da8a'

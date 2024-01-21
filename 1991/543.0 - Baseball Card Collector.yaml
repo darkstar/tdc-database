@@ -1,0 +1,32 @@
+filename: Baseball Card Collector (Installer) (1991)(Konami Co., Ltd.) [Sports].zip
+tdc_id: '543.0'
+title:
+  box: Baseball Card Collector
+publisher: Konami Co., Ltd.
+year: '1991'
+genre: Sports
+language: English
+date:
+  added: '2019-03-01T18:34:56'
+  last_modified: '2019-03-01T18:34:56'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.CFG
+  size: 179
+  date: '1991-04-23T15:33:24'
+  crc: '0xd9140e31'
+- name: INSTALL.EXE
+  size: 83837
+  date: '1989-09-22T01:00:00'
+  crc: '0x5808fdab'
+- name: INSTALL.F01
+  size: 645120
+  date: '1991-04-23T15:32:16'
+  crc: '0x557ba8cd'
+- name: INSTALL.F02
+  size: 353122
+  date: '1991-04-23T15:33:10'
+  crc: '0x8e4ce135'

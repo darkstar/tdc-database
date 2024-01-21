@@ -1,0 +1,38 @@
+filename: Tetris (1996)(Eric Davidson) [Action, Strategy].zip
+tdc_id: '16571.0'
+title:
+  screen: Tetris
+publisher: Eric Davidson
+year: '1996'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-02T10:21:50'
+  last_modified: '2019-03-02T10:21:50'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 26
+  date: '2018-11-26T15:01:32'
+  crc: '0x11eaedb5'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: SMALL.TXT
+  size: 1909
+  date: '1996-09-06T11:03:16'
+  crc: '0x70143647'
+- name: TETRIS.BAS
+  size: 17994
+  date: '1996-10-27T12:29:08'
+  crc: '0xfaede293'
+- name: TETRIS.EXE
+  size: 40590
+  date: '1997-04-12T01:51:46'
+  crc: '0xef451b48'

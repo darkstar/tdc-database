@@ -1,0 +1,29 @@
+filename: Remembered, The v1.6 (2001)(Shane Rudolph) [Strategy].zip
+tdc_id: '4750.0'
+title:
+  screen: The Remembered
+publisher: Shane Rudolph
+year: '2001'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:55:42'
+  last_modified: '2019-03-02T10:55:42'
+version: '1.6'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 27
+  date: '2018-12-15T17:45:58'
+  crc: '0xef739446'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: REMEM16.BAS
+  size: 26355
+  date: '2002-02-09T12:13:20'
+  crc: '0x13c98cf3'

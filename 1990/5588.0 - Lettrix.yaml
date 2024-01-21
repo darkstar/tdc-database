@@ -1,0 +1,54 @@
+filename: Lettrix (De) (1990)(Software 2000) [Strategy].zip
+tdc_id: '5588.0'
+title:
+  box: Lettrix
+publisher: Software 2000
+year: '1990'
+genre: Strategy
+language: German
+date:
+  added: '2019-03-01T18:33:06'
+  last_modified: '2019-03-01T18:33:06'
+type: zip
+commands:
+  play: LETTRIX.EXE
+references:
+  dosid: DOS06142
+  exodos: Lettrix (1990).zip
+files:
+- name: COOP
+  size: 918
+  date: '1991-05-03T22:05:56'
+  crc: '0x3968f128'
+- name: LETTRIX.ABC
+  size: 640
+  date: '1990-10-14T17:21:48'
+  crc: '0xafc897ee'
+- name: LETTRIX.BRS
+  size: 27264
+  date: '1990-10-28T17:57:06'
+  crc: '0xd0e88611'
+- name: LETTRIX.EXE
+  size: 16270
+  date: '1990-11-02T15:28:24'
+  crc: '0xdd2b1a26'
+- name: LETTRIX.GFX
+  size: 288
+  date: '1990-10-14T14:00:36'
+  crc: '0x8d123a53'
+- name: LETTRIX.LVL
+  size: 20500
+  date: '1990-10-15T18:55:42'
+  crc: '0x3b6b4453'
+- name: LETTRIX.SCO
+  size: 154
+  date: '1991-06-18T02:57:58'
+  crc: '0x0d46352f'
+- name: LETTRIX.SCR
+  size: 112000
+  date: '1990-10-28T17:51:28'
+  crc: '0x2f43892a'
+- name: LETTRIX.TTL
+  size: 112000
+  date: '1990-10-27T15:37:28'
+  crc: '0x0ee317f8'

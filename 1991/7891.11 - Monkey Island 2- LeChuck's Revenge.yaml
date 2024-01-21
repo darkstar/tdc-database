@@ -1,0 +1,63 @@
+filename: Monkey Island 2- LeChuck's Revenge (VGA) (1991)(Lucasfilm Games LLC) [Adventure].zip
+tdc_id: '7891.11'
+title:
+  box: 'Monkey Island 2: LeChuck''s Revenge'
+  qualifier: VGA
+publisher: Lucasfilm Games LLC
+year: '1991'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:36:58'
+  last_modified: '2019-03-01T18:36:58'
+type: zip
+commands:
+  play: MONKEY2.EXE
+references:
+  dosid: DOS03605
+  exodos: Monkey Island 2 - LeChuck's Revenge (1991).zip
+files:
+- name: ADLIB.IMS
+  size: 20736
+  date: '1996-08-09T11:15:08'
+  crc: '0xde961111'
+- name: MONKEY2.000
+  size: 11135
+  date: '1992-03-01T19:39:56'
+  crc: '0xc516b625'
+- name: MONKEY2.001
+  size: 9080329
+  date: '1992-03-01T19:39:56'
+  crc: '0x7d304571'
+- name: MONKEY2.EXE
+  size: 114195
+  date: '1996-09-06T17:32:50'
+  crc: '0xc568563e'
+- name: ROLAND.IMS
+  size: 18976
+  date: '1992-05-15T13:32:38'
+  crc: '0x3f89f7f5'
+- name: ROL_330.IMS
+  size: 18976
+  date: '1992-05-14T15:49:30'
+  crc: '0x3f89f7f5'
+- name: ROL_332.IMS
+  size: 18976
+  date: '1992-05-14T15:54:02'
+  crc: '0x21d0bd5e'
+- name: ROL_334.IMS
+  size: 18976
+  date: '1992-05-14T15:54:34'
+  crc: '0xe29b1790'
+- name: ROL_336.IMS
+  size: 18976
+  date: '1992-05-14T15:55:12'
+  crc: '0xe8cf61a6'
+- name: SOUNBLAS.IMS
+  size: 24904
+  date: '1996-08-09T11:15:08'
+  crc: '0xab14b477'
+- name: SPEAKER.IMS
+  size: 20062
+  date: '1992-05-15T13:32:40'
+  crc: '0x4fb49af3'

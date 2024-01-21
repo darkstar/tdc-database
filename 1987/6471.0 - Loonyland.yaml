@@ -1,0 +1,24 @@
+filename: Loonyland (Pinball Construction Set) (1987)(R.G. Hays) [Action].zip
+tdc_id: '6471.0'
+title:
+  screen: Loonyland
+  qualifier: Pinball Construction Set
+publisher: R.G. Hays
+year: '1987'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:25:26'
+  last_modified: '2019-03-01T18:25:26'
+type: zip
+requirements:
+  cpu:
+    min: '8088'
+media: Download
+commands:
+  play: LOONYLND.COM
+files:
+- name: LOONYLND.COM
+  size: 64512
+  date: '1987-02-18T07:02:16'
+  crc: '0xb0e670f5'

@@ -1,0 +1,99 @@
+filename: Peter Schmeichel Soccer Manager [f1] (1992)(Zeppelin Games Limited) [Sports].zip
+tdc_id: '10178.0'
+title:
+  box: Peter Schmeichel Soccer Manager
+publisher: Zeppelin Games Limited
+year: '1992'
+genre: Sports
+language: English
+date:
+  added: '2019-03-01T18:49:56'
+  last_modified: '2019-03-01T18:49:56'
+type: zip
+tags:
+- Fixed: 1
+commands:
+  play: PSSM.EXE
+references:
+  dosid: DOS02446
+  exodos: Graeme Souness Soccer Manager (1992).zip
+files:
+- name: GRAPHICS\
+  size: 0
+  date: '2016-12-29T12:24:46'
+- name: GRAPHICS\ARROW.DAT
+  size: 32000
+  date: '1987-04-22T02:09:22'
+  crc: '0x69893bf1'
+- name: GRAPHICS\BANK.LBM
+  size: 10838
+  date: '1991-04-19T19:31:00'
+  crc: '0x7cca48aa'
+- name: GRAPHICS\BFONT.DAT
+  size: 11520
+  date: '1992-03-11T11:05:56'
+  crc: '0x8664b732'
+- name: GRAPHICS\BLUBAK.LBM
+  size: 18028
+  date: '1991-04-19T19:31:00'
+  crc: '0xdadcc9d0'
+- name: GRAPHICS\BLUEBAK.EGA
+  size: 18228
+  date: '1993-04-06T13:42:32'
+  crc: '0xef07ddfc'
+- name: GRAPHICS\CHAR.BIN
+  size: 512
+  date: '1992-02-24T17:40:54'
+  crc: '0xc2c88d63'
+- name: GRAPHICS\DISK.LBM
+  size: 12110
+  date: '1994-01-13T11:06:58'
+  crc: '0x09d94d23'
+- name: GRAPHICS\DISK1.LBM
+  size: 10012
+  date: '1994-01-13T11:15:22'
+  crc: '0xf8e41659'
+- name: GRAPHICS\ICONS1.AM
+  size: 32066
+  date: '1992-03-11T11:02:54'
+  crc: '0xe9e10de8'
+- name: GRAPHICS\ICONS2.AM
+  size: 32066
+  date: '1992-03-11T11:03:06'
+  crc: '0x185b236b'
+- name: GRAPHICS\LOADER.LBM
+  size: 22528
+  date: '1992-09-02T14:36:00'
+  crc: '0xd09ab66a'
+- name: GRAPHICS\MAINSCR.LBM
+  size: 29368
+  date: '1991-04-19T19:32:00'
+  crc: '0x809270cf'
+- name: GRAPHICS\PITCH.LBM
+  size: 22490
+  date: '1991-04-19T19:31:00'
+  crc: '0xb42ab8d4'
+- name: GRAPHICS\REV.TAB
+  size: 256
+  date: '1991-04-19T17:55:00'
+  crc: '0xa977ad6d'
+- name: GRAPHICS\SBOARD.LBM
+  size: 8888
+  date: '1991-04-19T19:31:00'
+  crc: '0x0fe3342e'
+- name: GRAPHICS\SMALLBIT.LBM
+  size: 17724
+  date: '1991-04-19T19:32:00'
+  crc: '0xb89d4147'
+- name: PSSM.EXE
+  size: 91343
+  date: '2016-12-29T12:34:28'
+  crc: '0xcf5f1875'
+- name: PSSM.EX_
+  size: 91343
+  date: '1993-04-18T17:01:32'
+  crc: '0xfc53c976'
+- name: SETUP.DAT
+  size: 6
+  date: '2016-12-29T12:35:42'
+  crc: '0xc2221563'

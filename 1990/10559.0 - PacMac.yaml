@@ -1,0 +1,35 @@
+filename: PacMac (1990)(H. Wilhelm) [Action].zip
+tdc_id: '10559.0'
+title:
+  screen: PacMac
+publisher: H. Wilhelm
+year: '1990'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:33:28'
+  last_modified: '2019-03-01T18:33:28'
+type: zip
+commands:
+  play: PAC.EXE
+files:
+- name: CGA.BGI
+  size: 6029
+  date: '1987-12-09T04:00:00'
+  crc: '0xcd2d7722'
+- name: PAC.EXE
+  size: 84896
+  date: '1990-02-13T18:11:14'
+  crc: '0x165f296c'
+- name: PACMAC.LEV
+  size: 15856
+  date: '1990-02-15T12:14:12'
+  crc: '0x759bdc4c'
+- name: PACMACH.TOP
+  size: 190
+  date: '1990-02-15T12:23:08'
+  crc: '0xcf99be11'
+- name: TRIP.CHR
+  size: 7213
+  date: '1987-12-09T04:00:00'
+  crc: '0xb0fb0cbe'

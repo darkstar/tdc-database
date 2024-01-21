@@ -1,0 +1,42 @@
+filename: QB Defender [FW] (1997)(Tim Truman) [Action].zip
+tdc_id: '10763.1'
+title:
+  screen: QB Defender
+publisher: Tim Truman
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:37:00'
+  last_modified: '2019-03-02T10:37:00'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: start.bat
+files:
+- name: ASCII5X7.FNT
+  size: 8967
+  date: '1995-05-12T07:14:46'
+  crc: '0x12954dfc'
+- name: NUM3X5.FNT
+  size: 307
+  date: '1995-05-02T17:42:54'
+  crc: '0x5d0482b1'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1995-07-11T10:50:00'
+  crc: '0x3152911c'
+- name: QBDEFEND.BAS
+  size: 117137
+  date: '1997-04-30T10:12:40'
+  crc: '0xdd862297'
+- name: QBDEFEND.TXT
+  size: 318
+  date: '1997-04-30T09:52:50'
+  crc: '0x9ee1607c'
+- name: start.bat
+  size: 26
+  date: '2014-03-19T16:59:00'
+  crc: '0x601b3680'

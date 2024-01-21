@@ -1,0 +1,28 @@
+filename: Bagels (1996)(James Hooker) [Strategy].zip
+tdc_id: '161.0'
+title:
+  screen: Bagels
+publisher: James Hooker
+year: '1996'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T09:59:24'
+  last_modified: '2019-03-02T09:59:24'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: BAGELS.BAS
+  size: 3527
+  date: '2018-03-10T02:24:40'
+  crc: '0x10581f6a'
+- name: GO.BAT
+  size: 26
+  date: '2018-06-29T02:16:34'
+  crc: '0x6636482d'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T01:28:02'
+  crc: '0x19f6ed75'

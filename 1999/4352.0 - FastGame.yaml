@@ -1,0 +1,35 @@
+filename: FastGame (1999)(Digital Murder, Skytech, JFF) [Action].zip
+tdc_id: '4352.0'
+title:
+  screen: FastGame
+publisher: Digital Murder, Skytech, JFF
+year: '1999'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:46:06'
+  last_modified: '2019-03-02T10:46:06'
+type: zip
+commands:
+  play: GAME.EXE
+files:
+- name: FAST.ASM
+  size: 74906
+  date: '1999-04-18T06:40:32'
+  crc: '0x7a107758'
+- name: FAST.DIZ
+  size: 186
+  date: '1999-01-19T07:07:14'
+  crc: '0x3b94140a'
+- name: GAME.EXE
+  size: 97305
+  date: '1999-04-18T06:44:26'
+  crc: '0xa9667ec1'
+- name: JEU.NFO
+  size: 1038
+  date: '1999-04-18T07:22:02'
+  crc: '0xf52355df'
+- name: MAKEFILE
+  size: 431
+  date: '1999-04-18T03:31:24'
+  crc: '0x87e03d40'

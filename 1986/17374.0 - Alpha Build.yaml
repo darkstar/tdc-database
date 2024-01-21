@@ -1,0 +1,26 @@
+filename: Alpha Build (1986)(Fisher-Price) [Educational].zip
+tdc_id: '17374.0'
+title:
+  box: Alpha Build
+publisher: Fisher-Price
+year: '1986'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T18:24:38'
+  last_modified: '2019-03-01T18:24:38'
+type: zip
+commands:
+  play: ALPHA.EXE
+references:
+  dosid: DOS07601
+  exodos: Alpha Build (1986).zip
+files:
+- name: ALPHA.EXE
+  size: 72132
+  date: '1985-09-11T01:54:32'
+  crc: '0x155bccfa'
+- name: SCREEN.SCR
+  size: 16000
+  date: '1980-01-01T00:10:48'
+  crc: '0x7c66f97e'

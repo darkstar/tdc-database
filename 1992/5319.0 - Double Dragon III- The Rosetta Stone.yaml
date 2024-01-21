@@ -1,0 +1,35 @@
+filename: Double Dragon III- The Rosetta Stone (1992)(Storm, Tradewest, Inc.) [Action].zip
+tdc_id: '5319.0'
+parent_id: '5319.2'
+title:
+  screen: 'Double Dragon III: The Rosetta Stone'
+publisher: Storm, Tradewest, Inc.
+year: '1992'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:42:28'
+  last_modified: '2019-03-01T18:42:28'
+type: zip
+commands:
+  play: DD3.EXE
+references:
+  dosid: DOS01842
+  exodos: Double Dragon III - The Sacred Stones (1992).zip
+files:
+- name: DD3.EXE
+  size: 89809
+  date: '1992-07-25T18:28:30'
+  crc: '0xdc728aca'
+- name: DD3FILES.001
+  size: 240640
+  date: '1992-07-25T18:28:32'
+  crc: '0x2bf0fc23'
+- name: DD3FILES.002
+  size: 338967
+  date: '1992-07-25T18:28:36'
+  crc: '0x68283aa1'
+- name: DD3FILES.DIR
+  size: 8944
+  date: '1992-07-25T18:28:30'
+  crc: '0x6591bab1'

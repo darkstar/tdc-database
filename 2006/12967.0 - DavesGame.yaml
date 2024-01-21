@@ -1,0 +1,79 @@
+filename: DavesGame (2006)(Scott Haag) [Action].zip
+tdc_id: '12967.0'
+title:
+  screen: DavesGame
+publisher: Scott Haag
+year: '2006'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:57:12'
+  last_modified: '2019-03-02T10:57:12'
+type: zip
+commands:
+  play: GAME.EXE
+files:
+- name: BKGRND.PCX
+  size: 23617
+  date: '1995-07-22T21:21:08'
+  crc: '0xcf68a7bc'
+- name: DAVEGUYS.DAT
+  size: 312014
+  date: '1995-07-26T22:10:20'
+  crc: '0x6ba90bf5'
+- name: DAVEMAP.MAP
+  size: 30000
+  date: '1995-07-27T15:53:56'
+  crc: '0x4ed1b335'
+- name: DAVEOBJ.DAT
+  size: 38802
+  date: '1995-07-27T15:51:52'
+  crc: '0x389248db'
+- name: DAVETIL.DAT
+  size: 31202
+  date: '1995-07-02T13:57:12'
+  crc: '0x37c9e2d1'
+- name: DOS4GW.EXE
+  size: 265420
+  date: '1994-09-01T11:00:00'
+  crc: '0xcb214447'
+- name: GAME.EXE
+  size: 139773
+  date: '1995-10-07T15:56:34'
+  crc: '0x3e0bb25d'
+- name: GAME.MAP
+  size: 30360
+  date: '1995-09-25T21:54:00'
+  crc: '0x196dd512'
+- name: MAPGUY.DAT
+  size: 2402
+  date: '1995-07-25T23:33:34'
+  crc: '0xd435f840'
+- name: MISC.DAT
+  size: 26402
+  date: '1995-08-13T12:55:28'
+  crc: '0x7d9a927c'
+- name: ReadMe.txt
+  size: 774
+  date: '2006-07-16T21:06:48'
+  crc: '0xfd351c51'
+- name: SCOTT.PAL
+  size: 768
+  date: '1994-06-24T13:01:52'
+  crc: '0x4c755239'
+- name: STRAT.MAP
+  size: 30000
+  date: '1995-08-19T12:35:20'
+  crc: '0x57aa711a'
+- name: STRATGUY.DAT
+  size: 2402
+  date: '1995-07-25T23:33:34'
+  crc: '0xd435f840'
+- name: STRATOBJ.DAT
+  size: 18802
+  date: '1995-08-19T12:29:04'
+  crc: '0x190443f0'
+- name: STRATTIL.DAT
+  size: 16802
+  date: '1995-08-12T15:35:24'
+  crc: '0x1500ff41'

@@ -1,0 +1,28 @@
+filename: Chess (1981)(M.C. Rakaska, S.W. Huggins) [Strategy, Chess].zip
+tdc_id: '5156.0'
+title:
+  screen: Chess
+publisher: M.C. Rakaska, S.W. Huggins
+year: '1981'
+genre:
+- Strategy
+- Chess
+language: English
+date:
+  added: '2019-03-01T18:22:54'
+  last_modified: '2019-03-01T18:22:54'
+type: zip
+commands:
+  play: Chess.exe
+references:
+  dosid: DOS01355
+  exodos: Chess (1981).zip
+files:
+- name: Chess.bas
+  size: 19129
+  date: '2007-01-31T19:46:20'
+  crc: '0x50577473'
+- name: Chess.exe
+  size: 46464
+  date: '1998-12-25T19:46:00'
+  crc: '0x826d1c0d'

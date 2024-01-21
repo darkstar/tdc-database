@@ -1,0 +1,53 @@
+filename: Inferno v1.104 (Installer) (1994)(Ocean of America, Inc.) [Action].zip
+tdc_id: '11484.2'
+title:
+  box: Inferno
+publisher: Ocean of America, Inc.
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T22:00:50'
+  last_modified: '2019-03-01T22:00:50'
+version: '1.104'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK1.DAT
+  size: 1413568
+  date: '1992-02-26T14:57:38'
+  crc: '0x8d5cc53c'
+- name: DISK2.DAT
+  size: 1453569
+  date: '1992-02-26T14:57:40'
+  crc: '0xd46e8813'
+- name: DISK3.DAT
+  size: 1453569
+  date: '1992-02-26T14:57:40'
+  crc: '0x59084295'
+- name: DISK4.DAT
+  size: 1453569
+  date: '1992-02-26T15:32:44'
+  crc: '0x50f2d74a'
+- name: DISK5.DAT
+  size: 1453569
+  date: '1995-06-08T21:41:08'
+  crc: '0x672ff374'
+- name: DISK6.DAT
+  size: 1453569
+  date: '1995-06-08T21:45:12'
+  crc: '0xcbb5714c'
+- name: DISK7.DAT
+  size: 1453569
+  date: '1995-06-08T21:55:18'
+  crc: '0x78d3fa50'
+- name: DISK8.DAT
+  size: 1210496
+  date: '1995-06-08T22:05:50'
+  crc: '0x42f246b0'
+- name: INSTALL.EXE
+  size: 23687
+  date: '1992-02-26T15:03:10'
+  crc: '0x6e2c475f'

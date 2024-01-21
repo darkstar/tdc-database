@@ -1,0 +1,41 @@
+filename: Black Gold Demo (Installer) (De) (1991)(Starbyte Software) [Simulation, Strategy].zip
+tdc_id: '8540.4'
+title:
+  screen: Black Gold Demo
+publisher: Starbyte Software
+year: '1991'
+genre:
+- Simulation
+- Strategy
+language: German
+date:
+  added: '2019-03-01T18:35:02'
+  last_modified: '2022-11-16T13:17:25'
+type: zip
+installer: true
+demo: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/black-gold_
+files:
+- name: BLACK_1.PAK
+  size: 361472
+  date: '1992-09-21T17:14:16'
+  crc: '0x3d5ad999'
+- name: BLACK_2.PAK
+  size: 361469
+  date: '1992-09-21T17:14:10'
+  crc: '0x3a3570ef'
+- name: BLACK_3.PAK
+  size: 328257
+  date: '1992-09-21T17:14:20'
+  crc: '0xeab44a52'
+- name: INSTALL.CFG
+  size: 1322
+  date: '1992-09-21T17:14:20'
+  crc: '0xd14072fe'
+- name: INSTALL.EXE
+  size: 24836
+  date: '1992-09-21T17:14:16'
+  crc: '0xab4772c2'

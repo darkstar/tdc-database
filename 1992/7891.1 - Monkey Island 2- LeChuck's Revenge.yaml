@@ -1,0 +1,52 @@
+filename: Monkey Island 2- LeChuck's Revenge v1.0D (De) (1992)(Softgold Computerspiele GmbH) [Adventure].zip
+tdc_id: '7891.1'
+parent_id: '7891.5'
+title:
+  box: 'Monkey Island 2: LeChuck''s Revenge'
+publisher: Softgold Computerspiele GmbH
+year: '1992'
+genre: Adventure
+language: German
+date:
+  added: '2019-03-01T18:36:56'
+  last_modified: '2023-12-05T10:34:14'
+version: 1.0D
+type: zip
+media: 1.44M
+commands:
+  play: MONKEY2.EXE
+references:
+  mobygames: https://www.mobygames.com/game/289/monkey-island-2-lechucks-revenge/
+files:
+- name: ADLIB.IMS
+  size: 20624
+  date: '1992-03-05T18:22:50'
+  crc: '0x5e3d83ce'
+- name: MONKEY2.000
+  size: 11135
+  date: '1992-03-05T18:22:50'
+  crc: '0x49d92aaa'
+- name: MONKEY2.001
+  size: 9108377
+  date: '1992-03-05T18:22:50'
+  crc: '0x7aa75f6e'
+- name: MONKEY2.EXE
+  size: 110811
+  date: '1992-03-05T18:22:50'
+  crc: '0x0b23aa36'
+- name: MONKEY2.EX_
+  size: 110811
+  date: '1992-03-05T18:22:50'
+  crc: '0xe8c548b4'
+- name: ROLAND.IMS
+  size: 18976
+  date: '1992-03-05T18:22:50'
+  crc: '0x8e983877'
+- name: SOUNBLAS.IMS
+  size: 24808
+  date: '1992-03-05T18:22:50'
+  crc: '0xa95c63ec'
+- name: SPEAKER.IMS
+  size: 20062
+  date: '1992-03-05T18:22:50'
+  crc: '0xdb85d8fd'

@@ -1,0 +1,33 @@
+filename: Corridor 7- Alien Invasion Beta Demo (Installer) [a1] (1994)(Capstone Software) [Action].zip
+tdc_id: '9341.6'
+title:
+  screen: 'Corridor 7: Alien Invasion Beta Demo'
+publisher: Capstone Software
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T21:55:24'
+  last_modified: '2022-11-16T15:26:10'
+type: zip
+tags:
+- Alternate: 1
+installer: true
+demo: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/corridor-7-alien-invasion
+files:
+- name: CORR7.CMP
+  size: 1226476
+  date: '1994-01-28T17:05:08'
+  crc: '0x9d2b7a36'
+- name: INSTALL.EXE
+  size: 37034
+  date: '1994-01-27T13:47:06'
+  crc: '0xd8be4283'
+- name: UCMP.EXE
+  size: 26385
+  date: '1992-11-29T19:52:10'
+  crc: '0xb7c6c86b'

@@ -1,0 +1,28 @@
+filename: Passage v2.5 (Installer) (De) [SW] (1993)(Gekko Software GmbH) [Strategy].zip
+tdc_id: '2762.0'
+title:
+  screen: Passage
+publisher: Gekko Software GmbH
+year: '1993'
+genre: Strategy
+language: German
+date:
+  added: '2019-03-01T19:15:52'
+  last_modified: '2019-03-01T19:15:52'
+version: '2.5'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 9219
+  date: '1993-06-10T02:50:00'
+  crc: '0x489a008e'
+- name: PASSAGE.DAT
+  size: 240476
+  date: '1993-06-10T02:50:00'
+  crc: '0xed8a58b5'

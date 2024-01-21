@@ -1,0 +1,28 @@
+filename: Microsoft QShips (1990)(Microsoft Corporation) [Strategy].zip
+tdc_id: '6549.0'
+title:
+  screen: Microsoft QShips
+publisher: Microsoft Corporation
+year: '1990'
+genre: Strategy
+language: English
+date:
+  added: '2023-01-30T14:57:10'
+  last_modified: '2023-01-30T14:57:10'
+type: zip
+media: Download
+commands:
+  play: qship.bat
+files:
+- name: QBASIC.EXE
+  size: 194309
+  date: '1994-05-31T07:22:00'
+  crc: '0x3152911c'
+- name: Qship.bas
+  size: 56073
+  date: '2022-02-26T18:49:32'
+  crc: '0x1e70f2c9'
+- name: qship.bat
+  size: 16
+  date: '2023-01-19T13:22:58'
+  crc: '0x475206d3'

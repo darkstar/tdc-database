@@ -1,0 +1,28 @@
+filename: Target (1998)(Chris Pulley) [Action].zip
+tdc_id: '4266.0'
+title:
+  screen: Target
+publisher: Chris Pulley
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:44:38'
+  last_modified: '2019-03-02T10:44:38'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 26
+  date: '2018-07-06T02:16:00'
+  crc: '0x7a6d1a3c'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T01:28:02'
+  crc: '0x19f6ed75'
+- name: TARGET.BAS
+  size: 5612
+  date: '1998-09-22T12:24:22'
+  crc: '0x71b39f63'

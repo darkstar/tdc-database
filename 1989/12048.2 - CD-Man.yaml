@@ -1,0 +1,57 @@
+filename: CD-Man [h1] (1989)(Creative Dimensions) [Action].zip
+tdc_id: '12048.2'
+title:
+  screen: CD-Man
+publisher: Creative Dimensions
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:27:24'
+  last_modified: '2019-03-01T18:27:24'
+type: zip
+tags:
+- Hack: 1
+commands:
+  play: CDMAN.EXE
+files:
+- name: CD-MAN.HLP
+  size: 4704
+  date: '1991-04-26T13:27:50'
+  crc: '0xfd79ee12'
+- name: CDMAN.EXE
+  size: 18688
+  date: '1991-10-27T09:25:34'
+  crc: '0x16700bd5'
+- name: GRAPHIC1.CDM
+  size: 65141
+  date: '1991-04-26T13:27:50'
+  crc: '0x53c9efb5'
+- name: GRAPHIC2.CDM
+  size: 53740
+  date: '1991-04-26T13:27:50'
+  crc: '0x5d2c04e2'
+- name: GRAPHIC3.CDM
+  size: 46455
+  date: '1991-04-26T13:27:50'
+  crc: '0xb44aa620'
+- name: HIGHSC.CDM
+  size: 2221
+  date: '1980-01-01T00:04:14'
+  crc: '0xd842b9ae'
+- name: SCREEN1.CDM
+  size: 49178
+  date: '1991-04-26T13:27:50'
+  crc: '0x7fd21981'
+- name: SCREEN2.CDM
+  size: 51576
+  date: '1991-04-26T13:27:50'
+  crc: '0x05925dfb'
+- name: SCREEN3.CDM
+  size: 25219
+  date: '1991-04-26T13:27:50'
+  crc: '0xdd022a2f'
+- name: TITLE.CDM
+  size: 47944
+  date: '1991-04-26T13:27:50'
+  crc: '0xd7b71a50'

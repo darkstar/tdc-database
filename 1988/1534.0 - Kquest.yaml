@@ -1,0 +1,31 @@
+filename: Kquest [SW] (1988)(K. Small) [Adventure, Interactive Fiction].zip
+tdc_id: '1534.0'
+title:
+  screen: Kquest
+publisher: K. Small
+year: '1988'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:26:24'
+  last_modified: '2019-03-01T18:26:24'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: KQUEST.EXE
+references:
+  dosid: DOS00178
+  exodos: Kquest (1988).zip
+files:
+- name: KQ.SAV
+  size: 81664
+  date: '1988-02-04T18:10:20'
+  crc: '0x5b489697'
+- name: KQUEST.EXE
+  size: 64592
+  date: '1988-02-04T22:25:20'
+  crc: '0xef872656'

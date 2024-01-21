@@ -1,0 +1,30 @@
+filename: Multiplex (2007)(Aestan Games) [Action].zip
+tdc_id: '4956.0'
+title:
+  screen: Multiplex
+publisher: Aestan Games
+year: '2007'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:57:18'
+  last_modified: '2019-03-02T10:57:18'
+type: zip
+commands:
+  play: MX.EXE
+references:
+  dosid: DOS06972
+  exodos: Multiplex (2007).zip
+files:
+- name: MX.EXE
+  size: 143418
+  date: '2007-09-01T11:29:58'
+  crc: '0x572e93e2'
+- name: MXLEVELS.INI
+  size: 7907
+  date: '2007-09-01T11:42:08'
+  crc: '0xab7e7ac2'
+- name: README.TXT
+  size: 3497
+  date: '2007-09-01T12:16:06'
+  crc: '0xd9910ab5'

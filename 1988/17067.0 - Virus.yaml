@@ -1,0 +1,26 @@
+filename: Virus (1988)(Firebird Software Ltd.) [Action].zip
+tdc_id: '17067.0'
+title:
+  box: Virus
+publisher: Firebird Software Ltd.
+year: '1988'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:26:58'
+  last_modified: '2019-03-01T18:26:58'
+type: zip
+commands:
+  play: VIRUSEGA.EXE
+references:
+  dosid: DOS05795
+  exodos: Virus (1988).zip
+files:
+- name: VIRUS.ART
+  size: 31973
+  date: '1989-07-29T13:05:52'
+  crc: '0x30473433'
+- name: VIRUSEGA.EXE
+  size: 57728
+  date: '1991-08-14T16:06:04'
+  crc: '0xfa899ef7'

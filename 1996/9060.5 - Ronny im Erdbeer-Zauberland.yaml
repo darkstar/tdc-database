@@ -1,0 +1,143 @@
+filename: Ronny im Erdbeer-Zauberland v0.99.005 (De) (1996)(SCOPS Software, Makh-Shevet Ltd.) [Educational].zip
+tdc_id: '9060.5'
+parent_id: '9060.4'
+title:
+  box: Ronny im Erdbeer-Zauberland
+publisher: SCOPS Software, Makh-Shevet Ltd.
+year: '1996'
+genre: Educational
+language: German
+date:
+  added: '2024-01-05T18:24:41'
+  last_modified: '2024-01-05T18:24:41'
+version: 0.99.005
+type: zip
+media: CD-ROM
+commands:
+  play: STR.BAT
+  setup: SETSOUND.EXE
+files:
+- name: ADVENT.000
+  size: 1090
+  date: '2021-01-13T08:02:16'
+  crc: '0xdf793c00'
+- name: ADVENT.EXE
+  size: 365265
+  date: '2021-01-13T08:02:16'
+  crc: '0x1553f480'
+- name: ADVENT.EX_
+  size: 365265
+  date: '2021-01-13T08:02:16'
+  crc: '0x520ad035'
+- name: ADVENT.INI
+  size: 160
+  date: '2021-01-13T08:02:16'
+  crc: '0xc71d93fd'
+- name: ADVENT.RES
+  size: 562852731
+  date: '2021-01-13T08:02:52'
+  crc: '0x2de77c9b'
+- name: ADVENT.RTS
+  size: 2900
+  date: '2021-01-13T08:02:52'
+  crc: '0x225c8a01'
+- name: DESCRIPT.ION
+  size: 11
+  date: '2021-01-13T08:02:52'
+  crc: '0x00b1b1d5'
+- name: DETECT.EXE
+  size: 15616
+  date: '2021-01-13T08:02:52'
+  crc: '0xe6f828dd'
+- name: DOS4GW.EXE
+  size: 265420
+  date: '2021-01-13T08:02:52'
+  crc: '0xcb214447'
+- name: EGAVGA.BGI
+  size: 5554
+  date: '2021-01-13T08:02:52'
+  crc: '0x9b14ff3b'
+- name: ERRORS.BIN
+  size: 1232
+  date: '2021-01-13T08:02:52'
+  crc: '0x4387bfb0'
+- name: FILES.LST
+  size: 95
+  date: '2021-01-13T08:02:52'
+  crc: '0x95c5ce0c'
+- name: GLOBAL.SET
+  size: 7
+  date: '2021-01-13T08:02:52'
+  crc: '0xfa488f8d'
+- name: INSTALL.EXE
+  size: 114329
+  date: '2021-01-13T08:02:52'
+  crc: '0x4e66dbd1'
+- name: INSTALL.INI
+  size: 93
+  date: '2021-01-13T08:02:52'
+  crc: '0x680f1af0'
+- name: MSG.TXT
+  size: 889
+  date: '2021-01-13T08:02:52'
+  crc: '0x767897bc'
+- name: SETSOUND.EXE
+  size: 41424
+  date: '2021-01-13T08:02:52'
+  crc: '0x5583880a'
+- name: SETUP.EXE
+  size: 19776
+  date: '2021-01-13T08:02:52'
+  crc: '0x11fbc202'
+- name: SETUP.LST
+  size: 41
+  date: '2021-01-13T08:02:52'
+  crc: '0xfbd9225b'
+- name: SETUPKIT.DLL
+  size: 7008
+  date: '2021-01-13T08:02:52'
+  crc: '0xce901129'
+- name: STR.BAT
+  size: 151
+  date: '1980-01-01T00:00:00'
+  crc: '0x11a682ce'
+- name: STR.ID
+  size: 4
+  date: '2021-01-13T08:02:52'
+  crc: '0x6efc85b2'
+- name: STRMGC.ICO
+  size: 766
+  date: '2021-01-13T08:02:52'
+  crc: '0x7e45c759'
+- name: STRMGC.SND
+  size: 766
+  date: '2021-01-13T08:02:52'
+  crc: '0x6dfcabef'
+- name: VBRUN300.DLL
+  size: 394384
+  date: '2021-01-13T08:02:52'
+  crc: '0x01ebe3b1'
+- name: VER.DLL
+  size: 9696
+  date: '2021-01-13T08:02:52'
+  crc: '0x986d1161'
+- name: VER.DL_
+  size: 9696
+  date: '2021-01-13T08:02:52'
+  crc: '0x986d1161'
+- name: WINFILES.LST
+  size: 110
+  date: '2021-01-13T08:02:52'
+  crc: '0x37ee219e'
+- name: WININST.INI
+  size: 1010
+  date: '2021-01-13T08:02:52'
+  crc: '0x15b3f0e1'
+- name: WINRUN.EXE
+  size: 51154
+  date: '2021-01-13T08:02:52'
+  crc: '0xf98b6bad'
+- name: WSETUP1.EXE
+  size: 29201
+  date: '2021-01-13T08:02:52'
+  crc: '0x6dd0dbd8'

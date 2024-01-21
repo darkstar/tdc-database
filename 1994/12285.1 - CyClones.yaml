@@ -1,0 +1,39 @@
+filename: CyClones (demo) (Installer) (1994)(Strategic Simulations, Inc.) [Action].zip
+tdc_id: '12285.1'
+parent_id: '12285.2'
+title:
+  screen: CyClones
+  qualifier: demo
+publisher: Strategic Simulations, Inc.
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T21:55:42'
+  last_modified: '2019-03-01T21:55:42'
+type: zip
+installer: true
+demo: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: BOOT.NFO
+  size: 219
+  date: '1994-08-13T16:26:50'
+  crc: '0x54d6774d'
+- name: DATA.A00
+  size: 1337095
+  date: '1994-08-13T12:32:16'
+  crc: '0xa71b9ebf'
+- name: DEARJ.EXE
+  size: 39441
+  date: '1994-08-13T16:18:52'
+  crc: '0x284b68d2'
+- name: INSTALL.EXE
+  size: 48166
+  date: '1994-08-13T16:42:06'
+  crc: '0x4c188c8d'
+- name: INSTALL.NFO
+  size: 444
+  date: '1994-08-13T16:26:50'
+  crc: '0xf220a9b4'

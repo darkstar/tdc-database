@@ -1,0 +1,47 @@
+filename: Eric the Unready (Installer) (1993)(Legend Entertainment Company) [Adventure, Interactive Fiction].zip
+tdc_id: '9057.1'
+parent_id: '9057.2'
+title:
+  box: Eric the Unready
+publisher: Legend Entertainment Company
+year: '1993'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T19:07:12'
+  last_modified: '2019-03-01T19:07:12'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: ERICMAIN.OVL
+  size: 372624
+  date: '2012-06-03T17:42:12'
+  crc: '0xfc9dc6b2'
+- name: ERIC_I21.LEG
+  size: 1399763
+  date: '1992-12-10T17:12:50'
+  crc: '0xc2c163c8'
+- name: ERIC_I22.LEG
+  size: 1457643
+  date: '1992-12-10T17:14:00'
+  crc: '0xc6f7b33b'
+- name: ERIC_I23.LEG
+  size: 1457648
+  date: '1992-12-10T17:14:40'
+  crc: '0xdf103f9d'
+- name: ERIC_I24.LEG
+  size: 1456379
+  date: '1992-12-10T17:16:58'
+  crc: '0x85cd1765'
+- name: INSTALL.EXE
+  size: 57093
+  date: '1992-08-26T18:29:12'
+  crc: '0xa5a6cfc7'
+- name: INSTALL.TAG
+  size: 51
+  date: '1992-12-10T17:17:00'
+  crc: '0x7ce96937'

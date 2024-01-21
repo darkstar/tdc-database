@@ -1,0 +1,55 @@
+filename: Dráscula- The Vampire Strikes Back (Installer) (1999)(Midas Interactive Entertainment Ltd.) [Adventure].zip
+tdc_id: '4345.0'
+parent_id: '4345.1'
+title:
+  box: 'Dráscula: The Vampire Strikes Back'
+publisher: Midas Interactive Entertainment Ltd.
+year: '1999'
+genre: Adventure
+language: English
+date:
+  added: '2022-04-06T08:07:30'
+  last_modified: '2022-04-06T08:07:30'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  dosid: DOS01875
+  exodos: Drascula - The Vampire Strikes Back (1996).zip
+files:
+- name: DOS4GW.EXE
+  size: 265396
+  date: '1996-05-11T11:00:00'
+  crc: '0x5cc34b0f'
+- name: Docs\
+  size: 0
+  date: '1999-03-02T17:06:24'
+- name: Docs\Copyright.txt
+  size: 58
+  date: '1999-02-18T12:45:04'
+  crc: '0x47bd37ac'
+- name: Docs\drascula.doc
+  size: 46080
+  date: '1999-02-18T12:45:44'
+  crc: '0x38c6a769'
+- name: INSTALL.EXE
+  size: 143979
+  date: '1997-09-30T10:48:58'
+  crc: '0xee446c3c'
+- name: INSTALL.INI
+  size: 176
+  date: '1998-12-11T16:41:36'
+  crc: '0x00ffad21'
+- name: PACKET.002
+  size: 721122
+  date: '1997-01-08T18:19:52'
+  crc: '0x174133f8'
+- name: PACKET.003
+  size: 719728
+  date: '1997-01-08T18:23:30'
+  crc: '0x9149c4bb'
+- name: Packet.001
+  size: 32847563
+  date: '1998-12-11T17:02:00'
+  crc: '0x3e79eec3'

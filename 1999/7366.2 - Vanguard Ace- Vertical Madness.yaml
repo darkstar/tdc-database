@@ -1,0 +1,75 @@
+filename: Vanguard Ace- Vertical Madness v1.2 (Installer) (1999)(Imaginative Illusions Sdn. Bhd.) [Action].zip
+tdc_id: '7366.2'
+title:
+  box: 'Vanguard Ace: Vertical Madness'
+publisher: Imaginative Illusions Sdn. Bhd.
+year: '1999'
+genre: Action
+language: English
+date:
+  added: '2022-12-07T13:15:29'
+  last_modified: '2022-12-07T13:15:29'
+version: '1.2'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/vanguard-ace-vertical-madness
+files:
+- name: AUTORUN.EXE
+  size: 401182
+  date: '2000-03-15T17:43:28'
+  crc: '0x584effeb'
+- name: AUTORUN.INF
+  size: 47
+  date: '1996-12-31T14:52:04'
+  crc: '0x6aec4275'
+- name: DISK1.ID
+  size: 5
+  date: '1999-02-08T10:30:26'
+  crc: '0x2ed46a83'
+- name: INSTALL.EXE
+  size: 6852974
+  date: '1999-02-08T10:27:46'
+  crc: '0x106e1043'
+- name: README.DOC
+  size: 14269
+  date: '1999-02-08T10:26:16'
+  crc: '0x2bffcc6b'
+- name: SETUP.EXE
+  size: 44608
+  date: '1996-07-23T20:00:00'
+  crc: '0x7b48a0be'
+- name: SETUP.INI
+  size: 33
+  date: '1999-02-08T10:28:52'
+  crc: '0x65a2d8d6'
+- name: SETUP.INS
+  size: 66760
+  date: '1997-03-07T09:50:16'
+  crc: '0x32498a9d'
+- name: SETUP.PKG
+  size: 349
+  date: '1999-02-08T10:30:22'
+  crc: '0x1189df08'
+- name: _INST32I.EX_
+  size: 316789
+  date: '1996-07-23T20:00:00'
+  crc: '0xf1abddca'
+- name: _ISDEL.EXE
+  size: 8192
+  date: '1995-09-07T12:22:40'
+  crc: '0xdb6ff40d'
+- name: _SETUP.1
+  size: 9009103
+  date: '1999-02-08T10:30:24'
+  crc: '0xe1d8fbc7'
+- name: _SETUP.DLL
+  size: 5984
+  date: '1996-04-29T00:25:22'
+  crc: '0x4e73d4d7'
+- name: _SETUP.LIB
+  size: 193124
+  date: '1999-02-08T10:28:46'
+  crc: '0x1cd164a2'

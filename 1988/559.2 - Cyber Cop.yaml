@@ -1,0 +1,33 @@
+filename: Cyber Cop (1988)(Pedersen Systems Inc.) [Action].zip
+tdc_id: '559.2'
+parent_id: '559.1'
+title:
+  box: Cyber Cop
+publisher: Pedersen Systems Inc.
+year: '1988'
+genre: Action
+language: English
+date:
+  added: '2023-10-08T18:42:49'
+  last_modified: '2023-10-08T18:42:49'
+type: zip
+media: 360K
+commands:
+  play: CYBERCOP.BAT
+files:
+- name: CYBERCOP.BAT
+  size: 49
+  date: '1989-10-10T13:11:48'
+  crc: '0xa0458a45'
+- name: MRH_CYBD.DB
+  size: 132331
+  date: '1988-04-28T23:50:36'
+  crc: '0x09507d13'
+- name: PSI_CYBI.EXE
+  size: 12228
+  date: '1988-08-06T00:10:34'
+  crc: '0x3687ad97'
+- name: PSI_CYBP.EXE
+  size: 18308
+  date: '1988-08-06T00:27:14'
+  crc: '0x6c5bbfb2'

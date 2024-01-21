@@ -1,0 +1,60 @@
+filename: Tiny Toon Adventures- Sigurd Sprett og Bønnestengelen (No) (1998)(TerraGlyph Interactive Studios, L.P., Funsoft GmbH) [Action, Adventure].zip
+tdc_id: '16750.15'
+parent_id: '16750.14'
+title:
+  box: 'Tiny Toon Adventures: Sigurd Sprett og Bønnestengelen'
+publisher: TerraGlyph Interactive Studios, L.P., Funsoft GmbH
+year: '1998'
+genre:
+- Action
+- Adventure
+language: Norwegian
+date:
+  added: '2024-01-03T11:16:37'
+  last_modified: '2024-01-03T11:16:37'
+type: zip
+media: CD-ROM
+commands:
+  play: BUSTER.EXE
+references:
+  mobygames: https://www.mobygames.com/game/9091/tiny-toon-adventures-buster-and-the-beanstalk/
+files:
+- name: BUSTER.BLK
+  size: 0
+  date: '1980-01-01T00:00:00'
+- name: BUSTER.EXE
+  size: 878932
+  date: '1996-12-12T14:08:42'
+  crc: '0x12e3f0fc'
+- name: BUSTER.REG
+  size: 102
+  date: '1980-01-01T00:00:00'
+  crc: '0x8932c041'
+- name: BUSTER.RSC
+  size: 6656
+  date: '1996-10-08T15:08:50'
+  crc: '0xee79bd51'
+- name: GAME.FIL
+  size: 11
+  date: '1980-01-01T00:00:00'
+  crc: '0x9843904d'
+- name: MOUSEOK.EXE
+  size: 459604
+  date: '1996-09-20T00:45:20'
+  crc: '0xb5c22b3f'
+- name: PLAYWAV.EXE
+  size: 516948
+  date: '1996-09-19T22:24:42'
+  crc: '0x60c7d37c'
+- name: SBDETECT.EXE
+  size: 468820
+  date: '1996-09-19T22:24:42'
+  crc: '0x06609e1d'
+- name: TEST.WAV
+  size: 105411
+  date: '1995-12-22T03:25:52'
+  crc: '0x809a5e5f'
+- name: TINYTOON.TGR
+  size: 305165140
+  date: '1998-02-07T17:34:30'
+  crc: '0x961662cf'

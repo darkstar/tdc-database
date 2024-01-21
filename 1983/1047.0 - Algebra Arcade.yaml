@@ -1,0 +1,64 @@
+filename: Algebra Arcade (1983)(Wadsworth Electronic Publishing Co.) [Educational].zip
+tdc_id: '1047.0'
+title:
+  screen: Algebra Arcade
+publisher: Wadsworth Electronic Publishing Co.
+year: '1983'
+genre: Educational
+language: English
+date:
+  added: '2019-08-21T12:43:06'
+  last_modified: '2019-08-21T12:43:06'
+type: zip
+media: Download
+commands:
+  play: RUN.BAT
+files:
+- name: AA.SCR
+  size: 16512
+  date: '1980-01-01T14:19:30'
+  crc: '0x1e25997a'
+- name: ALTSET.CRS
+  size: 1152
+  date: '1980-01-01T00:32:48'
+  crc: '0xcb2cd638'
+- name: ARCADE.BAS
+  size: 11638
+  date: '1983-11-01T03:20:18'
+  crc: '0x95187e92'
+- name: FEATURES.BAS
+  size: 15424
+  date: '1983-11-01T03:52:52'
+  crc: '0xd1ae8ddd'
+- name: GAME.SAV
+  size: 2105
+  date: '1980-01-01T01:13:40'
+  crc: '0x006d199d'
+- name: GAMEEND.BAS
+  size: 1893
+  date: '1983-11-01T03:52:18'
+  crc: '0x0c0e3889'
+- name: GAMEK.BAS
+  size: 24917
+  date: '1983-11-01T03:54:46'
+  crc: '0xec9b3acf'
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1988-10-06T00:00:08'
+  crc: '0x2a44af39'
+- name: JUD.BAS
+  size: 9307
+  date: '1983-11-01T03:55:10'
+  crc: '0x642d9645'
+- name: PRESET.SAV
+  size: 6784
+  date: '1980-01-01T01:02:14'
+  crc: '0xeab39d09'
+- name: RUN.BAT
+  size: 27
+  date: '2019-08-21T19:28:00'
+  crc: '0x8532805b'
+- name: VIEWPORT.SCR
+  size: 16512
+  date: '1980-01-01T00:48:08'
+  crc: '0x94e412a7'

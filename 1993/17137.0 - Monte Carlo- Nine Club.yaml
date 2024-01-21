@@ -1,0 +1,37 @@
+filename: Monte Carlo- Nine Club (1993)(GAMOS Ltd.) [Strategy, Cards].zip
+tdc_id: '17137.0'
+title:
+  screen: 'Monte Carlo: Nine Club'
+publisher: GAMOS Ltd.
+year: '1993'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2022-12-07T13:08:53'
+  last_modified: '2022-12-07T13:08:53'
+type: zip
+commands:
+  play: NINE.EXE
+files:
+- name: NINE.CFG
+  size: 2
+  date: '2020-05-08T22:41:50'
+  crc: '0x2fc51328'
+- name: NINE.EXE
+  size: 67324
+  date: '1997-06-27T09:41:24'
+  crc: '0x8fc9ba0d'
+- name: NINE.LIB
+  size: 657353
+  date: '1994-07-20T06:08:54'
+  crc: '0x3b81bcca'
+- name: NINE.MSC
+  size: 10825
+  date: '1994-07-15T21:39:48'
+  crc: '0x5b54360f'
+- name: NINE.RES
+  size: 600
+  date: '2020-05-08T22:41:50'
+  crc: '0xa1c601d4'

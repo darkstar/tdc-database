@@ -1,0 +1,28 @@
+filename: Seastalker r15 [DC] (1984)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '14972.0'
+title:
+  box: Seastalker
+publisher: Infocom, Inc.
+year: '1984'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2022-06-07T12:55:50'
+  last_modified: '2022-06-07T12:55:50'
+release: '15'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: SEASTALK.COM
+files:
+- name: SEASTALK.COM
+  size: 12928
+  date: '1980-01-01T00:00:00'
+  crc: '0x2cbe19cd'
+- name: SEASTALK.DAT
+  size: 146112
+  date: '2008-01-14T05:17:44'
+  crc: '0x841a60fb'

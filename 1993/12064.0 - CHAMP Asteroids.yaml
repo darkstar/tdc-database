@@ -1,0 +1,55 @@
+filename: CHAMP Asteroids v1.2 [SW] (1993)(CHAMProgramming Corporation) [Action].zip
+tdc_id: '12064.0'
+title:
+  screen: CHAMP Asteroids
+publisher: CHAMProgramming Corporation
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2006-10-23T01:00:20'
+  last_modified: '2006-10-23T01:00:20'
+version: '1.2'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: CHAMPAST.EXE
+files:
+- name: ALPHA.FNT
+  size: 1024
+  date: '1993-11-10T01:01:50'
+  crc: '0x6ade0542'
+- name: ASTEROID.SET
+  size: 10327
+  date: '1993-12-06T19:27:08'
+  crc: '0x515aaa27'
+- name: CHAMPAST.CFG
+  size: 12
+  date: '1995-01-09T16:25:12'
+  crc: '0x14d73fe7'
+- name: CHAMPAST.DOC
+  size: 4026
+  date: '1993-12-06T20:04:10'
+  crc: '0x020a39f6'
+- name: CHAMPAST.EXE
+  size: 159839
+  date: '1993-12-27T11:15:26'
+  crc: '0xf4107481'
+- name: CHAMPAST.HOF
+  size: 240
+  date: '1995-01-09T16:25:12'
+  crc: '0xd2d11fa0'
+- name: CONTROLS.SET
+  size: 1962
+  date: '1993-07-29T18:47:26'
+  crc: '0x556098a1'
+- name: JOYSTICK.CFG
+  size: 24
+  date: '1993-12-12T23:11:30'
+  crc: '0x9abc47b8'
+- name: STAR.SET
+  size: 1569
+  date: '1993-11-25T03:02:04'
+  crc: '0x4cca22e8'

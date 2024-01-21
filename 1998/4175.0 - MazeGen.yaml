@@ -1,0 +1,30 @@
+filename: MazeGen (1998)(Charles Shampine) [Action, Strategy].zip
+tdc_id: '4175.0'
+title:
+  screen: MazeGen
+publisher: Charles Shampine
+year: '1998'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-02T10:42:22'
+  last_modified: '2019-03-02T10:42:22'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 27
+  date: '2018-07-06T02:18:24'
+  crc: '0xee56901e'
+- name: MAZEGEN.BAS
+  size: 7764
+  date: '1998-09-22T12:19:56'
+  crc: '0xde23c866'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T01:28:02'
+  crc: '0x19f6ed75'

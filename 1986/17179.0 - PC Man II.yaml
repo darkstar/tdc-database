@@ -1,0 +1,42 @@
+filename: PC Man II (1986)(Main Street Publishing, Inc., Heigen Corporation) [Action].zip
+tdc_id: '17179.0'
+title:
+  screen: PC Man II
+publisher: Main Street Publishing, Inc., Heigen Corporation
+year: '1986'
+genre: Action
+language: English
+date:
+  added: '2023-01-23T11:00:53'
+  last_modified: '2023-01-23T11:00:53'
+type: zip
+commands:
+  play: PCMAN.EXE
+files:
+- name: AUTOEXEC.BAT
+  size: 23
+  date: '1985-09-03T10:41:18'
+  crc: '0x56106483'
+- name: HISCORE
+  size: 0
+  date: '1986-03-27T19:27:50'
+- name: IBMBIO.COM
+  size: 1920
+  date: '1986-03-27T19:14:40'
+  crc: '0x7c689e8f'
+- name: IBMDOS.COM
+  size: 6400
+  date: '1986-03-27T19:14:40'
+  crc: '0x595f2edd'
+- name: INSTALL.BAT
+  size: 434
+  date: '1985-09-03T10:56:48'
+  crc: '0xf409dc64'
+- name: MAINST.BAT
+  size: 23
+  date: '1985-09-03T10:41:18'
+  crc: '0x56106483'
+- name: PCMAN.EXE
+  size: 38144
+  date: '1983-05-19T17:05:48'
+  crc: '0x7fb2a51b'

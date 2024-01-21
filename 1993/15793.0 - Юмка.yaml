@@ -1,0 +1,30 @@
+filename: Юмка (demo) (Ru) (1993)(Institute of New Technologies) [Educational].zip
+tdc_id: '15793.0'
+title:
+  screen: Юмка
+  transliteration: Yumka
+  qualifier: demo
+publisher: Institute of New Technologies
+year: '1993'
+genre: Educational
+language: Russian
+date:
+  added: '2019-03-01T21:12:46'
+  last_modified: '2019-03-01T21:12:46'
+type: zip
+demo: true
+commands:
+  play: YUMKA.EXE
+files:
+- name: SPEECH.DEM
+  size: 410731
+  date: '1993-05-25T15:34:04'
+  crc: '0xb11d74b0'
+- name: YUMKA.DAT
+  size: 201604
+  date: '1994-02-04T15:56:54'
+  crc: '0xcfc66b22'
+- name: YUMKA.EXE
+  size: 63655
+  date: '1994-01-24T16:28:14'
+  crc: '0x54f15f9a'

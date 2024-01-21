@@ -1,0 +1,34 @@
+filename: Alien Spaceball [SW] (1993)(Brian Porter) [Action].zip
+tdc_id: '8258.0'
+title:
+  screen: Alien Spaceball
+publisher: Brian Porter
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2015-01-26T11:19:16'
+  last_modified: '2015-01-26T11:19:16'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: BALL.EXE
+files:
+- name: BALL.DOC
+  size: 3765
+  date: '1994-01-11T13:31:32'
+  crc: '0x714d7dbc'
+- name: BALL.EXE
+  size: 75362
+  date: '1994-01-10T06:41:30'
+  crc: '0x6f6dd290'
+- name: FILE_ID.DIZ
+  size: 126
+  date: '1994-04-13T12:13:56'
+  crc: '0xa718d155'
+- name: SCORES.DAT
+  size: 112
+  date: '1994-01-06T18:19:36'
+  crc: '0x3b65a61c'

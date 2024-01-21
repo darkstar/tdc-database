@@ -1,0 +1,37 @@
+filename: Land Beyond the Picket Fence, The (1996)(Martin Oehm) [Adventure, Interactive Fiction].zip
+tdc_id: '11840.0'
+title:
+  screen: The Land Beyond the Picket Fence
+publisher: Martin Oehm
+year: '1996'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2020-10-23T19:48:40'
+  last_modified: '2020-10-23T19:48:40'
+type: zip
+commands:
+  play: picket.exe
+files:
+- name: 1req.txt
+  size: 2493
+  date: '1996-09-14T19:46:14'
+  crc: '0x11e1f29e'
+- name: handbook.doc
+  size: 9533
+  date: '1996-09-14T19:46:14'
+  crc: '0x0cca6b22'
+- name: picket.dat
+  size: 41984
+  date: '1996-09-14T19:46:14'
+  crc: '0xca140276'
+- name: picket.exe
+  size: 76048
+  date: '1996-09-14T19:46:14'
+  crc: '0xc2fb2025'
+- name: picket.sol
+  size: 1482
+  date: '1996-09-14T19:46:14'
+  crc: '0x862926d2'

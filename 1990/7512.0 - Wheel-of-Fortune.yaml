@@ -1,0 +1,37 @@
+filename: Wheel-of-Fortune (1990)(Frederick Volking) [Strategy, Puzzle].zip
+tdc_id: '7512.0'
+title:
+  screen: Wheel-of-Fortune
+publisher: Frederick Volking
+year: '1990'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-03-01T18:34:30'
+  last_modified: '2019-03-01T18:34:30'
+type: zip
+commands:
+  play: WOF.EXE
+files:
+- name: WOF-ADD.BAS
+  size: 5421
+  date: '1980-01-01T01:24:18'
+  crc: '0x008876ab'
+- name: WOF.BAS
+  size: 52159
+  date: '1980-01-01T00:01:42'
+  crc: '0x5e7a5939'
+- name: WOF.DAT
+  size: 20050
+  date: '2013-05-10T17:32:50'
+  crc: '0x6bc739b9'
+- name: WOF.DOC
+  size: 2408
+  date: '1990-11-16T14:50:26'
+  crc: '0xfffe64ca'
+- name: WOF.EXE
+  size: 75624
+  date: '1980-01-01T00:02:34'
+  crc: '0x5d16db90'

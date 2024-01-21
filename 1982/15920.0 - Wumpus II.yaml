@@ -1,0 +1,28 @@
+filename: Wumpus II (1982)(Anonymous) [Strategy].zip
+tdc_id: '15920.0'
+title:
+  screen: Wumpus II
+publisher: Anonymous
+year: '1982'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:23:06'
+  last_modified: '2019-03-01T18:23:06'
+type: zip
+media: Download
+commands:
+  play: WUMPUS.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: WUMPUS.BAS
+  size: 10368
+  date: '1982-02-07T00:00:00'
+  crc: '0x23a3ce28'
+- name: WUMPUS.BAT
+  size: 16
+  date: '2014-12-19T13:06:40'
+  crc: '0x2eab11b4'

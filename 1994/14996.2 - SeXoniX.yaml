@@ -1,0 +1,39 @@
+filename: SeXoniX v1.4 (Demo) (1994)(Daisy Field Software Development Group) [Action, Adult].zip
+tdc_id: '14996.2'
+title:
+  screen: SeXoniX
+  qualifier: Demo
+publisher: Daisy Field Software Development Group
+year: '1994'
+genre:
+- Action
+- Adult
+language: English
+date:
+  added: '2019-03-01T22:04:24'
+  last_modified: '2019-03-01T22:04:24'
+version: '1.4'
+type: zip
+demo: true
+commands:
+  play: SEXONIX.EXE
+references:
+  dosid: DOS04495
+  exodos: SeXoniX (1994).zip
+files:
+- name: SEXONIX.DAT
+  size: 160
+  date: '2002-08-09T19:06:10'
+  crc: '0xd53cd644'
+- name: SEXONIX.DOC
+  size: 4206
+  date: '1995-12-19T17:01:28'
+  crc: '0x3aa4b7c4'
+- name: SEXONIX.EXE
+  size: 36000
+  date: '1994-05-19T19:18:48'
+  crc: '0x44fe9179'
+- name: SEXONIX.PIC
+  size: 841984
+  date: '1994-05-09T23:01:32'
+  crc: '0x7b2fbc54'

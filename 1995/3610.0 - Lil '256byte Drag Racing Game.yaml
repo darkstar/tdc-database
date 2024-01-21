@@ -1,0 +1,23 @@
+filename: Lil '256byte Drag Racing Game (1995)(Ken Chick) [Racing - Driving].zip
+tdc_id: '3610.0'
+title:
+  screen: Lil '256byte Drag Racing Game
+publisher: Ken Chick
+year: '1995'
+genre: Racing - Driving
+language: English
+date:
+  added: '2019-03-02T08:56:30'
+  last_modified: '2019-03-02T08:56:30'
+type: zip
+commands:
+  play: DRAGRACE.COM
+files:
+- name: DRAGRACE.ASM
+  size: 6006
+  date: '1995-07-09T02:48:38'
+  crc: '0x3564b2e4'
+- name: DRAGRACE.COM
+  size: 353
+  date: '1995-03-10T22:39:28'
+  crc: '0x7e910f44'

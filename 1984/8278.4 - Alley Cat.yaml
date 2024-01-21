@@ -1,0 +1,25 @@
+filename: Alley Cat [DC][b1] (1984)(IBM) [Action].zip
+tdc_id: '8278.4'
+title:
+  box: Alley Cat
+publisher: IBM
+year: '1984'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:00'
+  last_modified: '2019-03-01T18:24:00'
+type: zip
+tags:
+- DOSConversion
+- Bad: 1
+commands:
+  play: CAT.EXE
+references:
+  dosid: DOS05828
+  exodos: Alley Cat (1984).zip
+files:
+- name: CAT.EXE
+  size: 55067
+  date: '1984-08-22T17:15:34'
+  crc: '0x791ce265'

@@ -1,0 +1,53 @@
+filename: Impact [f1][a1] (1988)(Audiogenic Software Ltd.) [Action].zip
+tdc_id: '11431.1'
+title:
+  box: Impact
+  screen: Impact!
+publisher: Audiogenic Software Ltd.
+year: '1988'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:26:18'
+  last_modified: '2023-07-16T17:57:26'
+type: zip
+tags:
+- Alternate: 1
+- Fixed: 1
+commands:
+  play: IMPACT.BAT
+references:
+  mobygames: https://www.mobygames.com/game/8710/blockbuster/
+files:
+- name: IMPACT.BAT
+  size: 312
+  date: '1980-01-01T05:14:24'
+  crc: '0xdb5e3ff1'
+- name: IMPACT.DAT
+  size: 882
+  date: '1988-10-30T18:12:40'
+  crc: '0x637694b7'
+- name: IMPACT.HIS
+  size: 117
+  date: '1980-01-01T00:09:44'
+  crc: '0xeef2cce4'
+- name: IMPACTC.EXE
+  size: 62933
+  date: '1988-10-30T18:25:00'
+  crc: '0xfadd644c'
+- name: IMPACTE.DAT
+  size: 882
+  date: '1988-10-30T18:12:40'
+  crc: '0x637694b7'
+- name: IMPACTE.EXE
+  size: 110053
+  date: '1988-10-29T20:50:18'
+  crc: '0x87c27185'
+- name: MOUSEOFF.COM
+  size: 30
+  date: '1980-01-01T00:00:00'
+  crc: '0x8f08e66f'
+- name: WHICH.COM
+  size: 18
+  date: '1988-11-03T19:26:02'
+  crc: '0x69f383b0'

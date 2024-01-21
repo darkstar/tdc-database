@@ -1,0 +1,69 @@
+filename: Warlords (demo) (1991)(SSG Strategic Studies Group Pty Ltd.) [Strategy].zip
+tdc_id: '7476.0'
+title:
+  screen: Warlords
+  qualifier: demo
+publisher: SSG Strategic Studies Group Pty Ltd.
+year: '1991'
+genre: Strategy
+language: English
+date:
+  added: '2021-12-28T16:18:12'
+  last_modified: '2021-12-28T16:18:12'
+type: zip
+demo: true
+commands:
+  play: WARDEMO.EXE
+files:
+- name: ARMIES.LBM
+  size: 40272
+  date: '1991-01-15T00:38:42'
+  crc: '0xeadedb7c'
+- name: CURS.LBM
+  size: 3342
+  date: '1991-01-15T00:38:42'
+  crc: '0x1c5f2157'
+- name: FANT.LBM
+  size: 3478
+  date: '1991-01-15T00:38:42'
+  crc: '0xfae37a6a'
+- name: FONTS.LBM
+  size: 3758
+  date: '1991-01-15T00:38:42'
+  crc: '0xe7b54c94'
+- name: ILLURIA.MAP
+  size: 34008
+  date: '1991-01-15T00:38:42'
+  crc: '0x3a867fc9'
+- name: MAIN.LBM
+  size: 6906
+  date: '1991-01-15T00:38:42'
+  crc: '0xc9850894'
+- name: MOUSE.LBM
+  size: 3388
+  date: '1991-01-15T00:38:42'
+  crc: '0x09bfb724'
+- name: SCENERY.LBM
+  size: 47564
+  date: '1991-01-15T00:38:42'
+  crc: '0x5e88c2fa'
+- name: SETUP.LBM
+  size: 28246
+  date: '1991-01-15T00:38:42'
+  crc: '0x386665f3'
+- name: STRAT.LBM
+  size: 14684
+  date: '1991-01-15T00:38:42'
+  crc: '0x13273047'
+- name: WAR.SJH
+  size: 29526
+  date: '1991-01-15T00:38:42'
+  crc: '0x70f26d7e'
+- name: WARDEMO.EXE
+  size: 121163
+  date: '1991-01-15T00:38:42'
+  crc: '0xf6610337'
+- name: WLREADME.DOC
+  size: 17870
+  date: '1991-01-15T00:38:42'
+  crc: '0xef1a91ec'

@@ -1,0 +1,130 @@
+filename: Treasure Cove! v1.01 (1993)(Learning Company, Inc., The) [Adventure, Educational].zip
+tdc_id: '16887.2'
+parent_id: '16887.1'
+title:
+  box: Treasure Cove!
+publisher: Learning Company, Inc., The
+year: '1993'
+genre:
+- Adventure
+- Educational
+language: English
+date:
+  added: '2023-08-10T13:47:49'
+  last_modified: '2023-08-10T13:47:49'
+version: '1.01'
+type: zip
+media: 1.2M
+commands:
+  play: TCV.BAT
+references:
+  mobygames: https://www.mobygames.com/game/11384/treasure-cove/
+files:
+- name: COVE.EXE
+  size: 156928
+  date: '1992-12-01T00:00:00'
+  crc: '0x1b050de8'
+- name: DESKTOPD.CFG
+  size: 55
+  date: '1992-09-02T00:00:00'
+  crc: '0x894d361a'
+- name: INSTALL.EXE
+  size: 13174
+  date: '1993-07-21T00:00:00'
+  crc: '0x386a724f'
+- name: INSTALL.PDM
+  size: 517
+  date: '1990-04-03T00:00:00'
+  crc: '0x57c60474'
+- name: MSCOMSTF.DL_
+  size: 41320
+  date: '1992-03-23T00:00:00'
+  crc: '0x9ce4cf33'
+- name: MSCUISTF.DL_
+  size: 9248
+  date: '1993-07-21T00:00:00'
+  crc: '0xaccb247a'
+- name: MSDETECT.IN_
+  size: 4726
+  date: '1992-03-23T00:00:00'
+  crc: '0x9efe078a'
+- name: MSDETSTF.DL_
+  size: 14949
+  date: '1992-03-23T00:00:00'
+  crc: '0xebc68d52'
+- name: MSINSSTF.DL_
+  size: 40805
+  date: '1992-03-23T00:00:00'
+  crc: '0x7aee789c'
+- name: MSSHLSTF.DL_
+  size: 9226
+  date: '1992-03-23T00:00:00'
+  crc: '0x3fc4f92c'
+- name: MSUILSTF.DL_
+  size: 3970
+  date: '1992-03-23T00:00:00'
+  crc: '0xb274cf0a'
+- name: SETUP.EXE
+  size: 24624
+  date: '1992-03-23T00:00:00'
+  crc: '0x7a7b8d78'
+- name: SETUP.IN_
+  size: 831
+  date: '1992-12-01T00:00:00'
+  crc: '0x03217488'
+- name: SETUP.LST
+  size: 600
+  date: '1993-05-24T00:00:00'
+  crc: '0x3cafb6da'
+- name: SETUPAPI.IN_
+  size: 13459
+  date: '1992-03-23T00:00:00'
+  crc: '0xf146e0fe'
+- name: TC000.DAT
+  size: 148358
+  date: '1992-12-01T00:00:00'
+  crc: '0xb09a4e6e'
+- name: TC001.DAT
+  size: 266438
+  date: '1992-12-01T00:00:00'
+  crc: '0xea127ebe'
+- name: TC002.DAT
+  size: 342322
+  date: '1992-12-01T00:00:00'
+  crc: '0x9d185d65'
+- name: TC003.DAT
+  size: 342939
+  date: '1992-12-01T00:00:00'
+  crc: '0x36e67cd6'
+- name: TC004.DAT
+  size: 13188
+  date: '1992-08-26T00:00:00'
+  crc: '0x980dc6ac'
+- name: TCV.BAT
+  size: 368
+  date: '1992-08-26T00:00:00'
+  crc: '0xd2194e66'
+- name: TCV.ICO
+  size: 766
+  date: '1992-08-28T00:00:00'
+  crc: '0x21846dd2'
+- name: TCV.PIF
+  size: 545
+  date: '1993-07-16T00:00:00'
+  crc: '0x2ae00273'
+- name: TLC.MS_
+  size: 10684
+  date: '1993-07-06T00:00:00'
+  crc: '0x3cb12261'
+- name: TLCSETUP.CF_
+  size: 1625
+  date: '1993-07-16T00:00:00'
+  crc: '0x94bd15c4'
+- name: _MSSETUP.EX_
+  size: 7543
+  date: '1992-03-23T00:00:00'
+  crc: '0x4d678301'
+- name: _MSTEST.EX_
+  size: 55370
+  date: '1992-03-23T00:00:00'
+  crc: '0x1d34e868'

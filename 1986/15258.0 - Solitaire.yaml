@@ -1,0 +1,46 @@
+filename: Solitaire (1986)(IBM) [Strategy, Cards].zip
+tdc_id: '15258.0'
+title:
+  box: Solitaire
+publisher: IBM
+year: '1986'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:24:56'
+  last_modified: '2019-03-01T18:24:56'
+type: zip
+references:
+  dosid: DOS06597
+  exodos: Solitaire (1986).zip
+files:
+- name: SOL.COM
+  size: 92
+  date: '2014-05-18T04:04:08'
+  crc: '0x26d630ee'
+- name: SOL.CON
+  size: 1024
+  date: '1987-08-04T12:00:00'
+  crc: '0xa5cbd7a4'
+- name: SOL.DCA
+  size: 11502
+  date: '1987-08-04T12:00:00'
+  crc: '0x5a0e0bf0'
+- name: SOL.EXE
+  size: 79189
+  date: '1987-08-04T12:00:00'
+  crc: '0xfee0e6bf'
+- name: SOL.LUT
+  size: 128
+  date: '1987-08-04T12:00:00'
+  crc: '0x25bc1e97'
+- name: VIEWDOX.COM
+  size: 87
+  date: '2014-05-19T20:10:44'
+  crc: '0xb06aaec8'
+- name: VIEWDOX.EXE
+  size: 10585
+  date: '1987-08-04T12:00:00'
+  crc: '0xa32e2060'

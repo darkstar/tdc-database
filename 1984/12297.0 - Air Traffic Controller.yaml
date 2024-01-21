@@ -1,0 +1,37 @@
+filename: Air Traffic Controller [SW] (1984)(Steve Estvanik) [Simulation].zip
+tdc_id: '12297.0'
+title:
+  screen: Air Traffic Controller
+publisher: Steve Estvanik
+year: '1984'
+genre: Simulation
+language: English
+date:
+  added: '2020-07-15T09:57:26'
+  last_modified: '2020-07-15T09:57:26'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: ATC.EXE
+references:
+  dosid: DOS00769
+  exodos: Air Traffic Controller (1985).zip
+files:
+- name: ATC.DAT
+  size: 384
+  date: '1980-01-01T01:04:00'
+  crc: '0x436e8a7b'
+- name: ATC.EXE
+  size: 50304
+  date: '1986-05-31T19:18:56'
+  crc: '0xc6a189c0'
+- name: ATC1.BLD
+  size: 4096
+  date: '1986-05-31T19:20:12'
+  crc: '0xfcee6ad2'
+- name: ATC2.BLD
+  size: 4096
+  date: '1986-05-31T19:21:02'
+  crc: '0xf6ef3b60'

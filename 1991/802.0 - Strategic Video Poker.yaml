@@ -1,0 +1,44 @@
+filename: Strategic Video Poker v3.0 (Installer) (1991)(LWS Software) [Strategy, Cards].zip
+tdc_id: '802.0'
+title:
+  screen: Strategic Video Poker
+publisher: LWS Software
+year: '1991'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:39:34'
+  last_modified: '2019-03-01T18:39:34'
+version: '3.0'
+type: zip
+installer: true
+references:
+  dosid: DOS15759
+  exodos: Strategic Video Poker (1991).zip
+files:
+- name: INSTALL.EXE
+  size: 38499
+  date: '1992-02-03T09:52:26'
+  crc: '0x277d8245'
+- name: POKERBAS.EXE
+  size: 152087
+  date: '1992-02-13T22:50:22'
+  crc: '0x663b276d'
+- name: POKERCGA.EXE
+  size: 25149
+  date: '1992-02-13T22:50:26'
+  crc: '0xdfd82051'
+- name: POKEREGA.EXE
+  size: 42964
+  date: '1992-02-13T22:50:24'
+  crc: '0xc15d5c05'
+- name: POKERHGA.EXE
+  size: 30253
+  date: '1992-02-13T22:50:26'
+  crc: '0x32e85c87'
+- name: POKERVGA.EXE
+  size: 44545
+  date: '1992-02-13T22:50:24'
+  crc: '0x88a53d21'

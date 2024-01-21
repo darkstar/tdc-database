@@ -1,0 +1,43 @@
+filename: Metal & Lace- The Battle of the Robo Babes demo (Installer) (1993)(MegaTech Software) [Action, Adult].zip
+tdc_id: '7707.5'
+title:
+  screen: 'Metal & Lace: The Battle of the Robo Babes demo'
+publisher: MegaTech Software
+year: '1993'
+genre:
+- Action
+- Adult
+language: English
+date:
+  added: '2019-03-01T19:14:44'
+  last_modified: '2019-03-01T19:14:44'
+type: zip
+installer: true
+demo: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DEMODISK
+  size: 9
+  date: '1993-08-30T10:17:12'
+  crc: '0x5615e8c9'
+- name: INSTALL.EXE
+  size: 36638
+  date: '1993-08-30T00:00:00'
+  crc: '0x51bfb30d'
+- name: INSTALL.TXC
+  size: 4384
+  date: '1993-08-30T00:00:00'
+  crc: '0x2256b59a'
+- name: ML.CFG
+  size: 40
+  date: '1993-08-28T00:04:00'
+  crc: '0xb5121679'
+- name: MLDEMO01.LZH
+  size: 1351514
+  date: '1993-08-30T10:19:38'
+  crc: '0x035e67f6'
+- name: MLDEMO02.LZH
+  size: 776171
+  date: '1993-08-30T10:20:54'
+  crc: '0xcfc531f2'

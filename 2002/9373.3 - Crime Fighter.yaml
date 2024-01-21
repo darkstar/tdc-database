@@ -1,0 +1,58 @@
+filename: Crime Fighter v1.5 (Installer) (De)(En) (2002)(Peter Steffen) [Action, Strategy].zip
+tdc_id: '9373.3'
+title:
+  screen: Crime Fighter
+publisher: Peter Steffen
+year: '2002'
+genre:
+- Action
+- Strategy
+language:
+- English
+- German
+date:
+  added: '2012-09-01T17:23:16'
+  last_modified: '2022-11-16T15:27:33'
+version: '1.5'
+type: zip
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: ARCHIV.EXE
+  size: 868210
+  date: '2002-10-22T01:53:00'
+  crc: '0xe94696d5'
+- name: FILE_ID.049
+  size: 358
+  date: '2002-10-22T01:53:00'
+  crc: '0xbc155a9a'
+- name: FILE_ID.DIZ
+  size: 341
+  date: '2002-10-22T01:53:00'
+  crc: '0xcb259e90'
+- name: INSTALL.EXE
+  size: 14896
+  date: '2002-10-22T01:53:00'
+  crc: '0xd931cc40'
+- name: LICENSE.TXT
+  size: 2474
+  date: '2002-10-22T01:53:00'
+  crc: '0xb334fd7e'
+- name: LIESMICH.TXT
+  size: 6600
+  date: '2002-10-22T01:53:00'
+  crc: '0xcc97e16e'
+- name: LIZENZ.TXT
+  size: 2469
+  date: '2002-10-22T01:53:00'
+  crc: '0x9d1f75f3'
+- name: README.TXT
+  size: 5532
+  date: '2002-10-22T01:53:00'
+  crc: '0x87e62d20'
+- name: pad_file.xml
+  size: 11521
+  date: '2002-10-22T01:53:00'
+  crc: '0xa725a8f8'

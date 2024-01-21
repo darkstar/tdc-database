@@ -1,0 +1,26 @@
+filename: Mirage v15.26 (1994)(Yuri Shpeer, Vladimir Rybinkin) [Strategy, Chess].zip
+tdc_id: '7881.0'
+title:
+  screen: Mirage
+publisher: Yuri Shpeer, Vladimir Rybinkin
+year: '1994'
+genre:
+- Strategy
+- Chess
+language: English
+date:
+  added: '2019-03-01T22:02:10'
+  last_modified: '2019-03-01T22:02:10'
+version: '15.26'
+type: zip
+commands:
+  play: BOOKEDIT.EXE
+files:
+- name: BOOKEDIT.EXE
+  size: 35739
+  date: '1998-09-14T10:58:30'
+  crc: '0xa225ac6b'
+- name: MIRAGE.DAT
+  size: 168396
+  date: '1998-09-14T10:58:22'
+  crc: '0xd74f1234'

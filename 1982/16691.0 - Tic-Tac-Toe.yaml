@@ -1,0 +1,27 @@
+filename: Tic-Tac-Toe (1982)(Tom Springall) [Strategy].zip
+tdc_id: '16691.0'
+title:
+  screen: Tic-Tac-Toe
+publisher: Tom Springall
+year: '1982'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:23:04'
+  last_modified: '2019-03-01T18:23:04'
+type: zip
+commands:
+  play: TITATOE.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: TITATOE.BAS
+  size: 7040
+  date: '1983-04-16T12:00:00'
+  crc: '0x1b85ca67'
+- name: TITATOE.BAT
+  size: 17
+  date: '1980-01-01T00:00:00'
+  crc: '0xe00b8068'

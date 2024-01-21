@@ -1,0 +1,33 @@
+filename: Turbo GO v2.0 (Nl)(En) (1994)(Arnoud van der Loeff) [Strategy].zip
+tdc_id: '3342.0'
+title:
+  screen: Turbo GO
+publisher: Arnoud van der Loeff
+year: '1994'
+genre: Strategy
+language:
+- English
+- Dutch
+date:
+  added: '2019-03-02T07:18:36'
+  last_modified: '2019-03-02T07:18:36'
+version: '2.0'
+type: zip
+commands:
+  play: TURBOGO.EXE
+references:
+  dosid: DOS06274
+  exodos: TurboGo (1993).zip
+files:
+- name: LEESMIJ.DOC
+  size: 8533
+  date: '1999-12-31T18:00:00'
+  crc: '0x84fa3eec'
+- name: README.DOC
+  size: 8368
+  date: '1999-12-31T18:00:00'
+  crc: '0x2cce2c8d'
+- name: TURBOGO.EXE
+  size: 147642
+  date: '1999-12-31T18:00:00'
+  crc: '0x60396cee'

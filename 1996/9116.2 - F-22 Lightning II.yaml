@@ -1,0 +1,33 @@
+filename: F-22 Lightning II v1.02.00.02 (demo) (Installer) (1996)(NovaLogic, Inc.) [Action, Simulation].zip
+tdc_id: '9116.2'
+title:
+  box: F-22 Lightning II
+  qualifier: Installer
+publisher: NovaLogic, Inc.
+year: '1996'
+genre:
+- Action
+- Simulation
+language: English
+date:
+  added: '2023-07-11T06:58:15'
+  last_modified: '2023-07-11T06:58:15'
+version: 1.02.00.02 (demo)
+type: zip
+media: Download
+installer: true
+references:
+  mobygames: https://www.mobygames.com/game/2576/f-22-lightning-ii/
+files:
+- name: INSTALL.BIN
+  size: 12835692
+  date: '1996-11-22T17:10:18'
+  crc: '0x03ee001c'
+- name: INSTALL.EXE
+  size: 2619
+  date: '1996-11-22T17:10:22'
+  crc: '0xa7d9428d'
+- name: INSTALL.PIF
+  size: 967
+  date: '1996-11-20T13:55:52'
+  crc: '0x37a66ac3'

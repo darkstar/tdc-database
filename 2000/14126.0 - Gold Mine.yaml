@@ -1,0 +1,28 @@
+filename: Gold Mine (2000)(John Wantland) [Action].zip
+tdc_id: '14126.0'
+title:
+  screen: Gold Mine
+publisher: John Wantland
+year: '2000'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:54:50'
+  last_modified: '2019-03-02T10:54:50'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 24
+  date: '2018-11-28T23:06:22'
+  crc: '0x6a25ae97'
+- name: MINE.BAS
+  size: 9059
+  date: '2018-03-10T15:05:44'
+  crc: '0xdf09058d'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

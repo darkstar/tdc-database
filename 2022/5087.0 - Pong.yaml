@@ -1,0 +1,44 @@
+filename: Pong (2022)(fmahnke) [Action].zip
+tdc_id: '5087.0'
+title:
+  screen: Pong
+publisher: fmahnke
+year: '2022'
+genre: Action
+language: English
+date:
+  added: '2022-02-27T10:52:04'
+  last_modified: '2022-02-27T10:52:04'
+type: zip
+media: Download
+commands:
+  play: PONG.COM
+files:
+- name: IO.ASM
+  size: 154
+  date: '2022-02-23T09:32:24'
+  crc: '0xcf79c17f'
+- name: PONG.ASM
+  size: 11865
+  date: '2022-02-26T15:07:38'
+  crc: '0x3e5dcc7c'
+- name: PONG.COM
+  size: 1156
+  date: '2022-02-26T15:08:10'
+  crc: '0xb0d3b53d'
+- name: UTIL.ASM
+  size: 633
+  date: '2022-02-24T16:09:04'
+  crc: '0x486b657e'
+- name: bios.asm
+  size: 275
+  date: '2022-02-26T14:25:26'
+  crc: '0xdbe74cbe'
+- name: cga.asm
+  size: 944
+  date: '2022-02-25T09:54:54'
+  crc: '0xee6a53b0'
+- name: string.asm
+  size: 611
+  date: '2022-02-26T14:29:10'
+  crc: '0xc3f63f6b'

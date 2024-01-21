@@ -1,0 +1,60 @@
+filename: Alien Rampage v1.12 (Installer) [SW] (1996)(Softdisk Publishing) [Action].zip
+tdc_id: '8257.4'
+title:
+  screen: Alien Rampage
+publisher: Softdisk Publishing
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2012-04-07T09:02:02'
+  last_modified: '2012-04-07T09:02:02'
+version: '1.12'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FAQ.TXT
+  size: 6160
+  date: '1996-10-14T14:14:36'
+  crc: '0x8b59ddc2'
+- name: FILE_ID.DIZ
+  size: 379
+  date: '1996-10-31T16:20:00'
+  crc: '0xf3666d2d'
+- name: INSTALL.CFG
+  size: 1213
+  date: '1996-10-31T16:22:10'
+  crc: '0xaf38c5db'
+- name: INSTALL.EXE
+  size: 140088
+  date: '1995-10-15T04:00:00'
+  crc: '0xc92ca491'
+- name: LOGO.PCX
+  size: 51476
+  date: '1996-09-20T12:47:22'
+  crc: '0x54eb98d0'
+- name: ORDER.TXT
+  size: 2365
+  date: '1996-09-19T10:58:04'
+  crc: '0xf4d9f782'
+- name: RAMPAGE.SHR
+  size: 6552790
+  date: '1996-10-31T16:25:18'
+  crc: '0x9933431c'
+- name: README.TXT
+  size: 748
+  date: '1996-09-19T14:40:28'
+  crc: '0xd43640e3'
+- name: SLICENSE.TXT
+  size: 10167
+  date: '1996-09-19T10:27:52'
+  crc: '0xe46722f4'
+- name: TECHINFO.TXT
+  size: 4058
+  date: '1996-10-31T16:20:10'
+  crc: '0xc930d653'

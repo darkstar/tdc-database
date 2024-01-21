@@ -1,0 +1,43 @@
+filename: 3D Tic-Tac-Toe (1995)(Timur Fanshteyn) [Strategy].zip
+tdc_id: '3384.0'
+title:
+  screen: 3D Tic-Tac-Toe
+publisher: Timur Fanshteyn
+year: '1995'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T07:27:16'
+  last_modified: '2019-03-02T07:27:16'
+type: zip
+commands:
+  play: TICTAC.EXE
+files:
+- name: MOUSE.ASM
+  size: 1726
+  date: '1995-12-22T22:11:12'
+  crc: '0xcdd6a4bd'
+- name: TICLIB.C
+  size: 6049
+  date: '1995-12-19T22:55:18'
+  crc: '0x695ee5c2'
+- name: TICSCRN.DTA
+  size: 64777
+  date: '1995-12-19T21:26:54'
+  crc: '0x001d4a7f'
+- name: TICTAC.C
+  size: 29301
+  date: '1995-12-21T11:44:20'
+  crc: '0x79a717e6'
+- name: TICTAC.EXE
+  size: 59865
+  date: '1995-12-22T22:11:38'
+  crc: '0x163e2db0'
+- name: TICTAC.IMG
+  size: 43033
+  date: '1995-12-12T22:10:42'
+  crc: '0x2c57569a'
+- name: TICTAC.INC
+  size: 48074
+  date: '1995-12-16T18:04:54'
+  crc: '0x931bf8b6'

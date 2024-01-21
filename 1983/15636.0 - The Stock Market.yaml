@@ -1,0 +1,33 @@
+filename: Stock Market, The [SW][b1] (1983)(Dynacomp Inc.) [Strategy, Simulation].zip
+tdc_id: '15636.0'
+title:
+  screen: The Stock Market
+publisher: Dynacomp Inc.
+year: '1983'
+genre:
+- Strategy
+- Simulation
+language: English
+date:
+  added: '2019-09-02T05:04:18'
+  last_modified: '2019-09-02T05:04:18'
+type: zip
+tags:
+- Shareware
+- Bad: 1
+media: Download
+commands:
+  play: STOCK.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T12:00:00'
+  crc: '0x92293842'
+- name: STOCK.BAS
+  size: 6016
+  date: '1983-03-05T13:00:00'
+  crc: '0x5562294d'
+- name: STOCK.BAT
+  size: 15
+  date: '1980-01-01T12:00:00'
+  crc: '0x00fc35af'

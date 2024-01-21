@@ -1,0 +1,69 @@
+filename: Harpoon v1.21 (Installer) [a1] (1991)(Three-Sixty Pacific, Inc.) [Simulation, Strategy].zip
+tdc_id: '11009.6'
+title:
+  box: Harpoon
+publisher: Three-Sixty Pacific, Inc.
+year: '1991'
+genre:
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2021-05-07T14:13:42'
+  last_modified: '2021-05-07T14:13:42'
+version: '1.21'
+type: zip
+tags:
+- Alternate: 1
+installer: true
+files:
+- name: DISK4\
+  size: 0
+  date: '1991-08-11T22:09:38'
+- name: DISK4\GIUK.RES
+  size: 167355
+  date: '1990-08-27T13:07:50'
+  crc: '0x08276ab4'
+- name: DISK4\HARPOON.OPT
+  size: 72
+  date: '1991-08-11T22:09:38'
+  crc: '0xc9791203'
+- name: GIUK.RES
+  size: 167355
+  date: '1990-08-27T13:07:50'
+  crc: '0x08276ab4'
+- name: GIUKCGA.RES
+  size: 106198
+  date: '1990-03-09T17:03:56'
+  crc: '0x65013aff'
+- name: GIUKEGA.RES
+  size: 496153
+  date: '1990-05-25T14:24:56'
+  crc: '0xa1126267'
+- name: GIUKTGA.RES
+  size: 127440
+  date: '1990-05-25T14:50:46'
+  crc: '0x1037806f'
+- name: HARPOON
+  size: 0
+  date: '1991-08-11T22:07:40'
+- name: HARPOON.1
+  size: 360448
+  date: '1991-08-11T22:01:20'
+  crc: '0x61cd990f'
+- name: HARPOON.2
+  size: 63179
+  date: '1991-08-11T22:01:20'
+  crc: '0x7829b3ee'
+- name: HARPOON.EXE
+  size: 423627
+  date: '1991-08-14T17:45:24'
+  crc: '0xeb1920f2'
+- name: HARPOON.OPT
+  size: 72
+  date: '1990-08-29T16:36:02'
+  crc: '0xef0766ee'
+- name: JOINHARP.BAT
+  size: 42
+  date: '1990-05-03T16:27:32'
+  crc: '0x8ca8c136'

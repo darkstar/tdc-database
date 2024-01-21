@@ -1,0 +1,31 @@
+filename: TetrOS v1.01 (2004)(Privalov) [Action, Strategy].zip
+tdc_id: '4944.0'
+title:
+  screen: TetrOS
+publisher: Privalov
+year: '2004'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-02T10:57:00'
+  last_modified: '2019-03-02T10:57:00'
+version: '1.01'
+type: zip
+references:
+  dosid: DOS07301
+  exodos: TetrOS (2004).zip
+files:
+- name: TETROS.ASM
+  size: 6504
+  date: '2004-09-05T14:45:06'
+  crc: '0xf2e8add0'
+- name: TETROS.BIN
+  size: 512
+  date: '2004-09-05T14:45:06'
+  crc: '0x1394c82b'
+- name: TETROS.IMG
+  size: 164352
+  date: '1980-01-01T00:00:00'
+  crc: '0x1208068b'

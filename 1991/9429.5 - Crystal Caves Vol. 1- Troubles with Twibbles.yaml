@@ -1,0 +1,32 @@
+filename: Crystal Caves Vol. 1- Troubles with Twibbles v1.0a (Installer) [SW] (1991)(Apogee Software, Ltd.) [Action].zip
+tdc_id: '9429.5'
+title:
+  screen: 'Crystal Caves Vol. 1: Troubles with Twibbles'
+publisher: Apogee Software, Ltd.
+year: '1991'
+genre: Action
+language: English
+date:
+  added: '2010-07-22T10:49:52'
+  last_modified: '2010-07-22T10:49:52'
+version: 1.0a
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: CCSW10A.SHR
+  size: 182449
+  date: '2005-10-23T13:01:00'
+  crc: '0xcd043008'
+- name: FILE_ID.DIZ
+  size: 343
+  date: '2005-10-23T13:01:00'
+  crc: '0x399ca7f0'
+- name: INSTALL.EXE
+  size: 142475
+  date: '2005-10-23T13:01:00'
+  crc: '0xf6a6694f'

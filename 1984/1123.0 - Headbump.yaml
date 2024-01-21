@@ -1,0 +1,29 @@
+filename: Headbump v2.00 (1984)(Barrett A. Hurwitz) [Action].zip
+tdc_id: '1123.0'
+title:
+  screen: Headbump
+publisher: Barrett A. Hurwitz
+year: '1984'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:06'
+  last_modified: '2019-03-01T18:24:06'
+version: '2.00'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 24
+  date: '2019-01-12T21:24:40'
+  crc: '0x2627c52c'
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1988-10-05T02:00:08'
+  crc: '0x2a44af39'
+- name: HEADBUMP.BAS
+  size: 2560
+  date: '1991-12-23T05:50:00'
+  crc: '0x23050774'

@@ -1,0 +1,58 @@
+filename: Shinobi (1989)(SEGA of America, Inc.) [Action].zip
+tdc_id: '5928.0'
+title:
+  box: Shinobi
+publisher: SEGA of America, Inc.
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:28:54'
+  last_modified: '2019-03-01T18:28:54'
+type: zip
+commands:
+  play: SH.EXE
+references:
+  dosid: DOS04534
+  exodos: Shinobi (1989).zip
+files:
+- name: BACKCGA.CTL
+  size: 1842
+  date: '1990-12-29T14:05:04'
+  crc: '0x5861a59d'
+- name: BACKCGA.GRF
+  size: 131838
+  date: '1990-12-29T14:05:30'
+  crc: '0xf4505998'
+- name: BACKGR.CTL
+  size: 1842
+  date: '1990-12-29T14:06:00'
+  crc: '0x475e99b4'
+- name: BACKGR.GRF
+  size: 171330
+  date: '1990-12-29T14:06:18'
+  crc: '0xf326299c'
+- name: CALIBRAT
+  size: 8
+  date: '1991-03-14T19:08:56'
+  crc: '0xba2ec51c'
+- name: PICTCGA.CTL
+  size: 1432
+  date: '1990-12-29T14:05:06'
+  crc: '0xc3af4267'
+- name: PICTCGA.GRF
+  size: 82209
+  date: '1990-12-29T14:05:16'
+  crc: '0x38bb6a83'
+- name: PICTURES.CTL
+  size: 1432
+  date: '1990-12-29T14:06:00'
+  crc: '0x30ee7289'
+- name: PICTURES.GRF
+  size: 98184
+  date: '1990-12-29T14:06:32'
+  crc: '0xfd509772'
+- name: SH.EXE
+  size: 98335
+  date: '1990-12-29T14:05:04'
+  crc: '0xa5d7692e'

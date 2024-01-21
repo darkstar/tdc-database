@@ -1,0 +1,47 @@
+filename: Tyrian v1.1 (Installer) [SWR] (1995)(Epic MegaGames, Inc.) [Action].zip
+tdc_id: '5379.1'
+title:
+  screen: Tyrian
+publisher: Epic MegaGames, Inc.
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T09:07:12'
+  last_modified: '2019-03-02T09:07:12'
+version: '1.1'
+type: zip
+tags:
+- SharewareRegistered
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.BIN
+  size: 4000
+  date: '1994-03-18T12:45:30'
+  crc: '0x75d92d0d'
+- name: INSTALL.DAT
+  size: 16
+  date: '1995-10-04T10:15:16'
+  crc: '0x08c9fcd7'
+- name: INSTALL.EXE
+  size: 21264
+  date: '1994-06-03T14:37:16'
+  crc: '0x9b970def'
+- name: TYRREG.X00
+  size: 84
+  date: '1995-10-04T10:15:16'
+  crc: '0x2377b39a'
+- name: TYRREG.X01
+  size: 1430528
+  date: '1995-10-04T10:14:52'
+  crc: '0xab43bd3d'
+- name: TYRREG.X02
+  size: 1457152
+  date: '1995-10-04T10:15:00'
+  crc: '0xa0a329c6'
+- name: TYRREG.Z03
+  size: 1119071
+  date: '1995-10-04T10:15:06'
+  crc: '0xe23d3c99'

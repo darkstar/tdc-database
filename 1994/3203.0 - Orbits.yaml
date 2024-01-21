@@ -1,0 +1,87 @@
+filename: Orbits v3.01 (1994)(Wintertech) [Educational].zip
+tdc_id: '3203.0'
+title:
+  screen: Orbits
+publisher: Wintertech
+year: '1994'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T22:02:30'
+  last_modified: '2019-03-01T22:02:30'
+version: '3.01'
+type: zip
+commands:
+  play: ORBITS3.EXE
+references:
+  dosid: DOS15661
+  exodos: Orbits Voyage Through the Solar System (1994).zip
+files:
+- name: LIBRARY1.RSC
+  size: 357548
+  date: '1995-07-24T19:15:22'
+  crc: '0x9b6dfff9'
+- name: LIBRARY2.RSC
+  size: 363842
+  date: '1995-07-24T19:15:22'
+  crc: '0xe922f9d6'
+- name: LIBRARY3.RSC
+  size: 372122
+  date: '1995-07-24T19:15:24'
+  crc: '0x1e70c513'
+- name: LIBRARY4.RSC
+  size: 367397
+  date: '1995-07-24T19:14:50'
+  crc: '0x89616443'
+- name: LIBRARY5.RSC
+  size: 364370
+  date: '1995-07-24T19:15:24'
+  crc: '0xb672dcd0'
+- name: LIBRARY6.RSC
+  size: 351348
+  date: '1995-07-24T19:15:24'
+  crc: '0xeec53467'
+- name: LIBRARY7.RSC
+  size: 112706
+  date: '1995-07-24T19:15:26'
+  crc: '0x850affb9'
+- name: ORB3CFG.BAK
+  size: 233
+  date: '1995-07-24T19:14:50'
+  crc: '0x5fac5f69'
+- name: ORB3CFG.CFG
+  size: 233
+  date: '1995-07-24T19:14:50'
+  crc: '0x5fac5f69'
+- name: ORB3DRV.DRV
+  size: 64478
+  date: '1995-07-24T19:14:52'
+  crc: '0xf2902187'
+- name: ORB3PRN.PRN
+  size: 10089
+  date: '1995-07-24T19:14:52'
+  crc: '0x4615fb81'
+- name: ORBITS3.EXE
+  size: 194320
+  date: '1995-07-24T19:15:26'
+  crc: '0xfa06d77a'
+- name: ORBITS3.ICO
+  size: 766
+  date: '1995-07-24T19:14:52'
+  crc: '0x4364b47f'
+- name: ORBITS3.OVR
+  size: 1962151
+  date: '1995-07-24T19:14:52'
+  crc: '0x0b07a470'
+- name: ORBITS3.PIF
+  size: 545
+  date: '1995-07-24T19:14:50'
+  crc: '0x4514df7c'
+- name: PLANETS.DAT
+  size: 63288
+  date: '1995-07-24T19:15:26'
+  crc: '0x6e72277c'
+- name: PLANETS.NDX
+  size: 648
+  date: '1995-07-24T19:14:54'
+  crc: '0x5e2df190'

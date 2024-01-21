@@ -1,0 +1,30 @@
+filename: Drag (1999)(Adlor de Bard) [Simulation, Strategy].zip
+tdc_id: '4344.0'
+title:
+  screen: Drag
+publisher: Adlor de Bard
+year: '1999'
+genre:
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2019-03-02T10:45:42'
+  last_modified: '2019-03-02T10:45:42'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: DRAG.BAS
+  size: 4140
+  date: '2018-03-10T14:52:56'
+  crc: '0x0f5f5760'
+- name: GO.BAT
+  size: 24
+  date: '2018-11-28T18:10:50'
+  crc: '0x9b259c3d'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

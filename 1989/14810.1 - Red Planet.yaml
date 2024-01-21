@@ -1,0 +1,32 @@
+filename: Red Planet v2.0 [SW] (1989)(Conrad Button) [Adventure, Interactive Fiction].zip
+tdc_id: '14810.1'
+title:
+  screen: Red Planet
+publisher: Conrad Button
+year: '1989'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:28:46'
+  last_modified: '2019-03-01T18:28:46'
+version: '2.0'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: REDPLAN.EXE
+references:
+  dosid: DOS06312
+  exodos: Red Planet (1989).zip
+files:
+- name: REDPLAN.EXE
+  size: 98064
+  date: '1989-02-18T00:40:12'
+  crc: '0x19b40b88'
+- name: REDPLAN.TXT
+  size: 13312
+  date: '1989-02-18T01:12:28'
+  crc: '0xaf976bc1'

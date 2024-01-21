@@ -1,0 +1,44 @@
+filename: Spectre Towers v2.0 [SW] (1989)(Gold Coast Software) [Adventure, Interactive Fiction].zip
+tdc_id: '15345.1'
+title:
+  screen: Spectre Towers
+publisher: Gold Coast Software
+year: '1989'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:29:02'
+  last_modified: '2019-03-01T18:29:02'
+version: '2.0'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: st2.exe
+references:
+  dosid: DOS06343
+  exodos: Spectre Towers (1989).zip
+files:
+- name: GCS.doc
+  size: 35840
+  date: '2009-01-06T15:58:28'
+  crc: '0x11a71d71'
+- name: gc.000
+  size: 16456
+  date: '1989-02-28T21:55:08'
+  crc: '0x649c2d26'
+- name: st.000
+  size: 16391
+  date: '1989-01-24T00:22:46'
+  crc: '0xf8fe3b5d'
+- name: st2.doc
+  size: 31232
+  date: '2009-01-06T17:06:52'
+  crc: '0xcd38b1b9'
+- name: st2.exe
+  size: 88092
+  date: '1989-05-17T20:55:44'
+  crc: '0xca87fb64'

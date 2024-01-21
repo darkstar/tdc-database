@@ -1,0 +1,42 @@
+filename: Monkey Island 2- LeChuck's Revenge (Installer) (Es) [a1] (1991)(Lucasfilm Games LLC) [Adventure].zip
+tdc_id: '7891.8'
+title:
+  box: 'Monkey Island 2: LeChuck''s Revenge'
+publisher: Lucasfilm Games LLC
+year: '1991'
+genre: Adventure
+language: Spanish
+date:
+  added: '2019-03-01T18:36:58'
+  last_modified: '2019-03-01T18:36:58'
+type: zip
+tags:
+- Alternate: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 23491
+  date: '1992-04-03T13:32:08'
+  crc: '0x8f390e81'
+- name: PCV10__A.MI2
+  size: 1432136
+  date: '1992-04-03T13:39:20'
+  crc: '0x23209ade'
+- name: PCV10__B.MI2
+  size: 1456136
+  date: '1992-04-03T13:39:20'
+  crc: '0x9f4e1e98'
+- name: PCV10__C.MI2
+  size: 1456136
+  date: '1992-04-03T13:39:20'
+  crc: '0xd290f509'
+- name: PCV10__D.MI2
+  size: 1456136
+  date: '1992-04-03T13:39:20'
+  crc: '0x5327ede3'
+- name: PCV10__E.MI2
+  size: 1438350
+  date: '1992-04-03T13:39:20'
+  crc: '0x4f22da54'

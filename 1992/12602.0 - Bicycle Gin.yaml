@@ -1,0 +1,63 @@
+filename: Bicycle Gin v25.12.28 (1992)(SWFTE International Ltd.) [Strategy, Cards].zip
+tdc_id: '12602.0'
+parent_id: '12602.1'
+title:
+  box: Bicycle Gin
+publisher: SWFTE International Ltd.
+year: '1992'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:41:28'
+  last_modified: '2019-03-01T18:41:28'
+version: 25.12.28
+type: zip
+commands:
+  play: DG.EXE
+files:
+- name: CYCLEVGA.TBM
+  size: 47648
+  date: '1993-07-15T10:34:38'
+  crc: '0x162786af'
+- name: CYCMEVGA.TBM
+  size: 18872
+  date: '1993-07-15T10:35:18'
+  crc: '0x9f32e169'
+- name: DG.EXE
+  size: 201984
+  date: '1995-09-07T10:13:20'
+  crc: '0x98e0ade2'
+- name: GR.WRF
+  size: 4026
+  date: '1995-09-06T08:55:02'
+  crc: '0x02e9b848'
+- name: METWND01.DRV
+  size: 26244
+  date: '1992-12-07T18:11:24'
+  crc: '0x6ee7cdad'
+- name: METWND03.DRV
+  size: 26315
+  date: '1992-12-11T09:44:12'
+  crc: '0xac73bad6'
+- name: METWND04.DRV
+  size: 58635
+  date: '1992-12-07T18:11:34'
+  crc: '0x2a55baac'
+- name: METWND05.DRV
+  size: 62907
+  date: '1992-12-07T18:11:38'
+  crc: '0x0b81a318'
+- name: METWND08.DRV
+  size: 33855
+  date: '1992-12-07T18:12:10'
+  crc: '0xb4aced5a'
+- name: README.TXT
+  size: 11876
+  date: '1995-09-06T15:29:50'
+  crc: '0x0a125752'
+- name: VGA.TGI
+  size: 2044
+  date: '1993-07-03T08:01:28'
+  crc: '0x19cfba55'

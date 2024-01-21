@@ -1,0 +1,73 @@
+filename: Drak v2.00 [SWR] (1997)(Nostalgy enr.) [Action, Puzzle].zip
+tdc_id: '6716.6'
+parent_id: '6716.4'
+title:
+  box: Drak
+publisher: Nostalgy enr.
+year: '1997'
+genre:
+- Action
+- Puzzle
+language: English
+date:
+  added: '2024-01-15T13:57:16'
+  last_modified: '2024-01-15T13:57:16'
+version: '2.00'
+type: zip
+tags:
+- SharewareRegistered
+media: 1.44M
+commands:
+  play: DRAK.BAT
+  setup: CONFIG.EXE
+references:
+  mobygames: https://www.mobygames.com/game/19632/drak/
+files:
+- name: CONFIG.DRK
+  size: 31
+  date: '1997-02-11T09:19:00'
+  crc: '0xd1b5cbd5'
+- name: CONFIG.EXE
+  size: 51160
+  date: '1997-02-11T09:19:00'
+  crc: '0xb2f14f40'
+- name: DATA.DRK
+  size: 761218
+  date: '1997-02-11T09:19:00'
+  crc: '0xfd1322b1'
+- name: DRAK.BAT
+  size: 25
+  date: '1997-02-11T09:19:00'
+  crc: '0x0f585796'
+- name: DRAK95.PIF
+  size: 967
+  date: '1997-02-11T09:19:00'
+  crc: '0xfc4b8493'
+- name: DRAKF.EXE
+  size: 154556
+  date: '1997-02-11T09:19:00'
+  crc: '0x19b7bd36'
+- name: L.BAT
+  size: 2796
+  date: '1997-02-11T09:19:00'
+  crc: '0x14541bb0'
+- name: LICENSE.TXT
+  size: 2405
+  date: '1997-02-11T09:19:00'
+  crc: '0x80765a8f'
+- name: MANUAL.TXT
+  size: 16037
+  date: '1997-02-11T09:19:00'
+  crc: '0x2213a639'
+- name: SAVES.DRK
+  size: 143
+  date: '1997-02-11T09:19:00'
+  crc: '0x8ce2197b'
+- name: SOUND.DRK
+  size: 402575
+  date: '1997-02-11T09:19:00'
+  crc: '0x520f002b'
+- name: TOPSCR.DRK
+  size: 1987
+  date: '1997-02-11T09:19:00'
+  crc: '0xde04d9bc'

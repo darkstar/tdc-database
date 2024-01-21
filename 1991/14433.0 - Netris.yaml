@@ -1,0 +1,37 @@
+filename: Netris [SW][b1] (1991)(Brian E. Lemoff) [Action, Strategy].zip
+tdc_id: '14433.0'
+title:
+  screen: Netris
+publisher: Brian E. Lemoff
+year: '1991'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:37:06'
+  last_modified: '2022-12-06T09:06:47'
+type: zip
+tags:
+- Shareware
+- Bad: 1
+media: Download
+commands:
+  play: NETRIS.EXE
+files:
+- name: NETGAME.OVL
+  size: 134656
+  date: '1987-06-09T14:00:04'
+  crc: '0x22b3ed8c'
+- name: NETHALL.FAM
+  size: 336
+  date: '1993-01-21T15:43:42'
+  crc: '0xf11ce286'
+- name: NETINST
+  size: 4088
+  date: '1991-12-05T21:25:46'
+  crc: '0xf7dc45a8'
+- name: NETRIS.EXE
+  size: 70790
+  date: '1991-12-11T21:25:48'
+  crc: '0xbd3a3c03'

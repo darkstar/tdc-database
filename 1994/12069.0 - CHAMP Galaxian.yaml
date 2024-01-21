@@ -1,0 +1,54 @@
+filename: CHAMP Galaxian [SW] (1994)(CHAMProgramming Corporation) [Action].zip
+tdc_id: '12069.0'
+title:
+  screen: CHAMP Galaxian
+publisher: CHAMProgramming Corporation
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T21:55:06'
+  last_modified: '2019-03-01T21:55:06'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: GALAX_LT.EXE
+files:
+- name: ALPHA.FNT
+  size: 1024
+  date: '1993-11-10T01:01:50'
+  crc: '0x6ade0542'
+- name: GALAXIAN.CFG
+  size: 14
+  date: '1994-04-16T12:05:36'
+  crc: '0xcfd675ec'
+- name: GALAXIAN.HOF
+  size: 240
+  date: '1994-04-16T12:05:36'
+  crc: '0xd2d11fa0'
+- name: GALAXIAN.ICO
+  size: 766
+  date: '1994-12-06T18:37:50'
+  crc: '0x821cb37a'
+- name: GALAX_LT.DOC
+  size: 8756
+  date: '1995-01-08T10:46:06'
+  crc: '0xcfb255dd'
+- name: GALAX_LT.EXE
+  size: 227387
+  date: '1995-01-08T10:16:00'
+  crc: '0x5eb65788'
+- name: INTRO.SNG
+  size: 404
+  date: '1994-12-16T00:07:30'
+  crc: '0x499d3751'
+- name: README.BAT
+  size: 52
+  date: '1995-01-08T10:20:48'
+  crc: '0xeb151c40'
+- name: SMALL.FNT
+  size: 1024
+  date: '1994-12-15T05:03:42'
+  crc: '0x6b9b8675'

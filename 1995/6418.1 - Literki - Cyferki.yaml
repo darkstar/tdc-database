@@ -1,0 +1,91 @@
+filename: Literki - Cyferki v3.0 (Pl) (1995)(VIPS) [Educational].zip
+tdc_id: '6418.1'
+title:
+  box: Literki - Cyferki
+publisher: VIPS
+year: '1995'
+genre: Educational
+language: Polish
+date:
+  added: '2022-12-29T08:59:39'
+  last_modified: '2022-12-29T08:59:39'
+version: '3.0'
+type: zip
+commands:
+  play: _LITERKI.EXE
+  setup: OFERTA.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/literki-cyferki
+files:
+- name: CZYTAJTO.EXE
+  size: 30250
+  date: '1998-07-30T22:53:08'
+  crc: '0x6a0d1618'
+- name: DANE0.VOL
+  size: 344880
+  date: '1998-07-30T22:53:08'
+  crc: '0xb6070edb'
+- name: DANE1.VOL
+  size: 1331200
+  date: '1998-07-30T22:53:08'
+  crc: '0xff2653e7'
+- name: DEBUG.TXT
+  size: 12
+  date: '1998-07-30T22:53:08'
+  crc: '0x2654fb47'
+- name: INFO.TXT
+  size: 1555
+  date: '1998-07-30T22:53:08'
+  crc: '0x0f87530e'
+- name: INSTALUJ.EXE
+  size: 106034
+  date: '1998-07-30T22:53:08'
+  crc: '0x47bcccc4'
+- name: LCKONFIG.BAT
+  size: 25
+  date: '1998-07-30T22:53:08'
+  crc: '0x00be8b9b'
+- name: LIT.2ND
+  size: 188952
+  date: '1998-07-30T22:53:08'
+  crc: '0xfdaf543b'
+- name: LIT.EX_
+  size: 188952
+  date: '1998-07-30T22:53:08'
+  crc: '0xfdaf543b'
+- name: LIT486.EX_
+  size: 188952
+  date: '1998-07-30T22:53:08'
+  crc: '0xfdaf543b'
+- name: LITERKI.BAT
+  size: 23
+  date: '1998-07-30T22:53:08'
+  crc: '0x943479f3'
+- name: LITERKI.CFG
+  size: 20
+  date: '1998-07-30T22:53:08'
+  crc: '0x26b37280'
+- name: LITERKI.ICO
+  size: 766
+  date: '1998-07-30T22:53:08'
+  crc: '0x6ad37007'
+- name: LITERKI.PIF
+  size: 545
+  date: '1998-07-30T22:53:08'
+  crc: '0x7922f6d9'
+- name: OFERTA.EXE
+  size: 41124
+  date: '1998-07-30T22:53:08'
+  crc: '0xf649e3f7'
+- name: ZAMOWIEN.TXT
+  size: 1770
+  date: '1998-07-30T22:53:08'
+  crc: '0x328a92f3'
+- name: _LCKONF.EXE
+  size: 34325
+  date: '1998-07-30T22:53:08'
+  crc: '0x113174a6'
+- name: _LITERKI.EXE
+  size: 188952
+  date: '1998-07-30T22:53:08'
+  crc: '0xfdaf543b'

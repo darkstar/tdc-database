@@ -1,0 +1,55 @@
+filename: 富貴列車-亞摩斯紀事 (Installer) (Zh) (1996)(Fullsoft, Inc.) [Adventure].zip
+tdc_id: '7818.0'
+title:
+  box: 富貴列車-亞摩斯紀事
+  translation: Millionaires' Express
+  qualifier: Installer
+publisher: Fullsoft, Inc.
+year: '1996'
+genre: Adventure
+language: Chinese
+date:
+  added: '2019-03-02T10:13:22'
+  last_modified: '2023-12-05T13:47:55'
+type: zip
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: GOLDEN.000
+  size: 1162456
+  date: '1996-10-13T23:50:14'
+  crc: '0xa2e732fd'
+- name: GOLDEN.001
+  size: 1450000
+  date: '1996-10-13T23:50:16'
+  crc: '0xb4ac8c77'
+- name: GOLDEN.002
+  size: 1450000
+  date: '1996-10-13T23:50:18'
+  crc: '0xd408ad54'
+- name: GOLDEN.003
+  size: 1450000
+  date: '1996-10-13T23:50:20'
+  crc: '0x12498180'
+- name: GOLDEN.004
+  size: 1450000
+  date: '1996-10-13T23:50:22'
+  crc: '0xd7e8fb96'
+- name: GOLDEN.005
+  size: 1450000
+  date: '1996-10-13T23:50:24'
+  crc: '0x3edeada8'
+- name: GOLDEN.006
+  size: 1450000
+  date: '1996-10-13T23:50:26'
+  crc: '0xc7dda297'
+- name: INSTALL.DAT
+  size: 34786
+  date: '1996-10-13T23:49:02'
+  crc: '0xb0ee77bb'
+- name: INSTALL.EXE
+  size: 23275
+  date: '1996-09-26T13:29:58'
+  crc: '0x9b5d34f0'

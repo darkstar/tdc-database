@@ -1,0 +1,29 @@
+filename: Deadline r26 [DC] (1982)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '5174.2'
+parent_id: '5174.3'
+title:
+  box: Deadline
+publisher: Infocom, Inc.
+year: '1982'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2022-06-02T12:39:52'
+  last_modified: '2022-06-02T12:39:52'
+release: '26'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: DEADLINE.COM
+files:
+- name: DEADLINE.COM
+  size: 12928
+  date: '1980-01-01T00:00:00'
+  crc: '0xd74eb084'
+- name: DEADLINE.DAT
+  size: 129728
+  date: '2008-01-14T22:16:12'
+  crc: '0x99d01310'

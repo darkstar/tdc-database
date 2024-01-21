@@ -1,0 +1,53 @@
+filename: Grandest Fleet, The v05.27.94 (Installer) (1994)(Quantum Quality Productions) [Strategy].zip
+tdc_id: '10885.1'
+title:
+  box: The Grandest Fleet
+publisher: Quantum Quality Productions
+year: '1994'
+genre: Strategy
+language: English
+date:
+  added: '2021-07-16T12:46:56'
+  last_modified: '2021-07-16T12:46:56'
+version: 05.27.94
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK.ID
+  size: 36
+  date: '1994-05-27T15:50:34'
+  crc: '0x568d4eeb'
+- name: DISK2.ID
+  size: 36
+  date: '1994-05-27T15:51:50'
+  crc: '0x54cbf0b2'
+- name: DISK3.ID
+  size: 36
+  date: '1994-05-27T15:53:04'
+  crc: '0x55099a85'
+- name: GFLEET.001
+  size: 1317376
+  date: '1994-05-27T15:54:26'
+  crc: '0x55db1450'
+- name: GFLEET.002
+  size: 1457152
+  date: '1994-05-27T15:52:48'
+  crc: '0x81d40883'
+- name: GFLEET.003
+  size: 1340094
+  date: '1994-05-27T15:53:56'
+  crc: '0xe8e69ee9'
+- name: GG.INF
+  size: 2446
+  date: '1994-05-27T16:02:16'
+  crc: '0x7e00c838'
+- name: INSTALL.EXE
+  size: 134901
+  date: '1993-05-25T15:14:24'
+  crc: '0x0a184d27'
+- name: READ.ME
+  size: 1835
+  date: '1994-05-27T12:03:46'
+  crc: '0x58e80bbe'

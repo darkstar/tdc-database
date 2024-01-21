@@ -1,0 +1,48 @@
+filename: Prehistorik (En)(De)(Fr)(It)(Es) [a1] (1991)(Titus Interactive S.A.) [Action].zip
+tdc_id: '5106.1'
+title:
+  box: Prehistorik
+publisher: Titus Interactive S.A.
+year: '1991'
+genre: Action
+language:
+- English
+- Spanish
+- French
+- Italian
+- German
+date:
+  added: '2019-03-01T18:37:28'
+  last_modified: '2019-03-01T18:37:28'
+type: zip
+tags:
+- Alternate: 1
+commands:
+  play: HISTORIK.EXE
+references:
+  mobygames: http://www.mobygames.com/game/dos/prehistorik
+files:
+- name: CT-VOICE.DRV
+  size: 3907
+  date: '1991-10-08T09:17:14'
+  crc: '0x8b2e8c6a'
+- name: FILESA.CUR
+  size: 54304
+  date: '1991-04-24T20:47:10'
+  crc: '0x6d132c4a'
+- name: FILESA.VGA
+  size: 208705
+  date: '1991-04-17T14:14:40'
+  crc: '0x3f245288'
+- name: FILESB.CUR
+  size: 61207
+  date: '1991-04-26T20:26:16'
+  crc: '0x91ffbe14'
+- name: FILESB.VGA
+  size: 295166
+  date: '1991-04-17T14:11:46'
+  crc: '0x2238d4e8'
+- name: HISTORIK.EXE
+  size: 165121
+  date: '1991-05-08T14:17:46'
+  crc: '0xdc4cf58b'

@@ -1,0 +1,144 @@
+filename: Необыкновенные приключения маленького пупса I (Installer) (Ru) (1995)(Chudosoft) [Adventure, Interactive Fiction].zip
+tdc_id: '3657.0'
+title:
+  screen: Необыкновенные приключения маленького пупса I
+  transliteration: Neobyknovennye priklyucheniya malenkogo pupsa I
+  qualifier: Installer
+publisher: Chudosoft
+year: '1995'
+genre:
+- Adventure
+- Interactive Fiction
+language: Russian
+date:
+  added: '2019-03-02T08:58:00'
+  last_modified: '2023-06-29T18:31:55'
+type: zip
+media: Download
+installer: true
+commands:
+  play: SET_PUPS.EXE
+files:
+- name: CRE_PUPS\
+  size: 0
+  date: '2001-07-06T23:38:56'
+- name: CRE_PUPS\PUPS.HLP
+  size: 882
+  date: '1995-08-04T05:42:56'
+  crc: '0xe667f697'
+- name: CRE_PUPS\PUPS.MES
+  size: 630
+  date: '1995-08-04T05:26:48'
+  crc: '0x7aaa97e3'
+- name: CRE_PUPS\PUPS.NOU
+  size: 530
+  date: '1995-08-06T02:00:34'
+  crc: '0x9e4c26e8'
+- name: CRE_PUPS\PUPS.ROM
+  size: 18270
+  date: '1995-08-04T16:48:36'
+  crc: '0xed1bab50'
+- name: CRE_PUPS\PUPS.TNG
+  size: 20400
+  date: '1995-08-06T14:10:12'
+  crc: '0xa496f406'
+- name: CRE_PUPS\PUPS.VRB
+  size: 320
+  date: '1995-08-04T05:17:14'
+  crc: '0x805a23a8'
+- name: DOC_PUPS\
+  size: 0
+  date: '2001-07-06T23:38:56'
+- name: DOC_PUPS\1
+  size: 179
+  date: '1999-04-06T13:26:18'
+  crc: '0xe25aee25'
+- name: DOC_PUPS\F-DCRYPT.EXE
+  size: 26401
+  date: '1998-01-26T01:04:00'
+  crc: '0xa57ee0a7'
+- name: DOC_PUPS\MSOFPASS.EXE
+  size: 12800
+  date: '1998-02-10T20:38:14'
+  crc: '0xaaf9682e'
+- name: DOC_PUPS\PUPS.DOC
+  size: 48640
+  date: '1995-08-06T02:44:12'
+  crc: '0x06eb806e'
+- name: DOC_PUPS\PUPS.TXT
+  size: 1925
+  date: '1995-08-07T21:27:38'
+  crc: '0x1742d607'
+- name: DOC_PUPS\PUPS_MAP.TXT
+  size: 1913
+  date: '1995-08-08T20:02:24'
+  crc: '0x14e0a0c5'
+- name: DOC_PUPS\PUPS_RLZ.TXT
+  size: 2139
+  date: '1995-08-08T20:01:26'
+  crc: '0x880c7b28'
+- name: DOC_PUPS\PUPS_TEC.TXT
+  size: 1757
+  date: '1995-08-08T19:56:44'
+  crc: '0x830f6ebe'
+- name: DOC_PUPS\REALIZE.TXT
+  size: 1857
+  date: '1995-08-07T22:26:32'
+  crc: '0x1c04c89d'
+- name: DOC_PUPS\WORD97CR.EXE
+  size: 65536
+  date: '1998-03-12T00:39:56'
+  crc: '0xca1f53f0'
+- name: LNK_PUPS\
+  size: 0
+  date: '2001-07-06T23:38:56'
+- name: LNK_PUPS\PUPS.LNK
+  size: 12639
+  date: '1995-08-06T14:10:32'
+  crc: '0xb726f738'
+- name: MAKEDISK\
+  size: 0
+  date: '2001-07-06T23:38:56'
+- name: MAKEDISK\MAKEDISK.EXE
+  size: 6544
+  date: '1995-08-06T20:36:50'
+  crc: '0x2e57dba2'
+- name: MOSLO.COM
+  size: 1642
+  date: '1998-05-23T07:16:32'
+  crc: '0x3744ed14'
+- name: PAS_PUPS\
+  size: 0
+  date: '2001-07-06T23:38:56'
+- name: PAS_PUPS\MAKEDISK.PAS
+  size: 1167
+  date: '1995-08-06T21:41:34'
+  crc: '0x59da64d8'
+- name: PAS_PUPS\PUPS.PAS
+  size: 106668
+  date: '1995-08-06T23:45:34'
+  crc: '0x8da4de94'
+- name: PAS_PUPS\SET_PUPS.PAS
+  size: 4766
+  date: '1995-08-06T23:05:12'
+  crc: '0xbc1ce21a'
+- name: READ.ME
+  size: 5521
+  date: '2001-07-09T17:16:30'
+  crc: '0xc61e2c38'
+- name: SET_PUPS.DAT
+  size: 320256
+  date: '1995-08-06T23:47:30'
+  crc: '0xc4ffb382'
+- name: SET_PUPS.EXE
+  size: 8194
+  date: '1995-08-06T20:23:46'
+  crc: '0x938d9c7b'
+- name: SET_PUPS.SOF
+  size: 30
+  date: '1995-08-06T23:47:30'
+  crc: '0x44d563fe'
+- name: pups.bat
+  size: 24
+  date: '2001-07-06T23:50:42'
+  crc: '0xe2fe93f4'

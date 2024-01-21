@@ -1,0 +1,33 @@
+filename: Great Naval Battles- North Atlantic 1939-1943 - America in the Atlantic v1.2 (Installer) (1993)(Strategic Simulations, Inc.) [Simulation, Strategy, Addon].zip
+tdc_id: '10910.0'
+parent_id: '10910.2'
+title:
+  box: 'Great Naval Battles: North Atlantic 1939-1943 - America in the Atlantic'
+publisher: Strategic Simulations, Inc.
+year: '1993'
+genre:
+- Simulation
+- Strategy
+- Addon
+language: English
+date:
+  added: '2019-03-01T19:09:24'
+  last_modified: '2019-03-01T19:09:24'
+version: '1.2'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: ARJ.EXE
+  size: 108570
+  date: '1992-08-27T23:26:32'
+  crc: '0x5767d310'
+- name: DISK1.ARJ
+  size: 625441
+  date: '1993-02-17T17:02:00'
+  crc: '0xf23e1525'
+- name: INSTALL.EXE
+  size: 24249
+  date: '1993-02-17T11:40:38'
+  crc: '0x06e142e3'

@@ -1,0 +1,29 @@
+filename: Puzzle v1.3 [FW] (1987)(T. C. Osborne) [Strategy, Puzzle].zip
+tdc_id: '1427.0'
+title:
+  screen: Puzzle
+publisher: T. C. Osborne
+year: '1987'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-03-01T18:25:32'
+  last_modified: '2019-03-01T18:25:32'
+version: '1.3'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: puzzle.exe
+files:
+- name: puzzle.doc
+  size: 9600
+  date: '1987-03-16T14:27:04'
+  crc: '0x027d218e'
+- name: puzzle.exe
+  size: 69764
+  date: '1987-02-23T07:50:06'
+  crc: '0xeb339308'

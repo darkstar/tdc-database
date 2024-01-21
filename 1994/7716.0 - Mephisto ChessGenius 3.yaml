@@ -1,0 +1,46 @@
+filename: Mephisto ChessGenius 3 v3.001 (En)(De)(Fr)(Es) (1994)(Richard Lang) [Strategy, Chess].zip
+tdc_id: '7716.0'
+title:
+  screen: Mephisto ChessGenius 3
+publisher: Richard Lang
+year: '1994'
+genre:
+- Strategy
+- Chess
+language:
+- English
+- Spanish
+- French
+- German
+date:
+  added: '2019-03-01T22:02:02'
+  last_modified: '2019-03-01T22:02:02'
+version: '3.001'
+type: zip
+commands:
+  play: CG3.EXE
+files:
+- name: BOOKNAME.TXT
+  size: 30288
+  date: '1994-10-17T15:00:06'
+  crc: '0x17e85de7'
+- name: CG3.EXE
+  size: 112694
+  date: '1995-07-09T17:10:46'
+  crc: '0x93050f7e'
+- name: CG3TEXT.CGS
+  size: 14710
+  date: '1994-10-17T15:00:12'
+  crc: '0x9e5686ee'
+- name: CLIPBORD.GAM
+  size: 73
+  date: '1996-03-12T23:53:56'
+  crc: '0x0b0df085'
+- name: MAINBOOK.CGS
+  size: 90342
+  date: '1996-03-03T15:35:40'
+  crc: '0x693be672'
+- name: USERBOOK.CGS
+  size: 766
+  date: '1996-01-17T20:02:36'
+  crc: '0xb28326d7'

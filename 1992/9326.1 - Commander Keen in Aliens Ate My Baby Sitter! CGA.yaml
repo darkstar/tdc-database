@@ -1,0 +1,32 @@
+filename: Commander Keen in Aliens Ate My Baby Sitter! CGA v1.4 (1992)(FormGen Corporation, Inc.) [Action].zip
+tdc_id: '9326.1'
+title:
+  screen: Commander Keen in Aliens Ate My Baby Sitter! CGA
+publisher: FormGen Corporation, Inc.
+year: '1992'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:41:54'
+  last_modified: '2019-03-01T18:41:54'
+version: '1.4'
+type: zip
+commands:
+  play: KEEN6.EXE
+files:
+- name: AUDIO.CK6
+  size: 56265
+  date: '1992-02-12T22:34:14'
+  crc: '0x472e62f3'
+- name: CGAGRAPH.CK6
+  size: 311706
+  date: '1992-02-12T22:34:14'
+  crc: '0xce7867b4'
+- name: GAMEMAPS.CK6
+  size: 95541
+  date: '1992-02-12T22:34:14'
+  crc: '0x9c04b31e'
+- name: KEEN6.EXE
+  size: 100900
+  date: '1992-02-12T22:34:14'
+  crc: '0x94b645fe'

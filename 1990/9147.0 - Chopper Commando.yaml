@@ -1,0 +1,43 @@
+filename: Chopper Commando v2.0 [SW] (1990)(Mark Currie) [Action].zip
+tdc_id: '9147.0'
+title:
+  screen: Chopper Commando
+publisher: Mark Currie
+year: '1990'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:32:04'
+  last_modified: '2019-03-01T18:32:04'
+version: '2.0'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: CHOPPER2.EXE
+files:
+- name: CGA.BGI
+  size: 6253
+  date: '1988-08-28T16:00:00'
+  crc: '0x17cbdd92'
+- name: CHOPPER2.EXE
+  size: 96960
+  date: '1990-02-02T09:26:18'
+  crc: '0xb134e776'
+- name: CHOPPER2.OVR
+  size: 39037
+  date: '1990-02-02T09:26:14'
+  crc: '0xf691ebc1'
+- name: LITT.CHR
+  size: 2138
+  date: '1988-08-28T16:00:00'
+  crc: '0xe18c9d7c'
+- name: PILOTS.DAT
+  size: 636
+  date: '1990-12-30T22:19:16'
+  crc: '0x17a71024'
+- name: README.1ST
+  size: 1373
+  date: '1990-02-03T11:53:04'
+  crc: '0x80bd3c7a'

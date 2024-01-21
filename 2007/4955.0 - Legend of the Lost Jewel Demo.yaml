@@ -1,0 +1,67 @@
+filename: Legend of the Lost Jewel Demo (2007)(Lou Provost, Quinn Briggs) [Adventure].zip
+tdc_id: '4955.0'
+title:
+  screen: Legend of the Lost Jewel Demo
+publisher: Lou Provost, Quinn Briggs
+year: '2007'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-02T10:57:18'
+  last_modified: '2019-03-02T10:57:18'
+type: zip
+demo: true
+commands:
+  play: SCIV.EXE
+references:
+  dosid: DOS00432
+  exodos: Legend of the Lost Jewel (2007).zip
+files:
+- name: ADL.DRV
+  size: 9778
+  date: '2007-02-20T20:13:58'
+  crc: '0x9f2cea3f'
+- name: EGA320.DRV
+  size: 1952
+  date: '2007-02-20T20:13:58'
+  crc: '0x3b2fc0de'
+- name: GAME.INI
+  size: 1429
+  date: '2007-02-20T20:13:58'
+  crc: '0xf78b0059'
+- name: GAME.TXT
+  size: 37
+  date: '2007-02-20T20:13:58'
+  crc: '0xe6344e47'
+- name: GM.DRV
+  size: 4819
+  date: '2007-02-20T20:13:58'
+  crc: '0xec5029fe'
+- name: IBMKBD.DRV
+  size: 446
+  date: '2007-02-20T20:13:58'
+  crc: '0xb495c666'
+- name: JOYSTICK.DRV
+  size: 541
+  date: '2007-02-20T20:13:58'
+  crc: '0xfa815721'
+- name: RESOURCE.001
+  size: 300398
+  date: '2007-02-20T20:13:58'
+  crc: '0x2f0f6afe'
+- name: RESOURCE.CFG
+  size: 151
+  date: '2007-02-20T20:14:00'
+  crc: '0x5f8b6210'
+- name: RESOURCE.MAP
+  size: 636
+  date: '2007-02-20T20:14:00'
+  crc: '0x3637c70b'
+- name: SCIV.EXE
+  size: 44443
+  date: '2007-02-20T20:14:00'
+  crc: '0xfd6dee90'
+- name: STD.DRV
+  size: 2466
+  date: '2007-02-20T20:14:00'
+  crc: '0x05dbf64a'

@@ -1,0 +1,35 @@
+filename: Tiny Tapper v2.9 [SW] (1995)(David Rayner) [Educational].zip
+tdc_id: '16748.1'
+title:
+  screen: Tiny Tapper
+publisher: David Rayner
+year: '1995'
+genre: Educational
+language: English
+date:
+  added: '2019-01-27T04:40:46'
+  last_modified: '2019-01-27T04:40:46'
+version: '2.9'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: TNYTAP.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 195
+  date: '1996-01-24T19:20:02'
+  crc: '0x508cdee5'
+- name: REG.TXT
+  size: 975
+  date: '1995-02-01T15:27:18'
+  crc: '0x9a16ba79'
+- name: TNYTAP.DOC
+  size: 14374
+  date: '1995-02-01T15:32:20'
+  crc: '0xa78b97f2'
+- name: TNYTAP.EXE
+  size: 81400
+  date: '1995-02-01T15:48:58'
+  crc: '0x3a0e6e35'

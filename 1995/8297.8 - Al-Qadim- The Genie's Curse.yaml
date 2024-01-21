@@ -1,0 +1,45 @@
+filename: Al-Qadim- The Genie's Curse v1.1 (Installer) [a1] (1995)(Strategic Simulations, Inc.) [Action, Role-Playing (RPG)].zip
+tdc_id: '8297.8'
+title:
+  box: 'Al-Qadim: The Genie''s Curse'
+publisher: Strategic Simulations, Inc.
+year: '1995'
+genre:
+- Action
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T21:47:44'
+  last_modified: '2019-03-01T21:47:44'
+version: '1.1'
+type: zip
+tags:
+- Alternate: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: BOOT.NFO
+  size: 208
+  date: '1995-03-29T03:24:40'
+  crc: '0x34987d10'
+- name: DEARJ.EXE
+  size: 39441
+  date: '1993-03-19T10:18:52'
+  crc: '0x284b68d2'
+- name: GENIE.A00
+  size: 10841353
+  date: '1995-03-01T05:41:48'
+  crc: '0x84d657a0'
+- name: HELP.TXT
+  size: 8456
+  date: '1995-02-02T09:15:56'
+  crc: '0x229f8347'
+- name: INSTALL.EXE
+  size: 143670
+  date: '1995-02-17T10:58:04'
+  crc: '0xa14124b3'
+- name: INSTALL.NFO
+  size: 453
+  date: '1995-03-29T03:25:04'
+  crc: '0x60d80de9'

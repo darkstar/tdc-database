@@ -1,0 +1,63 @@
+filename: LaserWars (1994)(Rod Derousseau & Chris Stewart) [Action].zip
+tdc_id: '3137.0'
+title:
+  screen: LaserWars
+publisher: Rod Derousseau & Chris Stewart
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2013-08-02T21:31:56'
+  last_modified: '2013-08-02T21:31:56'
+type: zip
+media: Download
+commands:
+  play: LASERWAR.EXE
+references:
+  dosid: DOS03085
+  exodos: Laserwars (1994).zip
+files:
+- name: CHAINS.GRD
+  size: 1864
+  date: '1994-11-05T01:00:00'
+  crc: '0xd126aefa'
+- name: CHECK.GRD
+  size: 1864
+  date: '1994-11-05T01:00:00'
+  crc: '0x01b90c0b'
+- name: CRAZY.GRD
+  size: 1864
+  date: '1994-11-05T01:00:00'
+  crc: '0x62e29304'
+- name: FILE_ID.DIZ
+  size: 215
+  date: '1994-11-05T01:00:00'
+  crc: '0x2a00b686'
+- name: ICONS.DAT
+  size: 22103
+  date: '1994-11-05T01:00:00'
+  crc: '0xf4cf3fc8'
+- name: LASERWAR.CFG
+  size: 38
+  date: '1994-11-05T01:00:00'
+  crc: '0x9bc5ff81'
+- name: LASERWAR.DOC
+  size: 20033
+  date: '1994-11-05T01:00:00'
+  crc: '0x1b6b93ec'
+- name: LASERWAR.EXE
+  size: 84928
+  date: '1994-11-05T01:00:00'
+  crc: '0xbe4e58c6'
+- name: PLAYERS.DAT
+  size: 560
+  date: '1994-11-05T01:00:00'
+  crc: '0xad9baec5'
+- name: SHIPS.DAT
+  size: 1968
+  date: '1994-11-05T01:00:00'
+  crc: '0x4358e3f6'
+- name: WALL.GRD
+  size: 1864
+  date: '1994-11-05T01:00:00'
+  crc: '0xfa2146c0'

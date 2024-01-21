@@ -1,0 +1,37 @@
+filename: Xixit (Installer) (1995)(Optik Software, Inc.) [Action, Strategy].zip
+tdc_id: '863.0'
+title:
+  screen: Xixit
+publisher: Optik Software, Inc.
+year: '1995'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2022-09-02T07:47:29'
+  last_modified: '2022-09-02T07:47:29'
+type: zip
+installer: true
+references:
+  mobygames: https://www.mobygames.com/game/dos/xixit
+files:
+- name: INSTALL.EXE
+  size: 59222
+  date: '1995-07-13T00:14:44'
+  crc: '0xe99c3637'
+- name: SETUP.BAT
+  size: 21
+  date: '1995-07-12T10:30:34'
+  crc: '0xaa668a1c'
+- name: UNOPTIK.EXE
+  size: 13002
+  date: '1995-07-10T23:38:12'
+  crc: '0x406e47a9'
+- name: XIXIT
+  size: 0
+  date: '1995-07-10T22:30:16'
+- name: _.OP1
+  size: 875126
+  date: '1995-07-13T00:18:54'
+  crc: '0x64bb0928'

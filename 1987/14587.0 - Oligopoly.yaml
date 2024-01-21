@@ -1,0 +1,38 @@
+filename: Oligopoly (1987)(XOR Corporation) [Simulation, Strategy][!].zip
+tdc_id: '14587.0'
+title:
+  box: Oligopoly
+publisher: XOR Corporation
+year: '1987'
+genre:
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:25:30'
+  last_modified: '2022-08-30T15:17:20'
+type: zip
+tags:
+- KnownGood
+commands:
+  play: OLIG.EXE
+references:
+  dosid: DOS03808
+  exodos: Oligopoly (1987).zip
+files:
+- name: DISP.1
+  size: 250898
+  date: '1988-02-16T13:00:22'
+  crc: '0xc7acbe88'
+- name: DISP.2
+  size: 347905
+  date: '1987-10-01T13:00:20'
+  crc: '0x53a7567a'
+- name: OLIG.EXE
+  size: 91239
+  date: '1988-02-16T13:00:06'
+  crc: '0xdf140e0b'
+- name: READ.ME
+  size: 861
+  date: '1988-02-16T13:00:00'
+  crc: '0x3c89c077'

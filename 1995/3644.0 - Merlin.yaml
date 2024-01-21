@@ -1,0 +1,35 @@
+filename: Merlin v2.0 (1995)(Addix) [Action].zip
+tdc_id: '3644.0'
+title:
+  screen: Merlin
+publisher: Addix
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2020-11-26T11:59:24'
+  last_modified: '2020-11-26T11:59:24'
+version: '2.0'
+type: zip
+commands:
+  play: MERLIN.EXE
+references:
+  dosid: DOS15622
+  exodos: Merlin (1995).zip
+files:
+- name: DOS4GW.EXE
+  size: 254556
+  date: '1994-01-11T03:52:00'
+  crc: '0x95d35b4d'
+- name: MERLIN.CFG
+  size: 665
+  date: '2019-08-01T16:38:26'
+  crc: '0x3665399a'
+- name: MERLIN.EXE
+  size: 141198
+  date: '1995-10-11T07:53:32'
+  crc: '0xb895ccc7'
+- name: MERLIN.RSC
+  size: 5414794
+  date: '1995-10-11T04:06:52'
+  crc: '0x49e71460'

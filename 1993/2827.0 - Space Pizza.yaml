@@ -1,0 +1,42 @@
+filename: Space Pizza [SW] (1993)(Ideas From the Deep) [Action].zip
+tdc_id: '2827.0'
+title:
+  screen: Space Pizza
+publisher: Ideas From the Deep
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T21:08:18'
+  last_modified: '2019-03-01T21:08:18'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: SP.EXE
+files:
+- name: HISCORES.DAT
+  size: 119
+  date: '2013-04-19T11:06:20'
+  crc: '0xc60dd78e'
+- name: SP.DOC
+  size: 1904
+  date: '1993-04-11T20:51:24'
+  crc: '0xf01886c1'
+- name: SP.EXE
+  size: 51845
+  date: '1993-04-11T23:10:12'
+  crc: '0xf7b328ac'
+- name: ZZHEADER.DAT
+  size: 8288
+  date: '1993-03-22T16:03:12'
+  crc: '0xd0174017'
+- name: ZZLATCH.DAT
+  size: 6726
+  date: '1993-03-22T16:03:12'
+  crc: '0x7eab43c9'
+- name: ZZSPRITE.DAT
+  size: 17781
+  date: '1993-03-22T16:03:12'
+  crc: '0x4147135d'

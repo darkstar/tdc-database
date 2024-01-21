@@ -1,0 +1,32 @@
+filename: Grimace - The Sequel to Wry (2001)(Nukem Enterprises) [Action].zip
+tdc_id: '10935.0'
+title:
+  screen: Grimace - The Sequel to Wry
+publisher: Nukem Enterprises
+year: '2001'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:55:20'
+  last_modified: '2019-03-02T10:55:20'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 23
+  date: '2018-12-13T23:24:52'
+  crc: '0xa7ba3889'
+- name: POS.BAS
+  size: 339349
+  date: '2001-01-30T22:58:48'
+  crc: '0xd0cacc05'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: README.TXT
+  size: 3321
+  date: '2006-08-11T02:06:58'
+  crc: '0x18c8073c'

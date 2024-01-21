@@ -1,0 +1,66 @@
+filename: GateWorld- Volume One to Three v1.6 (Installer) [SWR] (1993)(Homebrew Software) [Action, Compilation].zip
+tdc_id: '13971.1'
+title:
+  screen: 'GateWorld: Volume One to Three'
+publisher: Homebrew Software
+year: '1993'
+genre:
+- Action
+- Compilation
+language: English
+date:
+  added: '2019-03-01T19:09:08'
+  last_modified: '2019-03-01T19:09:08'
+version: '1.6'
+type: zip
+tags:
+- SharewareRegistered
+installer: true
+compilation: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: GWV1_000.LZH
+  size: 551128
+  date: '1993-07-08T17:43:30'
+  crc: '0xa0a5228a'
+- name: GWV1_001.LZH
+  size: 196290
+  date: '1993-07-08T17:43:54'
+  crc: '0x3ad07df1'
+- name: GWV2_000.LZH
+  size: 444787
+  date: '1993-07-08T17:44:28'
+  crc: '0xcb36d7d2'
+- name: GWV2_001.LZH
+  size: 229073
+  date: '1993-07-08T17:44:54'
+  crc: '0x9ae46bd9'
+- name: GWV3_000.LZH
+  size: 318635
+  date: '1993-07-08T17:45:30'
+  crc: '0xf6a502ea'
+- name: GWV3_001.LZH
+  size: 518492
+  date: '1993-07-08T17:46:04'
+  crc: '0xd517f9b1'
+- name: GateWorld 1
+  size: 0
+  date: '1993-07-08T17:40:40'
+- name: GateWorld 2
+  size: 0
+  date: '1993-07-08T17:40:40'
+- name: GateWorld 3
+  size: 0
+  date: '1993-07-08T17:40:40'
+- name: GateWorld 4
+  size: 0
+  date: '1993-07-08T17:40:40'
+- name: INSTALL.EXE
+  size: 60376
+  date: '1993-07-04T00:54:12'
+  crc: '0x9531f453'
+- name: INSTALL.INF
+  size: 699
+  date: '1993-07-04T00:23:20'
+  crc: '0x26cbaf06'

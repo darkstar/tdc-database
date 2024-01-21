@@ -1,0 +1,77 @@
+filename: Flashback- The Quest for Identity (Installer) (1993)(U.S. Gold Ltd.) [Action, Adventure][!].zip
+tdc_id: '13643.11'
+parent_id: '13643.17'
+title:
+  box: 'Flashback: The Quest for Identity'
+publisher: U.S. Gold Ltd.
+year: '1993'
+genre:
+- Action
+- Adventure
+language: English
+date:
+  added: '2020-06-18T16:50:46'
+  last_modified: '2020-06-18T16:50:46'
+type: zip
+tags:
+- KnownGood
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DATA\FB.EXE
+  size: 128188
+  date: '1993-05-28T07:57:36'
+  crc: '0x656370bf'
+- name: DATA\GLOB1_FB.ABA
+  size: 226118
+  date: '1993-05-07T14:22:00'
+  crc: '0xad5e9a97'
+- name: DATA\GLOB2_FB.ABA
+  size: 670262
+  date: '1993-05-07T15:47:44'
+  crc: '0x3205f758'
+- name: DATA\GLOBAL.FIB
+  size: 160874
+  date: '1993-04-23T14:58:14'
+  crc: '0x1aae4dc1'
+- name: DATA\GLOB_UK.ABA
+  size: 149403
+  date: '1993-05-28T14:11:22'
+  crc: '0x426a1a9c'
+- name: DATA\LEVEL1.LEV
+  size: 35360
+  date: '1993-04-23T14:58:24'
+  crc: '0x2d5bd205'
+- name: DATA\LEVEL2.LEV
+  size: 73224
+  date: '1993-04-23T14:58:30'
+  crc: '0x517ece31'
+- name: DATA\LEVEL2.OBJ
+  size: 66700
+  date: '1993-04-23T14:59:38'
+  crc: '0x87895c6a'
+- name: DATA\LEVEL3.LEV
+  size: 26192
+  date: '1993-04-23T14:58:32'
+  crc: '0x80f6affe'
+- name: DATA\LEVEL4.LEV
+  size: 44256
+  date: '1993-04-23T14:58:34'
+  crc: '0x22f22999'
+- name: DATA\LEVEL5.LEV
+  size: 81636
+  date: '1993-04-23T14:58:40'
+  crc: '0xf91ba571'
+- name: DATA\PERSO.SPR
+  size: 94616
+  date: '1993-04-23T15:01:22'
+  crc: '0xc83c3fc0'
+- name: INSTALL.EXE
+  size: 54246
+  date: '1993-05-28T14:27:06'
+  crc: '0xa15fc5b6'
+- name: READ.ME
+  size: 5047
+  date: '1993-06-01T09:36:12'
+  crc: '0x7e9bbea0'

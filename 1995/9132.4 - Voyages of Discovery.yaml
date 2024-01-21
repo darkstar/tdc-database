@@ -1,0 +1,37 @@
+filename: Voyages of Discovery v1.2.2 (Installer) (1995)(Black Legend Ltd.) [Simulation, Strategy].zip
+tdc_id: '9132.4'
+title:
+  box: Voyages of Discovery
+publisher: Black Legend Ltd.
+year: '1995'
+genre:
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2019-03-02T09:07:32'
+  last_modified: '2022-11-29T15:23:11'
+version: 1.2.2
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/exploration
+files:
+- name: INSTALL.CFG
+  size: 100
+  date: '1995-02-14T16:23:38'
+  crc: '0x5427a61f'
+- name: INSTALL.EXE
+  size: 63389
+  date: '1995-01-24T12:41:32'
+  crc: '0xfcf03db8'
+- name: VOD.A01
+  size: 1129629
+  date: '1995-02-15T13:46:36'
+  crc: '0xaa3ee28f'
+- name: VOD.ARJ
+  size: 1362024
+  date: '1995-02-15T13:42:08'
+  crc: '0x0b08d259'

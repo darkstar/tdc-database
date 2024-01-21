@@ -1,0 +1,34 @@
+filename: Frogger II- Three Deep [DC][h1][b1] (1984)(SEGA Enterprises Ltd.) [Action].zip
+tdc_id: '13820.3'
+title:
+  box: 'Frogger II: Three Deep'
+publisher: SEGA Enterprises Ltd.
+year: '1984'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:04'
+  last_modified: '2019-03-01T18:24:04'
+type: zip
+tags:
+- DOSConversion
+- Hack: 1
+- Bad: 1
+commands:
+  play: FROGGER2.COM
+references:
+  dosid: DOS05890
+  exodos: Frogger II - ThreeeDeep! (1984).zip
+files:
+- name: FROGGER2.COM
+  size: 15671
+  date: '1987-02-15T12:00:00'
+  crc: '0x51ec2efc'
+- name: FROGGER2.REQ
+  size: 320
+  date: '1987-02-15T12:00:00'
+  crc: '0x9feab7ec'
+- name: FROGGER2.SPI
+  size: 151770
+  date: '1987-02-15T12:00:00'
+  crc: '0x03fdd3b2'

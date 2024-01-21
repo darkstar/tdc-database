@@ -1,0 +1,36 @@
+filename: Earthworm Jim (Alpha) (1995)(Activision, Inc.) [Action].zip
+tdc_id: '13278.1'
+title:
+  box: Earthworm Jim
+  qualifier: Alpha
+publisher: Activision, Inc.
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T08:43:38'
+  last_modified: '2019-03-02T08:43:38'
+type: zip
+commands:
+  play: EWJ.EXE
+files:
+- name: DOS4GW.EXE
+  size: 264964
+  date: '1994-05-14T00:16:16'
+  crc: '0xea7106eb'
+- name: EWJ.EXE
+  size: 303003
+  date: '1995-08-10T14:34:10'
+  crc: '0x3759e13c'
+- name: MAINDATA.DAT
+  size: 10133759
+  date: '1995-08-10T13:45:20'
+  crc: '0x2821b1a3'
+- name: MAINDATA.DIR
+  size: 6336
+  date: '1995-08-10T13:45:20'
+  crc: '0xe521b8f6'
+- name: STDERR.LOG
+  size: 68
+  date: '1995-08-11T15:57:28'
+  crc: '0xd7b7c8c6'

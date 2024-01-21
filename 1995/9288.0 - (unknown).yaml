@@ -1,0 +1,38 @@
+filename: Chibi Zhi Zhan (Installer) (Zh) (1995)(Panda Entertainment Technology Co., Ltd.) [Role-Playing (RPG)].zip
+tdc_id: '9288.0'
+title:
+  translation: Battle of Red Cliffs
+  transliteration: Chibi Zhi Zhan
+  qualifier: Installer
+publisher: Panda Entertainment Technology Co., Ltd.
+year: '1995'
+genre: Role-Playing (RPG)
+language: Chinese
+date:
+  added: '2019-03-02T07:31:32'
+  last_modified: '2023-06-29T16:16:04'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 128453
+  date: '1999-12-31T18:00:00'
+  crc: '0xdbe3e5a1'
+- name: SANRPG1.DSK
+  size: 974850
+  date: '1999-12-31T18:00:00'
+  crc: '0xb56c0092'
+- name: SANRPG2.DSK
+  size: 1131736
+  date: '1999-12-31T18:00:00'
+  crc: '0x4432acd5'
+- name: SANRPG3.DSK
+  size: 1156118
+  date: '1999-12-31T18:00:00'
+  crc: '0x4f661935'
+- name: SANRPG4.DSK
+  size: 1161081
+  date: '1999-12-31T18:00:00'
+  crc: '0xb16e1acb'

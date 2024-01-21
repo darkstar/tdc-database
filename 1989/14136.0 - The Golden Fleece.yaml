@@ -1,0 +1,44 @@
+filename: Golden Fleece, The (1989)(Jim MacBrayne) [Adventure, Interactive Fiction].zip
+tdc_id: '14136.0'
+title:
+  screen: The Golden Fleece
+publisher: Jim MacBrayne
+year: '1989'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:27:50'
+  last_modified: '2019-03-01T18:27:50'
+type: zip
+commands:
+  play: Fleece.exe
+references:
+  dosid: DOS00064
+  exodos: Golden Fleece, The (1989).zip
+files:
+- name: Fleece.exe
+  size: 106280
+  date: '1994-10-30T16:16:50'
+  crc: '0x3b560ced'
+- name: Readme.txt
+  size: 13243
+  date: '1994-11-02T16:43:42'
+  crc: '0xfb14dd66'
+- name: Room.dat
+  size: 92496
+  date: '1993-07-26T15:24:10'
+  crc: '0x94744bbc'
+- name: Story.beg
+  size: 7255
+  date: '1993-08-04T23:32:38'
+  crc: '0x87bfc71d'
+- name: Text.dat
+  size: 44548
+  date: '1993-07-26T11:55:28'
+  crc: '0xd0a260ce'
+- name: Word.fil
+  size: 8368
+  date: '1992-10-17T17:06:00'
+  crc: '0x59b29aba'

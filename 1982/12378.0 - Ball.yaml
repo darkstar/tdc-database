@@ -1,0 +1,30 @@
+filename: Ball (1982)(Tom Springall) [Simulation].zip
+tdc_id: '12378.0'
+title:
+  screen: Ball
+publisher: Tom Springall
+year: '1982'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:22:56'
+  last_modified: '2019-03-01T18:22:56'
+type: zip
+commands:
+  play: BALL.BAT
+references:
+  dosid: DOS06710
+  exodos: Ball (1982).zip
+files:
+- name: BALL.BAS
+  size: 2304
+  date: '1983-03-19T12:00:00'
+  crc: '0x82049373'
+- name: BALL.BAT
+  size: 14
+  date: '1980-01-01T00:00:00'
+  crc: '0x84e25a75'
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'

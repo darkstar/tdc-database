@@ -1,0 +1,28 @@
+filename: Dungeon (Sv) (1995)(Andreas Mattsson) [Adventure].zip
+tdc_id: '9535.0'
+title:
+  screen: Dungeon
+publisher: Andreas Mattsson
+year: '1995'
+genre: Adventure
+language: Swedish
+date:
+  added: '2019-03-02T08:43:38'
+  last_modified: '2019-03-02T08:43:38'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: DUNGEON.BAS
+  size: 7708
+  date: '1996-02-23T19:32:36'
+  crc: '0x1a167d71'
+- name: GO.BAT
+  size: 27
+  date: '2018-12-30T19:49:14'
+  crc: '0x3e53a946'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

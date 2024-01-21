@@ -1,0 +1,48 @@
+filename: Dungeon of Shalan (1988)(Softdisk Publishing) [Action, Adventure].zip
+tdc_id: '9551.0'
+title:
+  box: Dungeon of Shalan
+publisher: Softdisk Publishing
+year: '1988'
+genre:
+- Action
+- Adventure
+language: English
+date:
+  added: '2019-03-01T18:26:08'
+  last_modified: '2019-03-01T18:26:08'
+type: zip
+commands:
+  play: Shalan.com
+references:
+  dosid: DOS00235
+  exodos: Dungeon of Shalan (1988).zip
+files:
+- name: Set1.dat
+  size: 8192
+  date: '1988-07-30T12:36:32'
+  crc: '0x788146d0'
+- name: Set2.dat
+  size: 8192
+  date: '1988-06-24T12:52:44'
+  crc: '0x826b4753'
+- name: Set3.dat
+  size: 8192
+  date: '1988-07-30T11:18:38'
+  crc: '0x5475bb71'
+- name: Shalan.com
+  size: 22730
+  date: '1988-11-04T09:35:08'
+  crc: '0x34a69994'
+- name: Shalan.drw
+  size: 10240
+  date: '1988-06-13T22:57:08'
+  crc: '0xa1e73b48'
+- name: Shalan.scr
+  size: 48
+  date: '1980-01-01T00:01:44'
+  crc: '0x1e15f095'
+- name: Shalan.txt
+  size: 1870
+  date: '1988-10-07T11:17:26'
+  crc: '0x59b2ef25'

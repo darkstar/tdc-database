@@ -1,0 +1,61 @@
+filename: Club & Country (Installer) (En)(De) (1995)(BOMS Computer Games Ltd.) [Simulation, Sports].zip
+tdc_id: '9198.1'
+parent_id: '9198.2'
+title:
+  box: Club & Country
+publisher: BOMS Computer Games Ltd.
+year: '1995'
+genre:
+- Simulation
+- Sports
+language:
+- English
+- German
+date:
+  added: '2019-03-23T14:13:56'
+  last_modified: '2019-03-23T14:13:56'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: BGND.LBM
+  size: 15518
+  date: '1995-09-18T06:44:44'
+  crc: '0xf82e1ad3'
+- name: BIGFONT.DAT
+  size: 15681
+  date: '1994-02-28T11:26:36'
+  crc: '0x0258b946'
+- name: CHKLIST.MS
+  size: 81
+  date: '1995-06-29T12:58:58'
+  crc: '0x95a62fab'
+- name: DOS4GW.EXE
+  size: 254556
+  date: '1994-05-31T05:00:00'
+  crc: '0x95d35b4d'
+- name: GAME.ZIP
+  size: 858358
+  date: '1995-11-06T11:03:10'
+  crc: '0xd97387bc'
+- name: INSTALL.EXE
+  size: 81020
+  date: '1980-04-04T15:57:24'
+  crc: '0x5c08d2fd'
+- name: MOUSE.BBM
+  size: 1344
+  date: '1995-09-18T06:44:58'
+  crc: '0x9496779f'
+- name: PKUNZIP.EXE
+  size: 29656
+  date: '1992-04-30T19:00:00'
+  crc: '0xfdaacd55'
+- name: PROPFONT.DAT
+  size: 1921
+  date: '1994-05-13T10:55:24'
+  crc: '0xc3604648'
+- name: WEEFONT.DAT
+  size: 1601
+  date: '1994-12-14T06:50:24'
+  crc: '0xb96e96b1'

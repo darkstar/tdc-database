@@ -1,0 +1,39 @@
+filename: Space Fighter (1993)(Blue Flower) [Action].zip
+tdc_id: '2825.0'
+title:
+  screen: Space Fighter
+publisher: Blue Flower
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2021-10-12T00:21:34'
+  last_modified: '2021-10-12T00:21:34'
+type: zip
+commands:
+  play: NG030.EXE
+files:
+- name: HERC.OBJ
+  size: 6301
+  date: '1993-04-07T18:00:06'
+  crc: '0x23eada2a'
+- name: LOGO.FNT
+  size: 2543
+  date: '1980-07-01T23:17:16'
+  crc: '0xcd4f9433'
+- name: NG030.EXE
+  size: 43824
+  date: '1993-04-28T03:13:18'
+  crc: '0x014b4a6c'
+- name: NG030.FNT
+  size: 29153
+  date: '1993-02-14T04:44:14'
+  crc: '0xa899e14c'
+- name: NG030.PAS
+  size: 15802
+  date: '1993-04-28T03:12:34'
+  crc: '0xec871cd5'
+- name: NI9H.PAS
+  size: 3157
+  date: '1980-07-02T19:20:08'
+  crc: '0xe6c169c2'

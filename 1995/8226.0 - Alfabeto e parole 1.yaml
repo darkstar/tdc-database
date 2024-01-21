@@ -1,0 +1,43 @@
+filename: Alfabeto e parole 1 (Installer) (It) [SW] (1995)(Baldazzi Mario) [Educational].zip
+tdc_id: '8226.0'
+title:
+  screen: Alfabeto e parole 1
+publisher: Baldazzi Mario
+year: '1995'
+genre: Educational
+language: Italian
+date:
+  added: '2019-01-17T07:01:22'
+  last_modified: '2022-11-15T14:59:22'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 154
+  date: '1995-05-01T09:19:26'
+  crc: '0x5ad54ee2'
+- name: INSTALL.EXE
+  size: 69672
+  date: '1995-03-12T11:54:24'
+  crc: '0x1e5de70d'
+- name: INSTALL.INI
+  size: 106
+  date: '1995-03-12T11:56:44'
+  crc: '0x6cbaed2b'
+- name: PACK1.PRG
+  size: 1382008
+  date: '1995-03-12T11:55:30'
+  crc: '0x62bcfa78'
+- name: PACK2.PRG
+  size: 975809
+  date: '1995-03-12T11:56:30'
+  crc: '0x21d785c5'
+- name: VENDOR.DOC
+  size: 1646
+  date: '1995-03-12T12:08:34'
+  crc: '0xe97698bf'

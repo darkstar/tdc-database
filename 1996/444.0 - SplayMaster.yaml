@@ -1,0 +1,31 @@
+filename: SplayMaster v1.10 (1996)(Chris Elsbree) [Action].zip
+tdc_id: '444.0'
+title:
+  screen: SplayMaster
+publisher: Chris Elsbree
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:18:46'
+  last_modified: '2019-03-02T10:18:46'
+version: '1.10'
+type: zip
+commands:
+  play: SPLAY.EXE
+references:
+  dosid: DOS04767
+  exodos: SplayMaster (1996).zip
+files:
+- name: README.TXT
+  size: 3844
+  date: '1996-05-02T21:30:32'
+  crc: '0x395caf0c'
+- name: SPLAY.EXE
+  size: 112254
+  date: '1996-05-02T21:31:56'
+  crc: '0x6f5d6e2f'
+- name: SPLAYDAT.ELZ
+  size: 199388
+  date: '1996-01-29T23:02:48'
+  crc: '0x15b92059'

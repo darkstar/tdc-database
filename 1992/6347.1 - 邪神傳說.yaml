@@ -1,0 +1,105 @@
+filename: 邪神傳說 (Zh) (1992)(SoftWorld) [Action, Adventure, Role-Playing (RPG)].zip
+tdc_id: '6347.1'
+title:
+  box: 邪神傳說
+  translation: Legend of Evil God
+publisher: SoftWorld
+year: '1992'
+genre:
+- Action
+- Adventure
+- Role-Playing (RPG)
+language: Chinese
+date:
+  added: '2019-03-01T18:48:44'
+  last_modified: '2023-12-05T13:43:38'
+type: zip
+media: 1.2M
+commands:
+  play: RUN.EXE
+  setup: SETUP.EXE
+files:
+- name: CMDS.GRP
+  size: 3874
+  date: '1992-12-07T17:39:04'
+  crc: '0xf2221a81'
+- name: CMDS.IDX
+  size: 24
+  date: '1992-11-19T10:39:52'
+  crc: '0x56674cc2'
+- name: CONFIG.GOD
+  size: 8
+  date: '1992-12-07T17:54:02'
+  crc: '0x8165f23b'
+- name: DATA1.GRP
+  size: 319625
+  date: '1992-12-07T17:40:26'
+  crc: '0x8c3c7f69'
+- name: DATA2.GRP
+  size: 2200404
+  date: '1992-12-07T17:45:06'
+  crc: '0x1b40d75d'
+- name: DIFF01.GRP
+  size: 1155549
+  date: '1992-12-07T17:49:46'
+  crc: '0xec787231'
+- name: DIFF01.IDX
+  size: 464
+  date: '1992-11-04T17:38:56'
+  crc: '0x6002e2b3'
+- name: DIFF02.GRP
+  size: 55015
+  date: '1992-12-07T17:49:54'
+  crc: '0xac5a2d80'
+- name: DIFF02.IDX
+  size: 92
+  date: '1992-10-22T11:19:48'
+  crc: '0x0afb8787'
+- name: DIFF03.GRP
+  size: 358979
+  date: '1992-12-07T17:50:56'
+  crc: '0x77316492'
+- name: DIFF03.IDX
+  size: 288
+  date: '1992-10-22T11:21:18'
+  crc: '0x79823d81'
+- name: DIFF04.GRP
+  size: 186986
+  date: '1992-12-07T17:51:28'
+  crc: '0xa6da64e0'
+- name: DIFF04.IDX
+  size: 168
+  date: '1992-10-22T11:22:10'
+  crc: '0xde1a8183'
+- name: DIFF05.GRP
+  size: 419003
+  date: '1992-12-07T17:52:46'
+  crc: '0xf1efb9ff'
+- name: DIFF05.IDX
+  size: 328
+  date: '1992-11-19T17:36:06'
+  crc: '0x41b26a71'
+- name: RUN.EXE
+  size: 31592
+  date: '1992-11-25T10:39:06'
+  crc: '0x687436cb'
+- name: SETUP.EXE
+  size: 11229
+  date: '1992-11-17T18:02:40'
+  crc: '0x2e038e40'
+- name: SPEECH.GRP
+  size: 530984
+  date: '1992-10-16T16:20:26'
+  crc: '0xc6428a44'
+- name: SPEECH.IDX
+  size: 80
+  date: '1992-10-16T16:20:26'
+  crc: '0xdbb0ba62'
+- name: VECT.GRP
+  size: 4851
+  date: '1992-12-07T17:39:06'
+  crc: '0x33b67409'
+- name: VECT.IDX
+  size: 4
+  date: '1992-10-13T14:01:16'
+  crc: '0xaa35114b'

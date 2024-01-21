@@ -1,0 +1,40 @@
+filename: Taxi Run v1.0 [SW] (1995)(Soleau Software, Inc.) [Strategy, Action].zip
+tdc_id: '16469.0'
+title:
+  screen: Taxi Run
+publisher: Soleau Software, Inc.
+year: '1995'
+genre:
+- Strategy
+- Action
+language: English
+date:
+  added: '2019-03-02T09:06:02'
+  last_modified: '2023-04-14T06:59:18'
+version: '1.0'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: TAXIRUN.EXE
+references:
+  dosid: DOS06329
+  exodos: Taxi Run (1995).zip
+files:
+- name: TAXIRUN.DOC
+  size: 4713
+  date: '1995-04-03T19:11:02'
+  crc: '0x2425a079'
+- name: TAXIRUN.EXE
+  size: 107690
+  date: '1995-04-03T19:11:02'
+  crc: '0x78a28fe8'
+- name: TAXIRUN.OV1
+  size: 330337
+  date: '1995-04-03T19:11:14'
+  crc: '0xbb8d8e57'
+- name: TAXIRUN.OV2
+  size: 2346
+  date: '1995-04-03T19:11:02'
+  crc: '0x2a3cb996'

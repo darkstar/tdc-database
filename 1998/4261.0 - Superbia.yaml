@@ -1,0 +1,31 @@
+filename: Superbia v3.1 (1998)(Jim and Scott Hammack) [Adventure, Interactive Fiction].zip
+tdc_id: '4261.0'
+title:
+  screen: Superbia
+publisher: Jim and Scott Hammack
+year: '1998'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T10:44:38'
+  last_modified: '2019-03-02T10:44:38'
+version: '3.1'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 28
+  date: '2019-01-10T13:46:48'
+  crc: '0xca7cca86'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: SUPERBIA.BAS
+  size: 6044
+  date: '1998-09-21T01:51:52'
+  crc: '0x6d02cedf'

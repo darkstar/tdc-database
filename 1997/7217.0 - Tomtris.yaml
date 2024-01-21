@@ -1,0 +1,45 @@
+filename: Tomtris v0.7 (1997)(Mute Fantasies) [Action, Strategy].zip
+tdc_id: '7217.0'
+title:
+  screen: Tomtris
+publisher: Mute Fantasies
+year: '1997'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-02T10:38:34'
+  last_modified: '2019-03-02T10:38:34'
+version: '0.7'
+type: zip
+commands:
+  play: TOMTRIS.EXE
+references:
+  dosid: DOS07190
+  exodos: Tomtris (1997).zip
+files:
+- name: CONFIG.DAT
+  size: 24
+  date: '1997-07-19T02:28:10'
+  crc: '0x9b3151f8'
+- name: HIGH.DAT
+  size: 1680
+  date: '1997-07-19T02:30:50'
+  crc: '0x8db73456'
+- name: KLTABEL.DAT
+  size: 180
+  date: '1997-06-13T18:41:48'
+  crc: '0x8499906d'
+- name: LPOSM.DAT
+  size: 945
+  date: '1997-06-12T18:54:32'
+  crc: '0xa9facfc5'
+- name: PLAYERS.DAT
+  size: 357
+  date: '1997-07-19T02:29:00'
+  crc: '0xf2dbfeed'
+- name: TOMTRIS.EXE
+  size: 99809
+  date: '1997-07-18T20:25:12'
+  crc: '0x91024aab'

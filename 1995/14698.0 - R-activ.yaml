@@ -1,0 +1,30 @@
+filename: R-activ (Pl) (1995)(xLand Games) [Action].zip
+tdc_id: '14698.0'
+title:
+  screen: R-activ
+publisher: xLand Games
+year: '1995'
+genre: Action
+language: Polish
+date:
+  added: '2019-03-02T08:58:26'
+  last_modified: '2019-03-02T08:58:26'
+type: zip
+commands:
+  play: RACTIV.EXE
+references:
+  dosid: DOS06213
+  exodos: R-activ (1995).zip
+files:
+- name: RACTIV.DAT
+  size: 2889461
+  date: '1995-04-03T17:11:38'
+  crc: '0x4fea8732'
+- name: RACTIV.EXE
+  size: 72192
+  date: '1997-01-01T02:39:44'
+  crc: '0xff4d92be'
+- name: RACTIV.TXT
+  size: 24510
+  date: '2000-12-04T03:18:04'
+  crc: '0x97841af6'

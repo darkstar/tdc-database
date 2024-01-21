@@ -1,0 +1,33 @@
+filename: Beneath a Steel Sky v0.253 (demo) (De) (1994)(Virgin Interactive Entertainment, Inc.) [Adventure].zip
+tdc_id: '12557.1'
+title:
+  screen: Beneath a Steel Sky
+publisher: Virgin Interactive Entertainment, Inc.
+year: '1994'
+genre: Adventure
+language: German
+date:
+  added: '2019-03-01T21:54:36'
+  last_modified: '2019-03-01T21:54:36'
+version: '0.253'
+type: zip
+demo: true
+commands:
+  play: SKY.EXE
+files:
+- name: SKY.DNR
+  size: 1972
+  date: '1994-02-17T13:04:28'
+  crc: '0x432bb605'
+- name: SKY.DSK
+  size: 819320
+  date: '1994-02-17T13:11:50'
+  crc: '0xa2846541'
+- name: SKY.EXE
+  size: 158300
+  date: '1994-02-17T13:13:16'
+  crc: '0xa6152acb'
+- name: SKY.RST
+  size: 50580
+  date: '1994-02-17T13:13:44'
+  crc: '0x6d920b4f'

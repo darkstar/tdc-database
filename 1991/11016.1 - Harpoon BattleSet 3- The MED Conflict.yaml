@@ -1,0 +1,43 @@
+filename: Harpoon BattleSet 3- The MED Conflict [a1] (1991)(Electronic Arts Ltd.) [Simulation, Addon].zip
+tdc_id: '11016.1'
+title:
+  box: 'Harpoon BattleSet 3: The MED Conflict'
+publisher: Electronic Arts Ltd.
+year: '1991'
+genre:
+- Simulation
+- Addon
+language: English
+date:
+  added: '2021-05-07T15:08:12'
+  last_modified: '2021-05-07T15:08:12'
+type: zip
+tags:
+- Alternate: 1
+commands:
+  play: JOINEGA.BAT
+files:
+- name: JOINEGA.BAT
+  size: 43
+  date: '1990-11-29T18:38:18'
+  crc: '0x4d6714e5'
+- name: MEDC.RES
+  size: 222280
+  date: '1990-12-03T15:23:10'
+  crc: '0x383b6836'
+- name: MEDCCGA.RES
+  size: 104367
+  date: '1990-12-03T16:32:04'
+  crc: '0x400fde16'
+- name: MEDCEGA.1
+  size: 360448
+  date: '1990-11-29T17:04:24'
+  crc: '0x480e7cdc'
+- name: MEDCEGA.2
+  size: 138311
+  date: '1990-11-29T17:04:24'
+  crc: '0x9d41547e'
+- name: MEDCTGA.RES
+  size: 135009
+  date: '1990-12-03T20:27:06'
+  crc: '0xf883ebf5'

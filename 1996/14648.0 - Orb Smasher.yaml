@@ -1,0 +1,34 @@
+filename: Orb Smasher (1996)(Kevin B. Kohler) [Action, Strategy].zip
+tdc_id: '14648.0'
+title:
+  screen: Orb Smasher
+publisher: Kevin B. Kohler
+year: '1996'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-02T10:15:28'
+  last_modified: '2019-03-02T10:15:28'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 28
+  date: '2018-11-14T21:36:46'
+  crc: '0x2dfa6fc0'
+- name: ORBHIGH.DAT
+  size: 120
+  date: '2018-11-14T23:17:20'
+  crc: '0x3a223de3'
+- name: ORBSMASH.BAS
+  size: 5855
+  date: '2018-11-14T19:59:40'
+  crc: '0x2deeb7fd'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'

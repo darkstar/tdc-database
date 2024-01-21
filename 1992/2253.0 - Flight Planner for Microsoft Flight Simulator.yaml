@@ -1,0 +1,48 @@
+filename: Flight Planner for Microsoft Flight Simulator v91.1230 (Installer) (1992)(RMM Consulting) [Simulation, Application].zip
+tdc_id: '2253.0'
+title:
+  screen: Flight Planner for Microsoft Flight Simulator
+publisher: RMM Consulting
+year: '1992'
+genre:
+- Simulation
+- Application
+language: English
+date:
+  added: '2020-11-09T16:10:10'
+  last_modified: '2022-08-30T15:01:19'
+version: '91.1230'
+type: zip
+installer: true
+files:
+- name: FLIGHT_PLNR
+  size: 0
+  date: '1992-01-06T23:29:38'
+- name: FPCOMMON.LZH
+  size: 113344
+  date: '1991-12-31T09:45:28'
+  crc: '0x401abe13'
+- name: FPDOS.LZH
+  size: 125432
+  date: '1991-12-31T09:42:10'
+  crc: '0x3c5d225c'
+- name: FPWIN.LZH
+  size: 478157
+  date: '1991-12-31T09:44:20'
+  crc: '0x47c2e8f5'
+- name: INSTALLD.BAT
+  size: 1923
+  date: '1992-01-06T18:02:16'
+  crc: '0x3cf91e2b'
+- name: INSTALLW.BAT
+  size: 2872
+  date: '1992-01-06T12:23:58'
+  crc: '0x8f9b1704'
+- name: LHA.EXE
+  size: 34283
+  date: '1991-07-20T02:13:00'
+  crc: '0x2c68a172'
+- name: LHA213.EXE
+  size: 44381
+  date: '1991-12-17T12:29:14'
+  crc: '0xe45194cb'

@@ -1,0 +1,46 @@
+filename: All New World of Lemmings v1.53 (Installer) (1994)(Psygnosis Limited) [Strategy, Action].zip
+tdc_id: '8273.10'
+parent_id: '8273.6'
+title:
+  box: All New World of Lemmings
+  qualifier: Installer
+publisher: Psygnosis Limited
+year: '1994'
+genre:
+- Strategy
+- Action
+language: English
+date:
+  added: '2023-07-12T16:49:57'
+  last_modified: '2023-07-12T16:49:57'
+version: '1.53'
+type: zip
+media: 1.44M
+installer: true
+references:
+  mobygames: https://www.mobygames.com/game/1752/the-lemmings-chronicles/
+files:
+- name: 01.EXE
+  size: 1195720
+  date: '1994-11-10T09:29:54'
+  crc: '0xb2945195'
+- name: 02.EXE
+  size: 1286815
+  date: '1994-11-16T17:39:48'
+  crc: '0x8da4456b'
+- name: 03.EXE
+  size: 1362884
+  date: '1994-11-10T09:32:14'
+  crc: '0xbf802d9b'
+- name: 04.EXE
+  size: 1242776
+  date: '1994-11-10T09:33:28'
+  crc: '0xfd77cd70'
+- name: INSTALL.EXE
+  size: 27056
+  date: '1994-11-07T11:20:10'
+  crc: '0x1a1390bd'
+- name: INSTALL.INI
+  size: 54
+  date: '1994-11-07T20:40:24'
+  crc: '0xb99bdb99'

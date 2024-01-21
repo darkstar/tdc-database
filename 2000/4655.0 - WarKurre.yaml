@@ -1,0 +1,88 @@
+filename: WarKurre v0.4 [FW] (2000)(Daniel Herkert) [Action].zip
+tdc_id: '4655.0'
+title:
+  screen: WarKurre
+publisher: Daniel Herkert
+year: '2000'
+genre: Action
+language: English
+date:
+  added: '2021-10-18T23:17:04'
+  last_modified: '2021-10-18T23:17:04'
+version: '0.4'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: WARKURRE.EXE
+references:
+  dosid: DOS07873
+  exodos: WarKurre (2000).zip
+files:
+- name: CWSDPMI.EXE
+  size: 20125
+  date: '2000-10-22T12:55:00'
+  crc: '0x7f13a517'
+- name: Data.dat
+  size: 350345
+  date: '2000-04-23T19:18:48'
+  crc: '0x55493fe8'
+- name: WARKURRE.EXE
+  size: 654848
+  date: '2000-04-23T19:18:02'
+  crc: '0xb52cd361'
+- name: WarKurre.txt
+  size: 8526
+  date: '2000-05-22T17:15:02'
+  crc: '0x6b7758a9'
+- name: kurre.cfg
+  size: 805
+  date: '2021-10-19T07:09:44'
+  crc: '0x20a30693'
+- name: levels\
+  size: 0
+  date: '2021-10-19T07:04:34'
+- name: levels\desert.pcx
+  size: 569974
+  date: '2000-06-14T16:53:46'
+  crc: '0x7e1e7125'
+- name: levels\gravey.pcx
+  size: 390452
+  date: '2000-06-14T16:09:34'
+  crc: '0x3d44331b'
+- name: levels\greeny.pcx
+  size: 212507
+  date: '2000-04-08T21:47:36'
+  crc: '0x5d7b60b4'
+- name: levels\highway.pcx
+  size: 31266
+  date: '2000-04-08T21:43:48'
+  crc: '0xad40778c'
+- name: levels\linna.pcx
+  size: 186778
+  date: '2000-04-08T21:47:46'
+  crc: '0x3ca7a7c3'
+- name: levels\onkalo.pcx
+  size: 423093
+  date: '2000-04-08T21:47:08'
+  crc: '0x2df68427'
+- name: levels\skyraper.pcx
+  size: 301900
+  date: '2000-06-14T16:33:42'
+  crc: '0xbc53403d'
+- name: levels\ufo.pcx
+  size: 246182
+  date: '2000-04-08T21:46:14'
+  crc: '0xd032417e'
+- name: music\
+  size: 0
+  date: '2021-10-19T07:04:34'
+- name: music\intro.xm
+  size: 38421
+  date: '2000-04-08T18:26:18'
+  crc: '0xe85fc815'
+- name: music\theme.xm
+  size: 62916
+  date: '2000-04-05T14:55:46'
+  crc: '0xf616c637'

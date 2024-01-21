@@ -1,0 +1,41 @@
+filename: Once Upon a Time... Volume III- Journey Through Time v1.5 (Installer) (1993)(Compu-Teach) [Educational][!].zip
+tdc_id: '14611.1'
+parent_id: '14611.2'
+title:
+  box: 'Once Upon a Time... Volume III: Journey Through Time'
+  qualifier: Installer
+publisher: Compu-Teach
+year: '1993'
+genre: Educational
+language: English
+date:
+  added: '2021-03-28T12:35:18'
+  last_modified: '2023-07-11T21:49:40'
+version: '1.5'
+type: zip
+tags:
+- KnownGood
+media: 720K
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  dosid: DOS15901
+  exodos: Once Upon a Time... Volume III - Journey Through Time (1990).zip
+files:
+- name: INSTALL.EXE
+  size: 72127
+  date: '1993-06-28T15:45:16'
+  crc: '0xe2bb4450'
+- name: INSTALL.S
+  size: 3532
+  date: '1993-06-30T12:23:32'
+  crc: '0xc5fae69d'
+- name: ONCE3.001
+  size: 635309
+  date: '1993-06-30T12:15:46'
+  crc: '0xe2d98df8'
+- name: ONCE3.002
+  size: 178531
+  date: '1993-06-30T12:16:42'
+  crc: '0x3474c1ae'

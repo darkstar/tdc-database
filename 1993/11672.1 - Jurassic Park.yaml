@@ -1,0 +1,42 @@
+filename: Jurassic Park v1.22 (Installer) (En)(De)(Fr)(It)(Es) (1993)(Ocean of America, Inc.) [Action].zip
+tdc_id: '11672.1'
+title:
+  box: Jurassic Park
+publisher: Ocean of America, Inc.
+year: '1993'
+genre: Action
+language:
+- English
+- Spanish
+- French
+- Italian
+- German
+date:
+  added: '2019-03-01T19:10:46'
+  last_modified: '2019-03-01T19:10:46'
+version: '1.22'
+type: zip
+installer: true
+commands:
+  play: INSTALL.COM
+files:
+- name: INSTALL.COM
+  size: 182
+  date: '1993-10-15T21:41:12'
+  crc: '0xf33bcbe9'
+- name: INSTALL.DAT
+  size: 30765
+  date: '1993-10-06T11:51:28'
+  crc: '0xa97e2c43'
+- name: JP_1.RNC
+  size: 1425000
+  date: '1993-10-07T11:15:44'
+  crc: '0x73154d65'
+- name: JP_2.RNC
+  size: 1457664
+  date: '1993-10-07T11:15:44'
+  crc: '0x355fcf6a'
+- name: JP_3.RNC
+  size: 1444705
+  date: '1993-10-07T11:15:44'
+  crc: '0xad71e05c'

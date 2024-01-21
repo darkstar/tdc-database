@@ -1,0 +1,28 @@
+filename: Bataille pour Sirius v1.01F (Fr) (1992)(Softdisk Publishing) [Strategy].zip
+tdc_id: '12455.0'
+title:
+  box: Bataille pour Sirius
+publisher: Softdisk Publishing
+year: '1992'
+genre: Strategy
+language: French
+date:
+  added: '2019-03-01T18:41:24'
+  last_modified: '2019-03-01T18:41:24'
+version: 1.01F
+type: zip
+commands:
+  play: spacbatl.exe
+files:
+- name: sirius.img
+  size: 105293
+  date: '1996-12-24T23:32:00'
+  crc: '0x185a79a0'
+- name: spacbatl.exe
+  size: 86958
+  date: '1996-12-24T23:32:00'
+  crc: '0x441ada13'
+- name: spacbatl.txt
+  size: 752
+  date: '1996-12-24T23:32:00'
+  crc: '0xd8f2b3ea'

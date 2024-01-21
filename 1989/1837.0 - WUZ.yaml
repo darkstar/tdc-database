@@ -1,0 +1,37 @@
+filename: WUZ v1.1 (1989)(Wayne McWilliams) [Adventure, Adult].zip
+tdc_id: '1837.0'
+title:
+  screen: WUZ
+publisher: Wayne McWilliams
+year: '1989'
+genre:
+- Adventure
+- Adult
+language: English
+date:
+  added: '2019-03-01T18:29:24'
+  last_modified: '2019-03-01T18:29:24'
+version: '1.1'
+type: zip
+commands:
+  play: WUZ.EXE
+references:
+  dosid: DOS00116
+  exodos: WUZ (1989).zip
+files:
+- name: WUZ.DOC
+  size: 2420
+  date: '1989-11-01T05:05:02'
+  crc: '0x4cb84137'
+- name: WUZ.EXE
+  size: 110388
+  date: '1989-10-22T06:39:36'
+  crc: '0x6b40fad4'
+- name: WUZ.LAW
+  size: 6580
+  date: '1989-05-17T18:42:22'
+  crc: '0x74887797'
+- name: WUZ.SOL
+  size: 822
+  date: '1989-10-15T15:48:16'
+  crc: '0xfcba6e75'

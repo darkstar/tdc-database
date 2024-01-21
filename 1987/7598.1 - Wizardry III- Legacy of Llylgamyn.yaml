@@ -1,0 +1,30 @@
+filename: Wizardry III- Legacy of Llylgamyn [DC][a1] (1987)(Sir-tech Software, Inc.) [Role-Playing (RPG)].zip
+tdc_id: '7598.1'
+title:
+  box: 'Wizardry III: Legacy of Llylgamyn'
+publisher: Sir-tech Software, Inc.
+year: '1987'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:25:50'
+  last_modified: '2019-03-01T18:25:50'
+type: zip
+tags:
+- DOSConversion
+- Alternate: 1
+commands:
+  play: WIZ3.COM
+files:
+- name: SAVE3.DSK
+  size: 655360
+  date: '2011-03-19T22:36:24'
+  crc: '0xcd868300'
+- name: WIZ3.COM
+  size: 2156
+  date: '1998-09-01T21:03:00'
+  crc: '0x1b1b516a'
+- name: WIZ3.DSK
+  size: 327680
+  date: '1998-07-09T20:39:16'
+  crc: '0x514b484f'

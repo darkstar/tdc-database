@@ -1,0 +1,28 @@
+filename: Kicker v8.5 (2003)(Richard Demsyn-Jones) [Action].zip
+tdc_id: '11758.0'
+title:
+  screen: Kicker
+publisher: Richard Demsyn-Jones
+year: '2003'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:56:30'
+  last_modified: '2019-03-02T10:56:30'
+version: '8.5'
+type: zip
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 22
+  date: '2019-01-02T01:50:18'
+  crc: '0x10303296'
+- name: KICKER.BAS
+  size: 45273
+  date: '2018-12-09T12:36:28'
+  crc: '0x231f0269'
+- name: QB.EXE
+  size: 278804
+  date: '2016-03-13T01:19:58'
+  crc: '0xb08bc0fe'

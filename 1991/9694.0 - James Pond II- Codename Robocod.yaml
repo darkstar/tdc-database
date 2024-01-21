@@ -1,0 +1,27 @@
+filename: James Pond II- Codename Robocod (1991)(Millennium Interactive Ltd.) [Action].zip
+tdc_id: '9694.0'
+title:
+  box: 'James Pond II: Codename Robocod'
+publisher: Millennium Interactive Ltd.
+year: '1991'
+genre: Action
+language: English
+date:
+  added: '2020-01-29T21:51:24'
+  last_modified: '2020-01-29T21:51:24'
+type: zip
+commands:
+  play: ROBOCOD.EXE
+files:
+- name: HISCORE.DAT
+  size: 4
+  date: '1995-02-06T21:09:14'
+  crc: '0x045eaf28'
+- name: ROBO.RNC
+  size: 387015
+  date: '1993-04-16T11:18:50'
+  crc: '0x06f59977'
+- name: ROBOCOD.EXE
+  size: 81384
+  date: '1993-04-22T08:29:38'
+  crc: '0xc6892121'

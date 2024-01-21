@@ -1,0 +1,50 @@
+filename: MegaTraveller 2- Quest for the Ancients (Installer) (1991)(Paragon Software Corporation) [Action, Role-Playing (RPG)].zip
+tdc_id: '7752.1'
+title:
+  box: 'MegaTraveller 2: Quest for the Ancients'
+publisher: Paragon Software Corporation
+year: '1991'
+genre:
+- Action
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:36:48'
+  last_modified: '2019-03-01T18:36:48'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK1.MT2
+  size: 300032
+  date: '1991-07-12T01:00:00'
+  crc: '0x310ecb81'
+- name: DISK2.MT2
+  size: 362496
+  date: '1991-07-12T01:00:00'
+  crc: '0x215f079d'
+- name: DISK3.MT2
+  size: 362496
+  date: '1991-07-12T01:00:00'
+  crc: '0x43eff9aa'
+- name: DISK4.MT2
+  size: 362496
+  date: '1991-07-12T01:00:00'
+  crc: '0xe3a20e12'
+- name: DISK5.MT2
+  size: 362496
+  date: '1991-07-12T01:00:00'
+  crc: '0x441882f8'
+- name: DISK6.MT2
+  size: 288590
+  date: '1991-07-12T01:00:00'
+  crc: '0x8e56c234'
+- name: INSTALL.EXE
+  size: 11973
+  date: '1991-07-11T23:26:18'
+  crc: '0x81c751b6'
+- name: README.COM
+  size: 25732
+  date: '1991-07-11T15:55:10'
+  crc: '0x54129fc8'

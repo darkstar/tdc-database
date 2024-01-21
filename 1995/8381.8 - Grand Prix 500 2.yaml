@@ -1,0 +1,41 @@
+filename: Grand Prix 500 2 CD v1.00 (Installer) (1995)(Microïds, General Admission Software, GT Interactive) [Racing - Driving, Simulation, Sports].zip
+tdc_id: '8381.8'
+parent_id: '8381.7'
+title:
+  box: Grand Prix 500 2
+  qualifier: CD
+publisher: Microïds, General Admission Software, GT Interactive
+year: '1995'
+genre:
+- Racing - Driving
+- Simulation
+- Sports
+language: English
+date:
+  added: '2023-07-19T07:41:48'
+  last_modified: '2023-07-19T07:54:43'
+version: '1.00'
+type: zip
+media: CD-ROM
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/4130/grand-prix-500-2/
+files:
+- name: DISK.ID
+  size: 34
+  date: '1993-12-20T10:55:56'
+  crc: '0x8b290097'
+- name: GP500II.001
+  size: 665677
+  date: '1994-12-01T15:31:44'
+  crc: '0x23e062b7'
+- name: INSTALL.DAT
+  size: 5462
+  date: '1994-12-01T15:32:58'
+  crc: '0x0986ba13'
+- name: INSTALL.EXE
+  size: 90304
+  date: '1993-12-20T10:55:56'
+  crc: '0x929e6b84'

@@ -1,0 +1,38 @@
+filename: VGA Lunar Lander [SW] (1992)(Chris Egeter) [Action].zip
+tdc_id: '2486.0'
+title:
+  screen: VGA Lunar Lander
+publisher: Chris Egeter
+year: '1992'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:52:18'
+  last_modified: '2019-03-01T18:52:18'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: LUNAR.EXE
+files:
+- name: LUNAR.DOC
+  size: 7506
+  date: '1992-03-24T08:24:42'
+  crc: '0x637c2c9a'
+- name: LUNAR.EXE
+  size: 96944
+  date: '1992-03-24T09:57:04'
+  crc: '0xff615ce1'
+- name: LUNAR2.ACB
+  size: 5461
+  date: '1992-01-14T01:08:58'
+  crc: '0x0c9d23f5'
+- name: REGISTER.TXT
+  size: 1250
+  date: '1992-03-24T08:25:26'
+  crc: '0x9e6a8884'
+- name: TITLE.ACB
+  size: 4624
+  date: '1992-03-03T15:09:50'
+  crc: '0xa069d3ea'

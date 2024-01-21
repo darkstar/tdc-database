@@ -1,0 +1,36 @@
+filename: Cuber v1.0 [SW] (1990)(William Soleau) [Action, Strategy].zip
+tdc_id: '9439.0'
+title:
+  screen: Cuber
+publisher: William Soleau
+year: '1990'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:32:16'
+  last_modified: '2023-04-13T11:25:36'
+version: '1.0'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: CUBER.EXE
+references:
+  dosid: DOS15317
+  exodos: Cuber (1990).zip
+files:
+- name: CUBER.DOC
+  size: 5414
+  date: '1990-06-16T22:14:42'
+  crc: '0x52b8b2f3'
+- name: CUBER.EXE
+  size: 95740
+  date: '1990-06-16T22:51:26'
+  crc: '0x9f0d8b11'
+- name: CUBER.OVL
+  size: 95299
+  date: '1990-06-15T14:43:18'
+  crc: '0xcf8e23a0'

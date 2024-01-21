@@ -1,0 +1,32 @@
+filename: Taito's Space Invaders (2002)(Kozmik Software) [Action].zip
+tdc_id: '4859.0'
+title:
+  screen: Taito's Space Invaders
+publisher: Kozmik Software
+year: '2002'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:56:16'
+  last_modified: '2019-03-02T10:56:16'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 28
+  date: '2018-12-15T19:09:20'
+  crc: '0x1ec6b96a'
+- name: INVADER1.BAS
+  size: 31054
+  date: '2002-02-04T21:26:06'
+  crc: '0x4f36eee4'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: README.TXT
+  size: 4440
+  date: '2002-02-04T21:36:54'
+  crc: '0x2501dd88'

@@ -1,0 +1,29 @@
+filename: Blind Maze v2.0 [SWR] (1989)(William Soleau) [Action, Strategy].zip
+tdc_id: '8502.3'
+title:
+  screen: Blind Maze
+publisher: William Soleau
+year: '1989'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2023-09-22T08:34:16'
+  last_modified: '2023-09-22T08:34:16'
+version: '2.0'
+type: zip
+tags:
+- SharewareRegistered
+media: Download
+commands:
+  play: BLINDMAZ.EXE
+files:
+- name: BLINDEYE.DAT
+  size: 32
+  date: '1990-01-06T08:32:10'
+  crc: '0xb30ad457'
+- name: BLINDMAZ.EXE
+  size: 108368
+  date: '1990-01-06T01:11:24'
+  crc: '0x86f6f8bc'

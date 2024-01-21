@@ -1,0 +1,147 @@
+filename: Tracon II v2.01 (1990)(Wesson International) [Simulation].zip
+tdc_id: '16859.1'
+title:
+  box: Tracon II
+publisher: Wesson International
+year: '1990'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:34:20'
+  last_modified: '2019-03-01T18:34:20'
+version: '2.01'
+type: zip
+commands:
+  play: TRACON.EXE
+references:
+  dosid: DOS05239
+  exodos: Tracon II (1990).zip
+files:
+- name: AIRCRAFT.INF
+  size: 12690
+  date: '2038-06-25T11:52:10'
+  crc: '0x0ac8c06f'
+- name: AIRCRAFT.TYP
+  size: 3775
+  date: '2038-07-09T03:50:00'
+  crc: '0x6a2db18a'
+- name: BOS.SEC
+  size: 3196
+  date: '2038-09-03T02:39:24'
+  crc: '0x0d449242'
+- name: BOS.VOI
+  size: 14710
+  date: '2038-07-08T19:58:00'
+  crc: '0x9a36d7f6'
+- name: DEMO.DMO
+  size: 9993
+  date: '2038-07-12T02:34:26'
+  crc: '0xef5bc2dc'
+- name: DEMO.SIM
+  size: 512
+  date: '2038-06-25T12:09:16'
+  crc: '0x9fc310e9'
+- name: LAST.SIM
+  size: 479
+  date: '2039-06-18T22:34:28'
+  crc: '0xea5dcf37'
+- name: LAX.SEC
+  size: 4417
+  date: '2038-07-11T19:54:08'
+  crc: '0x274d6473'
+- name: LAX.VOI
+  size: 30814
+  date: '2037-02-21T01:16:28'
+  crc: '0xae212924'
+- name: LESSON1.DMO
+  size: 16768
+  date: '2038-07-12T00:15:04'
+  crc: '0xc49da56d'
+- name: LESSON1.SIM
+  size: 512
+  date: '2038-07-11T19:51:16'
+  crc: '0x410d6cd7'
+- name: LESSON2.DMO
+  size: 7040
+  date: '2038-07-12T08:09:14'
+  crc: '0x2f09b137'
+- name: LESSON2.SIM
+  size: 256
+  date: '2038-07-12T08:09:20'
+  crc: '0xecedea22'
+- name: LESSON3.DMO
+  size: 8448
+  date: '2038-07-12T00:02:20'
+  crc: '0xe1fc25eb'
+- name: LESSON3.SIM
+  size: 512
+  date: '2038-06-27T05:27:24'
+  crc: '0x53555fed'
+- name: LOGO.SCR
+  size: 8160
+  date: '2038-06-30T04:00:10'
+  crc: '0xc58de153'
+- name: MIA.SEC
+  size: 4161
+  date: '2038-07-11T19:54:16'
+  crc: '0x07f5a6c2'
+- name: MIA.VOI
+  size: 20314
+  date: '2038-07-08T20:13:28'
+  crc: '0xa6200279'
+- name: ORD.SEC
+  size: 3378
+  date: '2038-07-11T19:54:14'
+  crc: '0xd385be04'
+- name: ORD.VOI
+  size: 20950
+  date: '2038-07-08T21:26:20'
+  crc: '0x358f43ab'
+- name: READ.ME
+  size: 675
+  date: '2038-07-12T03:59:18'
+  crc: '0x05b4725d'
+- name: SEA.SEC
+  size: 6027
+  date: '2038-07-11T19:55:14'
+  crc: '0x8d2e4b85'
+- name: SEA.VOI
+  size: 15442
+  date: '2049-03-07T13:28:06'
+  crc: '0x1d5e0010'
+- name: SFO.SEC
+  size: 5916
+  date: '2038-07-11T19:55:20'
+  crc: '0x85647a36'
+- name: SFO.VOI
+  size: 23018
+  date: '2037-02-21T01:20:26'
+  crc: '0x7276a12e'
+- name: TAPE.DMO
+  size: 1841
+  date: '2038-06-28T12:03:14'
+  crc: '0x55e1a953'
+- name: TAPE.SIM
+  size: 906
+  date: '2037-02-26T03:57:22'
+  crc: '0xe1edf1f2'
+- name: TRACON.EXE
+  size: 304194
+  date: '2038-07-29T01:31:12'
+  crc: '0x212ba932'
+- name: TRACON.INI
+  size: 2098
+  date: '2038-07-11T17:23:02'
+  crc: '0x91e033df'
+- name: TRACON.NAM
+  size: 33
+  date: '2039-06-18T22:34:28'
+  crc: '0x76fabd31'
+- name: TRACON.SMS
+  size: 1629
+  date: '2036-05-21T04:05:24'
+  crc: '0xa0bdf3da'
+- name: TRACON.VOI
+  size: 305261
+  date: '2038-07-01T01:29:12'
+  crc: '0x3de40a28'

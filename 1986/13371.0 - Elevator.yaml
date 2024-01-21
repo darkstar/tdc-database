@@ -1,0 +1,30 @@
+filename: Elevator (1986)(Wordworks Software) [Action].zip
+tdc_id: '13371.0'
+title:
+  screen: Elevator
+publisher: Wordworks Software
+year: '1986'
+genre: Action
+language: English
+date:
+  added: '2019-11-22T19:41:10'
+  last_modified: '2019-11-22T19:41:10'
+type: zip
+commands:
+  play: ELEVATOR.COM
+references:
+  dosid: DOS01996
+  exodos: Elevator (1986).zip
+files:
+- name: ELEVATOR.COM
+  size: 31458
+  date: '1985-01-01T00:03:56'
+  crc: '0xc4d68013'
+- name: ELEVATOR.PIC
+  size: 24624
+  date: '1986-07-15T20:49:26'
+  crc: '0xf4384981'
+- name: ELEVATOR.SCR
+  size: 135
+  date: '1986-09-22T01:56:08'
+  crc: '0x32bc0756'

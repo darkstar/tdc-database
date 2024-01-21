@@ -1,0 +1,67 @@
+filename: Advanced Dungeons & Dragons- Collectors Edition Vol.1 (Installer) (1994)(WizardWorks Group, Inc.) [Role-Playing (RPG), Compilation].zip
+tdc_id: '8157.2'
+parent_id: '8157.5'
+title:
+  box: 'Advanced Dungeons & Dragons: Collectors Edition Vol.1'
+publisher: WizardWorks Group, Inc.
+year: '1994'
+genre:
+- Role-Playing (RPG)
+- Compilation
+language: English
+date:
+  added: '2021-03-23T09:16:34'
+  last_modified: '2021-03-23T09:16:34'
+type: zip
+installer: true
+compilation: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK1.ARJ
+  size: 886610
+  date: '1992-09-04T10:50:02'
+  crc: '0xe7eb9ac8'
+- name: HD POR V1_3
+  size: 0
+  date: '1992-08-31T08:20:22'
+- name: INSTALL.EXE
+  size: 32271
+  date: '1992-08-28T15:32:04'
+  crc: '0xe0ddfeb2'
+- name: disk2\
+  size: 0
+  date: '2021-03-23T09:15:28'
+- name: disk2\INSTALL.COM
+  size: 4888
+  date: '1990-06-06T10:50:18'
+  crc: '0x1b4af2b0'
+- name: disk2\SECRET
+  size: 0
+  date: '1990-07-24T17:14:24'
+- name: disk2\SECRET1.EXE
+  size: 348391
+  date: '1990-10-15T13:55:36'
+  crc: '0xaa00c004'
+- name: disk2\SECRET2.EXE
+  size: 356344
+  date: '1990-07-26T13:48:00'
+  crc: '0xeab14081'
+- name: disk3\
+  size: 0
+  date: '2021-03-23T09:15:36'
+- name: disk3\CAB HD 1_3
+  size: 0
+  date: '1992-09-09T14:24:28'
+- name: disk3\DISK1.ARJ
+  size: 677763
+  date: '1992-09-09T11:43:06'
+  crc: '0xdfaab150'
+- name: disk3\INSTALL.EXE
+  size: 30665
+  date: '1992-09-09T10:50:22'
+  crc: '0xb12afaf3'
+- name: disk3\SAVE.ARJ
+  size: 1799
+  date: '1992-09-09T10:25:42'
+  crc: '0x96469835'

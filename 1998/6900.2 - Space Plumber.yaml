@@ -1,0 +1,34 @@
+filename: Space Plumber v1.0.5 (1998)(Ángel Ortega) [Action, Strategy].zip
+tdc_id: '6900.2'
+title:
+  screen: Space Plumber
+publisher: Ángel Ortega
+year: '1998'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2022-04-10T15:50:22'
+  last_modified: '2022-04-10T15:50:22'
+version: 1.0.5
+type: zip
+commands:
+  play: splumber.exe
+files:
+- name: cwsdpmi.exe
+  size: 20217
+  date: '1996-08-18T20:46:18'
+  crc: '0x6ba5fa62'
+- name: splumber.exe
+  size: 81256
+  date: '1999-08-20T20:55:32'
+  crc: '0x029a4acf'
+- name: splumber.pck
+  size: 4089609
+  date: '1999-08-20T20:55:32'
+  crc: '0x37a4dbd0'
+- name: splumber.txt
+  size: 14296
+  date: '1999-08-20T20:51:48'
+  crc: '0xef3a8a90'

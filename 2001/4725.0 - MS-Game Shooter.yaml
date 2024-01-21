@@ -1,0 +1,27 @@
+filename: MS-Game Shooter (2001)(TAP) [Action].zip
+tdc_id: '4725.0'
+title:
+  screen: MS-Game Shooter
+publisher: TAP
+year: '2001'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:55:32'
+  last_modified: '2019-03-02T10:55:32'
+type: zip
+commands:
+  play: SHOOTER.EXE
+files:
+- name: HOW2USE.TXT
+  size: 138
+  date: '1994-09-15T18:45:02'
+  crc: '0x9d1923c6'
+- name: SHOOTER.DIZ
+  size: 89
+  date: '1994-09-15T18:48:52'
+  crc: '0xaa910435'
+- name: SHOOTER.EXE
+  size: 2929
+  date: '1994-09-15T18:31:50'
+  crc: '0x5e43e4c2'

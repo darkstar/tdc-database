@@ -1,0 +1,70 @@
+filename: Shadow Warrior v1.0 (Installer) [SW] (1997)(3D Realms Entertainment, Inc.) [Action].zip
+tdc_id: '5900.4'
+title:
+  screen: Shadow Warrior
+publisher: 3D Realms Entertainment, Inc.
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2022-12-16T20:30:13'
+  last_modified: '2022-12-16T20:30:13'
+version: '1.0'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/shadow-warrior
+files:
+- name: FILE_ID.DIZ
+  size: 494
+  date: '1997-05-13T13:00:00'
+  crc: '0xde8f3b43'
+- name: INSTALL.EXE
+  size: 52592
+  date: '1997-05-13T13:00:00'
+  crc: '0x429fc3cd'
+- name: SWSW10.IFC
+  size: 4751
+  date: '1997-05-13T13:00:00'
+  crc: '0x2e07e0ad'
+- name: SWSW10._1
+  size: 1300480
+  date: '1997-05-13T13:00:00'
+  crc: '0xe23e9a90'
+- name: SWSW10._2
+  size: 1443840
+  date: '1997-05-13T13:00:00'
+  crc: '0x17f46e26'
+- name: SWSW10._3
+  size: 1443840
+  date: '1997-05-13T13:00:00'
+  crc: '0x21c582a5'
+- name: SWSW10._4
+  size: 1443840
+  date: '1997-05-13T13:00:00'
+  crc: '0x8b8e1363'
+- name: SWSW10._5
+  size: 1443840
+  date: '1997-05-13T13:00:00'
+  crc: '0x9ef5fc19'
+- name: SWSW10._6
+  size: 1443840
+  date: '1997-05-13T13:00:00'
+  crc: '0x0fec2713'
+- name: SWSW10._7
+  size: 1443840
+  date: '1997-05-13T13:00:00'
+  crc: '0xb9da5fd8'
+- name: SWSW10._8
+  size: 1443840
+  date: '1997-05-13T13:00:00'
+  crc: '0xf17532c8'
+- name: SWSW10._9
+  size: 1432334
+  date: '1997-05-13T13:00:00'
+  crc: '0x605a29be'

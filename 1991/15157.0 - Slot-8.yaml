@@ -1,0 +1,34 @@
+filename: Slot-8 v1.2 [SW] (1991)(Rick Lawsha) [Simulation].zip
+tdc_id: '15157.0'
+title:
+  screen: Slot-8
+publisher: Rick Lawsha
+year: '1991'
+genre: Simulation
+language: English
+date:
+  added: '2020-03-29T12:32:44'
+  last_modified: '2020-03-29T12:32:44'
+version: '1.2'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: SLOT.EXE
+references:
+  dosid: DOS06239
+  exodos: SLOT-8 (1991).zip
+files:
+- name: SLOT.DOC
+  size: 1082
+  date: '1991-02-04T21:13:46'
+  crc: '0x36ad104d'
+- name: SLOT.EXE
+  size: 76204
+  date: '1991-02-04T21:12:54'
+  crc: '0xb8f862e0'
+- name: SLOT.SCR
+  size: 76
+  date: '1991-02-04T21:16:36'
+  crc: '0xa156b572'

@@ -1,0 +1,47 @@
+filename: City of Madness [SW] (1989)(Gold Coast Software) [Adventure, Interactive Fiction].zip
+tdc_id: '9156.0'
+title:
+  screen: City of Madness
+publisher: Gold Coast Software
+year: '1989'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:27:26'
+  last_modified: '2019-03-01T18:27:26'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: dred3.exe
+references:
+  dosid: DOS00137
+  exodos: City of Madness (1989).zip
+files:
+- name: GCS.doc
+  size: 35840
+  date: '2009-01-06T15:58:28'
+  crc: '0x11a71d71'
+- name: dred3.000
+  size: 16456
+  date: '1989-05-14T17:01:22'
+  crc: '0x2d744760'
+- name: dred3.doc
+  size: 4434
+  date: '1989-05-24T17:13:58'
+  crc: '0x24944181'
+- name: dred3.exe
+  size: 139672
+  date: '1989-05-24T15:52:42'
+  crc: '0x58331398'
+- name: dred3.gcs
+  size: 16456
+  date: '1989-02-28T21:55:08'
+  crc: '0x649c2d26'
+- name: news3.doc
+  size: 30208
+  date: '2009-01-06T17:03:24'
+  crc: '0x178fb82e'

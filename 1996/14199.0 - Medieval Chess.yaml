@@ -1,0 +1,110 @@
+filename: Medieval Chess (1996)(JV Enterprises) [Strategy].zip
+tdc_id: '14199.0'
+title:
+  box: Medieval Chess
+publisher: JV Enterprises
+year: '1996'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:13:20'
+  last_modified: '2019-03-02T10:13:20'
+type: zip
+commands:
+  play: MEDIEVAL.EXE
+references:
+  dosid: DOS15619
+  exodos: Medieval Chess (1996).zip
+files:
+- name: ATTACK.DAT
+  size: 8850
+  date: '1996-07-05T00:45:34'
+  crc: '0xdbda6a6a'
+- name: BISHOPS.DAT
+  size: 31200
+  date: '1985-11-19T23:32:18'
+  crc: '0x0c409b27'
+- name: BOARD.DAT
+  size: 64000
+  date: '1996-08-15T22:15:30'
+  crc: '0x7d12e241'
+- name: CHARACTR.DAT
+  size: 684
+  date: '1985-11-20T03:29:24'
+  crc: '0xad2fec28'
+- name: COLOR.DAT
+  size: 768
+  date: '1996-07-10T20:08:48'
+  crc: '0x4e09ac8c'
+- name: CWSDPMI.EXE
+  size: 25920
+  date: '1996-02-04T12:36:22'
+  crc: '0x537cbe02'
+- name: KINGS.DAT
+  size: 31200
+  date: '1985-11-19T23:16:46'
+  crc: '0x9cc01b9a'
+- name: KNIGHTS.DAT
+  size: 43680
+  date: '1985-11-19T23:18:38'
+  crc: '0x2756f849'
+- name: MEDIEVAL.DAT
+  size: 8459965
+  date: '1996-12-18T21:21:34'
+  crc: '0xdb83d9fb'
+- name: MEDIEVAL.EXE
+  size: 220473
+  date: '1996-12-27T19:06:16'
+  crc: '0xed486de0'
+- name: MEDV_BEG.DAT
+  size: 197808
+  date: '1996-08-22T12:30:12'
+  crc: '0xdf024614'
+- name: MEDV_GAM.DAT
+  size: 194862
+  date: '1996-08-22T16:05:46'
+  crc: '0xd1ebc8f6'
+- name: PAWNS.DAT
+  size: 31200
+  date: '1985-11-19T23:23:02'
+  crc: '0x9bb5c3db'
+- name: PLAY_DRK.DAT
+  size: 64000
+  date: '1996-07-10T21:20:18'
+  crc: '0xef6e1bd2'
+- name: PLAY_LGT.DAT
+  size: 64000
+  date: '1996-07-10T21:20:28'
+  crc: '0xf1f97ca5'
+- name: QUEENS.DAT
+  size: 31200
+  date: '1985-11-19T23:28:22'
+  crc: '0xb2993b50'
+- name: README.TXT
+  size: 16333
+  date: '1996-12-28T01:10:22'
+  crc: '0x0f7817f4'
+- name: ROOKS.DAT
+  size: 32760
+  date: '1985-11-19T23:30:10'
+  crc: '0x5103b8dd'
+- name: SCREEN1.DAT
+  size: 3840
+  date: '1996-08-18T19:36:26'
+  crc: '0xb885be19'
+- name: SCREEN2.DAT
+  size: 64000
+  date: '1996-08-15T22:15:44'
+  crc: '0x3713b4bf'
+- name: TEXT.DAT
+  size: 5026
+  date: '1996-09-12T20:15:40'
+  crc: '0x85e2ab5e'
+- name: TITLE.DAT
+  size: 64000
+  date: '1996-07-10T21:20:36'
+  crc: '0x9938cfbe'
+- name: XTRA.DAT
+  size: 47989
+  date: '1996-07-16T17:32:00'
+  crc: '0x03ef2eee'

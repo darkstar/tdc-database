@@ -1,0 +1,34 @@
+filename: Signplay (PCjr) (1984)(Compu-Teach) [Educational].zip
+tdc_id: '3875.1'
+title:
+  box: Signplay
+  screen: Sign Play
+  qualifier: PCjr
+publisher: Compu-Teach
+year: '1984'
+genre: Educational
+language: English
+date:
+  added: '2023-07-11T22:35:26'
+  last_modified: '2023-07-11T22:35:26'
+type: zip
+media: 360K
+commands:
+  play: SIGNPLAY.EXE
+files:
+- name: LEFTG.DAT
+  size: 11254
+  date: '1980-01-01T00:37:52'
+  crc: '0x1036b679'
+- name: PRESENTS.DAT
+  size: 204
+  date: '1984-03-02T13:32:38'
+  crc: '0x3eac710e'
+- name: RIGHTG.DAT
+  size: 11254
+  date: '1980-01-01T00:36:06'
+  crc: '0xeb08f84f'
+- name: SIGNPLAY.EXE
+  size: 74752
+  date: '1984-09-27T11:42:08'
+  crc: '0xcf9579b8'

@@ -1,0 +1,47 @@
+filename: Mind Dance Volume II vI7.0 (1987)(Thunder Mountain) [Strategy][!].zip
+tdc_id: '7824.0'
+parent_id: '7824.2'
+title:
+  box: Mind Dance Volume II
+publisher: Thunder Mountain
+year: '1987'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:25:28'
+  last_modified: '2023-07-20T18:49:20'
+version: I7.0
+type: zip
+tags:
+- KnownGood
+media: 360K
+commands:
+  play: MDNCE.BAT
+references:
+  dosid: DOS07257
+  exodos: Mind Dance Vol. II (1986).zip
+files:
+- name: MDANCE.EXE
+  size: 111958
+  date: '1987-04-14T21:05:06'
+  crc: '0xdc82c95e'
+- name: MDNCE.BAT
+  size: 50
+  date: '1987-01-17T13:10:16'
+  crc: '0x9c08d7f1'
+- name: OPEN.INC
+  size: 1152
+  date: '1987-04-08T20:06:06'
+  crc: '0xe6f7238e'
+- name: RMASTER1.DAT
+  size: 54000
+  date: '1987-12-21T22:15:02'
+  crc: '0xeb2b2198'
+- name: RMASTER2.DAT
+  size: 54000
+  date: '1987-12-21T22:16:18'
+  crc: '0xecca77b9'
+- name: SHUF.DAT
+  size: 5438
+  date: '1987-12-21T23:53:18'
+  crc: '0xfe3182e3'

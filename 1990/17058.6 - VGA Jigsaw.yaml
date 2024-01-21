@@ -1,0 +1,50 @@
+filename: VGA Jigsaw v1.51 [SW] (1990)(Alive Software) [Puzzle].zip
+tdc_id: '17058.6'
+title:
+  screen: VGA Jigsaw
+publisher: Alive Software
+year: '1990'
+genre: Puzzle
+language: English
+date:
+  added: '2022-12-19T17:32:29'
+  last_modified: '2022-12-19T17:32:29'
+version: '1.51'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: VJIG.EXE
+references:
+  dosid: DOS00800
+  exodos: Animal Quest (1996).zip
+files:
+- name: ALIVE.DOC
+  size: 9627
+  date: '1990-06-05T12:00:00'
+  crc: '0x49cc2487'
+- name: README.DOC
+  size: 2103
+  date: '1990-06-05T12:00:00'
+  crc: '0xd7fb3de8'
+- name: REGISTER.DOC
+  size: 2510
+  date: '1990-06-05T12:00:00'
+  crc: '0x00f5d3db'
+- name: VJIG.DOC
+  size: 15052
+  date: '1990-06-05T12:00:00'
+  crc: '0x911964c6'
+- name: VJIG.EXE
+  size: 134388
+  date: '1990-06-05T12:00:00'
+  crc: '0x8a8dd9b7'
+- name: VJIG0.GL
+  size: 153632
+  date: '1990-06-05T12:00:00'
+  crc: '0xb395e8d8'
+- name: VJIG0.LST
+  size: 67
+  date: '1990-06-05T12:00:00'
+  crc: '0x806bed2e'

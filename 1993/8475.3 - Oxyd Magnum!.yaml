@@ -1,0 +1,46 @@
+filename: Oxyd Magnum! (Installer) (En)(Fr)(De) (1993)(Dongleware Verlags GmbH) [Strategy].zip
+tdc_id: '8475.3'
+title:
+  box: Oxyd Magnum!
+publisher: Dongleware Verlags GmbH
+year: '1993'
+genre: Strategy
+language:
+- English
+- French
+- German
+date:
+  added: '2019-03-01T19:15:50'
+  last_modified: '2019-03-01T19:15:50'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 49474
+  date: '1993-10-14T10:29:00'
+  crc: '0xd5f41f25'
+- name: OXYDMA\
+  size: 0
+  date: '1993-12-10T10:25:36'
+- name: OXYDMA\LANGUAGE.OX1
+  size: 2
+  date: '1993-02-18T17:34:44'
+  crc: '0x41d912ff'
+- name: OXYDMA\MINTIMES.OXM
+  size: 802
+  date: '1993-01-14T18:53:34'
+  crc: '0x10943f1d'
+- name: OXYDMA\OXYDMIBM.DAT
+  size: 456247
+  date: '1992-10-15T17:19:16'
+  crc: '0x0f63d5af'
+- name: OXYDMA\OXYD_HI.EXE
+  size: 193286
+  date: '1993-10-14T17:52:24'
+  crc: '0x6463c6a7'
+- name: OXYDMA\SOUND.OX1
+  size: 2
+  date: '1993-01-21T13:05:26'
+  crc: '0x58c223be'

@@ -1,0 +1,24 @@
+filename: Interpose (demo) (Installer) [SW] (1996)(Webfoot Technologies, Inc.) [Action].zip
+tdc_id: '11527.0'
+title:
+  screen: Interpose
+  qualifier: demo
+publisher: Webfoot Technologies, Inc.
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2021-10-01T20:25:32'
+  last_modified: '2021-10-01T20:25:32'
+type: zip
+tags:
+- Shareware
+installer: true
+demo: true
+commands:
+  play: IP_TINY.EXE
+files:
+- name: IP_TINY.EXE
+  size: 3780888
+  date: '1997-08-23T20:54:48'
+  crc: '0x89bafc8d'

@@ -1,0 +1,48 @@
+filename: Electro Man (Installer) [SWR] (1994)(Epic MegaGames, Inc., The B&N Companies) [Action].zip
+tdc_id: '13359.5'
+parent_id: '13359.4'
+title:
+  box: Electro Man
+  screen: ElectroMan
+  qualifier: Installer
+publisher: Epic MegaGames, Inc., The B&N Companies
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2023-12-21T15:40:55'
+  last_modified: '2023-12-21T15:40:55'
+type: zip
+tags:
+- SharewareRegistered
+media: 1.44M
+installer: true
+commands:
+  play: GO.EXE
+references:
+  mobygames: https://www.mobygames.com/game/752/electroman/
+files:
+- name: ELECTROD.X00
+  size: 86
+  date: '1994-09-02T14:17:38'
+  crc: '0xa022da4e'
+- name: ELECTROD.Z01
+  size: 967515
+  date: '1994-09-02T14:17:18'
+  crc: '0xcd02b8ed'
+- name: GO.EXE
+  size: 22992
+  date: '1994-09-27T17:59:22'
+  crc: '0x7dc57a44'
+- name: INSTALL.BIN
+  size: 4000
+  date: '1994-09-02T17:00:36'
+  crc: '0x201e41ae'
+- name: INSTALL.DAT
+  size: 21
+  date: '1994-09-02T14:17:36'
+  crc: '0x0c53b88d'
+- name: INSTALL.PCX
+  size: 5075
+  date: '1994-09-27T17:01:32'
+  crc: '0x29b5bbf2'

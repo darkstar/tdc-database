@@ -1,0 +1,49 @@
+filename: Army v1.2 (1989)(Dwain Goforth) [Strategy, War].zip
+tdc_id: '1641.0'
+title:
+  screen: Army
+publisher: Dwain Goforth
+year: '1989'
+genre:
+- Strategy
+- War
+language: English
+date:
+  added: '2019-03-01T18:27:14'
+  last_modified: '2019-03-01T18:27:14'
+version: '1.2'
+type: zip
+commands:
+  play: ARMY.EXE
+references:
+  dosid: DOS06483
+  exodos: Army (1989).zip
+files:
+- name: ARMY.BD1
+  size: 32774
+  date: '1989-01-22T12:00:00'
+  crc: '0x5c4505f8'
+- name: ARMY.BD2
+  size: 32774
+  date: '1989-01-22T12:00:00'
+  crc: '0x01320ad5'
+- name: ARMY.BD3
+  size: 32774
+  date: '1989-01-22T12:00:00'
+  crc: '0x935807bf'
+- name: ARMY.BD4
+  size: 32774
+  date: '1989-01-22T12:00:00'
+  crc: '0x37ff4cf2'
+- name: ARMY.BLD
+  size: 18007
+  date: '1989-01-22T12:00:00'
+  crc: '0x3523ae36'
+- name: ARMY.DOC
+  size: 9727
+  date: '1989-02-09T23:34:44'
+  crc: '0xd05dc9b1'
+- name: ARMY.EXE
+  size: 97497
+  date: '1989-02-09T23:26:58'
+  crc: '0x8edc833d'

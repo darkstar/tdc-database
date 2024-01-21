@@ -1,0 +1,30 @@
+filename: Asylum (Follow the Cheese and Pickle Sandwich) (1991)(Doppelganger Adventures) [Adventure].zip
+tdc_id: '8950.0'
+title:
+  screen: Asylum (Follow the Cheese and Pickle Sandwich)
+publisher: Doppelganger Adventures
+year: '1991'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:34:54'
+  last_modified: '2019-03-01T18:34:54'
+type: zip
+commands:
+  play: ASYLUM.EXE
+references:
+  dosid: DOS06020
+  exodos: Asylum (1991).zip
+files:
+- name: ASYLUM.DAT
+  size: 43172
+  date: '1991-06-22T14:24:14'
+  crc: '0xd70b894a'
+- name: ASYLUM.EXE
+  size: 94739
+  date: '1991-06-25T13:24:56'
+  crc: '0x116cde9a'
+- name: ASYLUM.SAV
+  size: 1336
+  date: '1991-06-07T17:55:02'
+  crc: '0x64b8833b'

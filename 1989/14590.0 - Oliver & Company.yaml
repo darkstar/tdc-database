@@ -1,0 +1,51 @@
+filename: Oliver & Company (En)(Es)(Fr)(De)(It) (1989)(Coktel Vision) [Action].zip
+tdc_id: '14590.0'
+title:
+  box: Oliver & Company
+publisher: Coktel Vision
+year: '1989'
+genre: Action
+language:
+- English
+- Spanish
+- French
+- Italian
+- German
+date:
+  added: '2019-03-01T18:28:32'
+  last_modified: '2019-03-01T18:28:32'
+type: zip
+commands:
+  play: LOADER.EXE
+references:
+  dosid: DOS03810
+  exodos: Oliver and Company (1989).zip
+files:
+- name: INTRO.STK
+  size: 161890
+  date: '1989-11-24T17:16:30'
+  crc: '0x17924479'
+- name: JEUDAK.LET
+  size: 1557
+  date: '1986-04-24T00:12:20'
+  crc: '0xfee7d28e'
+- name: LOADER.EXE
+  size: 166864
+  date: '1991-01-28T23:41:34'
+  crc: '0x696ceede'
+- name: PHASE1.STK
+  size: 77346
+  date: '1989-11-21T09:22:28'
+  crc: '0x5251bdcb'
+- name: PHASE2.STK
+  size: 76688
+  date: '1989-11-16T14:07:40'
+  crc: '0x9f0c2a82'
+- name: PHASE3.STK
+  size: 100208
+  date: '1989-11-27T09:12:42'
+  crc: '0xc40b6f8f'
+- name: PHASE4.STK
+  size: 82774
+  date: '1989-11-22T17:27:40'
+  crc: '0xd1e34f6c'

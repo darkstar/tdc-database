@@ -1,0 +1,34 @@
+filename: J.R.R. Tolkien's The Lord of the Rings, Vol. II- The Two Towers v1.0 (Installer) [f1] (1991)(Interplay Productions, Inc.) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '11598.3'
+title:
+  box: 'J.R.R. Tolkien''s The Lord of the Rings, Vol. II: The Two Towers'
+  qualifier: Installer
+publisher: Interplay Productions, Inc.
+year: '1991'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-05-25T21:14:46'
+  last_modified: '2023-04-27T10:04:01'
+version: '1.0'
+type: zip
+tags:
+- Fixed: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 90329
+  date: '1992-06-16T09:54:28'
+  crc: '0xe15a64dd'
+- name: INTRPLAY.CMP
+  size: 3253727
+  date: '2019-05-25T21:10:32'
+  crc: '0xb6dc96ec'
+- name: README.DOC
+  size: 4819
+  date: '1992-06-16T09:54:28'
+  crc: '0x37719ee8'

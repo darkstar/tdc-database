@@ -1,0 +1,31 @@
+filename: Checkers v1.1 (1997)(Chris McKenzie) [Strategy, Board].zip
+tdc_id: '9304.1'
+title:
+  screen: Checkers
+publisher: Chris McKenzie
+year: '1997'
+genre:
+- Strategy
+- Board
+language: English
+date:
+  added: '2019-03-02T10:25:26'
+  last_modified: '2019-03-02T10:25:26'
+version: '1.1'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: CHECKB.BAS
+  size: 24398
+  date: '2018-03-10T02:22:16'
+  crc: '0x9fcc6058'
+- name: GO.BAT
+  size: 26
+  date: '2018-06-30T00:38:48'
+  crc: '0x44272985'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T01:28:02'
+  crc: '0x19f6ed75'

@@ -1,0 +1,87 @@
+filename: Igor- Objetivo Uikokahonia [tr Ru] (1998)(Dinamic Multimedia, El Mundo) [Adventure].zip
+tdc_id: '11414.7'
+parent_id: '11414.6'
+title:
+  box: 'Igor: Objetivo Uikokahonia'
+publisher: Dinamic Multimedia, El Mundo
+year: '1998'
+genre: Adventure
+language: Russian
+date:
+  added: '2023-10-15T10:02:37'
+  last_modified: '2023-10-15T10:02:37'
+type: zip
+tags:
+- Translated
+media: CD-ROM
+audio:
+- CD-DA
+commands:
+  play: og-ru.bat
+references:
+  mobygames: https://www.mobygames.com/game/2170/igor-objective-uikokahonia/
+files:
+- name: DPMI16BI.OVL
+  size: 63504
+  date: '2023-10-09T12:49:44'
+  crc: '0xcefdd6dd'
+- name: HMIDI0.DLL
+  size: 31232
+  date: '2023-10-09T12:49:44'
+  crc: '0x87470710'
+- name: HMIDIVD.VXD
+  size: 11865
+  date: '2023-10-09T12:49:44'
+  crc: '0xd9286c4a'
+- name: IGOR.DAT
+  size: 61682719
+  date: '2023-10-09T12:49:48'
+  crc: '0xdaf92c04'
+- name: IGOR.ICO
+  size: 2238
+  date: '2023-10-09T12:49:48'
+  crc: '0x529c278c'
+- name: IGOR.PIF
+  size: 967
+  date: '2023-10-09T12:49:48'
+  crc: '0xdc320309'
+- name: IRQ.EXE
+  size: 229376
+  date: '2023-10-09T12:49:44'
+  crc: '0x652a8d4c'
+- name: LIGOR.EXE
+  size: 199168
+  date: '2023-10-09T12:49:44'
+  crc: '0x8e791417'
+- name: MANUAL.FTS
+  size: 175616
+  date: '2023-10-09T12:49:48'
+  crc: '0xf63352b8'
+- name: MANUAL.HLP
+  size: 200219
+  date: '2023-10-09T12:49:48'
+  crc: '0x5d47368e'
+- name: RTM.EXE
+  size: 85998
+  date: '2023-10-09T12:49:44'
+  crc: '0x212f32b9'
+- name: SND.EXE
+  size: 96256
+  date: '2023-10-09T12:49:44'
+  crc: '0xaabcc721'
+- name: igor.cfg
+  size: 9
+  date: '2023-10-09T12:50:38'
+  crc: '0x8ce90533'
+- name: igor.exe
+  size: 9115648
+  date: '2023-10-15T10:01:14'
+  crc: '0x97f61221'
+- name: igor_manual_1.0.pdf
+  size: 5303252
+  date: '2023-10-10T18:42:36'
+  crc: '0xdcf8cf28'
+- name: og-ru.bat
+  size: 2511
+  date: '2023-09-30T01:41:42'
+  crc: '0x440ff411'

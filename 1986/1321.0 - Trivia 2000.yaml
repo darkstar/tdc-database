@@ -1,0 +1,60 @@
+filename: Trivia 2000 (1986)(TAK Theory) [Educational, Trivia].zip
+tdc_id: '1321.0'
+title:
+  screen: Trivia 2000
+publisher: TAK Theory
+year: '1986'
+genre:
+- Educational
+- Trivia
+language: English
+date:
+  added: '2019-03-01T18:25:02'
+  last_modified: '2019-03-01T18:25:02'
+type: zip
+commands:
+  play: TRIV2000.COM
+references:
+  dosid: DOS07199
+  exodos: Trivia 2000 (1986).zip
+files:
+- name: TRIV00.DAT
+  size: 124
+  date: '1986-02-22T20:22:38'
+  crc: '0x62326ed6'
+- name: TRIV01.DAT
+  size: 37324
+  date: '1986-02-23T04:57:26'
+  crc: '0x7fe14b57'
+- name: TRIV02.DAT
+  size: 37324
+  date: '1986-02-23T06:09:56'
+  crc: '0xcdabb942'
+- name: TRIV03.DAT
+  size: 37324
+  date: '1986-02-23T06:12:36'
+  crc: '0x5f73f147'
+- name: TRIV04.DAT
+  size: 37449
+  date: '1986-02-23T05:41:10'
+  crc: '0x3ef1fde9'
+- name: TRIV05.DAT
+  size: 37449
+  date: '1986-02-23T06:14:44'
+  crc: '0x406fa9b3'
+- name: TRIV06.DAT
+  size: 31124
+  date: '1986-02-23T05:59:52'
+  crc: '0xf02a00a4'
+- name: TRIV2000.COM
+  size: 43586
+  date: '1986-12-27T19:55:52'
+  crc: '0xc7c32336'
+- name: TRIV2000.DOC
+  size: 33536
+  date: '1986-10-24T20:36:52'
+  crc: '0x36d32b35'
+- name: WELCOME.TXT
+  size: 716
+  date: '1986-12-14T02:41:16'
+  crc: '0x304a4eed'

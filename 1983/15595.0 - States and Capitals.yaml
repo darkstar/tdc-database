@@ -1,0 +1,32 @@
+filename: States and Capitals (1983)(International PC Owners) [Educational, Trivia].zip
+tdc_id: '15595.0'
+title:
+  screen: States and Capitals
+publisher: International PC Owners
+year: '1983'
+genre:
+- Educational
+- Trivia
+language: English
+date:
+  added: '2019-03-01T18:23:20'
+  last_modified: '2019-03-01T18:23:20'
+type: zip
+commands:
+  play: STATCAPS.BAT
+references:
+  dosid: DOS07397
+  exodos: States and Capitals (1983).zip
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: STATCAPS.BAS
+  size: 17664
+  date: '1983-04-09T16:23:00'
+  crc: '0xfb4325cb'
+- name: STATCAPS.BAT
+  size: 17
+  date: '2014-12-01T01:32:00'
+  crc: '0xce764ff7'

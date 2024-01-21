@@ -1,0 +1,39 @@
+filename: Yatzy (De) (1990)(RGH-Soft) [Strategy].zip
+tdc_id: '15813.0'
+title:
+  screen: Yatzy
+publisher: RGH-Soft
+year: '1990'
+genre: Strategy
+language: German
+date:
+  added: '2019-03-01T18:34:38'
+  last_modified: '2019-03-01T18:34:38'
+type: zip
+commands:
+  play: YATZY.EXE
+files:
+- name: GOTH.CHR
+  size: 15303
+  date: '2018-02-26T13:01:56'
+  crc: '0x4b604938'
+- name: LITT.CHR
+  size: 5131
+  date: '2018-02-26T13:01:54'
+  crc: '0xdeed0c13'
+- name: SANS.CHR
+  size: 13642
+  date: '2018-02-26T13:01:54'
+  crc: '0x0c648fa1'
+- name: TRIP.CHR
+  size: 15113
+  date: '2018-02-26T13:01:50'
+  crc: '0x736c1feb'
+- name: YATZY.CFG
+  size: 5
+  date: '2018-02-26T13:01:56'
+  crc: '0x159c665c'
+- name: YATZY.EXE
+  size: 46027
+  date: '2018-02-26T13:01:52'
+  crc: '0x03e75aa8'

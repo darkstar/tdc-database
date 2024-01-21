@@ -1,0 +1,30 @@
+filename: Winter Games [DC] (1986)(Epyx, Inc.) [Action, Sports].zip
+tdc_id: '16048.1'
+title:
+  box: Winter Games
+publisher: Epyx, Inc.
+year: '1986'
+genre:
+- Action
+- Sports
+language: English
+date:
+  added: '2019-03-01T18:25:04'
+  last_modified: '2019-03-01T18:25:04'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: WINTER.COM
+references:
+  dosid: DOS06004
+  exodos: Winter Games (1986).zip
+files:
+- name: WINTER.COM
+  size: 416
+  date: '1999-08-24T22:18:00'
+  crc: '0x4d7d9e7f'
+- name: WINTER.DAT
+  size: 368640
+  date: '1997-07-03T09:14:00'
+  crc: '0x23041a6e'

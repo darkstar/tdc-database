@@ -1,0 +1,47 @@
+filename: Objectif Europe (Fr) (1987)(Coktel Vision) [Educational].zip
+tdc_id: '14561.0'
+title:
+  box: Objectif Europe
+publisher: Coktel Vision
+year: '1987'
+genre: Educational
+language: French
+date:
+  added: '2019-03-01T18:25:30'
+  last_modified: '2019-03-01T18:25:30'
+type: zip
+commands:
+  play: LOADER.COM
+files:
+- name: CARTE.INF
+  size: 2
+  date: '1989-12-09T18:07:48'
+  crc: '0x73ef707d'
+- name: EPISODE0.TOT
+  size: 6492
+  date: '1980-01-01T03:04:40'
+  crc: '0x75c956f7'
+- name: EPISODE1.TOT
+  size: 21209
+  date: '1980-01-01T03:03:54'
+  crc: '0x89814e96'
+- name: EPISODE2.TOT
+  size: 26806
+  date: '1980-01-01T03:12:58'
+  crc: '0xf4e306c4'
+- name: EPISODE3.TOT
+  size: 21326
+  date: '1980-01-01T03:18:12'
+  crc: '0x07bbf9bc'
+- name: EPISODE4.TOT
+  size: 19207
+  date: '1980-01-01T03:27:38'
+  crc: '0x4bdcb442'
+- name: LETTRES.BIN
+  size: 1024
+  date: '1980-01-01T03:03:48'
+  crc: '0x24f22ef1'
+- name: LOADER.COM
+  size: 50553
+  date: '1980-01-01T04:00:04'
+  crc: '0x09fec6a2'

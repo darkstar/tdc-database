@@ -1,0 +1,71 @@
+filename: Gates of Hell, The (1998)(FIG Inc.) [Action].zip
+tdc_id: '13964.0'
+title:
+  screen: The Gates of Hell
+publisher: FIG Inc.
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:41:18'
+  last_modified: '2019-03-02T10:41:18'
+type: zip
+commands:
+  play: go.bat
+files:
+- name: CLS.PIC
+  size: 64007
+  date: '1998-09-20T08:53:04'
+  crc: '0x27c09607'
+- name: EVIL1.PIC
+  size: 64007
+  date: '1998-09-20T08:13:14'
+  crc: '0xd90ec85b'
+- name: EVIL1M.PIC
+  size: 64007
+  date: '1998-09-20T08:16:50'
+  crc: '0x0c7e691d'
+- name: LOD.DAT
+  size: 49007
+  date: '1998-09-30T20:09:32'
+  crc: '0xc3187bbd'
+- name: MAP.DAT
+  size: 446
+  date: '1998-09-30T20:13:24'
+  crc: '0x49936e74'
+- name: QB.BI
+  size: 2005
+  date: '2016-03-13T01:19:42'
+  crc: '0x3c41bdf3'
+- name: QB.EXE
+  size: 278804
+  date: '2016-03-13T01:19:56'
+  crc: '0xb08bc0fe'
+- name: QB.LIB
+  size: 2075
+  date: '2016-03-13T01:20:44'
+  crc: '0xaf756407'
+- name: QB.QLB
+  size: 5822
+  date: '1990-08-20T11:00:00'
+  crc: '0x5f7d93e0'
+- name: STUFF.PIC
+  size: 64007
+  date: '1998-09-20T19:38:34'
+  crc: '0x37183acc'
+- name: STUFFM.PIC
+  size: 64007
+  date: '1998-09-20T19:46:36'
+  crc: '0xe9d24d56'
+- name: TEXTURE.PAL
+  size: 768
+  date: '1995-12-23T13:45:00'
+  crc: '0x88330636'
+- name: gates.bas
+  size: 15374
+  date: '1998-09-30T20:43:58'
+  crc: '0x32a204d3'
+- name: go.bat
+  size: 59
+  date: '1998-09-30T20:41:48'
+  crc: '0xb3284632'

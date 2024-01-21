@@ -1,0 +1,31 @@
+filename: Indiana Jones and the Fate of Atlantis (demo) v2 (Installer) (1992)(Lucasfilm Games LLC) [Adventure].zip
+tdc_id: '11473.9'
+title:
+  screen: Indiana Jones and the Fate of Atlantis
+  qualifier: demo
+publisher: Lucasfilm Games LLC
+year: '1992'
+genre: Adventure
+language: English
+date:
+  added: '2019-04-21T15:37:34'
+  last_modified: '2019-04-21T15:37:34'
+version: '2'
+type: zip
+installer: true
+demo: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 34627
+  date: '1992-06-18T10:36:24'
+  crc: '0x699b9afd'
+- name: PLAFAT_A
+  size: 806322
+  date: '1992-06-18T10:37:08'
+  crc: '0x07e13d45'
+- name: READ.ME
+  size: 1324
+  date: '1992-06-18T10:01:28'
+  crc: '0xa09409a1'

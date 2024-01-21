@@ -1,0 +1,72 @@
+filename: Road Hog! (Installer) (En)(De) [SWR] (1995)(Ticsoft) [Action, Racing - Driving].zip
+tdc_id: '9974.1'
+title:
+  screen: Road Hog!
+publisher: Ticsoft
+year: '1995'
+genre:
+- Action
+- Racing - Driving
+language:
+- English
+- German
+date:
+  added: '2020-04-09T14:43:40'
+  last_modified: '2022-11-23T10:19:37'
+type: zip
+tags:
+- SharewareRegistered
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/road-hog
+files:
+- name: BESTELL.BAT
+  size: 27
+  date: '1995-08-21T13:54:40'
+  crc: '0x9d53ca27'
+- name: DISK1.XXX
+  size: 718491
+  date: '1995-08-21T13:55:06'
+  crc: '0x16d3f128'
+- name: DISK2.XXX
+  size: 756831
+  date: '1995-08-21T14:01:14'
+  crc: '0x4ce89201'
+- name: HELP.BAT
+  size: 25
+  date: '1995-08-21T13:54:40'
+  crc: '0x14a73891'
+- name: HELP.DAT
+  size: 47501
+  date: '1995-08-21T13:54:40'
+  crc: '0x7265f3cf'
+- name: HILFE.BAT
+  size: 25
+  date: '1995-08-21T13:54:40'
+  crc: '0x1723ecff'
+- name: INSTALL.001
+  size: 1469
+  date: '1995-08-21T13:55:06'
+  crc: '0x2f51552e'
+- name: INSTALL.002
+  size: 76
+  date: '1995-08-21T14:00:46'
+  crc: '0xf495928c'
+- name: INSTALL.EXE
+  size: 87162
+  date: '1995-08-21T13:54:36'
+  crc: '0x417fa2da'
+- name: ORDER.BAT
+  size: 27
+  date: '1995-08-21T13:54:40'
+  crc: '0x9ed71e49'
+- name: XHELP.EXE
+  size: 27776
+  date: '1995-08-21T13:54:38'
+  crc: '0xcfda0465'
+- name: XORDER.DAT
+  size: 17922
+  date: '1995-08-21T13:54:38'
+  crc: '0x77f64511'

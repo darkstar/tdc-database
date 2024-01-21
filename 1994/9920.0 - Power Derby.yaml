@@ -1,0 +1,38 @@
+filename: Power Derby (Installer) (Ja) (1994)(Cosmos Computer) [Sports, Simulation].zip
+tdc_id: '9920.0'
+title:
+  screen: Power Derby
+publisher: Cosmos Computer
+year: '1994'
+genre:
+- Sports
+- Simulation
+language: Japanese
+date:
+  added: '2019-03-01T22:02:48'
+  last_modified: '2019-03-01T22:02:48'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DERBY1.XH
+  size: 1227642
+  date: '1994-11-17T01:00:00'
+  crc: '0x36e14373'
+- name: DERBY2.XH
+  size: 1430697
+  date: '1994-11-17T01:00:00'
+  crc: '0xdf4daae2'
+- name: DERBY3.XH
+  size: 1369418
+  date: '1994-11-17T01:00:00'
+  crc: '0x9b07fcc8'
+- name: INSTALL.DAT
+  size: 1683
+  date: '1994-11-17T01:00:00'
+  crc: '0x0535b88c'
+- name: INSTALL.EXE
+  size: 28095
+  date: '1994-11-17T01:00:00'
+  crc: '0xea5e3d58'

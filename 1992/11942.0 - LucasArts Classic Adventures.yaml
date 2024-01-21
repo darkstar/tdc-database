@@ -1,0 +1,68 @@
+filename: LucasArts Classic Adventures v1.1 (Installer) (1992)(LucasArts) [Adventure, Compilation].zip
+tdc_id: '11942.0'
+title:
+  box: LucasArts Classic Adventures
+publisher: LucasArts
+year: '1992'
+genre:
+- Adventure
+- Compilation
+language: English
+date:
+  added: '2019-03-01T18:49:00'
+  last_modified: '2019-03-01T18:49:00'
+version: '1.1'
+type: zip
+installer: true
+compilation: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INDY___B.XXX
+  size: 571088
+  date: '1999-12-31T18:00:00'
+  crc: '0xaa6bce95'
+- name: INDY___C.XXX
+  size: 1454088
+  date: '1999-12-31T18:00:00'
+  crc: '0xbad93c38'
+- name: INDY___D.XXX
+  size: 1454088
+  date: '1999-12-31T18:00:00'
+  crc: '0x236df9e4'
+- name: INDY___E.XXX
+  size: 73054
+  date: '1999-12-31T18:00:00'
+  crc: '0x1862cf92'
+- name: INSTALL.EXE
+  size: 24762
+  date: '1999-12-31T18:00:00'
+  crc: '0xe521b9b8'
+- name: LOOM___A.XXX
+  size: 394088
+  date: '1999-12-31T18:00:00'
+  crc: '0x4174a3d6'
+- name: LOOM___B.XXX
+  size: 874101
+  date: '1999-12-31T18:00:00'
+  crc: '0x0b20e5bb'
+- name: MANIAC_A.XXX
+  size: 401060
+  date: '1999-12-31T18:00:00'
+  crc: '0x7ae20880'
+- name: MONKEY_E.XXX
+  size: 1384088
+  date: '1999-12-31T18:00:00'
+  crc: '0x8031c667'
+- name: MONKEY_F.XXX
+  size: 1454088
+  date: '1999-12-31T18:00:00'
+  crc: '0x259cb30a'
+- name: MONKEY_G.XXX
+  size: 697641
+  date: '1999-12-31T18:00:00'
+  crc: '0x0eab4918'
+- name: ZAK____A.XXX
+  size: 633717
+  date: '1999-12-31T18:00:00'
+  crc: '0xf5c01037'

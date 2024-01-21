@@ -1,0 +1,39 @@
+filename: DOOM v1.8 (Installer) [SW] (1995)(id Software, Inc.) [Action].zip
+tdc_id: '9454.46'
+parent_id: '9454.47'
+title:
+  screen: DOOM
+publisher: id Software, Inc.
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T08:43:30'
+  last_modified: '2019-03-02T08:43:30'
+version: '1.8'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+files:
+- name: DEICE.EXE
+  size: 17303
+  date: '1995-01-23T19:46:14'
+  crc: '0xaad4552c'
+- name: DOOM18S.1
+  size: 1439232
+  date: '1995-01-23T19:47:16'
+  crc: '0x1a3d4b71'
+- name: DOOM18S.2
+  size: 1026829
+  date: '1995-01-23T19:48:12'
+  crc: '0x5f31a304'
+- name: DOOM18S.DAT
+  size: 256
+  date: '1995-01-23T17:41:08'
+  crc: '0x86d12cb0'
+- name: INSTALL.BAT
+  size: 181
+  date: '1995-01-23T17:47:38'
+  crc: '0x09001191'

@@ -1,0 +1,36 @@
+filename: Patriot Command v1.3d [SW] (1994)(Timber Valley Software) [Action].zip
+tdc_id: '10101.2'
+title:
+  screen: Patriot Command
+publisher: Timber Valley Software
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T22:02:38'
+  last_modified: '2019-03-01T22:02:38'
+version: 1.3d
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: PATDEMO.EXE
+notes: yes this is different than 1993 version
+files:
+- name: ORDRFORM.TXT
+  size: 2191
+  date: '1994-02-16T07:15:18'
+  crc: '0xa784ff62'
+- name: PATDEMO.EXE
+  size: 360355
+  date: '1994-02-16T11:29:02'
+  crc: '0x4ccc0014'
+- name: README.TXT
+  size: 19767
+  date: '1994-02-16T18:49:34'
+  crc: '0x5ee23e39'
+- name: VENDORS.TXT
+  size: 1108
+  date: '1994-02-16T12:56:38'
+  crc: '0x4630f4a7'

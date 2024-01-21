@@ -1,0 +1,95 @@
+filename: TFX CD v2.05 (Installer) (En)(Fr)(De)(It)(Es) (1993)(Ocean Software Ltd.) [Action, Simulation].zip
+tdc_id: '16615.1'
+title:
+  box: TFX CD
+publisher: Ocean Software Ltd.
+year: '1993'
+genre:
+- Action
+- Simulation
+language:
+- English
+- Spanish
+- French
+- Italian
+- German
+date:
+  added: '2020-11-02T19:58:10'
+  last_modified: '2020-11-02T19:58:10'
+version: '2.05'
+type: zip
+installer: true
+files:
+- name: DID.DAT
+  size: 11509643
+  date: '1994-07-08T13:12:50'
+  crc: '0x7f7c6424'
+- name: DISK1.DAT
+  size: 1422373
+  date: '1994-07-01T09:40:56'
+  crc: '0x7914cf24'
+- name: INFERHD.BAT
+  size: 26
+  date: '1993-11-30T13:48:30'
+  crc: '0xf86b68f5'
+- name: INFERNO.BAT
+  size: 36
+  date: '1993-11-30T13:47:44'
+  crc: '0x5b4194b6'
+- name: INFERNO.HD\
+  size: 0
+  date: '1994-07-09T12:49:06'
+- name: INFERNO.HD\DISK1.DAT
+  size: 11805812
+  date: '1993-11-30T13:46:20'
+  crc: '0x9d1bc15a'
+- name: INFERNO.HD\INSTALL.EXE
+  size: 18879
+  date: '1993-11-30T13:48:00'
+  crc: '0x55ba26bc'
+- name: INFERNO\
+  size: 0
+  date: '1994-07-09T12:49:06'
+- name: INFERNO\DID.DAT
+  size: 11362380
+  date: '1993-11-30T13:19:48'
+  crc: '0xc4e53963'
+- name: INFERNO\INFERNO.BAT
+  size: 24
+  date: '1993-11-30T13:47:56'
+  crc: '0xbfa8ce42'
+- name: INFERNO\START.EXE
+  size: 33840
+  date: '1993-11-29T17:31:24'
+  crc: '0x400aaabf'
+- name: INFERNO\TFX.DAT
+  size: 829853
+  date: '1993-11-30T12:40:38'
+  crc: '0x3756f8b4'
+- name: INSTALL.EXE
+  size: 20614
+  date: '1994-07-01T09:41:14'
+  crc: '0x6f145d5f'
+- name: TFX.BAT
+  size: 11
+  date: '1994-03-16T13:58:40'
+  crc: '0x54851293'
+- name: TFX.DAT
+  size: 1013255
+  date: '1994-03-03T17:36:54'
+  crc: '0xaef8566a'
+- name: TUNES\
+  size: 0
+  date: '1994-07-09T12:49:06'
+- name: TUNES\INTRO.ADL
+  size: 8639
+  date: '1993-12-05T12:12:14'
+  crc: '0xe78b86a6'
+- name: TUNES\INTRO.RLD
+  size: 11217
+  date: '1993-12-05T12:12:12'
+  crc: '0x84b143ac'
+- name: TUNES\INTRO.SCC
+  size: 8515
+  date: '1993-12-05T12:12:14'
+  crc: '0x8b3c3356'

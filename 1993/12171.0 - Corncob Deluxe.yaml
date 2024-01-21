@@ -1,0 +1,27 @@
+filename: Corncob Deluxe (Installer) (1993)(MVP Software) [Action, Simulation].zip
+tdc_id: '12171.0'
+parent_id: '12171.1'
+title:
+  screen: Corncob Deluxe
+publisher: MVP Software
+year: '1993'
+genre:
+- Action
+- Simulation
+language: English
+date:
+  added: '2022-07-21T23:21:08'
+  last_modified: '2022-07-21T23:21:08'
+type: zip
+installer: true
+commands:
+  play: GO.EXE
+files:
+- name: CORNCOB.DNK
+  size: 370293
+  date: '1993-05-12T01:00:00'
+  crc: '0xfb33d6ca'
+- name: GO.EXE
+  size: 59287
+  date: '1993-06-18T00:00:00'
+  crc: '0x9fa61e35'

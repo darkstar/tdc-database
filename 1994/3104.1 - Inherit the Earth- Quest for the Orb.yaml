@@ -1,0 +1,62 @@
+filename: Inherit the Earth- Quest for the Orb (Installer) (1994)(New World Computing, Inc.) [Adventure].zip
+tdc_id: '3104.1'
+title:
+  box: 'Inherit the Earth: Quest for the Orb'
+publisher: New World Computing, Inc.
+year: '1994'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-10T18:55:16'
+  last_modified: '2019-03-10T18:55:16'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INHERIT.105
+  size: 1117200
+  date: '1994-05-10T18:15:48'
+  crc: '0xc07a99c3'
+- name: INHERIT.A01
+  size: 1456420
+  date: '1994-05-10T18:10:44'
+  crc: '0x9fd44655'
+- name: INHERIT.A02
+  size: 1456328
+  date: '1994-05-10T18:11:56'
+  crc: '0x468bc6cf'
+- name: INHERIT.A03
+  size: 1456284
+  date: '1994-05-10T18:13:50'
+  crc: '0xdc3ad7ad'
+- name: INHERIT.A04
+  size: 1456289
+  date: '1994-05-10T18:14:52'
+  crc: '0x18549358'
+- name: INHERIT.ARJ
+  size: 1413298
+  date: '1994-05-10T18:09:46'
+  crc: '0x40fc3eda'
+- name: INHERIT1
+  size: 0
+  date: '1994-05-10T18:16:02'
+- name: INHERIT2
+  size: 0
+  date: '1994-05-10T18:17:22'
+- name: INHERIT3
+  size: 0
+  date: '1994-05-10T18:18:34'
+- name: INHERIT4
+  size: 0
+  date: '1994-05-10T18:19:48'
+- name: INHERIT5
+  size: 0
+  date: '1994-05-10T18:21:00'
+- name: INHERIT6
+  size: 0
+  date: '1994-05-10T18:22:12'
+- name: INSTALL.EXE
+  size: 43137
+  date: '1996-12-24T23:32:00'
+  crc: '0x69425121'

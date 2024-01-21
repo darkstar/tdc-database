@@ -1,0 +1,25 @@
+filename: Alien Rampage v1.13 (Installer) [SW][a1] (1996)(Softdisk Publishing) [Action].zip
+tdc_id: '8257.7'
+title:
+  screen: Alien Rampage
+publisher: Softdisk Publishing
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T09:58:54'
+  last_modified: '2019-03-02T09:58:54'
+version: '1.13'
+type: zip
+tags:
+- Shareware
+- Alternate: 1
+media: Download
+installer: true
+commands:
+  play: sdramp.exe
+files:
+- name: sdramp.exe
+  size: 6840986
+  date: '2001-05-11T10:42:38'
+  crc: '0x0e506d80'

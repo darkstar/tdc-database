@@ -1,0 +1,28 @@
+filename: Space Invaders! (1996)(Kenneth Green) [Action].zip
+tdc_id: '6897.0'
+title:
+  screen: Space Invaders!
+publisher: Kenneth Green
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:18:44'
+  last_modified: '2019-03-02T10:18:44'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 25
+  date: '2018-04-15T16:59:56'
+  crc: '0x0e28edfd'
+- name: INVAD.BAS
+  size: 5277
+  date: '2018-03-10T01:57:12'
+  crc: '0x2561d157'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T01:28:02'
+  crc: '0x19f6ed75'

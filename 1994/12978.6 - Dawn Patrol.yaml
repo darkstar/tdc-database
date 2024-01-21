@@ -1,0 +1,43 @@
+filename: Dawn Patrol v201094 (Installer) (1994)(Empire Interactive Entertainment) [Simulation][!].zip
+tdc_id: '12978.6'
+title:
+  box: Dawn Patrol
+publisher: Empire Interactive Entertainment
+year: '1994'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T21:55:58'
+  last_modified: '2019-03-01T21:55:58'
+version: '201094'
+type: zip
+tags:
+- KnownGood
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DAWNC.CMP
+  size: 1291489
+  date: '1994-10-28T13:07:12'
+  crc: '0xffa858b7'
+- name: DAWNM.CMP
+  size: 993628
+  date: '1994-10-28T11:59:12'
+  crc: '0xa31930e6'
+- name: DAWNS_1.CMP
+  size: 300000
+  date: '1994-10-28T11:32:58'
+  crc: '0xc1b942f0'
+- name: DAWNS_2.CMP
+  size: 1457664
+  date: '1994-10-28T11:32:58'
+  crc: '0xcf4b11a4'
+- name: DAWNS_3.CMP
+  size: 1453645
+  date: '1994-10-28T11:32:58'
+  crc: '0xa4f810dd'
+- name: INSTALL.EXE
+  size: 40829
+  date: '1994-10-28T15:49:52'
+  crc: '0xf51be9c8'

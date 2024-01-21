@@ -1,0 +1,30 @@
+filename: Gravity Wars v1.0a [SW] (1992)(John Doroshenko) [Strategy].zip
+tdc_id: '2271.0'
+title:
+  screen: Gravity Wars
+publisher: John Doroshenko
+year: '1992'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:45:40'
+  last_modified: '2019-03-01T18:45:40'
+version: 1.0a
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: GWARS.EXE
+references:
+  dosid: DOS06397
+  exodos: Gravity Wars (1989).zip
+files:
+- name: GWARS.EXE
+  size: 62912
+  date: '1992-04-10T01:00:56'
+  crc: '0x431ddc58'
+- name: README.TXT
+  size: 4083
+  date: '1996-11-27T00:42:32'
+  crc: '0x55d1e7dd'

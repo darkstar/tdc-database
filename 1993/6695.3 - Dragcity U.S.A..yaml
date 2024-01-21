@@ -1,0 +1,52 @@
+filename: Dragcity U.S.A. v3.0A [SW] (1993)(Richard Nikula) [Action, Racing - Driving].zip
+tdc_id: '6695.3'
+title:
+  screen: Dragcity U.S.A.
+publisher: Richard Nikula
+year: '1993'
+genre:
+- Action
+- Racing - Driving
+language: English
+date:
+  added: '2011-06-29T23:04:26'
+  last_modified: '2011-06-29T23:04:26'
+version: 3.0A
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: DRAGCITY.EXE
+references:
+  dosid: DOS06417
+  exodos: Dragcity USA (1990).zip
+files:
+- name: DRAGCITY.DOC
+  size: 12581
+  date: '1993-05-13T20:18:56'
+  crc: '0x6fdd6e9e'
+- name: DRAGCITY.EXE
+  size: 91080
+  date: '1993-05-11T18:33:48'
+  crc: '0x81679beb'
+- name: DRAGCITY.SND
+  size: 252
+  date: '1993-01-10T09:20:42'
+  crc: '0x825f6e8e'
+- name: FILE_ID.DIZ
+  size: 76
+  date: '1993-07-10T08:42:08'
+  crc: '0xcad580df'
+- name: README.CTY
+  size: 5133
+  date: '1993-05-13T20:20:08'
+  crc: '0x2cc70b4f'
+- name: REGISTER.CTY
+  size: 902
+  date: '1993-01-24T11:36:02'
+  crc: '0x354e6a34'
+- name: VENDOR.CTY
+  size: 2593
+  date: '1993-05-11T17:54:06'
+  crc: '0xcafd41bc'

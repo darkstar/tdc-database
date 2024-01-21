@@ -1,0 +1,32 @@
+filename: Enchanted Castle r3 [SW] (2000)(Michael R. Wilk) [Adventure, Interactive Fiction].zip
+tdc_id: '13389.2'
+title:
+  screen: Enchanted Castle
+publisher: Michael R. Wilk
+year: '2000'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T10:54:46'
+  last_modified: '2019-03-02T10:54:46'
+release: '3'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: EC3.EXE
+references:
+  dosid: DOS00161
+  exodos: Enchanted Castle (2000).zip
+files:
+- name: EC3.DAT
+  size: 156672
+  date: '1994-12-24T00:00:00'
+  crc: '0x9e274ed3'
+- name: EC3.EXE
+  size: 56864
+  date: '1994-12-24T00:00:00'
+  crc: '0x48d41303'

@@ -1,0 +1,98 @@
+filename: RoboCop (1989)(Erbe Software, S.A.) [Action].zip
+tdc_id: '14930.1'
+title:
+  box: RoboCop
+publisher: Erbe Software, S.A.
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:28:48'
+  last_modified: '2019-03-01T18:28:48'
+type: zip
+commands:
+  play: ROBOCOP.EXE
+references:
+  dosid: DOS07320
+  exodos: RoboCop (1988).zip
+files:
+- name: 2.DAT
+  size: 6216
+  date: '1980-01-04T00:16:18'
+  crc: '0x899a541c'
+- name: ASSAS1.BIN
+  size: 7680
+  date: '1980-01-01T05:42:44'
+  crc: '0x2b6610c0'
+- name: ASSAS2.BIN
+  size: 7680
+  date: '1980-01-01T05:42:48'
+  crc: '0xe910e8c6'
+- name: BIGBAD.BIN
+  size: 11520
+  date: '1980-01-01T05:42:52'
+  crc: '0x682777f3'
+- name: CHARSET.BIN
+  size: 944
+  date: '1980-01-03T22:28:30'
+  crc: '0x6039c581'
+- name: CONTROL.PIC
+  size: 16391
+  date: '1980-01-01T00:10:26'
+  crc: '0x719193d8'
+- name: DRUGFACT.BIN
+  size: 16384
+  date: '1980-01-04T07:45:32'
+  crc: '0xc89dde37'
+- name: DRUGFACT.MAP
+  size: 1408
+  date: '1980-01-01T00:50:44'
+  crc: '0xf0d1ba3f'
+- name: ENEMY.BIN
+  size: 55808
+  date: '1980-01-01T21:05:46'
+  crc: '0x0cfe2dd8'
+- name: JUNKYARD.BIN
+  size: 16384
+  date: '1980-01-05T00:47:02'
+  crc: '0xf099cf36'
+- name: JUNKYARD.MAP
+  size: 1408
+  date: '1980-01-01T00:48:56'
+  crc: '0xdfcaa6df'
+- name: OCP.BIN
+  size: 16384
+  date: '1980-01-01T20:47:56'
+  crc: '0x33093264'
+- name: OCP.MAP
+  size: 896
+  date: '1980-01-01T00:24:26'
+  crc: '0xee81a075'
+- name: OFFICE.MAP
+  size: 512
+  date: '1980-01-01T00:51:08'
+  crc: '0x14f30dbc'
+- name: PATROL1.BIN
+  size: 32768
+  date: '1980-01-01T06:53:16'
+  crc: '0x41946975'
+- name: PATROL1.MAP
+  size: 1408
+  date: '1980-01-01T00:49:30'
+  crc: '0xede222a6'
+- name: PATROL2.MAP
+  size: 1280
+  date: '1980-01-01T00:50:06'
+  crc: '0x56d6b2fa'
+- name: PHOTOCOD.BIN
+  size: 17089
+  date: '1980-01-01T01:03:50'
+  crc: '0xdb7a41e2'
+- name: ROBO.BIN
+  size: 38400
+  date: '1980-01-01T21:05:20'
+  crc: '0x9db24810'
+- name: ROBOCOP.EXE
+  size: 52818
+  date: '1989-07-07T12:14:28'
+  crc: '0xbfcd860f'

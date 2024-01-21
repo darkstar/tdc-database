@@ -1,0 +1,26 @@
+filename: Paranormal Investigation (2001)(Peter Tomov) [Adventure].zip
+tdc_id: '4731.0'
+title:
+  screen: Paranormal Investigation
+publisher: Peter Tomov
+year: '2001'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-02T10:55:38'
+  last_modified: '2019-03-02T10:55:38'
+type: zip
+commands:
+  play: RONPI.exe
+references:
+  dosid: DOS07002
+  exodos: Paranormal Investigation (2001).zip
+files:
+- name: CWSDPMI.EXE
+  size: 20473
+  date: '1996-12-24T22:32:00'
+  crc: '0x80fa6999'
+- name: RONPI.exe
+  size: 2994116
+  date: '2000-09-07T12:01:24'
+  crc: '0xde43fea2'

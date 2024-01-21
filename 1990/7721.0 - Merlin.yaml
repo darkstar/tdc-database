@@ -1,0 +1,29 @@
+filename: Merlin (1990)(David Stafford) [Strategy, Puzzle].zip
+tdc_id: '7721.0'
+title:
+  screen: Merlin
+publisher: David Stafford
+year: '1990'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-03-01T18:33:14'
+  last_modified: '2019-03-01T18:33:14'
+type: zip
+commands:
+  play: MERLIN.COM
+files:
+- name: MERLIN.ASM
+  size: 10250
+  date: '1990-01-16T01:12:14'
+  crc: '0x5f37a94b'
+- name: MERLIN.COM
+  size: 383
+  date: '1990-01-16T01:19:52'
+  crc: '0xa502b5b1'
+- name: MERLIN.DOC
+  size: 2308
+  date: '1990-01-16T01:19:14'
+  crc: '0x9166118f'

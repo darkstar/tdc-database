@@ -1,0 +1,39 @@
+filename: Arkanoid [FW][a1] (2001)(Lena Kropochkina) [Action].zip
+tdc_id: '5108.1'
+title:
+  screen: Arkanoid
+publisher: Lena Kropochkina
+year: '2001'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:55:10'
+  last_modified: '2022-09-21T09:24:37'
+type: zip
+tags:
+- Freeware
+- Alternate: 1
+media: Download
+commands:
+  play: ARKANOID.exe
+files:
+- name: ARKANOID.PAS
+  size: 32028
+  date: '2007-03-04T11:18:22'
+  crc: '0xa7cc9bdb'
+- name: ARKANOID.exe
+  size: 53360
+  date: '2018-02-12T08:46:42'
+  crc: '0x780f2742'
+- name: EGAVGA.BGI
+  size: 5554
+  date: '1990-10-03T20:00:00'
+  crc: '0x116c5498'
+- name: EGAVGA.OBJ
+  size: 5655
+  date: '2001-06-16T14:27:16'
+  crc: '0xc5677311'
+- name: LITT.OBJ
+  size: 5090
+  date: '2000-09-14T10:31:28'
+  crc: '0xf5b267aa'

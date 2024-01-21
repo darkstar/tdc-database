@@ -1,0 +1,33 @@
+filename: Maze Mission Adventure Game [SW] (1991)(Soleau Software, Inc.) [Strategy].zip
+tdc_id: '11306.0'
+title:
+  screen: Maze Mission Adventure Game
+publisher: Soleau Software, Inc.
+year: '1991'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:36:46'
+  last_modified: '2019-03-01T18:36:46'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: ADMAZE.EXE
+references:
+  dosid: DOS15634
+  exodos: Mission Maze (1991).zip
+files:
+- name: ADMAZE.DAT
+  size: 43202
+  date: '1991-05-02T13:50:16'
+  crc: '0x3319b686'
+- name: ADMAZE.DOC
+  size: 15086
+  date: '1991-05-06T13:52:24'
+  crc: '0x0b232a30'
+- name: ADMAZE.EXE
+  size: 118190
+  date: '1991-05-02T14:42:38'
+  crc: '0xefce9887'

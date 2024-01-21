@@ -1,0 +1,29 @@
+filename: FunPack for DOS (Installer) (1994)(WizardWorks Group, Inc.) [Compilation].zip
+tdc_id: '13871.1'
+title:
+  box: FunPack for DOS
+publisher: WizardWorks Group, Inc.
+year: '1994'
+genre: Compilation
+language: English
+date:
+  added: '2019-03-01T21:57:08'
+  last_modified: '2019-03-01T21:57:08'
+type: zip
+installer: true
+compilation: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 18752
+  date: '1994-07-08T05:00:00'
+  crc: '0x16d5a312'
+- name: PACK.DAT
+  size: 48
+  date: '1994-06-22T16:31:36'
+  crc: '0x12169a9d'
+- name: UNPACK.EXE
+  size: 1197703
+  date: '1994-08-10T09:15:12'
+  crc: '0x8332b9e6'

@@ -1,0 +1,31 @@
+filename: MegaDude (1991)(Andy Sloane) [Action].zip
+tdc_id: '14219.0'
+title:
+  screen: MegaDude
+publisher: Andy Sloane
+year: '1991'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:36:48'
+  last_modified: '2019-03-01T18:36:48'
+type: zip
+commands:
+  play: MEGADUDE.EXE
+files:
+- name: EGAVGA.BGI
+  size: 5363
+  date: '1989-05-11T02:01:00'
+  crc: '0x06d36962'
+- name: GOTH.CHR
+  size: 8560
+  date: '1989-05-11T02:01:00'
+  crc: '0x48a03304'
+- name: MEGADUDE.DOC
+  size: 443
+  date: '1991-02-27T19:38:16'
+  crc: '0x7665e147'
+- name: MEGADUDE.EXE
+  size: 59901
+  date: '1991-02-26T18:49:24'
+  crc: '0xa1f6bf4b'

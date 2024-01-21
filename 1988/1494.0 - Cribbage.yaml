@@ -1,0 +1,32 @@
+filename: Cribbage vA.01.02 [SW] (1988)(Suk Han Software) [Strategy, Cards].zip
+tdc_id: '1494.0'
+title:
+  screen: Cribbage
+publisher: Suk Han Software
+year: '1988'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:26:04'
+  last_modified: '2019-03-01T18:26:04'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: CRIBBAGE.COM
+files:
+- name: CARDS.DAT
+  size: 34238
+  date: '1987-12-27T20:05:14'
+  crc: '0x0ef63d87'
+- name: CRIBBAGE.COM
+  size: 32931
+  date: '1988-01-08T10:18:58'
+  crc: '0x9674b927'
+- name: CRIBBAGE.DOC
+  size: 1709
+  date: '1988-01-08T22:22:14'
+  crc: '0x6baaced4'

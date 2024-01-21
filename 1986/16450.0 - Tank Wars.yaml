@@ -1,0 +1,68 @@
+filename: Tank Wars (1986)(Cody Snider) [Action, Strategy].zip
+tdc_id: '16450.0'
+title:
+  screen: Tank Wars
+publisher: Cody Snider
+year: '1986'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:24:58'
+  last_modified: '2019-03-01T18:24:58'
+type: zip
+commands:
+  play: TANK.EXE
+references:
+  dosid: DOS05028
+  exodos: Tank Wars (1986).zip
+files:
+- name: BALOON.BIN
+  size: 384
+  date: '1986-06-10T02:14:06'
+  crc: '0x9763ab8d'
+- name: BIRD1.BIN
+  size: 128
+  date: '1986-06-10T02:14:06'
+  crc: '0xade8abf7'
+- name: BIRD2.BIN
+  size: 128
+  date: '1986-06-10T02:14:06'
+  crc: '0xa1545da5'
+- name: BOMB.BIN
+  size: 128
+  date: '1986-06-10T02:14:08'
+  crc: '0x7618b28c'
+- name: BOTTOM.BIN
+  size: 1920
+  date: '1986-06-10T02:14:36'
+  crc: '0xabcb6766'
+- name: EXPLODE.BIN
+  size: 128
+  date: '1986-06-10T02:14:08'
+  crc: '0x74ddf8a2'
+- name: INSTRUCT.BIN
+  size: 16128
+  date: '1986-06-10T02:14:38'
+  crc: '0x49d9e733'
+- name: LOGO.BIN
+  size: 640
+  date: '1986-06-10T02:14:38'
+  crc: '0xb6c6b3c9'
+- name: LTANK.BIN
+  size: 128
+  date: '1986-06-10T02:14:10'
+  crc: '0xb616f63d'
+- name: RTANK.BIN
+  size: 128
+  date: '1986-06-10T02:14:10'
+  crc: '0xb616f63d'
+- name: TANK.EXE
+  size: 17664
+  date: '1986-06-10T02:14:42'
+  crc: '0x8707daab'
+- name: TANK.OVL
+  size: 31744
+  date: '1986-06-10T02:14:46'
+  crc: '0x86bdc5f3'

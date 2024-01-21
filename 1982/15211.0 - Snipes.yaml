@@ -1,0 +1,38 @@
+filename: Snipes (1982)(SuperSet Software Corp.) [Action].zip
+tdc_id: '15211.0'
+title:
+  box: Snipes
+publisher: SuperSet Software Corp.
+year: '1982'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:23:04'
+  last_modified: '2019-03-01T18:23:04'
+type: zip
+commands:
+  play: SNIPE.COM
+references:
+  dosid: DOS04629
+  exodos: Snipes (1982).zip
+files:
+- name: SNIPE.C1
+  size: 16384
+  date: '1985-09-03T20:59:02'
+  crc: '0x79af9a3e'
+- name: SNIPE.C2
+  size: 1024
+  date: '1985-09-03T20:59:04'
+  crc: '0xa89249c1'
+- name: SNIPE.COM
+  size: 512
+  date: '1985-09-03T20:58:56'
+  crc: '0xc123d78b'
+- name: SNIPE.M1
+  size: 16384
+  date: '1985-09-03T20:58:52'
+  crc: '0xd6d99499'
+- name: SNIPE.M2
+  size: 1024
+  date: '1985-09-03T20:58:54'
+  crc: '0x77885b62'

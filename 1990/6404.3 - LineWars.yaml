@@ -1,0 +1,46 @@
+filename: LineWars v1.52 [SW] (1990)(Patrick Aalto) [Action].zip
+tdc_id: '6404.3'
+title:
+  screen: LineWars
+publisher: Patrick Aalto
+year: '1990'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:33:06'
+  last_modified: '2019-03-01T18:33:06'
+version: '1.52'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: LINEWARS.EXE
+references:
+  dosid: DOS03166
+  exodos: LineWars (1990).zip
+files:
+- name: LINETECH.DOC
+  size: 4854
+  date: '1990-03-10T02:34:00'
+  crc: '0xf4fa6f09'
+- name: LINEWARS.DOC
+  size: 17222
+  date: '1990-03-10T02:31:04'
+  crc: '0x254b7be8'
+- name: LINEWARS.EXE
+  size: 67888
+  date: '1990-04-18T13:32:58'
+  crc: '0x74b3bbe8'
+- name: LINEWARS.MUS
+  size: 26188
+  date: '1989-07-14T06:33:32'
+  crc: '0xecbaf8cf'
+- name: LINEWARS.REG
+  size: 1703
+  date: '1990-03-10T02:34:50'
+  crc: '0x60fff6ea'
+- name: LWERSION.DOC
+  size: 5765
+  date: '1990-03-10T02:47:50'
+  crc: '0xe74efeb2'

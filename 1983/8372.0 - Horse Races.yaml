@@ -1,0 +1,32 @@
+filename: Horse Races (1983)(International PC Owners) [Sports, Simulation].zip
+tdc_id: '8372.0'
+title:
+  screen: Horse Races
+publisher: International PC Owners
+year: '1983'
+genre:
+- Sports
+- Simulation
+language: English
+date:
+  added: '2019-03-01T18:23:14'
+  last_modified: '2019-03-01T18:23:14'
+type: zip
+commands:
+  play: HRSERACE.BAT
+references:
+  dosid: DOS06884
+  exodos: Horse Races (1983).zip
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: HRSERACE.BAS
+  size: 4608
+  date: '1983-02-12T17:17:18'
+  crc: '0x8d66381a'
+- name: HRSERACE.BAT
+  size: 17
+  date: '2014-12-01T01:30:52'
+  crc: '0x0f981bc3'

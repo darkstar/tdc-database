@@ -1,0 +1,48 @@
+filename: Bionic Commando [b1] (1987)(Capcom U.S.A., Ltd.) [Action].zip
+tdc_id: '12658.1'
+title:
+  box: Bionic Commando
+publisher: Capcom U.S.A., Ltd.
+year: '1987'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:25:10'
+  last_modified: '2019-03-01T18:25:10'
+type: zip
+tags:
+- Bad: 1
+commands:
+  play: BION.EXE
+references:
+  dosid: DOS01061
+  exodos: Bionic Commando (1988).zip
+files:
+- name: BION.EXE
+  size: 91696
+  date: '1988-04-11T17:17:00'
+  crc: '0x81882414'
+- name: BIONIC16.IQG
+  size: 8316
+  date: '1987-11-29T19:00:00'
+  crc: '0x956820f2'
+- name: EGAFONTS.BQN
+  size: 173949
+  date: '1988-01-06T15:19:38'
+  crc: '0x5ce4999b'
+- name: HSCORE.BIN
+  size: 260
+  date: '1989-04-16T11:02:28'
+  crc: '0xb9e078ed'
+- name: INTRO1.IQG
+  size: 2307
+  date: '1987-07-08T12:33:10'
+  crc: '0x1d549e9d'
+- name: INTRO216.IQG
+  size: 4098
+  date: '1987-10-20T18:07:00'
+  crc: '0x3262cc14'
+- name: TTLBC16.IQG
+  size: 11006
+  date: '1987-10-20T18:34:34'
+  crc: '0x9bb45ce4'

@@ -1,0 +1,28 @@
+filename: Crystal Caves (1996)(Enrique A. Compañ) [Action].zip
+tdc_id: '207.0'
+title:
+  screen: Crystal Caves
+publisher: Enrique A. Compañ
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:02:10'
+  last_modified: '2019-03-02T10:02:10'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: CRYSTAL.BAS
+  size: 17975
+  date: '2018-03-10T02:24:14'
+  crc: '0x86d74891'
+- name: GO.BAT
+  size: 27
+  date: '2018-06-30T18:00:48'
+  crc: '0x448712bf'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T01:28:02'
+  crc: '0x19f6ed75'

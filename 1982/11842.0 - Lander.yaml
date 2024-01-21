@@ -1,0 +1,28 @@
+filename: Lander (1982)(Anonymous) [Action].zip
+tdc_id: '11842.0'
+title:
+  screen: Lander
+publisher: Anonymous
+year: '1982'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:23:00'
+  last_modified: '2019-03-01T18:23:00'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 22
+  date: '2019-01-13T20:05:14'
+  crc: '0xd89e00ad'
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1988-10-05T02:00:08'
+  crc: '0x2a44af39'
+- name: LANDER.BAS
+  size: 1536
+  date: '1982-09-05T15:10:02'
+  crc: '0xa9afccd5'

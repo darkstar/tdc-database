@@ -1,0 +1,98 @@
+filename: SimEarth- The Living Planet v1.4 (Installer) (1992)(Maxis Software Inc.) [Strategy, Simulation].zip
+tdc_id: '6001.3'
+parent_id: '6001.11'
+title:
+  box: 'SimEarth: The Living Planet'
+  qualifier: Installer
+publisher: Maxis Software Inc.
+year: '1992'
+genre:
+- Strategy
+- Simulation
+language: English
+date:
+  added: '2019-03-01T21:07:38'
+  last_modified: '2023-10-15T10:16:21'
+version: '1.4'
+type: zip
+media: 720K
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1835/simearth-the-living-planet/
+files:
+- name: GLOBE.DAT
+  size: 9958
+  date: '1992-01-03T16:24:52'
+  crc: '0x83ce4deb'
+- name: GR.DAT
+  size: 9437
+  date: '1992-01-03T16:24:54'
+  crc: '0x0a430017'
+- name: HCEGAIA.DAT
+  size: 314772
+  date: '1991-12-21T17:56:02'
+  crc: '0x33407eb0'
+- name: HCEGAIA.NDX
+  size: 2156
+  date: '1991-12-21T17:56:02'
+  crc: '0xf09060fd'
+- name: INSTALL.EXE
+  size: 27345
+  date: '1992-01-03T16:24:48'
+  crc: '0x2e99cb83'
+- name: LCEGAIA.DAT
+  size: 143992
+  date: '1991-12-21T17:56:04'
+  crc: '0x98f04b87'
+- name: LCEGAIA.NDX
+  size: 1956
+  date: '1991-12-21T17:56:04'
+  crc: '0xc269836e'
+- name: MAP.DAT
+  size: 12559
+  date: '1992-01-03T16:24:56'
+  crc: '0x219d21be'
+- name: MONOIA.DAT
+  size: 215334
+  date: '1991-12-21T17:56:04'
+  crc: '0x8328bdf3'
+- name: MONOIA.NDX
+  size: 2388
+  date: '1991-12-21T17:56:04'
+  crc: '0x64c16a55'
+- name: README
+  size: 2749
+  date: '1991-12-23T11:29:12'
+  crc: '0x4a47558a'
+- name: SE_D2D3
+  size: 0
+  date: '1992-01-20T14:54:52'
+- name: SE_INSTA.LL
+  size: 0
+  date: '1992-01-20T14:52:20'
+- name: SHARED.DAT
+  size: 106354
+  date: '1991-12-21T17:55:22'
+  crc: '0x9d4cdeb0'
+- name: SHARED.NDX
+  size: 1516
+  date: '1991-12-21T17:55:22'
+  crc: '0x24069ab7'
+- name: SIM.DAT
+  size: 15149
+  date: '1992-01-03T16:24:58'
+  crc: '0x78054121'
+- name: SIMEARTH.DAT
+  size: 126074
+  date: '1992-01-03T16:20:42'
+  crc: '0x41ec93e4'
+- name: TDYGAIA.DAT
+  size: 138145
+  date: '1991-12-21T17:56:06'
+  crc: '0xbf402bcd'
+- name: TDYGAIA.NDX
+  size: 1972
+  date: '1991-12-21T17:56:06'
+  crc: '0x5e6884b4'

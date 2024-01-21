@@ -1,0 +1,94 @@
+filename: World Cricket (1993)(Zeppelin Games Limited) [Sports].zip
+tdc_id: '16090.0'
+title:
+  box: World Cricket
+publisher: Zeppelin Games Limited
+year: '1993'
+genre: Sports
+language: English
+date:
+  added: '2019-03-01T21:12:30'
+  last_modified: '2019-03-01T21:12:30'
+type: zip
+commands:
+  play: CRICKET.EXE
+references:
+  dosid: DOS06253
+  exodos: World Cricket (1994).zip
+files:
+- name: BLUEPIC.LBM
+  size: 20212
+  date: '1992-11-22T07:17:32'
+  crc: '0xe259bf17'
+- name: CHAR.BIN
+  size: 512
+  date: '1987-04-21T17:11:28'
+  crc: '0xf1f29c8a'
+- name: CRICKET.EXE
+  size: 47322
+  date: '1993-02-23T07:59:12'
+  crc: '0x8a729dec'
+- name: FIVE
+  size: 33536
+  date: '1991-04-19T08:55:00'
+  crc: '0x58a8e933'
+- name: FOUR
+  size: 16128
+  date: '1991-04-19T08:55:00'
+  crc: '0x2a6fbb03'
+- name: GREEN.LBM
+  size: 17928
+  date: '1992-12-08T12:40:24'
+  crc: '0xe178e3e9'
+- name: LOADER.LBM
+  size: 29730
+  date: '1991-04-19T09:57:00'
+  crc: '0xb5b020f9'
+- name: MENU.LBM
+  size: 26800
+  date: '1992-11-22T07:17:18'
+  crc: '0xffa38c9d'
+- name: ONE
+  size: 32000
+  date: '1991-04-19T08:55:00'
+  crc: '0xc3dc66b8'
+- name: POINTER.DAT
+  size: 10240
+  date: '1987-04-21T17:06:46'
+  crc: '0x58aa40ea'
+- name: SCBOARD.LBM
+  size: 15384
+  date: '1992-11-22T06:09:24'
+  crc: '0x3da349c1'
+- name: SCTEXT1.LBM
+  size: 15076
+  date: '1992-12-30T09:01:44'
+  crc: '0xa5a97510'
+- name: SETUP.DAT
+  size: 6
+  date: '2009-10-10T03:17:06'
+  crc: '0xb1c2a1a3'
+- name: SEVEN
+  size: 22272
+  date: '1991-04-19T08:55:00'
+  crc: '0x091cb5b7'
+- name: SIX
+  size: 40192
+  date: '1991-04-19T08:55:00'
+  crc: '0x9956a7cf'
+- name: STORM.LBM
+  size: 15058
+  date: '1993-02-02T12:03:00'
+  crc: '0x6e711e36'
+- name: THREE
+  size: 38144
+  date: '1991-04-19T08:55:00'
+  crc: '0xe878835b'
+- name: TWO
+  size: 37376
+  date: '1991-04-19T08:55:00'
+  crc: '0x70841fc1'
+- name: ZERO
+  size: 41471
+  date: '1991-04-19T08:55:00'
+  crc: '0x5a7060e0'

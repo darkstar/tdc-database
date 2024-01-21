@@ -1,0 +1,51 @@
+filename: Vegas Casino 2 (1989)(Mastertronic Group Ltd.) [Strategy].zip
+tdc_id: '7379.0'
+title:
+  box: Vegas Casino 2
+publisher: Mastertronic Group Ltd.
+year: '1989'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:29:18'
+  last_modified: '2019-03-01T18:29:18'
+type: zip
+commands:
+  play: VEGAS2.EXE
+files:
+- name: BALLDATA.DAT
+  size: 3040
+  date: '1989-08-26T10:13:50'
+  crc: '0x5b112192'
+- name: BUTTONS.DAT
+  size: 13984
+  date: '1989-08-26T10:13:50'
+  crc: '0x3f34d588'
+- name: C.PAC
+  size: 3593
+  date: '1989-08-26T10:13:56'
+  crc: '0x2532b41a'
+- name: CUP.DAT
+  size: 27790
+  date: '1989-08-26T10:13:50'
+  crc: '0xced36be6'
+- name: DICE.DAT
+  size: 4480
+  date: '1989-08-26T10:13:52'
+  crc: '0xb99fda1d'
+- name: INVDATA.DAT
+  size: 1354
+  date: '1989-08-26T10:13:52'
+  crc: '0xa35b62b3'
+- name: R.PAC
+  size: 3940
+  date: '1989-08-26T10:13:56'
+  crc: '0x9fb44aa3'
+- name: TITLE.PAC
+  size: 4257
+  date: '1989-08-26T10:13:58'
+  crc: '0x32465dde'
+- name: VEGAS2.EXE
+  size: 67667
+  date: '1989-08-26T11:11:38'
+  crc: '0xb4f6891b'

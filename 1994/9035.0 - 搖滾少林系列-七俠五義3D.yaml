@@ -1,0 +1,53 @@
+filename: 搖滾少林系列-七俠五義3D (Installer) (Zh) (1994)(SKC Soft Land) [Action].zip
+tdc_id: '9035.0'
+title:
+  screen: 搖滾少林系列-七俠五義3D
+  transliteration: Euijeok- Im Kkeokjeong
+  qualifier: Installer
+publisher: SKC Soft Land
+year: '1994'
+genre: Action
+language: Chinese
+date:
+  added: '2019-03-01T21:56:34'
+  last_modified: '2023-12-05T13:13:32'
+type: zip
+installer: true
+commands:
+  play: install.exe
+references:
+  dosid: DOS00261
+  exodos: Rock 'n Shaolin - Legend of the Seven Paladins 3D (1994).zip
+files:
+- name: '75.1'
+  size: 1126400
+  date: '1994-10-05T10:58:12'
+  crc: '0xbb637c47'
+- name: '75.2'
+  size: 1208320
+  date: '1994-10-05T10:58:38'
+  crc: '0xad070279'
+- name: '75.3'
+  size: 1208320
+  date: '1994-10-05T10:59:06'
+  crc: '0x4824ebf1'
+- name: '75.4'
+  size: 1208320
+  date: '1994-10-05T10:59:34'
+  crc: '0x3e9ad852'
+- name: '75.5'
+  size: 1208320
+  date: '1994-10-05T11:00:02'
+  crc: '0xcf1024dc'
+- name: '75.6'
+  size: 1208320
+  date: '1994-10-05T11:00:28'
+  crc: '0xb451865b'
+- name: '75.7'
+  size: 871310
+  date: '1994-10-05T11:00:48'
+  crc: '0x8b51f295'
+- name: install.exe
+  size: 33134
+  date: '1994-10-05T11:01:30'
+  crc: '0x32a9ee77'

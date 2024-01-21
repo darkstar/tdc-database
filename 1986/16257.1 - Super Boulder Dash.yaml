@@ -1,0 +1,33 @@
+filename: Super Boulder Dash [h1][DC] (1986)(Electronic Arts, Inc.) [Action, Strategy, Compilation].zip
+tdc_id: '16257.1'
+title:
+  box: Super Boulder Dash
+publisher: Electronic Arts, Inc.
+year: '1986'
+genre:
+- Action
+- Strategy
+- Compilation
+language: English
+date:
+  added: '2019-03-01T18:24:58'
+  last_modified: '2019-03-01T18:24:58'
+type: zip
+tags:
+- DOSConversion
+- Hack: 1
+compilation: true
+commands:
+  play: SUPRBOLD.COM
+references:
+  dosid: DOS05987
+  exodos: Super Boulder Dash (1986).zip
+files:
+- name: SUPRBOLD.BIN
+  size: 78080
+  date: '1992-06-12T11:11:08'
+  crc: '0x0a174b68'
+- name: SUPRBOLD.COM
+  size: 16895
+  date: '1992-06-12T11:49:14'
+  crc: '0x4d9a83d5'

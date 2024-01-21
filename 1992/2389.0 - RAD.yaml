@@ -1,0 +1,39 @@
+filename: RAD (Fr) (1992)(Max Gaillard) [Strategy].zip
+tdc_id: '2389.0'
+title:
+  screen: RAD
+publisher: Max Gaillard
+year: '1992'
+genre: Strategy
+language: French
+date:
+  added: '2019-03-01T18:50:14'
+  last_modified: '2019-03-01T18:50:14'
+type: zip
+commands:
+  play: rad.exe
+files:
+- name: mancode.txt
+  size: 1188
+  date: '1999-12-31T19:00:00'
+  crc: '0x2ca956f0'
+- name: rad.but
+  size: 18462
+  date: '1999-12-31T19:00:00'
+  crc: '0x26ab1b82'
+- name: rad.dat
+  size: 53700
+  date: '1999-12-31T19:00:00'
+  crc: '0xdf9736ad'
+- name: rad.des
+  size: 30798
+  date: '1999-12-31T19:00:00'
+  crc: '0xb666846b'
+- name: rad.exe
+  size: 109376
+  date: '1999-12-31T19:00:00'
+  crc: '0xb17dd6ab'
+- name: rad.str
+  size: 54000
+  date: '1999-12-31T19:00:00'
+  crc: '0x825f4367'

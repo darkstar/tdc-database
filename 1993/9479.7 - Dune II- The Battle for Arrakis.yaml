@@ -1,0 +1,57 @@
+filename: Dune II- The Battle for Arrakis v1.07 (Installer) (Fr)(En)(De) [a1] (1993)(Virgin Games, Ltd.) [Strategy][!].zip
+tdc_id: '9479.7'
+title:
+  box: 'Dune II: The Battle for Arrakis'
+publisher: Virgin Games, Ltd.
+year: '1993'
+genre: Strategy
+language:
+- English
+- French
+- German
+date:
+  added: '2021-03-14T11:01:54'
+  last_modified: '2022-11-20T12:34:35'
+version: '1.07'
+type: zip
+tags:
+- KnownGood
+- Alternate: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/dune-ii-the-building-of-a-dynasty
+files:
+- name: DISK1.EXE
+  size: 1402039
+  date: '1993-01-18T15:57:18'
+  crc: '0x59a99678'
+- name: DISK2.EXE
+  size: 1439492
+  date: '1993-01-18T15:58:00'
+  crc: '0x9f4d6e87'
+- name: DISK3.EXE
+  size: 1454978
+  date: '1993-01-18T15:58:44'
+  crc: '0x5c8011c9'
+- name: DISK4.EXE
+  size: 1042748
+  date: '1993-01-18T15:59:22'
+  crc: '0x1b76e965'
+- name: INSTALL.EXE
+  size: 33966
+  date: '1993-01-18T15:59:34'
+  crc: '0x5122f163'
+- name: INSTENG.DIP
+  size: 2147
+  date: '1993-01-13T15:43:26'
+  crc: '0x3638ebf9'
+- name: INSTFRE.DIP
+  size: 2861
+  date: '1992-12-11T13:12:34'
+  crc: '0x3f6aa9b2'
+- name: INSTGER.DIP
+  size: 2750
+  date: '1992-12-14T14:30:12'
+  crc: '0x3cbe4793'

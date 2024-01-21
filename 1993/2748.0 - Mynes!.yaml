@@ -1,0 +1,82 @@
+filename: Mynes! [SW] (1993)(Marc Palms) [Strategy].zip
+tdc_id: '2748.0'
+title:
+  screen: Mynes!
+publisher: Marc Palms
+year: '1993'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T19:15:20'
+  last_modified: '2019-03-01T19:15:20'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: mynes.exe
+files:
+- name: mynes.exe
+  size: 54496
+  date: '1993-07-08T00:53:20'
+  crc: '0xcdefbb70'
+- name: readme.txt
+  size: 7561
+  date: '1993-07-06T20:57:04'
+  crc: '0x60533a0f'
+- name: source\drawstr.pas
+  size: 12408
+  date: '1993-06-12T15:16:36'
+  crc: '0xcdc41773'
+- name: source\egavga.txt
+  size: 678
+  date: '1993-07-07T20:30:42'
+  crc: '0x529b7f55'
+- name: source\gadget.pas
+  size: 11443
+  date: '1992-11-19T16:18:14'
+  crc: '0x5c82d5fc'
+- name: source\mouse.pas
+  size: 7221
+  date: '1993-07-05T15:45:08'
+  crc: '0x170df7ba'
+- name: source\mynes.pas
+  size: 2211
+  date: '1993-07-08T00:48:12'
+  crc: '0xc1ca3712'
+- name: source\mynesdef.pas
+  size: 6472
+  date: '1993-07-05T14:29:56'
+  crc: '0xb9de5b64'
+- name: source\mynesgam.pas
+  size: 19920
+  date: '1993-07-06T20:33:50'
+  crc: '0x061934ec'
+- name: source\mynesini.pas
+  size: 10012
+  date: '1993-07-08T00:10:38'
+  crc: '0x19b2812a'
+- name: source\mynesplf.pas
+  size: 14678
+  date: '1993-06-30T10:20:46'
+  crc: '0xd2547381'
+- name: source\mynesttl.pas
+  size: 18410
+  date: '1993-07-08T00:51:26'
+  crc: '0x18027805'
+- name: source\tiles.pas
+  size: 11855
+  date: '1993-06-30T10:31:28'
+  crc: '0x797453ca'
+- name: source\timer.pas
+  size: 1665
+  date: '1993-01-05T19:50:12'
+  crc: '0xc2f7d7ab'
+- name: source\timing.pas
+  size: 5621
+  date: '1993-07-08T00:02:12'
+  crc: '0x0334648e'
+- name: source\xpalette.pas
+  size: 615
+  date: '1992-11-29T22:08:38'
+  crc: '0xefb42b8a'

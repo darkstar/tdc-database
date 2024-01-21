@@ -1,0 +1,28 @@
+filename: Smiley Face Arena (1993)(Anthony Maniscalco) [Strategy].zip
+tdc_id: '15178.0'
+title:
+  screen: Smiley Face Arena
+publisher: Anthony Maniscalco
+year: '1993'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T21:08:10'
+  last_modified: '2019-03-01T21:08:10'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 26
+  date: '2019-01-13T11:29:08'
+  crc: '0xa5c34f67'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: SMILEY.BAS
+  size: 9529
+  date: '1993-02-17T18:41:20'
+  crc: '0x8a8eaefc'

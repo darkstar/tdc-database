@@ -1,0 +1,28 @@
+filename: Sheriff v1.10 (1993)(Vaeldesoftware) [Adventure].zip
+tdc_id: '2808.0'
+title:
+  screen: Sheriff
+publisher: Vaeldesoftware
+year: '1993'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T21:06:40'
+  last_modified: '2019-03-01T21:06:40'
+version: '1.10'
+type: zip
+commands:
+  play: SHERIFF.EXE
+files:
+- name: SHERIFF.DAT
+  size: 114722
+  date: '1993-12-31T12:00:00'
+  crc: '0x6ffc84d2'
+- name: SHERIFF.EXE
+  size: 72704
+  date: '1993-12-31T12:00:00'
+  crc: '0xb591a23d'
+- name: Sheriff.txt
+  size: 478
+  date: '1999-05-24T14:04:52'
+  crc: '0x2ad08b8a'

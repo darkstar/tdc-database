@@ -1,0 +1,29 @@
+filename: Ghost of the Fireflies v1.01s (2007)(Paul Allen Panks) [Adventure, Interactive Fiction].zip
+tdc_id: '14043.0'
+title:
+  screen: Ghost of the Fireflies
+publisher: Paul Allen Panks
+year: '2007'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T10:57:18'
+  last_modified: '2019-03-02T10:57:18'
+version: 1.01s
+type: zip
+commands:
+  play: FIREFLY.EXE
+references:
+  dosid: DOS02400
+  exodos: Ghost of the Fireflies (2007).zip
+files:
+- name: FIREFLY.BAS
+  size: 116827
+  date: '1996-12-24T22:32:00'
+  crc: '0x855e73c0'
+- name: FIREFLY.EXE
+  size: 167261
+  date: '1996-12-24T22:32:00'
+  crc: '0x8ebe5642'

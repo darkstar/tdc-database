@@ -1,0 +1,28 @@
+filename: Witness, The r21 [DC] (1983)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '5402.0'
+title:
+  box: The Witness
+publisher: Infocom, Inc.
+year: '1983'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2022-06-08T10:54:20'
+  last_modified: '2022-06-08T10:54:20'
+release: '21'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: WITNESS.COM
+files:
+- name: WITNESS.COM
+  size: 12928
+  date: '1980-01-01T00:00:00'
+  crc: '0xd21abebf'
+- name: WITNESS.DAT
+  size: 129728
+  date: '2007-12-20T05:40:28'
+  crc: '0x9560c397'

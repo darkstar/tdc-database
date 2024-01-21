@@ -1,0 +1,33 @@
+filename: Pick Up the Phone Booth and Die r619 (1996)(Rob Noyes) [Adventure, Interactive Fiction].zip
+tdc_id: '374.0'
+title:
+  screen: Pick Up the Phone Booth and Die
+publisher: Rob Noyes
+year: '1996'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T10:15:52'
+  last_modified: '2019-03-02T10:15:52'
+release: '619'
+type: zip
+commands:
+  play: frotz.exe
+references:
+  dosid: DOS03994
+  exodos: Pick Up the Phone Booth and Die (1996).zip
+files:
+- name: CWSDPMI.EXE
+  size: 20473
+  date: '1996-12-24T22:32:00'
+  crc: '0x80fa6999'
+- name: booth.z5
+  size: 44544
+  date: '1996-12-24T22:32:00'
+  crc: '0x8af1d9d4'
+- name: frotz.exe
+  size: 129024
+  date: '1996-12-24T22:32:00'
+  crc: '0x57987597'

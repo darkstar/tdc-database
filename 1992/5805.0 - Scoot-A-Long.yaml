@@ -1,0 +1,31 @@
+filename: Scoot-A-Long (Installer) [SW] (1992)(Computer Specialties) [Strategy].zip
+tdc_id: '5805.0'
+title:
+  screen: Scoot-A-Long
+publisher: Computer Specialties
+year: '1992'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:50:30'
+  last_modified: '2019-03-01T18:50:30'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: GAME.EXE
+files:
+- name: GAME.EXE
+  size: 150706
+  date: '1992-01-01T04:00:00'
+  crc: '0xa1a22c74'
+- name: READ-ME.NOW
+  size: 1609
+  date: '1992-01-01T04:00:00'
+  crc: '0x3262b30e'
+- name: VENDOR.DOC
+  size: 3751
+  date: '1992-01-01T04:00:00'
+  crc: '0x99b8678d'

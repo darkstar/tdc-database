@@ -1,0 +1,38 @@
+filename: Journey to the Promised Land v2.2 (Installer) (1993)(ARK Multimedia Publishing) [Educational, Trivia].zip
+tdc_id: '11637.1'
+title:
+  box: Journey to the Promised Land
+  qualifier: Installer
+publisher: ARK Multimedia Publishing
+year: '1993'
+genre:
+- Educational
+- Trivia
+language: English
+date:
+  added: '2019-03-01T18:48:30'
+  last_modified: '2023-10-05T14:58:40'
+version: '2.2'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/59993/journey-to-the-promised-land/
+files:
+- name: DISK.ID
+  size: 51
+  date: '1999-12-31T19:00:00'
+  crc: '0x3e4cb55e'
+- name: INSTALL.DAT
+  size: 7421
+  date: '1999-12-31T19:00:00'
+  crc: '0xf5a8db11'
+- name: INSTALL.EXE
+  size: 81896
+  date: '1999-12-31T19:00:00'
+  crc: '0x51bb3826'
+- name: JOURNEY.ARK
+  size: 512792
+  date: '1999-12-31T19:00:00'
+  crc: '0xd3ac6259'

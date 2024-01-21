@@ -1,0 +1,68 @@
+filename: Hollywood Hijinx r37 (Installer) (1986)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '8348.0'
+parent_id: '8348.1'
+title:
+  box: Hollywood Hijinx
+publisher: Infocom, Inc.
+year: '1986'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2022-06-05T10:15:20'
+  last_modified: '2022-06-05T10:15:20'
+release: '37'
+type: zip
+installer: true
+references:
+  mobygames: https://www.mobygames.com/game/dos/hollywood-hijinx
+files:
+- name: AF.EXE
+  size: 13168
+  date: '1985-05-28T13:27:14'
+  crc: '0xac30980c'
+- name: GAMEDIR.COM
+  size: 62
+  date: '1985-05-31T10:45:50'
+  crc: '0xee6703b0'
+- name: HOLLYWOO.COM
+  size: 12004
+  date: '1986-12-16T02:02:36'
+  crc: '0x696bd444'
+- name: HOLLYWOO.DAT
+  size: 109651
+  date: '1986-12-16T00:43:44'
+  crc: '0x087d027a'
+- name: INSTALL.BAT
+  size: 2176
+  date: '1986-07-31T14:28:24'
+  crc: '0x4472c4a3'
+- name: INSTALLH.BAT
+  size: 1152
+  date: '1985-07-01T16:17:08'
+  crc: '0x1dce9881'
+- name: ONE
+  size: 93
+  date: '1984-11-30T12:02:30'
+  crc: '0x01bd6af9'
+- name: SCAN.COM
+  size: 114
+  date: '1985-05-23T11:58:58'
+  crc: '0x15be874f'
+- name: SETUP.EXE
+  size: 1584
+  date: '1985-06-28T10:53:14'
+  crc: '0x62ddb282'
+- name: SETUP.INF
+  size: 3
+  date: '1980-01-01T01:01:16'
+  crc: '0x8bdcb97d'
+- name: STATLINE.BAT
+  size: 2304
+  date: '1985-06-28T13:27:58'
+  crc: '0xa605f617'
+- name: YES.COM
+  size: 93
+  date: '1984-11-30T12:02:30'
+  crc: '0x01bd6af9'

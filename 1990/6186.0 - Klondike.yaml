@@ -1,0 +1,52 @@
+filename: Klondike v3.0 [SW] (1990)(EM Software) [Strategy, Cards].zip
+tdc_id: '6186.0'
+title:
+  screen: Klondike
+publisher: EM Software
+year: '1990'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:33:02'
+  last_modified: '2019-03-01T18:33:02'
+version: '3.0'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: KLONDIKE.EXE
+references:
+  dosid: DOS06913
+  exodos: Klondike (1989).zip
+files:
+- name: COMPSERV.TXT
+  size: 1602
+  date: '1985-01-01T00:00:00'
+  crc: '0x9f2c9cdc'
+- name: KDK_READ.ME!
+  size: 1523
+  date: '1985-01-01T00:00:00'
+  crc: '0x56e7cfc5'
+- name: KLONDIKE.DOC
+  size: 39397
+  date: '1985-01-01T00:00:00'
+  crc: '0xbcb75e2e'
+- name: KLONDIKE.EXE
+  size: 143936
+  date: '1985-01-01T00:00:00'
+  crc: '0xfdf6156a'
+- name: KLONDIKE.HLP
+  size: 14939
+  date: '1985-01-01T00:00:00'
+  crc: '0x281f53c4'
+- name: KLONDIKE.PCL
+  size: 127275
+  date: '1985-01-01T00:00:00'
+  crc: '0x7afd1045'
+- name: ORDER.FRM
+  size: 1766
+  date: '1985-01-01T00:00:00'
+  crc: '0xc222dca3'

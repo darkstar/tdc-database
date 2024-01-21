@@ -1,0 +1,162 @@
+filename: Jack in the Dark (Installer) (1994)(Interplay Entertainment Corp., I-Motion, Inc.) [Action, Adventure].zip
+tdc_id: '11607.3'
+title:
+  screen: Jack in the Dark
+  qualifier: Installer
+publisher: Interplay Entertainment Corp., I-Motion, Inc.
+year: '1994'
+genre:
+- Action
+- Adventure
+language: English
+date:
+  added: '2023-11-20T12:50:02'
+  last_modified: '2023-11-20T12:50:02'
+type: zip
+media: Download
+installer: true
+commands:
+  play: 'SETUP.BAT '
+references:
+  mobygames: https://www.mobygames.com/game/1231/jack-in-the-dark/
+files:
+- name: ADLIBM.COM
+  size: 3881
+  date: '1993-10-12T18:15:00'
+  crc: '0xd1920e1d'
+- name: AITDHELP.TXT
+  size: 34031
+  date: '1994-10-16T12:31:34'
+  crc: '0x847604f6'
+- name: ANIM16.PAK
+  size: 28906
+  date: '1993-10-12T18:14:48'
+  crc: '0x5eb45012'
+- name: CAMERA16.PAK
+  size: 250225
+  date: '1993-10-12T18:13:50'
+  crc: '0x371552b9'
+- name: CLEARDRV.DAT
+  size: 8426
+  date: '1993-10-12T18:14:56'
+  crc: '0x9cc76e37'
+- name: DEFINES.ITD
+  size: 30
+  date: '1993-10-12T18:15:38'
+  crc: '0xccf86514'
+- name: DRV_BZ.COM
+  size: 761
+  date: '1993-10-12T18:15:28'
+  crc: '0xfbbc80a7'
+- name: DRV_SB.COM
+  size: 1571
+  date: '1993-10-12T18:15:18'
+  crc: '0xf26bbe07'
+- name: DRV_SBD.COM
+  size: 932
+  date: '1993-10-12T18:15:22'
+  crc: '0x1cc6fa59'
+- name: DRV_SMP.COM
+  size: 708
+  date: '1993-10-12T18:15:30'
+  crc: '0x8a958763'
+- name: DRV_SS.COM
+  size: 913
+  date: '1993-10-12T18:15:26'
+  crc: '0x75315862'
+- name: DRV_VM.COM
+  size: 1448
+  date: '1993-10-12T18:15:20'
+  crc: '0x9f13c48a'
+- name: ENGLISH.PAK
+  size: 3278
+  date: '1993-10-12T18:15:02'
+  crc: '0x0ba4b2a0'
+- name: ETAGE16.PAK
+  size: 2736
+  date: '1993-10-12T18:15:10'
+  crc: '0xb104f230'
+- name: INDARK2.DAT
+  size: 66552
+  date: '1993-10-12T18:14:28'
+  crc: '0x9f17f7d8'
+- name: INSTALL.DAT
+  size: 93492
+  date: '1993-10-12T18:14:18'
+  crc: '0xadbed3b9'
+- name: INSTALL.OPT
+  size: 1059
+  date: '1993-10-12T18:23:14'
+  crc: '0xf8dd452f'
+- name: ITD_RESS.PAK
+  size: 329326
+  date: '1993-09-29T19:06:40'
+  crc: '0x249ad3bd'
+- name: JACK.DAT
+  size: 42
+  date: '1994-10-16T12:03:56'
+  crc: '0x87394250'
+- name: LISTANIM.PAK
+  size: 62494
+  date: '1993-10-12T18:14:36'
+  crc: '0x22faceba'
+- name: LISTBODY.PAK
+  size: 57221
+  date: '1993-10-12T18:14:42'
+  crc: '0x1f1fb5ae'
+- name: LISTHYB.PAK
+  size: 3039
+  date: '1993-10-12T18:15:04'
+  crc: '0x35505355'
+- name: LISTLIFE.PAK
+  size: 9071
+  date: '1993-10-12T18:14:54'
+  crc: '0xc12f7122'
+- name: LISTMAT.PAK
+  size: 360
+  date: '1993-10-12T18:15:32'
+  crc: '0xbcf8726e'
+- name: LISTMUS.PAK
+  size: 2862
+  date: '1993-10-12T18:15:08'
+  crc: '0x62197d81'
+- name: LISTSAMP.PAK
+  size: 188150
+  date: '1993-10-12T18:14:08'
+  crc: '0x15d8b34a'
+- name: LISTTRAK.PAK
+  size: 1654
+  date: '1993-10-12T18:15:16'
+  crc: '0x2781ed1b'
+- name: MASK16.PAK
+  size: 12013
+  date: '1993-10-12T18:14:50'
+  crc: '0x9128aa45'
+- name: OBJETS.ITD
+  size: 1784
+  date: '1993-10-12T18:15:12'
+  crc: '0x520fba34'
+- name: PERE.PAK
+  size: 296437
+  date: '1993-10-12T18:13:28'
+  crc: '0x52f18c89'
+- name: PRIORITY.ITD
+  size: 26
+  date: '1993-10-12T18:15:38'
+  crc: '0x93995958'
+- name: README.1ST
+  size: 5467
+  date: '1994-10-16T12:33:42'
+  crc: '0xe1bca219'
+- name: README.BAT
+  size: 21
+  date: '1994-09-08T09:46:40'
+  crc: '0x96308a1b'
+- name: SETUP.BAT
+  size: 2972
+  date: '1994-10-16T13:05:00'
+  crc: '0x021232ec'
+- name: VARS.ITD
+  size: 104
+  date: '1993-10-12T18:15:34'
+  crc: '0x9fe1fe81'

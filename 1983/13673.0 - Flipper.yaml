@@ -1,0 +1,32 @@
+filename: Flipper (1983)(International PC Owners) [Strategy, Puzzle].zip
+tdc_id: '13673.0'
+title:
+  screen: Flipper
+publisher: International PC Owners
+year: '1983'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-03-01T18:23:12'
+  last_modified: '2019-03-01T18:23:12'
+type: zip
+commands:
+  play: FLIPPER.BAT
+references:
+  dosid: DOS06523
+  exodos: Flipper (1983).zip
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: FLIPPER.BAS
+  size: 6016
+  date: '1983-08-01T00:00:34'
+  crc: '0x9e96891d'
+- name: FLIPPER.BAT
+  size: 16
+  date: '1980-01-01T00:00:00'
+  crc: '0xe84c7298'

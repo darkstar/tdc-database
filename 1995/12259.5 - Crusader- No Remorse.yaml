@@ -1,0 +1,30 @@
+filename: Crusader- No Remorse v1.21 sound patch (1995)(Electronic Arts, Inc.) [Action, Addon].zip
+tdc_id: '12259.5'
+title:
+  screen: 'Crusader: No Remorse'
+publisher: Electronic Arts, Inc.
+year: '1995'
+genre:
+- Action
+- Addon
+language: English
+date:
+  added: '2020-02-02T18:08:34'
+  last_modified: '2020-02-02T18:08:34'
+version: '1.21'
+type: zip
+media: Download
+patch: true
+files:
+- name: ASYLUM.DLL
+  size: 116440
+  date: '1996-01-04T15:23:20'
+  crc: '0x8be52a4a'
+- name: FILE_ID.DIZ
+  size: 189
+  date: '1996-02-07T09:11:40'
+  crc: '0x6ff1521b'
+- name: SOUND.TXT
+  size: 673
+  date: '1996-01-30T10:43:02'
+  crc: '0x4770522c'

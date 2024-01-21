@@ -1,0 +1,26 @@
+filename: SnowWhite's Voyage v1.0 (Installer) [SW] (1996)(Alive Software) [Action].zip
+tdc_id: '15223.2'
+title:
+  screen: SnowWhite's Voyage
+publisher: Alive Software
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2022-12-20T07:46:12'
+  last_modified: '2022-12-20T07:46:12'
+version: '1.0'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: snow10.exe
+references:
+  mobygames: https://www.mobygames.com/game/172511/snowwhites-voyage/
+files:
+- name: snow10.exe
+  size: 975938
+  date: '1980-01-01T01:00:00'
+  crc: '0x0b4dc828'

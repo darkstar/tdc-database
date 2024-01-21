@@ -1,0 +1,30 @@
+filename: Lost New York v1.0.2 (1996)(Neil deMause) [Adventure, Interactive Fiction].zip
+tdc_id: '11916.0'
+title:
+  screen: Lost New York
+publisher: Neil deMause
+year: '1996'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T10:12:58'
+  last_modified: '2019-03-02T10:12:58'
+version: 1.0.2
+type: zip
+commands:
+  play: LOSTNY.EXE
+files:
+- name: INSTRUCT.TXT
+  size: 18904
+  date: '1996-03-26T16:23:26'
+  crc: '0x3abc9f27'
+- name: LOSTNY.EXE
+  size: 643657
+  date: '1996-03-27T15:46:06'
+  crc: '0x6f0af40f'
+- name: README.LNY
+  size: 2764
+  date: '1996-03-26T16:29:44'
+  crc: '0xd278d16c'

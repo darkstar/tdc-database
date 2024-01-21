@@ -1,0 +1,177 @@
+filename: Ultima IV- Quest of the Avatar r871110 (Installer) (1987)(ORIGIN Systems, Inc.) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '7274.2'
+title:
+  box: 'Ultima IV: Quest of the Avatar'
+publisher: ORIGIN Systems, Inc.
+year: '1987'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2022-11-16T09:02:10'
+  last_modified: '2022-11-16T09:02:10'
+release: '871110'
+type: zip
+installer: true
+commands:
+  play: SETUP.EXE .
+references:
+  mobygames: https://www.mobygames.com/game/dos/ultima-iv-quest-of-the-avatar
+files:
+- name: ABACUS.EGA
+  size: 1877
+  date: '1987-06-18T21:07:42'
+  crc: '0x5028160a'
+- name: ABACUS.PIC
+  size: 1670
+  date: '1987-05-28T17:33:14'
+  crc: '0x1e5ffd8d'
+- name: ANIMATE.EGA
+  size: 6023
+  date: '1987-07-20T18:57:46'
+  crc: '0xedd76d26'
+- name: ANIMATE.PIC
+  size: 3956
+  date: '1987-05-28T17:33:10'
+  crc: '0xace6c22a'
+- name: AVATAR.EXE
+  size: 98208
+  date: '1987-11-10T08:06:42'
+  crc: '0xc64664d9'
+- name: AVATAR.FLS
+  size: 290083
+  date: '1987-10-08T14:40:02'
+  crc: '0xf250ab6b'
+- name: CGA.DRV
+  size: 3313
+  date: '1987-09-11T15:42:38'
+  crc: '0x840ed86d'
+- name: CHARSET.CGA
+  size: 2048
+  date: '1987-08-22T14:22:08'
+  crc: '0x04560384'
+- name: CHARSET.EGA
+  size: 8192
+  date: '1987-08-22T14:01:32'
+  crc: '0x48277d97'
+- name: EGA.DRV
+  size: 4730
+  date: '1987-09-11T15:42:40'
+  crc: '0xbc93d754'
+- name: GYPSY.EGA
+  size: 8616
+  date: '1987-05-28T17:37:00'
+  crc: '0xf24ea725'
+- name: GYPSY.PIC
+  size: 6123
+  date: '1987-07-07T21:35:48'
+  crc: '0x50f09be1'
+- name: HONCOM.EGA
+  size: 4250
+  date: '1987-06-18T21:19:36'
+  crc: '0x8b4aa1f2'
+- name: HONCOM.PIC
+  size: 3311
+  date: '1987-05-28T17:33:24'
+  crc: '0xc31d45d3'
+- name: INSIDE.EGA
+  size: 8201
+  date: '1987-05-28T17:36:30'
+  crc: '0x2ea6a8fc'
+- name: INSIDE.PIC
+  size: 4730
+  date: '1987-05-28T17:33:28'
+  crc: '0xf4a460e6'
+- name: OUTSIDE.EGA
+  size: 8618
+  date: '1987-06-18T19:56:48'
+  crc: '0x3ec89049'
+- name: OUTSIDE.PIC
+  size: 5393
+  date: '1987-05-28T17:33:34'
+  crc: '0x09cf71f6'
+- name: PARTY.NEW
+  size: 502
+  date: '1987-07-19T16:30:02'
+  crc: '0x66a94ff3'
+- name: PORTAL.EGA
+  size: 8564
+  date: '1987-09-01T18:06:02'
+  crc: '0x1540fcd3'
+- name: PORTAL.PIC
+  size: 5228
+  date: '1987-09-01T18:03:56'
+  crc: '0x208588ec'
+- name: SACHONOR.EGA
+  size: 4430
+  date: '1987-06-18T21:19:04'
+  crc: '0x621990de'
+- name: SACHONOR.PIC
+  size: 3084
+  date: '1987-07-07T21:35:42'
+  crc: '0x18ac8da4'
+- name: SETUP.EXE
+  size: 18329
+  date: '1987-10-30T08:46:26'
+  crc: '0xe445c445'
+- name: SHAPES.CGA
+  size: 16384
+  date: '1987-08-14T13:05:54'
+  crc: '0xd35d4348'
+- name: SHAPES.EGZ
+  size: 12258
+  date: '1987-09-11T15:42:54'
+  crc: '0xcb30553c'
+- name: SPIRHUM.EGA
+  size: 3896
+  date: '1987-06-18T21:19:14'
+  crc: '0x1c65f84f'
+- name: SPIRHUM.PIC
+  size: 2940
+  date: '1987-05-28T17:33:48'
+  crc: '0xd5a71524'
+- name: TANDY.DRV
+  size: 3484
+  date: '1987-09-11T15:42:42'
+  crc: '0x7db6b097'
+- name: TITLE.EGA
+  size: 3204
+  date: '1987-07-20T22:03:14'
+  crc: '0x4af071cf'
+- name: TITLE.EXE
+  size: 31843
+  date: '1987-10-12T19:04:56'
+  crc: '0x302bcfa2'
+- name: TITLE.PIC
+  size: 1959
+  date: '1987-05-28T17:33:04'
+  crc: '0x72e0b4d8'
+- name: TREE.EGA
+  size: 9626
+  date: '1987-08-20T15:09:06'
+  crc: '0x51c2ca73'
+- name: TREE.PIC
+  size: 8792
+  date: '1987-08-20T15:29:14'
+  crc: '0x9154251d'
+- name: ULTIMA.COM
+  size: 480
+  date: '1987-09-11T15:42:44'
+  crc: '0xc168e424'
+- name: VALJUS.EGA
+  size: 4730
+  date: '1987-06-18T21:19:24'
+  crc: '0x58ef9088'
+- name: VALJUS.PIC
+  size: 3341
+  date: '1987-07-07T21:35:38'
+  crc: '0xd1196d16'
+- name: WAGON.EGA
+  size: 12786
+  date: '1987-05-28T17:37:10'
+  crc: '0xc2109fe5'
+- name: WAGON.PIC
+  size: 11244
+  date: '1987-05-28T17:34:04'
+  crc: '0xa4bf1ec9'

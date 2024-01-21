@@ -1,0 +1,56 @@
+filename: Network Q RAC Rally v1.3a (Installer) (En)(Fr)(Es) (1994)(Europress Software Ltd.) [Racing - Driving, Sports].zip
+tdc_id: '8440.7'
+title:
+  box: Network Q RAC Rally
+publisher: Europress Software Ltd.
+year: '1994'
+genre:
+- Racing - Driving
+- Sports
+language:
+- English
+- Spanish
+- French
+date:
+  added: '2022-10-18T08:07:28'
+  last_modified: '2022-10-18T08:07:28'
+version: 1.3a
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/network-q-rac-rally
+files:
+- name: INSTALL.CFG
+  size: 1842
+  date: '1994-11-07T14:39:28'
+  crc: '0xf5b589a8'
+- name: INSTALL.EXE
+  size: 56934
+  date: '1994-03-18T02:05:00'
+  crc: '0x14417964'
+- name: RALEN.SHR
+  size: 5168436
+  date: '1994-10-31T15:20:44'
+  crc: '0x3fcb8b5a'
+- name: RALENSAV.SHR
+  size: 14267
+  date: '1994-10-31T15:21:08'
+  crc: '0x8860959c'
+- name: RALFR.SHR
+  size: 5145020
+  date: '1994-10-31T15:02:18'
+  crc: '0x0c651f6e'
+- name: RALFRSAV.SHR
+  size: 14267
+  date: '1994-10-31T15:02:40'
+  crc: '0x6a4044a5'
+- name: RALSP.SHR
+  size: 5181253
+  date: '1994-11-07T11:35:16'
+  crc: '0x710bef28'
+- name: RALSPSAV.SHR
+  size: 14267
+  date: '1994-11-07T11:35:40'
+  crc: '0x97504a72'

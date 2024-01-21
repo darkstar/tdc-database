@@ -1,0 +1,52 @@
+filename: Pac-Classic v0.2 (1999)(Phillip Jay Cohen) [Action].zip
+tdc_id: '10539.1'
+title:
+  screen: Pac-Classic
+publisher: Phillip Jay Cohen
+year: '1999'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:46:20'
+  last_modified: '2019-03-02T10:46:20'
+version: '0.2'
+type: zip
+commands:
+  play: PACLASSC.EXE
+files:
+- name: PACLASSC.BAS
+  size: 64842
+  date: '2000-02-04T16:31:54'
+  crc: '0x800b79bd'
+- name: PACLASSC.EXE
+  size: 111218
+  date: '2000-02-04T16:34:54'
+  crc: '0x1e7969d7'
+- name: PACLASSC.GR1
+  size: 8007
+  date: '1999-04-15T01:39:58'
+  crc: '0x964fb1e0'
+- name: PACLASSC.GR2
+  size: 8007
+  date: '1999-04-15T01:39:58'
+  crc: '0x5ec399e0'
+- name: PACLASSC.GR3
+  size: 8007
+  date: '1999-04-15T01:39:58'
+  crc: '0x22d1b9a0'
+- name: PACLASSC.GR4
+  size: 8007
+  date: '1999-04-15T01:39:58'
+  crc: '0x885df9e5'
+- name: PACLASSC.GR5
+  size: 64007
+  date: '1999-04-15T01:39:58'
+  crc: '0xde13ffd1'
+- name: PACLASSC.SFX
+  size: 82460
+  date: '1999-04-26T00:29:38'
+  crc: '0x3a592be0'
+- name: PACLASSC.TXT
+  size: 9637
+  date: '2000-02-04T17:10:54'
+  crc: '0xfbc0bed1'

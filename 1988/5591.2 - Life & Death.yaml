@@ -1,0 +1,44 @@
+filename: Life & Death v1.04 (Es) (1988)(Software Toolworks, Inc., The) [Simulation].zip
+tdc_id: '5591.2'
+title:
+  box: Life & Death
+publisher: Software Toolworks, Inc., The
+year: '1988'
+genre: Simulation
+language: Spanish
+date:
+  added: '2019-03-01T18:26:26'
+  last_modified: '2019-03-01T18:26:26'
+version: '1.04'
+type: zip
+commands:
+  play: L&D.EXE
+files:
+- name: DIAG.VCE
+  size: 2731
+  date: '1995-03-30T17:14:40'
+  crc: '0xe6e84078'
+- name: HONOR.DAT
+  size: 288
+  date: '1993-06-13T18:40:26'
+  crc: '0xe8f66f8d'
+- name: L&D.EXE
+  size: 339369
+  date: '1995-03-30T17:14:36'
+  crc: '0xe4d94fd4'
+- name: L&D_SURG.DAT
+  size: 3450
+  date: '2011-04-29T18:00:52'
+  crc: '0xf100e11d'
+- name: SCR.VCE
+  size: 5339
+  date: '1995-03-30T17:15:30'
+  crc: '0xf4163237'
+- name: SURGERY1.L&D
+  size: 266909
+  date: '1995-03-30T17:15:26'
+  crc: '0x2aa73cf3'
+- name: SURGERY2.L&D
+  size: 263767
+  date: '1995-03-30T17:16:08'
+  crc: '0x757fdf4d'

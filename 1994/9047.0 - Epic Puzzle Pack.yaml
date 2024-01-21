@@ -1,0 +1,84 @@
+filename: Epic Puzzle Pack (Installer) [SWR] (1994)(Epic MegaGames, Inc.) [Strategy, Compilation].zip
+tdc_id: '9047.0'
+title:
+  screen: Epic Puzzle Pack
+publisher: Epic MegaGames, Inc.
+year: '1994'
+genre:
+- Strategy
+- Compilation
+language: English
+date:
+  added: '2019-03-01T21:56:32'
+  last_modified: '2019-03-01T21:56:32'
+type: zip
+tags:
+- SharewareRegistered
+installer: true
+compilation: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK2\
+  size: 0
+  date: '2016-01-05T17:28:42'
+- name: DISK2\E99-2-9H
+  size: 0
+  date: '1999-12-31T18:00:00'
+- name: DISK2\HEARTD.Z02
+  size: 129214
+  date: '1999-12-31T18:00:00'
+  crc: '0xa1d9309f'
+- name: DISK2\INSTALL.DAT
+  size: 5
+  date: '1999-12-31T18:00:00'
+  crc: '0x5e267396'
+- name: DISK2\ROBBOD.X01
+  size: 1327616
+  date: '1999-12-31T18:00:00'
+  crc: '0x84bc2da0'
+- name: DISK3\
+  size: 0
+  date: '2016-01-05T17:28:42'
+- name: DISK3\E99-3-9H
+  size: 0
+  date: '1999-12-31T18:00:00'
+- name: DISK3\INSTALL.DAT
+  size: 5
+  date: '1999-12-31T18:00:00'
+  crc: '0x63465a26'
+- name: DISK3\ROBBOD.Z02
+  size: 748688
+  date: '1999-12-31T18:00:00'
+  crc: '0x44b2566c'
+- name: E99-1-9H
+  size: 0
+  date: '1999-12-31T18:00:00'
+- name: ELECTROD.X00
+  size: 83
+  date: '1999-12-31T18:00:00'
+  crc: '0x38f43a68'
+- name: ELECTROD.Z01
+  size: 967220
+  date: '1999-12-31T18:00:00'
+  crc: '0x9691ef99'
+- name: HEARTD.X00
+  size: 78
+  date: '1999-12-31T18:00:00'
+  crc: '0xb7a1c69e'
+- name: HEARTD.X01
+  size: 476672
+  date: '1999-12-31T18:00:00'
+  crc: '0xb382606e'
+- name: INSTALL.DAT
+  size: 26
+  date: '1999-12-31T18:00:00'
+  crc: '0xef5610ea'
+- name: INSTALL.EXE
+  size: 10800
+  date: '1999-12-31T18:00:00'
+  crc: '0x42e84133'
+- name: ROBBOD.X00
+  size: 73
+  date: '1999-12-31T18:00:00'
+  crc: '0x41221028'

@@ -1,0 +1,31 @@
+filename: Trooper, The v6.66 (1997)(Cadaver) [Action].zip
+tdc_id: '16957.0'
+title:
+  screen: The Trooper
+publisher: Cadaver
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:38:36'
+  last_modified: '2019-03-02T10:38:36'
+version: '6.66'
+type: zip
+commands:
+  play: TROOPER.EXE
+references:
+  dosid: DOS07201
+  exodos: Trooper, The (1996).zip
+files:
+- name: TROOPER.DOC
+  size: 3251
+  date: '1997-11-18T19:18:36'
+  crc: '0x2472469f'
+- name: TROOPER.EXE
+  size: 295548
+  date: '1997-11-18T19:21:42'
+  crc: '0x5c33ef93'
+- name: TROOPER.XM
+  size: 568710
+  date: '1997-11-18T11:02:54'
+  crc: '0xe2102dbb'

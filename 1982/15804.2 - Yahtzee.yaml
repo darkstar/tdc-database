@@ -1,0 +1,31 @@
+filename: Yahtzee [SW][a1] (1982)(Patrick Leabo) [Strategy].zip
+tdc_id: '15804.2'
+title:
+  screen: Yahtzee
+publisher: Patrick Leabo
+year: '1982'
+genre: Strategy
+language: English
+date:
+  added: '2019-09-02T05:04:24'
+  last_modified: '2019-09-02T05:04:24'
+type: zip
+tags:
+- Shareware
+- Alternate: 1
+media: Download
+commands:
+  play: YAHTZEE.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T12:00:00'
+  crc: '0x92293842'
+- name: YAHTZEE.BAS
+  size: 15104
+  date: '1982-09-04T13:00:00'
+  crc: '0x83191491'
+- name: YAHTZEE.BAT
+  size: 17
+  date: '1980-01-01T12:00:00'
+  crc: '0xc065471c'

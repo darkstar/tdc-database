@@ -1,0 +1,29 @@
+filename: Majik [SW] (1990)(Chris Busch) [Adventure].zip
+tdc_id: '9866.0'
+title:
+  screen: Majik
+publisher: Chris Busch
+year: '1990'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:33:12'
+  last_modified: '2019-03-01T18:33:12'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: MAJIK.EXE
+references:
+  dosid: DOS03320
+  exodos: Majik (1990).zip
+files:
+- name: MAJIK.DOC
+  size: 2035
+  date: '1991-07-29T22:04:34'
+  crc: '0xa21a2eef'
+- name: MAJIK.EXE
+  size: 30752
+  date: '1991-10-13T17:47:30'
+  crc: '0xa8835d01'

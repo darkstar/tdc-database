@@ -1,0 +1,43 @@
+filename: Skunny- Lost in Space (Installer) [SW] (1993)(Copysoft) [Action].zip
+tdc_id: '10013.0'
+title:
+  screen: 'Skunny: Lost in Space'
+publisher: Copysoft
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-01-22T17:48:18'
+  last_modified: '2019-01-22T17:48:18'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 403
+  date: '1995-06-01T09:01:16'
+  crc: '0x064a8690'
+- name: INSTALL.EXE
+  size: 34905
+  date: '1994-06-15T12:00:00'
+  crc: '0x9bf7a8aa'
+- name: INSTALL.FIL
+  size: 4295
+  date: '1994-10-26T12:00:00'
+  crc: '0x9f7e5387'
+- name: LOST.1
+  size: 285836
+  date: '1995-06-02T16:29:12'
+  crc: '0xb19cb646'
+- name: LOST.2
+  size: 150615
+  date: '1994-10-26T12:00:00'
+  crc: '0x4c11e8cf'
+- name: ORDER.TXT
+  size: 4923
+  date: '1995-06-02T16:27:54'
+  crc: '0xc8a62b88'

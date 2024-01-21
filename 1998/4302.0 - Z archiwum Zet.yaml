@@ -1,0 +1,29 @@
+filename: Z archiwum Zet (Pl) (1998)(Melo the Entertaiment Games) [Adventure, Interactive Fiction].zip
+tdc_id: '4302.0'
+title:
+  screen: Z archiwum Zet
+publisher: Melo the Entertaiment Games
+year: '1998'
+genre:
+- Adventure
+- Interactive Fiction
+language: Polish
+date:
+  added: '2019-03-02T10:45:14'
+  last_modified: '2022-11-01T11:13:40'
+type: zip
+commands:
+  play: ZAZET.BAT
+files:
+- name: DRIVERS.ZET
+  size: 19
+  date: '1997-01-24T05:06:26'
+  crc: '0x77f2277f'
+- name: MELO.TXT
+  size: 2111
+  date: '1997-01-28T01:10:56'
+  crc: '0xb512a625'
+- name: ZAZET.BAT
+  size: 25591
+  date: '1997-01-28T00:48:26'
+  crc: '0x0a2e616c'

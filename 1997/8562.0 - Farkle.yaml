@@ -1,0 +1,30 @@
+filename: Farkle [FW] (1997)(Leon Baradat) [Strategy].zip
+tdc_id: '8562.0'
+title:
+  screen: Farkle
+publisher: Leon Baradat
+year: '1997'
+genre: Strategy
+language: English
+date:
+  added: '2023-02-12T17:20:22'
+  last_modified: '2023-02-12T17:20:22'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: farkle.bat
+files:
+- name: FARKLE.BAS
+  size: 5425
+  date: '2017-07-15T23:57:52'
+  crc: '0xbb139776'
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1989-04-07T00:00:02'
+  crc: '0x2a44af39'
+- name: farkle.bat
+  size: 33
+  date: '2023-02-08T09:15:32'
+  crc: '0x7fb56afc'

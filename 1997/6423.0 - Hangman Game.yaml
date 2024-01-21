@@ -1,0 +1,33 @@
+filename: Hangman [FW] (1997)(Jim Emptage, Rouge Valley Software) [Strategy, Puzzle, Educational].zip
+tdc_id: '6423.0'
+title:
+  screen: Hangman Game
+publisher: Jim Emptage, Rouge Valley Software
+year: '1997'
+genre:
+- Strategy
+- Puzzle
+- Educational
+language: English
+date:
+  added: '2019-03-02T10:35:28'
+  last_modified: '2023-03-13T10:06:35'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 27
+  date: '2018-06-29T01:13:42'
+  crc: '0x13e93504'
+- name: HANGMAN.BAS
+  size: 7912
+  date: '2018-03-10T02:25:10'
+  crc: '0x97588f40'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T01:28:02'
+  crc: '0x19f6ed75'

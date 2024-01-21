@@ -1,0 +1,41 @@
+filename: Fussball Trainer (De) (1990)(Andreas Kanzlers) [Simulation, Sports].zip
+tdc_id: '1963.0'
+title:
+  screen: Fussball Trainer
+publisher: Andreas Kanzlers
+year: '1990'
+genre:
+- Simulation
+- Sports
+language: German
+date:
+  added: '2019-03-01T18:32:40'
+  last_modified: '2019-03-01T18:32:40'
+type: zip
+commands:
+  play: FUSSBALL.EXE
+files:
+- name: CGA.BGI
+  size: 6253
+  date: '2018-02-26T09:40:36'
+  crc: '0x17cbdd92'
+- name: EGAVGA.BGI
+  size: 5363
+  date: '2018-02-26T09:40:36'
+  crc: '0x06d36962'
+- name: FUSSBALL.EXE
+  size: 95616
+  date: '2018-02-26T09:40:38'
+  crc: '0xfb7363ff'
+- name: HERC.BGI
+  size: 6125
+  date: '2018-02-26T09:40:36'
+  crc: '0xc1f40043'
+- name: LITT.CHR
+  size: 5131
+  date: '2018-02-26T09:40:36'
+  crc: '0xdeed0c13'
+- name: TRIP.CHR
+  size: 15113
+  date: '2018-02-26T09:40:36'
+  crc: '0x736c1feb'

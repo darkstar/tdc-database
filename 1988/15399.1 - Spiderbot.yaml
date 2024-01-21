@@ -1,0 +1,26 @@
+filename: Spiderbot [DC][a1] (1988)(Epyx, Inc.) [Action].zip
+tdc_id: '15399.1'
+title:
+  box: Spiderbot
+publisher: Epyx, Inc.
+year: '1988'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:26:50'
+  last_modified: '2019-03-01T18:26:50'
+type: zip
+tags:
+- DOSConversion
+- Alternate: 1
+commands:
+  play: SPIDRBOT.COM
+files:
+- name: GAME.DAT
+  size: 368640
+  date: '2047-04-04T21:25:12'
+  crc: '0x4067fad0'
+- name: SPIDRBOT.COM
+  size: 416
+  date: '2047-10-07T01:21:24'
+  crc: '0x5b1aa0c8'

@@ -1,0 +1,29 @@
+filename: EGA Word Eater v1.1 [SW] (1991)(Anthony J. Aretz) [Action, Educational].zip
+tdc_id: '634.0'
+title:
+  screen: EGA Word Eater
+publisher: Anthony J. Aretz
+year: '1991'
+genre:
+- Action
+- Educational
+language: English
+date:
+  added: '2019-03-01T18:35:46'
+  last_modified: '2019-03-01T18:35:46'
+version: '1.1'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: WE.EXE
+files:
+- name: WE.DOC
+  size: 12812
+  date: '1991-02-24T16:38:28'
+  crc: '0xe88e5959'
+- name: WE.EXE
+  size: 144908
+  date: '1991-02-24T16:24:32'
+  crc: '0x1f3dfa40'

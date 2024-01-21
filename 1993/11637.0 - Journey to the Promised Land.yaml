@@ -1,0 +1,55 @@
+filename: Journey to the Promised Land v2.2 (1993)(ARK Multimedia Publishing) [Educational, Trivia].zip
+tdc_id: '11637.0'
+parent_id: '11637.1'
+title:
+  box: Journey to the Promised Land
+publisher: ARK Multimedia Publishing
+year: '1993'
+genre:
+- Educational
+- Trivia
+language: English
+date:
+  added: '2019-03-01T18:48:28'
+  last_modified: '2023-10-05T14:58:51'
+version: '2.2'
+type: zip
+commands:
+  play: JOURNEY.EXE
+references:
+  mobygames: https://www.mobygames.com/game/59993/journey-to-the-promised-land/
+  dosid: DOS05373
+  exodos: Journey to the Promised Land (1992).zip
+files:
+- name: BIT8X8.GFT
+  size: 2646
+  date: '1990-08-01T01:02:00'
+  crc: '0x9744624b'
+- name: CHG26.GFT
+  size: 3334
+  date: '1990-08-01T01:02:00'
+  crc: '0x2c6c43d2'
+- name: JOURNEY.EXE
+  size: 165104
+  date: '1993-01-18T12:39:42'
+  crc: '0xbccb1c3f'
+- name: LIB_1.GXL
+  size: 1054461
+  date: '1991-08-19T20:59:08'
+  crc: '0x0401dca8'
+- name: LIB_2.LIB
+  size: 247843
+  date: '1993-01-18T11:56:44'
+  crc: '0x2c911405'
+- name: RECORD.TXT
+  size: 1
+  date: '1993-01-22T02:18:08'
+  crc: '0xf4dbdf21'
+- name: SAVE.TXT
+  size: 56
+  date: '1992-07-19T08:13:28'
+  crc: '0xf9277da0'
+- name: SCORES.TXT
+  size: 60
+  date: '1992-07-19T08:03:24'
+  crc: '0xd17cae03'

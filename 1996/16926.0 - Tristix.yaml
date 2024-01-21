@@ -1,0 +1,30 @@
+filename: Tristix v1.05 (Installer) [SW] (1996)(Evan Salomon, Philipp Bailey) [Strategy, Action].zip
+tdc_id: '16926.0'
+title:
+  screen: Tristix
+publisher: Evan Salomon, Philipp Bailey
+year: '1996'
+genre:
+- Strategy
+- Action
+language: English
+date:
+  added: '2019-01-28T09:10:28'
+  last_modified: '2019-01-28T09:10:28'
+version: '1.05'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 714
+  date: '1996-07-23T17:05:40'
+  crc: '0x128b4e96'
+- name: INSTALL.EXE
+  size: 374751
+  date: '1996-06-19T01:05:00'
+  crc: '0x800eda90'

@@ -1,0 +1,35 @@
+filename: Mines [FW] (2006)(James L. Dean) [Adventure, Interactive Fiction].zip
+tdc_id: '7856.0'
+title:
+  screen: Mines
+publisher: James L. Dean
+year: '2006'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T10:57:14'
+  last_modified: '2019-03-02T10:57:14'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: mines.exe
+references:
+  dosid: DOS06673
+  exodos: Mines (2006).zip
+files:
+- name: mines.c
+  size: 85889
+  date: '1996-12-24T23:32:00'
+  crc: '0x1c03c811'
+- name: mines.exe
+  size: 34875
+  date: '1996-12-24T23:32:00'
+  crc: '0xa2b27c4b'
+- name: readme.txt
+  size: 889
+  date: '1996-12-24T23:32:00'
+  crc: '0x55f0013d'

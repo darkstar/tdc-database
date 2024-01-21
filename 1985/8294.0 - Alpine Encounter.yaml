@@ -1,0 +1,38 @@
+filename: Alpine Encounter [DC] (1985)(Random House, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '8294.0'
+title:
+  box: Alpine Encounter
+publisher: Random House, Inc.
+year: '1985'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:24:20'
+  last_modified: '2019-03-01T18:24:20'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: START.COM
+references:
+  dosid: DOS05829
+  exodos: Alpine Encounter, The (1985).zip
+files:
+- name: ALPINE.DAT
+  size: 327680
+  date: '2006-03-04T18:16:22'
+  crc: '0x11b5ae37'
+- name: ALPINES.DAT
+  size: 327680
+  date: '2006-03-04T22:13:16'
+  crc: '0x2c59d131'
+- name: NOTE.TXT
+  size: 354
+  date: '2006-03-04T22:15:18'
+  crc: '0x467ce9b2'
+- name: START.COM
+  size: 1562
+  date: '2006-03-04T22:30:22'
+  crc: '0xfa54a143'

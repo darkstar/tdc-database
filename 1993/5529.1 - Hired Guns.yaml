@@ -1,0 +1,43 @@
+filename: Hired Guns v0.99.01 (Installer) (1993)(Psygnosis Limited) [Action, Role-Playing (RPG)].zip
+tdc_id: '5529.1'
+title:
+  box: Hired Guns
+publisher: Psygnosis Limited
+year: '1993'
+genre:
+- Action
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T19:09:40'
+  last_modified: '2019-03-01T19:09:40'
+version: 0.99.01
+type: zip
+installer: true
+commands:
+  play: SETUP.EXE
+files:
+- name: HG0000.VS_
+  size: 1285948
+  date: '1994-01-24T12:23:44'
+  crc: '0xdc183a8b'
+- name: HG0001.VS_
+  size: 1439634
+  date: '1994-01-24T12:24:38'
+  crc: '0x851628f2'
+- name: HG0002.VS_
+  size: 1427521
+  date: '1994-01-24T12:25:42'
+  crc: '0x676cfbf6'
+- name: HG0003.VS_
+  size: 92279
+  date: '1994-01-24T12:25:46'
+  crc: '0xd9bc291c'
+- name: INSTALL.CMD
+  size: 3441
+  date: '1994-01-07T17:25:02'
+  crc: '0xd5dd7831'
+- name: SETUP.EXE
+  size: 92477
+  date: '1994-03-06T22:04:48'
+  crc: '0x95d08de7'

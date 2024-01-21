@@ -1,0 +1,42 @@
+filename: Rolling Ronny (Installer) [h1] (1994)(General Admission Software) [Action].zip
+tdc_id: '6532.2'
+title:
+  box: Rolling Ronny
+publisher: General Admission Software
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T22:04:04'
+  last_modified: '2019-03-01T22:04:04'
+type: zip
+tags:
+- Hack: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: F1.PAK
+  size: 189739
+  date: '1992-01-22T19:30:40'
+  crc: '0x21499edc'
+- name: F2.PAK
+  size: 730074
+  date: '1992-01-22T19:30:32'
+  crc: '0x3c2b338b'
+- name: F3.PAK
+  size: 729935
+  date: '1992-01-22T19:30:38'
+  crc: '0x62b505c8'
+- name: F4.PAK
+  size: 730095
+  date: '1992-01-22T19:30:30'
+  crc: '0x01436f75'
+- name: INSTALL.CFG
+  size: 864
+  date: '1992-02-04T09:32:08'
+  crc: '0x0dd4749d'
+- name: INSTALL.EXE
+  size: 24836
+  date: '1991-10-10T12:41:28'
+  crc: '0xab4772c2'

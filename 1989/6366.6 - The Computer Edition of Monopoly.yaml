@@ -1,0 +1,57 @@
+filename: Computer Edition of Monopoly, The (1989)(Leisure Genius) [Strategy, Board].zip
+tdc_id: '6366.6'
+parent_id: '6366.5'
+title:
+  box: The Computer Edition of Monopoly
+publisher: Leisure Genius
+year: '1989'
+genre:
+- Strategy
+- Board
+language: English
+date:
+  added: '2023-03-15T07:44:33'
+  last_modified: '2023-03-15T07:44:33'
+type: zip
+media: 360K
+commands:
+  play: MONOPOLY.EXE
+references:
+  mobygames: https://www.mobygames.com/game/6151/monopoly/
+files:
+- name: INSTALL.BAT
+  size: 2869
+  date: '1989-09-15T11:54:28'
+  crc: '0x2846246c'
+- name: MDUICG1.PCX
+  size: 6284
+  date: '1989-07-06T12:36:16'
+  crc: '0xd86ff00a'
+- name: MDUICG2.PCX
+  size: 5345
+  date: '1989-07-06T12:02:56'
+  crc: '0xc371a517'
+- name: MDUIEG2.LBM
+  size: 29268
+  date: '1989-07-06T12:08:12'
+  crc: '0xdc53d12b'
+- name: MDUIHEG1.LBM
+  size: 16468
+  date: '1988-10-11T18:02:56'
+  crc: '0x2fa5582c'
+- name: MDUIHEG2.LBM
+  size: 10240
+  date: '1989-07-06T13:07:14'
+  crc: '0xb2229ca0'
+- name: MDUITAG1.LBM
+  size: 19490
+  date: '1988-10-08T13:14:28'
+  crc: '0xe46ef972'
+- name: MDUITAG2.LBM
+  size: 11056
+  date: '1980-01-01T00:13:26'
+  crc: '0xafec9da5'
+- name: MONOPOLY.EXE
+  size: 254143
+  date: '1989-08-14T14:02:16'
+  crc: '0xf17bcc41'

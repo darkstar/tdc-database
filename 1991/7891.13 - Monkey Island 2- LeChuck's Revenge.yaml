@@ -1,0 +1,41 @@
+filename: Monkey Island 2- LeChuck's Revenge v5.2.02 (demo) (1991)(Lucasfilm Games LLC) [Adventure].zip
+tdc_id: '7891.13'
+title:
+  screen: 'Monkey Island 2: LeChuck''s Revenge'
+publisher: Lucasfilm Games LLC
+year: '1991'
+genre: Adventure
+language: English
+date:
+  added: '2013-03-05T22:15:34'
+  last_modified: '2013-03-05T22:15:34'
+version: 5.2.02
+type: zip
+demo: true
+commands:
+  play: mi2demo.exe
+files:
+- name: demo.rec
+  size: 37940
+  date: '2003-08-04T13:03:58'
+  crc: '0x41de4654'
+- name: mi2demo.000
+  size: 9770
+  date: '2003-08-04T13:03:58'
+  crc: '0x81278058'
+- name: mi2demo.001
+  size: 1348841
+  date: '2003-08-04T13:03:58'
+  crc: '0x224e775b'
+- name: mi2demo.002
+  size: 846007
+  date: '2003-08-04T13:03:58'
+  crc: '0x0b884ade'
+- name: mi2demo.exe
+  size: 157019
+  date: '2003-08-04T13:03:58'
+  crc: '0x51e3c2e6'
+- name: null.ims
+  size: 896
+  date: '2003-08-04T13:03:58'
+  crc: '0x1b45f784'

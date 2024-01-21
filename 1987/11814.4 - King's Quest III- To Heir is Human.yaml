@@ -1,0 +1,99 @@
+filename: King's Quest III- To Heir is Human v2.0 (1987)(Sierra On-Line, Inc.) [Adventure].zip
+tdc_id: '11814.4'
+parent_id: '11814.5'
+title:
+  box: 'King''s Quest III: To Heir is Human'
+publisher: Sierra On-Line, Inc.
+year: '1987'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:25:24'
+  last_modified: '2019-03-01T18:25:24'
+version: '2.0'
+type: zip
+files:
+- name: AGI
+  size: 38400
+  date: '2006-03-19T19:12:08'
+  crc: '0xfcd148ab'
+- name: AGIDATA.OVL
+  size: 7680
+  date: '2006-03-19T19:12:12'
+  crc: '0x0a908dc6'
+- name: CGA_GRAF.OVL
+  size: 1024
+  date: '2006-03-19T19:12:14'
+  crc: '0x17752d02'
+- name: EGA_GRAF.OVL
+  size: 1024
+  date: '2006-03-19T19:12:18'
+  crc: '0xcfa63d5c'
+- name: HGC_FONT
+  size: 3072
+  date: '2006-03-19T19:12:20'
+  crc: '0x200435c7'
+- name: HGC_GRAF.OVL
+  size: 1536
+  date: '2006-03-19T19:12:22'
+  crc: '0x0619da82'
+- name: HGC_OBJS.OVL
+  size: 1024
+  date: '2006-03-19T19:12:26'
+  crc: '0x571c7935'
+- name: IBM_OBJS.OVL
+  size: 512
+  date: '2006-03-19T19:12:28'
+  crc: '0x3bcb96dd'
+- name: JR_GRAF.OVL
+  size: 512
+  date: '2006-03-19T19:12:32'
+  crc: '0xe3713583'
+- name: KQ3.COM
+  size: 2944
+  date: '2006-03-19T19:12:34'
+  crc: '0x3a83d6e9'
+- name: LOGDIR
+  size: 390
+  date: '2006-03-19T19:12:38'
+  crc: '0x89469be1'
+- name: OBJECT
+  size: 796
+  date: '2006-03-19T19:12:40'
+  crc: '0x80bb91c4'
+- name: PICDIR
+  size: 531
+  date: '2006-03-19T19:12:42'
+  crc: '0x582eb496'
+- name: SNDDIR
+  size: 120
+  date: '2006-03-19T19:12:44'
+  crc: '0x0158cbe8'
+- name: VIEWDIR
+  size: 756
+  date: '2006-03-19T19:12:48'
+  crc: '0x95ba445c'
+- name: VOL.0
+  size: 78613
+  date: '2006-03-19T19:12:58'
+  crc: '0x06d71677'
+- name: VOL.1
+  size: 164295
+  date: '2006-03-19T19:13:16'
+  crc: '0x37a54960'
+- name: VOL.2
+  size: 201976
+  date: '2006-03-19T19:13:36'
+  crc: '0xb69550fd'
+- name: VOL.3
+  size: 206606
+  date: '2006-03-19T19:13:58'
+  crc: '0x920686d3'
+- name: WORDS.TOK
+  size: 5657
+  date: '2006-03-19T19:14:02'
+  crc: '0x46d861cb'
+- name: _INSTALL.BAT
+  size: 971
+  date: '2006-03-19T19:12:00'
+  crc: '0xf939d606'

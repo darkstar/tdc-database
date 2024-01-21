@@ -1,0 +1,103 @@
+filename: Rapcon (1989)(Wesson International) [Simulation].zip
+tdc_id: '6105.0'
+title:
+  box: Rapcon
+publisher: Wesson International
+year: '1989'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:28:46'
+  last_modified: '2019-03-01T18:28:46'
+type: zip
+commands:
+  play: RAPCON.EXE
+files:
+- name: AIRCRAFT.INF
+  size: 20532
+  date: '1989-11-10T14:18:30'
+  crc: '0x9f63c67b'
+- name: AIRCRAFT.TYP
+  size: 4689
+  date: '1989-11-18T22:31:30'
+  crc: '0x5199a5c5'
+- name: DEMO.DMO
+  size: 14830
+  date: '1989-11-20T16:03:42'
+  crc: '0x1df3fd9f'
+- name: DEMO.SIM
+  size: 488
+  date: '1989-11-19T21:22:40'
+  crc: '0xf8a3de0b'
+- name: EDW.SEC
+  size: 3553
+  date: '1989-11-18T10:29:20'
+  crc: '0x5139223f'
+- name: EDW.VOI
+  size: 19230
+  date: '1989-11-17T15:47:30'
+  crc: '0x791a7a2b'
+- name: LAST.SIM
+  size: 486
+  date: '1989-11-29T21:38:48'
+  crc: '0xd9dfa173'
+- name: LOGO.SCR
+  size: 8060
+  date: '1989-11-06T01:27:32'
+  crc: '0xc00b9d3f'
+- name: LSV.SEC
+  size: 3445
+  date: '1989-11-19T21:09:26'
+  crc: '0x70b07bf7'
+- name: LSV.VOI
+  size: 22358
+  date: '1989-11-17T16:30:06'
+  crc: '0x98fdae40'
+- name: NKX.SEC
+  size: 3396
+  date: '1989-11-19T21:08:48'
+  crc: '0x61d0c0c2'
+- name: NKX.VOI
+  size: 20874
+  date: '1989-11-17T16:36:00'
+  crc: '0x21791853'
+- name: NPA.SEC
+  size: 4165
+  date: '1989-11-19T21:09:44'
+  crc: '0xc2c09b28'
+- name: NPA.VOI
+  size: 23646
+  date: '1989-11-17T16:12:10'
+  crc: '0x2d6a3126'
+- name: RAPCON.EXE
+  size: 203369
+  date: '1989-11-20T17:09:02'
+  crc: '0x36d2f46a'
+- name: RAPCON.INI
+  size: 1822
+  date: '1989-11-19T21:03:28'
+  crc: '0x4509989d'
+- name: RAPCON.NAM
+  size: 60
+  date: '1989-11-29T21:38:50'
+  crc: '0xbe99ebcb'
+- name: RAPCON.SMS
+  size: 1629
+  date: '1988-04-21T17:05:48'
+  crc: '0xa0bdf3da'
+- name: RAPCON.VOI
+  size: 262226
+  date: '1989-11-18T22:35:52'
+  crc: '0x899ed62b'
+- name: READ.ME
+  size: 2489
+  date: '1989-11-21T08:28:48'
+  crc: '0x58b79845'
+- name: VPS.SEC
+  size: 2478
+  date: '1989-11-19T21:12:38'
+  crc: '0x23f397a8'
+- name: VPS.VOI
+  size: 37386
+  date: '1989-11-17T16:04:34'
+  crc: '0xd0cafe50'

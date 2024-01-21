@@ -1,0 +1,31 @@
+filename: Blockade v2.01 (1986)(Don Laabs) [Action].zip
+tdc_id: '1244.0'
+title:
+  screen: Blockade
+publisher: Don Laabs
+year: '1986'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:42'
+  last_modified: '2019-03-01T18:24:42'
+version: '2.01'
+type: zip
+commands:
+  play: BLOCKADE.COM
+references:
+  dosid: DOS06748
+  exodos: Blockade (1986).zip
+files:
+- name: BLOCKADE.CNF
+  size: 13
+  date: '1988-12-27T14:54:02'
+  crc: '0x17e08a47'
+- name: BLOCKADE.COM
+  size: 38040
+  date: '1986-12-07T18:34:44'
+  crc: '0x3fdd941c'
+- name: BLOCKADE.DOC
+  size: 3142
+  date: '1986-12-06T23:59:42'
+  crc: '0x6f5e3a38'

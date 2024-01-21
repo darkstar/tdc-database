@@ -1,0 +1,75 @@
+filename: Picture Perfect (1984)(Mindplay, Methods & Solutions) [Educational].zip
+tdc_id: '1137.0'
+title:
+  box: Picture Perfect
+publisher: Mindplay, Methods & Solutions
+year: '1984'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T18:24:12'
+  last_modified: '2023-10-07T17:41:15'
+type: zip
+commands:
+  play: PICPERF.EXE
+files:
+- name: AUTOEXEC.BAT
+  size: 37
+  date: '1980-01-01T00:00:16'
+  crc: '0xc7baf68c'
+- name: CROSS.DAT
+  size: 68
+  date: '1980-01-01T00:19:20'
+  crc: '0xe4229dee'
+- name: GRAPHICS.COM
+  size: 789
+  date: '1983-10-20T12:00:00'
+  crc: '0xca969113'
+- name: MAIN.PIC
+  size: 16512
+  date: '1980-01-01T00:13:28'
+  crc: '0xf18afe6f'
+- name: MENU.PIC
+  size: 14008
+  date: '1980-01-01T00:38:12'
+  crc: '0xe84d5e9c'
+- name: PICPERF.COM
+  size: 124
+  date: '1980-01-01T00:58:16'
+  crc: '0xf351b52a'
+- name: PICPERF.CO_
+  size: 3745
+  date: '1980-01-01T00:58:16'
+  crc: '0x2ac5afbc'
+- name: PICPERF.EXE
+  size: 48009
+  date: '1980-01-04T20:05:10'
+  crc: '0xa6030bb4'
+- name: PT.1
+  size: 1
+  date: '1984-10-12T17:28:18'
+  crc: '0xd202ef8d'
+- name: PT.2
+  size: 1
+  date: '1984-10-12T17:28:26'
+  crc: '0xd202ef8d'
+- name: SET1.PPP
+  size: 5558
+  date: '1980-01-01T00:22:16'
+  crc: '0x4f4c8002'
+- name: TEST.PIC
+  size: 16512
+  date: '1980-01-01T00:34:34'
+  crc: '0xc5f9f650'
+- name: TOOLS.PIC
+  size: 16512
+  date: '1980-01-01T00:21:18'
+  crc: '0x90d6dbcf'
+- name: XLR.SBR
+  size: 405
+  date: '1980-01-01T00:02:34'
+  crc: '0x3373f527'
+- name: YESNO.PIC
+  size: 16512
+  date: '1984-05-07T13:35:54'
+  crc: '0x68e7cd76'

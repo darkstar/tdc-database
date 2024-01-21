@@ -1,0 +1,53 @@
+filename: PC Disk Magazine 9 (1984)(Ziff-Davis Publishing Company) [Compilation].zip
+tdc_id: '10086.0'
+title:
+  box: PC Disk Magazine 9
+publisher: Ziff-Davis Publishing Company
+year: '1984'
+genre: Compilation
+language: English
+date:
+  added: '2019-03-01T18:24:12'
+  last_modified: '2019-03-01T18:24:12'
+type: zip
+media: 360K
+compilation: true
+commands:
+  play: PLANNER.EXE
+files:
+- name: FLASHCRD.BAS
+  size: 15562
+  date: '1984-10-01T13:01:00'
+  crc: '0x476c443f'
+- name: NOTEIND.BAS
+  size: 17009
+  date: '1980-01-01T04:09:40'
+  crc: '0x2f2c6d66'
+- name: PLANNER.EXE
+  size: 66816
+  date: '1984-10-01T13:09:12'
+  crc: '0x71c524aa'
+- name: POL.BAS
+  size: 26412
+  date: '1984-10-01T13:04:02'
+  crc: '0xd23b140c'
+- name: SAMPLE.FLS
+  size: 3447
+  date: '1984-10-01T13:09:36'
+  crc: '0x5e3d1642'
+- name: SHRINKER.BAS
+  size: 4580
+  date: '1984-10-01T13:06:38'
+  crc: '0xe11edc54'
+- name: SHRINKR1.BAS
+  size: 2698
+  date: '1984-10-01T13:06:48'
+  crc: '0x41cbcb65'
+- name: SHRINKR2.BAS
+  size: 6235
+  date: '1984-10-01T13:07:00'
+  crc: '0x1548f45b'
+- name: STUTOR.BAS
+  size: 12041
+  date: '1984-10-01T13:06:28'
+  crc: '0x9ecc1040'

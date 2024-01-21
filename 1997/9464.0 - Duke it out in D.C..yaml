@@ -1,0 +1,44 @@
+filename: Duke it out in D.C. (Installer) (1997)(WizardWorks Group, Inc.) [Action, Addon].zip
+tdc_id: '9464.0'
+title:
+  box: Duke it out in D.C.
+publisher: WizardWorks Group, Inc.
+year: '1997'
+genre:
+- Action
+- Addon
+language: English
+date:
+  added: '2019-07-07T12:39:52'
+  last_modified: '2019-07-07T12:39:52'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  dosid: DOS01909
+  exodos: Duke it out in D.C. (1997).zip
+files:
+- name: DCINTRO.TXT
+  size: 3142
+  date: '1997-02-23T14:14:40'
+  crc: '0x3633968a'
+- name: DUKEDC\
+  size: 0
+  date: '2019-07-07T12:39:26'
+- name: DUKEDC\DCINTRO.TXT
+  size: 3140
+  date: '1997-02-21T16:16:00'
+  crc: '0x94091e35'
+- name: DUKEDC\DUKEDC13.SSI
+  size: 5100812
+  date: '1997-02-21T16:55:30'
+  crc: '0x18773d0f'
+- name: INSTALL.EXE
+  size: 28272
+  date: '1997-02-20T20:36:04'
+  crc: '0x9c26a51e'
+- name: README.TXT
+  size: 16358
+  date: '1997-02-21T16:18:56'
+  crc: '0x32a6cdf2'

@@ -1,0 +1,32 @@
+filename: River Run v0.9b (Installer) (1996)(Run Productions) [Action].zip
+tdc_id: '9970.2'
+title:
+  screen: River Run
+publisher: Run Productions
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '1997-07-29T13:57:48'
+  last_modified: '1997-07-29T13:57:48'
+version: 0.9b
+type: zip
+media: Download
+installer: true
+files:
+- name: FILE_ID.DIZ
+  size: 424
+  date: '1996-07-12T03:08:22'
+  crc: '0x60a30bff'
+- name: INSTALL.BAT
+  size: 347
+  date: '1996-12-06T17:50:50'
+  crc: '0xe88b1527'
+- name: LICENSE.TXT
+  size: 3140
+  date: '1996-12-06T17:35:12'
+  crc: '0x870a5e5d'
+- name: RIVERRUN.EXE
+  size: 2900054
+  date: '1996-12-08T18:00:40'
+  crc: '0x03471061'

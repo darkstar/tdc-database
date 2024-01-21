@@ -1,0 +1,77 @@
+filename: Goblins Quest 3 v1.00 (1994)(Sierra On-Line, Inc.) [Adventure, Puzzle][!].zip
+tdc_id: '14111.0'
+parent_id: '14111.1'
+title:
+  box: Goblins Quest 3
+publisher: Sierra On-Line, Inc.
+year: '1994'
+genre:
+- Adventure
+- Puzzle
+language: English
+date:
+  added: '2019-03-01T21:57:14'
+  last_modified: '2023-11-27T16:01:37'
+version: '1.00'
+type: zip
+tags:
+- KnownGood
+media: 1.44M
+commands:
+  play: GOB3.EXE
+  setup: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/2870/goblins-quest-3/
+files:
+- name: EXT.STK
+  size: 3946534
+  date: '1994-03-17T03:25:32'
+  crc: '0x76aafabc'
+- name: GO.BAT
+  size: 21
+  date: '1994-02-28T14:45:44'
+  crc: '0x64aef423'
+- name: GOB3.EXE
+  size: 232192
+  date: '1994-03-17T03:24:30'
+  crc: '0xd01cab27'
+- name: IMD.ITK
+  size: 2951256
+  date: '1994-03-17T03:25:48'
+  crc: '0xb4dd097c'
+- name: IMD.LTK
+  size: 45344
+  date: '1994-03-09T11:42:38'
+  crc: '0x987238bb'
+- name: INSTALL.ASK
+  size: 15935
+  date: '1994-03-21T09:27:30'
+  crc: '0x257d42e3'
+- name: INTRO.STK
+  size: 159444
+  date: '1994-03-11T11:00:26'
+  crc: '0x5a947329'
+- name: MDO.DEF
+  size: 185
+  date: '1994-03-18T14:00:46'
+  crc: '0x40f2c3db'
+- name: README
+  size: 4264
+  date: '1994-03-18T14:06:42'
+  crc: '0x97a2f331'
+- name: README.BAT
+  size: 29
+  date: '1994-02-28T14:45:30'
+  crc: '0x2e285da6'
+- name: SETUP.EXE
+  size: 71133
+  date: '1994-02-28T14:45:44'
+  crc: '0x9f08a924'
+- name: TOT.STK
+  size: 448000
+  date: '1994-03-17T03:25:02'
+  crc: '0x24020297'
+- name: VERSION
+  size: 40
+  date: '1994-03-22T11:02:48'
+  crc: '0x08f2ed65'

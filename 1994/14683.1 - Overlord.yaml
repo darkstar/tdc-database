@@ -1,0 +1,49 @@
+filename: Overlord r940609 (demo) (Installer) (1994)(Virgin Interactive Entertainment (Europe) Ltd.) [Simulation].zip
+tdc_id: '14683.1'
+title:
+  screen: Overlord
+  qualifier: Installer
+publisher: Virgin Interactive Entertainment (Europe) Ltd.
+year: '1994'
+genre: Simulation
+language: English
+date:
+  added: '2021-12-14T02:19:46'
+  last_modified: '2024-01-02T09:59:13'
+release: '940609'
+type: zip
+media: Download
+installer: true
+commands:
+  play: INSTALL.BAT
+references:
+  mobygames: https://www.mobygames.com/game/513/overlord/
+files:
+- name: DEMO.FIL
+  size: 4379
+  date: '1994-06-16T14:07:52'
+  crc: '0x43f36ac3'
+- name: INSTALL.BAT
+  size: 254
+  date: '1994-06-16T14:07:52'
+  crc: '0xdc21e544'
+- name: INSTALLX.EXE
+  size: 1370282
+  date: '1994-06-16T14:07:30'
+  crc: '0x12c6fe03'
+- name: READ.ME
+  size: 11943
+  date: '1994-06-16T12:40:02'
+  crc: '0x41b79414'
+- name: SCRIPT3D\BFA2ADM2.COM
+  size: 358
+  date: '1994-06-09T00:38:42'
+  crc: '0x09294f6d'
+- name: SCRIPT3D\BFTPRUN1.COM
+  size: 532
+  date: '1994-06-09T00:38:44'
+  crc: '0x4a1fab86'
+- name: SCRN320.200\SHELTER.LBM
+  size: 56030
+  date: '1994-02-25T14:10:22'
+  crc: '0x1ca5885e'

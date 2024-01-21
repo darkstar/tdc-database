@@ -1,0 +1,55 @@
+filename: Wolfenstein 3D v1.4 [SWR][a1] (1992)(Apogee Software, Ltd.) [Action].zip
+tdc_id: '16051.15'
+title:
+  box: Wolfenstein 3D
+publisher: Apogee Software, Ltd.
+year: '1992'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:52:30'
+  last_modified: '2019-03-01T18:52:30'
+version: '1.4'
+type: zip
+tags:
+- SharewareRegistered
+- Alternate: 1
+commands:
+  play: WOLF3D.EXE
+files:
+- name: AUDIOHED.WL6
+  size: 1156
+  date: '2014-11-08T11:47:44'
+  crc: '0x2f3bcb70'
+- name: AUDIOT.WL6
+  size: 320209
+  date: '2014-11-08T11:47:48'
+  crc: '0xc79efd4c'
+- name: GAMEMAPS.WL6
+  size: 150652
+  date: '2014-11-08T11:47:50'
+  crc: '0xada5c827'
+- name: MAPHEAD.WL6
+  size: 402
+  date: '2014-11-08T11:47:50'
+  crc: '0x015803e9'
+- name: VGADICT.WL6
+  size: 1024
+  date: '2014-11-08T11:47:50'
+  crc: '0xd92d53e7'
+- name: VGAGRAPH.WL6
+  size: 275782
+  date: '2014-11-08T11:47:52'
+  crc: '0xfdf797b7'
+- name: VGAHEAD.WL6
+  size: 450
+  date: '2014-11-08T11:47:52'
+  crc: '0x67a9ef25'
+- name: VSWAP.WL6
+  size: 1545400
+  date: '2014-11-08T11:48:00'
+  crc: '0x859e8ffc'
+- name: WOLF3D.EXE
+  size: 259310
+  date: '2014-11-08T11:48:00'
+  crc: '0xcf660f1b'

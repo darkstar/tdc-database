@@ -1,0 +1,34 @@
+filename: Bowling Champ!! (1984)(COMPUTE! Publications, Inc.) [Action, Sports].zip
+tdc_id: '12785.1'
+title:
+  screen: Bowling Champ!!
+publisher: COMPUTE! Publications, Inc.
+year: '1984'
+genre:
+- Action
+- Sports
+language: English
+date:
+  added: '2019-03-01T18:24:00'
+  last_modified: '2019-03-01T18:24:00'
+type: zip
+media: Type-In
+commands:
+  play: BOWLING.EXE
+references:
+  dosid: DOS06755
+  exodos: Bowling Champ!! (1984).zip
+notes: yes, different than 19xx version
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: BOWL.BAS
+  size: 2432
+  date: '1985-03-30T20:32:52'
+  crc: '0x00f3c2fe'
+- name: BOWLING.EXE
+  size: 38992
+  date: '1989-04-22T06:12:00'
+  crc: '0xe4bc91cc'

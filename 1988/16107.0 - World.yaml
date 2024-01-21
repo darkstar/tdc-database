@@ -1,0 +1,33 @@
+filename: World v1.06 (1988)(J. Doug McDonald) [Adventure, Interactive Fiction].zip
+tdc_id: '16107.0'
+title:
+  screen: World
+publisher: J. Doug McDonald
+year: '1988'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:27:02'
+  last_modified: '2019-03-01T18:27:02'
+version: '1.06'
+type: zip
+commands:
+  play: WORLD.EXE
+references:
+  dosid: DOS00114
+  exodos: World (1988).zip
+files:
+- name: IMACLONE.DOC
+  size: 768
+  date: '1986-04-27T10:41:20'
+  crc: '0x2d332a50'
+- name: README
+  size: 214
+  date: '1990-08-28T11:07:34'
+  crc: '0x9ee25660'
+- name: WORLD.EXE
+  size: 164442
+  date: '1988-03-28T18:12:14'
+  crc: '0x9df4e948'

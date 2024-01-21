@@ -1,0 +1,31 @@
+filename: Asian Challenge, The v2.0 (1989)(Conrad Button) [Adventure].zip
+tdc_id: '8921.0'
+title:
+  screen: The Asian Challenge
+publisher: Conrad Button
+year: '1989'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:27:14'
+  last_modified: '2019-03-01T18:27:14'
+version: '2.0'
+type: zip
+commands:
+  play: ASIA.EXE
+references:
+  dosid: DOS00021
+  exodos: Asian Challenge, The (1989).zip
+files:
+- name: ASIA.EXE
+  size: 118034
+  date: '1989-05-02T00:26:06'
+  crc: '0xc132841f'
+- name: FILE1688.TXT
+  size: 2591
+  date: '1989-12-11T17:29:08'
+  crc: '0x77d2aef7'
+- name: README.DOC
+  size: 8064
+  date: '1989-05-02T00:04:12'
+  crc: '0x4e1bce51'

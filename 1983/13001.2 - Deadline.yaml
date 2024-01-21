@@ -1,0 +1,29 @@
+filename: Deadline r27 [DC] (1983)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '13001.2'
+parent_id: '13001.5'
+title:
+  box: Deadline
+publisher: Infocom, Inc.
+year: '1983'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2022-06-02T12:41:44'
+  last_modified: '2022-06-02T12:41:44'
+release: '27'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: DEADLINE.COM
+files:
+- name: DEADLINE.COM
+  size: 12928
+  date: '1980-01-01T00:00:00'
+  crc: '0xd74eb084'
+- name: DEADLINE.DAT
+  size: 129728
+  date: '2007-12-20T05:51:32'
+  crc: '0xeeeece26'

@@ -1,0 +1,33 @@
+filename: Discover Maze (1989)(Scott Taylor) [Strategy, Puzzle].zip
+tdc_id: '1680.0'
+title:
+  screen: Discover Maze
+publisher: Scott Taylor
+year: '1989'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-03-01T18:27:36'
+  last_modified: '2019-03-01T18:27:36'
+type: zip
+commands:
+  play: MAZE.EXE
+files:
+- name: MAZE.DOC
+  size: 858
+  date: '1989-07-17T00:32:50'
+  crc: '0xf89fae64'
+- name: MAZE.EXE
+  size: 7488
+  date: '1989-07-17T00:17:16'
+  crc: '0xa6f8e7b3'
+- name: MAZE.PAS
+  size: 6469
+  date: '1989-07-17T00:17:14'
+  crc: '0x759b33c8'
+- name: MAZE.SOL
+  size: 145
+  date: '1989-07-17T00:35:10'
+  crc: '0x01d6a8b2'

@@ -1,0 +1,50 @@
+filename: Vanguard Ace- Vertical Madness v1.2 (1999)(Imaginative Illusions Sdn. Bhd.) [Action].zip
+tdc_id: '7366.3'
+title:
+  box: 'Vanguard Ace: Vertical Madness'
+publisher: Imaginative Illusions Sdn. Bhd.
+year: '1999'
+genre: Action
+language: English
+date:
+  added: '2022-12-07T13:20:22'
+  last_modified: '2022-12-07T13:20:22'
+version: '1.2'
+type: zip
+commands:
+  play: VANGUARD.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/vanguard-ace-vertical-madness
+files:
+- name: README.DOC
+  size: 14269
+  date: '1999-02-08T18:26:16'
+  crc: '0x2bffcc6b'
+- name: SELFDEMO.DAT
+  size: 160573
+  date: '1999-02-07T22:42:20'
+  crc: '0xcd055b66'
+- name: SELFDEMO.EXE
+  size: 349723
+  date: '1999-02-07T22:42:20'
+  crc: '0x6de8f206'
+- name: VANGUARD.CFG
+  size: 22
+  date: '1999-02-08T16:46:54'
+  crc: '0xd31e9d00'
+- name: VANGUARD.DIR
+  size: 4557
+  date: '1999-02-07T22:42:20'
+  crc: '0xd2641cb5'
+- name: VANGUARD.EXE
+  size: 380812
+  date: '1999-02-07T22:42:20'
+  crc: '0x5f260fd3'
+- name: VANGUARD.HOF
+  size: 160
+  date: '1999-02-08T16:46:54'
+  crc: '0x99cc2946'
+- name: VANGUARD.JLB
+  size: 19639608
+  date: '1999-02-07T22:42:20'
+  crc: '0xe0bda71d'

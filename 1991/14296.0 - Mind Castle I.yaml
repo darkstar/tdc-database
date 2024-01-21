@@ -1,0 +1,100 @@
+filename: Mind Castle I (1991)(Lawrence Productions, Inc.) [Educational, Adventure].zip
+tdc_id: '14296.0'
+title:
+  box: Mind Castle I
+publisher: Lawrence Productions, Inc.
+year: '1991'
+genre:
+- Educational
+- Adventure
+language: English
+date:
+  added: '2019-03-01T18:36:54'
+  last_modified: '2019-03-01T18:36:54'
+type: zip
+commands:
+  play: HELLO.COM
+references:
+  dosid: DOS00206
+  exodos: Mind Castle I (1991).zip
+files:
+- name: BASEADR.DAT
+  size: 672
+  date: '1987-05-14T11:12:54'
+  crc: '0xcffa6dc8'
+- name: CHRSETA
+  size: 2176
+  date: '1991-01-25T11:32:18'
+  crc: '0x1fe6c321'
+- name: CHRSETB
+  size: 2176
+  date: '1991-02-07T10:54:20'
+  crc: '0x40d766bf'
+- name: HELLO.COM
+  size: 36684
+  date: '1991-03-20T15:05:20'
+  crc: '0xf285bf0a'
+- name: MCE1.G
+  size: 7424
+  date: '1991-02-05T15:02:56'
+  crc: '0xbe417213'
+- name: MCE1.T
+  size: 10880
+  date: '1980-01-01T21:28:34'
+  crc: '0x847661fd'
+- name: MCE2.G
+  size: 9216
+  date: '1991-01-31T14:57:10'
+  crc: '0xd9dd4acc'
+- name: MCE2.T
+  size: 8320
+  date: '1980-01-01T04:50:26'
+  crc: '0x4d05eb61'
+- name: MCE3.G
+  size: 8960
+  date: '1991-02-04T09:49:14'
+  crc: '0x176b4a74'
+- name: MCE3.T
+  size: 9600
+  date: '1980-01-01T04:50:50'
+  crc: '0x6cd8b413'
+- name: MCE4.G
+  size: 12160
+  date: '1991-01-29T14:36:46'
+  crc: '0x15026e23'
+- name: MCE4.T
+  size: 10880
+  date: '1980-01-01T03:13:40'
+  crc: '0x5bd9b4de'
+- name: MCE5.G
+  size: 11264
+  date: '1991-01-24T16:14:12'
+  crc: '0x0fa82ae0'
+- name: MCE5.T
+  size: 12416
+  date: '1980-01-01T04:51:10'
+  crc: '0x92fbefeb'
+- name: MCE6.G
+  size: 12544
+  date: '1991-01-24T15:09:44'
+  crc: '0x424c54f9'
+- name: MCE6.T
+  size: 11648
+  date: '1980-01-01T04:51:30'
+  crc: '0x2535641c'
+- name: MCE7.G
+  size: 4224
+  date: '1991-02-01T08:54:38'
+  crc: '0xd3c036a6'
+- name: MCE7.T
+  size: 3200
+  date: '1980-01-01T21:28:36'
+  crc: '0x36f6f408'
+- name: PALETTE.DAT
+  size: 476
+  date: '1986-12-31T14:51:36'
+  crc: '0xe06aef4c'
+- name: STUDDATA.DAT
+  size: 13184
+  date: '2002-10-09T11:37:52'
+  crc: '0x05e07921'

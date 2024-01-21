@@ -1,0 +1,28 @@
+filename: Ninjawar 3D v5.0 (1996)(Tom Dinchak) [Simulation].zip
+tdc_id: '14481.0'
+title:
+  screen: Ninjawar 3D
+publisher: Tom Dinchak
+year: '1996'
+genre: Simulation
+language: English
+date:
+  added: '2011-06-29T20:42:16'
+  last_modified: '2011-06-29T20:42:16'
+version: '5.0'
+type: zip
+commands:
+  play: ninja.exe
+files:
+- name: ninja.exe
+  size: 36928
+  date: '1996-06-28T00:20:02'
+  crc: '0x19058b5a'
+- name: ninja.faq
+  size: 3955
+  date: '1997-02-08T13:48:56'
+  crc: '0xc41961ee'
+- name: ninjawar.txt
+  size: 353
+  date: '1997-02-08T13:46:58'
+  crc: '0x484582ca'

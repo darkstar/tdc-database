@@ -1,0 +1,41 @@
+filename: Worms (Installer) (1995)(Ocean Software Ltd.) [Strategy].zip
+tdc_id: '16130.4'
+title:
+  box: Worms
+publisher: Ocean Software Ltd.
+year: '1995'
+genre: Strategy
+language: English
+date:
+  added: '2022-01-16T11:16:24'
+  last_modified: '2022-01-16T11:16:24'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK.1
+  size: 1400000
+  date: '1995-10-23T13:48:34'
+  crc: '0x46b71283'
+- name: DISK.2
+  size: 1400000
+  date: '1995-10-23T13:48:34'
+  crc: '0x52bd1350'
+- name: DISK.3
+  size: 806833
+  date: '1995-10-23T13:48:34'
+  crc: '0x2d0b22b9'
+- name: INSTALL.EXE
+  size: 44736
+  date: '1995-10-24T10:33:24'
+  crc: '0x47970403'
+- name: WORMS#1
+  size: 0
+  date: '1995-10-23T17:46:54'
+- name: WORMS#2
+  size: 0
+  date: '1995-10-23T17:47:08'
+- name: WORMS#3
+  size: 0
+  date: '1995-10-23T17:47:22'

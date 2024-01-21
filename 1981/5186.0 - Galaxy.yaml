@@ -1,0 +1,38 @@
+filename: Galaxy (1981)(The Avalon Hill Game Company) [Simulation, Strategy].zip
+tdc_id: '5186.0'
+title:
+  box: Galaxy
+  screen: Galaxy
+publisher: The Avalon Hill Game Company
+year: '1981'
+genre:
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:22:54'
+  last_modified: '2019-03-01T18:22:54'
+type: zip
+media: Download
+commands:
+  play: RUNME.BAT
+references:
+  dosid: DOS06541
+  exodos: Galaxy (1982).zip
+files:
+- name: GALAXY.BAS
+  size: 1280
+  date: '1980-01-01T00:59:20'
+  crc: '0x29ede4d3'
+- name: GALAXYP.BAS
+  size: 12416
+  date: '1989-05-05T00:00:00'
+  crc: '0xe92dca47'
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1991-01-31T12:17:34'
+  crc: '0x2a44af39'
+- name: RUNME.BAT
+  size: 16
+  date: '2011-01-24T19:52:30'
+  crc: '0x47bf56f7'

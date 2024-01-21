@@ -1,0 +1,28 @@
+filename: Gimp Warrior (1999)(R & W Software) [Action].zip
+tdc_id: '4362.0'
+title:
+  screen: Gimp Warrior
+publisher: R & W Software
+year: '1999'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:46:10'
+  last_modified: '2019-03-02T10:46:10'
+type: zip
+media: Download
+commands:
+  play: start.bat
+files:
+- name: QBASIC.EXE
+  size: 194309
+  date: '1995-07-11T10:50:00'
+  crc: '0x3152911c'
+- name: gimpwar.bas
+  size: 77327
+  date: '2005-03-15T11:34:14'
+  crc: '0x656a1850'
+- name: start.bat
+  size: 25
+  date: '2014-03-05T16:22:40'
+  crc: '0xf5e8a788'

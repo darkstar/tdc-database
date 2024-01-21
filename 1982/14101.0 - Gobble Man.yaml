@@ -1,0 +1,31 @@
+filename: Gobble Man (1982)(Anonymous) [Action].zip
+tdc_id: '14101.0'
+title:
+  screen: Gobble Man
+publisher: Anonymous
+year: '1982'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:23:00'
+  last_modified: '2019-03-01T18:23:00'
+type: zip
+media: Download
+commands:
+  play: GOBBLE.BAT
+references:
+  dosid: DOS06868
+  exodos: Gobble Man (1982).zip
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: GOBBLE.BAS
+  size: 2944
+  date: '1982-05-07T00:00:00'
+  crc: '0x5cf8dea9'
+- name: GOBBLE.BAT
+  size: 15
+  date: '2014-12-07T20:16:06'
+  crc: '0xcfe1c956'

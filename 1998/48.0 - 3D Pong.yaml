@@ -1,0 +1,28 @@
+filename: 3D Pong (1998)(Kyle Mahan) [Action].zip
+tdc_id: '48.0'
+title:
+  screen: 3D Pong
+publisher: Kyle Mahan
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:40:36'
+  last_modified: '2019-03-02T10:40:36'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: 3DPONG3.BAS
+  size: 12170
+  date: '1998-02-16T21:33:30'
+  crc: '0xf8bba579'
+- name: GO.BAT
+  size: 27
+  date: '2018-11-13T21:13:04'
+  crc: '0x79d7745f'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'

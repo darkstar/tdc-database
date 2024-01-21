@@ -1,0 +1,33 @@
+filename: Sango Fighter 2 (En)(Ja)(Zh) (2010)(Super Fighter Team) [Action].zip
+tdc_id: '14946.0'
+title:
+  screen: Sango Fighter 2
+publisher: Super Fighter Team
+year: '2010'
+genre: Action
+language:
+- English
+- Chinese
+- Japanese
+date:
+  added: '2019-03-02T10:57:46'
+  last_modified: '2019-03-02T10:57:46'
+type: zip
+commands:
+  play: SANGO2.EXE
+references:
+  dosid: DOS04401
+  exodos: Sango Fighter 2 (1995).zip
+files:
+- name: DATA.PAK
+  size: 25814590
+  date: '2012-04-22T17:38:32'
+  crc: '0x36b97b1b'
+- name: INFO.TXT
+  size: 474
+  date: '2013-09-02T22:33:58'
+  crc: '0x9ba44826'
+- name: SANGO2.EXE
+  size: 96861
+  date: '2012-04-22T17:46:26'
+  crc: '0xe48c881c'

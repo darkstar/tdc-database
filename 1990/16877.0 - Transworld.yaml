@@ -1,0 +1,31 @@
+filename: Transworld (De) (1990)(Starbyte Software) [Strategy].zip
+tdc_id: '16877.0'
+title:
+  box: Transworld
+publisher: Starbyte Software
+year: '1990'
+genre: Strategy
+language: German
+date:
+  added: '2019-03-01T18:34:20'
+  last_modified: '2019-03-01T18:34:20'
+type: zip
+commands:
+  play: TWCOLOR.EXE
+files:
+- name: MISC.RES
+  size: 62633
+  date: '1991-04-01T11:13:00'
+  crc: '0x1d779a74'
+- name: TWCOLOR.EXE
+  size: 120544
+  date: '1991-03-25T18:06:32'
+  crc: '0x2afc4645'
+- name: TWICONS1.VGA
+  size: 316053
+  date: '1991-01-16T22:31:36'
+  crc: '0x364fa6a4'
+- name: TWICONS2.VGA
+  size: 156958
+  date: '1991-01-16T22:32:08'
+  crc: '0xf1e502db'

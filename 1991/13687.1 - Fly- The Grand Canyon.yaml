@@ -1,0 +1,41 @@
+filename: Fly- The Grand Canyon (demo) (1991)(Hyacinth) [Simulation].zip
+tdc_id: '13687.1'
+title:
+  screen: 'Fly: The Grand Canyon'
+  qualifier: demo
+publisher: Hyacinth
+year: '1991'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:35:58'
+  last_modified: '2019-03-01T18:35:58'
+type: zip
+demo: true
+commands:
+  play: FLYDEMO.EXE
+files:
+- name: CANYON.TUR
+  size: 14252
+  date: '1991-07-16T12:10:22'
+  crc: '0x01617291'
+- name: CANYOND.QD1
+  size: 303104
+  date: '1991-07-16T13:59:20'
+  crc: '0x0eb238b3'
+- name: CANYOND.QD4
+  size: 315392
+  date: '1991-07-16T11:49:34'
+  crc: '0x75832441'
+- name: CONTOUR.MPQ
+  size: 84480
+  date: '1991-06-21T16:38:30'
+  crc: '0xbbdaa5ae'
+- name: EAGLE.BMP
+  size: 3200
+  date: '1991-03-19T12:26:04'
+  crc: '0xc0e03627'
+- name: FLYDEMO.EXE
+  size: 123510
+  date: '1993-05-12T21:39:28'
+  crc: '0xcae1d649'

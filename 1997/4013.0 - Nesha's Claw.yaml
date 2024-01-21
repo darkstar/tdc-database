@@ -1,0 +1,73 @@
+filename: Nesha's Claw (demo) (1997)(Hamster Republic Software) [Role-Playing (RPG)].zip
+tdc_id: '4013.0'
+title:
+  screen: Nesha's Claw
+  qualifier: demo
+publisher: Hamster Republic Software
+year: '1997'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-02T10:35:58'
+  last_modified: '2019-03-02T10:35:58'
+type: zip
+demo: true
+commands:
+  play: NESHA.EXE
+files:
+- name: ARMAMENT.ALL
+  size: 112500
+  date: '1997-01-12T22:33:24'
+  crc: '0x11debdff'
+- name: BACKDROP.ALL
+  size: 128000
+  date: '1997-03-18T18:24:26'
+  crc: '0x782247cb'
+- name: BEINGS.ALL
+  size: 113750
+  date: '1997-01-12T22:33:20'
+  crc: '0x02180c23'
+- name: GAME.DAT
+  size: 11200
+  date: '1997-10-22T18:14:04'
+  crc: '0xa5e3e11f'
+- name: MASTER.PAL
+  size: 1543
+  date: '1996-07-07T12:47:38'
+  crc: '0xe089cdec'
+- name: NAMES.COD
+  size: 3562
+  date: '1997-01-12T19:55:44'
+  crc: '0x12d5a7e7'
+- name: NESHA.DAT
+  size: 885904
+  date: '1997-01-20T11:09:24'
+  crc: '0x1832b573'
+- name: NESHA.EXE
+  size: 126908
+  date: '1997-10-22T17:52:40'
+  crc: '0xf5f79036'
+- name: NESHA.FNT
+  size: 2055
+  date: '1996-07-21T13:49:56'
+  crc: '0x061606ec'
+- name: NESHA.PAL
+  size: 167
+  date: '1997-01-12T20:32:06'
+  crc: '0xa655b540'
+- name: README.txt
+  size: 461
+  date: '2009-05-11T15:53:00'
+  crc: '0xd0a12d34'
+- name: TITLE.MXS
+  size: 192000
+  date: '1997-03-17T22:47:26'
+  crc: '0xa12deafa'
+- name: WAR.DAT
+  size: 16000
+  date: '1997-10-22T18:14:04'
+  crc: '0x61a934e0'
+- name: WAR.SET
+  size: 110
+  date: '1996-07-15T11:40:58'
+  crc: '0xff5fd4e8'

@@ -1,0 +1,30 @@
+filename: 小不点大冒险 (Zh) (1999)(Toyshop Studio) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '6421.0'
+title:
+  box: 小不点大冒险
+  translation: Little adventure
+publisher: Toyshop Studio
+year: '1999'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: Chinese
+date:
+  added: '2019-01-16T11:23:50'
+  last_modified: '2019-01-16T11:23:50'
+type: zip
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 19
+  date: '2019-01-03T15:14:16'
+  crc: '0x35feab8b'
+- name: GUO.BAS
+  size: 27594
+  date: '2019-01-03T14:52:18'
+  crc: '0x5b03034b'
+- name: QB.EXE
+  size: 278804
+  date: '2016-03-13T01:19:58'
+  crc: '0xb08bc0fe'

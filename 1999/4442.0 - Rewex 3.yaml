@@ -1,0 +1,48 @@
+filename: Rewex 3 v1.1 (1999)(Saša Vukelić) [Action].zip
+tdc_id: '4442.0'
+title:
+  screen: Rewex 3
+publisher: Saša Vukelić
+year: '1999'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:46:24'
+  last_modified: '2019-03-02T10:46:24'
+version: '1.1'
+type: zip
+commands:
+  play: REWEX3.EXE
+files:
+- name: CHOOSE.WAV
+  size: 4500
+  date: '1998-05-11T20:01:00'
+  crc: '0x661426ef'
+- name: CLEAR.WAV
+  size: 946
+  date: '1999-09-11T11:05:24'
+  crc: '0xff8d2242'
+- name: EL.WAV
+  size: 173568
+  date: '1999-09-11T18:26:30'
+  crc: '0x5ee22029'
+- name: HIT.WAV
+  size: 39972
+  date: '1999-09-11T10:49:00'
+  crc: '0xe09d50d3'
+- name: MISS.WAV
+  size: 3346
+  date: '1998-05-11T20:01:00'
+  crc: '0xc7eef877'
+- name: REWEX3.EXE
+  size: 129356
+  date: '1999-09-21T18:49:06'
+  crc: '0x3269a1b8'
+- name: SELECT.WAV
+  size: 2578
+  date: '1998-05-11T20:01:00'
+  crc: '0x78655a18'
+- name: SHOOT.WAV
+  size: 12916
+  date: '1999-09-11T10:48:16'
+  crc: '0xcebc15f5'

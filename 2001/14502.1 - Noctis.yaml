@@ -1,0 +1,178 @@
+filename: Noctis v3.1 [a1] (2001)(Home Sweet Pixel) [Adventure, Simulation].zip
+tdc_id: '14502.1'
+title:
+  screen: Noctis
+publisher: Home Sweet Pixel
+year: '2001'
+genre:
+- Adventure
+- Simulation
+language: English
+date:
+  added: '2019-03-02T10:55:36'
+  last_modified: '2019-03-02T10:55:36'
+version: '3.1'
+type: zip
+tags:
+- Alternate: 1
+commands:
+  play: GO!.EXE
+references:
+  dosid: DOS03766
+  exodos: Noctis (2001).zip
+files:
+- name: GO!.EXE
+  size: 4608
+  date: '1996-12-24T22:32:00'
+  crc: '0xf1699a93'
+- name: data\
+  size: 0
+  date: '2014-11-22T16:21:30'
+- name: data\CURRENT.BIN
+  size: 370
+  date: '2013-04-02T19:42:08'
+  crc: '0x05ab81d9'
+- name: data\GUIDE.BIN
+  size: 2420968
+  date: '1996-12-24T22:32:00'
+  crc: '0xa3ed1d93'
+- name: data\STARMAP.BIN
+  size: 708900
+  date: '1996-12-24T22:32:00'
+  crc: '0xd76accdd'
+- name: dosbox.conf
+  size: 11134
+  date: '1996-12-24T22:32:00'
+  crc: '0xeee55780'
+- name: gallery\
+  size: 0
+  date: '2014-11-22T16:21:30'
+- name: gallery\SAMPLE.BMP
+  size: 65078
+  date: '1996-12-24T22:32:00'
+  crc: '0x30631dcc'
+- name: manual\
+  size: 0
+  date: '2014-11-22T16:21:30'
+- name: manual\files\
+  size: 0
+  date: '2014-11-22T16:21:30'
+- name: manual\files\BACK.JPG
+  size: 4279
+  date: '1996-12-24T22:32:00'
+  crc: '0x8b36e91d'
+- name: manual\files\COMPUTER.GIF
+  size: 6044
+  date: '1996-12-24T22:32:00'
+  crc: '0x01ec9378'
+- name: manual\files\FELYSIA.GIF
+  size: 8588
+  date: '1996-12-24T22:32:00'
+  crc: '0xb702457d'
+- name: manual\files\GOES.GIF
+  size: 13115
+  date: '1996-12-24T22:32:00'
+  crc: '0x3cfb23a4'
+- name: manual\files\HUD.JPG
+  size: 41084
+  date: '1996-12-24T22:32:00'
+  crc: '0xf8eaef02'
+- name: manual\files\LAUNCH.JPG
+  size: 36634
+  date: '1996-12-24T22:32:00'
+  crc: '0xbb2f078b'
+- name: manual\files\NOCTIS.GIF
+  size: 8690
+  date: '1996-12-24T22:32:00'
+  crc: '0xd5c994bd'
+- name: manual\files\PULSAR.GIF
+  size: 18126
+  date: '1996-12-24T22:32:00'
+  crc: '0x9baac780'
+- name: manual\files\RYAN_BURY_-_NOCTIS.MID
+  size: 26811
+  date: '1996-12-24T22:32:00'
+  crc: '0xd42e7562'
+- name: manual\files\SD.JPG
+  size: 44069
+  date: '1996-12-24T22:32:00'
+  crc: '0x56cdd3d6'
+- name: manual\files\STAR.GIF
+  size: 7687
+  date: '1996-12-24T22:32:00'
+  crc: '0xa98f52ae'
+- name: manual\files\VIMANA.GIF
+  size: 2605
+  date: '1996-12-24T22:32:00'
+  crc: '0xac2e2ec5'
+- name: manual\noctis_iv_manual.html
+  size: 56013
+  date: '1996-12-24T22:32:00'
+  crc: '0xecb17899'
+- name: manual\shortcuts.html
+  size: 2461
+  date: '1996-12-24T22:32:00'
+  crc: '0xc95c1038'
+- name: modules\
+  size: 0
+  date: '2014-11-22T16:21:30'
+- name: modules\CAST.EXE
+  size: 15558
+  date: '1996-12-24T22:32:00'
+  crc: '0x71b550db'
+- name: modules\CAT.EXE
+  size: 15838
+  date: '1996-12-24T22:32:00'
+  crc: '0x0027b32e'
+- name: modules\CLEAN.EXE
+  size: 14920
+  date: '1996-12-24T22:32:00'
+  crc: '0x0cd083cb'
+- name: modules\DELE.EXE
+  size: 15860
+  date: '1996-12-24T22:32:00'
+  crc: '0x442f8296'
+- name: modules\DL.EXE
+  size: 32500
+  date: '1996-12-24T22:32:00'
+  crc: '0xfe2422a1'
+- name: modules\INBOX.EXE
+  size: 17814
+  date: '1996-12-24T22:32:00'
+  crc: '0x13dd073b'
+- name: modules\NOCTIS.EXE
+  size: 267016
+  date: '1996-12-24T22:32:00'
+  crc: '0x70c327a1'
+- name: modules\OUTBOX.EXE
+  size: 15806
+  date: '1996-12-24T22:32:00'
+  crc: '0x92b6f75b'
+- name: modules\PAR.EXE
+  size: 19822
+  date: '1996-12-24T22:32:00'
+  crc: '0x33afee50'
+- name: modules\PRI.EXE
+  size: 16130
+  date: '1996-12-24T22:32:00'
+  crc: '0xb17604fd'
+- name: modules\REP.EXE
+  size: 15980
+  date: '1996-12-24T22:32:00'
+  crc: '0xa4ecb887'
+- name: modules\REPAIR.EXE
+  size: 16324
+  date: '1996-12-24T22:32:00'
+  crc: '0xb1f88848'
+- name: modules\SL.EXE
+  size: 19670
+  date: '1996-12-24T22:32:00'
+  crc: '0x5c493469'
+- name: modules\ST.EXE
+  size: 29498
+  date: '1996-12-24T22:32:00'
+  crc: '0xdb340b0c'
+- name: modules\WHERE.EXE
+  size: 15144
+  date: '1996-12-24T22:32:00'
+  crc: '0x7eae6769'

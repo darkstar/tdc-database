@@ -1,0 +1,38 @@
+filename: Spoils of War, The v1.10 r920730 (Installer) [h1] (1992)(RAW Entertainment, Inc.) [Strategy].zip
+tdc_id: '6104.5'
+title:
+  box: The Spoils of War
+publisher: RAW Entertainment, Inc.
+year: '1992'
+genre: Strategy
+language: English
+date:
+  added: '2022-11-29T09:27:05'
+  last_modified: '2022-11-29T09:27:05'
+version: '1.10'
+release: '920730'
+type: zip
+tags:
+- Hack: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/spoils-of-war
+files:
+- name: INSTALL.EXE
+  size: 23490
+  date: '1992-06-15T15:33:40'
+  crc: '0x524e9f80'
+- name: PRIVATE\DISK1.EXE
+  size: 618981
+  date: '1992-07-08T00:31:48'
+  crc: '0x1390eccf'
+- name: PRIVATE\DISK2.EXE
+  size: 604833
+  date: '1992-07-30T16:09:38'
+  crc: '0x0da25bac'
+- name: PRIVATE\DISK3.EXE
+  size: 724293
+  date: '1992-07-08T00:35:16'
+  crc: '0x05ffd8dd'

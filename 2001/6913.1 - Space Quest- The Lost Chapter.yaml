@@ -1,0 +1,96 @@
+filename: Space Quest- The Lost Chapter [a1] (2001)(Vonster D Monster) [Adventure].zip
+tdc_id: '6913.1'
+title:
+  screen: 'Space Quest: The Lost Chapter'
+publisher: Vonster D Monster
+year: '2001'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-02T10:55:44'
+  last_modified: '2019-03-02T10:55:44'
+type: zip
+tags:
+- Alternate: 1
+commands:
+  play: Sqtlc.com
+references:
+  dosid: DOS07350
+  exodos: Space Quest - The Lost Chapter (2001).zip
+files:
+- name: AGI
+  size: 39424
+  date: '1986-12-04T09:33:04'
+  crc: '0x40ae7b2d'
+- name: AGIDATA.OVL
+  size: 8192
+  date: '1986-12-01T08:49:20'
+  crc: '0x477bd79b'
+- name: CGA_GRAF.OVL
+  size: 1024
+  date: '1986-12-01T08:48:44'
+  crc: '0x838c18ac'
+- name: EGA_GRAF.OVL
+  size: 1024
+  date: '1986-12-01T08:48:46'
+  crc: '0x67e8b0ad'
+- name: HGC_GRAF.OVL
+  size: 1536
+  date: '1986-12-01T08:48:48'
+  crc: '0x7c999ac8'
+- name: HGC_OBJS.OVL
+  size: 1024
+  date: '1986-12-01T08:48:52'
+  crc: '0x4232dbd7'
+- name: IBM_OBJS.OVL
+  size: 512
+  date: '1986-12-01T08:48:50'
+  crc: '0xa0a04da4'
+- name: JR_GRAF.OVL
+  size: 512
+  date: '1986-12-01T08:48:46'
+  crc: '0xdc361ea6'
+- name: LOGDIR
+  size: 768
+  date: '2001-07-18T15:30:14'
+  crc: '0xc055f242'
+- name: OBJECT
+  size: 847
+  date: '2001-02-05T11:20:38'
+  crc: '0x059540c8'
+- name: PICDIR
+  size: 768
+  date: '2001-07-18T15:17:22'
+  crc: '0xb05f1c60'
+- name: README.TXT
+  size: 2214
+  date: '2001-07-05T09:35:02'
+  crc: '0x04c50323'
+- name: SNDDIR
+  size: 210
+  date: '2001-07-18T15:17:26'
+  crc: '0x12b9ff3a'
+- name: Sqtlc.com
+  size: 3115
+  date: '1986-11-16T13:32:06'
+  crc: '0x9d4eb9a4'
+- name: VG_GRAF.OVL
+  size: 512
+  date: '1986-12-01T08:48:50'
+  crc: '0xca491b69'
+- name: VIEWDIR
+  size: 768
+  date: '2001-07-18T15:17:24'
+  crc: '0xa1b3a055'
+- name: VOL.0
+  size: 1043539
+  date: '2001-07-18T15:17:22'
+  crc: '0x96f92069'
+- name: VOL.1
+  size: 589286
+  date: '2001-07-18T15:30:14'
+  crc: '0x8dd300e6'
+- name: WORDS.TOK
+  size: 3429
+  date: '2001-04-10T11:09:10'
+  crc: '0x73a90362'

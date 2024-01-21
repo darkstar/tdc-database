@@ -1,0 +1,29 @@
+filename: Sorcerer r4 [DC] (1984)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '6862.2'
+parent_id: '6862.4'
+title:
+  box: Sorcerer
+publisher: Infocom, Inc.
+year: '1984'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2022-06-07T14:55:32'
+  last_modified: '2022-06-07T14:55:32'
+release: '4'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: SORCERER.COM
+files:
+- name: SORCERER.COM
+  size: 12928
+  date: '1980-01-01T00:00:00'
+  crc: '0x0ea56153'
+- name: SORCERER.DAT
+  size: 129728
+  date: '1980-01-01T00:02:54'
+  crc: '0x628d813a'

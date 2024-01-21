@@ -1,0 +1,30 @@
+filename: Pirates! v432.04 (1993)(MicroProse Software, Inc., Multimedia Products Corp.) [Action, Role-Playing (RPG)].zip
+tdc_id: '5973.6'
+parent_id: '7683.1'
+title:
+  box: Pirates!
+publisher: MicroProse Software, Inc., Multimedia Products Corp.
+year: '1993'
+genre:
+- Action
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2023-10-19T08:53:30'
+  last_modified: '2023-10-19T08:53:30'
+version: '432.04'
+type: zip
+media: CD-ROM
+commands:
+  play: PIRATES.EXE
+references:
+  mobygames: https://www.mobygames.com/game/214/sid-meiers-pirates/
+files:
+- name: PIRATES.EXE
+  size: 13547
+  date: '1993-01-25T10:08:26'
+  crc: '0xef106adc'
+- name: PIRATES.FIL
+  size: 766976
+  date: '1993-01-29T16:06:02'
+  crc: '0x8665125d'

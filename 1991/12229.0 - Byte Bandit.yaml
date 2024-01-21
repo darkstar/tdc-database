@@ -1,0 +1,31 @@
+filename: Byte Bandit (1991)(Rinzai Satori) [Simulation].zip
+tdc_id: '12229.0'
+title:
+  screen: Byte Bandit
+publisher: Rinzai Satori
+year: '1991'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:35:08'
+  last_modified: '2019-03-01T18:35:08'
+type: zip
+commands:
+  play: BANDIT.EXE
+files:
+- name: BANDIT.DOC
+  size: 9916
+  date: '1991-05-02T15:16:12'
+  crc: '0x4ea70b8b'
+- name: BANDIT.EXE
+  size: 86128
+  date: '1991-05-02T15:11:28'
+  crc: '0xcbaedb35'
+- name: BANDIT.PCX
+  size: 42225
+  date: '1991-05-02T12:47:00'
+  crc: '0x067156b1'
+- name: LOGO.RSP
+  size: 28770
+  date: '1990-12-08T20:49:54'
+  crc: '0x76a244ef'

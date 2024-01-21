@@ -1,0 +1,36 @@
+filename: Mondo Math v1.0L [SW] (1993)(Dan Illowsky) [Action, Educational].zip
+tdc_id: '2742.0'
+title:
+  screen: Mondo Math
+publisher: Dan Illowsky
+year: '1993'
+genre:
+- Action
+- Educational
+language: English
+date:
+  added: '2016-11-19T17:14:46'
+  last_modified: '2023-09-20T07:22:11'
+version: 1.0L
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: MMATH.EXE
+references:
+  dosid: DOS16062
+  exodos: Mondo Math (1993).zip
+files:
+- name: FILE_ID.DIZ
+  size: 251
+  date: '1993-01-17T21:31:50'
+  crc: '0x74f79f96'
+- name: MMATH.EXE
+  size: 149200
+  date: '1993-01-17T21:42:54'
+  crc: '0x01c26f9b'
+- name: README
+  size: 11669
+  date: '1993-01-17T21:26:00'
+  crc: '0xdca1d4fc'

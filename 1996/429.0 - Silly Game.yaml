@@ -1,0 +1,28 @@
+filename: Silly Game (1996)(Andrew Jones) [Action].zip
+tdc_id: '429.0'
+title:
+  screen: Silly Game
+publisher: Andrew Jones
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:18:24'
+  last_modified: '2019-03-02T10:18:24'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: ARG.BAS
+  size: 2049
+  date: '2018-03-09T21:06:48'
+  crc: '0x60f6752f'
+- name: GO.BAT
+  size: 23
+  date: '2018-03-11T15:38:32'
+  crc: '0x4c3b8ff4'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'

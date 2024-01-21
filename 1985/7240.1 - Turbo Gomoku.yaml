@@ -1,0 +1,27 @@
+filename: Turbo Gomoku (De) (1985)(Borland International) [Strategy].zip
+tdc_id: '7240.1'
+title:
+  screen: Turbo Gomoku
+publisher: Borland International
+year: '1985'
+genre: Strategy
+language: German
+date:
+  added: '2019-03-01T18:24:36'
+  last_modified: '2019-03-01T18:24:36'
+type: zip
+commands:
+  play: GO-MOKU.COM
+files:
+- name: GO-HELP.INC
+  size: 8370
+  date: '1988-05-26T18:45:52'
+  crc: '0xc3700312'
+- name: GO-MOKU.COM
+  size: 21062
+  date: '1988-05-26T18:46:08'
+  crc: '0xae580b54'
+- name: GO-MOKU.HLP
+  size: 718
+  date: '1988-05-26T10:46:16'
+  crc: '0x4c5b1496'

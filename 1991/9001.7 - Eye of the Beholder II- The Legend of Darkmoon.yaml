@@ -1,0 +1,54 @@
+filename: Eye of the Beholder II- The Legend of Darkmoon v1.1 (Installer) (1991)(Strategic Simulations, Inc.) [Adventure, Role-Playing (RPG)][!].zip
+tdc_id: '9001.7'
+parent_id: '9001.10'
+title:
+  box: 'Eye of the Beholder II: The Legend of Darkmoon'
+  qualifier: Installer
+publisher: Strategic Simulations, Inc.
+year: '1991'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:35:52'
+  last_modified: '2023-10-14T11:38:59'
+version: '1.1'
+type: zip
+tags:
+- KnownGood
+media: 720K
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/307/eye-of-the-beholder-ii-the-legend-of-darkmoon/
+files:
+- name: EOB1.EXE
+  size: 327512
+  date: '1992-01-03T11:55:14'
+  crc: '0x4718b929'
+- name: EOB2.EXE
+  size: 340223
+  date: '1992-01-03T11:55:16'
+  crc: '0x369698e6'
+- name: EOB3.EXE
+  size: 339633
+  date: '1992-01-03T11:55:20'
+  crc: '0x5a9c9068'
+- name: EOB4.EXE
+  size: 348910
+  date: '1992-01-03T11:55:24'
+  crc: '0xdd19ffa8'
+- name: EOB5.EXE
+  size: 356744
+  date: '1992-01-03T11:55:26'
+  crc: '0x0c5932c5'
+- name: EOB6.EXE
+  size: 320497
+  date: '1992-01-03T11:55:30'
+  crc: '0x3f85e302'
+- name: INSTALL.EXE
+  size: 29852
+  date: '1991-12-04T14:34:20'
+  crc: '0xc3b1e3e0'

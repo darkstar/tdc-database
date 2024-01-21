@@ -1,0 +1,57 @@
+filename: Formula Phat- Speedsters (2001)(Phat Games) [Action, Racing - Driving].zip
+tdc_id: '13742.0'
+title:
+  screen: 'Formula Phat: Speedsters'
+publisher: Phat Games
+year: '2001'
+genre:
+- Action
+- Racing - Driving
+language: English
+date:
+  added: '2019-03-02T10:55:18'
+  last_modified: '2019-03-02T10:55:18'
+type: zip
+commands:
+  play: FORMULAP.EXE
+files:
+- name: BACKDROP.bmp
+  size: 5174
+  date: '2001-01-07T17:24:00'
+  crc: '0xbf5cc1b9'
+- name: EDITOR.BAS
+  size: 13013
+  date: '2001-01-07T15:47:42'
+  crc: '0x7413a87f'
+- name: FORMULAP.EXE
+  size: 95318
+  date: '2001-01-16T16:14:36'
+  crc: '0x466f33a4'
+- name: HIGHSCR.DAT
+  size: 141
+  date: '2001-10-22T19:59:18'
+  crc: '0x4bf3c40b'
+- name: LEVEL1.LEV
+  size: 22729
+  date: '2001-01-16T15:46:00'
+  crc: '0xf037387e'
+- name: QB.INI
+  size: 89
+  date: '2000-12-20T12:29:18'
+  crc: '0x541dabf0'
+- name: Readme.txt
+  size: 1818
+  date: '2001-01-16T16:17:06'
+  crc: '0x79413138'
+- name: TILES.bmp
+  size: 11318
+  date: '2001-01-16T14:41:26'
+  crc: '0x872ef9ec'
+- name: TITLE.bmp
+  size: 65078
+  date: '2001-01-16T15:50:12'
+  crc: '0x68889b4b'
+- name: formulap.bas
+  size: 15921
+  date: '2001-01-16T15:47:12'
+  crc: '0xe38daab4'

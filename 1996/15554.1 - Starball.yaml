@@ -1,0 +1,150 @@
+filename: Starball v1.20 (Installer) (En)(Fr)(De) (1996)(GameTek, Inc.) [Simulation, Action].zip
+tdc_id: '15554.1'
+title:
+  box: Starball
+publisher: GameTek, Inc.
+year: '1996'
+genre:
+- Simulation
+- Action
+language:
+- English
+- French
+- German
+date:
+  added: '2021-04-21T13:49:14'
+  last_modified: '2021-04-21T13:49:14'
+version: '1.20'
+type: zip
+installer: true
+references:
+  dosid: DOS04796
+  exodos: Starball (1995).zip
+files:
+- name: EXE\
+  size: 0
+  date: '1996-01-16T08:10:20'
+- name: EXE\BOOT.TAB
+  size: 2416
+  date: '1996-01-10T09:20:02'
+  crc: '0xa65a971f'
+- name: EXE\BS1.TAB
+  size: 122844
+  date: '1996-01-10T09:19:48'
+  crc: '0xc4686bab'
+- name: EXE\BS2.TAB
+  size: 179328
+  date: '1996-01-10T09:19:52'
+  crc: '0xbaab57de'
+- name: EXE\BS3.TAB
+  size: 136096
+  date: '1996-01-10T09:19:52'
+  crc: '0xf2016ac9'
+- name: EXE\BS4.TAB
+  size: 277748
+  date: '1996-01-10T09:19:56'
+  crc: '0xa306b254'
+- name: EXE\BS5.TAB
+  size: 292380
+  date: '1996-01-10T09:19:58'
+  crc: '0x50020182'
+- name: EXE\BSBOARD.TAB
+  size: 81728
+  date: '1996-01-10T09:20:00'
+  crc: '0x2e75dea3'
+- name: EXE\CONTROL.TAB
+  size: 100960
+  date: '1996-01-15T14:45:00'
+  crc: '0xef6f0ba2'
+- name: EXE\DOS4GW.EXE
+  size: 265420
+  date: '1994-09-01T05:00:00'
+  crc: '0xcb214447'
+- name: EXE\FRENCH.FAQ
+  size: 7120
+  date: '1996-01-10T11:54:08'
+  crc: '0xdc5acaf3'
+- name: EXE\GAMETEK.TAB
+  size: 65192
+  date: '1996-01-10T09:20:06'
+  crc: '0x2a78f13c'
+- name: EXE\GERMAN.FAQ
+  size: 9188
+  date: '1996-01-10T08:27:38'
+  crc: '0xea72275b'
+- name: EXE\GPATCH.DAT
+  size: 6431
+  date: '1995-09-01T06:02:06'
+  crc: '0xd4a1099f'
+- name: EXE\HISCORE.TAB
+  size: 65604
+  date: '1996-01-10T09:20:02'
+  crc: '0x615fd759'
+- name: EXE\INSTALL.DAT
+  size: 3116
+  date: '1996-01-16T08:07:28'
+  crc: '0xb0819515'
+- name: EXE\INSTALL.EXE
+  size: 47140
+  date: '1996-01-15T15:33:10'
+  crc: '0xff016a2f'
+- name: EXE\INTRO1.TAB
+  size: 67738
+  date: '1996-01-10T15:16:54'
+  crc: '0xa1a2513c'
+- name: EXE\MAIN.TAB
+  size: 746274
+  date: '1996-01-12T11:58:22'
+  crc: '0x84967948'
+- name: EXE\MIDIINS.DAT
+  size: 6302
+  date: '1995-09-29T06:01:04'
+  crc: '0x5ad2a8a2'
+- name: EXE\MUSIC.MF
+  size: 99664
+  date: '1995-10-06T17:03:36'
+  crc: '0xaab18be1'
+- name: EXE\QZ.DAT
+  size: 6346
+  date: '1995-09-28T11:07:38'
+  crc: '0xe8a674e3'
+- name: EXE\RFE.DAT
+  size: 26275
+  date: '1996-01-11T08:30:38'
+  crc: '0xfdbf429f'
+- name: EXE\RFF.DAT
+  size: 20343
+  date: '1996-01-10T20:22:10'
+  crc: '0x94b8af8b'
+- name: EXE\RFG.DAT
+  size: 21284
+  date: '1996-01-10T20:34:14'
+  crc: '0x76c55a70'
+- name: EXE\SOUND.TAB
+  size: 72956
+  date: '1996-01-10T09:20:06'
+  crc: '0x97622be0'
+- name: EXE\STARBALL.EXE
+  size: 200293
+  date: '1996-01-15T15:32:42'
+  crc: '0xabc55a8f'
+- name: EXE\STARBALL.FAQ
+  size: 8731
+  date: '1996-01-10T08:36:08'
+  crc: '0x87fcc15b'
+- name: EXE\SYSTEM.SB
+  size: 656664
+  date: '1995-09-28T12:32:24'
+  crc: '0x747922b2'
+- name: EXE\TISYS.DAT
+  size: 38532
+  date: '1996-01-10T20:06:56'
+  crc: '0x97419e0d'
+- name: INSTALL.BAT
+  size: 19
+  date: '1995-10-01T14:50:36'
+  crc: '0x6df0e913'
+- name: STARBALL.BAT
+  size: 203
+  date: '1995-10-01T16:12:08'
+  crc: '0x04eeb0dc'

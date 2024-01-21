@@ -1,0 +1,34 @@
+filename: Air Attack (Tandy 1000) [f1] (1988)(Brooks deForest) [Action].zip
+tdc_id: '8177.0'
+title:
+  screen: Air Attack
+  qualifier: Tandy 1000
+publisher: Brooks deForest
+year: '1988'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:25:52'
+  last_modified: '2019-03-01T18:25:52'
+type: zip
+tags:
+- Fixed: 1
+media: Download
+commands:
+  play: BASIC.EXE
+references:
+  dosid: DOS07551
+  exodos: Air Attack! (1988).zip
+files:
+- name: BASIC.EXE
+  size: 68672
+  date: '2016-03-23T20:48:02'
+  crc: '0x0999e916'
+- name: BASICA.COM
+  size: 942
+  date: '2016-03-23T20:48:10'
+  crc: '0x5978f665'
+- name: bomber.bas
+  size: 3201
+  date: '2016-03-23T21:31:38'
+  crc: '0xc396635c'

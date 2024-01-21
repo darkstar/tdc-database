@@ -1,0 +1,28 @@
+filename: Game22 (1995)(Edward L. Blake) [Action].zip
+tdc_id: '3539.0'
+title:
+  screen: Game22
+publisher: Edward L. Blake
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T08:44:18'
+  last_modified: '2019-03-02T08:44:18'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GAME22.BAS
+  size: 1972
+  date: '2018-03-10T15:05:42'
+  crc: '0x0498cae5'
+- name: GO.BAT
+  size: 26
+  date: '2018-11-28T20:49:14'
+  crc: '0x84a5aded'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

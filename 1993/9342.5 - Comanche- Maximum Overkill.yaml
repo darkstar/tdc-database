@@ -1,0 +1,33 @@
+filename: Comanche- Maximum Overkill version 1.3 upgrade (1993)(Softgold Computerspiele GmbH) [Action, Simulation, Addon].zip
+tdc_id: '9342.5'
+title:
+  screen: 'Comanche: Maximum Overkill'
+publisher: Softgold Computerspiele GmbH
+year: '1993'
+genre:
+- Action
+- Simulation
+- Addon
+language: English
+date:
+  added: '2019-03-01T19:01:58'
+  last_modified: '2019-03-01T19:01:58'
+type: zip
+patch: true
+files:
+- name: COMANCHE.CFG
+  size: 10
+  date: '1994-02-05T23:52:16'
+  crc: '0x2e6c6377'
+- name: COMANCHE.EXE
+  size: 67221
+  date: '1993-12-18T17:51:54'
+  crc: '0x491e4393'
+- name: COMANCHE.MNU
+  size: 43
+  date: '1993-11-09T11:37:08'
+  crc: '0xae25f624'
+- name: SOUNDSET.EXE
+  size: 5180
+  date: '1993-11-17T00:10:02'
+  crc: '0x9cb30861'

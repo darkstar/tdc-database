@@ -1,0 +1,42 @@
+filename: Mr. Cool (PCjr) [DC] (1984)(Sierra On-Line, Inc.) [Action].zip
+tdc_id: '7932.0'
+title:
+  box: Mr. Cool
+  qualifier: PCjr
+publisher: Sierra On-Line, Inc.
+year: '1984'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:12'
+  last_modified: '2019-03-01T18:24:12'
+type: zip
+tags:
+- DOSConversion
+requirements:
+  cpu:
+    min: '8088'
+references:
+  dosid: DOS07281
+  exodos: Mr. Cool (1983).zip
+files:
+- name: HIGH
+  size: 512
+  date: '2012-12-29T13:17:48'
+  crc: '0x76b4a87f'
+- name: MAIN.EXE
+  size: 36400
+  date: '1984-04-16T10:31:46'
+  crc: '0xad158758'
+- name: MAINJR.EXE
+  size: 36496
+  date: '1984-04-16T10:56:20'
+  crc: '0x86648f15'
+- name: README.TXT
+  size: 390
+  date: '2012-12-29T14:23:00'
+  crc: '0xdbed1810'
+- name: START.COM
+  size: 1554
+  date: '2012-12-29T13:36:14'
+  crc: '0xf2f271d5'

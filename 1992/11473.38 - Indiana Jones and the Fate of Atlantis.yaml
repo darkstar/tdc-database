@@ -1,0 +1,49 @@
+filename: Indiana Jones and the Fate of Atlantis (demo) (1992)(Softgold Computerspiele GmbH) [Adventure].zip
+tdc_id: '11473.38'
+parent_id: '11473.37'
+title:
+  screen: Indiana Jones and the Fate of Atlantis
+  qualifier: demo
+publisher: Softgold Computerspiele GmbH
+year: '1992'
+genre: Adventure
+language: English
+date:
+  added: '2023-12-07T12:57:29'
+  last_modified: '2023-12-07T12:57:29'
+type: zip
+media: Download
+demo: true
+commands:
+  play: PLAYFATE.EXE
+references:
+  mobygames: https://www.mobygames.com/game/316/indiana-jones-and-the-fate-of-atlantis/
+files:
+- name: ADLIB.IMS
+  size: 20736
+  date: '1992-04-10T13:20:44'
+  crc: '0x178fac5a'
+- name: PLAYFATE.000
+  size: 12030
+  date: '1992-04-10T13:20:44'
+  crc: '0xff19fa0b'
+- name: PLAYFATE.001
+  size: 925262
+  date: '1992-04-10T13:20:44'
+  crc: '0x6a102dea'
+- name: PLAYFATE.EXE
+  size: 112475
+  date: '1992-04-10T13:20:44'
+  crc: '0x3493bbb4'
+- name: ROLAND.IMS
+  size: 18976
+  date: '1992-04-10T13:20:44'
+  crc: '0xedc7f11f'
+- name: SOUNBLAS.IMS
+  size: 24920
+  date: '1992-04-10T13:20:44'
+  crc: '0x6916c083'
+- name: SPEAKER.IMS
+  size: 20078
+  date: '1992-04-10T13:20:44'
+  crc: '0x30390c69'

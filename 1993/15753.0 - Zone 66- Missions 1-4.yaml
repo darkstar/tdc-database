@@ -1,0 +1,37 @@
+filename: Zone 66- Missions 1-4 (Installer) [SWR] (1993)(Epic MegaGames, Inc.) [Action].zip
+tdc_id: '15753.0'
+title:
+  screen: 'Zone 66: Missions 1-4'
+publisher: Epic MegaGames, Inc.
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T21:12:48'
+  last_modified: '2019-03-01T21:12:48'
+type: zip
+tags:
+- SharewareRegistered
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK2\
+  size: 0
+  date: '2014-11-24T12:53:32'
+- name: DISK2\ZONE66A.PAK
+  size: 980381
+  date: '1993-03-18T18:17:40'
+  crc: '0xda0b19e7'
+- name: INSTALL.EXE
+  size: 31464
+  date: '1992-08-21T20:34:20'
+  crc: '0x08c1de75'
+- name: INSTALL.FIL
+  size: 1856
+  date: '1993-03-18T18:08:34'
+  crc: '0x003275f1'
+- name: ZONE66A.PAK
+  size: 1420910
+  date: '1993-03-18T18:13:54'
+  crc: '0xd0b8a71a'

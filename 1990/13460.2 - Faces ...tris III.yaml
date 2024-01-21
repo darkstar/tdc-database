@@ -1,0 +1,98 @@
+filename: Faces ...tris III (demo) (1990)(Spectrum HoloByte, Inc.) [Strategy].zip
+tdc_id: '13460.2'
+parent_id: '13460.5'
+title:
+  screen: Faces ...tris III
+  qualifier: demo
+publisher: Spectrum HoloByte, Inc.
+year: '1990'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:32:34'
+  last_modified: '2019-03-01T18:32:34'
+type: zip
+demo: true
+commands:
+  play: FACE.EXE
+files:
+- name: AGC.BIN
+  size: 5977
+  date: '1990-05-17T17:46:08'
+  crc: '0x8458939f'
+- name: AGE.BIN
+  size: 10530
+  date: '1990-05-15T19:37:24'
+  crc: '0x7ae1a808'
+- name: AGV.BIN
+  size: 5675
+  date: '1990-05-15T19:36:14'
+  crc: '0x9bdfc47d'
+- name: BKGRMAP.CMP
+  size: 8394
+  date: '1990-04-26T13:37:26'
+  crc: '0x98bbcb6a'
+- name: EFACEL1.CMP
+  size: 5952
+  date: '1990-05-11T15:55:44'
+  crc: '0x4d09e491'
+- name: EFSELECT.CMP
+  size: 21934
+  date: '1990-04-11T17:41:28'
+  crc: '0x15b12c8f'
+- name: EHISCORE.CMP
+  size: 15448
+  date: '1990-04-26T18:17:04'
+  crc: '0x52de46ab'
+- name: EPATTERN.CMP
+  size: 998
+  date: '1990-05-11T18:05:12'
+  crc: '0xb77927a8'
+- name: ETITLE.CMP
+  size: 15455
+  date: '1990-05-08T11:12:14'
+  crc: '0xf3324699'
+- name: FACE.EXE
+  size: 63301
+  date: '1990-05-21T19:29:30'
+  crc: '0xd9dd79dd'
+- name: FACEINFS.BIN
+  size: 8792
+  date: '1990-05-11T17:28:00'
+  crc: '0xc3c72289'
+- name: FACEL1.CMP
+  size: 8959
+  date: '1990-05-11T15:34:36'
+  crc: '0xdadc8b18'
+- name: FSELECT.CMP
+  size: 33889
+  date: '1990-04-27T11:45:58'
+  crc: '0xe3286eca'
+- name: HISCORE.BIN
+  size: 220
+  date: '1990-05-21T11:57:42'
+  crc: '0x228ccb34'
+- name: MAIN0.CMP
+  size: 5493
+  date: '1990-05-11T10:39:48'
+  crc: '0x605d88d2'
+- name: UFHEADER.BIN
+  size: 566
+  date: '1990-04-06T15:58:56'
+  crc: '0xb2d23961'
+- name: VHISCORE.CMP
+  size: 59670
+  date: '1990-04-26T15:53:06'
+  crc: '0xa8cb9d26'
+- name: VPATTERN.CMP
+  size: 2006
+  date: '1990-05-11T18:06:52'
+  crc: '0x21359bc4'
+- name: VTITLE.CMP
+  size: 45778
+  date: '1990-05-08T11:03:52'
+  crc: '0x9f8ec5a2'
+- name: YDNAT.BIN
+  size: 5546
+  date: '1990-05-15T19:38:14'
+  crc: '0x06c75f34'

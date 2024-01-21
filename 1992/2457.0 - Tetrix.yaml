@@ -1,0 +1,26 @@
+filename: Tetrix v1.30 (Cs) (1992)(Miroslav Němeček) [Action, Strategy].zip
+tdc_id: '2457.0'
+title:
+  screen: Tetrix
+publisher: Miroslav Němeček
+year: '1992'
+genre:
+- Action
+- Strategy
+language: Czech
+date:
+  added: '2019-03-01T18:51:50'
+  last_modified: '2019-03-01T18:51:50'
+version: '1.30'
+type: zip
+commands:
+  play: TETRIX.EXE
+files:
+- name: TETRIX.DAT
+  size: 244
+  date: '1999-01-17T16:38:36'
+  crc: '0x399f8fa0'
+- name: TETRIX.EXE
+  size: 13874
+  date: '1992-07-01T01:30:00'
+  crc: '0x84ee8bfc'

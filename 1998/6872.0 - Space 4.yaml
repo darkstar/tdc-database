@@ -1,0 +1,28 @@
+filename: Space 4 (1998)(Alex Knight-Percival) [Action].zip
+tdc_id: '6872.0'
+title:
+  screen: Space 4
+publisher: Alex Knight-Percival
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:44:36'
+  last_modified: '2019-03-02T10:44:36'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 26
+  date: '2018-11-21T20:19:08'
+  crc: '0xbc4332e1'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: SPACE4.BAS
+  size: 67954
+  date: '1998-09-04T17:31:42'
+  crc: '0x8b548097'

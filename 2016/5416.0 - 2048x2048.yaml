@@ -1,0 +1,35 @@
+filename: 2048x2048 [FW] (2016)(Loren Blaney) [Strategy, Puzzle].zip
+tdc_id: '5416.0'
+title:
+  screen: 2048x2048
+publisher: Loren Blaney
+year: '2016'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2017-10-03T15:18:46'
+  last_modified: '2017-10-03T15:18:46'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: 2048.com
+references:
+  dosid: DOS07769
+  exodos: 2048x2048 (2016).zip
+files:
+- name: 2048.asm
+  size: 5326
+  date: '2016-09-16T14:02:02'
+  crc: '0xc3551b2c'
+- name: 2048.com
+  size: 256
+  date: '2016-09-15T15:46:42'
+  crc: '0x8576f613'
+- name: file_id.diz
+  size: 153
+  date: '2016-09-16T14:01:22'
+  crc: '0x5b83ce01'

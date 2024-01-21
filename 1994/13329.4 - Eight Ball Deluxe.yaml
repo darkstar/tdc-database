@@ -1,0 +1,56 @@
+filename: Eight Ball Deluxe v2.0 (1994)(Amtex Software Corporation) [Action, Simulation].zip
+tdc_id: '13329.4'
+parent_id: '13329.5'
+title:
+  box: Eight Ball Deluxe
+publisher: Amtex Software Corporation
+year: '1994'
+genre:
+- Action
+- Simulation
+language: English
+date:
+  added: '2019-03-01T21:56:22'
+  last_modified: '2023-07-27T22:06:14'
+version: '2.0'
+type: zip
+commands:
+  play: 8BALLDLX.EXE
+references:
+  mobygames: https://www.mobygames.com/game/9689/eight-ball-deluxe/
+files:
+- name: 8BALLDLX.EXE
+  size: 235458
+  date: '2013-12-31T17:50:32'
+  crc: '0xdb47c984'
+- name: CLEAN.TXT
+  size: 1816
+  date: '2013-12-31T17:50:26'
+  crc: '0x24c9dbe1'
+- name: DATA
+  size: 2705588
+  date: '2013-12-31T17:54:02'
+  crc: '0xb45d0ad4'
+- name: README.TXT
+  size: 14736
+  date: '2013-12-31T17:50:26'
+  crc: '0x56ee5ef7'
+- name: SERIAL
+  size: 13
+  date: '2013-12-31T17:50:26'
+  crc: '0xd093caae'
+- name: SETTINGS
+  size: 9
+  date: '2013-12-31T17:50:26'
+  crc: '0x16405b73'
+- name: VESA\
+  size: 0
+  date: '2013-12-31T17:51:04'
+- name: VESA\UNIVESA.ZIP
+  size: 23226
+  date: '2013-12-31T17:51:04'
+  crc: '0xb6325634'
+- name: VESA\VESADRV2.ZIP
+  size: 81185
+  date: '2013-12-31T17:51:06'
+  crc: '0x44a4800b'

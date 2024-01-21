@@ -1,0 +1,78 @@
+filename: Moonstone- A Hard Days Knight (Installer) (1992)(Mindscape International Ltd.) [Action, Role-Playing (RPG)][!].zip
+tdc_id: '14332.1'
+title:
+  box: 'Moonstone: A Hard Days Knight'
+publisher: Mindscape International Ltd.
+year: '1992'
+genre:
+- Action
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:49:34'
+  last_modified: '2022-10-06T11:21:30'
+type: zip
+tags:
+- KnownGood
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/moonstone-a-hard-days-knight
+files:
+- name: DI1.QPZ
+  size: 4
+  date: '1992-09-25T22:10:08'
+  crc: '0x16503e85'
+- name: DI2.QPZ
+  size: 4
+  date: '1992-09-25T22:11:14'
+  crc: '0x16503e85'
+- name: INSTALL.EXE
+  size: 40134
+  date: '1992-09-25T21:57:18'
+  crc: '0x02c32433'
+- name: MINDLOGO
+  size: 12003
+  date: '1992-04-28T11:44:02'
+  crc: '0x42599dc1'
+- name: MOON01.TZF
+  size: 414957
+  date: '1992-09-25T20:21:28'
+  crc: '0xebc47f6e'
+- name: MOON02.TZF
+  size: 146045
+  date: '1992-09-25T20:21:38'
+  crc: '0xbe9efa46'
+- name: MOON03.TZF
+  size: 160879
+  date: '1992-09-25T20:21:52'
+  crc: '0xfcef84cd'
+- name: MOON04.TZF
+  size: 378979
+  date: '1992-09-25T20:22:12'
+  crc: '0xdbb5fa6d'
+- name: MOON05.TZF
+  size: 345456
+  date: '1992-09-25T20:22:32'
+  crc: '0xe9c90fb5'
+- name: MOON06.TZF
+  size: 380191
+  date: '1992-09-25T20:22:54'
+  crc: '0xab37f12a'
+- name: MOON07.TZF
+  size: 261337
+  date: '1992-09-25T20:23:10'
+  crc: '0xad5801da'
+- name: MS.BAT
+  size: 172
+  date: '1992-09-23T16:25:36'
+  crc: '0xc757ccba'
+- name: VIEW.EXE
+  size: 18636
+  date: '1992-09-23T15:05:12'
+  crc: '0xe6438ac4'
+- name: VIEWFILE
+  size: 102
+  date: '1992-09-23T12:56:38'
+  crc: '0xdbaa1266'

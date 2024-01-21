@@ -1,0 +1,50 @@
+filename: Planet Football (Installer) (En)(Fr)(Es)(It)(De) (1994)(Infogrames Europe SA) [Action, Sports].zip
+tdc_id: '10447.0'
+title:
+  box: Planet Football
+  qualifier: Installer
+publisher: Infogrames Europe SA
+year: '1994'
+genre:
+- Action
+- Sports
+language:
+- English
+- Spanish
+- French
+- Italian
+- German
+date:
+  added: '2019-08-12T23:07:28'
+  last_modified: '2023-05-16T16:31:13'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/4799/planet-soccer/
+files:
+- name: DISK1
+  size: 1321984
+  date: '1994-07-15T01:07:48'
+  crc: '0xa46b6ebf'
+- name: DISK2
+  size: 1430528
+  date: '1994-07-15T01:09:20'
+  crc: '0x6adb60df'
+- name: DISK3
+  size: 816745
+  date: '1994-07-15T01:10:12'
+  crc: '0x116d8a29'
+- name: INSTALL.EXE
+  size: 132150
+  date: '1994-05-20T07:23:36'
+  crc: '0xdd6624b1'
+- name: INSTALL.EX_
+  size: 132150
+  date: '1994-05-20T07:23:36'
+  crc: '0xab1e7944'
+- name: TSIZE
+  size: 12
+  date: '1994-07-15T01:06:54'
+  crc: '0xe4e65d27'

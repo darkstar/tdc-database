@@ -1,0 +1,28 @@
+filename: Mario Bros. (1996)(John Wantland) [Action].zip
+tdc_id: '11142.0'
+title:
+  screen: Mario Bros.
+publisher: John Wantland
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:13:08'
+  last_modified: '2019-03-02T10:13:08'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 25
+  date: '2018-03-12T21:51:02'
+  crc: '0xe5283932'
+- name: MARIO.BAS
+  size: 4712
+  date: '2018-03-10T00:56:04'
+  crc: '0x839cc02d'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'

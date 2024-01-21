@@ -1,0 +1,30 @@
+filename: Lost in the Sahara (1991)(Matthew Bailey) [Adventure, Interactive Fiction].zip
+tdc_id: '709.0'
+title:
+  screen: Lost in the Sahara
+publisher: Matthew Bailey
+year: '1991'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:36:40'
+  last_modified: '2019-03-01T18:36:40'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GETWATER.BAS
+  size: 12032
+  date: '1991-03-28T20:05:26'
+  crc: '0x9b773ef6'
+- name: GO.BAT
+  size: 24
+  date: '2019-01-13T11:11:32'
+  crc: '0xbe12b31f'
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1988-10-05T02:00:08'
+  crc: '0x2a44af39'

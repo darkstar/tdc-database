@@ -1,0 +1,42 @@
+filename: Nippon Safes, Inc. (Installer) (It) (1992)(Dynabyte) [Adventure].zip
+tdc_id: '14482.3'
+title:
+  box: I Nippon Safesnc.
+publisher: Dynabyte
+year: '1992'
+genre: Adventure
+language: Italian
+date:
+  added: '2019-03-01T18:49:40'
+  last_modified: '2022-11-22T10:24:28'
+type: zip
+installer: true
+commands:
+  play: INSTALL.BAT
+references:
+  mobygames: https://www.mobygames.com/game/dos/nippon-safes-inc
+files:
+- name: ARJ.EXE
+  size: 104614
+  date: '1992-01-19T23:51:54'
+  crc: '0xab52ea0c'
+- name: COPIA.BAT
+  size: 718
+  date: '1992-02-06T00:04:56'
+  crc: '0x7f634da1'
+- name: DISCO1.ARJ
+  size: 422391
+  date: '1992-02-06T00:29:52'
+  crc: '0x600ca095'
+- name: DISCO2.ARJ
+  size: 700692
+  date: '1992-02-06T00:15:20'
+  crc: '0x2d4a4f8b'
+- name: DISCO3.ARJ
+  size: 610225
+  date: '1992-02-08T00:02:24'
+  crc: '0x0e18a893'
+- name: INSTALL.BAT
+  size: 84
+  date: '1992-02-02T16:58:34'
+  crc: '0xf20d6d52'

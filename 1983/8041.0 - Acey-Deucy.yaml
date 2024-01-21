@@ -1,0 +1,32 @@
+filename: Acey-Deucy [SW] (1983)(Dynacomp Inc.) [Strategy, Cards].zip
+tdc_id: '8041.0'
+title:
+  screen: Acey-Deucy
+publisher: Dynacomp Inc.
+year: '1983'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-09-02T05:03:26'
+  last_modified: '2019-09-02T05:03:26'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: ACIE.BAT
+files:
+- name: ACIE.BAS
+  size: 3200
+  date: '1983-01-23T13:00:00'
+  crc: '0xe21846fd'
+- name: ACIE.BAT
+  size: 14
+  date: '1980-01-01T12:00:00'
+  crc: '0x4d2a2119'
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T12:00:00'
+  crc: '0x92293842'

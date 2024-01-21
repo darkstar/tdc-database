@@ -1,0 +1,62 @@
+filename: Wacky Wheels v1.1 (Installer) [SW][a2] (1994)(Apogee Software, Ltd.) [Action].zip
+tdc_id: '7453.28'
+title:
+  screen: Wacky Wheels
+  qualifier: Installer
+publisher: Apogee Software, Ltd.
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2023-03-14T15:50:17'
+  last_modified: '2023-03-14T15:50:17'
+version: '1.1'
+type: zip
+tags:
+- Shareware
+- Alternate: 2
+media: 720K
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: CATALOG.EXE
+  size: 68891
+  date: '1994-10-17T00:00:00'
+  crc: '0xaf5fd2fc'
+- name: DEALERS.EXE
+  size: 9307
+  date: '1994-10-17T00:00:00'
+  crc: '0xd05fa850'
+- name: INSTALL.EXE
+  size: 34106
+  date: '1994-10-17T13:10:00'
+  crc: '0x095f1b73'
+- name: ORDER.FRM
+  size: 5906
+  date: '1994-10-17T00:00:00'
+  crc: '0x24aa357b'
+- name: SWCBBS.EXE
+  size: 5766
+  date: '1994-10-17T00:00:00'
+  crc: '0x145fccc6'
+- name: VENDOR.DOC
+  size: 7856
+  date: '1994-10-17T00:00:00'
+  crc: '0xc1055bb0'
+- name: WW-HELP.EXE
+  size: 17801
+  date: '1994-10-17T13:10:00'
+  crc: '0x1aa9e766'
+- name: WW1._1
+  size: 304128
+  date: '1994-10-17T13:10:00'
+  crc: '0x1c65f2cd'
+- name: WW1._2
+  size: 730112
+  date: '1994-10-17T13:10:00'
+  crc: '0xd88ae3b2'
+- name: WW1._3
+  size: 729398
+  date: '1994-10-17T13:10:00'
+  crc: '0xd7f2a859'

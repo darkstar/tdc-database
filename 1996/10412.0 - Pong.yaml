@@ -1,0 +1,28 @@
+filename: Pong (De) (1996)(Ingo Ruhnke) [Action].zip
+tdc_id: '10412.0'
+title:
+  screen: Pong
+publisher: Ingo Ruhnke
+year: '1996'
+genre: Action
+language: German
+date:
+  added: '2019-03-02T10:16:04'
+  last_modified: '2019-03-02T10:16:04'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 24
+  date: '2018-11-24T14:55:20'
+  crc: '0x948bec37'
+- name: PONG.BAS
+  size: 3178
+  date: '1996-01-04T16:11:02'
+  crc: '0x32283ca6'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

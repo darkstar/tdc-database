@@ -1,0 +1,29 @@
+filename: EGA-Pyramid v91.01.15 [SW] (1991)(John A. Junod) [Strategy, Cards].zip
+tdc_id: '13320.0'
+title:
+  screen: EGA-Pyramid
+publisher: John A. Junod
+year: '1991'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:35:46'
+  last_modified: '2019-03-01T18:35:46'
+version: 91.01.15
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: egapyrmd.exe
+files:
+- name: egapyrmd.exe
+  size: 66592
+  date: '2009-12-31T21:31:04'
+  crc: '0x3e5d3404'
+- name: egapyrmd.sav
+  size: 9
+  date: '2009-12-31T21:31:04'
+  crc: '0xef401902'

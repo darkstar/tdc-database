@@ -1,0 +1,36 @@
+filename: Empire Deluxe v3.0 (Installer) (1993)(New World Computing, Inc.) [Strategy].zip
+tdc_id: '13448.3'
+parent_id: '13448.7'
+title:
+  box: Empire Deluxe
+publisher: New World Computing, Inc.
+year: '1993'
+genre: Strategy
+language: English
+date:
+  added: '2021-07-07T15:25:56'
+  last_modified: '2021-07-07T15:25:56'
+version: '3.0'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: EDLXINST.000
+  size: 1379810
+  date: '1993-02-09T13:48:00'
+  crc: '0xaa2c61a5'
+- name: EDLXINST.001
+  size: 1326749
+  date: '1993-02-09T13:50:00'
+  crc: '0x16142244'
+- name: EMPDLX_1
+  size: 0
+  date: '1993-02-09T13:35:00'
+- name: EMPDLX_2
+  size: 0
+  date: '1993-02-25T23:42:00'
+- name: INSTALL.EXE
+  size: 77083
+  date: '1993-01-21T16:49:00'
+  crc: '0xfe98fc36'

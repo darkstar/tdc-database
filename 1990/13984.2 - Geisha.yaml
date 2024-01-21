@@ -1,0 +1,41 @@
+filename: Geisha (Fr) (1990)(Coktel Vision) [Adventure, Adult].zip
+tdc_id: '13984.2'
+title:
+  box: Geisha
+publisher: Coktel Vision
+year: '1990'
+genre:
+- Adventure
+- Adult
+language: French
+date:
+  added: '2019-03-01T18:32:42'
+  last_modified: '2019-03-01T18:32:42'
+type: zip
+commands:
+  play: GO.EXE
+files:
+- name: DISK1.STK
+  size: 211889
+  date: '1990-11-22T08:58:16'
+  crc: '0xe55a307c'
+- name: DISK2.STK
+  size: 290320
+  date: '1990-11-22T15:05:38'
+  crc: '0x590bac8f'
+- name: DISK3.STK
+  size: 248567
+  date: '1990-11-22T15:05:58'
+  crc: '0x3a61a707'
+- name: GO.EXE
+  size: 96237
+  date: '1991-02-04T23:33:08'
+  crc: '0x312ae81b'
+- name: LOADER.PRG
+  size: 155393
+  date: '1987-04-22T12:30:00'
+  crc: '0xf4c40270'
+- name: SAVE.INF
+  size: 308
+  date: '1991-11-06T12:48:02'
+  crc: '0x98994165'

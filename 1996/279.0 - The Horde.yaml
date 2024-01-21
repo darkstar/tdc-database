@@ -1,0 +1,29 @@
+filename: Horde, The v1.43 (1996)(Daniel Garlans) [Action].zip
+tdc_id: '279.0'
+title:
+  screen: The Horde
+publisher: Daniel Garlans
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:10:20'
+  last_modified: '2019-03-02T10:10:20'
+version: '1.43'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 25
+  date: '2018-06-30T20:02:50'
+  crc: '0x4c1b6530'
+- name: HORDE.BAS
+  size: 21149
+  date: '2018-03-10T02:22:26'
+  crc: '0xf2752855'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T01:28:02'
+  crc: '0x19f6ed75'

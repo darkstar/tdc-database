@@ -1,0 +1,38 @@
+filename: TEGL Monopoly v2.10 [SW][a1] (1990)(TEGL Systems Corporation) [Strategy, Board].zip
+tdc_id: '16496.2'
+title:
+  screen: TEGL Monopoly
+publisher: TEGL Systems Corporation
+year: '1990'
+genre:
+- Strategy
+- Board
+language: English
+date:
+  added: '2019-03-01T18:34:14'
+  last_modified: '2019-03-01T18:34:14'
+version: '2.10'
+type: zip
+tags:
+- Shareware
+- Alternate: 1
+media: Download
+commands:
+  play: MONOPOLY.EXE
+files:
+- name: MONOPOLY.EXE
+  size: 119543
+  date: '1990-08-21T01:33:02'
+  crc: '0xa40d828a'
+- name: ORDER.DOC
+  size: 2426
+  date: '1990-07-18T11:50:04'
+  crc: '0x11cbbdc3'
+- name: TEGLINFO.DOC
+  size: 5670
+  date: '1990-06-27T12:16:54'
+  crc: '0x68dad4c5'
+- name: TOOLKIT.DOC
+  size: 3880
+  date: '1990-06-27T19:58:04'
+  crc: '0xe13bf88d'

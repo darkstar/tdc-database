@@ -1,0 +1,40 @@
+filename: Dodgem [SW] (1991)(BOCC Software) [Action].zip
+tdc_id: '616.0'
+title:
+  screen: Dodgem
+publisher: BOCC Software
+year: '1991'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:35:38'
+  last_modified: '2019-03-01T18:35:38'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: DODGEM.EXE
+references:
+  dosid: DOS06805
+  exodos: Dodgem (1991).zip
+files:
+- name: DODGEM.CFG
+  size: 282
+  date: '2010-11-17T12:23:22'
+  crc: '0x64bc8139'
+- name: DODGEM.DAT
+  size: 44888
+  date: '1994-01-15T09:04:58'
+  crc: '0x176750c3'
+- name: DODGEM.DOC
+  size: 7151
+  date: '1994-01-15T09:04:58'
+  crc: '0xd6bbc016'
+- name: DODGEM.EXE
+  size: 124638
+  date: '1994-01-15T09:04:58'
+  crc: '0x0752001b'
+- name: DODGEM.HIS
+  size: 0
+  date: '1994-01-23T09:58:12'

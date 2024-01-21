@@ -1,0 +1,30 @@
+filename: Try (1994)(Mike Hulme) [Action, Strategy].zip
+tdc_id: '16970.0'
+title:
+  screen: Try
+publisher: Mike Hulme
+year: '1994'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-02T07:18:34'
+  last_modified: '2019-03-02T07:18:34'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 23
+  date: '2018-04-15T14:43:08'
+  crc: '0xa60d157e'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T01:28:02'
+  crc: '0x19f6ed75'
+- name: TRY.BAS
+  size: 13376
+  date: '2018-03-10T01:57:46'
+  crc: '0x583d6c38'

@@ -1,0 +1,40 @@
+filename: FRAC v2.1 [SW] (1990)(Simsalabim Software) [Action, Strategy].zip
+tdc_id: '13771.2'
+title:
+  screen: FRAC
+publisher: Simsalabim Software
+year: '1990'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:32:40'
+  last_modified: '2019-03-01T18:32:40'
+version: '2.1'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: FRAC.EXE
+references:
+  dosid: DOS02294
+  exodos: Frac (1990).zip
+files:
+- name: FRAC.EXE
+  size: 144864
+  date: '1990-11-29T00:50:06'
+  crc: '0x974c0f10'
+- name: PAUSE.TXT
+  size: 115
+  date: '1990-12-17T11:19:00'
+  crc: '0x5b249a8a'
+- name: README.NEW
+  size: 224
+  date: '2000-09-17T00:11:48'
+  crc: '0x5eeb045b'
+- name: readme.3d
+  size: 4075
+  date: '1990-09-23T19:42:28'
+  crc: '0xd861bca9'

@@ -1,0 +1,58 @@
+filename: American Poker II v1.0F (1990)(Firma IMPERIAL) [Strategy, Cards].zip
+tdc_id: '285.0'
+title:
+  screen: American Poker II
+publisher: Firma IMPERIAL
+year: '1990'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2023-01-30T13:53:15'
+  last_modified: '2023-01-30T13:53:15'
+version: 1.0F
+type: zip
+commands:
+  play: GO.BAT
+files:
+- name: EGAVGA.BGI
+  size: 5554
+  date: '2008-12-07T11:45:54'
+  crc: '0x116c5498'
+- name: GO.BAT
+  size: 12
+  date: '2008-12-07T11:45:54'
+  crc: '0x5898c7df'
+- name: IMGV.IMG
+  size: 6000
+  date: '2008-12-07T11:45:56'
+  crc: '0x46f238bc'
+- name: IMGX.IMG
+  size: 6000
+  date: '2008-12-07T11:45:56'
+  crc: '0xbcd4dfc4'
+- name: POKER2.EXE
+  size: 97216
+  date: '2008-12-07T11:45:58'
+  crc: '0x83389a7e'
+- name: POKER2.PIF
+  size: 967
+  date: '2008-12-07T11:45:58'
+  crc: '0xfbb113af'
+- name: README.TXT
+  size: 817
+  date: '2008-12-07T11:45:58'
+  crc: '0xac03ef2c'
+- name: VALET.BIT
+  size: 2
+  date: '2008-12-07T11:45:58'
+  crc: '0x6a119482'
+- name: VALET.DAT
+  size: 3584
+  date: '2008-12-07T11:45:58'
+  crc: '0xe34decf5'
+- name: nfo.nfo
+  size: 646
+  date: '2008-12-07T11:45:56'
+  crc: '0x779c786f'

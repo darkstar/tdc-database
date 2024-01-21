@@ -1,0 +1,27 @@
+filename: Bullet (1986)(Peter Kahn) [Action].zip
+tdc_id: '1249.0'
+title:
+  screen: Bullet
+publisher: Peter Kahn
+year: '1986'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:42'
+  last_modified: '2019-03-01T18:24:42'
+type: zip
+commands:
+  play: BULLET.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: BULLET.BAS
+  size: 1575
+  date: '1986-11-08T09:02:38'
+  crc: '0x3671a61b'
+- name: BULLET.BAT
+  size: 17
+  date: '2014-12-18T17:59:06'
+  crc: '0x9d84fb60'

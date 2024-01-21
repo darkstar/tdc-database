@@ -1,0 +1,27 @@
+filename: Connect Four (2003)(Benjamin Wolf, Arnold Diblasi) [Strategy].zip
+tdc_id: '4880.0'
+title:
+  screen: Connect Four
+publisher: Benjamin Wolf, Arnold Diblasi
+year: '2003'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:56:26'
+  last_modified: '2019-03-02T10:56:26'
+type: zip
+commands:
+  play: GO.BAT
+files:
+- name: CONX4.BAS
+  size: 5652
+  date: '2012-04-25T21:22:54'
+  crc: '0xb538915d'
+- name: GO.BAT
+  size: 21
+  date: '2018-02-10T11:22:22'
+  crc: '0x0002c011'
+- name: QB.EXE
+  size: 278804
+  date: '2016-03-12T18:19:58'
+  crc: '0xb08bc0fe'

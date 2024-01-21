@@ -1,0 +1,28 @@
+filename: Arya Vaiv (Installer) (1994)(Dongleware Verlags GmbH) [Action].zip
+tdc_id: '8805.1'
+title:
+  box: Arya Vaiv
+publisher: Dongleware Verlags GmbH
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2022-12-13T15:08:55'
+  last_modified: '2022-12-13T15:08:55'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/arya-vaiv
+  dosid: DOS00460
+  exodos: America Adventure (1993).zip
+files:
+- name: ARYAVAIV.EXE
+  size: 429596
+  date: '1996-12-24T23:32:00'
+  crc: '0xcb9cfe6e'
+- name: INSTALL.EXE
+  size: 1906
+  date: '1996-12-24T23:32:00'
+  crc: '0x5a4e4455'

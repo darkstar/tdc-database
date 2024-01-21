@@ -1,0 +1,58 @@
+filename: PC-Hack v3.51 (1986)(Don Kneller) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '10118.6'
+title:
+  screen: PC-Hack
+publisher: Don Kneller
+year: '1986'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:24:54'
+  last_modified: '2019-03-01T18:24:54'
+version: '3.51'
+type: zip
+commands:
+  play: HACK.EXE
+files:
+- name: -READ.ME-
+  size: 12214
+  date: '1986-09-27T13:47:18'
+  crc: '0xc801fab7'
+- name: DATA
+  size: 10035
+  date: '1986-06-08T00:00:00'
+  crc: '0x3e88d98d'
+- name: HACK.CNF
+  size: 1995
+  date: '1986-06-08T00:00:00'
+  crc: '0xd7662d7e'
+- name: HACK.DOC
+  size: 25442
+  date: '1992-10-12T10:19:04'
+  crc: '0x95347fc2'
+- name: HACK.EXE
+  size: 256205
+  date: '1986-06-08T00:00:00'
+  crc: '0x11f6a4f6'
+- name: HELP
+  size: 6992
+  date: '1986-06-08T00:00:00'
+  crc: '0x23eb153e'
+- name: HH
+  size: 3267
+  date: '1986-06-08T00:00:00'
+  crc: '0x2934f8db'
+- name: HINTS.DOC
+  size: 10861
+  date: '1986-06-08T00:00:00'
+  crc: '0x1a9a4c8c'
+- name: RECORD
+  size: 92
+  date: '1988-02-15T14:00:02'
+  crc: '0x212f13ee'
+- name: RUMORS
+  size: 25585
+  date: '1986-06-08T00:00:00'
+  crc: '0x26258944'

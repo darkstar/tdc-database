@@ -1,0 +1,84 @@
+filename: Tetris 3 (2000)(Vral) [Action, Strategy].zip
+tdc_id: '16562.0'
+title:
+  screen: Tetris 3
+publisher: Vral
+year: '2000'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-02T10:55:06'
+  last_modified: '2019-03-02T10:55:06'
+type: zip
+files:
+- name: DATA\
+  size: 0
+  date: '2014-11-22T17:09:42'
+- name: DATA\GFX\
+  size: 0
+  date: '2014-11-22T17:09:42'
+- name: DATA\GFX\BG.PCX
+  size: 65004
+  date: '2000-04-18T20:50:08'
+  crc: '0x4ac6f19f'
+- name: DATA\GFX\BLOX.PCX
+  size: 1139
+  date: '2000-04-18T20:25:12'
+  crc: '0x2ca9cc54'
+- name: DATA\GFX\OVER.PCX
+  size: 7194
+  date: '2000-04-18T20:27:20'
+  crc: '0xd7065561'
+- name: DATA\GFX\SET.PCX
+  size: 7810
+  date: '2000-04-18T20:48:12'
+  crc: '0xb856d80d'
+- name: DATA\GFX\SPLASH.PCX
+  size: 11307
+  date: '2000-04-19T00:16:04'
+  crc: '0x39128919'
+- name: DATA\SFX\
+  size: 0
+  date: '2014-11-22T17:09:42'
+- name: DATA\SFX\DELETE.WAV
+  size: 10359
+  date: '2000-04-18T21:41:00'
+  crc: '0x4c7a8611'
+- name: DATA\SFX\LAND.WAV
+  size: 4105
+  date: '2000-04-18T21:40:46'
+  crc: '0x2801c6df'
+- name: DATA\SFX\TRACK1.WAV
+  size: 127241
+  date: '2000-04-18T21:31:36'
+  crc: '0xd881aff1'
+- name: DATA\SFX\TRACK2.WAV
+  size: 93564
+  date: '2000-04-18T21:36:40'
+  crc: '0xdd6d7477'
+- name: DATA\SFX\TRACK3.WAV
+  size: 236620
+  date: '2000-04-18T21:39:58'
+  crc: '0xdff87085'
+- name: README.TXT
+  size: 2667
+  date: '2000-04-19T09:21:04'
+  crc: '0x3cbd1840'
+- name: TETRIS.CFG
+  size: 127
+  date: '2005-09-14T23:50:20'
+  crc: '0xc411cf11'
+- name: Tetris.exe
+  size: 88342
+  date: '2000-05-03T10:35:52'
+  crc: '0x30782ffc'
+- name: UNWISE.EXE
+  size: 149504
+  date: '1999-06-25T11:55:30'
+  crc: '0x30fdd633'
+- name: install.log
+  size: 885
+  date: '2000-05-03T12:31:44'
+  crc: '0xeec087b3'

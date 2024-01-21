@@ -1,0 +1,70 @@
+filename: Ports of Call v2.0 [SWR][a1] (1994)(Rolf-Dieter Klein, Martin Ulrich) [Simulation].zip
+tdc_id: '10468.2'
+title:
+  screen: Ports of Call
+publisher: Rolf-Dieter Klein, Martin Ulrich
+year: '1994'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T22:02:48'
+  last_modified: '2023-10-24T10:32:35'
+version: '2.0'
+type: zip
+tags:
+- SharewareRegistered
+- Alternate: 1
+media: Download
+commands:
+  play: POCUS.EXE
+references:
+  mobygames: https://www.mobygames.com/game/7390/ports-of-call/
+files:
+- name: IB1VGA.DAT
+  size: 293177
+  date: '2005-03-14T13:39:48'
+  crc: '0x1a90fc61'
+- name: IB2VGA.DAT
+  size: 767662
+  date: '2005-03-14T13:39:48'
+  crc: '0x3e49e1bd'
+- name: MANUS.DOC
+  size: 46592
+  date: '2005-03-14T13:39:48'
+  crc: '0xa6194234'
+- name: POCUS.EXE
+  size: 111797
+  date: '2005-03-14T13:39:48'
+  crc: '0xd58ece01'
+- name: README
+  size: 1713
+  date: '2005-03-14T13:39:48'
+  crc: '0xdc512d9a'
+- name: REGISTER.LIC
+  size: 136
+  date: '2005-03-14T13:39:48'
+  crc: '0x9b825410'
+- name: SOUNDS.DAT
+  size: 172232
+  date: '2005-03-14T13:39:48'
+  crc: '0xa76d5894'
+- name: SYS13.FNT
+  size: 3676
+  date: '2005-03-14T13:39:48'
+  crc: '0x1d19282a'
+- name: SYS7B.FNT
+  size: 2728
+  date: '2005-03-14T13:39:48'
+  crc: '0x9241493e'
+- name: SYS8.FNT
+  size: 2632
+  date: '2005-03-14T13:39:48'
+  crc: '0x6e864590'
+- name: SYS8B.FNT
+  size: 2804
+  date: '2005-03-14T13:39:48'
+  crc: '0xbc8f1940'
+- name: UPDESC.11
+  size: 952
+  date: '2005-03-14T13:39:48'
+  crc: '0x123b0fda'

@@ -1,0 +1,27 @@
+filename: H2O (Installer) [SW] (1996)(Webfoot Technologies, Inc.) [Strategy].zip
+tdc_id: '11078.3'
+title:
+  screen: H2O
+publisher: Webfoot Technologies, Inc.
+year: '1996'
+genre: Strategy
+language: English
+date:
+  added: '2019-01-23T14:23:38'
+  last_modified: '2019-01-23T14:23:38'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: H2INSTAL.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 597
+  date: '1996-05-25T17:39:08'
+  crc: '0x2ed8955b'
+- name: H2INSTAL.EXE
+  size: 983028
+  date: '1996-05-11T01:37:00'
+  crc: '0xec7928ab'

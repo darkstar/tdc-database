@@ -1,0 +1,30 @@
+filename: Monsters of Murdac (1989)(Topologika Software Ltd.) [Adventure].zip
+tdc_id: '5629.0'
+title:
+  box: Monsters of Murdac
+publisher: Topologika Software Ltd.
+year: '1989'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:28:26'
+  last_modified: '2019-03-01T18:28:26'
+type: zip
+commands:
+  play: MURDAC.COM
+references:
+  dosid: DOS05655
+  exodos: Monsters of Murdac (1987).zip
+files:
+- name: MURDAC.COM
+  size: 12080
+  date: '1989-06-08T17:43:16'
+  crc: '0xabfd4dfc'
+- name: MURDAC.DAT
+  size: 45568
+  date: '1989-06-07T01:00:30'
+  crc: '0x2c9666b7'
+- name: MURDAC.DYN
+  size: 1086
+  date: '1989-06-07T01:00:54'
+  crc: '0xe813480f'

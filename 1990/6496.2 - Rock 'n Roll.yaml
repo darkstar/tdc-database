@@ -1,0 +1,42 @@
+filename: Rock 'n Roll (demo) (1990)(Rainbow Arts Software GmbH) [Action, Strategy].zip
+tdc_id: '6496.2'
+title:
+  screen: Rock 'n Roll
+  qualifier: demo
+publisher: Rainbow Arts Software GmbH
+year: '1990'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-09-30T19:32:44'
+  last_modified: '2023-10-13T17:44:20'
+type: zip
+media: Download
+demo: true
+commands:
+  play: ROCKDEMO.EXE
+references:
+  mobygames: https://www.mobygames.com/game/2047/rock-n-roll/
+files:
+- name: ROCKDEMO.DAT
+  size: 223454
+  date: '1992-11-03T02:46:26'
+  crc: '0x362c6e72'
+- name: ROCKDEMO.EXE
+  size: 42735
+  date: '1992-11-03T02:46:30'
+  crc: '0x4532f20c'
+- name: ROCKINFO.ASC
+  size: 13370
+  date: '1993-08-11T17:48:42'
+  crc: '0x184920b8'
+- name: ROCKINFO.DAT
+  size: 18210
+  date: '1992-11-03T02:46:32'
+  crc: '0xa989e787'
+- name: ROCKINFO.EXE
+  size: 20792
+  date: '1992-11-03T02:46:34'
+  crc: '0xd1c4dfc3'

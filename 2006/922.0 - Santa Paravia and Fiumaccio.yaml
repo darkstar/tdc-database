@@ -1,0 +1,31 @@
+filename: Santa Paravia and Fiumaccio v6.3 (2006)(Dick and Jane) [Simulation, Strategy].zip
+tdc_id: '922.0'
+title:
+  screen: Santa Paravia and Fiumaccio
+publisher: Dick and Jane
+year: '2006'
+genre:
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2019-03-02T10:57:16'
+  last_modified: '2019-03-02T10:57:16'
+version: '6.3'
+type: zip
+media: Download
+commands:
+  play: RUN.BAT
+files:
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1988-10-04T19:00:08'
+  crc: '0x2a44af39'
+- name: RUN.BAT
+  size: 24
+  date: '2018-02-15T12:12:20'
+  crc: '0x4cb4e51a'
+- name: SantaParavia.bas
+  size: 22362
+  date: '2006-12-05T19:21:20'
+  crc: '0xe2a05c7b'

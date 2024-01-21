@@ -1,0 +1,30 @@
+filename: Checkers (1991)(Rich Geldreich) [Strategy, Board].zip
+tdc_id: '9300.0'
+title:
+  screen: Checkers
+publisher: Rich Geldreich
+year: '1991'
+genre:
+- Strategy
+- Board
+language: English
+date:
+  added: '2019-03-01T18:35:12'
+  last_modified: '2019-03-01T18:35:12'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: CHECKERS.BAS
+  size: 38652
+  date: '2018-03-10T02:26:02'
+  crc: '0xcee3c2c5'
+- name: GO.BAT
+  size: 28
+  date: '2018-04-26T13:23:10'
+  crc: '0xc4f9bfa4'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T01:28:02'
+  crc: '0x19f6ed75'

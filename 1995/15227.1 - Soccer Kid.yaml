@@ -1,0 +1,37 @@
+filename: Soccer Kid (Installer) (En)(De)(Fr)(It)(Es) (1995)(General Admission Software) [Action].zip
+tdc_id: '15227.1'
+title:
+  box: Soccer Kid
+publisher: General Admission Software
+year: '1995'
+genre: Action
+language:
+- English
+- Spanish
+- French
+- Italian
+- German
+date:
+  added: '2019-03-02T09:03:18'
+  last_modified: '2019-03-02T09:03:18'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK.001
+  size: 1376172
+  date: '1994-06-10T20:22:26'
+  crc: '0xc570c929'
+- name: DISK.002
+  size: 1441704
+  date: '1994-06-10T20:22:32'
+  crc: '0xaaefd50e'
+- name: DISK.003
+  size: 816251
+  date: '1994-06-10T20:22:38'
+  crc: '0x055a8810'
+- name: INSTALL.EXE
+  size: 7767
+  date: '1994-06-08T06:13:20'
+  crc: '0xf1f88771'

@@ -1,0 +1,44 @@
+filename: Amulet of Yendor (1985)(Keypunch Software, Inc.) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '12300.1'
+title:
+  box: Amulet of Yendor
+publisher: Keypunch Software, Inc.
+year: '1985'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:24:20'
+  last_modified: '2019-03-01T18:24:20'
+type: zip
+commands:
+  play: AMULET.EXE
+references:
+  dosid: DOS00785
+  exodos: Amulet of Yendor (1985).zip
+files:
+- name: AMULET.CMD
+  size: 1408
+  date: '1985-02-16T12:51:08'
+  crc: '0x4484c9cb'
+- name: AMULET.DAT
+  size: 1280
+  date: '1985-02-16T12:50:20'
+  crc: '0xa422bc67'
+- name: AMULET.EXE
+  size: 37929
+  date: '1987-06-22T00:45:14'
+  crc: '0xfd60b121'
+- name: AMULET.INS
+  size: 7424
+  date: '1985-02-16T12:50:38'
+  crc: '0xa72cebe4'
+- name: AMULET.PIC
+  size: 1024
+  date: '1985-02-16T12:45:56'
+  crc: '0x8b5e18a9'
+- name: BRUN20.EXE
+  size: 69454
+  date: '1987-01-16T11:44:44'
+  crc: '0xfed31ef4'

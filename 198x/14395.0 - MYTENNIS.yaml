@@ -1,0 +1,33 @@
+filename: MYTENNIS (198x)(Vadim 'Dima' Bashurov) [Action, Sports].zip
+tdc_id: '14395.0'
+title:
+  screen: MYTENNIS
+publisher: Vadim 'Dima' Bashurov
+year: 198x
+genre:
+- Action
+- Sports
+language: English
+date:
+  added: '2019-03-01T18:29:26'
+  last_modified: '2023-10-16T09:12:06'
+type: zip
+media: Download
+commands:
+  play: MYTENN.EXE
+references:
+  dosid: DOS15644
+  exodos: My Tennis (1980).zip
+files:
+- name: MYTENN.EXE
+  size: 30928
+  date: '1980-11-06T00:00:58'
+  crc: '0x49e52be2'
+- name: MYTENN.FNT
+  size: 1280
+  date: '1980-11-04T00:00:24'
+  crc: '0x4f05cde7'
+- name: MYTENN.IMG
+  size: 12800
+  date: '1980-11-04T00:00:24'
+  crc: '0x8daac6d1'

@@ -1,0 +1,46 @@
+filename: Football Manager (1987)(Addictive Games Ltd) [Sports, Strategy][!].zip
+tdc_id: '13714.0'
+title:
+  box: Football Manager
+publisher: Addictive Games Ltd
+year: '1987'
+genre:
+- Sports
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:25:18'
+  last_modified: '2019-03-01T18:25:18'
+type: zip
+tags:
+- KnownGood
+commands:
+  play: FB.EXE
+references:
+  dosid: DOS02266
+  exodos: Football Manager (1982).zip
+files:
+- name: CUP.DAT
+  size: 16384
+  date: '1980-01-01T04:34:12'
+  crc: '0xcfcd7723'
+- name: FB.EXE
+  size: 25977
+  date: '1988-12-20T11:21:00'
+  crc: '0xcf714feb'
+- name: FBSVE.DAT
+  size: 3472
+  date: '1980-01-01T00:44:36'
+  crc: '0x0d33a908'
+- name: LEFT.DAT
+  size: 16384
+  date: '1980-01-01T00:27:12'
+  crc: '0x2c9e3a5f'
+- name: RIGHT.DAT
+  size: 16384
+  date: '1980-01-01T00:27:28'
+  crc: '0xf138e256'
+- name: TITLE.DAT
+  size: 16384
+  date: '1980-01-01T00:23:04'
+  crc: '0xe6bd1bb9'

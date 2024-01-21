@@ -1,0 +1,27 @@
+filename: Space Miner v1.1 (1983)(Resolution Software) [Action].zip
+tdc_id: '1083.0'
+title:
+  screen: Space Miner
+publisher: Resolution Software
+year: '1983'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:23:20'
+  last_modified: '2019-03-01T18:23:20'
+version: '1.1'
+type: zip
+commands:
+  play: SMINER.EXE
+references:
+  dosid: DOS06598
+  exodos: Space Miner (1983).zip
+files:
+- name: SMINER.EXE
+  size: 43520
+  date: '1980-01-01T08:22:00'
+  crc: '0xc9ee40e6'
+- name: topcommd.zzz
+  size: 200
+  date: '1998-03-25T22:36:00'
+  crc: '0x3a8960a7'

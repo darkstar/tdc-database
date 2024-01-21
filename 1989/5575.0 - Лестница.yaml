@@ -1,0 +1,29 @@
+filename: Лестница (Ru) (1989)(Kazan State University) [Educational].zip
+tdc_id: '5575.0'
+title:
+  screen: Лестница
+  transliteration: Lestnitsa
+publisher: Kazan State University
+year: '1989'
+genre: Educational
+language: Russian
+date:
+  added: '2020-11-10T12:56:30'
+  last_modified: '2023-06-27T17:39:05'
+type: zip
+media: Download
+commands:
+  play: LEST.EXE
+files:
+- name: CGA.BGI
+  size: 6253
+  date: '1988-08-29T06:00:00'
+  crc: '0x17cbdd92'
+- name: LEST.DAT
+  size: 471
+  date: '1990-08-31T13:28:58'
+  crc: '0x98132324'
+- name: LEST.EXE
+  size: 192992
+  date: '1997-03-12T17:26:26'
+  crc: '0xde579262'

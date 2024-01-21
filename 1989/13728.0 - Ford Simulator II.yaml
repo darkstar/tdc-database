@@ -1,0 +1,53 @@
+filename: Ford Simulator II (1989)(Ford Motor Company) [Racing - Driving, Simulation].zip
+tdc_id: '13728.0'
+title:
+  box: Ford Simulator II
+publisher: Ford Motor Company
+year: '1989'
+genre:
+- Racing - Driving
+- Simulation
+language: English
+date:
+  added: '2019-03-01T18:27:46'
+  last_modified: '2019-03-01T18:27:46'
+type: zip
+commands:
+  play: FORD89.EXE
+files:
+- name: FORD.GLB
+  size: 274071
+  date: '1989-08-01T04:11:18'
+  crc: '0xb874ad05'
+- name: FORD.TLB
+  size: 9369
+  date: '1989-08-01T13:11:18'
+  crc: '0xdc64027a'
+- name: FORD89.EXE
+  size: 72666
+  date: '1989-08-01T01:41:12'
+  crc: '0x52f4269e'
+- name: FORDDB.OVL
+  size: 91438
+  date: '1989-08-01T13:11:18'
+  crc: '0x9f0d9fbf'
+- name: FORDDB.TLB
+  size: 114709
+  date: '1989-08-01T13:11:18'
+  crc: '0x82cd701f'
+- name: FORDFDBK.OVL
+  size: 40224
+  date: '1989-08-01T13:11:18'
+  crc: '0x338e36a2'
+- name: FORDFDBK.TLB
+  size: 751
+  date: '1989-08-01T13:11:18'
+  crc: '0x7f729e80'
+- name: FORDSIM.GLB
+  size: 49093
+  date: '1989-08-01T13:11:18'
+  crc: '0x18452e4d'
+- name: FORDSIM.OVL
+  size: 59408
+  date: '1989-08-01T13:11:18'
+  crc: '0x8bdb5798'

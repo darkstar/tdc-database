@@ -1,0 +1,39 @@
+filename: Despair 3 (Installer) [SW] (1995)(U-NEEK Software) [Action].zip
+tdc_id: '13102.0'
+title:
+  screen: Despair 3
+publisher: U-NEEK Software
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2011-06-14T12:38:58'
+  last_modified: '2011-06-14T12:38:58'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 338
+  date: '1995-12-06T09:24:46'
+  crc: '0x9feeeadf'
+- name: INSTALL.EXE
+  size: 80564
+  date: '1995-11-23T23:52:10'
+  crc: '0xc40ae4ca'
+- name: INSTALL.INI
+  size: 946
+  date: '1995-11-23T23:56:02'
+  crc: '0x9d22a80b'
+- name: PACK1.PRG
+  size: 1375232
+  date: '1995-11-23T23:53:50'
+  crc: '0x17363649'
+- name: PACK2.PRG
+  size: 1419062
+  date: '1995-11-23T23:55:48'
+  crc: '0x82b6257a'

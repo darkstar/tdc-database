@@ -1,0 +1,32 @@
+filename: Philosopher's Quest (1987)(Topologika Software Ltd.) [Adventure, Interactive Fiction].zip
+tdc_id: '10215.0'
+title:
+  box: Philosopher's Quest
+publisher: Topologika Software Ltd.
+year: '1987'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:25:30'
+  last_modified: '2019-03-01T18:25:30'
+type: zip
+commands:
+  play: PQUEST.COM
+references:
+  dosid: DOS06057
+  exodos: Philosopher's Quest (1982).zip
+files:
+- name: PQUEST.COM
+  size: 10240
+  date: '1987-09-01T19:06:00'
+  crc: '0x31f552e2'
+- name: QUEST.DAT
+  size: 66560
+  date: '1987-08-18T21:12:00'
+  crc: '0x338c5332'
+- name: QUEST.DYN
+  size: 2048
+  date: '1987-08-18T21:12:00'
+  crc: '0xbc899599'

@@ -1,0 +1,31 @@
+filename: Hang Man v2.0 (1996)(Kevin B. Kohler) [Strategy, Educational].zip
+tdc_id: '11060.0'
+title:
+  screen: Hang Man
+publisher: Kevin B. Kohler
+year: '1996'
+genre:
+- Strategy
+- Educational
+language: English
+date:
+  added: '2019-03-02T10:06:10'
+  last_modified: '2019-03-02T10:06:10'
+version: '2.0'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 27
+  date: '2018-11-14T20:19:32'
+  crc: '0x13e93504'
+- name: HANGMAN.BAS
+  size: 10936
+  date: '2018-11-14T19:53:18'
+  crc: '0xd85554d6'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'

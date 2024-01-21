@@ -1,0 +1,26 @@
+filename: Dodge-Ball (198x)(Cody Snider) [Action].zip
+tdc_id: '6602.0'
+title:
+  screen: Dodge-Ball
+publisher: Cody Snider
+year: 198x
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:29:26'
+  last_modified: '2019-03-01T18:29:26'
+type: zip
+commands:
+  play: DOGEBALL.EXE
+references:
+  dosid: DOS15347
+  exodos: Dodge Ball (1980).zip
+files:
+- name: DOGEBALL.EXE
+  size: 38671
+  date: '1980-01-01T00:05:32'
+  crc: '0x9d83d4cf'
+- name: HISCORE.DAT
+  size: 128
+  date: '1980-01-01T00:00:12'
+  crc: '0x77f84dbc'

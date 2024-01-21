@@ -1,0 +1,28 @@
+filename: Superbasketball v1.04 (Installer) (It) (1994)(Simulmondo) [Action].zip
+tdc_id: '1864.2'
+parent_id: '1864.1'
+title:
+  box: Superbasketball
+  qualifier: Installer
+publisher: Simulmondo
+year: '1994'
+genre: Action
+language: Italian
+date:
+  added: '2023-11-10T11:16:29'
+  last_modified: '2023-11-10T11:16:29'
+version: '1.04'
+type: zip
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: BASKET.000
+  size: 1280955
+  date: '1994-11-22T12:45:36'
+  crc: '0xaecc59bb'
+- name: INSTALL.EXE
+  size: 20849
+  date: '1994-11-16T18:29:32'
+  crc: '0x549eac76'

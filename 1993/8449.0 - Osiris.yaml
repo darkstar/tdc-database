@@ -1,0 +1,30 @@
+filename: Osiris (1993)(Pixlers Entertainment) [Strategy].zip
+tdc_id: '8449.0'
+title:
+  box: Osiris
+publisher: Pixlers Entertainment
+year: '1993'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T19:15:48'
+  last_modified: '2019-03-01T19:15:48'
+type: zip
+commands:
+  play: OSIRIS.EXE
+references:
+  dosid: DOS06401
+  exodos: Osiris (1993).zip
+files:
+- name: OSIRIS.EXE
+  size: 106541
+  date: '1993-08-11T10:48:08'
+  crc: '0xd8ae4fdd'
+- name: OSIRIS.RES
+  size: 701426
+  date: '1993-08-11T10:48:08'
+  crc: '0xc764f457'
+- name: READ.ME
+  size: 2455
+  date: '1993-08-11T03:53:00'
+  crc: '0x0caa9a04'

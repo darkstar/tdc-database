@@ -1,0 +1,106 @@
+filename: Super Street Fighter II Turbo (Installer) (En)(Fr) (1995)(GameTek UK Ltd.) [Action].zip
+tdc_id: '16325.1'
+title:
+  box: Super Street Fighter II Turbo
+publisher: GameTek UK Ltd.
+year: '1995'
+genre: Action
+language:
+- English
+- French
+date:
+  added: '2021-09-03T08:44:10'
+  last_modified: '2021-09-03T08:44:10'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: BLD_INFO.CFG
+  size: 1285
+  date: '1995-04-21T19:33:24'
+  crc: '0xb530d61a'
+- name: DISK.ID
+  size: 39
+  date: '1995-04-21T19:33:32'
+  crc: '0x08beeeae'
+- name: DISK.ID2
+  size: 39
+  date: '1995-04-21T19:34:20'
+  crc: '0x0af850f7'
+- name: DISK.ID3
+  size: 39
+  date: '1995-04-21T19:35:14'
+  crc: '0x0b3a3ac0'
+- name: DISK.ID4
+  size: 39
+  date: '1995-04-21T19:36:24'
+  crc: '0x0e752c45'
+- name: DISK.ID5
+  size: 39
+  date: '1995-04-21T19:37:18'
+  crc: '0x0fb74672'
+- name: DISK.ID6
+  size: 39
+  date: '1995-04-21T19:38:14'
+  crc: '0x0df1f82b'
+- name: DISK.ID7
+  size: 39
+  date: '1995-04-21T19:39:28'
+  crc: '0x0c33921c'
+- name: DISK.ID8
+  size: 39
+  date: '1995-04-21T19:40:22'
+  crc: '0x076fd521'
+- name: IMAGE.DAT
+  size: 60785
+  date: '1995-04-21T19:28:14'
+  crc: '0x88910c4f'
+- name: INSTALL.EXE
+  size: 151314
+  date: '1995-04-05T16:53:00'
+  crc: '0x5336a4e4'
+- name: LANGRC.RES
+  size: 6243
+  date: '1995-04-21T19:33:26'
+  crc: '0x5445282f'
+- name: MEMORY.TXT
+  size: 119
+  date: '1995-04-19T16:08:50'
+  crc: '0xc864b390'
+- name: README.TXT
+  size: 7894
+  date: '1995-04-18T08:53:06'
+  crc: '0xd3c95ae5'
+- name: SF2TURBO.1
+  size: 1227776
+  date: '1995-04-21T19:33:36'
+  crc: '0xc52a4305'
+- name: SF2TURBO.2
+  size: 1457152
+  date: '1995-04-21T19:34:22'
+  crc: '0x5b7d27ce'
+- name: SF2TURBO.3
+  size: 1457152
+  date: '1995-04-21T19:35:18'
+  crc: '0x58befb1b'
+- name: SF2TURBO.4
+  size: 1457152
+  date: '1995-04-21T19:36:28'
+  crc: '0x854344d0'
+- name: SF2TURBO.5
+  size: 1457152
+  date: '1995-04-21T19:37:22'
+  crc: '0x6e73e427'
+- name: SF2TURBO.6
+  size: 1457152
+  date: '1995-04-21T19:38:20'
+  crc: '0xa61ba031'
+- name: SF2TURBO.7
+  size: 1457152
+  date: '1995-04-21T19:39:30'
+  crc: '0x25d7aefa'
+- name: SF2TURBO.8
+  size: 799871
+  date: '1995-04-21T19:40:24'
+  crc: '0x1a92589e'

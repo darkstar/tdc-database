@@ -1,0 +1,30 @@
+filename: Generic Horse Racing Game (1995)(Eric Benoit) [Sports, Simulation].zip
+tdc_id: '3546.0'
+title:
+  screen: Generic Horse Racing Game
+publisher: Eric Benoit
+year: '1995'
+genre:
+- Sports
+- Simulation
+language: English
+date:
+  added: '2019-03-02T08:44:22'
+  last_modified: '2019-03-02T08:44:22'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 28
+  date: '2018-04-15T16:43:40'
+  crc: '0x45736bc6'
+- name: HORSRACE.BAS
+  size: 2294
+  date: '2018-03-10T01:53:12'
+  crc: '0x93c3e778'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T01:28:02'
+  crc: '0x19f6ed75'

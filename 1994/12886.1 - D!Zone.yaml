@@ -1,0 +1,52 @@
+filename: D!Zone (Installer) (1994)(WizardWorks Software) [Action, Addon][!].zip
+tdc_id: '12886.1'
+title:
+  box: D!Zone
+publisher: WizardWorks Software
+year: '1994'
+genre:
+- Action
+- Addon
+language: English
+date:
+  added: '2019-03-01T21:55:44'
+  last_modified: '2019-03-01T21:55:44'
+type: zip
+tags:
+- KnownGood
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK2.FIL
+  size: 2455
+  date: '1994-11-22T17:34:12'
+  crc: '0x8dfd637e'
+- name: INSTALL.EXE
+  size: 34905
+  date: '1994-06-15T12:00:00'
+  crc: '0x9bf7a8aa'
+- name: INSTALL.FIL
+  size: 1084
+  date: '1994-11-22T17:35:20'
+  crc: '0xd2d84a94'
+- name: INSTALL.TXT
+  size: 37048
+  date: '1994-11-13T22:26:14'
+  crc: '0x7f05ba58'
+- name: WDOOM1.PAK
+  size: 1399403
+  date: '1994-11-13T22:01:22'
+  crc: '0x8a11939c'
+- name: WDOOM2.PAK
+  size: 521449
+  date: '1994-11-01T11:57:54'
+  crc: '0x46b91044'
+- name: WDOOM3.PAK
+  size: 12369
+  date: '1994-11-01T13:26:24'
+  crc: '0x333d5699'
+- name: WDOOM4.PAK
+  size: 145535
+  date: '1994-10-31T14:24:46'
+  crc: '0xea845c87'

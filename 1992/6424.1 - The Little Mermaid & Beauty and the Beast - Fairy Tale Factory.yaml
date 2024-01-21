@@ -1,0 +1,39 @@
+filename: Little Mermaid & Beauty and the Beast - Fairy Tale Factory, The (Installer) (1992)(Hi-Tech Expressions, Inc.) [Educational, Editor].zip
+tdc_id: '6424.1'
+title:
+  box: The Little Mermaid & Beauty and the Beast - Fairy Tale Factory
+  qualifier: Installer
+publisher: Hi-Tech Expressions, Inc.
+year: '1992'
+genre:
+- Educational
+- Editor
+language: English
+date:
+  added: '2019-03-01T18:48:54'
+  last_modified: '2023-06-22T07:27:19'
+type: zip
+installer: true
+commands:
+  play: INSTALL.COM
+files:
+- name: INSTALL.COM
+  size: 14369
+  date: '1991-12-17T18:34:08'
+  crc: '0xfd1e528c'
+- name: INSTALL.DAT
+  size: 96
+  date: '1992-01-24T12:25:22'
+  crc: '0xec488933'
+- name: LHA.EXE
+  size: 34283
+  date: '1991-07-20T02:13:00'
+  crc: '0x2c68a172'
+- name: LMBBDSK1.LZH
+  size: 123386
+  date: '1992-01-24T12:20:06'
+  crc: '0x0198e539'
+- name: LMBBDSK2.LZH
+  size: 334834
+  date: '1992-01-24T14:51:18'
+  crc: '0xb8eadc3c'

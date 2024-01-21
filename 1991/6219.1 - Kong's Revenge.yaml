@@ -1,0 +1,51 @@
+filename: Kong's Revenge (Es) [a1] (1991)(Zigurat Software S.L.) [Action].zip
+tdc_id: '6219.1'
+title:
+  screen: Kong's Revenge
+publisher: Zigurat Software S.L.
+year: '1991'
+genre: Action
+language: Spanish
+date:
+  added: '2019-03-01T18:36:30'
+  last_modified: '2023-02-16T15:24:39'
+type: zip
+tags:
+- Alternate: 1
+commands:
+  play: KONG.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/kongs-revenge
+files:
+- name: KO1.DAT
+  size: 44335
+  date: '1991-10-28T19:24:24'
+  crc: '0x9bc09ef6'
+- name: KO2.DAT
+  size: 70739
+  date: '1991-10-28T19:25:02'
+  crc: '0x446105c5'
+- name: KO3.DAT
+  size: 47759
+  date: '1991-12-23T20:03:54'
+  crc: '0xb0f3efb6'
+- name: KO4.DAT
+  size: 82389
+  date: '1991-12-23T20:02:46'
+  crc: '0x6badbb7b'
+- name: KONG.EXE
+  size: 1580
+  date: '1991-10-29T12:48:26'
+  crc: '0x3c7802b7'
+- name: PANCGA.BIN
+  size: 16384
+  date: '1991-10-29T12:12:56'
+  crc: '0x100a392f'
+- name: PANEGA1.BIN
+  size: 45500
+  date: '1991-10-29T11:12:30'
+  crc: '0x5d199557'
+- name: PANEGA2.BIN
+  size: 45500
+  date: '1991-10-29T11:13:06'
+  crc: '0x04dd2e20'

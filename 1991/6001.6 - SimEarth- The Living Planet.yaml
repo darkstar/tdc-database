@@ -1,0 +1,115 @@
+filename: SimEarth- The Living Planet v1.0 (Installer) (En)(De)(Fr) (1991)(Maxis Software Inc.) [Strategy, Simulation][!].zip
+tdc_id: '6001.6'
+parent_id: '6001.7'
+title:
+  box: 'SimEarth: The Living Planet'
+  qualifier: Installer
+publisher: Maxis Software Inc.
+year: '1991'
+genre:
+- Strategy
+- Simulation
+language:
+- English
+- French
+- German
+date:
+  added: '2019-03-01T18:34:02'
+  last_modified: '2023-10-15T10:36:46'
+version: '1.0'
+type: zip
+tags:
+- KnownGood
+media: 360K
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1835/simearth-the-living-planet/
+  dosid: DOS04575
+  exodos: SimEarth - The Living Planet (1990).zip
+files:
+- name: FRENCH.DAT
+  size: 60922
+  date: '1991-02-07T16:09:24'
+  crc: '0x86b0bfc9'
+- name: FRENCH.NDX
+  size: 956
+  date: '1991-02-07T16:09:24'
+  crc: '0xb6c53784'
+- name: GERMAN.DAT
+  size: 63823
+  date: '1991-02-07T16:09:28'
+  crc: '0x7543c7cb'
+- name: GERMAN.NDX
+  size: 972
+  date: '1991-02-07T16:09:28'
+  crc: '0x77839425'
+- name: GLOBE.DAT
+  size: 9981
+  date: '1991-02-27T18:00:34'
+  crc: '0xf342e089'
+- name: GR.DAT
+  size: 9406
+  date: '1991-02-27T18:00:38'
+  crc: '0x52d6381c'
+- name: HCEGAIA.DAT
+  size: 314539
+  date: '1991-02-27T12:19:12'
+  crc: '0xd31387c0'
+- name: HCEGAIA.NDX
+  size: 3636
+  date: '1991-02-27T12:19:12'
+  crc: '0x5379e1a6'
+- name: INSTALL.EXE
+  size: 28013
+  date: '1991-02-27T18:00:30'
+  crc: '0x7465ae5e'
+- name: LCEGAIA.DAT
+  size: 142811
+  date: '1991-02-27T12:19:12'
+  crc: '0x7f5b6986'
+- name: LCEGAIA.NDX
+  size: 3604
+  date: '1991-02-27T12:19:12'
+  crc: '0x847341f3'
+- name: MAP.DAT
+  size: 12391
+  date: '1991-02-27T18:00:42'
+  crc: '0xdde7e53c'
+- name: MONOIA.DAT
+  size: 215096
+  date: '1991-02-27T12:19:12'
+  crc: '0x6ad0bb63'
+- name: MONOIA.NDX
+  size: 3860
+  date: '1991-02-27T12:19:12'
+  crc: '0x8ea55dfa'
+- name: README
+  size: 9641
+  date: '1991-02-28T02:50:52'
+  crc: '0x78dffaca'
+- name: SHARED.DAT
+  size: 103455
+  date: '1991-02-27T19:50:00'
+  crc: '0x1e6fb97a'
+- name: SHARED.NDX
+  size: 1516
+  date: '1991-02-27T19:50:00'
+  crc: '0x671fae9a'
+- name: SIM.DAT
+  size: 15165
+  date: '1991-02-27T18:00:48'
+  crc: '0x8b76cb93'
+- name: SIMEARTH.DAT
+  size: 164708
+  date: '1991-02-27T18:00:24'
+  crc: '0x8c2d9898'
+- name: TDYGAIA.DAT
+  size: 131781
+  date: '1991-02-27T19:50:56'
+  crc: '0x823cba64'
+- name: TDYGAIA.NDX
+  size: 3604
+  date: '1991-02-27T19:50:56'
+  crc: '0x2653fe6d'

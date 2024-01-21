@@ -1,0 +1,31 @@
+filename: Tug-A-War (1986)(COMPUTE! Publications, Inc.) [Strategy].zip
+tdc_id: '7226.0'
+title:
+  screen: Tug-A-War
+publisher: COMPUTE! Publications, Inc.
+year: '1986'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:25:02'
+  last_modified: '2019-03-01T18:25:02'
+type: zip
+media: Type-In
+commands:
+  play: TUGAWAR.BAT
+references:
+  dosid: DOS07204
+  exodos: Tug-A-War (1986).zip
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: TUGAWAR.BAS
+  size: 1693
+  date: '2014-11-27T18:59:00'
+  crc: '0x53b8de07'
+- name: TUGAWAR.BAT
+  size: 16
+  date: '2014-11-27T19:00:22'
+  crc: '0xac79d34b'

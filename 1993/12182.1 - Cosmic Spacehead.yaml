@@ -1,0 +1,33 @@
+filename: Cosmic Spacehead (Installer) (En)(Fr)(De)(Es) (1993)(Codemasters Software Company Limited, The) [Action, Adventure].zip
+tdc_id: '12182.1'
+parent_id: '12182.2'
+title:
+  box: Cosmic Spacehead
+publisher: Codemasters Software Company Limited, The
+year: '1993'
+genre:
+- Action
+- Adventure
+language:
+- English
+- Spanish
+- French
+- German
+date:
+  added: '2019-03-01T19:02:06'
+  last_modified: '2019-03-01T19:02:06'
+type: zip
+installer: true
+files:
+- name: COSMIC1.EXE
+  size: 167856
+  date: '1993-11-15T10:29:26'
+  crc: '0x92eacacb'
+- name: COSMIC2.EXE
+  size: 629617
+  date: '1993-11-15T10:31:14'
+  crc: '0x261113a4'
+- name: INSTALL.BAT
+  size: 921
+  date: '1993-11-12T14:02:20'
+  crc: '0xb7891bdf'

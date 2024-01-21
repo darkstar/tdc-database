@@ -1,0 +1,86 @@
+filename: SimEarth- The Living Planet v1.3 (Installer) (1991)(Maxis Software Inc.) [Strategy, Simulation].zip
+tdc_id: '6001.12'
+title:
+  box: 'SimEarth: The Living Planet'
+  qualifier: Installer
+publisher: Maxis Software Inc.
+year: '1991'
+genre:
+- Strategy
+- Simulation
+language: English
+date:
+  added: '2023-10-15T10:26:26'
+  last_modified: '2023-10-15T10:26:26'
+version: '1.3'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1835/simearth-the-living-planet/
+files:
+- name: GLOBE.DAT
+  size: 9957
+  date: '1991-10-24T15:53:38'
+  crc: '0x6ec46004'
+- name: GR.DAT
+  size: 9442
+  date: '1991-10-24T15:53:40'
+  crc: '0xb914b4c6'
+- name: HCEGAIA.DAT
+  size: 314772
+  date: '1991-10-24T15:52:48'
+  crc: '0x33407eb0'
+- name: HCEGAIA.NDX
+  size: 3652
+  date: '1991-10-24T15:52:48'
+  crc: '0x9315a31d'
+- name: INSTALL.EXE
+  size: 27311
+  date: '1991-10-24T15:53:36'
+  crc: '0x094f80b2'
+- name: LCEGAIA.DAT
+  size: 143948
+  date: '1991-10-24T15:52:50'
+  crc: '0x10cee940'
+- name: LCEGAIA.NDX
+  size: 3604
+  date: '1991-10-24T15:52:50'
+  crc: '0xc28f5a93'
+- name: MAP.DAT
+  size: 12500
+  date: '1991-10-24T15:53:44'
+  crc: '0xdc9f4498'
+- name: MONOIA.DAT
+  size: 215334
+  date: '1991-10-24T15:52:50'
+  crc: '0x8328bdf3'
+- name: MONOIA.NDX
+  size: 3884
+  date: '1991-10-24T15:52:50'
+  crc: '0xcdf564ee'
+- name: SHARED.DAT
+  size: 106354
+  date: '1991-10-24T15:52:38'
+  crc: '0x9d4cdeb0'
+- name: SHARED.NDX
+  size: 1516
+  date: '1991-10-24T15:52:38'
+  crc: '0x24069ab7'
+- name: SIM.DAT
+  size: 15162
+  date: '1991-10-24T15:53:46'
+  crc: '0x39b32468'
+- name: SIMEARTH.DAT
+  size: 159303
+  date: '1991-10-24T15:53:34'
+  crc: '0xab9786e0'
+- name: TDYGAIA.DAT
+  size: 138200
+  date: '1991-10-25T16:49:28'
+  crc: '0x3c92ba1c'
+- name: TDYGAIA.NDX
+  size: 3604
+  date: '1991-10-25T16:49:28'
+  crc: '0xaa6d5e1c'

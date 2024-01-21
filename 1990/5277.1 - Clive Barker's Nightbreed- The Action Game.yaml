@@ -1,0 +1,60 @@
+filename: Clive Barker's Nightbreed- The Action Game [a1][b1] (1990)(Ocean Software Ltd.) [Action, Adventure].zip
+tdc_id: '5277.1'
+title:
+  box: 'Clive Barker''s Nightbreed: The Action Game'
+publisher: Ocean Software Ltd.
+year: '1990'
+genre:
+- Action
+- Adventure
+language: English
+date:
+  added: '2019-03-01T18:32:06'
+  last_modified: '2019-03-01T18:32:06'
+type: zip
+tags:
+- Bad: 1
+- Alternate: 1
+commands:
+  play: NIGHT.EXE
+files:
+- name: BREED1.VGA
+  size: 96880
+  date: '1990-09-07T11:50:46'
+  crc: '0x7ebd0cb1'
+- name: BREED2.VGA
+  size: 97393
+  date: '1990-09-07T11:51:02'
+  crc: '0xedcb507a'
+- name: BREED3.VGA
+  size: 90420
+  date: '1990-09-07T11:51:18'
+  crc: '0xa7fd650b'
+- name: ENDSEQ1.VGA
+  size: 70336
+  date: '1990-09-07T11:51:30'
+  crc: '0xa7b0b1ec'
+- name: ENDSEQ2.VGA
+  size: 63717
+  date: '1990-09-07T11:51:40'
+  crc: '0x081f876e'
+- name: ENDSEQ3.VGA
+  size: 57961
+  date: '1990-09-07T11:51:52'
+  crc: '0x67edce4f'
+- name: INTRO.VGA
+  size: 95870
+  date: '1990-09-07T11:50:30'
+  crc: '0x1c82581c'
+- name: LINKER.VGA
+  size: 37666
+  date: '1990-09-07T14:33:26'
+  crc: '0x3147d0dc'
+- name: LOADSCR.VGA
+  size: 18214
+  date: '1990-09-07T11:52:06'
+  crc: '0x7b1655a9'
+- name: NIGHT.EXE
+  size: 10060
+  date: '1990-07-26T11:13:52'
+  crc: '0xeed8028e'

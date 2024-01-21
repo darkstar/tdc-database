@@ -1,0 +1,27 @@
+filename: Simulated Slot Machine (1982)(C. Mike Bunker) [Simulation].zip
+tdc_id: '1028.0'
+title:
+  screen: Simulated Slot Machine
+publisher: C. Mike Bunker
+year: '1982'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:23:04'
+  last_modified: '2019-03-01T18:23:04'
+type: zip
+commands:
+  play: SLOTSIM.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: SLOTSIM.BAS
+  size: 8960
+  date: '1982-07-09T08:00:00'
+  crc: '0x19ebbb14'
+- name: SLOTSIM.BAT
+  size: 18
+  date: '2014-12-18T18:00:48'
+  crc: '0xf8d80c7b'

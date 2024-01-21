@@ -1,0 +1,28 @@
+filename: Cyclop's Eye, The (Pinball Construction Set) (198x)(Anonymous) [Action].zip
+tdc_id: '12286.0'
+title:
+  screen: The Cyclop's Eye
+  qualifier: Pinball Construction Set
+publisher: Anonymous
+year: 198x
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:29:26'
+  last_modified: '2019-03-01T18:29:26'
+type: zip
+requirements:
+  cpu:
+    min: '8088'
+media: Download
+commands:
+  play: CYCLOPS.COM
+files:
+- name: CYCLOPS.COM
+  size: 64512
+  date: '1993-08-25T23:56:46'
+  crc: '0xf9da4692'
+- name: PINBALL.DOC
+  size: 560
+  date: '1988-06-25T17:43:24'
+  crc: '0xfa5e2a5c'

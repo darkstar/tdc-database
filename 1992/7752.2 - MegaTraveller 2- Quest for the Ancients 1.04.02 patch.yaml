@@ -1,0 +1,38 @@
+filename: MegaTraveller 2- Quest for the Ancients 1.04.02 patch (Installer) (1992)(Paragon Software Corporation) [Action, Role-Playing (RPG), Addon].zip
+tdc_id: '7752.2'
+title:
+  screen: 'MegaTraveller 2: Quest for the Ancients 1.04.02 patch'
+publisher: Paragon Software Corporation
+year: '1992'
+genre:
+- Action
+- Role-Playing (RPG)
+- Addon
+language: English
+date:
+  added: '2021-08-01T07:57:58'
+  last_modified: '2021-08-01T07:57:58'
+type: zip
+installer: true
+patch: true
+files:
+- name: INSTALL.EXE
+  size: 12653
+  date: '1991-07-27T13:06:50'
+  crc: '0xc45e7f77'
+- name: README
+  size: 422
+  date: '1992-06-16T15:19:30'
+  crc: '0x98f9f5f0'
+- name: UPDATE.EXE
+  size: 12500
+  date: '1991-09-04T13:22:40'
+  crc: '0x9e587a51'
+- name: UPDATE1.MT2
+  size: 300032
+  date: '1992-06-05T01:04:00'
+  crc: '0xbc6cd9b3'
+- name: UPDATE2.MT2
+  size: 265634
+  date: '1992-06-05T01:04:00'
+  crc: '0x8caf609b'

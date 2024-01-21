@@ -1,0 +1,111 @@
+filename: Wibarm v1.0 (Installer) [a1] (1989)(Brøderbund Software, Inc.) [Action, Adventure, Role-Playing (RPG)].zip
+tdc_id: '7525.2'
+title:
+  box: Wibarm
+publisher: Brøderbund Software, Inc.
+year: '1989'
+genre:
+- Action
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2023-02-14T10:11:45'
+  last_modified: '2023-02-14T10:11:45'
+version: '1.0'
+type: zip
+tags:
+- Alternate: 1
+installer: true
+commands:
+  play: WIBARM.COM
+references:
+  mobygames: https://www.mobygames.com/game/dos/wibarm
+files:
+- name: ALLDATA2.DAT
+  size: 41049
+  date: '1989-07-21T12:00:00'
+  crc: '0x59b174e9'
+- name: DATADAT.DAT
+  size: 1042
+  date: '1989-07-21T12:00:00'
+  crc: '0x809b789e'
+- name: DEMOPIC.CGA
+  size: 9759
+  date: '1989-07-21T12:00:00'
+  crc: '0x192e141e'
+- name: DEMOPIC.JR
+  size: 17497
+  date: '1989-07-21T12:00:00'
+  crc: '0x63e667b6'
+- name: EXTDATS.DAT
+  size: 3106
+  date: '1989-07-21T12:00:00'
+  crc: '0x7705666e'
+- name: FONT.DAT
+  size: 940
+  date: '1989-07-21T12:00:00'
+  crc: '0xcbdf09d7'
+- name: INSTALL.BAT
+  size: 149
+  date: '1989-07-21T12:00:00'
+  crc: '0xb20b3b4b'
+- name: INSTALL2.BAT
+  size: 291
+  date: '1989-07-21T12:00:00'
+  crc: '0xb9d58d88'
+- name: MUSIC.DAT
+  size: 4745
+  date: '1989-07-21T12:00:00'
+  crc: '0x643ef787'
+- name: OPTION.DAT
+  size: 16
+  date: '1989-07-21T12:00:00'
+  crc: '0x51f97fe5'
+- name: PICTURE.DAT
+  size: 96929
+  date: '1989-07-21T12:00:00'
+  crc: '0x973d1647'
+- name: TTLMES.DAT
+  size: 1000
+  date: '1989-07-21T12:00:00'
+  crc: '0x37d0b762'
+- name: WIBARM.CGA
+  size: 41956
+  date: '1989-09-04T12:25:04'
+  crc: '0xea7b846a'
+- name: WIBARM.COM
+  size: 1205
+  date: '1989-07-21T12:00:00'
+  crc: '0xfbb63db5'
+- name: WIBARM.EGA
+  size: 43524
+  date: '1989-09-04T12:14:24'
+  crc: '0x727b50ef'
+- name: WIBARM.HER
+  size: 42010
+  date: '1989-09-04T12:26:16'
+  crc: '0x11696703'
+- name: WIBARM.JR
+  size: 43546
+  date: '1989-09-04T12:25:44'
+  crc: '0x757b7201'
+- name: WIBARM2\
+  size: 0
+  date: '2016-04-02T15:51:06'
+- name: WIBARM2\ALLDATA1.DAT
+  size: 32127
+  date: '1989-07-21T12:00:00'
+  crc: '0x7a751678'
+- name: WIBARM2\PATTERNS.CGA
+  size: 126813
+  date: '1989-07-21T12:00:00'
+  crc: '0x8f63292b'
+- name: WIBARM2\PATTERNS.EGA
+  size: 95640
+  date: '1989-07-21T12:00:00'
+  crc: '0x97d3e914'
+- name: WIBARM2\PATTERNS.JR
+  size: 106245
+  date: '1989-07-21T12:00:00'
+  crc: '0xcca8f560'

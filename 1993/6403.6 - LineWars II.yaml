@@ -1,0 +1,32 @@
+filename: LineWars II (beta) v0.65 (1993)(Patrick Aalto) [Action].zip
+tdc_id: '6403.6'
+title:
+  box: LineWars II
+  qualifier: beta
+publisher: Patrick Aalto
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2023-10-04T11:54:39'
+  last_modified: '2023-10-04T11:54:39'
+version: '0.65'
+type: zip
+media: Download
+commands:
+  play: LW2.EXE
+references:
+  mobygames: https://www.mobygames.com/game/4447/linewars-ii/
+files:
+- name: LW2.EXE
+  size: 179429
+  date: '1993-03-27T11:16:54'
+  crc: '0x88d5f3ed'
+- name: LW2BETA.DOC
+  size: 34045
+  date: '1993-03-27T10:21:18'
+  crc: '0xe0403781'
+- name: LW2VERS.DOC
+  size: 8441
+  date: '1993-03-27T08:27:30'
+  crc: '0x8791d95a'

@@ -1,0 +1,31 @@
+filename: JDR-Pacman (1999)(Johan De Ruiter) [Action].zip
+tdc_id: '11622.0'
+title:
+  screen: JDR-Pacman
+publisher: Johan De Ruiter
+year: '1999'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:46:12'
+  last_modified: '2019-03-02T10:46:12'
+type: zip
+commands:
+  play: JdRPacma.exe
+files:
+- name: JdRPacma.exe
+  size: 66754
+  date: '2001-02-26T02:21:40'
+  crc: '0x57ed227c'
+- name: PACMAN.LST
+  size: 811
+  date: '2014-03-09T18:04:34'
+  crc: '0xe6c4718a'
+- name: README.BAT
+  size: 35
+  date: '2014-03-09T18:04:18'
+  crc: '0x130deb7a'
+- name: README.TXT
+  size: 3400
+  date: '2014-03-09T18:04:18'
+  crc: '0x972283f4'

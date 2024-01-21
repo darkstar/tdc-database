@@ -1,0 +1,30 @@
+filename: Wizkid- The Story of Wizball II (Installer) (En)(De)(Fr) (1992)(Ocean Software Ltd.) [Action].zip
+tdc_id: '16049.1'
+title:
+  box: 'Wizkid: The Story of Wizball II'
+publisher: Ocean Software Ltd.
+year: '1992'
+genre: Action
+language:
+- English
+- French
+- German
+date:
+  added: '2019-03-01T18:52:28'
+  last_modified: '2019-03-01T18:52:28'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  dosid: DOS05687
+  exodos: Wizkid - The Story of Wizball II (1992).zip
+files:
+- name: INSTALL.EXE
+  size: 730112
+  date: '1992-10-01T11:43:38'
+  crc: '0x829bc500'
+- name: WIZKID.2
+  size: 213084
+  date: '1992-10-01T11:43:30'
+  crc: '0xd05829fc'

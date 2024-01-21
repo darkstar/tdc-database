@@ -1,0 +1,28 @@
+filename: Noid, The (Pinball Construction Set) (1986)(A.W.) [Action].zip
+tdc_id: '1286.0'
+title:
+  screen: The Noid
+  qualifier: Pinball Construction Set
+publisher: A.W.
+year: '1986'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:52'
+  last_modified: '2019-03-01T18:24:52'
+type: zip
+requirements:
+  cpu:
+    min: '8088'
+media: Download
+commands:
+  play: NOID.COM
+files:
+- name: NOID.COM
+  size: 64512
+  date: '1986-07-25T08:48:00'
+  crc: '0xc8b7a6a5'
+- name: PINBALL.DOC
+  size: 560
+  date: '1988-06-25T17:43:24'
+  crc: '0xfa5e2a5c'

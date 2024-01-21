@@ -1,0 +1,32 @@
+filename: PC Casino (1986)(Allan Nancoz) [Strategy, Cards, Simulation, Compilation].zip
+tdc_id: '1289.0'
+title:
+  screen: PC Casino
+publisher: Allan Nancoz
+year: '1986'
+genre:
+- Strategy
+- Cards
+- Simulation
+- Compilation
+language: English
+date:
+  added: '2019-03-01T18:24:54'
+  last_modified: '2019-03-01T18:24:54'
+type: zip
+compilation: true
+commands:
+  play: CASINO.COM
+files:
+- name: CASINO.COM
+  size: 53623
+  date: '1986-04-28T20:43:04'
+  crc: '0xf485bdf1'
+- name: CASINO.DAT
+  size: 476
+  date: '1989-02-11T12:18:36'
+  crc: '0x3a4d6aa1'
+- name: CASINO.DOC
+  size: 5346
+  date: '1986-04-20T21:05:54'
+  crc: '0xd7edf7b2'

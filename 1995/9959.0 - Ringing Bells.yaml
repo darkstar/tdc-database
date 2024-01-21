@@ -1,0 +1,27 @@
+filename: Ringing Bells (Installer) [SW] (1995)(Mark C. Williston) [Simulation].zip
+tdc_id: '9959.0'
+title:
+  screen: Ringing Bells
+publisher: Mark C. Williston
+year: '1995'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-02T08:59:50'
+  last_modified: '2019-03-02T08:59:50'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.DAT
+  size: 181114
+  date: '1995-10-07T23:18:52'
+  crc: '0xdd9a7b3c'
+- name: INSTALL.EXE
+  size: 10881
+  date: '1995-10-07T23:17:02'
+  crc: '0xdb07f6ca'

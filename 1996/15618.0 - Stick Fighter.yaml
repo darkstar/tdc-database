@@ -1,0 +1,30 @@
+filename: Stick Fighter [FW] (1996)(Brian Flanagan) [Action].zip
+tdc_id: '15618.0'
+title:
+  screen: Stick Fighter
+publisher: Brian Flanagan
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:20:44'
+  last_modified: '2023-10-24T12:07:32'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 27
+  date: '2018-04-12T17:05:38'
+  crc: '0x2a1845c6'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T01:28:02'
+  crc: '0x19f6ed75'
+- name: QBFIGHT.BAS
+  size: 21532
+  date: '2018-03-10T01:52:30'
+  crc: '0xfe35285d'

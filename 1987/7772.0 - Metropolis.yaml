@@ -1,0 +1,38 @@
+filename: Metropolis [DC] (1987)(Mastertronic Group Ltd.) [Adventure].zip
+tdc_id: '7772.0'
+title:
+  box: Metropolis
+publisher: Mastertronic Group Ltd.
+year: '1987'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:25:26'
+  last_modified: '2019-03-01T18:25:26'
+type: zip
+tags:
+- DOSConversion
+references:
+  dosid: DOS05928
+  exodos: Metropolis (1987).zip
+files:
+- name: DISK1.DAT
+  size: 368640
+  date: '2004-10-06T21:43:00'
+  crc: '0x867b674d'
+- name: DISK2.DAT
+  size: 368640
+  date: '2004-10-06T21:44:00'
+  crc: '0x8faedec3'
+- name: METROPOL.COM
+  size: 1056
+  date: '2004-10-06T21:43:00'
+  crc: '0x2a560aca'
+- name: README.TXT
+  size: 617
+  date: '2004-10-06T21:44:00'
+  crc: '0xcfce0379'
+- name: START.BAT
+  size: 18
+  date: '2004-10-06T21:43:00'
+  crc: '0x584fc7fa'

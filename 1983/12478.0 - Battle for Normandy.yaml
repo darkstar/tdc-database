@@ -1,0 +1,58 @@
+filename: Battle for Normandy (1983)(Strategic Simulations, Inc.) [Strategy, War].zip
+tdc_id: '12478.0'
+title:
+  box: Battle for Normandy
+  screen: Battle for Normandy
+publisher: Strategic Simulations, Inc.
+year: '1983'
+genre:
+- Strategy
+- War
+language: English
+date:
+  added: '2019-03-01T18:23:08'
+  last_modified: '2019-03-01T18:23:08'
+type: zip
+media: Download
+commands:
+  play: START.BAT
+references:
+  dosid: DOS00975
+  exodos: Battle for Normandy (1982).zip
+files:
+- name: DATA.MAP
+  size: 5544
+  date: '1983-05-08T08:05:16'
+  crc: '0x1306d30e'
+- name: DATA.NOR
+  size: 2990
+  date: '2002-12-24T02:28:22'
+  crc: '0x9b896815'
+- name: DDMMAIN.bas
+  size: 20480
+  date: '2002-12-24T01:46:42'
+  crc: '0xe4c410e7'
+- name: DDOPMON.bas
+  size: 9690
+  date: '2002-12-24T01:46:28'
+  crc: '0x0e1a0d9a'
+- name: DDSAVE.bas
+  size: 1244
+  date: '2002-12-24T01:47:10'
+  crc: '0x29e785be'
+- name: GAMED2.BAS
+  size: 2574
+  date: '1983-07-26T21:55:08'
+  crc: '0x692a7105'
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1991-01-31T12:17:34'
+  crc: '0x2a44af39'
+- name: START.BAT
+  size: 38
+  date: '2002-12-24T09:12:12'
+  crc: '0x35652387'
+- name: _CLS.COM
+  size: 10
+  date: '2002-12-24T09:11:52'
+  crc: '0x8230ed82'

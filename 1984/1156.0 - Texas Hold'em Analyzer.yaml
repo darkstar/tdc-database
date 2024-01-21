@@ -1,0 +1,25 @@
+filename: Texas Hold'em Analyzer (1984)(Justus Software) [Strategy, Cards].zip
+tdc_id: '1156.0'
+title:
+  screen: Texas Hold'em Analyzer
+publisher: Justus Software
+year: '1984'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:24:18'
+  last_modified: '2019-03-01T18:24:18'
+type: zip
+commands:
+  play: HOLDEM.EXE
+files:
+- name: HOLDEM.DOC
+  size: 2304
+  date: '1985-04-25T07:49:02'
+  crc: '0x303f6186'
+- name: HOLDEM.EXE
+  size: 75264
+  date: '1985-04-25T08:13:16'
+  crc: '0xcb26fee6'

@@ -1,0 +1,40 @@
+filename: Ahorcado v6.89 (Es) (1984)(Norland Software) [Strategy].zip
+tdc_id: '8175.0'
+title:
+  screen: Ahorcado
+publisher: Norland Software
+year: '1984'
+genre: Strategy
+language: Spanish
+date:
+  added: '2019-03-01T18:23:58'
+  last_modified: '2019-03-01T18:23:58'
+version: '6.89'
+type: zip
+commands:
+  play: HANGMAN0.EXE
+files:
+- name: HANGCMT.REF
+  size: 222
+  date: '1984-05-01T12:00:00'
+  crc: '0xd0a5aba2'
+- name: HANGMAN.REF
+  size: 38
+  date: '1984-05-01T12:00:00'
+  crc: '0xde926a06'
+- name: HANGMAN0.EXE
+  size: 43276
+  date: '1986-07-20T20:01:30'
+  crc: '0x0a1c3d49'
+- name: HANGMUSE.MSC
+  size: 4864
+  date: '1984-05-01T12:00:00'
+  crc: '0xb73d8d04'
+- name: HANGSP1.WRD
+  size: 50176
+  date: '1984-05-01T12:00:00'
+  crc: '0x87610af4'
+- name: HANGSP2.WRD
+  size: 40320
+  date: '1984-05-01T12:00:00'
+  crc: '0x1fada177'

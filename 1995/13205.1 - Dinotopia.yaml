@@ -1,0 +1,119 @@
+filename: Dinotopia [b1] (1995)(Turner Interactive) [Adventure].zip
+tdc_id: '13205.1'
+title:
+  box: Dinotopia
+publisher: Turner Interactive
+year: '1995'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-02T08:43:26'
+  last_modified: '2019-03-02T08:43:26'
+type: zip
+tags:
+- Bad: 1
+commands:
+  play: DINO.EXE
+references:
+  dosid: DOS01798
+  exodos: Dinotopia (1995).zip
+files:
+- name: DINO.EXE
+  size: 1415871
+  date: '1996-12-25T00:32:00'
+  crc: '0x948d237d'
+- name: DINO.HRS
+  size: 66018
+  date: '1996-12-25T00:32:00'
+  crc: '0x0e94e6bb'
+- name: DINODATA.HRS
+  size: 2698
+  date: '1996-12-25T00:32:00'
+  crc: '0x309949b3'
+- name: DINOIMAG.HRS
+  size: 42342931
+  date: '1996-12-25T00:32:00'
+  crc: '0x947ea314'
+- name: DINOTOPI.INI
+  size: 137
+  date: '2017-01-16T21:32:16'
+  crc: '0x931cd924'
+- name: DOS4GW.EXE
+  size: 264964
+  date: '1996-12-25T00:32:00'
+  crc: '0xea7106eb'
+- name: DRIVERS\
+  size: 0
+  date: '2016-08-29T17:54:16'
+- name: DRIVERS\AILDRVR.LST
+  size: 17948
+  date: '1996-12-25T00:32:00'
+  crc: '0xa9fdfa78'
+- name: DRIVERS\DIG.INI
+  size: 206
+  date: '2012-03-02T20:49:38'
+  crc: '0xe8f1b7f5'
+- name: DRIVERS\FAT.AD
+  size: 3622
+  date: '1996-12-25T00:32:00'
+  crc: '0x0ab378df'
+- name: DRIVERS\FAT.OPL
+  size: 3622
+  date: '1996-12-25T00:32:00'
+  crc: '0x0ab378df'
+- name: DRIVERS\MDI.INI
+  size: 203
+  date: '2012-03-02T20:49:34'
+  crc: '0xef87a893'
+- name: DRIVERS\SAMPLE.AD
+  size: 3622
+  date: '1996-12-25T00:32:00'
+  crc: '0x0ab378df'
+- name: DRIVERS\SAMPLE.BNK
+  size: 10780
+  date: '1996-12-25T00:32:00'
+  crc: '0x620f67a6'
+- name: DRIVERS\SAMPLE.CAT
+  size: 10484
+  date: '1996-12-25T00:32:00'
+  crc: '0x3eb22a32'
+- name: DRIVERS\SAMPLE.OPL
+  size: 3622
+  date: '1996-12-25T00:32:00'
+  crc: '0x0ab378df'
+- name: DRIVERS\SB16.DIG
+  size: 2836
+  date: '1996-12-25T00:32:00'
+  crc: '0x6ddaa5d2'
+- name: DRIVERS\SBAWE32.MDI
+  size: 32694
+  date: '1996-12-25T00:32:00'
+  crc: '0xdd43a7b8'
+- name: DRIVERS\SBLASTER.DIG
+  size: 3125
+  date: '1996-12-25T00:32:00'
+  crc: '0xd1b1a7d7'
+- name: DRIVERS\SBLASTER.MDI
+  size: 15118
+  date: '1996-12-25T00:32:00'
+  crc: '0x670d5af4'
+- name: DRIVERS\SBPRO.DIG
+  size: 2763
+  date: '1996-12-25T00:32:00'
+  crc: '0x1061490f'
+- name: DRIVERS\SBPRO1.MDI
+  size: 15471
+  date: '1996-12-25T00:32:00'
+  crc: '0x25370f67'
+- name: DRIVERS\SBPRO2.MDI
+  size: 16541
+  date: '1996-12-25T00:32:00'
+  crc: '0x0ab0493a'
+- name: SCRIPTS.HRS
+  size: 164181
+  date: '1996-12-25T00:32:00'
+  crc: '0xaafa97f2'
+- name: SETSOUND.EXE
+  size: 168785
+  date: '1996-12-25T00:32:00'
+  crc: '0x1af7f35e'

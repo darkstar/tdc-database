@@ -1,0 +1,126 @@
+filename: Shippy 1984 v1.1.7.2 (2004)(Ryan Broomfield) [Action].zip
+tdc_id: '5930.0'
+title:
+  screen: Shippy 1984
+publisher: Ryan Broomfield
+year: '2004'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:56:58'
+  last_modified: '2019-03-02T10:56:58'
+version: 1.1.7.2
+type: zip
+commands:
+  play: ship84d.exe
+files:
+- name: COPYRIGHT.txt
+  size: 396
+  date: '2004-01-16T14:58:08'
+  crc: '0x16eced79'
+- name: CWSDPMI.EXE
+  size: 21325
+  date: '2010-01-07T23:06:10'
+  crc: '0xa18c506d'
+- name: LICENSE.txt
+  size: 17719
+  date: '2004-01-30T02:08:52'
+  crc: '0xc725ecad'
+- name: NOTES.txt
+  size: 298
+  date: '2004-01-31T01:26:18'
+  crc: '0xa3386ffb'
+- name: data\
+  size: 0
+  date: '2004-01-31T20:31:48'
+- name: data\chiptun1.mod
+  size: 2142
+  date: '2000-06-26T11:24:52'
+  crc: '0x91f83e94'
+- name: data\chispa.xm
+  size: 16361
+  date: '2001-02-21T11:30:56'
+  crc: '0x5d83797d'
+- name: data\die.wav
+  size: 64276
+  date: '2003-09-29T21:10:54'
+  crc: '0x5cae78b5'
+- name: data\fanfare.wav
+  size: 35166
+  date: '2003-12-29T04:44:20'
+  crc: '0x2a6151f3'
+- name: data\graphics.bmp
+  size: 5174
+  date: '2004-01-31T15:18:00'
+  crc: '0x7f47e7e3'
+- name: data\helix.wav
+  size: 3600
+  date: '2003-12-24T03:28:24'
+  crc: '0x922f414c'
+- name: data\hit.wav
+  size: 41390
+  date: '2003-08-31T17:38:44'
+  crc: '0x6fe8773d'
+- name: data\scores.lst
+  size: 224
+  date: '2004-01-31T20:24:26'
+  crc: '0xe064cf4b'
+- name: data\shot.wav
+  size: 10634
+  date: '2003-08-13T10:35:46'
+  crc: '0x6d173952'
+- name: data\spacehar.mod
+  size: 21957
+  date: '2000-07-17T22:18:12'
+  crc: '0x6d4601ad'
+- name: data\splash.bmp
+  size: 39478
+  date: '2004-01-31T15:17:48'
+  crc: '0x607fe808'
+- name: data\splash.wav
+  size: 37975
+  date: '2004-01-05T03:43:28'
+  crc: '0xa23b65c9'
+- name: data\splash2.bmp
+  size: 39478
+  date: '2004-01-31T15:17:28'
+  crc: '0xc20f9120'
+- name: docs\
+  size: 0
+  date: '2004-01-31T20:31:48'
+- name: docs\manual.html
+  size: 1625
+  date: '2004-01-30T02:33:32'
+  crc: '0xb8f19c76'
+- name: docs\shot.gif
+  size: 4592
+  date: '2004-01-30T02:31:48'
+  crc: '0x0da36882'
+- name: docs\shot2.gif
+  size: 2529
+  date: '2004-01-30T02:31:12'
+  crc: '0xf5417194'
+- name: externs.h
+  size: 258
+  date: '2004-01-17T21:57:50'
+  crc: '0x19d88a7a'
+- name: ship84d.exe
+  size: 281396
+  date: '2004-01-31T20:31:56'
+  crc: '0xa9199b34'
+- name: shipall.c
+  size: 6855
+  date: '2004-01-31T20:17:08'
+  crc: '0x1b269b06'
+- name: shippy.c
+  size: 47901
+  date: '2004-01-31T01:08:44'
+  crc: '0x22ded515'
+- name: shippy.h
+  size: 1094
+  date: '2004-01-31T01:09:02'
+  crc: '0xa65fa9f4'
+- name: shipsdl.c
+  size: 8511
+  date: '2004-01-31T01:19:54'
+  crc: '0x4436c3c4'

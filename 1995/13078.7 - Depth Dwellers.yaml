@@ -1,0 +1,38 @@
+filename: Depth Dwellers v1.6 (Installer) [SWR] (1995)(TriSoft) [Action].zip
+tdc_id: '13078.7'
+parent_id: '13078.10'
+title:
+  screen: Depth Dwellers
+publisher: TriSoft
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2023-01-15T18:37:55'
+  last_modified: '2023-01-15T18:37:55'
+version: '1.6'
+type: zip
+tags:
+- SharewareRegistered
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/depth-dwellers
+files:
+- name: INSTALL.EXE
+  size: 73956
+  date: '1995-01-01T19:02:50'
+  crc: '0xe657644a'
+- name: INSTALL.RES
+  size: 1051
+  date: '1995-01-01T19:02:52'
+  crc: '0xe212e5eb'
+- name: VOLUME.001
+  size: 1380826
+  date: '1995-01-01T19:03:42'
+  crc: '0x84682b50'
+- name: VOLUME.002
+  size: 1363636
+  date: '1995-01-01T19:04:44'
+  crc: '0xa088d704'

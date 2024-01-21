@@ -1,0 +1,28 @@
+filename: Yahtzee (1985)(Patrick Leabo) [Strategy].zip
+tdc_id: '15804.1'
+title:
+  screen: Yahtzee
+publisher: Patrick Leabo
+year: '1985'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:24:38'
+  last_modified: '2019-03-01T18:24:38'
+type: zip
+media: Download
+commands:
+  play: PLAY.BAT
+files:
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1991-01-31T13:17:34'
+  crc: '0x2a44af39'
+- name: PLAY.BAT
+  size: 17
+  date: '2011-09-13T21:42:54'
+  crc: '0xbb9547ba'
+- name: YAHTZEE.BAS
+  size: 15104
+  date: '1985-11-10T23:26:38'
+  crc: '0x83191491'

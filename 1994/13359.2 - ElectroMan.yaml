@@ -1,0 +1,103 @@
+filename: Electro Man r941002 [SW] (1994)(Epic MegaGames, Inc.) [Action].zip
+tdc_id: '13359.2'
+title:
+  box: Electro Man
+  screen: ElectroMan
+publisher: Epic MegaGames, Inc.
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2009-11-23T03:31:30'
+  last_modified: '2023-12-21T11:41:58'
+release: '941002'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: ELECTRO.BAT
+  setup: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/752/electroman/
+files:
+- name: CATALOG.EXE
+  size: 121144
+  date: '1994-03-21T16:00:04'
+  crc: '0x41a51e8a'
+- name: ELECTRO.BAT
+  size: 35
+  date: '1993-10-05T04:28:52'
+  crc: '0x839b1667'
+- name: EM-MENU.DAT
+  size: 14470
+  date: '1994-02-02T12:17:24'
+  crc: '0x276f2d66'
+- name: EM.DAT
+  size: 320320
+  date: '1993-10-02T18:53:44'
+  crc: '0xe3952021'
+- name: EMFILE00.BAT
+  size: 48
+  date: '1993-10-05T04:28:44'
+  crc: '0x65cf7fc4'
+- name: EMFILE01.EXE
+  size: 9104
+  date: '1993-10-05T04:54:40'
+  crc: '0xb3db1753'
+- name: EMFILE02.BAT
+  size: 11
+  date: '1993-10-05T04:54:54'
+  crc: '0x8abd30e0'
+- name: EPIC.ANS
+  size: 3416
+  date: '1994-03-01T03:45:42'
+  crc: '0x66df5528'
+- name: EPIC.DAT
+  size: 10238
+  date: '1993-10-05T04:48:26'
+  crc: '0xb6239c80'
+- name: FILE_ID.DIZ
+  size: 400
+  date: '1994-02-02T12:32:52'
+  crc: '0x88afdf10'
+- name: HELPME.DOC
+  size: 6314
+  date: '1994-02-02T12:40:06'
+  crc: '0xff322950'
+- name: HELPME.EXE
+  size: 6288
+  date: '1994-01-30T20:21:42'
+  crc: '0xfbe26be6'
+- name: LICENSE.DOC
+  size: 7051
+  date: '1994-03-07T22:15:42'
+  crc: '0xc271fdbc'
+- name: ORDER-UK.DOC
+  size: 3818
+  date: '1994-03-07T22:04:24'
+  crc: '0xde825399'
+- name: ORDER.DOC
+  size: 3874
+  date: '1994-03-07T22:03:02'
+  crc: '0x270185db'
+- name: ORDER.EXE
+  size: 20157
+  date: '1993-10-27T23:49:04'
+  crc: '0x244835fb'
+- name: ORDER.TFP
+  size: 299850
+  date: '1980-04-20T19:30:58'
+  crc: '0x74c9b4f8'
+- name: SETUP.EXE
+  size: 12048
+  date: '1993-10-01T13:18:38'
+  crc: '0xfaa65419'
+- name: SYSOP.DOC
+  size: 2316
+  date: '1994-03-07T22:27:38'
+  crc: '0xffc3d868'
+- name: VENDOR.DOC
+  size: 3065
+  date: '1994-02-02T12:43:24'
+  crc: '0xbb090741'

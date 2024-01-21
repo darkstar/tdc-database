@@ -1,0 +1,40 @@
+filename: Wargame Construction Set II- TANKS! (Installer) (1994)(Strategic Simulations, Inc.) [Strategy].zip
+tdc_id: '16019.1'
+title:
+  box: 'Wargame Construction Set II: TANKS!'
+publisher: Strategic Simulations, Inc.
+year: '1994'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T07:19:26'
+  last_modified: '2019-03-02T07:19:26'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: BOOT.NFO
+  size: 37
+  date: '1994-05-17T15:55:38'
+  crc: '0x65c6f1ab'
+- name: DATA.A00
+  size: 1249268
+  date: '1994-05-18T15:10:14'
+  crc: '0x4c15ea39'
+- name: DATA.A01
+  size: 466932
+  date: '1994-05-18T15:11:16'
+  crc: '0x015da27c'
+- name: DEARJ.EXE
+  size: 39441
+  date: '1993-03-19T16:18:52'
+  crc: '0x284b68d2'
+- name: INSTALL.EXE
+  size: 47455
+  date: '1994-05-18T12:18:02'
+  crc: '0x616c46c8'
+- name: INSTALL.NFO
+  size: 437
+  date: '1994-05-17T15:55:38'
+  crc: '0xd0bc489f'

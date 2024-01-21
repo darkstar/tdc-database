@@ -1,0 +1,41 @@
+filename: King's Bounty v1.00 (1990)(New World Computing, Inc.) [Role-Playing (RPG), Strategy].zip
+tdc_id: '11808.1'
+parent_id: '11808.3'
+title:
+  box: King's Bounty
+publisher: New World Computing, Inc.
+year: '1990'
+genre:
+- Role-Playing (RPG)
+- Strategy
+language: English
+date:
+  added: '2022-07-07T06:48:48'
+  last_modified: '2022-07-07T06:48:48'
+version: '1.00'
+type: zip
+references:
+  dosid: DOS02744
+  exodos: King's Bounty (1990).zip
+notes: yes, different than 1990 title screen
+files:
+- name: 256.CC
+  size: 281551
+  date: '1990-07-23T18:09:02'
+  crc: '0xf6b3bdf0'
+- name: 416.CC
+  size: 340983
+  date: '1990-07-23T18:09:02'
+  crc: '0x5ece979f'
+- name: INSTALL.BAT
+  size: 461
+  date: '1990-07-23T18:09:02'
+  crc: '0xb901ab31'
+- name: KB.COM
+  size: 1129
+  date: '1980-01-01T00:00:00'
+  crc: '0x6eec205d'
+- name: KB.EXE
+  size: 79839
+  date: '1990-07-23T18:09:02'
+  crc: '0x899c742c'

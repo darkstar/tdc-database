@@ -1,0 +1,47 @@
+filename: QMine v1.5 (1998)(Ilmari Vacklin) [Strategy].zip
+tdc_id: '4221.0'
+title:
+  screen: QMine
+publisher: Ilmari Vacklin
+year: '1998'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:44:18'
+  last_modified: '2019-03-02T10:44:18'
+version: '1.5'
+type: zip
+commands:
+  play: QMINE.EXE
+files:
+- name: GFX\
+  size: 0
+  date: '2014-11-22T16:37:16'
+- name: GFX\CHARSET1.PUT
+  size: 6535
+  date: '1995-07-24T11:20:12'
+  crc: '0x7bfaa0d8'
+- name: GFX\CHARSET3.PUT
+  size: 5399
+  date: '1995-07-24T11:23:22'
+  crc: '0x0e43135b'
+- name: GFX\OLD.GFX
+  size: 2491
+  date: '1998-05-22T14:59:18'
+  crc: '0x0395efae'
+- name: GFX\TILES.APF
+  size: 1024
+  date: '1998-05-16T22:29:18'
+  crc: '0xc34627e7'
+- name: GFX\TILES.PUT
+  size: 2491
+  date: '1998-05-25T17:15:26'
+  crc: '0x2fbab28f'
+- name: QMINE.EXE
+  size: 79392
+  date: '1998-05-25T17:06:58'
+  crc: '0xde694992'
+- name: README.TXT
+  size: 2081
+  date: '1998-05-25T17:19:24'
+  crc: '0xb1157545'

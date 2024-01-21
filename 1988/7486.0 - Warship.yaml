@@ -1,0 +1,70 @@
+filename: Warship (1988)(Strategic Simulations, Inc.) [Strategy].zip
+tdc_id: '7486.0'
+title:
+  box: Warship
+publisher: Strategic Simulations, Inc.
+year: '1988'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:27:00'
+  last_modified: '2019-03-01T18:27:00'
+type: zip
+commands:
+  play: WARSHIP.EXE
+references:
+  dosid: DOS05554
+  exodos: Warship (1988).zip
+files:
+- name: BETU.DAT
+  size: 5040
+  date: '1988-03-15T00:08:10'
+  crc: '0xe675ac6f'
+- name: EMPRESS.DAT
+  size: 9066
+  date: '1988-03-08T11:59:22'
+  crc: '0x8f75446c'
+- name: GUAD1.DAT
+  size: 9066
+  date: '1988-03-08T11:32:02'
+  crc: '0xd5b69e5a'
+- name: GUAD2.DAT
+  size: 9066
+  date: '1988-03-01T12:24:26'
+  crc: '0xf247d229'
+- name: SAN_BERN.DAT
+  size: 9066
+  date: '1988-03-08T16:50:24'
+  crc: '0xad6b132b'
+- name: SAVO.DAT
+  size: 3600
+  date: '1988-02-19T14:08:40'
+  crc: '0x531f1df3'
+- name: SHIPS.DAT
+  size: 5758
+  date: '1988-02-19T14:08:46'
+  crc: '0xf148c026'
+- name: UNIT.DAT
+  size: 896
+  date: '1988-02-19T14:08:52'
+  crc: '0xbef2da57'
+- name: WARSHIP.EXE
+  size: 3888
+  date: '1988-06-10T00:02:38'
+  crc: '0x8e5839e7'
+- name: WARSHIP.INT
+  size: 109792
+  date: '2017-05-28T10:07:06'
+  crc: '0xfba43f2c'
+- name: WARSHIP.IN_
+  size: 109792
+  date: '1988-07-02T00:07:12'
+  crc: '0x045350aa'
+- name: WARSHIP.SHP
+  size: 3336
+  date: '1988-03-15T01:36:20'
+  crc: '0x72776782'
+- name: WARSHIP2.IBM
+  size: 16000
+  date: '1988-04-11T19:29:00'
+  crc: '0x11eddaaa'

@@ -1,0 +1,28 @@
+filename: Spectra (1997)(Kevin Weber) [Strategy].zip
+tdc_id: '4080.0'
+title:
+  screen: Spectra
+publisher: Kevin Weber
+year: '1997'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:37:56'
+  last_modified: '2019-03-02T10:37:56'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 27
+  date: '2018-07-05T13:21:50'
+  crc: '0xa5193283'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T01:28:02'
+  crc: '0x19f6ed75'
+- name: SPECTRA.BAS
+  size: 8293
+  date: '1997-07-11T14:00:52'
+  crc: '0xbd66e736'

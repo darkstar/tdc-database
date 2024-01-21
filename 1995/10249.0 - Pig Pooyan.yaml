@@ -1,0 +1,83 @@
+filename: Pig Pooyan (1995)(Anonymous) [Action].zip
+tdc_id: '10249.0'
+title:
+  screen: Pig Pooyan
+publisher: Anonymous
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T08:58:12'
+  last_modified: '2019-03-02T08:58:12'
+type: zip
+media: Download
+commands:
+  play: PIG.EXE
+references:
+  dosid: DOS07930
+  exodos: Pig Pooyan (1995).zip
+files:
+- name: BACK.PCX
+  size: 30618
+  date: '1996-07-16T01:44:24'
+  crc: '0xf6638e96'
+- name: CHAR.SPR
+  size: 2846
+  date: '1995-02-18T00:15:18'
+  crc: '0xebf03c69'
+- name: CONT.SPR
+  size: 17033
+  date: '1995-02-06T02:23:48'
+  crc: '0x803646c5'
+- name: END.SPR
+  size: 2891
+  date: '1995-02-20T20:04:52'
+  crc: '0xadfe2928'
+- name: FONT.SPR
+  size: 955
+  date: '1995-02-18T00:23:14'
+  crc: '0xc46dfe48'
+- name: HWA.SPR
+  size: 198
+  date: '1995-02-11T00:24:08'
+  crc: '0x3687e6a1'
+- name: JUL.SPR
+  size: 44
+  date: '1995-02-10T18:33:42'
+  crc: '0x711fef81'
+- name: JUM.SPR
+  size: 1220
+  date: '1995-02-17T19:55:06'
+  crc: '0xb5015413'
+- name: OVER.SPR
+  size: 2879
+  date: '1995-02-20T19:55:16'
+  crc: '0x8306a5c9'
+- name: PIG.EXE
+  size: 21962
+  date: '1996-07-16T15:53:42'
+  crc: '0xf1c3131b'
+- name: PIG.SPR
+  size: 3819
+  date: '1995-02-11T01:00:10'
+  crc: '0xe79fc6b9'
+- name: PUNG.SPR
+  size: 3028
+  date: '1995-02-17T19:58:22'
+  crc: '0x86844668'
+- name: STANDARD.PLT
+  size: 768
+  date: '1995-02-11T18:21:00'
+  crc: '0x560846f1'
+- name: STONE.SPR
+  size: 1346
+  date: '1995-02-17T18:45:20'
+  crc: '0xb94c2eeb'
+- name: WATCH.LIB
+  size: 9728
+  date: '1995-01-15T15:18:04'
+  crc: '0x7a9767c1'
+- name: WOLF.SPR
+  size: 7986
+  date: '1995-02-17T19:17:22'
+  crc: '0x43f0344a'

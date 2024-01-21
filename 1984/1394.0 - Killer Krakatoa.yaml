@@ -1,0 +1,80 @@
+filename: Killer Krakatoa (1984)(Calarian Software, Inc.) [Action].zip
+tdc_id: '1394.0'
+parent_id: '1394.1'
+title:
+  box: Killer Krakatoa
+publisher: Calarian Software, Inc.
+year: '1984'
+genre: Action
+language: English
+date:
+  added: '2022-11-09T14:44:38'
+  last_modified: '2022-11-09T14:44:38'
+type: zip
+commands:
+  play: KRAKATOA.EXE
+files:
+- name: A.BAS
+  size: 3072
+  date: '1980-01-01T01:55:30'
+  crc: '0xa87fd2f3'
+- name: CENTAURI.TXT
+  size: 2304
+  date: '1980-01-01T00:05:36'
+  crc: '0x4770579f'
+- name: CHK.GME
+  size: 128
+  date: '1987-12-07T21:17:00'
+  crc: '0xc4b9cfe3'
+- name: DATA.TXT
+  size: 128
+  date: '1987-12-07T21:16:52'
+  crc: '0x42aac11e'
+- name: IMAGES.KRK
+  size: 16512
+  date: '1980-01-01T00:12:42'
+  crc: '0x28ec4569'
+- name: KRAKATOA.BAS
+  size: 5247
+  date: '1980-01-01T00:08:08'
+  crc: '0x157a27d3'
+- name: KRAKATOA.EXE
+  size: 30848
+  date: '1980-01-01T00:09:00'
+  crc: '0x18d5784b'
+- name: KRAKATOA.TFV
+  size: 142
+  date: '1980-01-01T02:38:12'
+  crc: '0xfea7ba6c'
+- name: KRAKATOA.TXT
+  size: 4608
+  date: '1980-01-01T01:55:50'
+  crc: '0x5b5deaaf'
+- name: KRAKATOA.VBL
+  size: 2571
+  date: '1980-01-01T01:19:12'
+  crc: '0x341e634a'
+- name: LF.DTA
+  size: 1748
+  date: '1980-01-01T00:46:58'
+  crc: '0x312f2f96'
+- name: MAINST.BAT
+  size: 10
+  date: '1987-09-20T17:18:04'
+  crc: '0x948c962c'
+- name: PART.BAS
+  size: 1331
+  date: '1980-01-01T02:00:06'
+  crc: '0x4a1d90e9'
+- name: PROGRAM.BAS
+  size: 13472
+  date: '1980-01-01T02:39:18'
+  crc: '0xdfc4b4e8'
+- name: PROGRAM.EXE
+  size: 49408
+  date: '1980-01-01T00:04:58'
+  crc: '0x8bdbcf78'
+- name: VARFILER.BAS
+  size: 1098
+  date: '1980-01-01T02:23:02'
+  crc: '0xf56b455f'

@@ -1,0 +1,30 @@
+filename: U.S. States and Capitals (1983)(A. Bartorillo) [Trivia, Educational].zip
+tdc_id: '1091.0'
+title:
+  screen: U.S. States and Capitals
+publisher: A. Bartorillo
+year: '1983'
+genre:
+- Trivia
+- Educational
+language: English
+date:
+  added: '2019-03-01T18:23:22'
+  last_modified: '2019-03-01T18:23:22'
+type: zip
+media: Download
+commands:
+  play: runme.bat
+files:
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1991-01-31T18:17:34'
+  crc: '0x2a44af39'
+- name: STATES.BAS
+  size: 5282
+  date: '1984-02-16T15:30:42'
+  crc: '0x0864e346'
+- name: runme.bat
+  size: 14
+  date: '2011-01-21T21:13:32'
+  crc: '0x5678dcd3'

@@ -1,0 +1,39 @@
+filename: Alex Higgins' World Snooker (En)(De)(Fr) (1986)(Amstrad) [Sports, Simulation].zip
+tdc_id: '8313.1'
+title:
+  box: Alex Higgins' World Snooker
+publisher: Amstrad
+year: '1986'
+genre:
+- Sports
+- Simulation
+language:
+- English
+- French
+- German
+date:
+  added: '2019-03-01T18:24:38'
+  last_modified: '2019-03-01T18:24:38'
+type: zip
+commands:
+  play: SNOOKER.EXE
+references:
+  dosid: DOS00771
+  exodos: Alex Higgins' World Snooker (1986).zip
+files:
+- name: SNDDIR
+  size: 102
+  date: '1987-06-01T17:22:12'
+  crc: '0x578de438'
+- name: SNOOKER.EXE
+  size: 41136
+  date: '1988-03-15T16:36:12'
+  crc: '0x29898aab'
+- name: SNTABLE.PIC
+  size: 65535
+  date: '1986-07-30T14:08:00'
+  crc: '0x95d5ce73'
+- name: SNTITLE.PIC
+  size: 65535
+  date: '1986-06-11T14:53:00'
+  crc: '0x925f1455'

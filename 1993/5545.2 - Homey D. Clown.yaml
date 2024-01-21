@@ -1,0 +1,58 @@
+filename: Homey D. Clown v1.20 (Installer) (1993)(Capstone Software) [Action, Adventure].zip
+tdc_id: '5545.2'
+parent_id: '5545.3'
+title:
+  box: Homey D. Clown
+publisher: Capstone Software
+year: '1993'
+genre:
+- Action
+- Adventure
+language: English
+date:
+  added: '2019-03-01T19:09:42'
+  last_modified: '2019-03-01T19:09:42'
+version: '1.20'
+type: zip
+installer: true
+files:
+- name: EZI.CFG
+  size: 742
+  date: '1993-08-19T18:22:14'
+  crc: '0xe2fbcb11'
+- name: EZILOGO.TXT
+  size: 633
+  date: '1993-01-22T11:14:12'
+  crc: '0xd3f49517'
+- name: HOMEY.001
+  size: 473128
+  date: '1993-08-27T20:17:58'
+  crc: '0x36089446'
+- name: HOMEY.002
+  size: 723318
+  date: '1993-08-27T20:18:14'
+  crc: '0x5a9311f6'
+- name: HOMEY.PCX
+  size: 53566
+  date: '1993-08-12T16:38:00'
+  crc: '0x7907674f'
+- name: HTC0001
+  size: 22
+  date: '1993-08-25T17:19:00'
+  crc: '0xf3aa3589'
+- name: HTC0002
+  size: 22
+  date: '1993-08-25T17:20:14'
+  crc: '0xf3aa3589'
+- name: INSTALL.EXE
+  size: 70614
+  date: '1993-07-12T11:10:48'
+  crc: '0x1d30ffb9'
+- name: INSTALL.OLB
+  size: 48998
+  date: '1993-08-25T17:12:06'
+  crc: '0x927d91d9'
+- name: PCXVIEW.EXE
+  size: 13665
+  date: '1992-04-15T21:05:12'
+  crc: '0xc4a46293'

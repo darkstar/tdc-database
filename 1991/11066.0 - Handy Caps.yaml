@@ -1,0 +1,30 @@
+filename: Handy Caps (1991)(Softdisk Publishing) [Educational].zip
+tdc_id: '11066.0'
+title:
+  box: Handy Caps
+publisher: Softdisk Publishing
+year: '1991'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T18:36:12'
+  last_modified: '2019-03-01T18:36:12'
+type: zip
+commands:
+  play: HANDY.EXE
+references:
+  dosid: DOS02515
+  exodos: Handy Caps (1991).zip
+files:
+- name: HANDY.EXE
+  size: 59706
+  date: '1996-12-24T23:32:00'
+  crc: '0x0457a7af'
+- name: HANDY.PAK
+  size: 9802
+  date: '1996-12-24T23:32:00'
+  crc: '0x884bc119'
+- name: HANDY.TXT
+  size: 2043
+  date: '1996-12-24T23:32:00'
+  crc: '0xa3aa9651'

@@ -1,0 +1,106 @@
+filename: PC-Hack v3.5 (1986)(Don Kneller) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '10118.5'
+title:
+  screen: PC-Hack
+publisher: Don Kneller
+year: '1986'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:24:54'
+  last_modified: '2019-03-01T18:24:54'
+version: '3.5'
+type: zip
+commands:
+  play: HACK.EXE
+files:
+- name: AREAS.DAT
+  size: 3840
+  date: '1988-01-21T17:11:58'
+  crc: '0x367d12e0'
+- name: BONES.10
+  size: 6981
+  date: '1989-06-08T14:45:24'
+  crc: '0xd898aa6c'
+- name: BONES.13
+  size: 5665
+  date: '1989-06-08T14:32:24'
+  crc: '0x0f5e57ec'
+- name: BONES.14
+  size: 7073
+  date: '1989-06-07T16:50:58'
+  crc: '0x4755c875'
+- name: BONES.16
+  size: 5621
+  date: '1989-06-06T18:54:16'
+  crc: '0x44df330f'
+- name: BONES.3
+  size: 8513
+  date: '1989-08-30T16:45:32'
+  crc: '0x708853d5'
+- name: BONES.4
+  size: 7335
+  date: '1989-06-06T18:21:16'
+  crc: '0x76fa298b'
+- name: BONES.6
+  size: 6649
+  date: '1989-08-30T16:23:56'
+  crc: '0xa28d228a'
+- name: BONES.8
+  size: 5871
+  date: '1989-06-06T18:09:16'
+  crc: '0x2ebc81bc'
+- name: CHARACTR.DAT
+  size: 1920
+  date: '1988-01-21T17:11:58'
+  crc: '0x884ea520'
+- name: DATA
+  size: 10035
+  date: '1986-05-26T00:00:00'
+  crc: '0x3e88d98d'
+- name: DMDRVR.BIN
+  size: 7772
+  date: '1988-10-28T12:00:00'
+  crc: '0xe1204b8b'
+- name: HACK.BAK
+  size: 1172
+  date: '1989-06-06T14:40:40'
+  crc: '0x9812a4e6'
+- name: HACK.CNF
+  size: 1180
+  date: '1989-09-18T16:03:20'
+  crc: '0x4e2111cb'
+- name: HACK.DOC
+  size: 23492
+  date: '1987-08-27T14:22:24'
+  crc: '0xb9c85013'
+- name: HACK.EXE
+  size: 256191
+  date: '1986-05-26T00:00:00'
+  crc: '0xb3b6d904'
+- name: HELP.DOC
+  size: 4735
+  date: '1987-03-24T02:53:06'
+  crc: '0x65253f7c'
+- name: HINTS.DOC
+  size: 10861
+  date: '1986-05-26T00:00:00'
+  crc: '0x1a9a4c8c'
+- name: MAP.DAT
+  size: 8960
+  date: '1985-10-10T16:08:48'
+  crc: '0xd95dc2fd'
+- name: RECORD
+  size: 4388
+  date: '1989-09-04T11:47:26'
+  crc: '0x7e9ff67d'
+- name: RND
+  size: 9
+  date: '1989-03-25T10:21:52'
+  crc: '0xd5260c22'
+- name: RUMORS.DOC
+  size: 25585
+  date: '1986-05-26T00:00:00'
+  crc: '0x26258944'

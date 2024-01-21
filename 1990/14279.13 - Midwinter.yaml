@@ -1,0 +1,37 @@
+filename: Midwinter r900906 (De) (1990)(Rainbird Software) [IMA][360k].zip
+tdc_id: '14279.13'
+title:
+  box: Midwinter
+publisher: Rainbird Software
+year: '1990'
+genre: IMA
+language: German
+date:
+  added: '2023-07-25T14:51:31'
+  last_modified: '2023-07-25T14:51:31'
+release: '900906'
+type: IMA
+media: 360K
+references:
+  mobygames: https://www.mobygames.com/game/1479/midwinter/
+files:
+- name: disk_cga.ima
+  size: 368640
+  date: '1996-12-24T23:32:00'
+  crc: '0xd7400da1'
+- name: disk_ega.ima
+  size: 368640
+  date: '1996-12-24T23:32:00'
+  crc: '0x37646fc6'
+- name: disk_tandy.ima
+  size: 368640
+  date: '1996-12-24T23:32:00'
+  crc: '0xaa136ce1'
+- name: disk_vga.ima
+  size: 368640
+  date: '1996-12-24T23:32:00'
+  crc: '0x1081adbe'
+- name: master_disk.ima
+  size: 368640
+  date: '1996-12-24T23:32:00'
+  crc: '0xaaa194ae'

@@ -1,0 +1,75 @@
+filename: Time Treks v1.2 (Installer) [f1] (1993)(Magic Quest Inc.) [Adventure, Educational].zip
+tdc_id: '2865.0'
+title:
+  box: Time Treks
+publisher: Magic Quest Inc.
+year: '1993'
+genre:
+- Adventure
+- Educational
+language: English
+date:
+  added: '2020-01-06T09:56:06'
+  last_modified: '2020-01-06T09:56:06'
+version: '1.2'
+type: zip
+tags:
+- Fixed: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/time-treks
+files:
+- name: DISK.ID
+  size: 29
+  date: '1993-10-18T02:21:20'
+  crc: '0xa52f2612'
+- name: DISK.ID2
+  size: 29
+  date: '1993-10-18T00:25:44'
+  crc: '0xa769984b'
+- name: DISK.ID3
+  size: 29
+  date: '1993-10-18T00:28:28'
+  crc: '0xa6abf27c'
+- name: DISK.ID4
+  size: 29
+  date: '1993-10-18T00:32:34'
+  crc: '0xa3e4e4f9'
+- name: INSTALL.DAT
+  size: 7302
+  date: '1993-10-18T00:48:10'
+  crc: '0x26546dac'
+- name: INSTALL.DA_
+  size: 7302
+  date: '1993-10-18T00:48:10'
+  crc: '0x411c5142'
+- name: INSTALL.EXE
+  size: 97853
+  date: '1993-10-18T00:21:30'
+  crc: '0x6f15dd22'
+- name: README.BAT
+  size: 25
+  date: '1993-10-18T00:21:32'
+  crc: '0x5cab0d58'
+- name: README.DOC
+  size: 9272
+  date: '1993-10-18T00:21:22'
+  crc: '0x629c8947'
+- name: TIMETREK.001
+  size: 610428
+  date: '1993-10-18T02:25:32'
+  crc: '0xbcb32c41'
+- name: TIMETREK.002
+  size: 727969
+  date: '1993-10-18T00:28:06'
+  crc: '0xb85bd0f0'
+- name: TIMETREK.003
+  size: 727383
+  date: '1993-10-18T00:31:26'
+  crc: '0x3aa852ba'
+- name: TIMETREK.004
+  size: 292372
+  date: '1993-10-18T00:34:58'
+  crc: '0xb2d3dcda'

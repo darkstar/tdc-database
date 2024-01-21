@@ -1,0 +1,71 @@
+filename: Harlem Globetrotters [a1] (1990)(GameTek, Inc.) [Action, Sports].zip
+tdc_id: '11023.1'
+title:
+  box: Harlem Globetrotters
+publisher: GameTek, Inc.
+year: '1990'
+genre:
+- Action
+- Sports
+language: English
+date:
+  added: '2019-03-01T18:32:48'
+  last_modified: '2019-03-01T18:32:48'
+type: zip
+tags:
+- Alternate: 1
+commands:
+  play: HG.EXE
+files:
+- name: BIG.DAT
+  size: 53419
+  date: '1990-09-29T15:10:42'
+  crc: '0x98044f4f'
+- name: CDATA.CMP
+  size: 38358
+  date: '1990-09-20T13:05:18'
+  crc: '0xdf091121'
+- name: CHEER.DAT
+  size: 7705
+  date: '1990-08-25T14:54:24'
+  crc: '0xfe675fd2'
+- name: DGRAPH.CMP
+  size: 24380
+  date: '1990-08-31T07:04:32'
+  crc: '0xc0326ca4'
+- name: HEADS.DAT
+  size: 8080
+  date: '1990-08-29T07:53:12'
+  crc: '0x27a33e41'
+- name: HG.EXE
+  size: 75195
+  date: '1990-09-26T09:51:54'
+  crc: '0x145d2697'
+- name: LEGAL.LBM
+  size: 17368
+  date: '1990-08-15T14:29:22'
+  crc: '0x3f2ed428'
+- name: LOGO.LBM
+  size: 5960
+  date: '1980-09-04T11:48:32'
+  crc: '0xdbc7fc57'
+- name: README
+  size: 2046
+  date: '1990-09-22T13:31:30'
+  crc: '0x0f2b073c'
+- name: SELECT.LBM
+  size: 21178
+  date: '1980-08-22T10:09:56'
+  crc: '0x1515956f'
+- name: SGRAPH.CMP
+  size: 51021
+  date: '1990-09-04T13:44:14'
+  crc: '0x8acd7d6e'
+- name: STAT.LBM
+  size: 14900
+  date: '1980-08-04T07:31:38'
+  crc: '0xad1856ff'
+- name: VGRAPH.DAT
+  size: 20480
+  date: '1990-09-20T05:13:02'
+  crc: '0xf269dfba'

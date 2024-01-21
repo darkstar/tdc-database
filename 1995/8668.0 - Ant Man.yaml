@@ -1,0 +1,70 @@
+filename: Ant Man (Ko) (1995)(Namil Soft) [Action].zip
+tdc_id: '8668.0'
+title:
+  screen: Ant Man
+publisher: Namil Soft
+year: '1995'
+genre: Action
+language: Korean
+date:
+  added: '2019-03-02T07:29:24'
+  last_modified: '2019-03-02T07:29:24'
+type: zip
+commands:
+  play: KMAN.EXE
+references:
+  dosid: DOS07936
+  exodos: Ant Man (1995).zip
+files:
+- name: BACKGRND.DAT
+  size: 333901
+  date: '2011-06-04T20:28:50'
+  crc: '0xd9ecef81'
+- name: CSPRITE.DAT
+  size: 7300369
+  date: '2011-06-04T20:28:54'
+  crc: '0xc3bfa3e8'
+- name: DOS4GW.EXE
+  size: 254556
+  date: '2011-06-04T20:28:56'
+  crc: '0x95d35b4d'
+- name: ENDING.ANI
+  size: 8532720
+  date: '2011-06-04T20:28:46'
+  crc: '0xda832a67'
+- name: KMAN.EXE
+  size: 181039
+  date: '2009-10-02T03:37:22'
+  crc: '0x24be7f93'
+- name: MAP.DAT
+  size: 668028
+  date: '2011-06-04T20:28:54'
+  crc: '0xfae516a2'
+- name: MOTION.DAT
+  size: 273320
+  date: '2011-06-04T20:28:54'
+  crc: '0xe545876d'
+- name: MUSIC.DAT
+  size: 470638
+  date: '2011-06-04T20:28:54'
+  crc: '0x4592cec6'
+- name: OPEN_V.ANI
+  size: 8092996
+  date: '2011-06-04T20:28:50'
+  crc: '0x88b145e5'
+- name: PAL.DAT
+  size: 11008
+  date: '2011-06-04T20:28:54'
+  crc: '0x5723955c'
+- name: PASSWD.DAT
+  size: 22402
+  date: '2011-06-04T20:28:54'
+  crc: '0x97c2888d'
+- name: TILE.DAT
+  size: 2276034
+  date: '2011-06-04T20:28:56'
+  crc: '0xa3c8370e'
+- name: WAVE.DAT
+  size: 363852
+  date: '2011-06-04T20:28:56'
+  crc: '0xba727852'

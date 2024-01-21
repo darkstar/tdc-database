@@ -1,0 +1,82 @@
+filename: Ralph Bosson's High Seas (1987)(Garde Games Of Distinction) [Strategy].zip
+tdc_id: '1430.0'
+title:
+  screen: Ralph Bosson's High Seas
+publisher: Garde Games Of Distinction
+year: '1987'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:25:32'
+  last_modified: '2019-03-01T18:25:32'
+type: zip
+commands:
+  play: HS.EXE
+references:
+  dosid: DOS02763
+  exodos: Ralph Bosson's High Seas (1988).zip
+files:
+- name: CGA.BGI
+  size: 6029
+  date: '1987-12-16T04:00:00'
+  crc: '0xcd2d7722'
+- name: EGAVGA.BGI
+  size: 5139
+  date: '1987-12-16T04:00:00'
+  crc: '0x03b024cc'
+- name: HS.EXE
+  size: 138704
+  date: '1988-06-07T21:06:56'
+  crc: '0x0175adf4'
+- name: HSTITLE.DAT
+  size: 16006
+  date: '1988-04-20T08:07:36'
+  crc: '0x245a33ad'
+- name: SCEN1.HSS
+  size: 258
+  date: '1988-05-25T22:32:10'
+  crc: '0xe4faee08'
+- name: SCEN10.HSS
+  size: 1104
+  date: '1988-05-24T19:55:22'
+  crc: '0x7364e4f2'
+- name: SCEN11.HSS
+  size: 1480
+  date: '1988-05-25T23:10:24'
+  crc: '0xd159c681'
+- name: SCEN2.HSS
+  size: 258
+  date: '1988-05-24T17:55:58'
+  crc: '0x49f2d4a9'
+- name: SCEN3.HSS
+  size: 258
+  date: '1988-05-24T18:01:10'
+  crc: '0x1b51d3a9'
+- name: SCEN4.HSS
+  size: 258
+  date: '1988-05-24T18:55:12'
+  crc: '0xd5fad345'
+- name: SCEN5.HSS
+  size: 258
+  date: '1988-05-24T18:58:58'
+  crc: '0x09fd4bfc'
+- name: SCEN6.HSS
+  size: 258
+  date: '1988-05-25T23:03:18'
+  crc: '0x817592fe'
+- name: SCEN7.HSS
+  size: 1010
+  date: '1988-05-24T19:17:30'
+  crc: '0xe75e2083'
+- name: SCEN8.HSS
+  size: 1010
+  date: '1988-05-24T19:35:20'
+  crc: '0x520120c7'
+- name: SCEN9.HSS
+  size: 728
+  date: '1988-05-25T23:04:48'
+  crc: '0xf15793ce'
+- name: TEST.HSY
+  size: 70
+  date: '1994-08-02T13:22:10'
+  crc: '0x91d8ebf0'

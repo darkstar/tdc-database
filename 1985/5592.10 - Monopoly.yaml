@@ -1,0 +1,36 @@
+filename: Monopoly v3.22 (1985)(Don Phillip Gibson) [Strategy, Board].zip
+tdc_id: '5592.10'
+title:
+  screen: Monopoly
+publisher: Don Phillip Gibson
+year: '1985'
+genre:
+- Strategy
+- Board
+language: English
+date:
+  added: '2023-02-02T07:47:35'
+  last_modified: '2023-02-02T07:47:35'
+version: '3.22'
+type: zip
+commands:
+  play: MONOPOLY.COM
+references:
+  mobygames: https://www.mobygames.com/game/monopoly_
+files:
+- name: MONOCODE.000
+  size: 7168
+  date: '1985-12-02T12:45:04'
+  crc: '0xb941f4d2'
+- name: MONOCODE.CHN
+  size: 47287
+  date: '1985-12-02T12:45:32'
+  crc: '0x2c77e35d'
+- name: MONOGRAF.GRA
+  size: 13774
+  date: '1985-11-16T14:49:56'
+  crc: '0x0b57e940'
+- name: MONOPOLY.COM
+  size: 12206
+  date: '1985-11-29T15:45:02'
+  crc: '0x972d1d3f'

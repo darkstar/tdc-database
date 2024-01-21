@@ -1,0 +1,39 @@
+filename: Arcanoid (1991)(BadiSoft, Vadim 'Dima' Bashurov) [Action].zip
+tdc_id: '8727.0'
+title:
+  screen: Arcanoid
+publisher: BadiSoft, Vadim 'Dima' Bashurov
+year: '1991'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:34:52'
+  last_modified: '2023-10-16T09:29:13'
+type: zip
+media: Download
+commands:
+  play: ARKA.EXE
+references:
+  dosid: DOS15215
+  exodos: Arcanoid (1991).zip
+files:
+- name: ARKA.BAD
+  size: 23296
+  date: '1990-07-09T09:33:30'
+  crc: '0x59e7ff5b'
+- name: ARKA.BAL
+  size: 9600
+  date: '1990-07-04T12:50:22'
+  crc: '0xfb6f2e23'
+- name: ARKA.EXE
+  size: 52304
+  date: '1990-07-09T10:09:42'
+  crc: '0x03509a61'
+- name: ARKA.HIT
+  size: 72
+  date: '1991-04-26T19:22:52'
+  crc: '0x2eec99e2'
+- name: ARKA.LOV
+  size: 6144
+  date: '1990-07-04T10:40:36'
+  crc: '0xdc7af5d8'

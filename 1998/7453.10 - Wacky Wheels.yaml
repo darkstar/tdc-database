@@ -1,0 +1,49 @@
+filename: Wacky Wheels v1.1 [SW] (1998)(Apogee Software, Ltd.) [Action].zip
+tdc_id: '7453.10'
+parent_id: '1453.9'
+title:
+  screen: Wacky Wheels
+publisher: Apogee Software, Ltd.
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2023-03-13T14:48:11'
+  last_modified: '2023-03-13T14:48:11'
+version: '1.1'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: WW.EXE
+  setup: SETUP.EXE
+files:
+- name: MODEM.PCK
+  size: 5211
+  date: '1994-10-17T13:10:00'
+  crc: '0x81700ce9'
+- name: ORDER.FRM
+  size: 5714
+  date: '1998-04-21T13:24:38'
+  crc: '0xb78426b8'
+- name: SETUP.EXE
+  size: 391343
+  date: '1994-10-17T13:10:00'
+  crc: '0x7c73e013'
+- name: VENDOR.DOC
+  size: 7440
+  date: '1998-07-21T20:26:52'
+  crc: '0x3b5878e0'
+- name: WACKY.DAT
+  size: 4398948
+  date: '1994-10-17T13:10:00'
+  crc: '0x49c753c4'
+- name: WW.EXE
+  size: 650437
+  date: '1994-10-17T13:10:00'
+  crc: '0xbf9d9bae'
+- name: WWHELP.EXE
+  size: 17801
+  date: '1994-10-17T13:10:00'
+  crc: '0x1aa9e766'

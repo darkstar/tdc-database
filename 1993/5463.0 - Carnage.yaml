@@ -1,0 +1,144 @@
+filename: Carnage (1993)(Zeppelin Games Limited) [Racing - Driving].zip
+tdc_id: '5463.0'
+title:
+  box: Carnage
+publisher: Zeppelin Games Limited
+year: '1993'
+genre: Racing - Driving
+language: English
+date:
+  added: '2019-03-01T19:01:48'
+  last_modified: '2019-03-01T19:01:48'
+type: zip
+commands:
+  play: CARNAGE.EXE
+references:
+  dosid: DOS01263
+  exodos: Carnage (1993).zip
+files:
+- name: CARNAGE.EXE
+  size: 41764
+  date: '1993-11-03T11:41:32'
+  crc: '0x3df296bd'
+- name: CT_VOICE.DRV
+  size: 2493
+  date: '1993-11-03T11:41:32'
+  crc: '0x5ba6df77'
+- name: GRAPHICS\
+  size: 0
+  date: '2003-12-19T16:09:44'
+- name: GRAPHICS\BITS.DAT
+  size: 1920
+  date: '1993-11-03T11:41:34'
+  crc: '0xc22b8f82'
+- name: GRAPHICS\CAR.DAT
+  size: 16000
+  date: '1993-11-03T11:41:34'
+  crc: '0xdbb3dfa3'
+- name: GRAPHICS\CHAR.DAT
+  size: 512
+  date: '1993-11-03T11:41:34'
+  crc: '0x33c3c579'
+- name: GRAPHICS\INBET3.EGA
+  size: 16948
+  date: '1993-11-03T11:41:40'
+  crc: '0xd2bb6ec7'
+- name: GRAPHICS\INBET3.LBM
+  size: 16216
+  date: '1993-11-03T11:41:42'
+  crc: '0xfca4aea8'
+- name: GRAPHICS\INBETSCR.LBM
+  size: 22240
+  date: '1993-11-03T11:41:42'
+  crc: '0xa8930765'
+- name: GRAPHICS\INBSCR1.EGA
+  size: 9038
+  date: '1993-11-03T11:41:42'
+  crc: '0x36c2a7a6'
+- name: GRAPHICS\L1BLOCK.DAT
+  size: 65536
+  date: '1993-11-03T11:41:34'
+  crc: '0x01aa32be'
+- name: GRAPHICS\L1HMASK.DAT
+  size: 15360
+  date: '1993-11-03T11:41:36'
+  crc: '0xa94eb20c'
+- name: GRAPHICS\L1MASK.DAT
+  size: 16384
+  date: '1993-11-03T11:41:36'
+  crc: '0x5b4dbebd'
+- name: GRAPHICS\L2BLOCK.DAT
+  size: 61440
+  date: '1993-11-03T11:41:38'
+  crc: '0x0e799bbd'
+- name: GRAPHICS\L2HMASK.DAT
+  size: 15360
+  date: '1993-11-03T11:41:38'
+  crc: '0xd51571ca'
+- name: GRAPHICS\L2MASK.DAT
+  size: 15360
+  date: '1993-11-03T11:41:38'
+  crc: '0xc4c0488c'
+- name: GRAPHICS\LOADER.LBM
+  size: 26966
+  date: '1993-11-03T11:41:44'
+  crc: '0x38328b3b'
+- name: GRAPHICS\NUMBERS.DAT
+  size: 320
+  date: '1993-11-03T11:41:38'
+  crc: '0xb689f5f3'
+- name: GRAPHICS\SCBIT.DAT
+  size: 3840
+  date: '1993-11-03T11:41:40'
+  crc: '0xcce294e3'
+- name: GRAPHICS\SCORE.DAT
+  size: 5120
+  date: '1993-11-03T11:41:40'
+  crc: '0x5591bde5'
+- name: GRAPHICS\SHOP.LBM
+  size: 27402
+  date: '1993-11-03T11:41:44'
+  crc: '0xa81e8375'
+- name: GRAPHICS\TITLE.EGA
+  size: 14108
+  date: '1993-11-03T11:41:42'
+  crc: '0x9cdf7e8f'
+- name: GRAPHICS\TITLE.LBM
+  size: 23924
+  date: '1993-11-03T11:41:44'
+  crc: '0x48ae9eef'
+- name: GRAPHICS\TRACKS.DAT
+  size: 4464
+  date: '1993-11-03T11:41:40'
+  crc: '0x9f3bfa1c'
+- name: SAMPLES\
+  size: 0
+  date: '2012-08-10T18:04:28'
+- name: SAMPLES\BOOM.VOC
+  size: 20432
+  date: '1993-11-03T11:41:48'
+  crc: '0xf0621d2c'
+- name: SAMPLES\CRUNCH.VOC
+  size: 4368
+  date: '1993-11-03T11:41:48'
+  crc: '0x45159d0d'
+- name: SAMPLES\ENGLOOP2.VOC
+  size: 3763
+  date: '1993-11-03T11:41:48'
+  crc: '0xee80ba10'
+- name: SAMPLES\HOOT.VOC
+  size: 5447
+  date: '1993-11-03T11:41:48'
+  crc: '0x41cdd545'
+- name: SAMPLES\START.VOC
+  size: 10182
+  date: '1993-11-03T11:41:50'
+  crc: '0x2f7e5280'
+- name: SAMPLES\TURBO.VOC
+  size: 18632
+  date: '1993-11-03T11:41:50'
+  crc: '0x4279d2df'
+- name: SAMPLES\VROOM.VOC
+  size: 17849
+  date: '1993-11-03T11:41:50'
+  crc: '0x2eb32e32'

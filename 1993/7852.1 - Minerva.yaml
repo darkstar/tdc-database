@@ -1,0 +1,48 @@
+filename: Minerva v1.0e (1993)(Jouni Miettunen) [Strategy].zip
+tdc_id: '7852.1'
+title:
+  screen: Minerva
+publisher: Jouni Miettunen
+year: '1993'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T19:15:04'
+  last_modified: '2019-03-01T19:15:04'
+version: 1.0e
+type: zip
+commands:
+  play: MINERVA.EXE
+files:
+- name: MINERVA.DEF
+  size: 4
+  date: '2000-02-16T15:28:30'
+  crc: '0x456877a9'
+- name: MINERVA.EXE
+  size: 170156
+  date: '1993-10-03T11:30:52'
+  crc: '0xbfa7ae41'
+- name: MINERVA.HOF
+  size: 1764
+  date: '2000-02-16T15:28:30'
+  crc: '0xd33965be'
+- name: MINERVA.MAN
+  size: 16364
+  date: '1993-10-03T10:20:58'
+  crc: '0x98197733'
+- name: MINERVA.PAL
+  size: 140
+  date: '1993-09-17T13:59:38'
+  crc: '0xf805b82f'
+- name: MINERVA.TXT
+  size: 11257
+  date: '1993-10-01T20:01:28'
+  crc: '0x86962d32'
+- name: MINES.ALL
+  size: 17441
+  date: '1993-09-22T16:24:58'
+  crc: '0x52864007'
+- name: WARRANTY
+  size: 3712
+  date: '1993-09-15T19:08:14'
+  crc: '0xf9d52840'

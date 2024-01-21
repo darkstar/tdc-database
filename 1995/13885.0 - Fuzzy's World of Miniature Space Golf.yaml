@@ -1,0 +1,49 @@
+filename: Fuzzy's World of Miniature Space Golf (Installer) (En)(De)(Fr)(Da)(Nl) [SWR] (1995)(Pixel Painters Corporation) [Sports].zip
+tdc_id: '13885.0'
+title:
+  screen: Fuzzy's World of Miniature Space Golf
+publisher: Pixel Painters Corporation
+year: '1995'
+genre: Sports
+language:
+- English
+- French
+- German
+- Dutch
+- Danish
+date:
+  added: '2019-03-02T08:44:16'
+  last_modified: '2022-12-14T09:44:39'
+type: zip
+tags:
+- SharewareRegistered
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/fuzzys-world-of-miniature-space-golf
+files:
+- name: INSTALL.EXE
+  size: 18880
+  date: '1995-05-10T13:00:18'
+  crc: '0xb358eaaf'
+- name: INSTALL.INF
+  size: 162
+  date: '1995-05-10T13:00:44'
+  crc: '0x38646aa9'
+- name: PACKFILE.001
+  size: 1437184
+  date: '1995-05-10T13:00:06'
+  crc: '0xd3ab5fb2'
+- name: PACKFILE.002
+  size: 1456640
+  date: '1995-05-10T13:00:14'
+  crc: '0x836c777f'
+- name: PACKFILE.003
+  size: 1456640
+  date: '1995-05-10T13:00:22'
+  crc: '0x4f34f96f'
+- name: PACKFILE.004
+  size: 1019777
+  date: '1995-05-10T13:00:16'
+  crc: '0xa8f06fbf'

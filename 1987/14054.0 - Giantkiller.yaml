@@ -1,0 +1,32 @@
+filename: Giantkiller (1987)(Topologika Software Ltd.) [Adventure, Interactive Fiction].zip
+tdc_id: '14054.0'
+title:
+  box: Giantkiller
+publisher: Topologika Software Ltd.
+year: '1987'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:25:20'
+  last_modified: '2019-03-01T18:25:20'
+type: zip
+commands:
+  play: GKILLER.COM
+references:
+  dosid: DOS07546
+  exodos: Giant Killer (1987).zip
+files:
+- name: GKILLER.COM
+  size: 10240
+  date: '1987-09-01T19:06:02'
+  crc: '0x8f3461f1'
+- name: GKILLER.DAT
+  size: 39936
+  date: '1987-08-18T21:49:26'
+  crc: '0x54f92a3c'
+- name: GKILLER.DYN
+  size: 1024
+  date: '1987-08-18T21:49:26'
+  crc: '0x036c9afa'

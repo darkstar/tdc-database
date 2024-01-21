@@ -1,0 +1,32 @@
+filename: StarGunner v1.1 (Installer) [SW] (1997)(Apogee Software, Ltd.) [Action].zip
+tdc_id: '15570.0'
+title:
+  screen: StarGunner
+publisher: Apogee Software, Ltd.
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2014-02-22T15:36:36'
+  last_modified: '2014-02-22T15:36:36'
+version: '1.1'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 498
+  date: '1997-02-21T13:10:00'
+  crc: '0x00557c0c'
+- name: INSTALL.EXE
+  size: 142246
+  date: '1997-02-21T13:10:00'
+  crc: '0x20fd6646'
+- name: SGSW11.SHR
+  size: 5305431
+  date: '1997-02-21T13:10:00'
+  crc: '0x9bf38f63'

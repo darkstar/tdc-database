@@ -1,0 +1,70 @@
+filename: Titus Classiques 2 (1987)(Titus France SA) [Action, Compilation].zip
+tdc_id: '16758.0'
+title:
+  box: Titus Classiques 2
+publisher: Titus France SA
+year: '1987'
+genre:
+- Action
+- Compilation
+language: English
+date:
+  added: '2020-01-14T22:22:50'
+  last_modified: '2020-01-14T22:22:50'
+type: zip
+compilation: true
+commands:
+  play: MENU.COM
+files:
+- name: CHAR.BIN
+  size: 603
+  date: '1987-09-26T18:46:50'
+  crc: '0xe51d77a4'
+- name: CRAZYCAR.PUB
+  size: 16384
+  date: '1987-02-07T06:33:00'
+  crc: '0x041fc28d'
+- name: GP.BIN
+  size: 2662
+  date: '1987-10-15T19:28:58'
+  crc: '0x39deba71'
+- name: LABY2.BIN
+  size: 5120
+  date: '1980-01-01T01:09:20'
+  crc: '0xe34b1453'
+- name: MENU.COM
+  size: 833
+  date: '1988-01-20T11:21:26'
+  crc: '0xff733752'
+- name: MENU.CO_
+  size: 4052
+  date: '1988-01-20T12:00:34'
+  crc: '0x519a9b44'
+- name: MENU.OV1
+  size: 833
+  date: '1988-01-20T12:01:34'
+  crc: '0x33b5870d'
+- name: MENU.OV2
+  size: 27842
+  date: '1988-01-20T12:01:42'
+  crc: '0x12e1ed84'
+- name: MENU2.BIN
+  size: 1486
+  date: '1987-11-03T11:03:30'
+  crc: '0x8b286d79'
+- name: NI.BIN
+  size: 241
+  date: '1987-10-29T19:42:16'
+  crc: '0x0745b9f4'
+- name: PE.BIN
+  size: 4973
+  date: '1987-10-30T10:50:02'
+  crc: '0x43c936e0'
+- name: SCORE.BIN
+  size: 14
+  date: '1997-10-31T13:18:38'
+  crc: '0x4d90cd90'
+- name: SCREEN2.BIN
+  size: 16384
+  date: '1987-02-07T06:27:44'
+  crc: '0x934231f8'

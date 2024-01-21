@@ -1,0 +1,37 @@
+filename: SpiroTris v1.2 (Installer) (En)(Es)(Fr) [SW] (1993)(Georges Petryk) [Strategy, Action].zip
+tdc_id: '15411.0'
+title:
+  screen: SpiroTris
+publisher: Georges Petryk
+year: '1993'
+genre:
+- Strategy
+- Action
+language:
+- English
+- Spanish
+- French
+date:
+  added: '2019-03-01T21:08:36'
+  last_modified: '2022-11-30T09:55:08'
+version: '1.2'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.DAT
+  size: 244135
+  date: '1994-12-19T11:34:12'
+  crc: '0x6d475c14'
+- name: INSTALL.EXE
+  size: 11690
+  date: '1994-12-19T11:32:00'
+  crc: '0x7ef1d842'
+- name: VENDOR.DOC
+  size: 1065
+  date: '1994-12-19T11:31:58'
+  crc: '0x08b7cdb5'

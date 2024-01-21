@@ -1,0 +1,50 @@
+filename: CHAMP Galaxia v1.51 [SWR] (1997)(CHAMProgramming Corporation) [Action].zip
+tdc_id: '12068.3'
+parent_id: '12068.2'
+title:
+  screen: CHAMP Galaxia
+publisher: CHAMProgramming Corporation
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2020-08-18T22:46:50'
+  last_modified: '2020-08-18T22:46:50'
+version: '1.51'
+type: zip
+tags:
+- SharewareRegistered
+commands:
+  play: GALAXIA.EXE
+references:
+  dosid: DOS01327
+  exodos: CHAMP Galaxia (1996).zip
+files:
+- name: GALAXIA.EXE
+  size: 222996
+  date: '1997-11-01T15:40:10'
+  crc: '0xaa06cfda'
+- name: GALAXIA.HLP
+  size: 58301
+  date: '1997-11-01T15:44:06'
+  crc: '0x8a45d9a8'
+- name: GALAXIA.ICO
+  size: 766
+  date: '1997-08-05T00:27:58'
+  crc: '0xb3eb74f4'
+- name: GALAXIA.RES
+  size: 254311
+  date: '1997-10-09T15:35:08'
+  crc: '0x7ae1f541'
+- name: GALAXIA.TXT
+  size: 16852
+  date: '1997-11-01T15:49:02'
+  crc: '0x80ec4a4d'
+- name: ORDER.TXT
+  size: 5377
+  date: '1997-10-04T10:23:16'
+  crc: '0x1f3c5cf2'
+- name: WHATSNEW.TXT
+  size: 837
+  date: '1997-11-01T15:48:32'
+  crc: '0x29d3da84'

@@ -1,0 +1,53 @@
+filename: Blockbuster [f1] (1988)(Mindscape, Inc.) [Action].zip
+tdc_id: '11431.2'
+parent_id: '11431.3'
+title:
+  box: Blockbuster
+  screen: Blockbuster!
+publisher: Mindscape, Inc.
+year: '1988'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:26:00'
+  last_modified: '2023-07-16T17:48:09'
+type: zip
+tags:
+- Fixed: 1
+references:
+  mobygames: https://www.mobygames.com/game/8710/blockbuster/
+  dosid: DOS01094
+  exodos: Blockbuster (1988).zip
+files:
+- name: BUSTER.DAT
+  size: 23928
+  date: '2037-10-21T00:02:28'
+  crc: '0x7e9c87d5'
+- name: BUSTER.EXE
+  size: 76947
+  date: '2037-10-21T00:02:28'
+  crc: '0xae867186'
+- name: BUSTERE.DAT
+  size: 23946
+  date: '2037-10-21T00:02:28'
+  crc: '0x1b2c3fce'
+- name: BUSTERE.EXE
+  size: 128917
+  date: '2037-10-21T00:02:28'
+  crc: '0xd4ce5d12'
+- name: MOUSEOFF.COM
+  size: 30
+  date: '1980-01-01T00:00:00'
+  crc: '0x8f08e66f'
+- name: SETFIXED.BAT
+  size: 253
+  date: '2037-10-21T00:02:28'
+  crc: '0x4a4cea87'
+- name: UNINSTAL.BAT
+  size: 304
+  date: '2037-10-21T00:02:28'
+  crc: '0x01a89b91'
+- name: WHICH.EXE
+  size: 2770
+  date: '2037-10-21T00:02:28'
+  crc: '0xe881b089'

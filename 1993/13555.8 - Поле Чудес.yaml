@@ -1,0 +1,44 @@
+filename: Поле Чудес v.2 (Ru) [h1] (1993)(Vadim 'Dima' Bashurov) [Strategy, Educational, Adult].zip
+tdc_id: '13555.8'
+title:
+  screen: Поле Чудес
+  translation: Field of Wonders
+  transliteration: Pole Chudes
+publisher: Vadim 'Dima' Bashurov
+year: '1993'
+genre:
+- Strategy
+- Educational
+- Adult
+language: Russian
+date:
+  added: '2019-03-01T19:08:34'
+  last_modified: '2023-10-16T09:17:56'
+version: '.2'
+type: zip
+tags:
+- Hack: 1
+media: Download
+commands:
+  play: pole2.exe
+files:
+- name: pole.fnt
+  size: 7168
+  date: '1996-12-24T23:32:00'
+  crc: '0x9119d97b'
+- name: pole.ovl
+  size: 28833
+  date: '1996-12-24T23:32:00'
+  crc: '0xabd27bdd'
+- name: pole.pic
+  size: 104
+  date: '1996-12-24T23:32:00'
+  crc: '0x564fd21d'
+- name: pole2.exe
+  size: 32304
+  date: '1996-12-24T23:32:00'
+  crc: '0xada5b247'
+- name: pole2.lib
+  size: 86144
+  date: '1996-12-24T23:32:00'
+  crc: '0xe5b0625a'

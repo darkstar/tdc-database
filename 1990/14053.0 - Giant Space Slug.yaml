@@ -1,0 +1,30 @@
+filename: Giant Space Slug v2.2 [SW] (1990)(Dennis Drew) [Action].zip
+tdc_id: '14053.0'
+title:
+  screen: Giant Space Slug
+publisher: Dennis Drew
+year: '1990'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:32:44'
+  last_modified: '2019-03-01T18:32:44'
+version: '2.2'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: slug.exe
+references:
+  dosid: DOS02402
+  exodos: Giant Space Slug (1990).zip
+files:
+- name: slug.doc
+  size: 3845
+  date: '2000-08-27T22:06:00'
+  crc: '0x1fe6b322'
+- name: slug.exe
+  size: 48628
+  date: '2000-08-27T22:06:00'
+  crc: '0x9a74f627'

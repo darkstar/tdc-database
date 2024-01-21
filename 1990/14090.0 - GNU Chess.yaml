@@ -1,0 +1,66 @@
+filename: GNU Chess v3.00 (1990)(Free Software Foundation) [Strategy, Chess].zip
+tdc_id: '14090.0'
+title:
+  screen: GNU Chess
+publisher: Free Software Foundation
+year: '1990'
+genre:
+- Strategy
+- Chess
+language: English
+date:
+  added: '2019-03-01T18:32:44'
+  last_modified: '2019-03-01T18:32:44'
+version: '3.00'
+type: zip
+commands:
+  play: GNUCHESS.EXE
+files:
+- name: DOCUMENT.ZIP
+  size: 34167
+  date: '1990-03-31T04:03:26'
+  crc: '0xb9003a14'
+- name: GNUCHESS.BOO
+  size: 47344
+  date: '1990-01-01T12:07:38'
+  crc: '0xf539e80e'
+- name: GNUCHESS.C
+  size: 76847
+  date: '1990-03-31T03:52:08'
+  crc: '0xb69a4226'
+- name: GNUCHESS.EXE
+  size: 211949
+  date: '1990-03-31T04:01:28'
+  crc: '0x8b853a57'
+- name: GNUCHESS.H
+  size: 5009
+  date: '1990-03-08T10:14:42'
+  crc: '0x43824a04'
+- name: MAKEFILE
+  size: 2933
+  date: '1990-03-08T22:02:02'
+  crc: '0x5f89b43b'
+- name: NONDSP.C
+  size: 27503
+  date: '1990-03-31T03:51:10'
+  crc: '0x856d8c7b'
+- name: NUXDSP.C
+  size: 34640
+  date: '1990-03-31T03:51:10'
+  crc: '0xa32350ae'
+- name: README
+  size: 1083
+  date: '1990-03-08T22:07:20'
+  crc: '0x518689bc'
+- name: README.1ST
+  size: 487
+  date: '1990-03-31T04:14:54'
+  crc: '0x49a5683d'
+- name: UXDSP.C
+  size: 32993
+  date: '1990-03-31T04:00:22'
+  crc: '0x8f97ec7f'
+- name: VERSION.H
+  size: 236
+  date: '1990-03-08T22:02:02'
+  crc: '0xc5328a03'

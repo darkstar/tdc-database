@@ -1,0 +1,77 @@
+filename: Eye of the Beholder Trilogy CD (Installer) (1993)(Strategic Simulations, Inc.) [Action, Adventure, Role-Playing (RPG), Compilation].zip
+tdc_id: '8999.1'
+parent_id: '8999.4'
+title:
+  box: Eye of the Beholder Trilogy
+  qualifier: Installer
+publisher: Strategic Simulations, Inc.
+year: '1993'
+genre:
+- Action
+- Adventure
+- Role-Playing (RPG)
+- Compilation
+language: English
+date:
+  added: '2022-07-31T17:49:02'
+  last_modified: '2023-10-14T13:03:04'
+type: zip
+media: CD-ROM
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1224/eye-of-the-beholder-eye-of-the-beholder-ii-the-legend-of-darkmoo/
+files:
+- name: 1DATA1.ARJ
+  size: 2030527
+  date: '1993-08-30T13:46:10'
+  crc: '0xced24178'
+- name: 2DATA1.ARJ
+  size: 2402243
+  date: '1993-08-30T13:47:02'
+  crc: '0x2b6c3a44'
+- name: 3DATA1.ARJ
+  size: 9423811
+  date: '1993-08-30T13:48:26'
+  crc: '0x2b57d1fb'
+- name: 4DATA1.ARJ
+  size: 2376979
+  date: '1993-09-01T15:29:04'
+  crc: '0xd33cc512'
+- name: 5DATA1.ARJ
+  size: 5855133
+  date: '1993-08-31T11:44:56'
+  crc: '0x36234474'
+- name: BOOT.NFO
+  size: 25
+  date: '1993-08-30T10:07:14'
+  crc: '0x513027bd'
+- name: DARKDEMO.NFO
+  size: 103
+  date: '1993-08-31T12:11:04'
+  crc: '0x8afa902e'
+- name: DEARJ.EXE
+  size: 39441
+  date: '1993-03-19T16:18:52'
+  crc: '0x284b68d2'
+- name: EYE1.NFO
+  size: 106
+  date: '1993-08-31T16:29:46'
+  crc: '0x84aecbf5'
+- name: EYE2.NFO
+  size: 107
+  date: '1993-08-31T10:11:44'
+  crc: '0xc2a7fa53'
+- name: EYE3.NFO
+  size: 108
+  date: '1993-08-31T12:10:38'
+  crc: '0xed4bac3a'
+- name: HACKDEMO.NFO
+  size: 109
+  date: '1993-08-31T12:11:10'
+  crc: '0xc0d9c26b'
+- name: INSTALL.EXE
+  size: 104064
+  date: '1993-09-02T09:19:56'
+  crc: '0xd6217af9'

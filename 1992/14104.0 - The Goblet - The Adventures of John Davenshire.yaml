@@ -1,0 +1,37 @@
+filename: Goblet, The - The Adventures of John Davenshire (1992)(Michael S. Yurchuk) [Adventure, Interactive Fiction].zip
+tdc_id: '14104.0'
+title:
+  screen: The Goblet - The Adventures of John Davenshire
+publisher: Michael S. Yurchuk
+year: '1992'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:44:58'
+  last_modified: '2019-03-01T18:44:58'
+type: zip
+commands:
+  play: GOBLET.EXE
+files:
+- name: ASSIGNM.DAT
+  size: 1067
+  date: '1992-03-21T17:55:36'
+  crc: '0x775a4b34'
+- name: CRED.DAT
+  size: 516
+  date: '1992-03-19T13:57:22'
+  crc: '0xda45a1ab'
+- name: GOBLET.EXE
+  size: 114636
+  date: '1992-03-23T17:36:58'
+  crc: '0x4c16ab35'
+- name: HELP.DAT
+  size: 310
+  date: '1992-03-20T18:26:42'
+  crc: '0xdc689c65'
+- name: README.TXT
+  size: 666
+  date: '1992-04-17T13:46:02'
+  crc: '0x1156c7a9'

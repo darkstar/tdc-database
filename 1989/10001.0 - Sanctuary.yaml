@@ -1,0 +1,33 @@
+filename: Sanctuary [SW] (1989)(Conrad Button) [Adventure].zip
+tdc_id: '10001.0'
+title:
+  screen: Sanctuary
+publisher: Conrad Button
+year: '1989'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:28:50'
+  last_modified: '2019-03-01T18:28:50'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: SANC.EXE
+references:
+  dosid: DOS06313
+  exodos: Sanctuary (1989).zip
+files:
+- name: README.BAT
+  size: 1536
+  date: '1992-05-30T14:19:16'
+  crc: '0xab44322d'
+- name: SAN.DAT
+  size: 4179
+  date: '1992-05-30T14:19:16'
+  crc: '0x25cb4556'
+- name: SANC.EXE
+  size: 95148
+  date: '1995-08-14T17:00:32'
+  crc: '0x2d41aa00'

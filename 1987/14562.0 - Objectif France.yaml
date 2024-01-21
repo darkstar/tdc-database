@@ -1,0 +1,43 @@
+filename: Objectif France (Fr) (1987)(Coktel Vision) [Educational].zip
+tdc_id: '14562.0'
+title:
+  box: Objectif France
+publisher: Coktel Vision
+year: '1987'
+genre: Educational
+language: French
+date:
+  added: '2019-03-01T18:25:30'
+  last_modified: '2019-03-01T18:25:30'
+type: zip
+commands:
+  play: LOADER.COM
+files:
+- name: CARTE.INF
+  size: 2
+  date: '1989-12-09T18:02:08'
+  crc: '0x73ef707d'
+- name: EPISODE1.TOT
+  size: 26106
+  date: '1987-09-02T10:32:24'
+  crc: '0x6e173501'
+- name: EPISODE2.TOT
+  size: 27790
+  date: '1987-09-02T11:21:06'
+  crc: '0xb203d558'
+- name: EPISODE3.TOT
+  size: 17658
+  date: '1987-09-02T11:28:10'
+  crc: '0xed15825d'
+- name: EPISODE4.TOT
+  size: 18408
+  date: '1987-09-02T12:15:40'
+  crc: '0xb21f9f44'
+- name: LETTRES.BIN
+  size: 1024
+  date: '1980-01-01T03:03:48'
+  crc: '0x24f22ef1'
+- name: LOADER.COM
+  size: 47718
+  date: '1988-06-07T12:54:20'
+  crc: '0x81eb8cca'

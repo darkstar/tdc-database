@@ -1,0 +1,33 @@
+filename: Time Traveler [SW] (1989)(Conrad Button) [Adventure].zip
+tdc_id: '16735.0'
+title:
+  screen: Time Traveler
+publisher: Conrad Button
+year: '1989'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:29:12'
+  last_modified: '2019-03-01T18:29:12'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: TIMETRAV.EXE
+references:
+  dosid: DOS06315
+  exodos: Time Traveler (1989).zip
+files:
+- name: FILE1075.TXT
+  size: 1811
+  date: '1993-02-25T01:21:14'
+  crc: '0xdee7af07'
+- name: LOOK.TXT
+  size: 13312
+  date: '1989-02-07T00:21:50'
+  crc: '0x2fc1b2fb'
+- name: TIMETRAV.EXE
+  size: 100802
+  date: '1989-02-16T02:48:08'
+  crc: '0xdb19e5c6'

@@ -1,0 +1,128 @@
+filename: Puzzle Storybook v1.1 (Installer) (1989)(First Byte) [Puzzle, Educational].zip
+tdc_id: '10730.0'
+title:
+  screen: Puzzle Storybook
+publisher: First Byte
+year: '1989'
+genre:
+- Puzzle
+- Educational
+language: English
+date:
+  added: '2019-03-01T18:28:42'
+  last_modified: '2019-03-01T18:28:42'
+version: '1.1'
+type: zip
+installer: true
+references:
+  dosid: DOS15140
+  exodos: Puzzle Storybook (1988).zip
+files:
+- name: CGA.ARC
+  size: 4099
+  date: '1989-06-19T15:47:38'
+  crc: '0x8591f32b'
+- name: CONFIG.BAT
+  size: 320
+  date: '1988-09-09T12:48:36'
+  crc: '0xaaa7057c'
+- name: DETECT.EXE
+  size: 629
+  date: '1989-05-01T14:30:36'
+  crc: '0x9c983d6d'
+- name: DICT.ZUG
+  size: 1232
+  date: '1989-02-03T16:13:42'
+  crc: '0x3b1ef8f4'
+- name: DINO.EXE
+  size: 96593
+  date: '1989-04-18T13:28:00'
+  crc: '0x95b9868d'
+- name: EGA.ARC
+  size: 3758
+  date: '1989-06-19T15:47:42'
+  crc: '0xfad53395'
+- name: FIND.EXE
+  size: 1124
+  date: '1989-04-18T10:41:20'
+  crc: '0x44b82a92'
+- name: FINDGRAF.EXE
+  size: 1006
+  date: '1989-03-15T09:00:22'
+  crc: '0xdccff185'
+- name: FREEDR.EXE
+  size: 579
+  date: '1988-10-12T08:34:12'
+  crc: '0x63125961'
+- name: HDINSTAL.BAT
+  size: 983
+  date: '1989-05-02T13:32:16'
+  crc: '0xa43bd2ce'
+- name: INSTALL.BAT
+  size: 3599
+  date: '1989-06-19T15:29:58'
+  crc: '0x77d30533'
+- name: METAWNDO.ARC
+  size: 72157
+  date: '1989-06-19T15:45:14'
+  crc: '0xe3f5ee7f'
+- name: NOJOYSTI
+  size: 4
+  date: '1988-09-09T13:34:54'
+  crc: '0x3826b2a9'
+- name: PKXARC.COM
+  size: 12242
+  date: '1987-04-27T00:00:00'
+  crc: '0x97a6df4b'
+- name: PSB
+  size: 197297
+  date: '1989-06-21T09:52:38'
+  crc: '0xb825b9e8'
+- name: RUN.BAT
+  size: 404
+  date: '1989-03-02T07:55:28'
+  crc: '0xbb630ec5'
+- name: SHD.BAT
+  size: 335
+  date: '1989-03-02T07:37:54'
+  crc: '0x0e739f8d'
+- name: SINST.BAT
+  size: 1440
+  date: '1989-06-19T15:31:54'
+  crc: '0x87540736'
+- name: SPEED.EXE
+  size: 561
+  date: '1989-04-12T11:15:24'
+  crc: '0x37a63ff1'
+- name: TGA.ARC
+  size: 4283
+  date: '1989-06-19T15:47:52'
+  crc: '0x67d1a342'
+- name: V2DAC.ARC
+  size: 25429
+  date: '1989-06-19T15:45:24'
+  crc: '0xe8709d83'
+- name: V2PWM.ARC
+  size: 24601
+  date: '1989-06-19T15:45:32'
+  crc: '0xda33d7fc'
+- name: V2TND.ARC
+  size: 22247
+  date: '1989-06-19T15:45:40'
+  crc: '0xaf71b814'
+- name: V3DAC.ARC
+  size: 112612
+  date: '1989-06-19T15:46:12'
+  crc: '0x9ec16129'
+- name: V3PWM.ARC
+  size: 82680
+  date: '1989-06-19T15:46:38'
+  crc: '0x4010c443'
+- name: VGA.ARC
+  size: 4636
+  date: '1989-06-19T15:47:48'
+  crc: '0x728338cb'
+- name: WHAT.EXE
+  size: 632
+  date: '1988-11-14T13:35:28'
+  crc: '0x4f53af1f'

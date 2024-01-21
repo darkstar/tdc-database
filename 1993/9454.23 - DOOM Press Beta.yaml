@@ -1,0 +1,42 @@
+filename: DOOM Press Beta (Installer) (1993)(id Software, Inc.) [Action].zip
+tdc_id: '9454.23'
+title:
+  box: DOOM Press Beta
+publisher: id Software, Inc.
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T19:02:26'
+  last_modified: '2019-03-01T19:02:26'
+type: zip
+installer: true
+files:
+- name: DEICE.EXE
+  size: 17303
+  date: '1993-02-04T15:33:24'
+  crc: '0xaad4552c'
+- name: DEMO.1
+  size: 1408512
+  date: '1993-10-04T20:58:20'
+  crc: '0x1ba9793d'
+- name: DEMO.2
+  size: 813970
+  date: '1993-10-04T21:17:20'
+  crc: '0xd097f863'
+- name: DEMO.DAT
+  size: 161
+  date: '1993-10-04T20:57:22'
+  crc: '0xeac9a459'
+- name: INSTALL.BAT
+  size: 77
+  date: '1993-10-04T20:57:22'
+  crc: '0x5564390b'
+- name: SCNSHOTS.ZIP
+  size: 379127
+  date: '1993-10-05T17:28:26'
+  crc: '0x3c603291'
+- name: fakedate.zip
+  size: 1731
+  date: '1999-06-07T14:59:00'
+  crc: '0x70f1bae9'

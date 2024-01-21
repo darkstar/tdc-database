@@ -1,0 +1,144 @@
+filename: Artura (1989)(Virgin Mastertronic Ltd.) [Action, Adventure].zip
+tdc_id: '8804.0'
+title:
+  box: Artura
+publisher: Virgin Mastertronic Ltd.
+year: '1989'
+genre:
+- Action
+- Adventure
+language: English
+date:
+  added: '2019-03-01T18:27:14'
+  last_modified: '2019-03-01T18:27:14'
+type: zip
+commands:
+  play: ARTURA.EXE
+references:
+  dosid: DOS00865
+  exodos: Artura (1989).zip
+files:
+- name: ARTUCHR.DAT
+  size: 2114
+  date: '1989-09-28T11:12:58'
+  crc: '0x06c444d3'
+- name: ARTURA.EXE
+  size: 60481
+  date: '1989-10-20T11:30:26'
+  crc: '0xfed48e1d'
+- name: ARTURA.SND
+  size: 573
+  date: '1989-10-04T11:34:24'
+  crc: '0x0dc8feae'
+- name: ARTUSCR.DAT
+  size: 2000
+  date: '1989-09-28T11:12:58'
+  crc: '0xaa68fa98'
+- name: BIG1CHR.DAT
+  size: 32834
+  date: '1989-09-28T11:16:22'
+  crc: '0xe6040f81'
+- name: BIG1SCR.DAT
+  size: 6912
+  date: '1989-09-28T11:16:22'
+  crc: '0x8a64967e'
+- name: BIG2CHR.DAT
+  size: 27714
+  date: '1989-09-28T11:16:56'
+  crc: '0xbcd138cc'
+- name: BIG2SCR.DAT
+  size: 8640
+  date: '1989-09-28T11:16:56'
+  crc: '0x3bb3f737'
+- name: BORDCHR.DAT
+  size: 8770
+  date: '1989-09-28T11:24:16'
+  crc: '0xa51cd2ed'
+- name: BORDSCR.DAT
+  size: 2000
+  date: '1989-09-28T11:24:16'
+  crc: '0x88f4317c'
+- name: CGATITLE.DAT
+  size: 16384
+  date: '1989-09-27T11:32:34'
+  crc: '0x7f408f9b'
+- name: COLCGA.DAT
+  size: 2152
+  date: '1989-10-02T13:36:48'
+  crc: '0xb5d76b89'
+- name: COLEGA.DAT
+  size: 2152
+  date: '1989-10-02T13:36:48'
+  crc: '0x92cb7390'
+- name: COLHRC.DAT
+  size: 2152
+  date: '1989-10-02T13:36:48'
+  crc: '0x644a0aba'
+- name: COLMCG.DAT
+  size: 2152
+  date: '1989-10-02T13:36:48'
+  crc: '0x4470cd28'
+- name: COLTAN.DAT
+  size: 2152
+  date: '1989-10-02T13:36:48'
+  crc: '0x272181c3'
+- name: HOF.DAT
+  size: 117
+  date: '1989-10-04T12:57:22'
+  crc: '0x4f93c04c'
+- name: HOSTCHR.DAT
+  size: 2114
+  date: '1989-09-28T11:12:26'
+  crc: '0xf8e27840'
+- name: HOSTSCR.DAT
+  size: 90
+  date: '1989-09-28T11:12:26'
+  crc: '0x92e8f694'
+- name: HRCTITLE.DAT
+  size: 16384
+  date: '1989-09-27T11:32:36'
+  crc: '0xa048f8d3'
+- name: LTRCHR.DAT
+  size: 13890
+  date: '1989-09-28T11:25:04'
+  crc: '0xa0d434df'
+- name: LTRSCR.DAT
+  size: 2000
+  date: '1989-09-28T11:25:04'
+  crc: '0xb717c645'
+- name: RUNESCHR.DAT
+  size: 6722
+  date: '1989-09-28T11:28:12'
+  crc: '0x2a8c3739'
+- name: RUNESSCR.DAT
+  size: 1280
+  date: '1989-09-28T11:28:12'
+  crc: '0x73040b89'
+- name: SCENE.DAT
+  size: 20982
+  date: '1989-10-03T10:42:12'
+  crc: '0x7bef84ad'
+- name: SHELLCHR.DAT
+  size: 3138
+  date: '1989-09-28T11:18:48'
+  crc: '0xe043ffe3'
+- name: SHELLSCR.DAT
+  size: 2000
+  date: '1989-09-28T11:18:48'
+  crc: '0x0f07f9f8'
+- name: SPRITES.DAT
+  size: 26988
+  date: '1989-10-02T13:18:30'
+  crc: '0x0176784a'
+- name: TEMTITLE.DAT
+  size: 32768
+  date: '1989-09-27T11:32:34'
+  crc: '0x300dae65'
+- name: WINCHR.DAT
+  size: 10818
+  date: '1989-09-28T11:42:32'
+  crc: '0x4d29d22d'
+- name: WINSCR.DAT
+  size: 2000
+  date: '1989-09-28T11:42:32'
+  crc: '0xff776dc5'

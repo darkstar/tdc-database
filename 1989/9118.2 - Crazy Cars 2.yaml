@@ -1,0 +1,110 @@
+filename: Crazy Cars 2 (1989)(Titus Interactive S.A.) [Racing - Driving].zip
+tdc_id: '9118.2'
+title:
+  box: Crazy Cars 2
+publisher: Titus Interactive S.A.
+year: '1989'
+genre: Racing - Driving
+language: English
+date:
+  added: '2019-03-01T18:27:32'
+  last_modified: '2019-03-01T18:27:32'
+type: zip
+commands:
+  play: CC2EGA.EXE
+references:
+  dosid: DOS02089
+  exodos: F40 Pursuit Simulator (1989).zip
+files:
+- name: BOARD
+  size: 4001
+  date: '1989-02-23T10:51:02'
+  crc: '0x491ce1be'
+- name: BOARD.EGA
+  size: 4850
+  date: '1989-05-19T09:51:36'
+  crc: '0x1b1d7311'
+- name: CARTE
+  size: 28800
+  date: '1989-03-22T16:24:04'
+  crc: '0x7c1cb387'
+- name: CARTE.EGA
+  size: 58880
+  date: '1989-05-16T07:49:38'
+  crc: '0xe3f6c355'
+- name: CC2.EXE
+  size: 77240
+  date: '1989-08-07T17:04:36'
+  crc: '0x9cd22873'
+- name: CC2EGA.EXE
+  size: 84085
+  date: '1989-05-24T11:43:38'
+  crc: '0xc277204f'
+- name: DECOR
+  size: 9600
+  date: '1989-04-05T01:06:10'
+  crc: '0xc2538508'
+- name: EC
+  size: 300
+  date: '1980-01-01T00:02:04'
+  crc: '0x9e9732a5'
+- name: EC.EGA
+  size: 300
+  date: '1989-05-09T06:52:14'
+  crc: '0x397e127b'
+- name: FONT
+  size: 472
+  date: '1987-11-13T12:49:16'
+  crc: '0xc5f262cd'
+- name: GRAPH
+  size: 39616
+  date: '1989-05-05T16:58:50'
+  crc: '0x64049159'
+- name: GRAPH2.EGA
+  size: 53520
+  date: '1989-05-19T09:58:28'
+  crc: '0xf551a91e'
+- name: GRAPH3.EGA
+  size: 14208
+  date: '1989-05-16T11:00:16'
+  crc: '0x8c10eb22'
+- name: MASK
+  size: 39616
+  date: '1989-05-05T16:58:54'
+  crc: '0xa1742fda'
+- name: MPOL
+  size: 37316
+  date: '1989-04-26T18:14:38'
+  crc: '0x255e0257'
+- name: NEWDEC.EGA
+  size: 28800
+  date: '2088-01-03T13:53:24'
+  crc: '0x60f52851'
+- name: PALMIER.EGA
+  size: 3303
+  date: '1989-05-17T09:11:58'
+  crc: '0xdf9b55f3'
+- name: POL
+  size: 37316
+  date: '1989-04-26T18:14:36'
+  crc: '0xcfc4b1c5'
+- name: POL.EGA
+  size: 48832
+  date: '1989-05-10T11:24:58'
+  crc: '0x9a16c98a'
+- name: SCORE
+  size: 5600
+  date: '1989-04-05T00:12:38'
+  crc: '0xb17b502f'
+- name: TITUS
+  size: 32728
+  date: '1989-04-26T17:12:10'
+  crc: '0xefd611bf'
+- name: TITUS1.EGA
+  size: 26613
+  date: '1989-05-17T04:51:06'
+  crc: '0x8fa88b4e'
+- name: TITUS2.EGA
+  size: 18511
+  date: '1989-05-18T19:44:44'
+  crc: '0x5ea50867'

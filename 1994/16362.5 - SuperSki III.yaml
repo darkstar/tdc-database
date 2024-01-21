@@ -1,0 +1,58 @@
+filename: SuperSki III (Installer) [tr En] (1994)(Microïds) [Sports].zip
+tdc_id: '16362.5'
+title:
+  box: SuperSki III
+  qualifier: Installer
+publisher: Microïds
+year: '1994'
+genre: Sports
+language: English
+date:
+  added: '2023-07-31T17:19:08'
+  last_modified: '2023-07-31T17:19:08'
+type: zip
+tags:
+- Translated
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/38736/superski-iii/
+files:
+- name: INSTAL2.BAT
+  size: 790
+  date: '1997-03-01T14:23:46'
+  crc: '0xee90e30d'
+- name: INSTALL.EXE
+  size: 16192
+  date: '1997-03-01T14:22:06'
+  crc: '0x858139ca'
+- name: LZSS.EXE
+  size: 27066
+  date: '1991-07-05T12:13:28'
+  crc: '0x58f4f5c2'
+- name: PKLZSS.EXE
+  size: 50176
+  date: '1994-05-18T12:44:10'
+  crc: '0x82981cb9'
+- name: SKIPAK.0
+  size: 1360000
+  date: '1994-05-19T12:32:40'
+  crc: '0xe414f802'
+- name: SKIPAK.1
+  size: 1360000
+  date: '1994-05-19T12:38:20'
+  crc: '0x88a27973'
+- name: SKIPAK.2
+  size: 1360000
+  date: '1994-05-19T12:41:30'
+  crc: '0xfe34b1d0'
+- name: SKIPAK.3
+  size: 1360000
+  date: '1994-05-19T12:43:52'
+  crc: '0x46563e64'
+- name: SKIPAK.4
+  size: 86180
+  date: '1994-05-19T12:43:54'
+  crc: '0x0d3eaca2'

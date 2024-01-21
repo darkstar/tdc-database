@@ -1,0 +1,39 @@
+filename: Ship (1997)(Nathan A. Sweet) [Action].zip
+tdc_id: '5929.0'
+title:
+  screen: Ship
+publisher: Nathan A. Sweet
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:37:20'
+  last_modified: '2019-03-02T10:37:20'
+type: zip
+commands:
+  play: SHIP.EXE
+files:
+- name: END.GFX
+  size: 8651
+  date: '1995-10-07T23:12:04'
+  crc: '0x874b29cb'
+- name: SHIP.BAS
+  size: 21470
+  date: '1997-06-13T00:00:40'
+  crc: '0x17abcd82'
+- name: SHIP.EXE
+  size: 71914
+  date: '1997-06-13T00:01:02'
+  crc: '0x955612a2'
+- name: SHIPINS.IMG
+  size: 37007
+  date: '1994-08-01T00:02:00'
+  crc: '0x9e78dbd8'
+- name: read.txt
+  size: 1271
+  date: '2000-04-08T15:11:00'
+  crc: '0x90be6e00'
+- name: readme.txt
+  size: 200
+  date: '2000-04-03T02:53:54'
+  crc: '0x095eabb3'

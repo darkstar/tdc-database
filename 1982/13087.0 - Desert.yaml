@@ -1,0 +1,30 @@
+filename: Desert (1982)(International PC Owners) [Simulation].zip
+tdc_id: '13087.0'
+title:
+  screen: Desert
+publisher: International PC Owners
+year: '1982'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:22:58'
+  last_modified: '2019-03-01T18:22:58'
+type: zip
+commands:
+  play: DESERT.BAT
+references:
+  dosid: DOS06802
+  exodos: Desert (1982).zip
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: DESERT.BAS
+  size: 5820
+  date: '1982-03-04T00:00:00'
+  crc: '0x5848b0a2'
+- name: DESERT.BAT
+  size: 15
+  date: '2014-12-01T01:30:22'
+  crc: '0x3296753e'

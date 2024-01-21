@@ -1,0 +1,40 @@
+filename: Combat- Conflict Simulation (PCjr or Tandy BASIC) (1985)(PC-SIG) [Strategy].zip
+tdc_id: '12151.0'
+title:
+  screen: 'Combat: Conflict Simulation'
+  qualifier: PCjr or Tandy BASIC
+publisher: PC-SIG
+year: '1985'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:24:22'
+  last_modified: '2019-03-01T18:24:22'
+type: zip
+requirements:
+  cpu:
+    min: '8088'
+references:
+  dosid: DOS05363
+  exodos: Combat - Conflict Simulation (1985).zip
+files:
+- name: BASIC.EXE
+  size: 79232
+  date: '1988-09-13T15:00:00'
+  crc: '0xa0274038'
+- name: BASICA.COM
+  size: 969
+  date: '1988-09-13T15:00:00'
+  crc: '0x2185872d'
+- name: COMBAT.BAS
+  size: 40402
+  date: '1985-03-24T16:13:08'
+  crc: '0x03cd131a'
+- name: COMBAT.DOC
+  size: 278
+  date: '1985-03-24T15:02:16'
+  crc: '0x5e07934a'
+- name: RUN.BAT
+  size: 15
+  date: '2014-04-01T22:56:44'
+  crc: '0x557364e3'

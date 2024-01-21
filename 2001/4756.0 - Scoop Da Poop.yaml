@@ -1,0 +1,36 @@
+filename: Scoop Da Poop (2001)(Nico) [Adventure, Interactive Fiction].zip
+tdc_id: '4756.0'
+title:
+  screen: Scoop Da Poop
+publisher: Nico
+year: '2001'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T10:55:44'
+  last_modified: '2019-03-02T10:55:44'
+type: zip
+commands:
+  play: PLAY.EXE
+references:
+  dosid: DOS07065
+  exodos: Scoop Da Poop (2001).zip
+files:
+- name: PLAY.EXE
+  size: 43008
+  date: '1985-05-22T18:25:38'
+  crc: '0x46bde067'
+- name: REALITY.DAT
+  size: 1555
+  date: '2001-12-21T08:24:22'
+  crc: '0xafea2d59'
+- name: REALITY.MES
+  size: 2708
+  date: '2001-12-21T08:24:24'
+  crc: '0x50939879'
+- name: read me now.txt
+  size: 632
+  date: '2001-12-21T08:28:32'
+  crc: '0xd5b0abc1'

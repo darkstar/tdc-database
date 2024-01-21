@@ -1,0 +1,46 @@
+filename: Fantasy General (demo) (Installer) (1995)(Mindscape, Inc.) [Strategy].zip
+tdc_id: '13497.0'
+title:
+  screen: Fantasy General
+  qualifier: demo
+publisher: Mindscape, Inc.
+year: '1995'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T08:43:44'
+  last_modified: '2019-03-02T08:43:44'
+type: zip
+installer: true
+demo: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: BOOT.NFO
+  size: 205
+  date: '1995-11-27T09:36:14'
+  crc: '0x0ecef906'
+- name: DATA.A00
+  size: 3711002
+  date: '1996-01-11T17:20:10'
+  crc: '0xf603a06f'
+- name: DEARJ.EXE
+  size: 39441
+  date: '1993-03-19T16:18:52'
+  crc: '0x284b68d2'
+- name: HELP.TXT
+  size: 8456
+  date: '1995-02-02T15:15:56'
+  crc: '0x229f8347'
+- name: INSTALL.EXE
+  size: 149412
+  date: '1995-09-07T10:08:42'
+  crc: '0x6adc0dcc'
+- name: INSTALL.NFO
+  size: 457
+  date: '1995-11-27T09:36:14'
+  crc: '0xefff854b'
+- name: PKZIP.EXE
+  size: 42166
+  date: '1993-02-01T02:04:16'
+  crc: '0x8359fff0'

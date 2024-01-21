@@ -1,0 +1,37 @@
+filename: Castle of Kroz v1.1 (1990)(Softdisk Publishing) [Action, Adventure].zip
+tdc_id: '11986.0'
+title:
+  box: Castle of Kroz
+publisher: Softdisk Publishing
+year: '1990'
+genre:
+- Action
+- Adventure
+language: English
+date:
+  added: '2019-03-01T18:32:00'
+  last_modified: '2019-03-01T18:32:00'
+version: '1.1'
+type: zip
+commands:
+  play: CASTLE.EXE
+references:
+  dosid: DOS00244
+  exodos: Castle of Kroz (1990).zip
+files:
+- name: CASTLE.EXE
+  size: 97872
+  date: '1989-10-28T17:48:12'
+  crc: '0x03a265d0'
+- name: CASTLE.HS
+  size: 360
+  date: '1990-06-26T13:43:24'
+  crc: '0x8a970e39'
+- name: CASTLE.PAK
+  size: 9104
+  date: '1990-07-05T13:15:26'
+  crc: '0xcda96c00'
+- name: CASTLE.TXT
+  size: 4226
+  date: '1990-07-20T11:55:50'
+  crc: '0x4b7b1d79'

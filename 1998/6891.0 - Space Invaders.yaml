@@ -1,0 +1,23 @@
+filename: Space Invaders (1998)(Derek Andrews) [Action].zip
+tdc_id: '6891.0'
+title:
+  screen: Space Invaders
+publisher: Derek Andrews
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:44:36'
+  last_modified: '2019-03-02T10:44:36'
+type: zip
+commands:
+  play: INVADERS.EXE
+files:
+- name: INVADERS.BAS
+  size: 23088
+  date: '1998-04-24T10:11:28'
+  crc: '0xf2f1877e'
+- name: INVADERS.EXE
+  size: 57874
+  date: '1998-04-24T10:11:36'
+  crc: '0xa562521f'

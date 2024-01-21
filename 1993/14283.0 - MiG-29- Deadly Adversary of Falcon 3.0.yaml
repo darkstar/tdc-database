@@ -1,0 +1,91 @@
+filename: MiG-29- Deadly Adversary of Falcon 3.0 (Installer) (1993)(Spectrum HoloByte, Inc.) [Simulation, Addon].zip
+tdc_id: '14283.0'
+title:
+  box: 'MiG-29: Deadly Adversary of Falcon 3.0'
+publisher: Spectrum HoloByte, Inc.
+year: '1993'
+genre:
+- Simulation
+- Addon
+language: English
+date:
+  added: '2019-03-01T19:14:54'
+  last_modified: '2019-03-01T19:14:54'
+type: zip
+installer: true
+references:
+  dosid: DOS03555
+  exodos: MiG-29 - Deadly Adversary of Falcon 3.0 (1993).zip
+files:
+- name: 302ARM.RTP
+  size: 1894
+  date: '1993-07-10T14:50:12'
+  crc: '0xedd434ab'
+- name: 302PATCH.RTP
+  size: 610457
+  date: '1993-07-20T18:34:32'
+  crc: '0x918124e8'
+- name: ASIAPAT.RTP
+  size: 133784
+  date: '1993-07-14T17:07:52'
+  crc: '0x4a7c7a1f'
+- name: CHECKOFT.RTP
+  size: 56613
+  date: '1993-06-21T16:15:56'
+  crc: '0xcb40fa07'
+- name: CHECKVER.COM
+  size: 2239
+  date: '1993-07-20T17:57:22'
+  crc: '0x3651d9f1'
+- name: EGAVGA.BGI
+  size: 5554
+  date: '1991-11-11T03:00:00'
+  crc: '0x9b14ff3b'
+- name: EPATCH.RTP
+  size: 504846
+  date: '1993-06-21T16:16:56'
+  crc: '0x0525acc9'
+- name: F30RESET.EXE
+  size: 7307
+  date: '1993-06-30T14:23:24'
+  crc: '0xc47f3eb8'
+- name: F3UPDATE.EXE
+  size: 45358
+  date: '1993-07-19T03:02:40'
+  crc: '0x293b5562'
+- name: GOPATCH.EXE
+  size: 76981
+  date: '1992-08-12T06:00:06'
+  crc: '0x04c37c8e'
+- name: INSTALL.EXE
+  size: 47329
+  date: '1993-07-19T01:00:40'
+  crc: '0x6f45e18a'
+- name: MIGMUSIC.RTP
+  size: 156874
+  date: '1993-07-06T21:02:10'
+  crc: '0x7bff1e5e'
+- name: MIGPAT1.RTP
+  size: 1165247
+  date: '1993-07-20T18:10:40'
+  crc: '0x63162f0f'
+- name: MIGPAT2.RTP
+  size: 481872
+  date: '1993-07-14T17:10:26'
+  crc: '0x0a5f0fc0'
+- name: MIGPAT3.RTP
+  size: 287547
+  date: '1993-07-19T18:50:46'
+  crc: '0x10005acf'
+- name: MIGRESET.EXE
+  size: 7325
+  date: '1993-06-30T14:23:38'
+  crc: '0x6805840c'
+- name: PATCHARM.RTP
+  size: 8203
+  date: '1992-08-26T12:18:18'
+  crc: '0xa80aa307'
+- name: README.TXT
+  size: 14265
+  date: '1993-07-20T17:59:26'
+  crc: '0xc22dea6e'

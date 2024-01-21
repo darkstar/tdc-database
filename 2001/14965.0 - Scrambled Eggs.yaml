@@ -1,0 +1,48 @@
+filename: Scrambled Eggs v0.9 (2001)(Hamster Republic Productions) [Strategy].zip
+tdc_id: '14965.0'
+title:
+  screen: Scrambled Eggs
+publisher: Hamster Republic Productions
+year: '2001'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:55:44'
+  last_modified: '2019-03-02T10:55:44'
+version: '0.9'
+type: zip
+commands:
+  play: scramble.exe
+files:
+- name: bobvoice.dat
+  size: 29164
+  date: '1998-03-21T15:43:48'
+  crc: '0xe0d08efe'
+- name: chicks.bam
+  size: 2695
+  date: '1994-03-05T21:37:10'
+  crc: '0x50a081f8'
+- name: eggs.pal
+  size: 311
+  date: '1998-03-22T00:43:02'
+  crc: '0xc9a628ff'
+- name: eggstuff.mxs
+  size: 320000
+  date: '1994-11-11T03:20:32'
+  crc: '0xf795dfa1'
+- name: eggtext.fnt
+  size: 2055
+  date: '1996-08-25T16:57:38'
+  crc: '0x51567a8b'
+- name: palette.sto
+  size: 1545
+  date: '1996-02-28T16:32:40'
+  crc: '0xa8f8a876'
+- name: scramble.exe
+  size: 89304
+  date: '2001-05-31T21:00:50'
+  crc: '0x0a81ba6f'
+- name: scramble.txt
+  size: 1499
+  date: '2009-05-11T16:22:30'
+  crc: '0x9cfee7f8'

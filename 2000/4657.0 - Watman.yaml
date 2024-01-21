@@ -1,0 +1,102 @@
+filename: Watman (2000)(Jon Ritman & Kakarot) [Action].zip
+tdc_id: '4657.0'
+title:
+  screen: Watman
+publisher: Jon Ritman & Kakarot
+year: '2000'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:55:08'
+  last_modified: '2019-03-02T10:55:08'
+type: zip
+commands:
+  play: batman.exe
+references:
+  dosid: DOS05559
+  exodos: Watman (2000).zip
+files:
+- name: BATMAN.STT
+  size: 16384
+  date: '2000-07-26T22:27:22'
+  crc: '0xb79e6c58'
+- name: CWSDPMI.EXE
+  size: 20165
+  date: '1998-12-09T16:48:20'
+  crc: '0xdac82370'
+- name: GFX\
+  size: 0
+  date: '2014-11-22T17:27:44'
+- name: GFX\GFX.PCK
+  size: 282771
+  date: '2000-07-18T01:00:20'
+  crc: '0x921230e9'
+- name: MAPS\
+  size: 0
+  date: '2014-11-22T17:27:44'
+- name: MAPS\MAPS.PCK
+  size: 117502
+  date: '2000-07-26T22:24:32'
+  crc: '0x46b10f84'
+- name: MISC\
+  size: 0
+  date: '2014-11-22T17:27:44'
+- name: MISC\LOADING.LCK
+  size: 0
+  date: '2013-01-06T15:46:44'
+- name: MISC\MISC.PCK
+  size: 8886
+  date: '2000-07-11T23:17:12'
+  crc: '0xa14fd5ee'
+- name: batman.7up
+  size: 44
+  date: '2000-07-26T22:26:24'
+  crc: '0x2aa99ef7'
+- name: batman.exe
+  size: 247856
+  date: '2000-07-26T22:29:20'
+  crc: '0x12560348'
+- name: docs\
+  size: 0
+  date: '2014-11-22T17:27:44'
+- name: docs\Map.png
+  size: 532561
+  date: '2013-01-14T18:49:44'
+  crc: '0xbb2aefa5'
+- name: docs\README.CAT
+  size: 16696
+  date: '2000-07-25T16:37:34'
+  crc: '0x0737e206'
+- name: docs\README.TXT
+  size: 17555
+  date: '2000-07-26T22:20:24'
+  crc: '0xdd48134c'
+- name: docs\WATMAN.FAQ
+  size: 6732
+  date: '2000-07-13T14:08:16'
+  crc: '0x7d9b1c93'
+- name: docs\WOS_info.txt
+  size: 2733
+  date: '2000-07-13T14:08:14'
+  crc: '0x67946b57'
+- name: obj\
+  size: 0
+  date: '2014-11-22T17:27:44'
+- name: obj\objects.pck
+  size: 165459
+  date: '2000-07-18T00:43:04'
+  crc: '0x07fa8c59'
+- name: saves\
+  size: 0
+  date: '2014-11-22T17:27:44'
+- name: saves\delete.me
+  size: 11
+  date: '2000-07-26T22:25:58'
+  crc: '0xb652fcce'
+- name: sound\
+  size: 0
+  date: '2014-11-22T17:27:44'
+- name: sound\SOUND.PCK
+  size: 888615
+  date: '2000-07-13T22:54:32'
+  crc: '0x3cf70016'

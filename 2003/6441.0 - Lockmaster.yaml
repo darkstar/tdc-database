@@ -1,0 +1,28 @@
+filename: Lockmaster (2003)(Sam Saccone) [Strategy].zip
+tdc_id: '6441.0'
+title:
+  screen: Lockmaster
+publisher: Sam Saccone
+year: '2003'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:56:40'
+  last_modified: '2019-03-02T10:56:40'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 24
+  date: '2018-11-23T18:38:18'
+  crc: '0xc6f1368c'
+- name: LOCK.BAS
+  size: 11374
+  date: '2018-11-23T11:14:58'
+  crc: '0xaf0f2bc7'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

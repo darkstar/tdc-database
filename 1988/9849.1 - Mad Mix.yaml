@@ -1,0 +1,29 @@
+filename: Mad Mix (Es) [h1] (1988)(U.S. Gold Ltd.) [Action].zip
+tdc_id: '9849.1'
+title:
+  box: Mad Mix
+publisher: U.S. Gold Ltd.
+year: '1988'
+genre: Action
+language: Spanish
+date:
+  added: '2019-03-01T18:26:28'
+  last_modified: '2019-03-01T18:26:28'
+type: zip
+tags:
+- Hack: 1
+commands:
+  play: MADMIX.EXE
+files:
+- name: GRAFPE1.CGA
+  size: 40648
+  date: '1988-11-02T20:30:46'
+  crc: '0xfd2d9bde'
+- name: GRAFPE2.CGA
+  size: 32776
+  date: '1988-11-02T19:35:04'
+  crc: '0xb05cf491'
+- name: MADMIX.EXE
+  size: 27181
+  date: '1990-08-10T00:01:20'
+  crc: '0x0ee36d9b'

@@ -1,0 +1,44 @@
+filename: Carriers at War v2.01 (Installer) (1993)(SSG Strategic Studies Group Pty Ltd.) [Simulation, Strategy][!].zip
+tdc_id: '11978.3'
+title:
+  box: Carriers at War
+publisher: SSG Strategic Studies Group Pty Ltd.
+year: '1993'
+genre:
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2019-03-01T19:01:48'
+  last_modified: '2019-03-01T19:01:48'
+version: '2.01'
+type: zip
+tags:
+- KnownGood
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: CAW2.PAK
+  size: 1417235
+  date: '1993-07-14T10:32:58'
+  crc: '0x74f26f92'
+- name: DISK2\
+  size: 0
+  date: '2013-11-29T23:43:26'
+- name: DISK2\CAW2.PAK
+  size: 666345
+  date: '1993-07-14T10:39:04'
+  crc: '0xb4deb2bd'
+- name: EXTRA.FIL
+  size: 2541
+  date: '1993-07-11T20:41:52'
+  crc: '0x5793dc8c'
+- name: INSTALL.EXE
+  size: 31929
+  date: '1992-09-01T12:00:00'
+  crc: '0xa4d5dc97'
+- name: INSTALL.FIL
+  size: 2541
+  date: '1993-07-11T20:41:52'
+  crc: '0x5793dc8c'

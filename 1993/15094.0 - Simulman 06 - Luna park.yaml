@@ -1,0 +1,62 @@
+filename: Simulman 06 - Luna park (Installer) (It) (1993)(Simulmondo) [Action, Adventure].zip
+tdc_id: '15094.0'
+title:
+  box: Simulman 06 - Luna park
+publisher: Simulmondo
+year: '1993'
+genre:
+- Action
+- Adventure
+language: Italian
+date:
+  added: '2019-03-01T21:07:44'
+  last_modified: '2022-11-22T10:40:19'
+type: zip
+installer: true
+commands:
+  play: INSTALL.BAT
+files:
+- name: 1.U
+  size: 584095
+  date: '1993-09-14T10:54:38'
+  crc: '0xcc54a7b3'
+- name: 2.U
+  size: 554480
+  date: '1993-09-14T10:55:58'
+  crc: '0x931ae80f'
+- name: ANI1.ANI
+  size: 25370
+  date: '1993-08-26T09:34:26'
+  crc: '0xdf0abdbf'
+- name: ANIBAN.ANI
+  size: 6147
+  date: '1993-05-27T17:59:32'
+  crc: '0xef1dcda0'
+- name: GENE.CHV
+  size: 6077
+  date: '1993-08-25T11:17:10'
+  crc: '0x008d9588'
+- name: INST.EXE
+  size: 38477
+  date: '1993-09-07T19:03:50'
+  crc: '0xeeffdeda'
+- name: INSTALL.BAT
+  size: 66
+  date: '1993-06-05T18:19:20'
+  crc: '0xa2faf4c2'
+- name: INST_DAT.KXX
+  size: 737
+  date: '1993-09-15T15:22:28'
+  crc: '0xeda70200'
+- name: INST_MAN.KIT
+  size: 6689
+  date: '1993-09-14T11:13:32'
+  crc: '0x29040028'
+- name: INST_TXT.KIT
+  size: 4251
+  date: '1993-09-08T19:09:06'
+  crc: '0x5c9b38ae'
+- name: RESETTA.COM
+  size: 19
+  date: '1992-12-17T15:23:44'
+  crc: '0xc6a39750'

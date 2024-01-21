@@ -1,0 +1,35 @@
+filename: 3D CyberPuck (Installer) (De)(En) [SW] (1995)(ImagiSOFT, Inc.) [Action, Sports].zip
+tdc_id: '5154.2'
+title:
+  screen: 3D CyberPuck
+publisher: ImagiSOFT, Inc.
+year: '1995'
+genre:
+- Action
+- Sports
+language:
+- English
+- German
+date:
+  added: '2019-03-02T07:27:14'
+  last_modified: '2019-03-02T07:27:14'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK1.XXX
+  size: 1356727
+  date: '1995-10-13T14:11:48'
+  crc: '0x3d03ef7f'
+- name: INSTALL.001
+  size: 1159
+  date: '1995-10-13T14:13:52'
+  crc: '0x39d46443'
+- name: INSTALL.EXE
+  size: 87162
+  date: '1995-10-13T14:04:26'
+  crc: '0x417fa2da'

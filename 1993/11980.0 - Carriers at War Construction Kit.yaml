@@ -1,0 +1,42 @@
+filename: Carriers at War Construction Kit (Installer) (1993)(SSG Strategic Studies Group Pty Ltd.) [Simulation, Strategy, Addon].zip
+tdc_id: '11980.0'
+title:
+  box: Carriers at War Construction Kit
+publisher: SSG Strategic Studies Group Pty Ltd.
+year: '1993'
+genre:
+- Simulation
+- Strategy
+- Addon
+language: English
+date:
+  added: '2019-03-01T19:01:48'
+  last_modified: '2019-03-01T19:01:48'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: CAWV2.PAK
+  size: 1420560
+  date: '1993-05-06T13:30:38'
+  crc: '0x26bcf910'
+- name: INSTALL.EXE
+  size: 31929
+  date: '1992-09-01T12:00:00'
+  crc: '0xa4d5dc97'
+- name: INSTALL.FIL
+  size: 3991
+  date: '1993-04-30T10:49:40'
+  crc: '0x4d1a3417'
+- name: disk2\
+  size: 0
+  date: '2013-02-02T17:48:42'
+- name: disk2\CAWCREAT.PAK
+  size: 690658
+  date: '1993-05-06T13:40:42'
+  crc: '0xb2e7b0bf'
+- name: disk2\CAWV2.PAK
+  size: 609303
+  date: '1993-05-06T13:36:06'
+  crc: '0xe2b2ec64'

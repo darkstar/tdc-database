@@ -1,0 +1,33 @@
+filename: Abura Tan v0.91 (2003)(Michael Blackney) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '8022.0'
+title:
+  screen: Abura Tan
+publisher: Michael Blackney
+year: '2003'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-02T10:56:20'
+  last_modified: '2019-03-02T10:56:20'
+version: '0.91'
+type: zip
+commands:
+  play: aburatan.exe
+files:
+- name: aburatan.exe
+  size: 267204
+  date: '2003-06-26T19:30:04'
+  crc: '0x6e660c95'
+- name: gpl.txt
+  size: 14940
+  date: '2002-05-11T22:41:52'
+  crc: '0x904c5186'
+- name: readme.txt
+  size: 4006
+  date: '2003-06-26T18:26:48'
+  crc: '0x35f52173'
+- name: save\
+  size: 0
+  date: '2003-06-26T18:21:18'

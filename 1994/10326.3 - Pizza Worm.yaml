@@ -1,0 +1,29 @@
+filename: Pizza Worm v2.0 (1994)(Zorlim Software) [Action].zip
+tdc_id: '10326.3'
+title:
+  screen: Pizza Worm
+publisher: Zorlim Software
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T22:02:44'
+  last_modified: '2019-03-01T22:02:44'
+version: '2.0'
+type: zip
+media: Download
+commands:
+  play: PWORM.EXE
+files:
+- name: PWORM.DAT
+  size: 362487
+  date: '1995-10-23T15:46:24'
+  crc: '0x8b4befdf'
+- name: PWORM.DOC
+  size: 8
+  date: '1995-12-20T14:20:36'
+  crc: '0x6b50534e'
+- name: PWORM.EXE
+  size: 51056
+  date: '1995-12-20T14:20:38'
+  crc: '0xb1bc043f'

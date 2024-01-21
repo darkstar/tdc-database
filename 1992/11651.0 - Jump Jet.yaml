@@ -1,0 +1,75 @@
+filename: Jump Jet [h1][f1] (1992)(Prism Leisure Corporation Plc) [Simulation].zip
+tdc_id: '11651.0'
+parent_id: '11651.1'
+title:
+  box: Jump Jet
+publisher: Prism Leisure Corporation Plc
+year: '1992'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:26:20'
+  last_modified: '2022-10-31T09:10:02'
+type: zip
+tags:
+- Hack: 1
+- Fixed: 1
+commands:
+  play: JUMPJET.BAT
+references:
+  mobygames: https://www.mobygames.com/game/dos/harrier-mission
+  dosid: DOS02551
+  exodos: Harrier Mission (1987).zip
+files:
+- name: CRAZYKEY.COM
+  size: 8364
+  date: '1991-07-16T18:13:18'
+  crc: '0xda7f41d5'
+- name: FONT.FNT
+  size: 30720
+  date: '1988-10-12T14:25:10'
+  crc: '0x9c7ff97c'
+- name: Go.com
+  size: 350
+  date: '2009-04-16T13:27:00'
+  crc: '0x242dea21'
+- name: JJCHT.DAT
+  size: 8192
+  date: '1992-04-04T07:32:42'
+  crc: '0xa3f6b660'
+- name: JJCHT.EXE
+  size: 13232
+  date: '1992-04-27T11:55:38'
+  crc: '0x86124ce8'
+- name: JUMPJET.BAT
+  size: 34
+  date: '2012-03-02T12:29:44'
+  crc: '0xd79156a3'
+- name: JUMPJET.PIC
+  size: 16384
+  date: '1988-10-13T08:54:14'
+  crc: '0x633ffca2'
+- name: JUMPJET1.EXE
+  size: 102525
+  date: '1992-03-31T05:29:08'
+  crc: '0x1b9e5f3d'
+- name: JUMPLOAD.PIC
+  size: 16384
+  date: '1988-10-12T18:32:36'
+  crc: '0x67826735'
+- name: JUMPTOPS.PIC
+  size: 16384
+  date: '1988-10-29T20:47:00'
+  crc: '0xc1500952'
+- name: SPR.SPR
+  size: 30720
+  date: '1988-10-14T04:40:50'
+  crc: '0xbb24d412'
+- name: SPR2.SPR
+  size: 30720
+  date: '1988-10-14T04:40:52'
+  crc: '0x42947b1e'
+- name: SPR3.SPR
+  size: 30720
+  date: '1988-10-14T04:40:56'
+  crc: '0x20eb6541'

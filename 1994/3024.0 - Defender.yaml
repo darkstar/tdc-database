@@ -1,0 +1,27 @@
+filename: Defender (1994)(CSS) [Action].zip
+tdc_id: '3024.0'
+title:
+  screen: Defender
+publisher: CSS
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T21:56:00'
+  last_modified: '2019-03-01T21:56:00'
+type: zip
+commands:
+  play: DEFENDER.EXE
+files:
+- name: DEFENDER.DOC
+  size: 2038
+  date: '1994-04-19T13:41:06'
+  crc: '0xa3de981f'
+- name: DEFENDER.EXE
+  size: 10892
+  date: '1993-12-31T23:00:00'
+  crc: '0x52e4a316'
+- name: DEFENDER.SCR
+  size: 126
+  date: '1994-01-01T15:12:12'
+  crc: '0x575c4da1'

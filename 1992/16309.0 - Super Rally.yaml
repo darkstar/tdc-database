@@ -1,0 +1,30 @@
+filename: Super Rally (1992)(A.Sill) [Action, Racing - Driving].zip
+tdc_id: '16309.0'
+title:
+  screen: Super Rally
+publisher: A.Sill
+year: '1992'
+genre:
+- Action
+- Racing - Driving
+language: English
+date:
+  added: '2019-03-01T18:51:40'
+  last_modified: '2019-03-01T18:51:40'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 25
+  date: '2019-01-09T21:22:14'
+  crc: '0x1edda090'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: RALLY.BAS
+  size: 5798
+  date: '1996-01-21T11:42:54'
+  crc: '0x9b1b88b8'

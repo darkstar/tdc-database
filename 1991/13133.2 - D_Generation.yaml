@@ -1,0 +1,46 @@
+filename: D-Generation (demo) (Installer) (1991)(Mindscape, Inc.) [Action, Adventure, Strategy].zip
+tdc_id: '13133.2'
+parent_id: '13133.4'
+title:
+  screen: D/Generation
+  qualifier: demo
+publisher: Mindscape, Inc.
+year: '1991'
+genre:
+- Action
+- Adventure
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:35:28'
+  last_modified: '2019-03-01T18:35:28'
+type: zip
+installer: true
+demo: true
+commands:
+  play: INSTALL.BAT
+files:
+- name: DATA.ZIP
+  size: 145979
+  date: '1991-11-20T08:34:28'
+  crc: '0x41d98346'
+- name: DGEN.ZIP
+  size: 70137
+  date: '1991-11-22T01:53:30'
+  crc: '0xd05bba65'
+- name: INSTALL.BAT
+  size: 272
+  date: '1991-11-22T02:29:02'
+  crc: '0xe8045f5c'
+- name: PKUNZIP.EXE
+  size: 23528
+  date: '1990-03-15T01:10:00'
+  crc: '0x4457e783'
+- name: README.DOC
+  size: 3185
+  date: '1991-12-04T23:23:52'
+  crc: '0xa6d204ab'
+- name: VGA.ZIP
+  size: 52158
+  date: '1991-10-08T13:06:28'
+  crc: '0x4401d74a'

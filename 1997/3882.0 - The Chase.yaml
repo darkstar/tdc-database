@@ -1,0 +1,28 @@
+filename: Chase, The (1997)(Scott Stein) [Action].zip
+tdc_id: '3882.0'
+title:
+  screen: The Chase
+publisher: Scott Stein
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:25:26'
+  last_modified: '2019-03-02T10:25:26'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: CHASE.BAS
+  size: 23652
+  date: '2018-11-23T11:32:56'
+  crc: '0xc923cbde'
+- name: GO.BAT
+  size: 25
+  date: '2018-11-25T12:25:38'
+  crc: '0x8c6e4684'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

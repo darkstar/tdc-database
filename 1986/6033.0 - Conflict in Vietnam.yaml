@@ -1,0 +1,35 @@
+filename: Conflict in Vietnam v431.01 [DC] (1986)(MicroProse Software, Inc.) [Simulation, Strategy].zip
+tdc_id: '6033.0'
+title:
+  box: Conflict in Vietnam
+publisher: MicroProse Software, Inc.
+year: '1986'
+genre:
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:24:44'
+  last_modified: '2019-03-01T18:24:44'
+version: '431.01'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: Vietnam.com
+references:
+  dosid: DOS05851
+  exodos: Conflict in Vietnam (1986).zip
+files:
+- name: Game.dat
+  size: 327680
+  date: '1999-10-17T08:54:00'
+  crc: '0xd11abb66'
+- name: Save.dat
+  size: 327680
+  date: '1999-10-17T08:55:00'
+  crc: '0x8e5c3d7a'
+- name: Vietnam.com
+  size: 464
+  date: '1999-10-17T09:36:00'
+  crc: '0x080fdab0'

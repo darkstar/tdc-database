@@ -1,0 +1,27 @@
+filename: Fall-Zone (1990)(PC Solutions) [Action].zip
+tdc_id: '13482.0'
+title:
+  screen: Fall-Zone
+publisher: PC Solutions
+year: '1990'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:32:36'
+  last_modified: '2019-03-01T18:32:36'
+type: zip
+commands:
+  play: ZONE06.EXE
+files:
+- name: ZONE.DOC
+  size: 547
+  date: '1990-08-30T16:37:44'
+  crc: '0x2bf2ac9d'
+- name: ZONE.SPR
+  size: 400
+  date: '1990-07-11T15:47:26'
+  crc: '0x1a7154ff'
+- name: ZONE06.EXE
+  size: 17248
+  date: '1990-08-24T06:09:42'
+  crc: '0x927d3429'

@@ -1,0 +1,27 @@
+filename: Witchaven II- Blood Vengeance v2.0g Patch (1996)(IntraCorp, Inc.) [Action, Addon].zip
+tdc_id: '7582.5'
+title:
+  screen: 'Witchaven II: Blood Vengeance'
+publisher: IntraCorp, Inc.
+year: '1996'
+genre:
+- Action
+- Addon
+language: English
+date:
+  added: '2022-10-26T17:44:16'
+  last_modified: '2022-10-26T17:44:16'
+version: 2.0g
+type: zip
+patch: true
+references:
+  mobygames: https://www.mobygames.com/game/dos/witchaven-ii-blood-vengeance
+files:
+- name: CHANGES.TXT
+  size: 1167
+  date: '1996-05-07T10:52:56'
+  crc: '0xb6627642'
+- name: WH2.EXE
+  size: 1028105
+  date: '1996-05-07T12:10:56'
+  crc: '0x97ef06bc'

@@ -1,0 +1,29 @@
+filename: Champions of Krynn v1.2 (Installer) (1990)(Strategic Simulations, Inc.) [Role-Playing (RPG)].zip
+tdc_id: '8909.3'
+title:
+  box: Champions of Krynn
+publisher: Strategic Simulations, Inc.
+year: '1990'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:32:04'
+  last_modified: '2019-03-01T18:32:04'
+version: '1.2'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK1.ARJ
+  size: 726436
+  date: '1992-08-11T17:02:16'
+  crc: '0xafb2753c'
+- name: INSTALL.EXE
+  size: 68613
+  date: '1992-08-12T10:44:02'
+  crc: '0x976fe3ce'
+- name: SAVE.ARJ
+  size: 3202
+  date: '1992-08-11T17:37:32'
+  crc: '0x523bd98b'

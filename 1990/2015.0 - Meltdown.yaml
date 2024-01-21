@@ -1,0 +1,78 @@
+filename: Meltdown (1990)(Matthew Wall) [Adventure].zip
+tdc_id: '2015.0'
+title:
+  screen: Meltdown
+publisher: Matthew Wall
+year: '1990'
+genre: Adventure
+language: English
+date:
+  added: '2020-11-26T12:21:04'
+  last_modified: '2020-11-26T12:21:04'
+type: zip
+commands:
+  play: MELTDOWN.EXE
+references:
+  dosid: DOS06953
+  exodos: Meltdown (1990).zip
+files:
+- name: MD.DAT
+  size: 48851
+  date: '1989-12-31T18:00:00'
+  crc: '0x4c54566d'
+- name: MD1.SAV
+  size: 306
+  date: '1989-12-31T18:00:00'
+  crc: '0xcdaf6cab'
+- name: MD2.SAV
+  size: 307
+  date: '1989-12-31T18:00:00'
+  crc: '0xe1be43eb'
+- name: MD3.SAV
+  size: 305
+  date: '1989-12-31T18:00:00'
+  crc: '0x22e5a82c'
+- name: MD4.SAV
+  size: 315
+  date: '1989-12-31T18:00:00'
+  crc: '0x245fc2fa'
+- name: MD5.SAV
+  size: 315
+  date: '1989-12-31T18:00:00'
+  crc: '0x449b47e3'
+- name: MD6.SAV
+  size: 315
+  date: '1989-12-31T18:00:00'
+  crc: '0x5d952691'
+- name: MD7.SAV
+  size: 313
+  date: '1989-12-31T18:00:00'
+  crc: '0x08af7f00'
+- name: MD8.SAV
+  size: 313
+  date: '1989-12-31T18:00:00'
+  crc: '0xcce167c3'
+- name: MD9.SAV
+  size: 312
+  date: '1989-12-31T18:00:00'
+  crc: '0x0ee793f3'
+- name: MDCGA.OVL
+  size: 31815
+  date: '1989-12-31T18:00:00'
+  crc: '0x8969a4d7'
+- name: MDEGA.OVL
+  size: 72384
+  date: '1989-12-31T18:00:00'
+  crc: '0x7ce3c050'
+- name: MDSCORES.DAT
+  size: 152
+  date: '1991-10-03T13:29:30'
+  crc: '0x74b82655'
+- name: MELTDOWN.DOC
+  size: 6022
+  date: '1991-10-03T13:21:00'
+  crc: '0x83d92cd8'
+- name: MELTDOWN.EXE
+  size: 105166
+  date: '1991-10-03T13:48:12'
+  crc: '0x7ee405a1'

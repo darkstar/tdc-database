@@ -1,0 +1,32 @@
+filename: SuperKarts v0.98 (1995)(Virgin Interactive Entertainment, Inc.) [Racing - Driving].zip
+tdc_id: '16354.0'
+title:
+  box: SuperKarts
+publisher: Virgin Interactive Entertainment, Inc.
+year: '1995'
+genre: Racing - Driving
+language: English
+date:
+  added: '2019-03-02T09:05:54'
+  last_modified: '2019-03-02T09:05:54'
+version: '0.98'
+type: zip
+commands:
+  play: KART.EXE
+files:
+- name: DOS4GW.EXE
+  size: 254556
+  date: '1994-01-11T17:52:00'
+  crc: '0x95d35b4d'
+- name: KART.DAT
+  size: 1354102
+  date: '1995-01-20T21:55:02'
+  crc: '0xb9053f22'
+- name: KART.EXE
+  size: 493869
+  date: '1995-01-21T01:21:44'
+  crc: '0x76117732'
+- name: README.DOC
+  size: 4808
+  date: '1995-01-18T02:02:24'
+  crc: '0x2e1714d4'

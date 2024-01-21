@@ -1,0 +1,30 @@
+filename: Sea Hunt v1.23 [SW] (1988)(HalmaGames) [Strategy].zip
+tdc_id: '5829.1'
+title:
+  screen: Sea Hunt
+publisher: HalmaGames
+year: '1988'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:26:44'
+  last_modified: '2019-03-01T18:26:44'
+version: '1.23'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: SEAHUNT.EXE
+references:
+  dosid: DOS04446
+  exodos: Sea Hunt (1987).zip
+files:
+- name: SEAHUNT.1ST
+  size: 6333
+  date: '1988-10-10T11:40:56'
+  crc: '0x1d115359'
+- name: SEAHUNT.EXE
+  size: 137274
+  date: '1988-10-10T22:02:48'
+  crc: '0x1b19d102'

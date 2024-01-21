@@ -1,0 +1,53 @@
+filename: Wanton Destruction v1.2 (2005)(3D Realms Entertainment, Inc.) [Action, Addon].zip
+tdc_id: '7463.0'
+title:
+  screen: Wanton Destruction
+publisher: 3D Realms Entertainment, Inc.
+year: '2005'
+genre:
+- Action
+- Addon
+language: English
+date:
+  added: '2019-03-02T10:57:10'
+  last_modified: '2019-03-02T10:57:10'
+version: '1.2'
+type: zip
+commands:
+  play: wanton.exe
+references:
+  dosid: DOS05529
+  exodos: Wanton Destruction (2005).zip
+files:
+- name: SYSTM12.FGF
+  size: 2690
+  date: '1997-10-03T21:00:00'
+  crc: '0x7b5220a9'
+- name: SYSTM12B.FGF
+  size: 2690
+  date: '1997-10-03T21:00:00'
+  crc: '0x9d20af21'
+- name: WT.GRP
+  size: 48698128
+  date: '1998-01-28T09:43:04'
+  crc: '0xa9aaa7b7'
+- name: Wanton.dat
+  size: 2324000
+  date: '1997-12-19T05:00:58'
+  crc: '0xff722cd4'
+- name: sw.ico
+  size: 766
+  date: '1997-08-25T04:20:00'
+  crc: '0xb7b466d0'
+- name: wanton.exe
+  size: 42833
+  date: '1998-01-28T09:09:38'
+  crc: '0x66cfb0a7'
+- name: wdinfo.txt
+  size: 2827
+  date: '1998-01-23T08:56:34'
+  crc: '0x2f3acabc'
+- name: wt.ico
+  size: 766
+  date: '1998-01-23T07:53:02'
+  crc: '0xe4004b86'

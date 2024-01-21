@@ -1,0 +1,35 @@
+filename: Player Manager 2 (Installer) (1995)(Anco Software Ltd.) [Simulation, Sports, Strategy].zip
+tdc_id: '10396.1'
+title:
+  box: Player Manager 2
+publisher: Anco Software Ltd.
+year: '1995'
+genre:
+- Simulation
+- Sports
+- Strategy
+language: English
+date:
+  added: '2019-03-02T08:58:16'
+  last_modified: '2019-03-02T08:58:16'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 124221
+  date: '1995-07-14T16:49:36'
+  crc: '0x55b4c65b'
+- name: PM2_1.RNC
+  size: 1333248
+  date: '1995-07-20T18:28:36'
+  crc: '0xe93ac50f'
+- name: PM2_2.RNC
+  size: 1457664
+  date: '1995-07-20T18:29:02'
+  crc: '0xd5e0201d'
+- name: PM2_3.RNC
+  size: 680176
+  date: '1995-07-20T18:29:06'
+  crc: '0xe14fc314'

@@ -1,0 +1,29 @@
+filename: SpiDOS (2004)(WhizWare) [Strategy, Cards].zip
+tdc_id: '15401.0'
+title:
+  screen: SpiDOS
+publisher: WhizWare
+year: '2004'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-02T10:56:58'
+  last_modified: '2019-03-02T10:56:58'
+type: zip
+commands:
+  play: SpiDOS.EXE
+files:
+- name: SPIDOS.BAS
+  size: 18072
+  date: '2004-09-17T20:54:20'
+  crc: '0x5c03647e'
+- name: SpiDOS.EXE
+  size: 81290
+  date: '2004-09-17T20:55:36'
+  crc: '0x7f3d029c'
+- name: SpiDOS.ico
+  size: 766
+  date: '2004-09-17T21:54:36'
+  crc: '0xb2bbf3d9'

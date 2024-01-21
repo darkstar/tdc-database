@@ -1,0 +1,30 @@
+filename: World v1.07 (1992)(J. Doug McDonald) [Adventure, Interactive Fiction].zip
+tdc_id: '16107.1'
+title:
+  screen: World
+publisher: J. Doug McDonald
+year: '1992'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:52:34'
+  last_modified: '2019-03-01T18:52:34'
+version: '1.07'
+type: zip
+commands:
+  play: WORLD.EXE
+files:
+- name: Q1TEXT.DAT
+  size: 77824
+  date: '1994-02-20T02:22:20'
+  crc: '0xd72b09d4'
+- name: README
+  size: 153
+  date: '1995-10-26T13:18:52'
+  crc: '0x45e2bddb'
+- name: WORLD.EXE
+  size: 67453
+  date: '1995-10-25T20:45:40'
+  crc: '0xb6c871de'

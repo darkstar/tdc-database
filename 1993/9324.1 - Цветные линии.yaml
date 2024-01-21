@@ -1,0 +1,41 @@
+filename: Цветные линии (Ru) [f1] (1993)(GAMOS Ltd.) [Strategy].zip
+tdc_id: '9324.1'
+title:
+  screen: Цветные линии
+  translation: Color Lines
+publisher: GAMOS Ltd.
+year: '1993'
+genre: Strategy
+language: Russian
+date:
+  added: '2019-03-01T19:01:56'
+  last_modified: '2023-10-19T11:14:57'
+type: zip
+tags:
+- Fixed: 1
+media: Download
+commands:
+  play: LINES.EXE
+references:
+  mobygames: https://www.mobygames.com/game/9862/color-lines/
+files:
+- name: LINES.DOC
+  size: 3319
+  date: '1995-11-25T14:29:26'
+  crc: '0xff51122b'
+- name: LINES.EXE
+  size: 126416
+  date: '1995-11-25T14:29:26'
+  crc: '0x7a0a9c5c'
+- name: LINES.EX_
+  size: 126416
+  date: '1995-11-25T14:29:26'
+  crc: '0xdf424b29'
+- name: LINES.LIB
+  size: 377525
+  date: '1995-11-25T14:29:26'
+  crc: '0xea3e102c'
+- name: LINES.MSC
+  size: 7391
+  date: '1995-11-25T14:29:26'
+  crc: '0x20d5853b'

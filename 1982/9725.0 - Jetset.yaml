@@ -1,0 +1,79 @@
+filename: Jetset (1982)(BYTE Magazine) [Simulation].zip
+tdc_id: '9725.0'
+title:
+  screen: Jetset
+publisher: BYTE Magazine
+year: '1982'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:23:00'
+  last_modified: '2019-03-01T18:23:00'
+type: zip
+media: Download
+commands:
+  play: START.BAT
+references:
+  dosid: DOS02907
+  exodos: Jetset (1982).zip
+files:
+- name: -READ.ME
+  size: 733
+  date: '1987-05-19T23:42:54'
+  crc: '0x8fc8f7c2'
+- name: -READ.ME2
+  size: 536
+  date: '1980-01-01T00:09:16'
+  crc: '0x5df84c39'
+- name: AJETCRUZ.BAS
+  size: 17664
+  date: '1983-03-26T23:36:26'
+  crc: '0xf1e60e0c'
+- name: AJETOFF.BAS
+  size: 9856
+  date: '1983-03-26T23:37:22'
+  crc: '0x82094763'
+- name: GWBASIC.EXE
+  size: 80592
+  date: '1988-02-09T00:00:02'
+  crc: '0x8462d0e4'
+- name: HELP.DOC
+  size: 1087
+  date: '1987-05-17T14:32:26'
+  crc: '0xfd20baf6'
+- name: JETSET.BAS
+  size: 25984
+  date: '1980-01-01T08:00:44'
+  crc: '0xe54810a4'
+- name: JETSET.DOC
+  size: 2059
+  date: '1980-01-01T00:02:16'
+  crc: '0xbeb82d84'
+- name: JETSET.EXE
+  size: 36736
+  date: '1980-01-01T00:30:18'
+  crc: '0xcb21dee3'
+- name: JETSET1.DOC
+  size: 45589
+  date: '1987-03-16T09:59:00'
+  crc: '0x940f3d61'
+- name: LIST.COM
+  size: 5785
+  date: '1986-12-05T12:04:34'
+  crc: '0xd9c07864'
+- name: OJETCRUZ.EXE
+  size: 49408
+  date: '1980-01-01T00:15:04'
+  crc: '0x0d14ac16'
+- name: READ-ME.BAK
+  size: 62
+  date: '1980-01-01T00:21:10'
+  crc: '0x1c2c3baf'
+- name: READ-ME.TXT
+  size: 80
+  date: '1980-01-01T00:04:54'
+  crc: '0xca3cad47'
+- name: START.BAT
+  size: 174
+  date: '1980-01-01T00:24:50'
+  crc: '0x0d5f53c4'

@@ -1,0 +1,30 @@
+filename: Dangerous Dave (1990)(Softdisk Publishing) [Action].zip
+tdc_id: '5295.0'
+title:
+  box: Dangerous Dave
+publisher: Softdisk Publishing
+year: '1990'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:32:16'
+  last_modified: '2019-03-01T18:32:16'
+type: zip
+commands:
+  play: DAVE.EXE
+references:
+  dosid: DOS01629
+  exodos: Dangerous Dave in the Deserted Pirate's Hideout (1990).zip
+files:
+- name: DAVE.EXE
+  size: 76586
+  date: '1990-09-04T16:06:40'
+  crc: '0x538c30dc'
+- name: DAVE.TXT
+  size: 2263
+  date: '1990-09-04T13:30:42'
+  crc: '0x8da5d727'
+- name: EGADAVE.DAV
+  size: 86332
+  date: '1990-09-03T21:07:00'
+  crc: '0x18ced5be'

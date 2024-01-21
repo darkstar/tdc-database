@@ -1,0 +1,55 @@
+filename: NetHack v3.4.3 (2003)(Stichting Mathematisch, M. Stephenson) [Role-Playing (RPG)].zip
+tdc_id: '8443.8'
+title:
+  screen: NetHack
+publisher: Stichting Mathematisch, M. Stephenson
+year: '2003'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-02T10:56:42'
+  last_modified: '2019-03-02T10:56:42'
+version: 3.4.3
+type: zip
+commands:
+  play: NETHACK.EXE
+references:
+  dosid: DOS03715
+  exodos: NetHack (1987).zip
+files:
+- name: DEFAULTS.NH
+  size: 6479
+  date: '2003-11-18T07:27:04'
+  crc: '0xbadacfd7'
+- name: NETHACK.EXE
+  size: 1798020
+  date: '2003-12-07T18:42:24'
+  crc: '0xe747fa68'
+- name: NETHACK1.TIB
+  size: 136320
+  date: '2003-12-07T18:40:24'
+  crc: '0xc7c20ab2'
+- name: NETHACKO.TIB
+  size: 68672
+  date: '2003-12-07T18:40:24'
+  crc: '0x0f51f81d'
+- name: NHACCESS.NH
+  size: 4511
+  date: '2002-02-04T11:07:02'
+  crc: '0x4ac5a6af'
+- name: NHDAT
+  size: 598992
+  date: '2003-12-07T18:42:28'
+  crc: '0xf593697a'
+- name: README
+  size: 14153
+  date: '2003-02-21T20:18:14'
+  crc: '0x5d0f29a6'
+- name: cwsdpmi.doc
+  size: 7186
+  date: '1996-12-24T23:32:00'
+  crc: '0x9e137891'
+- name: cwsdpmi.exe
+  size: 20217
+  date: '1996-12-24T23:32:00'
+  crc: '0x6ba5fa62'

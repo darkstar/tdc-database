@@ -1,0 +1,54 @@
+filename: Dunjonquest- Curse of Ra (1982)(Epyx, Inc.) [Role-Playing (RPG), Addon].zip
+tdc_id: '13240.0'
+parent_id: '13240.1'
+title:
+  box: 'Dunjonquest: Curse of Ra'
+publisher: Epyx, Inc.
+year: '1982'
+genre:
+- Role-Playing (RPG)
+- Addon
+language: English
+date:
+  added: '2019-03-01T18:22:58'
+  last_modified: '2019-03-01T18:22:58'
+type: zip
+references:
+  mobygames: https://www.mobygames.com/game/dos/dunjonquest-curse-of-ra
+files:
+- name: BOOT.BAS
+  size: 256
+  date: '1982-06-29T00:00:00'
+  crc: '0x41cd713e'
+- name: LEVEL2.LVL
+  size: 9856
+  date: '1982-06-23T00:00:00'
+  crc: '0x6151a469'
+- name: LEVEL2.SHP
+  size: 4736
+  date: '1982-06-23T00:00:00'
+  crc: '0xa2820fd6'
+- name: LEVEL3.LVL
+  size: 10240
+  date: '1982-06-22T00:00:00'
+  crc: '0x0f808870'
+- name: LEVEL3.SHP
+  size: 4608
+  date: '1982-06-13T00:00:00'
+  crc: '0x932a45a8'
+- name: LEVEL4.LVL
+  size: 10496
+  date: '1982-06-24T00:00:00'
+  crc: '0x5629b8cd'
+- name: LEVEL4.SHP
+  size: 4480
+  date: '1982-06-24T00:00:00'
+  crc: '0xb832e84c'
+- name: LEVEL5.LVL
+  size: 10112
+  date: '1982-06-24T00:00:00'
+  crc: '0x5a2e2a1f'
+- name: LEVEL5.SHP
+  size: 4480
+  date: '1982-06-24T00:00:00'
+  crc: '0x59660c2e'

@@ -1,0 +1,46 @@
+filename: Adventure vB00 (1987)(Steve Dover) [Adventure, Interactive Fiction].zip
+tdc_id: '8125.0'
+title:
+  screen: Adventure
+publisher: Steve Dover
+year: '1987'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:25:06'
+  last_modified: '2019-03-01T18:25:06'
+version: B00
+type: zip
+commands:
+  play: ADV.EXE
+files:
+- name: ADV.DOC
+  size: 2333
+  date: '1987-09-18T07:42:28'
+  crc: '0xa7fd0038'
+- name: ADV.EXE
+  size: 75043
+  date: '1987-06-27T07:57:44'
+  crc: '0x7e1acc10'
+- name: FILES.ADV
+  size: 46
+  date: '1987-06-27T07:57:28'
+  crc: '0x83502892'
+- name: INSTO.ADV
+  size: 29696
+  date: '1987-06-27T07:57:28'
+  crc: '0xc4ee6aa5'
+- name: RINDEX.ADV
+  size: 13664
+  date: '1987-06-27T07:57:28'
+  crc: '0x1cd6d0b2'
+- name: STABLE.ADV
+  size: 6844
+  date: '1987-06-27T07:57:28'
+  crc: '0x1e7c6a1b'
+- name: TEXTO.ADV
+  size: 117760
+  date: '1987-06-27T07:57:28'
+  crc: '0x982df786'

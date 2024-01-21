@@ -1,0 +1,80 @@
+filename: Moraff's Pinball v5.0 [SW] (1989)(MoraffWare) [Action][!].zip
+tdc_id: '14349.3'
+title:
+  screen: Moraff's Pinball
+publisher: MoraffWare
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:28:26'
+  last_modified: '2019-03-01T18:28:26'
+version: '5.0'
+type: zip
+tags:
+- Shareware
+- KnownGood
+media: Download
+commands:
+  play: PINBALL.EXE
+files:
+- name: DIRMAP
+  size: 515
+  date: '1988-10-17T20:56:56'
+  crc: '0xa5b243d3'
+- name: EGAVGA.BGI
+  size: 5363
+  date: '1988-08-29T02:00:00'
+  crc: '0x06d36962'
+- name: FLIP.BIN
+  size: 1666
+  date: '1989-04-21T15:52:04'
+  crc: '0xf4193f16'
+- name: FLIPCOOR.NUM
+  size: 251
+  date: '1988-12-05T11:58:02'
+  crc: '0xd3e3319a'
+- name: GOTH.CHR
+  size: 8560
+  date: '1988-08-29T02:00:00'
+  crc: '0x48a03304'
+- name: LITT.CHR
+  size: 2138
+  date: '1988-08-29T02:00:00'
+  crc: '0xe18c9d7c'
+- name: MACH1.CPR
+  size: 28886
+  date: '1989-02-07T15:19:08'
+  crc: '0x94c2f406'
+- name: MACH1C.BIN
+  size: 12018
+  date: '1989-04-25T14:10:38'
+  crc: '0x87c86794'
+- name: MACHCPTS.BIN
+  size: 8456
+  date: '1989-02-07T22:33:54'
+  crc: '0x22d52e45'
+- name: PINBALL.EXE
+  size: 81906
+  date: '1990-03-14T09:30:14'
+  crc: '0xb5b13e0e'
+- name: README
+  size: 1140
+  date: '1990-03-08T20:33:44'
+  crc: '0xfc6bdbba'
+- name: README.BAT
+  size: 12
+  date: '1989-05-05T13:14:40'
+  crc: '0x01286790'
+- name: SANS.CHR
+  size: 5438
+  date: '1988-08-29T02:00:00'
+  crc: '0x06f847c6'
+- name: TRIP.CHR
+  size: 7241
+  date: '1988-08-29T02:00:00'
+  crc: '0xfe5cd6b1'
+- name: WHENLIT.BIN
+  size: 914
+  date: '1988-12-29T01:06:42'
+  crc: '0xcd2f6da9'

@@ -1,0 +1,26 @@
+filename: Target (1982)(IBM) [Action].zip
+tdc_id: '16466.0'
+title:
+  box: Target
+publisher: IBM
+year: '1982'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:23:04'
+  last_modified: '2019-03-01T18:23:04'
+type: zip
+commands:
+  play: TARGET.EXE
+references:
+  dosid: DOS07415
+  exodos: Target (IBM)(1982).zip
+files:
+- name: TARGET.BAS
+  size: 7424
+  date: '1982-05-07T12:00:06'
+  crc: '0xf020c615'
+- name: TARGET.EXE
+  size: 28032
+  date: '1982-08-25T12:00:00'
+  crc: '0xd029b3a5'

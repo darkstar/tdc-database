@@ -1,0 +1,41 @@
+filename: Xolo [SW] (1993)(Eric Riel) [Action].zip
+tdc_id: '2907.0'
+title:
+  screen: Xolo
+publisher: Eric Riel
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2014-03-07T21:33:10'
+  last_modified: '2014-03-07T21:33:10'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: XOLO.EXE
+references:
+  dosid: DOS15889
+  exodos: XOLO (1993).zip
+files:
+- name: FILE_ID.DIZ
+  size: 45
+  date: '1994-04-13T12:24:22'
+  crc: '0x05e74705'
+- name: XOLO.BIN
+  size: 4000
+  date: '1993-08-30T16:21:50'
+  crc: '0xb5216416'
+- name: XOLO.DOC
+  size: 2507
+  date: '1993-08-31T14:54:48'
+  crc: '0x66461d5e'
+- name: XOLO.EXE
+  size: 96434
+  date: '1993-08-31T15:56:48'
+  crc: '0x6886f37a'
+- name: XOLODAT.DAT
+  size: 188454
+  date: '1993-07-19T02:21:22'
+  crc: '0x2f266965'

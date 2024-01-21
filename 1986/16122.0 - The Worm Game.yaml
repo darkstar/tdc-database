@@ -1,0 +1,27 @@
+filename: Worm Game, The v2.0 (1986)(J. Eichner) [Action].zip
+tdc_id: '16122.0'
+title:
+  screen: The Worm Game
+publisher: J. Eichner
+year: '1986'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:25:04'
+  last_modified: '2019-03-01T18:25:04'
+version: '2.0'
+type: zip
+commands:
+  play: WORMGAME.COM
+references:
+  dosid: DOS15871
+  exodos: Worm Game, The (1986).zip
+files:
+- name: WORMGAME.COM
+  size: 27040
+  date: '1986-10-07T11:57:50'
+  crc: '0x2efdb5c7'
+- name: WORMGAME.SCO
+  size: 139
+  date: '1980-01-01T00:05:58'
+  crc: '0xfc39abb4'

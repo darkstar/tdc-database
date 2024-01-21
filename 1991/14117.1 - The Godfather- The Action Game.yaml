@@ -1,0 +1,45 @@
+filename: Godfather, The- The Action Game (Installer) (1991)(U.S. Gold Ltd.) [Action].zip
+tdc_id: '14117.1'
+parent_id: '14117.3'
+title:
+  box: 'The Godfather: The Action Game'
+  qualifier: Installer
+publisher: U.S. Gold Ltd.
+year: '1991'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:36:06'
+  last_modified: '2023-03-15T11:17:11'
+type: zip
+media: 720K
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1552/the-godfather/
+files:
+- name: DISK1.LZH
+  size: 639385
+  date: '1991-12-12T09:09:06'
+  crc: '0xbc25b835'
+- name: DISK2.LZH
+  size: 693736
+  date: '1991-12-12T09:11:52'
+  crc: '0x97de8630'
+- name: DISK3.LZH
+  size: 730045
+  date: '1991-12-12T09:14:12'
+  crc: '0xd2e5f95e'
+- name: INSTALL.EXE
+  size: 13995
+  date: '1991-12-12T06:33:28'
+  crc: '0xce997df9'
+- name: LHA.EXE
+  size: 26145
+  date: '1991-12-12T00:07:08'
+  crc: '0x4e081374'
+- name: LHA212.EXE
+  size: 44201
+  date: '1991-06-17T18:18:46'
+  crc: '0x7846dbf8'

@@ -1,0 +1,71 @@
+filename: Fantastic Adventures of Dizzy, The (Installer) (En)(De)(Fr)(It)(Es) (1994)(Codemasters Software Company Limited, The) [Action].zip
+tdc_id: '13490.1'
+title:
+  box: The Fantastic Adventures of Dizzy
+publisher: Codemasters Software Company Limited, The
+year: '1994'
+genre: Action
+language:
+- English
+- Spanish
+- French
+- Italian
+- German
+date:
+  added: '2019-03-01T21:56:36'
+  last_modified: '2022-11-20T12:38:41'
+type: zip
+installer: true
+commands:
+  play: install.bat
+references:
+  mobygames: https://www.mobygames.com/game/dos/fantastic-adventures-of-dizzy
+files:
+- name: antifont.bin
+  size: 13013
+  date: '1999-12-31T18:00:00'
+  crc: '0xade13216'
+- name: cont.ba_
+  size: 362
+  date: '1999-12-31T18:00:00'
+  crc: '0x11b7ef6b'
+- name: dizzy.ba_
+  size: 23
+  date: '1999-12-31T18:00:00'
+  crc: '0x9ef21b9e'
+- name: dizzy.ico
+  size: 766
+  date: '1999-12-31T18:00:00'
+  crc: '0x7cafd53c'
+- name: dizzy.ndx
+  size: 4816
+  date: '1999-12-31T18:00:00'
+  crc: '0x6bf51936'
+- name: dizzy.re1
+  size: 720896
+  date: '1999-12-31T18:00:00'
+  crc: '0x78db7ce3'
+- name: dizzy.re2
+  size: 106136
+  date: '1999-12-31T18:00:00'
+  crc: '0x354b3028'
+- name: gfx1.gfx
+  size: 54273
+  date: '1999-12-31T18:00:00'
+  crc: '0x1768493e'
+- name: install.bat
+  size: 684
+  date: '1999-12-31T18:00:00'
+  crc: '0xcb61bc5a'
+- name: pcdizzy.ex_
+  size: 182630
+  date: '1999-12-31T18:00:00'
+  crc: '0x8f629a71'
+- name: readme.txt
+  size: 644
+  date: '1999-12-31T18:00:00'
+  crc: '0x9ccde1dd'
+- name: sm.ex_
+  size: 4832
+  date: '1999-12-31T18:00:00'
+  crc: '0x225ae763'

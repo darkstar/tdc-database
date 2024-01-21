@@ -1,0 +1,46 @@
+filename: Toad Road (Tandy 1000) [f1] (1990)(RufusPro Software, Brooks deForest) [Action].zip
+tdc_id: '6962.0'
+title:
+  screen: Toad Road
+  qualifier: Tandy 1000
+publisher: RufusPro Software, Brooks deForest
+year: '1990'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:34:18'
+  last_modified: '2019-03-01T18:34:18'
+type: zip
+tags:
+- Fixed: 1
+media: Download
+commands:
+  play: BASIC.EXE
+references:
+  dosid: DOS07555
+  exodos: Toad Road (1990).zip
+files:
+- name: BASIC.EXE
+  size: 68672
+  date: '2016-03-23T20:48:02'
+  crc: '0x0999e916'
+- name: BASICA.COM
+  size: 942
+  date: '2016-03-23T20:48:10'
+  crc: '0x5978f665'
+- name: toad.ba_
+  size: 10074
+  date: '2006-03-16T04:02:52'
+  crc: '0xee6b850e'
+- name: toad.bas
+  size: 10076
+  date: '2016-03-24T23:47:10'
+  crc: '0x6973855e'
+- name: toad.loc
+  size: 194
+  date: '2006-03-16T03:56:38'
+  crc: '0xba8d8321'
+- name: toad.spr
+  size: 16392
+  date: '2006-03-16T03:56:44'
+  crc: '0xaa14fc8b'

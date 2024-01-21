@@ -1,0 +1,29 @@
+filename: 3D Cyber Blaster (Installer) [SW] (1994)(Homebrew Software) [Action, Sports].zip
+tdc_id: '6020.0'
+title:
+  screen: 3D Cyber Blaster
+publisher: Homebrew Software
+year: '1994'
+genre:
+- Action
+- Sports
+language: English
+date:
+  added: '1995-01-10T12:59:02'
+  last_modified: '1995-01-10T12:59:02'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: CYBER10.EXE
+files:
+- name: CYBER10.EXE
+  size: 1386831
+  date: '1995-01-10T17:58:56'
+  crc: '0x565fa7f5'
+- name: FILE_ID.DIZ
+  size: 597
+  date: '1995-01-10T17:59:02'
+  crc: '0x377f6dc1'

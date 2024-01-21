@@ -1,0 +1,26 @@
+filename: Aliens (1989)(Speter Software) [Action].zip
+tdc_id: '8265.0'
+title:
+  screen: Aliens
+publisher: Speter Software
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:27:10'
+  last_modified: '2019-03-01T18:27:10'
+type: zip
+commands:
+  play: ALIENS.EXE
+references:
+  dosid: DOS00396
+  exodos: Aliens (1989).zip
+files:
+- name: ALIENS.DOC
+  size: 2235
+  date: '1991-05-20T23:46:00'
+  crc: '0x982a6235'
+- name: ALIENS.EXE
+  size: 19664
+  date: '1991-05-20T23:46:02'
+  crc: '0x26774fff'

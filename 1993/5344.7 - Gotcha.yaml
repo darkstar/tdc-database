@@ -1,0 +1,58 @@
+filename: Gotcha v3.10 [SW] (1993)(Don Herring) [Action].zip
+tdc_id: '5344.7'
+title:
+  screen: Gotcha
+publisher: Don Herring
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2016-02-16T21:23:50'
+  last_modified: '2016-02-16T21:23:50'
+version: '3.10'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: GO310.EXE
+references:
+  dosid: DOS06871
+  exodos: Gotcha (1993).zip
+files:
+- name: FILE_ID.DIZ
+  size: 224
+  date: '1994-07-03T21:07:14'
+  crc: '0xa32d3030'
+- name: GO310.EXE
+  size: 151760
+  date: '1994-07-03T20:59:24'
+  crc: '0x2c33aa4c'
+- name: GOTCHA.DOC
+  size: 2088
+  date: '1994-05-31T00:34:06'
+  crc: '0xaefdf02d'
+- name: GOTCHA.SCR
+  size: 210
+  date: '2013-05-08T17:47:26'
+  crc: '0xca24756c'
+- name: ORDER.FRM
+  size: 1190
+  date: '1994-07-03T21:07:58'
+  crc: '0x68f18473'
+- name: PACKING.LST
+  size: 455
+  date: '1994-07-03T21:08:28'
+  crc: '0xe81f7f91'
+- name: SHAREWRE.TXT
+  size: 1715
+  date: '1990-03-22T08:12:32'
+  crc: '0x5aa12829'
+- name: VENDOR.DOC
+  size: 909
+  date: '1994-04-27T03:42:36'
+  crc: '0xafc3a6c7'
+- name: VERSION.DOC
+  size: 5402
+  date: '1994-07-03T21:13:12'
+  crc: '0x5f1ca50c'

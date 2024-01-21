@@ -1,0 +1,61 @@
+filename: Formula Karts v1.16 (1997)(SEGA Enterprises Ltd.) [Action, Racing - Driving].zip
+tdc_id: '13741.0'
+title:
+  box: Formula Karts
+publisher: SEGA Enterprises Ltd.
+year: '1997'
+genre:
+- Action
+- Racing - Driving
+language: English
+date:
+  added: '2019-03-02T10:31:28'
+  last_modified: '2019-03-02T10:31:28'
+version: '1.16'
+type: zip
+commands:
+  play: FK.EXE
+references:
+  dosid: DOS15398
+  exodos: Formula Karts (1997).zip
+files:
+- name: DIGSOUND
+  size: 32
+  date: '2011-11-05T21:18:28'
+  crc: '0x2b0413ed'
+- name: FK.EXE
+  size: 1116963
+  date: '1997-06-02T06:44:50'
+  crc: '0xb1ca8083'
+- name: FLAG.AMF
+  size: 1848381
+  date: '1997-03-24T01:07:04'
+  crc: '0x8db0c94e'
+- name: HISCORES
+  size: 456
+  date: '2011-11-05T21:32:06'
+  crc: '0x7b5127f0'
+- name: KART.DAT
+  size: 31548307
+  date: '1997-05-20T09:46:10'
+  crc: '0x8ccb4fc5'
+- name: KARTDATA
+  size: 308
+  date: '2011-11-05T21:32:06'
+  crc: '0x56096207'
+- name: MANIC.AMF
+  size: 6079328
+  date: '1997-04-01T02:07:40'
+  crc: '0x24f17ddc'
+- name: SETSOUND.EXE
+  size: 502035
+  date: '1997-04-02T15:38:08'
+  crc: '0xb49f98ed'
+- name: TEST.MSF
+  size: 97834
+  date: '1997-04-11T13:41:32'
+  crc: '0xa7320133'
+- name: UNRAR.DLL
+  size: 53248
+  date: '1997-07-23T09:00:40'
+  crc: '0x54e43592'

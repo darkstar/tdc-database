@@ -1,0 +1,32 @@
+filename: Serpent v00 (1982)(Anonymous) [Action].zip
+tdc_id: '5873.0'
+title:
+  screen: Serpent
+publisher: Anonymous
+year: '1982'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:23:04'
+  last_modified: '2019-03-01T18:23:04'
+version: '00'
+type: zip
+media: Download
+commands:
+  play: SERPENT.BAT
+references:
+  dosid: DOS07069
+  exodos: Serpent (1982).zip
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: SERPENT.BAS
+  size: 2944
+  date: '1980-01-01T00:14:42'
+  crc: '0xd444d0a2'
+- name: SERPENT.BAT
+  size: 16
+  date: '2014-12-07T20:45:14'
+  crc: '0x0f0145f8'

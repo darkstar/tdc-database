@@ -1,0 +1,28 @@
+filename: Run Run v1.06 (1992)(Serge A. Kasatkin) [Action].zip
+tdc_id: '2401.0'
+title:
+  screen: Run Run
+publisher: Serge A. Kasatkin
+year: '1992'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:50:26'
+  last_modified: '2019-03-01T18:50:26'
+version: '1.06'
+type: zip
+commands:
+  play: RUNRUN.EXE
+files:
+- name: RUNDEMO.DAT
+  size: 17886
+  date: '1992-04-15T11:42:48'
+  crc: '0x5836fd07'
+- name: RUNRUN.EXE
+  size: 18760
+  date: '1992-04-15T11:29:14'
+  crc: '0x4a6a24b8'
+- name: RUNRUN.MAZ
+  size: 42221
+  date: '1992-02-25T10:56:24'
+  crc: '0x32ceb916'

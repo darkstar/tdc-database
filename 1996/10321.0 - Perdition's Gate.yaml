@@ -1,0 +1,118 @@
+filename: Perdition's Gate (Installer) (1996)(WizardWorks Group, Inc.) [Action, Addon].zip
+tdc_id: '10321.0'
+title:
+  box: Perdition's Gate
+publisher: WizardWorks Group, Inc.
+year: '1996'
+genre:
+- Action
+- Addon
+language: English
+date:
+  added: '2019-03-02T10:15:52'
+  last_modified: '2019-03-02T10:15:52'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  dosid: DOS03953
+  exodos: Perdition's Gate (1996).zip
+files:
+- name: INSTALL.EXE
+  size: 122049
+  date: '1996-06-12T23:25:16'
+  crc: '0x4fe47bf5'
+- name: PGINST.INI
+  size: 22
+  date: '1996-07-20T14:47:58'
+  crc: '0x85322413'
+- name: PG\
+  size: 0
+  date: '1996-08-19T05:48:00'
+- name: PG\DEUSF.EXE
+  size: 96472
+  date: '1995-12-17T19:19:30'
+  crc: '0xdde8a48d'
+- name: PG\MAX-NSTL.BAT
+  size: 2627
+  date: '1996-07-20T14:54:52'
+  crc: '0xdee45f76'
+- name: PG\MESSAGES\
+  size: 0
+  date: '1996-08-19T05:48:00'
+- name: PG\MESSAGES\READ1.WND
+  size: 632
+  date: '1996-07-19T16:39:30'
+  crc: '0x388a5186'
+- name: PG\MESSAGES\READ2.WND
+  size: 485
+  date: '1996-07-20T14:47:46'
+  crc: '0x767d61e8'
+- name: PG\MIN-NSTL.BAT
+  size: 2494
+  date: '1996-07-20T14:54:40'
+  crc: '0x9947b91f'
+- name: PG\PERDGATE.MAX
+  size: 6167
+  date: '1996-04-24T13:11:36'
+  crc: '0xaa072bde'
+- name: PG\PERDGATE.MIN
+  size: 4658
+  date: '1996-04-21T05:42:50'
+  crc: '0xac605df6'
+- name: PG\PERDGATE.TXT
+  size: 2774
+  date: '1996-07-20T15:24:32'
+  crc: '0x871f8e01'
+- name: PG\PG-PLOT.COM
+  size: 15220
+  date: '1996-07-20T15:32:54'
+  crc: '0xe82789b5'
+- name: PG\PG-RAW-X.WAD
+  size: 7012512
+  date: '1996-07-25T23:56:00'
+  crc: '0xeaeb3ec0'
+- name: PG\PG-RAW.WAD
+  size: 7008400
+  date: '1996-07-25T23:57:58'
+  crc: '0xafa09215'
+- name: PG\PG-RESET.BAT
+  size: 225
+  date: '1996-04-22T14:40:14'
+  crc: '0x2b69bf7f'
+- name: PG\PGDEMO16.WAD
+  size: 29776
+  date: '1996-07-17T04:17:32'
+  crc: '0xf84e30b4'
+- name: PG\PGDEMO17.WAD
+  size: 29776
+  date: '1996-07-17T04:17:14'
+  crc: '0x40492caa'
+- name: PG\PGDEMO18.WAD
+  size: 29776
+  date: '1996-07-17T04:16:46'
+  crc: '0xdebe7472'
+- name: PG\PGDEMO19.WAD
+  size: 29776
+  date: '1996-07-17T04:06:36'
+  crc: '0x66b9686c'
+- name: PG\README.COM
+  size: 9648
+  date: '1996-07-20T15:35:26'
+  crc: '0xb6485d12'
+- name: PG\SCRIPTS\
+  size: 0
+  date: '1996-08-19T05:48:38'
+- name: PG\SCRIPTS\MAX.NST
+  size: 558
+  date: '1996-07-19T16:44:30'
+  crc: '0xfea79906'
+- name: PG\SCRIPTS\MIN.NST
+  size: 463
+  date: '1996-07-19T16:44:26'
+  crc: '0xf0644007'
+- name: README.COM
+  size: 9648
+  date: '1996-07-20T15:35:26'
+  crc: '0xb6485d12'

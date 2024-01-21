@@ -1,0 +1,86 @@
+filename: SDI2040 v2.0 [SW] (1992)(East Wing Software) [Action].zip
+tdc_id: '5826.2'
+title:
+  screen: SDI2040
+publisher: East Wing Software
+year: '1992'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:50:32'
+  last_modified: '2019-03-01T18:50:32'
+version: '2.0'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: SDI2040.EXE
+references:
+  dosid: DOS07066
+  exodos: SDI2040 (1993).zip
+files:
+- name: P1.DAT
+  size: 11025
+  date: '1992-02-06T21:42:42'
+  crc: '0xc2a55028'
+- name: P2.DAT
+  size: 9304
+  date: '1992-01-27T16:17:00'
+  crc: '0xe40b3162'
+- name: P3.DAT
+  size: 6093
+  date: '1991-12-24T05:21:06'
+  crc: '0xce35ba71'
+- name: P4.DAT
+  size: 6035
+  date: '1992-12-25T07:27:38'
+  crc: '0xa171aeac'
+- name: README.TXT
+  size: 6554
+  date: '1993-01-03T10:56:38'
+  crc: '0xd1565191'
+- name: S0.BIN
+  size: 34497
+  date: '1992-01-31T11:46:18'
+  crc: '0xde26c95f'
+- name: S1.BIN
+  size: 13323
+  date: '1992-01-31T11:47:00'
+  crc: '0xfbf40429'
+- name: S2.BIN
+  size: 36939
+  date: '1992-01-31T11:47:42'
+  crc: '0x1a6a4253'
+- name: S3.BIN
+  size: 18598
+  date: '1992-01-31T11:51:38'
+  crc: '0x15a40d94'
+- name: S4.BIN
+  size: 35958
+  date: '1992-01-31T11:52:48'
+  crc: '0xe92ac668'
+- name: S5.BIN
+  size: 1202
+  date: '1992-01-31T11:59:40'
+  crc: '0x18741f4f'
+- name: S6.BIN
+  size: 2665
+  date: '1991-05-01T15:59:02'
+  crc: '0x532f691a'
+- name: S7.BIN
+  size: 1338
+  date: '1992-08-16T05:00:00'
+  crc: '0xe588286d'
+- name: SDI2040.DOC
+  size: 3801
+  date: '1993-01-03T15:05:30'
+  crc: '0xb2fb445a'
+- name: SDI2040.EXE
+  size: 76153
+  date: '1993-01-03T14:32:34'
+  crc: '0x9c36c8b7'
+- name: SDIREGIS.DOC
+  size: 1952
+  date: '1993-01-03T15:03:18'
+  crc: '0x7ca81795'

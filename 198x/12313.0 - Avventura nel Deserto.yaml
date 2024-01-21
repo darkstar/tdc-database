@@ -1,0 +1,30 @@
+filename: Avventura nel Deserto (It) (198x)(Anonymous) [Adventure, Interactive Fiction].zip
+tdc_id: '12313.0'
+title:
+  screen: Avventura nel Deserto
+publisher: Anonymous
+year: 198x
+genre:
+- Adventure
+- Interactive Fiction
+language: Italian
+date:
+  added: '2021-10-15T19:38:14'
+  last_modified: '2021-10-15T19:38:14'
+type: zip
+media: Download
+commands:
+  play: DESERTO.EXE
+files:
+- name: BASRUN.EXE
+  size: 31744
+  date: '1982-05-07T12:00:04'
+  crc: '0x86bdc5f3'
+- name: DESERTO.EXE
+  size: 10880
+  date: '1985-09-01T00:02:18'
+  crc: '0x3878e478'
+- name: DESERTO.TXT
+  size: 33
+  date: '1999-09-14T23:32:56'
+  crc: '0x33f4090d'

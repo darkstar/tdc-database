@@ -1,0 +1,51 @@
+filename: Guest (demo) (1993)(Trilobyte, Inc.) [Adventure].zip
+tdc_id: '2667.0'
+title:
+  screen: Guest
+  qualifier: demo
+publisher: Trilobyte, Inc.
+year: '1993'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T19:09:26'
+  last_modified: '2019-03-01T19:09:26'
+type: zip
+demo: true
+files:
+- name: DEMO.BAT
+  size: 234
+  date: '1993-10-24T17:04:12'
+  crc: '0xe6c5295d'
+- name: FACE.VDX
+  size: 1382814
+  date: '1980-06-18T15:39:18'
+  crc: '0xc70f2b05'
+- name: GUEST.TLC
+  size: 426568
+  date: '1980-06-18T15:39:20'
+  crc: '0x527bf8ba'
+- name: HDINT061.TLC
+  size: 749967
+  date: '1980-06-18T15:39:22'
+  crc: '0x341d4e64'
+- name: HGSEE001.TLC
+  size: 416612
+  date: '1980-06-18T15:39:22'
+  crc: '0xb8adc870'
+- name: PLAYTLC.EXE
+  size: 254768
+  date: '1980-06-18T15:39:24'
+  crc: '0xc4834f9d'
+- name: README.TXT
+  size: 210
+  date: '1980-06-18T15:39:24'
+  crc: '0xc7fdc5f0'
+- name: TRIPRO.TLC
+  size: 695264
+  date: '1980-06-18T15:39:26'
+  crc: '0x075e69f2'
+- name: VDX.EXE
+  size: 4690
+  date: '1980-06-18T15:39:28'
+  crc: '0x811c8fb7'

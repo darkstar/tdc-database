@@ -1,0 +1,33 @@
+filename: Adventure in the Magic Land [SW] (1989)(Kevin L. Shelton) [Adventure].zip
+tdc_id: '8119.0'
+title:
+  screen: Adventure in the Magic Land
+publisher: Kevin L. Shelton
+year: '1989'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:27:08'
+  last_modified: '2019-03-01T18:27:08'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: MAGIC.EXE
+references:
+  dosid: DOS00122
+  exodos: Adventure in the Magic Land (1989).zip
+files:
+- name: MAGIC.DOC
+  size: 4590
+  date: '1989-03-20T14:32:00'
+  crc: '0x358b8c95'
+- name: MAGIC.EXE
+  size: 69680
+  date: '1989-03-16T11:15:48'
+  crc: '0x843263d5'
+- name: MAGIHINT.DOC
+  size: 5100
+  date: '1989-03-20T14:40:06'
+  crc: '0x4a781dd6'

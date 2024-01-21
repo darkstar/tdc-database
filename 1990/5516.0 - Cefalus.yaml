@@ -1,0 +1,62 @@
+filename: Cefalus (Es) (1990)(Ediciones Manali, S.A.) [Action].zip
+tdc_id: '5516.0'
+title:
+  screen: Cefalus
+publisher: Ediciones Manali, S.A.
+year: '1990'
+genre: Action
+language: Spanish
+date:
+  added: '2019-03-01T18:32:02'
+  last_modified: '2019-03-01T18:32:02'
+type: zip
+commands:
+  play: CEFALUS.EXE
+references:
+  dosid: DOS15292
+  exodos: Cefalus (1990).zip
+files:
+- name: C1.CMP
+  size: 5954
+  date: '1980-01-01T01:30:08'
+  crc: '0x802b5a57'
+- name: C2.CMP
+  size: 5972
+  date: '1980-01-01T01:30:38'
+  crc: '0xe89a4618'
+- name: C3.CMP
+  size: 2554
+  date: '1980-01-01T01:03:42'
+  crc: '0xe7dd42c8'
+- name: CE1.CMP
+  size: 8454
+  date: '1980-01-01T00:26:02'
+  crc: '0xc2a32e05'
+- name: CE2.CMP
+  size: 8302
+  date: '1980-01-01T00:26:24'
+  crc: '0x3dca5c81'
+- name: CE3.CMP
+  size: 3775
+  date: '1980-01-01T00:09:28'
+  crc: '0x6d0b0a2e'
+- name: CEFALUS.EXE
+  size: 50871
+  date: '2011-05-01T20:34:06'
+  crc: '0x5979e755'
+- name: CEFALUS.EX_
+  size: 50871
+  date: '1980-01-01T01:18:34'
+  crc: '0xe31265c7'
+- name: LETRAS.DAT
+  size: 1320
+  date: '1980-01-01T02:39:44'
+  crc: '0xe5f9e27d'
+- name: TECLAINT.BIN
+  size: 98
+  date: '1980-01-01T00:02:44'
+  crc: '0x53a1e02e'
+- name: TROZOS.BIN
+  size: 520
+  date: '1980-01-01T00:20:08'
+  crc: '0x94b9ab54'

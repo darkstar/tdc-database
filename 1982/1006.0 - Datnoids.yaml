@@ -1,0 +1,31 @@
+filename: Datnoids (1982)(Casey Roche) [Action].zip
+tdc_id: '1006.0'
+title:
+  screen: Datnoids
+publisher: Casey Roche
+year: '1982'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:22:58'
+  last_modified: '2019-03-01T18:22:58'
+type: zip
+media: Download
+commands:
+  play: DATNOIDS.BAT
+references:
+  dosid: DOS06450
+  exodos: Datnoids (1982).zip
+files:
+- name: DATNOIDS.BAS
+  size: 22803
+  date: '1984-05-28T00:03:06'
+  crc: '0xa57c07a7'
+- name: DATNOIDS.BAT
+  size: 20
+  date: '2012-11-12T05:48:28'
+  crc: '0x31b2dc8a'
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1988-10-05T01:00:08'
+  crc: '0x2a44af39'

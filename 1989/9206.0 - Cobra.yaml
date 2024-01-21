@@ -1,0 +1,43 @@
+filename: Cobra (1989)(Creative Dimensions) [Action].zip
+tdc_id: '9206.0'
+title:
+  screen: Cobra
+publisher: Creative Dimensions
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2017-01-18T22:54:26'
+  last_modified: '2017-01-18T22:54:26'
+type: zip
+media: Download
+commands:
+  play: COBRA.EXE
+references:
+  dosid: DOS15311
+  exodos: Cobra (1989).zip
+files:
+- name: CD_INFO.TXT
+  size: 4876
+  date: '1994-10-27T10:11:28'
+  crc: '0x731b523e'
+- name: COBRA.EXE
+  size: 69892
+  date: '1994-06-18T00:17:28'
+  crc: '0x281c9c0d'
+- name: COBRA.HSC
+  size: 1263
+  date: '1994-06-18T00:17:28'
+  crc: '0x530e44c1'
+- name: COBRA.TXT
+  size: 1449
+  date: '1994-10-27T10:08:54'
+  crc: '0xe6e216de'
+- name: FILE_ID.DIZ
+  size: 178
+  date: '1994-10-27T10:06:38'
+  crc: '0x3c4029e9'
+- name: VENDOR.TXT
+  size: 1578
+  date: '1994-10-27T09:29:28'
+  crc: '0xefa4d64d'

@@ -1,0 +1,93 @@
+filename: Sword Quest 1 v2.1 [SW] (1992)(NGS Software) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '16399.1'
+title:
+  screen: Sword Quest 1
+publisher: NGS Software
+year: '1992'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:51:42'
+  last_modified: '2019-03-01T18:51:42'
+version: '2.1'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: QUEST1V2.EXE
+files:
+- name: Q1CAVES.CMP
+  size: 24500
+  date: '1992-04-21T17:22:06'
+  crc: '0x16f34857'
+- name: Q1DES.INT
+  size: 3946
+  date: '1992-03-15T14:19:20'
+  crc: '0x025bac3d'
+- name: Q1DRAG.INT
+  size: 2252
+  date: '1992-04-19T16:37:28'
+  crc: '0xbc1f5846'
+- name: Q1EWAR.INT
+  size: 2794
+  date: '1992-04-23T20:09:32'
+  crc: '0x1275de95'
+- name: Q1GLOB.INT
+  size: 1994
+  date: '1992-04-19T16:50:36'
+  crc: '0xb5cb7c57'
+- name: Q1GRASS.INT
+  size: 3814
+  date: '1992-03-15T14:18:24'
+  crc: '0x523d52bf'
+- name: Q1GRIFF.INT
+  size: 2206
+  date: '1992-04-19T16:37:48'
+  crc: '0xe41594d5'
+- name: Q1JELL.INT
+  size: 2990
+  date: '1992-05-09T16:57:02'
+  crc: '0x53d4407a'
+- name: Q1LOGO.INT
+  size: 3826
+  date: '1992-04-23T18:50:30'
+  crc: '0xa0d65421'
+- name: Q1SCROLL.INT
+  size: 4002
+  date: '1992-04-19T17:48:48'
+  crc: '0x42a3c9cf'
+- name: Q1VAMP.INT
+  size: 1782
+  date: '1992-04-19T16:41:46'
+  crc: '0x38ab469e'
+- name: Q1WAR.INT
+  size: 2572
+  date: '1992-04-19T16:36:54'
+  crc: '0x1d7359fd'
+- name: Q1WIZ.INT
+  size: 2420
+  date: '1992-04-19T16:28:48'
+  crc: '0xe438f378'
+- name: QUEST1.IMP
+  size: 10134
+  date: '1992-05-22T17:17:18'
+  crc: '0xf6181458'
+- name: QUEST1V2.DOC
+  size: 6388
+  date: '1992-06-04T19:27:34'
+  crc: '0x342fbab7'
+- name: QUEST1V2.EXE
+  size: 76795
+  date: '1992-06-04T19:17:58'
+  crc: '0x9d0d734e'
+- name: SCENES.PUT
+  size: 100344
+  date: '1992-03-15T14:23:38'
+  crc: '0xd28fe2ca'
+- name: TILES1.PUT
+  size: 10692
+  date: '1992-04-17T18:54:06'
+  crc: '0x66fb1995'

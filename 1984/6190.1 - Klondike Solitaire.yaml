@@ -1,0 +1,28 @@
+filename: Klondike Solitaire v1.2 [a1] (1984)(Mouse Systems Corp.) [Strategy, Cards].zip
+tdc_id: '6190.1'
+title:
+  box: Klondike Solitaire
+publisher: Mouse Systems Corp.
+year: '1984'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:24:10'
+  last_modified: '2019-03-01T18:24:10'
+version: '1.2'
+type: zip
+tags:
+- Alternate: 1
+commands:
+  play: CARDGAME.EXE
+files:
+- name: CARDGAME.EXE
+  size: 39594
+  date: '1984-12-27T15:05:02'
+  crc: '0xf172fe3c'
+- name: CARDGAME.HLP
+  size: 3424
+  date: '1984-09-01T15:00:00'
+  crc: '0x98d13834'

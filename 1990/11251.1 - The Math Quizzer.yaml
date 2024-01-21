@@ -1,0 +1,42 @@
+filename: Math Quizzer, The v2.1 (1990)(James Miller) [Educational, Trivia].zip
+tdc_id: '11251.1'
+title:
+  screen: The Math Quizzer
+publisher: James Miller
+year: '1990'
+genre:
+- Educational
+- Trivia
+language: English
+date:
+  added: '2019-03-01T18:33:12'
+  last_modified: '2019-03-01T18:33:12'
+version: '2.1'
+type: zip
+commands:
+  play: QUIZZER.EXE
+files:
+- name: GRDSCRN.DAT
+  size: 3687
+  date: '1990-11-25T14:00:02'
+  crc: '0x98692a3a'
+- name: HISTORY.TXT
+  size: 1304
+  date: '1990-12-05T22:03:56'
+  crc: '0x3280300c'
+- name: QUIZ21.DAT
+  size: 4007
+  date: '1989-08-03T22:05:38'
+  crc: '0x07f234d9'
+- name: QUIZ21.HLP
+  size: 11824
+  date: '1990-12-05T21:42:28'
+  crc: '0xca9d442a'
+- name: QUIZZER.EXE
+  size: 78436
+  date: '1990-12-05T20:16:36'
+  crc: '0x6839bfae'
+- name: REGQUIZ.TXT
+  size: 3856
+  date: '1990-12-05T14:01:04'
+  crc: '0x19d74289'

@@ -1,0 +1,33 @@
+filename: World Golf 2 (Tandy 1000) [b1] (1990)(Brooks deForest) [Simulation, Sports].zip
+tdc_id: '16099.0'
+title:
+  screen: World Golf 2
+  qualifier: Tandy 1000
+publisher: Brooks deForest
+year: '1990'
+genre:
+- Simulation
+- Sports
+language: English
+date:
+  added: '2019-03-01T18:34:36'
+  last_modified: '2019-03-01T18:34:36'
+type: zip
+tags:
+- Bad: 1
+media: Download
+commands:
+  play: BASIC.EXE
+files:
+- name: BASIC.EXE
+  size: 68672
+  date: '2016-03-23T20:48:02'
+  crc: '0x0999e916'
+- name: BASICA.COM
+  size: 942
+  date: '2016-03-23T20:48:10'
+  crc: '0x5978f665'
+- name: wgolf2.bas
+  size: 13119
+  date: '2016-03-25T00:06:58'
+  crc: '0x687c8b00'

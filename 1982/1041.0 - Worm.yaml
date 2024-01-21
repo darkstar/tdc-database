@@ -1,0 +1,27 @@
+filename: Worm (1982)(Mark D. Miller) [Action].zip
+tdc_id: '1041.0'
+title:
+  screen: Worm
+publisher: Mark D. Miller
+year: '1982'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:23:06'
+  last_modified: '2019-03-01T18:23:06'
+type: zip
+commands:
+  play: WORM.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: WORM.BAS
+  size: 6784
+  date: '1984-10-08T08:06:40'
+  crc: '0xfbd866b4'
+- name: WORM.BAT
+  size: 15
+  date: '2014-12-18T18:01:08'
+  crc: '0x0d302c47'

@@ -1,0 +1,30 @@
+filename: Tujure - The Legend of Kelnore (1998)(Richard Peacock) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '4280.0'
+title:
+  screen: Tujure - The Legend of Kelnore
+publisher: Richard Peacock
+year: '1998'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-02T10:44:42'
+  last_modified: '2019-03-02T10:44:42'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 26
+  date: '2018-11-26T23:52:54'
+  crc: '0x970d2229'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: TUJURE.BAS
+  size: 121563
+  date: '2018-03-10T14:46:04'
+  crc: '0x1b7b1bcf'

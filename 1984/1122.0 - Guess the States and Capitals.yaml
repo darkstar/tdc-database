@@ -1,0 +1,30 @@
+filename: Guess the States and Capitals (1984)(J. Edward Volkstorf Jr.) [Educational, Trivia].zip
+tdc_id: '1122.0'
+title:
+  screen: Guess the States and Capitals
+publisher: J. Edward Volkstorf Jr.
+year: '1984'
+genre:
+- Educational
+- Trivia
+language: English
+date:
+  added: '2019-03-01T18:24:06'
+  last_modified: '2019-03-01T18:24:06'
+type: zip
+media: Download
+commands:
+  play: runme.bat
+files:
+- name: GWBASIC.EXE
+  size: 80592
+  date: '2001-05-04T06:58:22'
+  crc: '0x8462d0e4'
+- name: STATES2.BAS
+  size: 11892
+  date: '2009-04-25T22:30:16'
+  crc: '0xc355462b'
+- name: runme.bat
+  size: 36
+  date: '2009-04-25T22:04:54'
+  crc: '0xed3cf5a1'

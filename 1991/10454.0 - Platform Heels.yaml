@@ -1,0 +1,33 @@
+filename: Platform Heels [SW] (1991)(Ian Warmby) [Action].zip
+tdc_id: '10454.0'
+title:
+  screen: Platform Heels
+publisher: Ian Warmby
+year: '1991'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:37:24'
+  last_modified: '2019-03-01T18:37:24'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: HEELS.EXE
+references:
+  dosid: DOS07017
+  exodos: Platform Heels (1991).zip
+files:
+- name: HEELS.EXE
+  size: 28992
+  date: '1980-01-08T22:23:16'
+  crc: '0x3d53ab66'
+- name: INSTRUCT.DOC
+  size: 3675
+  date: '1980-01-02T23:13:00'
+  crc: '0x6967db3e'
+- name: REGISTER.DOC
+  size: 3219
+  date: '1980-01-02T23:15:32'
+  crc: '0x379fa9da'

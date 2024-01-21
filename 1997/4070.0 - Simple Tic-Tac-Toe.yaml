@@ -1,0 +1,48 @@
+filename: Simple Tic-Tac-Toe (1997)(Chris Browne) [Strategy].zip
+tdc_id: '4070.0'
+title:
+  screen: Simple Tic-Tac-Toe
+publisher: Chris Browne
+year: '1997'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:37:50'
+  last_modified: '2019-03-02T10:37:50'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: BOARD.IMG
+  size: 44007
+  date: '1997-02-20T16:11:32'
+  crc: '0xd6794314'
+- name: BOARD.PAL
+  size: 768
+  date: '1997-02-20T16:11:32'
+  crc: '0x41cfb3d7'
+- name: GO.BAT
+  size: 26
+  date: '2018-11-29T23:15:10'
+  crc: '0xcd3d1d08'
+- name: O.IMG
+  size: 2407
+  date: '1997-02-20T15:52:22'
+  crc: '0xed88afa8'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: README.TXT
+  size: 1030
+  date: '1997-07-07T08:16:06'
+  crc: '0xed2b2f17'
+- name: TIC2P1.BAS
+  size: 10889
+  date: '1997-02-20T16:12:58'
+  crc: '0x508795fc'
+- name: X.IMG
+  size: 2307
+  date: '1997-02-20T15:59:48'
+  crc: '0x1fce122a'

@@ -1,0 +1,35 @@
+filename: Bandit v1.1 [SW] (1993)(Mike O'Shea) [Action].zip
+tdc_id: '2536.0'
+title:
+  screen: Bandit
+publisher: Mike O'Shea
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T19:01:18'
+  last_modified: '2019-03-01T19:01:18'
+version: '1.1'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: BANDIT.EXE
+files:
+- name: BANDIT.EXE
+  size: 82245
+  date: '1993-05-17T01:32:54'
+  crc: '0x3488420c'
+- name: ENEMY.DAT
+  size: 2080
+  date: '1993-05-16T17:50:04'
+  crc: '0xc9e26e1d'
+- name: READ.ME
+  size: 1007
+  date: '1993-05-17T18:01:32'
+  crc: '0x1c9c7bd4'
+- name: SHIP.SCR
+  size: 340
+  date: '1993-05-17T17:52:36'
+  crc: '0x8c8ee37d'

@@ -1,0 +1,37 @@
+filename: SpellCraft- Aspects of Valor (Installer) (1992)(ASCII Entertainment Software, Inc.) [Strategy].zip
+tdc_id: '15378.1'
+parent_id: '15378.3'
+title:
+  box: 'SpellCraft: Aspects of Valor'
+publisher: ASCII Entertainment Software, Inc.
+year: '1992'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:51:22'
+  last_modified: '2019-03-01T18:51:22'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 20202
+  date: '1992-03-17T15:48:26'
+  crc: '0x40816cd7'
+- name: PKUNZIP.EXE
+  size: 21440
+  date: '1989-07-21T01:01:00'
+  crc: '0xd4ce5386'
+- name: SC000001.ZIP
+  size: 1360405
+  date: '1992-04-04T15:36:12'
+  crc: '0x0602ecb9'
+- name: SC000002.ZIP
+  size: 1451192
+  date: '1992-04-04T15:37:50'
+  crc: '0xd18bd5e9'
+- name: SC000003.ZIP
+  size: 1448625
+  date: '1992-04-04T15:39:34'
+  crc: '0xa1b42e31'

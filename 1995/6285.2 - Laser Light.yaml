@@ -1,0 +1,33 @@
+filename: Laser Light v1.11r (Installer) [SWR] (1995)(Pixel Painters Corporation) [Strategy].zip
+tdc_id: '6285.2'
+title:
+  screen: Laser Light
+publisher: Pixel Painters Corporation
+year: '1995'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T22:01:18'
+  last_modified: '2023-01-03T09:32:38'
+version: 1.11r
+type: zip
+tags:
+- SharewareRegistered
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/laser-light
+files:
+- name: INSTALL.EXE
+  size: 18880
+  date: '1995-02-25T13:11:18'
+  crc: '0xb358eaaf'
+- name: INSTALL.INF
+  size: 129
+  date: '1995-02-25T13:11:22'
+  crc: '0x6e463316'
+- name: PACKFILE.001
+  size: 598731
+  date: '1995-02-25T13:11:50'
+  crc: '0xdc90487c'

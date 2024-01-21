@@ -1,0 +1,50 @@
+filename: Chess Genius PC (En)(De) (1992)(Richard Lang) [Strategy, Chess].zip
+tdc_id: '9263.0'
+title:
+  screen: Chess Genius PC
+publisher: Richard Lang
+year: '1992'
+genre:
+- Strategy
+- Chess
+language:
+- English
+- German
+date:
+  added: '2019-03-01T18:41:44'
+  last_modified: '2019-03-01T18:41:44'
+type: zip
+commands:
+  play: CG.EXE
+files:
+- name: CG.EXE
+  size: 88303
+  date: '1993-01-25T13:33:04'
+  crc: '0x46923644'
+- name: CGEN100.864\
+  size: 0
+  date: '2016-11-10T21:49:42'
+- name: CGEN100.864\CCONTROL.SYS
+  size: 201
+  date: '1993-01-25T13:32:48'
+  crc: '0xb869e6df'
+- name: CGEN100.864\CGEN100.CCC
+  size: 11216
+  date: '1993-01-25T13:32:54'
+  crc: '0x4b86ccc8'
+- name: LASTGAME.GAM
+  size: 160
+  date: '1993-03-02T08:48:24'
+  crc: '0x1604462a'
+- name: MAINBOOK.BOO
+  size: 77382
+  date: '1992-12-04T12:00:04'
+  crc: '0xa1cd5d96'
+- name: MULTBOOK.BOO
+  size: 1212
+  date: '1992-12-04T12:00:04'
+  crc: '0x13a5c7f3'
+- name: README
+  size: 1002
+  date: '1992-12-31T12:00:10'
+  crc: '0x2ab4f3a1'

@@ -1,0 +1,43 @@
+filename: Brick Jumper! II (2002)(Master Raven 2002) [Action].zip
+tdc_id: '12820.0'
+title:
+  screen: Brick Jumper! II
+publisher: Master Raven 2002
+year: '2002'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:55:54'
+  last_modified: '2019-03-02T10:55:54'
+type: zip
+commands:
+  play: BII.exe
+files:
+- name: BII.exe
+  size: 64724
+  date: '2002-04-14T00:23:40'
+  crc: '0x55b69909'
+- name: Read Me Blank.txt
+  size: 1083
+  date: '2002-04-14T00:26:00'
+  crc: '0xf538c5f5'
+- name: dats.rav
+  size: 11
+  date: '2014-02-28T15:24:56'
+  crc: '0x329e8977'
+- name: high.efx
+  size: 26748
+  date: '2002-04-13T13:12:34'
+  crc: '0x2d6fb76a'
+- name: main.efx
+  size: 25387
+  date: '2002-04-13T13:10:06'
+  crc: '0xd9f42a7b'
+- name: sprites.efx
+  size: 951
+  date: '2002-04-13T20:57:32'
+  crc: '0x2f4e2e49'
+- name: title.efx
+  size: 4320
+  date: '2002-04-13T13:05:12'
+  crc: '0x5e12bf92'

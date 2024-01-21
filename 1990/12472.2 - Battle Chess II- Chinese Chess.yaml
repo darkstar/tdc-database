@@ -1,0 +1,53 @@
+filename: Battle Chess II- Chinese Chess v1.01 [a1] (1990)(Interplay Productions, Inc.) [Strategy, Board].zip
+tdc_id: '12472.2'
+parent_id: '12472.7'
+title:
+  box: 'Battle Chess II: Chinese Chess'
+publisher: Interplay Productions, Inc.
+year: '1990'
+genre:
+- Strategy
+- Board
+language: English
+date:
+  added: '2019-02-23T05:07:50'
+  last_modified: '2023-12-07T08:02:41'
+version: '1.01'
+type: zip
+tags:
+- Alternate: 1
+media: 720K
+commands:
+  play: CHESS2.EXE
+  setup: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1301/battle-chess-ii-chinese-chess/
+files:
+- name: ANIMATE1
+  size: 356242
+  date: '1990-09-13T12:42:18'
+  crc: '0x0d9838c4'
+- name: ANIMATE2
+  size: 356109
+  date: '1990-09-13T12:42:30'
+  crc: '0x1bf5e941'
+- name: CHESS2.EXE
+  size: 129697
+  date: '1990-10-11T01:01:00'
+  crc: '0xdcf1384d'
+- name: CHESS2.EX_
+  size: 129697
+  date: '1990-10-11T01:01:00'
+  crc: '0x0d03194a'
+- name: SETUP.EXE
+  size: 29577
+  date: '1990-10-11T01:01:00'
+  crc: '0x857a6cb3'
+- name: SETUP.EX_
+  size: 29577
+  date: '1990-10-11T01:01:00'
+  crc: '0x71c16e55'
+- name: STARTUP
+  size: 195548
+  date: '1990-10-11T01:01:00'
+  crc: '0xf73a59dc'

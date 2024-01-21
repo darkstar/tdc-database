@@ -1,0 +1,40 @@
+filename: Pac-in-Time (Installer) (1994)(Mindscape, Inc.) [Action].zip
+tdc_id: '10551.1'
+title:
+  box: Pac-in-Time
+publisher: Mindscape, Inc.
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T22:02:34'
+  last_modified: '2019-03-01T22:02:34'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK.ID
+  size: 53
+  date: '1994-12-21T14:42:04'
+  crc: '0x89c32923'
+- name: DISK.ID2
+  size: 53
+  date: '1994-12-21T14:43:28'
+  crc: '0x8b85977a'
+- name: INSTALL.EXE
+  size: 154518
+  date: '1994-10-04T11:35:40'
+  crc: '0xf3a9d49c'
+- name: PAC.001
+  size: 1291760
+  date: '1994-12-21T14:43:10'
+  crc: '0x810314c5'
+- name: PAC.002
+  size: 389188
+  date: '1994-12-21T14:43:46'
+  crc: '0xdc910254'
+- name: README.TXT
+  size: 10068
+  date: '1994-12-06T15:05:32'
+  crc: '0xa05ff23f'

@@ -1,0 +1,55 @@
+filename: Fleet Defender- Scenario v2.0 (Installer) (1994)(MicroProse Software, Inc.) [Simulation, Addon][!].zip
+tdc_id: '13649.0'
+title:
+  box: 'Fleet Defender: Scenario'
+publisher: MicroProse Software, Inc.
+year: '1994'
+genre:
+- Simulation
+- Addon
+language: English
+date:
+  added: '2019-03-01T21:56:42'
+  last_modified: '2023-01-12T17:40:45'
+version: '2.0'
+type: zip
+tags:
+- KnownGood
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/fleet-defender-scenario
+files:
+- name: BOOTDISK.EXE
+  size: 23191
+  date: '1994-09-17T15:15:10'
+  crc: '0x5d3889c2'
+- name: F14.001
+  size: 1305907
+  date: '1994-09-17T15:20:04'
+  crc: '0x079f87fa'
+- name: F14.002
+  size: 784448
+  date: '1994-09-17T15:23:00'
+  crc: '0x2188eca5'
+- name: INSTALL.EXE
+  size: 51301
+  date: '1994-09-17T15:15:08'
+  crc: '0xbcbbec5a'
+- name: MPSCOPY.EXE
+  size: 36643
+  date: '1994-09-17T15:15:06'
+  crc: '0x925ea8af'
+- name: MPSLABS.IDX
+  size: 18552
+  date: '1994-09-17T15:23:10'
+  crc: '0x42da77c2'
+- name: PKUNZJR.COM
+  size: 2750
+  date: '1994-09-17T15:15:04'
+  crc: '0xbc15451f'
+- name: README.TXT
+  size: 17031
+  date: '1994-09-17T15:15:12'
+  crc: '0x2e994bc4'

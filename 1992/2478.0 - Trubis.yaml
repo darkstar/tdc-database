@@ -1,0 +1,26 @@
+filename: Trubis v1.1 (1992)(Janis Virbulis, Sandris Lacis) [Strategy, Action].zip
+tdc_id: '2478.0'
+title:
+  screen: Trubis
+publisher: Janis Virbulis, Sandris Lacis
+year: '1992'
+genre:
+- Strategy
+- Action
+language: English
+date:
+  added: '2019-03-01T18:52:02'
+  last_modified: '2019-03-01T18:52:02'
+version: '1.1'
+type: zip
+commands:
+  play: trub.exe
+files:
+- name: high.scr
+  size: 500
+  date: '2009-12-31T21:31:06'
+  crc: '0x56103350'
+- name: trub.exe
+  size: 80511
+  date: '2009-12-31T21:32:20'
+  crc: '0x1b1ceb31'

@@ -1,0 +1,38 @@
+filename: Descent II (demo) (Installer) (1995)(Interplay Productions, Inc.) [Action].zip
+tdc_id: '13084.1'
+title:
+  screen: Descent II
+  qualifier: demo
+publisher: Interplay Productions, Inc.
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2016-05-03T20:25:40'
+  last_modified: '2016-05-03T20:25:40'
+type: zip
+installer: true
+demo: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: D2_1.SOW
+  size: 1396460
+  date: '1995-12-14T21:08:00'
+  crc: '0x6d4c58ce'
+- name: D2_2.SOW
+  size: 1456292
+  date: '1995-12-14T21:08:16'
+  crc: '0x1499e896'
+- name: D2_3.SOW
+  size: 1432326
+  date: '1995-12-14T21:08:38'
+  crc: '0x0d31b06d'
+- name: FILE_ID.DIZ
+  size: 199
+  date: '1995-12-14T11:25:02'
+  crc: '0x68ff2db3'
+- name: INSTALL.EXE
+  size: 54348
+  date: '1995-12-14T16:29:18'
+  crc: '0xce31f5b6'

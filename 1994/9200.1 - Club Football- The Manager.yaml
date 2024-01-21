@@ -1,0 +1,28 @@
+filename: Club Football- The Manager (Installer) (1994)(BOMS Computer Games Ltd.) [Simulation].zip
+tdc_id: '9200.1'
+title:
+  box: 'Club Football: The Manager'
+publisher: BOMS Computer Games Ltd.
+year: '1994'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T21:55:10'
+  last_modified: '2019-03-01T21:55:10'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: GAME.ZIP
+  size: 802454
+  date: '1994-08-11T18:09:28'
+  crc: '0xb762e8b8'
+- name: INSTALL.EXE
+  size: 15462
+  date: '1994-08-05T10:18:22'
+  crc: '0x1f7b59c1'
+- name: PKUNZIP.EXE
+  size: 29656
+  date: '1992-05-01T00:00:00'
+  crc: '0xfdaacd55'

@@ -1,0 +1,28 @@
+filename: Telltime (1988)(Anonymous) [Educational].zip
+tdc_id: '16503.0'
+title:
+  screen: Telltime
+publisher: Anonymous
+year: '1988'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T18:26:54'
+  last_modified: '2019-03-01T18:26:54'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 23
+  date: '2019-01-20T21:44:10'
+  crc: '0x6b40217c'
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1988-10-05T02:00:08'
+  crc: '0x2a44af39'
+- name: NUMTIME.BAS
+  size: 4310
+  date: '1988-04-05T12:40:18'
+  crc: '0x9f122ca0'

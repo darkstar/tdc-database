@@ -1,0 +1,37 @@
+filename: Micro! Deluxe (Installer) [SW] (1995)(Acumen Software) [Strategy, Puzzle].zip
+tdc_id: '7696.0'
+title:
+  screen: Micro! Deluxe
+publisher: Acumen Software
+year: '1995'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2018-09-20T17:43:52'
+  last_modified: '2018-09-20T17:43:52'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: MINSTALL.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 414
+  date: '1995-01-17T14:17:14'
+  crc: '0x69ea5667'
+- name: MDLXSHAR.CQZ
+  size: 484651
+  date: '1995-01-17T19:45:56'
+  crc: '0xe39596fe'
+- name: MINSTALL.EXE
+  size: 35968
+  date: '1995-01-17T19:51:06'
+  crc: '0xd32defaf'
+- name: READTHIS.TXT
+  size: 1253
+  date: '1995-01-17T19:56:24'
+  crc: '0x54512a51'

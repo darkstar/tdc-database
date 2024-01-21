@@ -1,0 +1,41 @@
+filename: Club der Billionäre, Der (Installer) (De) [SW] (1995)(DELTA Systeme) [Strategy, Simulation].zip
+tdc_id: '3473.0'
+title:
+  screen: Der Club der Billionäre
+publisher: DELTA Systeme
+year: '1995'
+genre:
+- Strategy
+- Simulation
+language: German
+date:
+  added: '2018-09-21T05:40:32'
+  last_modified: '2018-09-21T05:40:32'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 68
+  date: '1995-05-02T23:08:38'
+  crc: '0xfa65752e'
+- name: INSTALL.EXE
+  size: 46164
+  date: '1995-04-20T15:45:00'
+  crc: '0x0df0a8e4'
+- name: LIESMICH.TXT
+  size: 774
+  date: '1995-05-02T23:13:22'
+  crc: '0x15799a83'
+- name: MILL1.PRG
+  size: 1360000
+  date: '1995-05-03T01:26:10'
+  crc: '0x92846bde'
+- name: MILL2.PRG
+  size: 612725
+  date: '1995-05-03T01:30:20'
+  crc: '0xa49a30fc'

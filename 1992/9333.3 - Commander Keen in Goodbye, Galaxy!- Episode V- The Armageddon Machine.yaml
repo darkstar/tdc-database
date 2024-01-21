@@ -1,0 +1,32 @@
+filename: Commander Keen in Goodbye, Galaxy!- Episode V- The Armageddon Machine v1.4 EGA (1992)(Apogee Software, Ltd.) [Action].zip
+tdc_id: '9333.3'
+title:
+  screen: 'Commander Keen in Goodbye, Galaxy!: Episode V: The Armageddon Machine'
+publisher: Apogee Software, Ltd.
+year: '1992'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:41:56'
+  last_modified: '2019-03-01T18:41:56'
+version: '1.4'
+type: zip
+commands:
+  play: KEEN5E.EXE
+files:
+- name: AUDIO.CK5
+  size: 101990
+  date: '1992-02-01T13:40:00'
+  crc: '0x23ba4ead'
+- name: EGAGRAPH.CK5
+  size: 573664
+  date: '1992-02-01T13:40:00'
+  crc: '0xa70f84e2'
+- name: GAMEMAPS.CK5
+  size: 73721
+  date: '1992-02-01T13:40:00'
+  crc: '0xfb9dadab'
+- name: KEEN5E.EXE
+  size: 106417
+  date: '1992-02-01T13:40:00'
+  crc: '0x2a45589a'

@@ -1,0 +1,65 @@
+filename: Bureaucracy r116 (Installer) (1987)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '12877.0'
+parent_id: '12877.3'
+title:
+  box: Bureaucracy
+publisher: Infocom, Inc.
+year: '1987'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2022-03-30T16:53:42'
+  last_modified: '2022-03-30T16:53:42'
+release: '116'
+type: zip
+installer: true
+references:
+  dosid: DOS01213
+  exodos: Bureaucracy (1987).zip
+files:
+- name: AF.EXE
+  size: 13168
+  date: '1985-05-28T13:27:14'
+  crc: '0xac30980c'
+- name: BUREAUCR.COM
+  size: 12688
+  date: '1980-01-01T00:24:48'
+  crc: '0x12b04551'
+- name: BUREAUCR.DAT
+  size: 243341
+  date: '1980-01-01T02:29:30'
+  crc: '0x7e88ffd5'
+- name: GAMEDIR.COM
+  size: 62
+  date: '1985-05-31T10:45:50'
+  crc: '0xee6703b0'
+- name: INSTALL.BAT
+  size: 2304
+  date: '1986-12-15T14:44:08'
+  crc: '0xa0c0be3e'
+- name: INSTALLH.BAT
+  size: 1280
+  date: '1986-12-15T14:45:46'
+  crc: '0x431a1ad2'
+- name: SCAN.COM
+  size: 114
+  date: '1986-09-25T13:40:48'
+  crc: '0x78387415'
+- name: SETUP.EXE
+  size: 1584
+  date: '1985-06-28T10:53:14'
+  crc: '0x62ddb282'
+- name: SETUP.INF
+  size: 3
+  date: '1985-05-04T20:39:12'
+  crc: '0x8bdcb97d'
+- name: STATLINE.BAT
+  size: 3200
+  date: '1986-12-15T14:46:12'
+  crc: '0x09352886'
+- name: YES.COM
+  size: 93
+  date: '1984-11-30T12:02:30'
+  crc: '0x01bd6af9'

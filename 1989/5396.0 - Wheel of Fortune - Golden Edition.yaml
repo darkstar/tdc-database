@@ -1,0 +1,46 @@
+filename: Wheel of Fortune - Golden Edition (1989)(GameTek, Inc.) [Strategy].zip
+tdc_id: '5396.0'
+title:
+  box: Wheel of Fortune - Golden Edition
+publisher: GameTek, Inc.
+year: '1989'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:29:22'
+  last_modified: '2019-03-01T18:29:22'
+type: zip
+commands:
+  play: WOF.EXE
+references:
+  dosid: DOS07339
+  exodos: Wheel of Fortune - Golden Edition (1989).zip
+files:
+- name: ANSWERS.DAT
+  size: 55008
+  date: '1980-01-01T12:00:00'
+  crc: '0xca61bade'
+- name: CHAMPS.DAT
+  size: 2688
+  date: '1989-10-19T14:34:00'
+  crc: '0xb3974116'
+- name: CLIST.DAT
+  size: 162
+  date: '1980-01-01T12:00:00'
+  crc: '0xfd6b80d2'
+- name: GIRL.DAT
+  size: 14112
+  date: '1989-10-19T14:34:00'
+  crc: '0x1dea3ced'
+- name: VALUES.DAT
+  size: 27360
+  date: '1989-10-19T14:34:00'
+  crc: '0xd4a5c576'
+- name: WHEELS.DAT
+  size: 187200
+  date: '1989-10-19T14:34:00'
+  crc: '0x03f6faf8'
+- name: WOF.EXE
+  size: 61664
+  date: '1989-10-18T12:50:58'
+  crc: '0xe784b5e0'

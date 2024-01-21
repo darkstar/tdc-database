@@ -1,0 +1,36 @@
+filename: No Greater Glory- The American Civil War v1.0 (Installer) (1991)(Strategic Simulations, Inc.) [Strategy].zip
+tdc_id: '14492.0'
+parent_id: '14492.5'
+title:
+  box: 'No Greater Glory: The American Civil War'
+  qualifier: Installer
+publisher: Strategic Simulations, Inc.
+year: '1991'
+genre: Strategy
+language: English
+date:
+  added: '2020-03-29T12:10:50'
+  last_modified: '2023-11-17T14:47:12'
+version: '1.0'
+type: zip
+media:
+- 360K
+- 1.2M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/2895/no-greater-glory-the-american-civil-war/
+files:
+- name: DISK1.EXE
+  size: 1091166
+  date: '1991-10-08T09:34:56'
+  crc: '0xa4e91b20'
+- name: DISK2.EXE
+  size: 331507
+  date: '1991-10-08T09:35:20'
+  crc: '0x3034b487'
+- name: INSTALL.EXE
+  size: 15140
+  date: '1991-10-08T08:43:38'
+  crc: '0xd12e0e8b'

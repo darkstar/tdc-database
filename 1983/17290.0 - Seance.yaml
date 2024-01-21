@@ -1,0 +1,28 @@
+filename: Seance (1983)(Usborne Publishing Ltd) [Puzzle].zip
+tdc_id: '17290.0'
+title:
+  screen: Seance
+publisher: Usborne Publishing Ltd
+year: '1983'
+genre: Puzzle
+language: English
+date:
+  added: '2023-03-16T07:42:30'
+  last_modified: '2023-03-16T07:42:30'
+type: zip
+media: Type-In
+commands:
+  play: Go.bat
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T12:00:00'
+  crc: '0x92293842'
+- name: Go.bat
+  size: 13
+  date: '2022-08-02T20:51:22'
+  crc: '0x40b36acd'
+- name: seance.bas
+  size: 1529
+  date: '2022-08-02T20:48:44'
+  crc: '0x8fa70e24'

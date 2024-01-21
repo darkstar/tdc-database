@@ -1,0 +1,57 @@
+filename: BabyType (1993)(DOKA Company) [Action, Educational].zip
+tdc_id: '12333.0'
+title:
+  screen: BabyType
+publisher: DOKA Company
+year: '1993'
+genre:
+- Action
+- Educational
+language: English
+date:
+  added: '2019-03-01T19:01:16'
+  last_modified: '2019-03-01T19:01:16'
+type: zip
+commands:
+  play: BABYTYPE.EXE
+files:
+- name: BABY.IND
+  size: 520
+  date: '1993-03-11T10:34:20'
+  crc: '0x9abac848'
+- name: BABY.LIB
+  size: 19930
+  date: '1993-03-11T10:34:18'
+  crc: '0xa87ee937'
+- name: BABYTYPE.CNF
+  size: 18
+  date: '2003-10-28T11:57:58'
+  crc: '0xff75ff6b'
+- name: BABYTYPE.EXE
+  size: 97461
+  date: '2093-03-11T14:56:22'
+  crc: '0x023b9132'
+- name: BABYTYPE.REZ
+  size: 226
+  date: '2003-10-28T11:57:54'
+  crc: '0x59d7a92a'
+- name: BABY_ANI.SLD
+  size: 56728
+  date: '1993-03-04T08:41:56'
+  crc: '0x4b69701b'
+- name: BABY_FRG.SLD
+  size: 52066
+  date: '1993-03-04T08:51:06'
+  crc: '0x4b6b8e53'
+- name: BABY_MAI.PDD
+  size: 57178
+  date: '1993-03-04T13:52:00'
+  crc: '0x8a9f7232'
+- name: BABY_TIT.PDD
+  size: 50993
+  date: '1993-03-10T09:04:54'
+  crc: '0x929c9a48'
+- name: ID.LGO
+  size: 903
+  date: '1995-04-19T17:27:32'
+  crc: '0xb778976d'

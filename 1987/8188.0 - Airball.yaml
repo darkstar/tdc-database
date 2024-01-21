@@ -1,0 +1,111 @@
+filename: Airball (1987)(Microdeal) [Adventure, Strategy].zip
+tdc_id: '8188.0'
+title:
+  box: Airball
+publisher: Microdeal
+year: '1987'
+genre:
+- Adventure
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:25:06'
+  last_modified: '2019-03-01T18:25:06'
+type: zip
+commands:
+  play: AIRBALL.EXE
+references:
+  dosid: DOS00759
+  exodos: Airball (1987).zip
+files:
+- name: AIRBALL.EXE
+  size: 28819
+  date: '1989-06-09T13:19:00'
+  crc: '0x70804d91'
+- name: AIRBALL.HS
+  size: 86
+  date: '1989-04-23T18:58:00'
+  crc: '0x43beb39e'
+- name: DATA\
+  size: 0
+  date: '2008-02-07T16:11:24'
+- name: DATA\ABLOCK1.SQS
+  size: 20110
+  date: '1985-11-20T00:04:00'
+  crc: '0x7d067f00'
+- name: DATA\ABLOCK2.SQS
+  size: 19184
+  date: '1985-11-20T00:04:00'
+  crc: '0x467416f6'
+- name: DATA\ABLOCK3.SQS
+  size: 17634
+  date: '1985-11-20T00:04:00'
+  crc: '0x2722a3b9'
+- name: DATA\ABLOCK4.SQS
+  size: 8442
+  date: '1985-11-20T00:05:00'
+  crc: '0x07067652'
+- name: DATA\ABLOCK6.SQS
+  size: 21142
+  date: '1985-11-20T00:05:00'
+  crc: '0xb9130c38'
+- name: DATA\ABTITLE.NEO
+  size: 32128
+  date: '1985-11-20T00:05:00'
+  crc: '0x376d98f1'
+- name: DATA\ABWIZARD.SQS
+  size: 11352
+  date: '1985-11-20T00:05:00'
+  crc: '0x4d07d2a8'
+- name: DATA\ALPHASET.DTA
+  size: 9344
+  date: '1985-11-20T00:04:00'
+  crc: '0x3345b00f'
+- name: DATA\CORNRDAT.DTA
+  size: 12672
+  date: '1985-11-20T00:04:00'
+  crc: '0xeb1025d8'
+- name: DATA\DEATH.MUS
+  size: 1658
+  date: '1988-03-08T10:30:00'
+  crc: '0x479d12cf'
+- name: DATA\EXPLO.DTA
+  size: 23040
+  date: '1985-11-20T00:04:00'
+  crc: '0xf6ed4226'
+- name: DATA\FINISH.MUS
+  size: 1888
+  date: '1988-03-08T10:31:00'
+  crc: '0x9552d5b5'
+- name: DATA\HIGHSCOR.MUS
+  size: 2210
+  date: '1988-03-08T10:31:00'
+  crc: '0x127a2a62'
+- name: DATA\JUSTBALL.SQS
+  size: 2140
+  date: '1985-11-20T00:04:00'
+  crc: '0x20549514'
+- name: DATA\JUSTDRAG.DTA
+  size: 20480
+  date: '1985-11-20T00:04:00'
+  crc: '0x6dec49bb'
+- name: DATA\MAIN.MUS
+  size: 7452
+  date: '1988-03-08T10:31:00'
+  crc: '0xc9e456b8'
+- name: DATA\NTITLE.MUS
+  size: 2846
+  date: '1988-03-08T10:31:00'
+  crc: '0xf74b727e'
+- name: DATA\ROOMS
+  size: 69120
+  date: '1989-03-09T17:26:00'
+  crc: '0xc105f653'
+- name: DATA\TITLE.MUS
+  size: 2718
+  date: '1988-03-08T10:32:00'
+  crc: '0x07b9c7e1'
+- name: README.1ST
+  size: 669
+  date: '1989-06-14T14:26:00'
+  crc: '0xba93b4f7'

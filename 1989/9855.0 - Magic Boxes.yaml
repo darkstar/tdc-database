@@ -1,0 +1,26 @@
+filename: Magic Boxes (1989)(Softdisk Publishing) [Educational].zip
+tdc_id: '9855.0'
+title:
+  box: Magic Boxes
+publisher: Softdisk Publishing
+year: '1989'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T18:28:16'
+  last_modified: '2019-03-01T18:28:16'
+type: zip
+commands:
+  play: MAGICBOX.EXE
+references:
+  dosid: DOS03297
+  exodos: Magic Boxes (1989).zip
+files:
+- name: MAGICBOX.EXE
+  size: 22224
+  date: '1989-05-15T13:37:14'
+  crc: '0xc19037ce'
+- name: MGBXSCNS.HLP
+  size: 5666
+  date: '1989-05-15T13:35:30'
+  crc: '0xad31c569'

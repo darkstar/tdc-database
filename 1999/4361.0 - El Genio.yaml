@@ -1,0 +1,29 @@
+filename: Genio, El (Es) (1999)(LDAP) [Adventure, Interactive Fiction].zip
+tdc_id: '4361.0'
+title:
+  screen: El Genio
+publisher: LDAP
+year: '1999'
+genre:
+- Adventure
+- Interactive Fiction
+language: Spanish
+date:
+  added: '2019-03-02T10:46:10'
+  last_modified: '2019-03-02T10:46:10'
+type: zip
+commands:
+  play: genio.exe
+files:
+- name: genio.PIF
+  size: 967
+  date: '2003-02-19T03:03:56'
+  crc: '0xd8b46503'
+- name: genio.exe
+  size: 43610
+  date: '2000-02-16T15:31:30'
+  crc: '0xd51d7e60'
+- name: genio.ico
+  size: 766
+  date: '2003-02-19T02:18:58'
+  crc: '0xcfcd733e'

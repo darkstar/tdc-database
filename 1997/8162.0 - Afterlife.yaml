@@ -1,0 +1,122 @@
+filename: Afterlife v1.1 (Installer) (1997)(LucasArts Entertainment Company LLC) [Simulation].zip
+tdc_id: '8162.0'
+parent_id: '8162.2'
+title:
+  box: Afterlife
+publisher: LucasArts Entertainment Company LLC
+year: '1997'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-02T10:23:46'
+  last_modified: '2019-03-02T10:23:46'
+version: '1.1'
+type: zip
+installer: true
+references:
+  dosid: DOS00751
+  exodos: Afterlife (1996).zip
+files:
+- name: AFTERDOS.BAT
+  size: 154
+  date: '1996-05-20T10:31:28'
+  crc: '0x671961c0'
+- name: AFTERDOS.INI
+  size: 279
+  date: '1996-05-08T03:58:48'
+  crc: '0x63726156'
+- name: ALIFE.000
+  size: 148335487
+  date: '1996-05-27T06:51:36'
+  crc: '0xaa5cae1b'
+- name: ALIFE.EXE
+  size: 1254400
+  date: '1996-06-12T08:10:46'
+  crc: '0x4378d01e'
+- name: ALIFE.INI
+  size: 297
+  date: '1996-05-08T03:58:48'
+  crc: '0xf1ff0121'
+- name: ALIFEDOS.EXE
+  size: 1097715
+  date: '1996-05-30T03:04:38'
+  crc: '0x88766ee4'
+- name: ALLBOOT.EXE
+  size: 56847
+  date: '1996-08-20T05:18:10'
+  crc: '0x1d083f66'
+- name: ASCEN001.ASC
+  size: 654401
+  date: '1996-04-29T07:04:50'
+  crc: '0x3d1c67dc'
+- name: ASCEN002.ASC
+  size: 746193
+  date: '1996-04-29T06:56:36'
+  crc: '0x78f48554'
+- name: ASCEN003.ASC
+  size: 711426
+  date: '1996-04-29T06:59:52'
+  crc: '0x4b2a31ee'
+- name: ASCEN004.ASC
+  size: 635820
+  date: '1996-04-29T07:02:48'
+  crc: '0x0195debc'
+- name: AUTORUN.INF
+  size: 43
+  date: '1996-03-25T06:46:54'
+  crc: '0xadae7289'
+- name: BOOTMKR.EXE
+  size: 11766
+  date: '1997-08-11T04:30:28'
+  crc: '0x561f1a53'
+- name: DOS4GW.EXE
+  size: 265420
+  date: '1994-09-01T03:00:00'
+  crc: '0xcb214447'
+- name: FULL.000
+  size: 86989080
+  date: '1996-05-27T06:49:14'
+  crc: '0xf9fae6a1'
+- name: IMUSE.EXE
+  size: 1720594
+  date: '1996-04-25T04:40:22'
+  crc: '0xc53d91ec'
+- name: INSTALL.BAT
+  size: 244
+  date: '1996-05-29T02:19:30'
+  crc: '0x02ea9764'
+- name: INSTALL.INI
+  size: 166
+  date: '1996-05-22T06:07:16'
+  crc: '0x8e050eaf'
+- name: MEDIUM.000
+  size: 9505803
+  date: '1996-05-27T06:48:00'
+  crc: '0xfb79c54c'
+- name: README.TXT
+  size: 29058
+  date: '1997-08-27T09:44:22'
+  crc: '0x733076fe'
+- name: SETUP.EXE
+  size: 277504
+  date: '1996-05-30T02:30:42'
+  crc: '0xaf6c4714'
+- name: SETUP.INI
+  size: 193
+  date: '1996-05-21T15:28:26'
+  crc: '0x03d41a17'
+- name: SETUPDOS.EXE
+  size: 237693
+  date: '1996-05-30T03:04:46'
+  crc: '0x7d6acaef'
+- name: SUPPORT\
+  size: 0
+  date: '1997-08-27T11:05:28'
+- name: SUPPORT\MOUSE.EXE
+  size: 93246
+  date: '1993-08-16T01:01:00'
+  crc: '0xeae2b281'
+- name: UVCONFIG.EXE
+  size: 278748
+  date: '1996-04-25T05:06:18'
+  crc: '0x15dbf8a8'

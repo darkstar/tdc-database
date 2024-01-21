@@ -1,0 +1,134 @@
+filename: Early Learning - First Shapes v1.8 (Installer) (1990)(SmartWorks) [Educational].zip
+tdc_id: '17113.0'
+parent_id: '17113.2'
+title:
+  screen: Early Learning - First Shapes
+publisher: SmartWorks
+year: '1990'
+genre: Educational
+language: English
+date:
+  added: '2022-12-29T15:25:00'
+  last_modified: '2022-12-29T15:25:00'
+version: '1.8'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: APPLIC.ARC
+  size: 130036
+  date: '1990-08-07T14:35:00'
+  crc: '0x2a1d8629'
+- name: CGAFONTS.ARC
+  size: 6936
+  date: '1990-08-07T14:33:26'
+  crc: '0x797b3437'
+- name: DESKINS.BAT
+  size: 20
+  date: '1989-09-20T11:30:44'
+  crc: '0x59640b8f'
+- name: DESKTOPD.CFG
+  size: 55
+  date: '1989-11-14T09:56:44'
+  crc: '0xc8a89d96'
+- name: DISK.DAT
+  size: 2
+  date: '1989-08-16T11:37:36'
+  crc: '0xffff0000'
+- name: DISK1.DAT
+  size: 2
+  date: '1989-08-16T11:37:36'
+  crc: '0xffff0000'
+- name: EGAFONTS.ARC
+  size: 6515
+  date: '1990-08-07T14:33:32'
+  crc: '0x34551ed2'
+- name: FILES.CNF
+  size: 2835
+  date: '1990-08-06T13:12:12'
+  crc: '0x63cbfe3f'
+- name: FSHCGA.BAT
+  size: 19
+  date: '1989-08-23T11:30:12'
+  crc: '0x0a35ef97'
+- name: FSHEGA.BAT
+  size: 19
+  date: '1989-08-23T11:30:30'
+  crc: '0xdc6c0c8a'
+- name: FSHTGA.BAT
+  size: 15
+  date: '1989-09-12T14:06:24'
+  crc: '0xbe2988de'
+- name: FSHVGA.BAT
+  size: 19
+  date: '1989-08-23T11:30:50'
+  crc: '0x592e7cbf'
+- name: INSTALL.EXE
+  size: 78487
+  date: '1990-08-07T14:32:22'
+  crc: '0x49763dca'
+- name: INSTALL.PDM
+  size: 4404
+  date: '1988-10-14T10:53:20'
+  crc: '0xcb0f62c4'
+- name: LAUNCH.ARC
+  size: 70908
+  date: '1990-08-07T14:33:02'
+  crc: '0xe01a5d77'
+- name: METAWNDO.ARC
+  size: 72157
+  date: '1990-08-07T14:32:52'
+  crc: '0xe3f5ee7f'
+- name: MISCA.ARC
+  size: 734
+  date: '1990-08-07T14:32:34'
+  crc: '0xb8f6bbb7'
+- name: MISCB.ARC
+  size: 4642
+  date: '1990-08-07T14:34:30'
+  crc: '0x0306a26b'
+- name: PROGRAM.CNF
+  size: 105
+  date: '1990-07-17T15:50:20'
+  crc: '0x510b8d52'
+- name: RUNMENU.ARC
+  size: 9129
+  date: '1990-08-07T14:34:02'
+  crc: '0x77b9a071'
+- name: SWREMOVE.ARC
+  size: 2396
+  date: '1990-08-07T14:33:56'
+  crc: '0x21f6f05c'
+- name: SWRUN.ARC
+  size: 349
+  date: '1990-08-07T14:33:52'
+  crc: '0x635c5a74'
+- name: TGAFONTS.ARC
+  size: 7192
+  date: '1990-08-07T14:33:46'
+  crc: '0x3aebbda6'
+- name: V2DAC.EXE
+  size: 29897
+  date: '1989-02-28T16:06:12'
+  crc: '0x2e64cd50'
+- name: V2PWM.EXE
+  size: 29289
+  date: '1989-02-28T16:01:26'
+  crc: '0x3ae6585b'
+- name: V2TND.ARC
+  size: 22311
+  date: '1990-08-07T14:34:26'
+  crc: '0xab3f9c90'
+- name: V3DAC.EXE
+  size: 116569
+  date: '1989-02-28T16:16:06'
+  crc: '0xe03ee350'
+- name: V3PWM.EXE
+  size: 87849
+  date: '1989-04-27T16:09:32'
+  crc: '0x6363316c'
+- name: VGAFONTS.ARC
+  size: 7816
+  date: '1990-08-07T14:33:40'
+  crc: '0x5d2b3a2a'

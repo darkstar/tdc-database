@@ -1,0 +1,104 @@
+filename: Dark Woods 2 (2002)(Jocke The Beast) [Adventure, Action].zip
+tdc_id: '12940.0'
+title:
+  screen: Dark Woods 2
+publisher: Jocke The Beast
+year: '2002'
+genre:
+- Adventure
+- Action
+language: English
+date:
+  added: '2019-03-02T10:55:56'
+  last_modified: '2019-03-02T10:55:56'
+type: zip
+commands:
+  play: dwoods2.exe
+files:
+- name: data\
+  size: 0
+  date: '2013-07-21T14:31:44'
+- name: data\mymap.dat
+  size: 2415
+  date: '1999-12-31T19:00:00'
+  crc: '0x9b4f999a'
+- name: data\oldmap01.dat
+  size: 512
+  date: '1999-12-31T19:00:00'
+  crc: '0xf356becf'
+- name: data\oldmap02.dat
+  size: 512
+  date: '1999-12-31T19:00:00'
+  crc: '0x6ce0a054'
+- name: data\oldmap03.dat
+  size: 512
+  date: '1999-12-31T19:00:00'
+  crc: '0xbaca8b15'
+- name: data\oldmap04.dat
+  size: 512
+  date: '1999-12-31T19:00:00'
+  crc: '0x37a3775a'
+- name: data\oldmap05.dat
+  size: 512
+  date: '1999-12-31T19:00:00'
+  crc: '0x79f96227'
+- name: dwoods2.exe
+  size: 82188
+  date: '1999-12-31T19:00:00'
+  crc: '0x8ce8d922'
+- name: dwoods2.gfx
+  size: 64775
+  date: '1999-12-31T19:00:00'
+  crc: '0xa4a03c67'
+- name: map01.dat
+  size: 1164
+  date: '1999-12-31T19:00:00'
+  crc: '0x6ec30b77'
+- name: map02.dat
+  size: 1164
+  date: '1999-12-31T19:00:00'
+  crc: '0xc9a221cf'
+- name: map03.dat
+  size: 1164
+  date: '1999-12-31T19:00:00'
+  crc: '0x8a1a3374'
+- name: map04.dat
+  size: 512
+  date: '1999-12-31T19:00:00'
+  crc: '0x91ca523f'
+- name: map05.dat
+  size: 1166
+  date: '1999-12-31T19:00:00'
+  crc: '0x96cedeb5'
+- name: map06.dat
+  size: 1166
+  date: '1999-12-31T19:00:00'
+  crc: '0x8aa668ba'
+- name: map07.dat
+  size: 1166
+  date: '1999-12-31T19:00:00'
+  crc: '0x834a4bcd'
+- name: map08.dat
+  size: 1166
+  date: '1999-12-31T19:00:00'
+  crc: '0xbf44afee'
+- name: map09.dat
+  size: 1166
+  date: '1999-12-31T19:00:00'
+  crc: '0x001a4f43'
+- name: map10.dat
+  size: 1166
+  date: '1999-12-31T19:00:00'
+  crc: '0x86b1ca60'
+- name: map11.dat
+  size: 1166
+  date: '1999-12-31T19:00:00'
+  crc: '0xaee478cc'
+- name: mapmaker.txt
+  size: 2422
+  date: '1999-12-31T19:00:00'
+  crc: '0x2f0dc9e2'
+- name: readme.txt
+  size: 7907
+  date: '1999-12-31T19:00:00'
+  crc: '0x545c52e9'

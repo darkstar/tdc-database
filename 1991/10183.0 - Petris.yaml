@@ -1,0 +1,35 @@
+filename: Petris [SW] (1991)(Ian Warmby) [Strategy, Action].zip
+tdc_id: '10183.0'
+title:
+  screen: Petris
+publisher: Ian Warmby
+year: '1991'
+genre:
+- Strategy
+- Action
+language: English
+date:
+  added: '2019-03-01T18:37:22'
+  last_modified: '2019-03-01T18:37:22'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: PETRIS.EXE
+references:
+  dosid: DOS07011
+  exodos: Petris (1991).zip
+files:
+- name: INSTRUCT.DOC
+  size: 3675
+  date: '1980-01-02T23:13:00'
+  crc: '0x6967db3e'
+- name: PETRIS.EXE
+  size: 23856
+  date: '1980-01-27T03:20:06'
+  crc: '0x8a06265b'
+- name: REGISTER.DOC
+  size: 3219
+  date: '1980-01-02T23:15:32'
+  crc: '0x379fa9da'

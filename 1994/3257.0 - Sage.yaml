@@ -1,0 +1,33 @@
+filename: Sage von Nietoom, Die (demo) (Installer) (De) (1994)(4th Generation Studios) [Adventure].zip
+tdc_id: '3257.0'
+title:
+  screen: Sage
+publisher: 4th Generation Studios
+year: '1994'
+genre: Adventure
+language: German
+date:
+  added: '2019-03-01T22:04:08'
+  last_modified: '2019-03-01T22:04:08'
+type: zip
+installer: true
+demo: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: ARJ.EXE
+  size: 115808
+  date: '1993-07-20T15:48:26'
+  crc: '0xe0f7d93e'
+- name: GAME1.ARJ
+  size: 1033843
+  date: '1994-09-25T21:59:14'
+  crc: '0xe52dc7dc'
+- name: INSTALL.EXE
+  size: 34304
+  date: '1994-09-25T23:46:06'
+  crc: '0x5c0e1b55'
+- name: LIESMICH.TXT
+  size: 3766
+  date: '1994-10-03T01:45:20'
+  crc: '0x9b041ffb'

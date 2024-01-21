@@ -1,0 +1,75 @@
+filename: Spectre VR v1.04 (Installer) (1995)(Megamedia Corp.) [Action, Racing - Driving].zip
+tdc_id: '15346.6'
+title:
+  box: Spectre VR
+publisher: Megamedia Corp.
+year: '1995'
+genre:
+- Action
+- Racing - Driving
+language: English
+date:
+  added: '2022-11-23T14:09:51'
+  last_modified: '2022-11-23T14:09:51'
+version: '1.04'
+type: zip
+installer: true
+commands:
+  play: SPECTRE.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/spectre-vr
+files:
+- name: INSTALL.BAT
+  size: 52
+  date: '1980-01-01T12:00:00'
+  crc: '0xdaa2cba0'
+- name: README.EXE
+  size: 195765
+  date: '1995-02-08T14:58:14'
+  crc: '0xf184b67a'
+- name: README.TXT
+  size: 339
+  date: '1995-02-08T17:30:48'
+  crc: '0x9def3f96'
+- name: SN.EXE
+  size: 418507
+  date: '1995-02-08T17:49:46'
+  crc: '0x4b2112ff'
+- name: SPECTRE.EXE
+  size: 2916
+  date: '1995-02-08T16:08:48'
+  crc: '0xb5a1eeb5'
+- name: SWT\
+  size: 0
+  date: '1995-02-07T12:24:00'
+- name: SWT\MS211
+  size: 66
+  date: '1995-02-07T15:14:18'
+  crc: '0x53878a7f'
+- name: SWT\PRODUCT\
+  size: 0
+  date: '1995-02-07T15:14:52'
+- name: SWT\PRODUCT\COPYFILE.SWT
+  size: 8374697
+  date: '1995-02-07T10:43:50'
+  crc: '0xe27027fd'
+- name: SWT\PRODUCT\DEMOCNTL.SWT
+  size: 348
+  date: '1995-02-08T17:28:12'
+  crc: '0x7824d3e7'
+- name: SWT\SWRT.CFG
+  size: 16921
+  date: '1995-02-08T18:13:38'
+  crc: '0x3f3a206a'
+- name: SWT\SWRT.GRX
+  size: 213195
+  date: '1995-02-08T16:28:28'
+  crc: '0x009ce42c'
+- name: SWT\SWRT.PRT
+  size: 65622
+  date: '1994-02-28T01:51:00'
+  crc: '0x5cd317e2'
+- name: SWT\SWRT.TXT
+  size: 158731
+  date: '1995-02-08T18:13:38'
+  crc: '0x8e465393'

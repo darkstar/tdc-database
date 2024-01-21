@@ -1,0 +1,61 @@
+filename: Adibou - Accompagnement scolaire 4-7 Ans v2.0 (Installer) (Fr) [f1] (1992)(Coktel Vision) [Educational].zip
+tdc_id: '8085.3'
+title:
+  box: Adibou - Accompagnement scolaire 4-7 Ans
+publisher: Coktel Vision
+year: '1992'
+genre: Educational
+language: French
+date:
+  added: '2021-01-16T13:17:56'
+  last_modified: '2021-01-16T13:17:56'
+version: '2.0'
+type: zip
+tags:
+- Fixed: 1
+installer: true
+files:
+- name: ALL.ASK
+  size: 12952
+  date: '1993-01-29T10:04:16'
+  crc: '0x73d7f23a'
+- name: GO.BAT
+  size: 12
+  date: '1993-02-18T16:08:16'
+  crc: '0x40d63bdf'
+- name: INSTALL.EXE
+  size: 73216
+  date: '1993-01-25T15:58:28'
+  crc: '0xb606a2de'
+- name: INSTALL.FRA
+  size: 632
+  date: '1993-03-26T12:18:28'
+  crc: '0xd98c6662'
+- name: INTRO.$00
+  size: 1370624
+  date: '1993-03-26T12:18:00'
+  crc: '0x8f303ba8'
+- name: INTRO.$01
+  size: 1282426
+  date: '1993-03-26T12:18:16'
+  crc: '0xa9b4cbb4'
+- name: LOADER.EXE
+  size: 86152
+  date: '1993-03-31T12:09:00'
+  crc: '0xab60f787'
+- name: LOADER.PIF
+  size: 545
+  date: '1993-03-24T15:57:18'
+  crc: '0xb2c85aee'
+- name: MDO.DEF
+  size: 102
+  date: '1980-01-01T12:00:00'
+  crc: '0xcb2ec833'
+- name: SETUP.EXE
+  size: 25343
+  date: '1993-03-23T16:40:48'
+  crc: '0x50cfd2ca'
+- name: WLOADER.EXE
+  size: 15032
+  date: '1993-03-26T16:19:26'
+  crc: '0xc1700dc5'

@@ -1,0 +1,62 @@
+filename: Night Shift v1.1 [a1] (1990)(Lucasfilm Games LLC) [Action].zip
+tdc_id: '9906.2'
+title:
+  box: Night Shift
+publisher: Lucasfilm Games LLC
+year: '1990'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:33:20'
+  last_modified: '2019-03-01T18:33:20'
+version: '1.1'
+type: zip
+tags:
+- Alternate: 1
+commands:
+  play: IML.EXE
+files:
+- name: BEAST_1.CMP
+  size: 54831
+  date: '1990-09-23T18:19:06'
+  crc: '0x5e6f4d82'
+- name: BEAST_2.CMP
+  size: 25183
+  date: '1990-09-23T18:17:16'
+  crc: '0x4a4ef0e2'
+- name: BEAST_3.CMP
+  size: 50624
+  date: '1990-09-23T18:15:50'
+  crc: '0x11e39de0'
+- name: BEAST_4.CMP
+  size: 53455
+  date: '1990-09-23T18:14:12'
+  crc: '0xe6c6a573'
+- name: DELTA_19.CMP
+  size: 30445
+  date: '1990-09-23T18:10:24'
+  crc: '0xa5cd70b1'
+- name: DELTA_27.CMP
+  size: 23967
+  date: '1990-09-23T18:10:32'
+  crc: '0x173aa83c'
+- name: DELTA_9.CMP
+  size: 50234
+  date: '1990-09-23T18:10:14'
+  crc: '0xc6af30fc'
+- name: DISK_1.CMP
+  size: 118410
+  date: '1990-09-23T22:12:50'
+  crc: '0xdb9b4c87'
+- name: DISK_2.CMP
+  size: 195676
+  date: '1990-09-23T22:13:16'
+  crc: '0x6a121ae4'
+- name: DISK_3.CMP
+  size: 162514
+  date: '1990-09-23T22:13:46'
+  crc: '0xdbbeeba6'
+- name: IML.EXE
+  size: 120948
+  date: '1990-10-04T10:24:00'
+  crc: '0xd2d2d234'

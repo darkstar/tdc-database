@@ -1,0 +1,46 @@
+filename: Companions of Xanth v1.1.0 (Installer) (1993)(Legend Entertainment Company) [Adventure][!].zip
+tdc_id: '6079.3'
+parent_id: '6079.7'
+title:
+  box: Companions of Xanth
+  qualifier: Installer
+publisher: Legend Entertainment Company
+year: '1993'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T19:02:04'
+  last_modified: '2023-10-05T10:06:18'
+version: 1.1.0
+type: zip
+tags:
+- KnownGood
+media: 1.44M
+installer: true
+references:
+  mobygames: https://www.mobygames.com/game/319/companions-of-xanth/
+files:
+- name: INSTALL.EXE
+  size: 40702
+  date: '1993-10-27T01:10:00'
+  crc: '0xf476e4ab'
+- name: INSTALL.TAG
+  size: 56
+  date: '1993-10-27T01:10:12'
+  crc: '0xc3db60c3'
+- name: XANTH_11.EXE
+  size: 1414601
+  date: '1993-10-27T01:10:08'
+  crc: '0xcf95f5d9'
+- name: XANTH_12.EXE
+  size: 1457617
+  date: '1993-10-27T01:10:08'
+  crc: '0xf02cec7e'
+- name: XANTH_13.EXE
+  size: 1457559
+  date: '1993-10-27T01:10:08'
+  crc: '0xdf6ff478'
+- name: XANTH_14.EXE
+  size: 1449665
+  date: '1993-10-27T01:10:08'
+  crc: '0xc691ca05'

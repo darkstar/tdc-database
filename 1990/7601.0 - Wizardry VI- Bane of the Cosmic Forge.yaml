@@ -1,0 +1,58 @@
+filename: Wizardry VI- Bane of the Cosmic Forge (Installer) (1990)(Sir-tech Software, Inc.) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '7601.0'
+title:
+  box: 'Wizardry VI: Bane of the Cosmic Forge'
+publisher: Sir-tech Software, Inc.
+year: '1990'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:34:34'
+  last_modified: '2019-03-01T18:34:34'
+type: zip
+installer: true
+commands:
+  play: WINSTALL.EXE
+files:
+- name: BANE1.ZIP
+  size: 172258
+  date: '1990-11-12T09:12:36'
+  crc: '0xbb3ffa94'
+- name: BANE2.ZIP
+  size: 130274
+  date: '1990-11-12T09:14:44'
+  crc: '0x9e0c7b16'
+- name: BANE3.ZIP
+  size: 95575
+  date: '1990-11-05T20:14:54'
+  crc: '0x96c9bc34'
+- name: BANE4.ZIP
+  size: 235815
+  date: '1990-11-05T20:19:16'
+  crc: '0x41751f97'
+- name: BANE5.ZIP
+  size: 74070
+  date: '1990-11-05T20:15:22'
+  crc: '0xea019fd7'
+- name: BANE6.ZIP
+  size: 279461
+  date: '1990-11-05T20:21:42'
+  crc: '0x84d4a95f'
+- name: BANE7.ZIP
+  size: 92116
+  date: '1990-11-06T12:04:26'
+  crc: '0x749c512a'
+- name: BANE8.ZIP
+  size: 176098
+  date: '1990-11-05T20:16:54'
+  crc: '0x02ac0f81'
+- name: PKUNZIP.EXE
+  size: 23528
+  date: '1990-03-15T01:10:00'
+  crc: '0x4457e783'
+- name: WINSTALL.EXE
+  size: 15888
+  date: '1990-11-06T12:06:48'
+  crc: '0xe9116f83'

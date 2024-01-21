@@ -1,0 +1,26 @@
+filename: Bomb Run [SW] (1991)(PC Solutions) [Action].zip
+tdc_id: '12739.0'
+title:
+  screen: Bomb Run
+publisher: PC Solutions
+year: '1991'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:35:04'
+  last_modified: '2019-03-01T18:35:04'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: bomb17.exe
+files:
+- name: bomb.spr
+  size: 1000
+  date: '1996-12-24T23:32:00'
+  crc: '0xfaccde58'
+- name: bomb17.exe
+  size: 9585
+  date: '1996-12-24T23:32:00'
+  crc: '0x31798c1f'

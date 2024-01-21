@@ -1,0 +1,31 @@
+filename: Chessmaster 2000, The v1.06 (1986)(Software Toolworks, Inc., The) [Strategy, Chess].zip
+tdc_id: '9280.10'
+title:
+  box: The Chessmaster 2000
+publisher: Software Toolworks, Inc., The
+year: '1986'
+genre:
+- Strategy
+- Chess
+language: English
+date:
+  added: '2019-03-01T18:24:44'
+  last_modified: '2019-03-01T18:24:44'
+version: '1.06'
+type: zip
+references:
+  dosid: DOS01358
+  exodos: Chessmaster 2000, The (1986).zip
+files:
+- name: CM.DAT
+  size: 40646
+  date: '1986-11-06T21:47:00'
+  crc: '0x74c31fe9'
+- name: CM.EXE
+  size: 123225
+  date: '1986-11-06T21:47:52'
+  crc: '0x4636abcf'
+- name: CMASTER.EXE
+  size: 17478
+  date: '1986-09-12T17:57:10'
+  crc: '0x9aabd338'

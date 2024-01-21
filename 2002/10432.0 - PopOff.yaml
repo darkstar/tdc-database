@@ -1,0 +1,27 @@
+filename: PopOff (2002)(WhizWare) [Strategy].zip
+tdc_id: '10432.0'
+title:
+  screen: PopOff
+publisher: WhizWare
+year: '2002'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:56:06'
+  last_modified: '2019-03-02T10:56:06'
+type: zip
+commands:
+  play: popoff.exe
+files:
+- name: PopOff.ico
+  size: 766
+  date: '2002-02-10T21:15:04'
+  crc: '0x669056e2'
+- name: popoff.bas
+  size: 16391
+  date: '2002-09-17T04:04:04'
+  crc: '0x9060ed31'
+- name: popoff.exe
+  size: 83600
+  date: '2002-07-24T14:05:50'
+  crc: '0xfa901f71'

@@ -1,0 +1,39 @@
+filename: Autobots v1.1p (1989)(Scott Emmons) [Action].zip
+tdc_id: '1644.0'
+title:
+  screen: Autobots
+publisher: Scott Emmons
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2020-06-06T12:18:06'
+  last_modified: '2020-06-06T12:18:06'
+version: 1.1p
+type: zip
+commands:
+  play: AUTOBOTS.EXE
+references:
+  dosid: DOS00901
+  exodos: Autobots (1989).zip
+files:
+- name: AUTOBOTS.DAT
+  size: 16391
+  date: '1989-04-05T14:53:02'
+  crc: '0x25f1e702'
+- name: AUTOBOTS.DOC
+  size: 3054
+  date: '1990-03-11T16:50:16'
+  crc: '0xb4dec7ef'
+- name: AUTOBOTS.EXE
+  size: 31008
+  date: '1989-04-05T15:09:54'
+  crc: '0xd8300e3e'
+- name: CGA.BGI
+  size: 6029
+  date: '1987-12-16T04:00:00'
+  crc: '0xcd2d7722'
+- name: TRIP.CHR
+  size: 7213
+  date: '1987-12-16T04:00:00'
+  crc: '0xb0fb0cbe'

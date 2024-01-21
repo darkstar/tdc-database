@@ -1,0 +1,59 @@
+filename: Follow the Reader (Installer) (1993)(Walt Disney Computer Software, Inc.) [Educational].zip
+tdc_id: '13702.3'
+title:
+  box: Follow the Reader
+publisher: Walt Disney Computer Software, Inc.
+year: '1993'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T19:08:44'
+  last_modified: '2019-03-01T19:08:44'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DATA\
+  size: 0
+  date: '2013-01-07T18:46:38'
+- name: DATA\DISK1.CN_
+  size: 574073
+  date: '1993-09-07T12:00:00'
+  crc: '0x57891670'
+- name: DATA\DISK2.CN_
+  size: 1439697
+  date: '1993-09-07T12:00:00'
+  crc: '0xb5d64913'
+- name: DATA\DISK3.CN_
+  size: 1195719
+  date: '1993-09-07T12:00:00'
+  crc: '0x16e530ba'
+- name: DISK1.CN_
+  size: 9167
+  date: '1993-09-07T12:00:00'
+  crc: '0xfc0bf54d'
+- name: DISK1.ID
+  size: 1
+  date: '1993-09-07T12:00:00'
+  crc: '0xe96ccf45'
+- name: DISK2.ID
+  size: 1
+  date: '1993-09-07T12:00:00'
+  crc: '0xe96ccf45'
+- name: DISK3.CN_
+  size: 244011
+  date: '1993-09-07T12:00:00'
+  crc: '0x62c044f3'
+- name: DISK3.ID
+  size: 1
+  date: '1993-09-07T12:00:00'
+  crc: '0xe96ccf45'
+- name: INSTALL.CFG
+  size: 360
+  date: '1993-09-07T12:00:00'
+  crc: '0x394001b9'
+- name: INSTALL.EXE
+  size: 48379
+  date: '1993-09-07T12:00:00'
+  crc: '0x22c9c131'

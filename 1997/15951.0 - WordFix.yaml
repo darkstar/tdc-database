@@ -1,0 +1,40 @@
+filename: WordFix v2.01 (Ru) (1997)(NAP Tandem Ltd) [Educational].zip
+tdc_id: '15951.0'
+title:
+  screen: WordFix
+publisher: NAP Tandem Ltd
+year: '1997'
+genre: Educational
+language: Russian
+date:
+  added: '2020-11-17T22:08:08'
+  last_modified: '2020-11-17T22:08:08'
+version: '2.01'
+type: zip
+commands:
+  play: WORDFIX.EXE
+files:
+- name: WIX(ER).DC0
+  size: 177738
+  date: '1996-05-06T10:30:50'
+  crc: '0xfeb1b52a'
+- name: WIX(ER).DC1
+  size: 510057
+  date: '1996-05-06T10:30:32'
+  crc: '0xd4508ac6'
+- name: WIX.GSS
+  size: 201835
+  date: '1995-07-15T01:25:34'
+  crc: '0x0535397d'
+- name: WIX.INI
+  size: 356
+  date: '1996-01-26T18:45:20'
+  crc: '0x55e08f53'
+- name: WORDFIX.EXE
+  size: 23643
+  date: '1997-03-14T02:53:06'
+  crc: '0xa1f47239'
+- name: WORDFIX.TXT
+  size: 2657
+  date: '1997-07-04T15:51:14'
+  crc: '0x60acf93c'

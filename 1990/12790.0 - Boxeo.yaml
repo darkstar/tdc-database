@@ -1,0 +1,30 @@
+filename: Boxeo (Es) (1990)(Ediciones Manali, S.A.) [Sports].zip
+tdc_id: '12790.0'
+title:
+  screen: Boxeo
+publisher: Ediciones Manali, S.A.
+year: '1990'
+genre: Sports
+language: Spanish
+date:
+  added: '2019-03-01T18:31:56'
+  last_modified: '2019-03-01T18:31:56'
+type: zip
+commands:
+  play: BOXEO.EXE
+references:
+  dosid: DOS15267
+  exodos: Boxeo (1990).zip
+files:
+- name: BOXEO.BIN
+  size: 31454
+  date: '1980-01-01T01:02:08'
+  crc: '0xe168a549'
+- name: BOXEO.EXE
+  size: 48356
+  date: '1980-01-01T01:00:06'
+  crc: '0xce8777bb'
+- name: TECLAINT.BIN
+  size: 98
+  date: '1980-01-01T01:02:44'
+  crc: '0x53a1e02e'

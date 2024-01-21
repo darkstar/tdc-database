@@ -1,0 +1,29 @@
+filename: Adventure4 (1991)(Mike Arnautov) [Adventure, Interactive Fiction].zip
+tdc_id: '8128.0'
+title:
+  screen: Adventure4
+publisher: Mike Arnautov
+year: '1991'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:34:44'
+  last_modified: '2019-03-01T18:34:44'
+type: zip
+commands:
+  play: ADV.EXE
+files:
+- name: ADV.EXE
+  size: 217968
+  date: '1999-12-31T19:00:00'
+  crc: '0x3a1faaf8'
+- name: ADVENTUR.DAT
+  size: 228109
+  date: '1999-12-31T19:00:00'
+  crc: '0x8076384a'
+- name: README
+  size: 2371
+  date: '1999-12-31T19:00:00'
+  crc: '0x763d9452'

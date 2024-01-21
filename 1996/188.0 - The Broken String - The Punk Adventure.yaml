@@ -1,0 +1,41 @@
+filename: Broken String, The - The Punk Adventure v1.1 (1996)(Harel Malka, Ran Kramer) [Adventure, Interactive Fiction].zip
+tdc_id: '188.0'
+title:
+  screen: The Broken String - The Punk Adventure
+publisher: Harel Malka, Ran Kramer
+year: '1996'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T10:00:10'
+  last_modified: '2019-03-02T10:00:10'
+version: '1.1'
+type: zip
+commands:
+  play: TR.EXE
+references:
+  dosid: DOS00032
+  exodos: Broken String, The - The Punk Adventure (1996).zip
+files:
+- name: BS.DOC
+  size: 22029
+  date: '1996-02-14T01:28:24'
+  crc: '0x881da652'
+- name: BS.GAM
+  size: 194718
+  date: '1996-02-14T01:36:34'
+  crc: '0x45dee6c8'
+- name: SOL
+  size: 3475
+  date: '1996-02-14T01:32:28'
+  crc: '0x4c1c3b45'
+- name: TR.EXE
+  size: 238384
+  date: '1994-10-26T23:25:26'
+  crc: '0x98f7d47e'
+- name: UPDATES.TXT
+  size: 1665
+  date: '1996-02-14T01:33:40'
+  crc: '0xc2dba848'

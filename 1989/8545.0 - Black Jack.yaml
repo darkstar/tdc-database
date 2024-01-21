@@ -1,0 +1,33 @@
+filename: Black Jack (Es) (1989)(Infodisc) [Strategy, Cards].zip
+tdc_id: '8545.0'
+title:
+  box: Black Jack
+publisher: Infodisc
+year: '1989'
+genre:
+- Strategy
+- Cards
+language: Spanish
+date:
+  added: '2019-03-01T18:27:20'
+  last_modified: '2019-03-01T18:27:20'
+type: zip
+commands:
+  play: BJACK.EXE
+files:
+- name: BARAJA.PUT
+  size: 21009
+  date: '1995-01-31T05:00:00'
+  crc: '0x768d6999'
+- name: BJACK.EXE
+  size: 33472
+  date: '1995-01-31T05:00:00'
+  crc: '0x29ca8a90'
+- name: BJACK.PUT
+  size: 4175
+  date: '1995-01-31T05:00:00'
+  crc: '0x02d20c67'
+- name: TITULO.PUT
+  size: 1012
+  date: '1995-01-31T05:00:00'
+  crc: '0x61db7f9b'

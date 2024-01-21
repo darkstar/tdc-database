@@ -1,0 +1,37 @@
+filename: Torus [SW] (1994)(Geoffrey Poole) [Strategy].zip
+tdc_id: '3331.0'
+title:
+  screen: Torus
+publisher: Geoffrey Poole
+year: '1994'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T07:18:30'
+  last_modified: '2019-03-02T07:18:30'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: TORUS.EXE
+references:
+  dosid: DOS15795
+  exodos: Torus (1994).zip
+files:
+- name: README.TRS
+  size: 2689
+  date: '1994-12-15T20:08:50'
+  crc: '0xf533ec43'
+- name: TORUS.EXE
+  size: 74712
+  date: '1994-12-15T20:19:40'
+  crc: '0x0e0d9a5c'
+- name: TORUSDAT.EGA
+  size: 4624
+  date: '1994-02-13T14:15:56'
+  crc: '0xba403591'
+- name: TORUSDAT.VGA
+  size: 19628
+  date: '1994-02-13T12:13:14'
+  crc: '0xe171ceaf'

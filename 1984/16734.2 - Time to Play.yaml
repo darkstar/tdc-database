@@ -1,0 +1,34 @@
+filename: Time to Play r2.00a (1984)(Compaq Computer Corp.) [Action, Educational].zip
+tdc_id: '16734.2'
+title:
+  box: Time to Play
+publisher: Compaq Computer Corp.
+year: '1984'
+genre:
+- Action
+- Educational
+language: English
+date:
+  added: '2019-03-01T18:24:18'
+  last_modified: '2019-03-01T18:24:18'
+release: 2.00a
+type: zip
+commands:
+  play: DEMO3.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: DEMO3.BAS
+  size: 20986
+  date: '1984-12-04T12:00:00'
+  crc: '0x3150db59'
+- name: DEMO3.BAT
+  size: 15
+  date: '1984-12-04T12:00:00'
+  crc: '0x2472263a'
+- name: USA.DAT
+  size: 16128
+  date: '1984-12-04T12:00:00'
+  crc: '0xf9e31a4c'

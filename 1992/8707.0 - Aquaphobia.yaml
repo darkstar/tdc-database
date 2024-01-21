@@ -1,0 +1,38 @@
+filename: Aquaphobia (Fr) (1992)(Softdisk Publishing) [Action].zip
+tdc_id: '8707.0'
+title:
+  box: Aquaphobia
+publisher: Softdisk Publishing
+year: '1992'
+genre: Action
+language: French
+date:
+  added: '2019-03-01T18:41:14'
+  last_modified: '2019-03-01T18:41:14'
+type: zip
+commands:
+  play: aqua.exe
+references:
+  dosid: DOS15214
+  exodos: Aquaphobia (1992).zip
+files:
+- name: aqua.exe
+  size: 24880
+  date: '1996-12-24T23:32:00'
+  crc: '0xb85d9553'
+- name: aqua.img
+  size: 40588
+  date: '1996-12-24T23:32:00'
+  crc: '0x246f4593'
+- name: aqua.scr
+  size: 2620
+  date: '1996-12-24T23:32:00'
+  crc: '0x16395808'
+- name: aqua.txt
+  size: 768
+  date: '1996-12-24T23:32:00'
+  crc: '0xa1f788d6'
+- name: hiscore
+  size: 12
+  date: '1996-12-24T23:32:00'
+  crc: '0xe9b26180'

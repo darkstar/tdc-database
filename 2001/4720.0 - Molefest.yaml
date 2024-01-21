@@ -1,0 +1,63 @@
+filename: Molefest v1.05 [FW] (2001)(Robin Burrows) [Strategy, Puzzle].zip
+tdc_id: '4720.0'
+title:
+  screen: Molefest
+publisher: Robin Burrows
+year: '2001'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2020-11-26T13:35:34'
+  last_modified: '2020-11-26T13:35:34'
+version: '1.05'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: MOLEFEST.EXE
+references:
+  dosid: DOS07802
+  exodos: Molefest (2002).zip
+files:
+- name: CWSDPMI.EXE
+  size: 25870
+  date: '1996-09-04T09:33:32'
+  crc: '0x9d237d29'
+- name: CWSDPMI.SWP
+  size: 0
+  date: '2018-05-11T03:32:16'
+- name: K_PBOX.XM
+  size: 132649
+  date: '1997-04-22T18:01:28'
+  crc: '0x0abd0145'
+- name: LURID.XM
+  size: 186434
+  date: '1996-08-27T03:02:06'
+  crc: '0xc3cc10c9'
+- name: MOLEDATA.DAT
+  size: 235496
+  date: '1998-11-15T21:34:50'
+  crc: '0xfea42381'
+- name: MOLEFEST.EXE
+  size: 316516
+  date: '2001-12-23T07:53:32'
+  crc: '0x222f8595'
+- name: README.TXT
+  size: 3729
+  date: '2001-12-23T07:59:10'
+  crc: '0x2c3844b9'
+- name: moledata.h
+  size: 2046
+  date: '1998-11-15T21:34:50'
+  crc: '0xeeafc39c'
+- name: molefest.c
+  size: 88657
+  date: '2001-12-23T07:53:22'
+  crc: '0x0e6b1bb3'
+- name: msound.c
+  size: 3223
+  date: '2001-12-23T07:33:56'
+  crc: '0x93a14a16'

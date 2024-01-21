@@ -1,0 +1,39 @@
+filename: Robotica (1995)(Martin Hayden) [Action].zip
+tdc_id: '3709.0'
+title:
+  screen: Robotica
+publisher: Martin Hayden
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2020-11-27T12:31:14'
+  last_modified: '2020-11-27T12:31:14'
+type: zip
+media: Download
+commands:
+  play: ROBOTICA.EXE
+references:
+  dosid: DOS07055
+  exodos: Robotica (1995).zip
+files:
+- name: FILE_ID.DIZ
+  size: 66
+  date: '1987-07-17T01:27:36'
+  crc: '0x64629965'
+- name: ROBOTICA.DAT
+  size: 7873
+  date: '1995-05-23T09:36:42'
+  crc: '0x94a3b12a'
+- name: ROBOTICA.EXE
+  size: 103653
+  date: '1995-05-31T13:10:32'
+  crc: '0x44350da3'
+- name: ROBOTICA.SCO
+  size: 462
+  date: '1995-05-24T10:53:18'
+  crc: '0xc4ce1590'
+- name: ROBOTICA.TXT
+  size: 68
+  date: '1995-05-31T12:36:22'
+  crc: '0x85fb55cc'

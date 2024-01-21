@@ -1,0 +1,30 @@
+filename: Star Bowls (Es) (1991)(Zigurat Software S.L.) [Action].zip
+tdc_id: '15485.0'
+title:
+  screen: Star Bowls
+publisher: Zigurat Software S.L.
+year: '1991'
+genre: Action
+language: Spanish
+date:
+  added: '2019-03-01T18:39:30'
+  last_modified: '2023-02-16T15:21:51'
+type: zip
+commands:
+  play: STAR.EXE
+references:
+  dosid: DOS08042
+  exodos: Star Bowls (1991).zip
+files:
+- name: CARGA
+  size: 16192
+  date: '1991-02-19T00:01:22'
+  crc: '0xb4c96de5'
+- name: OJOS
+  size: 16192
+  date: '1991-02-19T00:01:34'
+  crc: '0xbdf7a7d9'
+- name: STAR.EXE
+  size: 91296
+  date: '1991-02-19T00:03:28'
+  crc: '0x54c9a5a8'

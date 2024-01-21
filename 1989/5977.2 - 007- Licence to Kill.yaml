@@ -1,0 +1,63 @@
+filename: 007- Licence to Kill [b1] (1989)(Domark Limited) [Action, Racing - Driving].zip
+tdc_id: '5977.2'
+title:
+  box: '007: Licence to Kill'
+publisher: Domark Limited
+year: '1989'
+genre:
+- Action
+- Racing - Driving
+language: English
+date:
+  added: '2021-08-13T08:17:30'
+  last_modified: '2021-08-13T08:17:30'
+type: zip
+tags:
+- Bad: 1
+commands:
+  play: BOND.EXE
+files:
+- name: BLKDATA.CGA
+  size: 46904
+  date: '1989-07-23T23:09:44'
+  crc: '0x07910405'
+- name: BLKPTR.CGA
+  size: 595
+  date: '1989-07-23T23:09:44'
+  crc: '0x8f3b901c'
+- name: BOND.EXE
+  size: 52754
+  date: '1989-07-23T23:20:30'
+  crc: '0x3ee4610c'
+- name: CHARS.CGA
+  size: 2470
+  date: '1989-07-23T23:05:32'
+  crc: '0xa323fda0'
+- name: LEV11.CGA
+  size: 30720
+  date: '1989-07-21T14:18:42'
+  crc: '0xec0afb2b'
+- name: LEV12.CGA
+  size: 30720
+  date: '1989-07-21T14:18:44'
+  crc: '0x34ffc616'
+- name: LEV13.CGA
+  size: 30720
+  date: '1989-07-21T14:18:46'
+  crc: '0x8a359ba9'
+- name: LEV21.CGA
+  size: 30720
+  date: '1989-07-21T14:18:48'
+  crc: '0x084a449c'
+- name: LEV31.CGA
+  size: 30720
+  date: '1989-07-21T14:18:50'
+  crc: '0xd8d111a1'
+- name: SPDATA.CGA
+  size: 83894
+  date: '1989-07-21T14:18:10'
+  crc: '0xdf28ff4a'
+- name: SPPTR.CGA
+  size: 1321
+  date: '1989-07-21T14:18:10'
+  crc: '0x796e8d4c'

@@ -1,0 +1,35 @@
+filename: Astroreptilio (Installer) [SW] (1996)(Spungulas Software) [Action].zip
+tdc_id: '156.0'
+title:
+  screen: Astroreptilio
+publisher: Spungulas Software
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T09:59:12'
+  last_modified: '2022-11-01T14:07:28'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.BAT
+files:
+- name: GATOR1.EXE
+  size: 276141
+  date: '1996-04-08T02:39:08'
+  crc: '0xc4299588'
+- name: GATOR2.EXE
+  size: 1051006
+  date: '1996-03-24T18:42:36'
+  crc: '0xe2c481f3'
+- name: INSTALL.BAT
+  size: 609
+  date: '1996-03-24T20:18:58'
+  crc: '0x867a34c4'
+- name: ORDER.TXT
+  size: 4991
+  date: '1999-02-01T06:13:08'
+  crc: '0x3583ba5d'

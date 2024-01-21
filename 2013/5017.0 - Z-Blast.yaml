@@ -1,0 +1,37 @@
+filename: Z-Blast [FW] (2013)(Zirkoni) [Action].zip
+tdc_id: '5017.0'
+title:
+  screen: Z-Blast
+publisher: Zirkoni
+year: '2013'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:58:04'
+  last_modified: '2019-03-02T10:58:04'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: ZBLAST.EXE
+references:
+  dosid: DOS06667
+  exodos: Z-Blast (2013).zip
+files:
+- name: CWSDPMI.EXE
+  size: 20473
+  date: '1997-10-19T20:48:14'
+  crc: '0x80fa6999'
+- name: README.TXT
+  size: 924
+  date: '2013-12-23T14:58:34'
+  crc: '0x5ca802c6'
+- name: ZBLAST.DAT
+  size: 1004851
+  date: '2013-12-23T16:32:26'
+  crc: '0x7e77774a'
+- name: ZBLAST.EXE
+  size: 357904
+  date: '2013-12-23T13:21:16'
+  crc: '0x9324523b'

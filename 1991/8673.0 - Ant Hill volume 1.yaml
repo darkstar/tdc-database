@@ -1,0 +1,41 @@
+filename: Ant Hill volume 1 v1.0 [SW] (1991)(Chris Busch) [Action].zip
+tdc_id: '8673.0'
+title:
+  screen: Ant Hill volume 1
+publisher: Chris Busch
+year: '1991'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:34:50'
+  last_modified: '2023-10-05T16:32:56'
+version: '1.0'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: ANTHILL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/206467/ant-hill-volume-1/
+files:
+- name: ANTHILL.CKP
+  size: 344
+  date: '1991-07-26T08:48:54'
+  crc: '0xf5a722e4'
+- name: ANTHILL.DOC
+  size: 4761
+  date: '1991-07-29T17:47:08'
+  crc: '0xf56fb116'
+- name: ANTHILL.EXE
+  size: 73120
+  date: '1991-07-29T21:13:12'
+  crc: '0x88e07b2e'
+- name: ANTHILL.IMG
+  size: 2000
+  date: '1991-07-26T08:50:10'
+  crc: '0x98a2305f'
+- name: ANTHILL.LVL
+  size: 77496
+  date: '1991-07-26T08:42:02'
+  crc: '0xbec1b554'

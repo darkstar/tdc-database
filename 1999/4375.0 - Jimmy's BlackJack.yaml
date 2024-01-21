@@ -1,0 +1,32 @@
+filename: Jimmy's BlackJack [SW] (1999)(Jimmy Blake) [Strategy, Cards].zip
+tdc_id: '4375.0'
+title:
+  screen: Jimmy's BlackJack
+publisher: Jimmy Blake
+year: '1999'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-02T10:46:12'
+  last_modified: '2019-03-02T10:46:12'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: BLKJACK.BAS
+  size: 7637
+  date: '2018-12-05T12:44:00'
+  crc: '0xd7d58c9f'
+- name: GO.BAT
+  size: 27
+  date: '2018-12-05T15:31:32'
+  crc: '0x97a2f2a1'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

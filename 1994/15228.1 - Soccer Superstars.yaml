@@ -1,0 +1,58 @@
+filename: Soccer Superstars (Installer) (En)(De)(Fr)(It)(Es)(Pt)(Nl)(Pl) [h2] (1994)(Digital Dreams Multimedia) [Sports].zip
+tdc_id: '15228.1'
+title:
+  box: Soccer Superstars
+  qualifier: Installer
+publisher: Digital Dreams Multimedia
+year: '1994'
+genre: Sports
+language:
+- English
+- Spanish
+- French
+- Italian
+- German
+- Polish
+- Dutch
+- Portuguese
+date:
+  added: '2015-01-13T02:59:34'
+  last_modified: '2023-07-17T09:57:03'
+type: zip
+tags:
+- Hack: 2
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/20807/soccer-superstars/
+files:
+- name: DISK1.DAT
+  size: 951376
+  date: '1980-01-04T20:13:30'
+  crc: '0xfba4acd3'
+- name: DISK2.DAT
+  size: 1116276
+  date: '1980-01-03T16:38:38'
+  crc: '0x1e9bbf1f'
+- name: DISK3.DAT
+  size: 1337481
+  date: '1980-01-03T16:39:06'
+  crc: '0x8f855aaa'
+- name: INSTALL.EXE
+  size: 5591
+  date: '1994-04-16T16:55:02'
+  crc: '0x8dd906d9'
+- name: LHA.DOC
+  size: 31840
+  date: '1992-01-09T14:14:48'
+  crc: '0xf15fa52f'
+- name: LHA.EXE
+  size: 34283
+  date: '1992-01-09T14:14:50'
+  crc: '0x2c68a172'
+- name: READ.ME
+  size: 3340
+  date: '1994-11-18T16:12:30'
+  crc: '0xf01b211a'

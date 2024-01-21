@@ -1,0 +1,47 @@
+filename: Kurtan v2.01 (Ru) (1990)(TbiliSoft) [Strategy].zip
+tdc_id: '6263.2'
+title:
+  screen: Kurtan
+publisher: TbiliSoft
+year: '1990'
+genre: Strategy
+language: Russian
+date:
+  added: '2019-03-01T18:33:02'
+  last_modified: '2019-03-01T18:33:02'
+version: '2.01'
+type: zip
+commands:
+  play: kurtan.exe
+references:
+  dosid: DOS03045
+  exodos: Kurtan (1990).zip
+files:
+- name: fontr.krt
+  size: 1848
+  date: '1996-12-24T23:32:00'
+  crc: '0xb803f3fa'
+- name: kurtan.exe
+  size: 167830
+  date: '1996-12-24T23:32:00'
+  crc: '0x784c07a2'
+- name: tempo.krt
+  size: 14976
+  date: '1996-12-24T23:32:00'
+  crc: '0x5e0e70d0'
+- name: vol0r.krt
+  size: 153770
+  date: '1996-12-24T23:32:00'
+  crc: '0x1fc00671'
+- name: vol1r.krt
+  size: 65882
+  date: '1996-12-24T23:32:00'
+  crc: '0xcc967ddf'
+- name: vol2.krt
+  size: 28971
+  date: '1996-12-24T23:32:00'
+  crc: '0x4b7e4e28'
+- name: vol3r.krt
+  size: 37946
+  date: '1996-12-24T23:32:00'
+  crc: '0xe7e993ac'

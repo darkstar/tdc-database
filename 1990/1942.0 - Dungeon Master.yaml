@@ -1,0 +1,83 @@
+filename: Dungeon Master v3.4 (1990)(FTL Games) [Action, Role-Playing (RPG)].zip
+tdc_id: '1942.0'
+title:
+  screen: Dungeon Master
+publisher: FTL Games
+year: '1990'
+genre:
+- Action
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:32:28'
+  last_modified: '2019-03-01T18:32:28'
+version: '3.4'
+type: zip
+references:
+  dosid: DOS01931
+  exodos: Dungeon Master (1989).zip
+files:
+- name: ANIM
+  size: 5856
+  date: '1992-05-05T18:37:44'
+  crc: '0x4d387bed'
+- name: DATA\DUNGEON.DAT
+  size: 33357
+  date: '1991-12-02T03:31:52'
+  crc: '0xbf1c6ff1'
+- name: DATA\GRAPHICS.DAT
+  size: 363417
+  date: '1992-02-23T00:14:04'
+  crc: '0xccabe004'
+- name: DATA\SONG.DAT
+  size: 162482
+  date: '1992-02-26T01:07:44'
+  crc: '0xf220742b'
+- name: DM.EXE
+  size: 11471
+  date: '1992-06-15T15:41:58'
+  crc: '0x8d0217be'
+- name: EGA
+  size: 4938
+  date: '1992-03-12T11:49:14'
+  crc: '0xeb8796b0'
+- name: END
+  size: 364196
+  date: '1991-10-25T19:40:26'
+  crc: '0x5f4ac220'
+- name: FIRES
+  size: 94779
+  date: '1992-05-05T18:26:24'
+  crc: '0xf72feab8'
+- name: IBMIO
+  size: 8151
+  date: '1992-05-05T18:35:24'
+  crc: '0xdb95546d'
+- name: INSTALL.EXE
+  size: 8724
+  date: '1992-06-15T15:30:02'
+  crc: '0xc6d91e39'
+- name: SELECTOR
+  size: 15474
+  date: '1992-05-05T18:38:52'
+  crc: '0x2f587fc6'
+- name: STATS.EXE
+  size: 7585
+  date: '1991-12-12T07:14:00'
+  crc: '0x050e2e61'
+- name: SWOOSH
+  size: 7570
+  date: '1991-10-27T06:43:20'
+  crc: '0x418bc049'
+- name: TANDY
+  size: 4566
+  date: '1991-10-27T06:09:46'
+  crc: '0x4c1a47be'
+- name: TITLE
+  size: 12002
+  date: '1991-10-28T16:56:30'
+  crc: '0x0b4488bd'
+- name: VGA
+  size: 4503
+  date: '1992-05-05T18:35:32'
+  crc: '0x37d43a95'

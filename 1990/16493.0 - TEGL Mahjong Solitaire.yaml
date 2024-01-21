@@ -1,0 +1,51 @@
+filename: TEGL Mahjong Solitaire v1.10 [SW] (1990)(TEGL Systems Corp.) [Strategy].zip
+tdc_id: '16493.0'
+title:
+  screen: TEGL Mahjong Solitaire
+publisher: TEGL Systems Corp.
+year: '1990'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:34:14'
+  last_modified: '2019-03-01T18:34:14'
+version: '1.10'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: MAHJSOL.EXE
+files:
+- name: FUNCTION.LST
+  size: 18924
+  date: '1990-07-16T11:36:42'
+  crc: '0xb9eb2748'
+- name: MAHJSOL.EXE
+  size: 81995
+  date: '1990-07-10T03:24:54'
+  crc: '0xb4e0c661'
+- name: MAHJSOL.LOG
+  size: 22017
+  date: '1991-11-26T15:57:16'
+  crc: '0x8df77091'
+- name: MAHJSOL.USR
+  size: 29
+  date: '1991-08-23T13:45:58'
+  crc: '0x10b05d95'
+- name: ORDER.DOC
+  size: 2419
+  date: '1990-07-20T22:11:32'
+  crc: '0xd40b6259'
+- name: README
+  size: 1727
+  date: '1990-07-20T22:11:38'
+  crc: '0x490d181b'
+- name: TEGLINFO.DOC
+  size: 7374
+  date: '1990-07-24T08:28:30'
+  crc: '0x396a1b63'
+- name: TOOLKIT.DOC
+  size: 3880
+  date: '1990-06-27T19:58:04'
+  crc: '0xe13bf88d'

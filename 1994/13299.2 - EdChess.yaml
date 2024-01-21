@@ -1,0 +1,31 @@
+filename: EdChess v3.0 (1994)(EdTech Associates Inc.) [Strategy, Chess].zip
+tdc_id: '13299.2'
+parent_id: '13299.3'
+title:
+  screen: EdChess
+publisher: EdTech Associates Inc.
+year: '1994'
+genre:
+- Strategy
+- Chess
+language: English
+date:
+  added: '2019-03-01T21:56:22'
+  last_modified: '2019-03-01T21:56:22'
+version: '3.0'
+type: zip
+commands:
+  play: EDCHESS.EXE
+files:
+- name: EDCHESS.EXE
+  size: 129296
+  date: '2014-03-09T20:38:22'
+  crc: '0x9e941fd9'
+- name: EDCHESS.LIB
+  size: 44818
+  date: '2014-03-09T20:38:22'
+  crc: '0x1cb5ee7b'
+- name: PIECE.BGI
+  size: 24808
+  date: '2014-03-09T20:38:22'
+  crc: '0x62d77b2d'

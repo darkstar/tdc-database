@@ -1,0 +1,30 @@
+filename: Shut the Box v1.2 [SW] (1989)(Microlink, Bob Lancaster) [Strategy].zip
+tdc_id: '15032.1'
+title:
+  screen: Shut the Box
+publisher: Microlink, Bob Lancaster
+year: '1989'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:28:54'
+  last_modified: '2019-03-01T18:28:54'
+version: '1.2'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: MLSHUT.EXE
+references:
+  dosid: DOS03353
+  exodos: MicroLink Shut the Box (1989).zip
+files:
+- name: MLSHUT.DOC
+  size: 15049
+  date: '1989-08-14T22:48:20'
+  crc: '0xe668c910'
+- name: MLSHUT.EXE
+  size: 43776
+  date: '1989-08-14T22:31:44'
+  crc: '0x6f1c2cd7'

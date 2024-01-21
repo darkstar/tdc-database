@@ -1,0 +1,29 @@
+filename: Poof v1.11 (1995)(Eclipse) [Strategy, Puzzle].zip
+tdc_id: '10418.0'
+title:
+  screen: Poof
+publisher: Eclipse
+year: '1995'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-03-02T08:58:18'
+  last_modified: '2019-03-02T08:58:18'
+version: '1.11'
+type: zip
+commands:
+  play: POOF.EXE
+references:
+  dosid: DOS07023
+  exodos: Poof (1994).zip
+files:
+- name: POOF.DOC
+  size: 3287
+  date: '1995-03-07T20:54:14'
+  crc: '0xc4d1c7fa'
+- name: POOF.EXE
+  size: 149171
+  date: '1995-03-08T23:24:14'
+  crc: '0x04f0f7a4'

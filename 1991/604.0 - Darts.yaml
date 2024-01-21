@@ -1,0 +1,42 @@
+filename: Darts v1.01 [SW] (1991)(Scott Semon) [Action].zip
+tdc_id: '604.0'
+title:
+  screen: Darts
+publisher: Scott Semon
+year: '1991'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:35:30'
+  last_modified: '2019-03-01T18:35:30'
+version: '1.01'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: DARTS11.EXE
+references:
+  dosid: DOS01658
+  exodos: Darts (1991).zip
+files:
+- name: DARTS.DOC
+  size: 13129
+  date: '1991-01-20T22:08:18'
+  crc: '0xaf170b82'
+- name: DARTS11.EXE
+  size: 107512
+  date: '1991-02-17T17:30:02'
+  crc: '0x018ab99b'
+- name: EGAVGA.BGI
+  size: 5363
+  date: '1988-08-29T05:00:00'
+  crc: '0x06d36962'
+- name: OUT.DAT
+  size: 510
+  date: '1990-11-03T17:24:46'
+  crc: '0xbb3dc209'
+- name: README
+  size: 739
+  date: '1991-02-19T20:04:42'
+  crc: '0x5a1f36bf'

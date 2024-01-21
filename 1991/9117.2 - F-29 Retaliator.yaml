@@ -1,0 +1,46 @@
+filename: F-29 Retaliator [f1] (1991)(Ocean Software Ltd.) [Action, Simulation].zip
+tdc_id: '9117.2'
+parent_id: '9117.5'
+title:
+  box: F-29 Retaliator
+publisher: Ocean Software Ltd.
+year: '1991'
+genre:
+- Action
+- Simulation
+language: English
+date:
+  added: '2019-12-17T06:21:38'
+  last_modified: '2019-12-17T06:21:38'
+type: zip
+tags:
+- Fixed: 1
+commands:
+  play: X.EXE
+references:
+  dosid: DOS02088
+  exodos: F29 Retaliator (1990).zip
+files:
+- name: READ.ME
+  size: 6005
+  date: '1991-03-19T06:14:00'
+  crc: '0x72453677'
+- name: RETAL.00
+  size: 239200
+  date: '1991-03-19T06:29:00'
+  crc: '0xb04513fc'
+- name: RETAL.01
+  size: 359172
+  date: '1991-03-18T06:23:00'
+  crc: '0xe650399a'
+- name: RETAL.LOG
+  size: 0
+  date: '1991-03-19T06:14:00'
+- name: X.EXE
+  size: 68640
+  date: '1991-03-19T06:29:00'
+  crc: '0x385d98d2'
+- name: X.EX_
+  size: 68640
+  date: '1991-03-19T06:29:00'
+  crc: '0x9f15066f'

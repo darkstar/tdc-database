@@ -1,0 +1,31 @@
+filename: Topgun Blackjack v1.0 (199x)(Topgun Productions) [Strategy, Cards].zip
+tdc_id: '17253.0'
+title:
+  screen: Topgun Blackjack
+publisher: Topgun Productions
+year: 199x
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2023-03-01T14:57:59'
+  last_modified: '2023-03-01T14:57:59'
+version: '1.0'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 22
+  date: '2023-02-21T07:07:20'
+  crc: '0x7999f9c8'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T03:28:02'
+  crc: '0x19f6ed75'
+- name: TG.BAS
+  size: 15320
+  date: '2022-07-04T21:50:58'
+  crc: '0xc51886ec'

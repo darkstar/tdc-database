@@ -1,0 +1,29 @@
+filename: Cybersphere (demo) (1996)(PSYCON Software) [Action].zip
+tdc_id: '208.0'
+title:
+  screen: Cybersphere
+  qualifier: demo
+publisher: PSYCON Software
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:02:12'
+  last_modified: '2019-03-02T10:02:12'
+type: zip
+demo: true
+commands:
+  play: CYBDEMO.EXE
+files:
+- name: CYBDEMO.CFG
+  size: 8
+  date: '2016-02-01T11:27:42'
+  crc: '0x3fc8db91'
+- name: CYBDEMO.DOC
+  size: 9127
+  date: '1996-04-13T22:18:22'
+  crc: '0x1e7af831'
+- name: CYBDEMO.EXE
+  size: 257154
+  date: '1996-04-13T22:18:04'
+  crc: '0x7b89411e'

@@ -1,0 +1,42 @@
+filename: Super Zaxxon [DC] (1984)(SEGA Enterprises Ltd.) [Action].zip
+tdc_id: '16337.0'
+title:
+  box: Super Zaxxon
+publisher: SEGA Enterprises Ltd.
+year: '1984'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:18'
+  last_modified: '2019-03-01T18:24:18'
+type: zip
+tags:
+- DOSConversion
+references:
+  dosid: DOS05989
+  exodos: Super Zaxxon (1984).zip
+files:
+- name: NTSCDATA.BIN
+  size: 49152
+  date: '1984-01-01T00:00:00'
+  crc: '0x7c1eb859'
+- name: NTSCOFS.BIN
+  size: 512
+  date: '1984-01-01T00:00:00'
+  crc: '0x184e6d43'
+- name: RGBIDATA.BIN
+  size: 49152
+  date: '1984-01-01T00:00:00'
+  crc: '0x6069954d'
+- name: RGBIOFS.BIN
+  size: 512
+  date: '1984-01-01T00:00:00'
+  crc: '0xf5004994'
+- name: SZAXJR.EXE
+  size: 50805
+  date: '1984-01-01T00:00:00'
+  crc: '0xa0f8a6b0'
+- name: SZAXXON.EXE
+  size: 50805
+  date: '1984-01-01T00:00:00'
+  crc: '0x41804ec3'

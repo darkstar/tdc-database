@@ -1,0 +1,51 @@
+filename: Mind Castle - The Spell of the Word Wizard (1993)(Lawrence Productions, Inc.) [Educational].zip
+tdc_id: '14295.0'
+title:
+  box: Mind Castle - The Spell of the Word Wizard
+publisher: Lawrence Productions, Inc.
+year: '1993'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T19:15:04'
+  last_modified: '2022-11-16T13:07:37'
+type: zip
+commands:
+  play: WORDWIZ.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/mind-castle
+  dosid: DOS03577
+  exodos: Mind Castle (1993).zip
+files:
+- name: HI-SCORE\HI-SCORE.DAT
+  size: 132
+  date: '2000-10-28T18:53:16'
+  crc: '0xc589851e'
+- name: INSTALL.EXE
+  size: 17030
+  date: '1993-04-08T14:20:32'
+  crc: '0x35e58655'
+- name: PASSWORD.RDT
+  size: 2445
+  date: '1993-06-14T02:00:00'
+  crc: '0x028aa460'
+- name: PUZZLE.RDT
+  size: 95642
+  date: '1993-06-14T02:00:00'
+  crc: '0x0ef2390a'
+- name: ROOMS0-3.RDT
+  size: 353188
+  date: '1993-06-14T02:00:00'
+  crc: '0x9c75356f'
+- name: ROOMS3-5.RDT
+  size: 123440
+  date: '1993-06-14T02:00:00'
+  crc: '0x99f01809'
+- name: SYSRES.RDT
+  size: 195129
+  date: '1993-06-14T02:00:00'
+  crc: '0x78e5218e'
+- name: WORDWIZ.EXE
+  size: 97700
+  date: '1993-05-14T02:00:00'
+  crc: '0x59857015'

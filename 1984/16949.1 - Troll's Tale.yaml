@@ -1,0 +1,28 @@
+filename: Troll's Tale [DC] (1984)(Sierra On-Line, Inc.) [Adventure].zip
+tdc_id: '16949.1'
+title:
+  box: Troll's Tale
+publisher: Sierra On-Line, Inc.
+year: '1984'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:24:18'
+  last_modified: '2019-03-01T18:24:18'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: TROLL.EXE
+references:
+  dosid: DOS06000
+  exodos: Troll's Tale (1984).zip
+files:
+- name: MAIN.EXE
+  size: 58352
+  date: '1980-01-01T00:24:24'
+  crc: '0x386b8e3a'
+- name: MAINJR.EXE
+  size: 58064
+  date: '1980-01-01T00:24:46'
+  crc: '0x40a422ce'

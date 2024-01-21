@@ -1,0 +1,69 @@
+filename: Mah Jongg v3.3 [SW] (1990)(Nels Anderson) [Strategy].zip
+tdc_id: '5096.10'
+title:
+  screen: Mah Jongg
+publisher: Nels Anderson
+year: '1990'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:33:12'
+  last_modified: '2023-03-29T14:17:52'
+version: '3.3'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: MAHJONGG.EXE
+references:
+  mobygames: https://www.mobygames.com/game/6153/mah-jongg-solitaire/
+files:
+- name: BATEXT.EXE
+  size: 4704
+  date: '1990-03-22T15:47:44'
+  crc: '0x9537fc7c'
+- name: FLAGS.TIL
+  size: 33600
+  date: '1990-03-24T15:29:46'
+  crc: '0xbd8c49de'
+- name: FLAGS.TXT
+  size: 1616
+  date: '1990-03-22T09:12:32'
+  crc: '0xdacbb1a3'
+- name: INSTALL.BAT
+  size: 1960
+  date: '1990-07-12T08:58:32'
+  crc: '0xa0dee302'
+- name: MAHJONGG.DOC
+  size: 53487
+  date: '1990-03-22T09:12:32'
+  crc: '0xaf499cb8'
+- name: MAHJONGG.EXE
+  size: 126750
+  date: '1990-03-22T09:12:32'
+  crc: '0x6ac0ac52'
+- name: MAHJONGG.TXT
+  size: 4924
+  date: '1990-07-12T10:32:28'
+  crc: '0x3e6af92f'
+- name: ORDERFRM.TXT
+  size: 2478
+  date: '1990-07-12T10:30:04'
+  crc: '0x8dcd5cf4'
+- name: READ.ME
+  size: 2012
+  date: '1990-07-12T09:04:32'
+  crc: '0x76e800de'
+- name: SHAREWRE.TXT
+  size: 1715
+  date: '1990-03-22T09:12:32'
+  crc: '0x5aa12829'
+- name: STATGEN.EXE
+  size: 17172
+  date: '1990-03-22T09:12:32'
+  crc: '0xa9527855'
+- name: TILES.COM
+  size: 49449
+  date: '1990-07-12T09:02:34'
+  crc: '0xbb8fada3'

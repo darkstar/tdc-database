@@ -1,0 +1,31 @@
+filename: Andromedas Erbe - Teil 1- Das UFO (Installer) (De) [SW] (1994)(Thomas Dingel, Roger 23) [Adventure].zip
+tdc_id: '8632.1'
+title:
+  screen: 'Andromedas Erbe - Teil 1: Das UFO'
+publisher: Thomas Dingel, Roger 23
+year: '1994'
+genre: Adventure
+language: German
+date:
+  added: '2019-03-01T21:48:00'
+  last_modified: '2019-03-01T21:48:00'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: AND1DATA.000
+  size: 1421125
+  date: '1994-06-06T06:15:04'
+  crc: '0xb96e4e70'
+- name: INSTALL.BIN
+  size: 95
+  date: '1994-06-06T06:06:12'
+  crc: '0x80409cf9'
+- name: INSTALL.EXE
+  size: 30108
+  date: '1994-06-06T06:06:12'
+  crc: '0x217b6bab'

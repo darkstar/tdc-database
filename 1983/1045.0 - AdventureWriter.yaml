@@ -1,0 +1,52 @@
+filename: AdventureWriter [f1] (1983)(Gilsoft) [Adventure, Editor].zip
+tdc_id: '1045.0'
+title:
+  screen: AdventureWriter
+publisher: Gilsoft
+year: '1983'
+genre:
+- Adventure
+- Editor
+language: English
+date:
+  added: '2019-03-01T18:23:06'
+  last_modified: '2019-03-01T18:23:06'
+type: zip
+tags:
+- Fixed: 1
+references:
+  dosid: DOS00016
+  exodos: AdventureWriter (1983).zip
+files:
+- name: BOOT.EXE
+  size: 23168
+  date: '2008-03-21T18:07:18'
+  crc: '0x7c67a0c1'
+- name: BOOT.EX_
+  size: 23168
+  date: '1980-01-01T00:02:02'
+  crc: '0xa171021b'
+- name: DFASDSA.DAT
+  size: 1252
+  date: '1980-01-01T00:02:04'
+  crc: '0x5a14b1ab'
+- name: EDT40.EXE
+  size: 22134
+  date: '2008-03-22T10:02:18'
+  crc: '0x78e1c168'
+- name: EDT40.EX_
+  size: 22134
+  date: '1980-01-01T00:03:14'
+  crc: '0xce99aad6'
+- name: EDT80.EXE
+  size: 22910
+  date: '2008-03-22T10:02:42'
+  crc: '0x8ae947c4'
+- name: EDT80.EX_
+  size: 22910
+  date: '1980-01-01T00:07:06'
+  crc: '0x0dd12f72'
+- name: RESCUE.EXE
+  size: 16805
+  date: '1980-01-01T00:33:10'
+  crc: '0xf0d5dc12'

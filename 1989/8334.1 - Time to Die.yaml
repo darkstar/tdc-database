@@ -1,0 +1,28 @@
+filename: Time to Die [DC] (1989)(Mastertronic Group Ltd.) [Adventure].zip
+tdc_id: '8334.1'
+title:
+  box: Time to Die
+publisher: Mastertronic Group Ltd.
+year: '1989'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:29:12'
+  last_modified: '2019-03-01T18:29:12'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: time2die.com
+references:
+  dosid: DOS05842
+  exodos: Borrowed Time (1985).zip
+files:
+- name: game.dat
+  size: 327680
+  date: '1999-11-15T08:25:42'
+  crc: '0x240c3c15'
+- name: time2die.com
+  size: 400
+  date: '1999-11-15T11:46:18'
+  crc: '0xecd3256c'

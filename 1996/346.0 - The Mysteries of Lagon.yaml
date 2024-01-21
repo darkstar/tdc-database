@@ -1,0 +1,30 @@
+filename: Mysteries of Lagon, The [SW] (1996)(Gareth Williams) [Action].zip
+tdc_id: '346.0'
+title:
+  screen: The Mysteries of Lagon
+publisher: Gareth Williams
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:13:26'
+  last_modified: '2019-03-02T10:13:26'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 25
+  date: '2019-01-09T21:23:18'
+  crc: '0x2c8c54b5'
+- name: LAGON.BAS
+  size: 14239
+  date: '1996-01-09T08:43:02'
+  crc: '0x1f7de68d'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

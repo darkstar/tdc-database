@@ -1,0 +1,50 @@
+filename: Supercopter (198x)(Fred Rousseau) [Action].zip
+tdc_id: '1855.0'
+title:
+  screen: Supercopter
+publisher: Fred Rousseau
+year: 198x
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:29:28'
+  last_modified: '2019-03-01T18:29:28'
+type: zip
+commands:
+  play: SUPERCOP.COM
+references:
+  dosid: DOS15858
+  exodos: Supercopter (1987).zip
+files:
+- name: BOMB.SCR
+  size: 80
+  date: '1987-05-08T17:21:00'
+  crc: '0xb586cda6'
+- name: EXHE.SCR
+  size: 4000
+  date: '1987-05-08T17:22:00'
+  crc: '0xdea70d36'
+- name: EXPJEEP.SCR
+  size: 900
+  date: '1987-05-08T17:22:00'
+  crc: '0xaa7e49ca'
+- name: HELICO.SCR
+  size: 3600
+  date: '1987-05-08T17:21:00'
+  crc: '0xaffe11dc'
+- name: IMAGE.SCR
+  size: 32006
+  date: '1987-05-08T17:20:00'
+  crc: '0x79f60159'
+- name: JEEP.SCR
+  size: 1600
+  date: '1987-05-08T17:22:00'
+  crc: '0x3bfeee87'
+- name: SUPERCOP.COM
+  size: 41612
+  date: '1980-01-01T03:55:32'
+  crc: '0x76570375'
+- name: TABLEAUX.SCR
+  size: 21000
+  date: '1987-05-08T17:23:00'
+  crc: '0x14d145ba'

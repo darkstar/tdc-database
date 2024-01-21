@@ -1,0 +1,33 @@
+filename: StarShip vs. Astroids v0.7b (De) (1998)(Ingo Ruhnke) [Action].zip
+tdc_id: '15587.0'
+title:
+  screen: StarShip vs. Astroids
+publisher: Ingo Ruhnke
+year: '1998'
+genre: Action
+language: German
+date:
+  added: '2019-03-02T10:44:38'
+  last_modified: '2019-03-02T10:44:38'
+version: 0.7b
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 28
+  date: '2018-11-24T18:10:48'
+  crc: '0xa50a4ed5'
+- name: JOYSTICK.INI
+  size: 82
+  date: '1996-10-06T17:25:12'
+  crc: '0x4e873777'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: STRSHIP2.BAS
+  size: 11350
+  date: '1998-03-29T19:44:04'
+  crc: '0x47d83ef8'

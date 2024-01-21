@@ -1,0 +1,25 @@
+filename: Galaxian [DC] (1983)(Atarisoft) [Action].zip
+tdc_id: '13904.0'
+parent_id: '13904.3'
+title:
+  box: Galaxian
+publisher: Atarisoft
+year: '1983'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:23:12'
+  last_modified: '2019-03-01T18:23:12'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: Galaxian.exe
+references:
+  dosid: DOS05893
+  exodos: Galaxian (1983).zip
+files:
+- name: Galaxian.exe
+  size: 57376
+  date: '1999-05-31T22:33:40'
+  crc: '0xb60fe6de'

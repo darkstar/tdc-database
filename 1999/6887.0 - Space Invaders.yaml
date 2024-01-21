@@ -1,0 +1,52 @@
+filename: Space Invaders (1999)(Kevin Williams) [Action].zip
+tdc_id: '6887.0'
+title:
+  screen: Space Invaders
+publisher: Kevin Williams
+year: '1999'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:46:30'
+  last_modified: '2019-03-02T10:46:30'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: ALPHA2.PIC
+  size: 13396
+  date: '1999-01-24T11:22:42'
+  crc: '0x76ae7674'
+- name: BONSAU.PIC
+  size: 4831
+  date: '1999-01-26T16:18:12'
+  crc: '0x8fb4f10b'
+- name: EXPLODE.PIC
+  size: 19392
+  date: '1999-01-16T14:45:50'
+  crc: '0xabcf8cf7'
+- name: GO.BAT
+  size: 28
+  date: '2018-11-21T20:30:26'
+  crc: '0xb2ddcd0e'
+- name: INVADE4.PIC
+  size: 24214
+  date: '1999-01-16T13:20:54'
+  crc: '0x7793233b'
+- name: IVB.NTZ
+  size: 66
+  date: '1999-06-21T13:36:26'
+  crc: '0x76f96e87'
+- name: NUMBERS.PIC
+  size: 7446
+  date: '1998-12-29T19:43:16'
+  crc: '0x5e98623e'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: SPCINVDR.BAS
+  size: 51473
+  date: '1999-06-20T13:46:18'
+  crc: '0xda6d8697'

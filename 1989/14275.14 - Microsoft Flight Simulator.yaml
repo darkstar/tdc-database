@@ -1,0 +1,26 @@
+filename: Microsoft Flight Simulator v4.0b (1989)(Microsoft) [IMA][360k].zip
+tdc_id: '14275.14'
+parent_id: '14275.13'
+title:
+  box: Microsoft Flight Simulator
+publisher: Microsoft
+year: '1989'
+genre: IMA
+language: English
+date:
+  added: '2023-12-03T08:42:08'
+  last_modified: '2023-12-03T08:42:08'
+version: 4.0b
+type: IMA
+media: 360K
+references:
+  mobygames: https://www.mobygames.com/game/2103/microsoft-flight-simulator-v40/
+files:
+- name: diskprogram.ima
+  size: 368640
+  date: '2023-12-02T17:05:00'
+  crc: '0x37e9601b'
+- name: diskscenery.ima
+  size: 368640
+  date: '2023-12-02T17:05:14'
+  crc: '0x9a2c3a28'

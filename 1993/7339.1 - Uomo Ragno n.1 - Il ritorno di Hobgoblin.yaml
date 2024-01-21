@@ -1,0 +1,70 @@
+filename: Uomo Ragno n.1 - Il ritorno di Hobgoblin (Installer) (It) (1993)(Simulmondo) [Action, Adventure].zip
+tdc_id: '7339.1'
+title:
+  box: Uomo Ragno n.1 - Il ritorno di Hobgoblin
+publisher: Simulmondo
+year: '1993'
+genre:
+- Action
+- Adventure
+language: Italian
+date:
+  added: '2019-03-01T21:11:08'
+  last_modified: '2022-11-30T09:57:06'
+type: zip
+installer: true
+commands:
+  play: INSTALL.BAT
+files:
+- name: 1.U
+  size: 603301
+  date: '1999-12-31T18:00:00'
+  crc: '0xc86d8623'
+- name: 2.U
+  size: 634718
+  date: '1999-12-31T18:00:00'
+  crc: '0xe328fbf2'
+- name: ANI1.ANI
+  size: 24211
+  date: '1999-12-31T18:00:00'
+  crc: '0xa215af15'
+- name: ANIBAN.ANI
+  size: 6147
+  date: '1999-12-31T18:00:00'
+  crc: '0xef1dcda0'
+- name: FESTE.LBM
+  size: 36596
+  date: '1999-12-31T18:00:00'
+  crc: '0x6145a82f'
+- name: GENE.CHV
+  size: 6077
+  date: '1999-12-31T18:00:00'
+  crc: '0x008d9588'
+- name: INST.EXE
+  size: 38477
+  date: '1999-12-31T18:00:00'
+  crc: '0xeeffdeda'
+- name: INSTALL.BAT
+  size: 66
+  date: '1999-12-31T18:00:00'
+  crc: '0xa2faf4c2'
+- name: INST_DAT.KXX
+  size: 741
+  date: '1999-12-31T18:00:00'
+  crc: '0x9f471145'
+- name: INST_MAN.KIT
+  size: 7848
+  date: '1999-12-31T18:00:00'
+  crc: '0x5bc64539'
+- name: INST_TXT.KIT
+  size: 4251
+  date: '1999-12-31T18:00:00'
+  crc: '0x30750314'
+- name: RESETTA.COM
+  size: 19
+  date: '1999-12-31T18:00:00'
+  crc: '0xc6a39750'
+- name: SPOTSM.LBM
+  size: 40282
+  date: '1999-12-31T18:00:00'
+  crc: '0x0ea1e37c'

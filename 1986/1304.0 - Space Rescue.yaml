@@ -1,0 +1,25 @@
+filename: Space Rescue (1986)(Monte Giles) [Strategy, Simulation].zip
+tdc_id: '1304.0'
+title:
+  screen: Space Rescue
+publisher: Monte Giles
+year: '1986'
+genre:
+- Strategy
+- Simulation
+language: English
+date:
+  added: '2019-12-03T19:18:40'
+  last_modified: '2019-12-03T19:18:40'
+type: zip
+commands:
+  play: RESCUE.COM
+files:
+- name: README.RES
+  size: 792
+  date: '1986-10-30T22:19:54'
+  crc: '0x39c3bf7a'
+- name: RESCUE.COM
+  size: 44596
+  date: '1986-10-31T07:50:18'
+  crc: '0x65f4d748'

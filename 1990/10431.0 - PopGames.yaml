@@ -1,0 +1,25 @@
+filename: PopGames v0.9 (1990)(Geoffrey Silverton) [Compilation].zip
+tdc_id: '10431.0'
+title:
+  screen: PopGames
+publisher: Geoffrey Silverton
+year: '1990'
+genre: Compilation
+language: English
+date:
+  added: '2019-03-01T18:33:36'
+  last_modified: '2019-03-01T18:33:36'
+version: '0.9'
+type: zip
+compilation: true
+commands:
+  play: POPGAMES.EXE
+files:
+- name: POPGAMES.EXE
+  size: 25664
+  date: '1990-11-15T16:14:48'
+  crc: '0xc87a47e7'
+- name: POPGAMES.HLP
+  size: 5878
+  date: '1990-01-15T21:57:58'
+  crc: '0xd810607c'

@@ -1,0 +1,74 @@
+filename: Soul Crystal v1.5 (Installer) (De) [h1] (1992)(Starbyte Software) [Adventure].zip
+tdc_id: '6851.1'
+title:
+  box: Soul Crystal
+  qualifier: Installer
+publisher: Starbyte Software
+year: '1992'
+genre: Adventure
+language: German
+date:
+  added: '2019-03-01T18:51:08'
+  last_modified: '2023-09-02T17:27:15'
+version: '1.5'
+type: zip
+tags:
+- Hack: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/797/soul-crystal/
+files:
+- name: ALL.PAK
+  size: 234662
+  date: '1992-02-19T07:01:44'
+  crc: '0x07365d72'
+- name: EOS1.PAK
+  size: 353198
+  date: '1992-02-19T07:01:44'
+  crc: '0x97dde179'
+- name: EOS2.PAK
+  size: 183738
+  date: '1992-02-19T07:01:44'
+  crc: '0xe96d2f06'
+- name: EV1.PAK
+  size: 313148
+  date: '1992-02-19T07:01:44'
+  crc: '0x8c098080'
+- name: EV2.PAK
+  size: 379414
+  date: '1992-02-19T07:13:24'
+  crc: '0xa5eb42cd'
+- name: EV3.PAK
+  size: 119282
+  date: '1992-02-19T07:13:24'
+  crc: '0x87534d50'
+- name: HOS1.PAK
+  size: 356475
+  date: '1992-02-19T07:13:24'
+  crc: '0xd1589161'
+- name: HOS2.PAK
+  size: 357779
+  date: '1992-02-19T07:15:34'
+  crc: '0x171d13e2'
+- name: INSTALL.CFG
+  size: 2090
+  date: '1992-02-19T07:01:44'
+  crc: '0x0ec3b259'
+- name: INSTALL.EXE
+  size: 24836
+  date: '1992-02-19T07:01:44'
+  crc: '0xab4772c2'
+- name: MUS.PAK
+  size: 21510
+  date: '1992-02-19T07:01:44'
+  crc: '0x2959b6bf'
+- name: VOS1.PAK
+  size: 397497
+  date: '1992-02-19T07:15:34'
+  crc: '0xbe8cf093'
+- name: VOS2.PAK
+  size: 161377
+  date: '1992-02-19T07:15:34'
+  crc: '0xee17eb9f'

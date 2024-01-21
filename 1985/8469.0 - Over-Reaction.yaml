@@ -1,0 +1,27 @@
+filename: Over-Reaction (1985)(Home Computer Magazine) [Simulation].zip
+tdc_id: '8469.0'
+title:
+  screen: Over-Reaction
+publisher: Home Computer Magazine
+year: '1985'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:24:30'
+  last_modified: '2019-03-01T18:24:30'
+type: zip
+commands:
+  play: REACTOR.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: REACTOR.BAS
+  size: 13301
+  date: '1986-04-29T14:53:06'
+  crc: '0x6824943e'
+- name: REACTOR.BAT
+  size: 16
+  date: '1980-01-01T00:00:00'
+  crc: '0x2abf0238'

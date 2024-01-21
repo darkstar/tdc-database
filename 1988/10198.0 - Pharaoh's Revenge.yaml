@@ -1,0 +1,57 @@
+filename: Pharaoh's Revenge (1988)(Publishing International) [Action, Adventure, Strategy].zip
+tdc_id: '10198.0'
+title:
+  box: Pharaoh's Revenge
+publisher: Publishing International
+year: '1988'
+genre:
+- Action
+- Adventure
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:26:38'
+  last_modified: '2019-03-01T18:26:38'
+type: zip
+commands:
+  play: PR.EXE
+references:
+  dosid: DOS03985
+  exodos: Pharaoh's Revenge (1988).zip
+files:
+- name: PR.CRS
+  size: 32767
+  date: '1989-10-22T22:08:04'
+  crc: '0xd4f3c7a0'
+- name: PR.DMO
+  size: 512
+  date: '1989-10-22T22:08:04'
+  crc: '0xff84c7b3'
+- name: PR.DOC
+  size: 668
+  date: '1989-10-22T22:08:04'
+  crc: '0x732571b0'
+- name: PR.EXE
+  size: 24547
+  date: '1989-10-22T22:08:04'
+  crc: '0x5b8125a8'
+- name: PR.HSC
+  size: 70
+  date: '1989-10-22T22:08:04'
+  crc: '0xe94fa518'
+- name: PR.IMG
+  size: 9592
+  date: '1989-10-22T22:08:04'
+  crc: '0xf7dfb020'
+- name: PR.LVD
+  size: 65280
+  date: '1989-10-22T22:08:04'
+  crc: '0xb074ed69'
+- name: PR.MAP
+  size: 499
+  date: '1989-10-22T22:08:04'
+  crc: '0xc0170311'
+- name: PR.TLS
+  size: 32767
+  date: '1989-10-22T22:08:04'
+  crc: '0xb82f3c57'

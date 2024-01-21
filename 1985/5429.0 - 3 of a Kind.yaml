@@ -1,0 +1,28 @@
+filename: 3 of a Kind (Pinball Construction Set) (1985)(MJL) [Action].zip
+tdc_id: '5429.0'
+title:
+  screen: 3 of a Kind
+  qualifier: Pinball Construction Set
+publisher: MJL
+year: '1985'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:20'
+  last_modified: '2019-03-01T18:24:20'
+type: zip
+requirements:
+  cpu:
+    min: '8088'
+media: Download
+commands:
+  play: THREE.COM
+files:
+- name: PINBALL.DOC
+  size: 708
+  date: '1988-01-21T15:12:18'
+  crc: '0x66127ab7'
+- name: THREE.COM
+  size: 64512
+  date: '1993-01-19T12:10:10'
+  crc: '0x0d9be0e1'

@@ -1,0 +1,27 @@
+filename: Dungeon Warrior - Mauern der Macht (Installer) (De) [SW] (1993)(Thomas Büngener) [Role-Playing (RPG)].zip
+tdc_id: '9553.0'
+title:
+  screen: Dungeon Warrior - Mauern der Macht
+publisher: Thomas Büngener
+year: '1993'
+genre: Role-Playing (RPG)
+language: German
+date:
+  added: '2019-03-01T19:02:34'
+  last_modified: '2022-11-20T12:35:44'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.BAT
+files:
+- name: INSTALL.BAT
+  size: 714
+  date: '1994-02-08T06:30:08'
+  crc: '0x1ccfc951'
+- name: WARRIOR.EXE
+  size: 368239
+  date: '1994-02-08T06:34:32'
+  crc: '0x0377af4c'

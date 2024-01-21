@@ -1,0 +1,32 @@
+filename: Murder on the Zinderneuf [DC] (1984)(Electronic Arts, Inc.) [Adventure].zip
+tdc_id: '7967.0'
+title:
+  box: Murder on the Zinderneuf
+publisher: Electronic Arts, Inc.
+year: '1984'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:24:12'
+  last_modified: '2019-03-01T18:24:12'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: murder.com
+references:
+  dosid: DOS05944
+  exodos: Murder on the Zinderneuf (1984).zip
+files:
+- name: game.dat
+  size: 409600
+  date: '2000-02-23T17:58:50'
+  crc: '0x32e3610f'
+- name: loader.dat
+  size: 43008
+  date: '2000-02-26T01:04:06'
+  crc: '0xf3842317'
+- name: murder.com
+  size: 464
+  date: '2000-02-26T09:02:10'
+  crc: '0xe417633e'

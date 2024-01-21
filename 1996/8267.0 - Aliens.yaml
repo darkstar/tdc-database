@@ -1,0 +1,30 @@
+filename: Aliens (1996)(Error Free Productions) [Action].zip
+tdc_id: '8267.0'
+title:
+  screen: Aliens
+publisher: Error Free Productions
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T09:58:56'
+  last_modified: '2019-03-02T09:58:56'
+type: zip
+commands:
+  play: ALIENS.EXE
+references:
+  dosid: DOS06489
+  exodos: Aliens (1996).zip
+files:
+- name: ALIENS.EXE
+  size: 20480
+  date: '1996-12-24T23:32:00'
+  crc: '0x8431c072'
+- name: NIGHT.SCI
+  size: 64778
+  date: '1996-12-24T23:32:00'
+  crc: '0x88494e84'
+- name: SPRITE.SCI
+  size: 2698
+  date: '1996-12-24T23:32:00'
+  crc: '0xf31a7de1'

@@ -1,0 +1,30 @@
+filename: Gadget- Lost in Time (1993)(Electronic Sound and Pictures) [Action].zip
+tdc_id: '2651.0'
+title:
+  screen: 'Gadget: Lost in Time'
+publisher: Electronic Sound and Pictures
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T19:09:00'
+  last_modified: '2019-03-01T19:09:00'
+type: zip
+commands:
+  play: GAME.EXE
+references:
+  dosid: DOS02345
+  exodos: Gadget - Lost in Time (1993).zip
+files:
+- name: GADGET.DAT
+  size: 1232122
+  date: '1993-10-11T21:51:02'
+  crc: '0xbf9e927f'
+- name: GADGET2.DAT
+  size: 3184
+  date: '1993-10-11T21:51:04'
+  crc: '0x2cc3ddb2'
+- name: GAME.EXE
+  size: 122514
+  date: '1993-10-12T14:28:20'
+  crc: '0xd438a7a4'

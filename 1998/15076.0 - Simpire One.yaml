@@ -1,0 +1,63 @@
+filename: Simpire One (1998)(Pyrus) [Simulation].zip
+tdc_id: '15076.0'
+title:
+  screen: Simpire One
+publisher: Pyrus
+year: '1998'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-02T10:44:34'
+  last_modified: '2019-03-02T10:44:34'
+type: zip
+commands:
+  play: GO.BAT
+files:
+- name: BUTTONS.SPR
+  size: 40607
+  date: '1998-03-09T21:52:52'
+  crc: '0xc0173c66'
+- name: DEFAULT.PAL
+  size: 1543
+  date: '1997-05-30T13:05:42'
+  crc: '0xa5a12ae5'
+- name: Fontdata.dat
+  size: 13104
+  date: '1997-07-29T22:25:48'
+  crc: '0x8de59e9e'
+- name: GO.BAT
+  size: 38
+  date: '2018-12-17T00:01:20'
+  crc: '0x8b7c08a3'
+- name: QB.EXE
+  size: 278804
+  date: '2016-03-13T01:19:58'
+  crc: '0xb08bc0fe'
+- name: SCENE.SPR
+  size: 29239
+  date: '1998-03-08T16:18:38'
+  crc: '0xb67a002a'
+- name: TITLE.SPR
+  size: 20713
+  date: '1997-11-05T12:58:56'
+  crc: '0x5d437a6a'
+- name: simpire.bas
+  size: 72770
+  date: '2018-12-17T00:03:14'
+  crc: '0x0b56530c'
+- name: simpire.qlb
+  size: 5822
+  date: '1996-06-08T22:23:00'
+  crc: '0x5f7d93e0'
+- name: simpire.src
+  size: 72779
+  date: '1998-03-10T21:14:02'
+  crc: '0xbbb9e513'
+- name: source.txt
+  size: 263
+  date: '1998-03-24T16:58:52'
+  crc: '0x448f8e97'
+- name: tiles.spr
+  size: 49539
+  date: '1998-03-08T16:28:14'
+  crc: '0x4c8cae5b'

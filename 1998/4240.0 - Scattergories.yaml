@@ -1,0 +1,31 @@
+filename: Scattergories v0.4 (1998)(Wafn) [Strategy, Educational].zip
+tdc_id: '4240.0'
+title:
+  screen: Scattergories
+publisher: Wafn
+year: '1998'
+genre:
+- Strategy
+- Educational
+language: English
+date:
+  added: '2019-03-02T10:44:32'
+  last_modified: '2019-03-02T10:44:32'
+version: '0.4'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 28
+  date: '2018-11-24T14:23:46'
+  crc: '0x1a71481b'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: SCATTERG.BAS
+  size: 41318
+  date: '2018-11-23T10:58:42'
+  crc: '0xcc5bad2a'

@@ -1,0 +1,103 @@
+filename: CyberRace (Installer) (1993)(Cyberdreams, Inc.) [Action, Racing - Driving].zip
+tdc_id: '12273.2'
+title:
+  box: CyberRace
+publisher: Cyberdreams, Inc.
+year: '1993'
+genre:
+- Action
+- Racing - Driving
+language: English
+date:
+  added: '2019-03-01T19:02:10'
+  last_modified: '2019-03-01T19:02:10'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: CYBERACE.001
+  size: 1318048
+  date: '1993-10-27T08:49:40'
+  crc: '0x8a52266e'
+- name: CYBERRAC.E_1
+  size: 0
+  date: '1993-10-27T08:48:18'
+- name: DISK.ID
+  size: 33
+  date: '1993-10-27T08:48:18'
+  crc: '0x8de5fda5'
+- name: DISK2\
+  size: 0
+  date: '2015-10-04T13:28:02'
+- name: DISK2\CYBERACE.002
+  size: 1457152
+  date: '1993-10-27T08:52:14'
+  crc: '0xf43a772b'
+- name: DISK2\CYBERRAC.E_2
+  size: 0
+  date: '1993-10-27T08:51:06'
+- name: DISK2\DISK.ID
+  size: 33
+  date: '1993-10-27T08:51:06'
+  crc: '0x8fa343fc'
+- name: DISK3\
+  size: 0
+  date: '2015-10-04T13:28:18'
+- name: DISK3\CYBERACE.003
+  size: 1457152
+  date: '1993-10-27T08:54:56'
+  crc: '0x3c5fa45b'
+- name: DISK3\CYBERRAC.E_3
+  size: 0
+  date: '1993-10-27T08:53:50'
+- name: DISK3\DISK.ID
+  size: 33
+  date: '1993-10-27T08:53:48'
+  crc: '0x8e6129cb'
+- name: DISK4\
+  size: 0
+  date: '2015-10-04T13:28:32'
+- name: DISK4\CYBERACE.004
+  size: 1457152
+  date: '1993-10-27T08:57:28'
+  crc: '0x622ccf9e'
+- name: DISK4\CYBERRAC.E_4
+  size: 0
+  date: '1993-10-27T08:56:20'
+- name: DISK4\DISK.ID
+  size: 33
+  date: '1993-10-27T08:56:20'
+  crc: '0x8b2e3f4e'
+- name: DISK5\
+  size: 0
+  date: '2015-10-04T13:28:36'
+- name: DISK5\CYBERACE.005
+  size: 1457152
+  date: '1993-10-27T09:00:02'
+  crc: '0x3adf6e74'
+- name: DISK5\CYBERRAC.E_5
+  size: 0
+  date: '1993-10-27T08:58:56'
+- name: DISK5\DISK.ID
+  size: 33
+  date: '1993-10-27T08:58:56'
+  crc: '0x8aec5579'
+- name: DISK6\
+  size: 0
+  date: '2015-10-04T13:28:38'
+- name: DISK6\CYBERACE.006
+  size: 1404061
+  date: '1993-10-27T09:02:40'
+  crc: '0xa1681e97'
+- name: DISK6\CYBERRAC.E_6
+  size: 0
+  date: '1993-10-27T09:01:34'
+- name: DISK6\DISK.ID
+  size: 33
+  date: '1993-10-27T09:01:34'
+  crc: '0x88aaeb20'
+- name: INSTALL.EXE
+  size: 138436
+  date: '1993-09-02T01:13:30'
+  crc: '0x5cec781e'

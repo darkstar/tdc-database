@@ -1,0 +1,72 @@
+filename: Moraff's Mather (Extended Edition) v3.0 (1993)(Moraffware) [Educational].zip
+tdc_id: '14343.0'
+title:
+  screen: Moraff's Mather
+  qualifier: Extended Edition
+publisher: Moraffware
+year: '1993'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T19:15:14'
+  last_modified: '2019-03-01T19:15:14'
+version: '3.0'
+type: zip
+commands:
+  play: MATHTRAP.EXE
+references:
+  dosid: DOS16066
+  exodos: Moraff's Mather Extended (1991).zip
+files:
+- name: 320X200.FNT
+  size: 2576
+  date: '2000-03-05T00:00:00'
+  crc: '0x49bff601'
+- name: 360X480.FNT
+  size: 6164
+  date: '2000-03-05T00:00:00'
+  crc: '0x312f458b'
+- name: EHOUT.FNT
+  size: 6900
+  date: '2000-03-05T00:00:00'
+  crc: '0x48c49f79'
+- name: FIELD.0
+  size: 10333
+  date: '2000-03-05T00:00:00'
+  crc: '0x0b871ca6'
+- name: FIELD.1
+  size: 10333
+  date: '2000-03-05T00:00:00'
+  crc: '0x4beb2127'
+- name: FIELD.2
+  size: 10333
+  date: '2000-03-05T00:00:00'
+  crc: '0xe6d51668'
+- name: FIELD.3
+  size: 10333
+  date: '2000-03-05T00:00:00'
+  crc: '0x86629fc3'
+- name: FILE3.BIN
+  size: 240
+  date: '2000-08-25T16:47:02'
+  crc: '0x4ea5ec66'
+- name: MATHTRAP.EXE
+  size: 79056
+  date: '2000-03-05T00:00:00'
+  crc: '0xc999ad57'
+- name: MI5
+  size: 119162
+  date: '2000-03-05T00:00:00'
+  crc: '0xa898464a'
+- name: PICS.BIN
+  size: 2163
+  date: '2000-03-05T00:00:00'
+  crc: '0x8d4d9f88'
+- name: README.BAT
+  size: 459
+  date: '2000-03-05T00:00:00'
+  crc: '0xfd9c0f97'
+- name: V
+  size: 1107
+  date: '2000-03-05T00:00:00'
+  crc: '0xf7bbd357'

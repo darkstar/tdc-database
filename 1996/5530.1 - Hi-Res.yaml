@@ -1,0 +1,28 @@
+filename: Hi-Res (De) (1996)(Ingo Ruhnke) [Action].zip
+tdc_id: '5530.1'
+title:
+  screen: Hi-Res
+publisher: Ingo Ruhnke
+year: '1996'
+genre: Action
+language: German
+date:
+  added: '2019-03-02T10:10:18'
+  last_modified: '2019-03-02T10:10:18'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 25
+  date: '2018-11-24T14:35:34'
+  crc: '0xae88dd30'
+- name: HIRES.BAS
+  size: 5214
+  date: '1996-10-11T16:05:32'
+  crc: '0xca7b014b'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

@@ -1,0 +1,29 @@
+filename: Lotus- The Ultimate Challenge v280793 (demo) (1993)(Gremlin Graphics Software Ltd.) [Racing - Driving].zip
+tdc_id: '11932.5'
+title:
+  screen: 'Lotus: The Ultimate Challenge'
+publisher: Gremlin Graphics Software Ltd.
+year: '1993'
+genre: Racing - Driving
+language: English
+date:
+  added: '2020-04-15T08:18:38'
+  last_modified: '2020-04-15T08:18:38'
+version: '280793'
+type: zip
+demo: true
+commands:
+  play: LOTUS.EXE
+files:
+- name: LOTUS.CFG
+  size: 2087
+  date: '1994-02-24T09:34:52'
+  crc: '0x7af9ac5d'
+- name: LOTUS.DAT
+  size: 557056
+  date: '1993-07-28T10:11:06'
+  crc: '0xf7d92bc7'
+- name: LOTUS.EXE
+  size: 4992
+  date: '1993-07-14T13:41:34'
+  crc: '0x8b4bc6db'

@@ -1,0 +1,30 @@
+filename: Indiana Jones and the Temple of Doom (1989)(Mindscape, Inc.) [Action].zip
+tdc_id: '11474.0'
+title:
+  box: Indiana Jones and the Temple of Doom
+publisher: Mindscape, Inc.
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2020-02-23T17:48:08'
+  last_modified: '2020-02-23T17:48:08'
+type: zip
+commands:
+  play: INDY.EXE
+references:
+  dosid: DOS02724
+  exodos: Indiana Jones and the Temple of Doom (1989).zip
+files:
+- name: INDY.EGA
+  size: 32000
+  date: '1989-02-02T12:02:54'
+  crc: '0x434a4730'
+- name: INDY.EXE
+  size: 242231
+  date: '1989-02-23T18:20:34'
+  crc: '0xacc910e8'
+- name: INDY.EX_
+  size: 242231
+  date: '1989-02-23T18:20:34'
+  crc: '0x0b9aae4c'

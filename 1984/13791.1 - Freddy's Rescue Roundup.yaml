@@ -1,0 +1,61 @@
+filename: Freddy's Rescue Roundup [h1] (1984)(IBM) [Action].zip
+tdc_id: '13791.1'
+title:
+  box: Freddy's Rescue Roundup
+publisher: IBM
+year: '1984'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:04'
+  last_modified: '2019-03-01T18:24:04'
+type: zip
+tags:
+- Hack: 1
+commands:
+  play: FREDDY.COM
+references:
+  dosid: DOS02304
+  exodos: Freddy's Rescue Roundup (1984).zip
+notes: http://www.hood.de/auction/26815242/wer_ist_online.cfm
+files:
+- name: CHARSC.CHR
+  size: 2048
+  date: '1999-12-31T03:00:00'
+  crc: '0xf153e2de'
+- name: FREDDY.COM
+  size: 2328
+  date: '1999-12-31T03:00:00'
+  crc: '0x257290ca'
+- name: FREDDY.DAT
+  size: 82624
+  date: '1999-12-31T03:00:00'
+  crc: '0x815ef991'
+- name: FREDDY.LUT
+  size: 72
+  date: '1999-12-31T03:00:00'
+  crc: '0x3cc7dd8f'
+- name: LEVELS.DAT
+  size: 1024
+  date: '1999-12-31T03:00:00'
+  crc: '0x5946ebfa'
+- name: NAMES.DAT
+  size: 768
+  date: '1990-02-04T21:11:20'
+  crc: '0x0b4e6999'
+- name: PARMS.DAT
+  size: 4213
+  date: '1999-12-31T03:00:00'
+  crc: '0x4f4f691c'
+- name: PLAYFLD2.DAT
+  size: 51200
+  date: '1999-12-31T03:00:00'
+  crc: '0xc339d3e5'
+- name: SCRN.DAT
+  size: 1009
+  date: '1999-12-31T03:00:16'
+  crc: '0x22f64eaa'
+- name: USRPARMS.DAT
+  size: 128
+  date: '1993-07-06T05:51:44'
+  crc: '0x0bed8b82'

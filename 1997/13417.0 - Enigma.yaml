@@ -1,0 +1,27 @@
+filename: Enigma (Installer) [SW] (1997)(Geckosoft) [Action].zip
+tdc_id: '13417.0'
+title:
+  screen: Enigma
+publisher: Geckosoft
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-01-27T04:18:46'
+  last_modified: '2019-01-27T04:18:46'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: ENIGINST.EXE
+files:
+- name: ENIGINST.EXE
+  size: 481439
+  date: '1997-07-08T21:26:38'
+  crc: '0xf89df5da'
+- name: FILE_ID.DIZ
+  size: 54
+  date: '1997-07-08T21:26:38'
+  crc: '0x1f49956a'

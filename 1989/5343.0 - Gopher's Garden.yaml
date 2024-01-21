@@ -1,0 +1,37 @@
+filename: Gopher's Garden [SW] (1989)(Christopher G. Gunn) [Action].zip
+tdc_id: '5343.0'
+title:
+  screen: Gopher's Garden
+publisher: Christopher G. Gunn
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:27:50'
+  last_modified: '2019-03-01T18:27:50'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: GARDEN.EXE
+references:
+  dosid: DOS06861
+  exodos: Garden (1989).zip
+files:
+- name: GARDEN.DAT
+  size: 3059
+  date: '1989-06-11T01:17:24'
+  crc: '0x6ed252f6'
+- name: GARDEN.DOC
+  size: 3542
+  date: '1990-01-30T21:25:32'
+  crc: '0xe31797a2'
+- name: GARDEN.EXE
+  size: 82446
+  date: '1990-01-30T20:40:02'
+  crc: '0xcccc44d9'
+- name: GARDEN.REG
+  size: 2932
+  date: '1990-01-28T22:56:22'
+  crc: '0xd8670769'

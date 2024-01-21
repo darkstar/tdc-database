@@ -1,0 +1,26 @@
+filename: Timequest (demo) (Installer) (1991)(Legend Entertainment Company) [Adventure, Interactive Fiction].zip
+tdc_id: '16737.2'
+title:
+  screen: Timequest
+  qualifier: demo
+publisher: Legend Entertainment Company
+year: '1991'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:39:46'
+  last_modified: '2019-03-01T18:39:46'
+type: zip
+installer: true
+demo: true
+files:
+- name: DEMO.BAT
+  size: 548
+  date: '1991-01-09T14:08:14'
+  crc: '0xa60e373c'
+- name: TIMEDEMO.EXE
+  size: 491223
+  date: '1991-06-10T12:40:22'
+  crc: '0xe1f72007'

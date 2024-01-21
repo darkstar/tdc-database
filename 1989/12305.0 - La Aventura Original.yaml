@@ -1,0 +1,51 @@
+filename: Aventura Original, La (Es) (1989)(Aventuras AD) [Adventure].zip
+tdc_id: '12305.0'
+title:
+  screen: La Aventura Original
+publisher: Aventuras AD
+year: '1989'
+genre: Adventure
+language: Spanish
+date:
+  added: '2020-10-25T09:28:22'
+  last_modified: '2020-10-25T09:28:22'
+type: zip
+commands:
+  play: AD.EXE
+files:
+- name: AD.EXE
+  size: 12898
+  date: '1997-01-25T18:26:54'
+  crc: '0xdae7e958'
+- name: ORIGINAL.TXT
+  size: 6242
+  date: '1996-08-20T23:44:10'
+  crc: '0xb124c8b2'
+- name: PART1.CGA
+  size: 78840
+  date: '1989-06-02T13:43:06'
+  crc: '0xbab31344'
+- name: PART1.CHR
+  size: 2176
+  date: '1989-06-05T07:53:52'
+  crc: '0x08d59686'
+- name: PART1.DDB
+  size: 14338
+  date: '1989-06-08T22:20:06'
+  crc: '0x0cafba26'
+- name: PART1.SCR
+  size: 16384
+  date: '1989-06-08T20:50:04'
+  crc: '0x485a1bfd'
+- name: PART2.CGA
+  size: 112379
+  date: '1989-06-06T13:54:38'
+  crc: '0x9b76b54f'
+- name: PART2.CHR
+  size: 2176
+  date: '1989-06-05T07:53:52'
+  crc: '0x08d59686'
+- name: PART2.DDB
+  size: 20232
+  date: '1989-06-08T22:18:40'
+  crc: '0x96439ecc'

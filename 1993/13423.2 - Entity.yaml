@@ -1,0 +1,42 @@
+filename: Entity (Installer) (Fr)(En) (1993)(Loriciel SA) [Action].zip
+tdc_id: '13423.2'
+title:
+  box: Entity
+publisher: Loriciel SA
+year: '1993'
+genre: Action
+language:
+- English
+- French
+date:
+  added: '2019-03-01T21:56:32'
+  last_modified: '2019-03-01T21:56:32'
+type: zip
+installer: true
+commands:
+  play: INSTALL.COM
+files:
+- name: ENTITY.DAT
+  size: 7928
+  date: '1993-10-18T19:59:24'
+  crc: '0xb1187181'
+- name: ENTITY1.BIN
+  size: 1290024
+  date: '1993-10-11T10:20:16'
+  crc: '0x5120e64d'
+- name: ENTITY2.BIN
+  size: 1335897
+  date: '1993-09-24T13:58:44'
+  crc: '0x40e6efd3'
+- name: ENTITY3.BIN
+  size: 1035770
+  date: '1993-09-24T14:13:50'
+  crc: '0x40e60d22'
+- name: ENTITY4.BIN
+  size: 998524
+  date: '1993-09-24T14:25:12'
+  crc: '0x368213a3'
+- name: INSTALL.COM
+  size: 4680
+  date: '1993-11-02T20:49:04'
+  crc: '0x04d2d102'

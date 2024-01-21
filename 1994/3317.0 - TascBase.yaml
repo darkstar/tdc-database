@@ -1,0 +1,155 @@
+filename: TascBase (Installer) (En)(Nl)(De) (1994)(TASC B.V.) [Educational, Strategy, Chess].zip
+tdc_id: '3317.0'
+title:
+  screen: TascBase
+publisher: TASC B.V.
+year: '1994'
+genre:
+- Educational
+- Strategy
+- Chess
+language:
+- English
+- German
+- Dutch
+date:
+  added: '2019-03-02T07:18:00'
+  last_modified: '2022-11-30T10:23:38'
+type: zip
+installer: true
+commands:
+  play: TBASE\INSTALL.EXE
+files:
+- name: TBASE\
+  size: 0
+  date: '1997-01-03T23:27:36'
+- name: TBASE\DRIVER.GRP
+  size: 68805
+  date: '1995-10-10T00:00:00'
+  crc: '0x95fa375a'
+- name: TBASE\INSTALL.CNF
+  size: 178
+  date: '1995-10-10T00:00:00'
+  crc: '0xae7455fe'
+- name: TBASE\INSTALL.EXE
+  size: 39928
+  date: '1995-10-10T00:00:00'
+  crc: '0x460f7b07'
+- name: TBASE\MANUAL\
+  size: 0
+  date: '1997-01-03T23:27:36'
+- name: TBASE\MANUAL\DEUTSCH.TXT
+  size: 219005
+  date: '1995-10-10T00:00:00'
+  crc: '0x854d14f5'
+- name: TBASE\MANUAL\ENGLISH.TXT
+  size: 196023
+  date: '1995-10-10T00:00:00'
+  crc: '0x5cb9ddf6'
+- name: TBASE\MANUAL\README.TXT
+  size: 511
+  date: '1996-04-18T16:24:04'
+  crc: '0x405b26d8'
+- name: TBASE\README
+  size: 873
+  date: '1996-04-18T16:23:18'
+  crc: '0xb80ca89f'
+- name: TBASE\SYSTEM.GRP
+  size: 121169
+  date: '1995-10-10T00:00:00'
+  crc: '0xcfbe8222'
+- name: TBASE\TBASE16.GRP
+  size: 213758
+  date: '1995-10-10T00:00:00'
+  crc: '0x1b1ba7de'
+- name: TBDATA\
+  size: 0
+  date: '1997-01-03T15:27:36'
+- name: TBDATA\PERFECT.TB1
+  size: 710556
+  date: '1995-10-09T16:00:00'
+  crc: '0x8b65c94f'
+- name: TBDATA\PERFECT.TB2
+  size: 1510068
+  date: '1995-10-09T16:00:00'
+  crc: '0xdb037af0'
+- name: TBDATA\PERFECT.TB3
+  size: 167139
+  date: '1995-10-09T16:00:00'
+  crc: '0x5a6a3051'
+- name: TBDATA\PERFECT.TBD
+  size: 4020
+  date: '1995-10-09T16:00:00'
+  crc: '0x1b795d1d'
+- name: TBDATA\PERFECT.TBG
+  size: 26095490
+  date: '1995-10-09T16:00:00'
+  crc: '0x54d080a2'
+- name: TBDATA\PERFECT.TBI
+  size: 1006716
+  date: '1995-10-09T16:00:00'
+  crc: '0xa6857679'
+- name: TBDATA\PERFECT.TBK
+  size: 3498880
+  date: '1995-10-09T16:00:00'
+  crc: '0x4c538f32'
+- name: TBDATA\PERFECT.TBN
+  size: 20367
+  date: '1995-10-09T16:00:00'
+  crc: '0x37fa29f6'
+- name: TBDATA\PERFECT.TBP
+  size: 218680
+  date: '1995-10-09T16:00:00'
+  crc: '0xdff06635'
+- name: TBDATA\PERFECT.TBT
+  size: 0
+  date: '1995-10-09T16:00:00'
+- name: TBFIDE\
+  size: 0
+  date: '1997-01-03T15:27:36'
+- name: TBFIDE\FIDE\
+  size: 0
+  date: '1997-01-03T15:27:36'
+- name: TBFIDE\FIDE\FIDE.TB1
+  size: 790146
+  date: '1995-10-09T16:00:00'
+  crc: '0x24ee59cd'
+- name: TBFIDE\FIDE\FIDE.TB2
+  size: 873804
+  date: '1995-10-09T16:00:00'
+  crc: '0x6a65f60a'
+- name: TBFIDE\FIDE\FIDE.TB3
+  size: 180595
+  date: '1995-10-09T16:00:00'
+  crc: '0x8df3246e'
+- name: TBFIDE\FIDE\FIDE.TBD
+  size: 4020
+  date: '1995-10-09T16:00:00'
+  crc: '0x1b795d1d'
+- name: TBFIDE\FIDE\FIDE.TBG
+  size: 13438132
+  date: '1995-10-09T16:00:00'
+  crc: '0xca4c5a8a'
+- name: TBFIDE\FIDE\FIDE.TBI
+  size: 582540
+  date: '1995-10-09T16:00:00'
+  crc: '0x14218325'
+- name: TBFIDE\FIDE\FIDE.TBK
+  size: 3498880
+  date: '1995-10-09T16:00:00'
+  crc: '0x6c3391cd'
+- name: TBFIDE\FIDE\FIDE.TBN
+  size: 20367
+  date: '1995-10-09T16:00:00'
+  crc: '0x37fa29f6'
+- name: TBFIDE\FIDE\FIDE.TBP
+  size: 218680
+  date: '1995-10-09T16:00:00'
+  crc: '0xdff06635'
+- name: TBFIDE\FIDE\FIDE.TBT
+  size: 0
+  date: '1995-10-09T16:00:00'
+- name: TBFIDE\MANUAL.TXT
+  size: 7740
+  date: '1996-04-18T07:26:06'
+  crc: '0x5ed0f312'

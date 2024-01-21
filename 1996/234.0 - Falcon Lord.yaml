@@ -1,0 +1,35 @@
+filename: Falcon Lord (demo) (1996)(Jhary) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '234.0'
+title:
+  screen: Falcon Lord
+  qualifier: demo
+publisher: Jhary
+year: '1996'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-02T10:03:30'
+  last_modified: '2019-03-02T10:03:30'
+type: zip
+demo: true
+commands:
+  play: GO.BAT
+files:
+- name: DEMORPG.BAS
+  size: 82667
+  date: '1996-10-05T15:51:00'
+  crc: '0xc0a0ba3a'
+- name: GO.BAT
+  size: 27
+  date: '2018-12-05T18:19:32'
+  crc: '0xae7c7fa1'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: README.TXT
+  size: 206
+  date: '1996-10-05T15:57:18'
+  crc: '0xf77f1c9b'

@@ -1,0 +1,37 @@
+filename: Battle Chess 4000 v1.00 r930127 (demo) (Installer) (1993)(Interplay Productions, Inc.) [Strategy, Chess].zip
+tdc_id: '12471.8'
+title:
+  screen: Battle Chess 4000
+  qualifier: Installer
+publisher: Interplay Productions, Inc.
+year: '1993'
+genre:
+- Strategy
+- Chess
+language: English
+date:
+  added: '2023-10-25T08:19:27'
+  last_modified: '2023-10-25T08:19:27'
+version: '1.00'
+release: '930127'
+type: zip
+media: Download
+installer: true
+demo: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/3460/battle-chess-4000/
+files:
+- name: BC4DEMO.EXE
+  size: 1420183
+  date: '1993-02-05T12:36:00'
+  crc: '0xf1b5d87b'
+- name: INSTALL.EXE
+  size: 14576
+  date: '1993-01-27T18:13:50'
+  crc: '0xf8eda9fa'
+- name: README.TXT
+  size: 2029
+  date: '1996-05-17T11:50:06'
+  crc: '0x14ad2202'

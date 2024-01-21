@@ -1,0 +1,51 @@
+filename: IBM-PC Mahjong v2.0 (1986)(ProCon Software) [Strategy].zip
+tdc_id: '9655.0'
+title:
+  screen: IBM-PC Mahjong
+publisher: ProCon Software
+year: '1986'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:24:48'
+  last_modified: '2019-03-01T18:24:48'
+version: '2.0'
+type: zip
+commands:
+  play: MAHJONG.EXE
+references:
+  dosid: DOS06938
+  exodos: Mahjong (1986).zip
+files:
+- name: MA.A
+  size: 4800
+  date: '1986-12-12T12:00:00'
+  crc: '0x3baa3964'
+- name: MA.B
+  size: 4800
+  date: '1986-12-12T12:00:00'
+  crc: '0x2e15643c'
+- name: MA.C
+  size: 16384
+  date: '1986-12-12T12:00:00'
+  crc: '0x40cf1ba2'
+- name: MA.INS
+  size: 404
+  date: '1987-07-08T01:00:00'
+  crc: '0xfff1b539'
+- name: MA.P
+  size: 4800
+  date: '1986-12-12T12:00:00'
+  crc: '0x805e2310'
+- name: MA.S
+  size: 16384
+  date: '1986-12-12T12:00:00'
+  crc: '0x67b03cf1'
+- name: MAHJONG.EXE
+  size: 86912
+  date: '1986-12-12T12:00:00'
+  crc: '0xa9dee70e'
+- name: MAREAD.DOC
+  size: 7040
+  date: '1986-12-12T12:00:00'
+  crc: '0x71a3c3bc'

@@ -1,0 +1,94 @@
+filename: Dactylus (De) (1997)(CDM Entertainment) [Action].zip
+tdc_id: '3903.0'
+parent_id: '3903.1'
+title:
+  box: Dactylus
+publisher: CDM Entertainment
+year: '1997'
+genre: Action
+language: German
+date:
+  added: '2019-03-21T16:48:00'
+  last_modified: '2019-03-21T16:48:00'
+type: zip
+commands:
+  play: INSTALL.BAT
+references:
+  dosid: DOS01619
+  exodos: Dactylus (1997).zip
+notes: +=[GERMAN]iso
+files:
+- name: DACTYLUS\
+  size: 0
+  date: '1997-02-24T19:53:34'
+- name: DACTYLUS\ADDS\
+  size: 0
+  date: '1997-02-24T19:53:34'
+- name: DACTYLUS\ADDS\DAC.BAT
+  size: 473
+  date: '1997-01-01T23:02:28'
+  crc: '0x670d5c8e'
+- name: DACTYLUS\ADDS\DACDEMO.CFF
+  size: 53160313
+  date: '1997-02-13T18:43:18'
+  crc: '0xa6cfc69e'
+- name: DACTYLUS\ADDS\DACDEMO.COM
+  size: 47904
+  date: '1997-02-13T18:57:48'
+  crc: '0xf38752a7'
+- name: DACTYLUS\ADDS\DACDEMO.MSG
+  size: 4623
+  date: '1996-12-23T14:57:06'
+  crc: '0xcfc3f366'
+- name: DACTYLUS\ADDS\DACTYLUS.ASM
+  size: 2718
+  date: '1997-02-23T19:40:50'
+  crc: '0x22d7ceb4'
+- name: DACTYLUS\ADDS\INSTALL.BAT
+  size: 130
+  date: '1997-02-13T19:25:18'
+  crc: '0xfa5d2fe6'
+- name: DACTYLUS\ADDS\INSTDAC.COM
+  size: 7741
+  date: '1997-02-08T16:45:12'
+  crc: '0x5d283136'
+- name: DACTYLUS\ADDS\README.1ST
+  size: 21723
+  date: '1997-02-14T17:22:00'
+  crc: '0x8850652f'
+- name: DACTYLUS\ADDS\SETUP.COM
+  size: 40815
+  date: '1997-02-13T19:30:24'
+  crc: '0xd34084b9'
+- name: DACTYLUS\DAC.BAT
+  size: 475
+  date: '1997-01-11T19:58:08'
+  crc: '0xac36f5d0'
+- name: DACTYLUS\DACTYLUS.CFF
+  size: 273213070
+  date: '1997-02-23T19:51:54'
+  crc: '0xcfa673c8'
+- name: DACTYLUS\DACTYLUS.COM
+  size: 55608
+  date: '1997-02-23T20:37:08'
+  crc: '0x7ccb4791'
+- name: DACTYLUS\DACTYLUS.MSG
+  size: 4623
+  date: '1996-12-23T14:57:06'
+  crc: '0xcfc3f366'
+- name: DACTYLUS\INSTALL.BAT
+  size: 131
+  date: '1997-01-11T19:59:40'
+  crc: '0xc853de2d'
+- name: DACTYLUS\INSTDAC.COM
+  size: 7728
+  date: '1997-02-23T00:40:00'
+  crc: '0x0974c2d7'
+- name: DACTYLUS\SETUP.COM
+  size: 43920
+  date: '1997-02-23T20:34:32'
+  crc: '0xb6fd78b7'
+- name: INSTALL.BAT
+  size: 172
+  date: '1997-02-24T19:46:36'
+  crc: '0x17add49d'

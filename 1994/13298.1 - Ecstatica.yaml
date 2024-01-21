@@ -1,0 +1,77 @@
+filename: Ecstatica (Installer) (En)(De)(Fr) (1994)(Psygnosis Limited) [Action, Adventure].zip
+tdc_id: '13298.1'
+title:
+  box: Ecstatica
+publisher: Psygnosis Limited
+year: '1994'
+genre:
+- Action
+- Adventure
+language:
+- English
+- French
+- German
+date:
+  added: '2019-03-01T21:56:22'
+  last_modified: '2019-03-01T21:56:22'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: ECS_1.RNC
+  size: 1335296
+  date: '1994-11-21T11:35:40'
+  crc: '0xd6fb3727'
+- name: ECS_10.RNC
+  size: 1457664
+  date: '1994-11-21T11:35:40'
+  crc: '0x5372ef79'
+- name: ECS_11.RNC
+  size: 1457664
+  date: '1994-11-21T11:35:40'
+  crc: '0xba7079e1'
+- name: ECS_12.RNC
+  size: 1457664
+  date: '1994-11-21T11:35:40'
+  crc: '0xda85e121'
+- name: ECS_13.RNC
+  size: 1451177
+  date: '1994-11-21T11:35:40'
+  crc: '0x8142d7d8'
+- name: ECS_2.RNC
+  size: 1457664
+  date: '1994-11-21T11:35:40'
+  crc: '0x46073341'
+- name: ECS_3.RNC
+  size: 1457664
+  date: '1994-11-21T11:35:40'
+  crc: '0x11a6aaf8'
+- name: ECS_4.RNC
+  size: 1457664
+  date: '1994-11-21T11:35:40'
+  crc: '0x8889ee68'
+- name: ECS_5.RNC
+  size: 1457664
+  date: '1994-11-21T11:35:40'
+  crc: '0xdac1f283'
+- name: ECS_6.RNC
+  size: 1457664
+  date: '1994-11-21T11:35:40'
+  crc: '0xf57501fd'
+- name: ECS_7.RNC
+  size: 1457664
+  date: '1994-11-21T11:35:40'
+  crc: '0x780a59c8'
+- name: ECS_8.RNC
+  size: 1457664
+  date: '1994-11-21T11:35:40'
+  crc: '0xa0970954'
+- name: ECS_9.RNC
+  size: 1457664
+  date: '1994-11-21T11:35:40'
+  crc: '0x021d9968'
+- name: INSTALL.EXE
+  size: 122337
+  date: '1994-11-23T16:46:28'
+  crc: '0x141501a7'

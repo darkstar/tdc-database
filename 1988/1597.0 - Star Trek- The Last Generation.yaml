@@ -1,0 +1,26 @@
+filename: Star Trek- The Last Generation (1988)(Xordanbhorgh, Inc.) [Adventure].zip
+tdc_id: '1597.0'
+title:
+  screen: 'Star Trek: The Last Generation'
+publisher: Xordanbhorgh, Inc.
+year: '1988'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:26:50'
+  last_modified: '2019-03-01T18:26:50'
+type: zip
+commands:
+  play: LASTTREK.EXE
+references:
+  dosid: DOS00105
+  exodos: Star Trek - The Last Generation (1988).zip
+files:
+- name: LASTTREK.DAT
+  size: 6029
+  date: '1987-12-16T04:00:00'
+  crc: '0xcd2d7722'
+- name: LASTTREK.EXE
+  size: 63696
+  date: '1980-01-10T02:47:36'
+  crc: '0x6ddde6cd'

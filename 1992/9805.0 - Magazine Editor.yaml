@@ -1,0 +1,28 @@
+filename: Magazine Editor (1992)(A.Sill) [Strategy].zip
+tdc_id: '9805.0'
+title:
+  screen: Magazine Editor
+publisher: A.Sill
+year: '1992'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:49:10'
+  last_modified: '2019-03-01T18:49:10'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 24
+  date: '2019-01-10T00:05:18'
+  crc: '0x686042ce'
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1988-10-05T02:00:08'
+  crc: '0x2a44af39'
+- name: MAGAZINE.BAS
+  size: 3434
+  date: '1996-01-22T20:10:56'
+  crc: '0xbb695241'

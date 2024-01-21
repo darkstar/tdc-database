@@ -1,0 +1,48 @@
+filename: Starlord (Installer) (1994)(MicroProse Ltd.) [Simulation, Strategy].zip
+tdc_id: '15572.3'
+title:
+  box: Starlord
+publisher: MicroProse Ltd.
+year: '1994'
+genre:
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2022-10-12T13:35:10'
+  last_modified: '2022-10-12T13:35:10'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/3430/starlord/
+files:
+- name: INSTALL.EXE
+  size: 98751
+  date: '1994-02-17T08:24:46'
+  crc: '0x67a6a61e'
+- name: MPSCOPY.EXE
+  size: 83656
+  date: '1994-02-17T08:24:42'
+  crc: '0x7375ae6c'
+- name: MPSLABS.IDX
+  size: 4912
+  date: '1994-02-17T08:31:04'
+  crc: '0xae6aefbe'
+- name: README.TXT
+  size: 2371
+  date: '1994-02-17T05:58:26'
+  crc: '0xabcb0b58'
+- name: STARLORD.001
+  size: 1267200
+  date: '1994-02-17T08:26:14'
+  crc: '0xf9f88fba'
+- name: STARLORD.002
+  size: 1457351
+  date: '1994-02-17T08:28:24'
+  crc: '0xa8d0ab2e'
+- name: STARLORD.003
+  size: 1305603
+  date: '1994-02-17T08:30:34'
+  crc: '0xe3ebad37'

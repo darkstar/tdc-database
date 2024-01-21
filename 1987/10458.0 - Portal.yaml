@@ -1,0 +1,70 @@
+filename: Portal [DC] (1987)(Activision, Inc.) [Adventure].zip
+tdc_id: '10458.0'
+title:
+  box: Portal
+publisher: Activision, Inc.
+year: '1987'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:24:54'
+  last_modified: '2023-09-04T08:13:48'
+type: zip
+tags:
+- DOSConversion
+media: 360K
+commands:
+  play: PORTAL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/2164/portal/
+  dosid: DOS05956
+  exodos: Portal (1986).zip
+files:
+- name: FLAGS.BIN
+  size: 700
+  date: '1987-01-22T00:30:10'
+  crc: '0x375a2abc'
+- name: PORTAL.EXE
+  size: 29908
+  date: '1987-01-22T00:30:10'
+  crc: '0xea02b364'
+- name: SAVE.1
+  size: 447
+  date: '1987-01-22T00:30:10'
+  crc: '0x86ef6d4f'
+- name: SAVE.2
+  size: 447
+  date: '1987-01-22T00:30:10'
+  crc: '0x86ef6d4f'
+- name: SAVE.3
+  size: 447
+  date: '1987-01-22T00:30:10'
+  crc: '0x86ef6d4f'
+- name: SAVE.NAM
+  size: 72
+  date: '1987-01-22T00:30:10'
+  crc: '0xbd1cde93'
+- name: VOL.0
+  size: 8584
+  date: '1987-01-22T00:30:10'
+  crc: '0xe3b0f98f'
+- name: VOL.1
+  size: 79714
+  date: '1987-01-22T00:30:10'
+  crc: '0x47f97405'
+- name: VOL.2
+  size: 110550
+  date: '1987-01-22T00:30:10'
+  crc: '0xa26e19e4'
+- name: VOL.3
+  size: 153962
+  date: '1987-01-22T00:30:10'
+  crc: '0xccf8488f'
+- name: VOL.4
+  size: 157210
+  date: '1987-01-22T00:30:10'
+  crc: '0xadb2502c'
+- name: VOL.5
+  size: 143733
+  date: '1987-01-22T00:30:10'
+  crc: '0x0cf238e4'

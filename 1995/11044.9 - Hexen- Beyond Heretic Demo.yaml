@@ -1,0 +1,43 @@
+filename: Hexen- Beyond Heretic Demo (Installer) (1995)(id Software, Inc.) [Action].zip
+tdc_id: '11044.9'
+title:
+  screen: 'Hexen: Beyond Heretic Demo'
+publisher: id Software, Inc.
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T08:45:28'
+  last_modified: '2019-03-02T08:45:28'
+type: zip
+installer: true
+demo: true
+files:
+- name: DEICE.EXE
+  size: 17303
+  date: '1995-10-18T19:21:06'
+  crc: '0xaad4552c'
+- name: HEXNDEMO.1
+  size: 1438394
+  date: '1995-10-18T19:21:06'
+  crc: '0xead78282'
+- name: HEXNDEMO.2
+  size: 1456128
+  date: '1995-10-18T19:21:10'
+  crc: '0x0881c1f8'
+- name: HEXNDEMO.3
+  size: 1456128
+  date: '1995-10-18T19:21:12'
+  crc: '0xbf4a656d'
+- name: HEXNDEMO.4
+  size: 1329853
+  date: '1995-10-18T19:21:14'
+  crc: '0x2cb12303'
+- name: HEXNDEMO.DAT
+  size: 254
+  date: '1995-10-18T19:21:06'
+  crc: '0x3d93bce5'
+- name: INSTALL.BAT
+  size: 199
+  date: '1995-10-18T19:21:44'
+  crc: '0x3a1eee38'

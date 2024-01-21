@@ -1,0 +1,28 @@
+filename: Warplane (1996)(Kenneth Green) [Action].zip
+tdc_id: '7478.0'
+title:
+  screen: Warplane
+publisher: Kenneth Green
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:23:26'
+  last_modified: '2019-03-02T10:23:26'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 28
+  date: '2018-03-12T20:47:46'
+  crc: '0x85ab3e4f'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'
+- name: WARPLANE.BAS
+  size: 32736
+  date: '2018-03-10T00:57:18'
+  crc: '0xae2f0a30'

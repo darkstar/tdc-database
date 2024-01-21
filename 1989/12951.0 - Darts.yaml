@@ -1,0 +1,32 @@
+filename: Darts (1989)(Softdisk Publishing) [Simulation, Sports].zip
+tdc_id: '12951.0'
+title:
+  box: Darts
+publisher: Softdisk Publishing
+year: '1989'
+genre:
+- Simulation
+- Sports
+language: English
+date:
+  added: '2019-03-01T18:27:34'
+  last_modified: '2019-03-01T18:27:34'
+type: zip
+commands:
+  play: DARTS.COM
+references:
+  dosid: DOS01659
+  exodos: Darts (1989).zip
+files:
+- name: DARTS.COM
+  size: 31011
+  date: '2037-05-01T02:42:14'
+  crc: '0xa0d9821f'
+- name: DARTS.IMG
+  size: 16377
+  date: '2037-05-01T02:36:10'
+  crc: '0xe8131e64'
+- name: DARTS.TXT
+  size: 4036
+  date: '2037-05-06T04:14:20'
+  crc: '0x816412d2'

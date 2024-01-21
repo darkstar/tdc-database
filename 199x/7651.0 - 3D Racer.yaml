@@ -1,0 +1,32 @@
+filename: 3D Racer [FW] (199x)(Steve Nunnally) [Action, Racing - Driving].zip
+tdc_id: '7651.0'
+title:
+  screen: 3D Racer
+publisher: Steve Nunnally
+year: 199x
+genre:
+- Action
+- Racing - Driving
+language: English
+date:
+  added: '2023-03-13T06:54:12'
+  last_modified: '2023-03-13T06:54:12'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: 3drace.bas
+  size: 27484
+  date: '2023-03-13T07:09:24'
+  crc: '0xbdbb47aa'
+- name: GO.BAT
+  size: 26
+  date: '2023-03-13T07:16:32'
+  crc: '0xebc8286f'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T15:20:00'
+  crc: '0x3152911c'

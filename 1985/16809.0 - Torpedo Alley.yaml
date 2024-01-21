@@ -1,0 +1,31 @@
+filename: Torpedo Alley v5.3.1 (1985)(Emerald Valley Publishing Co.) [Action].zip
+tdc_id: '16809.0'
+title:
+  box: Torpedo Alley
+publisher: Emerald Valley Publishing Co.
+year: '1985'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:36'
+  last_modified: '2019-03-01T18:24:36'
+version: 5.3.1
+type: zip
+commands:
+  play: TORPEDO.BAT
+references:
+  dosid: DOS07193
+  exodos: Torpedo Alley (1985).zip
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: TORPEDO.BAS
+  size: 7296
+  date: '1985-01-11T05:49:00'
+  crc: '0x858e2244'
+- name: TORPEDO.BAT
+  size: 18
+  date: '2014-12-18T18:01:08'
+  crc: '0x2141e06d'

@@ -1,0 +1,31 @@
+filename: Tony La Russa BaseBall II Expansion Team Stadiums (Installer) (1993)(Strategic Simulations, Inc.) [Simulation, Sports, Strategy, Addon].zip
+tdc_id: '5144.0'
+title:
+  box: Tony La Russa BaseBall II Expansion Team Stadiums
+publisher: Strategic Simulations, Inc.
+year: '1993'
+genre:
+- Simulation
+- Sports
+- Strategy
+- Addon
+language: English
+date:
+  added: '2019-03-01T21:10:22'
+  last_modified: '2019-03-01T21:10:22'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK1.ARJ
+  size: 514726
+  date: '1993-05-07T10:08:00'
+  crc: '0x22698201'
+- name: INSTALL.EXE
+  size: 24305
+  date: '1993-05-06T12:48:28'
+  crc: '0x37e5e8f7'
+- name: T2STDPCH1_1
+  size: 0
+  date: '1993-05-10T11:27:30'

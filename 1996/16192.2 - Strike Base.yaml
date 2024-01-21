@@ -1,0 +1,91 @@
+filename: Strike Base v1.26 (Installer) (1996)(Max Design GesMBH) [Action, Strategy].zip
+tdc_id: '16192.2'
+title:
+  box: Strike Base
+publisher: Max Design GesMBH
+year: '1996'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-08-31T16:28:04'
+  last_modified: '2019-08-31T16:28:04'
+version: '1.26'
+type: zip
+installer: true
+references:
+  dosid: DOS04890
+  exodos: Strike Base (1996).zip
+files:
+- name: AUTORUN.EXE
+  size: 35840
+  date: '1997-01-27T08:50:52'
+  crc: '0x768a55c0'
+- name: AUTORUN.ICO
+  size: 766
+  date: '1997-01-27T08:49:24'
+  crc: '0xeb080ab5'
+- name: AUTORUN.INF
+  size: 47
+  date: '1996-05-13T09:25:50'
+  crc: '0xc7e2cf06'
+- name: AUTORUN.PCX
+  size: 82427
+  date: '1997-01-23T12:43:10'
+  crc: '0x4a4c3795'
+- name: DOS4GW.EXE
+  size: 265420
+  date: '1994-11-30T18:08:42'
+  crc: '0xcb214447'
+- name: GAMEDATA.CD
+  size: 61115768
+  date: '1997-01-27T11:04:36'
+  crc: '0xae76ac9d'
+- name: GAMEDATA.HD1
+  size: 3883930
+  date: '1997-01-27T11:04:50'
+  crc: '0x26cbe385'
+- name: GAMEDATA.HD2
+  size: 38726588
+  date: '1997-01-27T11:05:48'
+  crc: '0x30b38c5d'
+- name: INSTALL.BAT
+  size: 33
+  date: '1997-01-23T09:55:06'
+  crc: '0xa11e4aec'
+- name: INSTALL.EXE
+  size: 89394
+  date: '1997-01-27T08:10:26'
+  crc: '0x7ff40ba6'
+- name: MANUAL.DOC
+  size: 4400640
+  date: '1997-01-27T10:06:46'
+  crc: '0x20fe617e'
+- name: MISC\
+  size: 0
+  date: '1997-01-29T04:56:20'
+- name: MISC\CHEATS.DOC
+  size: 10752
+  date: '1997-01-29T05:22:20'
+  crc: '0x2aee7fc2'
+- name: MISC\GRAPHICS.ZIP
+  size: 987844
+  date: '1997-01-28T05:15:54'
+  crc: '0x6a836770'
+- name: MISC\MANUAL.DOC
+  size: 4400640
+  date: '1997-01-27T10:06:46'
+  crc: '0x20fe617e'
+- name: STRIKE.BAT
+  size: 29
+  date: '1997-01-23T09:54:54'
+  crc: '0xdf253724'
+- name: STRIKE.EXE
+  size: 445194
+  date: '1997-01-29T05:23:40'
+  crc: '0xffbaa672'
+- name: STRKBASE.TXT
+  size: 14877
+  date: '1997-01-27T09:40:30'
+  crc: '0x7b0a7470'

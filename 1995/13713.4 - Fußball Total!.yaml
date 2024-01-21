@@ -1,0 +1,47 @@
+filename: Fußball Total! v1.1a (demo) (Installer) (De) (1995)(PC Games, Black Legend Ltd.) [Sports].zip
+tdc_id: '13713.4'
+title:
+  screen: Fußball Total!
+publisher: PC Games, Black Legend Ltd.
+year: '1995'
+genre: Sports
+language: German
+date:
+  added: '2023-01-19T13:14:18'
+  last_modified: '2023-01-19T13:14:18'
+version: '1.1a '
+type: zip
+installer: true
+demo: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/football-glory
+files:
+- name: FOOTDEMO.EXE
+  size: 1032189
+  date: '1995-04-18T14:01:48'
+  crc: '0xd231467f'
+- name: INSTALL.EXE
+  size: 40827
+  date: '1994-04-02T02:50:00'
+  crc: '0xb53554ae'
+- name: INSTALL.PRG
+  size: 1242
+  date: '1995-04-18T13:57:00'
+  crc: '0x8ae2ef4d'
+- name: POOL\
+  size: 0
+  date: '1995-04-18T14:08:12'
+- name: POOL\INSTALL.BAT
+  size: 521
+  date: '1995-04-18T14:10:14'
+  crc: '0xa2db1e62'
+- name: POOL\POOLDEMO.EXE
+  size: 367029
+  date: '1995-04-18T12:14:58'
+  crc: '0xa888bc46'
+- name: README.FT
+  size: 6512
+  date: '1995-03-16T14:18:20'
+  crc: '0x06558c3e'

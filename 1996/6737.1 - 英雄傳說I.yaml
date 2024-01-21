@@ -1,0 +1,72 @@
+filename: 英雄傳說I (Installer) (Zh) (1996)(Tan Ton Nerw Information Co. Ltd.) [Role-Playing (RPG)].zip
+tdc_id: '6737.1'
+parent_id: '6737.2'
+title:
+  box: 英雄傳說I
+  translation: 'Dragon Slayer: The Legend of Heroes'
+  qualifier: Installer
+publisher: Tan Ton Nerw Information Co. Ltd.
+year: '1996'
+genre: Role-Playing (RPG)
+language: Chinese
+date:
+  added: '2023-11-11T11:30:21'
+  last_modified: '2023-11-11T11:30:21'
+type: zip
+media: CD-ROM
+installer: true
+audio:
+- CD-DA
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/15001/dragon-slayer-the-legend-of-heroes/
+files:
+- name: ASCII16.FON
+  size: 3840
+  date: '1992-08-31T23:00:00'
+  crc: '0x25ca2edf'
+- name: DATA.001
+  size: 1245184
+  date: '1996-08-01T12:51:16'
+  crc: '0x2dc3b1b0'
+- name: DATA.002
+  size: 1030144
+  date: '1996-09-10T13:04:34'
+  crc: '0xb35a14d4'
+- name: DATA.003
+  size: 872448
+  date: '1996-08-31T11:01:46'
+  crc: '0x1dbfbeba'
+- name: EFFECT.TRJ
+  size: 115843
+  date: '1996-09-09T05:08:50'
+  crc: '0x7b9f804d'
+- name: INSTALL.BIN
+  size: 3213
+  date: '1995-01-16T14:49:48'
+  crc: '0x7301ae0f'
+- name: INSTALL.CMD
+  size: 825
+  date: '1996-09-09T05:11:14'
+  crc: '0xc57b5a01'
+- name: INSTALL.EXE
+  size: 55554
+  date: '1996-09-09T05:07:48'
+  crc: '0x4b72238d'
+- name: INSTALL.R16
+  size: 82153
+  date: '1996-08-15T10:47:12'
+  crc: '0xce988c97'
+- name: SYSTEM.TRJ
+  size: 494233
+  date: '1996-09-10T13:17:04'
+  crc: '0x310b5b67'
+- name: TANTON.ID
+  size: 2
+  date: '1995-05-25T18:55:08'
+  crc: '0x14a285ac'
+- name: TITLE.TRJ
+  size: 876967
+  date: '1996-09-09T05:04:32'
+  crc: '0xdfb7f197'

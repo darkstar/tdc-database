@@ -1,0 +1,29 @@
+filename: Turbo Blackjack v2.5 (1987)(Paul Ferguson) [Strategy, Cards].zip
+tdc_id: '1456.0'
+title:
+  screen: Turbo Blackjack
+publisher: Paul Ferguson
+year: '1987'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:25:48'
+  last_modified: '2019-03-01T18:25:48'
+version: '2.5'
+type: zip
+commands:
+  play: BLACKJAC.COM
+references:
+  dosid: DOS07205
+  exodos: Turbo Blackjack (1985).zip
+files:
+- name: BLACKJAC.COM
+  size: 59592
+  date: '1987-04-24T06:31:00'
+  crc: '0xe0e3aa73'
+- name: BLACKJAC.DOC
+  size: 1638
+  date: '1987-04-27T23:42:42'
+  crc: '0x470dd705'

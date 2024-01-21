@@ -1,0 +1,39 @@
+filename: SimEarth- The Living Planet v1.0 (En)(De)(Fr) (1991)(Maxis Software Inc.) [IMA][360k][!].zip
+tdc_id: '6001.7'
+parent_id: '6001.9'
+title:
+  box: 'SimEarth: The Living Planet'
+publisher: Maxis Software Inc.
+year: '1991'
+genre: IMA
+language:
+- English
+- French
+- German
+date:
+  added: '2023-02-26T10:21:17'
+  last_modified: '2023-10-15T10:35:52'
+version: '1.0'
+type: IMA
+tags:
+- KnownGood
+media: 360K
+references:
+  mobygames: https://www.mobygames.com/game/1835/simearth-the-living-planet/
+files:
+- name: Data1.ima
+  size: 368640
+  date: '2020-07-14T17:23:38'
+  crc: '0xfd6ddd31'
+- name: Data2.ima
+  size: 368640
+  date: '2020-07-14T17:23:48'
+  crc: '0x32cf78f6'
+- name: Data3.ima
+  size: 368640
+  date: '2020-07-14T17:24:00'
+  crc: '0x40d10f2f'
+- name: Install.ima
+  size: 368640
+  date: '2020-07-14T17:24:10'
+  crc: '0xd915704f'

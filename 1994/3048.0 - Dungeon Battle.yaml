@@ -1,0 +1,36 @@
+filename: Dungeon Battle (1994)(Anthony Dunleavy) [Adventure].zip
+tdc_id: '3048.0'
+title:
+  screen: Dungeon Battle
+publisher: Anthony Dunleavy
+year: '1994'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T21:56:20'
+  last_modified: '2019-03-01T21:56:20'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: DUNGEON.BAS
+  size: 67998
+  date: '1995-01-02T20:10:50'
+  crc: '0x456226d1'
+- name: DUNGEON.ICO
+  size: 766
+  date: '1995-01-04T19:32:42'
+  crc: '0x2fc9da52'
+- name: DUNGEON.TXT
+  size: 1806
+  date: '1995-01-14T17:48:24'
+  crc: '0x8d8b4812'
+- name: GO.BAT
+  size: 27
+  date: '2019-02-17T08:51:04'
+  crc: '0x3e53a946'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'

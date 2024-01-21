@@ -1,0 +1,29 @@
+filename: Neuromancer [a3] (1989)(Interplay Productions, Inc.) [Adventure].zip
+tdc_id: '8442.3'
+title:
+  box: Neuromancer
+publisher: Interplay Productions, Inc.
+year: '1989'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:28:28'
+  last_modified: '2019-03-01T18:28:28'
+type: zip
+tags:
+- Alternate: 3
+commands:
+  play: neuro.exe
+files:
+- name: neuro.exe
+  size: 94921
+  date: '1998-10-03T13:54:26'
+  crc: '0x2de48a6f'
+- name: neuro1.dat
+  size: 260174
+  date: '1989-11-22T20:16:06'
+  crc: '0x73d39b68'
+- name: neuro2.dat
+  size: 361755
+  date: '1989-09-26T15:31:22'
+  crc: '0xf2e46cbe'

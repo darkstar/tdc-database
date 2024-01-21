@@ -1,0 +1,25 @@
+filename: Phoenix Fire (Installer) (1993)(Blue Valley Software) [Simulation].zip
+tdc_id: '2769.0'
+title:
+  screen: Phoenix Fire
+publisher: Blue Valley Software
+year: '1993'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T19:16:08'
+  last_modified: '2019-03-01T19:16:08'
+type: zip
+installer: true
+references:
+  dosid: DOS03989
+  exodos: Phoenix Fire (1993).zip
+files:
+- name: MAGIC.EXE
+  size: 1364544
+  date: '1994-01-07T14:18:00'
+  crc: '0x2cf2efb3'
+- name: PATCH.COM
+  size: 507
+  date: '1993-12-06T00:00:08'
+  crc: '0x125c821b'

@@ -1,0 +1,75 @@
+filename: DND v1.2 [SW] (1986)(R.O. Software) [Role-Playing (RPG)].zip
+tdc_id: '6596.0'
+title:
+  screen: DND
+publisher: R.O. Software
+year: '1986'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:24:44'
+  last_modified: '2019-03-01T18:24:44'
+version: '1.2'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: DND.EXE
+files:
+- name: CAVERN.BIN
+  size: 8000
+  date: '1984-02-02T21:24:26'
+  crc: '0xc7338437'
+- name: CLERIC.DOC
+  size: 3888
+  date: '1984-10-16T15:47:10'
+  crc: '0x4058691f'
+- name: DND.EXE
+  size: 124358
+  date: '1986-11-18T19:46:26'
+  crc: '0x61e7ddff'
+- name: INTRO.DOC
+  size: 8046
+  date: '1984-10-16T15:48:56'
+  crc: '0x745056fa'
+- name: KEYPAD.DOC
+  size: 1583
+  date: '1984-03-08T09:45:06'
+  crc: '0xe93f4304'
+- name: LAMORTE.BIN
+  size: 8000
+  date: '1984-02-02T21:30:10'
+  crc: '0xb6cd599a'
+- name: MAGIC.DOC
+  size: 6421
+  date: '1986-07-17T21:18:58'
+  crc: '0x8b17a086'
+- name: MONSTER.DOC
+  size: 3197
+  date: '1984-10-16T15:52:06'
+  crc: '0xb83a62e8'
+- name: NOTICE.DAT
+  size: 713
+  date: '1986-11-15T14:55:22'
+  crc: '0x287d4110'
+- name: README
+  size: 1315
+  date: '1984-07-10T00:40:38'
+  crc: '0xb67de542'
+- name: RELEASE.NOT
+  size: 1249
+  date: '1986-11-18T20:05:52'
+  crc: '0xc6441f47'
+- name: SHVENK.BIN
+  size: 8000
+  date: '1984-02-02T21:36:36'
+  crc: '0x9724cb20'
+- name: TELENARD.BIN
+  size: 8000
+  date: '1984-02-02T21:32:18'
+  crc: '0x13b3472d'
+- name: WARREN.BIN
+  size: 8000
+  date: '1984-02-02T21:28:02'
+  crc: '0xe2269d79'

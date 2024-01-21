@@ -1,0 +1,50 @@
+filename: Roboman (1989)(XOR Corporation) [Action].zip
+tdc_id: '9984.0'
+title:
+  box: Roboman
+publisher: XOR Corporation
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:28:48'
+  last_modified: '2019-03-01T18:28:48'
+type: zip
+commands:
+  play: ROBO.EXE
+references:
+  dosid: DOS04333
+  exodos: Roboman (1989).zip
+files:
+- name: README.TXT
+  size: 621
+  date: '1997-12-25T15:11:10'
+  crc: '0x4d247875'
+- name: ROBO.BK1
+  size: 16305
+  date: '1989-10-01T13:00:06'
+  crc: '0x15fff299'
+- name: ROBO.BK2
+  size: 16305
+  date: '1989-10-01T13:00:08'
+  crc: '0xe433568c'
+- name: ROBO.CGA
+  size: 59414
+  date: '1989-10-01T13:00:04'
+  crc: '0xfcfd126e'
+- name: ROBO.DEM
+  size: 3000
+  date: '1989-10-01T13:00:08'
+  crc: '0xecd779e8'
+- name: ROBO.EGA
+  size: 59830
+  date: '1989-10-01T13:00:08'
+  crc: '0xdb625717'
+- name: ROBO.EXE
+  size: 33809
+  date: '1989-10-01T13:00:04'
+  crc: '0x10ffbb81'
+- name: ROBO.LEV
+  size: 82719
+  date: '1980-01-01T00:20:56'
+  crc: '0xae2c0205'

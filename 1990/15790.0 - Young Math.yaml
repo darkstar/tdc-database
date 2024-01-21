@@ -1,0 +1,85 @@
+filename: Young Math v2.21 (1990)(Stone & Associates, Nighthawk Computing) [Educational].zip
+tdc_id: '15790.0'
+parent_id: '15790.1'
+title:
+  box: Young Math
+publisher: Stone & Associates, Nighthawk Computing
+year: '1990'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T18:34:38'
+  last_modified: '2023-12-29T16:27:35'
+version: '2.21'
+type: zip
+commands:
+  play: YOUNG.BAT
+notes: http://www.atarimagazines.com/startv5n2/headstartathome.html
+files:
+- name: AUTOEXEC.BAT
+  size: 44
+  date: '1994-06-12T14:18:28'
+  crc: '0x484eeb1d'
+- name: CGA.BGI
+  size: 6253
+  date: '1988-08-29T02:00:00'
+  crc: '0x17cbdd92'
+- name: EGAVGA.BGI
+  size: 5363
+  date: '1988-08-29T02:00:00'
+  crc: '0x06d36962'
+- name: EXTRA.1
+  size: 30714
+  date: '1990-06-13T15:59:34'
+  crc: '0x311eb681'
+- name: EXTRA.2
+  size: 26621
+  date: '1990-06-13T16:05:52'
+  crc: '0x8aa00e57'
+- name: GR2.COM
+  size: 18872
+  date: '1990-09-15T20:33:36'
+  crc: '0xf5148f1f'
+- name: IBMBIO.COM
+  size: 4736
+  date: '1990-01-01T02:56:00'
+  crc: '0x7a79857f'
+- name: IBMDOS.COM
+  size: 17024
+  date: '1990-01-01T02:54:00'
+  crc: '0x81ce49c6'
+- name: INSTALL.BAT
+  size: 3141
+  date: '1990-09-24T09:13:00'
+  crc: '0x87a9982f'
+- name: OPTION.COM
+  size: 98
+  date: '1988-03-09T13:44:52'
+  crc: '0x1df998d4'
+- name: PLACE.BAT
+  size: 1018
+  date: '1990-09-21T09:58:00'
+  crc: '0xd09bce5b'
+- name: RMVCGA.COM
+  size: 235
+  date: '1989-03-15T20:26:46'
+  crc: '0xe94cf902'
+- name: SIMCGA.COM
+  size: 11852
+  date: '1989-03-15T20:26:46'
+  crc: '0x798845fc'
+- name: VERSION2.21
+  size: 0
+  date: '1991-01-11T15:15:54'
+- name: YMATH.DAT
+  size: 21
+  date: '1990-06-26T10:08:54'
+  crc: '0x3ea73703'
+- name: YMATH.EXE
+  size: 189774
+  date: '1991-01-07T12:38:16'
+  crc: '0x141ac6b6'
+- name: YOUNG.BAT
+  size: 44
+  date: '1994-06-12T14:18:28'
+  crc: '0x484eeb1d'

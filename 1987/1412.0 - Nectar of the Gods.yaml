@@ -1,0 +1,29 @@
+filename: Nectar of the Gods v2.0 (1987)(Doug Rogers) [Adventure, Interactive Fiction].zip
+tdc_id: '1412.0'
+title:
+  screen: Nectar of the Gods
+publisher: Doug Rogers
+year: '1987'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:25:28'
+  last_modified: '2019-03-01T18:25:28'
+version: '2.0'
+type: zip
+commands:
+  play: NECTAR.EXE
+references:
+  dosid: DOS00087
+  exodos: Nectar of the Gods (1987).zip
+files:
+- name: NECTAR.EXE
+  size: 92315
+  date: '1987-06-21T14:49:24'
+  crc: '0xb4f77d38'
+- name: README
+  size: 2041
+  date: '1987-06-17T01:40:06'
+  crc: '0x6b2f4d39'

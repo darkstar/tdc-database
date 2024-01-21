@@ -1,0 +1,28 @@
+filename: Connect 4 (1998)(Luis Padilla) [Strategy].zip
+tdc_id: '934.0'
+title:
+  screen: Connect 4
+publisher: Luis Padilla
+year: '1998'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:41:04'
+  last_modified: '2019-03-02T10:41:04'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: CONNECT4.BAS
+  size: 29620
+  date: '1998-08-17T18:30:56'
+  crc: '0xd56f9e2f'
+- name: GO.BAT
+  size: 28
+  date: '2018-12-04T20:15:02'
+  crc: '0x6f7cd9cf'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

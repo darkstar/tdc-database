@@ -1,0 +1,35 @@
+filename: Beats of Rage v1.0029 (2004)(Senile Team) [Action].zip
+tdc_id: '4916.0'
+title:
+  screen: Beats of Rage
+publisher: Senile Team
+year: '2004'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:56:50'
+  last_modified: '2019-03-02T10:56:50'
+version: '1.0029'
+type: zip
+commands:
+  play: bor.exe
+references:
+  dosid: DOS06444
+  exodos: Beats of Rage (2003).zip
+files:
+- name: BOR.PAK
+  size: 62663611
+  date: '2004-01-27T10:52:52'
+  crc: '0x7adc75af'
+- name: Bor.ico
+  size: 3638
+  date: '2004-01-26T19:21:44'
+  crc: '0x2b907475'
+- name: bor.exe
+  size: 110296
+  date: '2004-01-25T09:47:00'
+  crc: '0x715b625f'
+- name: readyou.txt
+  size: 4200
+  date: '2004-01-27T10:37:46'
+  crc: '0x9731f66d'

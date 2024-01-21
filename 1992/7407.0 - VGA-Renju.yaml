@@ -1,0 +1,27 @@
+filename: VGA-Renju v1.1 [SW] (1992)(John Girard) [Strategy].zip
+tdc_id: '7407.0'
+title:
+  screen: VGA-Renju
+publisher: John Girard
+year: '1992'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:52:18'
+  last_modified: '2019-03-01T18:52:18'
+version: '1.1'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: VGARENJU.EXE
+files:
+- name: RENJU.TXT
+  size: 15778
+  date: '1992-05-19T17:53:42'
+  crc: '0x8aebd9fc'
+- name: VGARENJU.EXE
+  size: 151072
+  date: '1992-05-19T13:20:06'
+  crc: '0xdc0dff5d'

@@ -1,0 +1,113 @@
+filename: London v1.1 (1993)(Nils Eng) [Adventure, Interactive Fiction].zip
+tdc_id: '6460.0'
+title:
+  screen: London
+publisher: Nils Eng
+year: '1993'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T19:11:56'
+  last_modified: '2019-03-01T19:11:56'
+version: '1.1'
+type: zip
+commands:
+  play: LONDON.EXE
+references:
+  dosid: DOS00078
+  exodos: London (1993).zip
+files:
+- name: BIGBEN.SNA
+  size: 12204
+  date: '1989-03-12T20:21:38'
+  crc: '0x47787f4a'
+- name: BUCKIM.SNA
+  size: 12204
+  date: '1989-03-28T21:46:46'
+  crc: '0x5016e3ff'
+- name: DOWNING.SNA
+  size: 12204
+  date: '1989-03-12T21:12:14'
+  crc: '0x4676bb21'
+- name: HOTEL.SNA
+  size: 12204
+  date: '1989-03-12T20:20:36'
+  crc: '0xf804c8de'
+- name: KLOCKA.SNA
+  size: 6107
+  date: '1989-06-03T20:28:14'
+  crc: '0x432e0418'
+- name: LIMIT1.SNA
+  size: 12204
+  date: '1989-04-13T20:41:22'
+  crc: '0x863b15ec'
+- name: LIMIT2.SNA
+  size: 12203
+  date: '1989-09-04T22:42:02'
+  crc: '0x27b61100'
+- name: LIMIT3.SNA
+  size: 12204
+  date: '1989-03-12T20:28:10'
+  crc: '0x30ce3172'
+- name: LIMIT4.SNA
+  size: 12204
+  date: '1989-04-24T23:04:30'
+  crc: '0x7f685883'
+- name: LIMIT5.SNA
+  size: 12203
+  date: '1989-05-31T23:12:22'
+  crc: '0x5d843470'
+- name: LONDON.EXE
+  size: 109401
+  date: '1993-06-29T17:30:52'
+  crc: '0xe5bc37fd'
+- name: MARGARET.SNA
+  size: 12204
+  date: '1989-03-12T20:27:04'
+  crc: '0xfc00521a'
+- name: PICCADIL.SNA
+  size: 12203
+  date: '1989-05-28T23:43:32'
+  crc: '0x5f332958'
+- name: PUB.SNA
+  size: 12203
+  date: '1989-05-29T10:41:42'
+  crc: '0xde119cb4'
+- name: README.LND
+  size: 892
+  date: '1993-03-24T22:00:06'
+  crc: '0xe9e0463d'
+- name: SPEAKER.SNA
+  size: 12204
+  date: '1989-04-18T21:41:44'
+  crc: '0xf3a9007b'
+- name: STPAUL.SNA
+  size: 12204
+  date: '1989-03-12T20:23:36'
+  crc: '0x511768a4'
+- name: TICKETS.SNA
+  size: 12204
+  date: '1989-03-22T00:14:40'
+  crc: '0x35cec402'
+- name: TOBRIDGE.SNA
+  size: 12203
+  date: '1989-05-17T20:57:08'
+  crc: '0x7db8ff9f'
+- name: TOWER.SNA
+  size: 12203
+  date: '1989-05-09T21:01:02'
+  crc: '0x097eea92'
+- name: TRAFALG.SNA
+  size: 12203
+  date: '1989-05-09T21:08:36'
+  crc: '0x1e14768d'
+- name: TUSSAUD.SNA
+  size: 12204
+  date: '1989-03-12T20:19:30'
+  crc: '0x2c7ebd47'
+- name: UMAP.SNA
+  size: 12204
+  date: '1989-03-12T20:25:28'
+  crc: '0x65099471'

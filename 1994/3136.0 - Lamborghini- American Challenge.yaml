@@ -1,0 +1,29 @@
+filename: Lamborghini- American Challenge (demo) (1994)(Titus France SA, Future Media International) [Racing - Driving].zip
+tdc_id: '3136.0'
+title:
+  screen: 'Lamborghini: American Challenge'
+  qualifier: demo
+publisher: Titus France SA, Future Media International
+year: '1994'
+genre: Racing - Driving
+language: English
+date:
+  added: '2019-09-30T06:59:06'
+  last_modified: '2019-09-30T06:59:06'
+type: zip
+demo: true
+commands:
+  play: LAC.EXE
+files:
+- name: ARCBIN.DAT
+  size: 522564
+  date: '1994-05-26T11:30:48'
+  crc: '0x3e035c4c'
+- name: LAC.EXE
+  size: 79748
+  date: '1994-05-26T11:14:18'
+  crc: '0x6c246e65'
+- name: TOTTAB.DAT
+  size: 14237
+  date: '1994-02-21T12:59:24'
+  crc: '0xc21ef879'

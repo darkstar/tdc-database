@@ -1,0 +1,33 @@
+filename: Survival in New York City (1987)(Anonymous) [Adventure, Interactive Fiction].zip
+tdc_id: '16378.0'
+title:
+  screen: Survival in New York City
+publisher: Anonymous
+year: '1987'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:25:42'
+  last_modified: '2019-03-01T18:25:42'
+type: zip
+media: Download
+commands:
+  play: NEWYORK.EXE
+references:
+  dosid: DOS06045
+  exodos: Survival in New York City (1986).zip
+files:
+- name: BRUN20.EXE
+  size: 69454
+  date: '1987-01-16T11:44:44'
+  crc: '0xfed31ef4'
+- name: NEWYORK.DOC
+  size: 2078
+  date: '1980-01-01T00:20:42'
+  crc: '0x6c2c3056'
+- name: NEWYORK.EXE
+  size: 77377
+  date: '1987-06-11T17:35:30'
+  crc: '0x65b296b9'

@@ -1,0 +1,35 @@
+filename: Expert Common Knowledge [SW] (1992)(Expert Software) [Strategy, Trivia].zip
+tdc_id: '9082.0'
+title:
+  screen: Expert Common Knowledge
+publisher: Expert Software
+year: '1992'
+genre:
+- Strategy
+- Trivia
+language: English
+date:
+  added: '2019-03-01T18:44:42'
+  last_modified: '2019-03-01T18:44:42'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: know.exe
+references:
+  dosid: DOS02061
+  exodos: Expert School of Knowledge (1992).zip
+files:
+- name: know.exe
+  size: 119011
+  date: '1996-12-24T23:32:00'
+  crc: '0x7356a172'
+- name: know1.dat
+  size: 144291
+  date: '1996-12-24T23:32:00'
+  crc: '0x81905915'
+- name: know2.dat
+  size: 128547
+  date: '1996-12-24T23:32:00'
+  crc: '0x5ffa0cb5'

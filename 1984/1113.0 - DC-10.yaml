@@ -1,0 +1,41 @@
+filename: DC-10 (1984)(MichTron) [Simulation].zip
+tdc_id: '1113.0'
+title:
+  screen: DC-10
+publisher: MichTron
+year: '1984'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:24:02'
+  last_modified: '2019-03-01T18:24:02'
+type: zip
+files:
+- name: DC10.BAS
+  size: 24832
+  date: '1984-06-10T01:04:08'
+  crc: '0x88456494'
+- name: DC10.EXE
+  size: 68608
+  date: '1980-01-01T00:05:30'
+  crc: '0x65a9b347'
+- name: FP.BAS
+  size: 4864
+  date: '1983-03-10T00:28:14'
+  crc: '0x3156afcf'
+- name: FP.EXE
+  size: 28544
+  date: '1980-01-01T00:05:16'
+  crc: '0x47b25ada'
+- name: IBMBIO.COM
+  size: 1920
+  date: '1982-05-07T12:00:00'
+  crc: '0x05e63f82'
+- name: IBMDOS.COM
+  size: 6400
+  date: '1982-05-07T12:00:00'
+  crc: '0xd09fa41a'
+- name: SCOPY.EXE
+  size: 8851
+  date: '1983-12-07T09:00:00'
+  crc: '0x2383e959'

@@ -1,0 +1,126 @@
+filename: Chess Champion 2175 v1.02 (Es) (1992)(Oxford Softworks) [Strategy, Chess].zip
+tdc_id: '9261.0'
+parent_id: '9261.1'
+title:
+  box: Chess Champion 2175
+publisher: Oxford Softworks
+year: '1992'
+genre:
+- Strategy
+- Chess
+language: Spanish
+date:
+  added: '2020-06-20T06:50:46'
+  last_modified: '2020-06-20T06:50:46'
+version: '1.02'
+type: zip
+commands:
+  play: CHESS.EXE
+files:
+- name: BOOKDATA\
+  size: 0
+  date: '2020-06-19T12:55:12'
+- name: BOOKDATA\BOOK.BOK
+  size: 150958
+  date: '1992-01-01T00:00:00'
+  crc: '0x2ffc9fbd'
+- name: BOOKDATA\OPENINGS.BOK
+  size: 5596
+  date: '1992-01-01T00:00:00'
+  crc: '0x18b74f29'
+- name: BOOKDATA\USERBOOK.TXT
+  size: 202
+  date: '1992-01-01T00:00:00'
+  crc: '0x11826296'
+- name: CGA.BGI
+  size: 6332
+  date: '1992-01-01T00:00:00'
+  crc: '0x5f4c2b51'
+- name: CGAPIECE.SET
+  size: 9888
+  date: '1992-01-01T00:00:00'
+  crc: '0x6344ee29'
+- name: CHESS.EXE
+  size: 112112
+  date: '1992-01-17T00:02:00'
+  crc: '0xc373f1ef'
+- name: CHESS.MNU
+  size: 907
+  date: '1992-01-01T00:00:00'
+  crc: '0xddad742c'
+- name: CHESS.RSC
+  size: 15086
+  date: '1992-01-01T00:00:00'
+  crc: '0x484b2f08'
+- name: EGAPIECE.SET
+  size: 9888
+  date: '1992-01-01T00:00:00'
+  crc: '0xec2bab7f'
+- name: EGAVGA.BGI
+  size: 5554
+  date: '1992-01-01T00:00:00'
+  crc: '0xc1e759fe'
+- name: PIECES\
+  size: 0
+  date: '2020-06-19T12:56:02'
+- name: PIECES\CGA\
+  size: 0
+  date: '2020-06-19T12:55:50'
+- name: PIECES\CGA\CGAPIECE.LBM
+  size: 6406
+  date: '1992-01-01T00:00:00'
+  crc: '0xd9033d22'
+- name: PIECES\CGA\CLASSIC.LBM
+  size: 6650
+  date: '1992-01-01T00:00:00'
+  crc: '0xc6883e8d'
+- name: PIECES\EGA\
+  size: 0
+  date: '2020-06-19T12:56:02'
+- name: PIECES\EGA\CLASSIC.LBM
+  size: 14940
+  date: '1992-01-01T00:00:00'
+  crc: '0xd7ee7d6d'
+- name: PIECES\EGA\EGA2.LBM
+  size: 14044
+  date: '1992-01-01T00:00:00'
+  crc: '0xefe02a67'
+- name: PIECES\EGA\EGAPIECE.LBM
+  size: 13384
+  date: '1992-01-01T00:00:00'
+  crc: '0xb77345d1'
+- name: PIECES\EGA\ST_AMIGA.LBM
+  size: 14646
+  date: '1992-01-01T00:00:00'
+  crc: '0xaa92e569'
+- name: PIECES\VGA\
+  size: 0
+  date: '2020-06-19T12:56:22'
+- name: PIECES\VGA\CLASSIC.LBM
+  size: 14940
+  date: '1992-01-01T00:00:00'
+  crc: '0x3cd9de6f'
+- name: PIECES\VGA\MAC.LBM
+  size: 25360
+  date: '1992-01-01T00:00:00'
+  crc: '0x843a8b61'
+- name: PIECES\VGA\ST_AMIGA.LBM
+  size: 15194
+  date: '1992-01-01T00:00:00'
+  crc: '0x94726392'
+- name: PIECES\VGA\VGA2.LBM
+  size: 24174
+  date: '1992-01-01T00:00:00'
+  crc: '0x24de7032'
+- name: PIECES\VGA\VGAPIECE.LBM
+  size: 25426
+  date: '1992-01-01T00:00:00'
+  crc: '0x932c4249'
+- name: VGA256.BGI
+  size: 3289
+  date: '1992-01-01T00:00:00'
+  crc: '0xeb8c7290'
+- name: VGAPIECE.SET
+  size: 19008
+  date: '1992-01-01T00:00:00'
+  crc: '0xe82d1cc5'

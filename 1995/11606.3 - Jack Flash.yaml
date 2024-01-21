@@ -1,0 +1,40 @@
+filename: Jack Flash [SWR] (1995)(MVP Software) [Action].zip
+tdc_id: '11606.3'
+title:
+  screen: Jack Flash
+publisher: MVP Software
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T08:55:58'
+  last_modified: '2019-03-02T08:55:58'
+type: zip
+tags:
+- SharewareRegistered
+commands:
+  play: JACK.EXE
+references:
+  dosid: DOS02863
+  exodos: Jack Flash (1994).zip
+files:
+- name: DEMO.DAT
+  size: 375920
+  date: '2014-03-30T16:08:08'
+  crc: '0x16a3618e'
+- name: JACK.CNF
+  size: 23
+  date: '2014-03-30T16:08:28'
+  crc: '0xa3ca953f'
+- name: JACK.CNT
+  size: 3072864
+  date: '2014-03-30T16:08:06'
+  crc: '0xd98d6b8c'
+- name: JACK.EXE
+  size: 165037
+  date: '2014-03-30T16:07:42'
+  crc: '0x85685ad3'
+- name: JACK.TOP
+  size: 2620
+  date: '2014-03-30T16:08:58'
+  crc: '0x9a271892'

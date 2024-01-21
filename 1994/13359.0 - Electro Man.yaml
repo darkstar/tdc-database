@@ -1,0 +1,107 @@
+filename: Electro Man r940417 [SW] (1994)(Epic MegaGames, Inc.) [Action].zip
+tdc_id: '13359.0'
+title:
+  box: Electroman
+  screen: Electro Man
+publisher: Epic MegaGames, Inc.
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2011-10-24T22:29:42'
+  last_modified: '2023-12-21T11:41:46'
+release: '940417'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: ELECTRO.BAT
+  setup: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/752/electroman/
+files:
+- name: CATALOG.EXE
+  size: 121162
+  date: '1994-05-23T00:00:00'
+  crc: '0xd6e5a323'
+- name: CONFIG.DTA
+  size: 2
+  date: '1994-09-10T00:00:00'
+  crc: '0x9b00ccfb'
+- name: ELECTRO.BAT
+  size: 35
+  date: '1993-10-04T00:00:00'
+  crc: '0x839b1667'
+- name: EM-MENU.DAT
+  size: 14470
+  date: '1994-02-01T00:00:00'
+  crc: '0x276f2d66'
+- name: EM.DAT
+  size: 326016
+  date: '1994-04-17T00:00:00'
+  crc: '0x80c84d78'
+- name: EMFILE00.BAT
+  size: 48
+  date: '1993-10-04T00:00:00'
+  crc: '0x65cf7fc4'
+- name: EMFILE01.EXE
+  size: 9104
+  date: '1993-10-04T00:00:00'
+  crc: '0xb3db1753'
+- name: EMFILE02.BAT
+  size: 11
+  date: '1994-09-14T00:00:00'
+  crc: '0x8abd30e0'
+- name: EPIC.ANS
+  size: 3416
+  date: '1994-02-28T00:00:00'
+  crc: '0x66df5528'
+- name: EPIC.DAT
+  size: 10238
+  date: '1993-10-04T00:00:00'
+  crc: '0xb6239c80'
+- name: FILE_ID.DIZ
+  size: 400
+  date: '1994-02-01T00:00:00'
+  crc: '0x88afdf10'
+- name: HELPME.DOC
+  size: 6314
+  date: '1994-02-01T00:00:00'
+  crc: '0xff322950'
+- name: HELPME.EXE
+  size: 6288
+  date: '1994-01-30T00:00:00'
+  crc: '0xfbe26be6'
+- name: LICENSE.DOC
+  size: 7051
+  date: '1994-03-07T00:00:00'
+  crc: '0xc271fdbc'
+- name: ODER_UK.DOC
+  size: 3818
+  date: '1994-03-07T00:00:00'
+  crc: '0xde825399'
+- name: ORDER.DOC
+  size: 3874
+  date: '1994-03-07T00:00:00'
+  crc: '0x270185db'
+- name: ORDER.EXE
+  size: 20157
+  date: '1993-10-27T00:00:00'
+  crc: '0x244835fb'
+- name: ORDER.TFP
+  size: 299850
+  date: '1980-04-20T00:00:00'
+  crc: '0x74c9b4f8'
+- name: SETUP.EXE
+  size: 12048
+  date: '1993-10-01T00:00:00'
+  crc: '0xfaa65419'
+- name: SYSOP.DOC
+  size: 5759
+  date: '1994-03-28T00:00:00'
+  crc: '0xc82a17b8'
+- name: VENDOR.DOC
+  size: 3065
+  date: '1994-02-01T00:00:00'
+  crc: '0xbb090741'

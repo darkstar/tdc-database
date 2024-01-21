@@ -1,0 +1,54 @@
+filename: Fun School 3 - Over 7s (Installer) (1997)(Database Educational Software) [Educational].zip
+tdc_id: '13855.1'
+parent_id: '13855.2'
+title:
+  box: Fun School 3 - Over 7s
+publisher: Database Educational Software
+year: '1997'
+genre: Educational
+language: English
+date:
+  added: '2020-08-17T16:08:02'
+  last_modified: '2020-08-17T16:08:02'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+notes: Fun School 3 Ages 5-7 [b1] (1991)(Database Educational Software) [Educational].zip
+files:
+- name: DBASE.SHR
+  size: 66335
+  date: '1995-06-13T06:43:04'
+  crc: '0x3a598ef0'
+- name: INSTALL.CFG
+  size: 1226
+  date: '1995-06-13T06:54:54'
+  crc: '0x9474c36b'
+- name: INSTALL.EXE
+  size: 56934
+  date: '1994-03-17T21:05:00'
+  crc: '0x14417964'
+- name: MAIN.SHR
+  size: 114494
+  date: '1997-02-07T11:23:30'
+  crc: '0x0e8fb053'
+- name: PMATH.SHR
+  size: 74104
+  date: '1995-06-13T06:43:30'
+  crc: '0x3d5508f2'
+- name: RDRAW.SHR
+  size: 69078
+  date: '1995-06-13T06:44:22'
+  crc: '0x80c29dfb'
+- name: SENT.SHR
+  size: 69352
+  date: '1995-06-13T06:43:48'
+  crc: '0x7a59b6f6'
+- name: TREASURE.SHR
+  size: 137722
+  date: '1995-06-13T06:45:08'
+  crc: '0x040dc145'
+- name: WORD.SHR
+  size: 86237
+  date: '1995-06-13T06:45:42'
+  crc: '0x4b554178'

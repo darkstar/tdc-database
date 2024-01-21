@@ -1,0 +1,35 @@
+filename: JetFighter II- Advanced Tactical Fighter v1.1B (Installer) [a1] (1995)(Velocity Inc.) [Simulation].zip
+tdc_id: '6762.8'
+title:
+  box: 'JetFighter II: Advanced Tactical Fighter'
+publisher: Velocity Inc.
+year: '1995'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:48:00'
+  last_modified: '2019-03-01T18:48:00'
+version: 1.1B
+type: zip
+tags:
+- Alternate: 1
+installer: true
+commands:
+  play: install.exe
+files:
+- name: _f2.shr
+  size: 961682
+  date: '1996-12-24T23:32:00'
+  crc: '0xf57da7d9'
+- name: install.cfg
+  size: 1171
+  date: '1996-12-24T23:32:00'
+  crc: '0x71e3da39'
+- name: install.exe
+  size: 57238
+  date: '1996-12-24T23:32:00'
+  crc: '0xc053fd5d'
+- name: notes.txt
+  size: 29517
+  date: '1996-12-24T23:32:00'
+  crc: '0xc0f5e600'

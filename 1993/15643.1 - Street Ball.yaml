@@ -1,0 +1,26 @@
+filename: Street Ball (Installer) (1993)(Froggman Software) [Action].zip
+tdc_id: '15643.1'
+title:
+  screen: Street Ball
+publisher: Froggman Software
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T21:09:02'
+  last_modified: '2019-03-01T21:09:02'
+type: zip
+installer: true
+files:
+- name: CRC.EXE
+  size: 3712
+  date: '1991-02-25T13:20:40'
+  crc: '0xd7878629'
+- name: INSTALL.EXE
+  size: 257294
+  date: '1993-06-15T14:43:46'
+  crc: '0x1f26ac2f'
+- name: SAFE.EXE
+  size: 5098
+  date: '1993-06-16T09:44:04'
+  crc: '0x28b49782'

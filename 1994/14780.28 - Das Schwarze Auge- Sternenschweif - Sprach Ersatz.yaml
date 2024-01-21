@@ -1,0 +1,64 @@
+filename: Das Schwarze Auge- Sternenschweif v1.02 - Sprach Ersatz (Installer) (De) (1994)(Attic Entertainment Software GmbH) [Role-Playing (RPG), Addon].zip
+tdc_id: '14780.28'
+parent_id: '14780.27'
+title:
+  box: 'Das Schwarze Auge: Sternenschweif - Sprach Ersatz'
+  qualifier: Installer
+publisher: Attic Entertainment Software GmbH
+year: '1994'
+genre:
+- Role-Playing (RPG)
+- Addon
+language: German
+date:
+  added: '2023-08-01T09:05:44'
+  last_modified: '2023-08-01T09:05:44'
+version: '1.02'
+type: zip
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/3438/realms-of-arkania-star-trail/
+files:
+- name: INSTALL.AIF
+  size: 45522
+  date: '1994-05-23T18:44:46'
+  crc: '0xf6185680'
+- name: INSTALL.EXE
+  size: 34895
+  date: '1994-11-08T15:32:08'
+  crc: '0x135f0816'
+- name: PATCH.EXE
+  size: 45450
+  date: '2027-11-30T00:00:00'
+  crc: '0xb36268dc'
+- name: PATCH_02.DAT
+  size: 163083
+  date: '1994-11-14T13:58:06'
+  crc: '0xf2bb728e'
+- name: PKUNZIP.EXE
+  size: 28959
+  date: '1993-02-01T02:04:16'
+  crc: '0xeeaac5ea'
+- name: SDAT.S01
+  size: 1457152
+  date: '1994-11-07T16:05:28'
+  crc: '0x7f79ec19'
+- name: SDAT.S02
+  size: 1457152
+  date: '1994-11-07T16:05:52'
+  crc: '0x7fb6450b'
+- name: SDAT.S03
+  size: 1457152
+  date: '1994-11-07T16:06:18'
+  crc: '0xe919cf9e'
+- name: SDAT.S04
+  size: 329509
+  date: '1994-11-07T16:06:24'
+  crc: '0x53f6293b'
+- name: SPEECH.FN
+  size: 3374
+  date: '1994-11-07T14:24:44'
+  crc: '0x4928f5da'

@@ -1,0 +1,28 @@
+filename: Cycle Jump (198x)(John Doty) [Action].zip
+tdc_id: '1846.0'
+title:
+  screen: Cycle Jump
+publisher: John Doty
+year: 198x
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:29:26'
+  last_modified: '2019-03-01T18:29:26'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: CYCLE.BAS
+  size: 6759
+  date: '1980-01-01T00:17:54'
+  crc: '0x46cf8962'
+- name: GO.BAT
+  size: 21
+  date: '2019-01-12T21:29:04'
+  crc: '0xd9920ed4'
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1988-10-05T02:00:08'
+  crc: '0x2a44af39'

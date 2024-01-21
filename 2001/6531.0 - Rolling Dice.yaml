@@ -1,0 +1,32 @@
+filename: Rolling Dice (2001)(Nukem Enterprises) [Simulation].zip
+tdc_id: '6531.0'
+title:
+  screen: Rolling Dice
+publisher: Nukem Enterprises
+year: '2001'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-02T10:55:44'
+  last_modified: '2019-03-02T10:55:44'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: DICE.BAS
+  size: 1824
+  date: '2005-12-29T11:10:04'
+  crc: '0xd55fe15b'
+- name: GO.BAT
+  size: 24
+  date: '2018-12-13T22:08:42'
+  crc: '0xc9f4a662'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: README.TXT
+  size: 483
+  date: '2006-08-21T19:08:30'
+  crc: '0xdeb366c3'

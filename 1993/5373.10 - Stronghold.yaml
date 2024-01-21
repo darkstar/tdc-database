@@ -1,0 +1,46 @@
+filename: Stronghold v1.00 (Installer) (De) (1993)(Strategic Simulations, Inc.) [Role-Playing (RPG), Strategy].zip
+tdc_id: '5373.10'
+parent_id: '5373.9'
+title:
+  box: Stronghold
+  qualifier: Installer
+publisher: Strategic Simulations, Inc.
+year: '1993'
+genre:
+- Role-Playing (RPG)
+- Strategy
+language: German
+date:
+  added: '2023-07-16T10:26:27'
+  last_modified: '2023-07-16T10:26:27'
+version: '1.00'
+type: zip
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: BOOT.NFO
+  size: 31
+  date: '1993-07-01T00:19:50'
+  crc: '0x01ffde7e'
+- name: DATA1.ARJ
+  size: 1389462
+  date: '1993-11-08T11:48:24'
+  crc: '0x1654c63d'
+- name: DATA2.ARJ
+  size: 1195706
+  date: '1993-11-08T11:51:10'
+  crc: '0x3cfe0004'
+- name: DEARJ.EXE
+  size: 39441
+  date: '1993-03-19T16:18:52'
+  crc: '0x284b68d2'
+- name: INSTALL.EXE
+  size: 26522
+  date: '1993-11-02T16:15:14'
+  crc: '0xd9cb2f7f'
+- name: INSTALL.NFO
+  size: 108
+  date: '1993-07-16T13:33:42'
+  crc: '0x2209f6ba'

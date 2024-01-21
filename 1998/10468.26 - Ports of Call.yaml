@@ -1,0 +1,85 @@
+filename: Ports of Call v2.02 [SW] (1998)(Rolf-Dieter Klein, Martin Ulrich) [Simulation].zip
+tdc_id: '10468.26'
+title:
+  screen: Ports of Call
+publisher: Rolf-Dieter Klein, Martin Ulrich
+year: '1998'
+genre: Simulation
+language: English
+date:
+  added: '2023-10-24T15:01:03'
+  last_modified: '2023-10-24T15:01:03'
+version: '2.02'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: POCUS.EXE
+references:
+  mobygames: https://www.mobygames.com/game/7390/ports-of-call/
+files:
+- name: IB1VGA.DAT
+  size: 293177
+  date: '1994-04-13T14:57:48'
+  crc: '0x1a90fc61'
+- name: IB2VGA.DAT
+  size: 767662
+  date: '1994-04-13T14:57:48'
+  crc: '0x3e49e1bd'
+- name: LIES.MIC
+  size: 1792
+  date: '1997-12-27T13:12:00'
+  crc: '0x7a659be3'
+- name: MANDT.DOC
+  size: 30772
+  date: '1994-04-20T07:05:58'
+  crc: '0xb28d6c5f'
+- name: MANDT.TXT
+  size: 27074
+  date: '1994-04-20T07:08:06'
+  crc: '0x96e7769d'
+- name: MANUS.DOC
+  size: 25633
+  date: '1994-04-20T07:06:44'
+  crc: '0x1e106a94'
+- name: MANUS.TXT
+  size: 22092
+  date: '1994-04-20T07:08:04'
+  crc: '0x7087506e'
+- name: POCUS.EXE
+  size: 111559
+  date: '1998-09-25T20:03:38'
+  crc: '0x4f0c8119'
+- name: README
+  size: 1536
+  date: '1997-12-27T13:12:20'
+  crc: '0x7a4855ea'
+- name: REGISTDT.TXT
+  size: 896
+  date: '1997-12-27T13:11:30'
+  crc: '0xdfcfd5a6'
+- name: REGISTER.TXT
+  size: 1024
+  date: '1997-12-27T13:10:36'
+  crc: '0xbe727f57'
+- name: SOUNDS.DAT
+  size: 172232
+  date: '1990-04-20T10:18:22'
+  crc: '0xa76d5894'
+- name: SYS13.FNT
+  size: 3676
+  date: '1990-05-02T22:32:12'
+  crc: '0x1d19282a'
+- name: SYS7B.FNT
+  size: 2728
+  date: '1990-05-05T21:33:42'
+  crc: '0x9241493e'
+- name: SYS8.FNT
+  size: 2632
+  date: '1987-10-12T12:19:34'
+  crc: '0x6e864590'
+- name: SYS8B.FNT
+  size: 2804
+  date: '1990-05-05T21:33:56'
+  crc: '0xbc8f1940'

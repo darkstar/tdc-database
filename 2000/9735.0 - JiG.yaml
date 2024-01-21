@@ -1,0 +1,97 @@
+filename: JiG [FW] (2000)(Jessac Mathias Baird) [Strategy, Puzzle].zip
+tdc_id: '9735.0'
+title:
+  screen: JiG
+publisher: Jessac Mathias Baird
+year: '2000'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-03-02T10:54:50'
+  last_modified: '2019-03-02T10:54:50'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: JIG.EXE
+files:
+- name: DATA\
+  size: 0
+  date: '2000-11-13T23:57:56'
+- name: DATA\LEVEL1.DAT
+  size: 500
+  date: '2000-11-14T07:57:12'
+  crc: '0xcf3e5538'
+- name: DATA\LEVEL2.DAT
+  size: 500
+  date: '2000-11-14T06:24:36'
+  crc: '0x6ac93017'
+- name: DATA\LEVEL3.DAT
+  size: 500
+  date: '2000-11-14T06:25:14'
+  crc: '0xc08e17c2'
+- name: DATA\LEVEL4.DAT
+  size: 500
+  date: '2000-11-14T06:25:38'
+  crc: '0x0b959ef2'
+- name: FILELIST.DOC
+  size: 595
+  date: '2000-11-15T08:45:44'
+  crc: '0xe3baf312'
+- name: GFX\
+  size: 0
+  date: '2000-11-13T14:08:50'
+- name: GFX\INTRO.BSV
+  size: 64007
+  date: '2000-11-13T19:37:18'
+  crc: '0x1ceb72df'
+- name: GFX\INTRO.PAL
+  size: 1536
+  date: '2000-11-13T13:49:18'
+  crc: '0x22c0dd40'
+- name: GFX\JIG.FNT
+  size: 771
+  date: '2000-11-13T17:13:20'
+  crc: '0x2480bb35'
+- name: GFX\JIG.GFX
+  size: 2027
+  date: '2000-11-14T04:36:50'
+  crc: '0xe1ec31dd'
+- name: GFX\JIG.PAL
+  size: 1536
+  date: '2000-11-10T07:36:16'
+  crc: '0xc75c9044'
+- name: JIG.BAS
+  size: 23797
+  date: '2000-11-14T10:37:54'
+  crc: '0x4854fb66'
+- name: JIG.EXE
+  size: 65600
+  date: '2000-11-14T10:38:00'
+  crc: '0xc365571c'
+- name: README.TXT
+  size: 4211
+  date: '2000-11-14T09:16:04'
+  crc: '0xba787a1b'
+- name: SOURCE\
+  size: 0
+  date: '2000-11-14T06:52:54'
+- name: SOURCE\GSLIB.BI
+  size: 589
+  date: '2000-11-14T06:37:20'
+  crc: '0xd979dd04'
+- name: SOURCE\GSLIB.LIB
+  size: 3637
+  date: '2000-11-14T06:35:40'
+  crc: '0x3f484354'
+- name: SOURCE\GSLIB.QLB
+  size: 6627
+  date: '2000-11-14T06:35:42'
+  crc: '0x3de2a1fc'
+- name: SOURCE\JIG.BAS
+  size: 24042
+  date: '2000-11-15T08:44:52'
+  crc: '0x3755c366'

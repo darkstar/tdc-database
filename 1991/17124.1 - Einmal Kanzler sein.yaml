@@ -1,0 +1,39 @@
+filename: Einmal Kanzler sein (Installer) (De) (1991)(Computerpartner T+S GmbH) [Educational, Trivia].zip
+tdc_id: '17124.1'
+parent_id: '17124.2'
+title:
+  box: Einmal Kanzler sein
+publisher: Computerpartner T+S GmbH
+year: '1991'
+genre:
+- Educational
+- Trivia
+language: German
+date:
+  added: '2022-12-05T14:25:53'
+  last_modified: '2022-12-05T14:25:53'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 52880
+  date: '1991-09-20T20:36:44'
+  crc: '0x4ca39b15'
+- name: KANZLER.CFG
+  size: 11502
+  date: '1995-01-19T10:00:58'
+  crc: '0xb90555c3'
+- name: KANZLER1.EXE
+  size: 303120
+  date: '1991-09-20T01:34:34'
+  crc: '0x25801b38'
+- name: KANZLER2.EXE
+  size: 714470
+  date: '1991-09-20T01:34:34'
+  crc: '0xf39cfdb5'
+- name: KANZLERX.EXE
+  size: 72865
+  date: '1991-09-20T01:34:34'
+  crc: '0x31257477'

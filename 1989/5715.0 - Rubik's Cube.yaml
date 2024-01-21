@@ -1,0 +1,23 @@
+filename: Rubik's Cube (1989)(Calvin Culver) [Simulation].zip
+tdc_id: '5715.0'
+title:
+  screen: Rubik's Cube
+publisher: Calvin Culver
+year: '1989'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:28:50'
+  last_modified: '2019-03-01T18:28:50'
+type: zip
+commands:
+  play: RUBIK10.EXE
+files:
+- name: RUBIK.DOC
+  size: 24320
+  date: '1990-01-23T11:20:34'
+  crc: '0x360d13a2'
+- name: RUBIK10.EXE
+  size: 126464
+  date: '1989-12-03T18:28:52'
+  crc: '0xa3072d40'

@@ -1,0 +1,36 @@
+filename: Lunar Lander (1995)(Chris Sequeira) [Action].zip
+tdc_id: '3621.0'
+title:
+  screen: Lunar Lander
+publisher: Chris Sequeira
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T08:56:54'
+  last_modified: '2019-03-02T08:56:54'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: DEFAULT.PAL
+  size: 1543
+  date: '1993-03-15T03:59:14'
+  crc: '0x0e197ae8'
+- name: GO.BAT
+  size: 26
+  date: '2018-03-16T19:51:44'
+  crc: '0xdba81079'
+- name: LANDER.BAS
+  size: 33858
+  date: '1996-03-26T09:39:54'
+  crc: '0xe3463fa0'
+- name: LANDER.SPR
+  size: 607
+  date: '1995-12-13T20:36:20'
+  crc: '0x0b1ad428'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'

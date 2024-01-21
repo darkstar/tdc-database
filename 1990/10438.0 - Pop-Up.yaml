@@ -1,0 +1,74 @@
+filename: Pop-Up (1990)(Infogrames Entertainment SA) [Action].zip
+tdc_id: '10438.0'
+title:
+  box: Pop-Up
+publisher: Infogrames Entertainment SA
+year: '1990'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:33:36'
+  last_modified: '2019-03-01T18:33:36'
+type: zip
+commands:
+  play: tatou.com
+references:
+  dosid: DOS05670
+  exodos: Cool Ball (1990).zip
+files:
+- name: cga.bgi
+  size: 6253
+  date: '1988-11-15T02:00:00'
+  crc: '0x17cbdd92'
+- name: config.tat
+  size: 181
+  date: '2000-03-27T18:03:42'
+  crc: '0x478591c4'
+- name: fdcgt.cc1
+  size: 33690
+  date: '1990-03-23T15:56:14'
+  crc: '0x058e8251'
+- name: fdega.cc1
+  size: 60940
+  date: '1990-03-23T15:34:28'
+  crc: '0x46e60f02'
+- name: infotabl.def
+  size: 19000
+  date: '1990-03-20T17:48:34'
+  crc: '0x1b837ed7'
+- name: popup.px1
+  size: 74062
+  date: '2000-03-27T15:29:04'
+  crc: '0xf973211c'
+- name: popup.px2
+  size: 53566
+  date: '2000-03-27T15:37:18'
+  crc: '0x4a48a97e'
+- name: popup.pxi
+  size: 53646
+  date: '2000-03-27T15:37:32'
+  crc: '0x31ccfdfe'
+- name: spcgx.cc1
+  size: 32286
+  date: '1990-03-23T16:00:36'
+  crc: '0x374d5ed5'
+- name: spega.cc1
+  size: 41958
+  date: '1990-03-23T15:39:20'
+  crc: '0x6b51c826'
+- name: tatou.cc1
+  size: 17741
+  date: '1990-03-22T11:37:26'
+  crc: '0x35bf171f'
+- name: tatou.com
+  size: 6751
+  date: '1990-03-23T14:38:46'
+  crc: '0x5c638df2'
+- name: tatouc.cc1
+  size: 8698
+  date: '1990-03-23T16:01:24'
+  crc: '0xe70e37c2'
+- name: tatoue.cc1
+  size: 17913
+  date: '1990-03-23T15:40:50'
+  crc: '0x0eaaaf51'

@@ -1,0 +1,31 @@
+filename: Super Minesweeper (2005)(Philipp Bank) [Strategy].zip
+tdc_id: '901.0'
+title:
+  screen: Super Minesweeper
+publisher: Philipp Bank
+year: '2005'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:57:08'
+  last_modified: '2019-03-02T10:57:08'
+type: zip
+commands:
+  play: MINES.EXE
+files:
+- name: EGAVGA.BGI
+  size: 5554
+  date: '1991-09-16T02:01:00'
+  crc: '0x116c5498'
+- name: MINES.CPP
+  size: 22573
+  date: '2005-02-26T21:27:16'
+  crc: '0xc4d3556b'
+- name: MINES.EXE
+  size: 81187
+  date: '2005-02-26T21:27:42'
+  crc: '0xa3637074'
+- name: MINES.HSC
+  size: 187
+  date: '2005-03-05T13:12:12'
+  crc: '0x4bac35c0'

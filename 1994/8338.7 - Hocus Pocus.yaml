@@ -1,0 +1,31 @@
+filename: Hocus Pocus 1.0 to 1.1 upgrade patch (Installer) [SWR] (1994)(Apogee Software, Ltd.) [Action, Addon].zip
+tdc_id: '8338.7'
+title:
+  screen: Hocus Pocus
+publisher: Apogee Software, Ltd.
+year: '1994'
+genre:
+- Action
+- Addon
+language: English
+date:
+  added: '2009-09-03T00:05:28'
+  last_modified: '2009-09-03T00:05:28'
+type: zip
+tags:
+- SharewareRegistered
+installer: true
+patch: true
+files:
+- name: FILE_ID.DIZ
+  size: 364
+  date: '1994-10-01T13:10:00'
+  crc: '0x72e231e0'
+- name: HP11RPT.SHR
+  size: 110845
+  date: '1994-10-01T13:10:00'
+  crc: '0xf66c5961'
+- name: INSTALL.EXE
+  size: 142669
+  date: '1994-10-01T13:10:00'
+  crc: '0x64c2540a'

@@ -1,0 +1,57 @@
+filename: Captain Safety (En)(De)(Fr) (1995)(ISSA, INRS, AUVA) [Educational, Adventure].zip
+tdc_id: '3458.0'
+title:
+  screen: Captain Safety
+publisher: ISSA, INRS, AUVA
+year: '1995'
+genre:
+- Educational
+- Adventure
+language:
+- English
+- French
+- German
+date:
+  added: '2019-03-02T07:31:22'
+  last_modified: '2019-03-02T07:31:22'
+type: zip
+commands:
+  play: CS.EXE
+files:
+- name: CS.DAT
+  size: 44761
+  date: '2002-10-04T10:15:22'
+  crc: '0x3fdcb7ed'
+- name: CS.EXE
+  size: 199884
+  date: '2002-10-04T10:15:22'
+  crc: '0xc5fe686a'
+- name: CS.GFX\
+  size: 0
+  date: '1995-12-07T11:18:42'
+- name: CS.GFX\COLORS.COL
+  size: 776
+  date: '1995-01-10T12:14:56'
+  crc: '0x1d303fb6'
+- name: CS.GFX\GFX.GFX
+  size: 587216
+  date: '1995-12-07T05:47:30'
+  crc: '0xf239b5b2'
+- name: CS.SND\
+  size: 0
+  date: '1995-12-07T11:18:42'
+- name: CS.SND\CAPTAIN.SPJ
+  size: 53434
+  date: '1994-05-26T21:04:42'
+  crc: '0xc2db245f'
+- name: CS.SND\MAIN.SPJ
+  size: 55206
+  date: '1994-10-25T18:17:38'
+  crc: '0x1451a322'
+- name: INTRO.GFX\
+  size: 0
+  date: '1995-12-07T11:18:42'
+- name: INTRO.GFX\GFX.GFX
+  size: 44078
+  date: '1995-12-01T05:26:24'
+  crc: '0x6213eccb'

@@ -1,0 +1,76 @@
+filename: Corewars v3.0 (1990)(Daniel Sharpe) [Strategy].zip
+tdc_id: '1921.0'
+title:
+  screen: Corewars
+publisher: Daniel Sharpe
+year: '1990'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:32:10'
+  last_modified: '2019-03-01T18:32:10'
+version: '3.0'
+type: zip
+commands:
+  play: CW30.EXE
+files:
+- name: BIMP.RED
+  size: 112
+  date: '1990-07-05T20:11:14'
+  crc: '0xfb14cb7c'
+- name: CW30.DOC
+  size: 14384
+  date: '1990-07-19T21:04:38'
+  crc: '0x3792cd6b'
+- name: CW30.EXE
+  size: 38672
+  date: '1990-07-19T21:05:32'
+  crc: '0xe02a30c7'
+- name: DWARF5.RED
+  size: 139
+  date: '1989-05-31T01:07:40'
+  crc: '0xa989bdb6'
+- name: DWARF7.RED
+  size: 139
+  date: '1989-05-31T01:08:10'
+  crc: '0x9038c1b2'
+- name: IMP.RED
+  size: 46
+  date: '1989-05-08T01:07:52'
+  crc: '0xe79445eb'
+- name: IMPDWARF.RED
+  size: 424
+  date: '1989-05-31T01:09:16'
+  crc: '0x6925eeab'
+- name: IMPGUN2.RED
+  size: 85
+  date: '1990-07-17T22:05:06'
+  crc: '0xdf4dd8da'
+- name: IMPPIT.RED
+  size: 96
+  date: '1989-05-31T01:09:28'
+  crc: '0xef81ce63'
+- name: IMPPIT2.RED
+  size: 111
+  date: '1989-05-31T01:09:48'
+  crc: '0x1e018734'
+- name: POSTER
+  size: 952
+  date: '1990-08-19T13:13:24'
+  crc: '0x0269d3d5'
+- name: RANDOM.RED
+  size: 156
+  date: '1990-07-01T12:18:26'
+  crc: '0x629126f4'
+- name: README
+  size: 1053
+  date: '1990-07-22T17:59:18'
+  crc: '0x04e8159f'
+- name: SPLTEST.RED
+  size: 112
+  date: '1989-05-31T01:10:14'
+  crc: '0x7e627dbe'
+- name: TEST.RED
+  size: 193
+  date: '1990-07-05T20:33:06'
+  crc: '0xec15e3ce'

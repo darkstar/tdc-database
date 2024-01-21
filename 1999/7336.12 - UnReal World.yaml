@@ -1,0 +1,44 @@
+filename: UnReal World v2.30b (Installer) [SW] (1999)(The Three Relaxed Byte-Biters) [Role-Playing (RPG)].zip
+tdc_id: '7336.12'
+title:
+  screen: UnReal World
+publisher: The Three Relaxed Byte-Biters
+year: '1999'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2020-12-13T19:50:40'
+  last_modified: '2020-12-13T19:50:40'
+version: 2.30b
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 976
+  date: '1999-04-30T09:22:32'
+  crc: '0x687222fd'
+- name: INSTALL.EXE
+  size: 69222
+  date: '1999-04-26T23:06:52'
+  crc: '0x4d3f3a0e'
+- name: URWDATA1.DAT
+  size: 1306543
+  date: '1999-04-30T09:27:10'
+  crc: '0xc2402ed3'
+- name: URWDATA2.DAT
+  size: 1440607
+  date: '1999-04-30T09:27:14'
+  crc: '0xda427c2a'
+- name: URWDATA3.DAT
+  size: 1398494
+  date: '1999-04-30T09:27:20'
+  crc: '0xe60a2382'
+- name: URWDATA4.DAT
+  size: 1438676
+  date: '1999-04-30T09:27:24'
+  crc: '0x3d4e0227'

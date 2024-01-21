@@ -1,0 +1,32 @@
+filename: 3D Scroll (1997)(Anonymous) [Action].zip
+tdc_id: '6775.0'
+title:
+  screen: 3D Scroll
+publisher: Anonymous
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:23:40'
+  last_modified: '2019-03-02T10:23:40'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: 3DSCROLL.BAS
+  size: 5037
+  date: '1997-04-16T03:47:38'
+  crc: '0x48cfff56'
+- name: GO.BAT
+  size: 28
+  date: '2018-11-18T17:52:46'
+  crc: '0xdcf14bce'
+- name: PLAN.DAT
+  size: 2757
+  date: '1996-12-16T21:51:46'
+  crc: '0x4529160e'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'

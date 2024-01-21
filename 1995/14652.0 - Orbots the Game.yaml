@@ -1,0 +1,40 @@
+filename: Orbots the Game v1.10 (Installer) [SW] (1995)(Sunshower Systems) [Action].zip
+tdc_id: '14652.0'
+title:
+  screen: Orbots the Game
+publisher: Sunshower Systems
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2018-09-21T13:02:06'
+  last_modified: '2018-09-21T13:02:06'
+version: '1.10'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 453
+  date: '1995-12-15T01:10:00'
+  crc: '0xecfd8fb2'
+- name: INSTALL.EXE
+  size: 34905
+  date: '1995-12-15T01:10:00'
+  crc: '0x9bf7a8aa'
+- name: INSTALL.FIL
+  size: 3283
+  date: '1995-12-15T01:10:00'
+  crc: '0x93dd469d'
+- name: ORBOTS.1
+  size: 1297674
+  date: '1995-12-15T01:10:00'
+  crc: '0xbdbce5a2'
+- name: VENDINFO.DIZ
+  size: 13285
+  date: '1995-12-15T01:10:00'
+  crc: '0xa429e42b'

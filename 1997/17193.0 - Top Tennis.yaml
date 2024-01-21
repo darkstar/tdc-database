@@ -1,0 +1,60 @@
+filename: Top Tennis (1997)(The Game Factory) [Sports].zip
+tdc_id: '17193.0'
+title:
+  screen: Top Tennis
+publisher: The Game Factory
+year: '1997'
+genre: Sports
+language: English
+date:
+  added: '2022-12-26T09:08:24'
+  last_modified: '2022-12-26T09:08:24'
+type: zip
+commands:
+  play: TENNIS.EXE
+  setup: SETUP.EXE
+files:
+- name: DISCLAIM.TXT
+  size: 1660
+  date: '1997-04-10T20:33:14'
+  crc: '0x36a03c35'
+- name: DPMI16BI.OVL
+  size: 65376
+  date: '1993-03-09T08:01:00'
+  crc: '0x04c478a9'
+- name: README.TXT
+  size: 448
+  date: '1997-04-10T20:33:14'
+  crc: '0xe0375ee5'
+- name: RTM.EXE
+  size: 108846
+  date: '1993-03-09T08:01:00'
+  crc: '0x2e89f6e4'
+- name: SETUP.EXE
+  size: 66816
+  date: '1996-05-23T20:18:30'
+  crc: '0x78c1d7d2'
+- name: SETUP.SND
+  size: 13931
+  date: '1995-12-28T21:07:52'
+  crc: '0x80983842'
+- name: SOUND.CFG
+  size: 5
+  date: '2022-09-17T16:12:30'
+  crc: '0x60b203ac'
+- name: TENNIS.DAT
+  size: 5567073
+  date: '1997-03-28T13:54:42'
+  crc: '0xdf426335'
+- name: TENNIS.EXE
+  size: 167424
+  date: '1997-03-28T14:03:26'
+  crc: '0x1dc411ee'
+- name: TENNIS.OPT
+  size: 76
+  date: '1997-02-26T22:56:34'
+  crc: '0x5fb244d4'
+- name: TTENNIS.TXT
+  size: 9524
+  date: '1997-04-10T20:33:14'
+  crc: '0x57d0cd7d'

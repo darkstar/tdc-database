@@ -1,0 +1,51 @@
+filename: Guimo v2.1 [SW] (1997)(Cia do Software) [Action].zip
+tdc_id: '10968.2'
+title:
+  screen: Guimo
+publisher: Cia do Software
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2021-10-01T20:26:56'
+  last_modified: '2021-10-01T20:26:56'
+version: '2.1'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: GUIMO.EXE
+files:
+- name: CWSDPMI.EXE
+  size: 20217
+  date: '1996-12-21T22:43:12'
+  crc: '0xc6812d24'
+- name: GUIMO.DNA
+  size: 146560
+  date: '1997-04-08T12:36:58'
+  crc: '0xb6d8370f'
+- name: GUIMO.EXE
+  size: 537088
+  date: '1997-06-02T15:05:54'
+  crc: '0xd7f440c3'
+- name: GUIMO.JBC
+  size: 6139547
+  date: '1997-07-28T10:40:12'
+  crc: '0xdd45ef56'
+- name: GUIMO.SET
+  size: 152
+  date: '1997-07-28T10:40:12'
+  crc: '0x536d3078'
+- name: MANUAL.TXT
+  size: 17007
+  date: '1997-06-02T14:36:58'
+  crc: '0x3e8937ab'
+- name: MANUALP.TXT
+  size: 18117
+  date: '1997-06-02T14:36:10'
+  crc: '0x635a84fc'
+- name: SETTINGS.DAT
+  size: 21
+  date: '1997-07-28T10:40:12'
+  crc: '0xba7f2936'

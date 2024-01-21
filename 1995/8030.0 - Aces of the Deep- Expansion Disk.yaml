@@ -1,0 +1,72 @@
+filename: Aces of the Deep- Expansion Disk (Installer) [f1] (1995)(Sierra On-Line, Inc.) [Simulation, Addon].zip
+tdc_id: '8030.0'
+parent_id: '8030.1'
+title:
+  box: 'Aces of the Deep: Expansion Disk'
+  qualifier: Installer
+publisher: Sierra On-Line, Inc.
+year: '1995'
+genre:
+- Simulation
+- Addon
+language: English
+date:
+  added: '2019-03-02T07:27:34'
+  last_modified: '2023-07-06T13:52:11'
+type: zip
+tags:
+- Fixed: 1
+media: 1.44M
+installer: true
+files:
+- name: CHUNK\
+  size: 0
+  date: '1995-03-20T11:32:08'
+- name: CHUNK\DRIVE.EXE
+  size: 4300
+  date: '1995-02-22T12:47:10'
+  crc: '0x976acf87'
+- name: CHUNK\GK.COM
+  size: 8
+  date: '1995-02-21T09:26:42'
+  crc: '0xace57c48'
+- name: CHUNK\README.ENG
+  size: 3376
+  date: '1995-03-16T16:08:18'
+  crc: '0x83b78175'
+- name: CHUNK\README.FRN
+  size: 3508
+  date: '1995-03-17T08:04:18'
+  crc: '0xe19365c5'
+- name: CHUNK\README.GER
+  size: 3452
+  date: '1995-03-17T10:32:22'
+  crc: '0x9435fd63'
+- name: CHUNK\UNCHUNK.EXE
+  size: 15926
+  date: '1992-11-02T16:40:08'
+  crc: '0xceddc4ab'
+- name: ENG.BAT
+  size: 6919
+  date: '1995-03-17T13:36:24'
+  crc: '0x37ad7a5e'
+- name: FRN.BAT
+  size: 7837
+  date: '1995-03-17T13:20:50'
+  crc: '0xb05746da'
+- name: GER.BAT
+  size: 7610
+  date: '1995-03-17T13:20:34'
+  crc: '0x3b0105d5'
+- name: INSTALL.BAT
+  size: 2008
+  date: '1995-03-17T13:22:54'
+  crc: '0x105edb06'
+- name: INSTALL.BA_
+  size: 1772
+  date: '1995-03-17T13:22:54'
+  crc: '0x28d8f13a'
+- name: RESOURCE.000
+  size: 1367614
+  date: '1995-03-15T16:17:38'
+  crc: '0xf7df9b89'

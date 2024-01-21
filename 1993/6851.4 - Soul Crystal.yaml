@@ -1,0 +1,76 @@
+filename: Soul Crystal v1.5 (Installer) (De) (1993)(Topshots) [Adventure][!].zip
+tdc_id: '6851.4'
+parent_id: '6851.3'
+title:
+  box: Soul Crystal
+  qualifier: Installer
+publisher: Topshots
+year: '1993'
+genre: Adventure
+language: German
+date:
+  added: '2023-05-02T09:20:35'
+  last_modified: '2023-09-02T16:03:46'
+version: '1.5'
+type: zip
+tags:
+- KnownGood
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/797/soul-crystal/
+files:
+- name: ALL.PAK
+  size: 234662
+  date: '1992-02-07T05:44:00'
+  crc: '0x07365d72'
+- name: EOS1.PAK
+  size: 353198
+  date: '1992-02-05T21:24:34'
+  crc: '0x97dde179'
+- name: EOS2.PAK
+  size: 183738
+  date: '1992-02-04T01:54:48'
+  crc: '0xe96d2f06'
+- name: EV1.PAK
+  size: 313148
+  date: '1992-02-04T01:55:14'
+  crc: '0x8c098080'
+- name: EV2.PAK
+  size: 379414
+  date: '1992-02-04T01:54:58'
+  crc: '0xa5eb42cd'
+- name: EV3.PAK
+  size: 119282
+  date: '1992-02-04T01:55:04'
+  crc: '0x87534d50'
+- name: HOS1.PAK
+  size: 356475
+  date: '1992-02-04T01:55:36'
+  crc: '0xd1589161'
+- name: HOS2.PAK
+  size: 357779
+  date: '1992-02-04T01:55:46'
+  crc: '0x171d13e2'
+- name: INSTALL.CFG
+  size: 2056
+  date: '1993-04-23T13:52:34'
+  crc: '0x9692d183'
+- name: INSTALL.EXE
+  size: 24836
+  date: '1991-10-10T12:41:28'
+  crc: '0xab4772c2'
+- name: MUS.PAK
+  size: 21510
+  date: '1992-02-05T21:24:36'
+  crc: '0x2959b6bf'
+- name: VOS1.PAK
+  size: 397497
+  date: '1992-02-04T01:55:24'
+  crc: '0xbe8cf093'
+- name: VOS2.PAK
+  size: 161377
+  date: '1992-02-04T01:55:54'
+  crc: '0xee17eb9f'

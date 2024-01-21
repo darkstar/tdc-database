@@ -1,0 +1,50 @@
+filename: Impact [f1] (1988)(Audiogenic Software Ltd.) [Action].zip
+tdc_id: '11431.0'
+title:
+  box: Impact
+  screen: Impact!
+publisher: Audiogenic Software Ltd.
+year: '1988'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:26:18'
+  last_modified: '2023-07-16T17:56:57'
+type: zip
+tags:
+- Fixed: 1
+commands:
+  play: IMPACT.BAT
+files:
+- name: IMPACT.BAT
+  size: 312
+  date: '1980-01-01T05:14:24'
+  crc: '0xdb5e3ff1'
+- name: IMPACT.DAT
+  size: 23908
+  date: '1988-02-18T17:27:38'
+  crc: '0xe086566c'
+- name: IMPACT.HIS
+  size: 117
+  date: '1992-01-31T22:43:36'
+  crc: '0x4d8584be'
+- name: IMPACTC.EXE
+  size: 67861
+  date: '1990-08-30T19:54:30'
+  crc: '0x19973e07'
+- name: IMPACTE.DAT
+  size: 23946
+  date: '1991-08-26T22:31:10'
+  crc: '0x1df45b18'
+- name: IMPACTE.EXE
+  size: 115065
+  date: '1990-08-30T19:20:24'
+  crc: '0x5a0e71c3'
+- name: MOUSEOFF.COM
+  size: 30
+  date: '1980-01-01T00:00:00'
+  crc: '0x8f08e66f'
+- name: WHICH.COM
+  size: 18
+  date: '1988-11-03T19:26:02'
+  crc: '0x69f383b0'

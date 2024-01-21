@@ -1,0 +1,63 @@
+filename: Cannon Fodder (Fr) (1994)(Virgin Interactive Entertainment (Europe) Ltd.) [Action, Strategy].zip
+tdc_id: '8580.10'
+title:
+  box: Cannon Fodder
+publisher: Virgin Interactive Entertainment (Europe) Ltd.
+year: '1994'
+genre:
+- Action
+- Strategy
+language: French
+date:
+  added: '2023-10-05T15:48:47'
+  last_modified: '2023-10-05T15:48:47'
+type: zip
+commands:
+  play: CANNON.BAT
+references:
+  mobygames: https://www.mobygames.com/game/210/cannon-fodder/
+files:
+- name: AVME.INF
+  size: 126
+  date: '1980-01-01T12:00:00'
+  crc: '0x57cd0683'
+- name: C1.BIN
+  size: 1350605
+  date: '1980-01-01T12:00:00'
+  crc: '0x7f734493'
+- name: C2.BIN
+  size: 954878
+  date: '1980-01-01T12:00:00'
+  crc: '0x748b6209'
+- name: CANINTRO.COM
+  size: 1366
+  date: '1980-01-01T12:00:00'
+  crc: '0xa32cfdc1'
+- name: CANNON.BAT
+  size: 26
+  date: '1980-01-01T12:00:00'
+  crc: '0xacbef1f1'
+- name: CF_FRE.DAT
+  size: 1204290
+  date: '1980-01-01T12:00:00'
+  crc: '0x331885ae'
+- name: CF_FRE.EXE
+  size: 229912
+  date: '1980-01-01T12:00:00'
+  crc: '0xd009d102'
+- name: CF_FRE.EX_
+  size: 74849
+  date: '1980-01-01T12:00:00'
+  crc: '0xbf18e4ab'
+- name: INSTALL.EXE
+  size: 12325
+  date: '1980-01-01T12:00:00'
+  crc: '0x50e740c1'
+- name: READ.ME
+  size: 181
+  date: '1980-01-01T12:00:00'
+  crc: '0x5bfcf5d9'
+- name: README.TXT
+  size: 1291
+  date: '1980-01-01T12:00:00'
+  crc: '0x98db6416'

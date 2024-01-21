@@ -1,0 +1,40 @@
+filename: Aldis Kisten-Schiffspiel (De) (1999)(Andreas Meile) [Action].zip
+tdc_id: '8215.0'
+title:
+  screen: Aldis Kisten-Schiffspiel
+publisher: Andreas Meile
+year: '1999'
+genre: Action
+language: German
+date:
+  added: '2019-03-02T10:45:16'
+  last_modified: '2019-03-02T10:45:16'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 28
+  date: '2018-12-01T12:08:46'
+  crc: '0x9d63c8a0'
+- name: KISTE.BMP
+  size: 2718
+  date: '1999-06-06T00:33:48'
+  crc: '0xdc48dc66'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: SCHIFF.BMP
+  size: 5638
+  date: '1999-06-06T00:35:12'
+  crc: '0xe76fce0a'
+- name: SCHIFF_S.BAS
+  size: 9905
+  date: '1999-07-09T10:20:16'
+  crc: '0x4eb15b52'
+- name: TITELBLD.BMP
+  size: 65078
+  date: '1999-07-09T10:47:08'
+  crc: '0x729f9072'

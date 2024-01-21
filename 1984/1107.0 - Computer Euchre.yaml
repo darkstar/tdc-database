@@ -1,0 +1,41 @@
+filename: Computer Euchre (1984)(Howard Neff) [Strategy, Cards].zip
+tdc_id: '1107.0'
+title:
+  screen: Computer Euchre
+publisher: Howard Neff
+year: '1984'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:24:02'
+  last_modified: '2019-03-01T18:24:02'
+type: zip
+commands:
+  play: EUCHRE.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: EUCHRE.BAS
+  size: 22784
+  date: '1984-03-03T15:39:36'
+  crc: '0xd6900e58'
+- name: EUCHRE.BAT
+  size: 16
+  date: '2014-12-19T01:17:22'
+  crc: '0xd47554bb'
+- name: EUCHRE.DOC
+  size: 3712
+  date: '1984-03-03T15:39:36'
+  crc: '0x4b06045c'
+- name: EUCHRE.INS
+  size: 4864
+  date: '1984-03-03T15:39:36'
+  crc: '0xfe0b6981'
+- name: EUCHRE.SRC
+  size: 36352
+  date: '1984-03-03T15:39:36'
+  crc: '0x85cc8d50'

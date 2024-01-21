@@ -1,0 +1,46 @@
+filename: Charly the Clown v1.20 (Installer) (En)(De) [SW] (1995)(White Magic) [Action].zip
+tdc_id: '9318.5'
+title:
+  screen: Charly the Clown
+publisher: White Magic
+year: '1995'
+genre: Action
+language:
+- English
+- German
+date:
+  added: '2018-09-21T13:01:18'
+  last_modified: '2018-09-21T13:01:18'
+version: '1.20'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: CCLEVEL.SH1
+  size: 225549
+  date: '1996-07-02T13:02:06'
+  crc: '0xc3415a36'
+- name: CCMAIN.SH1
+  size: 273429
+  date: '1996-08-05T20:08:44'
+  crc: '0x85c269f1'
+- name: CCSPRITE.SH1
+  size: 1457664
+  date: '1996-07-02T13:01:22'
+  crc: '0x2eb3052b'
+- name: CCSPRITE.SH2
+  size: 825471
+  date: '1996-07-02T13:01:22'
+  crc: '0x8d900678'
+- name: FILE_ID.DIZ
+  size: 496
+  date: '1996-07-02T13:05:02'
+  crc: '0x4c79bafb'
+- name: INSTALL.EXE
+  size: 11101
+  date: '1995-12-22T19:02:46'
+  crc: '0x64021aa5'

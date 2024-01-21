@@ -1,0 +1,30 @@
+filename: Triangle Man (2002)(Anonymous) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '16909.0'
+title:
+  screen: Triangle Man
+publisher: Anonymous
+year: '2002'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-02T10:56:18'
+  last_modified: '2019-03-02T10:56:18'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 23
+  date: '2018-11-29T17:44:44'
+  crc: '0x57c5a8ac'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: RPG.BAS
+  size: 64364
+  date: '2018-03-10T15:10:46'
+  crc: '0xa59fbc3e'

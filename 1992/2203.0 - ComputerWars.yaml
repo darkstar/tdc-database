@@ -1,0 +1,46 @@
+filename: ComputerWars (1992)(Scott Litvinoff and Wei Zhong) [Strategy].zip
+tdc_id: '2203.0'
+title:
+  screen: ComputerWars
+publisher: Scott Litvinoff and Wei Zhong
+year: '1992'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:41:56'
+  last_modified: '2019-03-01T18:41:56'
+type: zip
+commands:
+  play: COMWARS.EXE
+references:
+  dosid: DOS06786
+  exodos: ComputerWars (1992).zip
+files:
+- name: COMWARS.EXE
+  size: 36880
+  date: '1992-03-09T21:58:44'
+  crc: '0x943043ca'
+- name: DESC.SDI
+  size: 166
+  date: '1992-03-09T23:30:14'
+  crc: '0x46aa4aed'
+- name: EGAVGA.BGI
+  size: 5363
+  date: '1989-05-02T05:50:00'
+  crc: '0x06d36962'
+- name: PACKING.LST
+  size: 532
+  date: '1992-03-09T23:53:20'
+  crc: '0x4f31af90'
+- name: README.DOC
+  size: 4262
+  date: '1992-03-09T23:50:46'
+  crc: '0x30994388'
+- name: SANS.CHR
+  size: 5438
+  date: '1989-05-02T05:50:00'
+  crc: '0x06f847c6'
+- name: TRIP.CHR
+  size: 16677
+  date: '1990-10-23T06:00:00'
+  crc: '0xba867503'

@@ -1,0 +1,28 @@
+filename: Cube (1991)(Doug Cox) [Simulation, Puzzle].zip
+tdc_id: '9437.0'
+title:
+  screen: Cube
+publisher: Doug Cox
+year: '1991'
+genre:
+- Simulation
+- Puzzle
+language: English
+date:
+  added: '2019-03-01T18:35:28'
+  last_modified: '2019-03-01T18:35:28'
+type: zip
+commands:
+  play: CUBE.COM
+references:
+  dosid: DOS06791
+  exodos: Cube (1991).zip
+files:
+- name: CUBE.COM
+  size: 2139
+  date: '1991-03-14T09:18:34'
+  crc: '0xac4cf2db'
+- name: CUBE.DOC
+  size: 859
+  date: '1991-03-02T19:37:28'
+  crc: '0x7df60d6f'

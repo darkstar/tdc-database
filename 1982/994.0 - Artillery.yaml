@@ -1,0 +1,32 @@
+filename: Artillery (1982)(Joe Lipska, Portland IBM PC Club) [Strategy, Action].zip
+tdc_id: '994.0'
+title:
+  box: Artillery
+publisher: Joe Lipska, Portland IBM PC Club
+year: '1982'
+genre:
+- Strategy
+- Action
+language: English
+date:
+  added: '2019-03-01T18:22:56'
+  last_modified: '2019-03-01T18:22:56'
+type: zip
+commands:
+  play: ARTILL.BAT
+references:
+  dosid: DOS06702
+  exodos: Artillery (1982).zip
+files:
+- name: ARTILL.BAS
+  size: 7680
+  date: '1984-05-08T12:00:00'
+  crc: '0xd11b804c'
+- name: ARTILL.BAT
+  size: 16
+  date: '1980-01-01T00:00:00'
+  crc: '0x48a11b22'
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'

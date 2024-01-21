@@ -1,0 +1,105 @@
+filename: Dungeon Quest (1985)(Bill Chelmowski) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '1182.0'
+title:
+  screen: Dungeon Quest
+publisher: Bill Chelmowski
+year: '1985'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:24:24'
+  last_modified: '2019-03-01T18:24:24'
+type: zip
+media: Download
+commands:
+  play: START.BAT
+references:
+  dosid: DOS01933
+  exodos: Dungeon Quest (1985).zip
+files:
+- name: DUN.DOC
+  size: 27008
+  date: '1985-10-29T08:46:20'
+  crc: '0xf286d599'
+- name: DUNCHAR
+  size: 1280
+  date: '2008-03-05T12:32:38'
+  crc: '0x5a7577f5'
+- name: DUNCHAR.BAS
+  size: 23552
+  date: '2008-03-05T12:33:30'
+  crc: '0x18d5fa34'
+- name: DUNEND.BAS
+  size: 8576
+  date: '1985-10-29T08:57:02'
+  crc: '0x2abde072'
+- name: DUNMAP.BAS
+  size: 4864
+  date: '2008-03-05T12:33:14'
+  crc: '0xd065caca'
+- name: DUNMAP1
+  size: 1280
+  date: '1985-10-29T08:47:08'
+  crc: '0x8852dd73'
+- name: DUNMAP2
+  size: 1408
+  date: '1985-10-29T08:47:52'
+  crc: '0x3e503b48'
+- name: DUNMAP3
+  size: 1152
+  date: '1985-10-29T08:48:40'
+  crc: '0xa2fbf546'
+- name: DUNMAP4
+  size: 1280
+  date: '1985-10-29T08:49:24'
+  crc: '0x71b7a89e'
+- name: DUNMAP5
+  size: 1024
+  date: '1985-10-29T08:50:02'
+  crc: '0x744801f5'
+- name: DUNMAP6
+  size: 1408
+  date: '1985-10-29T08:50:48'
+  crc: '0xca799999'
+- name: DUNMAP7
+  size: 1408
+  date: '1985-10-29T08:51:32'
+  crc: '0x4bfb99d1'
+- name: DUNMAP8
+  size: 1280
+  date: '1985-10-29T08:52:14'
+  crc: '0x18a073a3'
+- name: DUNMAP9
+  size: 1536
+  date: '1985-10-29T08:53:00'
+  crc: '0xc41adaa6'
+- name: DUNPLAY.BAS
+  size: 31616
+  date: '1985-10-30T07:41:26'
+  crc: '0x7c98e516'
+- name: DUNQUEST.BAS
+  size: 16000
+  date: '2008-03-05T12:33:44'
+  crc: '0x526659cd'
+- name: DUNSHOP
+  size: 1792
+  date: '1985-10-30T07:32:40'
+  crc: '0xbf1673b5'
+- name: DUNSHOP.BAS
+  size: 11904
+  date: '2008-03-05T12:33:54'
+  crc: '0xeaa5b7d1'
+- name: GWBASIC.EXE
+  size: 80592
+  date: '1998-06-16T02:32:16'
+  crc: '0x8462d0e4'
+- name: MENU.BAS
+  size: 1325
+  date: '2008-03-05T12:30:58'
+  crc: '0x5b7d8004'
+- name: START.BAT
+  size: 137
+  date: '2008-03-05T12:34:16'
+  crc: '0x09a6de25'

@@ -1,0 +1,32 @@
+filename: Asteroid Fighter v1.2 (Pl) (1998)(Tomasz Wisniewski) [Action].zip
+tdc_id: '58.0'
+title:
+  screen: Asteroid Fighter
+publisher: Tomasz Wisniewski
+year: '1998'
+genre: Action
+language: Polish
+date:
+  added: '2019-03-02T10:40:40'
+  last_modified: '2019-03-02T10:40:40'
+version: '1.2'
+type: zip
+commands:
+  play: ASTEROID.EXE
+files:
+- name: ASTEROID.EXE
+  size: 36736
+  date: '1998-10-24T17:04:56'
+  crc: '0x5239703c'
+- name: EGAVGA.BGI
+  size: 5527
+  date: '1992-11-03T07:00:00'
+  crc: '0xa33014d5'
+- name: README.TXT
+  size: 1117
+  date: '1998-10-23T19:41:48'
+  crc: '0x97b8139e'
+- name: TIPS.TXT
+  size: 187
+  date: '1998-10-03T14:53:52'
+  crc: '0x59db95ba'

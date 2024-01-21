@@ -1,0 +1,42 @@
+filename: MGT- Magnetik Tank (Fr) (1986)(Loriciels) [Action].zip
+tdc_id: '7773.0'
+title:
+  box: 'MGT: Magnetik Tank'
+publisher: Loriciels
+year: '1986'
+genre: Action
+language: French
+date:
+  added: '2019-03-01T18:24:52'
+  last_modified: '2019-03-01T18:24:52'
+type: zip
+commands:
+  play: MGT.EXE
+references:
+  dosid: DOS03316
+  exodos: Magnetik Tank (1987).zip
+files:
+- name: DATA0.MGT
+  size: 6656
+  date: '1987-01-01T12:00:00'
+  crc: '0x724654d4'
+- name: DATA1.MGT
+  size: 14080
+  date: '1987-01-01T12:00:00'
+  crc: '0x569c59ea'
+- name: DATA2.MGT
+  size: 14080
+  date: '1987-01-01T12:00:00'
+  crc: '0x7af34890'
+- name: DATA3.MGT
+  size: 16384
+  date: '1987-01-01T12:00:00'
+  crc: '0xf9cb1f1c'
+- name: DATA4.MGT
+  size: 13568
+  date: '1987-01-01T12:00:00'
+  crc: '0x929f5939'
+- name: MGT.EXE
+  size: 54964
+  date: '1987-01-01T12:00:00'
+  crc: '0x11cfa9b3'

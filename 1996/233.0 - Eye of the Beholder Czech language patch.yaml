@@ -1,0 +1,32 @@
+filename: Eye of the Beholder Czech language patch (Installer) (1996)(Miloš Kalerta -OiL-) [Action, Adventure, Role-Playing (RPG), Addon].zip
+tdc_id: '233.0'
+title:
+  screen: Eye of the Beholder Czech language patch
+publisher: Miloš Kalerta -OiL-
+year: '1996'
+genre:
+- Action
+- Adventure
+- Role-Playing (RPG)
+- Addon
+language: English
+date:
+  added: '2022-07-31T09:17:00'
+  last_modified: '2022-07-31T09:17:00'
+type: zip
+media: Download
+installer: true
+patch: true
+files:
+- name: EOB1CS.DAT
+  size: 687336
+  date: '1996-05-19T10:52:10'
+  crc: '0xc1867cc4'
+- name: FILE_ID.DIZ
+  size: 204
+  date: '1996-06-13T14:43:28'
+  crc: '0x1a9bacc4'
+- name: INSTALCS.EXE
+  size: 27371
+  date: '1996-05-19T11:58:18'
+  crc: '0x03185a4c'

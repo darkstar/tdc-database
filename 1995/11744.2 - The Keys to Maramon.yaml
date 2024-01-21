@@ -1,0 +1,39 @@
+filename: Keys to Maramon, The CD v1.50 (Installer) (1995)(Computec Media Verlag) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '11744.2'
+title:
+  box: The Keys to Maramon
+  qualifier: Installer
+publisher: Computec Media Verlag
+year: '1995'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2023-09-03T15:38:47'
+  last_modified: '2023-09-03T15:38:47'
+version: '1.50'
+type: zip
+media: CD-ROM
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1031/the-keys-to-maramon/
+files:
+- name: INSTALL.EXE
+  size: 40827
+  date: '1994-04-02T02:50:00'
+  crc: '0xb53554ae'
+- name: INSTALL.PRG
+  size: 1647
+  date: '1995-02-12T22:48:06'
+  crc: '0xe61dbb32'
+- name: INSTALL.TXT
+  size: 20650
+  date: '1994-04-02T02:50:00'
+  crc: '0x174af4c2'
+- name: _KEYS.EXE
+  size: 318027
+  date: '1995-02-12T22:44:18'
+  crc: '0xbf9f0ad8'

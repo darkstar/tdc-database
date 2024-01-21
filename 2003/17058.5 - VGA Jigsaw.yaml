@@ -1,0 +1,61 @@
+filename: VGA Jigsaw v4.01 (2003)(Alive Software) [Strategy].zip
+tdc_id: '17058.5'
+title:
+  screen: VGA Jigsaw
+publisher: Alive Software
+year: '2003'
+genre: Strategy
+language: English
+date:
+  added: '2022-12-19T17:27:14'
+  last_modified: '2022-12-19T17:27:14'
+version: '4.01'
+type: zip
+commands:
+  play: Vjig.exe
+  setup: CFG_VJ.exe
+files:
+- name: CFG_VJ.exe
+  size: 32943
+  date: '2003-10-01T04:01:00'
+  crc: '0xba20058e'
+- name: License.txt
+  size: 8689
+  date: '2003-10-01T04:01:00'
+  crc: '0x0db5a9c8'
+- name: Readme.txt
+  size: 903
+  date: '2003-10-01T04:01:00'
+  crc: '0x04c4fc52'
+- name: Vjig.cfg
+  size: 17
+  date: '2003-10-01T04:01:00'
+  crc: '0xe5e21252'
+- name: Vjig.exe
+  size: 102003
+  date: '2003-10-01T04:01:00'
+  crc: '0xdc1e18c6'
+- name: Vjig.gsl
+  size: 17359
+  date: '2003-10-01T04:01:00'
+  crc: '0x7423386f'
+- name: Vjig.txt
+  size: 6911
+  date: '2003-10-01T04:01:00'
+  crc: '0xf7f0bba7'
+- name: Vjig1.vjl
+  size: 526375
+  date: '2003-10-01T04:01:00'
+  crc: '0xd9ca188b'
+- name: Vjig1.vjt
+  size: 203
+  date: '2003-10-01T04:01:00'
+  crc: '0x98f5f71d'
+- name: Vjig2.vjl
+  size: 670074
+  date: '2003-10-01T04:01:00'
+  crc: '0x8f7d4156'
+- name: Vjig2.vjt
+  size: 200
+  date: '2003-10-01T04:01:00'
+  crc: '0x7b382705'

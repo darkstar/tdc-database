@@ -1,0 +1,70 @@
+filename: Crusade (Installer) (De) (1995)(Greenwood Entertainment Software GmbH) [Strategy].zip
+tdc_id: '12254.1'
+parent_id: '12254.2'
+title:
+  box: Crusade
+publisher: Greenwood Entertainment Software GmbH
+year: '1995'
+genre: Strategy
+language: German
+date:
+  added: '2021-03-06T21:30:00'
+  last_modified: '2021-03-06T21:30:00'
+type: zip
+installer: true
+files:
+- name: CRUSADE.BAT
+  size: 32
+  date: '1995-06-28T14:42:10'
+  crc: '0x946e5491'
+- name: CRUSADE\
+  size: 0
+  date: '1995-07-20T01:16:18'
+- name: CRUSADE\CRUSADE.PAK
+  size: 1185249
+  date: '1995-07-20T00:54:12'
+  crc: '0x10b91307'
+- name: CRUSADE\CR_ANIMS.VDF
+  size: 50935795
+  date: '1995-07-20T00:52:08'
+  crc: '0x10d938dd'
+- name: CRUSADE\CR_DATA.VDF
+  size: 2862423
+  date: '1995-07-20T00:47:12'
+  crc: '0xcba367b3'
+- name: CRUSADE\CR_INT1.VDF
+  size: 20520724
+  date: '1995-07-20T00:45:46'
+  crc: '0xb87bf3b7'
+- name: CRUSADE\CR_INT2.VDF
+  size: 2600387
+  date: '1995-07-20T00:45:58'
+  crc: '0x3a7f9422'
+- name: CRUSADE\CR_LAGE.VDF
+  size: 11431967
+  date: '1995-07-20T00:53:54'
+  crc: '0x6a51272b'
+- name: CRUSADE\CR_MOVIE.VDF
+  size: 3841914
+  date: '1995-07-20T00:47:32'
+  crc: '0xdb16b813'
+- name: CRUSADE\CR_SFX.VDF
+  size: 1875908
+  date: '1995-07-20T00:47:50'
+  crc: '0xc39cb003'
+- name: CRUSADE\CR_WAVE.VDF
+  size: 6602569
+  date: '1995-07-20T00:52:50'
+  crc: '0x28c1941e'
+- name: CRUSADE\INSTALL.CFG
+  size: 1197
+  date: '1995-07-20T00:44:50'
+  crc: '0xf9e0ebc3'
+- name: CRUSADE\INSTALL.EXE
+  size: 27955
+  date: '1995-05-02T01:53:08'
+  crc: '0x75734680'
+- name: INSTALL.BAT
+  size: 32
+  date: '1995-06-28T14:42:10'
+  crc: '0x946e5491'

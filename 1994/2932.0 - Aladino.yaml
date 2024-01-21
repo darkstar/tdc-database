@@ -1,0 +1,92 @@
+filename: Aladino (Es) (1994)(Ediciones Mago SL) [Action, Adventure].zip
+tdc_id: '2932.0'
+title:
+  screen: Aladino
+publisher: Ediciones Mago SL
+year: '1994'
+genre:
+- Action
+- Adventure
+language: Spanish
+date:
+  added: '2019-03-01T21:47:44'
+  last_modified: '2019-03-01T21:47:44'
+type: zip
+commands:
+  play: ALADINO.EXE
+references:
+  dosid: DOS15206
+  exodos: Aladino (1994).zip
+files:
+- name: ALADINO.EXE
+  size: 72202
+  date: '1994-03-05T15:00:00'
+  crc: '0xa297a254'
+- name: ALADINO.SPB
+  size: 57812
+  date: '1994-03-05T15:00:00'
+  crc: '0x73e60c2f'
+- name: ALADINO.SPI
+  size: 368
+  date: '1994-03-05T15:00:00'
+  crc: '0xe705d662'
+- name: ASVCY.PAL
+  size: 775
+  date: '1994-03-05T15:00:00'
+  crc: '0x873b8042'
+- name: ASVCY.SCR
+  size: 64007
+  date: '1994-03-05T15:00:00'
+  crc: '0xfcf888ad'
+- name: BOSQUE.PAL
+  size: 775
+  date: '1994-03-05T15:00:00'
+  crc: '0x7698aa74'
+- name: BOSQUE.SCR
+  size: 64007
+  date: '1994-03-05T15:00:00'
+  crc: '0xf99c4f79'
+- name: DEC.SPB
+  size: 29592
+  date: '1994-03-05T15:00:00'
+  crc: '0xe392fb6e'
+- name: DEC.SPI
+  size: 184
+  date: '1994-03-05T15:00:00'
+  crc: '0x02ba390e'
+- name: ENEG.SPB
+  size: 49976
+  date: '1994-03-05T15:00:00'
+  crc: '0x27b11417'
+- name: ENEG.SPI
+  size: 336
+  date: '1994-03-05T15:00:00'
+  crc: '0x9f281dae'
+- name: PALACIO.PAL
+  size: 775
+  date: '1994-03-05T15:00:00'
+  crc: '0x04d32530'
+- name: PALACIO.SCR
+  size: 64007
+  date: '1994-03-05T15:00:00'
+  crc: '0x4298076c'
+- name: SOTANO.PAL
+  size: 775
+  date: '1994-03-05T15:00:00'
+  crc: '0x04d32530'
+- name: SOTANO.SCR
+  size: 64007
+  date: '1994-03-05T15:00:00'
+  crc: '0x98692268'
+- name: TECLAINT.BIN
+  size: 98
+  date: '1994-03-05T15:00:00'
+  crc: '0x53a1e02e'
+- name: TITU.PAL
+  size: 775
+  date: '1994-03-05T15:00:00'
+  crc: '0x1c8d4c3a'
+- name: TITU.SPB
+  size: 20053
+  date: '1994-03-05T15:00:00'
+  crc: '0xdc01f438'

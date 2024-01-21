@@ -1,0 +1,53 @@
+filename: Quadrax (1996)(Riki Computer Games) [Strategy, Puzzle].zip
+tdc_id: '10797.0'
+title:
+  box: Quadrax
+publisher: Riki Computer Games
+year: '1996'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-03-02T10:16:16'
+  last_modified: '2019-03-02T10:16:16'
+type: zip
+references:
+  dosid: DOS04177
+  exodos: Quadrax (1996).zip
+files:
+- name: DATA\
+  size: 0
+  date: '2014-11-22T16:37:18'
+- name: DATA\DATA.ANM
+  size: 1335616
+  date: '2002-02-18T09:35:00'
+  crc: '0x1229ea9f'
+- name: DATA\DATA.FFS
+  size: 7877478
+  date: '2002-02-18T09:34:58'
+  crc: '0x63b17b55'
+- name: DATA\DATA1.ANM
+  size: 226748
+  date: '2002-02-18T09:35:00'
+  crc: '0x00ac0935'
+- name: DATA\DATA2.ANM
+  size: 261721
+  date: '2002-02-18T09:35:00'
+  crc: '0x5a1447d5'
+- name: QSETUP.EXE
+  size: 2911
+  date: '2000-02-27T18:16:22'
+  crc: '0xde32cf42'
+- name: QUADRAX.CFG
+  size: 408
+  date: '2013-01-21T14:21:44'
+  crc: '0x85a043ba'
+- name: QUADRAX.EXE
+  size: 38569
+  date: '2002-02-18T18:51:50'
+  crc: '0xdee1ea75'
+- name: QUADRAX.INF
+  size: 1606
+  date: '2004-03-01T12:14:54'
+  crc: '0x9051dfdc'

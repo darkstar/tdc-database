@@ -1,0 +1,30 @@
+filename: Mad Mix (Es) (1988)(U.S. Gold Ltd.) [Action].zip
+tdc_id: '9849.0'
+title:
+  box: Mad Mix
+publisher: U.S. Gold Ltd.
+year: '1988'
+genre: Action
+language: Spanish
+date:
+  added: '2019-03-01T18:26:28'
+  last_modified: '2019-03-01T18:26:28'
+type: zip
+commands:
+  play: MADMIX.EXE
+references:
+  dosid: DOS03286
+  exodos: Mad Mix Games (1988).zip
+files:
+- name: GRAFPE1.CGA
+  size: 40648
+  date: '1988-11-02T20:30:46'
+  crc: '0xfd2d9bde'
+- name: GRAFPE2.CGA
+  size: 32776
+  date: '1988-11-02T19:35:04'
+  crc: '0xb05cf491'
+- name: MADMIX.EXE
+  size: 19228
+  date: '1988-11-12T19:14:02'
+  crc: '0x8d8752cb'

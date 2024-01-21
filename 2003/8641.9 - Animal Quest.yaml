@@ -1,0 +1,79 @@
+filename: Animal Quest v4.01 (2003)(Alive Software) [Educational, Simulation].zip
+tdc_id: '8641.9'
+title:
+  screen: Animal Quest
+publisher: Alive Software
+year: '2003'
+genre:
+- Educational
+- Simulation
+language: English
+date:
+  added: '2019-03-02T09:59:08'
+  last_modified: '2022-12-19T17:30:40'
+version: '4.01'
+type: zip
+commands:
+  play: Aq.exe
+  setup: Cfg_AQ.exe
+references:
+  mobygames: https://www.mobygames.com/game/dos/animal-quest
+  dosid: DOS00800
+  exodos: Animal Quest (1996).zip
+files:
+- name: Aq.cfg
+  size: 18
+  date: '2003-10-01T04:01:00'
+  crc: '0xec74bfb7'
+- name: Aq.exe
+  size: 96128
+  date: '2003-10-01T04:01:00'
+  crc: '0x1d8ecdb3'
+- name: Aq.gsl
+  size: 231466
+  date: '2003-10-01T04:01:00'
+  crc: '0x07e1a77e'
+- name: Aq.txt
+  size: 8312
+  date: '2003-10-01T04:01:00'
+  crc: '0x906df9ae'
+- name: Aq1.gdl
+  size: 13613
+  date: '2003-10-01T04:01:00'
+  crc: '0xffe8fb33'
+- name: Aq1.ggl
+  size: 256823
+  date: '2003-10-01T04:01:00'
+  crc: '0xd0d9d6d2'
+- name: Aq2.gdl
+  size: 13613
+  date: '2003-10-01T04:01:00'
+  crc: '0x9a291f88'
+- name: Aq2.ggl
+  size: 119120
+  date: '2003-10-01T04:01:00'
+  crc: '0x41bf167d'
+- name: Aq3.gdl
+  size: 13613
+  date: '2003-10-01T04:01:00'
+  crc: '0xa5e16023'
+- name: Aq3.ggl
+  size: 103944
+  date: '2003-10-01T04:01:00'
+  crc: '0x9f52ca73'
+- name: Aq4.gdl
+  size: 13613
+  date: '2003-10-01T04:01:00'
+  crc: '0xe1f5bfa9'
+- name: Aq4.ggl
+  size: 73731
+  date: '2003-10-01T04:01:00'
+  crc: '0x4e1f8ee8'
+- name: Cfg_AQ.exe
+  size: 12582
+  date: '2003-10-01T04:01:00'
+  crc: '0x1d5f17ab'
+- name: Readme.txt
+  size: 663
+  date: '2003-10-01T04:01:00'
+  crc: '0xd5c75cd1'

@@ -1,0 +1,52 @@
+filename: Jump 'n Bump [FW] (1998)(Brainchild Design) [Action].zip
+tdc_id: '11652.0'
+title:
+  screen: Jump 'n Bump
+publisher: Brainchild Design
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:41:52'
+  last_modified: '2023-10-24T12:04:21'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: jumpbump.exe
+references:
+  dosid: DOS02963
+  exodos: Jump 'n Bump (1998).zip
+files:
+- name: cwsdpmi.exe
+  size: 20217
+  date: '1997-06-24T20:11:22'
+  crc: '0x6ba5fa62'
+- name: jumpbump.dat
+  size: 367822
+  date: '1998-11-09T21:00:46'
+  crc: '0x9334ede1'
+- name: jumpbump.exe
+  size: 67664
+  date: '1998-11-09T23:07:40'
+  crc: '0xaf202283'
+- name: modify.txt
+  size: 7199
+  date: '1998-11-14T03:33:12'
+  crc: '0x5275fad9'
+- name: modify\
+  size: 0
+  date: '1998-11-08T17:06:20'
+- name: modify\pack.exe
+  size: 25880
+  date: '1998-11-09T13:43:18'
+  crc: '0xf4daea33'
+- name: modify\unpack.exe
+  size: 25540
+  date: '1998-11-09T13:43:20'
+  crc: '0x136d5eae'
+- name: readme.txt
+  size: 4354
+  date: '1998-11-09T23:10:42'
+  crc: '0x2ce7f6a8'

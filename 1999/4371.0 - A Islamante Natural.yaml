@@ -1,0 +1,45 @@
+filename: Isla, Amante Natural (Es) (1999)(Edison Soft) [Adventure, Interactive Fiction].zip
+tdc_id: '4371.0'
+title:
+  screen: A Islamante Natural
+publisher: Edison Soft
+year: '1999'
+genre:
+- Adventure
+- Interactive Fiction
+language: Spanish
+date:
+  added: '2019-03-02T10:46:12'
+  last_modified: '2019-03-02T10:46:12'
+type: zip
+commands:
+  play: TESTER.EXE
+files:
+- name: NMP.CON
+  size: 4284
+  date: '1999-05-08T11:32:06'
+  crc: '0x13535a74'
+- name: NMP.DRV
+  size: 419
+  date: '1999-05-08T11:32:06'
+  crc: '0x34e67de8'
+- name: NMPDATA.D00
+  size: 2877
+  date: '1999-05-08T11:32:06'
+  crc: '0x6e3556b7'
+- name: NMPDATA.D01
+  size: 1696665
+  date: '1999-05-08T11:32:06'
+  crc: '0x1f35e50f'
+- name: NMSAVE.TMP
+  size: 2531
+  date: '2015-04-13T18:04:12'
+  crc: '0x0e776b4e'
+- name: SBLASTER.DRV
+  size: 2176
+  date: '1999-05-08T11:32:06'
+  crc: '0x8e8b93cf'
+- name: TESTER.EXE
+  size: 52686
+  date: '1999-05-08T11:32:06'
+  crc: '0xfd4f5b03'

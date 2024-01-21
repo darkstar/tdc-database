@@ -1,0 +1,45 @@
+filename: Frightmare [h1] (1989)(Avantage Software) [Action].zip
+tdc_id: '13815.1'
+title:
+  screen: Frightmare
+publisher: Avantage Software
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:27:46'
+  last_modified: '2019-03-01T18:27:46'
+type: zip
+tags:
+- Hack: 1
+commands:
+  play: Fright.exe
+files:
+- name: Fright.blk
+  size: 65535
+  date: '1989-06-17T22:17:24'
+  crc: '0x3af21832'
+- name: Fright.exe
+  size: 39003
+  date: '1989-06-28T19:40:50'
+  crc: '0x4618c089'
+- name: Fright.map
+  size: 65535
+  date: '1989-06-17T22:17:04'
+  crc: '0xaac1c94b'
+- name: Hiscore
+  size: 126
+  date: '1980-01-01T00:05:46'
+  crc: '0x30b00ecb'
+- name: Spri1.dat
+  size: 30720
+  date: '1989-06-13T19:56:36'
+  crc: '0xc48cbe90'
+- name: Title.lbm
+  size: 3368
+  date: '1989-05-27T20:16:06'
+  crc: '0xa2113ca8'
+- name: Title2.lbm
+  size: 3516
+  date: '1990-08-23T23:53:46'
+  crc: '0x09cd43a0'

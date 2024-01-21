@@ -1,0 +1,31 @@
+filename: Turbo Lander (1991)(Tsunami Tsoftware) [Action].zip
+tdc_id: '834.0'
+title:
+  screen: Turbo Lander
+publisher: Tsunami Tsoftware
+year: '1991'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:39:52'
+  last_modified: '2019-03-01T18:39:52'
+type: zip
+commands:
+  play: LANDER.COM
+files:
+- name: DESC.SDI
+  size: 29
+  date: '1991-12-28T01:25:18'
+  crc: '0x6091c354'
+- name: LANDER.COM
+  size: 24718
+  date: '1980-01-03T00:11:08'
+  crc: '0x8bbe2813'
+- name: LANDER.DAT
+  size: 3328
+  date: '1980-01-03T00:07:44'
+  crc: '0x221d5129'
+- name: LANDER.DOC
+  size: 2509
+  date: '1980-01-03T01:52:22'
+  crc: '0xa9f2d03e'

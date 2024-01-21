@@ -1,0 +1,88 @@
+filename: Dungeon Master v3.4 (En)(De)(Fr) (1990)(Psygnosis Limited) [Action, Role-Playing (RPG)].zip
+tdc_id: '9543.0'
+title:
+  box: Dungeon Master
+publisher: Psygnosis Limited
+year: '1990'
+genre:
+- Action
+- Role-Playing (RPG)
+language:
+- English
+- French
+- German
+date:
+  added: '2019-03-01T18:32:28'
+  last_modified: '2019-03-01T18:32:28'
+version: '3.4'
+type: zip
+commands:
+  play: DM.EXE
+files:
+- name: ANIM
+  size: 5856
+  date: '1994-11-11T09:41:06'
+  crc: '0xaa76b615'
+- name: DM.EXE
+  size: 11603
+  date: '1994-11-11T09:41:00'
+  crc: '0x8da23ef4'
+- name: EGA
+  size: 4938
+  date: '1994-11-11T09:41:02'
+  crc: '0xeb8796b0'
+- name: END
+  size: 364196
+  date: '1994-11-11T09:41:22'
+  crc: '0x5f4ac220'
+- name: EUDATA\
+  size: 0
+  date: '2009-07-04T22:58:52'
+- name: EUDATA\DUNGEON.DAT
+  size: 33357
+  date: '1994-11-11T09:41:24'
+  crc: '0xbf1c6ff1'
+- name: EUDATA\DUNGEONF.DAT
+  size: 33687
+  date: '1994-11-11T09:41:26'
+  crc: '0x289b0f89'
+- name: EUDATA\DUNGEONG.DAT
+  size: 33705
+  date: '1994-11-11T09:41:26'
+  crc: '0xf491d31f'
+- name: EUDATA\GRAPHICS.DAT
+  size: 398925
+  date: '1994-11-11T09:41:44'
+  crc: '0x4c03cc00'
+- name: EUDATA\SONG.DAT
+  size: 162482
+  date: '1994-11-11T09:41:52'
+  crc: '0xf220742b'
+- name: FIRES
+  size: 94174
+  date: '1994-11-11T09:41:06'
+  crc: '0x8f37f87b'
+- name: IBMIO
+  size: 8151
+  date: '1994-11-11T09:41:00'
+  crc: '0xdb95546d'
+- name: SELECTOR
+  size: 15876
+  date: '1994-11-11T09:41:06'
+  crc: '0x2e0ebb1d'
+- name: SWOOSH
+  size: 7570
+  date: '1994-11-11T09:41:00'
+  crc: '0x418bc049'
+- name: TANDY
+  size: 4566
+  date: '1994-11-11T09:41:02'
+  crc: '0x4c1a47be'
+- name: TITLE
+  size: 12002
+  date: '1994-11-11T09:41:06'
+  crc: '0x0b4488bd'
+- name: VGA
+  size: 4503
+  date: '1994-11-11T09:41:02'
+  crc: '0x37d43a95'

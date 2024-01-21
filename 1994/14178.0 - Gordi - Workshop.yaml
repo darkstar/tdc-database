@@ -1,0 +1,31 @@
+filename: Gordi - Workshop (He) (1994)(Compedia Software & Hardware Ltd.) [Educational].zip
+tdc_id: '14178.0'
+title:
+  screen: Gordi - Workshop
+publisher: Compedia Software & Hardware Ltd.
+year: '1994'
+genre: Educational
+language: Hewbrew
+date:
+  added: '2020-03-17T11:55:24'
+  last_modified: '2020-03-17T11:55:24'
+type: zip
+commands:
+  play: CR8.EXE
+files:
+- name: CR8.A
+  size: 380376
+  date: '1993-07-27T12:06:12'
+  crc: '0x95805fd5'
+- name: CR8.EXE
+  size: 98043
+  date: '2002-03-16T12:43:20'
+  crc: '0x390cbdba'
+- name: LARGEF.CR8
+  size: 141260
+  date: '1993-07-27T11:55:20'
+  crc: '0xa13cdb11'
+- name: SMALLF.CR8
+  size: 101010
+  date: '1993-06-29T18:17:02'
+  crc: '0xd7d4ab93'

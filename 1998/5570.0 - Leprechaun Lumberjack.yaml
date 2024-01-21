@@ -1,0 +1,29 @@
+filename: Leprechaun Lumberjack (1998)(Damon Amyx) [Action, Strategy].zip
+tdc_id: '5570.0'
+title:
+  screen: Leprechaun Lumberjack
+publisher: Damon Amyx
+year: '1998'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-02T10:42:18'
+  last_modified: '2019-03-02T10:42:18'
+type: zip
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 22
+  date: '2018-11-21T13:02:56'
+  crc: '0x380acf6b'
+- name: LUMBER.BAS
+  size: 13508
+  date: '1998-03-14T22:54:44'
+  crc: '0xa5497ed7'
+- name: QB.EXE
+  size: 278804
+  date: '2016-03-13T01:19:58'
+  crc: '0xb08bc0fe'

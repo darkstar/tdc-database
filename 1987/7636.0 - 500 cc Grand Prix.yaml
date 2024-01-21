@@ -1,0 +1,84 @@
+filename: 500 cc Grand Prix (1987)(Microïds) [Racing - Driving, Simulation].zip
+tdc_id: '7636.0'
+title:
+  box: 500 cc Grand Prix
+publisher: Microïds
+year: '1987'
+genre:
+- Racing - Driving
+- Simulation
+language: English
+date:
+  added: '2020-08-03T09:01:06'
+  last_modified: '2020-08-03T09:01:06'
+type: zip
+commands:
+  play: GP.EXE
+references:
+  dosid: DOS02454
+  exodos: Grand Prix 500 cc (1987).zip
+files:
+- name: CIRC.CTR
+  size: 2923
+  date: '1980-01-01T00:18:48'
+  crc: '0x7b385f75'
+- name: COMP.PIC
+  size: 16000
+  date: '1980-01-01T00:39:54'
+  crc: '0xddfc2f81'
+- name: FOND.PIC
+  size: 16000
+  date: '1980-01-01T00:38:14'
+  crc: '0x55cc2c3e'
+- name: GP.EXE
+  size: 156192
+  date: '1980-01-01T00:10:44'
+  crc: '0x91299efb'
+- name: MIBM8.DAT
+  size: 16384
+  date: '1980-01-01T00:27:00'
+  crc: '0xe215dc9e'
+- name: MIBM9.DAT
+  size: 16384
+  date: '1980-01-12T06:20:24'
+  crc: '0x86b5e825'
+- name: MIBMC.DAT
+  size: 16384
+  date: '1980-03-16T04:33:56'
+  crc: '0xab32503c'
+- name: MIBMG.DAT
+  size: 16384
+  date: '1980-01-15T04:27:42'
+  crc: '0xb1e53ce8'
+- name: MIBMH.DAT
+  size: 16384
+  date: '1980-02-22T05:40:42'
+  crc: '0x0d71e9f2'
+- name: MMM.BAS
+  size: 2291
+  date: '1980-01-01T00:48:52'
+  crc: '0xa2966249'
+- name: PISTBL.PIC
+  size: 16000
+  date: '1980-01-01T02:50:06'
+  crc: '0x0e8a69cc'
+- name: PISTRG.PIC
+  size: 16000
+  date: '1980-01-01T02:52:00'
+  crc: '0xb78e2a0b'
+- name: SB.POI
+  size: 42
+  date: '1980-01-01T00:00:18'
+  crc: '0x6deea3bb'
+- name: SB.TST
+  size: 512
+  date: '1980-01-01T02:05:42'
+  crc: '0xeb85686c'
+- name: SPRITES.DAT
+  size: 41949
+  date: '1980-01-01T00:37:26'
+  crc: '0x41d82cff'
+- name: TABBAS.DAT
+  size: 4215
+  date: '1987-06-03T21:37:22'
+  crc: '0xa270ff0f'

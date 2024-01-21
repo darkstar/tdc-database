@@ -1,0 +1,38 @@
+filename: Populous (Installer) (1989)(Electronic Arts, Inc.) [Strategy][!].zip
+tdc_id: '10435.1'
+title:
+  box: Populous
+publisher: Electronic Arts, Inc.
+year: '1989'
+genre: Strategy
+language: English
+date:
+  added: '2020-09-14T15:08:50'
+  last_modified: '2020-09-14T15:08:50'
+type: zip
+tags:
+- KnownGood
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: CGA.ARC
+  size: 64273
+  date: '1989-11-14T11:39:38'
+  crc: '0x6676d5ce'
+- name: EGA.ARC
+  size: 103509
+  date: '1989-11-14T11:47:44'
+  crc: '0xf2666e05'
+- name: INSTALL.EXE
+  size: 18039
+  date: '1989-12-15T17:53:32'
+  crc: '0xc6881776'
+- name: POPULOUS.ARC
+  size: 75947
+  date: '1989-11-17T13:55:52'
+  crc: '0x4d9f5639'
+- name: VGA.ARC
+  size: 92799
+  date: '1989-11-14T12:11:02'
+  crc: '0x4ddc2ab0'

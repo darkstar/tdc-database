@@ -1,0 +1,56 @@
+filename: Legends (En)(De)(Fr) [h1] (1996)(Guildhall Leisure Services Ltd.) [Action].zip
+tdc_id: '6362.0'
+parent_id: '6362.1'
+title:
+  box: Legends
+publisher: Guildhall Leisure Services Ltd.
+year: '1996'
+genre: Action
+language:
+- English
+- French
+- German
+date:
+  added: '2019-03-02T10:11:28'
+  last_modified: '2019-03-02T10:11:28'
+type: zip
+tags:
+- Hack: 1
+commands:
+  play: LEGENDS.EXE
+references:
+  dosid: DOS03116
+  exodos: Legends (1996).zip
+files:
+- name: DOCK2.SMK
+  size: 1166392
+  date: '1996-12-24T23:32:00'
+  crc: '0x2c138833'
+- name: DROPOFF.SMK
+  size: 1216656
+  date: '1996-12-24T23:32:00'
+  crc: '0x2638c15e'
+- name: EXPLODE.SMK
+  size: 2692004
+  date: '1996-12-24T23:32:00'
+  crc: '0x27da326c'
+- name: JOY.CFG
+  size: 16
+  date: '1996-12-24T23:32:00'
+  crc: '0xecbb4b55'
+- name: LEGENDS.EXE
+  size: 824229
+  date: '1996-12-24T23:32:00'
+  crc: '0xad3117dd'
+- name: LEGENDS.RES
+  size: 8602029
+  date: '1996-12-24T23:32:00'
+  crc: '0x96743d2c'
+- name: LEGENDS.TMP
+  size: 60114
+  date: '2011-12-12T00:24:46'
+  crc: '0x27c18d34'
+- name: SHIP.SMK
+  size: 52304
+  date: '1996-12-24T23:32:00'
+  crc: '0xc77296e4'

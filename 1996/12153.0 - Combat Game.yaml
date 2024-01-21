@@ -1,0 +1,30 @@
+filename: Combat Game (1996)(Jacques Mallah) [Action, Adventure].zip
+tdc_id: '12153.0'
+title:
+  screen: Combat Game
+publisher: Jacques Mallah
+year: '1996'
+genre:
+- Action
+- Adventure
+language: English
+date:
+  added: '2019-03-02T10:01:58'
+  last_modified: '2019-03-02T10:01:58'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: CB2.BAS
+  size: 8366
+  date: '2018-03-10T00:53:28'
+  crc: '0xf4c820d3'
+- name: GO.BAT
+  size: 23
+  date: '2018-03-13T19:34:02'
+  crc: '0xe940f3f9'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'

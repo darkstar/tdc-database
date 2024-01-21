@@ -1,0 +1,30 @@
+filename: Ninja v1.32 (2004)(Paul Allen Panks) [Adventure, Interactive Fiction].zip
+tdc_id: '14480.1'
+title:
+  screen: Ninja
+publisher: Paul Allen Panks
+year: '2004'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T10:56:56'
+  last_modified: '2019-03-02T10:56:56'
+version: '1.32'
+type: zip
+commands:
+  play: NINJA.EXE
+files:
+- name: NINJA.BAS
+  size: 13073
+  date: '2004-11-16T08:36:24'
+  crc: '0x975086fc'
+- name: NINJA.EXE
+  size: 28141
+  date: '2004-11-16T08:37:30'
+  crc: '0x8b535ae0'
+- name: NINJA.TXT
+  size: 1125
+  date: '2004-11-16T08:41:08'
+  crc: '0x69695e13'

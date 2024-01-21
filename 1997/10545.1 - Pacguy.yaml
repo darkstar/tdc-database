@@ -1,0 +1,29 @@
+filename: Pacguy v1.9 (1997)(John Hess) [Action].zip
+tdc_id: '10545.1'
+title:
+  screen: Pacguy
+publisher: John Hess
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:36:04'
+  last_modified: '2019-03-02T10:36:04'
+version: '1.9'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 28
+  date: '2018-11-23T23:19:44'
+  crc: '0xcfcb4fd2'
+- name: PACMAN19.BAS
+  size: 66661
+  date: '1997-04-02T22:24:40'
+  crc: '0xbad94662'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

@@ -1,0 +1,28 @@
+filename: Number Wizard, The (1983)(Usborne Publishing Ltd) [Puzzle].zip
+tdc_id: '17289.0'
+title:
+  screen: The Number Wizard
+publisher: Usborne Publishing Ltd
+year: '1983'
+genre: Puzzle
+language: English
+date:
+  added: '2023-03-16T07:42:08'
+  last_modified: '2023-03-16T07:42:08'
+type: zip
+media: Type-In
+commands:
+  play: Go.bat
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T12:00:00'
+  crc: '0x92293842'
+- name: Go.bat
+  size: 13
+  date: '2022-08-02T18:47:24'
+  crc: '0xb64841ff'
+- name: wizard.bas
+  size: 924
+  date: '2022-08-02T19:32:06'
+  crc: '0xccaa29f3'

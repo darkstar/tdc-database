@@ -1,0 +1,67 @@
+filename: Mario is Missing! v1.0.4 (1992)(Software Toolworks, Inc., The) [Educational].zip
+tdc_id: '11143.0'
+title:
+  box: Mario is Missing!
+publisher: Software Toolworks, Inc., The
+year: '1992'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T18:49:14'
+  last_modified: '2019-03-01T18:49:14'
+version: 1.0.4
+type: zip
+commands:
+  play: MARIO.EXE
+references:
+  dosid: DOS03411
+  exodos: Mario is Missing! (1992).zip
+files:
+- name: MARBIN.V2L
+  size: 4179069
+  date: '2000-06-22T00:27:42'
+  crc: '0x1cdbf995'
+- name: MARIO.BIN
+  size: 323296
+  date: '2000-06-22T00:27:42'
+  crc: '0x206d88fe'
+- name: MARIO.EXE
+  size: 219456
+  date: '2000-06-22T00:27:42'
+  crc: '0x73e8865e'
+- name: MARIOSTA.NEW
+  size: 12257
+  date: '2000-06-22T00:28:20'
+  crc: '0x577b07d8'
+- name: MAROPEN.V2L
+  size: 1460387
+  date: '2000-06-22T00:27:44'
+  crc: '0xcf3fbfec'
+- name: MIDPAK.AD
+  size: 5248
+  date: '2000-06-22T00:27:44'
+  crc: '0x6c318683'
+- name: MIDPAK.ADV
+  size: 15153
+  date: '2000-06-22T00:27:44'
+  crc: '0x4f100e20'
+- name: MIDPAK.COM
+  size: 12606
+  date: '2000-06-22T00:27:44'
+  crc: '0xccae50ad'
+- name: ORES.LST
+  size: 115
+  date: '2000-06-22T00:27:44'
+  crc: '0x1008236b'
+- name: OSTRING.LST
+  size: 16763
+  date: '2000-06-22T00:27:42'
+  crc: '0xea4e5a1b'
+- name: RESOURCE.LST
+  size: 115
+  date: '2000-06-22T00:27:44'
+  crc: '0x8c72377e'
+- name: STRING.LST
+  size: 28353
+  date: '2000-06-22T00:27:42'
+  crc: '0x9fb96fa3'

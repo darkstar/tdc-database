@@ -1,0 +1,33 @@
+filename: Crusade in Europe v421.03 [DC] (1986)(MicroProse Software, Inc.) [Strategy].zip
+tdc_id: '12252.0'
+title:
+  box: Crusade in Europe
+publisher: MicroProse Software, Inc.
+year: '1986'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:24:44'
+  last_modified: '2019-03-01T18:24:44'
+version: '421.03'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: CRUSADE.COM
+references:
+  dosid: DOS05856
+  exodos: Crusade in Europe (1985).zip
+files:
+- name: CRUSADE.COM
+  size: 464
+  date: '1999-10-02T20:08:14'
+  crc: '0x2202b203'
+- name: GAME.DAT
+  size: 737280
+  date: '1999-09-28T22:04:46'
+  crc: '0x3988ed1c'
+- name: SAVE.DAT
+  size: 737280
+  date: '1999-10-02T19:55:52'
+  crc: '0x7de94e4d'

@@ -1,0 +1,31 @@
+filename: Snake512 (2009)(Julian Salazar) [Action].zip
+tdc_id: '4977.0'
+title:
+  screen: Snake512
+publisher: Julian Salazar
+year: '2009'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:57:38'
+  last_modified: '2019-03-02T10:57:38'
+type: zip
+commands:
+  play: assemble.bat
+files:
+- name: SNAKE512.IMG
+  size: 164352
+  date: '2015-03-18T03:02:30'
+  crc: '0x559c5fa1'
+- name: Snake512.asm
+  size: 6468
+  date: '2009-01-05T15:09:22'
+  crc: '0xae2ebadc'
+- name: Snake512.bin
+  size: 512
+  date: '2009-01-05T15:09:24'
+  crc: '0x221c39ef'
+- name: assemble.bat
+  size: 62
+  date: '2009-01-05T14:20:08'
+  crc: '0xe740ed06'

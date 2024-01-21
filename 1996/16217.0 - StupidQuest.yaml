@@ -1,0 +1,46 @@
+filename: StupidQuest (1996)(StupidSoft) [Adventure, Interactive Fiction].zip
+tdc_id: '16217.0'
+title:
+  screen: StupidQuest
+publisher: StupidSoft
+year: '1996'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2016-02-16T23:36:22'
+  last_modified: '2016-02-16T23:36:22'
+type: zip
+media: Download
+commands:
+  play: SQUEST.EXE
+files:
+- name: DAT1.SQ
+  size: 122376
+  date: '1996-07-11T09:15:22'
+  crc: '0x7b0105c9'
+- name: DAT2.SQ
+  size: 120316
+  date: '1996-06-24T10:52:44'
+  crc: '0xde7f5c7a'
+- name: FILE_ID.DIZ
+  size: 90
+  date: '1996-06-17T13:38:32'
+  crc: '0x72a24fad'
+- name: HINTS.DOC
+  size: 5261
+  date: '1996-07-11T09:32:20'
+  crc: '0x6a913a1b'
+- name: SQUEST.DOC
+  size: 10145
+  date: '1996-07-11T10:02:08'
+  crc: '0x94321e92'
+- name: SQUEST.EXE
+  size: 122416
+  date: '1996-06-24T10:52:52'
+  crc: '0xf588e22e'
+- name: SQUEST.SGF
+  size: 6
+  date: '1996-06-14T08:32:12'
+  crc: '0x58c031bd'

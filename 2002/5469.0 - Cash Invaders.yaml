@@ -1,0 +1,49 @@
+filename: Cash Invaders v1.1 (2002)(Bas de Reuver) [Action].zip
+tdc_id: '5469.0'
+title:
+  screen: Cash Invaders
+publisher: Bas de Reuver
+year: '2002'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:55:54'
+  last_modified: '2019-03-02T10:55:54'
+version: '1.1'
+type: zip
+references:
+  dosid: DOS01272
+  exodos: Cash Invaders (2002).zip
+files:
+- name: DPMI16BI.OVL
+  size: 65376
+  date: '1993-03-09T07:01:00'
+  crc: '0x04c478a9'
+- name: RTM.EXE
+  size: 108846
+  date: '1993-03-09T07:01:00'
+  crc: '0x2e89f6e4'
+- name: graphics.dat
+  size: 306660
+  date: '2002-12-22T01:00:00'
+  crc: '0xc49a03fe'
+- name: invader.exe
+  size: 89856
+  date: '2003-11-20T01:10:00'
+  crc: '0xc99bda78'
+- name: invader.ico
+  size: 3262
+  date: '2002-12-22T01:00:00'
+  crc: '0xdda57514'
+- name: invader.txt
+  size: 8470
+  date: '2003-11-20T01:10:00'
+  crc: '0xcc6f4791'
+- name: levels.dat
+  size: 26715
+  date: '2002-12-22T01:00:00'
+  crc: '0xf84e2ddb'
+- name: sound.dat
+  size: 222171
+  date: '2002-12-22T01:00:00'
+  crc: '0x314f8fec'

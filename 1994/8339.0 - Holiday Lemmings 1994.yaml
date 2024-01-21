@@ -1,0 +1,100 @@
+filename: Holiday Lemmings 1994 v1.92 (1994)(Psygnosis Limited) [Strategy, Action][!].zip
+tdc_id: '8339.0'
+parent_id: '8339.3'
+title:
+  box: Holiday Lemmings 1994
+publisher: Psygnosis Limited
+year: '1994'
+genre:
+- Strategy
+- Action
+language: English
+date:
+  added: '2019-03-01T22:00:44'
+  last_modified: '2023-07-23T19:38:08'
+version: '1.92'
+type: zip
+tags:
+- KnownGood
+media: 1.44M
+commands:
+  play: LEMMINGS.BAT
+references:
+  mobygames: https://www.mobygames.com/game/78986/holiday-lemmings/
+files:
+- name: ADLIB.DAT
+  size: 6894
+  date: '1994-11-11T11:11:12'
+  crc: '0xcfd4d0da'
+- name: GREET.DAT
+  size: 438
+  date: '1994-11-11T11:11:12'
+  crc: '0x990d367c'
+- name: GROUND1O.DAT
+  size: 1056
+  date: '1994-11-11T11:11:12'
+  crc: '0x03466d02'
+- name: GROUND2O.DAT
+  size: 1056
+  date: '1994-11-11T11:11:12'
+  crc: '0x792fa3d2'
+- name: INSTALL.EXE
+  size: 16187
+  date: '1994-11-11T11:11:12'
+  crc: '0x6a4fbce8'
+- name: LEMMINGS.BAT
+  size: 756
+  date: '1994-11-11T11:11:12'
+  crc: '0xf066b02d'
+- name: LEVEL000.DAT
+  size: 2432
+  date: '1994-11-11T11:11:12'
+  crc: '0xdbfdb43e'
+- name: LEVEL001.DAT
+  size: 2633
+  date: '1994-11-11T11:11:12'
+  crc: '0x1bc0a28e'
+- name: LEVEL002.DAT
+  size: 3433
+  date: '1994-11-11T11:11:12'
+  crc: '0x0e54f208'
+- name: LEVEL003.DAT
+  size: 3401
+  date: '1994-11-11T11:11:12'
+  crc: '0xa92811be'
+- name: LEVEL004.DAT
+  size: 3143
+  date: '1994-11-11T11:11:12'
+  crc: '0x44f296f7'
+- name: LEVEL005.DAT
+  size: 2868
+  date: '1994-11-11T11:11:12'
+  crc: '0x0d524a83'
+- name: LEVEL006.DAT
+  size: 3033
+  date: '1994-11-11T11:11:12'
+  crc: '0xe4d48f76'
+- name: LEVEL007.DAT
+  size: 5654
+  date: '1994-11-11T11:11:12'
+  crc: '0x1fb58f5d'
+- name: MAIN.DAT
+  size: 58577
+  date: '1994-11-11T11:11:12'
+  crc: '0x1e0f04ab'
+- name: TANDYSND.DAT
+  size: 5470
+  date: '1994-11-11T11:11:12'
+  crc: '0xdb3e51ae'
+- name: VGAGR1.DAT
+  size: 25902
+  date: '1994-11-11T11:11:12'
+  crc: '0x3e43e9f9'
+- name: VGAGR2.DAT
+  size: 33123
+  date: '1994-11-11T11:11:12'
+  crc: '0xe7832394'
+- name: VGALEMMI.EXE
+  size: 31610
+  date: '1994-11-11T11:11:12'
+  crc: '0xe35eacdc'

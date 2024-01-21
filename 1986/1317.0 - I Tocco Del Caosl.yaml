@@ -1,0 +1,38 @@
+filename: Tocco Del Caos, Il v2.1 (1986)(Gnuck and C.) [Adventure, Interactive Fiction].zip
+tdc_id: '1317.0'
+title:
+  screen: I Tocco Del Caosl
+publisher: Gnuck and C.
+year: '1986'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2021-10-19T08:52:36'
+  last_modified: '2021-10-19T08:52:36'
+version: '2.1'
+type: zip
+commands:
+  play: PCPLAY.EXE
+files:
+- name: CRY1.DES
+  size: 7440
+  date: '1986-12-10T13:55:06'
+  crc: '0xec47de72'
+- name: CRY1.DTA
+  size: 3907
+  date: '1986-12-11T10:36:24'
+  crc: '0xcdaab1ff'
+- name: CRY1.INT
+  size: 1047
+  date: '1987-11-02T00:29:08'
+  crc: '0x1e44193c'
+- name: CRY1.MSG
+  size: 7840
+  date: '1986-12-03T11:58:30'
+  crc: '0x155b0783'
+- name: PCPLAY.EXE
+  size: 63002
+  date: '1987-11-02T00:27:22'
+  crc: '0x4251014b'

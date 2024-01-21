@@ -1,0 +1,54 @@
+filename: Manhole, The (Installer) (1989)(Activision Publishing, Inc.) [Adventure, Educational].zip
+tdc_id: '9880.1'
+title:
+  box: The Manhole
+publisher: Activision Publishing, Inc.
+year: '1989'
+genre:
+- Adventure
+- Educational
+language: English
+date:
+  added: '2019-03-01T18:28:18'
+  last_modified: '2019-03-01T18:28:18'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: APPS.ZIP
+  size: 329726
+  date: '1989-08-28T15:19:16'
+  crc: '0x1e137d6a'
+- name: INSTALL.EXE
+  size: 11343
+  date: '1989-08-29T10:56:22'
+  crc: '0x7099de1a'
+- name: PKUNZIP.EXE
+  size: 18208
+  date: '1989-03-06T00:00:00'
+  crc: '0xc4165715'
+- name: SNDS.ZIP
+  size: 253605
+  date: '1989-08-21T17:08:30'
+  crc: '0x6fd39031'
+- name: TOTAL.ZIP
+  size: 173082
+  date: '1989-09-05T17:31:44'
+  crc: '0x06f15202'
+- name: ZIP.2
+  size: 362496
+  date: '1989-08-18T16:25:46'
+  crc: '0x8ccfa84c'
+- name: ZIP.3
+  size: 312320
+  date: '1989-08-21T08:25:14'
+  crc: '0x30cbfc05'
+- name: ZIP.4
+  size: 50176
+  date: '1989-08-21T08:35:00'
+  crc: '0xa6248a60'
+- name: ZIP.5
+  size: 159093
+  date: '1989-08-21T08:37:24'
+  crc: '0xb4d8fdea'

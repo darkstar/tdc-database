@@ -1,0 +1,132 @@
+filename: ADVSYS - An Adventure Writing System v1.2 (1986)(David Betz) [Interactive Fiction, Editor].zip
+tdc_id: '1235.0'
+title:
+  screen: ADVSYS - An Adventure Writing System
+publisher: David Betz
+year: '1986'
+genre:
+- Interactive Fiction
+- Editor
+language: English
+date:
+  added: '2019-03-01T18:24:38'
+  last_modified: '2019-03-01T18:24:38'
+version: '1.2'
+type: zip
+files:
+- name: ADVAVL.C
+  size: 3750
+  date: '1986-07-20T12:42:16'
+  crc: '0xabfef748'
+- name: ADVAVL.H
+  size: 782
+  date: '1986-07-20T12:49:18'
+  crc: '0x876a03e6'
+- name: ADVCIO.C
+  size: 3619
+  date: '1987-06-28T11:51:02'
+  crc: '0x2285eb36'
+- name: ADVCOM.C
+  size: 15084
+  date: '1987-06-28T11:19:48'
+  crc: '0x308c229b'
+- name: ADVCOM.EXE
+  size: 18944
+  date: '1987-06-28T11:47:48'
+  crc: '0x9bc97aed'
+- name: ADVCOM.H
+  size: 1399
+  date: '1986-07-20T12:48:44'
+  crc: '0xfb0f4d38'
+- name: ADVDBS.C
+  size: 12010
+  date: '1987-06-28T12:19:32'
+  crc: '0x74d6f492'
+- name: ADVDBS.H
+  size: 5584
+  date: '1986-07-20T12:48:58'
+  crc: '0xfa2a76eb'
+- name: ADVEXE.C
+  size: 6189
+  date: '1987-06-28T10:58:42'
+  crc: '0x7fd73927'
+- name: ADVEXP.C
+  size: 10829
+  date: '1986-07-20T12:42:00'
+  crc: '0xd82f40f7'
+- name: ADVFCN.C
+  size: 14289
+  date: '1987-06-27T23:00:30'
+  crc: '0xc24998a5'
+- name: ADVFIO.C
+  size: 995
+  date: '1987-06-27T19:11:44'
+  crc: '0xd9b7a235'
+- name: ADVIIO.C
+  size: 8496
+  date: '1987-06-28T11:52:12'
+  crc: '0xd5f696fc'
+- name: ADVINT.C
+  size: 1800
+  date: '1987-06-28T11:48:40'
+  crc: '0x8f6e34b5'
+- name: ADVINT.EXE
+  size: 14448
+  date: '1987-06-28T11:48:08'
+  crc: '0x6508adc0'
+- name: ADVINT.H
+  size: 383
+  date: '1986-07-20T12:50:10'
+  crc: '0x9f8715e8'
+- name: ADVMSG.C
+  size: 2669
+  date: '1987-06-27T22:48:38'
+  crc: '0xc000e707'
+- name: ADVPRS.C
+  size: 7269
+  date: '1986-07-20T12:43:44'
+  crc: '0xebb8168d'
+- name: ADVSCN.C
+  size: 6339
+  date: '1987-06-28T10:49:08'
+  crc: '0x7dff44c2'
+- name: ADVSYS.DOC
+  size: 30535
+  date: '1987-05-03T08:41:26'
+  crc: '0x9893131b'
+- name: ADVTRM.C
+  size: 3244
+  date: '1987-06-27T22:49:06'
+  crc: '0x9b910a3d'
+- name: CCOM.BAT
+  size: 78
+  date: '1987-07-30T21:32:00'
+  crc: '0x92719c05'
+- name: COM.LNK
+  size: 78
+  date: '1987-07-30T21:30:46'
+  crc: '0xd8605874'
+- name: ICOM.BAT
+  size: 78
+  date: '1987-07-30T21:31:44'
+  crc: '0x07122919'
+- name: INT.LNK
+  size: 78
+  date: '1987-07-30T21:31:10'
+  crc: '0xde9a68c5'
+- name: OBJECTS.ADI
+  size: 13193
+  date: '1986-07-20T14:16:02'
+  crc: '0x336c273e'
+- name: OSAMPLE.ADV
+  size: 4355
+  date: '1986-07-20T14:15:24'
+  crc: '0x8954bb4f'
+- name: OSAMPLE.DAT
+  size: 6015
+  date: '1987-06-29T22:58:48'
+  crc: '0x5d11217d'
+- name: README.1ST
+  size: 2067
+  date: '1987-06-27T23:21:52'
+  crc: '0x5583ffb5'

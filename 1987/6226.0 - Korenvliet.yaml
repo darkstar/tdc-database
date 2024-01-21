@@ -1,0 +1,30 @@
+filename: Korenvliet (Nl) (1987)(Anonymous) [Adventure, Interactive Fiction].zip
+tdc_id: '6226.0'
+title:
+  screen: Korenvliet
+publisher: Anonymous
+year: '1987'
+genre:
+- Adventure
+- Interactive Fiction
+language: Dutch
+date:
+  added: '2019-03-01T18:25:24'
+  last_modified: '2019-03-01T18:25:24'
+type: zip
+media: Download
+commands:
+  play: START.BAT
+files:
+- name: GWBASIC.EXE
+  size: 80592
+  date: '1998-06-16T02:32:16'
+  crc: '0x8462d0e4'
+- name: KORENVL.BAS
+  size: 17190
+  date: '1987-10-03T01:32:00'
+  crc: '0x8ff5832e'
+- name: START.BAT
+  size: 36
+  date: '2007-02-01T08:15:42'
+  crc: '0xeebe7af9'

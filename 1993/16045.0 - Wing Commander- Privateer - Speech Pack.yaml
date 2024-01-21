@@ -1,0 +1,26 @@
+filename: Wing Commander- Privateer - Speech Pack (1993)(Electronic Arts, Inc.) [Action, Simulation, Addon].zip
+tdc_id: '16045.0'
+title:
+  box: 'Wing Commander: Privateer - Speech Pack'
+publisher: Electronic Arts, Inc.
+year: '1993'
+genre:
+- Action
+- Simulation
+- Addon
+language: English
+date:
+  added: '2019-03-01T21:12:20'
+  last_modified: '2019-03-01T21:12:20'
+type: zip
+commands:
+  play: SPEECH.EXE
+files:
+- name: SPEECH.EXE
+  size: 35363
+  date: '1993-08-31T15:58:00'
+  crc: '0x128f2a70'
+- name: SPEECH.PAK
+  size: 6130358
+  date: '1993-08-31T15:58:00'
+  crc: '0xdd379a7a'

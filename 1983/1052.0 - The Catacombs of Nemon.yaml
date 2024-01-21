@@ -1,0 +1,28 @@
+filename: Catacombs of Nemon, The (1983)(Ron Dubren Associates, ICS Inc) [Action].zip
+tdc_id: '1052.0'
+title:
+  screen: The Catacombs of Nemon
+publisher: Ron Dubren Associates, ICS Inc
+year: '1983'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:23:08'
+  last_modified: '2019-03-01T18:23:08'
+type: zip
+references:
+  dosid: DOS06766
+  exodos: Catacombs of Nemon, The (1983).zip
+files:
+- name: AUTOEXEC.BAT
+  size: 8
+  date: '1980-01-01T00:02:30'
+  crc: '0x52fd2eef'
+- name: NEMART.BAS
+  size: 16512
+  date: '1980-01-01T00:14:40'
+  crc: '0xc22b0bf2'
+- name: NEMON.EXE
+  size: 56192
+  date: '1980-01-01T01:00:32'
+  crc: '0x2ecdd591'

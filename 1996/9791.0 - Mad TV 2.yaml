@@ -1,0 +1,90 @@
+filename: Mad TV 2 (Installer) (De) (1996)(Funsoft GmbH) [Strategy].zip
+tdc_id: '9791.0'
+title:
+  box: Mad TV 2
+publisher: Funsoft GmbH
+year: '1996'
+genre: Strategy
+language: German
+date:
+  added: '2021-10-08T14:05:18'
+  last_modified: '2021-10-08T14:05:18'
+type: zip
+installer: true
+commands:
+  play: INSTALL.BAT
+files:
+- name: AUTORUN.INF
+  size: 47
+  date: '1996-12-02T08:23:08'
+  crc: '0x6e280a0c'
+- name: DISKID
+  size: 6
+  date: '1996-11-29T02:51:40'
+  crc: '0x7bfb4dee'
+- name: INSTALL.BAT
+  size: 150
+  date: '1996-12-02T08:31:30'
+  crc: '0x9f17b9f6'
+- name: MADTV2\
+  size: 0
+  date: '1996-12-02T13:34:36'
+- name: MADTV2\INSTALL.CFG
+  size: 2313
+  date: '1996-12-02T13:04:38'
+  crc: '0xe6a8282f'
+- name: MADTV2\INSTALL.EXE
+  size: 27757
+  date: '1996-10-16T09:10:22'
+  crc: '0x56936ef4'
+- name: MADTV2\LIESMICH.TXT
+  size: 4322
+  date: '1996-12-02T11:17:50'
+  crc: '0x99815693'
+- name: MADTV2\MADTV2.PAK
+  size: 32899688
+  date: '1996-12-02T13:26:04'
+  crc: '0xa22f1531'
+- name: MADTV2\SHOWTEXT.EXE
+  size: 9824
+  date: '1996-10-16T11:41:26'
+  crc: '0x10474ebb'
+- name: MTVICON.ICO
+  size: 766
+  date: '1996-11-29T10:04:18'
+  crc: '0x0154bfd5'
+- name: UNIVESA\
+  size: 0
+  date: '1996-12-02T13:34:38'
+- name: UNIVESA\COPYRIGH
+  size: 1027
+  date: '1993-03-14T16:51:24'
+  crc: '0xb46c38f8'
+- name: UNIVESA\TEST16.EXE
+  size: 37738
+  date: '1993-04-04T12:07:44'
+  crc: '0x90168432'
+- name: UNIVESA\TEST16M.EXE
+  size: 37784
+  date: '1993-04-04T12:07:58'
+  crc: '0xf294bb4f'
+- name: UNIVESA\TEST256.EXE
+  size: 37658
+  date: '1993-04-04T12:07:50'
+  crc: '0x527336a4'
+- name: UNIVESA\TEST32K.EXE
+  size: 37712
+  date: '1993-04-04T12:07:54'
+  crc: '0xb38b2db9'
+- name: UNIVESA\UNIVESA.DOC
+  size: 6204
+  date: '1993-03-25T02:08:08'
+  crc: '0x66f22598'
+- name: UNIVESA\UNIVESA.EXE
+  size: 34032
+  date: '1993-03-26T12:55:40'
+  crc: '0xcf9cd246'
+- name: UNIVESA\UVESA32.TXT
+  size: 330
+  date: '1993-10-03T15:40:16'
+  crc: '0x81860b5a'

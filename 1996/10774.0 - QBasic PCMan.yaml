@@ -1,0 +1,28 @@
+filename: QBasic PCMan (1996)(Akarsha Vasant Kumar) [Action].zip
+tdc_id: '10774.0'
+title:
+  screen: QBasic PCMan
+publisher: Akarsha Vasant Kumar
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:16:14'
+  last_modified: '2019-03-02T10:16:14'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 25
+  date: '2018-03-13T01:16:24'
+  crc: '0xba27dc93'
+- name: PCMAN.BAS
+  size: 18863
+  date: '2018-03-10T00:45:14'
+  crc: '0x1e39c200'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'

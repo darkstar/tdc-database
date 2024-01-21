@@ -1,0 +1,29 @@
+filename: Napión 3D (demo) (Es) (1999)(Newsoft) [Action].zip
+tdc_id: '17166.1'
+title:
+  screen: Napión 3D
+  qualifier: demo
+publisher: Newsoft
+year: '1999'
+genre: Action
+language: Spanish
+date:
+  added: '2022-12-12T14:17:41'
+  last_modified: '2022-12-12T14:17:41'
+type: zip
+demo: true
+commands:
+  play: DEMO.EXE
+files:
+- name: DEMO.EXE
+  size: 500008
+  date: '1999-04-05T19:13:58'
+  crc: '0x8c43d090'
+- name: NAPION.CFG
+  size: 96
+  date: '1999-06-14T11:21:34'
+  crc: '0x3385cb89'
+- name: NAP_DEMO.DAT
+  size: 11029170
+  date: '1999-04-05T13:09:28'
+  crc: '0x14a69095'

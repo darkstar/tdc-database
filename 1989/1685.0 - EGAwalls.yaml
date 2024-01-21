@@ -1,0 +1,38 @@
+filename: EGAwalls (1989)(Polik) [Simulation].zip
+tdc_id: '1685.0'
+title:
+  screen: EGAwalls
+publisher: Polik
+year: '1989'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:27:40'
+  last_modified: '2019-03-01T18:27:40'
+type: zip
+commands:
+  play: Egawalls.exe
+references:
+  dosid: DOS01975
+  exodos: Egawalls (1989).zip
+files:
+- name: Egawalls.001
+  size: 6696
+  date: '1994-12-29T18:12:34'
+  crc: '0x2a8d4332'
+- name: Egawalls.002
+  size: 6696
+  date: '1994-12-29T18:12:34'
+  crc: '0x9359e5d3'
+- name: Egawalls.exe
+  size: 72087
+  date: '1994-12-29T18:12:36'
+  crc: '0xcbf4c688'
+- name: Egawalls.hi
+  size: 345
+  date: '1994-12-29T18:12:36'
+  crc: '0x057e2155'
+- name: Egawalls.snd
+  size: 1024
+  date: '1994-12-29T18:12:38'
+  crc: '0x5ccebda5'

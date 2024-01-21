@@ -1,0 +1,56 @@
+filename: Spell Castle v2.1 (1989)(ComputerEasy) [Educational].zip
+tdc_id: '15364.1'
+title:
+  box: Spell Castle
+publisher: ComputerEasy
+year: '1989'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T18:29:02'
+  last_modified: '2019-03-01T18:29:02'
+version: '2.1'
+type: zip
+commands:
+  play: SPELL.EXE
+files:
+- name: CAST
+  size: 2432
+  date: '1980-01-01T00:25:28'
+  crc: '0x816cb2af'
+- name: CUSTOM
+  size: 128
+  date: '1989-11-27T14:11:28'
+  crc: '0x937bf338'
+- name: HIGH
+  size: 690
+  date: '1989-07-03T08:23:08'
+  crc: '0xab024785'
+- name: KEYB
+  size: 1420
+  date: '1989-08-28T08:35:54'
+  crc: '0xcad4952e'
+- name: POSI
+  size: 768
+  date: '1989-07-03T08:22:32'
+  crc: '0x07e62e2c'
+- name: RULE
+  size: 2066
+  date: '1989-08-28T08:35:52'
+  crc: '0xe8043bfc'
+- name: SCOR
+  size: 649
+  date: '1989-08-28T08:35:56'
+  crc: '0x7be79dfe'
+- name: SPELL.EXE
+  size: 56026
+  date: '1989-11-27T14:06:56'
+  crc: '0x5d9f73c1'
+- name: SRULE
+  size: 807
+  date: '1980-01-01T00:49:06'
+  crc: '0x73fc7232'
+- name: WORD
+  size: 12611
+  date: '1980-01-01T00:23:44'
+  crc: '0x3648c04b'

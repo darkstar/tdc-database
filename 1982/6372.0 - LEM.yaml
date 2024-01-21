@@ -1,0 +1,30 @@
+filename: LEM [SW] (1982)(Dynacomp Inc.) [Simulation].zip
+tdc_id: '6372.0'
+title:
+  screen: LEM
+publisher: Dynacomp Inc.
+year: '1982'
+genre: Simulation
+language: English
+date:
+  added: '2019-09-02T05:04:00'
+  last_modified: '2019-09-02T05:04:00'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: LEM.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T12:00:00'
+  crc: '0x92293842'
+- name: LEM.BAS
+  size: 2560
+  date: '1982-04-26T17:17:36'
+  crc: '0xd0aebe0b'
+- name: LEM.BAT
+  size: 13
+  date: '1980-01-01T12:00:00'
+  crc: '0xdbc486e2'

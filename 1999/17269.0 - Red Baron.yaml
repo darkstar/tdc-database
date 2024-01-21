@@ -1,0 +1,30 @@
+filename: Red Baron [FW] (1999)(CyberTouch Productions) [Action].zip
+tdc_id: '17269.0'
+title:
+  screen: Red Baron
+publisher: CyberTouch Productions
+year: '1999'
+genre: Action
+language: English
+date:
+  added: '2023-03-13T07:26:46'
+  last_modified: '2023-03-13T07:26:46'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 28
+  date: '2023-03-01T13:25:32'
+  crc: '0x74e8d0b3'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T01:28:02'
+  crc: '0x19f6ed75'
+- name: RedBaron.bas
+  size: 48295
+  date: '1999-07-09T09:33:52'
+  crc: '0x0b8c7826'

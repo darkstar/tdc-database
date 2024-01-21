@@ -1,0 +1,34 @@
+filename: Darknite (199x)(Anonymous) [Adventure, Interactive Fiction].zip
+tdc_id: '12946.0'
+title:
+  screen: Darknite
+publisher: Anonymous
+year: 199x
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2020-10-21T06:55:28'
+  last_modified: '2020-10-21T06:55:28'
+type: zip
+media: Download
+commands:
+  play: DARKNITE.EXE
+files:
+- name: DARKNITE.EXE
+  size: 46080
+  date: '1991-04-30T15:16:04'
+  crc: '0x0edc14bd'
+- name: INITFILE.DAT
+  size: 1997
+  date: '1989-09-02T14:16:24'
+  crc: '0x6199b925'
+- name: PASSAGES.DAT
+  size: 13028
+  date: '1989-10-05T21:04:14'
+  crc: '0x4920e05e'
+- name: STARTUP.DAT
+  size: 1594
+  date: '1991-04-27T03:17:28'
+  crc: '0x7e4cd383'

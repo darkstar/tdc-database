@@ -1,0 +1,28 @@
+filename: Codebreaker Game (1985)(Anonymous) [Strategy].zip
+tdc_id: '9222.0'
+title:
+  screen: Codebreaker Game
+publisher: Anonymous
+year: '1985'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:24:22'
+  last_modified: '2019-03-01T18:24:22'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 24
+  date: '2019-01-13T15:41:20'
+  crc: '0xeb6c75e0'
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1988-10-05T02:00:08'
+  crc: '0x2a44af39'
+- name: MASTMIND.BAS
+  size: 1152
+  date: '1985-06-15T00:02:44'
+  crc: '0x37c0ee19'

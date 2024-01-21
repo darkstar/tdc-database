@@ -1,0 +1,32 @@
+filename: Football (1983)(International PC Owners) [Simulation, Sports].zip
+tdc_id: '13707.0'
+title:
+  screen: Football
+publisher: International PC Owners
+year: '1983'
+genre:
+- Simulation
+- Sports
+language: English
+date:
+  added: '2019-03-01T18:23:12'
+  last_modified: '2019-03-01T18:23:12'
+type: zip
+commands:
+  play: FOOTBALL.BAT
+references:
+  dosid: DOS07396
+  exodos: Football (1983).zip
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: FOOTBALL.BAS
+  size: 9472
+  date: '1983-10-30T13:40:00'
+  crc: '0xbd010afa'
+- name: FOOTBALL.BAT
+  size: 17
+  date: '2014-12-01T01:30:36'
+  crc: '0xf207140a'

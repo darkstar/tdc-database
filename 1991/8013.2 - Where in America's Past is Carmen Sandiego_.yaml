@@ -1,0 +1,70 @@
+filename: Where in America's Past is Carmen Sandiego_ [h1] (1991)(Brøderbund Software, Inc.) [Adventure, Educational].zip
+tdc_id: '8013.2'
+title:
+  box: Where in America's Past is Carmen Sandiego?
+publisher: Brøderbund Software, Inc.
+year: '1991'
+genre:
+- Adventure
+- Educational
+language: English
+date:
+  added: '2021-05-18T09:54:26'
+  last_modified: '2021-05-18T09:54:26'
+type: zip
+tags:
+- Hack: 1
+commands:
+  play: RUNME.EXE
+references:
+  dosid: DOS05575
+  exodos: Where in America's Past is Carmen Sandiego (1991).zip
+files:
+- name: ANIM.DAT
+  size: 270670
+  date: '1991-06-12T07:46:38'
+  crc: '0xab1de5d0'
+- name: CARMEN.DAT
+  size: 202571
+  date: '1991-06-12T07:46:46'
+  crc: '0x3d2c5d91'
+- name: DIGISND.DAT
+  size: 300281
+  date: '1991-06-12T07:46:08'
+  crc: '0x8d3f1668'
+- name: EGACGA.DAT
+  size: 363473
+  date: '1991-06-12T07:46:12'
+  crc: '0x6be3ba6b'
+- name: FRAGSND.DAT
+  size: 660
+  date: '1991-06-12T07:46:48'
+  crc: '0x1126f56f'
+- name: IBMSND.DAT
+  size: 19100
+  date: '1991-06-12T07:46:48'
+  crc: '0x74024431'
+- name: MCGA.DAT
+  size: 623115
+  date: '1991-06-12T07:46:18'
+  crc: '0x97e06442'
+- name: MFXSND.DAT
+  size: 5771
+  date: '1991-06-12T07:46:48'
+  crc: '0x11c3558e'
+- name: MIDISND.DAT
+  size: 42426
+  date: '1991-06-12T07:46:50'
+  crc: '0xc1b61704'
+- name: REGIONS.DAT
+  size: 134094
+  date: '1991-06-12T07:46:56'
+  crc: '0xb54c4f4b'
+- name: RUNME.EXE
+  size: 165147
+  date: '1991-06-12T07:46:26'
+  crc: '0x30a61438'
+- name: SAVEGAME.DAT
+  size: 300
+  date: '1991-06-12T13:47:56'
+  crc: '0xd53d61b4'

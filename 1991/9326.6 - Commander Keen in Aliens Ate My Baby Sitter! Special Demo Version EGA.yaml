@@ -1,0 +1,25 @@
+filename: Commander Keen in Aliens Ate My Baby Sitter! Special Demo Version EGA (Installer) (1991)(FormGen Corporation, Inc.) [Action].zip
+tdc_id: '9326.6'
+title:
+  screen: Commander Keen in Aliens Ate My Baby Sitter! Special Demo Version EGA
+publisher: FormGen Corporation, Inc.
+year: '1991'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:35:16'
+  last_modified: '2019-03-01T18:35:16'
+type: zip
+installer: true
+demo: true
+commands:
+  play: '!K6DEMO!.EXE'
+files:
+- name: '!K6DEMO!.EXE'
+  size: 345207
+  date: '1991-11-22T11:21:12'
+  crc: '0xae18a7d0'
+- name: BBS.TXT
+  size: 369
+  date: '1991-11-22T02:43:46'
+  crc: '0xae571f04'

@@ -1,0 +1,45 @@
+filename: Immoral Cumbat v1.2 (Installer) [SWR] (1995)(Coresoft) [Action, Adult].zip
+tdc_id: '11428.0'
+title:
+  screen: Immoral Cumbat
+publisher: Coresoft
+year: '1995'
+genre:
+- Action
+- Adult
+language: English
+date:
+  added: '2019-03-02T08:55:46'
+  last_modified: '2019-03-02T08:55:46'
+version: '1.2'
+type: zip
+tags:
+- SharewareRegistered
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: ICUMBAT.001
+  size: 1000000
+  date: '1995-01-09T17:42:48'
+  crc: '0x29b7cda7'
+- name: ICUMBAT.002
+  size: 1450000
+  date: '1995-01-09T17:43:42'
+  crc: '0x379cd20e'
+- name: ICUMBAT.003
+  size: 1450000
+  date: '1995-01-09T17:44:44'
+  crc: '0x4d9ceb9e'
+- name: ICUMBAT.004
+  size: 1400948
+  date: '1995-01-09T17:45:46'
+  crc: '0xf3c83de3'
+- name: INSTALL.EXE
+  size: 38432
+  date: '1995-01-09T15:58:38'
+  crc: '0x31c2d0ad'
+- name: README.TXT
+  size: 652
+  date: '1995-01-09T15:51:50'
+  crc: '0x643ac9ee'

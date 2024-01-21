@@ -1,0 +1,41 @@
+filename: Age of Heroes v1.1 [SW] (1996)(Yggdrisil Software) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '134.0'
+title:
+  screen: Age of Heroes
+publisher: Yggdrisil Software
+year: '1996'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2016-02-16T13:45:02'
+  last_modified: '2016-02-16T13:45:02'
+version: '1.1'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: HEROES.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 217
+  date: '1996-06-15T16:37:50'
+  crc: '0xc1b88944'
+- name: HEROES.EXE
+  size: 90082
+  date: '1996-06-07T00:54:36'
+  crc: '0x0849d838'
+- name: HEROES.TXT
+  size: 10883
+  date: '1996-06-15T16:37:50'
+  crc: '0x35be66cc'
+- name: IMAGE.SHW
+  size: 46005
+  date: '1996-02-25T22:40:48'
+  crc: '0x1590a446'
+- name: IMAGE2.SHW
+  size: 44005
+  date: '1996-02-25T22:40:48'
+  crc: '0x54eccdf6'

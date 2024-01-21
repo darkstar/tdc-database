@@ -1,0 +1,48 @@
+filename: Invasion of the Silly Mutants, The v1.8 (Installer) (De) (1994)(Deluxe Soft) [Action].zip
+tdc_id: '11542.1'
+title:
+  screen: The Invasion of the Silly Mutants
+publisher: Deluxe Soft
+year: '1994'
+genre: Action
+language: German
+date:
+  added: '2019-03-01T22:00:56'
+  last_modified: '2022-11-21T08:52:49'
+version: '1.8'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 60476
+  date: '1994-09-06T04:53:20'
+  crc: '0xf5732737'
+- name: INSTALL\
+  size: 0
+  date: '2015-08-04T11:26:38'
+- name: INSTALL\INSTALL.ERR
+  size: 6080
+  date: '1993-09-30T11:00:00'
+  crc: '0x24a8a411'
+- name: INSTALL\INSTALL.FON
+  size: 16387
+  date: '1994-06-15T03:44:34'
+  crc: '0x842c2410'
+- name: INSTALL\INSTALL.SPR
+  size: 16386
+  date: '1994-06-15T03:35:06'
+  crc: '0x8d017002'
+- name: INSTALL\INSTALL.VSP
+  size: 49062
+  date: '1989-01-02T10:59:02'
+  crc: '0xbf113c54'
+- name: INSTALL\INSTALL.ZIP
+  size: 557223
+  date: '1994-09-06T05:17:28'
+  crc: '0x4b40e911'
+- name: INSTALL\PKUNZIP.EXE
+  size: 19346
+  date: '1992-09-11T02:25:00'
+  crc: '0xfda8eb77'

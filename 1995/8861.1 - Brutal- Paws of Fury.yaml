@@ -1,0 +1,37 @@
+filename: Brutal- Paws of Fury (Installer) (1995)(GameTek, Inc.) [Action].zip
+tdc_id: '8861.1'
+parent_id: '8861.3'
+title:
+  box: 'Brutal: Paws of Fury'
+publisher: GameTek, Inc.
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T07:30:42'
+  last_modified: '2019-03-02T07:30:42'
+type: zip
+installer: true
+commands:
+  play: install.exe
+files:
+- name: bld_info.cfg
+  size: 1643
+  date: '1999-12-31T19:00:00'
+  crc: '0xd9d1578f'
+- name: gametek.1
+  size: 3132852
+  date: '1999-12-31T19:00:00'
+  crc: '0x1a707b07'
+- name: image.dat
+  size: 7918
+  date: '1999-12-31T19:00:00'
+  crc: '0xb50504c1'
+- name: install.exe
+  size: 109443
+  date: '1999-12-31T19:00:00'
+  crc: '0xfe747bfd'
+- name: langrc.res
+  size: 6243
+  date: '1999-12-31T19:00:00'
+  crc: '0x5445282f'

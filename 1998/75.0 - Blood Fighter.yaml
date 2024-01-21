@@ -1,0 +1,28 @@
+filename: Blood Fighter (1998)(Trip Hecht) [Action].zip
+tdc_id: '75.0'
+title:
+  screen: Blood Fighter
+publisher: Trip Hecht
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:40:42'
+  last_modified: '2019-03-02T10:40:42'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: BLUDFITE.BAS
+  size: 36826
+  date: '2018-11-22T18:48:26'
+  crc: '0xc67bd53e'
+- name: GO.BAT
+  size: 28
+  date: '2018-12-06T20:24:32'
+  crc: '0xc91692f2'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

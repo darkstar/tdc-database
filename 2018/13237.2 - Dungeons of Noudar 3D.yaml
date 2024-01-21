@@ -1,0 +1,31 @@
+filename: Dungeons of Noudar 3D vBeta6 (2018)(Daniel Monteiro) [Action, Adventure].zip
+tdc_id: '13237.2'
+title:
+  screen: Dungeons of Noudar 3D
+publisher: Daniel Monteiro
+year: '2018'
+genre:
+- Action
+- Adventure
+language: English
+date:
+  added: '2021-12-12T05:27:04'
+  last_modified: '2021-12-12T05:27:04'
+version: Beta6
+type: zip
+media: Download
+commands:
+  play: noudar.exe
+files:
+- name: cwsdpmi.exe
+  size: 20473
+  date: '2018-01-09T23:31:20'
+  crc: '0x80fa6999'
+- name: data.pfs
+  size: 213583
+  date: '2018-01-27T12:59:40'
+  crc: '0xdef5fd65'
+- name: noudar.exe
+  size: 1198080
+  date: '2018-01-27T13:28:24'
+  crc: '0x97995fcb'

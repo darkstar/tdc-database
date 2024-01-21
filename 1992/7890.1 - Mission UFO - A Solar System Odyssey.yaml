@@ -1,0 +1,68 @@
+filename: Mission UFO - A Solar System Odyssey (Installer) (1992)(J and B Associates) [Educational].zip
+tdc_id: '7890.1'
+title:
+  screen: Mission UFO - A Solar System Odyssey
+publisher: J and B Associates
+year: '1992'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T18:49:32'
+  last_modified: '2019-03-01T18:49:32'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK.ID
+  size: 40
+  date: '1992-05-06T09:57:46'
+  crc: '0xd0c4527c'
+- name: DISK.ID_1
+  size: 40
+  date: '1992-05-06T09:57:02'
+  crc: '0xe71aa24e'
+- name: DISK.ID_2
+  size: 40
+  date: '1992-05-06T09:57:24'
+  crc: '0xf5af0da0'
+- name: DISK.ID_3
+  size: 40
+  date: '1992-05-06T09:57:36'
+  crc: '0x4d136ac5'
+- name: DISK.ID_4
+  size: 40
+  date: '1992-05-06T09:57:46'
+  crc: '0xd0c4527c'
+- name: INSTALL.DAT
+  size: 7402
+  date: '2012-01-27T21:47:12'
+  crc: '0xbfe9b1d2'
+- name: INSTALL.DA_
+  size: 7402
+  date: '1992-05-11T11:17:02'
+  crc: '0xb179cd4c'
+- name: INSTALL.EXE
+  size: 75686
+  date: '1992-02-04T14:11:42'
+  crc: '0x183874b5'
+- name: MUFO.001
+  size: 98200
+  date: '1992-05-07T11:56:02'
+  crc: '0x619f2d40'
+- name: MUFO.002
+  size: 359906
+  date: '1992-05-07T11:59:44'
+  crc: '0xc5dd22dc'
+- name: MUFO.003
+  size: 359906
+  date: '1992-05-07T12:03:38'
+  crc: '0x8b4e8c34'
+- name: MUFO.004
+  size: 102377
+  date: '1992-05-07T12:04:58'
+  crc: '0xac0b4ea2'
+- name: MUFO.LIF
+  size: 177094
+  date: '1992-05-27T08:41:56'
+  crc: '0xbb8468b6'

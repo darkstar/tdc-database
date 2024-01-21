@@ -1,0 +1,28 @@
+filename: '!Bingo Granny! (2002)(Phillip Gervais) [Adventure].zip'
+tdc_id: '45.0'
+title:
+  screen: '!Bingo Granny!'
+publisher: Phillip Gervais
+year: '2002'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-02T10:55:50'
+  last_modified: '2019-03-02T10:55:50'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 28
+  date: '2018-12-17T12:25:14'
+  crc: '0x7333a971'
+- name: GRNYBING.BAS
+  size: 27297
+  date: '2002-05-07T08:18:04'
+  crc: '0x5a7332bb'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

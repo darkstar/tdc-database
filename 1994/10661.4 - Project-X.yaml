@@ -1,0 +1,46 @@
+filename: Project-X v0.99.c [a2] (1994)(Psygnosis Limited) [Action].zip
+tdc_id: '10661.4'
+title:
+  box: Project-X
+publisher: Psygnosis Limited
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T22:02:52'
+  last_modified: '2019-03-01T22:02:52'
+version: 0.99.c
+type: zip
+tags:
+- Alternate: 2
+commands:
+  play: X.EXE
+files:
+- name: PROJECTX.DAT
+  size: 424
+  date: '2003-10-21T02:03:06'
+  crc: '0xf9bfb296'
+- name: PROJECTX.EPF
+  size: 1858638
+  date: '1995-03-02T21:43:32'
+  crc: '0x1d3dab37'
+- name: PXLOADER.MOD
+  size: 24518
+  date: '1995-03-02T21:43:32'
+  crc: '0x133b5019'
+- name: RAVE.MOD
+  size: 119536
+  date: '1995-03-02T21:43:32'
+  crc: '0x5d952ff2'
+- name: SOUND.DAT
+  size: 1
+  date: '2000-04-10T22:58:48'
+  crc: '0x6dd28e9b'
+- name: SOUND.EXE
+  size: 1336
+  date: '1995-03-02T21:43:32'
+  crc: '0x63ac8fff'
+- name: X.EXE
+  size: 174206
+  date: '1995-03-02T21:48:42'
+  crc: '0x97384d6c'

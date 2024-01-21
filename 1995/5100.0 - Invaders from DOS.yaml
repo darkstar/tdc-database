@@ -1,0 +1,31 @@
+filename: Invaders from DOS (1995)(Barrett Computing Services Ltd) [Action].zip
+tdc_id: '5100.0'
+title:
+  screen: Invaders from DOS
+publisher: Barrett Computing Services Ltd
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T08:55:48'
+  last_modified: '2019-03-02T08:55:48'
+type: zip
+commands:
+  play: INVADE.EXE
+files:
+- name: ENTRY.PCX
+  size: 10586
+  date: '1995-09-30T09:00:00'
+  crc: '0x1323d9a2'
+- name: INVADE.EXE
+  size: 81116
+  date: '1995-09-30T09:00:00'
+  crc: '0xf696e365'
+- name: INVADE2.PCX
+  size: 12689
+  date: '1995-09-30T09:00:00'
+  crc: '0x4c27ba08'
+- name: README.TXT
+  size: 2235
+  date: '1995-09-30T09:00:00'
+  crc: '0x6eb551c8'

@@ -1,0 +1,28 @@
+filename: Duke Nukum- Episode One to Three v2.0 (Installer) [a1] (1991)(Apogee Software, Ltd.) [Compilation].zip
+tdc_id: '9475.1'
+title:
+  screen: 'Duke Nukum: Episode One to Three'
+publisher: Apogee Software, Ltd.
+year: '1991'
+genre: Compilation
+language: English
+date:
+  added: '2019-03-01T18:35:42'
+  last_modified: '2019-03-01T18:35:42'
+version: '2.0'
+type: zip
+tags:
+- Alternate: 1
+installer: true
+compilation: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DN1R20.SHR
+  size: 683282
+  date: '1998-07-24T13:55:56'
+  crc: '0x310f089d'
+- name: INSTALL.EXE
+  size: 142181
+  date: '1998-07-24T14:01:50'
+  crc: '0x8373dfc2'

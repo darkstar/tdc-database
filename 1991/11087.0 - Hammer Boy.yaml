@@ -1,0 +1,38 @@
+filename: Hammer Boy (1991)(Dinamic Software) [Action].zip
+tdc_id: '11087.0'
+title:
+  box: Hammer Boy
+publisher: Dinamic Software
+year: '1991'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:36:12'
+  last_modified: '2019-03-01T18:36:12'
+type: zip
+commands:
+  play: DINAMIC.EXE
+references:
+  dosid: DOS02164
+  exodos: Hammer Boy (1991).zip
+files:
+- name: DINAMIC.EXE
+  size: 1218
+  date: '2002-11-16T00:55:20'
+  crc: '0xeb1d80c4'
+- name: FASE1.FAS
+  size: 149092
+  date: '2002-11-16T00:55:20'
+  crc: '0x0a75379b'
+- name: FASE2.FAS
+  size: 153124
+  date: '2002-11-16T00:55:20'
+  crc: '0xcd607fc8'
+- name: SCRCGA.PAN
+  size: 16384
+  date: '2002-11-16T00:55:20'
+  crc: '0xf111efb0'
+- name: SCRVGA.PAN
+  size: 32000
+  date: '2002-11-16T00:55:20'
+  crc: '0x3e4c6b44'

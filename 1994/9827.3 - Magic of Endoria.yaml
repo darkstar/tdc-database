@@ -1,0 +1,44 @@
+filename: Magic of Endoria (Installer) (De) (1994)(Sunflowers Interactive Entertainment Software GmbH) [Strategy, Adventure].zip
+tdc_id: '9827.3'
+title:
+  box: Magic of Endoria
+publisher: Sunflowers Interactive Entertainment Software GmbH
+year: '1994'
+genre:
+- Strategy
+- Adventure
+language: German
+date:
+  added: '2022-11-17T13:58:18'
+  last_modified: '2022-11-17T13:58:18'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/magic-of-endoria
+files:
+- name: DISK01.MOE
+  size: 1437184
+  date: '1994-04-08T11:01:12'
+  crc: '0x5f0e9dec'
+- name: DISK02.MOE
+  size: 1457664
+  date: '1994-04-08T11:02:52'
+  crc: '0x96f3e7b4'
+- name: DISK03.MOE
+  size: 1457664
+  date: '1994-04-08T11:04:32'
+  crc: '0xc2a59014'
+- name: DISK04.MOE
+  size: 1457664
+  date: '1994-04-08T11:06:16'
+  crc: '0x78798bca'
+- name: DISK05.MOE
+  size: 963584
+  date: '1980-01-01T00:00:00'
+  crc: '0x13948825'
+- name: INSTALL.EXE
+  size: 19586
+  date: '1994-04-08T10:59:54'
+  crc: '0xf9d96c90'

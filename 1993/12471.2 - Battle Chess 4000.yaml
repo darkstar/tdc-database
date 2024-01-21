@@ -1,0 +1,92 @@
+filename: Battle Chess 4000 v1.00 (SVGA) (Installer) (1993)(Interplay Productions, Inc.) [Strategy][!].zip
+tdc_id: '12471.2'
+parent_id: '12471.5'
+title:
+  box: Battle Chess 4000
+  qualifier: SVGA
+publisher: Interplay Productions, Inc.
+year: '1993'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:41:24'
+  last_modified: '2023-10-24T18:01:15'
+version: '1.00'
+type: zip
+tags:
+- KnownGood
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/3460/battle-chess-4000/
+files:
+- name: BC4 STAR.TUP
+  size: 0
+  date: '1992-12-20T12:21:08'
+- name: DATADISK.1
+  size: 0
+  date: '1992-12-20T12:46:08'
+- name: DATADISK.2
+  size: 0
+  date: '1992-12-20T12:25:18'
+- name: DATADISK.3
+  size: 0
+  date: '1992-12-20T12:27:08'
+- name: DATADISK.4
+  size: 0
+  date: '1992-12-20T12:29:30'
+- name: DATADISK.5
+  size: 0
+  date: '1992-12-20T12:31:46'
+- name: DATADISK.6
+  size: 0
+  date: '1992-12-20T12:34:42'
+- name: DATADISK.7
+  size: 0
+  date: '1992-12-20T12:36:42'
+- name: FILE00.EXE
+  size: 1361953
+  date: '1992-12-20T19:00:46'
+  crc: '0x61d5c725'
+- name: FILE01.EXE
+  size: 1377863
+  date: '1992-12-20T10:32:12'
+  crc: '0x490f4829'
+- name: FILE02.EXE
+  size: 1420062
+  date: '1992-12-20T10:33:26'
+  crc: '0xe83d75b5'
+- name: FILE03.EXE
+  size: 1436785
+  date: '1992-12-20T10:34:38'
+  crc: '0x96c4585c'
+- name: FILE04.EXE
+  size: 1400565
+  date: '1992-12-20T10:35:48'
+  crc: '0x6c71b6b9'
+- name: FILE05.EXE
+  size: 1436576
+  date: '1992-12-20T10:37:00'
+  crc: '0x6fdf72c8'
+- name: FILE06.EXE
+  size: 1336175
+  date: '1992-12-20T10:39:30'
+  crc: '0x7b9d7deb'
+- name: FILE07.EXE
+  size: 1211405
+  date: '1992-12-20T10:40:48'
+  crc: '0x35fdbc1e'
+- name: INSTALL.EXE
+  size: 23040
+  date: '1992-12-20T15:06:38'
+  crc: '0x3e47fbef'
+- name: README.BAT
+  size: 36
+  date: '1992-12-21T11:45:16'
+  crc: '0x09218b10'
+- name: README.TXT
+  size: 768
+  date: '1992-12-21T11:46:16'
+  crc: '0x349d1d9e'

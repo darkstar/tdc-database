@@ -1,0 +1,37 @@
+filename: Space Patrol (Es) (2001)(5 Union Software Group S.L.) [Action].zip
+tdc_id: '17195.0'
+title:
+  screen: Space Patrol
+publisher: 5 Union Software Group S.L.
+year: '2001'
+genre: Action
+language: Spanish
+date:
+  added: '2022-12-27T12:35:54'
+  last_modified: '2022-12-27T12:35:54'
+type: zip
+media: Download
+commands:
+  play: PATRULLA.EXE
+  setup: SETUP.EXE
+files:
+- name: DIV32RUN.DLL
+  size: 320043
+  date: '2001-06-20T14:53:24'
+  crc: '0xed72e0f1'
+- name: PATRULLA.EXE
+  size: 4957
+  date: '2001-06-20T14:53:24'
+  crc: '0x36756ffa'
+- name: PATRULLA.PAK
+  size: 525023
+  date: '2001-06-20T14:53:24'
+  crc: '0x59e9389f'
+- name: SETUP.EXE
+  size: 1791
+  date: '2001-06-20T14:53:24'
+  crc: '0x63208180'
+- name: SOUND.CFG
+  size: 44
+  date: '2019-08-22T15:33:06'
+  crc: '0x8eb04f9e'

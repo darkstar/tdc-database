@@ -1,0 +1,28 @@
+filename: Monsters of Galacticon (1982)(Usborne Publishing Ltd) [Puzzle].zip
+tdc_id: '17287.0'
+title:
+  screen: Monsters of Galacticon
+publisher: Usborne Publishing Ltd
+year: '1982'
+genre: Puzzle
+language: English
+date:
+  added: '2023-03-16T07:41:21'
+  last_modified: '2023-03-16T07:41:21'
+type: zip
+media: Type-In
+commands:
+  play: Go.bat
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T12:00:00'
+  crc: '0x92293842'
+- name: Go.bat
+  size: 13
+  date: '2022-08-03T19:54:02'
+  crc: '0x2f87e078'
+- name: MonGal.bas
+  size: 1078
+  date: '2022-08-03T17:49:40'
+  crc: '0x18051af3'

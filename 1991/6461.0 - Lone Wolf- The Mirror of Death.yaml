@@ -1,0 +1,68 @@
+filename: Lone Wolf- The Mirror of Death (1991)(Audiogenic Software Ltd.) [Action, Adventure].zip
+tdc_id: '6461.0'
+title:
+  box: 'Lone Wolf: The Mirror of Death'
+publisher: Audiogenic Software Ltd.
+year: '1991'
+genre:
+- Action
+- Adventure
+language: English
+date:
+  added: '2019-03-01T18:36:40'
+  last_modified: '2019-03-01T18:36:40'
+type: zip
+commands:
+  play: LW.EXE
+references:
+  dosid: DOS03216
+  exodos: Lone Wolf - The Mirror of Death (1991).zip
+files:
+- name: 4TITLE.LBM
+  size: 11300
+  date: '1991-08-08T16:48:04'
+  crc: '0xae5b4617'
+- name: CGABMAPS.BIN
+  size: 17648
+  date: '1990-11-26T13:54:14'
+  crc: '0x3de3e6ed'
+- name: CGADEMON.BIN
+  size: 44944
+  date: '1990-11-07T16:21:54'
+  crc: '0xa7d6c095'
+- name: CGALONEW.BIN
+  size: 44944
+  date: '1990-11-05T15:29:18'
+  crc: '0x86c314d7'
+- name: CGAMISC.BIN
+  size: 8640
+  date: '1990-11-07T12:06:20'
+  crc: '0x22b5431f'
+- name: EGABMAPS.BIN
+  size: 35040
+  date: '1990-11-26T13:54:14'
+  crc: '0xc8aa2c2f'
+- name: EGADEMON.BIN
+  size: 56080
+  date: '1990-11-07T15:51:16'
+  crc: '0x58167b0b'
+- name: EGALONEW.BIN
+  size: 56080
+  date: '1990-11-05T15:29:20'
+  crc: '0x8ddb8990'
+- name: EGAMISC.BIN
+  size: 10720
+  date: '1990-11-07T11:21:04'
+  crc: '0xc548e961'
+- name: LW.EXE
+  size: 33118
+  date: '1991-09-03T12:23:36'
+  crc: '0xcf451311'
+- name: SND.BIN
+  size: 3324
+  date: '1991-08-05T17:48:24'
+  crc: '0x64f5af89'
+- name: TITLE.LBM
+  size: 20998
+  date: '1991-08-08T16:47:06'
+  crc: '0x4fe65f71'

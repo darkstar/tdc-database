@@ -1,0 +1,30 @@
+filename: Idiots Quest (demo) v0.2 (1998)(Kevin B. Kohler) [Adventure].zip
+tdc_id: '9667.0'
+title:
+  screen: Idiots Quest
+  qualifier: demo
+publisher: Kevin B. Kohler
+year: '1998'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-02T10:41:48'
+  last_modified: '2019-03-02T10:41:48'
+version: '0.2'
+type: zip
+demo: true
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 26
+  date: '2018-11-14T18:44:42'
+  crc: '0xd2d55f6e'
+- name: IQDEMO.BAS
+  size: 112340
+  date: '1998-03-27T14:43:38'
+  crc: '0x83a18cbd'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'

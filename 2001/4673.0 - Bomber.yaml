@@ -1,0 +1,60 @@
+filename: Bomber v2.5 (2001)(Steve Marshall) [Action].zip
+tdc_id: '4673.0'
+title:
+  screen: Bomber
+publisher: Steve Marshall
+year: '2001'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:55:14'
+  last_modified: '2019-03-02T10:55:14'
+version: '2.5'
+type: zip
+commands:
+  play: BOMB5.EXE
+files:
+- name: BOMB5.BAS
+  size: 54971
+  date: '2001-07-23T09:33:18'
+  crc: '0xf48dfab2'
+- name: BOMB5.EXE
+  size: 100158
+  date: '2001-07-23T09:34:24'
+  crc: '0x424a2be3'
+- name: Engine.wav
+  size: 17202
+  date: '1997-11-22T17:02:24'
+  crc: '0x0999ad97'
+- name: Readme.txt
+  size: 923
+  date: '2001-09-17T00:33:54'
+  crc: '0x1605ed54'
+- name: Wind.wav
+  size: 19490
+  date: '2001-07-15T11:41:22'
+  crc: '0x7178160b'
+- name: bexplode.wav
+  size: 20122
+  date: '1997-11-21T14:36:04'
+  crc: '0x31d71cff'
+- name: bombrel.wav
+  size: 10830
+  date: '1997-11-21T02:08:34'
+  crc: '0x96531af9'
+- name: clank.wav
+  size: 6022
+  date: '1997-11-21T10:35:48'
+  crc: '0xc05d35dc'
+- name: mexplode.wav
+  size: 16858
+  date: '1997-11-21T01:02:00'
+  crc: '0x9f4f2837'
+- name: missle.wav
+  size: 24650
+  date: '1996-10-11T15:41:12'
+  crc: '0xc91aa560'
+- name: ow.wav
+  size: 3548
+  date: '2001-07-12T10:54:40'
+  crc: '0x4aa13001'

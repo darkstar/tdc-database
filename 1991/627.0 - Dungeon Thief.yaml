@@ -1,0 +1,31 @@
+filename: Dungeon Thief vD.5 [SW] (1991)(Sente Systems, Inc.) [Adventure, Action].zip
+tdc_id: '627.0'
+title:
+  screen: Dungeon Thief
+publisher: Sente Systems, Inc.
+year: '1991'
+genre:
+- Adventure
+- Action
+language: English
+date:
+  added: '2019-03-01T18:35:42'
+  last_modified: '2019-03-01T18:35:42'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: DTDEMO.EXE
+references:
+  dosid: DOS00156
+  exodos: Dungeon Thief (1991).zip
+files:
+- name: DTDEMO.EXE
+  size: 125392
+  date: '1991-11-01T17:01:04'
+  crc: '0x2869063a'
+- name: DTREAD.ME
+  size: 1043
+  date: '1991-11-01T17:06:20'
+  crc: '0x8b2104f2'

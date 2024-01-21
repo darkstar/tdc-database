@@ -1,0 +1,30 @@
+filename: Bridge Master (Installer) (1992)(Capstone Software) [Strategy, Cards].zip
+tdc_id: '12830.1'
+title:
+  box: Bridge Master
+publisher: Capstone Software
+year: '1992'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:41:34'
+  last_modified: '2019-03-01T18:41:34'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: BRIDGE00.INS
+  size: 649697
+  date: '1992-10-31T18:44:16'
+  crc: '0x954cca29'
+- name: BRIDGE01.INS
+  size: 614332
+  date: '1992-10-31T18:53:04'
+  crc: '0xf855d2a8'
+- name: INSTALL.EXE
+  size: 79070
+  date: '1992-10-31T18:06:40'
+  crc: '0x83b92d64'

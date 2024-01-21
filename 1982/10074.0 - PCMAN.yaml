@@ -1,0 +1,32 @@
+filename: PCMAN v00.01 (1982)(Al J. Jiménez) [Action].zip
+tdc_id: '10074.0'
+title:
+  screen: PCMAN
+publisher: Al J. Jiménez
+year: '1982'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:23:02'
+  last_modified: '2022-11-07T06:27:08'
+version: '00.01'
+type: zip
+commands:
+  play: PCMAN.EXE
+files:
+- name: JOYSTICK.DOC
+  size: 165
+  date: '1982-12-15T08:12:30'
+  crc: '0xfaedfa70'
+- name: JOYSTICK.EXE
+  size: 23424
+  date: '1982-11-04T09:24:28'
+  crc: '0x89fe7545'
+- name: PCMAN.EXE
+  size: 48384
+  date: '1982-11-04T08:28:34'
+  crc: '0x72aa4bf7'
+- name: PCMANHI.FIL
+  size: 128
+  date: '1987-08-13T23:17:18'
+  crc: '0x6ad3ecc7'

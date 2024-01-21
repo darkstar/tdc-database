@@ -1,0 +1,30 @@
+filename: Make Your ADoM (2002)(Igor Savin) [Adventure, Simulation, Strategy].zip
+tdc_id: '11108.0'
+title:
+  screen: Make Your ADoM
+publisher: Igor Savin
+year: '2002'
+genre:
+- Adventure
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2019-03-02T10:56:04'
+  last_modified: '2019-03-02T10:56:04'
+type: zip
+commands:
+  play: MYADOM.EXE
+files:
+- name: MYADOM.EXE
+  size: 48144
+  date: '2002-01-19T17:50:00'
+  crc: '0x4ed9a0f4'
+- name: debug
+  size: 1
+  date: '2002-02-13T19:22:02'
+  crc: '0xf4dbdf21'
+- name: history.txt
+  size: 307
+  date: '2002-01-19T15:51:46'
+  crc: '0x35797687'

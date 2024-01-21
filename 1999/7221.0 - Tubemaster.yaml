@@ -1,0 +1,42 @@
+filename: Tubemaster (demo) [FW] (1999)(Dieter Caspary) [Strategy, Puzzle].zip
+tdc_id: '7221.0'
+title:
+  screen: Tubemaster
+  qualifier: demo
+publisher: Dieter Caspary
+year: '1999'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-03-02T10:46:34'
+  last_modified: '2019-03-02T10:46:34'
+type: zip
+tags:
+- Freeware
+media: Download
+demo: true
+commands:
+  play: TUBE.EXE
+files:
+- name: Readme.txt
+  size: 1265
+  date: '1999-01-02T05:40:58'
+  crc: '0xb33bbdbc'
+- name: TUBE.EXE
+  size: 100220
+  date: '1999-01-02T03:54:52'
+  crc: '0x3e2c3924'
+- name: font1.fon
+  size: 4098
+  date: '1998-12-21T12:40:14'
+  crc: '0x8bb4fb12'
+- name: font2.fon
+  size: 4098
+  date: '1998-11-27T06:19:02'
+  crc: '0xfa125144'
+- name: screen.pcx
+  size: 167488
+  date: '1998-12-30T16:00:00'
+  crc: '0x3dd87ba8'

@@ -1,0 +1,27 @@
+filename: Time Bound (PCjr) (1984)(CBS Software) [Action, Educational][!].zip
+tdc_id: '16723.0'
+title:
+  box: Time Bound
+  qualifier: PCjr
+publisher: CBS Software
+year: '1984'
+genre:
+- Action
+- Educational
+language: English
+date:
+  added: '2019-03-01T18:24:18'
+  last_modified: '2019-03-01T18:24:18'
+type: zip
+tags:
+- KnownGood
+requirements:
+  cpu:
+    min: '8088'
+commands:
+  play: CBS.EXE
+files:
+- name: CBS.EXE
+  size: 19072
+  date: '1980-01-01T00:43:00'
+  crc: '0x54eee818'

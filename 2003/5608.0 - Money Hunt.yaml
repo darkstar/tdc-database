@@ -1,0 +1,35 @@
+filename: Money Hunt (2003)(Murat Elic) [Action].zip
+tdc_id: '5608.0'
+title:
+  screen: Money Hunt
+publisher: Murat Elic
+year: '2003'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:56:42'
+  last_modified: '2019-03-02T10:56:42'
+type: zip
+commands:
+  play: mhunt.exe
+files:
+- name: gamedata.dat
+  size: 2264
+  date: '2003-07-15T04:08:54'
+  crc: '0x241a5f3c'
+- name: glass.wav
+  size: 11532
+  date: '1997-07-11T08:37:00'
+  crc: '0xd1c776b1'
+- name: highscor.dat
+  size: 183
+  date: '2003-07-15T04:14:36'
+  crc: '0x50eba574'
+- name: mhunt.exe
+  size: 98726
+  date: '2003-07-15T13:19:42'
+  crc: '0x1276477e'
+- name: murat.wav
+  size: 81566
+  date: '2003-07-14T20:20:24'
+  crc: '0x85ae3b25'

@@ -1,0 +1,43 @@
+filename: Football Glory v1.1a (Installer) (1995)(Black Legend Ltd.) [Sports].zip
+tdc_id: '13713.2'
+title:
+  box: Football Glory
+publisher: Black Legend Ltd.
+year: '1995'
+genre: Sports
+language: English
+date:
+  added: '2023-01-19T10:52:48'
+  last_modified: '2023-01-19T10:52:48'
+version: 1.1a
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/football-glory
+files:
+- name: AUTOEXEC.BAT
+  size: 62
+  date: '1995-03-14T10:01:58'
+  crc: '0xee07b6ff'
+- name: CONFIG.SYS
+  size: 57
+  date: '1995-02-22T15:04:38'
+  crc: '0xcedcff6d'
+- name: FGPC11A.ARJ
+  size: 1035874
+  date: '1995-03-14T10:10:24'
+  crc: '0x254caebb'
+- name: INSTALL.EXE
+  size: 6352
+  date: '1995-03-05T18:48:52'
+  crc: '0xec78a335'
+- name: README.1ST
+  size: 5033
+  date: '1995-03-14T09:52:46'
+  crc: '0x39fd0600'
+- name: UNARJ.EXE
+  size: 20176
+  date: '1993-06-04T09:18:42'
+  crc: '0x33a083ad'

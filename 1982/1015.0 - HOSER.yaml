@@ -1,0 +1,163 @@
+filename: HOSER (1982)(Blue Giant Software, Inc.) [Action].zip
+tdc_id: '1015.0'
+parent_id: '1015.2'
+title:
+  box: HOSER
+publisher: Blue Giant Software, Inc.
+year: '1982'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:23:00'
+  last_modified: '2019-03-01T18:23:00'
+type: zip
+commands:
+  play: AUTOEXEC.BAT
+references:
+  dosid: DOS06454
+  exodos: Hoser (1982).zip
+files:
+- name: AUTOEXEC.BAT
+  size: 29
+  date: '1982-07-12T00:03:16'
+  crc: '0x2c73c02a'
+- name: FUN.BAS
+  size: 1664
+  date: '1982-11-13T00:12:34'
+  crc: '0xd3b44898'
+- name: HOSER.BAK
+  size: 18688
+  date: '1982-11-13T00:25:04'
+  crc: '0x611c5b6a'
+- name: HOSER.BAS
+  size: 18688
+  date: '1982-11-13T00:15:12'
+  crc: '0x611c5b6a'
+- name: HOSER.DOC
+  size: 34432
+  date: '1982-07-12T00:02:10'
+  crc: '0x79e0e0cb'
+- name: LEVA 1.BAS
+  size: 128
+  date: '1982-07-12T00:10:12'
+  crc: '0x43185392'
+- name: LEVA 10.BAS
+  size: 512
+  date: '1982-07-12T00:12:02'
+  crc: '0x216f1cbc'
+- name: LEVA 11.BAS
+  size: 256
+  date: '1982-07-12T00:12:20'
+  crc: '0x3ef728e6'
+- name: LEVA 12.BAS
+  size: 384
+  date: '1982-07-12T00:12:24'
+  crc: '0x98985022'
+- name: LEVA 13.BAS
+  size: 256
+  date: '1982-07-12T00:12:30'
+  crc: '0xf1364c95'
+- name: LEVA 14.BAS
+  size: 512
+  date: '1982-07-12T00:12:36'
+  crc: '0xd5dba085'
+- name: LEVA 15.BAS
+  size: 768
+  date: '1982-07-12T00:12:44'
+  crc: '0xffa8cf6b'
+- name: LEVA 2.BAS
+  size: 128
+  date: '1982-07-12T00:11:02'
+  crc: '0xfc022d74'
+- name: LEVA 3.BAS
+  size: 128
+  date: '1982-07-12T00:11:10'
+  crc: '0xf71c782a'
+- name: LEVA 4.BAS
+  size: 128
+  date: '1982-07-12T00:11:16'
+  crc: '0x1d02202c'
+- name: LEVA 5.BAS
+  size: 384
+  date: '1982-07-12T00:11:24'
+  crc: '0xb622ad44'
+- name: LEVA 6.BAS
+  size: 384
+  date: '1982-07-12T00:11:32'
+  crc: '0xfb42d915'
+- name: LEVA 7.BAS
+  size: 256
+  date: '1982-07-12T00:11:38'
+  crc: '0xd5067f65'
+- name: LEVA 8.BAS
+  size: 384
+  date: '1982-07-12T00:11:44'
+  crc: '0x85ed86d1'
+- name: LEVA 9.BAS
+  size: 512
+  date: '1982-07-12T00:11:50'
+  crc: '0xe91e29ba'
+- name: LEVB 1.BAS
+  size: 256
+  date: '1982-07-12T00:13:06'
+  crc: '0x07eae804'
+- name: LEVB 10.BAS
+  size: 384
+  date: '1982-07-12T00:15:12'
+  crc: '0x7c5f4fb8'
+- name: LEVB 11.BAS
+  size: 384
+  date: '1982-07-12T00:15:18'
+  crc: '0x8c680832'
+- name: LEVB 12.BAS
+  size: 512
+  date: '1982-07-12T00:15:24'
+  crc: '0xcee2159e'
+- name: LEVB 13.BAS
+  size: 384
+  date: '1982-07-12T00:15:28'
+  crc: '0x5da49050'
+- name: LEVB 14.BAS
+  size: 896
+  date: '1982-07-12T00:15:34'
+  crc: '0x4eb8978c'
+- name: LEVB 15.BAS
+  size: 512
+  date: '1982-07-12T00:15:40'
+  crc: '0xe44fd194'
+- name: LEVB 2.BAS
+  size: 384
+  date: '1982-07-12T00:14:00'
+  crc: '0x0b1dbb1c'
+- name: LEVB 3.BAS
+  size: 896
+  date: '1982-07-12T00:14:06'
+  crc: '0xb672f384'
+- name: LEVB 4.BAS
+  size: 384
+  date: '1982-07-12T00:14:12'
+  crc: '0xd7bd482a'
+- name: LEVB 5.BAS
+  size: 256
+  date: '1982-07-12T00:14:18'
+  crc: '0xcb63484f'
+- name: LEVB 6.BAS
+  size: 384
+  date: '1982-07-12T00:14:24'
+  crc: '0x2ad8c5b1'
+- name: LEVB 7.BAS
+  size: 768
+  date: '1982-07-12T00:14:30'
+  crc: '0xa8ac9c71'
+- name: LEVB 8.BAS
+  size: 384
+  date: '1982-07-12T00:14:34'
+  crc: '0x525c9ab4'
+- name: LEVB 9.BAS
+  size: 384
+  date: '1982-07-12T00:14:42'
+  crc: '0x5ed5712b'
+- name: MISTAKE.BAS
+  size: 2432
+  date: '1982-07-12T00:07:56'
+  crc: '0x0a31ab17'

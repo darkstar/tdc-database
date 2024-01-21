@@ -1,0 +1,29 @@
+filename: Blackjack (1982)(Tom Springall) [Strategy, Cards].zip
+tdc_id: '8560.0'
+title:
+  screen: Blackjack
+publisher: Tom Springall
+year: '1982'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:22:56'
+  last_modified: '2019-03-01T18:22:56'
+type: zip
+commands:
+  play: BLAKJAK.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: BLAKJAK.BAS
+  size: 11520
+  date: '1982-03-02T21:00:00'
+  crc: '0x3f5f9c19'
+- name: BLAKJAK.BAT
+  size: 18
+  date: '2014-12-18T17:58:54'
+  crc: '0x6bac41b5'

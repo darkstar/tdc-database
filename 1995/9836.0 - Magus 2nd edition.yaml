@@ -1,0 +1,42 @@
+filename: Magus 2nd edition (1995)(Ronny Wester) [Role-Playing (RPG)].zip
+tdc_id: '9836.0'
+title:
+  screen: Magus 2nd edition
+publisher: Ronny Wester
+year: '1995'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-02T08:57:00'
+  last_modified: '2019-03-02T08:57:00'
+type: zip
+commands:
+  play: MAGUS.EXE
+references:
+  dosid: DOS15477
+  exodos: Magus - 2nd edition (1993).zip
+files:
+- name: EGAVGA.BGI
+  size: 5554
+  date: '1999-12-31T18:00:00'
+  crc: '0x116c5498'
+- name: FAMOUS.MGS
+  size: 420
+  date: '1999-12-31T18:00:00'
+  crc: '0x5e7b6a76'
+- name: MAGUS.ART
+  size: 58058
+  date: '1999-12-31T18:00:00'
+  crc: '0xca97142a'
+- name: MAGUS.EXE
+  size: 113587
+  date: '1999-12-31T18:00:00'
+  crc: '0xb0c48458'
+- name: README
+  size: 6568
+  date: '1999-12-31T18:00:00'
+  crc: '0x20147347'
+- name: WORLD.MGS
+  size: 128004
+  date: '1999-12-31T18:00:00'
+  crc: '0xc190f363'

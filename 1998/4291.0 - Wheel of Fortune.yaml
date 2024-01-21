@@ -1,0 +1,30 @@
+filename: Wheel of Fortune (1998)(Dynamo Software, The Awful Waffles) [Strategy, Educational].zip
+tdc_id: '4291.0'
+title:
+  screen: Wheel of Fortune
+publisher: Dynamo Software, The Awful Waffles
+year: '1998'
+genre:
+- Strategy
+- Educational
+language: English
+date:
+  added: '2019-03-02T10:45:06'
+  last_modified: '2019-03-02T10:45:06'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 23
+  date: '2018-12-18T17:27:12'
+  crc: '0xca1d1ef5'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: WOF.BAS
+  size: 3871
+  date: '1998-09-13T08:40:40'
+  crc: '0xd8b74976'

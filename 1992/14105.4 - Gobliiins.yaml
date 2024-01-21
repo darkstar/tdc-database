@@ -1,0 +1,79 @@
+filename: Gobliiins (VGA) (Installer) (De) (1992)(Coktel Vision) [Adventure, Puzzle].zip
+tdc_id: '14105.4'
+parent_id: '14105.18'
+title:
+  box: Gobliiins
+  qualifier: VGA
+publisher: Coktel Vision
+year: '1992'
+genre:
+- Adventure
+- Puzzle
+language: German
+date:
+  added: '2022-05-24T16:30:48'
+  last_modified: '2022-05-24T16:30:48'
+type: zip
+installer: true
+files:
+- name: ALL.ASK
+  size: 2877
+  date: '1991-12-03T11:18:28'
+  crc: '0xcfa978b4'
+- name: COMMUN.EX1
+  size: 113553
+  date: '1991-12-03T11:18:28'
+  crc: '0xbf33961f'
+- name: DISK1.#02
+  size: 438090
+  date: '1991-12-05T15:21:18'
+  crc: '0x48b8c291'
+- name: DISK2.$00
+  size: 178176
+  date: '1991-12-05T15:27:36'
+  crc: '0x774e7987'
+- name: DISK2.$01
+  size: 242844
+  date: '1991-12-05T15:27:40'
+  crc: '0x4c1ee863'
+- name: DISK3.#01
+  size: 438292
+  date: '1991-12-05T15:18:48'
+  crc: '0xee22b3f8'
+- name: DISK4.#04
+  size: 399303
+  date: '1991-12-05T15:24:44'
+  crc: '0x5e3ae3a8'
+- name: GO.BAT
+  size: 20
+  date: '1991-12-05T15:55:12'
+  crc: '0x21cdbe32'
+- name: GO.~BA
+  size: 14
+  date: '1991-12-03T11:18:28'
+  crc: '0xd69e8a66'
+- name: GOB.EXE
+  size: 76219
+  date: '1991-12-03T11:22:38'
+  crc: '0x185a2e67'
+- name: GOBHD1-D.E
+  size: 0
+  date: '1991-12-05T15:51:00'
+- name: GOBHD2
+  size: 0
+  date: '1992-05-20T22:27:08'
+- name: GOBHD3
+  size: 0
+  date: '1991-12-05T15:44:00'
+- name: INSTALL.EXE
+  size: 16180
+  date: '1991-11-18T15:12:50'
+  crc: '0x61191770'
+- name: INSTALL.INF
+  size: 312
+  date: '1991-12-05T15:27:52'
+  crc: '0xdd298c81'
+- name: INTRO.#03
+  size: 179207
+  date: '1991-12-05T15:22:26'
+  crc: '0x0d76ecc5'

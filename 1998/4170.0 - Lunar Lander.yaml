@@ -1,0 +1,24 @@
+filename: Lunar Lander v1.1 (1998)(SBc) [Action].zip
+tdc_id: '4170.0'
+title:
+  screen: Lunar Lander
+publisher: SBc
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:42:20'
+  last_modified: '2019-03-02T10:42:20'
+version: '1.1'
+type: zip
+commands:
+  play: LUNAR1.EXE
+files:
+- name: EGAVGA.BGI
+  size: 5554
+  date: '1998-04-23T13:26:08'
+  crc: '0x116c5498'
+- name: LUNAR1.EXE
+  size: 38592
+  date: '1998-06-29T18:52:30'
+  crc: '0x77bc1c71'

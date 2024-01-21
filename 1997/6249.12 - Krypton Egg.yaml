@@ -1,0 +1,76 @@
+filename: Krypton Egg v4.0 (Fr)(De)(En)(It) [SWR] (1997)(Computers Communications & Visions) [Action, Strategy].zip
+tdc_id: '6249.12'
+parent_id: '6249.8'
+title:
+  screen: Krypton Egg
+publisher: Computers Communications & Visions
+year: '1997'
+genre:
+- Action
+- Strategy
+language:
+- English
+- French
+- Italian
+- German
+date:
+  added: '2022-12-08T15:24:26'
+  last_modified: '2022-12-08T15:24:26'
+version: '4.0'
+type: zip
+tags:
+- SharewareRegistered
+commands:
+  play: KE.EXE
+  setup: SETUP.BAT
+references:
+  mobygames: https://www.mobygames.com/game/dos/krypton-egg
+files:
+- name: DDRIVERS.EXE
+  size: 19695
+  date: '1996-12-06T13:00:20'
+  crc: '0x12b54068'
+- name: DOS4GW.EXE
+  size: 265420
+  date: '1996-12-06T13:00:20'
+  crc: '0xcb214447'
+- name: FAQ.FR
+  size: 10605
+  date: '1996-12-06T13:00:20'
+  crc: '0x98b66a1b'
+- name: FAQ.GE
+  size: 9853
+  date: '1996-12-06T13:00:20'
+  crc: '0x8c2f7481'
+- name: FAQ.IT
+  size: 10367
+  date: '1996-12-06T13:00:20'
+  crc: '0x4b579563'
+- name: FAQ.US
+  size: 9853
+  date: '1996-12-06T13:00:20'
+  crc: '0x8c2f7481'
+- name: KE.CFG
+  size: 192
+  date: '1996-12-06T13:00:20'
+  crc: '0x43331e6e'
+- name: KE.EXE
+  size: 499765
+  date: '1996-12-11T16:30:42'
+  crc: '0xd64c1dba'
+- name: KE.EX_
+  size: 499765
+  date: '1996-12-11T16:30:42'
+  crc: '0xb70a7242'
+- name: KE.RSC
+  size: 18450663
+  date: '1996-12-06T13:00:20'
+  crc: '0x65f311e1'
+- name: SETUP.BAT
+  size: 26
+  date: '1996-12-06T13:00:20'
+  crc: '0x953f0741'
+- name: SETUP.GAF
+  size: 6950
+  date: '1996-12-06T13:00:20'
+  crc: '0x1bed9446'

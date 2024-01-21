@@ -1,0 +1,72 @@
+filename: Donkey Island (Installer) (De) (1995)(Romware GmbH) [Adventure].zip
+tdc_id: '3506.0'
+parent_id: '3506.1'
+title:
+  box: Donkey Island
+publisher: Romware GmbH
+year: '1995'
+genre: Adventure
+language: German
+date:
+  added: '2019-03-02T08:43:28'
+  last_modified: '2019-03-02T08:43:28'
+type: zip
+installer: true
+commands:
+  play: START.EXE
+files:
+- name: DONKEY\
+  size: 0
+  date: '1995-10-13T13:14:10'
+- name: DONKEY\DONKEY.001
+  size: 14218
+  date: '1995-10-13T13:13:18'
+  crc: '0xb854ad95'
+- name: DONKEY\DONKEY.002
+  size: 859373
+  date: '1995-10-13T13:13:18'
+  crc: '0x7e1b2b9c'
+- name: DONKEY\DONKEY.003
+  size: 24491
+  date: '1995-10-13T13:13:18'
+  crc: '0x470226d7'
+- name: DONKEY\DONKEY.004
+  size: 528735
+  date: '1995-10-13T13:13:18'
+  crc: '0x4378e30b'
+- name: DONKEY\DONKEY.005
+  size: 891871
+  date: '1995-10-13T13:13:18'
+  crc: '0xb708255a'
+- name: DONKEY\DONKEY.006
+  size: 43169
+  date: '1995-10-13T13:13:18'
+  crc: '0xc732869e'
+- name: DONKEY\DONKEY.007
+  size: 4724
+  date: '1995-10-13T13:13:18'
+  crc: '0x2045c10e'
+- name: DONKEY\DONKEY.008
+  size: 177692
+  date: '1995-10-13T13:13:18'
+  crc: '0x19eb23d7'
+- name: DONKEY\DONKEY.009
+  size: 45132
+  date: '1995-10-13T13:13:18'
+  crc: '0x1943907e'
+- name: DONKEY\DONKEY.010
+  size: 64004
+  date: '1995-10-13T13:13:18'
+  crc: '0xfdcaaa8c'
+- name: DONKEY\DONKEY.011
+  size: 22729696
+  date: '1995-10-13T13:13:18'
+  crc: '0xecbec640'
+- name: DONKEY\DONKEY._XE
+  size: 64256
+  date: '1995-10-13T13:13:18'
+  crc: '0x87e1626e'
+- name: START.EXE
+  size: 11072
+  date: '1995-10-13T13:13:22'
+  crc: '0xab761bc6'

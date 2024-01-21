@@ -1,0 +1,67 @@
+filename: Werner's Quest Kit v1.01P (2002)(Jan Åberg, Fredrik Ramsberg) [Adventure, Interactive Fiction, Compilation].zip
+tdc_id: '4871.0'
+title:
+  screen: Werner's Quest Kit
+publisher: Jan Åberg, Fredrik Ramsberg
+year: '2002'
+genre:
+- Adventure
+- Interactive Fiction
+- Compilation
+language: English
+date:
+  added: '2020-10-21T06:58:20'
+  last_modified: '2020-10-21T06:58:20'
+version: 1.01P
+type: zip
+compilation: true
+commands:
+  play: Werners.bat
+files:
+- name: Jzip\
+  size: 0
+  date: '2002-03-04T22:44:10'
+- name: Jzip\JZEXE.EXE
+  size: 18481
+  date: '1995-11-22T17:55:14'
+  crc: '0xc5406e8f'
+- name: Jzip\JZIP.DOC
+  size: 26034
+  date: '1995-11-22T18:18:18'
+  crc: '0x9030f266'
+- name: Jzip\JZIP.EXE
+  size: 47560
+  date: '1995-11-22T18:29:32'
+  crc: '0xd3ccd2b8'
+- name: Jzip\MANIFEST.TXT
+  size: 453
+  date: '1995-11-22T18:21:24'
+  crc: '0xd3b1af0e'
+- name: WERNER1.Z5
+  size: 52736
+  date: '2002-02-26T16:10:00'
+  crc: '0x016b4d9e'
+- name: WERNER2.Z5
+  size: 52736
+  date: '2002-02-26T16:15:30'
+  crc: '0xa53d0ee5'
+- name: WERNER3.Z5
+  size: 52736
+  date: '2002-02-26T16:15:38'
+  crc: '0x313972bf'
+- name: WERNER4.Z5
+  size: 52736
+  date: '2002-02-26T16:15:42'
+  crc: '0x060b6130'
+- name: WERNERS.D64
+  size: 174848
+  date: '1999-01-15T15:45:24'
+  crc: '0x35644c7e'
+- name: Werner's Quest Part 1-4.txt
+  size: 2374
+  date: '2002-03-05T09:01:58'
+  crc: '0xf8908eaf'
+- name: Werners.bat
+  size: 725
+  date: '2002-03-05T08:59:54'
+  crc: '0x111c6db6'

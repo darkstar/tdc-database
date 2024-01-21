@@ -1,0 +1,30 @@
+filename: Lost - A Text Based Comedy v0.311 (1999)(Nukem Enterprises, Sim Creations Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '11899.1'
+title:
+  screen: Lost - A Text Based Comedy
+publisher: Nukem Enterprises, Sim Creations Inc.
+year: '1999'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T10:46:14'
+  last_modified: '2019-03-02T10:46:14'
+version: '0.311'
+type: zip
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 20
+  date: '2018-12-14T14:08:38'
+  crc: '0x08cf28a9'
+- name: LOST.BAS
+  size: 98130
+  date: '2018-12-14T14:03:02'
+  crc: '0xfb745047'
+- name: QB.EXE
+  size: 278804
+  date: '2016-03-13T01:19:58'
+  crc: '0xb08bc0fe'

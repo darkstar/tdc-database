@@ -1,0 +1,31 @@
+filename: Soccer Shootout v2.20 (2000)(CHNet Software) [Sports, Simulation].zip
+tdc_id: '4636.0'
+title:
+  screen: Soccer Shootout
+publisher: CHNet Software
+year: '2000'
+genre:
+- Sports
+- Simulation
+language: English
+date:
+  added: '2019-03-02T10:55:04'
+  last_modified: '2019-03-02T10:55:04'
+version: '2.20'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 28
+  date: '2018-12-13T14:24:02'
+  crc: '0x78d123e9'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: SOCCER24.BAS
+  size: 84851
+  date: '2018-12-09T21:15:18'
+  crc: '0x46ce743e'

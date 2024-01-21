@@ -1,0 +1,29 @@
+filename: Diamaze [SW] (1990)(Herringbone Software) [Strategy].zip
+tdc_id: '13132.0'
+title:
+  screen: Diamaze
+publisher: Herringbone Software
+year: '1990'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:32:20'
+  last_modified: '2019-03-01T18:32:20'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: DMAZE.EXE
+references:
+  dosid: DOS01771
+  exodos: Diamaze (1990).zip
+files:
+- name: DMAZE.DOC
+  size: 5475
+  date: '1990-12-01T13:28:54'
+  crc: '0x43983f72'
+- name: DMAZE.EXE
+  size: 53330
+  date: '1990-12-01T13:35:22'
+  crc: '0x69219f80'

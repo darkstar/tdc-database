@@ -1,0 +1,38 @@
+filename: Double Dare (1988)(GameTek, Inc.) [Strategy].zip
+tdc_id: '6668.0'
+title:
+  box: Double Dare
+publisher: GameTek, Inc.
+year: '1988'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:26:06'
+  last_modified: '2019-03-01T18:26:06'
+type: zip
+commands:
+  play: DARE.EXE
+references:
+  dosid: DOS01840
+  exodos: Double Dare (1988).zip
+files:
+- name: DARE.EXE
+  size: 53210
+  date: '1996-08-04T23:15:10'
+  crc: '0x9fa9c979'
+- name: DDQUEST
+  size: 82620
+  date: '2000-08-31T21:09:18'
+  crc: '0xab13c282'
+- name: GAMEDATA
+  size: 73804
+  date: '1996-08-04T23:15:12'
+  crc: '0xcfc730d2'
+- name: STUNTDAT
+  size: 96445
+  date: '1996-08-04T23:15:12'
+  crc: '0x53ce199b'
+- name: WORDS
+  size: 5930
+  date: '1998-02-19T21:45:40'
+  crc: '0xdf34570b'

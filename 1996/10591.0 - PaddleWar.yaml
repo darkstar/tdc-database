@@ -1,0 +1,29 @@
+filename: PaddleWar v1.2 (1996)(Steele Software) [Action].zip
+tdc_id: '10591.0'
+title:
+  screen: PaddleWar
+publisher: Steele Software
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:15:48'
+  last_modified: '2019-03-02T10:15:48'
+version: '1.2'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 26
+  date: '2018-11-21T14:32:08'
+  crc: '0x8235778d'
+- name: PADDLE.BAS
+  size: 24750
+  date: '1996-09-16T04:32:24'
+  crc: '0x2fc40030'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'

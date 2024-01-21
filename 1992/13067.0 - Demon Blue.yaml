@@ -1,0 +1,63 @@
+filename: Demon Blue (1992)(Microvalue) [Action].zip
+tdc_id: '13067.0'
+parent_id: '13067.2'
+title:
+  box: Demon Blue
+publisher: Microvalue
+year: '1992'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:42:24'
+  last_modified: '2019-03-01T18:42:24'
+type: zip
+commands:
+  play: DEMON.EXE
+references:
+  dosid: DOS01724
+  exodos: Demon Blue (1992).zip
+files:
+- name: ALFA.PI1
+  size: 32034
+  date: '1987-04-22T00:00:42'
+  crc: '0x61321359'
+- name: ALFA2.PI1
+  size: 32034
+  date: '1987-04-22T00:01:10'
+  crc: '0x5ad0ebac'
+- name: DEMON.EXE
+  size: 41927
+  date: '1992-04-16T08:09:54'
+  crc: '0xec2e50e2'
+- name: INFOBAR.PI1
+  size: 32034
+  date: '1987-04-22T00:01:08'
+  crc: '0x6a826793'
+- name: LEVEL.MAP
+  size: 5000
+  date: '1987-04-22T00:04:20'
+  crc: '0x3e7a4a61'
+- name: MAPBLOCK.PI1
+  size: 5000
+  date: '1987-04-22T00:00:30'
+  crc: '0xfe2182fd'
+- name: SPRITES1.PI1
+  size: 32034
+  date: '1987-04-22T00:05:24'
+  crc: '0x9eb17adb'
+- name: SPRITES2.PI1
+  size: 32034
+  date: '1987-04-22T00:02:46'
+  crc: '0xf14c6a2e'
+- name: SPRITES3.PI1
+  size: 32034
+  date: '1987-04-22T00:03:20'
+  crc: '0x2e64e9ed'
+- name: TITLE.PI1
+  size: 32066
+  date: '1992-04-21T13:39:28'
+  crc: '0xc12177db'
+- name: TITLE2.PI1
+  size: 32034
+  date: '1987-04-22T00:06:46'
+  crc: '0x3d2035cb'

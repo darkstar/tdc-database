@@ -1,0 +1,32 @@
+filename: Pleiades, The (1998)(Chris Berry) [Action].zip
+tdc_id: '10336.0'
+title:
+  screen: The Pleiades
+publisher: Chris Berry
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:43:44'
+  last_modified: '2019-03-02T10:43:44'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 28
+  date: '2018-11-21T20:13:32'
+  crc: '0xb3ec5ceb'
+- name: PLEIADES.BAS
+  size: 31291
+  date: '2018-11-21T20:14:26'
+  crc: '0x088fa524'
+- name: PLEIADES.SRC
+  size: 31302
+  date: '1998-02-12T12:03:06'
+  crc: '0x50bb642b'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

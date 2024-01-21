@@ -1,0 +1,28 @@
+filename: Campaign Mission Disk (Installer) (1993)(Empire Software) [Simulation, Strategy, Addon].zip
+tdc_id: '12034.0'
+title:
+  box: Campaign Mission Disk
+publisher: Empire Software
+year: '1993'
+genre:
+- Simulation
+- Strategy
+- Addon
+language: English
+date:
+  added: '2019-03-01T19:01:48'
+  last_modified: '2019-03-01T19:01:48'
+type: zip
+installer: true
+files:
+- name: INSTALL.BAT
+  size: 2713
+  date: '1993-06-21T18:47:46'
+  crc: '0xd1f3d2f6'
+- name: MISSIONS
+  size: 0
+  date: '1993-06-21T18:05:10'
+- name: MISSIONS.EXE
+  size: 725013
+  date: '1993-06-21T17:59:42'
+  crc: '0x9d936975'

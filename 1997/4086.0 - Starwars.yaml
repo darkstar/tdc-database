@@ -1,0 +1,28 @@
+filename: Starwars (1997)(David Calhoun) [Action].zip
+tdc_id: '4086.0'
+title:
+  screen: Starwars
+publisher: David Calhoun
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:38:00'
+  last_modified: '2019-03-02T10:38:00'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 28
+  date: '2018-07-05T19:49:12'
+  crc: '0x0106f26b'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T01:28:02'
+  crc: '0x19f6ed75'
+- name: STARWARS.BAS
+  size: 12129
+  date: '2018-03-10T02:23:58'
+  crc: '0x96d8c0c4'

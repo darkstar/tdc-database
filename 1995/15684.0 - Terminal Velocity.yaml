@@ -1,0 +1,43 @@
+filename: Terminal Velocity (Installer) [SW] (1995)(FormGen, Inc.) [Action].zip
+tdc_id: '15684.0'
+title:
+  screen: Terminal Velocity
+publisher: FormGen, Inc.
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2013-01-28T20:47:00'
+  last_modified: '2013-01-28T20:47:00'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 94
+  date: '1995-05-01T13:00:00'
+  crc: '0xf11b848a'
+- name: INSTALL.EXE
+  size: 52592
+  date: '1995-05-01T13:00:00'
+  crc: '0x429fc3cd'
+- name: TVS.IFC
+  size: 4832
+  date: '1995-05-01T13:00:00'
+  crc: '0xeb394269'
+- name: TVS._1
+  size: 715776
+  date: '1995-05-01T13:00:00'
+  crc: '0x9f92c7f1'
+- name: TVS._2
+  size: 1457152
+  date: '1995-05-01T13:00:00'
+  crc: '0x8cf4a001'
+- name: TVS._3
+  size: 1456548
+  date: '1995-05-01T13:00:00'
+  crc: '0x79f74c84'

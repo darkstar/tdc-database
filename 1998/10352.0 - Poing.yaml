@@ -1,0 +1,29 @@
+filename: Poing v1.1 (1998)(Leif Starbuck) [Action].zip
+tdc_id: '10352.0'
+title:
+  screen: Poing
+publisher: Leif Starbuck
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:43:46'
+  last_modified: '2019-03-02T10:43:46'
+version: '1.1'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 25
+  date: '2018-12-05T11:57:00'
+  crc: '0xe5813d6b'
+- name: POING.BAS
+  size: 11860
+  date: '1998-07-17T00:42:08'
+  crc: '0xe02ab887'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

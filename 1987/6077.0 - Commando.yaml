@@ -1,0 +1,35 @@
+filename: Commando v1.01 [DC] (1987)(Data East USA, Inc.) [Action].zip
+tdc_id: '6077.0'
+title:
+  box: Commando
+publisher: Data East USA, Inc.
+year: '1987'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:25:14'
+  last_modified: '2019-03-01T18:25:14'
+version: '1.01'
+type: zip
+tags:
+- DOSConversion
+references:
+  dosid: DOS05850
+  exodos: Commando (1986).zip
+files:
+- name: COMMANDO.DAT
+  size: 163840
+  date: '1999-05-30T03:37:22'
+  crc: '0x5f759b16'
+- name: COMMANDO.EXE
+  size: 153600
+  date: '1987-02-25T09:00:14'
+  crc: '0x866f7250'
+- name: READ.TXT
+  size: 293
+  date: '1999-05-30T03:41:14'
+  crc: '0x17a72678'
+- name: START.COM
+  size: 480
+  date: '1999-05-30T03:36:14'
+  crc: '0x1c208411'

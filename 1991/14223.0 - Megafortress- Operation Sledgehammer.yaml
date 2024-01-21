@@ -1,0 +1,33 @@
+filename: Megafortress- Operation Sledgehammer (Installer) (1991)(Three-Sixty Pacific, Inc.) [Simulation, Addon].zip
+tdc_id: '14223.0'
+title:
+  box: 'Megafortress: Operation Sledgehammer'
+publisher: Three-Sixty Pacific, Inc.
+year: '1991'
+genre:
+- Simulation
+- Addon
+language: English
+date:
+  added: '2019-03-01T18:36:48'
+  last_modified: '2019-03-01T18:36:48'
+type: zip
+installer: true
+commands:
+  play: INSTALL.COM
+files:
+- name: HAMMER
+  size: 267768
+  date: '1991-12-19T15:18:16'
+  crc: '0x6513bebb'
+- name: INSTALL.COM
+  size: 17654
+  date: '1991-12-10T13:57:44'
+  crc: '0xed03b6b2'
+- name: SLEDGE
+  size: 404968
+  date: '1991-12-19T15:18:08'
+  crc: '0xf6060d80'
+- name: SLEDGEHAMME
+  size: 0
+  date: '1991-12-18T15:08:38'

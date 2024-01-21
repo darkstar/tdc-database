@@ -1,0 +1,28 @@
+filename: Wizzard (Pinball Construction Set) (1986)(RJ) [Action].zip
+tdc_id: '1329.0'
+title:
+  screen: Wizzard
+  qualifier: Pinball Construction Set
+publisher: RJ
+year: '1986'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:25:04'
+  last_modified: '2019-03-01T18:25:04'
+type: zip
+requirements:
+  cpu:
+    min: '8088'
+media: Download
+commands:
+  play: WIZZARD.COM
+files:
+- name: WIZZARD.COM
+  size: 64512
+  date: '1992-02-10T03:07:10'
+  crc: '0x3dcb912b'
+- name: WIZZARD.DOC
+  size: 200
+  date: '1987-11-11T08:20:10'
+  crc: '0x58b2cdee'

@@ -1,0 +1,46 @@
+filename: Overlord r940802 (Installer) (1994)(Virgin Interactive Entertainment (Europe) Ltd.) [Simulation].zip
+tdc_id: '14683.5'
+parent_id: '14683.8'
+title:
+  box: Overlord
+  qualifier: Installer
+publisher: Virgin Interactive Entertainment (Europe) Ltd.
+year: '1994'
+genre: Simulation
+language: English
+date:
+  added: '2019-12-03T21:49:52'
+  last_modified: '2024-01-02T10:53:11'
+release: '940802'
+type: zip
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/513/overlord/
+files:
+- name: INSTALL.EXE
+  size: 33720
+  date: '1994-06-13T12:15:16'
+  crc: '0xfb31b73e'
+- name: INSTENG.DIP
+  size: 3182
+  date: '1994-06-13T12:23:20'
+  crc: '0x559dbba7'
+- name: READ.ME
+  size: 4002
+  date: '1994-07-13T16:28:50'
+  crc: '0x283e8ed5'
+- name: ROWAN.001
+  size: 1415687
+  date: '1994-08-04T15:44:16'
+  crc: '0x0645aeb3'
+- name: ROWAN.002
+  size: 1457153
+  date: '1994-08-04T15:41:34'
+  crc: '0xcdde9fc2'
+- name: ROWAN.003
+  size: 1196792
+  date: '1994-08-04T15:44:02'
+  crc: '0x948fd505'

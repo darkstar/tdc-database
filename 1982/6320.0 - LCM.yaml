@@ -1,0 +1,41 @@
+filename: LCM v2D [b1] (1982)(Anonymous) [Action, Simulation].zip
+tdc_id: '6320.0'
+title:
+  screen: LCM
+publisher: Anonymous
+year: '1982'
+genre:
+- Action
+- Simulation
+language: English
+date:
+  added: '2019-03-01T18:23:00'
+  last_modified: '2019-03-01T18:23:00'
+version: 2D
+type: zip
+tags:
+- Bad: 1
+media: Download
+commands:
+  play: LCM.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: LCM.BAS
+  size: 5248
+  date: '1984-05-07T12:00:00'
+  crc: '0xf9b7a1a1'
+- name: LCM.BAT
+  size: 13
+  date: '2015-05-08T14:36:50'
+  crc: '0x54847342'
+- name: LCM.SPC
+  size: 4608
+  date: '1984-05-07T12:00:00'
+  crc: '0x8ba25fe0'
+- name: LUNAR.DAT
+  size: 256
+  date: '1984-05-07T12:00:00'
+  crc: '0x28f84235'

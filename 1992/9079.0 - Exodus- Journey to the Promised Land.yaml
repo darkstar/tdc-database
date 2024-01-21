@@ -1,0 +1,46 @@
+filename: Exodus- Journey to the Promised Land v1.1 (1992)(Wisdom Tree, Inc.) [Action, Strategy, Educational].zip
+tdc_id: '9079.0'
+title:
+  box: 'Exodus: Journey to the Promised Land'
+publisher: Wisdom Tree, Inc.
+year: '1992'
+genre:
+- Action
+- Strategy
+- Educational
+language: English
+date:
+  added: '2019-03-01T18:44:42'
+  last_modified: '2019-03-01T18:44:42'
+version: '1.1'
+type: zip
+commands:
+  play: EXODUS.EXE
+references:
+  dosid: DOS02059
+  exodos: Exodus - Journey to the Promised Land (1992).zip
+files:
+- name: EXODUS.EXE
+  size: 35700
+  date: '1993-03-30T11:29:18'
+  crc: '0x7dfd46d2'
+- name: EXODUS.INF
+  size: 3744
+  date: '1993-03-30T11:06:24'
+  crc: '0x102c5993'
+- name: EXODUS.PKD
+  size: 53572
+  date: '1993-03-30T11:27:34'
+  crc: '0x3865480d'
+- name: EXPIC.BIN
+  size: 52016
+  date: '1993-03-30T11:06:02'
+  crc: '0x2d07f21d'
+- name: LEVELS.BIN
+  size: 21304
+  date: '1993-03-30T11:06:04'
+  crc: '0x6d7313e6'
+- name: REWARD.PAK
+  size: 344792
+  date: '1993-03-30T11:06:22'
+  crc: '0x8ce84131'

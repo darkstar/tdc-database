@@ -1,0 +1,29 @@
+filename: Word Whiz v2.0 [SW] (1990)(Apogee Software Productions) [Educational, Trivia].zip
+tdc_id: '15949.1'
+title:
+  screen: Word Whiz
+publisher: Apogee Software Productions
+year: '1990'
+genre:
+- Educational
+- Trivia
+language: English
+date:
+  added: '2019-03-01T18:34:34'
+  last_modified: '2019-03-01T18:34:34'
+version: '2.0'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: WORDWHIZ.EXE
+files:
+- name: READALL.TXT
+  size: 22125
+  date: '1990-04-01T22:46:54'
+  crc: '0x9d8ce7c7'
+- name: WORDWHIZ.EXE
+  size: 66208
+  date: '1990-04-15T07:24:48'
+  crc: '0x3e4a7e84'

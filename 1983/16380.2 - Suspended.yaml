@@ -1,0 +1,28 @@
+filename: Suspended r8 [DC] (1983)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '16380.2'
+title:
+  box: Suspended
+publisher: Infocom, Inc.
+year: '1983'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2022-06-08T08:57:02'
+  last_modified: '2022-06-08T08:57:02'
+release: '8'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: SUSPEND.COM
+files:
+- name: SUSPEND.COM
+  size: 12928
+  date: '1980-01-01T00:00:00'
+  crc: '0xcac21e02'
+- name: SUSPEND.DAT
+  size: 129728
+  date: '2007-12-20T05:50:48'
+  crc: '0xb0235779'

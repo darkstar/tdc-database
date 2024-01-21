@@ -1,0 +1,57 @@
+filename: Lawn Mower v2.0 (1987)(Christopher D. Orr) [Action, Simulation].zip
+tdc_id: '1396.0'
+title:
+  screen: Lawn Mower
+publisher: Christopher D. Orr
+year: '1987'
+genre:
+- Action
+- Simulation
+language: English
+date:
+  added: '2019-03-01T18:25:26'
+  last_modified: '2019-03-01T18:25:26'
+version: '2.0'
+type: zip
+commands:
+  play: LAWN.EXE
+references:
+  dosid: DOS03104
+  exodos: Lawn Mower (1987).zip
+files:
+- name: LAWN.EXE
+  size: 67086
+  date: '1987-06-23T14:54:38'
+  crc: '0xa6e1bc4f'
+- name: LAWN.HS
+  size: 1920
+  date: '1980-01-01T00:42:00'
+  crc: '0x3272a253'
+- name: LAWN.NEW
+  size: 1115
+  date: '1987-06-23T13:59:02'
+  crc: '0x84dd1605'
+- name: LAWN1.BSV
+  size: 4007
+  date: '1987-06-23T12:35:54'
+  crc: '0x6ef111ba'
+- name: LAWN2.BSV
+  size: 4007
+  date: '1987-06-23T13:29:28'
+  crc: '0x7eb4baba'
+- name: LAWN3.BSV
+  size: 4007
+  date: '1987-06-23T13:28:06'
+  crc: '0x0bc50ea6'
+- name: LAWN4.BSV
+  size: 4007
+  date: '1987-06-23T13:25:12'
+  crc: '0xd8a5f0e2'
+- name: LAWN5.BSV
+  size: 4007
+  date: '1987-06-23T13:21:36'
+  crc: '0xe0560a63'
+- name: lawnmower.txt
+  size: 837
+  date: '2000-08-21T08:42:24'
+  crc: '0xba10e355'

@@ -1,0 +1,56 @@
+filename: One Must Fall 2097 (Installer) (En)(De) [SWR] (1994)(Epic MegaGames, Inc.) [Action].zip
+tdc_id: '14614.1'
+title:
+  screen: One Must Fall 2097
+publisher: Epic MegaGames, Inc.
+year: '1994'
+genre: Action
+language:
+- English
+- German
+date:
+  added: '2019-03-01T22:02:28'
+  last_modified: '2019-03-01T22:02:28'
+type: zip
+tags:
+- SharewareRegistered
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.BIN
+  size: 4000
+  date: '1994-03-18T12:45:30'
+  crc: '0x75d92d0d'
+- name: INSTALL.DAT
+  size: 10
+  date: '1994-10-17T15:43:56'
+  crc: '0xa2c7313d'
+- name: INSTALL.EXE
+  size: 21264
+  date: '1994-06-03T14:37:16'
+  crc: '0x9b970def'
+- name: OMFREG.X00
+  size: 84
+  date: '1994-10-17T15:43:58'
+  crc: '0xbb36bccb'
+- name: OMFREG.X01
+  size: 1430528
+  date: '1994-10-17T15:43:06'
+  crc: '0x6afa97f8'
+- name: OMFREG.X02
+  size: 1457152
+  date: '1994-10-17T15:43:16'
+  crc: '0x86e6e59e'
+- name: OMFREG.X03
+  size: 1457152
+  date: '1994-10-17T15:43:26'
+  crc: '0x89b34939'
+- name: OMFREG.X04
+  size: 1457152
+  date: '1994-10-17T15:43:36'
+  crc: '0x89a7f191'
+- name: OMFREG.Z05
+  size: 752212
+  date: '1994-10-17T15:43:46'
+  crc: '0xedcc7ccb'

@@ -1,0 +1,27 @@
+filename: Joust VGA [SW][a1] (1990)(Dave and Ron Sharpless) [Action].zip
+tdc_id: '11638.1'
+title:
+  screen: Joust VGA
+publisher: Dave and Ron Sharpless
+year: '1990'
+genre: Action
+language: English
+date:
+  added: '2019-02-02T18:50:04'
+  last_modified: '2019-02-02T18:50:04'
+type: zip
+tags:
+- Shareware
+- Alternate: 1
+media: Download
+commands:
+  play: JOUST.EXE
+files:
+- name: JOUST.DOC
+  size: 5307
+  date: '1990-09-21T14:37:48'
+  crc: '0x3aa28b8a'
+- name: JOUST.EXE
+  size: 120624
+  date: '1990-09-21T14:41:38'
+  crc: '0x5e05b501'

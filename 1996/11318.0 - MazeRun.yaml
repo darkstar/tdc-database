@@ -1,0 +1,54 @@
+filename: MazeRun (1996)(Kevin B. Kohler) [Action, Strategy].zip
+tdc_id: '11318.0'
+title:
+  screen: MazeRun
+publisher: Kevin B. Kohler
+year: '1996'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-02T10:13:16'
+  last_modified: '2019-03-02T10:13:16'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 27
+  date: '2018-11-15T11:33:12'
+  crc: '0xd86621ec'
+- name: MAP.001
+  size: 2016
+  date: '1996-12-10T19:48:14'
+  crc: '0x21cf0ec8'
+- name: MAP.002
+  size: 2016
+  date: '1996-12-10T19:50:10'
+  crc: '0x45062113'
+- name: MAP.003
+  size: 2016
+  date: '1996-12-07T16:16:42'
+  crc: '0x84ccee3f'
+- name: MAP.004
+  size: 2016
+  date: '1996-12-07T17:02:14'
+  crc: '0x86d21b4b'
+- name: MAP.TAT
+  size: 2016
+  date: '1996-12-10T19:09:18'
+  crc: '0x9e42da6b'
+- name: MAP.TST
+  size: 2016
+  date: '1996-12-10T19:28:12'
+  crc: '0x473d5301'
+- name: MAZERUN.BAS
+  size: 6556
+  date: '1996-12-10T19:34:50'
+  crc: '0x116cf50a'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'

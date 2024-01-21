@@ -1,0 +1,26 @@
+filename: Worms De Luxe (1994)(Borys Zajaczkowski) [Action].zip
+tdc_id: '3372.0'
+title:
+  screen: Worms De Luxe
+publisher: Borys Zajaczkowski
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T07:19:38'
+  last_modified: '2019-03-02T07:19:38'
+type: zip
+commands:
+  play: WORMS.EXE
+references:
+  dosid: DOS15482
+  exodos: Worms De Luxe (1994).zip
+files:
+- name: WORMS.DAT
+  size: 97266
+  date: '1994-08-26T10:25:24'
+  crc: '0xbc978722'
+- name: WORMS.EXE
+  size: 25856
+  date: '1995-01-27T08:29:18'
+  crc: '0x75197789'

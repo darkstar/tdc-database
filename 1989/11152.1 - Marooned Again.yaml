@@ -1,0 +1,29 @@
+filename: Marooned Again v4.1 (1989)(Dennis Drew) [Adventure, Interactive Fiction].zip
+tdc_id: '11152.1'
+title:
+  screen: Marooned Again
+publisher: Dennis Drew
+year: '1989'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:28:18'
+  last_modified: '2019-03-01T18:28:18'
+version: '4.1'
+type: zip
+commands:
+  play: MAROONED.EXE
+references:
+  dosid: DOS03415
+  exodos: Marooned Again (1985).zip
+files:
+- name: MAROONED.DOC
+  size: 5730
+  date: '1990-01-04T16:34:28'
+  crc: '0x78a96a94'
+- name: MAROONED.EXE
+  size: 49853
+  date: '1990-01-04T16:33:34'
+  crc: '0x02ea890e'

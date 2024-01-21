@@ -1,0 +1,74 @@
+filename: DND v1.12 [SW] (1986)(R.O. Software) [Role-Playing (RPG)].zip
+tdc_id: '6594.2'
+title:
+  screen: DND
+publisher: R.O. Software
+year: '1986'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2020-01-26T13:30:54'
+  last_modified: '2020-01-26T13:30:54'
+version: '1.12'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: DND.EXE
+references:
+  dosid: DOS01819
+  exodos: DND (1986).zip
+files:
+- name: CAVERN.BIN
+  size: 8000
+  date: '1984-02-02T21:24:00'
+  crc: '0xc7338437'
+- name: CLERIC.DOC
+  size: 3888
+  date: '1984-10-16T15:47:00'
+  crc: '0x4058691f'
+- name: DND.EXE
+  size: 160640
+  date: '1986-03-22T17:35:00'
+  crc: '0x9ab1a3e0'
+- name: INTRO.DOC
+  size: 8046
+  date: '1984-10-16T15:48:00'
+  crc: '0x745056fa'
+- name: KEYPAD.DOC
+  size: 1583
+  date: '1984-03-08T09:45:00'
+  crc: '0xe93f4304'
+- name: LAMORTE.BIN
+  size: 8000
+  date: '1984-02-02T21:30:00'
+  crc: '0xb6cd599a'
+- name: MAGIC.DOC
+  size: 6431
+  date: '1984-10-16T15:50:00'
+  crc: '0xba0c3f00'
+- name: MONSTER.DOC
+  size: 3197
+  date: '1984-10-16T15:52:00'
+  crc: '0xb83a62e8'
+- name: NOTICE.DAT
+  size: 714
+  date: '1986-03-22T17:39:00'
+  crc: '0x49200544'
+- name: RELEASE.NOT
+  size: 703
+  date: '1986-03-22T17:43:00'
+  crc: '0x1c73c330'
+- name: SHVENK.BIN
+  size: 8000
+  date: '1984-02-02T21:36:00'
+  crc: '0x9724cb20'
+- name: TELENARD.BIN
+  size: 8000
+  date: '1984-02-02T21:32:00'
+  crc: '0x13b3472d'
+- name: WARREN.BIN
+  size: 8000
+  date: '1984-02-02T21:28:00'
+  crc: '0xe2269d79'

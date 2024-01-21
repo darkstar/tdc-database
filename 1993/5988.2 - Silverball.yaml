@@ -1,0 +1,35 @@
+filename: Silverball (Installer) [a1] (1993)(MicroLeague Multimedia, Inc.) [Action][!].zip
+tdc_id: '5988.2'
+title:
+  box: Silverball
+publisher: MicroLeague Multimedia, Inc.
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T21:07:30'
+  last_modified: '2019-03-01T21:07:30'
+type: zip
+tags:
+- KnownGood
+- Alternate: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK.ID
+  size: 27
+  date: '1993-09-09T16:03:00'
+  crc: '0x29d15048'
+- name: INSTALL.DAT
+  size: 5968
+  date: '1993-09-09T16:20:46'
+  crc: '0x649b254a'
+- name: INSTALL.EXE
+  size: 90304
+  date: '1993-09-09T16:02:58'
+  crc: '0x929e6b84'
+- name: SLVRBALL.001
+  size: 1071810
+  date: '1993-09-09T16:20:46'
+  crc: '0x539a0b01'

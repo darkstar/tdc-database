@@ -1,0 +1,36 @@
+filename: Cold Dreams v1.05.sh (Installer) [SW] (1995)(Immortality Production) [Action].zip
+tdc_id: '5287.1'
+title:
+  screen: Cold Dreams
+publisher: Immortality Production
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T07:31:50'
+  last_modified: '2019-03-02T07:31:50'
+version: 1.05.sh
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 19664
+  date: '1995-08-13T00:00:00'
+  crc: '0xf1eb882d'
+- name: INSTALL.INF
+  size: 147
+  date: '1995-08-13T00:00:00'
+  crc: '0x7dac4dc2'
+- name: PACKFILE.001
+  size: 1436160
+  date: '1995-08-13T00:00:00'
+  crc: '0xa1ca7653'
+- name: PACKFILE.002
+  size: 733510
+  date: '1995-08-13T00:00:00'
+  crc: '0xfc017306'

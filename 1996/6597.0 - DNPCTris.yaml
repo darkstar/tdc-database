@@ -1,0 +1,44 @@
+filename: DNPCTris (1996)(Digital Nightmares) [Strategy, Action].zip
+tdc_id: '6597.0'
+title:
+  screen: DNPCTris
+publisher: Digital Nightmares
+year: '1996'
+genre:
+- Strategy
+- Action
+language: English
+date:
+  added: '2019-03-02T10:03:22'
+  last_modified: '2019-03-02T10:03:22'
+type: zip
+commands:
+  play: dnpctris.exe
+references:
+  dosid: DOS15675
+  exodos: PCTris (1996).zip
+files:
+- name: DOS4GW.EXE
+  size: 265420
+  date: '1995-05-30T17:48:24'
+  crc: '0xcb214447'
+- name: HISCORE.DAT
+  size: 440
+  date: '1996-05-26T11:43:02'
+  crc: '0x5141d67c'
+- name: ONLY.ONE
+  size: 754573
+  date: '1996-05-26T11:45:40'
+  crc: '0xe5a5b28a'
+- name: dnpctris.exe
+  size: 207775
+  date: '1996-05-26T12:46:02'
+  crc: '0x9494296e'
+- name: liesmich.txt
+  size: 2026
+  date: '1996-05-25T13:36:36'
+  crc: '0x934bb88f'
+- name: readme.txt
+  size: 1676
+  date: '1996-05-25T13:35:06'
+  crc: '0xbb1e4244'

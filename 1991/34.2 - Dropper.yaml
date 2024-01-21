@@ -1,0 +1,29 @@
+filename: Dropper [a2] (1991)(LocIS) [Strategy, Action].zip
+tdc_id: '34.2'
+title:
+  screen: Dropper
+publisher: LocIS
+year: '1991'
+genre:
+- Strategy
+- Action
+language: English
+date:
+  added: '2019-03-01T18:35:40'
+  last_modified: '2019-03-01T18:35:40'
+type: zip
+tags:
+- Alternate: 2
+commands:
+  play: DROPPER.EXE
+references:
+  mobygames: '-'
+files:
+- name: DROPPER.DAT
+  size: 291239
+  date: '1991-10-04T01:24:26'
+  crc: '0x2192c454'
+- name: DROPPER.EXE
+  size: 34256
+  date: '1992-09-07T23:02:48'
+  crc: '0xb286def9'

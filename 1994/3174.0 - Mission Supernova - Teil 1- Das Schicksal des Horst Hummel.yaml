@@ -1,0 +1,28 @@
+filename: Mission Supernova - Teil 1- Das Schicksal des Horst Hummel v2.02 (Installer) (De) [SW] (1994)(Steffen Dingel) [Adventure].zip
+tdc_id: '3174.0'
+title:
+  screen: 'Mission Supernova - Teil 1: Das Schicksal des Horst Hummel'
+publisher: Steffen Dingel
+year: '1994'
+genre: Adventure
+language: German
+date:
+  added: '2019-03-01T22:02:10'
+  last_modified: '2019-03-01T22:02:10'
+version: '2.02'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 15360
+  date: '1994-05-16T17:19:40'
+  crc: '0x6a01b476'
+- name: MSN_V202
+  size: 1125671
+  date: '1994-05-16T22:30:50'
+  crc: '0xeb98b927'

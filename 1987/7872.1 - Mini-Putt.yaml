@@ -1,0 +1,28 @@
+filename: Mini-Putt [b1] (1987)(Accolade, Inc.) [Sports].zip
+tdc_id: '7872.1'
+title:
+  box: Mini-Putt
+publisher: Accolade, Inc.
+year: '1987'
+genre: Sports
+language: English
+date:
+  added: '2019-03-01T18:25:28'
+  last_modified: '2019-03-01T18:25:28'
+type: zip
+tags:
+- Bad: 1
+commands:
+  play: MP.EXE
+references:
+  dosid: DOS03584
+  exodos: Mini-Putt (1987).zip
+files:
+- name: MP.DAT
+  size: 313344
+  date: '1990-08-17T03:47:30'
+  crc: '0x077867d9'
+- name: MP.EXE
+  size: 48720
+  date: '1990-08-17T03:44:40'
+  crc: '0x8df3b795'

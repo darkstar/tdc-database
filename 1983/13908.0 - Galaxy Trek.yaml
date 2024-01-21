@@ -1,0 +1,29 @@
+filename: Galaxy Trek v2.1 (1983)(Larry E. Jordan) [Simulation].zip
+tdc_id: '13908.0'
+title:
+  screen: Galaxy Trek
+publisher: Larry E. Jordan
+year: '1983'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:23:12'
+  last_modified: '2019-03-01T18:23:12'
+version: '2.1'
+type: zip
+references:
+  dosid: DOS02155
+  exodos: Galaxy Trek (1983).zip
+files:
+- name: Data.dat
+  size: 128
+  date: '1986-03-23T22:48:38'
+  crc: '0xb68b5c89'
+- name: Trekpik.exe
+  size: 50048
+  date: '1985-12-13T21:26:20'
+  crc: '0xd596a900'
+- name: Trekrun.exe
+  size: 70784
+  date: '1985-12-13T21:26:14'
+  crc: '0x35185193'

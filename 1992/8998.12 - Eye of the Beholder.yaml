@@ -1,0 +1,39 @@
+filename: Eye of the Beholder v1.7 (Installer) (1992)(Strategic Simulations, Inc.) [Action, Adventure, Role-Playing (RPG)].zip
+tdc_id: '8998.12'
+parent_id: '8998.22'
+title:
+  box: Eye of the Beholder
+publisher: Strategic Simulations, Inc.
+year: '1992'
+genre:
+- Action
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2022-07-23T19:25:54'
+  last_modified: '2022-07-23T19:25:54'
+version: '1.7'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK1.ARJ
+  size: 1097705
+  date: '1992-08-27T14:44:40'
+  crc: '0x42184e76'
+- name: DISK2.ARJ
+  size: 466784
+  date: '1992-08-21T10:32:30'
+  crc: '0xfeab61b6'
+- name: HD DSK1.1_7
+  size: 0
+  date: '1992-08-27T14:56:14'
+- name: HD DSK2.1_7
+  size: 0
+  date: '1992-08-26T08:09:42'
+- name: INSTALL.EXE
+  size: 30701
+  date: '1992-08-26T13:54:14'
+  crc: '0x3fa3be14'

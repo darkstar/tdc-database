@@ -1,0 +1,30 @@
+filename: Chess (1982)(International PC Owners) [Strategy, Chess].zip
+tdc_id: '9258.0'
+title:
+  screen: Chess
+publisher: International PC Owners
+year: '1982'
+genre:
+- Strategy
+- Chess
+language: English
+date:
+  added: '2019-03-01T18:22:58'
+  last_modified: '2019-03-01T18:22:58'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: CHESS.BAS
+  size: 21442
+  date: '1982-07-20T21:38:58'
+  crc: '0xf9d7d4a0'
+- name: GO.BAT
+  size: 21
+  date: '2018-12-04T22:02:16'
+  crc: '0x1773d837'
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1988-10-05T02:00:08'
+  crc: '0x2a44af39'

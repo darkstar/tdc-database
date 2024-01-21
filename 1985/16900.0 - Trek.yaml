@@ -1,0 +1,30 @@
+filename: Trek v2.3 [SW] (1985)(Carl McLawhorn) [Strategy].zip
+tdc_id: '16900.0'
+title:
+  screen: Trek
+publisher: Carl McLawhorn
+year: '1985'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:24:36'
+  last_modified: '2019-03-01T18:24:36'
+version: '2.3'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: TREK23.COM
+references:
+  dosid: DOS06408
+  exodos: Trek (1985).zip
+files:
+- name: KEYCNVRT.SYS
+  size: 202
+  date: '1984-10-20T13:00:00'
+  crc: '0xa4525aba'
+- name: TREK23.COM
+  size: 50816
+  date: '1985-12-22T23:29:48'
+  crc: '0x510f023a'

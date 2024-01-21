@@ -1,0 +1,39 @@
+filename: 射波 (Zh) (1992)(Amwa (HK) Computer Co.) [Action].zip
+tdc_id: '15003.0'
+title:
+  screen: 射波
+  translation: Shooting Wave
+  transliteration: Shè bō
+publisher: Amwa (HK) Computer Co.
+year: '1992'
+genre: Action
+language: Chinese
+date:
+  added: '2019-03-01T18:50:36'
+  last_modified: '2023-06-26T12:21:51'
+type: zip
+references:
+  mobygames: https://www.mobygames.com/game/57126/she-bo/
+  dosid: DOS03901
+  exodos: Pang (1992).zip
+files:
+- name: BALL.CFG
+  size: 13
+  date: '1998-05-17T18:50:10'
+  crc: '0x69ef3ff6'
+- name: BALL.EXE
+  size: 33451
+  date: '2095-05-18T15:43:42'
+  crc: '0x744ddc6e'
+- name: BALL1.DAT
+  size: 393716
+  date: '1994-02-14T11:01:08'
+  crc: '0xf7bc8442'
+- name: BALL2.DAT
+  size: 1147008
+  date: '1992-06-27T13:03:04'
+  crc: '0xcbe6cff5'
+- name: BALLCFG.EXE
+  size: 13708
+  date: '2095-05-18T15:29:24'
+  crc: '0x54115a31'

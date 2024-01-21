@@ -1,0 +1,31 @@
+filename: Asteroids (1994)(David Stafford) [Action].zip
+tdc_id: '8938.0'
+title:
+  screen: Asteroids
+publisher: David Stafford
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T21:48:06'
+  last_modified: '2019-03-01T21:48:06'
+type: zip
+commands:
+  play: ASTEROID.EXE
+files:
+- name: ASTEROID.C
+  size: 6588
+  date: '1994-07-10T19:50:10'
+  crc: '0xdb3eca0a'
+- name: ASTEROID.EXE
+  size: 44628
+  date: '1994-07-10T14:47:54'
+  crc: '0x21a5a20d'
+- name: EGAVGA.BGI
+  size: 5554
+  date: '1992-06-10T03:10:00'
+  crc: '0x9b14ff3b'
+- name: asteroid.txt
+  size: 330
+  date: '1994-09-21T23:22:10'
+  crc: '0x005f1960'

@@ -1,0 +1,28 @@
+filename: Immortal Kombat II (1994)(John Diamond) [Action].zip
+tdc_id: '3103.0'
+title:
+  screen: Immortal Kombat II
+publisher: John Diamond
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T22:00:46'
+  last_modified: '2019-03-01T22:00:46'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 25
+  date: '2018-04-15T16:46:44'
+  crc: '0x926d51cc'
+- name: IMKII.BAS
+  size: 19064
+  date: '1998-05-07T19:17:44'
+  crc: '0xa3ce0437'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T01:28:02'
+  crc: '0x19f6ed75'

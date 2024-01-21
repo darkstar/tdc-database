@@ -1,0 +1,31 @@
+filename: Resort (198x)(Anonymous) [Adventure, Interactive Fiction, Adult].zip
+tdc_id: '14851.0'
+title:
+  screen: Resort
+publisher: Anonymous
+year: 198x
+genre:
+- Adventure
+- Interactive Fiction
+- Adult
+language: English
+date:
+  added: '2019-03-01T18:29:28'
+  last_modified: '2019-03-01T18:29:28'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 22
+  date: '2019-01-13T00:37:30'
+  crc: '0xc83f5779'
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1988-10-05T02:00:08'
+  crc: '0x2a44af39'
+- name: RESORT.BAS
+  size: 7168
+  date: '1980-01-01T00:34:28'
+  crc: '0x946d37c6'

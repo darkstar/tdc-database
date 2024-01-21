@@ -1,0 +1,28 @@
+filename: Escape from Atlantis (2000)(Thomas Ally) [Adventure].zip
+tdc_id: '4556.0'
+title:
+  screen: Escape from Atlantis
+publisher: Thomas Ally
+year: '2000'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-02T10:54:46'
+  last_modified: '2019-03-02T10:54:46'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: ATLANTIS.BAS
+  size: 20883
+  date: '2018-03-10T15:06:02'
+  crc: '0x28426b1a'
+- name: GO.BAT
+  size: 28
+  date: '2018-11-28T20:36:14'
+  crc: '0xbe951f3d'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

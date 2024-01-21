@@ -1,0 +1,51 @@
+filename: Breakline (Installer) (En)(Fr)(De) (1994)(Kalisto) [Action].zip
+tdc_id: '8844.1'
+title:
+  box: Breakline
+publisher: Kalisto
+year: '1994'
+genre: Action
+language:
+- English
+- French
+- German
+date:
+  added: '2019-03-01T21:54:58'
+  last_modified: '2019-03-01T21:54:58'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: BRK.ZIP
+  size: 1195827
+  date: '1999-12-31T19:00:00'
+  crc: '0x023061c2'
+- name: ENGLISH.ZIP
+  size: 14536
+  date: '1999-12-31T19:00:00'
+  crc: '0x7ca2b513'
+- name: FRENCH.ZIP
+  size: 14918
+  date: '1999-12-31T19:00:00'
+  crc: '0x39b029d2'
+- name: GERMAN.ZIP
+  size: 15389
+  date: '1999-12-31T19:00:00'
+  crc: '0x665fab98'
+- name: ID.TXT
+  size: 7
+  date: '1999-12-31T19:00:00'
+  crc: '0xcfd0b0bf'
+- name: INSTALL.DAT
+  size: 2301
+  date: '1999-12-31T19:00:00'
+  crc: '0x3d16efbe'
+- name: INSTALL.EXE
+  size: 49786
+  date: '1999-12-31T19:00:00'
+  crc: '0xa9f9de42'
+- name: PKUNZIP.EXE
+  size: 29378
+  date: '1999-12-31T19:00:00'
+  crc: '0x00832770'

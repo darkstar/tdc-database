@@ -1,0 +1,29 @@
+filename: Hextris v1.1 (1991)(Silicon Square Software) [Action, Strategy].zip
+tdc_id: '668.0'
+title:
+  screen: Hextris
+publisher: Silicon Square Software
+year: '1991'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:36:18'
+  last_modified: '2019-03-01T18:36:18'
+version: '1.1'
+type: zip
+commands:
+  play: HEXTRIS.EXE
+references:
+  dosid: DOS06115
+  exodos: Hextris (1991).zip
+files:
+- name: HEXTRIS.DOC
+  size: 1010
+  date: '1991-04-19T22:16:40'
+  crc: '0x63a16fad'
+- name: HEXTRIS.EXE
+  size: 70944
+  date: '1991-04-19T21:58:40'
+  crc: '0x7e8ca694'

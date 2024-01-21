@@ -1,0 +1,57 @@
+filename: Backgammon (1987)(Bill Mahoney) [Strategy, Board].zip
+tdc_id: '1343.0'
+title:
+  screen: Backgammon
+publisher: Bill Mahoney
+year: '1987'
+genre:
+- Strategy
+- Board
+language: English
+date:
+  added: '2019-03-01T18:25:08'
+  last_modified: '2019-03-01T18:25:08'
+type: zip
+commands:
+  play: BKG.EXE
+files:
+- name: BKG.C
+  size: 33280
+  date: '2023-04-29T17:31:44'
+  crc: '0x527c4931'
+- name: BKG.DOC
+  size: 32256
+  date: '1987-01-12T18:05:54'
+  crc: '0x24ac7e74'
+- name: BKG.EXE
+  size: 34559
+  date: '1980-01-01T00:23:08'
+  crc: '0x7b7c74dc'
+- name: BKG.H
+  size: 1536
+  date: '2023-04-29T17:31:44'
+  crc: '0x32e66e37'
+- name: EVAL.C
+  size: 11904
+  date: '2023-04-29T17:31:44'
+  crc: '0x082ca431'
+- name: IBMUTILS.C
+  size: 4608
+  date: '2023-04-29T17:31:44'
+  crc: '0xd4a2bdf6'
+- name: KAYUTILS.C
+  size: 4096
+  date: '2023-04-29T17:31:44'
+  crc: '0x4dfa5272'
+- name: MOVE.C
+  size: 5248
+  date: '2023-04-29T17:31:44'
+  crc: '0xb94a9c2f'
+- name: MOVEGEN.C
+  size: 22272
+  date: '2023-04-29T17:31:44'
+  crc: '0x89c558d4'
+- name: SCREEN.C
+  size: 13824
+  date: '2023-04-29T17:31:44'
+  crc: '0x6cb57016'

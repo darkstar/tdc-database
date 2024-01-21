@@ -1,0 +1,30 @@
+filename: Duke Nukem 3D- Atomic Edition v1.5 CD-ROM (1996)(GT Interactive Software Corp.) [ccd].zip
+tdc_id: '9466.2'
+title:
+  box: 'Duke Nukem 3D: Atomic Edition'
+  qualifier: CD-ROM
+publisher: GT Interactive Software Corp.
+year: '1996'
+genre: ccd
+language: English
+date:
+  added: '2023-02-22T11:13:27'
+  last_modified: '2023-03-04T09:06:45'
+version: '1.5'
+type: ccd
+media: CD-ROM
+audio:
+- CD-DA
+files:
+- name: cd.ccd
+  size: 962
+  date: '1999-12-31T19:00:00'
+  crc: '0xc47917f5'
+- name: cd.img
+  size: 722162784
+  date: '1999-12-31T19:00:00'
+  crc: '0xf17ba89b'
+- name: cd.sub
+  size: 29476032
+  date: '1999-12-31T19:00:00'
+  crc: '0xda701132'

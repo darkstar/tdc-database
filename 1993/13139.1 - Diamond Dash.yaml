@@ -1,0 +1,33 @@
+filename: Diamond Dash [SW] (1993)(Softek) [Action].zip
+tdc_id: '13139.1'
+title:
+  screen: Diamond Dash
+publisher: Softek
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T19:02:20'
+  last_modified: '2019-03-01T19:02:20'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: DD.EXE
+references:
+  dosid: DOS15486
+  exodos: Diamond Dash (1993).zip
+files:
+- name: DD.DAT
+  size: 10450
+  date: '1993-05-01T22:47:08'
+  crc: '0x9aa62656'
+- name: DD.DOC
+  size: 2978
+  date: '1993-05-01T21:59:34'
+  crc: '0xe4bf4f60'
+- name: DD.EXE
+  size: 135606
+  date: '1993-05-01T22:12:00'
+  crc: '0x79f5dc6c'

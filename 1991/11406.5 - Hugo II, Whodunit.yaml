@@ -1,0 +1,52 @@
+filename: Hugo II, Whodunit v1.1S [SW] (1991)(Gray Design Associates) [Adventure].zip
+tdc_id: '11406.5'
+parent_id: '11406.4'
+title:
+  screen: Hugo II, Whodunit
+publisher: Gray Design Associates
+year: '1991'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:36:20'
+  last_modified: '2019-03-01T18:36:20'
+version: 1.1S
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: HUGO.EXE
+files:
+- name: HELP.DAT
+  size: 2186
+  date: '1991-05-12T18:44:16'
+  crc: '0xf5a9847a'
+- name: HUGO.EXE
+  size: 116125
+  date: '1991-05-12T19:03:02'
+  crc: '0xbb33bdc3'
+- name: MANUAL.DOC
+  size: 11379
+  date: '1991-05-14T21:36:42'
+  crc: '0xf3a72ce8'
+- name: OBJECTS.DAT
+  size: 155240
+  date: '1991-02-16T13:29:48'
+  crc: '0xbc1c1818'
+- name: README.DOC
+  size: 10918
+  date: '1991-05-14T17:37:50'
+  crc: '0xc546d542'
+- name: SCENERY.DAT
+  size: 527321
+  date: '1991-02-16T13:30:22'
+  crc: '0xbc24a511'
+- name: STRINGS.DAT
+  size: 27299
+  date: '1991-02-16T13:29:34'
+  crc: '0x35149794'
+- name: TMSRB.FON
+  size: 45936
+  date: '1987-11-12T13:27:48'
+  crc: '0x3518f506'

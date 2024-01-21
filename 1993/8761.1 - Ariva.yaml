@@ -1,0 +1,44 @@
+filename: Ariva v4.3 [SW] (1993)(Wizard Systems Software) [Action, Strategy].zip
+tdc_id: '8761.1'
+title:
+  screen: Ariva
+publisher: Wizard Systems Software
+year: '1993'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2021-01-28T21:16:46'
+  last_modified: '2021-01-28T21:16:46'
+version: '4.3'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: ARIVA44.EXE
+references:
+  dosid: DOS00845
+  exodos: Ariva (1992).zip
+files:
+- name: ARIVA.ICO
+  size: 766
+  date: '1992-08-19T20:01:42'
+  crc: '0xbd9a9b17'
+- name: ARIVA44.EXE
+  size: 134548
+  date: '1993-12-08T08:57:00'
+  crc: '0x20f6543c'
+- name: ARIVATT.DAT
+  size: 90
+  date: '1993-12-06T10:02:22'
+  crc: '0x5d1eef82'
+- name: CATALOG.TXT
+  size: 3211
+  date: '1993-12-03T23:23:14'
+  crc: '0x33a16cbd'
+- name: FILE_ID.DIZ
+  size: 392
+  date: '1980-01-01T20:40:58'
+  crc: '0x8fcd7f08'

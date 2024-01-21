@@ -1,0 +1,31 @@
+filename: EGA Mouse Paint v3.1 [SW] (1991)(Flying Mouse Software) [Educational].zip
+tdc_id: '13315.0'
+title:
+  screen: EGA Mouse Paint
+publisher: Flying Mouse Software
+year: '1991'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T18:35:46'
+  last_modified: '2019-03-01T18:35:46'
+version: '3.1'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: EGAMP31.EXE
+files:
+- name: EGAMP.ICO
+  size: 766
+  date: '1990-07-19T03:11:18'
+  crc: '0x21c87c1c'
+- name: EGAMP31.EXE
+  size: 88589
+  date: '1991-02-10T13:51:38'
+  crc: '0xcceb944c'
+- name: FMSREAD.1ST
+  size: 13277
+  date: '1991-02-10T15:33:48'
+  crc: '0x5474db40'

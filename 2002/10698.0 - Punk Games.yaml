@@ -1,0 +1,54 @@
+filename: Punk Games (Ru) (2002)(Alexandr Bushenkov) [Action, Compilation].zip
+tdc_id: '10698.0'
+title:
+  screen: Punk Games
+publisher: Alexandr Bushenkov
+year: '2002'
+genre:
+- Action
+- Compilation
+language: Russian
+date:
+  added: '2019-01-16T11:04:20'
+  last_modified: '2019-01-16T11:04:20'
+type: zip
+compilation: true
+commands:
+  play: '!START!.BAT'
+files:
+- name: '!START!.BAT'
+  size: 20
+  date: '2002-01-26T19:31:04'
+  crc: '0x802e5eb6'
+- name: DR_PILOT.BAS
+  size: 1037
+  date: '2002-01-26T19:20:30'
+  crc: '0xdae7cc14'
+- name: LETS-GO.BAS
+  size: 1139
+  date: '2002-01-26T16:04:16'
+  crc: '0x766f0493'
+- name: MENTOS.BAS
+  size: 1809
+  date: '2002-01-26T19:50:48'
+  crc: '0x4dcd3e5e'
+- name: PUNKGAME.BAS
+  size: 964
+  date: '2002-01-26T19:31:24'
+  crc: '0x1ccaf63b'
+- name: PUNKGAME.CAT
+  size: 109
+  date: '2002-01-26T18:47:24'
+  crc: '0xd85b1298'
+- name: PUNKGAME.SCR
+  size: 1755
+  date: '2002-01-26T18:06:54'
+  crc: '0x13696bcc'
+- name: PUNKGAME.TXT
+  size: 1682
+  date: '2003-09-26T03:50:58'
+  crc: '0x282a018b'
+- name: QB.EXE
+  size: 278804
+  date: '1988-09-28T22:45:02'
+  crc: '0xb08bc0fe'

@@ -1,0 +1,33 @@
+filename: Cribbage (1982)(Ensign Software) [Strategy, Cards].zip
+tdc_id: '5173.0'
+title:
+  screen: Cribbage
+publisher: Ensign Software
+year: '1982'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:22:58'
+  last_modified: '2019-03-01T18:22:58'
+type: zip
+media: Download
+commands:
+  play: CRIBBAGE.BAT
+references:
+  dosid: DOS07383
+  exodos: Cribbage (1982).zip
+files:
+- name: CRIBBAGE.BAS
+  size: 12928
+  date: '2088-01-01T07:44:50'
+  crc: '0x0266c749'
+- name: CRIBBAGE.BAT
+  size: 18
+  date: '1985-11-17T22:49:52'
+  crc: '0xe275d3f2'
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1991-01-31T13:17:34'
+  crc: '0x2a44af39'

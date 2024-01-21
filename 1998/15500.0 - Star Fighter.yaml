@@ -1,0 +1,28 @@
+filename: Star Fighter (1998)(Jem Games) [Action].zip
+tdc_id: '15500.0'
+title:
+  screen: Star Fighter
+publisher: Jem Games
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:44:36'
+  last_modified: '2019-03-02T10:44:36'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 28
+  date: '2018-12-18T16:12:40'
+  crc: '0xb1d243d6'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: SFIGHTER.BAS
+  size: 30145
+  date: '1998-09-13T08:34:00'
+  crc: '0xd7f680c4'

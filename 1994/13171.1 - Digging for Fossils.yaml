@@ -1,0 +1,38 @@
+filename: Digging for Fossils (Installer) (1994)(Marathon Technology, Inc.) [Strategy, Educational].zip
+tdc_id: '13171.1'
+title:
+  screen: Digging for Fossils
+publisher: Marathon Technology, Inc.
+year: '1994'
+genre:
+- Strategy
+- Educational
+language: English
+date:
+  added: '2019-03-01T21:56:06'
+  last_modified: '2019-03-01T21:56:06'
+type: zip
+installer: true
+commands:
+  play: install.exe
+files:
+- name: disk.id
+  size: 27
+  date: '2014-01-11T23:02:28'
+  crc: '0x40fa3097'
+- name: fosldig.red
+  size: 1082679
+  date: '1999-12-31T18:00:00'
+  crc: '0x75b7aabd'
+- name: install.dat
+  size: 4204
+  date: '1999-12-31T18:00:00'
+  crc: '0xde567722'
+- name: install.exe
+  size: 103017
+  date: '1999-12-31T18:00:00'
+  crc: '0xb6356c24'
+- name: read.me
+  size: 3191
+  date: '1999-12-31T18:00:00'
+  crc: '0x54930b9a'

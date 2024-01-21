@@ -1,0 +1,138 @@
+filename: Star Wars Chess v1.1.0 (Installer) (En)(Fr)(De)(Es) (1993)(Software Toolworks, Inc., The) [Strategy, Chess].zip
+tdc_id: '15541.4'
+parent_id: '15541.3'
+title:
+  box: Star Wars Chess
+  screen: The Software Toolworks' Star Wars Chess
+  qualifier: Installer
+publisher: Software Toolworks, Inc., The
+year: '1993'
+genre:
+- Strategy
+- Chess
+language:
+- English
+- Spanish
+- French
+- German
+date:
+  added: '2023-12-07T12:25:49'
+  last_modified: '2023-12-07T12:25:49'
+version: 1.1.0
+type: zip
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/2033/the-software-toolworks-star-wars-chess/
+files:
+- name: DI1.QPZ
+  size: 4
+  date: '1993-12-10T01:01:00'
+  crc: '0xaeec59e0'
+- name: DI2.QPZ
+  size: 0
+  date: '1993-12-10T01:01:00'
+- name: DI3.QPZ
+  size: 0
+  date: '1993-12-10T01:01:00'
+- name: DI4.QPZ
+  size: 0
+  date: '1993-12-10T01:01:00'
+- name: DI5.QPZ
+  size: 0
+  date: '1993-12-10T01:01:00'
+- name: DI6.QPZ
+  size: 0
+  date: '1993-12-10T01:01:00'
+- name: DI7.QPZ
+  size: 0
+  date: '1993-12-10T01:01:00'
+- name: DI8.QPZ
+  size: 0
+  date: '1993-12-10T01:01:00'
+- name: ENGLISH.TRN
+  size: 49
+  date: '1993-12-10T01:01:00'
+  crc: '0x91020563'
+- name: ENGLISH.TZL
+  size: 12875
+  date: '1993-12-10T01:01:00'
+  crc: '0x0338f785'
+- name: FRENCH.TRN
+  size: 49
+  date: '1993-12-10T01:01:00'
+  crc: '0xd5d17f40'
+- name: FRENCH.TZL
+  size: 14202
+  date: '1993-12-10T01:01:00'
+  crc: '0x233b3dd9'
+- name: GERMAN.TRN
+  size: 48
+  date: '1993-12-10T01:01:00'
+  crc: '0x91fd8e78'
+- name: GERMAN.TZL
+  size: 15139
+  date: '1993-12-10T01:01:00'
+  crc: '0x43aaab2d'
+- name: INST0101.TZF
+  size: 682052
+  date: '1993-12-10T01:01:00'
+  crc: '0xb0cae270'
+- name: INST0201.TZF
+  size: 77308
+  date: '1993-12-10T01:01:00'
+  crc: '0x3b84cb78'
+- name: INST0301.TZF
+  size: 547826
+  date: '1993-12-10T01:01:00'
+  crc: '0xf3e69852'
+- name: INST0302.TZF
+  size: 1457650
+  date: '1993-12-10T01:01:00'
+  crc: '0xb576010d'
+- name: INST0303.TZF
+  size: 1457650
+  date: '1993-12-10T01:01:00'
+  crc: '0x5abdcebb'
+- name: INST0304.TZF
+  size: 1457650
+  date: '1993-12-10T01:01:00'
+  crc: '0x703b3389'
+- name: INST0305.TZF
+  size: 1457658
+  date: '1993-12-10T01:01:00'
+  crc: '0x2c88bf28'
+- name: INST0306.TZF
+  size: 160746
+  date: '1993-12-10T01:01:00'
+  crc: '0x8ac76827'
+- name: INST0406.TZF
+  size: 1296882
+  date: '1993-12-10T01:01:00'
+  crc: '0xc0eee34b'
+- name: INST0407.TZF
+  size: 1457652
+  date: '1993-12-10T01:01:00'
+  crc: '0x1f09ffdc'
+- name: INST0408.TZF
+  size: 1145316
+  date: '1993-12-10T01:01:00'
+  crc: '0xa23e1d98'
+- name: INSTALL.EXE
+  size: 62816
+  date: '1993-12-10T01:01:00'
+  crc: '0x1e138798'
+- name: README.TXT
+  size: 1365
+  date: '1993-12-10T01:01:00'
+  crc: '0x4cae2d20'
+- name: SPANISH.TRN
+  size: 49
+  date: '1993-12-10T01:01:00'
+  crc: '0x07ca9766'
+- name: SPANISH.TZL
+  size: 13958
+  date: '1993-12-10T01:01:00'
+  crc: '0x9bbda99e'

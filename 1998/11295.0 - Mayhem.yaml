@@ -1,0 +1,41 @@
+filename: Mayhem v1.5 (1998)(Alex Smith) [Action].zip
+tdc_id: '11295.0'
+title:
+  screen: Mayhem
+publisher: Alex Smith
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:42:22'
+  last_modified: '2019-03-02T10:42:22'
+version: '1.5'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 26
+  date: '2018-12-05T20:53:34'
+  crc: '0x67042952'
+- name: MAYHEM.BAS
+  size: 36071
+  date: '1998-08-23T17:32:56'
+  crc: '0x278f4312'
+- name: MAYHEM.DAT
+  size: 2115
+  date: '1998-08-05T12:22:52'
+  crc: '0xbccb5401'
+- name: MAYHEMED.BAS
+  size: 21356
+  date: '1998-08-05T12:22:16'
+  crc: '0x7bb2f29d'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: SHIP.DAT
+  size: 656
+  date: '1998-07-25T15:37:38'
+  crc: '0x4d8491e4'

@@ -1,0 +1,47 @@
+filename: Sensible World of Soccer- European Championship Edition v2.0 Update (Installer) (1996)(Renegade Software) [Simulation, Sports, Addon].zip
+tdc_id: '14993.3'
+title:
+  box: 'Sensible World of Soccer: European Championship Edition'
+publisher: Renegade Software
+year: '1996'
+genre:
+- Simulation
+- Sports
+- Addon
+language: English
+date:
+  added: '2022-02-28T23:57:18'
+  last_modified: '2022-02-28T23:57:18'
+version: '2.0'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 18834
+  date: '1996-11-08T12:16:52'
+  crc: '0xde273068'
+- name: READ.ME
+  size: 1439
+  date: '1996-10-31T14:29:28'
+  crc: '0x9283c0d5'
+- name: SWOS
+  size: 0
+  date: '1996-11-08T16:03:36'
+- name: SWOS.INF
+  size: 26
+  date: '1996-09-10T11:31:48'
+  crc: '0xf0f724dc'
+- name: SWOS_1.RNC
+  size: 1300000
+  date: '1996-11-08T13:23:40'
+  crc: '0x671c62ae'
+- name: SWOS_2.RNC
+  size: 612304
+  date: '1996-11-08T13:23:40'
+  crc: '0x2930a6b8'
+- name: UNPACK.EXE
+  size: 123760
+  date: '1996-11-07T18:42:00'
+  crc: '0x402c636f'

@@ -1,0 +1,76 @@
+filename: Maniac Mansion- Day of the Tentacle v1.5 (Installer) (1993)(LucasArts Entertainment Company LLC) [Adventure][!].zip
+tdc_id: '11123.9'
+parent_id: '11123.14'
+title:
+  box: 'Maniac Mansion: Day of the Tentacle'
+  qualifier: Installer
+publisher: LucasArts Entertainment Company LLC
+year: '1993'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T19:12:56'
+  last_modified: '2023-11-25T10:45:32'
+version: '1.5'
+type: zip
+tags:
+- KnownGood
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/719/maniac-mansion-day-of-the-tentacle/
+files:
+- name: DISK.ID
+  size: 31
+  date: '1993-06-02T19:39:50'
+  crc: '0x7f4e0aa2'
+- name: DISK.ID2
+  size: 31
+  date: '1993-06-02T19:41:20'
+  crc: '0x7d08b4fb'
+- name: DISK.ID3
+  size: 31
+  date: '1993-06-02T19:42:52'
+  crc: '0x7ccadecc'
+- name: DISK.ID4
+  size: 31
+  date: '1993-06-02T19:44:16'
+  crc: '0x7985c849'
+- name: DISK.ID5
+  size: 31
+  date: '1993-06-02T19:45:44'
+  crc: '0x7847a27e'
+- name: DISK.ID6
+  size: 31
+  date: '1993-06-02T19:47:16'
+  crc: '0x7a011c27'
+- name: DOTT.001
+  size: 1343400
+  date: '1993-06-02T19:48:44'
+  crc: '0xf1055d69'
+- name: DOTT.002
+  size: 1457152
+  date: '1993-06-02T19:42:26'
+  crc: '0x2c1e8b86'
+- name: DOTT.003
+  size: 1457152
+  date: '1993-06-02T19:43:56'
+  crc: '0xbe0803cc'
+- name: DOTT.004
+  size: 1457152
+  date: '1993-06-02T19:45:28'
+  crc: '0x6e523e0c'
+- name: DOTT.005
+  size: 1457152
+  date: '1993-06-02T19:46:50'
+  crc: '0xa9e644a5'
+- name: DOTT.006
+  size: 1437099
+  date: '1993-06-02T19:48:20'
+  crc: '0x63d78001'
+- name: INSTALL.EXE
+  size: 113388
+  date: '1992-07-28T12:00:00'
+  crc: '0x229e418d'

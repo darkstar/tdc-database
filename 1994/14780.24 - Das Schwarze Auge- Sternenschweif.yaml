@@ -1,0 +1,106 @@
+filename: Das Schwarze Auge- Sternenschweif v1.0 (Installer) (De) (1994)(Attic Entertainment Software GmbH) [Role-Playing (RPG)].zip
+tdc_id: '14780.24'
+parent_id: '14780.23'
+title:
+  box: 'Das Schwarze Auge: Sternenschweif'
+  qualifier: Installer
+publisher: Attic Entertainment Software GmbH
+year: '1994'
+genre: Role-Playing (RPG)
+language: German
+date:
+  added: '2023-07-22T13:08:26'
+  last_modified: '2023-07-22T13:08:26'
+version: '1.0'
+type: zip
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/3438/realms-of-arkania-star-trail/
+files:
+- name: CONFIG.BSP
+  size: 1602
+  date: '1994-09-06T12:34:44'
+  crc: '0x21b71de5'
+- name: DAT.DIR
+  size: 62
+  date: '1994-09-07T17:36:40'
+  crc: '0x5a12fea6'
+- name: DAT.S01
+  size: 1457152
+  date: '1994-09-07T17:36:56'
+  crc: '0xfe8e4558'
+- name: DAT.S02
+  size: 1457152
+  date: '1994-09-07T17:37:08'
+  crc: '0x0264eee5'
+- name: DAT.S03
+  size: 1457152
+  date: '1994-09-07T17:37:22'
+  crc: '0xc962da4e'
+- name: DAT.S04
+  size: 1457152
+  date: '1994-09-07T17:37:36'
+  crc: '0x21cfc4b5'
+- name: DAT.S05
+  size: 1457152
+  date: '1994-09-07T17:37:50'
+  crc: '0xe2d9de53'
+- name: DAT.S06
+  size: 1457152
+  date: '1994-09-07T17:38:02'
+  crc: '0x36f9f035'
+- name: DAT.S07
+  size: 1457152
+  date: '1994-09-07T17:38:14'
+  crc: '0x1ba1a8ce'
+- name: DAT.S08
+  size: 608776
+  date: '1994-09-07T17:38:20'
+  crc: '0xc5b96917'
+- name: DRIVERS.TMP
+  size: 129609
+  date: '1994-09-07T17:26:52'
+  crc: '0x230c6fc7'
+- name: FX.FN
+  size: 2450
+  date: '1994-09-07T09:51:58'
+  crc: '0x52e9ffa8'
+- name: GAMES.TMP
+  size: 6546
+  date: '1994-09-07T17:26:46'
+  crc: '0xb876210e'
+- name: INSTALL.AIF
+  size: 45522
+  date: '1994-09-07T18:21:16'
+  crc: '0x537da898'
+- name: INSTALL.EXE
+  size: 34964
+  date: '1994-08-25T18:26:14'
+  crc: '0x4568983a'
+- name: MAIN.TMP
+  size: 497305
+  date: '1994-09-07T17:26:42'
+  crc: '0x3598be88'
+- name: PATCH.EXE
+  size: 45450
+  date: '2027-11-30T00:00:00'
+  crc: '0xb36268dc'
+- name: PKUNZIP.EXE
+  size: 29378
+  date: '1993-02-01T02:04:16'
+  crc: '0x00832770'
+- name: RAW.FN
+  size: 6020
+  date: '1994-09-07T09:52:44'
+  crc: '0xa58d0dae'
+- name: SOUND.BAT
+  size: 107
+  date: '1994-06-07T20:40:26'
+  crc: '0xae37128a'
+- name: STAR.FN
+  size: 17374
+  date: '1994-09-07T17:15:42'
+  crc: '0xf5a52f3d'

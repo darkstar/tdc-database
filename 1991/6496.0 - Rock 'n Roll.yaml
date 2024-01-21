@@ -1,0 +1,93 @@
+filename: Rock 'n Roll r910601 (Installer) [f1][a1] (1991)(Rainbow Arts Software GmbH) [Action, Strategy].zip
+tdc_id: '6496.0'
+title:
+  box: Rock 'n Roll
+  qualifier: Installer
+publisher: Rainbow Arts Software GmbH
+year: '1991'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-09-30T19:34:40'
+  last_modified: '2023-10-13T21:05:22'
+release: '910601'
+type: zip
+tags:
+- Alternate: 1
+- Fixed: 1
+installer: true
+commands:
+  play: ROCKROLL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/2047/rock-n-roll/
+files:
+- name: INSTALL.BAT
+  size: 4627
+  date: '1991-06-01T12:00:14'
+  crc: '0x6ec61b84'
+- name: README.DAT
+  size: 16932
+  date: '1991-06-01T12:00:14'
+  crc: '0xee185c64'
+- name: README.EXE
+  size: 20808
+  date: '1991-06-01T12:00:14'
+  crc: '0xc66a3104'
+- name: ROCKROLL.DAT
+  size: 117552
+  date: '1991-06-01T12:00:14'
+  crc: '0x2ed5b9c2'
+- name: ROCKROLL.EXE
+  size: 42735
+  date: '1991-06-01T12:00:14'
+  crc: '0x15b6df63'
+- name: RRCGA.DAT
+  size: 86337
+  date: '1991-06-01T12:00:14'
+  crc: '0x759bab6b'
+- name: RREGA.DAT
+  size: 152830
+  date: '1991-06-01T12:00:14'
+  crc: '0x5a87c18b'
+- name: RRLEV.DAT
+  size: 177024
+  date: '1991-06-01T12:00:14'
+  crc: '0x78383c2f'
+- name: _BIGCOPY.EXE
+  size: 6189
+  date: '1991-06-01T12:00:14'
+  crc: '0xe0dc36a0'
+- name: _COPY.BAT
+  size: 4065
+  date: '1991-06-01T12:00:14'
+  crc: '0x05ecc242'
+- name: _COPY360.BAT
+  size: 4223
+  date: '1991-06-01T12:00:14'
+  crc: '0xfd49fce0'
+- name: _COPYBIG.BAT
+  size: 2743
+  date: '1991-06-01T12:00:14'
+  crc: '0x35a3ff3e'
+- name: _DSKRES.COM
+  size: 9
+  date: '1991-06-01T12:00:14'
+  crc: '0x62b4361a'
+- name: _GETKEY.COM
+  size: 412
+  date: '1991-06-01T12:00:14'
+  crc: '0x91f9766b'
+- name: _GK.COM
+  size: 412
+  date: '1991-06-01T12:00:14'
+  crc: '0x91f9766b'
+- name: _INSTL.BAT
+  size: 3630
+  date: '1991-06-01T12:00:14'
+  crc: '0x57bfb410'
+- name: _INSTL.BA_
+  size: 3635
+  date: '1991-06-01T12:00:14'
+  crc: '0x58aa4b26'

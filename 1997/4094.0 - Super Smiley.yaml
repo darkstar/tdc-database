@@ -1,0 +1,37 @@
+filename: Super Smiley v2.0 (1997)(Shane Wright) [Action].zip
+tdc_id: '4094.0'
+title:
+  screen: Super Smiley
+publisher: Shane Wright
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:38:06'
+  last_modified: '2019-03-02T10:38:06'
+version: '2.0'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 27
+  date: '2018-11-26T13:44:50'
+  crc: '0xac179610'
+- name: HI.HI
+  size: 68
+  date: '1997-10-31T19:58:54'
+  crc: '0xc02fe1c9'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: SMILEV2.BAS
+  size: 12867
+  date: '1997-10-31T20:40:02'
+  crc: '0x615b6101'
+- name: SPRITE1.DAT
+  size: 2251
+  date: '1997-10-31T21:17:06'
+  crc: '0x96c8dbbb'

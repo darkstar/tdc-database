@@ -1,0 +1,35 @@
+filename: World Cup Year 94 (Installer) (1994)(Empire Software) [Sports, Compilation].zip
+tdc_id: '16095.0'
+title:
+  box: World Cup Year 94
+publisher: Empire Software
+year: '1994'
+genre:
+- Sports
+- Compilation
+language: English
+date:
+  added: '2019-03-02T07:19:38'
+  last_modified: '2019-03-02T07:19:38'
+type: zip
+installer: true
+compilation: true
+commands:
+  play: install.exe
+files:
+- name: install.exe
+  size: 24577
+  date: '1999-12-31T18:00:00'
+  crc: '0x39c5562a'
+- name: wcy94_1.rnc
+  size: 1427664
+  date: '1999-12-31T18:00:00'
+  crc: '0xc43f81d9'
+- name: wcy94_2.rnc
+  size: 1457664
+  date: '1999-12-31T18:00:00'
+  crc: '0x83cc519b'
+- name: wcy94_3.rnc
+  size: 716304
+  date: '1999-12-31T18:00:00'
+  crc: '0x511111b3'

@@ -1,0 +1,38 @@
+filename: Gunship 2000 v469.0605 (Installer) (1993)(MicroProse Software, Inc.) [Simulation].zip
+tdc_id: '11461.33'
+parent_id: '11461.32'
+title:
+  box: Gunship 2000
+  qualifier: Installer
+publisher: MicroProse Software, Inc.
+year: '1993'
+genre: Simulation
+language: English
+date:
+  added: '2023-04-15T10:22:28'
+  last_modified: '2023-04-15T10:22:28'
+version: '469.0605'
+type: zip
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/891/gunship-2000/
+files:
+- name: INSTALL.00A
+  size: 1282068
+  date: '1993-06-16T12:02:06'
+  crc: '0xf7cb80d4'
+- name: INSTALL.00B
+  size: 1282068
+  date: '1993-06-16T12:02:12'
+  crc: '0x4b6e9dd0'
+- name: INSTALL.EXE
+  size: 21886
+  date: '1992-10-06T14:28:36'
+  crc: '0x026f2827'
+- name: README.COM
+  size: 14849
+  date: '1993-06-16T11:52:38'
+  crc: '0xb4c257b6'

@@ -1,0 +1,29 @@
+filename: Othello v2.0 (1990)(Markku Poysti) [Strategy, Board].zip
+tdc_id: '2037.0'
+title:
+  screen: Othello
+publisher: Markku Poysti
+year: '1990'
+genre:
+- Strategy
+- Board
+language: English
+date:
+  added: '2019-03-01T18:33:28'
+  last_modified: '2019-03-01T18:33:28'
+version: '2.0'
+type: zip
+commands:
+  play: OT.EXE
+references:
+  dosid: DOS15663
+  exodos: Othello (1990).zip
+files:
+- name: OT.EXE
+  size: 31486
+  date: '1990-05-06T08:29:26'
+  crc: '0xf44aec0b'
+- name: OT.HLP
+  size: 937
+  date: '1990-05-03T18:18:40'
+  crc: '0x11e4500b'

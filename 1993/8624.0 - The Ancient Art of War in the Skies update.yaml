@@ -1,0 +1,36 @@
+filename: Ancient Art of War in the Skies update, The (1993)(MicroProse Software, Inc.) [Action, Simulation, Strategy, Addon].zip
+tdc_id: '8624.0'
+title:
+  screen: The Ancient Art of War in the Skies update
+publisher: MicroProse Software, Inc.
+year: '1993'
+genre:
+- Action
+- Simulation
+- Strategy
+- Addon
+language: English
+date:
+  added: '2019-08-04T17:46:50'
+  last_modified: '2019-08-04T17:46:50'
+type: zip
+patch: true
+commands:
+  play: SKIES.EXE
+files:
+- name: READ.ME
+  size: 894
+  date: '1993-01-13T16:42:04'
+  crc: '0xb18fbb5c'
+- name: SKIES.EXE
+  size: 392945
+  date: '2019-08-04T15:43:00'
+  crc: '0xb6b56a6c'
+- name: SKIES.EX_
+  size: 392945
+  date: '1992-12-20T17:42:12'
+  crc: '0xed016b5f'
+- name: ST
+  size: 15222
+  date: '1992-10-23T11:06:42'
+  crc: '0x74ffb099'

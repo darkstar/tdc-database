@@ -1,0 +1,98 @@
+filename: APBA Major League Players Baseball- Master Edition v1.1 (1988)(Miller Associates) [Simulation, Sports].zip
+tdc_id: '8694.0'
+title:
+  screen: 'APBA Major League Players Baseball: Master Edition'
+publisher: Miller Associates
+year: '1988'
+genre:
+- Simulation
+- Sports
+language: English
+date:
+  added: '2019-08-03T00:22:34'
+  last_modified: '2019-08-03T00:22:34'
+version: '1.1'
+type: zip
+commands:
+  play: BASEBALL.EXE
+files:
+- name: ANTH.MUS
+  size: 512
+  date: '2016-10-04T22:37:10'
+  crc: '0x4ad55d14'
+- name: BALL.MUS
+  size: 256
+  date: '2016-10-04T22:37:10'
+  crc: '0x94fb8115'
+- name: BASEBALL.EXE
+  size: 38000
+  date: '2016-10-04T22:37:10'
+  crc: '0x3ba9549f'
+- name: BASEBALL.OVL
+  size: 93312
+  date: '2019-08-01T22:26:22'
+  crc: '0xd0a6c38b'
+- name: BASEBALL.OV_
+  size: 93312
+  date: '2016-10-04T22:37:10'
+  crc: '0x51b7a8f1'
+- name: BOT.OBJ
+  size: 4284
+  date: '2016-10-04T22:37:10'
+  crc: '0xb09e96ec'
+- name: CONFIG.SYS
+  size: 11
+  date: '2016-10-04T22:37:10'
+  crc: '0xedcddb81'
+- name: EXETBLA.TBL
+  size: 64374
+  date: '2016-10-04T22:37:10'
+  crc: '0xf661cb14'
+- name: EXETBLB.TBL
+  size: 60756
+  date: '2016-10-04T22:37:10'
+  crc: '0x6d23f628'
+- name: FCF.OBJ
+  size: 120
+  date: '2016-10-04T22:37:10'
+  crc: '0xdab1107f'
+- name: FPF.OBJ
+  size: 336
+  date: '2016-10-04T22:37:10'
+  crc: '0x2d38783d'
+- name: IDT.OBJ
+  size: 144
+  date: '2016-10-04T22:37:08'
+  crc: '0x916f9692'
+- name: MSGTBL.TBL
+  size: 64582
+  date: '2016-10-04T22:37:08'
+  crc: '0x327f1e1a'
+- name: PCT.OBJ
+  size: 3360
+  date: '2016-10-04T22:37:08'
+  crc: '0x6de1e1be'
+- name: ROT.OBJ
+  size: 3060
+  date: '2016-10-04T22:37:08'
+  crc: '0x6b90a9b7'
+- name: RPF.OBJ
+  size: 240
+  date: '2016-10-04T22:37:08'
+  crc: '0x239e087a'
+- name: RRT.OBJ
+  size: 1728
+  date: '2016-10-04T22:37:08'
+  crc: '0x48d321d1'
+- name: SPEC.OBJ
+  size: 160
+  date: '2016-10-04T22:37:08'
+  crc: '0x80a4fe36'
+- name: WT2.OBJ
+  size: 144
+  date: '2016-10-04T22:37:08'
+  crc: '0xc2e3a530'
+- name: WT3.OBJ
+  size: 96
+  date: '2016-10-04T22:37:08'
+  crc: '0x840f593e'

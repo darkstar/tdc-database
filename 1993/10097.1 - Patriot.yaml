@@ -1,0 +1,101 @@
+filename: Patriot v1.10 (Installer) (1993)(Three-Sixty Pacific, Inc.) [Strategy].zip
+tdc_id: '10097.1'
+title:
+  box: Patriot
+publisher: Three-Sixty Pacific, Inc.
+year: '1993'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T19:15:56'
+  last_modified: '2019-03-01T19:15:56'
+version: '1.10'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 101457
+  date: '1993-03-25T09:08:10'
+  crc: '0xa68ca934'
+- name: PATRIOT.I01
+  size: 1322000
+  date: '1993-07-14T12:50:12'
+  crc: '0x8da77a72'
+- name: PATRIOT.I02
+  size: 1457000
+  date: '1993-07-14T12:47:58'
+  crc: '0xe8cab987'
+- name: PATRIOT.I03
+  size: 883349
+  date: '1993-07-14T12:50:10'
+  crc: '0x6cff2c4e'
+- name: VESA\APPIAN.EXE
+  size: 2648
+  date: '1991-07-30T12:49:56'
+  crc: '0x1df7d489'
+- name: VESA\ATI.COM
+  size: 3736
+  date: '1990-05-15T11:56:22'
+  crc: '0x726e35af'
+- name: VESA\CHIPS.COM
+  size: 1682
+  date: '1990-04-16T14:42:36'
+  crc: '0xdae27f7f'
+- name: VESA\CIRRUS.COM
+  size: 3711
+  date: '1991-02-19T11:38:50'
+  crc: '0x29a87748'
+- name: VESA\EVEREX.COM
+  size: 4207
+  date: '1990-01-30T14:28:46'
+  crc: '0x9656635a'
+- name: VESA\GENOA.COM
+  size: 2873
+  date: '1991-11-08T11:12:58'
+  crc: '0x73ca3bf1'
+- name: VESA\IBMXGA.EXE
+  size: 31232
+  date: '1993-01-05T05:30:00'
+  crc: '0x507a31ef'
+- name: VESA\OAK-37.COM
+  size: 1351
+  date: '1991-01-21T16:28:30'
+  crc: '0x14104596'
+- name: VESA\OAK-77.COM
+  size: 1530
+  date: '1992-04-22T15:03:54'
+  crc: '0x209e642d'
+- name: VESA\ORCHDVSA.COM
+  size: 4754
+  date: '1991-07-25T10:00:00'
+  crc: '0x019b5f66'
+- name: VESA\PARADISE.EXE
+  size: 1942
+  date: '1991-02-25T09:37:20'
+  crc: '0x9743a1c5'
+- name: VESA\SIGMA.COM
+  size: 1279
+  date: '1990-09-18T12:00:00'
+  crc: '0x0f9fddf1'
+- name: VESA\STB.COM
+  size: 2781
+  date: '1991-03-20T09:07:28'
+  crc: '0x40dafb74'
+- name: VESA\TECMAR.COM
+  size: 2388
+  date: '1990-04-18T18:15:32'
+  crc: '0xeb6c9c2a'
+- name: VESA\TRIDENT.EXE
+  size: 10155
+  date: '1990-12-07T21:14:18'
+  crc: '0x6579a19c'
+- name: VESA\TSENG.COM
+  size: 4080
+  date: '1991-08-20T20:20:00'
+  crc: '0x113da79d'
+- name: VESA\V7VESA.COM
+  size: 3456
+  date: '1992-03-31T10:56:14'
+  crc: '0x268b3e63'

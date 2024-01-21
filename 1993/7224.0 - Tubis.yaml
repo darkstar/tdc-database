@@ -1,0 +1,44 @@
+filename: Tubis (En)(De) (1993)(DOKA Company) [Strategy, Action].zip
+tdc_id: '7224.0'
+title:
+  screen: Tubis
+publisher: DOKA Company
+year: '1993'
+genre:
+- Strategy
+- Action
+language:
+- English
+- German
+date:
+  added: '2019-03-01T21:10:50'
+  last_modified: '2019-03-01T21:10:50'
+type: zip
+references:
+  dosid: DOS08048
+  exodos: Tubis (1993).zip
+files:
+- name: START.BAT
+  size: 2580
+  date: '1993-04-05T10:25:14'
+  crc: '0xfb30a04b'
+- name: TUBIS.DAT
+  size: 227450
+  date: '1993-02-20T11:11:10'
+  crc: '0x78e0553f'
+- name: TUBIS.EXE
+  size: 91824
+  date: '1993-02-20T11:11:10'
+  crc: '0x23088d57'
+- name: TUBIS.RES
+  size: 120
+  date: '1993-03-27T18:29:18'
+  crc: '0xcfed3768'
+- name: TUBIS_D.TXT
+  size: 5302
+  date: '1993-02-20T11:11:10'
+  crc: '0xa8e06d75'
+- name: TUBIS_E.TXT
+  size: 4755
+  date: '1993-02-20T11:11:18'
+  crc: '0x3324d0b7'

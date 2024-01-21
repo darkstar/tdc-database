@@ -1,0 +1,60 @@
+filename: Championship Poker (1987)(Applications Plus, Inc.) [Strategy, Cards].zip
+tdc_id: '12098.0'
+title:
+  box: Championship Poker
+publisher: Applications Plus, Inc.
+year: '1987'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:25:12'
+  last_modified: '2019-03-01T18:25:12'
+type: zip
+commands:
+  play: POKER.COM
+references:
+  dosid: DOS15294
+  exodos: Championship Poker (1988).zip
+files:
+- name: EXERCISE.CHN
+  size: 51273
+  date: '1988-04-20T17:22:22'
+  crc: '0x60686389'
+- name: FRIDAY.000
+  size: 7168
+  date: '1988-04-20T17:27:28'
+  crc: '0x7cf8d6df'
+- name: FRIDAY.CHN
+  size: 46686
+  date: '1988-04-20T17:29:24'
+  crc: '0xf2e12514'
+- name: GRAFIX.DAT
+  size: 1041
+  date: '1988-04-17T08:03:40'
+  crc: '0x3aa3840c'
+- name: HOLDEM.CHN
+  size: 36083
+  date: '1988-04-21T04:21:46'
+  crc: '0xfdd18438'
+- name: PLAYID.DAT
+  size: 350
+  date: '1988-04-18T08:46:04'
+  crc: '0x2fbb1ac4'
+- name: POKER.COM
+  size: 48575
+  date: '1988-04-20T16:53:40'
+  crc: '0x4f5bae59'
+- name: PROBLEMS.DAT
+  size: 704
+  date: '1988-04-17T18:30:50'
+  crc: '0x03a351f1'
+- name: TOURNEY.000
+  size: 7168
+  date: '1988-04-20T17:43:06'
+  crc: '0x7cf8d6df'
+- name: TOURNEY.CHN
+  size: 48370
+  date: '1988-04-20T17:45:04'
+  crc: '0x01434fbd'

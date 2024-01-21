@@ -1,0 +1,52 @@
+filename: TPSSoft Lander v1.6 (2002)(TPSSoft Corp.) [Action].zip
+tdc_id: '16846.0'
+title:
+  screen: TPSSoft Lander
+publisher: TPSSoft Corp.
+year: '2002'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:56:18'
+  last_modified: '2019-03-02T10:56:18'
+version: '1.6'
+type: zip
+commands:
+  play: LANDER.EXE
+files:
+- name: DMAPLAY.BAS
+  size: 40233
+  date: '2002-01-11T15:44:02'
+  crc: '0x5902f375'
+- name: GUI_INC.BAS
+  size: 34105
+  date: '2002-02-12T10:50:56'
+  crc: '0xfca126ab'
+- name: LAND2.BAS
+  size: 60265
+  date: '2002-01-18T23:12:30'
+  crc: '0xb4966b7f'
+- name: LAND2.MAK
+  size: 51
+  date: '2002-01-18T23:12:28'
+  crc: '0x0870adbc'
+- name: LANDER.EXE
+  size: 220854
+  date: '2002-01-14T20:57:32'
+  crc: '0x18b7838b'
+- name: LAND_INC.BAS
+  size: 3356
+  date: '2002-01-14T20:57:28'
+  crc: '0x5df0c83b'
+- name: Lander.tdl
+  size: 1803843
+  date: '2001-12-21T22:57:14'
+  crc: '0xbfa28180'
+- name: readmeen.txt
+  size: 528
+  date: '2002-03-01T20:46:08'
+  crc: '0xbc0fd4a9'
+- name: readmeru.txt
+  size: 397
+  date: '2002-01-14T21:04:00'
+  crc: '0xd1d50bb6'

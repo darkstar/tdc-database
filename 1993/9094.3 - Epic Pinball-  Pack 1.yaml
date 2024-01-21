@@ -1,0 +1,34 @@
+filename: Epic Pinball- Epic Pinball Pack 1 v1.1 (Installer) [SWR][a1] (1993)(Epic MegaGames, Inc.) [Action].zip
+tdc_id: '9094.3'
+title:
+  screen: 'Epic Pinball:  Pack 1'
+publisher: Epic MegaGames, Inc.
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T19:06:56'
+  last_modified: '2022-11-20T12:38:06'
+version: '1.1'
+type: zip
+tags:
+- SharewareRegistered
+- Alternate: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/epic-pinball
+files:
+- name: INSTALL.EXE
+  size: 12224
+  date: '1993-11-03T13:38:26'
+  crc: '0xbde1d4db'
+- name: PINBALL.MEG
+  size: 1286143
+  date: '1993-11-04T00:09:24'
+  crc: '0xfdb466a9'
+- name: PKUNZJR.COM
+  size: 2750
+  date: '1993-01-25T02:04:14'
+  crc: '0xbc15451f'

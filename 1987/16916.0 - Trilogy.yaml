@@ -1,0 +1,39 @@
+filename: Trilogy [DC] (1987)(Mastertronic Group Ltd.) [Adventure, Compilation].zip
+tdc_id: '16916.0'
+title:
+  box: Trilogy
+publisher: Mastertronic Group Ltd.
+year: '1987'
+genre:
+- Adventure
+- Compilation
+language: English
+date:
+  added: '2019-03-01T18:25:46'
+  last_modified: '2019-03-01T18:25:46'
+type: zip
+tags:
+- DOSConversion
+compilation: true
+commands:
+  play: TRILOGY.COM
+references:
+  dosid: DOS05481
+  exodos: Venom (1987).zip
+files:
+- name: GAME.DAT
+  size: 368640
+  date: '1999-03-04T16:54:54'
+  crc: '0xc574d722'
+- name: SAVE1.DAT
+  size: 4096
+  date: '1999-08-23T21:03:44'
+  crc: '0x2bc81d1f'
+- name: SAVE2.DAT
+  size: 4096
+  date: '1999-08-23T21:01:54'
+  crc: '0xf26a9f78'
+- name: TRILOGY.COM
+  size: 528
+  date: '1999-08-23T22:43:44'
+  crc: '0x7e8cf91e'

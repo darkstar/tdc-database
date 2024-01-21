@@ -1,0 +1,40 @@
+filename: Alphabet Soup v1.01 (Installer) [SW] (1994)(Leapfrog Software, Inc.) [Educational].zip
+tdc_id: '8290.1'
+title:
+  screen: Alphabet Soup
+publisher: Leapfrog Software, Inc.
+year: '1994'
+genre: Educational
+language: English
+date:
+  added: '2018-12-31T21:27:24'
+  last_modified: '2018-12-31T21:27:24'
+version: '1.01'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 374
+  date: '1994-12-20T12:43:04'
+  crc: '0x3a8f7ff5'
+- name: INSTALL.001
+  size: 731
+  date: '1994-10-30T01:01:00'
+  crc: '0xd897b5fe'
+- name: INSTALL.EXE
+  size: 87162
+  date: '1994-10-30T01:01:00'
+  crc: '0x417fa2da'
+- name: SOUP.001
+  size: 1021904
+  date: '1994-10-30T01:01:00'
+  crc: '0xbcd98b29'
+- name: VENDOR.DOC
+  size: 628
+  date: '1994-10-30T01:01:00'
+  crc: '0xcb96ad02'

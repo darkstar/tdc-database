@@ -1,0 +1,29 @@
+filename: Starquake [a2] (1988)(ShareData, Inc.) [Action].zip
+tdc_id: '15575.3'
+title:
+  box: Starquake
+publisher: ShareData, Inc.
+year: '1988'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:26:50'
+  last_modified: '2019-03-01T18:26:50'
+type: zip
+tags:
+- Alternate: 2
+commands:
+  play: QUAKE.EXE
+files:
+- name: HISCORE
+  size: 243
+  date: '1990-10-09T20:28:28'
+  crc: '0x51cacd87'
+- name: MAP.BIN
+  size: 16384
+  date: '1988-04-01T15:43:56'
+  crc: '0x6d407dbd'
+- name: QUAKE.EXE
+  size: 93268
+  date: '1988-04-01T16:09:32'
+  crc: '0x49620fc2'

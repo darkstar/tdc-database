@@ -1,0 +1,32 @@
+filename: Border Zone r9 (1987)(Infocom, Inc.) [Adventure, Interactive Fiction][!].zip
+tdc_id: '12752.0'
+parent_id: '12752.1'
+title:
+  box: Border Zone
+publisher: Infocom, Inc.
+year: '1987'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2021-10-12T12:53:38'
+  last_modified: '2021-10-12T12:53:38'
+release: '9'
+type: zip
+tags:
+- KnownGood
+commands:
+  play: BORDERZO.EXE
+references:
+  dosid: DOS01149
+  exodos: Border Zone (1987).zip
+files:
+- name: BORDERZO.DAT
+  size: 178373
+  date: '1987-10-08T15:14:54'
+  crc: '0x437bfd95'
+- name: BORDERZO.EXE
+  size: 31910
+  date: '1987-10-08T13:53:42'
+  crc: '0xb0c3ab98'

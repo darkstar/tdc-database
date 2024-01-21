@@ -1,0 +1,29 @@
+filename: Blackjack (1984)(Hughes J. Glantzberg) [Strategy, Cards].zip
+tdc_id: '1101.0'
+title:
+  screen: Blackjack
+publisher: Hughes J. Glantzberg
+year: '1984'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:24:00'
+  last_modified: '2019-03-01T18:24:00'
+type: zip
+commands:
+  play: GO.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: BLACK.BAS
+  size: 16000
+  date: '1984-06-09T11:17:12'
+  crc: '0xd02ff3d8'
+- name: GO.BAT
+  size: 20
+  date: '2019-01-11T13:42:18'
+  crc: '0xa81f1090'

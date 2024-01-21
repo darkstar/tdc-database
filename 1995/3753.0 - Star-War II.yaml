@@ -1,0 +1,27 @@
+filename: Star-War II (1995)(Adolan Design) [Action].zip
+tdc_id: '3753.0'
+title:
+  screen: Star-War II
+publisher: Adolan Design
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2021-03-17T15:31:16'
+  last_modified: '2021-03-17T15:31:16'
+type: zip
+commands:
+  play: STARWAR2.EXE
+files:
+- name: EGAVGA.BGI
+  size: 5527
+  date: '1995-03-20T07:00:00'
+  crc: '0xa33014d5'
+- name: STARWAR2.EXE
+  size: 65152
+  date: '1995-03-20T08:15:30'
+  crc: '0x8ee7c4ee'
+- name: STARWAR2.OVL
+  size: 513873
+  date: '1995-03-31T15:50:06'
+  crc: '0x0c497189'

@@ -1,0 +1,32 @@
+filename: GoJoe v1.1 (1990)(BJB Productions) [Action].zip
+tdc_id: '1968.0'
+title:
+  screen: GoJoe
+publisher: BJB Productions
+year: '1990'
+genre: Action
+language: English
+date:
+  added: '2008-03-01T21:41:52'
+  last_modified: '2008-03-01T21:41:52'
+version: '1.1'
+type: zip
+commands:
+  play: GOJOE.EXE
+files:
+- name: EACTION.BIN
+  size: 45676
+  date: '1990-11-18T14:12:22'
+  crc: '0xb1a28a97'
+- name: EBANEGFX.BIN
+  size: 24252
+  date: '1990-11-28T23:49:04'
+  crc: '0x52eec5a0'
+- name: GOJOE.DAT
+  size: 1390
+  date: '1998-04-02T11:54:48'
+  crc: '0xbec1628f'
+- name: GOJOE.EXE
+  size: 93104
+  date: '1990-11-29T16:05:10'
+  crc: '0xc68e5736'

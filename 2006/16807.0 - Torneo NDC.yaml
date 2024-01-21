@@ -1,0 +1,27 @@
+filename: Torneo NDC (Es) (2006)(Fernando Ramirez) [Action].zip
+tdc_id: '16807.0'
+title:
+  screen: Torneo NDC
+publisher: Fernando Ramirez
+year: '2006'
+genre: Action
+language: Spanish
+date:
+  added: '2019-03-02T10:57:16'
+  last_modified: '2019-03-02T10:57:16'
+type: zip
+commands:
+  play: TORNDC.EXE
+files:
+- name: TORNDC.BAS
+  size: 13909
+  date: '2006-05-18T18:19:08'
+  crc: '0x555801f2'
+- name: TORNDC.EXE
+  size: 47528
+  date: '2006-05-31T15:50:30'
+  crc: '0x9d8a8404'
+- name: TORNDC.OBJ
+  size: 23831
+  date: '2006-05-31T15:50:28'
+  crc: '0xe51e86ae'

@@ -1,0 +1,31 @@
+filename: Buick Dimensions 1994 (Installer) (1993)(General Motors Corporation) [Simulation, Sports].zip
+tdc_id: '12863.1'
+title:
+  box: Buick Dimensions 1994
+  qualifier: Installer
+publisher: General Motors Corporation
+year: '1993'
+genre:
+- Simulation
+- Sports
+language: English
+date:
+  added: '2015-01-26T14:19:26'
+  last_modified: '2023-05-22T07:36:27'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: BUICK.EXE
+  size: 203952
+  date: '1993-11-04T05:00:08'
+  crc: '0xe486cb20'
+- name: INSTALL.EXE
+  size: 18736
+  date: '1993-12-06T02:49:16'
+  crc: '0x67b65e2b'
+- name: QUALITY.EXE
+  size: 1296263
+  date: '1993-11-04T05:00:14'
+  crc: '0xc26d1dfd'

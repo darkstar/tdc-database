@@ -1,0 +1,64 @@
+filename: Brainscape v1.2 (1986)(Lynne Ostergren & W. Jeffrey Wilson) [Adventure, Interactive Fiction, Educational].zip
+tdc_id: '1246.0'
+title:
+  screen: Brainscape
+publisher: Lynne Ostergren & W. Jeffrey Wilson
+year: '1986'
+genre:
+- Adventure
+- Interactive Fiction
+- Educational
+language: English
+date:
+  added: '2019-03-01T18:24:42'
+  last_modified: '2019-03-01T18:24:42'
+version: '1.2'
+type: zip
+references:
+  dosid: DOS00028
+  exodos: Brainscape (1986).zip
+files:
+- name: AUTOEXEC.BAT
+  size: 17
+  date: '1986-01-02T00:09:56'
+  crc: '0x8338ff3f'
+- name: BRAINSC2.000
+  size: 12288
+  date: '1986-10-14T00:59:52'
+  crc: '0x561b87c4'
+- name: BRAINSC2.COM
+  size: 60112
+  date: '1986-10-14T00:22:22'
+  crc: '0x43229b08'
+- name: BRAINSC2.PAS
+  size: 60113
+  date: '1986-10-14T01:06:52'
+  crc: '0xc363fd15'
+- name: DOCUMENT.TXT
+  size: 21885
+  date: '1986-01-02T00:13:36'
+  crc: '0x17a04178'
+- name: FRAME.PAS
+  size: 1599
+  date: '1986-01-02T00:04:32'
+  crc: '0xa67cda57'
+- name: MAPFILE.PAS
+  size: 15346
+  date: '1986-01-02T00:04:00'
+  crc: '0x5af83b15'
+- name: QUESTION.PAS
+  size: 12280
+  date: '1986-01-02T00:02:34'
+  crc: '0xe9d06d44'
+- name: README.TXT
+  size: 1622
+  date: '1986-01-02T00:05:34'
+  crc: '0xe6b9cbe4'
+- name: RMDESC.PAS
+  size: 15363
+  date: '1986-01-02T00:05:08'
+  crc: '0xceffa672'
+- name: SAVEGAME.DAT
+  size: 5347
+  date: '1987-02-13T16:25:12'
+  crc: '0x074cd174'

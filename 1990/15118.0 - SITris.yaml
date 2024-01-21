@@ -1,0 +1,43 @@
+filename: SITris [SW] (1990)(Paul Tupaczewski) [Strategy, Action].zip
+tdc_id: '15118.0'
+title:
+  screen: SITris
+publisher: Paul Tupaczewski
+year: '1990'
+genre:
+- Strategy
+- Action
+language: English
+date:
+  added: '2019-03-01T18:34:02'
+  last_modified: '2019-03-01T18:34:02'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: SITRIS.EXE
+references:
+  dosid: DOS07076
+  exodos: SITris (1990).zip
+files:
+- name: EGAVGA.BGI
+  size: 5363
+  date: '1989-05-03T06:50:00'
+  crc: '0x06d36962'
+- name: GRAPH.TPU
+  size: 31584
+  date: '1989-05-03T06:50:00'
+  crc: '0xdd357e09'
+- name: SITRIS.DOC
+  size: 8858
+  date: '1990-05-11T21:48:22'
+  crc: '0x795d2269'
+- name: SITRIS.EXE
+  size: 42624
+  date: '1990-05-12T10:20:06'
+  crc: '0xaefafae2'
+- name: TRIP.CHR
+  size: 7241
+  date: '1989-05-03T06:50:00'
+  crc: '0xfe5cd6b1'

@@ -1,0 +1,53 @@
+filename: James Clavell's Shogun r322 [a1] (1989)(Infocom, Inc.) [Adventure, Interactive Fiction][!].zip
+tdc_id: '9693.5'
+parent_id: '9693.4'
+title:
+  box: James Clavell's Shogun
+publisher: Infocom, Inc.
+year: '1989'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2023-08-25T21:26:08'
+  last_modified: '2023-08-25T21:26:08'
+release: '322'
+type: zip
+tags:
+- KnownGood
+- Alternate: 1
+media: 360K
+commands:
+  play: SHOGUN.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1241/james-clavells-shogun/
+files:
+- name: EZR.EXE
+  size: 87017
+  date: '1989-01-26T01:19:00'
+  crc: '0xb3540462'
+- name: INSTALL.EXE
+  size: 5834
+  date: '1989-07-07T13:03:50'
+  crc: '0x2aad08bf'
+- name: ISHOGUN.RUN
+  size: 4607
+  date: '1989-07-10T09:36:44'
+  crc: '0x1eaec777'
+- name: SHOGUN.CG1
+  size: 141450
+  date: '1989-07-06T15:34:14'
+  crc: '0xa29d412c'
+- name: SHOGUN.EG1
+  size: 278669
+  date: '1989-06-28T11:47:58'
+  crc: '0x74e5cce5'
+- name: SHOGUN.EXE
+  size: 47402
+  date: '1989-07-10T17:21:10'
+  crc: '0x222a6704'
+- name: SHOGUN.ZIP
+  size: 345088
+  date: '1989-07-06T14:55:28'
+  crc: '0x6c4ea976'

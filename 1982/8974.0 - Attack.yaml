@@ -1,0 +1,32 @@
+filename: Attack v1.1 (1982)(IBM) [Action].zip
+tdc_id: '8974.0'
+title:
+  screen: Attack
+publisher: IBM
+year: '1982'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:22:56'
+  last_modified: '2019-03-01T18:22:56'
+version: '1.1'
+type: zip
+media: Download
+commands:
+  play: ATTACK.BAT
+references:
+  dosid: DOS00897
+  exodos: Attack (1982).zip
+files:
+- name: ATTACK.BAS
+  size: 6358
+  date: '1980-01-01T00:15:00'
+  crc: '0x7868465a'
+- name: ATTACK.BAT
+  size: 17
+  date: '2008-04-23T10:22:28'
+  crc: '0x20cb3f90'
+- name: GWBASIC.EXE
+  size: 80592
+  date: '2001-05-04T06:58:22'
+  crc: '0x8462d0e4'

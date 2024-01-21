@@ -1,0 +1,75 @@
+filename: Amulet, The v2.4 (1985)(Numenor Microsystems) [Adventure, Interactive Fiction].zip
+tdc_id: '1163.0'
+title:
+  screen: The Amulet
+publisher: Numenor Microsystems
+year: '1985'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:24:20'
+  last_modified: '2019-03-01T18:24:20'
+version: '2.4'
+type: zip
+references:
+  dosid: DOS07255
+  exodos: Amulet, The (1983).zip
+files:
+- name: AM.BAT
+  size: 11
+  date: '1983-11-14T00:18:30'
+  crc: '0xf4d6aaab'
+- name: AM01.TXT
+  size: 3365
+  date: '1983-11-12T12:37:34'
+  crc: '0x538c4091'
+- name: AM02.TXT
+  size: 13287
+  date: '1985-10-26T15:18:14'
+  crc: '0x1998a372'
+- name: AMULET00.EXE
+  size: 21583
+  date: '1987-11-19T00:22:58'
+  crc: '0x1defa431'
+- name: AMULET01.EXE
+  size: 22895
+  date: '1987-12-02T00:54:50'
+  crc: '0xbb57f8e3'
+- name: AMULET30.EXE
+  size: 61935
+  date: '1987-12-02T00:09:40'
+  crc: '0x2df2b141'
+- name: AMULET90.LOG
+  size: 128
+  date: '1983-11-13T00:37:10'
+  crc: '0x575f39f9'
+- name: AMULET96.LOG
+  size: 640
+  date: '1985-10-29T00:05:50'
+  crc: '0x875407fe'
+- name: AMULET97.LOG
+  size: 640
+  date: '1983-11-15T00:28:08'
+  crc: '0xe1ae88cf'
+- name: AMULET98.LOG
+  size: 640
+  date: '1983-11-15T00:21:22'
+  crc: '0xfe9a0225'
+- name: AMULET99.LOG
+  size: 128
+  date: '1983-11-13T00:37:10'
+  crc: '0x575f39f9'
+- name: FIX1.COM
+  size: 559
+  date: '2000-04-15T00:05:04'
+  crc: '0x38ce371b'
+- name: FIX2.COM
+  size: 615
+  date: '2000-04-15T00:05:20'
+  crc: '0xe9cd3b06'
+- name: FIX3.COM
+  size: 591
+  date: '2000-04-15T00:05:40'
+  crc: '0xf6a61645'

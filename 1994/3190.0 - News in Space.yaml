@@ -1,0 +1,29 @@
+filename: News in Space (De) (1994)(Der Spiegel) [Strategy, Puzzle].zip
+tdc_id: '3190.0'
+title:
+  screen: News in Space
+publisher: Der Spiegel
+year: '1994'
+genre:
+- Strategy
+- Puzzle
+language: German
+date:
+  added: '2019-03-01T22:02:20'
+  last_modified: '2019-03-01T22:02:20'
+type: zip
+commands:
+  play: spiegel.exe
+files:
+- name: spiegel.001
+  size: 179886
+  date: '1994-04-20T08:00:00'
+  crc: '0x12ebf8dd'
+- name: spiegel.doi
+  size: 4458
+  date: '1994-04-20T04:05:24'
+  crc: '0xc8421324'
+- name: spiegel.exe
+  size: 71148
+  date: '1994-04-20T04:30:08'
+  crc: '0xcccd2c4e'

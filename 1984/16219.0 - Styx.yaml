@@ -1,0 +1,32 @@
+filename: Styx (PCjr) [DC] (1984)(Windmill Software) [Action].zip
+tdc_id: '16219.0'
+title:
+  box: Styx
+  qualifier: PCjr
+publisher: Windmill Software
+year: '1984'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:18'
+  last_modified: '2019-03-01T18:24:18'
+type: zip
+tags:
+- DOSConversion
+requirements:
+  cpu:
+    min: '8088'
+commands:
+  play: STYX.EXE
+references:
+  dosid: DOS04918
+  exodos: Styx (1984).zip
+files:
+- name: HISCORE.DAT
+  size: 112
+  date: '1984-01-01T00:00:00'
+  crc: '0x252e44bd'
+- name: STYX.EXE
+  size: 61952
+  date: '1984-01-01T00:00:00'
+  crc: '0x9442e9a5'

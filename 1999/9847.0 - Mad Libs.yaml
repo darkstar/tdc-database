@@ -1,0 +1,28 @@
+filename: Mad Libs (1999)(Light Software) [Simulation].zip
+tdc_id: '9847.0'
+title:
+  screen: Mad Libs
+publisher: Light Software
+year: '1999'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-02T10:46:14'
+  last_modified: '2019-03-02T10:46:14'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 26
+  date: '2018-12-03T19:43:36'
+  crc: '0x81677e11'
+- name: MADLIB.BAS
+  size: 9194
+  date: '1999-07-09T16:22:36'
+  crc: '0x2d4fb06a'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

@@ -1,0 +1,35 @@
+filename: Criminal Moon (demo) (1998)(Brian Baca) [Adventure, Interactive Fiction].zip
+tdc_id: '938.0'
+title:
+  screen: Criminal Moon
+  qualifier: demo
+publisher: Brian Baca
+year: '1998'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T10:41:04'
+  last_modified: '2019-03-02T10:41:04'
+type: zip
+demo: true
+commands:
+  play: Crimin~1.exe
+files:
+- name: Crimin~1.exe
+  size: 59032
+  date: '1998-05-18T15:37:30'
+  crc: '0xef729e5a'
+- name: Crimin~1.obj
+  size: 16769
+  date: '1998-05-18T15:37:30'
+  crc: '0xff02866c'
+- name: getfull.txt
+  size: 397
+  date: '1998-05-18T15:21:40'
+  crc: '0x77ee9343'
+- name: readme.txt
+  size: 2192
+  date: '1998-05-18T15:18:56'
+  crc: '0x73283385'

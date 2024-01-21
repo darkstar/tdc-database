@@ -1,0 +1,77 @@
+filename: Magic Boy (demo) (1994)(Empire Software) [Action].zip
+tdc_id: '9856.1'
+title:
+  screen: Magic Boy
+  qualifier: demo
+publisher: Empire Software
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T19:12:22'
+  last_modified: '2019-03-01T19:12:22'
+type: zip
+demo: true
+commands:
+  play: MAGICBOY.EXE
+files:
+- name: ENEMY1.RNC
+  size: 9799
+  date: '1993-10-18T19:29:28'
+  crc: '0x7f66011a'
+- name: ENEMY2.RNC
+  size: 5971
+  date: '1993-10-18T19:29:52'
+  crc: '0x03f55c8d'
+- name: ENEMY3.RNC
+  size: 7495
+  date: '1993-10-18T19:30:54'
+  crc: '0xb1ca2738'
+- name: ENEMY4.RNC
+  size: 7630
+  date: '1993-10-18T19:31:32'
+  crc: '0x11a88b8b'
+- name: ICONS.RNC
+  size: 7633
+  date: '1993-10-18T08:05:26'
+  crc: '0x0c478f2a'
+- name: MAGICBOY.CFG
+  size: 3
+  date: '2001-05-26T00:29:38'
+  crc: '0xd5aee0e6'
+- name: MAGICBOY.EXE
+  size: 97936
+  date: '1993-11-04T13:27:12'
+  crc: '0x05b78b1b'
+- name: MODULED.RNC
+  size: 10242
+  date: '1993-10-19T14:29:20'
+  crc: '0x703ce680'
+- name: PALETTE.RNC
+  size: 1753
+  date: '1993-10-18T08:04:12'
+  crc: '0x9658cea2'
+- name: SPRITES.RNC
+  size: 11492
+  date: '1993-10-18T19:28:20'
+  crc: '0x16c74cc4'
+- name: STAND_PC.RNC
+  size: 6570
+  date: '1993-10-19T15:29:42'
+  crc: '0x6d1a57d9'
+- name: WORLD1.RNC
+  size: 7800
+  date: '1993-10-18T08:05:34'
+  crc: '0x0621b597'
+- name: WORLD2.RNC
+  size: 7406
+  date: '1993-10-18T08:05:40'
+  crc: '0xa21097f4'
+- name: WORLD3.RNC
+  size: 5247
+  date: '1993-10-18T18:36:06'
+  crc: '0xba14e4b2'
+- name: WORLD4.RNC
+  size: 6181
+  date: '1993-10-18T08:05:56'
+  crc: '0x40b8bbc6'

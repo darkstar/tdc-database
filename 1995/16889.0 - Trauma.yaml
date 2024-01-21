@@ -1,0 +1,68 @@
+filename: Trauma [SWR] (1995)(Friendware) [Action].zip
+tdc_id: '16889.0'
+title:
+  screen: Trauma
+publisher: Friendware
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T09:07:04'
+  last_modified: '2019-03-02T09:07:04'
+type: zip
+tags:
+- SharewareRegistered
+commands:
+  play: TRAUMA.EXE
+references:
+  dosid: DOS05256
+  exodos: Trauma (1995).zip
+files:
+- name: AYUDA.DOC
+  size: 6657
+  date: '2000-03-09T06:51:18'
+  crc: '0x1865f8a6'
+- name: CONFIGSB.PAK
+  size: 79
+  date: '2000-03-09T06:51:18'
+  crc: '0x3c665657'
+- name: DOS4GW.EXE
+  size: 265420
+  date: '2000-03-09T06:51:18'
+  crc: '0xcb214447'
+- name: GAME.PCK
+  size: 4016119
+  date: '2000-03-09T06:51:16'
+  crc: '0xe79f7150'
+- name: GFX.PAK
+  size: 8653943
+  date: '2000-03-09T06:51:14'
+  crc: '0x1944667c'
+- name: INSTALL.PAK
+  size: 2
+  date: '2000-03-09T06:51:18'
+  crc: '0x58c223be'
+- name: INTRO.PRG
+  size: 97526
+  date: '2000-03-09T06:50:52'
+  crc: '0x9ec374ec'
+- name: JUEGO.PRG
+  size: 211018
+  date: '2000-03-09T06:50:52'
+  crc: '0xdb7275d4'
+- name: LEEME.DOC
+  size: 1141
+  date: '2000-03-09T06:51:18'
+  crc: '0xe139bdc9'
+- name: MENUS.PRG
+  size: 253435
+  date: '2000-03-09T06:50:52'
+  crc: '0x984d8329'
+- name: SFX.PAK
+  size: 6404770
+  date: '2000-03-09T06:50:50'
+  crc: '0xd328e702'
+- name: TRAUMA.EXE
+  size: 20754
+  date: '2000-03-09T06:50:04'
+  crc: '0x04661f0f'

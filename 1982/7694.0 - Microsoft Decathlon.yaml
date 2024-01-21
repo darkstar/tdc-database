@@ -1,0 +1,28 @@
+filename: Microsoft Decathlon [DC] (1982)(IBM) [Sports].zip
+tdc_id: '7694.0'
+title:
+  box: Microsoft Decathlon
+publisher: IBM
+year: '1982'
+genre: Sports
+language: English
+date:
+  added: '2019-03-01T18:23:00'
+  last_modified: '2019-03-01T18:23:00'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: DECATHLN.COM
+references:
+  dosid: DOS05931
+  exodos: Microsoft Decathlon (1982).zip
+files:
+- name: DEC.DAT
+  size: 93184
+  date: '1995-08-17T18:54:50'
+  crc: '0x19250fab'
+- name: DECATHLN.COM
+  size: 40960
+  date: '1995-08-17T18:54:50'
+  crc: '0xa2180c79'

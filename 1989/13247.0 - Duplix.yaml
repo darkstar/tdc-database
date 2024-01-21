@@ -1,0 +1,35 @@
+filename: Duplix v1.2 (De) (1989)(A. Pajitnov, V. Gerasimov) [Action, Strategy].zip
+tdc_id: '13247.0'
+title:
+  screen: Duplix
+publisher: A. Pajitnov, V. Gerasimov
+year: '1989'
+genre:
+- Action
+- Strategy
+language: German
+date:
+  added: '2019-03-01T18:27:40'
+  last_modified: '2023-12-06T08:39:52'
+version: '1.2'
+type: zip
+media: Download
+commands:
+  play: DUPLIX.EXE
+files:
+- name: DUPLIX.DOC
+  size: 10893
+  date: '1989-02-02T15:03:48'
+  crc: '0x6c0ece0c'
+- name: DUPLIX.EXE
+  size: 88464
+  date: '1989-02-08T13:46:06'
+  crc: '0x2d6dc64d'
+- name: DUPSCORE.DAT
+  size: 560
+  date: '1989-06-11T14:32:26'
+  crc: '0xb9c69d04'
+- name: DUPSCORE.TXT
+  size: 347
+  date: '1989-06-11T14:32:26'
+  crc: '0xf9ff415b'

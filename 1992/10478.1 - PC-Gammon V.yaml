@@ -1,0 +1,80 @@
+filename: PC-Gammon V v1.20 [SW] (1992)(Sentient Software) [Strategy, Board].zip
+tdc_id: '10478.1'
+title:
+  screen: PC-Gammon V
+publisher: Sentient Software
+year: '1992'
+genre:
+- Strategy
+- Board
+language: English
+date:
+  added: '2011-01-04T12:41:12'
+  last_modified: '2022-08-28T15:37:23'
+version: '1.20'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: PCGAMMON.EXE
+references:
+  dosid: DOS07004
+  exodos: PC-Gammon (1992).zip
+files:
+- name: BKGRULES.DOC
+  size: 12214
+  date: '1992-06-02T12:56:06'
+  crc: '0x30c3df5a'
+- name: FILELIST.DOC
+  size: 1110
+  date: '1992-11-02T15:58:16'
+  crc: '0xdb4cfdf8'
+- name: FILE_ID.DIZ
+  size: 614
+  date: '1992-11-07T14:26:32'
+  crc: '0x8bea473d'
+- name: ORDERFRM.DOC
+  size: 5116
+  date: '1992-11-05T16:00:04'
+  crc: '0x4dae15cd'
+- name: PCGAMMON.DOC
+  size: 21556
+  date: '1992-11-02T15:55:22'
+  crc: '0x22ffa9b5'
+- name: PCGAMMON.EXE
+  size: 96782
+  date: '1992-11-08T11:00:08'
+  crc: '0x1bd677ac'
+- name: PCGAMMON.HGC
+  size: 14237
+  date: '1992-11-04T14:29:10'
+  crc: '0x2791d83a'
+- name: PCGAMMON.HLP
+  size: 17335
+  date: '1992-11-02T15:24:20'
+  crc: '0x85150164'
+- name: PCGAMMON.KBD
+  size: 434
+  date: '1992-03-02T15:04:06'
+  crc: '0xe5f2d7ec'
+- name: PCGAMMON.MON
+  size: 52934
+  date: '1992-11-04T14:28:56'
+  crc: '0xd83abe1b'
+- name: PCGAMMON.MSG
+  size: 3365
+  date: '1992-10-09T10:13:38'
+  crc: '0x26b131dd'
+- name: PCGAMMON.PIX
+  size: 52934
+  date: '1992-10-09T16:39:24'
+  crc: '0xe1778944'
+- name: VENDOR.DOC
+  size: 3849
+  date: '1992-11-03T13:39:14'
+  crc: '0x91420ed7'
+- name: WHATS.NEW
+  size: 5877
+  date: '1992-11-05T14:08:34'
+  crc: '0xe92560e2'

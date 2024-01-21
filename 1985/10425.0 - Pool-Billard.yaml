@@ -1,0 +1,30 @@
+filename: Pool-Billard (De) (1985)(Anonymous) [Simulation, Sports].zip
+tdc_id: '10425.0'
+title:
+  screen: Pool-Billard
+publisher: Anonymous
+year: '1985'
+genre:
+- Simulation
+- Sports
+language: German
+date:
+  added: '2019-03-01T18:24:32'
+  last_modified: '2019-03-01T18:24:32'
+type: zip
+media: Download
+commands:
+  play: BILLARD.COM
+files:
+- name: BILLARD.COM
+  size: 24089
+  date: '1985-09-17T05:22:02'
+  crc: '0xa3b30289'
+- name: KUGEL.DAT
+  size: 352
+  date: '1985-09-01T03:21:26'
+  crc: '0x2b9068b3'
+- name: TISCH.RAM
+  size: 16512
+  date: '1985-09-13T03:54:58'
+  crc: '0x9e9d37b2'

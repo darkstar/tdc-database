@@ -1,0 +1,28 @@
+filename: Invaders from Planet X (1998)(RichJ Software) [Action].zip
+tdc_id: '4152.0'
+title:
+  screen: Invaders from Planet X
+publisher: RichJ Software
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:41:48'
+  last_modified: '2019-03-02T10:41:48'
+type: zip
+media: Download
+commands:
+  play: start.bat
+files:
+- name: PLANETX.BAS
+  size: 7077
+  date: '1998-11-27T17:26:20'
+  crc: '0x32649584'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1995-07-11T10:50:00'
+  crc: '0x3152911c'
+- name: start.bat
+  size: 25
+  date: '2014-03-06T15:13:14'
+  crc: '0x855f5970'

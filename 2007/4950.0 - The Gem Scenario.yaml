@@ -1,0 +1,62 @@
+filename: Gem Scenario, The (2007)(JTyler) [Adventure].zip
+tdc_id: '4950.0'
+title:
+  screen: The Gem Scenario
+publisher: JTyler
+year: '2007'
+genre: Adventure
+language: English
+date:
+  added: '2020-11-25T17:34:26'
+  last_modified: '2020-11-25T17:34:26'
+type: zip
+commands:
+  play: SCIV.EXE
+references:
+  dosid: DOS00429
+  exodos: Gem Scenario, The (2007).zip
+files:
+- name: ADL.DRV
+  size: 9778
+  date: '2006-07-07T12:26:00'
+  crc: '0x9f2cea3f'
+- name: EGA320.DRV
+  size: 1952
+  date: '2006-07-07T12:26:00'
+  crc: '0x3b2fc0de'
+- name: GAME.INI
+  size: 1225
+  date: '2007-03-10T17:05:44'
+  crc: '0x97102ff4'
+- name: GM.DRV
+  size: 4819
+  date: '2006-07-07T12:26:00'
+  crc: '0xec5029fe'
+- name: IBMKBD.DRV
+  size: 446
+  date: '2006-07-07T12:26:00'
+  crc: '0xb495c666'
+- name: JOYSTICK.DRV
+  size: 541
+  date: '2006-07-07T12:26:00'
+  crc: '0xfa815721'
+- name: RESOURCE.001
+  size: 244794
+  date: '2007-03-10T22:30:58'
+  crc: '0x90a12a54'
+- name: RESOURCE.CFG
+  size: 151
+  date: '2006-07-07T12:26:00'
+  crc: '0x5f8b6210'
+- name: RESOURCE.MAP
+  size: 642
+  date: '2007-03-10T22:30:58'
+  crc: '0x85cf8750'
+- name: SCIV.EXE
+  size: 44443
+  date: '2006-07-07T12:26:00'
+  crc: '0xfd6dee90'
+- name: STD.DRV
+  size: 2466
+  date: '2006-07-07T12:26:00'
+  crc: '0x05dbf64a'

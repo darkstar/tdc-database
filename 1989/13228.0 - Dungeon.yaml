@@ -1,0 +1,28 @@
+filename: Dungeon v4.0 (1989)(Erik J. Oredson) [Role-Playing (RPG)].zip
+tdc_id: '13228.0'
+title:
+  screen: Dungeon
+publisher: Erik J. Oredson
+year: '1989'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:27:38'
+  last_modified: '2019-03-01T18:27:38'
+version: '4.0'
+type: zip
+commands:
+  play: DUNGEON4.EXE
+files:
+- name: DUNGEON4.BAS
+  size: 70292
+  date: '1990-03-30T04:46:12'
+  crc: '0x5bcff044'
+- name: DUNGEON4.EXE
+  size: 134400
+  date: '1990-03-30T04:48:04'
+  crc: '0x56a51d7a'
+- name: SCRN.ASM
+  size: 3155
+  date: '1989-12-12T12:40:18'
+  crc: '0xf5fd4c70'

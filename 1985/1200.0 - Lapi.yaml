@@ -1,0 +1,42 @@
+filename: Lapi (1985)(D. Pavlovsky, M. Tamminene) [Action].zip
+tdc_id: '1200.0'
+title:
+  screen: Lapi
+publisher: D. Pavlovsky, M. Tamminene
+year: '1985'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:28'
+  last_modified: '2019-03-01T18:24:28'
+type: zip
+commands:
+  play: LAPI.COM
+references:
+  dosid: DOS15584
+  exodos: Lapi (1985).zip
+files:
+- name: LAPI.COM
+  size: 23475
+  date: '1985-10-17T22:10:50'
+  crc: '0x7f26453a'
+- name: LAPI.PST
+  size: 1131
+  date: '1985-10-13T13:57:24'
+  crc: '0xa273c046'
+- name: LAPI.RE1
+  size: 480
+  date: '1980-01-01T00:13:54'
+  crc: '0x5007c575'
+- name: LAPI.RE3
+  size: 480
+  date: '1980-01-01T01:13:16'
+  crc: '0x32f0040d'
+- name: LAPI.RE5
+  size: 480
+  date: '1980-01-01T00:09:14'
+  crc: '0xfa496074'
+- name: LAPI.RE9
+  size: 480
+  date: '1980-01-01T01:48:44'
+  crc: '0xa94f06e9'

@@ -1,0 +1,29 @@
+filename: Escape Sub! v1.12 (1998)(Christian Haag) [Action].zip
+tdc_id: '955.0'
+title:
+  screen: Escape Sub!
+publisher: Christian Haag
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:41:12'
+  last_modified: '2019-03-02T10:41:12'
+version: '1.12'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 24
+  date: '2018-11-18T17:59:28'
+  crc: '0xd8fafd40'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'
+- name: SUB1.BAS
+  size: 37167
+  date: '1998-04-02T09:44:10'
+  crc: '0x45af9291'

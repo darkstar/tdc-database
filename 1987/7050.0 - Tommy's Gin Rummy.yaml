@@ -1,0 +1,31 @@
+filename: Tommy's Gin Rummy [SW] (1987)(Tommy's Toys) [Strategy, Cards].zip
+tdc_id: '7050.0'
+title:
+  screen: Tommy's Gin Rummy
+publisher: Tommy's Toys
+year: '1987'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:25:44'
+  last_modified: '2019-03-01T18:25:44'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: GINRUMMY.EXE
+references:
+  dosid: DOS07144
+  exodos: Tommy's Gin Rummy (1987).zip
+files:
+- name: GINRUMMY.DOC
+  size: 7095
+  date: '2007-12-16T15:05:16'
+  crc: '0x9a5592d3'
+- name: GINRUMMY.EXE
+  size: 104046
+  date: '2007-12-16T15:04:56'
+  crc: '0x781b400e'

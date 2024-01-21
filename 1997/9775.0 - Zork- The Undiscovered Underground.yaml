@@ -1,0 +1,43 @@
+filename: Zork- The Undiscovered Underground r16 [f1] (1997)(Activision, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '9775.0'
+title:
+  screen: 'Zork: The Undiscovered Underground'
+publisher: Activision, Inc.
+year: '1997'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2023-08-07T19:47:32'
+  last_modified: '2023-08-07T19:47:32'
+release: '16'
+type: zip
+tags:
+- Fixed: 1
+media: Download
+commands:
+  play: ZORK.BAT
+references:
+  mobygames: https://www.mobygames.com/game/19360/zork-the-undiscovered-underground/
+files:
+- name: FROTZ.EXE
+  size: 79232
+  date: '1997-09-20T00:05:30'
+  crc: '0x9b8608bd'
+- name: FROTZ.TXT
+  size: 15477
+  date: '1997-09-20T00:14:16'
+  crc: '0xf92130f6'
+- name: ReadMe.txt
+  size: 9681
+  date: '1997-08-28T19:03:30'
+  crc: '0x1bac3246'
+- name: ZORK.BAT
+  size: 13
+  date: '1980-01-01T00:00:00'
+  crc: '0xcdaef17d'
+- name: ZTUU.Z5
+  size: 102912
+  date: '1997-08-28T19:01:14'
+  crc: '0xfc3a5c7d'

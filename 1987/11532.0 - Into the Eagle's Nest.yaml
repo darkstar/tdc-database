@@ -1,0 +1,116 @@
+filename: Into the Eagle's Nest (1987)(Mindscape, Inc.) [Action, Adventure].zip
+tdc_id: '11532.0'
+title:
+  box: Into the Eagle's Nest
+publisher: Mindscape, Inc.
+year: '1987'
+genre:
+- Action
+- Adventure
+language: English
+date:
+  added: '2019-03-01T18:25:22'
+  last_modified: '2019-03-01T18:25:22'
+type: zip
+commands:
+  play: MAIN.EXE
+references:
+  dosid: DOS02827
+  exodos: Into the Eagle's Nest (1987).zip
+files:
+- name: CELL.CGA
+  size: 7040
+  date: '1987-10-15T02:50:30'
+  crc: '0xfa6ab2f4'
+- name: CELL.EGA
+  size: 13952
+  date: '1987-11-22T18:14:22'
+  crc: '0xa46abfa6'
+- name: CHAR.CGA
+  size: 9344
+  date: '1987-11-12T07:46:22'
+  crc: '0x3297ad5f'
+- name: CHAR.EGA
+  size: 18560
+  date: '1987-11-16T16:38:20'
+  crc: '0x703defee'
+- name: ELEV.CGA
+  size: 5632
+  date: '1987-10-24T20:16:20'
+  crc: '0x62ee2879'
+- name: ELEV.EGA
+  size: 11648
+  date: '1987-11-07T18:45:04'
+  crc: '0xb0329341'
+- name: FINP.CGA
+  size: 16384
+  date: '1980-01-01T00:17:38'
+  crc: '0xce7a4799'
+- name: FINP.EGA
+  size: 32000
+  date: '1987-11-02T13:39:46'
+  crc: '0x947ff87c'
+- name: FONT.CGA
+  size: 1792
+  date: '1980-01-01T00:05:52'
+  crc: '0x1c9a0178'
+- name: FONT.EGA
+  size: 3584
+  date: '1987-11-09T11:10:46'
+  crc: '0x0e836293'
+- name: LOGO.CGA
+  size: 9984
+  date: '1987-11-07T17:31:46'
+  crc: '0x2780e60b'
+- name: LOGO.EGA
+  size: 19968
+  date: '1987-11-07T18:42:22'
+  crc: '0x17377bed'
+- name: MAIN.EXE
+  size: 36000
+  date: '1987-12-29T22:45:20'
+  crc: '0x55066cd7'
+- name: MAP0.DAT
+  size: 4096
+  date: '1987-10-20T11:08:16'
+  crc: '0x0ce39199'
+- name: MAP1.DAT
+  size: 4096
+  date: '1987-10-20T11:09:18'
+  crc: '0xd1da50e3'
+- name: MAPU.DAT
+  size: 4096
+  date: '1987-10-26T01:57:42'
+  crc: '0x8bedd53c'
+- name: MUSC.DAT
+  size: 256
+  date: '1987-10-27T10:57:36'
+  crc: '0x323c874c'
+- name: MUSI.DAT
+  size: 4736
+  date: '1987-11-07T17:31:18'
+  crc: '0x2e6631bf'
+- name: STAT.CGA
+  size: 3456
+  date: '1980-01-01T00:13:40'
+  crc: '0xcfd95294'
+- name: STAT.EGA
+  size: 6912
+  date: '1987-11-07T18:41:32'
+  crc: '0x657500ec'
+- name: TITB.CGA
+  size: 4352
+  date: '1980-01-01T00:02:32'
+  crc: '0xf1b20d7b'
+- name: TITB.EGA
+  size: 9088
+  date: '1987-11-07T18:44:04'
+  crc: '0x211c2c46'
+- name: TITP.CGA
+  size: 16384
+  date: '1987-11-02T16:53:46'
+  crc: '0x4df57c2a'
+- name: TITP.EGA
+  size: 32000
+  date: '1987-11-02T13:40:46'
+  crc: '0xed8193f1'

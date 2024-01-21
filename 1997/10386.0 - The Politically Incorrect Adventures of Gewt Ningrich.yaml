@@ -1,0 +1,52 @@
+filename: Politically Incorrect Adventures of Gewt Ningrich, The v1.1 (Installer) [SW] (1997)(Terra Software) [Action].zip
+tdc_id: '10386.0'
+title:
+  screen: The Politically Incorrect Adventures of Gewt Ningrich
+publisher: Terra Software
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:36:56'
+  last_modified: '2019-03-02T10:36:56'
+version: '1.1'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: EZI.CFG
+  size: 706
+  date: '1997-11-03T03:06:22'
+  crc: '0xc41dae1f'
+- name: EZILOGO.TXT
+  size: 1010
+  date: '1997-10-30T09:18:24'
+  crc: '0x7298eebc'
+- name: INSTALL.EXE
+  size: 71168
+  date: '1997-10-24T12:02:08'
+  crc: '0x1bc6b729'
+- name: INSTALL.OLB
+  size: 64520
+  date: '1997-04-28T21:34:38'
+  crc: '0x9d1f26b6'
+- name: SHR0001
+  size: 22
+  date: '1997-11-03T03:06:34'
+  crc: '0x2cd58160'
+- name: SHR0002
+  size: 22
+  date: '1997-11-03T03:06:36'
+  crc: '0x2cd58160'
+- name: SYSARC.001
+  size: 1271848
+  date: '1997-11-03T03:06:06'
+  crc: '0x4c0f2d35'
+- name: SYSARC.002
+  size: 804496
+  date: '1997-11-03T03:06:08'
+  crc: '0x421def0a'

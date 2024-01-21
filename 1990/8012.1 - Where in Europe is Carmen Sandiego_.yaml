@@ -1,0 +1,41 @@
+filename: Where in Europe is Carmen Sandiego_ v1.1 (1990)(Brøderbund Software, Inc.) [Adventure, Educational].zip
+tdc_id: '8012.1'
+title:
+  box: Where in Europe is Carmen Sandiego?
+publisher: Brøderbund Software, Inc.
+year: '1990'
+genre:
+- Adventure
+- Educational
+language: English
+date:
+  added: '2019-03-01T18:34:30'
+  last_modified: '2019-03-01T18:34:30'
+version: '1.1'
+type: zip
+commands:
+  play: carmen.exe
+references:
+  dosid: DOS05576
+  exodos: Where in Europe is Carmen Sandiego (1988).zip
+files:
+- name: carmen.dat
+  size: 262707
+  date: '1996-12-24T23:32:00'
+  crc: '0x767feea2'
+- name: carmen.exe
+  size: 77723
+  date: '1996-12-24T23:32:00'
+  crc: '0x50b55351'
+- name: detectiv.dat
+  size: 418
+  date: '2009-02-28T14:17:36'
+  crc: '0x3c7b2a79'
+- name: graflib.dat
+  size: 2066
+  date: '1996-12-24T23:32:00'
+  crc: '0x1cd1a3ae'
+- name: hallfame.dat
+  size: 562
+  date: '2009-02-28T14:17:36'
+  crc: '0xa138a7fd'

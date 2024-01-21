@@ -1,0 +1,63 @@
+filename: Baron of Blood v2.0 [SW] (1999)(DeltaSoft) [Action].zip
+tdc_id: '4316.0'
+title:
+  screen: Baron of Blood
+publisher: DeltaSoft
+year: '1999'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:45:18'
+  last_modified: '2019-03-02T10:45:18'
+version: '2.0'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: BBLOOD.EXE
+files:
+- name: ACTOR.DPM
+  size: 64007
+  date: '1999-09-28T13:17:10'
+  crc: '0x61dcbf88'
+- name: BBLOOD.EXE
+  size: 74688
+  date: '1999-10-12T17:36:04'
+  crc: '0x1e26ba29'
+- name: BBLOOD.PAL
+  size: 4054
+  date: '1999-10-12T17:18:22'
+  crc: '0xed6ddd4b'
+- name: FONT.DAT
+  size: 9007
+  date: '1999-10-03T17:39:24'
+  crc: '0x449df384'
+- name: LEVEL01.MAP
+  size: 7224
+  date: '1999-10-11T20:14:20'
+  crc: '0xa27a98a4'
+- name: PLAYER.DPM
+  size: 64007
+  date: '1999-09-30T16:09:58'
+  crc: '0x63354ac0'
+- name: Readme.txt
+  size: 1654
+  date: '1999-10-11T18:44:48'
+  crc: '0xa8821a16'
+- name: TITLE.IMG
+  size: 64007
+  date: '1999-02-23T07:56:20'
+  crc: '0xa599f352'
+- name: TITLE.PAL
+  size: 1538
+  date: '1999-02-23T07:56:16'
+  crc: '0xe8c70b46'
+- name: VGA01.DPM
+  size: 64007
+  date: '1999-09-30T14:59:38'
+  crc: '0xa827e256'
+- name: VGA101.DPM
+  size: 64007
+  date: '1999-10-11T20:06:38'
+  crc: '0x1d10af8b'

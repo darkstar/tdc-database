@@ -1,0 +1,49 @@
+filename: Heimdall (Installer) (En)(De)(Fr)(It)(Es) (1992)(Virgin Games, Inc.) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '5356.1'
+title:
+  box: Heimdall
+publisher: Virgin Games, Inc.
+year: '1992'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language:
+- English
+- Spanish
+- French
+- Italian
+- German
+date:
+  added: '2019-03-01T18:45:50'
+  last_modified: '2022-11-21T08:41:34'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/heimdall
+files:
+- name: HEIMDALL.1
+  size: 1269210
+  date: '1992-07-10T14:34:20'
+  crc: '0x408c7003'
+- name: HEIMDALL.2
+  size: 1418369
+  date: '1992-07-10T14:38:24'
+  crc: '0x88be848b'
+- name: HEIMDALL.3
+  size: 1346694
+  date: '1992-07-10T14:41:10'
+  crc: '0xef354dbd'
+- name: HEIMDALL.4
+  size: 1339621
+  date: '1992-07-10T14:43:38'
+  crc: '0x3aa863d2'
+- name: HEIMDALL.5
+  size: 1326795
+  date: '1992-07-10T14:59:48'
+  crc: '0x20cd8cfd'
+- name: INSTALL.EXE
+  size: 3408
+  date: '1992-07-10T15:00:42'
+  crc: '0x3c747e28'

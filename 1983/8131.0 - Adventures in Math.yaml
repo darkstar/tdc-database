@@ -1,0 +1,86 @@
+filename: Adventures in Math v1.00 (1983)(IBM) [Educational][!].zip
+tdc_id: '8131.0'
+title:
+  box: Adventures in Math
+publisher: IBM
+year: '1983'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T18:23:06'
+  last_modified: '2023-05-01T09:50:15'
+version: '1.0'
+type: zip
+tags:
+- KnownGood
+media: 360K
+commands:
+  play: AUTOEXEC.BAT
+references:
+  mobygames: https://www.mobygames.com/game/83/adventures-in-math/
+  dosid: DOS00726
+  exodos: Adventures in Math (1983).zip
+files:
+- name: ADVENTUR.BAS
+  size: 18688
+  date: '1983-08-11T12:00:12'
+  crc: '0x26c516e2'
+- name: AUTOEXEC.BAT
+  size: 16
+  date: '1983-08-11T12:00:20'
+  crc: '0x5ccf48b9'
+- name: BASICA.COM
+  size: 16768
+  date: '1982-05-07T12:00:14'
+  crc: '0xc5ec0a29'
+- name: CASTLE.BAS
+  size: 11904
+  date: '1983-08-11T12:00:14'
+  crc: '0xa175b0df'
+- name: COMMAND.COM
+  size: 4959
+  date: '1982-05-07T12:00:14'
+  crc: '0x583ca2e7'
+- name: EXIT.BAS
+  size: 6400
+  date: '1983-08-11T12:00:14'
+  crc: '0x90cc0b94'
+- name: HELP.BAS
+  size: 4992
+  date: '1983-08-11T12:00:12'
+  crc: '0xb03febfb'
+- name: IBMBIO.COM
+  size: 1920
+  date: '1982-05-07T12:00:00'
+  crc: '0x1800e5c4'
+- name: IBMDOS.COM
+  size: 6400
+  date: '1982-05-07T12:00:00'
+  crc: '0xd09fa41a'
+- name: MAZE1
+  size: 1418
+  date: '1983-08-11T12:00:16'
+  crc: '0x0bf99610'
+- name: MAZE2
+  size: 2179
+  date: '1983-08-11T12:00:16'
+  crc: '0x50e91c38'
+- name: MAZE3
+  size: 3892
+  date: '1983-08-11T12:00:18'
+  crc: '0x75683317'
+- name: SN
+  size: 13
+  date: '1983-08-11T12:00:22'
+  crc: '0x791600f0'
+- name: SN1
+  size: 13
+  date: '1983-08-04T12:00:00'
+  crc: '0x791600f0'
+- name: TOPTEN
+  size: 256
+  date: '1983-08-11T12:00:18'
+  crc: '0x0f30c8c7'
+- name: VENDOR-#.DA1
+  size: 0
+  date: '1983-07-04T00:00:00'

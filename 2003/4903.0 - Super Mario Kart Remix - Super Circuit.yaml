@@ -1,0 +1,70 @@
+filename: Super Mario Kart Remix - Super Circuit (2003)(Monkeymook) [Racing - Driving].zip
+tdc_id: '4903.0'
+title:
+  screen: Super Mario Kart Remix - Super Circuit
+publisher: Monkeymook
+year: '2003'
+genre: Racing - Driving
+language: English
+date:
+  added: '2020-01-12T12:19:32'
+  last_modified: '2020-01-12T12:19:32'
+type: zip
+commands:
+  play: MKRDOS.EXE
+files:
+- name: DAT\
+  size: 0
+  date: '2003-08-03T13:08:24'
+- name: DAT\CUPS.DAT
+  size: 12
+  date: '2003-08-03T12:55:10'
+  crc: '0x7bd5c66f'
+- name: DAT\TEST2.DAT
+  size: 540108
+  date: '2003-08-03T13:08:24'
+  crc: '0xd62a2848'
+- name: DAT\TRACK2.DAT
+  size: 540108
+  date: '2003-08-03T13:08:24'
+  crc: '0x2c7b6c98'
+- name: DAT\TRACK3.DAT
+  size: 540108
+  date: '2003-08-03T13:08:24'
+  crc: '0xbe3c34fa'
+- name: DAT\TRACK4.DAT
+  size: 540108
+  date: '2003-08-03T13:08:24'
+  crc: '0x061a1fda'
+- name: DAT\TRACK5.DAT
+  size: 540108
+  date: '2003-08-03T13:08:24'
+  crc: '0xc33f714b'
+- name: DIV2ERUN.DLL
+  size: 221962
+  date: '2003-08-03T13:08:24'
+  crc: '0x34e75e6e'
+- name: DPIX.DLL
+  size: 11776
+  date: '2003-08-03T13:00:34'
+  crc: '0xfc75c0e0'
+- name: MKRDOS.EXE
+  size: 27749
+  date: '2003-08-03T13:08:24'
+  crc: '0x733f00cf'
+- name: MKRDOS.PAK
+  size: 1655805
+  date: '2003-08-03T13:12:38'
+  crc: '0x8418b741'
+- name: MKRDOS.PIF
+  size: 967
+  date: '2003-08-03T13:25:20'
+  crc: '0xe4be0968'
+- name: mkr.ICO
+  size: 3774
+  date: '2003-07-27T11:18:42'
+  crc: '0xd01591b5'
+- name: read moi.txt
+  size: 1803
+  date: '2003-08-01T08:05:44'
+  crc: '0x19947d3b'

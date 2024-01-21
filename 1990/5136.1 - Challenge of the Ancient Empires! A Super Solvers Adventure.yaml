@@ -1,0 +1,57 @@
+filename: Super Solvers- Challenge of the Ancient Empires! v1.0 (Installer) (1990)(The Learning Company) [Educational, Strategy].zip
+tdc_id: '5136.1'
+title:
+  box: 'Super Solvers: Challenge of the Ancient Empires!'
+  screen: Challenge of the Ancient Empires! A Super Solvers Adventure
+  qualifier: Installer
+publisher: The Learning Company
+year: '1990'
+genre:
+- Educational
+- Strategy
+language: English
+date:
+  added: '2020-10-15T21:34:32'
+  last_modified: '2023-06-22T10:58:37'
+version: '1.0'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DESKTOPD.CFG
+  size: 55
+  date: '1990-09-08T21:10:14'
+  crc: '0xd472b1d0'
+- name: INSTALL.DAT
+  size: 1111
+  date: '1990-09-08T20:11:22'
+  crc: '0x9e04584c'
+- name: INSTALL.EXE
+  size: 18317
+  date: '1990-09-08T19:59:04'
+  crc: '0xa68fa37f'
+- name: INSTALL.PDM
+  size: 517
+  date: '1990-04-03T10:52:14'
+  crc: '0x57c60474'
+- name: SSA.BAT
+  size: 444
+  date: '1990-09-07T14:59:48'
+  crc: '0xafd22006'
+- name: SSA000.DAT
+  size: 228727
+  date: '1990-09-24T14:33:00'
+  crc: '0xb6f06043'
+- name: SSA001.DAT
+  size: 360674
+  date: '1990-09-24T14:33:54'
+  crc: '0x1e6f7967'
+- name: SSAPROG.EXE
+  size: 79190
+  date: '1990-09-24T14:34:16'
+  crc: '0x94854799'
+- name: TLCINFO.DAT
+  size: 233
+  date: '1990-09-08T20:11:22'
+  crc: '0xcb432118'

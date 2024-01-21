@@ -1,0 +1,32 @@
+filename: Bicycle Holiday Collection v2.00 (Installer) (1992)(SWFTE International Ltd.) [Strategy, Compilation].zip
+tdc_id: '12603.1'
+title:
+  box: Bicycle Holiday Collection
+publisher: SWFTE International Ltd.
+year: '1992'
+genre:
+- Strategy
+- Compilation
+language: English
+date:
+  added: '2019-03-01T18:41:30'
+  last_modified: '2019-03-01T18:41:30'
+version: '2.00'
+type: zip
+installer: true
+compilation: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: HOLIDAY.ZIP
+  size: 339754
+  date: '2004-05-23T23:04:08'
+  crc: '0x2492ea4b'
+- name: INSTALL.EXE
+  size: 31440
+  date: '2004-05-23T23:04:10'
+  crc: '0xb158f882'
+- name: PKUNZIP.EXE
+  size: 23528
+  date: '2004-05-23T23:04:12'
+  crc: '0x4457e783'

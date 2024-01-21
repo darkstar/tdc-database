@@ -1,0 +1,63 @@
+filename: Planes v0.4 [FW] (2015)(Petr Kratina) [Strategy, Action].zip
+tdc_id: '10445.0'
+title:
+  screen: Planes
+publisher: Petr Kratina
+year: '2015'
+genre:
+- Strategy
+- Action
+language: English
+date:
+  added: '2019-03-02T10:58:08'
+  last_modified: '2019-03-02T10:58:08'
+version: '0.4'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: GAME.EXE
+files:
+- name: DATA\
+  size: 0
+  date: '2015-02-09T10:17:56'
+- name: DATA\GAME.PAL
+  size: 768
+  date: '2014-11-30T23:26:08'
+  crc: '0xe7dbef85'
+- name: DATA\MAIN.FNT
+  size: 6272
+  date: '2014-11-30T23:26:08'
+  crc: '0x95221449'
+- name: DATA\TILESET.DAT
+  size: 13824
+  date: '2014-11-30T23:26:08'
+  crc: '0xda7f4661'
+- name: GAME.EXE
+  size: 41520
+  date: '2015-02-01T01:45:32'
+  crc: '0xabee623f'
+- name: MAPS\
+  size: 0
+  date: '2015-02-09T10:17:56'
+- name: MAPS\LARGE.MAP
+  size: 640
+  date: '2015-02-01T01:29:14'
+  crc: '0x7f8776fb'
+- name: MAPS\MEDIUM.MAP
+  size: 640
+  date: '2015-02-01T01:28:52'
+  crc: '0xba3c9021'
+- name: MAPS\MENU.MAP
+  size: 640
+  date: '2014-11-30T04:36:04'
+  crc: '0xc9b9f746'
+- name: MAPS\SMALL.MAP
+  size: 640
+  date: '2014-11-24T00:17:28'
+  crc: '0xfa9161c6'
+- name: MAPS\TEST.MAP
+  size: 640
+  date: '2014-11-24T00:17:28'
+  crc: '0xfa9161c6'

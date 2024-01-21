@@ -1,0 +1,27 @@
+filename: Energie-Manager r19931202 (Installer) (De) (1993)(Bundesministerium für Wirtschaft und Technologie) [Educational, Simulation].zip
+tdc_id: '13403.3'
+title:
+  box: Energie-Manager
+publisher: Bundesministerium für Wirtschaft und Technologie
+year: '1993'
+genre:
+- Educational
+- Simulation
+language: German
+date:
+  added: '2019-03-01T19:02:46'
+  last_modified: '2019-03-01T19:02:46'
+release: '19931202'
+type: zip
+installer: true
+commands:
+  play: INSTALL.BAT
+files:
+- name: INSTALL.BAT
+  size: 148
+  date: '1993-08-29T17:01:34'
+  crc: '0x5cb1f922'
+- name: UNPACK.EXE
+  size: 441863
+  date: '1993-12-02T18:00:00'
+  crc: '0x99108272'

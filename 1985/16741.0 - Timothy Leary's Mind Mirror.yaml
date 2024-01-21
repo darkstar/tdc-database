@@ -1,0 +1,36 @@
+filename: Timothy Leary's Mind Mirror [DC] (1985)(Electronic Arts, Inc.) [Simulation].zip
+tdc_id: '16741.0'
+title:
+  box: Timothy Leary's Mind Mirror
+publisher: Electronic Arts, Inc.
+year: '1985'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:24:36'
+  last_modified: '2019-03-01T18:24:36'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: MMIRROR.COM
+references:
+  dosid: DOS05995
+  exodos: Timothy Leary's Mind Mirror (1986).zip
+files:
+- name: GAME.DAT
+  size: 409600
+  date: '1999-08-14T13:58:06'
+  crc: '0xb4f19c72'
+- name: MMIRROR.COM
+  size: 432
+  date: '1999-09-24T20:30:40'
+  crc: '0xb3ac4294'
+- name: README.TXT
+  size: 73
+  date: '1999-09-24T20:50:22'
+  crc: '0x8acc8791'
+- name: SAVE.DAT
+  size: 409600
+  date: '1999-09-24T20:29:58'
+  crc: '0x5bfcd46d'

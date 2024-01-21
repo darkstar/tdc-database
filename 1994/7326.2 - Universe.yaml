@@ -1,0 +1,33 @@
+filename: Universe (En)(It)(Fr)(De) [a1] (1994)(Core Design Ltd.) [Adventure].zip
+tdc_id: '7326.2'
+title:
+  box: Universe
+publisher: Core Design Ltd.
+year: '1994'
+genre: Adventure
+language:
+- English
+- French
+- Italian
+- German
+date:
+  added: '2019-03-02T07:18:58'
+  last_modified: '2019-03-02T07:18:58'
+type: zip
+tags:
+- Alternate: 1
+commands:
+  play: UNIVERSE.EXE
+files:
+- name: UNIVERSE.EPF
+  size: 12232914
+  date: '1998-06-16T16:56:24'
+  crc: '0x8bfc7950'
+- name: UNIVERSE.EXE
+  size: 94488
+  date: '1998-06-16T17:00:06'
+  crc: '0x68a19a37'
+- name: UNIVERSE.EX_
+  size: 94488
+  date: '1994-10-26T13:38:06'
+  crc: '0x3537589a'

@@ -1,0 +1,29 @@
+filename: Rape, Pillage, Galore! (2002)(Kristian Kirsfeldt) [Adventure, Interactive Fiction].zip
+tdc_id: '4844.0'
+title:
+  screen: Rape, Pillage, Galore!
+publisher: Kristian Kirsfeldt
+year: '2002'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2020-08-31T11:31:30'
+  last_modified: '2020-08-31T11:31:30'
+type: zip
+commands:
+  play: pig-rpg.exe
+files:
+- name: pig-rpg.dat
+  size: 49345
+  date: '2020-08-14T15:10:44'
+  crc: '0x20521deb'
+- name: pig-rpg.exe
+  size: 8624
+  date: '2020-08-14T15:10:48'
+  crc: '0x77b21699'
+- name: pig-rpg.txt
+  size: 1111
+  date: '2020-08-14T15:10:50'
+  crc: '0x84803bdc'

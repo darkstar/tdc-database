@@ -1,0 +1,32 @@
+filename: Ono [SW] (1993)(Alan Meiss) [Strategy, Cards].zip
+tdc_id: '14621.0'
+title:
+  screen: Ono
+publisher: Alan Meiss
+year: '1993'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T19:15:46'
+  last_modified: '2019-03-01T19:15:46'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: ono.exe
+files:
+- name: ono.dat
+  size: 109794
+  date: '1992-06-17T12:33:12'
+  crc: '0x589853ed'
+- name: ono.exe
+  size: 72784
+  date: '1993-01-07T03:00:56'
+  crc: '0x6e1c80f3'
+- name: ono.hlp
+  size: 2189
+  date: '1992-06-17T11:40:00'
+  crc: '0x8a2fe5a3'

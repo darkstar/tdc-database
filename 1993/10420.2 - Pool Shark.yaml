@@ -1,0 +1,40 @@
+filename: Pool Shark v2.1 (Installer) [SW] (1993)(Eduline Software Productions) [Action].zip
+tdc_id: '10420.2'
+title:
+  screen: Pool Shark
+publisher: Eduline Software Productions
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2009-11-23T02:44:08'
+  last_modified: '2009-11-23T02:44:08'
+version: '2.1'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 89
+  date: '1994-02-01T00:00:00'
+  crc: '0x5292294d'
+- name: INSTALL.EXE
+  size: 35948
+  date: '1994-02-01T02:25:00'
+  crc: '0x68323310'
+- name: P-SHARK.ZIP
+  size: 225570
+  date: '1994-02-01T03:07:22'
+  crc: '0xccddbc89'
+- name: README
+  size: 3094
+  date: '1994-02-01T20:17:30'
+  crc: '0xc5f1484e'
+- name: VENDOR.DOC
+  size: 5227
+  date: '1994-02-01T02:06:42'
+  crc: '0xd7d86c2c'

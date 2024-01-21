@@ -1,0 +1,31 @@
+filename: Links- Championship Course - Firestone Country Club (1991)(Access Software, Inc.) [Simulation, Sports, Addon].zip
+tdc_id: '11874.0'
+parent_id: '11874.1'
+title:
+  box: 'Links: Championship Course - Firestone Country Club'
+publisher: Access Software, Inc.
+year: '1991'
+genre:
+- Simulation
+- Sports
+- Addon
+language: English
+date:
+  added: '2019-03-01T18:36:38'
+  last_modified: '2019-03-01T18:36:38'
+type: zip
+commands:
+  play: GOLF.EXE
+files:
+- name: FIRESTON.CRS
+  size: 618683
+  date: '1991-02-21T14:09:38'
+  crc: '0xde6121ed'
+- name: GOLF.EXE
+  size: 60774
+  date: '1991-05-02T01:45:00'
+  crc: '0xa1a93677'
+- name: LIE.LZ
+  size: 11262
+  date: '1991-02-13T08:11:28'
+  crc: '0xcc21f0e9'

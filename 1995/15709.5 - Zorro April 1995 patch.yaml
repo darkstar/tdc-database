@@ -1,0 +1,44 @@
+filename: Zorro April 1995 patch (1995)(Capstone Software) [Action, Addon].zip
+tdc_id: '15709.5'
+title:
+  screen: Zorro April 1995 patch
+publisher: Capstone Software
+year: '1995'
+genre:
+- Action
+- Addon
+language: English
+date:
+  added: '2019-03-24T19:49:08'
+  last_modified: '2019-03-24T19:49:08'
+type: zip
+patch: true
+files:
+- name: GAME.FNT
+  size: 20488
+  date: '1995-03-07T01:40:46'
+  crc: '0xe21eabbb'
+- name: M4.BIN
+  size: 27038
+  date: '1995-02-28T12:14:24'
+  crc: '0x245739cb'
+- name: MENUS.GXL
+  size: 195642
+  date: '1995-03-30T18:57:40'
+  crc: '0xc73be6d7'
+- name: README.EXE
+  size: 38702
+  date: '1994-03-11T07:21:28'
+  crc: '0x98804f73'
+- name: README.TXT
+  size: 2783
+  date: '1995-04-04T06:10:08'
+  crc: '0x4945bc74'
+- name: SETUP.EXE
+  size: 260100
+  date: '1995-03-17T08:52:18'
+  crc: '0xf6b4f589'
+- name: ZORRO.EXE
+  size: 441508
+  date: '1995-04-04T06:22:46'
+  crc: '0x0efc7fa3'

@@ -1,0 +1,32 @@
+filename: Achtung, Die Kurve (De)(En) (1995)(Filip Oscadal, Kamil Dolezal) [Strategy].zip
+tdc_id: '3389.0'
+title:
+  screen: Die Achtung Kurve
+publisher: Filip Oscadal, Kamil Dolezal
+year: '1995'
+genre: Strategy
+language:
+- English
+- German
+date:
+  added: '2019-03-02T07:28:02'
+  last_modified: '2019-03-02T07:28:02'
+type: zip
+commands:
+  play: ZATACKA.EXE
+references:
+  dosid: DOS00699
+  exodos: Achtung, die Kurve! (1995).zip
+files:
+- name: EGAVGA.BGI
+  size: 5554
+  date: '1992-06-10T03:10:00'
+  crc: '0x9b14ff3b'
+- name: TSCR.CHR
+  size: 17355
+  date: '1992-06-10T03:10:00'
+  crc: '0xdb61ebf0'
+- name: ZATACKA.EXE
+  size: 47390
+  date: '1995-10-19T04:38:24'
+  crc: '0x0739f6a7'

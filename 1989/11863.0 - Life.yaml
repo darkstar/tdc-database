@@ -1,0 +1,27 @@
+filename: Life (1989)(Alan Dickinson, PCA Magazine) [Simulation].zip
+tdc_id: '11863.0'
+title:
+  screen: Life
+publisher: Alan Dickinson, PCA Magazine
+year: '1989'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:28:12'
+  last_modified: '2019-03-01T18:28:12'
+type: zip
+commands:
+  play: LIFE.EXE
+files:
+- name: LIFE.DAT
+  size: 201
+  date: '1989-07-01T00:00:00'
+  crc: '0x65cd27fa'
+- name: LIFE.DOC
+  size: 1374
+  date: '1989-07-01T00:00:00'
+  crc: '0xe378ce70'
+- name: LIFE.EXE
+  size: 41110
+  date: '1989-07-01T00:00:00'
+  crc: '0xda93e3e0'

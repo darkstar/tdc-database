@@ -1,0 +1,102 @@
+filename: Dracula in London v1.05 (1989)(SDJ Enterprises, Inc.) [Adventure, Role-Playing (RPG)][!].zip
+tdc_id: '9503.1'
+title:
+  box: Dracula in London
+publisher: SDJ Enterprises, Inc.
+year: '1989'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:26:08'
+  last_modified: '2019-03-01T18:26:08'
+version: '1.05'
+type: zip
+tags:
+- KnownGood
+commands:
+  play: DRACULA.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/dracula-in-london
+files:
+- name: '1'
+  size: 144
+  date: '1988-05-07T15:16:44'
+  crc: '0x7185c437'
+- name: '2'
+  size: 238
+  date: '1988-05-07T14:57:30'
+  crc: '0x006737f7'
+- name: '3'
+  size: 246
+  date: '1988-05-07T14:57:00'
+  crc: '0x5c6f5e97'
+- name: '4'
+  size: 286
+  date: '1988-05-07T14:52:22'
+  crc: '0x7e585a61'
+- name: '5'
+  size: 96
+  date: '1988-05-07T14:52:36'
+  crc: '0x79efcf3c'
+- name: '7'
+  size: 180
+  date: '1988-05-07T14:52:50'
+  crc: '0x9141b777'
+- name: BOARD1.BAS
+  size: 4806
+  date: '1988-04-09T08:23:42'
+  crc: '0x18402c25'
+- name: BOARD2.BAS
+  size: 4806
+  date: '1988-04-09T08:23:42'
+  crc: '0xef4ef635'
+- name: BRUN20.EXE
+  size: 69454
+  date: '1987-01-16T11:44:44'
+  crc: '0xfed31ef4'
+- name: DRACULA.EXE
+  size: 41953
+  date: '1989-10-28T12:48:32'
+  crc: '0x563d5f2a'
+- name: DRACULA1.EXE
+  size: 69761
+  date: '1989-09-30T09:18:26'
+  crc: '0xa366faf0'
+- name: ENDGAME.EXE
+  size: 8497
+  date: '1988-02-20T16:00:34'
+  crc: '0x28e404e7'
+- name: FINDATA1.TXT
+  size: 3754
+  date: '1988-04-23T10:44:12'
+  crc: '0x8f095e4b'
+- name: FINDATA2.TXT
+  size: 3824
+  date: '1988-04-23T10:44:52'
+  crc: '0xd5499d18'
+- name: HUNTER1.EXE
+  size: 22513
+  date: '1988-05-28T15:16:30'
+  crc: '0xc3908a31'
+- name: LAIR1.EXE
+  size: 26385
+  date: '1989-09-30T09:20:00'
+  crc: '0x4b5665d5'
+- name: LAIR2.EXE
+  size: 61489
+  date: '1988-05-28T15:52:10'
+  crc: '0x61b517b9'
+- name: README.DOC
+  size: 2293
+  date: '1989-10-28T10:16:32'
+  crc: '0x3c2d59ca'
+- name: REGISTER.DOC
+  size: 1055
+  date: '1989-10-28T12:42:14'
+  crc: '0x944c2698'
+- name: ROOMSUB.EXE
+  size: 25793
+  date: '1988-02-13T15:59:00'
+  crc: '0xf6ad1241'

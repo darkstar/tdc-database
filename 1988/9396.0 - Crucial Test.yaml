@@ -1,0 +1,53 @@
+filename: Crucial Test (Fr) (1988)(Tomahawk) [Educational, Trivia].zip
+tdc_id: '9396.0'
+title:
+  box: Crucial Test
+publisher: Tomahawk
+year: '1988'
+genre:
+- Educational
+- Trivia
+language: French
+date:
+  added: '2019-08-31T15:03:10'
+  last_modified: '2019-08-31T15:03:10'
+type: zip
+commands:
+  play: LOADER.EXE
+files:
+- name: CGA.BGI
+  size: 6029
+  date: '1987-11-19T22:00:00'
+  crc: '0xcd2d7722'
+- name: DESTORT.BIN
+  size: 7168
+  date: '1988-08-29T17:25:12'
+  crc: '0x43f3d9db'
+- name: EGAVGA.BGI
+  size: 5139
+  date: '1987-11-19T22:00:00'
+  crc: '0x03b024cc'
+- name: LITT.CHR
+  size: 2126
+  date: '1987-11-19T22:00:00'
+  crc: '0xfe9cb16d'
+- name: LOADER.EXE
+  size: 321072
+  date: '2019-08-19T19:46:52'
+  crc: '0x3e8a0861'
+- name: LOADER.EX_
+  size: 321072
+  date: '2025-02-13T00:01:12'
+  crc: '0x7a03e636'
+- name: SANS.CHR
+  size: 5452
+  date: '1987-11-19T22:00:00'
+  crc: '0x76aba584'
+- name: TITTORT.BIN
+  size: 7680
+  date: '1988-08-29T17:38:48'
+  crc: '0x948e8fba'
+- name: TOMANGE.BIN
+  size: 3712
+  date: '1988-09-11T13:22:18'
+  crc: '0x0e302c69'

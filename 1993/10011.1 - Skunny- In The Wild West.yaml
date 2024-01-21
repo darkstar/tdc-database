@@ -1,0 +1,44 @@
+filename: Skunny- In The Wild West v1.1 (Installer) [SW] (1993)(Copysoft) [Action].zip
+tdc_id: '10011.1'
+title:
+  screen: 'Skunny: In The Wild West'
+publisher: Copysoft
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T21:07:54'
+  last_modified: '2019-03-01T21:07:54'
+version: '1.1'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 33192
+  date: '1994-08-16T12:00:00'
+  crc: '0x06bbe8c7'
+- name: INSTALL.FIL
+  size: 4549
+  date: '1994-08-16T12:00:00'
+  crc: '0xa3ff26e6'
+- name: ORDER.TXT
+  size: 5145
+  date: '1994-08-16T12:00:00'
+  crc: '0x776d3078'
+- name: WILDW.1
+  size: 329259
+  date: '1994-08-16T12:00:00'
+  crc: '0x2fd3d45b'
+- name: WILDW.2
+  size: 356148
+  date: '1994-08-16T12:00:00'
+  crc: '0xd7bba996'
+- name: WILDW.3
+  size: 57437
+  date: '1994-08-16T12:00:00'
+  crc: '0xde9df8d9'

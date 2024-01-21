@@ -1,0 +1,36 @@
+filename: Grayhound Racer (Tandy 1000) [f1] (1989)(Brooks deForest) [Simulation, Sports].zip
+tdc_id: '10905.0'
+title:
+  screen: Grayhound Racer
+  qualifier: Tandy 1000
+publisher: Brooks deForest
+year: '1989'
+genre:
+- Simulation
+- Sports
+language: English
+date:
+  added: '2019-03-01T18:27:50'
+  last_modified: '2019-03-01T18:27:50'
+type: zip
+tags:
+- Fixed: 1
+media: Download
+commands:
+  play: BASIC.EXE
+references:
+  dosid: DOS07554
+  exodos: Grayhound Racer (1989).zip
+files:
+- name: BASIC.EXE
+  size: 68672
+  date: '2016-03-23T20:48:02'
+  crc: '0x0999e916'
+- name: BASICA.COM
+  size: 942
+  date: '2016-03-23T20:48:10'
+  crc: '0x5978f665'
+- name: grayhnd.bas
+  size: 24354
+  date: '2016-03-25T00:09:04'
+  crc: '0x8308330f'

@@ -1,0 +1,27 @@
+filename: Defcon 5 v1.06 (1995)(Nova Spring) [bin-cue].zip
+tdc_id: '13034.2'
+title:
+  box: Defcon 5
+publisher: Nova Spring
+year: '1995'
+genre: bin-cue
+language: English
+date:
+  added: '2023-02-20T14:19:00'
+  last_modified: '2023-02-20T14:19:00'
+version: '1.06'
+type: bin-cue
+media: CD-ROM
+audio:
+- CD-DA
+references:
+  mobygames: https://www.mobygames.com/game/dos/defcon-5
+files:
+- name: defcon5.bin
+  size: 512811264
+  date: '1996-12-24T23:32:00'
+  crc: '0x0366063b'
+- name: defcon5.cue
+  size: 224
+  date: '1996-12-24T23:32:00'
+  crc: '0x01820cfe'

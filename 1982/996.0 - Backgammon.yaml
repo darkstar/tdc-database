@@ -1,0 +1,24 @@
+filename: Backgammon (1982)(C&C Software) [Strategy, Board].zip
+tdc_id: '996.0'
+title:
+  screen: Backgammon
+publisher: C&C Software
+year: '1982'
+genre:
+- Strategy
+- Board
+language: English
+date:
+  added: '2019-03-01T18:22:56'
+  last_modified: '2019-03-01T18:22:56'
+type: zip
+commands:
+  play: GAMMON.EXE
+references:
+  dosid: DOS00374
+  exodos: Backgammon (1982).zip
+files:
+- name: GAMMON.EXE
+  size: 42240
+  date: '1982-10-17T13:18:14'
+  crc: '0xe909e13e'

@@ -1,0 +1,30 @@
+filename: PC-Gammon IV v5.0 (1986)(David C. Oshel) [Strategy, Board].zip
+tdc_id: '10473.0'
+title:
+  screen: PC-Gammon IV
+publisher: David C. Oshel
+year: '1986'
+genre:
+- Strategy
+- Board
+language: English
+date:
+  added: '2019-03-01T18:24:54'
+  last_modified: '2019-03-01T18:24:54'
+version: '5.0'
+type: zip
+commands:
+  play: gammon4.exe
+files:
+- name: gammon4.doc
+  size: 10731
+  date: '1987-02-03T04:58:08'
+  crc: '0x949cb9ba'
+- name: gammon4.exe
+  size: 49480
+  date: '1986-08-17T08:45:42'
+  crc: '0xdbcd64c0'
+- name: gammon4.man
+  size: 14066
+  date: '1986-08-16T08:38:20'
+  crc: '0xd8baa53d'

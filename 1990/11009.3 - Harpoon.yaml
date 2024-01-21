@@ -1,0 +1,54 @@
+filename: Harpoon v1.2 (1990)(Three-Sixty Pacific, Inc.) [Simulation, Strategy].zip
+tdc_id: '11009.3'
+title:
+  box: Harpoon
+publisher: Three-Sixty Pacific, Inc.
+year: '1990'
+genre:
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:27:54'
+  last_modified: '2019-03-01T18:27:54'
+version: '1.2'
+type: zip
+commands:
+  play: HARPOON.EXE
+files:
+- name: GIUK.RES
+  size: 167355
+  date: '1990-08-27T13:07:50'
+  crc: '0x08276ab4'
+- name: GIUKCGA.RES
+  size: 106198
+  date: '1990-03-09T17:03:56'
+  crc: '0x65013aff'
+- name: GIUKEGA.RES
+  size: 496153
+  date: '1990-05-25T14:24:56'
+  crc: '0xa1126267'
+- name: GIUKTGA.RES
+  size: 127440
+  date: '1990-05-25T14:50:46'
+  crc: '0x1037806f'
+- name: HARPOON.EXE
+  size: 423627
+  date: '1990-08-29T17:16:40'
+  crc: '0x3ee338ec'
+- name: HARPOON.OPT
+  size: 72
+  date: '1992-03-26T17:33:40'
+  crc: '0x524f02dd'
+- name: SB16AUX.DRV
+  size: 32624
+  date: '1994-02-06T02:00:00'
+  crc: '0x2d85fe53'
+- name: SB16FM.DRV
+  size: 27808
+  date: '1994-01-13T01:51:00'
+  crc: '0x38049150'
+- name: SB16SND.DRV
+  size: 32240
+  date: '1994-03-18T03:02:00'
+  crc: '0x61f1d480'

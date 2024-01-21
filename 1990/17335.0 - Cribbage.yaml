@@ -1,0 +1,57 @@
+filename: Cribbage v1.07 [SW] (1990)(Don Hanson) [Strategy, Cards].zip
+tdc_id: '17335.0'
+title:
+  screen: Cribbage
+publisher: Don Hanson
+year: '1990'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2023-07-31T11:42:42'
+  last_modified: '2023-07-31T11:42:42'
+version: '1.07'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: CRIB-VGA.EXE
+files:
+- name: COMPILE.BAT
+  size: 770
+  date: '1990-08-18T12:45:14'
+  crc: '0x415e2628'
+- name: CRIB-VGA.EXE
+  size: 217577
+  date: '1990-08-18T12:50:28'
+  crc: '0x24db9ebc'
+- name: CRIB.BAS
+  size: 122540
+  date: '1990-08-18T12:31:08'
+  crc: '0x347b2418'
+- name: CRIB.LIB
+  size: 108565
+  date: '1990-08-18T12:49:44'
+  crc: '0x29bfcf13'
+- name: CRIB.TXT
+  size: 11342
+  date: '1990-08-19T10:18:46'
+  crc: '0xe4e2c955'
+- name: DISPLAY.BAS
+  size: 54998
+  date: '1989-09-19T22:54:10'
+  crc: '0xc2649eaa'
+- name: FILE_ID.DIZ
+  size: 294
+  date: '1990-08-18T12:54:16'
+  crc: '0x35f07aa7'
+- name: INITIALZ.BAS
+  size: 40040
+  date: '1989-09-19T22:54:10'
+  crc: '0x6373f505'
+- name: MOUSE.LIB
+  size: 3072
+  date: '1989-09-19T22:54:10'
+  crc: '0x85c7e38f'

@@ -1,0 +1,39 @@
+filename: Dar's Revenge (1999)(Dean Tersigni) [Action].zip
+tdc_id: '12950.0'
+title:
+  screen: Dar's Revenge
+publisher: Dean Tersigni
+year: '1999'
+genre: Action
+language: English
+date:
+  added: '2020-01-16T20:20:38'
+  last_modified: '2020-01-16T20:20:38'
+type: zip
+commands:
+  play: DAR.EXE
+files:
+- name: DAR.EXE
+  size: 113418
+  date: '1999-03-17T15:06:06'
+  crc: '0xb4350a29'
+- name: DATA.DAT
+  size: 187369
+  date: '1999-03-15T22:53:08'
+  crc: '0xe9e3fa85'
+- name: GRAPHICS.PCX
+  size: 16210
+  date: '1999-03-15T02:40:40'
+  crc: '0xba679330'
+- name: README.DOC
+  size: 6150
+  date: '2002-03-01T16:01:10'
+  crc: '0x6a0ac567'
+- name: TITLE.PCX
+  size: 43904
+  date: '1999-03-15T03:06:28'
+  crc: '0x41baa452'
+- name: YAR.BAS
+  size: 45838
+  date: '1999-03-17T15:05:46'
+  crc: '0x25f02e9e'

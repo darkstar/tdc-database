@@ -1,0 +1,46 @@
+filename: Hedge-Hog (1984)(Adrian & Benjamin Haas) [Action].zip
+tdc_id: '1124.0'
+title:
+  screen: Hedge-Hog
+publisher: Adrian & Benjamin Haas
+year: '1984'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:06'
+  last_modified: '2019-03-01T18:24:06'
+type: zip
+commands:
+  play: HEDGEHOG.EXE
+references:
+  dosid: DOS15434
+  exodos: Hedgehog (1984).zip
+files:
+- name: BALLON.PIC
+  size: 489
+  date: '1984-05-12T13:53:42'
+  crc: '0xb6a64651'
+- name: BOAT.PIC
+  size: 108
+  date: '1984-04-22T20:03:00'
+  crc: '0x3bad5bfe'
+- name: HEDGE.PIC
+  size: 258
+  date: '1984-04-20T22:06:26'
+  crc: '0x82fdd0ac'
+- name: HEDGEHOG.BIN
+  size: 16384
+  date: '1984-04-30T13:34:50'
+  crc: '0x7987cc0e'
+- name: HEDGEHOG.EXE
+  size: 39808
+  date: '1985-04-04T13:48:34'
+  crc: '0x170a9166'
+- name: HEDGEHOG.SCR
+  size: 256
+  date: '1987-06-03T23:19:24'
+  crc: '0xd8e75b38'
+- name: VOGEL.PIC
+  size: 860
+  date: '1984-05-01T14:24:36'
+  crc: '0x78563b66'

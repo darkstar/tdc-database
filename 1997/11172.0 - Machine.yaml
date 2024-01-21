@@ -1,0 +1,28 @@
+filename: Machine (1997)(Alex Knight-Percival) [Simulation].zip
+tdc_id: '11172.0'
+title:
+  screen: Machine
+publisher: Alex Knight-Percival
+year: '1997'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-02T10:35:32'
+  last_modified: '2019-03-02T10:35:32'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: ASCII2.BAS
+  size: 1612
+  date: '1997-07-26T17:47:38'
+  crc: '0x9f8e088b'
+- name: GO.BAT
+  size: 26
+  date: '2018-11-21T20:04:00'
+  crc: '0xb8423219'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

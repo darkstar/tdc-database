@@ -1,0 +1,97 @@
+filename: Man Enough v1.10 (Installer) (1994)(Tsunami Media, Inc.) [Adventure, Adult].zip
+tdc_id: '11117.0'
+title:
+  box: Man Enough
+publisher: Tsunami Media, Inc.
+year: '1994'
+genre:
+- Adventure
+- Adult
+language: English
+date:
+  added: '2020-12-19T11:32:22'
+  last_modified: '2020-12-19T11:32:22'
+version: '1.10'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  dosid: DOS03334
+  exodos: Man Enough (1994).zip
+files:
+- name: 2000.RLB
+  size: 91151438
+  date: '1993-11-12T10:50:58'
+  crc: '0xa03075fd'
+- name: 3000.RLB
+  size: 63239121
+  date: '1993-11-11T23:08:12'
+  crc: '0x143bdb7a'
+- name: 4000.RLB
+  size: 499323776
+  date: '1993-11-12T02:11:10'
+  crc: '0xecb8f2ee'
+- name: 5000.RLB
+  size: 83037048
+  date: '1993-11-12T09:10:54'
+  crc: '0xfbb36103'
+- name: 6000.RLB
+  size: 55940513
+  date: '1993-11-12T09:16:18'
+  crc: '0xaca84a48'
+- name: 7000.RLB
+  size: 48700851
+  date: '1993-11-12T12:55:12'
+  crc: '0xc1999344'
+- name: GLOBAL1.RLB
+  size: 151603024
+  date: '1993-11-12T09:01:02'
+  crc: '0x730044e9'
+- name: GLOBAL2.RLB
+  size: 18841946
+  date: '1993-11-12T11:33:08'
+  crc: '0xff4ab095'
+- name: INSTALL.EXE
+  size: 829752
+  date: '1993-11-12T14:14:52'
+  crc: '0xd98c00a2'
+- name: INSTALL.RLB
+  size: 11402
+  date: '1993-11-08T11:12:06'
+  crc: '0x56150e74'
+- name: TSAGE.CFG
+  size: 157
+  date: '1993-11-12T14:09:12'
+  crc: '0x8b1ccc26'
+- name: TSAGE.RLB
+  size: 65201
+  date: '1993-11-12T08:48:36'
+  crc: '0x9e05626f'
+- name: floppy\
+  size: 0
+  date: '2020-12-19T09:57:30'
+- name: floppy\AUTOEXEC.ME
+  size: 22
+  date: '1996-12-24T23:32:00'
+  crc: '0xc92101ee'
+- name: floppy\CONFIG.ME
+  size: 32
+  date: '1996-12-24T23:32:00'
+  crc: '0x4e528fd3'
+- name: floppy\FILES.RLB
+  size: 169318
+  date: '1996-12-24T23:32:00'
+  crc: '0x22707154'
+- name: floppy\MAN.EXE
+  size: 336624
+  date: '1996-12-24T23:32:00'
+  crc: '0x59114b96'
+- name: floppy\ME.UPD
+  size: 48
+  date: '1996-12-24T23:32:00'
+  crc: '0xec9c0b84'
+- name: floppy\READ.ME
+  size: 486
+  date: '1996-12-24T23:32:00'
+  crc: '0x4a4ec6f0'

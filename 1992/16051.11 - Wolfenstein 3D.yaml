@@ -1,0 +1,35 @@
+filename: Wolfenstein 3D v1.4 (Installer) [SW][a2] (1992)(Apogee Software, Ltd.) [Action].zip
+tdc_id: '16051.11'
+title:
+  screen: Wolfenstein 3D
+publisher: Apogee Software, Ltd.
+year: '1992'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:52:28'
+  last_modified: '2019-03-01T18:52:28'
+version: '1.4'
+type: zip
+tags:
+- Shareware
+- Alternate: 2
+media: Download
+installer: true
+files:
+- name: DEICE.EXE
+  size: 17303
+  date: '2009-11-23T02:51:10'
+  crc: '0xaad4552c'
+- name: INSTALL.BAT
+  size: 71
+  date: '2009-11-23T02:51:12'
+  crc: '0xe805f915'
+- name: WOLF.1
+  size: 667608
+  date: '2009-11-23T02:51:26'
+  crc: '0x486a0802'
+- name: WOLF.DAT
+  size: 242
+  date: '2009-11-23T02:51:28'
+  crc: '0x50e8273c'

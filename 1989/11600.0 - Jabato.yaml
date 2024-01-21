@@ -1,0 +1,54 @@
+filename: Jabato (CGA) (Es) [h1] (1989)(Aventuras AD) [Adventure].zip
+tdc_id: '11600.0'
+title:
+  screen: Jabato
+  qualifier: CGA
+publisher: Aventuras AD
+year: '1989'
+genre: Adventure
+language: Spanish
+date:
+  added: '2019-03-01T18:28:04'
+  last_modified: '2019-03-01T18:28:04'
+type: zip
+tags:
+- Hack: 1
+commands:
+  play: JABATO.EXE
+files:
+- name: JABATO.EXE
+  size: 21373
+  date: '1990-08-11T00:04:06'
+  crc: '0x4f3fb00e'
+- name: JABATO.INF
+  size: 841
+  date: '1989-10-04T20:33:38'
+  crc: '0xe5606cb4'
+- name: PART1.CGA
+  size: 172780
+  date: '1989-10-02T17:36:20'
+  crc: '0xd5ca9967'
+- name: PART1.CGS
+  size: 16384
+  date: '1989-09-21T13:41:06'
+  crc: '0x0ee3fc0c'
+- name: PART1.CHR
+  size: 2176
+  date: '1989-06-05T07:53:52'
+  crc: '0x08d59686'
+- name: PART1.DDB
+  size: 29472
+  date: '1989-10-03T17:45:42'
+  crc: '0xa3545d23'
+- name: PART2.CGA
+  size: 197963
+  date: '1989-10-03T16:48:32'
+  crc: '0x7ba3fa11'
+- name: PART2.CHR
+  size: 2176
+  date: '1989-06-05T07:53:52'
+  crc: '0x08d59686'
+- name: PART2.DDB
+  size: 31760
+  date: '1989-10-03T17:46:54'
+  crc: '0xd21f1366'

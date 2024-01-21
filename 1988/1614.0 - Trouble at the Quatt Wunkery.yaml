@@ -1,0 +1,32 @@
+filename: Trouble at the Quatt Wunkery (1988)(Richard Novak) [Adventure, Interactive Fiction].zip
+tdc_id: '1614.0'
+title:
+  screen: Trouble at the Quatt Wunkery
+publisher: Richard Novak
+year: '1988'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:26:56'
+  last_modified: '2019-03-01T18:26:56'
+type: zip
+commands:
+  play: QUATT.EXE
+references:
+  dosid: DOS00110
+  exodos: Trouble at the Quatt Wunkery (1988).zip
+files:
+- name: QUATT.EXE
+  size: 54436
+  date: '1988-01-29T04:27:08'
+  crc: '0xc41abc48'
+- name: QUATT.QTT
+  size: 147
+  date: '1988-01-29T04:27:34'
+  crc: '0x1ddd710c'
+- name: QUATT.TXT
+  size: 2133
+  date: '2007-07-29T16:27:12'
+  crc: '0x2ae89e8e'

@@ -1,0 +1,36 @@
+filename: Castles- The Northern Campaign v1.01 (Installer) (1991)(Interplay Productions, Inc.) [Simulation, Strategy, Addon][!].zip
+tdc_id: '12029.1'
+parent_id: '12029.3'
+title:
+  box: 'Castles: The Northern Campaign'
+publisher: Interplay Productions, Inc.
+year: '1991'
+genre:
+- Simulation
+- Strategy
+- Addon
+language: English
+date:
+  added: '2019-03-01T18:35:12'
+  last_modified: '2023-01-12T17:04:15'
+version: '1.01'
+type: zip
+tags:
+- KnownGood
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/castles-the-northern-campaign
+files:
+- name: CASTLES.1A
+  size: 0
+  date: '1991-11-27T04:34:32'
+- name: INSTALL.EXE
+  size: 85312
+  date: '1991-11-19T15:54:52'
+  crc: '0xb51ebfe6'
+- name: INTRPLAY.CMP
+  size: 597693
+  date: '1991-11-27T15:51:00'
+  crc: '0x1f639586'

@@ -1,0 +1,43 @@
+filename: Dragon's Mandate v1.11 (2007)(NecroBones Software) [Adventure].zip
+tdc_id: '6710.0'
+title:
+  screen: Dragon's Mandate
+publisher: NecroBones Software
+year: '2007'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-02T10:57:18'
+  last_modified: '2019-03-02T10:57:18'
+version: '1.11'
+type: zip
+commands:
+  play: MANDATE.EXE
+references:
+  dosid: DOS00048
+  exodos: Dragon's Mandate (2007).zip
+files:
+- name: MANDATE.EXE
+  size: 88176
+  date: '2007-08-20T21:46:34'
+  crc: '0xe1a6f731'
+- name: MANDATE.IDF
+  size: 208713
+  date: '2007-08-20T21:35:20'
+  crc: '0x70c953ea'
+- name: MANDATE.IMG
+  size: 160472
+  date: '2007-08-20T21:35:20'
+  crc: '0xc5ecd38d'
+- name: MANDATE.SAV
+  size: 8032
+  date: '2007-08-20T21:22:32'
+  crc: '0xbc4d828f'
+- name: MANDATE.TXT
+  size: 17841
+  date: '2007-08-20T21:44:28'
+  crc: '0x2f362f06'
+- name: NBONES.TXT
+  size: 1334
+  date: '2007-08-18T15:00:52'
+  crc: '0xa5c67fc1'

@@ -1,0 +1,65 @@
+filename: Марс атакует v3.77 (Ru) (1997)(GamePig office) [Action].zip
+tdc_id: '3987.0'
+title:
+  screen: Марс атакует
+  translation: Mars Attacks
+publisher: GamePig office
+year: '1997'
+genre: Action
+language: Russian
+date:
+  added: '2007-09-06T18:58:44'
+  last_modified: '2023-06-30T19:17:03'
+version: '3.77'
+type: zip
+media: Download
+commands:
+  play: SPACE.EXE
+references:
+  dosid: DOS15609
+  exodos: Mars Attacks (1997).zip
+files:
+- name: '!README.PIG'
+  size: 925
+  date: '1997-12-10T15:58:42'
+  crc: '0x281cc1b9'
+- name: ENEMY.SPR
+  size: 4222
+  date: '1997-05-10T22:42:18'
+  crc: '0xcf604c0f'
+- name: FILE_ID.DIZ
+  size: 45
+  date: '1997-12-10T01:55:02'
+  crc: '0x936a2e61'
+- name: MARS1.GPO
+  size: 45420
+  date: '1997-05-10T22:38:50'
+  crc: '0x4e48165a'
+- name: MARS10.GPO
+  size: 4630
+  date: '1997-12-09T23:43:42'
+  crc: '0x813935ca'
+- name: MARS3.GPO
+  size: 70296
+  date: '1997-05-10T22:38:54'
+  crc: '0xad3f5111'
+- name: MARS4.GPO
+  size: 45777
+  date: '1997-05-10T22:38:58'
+  crc: '0x618b0c12'
+- name: MARS7.GPO
+  size: 45193
+  date: '1997-05-10T22:39:08'
+  crc: '0x935fafec'
+- name: MARSEND.GPO
+  size: 51097
+  date: '1997-05-10T22:47:32'
+  crc: '0xfdd67595'
+- name: SPACE.EXE
+  size: 27424
+  date: '1997-12-10T01:29:34'
+  crc: '0xcd4b7a82'
+- name: SPACE.PIF
+  size: 967
+  date: '1999-07-28T10:00:44'
+  crc: '0x9aa6955b'

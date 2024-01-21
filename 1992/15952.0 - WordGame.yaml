@@ -1,0 +1,53 @@
+filename: WordGame (1992)(Lori Beean) [Strategy, Puzzle].zip
+tdc_id: '15952.0'
+title:
+  screen: WordGame
+publisher: Lori Beean
+year: '1992'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-03-01T18:52:32'
+  last_modified: '2019-03-01T18:52:32'
+type: zip
+commands:
+  play: WORDGAME.EXE
+files:
+- name: DICT.DAT
+  size: 1163
+  date: '1992-06-18T12:36:46'
+  crc: '0xddff0e0b'
+- name: MAZE1.DAT
+  size: 186
+  date: '1992-06-18T11:47:18'
+  crc: '0x9daeb5de'
+- name: MAZE2.DAT
+  size: 187
+  date: '1992-06-18T12:42:36'
+  crc: '0x4c4b90b3'
+- name: MAZE3.DAT
+  size: 185
+  date: '1992-06-18T12:45:52'
+  crc: '0xe0c37c0d'
+- name: MAZE4.DAT
+  size: 185
+  date: '1992-06-18T12:48:56'
+  crc: '0x36beb6bd'
+- name: MAZE5.DAT
+  size: 188
+  date: '1992-06-18T12:52:44'
+  crc: '0x9453a72f'
+- name: MAZE6.DAT
+  size: 190
+  date: '1992-06-18T11:25:18'
+  crc: '0x9d13c424'
+- name: WORDGAME.DOC
+  size: 976
+  date: '1992-06-18T13:31:52'
+  crc: '0x183a0800'
+- name: WORDGAME.EXE
+  size: 18432
+  date: '1992-06-18T18:40:04'
+  crc: '0x11abb908'

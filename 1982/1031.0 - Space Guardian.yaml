@@ -1,0 +1,40 @@
+filename: Space Guardian (1982)(Omric Corporation) [Strategy].zip
+tdc_id: '1031.0'
+title:
+  screen: Space Guardian
+publisher: Omric Corporation
+year: '1982'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:23:04'
+  last_modified: '2019-03-01T18:23:04'
+type: zip
+media: Download
+commands:
+  play: GUARDIAN.BAT
+references:
+  dosid: DOS07091
+  exodos: Space Guardian (1982).zip
+notes: +=PCMag Aug.'82, 177 + Sep.'82, 68 + Sep.'82, 315 /// IBM PC, 64K, $34.95
+files:
+- name: GAME.FIL
+  size: 128
+  date: '1988-07-27T01:00:40'
+  crc: '0x81917ae1'
+- name: GUARDIAN.BAS
+  size: 25344
+  date: '1982-02-03T00:00:00'
+  crc: '0x649f5d11'
+- name: GUARDIAN.BAT
+  size: 29
+  date: '2016-03-23T19:21:32'
+  crc: '0xc91cf9df'
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1988-10-05T23:00:08'
+  crc: '0x2a44af39'
+- name: PROGLOAD.BAS
+  size: 128
+  date: '1982-01-28T00:00:00'
+  crc: '0xe18637cb'

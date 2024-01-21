@@ -1,0 +1,30 @@
+filename: Jeopardy (1998)(Anonymous) [Strategy, Educational].zip
+tdc_id: '9703.0'
+title:
+  screen: Jeopardy
+publisher: Anonymous
+year: '1998'
+genre:
+- Strategy
+- Educational
+language: English
+date:
+  added: '2019-03-02T10:41:50'
+  last_modified: '2019-03-02T10:41:50'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 24
+  date: '2018-12-17T20:44:56'
+  crc: '0x54b74814'
+- name: JEOPARDY.BAS
+  size: 37354
+  date: '1998-09-13T08:41:00'
+  crc: '0xcf80c547'
+- name: QB.EXE
+  size: 278804
+  date: '2016-03-13T01:19:58'
+  crc: '0xb08bc0fe'

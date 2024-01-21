@@ -1,0 +1,51 @@
+filename: Drak v2.00 (Installer) (En)(Fr) [SWR] (1997)(Nostalgy enr.) [Action, Puzzle].zip
+tdc_id: '6716.4'
+title:
+  box: Drak
+  qualifier: Installer
+publisher: Nostalgy enr.
+year: '1997'
+genre:
+- Action
+- Puzzle
+language:
+- English
+- French
+date:
+  added: '2024-01-15T13:26:38'
+  last_modified: '2024-01-15T13:26:38'
+version: '2.00'
+type: zip
+tags:
+- SharewareRegistered
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.BAT
+references:
+  mobygames: https://www.mobygames.com/game/19632/drak/
+files:
+- name: DATA.DR~
+  size: 264021
+  date: '1997-02-11T09:19:00'
+  crc: '0xdb98b661'
+- name: DRAK.DR~
+  size: 404220
+  date: '1997-02-11T09:19:04'
+  crc: '0xf77a7343'
+- name: DRAKF.DR~
+  size: 407134
+  date: '1997-02-11T09:19:08'
+  crc: '0x4e790f88'
+- name: ENGLISH.EXE
+  size: 78736
+  date: '1996-10-29T15:14:56'
+  crc: '0x55afeac5'
+- name: FRANCAIS.EXE
+  size: 78736
+  date: '1996-10-29T15:14:58'
+  crc: '0xc808d74d'
+- name: INSTALL.BAT
+  size: 138
+  date: '1995-05-10T01:22:48'
+  crc: '0x9b9857bd'

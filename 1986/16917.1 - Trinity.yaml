@@ -1,0 +1,66 @@
+filename: Trinity r12 (Installer) (1986)(Infocom, Inc.) [Adventure, Interactive Fiction][!].zip
+tdc_id: '16917.1'
+title:
+  box: Trinity
+publisher: Infocom, Inc.
+year: '1986'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2022-04-15T20:26:04'
+  last_modified: '2022-04-15T20:26:04'
+release: '12'
+type: zip
+tags:
+- KnownGood
+installer: true
+references:
+  dosid: DOS05277
+  exodos: Trinity (1986).zip
+files:
+- name: AF.EXE
+  size: 13168
+  date: '1985-05-28T13:27:14'
+  crc: '0xac30980c'
+- name: GAMEDIR.COM
+  size: 27
+  date: '1985-12-11T17:17:04'
+  crc: '0x8d9fbe6d'
+- name: INSTALL.BAT
+  size: 2176
+  date: '1986-09-29T11:59:58'
+  crc: '0x1751c8a5'
+- name: INSTALLH.BAT
+  size: 1152
+  date: '1985-07-01T16:17:08'
+  crc: '0x1dce9881'
+- name: SCAN.COM
+  size: 114
+  date: '1986-09-25T13:40:48'
+  crc: '0x78387415'
+- name: SETUP.EXE
+  size: 1584
+  date: '1985-06-28T10:53:14'
+  crc: '0x62ddb282'
+- name: SETUP.INF
+  size: 3
+  date: '1985-05-04T20:39:12'
+  crc: '0x8bdcb97d'
+- name: STATLINE.BAT
+  size: 3200
+  date: '1986-09-29T11:59:44'
+  crc: '0x1104814b'
+- name: TRINITY.COM
+  size: 12604
+  date: '1986-09-30T04:38:46'
+  crc: '0x5391ed62'
+- name: TRINITY.DAT
+  size: 262065
+  date: '1986-09-30T04:58:48'
+  crc: '0x1f6e4b80'
+- name: YES.COM
+  size: 93
+  date: '1984-11-30T12:02:30'
+  crc: '0x01bd6af9'

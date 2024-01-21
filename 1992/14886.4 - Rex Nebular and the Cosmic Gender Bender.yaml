@@ -1,0 +1,100 @@
+filename: Rex Nebular and the Cosmic Gender Bender (demo) (1992)(MicroProse Software, Inc.) [Adventure].zip
+tdc_id: '14886.4'
+title:
+  screen: Rex Nebular and the Cosmic Gender Bender
+  qualifier: demo
+publisher: MicroProse Software, Inc.
+year: '1992'
+genre: Adventure
+language: English
+date:
+  added: '2023-01-28T18:19:05'
+  last_modified: '2023-01-28T18:19:05'
+type: zip
+demo: true
+commands:
+  play: REX.BAT
+  setup: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/rex-nebular-and-the-cosmic-gender-bender
+files:
+- name: ANIMVIEW.EXE
+  size: 100185
+  date: '1992-06-29T17:49:18'
+  crc: '0x583a9f08'
+- name: ASOUND.001
+  size: 14824
+  date: '1992-07-21T10:52:14'
+  crc: '0x2db7a9ef'
+- name: ASOUND.009
+  size: 18942
+  date: '1992-07-21T10:40:58'
+  crc: '0xfe9eeaa2'
+- name: CONFIG.REX
+  size: 8
+  date: '1992-08-04T11:06:56'
+  crc: '0x306f4613'
+- name: DEMODISK.RES
+  size: 121
+  date: '1992-06-29T17:40:38'
+  crc: '0x15e7bff2'
+- name: GLOBAL.HAG
+  size: 220429
+  date: '1992-06-27T15:30:26'
+  crc: '0x06e67aef'
+- name: INSTALL.EXE
+  size: 95631
+  date: '1992-07-21T15:18:52'
+  crc: '0x722d13f4'
+- name: LABSLOGO.RES
+  size: 17
+  date: '1992-06-14T19:13:14'
+  crc: '0x9858b26a'
+- name: MPSCOPY.EXE
+  size: 30891
+  date: '1992-07-21T15:18:54'
+  crc: '0xd7f2b684'
+- name: NEBULAR.EXE
+  size: 172182
+  date: '1992-07-20T15:22:44'
+  crc: '0x499b8a87'
+- name: PAUSES.COM
+  size: 233
+  date: '1992-06-15T20:14:08'
+  crc: '0xac45a976'
+- name: PSOUND.001
+  size: 17562
+  date: '1992-07-17T09:15:00'
+  crc: '0xdb915ac0'
+- name: PSOUND.009
+  size: 26230
+  date: '1992-07-17T09:14:20'
+  crc: '0x342345b1'
+- name: README.TXT
+  size: 686
+  date: '1992-08-04T11:24:56'
+  crc: '0xf14f8780'
+- name: REX.BAT
+  size: 1826
+  date: '1992-06-27T15:52:42'
+  crc: '0x2728d1d5'
+- name: RSOUND.001
+  size: 12296
+  date: '1992-06-11T14:20:04'
+  crc: '0x9314f944'
+- name: RSOUND.009
+  size: 18484
+  date: '1992-06-25T16:10:44'
+  crc: '0x315aeb9b'
+- name: SECTION1.HAG
+  size: 192065
+  date: '1992-06-27T15:04:40'
+  crc: '0xa5676173'
+- name: SECTION9.HAG
+  size: 543156
+  date: '1992-06-29T18:05:10'
+  crc: '0x8aaabf3f'
+- name: SETSND.BAT
+  size: 34
+  date: '1992-08-04T11:16:42'
+  crc: '0x78c7065d'

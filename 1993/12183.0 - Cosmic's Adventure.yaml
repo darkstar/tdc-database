@@ -1,0 +1,30 @@
+filename: Cosmic's Adventure (1993)(Anthony Maniscalco) [Adventure, Interactive Fiction].zip
+tdc_id: '12183.0'
+title:
+  screen: Cosmic's Adventure
+publisher: Anthony Maniscalco
+year: '1993'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T19:02:06'
+  last_modified: '2019-03-01T19:02:06'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: COSMIC.BAS
+  size: 40149
+  date: '1993-01-18T08:04:04'
+  crc: '0xcf33e24b'
+- name: GO.BAT
+  size: 26
+  date: '2019-01-12T20:44:50'
+  crc: '0xba058f06'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

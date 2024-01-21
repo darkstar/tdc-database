@@ -1,0 +1,46 @@
+filename: Choose an Enemy (1991)(Russian Soft) [Action].zip
+tdc_id: '579.0'
+title:
+  screen: Choose an Enemy
+publisher: Russian Soft
+year: '1991'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:35:14'
+  last_modified: '2019-03-01T18:35:14'
+type: zip
+commands:
+  play: GAME.EXE
+references:
+  dosid: DOS01377
+  exodos: Choose an Enemy (1991).zip
+files:
+- name: BRG.SLF
+  size: 168837
+  date: '1991-02-27T13:44:16'
+  crc: '0x3339271c'
+- name: DRN.SLF
+  size: 173676
+  date: '1991-02-26T19:46:08'
+  crc: '0x4f00d676'
+- name: FIN.SLF
+  size: 121097
+  date: '1991-08-01T19:25:00'
+  crc: '0xc3ea0eae'
+- name: GAME.EXE
+  size: 42782
+  date: '1991-12-11T00:48:46'
+  crc: '0xa7a256ee'
+- name: RCK.SLF
+  size: 173624
+  date: '1991-02-26T19:48:10'
+  crc: '0x1fc7643d'
+- name: START1.SLF
+  size: 219818
+  date: '1991-02-26T10:14:34'
+  crc: '0x18ef5191'
+- name: START2.SLF
+  size: 247836
+  date: '1991-02-26T10:17:38'
+  crc: '0xd24577fa'

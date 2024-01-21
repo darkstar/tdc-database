@@ -1,0 +1,54 @@
+filename: Morkin II v4 (1992)(Anthony Hamilton) [Role-Playing (RPG), Simulation].zip
+tdc_id: '2342.0'
+title:
+  screen: Morkin II
+publisher: Anthony Hamilton
+year: '1992'
+genre:
+- Role-Playing (RPG)
+- Simulation
+language: English
+date:
+  added: '2018-02-22T21:55:46'
+  last_modified: '2018-02-22T21:55:46'
+version: '4'
+type: zip
+media: Download
+commands:
+  play: MORKIN2.EXE
+references:
+  dosid: DOS03633
+  exodos: Morkin 2 (1992).zip
+files:
+- name: MORKIN2.DAT
+  size: 24104
+  date: '1992-08-30T16:02:20'
+  crc: '0xa316c7cf'
+- name: MORKIN2.EXE
+  size: 41738
+  date: '1992-09-20T15:43:14'
+  crc: '0x6b7f123a'
+- name: MORKIN2.FN1
+  size: 4096
+  date: '1988-11-16T11:51:28'
+  crc: '0x23c4069d'
+- name: MORKIN2.FN2
+  size: 4096
+  date: '1988-11-16T11:51:28'
+  crc: '0xf6a2a8fe'
+- name: MORKIN2.ICO
+  size: 766
+  date: '1992-11-21T22:05:10'
+  crc: '0x4019e586'
+- name: MORKIN2.SAM
+  size: 6492
+  date: '1992-09-20T15:42:46'
+  crc: '0x5e567c76'
+- name: file_id.diz
+  size: 148
+  date: '1994-05-09T00:18:20'
+  crc: '0xf145d738'
+- name: magic.txt
+  size: 820
+  date: '2001-03-17T13:28:30'
+  crc: '0xca696418'

@@ -1,0 +1,84 @@
+filename: Superstar Ice Hockey (1987)(Mindscape, Inc.) [Sports].zip
+tdc_id: '16367.0'
+title:
+  box: Superstar Ice Hockey
+publisher: Mindscape, Inc.
+year: '1987'
+genre: Sports
+language: English
+date:
+  added: '2019-03-01T18:25:42'
+  last_modified: '2019-03-01T18:25:42'
+type: zip
+references:
+  dosid: DOS04974
+  exodos: Superstar Ice Hockey (1987).zip
+files:
+- name: BCHECK.IMG
+  size: 6912
+  date: '1980-01-01T00:03:02'
+  crc: '0xb009c813'
+- name: BGOALIE.IMG
+  size: 16848
+  date: '1980-01-01T00:03:08'
+  crc: '0xffd3ce42'
+- name: BPASS.IMG
+  size: 7296
+  date: '1980-01-01T00:02:58'
+  crc: '0x77ab7ca9'
+- name: BSHOOT.IMG
+  size: 24320
+  date: '1980-01-01T00:02:54'
+  crc: '0x82a9985a'
+- name: BSKATE.IMG
+  size: 18848
+  date: '1980-01-01T00:02:44'
+  crc: '0xa7c777bd'
+- name: CREDIT.CGA
+  size: 16384
+  date: '1980-01-01T00:01:54'
+  crc: '0x415a4d62'
+- name: HOCKEY.EXE
+  size: 40138
+  date: '1980-01-01T00:03:18'
+  crc: '0xd21766e6'
+- name: JOY_CNTL.COM
+  size: 4373
+  date: '1980-01-01T00:01:58'
+  crc: '0xcddd790f'
+- name: LEAGUE.COM
+  size: 60289
+  date: '1995-01-06T19:53:18'
+  crc: '0x1d914127'
+- name: PLAY.COM
+  size: 2616
+  date: '1980-01-01T00:04:52'
+  crc: '0x46f46f71'
+- name: PLAY.IMG
+  size: 5760
+  date: '1980-01-01T00:02:36'
+  crc: '0x46459f35'
+- name: REFEREE.IMG
+  size: 2068
+  date: '1980-01-01T00:02:40'
+  crc: '0xf3fbe29d'
+- name: RINK.IMG
+  size: 19200
+  date: '1980-01-01T00:02:32'
+  crc: '0x3a50e583'
+- name: SHL_CUP.CGA
+  size: 16384
+  date: '1980-01-01T00:02:12'
+  crc: '0xcc580e01'
+- name: SHL_CUP.EGA
+  size: 32000
+  date: '1980-01-01T00:02:20'
+  crc: '0x2a2bff7c'
+- name: TITLE.CGA
+  size: 16384
+  date: '1980-01-01T00:01:44'
+  crc: '0x88478ce7'
+- name: TITLE.EGA
+  size: 32000
+  date: '1980-01-01T00:01:50'
+  crc: '0x51313d21'

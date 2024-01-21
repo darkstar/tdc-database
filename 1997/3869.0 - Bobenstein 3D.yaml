@@ -1,0 +1,49 @@
+filename: Bobenstein 3D (Installer) [SWR] (1997)(Stupidsoft) [Action].zip
+tdc_id: '3869.0'
+title:
+  screen: Bobenstein 3D
+publisher: Stupidsoft
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-07-14T16:33:36'
+  last_modified: '2019-07-14T16:33:36'
+type: zip
+tags:
+- SharewareRegistered
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  dosid: DOS15979
+  exodos: Bobenstein 3D (1998).zip
+files:
+- name: B3DINST.OBJ
+  size: 8012
+  date: '1997-10-18T22:29:48'
+  crc: '0xd45b8c10'
+- name: INFO.TXT
+  size: 414
+  date: '1997-08-31T00:33:28'
+  crc: '0x044fb510'
+- name: INSTALL.EXE
+  size: 37620
+  date: '1997-10-18T22:29:50'
+  crc: '0x60c7d68f'
+- name: INSTALL.PIF
+  size: 967
+  date: '1997-12-04T01:16:42'
+  crc: '0xae3535af'
+- name: INSTALL.ZIP
+  size: 1077853
+  date: '1997-10-23T03:48:10'
+  crc: '0xc1445b7b'
+- name: PKUNZIP.EXE
+  size: 29378
+  date: '1993-02-01T02:04:16'
+  crc: '0x00832770'
+- name: VENDINFO.DIZ
+  size: 4831
+  date: '1997-10-23T04:50:02'
+  crc: '0x2a9b2d50'

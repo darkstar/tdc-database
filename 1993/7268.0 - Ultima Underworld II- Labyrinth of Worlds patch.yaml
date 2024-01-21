@@ -1,0 +1,47 @@
+filename: Ultima Underworld II- Labyrinth of Worlds patch (1993)(ORIGIN Systems, Inc.) [Action, Role-Playing (RPG), Addon].zip
+tdc_id: '7268.0'
+title:
+  screen: 'Ultima Underworld II: Labyrinth of Worlds patch'
+publisher: ORIGIN Systems, Inc.
+year: '1993'
+genre:
+- Action
+- Role-Playing (RPG)
+- Addon
+language: English
+date:
+  added: '2019-03-01T21:10:52'
+  last_modified: '2019-03-01T21:10:52'
+type: zip
+patch: true
+files:
+- name: DATA\
+  size: 0
+  date: '2016-09-02T22:12:48'
+- name: DATA\CNV.ARK
+  size: 281657
+  date: '1993-02-05T21:54:04'
+  crc: '0x25743f23'
+- name: DATA\STRINGS.PAK
+  size: 430730
+  date: '1993-02-05T21:53:10'
+  crc: '0x98833299'
+- name: FAQA.TXT
+  size: 9466
+  date: '1993-02-11T15:58:10'
+  crc: '0x271bc422'
+- name: SOUND\
+  size: 0
+  date: '2016-09-02T22:12:48'
+- name: SOUND\DD01.ADV
+  size: 4699
+  date: '1993-02-03T17:05:18'
+  crc: '0xbf339b44'
+- name: SOUND\DD02.ADV
+  size: 4978
+  date: '1993-02-03T17:05:46'
+  crc: '0xb744ee91'
+- name: UW2.EXE
+  size: 675184
+  date: '1993-02-11T15:59:48'
+  crc: '0xc0c97a43'

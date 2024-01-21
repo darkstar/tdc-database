@@ -1,0 +1,32 @@
+filename: JetPac PC v1.10 (2002)(cozza) [Action].zip
+tdc_id: '4821.0'
+title:
+  screen: JetPac PC
+publisher: cozza
+year: '2002'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:56:02'
+  last_modified: '2019-03-02T10:56:02'
+version: '1.10'
+type: zip
+commands:
+  play: jp.exe
+files:
+- name: CWSDPMI.EXE
+  size: 20125
+  date: '2000-10-22T13:55:00'
+  crc: '0x1d1b569c'
+- name: data\jp.dat
+  size: 662155
+  date: '2001-11-17T16:31:50'
+  crc: '0x7a2999ee'
+- name: jp.exe
+  size: 519680
+  date: '2001-11-17T16:23:30'
+  crc: '0x702a6b1b'
+- name: readme.txt
+  size: 5504
+  date: '2001-11-17T16:34:30'
+  crc: '0xd048ed0c'

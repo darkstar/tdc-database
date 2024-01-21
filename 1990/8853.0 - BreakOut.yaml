@@ -1,0 +1,39 @@
+filename: BreakOut (De) (1990)(Ralph Seelig) [Action].zip
+tdc_id: '8853.0'
+title:
+  screen: BreakOut
+publisher: Ralph Seelig
+year: '1990'
+genre: Action
+language: German
+date:
+  added: '2019-03-01T18:31:56'
+  last_modified: '2019-03-01T18:31:56'
+type: zip
+commands:
+  play: BREAKOUT.EXE
+files:
+- name: BREAK4.CGA
+  size: 13887
+  date: '1990-01-24T21:54:46'
+  crc: '0x915448ff'
+- name: BREAK4.EGA
+  size: 21090
+  date: '1990-01-24T21:52:10'
+  crc: '0x4c2e0443'
+- name: BREAK4.SCO
+  size: 130
+  date: '1990-01-30T13:37:16'
+  crc: '0xea0f5a5b'
+- name: BREAKOUT.EXE
+  size: 59552
+  date: '1990-01-24T21:17:02'
+  crc: '0x66805731'
+- name: DER.CGA
+  size: 4081
+  date: '1990-01-24T20:34:24'
+  crc: '0xffbde70f'
+- name: DER.EGA
+  size: 5968
+  date: '1990-01-24T20:33:56'
+  crc: '0xb434c47c'

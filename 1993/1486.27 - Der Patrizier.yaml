@@ -1,0 +1,30 @@
+filename: Patrizier, Der CD (De) (1993)(Ascon GmbH) [ccd].zip
+tdc_id: '1486.27'
+title:
+  box: Der Patrizier
+publisher: Ascon GmbH
+year: '1993'
+genre: ccd
+language: German
+date:
+  added: '2023-02-18T19:55:33'
+  last_modified: '2023-02-18T19:55:33'
+type: ccd
+media: CD-ROM
+audio:
+- CD-DA
+references:
+  mobygames: https://www.mobygames.com/game/dos/patrician
+files:
+- name: cd.ccd
+  size: 959
+  date: '1999-12-31T18:00:00'
+  crc: '0x408499be'
+- name: cd.img
+  size: 318855936
+  date: '1999-12-31T18:00:00'
+  crc: '0x07dcfefa'
+- name: cd.sub
+  size: 13014528
+  date: '1999-12-31T18:00:00'
+  crc: '0x891c5af6'

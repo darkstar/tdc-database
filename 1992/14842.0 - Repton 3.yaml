@@ -1,0 +1,65 @@
+filename: Repton 3 (1992)(CDV Software) [Strategy, Action].zip
+tdc_id: '14842.0'
+title:
+  screen: Repton 3
+publisher: CDV Software
+year: '1992'
+genre:
+- Strategy
+- Action
+language: English
+date:
+  added: '2019-03-01T18:50:16'
+  last_modified: '2019-03-01T18:50:16'
+type: zip
+commands:
+  play: REPTON.EXE
+files:
+- name: AMERICA.MAZ
+  size: 6768
+  date: '1992-05-24T14:00:00'
+  crc: '0x8f76d1e0'
+- name: ARCTIC.MAZ
+  size: 6768
+  date: '1992-05-24T07:30:00'
+  crc: '0xdcfa26b1'
+- name: FRONT.SCN
+  size: 4000
+  date: '1992-05-24T07:30:00'
+  crc: '0x14148846'
+- name: OBJECTS.DAT
+  size: 4947
+  date: '1992-05-24T07:30:00'
+  crc: '0xd1d4fecb'
+- name: PRELUDE.MAZ
+  size: 6768
+  date: '1992-05-24T07:30:00'
+  crc: '0x83e472ff'
+- name: README.DOC
+  size: 2884
+  date: '2023-04-29T14:23:02'
+  crc: '0xf4e53211'
+- name: REPTON.EXE
+  size: 267860
+  date: '1992-05-24T07:30:00'
+  crc: '0x0408012b'
+- name: REPTON.HLP
+  size: 4378
+  date: '1992-05-24T07:30:00'
+  crc: '0xe0aec485'
+- name: RPFMAP.FNT
+  size: 1596
+  date: '1992-05-24T07:30:00'
+  crc: '0xa4bd6d4b'
+- name: RPFMAZE.FNT
+  size: 1485
+  date: '1992-05-24T07:30:00'
+  crc: '0xb385686a'
+- name: RPFTEXT.FNT
+  size: 2064
+  date: '1992-05-24T07:30:00'
+  crc: '0x5254d8cc'
+- name: STATUS.SCN
+  size: 4000
+  date: '1992-05-24T07:30:00'
+  crc: '0x111d2018'

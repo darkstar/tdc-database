@@ -1,0 +1,43 @@
+filename: Xargon I- Beyond Reality v3.0 (Installer) [SWR] (1993)(Epic MegaGames, Inc.) [Action].zip
+tdc_id: '15859.0'
+title:
+  screen: 'Xargon I: Beyond Reality'
+publisher: Epic MegaGames, Inc.
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T21:12:40'
+  last_modified: '2019-03-01T21:12:40'
+version: '3.0'
+type: zip
+tags:
+- SharewareRegistered
+installer: true
+commands:
+  play: GO.EXE
+files:
+- name: GO.EXE
+  size: 22992
+  date: '1994-09-27T17:59:22'
+  crc: '0x7dc57a44'
+- name: INSTALL.BIN
+  size: 4000
+  date: '1994-09-02T17:00:36'
+  crc: '0x201e41ae'
+- name: INSTALL.DAT
+  size: 16
+  date: '1994-09-02T14:06:12'
+  crc: '0x0f845356'
+- name: INSTALL.PCX
+  size: 5075
+  date: '1994-09-27T17:01:32'
+  crc: '0x29b5bbf2'
+- name: XAR1.X00
+  size: 82
+  date: '1994-09-02T14:06:14'
+  crc: '0x77839004'
+- name: XAR1.Z01
+  size: 524730
+  date: '1994-09-02T14:05:56'
+  crc: '0x385aba9b'

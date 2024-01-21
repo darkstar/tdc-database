@@ -1,0 +1,30 @@
+filename: Tiao Ch'i- The Chinese Checker Champion (1983)(MicroClassic) [Strategy].zip
+tdc_id: '1089.0'
+title:
+  screen: 'Tiao Ch''i: The Chinese Checker Champion'
+publisher: MicroClassic
+year: '1983'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:23:22'
+  last_modified: '2019-03-01T18:23:22'
+type: zip
+commands:
+  play: TIAOCHI.EXE
+references:
+  dosid: DOS07660
+  exodos: Tiao Ch'i (1983).zip
+files:
+- name: BOARD.SCR
+  size: 16512
+  date: '1983-09-24T13:29:54'
+  crc: '0x23a8f700'
+- name: TIAOCHI.EXE
+  size: 40704
+  date: '1983-10-25T23:39:24'
+  crc: '0xc9b0d10f'
+- name: TITLE.SCR
+  size: 16432
+  date: '1983-09-24T13:27:02'
+  crc: '0x2d77f626'

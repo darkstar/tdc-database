@@ -1,0 +1,39 @@
+filename: Arctic Adventure Volume 1 v2.0 [SW] (1991)(Apogee Software, Ltd.) [Action].zip
+tdc_id: '8739.4'
+parent_id: '8739.1'
+title:
+  screen: Arctic Adventure Volume 1
+publisher: Apogee Software, Ltd.
+year: '1991'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:34:52'
+  last_modified: '2019-03-01T18:34:52'
+version: '2.0'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: AA1.EXE
+references:
+  dosid: DOS00837
+  exodos: Arctic Adventure (1991).zip
+files:
+- name: AA1.EXE
+  size: 64707
+  date: '1991-05-01T13:00:54'
+  crc: '0x76531b31'
+- name: AA1.MAP
+  size: 5372
+  date: '1991-05-01T13:00:30'
+  crc: '0xaac6dc34'
+- name: AA1.MNU
+  size: 6462
+  date: '1991-05-01T13:00:50'
+  crc: '0x9b4957e6'
+- name: AA1.PIX
+  size: 4848
+  date: '1991-05-01T13:00:36'
+  crc: '0xae9b9c5e'

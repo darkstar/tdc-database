@@ -1,0 +1,28 @@
+filename: Seal Team (demo) (Installer) (1993)(Electronic Arts, Inc.) [Simulation].zip
+tdc_id: '14968.2'
+title:
+  screen: Seal Team
+  qualifier: demo
+publisher: Electronic Arts, Inc.
+year: '1993'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T19:18:32'
+  last_modified: '2019-03-01T19:18:32'
+type: zip
+installer: true
+demo: true
+files:
+- name: INSTALL.BAT
+  size: 4786
+  date: '1993-08-11T16:00:18'
+  crc: '0x42f97700'
+- name: README.BAT
+  size: 34
+  date: '1993-08-18T11:48:02'
+  crc: '0x00f8faa5'
+- name: STDEMO.EXE
+  size: 1379538
+  date: '1993-08-11T17:37:00'
+  crc: '0x29662639'

@@ -1,0 +1,51 @@
+filename: Breakout (Nl) (1999)(Willems Soft) [Action].zip
+tdc_id: '8857.0'
+title:
+  screen: Breakout
+publisher: Willems Soft
+year: '1999'
+genre: Action
+language: Dutch
+date:
+  added: '2021-04-01T13:36:00'
+  last_modified: '2021-04-01T13:36:00'
+type: zip
+commands:
+  play: BREAKOUT.EXE
+files:
+- name: BAL.SPR
+  size: 27
+  date: '1998-05-05T22:54:16'
+  crc: '0xfcff63d1'
+- name: BALK.SPR
+  size: 182
+  date: '1998-04-24T17:02:04'
+  crc: '0xd5964437'
+- name: BLOKB.SPR
+  size: 202
+  date: '1999-04-08T00:26:10'
+  crc: '0xabe4879f'
+- name: BLOKG.SPR
+  size: 202
+  date: '1999-04-08T00:25:22'
+  crc: '0x882e0ed3'
+- name: BLOKGOUD.SPR
+  size: 202
+  date: '1999-04-08T00:29:40'
+  crc: '0x73b871d7'
+- name: BLOKR.SPR
+  size: 202
+  date: '1999-04-08T00:24:20'
+  crc: '0x860a376b'
+- name: BLOKZIL.SPR
+  size: 202
+  date: '1999-04-08T00:27:16'
+  crc: '0xc2162b9d'
+- name: BREAKOUT.EXE
+  size: 13776
+  date: '1999-04-08T13:19:14'
+  crc: '0xf86dd237'
+- name: breakout.txt
+  size: 371
+  date: '2003-12-22T09:13:48'
+  crc: '0x22ee7bc1'

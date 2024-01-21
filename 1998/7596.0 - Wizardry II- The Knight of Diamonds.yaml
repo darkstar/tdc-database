@@ -1,0 +1,33 @@
+filename: Wizardry II- The Knight of Diamonds [DC] (1998)(Sir-tech Software, Inc.) [Role-Playing (RPG)].zip
+tdc_id: '7596.0'
+title:
+  box: 'Wizardry II: The Knight of Diamonds'
+publisher: Sir-tech Software, Inc.
+year: '1998'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-02T10:45:06'
+  last_modified: '2019-03-02T10:45:06'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: WIZ2.COM
+references:
+  dosid: DOS06005
+  exodos: Wizardry II - The Knight of Diamonds (1982).zip
+notes: ' **missing** original 1985 release, not 1987 re-release, if it exists'
+files:
+- name: SAVE2.DSK
+  size: 655360
+  date: '1998-09-29T07:21:52'
+  crc: '0x59009ed4'
+- name: WIZ2.COM
+  size: 1972
+  date: '1998-09-01T10:03:00'
+  crc: '0xbe5d6d9e'
+- name: WIZ2.DSK
+  size: 327680
+  date: '1998-07-09T09:29:04'
+  crc: '0x964c5ac1'

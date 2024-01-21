@@ -1,0 +1,40 @@
+filename: Galactic Encounters v2.1 (1982)(Micro Productions, Inc.) [Strategy, Simulation].zip
+tdc_id: '1012.0'
+parent_id: '1012.2'
+title:
+  box: Galactic Encounters
+publisher: Micro Productions, Inc.
+year: '1982'
+genre:
+- Strategy
+- Simulation
+language: English
+date:
+  added: '2019-03-01T18:23:00'
+  last_modified: '2019-03-01T18:23:00'
+version: '2.1'
+type: zip
+references:
+  dosid: DOS06854
+  exodos: Galactic Encounters (1982).zip
+files:
+- name: AUTOEXEC.BAT
+  size: 128
+  date: '1982-10-11T12:23:00'
+  crc: '0x9ffbf806'
+- name: GEGAM.BAS
+  size: 4864
+  date: '1982-11-01T12:08:12'
+  crc: '0xfa381abf'
+- name: GEOVR.BAS
+  size: 16000
+  date: '1982-11-01T12:08:56'
+  crc: '0x90c78b38'
+- name: MESSAGE
+  size: 256
+  date: '1982-10-11T12:22:14'
+  crc: '0x0f69697b'
+- name: UPDATE.BAT
+  size: 128
+  date: '1982-10-11T12:17:56'
+  crc: '0x5de1d229'

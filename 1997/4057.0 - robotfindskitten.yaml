@@ -1,0 +1,27 @@
+filename: robotfindskitten v1600000.200 (1997)(Leonard Richardson) [Adventure].zip
+tdc_id: '4057.0'
+title:
+  screen: robotfindskitten
+publisher: Leonard Richardson
+year: '1997'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-02T10:37:12'
+  last_modified: '2019-03-02T10:37:12'
+version: '1600000.200'
+type: zip
+commands:
+  play: robot.dos.exe
+references:
+  dosid: DOS04338
+  exodos: robotfindskitten (1997).zip
+files:
+- name: robot.dos.cpp
+  size: 15470
+  date: '2001-02-24T16:14:14'
+  crc: '0x3780a517'
+- name: robot.dos.exe
+  size: 56585
+  date: '2001-02-24T16:14:08'
+  crc: '0x25b32b98'

@@ -1,0 +1,31 @@
+filename: New Proto Chess System, The v2.00 (1997)(S.D.C. Corporation) [Strategy, Chess].zip
+tdc_id: '9893.0'
+title:
+  screen: The New Proto Chess System
+publisher: S.D.C. Corporation
+year: '1997'
+genre:
+- Strategy
+- Chess
+language: English
+date:
+  added: '2019-03-02T10:35:58'
+  last_modified: '2019-03-02T10:35:58'
+version: '2.00'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 26
+  date: '2018-11-20T11:29:04'
+  crc: '0x85f558cd'
+- name: NEWENG.BAS
+  size: 114959
+  date: '1997-11-10T21:53:06'
+  crc: '0x237a519f'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'

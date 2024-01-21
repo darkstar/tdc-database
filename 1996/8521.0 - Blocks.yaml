@@ -1,0 +1,33 @@
+filename: Blocks (1996)(Peter Swinkels) [Strategy, Action].zip
+tdc_id: '8521.0'
+title:
+  screen: Blocks
+publisher: Peter Swinkels
+year: '1996'
+genre:
+- Strategy
+- Action
+language: English
+date:
+  added: '2019-03-02T10:00:08'
+  last_modified: '2019-03-02T10:00:08'
+type: zip
+commands:
+  play: GO.BAT
+files:
+- name: BLOCKS.BAS
+  size: 7792
+  date: '2002-11-12T16:09:36'
+  crc: '0x82b63ab7'
+- name: GO.BAT
+  size: 22
+  date: '2018-03-06T13:29:28'
+  crc: '0xc5984ffb'
+- name: QB.EXE
+  size: 278804
+  date: '2016-03-12T18:19:58'
+  crc: '0xb08bc0fe'
+- name: TITLE.DAT
+  size: 176
+  date: '2002-10-13T08:16:22'
+  crc: '0x5cd16e8f'

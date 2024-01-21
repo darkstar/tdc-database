@@ -1,0 +1,148 @@
+filename: Alien Assault v1.0 (1997)(Johan Peitz, Crowfoot Software) [Action].zip
+tdc_id: '3840.0'
+title:
+  screen: Alien Assault
+publisher: Johan Peitz, Crowfoot Software
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2018-03-03T14:21:30'
+  last_modified: '2018-03-03T14:21:30'
+version: '1.0'
+type: zip
+media: Download
+commands:
+  play: ALIEN.EXE
+references:
+  dosid: DOS15210
+  exodos: Alien Assault (1997).zip
+files:
+- name: ALIEN.CFG
+  size: 2
+  date: '1998-10-18T17:27:06'
+  crc: '0x41d912ff'
+- name: ALIEN.EXE
+  size: 120494
+  date: '1997-02-06T23:34:38'
+  crc: '0x21d036c5'
+- name: BLOCKS.ICN
+  size: 48768
+  date: '1997-02-06T17:22:44'
+  crc: '0xfbbf615e'
+- name: CROWFOOT.ECI
+  size: 18864
+  date: '1996-05-20T22:00:36'
+  crc: '0x87afbb96'
+- name: FILE_ID.DIZ
+  size: 391
+  date: '1998-10-18T17:26:00'
+  crc: '0x459db00a'
+- name: GAMEOVER.CEL
+  size: 64800
+  date: '1997-02-05T19:25:32'
+  crc: '0x973d77e6'
+- name: GAMEOVER.ECI
+  size: 14115
+  date: '1997-02-05T19:25:40'
+  crc: '0xe0d48b3e'
+- name: LEVEL1.DAT
+  size: 2000
+  date: '1996-08-08T14:25:20'
+  crc: '0x7bb171a8'
+- name: LEVEL1.EQU
+  size: 1600
+  date: '1997-01-05T17:41:06'
+  crc: '0x4577a791'
+- name: LEVEL1.MAP
+  size: 1600
+  date: '1997-02-06T17:23:10'
+  crc: '0x0d06b9c8'
+- name: LEVEL1.STA
+  size: 4
+  date: '1997-02-06T17:23:10'
+  crc: '0x020766ff'
+- name: LEVEL2.DAT
+  size: 2000
+  date: '1996-12-10T18:01:14'
+  crc: '0x696b0a0b'
+- name: LEVEL2.EQU
+  size: 1600
+  date: '1996-12-10T18:03:12'
+  crc: '0xfdbe6ac1'
+- name: LEVEL2.MAP
+  size: 1600
+  date: '1997-02-06T17:23:42'
+  crc: '0xcbbd0eaf'
+- name: LEVEL2.STA
+  size: 4
+  date: '1997-02-06T17:23:42'
+  crc: '0x80889f1e'
+- name: LEVEL3.DAT
+  size: 2000
+  date: '1997-02-06T23:01:00'
+  crc: '0x2df610ef'
+- name: LEVEL3.EQU
+  size: 1600
+  date: '1997-02-06T22:57:42'
+  crc: '0xde5b1a77'
+- name: LEVEL3.MAP
+  size: 1600
+  date: '1997-02-06T23:02:10'
+  crc: '0xb503186d'
+- name: LEVEL3.STA
+  size: 4
+  date: '1997-02-06T23:02:10'
+  crc: '0x020766ff'
+- name: LEVEL4.DAT
+  size: 2000
+  date: '1997-02-06T23:32:38'
+  crc: '0x47ef47d1'
+- name: LEVEL4.EQU
+  size: 1600
+  date: '1997-02-06T23:30:34'
+  crc: '0x30412ef0'
+- name: LEVEL4.MAP
+  size: 1600
+  date: '1997-02-06T23:19:22'
+  crc: '0xc9e9f0c9'
+- name: LEVEL4.STA
+  size: 4
+  date: '1997-02-06T23:19:22'
+  crc: '0x020766ff'
+- name: OBJECTS.ICN
+  size: 48768
+  date: '1997-02-06T17:22:42'
+  crc: '0x5f6f60af'
+- name: OPTIONS.CEL
+  size: 20000
+  date: '1997-02-02T20:20:06'
+  crc: '0x3a2d951f'
+- name: OPTIONS.ECI
+  size: 26655
+  date: '1997-02-02T17:04:20'
+  crc: '0xa6e5ccc4'
+- name: PLAYER.ICN
+  size: 48768
+  date: '1997-01-08T16:21:22'
+  crc: '0xdd6fe3eb'
+- name: PRESENTS.ECI
+  size: 18159
+  date: '1996-05-20T22:00:42'
+  crc: '0x79e70e75'
+- name: README.TXT
+  size: 2562
+  date: '1998-10-18T17:20:52'
+  crc: '0x962f2f79'
+- name: SYSTEM.FNT
+  size: 6912
+  date: '1997-01-06T00:23:54'
+  crc: '0xe350e553'
+- name: TITLE.CEL
+  size: 64800
+  date: '1997-02-06T22:39:26'
+  crc: '0xca99cdd7'
+- name: WELLDONE.CEL
+  size: 64800
+  date: '1997-02-06T16:53:50'
+  crc: '0xbae877fb'

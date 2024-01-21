@@ -1,0 +1,33 @@
+filename: Wordmix v1.3 [SW] (1990)(Blanchard Software) [Strategy, Puzzle].zip
+tdc_id: '15957.1'
+title:
+  screen: Wordmix
+publisher: Blanchard Software
+year: '1990'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-03-01T18:34:34'
+  last_modified: '2019-03-01T18:34:34'
+version: '1.3'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: WMX.EXE
+files:
+- name: README.WMX
+  size: 1280
+  date: '1991-05-17T07:38:48'
+  crc: '0x93654a33'
+- name: WMX.DOC
+  size: 8350
+  date: '1991-05-23T09:56:06'
+  crc: '0x07ba3a63'
+- name: WMX.EXE
+  size: 61924
+  date: '1991-05-27T09:27:14'
+  crc: '0xdc7e10fe'

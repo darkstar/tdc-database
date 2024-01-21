@@ -1,0 +1,35 @@
+filename: Kings Quest v1.02 (1998)(Joe Burke) [Adventure, Interactive Fiction].zip
+tdc_id: '11813.1'
+title:
+  screen: Kings Quest
+publisher: Joe Burke
+year: '1998'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T10:41:52'
+  last_modified: '2019-03-02T10:41:52'
+version: '1.02'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: FAQ.html
+  size: 5467
+  date: '1998-02-01T12:45:46'
+  crc: '0x7b855176'
+- name: GO.BAT
+  size: 28
+  date: '2018-11-21T13:23:56'
+  crc: '0x8dbb1780'
+- name: KingsMurder quest.bas
+  size: 129493
+  date: '1998-02-01T10:20:02'
+  crc: '0x9d80fca5'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'

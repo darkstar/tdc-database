@@ -1,0 +1,30 @@
+filename: Druglord v2.0 [SW] (1992)(FantasyWare, Inc.) [Simulation].zip
+tdc_id: '2239.0'
+title:
+  screen: Druglord
+publisher: FantasyWare, Inc.
+year: '1992'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:42:32'
+  last_modified: '2019-03-01T18:42:32'
+version: '2.0'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: DRUGLORD.EXE
+references:
+  dosid: DOS01897
+  exodos: Druglord (1991).zip
+files:
+- name: DRUGLORD.DOC
+  size: 12467
+  date: '1992-02-08T18:05:30'
+  crc: '0x7137ddd4'
+- name: DRUGLORD.EXE
+  size: 67988
+  date: '1992-02-08T16:31:12'
+  crc: '0xb76c6dc5'

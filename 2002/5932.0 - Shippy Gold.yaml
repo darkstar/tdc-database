@@ -1,0 +1,67 @@
+filename: Shippy Gold (2002)(Ryan Broomfield) [Action].zip
+tdc_id: '5932.0'
+title:
+  screen: Shippy Gold
+publisher: Ryan Broomfield
+year: '2002'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:56:12'
+  last_modified: '2019-03-02T10:56:12'
+type: zip
+commands:
+  play: shipex.EXE
+files:
+- name: DOOP.PUT
+  size: 415
+  date: '2002-01-23T23:15:24'
+  crc: '0x5b6ee191'
+- name: FONTG.PUT
+  size: 3847
+  date: '2002-03-12T10:08:58'
+  crc: '0xeae299f7'
+- name: GAME.PAL
+  size: 768
+  date: '2001-10-06T14:10:16'
+  crc: '0x40fb8f26'
+- name: GAME.PUT
+  size: 1047
+  date: '2002-01-19T03:19:12'
+  crc: '0xa58d9dc4'
+- name: HOLDER.PUT
+  size: 1167
+  date: '2002-01-19T03:25:30'
+  crc: '0x7f7e71cf'
+- name: SPLO.PUT
+  size: 16455
+  date: '2002-01-23T22:32:48'
+  crc: '0x1381149d'
+- name: Ship1.put
+  size: 787
+  date: '2002-01-14T22:50:52'
+  crc: '0x082d3164'
+- name: TITLE.IMG
+  size: 64007
+  date: '2002-04-12T04:23:10'
+  crc: '0x981926cb'
+- name: TITLE.PAL
+  size: 768
+  date: '2002-04-12T04:23:10'
+  crc: '0x7b01cda5'
+- name: font.put
+  size: 3847
+  date: '2002-01-19T05:04:08'
+  crc: '0x35c592e7'
+- name: readme.txt
+  size: 1074
+  date: '2002-01-24T01:04:44'
+  crc: '0x54819c68'
+- name: shipex.EXE
+  size: 92566
+  date: '2002-04-12T05:21:00'
+  crc: '0xa4804181'
+- name: whatsnew.txt
+  size: 1159
+  date: '2002-01-18T23:05:42'
+  crc: '0x5fc82d12'

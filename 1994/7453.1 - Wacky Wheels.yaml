@@ -1,0 +1,37 @@
+filename: Wacky Wheels v1.1 (Installer) [SW][a1] (1994)(Apogee Software, Ltd.) [Action].zip
+tdc_id: '7453.1'
+title:
+  screen: Wacky Wheels
+publisher: Apogee Software, Ltd.
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T07:19:24'
+  last_modified: '2019-03-02T07:19:24'
+version: '1.1'
+type: zip
+tags:
+- Shareware
+- Alternate: 1
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 494
+  date: '1994-10-17T13:10:00'
+  crc: '0x54882760'
+- name: INSTALL.EXE
+  size: 34152
+  date: '1994-10-17T13:10:00'
+  crc: '0x8113bfbb'
+- name: WW1_BBS._1
+  size: 818176
+  date: '1994-10-17T13:10:00'
+  crc: '0x32b31801'
+- name: WW1_BBS._2
+  size: 817139
+  date: '1994-10-17T13:10:00'
+  crc: '0x1db0bbc0'

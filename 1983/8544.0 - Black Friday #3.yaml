@@ -1,0 +1,32 @@
+filename: 'Black Friday #3 (1983)(International PC Owners) [Strategy, Simulation].zip'
+tdc_id: '8544.0'
+title:
+  screen: 'Black Friday #3'
+publisher: International PC Owners
+year: '1983'
+genre:
+- Strategy
+- Simulation
+language: English
+date:
+  added: '2019-03-01T18:23:08'
+  last_modified: '2019-03-01T18:23:08'
+type: zip
+commands:
+  play: BLKFRDY.BAT
+references:
+  dosid: DOS06744
+  exodos: Black Friday 3 (1983).zip
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: BLKFRDY.BAS
+  size: 11264
+  date: '1983-10-30T14:14:20'
+  crc: '0x6782e8ee'
+- name: BLKFRDY.BAT
+  size: 16
+  date: '2014-12-01T01:29:46'
+  crc: '0x399908df'

@@ -1,0 +1,64 @@
+filename: Stack Up (1993)(Zeppelin Games Limited) [Action, Strategy].zip
+tdc_id: '15475.0'
+title:
+  box: Stack Up
+publisher: Zeppelin Games Limited
+year: '1993'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T21:08:38'
+  last_modified: '2019-03-01T21:08:38'
+type: zip
+commands:
+  play: STACKUP.EXE
+references:
+  dosid: DOS04794
+  exodos: Stack Up (1993).zip
+files:
+- name: BCHARS.BIN
+  size: 24480
+  date: '1993-03-19T16:59:44'
+  crc: '0x669e63d7'
+- name: BEEPER.BIN
+  size: 1595
+  date: '1993-04-22T08:53:32'
+  crc: '0x43f37a35'
+- name: BGROUND.BIN
+  size: 256
+  date: '1993-03-30T10:43:40'
+  crc: '0x1024abd7'
+- name: LOADER.LBM
+  size: 17666
+  date: '1994-09-19T15:43:18'
+  crc: '0xb25bba2a'
+- name: MAINSCR.LBM
+  size: 21480
+  date: '1993-11-03T11:07:10'
+  crc: '0x697fb368'
+- name: SB.MUS
+  size: 54636
+  date: '1993-04-28T23:02:08'
+  crc: '0x83603d77'
+- name: SCHARS.BIN
+  size: 512
+  date: '1993-03-22T11:04:12'
+  crc: '0x1d62fcaa'
+- name: SPRITES.BIN
+  size: 23040
+  date: '1993-04-30T00:43:56'
+  crc: '0xab33f65c'
+- name: STACKUP.EXE
+  size: 49842
+  date: '1993-11-02T11:15:50'
+  crc: '0x2371b5f4'
+- name: TITLESCR.LBM
+  size: 10122
+  date: '1993-11-03T11:07:10'
+  crc: '0x489aa149'
+- name: TITLESPR.BIN
+  size: 3840
+  date: '1993-03-22T12:22:04'
+  crc: '0xa6bd5b90'

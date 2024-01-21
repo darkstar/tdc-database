@@ -1,0 +1,30 @@
+filename: Amnesia [DC] (1986)(Electronic Arts, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '8329.0'
+title:
+  box: Amnesia
+publisher: Electronic Arts, Inc.
+year: '1986'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:24:40'
+  last_modified: '2019-03-01T18:24:40'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: AMNESIA.COM
+references:
+  dosid: DOS05830
+  exodos: Amnesia (1986).zip
+files:
+- name: AMNESIA.COM
+  size: 8448
+  date: '1996-09-19T19:51:36'
+  crc: '0x5e5fa7b1'
+- name: AMNESIA.DAT
+  size: 737280
+  date: '1996-09-19T19:52:36'
+  crc: '0x4472b82d'

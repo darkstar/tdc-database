@@ -1,0 +1,38 @@
+filename: Laser Light v1.11r [FW] (1998)(Pixel Painters Corporation) [Strategy].zip
+tdc_id: '6285.3'
+title:
+  screen: Laser Light
+publisher: Pixel Painters Corporation
+year: '1998'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T08:56:26'
+  last_modified: '2019-03-02T08:56:26'
+version: 1.11r
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: LL.EXE
+references:
+  dosid: DOS03082
+  exodos: Laser Light (1994).zip
+files:
+- name: LICENSE.TXT
+  size: 3905
+  date: '1998-03-31T19:00:00'
+  crc: '0x448b648b'
+- name: LL.EXE
+  size: 94192
+  date: '1995-02-25T07:11:20'
+  crc: '0x437a5eeb'
+- name: LL.RES
+  size: 830170
+  date: '1995-02-25T07:11:34'
+  crc: '0xa15038bd'
+- name: LLSTUFF.DAT
+  size: 1368
+  date: '2012-06-12T20:57:32'
+  crc: '0x1dcef5cb'

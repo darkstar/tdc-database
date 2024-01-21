@@ -1,0 +1,36 @@
+filename: Operation Hormuz (1989)(Avantage Software) [Action, Simulation].zip
+tdc_id: '14637.0'
+title:
+  screen: Operation Hormuz
+publisher: Avantage Software
+year: '1989'
+genre:
+- Action
+- Simulation
+language: English
+date:
+  added: '2019-03-01T18:28:34'
+  last_modified: '2019-03-01T18:28:34'
+type: zip
+commands:
+  play: HARRIER.EXE
+references:
+  dosid: DOS02550
+  exodos: Harrier 7 (1989).zip
+files:
+- name: HARRIER.EXE
+  size: 63381
+  date: '2012-10-09T22:35:14'
+  crc: '0x7fbd3cf9'
+- name: HARRIER.EX_
+  size: 63381
+  date: '1989-07-10T13:27:54'
+  crc: '0x4e03ab07'
+- name: HARRIER.SCR
+  size: 256
+  date: '1989-03-29T22:27:02'
+  crc: '0xc8fad273'
+- name: HORMUZ.SCR
+  size: 256
+  date: '2008-09-28T02:27:54'
+  crc: '0xd0e03ba0'

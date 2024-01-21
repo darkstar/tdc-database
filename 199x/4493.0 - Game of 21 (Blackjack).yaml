@@ -1,0 +1,29 @@
+filename: Game of 21 (Blackjack) (199x)(Douglas Hergert) [Strategy, Cards].zip
+tdc_id: '4493.0'
+title:
+  screen: Game of 21 (Blackjack)
+publisher: Douglas Hergert
+year: 199x
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-02T10:47:20'
+  last_modified: '2019-03-02T10:47:20'
+type: zip
+commands:
+  play: GO.BAT
+files:
+- name: BJACK.BAS
+  size: 17987
+  date: '2018-03-09T18:33:46'
+  crc: '0xb3d0ea0a'
+- name: GO.BAT
+  size: 25
+  date: '2018-03-11T00:50:52'
+  crc: '0x65d6e940'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'

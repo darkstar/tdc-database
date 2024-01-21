@@ -1,0 +1,30 @@
+filename: Empire- The Wargame of the Century v5.00RB Release 1.1 [o1] (1985)(Jim and Dave Beveridge) [Strategy].zip
+tdc_id: '13455.1'
+title:
+  screen: 'Empire: The Wargame of the Century'
+publisher: Jim and Dave Beveridge
+year: '1985'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:24:24'
+  last_modified: '2019-03-01T18:24:24'
+version: 5.00RB
+type: zip
+tags:
+- Overdump: 1
+commands:
+  play: EMPIRE.EXE
+files:
+- name: EMPIRE.DAT
+  size: 4400
+  date: '1980-01-01T01:49:10'
+  crc: '0x0b925b01'
+- name: EMPIRE.DOC
+  size: 15367
+  date: '1985-08-29T16:11:28'
+  crc: '0x827af25a'
+- name: EMPIRE.EXE
+  size: 104576
+  date: '1985-07-07T14:36:18'
+  crc: '0xc37bc57f'

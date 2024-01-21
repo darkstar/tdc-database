@@ -1,0 +1,36 @@
+filename: D.R.E.D. Attack! (1989)(Gold Coast Software) [Adventure, Interactive Fiction].zip
+tdc_id: '12890.0'
+title:
+  screen: D.R.E.D. Attack!
+publisher: Gold Coast Software
+year: '1989'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:27:34'
+  last_modified: '2019-03-01T18:27:34'
+type: zip
+commands:
+  play: DA.EXE
+references:
+  dosid: DOS00041
+  exodos: D.R.E.D. Attack! (1989).zip
+files:
+- name: DA.000
+  size: 16456
+  date: '1989-02-01T01:17:46'
+  crc: '0x33470b26'
+- name: DA.EXE
+  size: 108713
+  date: '1989-02-05T02:45:00'
+  crc: '0x4203321d'
+- name: DRED.DOC
+  size: 1846
+  date: '1989-02-05T03:14:58'
+  crc: '0x421179e2'
+- name: GCS.000
+  size: 16456
+  date: '1989-02-01T10:15:16'
+  crc: '0x0f544f7f'

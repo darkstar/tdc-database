@@ -1,0 +1,49 @@
+filename: Super Ball! [SW] (1992)(Raoul Said) [Action].zip
+tdc_id: '16253.0'
+title:
+  screen: Super Ball!
+publisher: Raoul Said
+year: '1992'
+genre: Action
+language: English
+date:
+  added: '2019-07-14T20:24:20'
+  last_modified: '2019-07-14T20:24:20'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: SB.EXE
+references:
+  dosid: DOS04936
+  exodos: Super Ball! (1992).zip
+files:
+- name: HIGH.SCR
+  size: 105
+  date: '1992-06-05T12:45:44'
+  crc: '0xb3147b8f'
+- name: P.DAT
+  size: 74743
+  date: '1992-05-26T11:08:48'
+  crc: '0xc842fb47'
+- name: PAL.DAT
+  size: 768
+  date: '1992-01-15T16:41:22'
+  crc: '0x4c755239'
+- name: README
+  size: 1561
+  date: '1992-06-05T12:17:44'
+  crc: '0x1b5b6241'
+- name: SB.EXE
+  size: 115845
+  date: '1992-06-05T01:43:22'
+  crc: '0x0609d9f4'
+- name: SB.SCR
+  size: 252
+  date: '1992-06-05T12:45:44'
+  crc: '0xd0257548'
+- name: V.DAT
+  size: 13242
+  date: '1992-05-24T01:01:50'
+  crc: '0x4b09974f'

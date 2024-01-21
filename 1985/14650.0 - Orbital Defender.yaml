@@ -1,0 +1,29 @@
+filename: Orbital Defender v5.1.1 (1985)(Emerald Valley Publishing Co.) [Action].zip
+tdc_id: '14650.0'
+title:
+  screen: Orbital Defender
+publisher: Emerald Valley Publishing Co.
+year: '1985'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:30'
+  last_modified: '2019-03-01T18:24:30'
+version: 5.1.1
+type: zip
+media: Download
+commands:
+  play: PLAY.BAT
+files:
+- name: DEFENDER.BAS
+  size: 11136
+  date: '1985-12-31T10:01:22'
+  crc: '0x4f1bfc78'
+- name: GWBASIC.EXE
+  size: 80608
+  date: '2011-09-17T12:28:46'
+  crc: '0x2a44af39'
+- name: PLAY.BAT
+  size: 18
+  date: '2011-09-17T12:29:02'
+  crc: '0xf78cc7cd'

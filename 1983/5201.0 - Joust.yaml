@@ -1,0 +1,25 @@
+filename: Joust [DC][h1] (1983)(Atarisoft) [Action].zip
+tdc_id: '5201.0'
+title:
+  box: Joust
+publisher: Atarisoft
+year: '1983'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:23:14'
+  last_modified: '2019-03-01T18:23:14'
+type: zip
+tags:
+- DOSConversion
+- Hack: 1
+commands:
+  play: JOUST.COM
+references:
+  dosid: DOS05915
+  exodos: Joust (1983).zip
+files:
+- name: JOUST.COM
+  size: 61440
+  date: '1986-04-02T13:28:52'
+  crc: '0x178014cb'

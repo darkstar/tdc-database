@@ -1,0 +1,27 @@
+filename: Commander Keen in Invasion of the Vorticons- Episode One to Three v1.31 (Installer) [a2] (1991)(Apogee Software, Ltd.) [Action].zip
+tdc_id: '9331.2'
+title:
+  screen: 'Commander Keen in Invasion of the Vorticons: Episode One to Three'
+publisher: Apogee Software, Ltd.
+year: '1991'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:35:18'
+  last_modified: '2019-03-01T18:35:18'
+version: '1.31'
+type: zip
+tags:
+- Alternate: 2
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: CKVR131.SHR
+  size: 499219
+  date: '1998-07-24T13:29:36'
+  crc: '0xbd72eadf'
+- name: INSTALL.EXE
+  size: 142175
+  date: '1998-07-24T13:28:42'
+  crc: '0x9eb07db8'

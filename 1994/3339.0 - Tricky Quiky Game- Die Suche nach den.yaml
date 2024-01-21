@@ -1,0 +1,36 @@
+filename: Tricky Quiky Game- Die Suche nach den verschollenen Seiten II (demo) (De) (1994)(Nestlé Deutschland AG) [Action].zip
+tdc_id: '3339.0'
+title:
+  screen: 'Tricky Quiky Game: Die Suche nach den'
+publisher: Nestlé Deutschland AG
+year: '1994'
+genre: Action
+language: German
+date:
+  added: '2019-03-02T07:18:34'
+  last_modified: '2022-11-01T10:14:43'
+type: zip
+demo: true
+commands:
+  play: DEMO.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/tricky-quiky-games-die-suche-nach-den-verschollenen-seiten-ii
+  dosid: DOS05275
+  exodos: Tricky Quiky Games (1994).zip
+files:
+- name: DEMO.EXE
+  size: 122941
+  date: '1995-01-01T14:15:00'
+  crc: '0x19e3fc40'
+- name: DPMI16BI.OVL
+  size: 65312
+  date: '1995-01-01T14:15:00'
+  crc: '0x512a26f9'
+- name: NESTLE.DAT
+  size: 946486
+  date: '1995-01-01T14:15:00'
+  crc: '0xdea8df02'
+- name: RTM.EXE
+  size: 108686
+  date: '1995-01-01T14:15:00'
+  crc: '0x28c93c6a'

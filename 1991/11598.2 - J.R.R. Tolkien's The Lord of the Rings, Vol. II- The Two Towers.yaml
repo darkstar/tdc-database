@@ -1,0 +1,76 @@
+filename: J.R.R. Tolkien's The Lord of the Rings, Vol. II- The Two Towers v1.0 (Installer) (1991)(Interplay Productions, Inc.) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '11598.2'
+parent_id: '11598.3'
+title:
+  box: 'J.R.R. Tolkien''s The Lord of the Rings, Vol. II: The Two Towers'
+  qualifier: Installer
+publisher: Interplay Productions, Inc.
+year: '1991'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-07-04T18:20:20'
+  last_modified: '2023-04-27T10:03:27'
+version: '1.0'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK2\
+  size: 0
+  date: '2019-07-04T18:19:54'
+- name: DISK2\INTRPLAY.CMP
+  size: 720000
+  date: '1992-06-16T09:45:16'
+  crc: '0x20ea258c'
+- name: DISK2\TWOTOWERS 2
+  size: 0
+  date: '1992-06-19T10:24:22'
+- name: DISK3\
+  size: 0
+  date: '2019-07-04T18:19:58'
+- name: DISK3\INTRPLAY.CMP
+  size: 720000
+  date: '1992-06-16T09:45:16'
+  crc: '0x34a65d15'
+- name: DISK3\TWOTOWERS 3
+  size: 0
+  date: '1992-06-19T10:24:34'
+- name: DISK4\
+  size: 0
+  date: '2019-07-04T18:20:00'
+- name: DISK4\INTRPLAY.CMP
+  size: 720000
+  date: '1992-06-16T09:45:16'
+  crc: '0xcfe6cc0e'
+- name: DISK4\TWOTOWERS 4
+  size: 0
+  date: '1992-06-19T10:24:46'
+- name: DISK5\
+  size: 0
+  date: '2019-07-04T18:20:02'
+- name: DISK5\INTRPLAY.CMP
+  size: 474199
+  date: '1992-06-16T09:45:16'
+  crc: '0xd609d842'
+- name: DISK5\TWOTOWERS 5
+  size: 0
+  date: '1992-06-19T10:25:02'
+- name: INSTALL.EXE
+  size: 90329
+  date: '1992-06-16T04:54:28'
+  crc: '0xe15a64dd'
+- name: INTRPLAY.CMP
+  size: 620000
+  date: '1992-06-16T09:45:16'
+  crc: '0x5512cbc9'
+- name: README.DOC
+  size: 4819
+  date: '1992-06-16T04:54:28'
+  crc: '0x37719ee8'
+- name: TWOTOWERS 1
+  size: 0
+  date: '1992-06-19T10:24:22'

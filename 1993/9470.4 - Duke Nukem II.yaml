@@ -1,0 +1,38 @@
+filename: Duke Nukem II (Installer) [SW][a3] (1993)(Apogee Software, Ltd.) [Action].zip
+tdc_id: '9470.4'
+title:
+  screen: Duke Nukem II
+publisher: Apogee Software, Ltd.
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T19:02:32'
+  last_modified: '2019-03-01T19:02:32'
+type: zip
+tags:
+- Shareware
+- Alternate: 3
+media: Download
+installer: true
+files:
+- name: DEICE.EXE
+  size: 17303
+  date: '2009-11-23T02:50:14'
+  crc: '0xaad4552c'
+- name: DN2-HELP.EXE
+  size: 10795
+  date: '2009-11-23T02:50:16'
+  crc: '0xbb1fa181'
+- name: DN2.1
+  size: 1058257
+  date: '2009-11-23T02:50:38'
+  crc: '0xb05db302'
+- name: DN2.DAT
+  size: 293
+  date: '2009-11-23T02:50:40'
+  crc: '0xa1d1e215'
+- name: INSTALL.BAT
+  size: 69
+  date: '2009-11-23T02:50:40'
+  crc: '0x46c12cef'

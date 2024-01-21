@@ -1,0 +1,128 @@
+filename: Prisoner of Ice [b1] (1995)(I-Motion, Inc.) [Adventure].zip
+tdc_id: '6842.0'
+title:
+  box: Prisoner of Ice
+publisher: I-Motion, Inc.
+year: '1995'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-02T08:58:20'
+  last_modified: '2019-03-02T08:58:20'
+type: zip
+tags:
+- Bad: 1
+commands:
+  play: ICE640.EXE
+references:
+  mobygames: http://www.mobygames.com/game/dos/prisoner-of-ice
+  dosid: DOS04112
+  exodos: Prisoner of Ice (1995).zip
+files:
+- name: E_KLANG.BIN
+  size: 561
+  date: '1995-05-19T16:19:00'
+  crc: '0xf7df1e21'
+- name: E_KLANG.KRO
+  size: 32611279
+  date: '1995-05-19T16:18:56'
+  crc: '0xba1afc80'
+- name: E_VIDEO\
+  size: 0
+  date: '1996-02-29T00:31:34'
+- name: E_VIDEO\SBESTOFF.MUX
+  size: 0
+  date: '1995-09-25T13:55:08'
+- name: E_VIDEO\SBLOOD.MUX
+  size: 0
+  date: '1995-09-25T13:55:08'
+- name: E_VIDEO\SCREDITS.MUX
+  size: 0
+  date: '1995-09-25T13:55:08'
+- name: E_VIDEO\SDEAD.MUX
+  size: 948325
+  date: '1995-03-27T15:52:00'
+  crc: '0x7fc94dbb'
+- name: E_VIDEO\SDIET.MUX
+  size: 0
+  date: '1995-09-25T13:55:08'
+- name: E_VIDEO\SEPEE.MUX
+  size: 0
+  date: '1995-09-25T13:55:08'
+- name: E_VIDEO\SFILM.MUX
+  size: 0
+  date: '1995-09-25T13:55:08'
+- name: E_VIDEO\SFINAL1.MUX
+  size: 0
+  date: '1995-09-25T13:55:08'
+- name: E_VIDEO\SFINAL2.MUX
+  size: 0
+  date: '1995-09-25T13:55:08'
+- name: E_VIDEO\SFINAL3.MUX
+  size: 0
+  date: '1995-09-25T13:55:08'
+- name: E_VIDEO\SFINAL4.MUX
+  size: 0
+  date: '1995-09-25T13:55:08'
+- name: E_VIDEO\SICE.MUX
+  size: 0
+  date: '1995-09-25T13:55:08'
+- name: E_VIDEO\SIN1.MUX
+  size: 0
+  date: '1995-09-25T13:55:08'
+- name: E_VIDEO\SIN12.MUX
+  size: 0
+  date: '1995-09-25T13:55:08'
+- name: E_VIDEO\SIN2.MUX
+  size: 0
+  date: '1995-09-25T13:55:08'
+- name: E_VIDEO\SIN3.MUX
+  size: 0
+  date: '1995-09-25T13:55:08'
+- name: E_VIDEO\SIN4.MUX
+  size: 0
+  date: '1995-09-25T13:55:08'
+- name: E_VIDEO\SIN5.MUX
+  size: 0
+  date: '1995-09-25T13:55:08'
+- name: E_VIDEO\SIN9.MUX
+  size: 0
+  date: '1995-09-25T13:55:08'
+- name: E_VIDEO\SINTRO.MUX
+  size: 0
+  date: '1995-09-25T13:55:08'
+- name: E_VIDEO\SOVER1.MUX
+  size: 0
+  date: '1995-09-25T13:55:08'
+- name: E_VIDEO\SOVER2.MUX
+  size: 0
+  date: '1995-09-25T13:55:08'
+- name: E_VIDEO\STITRE.MUX
+  size: 0
+  date: '1995-09-25T13:55:08'
+- name: ICE640.EXE
+  size: 572595
+  date: '1995-05-04T17:05:28'
+  crc: '0xc9a264fc'
+- name: KSOUND.KRO
+  size: 0
+  date: '1994-11-04T17:45:18'
+- name: KSVGA.KRO
+  size: 45874014
+  date: '1995-05-19T16:24:34'
+  crc: '0xb01d295c'
+- name: README.TXT
+  size: 17857
+  date: '1995-09-23T22:16:58'
+  crc: '0x9264d27f'
+- name: SAVES\
+  size: 0
+  date: '1996-02-29T00:31:34'
+- name: SAVES\ICE.CFG
+  size: 97
+  date: '1995-09-26T22:40:06'
+  crc: '0xfa04fd61'
+- name: __ICE__.PAR
+  size: 39
+  date: '1995-09-23T20:21:04'
+  crc: '0x43a0026e'

@@ -1,0 +1,30 @@
+filename: 1993 (Sv) (1992)(NIKITA Ltd., IFTECH Software AB) [Action].zip
+tdc_id: '5404.0'
+title:
+  screen: '1993'
+publisher: NIKITA Ltd., IFTECH Software AB
+year: '1992'
+genre: Action
+language: Swedish
+date:
+  added: '2020-07-27T23:02:40'
+  last_modified: '2020-07-27T23:02:40'
+type: zip
+commands:
+  play: 1993.EXE
+references:
+  dosid: DOS07689
+  exodos: 1993 (1992).zip
+files:
+- name: 1993.DTA
+  size: 34947
+  date: '1992-12-05T20:10:54'
+  crc: '0xe911bc2e'
+- name: 1993.EXE
+  size: 52480
+  date: '1992-12-11T12:06:58'
+  crc: '0x131a0e7f'
+- name: README.!!!
+  size: 823
+  date: '1996-03-21T17:15:16'
+  crc: '0x5c455114'

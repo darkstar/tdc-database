@@ -1,0 +1,26 @@
+filename: Super Star Trek (1997)(Tom Almy) [Strategy].zip
+tdc_id: '4095.0'
+title:
+  screen: Super Star Trek
+publisher: Tom Almy
+year: '1997'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:38:08'
+  last_modified: '2019-03-02T10:38:08'
+type: zip
+commands:
+  play: sst.exe
+references:
+  dosid: DOS16117
+  exodos: Super Star Trek (1997).zip
+files:
+- name: sst.doc
+  size: 64433
+  date: '1996-12-24T23:32:00'
+  crc: '0x0a2d69f5'
+- name: sst.exe
+  size: 124294
+  date: '1996-12-24T23:32:00'
+  crc: '0x36ec027a'

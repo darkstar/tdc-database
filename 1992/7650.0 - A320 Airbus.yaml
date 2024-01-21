@@ -1,0 +1,58 @@
+filename: A320 Airbus v1.00 (Installer) (1992)(Thalion Software) [Simulation].zip
+tdc_id: '7650.0'
+parent_id: '7650.1'
+title:
+  box: A320 Airbus
+  qualifier: Installer
+publisher: Thalion Software
+year: '1992'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:34:42'
+  last_modified: '2023-03-11T16:59:14'
+version: '1.00'
+type: zip
+media: 720K
+installer: true
+commands:
+  play: INSTALL.COM
+references:
+  dosid: DOS00677
+  exodos: A320 Airbus (Edition Europa) (1992).zip
+files:
+- name: A320.COM
+  size: 1845
+  date: '1992-04-11T01:00:32'
+  crc: '0x0ec40e78'
+- name: A320I.EXE
+  size: 91142
+  date: '1992-04-11T01:00:50'
+  crc: '0x0e577f89'
+- name: A320P.EXE
+  size: 104664
+  date: '1992-04-11T01:00:46'
+  crc: '0x35f9686d'
+- name: A320S.EXE
+  size: 121178
+  date: '1992-04-11T01:00:42'
+  crc: '0xd4aae1b0'
+- name: A320U.COM
+  size: 769
+  date: '1992-04-11T01:00:00'
+  crc: '0xea9ee945'
+- name: FILES\
+  size: 0
+  date: '1992-04-11T01:00:54'
+- name: FILES\MISSION.FIL
+  size: 42
+  date: '1992-03-30T11:08:54'
+  crc: '0x06285ee9'
+- name: FILES\RESULT.FIL
+  size: 52
+  date: '1992-03-30T11:11:14'
+  crc: '0x2d23c5a4'
+- name: INSTALL.COM
+  size: 7676
+  date: '1992-04-11T01:00:58'
+  crc: '0x4f32b29e'

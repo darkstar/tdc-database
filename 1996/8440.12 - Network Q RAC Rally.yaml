@@ -1,0 +1,125 @@
+filename: Network Q RAC Rally v1.3b (Installer) (1996)(Europress Software Ltd.) [Racing - Driving, Sports].zip
+tdc_id: '8440.12'
+title:
+  box: Network Q RAC Rally
+publisher: Europress Software Ltd.
+year: '1996'
+genre:
+- Racing - Driving
+- Sports
+language: English
+date:
+  added: '2022-10-18T08:49:01'
+  last_modified: '2022-10-18T08:49:01'
+version: 1.3b
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/network-q-rac-rally
+files:
+- name: AUTORUN.EXE
+  size: 904634
+  date: '1996-07-26T13:25:34'
+  crc: '0xe05878a3'
+- name: AUTORUN.ICO
+  size: 766
+  date: '1993-06-02T00:49:40'
+  crc: '0x68a17e03'
+- name: AUTORUN.INF
+  size: 48
+  date: '1996-03-21T22:03:16'
+  crc: '0x91154b15'
+- name: COMPSCR.DAT
+  size: 2973778
+  date: '1996-03-21T15:06:48'
+  crc: '0xa2a9cd33'
+- name: EXIT.WRI
+  size: 1152
+  date: '1996-06-01T18:06:22'
+  crc: '0x0ed6b9ea'
+- name: INSTALL.CFG
+  size: 705
+  date: '1995-10-25T15:08:44'
+  crc: '0x9fd153fd'
+- name: INSTALL.EXE
+  size: 56934
+  date: '1994-03-18T02:05:00'
+  crc: '0x14417964'
+- name: INSTRUCT.WRI
+  size: 4736
+  date: '1996-07-25T13:57:20'
+  crc: '0xb95d21fc'
+- name: LICENSE.WRI
+  size: 3328
+  date: '1996-06-01T18:07:22'
+  crc: '0xb33134bb'
+- name: MMPI.WRI
+  size: 896
+  date: '1996-06-01T18:08:06'
+  crc: '0x6c9e3efd'
+- name: MORE.WRI
+  size: 8576
+  date: '1996-06-01T18:09:04'
+  crc: '0x95698f1f'
+- name: MSI.WRI
+  size: 1664
+  date: '1996-06-01T18:10:18'
+  crc: '0x0e97d4e3'
+- name: NINSTALL.WRI
+  size: 896
+  date: '1996-06-01T18:09:42'
+  crc: '0x3700b78a'
+- name: NOPROB.WRI
+  size: 1280
+  date: '1996-06-01T18:11:00'
+  crc: '0xe80e2309'
+- name: PROBLEMS.WRI
+  size: 24832
+  date: '1996-06-01T18:11:54'
+  crc: '0x55ad9989'
+- name: PROTECT.WRI
+  size: 428160
+  date: '1996-06-01T18:17:48'
+  crc: '0x0a923726'
+- name: RALEN.SHR
+  size: 5197111
+  date: '1996-02-27T16:25:32'
+  crc: '0xa2c8d856'
+- name: RALENSAV.SHR
+  size: 14267
+  date: '1996-02-27T16:26:24'
+  crc: '0xe82b0017'
+- name: RALLY.WRI
+  size: 1408
+  date: '1996-07-24T20:13:08'
+  crc: '0x9194d34a'
+- name: RALLY06.BMP
+  size: 308280
+  date: '1996-07-25T17:42:10'
+  crc: '0x2d0ef441'
+- name: RALLY08.BMP
+  size: 481080
+  date: '1996-07-25T17:41:42'
+  crc: '0xb81747d1'
+- name: RALLY10.BMP
+  size: 787512
+  date: '1996-07-25T17:41:06'
+  crc: '0x281103bb'
+- name: RALLY12.BMP
+  size: 1311800
+  date: '1996-07-25T17:43:20'
+  crc: '0x73d1a32e'
+- name: README.WRI
+  size: 9984
+  date: '1996-06-18T14:38:02'
+  crc: '0x041be846'
+- name: SAVEFAIL.WRI
+  size: 3712
+  date: '1996-06-01T18:18:50'
+  crc: '0x0965097e'
+- name: SORRY.WRI
+  size: 896
+  date: '1996-06-01T18:19:38'
+  crc: '0xec44dff5'

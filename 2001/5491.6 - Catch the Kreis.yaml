@@ -1,0 +1,55 @@
+filename: Catch the Kreis v1.6 (2001)(Dregen Rocks) [Action].zip
+tdc_id: '5491.6'
+title:
+  screen: Catch the Kreis
+publisher: Dregen Rocks
+year: '2001'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:55:14'
+  last_modified: '2019-03-02T10:55:14'
+version: '1.6'
+type: zip
+commands:
+  play: CTK.EXE
+files:
+- name: CTK.EXE
+  size: 47444
+  date: '2001-08-16T21:05:28'
+  crc: '0x359c3312'
+- name: CTK16.TXT
+  size: 43711
+  date: '2001-08-16T21:06:30'
+  crc: '0x982e7a0e'
+- name: ctkdat\
+  size: 0
+  date: '2001-08-16T21:46:38'
+- name: ctkdat\bozen.ctk
+  size: 17731
+  date: '2001-08-11T15:58:34'
+  crc: '0x0a284e03'
+- name: ctkdat\gg.ctk
+  size: 88308
+  date: '2001-08-16T20:02:56'
+  crc: '0x1b40ea0a'
+- name: ctkdat\highsc.dat
+  size: 5280
+  date: '2001-08-16T20:04:56'
+  crc: '0xb9069b7a'
+- name: readnot.txt
+  size: 3453
+  date: '2001-08-16T21:12:00'
+  crc: '0xe5c11983'
+- name: readnotg.txt
+  size: 3754
+  date: '2001-08-16T21:15:32'
+  crc: '0x75b9bd75'
+- name: story.txt
+  size: 6254
+  date: '2001-08-16T21:42:32'
+  crc: '0x73fdf1a7'
+- name: storyger.txt
+  size: 7551
+  date: '2001-08-16T21:42:34'
+  crc: '0x00555d0b'

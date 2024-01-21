@@ -1,0 +1,50 @@
+filename: Snaker (1993)(Erik Persson) [Action].zip
+tdc_id: '2818.0'
+title:
+  screen: Snaker
+publisher: Erik Persson
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2020-10-01T09:30:52'
+  last_modified: '2020-10-01T09:30:52'
+type: zip
+commands:
+  play: SNAKER.EXE
+references:
+  dosid: DOS04626
+  exodos: Snaker (1993).zip
+files:
+- name: HISCORE.SS
+  size: 220
+  date: '1994-07-08T13:52:24'
+  crc: '0x5910ef0a'
+- name: README.TXT
+  size: 1717
+  date: '1994-07-08T11:54:36'
+  crc: '0xea1ffe46'
+- name: SETUP.SS
+  size: 6
+  date: '1994-07-08T13:50:20'
+  crc: '0x097ec6c6'
+- name: SNAKE.001
+  size: 318
+  date: '1994-01-10T13:23:00'
+  crc: '0xbdd7b4f7'
+- name: SNAKE.002
+  size: 5937
+  date: '1994-01-18T18:05:00'
+  crc: '0xa422c906'
+- name: SNAKE.003
+  size: 27568
+  date: '1994-02-20T14:35:42'
+  crc: '0x311c4fea'
+- name: SNAKE.004
+  size: 19810
+  date: '1994-01-25T13:48:52'
+  crc: '0x5bbfbb4a'
+- name: SNAKER.EXE
+  size: 163974
+  date: '1994-07-08T11:34:44'
+  crc: '0xd631ac2a'

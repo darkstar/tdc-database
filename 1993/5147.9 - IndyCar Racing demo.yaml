@@ -1,0 +1,39 @@
+filename: IndyCar Racing demo (1993)(Virgin Interactive Entertainment, Inc.) [Racing - Driving, Simulation, Sports].zip
+tdc_id: '5147.9'
+title:
+  screen: IndyCar Racing demo
+publisher: Virgin Interactive Entertainment, Inc.
+year: '1993'
+genre:
+- Racing - Driving
+- Simulation
+- Sports
+language: English
+date:
+  added: '2020-03-28T13:27:48'
+  last_modified: '2020-03-28T13:27:48'
+type: zip
+demo: true
+commands:
+  play: INDYCAR.EXE
+files:
+- name: DATA.DAT
+  size: 2436913
+  date: '2016-08-21T11:37:52'
+  crc: '0x0338da77'
+- name: DRIVERS.TXT
+  size: 745
+  date: '2016-08-21T11:37:28'
+  crc: '0x4ef07a61'
+- name: INDYCAR.EXE
+  size: 477311
+  date: '2016-08-21T11:37:58'
+  crc: '0x96f3c2af'
+- name: MONTEREY.TXT
+  size: 363
+  date: '2016-08-21T11:37:28'
+  crc: '0xe88dff0a'
+- name: README
+  size: 1493
+  date: '1993-10-18T13:06:42'
+  crc: '0x116c978d'

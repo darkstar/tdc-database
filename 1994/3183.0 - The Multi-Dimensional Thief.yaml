@@ -1,0 +1,48 @@
+filename: Multi-Dimensional Thief, The v2.0 [SW] (1994)(Electric Sheep Entertainment Software) [Adventure, Interactive Fiction].zip
+tdc_id: '3183.0'
+title:
+  screen: The Multi-Dimensional Thief
+publisher: Electric Sheep Entertainment Software
+year: '1994'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T22:02:14'
+  last_modified: '2019-03-01T22:02:14'
+version: '2.0'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: THIEF.EXE
+references:
+  dosid: DOS00082
+  exodos: Multi-Dimensional Thief, The (1991).zip
+files:
+- name: BUTTONS.BIN
+  size: 77442
+  date: '1994-05-18T09:38:02'
+  crc: '0x9a104890'
+- name: ORDER
+  size: 2305
+  date: '1994-05-18T09:38:02'
+  crc: '0xf1bc64e9'
+- name: README
+  size: 11372
+  date: '1994-05-18T09:38:02'
+  crc: '0x716c58b7'
+- name: SVGAPIC.BIN
+  size: 708155
+  date: '1994-05-18T09:38:02'
+  crc: '0x925c9438'
+- name: THIEF.EXE
+  size: 346308
+  date: '1994-05-18T09:38:02'
+  crc: '0xfa0672b4'
+- name: VGAPIC.BIN
+  size: 400118
+  date: '1994-05-18T09:38:02'
+  crc: '0x0b8d41b5'

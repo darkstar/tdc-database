@@ -1,0 +1,46 @@
+filename: Hell of Lemmings 2 v1.5 (Installer) [SW] (1998)(Som) [Strategy, Puzzle].zip
+tdc_id: '9579.0'
+title:
+  screen: Hell of Lemmings 2
+publisher: Som
+year: '1998'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2022-02-25T09:43:58'
+  last_modified: '2022-02-25T09:43:58'
+version: '1.5'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: install.exe
+files:
+- name: ALPHA.DAT
+  size: 1764
+  date: '1997-05-24T11:48:04'
+  crc: '0x3387661b'
+- name: ORDER.TXT
+  size: 1070
+  date: '1998-09-16T17:08:44'
+  crc: '0x40e0419a'
+- name: files.dat
+  size: 999639
+  date: '1998-10-11T19:00:06'
+  crc: '0xb541692f'
+- name: install.dat
+  size: 64770
+  date: '1998-06-29T14:09:04'
+  crc: '0xf9d0f924'
+- name: install.exe
+  size: 27568
+  date: '1998-10-06T18:26:48'
+  crc: '0x416a42d7'
+- name: readme.txt
+  size: 13991
+  date: '1998-10-11T19:01:46'
+  crc: '0x9bde7a17'

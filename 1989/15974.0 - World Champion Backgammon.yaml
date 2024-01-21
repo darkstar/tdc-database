@@ -1,0 +1,56 @@
+filename: World Champion Backgammon (1989)(Daniel R. Evans) [Strategy, Board].zip
+tdc_id: '15974.0'
+title:
+  screen: World Champion Backgammon
+publisher: Daniel R. Evans
+year: '1989'
+genre:
+- Strategy
+- Board
+language: English
+date:
+  added: '2020-07-16T21:06:16'
+  last_modified: '2020-07-16T21:06:16'
+type: zip
+commands:
+  play: GAMMON.EXE
+references:
+  dosid: DOS16153
+  exodos: World Champion Backgammon (1989).zip
+files:
+- name: GAMEMEN.OVL
+  size: 19614
+  date: '1990-04-15T23:42:26'
+  crc: '0xf8410ef4'
+- name: GAMMON.EXE
+  size: 289140
+  date: '1990-04-16T23:14:48'
+  crc: '0xb2ef5184'
+- name: GAMONE.OVL
+  size: 6910
+  date: '1990-04-15T23:42:38'
+  crc: '0xc605c8cc'
+- name: GAMTHREE.OVL
+  size: 67565
+  date: '1990-04-15T23:42:52'
+  crc: '0x509227d0'
+- name: GAMTWO.OVL
+  size: 47809
+  date: '1990-04-15T23:43:00'
+  crc: '0xa632b86d'
+- name: GAMVMEN.OVL
+  size: 24052
+  date: '1990-04-15T23:43:08'
+  crc: '0x4102d0a9'
+- name: SMBRDC.OVL
+  size: 1980
+  date: '1990-04-15T23:43:14'
+  crc: '0x45066ac0'
+- name: SMBRDE.OVL
+  size: 9295
+  date: '1990-04-15T23:43:14'
+  crc: '0xb5c0870c'
+- name: SMBRDV.OVL
+  size: 13342
+  date: '1990-04-15T23:43:14'
+  crc: '0x4774807c'

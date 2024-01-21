@@ -1,0 +1,31 @@
+filename: Detroit Demo Diskette (Installer) (1994)(Impressions Games) [Simulation].zip
+tdc_id: '13119.1'
+title:
+  screen: Detroit Demo Diskette
+publisher: Impressions Games
+year: '1994'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T21:56:02'
+  last_modified: '2019-03-01T21:56:02'
+type: zip
+installer: true
+demo: true
+files:
+- name: DETROIT1.LZH
+  size: 1363697
+  date: '1994-05-31T15:51:02'
+  crc: '0x5653091d'
+- name: DISK.ID
+  size: 22
+  date: '1994-05-31T14:35:26'
+  crc: '0xa154c1b9'
+- name: INSTALL.EXE
+  size: 25176
+  date: '1994-05-31T13:52:52'
+  crc: '0x40405e8c'
+- name: LHA.EXE
+  size: 34283
+  date: '1992-07-09T11:03:32'
+  crc: '0x2c68a172'

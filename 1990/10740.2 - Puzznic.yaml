@@ -1,0 +1,53 @@
+filename: Puzznic [h1] (1990)(Taito America Corp.) [Action, Strategy].zip
+tdc_id: '10740.2'
+title:
+  box: Puzznic
+publisher: Taito America Corp.
+year: '1990'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:33:40'
+  last_modified: '2019-03-01T18:33:40'
+type: zip
+tags:
+- Hack: 1
+files:
+- name: CONFIG.BAT
+  size: 22
+  date: '2000-04-12T08:42:08'
+  crc: '0x9fcc8737'
+- name: CONFIG.DAT
+  size: 16
+  date: '2011-11-06T10:41:36'
+  crc: '0x1835e38d'
+- name: EXTRA.PUZ
+  size: 6227
+  date: '2000-04-12T08:42:00'
+  crc: '0xf03f816f'
+- name: HIGH.BFR
+  size: 120
+  date: '2006-03-31T15:43:04'
+  crc: '0x1ed94fd5'
+- name: LEVELMP1.MAP
+  size: 5596
+  date: '2000-04-12T08:42:04'
+  crc: '0xb967161c'
+- name: LIB_0.LBS
+  size: 25908
+  date: '2000-04-12T08:42:06'
+  crc: '0x355721e8'
+- name: LIB_1.LBS
+  size: 166032
+  date: '2000-04-12T08:41:28'
+  crc: '0x66088ccc'
+- name: PUZ.ATI
+  size: 43227
+  date: '2000-04-12T08:42:10'
+  crc: '0xc5ce354d'
+- name: PUZZNIC.EXE
+  size: 39389
+  date: '2000-04-12T08:42:14'
+  crc: '0x47827686'

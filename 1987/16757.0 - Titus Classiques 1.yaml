@@ -1,0 +1,66 @@
+filename: Titus Classiques 1 (1987)(Titus France SA) [Action, Compilation].zip
+tdc_id: '16757.0'
+title:
+  box: Titus Classiques 1
+publisher: Titus France SA
+year: '1987'
+genre:
+- Action
+- Compilation
+language: English
+date:
+  added: '2020-01-14T22:21:32'
+  last_modified: '2020-01-14T22:21:32'
+type: zip
+compilation: true
+commands:
+  play: MENU.COM
+files:
+- name: BREAK.BIN
+  size: 666
+  date: '1987-08-31T20:24:40'
+  crc: '0xf6b0e0df'
+- name: CHAR.BIN
+  size: 603
+  date: '1987-09-26T18:46:50'
+  crc: '0xe51d77a4'
+- name: LABY.BIN
+  size: 5120
+  date: '1980-01-01T00:01:02'
+  crc: '0xecbea186'
+- name: MENU.BIN
+  size: 1486
+  date: '1987-09-05T20:50:40'
+  crc: '0x15c393b6'
+- name: MENU.COM
+  size: 833
+  date: '1988-01-20T11:21:26'
+  crc: '0xff733752'
+- name: MENU.CO_
+  size: 4052
+  date: '1988-01-20T11:21:26'
+  crc: '0x519a9b44'
+- name: MENU.OV1
+  size: 833
+  date: '1988-01-20T11:22:24'
+  crc: '0x4550be30'
+- name: MENU.OV2
+  size: 40350
+  date: '1988-01-20T11:22:34'
+  crc: '0xb27a69eb'
+- name: PAC.BIN
+  size: 629
+  date: '1987-09-23T11:36:30'
+  crc: '0x4a5b4e6a'
+- name: SCORE.BIN
+  size: 14
+  date: '1997-06-29T14:20:32'
+  crc: '0xe3e5cd9a'
+- name: SCREEN.BIN
+  size: 16384
+  date: '1986-08-03T16:13:12'
+  crc: '0xe6d8dd9f'
+- name: SPACE.BIN
+  size: 1360
+  date: '1987-08-26T21:04:12'
+  crc: '0xd6ba497a'

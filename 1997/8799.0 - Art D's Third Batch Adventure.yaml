@@ -1,0 +1,23 @@
+filename: Art D's Third Batch Adventure v1.1 (Installer) (1997)(Arthur DiBianca) [Adventure, Interactive Fiction].zip
+tdc_id: '8799.0'
+title:
+  screen: Art D's Third Batch Adventure
+publisher: Arthur DiBianca
+year: '1997'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T10:25:06'
+  last_modified: '2019-03-02T10:25:06'
+version: '1.1'
+type: zip
+installer: true
+commands:
+  play: ADTHIRD.BAT
+files:
+- name: ADTHIRD.BAT
+  size: 16908
+  date: '1997-04-22T19:26:46'
+  crc: '0xc2ee170c'

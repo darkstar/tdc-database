@@ -1,0 +1,38 @@
+filename: Tom DX (2003)(BB Software) [Action].zip
+tdc_id: '16772.0'
+title:
+  screen: Tom DX
+publisher: BB Software
+year: '2003'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:56:48'
+  last_modified: '2019-03-02T10:56:48'
+type: zip
+commands:
+  play: TOMDX.EXE
+files:
+- name: DAT\
+  size: 0
+  date: '2003-11-26T16:03:18'
+- name: DAT\STAGE1.DAT
+  size: 3372
+  date: '2003-11-26T16:03:18'
+  crc: '0x163f4675'
+- name: DAT\STAGE2.DAT
+  size: 3372
+  date: '2003-11-26T16:03:18'
+  crc: '0xa6e772e8'
+- name: Div2erun.dll
+  size: 221962
+  date: '2003-11-26T16:03:18'
+  crc: '0x34e75e6e'
+- name: TOMDX.EXE
+  size: 5555
+  date: '2003-11-26T16:03:18'
+  crc: '0x89fe3dc0'
+- name: TOMDX.PAK
+  size: 7679018
+  date: '2003-11-26T16:03:18'
+  crc: '0x5e496e71'

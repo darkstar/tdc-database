@@ -1,0 +1,32 @@
+filename: Stronghold v1.00 (De) (1993)(Strategic Simulations, Inc.) [Role-Playing (RPG), Strategy].zip
+tdc_id: '5373.1'
+parent_id: '5373.10'
+title:
+  box: Stronghold
+publisher: Strategic Simulations, Inc.
+year: '1993'
+genre:
+- Role-Playing (RPG)
+- Strategy
+language: German
+date:
+  added: '2019-03-01T21:09:10'
+  last_modified: '2023-07-16T10:27:11'
+version: '1.00'
+type: zip
+media: 1.44M
+commands:
+  play: STRONG.EXE
+files:
+- name: STRONG.DAT
+  size: 5291246
+  date: '1993-11-08T11:38:22'
+  crc: '0x84eeea15'
+- name: STRONG.EXE
+  size: 513760
+  date: '1993-11-08T10:49:26'
+  crc: '0x657e7752'
+- name: STRONG.EX_
+  size: 513760
+  date: '1993-11-08T10:49:26'
+  crc: '0xf863dd08'

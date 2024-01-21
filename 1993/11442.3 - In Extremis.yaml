@@ -1,0 +1,83 @@
+filename: In Extremis (Installer) (En)(Fr)(De)(It) (1993)(U.S. Gold Ltd.) [Action].zip
+tdc_id: '11442.3'
+parent_id: '11442.5'
+title:
+  box: In Extremis
+publisher: U.S. Gold Ltd.
+year: '1993'
+genre: Action
+language:
+- English
+- French
+- Italian
+- German
+date:
+  added: '2021-08-09T14:33:28'
+  last_modified: '2021-08-09T14:33:28'
+type: zip
+installer: true
+files:
+- name: DATA1
+  size: 852695
+  date: '1994-01-07T04:03:34'
+  crc: '0x3028ffdd'
+- name: DATA2
+  size: 1427590
+  date: '1994-01-07T03:46:22'
+  crc: '0x105e7f0d'
+- name: DATA3
+  size: 1404693
+  date: '1994-01-07T03:57:58'
+  crc: '0xc75f83ff'
+- name: DATA4
+  size: 1426235
+  date: '1994-01-07T03:47:50'
+  crc: '0xf57b864a'
+- name: DATA5
+  size: 1444359
+  date: '1994-01-07T03:55:50'
+  crc: '0xee1bee35'
+- name: DATA6
+  size: 1434736
+  date: '1994-01-07T04:02:00'
+  crc: '0xf5f4e47a'
+- name: DECOMP.EXE
+  size: 12867
+  date: '1993-10-28T08:22:54'
+  crc: '0x724a7897'
+- name: EXTREM_A.EXE
+  size: 69979
+  date: '1994-01-07T16:45:40'
+  crc: '0x657639d3'
+- name: EXTREM_D.EXE
+  size: 70331
+  date: '1994-01-07T16:45:50'
+  crc: '0x17a8ef22'
+- name: EXTREM_F.EXE
+  size: 70411
+  date: '1994-01-06T20:13:46'
+  crc: '0x3a846518'
+- name: EXTREM_I.EXE
+  size: 70507
+  date: '1994-01-07T16:46:00'
+  crc: '0xd7bfa8dd'
+- name: INSTALL.EXE
+  size: 5017
+  date: '1994-01-07T15:31:34'
+  crc: '0x12444a21'
+- name: SOUND_A.EXE
+  size: 2239
+  date: '1993-12-16T15:35:14'
+  crc: '0xbeb7044e'
+- name: SOUND_D.EXE
+  size: 2303
+  date: '1993-12-16T15:35:56'
+  crc: '0xcabef20d'
+- name: SOUND_F.EXE
+  size: 2287
+  date: '1993-12-16T15:34:38'
+  crc: '0x975c6da9'
+- name: SOUND_I.EXE
+  size: 2271
+  date: '1993-12-16T15:36:32'
+  crc: '0x8427fdd9'

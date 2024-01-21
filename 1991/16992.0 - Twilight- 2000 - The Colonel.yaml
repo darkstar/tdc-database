@@ -1,0 +1,27 @@
+filename: Twilight- 2000 - The Colonel (Installer) (1991)(MicroProse Software, Inc.) [Role-Playing (RPG), Strategy, Addon].zip
+tdc_id: '16992.0'
+title:
+  box: 'Twilight: 2000 - The Colonel'
+publisher: MicroProse Software, Inc.
+year: '1991'
+genre:
+- Role-Playing (RPG)
+- Strategy
+- Addon
+language: English
+date:
+  added: '2019-03-01T18:39:54'
+  last_modified: '2019-03-01T18:39:54'
+type: zip
+installer: true
+commands:
+  play: COLONEL.EXE
+files:
+- name: COLONEL.EXE
+  size: 14605
+  date: '1992-02-24T16:48:56'
+  crc: '0x40746dfe'
+- name: DISK1.COL
+  size: 702299
+  date: '1992-02-24T16:22:22'
+  crc: '0xa71cb97e'

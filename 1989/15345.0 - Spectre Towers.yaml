@@ -1,0 +1,33 @@
+filename: Spectre Towers (1989)(Gold Coast Software) [Adventure, Interactive Fiction].zip
+tdc_id: '15345.0'
+title:
+  screen: Spectre Towers
+publisher: Gold Coast Software
+year: '1989'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:29:02'
+  last_modified: '2019-03-01T18:29:02'
+type: zip
+commands:
+  play: ST.EXE
+files:
+- name: GC.000
+  size: 16391
+  date: '1989-01-24T00:00:34'
+  crc: '0x665058de'
+- name: READ
+  size: 92
+  date: '1989-01-28T17:12:58'
+  crc: '0x3ec5029f'
+- name: ST.000
+  size: 16391
+  date: '1989-01-24T00:22:46'
+  crc: '0xf8fe3b5d'
+- name: ST.EXE
+  size: 81518
+  date: '1989-01-28T16:57:42'
+  crc: '0xe6dd82c8'

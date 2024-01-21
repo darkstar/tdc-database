@@ -1,0 +1,28 @@
+filename: Caverns (1992)(A.Sill) [Action].zip
+tdc_id: '5505.0'
+title:
+  screen: Caverns
+publisher: A.Sill
+year: '1992'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:41:42'
+  last_modified: '2019-03-01T18:41:42'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: CAVERNS.BAS
+  size: 3194
+  date: '1996-01-22T19:59:30'
+  crc: '0x41998659'
+- name: GO.BAT
+  size: 23
+  date: '2019-01-09T23:21:24'
+  crc: '0x1cf87848'
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1988-10-05T02:00:08'
+  crc: '0x2a44af39'

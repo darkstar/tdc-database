@@ -1,0 +1,33 @@
+filename: Hocus Pocus v1.1 (Installer) [SW][a2] (1994)(Apogee Software, Ltd.) [Action].zip
+tdc_id: '8338.12'
+title:
+  screen: Hocus Pocus
+publisher: Apogee Software, Ltd.
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2021-05-23T15:22:34'
+  last_modified: '2021-05-23T15:22:34'
+version: '1.1'
+type: zip
+tags:
+- Shareware
+- Alternate: 2
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 490
+  date: '1994-10-01T13:10:00'
+  crc: '0x8ee8ba1d'
+- name: HP_1BBS._1
+  size: 914462
+  date: '1994-10-01T13:10:00'
+  crc: '0x79959ba5'
+- name: INSTALL.EXE
+  size: 34313
+  date: '1994-10-01T13:10:00'
+  crc: '0x0072c71b'

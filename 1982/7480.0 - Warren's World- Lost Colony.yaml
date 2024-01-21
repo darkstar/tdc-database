@@ -1,0 +1,29 @@
+filename: Warren's World- Lost Colony v1.4 (1982)(Acorn Software Products, Inc.) [Strategy, Simulation].zip
+tdc_id: '7480.0'
+title:
+  box: 'Warren''s World: Lost Colony'
+publisher: Acorn Software Products, Inc.
+year: '1982'
+genre:
+- Strategy
+- Simulation
+language: English
+date:
+  added: '2019-03-01T18:23:06'
+  last_modified: '2019-03-01T18:23:06'
+version: '1.4'
+type: zip
+commands:
+  play: AUTOEXEC.BAT
+references:
+  dosid: DOS06628
+  exodos: Warren's World - Lost Colony (1982).zip
+files:
+- name: AUTOEXEC.BAT
+  size: 23
+  date: '1985-01-01T00:00:00'
+  crc: '0x4328d2e2'
+- name: COLONY.BAS
+  size: 20736
+  date: '1982-07-07T00:00:00'
+  crc: '0x79bcd0e2'

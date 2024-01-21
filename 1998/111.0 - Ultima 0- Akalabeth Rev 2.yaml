@@ -1,0 +1,71 @@
+filename: Ultima 0- Akalabeth Rev 2 v.0955 (1998)(Electronic Arts, Inc., Cory Roth) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '111.0'
+title:
+  box: 'Ultima 0: Akalabeth Rev 2'
+publisher: Electronic Arts, Inc., Cory Roth
+year: '1998'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-02T10:23:46'
+  last_modified: '2022-11-04T10:23:10'
+version: '.0955'
+type: zip
+commands:
+  play: AK.EXE
+  setup: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/apple2/akalabeth-world-of-doom
+  dosid: DOS06030
+  exodos: Ultima 0 - Akalabeth (1980).zip
+files:
+- name: AK.DAT
+  size: 17241
+  date: '1997-11-20T18:54:16'
+  crc: '0x232013f5'
+- name: AK.EXE
+  size: 572510
+  date: '1998-01-14T16:16:20'
+  crc: '0xe92a77a0'
+- name: CWSDPMI.EXE
+  size: 20473
+  date: '1997-10-19T21:48:28'
+  crc: '0x80fa6999'
+- name: DUNGEON.MID
+  size: 3488
+  date: '1995-06-17T12:59:48'
+  crc: '0x983b56f7'
+- name: INTRO.MID
+  size: 4998
+  date: '1994-08-27T02:31:12'
+  crc: '0x50aa0ac6'
+- name: LORDBRIT.MID
+  size: 5680
+  date: '1995-06-17T12:59:52'
+  crc: '0x20e76265'
+- name: OVER.MID
+  size: 3388
+  date: '1994-08-27T02:33:32'
+  crc: '0xc956b389'
+- name: README.NOW
+  size: 2488
+  date: '1998-01-04T22:32:04'
+  crc: '0x639166f9'
+- name: SETUP.EXE
+  size: 328192
+  date: '1997-04-06T21:53:52'
+  crc: '0x06c35e09'
+- name: SHOP.MID
+  size: 4156
+  date: '1995-06-17T12:59:52'
+  crc: '0x91191069'
+- name: SOUND.CFG
+  size: 124
+  date: '1998-01-14T18:08:16'
+  crc: '0x701bd658'
+- name: WHATS.NEW
+  size: 2320
+  date: '1998-01-14T16:18:32'
+  crc: '0x5a18c5f2'

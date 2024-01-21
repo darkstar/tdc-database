@@ -1,0 +1,39 @@
+filename: CJ in the USA (1993)(Codemasters Software Company Limited, The) [Action][!].zip
+tdc_id: '9185.0'
+parent_id: '9185.2'
+title:
+  box: CJ in the USA
+publisher: Codemasters Software Company Limited, The
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T19:01:54'
+  last_modified: '2023-07-23T19:54:15'
+type: zip
+tags:
+- KnownGood
+media: 720K
+commands:
+  play: CJUSA.EXE
+references:
+  mobygames: https://www.mobygames.com/game/12774/cj-in-the-usa/
+  dosid: DOS01398
+  exodos: CJ in the USA (1993).zip
+files:
+- name: ADLIB.BIN
+  size: 12712
+  date: '1993-09-06T17:33:02'
+  crc: '0x71d822aa'
+- name: ANTIFONT.BIN
+  size: 13013
+  date: '1993-06-21T09:57:00'
+  crc: '0xade13216'
+- name: CJUSA.EXE
+  size: 83808
+  date: '1993-10-04T16:33:54'
+  crc: '0xc4ed1248'
+- name: GFX1.GFX
+  size: 54273
+  date: '1993-06-17T18:38:10'
+  crc: '0x1768493e'

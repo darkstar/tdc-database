@@ -1,0 +1,72 @@
+filename: Rebel v0.3 (2012)(Nukem Enterprises) [Action].zip
+tdc_id: '14794.0'
+title:
+  screen: Rebel
+publisher: Nukem Enterprises
+year: '2012'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:57:54'
+  last_modified: '2019-03-02T10:57:54'
+version: '0.3'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 25
+  date: '2018-12-13T23:51:56'
+  crc: '0x45a79c0d'
+- name: LEVELS\
+  size: 0
+  date: '2016-08-17T15:30:40'
+- name: LEVELS\LEVEL1.DAT
+  size: 174
+  date: '2016-08-17T15:30:40'
+  crc: '0xd604979b'
+- name: LEVELS\LEVEL1.LVL
+  size: 320
+  date: '2016-08-17T15:30:40'
+  crc: '0x53f81136'
+- name: LEVELS\LEVEL2.DAT
+  size: 168
+  date: '2016-08-17T15:30:40'
+  crc: '0xc99cdd1e'
+- name: LEVELS\LEVEL2.LVL
+  size: 318
+  date: '2016-08-17T15:30:40'
+  crc: '0xab81056b'
+- name: LEVELS\LEVEL3.DAT
+  size: 179
+  date: '2016-08-17T15:30:40'
+  crc: '0x20e5c61d'
+- name: LEVELS\LEVEL3.LVL
+  size: 300
+  date: '2016-08-17T15:30:40'
+  crc: '0xd2ff1348'
+- name: LEVELS\LEVEL4.DAT
+  size: 158
+  date: '2016-08-17T15:30:40'
+  crc: '0x60558f00'
+- name: LEVELS\LEVEL4.LVL
+  size: 315
+  date: '2016-08-17T15:30:40'
+  crc: '0x31003f5f'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: REBEL.BAS
+  size: 13155
+  date: '2018-12-13T23:52:52'
+  crc: '0xde27c974'
+- name: REBEL.SRC
+  size: 13163
+  date: '2016-08-17T15:30:40'
+  crc: '0xaa9261fd'
+- name: REBLVLED.BAS
+  size: 10428
+  date: '2016-08-17T15:30:40'
+  crc: '0x2b22b496'

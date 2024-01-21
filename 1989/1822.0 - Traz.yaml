@@ -1,0 +1,37 @@
+filename: Traz [f1] (1989)(Cascade Games Limited) [Action].zip
+tdc_id: '1822.0'
+title:
+  box: Traz
+publisher: Cascade Games Limited
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:29:14'
+  last_modified: '2022-12-27T13:36:47'
+type: zip
+tags:
+- Fixed: 1
+commands:
+  play: TRAZ.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/traz
+  dosid: DOS05257
+  exodos: TRAZ (1989).zip
+files:
+- name: TRAZ.EXE
+  size: 141694
+  date: '1980-01-01T12:09:20'
+  crc: '0x80922280'
+- name: TRAZ.EX_
+  size: 141694
+  date: '1980-01-01T00:09:20'
+  crc: '0x2c3f9f48'
+- name: TRAZ.PC
+  size: 22512
+  date: '1980-01-01T03:39:04'
+  crc: '0x1207f060'
+- name: TRAZ.TRZ
+  size: 64689
+  date: '1980-01-01T03:14:24'
+  crc: '0x22c6dcfd'

@@ -1,0 +1,133 @@
+filename: Wingstar (1996)(Interactivision A-S, Jackson Libri) [Action].zip
+tdc_id: '7571.3'
+parent_id: '7571.2'
+title:
+  box: Wingstar
+publisher: Interactivision A-S, Jackson Libri
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2023-11-21T16:54:28'
+  last_modified: '2023-11-21T16:54:28'
+type: zip
+media: CD-ROM
+audio:
+- CD-DA
+commands:
+  play: WINGSTAR.EXE
+  setup: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/10017/wingstar/
+files:
+- name: ACRODOS\
+  size: 0
+  date: '1996-06-11T16:57:46'
+- name: ACRODOS\8514HERE.EXE
+  size: 3245
+  date: '1993-11-22T17:02:08'
+  crc: '0x0658cef9'
+- name: ACRODOS\ACROBAT.001
+  size: 1209256
+  date: '1993-12-17T16:53:36'
+  crc: '0x5fd5c188'
+- name: ACRODOS\ACROBAT.002
+  size: 1221865
+  date: '1993-12-17T16:55:24'
+  crc: '0x21c67aad'
+- name: ACRODOS\ACRTEST.EXE
+  size: 5763
+  date: '1993-10-13T16:16:28'
+  crc: '0x0dd628ae'
+- name: ACRODOS\BINMOD.EXE
+  size: 4873
+  date: '1993-12-08T12:59:24'
+  crc: '0x9397e133'
+- name: ACRODOS\DISK.ID
+  size: 43
+  date: '1993-12-17T16:50:40'
+  crc: '0xce9d602a'
+- name: ACRODOS\INSTALL.EXE
+  size: 204111
+  date: '1993-12-09T18:19:52'
+  crc: '0x49a763b8'
+- name: ACRODOS\MOUSECHK.EXE
+  size: 1504
+  date: '1993-04-14T12:46:50'
+  crc: '0x2147b6c5'
+- name: ACRODOS\README.TXT
+  size: 10587
+  date: '1993-12-16T16:05:34'
+  crc: '0x07a2c33b'
+- name: ACRODOS\SERNUM.TXT
+  size: 18
+  date: '1994-03-17T20:19:36'
+  crc: '0x8720082d'
+- name: ACROWIN\
+  size: 0
+  date: '1996-06-11T16:57:56'
+- name: ACROWIN\DEUTSCH\
+  size: 0
+  date: '1996-06-11T16:57:56'
+- name: ACROWIN\DEUTSCH\ACROREAD.EXE
+  size: 1451553
+  date: '1995-01-18T01:51:00'
+  crc: '0x84ab926e'
+- name: ACROWIN\ENGLISH\
+  size: 0
+  date: '1996-06-11T16:58:04'
+- name: ACROWIN\ENGLISH\ACROREAD.EXE
+  size: 1436516
+  date: '1995-01-18T01:51:00'
+  crc: '0xf4082a1c'
+- name: ACROWIN\FRANCAIS\
+  size: 0
+  date: '1996-06-11T16:58:10'
+- name: ACROWIN\FRANCAIS\ACROREAD.EXE
+  size: 1450133
+  date: '1995-01-18T01:51:00'
+  crc: '0xa1dbc87c'
+- name: AUTORUN.INF
+  size: 29
+  date: '1996-05-10T02:00:56'
+  crc: '0x5d38eaff'
+- name: DOS4GW.EXE
+  size: 265396
+  date: '1995-07-11T10:05:00'
+  crc: '0x5cc34b0f'
+- name: INSTALL.BAT
+  size: 818
+  date: '1996-06-07T08:57:48'
+  crc: '0x7d09937a'
+- name: JOYSTICK.EXE
+  size: 26622
+  date: '1996-01-15T14:45:12'
+  crc: '0xb54b5659'
+- name: MANUAL.TXT
+  size: 796
+  date: '1996-05-10T01:58:40'
+  crc: '0x12ea47a2'
+- name: SETUP.CFG
+  size: 24
+  date: '1996-05-22T15:34:24'
+  crc: '0xbf0a4727'
+- name: SETUP.EXE
+  size: 42048
+  date: '1995-05-23T11:39:08'
+  crc: '0x823bee4e'
+- name: WINGSTAR.EXE
+  size: 283027
+  date: '1996-05-30T18:18:32'
+  crc: '0xbd0de384'
+- name: WINGSTAR.HIS
+  size: 108
+  date: '1996-05-22T15:46:02'
+  crc: '0x5628fe93'
+- name: WINGSTAR.OLB
+  size: 15086058
+  date: '1996-05-07T18:36:46'
+  crc: '0x315f8d37'
+- name: WINGSTAR.PDF
+  size: 163934
+  date: '1996-01-15T14:59:22'
+  crc: '0x8c60b522'

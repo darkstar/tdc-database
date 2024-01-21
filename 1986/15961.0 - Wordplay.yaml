@@ -1,0 +1,32 @@
+filename: Wordplay v1.01 (1986)(Jerry Schonewille) [Strategy].zip
+tdc_id: '15961.0'
+title:
+  screen: Wordplay
+publisher: Jerry Schonewille
+year: '1986'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:25:04'
+  last_modified: '2019-03-01T18:25:04'
+version: '1.01'
+type: zip
+commands:
+  play: WORDPLAY.COM
+files:
+- name: WORDPLAY.000
+  size: 11520
+  date: '1986-07-05T11:19:14'
+  crc: '0xe05df139'
+- name: WORDPLAY.COM
+  size: 60407
+  date: '1986-07-05T11:19:16'
+  crc: '0xa69d8881'
+- name: WORDPLAY.DOC
+  size: 18503
+  date: '1986-07-04T12:31:48'
+  crc: '0x9a6d696b'
+- name: WORDPLAY.PUZ
+  size: 14848
+  date: '1986-07-05T11:31:12'
+  crc: '0xede0dd7f'

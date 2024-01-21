@@ -1,0 +1,24 @@
+filename: Tobia (Installer) (It) (1994)(Simulmondo) [Strategy].zip
+tdc_id: '6965.1'
+title:
+  box: Tobia
+publisher: Simulmondo
+year: '1994'
+genre: Strategy
+language: Italian
+date:
+  added: '2022-07-25T09:58:02'
+  last_modified: '2022-11-30T10:26:00'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 20835
+  date: '1994-05-23T17:35:46'
+  crc: '0x92bedb46'
+- name: TOBIA.000
+  size: 661811
+  date: '1994-05-23T19:44:44'
+  crc: '0xb4a0f59b'

@@ -1,0 +1,40 @@
+filename: Indiana Jones and the Fate of Atlantis (Installer) (De) (1992)(Softgold Computerspiele GmbH) [Adventure].zip
+tdc_id: '11473.14'
+title:
+  box: Indiana Jones and the Fate of Atlantis
+publisher: Softgold Computerspiele GmbH
+year: '1992'
+genre: Adventure
+language: German
+date:
+  added: '2019-03-01T18:46:08'
+  last_modified: '2019-03-01T18:46:08'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 34677
+  date: '1992-10-22T17:09:04'
+  crc: '0x084f0e4b'
+- name: PCVIQA_A.ND4
+  size: 1422160
+  date: '1992-10-22T17:22:26'
+  crc: '0xc29f5bf9'
+- name: PCVIQA_B.ND4
+  size: 1457160
+  date: '1992-10-22T17:22:26'
+  crc: '0x01d1a996'
+- name: PCVIQA_C.ND4
+  size: 1457160
+  date: '1992-10-22T17:22:26'
+  crc: '0x28bb5cf4'
+- name: PCVIQA_D.ND4
+  size: 1457160
+  date: '1992-10-22T17:22:26'
+  crc: '0xd7ae9680'
+- name: PCVIQA_E.ND4
+  size: 1448196
+  date: '1992-10-22T17:22:28'
+  crc: '0x5f3851ae'

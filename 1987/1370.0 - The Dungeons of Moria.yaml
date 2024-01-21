@@ -1,0 +1,37 @@
+filename: Dungeons of Moria, The v4.83 (1987)(Robert Alan Koeneke) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '1370.0'
+title:
+  screen: The Dungeons of Moria
+publisher: Robert Alan Koeneke
+year: '1987'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:25:16'
+  last_modified: '2019-03-01T18:25:16'
+version: '4.83'
+type: zip
+commands:
+  play: MORIA.EXE
+files:
+- name: MORIA.CNF
+  size: 2316
+  date: '1989-10-06T17:22:02'
+  crc: '0x1f614083'
+- name: MORIA.DOC
+  size: 67894
+  date: '1987-08-29T00:00:00'
+  crc: '0x272f7055'
+- name: MORIA.EXE
+  size: 337155
+  date: '1987-08-29T00:00:00'
+  crc: '0x78beb441'
+- name: MORIA.SCR
+  size: 0
+  date: '1989-10-06T17:22:16'
+- name: READ.ME
+  size: 8715
+  date: '1987-08-29T00:00:00'
+  crc: '0xf15624a7'

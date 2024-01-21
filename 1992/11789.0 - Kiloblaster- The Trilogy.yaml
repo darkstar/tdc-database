@@ -1,0 +1,41 @@
+filename: Kiloblaster- The Trilogy (Installer) [SWR] (1992)(Epic MegaGames, Inc.) [Action].zip
+tdc_id: '11789.0'
+title:
+  screen: 'Kiloblaster: The Trilogy'
+publisher: Epic MegaGames, Inc.
+year: '1992'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:48:32'
+  last_modified: '2019-03-01T18:48:32'
+type: zip
+tags:
+- SharewareRegistered
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 33192
+  date: '1993-04-16T08:49:06'
+  crc: '0x06bbe8c7'
+- name: INSTALL.FIL
+  size: 1855
+  date: '1993-09-22T01:02:32'
+  crc: '0xba0b9ad0'
+- name: KILO123.PAK
+  size: 1420072
+  date: '1993-09-22T01:07:46'
+  crc: '0x1d2ba2a1'
+- name: disk2\
+  size: 0
+  date: '2014-11-15T12:34:42'
+- name: disk2\KILO123.PAK
+  size: 140654
+  date: '1993-09-22T01:09:28'
+  crc: '0x1067ec5c'
+- name: disk2\KILO3.PAK
+  size: 148301
+  date: '1993-09-22T00:10:54'
+  crc: '0x239cd579'

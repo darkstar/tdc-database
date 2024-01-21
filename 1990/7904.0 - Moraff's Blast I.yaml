@@ -1,0 +1,71 @@
+filename: Moraff's Blast I v1.1 [SW] (1990)(Moraffware) [Action].zip
+tdc_id: '7904.0'
+title:
+  screen: Moraff's Blast I
+publisher: Moraffware
+year: '1990'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:33:18'
+  last_modified: '2019-03-01T18:33:18'
+version: '1.1'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: BLAST.EXE
+files:
+- name: 320X200.FNT
+  size: 2576
+  date: '1990-07-17T15:16:52'
+  crc: '0x49bff601'
+- name: 360X480.FNT
+  size: 6164
+  date: '1990-07-17T15:21:58'
+  crc: '0x312f458b'
+- name: 64OUT.FNT
+  size: 9292
+  date: '1991-02-18T00:32:56'
+  crc: '0x503bfd3f'
+- name: 7.BIN
+  size: 6384
+  date: '1990-03-17T12:27:44'
+  crc: '0x614b0c5a'
+- name: 86OUT.FNT
+  size: 11592
+  date: '1991-02-17T22:23:54'
+  crc: '0x53cd15c8'
+- name: BLAST.EXE
+  size: 150464
+  date: '1991-02-19T00:23:32'
+  crc: '0xce7b0f83'
+- name: CGA.BGI
+  size: 6253
+  date: '1988-08-29T02:00:00'
+  crc: '0x17cbdd92'
+- name: EHOUT.FNT
+  size: 6900
+  date: '1991-02-18T00:33:08'
+  crc: '0x48c49f79'
+- name: FILE.BIN
+  size: 2080
+  date: '1992-10-01T17:40:52'
+  crc: '0x695b5d7f'
+- name: HERC.BGI
+  size: 6125
+  date: '1988-08-29T02:00:00'
+  crc: '0xc1f40043'
+- name: README
+  size: 1508
+  date: '1990-04-11T09:59:22'
+  crc: '0x5b72eb6a'
+- name: README.BAT
+  size: 12
+  date: '1989-05-05T13:14:40'
+  crc: '0x01286790'
+- name: SCALE.FNT
+  size: 2580
+  date: '1990-07-24T14:46:28'
+  crc: '0x17f6fbac'

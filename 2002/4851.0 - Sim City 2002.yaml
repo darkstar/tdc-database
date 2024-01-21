@@ -1,0 +1,31 @@
+filename: Sim City 2002 (2002)(Igor Uchansky) [Strategy].zip
+tdc_id: '4851.0'
+title:
+  screen: Sim City 2002
+publisher: Igor Uchansky
+year: '2002'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:56:12'
+  last_modified: '2019-03-02T10:56:12'
+type: zip
+commands:
+  play: SIMCITY.EXE
+files:
+- name: SC2002.TXT
+  size: 14004
+  date: '2002-09-01T09:10:02'
+  crc: '0x158080c0'
+- name: SIMCITY.BAS
+  size: 27498
+  date: '2002-09-01T09:10:14'
+  crc: '0xc975bd47'
+- name: SIMCITY.EXE
+  size: 76724
+  date: '2002-09-01T09:10:18'
+  crc: '0xb535d80a'
+- name: YOSTON.SC2
+  size: 6408
+  date: '2002-09-01T09:10:50'
+  crc: '0xd5e90f9d'

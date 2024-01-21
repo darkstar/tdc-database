@@ -1,0 +1,94 @@
+filename: Onslaught (1990)(Hewson) [Action, Strategy].zip
+tdc_id: '2034.0'
+title:
+  box: Onslaught
+publisher: Hewson
+year: '1990'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:33:24'
+  last_modified: '2019-03-01T18:33:24'
+type: zip
+references:
+  dosid: DOS03823
+  exodos: Onslaught (1990).zip
+files:
+- name: CBLOCKS.BIN
+  size: 16384
+  date: '1990-12-03T15:46:36'
+  crc: '0x257a1d6f'
+- name: CGAMASK.BIN
+  size: 33920
+  date: '1990-12-03T15:46:36'
+  crc: '0xb3205b29'
+- name: CPANEL.BIN
+  size: 5760
+  date: '1990-12-03T15:46:36'
+  crc: '0x40dd0072'
+- name: CSPRITES.PAK
+  size: 46192
+  date: '1990-12-03T15:46:38'
+  crc: '0x33a85b3f'
+- name: EPANEL.BIN
+  size: 11520
+  date: '1990-12-03T15:49:50'
+  crc: '0xf18c32fc'
+- name: EPANEL.PAK
+  size: 7451
+  date: '1990-12-03T15:46:38'
+  crc: '0x917c135f'
+- name: FONT.BIN
+  size: 320
+  date: '1990-12-03T15:49:50'
+  crc: '0x1284db09'
+- name: HEWSON.PAK
+  size: 10101
+  date: '1990-12-03T15:49:50'
+  crc: '0xa15e364a'
+- name: HEWSONC.PAK
+  size: 4151
+  date: '1990-12-03T15:46:38'
+  crc: '0xef73d7fc'
+- name: OS.EXE
+  size: 71831
+  date: '2001-04-14T16:40:36'
+  crc: '0xbb6e6124'
+- name: OST.EXE
+  size: 45606
+  date: '2001-04-14T16:36:12'
+  crc: '0x451f204e'
+- name: Runme.bat
+  size: 93
+  date: '2001-04-15T04:44:28'
+  crc: '0x1d8871cd'
+- name: SHELL.BIN
+  size: 352
+  date: '1990-12-03T15:49:50'
+  crc: '0xbe2cb3a7'
+- name: TSPRITES.PAK
+  size: 91332
+  date: '1990-12-03T15:46:38'
+  crc: '0xcef8ebcd'
+- name: VEBLOCKS.BIN
+  size: 32768
+  date: '1990-12-03T15:49:50'
+  crc: '0x461996d6'
+- name: VESPRITE.BIN
+  size: 169600
+  date: '1990-12-03T15:49:50'
+  crc: '0x4a68441a'
+- name: VGALOAD.PAK
+  size: 55168
+  date: '1990-12-03T15:49:52'
+  crc: '0xda81aca8'
+- name: VGAPAL.BIN
+  size: 768
+  date: '1990-12-03T15:49:50'
+  crc: '0x183641be'
+- name: VLOADPAL.BIN
+  size: 768
+  date: '1990-12-03T15:49:50'
+  crc: '0xae6e1c1d'

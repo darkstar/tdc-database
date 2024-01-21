@@ -1,0 +1,40 @@
+filename: Risk (PCjr BASIC) v1.03 [SW] (1986)(Russell Fleming) [Strategy].zip
+tdc_id: '14912.3'
+title:
+  screen: Risk
+  qualifier: PCjr BASIC
+publisher: Russell Fleming
+year: '1986'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:24:56'
+  last_modified: '2019-03-01T18:24:56'
+version: '1.03'
+type: zip
+tags:
+- Shareware
+requirements:
+  cpu:
+    min: '8088'
+files:
+- name: BOARD.BAS
+  size: 32776
+  date: '1986-02-01T11:35:24'
+  crc: '0xe915dd70'
+- name: KBD.COM
+  size: 768
+  date: '1985-06-02T19:19:26'
+  crc: '0x051fdd30'
+- name: RISK.BAS
+  size: 19225
+  date: '1986-03-29T08:30:48'
+  crc: '0x9dfef224'
+- name: RISK.BAT
+  size: 15
+  date: '1985-11-21T18:33:08'
+  crc: '0x21f8c49e'
+- name: RISK.DOC
+  size: 13251
+  date: '1986-01-11T13:56:46'
+  crc: '0x30ab8afd'

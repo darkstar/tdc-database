@@ -1,0 +1,68 @@
+filename: Across the USA v2.0 (Installer) (1992)(Stone & Associates, Nighthawk Computing) [Educational].zip
+tdc_id: '8046.0'
+parent_id: '8046.1'
+title:
+  box: Across the USA
+  qualifier: Installer
+publisher: Stone & Associates, Nighthawk Computing
+year: '1992'
+genre: Educational
+language: English
+date:
+  added: '2020-12-02T05:21:32'
+  last_modified: '2023-12-29T16:03:08'
+version: '2.0'
+type: zip
+media: 720K
+installer: true
+commands:
+  play: STATES.BAT
+references:
+  mobygames: https://www.mobygames.com/game/120401/across-the-usa/
+files:
+- name: CGA.BGI
+  size: 6253
+  date: '1992-12-04T09:57:08'
+  crc: '0x17cbdd92'
+- name: EGAVGA.BGI
+  size: 5363
+  date: '1992-12-04T09:57:08'
+  crc: '0x06d36962'
+- name: EZI.CFG
+  size: 891
+  date: '1992-12-04T10:25:26'
+  crc: '0x80aa5a04'
+- name: GR2.COM
+  size: 6888
+  date: '1992-12-04T09:57:08'
+  crc: '0x174e5ddb'
+- name: INSTALL.EXE
+  size: 32640
+  date: '1992-12-04T09:57:08'
+  crc: '0xe343c9d4'
+- name: RMVCGA.COM
+  size: 235
+  date: '1992-12-04T09:57:08'
+  crc: '0xe94cf902'
+- name: SIMCGA.COM
+  size: 11852
+  date: '1992-12-04T09:57:08'
+  crc: '0x798845fc'
+- name: STATES.BAT
+  size: 30
+  date: '1992-12-04T09:57:08'
+  crc: '0x40e80d91'
+- name: US0001
+  size: 0
+  date: '1992-12-04T09:57:08'
+- name: USA.DAT
+  size: 20
+  date: '1999-10-08T00:52:16'
+  crc: '0x9f890b9b'
+- name: USA.EXE
+  size: 69938
+  date: '1992-12-04T09:57:08'
+  crc: '0xcb36baf5'
+- name: VERSION2.0
+  size: 0
+  date: '1992-12-04T09:57:08'

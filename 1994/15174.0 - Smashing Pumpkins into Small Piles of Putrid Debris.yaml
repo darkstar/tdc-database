@@ -1,0 +1,32 @@
+filename: Smashing Pumpkins into Small Piles of Putrid Debris v2.28 (Installer) [SW] (1994)(Jamül Software) [Action].zip
+tdc_id: '15174.0'
+title:
+  screen: Smashing Pumpkins into Small Piles of Putrid Debris
+publisher: Jamül Software
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T07:16:24'
+  last_modified: '2019-03-02T07:16:24'
+version: '2.28'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.BAT
+files:
+- name: INSTALL.BAT
+  size: 610
+  date: '1994-06-07T23:03:52'
+  crc: '0x57ed14d8'
+- name: SPIS.ZIP
+  size: 359066
+  date: '1994-07-11T21:39:24'
+  crc: '0xcb319e14'
+- name: SPISVOC.ZIP
+  size: 628400
+  date: '1994-07-11T21:40:02'
+  crc: '0x3f2ae535'

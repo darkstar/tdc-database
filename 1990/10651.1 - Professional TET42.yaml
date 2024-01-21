@@ -1,0 +1,30 @@
+filename: Professional TET42 v1.10 (1990)(E. Kappel and A. Banzhaf) [Strategy, Action].zip
+tdc_id: '10651.1'
+title:
+  screen: Professional TET42
+publisher: E. Kappel and A. Banzhaf
+year: '1990'
+genre:
+- Strategy
+- Action
+language: English
+date:
+  added: '2019-03-01T18:33:38'
+  last_modified: '2019-03-01T18:33:38'
+version: '1.10'
+type: zip
+commands:
+  play: TET.EXE
+files:
+- name: DVEGA.RES
+  size: 155993
+  date: '1990-06-06T01:10:00'
+  crc: '0xb6854fa5'
+- name: DVRES.RES
+  size: 19264
+  date: '1994-12-16T14:04:14'
+  crc: '0x4280b202'
+- name: TET.EXE
+  size: 120944
+  date: '1990-06-06T01:10:00'
+  crc: '0x92ff3760'

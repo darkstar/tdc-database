@@ -1,0 +1,31 @@
+filename: Boxes v1.1 [SW] (1990)(iSc Inc.) [Action].zip
+tdc_id: '8831.0'
+title:
+  screen: Boxes
+publisher: iSc Inc.
+year: '1990'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:31:56'
+  last_modified: '2019-03-01T18:31:56'
+version: '1.1'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: BOXES.EXE
+files:
+- name: BOXES.EXE
+  size: 64886
+  date: '1990-07-30T23:17:34'
+  crc: '0x7bcaa833'
+- name: BOXES.QSL
+  size: 8909
+  date: '1990-07-30T21:57:04'
+  crc: '0xb622ac40'
+- name: BOXES.SCR
+  size: 11
+  date: '1990-07-30T23:18:04'
+  crc: '0xfb557e42'

@@ -1,0 +1,47 @@
+filename: Where in the U.S.A. is Carmen Sandiego_ Enhanced v2.5 (1993)(Brøderbund Software, Inc.) [Educational].zip
+tdc_id: '8008.4'
+title:
+  box: Where in the U.S.A. is Carmen Sandiego_ Enhanced
+publisher: Brøderbund Software, Inc.
+year: '1993'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T21:12:04'
+  last_modified: '2019-03-01T21:12:04'
+version: '2.5'
+type: zip
+commands:
+  play: CARMEN.EXE
+references:
+  dosid: DOS05580
+  exodos: Where in the USA is Carmen Sandiego Enhanced (1992).zip
+files:
+- name: ACME.DAT
+  size: 2112
+  date: '1996-02-01T20:34:32'
+  crc: '0xe6579ff3'
+- name: CARMEN.DAT
+  size: 164460
+  date: '1993-07-12T02:50:00'
+  crc: '0x917008b2'
+- name: CARMEN.EXE
+  size: 120731
+  date: '1993-07-12T02:50:00'
+  crc: '0x14f6f15a'
+- name: CITIES1.DAT
+  size: 59510
+  date: '1993-07-12T02:50:00'
+  crc: '0xe6599ebe'
+- name: CITIES2.DAT
+  size: 229719
+  date: '1993-07-12T02:50:00'
+  crc: '0x167ceb0d'
+- name: DIGISND.DAT
+  size: 127429
+  date: '1993-07-12T02:50:00'
+  crc: '0x214d006d'
+- name: MIDISND.DAT
+  size: 10172
+  date: '1993-07-12T02:50:00'
+  crc: '0x2083eba6'

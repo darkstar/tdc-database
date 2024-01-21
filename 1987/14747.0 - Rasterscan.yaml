@@ -1,0 +1,30 @@
+filename: Rasterscan [DC] (1987)(Mastertronic Group Ltd.) [Adventure, Strategy].zip
+tdc_id: '14747.0'
+title:
+  box: Rasterscan
+publisher: Mastertronic Group Ltd.
+year: '1987'
+genre:
+- Adventure
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:25:34'
+  last_modified: '2019-03-01T18:25:34'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: RASTER.COM
+references:
+  dosid: DOS05958
+  exodos: Rasterscan (1988).zip
+files:
+- name: GAME.DAT
+  size: 155648
+  date: '1999-06-18T22:00:02'
+  crc: '0x3bc97543'
+- name: RASTER.COM
+  size: 160
+  date: '1999-06-18T22:44:44'
+  crc: '0x6a3dfc4b'

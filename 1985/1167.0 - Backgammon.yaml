@@ -1,0 +1,53 @@
+filename: Backgammon v1.3.1 (1985)(Morris Bennett Altman, Ronnie S. Pickus) [Strategy, Board].zip
+tdc_id: '1167.0'
+title:
+  screen: Backgammon
+publisher: Morris Bennett Altman, Ronnie S. Pickus
+year: '1985'
+genre:
+- Strategy
+- Board
+language: English
+date:
+  added: '2019-03-01T18:24:20'
+  last_modified: '2019-03-01T18:24:20'
+version: 1.3.1
+type: zip
+commands:
+  play: BGMN.EXE
+references:
+  dosid: DOS07384
+  exodos: Backgammon (1985).zip
+files:
+- name: BGMN.EXE
+  size: 57742
+  date: '1986-03-14T15:10:48'
+  crc: '0xe6f7a533'
+- name: COLORS.BGM
+  size: 600
+  date: '1986-03-20T03:08:46'
+  crc: '0x417e215c'
+- name: HELP.BGM
+  size: 2305
+  date: '1986-03-14T15:28:56'
+  crc: '0x76a027cd'
+- name: HISTORY.BGM
+  size: 825
+  date: '1986-03-14T15:27:54'
+  crc: '0x40e48ae9'
+- name: HOWTO.BGM
+  size: 8845
+  date: '1986-03-14T15:28:42'
+  crc: '0x7fb61e55'
+- name: LOGO.BGM
+  size: 863
+  date: '1986-03-14T15:28:50'
+  crc: '0x02bec1c7'
+- name: READ.ME
+  size: 1676
+  date: '1986-03-14T17:29:56'
+  crc: '0xd5ca099f'
+- name: RULES.BGM
+  size: 5476
+  date: '1986-03-14T15:28:22'
+  crc: '0x0f6044d1'

@@ -1,0 +1,28 @@
+filename: I-Q Solitaire (1998)(Daniel Fletcher) [Strategy].zip
+tdc_id: '11548.0'
+title:
+  screen: I-Q Solitaire
+publisher: Daniel Fletcher
+year: '1998'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:41:48'
+  last_modified: '2019-03-02T10:41:48'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 22
+  date: '2018-12-08T11:58:34'
+  crc: '0x29718aaf'
+- name: IQ.BAS
+  size: 12773
+  date: '1998-10-02T16:32:48'
+  crc: '0x4869841e'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

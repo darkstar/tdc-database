@@ -1,0 +1,31 @@
+filename: Jogo da Bolsa (Pt) (1987)(E&P Software) [Strategy].zip
+tdc_id: '1391.0'
+title:
+  screen: Jogo da Bolsa
+publisher: E&P Software
+year: '1987'
+genre: Strategy
+language: Portuguese
+date:
+  added: '2021-03-05T08:13:48'
+  last_modified: '2021-03-05T08:13:48'
+type: zip
+commands:
+  play: BOLSA.EXE
+files:
+- name: BASRUN.EXE
+  size: 31744
+  date: '1982-05-07T13:00:04'
+  crc: '0x3d93d942'
+- name: BOLSA.EXE
+  size: 19773
+  date: '1980-01-01T02:10:26'
+  crc: '0xc9abc5a8'
+- name: CHKLIST.CPS
+  size: 54
+  date: '1993-04-16T20:44:54'
+  crc: '0x33c886fa'
+- name: IMAGEM.PIC
+  size: 4096
+  date: '1998-06-19T22:47:42'
+  crc: '0x8fc3c6fc'

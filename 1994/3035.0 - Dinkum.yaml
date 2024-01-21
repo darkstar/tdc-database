@@ -1,0 +1,45 @@
+filename: Dinkum v2.14 (1994)(Gary A. Allen) [Adventure, Interactive Fiction].zip
+tdc_id: '3035.0'
+title:
+  screen: Dinkum
+publisher: Gary A. Allen
+year: '1994'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T21:56:08'
+  last_modified: '2019-03-01T21:56:08'
+version: '2.14'
+type: zip
+commands:
+  play: DINKUM.EXE
+references:
+  dosid: DOS00042
+  exodos: Dinkum (1994).zip
+files:
+- name: DINKUM.EXE
+  size: 193032
+  date: '1995-12-14T19:07:30'
+  crc: '0x9b503cee'
+- name: READ.ME
+  size: 324
+  date: '1995-12-08T16:31:20'
+  crc: '0x264e1a5c'
+- name: README.DOS
+  size: 65
+  date: '1995-12-14T19:09:50'
+  crc: '0xe0bcf831'
+- name: READ_ME.1
+  size: 5993
+  date: '1995-12-08T16:31:20'
+  crc: '0x70c9ed2f'
+- name: READ_ME.2
+  size: 3486
+  date: '1995-12-08T16:31:20'
+  crc: '0x7a722e35'
+- name: READ_ME.3
+  size: 1521
+  date: '1995-12-08T16:31:20'
+  crc: '0x0735b42d'

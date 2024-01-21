@@ -1,0 +1,117 @@
+filename: King's Quest III- To Heir is Human v2.0 (Installer) [a1] (1987)(Sierra On-Line, Inc.) [Adventure].zip
+tdc_id: '11814.6'
+title:
+  box: 'King''s Quest III: To Heir is Human'
+publisher: Sierra On-Line, Inc.
+year: '1987'
+genre: Adventure
+language: English
+date:
+  added: '2021-09-03T14:23:56'
+  last_modified: '2021-09-03T14:23:56'
+version: '2.0'
+type: zip
+tags:
+- Alternate: 1
+installer: true
+files:
+- name: AGI
+  size: 38400
+  date: '1987-05-13T14:40:08'
+  crc: '0xfcd148ab'
+- name: AGIDATA.OVL
+  size: 7680
+  date: '1987-05-13T08:15:40'
+  crc: '0x0a908dc6'
+- name: CGA_GRAF.OVL
+  size: 1024
+  date: '1987-05-13T08:15:10'
+  crc: '0x17752d02'
+- name: CPC.COM
+  size: 8048
+  date: '1985-09-19T16:47:38'
+  crc: '0x5e7f9883'
+- name: EGA_GRAF.OVL
+  size: 1024
+  date: '1987-05-13T08:15:10'
+  crc: '0xcfa63d5c'
+- name: HGC_FONT
+  size: 3072
+  date: '1987-01-26T15:47:26'
+  crc: '0x200435c7'
+- name: HGC_GRAF.OVL
+  size: 1536
+  date: '1987-05-13T08:15:12'
+  crc: '0x0619da82'
+- name: HGC_OBJS.OVL
+  size: 1024
+  date: '1987-05-13T08:15:12'
+  crc: '0x571c7935'
+- name: IBM_OBJS.OVL
+  size: 512
+  date: '1987-05-13T08:15:12'
+  crc: '0x3bcb96dd'
+- name: INSTALLH.BAT
+  size: 1253
+  date: '1987-05-22T10:19:58'
+  crc: '0x12c04805'
+- name: JR_GRAF.OVL
+  size: 512
+  date: '1987-05-13T08:15:10'
+  crc: '0xe3713583'
+- name: LOGDIR
+  size: 390
+  date: '1987-05-29T16:03:42'
+  crc: '0xa34f44e4'
+- name: MAKEPATH.COM
+  size: 74
+  date: '1987-04-22T12:05:20'
+  crc: '0xa04a3ac3'
+- name: OBJECT
+  size: 796
+  date: '1987-05-28T11:22:54'
+  crc: '0x80bb91c4'
+- name: PICDIR
+  size: 531
+  date: '1987-05-29T16:03:42'
+  crc: '0x0c39343d'
+- name: SIERRA.COM
+  size: 2944
+  date: '1987-05-13T14:40:02'
+  crc: '0x37f73674'
+- name: SIERRA.CO_
+  size: 2944
+  date: '1987-05-13T14:40:02'
+  crc: '0xbe418d1c'
+- name: SNDDIR
+  size: 120
+  date: '1987-05-29T16:03:42'
+  crc: '0x528b4578'
+- name: VIEWDIR
+  size: 756
+  date: '1987-05-29T16:03:42'
+  crc: '0xa759f921'
+- name: VOL.0
+  size: 78613
+  date: '1987-05-29T16:02:04'
+  crc: '0x06d71677'
+- name: VOL.1
+  size: 366274
+  date: '1987-05-29T16:03:04'
+  crc: '0xa5ec27ec'
+- name: VOL.2
+  size: 206606
+  date: '1987-05-29T16:03:42'
+  crc: '0xbe2bd717'
+- name: WORDS.TOK
+  size: 5657
+  date: '1987-05-28T11:22:50'
+  crc: '0x46d861cb'
+- name: _INSTALL.BAT
+  size: 768
+  date: '1980-01-01T00:01:08'
+  crc: '0x96c50099'
+- name: _KQ3.BAT
+  size: 39
+  date: '1987-04-07T14:03:40'
+  crc: '0xf76ceaa6'

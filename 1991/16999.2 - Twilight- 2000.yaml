@@ -1,0 +1,66 @@
+filename: Twilight- 2000 (Installer) (1991)(MicroProse Software, Inc.) [Role-Playing (RPG), Strategy].zip
+tdc_id: '16999.2'
+title:
+  box: 'Twilight: 2000'
+publisher: MicroProse Software, Inc.
+year: '1991'
+genre:
+- Role-Playing (RPG)
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:39:54'
+  last_modified: '2019-03-01T18:39:54'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK1.TWI
+  size: 314850
+  date: '1991-12-06T05:15:42'
+  crc: '0x2ba5f50e'
+- name: DISK10.TWI
+  size: 108204
+  date: '1991-12-06T05:15:42'
+  crc: '0xc746daa0'
+- name: DISK2.TWI
+  size: 362496
+  date: '1991-12-06T05:13:24'
+  crc: '0x105c3272'
+- name: DISK3.TWI
+  size: 362496
+  date: '1991-12-06T05:13:42'
+  crc: '0xd7854c17'
+- name: DISK4.TWI
+  size: 362496
+  date: '1991-12-06T05:14:06'
+  crc: '0xd63cb149'
+- name: DISK5.TWI
+  size: 362496
+  date: '1991-12-06T05:14:24'
+  crc: '0xfbb2b1f8'
+- name: DISK6.TWI
+  size: 362496
+  date: '1991-12-06T05:14:44'
+  crc: '0x1410eb53'
+- name: DISK7.TWI
+  size: 362496
+  date: '1991-12-06T05:15:02'
+  crc: '0xd08098e8'
+- name: DISK8.TWI
+  size: 362496
+  date: '1991-12-06T05:15:18'
+  crc: '0xc635878e'
+- name: DISK9.TWI
+  size: 362496
+  date: '1991-12-06T05:15:36'
+  crc: '0xe2848ac4'
+- name: INSTALL.EXE
+  size: 14668
+  date: '1991-12-05T16:17:58'
+  crc: '0x1516e5c7'
+- name: README.COM
+  size: 26536
+  date: '1991-12-05T19:45:50'
+  crc: '0xc63a11b1'

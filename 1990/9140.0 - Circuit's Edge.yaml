@@ -1,0 +1,115 @@
+filename: Circuit's Edge (1990)(Infocom, Inc.) [Adventure].zip
+tdc_id: '9140.0'
+parent_id: '9140.2'
+title:
+  box: Circuit's Edge
+publisher: Infocom, Inc.
+year: '1990'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:32:04'
+  last_modified: '2019-03-01T18:32:04'
+type: zip
+commands:
+  play: EDGE.EXE
+references:
+  dosid: DOS01390
+  exodos: Circuit's Edge (1990).zip
+files:
+- name: ACTIONS.DAT
+  size: 1693
+  date: '1992-06-04T16:45:12'
+  crc: '0xa87a88ef'
+- name: ALLANM.ANM
+  size: 186456
+  date: '1992-06-04T16:46:04'
+  crc: '0xf4a8c804'
+- name: ALLMAPS.MAP
+  size: 3312
+  date: '1992-06-04T16:45:32'
+  crc: '0x7c59a940'
+- name: CGAREMAP.DAT
+  size: 2016
+  date: '1992-06-04T16:45:12'
+  crc: '0x2ea48461'
+- name: COMBAT4.MUS
+  size: 6813
+  date: '1992-06-04T16:46:06'
+  crc: '0x2513f5e2'
+- name: CYBER.FNT
+  size: 1024
+  date: '1992-06-04T16:45:32'
+  crc: '0x04b8edf5'
+- name: DISK1CMP.CMP
+  size: 127162
+  date: '1992-06-04T16:45:12'
+  crc: '0x573b6ec2'
+- name: DISK2CMP.CMP
+  size: 9367
+  date: '1992-06-04T16:46:06'
+  crc: '0xdf4942b4'
+- name: DISK3CMP.CMP
+  size: 357424
+  date: '1992-06-04T16:47:04'
+  crc: '0x454a8fb1'
+- name: DISKTEXT.TXT
+  size: 122645
+  date: '1992-06-04T16:46:18'
+  crc: '0xf3e8d57a'
+- name: EDGE.EXE
+  size: 176851
+  date: '1992-06-04T16:45:30'
+  crc: '0x65cc9a7e'
+- name: GAMEORIG.DAT
+  size: 8146
+  date: '2008-05-09T21:53:06'
+  crc: '0xbaa0593e'
+- name: GAMESAVE.DAT
+  size: 8146
+  date: '1992-06-04T16:46:06'
+  crc: '0x7cc34b4c'
+- name: GRAVMAP.DAT
+  size: 960
+  date: '1992-06-04T16:45:14'
+  crc: '0xc958a024'
+- name: NIGHT1.MUS
+  size: 17840
+  date: '1992-06-04T16:46:08'
+  crc: '0x8a7fc8b1'
+- name: NPCDATA.DAT
+  size: 7195
+  date: '1992-06-04T16:45:14'
+  crc: '0xa37a1508'
+- name: PLOTDATA.DAT
+  size: 5212
+  date: '1992-06-04T16:45:16'
+  crc: '0x63990f80'
+- name: PREFS.DAT
+  size: 6
+  date: '2008-05-09T21:52:24'
+  crc: '0x1d514b36'
+- name: RESPONSE.DAT
+  size: 2018
+  date: '1992-06-04T16:45:16'
+  crc: '0x08dabfc2'
+- name: SNDDATA.DAT
+  size: 1286
+  date: '1992-06-04T16:45:16'
+  crc: '0x3ab6ed8f'
+- name: TITLE.MUS
+  size: 8568
+  date: '1992-06-04T16:45:32'
+  crc: '0xf4ec2929'
+- name: TRASH.DAT
+  size: 600
+  date: '1992-06-04T16:45:18'
+  crc: '0x46d952a0'
+- name: WANDER.MUS
+  size: 2342
+  date: '1992-06-04T16:47:04'
+  crc: '0x092173e9'
+- name: WIN.MUS
+  size: 5150
+  date: '1992-06-04T16:46:18'
+  crc: '0x796f6bd5'

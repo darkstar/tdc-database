@@ -1,0 +1,58 @@
+filename: Kasparov's Gambit (Installer) (1993)(Electronic Arts, Inc.) [Strategy, Chess].zip
+tdc_id: '11715.1'
+parent_id: '11715.2'
+title:
+  box: Kasparov's Gambit
+publisher: Electronic Arts, Inc.
+year: '1993'
+genre:
+- Strategy
+- Chess
+language: English
+date:
+  added: '2019-03-01T19:10:56'
+  last_modified: '2019-03-01T19:10:56'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: GAMBIT.001
+  size: 1331536
+  date: '1993-08-26T18:19:00'
+  crc: '0x50fc9f44'
+- name: GAMBIT.002
+  size: 1457664
+  date: '1993-08-26T18:13:16'
+  crc: '0xab9d3f0f'
+- name: GAMBIT.003
+  size: 1457664
+  date: '1993-08-26T18:14:44'
+  crc: '0x5cac0aad'
+- name: GAMBIT.004
+  size: 1457664
+  date: '1993-08-26T18:16:14'
+  crc: '0x5e8ec3b1'
+- name: GAMBIT.005
+  size: 904603
+  date: '1993-08-26T18:17:54'
+  crc: '0xf5a6c744'
+- name: GAMBIT_1
+  size: 0
+  date: '1993-08-26T18:10:38'
+- name: GAMBIT_2
+  size: 0
+  date: '1993-08-26T18:12:08'
+- name: GAMBIT_3
+  size: 0
+  date: '1993-08-26T18:13:28'
+- name: GAMBIT_4
+  size: 0
+  date: '1993-08-26T18:15:00'
+- name: GAMBIT_5
+  size: 0
+  date: '1993-08-26T18:17:06'
+- name: INSTALL.EXE
+  size: 125847
+  date: '1992-11-12T10:11:16'
+  crc: '0xcad77f04'

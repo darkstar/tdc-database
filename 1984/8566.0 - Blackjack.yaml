@@ -1,0 +1,46 @@
+filename: Blackjack (1984)(IBM) [Strategy, Cards].zip
+tdc_id: '8566.0'
+title:
+  box: Blackjack
+publisher: IBM
+year: '1984'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:24:00'
+  last_modified: '2019-03-01T18:24:00'
+type: zip
+references:
+  dosid: DOS06509
+  exodos: Blackjack (1984).zip
+files:
+- name: BJACK.CON
+  size: 493
+  date: '1987-08-04T12:00:00'
+  crc: '0xf2c1883c'
+- name: BJACK.DCA
+  size: 10533
+  date: '1987-08-04T12:00:00'
+  crc: '0x14a8f60a'
+- name: BJACK.LUT
+  size: 88
+  date: '1987-08-04T12:00:00'
+  crc: '0x517edbcd'
+- name: BLKJACK.COM
+  size: 96
+  date: '2014-05-18T04:04:08'
+  crc: '0x97fedf8a'
+- name: BLKJACK.EXE
+  size: 81536
+  date: '1987-08-04T12:00:00'
+  crc: '0x609e3082'
+- name: VIEWDOX.COM
+  size: 89
+  date: '2014-05-19T20:09:44'
+  crc: '0x1afd55f8'
+- name: VIEWDOX.EXE
+  size: 10585
+  date: '1987-08-04T12:00:00'
+  crc: '0xa32e2060'

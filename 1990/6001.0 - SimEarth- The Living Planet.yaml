@@ -1,0 +1,110 @@
+filename: SimEarth- The Living Planet v1.0 (Installer) [f1] (1990)(Maxis Software Inc.) [Strategy, Simulation].zip
+tdc_id: '6001.0'
+parent_id: '6001.1'
+title:
+  box: 'SimEarth: The Living Planet'
+  qualifier: Installer
+publisher: Maxis Software Inc.
+year: '1990'
+genre:
+- Strategy
+- Simulation
+language: English
+date:
+  added: '2019-03-01T18:34:02'
+  last_modified: '2023-10-15T12:50:50'
+version: '1.0'
+type: zip
+tags:
+- Fixed: 1
+media: 360K
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1835/simearth-the-living-planet/
+files:
+- name: GLOBE.DAT
+  size: 9085
+  date: '1990-12-19T17:21:02'
+  crc: '0x2d38cf5c'
+- name: GR.DAT
+  size: 9400
+  date: '1990-12-19T17:21:04'
+  crc: '0xa0e11aab'
+- name: HCEGAIA.DAT
+  size: 311572
+  date: '1990-12-19T07:04:20'
+  crc: '0x1688dd3f'
+- name: HCEGAIA.NDX
+  size: 3620
+  date: '1990-12-19T07:04:20'
+  crc: '0x3c009c5f'
+- name: INSTALL.EXE
+  size: 27311
+  date: '1991-02-08T11:17:38'
+  crc: '0x0de855f9'
+- name: INSTALL.EX_
+  size: 27275
+  date: '1990-12-19T17:20:56'
+  crc: '0x70d1fe69'
+- name: LCEGAIA.DAT
+  size: 142822
+  date: '1990-12-19T07:04:36'
+  crc: '0x75a4fcd0'
+- name: LCEGAIA.NDX
+  size: 3604
+  date: '1990-12-19T07:04:36'
+  crc: '0xac31c4f9'
+- name: MAP.DAT
+  size: 12227
+  date: '1990-12-19T17:21:10'
+  crc: '0x79c2b7a1'
+- name: MONOIA.DAT
+  size: 213880
+  date: '1990-12-19T07:04:30'
+  crc: '0x84ac47ff'
+- name: MONOIA.NDX
+  size: 3860
+  date: '1990-12-19T07:04:30'
+  crc: '0xdabc4ba7'
+- name: README
+  size: 2373
+  date: '1990-12-20T16:59:28'
+  crc: '0x482be9bb'
+- name: SE_DATA#.1
+  size: 0
+  date: '1990-12-20T16:23:32'
+- name: SE_DATA#.2
+  size: 0
+  date: '1990-12-20T16:24:02'
+- name: SE_DATA#.3
+  size: 0
+  date: '1990-12-20T16:24:44'
+- name: SE_INSTA.LL
+  size: 0
+  date: '1990-12-20T16:21:42'
+- name: SHARED.DAT
+  size: 103455
+  date: '1990-12-19T07:03:44'
+  crc: '0x653a2e1d'
+- name: SHARED.NDX
+  size: 1516
+  date: '1990-12-19T07:03:44'
+  crc: '0x671fae9a'
+- name: SIM.DAT
+  size: 15073
+  date: '1990-12-19T17:21:14'
+  crc: '0x9361206a'
+- name: SIMEARTH.DAT
+  size: 163917
+  date: '1990-12-19T17:20:50'
+  crc: '0x8689a656'
+- name: TDYGAIA.DAT
+  size: 131082
+  date: '1990-12-19T07:04:44'
+  crc: '0xcc7e2fbf'
+- name: TDYGAIA.NDX
+  size: 3604
+  date: '1990-12-19T07:04:44'
+  crc: '0x8b26a75f'

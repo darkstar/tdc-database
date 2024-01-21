@@ -1,0 +1,41 @@
+filename: BloodNet (Installer) [h1] (1993)(MicroProse Software, Inc.) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '8533.1'
+parent_id: '8533.3'
+title:
+  box: BloodNet
+publisher: MicroProse Software, Inc.
+year: '1993'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T19:01:38'
+  last_modified: '2019-03-01T19:01:38'
+type: zip
+tags:
+- Hack: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK1.BN
+  size: 1434112
+  date: '1993-10-21T09:28:38'
+  crc: '0x32dbd585'
+- name: DISK2.BN
+  size: 1457664
+  date: '1993-10-21T09:29:44'
+  crc: '0xcb790f23'
+- name: DISK3.BN
+  size: 1457664
+  date: '1993-10-21T09:30:54'
+  crc: '0x81251ff5'
+- name: DISK4.BN
+  size: 1185281
+  date: '1993-10-21T09:31:56'
+  crc: '0x51ae4a4a'
+- name: INSTALL.EXE
+  size: 19338
+  date: '1993-11-04T10:29:14'
+  crc: '0x38cad29a'

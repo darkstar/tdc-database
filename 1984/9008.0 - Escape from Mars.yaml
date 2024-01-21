@@ -1,0 +1,30 @@
+filename: Escape from Mars (1984)(Anonymous) [Adventure, Interactive Fiction].zip
+tdc_id: '9008.0'
+title:
+  screen: Escape from Mars
+publisher: Anonymous
+year: '1984'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:24:04'
+  last_modified: '2019-03-01T18:24:04'
+type: zip
+media: Download
+commands:
+  play: MARS-ESC.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: MARS-ESC.BAS
+  size: 12800
+  date: '1984-05-28T23:39:30'
+  crc: '0xa0a11054'
+- name: MARS-ESC.BAT
+  size: 18
+  date: '2014-12-19T01:22:36'
+  crc: '0x9b3ade3a'

@@ -1,0 +1,48 @@
+filename: Where in America's Past is Carmen Sandiego_ v1.01 (Installer) (1991)(Brøderbund Software, Inc.) [Adventure, Educational].zip
+tdc_id: '8013.4'
+title:
+  box: Where in America's Past is Carmen Sandiego?
+publisher: Brøderbund Software, Inc.
+year: '1991'
+genre:
+- Adventure
+- Educational
+language: English
+date:
+  added: '2019-03-01T18:40:02'
+  last_modified: '2019-03-01T18:40:02'
+version: '1.01'
+type: zip
+installer: true
+commands:
+  play: SETUP.EXE
+files:
+- name: CARMEN1
+  size: 692112
+  date: '1992-03-04T00:00:02'
+  crc: '0x9e22078e'
+- name: CARMEN2
+  size: 730112
+  date: '1992-03-04T00:00:02'
+  crc: '0x98ebc058'
+- name: CARMEN3
+  size: 608038
+  date: '1992-03-04T00:00:02'
+  crc: '0x9d45f34a'
+- name: DATA DISK 1
+  size: 0
+  date: '1990-10-19T06:34:00'
+- name: DATA DISK 2
+  size: 0
+  date: '1990-10-19T06:35:48'
+- name: PROGRAM.DSK
+  size: 0
+  date: '1990-10-19T06:38:22'
+- name: SETUP.CFG
+  size: 695
+  date: '1992-03-04T00:00:02'
+  crc: '0x47e7e41c'
+- name: SETUP.EXE
+  size: 35983
+  date: '1992-03-04T00:00:02'
+  crc: '0x2dff1cb0'

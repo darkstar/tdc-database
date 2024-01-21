@@ -1,0 +1,30 @@
+filename: Tetris (1996)(Joshua Dickerson) [Action, Strategy].zip
+tdc_id: '16573.0'
+title:
+  screen: Tetris
+publisher: Joshua Dickerson
+year: '1996'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-02T10:21:50'
+  last_modified: '2019-03-02T10:21:50'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 26
+  date: '2018-04-15T14:23:06'
+  crc: '0x11eaedb5'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T01:28:02'
+  crc: '0x19f6ed75'
+- name: TETRIS.BAS
+  size: 8836
+  date: '2018-03-10T01:56:34'
+  crc: '0x0ce3ce55'

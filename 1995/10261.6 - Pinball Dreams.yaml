@@ -1,0 +1,35 @@
+filename: Pinball Dreams (Installer) (1995)(21st Century Entertainment Ltd.) [Simulation, Action].zip
+tdc_id: '10261.6'
+parent_id: '10261.5'
+title:
+  box: Pinball Dreams
+  qualifier: Installer
+publisher: 21st Century Entertainment Ltd.
+year: '1995'
+genre:
+- Simulation
+- Action
+language: English
+date:
+  added: '2023-03-27T09:59:29'
+  last_modified: '2023-03-27T09:59:29'
+type: zip
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.COM
+references:
+  mobygames: https://www.mobygames.com/game/703/pinball-dreams/
+files:
+- name: INSTALL.COM
+  size: 5137
+  date: '1994-10-04T16:21:58'
+  crc: '0x99bbf70e'
+- name: PD2.PAK
+  size: 1218619
+  date: '1995-03-15T12:45:40'
+  crc: '0x884d50fc'
+- name: UNPACK5.EXE
+  size: 3749
+  date: '1994-05-13T11:53:30'
+  crc: '0x99a8f583'

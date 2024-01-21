@@ -1,0 +1,34 @@
+filename: Star Crusader Speech Pack (Installer) (1994)(GameTek, Inc.) [Simulation, Addon].zip
+tdc_id: '15498.0'
+title:
+  box: Star Crusader Speech Pack
+publisher: GameTek, Inc.
+year: '1994'
+genre:
+- Simulation
+- Addon
+language: English
+date:
+  added: '2019-03-02T07:17:42'
+  last_modified: '2019-03-02T07:17:42'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK1.SCS
+  size: 1441280
+  date: '1994-08-19T12:08:58'
+  crc: '0x187b413e'
+- name: DISK2.SCS
+  size: 1457664
+  date: '1994-08-19T12:10:00'
+  crc: '0x95699afd'
+- name: DISK3.SCS
+  size: 428934
+  date: '1994-08-19T12:10:28'
+  crc: '0xe915f2e7'
+- name: INSTALL.EXE
+  size: 16185
+  date: '1994-08-19T12:07:26'
+  crc: '0xcc9e577d'

@@ -1,0 +1,30 @@
+filename: YA! Tetris v2.0 (1997)(William Yu) [Action, Strategy].zip
+tdc_id: '15795.1'
+title:
+  screen: YA! Tetris
+publisher: William Yu
+year: '1997'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-02T10:40:28'
+  last_modified: '2019-03-02T10:40:28'
+version: '2.0'
+type: zip
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 22
+  date: '2018-03-07T12:23:42'
+  crc: '0xff4a2447'
+- name: QB.EXE
+  size: 278804
+  date: '2016-03-12T18:19:58'
+  crc: '0xb08bc0fe'
+- name: YATET2.BAS
+  size: 51404
+  date: '1998-02-15T15:38:54'
+  crc: '0x5242466c'

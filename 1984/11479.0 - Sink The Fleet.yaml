@@ -1,0 +1,34 @@
+filename: Sink The Fleet v1.2 (1984)(Acorn Software Products, Inc.) [Strategy].zip
+tdc_id: '11479.0'
+title:
+  box: Sink The Fleet
+publisher: Acorn Software Products, Inc.
+year: '1984'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:24:14'
+  last_modified: '2019-03-01T18:24:14'
+version: '1.2'
+type: zip
+files:
+- name: AUTOEXEC.BAT
+  size: 17
+  date: '1984-07-08T19:00:42'
+  crc: '0xdcdd3068'
+- name: FLEET.BAS
+  size: 19430
+  date: '1984-07-09T05:42:26'
+  crc: '0xa26f1315'
+- name: FLEET.DAT
+  size: 640
+  date: '1984-05-31T20:01:10'
+  crc: '0x233d90ae'
+- name: IBMBIO.COM
+  size: 1920
+  date: '2107-12-31T18:00:00'
+  crc: '0xd9dd9e28'
+- name: IBMDOS.COM
+  size: 6400
+  date: '2107-12-31T18:00:00'
+  crc: '0x60674cc9'

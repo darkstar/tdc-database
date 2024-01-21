@@ -1,0 +1,36 @@
+filename: WISO Breakout (De) (1993)(GLAMUS Gesellschaft für moderne Kommunikation mbH) [Action].zip
+tdc_id: '2898.0'
+title:
+  screen: WISO Breakout
+publisher: GLAMUS Gesellschaft für moderne Kommunikation mbH
+year: '1993'
+genre: Action
+language: German
+date:
+  added: '2019-03-01T21:12:22'
+  last_modified: '2019-03-01T21:12:22'
+type: zip
+references:
+  dosid: DOS07224
+  exodos: WISO Breakout (1993).zip
+files:
+- name: DIRINFO.CD
+  size: 14
+  date: '1995-02-19T14:33:10'
+  crc: '0xe48f667a'
+- name: START.BAT
+  size: 8
+  date: '1994-09-15T10:37:56'
+  crc: '0x334d2154'
+- name: WISOSP.001
+  size: 139111
+  date: '1994-07-06T12:09:48'
+  crc: '0x027e582f'
+- name: WISOSP.DOI
+  size: 2666
+  date: '1994-07-06T12:09:48'
+  crc: '0x758b47f4'
+- name: WISOSP.EXE
+  size: 66752
+  date: '1994-09-15T10:22:26'
+  crc: '0x0d706e86'

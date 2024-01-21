@@ -1,0 +1,35 @@
+filename: Easy-Play Yaht-Z (Installer) [SW] (1994)(EasyPlay Software) [Strategy].zip
+tdc_id: '13283.0'
+title:
+  screen: Easy-Play Yaht-Z
+publisher: EasyPlay Software
+year: '1994'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T21:56:20'
+  last_modified: '2019-03-01T21:56:20'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: EASYPLAY.YTZ
+  size: 139739
+  date: '1994-03-09T01:02:00'
+  crc: '0x0ff42c37'
+- name: INSTALL.EXE
+  size: 28064
+  date: '1994-03-09T01:02:00'
+  crc: '0x5557fd68'
+- name: ORDER.FRM
+  size: 4859
+  date: '1994-03-09T01:02:00'
+  crc: '0xac3e9d9e'
+- name: README.BAT
+  size: 1042
+  date: '1994-03-09T01:02:00'
+  crc: '0xe064c39e'

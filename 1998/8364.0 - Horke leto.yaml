@@ -1,0 +1,51 @@
+filename: Horke leto (Cs) (1998)(JRC Interactive) [Adventure].zip
+tdc_id: '8364.0'
+title:
+  screen: Horke leto
+publisher: JRC Interactive
+year: '1998'
+genre: Adventure
+language: Czech
+date:
+  added: '2019-03-02T10:41:46'
+  last_modified: '2019-03-02T10:41:46'
+type: zip
+commands:
+  play: HL.EXE
+files:
+- name: AGDS.CFG
+  size: 187
+  date: '2005-04-11T19:43:06'
+  crc: '0x4d355371'
+- name: DATA.ADB
+  size: 567381
+  date: '2005-04-11T19:43:08'
+  crc: '0x582dd2d1'
+- name: DOS4GW.EXE
+  size: 254556
+  date: '2005-04-11T19:43:08'
+  crc: '0x95d35b4d'
+- name: GFX.GRP
+  size: 296300020
+  date: '2005-04-11T19:44:34'
+  crc: '0xac395160'
+- name: HL.EXE
+  size: 261385
+  date: '2005-04-11T19:44:34'
+  crc: '0x88f6cda9'
+- name: JOKES.CHR
+  size: 784
+  date: '2005-04-11T19:44:34'
+  crc: '0x5087c6af'
+- name: MAJER.CHR
+  size: 720
+  date: '2005-04-11T19:44:34'
+  crc: '0x0659f7fc'
+- name: PATCH.ADB
+  size: 4020
+  date: '2018-04-06T13:04:44'
+  crc: '0xdab4e176'
+- name: SAVNAMES.TXT
+  size: 510
+  date: '2018-04-06T13:01:54'
+  crc: '0x1e2524f4'

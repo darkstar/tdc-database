@@ -1,0 +1,87 @@
+filename: Millionaire II- The Stock Market Simulation v1.1 [a1] (1987)(Blue Chip Software) [Strategy, Simulation].zip
+tdc_id: '7816.0'
+title:
+  box: 'Millionaire II: The Stock Market Simulation'
+  screen: 'Millionaire: The Stock Market Simulation: Release 2'
+publisher: Blue Chip Software
+year: '1987'
+genre:
+- Strategy
+- Simulation
+language: English
+date:
+  added: '2019-03-01T18:25:28'
+  last_modified: '2023-04-10T19:07:12'
+version: '1.1'
+type: zip
+tags:
+- Alternate: 1
+media: 360K
+commands:
+  play: M.EXE
+  setup: SETUP.BAT
+references:
+  mobygames: https://www.mobygames.com/game/41142/millionaire-the-stock-market-simulation-release-2/
+  dosid: DOS03573
+  exodos: Millionaire - The Stock Market Simulation (Release 2) (1987).zip
+files:
+- name: COMMON
+  size: 489
+  date: '2002-03-01T12:39:40'
+  crc: '0xc0a79af9'
+- name: DESCRIP.RND
+  size: 11250
+  date: '2002-03-01T12:39:40'
+  crc: '0xca0f0b37'
+- name: INDUST
+  size: 971
+  date: '2002-03-01T12:39:40'
+  crc: '0xbe3945e5'
+- name: M.EXE
+  size: 93554
+  date: '2002-03-01T12:39:40'
+  crc: '0xcb2fd67d'
+- name: MAIN.HLP
+  size: 1120
+  date: '2002-03-01T12:39:40'
+  crc: '0x27982f9d'
+- name: MESDATA.RND
+  size: 18600
+  date: '2002-03-01T12:39:40'
+  crc: '0x7e9f5762'
+- name: MOPENER.PIC
+  size: 16391
+  date: '2002-03-01T12:39:40'
+  crc: '0xd3085844'
+- name: MPOOR.PIC
+  size: 16391
+  date: '2002-03-01T12:39:40'
+  crc: '0x37c23f6c'
+- name: MRICH.PIC
+  size: 16391
+  date: '2002-03-01T12:39:40'
+  crc: '0x05f975a7'
+- name: PLAYER.DAT
+  size: 882
+  date: '2002-03-01T12:39:40'
+  crc: '0xc4c303c2'
+- name: PLAYER.HLP
+  size: 1234
+  date: '2002-03-01T12:39:40'
+  crc: '0xd02fb499'
+- name: RND.RND
+  size: 4
+  date: '2002-03-02T16:38:42'
+  crc: '0x904b163d'
+- name: SESSION.VAR
+  size: 32
+  date: '2002-03-01T12:39:40'
+  crc: '0x990c585d'
+- name: SETUP.DAT
+  size: 72
+  date: '2002-03-01T12:39:40'
+  crc: '0xda2545d1'
+- name: STOCKS
+  size: 2157
+  date: '2002-03-01T12:39:40'
+  crc: '0xcc981319'

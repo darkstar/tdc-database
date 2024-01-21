@@ -1,0 +1,28 @@
+filename: Mazer (1991)(Ryan Wilson) [Strategy].zip
+tdc_id: '719.0'
+title:
+  screen: Mazer
+publisher: Ryan Wilson
+year: '1991'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:36:46'
+  last_modified: '2019-03-01T18:36:46'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 20
+  date: '2019-01-12T23:03:08'
+  crc: '0x5632e9e8'
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1988-10-05T02:00:08'
+  crc: '0x2a44af39'
+- name: MAZE.BAS
+  size: 3532
+  date: '1991-10-28T00:01:42'
+  crc: '0xa475468b'

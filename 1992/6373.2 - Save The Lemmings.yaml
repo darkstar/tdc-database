@@ -1,0 +1,109 @@
+filename: Save the Lemmings (demo) (1992)(Psygnosis Limited, Covox Inc.) [Strategy, Action][!].zip
+tdc_id: '6373.2'
+title:
+  screen: Save The Lemmings
+  qualifier: demo
+publisher: Psygnosis Limited, Covox Inc.
+year: '1992'
+genre:
+- Strategy
+- Action
+language: English
+date:
+  added: '2021-09-27T10:48:36'
+  last_modified: '2023-10-14T09:56:23'
+type: zip
+tags:
+- KnownGood
+demo: true
+commands:
+  play: lemmings vga
+references:
+  dosid: DOS07973
+  exodos: Covox Lemmings Demo (1992).zip
+notes: An updated/enhanced demo
+files:
+- name: ADLIB.DAT
+  size: 12989
+  date: '1991-07-24T14:00:20'
+  crc: '0xf074de61'
+- name: CLOSING.EXE
+  size: 8112
+  date: '1992-05-07T18:13:06'
+  crc: '0x5afacc5c'
+- name: GROUND0O.DAT
+  size: 1056
+  date: '1991-11-11T16:13:30'
+  crc: '0x499b8028'
+- name: GROUND1O.DAT
+  size: 1056
+  date: '1991-11-11T16:13:32'
+  crc: '0x03466d02'
+- name: GROUND2O.DAT
+  size: 1056
+  date: '1991-11-11T16:13:34'
+  crc: '0x7a351f2a'
+- name: GROUND3O.DAT
+  size: 1056
+  date: '1991-11-11T16:13:36'
+  crc: '0xc596c2c7'
+- name: HELP.BAT
+  size: 25
+  date: '1992-05-07T18:41:22'
+  crc: '0x5cab0d58'
+- name: INSTALL.BAT
+  size: 492
+  date: '1991-07-24T14:00:36'
+  crc: '0xee217439'
+- name: LEMMINGS.BAT
+  size: 544
+  date: '1991-12-10T15:29:36'
+  crc: '0xf1bace2f'
+- name: LEVEL000.DAT
+  size: 2091
+  date: '1992-04-13T08:59:04'
+  crc: '0x4f5c0df6'
+- name: MAIN.DAT
+  size: 65670
+  date: '1991-07-24T14:00:36'
+  crc: '0x1c1dbf10'
+- name: ODDTABLE.DAT
+  size: 4480
+  date: '1991-07-24T14:00:24'
+  crc: '0x0daf2d8f'
+- name: OPENING.EXE
+  size: 8304
+  date: '1992-05-07T18:17:40'
+  crc: '0x5ae96a12'
+- name: TANDYSND.DAT
+  size: 12569
+  date: '1991-07-30T17:33:06'
+  crc: '0xeb3d5220'
+- name: VGAGR0.DAT
+  size: 18104
+  date: '1991-10-22T17:18:38'
+  crc: '0x6fa6eb20'
+- name: VGAGR1.DAT
+  size: 25902
+  date: '1991-10-22T17:20:14'
+  crc: '0x3e43e9f9'
+- name: VGAGR2.DAT
+  size: 32778
+  date: '1991-10-22T17:29:12'
+  crc: '0x589f3240'
+- name: VGAGR3.DAT
+  size: 20298
+  date: '1991-10-22T17:32:24'
+  crc: '0xb2b7ebd0'
+- name: VGAL.EXE
+  size: 30517
+  date: '1992-04-06T14:37:48'
+  crc: '0x5dc68223'
+- name: VGALEMMI.BAT
+  size: 80
+  date: '1992-05-07T17:46:18'
+  crc: '0xde4aa771'
+- name: VGASPEC0.DAT
+  size: 17831
+  date: '1992-05-07T09:13:48'
+  crc: '0x0805622b'

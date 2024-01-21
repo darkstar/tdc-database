@@ -1,0 +1,35 @@
+filename: Ferrari Formula One (Installer) (1989)(Electronic Arts, Inc.) [Racing - Driving, Simulation].zip
+tdc_id: '13545.1'
+parent_id: '13545.2'
+title:
+  box: Ferrari Formula One
+publisher: Electronic Arts, Inc.
+year: '1989'
+genre:
+- Racing - Driving
+- Simulation
+language: English
+date:
+  added: '2019-02-23T04:44:26'
+  last_modified: '2019-02-23T04:44:26'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FF1.IEA
+  size: 7100
+  date: '1993-10-01T12:00:00'
+  crc: '0xeccb788a'
+- name: FF11
+  size: 279269
+  date: '1993-10-01T12:00:00'
+  crc: '0xbfb6915f'
+- name: FF12
+  size: 285546
+  date: '1993-10-01T12:00:00'
+  crc: '0x96230e56'
+- name: INSTALL.EXE
+  size: 39771
+  date: '1993-10-01T12:00:00'
+  crc: '0x5e1f90e2'

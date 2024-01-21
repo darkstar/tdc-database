@@ -1,0 +1,33 @@
+filename: Lost Vikings, The (Installer) (1993)(Interplay Productions, Inc.) [Action, Strategy][!].zip
+tdc_id: '11927.3'
+parent_id: '11927.8'
+title:
+  box: The Lost Vikings
+  qualifier: Installer
+publisher: Interplay Productions, Inc.
+year: '1993'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T19:12:14'
+  last_modified: '2023-12-31T08:31:37'
+type: zip
+tags:
+- KnownGood
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1547/the-lost-vikings/
+files:
+- name: INSTALL.EXE
+  size: 56640
+  date: '1993-05-28T18:22:16'
+  crc: '0x66ab8260'
+- name: VIKINGS.I00
+  size: 1352012
+  date: '1993-06-10T13:52:52'
+  crc: '0x3d53e885'

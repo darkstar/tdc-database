@@ -1,0 +1,32 @@
+filename: Dungeon v3.2B [a1] (1994)(Robert M. Supnik) [Adventure, Interactive Fiction].zip
+tdc_id: '13226.1'
+title:
+  screen: Dungeon
+publisher: Robert M. Supnik
+year: '1994'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2020-10-21T06:55:32'
+  last_modified: '2020-10-21T06:55:32'
+version: 3.2B
+type: zip
+tags:
+- Alternate: 1
+commands:
+  play: dungeon.exe
+files:
+- name: dundat.gld
+  size: 182686
+  date: '1998-10-13T22:22:02'
+  crc: '0xc95ea5ae'
+- name: dungeon.exe
+  size: 125724
+  date: '2002-03-03T13:15:54'
+  crc: '0x94854b77'
+- name: readme
+  size: 697
+  date: '2002-03-05T21:02:16'
+  crc: '0x18b4d8b6'

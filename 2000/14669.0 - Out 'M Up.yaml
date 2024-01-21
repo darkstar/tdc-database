@@ -1,0 +1,34 @@
+filename: Out 'M Up (2000)(PPPTeam) [Action].zip
+tdc_id: '14669.0'
+title:
+  screen: Out 'M Up
+publisher: PPPTeam
+year: '2000'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:54:56'
+  last_modified: '2019-03-02T10:54:56'
+type: zip
+commands:
+  play: outm.exe
+files:
+- name: gfx\
+  size: 0
+  date: '2000-07-15T19:17:50'
+- name: nottable.sb
+  size: 216
+  date: '2000-07-15T19:17:50'
+  crc: '0x098b35ed'
+- name: outm.exe
+  size: 16192
+  date: '2000-07-15T19:17:48'
+  crc: '0x1ded6eaa'
+- name: outm.ppf
+  size: 11373
+  date: '2000-07-15T19:17:50'
+  crc: '0xab2ea7a2'
+- name: outm.z3m
+  size: 35018
+  date: '2000-07-15T19:17:50'
+  crc: '0xae38262b'

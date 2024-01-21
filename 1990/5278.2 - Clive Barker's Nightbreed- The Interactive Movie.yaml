@@ -1,0 +1,53 @@
+filename: Clive Barker's Nightbreed- The Interactive Movie (En)(De)(Fr) [a2] (1990)(Ocean Software Ltd.) [Action, Adventure].zip
+tdc_id: '5278.2'
+title:
+  box: 'Clive Barker''s Nightbreed: The Interactive Movie'
+publisher: Ocean Software Ltd.
+year: '1990'
+genre:
+- Action
+- Adventure
+language:
+- English
+- French
+- German
+date:
+  added: '2019-03-01T18:32:06'
+  last_modified: '2019-03-01T18:32:06'
+type: zip
+tags:
+- Alternate: 2
+commands:
+  play: NIGHT.EXE
+references:
+  dosid: DOS00345
+  exodos: Clive Barker's Nightbreed - The Interactive Movie (1990).zip
+files:
+- name: GRAVE.CRN
+  size: 127675
+  date: '1990-09-05T05:54:56'
+  crc: '0x7cd873c7'
+- name: HAZARD.CRN
+  size: 171922
+  date: '1990-09-07T05:08:20'
+  crc: '0x57a569e4'
+- name: INTRO.CRN
+  size: 232079
+  date: '1990-09-05T05:54:18'
+  crc: '0xbeb82e4a'
+- name: MASK.CRN
+  size: 101212
+  date: '1990-09-05T05:54:34'
+  crc: '0x0b2655a7'
+- name: MAZE.CRN
+  size: 200187
+  date: '1990-09-05T05:55:24'
+  crc: '0xb24a31a6'
+- name: MIDIAN.CRN
+  size: 194313
+  date: '1990-09-05T05:56:20'
+  crc: '0x38127365'
+- name: NIGHT.EXE
+  size: 26184
+  date: '1990-09-05T05:58:20'
+  crc: '0x9f3e5840'

@@ -1,0 +1,97 @@
+filename: Dungeon Master II- Skullkeep v0.9 Beta (1993)(Victor Entertainment Inc.) [Role-Playing (RPG)].zip
+tdc_id: '9544.2'
+title:
+  screen: 'Dungeon Master II: Skullkeep'
+publisher: Victor Entertainment Inc.
+year: '1993'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T19:02:34'
+  last_modified: '2019-03-01T19:02:34'
+version: '0.9'
+type: zip
+files:
+- name: DATA\
+  size: 0
+  date: '2012-02-01T11:18:50'
+- name: DATA\ANIMSCPT.DAT
+  size: 6808
+  date: '1993-07-08T09:59:36'
+  crc: '0xe84f1de8'
+- name: DATA\DMCOORD.DAT
+  size: 18480
+  date: '1993-07-08T09:59:36'
+  crc: '0xbc9cf4fc'
+- name: DATA\DUNGEON.DAT
+  size: 39554
+  date: '1993-07-08T09:59:34'
+  crc: '0x84ad088d'
+- name: DATA\GRAPHIC2.DAT
+  size: 837459
+  date: '1993-07-08T10:04:52'
+  crc: '0xf124adc6'
+- name: DATA\GRAPHICS.DAT
+  size: 1000000
+  date: '1993-07-08T10:00:24'
+  crc: '0x64cf5a3a'
+- name: DATA\SKSAVE0.BAK
+  size: 46492
+  date: '1993-08-21T18:28:58'
+  crc: '0x353ba9b4'
+- name: DATA\SKSAVE0.DAT
+  size: 46492
+  date: '2003-06-18T04:50:22'
+  crc: '0xd8fa0f37'
+- name: DATA\SKSAVE1.BAK
+  size: 45947
+  date: '2003-06-18T04:52:44'
+  crc: '0x58f30acd'
+- name: DATA\SKSAVE1.DAT
+  size: 45947
+  date: '2003-06-18T04:52:48'
+  crc: '0x58f30acd'
+- name: DATA\SKSAVE2.DAT
+  size: 45971
+  date: '1995-08-14T01:46:26'
+  crc: '0x507c526e'
+- name: DATA\SKSAVE3.DAT
+  size: 45987
+  date: '1995-08-14T02:02:18'
+  crc: '0xc3722a3e'
+- name: DATA\SKSAVE4.DAT
+  size: 45966
+  date: '1995-08-14T03:10:30'
+  crc: '0x6225866c'
+- name: DATA\SKSAVE5.DAT
+  size: 45927
+  date: '1995-08-14T03:32:00'
+  crc: '0x6d3cae6c'
+- name: DATA\SKSAVE6.DAT
+  size: 46093
+  date: '1995-08-14T04:34:32'
+  crc: '0x5802a90c'
+- name: DATA\SKSAVE7.DAT
+  size: 46181
+  date: '1995-08-14T04:46:12'
+  crc: '0x718cf3a9'
+- name: DATA\SKSAVE8.DAT
+  size: 46587
+  date: '1995-08-14T04:57:50'
+  crc: '0xa4447680'
+- name: DATA\VIEWS.DAT
+  size: 1540
+  date: '1993-07-08T09:59:34'
+  crc: '0x43b9a9a6'
+- name: DM.EXE
+  size: 10823
+  date: '1993-07-08T09:59:24'
+  crc: '0x6f9cf646'
+- name: Fires.exe
+  size: 158512
+  date: '1993-07-08T09:59:32'
+  crc: '0x25ab0bf1'
+- name: IBMIO.EXE
+  size: 13051
+  date: '1993-07-08T09:59:24'
+  crc: '0x21e76737'

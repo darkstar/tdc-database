@@ -1,0 +1,41 @@
+filename: Quadnet [FW] (1998)(Brainchild Design) [Action].zip
+tdc_id: '10794.0'
+title:
+  screen: Quadnet
+publisher: Brainchild Design
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:44:18'
+  last_modified: '2019-03-02T10:44:18'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: quadnet.exe
+references:
+  dosid: DOS04175
+  exodos: Quadnet (1998).zip
+files:
+- name: HISCORE.TXT
+  size: 435
+  date: '2002-03-03T12:02:24'
+  crc: '0x2d0bc4fe'
+- name: cwsdpmi.exe
+  size: 20217
+  date: '1996-08-18T19:46:18'
+  crc: '0x6ba5fa62'
+- name: quadnet.dat
+  size: 414359
+  date: '2012-01-30T17:47:52'
+  crc: '0x39f385ad'
+- name: quadnet.exe
+  size: 62372
+  date: '2002-03-03T11:37:46'
+  crc: '0x53d1f629'
+- name: readme.txt
+  size: 2771
+  date: '2002-03-03T12:07:54'
+  crc: '0x9b44def6'

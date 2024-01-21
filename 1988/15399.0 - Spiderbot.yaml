@@ -1,0 +1,28 @@
+filename: Spiderbot [DC] (1988)(Epyx, Inc.) [Action].zip
+tdc_id: '15399.0'
+title:
+  box: Spiderbot
+publisher: Epyx, Inc.
+year: '1988'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:26:48'
+  last_modified: '2019-03-01T18:26:48'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: SPIDERBT.EXE
+references:
+  dosid: DOS05978
+  exodos: Spiderbot (1988).zip
+files:
+- name: SPIDERBT.EXE
+  size: 1461
+  date: '1999-09-04T12:38:26'
+  crc: '0x319221ea'
+- name: SPIDERBT.IMG
+  size: 368640
+  date: '1999-03-04T21:25:26'
+  crc: '0x053759a8'

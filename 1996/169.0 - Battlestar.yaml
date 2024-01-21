@@ -1,0 +1,138 @@
+filename: Battlestar v4.2 (1996)(Brian Douglas Smith) [Adventure, Interactive Fiction].zip
+tdc_id: '169.0'
+title:
+  screen: Battlestar
+publisher: Brian Douglas Smith
+year: '1996'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T10:00:02'
+  last_modified: '2019-03-02T10:00:02'
+version: '4.2'
+type: zip
+commands:
+  play: BATLSTAR.EXE
+files:
+- name: ALARM.C
+  size: 1367
+  date: '1996-05-31T15:06:38'
+  crc: '0xcb0a3ac5'
+- name: ALARM.H
+  size: 440
+  date: '1996-05-31T15:08:04'
+  crc: '0x32badc21'
+- name: BATLSTAR.6
+  size: 5267
+  date: '1996-05-24T00:44:58'
+  crc: '0xbd61b0cd'
+- name: BATLSTAR.C
+  size: 3237
+  date: '1996-05-24T00:45:00'
+  crc: '0x65c3c8ba'
+- name: BATLSTAR.EXE
+  size: 223864
+  date: '1996-05-31T15:10:30'
+  crc: '0x8b5193d2'
+- name: COMM1.C
+  size: 8350
+  date: '1996-05-25T02:16:00'
+  crc: '0xd9d86302'
+- name: COMM2.C
+  size: 9682
+  date: '1996-05-25T02:13:32'
+  crc: '0x3e67fe02'
+- name: COMM3.C
+  size: 9416
+  date: '1996-05-25T02:09:34'
+  crc: '0xf5e56c47'
+- name: COMM4.C
+  size: 11614
+  date: '1996-05-25T02:09:58'
+  crc: '0x10cfc1f2'
+- name: COMM5.C
+  size: 11058
+  date: '1996-05-31T13:51:36'
+  crc: '0xff2cdaee'
+- name: COMM6.C
+  size: 7060
+  date: '1996-05-31T11:46:58'
+  crc: '0xf9e4f62a'
+- name: COMM7.C
+  size: 8638
+  date: '1996-05-25T02:13:08'
+  crc: '0x66555291'
+- name: CYPHER.C
+  size: 10536
+  date: '1996-05-25T02:15:46'
+  crc: '0xcc8a6c3a'
+- name: DAYFILE.C
+  size: 58244
+  date: '1996-05-24T00:45:36'
+  crc: '0x5d825509'
+- name: DAYOBJS.C
+  size: 3729
+  date: '1996-05-24T00:45:40'
+  crc: '0xb02961ff'
+- name: EXTERNS.H
+  size: 9022
+  date: '1996-05-25T02:32:20'
+  crc: '0x692374f7'
+- name: FLY.C
+  size: 7397
+  date: '1996-05-31T12:19:44'
+  crc: '0xaee92b56'
+- name: GETCOM.C
+  size: 3070
+  date: '1996-05-24T00:45:48'
+  crc: '0x0168332f'
+- name: GLOBALS.C
+  size: 8462
+  date: '1996-05-31T12:44:20'
+  crc: '0xfe77b9a5'
+- name: INIT.C
+  size: 4593
+  date: '1996-05-31T13:58:58'
+  crc: '0xee38e1fa'
+- name: MAKEFILE
+  size: 1350
+  date: '1996-05-31T14:00:50'
+  crc: '0x0c671f52'
+- name: MISC.C
+  size: 2371
+  date: '1996-05-24T00:45:56'
+  crc: '0xbc1fdf19'
+- name: NIGHTFIL.C
+  size: 56664
+  date: '1996-05-24T00:46:04'
+  crc: '0xe26181c7'
+- name: NIGHTOBJ.C
+  size: 3109
+  date: '1996-05-24T00:46:08'
+  crc: '0x8fe43677'
+- name: PARSE.C
+  size: 3041
+  date: '1996-05-24T00:46:10'
+  crc: '0xbecf2e2b'
+- name: PATHNAME.H
+  size: 2025
+  date: '1996-05-24T21:43:28'
+  crc: '0x779b2a6e'
+- name: READ.ME
+  size: 1105
+  date: '1996-06-01T02:42:30'
+  crc: '0x7ca7527d'
+- name: ROOM.C
+  size: 5168
+  date: '1996-05-24T00:46:14'
+  crc: '0x69853f4e'
+- name: SAVE.C
+  size: 6258
+  date: '1996-05-31T13:02:24'
+  crc: '0xbe9a5d60'
+- name: WORDS.C
+  size: 6801
+  date: '1996-05-24T00:46:18'
+  crc: '0x6d92cc31'

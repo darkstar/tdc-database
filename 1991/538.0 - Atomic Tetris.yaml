@@ -1,0 +1,57 @@
+filename: Atomic Tetris v1.1 (1991)(Jared Tarbell) [Action, Strategy].zip
+tdc_id: '538.0'
+title:
+  screen: Atomic Tetris
+publisher: Jared Tarbell
+year: '1991'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:34:54'
+  last_modified: '2019-03-01T18:34:54'
+version: '1.1'
+type: zip
+commands:
+  play: Atomtet.exe
+references:
+  dosid: DOS06705
+  exodos: Atomic Tetris (1991).zip
+files:
+- name: Atomic.spr
+  size: 2883
+  date: '1991-05-11T15:46:38'
+  crc: '0x9bef298c'
+- name: Atomtet.exe
+  size: 57856
+  date: '1991-05-17T13:04:58'
+  crc: '0x04244d82'
+- name: Dtet1.spr
+  size: 2962
+  date: '1991-05-17T10:56:10'
+  crc: '0x735bc8ce'
+- name: Dtet2.spr
+  size: 3632
+  date: '1991-05-16T21:11:34'
+  crc: '0xc671dcc0'
+- name: Enders.spr
+  size: 3252
+  date: '1991-05-14T15:14:58'
+  crc: '0x5a7d1350'
+- name: Numbers.spr
+  size: 1751
+  date: '1991-04-29T16:59:58'
+  crc: '0x39a4ab2e'
+- name: Readme.ok
+  size: 10044
+  date: '1991-05-17T12:56:12'
+  crc: '0x18f53902'
+- name: Thankyou.dat
+  size: 3542
+  date: '1991-05-17T11:43:34'
+  crc: '0xfd1eeed9'
+- name: Vga256.bgi
+  size: 3289
+  date: '1989-05-31T01:00:02'
+  crc: '0x55f0b0ba'

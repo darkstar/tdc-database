@@ -1,0 +1,31 @@
+filename: Brik-Man v2.0-ASCII [FW] (1998)(Dominick Aguilar) [Action].zip
+tdc_id: '12833.1'
+title:
+  screen: Brik-Man
+publisher: Dominick Aguilar
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:41:00'
+  last_modified: '2019-03-02T10:41:00'
+version: 2.0-ASCII
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: BRIKCHR.BAS
+  size: 26795
+  date: '1998-09-21T01:16:32'
+  crc: '0xcddc4a0b'
+- name: GO.BAT
+  size: 23
+  date: '2018-03-07T13:11:08'
+  crc: '0xfeccb8bc'
+- name: QB.EXE
+  size: 278804
+  date: '2016-03-12T18:19:58'
+  crc: '0xb08bc0fe'

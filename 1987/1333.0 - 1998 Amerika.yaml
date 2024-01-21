@@ -1,0 +1,49 @@
+filename: 1998 Amerika vA.01 [SW] (1987)(Pasadena Software) [Strategy].zip
+tdc_id: '1333.0'
+title:
+  screen: 1998 Amerika
+publisher: Pasadena Software
+year: '1987'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:25:04'
+  last_modified: '2019-03-01T18:25:04'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: RUN.EXE
+references:
+  dosid: DOS07262
+  exodos: 1998 Amerika (1987).zip
+files:
+- name: 1.DAT
+  size: 128
+  date: '1987-09-08T12:47:22'
+  crc: '0x6a6ca9db'
+- name: 2.DAT
+  size: 1346
+  date: '1980-01-01T01:06:06'
+  crc: '0x03b00960'
+- name: 3.DAT
+  size: 16256
+  date: '1987-02-23T17:55:44'
+  crc: '0xb25c269b'
+- name: 4.DAT
+  size: 16256
+  date: '1980-01-01T00:33:30'
+  crc: '0xd88f35ca'
+- name: 5.DAT
+  size: 384
+  date: '1987-02-23T20:39:46'
+  crc: '0x40b99521'
+- name: 6.DAT
+  size: 16391
+  date: '1980-01-01T00:54:10'
+  crc: '0x907b1c15'
+- name: RUN.EXE
+  size: 59008
+  date: '1993-07-02T04:23:44'
+  crc: '0x34becb25'

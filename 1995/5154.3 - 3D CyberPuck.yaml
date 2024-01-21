@@ -1,0 +1,39 @@
+filename: 3D CyberPuck (Installer) (En)(De) [SW] (1995)(Homebrew Software) [Action, Sports].zip
+tdc_id: '5154.3'
+title:
+  screen: 3D CyberPuck
+publisher: Homebrew Software
+year: '1995'
+genre:
+- Action
+- Sports
+language:
+- English
+- German
+date:
+  added: '2019-03-02T07:27:14'
+  last_modified: '2019-03-02T07:27:14'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: CYBER10.TXT
+  size: 1158
+  date: '1995-04-09T00:04:16'
+  crc: '0x240173a1'
+- name: CYBER10.XXX
+  size: 945429
+  date: '1995-04-06T08:47:36'
+  crc: '0xb87c0da6'
+- name: INSTALL.001
+  size: 1110
+  date: '1995-04-07T08:54:52'
+  crc: '0x61675d10'
+- name: INSTALL.EXE
+  size: 87162
+  date: '1994-08-18T14:41:06'
+  crc: '0x417fa2da'

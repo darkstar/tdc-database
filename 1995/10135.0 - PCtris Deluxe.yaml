@@ -1,0 +1,30 @@
+filename: PCtris Deluxe v1.01 (Installer) [SW] (1995)(World of PC) [Action, Strategy].zip
+tdc_id: '10135.0'
+title:
+  screen: PCtris Deluxe
+publisher: World of PC
+year: '1995'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-02T08:58:12'
+  last_modified: '2019-03-02T08:58:12'
+version: '1.01'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 35413
+  date: '1995-08-02T22:50:52'
+  crc: '0xaa53fb31'
+- name: PCTRIS#.DAT
+  size: 319944
+  date: '1995-07-23T03:51:38'
+  crc: '0x1f501ad7'

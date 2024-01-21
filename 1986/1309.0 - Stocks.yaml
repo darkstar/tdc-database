@@ -1,0 +1,25 @@
+filename: Stocks (1986)(Don Thayer) [Simulation, Strategy].zip
+tdc_id: '1309.0'
+title:
+  screen: Stocks
+publisher: Don Thayer
+year: '1986'
+genre:
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:24:58'
+  last_modified: '2019-03-01T18:24:58'
+type: zip
+commands:
+  play: stocks.exe
+files:
+- name: stocks.exe
+  size: 65246
+  date: '1986-08-17T06:31:06'
+  crc: '0x03b39bc8'
+- name: stocks.txt
+  size: 5273
+  date: '1986-08-06T13:49:20'
+  crc: '0x83024c48'

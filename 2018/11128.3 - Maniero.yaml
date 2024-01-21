@@ -1,0 +1,34 @@
+filename: Maniero v1.5 (It) [FW] (2018)(Leon Baradat, Stefano Crespi) [Strategy].zip
+tdc_id: '11128.3'
+title:
+  screen: Maniero
+  translation: Manor
+publisher: Leon Baradat, Stefano Crespi
+year: '2018'
+genre: Strategy
+language: Italian
+date:
+  added: '2023-02-12T17:25:55'
+  last_modified: '2023-02-12T17:25:55'
+version: '1.5'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: manor.bat
+references:
+  mobygames: https://www.mobygames.com/game/manor
+files:
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1989-04-07T01:00:02'
+  crc: '0x2a44af39'
+- name: MANOR_IT.BAS
+  size: 49345
+  date: '2018-08-28T15:16:20'
+  crc: '0x2a3e0945'
+- name: manor.bat
+  size: 35
+  date: '2023-02-08T09:30:12'
+  crc: '0x70343298'

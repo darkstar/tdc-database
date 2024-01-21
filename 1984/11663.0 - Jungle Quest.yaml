@@ -1,0 +1,57 @@
+filename: Jungle Quest (1984)(Scholastic, Inc.) [Adventure, Educational].zip
+tdc_id: '11663.0'
+title:
+  screen: Jungle Quest
+publisher: Scholastic, Inc.
+year: '1984'
+genre:
+- Adventure
+- Educational
+language: English
+date:
+  added: '2019-03-01T18:24:08'
+  last_modified: '2019-03-01T18:24:08'
+type: zip
+media: Download
+commands:
+  play: run.bat
+references:
+  dosid: DOS02965
+  exodos: Jungle Quest (1984).zip
+files:
+- name: CHOICE.EXE
+  size: 49152
+  date: '1996-12-24T23:32:00'
+  crc: '0xbf9bf200'
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1996-12-24T23:32:00'
+  crc: '0x2a44af39'
+- name: bwbasic.exe
+  size: 88032
+  date: '1996-12-24T23:32:00'
+  crc: '0x526c4edd'
+- name: prog1.bas
+  size: 599
+  date: '1996-12-24T23:32:00'
+  crc: '0xdd2f1569'
+- name: prog2.bas
+  size: 976
+  date: '1996-12-24T23:32:00'
+  crc: '0x6845b3cf'
+- name: prog3.bas
+  size: 782
+  date: '1996-12-24T23:32:00'
+  crc: '0x4552e3d0'
+- name: prog4.bas
+  size: 819
+  date: '1996-12-24T23:32:00'
+  crc: '0xb8854914'
+- name: prog5.bas
+  size: 618
+  date: '1996-12-24T23:32:00'
+  crc: '0x3fa6efe7'
+- name: run.bat
+  size: 1159
+  date: '1996-12-24T23:32:00'
+  crc: '0xd39fcf78'

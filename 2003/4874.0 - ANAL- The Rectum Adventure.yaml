@@ -1,0 +1,34 @@
+filename: ANAL- The Rectum Adventure (2003)(Blitz) [Action].zip
+tdc_id: '4874.0'
+title:
+  screen: 'ANAL: The Rectum Adventure'
+publisher: Blitz
+year: '2003'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:56:20'
+  last_modified: '2019-03-02T10:56:20'
+type: zip
+commands:
+  play: game.exe
+references:
+  dosid: DOS00309
+  exodos: ANAL - The Rectum Adventure (2003).zip
+files:
+- name: game.cfg
+  size: 39
+  date: '2014-03-05T15:25:22'
+  crc: '0x90d49c8d'
+- name: game.dat
+  size: 128762
+  date: '2003-10-17T22:05:50'
+  crc: '0xbf712fbf'
+- name: game.exe
+  size: 128864
+  date: '2003-10-18T18:55:06'
+  crc: '0x846b215e'
+- name: readme.txt
+  size: 1565
+  date: '2003-10-18T19:13:30'
+  crc: '0x3ccdfa90'

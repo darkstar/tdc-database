@@ -1,0 +1,30 @@
+filename: Blackjack (1986)(Anonymous) [Strategy, Cards].zip
+tdc_id: '8569.0'
+title:
+  screen: Blackjack
+publisher: Anonymous
+year: '1986'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:24:42'
+  last_modified: '2019-03-01T18:24:42'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: BLACKJAK.BAS
+  size: 10394
+  date: '1986-11-20T12:21:06'
+  crc: '0x0019b329'
+- name: GO.BAT
+  size: 23
+  date: '2018-12-08T21:12:14'
+  crc: '0x870e23f2'

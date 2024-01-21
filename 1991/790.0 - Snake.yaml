@@ -1,0 +1,43 @@
+filename: Snake v2.0 (De) [SW] (1991)(Pid Ziermann) [Action].zip
+tdc_id: '790.0'
+title:
+  screen: Snake
+publisher: Pid Ziermann
+year: '1991'
+genre: Action
+language: German
+date:
+  added: '2019-03-01T18:38:10'
+  last_modified: '2019-03-01T18:38:10'
+version: '2.0'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: SNAKE20D.EXE
+files:
+- name: HOWPLAY1.SNK
+  size: 3691
+  date: '1991-11-29T16:15:58'
+  crc: '0xf737daf3'
+- name: HOWPLAY2.SNK
+  size: 4921
+  date: '1991-11-29T14:31:00'
+  crc: '0x523a1394'
+- name: HSCORE1.SNK
+  size: 1040
+  date: '1991-11-29T14:31:00'
+  crc: '0xde9054d0'
+- name: README.FST
+  size: 1805
+  date: '1991-11-29T11:01:00'
+  crc: '0xe1444364'
+- name: SNAKE20D.EXE
+  size: 72704
+  date: '1991-11-29T18:01:02'
+  crc: '0xec3726ff'
+- name: SNAKE_FG.LD
+  size: 9984
+  date: '1991-11-29T16:16:02'
+  crc: '0x4db85152'

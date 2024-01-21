@@ -1,0 +1,38 @@
+filename: Time Hunters (Installer) [SWR] (1995)(Homebrew Software) [Action].zip
+tdc_id: '16728.1'
+title:
+  screen: Time Hunters
+publisher: Homebrew Software
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T09:06:18'
+  last_modified: '2019-03-02T09:06:18'
+type: zip
+tags:
+- SharewareRegistered
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: HUNTERS.DA1
+  size: 1359872
+  date: '1999-12-31T18:00:00'
+  crc: '0x3a86169c'
+- name: HUNTERS.DA2
+  size: 1296932
+  date: '1999-12-31T18:00:00'
+  crc: '0xb5108bab'
+- name: INSTALL.001
+  size: 435
+  date: '1999-12-31T18:00:00'
+  crc: '0x20ccd691'
+- name: INSTALL.002
+  size: 239
+  date: '1999-12-31T18:00:00'
+  crc: '0xcd63d330'
+- name: INSTALL.EXE
+  size: 87162
+  date: '1999-12-31T18:00:00'
+  crc: '0x417fa2da'

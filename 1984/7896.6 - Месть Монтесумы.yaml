@@ -1,0 +1,34 @@
+filename: Montezuma's Revenge [DC][tr Ru] (1984)(BCI Software) [Action].zip
+tdc_id: '7896.6'
+title:
+  box: Montezuma's Revenge
+  screen: Месть Монтесумы
+publisher: BCI Software
+year: '1984'
+genre: Action
+language: Russian
+date:
+  added: '2022-03-16T07:22:44'
+  last_modified: '2023-06-25T19:53:20'
+type: zip
+tags:
+- DOSConversion
+- Translated
+media: 360K
+commands:
+  play: Start.bat
+references:
+  mobygames: https://www.mobygames.com/game/1178/montezumas-revenge/
+files:
+- name: KEYRUS.COM
+  size: 32545
+  date: '2000-01-03T17:07:42'
+  crc: '0x9d1fb702'
+- name: START.BAT
+  size: 37
+  date: '2014-04-13T18:32:30'
+  crc: '0xc443d077'
+- name: montezum.com
+  size: 33048
+  date: '2014-04-13T13:20:56'
+  crc: '0x2b01fb45'

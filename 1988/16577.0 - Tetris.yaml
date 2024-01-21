@@ -1,0 +1,30 @@
+filename: Tetris v3.12 (1988)(Elorg) [Action, Strategy].zip
+tdc_id: '16577.0'
+title:
+  screen: Tetris
+publisher: Elorg
+year: '1988'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:26:54'
+  last_modified: '2019-03-01T18:26:54'
+version: '3.12'
+type: zip
+commands:
+  play: TETRIS.EXE
+files:
+- name: TETRIS.EXE
+  size: 25840
+  date: '1988-04-24T23:21:14'
+  crc: '0x4eaacbb0'
+- name: TETRIS.PST
+  size: 966
+  date: '1991-07-12T13:40:32'
+  crc: '0x614222b7'
+- name: TETRIS.RES
+  size: 504
+  date: '1993-11-26T09:18:20'
+  crc: '0x2eeea7e7'

@@ -1,0 +1,206 @@
+filename: Star Wars Chess v1.0.0 (Installer) (En)(Fr)(De)(Es) (1993)(Software Toolworks, Inc., The) [Strategy, Chess].zip
+tdc_id: '15541.1'
+parent_id: '15541.2'
+title:
+  box: Star Wars Chess
+  screen: The Software Toolworks' Star Wars Chess
+  qualifier: Installer
+publisher: Software Toolworks, Inc., The
+year: '1993'
+genre:
+- Strategy
+- Chess
+language:
+- English
+- Spanish
+- French
+- German
+date:
+  added: '2019-03-01T21:08:50'
+  last_modified: '2023-12-07T12:17:28'
+version: 1.0.0
+type: zip
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/2033/the-software-toolworks-star-wars-chess/
+files:
+- name: DI1.QPZ
+  size: 4
+  date: '1993-10-12T01:00:00'
+  crc: '0xaeec59e0'
+- name: DI2.QPZ
+  size: 0
+  date: '1993-10-12T01:00:00'
+- name: DI3.QPZ
+  size: 0
+  date: '1993-10-12T01:00:00'
+- name: DI4.QPZ
+  size: 0
+  date: '1993-10-12T01:00:00'
+- name: DI5.QPZ
+  size: 0
+  date: '1993-10-12T01:00:00'
+- name: DI6.QPZ
+  size: 0
+  date: '1993-10-12T01:00:00'
+- name: DI7.QPZ
+  size: 0
+  date: '1993-10-12T01:00:00'
+- name: DI8.QPZ
+  size: 0
+  date: '1993-10-12T01:00:00'
+- name: DI9.QPZ
+  size: 0
+  date: '1993-10-12T01:00:00'
+- name: DIA.QPZ
+  size: 0
+  date: '1993-10-12T01:00:00'
+- name: DIB.QPZ
+  size: 0
+  date: '1993-10-12T01:00:00'
+- name: DIC.QPZ
+  size: 0
+  date: '1993-10-12T01:00:00'
+- name: DID.QPZ
+  size: 0
+  date: '1993-10-12T01:00:00'
+- name: DIE.QPZ
+  size: 0
+  date: '1993-10-12T01:00:00'
+- name: ENGLISH.TRN
+  size: 31290
+  date: '1993-10-12T01:00:00'
+  crc: '0xc0c45cfb'
+- name: FRENCH.TRN
+  size: 56
+  date: '1993-10-12T01:00:00'
+  crc: '0xf381b143'
+- name: GERMAN.TRN
+  size: 56
+  date: '1993-10-12T01:00:00'
+  crc: '0xb7887277'
+- name: INST0101.TZF
+  size: 643829
+  date: '1993-10-12T01:00:00'
+  crc: '0x0da64df3'
+- name: INST0201.TZF
+  size: 77308
+  date: '1993-10-12T01:00:00'
+  crc: '0x3b84cb78'
+- name: INST0301.TZF
+  size: 555397
+  date: '1993-10-12T01:00:00'
+  crc: '0x2b100b2f'
+- name: INST0302.TZF
+  size: 1457650
+  date: '1993-10-12T01:00:00'
+  crc: '0xac035214'
+- name: INST0303.TZF
+  size: 1457650
+  date: '1993-10-12T01:00:00'
+  crc: '0x5da0c719'
+- name: INST0304.TZF
+  size: 1457650
+  date: '1993-10-12T01:00:00'
+  crc: '0xea082858'
+- name: INST0305.TZF
+  size: 1457650
+  date: '1993-10-12T01:00:00'
+  crc: '0x6af2a710'
+- name: INST0306.TZF
+  size: 1457650
+  date: '1993-10-12T01:00:00'
+  crc: '0x16525845'
+- name: INST0307.TZF
+  size: 1457650
+  date: '1993-10-12T01:00:00'
+  crc: '0x1bbd3ba5'
+- name: INST0308.TZF
+  size: 1457650
+  date: '1993-10-12T01:00:00'
+  crc: '0x0783e733'
+- name: INST0309.TZF
+  size: 1457650
+  date: '1993-10-12T01:00:00'
+  crc: '0xd0daa54e'
+- name: INST0310.TZF
+  size: 1457650
+  date: '1993-10-12T01:00:00'
+  crc: '0xfb05c79d'
+- name: INST0311.TZF
+  size: 683993
+  date: '1993-10-12T01:00:00'
+  crc: '0x6965401b'
+- name: INST0411.TZF
+  size: 773618
+  date: '1993-10-12T01:00:00'
+  crc: '0x367c838b'
+- name: INST0412.TZF
+  size: 1457650
+  date: '1993-10-12T01:00:00'
+  crc: '0x2bc552ae'
+- name: INST0413.TZF
+  size: 1457650
+  date: '1993-10-12T01:00:00'
+  crc: '0x1a552408'
+- name: INST0414.TZF
+  size: 210646
+  date: '1993-10-12T01:00:00'
+  crc: '0x995f9591'
+- name: INSTALL.EXE
+  size: 51594
+  date: '1993-10-12T01:00:00'
+  crc: '0xcec19aa2'
+- name: README.TXT
+  size: 1365
+  date: '1993-10-12T01:00:00'
+  crc: '0x4cae2d20'
+- name: SPANISH.TRN
+  size: 57
+  date: '1993-10-12T01:00:00'
+  crc: '0x0a6a25d1'
+- name: SWC1
+  size: 0
+  date: '1993-10-12T05:31:58'
+- name: SWC10
+  size: 0
+  date: '1993-10-12T05:45:54'
+- name: SWC11
+  size: 0
+  date: '1993-10-12T05:47:26'
+- name: SWC12
+  size: 0
+  date: '1993-10-12T05:48:54'
+- name: SWC13
+  size: 0
+  date: '1993-10-12T05:50:26'
+- name: SWC14
+  size: 0
+  date: '1993-10-12T05:50:52'
+- name: SWC2
+  size: 0
+  date: '1993-10-12T05:33:32'
+- name: SWC3
+  size: 0
+  date: '1993-10-12T05:35:08'
+- name: SWC4
+  size: 0
+  date: '1993-10-12T05:36:38'
+- name: SWC5
+  size: 0
+  date: '1993-10-12T05:38:08'
+- name: SWC6
+  size: 0
+  date: '1993-10-12T05:39:38'
+- name: SWC7
+  size: 0
+  date: '1993-10-12T05:41:18'
+- name: SWC8
+  size: 0
+  date: '1993-10-12T05:42:50'
+- name: SWC9
+  size: 0
+  date: '1993-10-12T05:44:22'

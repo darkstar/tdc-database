@@ -1,0 +1,26 @@
+filename: Fire and Ice (1989)(Troy Conly) [Action].zip
+tdc_id: '1693.0'
+title:
+  screen: Fire and Ice
+publisher: Troy Conly
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:27:46'
+  last_modified: '2019-03-01T18:27:46'
+type: zip
+commands:
+  play: FIREICE.EXE
+references:
+  dosid: DOS06834
+  exodos: Fire and Ice (1989).zip
+files:
+- name: FIREICE.DOC
+  size: 3618
+  date: '1989-05-19T15:06:10'
+  crc: '0xd82fec1a'
+- name: FIREICE.EXE
+  size: 50880
+  date: '1989-05-19T15:43:22'
+  crc: '0x0605cda1'

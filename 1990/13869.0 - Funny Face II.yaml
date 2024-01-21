@@ -1,0 +1,45 @@
+filename: Funny Face II [SW] (1990)(Z-ware) [Educational].zip
+tdc_id: '13869.0'
+title:
+  screen: Funny Face II
+publisher: Z-ware
+year: '1990'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T18:32:40'
+  last_modified: '2019-03-01T18:32:40'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: FF2.EXE
+references:
+  dosid: DOS02329
+  exodos: Funny Face (1990).zip
+files:
+- name: FF2.DAT
+  size: 49207
+  date: '1990-12-01T12:05:08'
+  crc: '0x51757db6'
+- name: FF2.EXE
+  size: 244522
+  date: '1990-11-26T15:33:46'
+  crc: '0x621d02ef'
+- name: FF2.PDT
+  size: 79920
+  date: '1990-09-30T17:17:36'
+  crc: '0xa54599b3'
+- name: IMAGES.CGA
+  size: 244252
+  date: '1990-11-26T13:40:36'
+  crc: '0x8f5e670e'
+- name: IMAGES.EGA
+  size: 565562
+  date: '1990-11-26T13:34:56'
+  crc: '0x518a0986'
+- name: README.TXT
+  size: 6097
+  date: '1990-12-01T11:51:04'
+  crc: '0xbecbd501'

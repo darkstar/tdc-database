@@ -1,0 +1,64 @@
+filename: Heat Wave- Offshore Superboat Racing [h2] (1990)(Accolade, Inc.) [Action, Simulation, Racing - Driving].zip
+tdc_id: '9561.4'
+title:
+  box: 'Heat Wave: Offshore Superboat Racing'
+  screen: Heat Wave
+publisher: Accolade, Inc.
+year: '1990'
+genre:
+- Action
+- Simulation
+- Racing - Driving
+language: English
+date:
+  added: '2019-03-01T18:32:48'
+  last_modified: '2023-04-26T09:56:16'
+type: zip
+tags:
+- Hack: 2
+media: 360K
+commands:
+  play: PBOAT.EXE
+references:
+  mobygames: https://www.mobygames.com/game/54190/heat-wave-offshore-superboat-racing/
+files:
+- name: BESTSCOR.DAT
+  size: 250
+  date: '1990-02-15T07:37:20'
+  crc: '0x0b9a04c3'
+- name: COURSE.DAT
+  size: 410
+  date: '1990-02-15T07:37:20'
+  crc: '0x2e85da42'
+- name: DRIVERS.DAT
+  size: 832
+  date: '1990-05-06T22:42:26'
+  crc: '0x454e3c37'
+- name: HEATWAVE.EXE
+  size: 79429
+  date: '1990-02-28T17:44:10'
+  crc: '0x6b5980b6'
+- name: HIGHSCOR.DAT
+  size: 250
+  date: '1990-02-15T07:37:20'
+  crc: '0x0b9a04c3'
+- name: INSTALL.EXE
+  size: 5701
+  date: '1990-02-05T11:02:20'
+  crc: '0x10c7877d'
+- name: OPPON.DAT
+  size: 208
+  date: '1990-02-15T07:37:18'
+  crc: '0xa31f536c'
+- name: PBOAT.EXE
+  size: 44543
+  date: '1990-02-09T09:22:50'
+  crc: '0x11fa70c7'
+- name: SPBOAT.DAT
+  size: 186671
+  date: '1990-02-15T07:36:16'
+  crc: '0xfcad092f'
+- name: SPBOAT2.DAT
+  size: 313136
+  date: '1990-02-15T07:35:50'
+  crc: '0x83595c5d'

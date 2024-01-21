@@ -1,0 +1,35 @@
+filename: Ghostbusters (PCjr, Tandy 1000) [DC] (1985)(Activision, Inc.) [Action].zip
+tdc_id: '14047.0'
+title:
+  box: Ghostbusters
+  qualifier: PCjr, Tandy 1000
+publisher: Activision, Inc.
+year: '1985'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:26'
+  last_modified: '2019-03-01T18:24:26'
+type: zip
+tags:
+- DOSConversion
+requirements:
+  cpu:
+    min: '8088'
+media: 360K
+references:
+  dosid: DOS05897
+  exodos: Ghostbusters (1986).zip
+files:
+- name: GHOST.EXE
+  size: 56038
+  date: '1985-07-16T10:53:40'
+  crc: '0x56c3ed63'
+- name: LOGO.COM
+  size: 34047
+  date: '1985-06-10T11:41:16'
+  crc: '0x9b4bf86b'
+- name: RUN.BAT
+  size: 24
+  date: '2016-03-26T08:30:16'
+  crc: '0xe922d5eb'

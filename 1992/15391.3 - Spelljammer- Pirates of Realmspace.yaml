@@ -1,0 +1,42 @@
+filename: Spelljammer- Pirates of Realmspace (Installer) [a1] (1992)(Strategic Simulations, Inc.) [Role-Playing (RPG), Strategy].zip
+tdc_id: '15391.3'
+title:
+  box: 'Spelljammer: Pirates of Realmspace'
+publisher: Strategic Simulations, Inc.
+year: '1992'
+genre:
+- Role-Playing (RPG)
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:51:24'
+  last_modified: '2019-03-01T18:51:24'
+type: zip
+tags:
+- Alternate: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: ART1.ARJ
+  size: 257238
+  date: '1992-10-21T17:03:28'
+  crc: '0xdf13dde6'
+- name: DISK1.ARJ
+  size: 1111281
+  date: '1992-10-28T02:37:46'
+  crc: '0xe7a16263'
+- name: DISK2.ARJ
+  size: 1333485
+  date: '1992-10-21T17:07:36'
+  crc: '0x11c23fba'
+- name: INSTALL.EXE
+  size: 37944
+  date: '1992-10-22T10:29:44'
+  crc: '0xc9286197'
+- name: POR_D1_V1_0
+  size: 0
+  date: '1992-10-28T02:31:54'
+- name: POR_D2_V1_0
+  size: 0
+  date: '1992-10-28T01:46:12'

@@ -1,0 +1,29 @@
+filename: Sir Chomps-A-Lot - The Escape From Rebel Crocs (1999)(BattleCraft99) [Adventure, Interactive Fiction].zip
+tdc_id: '15110.0'
+title:
+  screen: Sir Chomps-A-Lot - The Escape From Rebel Crocs
+publisher: BattleCraft99
+year: '1999'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T10:46:28'
+  last_modified: '2019-03-02T10:46:28'
+type: zip
+commands:
+  play: SirChomp.exe
+files:
+- name: ReadMe.txt
+  size: 811
+  date: '1999-10-02T22:45:26'
+  crc: '0xb6fcbcbd'
+- name: SirChomp.bas
+  size: 50037
+  date: '1999-07-16T11:33:54'
+  crc: '0xd29db8a5'
+- name: SirChomp.exe
+  size: 94584
+  date: '1999-07-17T16:16:16'
+  crc: '0x8693fbd8'

@@ -1,0 +1,28 @@
+filename: Game of Kalah, The v1.6 (1985)(Brian Sietz) [Strategy].zip
+tdc_id: '1187.0'
+title:
+  screen: The Game of Kalah
+publisher: Brian Sietz
+year: '1985'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:24:26'
+  last_modified: '2019-03-01T18:24:26'
+version: '1.6'
+type: zip
+commands:
+  play: KALAHIBM.COM
+files:
+- name: KALAH.DOC
+  size: 2176
+  date: '1980-01-01T01:48:58'
+  crc: '0x977a59f0'
+- name: KALAH.HLP
+  size: 2688
+  date: '1980-01-01T01:48:16'
+  crc: '0x77f49306'
+- name: KALAHIBM.COM
+  size: 29952
+  date: '1980-01-01T01:47:22'
+  crc: '0x9851808c'

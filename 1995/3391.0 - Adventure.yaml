@@ -1,0 +1,26 @@
+filename: Adventure v2.5 (1995)(Don Woods) [Adventure, Interactive Fiction].zip
+tdc_id: '3391.0'
+title:
+  screen: Adventure
+publisher: Don Woods
+year: '1995'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T07:28:06'
+  last_modified: '2019-03-02T07:28:06'
+version: '2.5'
+type: zip
+commands:
+  play: ADVENTUR.EXE
+files:
+- name: ADVENTUR.DAT
+  size: 63592
+  date: '1996-02-05T15:58:30'
+  crc: '0x83d75a3e'
+- name: ADVENTUR.EXE
+  size: 99328
+  date: '1996-02-05T15:57:24'
+  crc: '0xe9eceb65'

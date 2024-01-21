@@ -1,0 +1,41 @@
+filename: Rogue Clone IV v2.1 (2004)(Michael Lehotay, Nick Straguzzi) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '4937.0'
+title:
+  screen: Rogue Clone IV
+publisher: Michael Lehotay, Nick Straguzzi
+year: '2004'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-02T10:56:58'
+  last_modified: '2019-03-02T10:56:58'
+version: '2.1'
+type: zip
+commands:
+  play: ROGUE.EXE
+references:
+  dosid: DOS04362
+  exodos: Rogue Clone (1988).zip
+files:
+- name: GUIDE.HTM
+  size: 33918
+  date: '2004-02-21T14:38:14'
+  crc: '0x12413812'
+- name: LICENSE.TXT
+  size: 1541
+  date: '2004-01-30T15:33:02'
+  crc: '0x64f8ed80'
+- name: README.TXT
+  size: 891
+  date: '2004-02-21T22:53:06'
+  crc: '0x6c68fdee'
+- name: ROGUE.EXE
+  size: 114600
+  date: '2004-02-22T00:52:26'
+  crc: '0x2f5e6a54'
+- name: ROGUE.HTM
+  size: 4470
+  date: '2004-02-21T14:46:28'
+  crc: '0x93c21aa8'

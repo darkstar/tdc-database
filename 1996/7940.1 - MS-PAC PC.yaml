@@ -1,0 +1,84 @@
+filename: MS-PAC PC v1.01 (1996)(JROK) [Action].zip
+tdc_id: '7940.1'
+title:
+  screen: MS-PAC PC
+publisher: JROK
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:13:24'
+  last_modified: '2019-03-02T10:13:24'
+version: '1.01'
+type: zip
+commands:
+  play: MSPAC.EXE
+files:
+- name: BACKGND
+  size: 6396
+  date: '1996-02-15T21:43:12'
+  crc: '0xc33ff3fa'
+- name: CHOMP
+  size: 2024
+  date: '1995-11-14T17:22:02'
+  crc: '0x54a4850d'
+- name: EATFR
+  size: 11738
+  date: '1995-11-14T19:14:50'
+  crc: '0xd6f66a3e'
+- name: EATGH
+  size: 9046
+  date: '1995-11-05T14:45:26'
+  crc: '0xf1b3362b'
+- name: EXLIFE
+  size: 35010
+  date: '1996-02-15T20:17:48'
+  crc: '0x3454cfe5'
+- name: FRTB
+  size: 2456
+  date: '1995-11-14T19:16:12'
+  crc: '0x88a986ba'
+- name: M1
+  size: 139096
+  date: '1995-11-14T18:54:08'
+  crc: '0x34b10118'
+- name: M2
+  size: 354578
+  date: '1995-11-14T18:58:48'
+  crc: '0xd4a66199'
+- name: M3
+  size: 82958
+  date: '1995-11-14T19:32:44'
+  crc: '0xeb5c9c22'
+- name: MSP-V101.TXT
+  size: 4336
+  date: '1996-02-19T15:51:00'
+  crc: '0x2c5d39d9'
+- name: MSPAC.DOC
+  size: 13325
+  date: '1996-02-19T18:02:50'
+  crc: '0x096ea3aa'
+- name: MSPAC.EXE
+  size: 217248
+  date: '1996-02-19T09:12:24'
+  crc: '0x31118df0'
+- name: MSPAC.PIF
+  size: 545
+  date: '1996-02-15T12:13:02'
+  crc: '0x0387913b'
+- name: PACDIE
+  size: 21320
+  date: '1995-11-14T17:42:46'
+  crc: '0x1a789e82'
+- name: POWERUP
+  size: 94740
+  date: '1996-02-15T21:04:02'
+  crc: '0x7efba38b'
+- name: POWUP2
+  size: 14234
+  date: '1995-11-09T20:38:52'
+  crc: '0x9052c308'
+- name: TITLE
+  size: 68226
+  date: '1995-11-13T18:26:00'
+  crc: '0xdb196c0b'

@@ -1,0 +1,30 @@
+filename: Gargoyle Castle (2002)(Richard Kelly) [Adventure, Interactive Fiction].zip
+tdc_id: '13959.0'
+title:
+  screen: Gargoyle Castle
+publisher: Richard Kelly
+year: '2002'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T10:56:00'
+  last_modified: '2019-03-02T10:56:00'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GARGOYLE.BAS
+  size: 20123
+  date: '2018-03-10T15:11:12'
+  crc: '0xd42c84e4'
+- name: GO.BAT
+  size: 28
+  date: '2018-11-29T17:35:32'
+  crc: '0xd664884a'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

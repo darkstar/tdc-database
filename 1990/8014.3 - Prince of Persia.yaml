@@ -1,0 +1,95 @@
+filename: Prince of Persia (demo) (1990)(Brøderbund Software, Inc.) [Adventure, Action].zip
+tdc_id: '8014.3'
+title:
+  screen: Prince of Persia
+  qualifier: demo
+publisher: Brøderbund Software, Inc.
+year: '1990'
+genre:
+- Adventure
+- Action
+language: English
+date:
+  added: '2019-03-01T18:33:38'
+  last_modified: '2019-03-01T18:33:38'
+type: zip
+demo: true
+commands:
+  play: PRINCE.EXE
+files:
+- name: CDUNGEON.DAT
+  size: 7662
+  date: '1990-03-29T00:00:02'
+  crc: '0x9da178a8'
+- name: DIGISND1.DAT
+  size: 33199
+  date: '1990-03-29T00:00:02'
+  crc: '0x30981edc'
+- name: DIGISND2.DAT
+  size: 7971
+  date: '1990-03-29T00:00:02'
+  crc: '0xd32a4f6e'
+- name: DIGISND3.DAT
+  size: 20974
+  date: '1990-03-29T00:00:02'
+  crc: '0x4a474988'
+- name: EDUNGEON.DAT
+  size: 8408
+  date: '1990-03-29T00:00:02'
+  crc: '0x43956fbf'
+- name: GUARD.DAT
+  size: 6950
+  date: '1990-03-29T00:00:02'
+  crc: '0x594674d6'
+- name: GUARD2.DAT
+  size: 117
+  date: '1990-03-29T00:00:02'
+  crc: '0xa5b5de91'
+- name: IBM_SND1.DAT
+  size: 4219
+  date: '1990-03-29T00:00:02'
+  crc: '0x0219b8d0'
+- name: IBM_SND2.DAT
+  size: 1928
+  date: '1990-03-29T00:00:02'
+  crc: '0xe6c50f5e'
+- name: KID.DAT
+  size: 37149
+  date: '1990-03-29T00:00:02'
+  crc: '0xbaf68c9d'
+- name: LEVELS.DAT
+  size: 6950
+  date: '1990-03-29T00:00:02'
+  crc: '0x3c8904b2'
+- name: MIDISND1.DAT
+  size: 5097
+  date: '1990-03-29T00:00:02'
+  crc: '0xf10f875d'
+- name: MIDISND2.DAT
+  size: 5626
+  date: '1990-03-29T00:00:02'
+  crc: '0xfeab7b45'
+- name: PRINCE.DAT
+  size: 3278
+  date: '1990-03-29T00:00:02'
+  crc: '0x31793851'
+- name: PRINCE.EXE
+  size: 123335
+  date: '1990-03-29T00:00:02'
+  crc: '0x64691b12'
+- name: PV.DAT
+  size: 25829
+  date: '1990-03-29T00:00:02'
+  crc: '0x772e7706'
+- name: TITLE.DAT
+  size: 34904
+  date: '1990-03-29T00:00:02'
+  crc: '0xd8e5c4cc'
+- name: VDUNGEON.DAT
+  size: 11845
+  date: '1990-03-29T00:00:02'
+  crc: '0xa83e5b1f'
+- name: pop1.txt
+  size: 362
+  date: '1995-07-07T05:12:10'
+  crc: '0xbe59c728'

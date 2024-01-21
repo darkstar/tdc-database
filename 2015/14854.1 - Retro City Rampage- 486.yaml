@@ -1,0 +1,32 @@
+filename: Retro City Rampage- 486 (Installer) (2015)(Vblank Entertainment Inc.) [Action].zip
+tdc_id: '14854.1'
+title:
+  box: 'Retro City Rampage: 486'
+  qualifier: Installer
+publisher: Vblank Entertainment Inc.
+year: '2015'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:58:08'
+  last_modified: '2023-07-05T11:46:48'
+type: zip
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/58235/retro-city-rampage-dx/
+files:
+- name: INSTALL.EXE
+  size: 62996
+  date: '2015-07-02T17:01:46'
+  crc: '0xbf0de1a9'
+- name: README.TXT
+  size: 1378
+  date: '2015-06-28T12:00:10'
+  crc: '0x03d5c539'
+- name: VOL.1
+  size: 1357472
+  date: '2015-06-20T15:10:54'
+  crc: '0x6f1ce936'

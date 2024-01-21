@@ -1,0 +1,31 @@
+filename: Grandmaster Chess v1.0 (Installer) (1992)(Capstone Software) [Strategy, Chess].zip
+tdc_id: '10893.10'
+title:
+  box: Grandmaster Chess
+publisher: Capstone Software
+year: '1992'
+genre:
+- Strategy
+- Chess
+language: English
+date:
+  added: '2022-08-07T16:26:54'
+  last_modified: '2022-08-07T16:26:54'
+version: '1.0'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: CHESS00.INS
+  size: 610025
+  date: '1992-04-22T16:33:34'
+  crc: '0x58c119e1'
+- name: CHESS01.INS
+  size: 651134
+  date: '1992-04-22T16:39:42'
+  crc: '0xb715f0f4'
+- name: INSTALL.EXE
+  size: 79399
+  date: '1992-04-21T15:47:04'
+  crc: '0xa61bbf9d'

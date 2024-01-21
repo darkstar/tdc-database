@@ -1,0 +1,68 @@
+filename: PC Arcadians v1.1 (2000)(The Admiral) [Action].zip
+tdc_id: '10087.0'
+title:
+  screen: PC Arcadians
+publisher: The Admiral
+year: '2000'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:54:58'
+  last_modified: '2019-03-02T10:54:58'
+version: '1.1'
+type: zip
+commands:
+  play: PCARCADE.EXE
+files:
+- name: ACMUS.PCM
+  size: 77000
+  date: '2002-12-31T09:34:48'
+  crc: '0xec14d7e5'
+- name: ARCAD1.FPG
+  size: 108174
+  date: '2002-12-31T09:34:48'
+  crc: '0x2c1f7b5f'
+- name: ARCAD2.FPG
+  size: 202384
+  date: '2002-12-31T09:34:48'
+  crc: '0x7cbda19a'
+- name: ARCADE3.FPG
+  size: 150056
+  date: '2002-12-31T09:34:48'
+  crc: '0x4437cbf5'
+- name: ARCFONT.FNT
+  size: 13004
+  date: '2002-12-31T09:34:48'
+  crc: '0x337d61ea'
+- name: AS.PCM
+  size: 55004
+  date: '2002-12-31T09:34:48'
+  crc: '0x8a983379'
+- name: BUIU.PCM
+  size: 8847
+  date: '2002-12-31T09:34:48'
+  crc: '0x98de703f'
+- name: DIV32RUN.DLL
+  size: 329179
+  date: '2002-12-31T09:34:48'
+  crc: '0x44976137'
+- name: FX1.PCM
+  size: 24752
+  date: '2002-12-31T09:34:48'
+  crc: '0xc987a334'
+- name: LASER.PCM
+  size: 10142
+  date: '2002-12-31T09:34:48'
+  crc: '0xe12961ff'
+- name: LASER2.PCM
+  size: 28504
+  date: '2002-12-31T09:34:48'
+  crc: '0xcd9e4858'
+- name: LASER3.PCM
+  size: 24752
+  date: '2002-12-31T09:34:48'
+  crc: '0xc987a334'
+- name: PCARCADE.EXE
+  size: 37283
+  date: '2002-12-31T09:34:48'
+  crc: '0x3c8794bf'

@@ -1,0 +1,106 @@
+filename: NetHack v3.0j (1991)(Mike Stephenson) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '8443.0'
+title:
+  screen: NetHack
+publisher: Mike Stephenson
+year: '1991'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:37:06'
+  last_modified: '2019-03-01T18:37:06'
+version: 3.0j
+type: zip
+commands:
+  play: NETHACK.EXE
+files:
+- name: CASTLE
+  size: 1829
+  date: '1991-03-11T12:52:08'
+  crc: '0x8aa1232d'
+- name: CMDHELP
+  size: 4017
+  date: '1991-02-02T11:11:30'
+  crc: '0xb8873aa5'
+- name: DATA
+  size: 23261
+  date: '1991-03-11T12:52:18'
+  crc: '0x7f71ed3a'
+- name: ENDGAME
+  size: 1004
+  date: '1991-03-11T12:52:08'
+  crc: '0x0a6aaa29'
+- name: GUIDEBK.TEX
+  size: 55291
+  date: '1991-02-06T00:57:34'
+  crc: '0x319b3d1e'
+- name: GUIDEBK.TXT
+  size: 51869
+  date: '1991-02-06T00:57:18'
+  crc: '0x8bb463de'
+- name: HELP
+  size: 6820
+  date: '1991-02-02T11:11:44'
+  crc: '0xb2fc1570'
+- name: HH
+  size: 3660
+  date: '1991-02-02T11:11:46'
+  crc: '0xca6ba49d'
+- name: HISTORY
+  size: 3236
+  date: '1991-02-02T11:11:48'
+  crc: '0xb022ac65'
+- name: LICENSE
+  size: 5006
+  date: '1991-02-02T11:11:54'
+  crc: '0x46c3e7da'
+- name: NETHACK.CNF
+  size: 3658
+  date: '1991-02-02T11:13:52'
+  crc: '0x7b826669'
+- name: NETHACK.EXE
+  size: 299008
+  date: '1991-03-11T12:47:48'
+  crc: '0xf75517c6'
+- name: NETHACK1.OVL
+  size: 290304
+  date: '1991-03-11T12:47:58'
+  crc: '0x0f8833af'
+- name: NETHACK2.OVL
+  size: 248320
+  date: '1991-03-11T12:48:04'
+  crc: '0x64625d40'
+- name: OPTHELP
+  size: 4113
+  date: '1991-02-02T11:12:02'
+  crc: '0x67f7454e'
+- name: ORACLES
+  size: 4478
+  date: '1991-02-02T11:12:06'
+  crc: '0x2fa350cb'
+- name: README
+  size: 27317
+  date: '1991-04-09T18:37:32'
+  crc: '0xceaf6910'
+- name: RUMORS
+  size: 40892
+  date: '1991-03-11T12:52:20'
+  crc: '0x456c4730'
+- name: TERMCAP
+  size: 5555
+  date: '1991-02-02T11:15:38'
+  crc: '0xd140c9f1'
+- name: TOWER1
+  size: 380
+  date: '1991-03-11T12:52:10'
+  crc: '0xbdc5fdb2'
+- name: TOWER2
+  size: 335
+  date: '1991-03-11T12:52:10'
+  crc: '0xa4db894c'
+- name: TOWER3
+  size: 356
+  date: '1991-03-11T12:52:10'
+  crc: '0x24068f0b'

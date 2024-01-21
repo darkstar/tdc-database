@@ -1,0 +1,28 @@
+filename: Battleship (2006)(Dean the Bean) [Strategy].zip
+tdc_id: '12511.0'
+title:
+  screen: Battleship
+publisher: Dean the Bean
+year: '2006'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:57:12'
+  last_modified: '2019-03-02T10:57:12'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: BATTLESHIP.BAS
+  size: 5375
+  date: '2018-02-17T20:57:04'
+  crc: '0x41310985'
+- name: GO.BAT
+  size: 28
+  date: '2018-12-04T17:15:06'
+  crc: '0xbd85e059'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

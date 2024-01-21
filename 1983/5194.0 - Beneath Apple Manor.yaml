@@ -1,0 +1,35 @@
+filename: Beneath Apple Manor [DC] (1983)(Quality Software) [Role-Playing (RPG)].zip
+tdc_id: '5194.0'
+parent_id: '5194.2'
+title:
+  box: Beneath Apple Manor
+publisher: Quality Software
+year: '1983'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:23:08'
+  last_modified: '2024-01-15T19:08:45'
+type: zip
+tags:
+- DOSConversion
+media: 360K
+commands:
+  play: MANOR.COM
+references:
+  mobygames: https://www.mobygames.com/game/8610/beneath-apple-manor/
+  dosid: DOS05838
+  exodos: Beneath Apple Manor (1978).zip
+files:
+- name: MANOR.COM
+  size: 33487
+  date: '2021-10-15T13:00:06'
+  crc: '0x7694495c'
+- name: MANOR.DAT
+  size: 73728
+  date: '2021-10-07T20:50:58'
+  crc: '0xcef9a8ee'
+- name: MANOR.SAV
+  size: 4096
+  date: '2024-01-14T10:09:40'
+  crc: '0x4604f48a'

@@ -1,0 +1,32 @@
+filename: Backgammon v2.31 (En)(It) (1994)(Customatix) [Strategy, Board].zip
+tdc_id: '2945.0'
+title:
+  screen: Backgammon
+publisher: Customatix
+year: '1994'
+genre:
+- Strategy
+- Board
+language:
+- English
+- Italian
+date:
+  added: '2019-03-01T21:54:28'
+  last_modified: '2019-03-01T21:54:28'
+version: '2.31'
+type: zip
+commands:
+  play: BG.EXE
+files:
+- name: BG.EXE
+  size: 95824
+  date: '1995-04-01T09:33:02'
+  crc: '0x73ebddb8'
+- name: EGAVGA.BGI
+  size: 5554
+  date: '1991-11-11T03:00:00'
+  crc: '0x9b14ff3b'
+- name: README
+  size: 8541
+  date: '1994-05-21T17:45:44'
+  crc: '0xeb97b6c4'

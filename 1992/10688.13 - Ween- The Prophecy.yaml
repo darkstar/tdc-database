@@ -1,0 +1,67 @@
+filename: Ween- The Prophecy (Installer) (De) (1992)(Coktel Vision) [Adventure].zip
+tdc_id: '10688.13'
+parent_id: '10668.18'
+title:
+  box: 'Ween: The Prophecy'
+publisher: Coktel Vision
+year: '1992'
+genre: Adventure
+language: German
+date:
+  added: '2022-01-08T10:45:22'
+  last_modified: '2022-11-22T10:30:26'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/prophecy
+files:
+- name: ALL.ASK
+  size: 8566
+  date: '1992-10-21T11:00:34'
+  crc: '0xe30ff1eb'
+- name: GO.BAT
+  size: 25
+  date: '1992-10-21T11:00:36'
+  crc: '0xed64130e'
+- name: INSTALL.EXE
+  size: 16457
+  date: '1992-08-25T15:25:28'
+  crc: '0x03ff4636'
+- name: INSTALL.INF
+  size: 580
+  date: '1992-10-21T13:44:16'
+  crc: '0x7f7f82d4'
+- name: INTRO.$00
+  size: 1329152
+  date: '1992-10-21T13:42:52'
+  crc: '0x80eef747'
+- name: INTRO.$01
+  size: 1457152
+  date: '1992-10-21T13:43:10'
+  crc: '0xc74d110b'
+- name: INTRO.$02
+  size: 1457152
+  date: '1992-10-21T13:43:30'
+  crc: '0x6caac516'
+- name: INTRO.$03
+  size: 1457152
+  date: '1992-10-21T13:43:48'
+  crc: '0x460fe3f1'
+- name: INTRO.$04
+  size: 1261461
+  date: '1992-10-21T13:44:08'
+  crc: '0x48feed30'
+- name: L360.GDR
+  size: 3524
+  date: '1992-10-21T11:00:36'
+  crc: '0x2f584902'
+- name: LOADER.EXE
+  size: 87905
+  date: '1992-10-21T11:00:34'
+  crc: '0xb2582649'
+- name: LVGA.GDR
+  size: 4844
+  date: '1992-10-21T11:00:36'
+  crc: '0x36f1f893'

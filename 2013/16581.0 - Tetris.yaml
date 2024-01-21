@@ -1,0 +1,33 @@
+filename: Tetris (2013)(Pierrick Hansen) [Action, Strategy].zip
+tdc_id: '16581.0'
+title:
+  screen: Tetris
+publisher: Pierrick Hansen
+year: '2013'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-02T10:58:04'
+  last_modified: '2019-03-02T10:58:04'
+type: zip
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 24
+  date: '2018-12-19T23:58:12'
+  crc: '0x893dae2f'
+- name: HiScores.dat
+  size: 52
+  date: '2013-02-03T15:36:02'
+  crc: '0x8cd8a59a'
+- name: QB.EXE
+  size: 278804
+  date: '2016-03-13T01:19:56'
+  crc: '0xb08bc0fe'
+- name: QBTetris.BAS
+  size: 38514
+  date: '2013-02-04T11:59:12'
+  crc: '0x1d3f1ba4'

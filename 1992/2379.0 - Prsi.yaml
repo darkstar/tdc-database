@@ -1,0 +1,33 @@
+filename: Prsi (Cs) (1992)(Martin Filip) [Strategy, Cards].zip
+tdc_id: '2379.0'
+title:
+  screen: Prsi
+publisher: Martin Filip
+year: '1992'
+genre:
+- Strategy
+- Cards
+language: Czech
+date:
+  added: '2019-03-01T18:50:04'
+  last_modified: '2019-03-01T18:50:04'
+type: zip
+commands:
+  play: PRSI.EXE
+files:
+- name: PRSI.DAT
+  size: 114916
+  date: '1992-08-24T15:06:16'
+  crc: '0x7f13ffc8'
+- name: PRSI.EXE
+  size: 96033
+  date: '1996-04-27T06:24:22'
+  crc: '0x4ecb0917'
+- name: PRSI.SOU
+  size: 495
+  date: '1998-01-10T20:51:56'
+  crc: '0x14a4936f'
+- name: PRSI.SYM
+  size: 864
+  date: '1992-09-08T20:17:22'
+  crc: '0xae33f6d6'

@@ -1,0 +1,47 @@
+filename: 2D Game (1999)(Entropy) [Action].zip
+tdc_id: '5423.0'
+title:
+  screen: 2D Game
+publisher: Entropy
+year: '1999'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:45:14'
+  last_modified: '2019-03-02T10:45:14'
+type: zip
+commands:
+  play: 2dgame.exe
+files:
+- name: 2dgame.exe
+  size: 64402
+  date: '1999-03-04T17:42:54'
+  crc: '0x45a8a824'
+- name: 2dgame.map
+  size: 59101
+  date: '1999-02-11T16:29:16'
+  crc: '0x40410ad0'
+- name: 2dgame.pal
+  size: 768
+  date: '1999-03-04T17:28:38'
+  crc: '0xd95ba2e1'
+- name: 2dgame5.bas
+  size: 11812
+  date: '1999-03-04T17:42:48'
+  crc: '0xe158d920'
+- name: Buffer.bi
+  size: 703
+  date: '1999-02-19T19:33:20'
+  crc: '0x6a8b40a7'
+- name: Buffer.qlb
+  size: 10207
+  date: '1999-02-19T19:35:02'
+  crc: '0xa36dae8f'
+- name: Bullet.put
+  size: 351
+  date: '1999-02-25T22:59:54'
+  crc: '0x0b5d54f3'
+- name: Explo.put
+  size: 523
+  date: '1999-03-04T17:26:08'
+  crc: '0xd40a72d5'

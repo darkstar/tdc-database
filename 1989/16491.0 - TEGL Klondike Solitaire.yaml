@@ -1,0 +1,32 @@
+filename: TEGL Klondike Solitaire [SW] (1989)(TEGL Systems Corporation) [Strategy, Cards].zip
+tdc_id: '16491.0'
+title:
+  screen: TEGL Klondike Solitaire
+publisher: TEGL Systems Corporation
+year: '1989'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:29:10'
+  last_modified: '2019-03-01T18:29:10'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: KLONDIKE.EXE
+files:
+- name: HOMEBASE.CAN
+  size: 2411
+  date: '1989-09-23T21:56:44'
+  crc: '0x8870a285'
+- name: KLONDIKE.EXE
+  size: 217441
+  date: '1989-09-23T12:52:00'
+  crc: '0xf5593ec6'
+- name: README.DOC
+  size: 2162
+  date: '1989-09-23T20:28:22'
+  crc: '0x12a26b18'

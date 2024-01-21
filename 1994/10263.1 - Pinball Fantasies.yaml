@@ -1,0 +1,128 @@
+filename: Pinball Fantasies v1.0 (1994)(21st Century Entertainment Ltd.) [Simulation, Action].zip
+tdc_id: '10263.1'
+parent_id: '10263.4'
+title:
+  box: Pinball Fantasies
+publisher: 21st Century Entertainment Ltd.
+year: '1994'
+genre:
+- Simulation
+- Action
+language: English
+date:
+  added: '2022-08-03T16:25:56'
+  last_modified: '2023-07-10T08:49:56'
+version: '1.0'
+type: zip
+media: 1.44M
+commands:
+  play: PINBALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/571/pinball-fantasies/
+  dosid: DOS04004
+  exodos: Pinball Fantasies (1992).zip
+files:
+- name: ADLIB.SDR
+  size: 10966
+  date: '1994-01-12T00:00:00'
+  crc: '0xe15e4fc5'
+- name: GUS.SDR
+  size: 10502
+  date: '1994-01-12T00:00:00'
+  crc: '0xeacf34e0'
+- name: INTERNAL.SDR
+  size: 10711
+  date: '1994-01-12T00:00:00'
+  crc: '0x89a8892e'
+- name: INTRO.MOD
+  size: 252870
+  date: '1994-01-12T00:00:00'
+  crc: '0xbb96ca4e'
+- name: INTRO.PRG
+  size: 345678
+  date: '1994-01-12T00:00:00'
+  crc: '0x76d113da'
+- name: INTRO.PR_
+  size: 345678
+  date: '1994-01-12T00:00:00'
+  crc: '0x82d7696b'
+- name: MOD2.MOD
+  size: 55394
+  date: '1994-01-12T00:00:00'
+  crc: '0x98840f74'
+- name: NOSOUND.SDR
+  size: 2883
+  date: '1994-01-12T00:00:00'
+  crc: '0x1f492e81'
+- name: PAS16.SDR
+  size: 10712
+  date: '1994-01-12T00:00:00'
+  crc: '0x5b7e169f'
+- name: PINBALL.EXE
+  size: 1742
+  date: '1994-01-12T00:00:00'
+  crc: '0x6ae33fb1'
+- name: SB16.SDR
+  size: 11349
+  date: '1994-01-12T00:00:00'
+  crc: '0x8036d916'
+- name: SB20.SDR
+  size: 11814
+  date: '1994-01-12T00:00:00'
+  crc: '0xff0840fb'
+- name: SBLASTER.SDR
+  size: 11421
+  date: '1994-01-12T00:00:00'
+  crc: '0x3cc7cc86'
+- name: SBPRO.SDR
+  size: 11886
+  date: '1994-01-12T00:00:00'
+  crc: '0x91b92869'
+- name: SETSOUND.EXE
+  size: 5652
+  date: '1994-01-12T00:00:00'
+  crc: '0x0b4bf7ec'
+- name: SM2.SDR
+  size: 11348
+  date: '1994-01-12T00:00:00'
+  crc: '0xc847f359'
+- name: TABLE1.MOD
+  size: 210760
+  date: '1994-01-12T00:00:00'
+  crc: '0xb1a6de28'
+- name: TABLE1.PRG
+  size: 536838
+  date: '1994-01-12T00:00:00'
+  crc: '0x3701b09c'
+- name: TABLE2.MOD
+  size: 211912
+  date: '1994-01-12T00:00:00'
+  crc: '0xb7042be8'
+- name: TABLE2.PRG
+  size: 517990
+  date: '1994-01-12T00:00:00'
+  crc: '0xb8ccde54'
+- name: TABLE3.MOD
+  size: 219668
+  date: '1994-01-12T00:00:00'
+  crc: '0xc2195a70'
+- name: TABLE3.PRG
+  size: 504758
+  date: '1994-01-12T00:00:00'
+  crc: '0x01b25750'
+- name: TABLE4.MOD
+  size: 216418
+  date: '1994-01-12T00:00:00'
+  crc: '0x41686a2e'
+- name: TABLE4.PRG
+  size: 522198
+  date: '1994-01-12T00:00:00'
+  crc: '0x1b579062'
+- name: THING.SDR
+  size: 10369
+  date: '1994-01-12T00:00:00'
+  crc: '0x686e84c9'
+- name: TIMER.BIN
+  size: 253
+  date: '1994-01-12T00:00:00'
+  crc: '0x53b426b8'

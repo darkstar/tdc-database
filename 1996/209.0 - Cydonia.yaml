@@ -1,0 +1,100 @@
+filename: Cydonia (Es)(En) [SWR] (1996)(Virtual Fantasies) [Action, Strategy].zip
+tdc_id: '209.0'
+title:
+  screen: Cydonia
+publisher: Virtual Fantasies
+year: '1996'
+genre:
+- Action
+- Strategy
+language:
+- English
+- Spanish
+date:
+  added: '2019-03-02T10:02:12'
+  last_modified: '2022-12-14T09:51:04'
+type: zip
+tags:
+- SharewareRegistered
+commands:
+  play: CYDONIA.EXE
+  setup: CONFIG.EXE
+references:
+  dosid: DOS07995
+  exodos: Cydonia (1996).zip
+files:
+- name: CONFIG.DAT
+  size: 29
+  date: '2010-04-02T01:58:36'
+  crc: '0x4442ffd3'
+- name: CONFIG.EXE
+  size: 35564
+  date: '1994-12-18T01:39:02'
+  crc: '0xafb17a47'
+- name: CREDITS.DAT
+  size: 62776
+  date: '1994-12-19T12:17:58'
+  crc: '0x421953aa'
+- name: CWSDPR0.EXE
+  size: 25980
+  date: '1996-06-15T16:33:08'
+  crc: '0xe5f3c537'
+- name: CYDONIA.EXE
+  size: 223232
+  date: '1980-01-01T00:49:42'
+  crc: '0x982ebfa4'
+- name: DESIGNER\
+  size: 0
+  date: '2014-11-22T15:13:18'
+- name: DESIGNER\CWSDPR0.EXE
+  size: 25980
+  date: '1996-06-15T16:33:08'
+  crc: '0xe5f3c537'
+- name: DESIGNER\DESIGNER.DAT
+  size: 39220
+  date: '1994-11-12T22:12:30'
+  crc: '0x4ea5f2f6'
+- name: DESIGNER\DESIGNER.EXE
+  size: 60928
+  date: '1980-01-01T00:30:52'
+  crc: '0x02a81fc1'
+- name: DESIGNER\DESIGNER.TXT
+  size: 4121
+  date: '1980-01-01T00:28:54'
+  crc: '0x19c6cbe9'
+- name: DESIGNER\SHARE.DAT
+  size: 1760
+  date: '1980-01-01T00:00:00'
+  crc: '0x6d2f65f6'
+- name: GAME.DAT
+  size: 656488
+  date: '1980-01-01T00:00:00'
+  crc: '0x86d2e127'
+- name: MANUAL.ENG
+  size: 15100
+  date: '1980-01-01T00:00:00'
+  crc: '0xc7728ad7'
+- name: MANUAL.ESP
+  size: 22718
+  date: '1980-01-01T00:00:00'
+  crc: '0x69f97ae0'
+- name: MUSIC.DAT
+  size: 1006672
+  date: '1980-01-01T00:00:00'
+  crc: '0x55b5ae67'
+- name: README.EXE
+  size: 30124
+  date: '1980-01-01T00:00:00'
+  crc: '0xc558026d'
+- name: SCORE.DAT
+  size: 56
+  date: '1980-01-01T00:58:44'
+  crc: '0xd46df6ce'
+- name: SOUND.DAT
+  size: 189964
+  date: '1994-12-19T12:34:44'
+  crc: '0x538943b7'
+- name: VF.CFG
+  size: 19
+  date: '2016-03-20T14:50:36'
+  crc: '0xe2ba89de'

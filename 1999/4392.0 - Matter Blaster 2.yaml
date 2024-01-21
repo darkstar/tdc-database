@@ -1,0 +1,39 @@
+filename: Matter Blaster 2 v1.27 [SW] (1999)(BenWare) [Action].zip
+tdc_id: '4392.0'
+title:
+  screen: Matter Blaster 2
+publisher: BenWare
+year: '1999'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:46:16'
+  last_modified: '2019-03-02T10:46:16'
+version: '1.27'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: MB2.exe
+files:
+- name: MB2.CFG
+  size: 35
+  date: '2000-01-25T10:11:34'
+  crc: '0xa5a16161'
+- name: MB2.exe
+  size: 418182
+  date: '1999-12-28T07:24:54'
+  crc: '0x2892f91c'
+- name: Mb2.lev
+  size: 65054
+  date: '1998-08-07T10:27:32'
+  crc: '0xb16e9dcb'
+- name: Mb2.wep
+  size: 6004
+  date: '1999-10-23T09:35:48'
+  crc: '0xdc6c9b0b'
+- name: Serious.lev
+  size: 65054
+  date: '1999-10-23T09:27:56'
+  crc: '0xfce6d3f2'

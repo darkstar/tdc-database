@@ -1,0 +1,47 @@
+filename: Nirvana v2.0 [SW] (1988)(Wimsey Co.) [Adventure].zip
+tdc_id: '14485.1'
+title:
+  screen: Nirvana
+publisher: Wimsey Co.
+year: '1988'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:26:32'
+  last_modified: '2019-03-01T18:26:32'
+version: '2.0'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: nirvana.exe
+files:
+- name: nirv.d1
+  size: 13518
+  date: '1988-10-03T04:00:26'
+  crc: '0x7246dccb'
+- name: nirv.d2
+  size: 4352
+  date: '1988-10-03T04:23:40'
+  crc: '0xae14fa38'
+- name: nirv.d3
+  size: 43776
+  date: '1988-10-03T04:19:56'
+  crc: '0x49d133d8'
+- name: nirv.d4
+  size: 7228
+  date: '1988-10-03T04:24:40'
+  crc: '0x06d8562b'
+- name: nirvana.doc
+  size: 12283
+  date: '1988-10-03T04:58:34'
+  crc: '0x0ce5f0cd'
+- name: nirvana.exe
+  size: 106032
+  date: '1988-10-03T04:27:50'
+  crc: '0xfdef5d31'
+- name: nirvtech.doc
+  size: 8116
+  date: '1988-10-03T03:57:28'
+  crc: '0xff108269'

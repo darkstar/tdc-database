@@ -1,0 +1,42 @@
+filename: Crates v.140 [SW] (1991)(Summit Software) [Strategy].zip
+tdc_id: '12207.2'
+title:
+  screen: Crates
+publisher: Summit Software
+year: '1991'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:35:24'
+  last_modified: '2019-03-01T18:35:24'
+version: '.140'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: CRATESD.EXE
+references:
+  dosid: DOS06788
+  exodos: Crates (1991).zip
+files:
+- name: CRATESD.CGA
+  size: 2275
+  date: '1991-09-21T22:39:48'
+  crc: '0x9f9108b6'
+- name: CRATESD.EGA
+  size: 4422
+  date: '1991-09-24T21:16:08'
+  crc: '0x6f8f18c5'
+- name: CRATESD.EXE
+  size: 33109
+  date: '1992-06-27T04:27:06'
+  crc: '0xb26d1195'
+- name: CRATESD.LEV
+  size: 1566
+  date: '1991-09-30T08:31:16'
+  crc: '0x84d989c8'
+- name: README.1ST
+  size: 7560
+  date: '1992-06-27T04:27:06'
+  crc: '0x36ea7c1a'

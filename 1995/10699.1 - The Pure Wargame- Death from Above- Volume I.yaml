@@ -1,0 +1,37 @@
+filename: Pure Wargame, The- Death from Above- Volume I v1.0 (Installer) (1995)(Quantum Quality Productions) [Strategy][!].zip
+tdc_id: '10699.1'
+title:
+  box: 'The Pure Wargame: Death from Above: Volume I'
+publisher: Quantum Quality Productions
+year: '1995'
+genre: Strategy
+language: English
+date:
+  added: '2021-03-31T12:40:48'
+  last_modified: '2022-12-11T13:55:04'
+version: '1.0'
+type: zip
+tags:
+- KnownGood
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/pure-wargame
+files:
+- name: DDB.001
+  size: 2277885
+  date: '1995-02-08T17:00:56'
+  crc: '0x6d1dd282'
+- name: DISK.ID
+  size: 32
+  date: '1995-02-08T16:53:32'
+  crc: '0xd8b80775'
+- name: INSTALL.DAT
+  size: 14564
+  date: '1995-03-02T13:42:44'
+  crc: '0x7cdec98e'
+- name: INSTALL.EXE
+  size: 103017
+  date: '1995-02-08T16:53:32'
+  crc: '0xb6356c24'

@@ -1,0 +1,42 @@
+filename: Star Wars- TIE Fighter (demo) (Installer) (1994)(LucasArts Entertainment Company LLC) [Action, Simulation].zip
+tdc_id: '15549.3'
+title:
+  screen: 'Star Wars: TIE Fighter'
+  qualifier: demo
+publisher: LucasArts Entertainment Company LLC
+year: '1994'
+genre:
+- Action
+- Simulation
+language: English
+date:
+  added: '2019-03-02T07:17:44'
+  last_modified: '2019-03-02T07:17:44'
+type: zip
+installer: true
+demo: true
+files:
+- name: DETECT.EXE
+  size: 5400
+  date: '1993-05-12T18:30:00'
+  crc: '0xe4c8eab1'
+- name: FLIGHT.HLP
+  size: 9042
+  date: '1993-12-05T01:07:48'
+  crc: '0xc6a752b9'
+- name: INSTALL.EXE
+  size: 163180
+  date: '1993-06-28T04:10:22'
+  crc: '0x04e5aadc'
+- name: READ.ME
+  size: 11487
+  date: '1993-12-01T16:20:42'
+  crc: '0x220153e8'
+- name: TIEDEMO.001
+  size: 1264936
+  date: '1993-12-05T00:02:18'
+  crc: '0x85a9267d'
+- name: TIEDEMO.002
+  size: 456061
+  date: '1993-12-05T00:01:54'
+  crc: '0x9a8b9929'

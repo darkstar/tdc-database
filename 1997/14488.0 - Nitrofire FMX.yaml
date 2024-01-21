@@ -1,0 +1,82 @@
+filename: Nitrofire FMX v02a (1997)(Milo Sedlacek) [Action, Racing - Driving].zip
+tdc_id: '14488.0'
+title:
+  screen: Nitrofire FMX
+publisher: Milo Sedlacek
+year: '1997'
+genre:
+- Action
+- Racing - Driving
+language: English
+date:
+  added: '2019-03-02T10:36:00'
+  last_modified: '2019-03-02T10:36:00'
+version: 02a
+type: zip
+commands:
+  play: GO.BAT
+files:
+- name: ACURA.IMX
+  size: 20525
+  date: '1997-12-31T11:16:20'
+  crc: '0x49975000'
+- name: FMXENGIN.RTN
+  size: 16391
+  date: '1997-12-18T08:17:44'
+  crc: '0x82854b4c'
+- name: GO.BAT
+  size: 23
+  date: '1998-01-02T00:24:42'
+  crc: '0xecf78a6a'
+- name: KEYB2.RTN
+  size: 263
+  date: '1997-11-06T07:45:40'
+  crc: '0xe498bacf'
+- name: NFIREFMX.BAS
+  size: 33127
+  date: '1997-07-24T11:15:14'
+  crc: '0xc50928a9'
+- name: NFIREFMX.PAL
+  size: 775
+  date: '1997-12-31T08:51:10'
+  crc: '0x7283b937'
+- name: QB.BI
+  size: 2005
+  date: '2016-03-13T01:19:42'
+  crc: '0x3c41bdf3'
+- name: QB.EXE
+  size: 278804
+  date: '2016-03-13T01:19:56'
+  crc: '0xb08bc0fe'
+- name: QB.LIB
+  size: 2075
+  date: '2016-03-13T01:20:44'
+  crc: '0xaf756407'
+- name: QB.QLB
+  size: 5822
+  date: '2016-03-13T01:20:44'
+  crc: '0x5f7d93e0'
+- name: ROCKTUNE.FMP
+  size: 1151
+  date: '1998-01-02T02:11:42'
+  crc: '0x4a7b748a'
+- name: SKIDS.IMX
+  size: 391
+  date: '1998-01-02T05:54:10'
+  crc: '0x2cc72af6'
+- name: STATUS.IMX
+  size: 1901
+  date: '1997-12-31T08:49:38'
+  crc: '0xb85823ea'
+- name: TRACK1.IMX
+  size: 3213
+  date: '1997-12-31T07:45:00'
+  crc: '0xf6724860'
+- name: TRACK1.LEV
+  size: 16007
+  date: '1997-12-29T10:55:58'
+  crc: '0xa80eaa76'
+- name: TRACK1.TIL
+  size: 30727
+  date: '1997-12-29T10:02:34'
+  crc: '0x7c17cf66'

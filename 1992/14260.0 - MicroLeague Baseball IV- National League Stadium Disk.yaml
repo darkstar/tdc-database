@@ -1,0 +1,48 @@
+filename: MicroLeague Baseball IV- National League Stadium Disk (Installer) [f1] (1992)(MicroLeague Multimedia, Inc.) [Sports, Addon].zip
+tdc_id: '14260.0'
+title:
+  box: 'MicroLeague Baseball IV: National League Stadium Disk'
+publisher: MicroLeague Multimedia, Inc.
+year: '1992'
+genre:
+- Sports
+- Addon
+language: English
+date:
+  added: '2019-03-01T18:49:24'
+  last_modified: '2019-03-01T18:49:24'
+type: zip
+tags:
+- Fixed: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK.ID
+  size: 41
+  date: '1992-08-07T16:50:02'
+  crc: '0x3ada5f74'
+- name: DISK.ID2
+  size: 41
+  date: '1992-08-07T17:14:18'
+  crc: '0x389ce12d'
+- name: INSTALL.DAT
+  size: 3421
+  date: '2018-06-24T21:21:34'
+  crc: '0xebcc5d9d'
+- name: INSTALL.DA_
+  size: 3421
+  date: '1992-08-07T17:37:24'
+  crc: '0x8cfa61fd'
+- name: INSTALL.EXE
+  size: 75686
+  date: '1992-08-07T16:50:00'
+  crc: '0x183874b5'
+- name: STADIUMS.001
+  size: 268264
+  date: '1992-08-07T16:52:28'
+  crc: '0xe7483450'
+- name: STADIUMS.002
+  size: 155572
+  date: '1992-08-07T17:15:42'
+  crc: '0x2f90f2d4'

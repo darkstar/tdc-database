@@ -1,0 +1,29 @@
+filename: Trash Man v1.2 (1998)(Dan Egbert) [Action].zip
+tdc_id: '4276.0'
+title:
+  screen: Trash Man
+publisher: Dan Egbert
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:44:42'
+  last_modified: '2019-03-02T10:44:42'
+version: '1.2'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 25
+  date: '2018-11-26T18:27:50'
+  crc: '0xf8954ac2'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: TMAN2.BAS
+  size: 45439
+  date: '2018-03-10T11:55:34'
+  crc: '0x64dbf985'

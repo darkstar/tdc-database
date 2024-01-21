@@ -1,0 +1,41 @@
+filename: Dragon Lore- La Légende Commence (Installer) (En)(Fr) (1994)(Mindscape, Inc.) [Adventure].zip
+tdc_id: '9459.1'
+parent_id: '9459.3'
+title:
+  box: 'Dragon Lore: La Légende Commence'
+publisher: Mindscape, Inc.
+year: '1994'
+genre: Adventure
+language:
+- English
+- French
+date:
+  added: '2019-03-01T21:56:16'
+  last_modified: '2019-03-01T21:56:16'
+type: zip
+installer: true
+files:
+- name: DRAGON.EXE
+  size: 696
+  date: '1994-01-13T17:25:42'
+  crc: '0xacfcc3e8'
+- name: DRAGON.LBM
+  size: 118424
+  date: '1994-10-16T06:07:02'
+  crc: '0xa20d783c'
+- name: DRAGON1
+  size: 649440432
+  date: '1994-11-04T23:43:36'
+  crc: '0x897d87a9'
+- name: DRAGON2
+  size: 579606592
+  date: '1994-11-05T01:26:50'
+  crc: '0x2b561d91'
+- name: INSTALL.EXE
+  size: 91192
+  date: '1994-11-03T10:02:00'
+  crc: '0xbf19c4e7'
+- name: TALES.EXE
+  size: 192384
+  date: '1994-11-05T02:07:02'
+  crc: '0x774026ed'

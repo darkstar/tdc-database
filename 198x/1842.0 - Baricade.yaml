@@ -1,0 +1,28 @@
+filename: Baricade (198x)(Yosef Gold) [Action].zip
+tdc_id: '1842.0'
+title:
+  screen: Baricade
+publisher: Yosef Gold
+year: 198x
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:29:24'
+  last_modified: '2019-03-01T18:29:24'
+type: zip
+media: Download
+commands:
+  play: PLAY.BAT
+files:
+- name: BARICADE.BAS
+  size: 2816
+  date: '1980-01-01T00:01:58'
+  crc: '0xe50bfb74'
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1991-01-31T13:17:34'
+  crc: '0x2a44af39'
+- name: PLAY.BAT
+  size: 21
+  date: '2016-08-16T21:42:08'
+  crc: '0xaf2db316'

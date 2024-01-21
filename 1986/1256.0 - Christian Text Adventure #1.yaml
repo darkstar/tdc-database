@@ -1,0 +1,48 @@
+filename: 'Christian Text Adventure #1 [FW] (1986)(HomeBase Software) [Adventure, Interactive Fiction].zip'
+tdc_id: '1256.0'
+title:
+  screen: 'Christian Text Adventure #1'
+publisher: HomeBase Software
+year: '1986'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:24:44'
+  last_modified: '2019-03-01T18:24:44'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: ADVENT.COM
+files:
+- name: ADVENT.000
+  size: 14592
+  date: '1986-01-17T19:16:18'
+  crc: '0x0a783041'
+- name: ADVENT.001
+  size: 10752
+  date: '1986-01-17T19:17:30'
+  crc: '0x6284eaec'
+- name: ADVENT.002
+  size: 20736
+  date: '1986-01-17T19:19:12'
+  crc: '0x3cc4fd20'
+- name: ADVENT.COM
+  size: 29207
+  date: '1986-01-17T19:19:32'
+  crc: '0x628c433e'
+- name: CTA-1.DAT
+  size: 28301
+  date: '1986-08-20T19:02:30'
+  crc: '0x5f33df19'
+- name: CTA-1.DOC
+  size: 2493
+  date: '1986-08-24T17:43:30'
+  crc: '0x368dfa99'
+- name: CTA-1.TTL
+  size: 324
+  date: '1986-08-24T17:42:14'
+  crc: '0x1a3b34a8'

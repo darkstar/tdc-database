@@ -1,0 +1,53 @@
+filename: PEBWB (demo) (2000)(Corky) [Action].zip
+tdc_id: '4613.0'
+title:
+  screen: PEBWB
+  qualifier: demo
+publisher: Corky
+year: '2000'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:54:58'
+  last_modified: '2019-03-02T10:54:58'
+type: zip
+demo: true
+commands:
+  play: PEBWB.EXE
+files:
+- name: FUTURE.BI
+  size: 8314
+  date: '2000-05-31T23:35:34'
+  crc: '0x3eff5cf8'
+- name: PEBWB.EXE
+  size: 74384
+  date: '2000-10-07T21:17:28'
+  crc: '0x6f3980a1'
+- name: ball.bmp
+  size: 1090
+  date: '2000-10-01T18:54:22'
+  crc: '0x928eba28'
+- name: block.bmp
+  size: 6190
+  date: '2000-09-06T15:43:58'
+  crc: '0xa7a6e3b3'
+- name: lv1.txt
+  size: 413
+  date: '2000-09-07T14:55:52'
+  crc: '0x630639b3'
+- name: readme.txt
+  size: 292
+  date: '2000-10-07T21:25:04'
+  crc: '0x02f62805'
+- name: scorebar.bmp
+  size: 4278
+  date: '2000-09-06T15:56:02'
+  crc: '0xdb778638'
+- name: titbalk.bmp
+  size: 2678
+  date: '2000-09-06T15:59:08'
+  crc: '0x13d68fd1'
+- name: underbar.bmp
+  size: 1978
+  date: '2000-09-06T15:48:46'
+  crc: '0xaab58a3e'

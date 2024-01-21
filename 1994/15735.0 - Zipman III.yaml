@@ -1,0 +1,30 @@
+filename: Zipman III v1.2 [SW] (1994)(Zipteam) [Action].zip
+tdc_id: '15735.0'
+title:
+  screen: Zipman III
+publisher: Zipteam
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T07:20:12'
+  last_modified: '2019-03-02T07:20:12'
+version: '1.2'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: ZM3.EXE
+references:
+  dosid: DOS05804
+  exodos: Zipman III (1994).zip
+files:
+- name: ZM3.EXE
+  size: 120262
+  date: '1994-11-21T05:16:56'
+  crc: '0x3622378d'
+- name: ZM3.TXT
+  size: 964
+  date: '1994-12-21T03:35:24'
+  crc: '0x44d8b4a1'

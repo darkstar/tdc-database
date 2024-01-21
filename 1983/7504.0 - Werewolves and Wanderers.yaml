@@ -1,0 +1,32 @@
+filename: Werewolves and Wanderers (1983)(Tim Hartnell) [Adventure, Interactive Fiction].zip
+tdc_id: '7504.0'
+title:
+  screen: Werewolves and Wanderers
+publisher: Tim Hartnell
+year: '1983'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:23:22'
+  last_modified: '2019-03-01T18:23:22'
+type: zip
+commands:
+  play: WEREWAND.BAT
+references:
+  dosid: DOS15920
+  exodos: Werewolves and Wanderers (1983).zip
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: WEREWAND.BAS
+  size: 15042
+  date: '1980-01-01T00:00:00'
+  crc: '0x258a8e6d'
+- name: WEREWAND.BAT
+  size: 19
+  date: '1980-01-01T00:00:00'
+  crc: '0xc60f8f71'

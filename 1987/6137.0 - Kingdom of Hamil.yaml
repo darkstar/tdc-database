@@ -1,0 +1,32 @@
+filename: Kingdom of Hamil (1987)(Topologika Software Ltd.) [Adventure, Interactive Fiction].zip
+tdc_id: '6137.0'
+title:
+  box: Kingdom of Hamil
+publisher: Topologika Software Ltd.
+year: '1987'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:25:24'
+  last_modified: '2019-03-01T18:25:24'
+type: zip
+commands:
+  play: HAMIL.COM
+references:
+  dosid: DOS05657
+  exodos: Kingdom of Hamil (1987).zip
+files:
+- name: HAMIL.COM
+  size: 10240
+  date: '1987-09-01T19:06:02'
+  crc: '0xe6367c8e'
+- name: HAMIL.DAT
+  size: 47104
+  date: '1987-08-18T21:13:00'
+  crc: '0xa554e1ba'
+- name: HAMIL.DYN
+  size: 2048
+  date: '1987-08-18T21:13:00'
+  crc: '0xef7eea48'

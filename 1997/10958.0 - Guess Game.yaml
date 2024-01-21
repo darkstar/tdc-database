@@ -1,0 +1,31 @@
+filename: Guess Game (1997)(Daniel Eriksson) [Strategy].zip
+tdc_id: '10958.0'
+title:
+  screen: Guess Game
+publisher: Daniel Eriksson
+year: '1997'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:34:10'
+  last_modified: '2019-03-02T10:34:10'
+type: zip
+commands:
+  play: GUESS1.EXE
+files:
+- name: GUESS1.BAS
+  size: 13672
+  date: '1980-01-02T22:12:12'
+  crc: '0x792d5f1f'
+- name: GUESS1.EXE
+  size: 70828
+  date: '1997-01-20T14:11:38'
+  crc: '0xb0fa757e'
+- name: GUESS1.OBJ
+  size: 25614
+  date: '1997-01-20T14:11:38'
+  crc: '0x6f8e4d22'
+- name: README.TXT
+  size: 405
+  date: '1997-01-20T14:20:08'
+  crc: '0x8fcb943b'

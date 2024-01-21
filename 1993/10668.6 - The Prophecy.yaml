@@ -1,0 +1,59 @@
+filename: Prophecy, The r930312 (1993)(Sierra On-Line, Inc.) [Adventure].zip
+tdc_id: '10668.6'
+parent_id: '10668.3'
+title:
+  box: The Prophecy
+publisher: Sierra On-Line, Inc.
+year: '1993'
+genre: Adventure
+language: English
+date:
+  added: '2023-11-21T07:15:34'
+  last_modified: '2023-11-21T07:22:25'
+release: '930312'
+type: zip
+media:
+- 1.44M
+- Download
+commands:
+  play: GO.BAT
+  setup: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/6218/the-prophecy/
+files:
+- name: ALL.ASK
+  size: 12952
+  date: '1993-03-03T10:35:14'
+  crc: '0x73d7f23a'
+- name: GO.BAT
+  size: 7
+  date: '1993-03-03T11:28:54'
+  crc: '0x96b9910c'
+- name: INTRO.STK
+  size: 7117568
+  date: '1993-02-09T07:36:46'
+  crc: '0x7d0024cb'
+- name: L360.GDR
+  size: 3524
+  date: '1993-02-01T09:57:36'
+  crc: '0x2f584902'
+- name: LEGA.GDR
+  size: 14299
+  date: '1993-02-01T09:57:34'
+  crc: '0xf97edb7f'
+- name: LOADER.EXE
+  size: 90374
+  date: '1993-03-03T11:56:22'
+  crc: '0xded2300b'
+- name: LVGA.GDR
+  size: 4844
+  date: '1993-02-01T09:57:36'
+  crc: '0x36f1f893'
+- name: MDO.DEF
+  size: 131
+  date: '1993-03-03T11:14:16'
+  crc: '0x77ab1def'
+- name: SETUP.EXE
+  size: 24962
+  date: '1993-02-09T14:49:48'
+  crc: '0xc963f444'

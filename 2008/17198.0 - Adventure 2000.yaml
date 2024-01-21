@@ -1,0 +1,30 @@
+filename: Adventure 2000 (2008)(Anonymous) [Adventure, Interactive Fiction].zip
+tdc_id: '17198.0'
+title:
+  screen: Adventure 2000
+publisher: Anonymous
+year: '2008'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2023-01-19T10:28:00'
+  last_modified: '2023-01-19T10:28:00'
+type: zip
+media: Download
+commands:
+  play: alien.bat
+files:
+- name: alien.bas
+  size: 61243
+  date: '2008-05-20T13:31:44'
+  crc: '0x3dc1e4d2'
+- name: alien.bat
+  size: 32
+  date: '2023-01-17T22:19:18'
+  crc: '0x36ae6cb4'
+- name: gwbasic.exe
+  size: 80608
+  date: '1989-04-06T23:00:02'
+  crc: '0x2a44af39'

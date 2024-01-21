@@ -1,0 +1,112 @@
+filename: Bumpy (1989)(Loriciels) [Action, Strategy].zip
+tdc_id: '8895.0'
+title:
+  box: Bumpy
+publisher: Loriciels
+year: '1989'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2020-06-07T11:32:46'
+  last_modified: '2020-06-07T11:32:46'
+type: zip
+commands:
+  play: BUMPY.EXE
+references:
+  dosid: DOS01205
+  exodos: Bumpy (1989).zip
+files:
+- name: ACCEUIL.CPL
+  size: 5906
+  date: '1989-07-20T23:29:00'
+  crc: '0x22a74251'
+- name: BLOC1.SPL
+  size: 61480
+  date: '1989-07-21T00:21:00'
+  crc: '0x8f83673f'
+- name: BLOC2.SPL
+  size: 61480
+  date: '1989-07-21T00:21:00'
+  crc: '0x0a06c805'
+- name: BLOC3.SPL
+  size: 61480
+  date: '1989-07-21T00:21:00'
+  crc: '0xdfd73b5e'
+- name: BLOC4.SPL
+  size: 15370
+  date: '1989-07-21T00:21:00'
+  crc: '0x3f49e2fa'
+- name: BUMPY.BUM
+  size: 1424
+  date: '1989-05-29T14:46:04'
+  crc: '0x01d85ae0'
+- name: BUMPY.EXE
+  size: 62929
+  date: '2010-10-08T19:10:26'
+  crc: '0x5780e802'
+- name: CGA.BGI
+  size: 6253
+  date: '1988-11-15T02:00:00'
+  crc: '0x17cbdd92'
+- name: DESMURS.BUM
+  size: 1600
+  date: '1989-07-04T13:18:02'
+  crc: '0x2a32bed9'
+- name: DEUXACC.BUM
+  size: 507
+  date: '1989-05-16T15:02:26'
+  crc: '0xd57f47ed'
+- name: DEUXACCB.BUM
+  size: 507
+  date: '1989-05-16T15:39:52'
+  crc: '0xe83a6973'
+- name: EDIT.CPL
+  size: 4079
+  date: '1989-07-20T23:31:00'
+  crc: '0xd51afd02'
+- name: EDITACC.BUM
+  size: 682
+  date: '1989-05-16T15:02:30'
+  crc: '0x7b0b5914'
+- name: FOND.BUM
+  size: 10730
+  date: '1989-05-19T08:26:48'
+  crc: '0xf8e9a499'
+- name: JEUX.CPL
+  size: 4058
+  date: '1989-07-20T23:26:00'
+  crc: '0xd1746c42'
+- name: JEUXACC.BUM
+  size: 784
+  date: '1989-05-16T15:02:34'
+  crc: '0x39426a96'
+- name: JOUETABL.BUM
+  size: 19000
+  date: '1980-01-01T01:06:26'
+  crc: '0x567cca85'
+- name: LORITABL.BUM
+  size: 18900
+  date: '1989-07-07T16:58:16'
+  crc: '0x99c34ba2'
+- name: REPERES.BUM
+  size: 56
+  date: '1989-03-11T19:26:34'
+  crc: '0x886f0c7d'
+- name: RESETACC.BUM
+  size: 507
+  date: '1989-05-16T15:02:36'
+  crc: '0x38103997'
+- name: SPRITES.CPL
+  size: 5908
+  date: '1989-07-20T23:37:00'
+  crc: '0x25854b0d'
+- name: UNACC.BUM
+  size: 735
+  date: '1989-05-16T15:02:22'
+  crc: '0x9a5a5400'
+- name: UNACCB.BUM
+  size: 735
+  date: '1989-05-16T15:39:48'
+  crc: '0x447d7bd8'

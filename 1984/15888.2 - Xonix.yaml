@@ -1,0 +1,37 @@
+filename: Xonix [h1] (1984)(Ilan Rav) [Action].zip
+tdc_id: '15888.2'
+title:
+  screen: Xonix
+publisher: Ilan Rav
+year: '1984'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:20'
+  last_modified: '2019-03-01T18:24:20'
+type: zip
+tags:
+- Hack: 1
+commands:
+  play: LOKUP.EXE
+files:
+- name: BASRUN.EXE
+  size: 31744
+  date: '1982-05-07T12:00:04'
+  crc: '0x86bdc5f3'
+- name: HISCORES.LOK
+  size: 153
+  date: '1985-11-20T11:47:22'
+  crc: '0x3106640f'
+- name: LOKUP.BIN
+  size: 4104
+  date: '1984-02-22T15:11:22'
+  crc: '0x01370907'
+- name: LOKUP.DOC
+  size: 182
+  date: '1986-03-19T22:35:26'
+  crc: '0x00fe1457'
+- name: LOKUP.EXE
+  size: 8576
+  date: '1984-03-25T13:07:38'
+  crc: '0x2dd60b35'

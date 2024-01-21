@@ -1,0 +1,62 @@
+filename: Mario's Game Gallery (Installer) [f1] (1995)(Interplay Entertainment Corp.) [Strategy].zip
+tdc_id: '11148.1'
+title:
+  box: Mario's Game Gallery
+publisher: Interplay Entertainment Corp.
+year: '1995'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T08:57:08'
+  last_modified: '2019-03-02T08:57:08'
+type: zip
+tags:
+- Fixed: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK.ID
+  size: 40
+  date: '1995-01-27T18:47:18'
+  crc: '0x0e4675c3'
+- name: DISK2.ID
+  size: 40
+  date: '1995-01-27T18:47:18'
+  crc: '0x0c00cb9a'
+- name: DISK3.ID
+  size: 40
+  date: '1995-02-04T12:59:38'
+  crc: '0x0dc2a1ad'
+- name: INSTALL.DAT
+  size: 2039
+  date: '2018-06-21T21:01:02'
+  crc: '0x4b29a5d9'
+- name: INSTALL.DA_
+  size: 2039
+  date: '1995-02-23T18:27:50'
+  crc: '0xbf42d57f'
+- name: INSTALL.EXE
+  size: 102983
+  date: '1993-09-20T03:22:00'
+  crc: '0x9f8e597a'
+- name: MARIO.RED
+  size: 287369
+  date: '1995-02-23T18:27:10'
+  crc: '0x83d3f0af'
+- name: MARIOPRS.001
+  size: 1062912
+  date: '1995-02-23T17:12:10'
+  crc: '0x20e26164'
+- name: MARIOPRS.002
+  size: 1457152
+  date: '1995-02-23T17:19:22'
+  crc: '0xb6fd64bd'
+- name: MARIOPRS.003
+  size: 1295096
+  date: '1995-02-23T17:25:44'
+  crc: '0xd9444373'
+- name: README.TXT
+  size: 731
+  date: '1995-02-22T10:07:24'
+  crc: '0x0a684b72'

@@ -1,0 +1,29 @@
+filename: Championship Othello (1986)(Frank LaRosa) [Strategy, Board].zip
+tdc_id: '1252.0'
+title:
+  screen: Championship Othello
+publisher: Frank LaRosa
+year: '1986'
+genre:
+- Strategy
+- Board
+language: English
+date:
+  added: '2019-03-01T18:24:44'
+  last_modified: '2019-03-01T18:24:44'
+type: zip
+commands:
+  play: OTHPC.EXE
+files:
+- name: N.OTH
+  size: 256
+  date: '1990-04-04T23:22:40'
+  crc: '0x80f640cb'
+- name: OTHPC.DOC
+  size: 4801
+  date: '1986-07-19T00:13:20'
+  crc: '0x75823000'
+- name: OTHPC.EXE
+  size: 35926
+  date: '1986-04-28T01:16:28'
+  crc: '0xf31a2f74'

@@ -1,0 +1,165 @@
+filename: Amazing Spider-Man, The (1990)(Paragon Software Corporation, MicroProse Software, Inc.) [Action][!].zip
+tdc_id: '8314.0'
+parent_id: '8314.3'
+title:
+  box: The Amazing Spider-Man
+publisher: Paragon Software Corporation, MicroProse Software, Inc.
+year: '1990'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:31:46'
+  last_modified: '2024-01-08T10:32:27'
+type: zip
+tags:
+- KnownGood
+media: 360K
+commands:
+  play: SPIDEY.EXE
+references:
+  mobygames: https://www.mobygames.com/game/471/the-amazing-spider-man/
+files:
+- name: BACKS.SPL
+  size: 11155
+  date: '1990-10-02T11:43:12'
+  crc: '0x48483888'
+- name: BLOCKS.CGA
+  size: 8192
+  date: '1990-10-15T12:42:34'
+  crc: '0x0f135656'
+- name: BLOCKS.EGA
+  size: 16384
+  date: '1990-10-02T18:35:04'
+  crc: '0xc386c044'
+- name: CHARSET.CGA
+  size: 2048
+  date: '1990-10-12T13:24:14'
+  crc: '0xe3bd4289'
+- name: CHARSET.EGA
+  size: 4096
+  date: '1990-10-05T17:05:38'
+  crc: '0x352f744e'
+- name: HISCORE.CGA
+  size: 3040
+  date: '1990-10-15T13:13:02'
+  crc: '0x9cb5f3c4'
+- name: HISCORE.EGA
+  size: 6080
+  date: '1990-10-15T13:02:06'
+  crc: '0x47f8380b'
+- name: LOADSCRN.CGA
+  size: 16000
+  date: '1990-10-12T11:26:42'
+  crc: '0xd05e15df'
+- name: LOADSCRN.EGA
+  size: 32000
+  date: '1990-10-10T14:47:44'
+  crc: '0x1979aafd'
+- name: MASKS1.CGA
+  size: 8192
+  date: '1990-10-13T20:36:06'
+  crc: '0x82bbd512'
+- name: MASKS2.CGA
+  size: 8192
+  date: '1990-10-13T20:35:52'
+  crc: '0x9ef79e75'
+- name: MOVERTAB.DAT
+  size: 768
+  date: '1990-10-02T11:43:12'
+  crc: '0xb4fef372'
+- name: PAGE1.CGA
+  size: 16000
+  date: '1990-10-26T16:36:50'
+  crc: '0xa00ad97b'
+- name: PAGE1.EGA
+  size: 32000
+  date: '1990-10-26T16:30:42'
+  crc: '0x0bf5fd2d'
+- name: PAGE2.CGA
+  size: 16000
+  date: '1990-10-26T16:37:00'
+  crc: '0xdeedd625'
+- name: PAGE2.EGA
+  size: 32000
+  date: '1990-10-26T16:30:58'
+  crc: '0x1e07d4ef'
+- name: PAGE3.CGA
+  size: 16000
+  date: '1990-10-26T16:37:12'
+  crc: '0x8a7ff102'
+- name: PAGE3.EGA
+  size: 32000
+  date: '1990-10-26T16:31:36'
+  crc: '0x37719ad4'
+- name: PAGE4.CGA
+  size: 16000
+  date: '1990-10-26T16:37:26'
+  crc: '0x17cfa9e8'
+- name: PAGE4.EGA
+  size: 32000
+  date: '1990-10-26T16:31:56'
+  crc: '0x42559c96'
+- name: READ.ME
+  size: 645
+  date: '1990-10-27T20:14:14'
+  crc: '0xe7adbb03'
+- name: ROOMS.SPL
+  size: 12124
+  date: '1990-10-04T02:49:10'
+  crc: '0xd5a78422'
+- name: SCENERY.CGA
+  size: 4096
+  date: '1990-10-15T12:44:42'
+  crc: '0x3229ae5b'
+- name: SCENERY.EGA
+  size: 8192
+  date: '1990-10-02T09:35:24'
+  crc: '0x3d489658'
+- name: SKELFIGR.CGA
+  size: 3072
+  date: '1990-10-12T11:28:52'
+  crc: '0x8770f89a'
+- name: SKELFIGR.EGA
+  size: 6144
+  date: '1980-01-01T02:01:52'
+  crc: '0xe053397a'
+- name: SPIDEY.EXE
+  size: 40511
+  date: '1990-10-27T20:12:46'
+  crc: '0x0171f503'
+- name: SPIDEY.EX_
+  size: 40511
+  date: '1990-10-27T20:12:46'
+  crc: '0xf675c29e'
+- name: SPIDFIGR.CGA
+  size: 3072
+  date: '1990-10-12T11:29:04'
+  crc: '0x4838b8a3'
+- name: SPIDFIGR.EGA
+  size: 6144
+  date: '1980-01-01T02:01:14'
+  crc: '0x79fef78e'
+- name: SPIDS1.CGA
+  size: 8192
+  date: '1990-10-13T20:34:42'
+  crc: '0x70ee46fb'
+- name: SPIDS1.EGA
+  size: 16384
+  date: '1990-10-03T13:50:02'
+  crc: '0x89ce6fc9'
+- name: SPIDS2.CGA
+  size: 8192
+  date: '1990-10-13T20:35:38'
+  crc: '0xdd35dd17'
+- name: SPIDS2.EGA
+  size: 16384
+  date: '1990-10-03T13:50:24'
+  crc: '0xe5ff7498'
+- name: WINSCRN.CGA
+  size: 16000
+  date: '1990-10-26T16:37:48'
+  crc: '0xddb69c47'
+- name: WINSCRN.EGA
+  size: 32000
+  date: '1990-10-26T16:32:30'
+  crc: '0x52b23628'

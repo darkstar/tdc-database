@@ -1,0 +1,76 @@
+filename: Jurassic Park v1.30 (Installer) (En)(De)(Fr)(It)(Es) (1993)(Ocean of America, Inc.) [Action].zip
+tdc_id: '11672.5'
+title:
+  box: Jurassic Park
+publisher: Ocean of America, Inc.
+year: '1993'
+genre: Action
+language:
+- English
+- Spanish
+- French
+- Italian
+- German
+date:
+  added: '2019-03-01T19:10:48'
+  last_modified: '2022-11-21T15:57:33'
+version: '1.30'
+type: zip
+installer: true
+commands:
+  play: install.com
+references:
+  mobygames: https://www.mobygames.com/game/dos/jurassic-park
+files:
+- name: crack.com
+  size: 497
+  date: '1996-12-24T23:32:00'
+  crc: '0x1e0b1b5e'
+- name: inst.exe
+  size: 30765
+  date: '1996-12-24T23:32:00'
+  crc: '0xa97e2c43'
+- name: install.com
+  size: 182
+  date: '1996-12-24T23:32:00'
+  crc: '0xf33bcbe9'
+- name: install.dat
+  size: 30765
+  date: '1996-12-24T23:32:00'
+  crc: '0xa97e2c43'
+- name: install.exe
+  size: 30486
+  date: '1996-12-24T23:32:00'
+  crc: '0xc366a149'
+- name: jp_1.rnc
+  size: 1425000
+  date: '1996-12-24T23:32:00'
+  crc: '0x93ca0729'
+- name: jp_2.rnc
+  size: 1457664
+  date: '1996-12-24T23:32:00'
+  crc: '0x45b2836f'
+- name: jp_3.rnc
+  size: 1457664
+  date: '1996-12-24T23:32:00'
+  crc: '0x018ebf2b'
+- name: jp_4.rnc
+  size: 1457664
+  date: '1996-12-24T23:32:00'
+  crc: '0x85de740f'
+- name: jp_5.rnc
+  size: 1457664
+  date: '1996-12-24T23:32:00'
+  crc: '0x74669a7a'
+- name: jp_6.rnc
+  size: 1249609
+  date: '1996-12-24T23:32:00'
+  crc: '0x6d44030b'
+- name: jurpass.txt
+  size: 1048
+  date: '1996-12-24T23:32:00'
+  crc: '0x71457240'
+- name: jurpswrd.txt
+  size: 2788
+  date: '1996-12-24T23:32:00'
+  crc: '0x5288f716'

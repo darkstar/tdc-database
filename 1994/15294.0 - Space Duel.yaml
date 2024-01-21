@@ -1,0 +1,52 @@
+filename: Space Duel (1994)(Jonathan Hopkinson) [Action].zip
+tdc_id: '15294.0'
+title:
+  screen: Space Duel
+publisher: Jonathan Hopkinson
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T07:16:30'
+  last_modified: '2019-03-02T07:16:30'
+type: zip
+media: Download
+commands:
+  play: start.bat
+files:
+- name: QBASIC.EXE
+  size: 194309
+  date: '1995-07-11T10:50:00'
+  crc: '0x3152911c'
+- name: README.TXT
+  size: 203
+  date: '1996-01-27T01:35:32'
+  crc: '0x33313542'
+- name: SPACDUEL.BAS
+  size: 29405
+  date: '2014-03-20T15:39:24'
+  crc: '0x1ec3a5bb'
+- name: SPACDUEL.DAT
+  size: 847
+  date: '1997-06-05T02:22:36'
+  crc: '0x7b49fc8d'
+- name: SPACDUEL.GRP
+  size: 3627
+  date: '1994-01-01T02:24:34'
+  crc: '0x5d005c21'
+- name: SPACDUEL.HIG
+  size: 350
+  date: '1997-03-04T13:29:52'
+  crc: '0x3640dde2'
+- name: SPACDUEL.SHP
+  size: 464
+  date: '1994-01-01T02:24:34'
+  crc: '0xc6abf83b'
+- name: SPACDUL.GRP
+  size: 2147
+  date: '1994-01-01T02:24:34'
+  crc: '0x55dbae73'
+- name: start.bat
+  size: 26
+  date: '2014-03-20T15:34:00'
+  crc: '0xe3889c92'

@@ -1,0 +1,83 @@
+filename: Moraff's Super Blast III v3.0 (1993)(Moraffware) [Action].zip
+tdc_id: '14355.0'
+title:
+  screen: Moraff's Super Blast III
+publisher: Moraffware
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T19:15:14'
+  last_modified: '2019-03-01T19:15:14'
+version: '3.0'
+type: zip
+commands:
+  play: SUPBLAST.EXE
+references:
+  dosid: DOS16067
+  exodos: Moraff's Super Blast (1992).zip
+files:
+- name: 1.BIN
+  size: 30400
+  date: '1990-12-13T01:37:58'
+  crc: '0xa6c5e8bf'
+- name: 2.BIN
+  size: 12768
+  date: '1990-12-13T02:12:12'
+  crc: '0x7302caf9'
+- name: 4.BIN
+  size: 10032
+  date: '1990-12-13T02:12:12'
+  crc: '0x2cc2709f'
+- name: 5.BIN
+  size: 10032
+  date: '1990-12-13T02:12:14'
+  crc: '0xaf8d60ad'
+- name: 8.BIN
+  size: 5168
+  date: '1990-12-13T02:12:14'
+  crc: '0xb66bebe3'
+- name: 9.BIN
+  size: 5168
+  date: '1990-12-13T02:12:14'
+  crc: '0xa6e34dee'
+- name: B1.BIN
+  size: 3040
+  date: '1990-07-02T22:28:58'
+  crc: '0xa34015fd'
+- name: B2.BIN
+  size: 6080
+  date: '1990-07-02T22:28:58'
+  crc: '0x5b2b0308'
+- name: B3.BIN
+  size: 15200
+  date: '1990-07-02T22:29:00'
+  crc: '0x9d8a639f'
+- name: B4.BIN
+  size: 6080
+  date: '1990-07-02T22:29:00'
+  crc: '0x6fed18c5'
+- name: B5.BIN
+  size: 6080
+  date: '1990-07-02T22:29:02'
+  crc: '0x103a1002'
+- name: B6.BIN
+  size: 6080
+  date: '1990-07-02T22:29:02'
+  crc: '0x7cb6928c'
+- name: FILE.BIN
+  size: 4320
+  date: '1999-06-29T13:34:10'
+  crc: '0x91c2da9b'
+- name: README.BAT
+  size: 689
+  date: '1993-04-30T13:21:08'
+  crc: '0x4c6ad177'
+- name: SUPBLAST.EXE
+  size: 69837
+  date: '1993-05-04T05:48:12'
+  crc: '0x7c92878c'
+- name: V
+  size: 1107
+  date: '1992-08-18T11:48:18'
+  crc: '0xf7bbd357'

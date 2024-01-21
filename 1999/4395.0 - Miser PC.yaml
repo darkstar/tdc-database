@@ -1,0 +1,29 @@
+filename: Miser PC (1999)(Rene van Hasselaar, Mary Jean Winter) [Adventure, Interactive Fiction].zip
+tdc_id: '4395.0'
+title:
+  screen: Miser PC
+publisher: Rene van Hasselaar, Mary Jean Winter
+year: '1999'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T10:46:16'
+  last_modified: '2019-03-02T10:46:16'
+type: zip
+commands:
+  play: MISER-PC.EXE
+files:
+- name: MISER-PC.BAS
+  size: 18632
+  date: '1999-11-10T13:35:58'
+  crc: '0x8a80773d'
+- name: MISER-PC.EXE
+  size: 53590
+  date: '1999-11-10T12:52:00'
+  crc: '0x123e8136'
+- name: README.TXT
+  size: 778
+  date: '1999-11-10T13:45:00'
+  crc: '0x2daec7d3'

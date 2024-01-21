@@ -1,0 +1,64 @@
+filename: Powerboat USA- Offshore Superboat Racing [h1] (1990)(Accolade, Inc.) [Action, Simulation, Racing - Driving].zip
+tdc_id: '9561.0'
+parent_id: '9561.1'
+title:
+  box: 'Powerboat USA: Offshore Superboat Racing'
+  screen: Power Boat
+publisher: Accolade, Inc.
+year: '1990'
+genre:
+- Action
+- Simulation
+- Racing - Driving
+language: English
+date:
+  added: '2019-03-01T18:33:38'
+  last_modified: '2023-04-26T10:29:34'
+type: zip
+tags:
+- Hack: 1
+commands:
+  play: PBOAT.EXE
+references:
+  mobygames: https://www.mobygames.com/game/54190/heat-wave-offshore-superboat-racing/
+files:
+- name: BESTSCOR.DAT
+  size: 250
+  date: '1990-03-14T14:38:06'
+  crc: '0x0b9a04c3'
+- name: COURSE.DAT
+  size: 410
+  date: '1990-03-14T14:38:04'
+  crc: '0x2e85da42'
+- name: DRIVERS.DAT
+  size: 832
+  date: '1990-03-14T14:38:02'
+  crc: '0x08176c92'
+- name: HIGHSCOR.DAT
+  size: 250
+  date: '1990-03-14T14:38:04'
+  crc: '0x0b9a04c3'
+- name: OPPON.DAT
+  size: 208
+  date: '1990-03-14T14:38:04'
+  crc: '0x42c81289'
+- name: PBOAT.EXE
+  size: 44495
+  date: '1990-03-14T14:05:26'
+  crc: '0xec152f02'
+- name: POWERB.EXE
+  size: 79381
+  date: '1990-03-14T14:38:00'
+  crc: '0x17962964'
+- name: POWERB.EX_
+  size: 79381
+  date: '1990-03-14T14:38:00'
+  crc: '0x4ffa4316'
+- name: SPBOAT.DAT
+  size: 186769
+  date: '1990-03-14T14:36:12'
+  crc: '0x2f4c0cdf'
+- name: SPBOAT2.DAT
+  size: 313136
+  date: '1990-03-14T14:34:46'
+  crc: '0x21bda13d'

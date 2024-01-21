@@ -1,0 +1,33 @@
+filename: Adventure II restored (2001)(Mike Arnautov) [Adventure, Interactive Fiction].zip
+tdc_id: '8115.0'
+title:
+  screen: Adventure II restored
+publisher: Mike Arnautov
+year: '2001'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2020-10-22T10:12:12'
+  last_modified: '2020-10-22T10:12:12'
+type: zip
+commands:
+  play: advII.exe
+files:
+- name: CWSDPMI.EXE
+  size: 25916
+  date: '2016-10-15T08:57:30'
+  crc: '0x8760f94d'
+- name: README.txt
+  size: 2008
+  date: '2001-09-30T17:28:18'
+  crc: '0x6a06e614'
+- name: advII.dat
+  size: 107205
+  date: '2001-10-06T18:24:18'
+  crc: '0x4055ae70'
+- name: advII.exe
+  size: 167424
+  date: '2001-12-30T23:24:44'
+  crc: '0x73404413'

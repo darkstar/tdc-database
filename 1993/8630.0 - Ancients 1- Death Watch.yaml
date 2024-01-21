@@ -1,0 +1,38 @@
+filename: Ancients 1- Death Watch (Installer) [SWR] (1993)(Epic MegaGames, Inc.) [Role-Playing (RPG)].zip
+tdc_id: '8630.0'
+title:
+  screen: 'Ancients 1: Death Watch'
+publisher: Epic MegaGames, Inc.
+year: '1993'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:58:24'
+  last_modified: '2019-03-01T18:58:24'
+type: zip
+tags:
+- SharewareRegistered
+installer: true
+commands:
+  play: INSTALL.BAT
+files:
+- name: ANC1.DAT
+  size: 1439406
+  date: '1993-10-08T22:14:16'
+  crc: '0xeaae8279'
+- name: ANC2.DAT
+  size: 1439428
+  date: '1993-10-08T22:15:16'
+  crc: '0x16d83e77'
+- name: ANC3.DAT
+  size: 895846
+  date: '1993-10-08T22:16:12'
+  crc: '0xcf340618'
+- name: INSTALL.BAT
+  size: 633
+  date: '1993-10-11T00:17:50'
+  crc: '0xca250bb7'
+- name: UNPACK.EXE
+  size: 114730
+  date: '1993-03-06T21:37:54'
+  crc: '0x7e4a3c14'

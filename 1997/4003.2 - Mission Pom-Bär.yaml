@@ -1,0 +1,36 @@
+filename: Mission Pom-Bär v1.4.1-CD (De)(En)(Fr)(Cs)(Pl)(Nl)(Sl)(Sk)(Hu) (1997)(Wolf Snack & Gebäck GmbH) [bin-cue].zip
+tdc_id: '4003.2'
+title:
+  box: Mission Pom-Bär
+publisher: Wolf Snack & Gebäck GmbH
+year: '1997'
+genre: bin-cue
+language:
+- English
+- French
+- German
+- Polish
+- Czech
+- Dutch
+- Hungarian
+- Slovenian
+- Slovakian
+date:
+  added: '2023-02-23T11:37:51'
+  last_modified: '2023-02-23T11:37:51'
+version: 1.4.1-CD
+type: bin-cue
+media: CD-ROM
+audio:
+- CD-DA
+references:
+  mobygames: https://www.mobygames.com/game/dos/mission-pom-br-the-snackn-run-game
+files:
+- name: POMBAER.bin
+  size: 445193616
+  date: '2010-05-08T18:42:30'
+  crc: '0x4aedb58c'
+- name: POMBAER.cue
+  size: 647
+  date: '2010-05-26T11:32:32'
+  crc: '0xe5d921a9'

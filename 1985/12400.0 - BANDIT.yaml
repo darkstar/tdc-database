@@ -1,0 +1,31 @@
+filename: BANDIT (1985)(Anonymous) [Simulation].zip
+tdc_id: '12400.0'
+title:
+  screen: BANDIT
+publisher: Anonymous
+year: '1985'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:24:22'
+  last_modified: '2019-03-01T18:24:22'
+type: zip
+media: Download
+commands:
+  play: BANDIT.EXE
+references:
+  dosid: DOS00327
+  exodos: Bandit (1986).zip
+files:
+- name: BANDIT.DAT
+  size: 9472
+  date: '1985-08-18T00:54:36'
+  crc: '0x0da771b9'
+- name: BANDIT.EXE
+  size: 23936
+  date: '1985-08-18T00:54:42'
+  crc: '0x1e1d4999'
+- name: BANDIT.PIC
+  size: 16128
+  date: '1985-08-18T00:54:46'
+  crc: '0x0ee9d95d'

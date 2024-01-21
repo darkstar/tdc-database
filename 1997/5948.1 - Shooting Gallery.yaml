@@ -1,0 +1,33 @@
+filename: Shooting Gallery v1.10 (1997)(David W. Hayward) [Action].zip
+tdc_id: '5948.1'
+title:
+  screen: Shooting Gallery
+publisher: David W. Hayward
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:37:20'
+  last_modified: '2019-03-02T10:37:20'
+version: '1.10'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GALLERY.BAS
+  size: 13931
+  date: '1998-04-26T21:34:12'
+  crc: '0x6ce474ba'
+- name: GO.BAT
+  size: 27
+  date: '2018-11-26T16:59:24'
+  crc: '0x97e080d2'
+- name: HISCORES.DAT
+  size: 154
+  date: '1998-04-26T21:04:12'
+  crc: '0x0f5549b5'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

@@ -1,0 +1,95 @@
+filename: Zona 0 [h1] (1991)(Topo Soft) [Action, Racing - Driving, Strategy].zip
+tdc_id: '15750.0'
+title:
+  box: Zona 0
+publisher: Topo Soft
+year: '1991'
+genre:
+- Action
+- Racing - Driving
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:40:08'
+  last_modified: '2019-03-01T18:40:08'
+type: zip
+tags:
+- Hack: 1
+commands:
+  play: ZONA0.COM
+references:
+  dosid: DOS05809
+  exodos: Zona 0 (1991).zip
+files:
+- name: CARACTER.BIN
+  size: 2278
+  date: '1986-06-01T00:06:38'
+  crc: '0x9a73d1f2'
+- name: COALA.BIN
+  size: 416
+  date: '1990-06-25T12:18:58'
+  crc: '0x0169933f'
+- name: DATA2.BIN
+  size: 33353
+  date: '1988-07-07T01:17:08'
+  crc: '0xda42157a'
+- name: ECHO.BIN
+  size: 18228
+  date: '1990-01-08T19:32:28'
+  crc: '0x26e8596e'
+- name: FONDOS.BIN
+  size: 14520
+  date: '2088-01-04T02:06:46'
+  crc: '0x338e47fe'
+- name: MAPAS.BIN
+  size: 30752
+  date: '1991-05-08T11:52:50'
+  crc: '0x2ea54ad4'
+- name: MARCO.BIN
+  size: 17490
+  date: '1986-06-01T00:03:14'
+  crc: '0x74e023d2'
+- name: MILO.BIN
+  size: 17266
+  date: '1991-07-01T19:12:42'
+  crc: '0xa9591383'
+- name: PANTALLA.BIN
+  size: 32002
+  date: '1986-06-01T00:01:46'
+  crc: '0xe1174513'
+- name: PRESENT.BIN
+  size: 6354
+  date: '1986-06-01T00:02:26'
+  crc: '0x39f453ca'
+- name: PRESENT2.BIN
+  size: 74375
+  date: '1990-01-08T19:33:54'
+  crc: '0xedce2733'
+- name: SET.BIN
+  size: 5903
+  date: '1991-07-01T19:12:36'
+  crc: '0xb3c128fc'
+- name: SETEXP.BIN
+  size: 5330
+  date: '1986-06-01T00:11:54'
+  crc: '0xfac8ae21'
+- name: SETS.BIN
+  size: 3962
+  date: '1990-01-08T19:34:24'
+  crc: '0xc6b62fab'
+- name: SPRITES.BIN
+  size: 15832
+  date: '1986-06-01T00:15:18'
+  crc: '0x74a4e6bc'
+- name: SPRITESE.BIN
+  size: 18365
+  date: '1991-07-01T19:12:48'
+  crc: '0x7d4baf88'
+- name: SPRITESF.BIN
+  size: 8924
+  date: '1986-06-01T00:02:58'
+  crc: '0xbb56101b'
+- name: ZONA0.COM
+  size: 27280
+  date: '1991-06-05T17:58:46'
+  crc: '0x01331592'

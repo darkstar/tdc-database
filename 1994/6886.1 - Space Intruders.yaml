@@ -1,0 +1,50 @@
+filename: Space Intruders v2.1 [SW] (1994)(Sarwan Narine) [Action].zip
+tdc_id: '6886.1'
+title:
+  screen: Space Intruders
+publisher: Sarwan Narine
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T07:16:30'
+  last_modified: '2019-03-02T07:16:30'
+version: '2.1'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: INTRUDER.COM
+references:
+  dosid: DOS07092
+  exodos: Space Intruders (1993).zip
+files:
+- name: INTRUDER.COM
+  size: 59532
+  date: '1994-10-10T02:10:00'
+  crc: '0x70258509'
+- name: INTRUDER.DAT
+  size: 64512
+  date: '1994-10-10T02:10:00'
+  crc: '0xef8aa378'
+- name: INTRUDER.DOC
+  size: 3559
+  date: '1994-10-10T02:10:00'
+  crc: '0x5667d591'
+- name: INTRUDER.GRX
+  size: 56320
+  date: '1994-10-10T02:10:00'
+  crc: '0x1e61353d'
+- name: INTRUDER.SND
+  size: 190464
+  date: '1994-10-10T02:10:00'
+  crc: '0x0be4e9b7'
+- name: INTRUDER.TBL
+  size: 512
+  date: '1994-10-10T02:10:00'
+  crc: '0xcd078e74'
+- name: INTRUDER.TXT
+  size: 1675
+  date: '1994-10-10T02:10:00'
+  crc: '0xe9179c4a'

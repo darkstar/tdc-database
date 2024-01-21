@@ -1,0 +1,87 @@
+filename: Drone v1.01 (Installer) (1997)(Pixelsplash Software) [Action].zip
+tdc_id: '6742.1'
+parent_id: '6742.3'
+title:
+  screen: Drone
+publisher: Pixelsplash Software
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-01-20T16:52:18'
+  last_modified: '2019-01-20T16:52:18'
+version: '1.01'
+type: zip
+media: Download
+installer: true
+files:
+- name: DOS_INST\
+  size: 0
+  date: '2019-01-20T15:13:12'
+- name: DOS_INST\DRO0001
+  size: 22
+  date: '1997-11-04T15:09:14'
+  crc: '0xe0a16a65'
+- name: DOS_INST\DRONE.LZH
+  size: 11146355
+  date: '1997-11-04T15:09:46'
+  crc: '0x88b421ef'
+- name: DOS_INST\EZI.CFG
+  size: 597
+  date: '1997-11-04T15:09:46'
+  crc: '0x0efa1e06'
+- name: DOS_INST\EZILOGO.PCX
+  size: 11652
+  date: '1997-11-04T15:09:46'
+  crc: '0x5ccc4031'
+- name: DOS_INST\INSTALL.EXE
+  size: 71168
+  date: '1997-11-04T15:09:46'
+  crc: '0x7335ccaa'
+- name: DOS_INST\INSTALL.OLB
+  size: 64520
+  date: '1997-11-04T15:09:46'
+  crc: '0x9d1f26b6'
+- name: DOS_INST\PCXVIEW.EXE
+  size: 28611
+  date: '1997-11-04T15:09:48'
+  crc: '0x300284f0'
+- name: DRONE_SW.ZIP
+  size: 7296421
+  date: '1997-11-04T15:10:38'
+  crc: '0x9af503e9'
+- name: FILE_ID.DIZ
+  size: 422
+  date: '1997-11-04T15:10:38'
+  crc: '0x3c2ce521'
+- name: ORDER.TXT
+  size: 3771
+  date: '1997-11-04T15:10:40'
+  crc: '0x43bdf2e2'
+- name: ORDRFORM.TXT
+  size: 2056
+  date: '1997-11-04T15:10:40'
+  crc: '0x3fa2e83b'
+- name: README.TXT
+  size: 17823
+  date: '1997-11-04T15:10:40'
+  crc: '0x50d1068d'
+- name: WIN_INST\
+  size: 0
+  date: '1997-11-04T15:10:18'
+- name: WIN_INST\DRO0001
+  size: 26
+  date: '1997-11-04T15:09:48'
+  crc: '0x9566ebba'
+- name: WIN_INST\DRONE.LZH
+  size: 11146355
+  date: '1997-11-04T15:10:16'
+  crc: '0x88b421ef'
+- name: WIN_INST\EZILOGO.BMP
+  size: 308280
+  date: '1997-11-04T15:10:18'
+  crc: '0xa42daf9a'
+- name: WIN_INST\INSTALL.EXE
+  size: 172237
+  date: '1997-11-04T15:10:18'
+  crc: '0xe3ccada8'

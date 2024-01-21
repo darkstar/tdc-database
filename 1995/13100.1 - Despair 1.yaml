@@ -1,0 +1,44 @@
+filename: Despair 1 v1.0c (Installer) [SW] (1995)(U-NEEK Software) [Action].zip
+tdc_id: '13100.1'
+title:
+  screen: Despair 1
+publisher: U-NEEK Software
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-01-18T14:14:34'
+  last_modified: '2019-01-18T14:14:34'
+version: 1.0c
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 298
+  date: '1995-09-05T09:55:02'
+  crc: '0x952320e5'
+- name: INSTALL.EXE
+  size: 70790
+  date: '1995-08-29T13:45:10'
+  crc: '0x73384f8f'
+- name: INSTALL.INI
+  size: 136
+  date: '1995-08-29T13:48:44'
+  crc: '0x42d95a7a'
+- name: PACK1.PRG
+  size: 1380984
+  date: '1995-08-29T13:46:20'
+  crc: '0x2c2c918e'
+- name: PACK2.PRG
+  size: 1452664
+  date: '1995-08-29T13:47:48'
+  crc: '0x883634d9'
+- name: PACK3.PRG
+  size: 189531
+  date: '1995-08-29T13:48:20'
+  crc: '0x2ecfdf92'

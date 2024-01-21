@@ -1,0 +1,26 @@
+filename: Microsurgeon (PCjr) (1984)(Imagic) [Action, Educational].jrc.zip
+tdc_id: '5132.0'
+title:
+  box: Microsurgeon
+  qualifier: PCjr
+publisher: Imagic
+year: '1984'
+genre:
+- Action
+- Educational
+language: English
+date:
+  added: '2017-06-03T11:03:36'
+  last_modified: '2017-06-03T11:03:36'
+type: zip
+requirements:
+  cpu:
+    min: '8088'
+media: Cartridge
+references:
+  mobygames: http://www.mobygames.com/game/dos/demon-attack
+files:
+- name: musurgn.jrc
+  size: 41472
+  date: '2012-11-13T23:41:18'
+  crc: '0x6c5391cc'

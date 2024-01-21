@@ -1,0 +1,28 @@
+filename: King of Diamonds (Pinball Construction Set) (1987)(MJL) [Action].zip
+tdc_id: '11800.0'
+title:
+  screen: King of Diamonds
+  qualifier: Pinball Construction Set
+publisher: MJL
+year: '1987'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:25:24'
+  last_modified: '2019-03-01T18:25:24'
+type: zip
+requirements:
+  cpu:
+    min: '8088'
+media: Download
+commands:
+  play: KING.COM
+files:
+- name: KING.COM
+  size: 64512
+  date: '1993-01-18T10:09:00'
+  crc: '0xba42b2d5'
+- name: PINBALL.DOC
+  size: 665
+  date: '1988-01-21T15:06:06'
+  crc: '0x2bcef86c'

@@ -1,0 +1,30 @@
+filename: Blackjack (1999)(Marc Santa) [Strategy, Cards].zip
+tdc_id: '8557.0'
+title:
+  screen: Blackjack
+publisher: Marc Santa
+year: '1999'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-02T10:45:18'
+  last_modified: '2019-03-02T10:45:18'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 28
+  date: '2018-11-27T21:26:16'
+  crc: '0x2855941c'
+- name: MBLKJACK.BAS
+  size: 54014
+  date: '2018-03-10T14:53:54'
+  crc: '0x13c6d127'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

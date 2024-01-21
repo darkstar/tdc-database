@@ -1,0 +1,112 @@
+filename: Millionaire II- The Stock Market Simulation v1.1 [f1] (1987)(Blue Chip Software) [Strategy, Simulation].zip
+tdc_id: '7816.1'
+title:
+  box: 'Millionaire II: The Stock Market Simulation'
+  screen: 'Millionaire: The Stock Market Simulation: Release 2'
+publisher: Blue Chip Software
+year: '1987'
+genre:
+- Strategy
+- Simulation
+language: English
+date:
+  added: '2019-03-01T18:25:28'
+  last_modified: '2023-04-10T19:05:57'
+version: '1.1'
+type: zip
+tags:
+- Fixed: 1
+media: 360K
+commands:
+  play: START.BAT
+  setup: SETUP.BAT
+references:
+  mobygames: https://www.mobygames.com/game/41142/millionaire-the-stock-market-simulation-release-2/
+files:
+- name: BACKUP.EXE
+  size: 30230
+  date: '1987-10-10T14:11:24'
+  crc: '0xa15492db'
+- name: MILLION\
+  size: 0
+  date: '2011-09-18T13:12:52'
+- name: MILLION\COMMON
+  size: 489
+  date: '1987-10-05T17:06:38'
+  crc: '0xc0a79af9'
+- name: MILLION\DESCRIP.RND
+  size: 11250
+  date: '1987-10-05T17:06:38'
+  crc: '0xca0f0b37'
+- name: MILLION\INDUST
+  size: 971
+  date: '1987-10-05T17:06:38'
+  crc: '0xbe3945e5'
+- name: MILLION\M.EXE
+  size: 93554
+  date: '2011-09-18T11:38:08'
+  crc: '0x2e7cb03f'
+- name: MILLION\M.EX_
+  size: 93554
+  date: '1987-10-05T17:06:38'
+  crc: '0xd71f56d0'
+- name: MILLION\MAIN.HLP
+  size: 1120
+  date: '1987-10-05T17:06:38'
+  crc: '0x27982f9d'
+- name: MILLION\MESDATA.RND
+  size: 18600
+  date: '1987-10-05T17:06:38'
+  crc: '0x7e9f5762'
+- name: MILLION\MOPENER.PIC
+  size: 16391
+  date: '1987-10-05T17:06:38'
+  crc: '0xd3085844'
+- name: MILLION\MPOOR.PIC
+  size: 16391
+  date: '1987-10-05T17:06:38'
+  crc: '0x37c23f6c'
+- name: MILLION\MRICH.PIC
+  size: 16391
+  date: '1987-10-05T17:06:38'
+  crc: '0x05f975a7'
+- name: MILLION\PLAYER.DAT
+  size: 882
+  date: '1987-10-05T17:06:38'
+  crc: '0xc4c303c2'
+- name: MILLION\PLAYER.HLP
+  size: 1234
+  date: '1987-10-05T17:06:38'
+  crc: '0xd02fb499'
+- name: MILLION\RND.RND
+  size: 4
+  date: '1987-10-05T17:06:38'
+  crc: '0xe37aee67'
+- name: MILLION\SESSION.VAR
+  size: 32
+  date: '1987-10-05T17:06:38'
+  crc: '0x990c585d'
+- name: MILLION\SETUP.DAT
+  size: 72
+  date: '1992-08-29T18:43:28'
+  crc: '0xe7fd97fb'
+- name: MILLION\SETUP.EXE
+  size: 29820
+  date: '1987-10-05T17:06:38'
+  crc: '0x6d05ce9a'
+- name: MILLION\START.BAT
+  size: 66
+  date: '1987-10-05T17:06:38'
+  crc: '0x790da205'
+- name: MILLION\STOCKS
+  size: 2157
+  date: '1987-10-05T17:06:38'
+  crc: '0xcc981319'
+- name: SETUP.BAT
+  size: 103
+  date: '1987-10-05T17:06:32'
+  crc: '0x37a4fb35'
+- name: START.BAT
+  size: 85
+  date: '1987-10-05T17:06:32'
+  crc: '0xa032737b'

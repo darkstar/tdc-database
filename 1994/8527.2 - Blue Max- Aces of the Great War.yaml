@@ -1,0 +1,36 @@
+filename: Blue Max- Aces of the Great War v1.1 (Installer) (1994)(Three-Sixty Pacific, Inc.) [Simulation, Strategy].zip
+tdc_id: '8527.2'
+parent_id: '8527.3'
+title:
+  box: 'Blue Max: Aces of the Great War'
+publisher: Three-Sixty Pacific, Inc.
+year: '1994'
+genre:
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2019-03-01T21:54:50'
+  last_modified: '2019-03-01T21:54:50'
+version: '1.1'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: BLUEMAX.001
+  size: 856205
+  date: '1994-07-14T13:23:12'
+  crc: '0x16d500fb'
+- name: BLUEMAX.INF
+  size: 2298
+  date: '1994-07-14T13:22:06'
+  crc: '0x942040bd'
+- name: DISK.ID
+  size: 25
+  date: '1994-07-14T13:22:20'
+  crc: '0x1085c7e0'
+- name: INSTALL.EXE
+  size: 137411
+  date: '1993-10-27T23:33:06'
+  crc: '0x714cd163'

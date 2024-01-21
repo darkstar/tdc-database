@@ -1,0 +1,30 @@
+filename: Black Jack (1997)(Justin Rosenberg) [Strategy, Cards].zip
+tdc_id: '3864.0'
+title:
+  screen: Black Jack
+publisher: Justin Rosenberg
+year: '1997'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-02T10:25:14'
+  last_modified: '2019-03-02T10:25:14'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: BJ.BAS
+  size: 14940
+  date: '2018-11-22T18:56:28'
+  crc: '0xcef15c03'
+- name: GO.BAT
+  size: 22
+  date: '2018-12-06T20:14:58'
+  crc: '0x5486dcff'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

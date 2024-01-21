@@ -1,0 +1,56 @@
+filename: 'Christian Text Adventure #1 (1986)(Newlife Software) [Adventure, Interactive Fiction].zip'
+tdc_id: '1255.0'
+title:
+  screen: 'Christian Text Adventure #1'
+publisher: Newlife Software
+year: '1986'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:24:44'
+  last_modified: '2019-03-01T18:24:44'
+type: zip
+commands:
+  play: ADVENT.COM
+references:
+  dosid: DOS00037
+  exodos: 'Christian Text Adventure #1 (1986).zip'
+files:
+- name: ADVENT.000
+  size: 14592
+  date: '1986-12-15T20:22:40'
+  crc: '0xf8ab110c'
+- name: ADVENT.001
+  size: 10752
+  date: '1986-12-15T20:23:14'
+  crc: '0xb4242115'
+- name: ADVENT.002
+  size: 20992
+  date: '1986-12-15T20:24:14'
+  crc: '0x558c971a'
+- name: ADVENT.COM
+  size: 30015
+  date: '1986-12-15T20:24:30'
+  crc: '0xaf088526'
+- name: CONFIG.SYS
+  size: 26
+  date: '1986-12-15T20:24:50'
+  crc: '0x73a4bc24'
+- name: CTA-1.DAT
+  size: 28301
+  date: '1987-01-25T17:08:58'
+  crc: '0xf14cd563'
+- name: CTA-1.DOC
+  size: 2493
+  date: '1987-04-06T13:18:08'
+  crc: '0xb4ab2c27'
+- name: CTA-1.TTL
+  size: 324
+  date: '1987-03-14T06:05:14'
+  crc: '0x0c511150'
+- name: GAGSDEMO.DOC
+  size: 12204
+  date: '1987-04-06T13:10:14'
+  crc: '0x47fc3e31'

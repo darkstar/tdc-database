@@ -1,0 +1,31 @@
+filename: Miner 2049er (1983)(Micro Fun) [Action].zip
+tdc_id: '7851.2'
+parent_id: '7851.1'
+title:
+  box: Miner 2049er
+publisher: Micro Fun
+year: '1983'
+genre: Action
+language: English
+date:
+  added: '2023-10-09T16:52:21'
+  last_modified: '2023-10-09T16:52:21'
+type: zip
+media: 360K
+commands:
+  play: MINER.EXE
+references:
+  mobygames: https://www.mobygames.com/game/8724/miner-2049er/
+files:
+- name: MINER.EXE
+  size: 29330
+  date: '1980-01-01T00:29:16'
+  crc: '0x7f7942ac'
+- name: MINER.EX_
+  size: 29856
+  date: '1980-01-01T00:29:16'
+  crc: '0xbadab917'
+- name: SCORES
+  size: 60
+  date: '1980-01-01T00:04:56'
+  crc: '0x0a7384f5'

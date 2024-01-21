@@ -1,0 +1,31 @@
+filename: Box Race v0.5 (1996)(Ben Dacko) [Strategy, Simulation].zip
+tdc_id: '182.0'
+title:
+  screen: Box Race
+publisher: Ben Dacko
+year: '1996'
+genre:
+- Strategy
+- Simulation
+language: English
+date:
+  added: '2019-03-02T10:00:10'
+  last_modified: '2019-03-02T10:00:10'
+version: '0.5'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: BOXRACE.BAS
+  size: 3245
+  date: '1996-09-30T20:21:36'
+  crc: '0xfc7dcfc5'
+- name: GO.BAT
+  size: 27
+  date: '2018-11-25T12:18:42'
+  crc: '0xf9b6a3e9'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

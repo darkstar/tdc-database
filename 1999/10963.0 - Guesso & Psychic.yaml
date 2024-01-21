@@ -1,0 +1,32 @@
+filename: Guesso & Psychic (1999)(Light Software) [Strategy, Simulation, Compilation].zip
+tdc_id: '10963.0'
+title:
+  screen: Guesso & Psychic
+publisher: Light Software
+year: '1999'
+genre:
+- Strategy
+- Simulation
+- Compilation
+language: English
+date:
+  added: '2019-03-02T10:46:10'
+  last_modified: '2019-03-02T10:46:10'
+type: zip
+media: Download
+compilation: true
+commands:
+  play: GO.BAT
+files:
+- name: 241.BAS
+  size: 4606
+  date: '2018-03-07T16:29:28'
+  crc: '0x040bb003'
+- name: GO.BAT
+  size: 23
+  date: '2018-12-03T19:36:02'
+  crc: '0x3984bc6a'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

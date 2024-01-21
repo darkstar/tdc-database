@@ -1,0 +1,46 @@
+filename: Honeymooners, The (1988)(First Row Software Publishing, Inc.) [Action].zip
+tdc_id: '5546.0'
+title:
+  box: The Honeymooners
+publisher: First Row Software Publishing, Inc.
+year: '1988'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:26:16'
+  last_modified: '2019-03-01T18:26:16'
+type: zip
+commands:
+  play: HM.EXE
+references:
+  dosid: DOS02640
+  exodos: Honeymooners, The (1988).zip
+files:
+- name: FNT1.ESI
+  size: 4669
+  date: '1988-07-07T20:49:10'
+  crc: '0xdbe60e1e'
+- name: FNT2.ESI
+  size: 4669
+  date: '1988-07-07T20:49:10'
+  crc: '0x6e912386'
+- name: HM.1
+  size: 9911
+  date: '1988-11-11T14:58:58'
+  crc: '0xc34f0eb2'
+- name: HM.2
+  size: 4754
+  date: '1988-11-11T14:58:58'
+  crc: '0x829945d8'
+- name: HM.EXE
+  size: 103587
+  date: '1989-02-20T04:15:14'
+  crc: '0xf9266059'
+- name: PICTURES.CTL
+  size: 1992
+  date: '1989-02-07T07:18:44'
+  crc: '0x679a1fde'
+- name: PICTURES.GRF
+  size: 279457
+  date: '1989-02-07T07:18:44'
+  crc: '0x3adcf8bb'

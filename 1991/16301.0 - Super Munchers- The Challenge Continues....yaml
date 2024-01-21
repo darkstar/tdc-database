@@ -1,0 +1,76 @@
+filename: Super Munchers- The Challenge Continues... (1991)(MECC) [Action, Educational].zip
+tdc_id: '16301.0'
+title:
+  box: 'Super Munchers: The Challenge Continues...'
+publisher: MECC
+year: '1991'
+genre:
+- Action
+- Educational
+language: English
+date:
+  added: '2019-03-01T18:39:36'
+  last_modified: '2019-03-01T18:39:36'
+type: zip
+commands:
+  play: SM.EXE
+references:
+  dosid: DOS04955
+  exodos: Super Munchers - The Challenge Continues... (1991).zip
+files:
+- name: BIT8X8.GFT
+  size: 2654
+  date: '2039-09-01T02:42:26'
+  crc: '0xb9b63dc2'
+- name: CGA.BGI
+  size: 6253
+  date: '2039-09-01T02:42:28'
+  crc: '0x17cbdd92'
+- name: LOGO.004
+  size: 1562
+  date: '2039-09-01T02:42:24'
+  crc: '0x0114b557'
+- name: LOGO.256
+  size: 2112
+  date: '2039-09-01T02:42:24'
+  crc: '0xb576d9f6'
+- name: MIX5X8.GFT
+  size: 1158
+  date: '2039-09-01T02:42:26'
+  crc: '0x86cf49f9'
+- name: PRODUCT.PF
+  size: 350
+  date: '2039-09-01T02:42:22'
+  crc: '0x388d7fa3'
+- name: README
+  size: 1661
+  date: '2039-09-01T02:42:22'
+  crc: '0x226eebe9'
+- name: SCGA.RES
+  size: 101331
+  date: '2039-09-01T02:42:26'
+  crc: '0x17e1d468'
+- name: SM.CFG
+  size: 2292
+  date: '2043-12-11T16:10:24'
+  crc: '0xba2c1278'
+- name: SM.EXE
+  size: 94707
+  date: '2039-09-01T02:42:22'
+  crc: '0xbc176402'
+- name: SM.RES
+  size: 108202
+  date: '2039-09-01T02:42:24'
+  crc: '0x0b18e13b'
+- name: SMCGA.RES
+  size: 245571
+  date: '2039-09-01T02:42:26'
+  crc: '0xf28e32f7'
+- name: VGA16.BGI
+  size: 4999
+  date: '2039-09-01T02:42:28'
+  crc: '0x22072507'
+- name: VGA256.BGI
+  size: 3289
+  date: '2039-09-01T02:42:28'
+  crc: '0x55f0b0ba'

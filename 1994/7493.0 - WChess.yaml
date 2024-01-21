@@ -1,0 +1,78 @@
+filename: WChess v1.05 (1994)(David Kittinger) [Strategy, Chess].zip
+tdc_id: '7493.0'
+title:
+  screen: WChess
+publisher: David Kittinger
+year: '1994'
+genre:
+- Strategy
+- Chess
+language: English
+date:
+  added: '2019-03-02T07:19:28'
+  last_modified: '2019-03-02T07:19:28'
+version: '1.05'
+type: zip
+commands:
+  play: WCHESS.EXE
+files:
+- name: BK.POS
+  size: 1909
+  date: '1994-10-23T22:28:56'
+  crc: '0xf7aa9e25'
+- name: DOS4GW.EXE
+  size: 271476
+  date: '1996-04-03T14:01:08'
+  crc: '0xa47c6a1f'
+- name: FAILLOW.POS
+  size: 1130
+  date: '1994-11-07T20:21:34'
+  crc: '0x7ab04a2c'
+- name: FISCHER.PGN
+  size: 244789
+  date: '1994-10-25T10:41:06'
+  crc: '0xab6d9cd7'
+- name: FISCHER1.PGN
+  size: 242439
+  date: '1994-10-24T19:51:36'
+  crc: '0xfe1eedb3'
+- name: GPIECES.BIN
+  size: 30109
+  date: '1994-12-05T17:41:06'
+  crc: '0x7fab5945'
+- name: HCUP.GAM
+  size: 6920
+  date: '1994-11-08T08:10:52'
+  crc: '0x91bdc28e'
+- name: HCUPGAME.LST
+  size: 39788
+  date: '1994-10-25T10:29:56'
+  crc: '0x403619d1'
+- name: MATES.POS
+  size: 1790
+  date: '1994-10-23T23:12:32'
+  crc: '0x59ccd80b'
+- name: OPENBK.BIN
+  size: 203256
+  date: '1994-08-04T15:15:16'
+  crc: '0xdb485de1'
+- name: README
+  size: 550
+  date: '1995-04-24T01:05:00'
+  crc: '0xa65125fe'
+- name: TESTLAR.POS
+  size: 1813
+  date: '1994-10-22T20:40:50'
+  crc: '0x1bd1e8c3'
+- name: WAC.EPD
+  size: 23617
+  date: '1994-10-25T10:41:16'
+  crc: '0x8e588e5f'
+- name: WCHESS.EXE
+  size: 214637
+  date: '1995-04-24T01:05:00'
+  crc: '0xc9cc8af7'
+- name: _W.W
+  size: 4096
+  date: '1995-04-24T01:05:00'
+  crc: '0xc71c0011'

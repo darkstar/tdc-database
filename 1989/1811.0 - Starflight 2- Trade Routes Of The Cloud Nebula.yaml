@@ -1,0 +1,52 @@
+filename: Starflight 2- Trade Routes Of The Cloud Nebula (Installer) [a2] (1989)(Binary Systems) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '1811.0'
+title:
+  box: 'Starflight 2: Trade Routes Of The Cloud Nebula'
+publisher: Binary Systems
+year: '1989'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:29:04'
+  last_modified: '2019-03-01T18:29:04'
+type: zip
+tags:
+- Alternate: 2
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: BAT.PAK
+  size: 2921
+  date: '1990-02-22T17:18:06'
+  crc: '0x089fabe9'
+- name: EGA.PAK
+  size: 98817
+  date: '1990-02-22T17:17:52'
+  crc: '0xe749d77b'
+- name: INSTALL.EXE
+  size: 7149
+  date: '1990-03-01T13:46:34'
+  crc: '0xc488b0d4'
+- name: R2.PAK
+  size: 48893
+  date: '1990-02-22T17:11:24'
+  crc: '0xa81bf822'
+- name: RAW.PAK
+  size: 81204
+  date: '1990-02-22T17:13:30'
+  crc: '0xcc5addf3'
+- name: STAR2A.PAK
+  size: 82568
+  date: '1990-02-22T17:09:02'
+  crc: '0x767275b0'
+- name: STAR2B.PAK
+  size: 242155
+  date: '1990-02-22T17:11:00'
+  crc: '0x00619bb8'
+- name: VGA.PAK
+  size: 106003
+  date: '1990-02-22T17:15:38'
+  crc: '0xf2fdd5d2'

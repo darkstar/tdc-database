@@ -1,0 +1,26 @@
+filename: Snake (2012)(Ilija Mihajlov) [Action].zip
+tdc_id: '5003.0'
+title:
+  screen: Snake
+publisher: Ilija Mihajlov
+year: '2012'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:57:54'
+  last_modified: '2019-03-02T10:57:54'
+type: zip
+commands:
+  play: SNAKE.EXE
+references:
+  dosid: DOS06670
+  exodos: Snake (2012).zip
+files:
+- name: README.TXT
+  size: 703
+  date: '2013-02-18T22:59:52'
+  crc: '0x315b7256'
+- name: SNAKE.EXE
+  size: 37904
+  date: '2013-02-23T11:33:36'
+  crc: '0x3c8ff719'

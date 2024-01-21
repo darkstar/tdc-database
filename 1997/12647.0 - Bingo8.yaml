@@ -1,0 +1,32 @@
+filename: Bingo8 (1997)(Anonymous) [Simulation].zip
+tdc_id: '12647.0'
+title:
+  screen: Bingo8
+publisher: Anonymous
+year: '1997'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-02T10:25:14'
+  last_modified: '2019-03-02T10:25:14'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: BINGO.TXT
+  size: 25
+  date: '1997-02-17T23:00:38'
+  crc: '0x2ea50ec7'
+- name: BINGO8.BAS
+  size: 26123
+  date: '1997-01-18T22:36:36'
+  crc: '0xd7c4a2a8'
+- name: GO.BAT
+  size: 26
+  date: '2019-01-09T21:41:20'
+  crc: '0x3d48d4c5'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

@@ -1,0 +1,28 @@
+filename: Word v5.10 (1999)(Toyshop Studio) [Educational].zip
+tdc_id: '15948.0'
+title:
+  screen: Word
+publisher: Toyshop Studio
+year: '1999'
+genre: Educational
+language: English
+date:
+  added: '2019-03-02T10:46:36'
+  last_modified: '2019-03-02T10:46:36'
+version: '5.10'
+type: zip
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 24
+  date: '2019-01-04T12:51:54'
+  crc: '0xfa245341'
+- name: QB.EXE
+  size: 278804
+  date: '2016-03-13T01:19:58'
+  crc: '0xb08bc0fe'
+- name: WORD5-10.BAS
+  size: 8448
+  date: '2000-04-26T22:59:58'
+  crc: '0x1abe85f6'

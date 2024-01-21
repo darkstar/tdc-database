@@ -1,0 +1,53 @@
+filename: David Leadbetter's Greens v1.01 (Installer) [b1] (1991)(MicroProse Software, Inc.) [Sports].zip
+tdc_id: '12969.3'
+title:
+  box: David Leadbetter's Greens
+publisher: MicroProse Software, Inc.
+year: '1991'
+genre: Sports
+language: English
+date:
+  added: '2019-03-01T18:35:34'
+  last_modified: '2022-11-20T12:28:49'
+version: '1.01'
+type: zip
+tags:
+- Bad: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/david-leadbetters-greens
+files:
+- name: GREENS.001
+  size: 1284517
+  date: '1992-09-19T09:49:46'
+  crc: '0x03925546'
+- name: GREENS.002
+  size: 1457199
+  date: '1992-09-19T10:03:10'
+  crc: '0x970841b0'
+- name: GREENS.003
+  size: 1457606
+  date: '1992-09-19T10:17:42'
+  crc: '0xc854dbdb'
+- name: GREENS.004
+  size: 612060
+  date: '1992-09-19T10:26:52'
+  crc: '0x66e33369'
+- name: INSTALL.EXE
+  size: 95895
+  date: '1992-09-19T09:44:08'
+  crc: '0xe37ac405'
+- name: MPSCOPY.EXE
+  size: 30891
+  date: '1992-09-19T09:44:04'
+  crc: '0xd7f2b684'
+- name: MPSLABS.IDX
+  size: 44700
+  date: '1992-09-19T10:27:28'
+  crc: '0xf5f52792'
+- name: README.TXT
+  size: 176
+  date: '1992-09-19T09:44:10'
+  crc: '0x28255350'

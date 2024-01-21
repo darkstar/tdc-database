@@ -1,0 +1,42 @@
+filename: Балда (Ru) (1993)(GAMOS Ltd.) [Strategy].zip
+tdc_id: '12374.1'
+title:
+  screen: Балда
+  transliteration: Balda
+publisher: GAMOS Ltd.
+year: '1993'
+genre: Strategy
+language: Russian
+date:
+  added: '2019-03-01T19:01:18'
+  last_modified: '2023-06-26T13:17:02'
+type: zip
+commands:
+  play: BALDA.EXE
+references:
+  mobygames: https://www.mobygames.com/game/2407/balda/
+files:
+- name: BALDA.DOC
+  size: 3077
+  date: '1995-11-25T15:29:26'
+  crc: '0xeca90f8f'
+- name: BALDA.EXE
+  size: 107584
+  date: '1995-11-25T15:29:26'
+  crc: '0x570d7ef7'
+- name: BALDA.IMG
+  size: 334738
+  date: '1995-11-25T15:29:26'
+  crc: '0x60422114'
+- name: BALDA.OVL
+  size: 28933
+  date: '2005-06-10T22:46:18'
+  crc: '0xd67fadbd'
+- name: RECORDS
+  size: 405
+  date: '2005-06-10T22:45:50'
+  crc: '0x600ecac1'
+- name: WORDS.TXT
+  size: 61523
+  date: '1995-11-25T15:29:26'
+  crc: '0xdd618820'

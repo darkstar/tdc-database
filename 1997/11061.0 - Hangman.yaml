@@ -1,0 +1,31 @@
+filename: Hangman (1997)(Tom Watson) [Strategy, Puzzle, Educational].zip
+tdc_id: '11061.0'
+title:
+  screen: Hangman
+publisher: Tom Watson
+year: '1997'
+genre:
+- Strategy
+- Puzzle
+- Educational
+language: English
+date:
+  added: '2019-03-02T10:34:12'
+  last_modified: '2019-03-02T10:34:12'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 27
+  date: '2018-06-29T01:13:42'
+  crc: '0x13e93504'
+- name: HANGMAN.BAS
+  size: 15987
+  date: '2018-03-10T02:26:42'
+  crc: '0x1352ce0a'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T01:28:02'
+  crc: '0x19f6ed75'

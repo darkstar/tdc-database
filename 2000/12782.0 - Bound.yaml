@@ -1,0 +1,101 @@
+filename: Bound v0.1 (2000)(Jessac Mathias Baird) [Strategy].zip
+tdc_id: '12782.0'
+title:
+  screen: Bound
+publisher: Jessac Mathias Baird
+year: '2000'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:54:38'
+  last_modified: '2019-03-02T10:54:38'
+version: '0.1'
+type: zip
+commands:
+  play: BOUND.EXE
+files:
+- name: BOUND.EXE
+  size: 75170
+  date: '2000-11-17T23:11:50'
+  crc: '0x607320fb'
+- name: DATA\
+  size: 0
+  date: '2000-11-15T18:28:24'
+- name: DATA\LEVEL01.DAT
+  size: 614
+  date: '2000-11-17T16:15:54'
+  crc: '0x58262190'
+- name: DATA\LEVEL02.DAT
+  size: 614
+  date: '2000-11-17T16:16:02'
+  crc: '0x84825961'
+- name: DATA\LEVEL03.DAT
+  size: 615
+  date: '2000-11-17T21:26:16'
+  crc: '0xa0b6d627'
+- name: DATA\LEVEL04.DAT
+  size: 615
+  date: '2000-11-17T21:48:28'
+  crc: '0x01f401f9'
+- name: DATA\LEVEL05.DAT
+  size: 613
+  date: '2000-11-17T21:52:54'
+  crc: '0x6f749221'
+- name: DATA\LEVEL06.DAT
+  size: 614
+  date: '2000-11-17T22:28:34'
+  crc: '0x16bc3176'
+- name: DATA\LEVEL07.DAT
+  size: 611
+  date: '2000-11-17T22:29:40'
+  crc: '0xfbb95da7'
+- name: DATA\LEVEL08.DAT
+  size: 613
+  date: '2000-11-17T22:30:42'
+  crc: '0x9e3f3712'
+- name: DATA\LEVELS.DAT
+  size: 215
+  date: '2000-11-17T22:16:30'
+  crc: '0xaf10f29b'
+- name: GFX\
+  size: 0
+  date: '2000-11-15T18:28:26'
+- name: GFX\DEF.FNT
+  size: 771
+  date: '2000-11-13T17:13:20'
+  crc: '0x2480bb35'
+- name: GFX\DEF.PAL
+  size: 768
+  date: '2000-11-16T05:49:28'
+  crc: '0xea6ac8f5'
+- name: GFX\ITALIC.FNT
+  size: 755
+  date: '2000-11-15T19:21:54'
+  crc: '0x2b99462b'
+- name: GFX\TILES.GFX
+  size: 2431
+  date: '2000-11-17T05:55:06'
+  crc: '0x9bcdacf7'
+- name: README.TXT
+  size: 10516
+  date: '2000-11-18T18:58:28'
+  crc: '0xd5713013'
+- name: SOURCE\
+  size: 0
+  date: '2000-11-17T22:40:42'
+- name: SOURCE\BOUND.BAS
+  size: 30104
+  date: '2000-11-17T23:12:50'
+  crc: '0x6e12d7c3'
+- name: SOURCE\BOUND.BI
+  size: 741
+  date: '2000-11-17T22:39:52'
+  crc: '0x7b220eac'
+- name: SOURCE\GSLIB.LIB
+  size: 4675
+  date: '2000-11-17T22:38:44'
+  crc: '0x2f5937f4'
+- name: SOURCE\GSLIB.QLB
+  size: 7039
+  date: '2000-11-17T22:38:44'
+  crc: '0x92278c0f'

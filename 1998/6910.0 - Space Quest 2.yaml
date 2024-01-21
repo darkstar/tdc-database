@@ -1,0 +1,28 @@
+filename: Space Quest 2 (1998)(TF Software) [Action].zip
+tdc_id: '6910.0'
+title:
+  screen: Space Quest 2
+publisher: TF Software
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:44:36'
+  last_modified: '2019-03-02T10:44:36'
+type: zip
+media: Download
+commands:
+  play: start.bat
+files:
+- name: QBASIC.EXE
+  size: 194309
+  date: '1995-07-11T10:50:00'
+  crc: '0x3152911c'
+- name: spacqst2.bas
+  size: 64508
+  date: '1998-11-09T16:33:16'
+  crc: '0x646a2323'
+- name: start.bat
+  size: 26
+  date: '2014-03-20T16:05:28'
+  crc: '0x92ee0ceb'

@@ -1,0 +1,74 @@
+filename: Das Schwarze Auge- Die Schicksalsklinge v1.00 (Installer) (De) [f1] (1992)(Fantasy Productions Verlags- und Medienvertriebsgesellschaft mbH) [Adventure, Role-Playing (RPG)][!].zip
+tdc_id: '14779.17'
+parent_id: '14779.13'
+title:
+  box: 'Das Schwarze Auge: Die Schicksalsklinge'
+  qualifier: Installer
+publisher: Fantasy Productions Verlags- und Medienvertriebsgesellschaft mbH
+year: '1992'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: German
+date:
+  added: '2019-03-01T18:42:20'
+  last_modified: '2024-01-17T10:16:46'
+version: '1.00'
+type: zip
+tags:
+- KnownGood
+- Fixed: 1
+media: 720K
+installer: true
+commands:
+  play: INSTALL.BAT
+references:
+  mobygames: https://www.mobygames.com/game/3437/realms-of-arkania-blade-of-destiny/
+files:
+- name: DATA.S01
+  size: 727040
+  date: '1992-06-10T02:23:48'
+  crc: '0xc53ce755'
+- name: DATA.S02
+  size: 727040
+  date: '1992-06-10T02:23:52'
+  crc: '0x964d2414'
+- name: DATA.S03
+  size: 727040
+  date: '1992-06-10T02:23:56'
+  crc: '0xecf480f2'
+- name: DATA.S04
+  size: 727040
+  date: '1992-06-10T02:24:00'
+  crc: '0x9a3dca5e'
+- name: DATA.S05
+  size: 565761
+  date: '1992-06-10T02:24:04'
+  crc: '0x5fed0dc6'
+- name: DSA I 3.1
+  size: 0
+  date: '1992-06-09T07:56:10'
+- name: DSA I 3.2
+  size: 0
+  date: '1992-06-09T07:58:42'
+- name: DSA I 3.3
+  size: 0
+  date: '1992-06-09T07:59:00'
+- name: DSA I 3.4
+  size: 0
+  date: '1992-06-09T08:00:22'
+- name: DSA I 3.5
+  size: 0
+  date: '1992-06-09T08:01:50'
+- name: INSTALL.BAT
+  size: 2879
+  date: '1980-01-01T12:00:00'
+  crc: '0x4848c3e5'
+- name: INSTALL.EXE
+  size: 37000
+  date: '1992-06-04T18:44:04'
+  crc: '0xcb2cd2e0'
+- name: LHA.EXE
+  size: 36624
+  date: '1980-01-01T00:00:00'
+  crc: '0x9935a84d'

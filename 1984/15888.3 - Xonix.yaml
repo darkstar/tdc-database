@@ -1,0 +1,31 @@
+filename: Xonix v2.2 (1984)(Ilan Rav) [Action].zip
+tdc_id: '15888.3'
+title:
+  screen: Xonix
+publisher: Ilan Rav
+year: '1984'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:20'
+  last_modified: '2019-03-01T18:24:20'
+version: '2.2'
+type: zip
+commands:
+  play: XONIX.EXE
+references:
+  dosid: DOS05763
+  exodos: Xonix (1984).zip
+files:
+- name: BASRUN.EXE
+  size: 31616
+  date: '1982-05-07T12:00:00'
+  crc: '0x04b38b69'
+- name: XONIX.EXE
+  size: 12928
+  date: '1984-09-20T15:54:00'
+  crc: '0x9fe5c6f8'
+- name: XONIX1.BIN
+  size: 4104
+  date: '1984-02-22T15:11:00'
+  crc: '0x1f1ff4ed'

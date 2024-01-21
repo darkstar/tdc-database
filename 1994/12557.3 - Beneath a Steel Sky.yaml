@@ -1,0 +1,50 @@
+filename: Beneath a Steel Sky v0.288 (Installer) (En)(Fr)(De)(It)(Es) (1994)(Virgin Interactive Entertainment, Inc.) [Adventure].zip
+tdc_id: '12557.3'
+title:
+  box: Beneath a Steel Sky
+publisher: Virgin Interactive Entertainment, Inc.
+year: '1994'
+genre: Adventure
+language:
+- English
+- Spanish
+- French
+- Italian
+- German
+date:
+  added: '2019-03-01T21:54:38'
+  last_modified: '2019-03-01T21:54:38'
+version: '0.288'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 25664
+  date: '1994-03-15T18:32:02'
+  crc: '0x2177727b'
+- name: SKY_1.RNC
+  size: 1427664
+  date: '1994-03-15T18:34:06'
+  crc: '0xf2231162'
+- name: SKY_2.RNC
+  size: 1457664
+  date: '1994-03-15T18:43:30'
+  crc: '0xa4bd7208'
+- name: SKY_3.RNC
+  size: 1457664
+  date: '1994-03-15T18:48:44'
+  crc: '0x7872990d'
+- name: SKY_4.RNC
+  size: 1457664
+  date: '1994-03-15T18:51:08'
+  crc: '0x723ed9c8'
+- name: SKY_5.RNC
+  size: 1457664
+  date: '1994-03-15T18:53:42'
+  crc: '0x12382b7a'
+- name: SKY_6.RNC
+  size: 204897
+  date: '1994-03-15T18:54:18'
+  crc: '0xbf7da415'

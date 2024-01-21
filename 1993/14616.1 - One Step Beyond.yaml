@@ -1,0 +1,24 @@
+filename: One Step Beyond (Installer) (1993)(Ocean Software Ltd.) [Strategy].zip
+tdc_id: '14616.1'
+title:
+  box: One Step Beyond
+publisher: Ocean Software Ltd.
+year: '1993'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T19:15:46'
+  last_modified: '2019-03-01T19:15:46'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 23079
+  date: '1993-08-20T08:40:10'
+  crc: '0x4f304d49'
+- name: ONESTEP.RNC
+  size: 1062359
+  date: '1993-08-20T08:40:10'
+  crc: '0x0b29aa14'

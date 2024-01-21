@@ -1,0 +1,41 @@
+filename: MaxMan [SW] (1989)(Christopher G. Gunn) [Action].zip
+tdc_id: '11297.0'
+title:
+  screen: MaxMan
+publisher: Christopher G. Gunn
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:28:20'
+  last_modified: '2019-03-01T18:28:20'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: MAXMAN.EXE
+references:
+  dosid: DOS06946
+  exodos: MaxMan (1989).zip
+files:
+- name: MAXMAN.DAT
+  size: 2744
+  date: '1989-06-02T22:07:40'
+  crc: '0xa0a3fe62'
+- name: MAXMAN.DOC
+  size: 3648
+  date: '1990-01-30T23:54:06'
+  crc: '0xc60f961e'
+- name: MAXMAN.EXE
+  size: 65806
+  date: '1990-01-30T23:55:52'
+  crc: '0xfc15445a'
+- name: MAXMAN.REG
+  size: 2932
+  date: '1990-01-28T22:56:22'
+  crc: '0xd8670769'
+- name: MAXMAN.TOP
+  size: 29
+  date: '1990-02-04T23:19:48'
+  crc: '0x7fc294ec'

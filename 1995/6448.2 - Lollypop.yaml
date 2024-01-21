@@ -1,0 +1,96 @@
+filename: Lollypop (Installer) (De)(En)(Nl) (1995)(Softgold Computerspiele GmbH) [Action].zip
+tdc_id: '6448.2'
+title:
+  box: Lollypop
+publisher: Softgold Computerspiele GmbH
+year: '1995'
+genre: Action
+language:
+- English
+- German
+- Dutch
+date:
+  added: '2020-05-12T14:07:38'
+  last_modified: '2020-05-12T14:07:38'
+type: zip
+installer: true
+references:
+  dosid: DOS03212
+  exodos: Lollypop (1994).zip
+files:
+- name: CCD32.DAT
+  size: 342
+  date: '1995-11-02T00:48:46'
+  crc: '0x99687a6b'
+- name: CHECKCD.EXE
+  size: 8384
+  date: '1995-10-26T06:35:24'
+  crc: '0x55fc505f'
+- name: FILES.LST
+  size: 86
+  date: '1995-10-27T22:43:30'
+  crc: '0x9e1396a8'
+- name: INSTHD.EXE
+  size: 14272
+  date: '1995-11-02T00:48:08'
+  crc: '0x3ed66a95'
+- name: INSTI4CD.EXE
+  size: 11952
+  date: '1994-10-26T08:53:20'
+  crc: '0xc6d06922'
+- name: LOLL.DAT
+  size: 2108452
+  date: '1994-10-25T00:48:08'
+  crc: '0x2b139fe2'
+- name: LOLLY.001
+  size: 1413120
+  date: '1994-09-06T03:28:36'
+  crc: '0x4c5c80c6'
+- name: LOLLY.002
+  size: 1147820
+  date: '1994-09-06T03:32:04'
+  crc: '0x97733f43'
+- name: LOLLY.BAT
+  size: 78
+  date: '1995-10-27T22:28:16'
+  crc: '0x794b24ac'
+- name: LOLLY.DIR
+  size: 8730
+  date: '1994-09-06T03:32:04'
+  crc: '0x0a4ddddc'
+- name: LOLLYHD.BAT
+  size: 85
+  date: '1995-10-28T00:02:42'
+  crc: '0xa9761212'
+- name: LOLLY_CD.EXE
+  size: 132288
+  date: '1994-12-02T04:57:48'
+  crc: '0xbec07dd2'
+- name: P.EXE
+  size: 74281
+  date: '1994-05-11T14:12:00'
+  crc: '0x59041d9b'
+- name: README.31
+  size: 2204
+  date: '1995-10-31T02:36:30'
+  crc: '0x2d36a282'
+- name: README.44
+  size: 2066
+  date: '1995-10-31T02:43:46'
+  crc: '0x7dfea7af'
+- name: README.49
+  size: 2223
+  date: '1995-10-31T02:34:54'
+  crc: '0x54b53516'
+- name: README.EXE
+  size: 6048
+  date: '1995-10-31T02:24:48'
+  crc: '0xcc8b057a'
+- name: SAVE.COM
+  size: 6005
+  date: '1994-10-26T08:51:08'
+  crc: '0x47b545dc'
+- name: SETUP.EXE
+  size: 22850
+  date: '1994-12-01T05:19:08'
+  crc: '0x837a552d'

@@ -1,0 +1,31 @@
+filename: Disappearing Balls (1993)(Oleg Demin) [Strategy].zip
+tdc_id: '13207.0'
+title:
+  screen: Disappearing Balls
+publisher: Oleg Demin
+year: '1993'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T19:02:22'
+  last_modified: '2019-03-01T19:02:22'
+type: zip
+commands:
+  play: BALLS.EXE
+files:
+- name: BALLS.EXE
+  size: 117792
+  date: '1993-10-05T07:06:18'
+  crc: '0xb8beda81'
+- name: R_BALLS.PCX
+  size: 59819
+  date: '1993-10-04T19:44:42'
+  crc: '0x9f52369a'
+- name: W_BALLS.PCX
+  size: 54914
+  date: '1993-09-23T02:33:00'
+  crc: '0x5ce75468'
+- name: Z_BALLS.PCX
+  size: 57063
+  date: '1993-10-03T03:37:48'
+  crc: '0x8e52f52d'

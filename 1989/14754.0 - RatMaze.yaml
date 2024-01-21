@@ -1,0 +1,34 @@
+filename: RatMaze v1.0 [SW] (1989)(William Soleau) [Action].zip
+tdc_id: '14754.0'
+title:
+  screen: RatMaze
+publisher: William Soleau
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:28:46'
+  last_modified: '2023-04-14T07:21:19'
+version: '1.0'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: RATMAZE.EXE
+references:
+  dosid: DOS15711
+  exodos: RatMaze (1989).zip
+files:
+- name: RATMAZE.EXE
+  size: 95946
+  date: '1989-11-15T10:18:08'
+  crc: '0x762a9e4a'
+- name: RATMAZE3.DAT
+  size: 28000
+  date: '1989-11-14T10:12:54'
+  crc: '0xfbe2da99'
+- name: RATSPEED.DAT
+  size: 9
+  date: '1980-01-01T01:27:34'
+  crc: '0x731286ca'

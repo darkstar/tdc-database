@@ -1,0 +1,80 @@
+filename: Vette! v1.02 (CGA-Herc) (1989)(Spectrum HoloByte, Inc.) [Racing - Driving, Simulation][!].zip
+tdc_id: '17049.5'
+title:
+  box: Vette!
+publisher: Spectrum HoloByte, Inc.
+year: '1989'
+genre:
+- Racing - Driving
+- Simulation
+language: English
+date:
+  added: '2022-02-20T05:53:16'
+  last_modified: '2022-02-20T05:53:16'
+version: '1.02'
+type: zip
+tags:
+- KnownGood
+commands:
+  play: VETTE.EXE
+files:
+- name: CGAPIC.BIN
+  size: 6966
+  date: '1991-06-25T11:56:06'
+  crc: '0x0a0cecaa'
+- name: CGASKILL.BIN
+  size: 1373
+  date: '1991-06-25T11:56:06'
+  crc: '0x57e0df2d'
+- name: CLOSER.BIN
+  size: 15846
+  date: '1991-06-25T11:56:06'
+  crc: '0x88b60484'
+- name: CONFIG.BIN
+  size: 60
+  date: '1991-06-25T11:56:06'
+  crc: '0x045910b5'
+- name: CRASH.BIN
+  size: 7523
+  date: '1991-06-25T11:56:06'
+  crc: '0x1bc5742d'
+- name: CTICKET.BIN
+  size: 11079
+  date: '1991-06-25T11:56:08'
+  crc: '0xc2d427de'
+- name: CTICKET1.BIN
+  size: 2277
+  date: '1991-06-25T11:56:08'
+  crc: '0xcd0e0ae4'
+- name: CWINNER.BIN
+  size: 14867
+  date: '1991-06-25T11:56:08'
+  crc: '0xc89f751b'
+- name: GARAGE.BIN
+  size: 8566
+  date: '1991-06-25T11:56:08'
+  crc: '0xc81d3145'
+- name: SCORE.BIN
+  size: 1400
+  date: '1991-06-25T11:56:08'
+  crc: '0x58f459a2'
+- name: SFMAP.BIN
+  size: 9955
+  date: '1991-06-25T11:56:08'
+  crc: '0x0fd3c23a'
+- name: TITLE.BIN
+  size: 8738
+  date: '1991-06-25T11:56:08'
+  crc: '0x4c96b8b9'
+- name: TOPTEN.BIN
+  size: 8940
+  date: '1991-06-25T11:56:08'
+  crc: '0xd45be0bb'
+- name: VETTE.EXE
+  size: 247059
+  date: '1991-06-25T11:56:06'
+  crc: '0x1c836853'
+- name: VETTE.EX_
+  size: 247059
+  date: '1991-06-25T11:56:06'
+  crc: '0x315c6dc1'

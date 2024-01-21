@@ -1,0 +1,62 @@
+filename: Moria v5.2.2 (1990)(Robert Alan Koeneke, Don Kneller) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '14367.1'
+title:
+  screen: Moria
+publisher: Robert Alan Koeneke, Don Kneller
+year: '1990'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:33:18'
+  last_modified: '2019-03-01T18:33:18'
+version: 5.2.2
+type: zip
+commands:
+  play: MORIA.EXE
+files:
+- name: -README-
+  size: 8715
+  date: '1990-11-15T12:00:00'
+  crc: '0xf15624a7'
+- name: MORIA.CNF
+  size: 2312
+  date: '1990-11-15T12:00:56'
+  crc: '0xea61d2f4'
+- name: MORIA.DOC
+  size: 45733
+  date: '1990-11-15T12:00:08'
+  crc: '0x6b076f19'
+- name: MORIA.EXE
+  size: 442161
+  date: '1990-11-15T12:00:52'
+  crc: '0xa9d284d7'
+- name: MORIA.SCR
+  size: 1
+  date: '1990-11-15T12:00:02'
+  crc: '0x2f6016f7'
+- name: ORIGCMDS.HLP
+  size: 2711
+  date: '1990-11-15T12:00:56'
+  crc: '0xd6094882'
+- name: ROGLCMDS.HLP
+  size: 2956
+  date: '1990-11-15T12:00:54'
+  crc: '0x771fa61a'
+- name: RWIZCMDS.HLP
+  size: 376
+  date: '1990-11-15T12:00:28'
+  crc: '0xd99dfb04'
+- name: VERSION.HLP
+  size: 1529
+  date: '1990-11-15T12:00:04'
+  crc: '0xa675c3af'
+- name: VERSIONS.INF
+  size: 4296
+  date: '1990-11-15T12:00:42'
+  crc: '0x0179c233'
+- name: WELCOME.HLP
+  size: 409
+  date: '1990-11-15T12:00:50'
+  crc: '0x57d7b801'

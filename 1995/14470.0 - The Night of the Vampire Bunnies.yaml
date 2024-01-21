@@ -1,0 +1,30 @@
+filename: Night of the Vampire Bunnies, The (1995)(Jason Dyer) [Adventure, Interactive Fiction].zip
+tdc_id: '14470.0'
+title:
+  screen: The Night of the Vampire Bunnies
+publisher: Jason Dyer
+year: '1995'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T08:58:00'
+  last_modified: '2019-03-02T08:58:00'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: BUNNY.BAS
+  size: 40969
+  date: '2018-03-10T02:24:46'
+  crc: '0x0b4c2d0d'
+- name: GO.BAT
+  size: 25
+  date: '2018-06-29T20:00:10'
+  crc: '0x90bb6d12'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T01:28:02'
+  crc: '0x19f6ed75'

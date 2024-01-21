@@ -1,0 +1,91 @@
+filename: Bomb Zone (1983)(Fantasy Research, Inc.) [Action].zip
+tdc_id: '12740.0'
+title:
+  screen: Bomb Zone
+publisher: Fantasy Research, Inc.
+year: '1983'
+genre: Action
+language: English
+date:
+  added: '2021-03-23T04:32:46'
+  last_modified: '2021-03-23T04:32:46'
+type: zip
+commands:
+  play: BOMBZONE.EXE
+files:
+- name: BOMBCHK.TBL
+  size: 128
+  date: '1983-11-29T00:25:18'
+  crc: '0xf5b7441c'
+- name: BOMBS.TBL
+  size: 256
+  date: '1983-11-29T00:25:18'
+  crc: '0x3bb4ca6c'
+- name: BOMBZONE.EXE
+  size: 38784
+  date: '1983-11-29T00:25:18'
+  crc: '0xeeafe28f'
+- name: BOMBZONE.EX_
+  size: 38784
+  date: '1983-11-29T00:25:18'
+  crc: '0x5ef6432d'
+- name: BOMBZONE.PNT
+  size: 256
+  date: '1983-11-29T00:25:18'
+  crc: '0xf44f3bb8'
+- name: BOMBZONE.SCN
+  size: 2816
+  date: '1983-11-29T00:25:18'
+  crc: '0x20ab63bb'
+- name: BULMOVE.TBL
+  size: 128
+  date: '1983-11-29T00:25:18'
+  crc: '0x4cb0bcd0'
+- name: CREATURE.TBL
+  size: 384
+  date: '1983-11-29T00:25:18'
+  crc: '0x38abb162'
+- name: DELAYS.TBL
+  size: 256
+  date: '1983-11-29T00:25:18'
+  crc: '0x5f6ad8fc'
+- name: END.SCN
+  size: 4224
+  date: '1983-11-29T00:25:18'
+  crc: '0x8bd915ec'
+- name: EXPLODE1.TBL
+  size: 768
+  date: '1983-11-29T00:25:18'
+  crc: '0xfe7f305b'
+- name: EXPLODE2.TBL
+  size: 3712
+  date: '1983-11-29T00:25:18'
+  crc: '0x9fb5fa01'
+- name: FACE.TBL
+  size: 256
+  date: '1983-11-29T00:25:18'
+  crc: '0x3388104a'
+- name: FANTASY.SCN
+  size: 1536
+  date: '1983-11-29T00:25:18'
+  crc: '0xd2098bfb'
+- name: PICTURE.TBL
+  size: 256
+  date: '1983-11-29T00:25:18'
+  crc: '0x777621ea'
+- name: RNDARRAY.TBL
+  size: 128
+  date: '1983-11-29T00:25:18'
+  crc: '0x12db343f'
+- name: ROBMOVE.TBL
+  size: 128
+  date: '1983-11-29T00:25:18'
+  crc: '0xdbce23f1'
+- name: ROBOT.TBL
+  size: 640
+  date: '1983-11-29T00:25:18'
+  crc: '0x573560a1'
+- name: SCORE.SCN
+  size: 2944
+  date: '1983-11-29T00:25:18'
+  crc: '0xb5cb2e93'

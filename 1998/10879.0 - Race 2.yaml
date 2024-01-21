@@ -1,0 +1,28 @@
+filename: Race 2 (1998)(Joe) [Action].zip
+tdc_id: '10879.0'
+title:
+  screen: Race 2
+publisher: Joe
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:44:18'
+  last_modified: '2019-03-02T10:44:18'
+type: zip
+media: Download
+commands:
+  play: PLAY.BAT
+files:
+- name: PLAY.BAT
+  size: 17
+  date: '2016-07-07T18:33:12'
+  crc: '0x6b3333c3'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-08T17:28:02'
+  crc: '0x19f6ed75'
+- name: race2.bas
+  size: 5433
+  date: '2016-02-21T21:09:42'
+  crc: '0xbcd8f607'

@@ -1,0 +1,48 @@
+filename: DOOM II- Hell on Earth v1.666 (Installer) (1994)(id Software, Inc.) [Action].zip
+tdc_id: '9453.8'
+parent_id: '9453.21'
+title:
+  box: 'DOOM II: Hell on Earth'
+publisher: id Software, Inc.
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T21:56:12'
+  last_modified: '2019-03-01T21:56:12'
+version: '1.666'
+type: zip
+installer: true
+files:
+- name: DEICE.EXE
+  size: 17303
+  date: '1994-08-25T22:29:24'
+  crc: '0xaad4552c'
+- name: DOOM2LZH.1
+  size: 1439232
+  date: '1994-08-29T20:09:40'
+  crc: '0x83cd31e5'
+- name: DOOM2LZH.2
+  size: 1457664
+  date: '1994-08-29T20:10:52'
+  crc: '0x8d38fc66'
+- name: DOOM2LZH.3
+  size: 1457664
+  date: '1994-08-29T20:12:02'
+  crc: '0x21fc5311'
+- name: DOOM2LZH.4
+  size: 1457664
+  date: '1994-08-29T20:13:42'
+  crc: '0xc9d7ba48'
+- name: DOOM2LZH.5
+  size: 1457464
+  date: '1994-08-29T20:14:52'
+  crc: '0x3fb4c37f'
+- name: DOOM2LZH.DAT
+  size: 202
+  date: '1994-08-29T20:08:38'
+  crc: '0xda871fba'
+- name: INSTALL.BAT
+  size: 172
+  date: '1994-08-29T20:00:34'
+  crc: '0x4c156ce4'

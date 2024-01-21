@@ -1,0 +1,37 @@
+filename: TIE Invaders [FW] (1995)(The Obsessed Maniacs) [Action].zip
+tdc_id: '3783.0'
+title:
+  screen: TIE Invaders
+publisher: The Obsessed Maniacs
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T09:06:14'
+  last_modified: '2019-03-02T09:06:14'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: INVADERS.EXE
+references:
+  dosid: DOS07670
+  exodos: TIE Invaders (1996).zip
+files:
+- name: INVADERS.BAS
+  size: 28147
+  date: '1996-05-11T16:46:54'
+  crc: '0xd23a3e0b'
+- name: INVADERS.EXE
+  size: 87838
+  date: '1996-05-11T16:39:02'
+  crc: '0xbaf57185'
+- name: INVADERS.HIS
+  size: 111
+  date: '1996-05-12T00:44:44'
+  crc: '0xe900ed7b'
+- name: INVADERS.RPT
+  size: 191
+  date: '1996-05-12T00:44:44'
+  crc: '0xf4f67ed7'

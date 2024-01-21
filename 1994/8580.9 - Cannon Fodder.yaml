@@ -1,0 +1,42 @@
+filename: Cannon Fodder (demo) (1994)(Virgin Interactive Entertainment, Inc.) [Action, Strategy].zip
+tdc_id: '8580.9'
+title:
+  screen: Cannon Fodder
+  qualifier: demo
+publisher: Virgin Interactive Entertainment, Inc.
+year: '1994'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2023-10-05T15:44:59'
+  last_modified: '2023-10-05T15:44:59'
+type: zip
+media: Download
+demo: true
+commands:
+  play: CANNON.EXE
+references:
+  mobygames: https://www.mobygames.com/game/210/cannon-fodder/
+files:
+- name: CANNON.EXE
+  size: 80405
+  date: '1994-03-09T10:55:00'
+  crc: '0x8c4c117c'
+- name: CANNON2.DAT
+  size: 249180
+  date: '1994-03-07T23:43:18'
+  crc: '0xccf28ce6'
+- name: CFCOVER.DAT
+  size: 667447
+  date: '1994-03-09T10:47:50'
+  crc: '0xe4631c67'
+- name: INSTALL.EXE
+  size: 15183
+  date: '1994-03-08T12:48:42'
+  crc: '0xd19ceeab'
+- name: README.TXT
+  size: 493
+  date: '1994-11-01T02:56:54'
+  crc: '0xd31d2abd'

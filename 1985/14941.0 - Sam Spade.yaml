@@ -1,0 +1,35 @@
+filename: Sam Spade [SW] (1985)(Sanborn Software Systems) [Adventure, Strategy].zip
+tdc_id: '14941.0'
+title:
+  screen: Sam Spade
+publisher: Sanborn Software Systems
+year: '1985'
+genre:
+- Adventure
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:24:32'
+  last_modified: '2019-03-01T18:24:32'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: SAMSPADE.EXE
+references:
+  dosid: DOS06688
+  exodos: Sam Spade (1985).zip
+files:
+- name: SAMCASE1.FIL
+  size: 6272
+  date: '1985-12-30T20:16:20'
+  crc: '0x1e955ffa'
+- name: SAMSPADE.DOC
+  size: 2176
+  date: '1985-12-28T20:08:04'
+  crc: '0x9c6560aa'
+- name: SAMSPADE.EXE
+  size: 69832
+  date: '1985-12-30T20:12:38'
+  crc: '0xbbb1b861'

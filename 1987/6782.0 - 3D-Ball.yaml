@@ -1,0 +1,26 @@
+filename: 3D-Ball (1987)(Lee Griffin) [Action].zip
+tdc_id: '6782.0'
+title:
+  screen: 3D-Ball
+publisher: Lee Griffin
+year: '1987'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:25:06'
+  last_modified: '2019-03-01T18:25:06'
+type: zip
+commands:
+  play: THREEDEE.EXE
+references:
+  dosid: DOS15194
+  exodos: 3D Ball (1987).zip
+files:
+- name: 3DTITLE.ARR
+  size: 5616
+  date: '1987-09-15T17:44:36'
+  crc: '0x0d742624'
+- name: THREEDEE.EXE
+  size: 49920
+  date: '1987-10-14T16:38:12'
+  crc: '0x1cd95e75'

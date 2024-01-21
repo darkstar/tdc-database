@@ -1,0 +1,92 @@
+filename: Time Machine (Ko) (1993)(Ungjin Media) [Adventure, Educational].zip
+tdc_id: '2864.0'
+title:
+  screen: Time Machine
+publisher: Ungjin Media
+year: '1993'
+genre:
+- Adventure
+- Educational
+language: Korean
+date:
+  added: '2019-03-01T21:10:08'
+  last_modified: '2019-03-01T21:10:08'
+type: zip
+commands:
+  play: TM.EXE
+references:
+  dosid: DOS06265
+  exodos: Time Machine I (1993).zip
+files:
+- name: HBVGA.DRV
+  size: 23602
+  date: '1993-02-19T18:59:46'
+  crc: '0xe0a3a730'
+- name: HELP.DAT
+  size: 1503
+  date: '1993-02-19T18:59:46'
+  crc: '0x74946297'
+- name: LOGO1.WPX
+  size: 4833
+  date: '1993-02-19T18:59:46'
+  crc: '0xe23e1c01'
+- name: LOGO2.WPX
+  size: 20238
+  date: '1993-02-19T18:59:46'
+  crc: '0x02eefc2d'
+- name: NOTE.DAT
+  size: 2728
+  date: '2005-10-09T12:36:10'
+  crc: '0x5e402950'
+- name: TM.EXE
+  size: 228274
+  date: '1993-02-19T18:01:28'
+  crc: '0x63e8d343'
+- name: TM.vlp
+  size: 92
+  date: '2005-10-09T11:34:08'
+  crc: '0x0f334e40'
+- name: TMDIDX
+  size: 352
+  date: '1993-02-19T18:59:46'
+  crc: '0x5d773b74'
+- name: TMDLIB
+  size: 30343
+  date: '1993-02-19T18:59:46'
+  crc: '0xab92dbed'
+- name: TMGIDX
+  size: 2772
+  date: '1993-02-19T18:09:50'
+  crc: '0x758d11f7'
+- name: TMGLIB
+  size: 515095
+  date: '1993-02-19T18:09:50'
+  crc: '0xce04f451'
+- name: TMMIDX
+  size: 330
+  date: '1993-02-19T18:59:46'
+  crc: '0x3e1102ae'
+- name: TMMLIB
+  size: 1700
+  date: '1993-02-19T18:59:46'
+  crc: '0xae0b786d'
+- name: USER.DAT
+  size: 70
+  date: '2005-10-09T12:30:42'
+  crc: '0xf790ab50'
+- name: WSEGODIC.FNT
+  size: 4096
+  date: '1993-02-19T18:59:46'
+  crc: '0x48dbe167'
+- name: WSEMYONG.FNT
+  size: 4096
+  date: '1993-02-19T18:59:46'
+  crc: '0x48dbe167'
+- name: WSHGODIC.FNT
+  size: 11520
+  date: '1993-02-19T18:59:46'
+  crc: '0x977d837a'
+- name: WSHMYONG.FNT
+  size: 11520
+  date: '1993-02-19T18:59:46'
+  crc: '0x4c573835'

@@ -1,0 +1,105 @@
+filename: Escape from Monster-Castle (De) [SW] (1993)(Thomas Ehlers und Michael Rieck) [Action].zip
+tdc_id: '9009.0'
+title:
+  screen: Escape from Monster-Castle
+publisher: Thomas Ehlers und Michael Rieck
+year: '1993'
+genre: Action
+language: German
+date:
+  added: '2019-03-01T19:07:12'
+  last_modified: '2019-03-01T19:07:12'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: ESCAPE.EXE
+references:
+  dosid: DOS07797
+  exodos: Escape from Monster-Castle (1993).zip
+files:
+- name: BESTELL.TXT
+  size: 1546
+  date: '1993-09-02T20:16:00'
+  crc: '0x33405f98'
+- name: DATEN\
+  size: 0
+  date: '1993-09-02T20:32:16'
+- name: DATEN\INFO.DAT
+  size: 11502
+  date: '1993-09-02T20:32:18'
+  crc: '0x584fce06'
+- name: DATEN\LEVEL0\
+  size: 0
+  date: '1993-09-02T20:16:54'
+- name: DATEN\LEVEL0\FELD00.FEL
+  size: 1124
+  date: '1993-09-02T20:16:54'
+  crc: '0xaf512329'
+- name: DATEN\LEVEL0\FELD01.FEL
+  size: 1604
+  date: '1993-09-02T20:16:54'
+  crc: '0xc77fcecb'
+- name: DATEN\LEVEL0\FELD02.FEL
+  size: 2084
+  date: '1993-09-02T20:16:54'
+  crc: '0x61fc8bc9'
+- name: DATEN\LEVEL0\FELD03.FEL
+  size: 2564
+  date: '1993-09-02T20:16:54'
+  crc: '0x08095479'
+- name: DATEN\LEVEL0\FELD04.FEL
+  size: 3044
+  date: '1993-09-02T20:16:54'
+  crc: '0x1c638b6b'
+- name: DATEN\LEVEL1\
+  size: 0
+  date: '1993-09-02T20:16:56'
+- name: DATEN\LEVEL1\FELD00.FEL
+  size: 4964
+  date: '1993-09-02T20:16:56'
+  crc: '0xb2936d43'
+- name: DATEN\MONSTER.HLP
+  size: 12711
+  date: '1993-09-02T20:16:42'
+  crc: '0x959228b8'
+- name: DATEN\SONDER.DAT
+  size: 56320
+  date: '1993-09-02T20:16:42'
+  crc: '0x77f60f17'
+- name: DATEN\TITEL.BLD
+  size: 77878
+  date: '1993-09-02T20:16:42'
+  crc: '0x477eee92'
+- name: DATEN\ZEICH0.DAT
+  size: 51968
+  date: '1993-09-02T20:32:16'
+  crc: '0x09b6d7c9'
+- name: ESCAPE.EXE
+  size: 141008
+  date: '1993-09-02T20:16:00'
+  crc: '0x425a575e'
+- name: FILELIST.TXT
+  size: 1316
+  date: '1993-09-02T20:16:00'
+  crc: '0x63219e7f'
+- name: README.TXT
+  size: 2346
+  date: '1993-09-02T20:16:00'
+  crc: '0x00cb1a4e'
+- name: TEXTE\
+  size: 0
+  date: '1993-09-02T20:17:10'
+- name: TEXTE\EDIT.TXT
+  size: 7115
+  date: '1993-09-02T20:17:10'
+  crc: '0xf250204c'
+- name: TEXTE\FELDEDIT.TXT
+  size: 11871
+  date: '1993-09-02T20:17:10'
+  crc: '0xa111b230'
+- name: TEXTE\SPIEL.TXT
+  size: 10042
+  date: '1993-09-02T20:17:10'
+  crc: '0x04c9c5e3'

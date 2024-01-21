@@ -1,0 +1,36 @@
+filename: Immortal, The [h2] (1991)(Electronic Arts, Inc.) [Action, Adventure].zip
+tdc_id: '11430.2'
+parent_id: '11430.3'
+title:
+  box: The Immortal
+publisher: Electronic Arts, Inc.
+year: '1991'
+genre:
+- Action
+- Adventure
+language: English
+date:
+  added: '2019-03-01T18:36:22'
+  last_modified: '2019-03-01T18:36:22'
+type: zip
+tags:
+- Hack: 2
+commands:
+  play: IMMORTAL.COM
+files:
+- name: IMM1.LIB
+  size: 181166
+  date: '1991-08-07T10:56:42'
+  crc: '0xbf48efb4'
+- name: IMM2.LIB
+  size: 362044
+  date: '1991-08-07T10:57:36'
+  crc: '0x7840db5c'
+- name: IMMORTAL.COM
+  size: 588
+  date: '1991-09-30T12:48:34'
+  crc: '0x29789878'
+- name: SPUNK.REX
+  size: 53434
+  date: '1991-08-13T17:01:54'
+  crc: '0xc85ae17d'

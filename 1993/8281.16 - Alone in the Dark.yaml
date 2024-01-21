@@ -1,0 +1,173 @@
+filename: Alone in the Dark (1993)(I-Motion, Inc.) [Action, Adventure].zip
+tdc_id: '8281.16'
+parent_id: '8281.15'
+title:
+  box: Alone in the Dark
+publisher: I-Motion, Inc.
+year: '1993'
+genre:
+- Action
+- Adventure
+language: English
+date:
+  added: '2023-08-04T13:36:17'
+  last_modified: '2023-08-04T13:36:17'
+type: zip
+media: 1.44M
+commands:
+  play: ALONE.COM
+references:
+  mobygames: https://www.mobygames.com/game/325/alone-in-the-dark/
+files:
+- name: ALONE.COM
+  size: 3616
+  date: '1992-08-25T15:53:36'
+  crc: '0x3fd335f2'
+- name: CAMERA00.PAK
+  size: 142907
+  date: '1992-10-14T11:58:32'
+  crc: '0x370830fa'
+- name: CAMERA01.PAK
+  size: 209142
+  date: '1992-10-14T12:00:52'
+  crc: '0xcf4fd283'
+- name: CAMERA02.PAK
+  size: 605942
+  date: '1992-10-15T10:56:34'
+  crc: '0x1f444ef6'
+- name: CAMERA03.PAK
+  size: 518797
+  date: '1992-10-15T11:00:38'
+  crc: '0xf73878ca'
+- name: CAMERA04.PAK
+  size: 112740
+  date: '1992-10-15T11:01:56'
+  crc: '0x10471abc'
+- name: CAMERA05.PAK
+  size: 840318
+  date: '1992-10-15T11:13:08'
+  crc: '0xfd012b74'
+- name: CAMERA06.PAK
+  size: 390079
+  date: '1992-10-15T11:16:14'
+  crc: '0x1caf88c1'
+- name: CAMERA07.PAK
+  size: 166951
+  date: '1992-10-15T11:17:30'
+  crc: '0x653a61b1'
+- name: DEFINES.ITD
+  size: 90
+  date: '1993-02-01T20:15:24'
+  crc: '0x95c7f4b9'
+- name: ENDSEQ.PAK
+  size: 43847
+  date: '1992-09-29T09:20:38'
+  crc: '0xb049751f'
+- name: ETAGE00.PAK
+  size: 2653
+  date: '1992-10-22T15:53:40'
+  crc: '0x95275d26'
+- name: ETAGE01.PAK
+  size: 6478
+  date: '1992-10-22T15:54:04'
+  crc: '0x26878e3f'
+- name: ETAGE02.PAK
+  size: 15858
+  date: '1992-10-22T15:54:46'
+  crc: '0x66afa6d9'
+- name: ETAGE03.PAK
+  size: 15176
+  date: '1993-02-01T21:17:50'
+  crc: '0xbae83da5'
+- name: ETAGE04.PAK
+  size: 2050
+  date: '1992-10-22T15:55:38'
+  crc: '0xaab44109'
+- name: ETAGE05.PAK
+  size: 15515
+  date: '1993-02-01T20:59:16'
+  crc: '0x0a805277'
+- name: ETAGE06.PAK
+  size: 6411
+  date: '1992-10-22T15:56:40'
+  crc: '0x8cc668d6'
+- name: ETAGE07.PAK
+  size: 2071
+  date: '1992-10-22T15:56:54'
+  crc: '0x858f2f5a'
+- name: INDARK.CC1
+  size: 70078
+  date: '1993-02-01T17:40:06'
+  crc: '0xea542bb1'
+- name: INDARK.CC_
+  size: 70078
+  date: '1993-02-01T17:40:06'
+  crc: '0x3596f8ac'
+- name: INFO.CC1
+  size: 22588
+  date: '1992-12-29T15:59:12'
+  crc: '0xa0792570'
+- name: INFO.TAT
+  size: 560
+  date: '1993-02-03T19:01:24'
+  crc: '0xfce42b58'
+- name: INSTALL.BAT
+  size: 8
+  date: '1993-02-08T11:04:04'
+  crc: '0xc5b46bc0'
+- name: ITD_RESS.PAK
+  size: 361916
+  date: '1993-01-29T10:36:26'
+  crc: '0xdb66e5b3'
+- name: LISTANI2.PAK
+  size: 59810
+  date: '1993-02-09T14:37:52'
+  crc: '0xb8bd8818'
+- name: LISTANIM.PAK
+  size: 59818
+  date: '1993-02-09T14:37:10'
+  crc: '0x6de1faf6'
+- name: LISTBOD2.PAK
+  size: 268430
+  date: '1993-01-04T16:12:26'
+  crc: '0x444e8085'
+- name: LISTBODY.PAK
+  size: 264831
+  date: '1993-01-04T16:10:28'
+  crc: '0xd134aaf4'
+- name: LISTLIFE.PAK
+  size: 74714
+  date: '1993-02-01T20:18:00'
+  crc: '0x7a2806f8'
+- name: LISTMUS.PAK
+  size: 12469
+  date: '1993-01-04T16:14:50'
+  crc: '0x0d83929a'
+- name: LISTSAMP.PAK
+  size: 1051844
+  date: '1993-01-04T16:14:40'
+  crc: '0x55021267'
+- name: LISTTRAK.PAK
+  size: 3696
+  date: '1993-02-01T20:18:06'
+  crc: '0x9a0c80f9'
+- name: OBJETS.ITD
+  size: 15186
+  date: '1993-02-01T20:15:26'
+  crc: '0xe5758859'
+- name: PRESENT.PAK
+  size: 267190
+  date: '1992-11-25T15:17:48'
+  crc: '0xece04fbc'
+- name: PRIORITY.ITD
+  size: 105
+  date: '1993-02-01T20:15:24'
+  crc: '0x07938776'
+- name: USA.PAK
+  size: 28672
+  date: '1993-02-10T11:38:24'
+  crc: '0xdb98377e'
+- name: VARS.ITD
+  size: 414
+  date: '1993-02-01T20:15:26'
+  crc: '0x91f59b08'

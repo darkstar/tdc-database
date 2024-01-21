@@ -1,0 +1,28 @@
+filename: Jack's Game (1996)(Jacques Mallah) [Action].zip
+tdc_id: '11615.0'
+title:
+  screen: Jack's Game
+publisher: Jacques Mallah
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:10:32'
+  last_modified: '2019-03-02T10:10:32'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 23
+  date: '2018-03-16T15:16:28'
+  crc: '0x88477964'
+- name: JGS.BAS
+  size: 13442
+  date: '2018-03-10T00:53:34'
+  crc: '0x15412527'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'

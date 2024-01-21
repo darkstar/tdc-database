@@ -1,0 +1,90 @@
+filename: FIDO v1.8 (Ru) (1999)(Yuri Nesterenko) [Strategy].zip
+tdc_id: '13553.0'
+title:
+  screen: FIDO
+publisher: Yuri Nesterenko
+year: '1999'
+genre: Strategy
+language: Russian
+date:
+  added: '2019-03-02T10:46:06'
+  last_modified: '2019-03-02T10:46:06'
+version: '1.8'
+type: zip
+commands:
+  play: FIDO.EXE
+files:
+- name: 1.BIN
+  size: 1600
+  date: '1998-01-31T06:56:40'
+  crc: '0x12f31452'
+- name: 10.BIN
+  size: 1600
+  date: '1998-01-31T23:40:52'
+  crc: '0x49db606e'
+- name: 2.BIN
+  size: 1600
+  date: '1998-01-31T07:42:42'
+  crc: '0x6c827d80'
+- name: 3.BIN
+  size: 1600
+  date: '1998-01-31T08:09:08'
+  crc: '0xc377cf0b'
+- name: 4.BIN
+  size: 1600
+  date: '1998-02-01T06:22:18'
+  crc: '0xa18a3e27'
+- name: 5.BIN
+  size: 1600
+  date: '1998-02-01T00:29:58'
+  crc: '0x090fac49'
+- name: 6.BIN
+  size: 1600
+  date: '1998-02-06T07:15:32'
+  crc: '0xa282eb69'
+- name: 7.BIN
+  size: 1600
+  date: '1998-01-31T09:09:16'
+  crc: '0x59dd7390'
+- name: 8.BIN
+  size: 1600
+  date: '1998-01-31T09:25:58'
+  crc: '0x3bb77033'
+- name: 9.BIN
+  size: 1600
+  date: '1998-01-31T09:52:06'
+  crc: '0x2b1025b6'
+- name: FIDO.EXE
+  size: 47188
+  date: '2003-06-11T14:31:56'
+  crc: '0x3bfa87a2'
+- name: FIDOLOGO.BMP
+  size: 308278
+  date: '1999-06-29T17:13:26'
+  crc: '0x2648af73'
+- name: FILES
+  size: 470
+  date: '2001-08-27T22:59:52'
+  crc: '0x206f3f1b'
+- name: README.FID
+  size: 11430
+  date: '2005-03-04T18:30:10'
+  crc: '0x13d8b0b6'
+- name: SRC\
+  size: 0
+  date: '2012-11-09T22:41:26'
+- name: SRC\C\
+  size: 0
+  date: '2012-11-09T22:41:08'
+- name: SRC\C\WNDS.C
+  size: 6759
+  date: '2012-11-09T22:41:08'
+  crc: '0x530eee64'
+- name: SRC\DATE.CPP
+  size: 5127
+  date: '2012-11-09T22:41:08'
+  crc: '0x5e9035bc'
+- name: SRC\FIDO.CPP
+  size: 89445
+  date: '2012-11-09T22:41:08'
+  crc: '0x7aebbe48'

@@ -1,0 +1,29 @@
+filename: Space Man Fred v1.1 (1996)(Ben Kington) [Action].zip
+tdc_id: '439.0'
+title:
+  screen: Space Man Fred
+publisher: Ben Kington
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:18:44'
+  last_modified: '2019-03-02T10:18:44'
+version: '1.1'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 28
+  date: '2018-04-15T16:50:20'
+  crc: '0xee68a8ff'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T01:28:02'
+  crc: '0x19f6ed75'
+- name: SPACEMAN.BAS
+  size: 9568
+  date: '2018-04-15T16:51:28'
+  crc: '0xae328bd8'

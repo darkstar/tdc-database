@@ -1,0 +1,63 @@
+filename: Indianapolis 500- The Simulation (1989)(Electronic Arts, Inc.) [Racing - Driving, Simulation, Sports].zip
+tdc_id: '11480.0'
+parent_id: '11480.2'
+title:
+  box: 'Indianapolis 500: The Simulation'
+publisher: Electronic Arts, Inc.
+year: '1989'
+genre:
+- Racing - Driving
+- Simulation
+- Sports
+language: English
+date:
+  added: '2022-02-19T03:59:10'
+  last_modified: '2022-02-19T03:59:10'
+type: zip
+commands:
+  play: INDY.EXE
+files:
+- name: DEFSET.1
+  size: 54
+  date: '1989-12-22T12:00:00'
+  crc: '0xc935c83a'
+- name: DEFSET.2
+  size: 54
+  date: '1989-12-22T12:00:00'
+  crc: '0x0ac84516'
+- name: DEFSET.3
+  size: 54
+  date: '1989-12-22T12:00:00'
+  crc: '0xd9fb5096'
+- name: INDY.1
+  size: 160701
+  date: '1989-12-22T12:00:00'
+  crc: '0x731c24a6'
+- name: INDY.2
+  size: 245201
+  date: '1989-12-22T12:00:00'
+  crc: '0xc0c36091'
+- name: INDY.EXE
+  size: 159511
+  date: '1989-12-22T12:00:00'
+  crc: '0xdb0bc427'
+- name: INDY.EX_
+  size: 159511
+  date: '1989-12-22T12:00:00'
+  crc: '0x375e09f0'
+- name: REPLAY
+  size: 65964
+  date: '1989-12-22T12:00:00'
+  crc: '0x2bb7cdab'
+- name: SETTING.1
+  size: 54
+  date: '1989-12-22T12:00:00'
+  crc: '0x0d5308fd'
+- name: SETTING.2
+  size: 54
+  date: '1989-12-22T12:00:00'
+  crc: '0x587a756c'
+- name: SETTING.3
+  size: 54
+  date: '1989-12-22T12:00:00'
+  crc: '0xc935c83a'

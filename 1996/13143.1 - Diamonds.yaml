@@ -1,0 +1,51 @@
+filename: Diamonds v2.0 (En)(De) [SWR] (1996)(Ralf Zwanziger) [Action].zip
+tdc_id: '13143.1'
+title:
+  screen: Diamonds
+publisher: Ralf Zwanziger
+year: '1996'
+genre: Action
+language:
+- English
+- German
+date:
+  added: '2019-03-02T10:03:20'
+  last_modified: '2022-08-31T09:31:28'
+version: '2.0'
+type: zip
+tags:
+- SharewareRegistered
+commands:
+  play: DIAMONDS.EXE
+references:
+  dosid: DOS16000
+  exodos: Diamonds (1996).zip
+files:
+- name: DIAMONDS.EXE
+  size: 132912
+  date: '1996-07-19T23:43:56'
+  crc: '0x0915bc47'
+- name: DIAMONDS.HSC
+  size: 363
+  date: '2013-04-27T10:53:10'
+  crc: '0x3c09c82a'
+- name: DIAMONDS.LVL
+  size: 6050
+  date: '1996-07-19T22:40:28'
+  crc: '0x335d07ed'
+- name: DIAMONDS.SPR
+  size: 73428
+  date: '1996-06-29T22:48:26'
+  crc: '0xe6cc3f8d'
+- name: DIAMONDS.UCD
+  size: 48
+  date: '2013-04-27T10:52:02'
+  crc: '0xdd7d5f9a'
+- name: LITT.CHR
+  size: 5131
+  date: '1992-12-03T07:00:00'
+  crc: '0xfeac5336'
+- name: TSENG256.BGI
+  size: 4754
+  date: '1990-11-20T02:00:00'
+  crc: '0xcf096bd1'

@@ -1,0 +1,39 @@
+filename: Weapons (1993)(Cybernectic Research Laboratories) [Educational].zip
+tdc_id: '7494.0'
+title:
+  screen: Weapons
+publisher: Cybernectic Research Laboratories
+year: '1993'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T21:11:40'
+  last_modified: '2019-03-01T21:11:40'
+type: zip
+commands:
+  play: WEAPONS.EXE
+files:
+- name: AUTOPTR.CFG
+  size: 29
+  date: '1993-11-01T18:43:06'
+  crc: '0xf0dd79fc'
+- name: GUNSIMG.GXL
+  size: 7818158
+  date: '1993-10-26T19:50:46'
+  crc: '0xad35f614'
+- name: GUNSTAG.GXL
+  size: 335954
+  date: '1993-12-01T22:20:20'
+  crc: '0xe5d08d70'
+- name: GUNSTXT.GXL
+  size: 177712
+  date: '1993-12-01T22:21:10'
+  crc: '0x66d37c1e'
+- name: GXPRINT.GXL
+  size: 64478
+  date: '1993-02-15T01:00:00'
+  crc: '0xf2902187'
+- name: WEAPONS.EXE
+  size: 470368
+  date: '1993-11-02T23:23:32'
+  crc: '0xc6c124f7'

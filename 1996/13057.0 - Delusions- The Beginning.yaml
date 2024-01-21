@@ -1,0 +1,41 @@
+filename: Delusions- The Beginning (Installer) (1996)(U-NEEK Software) [Action].zip
+tdc_id: '13057.0'
+title:
+  screen: 'Delusions: The Beginning'
+publisher: U-NEEK Software
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2015-02-07T20:14:08'
+  last_modified: '2015-02-07T20:14:08'
+type: zip
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 297
+  date: '1996-06-25T12:26:38'
+  crc: '0x745e68f2'
+- name: INSTALL.EXE
+  size: 80564
+  date: '1996-05-29T13:11:08'
+  crc: '0xc40ae4ca'
+- name: INSTALL.INI
+  size: 1006
+  date: '1996-05-29T13:17:34'
+  crc: '0x16d02e93'
+- name: PACK1.PRG
+  size: 1375232
+  date: '1996-05-29T13:12:54'
+  crc: '0x954ca666'
+- name: PACK2.PRG
+  size: 1457152
+  date: '1996-05-29T13:15:24'
+  crc: '0x0dbbba01'
+- name: PACK3.PRG
+  size: 1283450
+  date: '1996-05-29T13:17:18'
+  crc: '0x97119886'

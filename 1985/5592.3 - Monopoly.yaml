@@ -1,0 +1,36 @@
+filename: Monopoly v5.5 (1985)(Don Phillip Gibson) [Strategy, Board][!].zip
+tdc_id: '5592.3'
+title:
+  screen: Monopoly
+publisher: Don Phillip Gibson
+year: '1985'
+genre:
+- Strategy
+- Board
+language: English
+date:
+  added: '2019-03-01T18:24:30'
+  last_modified: '2019-03-01T18:24:30'
+version: '5.5'
+type: zip
+tags:
+- KnownGood
+commands:
+  play: MONOPOLY.COM
+files:
+- name: MONOCODE.000
+  size: 10496
+  date: '1986-03-03T17:52:04'
+  crc: '0xdb32397f'
+- name: MONOCODE.CHN
+  size: 47905
+  date: '1986-03-03T17:52:42'
+  crc: '0x398d9131'
+- name: MONOGRAF.GRA
+  size: 13774
+  date: '1985-11-16T14:49:56'
+  crc: '0x0b57e940'
+- name: MONOPOLY.COM
+  size: 12247
+  date: '1986-03-03T17:53:24'
+  crc: '0x178fc410'

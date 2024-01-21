@@ -1,0 +1,32 @@
+filename: Disney's Aladdin Demo (Installer) (1994)(Virgin Interactive Entertainment, Inc.) [Action].zip
+tdc_id: '6591.4'
+parent_id: '6591.7'
+title:
+  screen: Disney's Aladdin Demo
+publisher: Virgin Interactive Entertainment, Inc.
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T21:56:10'
+  last_modified: '2019-03-01T21:56:10'
+type: zip
+installer: true
+demo: true
+files:
+- name: DISK1.DAT
+  size: 1340499
+  date: '1994-11-20T18:12:34'
+  crc: '0x585f4122'
+- name: INSTALL.BAT
+  size: 988
+  date: '1994-11-19T11:56:22'
+  crc: '0xaf861326'
+- name: LHA.EXE
+  size: 35762
+  date: '1993-04-01T02:55:04'
+  crc: '0x36b8e751'
+- name: README
+  size: 1141
+  date: '1994-11-19T14:45:02'
+  crc: '0x20723973'

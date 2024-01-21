@@ -1,0 +1,38 @@
+filename: Rings of Medusa v1.30 (Installer) (De) (1994)(Topshots) [Strategy].zip
+tdc_id: '9964.0'
+parent_id: '9964.3'
+title:
+  box: Rings of Medusa
+  qualifier: Installer
+publisher: Topshots
+year: '1994'
+genre: Strategy
+language: German
+date:
+  added: '2023-09-02T13:25:55'
+  last_modified: '2023-09-02T13:25:55'
+version: '1.30'
+type: zip
+media: 720K
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/6203/rings-of-medusa/
+files:
+- name: 0001.EXE
+  size: 594980
+  date: '1993-08-03T09:38:28'
+  crc: '0xc522aa51'
+- name: INSTALL.DAT
+  size: 36
+  date: '1993-04-15T14:05:24'
+  crc: '0xe2b492f0'
+- name: INSTALL.EXE
+  size: 11360
+  date: '1993-04-13T13:54:30'
+  crc: '0x3fe53f82'
+- name: READ.ME
+  size: 514
+  date: '1994-10-10T18:42:42'
+  crc: '0x2f76fa7c'

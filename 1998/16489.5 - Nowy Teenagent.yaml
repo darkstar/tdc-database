@@ -1,0 +1,91 @@
+filename: Nowy Teenagent v2.0 (Pl) (1998)(CD Projekt Sp. z o.o.) [Adventure].zip
+tdc_id: '16489.5'
+title:
+  box: Nowy Teenagent
+publisher: CD Projekt Sp. z o.o.
+year: '1998'
+genre: Adventure
+language: Polish
+date:
+  added: '2022-12-22T14:56:19'
+  last_modified: '2022-12-22T14:56:19'
+version: '2.0'
+type: zip
+commands:
+  play: TEENAGNT.EXE
+  setup: SOUNDSET.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/teen-agent
+files:
+- name: CDLOGO.RES
+  size: 64768
+  date: '1997-12-18T20:00:00'
+  crc: '0x43964e52'
+- name: INSTALUJ.EXE
+  size: 29711
+  date: '1998-01-17T09:52:24'
+  crc: '0xefccf1bb'
+- name: INSTALUJ.PIF
+  size: 967
+  date: '1998-01-17T09:55:52'
+  crc: '0xb2d721da'
+- name: LAN_000.RES
+  size: 535599
+  date: '1997-12-18T20:00:00'
+  crc: '0xf84ad35d'
+- name: LAN_500.RES
+  size: 9538457
+  date: '1997-12-18T20:00:00'
+  crc: '0xaf2dde47'
+- name: OFF.RES
+  size: 2720432
+  date: '1997-12-18T20:00:00'
+  crc: '0x727e7893'
+- name: ON.RES
+  size: 153907
+  date: '1997-12-18T20:00:00'
+  crc: '0x86f9df71'
+- name: ONS.RES
+  size: 173077
+  date: '1997-12-18T20:00:00'
+  crc: '0xdceb0f72'
+- name: SAM_SAM.RES
+  size: 769552
+  date: '1997-12-18T20:00:00'
+  crc: '0x10d9958d'
+- name: SDR.RES
+  size: 14993
+  date: '1997-12-18T20:00:00'
+  crc: '0xac0717d3'
+- name: SOUND.SET
+  size: 5
+  date: '1997-12-18T20:00:00'
+  crc: '0xd292dfbc'
+- name: SOUNDSET.EXE
+  size: 6019
+  date: '1997-12-18T20:00:00'
+  crc: '0x3707e19c'
+- name: SOUNDSET.PIF
+  size: 967
+  date: '1997-12-18T20:00:00'
+  crc: '0x6910482a'
+- name: TEENAGNT.EXE
+  size: 158846
+  date: '1997-12-30T10:52:12'
+  crc: '0x6384d3b8'
+- name: TEENAGNT.EX_
+  size: 87516
+  date: '1997-12-30T10:52:12'
+  crc: '0xdd88accb'
+- name: TEENAGNT.PIF
+  size: 967
+  date: '1997-12-30T10:50:44'
+  crc: '0xd2bf22ef'
+- name: VARIA.RES
+  size: 216683
+  date: '1997-12-18T20:00:00'
+  crc: '0x762d1751'
+- name: VOICES.RES
+  size: 37306128
+  date: '1997-12-18T20:00:00'
+  crc: '0x1abbf1a4'

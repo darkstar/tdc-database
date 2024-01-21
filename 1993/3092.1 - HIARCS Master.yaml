@@ -1,0 +1,81 @@
+filename: HIARCS Master (1993)(Applied Computer Concepts Ltd.) [Strategy, Chess].zip
+tdc_id: '3092.1'
+title:
+  screen: HIARCS Master
+publisher: Applied Computer Concepts Ltd.
+year: '1993'
+genre:
+- Strategy
+- Chess
+language: English
+date:
+  added: '2019-03-01T19:09:38'
+  last_modified: '2019-03-01T19:09:38'
+type: zip
+commands:
+  play: HIARCS.EXE
+files:
+- name: CGALETTE.IMG
+  size: 534
+  date: '1992-05-03T16:43:46'
+  crc: '0x091e1688'
+- name: CGAOLD.BIN
+  size: 265
+  date: '1992-05-30T18:32:40'
+  crc: '0xcf4cad13'
+- name: CGAPIECE.IMG
+  size: 2314
+  date: '1992-04-29T23:14:14'
+  crc: '0x6b25ffc9'
+- name: CGASCREE.BIN
+  size: 265
+  date: '1992-11-16T20:58:08'
+  crc: '0x29325e6a'
+- name: EGALETTE.IMG
+  size: 3624
+  date: '1992-05-03T12:50:28'
+  crc: '0x95a1aec3'
+- name: EGAOLD.BIN
+  size: 276
+  date: '1992-05-29T20:23:28'
+  crc: '0x5a123cc3'
+- name: EGAPIECE.IMG
+  size: 15704
+  date: '1992-04-29T21:46:32'
+  crc: '0x87c598c5'
+- name: EGASCREE.BIN
+  size: 422
+  date: '1993-01-17T14:28:44'
+  crc: '0x93530266'
+- name: HGCLETTE.IMG
+  size: 1104
+  date: '1992-05-05T19:16:58'
+  crc: '0xa31f127a'
+- name: HGCPIECE.IMG
+  size: 4784
+  date: '1992-05-05T20:41:24'
+  crc: '0x48bb10dd'
+- name: HGCSCREE.BIN
+  size: 276
+  date: '1992-11-06T22:26:14'
+  crc: '0x62a19d01'
+- name: HIARCS.EXE
+  size: 188434
+  date: '1993-01-18T10:13:38'
+  crc: '0xa3f33153'
+- name: HiarcsLicense.txt
+  size: 2589
+  date: '2008-07-30T17:47:48'
+  crc: '0x6af6542a'
+- name: OBOOK.HCS
+  size: 108544
+  date: '1992-11-21T22:15:18'
+  crc: '0x94f4184d'
+- name: RATING.HCS
+  size: 8
+  date: '2008-07-30T11:11:48'
+  crc: '0x9a2f60eb'
+- name: TMSRB.FON
+  size: 45936
+  date: '1991-01-18T23:52:26'
+  crc: '0x3518f506'

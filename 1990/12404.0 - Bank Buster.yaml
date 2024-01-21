@@ -1,0 +1,83 @@
+filename: Bank Buster (1990)(ERE Informatique, Eurosoft) [Action].zip
+tdc_id: '12404.0'
+title:
+  box: Bank Buster
+publisher: ERE Informatique, Eurosoft
+year: '1990'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:31:50'
+  last_modified: '2024-01-13T11:06:49'
+type: zip
+commands:
+  play: PLAY.BAT
+references:
+  mobygames: https://www.mobygames.com/game/12690/bank-buster/
+  dosid: DOS15229
+  exodos: Bank Buster (1990).zip
+files:
+- name: ANIMATIE.DAT
+  size: 56192
+  date: '1988-07-13T15:39:26'
+  crc: '0x4e39fa52'
+- name: BANK.CGA
+  size: 8292
+  date: '1990-06-01T12:26:14'
+  crc: '0xabe4f34b'
+- name: BANK.HGC
+  size: 10786
+  date: '1990-06-18T15:15:50'
+  crc: '0x445e16de'
+- name: BK.EXE
+  size: 67084
+  date: '1988-07-13T15:40:06'
+  crc: '0x9e21e737'
+- name: BK.EX_
+  size: 67084
+  date: '1988-07-13T15:40:04'
+  crc: '0x63370d1e'
+- name: DATABLOK.DAT
+  size: 43684
+  date: '1988-07-13T15:38:12'
+  crc: '0xde3fbec7'
+- name: ERE.BAT
+  size: 41
+  date: '1990-06-18T12:46:40'
+  crc: '0x0d0acdcc'
+- name: LOAD.PIC
+  size: 3
+  date: '1990-06-08T11:41:10'
+  crc: '0x927708a1'
+- name: MGA.COM
+  size: 493
+  date: '1990-08-02T05:22:54'
+  crc: '0x695fc23d'
+- name: MONO.COM
+  size: 10
+  date: '1990-06-13T08:51:50'
+  crc: '0x954bf9c1'
+- name: PLAY.BAT
+  size: 70
+  date: '1990-08-02T10:59:38'
+  crc: '0x150bc49e'
+- name: RECORD.DAT
+  size: 270
+  date: '1988-07-13T15:40:08'
+  crc: '0x8e80ef67'
+- name: SCREENS.PIC
+  size: 64000
+  date: '1988-07-13T15:38:46'
+  crc: '0x053bcdb8'
+- name: SCREENS.SCR
+  size: 83200
+  date: '1988-07-13T13:35:08'
+  crc: '0xf024afd9'
+- name: TEMPO.COM
+  size: 101
+  date: '1990-06-15T10:50:56'
+  crc: '0xe6a126da'
+- name: VIEW.EXE
+  size: 2692
+  date: '1990-06-15T10:51:52'
+  crc: '0x658b9ac4'

@@ -1,0 +1,31 @@
+filename: Super Shooting Acer (1995)(Mike Brent) [Action].zip
+tdc_id: '16313.0'
+title:
+  screen: Super Shooting Acer
+publisher: Mike Brent
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2008-03-02T04:30:10'
+  last_modified: '2008-03-02T04:30:10'
+type: zip
+commands:
+  play: SHOTACER.EXE
+files:
+- name: ALL.BMP
+  size: 65078
+  date: '1995-12-14T09:54:42'
+  crc: '0xd980e1b5'
+- name: SCREEN.BMP
+  size: 65078
+  date: '1995-12-15T17:20:58'
+  crc: '0x43f4d309'
+- name: SHOTACER.DOC
+  size: 1456
+  date: '1995-12-16T10:38:54'
+  crc: '0x34244290'
+- name: SHOTACER.EXE
+  size: 19456
+  date: '1997-01-19T01:07:22'
+  crc: '0x13b782b3'

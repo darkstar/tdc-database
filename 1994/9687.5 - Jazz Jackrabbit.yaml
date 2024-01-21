@@ -1,0 +1,51 @@
+filename: Jazz Jackrabbit v1.1 (Installer) [SWR] (1994)(Epic MegaGames, Inc.) [Action].zip
+tdc_id: '9687.5'
+title:
+  screen: Jazz Jackrabbit
+publisher: Epic MegaGames, Inc.
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T22:01:04'
+  last_modified: '2019-03-01T22:01:04'
+version: '1.1'
+type: zip
+tags:
+- SharewareRegistered
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.BIN
+  size: 4000
+  date: '1997-11-26T07:00:00'
+  crc: '0x75d92d0d'
+- name: INSTALL.DAT
+  size: 25
+  date: '1997-11-26T07:00:00'
+  crc: '0xeec30301'
+- name: INSTALL.EXE
+  size: 21264
+  date: '1997-11-26T07:00:00'
+  crc: '0x9b970def'
+- name: JAZZ16.X00
+  size: 83
+  date: '1997-11-26T07:00:00'
+  crc: '0x314b1137'
+- name: JAZZ16.X01
+  size: 1430528
+  date: '1997-11-26T07:00:00'
+  crc: '0xdd04e570'
+- name: JAZZ16.X02
+  size: 1457152
+  date: '1997-11-26T07:00:00'
+  crc: '0x3ce1b16a'
+- name: JAZZ16.X03
+  size: 1457152
+  date: '1997-11-26T07:00:00'
+  crc: '0x2f1fc20a'
+- name: JAZZ16.Z04
+  size: 1436537
+  date: '1997-11-26T07:00:00'
+  crc: '0x22ed7e8e'

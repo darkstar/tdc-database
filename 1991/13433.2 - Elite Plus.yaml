@@ -1,0 +1,38 @@
+filename: Elite Plus [h1] (1991)(Microplay Software) [Simulation].zip
+tdc_id: '13433.2'
+parent_id: '13433.3'
+title:
+  box: Elite Plus
+publisher: Microplay Software
+year: '1991'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:35:48'
+  last_modified: '2019-03-01T18:35:48'
+type: zip
+tags:
+- Hack: 1
+commands:
+  play: ELITE.EXE
+files:
+- name: ADBLUE.MID
+  size: 8258
+  date: '1985-11-20T04:43:10'
+  crc: '0x13270f81'
+- name: BLUTEST.MID
+  size: 10818
+  date: '1985-11-20T00:53:10'
+  crc: '0x7c77ec05'
+- name: ELITE.EXE
+  size: 72936
+  date: '1995-10-05T16:50:42'
+  crc: '0x0ac44c8f'
+- name: ELITE.GRF
+  size: 278597
+  date: '1990-12-06T10:11:58'
+  crc: '0xaec49801'
+- name: RFX.MID
+  size: 10177
+  date: '1990-12-29T17:28:44'
+  crc: '0x3f34d46f'

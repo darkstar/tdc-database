@@ -1,0 +1,83 @@
+filename: Blue Force v1.10 (Installer) (1993)(Tsunami Media, Inc.) [Adventure].zip
+tdc_id: '8522.1'
+title:
+  box: Blue Force
+publisher: Tsunami Media, Inc.
+year: '1993'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T19:01:38'
+  last_modified: '2019-03-01T19:01:38'
+version: '1.10'
+type: zip
+installer: true
+files:
+- name: AUTOEXEC.RW
+  size: 22
+  date: '1992-12-31T09:41:40'
+  crc: '0xc92101ee'
+- name: BLUE.#02
+  size: 1457564
+  date: '1993-05-25T13:58:38'
+  crc: '0x58ce3363'
+- name: BLUE.#03
+  size: 1457564
+  date: '1993-05-25T14:00:06'
+  crc: '0x14004d9f'
+- name: BLUE.#04
+  size: 1457564
+  date: '1993-05-25T14:01:34'
+  crc: '0x095c5a9a'
+- name: BLUE.#05
+  size: 1457564
+  date: '1993-05-25T14:02:58'
+  crc: '0xc14fb8d9'
+- name: BLUE.#06
+  size: 1457564
+  date: '1993-05-25T14:04:26'
+  crc: '0xc2dfec29'
+- name: BLUE.#07
+  size: 1457564
+  date: '1993-05-25T14:05:52'
+  crc: '0x49dda435'
+- name: BLUE.#08
+  size: 130768
+  date: '1993-05-25T14:06:20'
+  crc: '0x47787ac3'
+- name: BLUE.EXE
+  size: 580103
+  date: '1993-06-03T17:29:12'
+  crc: '0x319691e5'
+- name: BLUE.RLB
+  size: 1156508
+  date: '1993-05-25T13:51:18'
+  crc: '0x54155c3a'
+- name: CONFIG.RW
+  size: 32
+  date: '1992-12-31T09:38:46'
+  crc: '0x4e528fd3'
+- name: FILES.RLB
+  size: 183973
+  date: '1993-06-16T02:29:44'
+  crc: '0x6c2820e7'
+- name: INSTALL.EXE
+  size: 226784
+  date: '1993-06-01T14:31:46'
+  crc: '0x803a643e'
+- name: INSTALL.RLB
+  size: 9021
+  date: '1993-05-23T14:46:44'
+  crc: '0x56ff841d'
+- name: JOIN.EXE
+  size: 10405
+  date: '1993-02-24T14:03:10'
+  crc: '0x967dcca1'
+- name: TSAGE.CFG
+  size: 482
+  date: '1993-05-25T15:04:50'
+  crc: '0xc6c33819'
+- name: TSAGE.RLB
+  size: 38865
+  date: '1993-06-01T14:43:02'
+  crc: '0xce6a817a'

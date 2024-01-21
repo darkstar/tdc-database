@@ -1,0 +1,48 @@
+filename: Valhalla (Installer) (1993)(Optyk) [Role-Playing (RPG)].zip
+tdc_id: '14706.6'
+title:
+  box: Valhalla
+publisher: Optyk
+year: '1993'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T21:11:14'
+  last_modified: '2019-03-01T21:11:14'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 18768
+  date: '2001-05-28T21:47:04'
+  crc: '0x5c34552e'
+- name: VALHALLA.A
+  size: 306595
+  date: '1992-12-07T14:46:04'
+  crc: '0xaa18563f'
+- name: VALHALLA.B
+  size: 360526
+  date: '1992-12-03T11:44:56'
+  crc: '0xd77c8607'
+- name: VALHALLA.C
+  size: 338712
+  date: '1992-12-03T11:39:16'
+  crc: '0xb71d80e9'
+- name: VALHALLA.D
+  size: 360520
+  date: '1992-12-03T11:34:08'
+  crc: '0x54b5761d'
+- name: VALHALLA.E
+  size: 349255
+  date: '1992-12-03T12:34:38'
+  crc: '0x8041af9d'
+- name: VALHALLA.F
+  size: 351990
+  date: '1992-12-03T12:35:18'
+  crc: '0xbfa39bab'
+- name: VALHALLA.G
+  size: 312845
+  date: '1992-12-03T12:35:56'
+  crc: '0x3c3bd06d'

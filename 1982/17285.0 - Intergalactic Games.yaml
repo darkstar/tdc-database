@@ -1,0 +1,28 @@
+filename: Intergalactic Games (1982)(Usborne Publishing Ltd) [Puzzle].zip
+tdc_id: '17285.0'
+title:
+  screen: Intergalactic Games
+publisher: Usborne Publishing Ltd
+year: '1982'
+genre: Puzzle
+language: English
+date:
+  added: '2023-03-16T07:39:26'
+  last_modified: '2023-03-16T07:39:26'
+type: zip
+media: Type-In
+commands:
+  play: Go.bat
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T12:00:00'
+  crc: '0x92293842'
+- name: Go.bat
+  size: 15
+  date: '2022-08-03T19:50:54'
+  crc: '0x8a9e3b28'
+- name: intergal.bas
+  size: 661
+  date: '2022-08-01T20:56:12'
+  crc: '0x92ded33c'

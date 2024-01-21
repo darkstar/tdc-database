@@ -1,0 +1,30 @@
+filename: C.I.A. Adventure (1982)(International PC Owners) [Adventure, Interactive Fiction].zip
+tdc_id: '12113.0'
+title:
+  screen: C.I.A. Adventure
+publisher: International PC Owners
+year: '1982'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:22:56'
+  last_modified: '2019-03-01T18:22:56'
+type: zip
+references:
+  dosid: DOS01388
+  exodos: CIA Adventure (1982).zip
+files:
+- name: Basica.exe
+  size: 88640
+  date: '2001-02-16T08:07:50'
+  crc: '0x0ebd8da0'
+- name: CIA.BAS
+  size: 17837
+  date: '1983-10-29T11:05:52'
+  crc: '0xb760a5a2'
+- name: Runme.bat
+  size: 16
+  date: '2004-04-01T06:41:36'
+  crc: '0x7c7c22e7'

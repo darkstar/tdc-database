@@ -1,0 +1,56 @@
+filename: Amulet of Yendor (1985)(Don Kneller) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '12300.0'
+title:
+  screen: Amulet of Yendor
+publisher: Don Kneller
+year: '1985'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:24:20'
+  last_modified: '2019-03-01T18:24:20'
+type: zip
+commands:
+  play: HACK.EXE
+files:
+- name: '#452 V1_.1'
+  size: 0
+  date: '1986-03-06T02:11:10'
+- name: -CONTENT
+  size: 1280
+  date: '1985-10-06T15:45:06'
+  crc: '0xd95d70da'
+- name: DATA
+  size: 8724
+  date: '1985-05-08T09:12:38'
+  crc: '0x397939c4'
+- name: FILES452.TXT
+  size: 1111
+  date: '1985-11-16T14:35:40'
+  crc: '0xd288511e'
+- name: HACK.DOC
+  size: 9142
+  date: '1985-05-08T09:13:16'
+  crc: '0x06babeb0'
+- name: HACK.EXE
+  size: 223360
+  date: '1985-05-08T09:13:14'
+  crc: '0xf2ea9c2f'
+- name: HACK.MSG
+  size: 6144
+  date: '1985-09-03T02:43:32'
+  crc: '0xf51ab667'
+- name: HELP
+  size: 4802
+  date: '1985-05-08T09:12:34'
+  crc: '0xd7e58dbf'
+- name: RECORD
+  size: 29
+  date: '1985-05-08T09:12:38'
+  crc: '0xea0af490'
+- name: RUMORS
+  size: 11606
+  date: '1985-05-08T09:12:34'
+  crc: '0x3df279c6'

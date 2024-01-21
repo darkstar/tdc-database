@@ -1,0 +1,31 @@
+filename: Palmer Golf (Brown University Country Club) [SW] (1983)(Dynacomp Inc.) [Simulation, Sports].zip
+tdc_id: '10611.0'
+title:
+  screen: Palmer Golf (Brown University Country Club)
+publisher: Dynacomp Inc.
+year: '1983'
+genre:
+- Simulation
+- Sports
+language: English
+date:
+  added: '2019-09-02T05:04:06'
+  last_modified: '2019-09-02T05:04:06'
+type: zip
+tags:
+- Shareware
+commands:
+  play: PALMER.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T12:00:00'
+  crc: '0x92293842'
+- name: PALMER.BAS
+  size: 5760
+  date: '1983-01-07T13:00:00'
+  crc: '0x16b87bc5'
+- name: PALMER.BAT
+  size: 16
+  date: '1980-01-01T12:00:00'
+  crc: '0x7358a9ba'

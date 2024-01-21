@@ -1,0 +1,51 @@
+filename: AhiBombers v1.0b (2005)(Pc72) [Action, Strategy].zip
+tdc_id: '8172.0'
+title:
+  screen: AhiBombers
+publisher: Pc72
+year: '2005'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-02T10:57:02'
+  last_modified: '2019-03-02T10:57:02'
+version: 1.0b
+type: zip
+media: Download
+commands:
+  play: play.bat
+files:
+- name: AHIBOMB.BAS
+  size: 23165
+  date: '2005-12-04T16:24:56'
+  crc: '0xc2afd8d8'
+- name: AHIBOMB1.DAT
+  size: 64007
+  date: '2005-12-04T00:35:56'
+  crc: '0xfe213564'
+- name: AHIBOMB2.DAT
+  size: 15367
+  date: '2005-12-04T02:37:20'
+  crc: '0xf664b90a'
+- name: AZ-P.BAS
+  size: 4877
+  date: '2005-12-05T23:59:28'
+  crc: '0x298e8459'
+- name: ENGINE.TXT
+  size: 834
+  date: '2005-12-06T00:01:30'
+  crc: '0x5509531a'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1995-07-11T10:50:00'
+  crc: '0x3152911c'
+- name: README.TXT
+  size: 4816
+  date: '2005-12-04T16:24:52'
+  crc: '0xedab4ead'
+- name: play.bat
+  size: 25
+  date: '2014-02-27T10:15:34'
+  crc: '0x7a437f85'

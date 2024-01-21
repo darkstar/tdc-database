@@ -1,0 +1,64 @@
+filename: Gravitar v0.50 (1993)(TOR Software) [Action].zip
+tdc_id: '10900.0'
+title:
+  screen: Gravitar
+publisher: TOR Software
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T19:09:22'
+  last_modified: '2019-03-01T19:09:22'
+version: '0.50'
+type: zip
+commands:
+  play: GRAVITAR.EXE
+files:
+- name: EGAVGA.BGI
+  size: 5554
+  date: '1990-05-03T13:00:00'
+  crc: '0x116c5498'
+- name: FUEL.DAT
+  size: 202
+  date: '1993-01-22T04:55:20'
+  crc: '0x2a04e733'
+- name: GRAVITAR.DOC
+  size: 4293
+  date: '1993-01-23T00:57:50'
+  crc: '0x382357e6'
+- name: GRAVITAR.EXE
+  size: 97920
+  date: '1993-01-22T07:03:12'
+  crc: '0x7125c5d7'
+- name: GRAVITAR.PIC
+  size: 38088
+  date: '1992-12-22T07:07:04'
+  crc: '0xfc4bbcb8'
+- name: GUN.DAT
+  size: 3488
+  date: '1993-01-22T05:02:12'
+  crc: '0x8847a587'
+- name: G_ALPHA.TXT
+  size: 1970
+  date: '1992-12-19T05:50:54'
+  crc: '0x6f89b6e7'
+- name: LAND.DAT
+  size: 4116
+  date: '1993-01-22T04:40:08'
+  crc: '0x6e3ac219'
+- name: SOL1.PIC
+  size: 3387
+  date: '1991-04-07T19:57:24'
+  crc: '0xdd12bbfe'
+- name: SOL2.PIC
+  size: 5132
+  date: '1991-04-07T19:58:04'
+  crc: '0x54280afe'
+- name: SOL3.PIC
+  size: 4007
+  date: '1991-04-07T19:58:14'
+  crc: '0x1e955021'
+- name: SUN.PIC
+  size: 33965
+  date: '1991-07-21T17:56:06'
+  crc: '0x94d5061e'

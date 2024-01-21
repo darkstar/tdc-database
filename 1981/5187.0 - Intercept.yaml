@@ -1,0 +1,36 @@
+filename: Intercept (1981)(Michael D. Wile) [Adventure, Interactive Fiction].zip
+tdc_id: '5187.0'
+title:
+  screen: Intercept
+publisher: Michael D. Wile
+year: '1981'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:22:54'
+  last_modified: '2019-03-01T18:22:54'
+type: zip
+commands:
+  play: INTERC.BAT
+references:
+  dosid: DOS00072
+  exodos: Intercept (1981).zip
+files:
+- name: INTER.EXE
+  size: 43493
+  date: '1987-10-25T07:37:26'
+  crc: '0x5754bfed'
+- name: INTERC.BAT
+  size: 37
+  date: '1987-10-24T17:33:10'
+  crc: '0x910b0929'
+- name: INTERCEP.EXE
+  size: 3679
+  date: '1987-10-24T17:24:26'
+  crc: '0xc83b9e9b'
+- name: INTERCEP.TXT
+  size: 919
+  date: '1993-02-22T02:33:22'
+  crc: '0xe37655e8'

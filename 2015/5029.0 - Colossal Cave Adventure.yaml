@@ -1,0 +1,34 @@
+filename: Colossal Cave Adventure (366 points) (2015)(Willie Crowther, Don Woods, Heath User's Group) [Adventure, Interactive Fiction].zip
+tdc_id: '5029.0'
+title:
+  screen: Colossal Cave Adventure
+  qualifier: 366 points
+publisher: Willie Crowther, Don Woods, Heath User's Group
+year: '2015'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2020-10-21T06:55:16'
+  last_modified: '2020-10-21T06:55:16'
+type: zip
+commands:
+  play: advent.exe
+files:
+- name: advent.exe
+  size: 66996
+  date: '2015-01-01T13:10:46'
+  crc: '0x3df7ebeb'
+- name: aindx.dat
+  size: 12220
+  date: '2015-01-01T13:12:54'
+  crc: '0xfffc22c3'
+- name: atext.dat
+  size: 68096
+  date: '2015-01-01T13:12:22'
+  crc: '0x68387437'
+- name: readme.doc
+  size: 2432
+  date: '2015-01-01T13:12:58'
+  crc: '0x362a8952'

@@ -1,0 +1,42 @@
+filename: Time Hunters Pinball [SWR] (1995)(WSP-Software) [Simulation, Action].zip
+tdc_id: '16729.1'
+title:
+  screen: Time Hunters Pinball
+publisher: WSP-Software
+year: '1995'
+genre:
+- Simulation
+- Action
+language: English
+date:
+  added: '2020-12-19T15:04:22'
+  last_modified: '2020-12-19T15:04:22'
+type: zip
+tags:
+- SharewareRegistered
+commands:
+  play: THP.EXE
+references:
+  dosid: DOS16135
+  exodos: Time Hunters Pinball (1995).zip
+files:
+- name: DOS4GW.EXE
+  size: 265420
+  date: '1994-09-22T14:07:40'
+  crc: '0xcb214447'
+- name: HISCORE.THP
+  size: 280
+  date: '2015-04-02T13:08:06'
+  crc: '0x84fad56c'
+- name: THP.EXE
+  size: 337027
+  date: '1995-12-07T14:44:20'
+  crc: '0x7a611478'
+- name: THP.ICO
+  size: 766
+  date: '1995-11-19T14:14:20'
+  crc: '0xa0f2d7b8'
+- name: THPIN.MOG
+  size: 3487613
+  date: '1995-11-09T13:04:42'
+  crc: '0xa403baab'

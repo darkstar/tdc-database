@@ -1,0 +1,60 @@
+filename: Spear of Destiny Mission 3- Ultimate Challenge v1.4 (1994)(FormGen, Inc.) [Action].zip
+tdc_id: '15338.1'
+title:
+  box: 'Spear of Destiny Mission 3: Ultimate Challenge'
+publisher: FormGen, Inc.
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T07:16:34'
+  last_modified: '2019-03-02T07:16:34'
+version: '1.4'
+type: zip
+commands:
+  play: SPEAR.EXE
+files:
+- name: AUDIOHED.SOD
+  size: 1072
+  date: '1993-01-05T00:40:00'
+  crc: '0x13ce3958'
+- name: AUDIOT.SOD
+  size: 328620
+  date: '1993-01-05T00:40:00'
+  crc: '0x96d183ec'
+- name: CONFIG.SOD
+  size: 522
+  date: '2011-08-01T17:37:18'
+  crc: '0x77617517'
+- name: GAMEMAPS.SOD
+  size: 148546
+  date: '1994-06-11T19:00:00'
+  crc: '0xca7b1074'
+- name: MAPHEAD.SOD
+  size: 86
+  date: '1994-06-11T19:00:00'
+  crc: '0x912e675e'
+- name: SPEAR.EXE
+  size: 112835
+  date: '1993-01-05T00:40:00'
+  crc: '0xc2ad09f8'
+- name: SPEAR.EX_
+  size: 112835
+  date: '1993-01-05T00:40:00'
+  crc: '0xf8dd4a07'
+- name: VGADICT.SOD
+  size: 1024
+  date: '1993-01-05T00:40:00'
+  crc: '0xb9b960ac'
+- name: VGAGRAPH.SOD
+  size: 947979
+  date: '1993-01-05T00:40:00'
+  crc: '0x5936dddb'
+- name: VGAHEAD.SOD
+  size: 510
+  date: '1993-01-05T00:40:00'
+  crc: '0xdfb1b473'
+- name: VSWAP.SOD
+  size: 1881760
+  date: '1994-06-11T19:00:00'
+  crc: '0x66278287'

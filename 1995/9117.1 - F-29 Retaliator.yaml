@@ -1,0 +1,63 @@
+filename: F-29 Retaliator (Installer) (1995)(Ocean Software Ltd.) [Action, Simulation].zip
+tdc_id: '9117.1'
+parent_id: '9117.3'
+title:
+  box: F-29 Retaliator
+publisher: Ocean Software Ltd.
+year: '1995'
+genre:
+- Action
+- Simulation
+language: English
+date:
+  added: '2020-01-02T22:24:26'
+  last_modified: '2020-01-02T22:24:26'
+type: zip
+installer: true
+files:
+- name: GO.BAT
+  size: 422
+  date: '1995-03-23T09:30:02'
+  crc: '0x303c4c2b'
+- name: HDINSTAL.BAT
+  size: 333
+  date: '1995-03-23T07:55:00'
+  crc: '0xe1bee326'
+- name: OCEAN\
+  size: 0
+  date: '1995-03-22T13:29:38'
+- name: OCEAN\F29\
+  size: 0
+  date: '1995-03-22T13:29:44'
+- name: OCEAN\F29\CDPATCH.EXE
+  size: 2414
+  date: '1995-03-23T08:29:38'
+  crc: '0xb01b0eb5'
+- name: OCEAN\F29\F29.BAT
+  size: 29
+  date: '1995-03-23T07:52:22'
+  crc: '0xe8bbb9cf'
+- name: OCEAN\F29\F29.RNC
+  size: 373972
+  date: '1995-03-23T07:52:30'
+  crc: '0x9b51c4dd'
+- name: OCEAN\F29\HDINST.EXE
+  size: 124104
+  date: '1995-03-23T07:50:46'
+  crc: '0xe78c4e05'
+- name: OCEAN\F29\RETAL.00
+  size: 239317
+  date: '1994-08-10T10:13:32'
+  crc: '0xf02d79e1'
+- name: OCEAN\F29\RETAL.01
+  size: 359326
+  date: '1994-08-10T10:13:32'
+  crc: '0xe2a78493'
+- name: OCEAN\F29\X.EXE
+  size: 68640
+  date: '1994-08-11T21:48:00'
+  crc: '0x6d544b5b'
+- name: README.BAT
+  size: 497
+  date: '1995-03-23T07:54:04'
+  crc: '0x9d67833e'

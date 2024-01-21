@@ -1,0 +1,28 @@
+filename: Tiny Snake (2002)(Frans Boerboom) [Action].zip
+tdc_id: '4862.0'
+title:
+  screen: Tiny Snake
+publisher: Frans Boerboom
+year: '2002'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:56:16'
+  last_modified: '2019-03-02T10:56:16'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 28
+  date: '2018-12-13T17:40:30'
+  crc: '0xc472851d'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: TINYSNAK.BAS
+  size: 2438
+  date: '2018-12-09T09:48:52'
+  crc: '0xe3bb16b5'

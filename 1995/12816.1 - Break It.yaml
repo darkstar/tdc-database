@@ -1,0 +1,35 @@
+filename: Break It (Installer) (De) [SW] (1995)(WSP-Software) [Action].zip
+tdc_id: '12816.1'
+title:
+  screen: Break It
+publisher: WSP-Software
+year: '1995'
+genre: Action
+language: German
+date:
+  added: '2020-02-02T18:09:34'
+  last_modified: '2020-02-02T18:09:34'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: BREAKIT.DAT
+  size: 1225546
+  date: '1996-03-03T13:31:30'
+  crc: '0x31bba5bb'
+- name: BREAKIT.TXT
+  size: 163
+  date: '1996-08-23T16:18:52'
+  crc: '0xf223ecf7'
+- name: INSTALL.ETX
+  size: 151
+  date: '1996-08-23T16:18:52'
+  crc: '0xa12f13c3'
+- name: INSTALL.EXE
+  size: 49842
+  date: '1996-08-23T16:18:52'
+  crc: '0x93c5b824'

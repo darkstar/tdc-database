@@ -1,0 +1,31 @@
+filename: Frigate v1.1 (1988)(Matt Kaufman) [Strategy].zip
+tdc_id: '13814.0'
+title:
+  screen: Frigate
+publisher: Matt Kaufman
+year: '1988'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:26:12'
+  last_modified: '2019-03-01T18:26:12'
+version: '1.1'
+type: zip
+commands:
+  play: FRIGATE.EXE
+references:
+  dosid: DOS02309
+  exodos: Frigate (1989).zip
+files:
+- name: FRIGATE.DOC
+  size: 26873
+  date: '1988-01-29T09:58:50'
+  crc: '0x1e4a43e3'
+- name: FRIGATE.EXE
+  size: 153248
+  date: '1988-01-29T09:58:50'
+  crc: '0x68b3607d'
+- name: READ.ME
+  size: 1160
+  date: '1988-01-28T18:29:38'
+  crc: '0xa9612cc6'

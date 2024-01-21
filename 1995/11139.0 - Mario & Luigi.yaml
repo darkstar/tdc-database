@@ -1,0 +1,27 @@
+filename: Mario & Luigi (1995)(Mike Wiering) [Action].zip
+tdc_id: '11139.0'
+title:
+  screen: Mario & Luigi
+publisher: Mike Wiering
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T08:57:08'
+  last_modified: '2019-03-02T08:57:08'
+type: zip
+commands:
+  play: MARIO.EXE
+files:
+- name: MARIO.CFG
+  size: 75
+  date: '2007-07-22T10:02:16'
+  crc: '0xaa71de31'
+- name: MARIO.DOC
+  size: 699
+  date: '1995-05-09T17:50:00'
+  crc: '0x998e7502'
+- name: MARIO.EXE
+  size: 74876
+  date: '1995-05-09T17:50:00'
+  crc: '0xc58662ac'

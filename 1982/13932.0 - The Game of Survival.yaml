@@ -1,0 +1,31 @@
+filename: Game of Survival, The v01-28-82.5 (1982)(Mike Stafford) [Adventure, Interactive Fiction].zip
+tdc_id: '13932.0'
+title:
+  screen: The Game of Survival
+publisher: Mike Stafford
+year: '1982'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:23:00'
+  last_modified: '2019-03-01T18:23:00'
+version: 01-28-82.5
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 24
+  date: '2019-01-13T23:39:56'
+  crc: '0x05a4a43a'
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1988-10-05T02:00:08'
+  crc: '0x2a44af39'
+- name: SURVIVAL.BAS
+  size: 20480
+  date: '1982-07-17T18:39:32'
+  crc: '0x9b991190'

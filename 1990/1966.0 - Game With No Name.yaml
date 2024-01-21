@@ -1,0 +1,36 @@
+filename: Game With No Name (1990)(Darren Heaton) [Action, Adventure].zip
+tdc_id: '1966.0'
+title:
+  screen: Game With No Name
+publisher: Darren Heaton
+year: '1990'
+genre:
+- Action
+- Adventure
+language: English
+date:
+  added: '2019-03-01T18:32:42'
+  last_modified: '2019-03-01T18:32:42'
+type: zip
+commands:
+  play: NONAME.EXE
+references:
+  dosid: DOS02364
+  exodos: Game With No Name, The (1990).zip
+files:
+- name: HIGH.SCR
+  size: 137
+  date: '1997-10-02T21:28:56'
+  crc: '0x86100316'
+- name: NONAME.EXE
+  size: 29696
+  date: '1994-04-17T14:27:20'
+  crc: '0x858285dd'
+- name: README.DOC
+  size: 1
+  date: '1992-07-07T20:59:24'
+  crc: '0xe96ccf45'
+- name: SCREENS!.ETC
+  size: 13904
+  date: '1992-07-06T17:01:02'
+  crc: '0x8411413e'

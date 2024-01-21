@@ -1,0 +1,34 @@
+filename: Paganitzu I- Romancing the Rose v1.02 (Installer) [a1] (1991)(Apogee Software, Ltd.) [Action, Adventure].zip
+tdc_id: '10592.4'
+title:
+  screen: 'Paganitzu I: Romancing the Rose'
+publisher: Apogee Software, Ltd.
+year: '1991'
+genre:
+- Action
+- Adventure
+language: English
+date:
+  added: '2014-02-22T14:18:18'
+  last_modified: '2014-02-22T14:18:18'
+version: '1.02'
+type: zip
+tags:
+- Alternate: 1
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 361
+  date: '1991-12-01T13:02:00'
+  crc: '0x1b979cd7'
+- name: INSTALL.EXE
+  size: 142122
+  date: '1991-12-01T13:02:00'
+  crc: '0x3b28c9c1'
+- name: PAGSW102.SHR
+  size: 301454
+  date: '1991-12-01T13:02:00'
+  crc: '0x7092ef54'

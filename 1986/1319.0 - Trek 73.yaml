@@ -1,0 +1,33 @@
+filename: Trek 73 [SW] (1986)(David A. Soussan) [Strategy].zip
+tdc_id: '1319.0'
+title:
+  screen: Trek 73
+publisher: David A. Soussan
+year: '1986'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:25:02'
+  last_modified: '2019-03-01T18:25:02'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: TREK73.EXE
+references:
+  dosid: DOS07690
+  exodos: Trek73 (1985).zip
+files:
+- name: README.T73
+  size: 844
+  date: '1995-01-30T20:33:00'
+  crc: '0x161d625e'
+- name: TREK73.DOC
+  size: 61691
+  date: '1995-01-30T20:32:00'
+  crc: '0x6cef63b3'
+- name: TREK73.EXE
+  size: 258080
+  date: '1995-01-30T20:38:00'
+  crc: '0x783db59f'

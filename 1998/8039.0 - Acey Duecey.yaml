@@ -1,0 +1,30 @@
+filename: Acey Duecey (1998)(Anonymous) [Strategy, Cards].zip
+tdc_id: '8039.0'
+title:
+  screen: Acey Duecey
+publisher: Anonymous
+year: '1998'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-02T10:40:38'
+  last_modified: '2019-03-02T10:40:38'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: CARDS1.BAS
+  size: 2389
+  date: '1998-09-21T01:17:42'
+  crc: '0x345d0f82'
+- name: GO.BAT
+  size: 26
+  date: '2019-01-10T14:01:34'
+  crc: '0x0aaa838b'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

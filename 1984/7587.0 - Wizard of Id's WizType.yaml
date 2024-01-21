@@ -1,0 +1,64 @@
+filename: Wizard of Id's WizType (1984)(Sierra On-Line, Inc.) [Action, Educational].zip
+tdc_id: '7587.0'
+title:
+  box: Wizard of Id's WizType
+publisher: Sierra On-Line, Inc.
+year: '1984'
+genre:
+- Action
+- Educational
+language: English
+date:
+  added: '2019-03-01T18:24:20'
+  last_modified: '2019-03-01T18:24:20'
+type: zip
+commands:
+  play: WIZTYPE.EXE
+references:
+  dosid: DOS05645
+  exodos: Wizard of Id's WizType (1984).zip
+files:
+- name: NAMES.WIZ
+  size: 2048
+  date: '2088-01-01T00:17:36'
+  crc: '0x600ae84b'
+- name: PAR1.TXT
+  size: 4096
+  date: '1984-05-11T19:29:30'
+  crc: '0xc35055c6'
+- name: PAR2.TXT
+  size: 4096
+  date: '2088-01-01T00:27:20'
+  crc: '0xa8858d0d'
+- name: PAR3.TXT
+  size: 4096
+  date: '2088-01-01T00:09:28'
+  crc: '0xd7404f7d'
+- name: PAR4.TXT
+  size: 4096
+  date: '2088-01-01T00:05:54'
+  crc: '0x5a234424'
+- name: PAR5.TXT
+  size: 4096
+  date: '2088-01-01T00:07:42'
+  crc: '0xb5ba0839'
+- name: PAR6.TXT
+  size: 4096
+  date: '2088-01-01T00:01:58'
+  crc: '0x56385dd0'
+- name: PAR7.TXT
+  size: 4096
+  date: '1984-05-11T19:36:02'
+  crc: '0x8d7f1c95'
+- name: PAR8.TXT
+  size: 4096
+  date: '2088-01-01T00:04:10'
+  crc: '0x45df07b3'
+- name: SHAPES
+  size: 43136
+  date: '2088-01-01T00:49:48'
+  crc: '0xae48a684'
+- name: WIZTYPE.EXE
+  size: 73984
+  date: '2088-01-01T00:14:58'
+  crc: '0x1f5c835b'

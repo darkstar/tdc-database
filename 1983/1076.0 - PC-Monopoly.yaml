@@ -1,0 +1,26 @@
+filename: PC-Monopoly v1.20 (De) (1983)(Karl-Heinz Tisch) [Strategy, Board].zip
+tdc_id: '1076.0'
+title:
+  screen: PC-Monopoly
+publisher: Karl-Heinz Tisch
+year: '1983'
+genre:
+- Strategy
+- Board
+language: German
+date:
+  added: '2019-03-01T18:23:18'
+  last_modified: '2019-03-01T18:23:18'
+version: '1.20'
+type: zip
+commands:
+  play: TI-PCMO.EXE
+files:
+- name: BRUN20.EXE
+  size: 68396
+  date: '1986-06-13T10:55:26'
+  crc: '0x3b910801'
+- name: TI-PCMO.EXE
+  size: 38601
+  date: '1987-10-09T01:38:18'
+  crc: '0x166b2456'

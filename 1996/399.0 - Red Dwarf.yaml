@@ -1,0 +1,37 @@
+filename: Red Dwarf v2.11 (1996)(Joseph A. Stanko) [Adventure, Interactive Fiction].zip
+tdc_id: '399.0'
+title:
+  screen: Red Dwarf
+publisher: Joseph A. Stanko
+year: '1996'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T10:16:30'
+  last_modified: '2019-03-02T10:16:30'
+version: '2.11'
+type: zip
+commands:
+  play: REDDWARF.EXE
+references:
+  dosid: DOS15713
+  exodos: Red Dwarf (1996).zip
+files:
+- name: README.TXT
+  size: 9816
+  date: '1999-12-31T19:00:00'
+  crc: '0x39374753'
+- name: REDDWARF.000
+  size: 3968
+  date: '1999-12-31T19:00:00'
+  crc: '0x1e9105ba'
+- name: REDDWARF.DAT
+  size: 32549
+  date: '1999-12-31T19:00:00'
+  crc: '0x2d00ea26'
+- name: REDDWARF.EXE
+  size: 89328
+  date: '1999-12-31T19:00:00'
+  crc: '0x0df01b24'

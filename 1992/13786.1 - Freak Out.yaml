@@ -1,0 +1,35 @@
+filename: Freak Out (Installer) (De) (1992)(Data Becker GmbH & Co. KG) [Action, Strategy].zip
+tdc_id: '13786.1'
+title:
+  screen: Freak Out
+publisher: Data Becker GmbH & Co. KG
+year: '1992'
+genre:
+- Action
+- Strategy
+language: German
+date:
+  added: '2019-03-01T18:44:50'
+  last_modified: '2022-11-21T08:39:32'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/freak-out
+files:
+- name: FREAKOUT\
+  size: 0
+  date: '1992-12-14T15:29:00'
+- name: FREAKOUT\FREAKOUT.EXE
+  size: 596011
+  date: '1992-12-10T08:50:00'
+  crc: '0xa2e12210'
+- name: INSTALL.EXE
+  size: 17242
+  date: '1991-07-12T11:30:00'
+  crc: '0x86ea65d2'
+- name: INSTALL.INF
+  size: 8267
+  date: '1992-12-14T15:28:00'
+  crc: '0x7e1f03e6'

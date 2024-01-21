@@ -1,0 +1,67 @@
+filename: Night Raid v1.1 [SW] (1993)(Software Creations) [Action].zip
+tdc_id: '9904.0'
+title:
+  screen: Night Raid
+publisher: Software Creations
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2009-11-23T06:05:32'
+  last_modified: '2009-11-23T06:05:32'
+version: '1.1'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: NTR.EXE
+files:
+- name: CONFIG.NRD
+  size: 478
+  date: '1993-06-01T21:28:02'
+  crc: '0x325eeaad'
+- name: FILE_ID.DIZ
+  size: 346
+  date: '1993-06-01T15:29:04'
+  crc: '0x44758b55'
+- name: GRAPHICS.NRD
+  size: 791301
+  date: '1993-03-16T19:33:38'
+  crc: '0xecbf206f'
+- name: LICENSE.DOC
+  size: 6873
+  date: '1993-03-22T14:44:44'
+  crc: '0xa99d4cd5'
+- name: NITERAID.DOC
+  size: 3381
+  date: '1993-03-22T14:46:42'
+  crc: '0x175f8269'
+- name: NTR.EXE
+  size: 59981
+  date: '1993-03-22T14:36:50'
+  crc: '0x18a23183'
+- name: OMBUDSMN.ASP
+  size: 917
+  date: '1993-03-20T15:10:06'
+  crc: '0xd0db8380'
+- name: ORDERFRM.DOC
+  size: 2433
+  date: '1993-03-22T14:43:34'
+  crc: '0xf1cfe2bd'
+- name: PACKING.LST
+  size: 705
+  date: '1993-06-01T15:33:42'
+  crc: '0x0e127fbc'
+- name: PROBLEMS.TXT
+  size: 3915
+  date: '1993-03-22T14:20:16'
+  crc: '0xc382bc12'
+- name: SYSOPS.DOC
+  size: 2157
+  date: '1993-03-20T15:10:06'
+  crc: '0xf186f36a'
+- name: VENDOR.DOC
+  size: 8009
+  date: '1993-06-01T15:28:14'
+  crc: '0xc4df6d58'

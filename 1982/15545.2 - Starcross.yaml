@@ -1,0 +1,28 @@
+filename: Starcross r17 [DC] (1982)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '15545.2'
+title:
+  box: Starcross
+publisher: Infocom, Inc.
+year: '1982'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2022-06-07T18:24:16'
+  last_modified: '2022-06-07T18:24:16'
+release: '17'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: STARCROS.COM
+files:
+- name: STARCROS.COM
+  size: 12928
+  date: '1980-01-01T00:00:00'
+  crc: '0x6c64c422'
+- name: STARCROS.DAT
+  size: 113344
+  date: '1980-01-01T00:03:40'
+  crc: '0x1bcdfd04'

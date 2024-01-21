@@ -1,0 +1,26 @@
+filename: Kindercomp (PCjr) [DC] (1983)(Spinnaker Software Corporation) [Educational].zip
+tdc_id: '11795.0'
+parent_id: '11795.2'
+title:
+  box: Kindercomp
+  qualifier: PCjr
+publisher: Spinnaker Software Corporation
+year: '1983'
+genre: Educational
+language: English
+date:
+  added: '2021-10-16T14:12:02'
+  last_modified: '2021-10-16T14:12:02'
+type: zip
+tags:
+- DOSConversion
+requirements:
+  cpu:
+    min: '8088'
+commands:
+  play: KINDCART.COM
+files:
+- name: KINDCART.COM
+  size: 8192
+  date: '2021-10-16T14:05:20'
+  crc: '0x8d9f42a3'

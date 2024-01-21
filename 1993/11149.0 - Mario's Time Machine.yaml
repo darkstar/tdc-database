@@ -1,0 +1,63 @@
+filename: Mario's Time Machine (1993)(Software Toolworks, Inc., The) [Action, Adventure, Educational].zip
+tdc_id: '11149.0'
+title:
+  box: Mario's Time Machine
+publisher: Software Toolworks, Inc., The
+year: '1993'
+genre:
+- Action
+- Adventure
+- Educational
+language: English
+date:
+  added: '2019-03-01T19:13:04'
+  last_modified: '2019-03-01T19:13:04'
+type: zip
+references:
+  dosid: DOS06159
+  exodos: Mario's Time Machine (1993).zip
+files:
+- name: CMIDPAK.COM
+  size: 13376
+  date: '1995-11-24T00:52:26'
+  crc: '0x13837028'
+- name: MARIO.BIN
+  size: 308400
+  date: '1995-11-24T00:51:22'
+  crc: '0x1a180857'
+- name: MARIO.EXE
+  size: 132320
+  date: '1995-11-24T00:51:24'
+  crc: '0x410d1e76'
+- name: MARIO.V2L
+  size: 5574135
+  date: '1995-11-24T00:51:56'
+  crc: '0x307697e9'
+- name: MARIOSAV.NAM
+  size: 16
+  date: '1995-11-24T00:54:04'
+  crc: '0x7056b19b'
+- name: MIDPAK.AD
+  size: 3622
+  date: '1995-11-24T00:52:20'
+  crc: '0xbbdffaba'
+- name: MIDPAK.ADV
+  size: 16263
+  date: '1995-11-24T00:52:14'
+  crc: '0x8a32bcf4'
+- name: RESOURCE.LST
+  size: 230
+  date: '1995-11-24T00:51:24'
+  crc: '0x788077e1'
+- name: SOUND.V2L
+  size: 1575809
+  date: '1995-11-24T00:52:12'
+  crc: '0x7113eea8'
+- name: SOUNDRV.COM
+  size: 4560
+  date: '1995-11-24T00:52:40'
+  crc: '0xd101b0f6'
+- name: STRING.LST
+  size: 16722
+  date: '1995-11-24T00:51:24'
+  crc: '0xdce00f5b'

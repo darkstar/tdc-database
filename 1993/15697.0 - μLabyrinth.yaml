@@ -1,0 +1,36 @@
+filename: μLabyrinth (1993)(GAMOS Ltd.) [Strategy, Puzzle].zip
+tdc_id: '15697.0'
+title:
+  screen: μLabyrinth
+publisher: GAMOS Ltd.
+year: '1993'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-03-01T19:12:24'
+  last_modified: '2019-03-01T19:12:24'
+type: zip
+commands:
+  play: MAGLAB.EXE
+references:
+  dosid: DOS07724
+  exodos: MLabyrinth (1993).zip
+files:
+- name: MAGLAB.DOC
+  size: 3524
+  date: '1995-11-25T15:29:26'
+  crc: '0xdd6bbc19'
+- name: MAGLAB.EXE
+  size: 15459
+  date: '1995-11-25T15:29:26'
+  crc: '0xa08c7c10'
+- name: ML1.DAT
+  size: 373593
+  date: '1995-11-25T15:29:26'
+  crc: '0xa59ebcac'
+- name: ML2.DAT
+  size: 148471
+  date: '1995-11-25T15:29:26'
+  crc: '0xb0e3ed52'

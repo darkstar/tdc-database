@@ -1,0 +1,83 @@
+filename: Legacy, The- Realm of Terror v1.154 (Installer) (De)(En)(Fr) (1993)(MicroProse Software, Inc.) [Adventure, Role-Playing (RPG)][!].zip
+tdc_id: '5358.2'
+parent_id: '5358.11'
+title:
+  box: 'The Legacy: Realm of Terror'
+publisher: MicroProse Software, Inc.
+year: '1993'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language:
+- English
+- French
+- German
+date:
+  added: '2022-05-22T08:01:04'
+  last_modified: '2022-11-21T20:03:27'
+version: '1.154'
+type: zip
+tags:
+- KnownGood
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/legacy-realm-of-terror
+files:
+- name: CD1.EXE
+  size: 6140
+  date: '1993-04-22T05:05:40'
+  crc: '0xf3990676'
+- name: INSTALL.EXE
+  size: 51391
+  date: '1993-04-22T05:05:36'
+  crc: '0xa3e93e8a'
+- name: LEGACY.001
+  size: 1330176
+  date: '1993-04-22T05:11:00'
+  crc: '0x03a4f3cb'
+- name: LEGACY.002
+  size: 1457664
+  date: '1993-04-22T05:12:20'
+  crc: '0xf60cd404'
+- name: LEGACY.003
+  size: 1457664
+  date: '1993-04-22T05:13:42'
+  crc: '0x78c72a2d'
+- name: LEGACY.004
+  size: 1457232
+  date: '1993-04-22T05:15:30'
+  crc: '0x7936b431'
+- name: LEGACY.005
+  size: 1457492
+  date: '1993-04-22T05:19:18'
+  crc: '0xfb459014'
+- name: LEGACY.006
+  size: 1457664
+  date: '1993-04-22T05:20:42'
+  crc: '0x8a9a1445'
+- name: LEGACY.007
+  size: 1223989
+  date: '1993-04-22T05:26:08'
+  crc: '0x1908d789'
+- name: MAKEBOOT.BAT
+  size: 2786
+  date: '1993-04-22T05:05:38'
+  crc: '0x5c4e15bc'
+- name: MPSCOPY.EXE
+  size: 30086
+  date: '1993-04-22T05:05:38'
+  crc: '0x85755616'
+- name: MPSLABS.IDX
+  size: 29822
+  date: '1993-04-22T05:26:34'
+  crc: '0x1cf05865'
+- name: PKUNZJR.COM
+  size: 2750
+  date: '1993-04-22T05:05:42'
+  crc: '0xbc15451f'
+- name: README.NOW
+  size: 2579
+  date: '1993-04-22T05:05:40'
+  crc: '0xeb143845'

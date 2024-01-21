@@ -1,0 +1,38 @@
+filename: Chomps (1983)(Softsmith Corporation) [Action].zip
+tdc_id: '1055.0'
+title:
+  box: Chomps
+publisher: Softsmith Corporation
+year: '1983'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:23:10'
+  last_modified: '2019-03-01T18:23:10'
+type: zip
+commands:
+  play: CHOMP.EXE
+references:
+  dosid: DOS01376
+  exodos: Chomps (1983).zip
+files:
+- name: CHOMP.EXE
+  size: 37814
+  date: '1986-02-03T02:39:14'
+  crc: '0x8bb63b22'
+- name: MAZE1.DAT
+  size: 1152
+  date: '1982-11-09T11:44:52'
+  crc: '0x1c77c37e'
+- name: MAZE2.DAT
+  size: 1152
+  date: '1982-11-09T11:44:22'
+  crc: '0xcd05f8ee'
+- name: MAZE3.DAT
+  size: 1152
+  date: '1982-11-09T11:44:30'
+  crc: '0xaeea4ca2'
+- name: MAZE4.DAT
+  size: 1152
+  date: '1982-11-09T11:44:44'
+  crc: '0xcb09ca86'

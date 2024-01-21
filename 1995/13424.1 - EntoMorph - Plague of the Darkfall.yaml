@@ -1,0 +1,42 @@
+filename: EntoMorph - Plague of the Darkfall (Demo) (Installer) (1995)(Strategic Simulations, Inc.) [Action].zip
+tdc_id: '13424.1'
+title:
+  screen: EntoMorph - Plague of the Darkfall
+  qualifier: Demo
+publisher: Strategic Simulations, Inc.
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2021-12-09T12:45:50'
+  last_modified: '2021-12-09T12:45:50'
+type: zip
+installer: true
+demo: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: BOOT.NFO
+  size: 210
+  date: '1995-07-10T16:03:38'
+  crc: '0xbe44cd64'
+- name: DATA.A00
+  size: 17794839
+  date: '1995-07-11T09:34:26'
+  crc: '0x4f3437b2'
+- name: DEARJ.EXE
+  size: 39441
+  date: '1993-03-19T16:18:52'
+  crc: '0x284b68d2'
+- name: HELP.TXT
+  size: 8456
+  date: '1995-02-02T15:15:56'
+  crc: '0x229f8347'
+- name: INSTALL.EXE
+  size: 103296
+  date: '1995-07-10T17:32:06'
+  crc: '0xf1fc44fc'
+- name: INSTALL.NFO
+  size: 487
+  date: '1995-07-10T17:29:40'
+  crc: '0xdcc6ddfa'

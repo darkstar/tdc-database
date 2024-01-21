@@ -1,0 +1,26 @@
+filename: Uridium (1986)(Mindscape, Inc.) [Action].zip
+tdc_id: '7345.0'
+title:
+  box: Uridium
+publisher: Mindscape, Inc.
+year: '1986'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:25:02'
+  last_modified: '2019-03-01T18:25:02'
+type: zip
+commands:
+  play: URIDIUM.EXE
+references:
+  dosid: DOS05446
+  exodos: Uridium (1988).zip
+files:
+- name: LOGO.DAT
+  size: 16384
+  date: '1988-03-03T13:29:54'
+  crc: '0x95419c89'
+- name: URIDIUM.EXE
+  size: 128611
+  date: '1989-08-30T16:20:54'
+  crc: '0xeaae3de6'

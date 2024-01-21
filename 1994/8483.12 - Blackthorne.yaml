@@ -1,0 +1,30 @@
+filename: Blackthorne (Installer) [a1] (1994)(Interplay Productions, Inc.) [Action].zip
+tdc_id: '8483.12'
+title:
+  box: Blackthorne
+publisher: Interplay Productions, Inc.
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2021-06-23T13:00:02'
+  last_modified: '2021-06-23T13:00:02'
+type: zip
+tags:
+- Alternate: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: BTHORNE.I00
+  size: 1064960
+  date: '1994-11-21T11:48:42'
+  crc: '0xf6ea8007'
+- name: BTHORNE.I01
+  size: 445753
+  date: '1994-11-21T11:48:46'
+  crc: '0xf9d4edf0'
+- name: INSTALL.EXE
+  size: 56912
+  date: '1994-11-21T11:48:16'
+  crc: '0xc65da9a1'

@@ -1,0 +1,70 @@
+filename: Farm Nightmare, The (2007)(Phil Fortier) [Adventure].zip
+tdc_id: '4949.0'
+title:
+  screen: The Farm Nightmare
+publisher: Phil Fortier
+year: '2007'
+genre: Adventure
+language: English
+date:
+  added: '2020-12-27T14:07:24'
+  last_modified: '2020-12-27T14:07:24'
+type: zip
+commands:
+  play: SCIV.EXE
+references:
+  dosid: DOS00428
+  exodos: Farm Nightmare, The (2007).zip
+files:
+- name: ADL.DRV
+  size: 9778
+  date: '2005-07-06T22:32:26'
+  crc: '0x9f2cea3f'
+- name: EGA320.DRV
+  size: 1952
+  date: '2005-07-06T22:32:26'
+  crc: '0x3b2fc0de'
+- name: IBMKBD.DRV
+  size: 446
+  date: '2005-07-06T22:32:26'
+  crc: '0xb495c666'
+- name: JOYSTICK.DRV
+  size: 541
+  date: '2005-07-06T22:32:26'
+  crc: '0xfa815721'
+- name: SCIV.EXE
+  size: 44443
+  date: '2005-07-06T22:32:26'
+  crc: '0xfd6dee90'
+- name: STD.DRV
+  size: 2466
+  date: '2005-07-06T22:32:26'
+  crc: '0x05dbf64a'
+- name: game.bmp
+  size: 2282
+  date: '2005-07-06T22:32:26'
+  crc: '0x198d03aa'
+- name: game.ini
+  size: 1394
+  date: '2007-03-06T10:07:20'
+  crc: '0xf7f70ab5'
+- name: game.txt
+  size: 37
+  date: '2006-05-05T08:56:28'
+  crc: '0xe6344e47'
+- name: gm.drv
+  size: 4819
+  date: '2005-07-06T22:32:26'
+  crc: '0xec5029fe'
+- name: resource.001
+  size: 338303
+  date: '2007-03-06T10:07:20'
+  crc: '0x9289100b'
+- name: resource.cfg
+  size: 151
+  date: '2005-07-06T22:32:26'
+  crc: '0x5f8b6210'
+- name: resource.map
+  size: 906
+  date: '2007-03-06T10:07:20'
+  crc: '0xd4ef5e4d'

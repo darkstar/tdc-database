@@ -1,0 +1,84 @@
+filename: Mines of Titan (1989)(Infocom, Inc.) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '7855.0'
+title:
+  box: Mines of Titan
+publisher: Infocom, Inc.
+year: '1989'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:28:26'
+  last_modified: '2019-03-01T18:28:26'
+type: zip
+commands:
+  play: TITAN.EXE
+references:
+  dosid: DOS03417
+  exodos: Mines of Titan (1988).zip
+files:
+- name: BATTLE.OVL
+  size: 3104
+  date: '1989-09-05T16:06:02'
+  crc: '0x661a2d07'
+- name: CBTD3D.OVL
+  size: 46368
+  date: '1989-09-05T16:05:56'
+  crc: '0x9fd971ae'
+- name: CITY.OVL
+  size: 17904
+  date: '1989-09-05T16:05:58'
+  crc: '0x9ab15996'
+- name: COMPUTER.OVL
+  size: 9264
+  date: '1989-09-05T16:05:50'
+  crc: '0x45976a47'
+- name: DISK1.DAT
+  size: 82485
+  date: '1989-09-05T15:11:38'
+  crc: '0xc61548f3'
+- name: DISK1MAP.DAT
+  size: 4610
+  date: '1989-09-05T15:12:06'
+  crc: '0x22f0fa8b'
+- name: DISK2.DAT
+  size: 133567
+  date: '1989-09-05T15:11:54'
+  crc: '0x49d46045'
+- name: DISK2MAP.DAT
+  size: 1538
+  date: '1989-09-05T15:12:16'
+  crc: '0xe71893e5'
+- name: DISKS.DAT
+  size: 73021
+  date: '1989-09-05T15:11:24'
+  crc: '0xff85a47e'
+- name: GAMBLE.OVL
+  size: 12096
+  date: '1989-09-05T16:06:06'
+  crc: '0xbe2ea5cc'
+- name: MINE.OVL
+  size: 18256
+  date: '1989-09-05T16:06:02'
+  crc: '0x60bcecf3'
+- name: SAVEGAME.DAT
+  size: 4190
+  date: '1989-09-05T15:12:26'
+  crc: '0x50499335'
+- name: SURF.OVL
+  size: 14304
+  date: '1989-09-05T16:06:00'
+  crc: '0x9c58b5f6'
+- name: TITAN.EXE
+  size: 108192
+  date: '1989-09-05T16:06:14'
+  crc: '0xc382e91c'
+- name: TOWN.OVL
+  size: 50832
+  date: '1989-09-05T16:06:08'
+  crc: '0x85c891fa'
+- name: WIN.OVL
+  size: 2240
+  date: '1989-09-05T16:06:14'
+  crc: '0x81619a60'

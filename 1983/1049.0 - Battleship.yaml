@@ -1,0 +1,28 @@
+filename: Battleship (1983)(David G. Eriksen) [Strategy].zip
+tdc_id: '1049.0'
+title:
+  screen: Battleship
+publisher: David G. Eriksen
+year: '1983'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:23:08'
+  last_modified: '2019-03-01T18:23:08'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: B-SHIP.BAS
+  size: 21968
+  date: '1986-08-18T20:23:04'
+  crc: '0x334561fd'
+- name: GO.BAT
+  size: 22
+  date: '2019-01-12T20:35:12'
+  crc: '0x511c9f3b'
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1988-10-05T02:00:08'
+  crc: '0x2a44af39'

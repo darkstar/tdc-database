@@ -1,0 +1,25 @@
+filename: Mysterious Adventures (1983)(Brian Howarth) [Adventure, Interactive Fiction].zip
+tdc_id: '1073.0'
+title:
+  screen: Mysterious Adventures
+publisher: Brian Howarth
+year: '1983'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:23:16'
+  last_modified: '2019-03-01T18:23:16'
+type: zip
+commands:
+  play: VENTURE.EXE
+files:
+- name: VENTURE.DOC
+  size: 4460
+  date: '1987-08-10T00:23:00'
+  crc: '0xeb0f970c'
+- name: VENTURE.EXE
+  size: 17408
+  date: '1985-11-11T08:04:52'
+  crc: '0xe58a195d'

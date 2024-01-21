@@ -1,0 +1,80 @@
+filename: Pro-League Baseball (1987)(Keypunch Software, Inc.) [Action, Sports, Compilation].zip
+tdc_id: '10662.0'
+title:
+  box: Pro-League Baseball
+publisher: Keypunch Software, Inc.
+year: '1987'
+genre:
+- Action
+- Sports
+- Compilation
+language: English
+date:
+  added: '2019-03-01T18:25:32'
+  last_modified: '2019-03-01T18:25:32'
+type: zip
+compilation: true
+references:
+  dosid: DOS06428
+  exodos: Pro-League Baseball (1987).zip
+files:
+- name: BASEBALL.DOC
+  size: 896
+  date: '1987-01-24T04:09:44'
+  crc: '0x0564b759'
+- name: BASEBALL.EXE
+  size: 94208
+  date: '1987-04-01T15:18:18'
+  crc: '0x81fd6798'
+- name: BEGIN.EXE
+  size: 47744
+  date: '1987-01-24T02:57:40'
+  crc: '0x9b7206da'
+- name: CARDS.DAT
+  size: 478
+  date: '1985-10-25T14:04:20'
+  crc: '0x0b81554c'
+- name: COMMON
+  size: 128
+  date: '1987-04-06T00:11:02'
+  crc: '0xaa5f1524'
+- name: CUBS.DAT
+  size: 490
+  date: '2075-02-08T11:30:58'
+  crc: '0xe519a1b2'
+- name: ISSUE
+  size: 7168
+  date: '1987-01-31T11:20:16'
+  crc: '0xe9899a73'
+- name: LOGO.2
+  size: 1280
+  date: '1987-01-26T06:28:34'
+  crc: '0x8021abb0'
+- name: METS.DAT
+  size: 492
+  date: '1985-07-17T10:54:08'
+  crc: '0xfa392100'
+- name: RACKETS.EXE
+  size: 35968
+  date: '1987-01-25T12:55:42'
+  crc: '0x6d24d436'
+- name: RATESET.DAT
+  size: 351
+  date: '1986-01-02T11:27:56'
+  crc: '0x8caa60cd'
+- name: READFILE.EXE
+  size: 31488
+  date: '1987-01-31T11:01:12'
+  crc: '0x4558f029'
+- name: REDS.DAT
+  size: 494
+  date: '2075-02-08T11:30:56'
+  crc: '0x61ad7071'
+- name: REDSOX.DAT
+  size: 484
+  date: '1985-12-30T10:05:06'
+  crc: '0x380aa686'
+- name: YANKS.DAT
+  size: 505
+  date: '1985-12-30T10:05:02'
+  crc: '0xbd5639a2'

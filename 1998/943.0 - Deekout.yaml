@@ -1,0 +1,31 @@
+filename: Deekout (1998)(Dansoft) [Action].zip
+tdc_id: '943.0'
+title:
+  screen: Deekout
+publisher: Dansoft
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:41:06'
+  last_modified: '2019-03-02T10:41:06'
+type: zip
+commands:
+  play: DEEKOUT.EXE
+files:
+- name: DEEKOUT.EXE
+  size: 59144
+  date: '1998-07-14T13:18:06'
+  crc: '0x074d5011'
+- name: DOE.WAV
+  size: 6030
+  date: '1995-02-24T19:18:48'
+  crc: '0xe02d6b5f'
+- name: deekout.txt
+  size: 1429
+  date: '2001-05-24T15:47:46'
+  crc: '0x012fd427'
+- name: deekscor.dat
+  size: 14
+  date: '2001-05-24T15:36:30'
+  crc: '0x7b64d2ed'

@@ -1,0 +1,29 @@
+filename: MasterMind v2.0 (1995)(Akop Karopetyan) [Strategy].zip
+tdc_id: '3630.0'
+title:
+  screen: MasterMind
+publisher: Akop Karopetyan
+year: '1995'
+genre: Strategy
+language: English
+date:
+  added: '2019-01-22T17:46:58'
+  last_modified: '2019-01-22T17:46:58'
+version: '2.0'
+type: zip
+media: Download
+commands:
+  play: MMIND.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 333
+  date: '1995-03-20T08:32:40'
+  crc: '0xe46e35e0'
+- name: MMFONT.AKF
+  size: 755
+  date: '1995-01-27T15:52:40'
+  crc: '0x90cb0e1a'
+- name: MMIND.EXE
+  size: 28628
+  date: '1995-01-27T19:31:32'
+  crc: '0x7f15efb6'

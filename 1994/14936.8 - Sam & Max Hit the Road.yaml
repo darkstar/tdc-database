@@ -1,0 +1,57 @@
+filename: Sam & Max Hit the Road v1.2 (Installer) (Es) (1994)(LucasArts Entertainment Company LLC) [Adventure].zip
+tdc_id: '14936.8'
+title:
+  box: Sam & Max Hit the Road
+publisher: LucasArts Entertainment Company LLC
+year: '1994'
+genre: Adventure
+language: Spanish
+date:
+  added: '2020-04-09T09:47:16'
+  last_modified: '2020-04-09T09:47:16'
+version: '1.2'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK.ID
+  size: 24
+  date: '1994-02-07T09:23:50'
+  crc: '0x2059613e'
+- name: INSTALL.EXE
+  size: 116442
+  date: '1992-07-28T05:00:00'
+  crc: '0xd4ad4b4c'
+- name: README.TXT
+  size: 4410
+  date: '1994-03-18T06:02:46'
+  crc: '0x61859cc9'
+- name: SAMNMAX.001
+  size: 1330808
+  date: '1994-02-07T09:33:14'
+  crc: '0xd126461c'
+- name: SAMNMAX.002
+  size: 1457152
+  date: '1994-02-07T09:26:36'
+  crc: '0x30b0a95c'
+- name: SAMNMAX.003
+  size: 1457152
+  date: '1994-02-07T09:28:08'
+  crc: '0x6de7973a'
+- name: SAMNMAX.004
+  size: 1457152
+  date: '1994-02-07T09:29:30'
+  crc: '0x6a2c5ee3'
+- name: SAMNMAX.005
+  size: 1457152
+  date: '1994-02-07T09:30:50'
+  crc: '0x78bb3ead'
+- name: SAMNMAX.006
+  size: 1457152
+  date: '1994-02-07T09:32:12'
+  crc: '0x85b02bbe'
+- name: SAMNMAX.007
+  size: 619311
+  date: '1994-02-07T09:32:56'
+  crc: '0x4dd81126'

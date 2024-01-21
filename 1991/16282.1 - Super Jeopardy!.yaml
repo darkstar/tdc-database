@@ -1,0 +1,50 @@
+filename: Super Jeopardy! [a1] (1991)(GameTek, Inc.) [Strategy].zip
+tdc_id: '16282.1'
+title:
+  box: Super Jeopardy!
+publisher: GameTek, Inc.
+year: '1991'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:39:36'
+  last_modified: '2019-03-01T18:39:36'
+type: zip
+tags:
+- Alternate: 1
+references:
+  dosid: DOS00214
+  exodos: Super Jeopardy! (1991).zip
+files:
+- name: CONFIG.BAT
+  size: 10
+  date: '2012-06-13T15:56:54'
+  crc: '0x4637c200'
+- name: INSTALL.TXT
+  size: 261
+  date: '1991-07-30T13:13:44'
+  crc: '0x9583331d'
+- name: JEOPARDY.EXE
+  size: 26302
+  date: '1991-05-17T10:38:38'
+  crc: '0xa61bc8c9'
+- name: JEOPARDY.INT
+  size: 19
+  date: '2012-06-13T15:55:58'
+  crc: '0x02fe2e99'
+- name: MRH_JEPD.DB1
+  size: 91133
+  date: '1991-05-12T10:22:52'
+  crc: '0x7841b402'
+- name: MRH_JEPD.DB2
+  size: 360143
+  date: '1991-05-12T10:25:08'
+  crc: '0xf4a42935'
+- name: MRH_JEPQ.DB1
+  size: 152970
+  date: '1991-05-14T16:21:10'
+  crc: '0x5cc6f4f9'
+- name: MRH_JEPS.DB1
+  size: 89468
+  date: '1991-05-05T23:39:38'
+  crc: '0x117d2d67'

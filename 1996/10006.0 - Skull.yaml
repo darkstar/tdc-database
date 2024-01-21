@@ -1,0 +1,28 @@
+filename: Skull (1996)(Philipp Lenssen) [Action].zip
+tdc_id: '10006.0'
+title:
+  screen: Skull
+publisher: Philipp Lenssen
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:18:26'
+  last_modified: '2019-03-02T10:18:26'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 25
+  date: '2018-12-01T13:27:28'
+  crc: '0xc22069f4'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: SKULL.BAS
+  size: 24404
+  date: '1998-09-06T18:26:08'
+  crc: '0x5341149f'

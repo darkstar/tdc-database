@@ -1,0 +1,60 @@
+filename: Spear of Destiny Mission 2- Return to Danger v1.4 (1994)(FormGen, Inc.) [Action].zip
+tdc_id: '15337.0'
+title:
+  box: 'Spear of Destiny Mission 2: Return to Danger'
+publisher: FormGen, Inc.
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T07:16:32'
+  last_modified: '2019-03-02T07:16:32'
+version: '1.4'
+type: zip
+commands:
+  play: SPEAR.EXE
+files:
+- name: AUDIOHED.SOD
+  size: 1072
+  date: '1993-01-05T00:40:00'
+  crc: '0x13ce3958'
+- name: AUDIOT.SOD
+  size: 328620
+  date: '1993-01-05T00:40:00'
+  crc: '0x96d183ec'
+- name: CONFIG.SOD
+  size: 522
+  date: '2011-04-24T11:44:28'
+  crc: '0x77617517'
+- name: GAMEMAPS.SOD
+  size: 135024
+  date: '1994-03-31T18:00:00'
+  crc: '0x5110f693'
+- name: MAPHEAD.SOD
+  size: 86
+  date: '1994-03-31T18:00:00'
+  crc: '0xdd7bb542'
+- name: SPEAR.EXE
+  size: 112835
+  date: '1993-01-05T00:40:00'
+  crc: '0xc2ad09f8'
+- name: SPEAR.EX_
+  size: 112835
+  date: '1993-01-05T00:40:00'
+  crc: '0xf8dd4a07'
+- name: VGADICT.SOD
+  size: 1024
+  date: '1993-01-05T00:40:00'
+  crc: '0xb9b960ac'
+- name: VGAGRAPH.SOD
+  size: 947979
+  date: '1993-01-05T00:40:00'
+  crc: '0x5936dddb'
+- name: VGAHEAD.SOD
+  size: 510
+  date: '1993-01-05T00:40:00'
+  crc: '0xdfb1b473'
+- name: VSWAP.SOD
+  size: 1879712
+  date: '1994-03-31T18:00:00'
+  crc: '0x861dcbf7'

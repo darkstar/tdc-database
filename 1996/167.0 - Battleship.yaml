@@ -1,0 +1,28 @@
+filename: Battleship (1996)(The Masked Dingo) [Strategy].zip
+tdc_id: '167.0'
+title:
+  screen: Battleship
+publisher: The Masked Dingo
+year: '1996'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:00:02'
+  last_modified: '2019-03-02T10:00:02'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: BSSTART.BAS
+  size: 14656
+  date: '1996-05-12T23:39:00'
+  crc: '0x207f7e40'
+- name: GO.BAT
+  size: 27
+  date: '2018-11-24T17:08:08'
+  crc: '0x15143ad9'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

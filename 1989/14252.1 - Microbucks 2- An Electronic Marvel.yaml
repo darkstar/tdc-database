@@ -1,0 +1,36 @@
+filename: Microbucks 2- An Electronic Marvel [a1] (1989)(Ted Gruber Software) [Action].zip
+tdc_id: '14252.1'
+title:
+  screen: 'Microbucks 2: An Electronic Marvel'
+publisher: Ted Gruber Software
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:28:22'
+  last_modified: '2019-03-01T18:28:22'
+type: zip
+tags:
+- Alternate: 1
+commands:
+  play: SLOT.EXE
+references:
+  dosid: DOS03533
+  exodos: Micro Bucks II (1993).zip
+files:
+- name: SLOT.DOC
+  size: 3171
+  date: '1992-12-14T07:23:20'
+  crc: '0x30562656'
+- name: SLOT.EXE
+  size: 36725
+  date: '1989-08-10T05:43:54'
+  crc: '0xaa060242'
+- name: SLOT0.PBM
+  size: 15960
+  date: '1989-07-21T08:30:52'
+  crc: '0xef0e6b71'
+- name: SLOT1.PBM
+  size: 40920
+  date: '1989-07-21T08:36:58'
+  crc: '0xf2799950'

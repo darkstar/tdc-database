@@ -1,0 +1,62 @@
+filename: Electric Crayon Deluxe- At the Zoo v3.0 [a1] (1990)(Merit Software) [Educational].zip
+tdc_id: '13353.2'
+title:
+  box: 'Electric Crayon Deluxe: At the Zoo'
+publisher: Merit Software
+year: '1990'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T18:32:30'
+  last_modified: '2019-03-01T18:32:30'
+version: '3.0'
+type: zip
+tags:
+- Alternate: 1
+commands:
+  play: EC.EXE
+files:
+- name: BERWYN7.FNT
+  size: 1282
+  date: '1989-01-20T14:55:56'
+  crc: '0x81818cf1'
+- name: CGA.DAT
+  size: 2
+  date: '1989-08-03T21:22:20'
+  crc: '0x9e9f240c'
+- name: EC.EXE
+  size: 68504
+  date: '1990-04-18T10:19:22'
+  crc: '0x8097764c'
+- name: MESSAGE.TXT
+  size: 65
+  date: '1990-05-03T17:16:42'
+  crc: '0x5293520a'
+- name: OPTIONS.TXT
+  size: 62
+  date: '1990-04-18T10:21:18'
+  crc: '0xb016a1f9'
+- name: PARM.DAT
+  size: 57
+  date: '1990-11-23T16:24:30'
+  crc: '0x3aefe71b'
+- name: PICTURES.TXT
+  size: 738
+  date: '1990-03-29T12:47:34'
+  crc: '0x31172daf'
+- name: PRINTERS.TXT
+  size: 3135
+  date: '1987-08-25T13:19:46'
+  crc: '0xa4329b48'
+- name: TITLE.TXT
+  size: 362
+  date: '1990-05-03T17:17:26'
+  crc: '0xd5ed8654'
+- name: VGA.DAT
+  size: 768
+  date: '1988-06-30T09:14:10'
+  crc: '0x59580206'
+- name: ZOO.CMB
+  size: 100005
+  date: '1990-11-23T16:24:32'
+  crc: '0x5465e69c'

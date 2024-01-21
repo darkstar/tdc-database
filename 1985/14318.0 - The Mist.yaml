@@ -1,0 +1,43 @@
+filename: Mist, The (1985)(Mindscape, Inc.) [Adventure].zip
+tdc_id: '14318.0'
+title:
+  box: The Mist
+publisher: Mindscape, Inc.
+year: '1985'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:24:30'
+  last_modified: '2019-03-01T18:24:30'
+type: zip
+commands:
+  play: GAME.COM
+files:
+- name: GAME.000
+  size: 67840
+  date: '1985-10-22T16:13:24'
+  crc: '0xb27bcb32'
+- name: GAME.COM
+  size: 24552
+  date: '1985-10-22T16:13:28'
+  crc: '0x4de94f6e'
+- name: HI_SCORE.DAT
+  size: 214
+  date: '1990-06-26T21:19:36'
+  crc: '0x86a31c22'
+- name: LOGO.DAT
+  size: 16384
+  date: '1988-03-03T13:29:54'
+  crc: '0x95419c89'
+- name: MESSAGE
+  size: 46080
+  date: '1985-10-23T02:02:14'
+  crc: '0x623a7b15'
+- name: TABLES
+  size: 5358
+  date: '1985-10-23T01:45:48'
+  crc: '0x465b337b'
+- name: VOCAB
+  size: 7150
+  date: '1985-10-23T02:03:20'
+  crc: '0xfc878fc7'

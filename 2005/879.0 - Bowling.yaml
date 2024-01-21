@@ -1,0 +1,38 @@
+filename: Bowling v1.4.23 (2005)(John Kreitlow) [Action, Sports].zip
+tdc_id: '879.0'
+title:
+  screen: Bowling
+publisher: John Kreitlow
+year: '2005'
+genre:
+- Action
+- Sports
+language: English
+date:
+  added: '2019-03-02T10:57:02'
+  last_modified: '2019-03-02T10:57:02'
+version: 1.4.23
+type: zip
+commands:
+  play: BOWLING.EXE
+files:
+- name: BOWLING.EXE
+  size: 58962
+  date: '2005-04-10T14:51:34'
+  crc: '0x86085a69'
+- name: BOWLING.HSR
+  size: 22
+  date: '2005-04-26T15:03:58'
+  crc: '0x62bd7281'
+- name: ERROR.FRM
+  size: 1454
+  date: '2005-04-09T15:46:28'
+  crc: '0xe2d28244'
+- name: README.TXT
+  size: 3522
+  date: '2005-05-11T08:36:12'
+  crc: '0xdfed3d7b'
+- name: REGISTER.FRM
+  size: 925
+  date: '2005-04-10T15:11:46'
+  crc: '0x94f2d99c'

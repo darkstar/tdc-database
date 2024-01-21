@@ -1,0 +1,48 @@
+filename: Treehouse, The (Installer) (1991)(Brøderbund Software, Inc.) [Educational].zip
+tdc_id: '16897.2'
+title:
+  box: The Treehouse
+publisher: Brøderbund Software, Inc.
+year: '1991'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T18:39:52'
+  last_modified: '2019-03-01T18:39:52'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.CFG
+  size: 700
+  date: '1991-08-30T00:00:02'
+  crc: '0x044b6458'
+- name: INSTALL.EXE
+  size: 22797
+  date: '1991-08-30T00:00:02'
+  crc: '0x23f964a9'
+- name: TREEHS1
+  size: 685112
+  date: '1991-08-30T00:00:02'
+  crc: '0x65984f95'
+- name: TREEHS2
+  size: 730112
+  date: '1991-08-30T00:00:02'
+  crc: '0xc8d36be3'
+- name: TREEHS3
+  size: 730112
+  date: '1991-08-30T00:00:02'
+  crc: '0xc0534309'
+- name: TREEHS4
+  size: 730112
+  date: '1991-08-30T00:00:02'
+  crc: '0x045c068d'
+- name: TREEHS5
+  size: 243614
+  date: '1991-08-30T00:00:02'
+  crc: '0xe50b75b5'
+- name: TREHSE.PCX
+  size: 125366
+  date: '1991-10-10T22:00:12'
+  crc: '0x9d12c45f'

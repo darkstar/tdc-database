@@ -1,0 +1,35 @@
+filename: IBM PC Blackjack (1982)(Jessen, Patrick Leabo) [Strategy, Cards].zip
+tdc_id: '9653.0'
+title:
+  screen: IBM PC Blackjack
+publisher: Jessen, Patrick Leabo
+year: '1982'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:24:08'
+  last_modified: '2023-02-02T08:50:00'
+type: zip
+commands:
+  play: blkjack.exe
+references:
+  mobygames: https://www.mobygames.com/game/blackjack_____
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T14:00:00'
+  crc: '0x92293842'
+- name: CCIIBJ.BAS
+  size: 11051
+  date: '2001-05-26T22:40:06'
+  crc: '0xa306c657'
+- name: CCIIBJ.BAT
+  size: 17
+  date: '2014-12-18T17:59:26'
+  crc: '0x7591933d'
+- name: blkjack.exe
+  size: 40320
+  date: '1980-01-01T00:00:00'
+  crc: '0x3649ea7d'

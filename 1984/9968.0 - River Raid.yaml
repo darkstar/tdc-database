@@ -1,0 +1,25 @@
+filename: River Raid (PCjr) (1984)(Activision, Inc.) [Action].jrc.zip
+tdc_id: '9968.0'
+title:
+  box: River Raid
+  qualifier: PCjr
+publisher: Activision, Inc.
+year: '1984'
+genre: Action
+language: English
+date:
+  added: '2021-10-08T14:44:02'
+  last_modified: '2021-10-08T14:44:02'
+type: zip
+requirements:
+  cpu:
+    min: '8088'
+media: Cartridge
+references:
+  dosid: DOS05959
+  exodos: River Raid (1984).zip
+files:
+- name: rivrraid.jrc
+  size: 16896
+  date: '2007-12-31T17:00:00'
+  crc: '0xef091859'

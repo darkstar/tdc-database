@@ -1,0 +1,48 @@
+filename: Super Mario Bros. Print World v1.0k (1991)(Hi-Tech Expressions, Inc.) [Educational].zip
+tdc_id: '16294.0'
+title:
+  box: Super Mario Bros. Print World
+publisher: Hi-Tech Expressions, Inc.
+year: '1991'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T18:39:36'
+  last_modified: '2019-03-01T18:39:36'
+version: 1.0k
+type: zip
+commands:
+  play: MARIO.EXE
+files:
+- name: CGA.BGI
+  size: 6332
+  date: '1990-05-04T01:00:00'
+  crc: '0x5f4c2b51'
+- name: EGAVGA.BGI
+  size: 5554
+  date: '1990-05-04T01:00:00'
+  crc: '0x116c5498'
+- name: HERC.BGI
+  size: 6204
+  date: '1990-05-04T01:00:00'
+  crc: '0xac360ec1'
+- name: MARIO.EXE
+  size: 341536
+  date: '1991-11-25T10:27:52'
+  crc: '0x44e26805'
+- name: MARIOC.PVL
+  size: 242274
+  date: '1991-04-26T23:19:10'
+  crc: '0xb23d88a6'
+- name: PP2.CFG
+  size: 418
+  date: '1991-12-03T16:34:28'
+  crc: '0xf29206fc'
+- name: PPPF.PVL
+  size: 96712
+  date: '1991-06-28T17:07:16'
+  crc: '0x28389e32'
+- name: PPPR.PVL
+  size: 22045
+  date: '1991-06-28T17:07:24'
+  crc: '0xf8a825a0'

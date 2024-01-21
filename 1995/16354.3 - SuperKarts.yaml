@@ -1,0 +1,30 @@
+filename: SuperKarts v1.03 [h1] (1995)(Virgin Interactive Entertainment, Inc.) [Racing - Driving].zip
+tdc_id: '16354.3'
+title:
+  box: SuperKarts
+publisher: Virgin Interactive Entertainment, Inc.
+year: '1995'
+genre: Racing - Driving
+language: English
+date:
+  added: '2019-03-02T09:05:56'
+  last_modified: '2019-03-02T09:05:56'
+version: '1.03'
+type: zip
+tags:
+- Hack: 1
+commands:
+  play: KART.EXE
+files:
+- name: KART.DAT
+  size: 2108383
+  date: '1995-08-20T22:05:02'
+  crc: '0x093cb27c'
+- name: KART.EXE
+  size: 806873
+  date: '1995-08-20T15:18:48'
+  crc: '0x03f456da'
+- name: README.DOC
+  size: 16385
+  date: '1995-08-22T10:11:04'
+  crc: '0xadbe3acc'

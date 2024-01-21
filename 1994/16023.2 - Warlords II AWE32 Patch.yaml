@@ -1,0 +1,36 @@
+filename: Warlords II AWE32 Patch (1994)(SSG Strategic Studies Group Pty Ltd.) [Strategy, Addon].zip
+tdc_id: '16023.2'
+title:
+  screen: Warlords II AWE32 Patch
+publisher: SSG Strategic Studies Group Pty Ltd.
+year: '1994'
+genre:
+- Strategy
+- Addon
+language: English
+date:
+  added: '2021-12-28T16:13:20'
+  last_modified: '2021-12-28T16:13:20'
+type: zip
+patch: true
+files:
+- name: FIX.BAT
+  size: 116
+  date: '1995-04-11T10:10:58'
+  crc: '0x1be92b61'
+- name: MIDPAK.NEW
+  size: 13312
+  date: '1994-01-31T09:18:16'
+  crc: '0x0110ae1f'
+- name: READ.ME
+  size: 1521
+  date: '1994-12-17T22:19:46'
+  crc: '0xc6da4ee3'
+- name: SC32MPU.NEW
+  size: 39843
+  date: '1994-03-01T01:01:00'
+  crc: '0x73f195e8'
+- name: UNFIX.BAT
+  size: 58
+  date: '1995-04-11T10:11:32'
+  crc: '0x23f5b235'

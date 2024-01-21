@@ -1,0 +1,47 @@
+filename: Beam-Up v2.0 (Installer) (En)(Fr)(De) [SW] (1993)(Digital Reality) [Simulation].zip
+tdc_id: '12532.0'
+title:
+  screen: Beam-Up
+publisher: Digital Reality
+year: '1993'
+genre: Simulation
+language:
+- English
+- French
+- German
+date:
+  added: '2019-02-02T18:48:50'
+  last_modified: '2022-11-16T13:16:48'
+version: '2.0'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.COM
+files:
+- name: BEAM20.EXE
+  size: 175526
+  date: '1993-02-12T16:04:18'
+  crc: '0x6a6d4df1'
+- name: FILE_ID.DIZ
+  size: 300
+  date: '1993-02-12T16:16:10'
+  crc: '0xf2dcc0bf'
+- name: INSTALL.COM
+  size: 808
+  date: '1993-02-12T16:05:58'
+  crc: '0xcd4896f0'
+- name: QI.EXE
+  size: 21093
+  date: '1992-11-23T21:48:50'
+  crc: '0x01a456f9'
+- name: README.EXE
+  size: 15571
+  date: '1993-02-12T16:07:02'
+  crc: '0xccc09075'
+- name: TROUBLE.TXT
+  size: 516
+  date: '1993-02-12T14:57:54'
+  crc: '0xcb9b377e'

@@ -1,0 +1,28 @@
+filename: Worm-2 v0.5 (2001)(Viktor Rootselainen) [Action].zip
+tdc_id: '16128.1'
+title:
+  screen: Worm-2
+publisher: Viktor Rootselainen
+year: '2001'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:55:50'
+  last_modified: '2019-03-02T10:55:50'
+version: '0.5'
+type: zip
+commands:
+  play: WORM2.EXE
+files:
+- name: WORM2.DAT
+  size: 54459
+  date: '2001-02-27T20:23:52'
+  crc: '0x9053447c'
+- name: WORM2.EXE
+  size: 120348
+  date: '2001-02-27T20:30:32'
+  crc: '0xcd408ba2'
+- name: WORM2.TXT
+  size: 3341
+  date: '2001-04-27T23:35:10'
+  crc: '0x0cdc259c'

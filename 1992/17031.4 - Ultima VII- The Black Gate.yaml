@@ -1,0 +1,65 @@
+filename: Ultima VII- The Black Gate v3.0 (Installer) (1992)(ORIGIN Systems, Inc.) [Adventure, Role-Playing (RPG)][!].zip
+tdc_id: '17031.4'
+title:
+  box: 'Ultima VII: The Black Gate'
+publisher: ORIGIN Systems, Inc.
+year: '1992'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:52:12'
+  last_modified: '2019-03-01T18:52:12'
+version: '3.0'
+type: zip
+tags:
+- KnownGood
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 39134
+  date: '1992-03-12T01:54:24'
+  crc: '0x28fdc11b'
+- name: INSTALL.PRM
+  size: 94
+  date: '1992-03-12T02:14:30'
+  crc: '0x335faeac'
+- name: PKUNZIP.EXE
+  size: 18576
+  date: '1992-03-12T01:54:28'
+  crc: '0xef4c0916'
+- name: U7DISK00
+  size: 1398640
+  date: '1992-03-12T02:02:58'
+  crc: '0x0448f538'
+- name: U7DISK01
+  size: 1457008
+  date: '1992-03-12T02:05:14'
+  crc: '0x38322df3'
+- name: U7DISK02
+  size: 577188
+  date: '1992-03-12T02:06:26'
+  crc: '0x488ffbd8'
+- name: U7DISK10
+  size: 879520
+  date: '1992-03-12T02:07:36'
+  crc: '0x012ae9d6'
+- name: U7DISK11
+  size: 1457008
+  date: '1992-03-12T02:09:42'
+  crc: '0xd25e5aa3'
+- name: U7DISK12
+  size: 525045
+  date: '1992-03-12T02:10:46'
+  crc: '0x39ca407c'
+- name: U7DISK20
+  size: 931744
+  date: '1992-03-12T02:11:58'
+  crc: '0xd114315f'
+- name: U7DISK21
+  size: 1412243
+  date: '1992-03-12T02:14:06'
+  crc: '0x1f232c41'

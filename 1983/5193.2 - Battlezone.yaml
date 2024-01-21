@@ -1,0 +1,28 @@
+filename: Battlezone [DC][h2] (1983)(Atarisoft) [Action, Simulation].zip
+tdc_id: '5193.2'
+title:
+  box: Battlezone
+publisher: Atarisoft
+year: '1983'
+genre:
+- Action
+- Simulation
+language: English
+date:
+  added: '2019-03-01T18:23:08'
+  last_modified: '2019-03-01T18:23:08'
+type: zip
+tags:
+- DOSConversion
+- Hack: 2
+commands:
+  play: BZONE.COM
+files:
+- name: BATTLE.ZON
+  size: 75984
+  date: '1986-01-07T12:00:00'
+  crc: '0x88861694'
+- name: BZONE.COM
+  size: 341
+  date: '1986-01-07T12:00:00'
+  crc: '0xea702653'

@@ -1,0 +1,52 @@
+filename: Empire of the Over-Mind (1986)(The Avalon Hill Game Company) [Adventure, Interactive Fiction].zip
+tdc_id: '13452.0'
+title:
+  box: Empire of the Over-Mind
+publisher: The Avalon Hill Game Company
+year: '1986'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:24:46'
+  last_modified: '2019-03-01T18:24:46'
+type: zip
+commands:
+  play: overmind.com
+references:
+  dosid: DOS06338
+  exodos: Empire of the Over-Mind (1986).zip
+files:
+- name: messages.bin
+  size: 103404
+  date: '1986-03-28T22:50:28'
+  crc: '0x88206844'
+- name: messages.dir
+  size: 2688
+  date: '1986-03-28T22:50:34'
+  crc: '0xdb130591'
+- name: objects.bin
+  size: 13536
+  date: '1985-07-08T22:54:20'
+  crc: '0x5c1639c6'
+- name: overmind.com
+  size: 43830
+  date: '1986-04-02T04:22:18'
+  crc: '0x3d9fe805'
+- name: read.me
+  size: 315
+  date: '2000-06-09T23:49:24'
+  crc: '0x1d863345'
+- name: rooms.bin
+  size: 1500
+  date: '1985-05-21T23:31:26'
+  crc: '0xe84ec3f6'
+- name: rules.txt
+  size: 34594
+  date: '2000-06-10T00:38:24'
+  crc: '0xab533301'
+- name: words.bin
+  size: 2430
+  date: '1986-04-02T04:03:42'
+  crc: '0x9cc37038'

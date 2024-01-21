@@ -1,0 +1,29 @@
+filename: Startrek (2000)(Bob Sorem) [Strategy, Simulation].zip
+tdc_id: '15591.0'
+title:
+  screen: Startrek
+publisher: Bob Sorem
+year: '2000'
+genre:
+- Strategy
+- Simulation
+language: English
+date:
+  added: '2019-03-02T10:55:04'
+  last_modified: '2019-03-02T10:55:04'
+type: zip
+commands:
+  play: startrek.exe
+files:
+- name: ncc1701.ico
+  size: 766
+  date: '2000-11-27T20:47:34'
+  crc: '0xd4e535d7'
+- name: startrek.exe
+  size: 38232
+  date: '2000-11-28T19:10:58'
+  crc: '0xac90b2b5'
+- name: stinstr.txt
+  size: 4500
+  date: '2000-11-22T23:18:02'
+  crc: '0xe7f39f8d'

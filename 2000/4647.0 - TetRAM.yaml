@@ -1,0 +1,32 @@
+filename: TetRAM (2000)(Udev) [Action, Strategy].zip
+tdc_id: '4647.0'
+title:
+  screen: TetRAM
+publisher: Udev
+year: '2000'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-02T10:55:06'
+  last_modified: '2019-03-02T10:55:06'
+type: zip
+commands:
+  play: TETRIS.COM
+references:
+  dosid: DOS07117
+  exodos: TetRAM (2000).zip
+files:
+- name: TETRIS.ASM
+  size: 12311
+  date: '2000-07-15T15:47:48'
+  crc: '0x2fe86db1'
+- name: TETRIS.COM
+  size: 1155
+  date: '2000-07-15T15:47:48'
+  crc: '0x30ab5d36'
+- name: TETRIS.DIZ
+  size: 65
+  date: '2000-07-15T15:47:48'
+  crc: '0x265fe42a'

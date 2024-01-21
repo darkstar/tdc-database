@@ -1,0 +1,164 @@
+filename: Silly Knight [FW] (2017)(Petr Kratina) [Action].zip
+tdc_id: '15059.0'
+title:
+  screen: Silly Knight
+publisher: Petr Kratina
+year: '2017'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:58:14'
+  last_modified: '2019-03-02T10:58:14'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: GAME.EXE
+references:
+  dosid: DOS03839
+  exodos: Silly Knight (2017).zip
+files:
+- name: DATA\
+  size: 0
+  date: '2017-09-05T09:42:26'
+- name: DATA\00.MAP
+  size: 720
+  date: '2017-08-29T22:09:56'
+  crc: '0x29a43992'
+- name: DATA\01.MAP
+  size: 720
+  date: '2017-08-29T22:09:58'
+  crc: '0x89a25fdc'
+- name: DATA\02.MAP
+  size: 720
+  date: '2017-08-29T22:12:30'
+  crc: '0x04f00f6c'
+- name: DATA\03.MAP
+  size: 720
+  date: '2017-08-29T22:12:30'
+  crc: '0x82b31395'
+- name: DATA\04.MAP
+  size: 720
+  date: '2017-08-29T22:12:30'
+  crc: '0xca0e8d6c'
+- name: DATA\05.MAP
+  size: 720
+  date: '2017-08-29T22:12:30'
+  crc: '0xfbcb2021'
+- name: DATA\06.MAP
+  size: 720
+  date: '2017-08-29T22:12:30'
+  crc: '0xfa601b6b'
+- name: DATA\07.MAP
+  size: 720
+  date: '2017-08-29T22:12:30'
+  crc: '0x6e20c089'
+- name: DATA\08.MAP
+  size: 720
+  date: '2017-08-29T22:12:30'
+  crc: '0xb94743ce'
+- name: DATA\09.MAP
+  size: 720
+  date: '2017-08-29T22:12:32'
+  crc: '0x65dbc4d0'
+- name: DATA\0A.MAP
+  size: 720
+  date: '2017-08-29T22:12:32'
+  crc: '0x053e9e4e'
+- name: DATA\0B.MAP
+  size: 720
+  date: '2017-08-29T22:12:32'
+  crc: '0xa7290a49'
+- name: DATA\0C.MAP
+  size: 720
+  date: '2017-08-29T22:12:32'
+  crc: '0xc9eb3081'
+- name: DATA\0D.MAP
+  size: 720
+  date: '2017-08-29T22:12:32'
+  crc: '0x1dff3ed3'
+- name: DATA\0E.MAP
+  size: 720
+  date: '2017-08-29T22:12:34'
+  crc: '0xff5ef1a9'
+- name: DATA\DEATH.DAT
+  size: 8000
+  date: '2017-08-29T22:23:22'
+  crc: '0x25c885a2'
+- name: DATA\END.DAT
+  size: 8000
+  date: '2017-08-29T02:18:56'
+  crc: '0xce0508e8'
+- name: DATA\FONT.DAT
+  size: 3840
+  date: '2017-07-24T19:13:56'
+  crc: '0xfd184f5d'
+- name: DATA\FONTS.DAT
+  size: 1152
+  date: '2011-02-14T01:13:00'
+  crc: '0xe3f8a5d3'
+- name: DATA\HV.DAT
+  size: 8000
+  date: '2017-08-29T02:33:36'
+  crc: '0x94102969'
+- name: DATA\INTRO1.DAT
+  size: 8000
+  date: '2017-08-29T02:18:32'
+  crc: '0xe8d670bf'
+- name: DATA\INTRO2.DAT
+  size: 8000
+  date: '2017-08-29T02:18:46'
+  crc: '0xf8763dcf'
+- name: DATA\LOGO.DAT
+  size: 8000
+  date: '2017-07-06T21:10:16'
+  crc: '0x39d2b516'
+- name: DATA\MENU.DAT
+  size: 8000
+  date: '2017-07-10T03:45:16'
+  crc: '0xb0c7c047'
+- name: DATA\SPRITES.DAT
+  size: 11520
+  date: '2017-07-26T21:24:28'
+  crc: '0x2e7d0439'
+- name: DATA\TILES.DAT
+  size: 11520
+  date: '2017-08-28T23:51:24'
+  crc: '0xb7950e4e'
+- name: DATA\emiters.txt
+  size: 83
+  date: '2017-07-24T21:39:36'
+  crc: '0x53537b11'
+- name: DATA\enemies.txt
+  size: 34
+  date: '2017-07-24T18:37:40'
+  crc: '0x96087a13'
+- name: DATA\hit.sfx
+  size: 14
+  date: '2017-07-31T03:02:58'
+  crc: '0x8e79b409'
+- name: DATA\items.txt
+  size: 146
+  date: '2017-07-26T21:23:36'
+  crc: '0x936ced27'
+- name: DATA\jump.sfx
+  size: 14
+  date: '2017-07-31T02:56:16'
+  crc: '0x937517f7'
+- name: DATA\pick.sfx
+  size: 14
+  date: '2017-07-31T03:02:58'
+  crc: '0x8e79b409'
+- name: GAME.EXE
+  size: 25872
+  date: '2017-08-29T22:31:16'
+  crc: '0x35f281f9'
+- name: SAVE.DAT
+  size: 262
+  date: '2017-09-05T09:26:24'
+  crc: '0x79a813b7'
+- name: readme.txt
+  size: 849
+  date: '2017-08-29T22:40:30'
+  crc: '0x0b45a31c'

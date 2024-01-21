@@ -1,0 +1,30 @@
+filename: DOS Quadraz v1.1 [SW] (1996)(ASM Software) [Strategy].zip
+tdc_id: '6650.0'
+title:
+  screen: DOS Quadraz
+publisher: ASM Software
+year: '1996'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:03:22'
+  last_modified: '2019-03-02T10:03:22'
+version: '1.1'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: DOSQUAD.EXE
+references:
+  dosid: DOS06807
+  exodos: DOS Quadraz (1996).zip
+files:
+- name: DOSQUAD.BAS
+  size: 13406
+  date: '1980-01-01T00:00:00'
+  crc: '0x99a92421'
+- name: DOSQUAD.EXE
+  size: 85906
+  date: '1980-01-01T00:00:00'
+  crc: '0xcbf111c4'

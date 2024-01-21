@@ -1,0 +1,49 @@
+filename: Pacman4K (2000)(Olivier Poudade) [Action].zip
+tdc_id: '10572.0'
+title:
+  screen: Pacman4K
+publisher: Olivier Poudade
+year: '2000'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:54:58'
+  last_modified: '2019-03-02T10:54:58'
+type: zip
+commands:
+  play: desktop\pacman4k.com
+files:
+- name: desktop\
+  size: 0
+  date: '1980-01-01T00:00:00'
+- name: desktop\pacman4k.asm
+  size: 201136
+  date: '2000-08-03T06:15:46'
+  crc: '0x7119f9f1'
+- name: desktop\pacman4k.com
+  size: 4089
+  date: '2000-07-24T15:59:08'
+  crc: '0x3c55c871'
+- name: desktop\pacman4k.pif
+  size: 1033
+  date: '2000-08-28T23:54:16'
+  crc: '0x131cd753'
+- name: desktop\pacman4k.txt
+  size: 3965
+  date: '2000-08-29T08:46:46'
+  crc: '0x3fe35eeb'
+- name: laptop\
+  size: 0
+  date: '1980-01-01T00:00:00'
+- name: laptop\pacman4k.exe
+  size: 4096
+  date: '2000-07-24T15:57:38'
+  crc: '0xbc0477db'
+- name: laptop\pacman4k.pif
+  size: 1061
+  date: '2000-08-28T23:53:22'
+  crc: '0x1a5dd4cb'
+- name: laptop\pacman4k.txt
+  size: 3965
+  date: '2000-08-29T08:45:40'
+  crc: '0x3fe35eeb'

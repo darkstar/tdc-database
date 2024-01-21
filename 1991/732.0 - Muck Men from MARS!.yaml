@@ -1,0 +1,49 @@
+filename: Muck Men from MARS! v1.11 (1991)(Christopher Kraai) [Strategy].zip
+tdc_id: '732.0'
+title:
+  screen: Muck Men from MARS!
+publisher: Christopher Kraai
+year: '1991'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:37:04'
+  last_modified: '2019-03-01T18:37:04'
+version: '1.11'
+type: zip
+references:
+  dosid: DOS06971
+  exodos: Muck Men from MARS! (1991).zip
+files:
+- name: LITT.CHR
+  size: 2138
+  date: '1989-05-02T12:50:00'
+  crc: '0xe18c9d7c'
+- name: MMNAMES.DAT
+  size: 60
+  date: '1991-12-18T18:11:42'
+  crc: '0xd44edf7c'
+- name: MMSCORE.DAT
+  size: 20
+  date: '1991-12-18T18:11:42'
+  crc: '0x53cc6ad1'
+- name: RESETSCR.EXE
+  size: 3072
+  date: '1991-12-17T02:21:20'
+  crc: '0x045cb8ef'
+- name: TRIP.CHR
+  size: 7241
+  date: '1989-05-02T12:50:00'
+  crc: '0xfe5cd6b1'
+- name: VGA256.BGI
+  size: 3289
+  date: '1989-05-31T08:00:02'
+  crc: '0x55f0b0ba'
+- name: VGAMUCK.DOC
+  size: 5708
+  date: '1991-12-18T18:11:12'
+  crc: '0x3aa4d19f'
+- name: VGAMUCK.EXE
+  size: 44640
+  date: '1991-12-18T18:02:12'
+  crc: '0x207a2dbb'

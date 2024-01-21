@@ -1,0 +1,28 @@
+filename: TicTacToe (1998)(Jim Fallon) [Strategy].zip
+tdc_id: '4275.0'
+title:
+  screen: TicTacToe
+publisher: Jim Fallon
+year: '1998'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:44:40'
+  last_modified: '2019-03-02T10:44:40'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 26
+  date: '2018-12-18T16:58:12'
+  crc: '0xbbb0f334'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: TITATO.BAS
+  size: 12892
+  date: '1998-09-13T08:40:08'
+  crc: '0x6b8c8a4d'

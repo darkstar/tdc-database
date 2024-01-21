@@ -1,0 +1,34 @@
+filename: Shade (2000)(Andrew Plotkin) [Adventure, Interactive Fiction].zip
+tdc_id: '5891.0'
+title:
+  screen: Shade
+publisher: Andrew Plotkin
+year: '2000'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T10:55:02'
+  last_modified: '2019-03-02T10:55:02'
+type: zip
+references:
+  dosid: DOS04500
+  exodos: Shade (2000).zip
+files:
+- name: CWSDPMI.EXE
+  size: 20473
+  date: '1996-12-24T23:32:00'
+  crc: '0x80fa6999'
+- name: frotz.exe
+  size: 129024
+  date: '1996-12-24T23:32:00'
+  crc: '0x57987597'
+- name: shade.bat
+  size: 31
+  date: '2018-04-08T20:37:48'
+  crc: '0x6f1ce4f6'
+- name: shade.z5
+  size: 108544
+  date: '1996-12-24T23:32:00'
+  crc: '0x67334778'

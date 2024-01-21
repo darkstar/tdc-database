@@ -1,0 +1,28 @@
+filename: Arcade (1998)(Nick Haufler) [Action].zip
+tdc_id: '55.0'
+title:
+  screen: Arcade
+publisher: Nick Haufler
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2015-04-17T10:50:20'
+  last_modified: '2015-04-17T10:50:20'
+type: zip
+media: Download
+commands:
+  play: ARCADE.EXE
+files:
+- name: ARCADE.EXE
+  size: 26782
+  date: '1999-07-17T16:07:30'
+  crc: '0xf270d751'
+- name: FILE_ID.DIZ
+  size: 60
+  date: '2000-05-31T16:45:30'
+  crc: '0xbfeea778'
+- name: scene.org
+  size: 2017
+  date: '2000-07-25T17:16:30'
+  crc: '0x0ec4c4cf'

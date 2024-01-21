@@ -1,0 +1,105 @@
+filename: Realms of Arkania- Star Trail v2.00 (Installer) (1994)(Sir-tech Software, Inc.) [Role-Playing (RPG)].zip
+tdc_id: '14780.2'
+parent_id: '14780.1'
+title:
+  box: 'Realms of Arkania: Star Trail'
+  screen: 'Realms of Arkania: Part II of the Northlands Trilogy - Star Trail'
+  qualifier: Installer
+publisher: Sir-tech Software, Inc.
+year: '1994'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2023-07-20T15:14:57'
+  last_modified: '2023-07-20T15:14:57'
+version: '2.00'
+type: zip
+media: 1.44M
+installer: true
+references:
+  mobygames: https://www.mobygames.com/game/3438/realms-of-arkania-star-trail/
+files:
+- name: CONFIG.BSP
+  size: 1608
+  date: '1994-09-13T16:44:10'
+  crc: '0xf8ed4c80'
+- name: DAT.DIR
+  size: 62
+  date: '1994-10-01T15:13:26'
+  crc: '0x6d17ccb0'
+- name: DAT.S01
+  size: 1457152
+  date: '1994-10-01T15:13:42'
+  crc: '0xcf2c1737'
+- name: DAT.S02
+  size: 1457152
+  date: '1994-10-01T15:13:54'
+  crc: '0x98763aea'
+- name: DAT.S03
+  size: 1457152
+  date: '1994-10-01T15:14:06'
+  crc: '0x95ad6686'
+- name: DAT.S04
+  size: 1457152
+  date: '1994-10-01T15:14:20'
+  crc: '0xb08eab58'
+- name: DAT.S05
+  size: 1457152
+  date: '1994-10-01T15:14:32'
+  crc: '0xe8a6cb44'
+- name: DAT.S06
+  size: 1457152
+  date: '1994-10-01T15:14:46'
+  crc: '0x09001fb9'
+- name: DAT.S07
+  size: 1457152
+  date: '1994-10-01T15:14:58'
+  crc: '0xdb8ba990'
+- name: DAT.S08
+  size: 600164
+  date: '1994-10-01T15:15:04'
+  crc: '0xf65a7cfe'
+- name: DRIVERS.TMP
+  size: 129609
+  date: '1994-10-01T14:53:50'
+  crc: '0x230c6fc7'
+- name: FX.FN
+  size: 2450
+  date: '1994-10-01T14:47:20'
+  crc: '0x52e9ffa8'
+- name: GAMES.TMP
+  size: 6743
+  date: '1994-10-01T14:53:42'
+  crc: '0x1423cb59'
+- name: INSTALL.AIF
+  size: 45522
+  date: '1994-05-23T18:44:46'
+  crc: '0xf6185680'
+- name: INSTALL.EXE
+  size: 34817
+  date: '1994-09-09T14:37:32'
+  crc: '0xf1c168d3'
+- name: MAIN.TMP
+  size: 500572
+  date: '1994-10-01T14:53:36'
+  crc: '0x38c3eb1e'
+- name: PATCH.EXE
+  size: 45450
+  date: '2027-11-30T00:00:00'
+  crc: '0xb36268dc'
+- name: PKUNZIP.EXE
+  size: 28959
+  date: '1993-02-01T02:04:16'
+  crc: '0xeeaac5ea'
+- name: RAW.FN
+  size: 6020
+  date: '1994-10-01T14:48:08'
+  crc: '0xa58d0dae'
+- name: SOUND.BAT
+  size: 92
+  date: '1994-08-17T17:47:56'
+  crc: '0x16035c00'
+- name: STAR.FN
+  size: 17388
+  date: '1994-10-01T14:41:52'
+  crc: '0xf86c5d6a'

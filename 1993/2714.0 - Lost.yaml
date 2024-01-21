@@ -1,0 +1,36 @@
+filename: Lost v2.0.2 [SW] (1993)(Jeffrey Hersh) [Adventure, Interactive Fiction].zip
+tdc_id: '2714.0'
+title:
+  screen: Lost
+publisher: Jeffrey Hersh
+year: '1993'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T19:12:14'
+  last_modified: '2019-03-01T19:12:14'
+version: 2.0.2
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: LOST.EXE
+references:
+  dosid: DOS00179
+  exodos: Lost (Jeffrey Hersh)(1993).zip
+files:
+- name: INSTR.TXT
+  size: 18081
+  date: '1993-10-20T15:37:08'
+  crc: '0x91b78c83'
+- name: LOST.EXE
+  size: 490620
+  date: '1993-10-20T15:23:36'
+  crc: '0x492e0593'
+- name: README.TXT
+  size: 507
+  date: '1993-10-20T15:37:20'
+  crc: '0x77f4fb25'

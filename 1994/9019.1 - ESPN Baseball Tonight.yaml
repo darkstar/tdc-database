@@ -1,0 +1,86 @@
+filename: ESPN Baseball Tonight v1.01 (Installer) (1994)(Sony Imagesoft) [Sports].zip
+tdc_id: '9019.1'
+title:
+  box: ESPN Baseball Tonight
+publisher: Sony Imagesoft
+year: '1994'
+genre: Sports
+language: English
+date:
+  added: '2019-03-01T21:56:34'
+  last_modified: '2019-03-01T21:56:34'
+version: '1.01'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK2\
+  size: 0
+  date: '2015-01-25T16:39:38'
+- name: DISK2\ESPNBB.ZIP
+  size: 1457664
+  date: '1995-01-18T17:39:48'
+  crc: '0xa80248b7'
+- name: DISK2\PKBACK#.002
+  size: 0
+  date: '1995-01-18T17:39:50'
+- name: DISK3\
+  size: 0
+  date: '2015-01-25T16:39:24'
+- name: DISK3\ESPNBB.ZIP
+  size: 1457664
+  date: '1995-01-18T17:42:24'
+  crc: '0xce440b0e'
+- name: DISK3\PKBACK#.003
+  size: 0
+  date: '1995-01-18T17:42:26'
+- name: DISK4\
+  size: 0
+  date: '2015-01-25T16:39:12'
+- name: DISK4\ESPNBB.ZIP
+  size: 1457664
+  date: '1995-01-18T17:45:10'
+  crc: '0x6f9b6c12'
+- name: DISK4\PKBACK#.004
+  size: 0
+  date: '1995-01-18T17:45:12'
+- name: DISK5\
+  size: 0
+  date: '2015-01-25T16:39:00'
+- name: DISK5\ESPNBB.ZIP
+  size: 1457664
+  date: '1995-01-18T17:47:32'
+  crc: '0x88964a60'
+- name: DISK5\PKBACK#.005
+  size: 0
+  date: '1995-01-18T17:47:34'
+- name: DISK6\
+  size: 0
+  date: '2015-01-25T16:38:46'
+- name: DISK6\ESPNBB.ZIP
+  size: 1411433
+  date: '1995-01-18T17:50:18'
+  crc: '0xee218a37'
+- name: DISK6\PKBACK#.006
+  size: 0
+  date: '1995-01-18T17:50:24'
+- name: DOS4GW.EXE
+  size: 254556
+  date: '1994-12-01T14:57:14'
+  crc: '0x95d35b4d'
+- name: ESPNBB.ZIP
+  size: 1053184
+  date: '1995-01-18T17:35:00'
+  crc: '0xe5fd5d25'
+- name: INSTALL.EXE
+  size: 120139
+  date: '1995-01-10T10:35:22'
+  crc: '0x753789e3'
+- name: PKBACK#.001
+  size: 0
+  date: '1995-01-18T17:35:02'
+- name: PKUNZIP.EXE
+  size: 28959
+  date: '1993-02-01T02:04:16'
+  crc: '0xeeaac5ea'

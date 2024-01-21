@@ -1,0 +1,114 @@
+filename: Magic Boy (1993)(Empire Software) [Action].zip
+tdc_id: '9856.0'
+title:
+  box: Magic Boy
+publisher: Empire Software
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T19:12:22'
+  last_modified: '2019-03-01T19:12:22'
+type: zip
+commands:
+  play: MAGICBOY.EXE
+references:
+  dosid: DOS03298
+  exodos: Magic Boy (1993).zip
+files:
+- name: ENEMY1.RNC
+  size: 9799
+  date: '1993-10-18T20:29:28'
+  crc: '0x7f66011a'
+- name: ENEMY2.RNC
+  size: 5971
+  date: '1993-10-18T20:29:52'
+  crc: '0x03f55c8d'
+- name: ENEMY3.RNC
+  size: 7495
+  date: '1993-10-18T20:30:54'
+  crc: '0xb1ca2738'
+- name: ENEMY4.RNC
+  size: 7630
+  date: '1993-10-18T20:31:32'
+  crc: '0x11a88b8b'
+- name: ICONS.RNC
+  size: 7633
+  date: '1993-10-18T09:05:26'
+  crc: '0x0c478f2a'
+- name: MAGICBOY.CFG
+  size: 3
+  date: '1999-03-29T23:12:30'
+  crc: '0xfe83b325'
+- name: MAGICBOY.EXE
+  size: 99176
+  date: '1993-10-29T16:28:54'
+  crc: '0x3e979bf3'
+- name: MODULE1.RNC
+  size: 8552
+  date: '1993-10-18T19:36:46'
+  crc: '0xbe0da8bc'
+- name: MODULE2.RNC
+  size: 9302
+  date: '1993-10-18T19:37:08'
+  crc: '0x394483e7'
+- name: MODULE3.RNC
+  size: 7450
+  date: '1993-10-18T19:37:30'
+  crc: '0x5eb904d8'
+- name: MODULE4.RNC
+  size: 7396
+  date: '1993-10-18T19:37:52'
+  crc: '0xafdd06fa'
+- name: MODULE5.RNC
+  size: 7966
+  date: '1993-10-18T19:38:16'
+  crc: '0x592b43d8'
+- name: MODULE6.RNC
+  size: 8855
+  date: '1993-10-18T19:38:36'
+  crc: '0x2cdd433d'
+- name: MODULE7.RNC
+  size: 7719
+  date: '1993-10-18T19:39:00'
+  crc: '0xdad178a7'
+- name: MODULE8.RNC
+  size: 6988
+  date: '1993-10-18T19:39:22'
+  crc: '0x73cb399b'
+- name: MODULED.RNC
+  size: 10242
+  date: '1993-10-19T15:29:20'
+  crc: '0x703ce680'
+- name: PALETTE.RNC
+  size: 1753
+  date: '1993-10-18T09:04:12'
+  crc: '0x9658cea2'
+- name: README
+  size: 330
+  date: '1993-10-27T20:05:42'
+  crc: '0xae5bcbc4'
+- name: SPRITES.RNC
+  size: 11492
+  date: '1993-10-18T20:28:20'
+  crc: '0x16c74cc4'
+- name: STAND_PC.RNC
+  size: 6570
+  date: '1993-10-19T16:29:42'
+  crc: '0x6d1a57d9'
+- name: WORLD1.RNC
+  size: 7800
+  date: '1993-10-18T09:05:34'
+  crc: '0x0621b597'
+- name: WORLD2.RNC
+  size: 7406
+  date: '1993-10-18T09:05:40'
+  crc: '0xa21097f4'
+- name: WORLD3.RNC
+  size: 5247
+  date: '1993-10-18T19:36:06'
+  crc: '0xba14e4b2'
+- name: WORLD4.RNC
+  size: 6181
+  date: '1993-10-18T09:05:56'
+  crc: '0x40b8bbc6'

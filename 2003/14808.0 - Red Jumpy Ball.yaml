@@ -1,0 +1,61 @@
+filename: Red Jumpy Ball v.5 (2003)(Ryan Szrama) [Action].zip
+tdc_id: '14808.0'
+title:
+  screen: Red Jumpy Ball
+publisher: Ryan Szrama
+year: '2003'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:56:42'
+  last_modified: '2019-03-02T10:56:42'
+version: '.5'
+type: zip
+commands:
+  play: RJB.EXE
+files:
+- name: Data\
+  size: 0
+  date: '2014-11-22T16:41:28'
+- name: Data\SCORES.DAT
+  size: 379
+  date: '2006-01-23T02:08:24'
+  crc: '0x1fe4952d'
+- name: Data\SETTINGS.INI
+  size: 60
+  date: '2006-01-23T02:09:34'
+  crc: '0x9f49b26a'
+- name: Graphics\
+  size: 0
+  date: '2014-11-22T16:41:28'
+- name: Graphics\bground2.bmp
+  size: 182250
+  date: '2003-11-15T14:13:58'
+  crc: '0xf14be655'
+- name: Graphics\graphics.bmp
+  size: 10694
+  date: '2003-11-20T11:16:16'
+  crc: '0x83bcff23'
+- name: Graphics\lcomp.bmp
+  size: 17334
+  date: '2003-11-18T19:56:40'
+  crc: '0xe8cf8405'
+- name: Graphics\palette.bmp
+  size: 86
+  date: '2003-11-18T19:50:00'
+  crc: '0x50a086d7'
+- name: Graphics\timeup.bmp
+  size: 17334
+  date: '2003-11-19T12:43:06'
+  crc: '0xdd7bd7e8'
+- name: RJB.EXE
+  size: 123622
+  date: '2003-11-28T17:28:18'
+  crc: '0x97d1f203'
+- name: RJB\
+  size: 0
+  date: '2006-01-23T02:06:06'
+- name: Readme.txt
+  size: 4651
+  date: '2003-11-28T17:54:36'
+  crc: '0x35d2264c'

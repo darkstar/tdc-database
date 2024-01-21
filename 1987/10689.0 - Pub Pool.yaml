@@ -1,0 +1,28 @@
+filename: Pub Pool (1987)(Mastertronic Group Ltd.) [Simulation, Sports].zip
+tdc_id: '10689.0'
+title:
+  box: Pub Pool
+publisher: Mastertronic Group Ltd.
+year: '1987'
+genre:
+- Simulation
+- Sports
+language: English
+date:
+  added: '2019-03-01T18:25:32'
+  last_modified: '2019-03-01T18:25:32'
+type: zip
+commands:
+  play: POOL.COM
+references:
+  dosid: DOS04149
+  exodos: Pub Pool (1987).zip
+files:
+- name: POOL.COM
+  size: 50576
+  date: '1987-09-04T11:58:26'
+  crc: '0x6b7a9d65'
+- name: POOL.DAT
+  size: 71680
+  date: '1987-07-30T10:29:00'
+  crc: '0x7b48e573'

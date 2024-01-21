@@ -1,0 +1,27 @@
+filename: Speed (De) (1992)(Andreas Tobola) [Action].zip
+tdc_id: '2437.0'
+title:
+  screen: Speed
+publisher: Andreas Tobola
+year: '1992'
+genre: Action
+language: German
+date:
+  added: '2019-03-01T18:51:20'
+  last_modified: '2019-03-01T18:51:20'
+type: zip
+commands:
+  play: SPEED.EXE
+files:
+- name: GAMERE.SCO
+  size: 240
+  date: '1992-08-23T00:23:38'
+  crc: '0xebf5e586'
+- name: SPEED.BAS
+  size: 48023
+  date: '2000-01-25T12:20:12'
+  crc: '0x528722aa'
+- name: SPEED.EXE
+  size: 112088
+  date: '2000-01-25T12:20:26'
+  crc: '0xd7b64df5'

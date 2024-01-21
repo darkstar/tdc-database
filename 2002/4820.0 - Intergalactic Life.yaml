@@ -1,0 +1,42 @@
+filename: Intergalactic Life (2002)(Tobias Schmitt) [Adventure].zip
+tdc_id: '4820.0'
+title:
+  screen: Intergalactic Life
+publisher: Tobias Schmitt
+year: '2002'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-02T10:56:02'
+  last_modified: '2019-03-02T10:56:02'
+type: zip
+commands:
+  play: PLAY.EXE
+references:
+  dosid: DOS06891
+  exodos: Intergalactic Life (2002).zip
+files:
+- name: EARTHFLY.DAT
+  size: 992
+  date: '2002-03-10T20:03:32'
+  crc: '0x8ddc5549'
+- name: EARTHFLY.MES
+  size: 1506
+  date: '2002-03-10T20:03:24'
+  crc: '0x5a9554ff'
+- name: PLAY.EXE
+  size: 43008
+  date: '1985-05-22T18:25:38'
+  crc: '0x46bde067'
+- name: UNIVERSE.DAT
+  size: 3819
+  date: '2002-03-10T19:56:26'
+  crc: '0x1a644a87'
+- name: codes and solve.txt
+  size: 1165
+  date: '2002-03-09T20:57:58'
+  crc: '0xe77bf673'
+- name: universe.mes
+  size: 8421
+  date: '2002-03-10T19:56:20'
+  crc: '0x9490650a'

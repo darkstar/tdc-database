@@ -1,0 +1,59 @@
+filename: War Eagles! v1.10 (1993)(Celery Software) [Simulation].zip
+tdc_id: '7465.3'
+title:
+  box: War Eagles!
+publisher: Celery Software
+year: '1993'
+genre: Simulation
+language: English
+date:
+  added: '2022-12-12T14:55:59'
+  last_modified: '2022-12-12T14:55:59'
+version: '1.10'
+type: zip
+commands:
+  play: GO.EXE
+files:
+- name: BUNIF.SCN
+  size: 4845
+  date: '1993-08-23T01:10:00'
+  crc: '0x710d713d'
+- name: CRASH.SCN
+  size: 23985
+  date: '1993-08-23T01:10:00'
+  crc: '0x123fcffb'
+- name: GO.CFG
+  size: 452
+  date: '1993-09-01T16:29:24'
+  crc: '0xed782917'
+- name: GO.EXE
+  size: 28092
+  date: '1993-08-30T20:42:36'
+  crc: '0x2a3b65db'
+- name: GUNIF.SCN
+  size: 11495
+  date: '1993-08-23T01:10:00'
+  crc: '0x06d90ff1'
+- name: PILOTS.LST
+  size: 0
+  date: '1993-08-31T09:34:40'
+- name: README.NOW
+  size: 1410
+  date: '1993-09-01T13:31:44'
+  crc: '0xc36fa767'
+- name: SCORES.LST
+  size: 256
+  date: '1993-08-31T09:34:40'
+  crc: '0x64eca388'
+- name: SIDE.SCN
+  size: 10000
+  date: '1993-08-23T01:10:00'
+  crc: '0xe1cc625b'
+- name: TITLE.SCN
+  size: 14485
+  date: '1993-08-23T01:10:00'
+  crc: '0x6906267b'
+- name: WE.EXE
+  size: 283308
+  date: '1993-08-23T01:10:00'
+  crc: '0x3a214b27'

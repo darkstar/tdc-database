@@ -1,0 +1,117 @@
+filename: Inferno (demo) (Installer) (De) (1994)(Ocean of America, Inc.) [Action].zip
+tdc_id: '11484.0'
+title:
+  screen: Inferno
+  qualifier: demo
+publisher: Ocean of America, Inc.
+year: '1994'
+genre: Action
+language: German
+date:
+  added: '2019-03-01T22:00:50'
+  last_modified: '2019-03-01T22:00:50'
+type: zip
+installer: true
+demo: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: ANIM\
+  size: 0
+  date: '2015-08-04T11:27:48'
+- name: ANIM\CRDR0.256
+  size: 363264
+  date: '1994-03-02T01:00:06'
+  crc: '0x4ed82b14'
+- name: ANIM\DETH0.256
+  size: 67034
+  date: '1993-11-29T21:17:10'
+  crc: '0xca2a0d4e'
+- name: ANIM\DIDT0.256
+  size: 120866
+  date: '1993-01-04T12:29:12'
+  crc: '0x56739b14'
+- name: ANIM\EANG0.256
+  size: 85368
+  date: '1993-10-28T23:39:02'
+  crc: '0xbdcf56c9'
+- name: ANIM\EMPB0.256
+  size: 54452
+  date: '1994-04-29T02:08:10'
+  crc: '0x12a921a4'
+- name: ANIM\EMPE0.256
+  size: 79962
+  date: '1994-04-26T01:15:20'
+  crc: '0x1562acf2'
+- name: ANIM\EMPG0.256
+  size: 52758
+  date: '1994-03-09T00:23:16'
+  crc: '0xb51cd34e'
+- name: ANIM\EMPI0.256
+  size: 49648
+  date: '1994-04-29T02:09:18'
+  crc: '0x475f414e'
+- name: ANIM\FDHQ0.256
+  size: 153016
+  date: '1994-04-15T23:44:18'
+  crc: '0x05dec603'
+- name: ANIM\HANG0.256
+  size: 89879
+  date: '1994-03-25T22:23:10'
+  crc: '0x135b87e6'
+- name: ANIM\HCR10.256
+  size: 53180
+  date: '1993-12-23T20:57:02'
+  crc: '0x58215489'
+- name: ANIM\HCR20.256
+  size: 228989
+  date: '1994-02-22T00:07:14'
+  crc: '0x87d1a803'
+- name: ANIM\HERO0.256
+  size: 146056
+  date: '1994-05-05T20:30:20'
+  crc: '0x05794513'
+- name: ANIM\HERQ0.256
+  size: 473285
+  date: '1994-05-05T20:29:02'
+  crc: '0xca2f13a5'
+- name: ANIM\HERW0.256
+  size: 199524
+  date: '1994-03-09T01:09:08'
+  crc: '0xe3a522d3'
+- name: ANIM\HOOV0.256
+  size: 377442
+  date: '1994-02-22T00:29:10'
+  crc: '0xdeaa1c7b'
+- name: ANIM\INFT.256
+  size: 230833
+  date: '1994-06-02T23:40:16'
+  crc: '0x41e337f5'
+- name: ANIM\ODW10.256
+  size: 445282
+  date: '1993-11-29T21:01:22'
+  crc: '0x6a0296e0'
+- name: ANIM\PLAY256.EXE
+  size: 40915
+  date: '1993-04-02T05:26:14'
+  crc: '0xc8462178'
+- name: ANIM\SAL0.256
+  size: 249025
+  date: '1994-02-18T00:04:20'
+  crc: '0x5fe42680'
+- name: DID.DAT
+  size: 7126883
+  date: '1994-12-21T00:54:16'
+  crc: '0x7bb4c07c'
+- name: DISK1.DAT
+  size: 1102472
+  date: '1994-12-21T20:51:16'
+  crc: '0xe138f80d'
+- name: INFERNO.BMP
+  size: 330264
+  date: '1995-02-16T20:32:04'
+  crc: '0xf570f0bd'
+- name: INSTALL.EXE
+  size: 23759
+  date: '1995-01-12T21:00:34'
+  crc: '0xaed31a45'

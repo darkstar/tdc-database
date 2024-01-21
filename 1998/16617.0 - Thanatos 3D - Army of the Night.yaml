@@ -1,0 +1,40 @@
+filename: Thanatos 3D - Army of the Night v2.1 (Installer) [SW] (1998)(RKDO Graphics) [Action].zip
+tdc_id: '16617.0'
+title:
+  screen: Thanatos 3D - Army of the Night
+publisher: RKDO Graphics
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2019-01-27T04:40:02'
+  last_modified: '2019-01-27T04:40:02'
+version: '2.1'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.BAT
+files:
+- name: FILE_ID.DIZ
+  size: 341
+  date: '1998-10-26T14:46:22'
+  crc: '0x84baf870'
+- name: INSTALL.BAT
+  size: 206
+  date: '1998-06-27T01:43:30'
+  crc: '0xcd0e5088'
+- name: README.BAT
+  size: 54
+  date: '1998-01-20T01:57:12'
+  crc: '0x7ea4eaaa'
+- name: THAN21.DAT
+  size: 1183037
+  date: '1998-06-27T03:42:08'
+  crc: '0xf1e43ba1'
+- name: THANATOS.DOC
+  size: 12879
+  date: '1998-03-13T09:30:58'
+  crc: '0xd699bf7f'

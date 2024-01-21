@@ -1,0 +1,43 @@
+filename: Digital Downs v1.3 (Installer) (1994)(Accidental Software) [Simulation].zip
+tdc_id: '13173.2'
+title:
+  screen: Digital Downs
+publisher: Accidental Software
+year: '1994'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T21:56:08'
+  last_modified: '2019-03-01T21:56:08'
+version: '1.3'
+type: zip
+installer: true
+files:
+- name: ddata.exe
+  size: 32596
+  date: '1996-12-24T23:32:00'
+  crc: '0xcccc0879'
+- name: ddlibs.exe
+  size: 247063
+  date: '1996-12-24T23:32:00'
+  crc: '0xde26bced'
+- name: ddowns.exe
+  size: 323888
+  date: '1996-12-24T23:32:00'
+  crc: '0x13cc2473'
+- name: describe.doc
+  size: 4170
+  date: '1996-12-24T23:32:00'
+  crc: '0x6fe8305d'
+- name: help.doc
+  size: 1173
+  date: '1996-12-24T23:32:00'
+  crc: '0xde4bde9e'
+- name: install.bat
+  size: 3785
+  date: '1996-12-24T23:32:00'
+  crc: '0x6391976a'
+- name: vendor.doc
+  size: 4493
+  date: '1996-12-24T23:32:00'
+  crc: '0x1428d4a4'

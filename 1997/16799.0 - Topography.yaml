@@ -1,0 +1,39 @@
+filename: Topography (1997)(Peter Swinkels) [Educational].zip
+tdc_id: '16799.0'
+title:
+  screen: Topography
+publisher: Peter Swinkels
+year: '1997'
+genre: Educational
+language: English
+date:
+  added: '2019-03-02T10:38:34'
+  last_modified: '2019-03-02T10:38:34'
+type: zip
+commands:
+  play: TOPO.EXE
+files:
+- name: NAMEN.DAT
+  size: 425
+  date: '1998-03-31T10:48:36'
+  crc: '0xebee517c'
+- name: NL.AFB
+  size: 109503
+  date: '1997-08-28T16:06:22'
+  crc: '0x022eb161'
+- name: TITEL.AFB
+  size: 10583
+  date: '1997-08-28T16:07:00'
+  crc: '0xe208e503'
+- name: TITEL.DAT
+  size: 392
+  date: '1997-02-15T23:53:48'
+  crc: '0x71f207cc'
+- name: TOPO.BAS
+  size: 4260
+  date: '2000-01-06T15:05:22'
+  crc: '0x80cfc6d8'
+- name: TOPO.EXE
+  size: 59924
+  date: '2000-01-06T15:05:26'
+  crc: '0xcadbd387'

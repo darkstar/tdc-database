@@ -1,0 +1,62 @@
+filename: Alpine Tram Ride v1.3 [a1] (1989)(Merit Software) [Educational].zip
+tdc_id: '8295.1'
+title:
+  box: Alpine Tram Ride
+publisher: Merit Software
+year: '1989'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T18:27:10'
+  last_modified: '2019-03-01T18:27:10'
+version: '1.3'
+type: zip
+tags:
+- Alternate: 1
+commands:
+  play: LTI.EXE
+files:
+- name: ATR1.DPI
+  size: 11146
+  date: '1987-04-28T17:15:50'
+  crc: '0xd349c867'
+- name: ATR2.DPI
+  size: 12812
+  date: '1987-04-28T17:15:48'
+  crc: '0x305a68a4'
+- name: BYE.SCR
+  size: 16016
+  date: '1987-04-28T17:15:58'
+  crc: '0x8453810f'
+- name: DIRECS.SCR
+  size: 16016
+  date: '1987-04-28T17:15:54'
+  crc: '0x0a38eef3'
+- name: LOGO.SCR
+  size: 16016
+  date: '1987-04-28T17:15:56'
+  crc: '0xd2995ab1'
+- name: LTI.EXE
+  size: 32905
+  date: '1987-09-10T14:02:46'
+  crc: '0xbda92b06'
+- name: LTI.EX_
+  size: 32905
+  date: '1987-05-07T16:58:30'
+  crc: '0xe5db23c0'
+- name: MOUNTAIN.SCR
+  size: 16016
+  date: '1987-04-28T17:16:08'
+  crc: '0x4e450ee2'
+- name: NUMBERS.DPI
+  size: 10850
+  date: '1987-04-28T17:15:46'
+  crc: '0xca51be07'
+- name: SOUND.SCR
+  size: 16016
+  date: '1987-04-28T17:16:04'
+  crc: '0x24068725'
+- name: TITLE.SCR
+  size: 16016
+  date: '1987-04-28T17:16:02'
+  crc: '0x7a53680a'

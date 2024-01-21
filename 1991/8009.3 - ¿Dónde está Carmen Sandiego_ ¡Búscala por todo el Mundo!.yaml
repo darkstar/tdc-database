@@ -1,0 +1,47 @@
+filename: ¿Dónde está Carmen Sandiego_ ¡Búscala por todo el Mundo! (Es) [o1] (1991)(Brøderbund Software, Inc.) [Adventure, Educational].zip
+tdc_id: '8009.3'
+title:
+  box: ¿Dónde está Carmen Sandiego? ¡Búscala por todo el Mundo!
+publisher: Brøderbund Software, Inc.
+year: '1991'
+genre:
+- Adventure
+- Educational
+language: Spanish
+date:
+  added: '2019-03-01T18:40:10'
+  last_modified: '2019-03-01T18:40:10'
+type: zip
+tags:
+- Overdump: 1
+commands:
+  play: CARMEN.EXE
+files:
+- name: CARMEN.DAT
+  size: 138432
+  date: '1991-06-30T12:20:00'
+  crc: '0x361e8833'
+- name: CARMEN.EXE
+  size: 125600
+  date: '1991-06-30T12:20:00'
+  crc: '0x694dc428'
+- name: CITIES.DAT
+  size: 192193
+  date: '1991-06-30T12:20:00'
+  crc: '0x3647e8cd'
+- name: CODIGO
+  size: 380
+  date: '1980-01-03T00:59:24'
+  crc: '0x3788743a'
+- name: DIGISND.DAT
+  size: 106275
+  date: '1991-06-30T12:20:00'
+  crc: '0x118dec0a'
+- name: INTERPOL.DAT
+  size: 2112
+  date: '2010-01-23T20:27:02'
+  crc: '0x2216481b'
+- name: MIDISND.DAT
+  size: 7568
+  date: '1991-06-30T12:20:00'
+  crc: '0x1c8fe81f'

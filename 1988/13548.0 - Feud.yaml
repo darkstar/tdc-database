@@ -1,0 +1,31 @@
+filename: Feud (1988)(Mastertronic Group Ltd.) [Action].zip
+tdc_id: '13548.0'
+parent_id: '13548.2'
+title:
+  box: Feud
+publisher: Mastertronic Group Ltd.
+year: '1988'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:26:10'
+  last_modified: '2019-03-01T18:26:10'
+type: zip
+commands:
+  play: AUTOEXEC.EXE
+references:
+  dosid: DOS02125
+  exodos: Feud (1988).zip
+files:
+- name: AUTOEXEC.EXE
+  size: 83185
+  date: '1988-02-13T10:58:26'
+  crc: '0x4ccbd3f5'
+- name: GRAFIX
+  size: 50160
+  date: '1980-01-02T19:36:52'
+  crc: '0x3aa95bd2'
+- name: TITLE.PIC
+  size: 16384
+  date: '1980-01-07T02:10:52'
+  crc: '0x3f385be8'

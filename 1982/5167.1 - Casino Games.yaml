@@ -1,0 +1,57 @@
+filename: Casino Games v1.05 (1982)(IBM) [Simulation, Cards].zip
+tdc_id: '5167.1'
+title:
+  screen: Casino Games
+publisher: IBM
+year: '1982'
+genre:
+- Simulation
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:22:58'
+  last_modified: '2019-03-01T18:22:58'
+version: '1.05'
+type: zip
+media: Download
+commands:
+  play: Runme.bat
+references:
+  dosid: DOS01275
+  exodos: Casino Games (1982).zip
+files:
+- name: BLACK.BAS
+  size: 20480
+  date: '1983-08-11T12:00:16'
+  crc: '0xec60b811'
+- name: DRAWING.EXE
+  size: 34688
+  date: '1983-08-11T12:00:16'
+  crc: '0x5d73b81a'
+- name: INTRO.EXE
+  size: 3072
+  date: '1983-08-11T12:00:18'
+  crc: '0xff47ef02'
+- name: POKER.BAS
+  size: 28928
+  date: '1983-08-11T12:00:14'
+  crc: '0x318fa669'
+- name: Runme.bat
+  size: 31
+  date: '2002-01-19T08:26:26'
+  crc: '0xbdb5be70'
+- name: SLOT.BAS
+  size: 12032
+  date: '1983-08-11T12:00:14'
+  crc: '0xd426e9aa'
+- name: START.BAS
+  size: 10368
+  date: '1983-08-11T12:00:12'
+  crc: '0x4dba3e27'
+- name: VENDOR-#.DA1
+  size: 0
+  date: '1983-07-04T00:00:00'
+- name: gwbasic.EXE
+  size: 80592
+  date: '1988-02-09T00:00:02'
+  crc: '0x8462d0e4'

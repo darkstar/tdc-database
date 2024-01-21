@@ -1,0 +1,71 @@
+filename: Alex the Allegator v0.1a (1999)(Johan Peitz) [Action].zip
+tdc_id: '8223.0'
+title:
+  screen: Alex the Allegator
+publisher: Johan Peitz
+year: '1999'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:45:16'
+  last_modified: '2019-03-02T10:45:16'
+version: 0.1a
+type: zip
+commands:
+  play: ALEX.EXE
+references:
+  dosid: DOS15207
+  exodos: Alex the Allegator (1999).zip
+files:
+- name: ALEX.C
+  size: 14248
+  date: '1999-11-29T00:54:22'
+  crc: '0x07a057d3'
+- name: ALEX.EXE
+  size: 134976
+  date: '1999-11-29T00:59:06'
+  crc: '0xc18e4d9a'
+- name: COMPTIME.H
+  size: 36
+  date: '1999-11-29T00:53:04'
+  crc: '0xa98a49d6'
+- name: CWSDPMI.EXE
+  size: 20473
+  date: '1997-10-19T21:48:14'
+  crc: '0x80fa6999'
+- name: GFX.DAT
+  size: 68595
+  date: '1999-11-29T00:50:54'
+  crc: '0xd79bb129'
+- name: GFX.H
+  size: 2407
+  date: '1999-11-29T00:35:26'
+  crc: '0x04ad6e7f'
+- name: LEVEL.C
+  size: 1964
+  date: '1999-11-29T00:40:12'
+  crc: '0xb944f387'
+- name: MAPED.C
+  size: 6343
+  date: '1999-11-29T00:40:02'
+  crc: '0xc425ea51'
+- name: PLAYER.C
+  size: 357
+  date: '1999-11-28T23:35:06'
+  crc: '0x277950b3'
+- name: README.TXT
+  size: 1985
+  date: '1999-11-29T00:56:28'
+  crc: '0x614010d8'
+- name: SOUND.DAT
+  size: 25341
+  date: '1999-11-29T00:19:16'
+  crc: '0x90ff5e37'
+- name: SOUND.H
+  size: 301
+  date: '1999-11-28T16:11:20'
+  crc: '0x00fd1eb9'
+- name: TEST.MAP
+  size: 49208
+  date: '1999-11-29T01:10:56'
+  crc: '0x749cb6a8'

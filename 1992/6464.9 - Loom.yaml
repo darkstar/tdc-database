@@ -1,0 +1,49 @@
+filename: Loom CD (1992)(Lucasfilm Games LLC) [Adventure].zip
+tdc_id: '6464.9'
+parent_id: '6464.19'
+title:
+  box: Loom
+publisher: Lucasfilm Games LLC
+year: '1992'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:48:54'
+  last_modified: '2023-11-23T09:02:28'
+type: zip
+media: CD-ROM
+audio:
+- CD-DA
+commands:
+  play: LOOM.EXE
+references:
+  mobygames: https://www.mobygames.com/game/176/loom/
+files:
+- name: 000.LFL
+  size: 8307
+  date: '1992-06-09T12:49:20'
+  crc: '0x3ef3e225'
+- name: 901.LFL
+  size: 2613
+  date: '1992-06-09T12:49:20'
+  crc: '0x4406f959'
+- name: 902.LFL
+  size: 4193
+  date: '1992-06-09T12:49:20'
+  crc: '0xbe383442'
+- name: 903.LFL
+  size: 2019
+  date: '1992-06-09T12:49:20'
+  crc: '0xc1ebb5b3'
+- name: 904.LFL
+  size: 4388
+  date: '1992-06-09T12:49:20'
+  crc: '0xa3c6fae4'
+- name: DISK01.LEC
+  size: 4059462
+  date: '1992-06-09T12:50:10'
+  crc: '0x3359482b'
+- name: LOOM.EXE
+  size: 117089
+  date: '1992-06-09T12:50:12'
+  crc: '0xc932c39d'

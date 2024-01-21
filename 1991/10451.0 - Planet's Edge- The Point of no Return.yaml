@@ -1,0 +1,62 @@
+filename: Planet's Edge- The Point of no Return (Installer) (1991)(New World Computing, Inc.) [Role-Playing (RPG), Strategy].zip
+tdc_id: '10451.0'
+title:
+  box: 'Planet''s Edge: The Point of no Return'
+publisher: New World Computing, Inc.
+year: '1991'
+genre:
+- Role-Playing (RPG)
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:37:24'
+  last_modified: '2019-03-01T18:37:24'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 17636
+  date: '1992-02-24T17:14:40'
+  crc: '0xf3dde10a'
+- name: INTRO.PT0
+  size: 554706
+  date: '1992-03-03T11:21:26'
+  crc: '0x357ca35a'
+- name: LAND.NWC
+  size: 76685
+  date: '1992-03-03T10:40:02'
+  crc: '0x4b671bb7'
+- name: MAP.PT0
+  size: 197472
+  date: '1992-03-03T11:20:46'
+  crc: '0xf35e7028'
+- name: OBJECTS.NWC
+  size: 18810
+  date: '1992-03-03T10:40:38'
+  crc: '0xf223dc48'
+- name: PE.NWC
+  size: 45197
+  date: '1992-03-03T10:40:34'
+  crc: '0xbe6fe8ad'
+- name: PE.PT0
+  size: 164864
+  date: '1992-03-03T11:21:42'
+  crc: '0x2a8c0dc4'
+- name: PE.PT1
+  size: 1213952
+  date: '1992-03-03T11:23:30'
+  crc: '0x5f63d2c3'
+- name: PE.PT2
+  size: 1194229
+  date: '1992-03-03T11:25:14'
+  crc: '0x1f8facc0'
+- name: SPACE.NWC
+  size: 112912
+  date: '1992-03-03T10:40:24'
+  crc: '0x001f700e'
+- name: SPACET.NWC
+  size: 23607
+  date: '1992-03-03T10:40:44'
+  crc: '0xccc9a8a8'

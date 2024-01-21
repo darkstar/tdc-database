@@ -1,0 +1,33 @@
+filename: EdChess v2.02 [SW] (1990)(EdTech Associates Inc.) [Strategy, Chess].zip
+tdc_id: '13299.0'
+title:
+  screen: EdChess
+publisher: EdTech Associates Inc.
+year: '1990'
+genre:
+- Strategy
+- Chess
+language: English
+date:
+  added: '2019-03-01T18:32:30'
+  last_modified: '2019-03-01T18:32:30'
+version: '2.02'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: EDCHESS.EXE
+files:
+- name: EDCHESS.DOC
+  size: 30129
+  date: '1990-10-09T22:48:58'
+  crc: '0x70523880'
+- name: EDCHESS.EXE
+  size: 51720
+  date: '1990-10-09T22:47:00'
+  crc: '0xd7ab18cf'
+- name: EDCHESS.LIB
+  size: 45300
+  date: '1990-10-09T22:47:00'
+  crc: '0xdf34628a'

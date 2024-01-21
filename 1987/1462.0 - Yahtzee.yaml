@@ -1,0 +1,23 @@
+filename: Yahtzee (1987)(David Keil) [Strategy].zip
+tdc_id: '1462.0'
+title:
+  screen: Yahtzee
+publisher: David Keil
+year: '1987'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:25:50'
+  last_modified: '2019-03-01T18:25:50'
+type: zip
+commands:
+  play: YAHTZEE.EXE
+files:
+- name: YAHTZEE.BAS
+  size: 24706
+  date: '1987-08-16T19:18:08'
+  crc: '0x2a63f6a7'
+- name: YAHTZEE.EXE
+  size: 79760
+  date: '1987-08-16T19:20:40'
+  crc: '0x05d8c90c'

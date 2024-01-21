@@ -1,0 +1,56 @@
+filename: Car Builder v2.10 (1990)(Optimum Resource, Inc.) [Educational, Simulation].zip
+tdc_id: '12010.2'
+title:
+  box: Car Builder
+publisher: Optimum Resource, Inc.
+year: '1990'
+genre:
+- Educational
+- Simulation
+language: English
+date:
+  added: '2019-03-01T18:32:00'
+  last_modified: '2023-05-17T07:17:57'
+version: '2.10'
+type: zip
+commands:
+  play: CAR.EXE
+references:
+  mobygames: https://www.mobygames.com/game/7968/car-builder/
+files:
+- name: BASIC.CAR
+  size: 1556
+  date: '1989-11-10T11:32:10'
+  crc: '0xbd90dc8f'
+- name: CAR.EXE
+  size: 126098
+  date: '1990-08-02T13:52:20'
+  crc: '0x8b675df5'
+- name: CARPATH
+  size: 66
+  date: '1990-06-05T14:50:32'
+  crc: '0x001714b7'
+- name: FRITZER.CAR
+  size: 1556
+  date: '1991-12-05T22:34:16'
+  crc: '0x2359d29b'
+- name: IMAGES
+  size: 3389
+  date: '1989-09-19T15:13:26'
+  crc: '0xbd10dbe7'
+- name: READ.ME
+  size: 521
+  date: '1990-08-02T11:27:54'
+  crc: '0xba3db245'
+- name: SETPATH.EXE
+  size: 27792
+  date: '1990-06-05T14:44:16'
+  crc: '0x058b8395'
+- name: SPYDER.CAR
+  size: 1556
+  date: '1989-11-10T12:15:34'
+  crc: '0xccc18b13'
+- name: TRACK2
+  size: 6527
+  date: '1989-11-06T02:24:52'
+  crc: '0xecff8265'

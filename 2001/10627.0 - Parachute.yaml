@@ -1,0 +1,31 @@
+filename: Parachute v1.1 [FW] (2001)(Jan Maes, JAM Productions) [Action].zip
+tdc_id: '10627.0'
+title:
+  screen: Parachute
+publisher: Jan Maes, JAM Productions
+year: '2001'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:55:38'
+  last_modified: '2023-03-15T14:34:50'
+version: '1.1'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: pchute.exe
+files:
+- name: high.dat
+  size: 3
+  date: '1996-12-24T23:32:00'
+  crc: '0x8f93c1e6'
+- name: para.pic
+  size: 64000
+  date: '1996-12-24T23:32:00'
+  crc: '0xe38f2c5b'
+- name: pchute.exe
+  size: 26192
+  date: '1996-12-24T23:32:00'
+  crc: '0x21460926'

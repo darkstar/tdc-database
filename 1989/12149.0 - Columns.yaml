@@ -1,0 +1,29 @@
+filename: Columns v1.01 (1989)(Nathan Meyers) [Action, Strategy].zip
+tdc_id: '12149.0'
+title:
+  screen: Columns
+publisher: Nathan Meyers
+year: '1989'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:27:30'
+  last_modified: '2019-03-01T18:27:30'
+version: '1.01'
+type: zip
+commands:
+  play: COLUMNS.EXE
+references:
+  dosid: DOS15305
+  exodos: Columns (1989).zip
+files:
+- name: COLUMNS.DOC
+  size: 5750
+  date: '1989-07-03T21:49:02'
+  crc: '0xbc1ea70d'
+- name: COLUMNS.EXE
+  size: 42594
+  date: '1989-07-01T23:34:34'
+  crc: '0xd9dcd24f'

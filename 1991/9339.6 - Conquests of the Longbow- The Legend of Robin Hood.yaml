@@ -1,0 +1,120 @@
+filename: Conquests of the Longbow- The Legend of Robin Hood (demo) (1991)(Sierra On-Line, Inc.) [Adventure].zip
+tdc_id: '9339.6'
+title:
+  screen: 'Conquests of the Longbow: The Legend of Robin Hood'
+  qualifier: demo
+publisher: Sierra On-Line, Inc.
+year: '1991'
+genre: Adventure
+language: English
+date:
+  added: '2022-10-27T10:50:22'
+  last_modified: '2022-10-27T10:50:22'
+type: zip
+demo: true
+commands:
+  play: ROBIN.BAT
+  setup: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/conquests-of-the-longbow-the-legend-of-robin-hood
+files:
+- name: '!'
+  size: 1695
+  date: '1991-10-31T16:00:00'
+  crc: '0xa31ae46c'
+- name: ADL.DRV
+  size: 8040
+  date: '1991-10-31T16:00:00'
+  crc: '0x85e306b8'
+- name: CMS.DRV
+  size: 3741
+  date: '1991-10-31T16:00:00'
+  crc: '0x534b8408'
+- name: IBMKBD.DRV
+  size: 537
+  date: '1991-10-31T16:00:00'
+  crc: '0x63ed6bcc'
+- name: IBMPS1.DRV
+  size: 4364
+  date: '1991-10-31T16:00:00'
+  crc: '0xbfcb766f'
+- name: INSTALL.EXE
+  size: 77409
+  date: '1991-10-31T16:00:00'
+  crc: '0xaab85b87'
+- name: INSTALL.HLP
+  size: 14028
+  date: '1991-10-31T16:00:00'
+  crc: '0x97c926bc'
+- name: INSTALL.SCR
+  size: 1137
+  date: '1991-10-31T16:00:00'
+  crc: '0xafece078'
+- name: INSTALL.TXT
+  size: 4189
+  date: '1991-10-31T16:00:00'
+  crc: '0x73e48627'
+- name: MT32.DRV
+  size: 1997
+  date: '1991-10-31T16:00:00'
+  crc: '0xf1720fbe'
+- name: MTBLAST.DRV
+  size: 3693
+  date: '1991-10-31T16:00:00'
+  crc: '0xbf214a63'
+- name: README
+  size: 760
+  date: '1991-10-31T16:00:00'
+  crc: '0x9632f2d2'
+- name: RESOURCE.001
+  size: 869916
+  date: '1991-10-31T16:00:00'
+  crc: '0xfc3fa292'
+- name: RESOURCE.CFG
+  size: 137
+  date: '1991-10-31T16:00:00'
+  crc: '0x09ecf179'
+- name: RESOURCE.MAP
+  size: 588
+  date: '1991-10-31T16:00:00'
+  crc: '0x2c2de96e'
+- name: ROBIN.BAT
+  size: 8
+  date: '1991-10-31T16:00:00'
+  crc: '0x3779ab1f'
+- name: ROOT.BAT
+  size: 29
+  date: '1991-10-31T16:00:00'
+  crc: '0x164ade98'
+- name: SIERRA.BAT
+  size: 6
+  date: '1991-10-31T16:00:00'
+  crc: '0xd3cb3f73'
+- name: SIERRA.EXE
+  size: 108173
+  date: '1991-10-31T16:00:00'
+  crc: '0x1a624966'
+- name: SNDBLAST.DRV
+  size: 9748
+  date: '1991-10-31T16:00:00'
+  crc: '0x3404a29d'
+- name: STD.DRV
+  size: 1468
+  date: '1991-10-31T16:00:00'
+  crc: '0x9712fe52'
+- name: TANDY3V.DRV
+  size: 3950
+  date: '1991-10-31T16:00:00'
+  crc: '0xcecb955a'
+- name: TANDY3VD.DRV
+  size: 4498
+  date: '1991-10-31T16:00:00'
+  crc: '0x6814b17f'
+- name: VGA320.DRV
+  size: 4307
+  date: '1991-10-31T16:00:00'
+  crc: '0x1e2f4ed8'
+- name: VGA320BW.DRV
+  size: 4369
+  date: '1991-10-31T16:00:00'
+  crc: '0x68f8461e'

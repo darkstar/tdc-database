@@ -1,0 +1,30 @@
+filename: Grandmaster Chess Deluxe (Installer) (1993)(Capstone Software) [Strategy, Chess].zip
+tdc_id: '10893.2'
+title:
+  box: Grandmaster Chess Deluxe
+publisher: Capstone Software
+year: '1993'
+genre:
+- Strategy
+- Chess
+language: English
+date:
+  added: '2019-03-01T19:09:22'
+  last_modified: '2019-03-01T19:09:22'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: CHESS00.INS
+  size: 1375719
+  date: '1993-05-28T10:06:52'
+  crc: '0xccfc46a3'
+- name: CHESS01.INS
+  size: 249643
+  date: '1993-05-28T10:10:28'
+  crc: '0xf7d474f1'
+- name: INSTALL.EXE
+  size: 81426
+  date: '1993-05-28T12:33:38'
+  crc: '0x9501e29c'

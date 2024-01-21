@@ -1,0 +1,28 @@
+filename: Planet Wars (1998)(Benjamin Garrison) [Strategy].zip
+tdc_id: '4202.0'
+title:
+  screen: Planet Wars
+publisher: Benjamin Garrison
+year: '1998'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:43:44'
+  last_modified: '2019-03-02T10:43:44'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 28
+  date: '2018-12-06T20:57:32'
+  crc: '0xe0bc2712'
+- name: PLNTWARS.BAS
+  size: 13964
+  date: '2018-11-22T19:11:16'
+  crc: '0x50337dc1'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

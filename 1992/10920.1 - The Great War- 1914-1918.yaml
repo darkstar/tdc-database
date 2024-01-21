@@ -1,0 +1,48 @@
+filename: Great War- 1914-1918, The (Installer) (1992)(Strategic Simulations, Inc.) [Strategy].zip
+tdc_id: '10920.1'
+title:
+  box: 'The Great War: 1914-1918'
+publisher: Strategic Simulations, Inc.
+year: '1992'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:45:42'
+  last_modified: '2019-03-01T18:45:42'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: BOOT.NFO
+  size: 23
+  date: '1993-09-03T10:09:38'
+  crc: '0x1b105e66'
+- name: DATA1.ARJ
+  size: 1373616
+  date: '1993-09-02T16:15:02'
+  crc: '0x25dbb23b'
+- name: DATA2.ARJ
+  size: 1456581
+  date: '1993-09-02T16:19:50'
+  crc: '0x1e1742d8'
+- name: DATA3.ARJ
+  size: 1456545
+  date: '1993-09-02T16:24:44'
+  crc: '0xc36fa8d0'
+- name: DATA4.ARJ
+  size: 496871
+  date: '1993-09-02T16:26:30'
+  crc: '0x21b9e474'
+- name: DEARJ.EXE
+  size: 39441
+  date: '1993-03-19T16:18:52'
+  crc: '0x284b68d2'
+- name: INSTALL.EXE
+  size: 41621
+  date: '1993-09-03T10:08:42'
+  crc: '0x66d3cefb'
+- name: INSTALL.NFO
+  size: 127
+  date: '1993-09-03T10:09:38'
+  crc: '0xbcaeee42'

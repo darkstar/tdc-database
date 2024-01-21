@@ -1,0 +1,112 @@
+filename: HangIt v0.70 (2003)(Michael Olson) [Strategy].zip
+tdc_id: '11056.1'
+title:
+  screen: HangIt
+publisher: Michael Olson
+year: '2003'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:56:30'
+  last_modified: '2019-03-02T10:56:30'
+version: '0.70'
+type: zip
+commands:
+  play: hangit.exe
+files:
+- name: Makefile
+  size: 5162
+  date: '2003-08-02T17:31:48'
+  crc: '0xa4f2d250'
+- name: authors.txt
+  size: 381
+  date: '2003-08-02T17:31:48'
+  crc: '0xe77c33e0'
+- name: bugs.txt
+  size: 89
+  date: '2003-08-02T17:31:48'
+  crc: '0x184c2d99'
+- name: changelog.txt
+  size: 7612
+  date: '2003-08-02T17:31:48'
+  crc: '0x10a8aff8'
+- name: copying.txt
+  size: 18409
+  date: '2003-08-02T17:31:48'
+  crc: '0xce5ad968'
+- name: doc\index.html
+  size: 9221
+  date: '2003-08-02T17:31:48'
+  crc: '0x222f34ec'
+- name: hangit.exe
+  size: 56020
+  date: '2003-08-02T17:31:48'
+  crc: '0xd7fbee67'
+- name: install.txt
+  size: 1083
+  date: '2003-08-02T17:31:48'
+  crc: '0x6ff65f37'
+- name: man\hangit.4
+  size: 3025
+  date: '2003-08-02T17:31:48'
+  crc: '0x8b3d5c62'
+- name: news.txt
+  size: 6885
+  date: '2003-08-02T17:31:48'
+  crc: '0x15f83c1f'
+- name: readme.txt
+  size: 3500
+  date: '2003-08-02T17:31:48'
+  crc: '0xfb1398e5'
+- name: src\.cvsignore
+  size: 3
+  date: '2003-08-02T17:31:48'
+  crc: '0x9bf2a742'
+- name: src\defs.h
+  size: 767
+  date: '2003-08-02T17:31:48'
+  crc: '0x0a117f9b'
+- name: src\extutil.c
+  size: 3587
+  date: '2003-08-02T17:31:48'
+  crc: '0x8ab8e366'
+- name: src\extutil.h
+  size: 701
+  date: '2003-08-02T17:31:48'
+  crc: '0x1fe97e3d'
+- name: src\game.c
+  size: 6884
+  date: '2003-08-02T17:31:48'
+  crc: '0x4b229e52'
+- name: src\game.h
+  size: 512
+  date: '2003-08-02T17:31:48'
+  crc: '0xd14f0c77'
+- name: src\graphics.c
+  size: 9786
+  date: '2003-08-02T17:31:48'
+  crc: '0x96a14f1d'
+- name: src\graphics.h
+  size: 1275
+  date: '2003-08-02T17:31:48'
+  crc: '0xdeefbf71'
+- name: src\main.c
+  size: 7920
+  date: '2003-08-02T17:31:48'
+  crc: '0xa755687e'
+- name: src\wordlist.c
+  size: 3685
+  date: '2003-08-02T17:31:48'
+  crc: '0x2051c185'
+- name: src\wordlist.h
+  size: 301
+  date: '2003-08-02T17:31:48'
+  crc: '0xe6e38627'
+- name: thanks.txt
+  size: 802
+  date: '2003-08-02T17:31:48'
+  crc: '0xa68abc3f'
+- name: todo.txt
+  size: 698
+  date: '2003-08-02T17:31:48'
+  crc: '0xfc47197b'

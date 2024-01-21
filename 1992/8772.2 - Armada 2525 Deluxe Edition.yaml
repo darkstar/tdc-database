@@ -1,0 +1,98 @@
+filename: Armada 2525 Deluxe Edition (1992)(Interstel Corporation) [Strategy].zip
+tdc_id: '8772.2'
+title:
+  box: Armada 2525 Deluxe Edition
+publisher: Interstel Corporation
+year: '1992'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:41:14'
+  last_modified: '2019-03-01T18:41:14'
+type: zip
+commands:
+  play: 2525DE.EXE
+references:
+  dosid: DOS00852
+  exodos: Armada 2525 (1991).zip
+files:
+- name: 2525DE.EXE
+  size: 268944
+  date: '1994-05-20T19:54:54'
+  crc: '0x38c2aa40'
+- name: ADLIB.BIN
+  size: 11613
+  date: '1991-07-25T14:55:42'
+  crc: '0xc0aa98e4'
+- name: BIOATTAC.SEQ
+  size: 29413
+  date: '1994-04-24T14:14:04'
+  crc: '0x47a32967'
+- name: END.SEQ
+  size: 1278050
+  date: '1994-04-23T20:35:18'
+  crc: '0x82fe6b1c'
+- name: ESCAPE.SEQ
+  size: 26204
+  date: '1994-04-24T14:16:42'
+  crc: '0xac78375e'
+- name: EXPL.ISL
+  size: 8398
+  date: '1994-04-29T12:50:10'
+  crc: '0x6ec7b9cb'
+- name: HEADS.ISL
+  size: 15415
+  date: '1994-04-24T16:09:54'
+  crc: '0x1ff3450c'
+- name: ICONS.ISL
+  size: 6237
+  date: '1994-04-29T12:50:10'
+  crc: '0x0923ff86'
+- name: INTRO.SEQ
+  size: 1361547
+  date: '1994-04-28T17:39:30'
+  crc: '0xcae1c70b'
+- name: MARKERS.ISL
+  size: 438
+  date: '1994-04-29T12:50:12'
+  crc: '0xdc67f4a5'
+- name: MCGAMAP.SYM
+  size: 168964
+  date: '1994-04-29T12:49:48'
+  crc: '0x35d4cb7c'
+- name: MCGAPANL.ISL
+  size: 14356
+  date: '1994-04-29T12:50:04'
+  crc: '0xb26c409d'
+- name: MCGAPLNT.SYM
+  size: 64004
+  date: '1994-04-29T12:49:54'
+  crc: '0x52523c1e'
+- name: MISSILES.ISL
+  size: 1426
+  date: '1994-04-29T12:50:06'
+  crc: '0x30dc3679'
+- name: PLANDES.SEQ
+  size: 33890
+  date: '1994-04-24T14:15:24'
+  crc: '0xa393f63e'
+- name: PLANENSL.SEQ
+  size: 48666
+  date: '1994-04-24T14:27:46'
+  crc: '0x8c1b7760'
+- name: POPATTAC.SEQ
+  size: 40901
+  date: '1994-04-24T14:29:26'
+  crc: '0xb13c9402'
+- name: POPWIPE.SEQ
+  size: 19638
+  date: '1994-04-24T14:30:48'
+  crc: '0x96b1cf03'
+- name: SHIPS.ISL
+  size: 15177
+  date: '1994-04-29T12:50:06'
+  crc: '0x0366c3dd'
+- name: TPAGE2.SYM
+  size: 64004
+  date: '1994-04-29T12:50:00'
+  crc: '0x44290267'

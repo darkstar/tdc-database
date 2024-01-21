@@ -1,0 +1,124 @@
+filename: Warcraft- Orcs & Humans (demo) (Installer) (1994)(Blizzard Entertainment Inc.) [Strategy].zip
+tdc_id: '16014.7'
+title:
+  screen: 'Warcraft: Orcs & Humans'
+  qualifier: demo
+publisher: Blizzard Entertainment Inc.
+year: '1994'
+genre: Strategy
+language: English
+date:
+  added: '2022-12-16T20:17:53'
+  last_modified: '2022-12-16T20:17:53'
+type: zip
+installer: true
+demo: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/warcraft-orcs-humans
+files:
+- name: ADLIB.MDA
+  size: 4107
+  date: '1994-10-06T09:44:10'
+  crc: '0x3f077f10'
+- name: ADLIBG.MDA
+  size: 4593
+  date: '1994-10-06T09:44:10'
+  crc: '0xc3e67f97'
+- name: CHKLIST.MS
+  size: 27
+  date: '1994-10-26T12:57:04'
+  crc: '0x42a9a7a6'
+- name: DATA.WAA
+  size: 859622
+  date: '1994-10-06T09:44:14'
+  crc: '0xafdc359e'
+- name: DOS4GW.EXA
+  size: 145878
+  date: '1994-10-06T09:44:08'
+  crc: '0x56d7d088'
+- name: HMAP01X.WAA
+  size: 29715
+  date: '1994-10-06T09:44:14'
+  crc: '0xf6d2f85a'
+- name: HMAP02X.WAA
+  size: 30226
+  date: '1994-10-06T09:44:14'
+  crc: '0xb4898b2a'
+- name: HMAP03X.WAA
+  size: 29968
+  date: '1994-10-06T09:44:14'
+  crc: '0xcb3f3001'
+- name: INSTALL.DAT
+  size: 671
+  date: '1994-10-06T09:44:06'
+  crc: '0x405b479c'
+- name: INSTALL.EXE
+  size: 54576
+  date: '1994-10-06T09:44:06'
+  crc: '0x0fd37039'
+- name: LOSEX.WAA
+  size: 17291
+  date: '1994-10-06T09:44:14'
+  crc: '0x3cd5fbc6'
+- name: MPU401.MDA
+  size: 684
+  date: '1994-10-06T09:44:10'
+  crc: '0x5cb5328c'
+- name: PAS.MDA
+  size: 4355
+  date: '1994-10-06T09:44:10'
+  crc: '0x0dc3111e'
+- name: PASPLUS.MDA
+  size: 4679
+  date: '1994-10-06T09:44:10'
+  crc: '0xf09e09ce'
+- name: README.TXA
+  size: 2036
+  date: '1994-10-06T09:44:08'
+  crc: '0xa03c91ff'
+- name: SB16.DIA
+  size: 1764
+  date: '1994-10-06T09:44:08'
+  crc: '0x7edc901c'
+- name: SBLASTER.DIA
+  size: 1760
+  date: '1994-10-06T09:44:08'
+  crc: '0x478ee762'
+- name: SBLASTER.MDA
+  size: 4148
+  date: '1994-10-06T09:44:10'
+  crc: '0xbb61d2a0'
+- name: SBPRO.DIA
+  size: 1683
+  date: '1994-10-06T09:44:08'
+  crc: '0x7d79d4f5'
+- name: SBPRO1.MDA
+  size: 4307
+  date: '1994-10-06T09:44:10'
+  crc: '0xe8c1fe99'
+- name: SBPRO2.MDA
+  size: 4637
+  date: '1994-10-06T09:44:10'
+  crc: '0x60c53839'
+- name: SETUP.EXA
+  size: 54111
+  date: '1994-10-06T09:44:08'
+  crc: '0xff2671e4'
+- name: WAR.EXA
+  size: 148323
+  date: '1994-10-06T09:44:08'
+  crc: '0xdf63d5a8'
+- name: WARCRAFT.ADA
+  size: 1533
+  date: '1994-10-06T09:44:08'
+  crc: '0xf71bc440'
+- name: WARCRAFT.OPA
+  size: 1534
+  date: '1994-10-06T09:44:08'
+  crc: '0xf8b436e9'
+- name: WINX.WAA
+  size: 17047
+  date: '1994-10-06T09:44:14'
+  crc: '0x17eb746b'

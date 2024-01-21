@@ -1,0 +1,40 @@
+filename: Manhole, The (1989)(Activision Publishing, Inc.) [Adventure, Educational].zip
+tdc_id: '9880.0'
+title:
+  box: The Manhole
+publisher: Activision Publishing, Inc.
+year: '1989'
+genre:
+- Adventure
+- Educational
+language: English
+date:
+  added: '2019-03-01T18:28:18'
+  last_modified: '2019-03-01T18:28:18'
+type: zip
+commands:
+  play: MH.EXE
+references:
+  dosid: DOS03336
+  exodos: Manhole, The (1988).zip
+files:
+- name: MANHOLE.DAT
+  size: 127541
+  date: '2012-01-07T10:32:32'
+  crc: '0x2fc7b250'
+- name: MH.EXE
+  size: 80703
+  date: '2012-01-07T10:32:30'
+  crc: '0x0df80bf8'
+- name: MUSIC.BLK
+  size: 132156
+  date: '2012-01-07T10:32:32'
+  crc: '0xd0754458'
+- name: PICS.BLK
+  size: 2073267
+  date: '2012-01-07T10:32:30'
+  crc: '0xce526cc6'
+- name: SNDS.BLK
+  size: 300092
+  date: '2012-01-07T10:32:32'
+  crc: '0x7160e25a'

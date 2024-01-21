@@ -1,0 +1,32 @@
+filename: XRogue v8.0.1 (2000)(Ken Dalka, Mike Morgan, Bob Pietkivitch) [Role-Playing (RPG)].zip
+tdc_id: '4659.0'
+title:
+  screen: XRogue
+publisher: Ken Dalka, Mike Morgan, Bob Pietkivitch
+year: '2000'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-02T10:55:08'
+  last_modified: '2019-03-02T10:55:08'
+version: 8.0.1
+type: zip
+commands:
+  play: xrogue.exe
+files:
+- name: CWSDPMI.EXE
+  size: 20217
+  date: '1996-08-18T19:46:18'
+  crc: '0x6ba5fa62'
+- name: LICENSE.TXT
+  size: 3473
+  date: '2000-05-02T19:45:30'
+  crc: '0xc8517d61'
+- name: README.TXT
+  size: 35675
+  date: '2000-05-02T19:48:36'
+  crc: '0xab2491b1'
+- name: xrogue.exe
+  size: 629092
+  date: '2005-02-07T20:34:26'
+  crc: '0x0c1fbbf6'

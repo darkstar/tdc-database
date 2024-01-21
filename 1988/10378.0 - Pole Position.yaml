@@ -1,0 +1,60 @@
+filename: Pole Position [f1] (1988)(Thunder Mountain) [Action, Simulation, Racing - Driving][!].zip
+tdc_id: '10378.0'
+title:
+  box: Pole Position
+publisher: Thunder Mountain
+year: '1988'
+genre:
+- Action
+- Simulation
+- Racing - Driving
+language: English
+date:
+  added: '2021-02-17T11:13:32'
+  last_modified: '2021-02-17T11:13:32'
+type: zip
+tags:
+- KnownGood
+- Fixed: 1
+commands:
+  play: DRIVE.EXE
+references:
+  dosid: DOS04055
+  exodos: Pole Position (1986).zip
+files:
+- name: BLIMP.GRF
+  size: 2278
+  date: '1988-06-25T11:02:50'
+  crc: '0xfe89466d'
+- name: CARS.GRF
+  size: 26952
+  date: '1988-06-25T11:02:52'
+  crc: '0x18282989'
+- name: CHARSET
+  size: 4096
+  date: '1988-06-25T11:02:56'
+  crc: '0x3afd7fe8'
+- name: DRIVE.EXE
+  size: 65024
+  date: '1988-06-28T00:16:14'
+  crc: '0xb2fccaac'
+- name: DRIVE.EX_
+  size: 65024
+  date: '1988-06-28T00:16:14'
+  crc: '0x612fc26f'
+- name: HILLS.GRF
+  size: 4864
+  date: '1988-06-25T11:02:54'
+  crc: '0x125696d0'
+- name: LOADING.PCX
+  size: 9280
+  date: '1988-06-25T11:02:32'
+  crc: '0xa9ce44fe'
+- name: PANEL.PCX
+  size: 3616
+  date: '1988-06-25T11:02:48'
+  crc: '0x675ce13d'
+- name: THUNDER.PCX
+  size: 7859
+  date: '1988-06-25T11:02:48'
+  crc: '0x5109ab5b'

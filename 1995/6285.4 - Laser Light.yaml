@@ -1,0 +1,29 @@
+filename: Laser Light v1.11r [SWR] (1995)(Pixel Painters Corporation) [Strategy].zip
+tdc_id: '6285.4'
+parent_id: '6285.2'
+title:
+  screen: Laser Light
+publisher: Pixel Painters Corporation
+year: '1995'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T22:01:18'
+  last_modified: '2023-01-03T09:33:12'
+version: 1.11r
+type: zip
+tags:
+- SharewareRegistered
+commands:
+  play: LL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/laser-light
+files:
+- name: LL.EXE
+  size: 94192
+  date: '1995-02-25T13:11:20'
+  crc: '0x4c9b8cd0'
+- name: LL.RES
+  size: 830170
+  date: '1995-02-25T13:11:34'
+  crc: '0xa15038bd'

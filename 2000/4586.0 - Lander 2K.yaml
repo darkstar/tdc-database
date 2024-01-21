@@ -1,0 +1,27 @@
+filename: Lander 2K (2000)(mcarp) [Action].zip
+tdc_id: '4586.0'
+title:
+  screen: Lander 2K
+publisher: mcarp
+year: '2000'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:54:54'
+  last_modified: '2019-03-02T10:54:54'
+type: zip
+commands:
+  play: LANDER.COM
+files:
+- name: LANDER.ASM
+  size: 22673
+  date: '2000-03-16T19:50:42'
+  crc: '0x52226e89'
+- name: LANDER.COM
+  size: 2035
+  date: '2000-03-16T19:50:44'
+  crc: '0x7d2d3e21'
+- name: LANDER.TXT
+  size: 428
+  date: '2000-03-16T19:36:24'
+  crc: '0xb0aad2cf'

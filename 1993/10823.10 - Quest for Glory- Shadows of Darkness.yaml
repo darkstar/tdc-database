@@ -1,0 +1,148 @@
+filename: Quest for Glory- Shadows of Darkness (CD-ROM) (demo) (1993)(Sierra On-Line, Inc.) [Action, Adventure, Role-Playing (RPG)].zip
+tdc_id: '10823.10'
+title:
+  screen: 'Quest for Glory: Shadows of Darkness'
+  qualifier: CD-ROM
+publisher: Sierra On-Line, Inc.
+year: '1993'
+genre:
+- Action
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2023-01-16T12:34:40'
+  last_modified: '2023-01-16T12:34:40'
+type: zip
+media: CD-ROM
+demo: true
+commands:
+  play: DEMO.BAT
+  setup: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/quest-for-glory-shadows-of-darkness
+files:
+- name: 610.SND
+  size: 3882
+  date: '1993-05-26T23:59:20'
+  crc: '0x7c1043e4'
+- name: 65535.MAP
+  size: 117
+  date: '1993-05-25T03:09:02'
+  crc: '0x0d77235c'
+- name: ADL.DRV
+  size: 9295
+  date: '1992-10-01T22:30:04'
+  crc: '0x2596aa71'
+- name: AUDBLAST.DRV
+  size: 8803
+  date: '1993-07-15T22:10:48'
+  crc: '0xadc91505'
+- name: AUDDISNY.DRV
+  size: 6705
+  date: '1993-04-12T21:27:00'
+  crc: '0x045a1fe1'
+- name: AUDNONE.DRV
+  size: 1109
+  date: '1993-04-12T21:21:54'
+  crc: '0x940c3211'
+- name: AUDPRO.DRV
+  size: 7436
+  date: '1993-04-12T21:20:32'
+  crc: '0xc296ca99'
+- name: AUDPS1.DRV
+  size: 6231
+  date: '1993-04-12T21:21:48'
+  crc: '0x7abda9a7'
+- name: AUDTHUND.DRV
+  size: 7708
+  date: '1993-04-12T21:20:24'
+  crc: '0x38e24fd1'
+- name: DEMO.BAT
+  size: 290
+  date: '1993-08-09T13:14:00'
+  crc: '0xbcd8009a'
+- name: FLYTHRU.SEQ
+  size: 3370704
+  date: '1993-04-27T23:56:04'
+  crc: '0xcb8c1fb3'
+- name: GENMIDI.DRV
+  size: 2549
+  date: '1993-01-12T23:01:40'
+  crc: '0x7b72c3f8'
+- name: IBMKBD.DRV
+  size: 758
+  date: '1993-02-10T03:01:24'
+  crc: '0x8caddcb1'
+- name: IBMPS1.DRV
+  size: 4018
+  date: '1992-07-09T04:54:50'
+  crc: '0xbc5b5bbe'
+- name: INSTALL.EXE
+  size: 175488
+  date: '1993-07-27T10:03:10'
+  crc: '0xacea53ce'
+- name: INSTALL.HLP
+  size: 17153
+  date: '1993-07-26T10:41:44'
+  crc: '0x8eae1426'
+- name: INSTALL.SCR
+  size: 133
+  date: '1993-07-26T12:07:38'
+  crc: '0xf57fb73b'
+- name: INSTALL.TXT
+  size: 9514
+  date: '1993-07-05T00:06:32'
+  crc: '0x6f1c38c2'
+- name: INTERP.ERR
+  size: 6274
+  date: '1993-05-25T04:59:24'
+  crc: '0x0da742fc'
+- name: MESSAGE.MAP
+  size: 20
+  date: '1993-05-23T20:44:28'
+  crc: '0x71492e16'
+- name: MT32.DRV
+  size: 2542
+  date: '1993-01-12T23:52:12'
+  crc: '0xa885862d'
+- name: README
+  size: 866
+  date: '1993-08-02T23:02:54'
+  crc: '0x0e54d7d6'
+- name: RESOURCE.000
+  size: 623154
+  date: '1993-05-24T22:40:28'
+  crc: '0xffbef77b'
+- name: RESOURCE.CFG
+  size: 19
+  date: '1993-08-17T02:06:38'
+  crc: '0xb6134082'
+- name: RESOURCE.MAP
+  size: 922
+  date: '1993-05-28T06:43:18'
+  crc: '0x3c7a5e35'
+- name: RESOURCE.MSG
+  size: 5026
+  date: '1993-05-23T20:44:28'
+  crc: '0xd72c25f0'
+- name: RESOURCE.SFX
+  size: 1630308
+  date: '1993-05-25T03:09:02'
+  crc: '0x644c267f'
+- name: SIERRA.EXE
+  size: 157337
+  date: '1993-05-28T06:43:18'
+  crc: '0xe15ff672'
+- name: STD.DRV
+  size: 1481
+  date: '1993-03-16T22:37:54'
+  crc: '0x578efe57'
+- name: VERSION
+  size: 17
+  date: '1993-05-14T05:01:06'
+  crc: '0xcb008a0e'
+- name: VGA320.DRV
+  size: 8267
+  date: '1993-05-28T06:25:00'
+  crc: '0x509fae18'

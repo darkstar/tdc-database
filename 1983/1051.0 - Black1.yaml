@@ -1,0 +1,32 @@
+filename: Black1 [SW] (1983)(Josie Claiborne, Dynacomp Inc.) [Strategy, Cards].zip
+tdc_id: '1051.0'
+title:
+  screen: Black1
+publisher: Josie Claiborne, Dynacomp Inc.
+year: '1983'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-09-02T05:03:30'
+  last_modified: '2019-09-02T05:03:30'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: BLACKJAC.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T12:00:00'
+  crc: '0x92293842'
+- name: BLACKJAC.BAS
+  size: 5376
+  date: '1983-01-23T13:00:00'
+  crc: '0x4bb30a2b'
+- name: BLACKJAC.BAT
+  size: 18
+  date: '1980-01-01T12:00:00'
+  crc: '0x17dae13b'

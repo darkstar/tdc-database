@@ -1,0 +1,92 @@
+filename: Flight Action (1996)(Axisim Software) [Action, Simulation].zip
+tdc_id: '241.0'
+title:
+  screen: Flight Action
+publisher: Axisim Software
+year: '1996'
+genre:
+- Action
+- Simulation
+language: English
+date:
+  added: '2019-03-02T10:03:44'
+  last_modified: '2019-03-02T10:03:44'
+type: zip
+commands:
+  play: FA3D.EXE
+references:
+  dosid: DOS06837
+  exodos: Flight Action (1996).zip
+files:
+- name: 36X24D80.DAT
+  size: 18720
+  date: '1996-12-09T00:43:16'
+  crc: '0xfbadd658'
+- name: CAPSHT.DAT
+  size: 49800
+  date: '1997-08-24T11:44:04'
+  crc: '0x145d3991'
+- name: CLPDAT.DAT
+  size: 360
+  date: '1997-04-06T22:14:46'
+  crc: '0xfe3b2e42'
+- name: DEMCLP.DAT
+  size: 43224
+  date: '1996-12-17T22:49:20'
+  crc: '0x36390244'
+- name: EGI_2000.BGI
+  size: 7739
+  date: '1995-03-03T20:28:22'
+  crc: '0x951a86b9'
+- name: EXAMPLE.CAP
+  size: 2075
+  date: '1997-04-06T22:14:46'
+  crc: '0xee05fd37'
+- name: EXAMPLE.FLT
+  size: 14408
+  date: '1997-04-06T22:14:46'
+  crc: '0xea3a2b30'
+- name: FA3D.EXE
+  size: 419366
+  date: '1997-08-21T23:54:08'
+  crc: '0xd9243905'
+- name: FA3D800.DAT
+  size: 18720
+  date: '1996-12-09T00:46:40'
+  crc: '0x59aee126'
+- name: FLTREC.DAT
+  size: 57632
+  date: '1996-01-21T21:51:06'
+  crc: '0x899e15b0'
+- name: FLTREC2.DAT
+  size: 57632
+  date: '1996-01-22T20:35:12'
+  crc: '0x684f0cae'
+- name: FSX750.DAT
+  size: 18720
+  date: '1997-08-24T11:52:54'
+  crc: '0x9e6f5f08'
+- name: LITT.CHR
+  size: 5131
+  date: '1992-06-10T03:10:00'
+  crc: '0xfeac5336'
+- name: SCENEDAT.DAT
+  size: 64641
+  date: '1997-08-24T11:51:04'
+  crc: '0x27e0d9d7'
+- name: SCRNIM.001
+  size: 28000
+  date: '1997-03-18T16:58:22'
+  crc: '0xef7d33eb'
+- name: SCRNIM.002
+  size: 28000
+  date: '1997-03-18T16:58:22'
+  crc: '0xe51a22d3'
+- name: SCRNIM.003
+  size: 28000
+  date: '1997-03-18T16:58:22'
+  crc: '0xb4c2f628'
+- name: SCRNIM.004
+  size: 28000
+  date: '1997-03-18T16:58:22'
+  crc: '0x2e4b9d5c'

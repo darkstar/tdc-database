@@ -1,0 +1,193 @@
+filename: Rorke's Drift (En)(Fr)(De)(It)(Es) [f1] (1990)(Impressions) [Strategy][!].zip
+tdc_id: '6558.0'
+parent_id: '6558.2'
+title:
+  box: Rorke's Drift
+publisher: Impressions
+year: '1990'
+genre: Strategy
+language:
+- English
+- Spanish
+- French
+- Italian
+- German
+date:
+  added: '2020-08-10T19:34:52'
+  last_modified: '2023-12-22T12:13:59'
+type: zip
+tags:
+- KnownGood
+- Fixed: 1
+media: 360K
+commands:
+  play: RORKE.EXE
+references:
+  mobygames: https://www.mobygames.com/game/32029/rorkes-drift/
+  dosid: DOS02774
+  exodos: Rorke's Drift (1990).zip
+files:
+- name: AMMO.DAT
+  size: 5760
+  date: '1990-08-28T00:28:14'
+  crc: '0xa5440535'
+- name: AMMO.SPR
+  size: 4608
+  date: '1990-10-28T09:54:22'
+  crc: '0xf8ded099'
+- name: FONT.DAT
+  size: 4720
+  date: '1990-08-28T00:28:22'
+  crc: '0x3beca773'
+- name: FONT.SPR
+  size: 3840
+  date: '1990-10-30T05:31:20'
+  crc: '0x6a11e315'
+- name: INSTALAC.BAT
+  size: 40
+  date: '1990-10-31T08:00:22'
+  crc: '0xa845c1b2'
+- name: INSTALAD.BAT
+  size: 40
+  date: '1990-10-31T08:00:34'
+  crc: '0x37b59825'
+- name: INSTALAE.BAT
+  size: 40
+  date: '1990-10-31T08:00:44'
+  crc: '0x05feeb14'
+- name: INSTALBC.BAT
+  size: 40
+  date: '1990-10-31T08:01:22'
+  crc: '0xc1eeecbf'
+- name: INSTALBD.BAT
+  size: 40
+  date: '1990-10-31T08:01:06'
+  crc: '0x5e1eb528'
+- name: INSTALBE.BAT
+  size: 40
+  date: '1990-10-31T08:00:54'
+  crc: '0x6c55c619'
+- name: MEDIC.DAT
+  size: 5760
+  date: '1990-08-28T00:28:30'
+  crc: '0x12119e4f'
+- name: MEDIC.SPR
+  size: 4608
+  date: '1990-10-28T09:54:44'
+  crc: '0xa21123be'
+- name: MPANEL.RAW
+  size: 32000
+  date: '1990-09-17T17:43:38'
+  crc: '0xe46cbce6'
+- name: MPANELC.CGA
+  size: 16384
+  date: '1990-10-30T05:51:12'
+  crc: '0x9f2f6178'
+- name: MSCORE2.RAW
+  size: 32000
+  date: '1990-08-28T00:31:24'
+  crc: '0xf21bb364'
+- name: MSCOREC.CGA
+  size: 16384
+  date: '1990-10-30T05:51:30'
+  crc: '0x5dd5ab28'
+- name: OFFICER.DAT
+  size: 19200
+  date: '1990-08-28T00:28:38'
+  crc: '0x1b67d444'
+- name: OFFICER.SPR
+  size: 15360
+  date: '1990-10-28T09:53:30'
+  crc: '0x3e05f595'
+- name: POINTER.SPR
+  size: 5120
+  date: '1990-10-30T06:05:52'
+  crc: '0xf4f991c8'
+- name: POINTER2.DAT
+  size: 6400
+  date: '1990-09-17T17:47:12'
+  crc: '0xe3684045'
+- name: RDBITS.DAT
+  size: 8000
+  date: '1990-08-28T00:28:58'
+  crc: '0xc822c0c6'
+- name: RDBITS.SPR
+  size: 6400
+  date: '1990-10-28T09:59:48'
+  crc: '0xe1d1eb1c'
+- name: RDDOTS.DAT
+  size: 800
+  date: '1990-08-28T00:29:06'
+  crc: '0x8f283451'
+- name: RDDOTS.SPR
+  size: 4224
+  date: '1990-10-28T10:00:24'
+  crc: '0xf67eb4b1'
+- name: RDMAP.RAW
+  size: 32000
+  date: '1990-08-28T00:31:38'
+  crc: '0x7aebf86d'
+- name: RDMAPC.CGA
+  size: 16384
+  date: '1990-10-25T12:54:48'
+  crc: '0x5f39661d'
+- name: RDPRIVAT.DAT
+  size: 19200
+  date: '1990-08-20T21:11:28'
+  crc: '0x746d11a4'
+- name: RDPRIVAT.SPR
+  size: 15360
+  date: '1990-10-28T09:50:48'
+  crc: '0x8d56afe4'
+- name: RDSTART.RAW
+  size: 32000
+  date: '1990-08-23T06:33:10'
+  crc: '0x67edddc5'
+- name: RDSTARTC.CGA
+  size: 16384
+  date: '1990-10-25T09:58:00'
+  crc: '0x5ef0e299'
+- name: RORKE.EXE
+  size: 29780
+  date: '1990-11-13T23:59:44'
+  crc: '0xad8d92dc'
+- name: RORKE.EX_
+  size: 29780
+  date: '1990-11-13T23:59:44'
+  crc: '0xfecd2a4a'
+- name: RORKEC.EXE
+  size: 29832
+  date: '1990-11-14T00:01:48'
+  crc: '0xdf4cbeb7'
+- name: RORKEC.EX_
+  size: 29832
+  date: '1990-11-14T00:01:48'
+  crc: '0xc12ac0e8'
+- name: SARG.DAT
+  size: 19200
+  date: '1990-08-28T00:29:24'
+  crc: '0x591b6792'
+- name: SARG.SPR
+  size: 15360
+  date: '1990-10-29T10:13:02'
+  crc: '0xac8d5096'
+- name: SMALLNO.DAT
+  size: 1400
+  date: '1990-08-28T00:29:34'
+  crc: '0x0801b244'
+- name: STORCEL4.DAT
+  size: 34560
+  date: '1990-08-28T00:34:16'
+  crc: '0x4a7d8427'
+- name: STORCEL4.SPR
+  size: 27648
+  date: '1990-10-28T09:58:54'
+  crc: '0x26743ace'
+- name: ZULU.DAT
+  size: 19200
+  date: '1990-08-28T00:30:24'
+  crc: '0x24a1972c'
+- name: ZULU.SPR
+  size: 15360
+  date: '1990-10-28T09:53:50'
+  crc: '0x7b87dd91'

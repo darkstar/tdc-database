@@ -1,0 +1,35 @@
+filename: Dungeons of Kremlin - Подземелья Кремля (Ru) (1995)(Newcom Co., Ltd.) [Action].zip
+tdc_id: '3512.0'
+title:
+  box: Dungeons of Kremlin - Подземелья Кремля
+publisher: Newcom Co., Ltd.
+year: '1995'
+genre: Action
+language: Russian
+date:
+  added: '2019-03-02T08:43:38'
+  last_modified: '2023-06-29T16:45:06'
+type: zip
+references:
+  mobygames: https://www.mobygames.com/game/26942/dungeons-of-kremlin/
+files:
+- name: DPMI16BI.OVL
+  size: 50576
+  date: '1994-11-21T04:50:00'
+  crc: '0x1d6e371d'
+- name: PKR.EXE
+  size: 324824
+  date: '1995-10-23T16:45:06'
+  crc: '0x2038ec63'
+- name: PKR.RES
+  size: 2718099
+  date: '1996-03-18T21:36:06'
+  crc: '0x52a5433e'
+- name: README.TXT
+  size: 2764
+  date: '1996-03-18T21:40:02'
+  crc: '0x890aa60f'
+- name: RTM.EXE
+  size: 120853
+  date: '1994-11-21T04:50:00'
+  crc: '0xa4e940a6'

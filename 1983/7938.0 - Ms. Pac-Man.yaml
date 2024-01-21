@@ -1,0 +1,24 @@
+filename: Ms. Pac-Man [DC] (1983)(Atarisoft) [Action].zip
+tdc_id: '7938.0'
+title:
+  box: Ms. Pac-Man
+publisher: Atarisoft
+year: '1983'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:23:16'
+  last_modified: '2019-03-01T18:23:16'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: MSPACMAN.COM
+references:
+  dosid: DOS05942
+  exodos: Ms. Pac-Man (1983).zip
+files:
+- name: MSPACMAN.COM
+  size: 55296
+  date: '1985-08-02T19:37:58'
+  crc: '0x7d135a63'

@@ -1,0 +1,28 @@
+filename: Simon 2 (1998)(Eric Schneider) [Strategy].zip
+tdc_id: '4246.0'
+title:
+  screen: Simon 2
+publisher: Eric Schneider
+year: '1998'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:44:34'
+  last_modified: '2019-03-02T10:44:34'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 26
+  date: '2018-12-08T12:24:22'
+  crc: '0xc9a8bc93'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: SIMON2.BAS
+  size: 8346
+  date: '1998-04-20T21:01:18'
+  crc: '0x0db3d6e6'

@@ -1,0 +1,91 @@
+filename: Discworld (Installer) (Fr)(It)(De)(Es) (1995)(Psygnosis Limited) [Adventure].zip
+tdc_id: '13219.8'
+parent_id: '13219.15'
+title:
+  box: Discworld
+publisher: Psygnosis Limited
+year: '1995'
+genre: Adventure
+language:
+- Spanish
+- French
+- Italian
+- German
+date:
+  added: '2020-06-25T18:16:00'
+  last_modified: '2020-06-25T18:16:00'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISCWLDV.1-0
+  size: 0
+  date: '1995-02-28T15:33:20'
+- name: DISCWLDV.1_0
+  size: 0
+  date: '1995-03-01T15:41:08'
+- name: DW_1.RNC
+  size: 1334784
+  date: '1995-03-01T23:19:30'
+  crc: '0x68e48e6d'
+- name: DW_10.RNC
+  size: 1457664
+  date: '1995-03-01T23:19:56'
+  crc: '0x495c6e00'
+- name: DW_11.RNC
+  size: 1457664
+  date: '1995-03-01T23:19:58'
+  crc: '0x0c6ab3f1'
+- name: DW_12.RNC
+  size: 1457664
+  date: '1995-03-01T23:20:00'
+  crc: '0xb0f088a3'
+- name: DW_13.RNC
+  size: 1457664
+  date: '1995-03-01T23:20:04'
+  crc: '0xdeccf656'
+- name: DW_14.RNC
+  size: 1457664
+  date: '1995-03-01T23:20:06'
+  crc: '0x191dfce4'
+- name: DW_15.RNC
+  size: 1134952
+  date: '1995-03-01T23:20:08'
+  crc: '0x71e05401'
+- name: DW_2.RNC
+  size: 1457664
+  date: '1995-03-01T23:19:34'
+  crc: '0x66034171'
+- name: DW_3.RNC
+  size: 1457664
+  date: '1995-03-01T23:19:36'
+  crc: '0xfe5aeaca'
+- name: DW_4.RNC
+  size: 1457664
+  date: '1995-03-01T23:19:40'
+  crc: '0x8f04266c'
+- name: DW_5.RNC
+  size: 1457664
+  date: '1995-03-01T23:19:42'
+  crc: '0x155a77ca'
+- name: DW_6.RNC
+  size: 1457664
+  date: '1995-03-01T23:19:44'
+  crc: '0xb719d51b'
+- name: DW_7.RNC
+  size: 1457664
+  date: '1995-03-01T23:19:48'
+  crc: '0xab07aee1'
+- name: DW_8.RNC
+  size: 1457664
+  date: '1995-03-01T23:19:50'
+  crc: '0x72a1c208'
+- name: DW_9.RNC
+  size: 1457664
+  date: '1995-03-01T23:19:52'
+  crc: '0x733a324a'
+- name: INSTALL.EXE
+  size: 122809
+  date: '1995-03-01T16:14:00'
+  crc: '0x47b5126d'

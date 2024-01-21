@@ -1,0 +1,43 @@
+filename: Where in the World is Carmen Sandiego_ Deluxe Edition v1.02 (Installer) (1990)(Brøderbund Software, Inc.) [Adventure, Educational].zip
+tdc_id: '8009.11'
+title:
+  box: Where in the World is Carmen Sandiego_ Deluxe Edition
+publisher: Brøderbund Software, Inc.
+year: '1990'
+genre:
+- Adventure
+- Educational
+language: English
+date:
+  added: '2019-03-01T18:34:30'
+  last_modified: '2019-03-01T18:34:30'
+version: '1.02'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DELUXE1
+  size: 1196952
+  date: '1990-09-24T00:00:02'
+  crc: '0x6a485f78'
+- name: DELUXE2
+  size: 1213952
+  date: '1990-09-24T00:00:02'
+  crc: '0x9785109a'
+- name: DELUXE3
+  size: 1213952
+  date: '1990-09-24T00:00:02'
+  crc: '0x6bfcae0b'
+- name: DELUXE4
+  size: 1213952
+  date: '1990-09-24T00:00:02'
+  crc: '0x0f1b0633'
+- name: DELUXE5
+  size: 523285
+  date: '1990-11-05T00:00:02'
+  crc: '0x3dd022ab'
+- name: INSTALL.EXE
+  size: 13497
+  date: '1990-11-05T00:00:02'
+  crc: '0xa34a28b3'

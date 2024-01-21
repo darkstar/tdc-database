@@ -1,0 +1,66 @@
+filename: Masque Solitaire Antics (Installer) (1995)(Masque Publishing, Inc.) [Strategy, Cards].zip
+tdc_id: '11176.1'
+title:
+  box: Masque Solitaire Antics
+publisher: Masque Publishing, Inc.
+year: '1995'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2022-01-19T11:18:06'
+  last_modified: '2022-01-19T11:18:06'
+type: zip
+installer: true
+commands:
+  play: SETUP.EXE
+files:
+- name: ANIM.APK
+  size: 1312898
+  date: '1994-03-25T09:35:34'
+  crc: '0x69a4d470'
+- name: BG1.APK
+  size: 108662
+  date: '1994-03-22T20:29:08'
+  crc: '0x5f59f5f7'
+- name: BG2.APK
+  size: 127253
+  date: '1994-03-22T20:27:48'
+  crc: '0x4fb2cdb2'
+- name: CD_SOLW.DZP
+  size: 1672926
+  date: '1995-05-11T11:23:32'
+  crc: '0xdcd19993'
+- name: DECKS.APK
+  size: 182776
+  date: '1994-03-22T19:20:52'
+  crc: '0xbe2dc6f7'
+- name: DUNZIP.DLL
+  size: 35520
+  date: '1995-01-10T04:36:54'
+  crc: '0x2f211d94'
+- name: HELP.APK
+  size: 8726
+  date: '1994-03-24T14:33:28'
+  crc: '0x38d593cb'
+- name: MAIN.APK
+  size: 323720
+  date: '1994-05-18T04:45:52'
+  crc: '0x1ce0f639'
+- name: README.TXT
+  size: 3398
+  date: '1994-03-28T11:40:44'
+  crc: '0xb2bdfe98'
+- name: SETUP.EXE
+  size: 102960
+  date: '1995-05-16T11:28:20'
+  crc: '0xfda65fe2'
+- name: SETUP.INI
+  size: 600
+  date: '1995-05-11T11:40:16'
+  crc: '0xebcb90e9'
+- name: VESA.APK
+  size: 47348
+  date: '1994-03-29T04:15:06'
+  crc: '0xc0a98822'

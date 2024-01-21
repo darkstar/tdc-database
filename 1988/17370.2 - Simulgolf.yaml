@@ -1,0 +1,77 @@
+filename: Simulgolf (1988)(Simulmondo) [Sports][!].zip
+tdc_id: '17370.2'
+parent_id: '17370.1'
+title:
+  box: Simulgolf
+publisher: Simulmondo
+year: '1988'
+genre: Sports
+language: English
+date:
+  added: '2023-11-10T09:30:14'
+  last_modified: '2023-11-10T09:30:14'
+type: zip
+tags:
+- KnownGood
+media: 360K
+commands:
+  play: SGOLF.EXE
+references:
+  mobygames: https://www.mobygames.com/game/33593/simulgolf/
+files:
+- name: AUTOEXEC.BAT
+  size: 26
+  date: '1988-12-07T11:28:54'
+  crc: '0x1a33bd99'
+- name: CGA.BGI
+  size: 6029
+  date: '1987-12-16T04:00:00'
+  crc: '0xcd2d7722'
+- name: CHARS.RAM
+  size: 9780
+  date: '1988-11-15T11:59:42'
+  crc: '0x8dbdce07'
+- name: COMMAND.COM
+  size: 23962
+  date: '1986-07-28T08:00:48'
+  crc: '0x4107ee86'
+- name: IO.SYS
+  size: 7915
+  date: '1986-07-28T09:00:06'
+  crc: '0xc6fa9135'
+- name: MSDOS.SYS
+  size: 27760
+  date: '1986-07-28T07:59:58'
+  crc: '0xe3b3ffb0'
+- name: PRES.MUS
+  size: 2000
+  date: '1988-11-05T02:24:32'
+  crc: '0x902f6d1a'
+- name: PRES.SUS
+  size: 2000
+  date: '1988-11-05T02:24:32'
+  crc: '0x175eeb06'
+- name: SGOLF.EXE
+  size: 41008
+  date: '1988-12-09T14:51:40'
+  crc: '0x99c623b1'
+- name: SGOLF.EX_
+  size: 41008
+  date: '1988-12-09T14:51:40'
+  crc: '0xee388cc4'
+- name: SLIDES.RAM
+  size: 90720
+  date: '1988-11-18T13:01:56'
+  crc: '0x77f73ece'
+- name: SOUND.RAM
+  size: 2121
+  date: '1988-12-09T13:40:12'
+  crc: '0x0e515ae0'
+- name: VIDEO.RAM
+  size: 32384
+  date: '1988-11-13T22:14:16'
+  crc: '0xd0d8b01b'
+- name: XYSTART.RAM
+  size: 432
+  date: '1988-11-13T12:52:46'
+  crc: '0x7a0a4d27'

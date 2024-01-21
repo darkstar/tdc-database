@@ -1,0 +1,49 @@
+filename: Rocks [SW] (1997)(ASM Software) [Action].zip
+tdc_id: '6511.0'
+title:
+  screen: Rocks
+publisher: ASM Software
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:37:14'
+  last_modified: '2019-03-02T10:37:14'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: ROCKS.EXE
+references:
+  dosid: DOS07059
+  exodos: Rocks (1997).zip
+files:
+- name: FIRE.SD
+  size: 3128
+  date: '1997-03-06T13:05:10'
+  crc: '0xcf0e4c19'
+- name: GO.SD
+  size: 8760
+  date: '1997-03-06T13:20:52'
+  crc: '0xa95f0b0d'
+- name: HIT.SD
+  size: 6136
+  date: '1997-03-06T13:09:22'
+  crc: '0x47b5e25a'
+- name: README.DOC
+  size: 5229
+  date: '1997-03-06T18:07:02'
+  crc: '0x61ed8547'
+- name: ROCKS.EXE
+  size: 105716
+  date: '1997-03-06T17:22:18'
+  crc: '0xa0c4ce3c'
+- name: ROCKS.V
+  size: 64772
+  date: '1997-03-05T20:06:24'
+  crc: '0xcf87c8b3'
+- name: UFO.SD
+  size: 21572
+  date: '1997-03-06T13:13:30'
+  crc: '0x977827bc'

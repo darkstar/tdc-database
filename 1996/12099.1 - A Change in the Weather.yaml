@@ -1,0 +1,37 @@
+filename: Change in the Weather, A r6 [a1] (1996)(Andrew Plotkin) [Adventure, Interactive Fiction].zip
+tdc_id: '12099.1'
+title:
+  screen: A Change in the Weather
+publisher: Andrew Plotkin
+year: '1996'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T10:01:40'
+  last_modified: '2019-03-02T10:01:40'
+release: '6'
+type: zip
+tags:
+- Alternate: 1
+references:
+  dosid: DOS00010
+  exodos: Change in the Weather, A (1995).zip
+files:
+- name: CWSDPMI.EXE
+  size: 20473
+  date: '1996-12-24T23:32:00'
+  crc: '0x80fa6999'
+- name: START.BAT
+  size: 17
+  date: '2017-01-31T18:32:26'
+  crc: '0x7bb2fd27'
+- name: frotz.exe
+  size: 129024
+  date: '1996-12-24T23:32:00'
+  crc: '0x57987597'
+- name: weather.z5
+  size: 93696
+  date: '1996-12-24T23:32:00'
+  crc: '0xf732318f'

@@ -1,0 +1,41 @@
+filename: One on One Soccer (2000)(funline01) [Sports, Simulation].zip
+tdc_id: '4607.0'
+title:
+  screen: One on One Soccer
+publisher: funline01
+year: '2000'
+genre:
+- Sports
+- Simulation
+language: English
+date:
+  added: '2019-03-02T10:54:56'
+  last_modified: '2019-03-02T10:54:56'
+type: zip
+commands:
+  play: 1on1.exe
+files:
+- name: 1on1.bas
+  size: 32055
+  date: '2000-12-17T20:58:54'
+  crc: '0x0fda4683'
+- name: 1on1.exe
+  size: 77782
+  date: '2000-12-17T20:58:56'
+  crc: '0x84eeb787'
+- name: 1on1.ini
+  size: 194
+  date: '2000-12-17T20:43:44'
+  crc: '0x4b45c277'
+- name: 1on1.pal
+  size: 768
+  date: '2000-08-10T14:20:48'
+  crc: '0x3985423d'
+- name: RESOURCE.BIN
+  size: 69230
+  date: '2000-08-10T14:25:04'
+  crc: '0xd85f99f8'
+- name: Readme.txt
+  size: 747
+  date: '2000-12-17T21:10:04'
+  crc: '0x48e4cab3'

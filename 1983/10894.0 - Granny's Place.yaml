@@ -1,0 +1,33 @@
+filename: Granny's Place (1983)(Temple Software, Inc.) [Adventure, Interactive Fiction, Adult].zip
+tdc_id: '10894.0'
+title:
+  box: Granny's Place
+publisher: Temple Software, Inc.
+year: '1983'
+genre:
+- Adventure
+- Interactive Fiction
+- Adult
+language: English
+date:
+  added: '2019-03-01T18:23:12'
+  last_modified: '2019-03-01T18:23:12'
+type: zip
+commands:
+  play: GRANNY.EXE
+references:
+  dosid: DOS02465
+  exodos: Granny's Place (1983).zip
+files:
+- name: ADVENTUR.IND
+  size: 8434
+  date: '1983-05-02T20:51:48'
+  crc: '0xe329506a'
+- name: ADVENTUR.WRK
+  size: 46592
+  date: '1983-05-02T20:51:50'
+  crc: '0xa4ada020'
+- name: GRANNY.EXE
+  size: 11008
+  date: '1983-05-01T15:51:00'
+  crc: '0x830336f1'

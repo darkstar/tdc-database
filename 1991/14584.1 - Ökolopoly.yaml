@@ -1,0 +1,48 @@
+filename: Ökolopoly v3.1D (De) (1991)(SBU GmbH) [Strategy].zip
+tdc_id: '14584.1'
+title:
+  screen: Ökolopoly
+publisher: SBU GmbH
+year: '1991'
+genre: Strategy
+language: German
+date:
+  added: '2020-02-23T17:21:04'
+  last_modified: '2020-02-23T17:21:04'
+version: 3.1D
+type: zip
+commands:
+  play: OEKO.EXE
+files:
+- name: DATA\BILD1.DAT
+  size: 344655
+  date: '1992-01-15T22:08:36'
+  crc: '0x44b5dd32'
+- name: DATA\BILD2.DAT
+  size: 317861
+  date: '1992-01-15T22:09:28'
+  crc: '0xa3ce505f'
+- name: DATA\BILD3.DAT
+  size: 85100
+  date: '1992-01-15T22:07:28'
+  crc: '0x43a5fea0'
+- name: DATA\OEKO.OVR
+  size: 58329
+  date: '1992-01-15T22:07:32'
+  crc: '0x93eae2a5'
+- name: DATA\OEKO.PAR
+  size: 73275
+  date: '1992-01-15T22:07:36'
+  crc: '0x2ee8358f'
+- name: DATA\STANDARD.OEK
+  size: 45936
+  date: '1992-01-15T22:07:40'
+  crc: '0xe7e5d6e3'
+- name: OEKO.EXE
+  size: 265339
+  date: '1992-01-15T22:06:46'
+  crc: '0x86e1d9eb'
+- name: SCORE.DAT
+  size: 1700
+  date: '2006-05-25T16:42:12'
+  crc: '0x54200165'

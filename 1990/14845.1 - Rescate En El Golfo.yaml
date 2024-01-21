@@ -1,0 +1,42 @@
+filename: Rescate En El Golfo (Es) (1990)(Opera Soft S.A.) [Action].zip
+tdc_id: '14845.1'
+title:
+  box: Rescate En El Golfo
+publisher: Opera Soft S.A.
+year: '1990'
+genre: Action
+language: Spanish
+date:
+  added: '2019-03-01T18:33:48'
+  last_modified: '2019-03-01T18:33:48'
+type: zip
+commands:
+  play: RESCATE.EXE
+references:
+  dosid: DOS04283
+  exodos: Rescate En El Golfo (1990).zip
+files:
+- name: RESCATE.BAK
+  size: 1291
+  date: '1994-11-29T15:54:54'
+  crc: '0xbbf038e6'
+- name: RESCATE.CTR
+  size: 996
+  date: '1992-11-30T11:06:14'
+  crc: '0x96dd9132'
+- name: RESCATE.EXE
+  size: 2449
+  date: '1992-11-30T11:07:54'
+  crc: '0xca26bf8f'
+- name: RES_FAS1.OVL
+  size: 71821
+  date: '1994-02-14T19:33:28'
+  crc: '0xe2e8c2ae'
+- name: RES_FAS2.OVL
+  size: 83005
+  date: '1994-02-14T19:33:30'
+  crc: '0xeec1fd9e'
+- name: RES_MENU.OVL
+  size: 54875
+  date: '1994-02-14T19:33:26'
+  crc: '0xbff127fa'

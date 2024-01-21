@@ -1,0 +1,42 @@
+filename: FlixMix GameSet 002- Grid Riddlers (Installer) (1993)(Celeris Inc.) [Strategy, Addon].zip
+tdc_id: '13676.0'
+title:
+  box: 'FlixMix GameSet 002: Grid Riddlers'
+publisher: Celeris Inc.
+year: '1993'
+genre:
+- Strategy
+- Addon
+language: English
+date:
+  added: '2019-03-01T19:08:42'
+  last_modified: '2019-03-01T19:08:42'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK.ID
+  size: 44
+  date: '1993-12-17T10:29:12'
+  crc: '0x93c252ba'
+- name: FLIXMIX.ICO
+  size: 766
+  date: '1994-01-31T09:45:42'
+  crc: '0x4c0c1b64'
+- name: FLIXMIX.LIB
+  size: 725339
+  date: '1993-12-17T10:08:40'
+  crc: '0x1e8efb7c'
+- name: INSTALL.DAT
+  size: 1225
+  date: '1993-12-17T10:29:14'
+  crc: '0x3be9161a'
+- name: INSTALL.EXE
+  size: 90304
+  date: '1992-09-28T03:20:00'
+  crc: '0x929e6b84'
+- name: SETUP.DAT
+  size: 1383
+  date: '1993-10-20T14:51:50'
+  crc: '0x6caf2812'

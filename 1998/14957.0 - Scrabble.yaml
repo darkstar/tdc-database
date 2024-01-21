@@ -1,0 +1,30 @@
+filename: Scrabble (1998)(Harry Van Woerden) [Strategy, Educational].zip
+tdc_id: '14957.0'
+title:
+  screen: Scrabble
+publisher: Harry Van Woerden
+year: '1998'
+genre:
+- Strategy
+- Educational
+language: English
+date:
+  added: '2019-03-02T10:44:32'
+  last_modified: '2019-03-02T10:44:32'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 28
+  date: '2018-12-07T23:29:34'
+  crc: '0x0cd04367'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: SCRABBLE.BAS
+  size: 19201
+  date: '1998-06-14T09:35:06'
+  crc: '0xf008d834'

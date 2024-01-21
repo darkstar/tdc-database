@@ -1,0 +1,65 @@
+filename: Fields of Glory (Installer) (En)(Fr)(De) (1993)(MicroProse Ltd.) [Strategy].zip
+tdc_id: '13556.2'
+title:
+  box: Fields of Glory
+publisher: MicroProse Ltd.
+year: '1993'
+genre: Strategy
+language:
+- English
+- French
+- German
+date:
+  added: '2019-03-01T19:08:36'
+  last_modified: '2022-11-21T08:16:57'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/fields-of-glory
+files:
+- name: FOG.001
+  size: 1285120
+  date: '1993-06-18T16:08:36'
+  crc: '0x417c39eb'
+- name: FOG.002
+  size: 1457664
+  date: '1993-06-18T16:09:52'
+  crc: '0x521e8588'
+- name: FOG.003
+  size: 1457503
+  date: '1993-06-18T16:12:22'
+  crc: '0x25156103'
+- name: FOG.004
+  size: 1457466
+  date: '1993-06-18T16:16:54'
+  crc: '0x678a60e0'
+- name: FOG.005
+  size: 324808
+  date: '1993-06-18T16:18:26'
+  crc: '0x5b2f6b84'
+- name: FOG32.EXE
+  size: 256461
+  date: '1993-06-29T20:48:08'
+  crc: '0x7b11aabe'
+- name: INSTALL.EXE
+  size: 111709
+  date: '1993-06-18T16:04:48'
+  crc: '0x3f712b80'
+- name: MPSCOPY.EXE
+  size: 36643
+  date: '1993-06-18T16:04:50'
+  crc: '0x925ea8af'
+- name: MPSLABS.IDX
+  size: 16298
+  date: '1993-06-18T16:18:38'
+  crc: '0x7563404c'
+- name: PKUNZJR.COM
+  size: 2750
+  date: '1993-06-18T16:04:52'
+  crc: '0xbc15451f'
+- name: README.TXT
+  size: 3739
+  date: '1993-06-18T16:04:52'
+  crc: '0x3c8adb86'

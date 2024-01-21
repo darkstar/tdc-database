@@ -1,0 +1,27 @@
+filename: Early Reader (1983)(Bo Reahard & Pat Gleason) [Educational].zip
+tdc_id: '1058.0'
+title:
+  screen: Early Reader
+publisher: Bo Reahard & Pat Gleason
+year: '1983'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T18:23:12'
+  last_modified: '2019-03-01T18:23:12'
+type: zip
+commands:
+  play: ER.EXE
+files:
+- name: ER.DAT
+  size: 8192
+  date: '1984-05-28T01:26:58'
+  crc: '0x1d682f50'
+- name: ER.EXE
+  size: 28928
+  date: '1984-05-28T01:24:56'
+  crc: '0xf07d25e9'
+- name: TOYS.WRD
+  size: 256
+  date: '1984-05-28T01:26:14'
+  crc: '0xfe71a6bb'

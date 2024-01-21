@@ -1,0 +1,64 @@
+filename: Power Struggle (1988)(Personal Software Services) [Simulation, Strategy].zip
+tdc_id: '9926.0'
+title:
+  box: Power Struggle
+publisher: Personal Software Services
+year: '1988'
+genre:
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2021-02-18T13:49:44'
+  last_modified: '2021-02-18T13:49:44'
+type: zip
+commands:
+  play: POWERSTG.EXE
+references:
+  dosid: DOS15107
+  exodos: Power Struggle (1988).zip
+files:
+- name: ALRT.SCN
+  size: 16384
+  date: '1988-05-05T15:08:12'
+  crc: '0x6412fb50'
+- name: ALRTEGA.SCN
+  size: 8000
+  date: '1988-07-16T16:47:06'
+  crc: '0xcd6e4b84'
+- name: CPY.CGA
+  size: 16384
+  date: '1988-07-02T17:26:00'
+  crc: '0x59f9cece'
+- name: CPY.EGA
+  size: 32000
+  date: '1988-06-23T21:18:38'
+  crc: '0x068d9493'
+- name: FLG.CGA
+  size: 16384
+  date: '1988-07-02T20:55:52'
+  crc: '0xd809f10c'
+- name: FLG.EGA
+  size: 32000
+  date: '1988-07-03T18:53:54'
+  crc: '0xec214a22'
+- name: MAP.CGA
+  size: 16384
+  date: '1988-07-16T15:27:56'
+  crc: '0xd1c3ab7d'
+- name: MAP.EGA
+  size: 32000
+  date: '1988-07-03T19:33:24'
+  crc: '0x5f15a1a4'
+- name: POWERSTG.EXE
+  size: 77072
+  date: '1988-07-21T19:20:54'
+  crc: '0xbd2ca73a'
+- name: SCR.CGA
+  size: 16384
+  date: '1988-07-21T20:04:36'
+  crc: '0x01318a4a'
+- name: SCR.EGA
+  size: 32000
+  date: '1988-06-23T21:02:54'
+  crc: '0xed066a29'

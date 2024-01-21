@@ -1,0 +1,111 @@
+filename: Gravity Force v1.02 (En)(De)(Sk) (2000)(Jens Hassler) [Action].zip
+tdc_id: '4570.0'
+title:
+  screen: Gravity Force
+publisher: Jens Hassler
+year: '2000'
+genre: Action
+language:
+- English
+- German
+- Slovakian
+date:
+  added: '2019-03-02T10:54:50'
+  last_modified: '2019-03-02T10:54:50'
+version: '1.02'
+type: zip
+commands:
+  play: gf.exe
+references:
+  dosid: DOS02469
+  exodos: Gravity Force (2000).zip
+files:
+- name: CWSDPMI.EXE
+  size: 20473
+  date: '1997-10-19T22:48:14'
+  crc: '0x80fa6999'
+- name: CWSDPMI.SWP
+  size: 0
+  date: '2011-11-21T12:49:22'
+- name: DAT\
+  size: 0
+  date: '2014-11-22T15:42:50'
+- name: DAT\GF.ICO
+  size: 2998
+  date: '2000-01-20T16:46:24'
+  crc: '0x3fc67be1'
+- name: DAT\GF.XM
+  size: 82685
+  date: '2000-02-03T14:22:44'
+  crc: '0x47096e98'
+- name: DAT\gf.cfg
+  size: 312
+  date: '2011-11-21T12:49:34'
+  crc: '0x7eca348a'
+- name: DAT\gf.dat
+  size: 138992
+  date: '2000-08-09T14:49:50'
+  crc: '0x24216758'
+- name: DAT\gflng.dat
+  size: 34810
+  date: '2000-09-15T19:31:42'
+  crc: '0x29114399'
+- name: DAT\gfmaps.dat
+  size: 846031
+  date: '2000-08-15T13:10:12'
+  crc: '0xc608d457'
+- name: DAT\gfmnu.dat
+  size: 127354
+  date: '2000-08-06T12:39:40'
+  crc: '0x473ffc63'
+- name: DAT\gfsnd.dat
+  size: 548693
+  date: '2000-04-18T21:47:10'
+  crc: '0x232eaf7f'
+- name: DAT\gfw1.fmp
+  size: 934314
+  date: '2000-08-09T22:09:54'
+  crc: '0x4c4c2e14'
+- name: DAT\gfw2.fmp
+  size: 946794
+  date: '2000-08-09T22:11:16'
+  crc: '0xd87e371f'
+- name: DAT\hiscore.dat
+  size: 1227
+  date: '2011-11-21T12:49:34'
+  crc: '0xc113d454'
+- name: DAT\key.cfg
+  size: 300
+  date: '2011-11-21T12:49:34'
+  crc: '0xb4ea09b9'
+- name: DOC\
+  size: 0
+  date: '2014-11-22T15:42:50'
+- name: DOC\gfdoceng.txt
+  size: 13018
+  date: '2000-09-24T22:41:56'
+  crc: '0x0496c944'
+- name: DOC\gfdocger.txt
+  size: 15965
+  date: '2000-09-24T22:45:08'
+  crc: '0xb8a4a077'
+- name: DOC\gfdocslo.txt
+  size: 12529
+  date: '2000-09-24T22:43:44'
+  crc: '0x426fb648'
+- name: DOC\techeng.txt
+  size: 6630
+  date: '2000-02-21T17:29:44'
+  crc: '0xffc60fc8'
+- name: DOC\techger.txt
+  size: 7404
+  date: '2000-02-21T22:19:26'
+  crc: '0xd5294d23'
+- name: gf.exe
+  size: 427260
+  date: '2000-09-24T22:40:08'
+  crc: '0x869b01ac'
+- name: gf.txt
+  size: 423
+  date: '2000-09-24T22:41:02'
+  crc: '0x88eb9c75'

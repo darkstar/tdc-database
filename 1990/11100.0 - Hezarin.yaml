@@ -1,0 +1,32 @@
+filename: Hezarin (1990)(Topologika) [Adventure, Interactive Fiction].zip
+tdc_id: '11100.0'
+title:
+  box: Hezarin
+publisher: Topologika
+year: '1990'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:32:48'
+  last_modified: '2019-03-01T18:32:48'
+type: zip
+commands:
+  play: HEZARIN.COM
+references:
+  dosid: DOS05651
+  exodos: Hezarin (1981).zip
+files:
+- name: HEZARIN.COM
+  size: 9735
+  date: '1990-06-09T10:31:24'
+  crc: '0xffc430c0'
+- name: HEZARIN.DAT
+  size: 167168
+  date: '1990-06-05T17:05:04'
+  crc: '0x9cc55d3c'
+- name: HEZARIN.DYN
+  size: 3418
+  date: '1990-06-05T17:03:18'
+  crc: '0x52335302'

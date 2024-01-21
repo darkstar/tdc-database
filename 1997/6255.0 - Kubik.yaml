@@ -1,0 +1,28 @@
+filename: Kubik (1997)(Andrey Berezansky) [Action].zip
+tdc_id: '6255.0'
+title:
+  screen: Kubik
+publisher: Andrey Berezansky
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:35:24'
+  last_modified: '2019-03-02T10:35:24'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 25
+  date: '2018-11-26T20:20:16'
+  crc: '0xfc9d4567'
+- name: KUBIK.BAS
+  size: 13168
+  date: '2018-03-10T11:54:48'
+  crc: '0xc1bea183'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

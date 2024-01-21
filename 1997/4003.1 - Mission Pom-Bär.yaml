@@ -1,0 +1,124 @@
+filename: Mission Pom-Bär v1.4.1-CD (De)(En)(Fr)(Cs)(Pl)(Nl)(Sl)(Sk)(Hu) (1997)(Wolf Snack & Gebäck GmbH) [Action].zip
+tdc_id: '4003.1'
+title:
+  screen: Mission Pom-Bär
+publisher: Wolf Snack & Gebäck GmbH
+year: '1997'
+genre: Action
+language:
+- English
+- French
+- German
+- Polish
+- Czech
+- Dutch
+- Hungarian
+- Slovenian
+- Slovakian
+date:
+  added: '2022-10-29T15:26:20'
+  last_modified: '2022-10-29T15:31:01'
+version: 1.4.1-CD
+type: zip
+commands:
+  play: INSTALL.BAT
+references:
+  mobygames: https://www.mobygames.com/game/dos/mission-pom-br-the-snackn-run-game
+files:
+- name: DISKVER.BAT
+  size: 1519
+  date: '1997-09-27T01:33:30'
+  crc: '0x1ffdb28b'
+- name: DISK\
+  size: 0
+  date: '1997-09-26T07:21:42'
+- name: DISK\DISK1\
+  size: 0
+  date: '1997-09-26T07:16:38'
+- name: DISK\DISK1\INSTALL.BAT
+  size: 318
+  date: '1997-09-25T22:00:54'
+  crc: '0x442ccfa8'
+- name: DISK\DISK1\_INSTALL.1
+  size: 1340000
+  date: '1997-09-25T22:00:54'
+  crc: '0x5b10db49'
+- name: DISK\DISK1\_INSTALL.DAT
+  size: 187
+  date: '1997-09-25T22:00:54'
+  crc: '0x4cb21c70'
+- name: DISK\DISK1\_INSTALL.EXE
+  size: 55656
+  date: '1997-09-25T22:00:54'
+  crc: '0x9b7eb725'
+- name: DISK\DISK2\
+  size: 0
+  date: '1997-09-26T07:16:40'
+- name: DISK\DISK2\_INSTALL.2
+  size: 1340000
+  date: '1997-09-25T22:00:54'
+  crc: '0x327fa880'
+- name: DISK\DISK3\
+  size: 0
+  date: '1997-09-26T07:16:42'
+- name: DISK\DISK3\_INSTALL.3
+  size: 1258640
+  date: '1997-09-25T22:00:56'
+  crc: '0x0fb0a492'
+- name: FULL\
+  size: 0
+  date: '1997-09-26T07:21:42'
+- name: FULL\INSTALL.BAT
+  size: 318
+  date: '1997-09-25T22:00:56'
+  crc: '0x442ccfa8'
+- name: FULL\_INSTALL.1
+  size: 22067810
+  date: '1997-09-25T22:20:16'
+  crc: '0x61467369'
+- name: FULL\_INSTALL.DAT
+  size: 184
+  date: '1997-09-25T22:01:10'
+  crc: '0x47b43c6d'
+- name: FULL\_INSTALL.EXE
+  size: 55656
+  date: '1997-09-25T22:01:10'
+  crc: '0x9b7eb725'
+- name: INSTALL.BAT
+  size: 1359
+  date: '1997-09-27T00:54:36'
+  crc: '0xa8ced369'
+- name: MINI\
+  size: 0
+  date: '1997-09-26T07:21:42'
+- name: MINI\INSTALL.BAT
+  size: 318
+  date: '1997-09-25T22:01:10'
+  crc: '0x442ccfa8'
+- name: MINI\_INSTALL.1
+  size: 3938640
+  date: '1997-09-25T22:19:34'
+  crc: '0xc54ddf8e'
+- name: MINI\_INSTALL.DAT
+  size: 188
+  date: '1997-09-25T22:01:12'
+  crc: '0x7c6b5aac'
+- name: MINI\_INSTALL.EXE
+  size: 55656
+  date: '1997-09-25T22:01:12'
+  crc: '0x9b7eb725'
+- name: README.TXT
+  size: 517
+  date: '1997-09-26T07:18:24'
+  crc: '0x52df860a'
+- name: SAVER\
+  size: 0
+  date: '1997-09-26T07:21:42'
+- name: SAVER\README.TXT
+  size: 168
+  date: '1997-09-25T22:01:12'
+  crc: '0xc2dccfb6'
+- name: SAVER\SETUP.EXE
+  size: 737275
+  date: '1997-09-25T22:01:12'
+  crc: '0x5c90c73b'

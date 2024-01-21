@@ -1,0 +1,28 @@
+filename: Shamus [DC][a1] (1984)(IBM) [Action, Adventure].zip
+tdc_id: '14997.2'
+title:
+  box: Shamus
+publisher: IBM
+year: '1984'
+genre:
+- Action
+- Adventure
+language: English
+date:
+  added: '2019-03-01T18:24:14'
+  last_modified: '2019-03-01T18:24:14'
+type: zip
+tags:
+- DOSConversion
+- Alternate: 1
+commands:
+  play: SHAMUS.EXE
+files:
+- name: SHAMUS.EXE
+  size: 1024
+  date: '1985-02-04T00:15:08'
+  crc: '0xbcc373db'
+- name: SHAMUS.OVL
+  size: 33024
+  date: '1985-02-04T00:20:42'
+  crc: '0xef37ace5'

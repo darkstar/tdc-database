@@ -1,0 +1,26 @@
+filename: Tetriller (Prototype) (1990)(Elorginform & Variant) [Action, Strategy].zip
+tdc_id: '16560.1'
+title:
+  box: Tetriller
+  qualifier: Prototype
+publisher: Elorginform & Variant
+year: '1990'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:34:16'
+  last_modified: '2019-03-01T18:34:16'
+type: zip
+commands:
+  play: tetris.exe
+files:
+- name: tetris.exe
+  size: 30672
+  date: '1996-12-24T23:32:00'
+  crc: '0x9d115702'
+- name: tetris.res
+  size: 187
+  date: '1996-12-24T23:32:00'
+  crc: '0xb387fb2e'

@@ -1,0 +1,40 @@
+filename: B-1 Nuclear Bomber [a1] (1983)(The Avalon Hill Game Company) [Simulation, War].zip
+tdc_id: '12324.1'
+title:
+  box: B-1 Nuclear Bomber
+  screen: B-1 Nuclear Bomber
+publisher: The Avalon Hill Game Company
+year: '1983'
+genre:
+- Simulation
+- War
+language: English
+date:
+  added: '2019-03-01T18:23:06'
+  last_modified: '2019-03-01T18:23:06'
+type: zip
+tags:
+- Alternate: 1
+media: Download
+commands:
+  play: runme.bat
+references:
+  dosid: DOS00918
+  exodos: B-1 Nuclear Bomber (1983).zip
+files:
+- name: B1.EXE
+  size: 54264
+  date: '2008-01-10T20:04:14'
+  crc: '0x7a1aefe1'
+- name: GWBASIC.EXE
+  size: 80592
+  date: '2001-05-04T06:58:22'
+  crc: '0x8462d0e4'
+- name: b1bomber.bas
+  size: 8733
+  date: '2001-05-15T17:20:52'
+  crc: '0xcedc817d'
+- name: runme.bat
+  size: 97
+  date: '2001-05-15T17:22:44'
+  crc: '0x531fe20c'

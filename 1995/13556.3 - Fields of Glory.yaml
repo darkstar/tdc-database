@@ -1,0 +1,45 @@
+filename: Fields of Glory (Installer) (En)(Fr)(De) (1995)(Spectrum HoloByte, Inc.) [Strategy].zip
+tdc_id: '13556.3'
+title:
+  box: Fields of Glory
+publisher: Spectrum HoloByte, Inc.
+year: '1995'
+genre: Strategy
+language:
+- English
+- French
+- German
+date:
+  added: '2019-02-22T20:03:34'
+  last_modified: '2022-11-21T08:18:13'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/fields-of-glory
+files:
+- name: FOG.RES
+  size: 6086828
+  date: '1995-08-25T06:10:40'
+  crc: '0x502ff9f4'
+- name: INSTALL.EXE
+  size: 135440
+  date: '1995-09-01T07:36:50'
+  crc: '0xb863b69f'
+- name: INSTALL.TIM
+  size: 103
+  date: '1995-08-25T06:10:40'
+  crc: '0x3cdb7152'
+- name: README.TXT
+  size: 6738
+  date: '1995-09-07T08:39:20'
+  crc: '0x9e219dfb'
+- name: UNZIP.EXE
+  size: 92284
+  date: '1995-08-25T06:10:40'
+  crc: '0x45dd7659'
+- name: XTRACT.LST
+  size: 243
+  date: '1995-08-25T06:10:40'
+  crc: '0xa6cbe8d9'

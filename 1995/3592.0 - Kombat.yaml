@@ -1,0 +1,66 @@
+filename: Kombat (1995)(Iziurov Sergey) [Action].zip
+tdc_id: '3592.0'
+title:
+  screen: Kombat
+publisher: Iziurov Sergey
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T08:56:24'
+  last_modified: '2019-03-02T08:56:24'
+type: zip
+commands:
+  play: KOMBAT.EXE
+files:
+- name: KOMBAT.EXE
+  size: 215422
+  date: '1995-09-25T00:09:16'
+  crc: '0x0080e00a'
+- name: LEVELS\
+  size: 0
+  date: '2005-11-04T16:48:30'
+- name: LEVELS\LEVEL.DAT
+  size: 833
+  date: '1995-09-25T00:09:16'
+  crc: '0x35dfdd65'
+- name: LEVELS\LEVEL0.DAT
+  size: 616
+  date: '1995-09-25T00:09:16'
+  crc: '0xe9e1a900'
+- name: LEVELS\LEVEL3.DAT
+  size: 836
+  date: '1999-11-18T21:20:02'
+  crc: '0x0dd05d8d'
+- name: LEVELS\SPRIGHTS.DAT
+  size: 7250
+  date: '1995-09-25T00:09:16'
+  crc: '0xd455caa2'
+- name: LEVELS\WEAP.DAT
+  size: 6090
+  date: '1995-09-25T00:09:16'
+  crc: '0xf15fad1f'
+- name: Level.dat
+  size: 842
+  date: '1999-11-18T21:49:16'
+  crc: '0xb40267ec'
+- name: Level0.dat
+  size: 616
+  date: '1995-09-25T00:09:16'
+  crc: '0xe9e1a900'
+- name: SPRIGHTS.DAT
+  size: 7250
+  date: '1995-09-25T00:09:16'
+  crc: '0xd455caa2'
+- name: TMP
+  size: 50
+  date: '1995-09-25T00:09:16'
+  crc: '0x47d7ba7d'
+- name: WEAP.DAT
+  size: 6090
+  date: '1995-09-25T00:09:16'
+  crc: '0xf15fad1f'
+- name: conrols.txt
+  size: 251
+  date: '2013-10-25T09:58:22'
+  crc: '0x12418c46'

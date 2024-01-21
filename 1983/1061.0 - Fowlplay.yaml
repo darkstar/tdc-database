@@ -1,0 +1,30 @@
+filename: Fowlplay (1983)(MOPS Computer Systems, Inc.) [Action].zip
+tdc_id: '1061.0'
+title:
+  screen: Fowlplay
+publisher: MOPS Computer Systems, Inc.
+year: '1983'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:23:12'
+  last_modified: '2019-03-01T18:23:12'
+type: zip
+commands:
+  play: FOWLPLAY.EXE
+references:
+  dosid: DOS02289
+  exodos: Fowlplay (1983).zip
+files:
+- name: FOWLPLAY.DAT
+  size: 20992
+  date: '1988-07-22T10:50:08'
+  crc: '0x3824fd53'
+- name: FOWLPLAY.EXE
+  size: 45568
+  date: '1988-07-22T10:50:04'
+  crc: '0xb78d2970'
+- name: SCORES.DAT
+  size: 128
+  date: '2007-03-02T14:03:36'
+  crc: '0x4388fbc5'

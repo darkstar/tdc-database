@@ -1,0 +1,52 @@
+filename: Monkey Island 2- LeChuck's Revenge v1.0 (It) (1992)(LucasArts Entertainment Company LLC, CTO S.p.a.) [Adventure].zip
+tdc_id: '7891.10'
+parent_id: '7891.9'
+title:
+  box: 'Monkey Island 2: LeChuck''s Revenge'
+publisher: LucasArts Entertainment Company LLC, CTO S.p.a.
+year: '1992'
+genre: Adventure
+language: Italian
+date:
+  added: '2019-03-01T18:36:58'
+  last_modified: '2023-11-24T11:47:15'
+version: '1.0'
+type: zip
+media: 1.44M
+commands:
+  play: MONKEY2.EXE
+references:
+  mobygames: https://www.mobygames.com/game/289/monkey-island-2-lechucks-revenge/
+files:
+- name: ADLIB.IMS
+  size: 20624
+  date: '1992-03-26T16:28:28'
+  crc: '0x5e3d83ce'
+- name: MONKEY2.000
+  size: 11135
+  date: '1992-03-26T16:28:28'
+  crc: '0x8b35e6f5'
+- name: MONKEY2.001
+  size: 9097092
+  date: '1992-03-26T16:28:28'
+  crc: '0xefc016e9'
+- name: MONKEY2.EXE
+  size: 110811
+  date: '1992-03-26T16:28:28'
+  crc: '0x0b23aa36'
+- name: MONKEY2.EX_
+  size: 110811
+  date: '1992-03-26T16:28:28'
+  crc: '0xe8c548b4'
+- name: ROLAND.IMS
+  size: 18976
+  date: '1992-03-26T16:28:28'
+  crc: '0x8e983877'
+- name: SOUNBLAS.IMS
+  size: 24808
+  date: '1992-03-26T16:28:28'
+  crc: '0xa95c63ec'
+- name: SPEAKER.IMS
+  size: 20062
+  date: '1992-03-26T16:28:28'
+  crc: '0xdb85d8fd'

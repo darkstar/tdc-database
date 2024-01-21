@@ -1,0 +1,23 @@
+filename: Game of Life, The (2005)(Stephen G. Giannoni) [Simulation].zip
+tdc_id: '890.0'
+title:
+  screen: The Game of Life
+publisher: Stephen G. Giannoni
+year: '2005'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-02T10:57:04'
+  last_modified: '2019-03-02T10:57:04'
+type: zip
+commands:
+  play: life.exe
+files:
+- name: life.doc
+  size: 19968
+  date: '2005-11-15T14:21:24'
+  crc: '0xcc498897'
+- name: life.exe
+  size: 41942
+  date: '2005-11-14T21:17:42'
+  crc: '0xff2cb5f8'

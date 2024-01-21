@@ -1,0 +1,31 @@
+filename: Hangman (2006)(Zach Zens) [Strategy, Puzzle, Educational].zip
+tdc_id: '11069.0'
+title:
+  screen: Hangman
+publisher: Zach Zens
+year: '2006'
+genre:
+- Strategy
+- Puzzle
+- Educational
+language: English
+date:
+  added: '2019-03-02T10:57:14'
+  last_modified: '2019-03-02T10:57:14'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 27
+  date: '2018-12-10T13:01:54'
+  crc: '0x13e93504'
+- name: HANGMAN.BAS
+  size: 10176
+  date: '2018-02-17T20:57:50'
+  crc: '0xec8220c9'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

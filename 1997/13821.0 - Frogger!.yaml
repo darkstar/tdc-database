@@ -1,0 +1,28 @@
+filename: Frogger! (1997)(Matt Bross) [Action].zip
+tdc_id: '13821.0'
+title:
+  screen: Frogger!
+publisher: Matt Bross
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:31:32'
+  last_modified: '2019-03-02T10:31:32'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 25
+  date: '2018-11-19T19:54:58'
+  crc: '0x18da7d0a'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T01:28:02'
+  crc: '0x19f6ed75'
+- name: RETRO.BAS
+  size: 33450
+  date: '1997-03-24T17:11:12'
+  crc: '0x7f88cd10'

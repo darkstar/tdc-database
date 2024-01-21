@@ -1,0 +1,23 @@
+filename: Karate Arena (1985)(David Meny) [Action].zip
+tdc_id: '17105.0'
+title:
+  screen: Karate Arena
+publisher: David Meny
+year: '1985'
+genre: Action
+language: English
+date:
+  added: '2022-11-18T07:55:50'
+  last_modified: '2022-11-18T07:55:50'
+type: zip
+commands:
+  play: START.BAT
+files:
+- name: ARENIA.BAS
+  size: 29056
+  date: '1986-04-15T23:30:24'
+  crc: '0xd9801d75'
+- name: START.BAT
+  size: 15
+  date: '1980-01-01T00:00:00'
+  crc: '0xbeff47aa'

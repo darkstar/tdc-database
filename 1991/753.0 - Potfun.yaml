@@ -1,0 +1,27 @@
+filename: Potfun (1991)(E-Digi) [Simulation].zip
+tdc_id: '753.0'
+title:
+  screen: Potfun
+publisher: E-Digi
+year: '1991'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:37:28'
+  last_modified: '2019-03-01T18:37:28'
+type: zip
+commands:
+  play: POTFUN.EXE
+files:
+- name: POTFUN.DAT
+  size: 149832
+  date: '1992-04-30T12:07:44'
+  crc: '0xb549c8b4'
+- name: POTFUN.DOK
+  size: 9413
+  date: '1992-04-30T12:07:46'
+  crc: '0x22abac28'
+- name: POTFUN.EXE
+  size: 16080
+  date: '1992-04-30T12:07:50'
+  crc: '0x7e0256bb'

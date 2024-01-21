@@ -1,0 +1,41 @@
+filename: Caverns of Zoarre v1.5 [SW] (1987)(Thomas G. Hanlin III) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '5511.1'
+title:
+  screen: Caverns of Zoarre
+publisher: Thomas G. Hanlin III
+year: '1987'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:25:12'
+  last_modified: '2019-03-01T18:25:12'
+version: '1.5'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: ZOARRE.EXE
+files:
+- name: AREAS.DAT
+  size: 2048
+  date: '1984-12-22T03:57:18'
+  crc: '0xfab2f221'
+- name: CHARACTR.DAT
+  size: 1920
+  date: '1985-07-09T09:38:02'
+  crc: '0x7d74f109'
+- name: MAP.DAT
+  size: 8923
+  date: '1984-05-16T21:54:38'
+  crc: '0x9fd14d6f'
+- name: SPLMONSY.DAT
+  size: 2137
+  date: '1986-12-17T22:50:06'
+  crc: '0x8124a94c'
+- name: ZOARRE.EXE
+  size: 85079
+  date: '1987-04-18T23:06:20'
+  crc: '0x8e82d7d9'

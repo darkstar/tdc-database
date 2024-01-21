@@ -1,0 +1,47 @@
+filename: Blue Force v1.10 (1993)(Tsunami Media, Inc.) [Adventure].zip
+tdc_id: '8522.0'
+parent_id: '8522.1'
+title:
+  box: Blue Force
+publisher: Tsunami Media, Inc.
+year: '1993'
+genre: Adventure
+language: English
+date:
+  added: '2021-02-14T21:24:24'
+  last_modified: '2021-02-14T21:24:24'
+version: '1.10'
+type: zip
+files:
+- name: AUTOEXEC.RW
+  size: 22
+  date: '1992-12-31T09:41:40'
+  crc: '0xc92101ee'
+- name: BLUE.EXE
+  size: 1082512
+  date: '1993-06-03T17:29:12'
+  crc: '0xfdf7d163'
+- name: BLUE.RLB
+  size: 10032614
+  date: '1993-05-25T13:51:18'
+  crc: '0x5077a6b0'
+- name: CONFIG.RW
+  size: 32
+  date: '1992-12-31T09:38:46'
+  crc: '0x4e528fd3'
+- name: FILES.RLB
+  size: 183955
+  date: '1993-06-16T02:29:44'
+  crc: '0x6c9f6f14'
+- name: JOIN.EXE
+  size: 10405
+  date: '1993-02-24T14:03:10'
+  crc: '0x967dcca1'
+- name: TSAGE.CFG
+  size: 502
+  date: '1980-01-01T12:00:00'
+  crc: '0x1ec68166'
+- name: TSAGE.RLB
+  size: 38865
+  date: '1993-06-01T14:43:02'
+  crc: '0xce6a817a'

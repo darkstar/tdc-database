@@ -1,0 +1,55 @@
+filename: Castle, The v1.03 (1991)(Sami Tammilehto) [Strategy].zip
+tdc_id: '11990.0'
+title:
+  screen: The Castle
+publisher: Sami Tammilehto
+year: '1991'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:35:10'
+  last_modified: '2019-03-01T18:35:10'
+version: '1.03'
+type: zip
+commands:
+  play: CASTLE.EXE
+references:
+  dosid: DOS15782
+  exodos: Castle, The (1991).zip
+files:
+- name: CASTLE.4BM
+  size: 64000
+  date: '1991-01-24T23:59:04'
+  crc: '0xf648101b'
+- name: CASTLE.EXE
+  size: 17602
+  date: '1991-01-30T21:07:20'
+  crc: '0x1ef07f03'
+- name: CASTLE.PAL
+  size: 768
+  date: '1991-01-24T22:11:32'
+  crc: '0x23ede96d'
+- name: CFONT.UFF
+  size: 8278
+  date: '1991-01-24T08:02:30'
+  crc: '0x5fc45a8d'
+- name: CSPRITEB.4SR
+  size: 1228
+  date: '1991-01-25T14:23:48'
+  crc: '0xb39a1cb0'
+- name: CSPRITEP.4SR
+  size: 44
+  date: '1991-01-25T14:23:48'
+  crc: '0x8a994a7c'
+- name: CSPRITER.4SR
+  size: 1228
+  date: '1991-01-25T14:23:48'
+  crc: '0x64256135'
+- name: README
+  size: 640
+  date: '1991-02-01T01:08:00'
+  crc: '0x0c531bd9'
+- name: SINTABLE.DAT
+  size: 8192
+  date: '1990-12-12T14:41:52'
+  crc: '0x12c33dec'

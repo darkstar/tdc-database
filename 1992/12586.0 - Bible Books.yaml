@@ -1,0 +1,47 @@
+filename: Bible Books v1.1 [SW] (1992)(William R. Grothe) [Educational, Trivia, Compilation].zip
+tdc_id: '12586.0'
+title:
+  screen: Bible Books
+publisher: William R. Grothe
+year: '1992'
+genre:
+- Educational
+- Trivia
+- Compilation
+language: English
+date:
+  added: '2019-03-01T18:41:28'
+  last_modified: '2019-03-01T18:41:28'
+version: '1.1'
+type: zip
+tags:
+- Shareware
+media: Download
+compilation: true
+commands:
+  play: BB.EXE
+files:
+- name: B&A.DAT
+  size: 6978
+  date: '1992-11-22T16:01:44'
+  crc: '0x61c6b462'
+- name: BB.EXE
+  size: 75536
+  date: '1992-11-23T17:15:40'
+  crc: '0xe4e195d2'
+- name: FACT.DAT
+  size: 6551
+  date: '1992-11-23T17:20:10'
+  crc: '0x9c508c0b'
+- name: NUM.DAT
+  size: 1934
+  date: '1992-11-24T11:42:24'
+  crc: '0x9fe66eeb'
+- name: SCRAMBK.DAT
+  size: 3495
+  date: '1992-10-12T16:43:00'
+  crc: '0xa2e209bc'
+- name: VENDOR.DOC
+  size: 4033
+  date: '1992-11-24T11:45:06'
+  crc: '0xa6daa41f'

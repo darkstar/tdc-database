@@ -1,0 +1,38 @@
+filename: Code- Europe (Installer) (1993)(Compu-Teach) [Educational, Strategy].zip
+tdc_id: '9221.1'
+title:
+  box: 'Code: Europe'
+publisher: Compu-Teach
+year: '1993'
+genre:
+- Educational
+- Strategy
+language: English
+date:
+  added: '2019-03-01T19:01:56'
+  last_modified: '2019-03-01T19:01:56'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: CODE.001
+  size: 1275464
+  date: '1993-06-03T09:26:12'
+  crc: '0xd65b7b10'
+- name: CODE.002
+  size: 1342547
+  date: '1993-06-03T09:34:24'
+  crc: '0xce7f09e4'
+- name: INSTALL.EXE
+  size: 158983
+  date: '1993-05-26T22:21:56'
+  crc: '0x4da1799c'
+- name: INSTALL.S
+  size: 3527
+  date: '1993-06-03T10:44:22'
+  crc: '0x1e8a1528'
+- name: INSTALL2.S
+  size: 12869
+  date: '1993-06-03T10:42:04'
+  crc: '0x0b5b84f5'

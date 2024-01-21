@@ -1,0 +1,74 @@
+filename: Stick Fighter II (1992)(Gary Shaw) [Action].zip
+tdc_id: '15620.0'
+title:
+  screen: Stick Fighter II
+publisher: Gary Shaw
+year: '1992'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:51:32'
+  last_modified: '2019-03-01T18:51:32'
+type: zip
+commands:
+  play: SFII.EXE
+references:
+  dosid: DOS04871
+  exodos: Stick Fighter II (1992).zip
+files:
+- name: CLGRAB.VOC
+  size: 6178
+  date: '1999-12-31T18:00:00'
+  crc: '0xda98ebd1'
+- name: CT-VOICE.DRV
+  size: 2493
+  date: '1999-12-31T18:00:00'
+  crc: '0x63c62014'
+- name: EGAVGA.BGI
+  size: 5554
+  date: '1999-12-31T18:00:00'
+  crc: '0x116c5498'
+- name: FBALL.VOC
+  size: 7457
+  date: '1999-12-31T18:00:00'
+  crc: '0xb765ee8b'
+- name: FLY.VOC
+  size: 10461
+  date: '1999-12-31T18:00:00'
+  crc: '0x3cbbb215'
+- name: GRAB.VOC
+  size: 1821
+  date: '1999-12-31T18:00:00'
+  crc: '0x5bfc38d6'
+- name: HOLD.VOC
+  size: 4066
+  date: '1999-12-31T18:00:00'
+  crc: '0xe6ffe3fa'
+- name: LKICK.VOC
+  size: 2530
+  date: '1999-12-31T18:00:00'
+  crc: '0xbf64c4f7'
+- name: RKICK.VOC
+  size: 14434
+  date: '1999-12-31T18:00:00'
+  crc: '0x00ecb1bc'
+- name: SBOOM.VOC
+  size: 11426
+  date: '1999-12-31T18:00:00'
+  crc: '0x30289868'
+- name: SFII.DOC
+  size: 2039
+  date: '1999-12-31T18:00:00'
+  crc: '0x685cebc4'
+- name: SFII.EXE
+  size: 74560
+  date: '1999-12-31T18:00:00'
+  crc: '0x4da3afed'
+- name: UCUT.VOC
+  size: 15173
+  date: '1999-12-31T18:00:00'
+  crc: '0xf1507f25'
+- name: WHOOSH.VOC
+  size: 3273
+  date: '1999-12-31T18:00:00'
+  crc: '0xccd47296'

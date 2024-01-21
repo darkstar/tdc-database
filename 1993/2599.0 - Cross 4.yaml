@@ -1,0 +1,35 @@
+filename: Cross 4 (1993)(William Aviles) [Strategy].zip
+tdc_id: '2599.0'
+title:
+  screen: Cross 4
+publisher: William Aviles
+year: '1993'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T19:02:06'
+  last_modified: '2019-03-01T19:02:06'
+type: zip
+commands:
+  play: CROSS4.EXE
+files:
+- name: CROSS4.DOC
+  size: 481
+  date: '1993-05-27T10:00:22'
+  crc: '0x0bfe99d3'
+- name: CROSS4.EXE
+  size: 25248
+  date: '1993-04-15T13:03:06'
+  crc: '0x81b94782'
+- name: EGAVGA.BGI
+  size: 5554
+  date: '1990-10-23T06:00:00'
+  crc: '0x116c5498'
+- name: GRAPH.TPU
+  size: 32336
+  date: '1990-10-23T06:00:00'
+  crc: '0x9eae526d'
+- name: TRIP.CHR
+  size: 16677
+  date: '1990-10-23T06:00:00'
+  crc: '0xba867503'

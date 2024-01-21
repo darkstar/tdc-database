@@ -1,0 +1,28 @@
+filename: Kill Pirates (1985)(Anonymous) [Action].zip
+tdc_id: '11778.0'
+title:
+  screen: Kill Pirates
+publisher: Anonymous
+year: '1985'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:28'
+  last_modified: '2019-03-01T18:24:28'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 22
+  date: '2019-01-13T15:28:12'
+  crc: '0xb47bc56d'
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1988-10-05T02:00:08'
+  crc: '0x2a44af39'
+- name: KILLPI.BAS
+  size: 8960
+  date: '1985-08-24T01:24:44'
+  crc: '0x546931e7'

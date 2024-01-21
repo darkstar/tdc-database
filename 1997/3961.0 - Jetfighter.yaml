@@ -1,0 +1,29 @@
+filename: Jetfighter v4.3 (1997)(Tyler Tigue) [Action].zip
+tdc_id: '3961.0'
+title:
+  screen: Jetfighter
+publisher: Tyler Tigue
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:35:06'
+  last_modified: '2019-03-02T10:35:06'
+version: '4.3'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 23
+  date: '2018-11-21T12:51:58'
+  crc: '0x77af047f'
+- name: JET.BAS
+  size: 35449
+  date: '1997-05-28T11:48:24'
+  crc: '0x68990915'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'

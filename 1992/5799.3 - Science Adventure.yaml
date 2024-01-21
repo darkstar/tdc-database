@@ -1,0 +1,98 @@
+filename: Isaac Asimov- Science Adventure (Installer) [a1] (1992)(Knowledge Adventure, Inc.) [Educational].zip
+tdc_id: '5799.3'
+title:
+  box: 'Isaac Asimov: Science Adventure'
+  screen: Science Adventure
+  qualifier: Installer
+publisher: Knowledge Adventure, Inc.
+year: '1992'
+genre: Educational
+language: English
+date:
+  added: '2023-08-06T18:21:45'
+  last_modified: '2023-08-06T18:21:45'
+type: zip
+tags:
+- Alternate: 1
+media: 720K
+installer: true
+commands:
+  play: INSTALL.BAT
+references:
+  mobygames: https://www.mobygames.com/game/94778/isaac-asimov-science-adventure/
+files:
+- name: DISK10.DAT
+  size: 722542
+  date: '1992-05-06T01:00:20'
+  crc: '0x21ba780c'
+- name: DISK2.DAT
+  size: 727454
+  date: '1992-05-06T01:00:06'
+  crc: '0xccb01c94'
+- name: DISK3.DAT
+  size: 725915
+  date: '1992-04-27T14:03:40'
+  crc: '0x4bcdd9c1'
+- name: DISK4.DAT
+  size: 727518
+  date: '1992-04-27T14:07:02'
+  crc: '0x2fccefef'
+- name: DISK5.DAT
+  size: 729338
+  date: '1992-04-27T20:24:26'
+  crc: '0xc6f94a04'
+- name: DISK6.DAT
+  size: 727654
+  date: '1992-04-27T14:36:20'
+  crc: '0x7b506a6b'
+- name: DISK7.DAT
+  size: 728367
+  date: '1992-04-27T14:24:32'
+  crc: '0x0cb5477a'
+- name: DISK8.DAT
+  size: 729044
+  date: '1992-04-27T14:26:44'
+  crc: '0x82578cd2'
+- name: DISK9.DAT
+  size: 726280
+  date: '1992-04-27T14:32:48'
+  crc: '0x858461a0'
+- name: INSTALL.BAT
+  size: 2040
+  date: '1992-05-05T12:20:10'
+  crc: '0xddca3714'
+- name: INSTALL.EXE
+  size: 49967
+  date: '1992-05-06T01:00:02'
+  crc: '0x08449691'
+- name: README.BAT
+  size: 19
+  date: '1992-05-06T01:00:08'
+  crc: '0xb790fde8'
+- name: README.DOC
+  size: 20968
+  date: '1992-05-06T01:00:02'
+  crc: '0x4f78f4be'
+- name: SCIENCE\
+  size: 0
+  date: '1992-05-06T01:00:02'
+- name: SCIENCE\DISK1.DAT
+  size: 441596
+  date: '1992-05-07T00:23:12'
+  crc: '0xc0c28fc2'
+- name: SCIENCE\INSTALL.FNT
+  size: 1624
+  date: '1992-05-06T01:00:22'
+  crc: '0xd573b182'
+- name: SCIENCE\INSTALL1.DAT
+  size: 40897
+  date: '1992-05-06T01:00:40'
+  crc: '0x26bf83c2'
+- name: SCIENCE\INSTALL2.DAT
+  size: 147254
+  date: '1992-05-06T18:41:06'
+  crc: '0xdd20610d'
+- name: SCIENCE\TRANSFER.EXE
+  size: 19396
+  date: '1992-05-06T01:00:32'
+  crc: '0x73cb8ad6'

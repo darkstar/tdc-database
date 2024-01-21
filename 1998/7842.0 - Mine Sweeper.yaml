@@ -1,0 +1,36 @@
+filename: Mine Sweeper (1998)(Harry Van Woerden) [Strategy].zip
+tdc_id: '7842.0'
+title:
+  screen: Mine Sweeper
+publisher: Harry Van Woerden
+year: '1998'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:42:22'
+  last_modified: '2019-03-02T10:42:22'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 28
+  date: '2018-12-06T11:19:48'
+  crc: '0x480b1ec5'
+- name: MINESWPR.BAS
+  size: 19500
+  date: '2018-12-06T11:57:44'
+  crc: '0x650094be'
+- name: MINESWPR.HGH
+  size: 257
+  date: '1998-06-12T17:22:20'
+  crc: '0xcaa213a9'
+- name: MINESWPR.SRC
+  size: 19500
+  date: '1998-07-26T19:25:06'
+  crc: '0x70b8f22e'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

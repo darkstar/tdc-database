@@ -1,0 +1,28 @@
+filename: Flight Light Plus (Installer) (1995)(subLOGIC) [Simulation].zip
+tdc_id: '13658.1'
+title:
+  box: Flight Light Plus
+publisher: subLOGIC
+year: '1995'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-02T08:43:48'
+  last_modified: '2019-03-02T08:43:48'
+type: zip
+installer: true
+commands:
+  play: SETUP.EXE
+files:
+- name: FLP.01
+  size: 1212262
+  date: '1995-07-20T16:30:16'
+  crc: '0x0f012484'
+- name: FLP.02
+  size: 417656
+  date: '1995-07-20T16:30:20'
+  crc: '0x52678416'
+- name: SETUP.EXE
+  size: 244168
+  date: '1995-07-20T10:57:14'
+  crc: '0xacebdb38'

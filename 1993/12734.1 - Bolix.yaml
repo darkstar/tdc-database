@@ -1,0 +1,36 @@
+filename: Bolix (Installer) (Es) (1993)(ACA Soft.) [Action].zip
+tdc_id: '12734.1'
+title:
+  screen: Bolix
+publisher: ACA Soft.
+year: '1993'
+genre: Action
+language: Spanish
+date:
+  added: '2019-03-01T19:01:40'
+  last_modified: '2022-11-16T13:19:34'
+type: zip
+installer: true
+commands:
+  play: INSTALA.EXE
+files:
+- name: ADLIB.CMP
+  size: 67956
+  date: '1999-12-31T18:00:00'
+  crc: '0x01c75afb'
+- name: BOLIX.CMP
+  size: 500983
+  date: '1999-12-31T18:00:00'
+  crc: '0x0643053b'
+- name: INSTALA.EXE
+  size: 68592
+  date: '1999-12-31T18:00:00'
+  crc: '0x5d47ae7b'
+- name: INSTALA.EX_
+  size: 68592
+  date: '1999-12-31T18:00:00'
+  crc: '0xfc738e61'
+- name: SBLASTER.CMP
+  size: 117067
+  date: '1999-12-31T18:00:00'
+  crc: '0x5d835096'

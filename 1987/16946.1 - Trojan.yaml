@@ -1,0 +1,65 @@
+filename: Trojan [h1] (1987)(Capcom Co., Ltd.) [Action].zip
+tdc_id: '16946.1'
+title:
+  box: Trojan
+publisher: Capcom Co., Ltd.
+year: '1987'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:25:46'
+  last_modified: '2019-03-01T18:25:46'
+type: zip
+tags:
+- Hack: 1
+commands:
+  play: TROJ.EXE
+files:
+- name: CGAFONTS.BQN
+  size: 54383
+  date: '1987-10-26T22:19:18'
+  crc: '0xdb7a896c'
+- name: EGAFONTS.BQN
+  size: 160386
+  date: '1987-10-26T13:54:50'
+  crc: '0x58879c3c'
+- name: HSCORE.BIN
+  size: 260
+  date: '1980-01-01T00:00:58'
+  crc: '0x35026f3d'
+- name: INTRO1.BQN
+  size: 1228
+  date: '1987-10-26T17:19:36'
+  crc: '0x2cd9e671'
+- name: INTRO1.IQG
+  size: 2307
+  date: '1987-07-08T12:33:10'
+  crc: '0x1d549e9d'
+- name: INTRO2.BQN
+  size: 1229
+  date: '1987-10-01T18:02:50'
+  crc: '0x6721ea47'
+- name: INTRO216.IQG
+  size: 4098
+  date: '1987-10-01T17:29:20'
+  crc: '0x3262cc14'
+- name: TROJ.EXE
+  size: 78394
+  date: '1980-01-01T00:15:16'
+  crc: '0xbf8ec57d'
+- name: TROJAN.BQN
+  size: 2458
+  date: '1987-09-29T18:51:48'
+  crc: '0xf73f99ab'
+- name: TROJAN16.IQG
+  size: 4560
+  date: '1987-09-29T17:28:30'
+  crc: '0xb7a49139'
+- name: TTLTRJ.BQN
+  size: 8164
+  date: '1987-09-29T18:51:38'
+  crc: '0x646dc722'
+- name: TTLTRJ16.IQG
+  size: 16253
+  date: '1987-09-29T17:29:12'
+  crc: '0x84068740'

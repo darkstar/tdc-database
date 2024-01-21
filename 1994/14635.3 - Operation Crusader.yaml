@@ -1,0 +1,37 @@
+filename: Operation Crusader v2.35 patch (1994)(The Avalon Hill Game Company) [Strategy, Addon].zip
+tdc_id: '14635.3'
+title:
+  screen: Operation Crusader
+publisher: The Avalon Hill Game Company
+year: '1994'
+genre:
+- Strategy
+- Addon
+language: English
+date:
+  added: '2019-11-27T14:24:48'
+  last_modified: '2019-11-27T14:24:48'
+version: '2.35'
+type: zip
+patch: true
+files:
+- name: PATCH.BAT
+  size: 56
+  date: '1995-06-01T08:48:38'
+  crc: '0x295a87f9'
+- name: PATCH.EXE
+  size: 55017
+  date: '1995-01-23T01:00:00'
+  crc: '0x72846237'
+- name: PATCH.RTP
+  size: 484553
+  date: '1995-06-02T00:27:10'
+  crc: '0x4856e29b'
+- name: PBEMREAD.ME
+  size: 11906
+  date: '1995-06-06T14:35:22'
+  crc: '0xf4bff036'
+- name: READ.ME
+  size: 12763
+  date: '1995-10-06T14:48:58'
+  crc: '0x0ed8f33a'

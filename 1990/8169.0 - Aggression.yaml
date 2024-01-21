@@ -1,0 +1,41 @@
+filename: Aggression [SW] (1990)(Expert Source Code, Inc.) [Strategy].zip
+tdc_id: '8169.0'
+title:
+  screen: Aggression
+publisher: Expert Source Code, Inc.
+year: '1990'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:31:44'
+  last_modified: '2019-03-01T18:31:44'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: AGGRESS.EXE
+references:
+  dosid: DOS00758
+  exodos: Aggression (1990).zip
+files:
+- name: AGGRESS.DOC
+  size: 11479
+  date: '1990-07-19T19:15:00'
+  crc: '0xc5e7b18e'
+- name: AGGRESS.EXE
+  size: 67744
+  date: '1990-05-18T18:57:26'
+  crc: '0x67b3ba29'
+- name: AGGRESS.PCL
+  size: 125157
+  date: '1990-05-11T00:29:40'
+  crc: '0x6fc800a4'
+- name: AGGRESS.REG
+  size: 2332
+  date: '1990-07-19T19:14:24'
+  crc: '0xabc5f1b2'
+- name: AVEXTRA.TXT
+  size: 439
+  date: '1990-07-03T19:56:48'
+  crc: '0x637bb8f8'

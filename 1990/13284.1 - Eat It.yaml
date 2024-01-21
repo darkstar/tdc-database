@@ -1,0 +1,31 @@
+filename: Eat It v2.01 (1990)(Marko Teittinen) [Action].zip
+tdc_id: '13284.1'
+title:
+  screen: Eat It
+publisher: Marko Teittinen
+year: '1990'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:32:30'
+  last_modified: '2019-03-01T18:32:30'
+version: '2.01'
+type: zip
+commands:
+  play: EATIT.EXE
+references:
+  dosid: DOS06816
+  exodos: Eat It (1990).zip
+files:
+- name: EATIT.DOC
+  size: 7132
+  date: '1991-12-20T01:01:00'
+  crc: '0xcf29d7d3'
+- name: EATIT.EXE
+  size: 74912
+  date: '1990-04-21T02:01:00'
+  crc: '0xe961e95e'
+- name: HISCORES.EAT
+  size: 30
+  date: '2015-07-10T19:47:24'
+  crc: '0xe9d6ae84'

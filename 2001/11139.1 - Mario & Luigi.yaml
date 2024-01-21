@@ -1,0 +1,33 @@
+filename: Mario & Luigi [FW] (2001)(Mike Wiering) [Action].zip
+tdc_id: '11139.1'
+title:
+  screen: Mario & Luigi
+publisher: Mike Wiering
+year: '2001'
+genre: Action
+language: English
+date:
+  added: '2012-02-12T15:38:28'
+  last_modified: '2012-02-12T15:38:28'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: MARIO.EXE
+references:
+  dosid: DOS06942
+  exodos: Mario and Luigi (2001).zip
+files:
+- name: FILE_ID.DIZ
+  size: 215
+  date: '2001-05-13T23:43:32'
+  crc: '0xde33da81'
+- name: MARIO.EXE
+  size: 57397
+  date: '2001-05-13T23:43:32'
+  crc: '0x75acd245'
+- name: README.TXT
+  size: 2330
+  date: '2001-05-13T23:43:32'
+  crc: '0xfdc622d9'

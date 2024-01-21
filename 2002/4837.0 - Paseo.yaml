@@ -1,0 +1,33 @@
+filename: Paseo (Es) (2002)(Ghatanothoa) [Action, Adventure].zip
+tdc_id: '4837.0'
+title:
+  screen: Paseo
+publisher: Ghatanothoa
+year: '2002'
+genre:
+- Action
+- Adventure
+language: Spanish
+date:
+  added: '2019-03-02T10:56:06'
+  last_modified: '2019-03-02T10:56:06'
+type: zip
+commands:
+  play: NANO.EXE
+files:
+- name: MOD1.ASM
+  size: 2154
+  date: '2002-09-14T06:07:46'
+  crc: '0xa97d8205'
+- name: NANO.ASM
+  size: 13684
+  date: '2002-11-17T16:35:50'
+  crc: '0x242a2907'
+- name: NANO.EXE
+  size: 4024
+  date: '2002-11-17T16:36:22'
+  crc: '0x077a105a'
+- name: NANO.TXT
+  size: 909
+  date: '2002-12-17T16:34:02'
+  crc: '0x728eab43'

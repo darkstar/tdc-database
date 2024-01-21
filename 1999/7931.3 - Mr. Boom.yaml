@@ -1,0 +1,32 @@
+filename: Mr. Boom v3.0 (1999)(Remdy Software) [Action].zip
+tdc_id: '7931.3'
+title:
+  screen: Mr. Boom
+publisher: Remdy Software
+year: '1999'
+genre: Action
+language: English
+date:
+  added: '1999-06-10T12:04:54'
+  last_modified: '1999-06-10T12:04:54'
+version: '3.0'
+type: zip
+media: Download
+commands:
+  play: MRBOOM30.EXE
+references:
+  dosid: DOS03650
+  exodos: Mr. Boom (1999).zip
+files:
+- name: FILE_ID.DIZ
+  size: 940
+  date: '1999-06-10T17:04:22'
+  crc: '0x97a1996d'
+- name: MRBOOM30.EXE
+  size: 2661664
+  date: '1999-06-10T17:04:14'
+  crc: '0xbec0eb34'
+- name: MRBOOM30.TXT
+  size: 10682
+  date: '1999-06-10T17:04:54'
+  crc: '0x36a94818'

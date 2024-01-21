@@ -1,0 +1,44 @@
+filename: Aces of the Pacific Patch B (1992)(Sierra On-Line, Inc.) [Simulation, Addon].zip
+tdc_id: '8027.1'
+title:
+  screen: Aces of the Pacific Patch B
+publisher: Sierra On-Line, Inc.
+year: '1992'
+genre:
+- Simulation
+- Addon
+language: English
+date:
+  added: '2019-03-01T18:40:52'
+  last_modified: '2019-03-01T18:40:52'
+type: zip
+patch: true
+files:
+- name: EXES.EXE
+  size: 495295
+  date: '1992-09-11T13:54:50'
+  crc: '0x72fa1ecc'
+- name: PATCH.A
+  size: 15761
+  date: '1992-09-11T10:21:52'
+  crc: '0x355f7b66'
+- name: PATCH.B
+  size: 66512
+  date: '1992-09-11T18:02:00'
+  crc: '0xfb759307'
+- name: PATCH.EXE
+  size: 67929
+  date: '1991-08-22T08:30:00'
+  crc: '0x1f365a4b'
+- name: README.BAT
+  size: 40
+  date: '1992-09-16T15:44:20'
+  crc: '0xfe8fc9b7'
+- name: README.DOC
+  size: 2290
+  date: '1992-09-18T17:07:22'
+  crc: '0xd6f044ac'
+- name: UPDATE.BAT
+  size: 3655
+  date: '1992-09-18T17:06:16'
+  crc: '0xcad78fcc'

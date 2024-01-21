@@ -1,0 +1,39 @@
+filename: Lion King, The (Installer) (1994)(Virgin Interactive Entertainment, Inc.) [Action][!].zip
+tdc_id: '6414.1'
+parent_id: '6414.6'
+title:
+  box: The Lion King
+publisher: Virgin Interactive Entertainment, Inc.
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T22:01:42'
+  last_modified: '2019-03-01T22:01:42'
+type: zip
+tags:
+- KnownGood
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK1
+  size: 1420000
+  date: '1994-11-29T15:23:46'
+  crc: '0xe054b405'
+- name: DISK2
+  size: 1420000
+  date: '1994-11-29T15:23:42'
+  crc: '0x05af58a8'
+- name: DISK3
+  size: 890898
+  date: '1994-11-29T15:23:46'
+  crc: '0x7f929559'
+- name: INSTALL.EXE
+  size: 12968
+  date: '1994-11-24T08:26:20'
+  crc: '0x2fb29f8e'
+- name: README.TXT
+  size: 393
+  date: '1994-11-28T09:27:44'
+  crc: '0xa6a53d2e'

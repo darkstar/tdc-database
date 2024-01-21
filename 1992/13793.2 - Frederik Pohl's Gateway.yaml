@@ -1,0 +1,48 @@
+filename: Frederik Pohl's Gateway (Installer) [a1] (1992)(Legend Entertainment Company) [Adventure, Interactive Fiction].zip
+tdc_id: '13793.2'
+title:
+  box: Frederik Pohl's Gateway
+publisher: Legend Entertainment Company
+year: '1992'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:44:52'
+  last_modified: '2019-03-01T18:44:52'
+type: zip
+tags:
+- Alternate: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: GATE_I11.LEG
+  size: 1169399
+  date: '1992-05-05T22:16:24'
+  crc: '0x876f6406'
+- name: GATE_I12.LEG
+  size: 1213932
+  date: '1992-05-05T22:16:36'
+  crc: '0x07352301'
+- name: GATE_I13.LEG
+  size: 1213947
+  date: '1992-05-05T22:17:24'
+  crc: '0xc25a8055'
+- name: GATE_I14.LEG
+  size: 1213839
+  date: '1992-05-05T22:17:46'
+  crc: '0x3386e39b'
+- name: GATE_I15.LEG
+  size: 981589
+  date: '1992-05-05T22:19:14'
+  crc: '0xcb8a620e'
+- name: INSTALL.EXE
+  size: 43953
+  date: '1992-05-06T00:28:24'
+  crc: '0xf8b96874'
+- name: INSTALL.TAG
+  size: 58
+  date: '1992-05-06T00:48:34'
+  crc: '0x0ca91b2e'

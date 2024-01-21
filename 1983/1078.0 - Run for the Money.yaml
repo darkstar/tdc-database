@@ -1,0 +1,53 @@
+filename: Run for the Money (1983)(Scarborough Systems, Inc.) [Strategy, Educational].zip
+tdc_id: '1078.0'
+title:
+  box: Run for the Money
+publisher: Scarborough Systems, Inc.
+year: '1983'
+genre:
+- Strategy
+- Educational
+language: English
+date:
+  added: '2019-03-01T18:23:18'
+  last_modified: '2023-07-21T19:34:08'
+type: zip
+commands:
+  play: START.COM
+references:
+  mobygames: https://www.mobygames.com/game/83034/run-for-the-money/
+  dosid: DOS07628
+  exodos: Run for the Money (1984).zip
+files:
+- name: AUTOEXEC.BAT
+  size: 14
+  date: '1980-01-01T00:05:58'
+  crc: '0xde2b0a16'
+- name: CDEMO.EXE
+  size: 45952
+  date: '1984-01-19T12:13:16'
+  crc: '0xc5251dfb'
+- name: DATA
+  size: 8960
+  date: '1980-01-01T00:02:14'
+  crc: '0x7764d6a6'
+- name: MAIN.EXE
+  size: 45952
+  date: '1983-12-09T10:33:26'
+  crc: '0x6ff8f41c'
+- name: PICS
+  size: 12416
+  date: '1980-01-01T01:42:38'
+  crc: '0x084c042b'
+- name: START.COM
+  size: 4096
+  date: '1980-01-01T00:05:20'
+  crc: '0x17e2f584'
+- name: START.CO_
+  size: 4096
+  date: '1980-01-01T00:05:20'
+  crc: '0xa61381de'
+- name: TUTOR
+  size: 8448
+  date: '1983-12-09T13:16:06'
+  crc: '0xf4c818e1'

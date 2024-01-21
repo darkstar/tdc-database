@@ -1,0 +1,65 @@
+filename: Mighty Bomb Jack (En)(De)(Fr) (1990)(Elite Systems) [Action].zip
+tdc_id: '2019.0'
+title:
+  box: Mighty Bomb Jack
+publisher: Elite Systems
+year: '1990'
+genre: Action
+language:
+- English
+- French
+- German
+date:
+  added: '2019-03-01T18:33:16'
+  last_modified: '2019-03-01T18:33:16'
+type: zip
+commands:
+  play: MBJ.EXE
+references:
+  dosid: DOS03567
+  exodos: Mighty Bombjack (1990).zip
+files:
+- name: BLOCKS.BIN
+  size: 67584
+  date: '1991-04-02T06:08:38'
+  crc: '0xfe45b37e'
+- name: DEMOS.BIN
+  size: 3200
+  date: '1991-04-02T06:05:00'
+  crc: '0x07094e4b'
+- name: FAST.IFF
+  size: 9512
+  date: '1991-04-02T06:08:36'
+  crc: '0x08f5b212'
+- name: FRONT.IFF
+  size: 16238
+  date: '1991-04-02T06:05:00'
+  crc: '0x3980fdf9'
+- name: LANG.IFF
+  size: 8796
+  date: '1991-04-02T06:05:00'
+  crc: '0xe2ef3c2d'
+- name: MBJ.EXE
+  size: 90144
+  date: '1991-05-04T14:39:58'
+  crc: '0x7c9c564f'
+- name: PC.DLT
+  size: 58718
+  date: '1991-04-02T06:05:00'
+  crc: '0x4a8cb74c'
+- name: PC.IFF
+  size: 18472
+  date: '1991-04-02T06:05:00'
+  crc: '0x6f565501'
+- name: PCMPDAT.BIN
+  size: 149864
+  date: '1991-04-02T06:05:00'
+  crc: '0xd0e87b02'
+- name: PC_LOAD1.IFF
+  size: 21698
+  date: '1991-04-02T06:08:38'
+  crc: '0x427ec681'
+- name: SPRDAT.BIN
+  size: 24144
+  date: '1991-04-02T06:08:38'
+  crc: '0x4bd00f97'

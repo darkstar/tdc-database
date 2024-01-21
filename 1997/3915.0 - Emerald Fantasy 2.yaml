@@ -1,0 +1,90 @@
+filename: Emerald Fantasy 2 (1997)(Emerald) [Action].zip
+tdc_id: '3915.0'
+title:
+  screen: Emerald Fantasy 2
+publisher: Emerald
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:31:16'
+  last_modified: '2019-03-02T10:31:16'
+type: zip
+commands:
+  play: EF2.EXE
+references:
+  dosid: DOS07900
+  exodos: Emerald Fantasy 2 (1997).zip
+files:
+- name: CHAR.SET
+  size: 3060
+  date: '1997-02-24T08:03:58'
+  crc: '0x76d5c790'
+- name: DOS4GW.EXE
+  size: 254556
+  date: '1994-05-31T03:00:00'
+  crc: '0x95d35b4d'
+- name: EF2.EXE
+  size: 92516
+  date: '1997-02-24T16:34:12'
+  crc: '0x8def8f55'
+- name: EF2.MAP
+  size: 64004
+  date: '1997-02-24T14:25:34'
+  crc: '0x76cc46f3'
+- name: EF2.TLE
+  size: 61680
+  date: '1997-02-22T19:01:12'
+  crc: '0xd7a245e5'
+- name: EF2PLAY.BGM
+  size: 16669
+  date: '1997-02-23T15:28:58'
+  crc: '0x34641829'
+- name: EF2TITLE.BGM
+  size: 6354
+  date: '1997-02-23T15:28:48'
+  crc: '0xe3916e1f'
+- name: EF2TITLE.IMG
+  size: 64004
+  date: '1997-02-24T08:33:38'
+  crc: '0xc069a5b4'
+- name: ELEDINA.SET
+  size: 9884
+  date: '1997-02-23T04:00:50'
+  crc: '0xc6796495'
+- name: MAGIC.SET
+  size: 1695
+  date: '1997-02-24T10:01:26'
+  crc: '0x5b041667'
+- name: MAGICBOX.SET
+  size: 520
+  date: '1997-02-24T03:00:58'
+  crc: '0xbe24d5a4'
+- name: PALETTE.SET
+  size: 1536
+  date: '1997-02-23T04:14:02'
+  crc: '0x9a5052cd'
+- name: SCRIPT.SCR
+  size: 3154
+  date: '1997-02-24T16:03:34'
+  crc: '0xf71e1ea9'
+- name: SLIMEA.SET
+  size: 1410
+  date: '1997-02-24T10:09:48'
+  crc: '0xdfe0d317'
+- name: SLIMEB.SET
+  size: 1752
+  date: '1997-02-23T04:20:02'
+  crc: '0x62f49c3e'
+- name: SLIMEC.SET
+  size: 6435
+  date: '1997-02-23T04:23:36'
+  crc: '0x2c2ee5a6'
+- name: SLIMEP.SET
+  size: 120
+  date: '1997-02-23T04:06:12'
+  crc: '0x1690b916'
+- name: TWORD.SET
+  size: 9581
+  date: '1997-02-22T06:34:56'
+  crc: '0x6de10b1f'

@@ -1,0 +1,30 @@
+filename: Quadralien (En)(Fr)(De) (1988)(Logotron) [Strategy].zip
+tdc_id: '10795.0'
+title:
+  box: Quadralien
+publisher: Logotron
+year: '1988'
+genre: Strategy
+language:
+- English
+- French
+- German
+date:
+  added: '2019-03-01T18:26:40'
+  last_modified: '2019-03-01T18:26:40'
+type: zip
+commands:
+  play: QUAD.EXE
+files:
+- name: FRENCH.DAT
+  size: 10059
+  date: '1980-03-23T22:37:26'
+  crc: '0x523265f0'
+- name: GERMAN.DAT
+  size: 10059
+  date: '1980-04-01T19:22:34'
+  crc: '0xc6f5f619'
+- name: QUAD.EXE
+  size: 189691
+  date: '1980-04-02T18:56:20'
+  crc: '0x6f589f48'

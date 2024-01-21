@@ -1,0 +1,41 @@
+filename: Морской бой (2000)(Nikolay Okulov) [Strategy].zip
+tdc_id: '4631.0'
+title:
+  screen: Морской бой
+  translation: Sea Battle
+publisher: Nikolay Okulov
+year: '2000'
+genre: Strategy
+language: English
+date:
+  added: '2021-01-16T01:25:38'
+  last_modified: '2023-07-02T10:47:30'
+type: zip
+media: Download
+commands:
+  play: SEABATTL.EXE
+files:
+- name: CGA.BGI
+  size: 6250
+  date: '1992-10-01T05:00:00'
+  crc: '0xb6ac7b3d'
+- name: EGAVGA.BGI
+  size: 5527
+  date: '1992-10-01T05:00:00'
+  crc: '0xa33014d5'
+- name: FILE_ID.DIZ
+  size: 56
+  date: '2000-11-21T21:00:00'
+  crc: '0x31ca3f5a'
+- name: F_MOUSE.PAS
+  size: 25989
+  date: '2000-10-01T16:22:26'
+  crc: '0x6c58b129'
+- name: SEABATTL.EXE
+  size: 32192
+  date: '2020-11-23T09:56:12'
+  crc: '0xe4fd1bce'
+- name: seabattl.pas
+  size: 11624
+  date: '2000-11-17T10:57:40'
+  crc: '0xfd3956eb'

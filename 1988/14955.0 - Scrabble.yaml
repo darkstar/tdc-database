@@ -1,0 +1,28 @@
+filename: Scrabble v1.3 (1988)(Chris Hall) [Strategy].zip
+tdc_id: '14955.0'
+title:
+  screen: Scrabble
+publisher: Chris Hall
+year: '1988'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:26:44'
+  last_modified: '2019-03-01T18:26:44'
+version: '1.3'
+type: zip
+commands:
+  play: SCRABBLE.EXE
+files:
+- name: SCRABBLE.DIC
+  size: 3184
+  date: '1989-01-22T13:17:38'
+  crc: '0xb0fb7f42'
+- name: SCRABBLE.DOC
+  size: 1028
+  date: '1988-02-14T11:31:14'
+  crc: '0xcf37114c'
+- name: SCRABBLE.EXE
+  size: 79136
+  date: '1988-01-29T07:06:58'
+  crc: '0x7514da3e'

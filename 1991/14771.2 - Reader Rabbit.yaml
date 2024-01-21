@@ -1,0 +1,24 @@
+filename: Reader Rabbit v5.01 (1991)(Learning Co., Inc., The) [Educational].zip
+tdc_id: '14771.2'
+title:
+  box: Reader Rabbit
+publisher: Learning Co., Inc., The
+year: '1991'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T18:37:32'
+  last_modified: '2019-03-01T18:37:32'
+version: '5.01'
+type: zip
+commands:
+  play: RR1.EXE
+files:
+- name: RR000.DAT
+  size: 218531
+  date: '2014-11-18T21:38:10'
+  crc: '0x1abc2558'
+- name: RR1.EXE
+  size: 87852
+  date: '2014-11-18T21:36:30'
+  crc: '0xb5ce26a3'

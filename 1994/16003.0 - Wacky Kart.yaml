@@ -1,0 +1,42 @@
+filename: Wacky Kart (prototype) (1994)(Copysoft) [Action, Racing - Driving].zip
+tdc_id: '16003.0'
+title:
+  screen: Wacky Kart
+  qualifier: prototype
+publisher: Copysoft
+year: '1994'
+genre:
+- Action
+- Racing - Driving
+language: English
+date:
+  added: '2022-01-10T14:32:58'
+  last_modified: '2023-10-05T09:35:58'
+type: zip
+media: Download
+demo: true
+commands:
+  play: WACKY.EXE
+references:
+  mobygames: https://www.mobygames.com/game/433/wacky-wheels/
+files:
+- name: CALJ.EXE
+  size: 12606
+  date: '1994-02-02T12:00:00'
+  crc: '0x20cdf8e1'
+- name: WACKY.EXE
+  size: 265359
+  date: '1994-02-02T12:00:00'
+  crc: '0x385ac218'
+- name: WACKY.LID
+  size: 3089914
+  date: '1994-02-02T12:00:00'
+  crc: '0x87d995f8'
+- name: WACKY.TXT
+  size: 5629
+  date: '1994-02-02T12:00:00'
+  crc: '0xe56df7f6'
+- name: WACKYTXT.EXE
+  size: 24324
+  date: '1994-02-02T12:00:00'
+  crc: '0x5e6e5023'

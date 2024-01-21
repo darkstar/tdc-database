@@ -1,0 +1,29 @@
+filename: Rock World v4.01 (1996)(Delta Software) [Action].zip
+tdc_id: '407.0'
+title:
+  screen: Rock World
+publisher: Delta Software
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:16:52'
+  last_modified: '2019-03-02T10:16:52'
+version: '4.01'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 24
+  date: '2018-11-21T15:08:12'
+  crc: '0xafc01595'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'
+- name: ROCK.BAS
+  size: 6870
+  date: '1997-07-08T00:23:22'
+  crc: '0x451caf1c'

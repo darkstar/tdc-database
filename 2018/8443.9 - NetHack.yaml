@@ -1,0 +1,70 @@
+filename: NetHack v3.6.1 (2018)(Stichting Mathematisch, M. Stephenson) [Role-Playing (RPG)].zip
+tdc_id: '8443.9'
+title:
+  screen: NetHack
+publisher: Stichting Mathematisch, M. Stephenson
+year: '2018'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-02T10:58:14'
+  last_modified: '2019-03-02T10:58:14'
+version: 3.6.1
+type: zip
+media: Download
+commands:
+  play: nethack.exe
+files:
+- name: CWSDPMI.EXE
+  size: 25920
+  date: '2018-09-07T12:16:52'
+  crc: '0x537cbe02'
+- name: CWSDPMI.SWP
+  size: 0
+  date: '2018-09-07T12:16:58'
+- name: DEFAULTS.NH
+  size: 5098
+  date: '2018-09-06T23:43:42'
+  crc: '0xe3e18656'
+- name: LICENSE
+  size: 4875
+  date: '2016-05-26T17:32:58'
+  crc: '0x862b9e80'
+- name: LOGFILE
+  size: 0
+  date: '2018-09-06T23:43:30'
+- name: NETHACK.TXT
+  size: 11547
+  date: '2018-03-01T21:28:34'
+  crc: '0x234c0612'
+- name: NHDAT
+  size: 1259583
+  date: '2018-09-06T21:16:06'
+  crc: '0x8a2faf18'
+- name: NHTILES.BMP
+  size: 692278
+  date: '2018-09-06T20:03:40'
+  crc: '0xf96e6152'
+- name: RECORD
+  size: 0
+  date: '2018-09-06T21:41:38'
+- name: SLEDGE.0
+  size: 20862
+  date: '2018-09-07T12:17:14'
+  crc: '0x399f5741'
+- name: SLEDGE.1
+  size: 18362
+  date: '2018-09-07T12:17:14'
+  crc: '0x6d337c25'
+- name: SYMBOLS
+  size: 14744
+  date: '2018-04-27T14:07:22'
+  crc: '0xeff3119d'
+- name: SYSCONF
+  size: 3471
+  date: '2018-04-27T14:07:22'
+  crc: '0x3a648f12'
+- name: nethack.exe
+  size: 1179716
+  date: '2018-09-06T21:12:00'
+  crc: '0x07b2e92d'

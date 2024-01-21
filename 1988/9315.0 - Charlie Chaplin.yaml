@@ -1,0 +1,100 @@
+filename: Charlie Chaplin (1988)(U.S. Gold Ltd.) [Action, Simulation, Strategy].zip
+tdc_id: '9315.0'
+title:
+  box: Charlie Chaplin
+publisher: U.S. Gold Ltd.
+year: '1988'
+genre:
+- Action
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:26:02'
+  last_modified: '2022-12-30T07:38:13'
+type: zip
+commands:
+  play: CHAPLIN.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/charlie-chaplin
+files:
+- name: BOY.SPR
+  size: 6312
+  date: '1988-01-14T16:37:16'
+  crc: '0x19cd7331'
+- name: CHAPLIN.EXE
+  size: 5680
+  date: '1980-01-01T00:39:32'
+  crc: '0xe6da485f'
+- name: CHAPLIN.EX_
+  size: 5680
+  date: '1980-01-01T00:39:32'
+  crc: '0x65cddd02'
+- name: COPPER.SPR
+  size: 17846
+  date: '1988-01-22T16:44:20'
+  crc: '0xc143b92a'
+- name: DOG.SPR
+  size: 9844
+  date: '1988-01-14T16:36:46'
+  crc: '0xe841fa01'
+- name: DRUNK.SPR
+  size: 20222
+  date: '1988-03-12T15:58:46'
+  crc: '0x240abb2e'
+- name: FACTORY.SCN
+  size: 5946
+  date: '1980-01-01T00:03:22'
+  crc: '0x0e0c99d6'
+- name: GIRL.SPR
+  size: 10628
+  date: '1988-01-14T16:32:26'
+  crc: '0xed038465'
+- name: HALL.SCN
+  size: 3326
+  date: '1980-01-01T00:01:50'
+  crc: '0x11ed95af'
+- name: OVERLAY.EXE
+  size: 135058
+  date: '1988-05-19T19:00:26'
+  crc: '0x503af246'
+- name: PARK.SCN
+  size: 6060
+  date: '1980-01-01T00:02:56'
+  crc: '0x060df5d1'
+- name: PROM.SCN
+  size: 6856
+  date: '1980-01-01T00:04:48'
+  crc: '0x15445b29'
+- name: RESTRANT.SCN
+  size: 5229
+  date: '1980-01-01T00:02:28'
+  crc: '0x82ac9778'
+- name: SHIP.SCN
+  size: 5588
+  date: '1980-01-01T00:04:16'
+  crc: '0x08ea7690'
+- name: SHOP.SCN
+  size: 5004
+  date: '1980-01-01T00:05:12'
+  crc: '0xdc4b5a75'
+- name: STREET.SCN
+  size: 3678
+  date: '1980-01-01T00:03:56'
+  crc: '0xda7ae451'
+- name: TITLE1.SCN
+  size: 16384
+  date: '1988-02-04T16:23:30'
+  crc: '0xd73b6021'
+- name: TITLE2.SCN
+  size: 16384
+  date: '1988-04-25T13:20:14'
+  crc: '0xca897d7b'
+- name: VILLAIN.SPR
+  size: 23836
+  date: '1988-01-21T22:54:26'
+  crc: '0x8b0cc5e1'
+- name: WOMAN.SPR
+  size: 31570
+  date: '1988-01-21T22:53:54'
+  crc: '0xdc9da6ae'

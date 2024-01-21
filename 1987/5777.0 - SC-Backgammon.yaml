@@ -1,0 +1,29 @@
+filename: SC-Backgammon v2.00 [SW] (1987)(Software Creations) [Strategy, Board].zip
+tdc_id: '5777.0'
+title:
+  screen: SC-Backgammon
+publisher: Software Creations
+year: '1987'
+genre:
+- Strategy
+- Board
+language: English
+date:
+  added: '2019-03-01T18:25:36'
+  last_modified: '2019-03-01T18:25:36'
+version: '2.00'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: BG.EXE
+files:
+- name: BG.DOC
+  size: 4726
+  date: '1989-01-03T12:45:20'
+  crc: '0x463ef888'
+- name: BG.EXE
+  size: 78499
+  date: '1987-07-07T02:00:00'
+  crc: '0x938a8e71'

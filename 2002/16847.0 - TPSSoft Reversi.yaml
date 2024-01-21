@@ -1,0 +1,28 @@
+filename: TPSSoft Reversi v1.5 (2002)(TPSSoft Corp.) [Strategy].zip
+tdc_id: '16847.0'
+title:
+  screen: TPSSoft Reversi
+publisher: TPSSoft Corp.
+year: '2002'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:56:18'
+  last_modified: '2019-03-02T10:56:18'
+version: '1.5'
+type: zip
+commands:
+  play: REVERSI.EXE
+files:
+- name: README.TXT
+  size: 247
+  date: '2002-07-19T08:42:00'
+  crc: '0xefd0960d'
+- name: REVERSI.EXE
+  size: 47072
+  date: '2002-08-31T17:28:42'
+  crc: '0x09715334'
+- name: REVERSI.TDL
+  size: 163571
+  date: '2002-08-08T17:27:02'
+  crc: '0xeddbbdcd'

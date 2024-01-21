@@ -1,0 +1,50 @@
+filename: Paranoia (1999)(Glenn Hutchings, Tim Lister) [Adventure, Interactive Fiction].zip
+tdc_id: '4416.0'
+title:
+  screen: Paranoia
+publisher: Glenn Hutchings, Tim Lister
+year: '1999'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T10:46:20'
+  last_modified: '2019-03-02T10:46:20'
+type: zip
+references:
+  dosid: DOS03913
+  exodos: Paranoia (1993).zip
+files:
+- name: CWSDPMI.EXE
+  size: 20473
+  date: '1996-12-24T22:32:00'
+  crc: '0x80fa6999'
+- name: START.BAT
+  size: 17
+  date: '2017-01-03T21:02:38'
+  crc: '0xbe27bba8'
+- name: frotz.exe
+  size: 129024
+  date: '1996-12-24T22:32:00'
+  crc: '0x57987597'
+- name: frotz.txt
+  size: 17247
+  date: '1996-12-24T22:32:00'
+  crc: '0xbd05b3db'
+- name: paranoia.c
+  size: 50270
+  date: '1997-04-03T12:00:00'
+  crc: '0x704e6b1f'
+- name: paranoia.inf
+  size: 52338
+  date: '1999-05-28T08:47:00'
+  crc: '0xf5e9f175'
+- name: paranoia.txt
+  size: 464
+  date: '1999-06-09T23:58:28'
+  crc: '0xa2161b73'
+- name: paranoia.z5
+  size: 80384
+  date: '1999-05-28T08:45:00'
+  crc: '0x3f2f4524'

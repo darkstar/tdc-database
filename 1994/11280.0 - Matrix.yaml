@@ -1,0 +1,33 @@
+filename: Matrix (Installer) [FW] (1994)(Nocturnal Creations) [Action, Strategy].zip
+tdc_id: '11280.0'
+title:
+  screen: Matrix
+publisher: Nocturnal Creations
+year: '1994'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T22:02:00'
+  last_modified: '2019-03-01T22:02:00'
+type: zip
+tags:
+- Freeware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 58367
+  date: '1995-02-17T04:07:28'
+  crc: '0x9297a3cb'
+- name: MATRIX.IMG
+  size: 547804
+  date: '1995-02-12T05:45:30'
+  crc: '0xd1a69163'
+- name: VENDOR.TXT
+  size: 1847
+  date: '1995-02-12T03:30:00'
+  crc: '0x5a55f35c'

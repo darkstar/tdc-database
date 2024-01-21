@@ -1,0 +1,90 @@
+filename: Skull Castle v1.0 (1989)(TKO Software) [Action, Strategy].zip
+tdc_id: '1665.0'
+title:
+  screen: Skull Castle
+publisher: TKO Software
+year: '1989'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2022-11-09T14:47:32'
+  last_modified: '2022-11-09T14:47:32'
+version: '1.0'
+type: zip
+commands:
+  play: TKO.BAT
+files:
+- name: CHRSET.ZEF
+  size: 4144
+  date: '1980-01-01T00:05:08'
+  crc: '0xc95106b9'
+- name: DEATH-F.ZEF
+  size: 5989
+  date: '1980-01-01T04:55:26'
+  crc: '0xc2e13321'
+- name: DEATH.ZEF
+  size: 6548
+  date: '1980-01-01T04:54:46'
+  crc: '0x75362d79'
+- name: ESCAPE.ZEF
+  size: 10855
+  date: '1989-06-29T00:49:12'
+  crc: '0xd751b771'
+- name: HIGHSCR.ZEF
+  size: 2541
+  date: '1980-01-01T04:33:04'
+  crc: '0x90b97864'
+- name: INSTR.ZEF
+  size: 10831
+  date: '1980-01-01T03:28:50'
+  crc: '0xb578bc78'
+- name: INSTR2.ZEF
+  size: 9376
+  date: '1980-01-01T03:30:52'
+  crc: '0x32b49ec4'
+- name: INSTR3.ZEF
+  size: 11059
+  date: '1980-01-01T03:31:28'
+  crc: '0x15a68ff2'
+- name: INTRO.ZEF
+  size: 5962
+  date: '1980-01-01T03:30:18'
+  crc: '0x1ade2d96'
+- name: LEVELS.DAT
+  size: 13350
+  date: '1989-07-11T00:31:56'
+  crc: '0xc102a0bd'
+- name: PLR_SHP.ZEF
+  size: 854
+  date: '1989-05-30T01:20:26'
+  crc: '0xb6ade10b'
+- name: REVENGE.EXE
+  size: 63856
+  date: '1989-07-11T00:46:10'
+  crc: '0x71f00aee'
+- name: REVENGE.SCR
+  size: 292
+  date: '1992-06-04T13:38:30'
+  crc: '0xae4544d8'
+- name: SHV_IT.ZEF
+  size: 1030
+  date: '1989-06-29T01:18:10'
+  crc: '0xb5944f95'
+- name: SKULL.ZEF
+  size: 10758
+  date: '1989-06-29T01:37:50'
+  crc: '0x664c5945'
+- name: TKO.BAT
+  size: 67
+  date: '1989-12-06T14:29:18'
+  crc: '0x725136f9'
+- name: UP.ZEF
+  size: 2643
+  date: '1989-07-19T10:41:00'
+  crc: '0xdf9263ae'
+- name: VERSION
+  size: 75
+  date: '1989-08-29T13:35:00'
+  crc: '0xfa7f3ebd'

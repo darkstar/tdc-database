@@ -1,0 +1,62 @@
+filename: Chess v1.01 (1985)(Psion) [Strategy, Chess].zip
+tdc_id: '9254.0'
+title:
+  box: Chess
+publisher: Psion
+year: '1985'
+genre:
+- Strategy
+- Chess
+language: English
+date:
+  added: '2019-03-01T18:24:22'
+  last_modified: '2019-03-01T18:24:22'
+version: '1.01'
+type: zip
+commands:
+  play: CHESS.EXE
+files:
+- name: CHESS.EXE
+  size: 1744
+  date: '1980-01-02T04:52:32'
+  crc: '0x60a3ade3'
+- name: CHESS.HLP
+  size: 6561
+  date: '1985-10-30T00:00:00'
+  crc: '0xe08b851c'
+- name: CHESS1.OVL
+  size: 95744
+  date: '1986-08-27T10:19:34'
+  crc: '0x3b07d924'
+- name: CHESS2.OVL
+  size: 87552
+  date: '1986-08-27T10:31:40'
+  crc: '0x8a9258ca'
+- name: CHESS3.OVL
+  size: 9920
+  date: '1985-10-30T00:00:00'
+  crc: '0x1670ea92'
+- name: CHESS4.OVL
+  size: 15120
+  date: '1985-10-30T00:00:00'
+  crc: '0xe9f0121e'
+- name: CHESS5.OVL
+  size: 4320
+  date: '1985-10-30T00:00:00'
+  crc: '0xd0a80fe7'
+- name: CHESS6.OVL
+  size: 9600
+  date: '1985-10-30T00:00:00'
+  crc: '0x3a318801'
+- name: CHESS7.OVL
+  size: 7168
+  date: '1980-01-01T01:41:52'
+  crc: '0x280bf93d'
+- name: PSION.GRT
+  size: 8192
+  date: '1985-10-30T00:00:00'
+  crc: '0xb951361d'
+- name: QUT.CHS
+  size: 296
+  date: '1988-01-24T18:12:40'
+  crc: '0x0eb71e83'

@@ -1,0 +1,23 @@
+filename: Pacguy (1997)(John Hess) [Action].zip
+tdc_id: '10545.0'
+title:
+  screen: Pacguy
+publisher: John Hess
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:36:04'
+  last_modified: '2019-03-02T10:36:04'
+type: zip
+commands:
+  play: PACMAN.EXE
+files:
+- name: PACMAN.BAS
+  size: 66654
+  date: '1997-03-03T10:29:54'
+  crc: '0x286d10a0'
+- name: PACMAN.EXE
+  size: 111450
+  date: '1997-03-03T10:30:10'
+  crc: '0x3e21f87b'

@@ -1,0 +1,52 @@
+filename: Crusher v1.0 [SWR] (1991)(Soleau Software, Inc.) [Action, Strategy].zip
+tdc_id: '9397.1'
+title:
+  screen: Crusher
+publisher: Soleau Software, Inc.
+year: '1991'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:35:28'
+  last_modified: '2023-04-12T15:35:18'
+version: '1.0'
+type: zip
+tags:
+- SharewareRegistered
+media: Download
+commands:
+  play: Crusher.exe
+references:
+  dosid: DOS01577
+  exodos: Crusher (1991).zip
+files:
+- name: Crusher.dat
+  size: 5022
+  date: '1990-03-10T00:55:48'
+  crc: '0xad36ddfc'
+- name: Crusher.exe
+  size: 132352
+  date: '1993-05-11T16:19:48'
+  crc: '0xc76ac446'
+- name: Crusher.ov1
+  size: 37780
+  date: '1990-03-09T20:45:06'
+  crc: '0x980eb6e3'
+- name: Crusher.ov2
+  size: 31006
+  date: '1991-03-02T23:02:30'
+  crc: '0x8320c9fd'
+- name: Crusher.ov3
+  size: 40246
+  date: '1990-03-08T21:09:44'
+  crc: '0xa40a943f'
+- name: Crusher.ov4
+  size: 24157
+  date: '1990-03-09T10:09:52'
+  crc: '0x5744aa11'
+- name: Crusher.scr
+  size: 320
+  date: '1993-05-11T16:27:44'
+  crc: '0x7be7232f'

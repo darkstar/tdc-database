@@ -1,0 +1,71 @@
+filename: Paku Paku v1.4 (2011)(Jason M. Knight) [Action].zip
+tdc_id: '8482.5'
+title:
+  screen: Paku Paku
+publisher: Jason M. Knight
+year: '2011'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:57:50'
+  last_modified: '2019-03-02T10:57:50'
+version: '1.4'
+type: zip
+commands:
+  play: PAKU.EXE
+files:
+- name: FONTS.FNT
+  size: 1152
+  date: '2011-02-13T18:13:00'
+  crc: '0xe3f8a5d3'
+- name: MAP.DAT
+  size: 566
+  date: '2011-01-04T23:42:54'
+  crc: '0x5b5f73e6'
+- name: MAPTILES.DAT
+  size: 1152
+  date: '2011-01-11T07:04:00'
+  crc: '0x0930e950'
+- name: PAKU.EXE
+  size: 37168
+  date: '2011-03-05T15:01:32'
+  crc: '0xaaae84b8'
+- name: README.HTM
+  size: 17798
+  date: '2011-03-05T15:11:10'
+  crc: '0x413b687f'
+- name: SOURCE\
+  size: 0
+  date: '2011-02-14T07:57:58'
+- name: SOURCE\JFUNC.PAS
+  size: 5394
+  date: '2011-02-13T20:41:26'
+  crc: '0xbddc551c'
+- name: SOURCE\JOYSTICK.PAS
+  size: 1300
+  date: '2011-03-05T08:35:02'
+  crc: '0xb0a14261'
+- name: SOURCE\PAKU.PAS
+  size: 44811
+  date: '2011-03-05T15:01:12'
+  crc: '0x65777c16'
+- name: SOURCE\SOUND.PAS
+  size: 16369
+  date: '2011-02-10T23:10:42'
+  crc: '0x6d4ce3c1'
+- name: SOURCE\TIMER.PAS
+  size: 2298
+  date: '2011-02-05T00:25:10'
+  crc: '0x96f16b1f'
+- name: SOURCE\TXTGRAPH.PAS
+  size: 31398
+  date: '2011-02-18T20:35:30'
+  crc: '0x03e9aaba'
+- name: SPRITES.DAT
+  size: 6720
+  date: '2011-02-02T15:33:18'
+  crc: '0x9a0cf0f5'
+- name: TEXTS.TDT
+  size: 1658
+  date: '2011-02-13T19:45:52'
+  crc: '0x73b2dd66'

@@ -1,0 +1,92 @@
+filename: Championship Baseball (1986)(Activision, Inc.) [Sports].zip
+tdc_id: '8913.0'
+title:
+  box: Championship Baseball
+publisher: Activision, Inc.
+year: '1986'
+genre: Sports
+language: English
+date:
+  added: '2019-03-01T18:24:42'
+  last_modified: '2019-03-01T18:24:42'
+type: zip
+references:
+  dosid: DOS01330
+  exodos: Championship Baseball (1986).zip
+files:
+- name: ANIBKGND.DAT
+  size: 6636
+  date: '1986-11-10T16:42:16'
+  crc: '0x4753fa54'
+- name: BASEBALL.BAT
+  size: 91
+  date: '1986-11-20T17:47:40'
+  crc: '0xb9b683a7'
+- name: BATTER.DAT
+  size: 20582
+  date: '1986-09-05T17:20:58'
+  crc: '0x1fe6e939'
+- name: CHALK.CMP
+  size: 2776
+  date: '1986-10-13T14:10:04'
+  crc: '0x76c577b1'
+- name: EAGLES.BB
+  size: 256
+  date: '1986-10-22T11:50:54'
+  crc: '0xb913a079'
+- name: FIELD.CMP
+  size: 6902
+  date: '1986-11-02T17:14:36'
+  crc: '0x3e16b9ce'
+- name: INIT.EXE
+  size: 25488
+  date: '1986-12-05T12:45:48'
+  crc: '0xd952f0a2'
+- name: INTRO.CMP
+  size: 6523
+  date: '1986-11-21T18:39:46'
+  crc: '0x7fbd3049'
+- name: LPDBASE
+  size: 32
+  date: '1986-12-02T16:56:08'
+  crc: '0x329c1dd9'
+- name: MAINBASE.EXE
+  size: 136768
+  date: '1986-12-05T11:56:46'
+  crc: '0xd0f2dda9'
+- name: MAINBASE.EX_
+  size: 136768
+  date: '1986-12-05T11:56:46'
+  crc: '0x0a1b885a'
+- name: NOTEPAD.CMP
+  size: 2581
+  date: '1986-11-10T17:27:14'
+  crc: '0xb9353d70'
+- name: PAPER.CMP
+  size: 3010
+  date: '1986-10-16T18:02:56'
+  crc: '0xeafa7ade'
+- name: PITCH.DAT
+  size: 14362
+  date: '1986-11-10T16:46:38'
+  crc: '0xed7394b8'
+- name: PUMAS.BB
+  size: 256
+  date: '1986-10-22T11:46:50'
+  crc: '0xbc7dc9c4'
+- name: SCORE.CMP
+  size: 4200
+  date: '1986-11-04T16:45:16'
+  crc: '0x7a6fd66a'
+- name: SPRITES.BIN
+  size: 23184
+  date: '1986-11-03T12:32:40'
+  crc: '0xeed23c92'
+- name: STARTUP.EXE
+  size: 12351
+  date: '1987-01-26T10:35:44'
+  crc: '0xb70dc794'
+- name: XFER.FIL
+  size: 591
+  date: '1980-01-01T00:11:24'
+  crc: '0x774daf16'

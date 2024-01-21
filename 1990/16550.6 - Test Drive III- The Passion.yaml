@@ -1,0 +1,29 @@
+filename: Test Drive III- The Passion v2.0 (1990)(Accolade, Inc.) [IMA][360k][!].zip
+tdc_id: '16550.6'
+title:
+  box: 'Test Drive III: The Passion'
+publisher: Accolade, Inc.
+year: '1990'
+genre: IMA
+language: English
+date:
+  added: '2023-02-26T10:23:34'
+  last_modified: '2023-02-26T10:23:34'
+version: '2.0'
+type: IMA
+tags:
+- KnownGood
+media: 360K
+files:
+- name: boot.ima
+  size: 368640
+  date: '2022-08-26T17:05:26'
+  crc: '0xe2d02ea8'
+- name: master.ima
+  size: 368640
+  date: '2022-08-26T17:05:36'
+  crc: '0x88bca09e'
+- name: program.ima
+  size: 368640
+  date: '2022-08-26T17:05:46'
+  crc: '0x92f497f5'

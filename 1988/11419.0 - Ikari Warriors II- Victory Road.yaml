@@ -1,0 +1,28 @@
+filename: Ikari Warriors II- Victory Road [DC] (1988)(Data East Corporation) [Action].zip
+tdc_id: '11419.0'
+title:
+  box: 'Ikari Warriors II: Victory Road'
+publisher: Data East Corporation
+year: '1988'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:26:18'
+  last_modified: '2019-03-01T18:26:18'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: victory.com
+references:
+  dosid: DOS02698
+  exodos: Ikari Warriors II - Victory Road (1988).zip
+files:
+- name: GAME.DAT
+  size: 368640
+  date: '1998-03-02T15:29:24'
+  crc: '0x95d93f2c'
+- name: victory.com
+  size: 889
+  date: '2002-05-05T00:19:20'
+  crc: '0x4f248df4'

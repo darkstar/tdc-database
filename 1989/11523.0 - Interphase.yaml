@@ -1,0 +1,141 @@
+filename: Interphase (1989)(Image Works) [Action, Adventure].zip
+tdc_id: '11523.0'
+title:
+  box: Interphase
+publisher: Image Works
+year: '1989'
+genre:
+- Action
+- Adventure
+language: English
+date:
+  added: '2019-03-01T18:28:04'
+  last_modified: '2019-03-01T18:28:04'
+type: zip
+commands:
+  play: INTERPHS.EXE
+references:
+  dosid: DOS02193
+  exodos: Interphase (1989).zip
+files:
+- name: ALSAMPS.BIN
+  size: 61269
+  date: '1990-06-21T15:19:58'
+  crc: '0xf6545465'
+- name: CGA\
+  size: 0
+  date: '2001-11-15T08:01:04'
+- name: CGA\INTERPHS.LBM
+  size: 6368
+  date: '1990-06-13T17:34:16'
+  crc: '0x703305b9'
+- name: CGA\NEWBITS.LBM
+  size: 9304
+  date: '1990-08-13T17:31:04'
+  crc: '0x051650fb'
+- name: CGA\NEWCONSL.LBM
+  size: 6180
+  date: '1990-06-13T17:32:58'
+  crc: '0x8165e9cb'
+- name: EGA\
+  size: 0
+  date: '2001-11-15T08:01:06'
+- name: EGA\INTERPHS.LBM
+  size: 13008
+  date: '1990-05-31T00:26:48'
+  crc: '0x4dd3a91c'
+- name: EGA\NEWBITS.LBM
+  size: 16928
+  date: '1990-08-13T17:34:26'
+  crc: '0x29e6ab0d'
+- name: EGA\NEWCONSL.LBM
+  size: 11590
+  date: '1990-06-10T19:47:46'
+  crc: '0xd28c896d'
+- name: INTERPHS.CFG
+  size: 3
+  date: '2008-04-05T15:54:26'
+  crc: '0x92d90cab'
+- name: INTERPHS.EXE
+  size: 106293
+  date: '2001-11-15T08:01:38'
+  crc: '0x1378efb2'
+- name: KEYDATA
+  size: 34152
+  date: '1990-08-30T18:39:42'
+  crc: '0xaf0d0c56'
+- name: LEVEL01
+  size: 2222
+  date: '1985-11-20T00:03:20'
+  crc: '0x81c610e5'
+- name: LEVEL02
+  size: 2218
+  date: '1985-11-20T00:03:24'
+  crc: '0x91bb99e5'
+- name: LEVEL03
+  size: 1592
+  date: '1985-11-20T00:03:30'
+  crc: '0xca7ac6c4'
+- name: LEVEL04
+  size: 1772
+  date: '1985-11-20T00:03:36'
+  crc: '0x3a333789'
+- name: LEVEL05
+  size: 1288
+  date: '1985-11-20T00:04:18'
+  crc: '0x37dcb203'
+- name: LEVEL06
+  size: 1380
+  date: '1985-11-20T00:04:22'
+  crc: '0x406be64a'
+- name: LEVEL07
+  size: 1528
+  date: '1985-11-20T00:04:28'
+  crc: '0x96a4c878'
+- name: LEVEL08
+  size: 1424
+  date: '1985-11-20T00:04:32'
+  crc: '0xa11c0e1a'
+- name: LEVEL09
+  size: 1260
+  date: '1985-11-20T00:04:38'
+  crc: '0xa46db9aa'
+- name: LEVEL10
+  size: 1250
+  date: '1985-11-20T00:03:04'
+  crc: '0xe5cb7eff'
+- name: LEVEL11
+  size: 1372
+  date: '1985-11-20T00:03:10'
+  crc: '0x0d2f6754'
+- name: LEVEL12
+  size: 1578
+  date: '1985-11-20T00:03:14'
+  crc: '0xc9105064'
+- name: LOVELY.8X8
+  size: 768
+  date: '1985-11-20T00:04:42'
+  crc: '0xecfd6bcb'
+- name: VGA\
+  size: 0
+  date: '2001-11-15T08:01:06'
+- name: VGA\INTERPHS.LBM
+  size: 12944
+  date: '1990-06-12T17:04:42'
+  crc: '0x230f2296'
+- name: VGA\NEWBITS.LBM
+  size: 17616
+  date: '1990-08-21T19:22:02'
+  crc: '0xe95a09e9'
+- name: VGA\NEWCONSL.LBM
+  size: 11992
+  date: '1990-06-13T15:23:48'
+  crc: '0x980df240'
+- name: ZCSAMPS.BIN
+  size: 9289
+  date: '1990-06-21T15:30:36'
+  crc: '0xaa3998ef'
+- name: interphs.ex_
+  size: 106293
+  date: '1990-09-07T16:48:26'
+  crc: '0x69ed1c89'

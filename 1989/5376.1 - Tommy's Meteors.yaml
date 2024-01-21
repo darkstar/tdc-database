@@ -1,0 +1,33 @@
+filename: Tommy's Meteors [SW] (1989)(Tommy's Toys) [Action].zip
+tdc_id: '5376.1'
+title:
+  screen: Tommy's Meteors
+publisher: Tommy's Toys
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:25:00'
+  last_modified: '2019-03-01T18:25:00'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: METEORS.EXE
+references:
+  dosid: DOS05192
+  exodos: Tommy's Meteors (1986).zip
+files:
+- name: METEORS.DOC
+  size: 1199
+  date: '1996-12-24T23:32:00'
+  crc: '0x2c597c6e'
+- name: METEORS.EXE
+  size: 75634
+  date: '1996-12-24T23:32:00'
+  crc: '0xdc3a0b0b'
+- name: TOMMYS.DOC
+  size: 6603
+  date: '1996-12-24T23:32:00'
+  crc: '0x526e8de9'

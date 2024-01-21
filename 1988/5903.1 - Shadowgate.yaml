@@ -1,0 +1,66 @@
+filename: Shadowgate [a1] (1988)(Mindscape, Inc.) [Adventure].zip
+tdc_id: '5903.1'
+title:
+  box: Shadowgate
+publisher: Mindscape, Inc.
+year: '1988'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:26:44'
+  last_modified: '2019-03-01T18:26:44'
+type: zip
+tags:
+- Alternate: 1
+references:
+  dosid: DOS04502
+  exodos: Shadowgate (1987).zip
+files:
+- name: FILTERS.S
+  size: 43916
+  date: '1989-03-25T19:58:34'
+  crc: '0xcbffccc3'
+- name: FINISH.BAT
+  size: 126
+  date: '1989-03-25T19:58:38'
+  crc: '0xd8661300'
+- name: GRAPHICS.S
+  size: 340736
+  date: '1988-06-28T12:20:16'
+  crc: '0xa617db89'
+- name: INSTALL.EXE
+  size: 15936
+  date: '1989-03-25T19:58:42'
+  crc: '0xa5afe5c1'
+- name: NEWGAME.S
+  size: 8150
+  date: '1989-03-25T19:58:24'
+  crc: '0xef4c6c33'
+- name: OBJECTS.S
+  size: 5316
+  date: '1989-03-25T19:58:34'
+  crc: '0x9ab95242'
+- name: RESOURCE.S
+  size: 512
+  date: '1989-03-25T19:58:22'
+  crc: '0xea371689'
+- name: SETFIXED.BAT
+  size: 1017
+  date: '1989-03-25T19:58:40'
+  crc: '0x453ce74b'
+- name: SGATE.EXE
+  size: 91353
+  date: '1989-03-25T20:00:02'
+  crc: '0x4785958c'
+- name: SOUNDS.S
+  size: 31754
+  date: '1989-03-25T19:58:38'
+  crc: '0x2139913c'
+- name: TEXT.S
+  size: 84498
+  date: '1989-03-25T19:58:30'
+  crc: '0x4050e16f'
+- name: UNINSTAL.BAT
+  size: 308
+  date: '1989-03-25T19:58:40'
+  crc: '0xc8c0eb3c'

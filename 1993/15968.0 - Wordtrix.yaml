@@ -1,0 +1,31 @@
+filename: Wordtrix v1.5 (Installer) [SW] (1993)(Tea Time Software) [Action, Strategy, Educational].zip
+tdc_id: '15968.0'
+title:
+  screen: Wordtrix
+publisher: Tea Time Software
+year: '1993'
+genre:
+- Action
+- Strategy
+- Educational
+language: English
+date:
+  added: '2011-06-30T15:12:02'
+  last_modified: '2011-06-30T15:12:02'
+version: '1.5'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: WORDTX.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 434
+  date: '1993-12-05T13:02:16'
+  crc: '0xb746e112'
+- name: WORDTX.EXE
+  size: 267597
+  date: '1993-12-05T16:33:24'
+  crc: '0xd5d62fba'

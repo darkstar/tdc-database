@@ -1,0 +1,36 @@
+filename: Wizardry V- Heart of the Maelstrom [DC] (1988)(Sir-tech Software, Inc.) [Role-Playing (RPG)].zip
+tdc_id: '7600.0'
+title:
+  box: 'Wizardry V: Heart of the Maelstrom'
+publisher: Sir-tech Software, Inc.
+year: '1988'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:27:02'
+  last_modified: '2019-03-01T18:27:02'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: WIZ5.COM
+references:
+  dosid: DOS06009
+  exodos: Wizardry V - Heart of the Maelstrom (1988).zip
+files:
+- name: SAVE5.DSK
+  size: 655360
+  date: '1998-09-09T09:47:26'
+  crc: '0x943749e2'
+- name: WIZ5.COM
+  size: 14742
+  date: '1998-09-01T10:03:00'
+  crc: '0xaeca3ecc'
+- name: WIZ5.DSK
+  size: 655360
+  date: '1998-07-09T09:18:56'
+  crc: '0x6938d8e1'
+- name: wizardry_5_codes.txt
+  size: 37585
+  date: '1996-12-24T23:32:00'
+  crc: '0x712c6c3b'

@@ -1,0 +1,125 @@
+filename: Tom Clancy's The Cardinal of the Kremlin (demo) (1990)(Capstone Software) [Simulation, Strategy].zip
+tdc_id: '12025.1'
+title:
+  screen: Tom Clancy's The Cardinal of the Kremlin
+  qualifier: demo
+publisher: Capstone Software
+year: '1990'
+genre:
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:32:00'
+  last_modified: '2022-10-18T15:20:00'
+type: zip
+demo: true
+commands:
+  play: COK.BAT
+references:
+  mobygames: https://www.mobygames.com/game/dos/tom-clancys-the-cardinal-of-the-kremlin
+files:
+- name: AAPLAY.EXE
+  size: 81904
+  date: '1989-08-15T10:03:10'
+  crc: '0x59150458'
+- name: CK.EXE
+  size: 185417
+  date: '1990-11-13T18:06:50'
+  crc: '0xfce5b443'
+- name: COK.ADL
+  size: 2186
+  date: '1990-04-14T10:15:36'
+  crc: '0x38bb76a9'
+- name: COK.BAT
+  size: 91
+  date: '1990-11-13T17:51:28'
+  crc: '0xc486da02'
+- name: COKDEMO
+  size: 78
+  date: '1990-11-20T14:45:28'
+  crc: '0xb2b699fc'
+- name: COKSND.PC
+  size: 4969
+  date: '1990-09-06T21:37:12'
+  crc: '0x3b95d06f'
+- name: DEMO.BAT
+  size: 79
+  date: '1990-11-20T13:26:28'
+  crc: '0x552290df'
+- name: DEMO1.GIF
+  size: 7754
+  date: '1990-11-20T12:35:34'
+  crc: '0x92d4c399'
+- name: DEMO2.GIF
+  size: 13238
+  date: '1990-11-20T14:41:38'
+  crc: '0xed4a9a47'
+- name: DEMO3.GIF
+  size: 7459
+  date: '1990-11-20T14:40:52'
+  crc: '0xfede81df'
+- name: DEMO4.GIF
+  size: 14561
+  date: '1990-11-20T14:42:50'
+  crc: '0x6c674796'
+- name: DEMO5.GIF
+  size: 8738
+  date: '1990-11-20T14:44:36'
+  crc: '0xabe25c0c'
+- name: DEMO6.GIF
+  size: 4735
+  date: '1990-11-20T13:13:42'
+  crc: '0x60d5e691'
+- name: DEMO7.GIF
+  size: 5199
+  date: '1990-11-20T14:28:56'
+  crc: '0x348c05fd'
+- name: INTRO.TND
+  size: 7782
+  date: '1990-09-25T21:08:36'
+  crc: '0xfc65f205'
+- name: INTRO.VGA
+  size: 15328
+  date: '1990-09-25T21:08:38'
+  crc: '0xeb8a55f2'
+- name: KEY.COM
+  size: 10734
+  date: '1990-11-13T17:48:20'
+  crc: '0x8c903ee0'
+- name: LARGE.CSF
+  size: 3520
+  date: '1989-12-07T12:38:10'
+  crc: '0xb1d68f74'
+- name: MEDIUM.CSF
+  size: 1540
+  date: '1990-01-10T01:54:58'
+  crc: '0x7b8647d9'
+- name: OMINOUS.SND
+  size: 83
+  date: '1990-08-09T20:37:54'
+  crc: '0x5d9edfb8'
+- name: OPEN.SND
+  size: 1052
+  date: '1990-08-11T09:48:44'
+  crc: '0x1ef261c4'
+- name: OPENVGA.PCX
+  size: 13522
+  date: '1990-04-11T19:34:36'
+  crc: '0x17ed8a2d'
+- name: SONG.OUT
+  size: 16736
+  date: '1990-02-12T19:59:58'
+  crc: '0x154bfc75'
+- name: SOUND.COM
+  size: 13280
+  date: '1980-01-04T07:58:38'
+  crc: '0xa70d71dd'
+- name: TINY.CSF
+  size: 1046
+  date: '1990-01-10T01:06:00'
+  crc: '0x2e4814b5'
+- name: VGAOPEN
+  size: 5931
+  date: '1990-05-09T14:52:08'
+  crc: '0x609cfd87'

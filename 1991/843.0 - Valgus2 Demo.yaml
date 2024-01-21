@@ -1,0 +1,33 @@
+filename: Valgus2 Demo [SW] (1991)(James R Glenn) [Strategy, Action].zip
+tdc_id: '843.0'
+title:
+  screen: Valgus2 Demo
+publisher: James R Glenn
+year: '1991'
+genre:
+- Strategy
+- Action
+language: English
+date:
+  added: '2019-03-01T18:39:58'
+  last_modified: '2019-03-01T18:39:58'
+type: zip
+tags:
+- Shareware
+media: Download
+demo: true
+commands:
+  play: VSQDEMO.EXE
+files:
+- name: SCORES.VSQ
+  size: 475
+  date: '2011-06-05T20:10:50'
+  crc: '0x796c055b'
+- name: VSQDEMO.EXE
+  size: 65676
+  date: '1991-06-28T11:18:54'
+  crc: '0xd5389dcf'
+- name: VSQPC.DOC
+  size: 5386
+  date: '1991-06-29T01:49:18'
+  crc: '0x96760711'

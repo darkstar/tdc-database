@@ -1,0 +1,72 @@
+filename: Action Soccer (Installer) (1995)(Ubi Soft Entertainment Software) [Sports].zip
+tdc_id: '8053.1'
+title:
+  box: Action Soccer
+publisher: Ubi Soft Entertainment Software
+year: '1995'
+genre: Sports
+language: English
+date:
+  added: '2019-03-02T07:28:04'
+  last_modified: '2019-03-02T07:28:04'
+type: zip
+installer: true
+commands:
+  play: INSTALL.BAT
+references:
+  mobygames: https://www.mobygames.com/game/dos/action-soccer
+files:
+- name: DISK1
+  size: 0
+  date: '1995-02-26T23:37:38'
+- name: DISK2
+  size: 0
+  date: '1995-02-26T23:37:38'
+- name: DISK3
+  size: 0
+  date: '1995-02-26T23:37:38'
+- name: DISK4
+  size: 0
+  date: '1995-02-26T23:37:38'
+- name: DISK5
+  size: 0
+  date: '1995-02-26T23:37:38'
+- name: DISK6
+  size: 0
+  date: '1995-02-26T23:37:38'
+- name: INSTALL.BAT
+  size: 3288
+  date: '1995-02-28T11:45:52'
+  crc: '0xb2040295'
+- name: INSTALL.DAT
+  size: 3251
+  date: '1995-02-28T11:45:04'
+  crc: '0xcc9627db'
+- name: SOCCER.001
+  size: 1160192
+  date: '1995-02-26T17:11:54'
+  crc: '0xc09da4d9'
+- name: SOCCER.002
+  size: 1457664
+  date: '1995-02-26T17:13:10'
+  crc: '0xecbcbd00'
+- name: SOCCER.003
+  size: 1457664
+  date: '1995-02-26T17:31:20'
+  crc: '0x9bf6b4f8'
+- name: SOCCER.004
+  size: 1457664
+  date: '1995-02-26T17:32:46'
+  crc: '0x0fed70b3'
+- name: SOCCER.005
+  size: 1457664
+  date: '1995-02-26T17:34:08'
+  crc: '0xd8295ff1'
+- name: SOCCER.006
+  size: 1457415
+  date: '1995-02-26T17:35:26'
+  crc: '0xa324d970'
+- name: UNPACK.EXE
+  size: 28494
+  date: '1995-02-28T23:17:12'
+  crc: '0x31af6cea'

@@ -1,0 +1,81 @@
+filename: Fisherman (1985)(RTS Outreach) [Educational, Trivia].zip
+tdc_id: '993.0'
+title:
+  screen: Fisherman
+publisher: RTS Outreach
+year: '1985'
+genre:
+- Educational
+- Trivia
+language: English
+date:
+  added: '2022-10-17T18:18:25'
+  last_modified: '2022-10-17T18:18:25'
+type: zip
+commands:
+  play: FISH.EXE
+files:
+- name: FISH.BAT
+  size: 176
+  date: '1985-12-06T06:08:20'
+  crc: '0x267a43c5'
+- name: FISH.EXE
+  size: 62208
+  date: '1985-12-28T13:28:46'
+  crc: '0x89a2d37a'
+- name: FISH01.GIF
+  size: 4734
+  date: '1994-11-11T18:13:48'
+  crc: '0x6302f90c'
+- name: FISHBACK.BAT
+  size: 5376
+  date: '1985-12-06T06:15:00'
+  crc: '0xd1f5be3a'
+- name: FISHBON.DAT
+  size: 2176
+  date: '1985-11-10T18:46:20'
+  crc: '0xbc917dbe'
+- name: FISHGEN.DAT
+  size: 69888
+  date: '1986-01-24T06:44:14'
+  crc: '0x5a04c698'
+- name: FISHHS.DAT
+  size: 90
+  date: '1994-07-06T04:37:12'
+  crc: '0xea8a6996'
+- name: FISHINTR.DAT
+  size: 16392
+  date: '1985-10-25T21:32:52'
+  crc: '0x80b14ae1'
+- name: FISHNEW.BAT
+  size: 15
+  date: '1985-12-06T05:05:56'
+  crc: '0xc4be05a5'
+- name: FISHPEO.DAT
+  size: 53400
+  date: '1986-01-24T06:52:40'
+  crc: '0x160f7846'
+- name: FISHPLA.DAT
+  size: 19456
+  date: '1986-01-24T06:58:30'
+  crc: '0x2560301a'
+- name: FISHPRO.DAT
+  size: 16512
+  date: '1986-01-24T06:55:22'
+  crc: '0x336f5a8b'
+- name: FISHPTR.DAT
+  size: 32
+  date: '1994-07-06T04:37:12'
+  crc: '0x7e21fcf8'
+- name: FISHQUOT.DAT
+  size: 16392
+  date: '1985-11-07T19:59:50'
+  crc: '0xe0683032'
+- name: FISHRTS.DAT
+  size: 16392
+  date: '1985-11-11T18:23:24'
+  crc: '0x5cd6473a'
+- name: LOOP.SIG
+  size: 342
+  date: '1994-07-21T05:00:00'
+  crc: '0x044a9931'

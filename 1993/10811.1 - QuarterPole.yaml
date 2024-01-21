@@ -1,0 +1,53 @@
+filename: QuarterPole v1.00 (Installer) [h1] (1993)(Microleague Interactive Software) [Racing - Driving, Simulation, Sports].zip
+tdc_id: '10811.1'
+title:
+  box: QuarterPole
+  qualifier: Installer
+publisher: Microleague Interactive Software
+year: '1993'
+genre:
+- Racing - Driving
+- Simulation
+- Sports
+language: English
+date:
+  added: '2019-03-01T19:16:52'
+  last_modified: '2023-09-03T20:48:15'
+version: '1.00'
+type: zip
+tags:
+- Hack: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/37188/quarterpole/
+files:
+- name: DISK.ID
+  size: 28
+  date: '1993-10-04T18:21:02'
+  crc: '0x19f06c25'
+- name: INSTALL.DAT
+  size: 44408
+  date: '1993-10-14T09:49:32'
+  crc: '0x8e2e1ff6'
+- name: INSTALL.EXE
+  size: 90304
+  date: '1993-10-04T18:20:50'
+  crc: '0x929e6b84'
+- name: QPOLE.001
+  size: 1119100
+  date: '1993-10-04T18:26:04'
+  crc: '0x28059cd3'
+- name: QPOLE.002
+  size: 1126602
+  date: '1993-10-04T18:32:32'
+  crc: '0xd9fc96d6'
+- name: QPOLE.003
+  size: 859499
+  date: '1993-10-04T18:37:32'
+  crc: '0xc0ff6e78'
+- name: SOUND.001
+  size: 159061
+  date: '1993-10-04T18:20:56'
+  crc: '0x18f65392'

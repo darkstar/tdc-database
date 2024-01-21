@@ -1,0 +1,27 @@
+filename: Witch Hunt [f1] (1987)(Classic Quests) [Adventure, Interactive Fiction].zip
+tdc_id: '7581.0'
+title:
+  screen: Witch Hunt
+publisher: Classic Quests
+year: '1987'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2021-09-13T09:46:28'
+  last_modified: '2021-09-13T09:46:28'
+type: zip
+tags:
+- Fixed: 1
+commands:
+  play: cq.exe
+files:
+- name: cq.ex_
+  size: 45352
+  date: '1987-07-21T20:33:08'
+  crc: '0x826f4f5f'
+- name: cq.exe
+  size: 45352
+  date: '1987-07-21T20:33:08'
+  crc: '0xb7e74d7c'

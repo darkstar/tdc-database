@@ -1,0 +1,35 @@
+filename: Trivial Trek v1.2 (1986)(Rugsoft Inc.) [Strategy, Trivia].zip
+tdc_id: '1322.0'
+title:
+  screen: Trivial Trek
+publisher: Rugsoft Inc.
+year: '1986'
+genre:
+- Strategy
+- Trivia
+language: English
+date:
+  added: '2019-03-01T18:25:02'
+  last_modified: '2019-03-01T18:25:02'
+version: '1.2'
+type: zip
+references:
+  dosid: DOS07200
+  exodos: Trivial Trek (1986).zip
+files:
+- name: EXECUTE .BAT
+  size: 25
+  date: '1980-01-01T00:02:46'
+  crc: '0x7994aa07'
+- name: TRIVTREK.COM
+  size: 34751
+  date: '1986-11-09T21:48:16'
+  crc: '0xaafb0b12'
+- name: TRIVTREK.DOC
+  size: 3012
+  date: '1986-11-09T21:36:02'
+  crc: '0x74ac43f6'
+- name: TRIVTREK.ENC
+  size: 59962
+  date: '1986-11-09T21:33:06'
+  crc: '0x8edde582'

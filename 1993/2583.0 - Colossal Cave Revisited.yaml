@@ -1,0 +1,116 @@
+filename: Colossal Cave Revisited (1993)(Adventions) [Adventure, Interactive Fiction].zip
+tdc_id: '2583.0'
+title:
+  screen: Colossal Cave Revisited
+publisher: Adventions
+year: '1993'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T19:01:56'
+  last_modified: '2019-03-01T19:01:56'
+type: zip
+commands:
+  play: CCR.EXE
+files:
+- name: CATALOG
+  size: 8111
+  date: '1993-07-10T11:06:56'
+  crc: '0xf7891969'
+- name: CCR.EXE
+  size: 233213
+  date: '1993-07-10T11:07:56'
+  crc: '0x8f03d195'
+- name: CONTACT.US
+  size: 394
+  date: '1993-07-10T11:06:58'
+  crc: '0xedd6c9b4'
+- name: COPYING.DOC
+  size: 17982
+  date: '1993-07-10T11:07:22'
+  crc: '0x82734a69'
+- name: GENERAL.DOC
+  size: 17371
+  date: '1993-07-10T11:06:58'
+  crc: '0xc75b18be'
+- name: ORDER.FRM
+  size: 1071
+  date: '1993-07-10T11:06:58'
+  crc: '0x08ad3598'
+- name: README
+  size: 8026
+  date: '1993-07-10T11:02:06'
+  crc: '0x0ca3a11c'
+- name: README.1ST
+  size: 2525
+  date: '1993-07-10T11:06:30'
+  crc: '0x0a9a2eef'
+- name: README.UNI
+  size: 286
+  date: '1993-07-10T11:06:58'
+  crc: '0x70e98ad9'
+- name: SRC\
+  size: 0
+  date: '2012-07-29T19:22:40'
+- name: SRC\CCR-ADV.T
+  size: 103122
+  date: '1993-07-10T11:00:18'
+  crc: '0x3985f325'
+- name: SRC\CCR-ITEM.T
+  size: 26875
+  date: '1993-07-10T11:00:18'
+  crc: '0xd4c1d64e'
+- name: SRC\CCR-NPC.T
+  size: 25988
+  date: '1993-07-10T11:00:18'
+  crc: '0x17948b55'
+- name: SRC\CCR-ROOM.T
+  size: 114592
+  date: '1993-07-10T11:00:20'
+  crc: '0x31cf3e23'
+- name: SRC\CCR-STD.T
+  size: 18170
+  date: '1993-07-10T11:00:20'
+  crc: '0x98d708af'
+- name: SRC\CCR-VERB.T
+  size: 17740
+  date: '1993-07-10T11:00:20'
+  crc: '0x88ad1228'
+- name: SRC\CCR.GAM
+  size: 165236
+  date: '1993-07-10T11:07:48'
+  crc: '0xff5ef6ce'
+- name: SRC\CCR.T
+  size: 2419
+  date: '1993-07-10T11:00:20'
+  crc: '0xea4ba557'
+- name: SRC\CLOSE.T
+  size: 5171
+  date: '1993-07-10T11:00:20'
+  crc: '0xbbb8a392'
+- name: SRC\FORMAT.T
+  size: 183
+  date: '1993-07-10T11:00:20'
+  crc: '0xc9c8d362'
+- name: SRC\HELP.T
+  size: 4545
+  date: '1993-07-10T11:00:20'
+  crc: '0x5d4d3895'
+- name: SRC\HISTORY.T
+  size: 1403
+  date: '1993-07-10T11:00:20'
+  crc: '0x89facf83'
+- name: SRC\MAKEFILE
+  size: 1041
+  date: '1993-07-10T11:05:28'
+  crc: '0x673f27f4'
+- name: SRC\PREPARSE.T
+  size: 140
+  date: '1993-07-10T11:00:20'
+  crc: '0x4256d6c5'
+- name: SRC\THINGEXT.T
+  size: 2886
+  date: '1993-07-10T11:00:20'
+  crc: '0xee8ab4bd'

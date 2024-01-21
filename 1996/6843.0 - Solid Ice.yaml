@@ -1,0 +1,181 @@
+filename: Solid Ice v1.04 (Installer) [f1] (1996)(Empire Interactive, Inc.) [Sports].zip
+tdc_id: '6843.0'
+title:
+  box: Solid Ice
+publisher: Empire Interactive, Inc.
+year: '1996'
+genre: Sports
+language: English
+date:
+  added: '2020-10-01T16:43:24'
+  last_modified: '2020-10-01T16:43:24'
+version: '1.04'
+type: zip
+tags:
+- Fixed: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  dosid: DOS07499
+  exodos: Solid Ice (1996).zip
+files:
+- name: ICE\
+  size: 0
+  date: '1996-09-24T17:31:20'
+- name: ICE\ADLIB.ADV
+  size: 14775
+  date: '1994-12-30T11:03:36'
+  crc: '0x865e52d2'
+- name: ICE\ADLIBG.ADV
+  size: 16257
+  date: '1994-12-30T11:03:36'
+  crc: '0xaacc891f'
+- name: ICE\ALGDIG.ADV
+  size: 5770
+  date: '1994-12-30T11:03:36'
+  crc: '0xa7ecbb4b'
+- name: ICE\CONFIG.EXE
+  size: 33915
+  date: '1993-04-01T17:31:38'
+  crc: '0x447097d4'
+- name: ICE\DEFLG000.BIN
+  size: 60220
+  date: '1996-09-24T16:48:08'
+  crc: '0xe3938cec'
+- name: ICE\DEFLG001.BIN
+  size: 60220
+  date: '1996-09-24T17:33:58'
+  crc: '0xbc69d287'
+- name: ICE\E2E.DCR
+  size: 123415
+  date: '1996-07-08T14:33:58'
+  crc: '0x7ef6b45e'
+- name: ICE\E2E.DOB
+  size: 4002
+  date: '1996-07-08T14:34:16'
+  crc: '0xa6f36ccf'
+- name: ICE\E2E.EXE
+  size: 818616
+  date: '1996-09-24T16:58:32'
+  crc: '0xdf7c3f20'
+- name: ICE\E2E.SFL
+  size: 12514089
+  date: '1996-09-03T19:23:32'
+  crc: '0x613eede9'
+- name: ICE\GMOPT000.BIN
+  size: 16
+  date: '1996-09-06T10:56:46'
+  crc: '0xdf330072'
+- name: ICE\GMOPT001.BIN
+  size: 16
+  date: '1996-09-06T10:56:44'
+  crc: '0xdf330072'
+- name: ICE\HRDCONF.BIN
+  size: 8
+  date: '1996-09-06T10:56:46'
+  crc: '0x1d11d86e'
+- name: ICE\IBMSND.COM
+  size: 2720
+  date: '1992-05-21T06:47:54'
+  crc: '0xafd5b296'
+- name: ICE\ICE.BIN
+  size: 4
+  date: '1996-09-06T11:04:26'
+  crc: '0x2144df1c'
+- name: ICE\ICE.DCR
+  size: 4174
+  date: '1996-08-06T13:55:28'
+  crc: '0x52c431c3'
+- name: ICE\ICE.DOB
+  size: 4002
+  date: '1996-08-06T13:55:30'
+  crc: '0xd7ef293f'
+- name: ICE\ICE.EXE
+  size: 298752
+  date: '1996-09-24T15:11:46'
+  crc: '0xef7d4ea6'
+- name: ICE\ICE.SFL
+  size: 9066699
+  date: '1996-09-05T15:40:48'
+  crc: '0xa4201cbc'
+- name: ICE\KBDCONF.BIN
+  size: 178
+  date: '1996-09-06T10:56:46'
+  crc: '0x2ccb8b6b'
+- name: ICE\MT32MPU.ADV
+  size: 10625
+  date: '1994-12-30T11:03:36'
+  crc: '0xe1cf40e1'
+- name: ICE\PASDIG.ADV
+  size: 3362
+  date: '1996-03-05T09:32:18'
+  crc: '0xc49a2665'
+- name: ICE\PASFM.ADV
+  size: 15225
+  date: '1996-01-27T12:32:20'
+  crc: '0x2d60e018'
+- name: ICE\PASOPL.ADV
+  size: 16316
+  date: '1996-01-27T12:32:42'
+  crc: '0x2ca91f78'
+- name: ICE\PCSPKR.ADV
+  size: 8447
+  date: '1996-01-27T12:33:36'
+  crc: '0x7fa76382'
+- name: ICE\README.1ST
+  size: 6923
+  date: '1996-09-24T17:56:10'
+  crc: '0xe0c719f1'
+- name: ICE\SBDIG.ADV
+  size: 3486
+  date: '1996-03-05T09:32:20'
+  crc: '0xa0322c65'
+- name: ICE\SBFM.ADV
+  size: 14808
+  date: '1996-01-27T12:31:20'
+  crc: '0x606a9e25'
+- name: ICE\SBP1FM.ADV
+  size: 15218
+  date: '1996-01-27T12:31:40'
+  crc: '0x03f091f2'
+- name: ICE\SBP2FM.ADV
+  size: 16340
+  date: '1996-01-27T12:32:00'
+  crc: '0xc7cf447a'
+- name: ICE\SBPDIG.ADV
+  size: 3764
+  date: '1996-02-21T10:01:54'
+  crc: '0x5218d84f'
+- name: ICE\SOUND.BIN
+  size: 2
+  date: '1996-09-06T10:03:24'
+  crc: '0x41d912ff'
+- name: ICE\TNOPT000.BIN
+  size: 16
+  date: '1996-09-06T10:57:52'
+  crc: '0x79440bc6'
+- name: ICE\TNOPT001.BIN
+  size: 16
+  date: '1996-09-24T17:21:52'
+  crc: '0x79440bc6'
+- name: ICE\USRLG000.BIN
+  size: 60220
+  date: '1996-09-24T16:48:08'
+  crc: '0xe3938cec'
+- name: ICE\USRLG001.BIN
+  size: 60220
+  date: '1996-09-06T10:56:44'
+  crc: '0x74cddbcd'
+- name: INS.SFL
+  size: 316867
+  date: '1996-08-23T11:46:02'
+  crc: '0xc6521ef6'
+- name: INSTALL.EXE
+  size: 230313
+  date: '1996-09-06T12:40:08'
+  crc: '0x9fb294ef'
+- name: TRE.DAT
+  size: 557
+  date: '1996-09-24T17:59:56'
+  crc: '0x85e25517'

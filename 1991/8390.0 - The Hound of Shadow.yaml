@@ -1,0 +1,76 @@
+filename: Hound of Shadow, The (Installer) [f1] (1991)(Electronic Arts, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '8390.0'
+title:
+  box: The Hound of Shadow
+publisher: Electronic Arts, Inc.
+year: '1991'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2020-06-11T20:00:18'
+  last_modified: '2020-06-11T20:00:18'
+type: zip
+tags:
+- Fixed: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: CGA0.HUF
+  size: 13410
+  date: '1991-02-25T09:58:44'
+  crc: '0x813e3f39'
+- name: CGAPICS.HUF
+  size: 265713
+  date: '1991-02-25T10:03:14'
+  crc: '0x7a8d1f09'
+- name: CHAR.HUF
+  size: 883
+  date: '1991-02-27T15:09:32'
+  crc: '0xb90d8678'
+- name: DISKA.HUF
+  size: 145086
+  date: '1991-02-27T12:34:42'
+  crc: '0x43910385'
+- name: DISKB.HUF
+  size: 112706
+  date: '1991-02-28T13:49:06'
+  crc: '0x15b906be'
+- name: DISKC.HUF
+  size: 65025
+  date: '1991-02-27T12:26:56'
+  crc: '0x81981c69'
+- name: EGAPICS1.HUF
+  size: 251024
+  date: '1991-02-25T15:30:36'
+  crc: '0xb7748126'
+- name: EGAPICS2.HUF
+  size: 196248
+  date: '1991-02-25T15:33:10'
+  crc: '0xcf24a3e9'
+- name: INSTALL.EXE
+  size: 14157
+  date: '1991-03-07T16:35:58'
+  crc: '0x80f9cfe3'
+- name: INSTALL.EX_
+  size: 14157
+  date: '1991-03-07T16:35:58'
+  crc: '0xcd98dadd'
+- name: INSTALL_.__1
+  size: 0
+  date: '1991-04-30T22:03:36'
+- name: INSTALL_.__2
+  size: 0
+  date: '1991-04-30T22:03:58'
+- name: INSTALL_.__3
+  size: 0
+  date: '1991-04-30T22:04:20'
+- name: INSTALL_.__4
+  size: 0
+  date: '1991-04-30T22:04:44'
+- name: TIT.HUF
+  size: 29103
+  date: '1991-02-25T09:58:26'
+  crc: '0x8333e209'

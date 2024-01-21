@@ -1,0 +1,85 @@
+filename: Touché- Die Abenteuer des fünften Musketiers (demo) (De) [f1] (1995)(U.S. Gold Ltd.) [Adventure].zip
+tdc_id: '16824.8'
+title:
+  screen: 'Touché: Die Abenteuer des fünften Musketiers'
+  qualifier: demo
+publisher: U.S. Gold Ltd.
+year: '1995'
+genre: Adventure
+language: German
+date:
+  added: '2022-12-22T07:27:34'
+  last_modified: '2022-12-22T07:48:44'
+type: zip
+tags:
+- Fixed: 1
+demo: true
+commands:
+  play: TOUCHE.EXE
+  setup: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/touch-the-adventures-of-the-fifth-musketeer
+files:
+- name: DATABASE\
+  size: 0
+  date: '2022-12-22T08:16:20'
+- name: DATABASE\TOUCHE.DAT
+  size: 8747264
+  date: '1995-12-06T12:04:28'
+  crc: '0xb9452ec4'
+- name: DMA.CFG
+  size: 13
+  date: '2022-12-22T08:20:44'
+  crc: '0x7a498587'
+- name: DOS4GW.EXE
+  size: 265420
+  date: '1994-09-01T12:45:00'
+  crc: '0xcb214447'
+- name: INSTALL.EXE
+  size: 21744
+  date: '1995-11-28T13:38:54'
+  crc: '0x562af3f7'
+- name: OBJ
+  size: 5503572
+  date: '1995-10-25T19:17:58'
+  crc: '0x7115ceff'
+- name: TOUCHE.EXE
+  size: 155159
+  date: '1995-12-05T14:28:34'
+  crc: '0xcda47aa5'
+- name: TOUCHE.EX_
+  size: 155159
+  date: '1995-12-05T14:28:34'
+  crc: '0x4d3cfe67'
+- name: V100
+  size: 3323615
+  date: '1995-10-23T13:53:38'
+  crc: '0x4a5e91e0'
+- name: V101
+  size: 1150028
+  date: '1995-10-19T12:25:24'
+  crc: '0x3edc4088'
+- name: V103
+  size: 1921556
+  date: '1995-09-28T19:28:46'
+  crc: '0x9bc63747'
+- name: V26
+  size: 640546
+  date: '1995-10-18T16:21:04'
+  crc: '0xe8dea7aa'
+- name: V91
+  size: 19402537
+  date: '1995-10-18T14:26:14'
+  crc: '0xcbaee1c1'
+- name: V93
+  size: 19811503
+  date: '1995-10-25T14:52:04'
+  crc: '0xb20f646a'
+- name: V97
+  size: 6043107
+  date: '1995-10-23T14:09:02'
+  crc: '0x71c1989a'
+- name: V98
+  size: 7621175
+  date: '1995-10-30T16:19:22'
+  crc: '0x2413626f'

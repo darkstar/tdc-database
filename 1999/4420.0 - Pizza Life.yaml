@@ -1,0 +1,32 @@
+filename: Pizza Life (1999)(Thomas Malits) [Simulation].zip
+tdc_id: '4420.0'
+title:
+  screen: Pizza Life
+publisher: Thomas Malits
+year: '1999'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-02T10:46:20'
+  last_modified: '2019-03-02T10:46:20'
+type: zip
+media: Download
+commands:
+  play: Pizza.bat
+files:
+- name: Pizza.bas
+  size: 64996
+  date: '2000-10-08T14:19:24'
+  crc: '0xc080ba57'
+- name: Pizza.bat
+  size: 284
+  date: '2000-10-08T14:05:40'
+  crc: '0xc22b7f7d'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1995-07-11T10:50:00'
+  crc: '0x3152911c'
+- name: Readme.txt
+  size: 531
+  date: '2000-10-08T14:06:30'
+  crc: '0xf98034cf'

@@ -1,0 +1,28 @@
+filename: Q'Cracker (1998)(Andronicus H.G. Williams) [Strategy].zip
+tdc_id: '4215.0'
+title:
+  screen: Q'Cracker
+publisher: Andronicus H.G. Williams
+year: '1998'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:44:18'
+  last_modified: '2019-03-02T10:44:18'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 28
+  date: '2018-12-06T21:52:08'
+  crc: '0x4c1682ef'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: QCRACKER.BAS
+  size: 59834
+  date: '2018-11-22T19:56:40'
+  crc: '0x1399cacc'

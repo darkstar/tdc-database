@@ -1,0 +1,29 @@
+filename: Vampire Adventure (1983)(G. Hollenbeck) [Adventure, Interactive Fiction].zip
+tdc_id: '1092.0'
+title:
+  screen: Vampire Adventure
+publisher: G. Hollenbeck
+year: '1983'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:23:22'
+  last_modified: '2019-03-01T18:23:22'
+type: zip
+commands:
+  play: VAMPIRE.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: VAMPIRE.BAS
+  size: 6144
+  date: '1983-02-26T00:42:00'
+  crc: '0xc571b58f'
+- name: VAMPIRE.BAT
+  size: 18
+  date: '2014-12-18T18:01:22'
+  crc: '0x4c0277ec'

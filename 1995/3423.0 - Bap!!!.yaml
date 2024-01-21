@@ -1,0 +1,36 @@
+filename: Bap!!! v1.22 (1995)(Masayoshi Ueda) [Action].zip
+tdc_id: '3423.0'
+title:
+  screen: Bap!!!
+publisher: Masayoshi Ueda
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2015-01-26T19:23:30'
+  last_modified: '2015-01-26T19:23:30'
+version: '1.22'
+type: zip
+media: Download
+commands:
+  play: BAP.EXE
+references:
+  dosid: DOS00939
+  exodos: Bap!!! (1995).zip
+files:
+- name: BAP.DOC
+  size: 3553
+  date: '1995-07-03T17:35:20'
+  crc: '0xc12ee80c'
+- name: BAP.EXE
+  size: 72896
+  date: '1995-07-03T17:38:12'
+  crc: '0xab811f05'
+- name: EGAVGA.BGI
+  size: 5527
+  date: '1992-10-30T07:00:00'
+  crc: '0xa33014d5'
+- name: FILE_ID.DIZ
+  size: 206
+  date: '1987-07-17T07:27:36'
+  crc: '0x3703b2b3'

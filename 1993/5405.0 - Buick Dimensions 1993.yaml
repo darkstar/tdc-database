@@ -1,0 +1,32 @@
+filename: Buick Dimensions 1993 (1993)(General Motors Corporation) [Simulation, Trivia].zip
+tdc_id: '5405.0'
+title:
+  box: Buick Dimensions 1993
+publisher: General Motors Corporation
+year: '1993'
+genre:
+- Simulation
+- Trivia
+language: English
+date:
+  added: '2020-02-04T19:29:00'
+  last_modified: '2023-05-22T07:41:16'
+type: zip
+media: Download
+commands:
+  play: BUICK.EXE
+references:
+  mobygames: https://www.mobygames.com/game/71591/buick-dimensions/
+files:
+- name: BUICK
+  size: 2278877
+  date: '1992-12-31T12:00:10'
+  crc: '0x15140a94'
+- name: BUICK.EXE
+  size: 124832
+  date: '1992-12-31T12:00:06'
+  crc: '0x82e17d0f'
+- name: README.TXT
+  size: 729
+  date: '1993-01-26T16:56:58'
+  crc: '0x64c54844'

@@ -1,0 +1,69 @@
+filename: Nephi's Quest v1.1 (Installer) (1990)(Compuclassics Corporation, Eagle Marketing Corporation) [Adventure, Educational][!].zip
+tdc_id: '14425.2'
+title:
+  box: Nephi's Quest
+publisher: Compuclassics Corporation, Eagle Marketing Corporation
+year: '1990'
+genre:
+- Adventure
+- Educational
+language: English
+date:
+  added: '2019-03-01T18:33:20'
+  last_modified: '2019-03-01T18:33:20'
+version: '1.1'
+type: zip
+tags:
+- KnownGood
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DATA1.LIF
+  size: 136173
+  date: '1991-09-25T09:32:14'
+  crc: '0xb023c3e8'
+- name: DATA2.LIF
+  size: 150648
+  date: '1991-09-09T11:34:34'
+  crc: '0xfddb80b7'
+- name: DATA3.LIF
+  size: 61715
+  date: '1991-09-06T00:25:38'
+  crc: '0xf67005d2'
+- name: DATA3B.LIF
+  size: 16160
+  date: '1991-09-08T15:25:34'
+  crc: '0x190d38f3'
+- name: DATA4.LIF
+  size: 74186
+  date: '1991-09-08T15:27:50'
+  crc: '0x63f42b63'
+- name: DATA5.LIF
+  size: 51059
+  date: '1991-09-06T00:16:34'
+  crc: '0xbdd8d899'
+- name: DATA6.LIF
+  size: 87026
+  date: '1991-09-06T00:18:30'
+  crc: '0x8d9562db'
+- name: DISK.ID
+  size: 32
+  date: '1991-09-25T13:47:32'
+  crc: '0x01bfe786'
+- name: DISK1.ID
+  size: 32
+  date: '1991-09-25T13:47:40'
+  crc: '0x2a92b445'
+- name: DISK2.ID
+  size: 32
+  date: '1991-09-25T13:47:50'
+  crc: '0x1b7aaed8'
+- name: INSTALL.DAT
+  size: 6898
+  date: '1991-09-25T13:47:02'
+  crc: '0xcaf5dcbb'
+- name: INSTALL.EXE
+  size: 78927
+  date: '1991-06-25T03:10:04'
+  crc: '0xe5bf5a0c'

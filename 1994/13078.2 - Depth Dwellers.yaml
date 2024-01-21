@@ -1,0 +1,35 @@
+filename: Depth Dwellers v1.4 (Installer) [SWR] (1994)(TriSoft) [Action].zip
+tdc_id: '13078.2'
+title:
+  screen: Depth Dwellers
+publisher: TriSoft
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T21:56:02'
+  last_modified: '2019-03-01T21:56:02'
+version: '1.4'
+type: zip
+tags:
+- SharewareRegistered
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 74103
+  date: '2088-08-05T01:00:00'
+  crc: '0xbef2d37a'
+- name: INSTALL.RES
+  size: 971
+  date: '2088-08-05T01:00:00'
+  crc: '0x276d6519'
+- name: VOLUME.001
+  size: 1380826
+  date: '2088-08-05T01:00:00'
+  crc: '0x3bc32250'
+- name: VOLUME.002
+  size: 358576
+  date: '2088-08-05T01:00:00'
+  crc: '0x1f686a2f'

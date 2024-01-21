@@ -1,0 +1,75 @@
+filename: DND v1.10 [SW] (1984)(R.O. Software) [Role-Playing (RPG)].zip
+tdc_id: '6594.1'
+title:
+  screen: DND
+publisher: R.O. Software
+year: '1984'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:24:04'
+  last_modified: '2019-03-01T18:24:04'
+version: '1.10'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: DND.EXE
+files:
+- name: CAVERN.BIN
+  size: 8064
+  date: '1985-01-29T01:14:26'
+  crc: '0x4a092379'
+- name: CLERIC.DOC
+  size: 6016
+  date: '1985-01-29T01:14:14'
+  crc: '0x01567770'
+- name: DND.EXE
+  size: 160768
+  date: '1985-07-27T00:10:18'
+  crc: '0x4d6e7b47'
+- name: INTRO.DOC
+  size: 8064
+  date: '1985-01-29T01:14:18'
+  crc: '0x337e3782'
+- name: KEYPAD.DOC
+  size: 8064
+  date: '1985-01-29T01:13:40'
+  crc: '0x337e3782'
+- name: LAMORTE.BIN
+  size: 8064
+  date: '1985-01-29T01:14:22'
+  crc: '0x891a0c69'
+- name: MAGIC.DOC
+  size: 6528
+  date: '1985-01-29T01:14:14'
+  crc: '0x70c3012d'
+- name: MONSTER.DOC
+  size: 3200
+  date: '1985-01-29T01:14:16'
+  crc: '0x2ea5d33d'
+- name: NOTICE.DAT
+  size: 640
+  date: '1985-01-29T01:14:12'
+  crc: '0xd2434a13'
+- name: README.TXT
+  size: 768
+  date: '1985-01-29T01:14:28'
+  crc: '0x24f0d429'
+- name: RELEASE.NOT
+  size: 512
+  date: '1985-09-17T08:07:08'
+  crc: '0x5e3fc3f0'
+- name: SHVENK.BIN
+  size: 8064
+  date: '1985-01-29T01:13:38'
+  crc: '0x74e8cd9d'
+- name: TELENARD.BIN
+  size: 8064
+  date: '1985-01-29T01:14:20'
+  crc: '0x5ba7fce3'
+- name: WARREN.BIN
+  size: 8064
+  date: '1985-01-29T01:14:24'
+  crc: '0x8a734873'

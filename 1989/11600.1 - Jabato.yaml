@@ -1,0 +1,59 @@
+filename: Jabato (Es) (1989)(Aventuras AD) [Adventure].zip
+tdc_id: '11600.1'
+title:
+  screen: Jabato
+publisher: Aventuras AD
+year: '1989'
+genre: Adventure
+language: Spanish
+date:
+  added: '2022-04-26T08:38:26'
+  last_modified: '2022-04-26T08:38:26'
+type: zip
+commands:
+  play: AD.EXE
+files:
+- name: AD.EXE
+  size: 13926
+  date: '1997-01-25T17:22:54'
+  crc: '0x080d6d34'
+- name: JABATO.TXT
+  size: 8696
+  date: '1996-05-01T18:15:50'
+  crc: '0xd91e9906'
+- name: PART1.CGA
+  size: 172780
+  date: '1989-10-02T16:36:20'
+  crc: '0xd5ca9967'
+- name: PART1.CGS
+  size: 16384
+  date: '1989-09-21T12:41:06'
+  crc: '0x0ee3fc0c'
+- name: PART1.CHR
+  size: 2176
+  date: '1989-06-05T06:53:52'
+  crc: '0x08d59686'
+- name: PART1.DDB
+  size: 28174
+  date: '1989-12-07T11:09:56'
+  crc: '0x9794a91b'
+- name: PART1.EGA
+  size: 278461
+  date: '1989-10-03T10:21:16'
+  crc: '0xa0f4a0c2'
+- name: PART1.EGS
+  size: 32001
+  date: '1989-09-22T18:38:50'
+  crc: '0x68386e9f'
+- name: PART2.CGA
+  size: 197963
+  date: '1989-10-03T15:48:32'
+  crc: '0x7ba3fa11'
+- name: PART2.DDB
+  size: 31760
+  date: '1989-12-07T10:54:56'
+  crc: '0xd21f1366'
+- name: PART2.EGA
+  size: 247545
+  date: '1989-10-03T15:48:58'
+  crc: '0x1bb7eb79'

@@ -1,0 +1,28 @@
+filename: QBasic Space Invaders (1997)(mr whisper) [Action].zip
+tdc_id: '4047.0'
+title:
+  screen: QBasic Space Invaders
+publisher: mr whisper
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:37:00'
+  last_modified: '2019-03-02T10:37:00'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 28
+  date: '2018-11-27T17:17:28'
+  crc: '0x5966c3ba'
+- name: INVADER2.BAS
+  size: 20942
+  date: '2018-03-10T14:54:02'
+  crc: '0x63a6d368'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

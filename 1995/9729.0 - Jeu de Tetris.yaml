@@ -1,0 +1,32 @@
+filename: Jeu de Tetris (Fr) [FW] (1995)(Dominique Vidal) [Action, Strategy].zip
+tdc_id: '9729.0'
+title:
+  screen: Jeu de Tetris
+publisher: Dominique Vidal
+year: '1995'
+genre:
+- Action
+- Strategy
+language: French
+date:
+  added: '2019-03-02T09:06:12'
+  last_modified: '2019-03-02T09:06:12'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: TETRIS.EXE
+files:
+- name: TETRIS.EXE
+  size: 8784
+  date: '1995-04-06T09:41:40'
+  crc: '0xfab35bba'
+- name: TETRIS.PAS
+  size: 12883
+  date: '1995-04-06T09:41:42'
+  crc: '0xc3122ffb'
+- name: readme.txt
+  size: 673
+  date: '1995-04-10T16:42:04'
+  crc: '0x8c19eede'

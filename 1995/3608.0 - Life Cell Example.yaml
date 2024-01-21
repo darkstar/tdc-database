@@ -1,0 +1,28 @@
+filename: Life Cell Example (1995)(Ben Ashley) [Simulation].zip
+tdc_id: '3608.0'
+title:
+  screen: Life Cell Example
+publisher: Ben Ashley
+year: '1995'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-02T08:56:28'
+  last_modified: '2019-03-02T08:56:28'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 24
+  date: '2018-12-17T22:19:12'
+  crc: '0x4adc2c64'
+- name: LIFE.BAS
+  size: 3281
+  date: '1999-08-28T15:45:48'
+  crc: '0x2cb2e1a4'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

@@ -1,0 +1,26 @@
+filename: Polymaze (1983)(Dan Rollins) [Strategy].zip
+tdc_id: '10388.0'
+title:
+  screen: Polymaze
+publisher: Dan Rollins
+year: '1983'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:23:18'
+  last_modified: '2019-03-01T18:23:18'
+type: zip
+commands:
+  play: POLYMAZE.EXE
+references:
+  dosid: DOS07021
+  exodos: PolyMaze (1983).zip
+files:
+- name: POLYMAZE.BAS
+  size: 11577
+  date: '1991-03-30T23:55:40'
+  crc: '0xdd7a1c5b'
+- name: POLYMAZE.EXE
+  size: 26880
+  date: '1986-10-26T18:19:30'
+  crc: '0x29c3d8e6'

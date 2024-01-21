@@ -1,0 +1,42 @@
+filename: QBTetris (1998)(Dominik Kaspar) [Strategy, Action].zip
+tdc_id: '10781.0'
+title:
+  screen: QBTetris
+publisher: Dominik Kaspar
+year: '1998'
+genre:
+- Strategy
+- Action
+language: English
+date:
+  added: '2019-03-02T10:44:18'
+  last_modified: '2019-03-02T10:44:18'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 28
+  date: '2018-12-27T20:24:34'
+  crc: '0x13f07480'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: QBTETRIS.BAS
+  size: 30615
+  date: '1998-10-31T17:00:30'
+  crc: '0xe1b38caf'
+- name: QBTETRIS.DSC
+  size: 2898
+  date: '1998-10-18T21:29:48'
+  crc: '0xfa738823'
+- name: QBTETRIS.FNT
+  size: 3810
+  date: '1998-10-18T14:01:28'
+  crc: '0x3fd28617'
+- name: QBTETRIS.SHP
+  size: 1188
+  date: '1998-10-19T20:44:54'
+  crc: '0x6602490e'

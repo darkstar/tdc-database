@@ -1,0 +1,62 @@
+filename: Maker's Matchup v2.0 [FW] (1997)(Dan Sharpe) [Strategy].zip
+tdc_id: '11110.0'
+title:
+  screen: Maker's Matchup
+publisher: Dan Sharpe
+year: '1997'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:35:34'
+  last_modified: '2019-03-02T10:35:34'
+version: '2.0'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: MAKERMUP.EXE
+references:
+  dosid: DOS03324
+  exodos: Maker's Matchup (1994).zip
+files:
+- name: CHKLIST.MS
+  size: 27
+  date: '1996-03-16T18:06:54'
+  crc: '0x5409b507'
+- name: GENERIC.MDD
+  size: 7740
+  date: '1994-12-11T14:24:58'
+  crc: '0x4f237dc2'
+- name: MAKERMUP.EXE
+  size: 185088
+  date: '1997-05-28T22:50:48'
+  crc: '0x5be0c93a'
+- name: MAKERMUP.GFT
+  size: 2154
+  date: '1993-05-15T02:05:00'
+  crc: '0x750e55c5'
+- name: MM_INSTR.MDD
+  size: 7740
+  date: '1994-12-15T14:36:30'
+  crc: '0xa86660b2'
+- name: MM_INTRO.GIF
+  size: 4476
+  date: '1995-02-17T02:00:28'
+  crc: '0xe489aa2c'
+- name: MM_INTRO.MDD
+  size: 7740
+  date: '1994-12-08T16:23:50'
+  crc: '0x83eac24f'
+- name: MM_SPR1.GIF
+  size: 6806
+  date: '1995-02-17T02:03:58'
+  crc: '0xbddabd0f'
+- name: MM_WIN.MDD
+  size: 7740
+  date: '1994-12-12T14:09:30'
+  crc: '0x2be43905'
+- name: README.TXT
+  size: 1713
+  date: '1997-07-26T18:04:24'
+  crc: '0x9b4ad86a'

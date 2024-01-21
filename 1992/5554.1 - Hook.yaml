@@ -1,0 +1,35 @@
+filename: Hook (Installer) (En)(De)(Fr)(It)(Es) [a1] (1992)(Ocean Software Ltd.) [Adventure].zip
+tdc_id: '5554.1'
+title:
+  box: Hook
+publisher: Ocean Software Ltd.
+year: '1992'
+genre: Adventure
+language:
+- English
+- Spanish
+- French
+- Italian
+- German
+date:
+  added: '2019-03-01T18:45:58'
+  last_modified: '2019-03-01T18:45:58'
+type: zip
+tags:
+- Alternate: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: HOOK.2
+  size: 730112
+  date: '1992-06-23T02:10:00'
+  crc: '0x3450b393'
+- name: HOOK.3
+  size: 227126
+  date: '1992-06-23T02:10:02'
+  crc: '0xa931243c'
+- name: INSTALL.EXE
+  size: 730112
+  date: '1992-07-02T00:29:46'
+  crc: '0x996e7cf5'

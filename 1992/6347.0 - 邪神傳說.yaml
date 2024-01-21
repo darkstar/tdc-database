@@ -1,0 +1,40 @@
+filename: 邪神傳說 (Installer) (Zh) (1992)(SoftWorld) [Action, Adventure, Role-Playing (RPG)].zip
+tdc_id: '6347.0'
+title:
+  box: 邪神傳說
+  translation: Legend of Evil God
+  qualifier: Installer
+publisher: SoftWorld
+year: '1992'
+genre:
+- Action
+- Adventure
+- Role-Playing (RPG)
+language: Chinese
+date:
+  added: '2019-03-01T18:48:44'
+  last_modified: '2023-12-05T13:26:07'
+type: zip
+media: 1.2M
+installer: true
+files:
+- name: ARJ.EXE
+  size: 97442
+  date: '1991-07-16T17:05:32'
+  crc: '0xea53e6d7'
+- name: GOD1.ARJ
+  size: 1084849
+  date: '1992-12-08T10:09:12'
+  crc: '0x78156279'
+- name: GOD2.ARJ
+  size: 809074
+  date: '1980-01-01T00:00:00'
+  crc: '0x27c60334'
+- name: INSTALL.CFG
+  size: 328
+  date: '1992-12-08T15:59:50'
+  crc: '0xa04249d7'
+- name: INSTALL.EXE
+  size: 13479
+  date: '1992-12-08T16:35:58'
+  crc: '0xc64015fa'

@@ -1,0 +1,65 @@
+filename: Spectre CD (Installer) (1995)(Velocity Inc.) [Action, Racing - Driving, Strategy].zip
+tdc_id: '15344.5'
+title:
+  box: Spectre CD
+publisher: Velocity Inc.
+year: '1995'
+genre:
+- Action
+- Racing - Driving
+- Strategy
+language: English
+date:
+  added: '2022-11-23T13:15:36'
+  last_modified: '2022-11-23T13:15:36'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/spectre
+files:
+- name: INSTALL.DAT
+  size: 23618
+  date: '1992-11-28T11:51:56'
+  crc: '0xf8746dbf'
+- name: INSTALL.EXE
+  size: 8204
+  date: '1992-11-27T12:52:18'
+  crc: '0xeee991b8'
+- name: MANUAL.BAT
+  size: 27
+  date: '1995-04-27T16:17:28'
+  crc: '0x96e072c8'
+- name: PRTMAN.BAT
+  size: 24
+  date: '1995-04-27T16:28:46'
+  crc: '0x44b99146'
+- name: README.BAT
+  size: 25
+  date: '1995-04-27T16:28:22'
+  crc: '0xf645adb1'
+- name: README.TXT
+  size: 1738
+  date: '1995-04-27T16:28:04'
+  crc: '0xfe3a0f7e'
+- name: SPCDATA.EXE
+  size: 575202
+  date: '1992-11-28T11:46:18'
+  crc: '0xbc77f48f'
+- name: SPECMAN1.TXT
+  size: 77354
+  date: '1995-04-27T16:23:04'
+  crc: '0xf237ed42'
+- name: TROUBLE.BAT
+  size: 26
+  date: '1995-04-27T16:30:06'
+  crc: '0xbd9ee3ba'
+- name: TROUBLE.TXT
+  size: 4205
+  date: '1992-11-28T10:48:10'
+  crc: '0x6789cf78'
+- name: VTOC.SYS
+  size: 4096
+  date: '1995-04-27T16:34:00'
+  crc: '0xd12315cb'

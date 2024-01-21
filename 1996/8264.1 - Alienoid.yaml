@@ -1,0 +1,30 @@
+filename: Alienoid [a1] (1996)(Mike Helms) [Action].zip
+tdc_id: '8264.1'
+title:
+  screen: Alienoid
+publisher: Mike Helms
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T09:58:56'
+  last_modified: '2019-03-02T09:58:56'
+type: zip
+tags:
+- Alternate: 1
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: ALIENOID.BAS
+  size: 19232
+  date: '1998-01-17T22:50:26'
+  crc: '0x8d1851f6'
+- name: GO.BAT
+  size: 28
+  date: '2018-12-04T19:57:18'
+  crc: '0x8e317bf7'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'

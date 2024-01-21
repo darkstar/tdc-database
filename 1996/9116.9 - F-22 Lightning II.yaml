@@ -1,0 +1,62 @@
+filename: F-22 Lightning II v1.00.00.02 (Installer) (1996)(NovaLogic, Ltd.) [Action, Simulation].zip
+tdc_id: '9116.9'
+parent_id: '9116.8'
+title:
+  box: F-22 Lightning II
+  qualifier: Installer
+publisher: NovaLogic, Ltd.
+year: '1996'
+genre:
+- Action
+- Simulation
+language: English
+date:
+  added: '2023-07-11T10:33:59'
+  last_modified: '2023-07-11T10:33:59'
+version: 1.00.00.02
+type: zip
+media: CD-ROM
+installer: true
+references:
+  mobygames: https://www.mobygames.com/game/2576/f-22-lightning-ii/
+files:
+- name: INSTALL.BIN
+  size: 710290
+  date: '1996-09-19T13:00:00'
+  crc: '0xb0c7fa5f'
+- name: INSTALL.EXE
+  size: 1145
+  date: '1996-09-19T13:00:00'
+  crc: '0x32749e49'
+- name: INSTALL.PIF
+  size: 967
+  date: '1996-09-19T13:00:00'
+  crc: '0x7ebaee3f'
+- name: JOYSTICK\
+  size: 0
+  date: '1996-09-19T13:00:00'
+- name: JOYSTICK\CH\
+  size: 0
+  date: '1996-09-19T13:00:00'
+- name: JOYSTICK\CH\F-22.PTC
+  size: 2726
+  date: '1996-09-19T13:00:00'
+  crc: '0x7f75e609'
+- name: JOYSTICK\THRUST\
+  size: 0
+  date: '1996-09-19T13:00:00'
+- name: JOYSTICK\THRUST\F-22.B50
+  size: 3239
+  date: '1996-09-19T13:00:00'
+  crc: '0xbdad868b'
+- name: NOVA\
+  size: 0
+  date: '1996-09-19T13:00:00'
+- name: NOVA\RESOURCE.RES
+  size: 408614463
+  date: '1996-09-19T13:00:00'
+  crc: '0x0445e34e'
+- name: README.TXT
+  size: 2249
+  date: '1996-09-19T13:00:00'
+  crc: '0xcf61d8dc'

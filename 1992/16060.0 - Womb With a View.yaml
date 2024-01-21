@@ -1,0 +1,78 @@
+filename: Womb With a View v1.03 (1992)(International Micro Design, Inc.) [Simulation, Educational].zip
+tdc_id: '16060.0'
+title:
+  screen: Womb With a View
+publisher: International Micro Design, Inc.
+year: '1992'
+genre:
+- Simulation
+- Educational
+language: English
+date:
+  added: '2019-03-01T18:52:30'
+  last_modified: '2019-03-01T18:52:30'
+version: '1.03'
+type: zip
+commands:
+  play: WOMB.EXE
+files:
+- name: ATT.BGI
+  size: 6332
+  date: '2015-09-17T16:21:24'
+  crc: '0x4f4d7a95'
+- name: CGA.BGI
+  size: 6332
+  date: '2015-09-17T16:21:24'
+  crc: '0x791ef615'
+- name: EGA.GXL
+  size: 1572491
+  date: '2015-09-17T16:22:06'
+  crc: '0xdc0c35a0'
+- name: EGAVGA.BGI
+  size: 5554
+  date: '2015-09-17T16:21:24'
+  crc: '0x9b14ff3b'
+- name: EGAVGA.GXL
+  size: 140877
+  date: '2015-09-17T16:22:10'
+  crc: '0xb20b024a'
+- name: GRAVID.DDF
+  size: 185568
+  date: '2015-09-17T16:21:32'
+  crc: '0x40435bb2'
+- name: GRAVID.PAR
+  size: 11
+  date: '2015-09-17T16:21:32'
+  crc: '0xafd6e6da'
+- name: HERC.BGI
+  size: 6204
+  date: '2015-09-17T16:21:32'
+  crc: '0x716a0810'
+- name: HERC.GXL
+  size: 56772
+  date: '2015-09-17T16:22:08'
+  crc: '0x59f819d0'
+- name: IBM8514.BGI
+  size: 6665
+  date: '2015-09-17T16:21:32'
+  crc: '0x0350d1bd'
+- name: MONO.GXL
+  size: 67620
+  date: '2015-09-17T16:22:10'
+  crc: '0xd34b0eb3'
+- name: MONOWA.GXL
+  size: 461732
+  date: '2015-09-17T16:21:30'
+  crc: '0x2e2fce68'
+- name: PC3270.BGI
+  size: 6012
+  date: '2015-09-17T16:21:32'
+  crc: '0xdcc0f8d3'
+- name: WOMB.EXE
+  size: 289952
+  date: '2015-09-17T16:21:34'
+  crc: '0x25e0a1d0'
+- name: WOMBICON.DLL
+  size: 51134
+  date: '2015-09-17T16:22:10'
+  crc: '0x485c9f96'

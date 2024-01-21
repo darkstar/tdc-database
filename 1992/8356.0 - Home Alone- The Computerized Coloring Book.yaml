@@ -1,0 +1,31 @@
+filename: Home Alone- The Computerized Coloring Book (1992)(Capstone Software) [Educational].zip
+tdc_id: '8356.0'
+title:
+  box: 'Home Alone: The Computerized Coloring Book'
+publisher: Capstone Software
+year: '1992'
+genre: Educational
+language: English
+date:
+  added: '2021-02-27T10:47:10'
+  last_modified: '2021-02-27T10:47:10'
+type: zip
+commands:
+  play: CB.EXE
+files:
+- name: BD.PDT
+  size: 80984
+  date: '1992-02-27T12:19:58'
+  crc: '0x1d80072b'
+- name: CB.EXE
+  size: 44427
+  date: '1992-03-25T10:13:52'
+  crc: '0xe342c8d1'
+- name: ECPICS
+  size: 232200
+  date: '2021-02-27T19:50:42'
+  crc: '0xb30bf984'
+- name: ECTEXT
+  size: 1057
+  date: '1992-03-24T14:29:44'
+  crc: '0xe4590bb0'

@@ -1,0 +1,87 @@
+filename: World Championship Soccer (1991)(Elite Systems Ltd.) [Action, Sports].zip
+tdc_id: '15977.0'
+title:
+  box: World Championship Soccer
+publisher: Elite Systems Ltd.
+year: '1991'
+genre:
+- Action
+- Sports
+language: English
+date:
+  added: '2019-03-01T18:40:06'
+  last_modified: '2019-03-01T18:40:06'
+type: zip
+commands:
+  play: SOCCER.EXE
+references:
+  dosid: DOS05701
+  exodos: World Championship Soccer (1991).zip
+files:
+- name: GRAPHICS\
+  size: 0
+  date: '2011-06-13T09:48:34'
+- name: GRAPHICS\BIGNUMPC.GRA
+  size: 1700
+  date: '1991-03-25T18:46:02'
+  crc: '0xb2094c7a'
+- name: GRAPHICS\BLOCKSPC.GRA
+  size: 19392
+  date: '1991-01-31T09:19:54'
+  crc: '0xd308c8d9'
+- name: GRAPHICS\FE_BLOXP.GRA
+  size: 152960
+  date: '1991-04-02T12:56:10'
+  crc: '0xb08f802a'
+- name: GRAPHICS\FONT0_PC.GRA
+  size: 960
+  date: '1991-02-26T12:56:46'
+  crc: '0x6e2daee0'
+- name: GRAPHICS\FONT1_PC.GRA
+  size: 5760
+  date: '1991-02-26T12:42:28'
+  crc: '0x87538f92'
+- name: GRAPHICS\FONT4_PC.GRA
+  size: 4800
+  date: '1991-02-25T16:59:24'
+  crc: '0xb9bd985a'
+- name: GRAPHICS\FONT5_PC.GRA
+  size: 5520
+  date: '1991-02-25T17:03:02'
+  crc: '0xfdc52275'
+- name: GRAPHICS\GOALNETP.GRA
+  size: 8000
+  date: '1991-03-14T11:34:08'
+  crc: '0xc8e1871d'
+- name: GRAPHICS\GOALTXTP.GRA
+  size: 1860
+  date: '1991-03-13T14:08:16'
+  crc: '0x674776f6'
+- name: GRAPHICS\PANEL_PC.GRA
+  size: 2544
+  date: '1991-03-26T18:55:58'
+  crc: '0x85c4b366'
+- name: GRAPHICS\PC_MAPS.MAP
+  size: 6240
+  date: '1991-04-02T12:55:44'
+  crc: '0xec1c64f0'
+- name: GRAPHICS\SOCCER.MAP
+  size: 14518
+  date: '1990-11-29T13:24:58'
+  crc: '0x5a9efeec'
+- name: GRAPHICS\SPRS_PC.GRA
+  size: 168080
+  date: '1991-03-17T16:58:56'
+  crc: '0xa7d2c965'
+- name: JOY_DEMO.DAT
+  size: 256
+  date: '1990-11-09T16:00:40'
+  crc: '0x15c7da36'
+- name: SOCCER.EXE
+  size: 63246
+  date: '1991-04-23T10:28:44'
+  crc: '0x5793f457'
+- name: TEAM_TXT.DAT
+  size: 9296
+  date: '1990-11-30T09:37:46'
+  crc: '0xd77e7c16'

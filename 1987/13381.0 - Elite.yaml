@@ -1,0 +1,44 @@
+filename: Elite (1987)(Firebird Software Ltd.) [Action, Simulation, Strategy].zip
+tdc_id: '13381.0'
+parent_id: '13381.4'
+title:
+  box: Elite
+publisher: Firebird Software Ltd.
+year: '1987'
+genre:
+- Action
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2020-06-05T04:57:52'
+  last_modified: '2020-06-05T04:57:52'
+type: zip
+references:
+  dosid: DOS02001
+  exodos: Elite (1987).zip
+files:
+- name: ELITE.COM
+  size: 952
+  date: '1987-07-22T10:21:46'
+  crc: '0x3ff28664'
+- name: ELITE.DOC
+  size: 31232
+  date: '1980-01-01T03:13:00'
+  crc: '0x80581245'
+- name: ELITEL.EXE
+  size: 73536
+  date: '1987-11-23T04:24:00'
+  crc: '0x2329f681'
+- name: ELITEL.EX_
+  size: 73536
+  date: '1987-11-23T04:24:00'
+  crc: '0xa7bbafe4'
+- name: ELITES.EXE
+  size: 74480
+  date: '1987-11-23T04:27:00'
+  crc: '0x9e852b70'
+- name: ELITES.EX_
+  size: 74480
+  date: '1987-11-23T04:27:00'
+  crc: '0x8fb8dc9c'

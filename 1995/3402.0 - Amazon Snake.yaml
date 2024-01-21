@@ -1,0 +1,38 @@
+filename: Amazon Snake (1995)(Riku Jarvensivu) [Action].zip
+tdc_id: '3402.0'
+title:
+  screen: Amazon Snake
+publisher: Riku Jarvensivu
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T07:28:44'
+  last_modified: '2019-03-02T07:28:44'
+type: zip
+commands:
+  play: AMAZON.EXE
+references:
+  dosid: DOS00601
+  exodos: Amazon Snake (1995).zip
+files:
+- name: AMAZON.CFG
+  size: 10
+  date: '1995-02-25T17:36:04'
+  crc: '0x7b032a9b'
+- name: AMAZON.DOC
+  size: 2622
+  date: '1995-02-25T17:31:02'
+  crc: '0xcb254afb'
+- name: AMAZON.EXE
+  size: 15750
+  date: '1995-02-25T17:34:46'
+  crc: '0xfaeedbeb'
+- name: AMAZON.GFX
+  size: 396724
+  date: '1995-02-25T17:21:48'
+  crc: '0x1048be51'
+- name: AMAZON.HSR
+  size: 79
+  date: '1995-02-25T12:03:06'
+  crc: '0x0ef1840f'

@@ -1,0 +1,44 @@
+filename: Electric Crayon 3.1- At the Zoo (1992)(Merit Software) [Educational, Editor].zip
+tdc_id: '13351.0'
+title:
+  box: 'Electric Crayon 3.1: At the Zoo'
+publisher: Merit Software
+year: '1992'
+genre:
+- Educational
+- Editor
+language: English
+date:
+  added: '2019-03-01T18:44:38'
+  last_modified: '2019-03-01T18:44:38'
+type: zip
+commands:
+  play: Ec.exe
+references:
+  dosid: DOS01985
+  exodos: Electric Crayon 3.1 - At the Zoo (1992).zip
+files:
+- name: Ec.exe
+  size: 140322
+  date: '1992-03-24T17:19:24'
+  crc: '0xe138c6d9'
+- name: Ecdata.dja
+  size: 47552
+  date: '1992-03-24T17:15:02'
+  crc: '0x635ba364'
+- name: Parms.dat
+  size: 471
+  date: '1991-07-02T08:55:24'
+  crc: '0x80e5c6a5'
+- name: Pinfo.dat
+  size: 2492
+  date: '1992-03-20T11:24:10'
+  crc: '0x6e28d8f8'
+- name: Zoo.col
+  size: 7680
+  date: '1995-09-24T10:18:32'
+  crc: '0x5b94ac88'
+- name: Zoo.eca
+  size: 95725
+  date: '1991-09-04T11:57:12'
+  crc: '0xdf830f21'

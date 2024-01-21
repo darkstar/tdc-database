@@ -1,0 +1,31 @@
+filename: Super Star Trek v2.0 (1998)(KCCD Designs) [Strategy].zip
+tdc_id: '4260.0'
+title:
+  screen: Super Star Trek
+publisher: KCCD Designs
+year: '1998'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:44:38'
+  last_modified: '2019-03-02T10:44:38'
+version: '2.0'
+type: zip
+commands:
+  play: Startrek.exe
+references:
+  dosid: DOS16118
+  exodos: Super Star Trek v2.0 (1998).zip
+files:
+- name: Startrek.exe
+  size: 78650
+  date: '1996-10-11T23:23:24'
+  crc: '0x611b777c'
+- name: Startrek.ico
+  size: 766
+  date: '1996-10-06T18:45:00'
+  crc: '0x71bd1c2a'
+- name: readme.doc
+  size: 8704
+  date: '1999-08-08T20:32:30'
+  crc: '0x8ba70424'

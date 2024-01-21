@@ -1,0 +1,29 @@
+filename: Fraction Fever (Tandy) (1985)(Spinnaker Software Corporation) [Action, Educational].zip
+tdc_id: '13776.1'
+title:
+  box: Fraction Fever
+  qualifier: Tandy
+publisher: Spinnaker Software Corporation
+year: '1985'
+genre:
+- Action
+- Educational
+language: English
+date:
+  added: '2019-03-01T18:24:26'
+  last_modified: '2019-03-01T18:24:26'
+type: zip
+commands:
+  play: FRF.EXE
+references:
+  dosid: DOS07298
+  exodos: Fraction Fever (1984).zip
+files:
+- name: FRF.EXE
+  size: 12996
+  date: '1985-03-04T13:20:28'
+  crc: '0x9816dd5b'
+- name: FRF.EX_
+  size: 12996
+  date: '1985-03-04T13:20:28'
+  crc: '0x18cdcbd9'

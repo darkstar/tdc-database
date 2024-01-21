@@ -1,0 +1,45 @@
+filename: Skunny- Save Our Pizzas! v1.1 (Installer) [SW][a1] (1993)(Copysoft) [Action].zip
+tdc_id: '10017.1'
+title:
+  screen: 'Skunny: Save Our Pizzas!'
+publisher: Copysoft
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2009-11-23T02:44:02'
+  last_modified: '2009-11-23T02:44:02'
+version: '1.1'
+type: zip
+tags:
+- Shareware
+- Alternate: 1
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 435
+  date: '1994-08-16T12:00:00'
+  crc: '0xd37fbc85'
+- name: INSTALL.EXE
+  size: 33192
+  date: '1994-08-16T12:00:00'
+  crc: '0x06bbe8c7'
+- name: INSTALL.FIL
+  size: 4334
+  date: '1994-08-16T12:00:00'
+  crc: '0xb1470a68'
+- name: ORDER.TXT
+  size: 5265
+  date: '1994-08-24T15:49:42'
+  crc: '0xbc275f64'
+- name: PIZZAS.1
+  size: 250484
+  date: '1994-08-16T12:00:00'
+  crc: '0xa5250f9e'
+- name: PIZZAS.2
+  size: 246575
+  date: '1994-08-16T12:00:00'
+  crc: '0xdbd06076'

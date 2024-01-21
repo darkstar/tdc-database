@@ -1,0 +1,44 @@
+filename: Bike v0.1 (1997)(Axe Productions) [Action].zip
+tdc_id: '12630.0'
+title:
+  screen: Bike
+publisher: Axe Productions
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:25:14'
+  last_modified: '2019-03-02T10:25:14'
+version: '0.1'
+type: zip
+commands:
+  play: BIKE.EXE
+files:
+- name: BIKE.DAT
+  size: 36802
+  date: '1997-05-25T15:15:16'
+  crc: '0x56ee723c'
+- name: BIKE.EXE
+  size: 58258
+  date: '1997-05-25T15:08:40'
+  crc: '0x726d9a8c'
+- name: CLOUDS.DAT
+  size: 4002
+  date: '1997-04-22T23:06:22'
+  crc: '0x193dda4e'
+- name: DIRT.DAT
+  size: 14402
+  date: '1997-05-25T15:09:34'
+  crc: '0x292885f6'
+- name: FORE.DAT
+  size: 12802
+  date: '1997-04-21T12:20:22'
+  crc: '0x46a8f39e'
+- name: MARKERS.DAT
+  size: 1202
+  date: '1997-04-23T10:12:42'
+  crc: '0xd4d2361a'
+- name: SCOTTPAL.DAT
+  size: 768
+  date: '1994-06-24T13:01:52'
+  crc: '0x4c755239'

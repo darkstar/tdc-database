@@ -1,0 +1,33 @@
+filename: Major Stryker v1.4 (Installer) [SW][a3] (1993)(Apogee Software, Ltd.) [Action].zip
+tdc_id: '11162.10'
+title:
+  screen: Major Stryker
+publisher: Apogee Software, Ltd.
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2020-05-12T17:18:46'
+  last_modified: '2020-05-12T17:18:46'
+version: '1.4'
+type: zip
+tags:
+- Shareware
+- Alternate: 3
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 347
+  date: '1993-02-20T13:40:00'
+  crc: '0x85a5eb2c'
+- name: INSTALL.EXE
+  size: 33963
+  date: '1993-02-20T13:40:00'
+  crc: '0x9b3d653a'
+- name: MS1_BBS._1
+  size: 576121
+  date: '1993-02-20T13:40:00'
+  crc: '0x0bfdb728'

@@ -1,0 +1,30 @@
+filename: Pong Plus [FW] (1999)(Etienne Boutin) [Action].zip
+tdc_id: '17254.0'
+title:
+  screen: Pong Plus
+publisher: Etienne Boutin
+year: '1999'
+genre: Action
+language: English
+date:
+  added: '2023-03-02T10:01:10'
+  last_modified: '2023-03-02T10:01:10'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 28
+  date: '2023-03-01T17:31:12'
+  crc: '0x9a0467c6'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T03:28:02'
+  crc: '0x19f6ed75'
+- name: pongplus.bas
+  size: 10012
+  date: '2022-07-04T21:50:58'
+  crc: '0xdd7ff605'

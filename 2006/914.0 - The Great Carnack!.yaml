@@ -1,0 +1,27 @@
+filename: Great Carnack!, The (2006)(Ted Weissgerber) [Simulation].zip
+tdc_id: '914.0'
+title:
+  screen: The Great Carnack!
+publisher: Ted Weissgerber
+year: '2006'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-02T10:57:14'
+  last_modified: '2019-03-02T10:57:14'
+type: zip
+commands:
+  play: CARNACK.EXE
+files:
+- name: CARNACK.EXE
+  size: 46592
+  date: '2006-03-11T17:34:08'
+  crc: '0xc488ce67'
+- name: Carnack.bsv
+  size: 28455
+  date: '2006-03-10T19:28:54'
+  crc: '0xeb091da1'
+- name: QUACKBYE.BSV
+  size: 11515
+  date: '2006-03-11T17:02:48'
+  crc: '0x4f56033e'

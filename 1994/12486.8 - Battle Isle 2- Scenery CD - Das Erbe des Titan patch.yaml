@@ -1,0 +1,42 @@
+filename: Battle Isle 2- Scenery CD - Das Erbe des Titan patch (Installer) (De) (1994)(Blue Byte Software GmbH) [Strategy, Addon].zip
+tdc_id: '12486.8'
+title:
+  screen: 'Battle Isle 2: Scenery CD - Das Erbe des Titan patch'
+  qualifier: Installer
+publisher: Blue Byte Software GmbH
+year: '1994'
+genre:
+- Strategy
+- Addon
+language: German
+date:
+  added: '2023-11-23T08:00:03'
+  last_modified: '2023-11-23T08:00:03'
+type: zip
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/7546/battle-isle-2-scenery-cd-titans-legacy/
+files:
+- name: BATTLE2.EXE
+  size: 248985
+  date: '1994-09-27T14:10:46'
+  crc: '0x6741b5a0'
+- name: BB_DISK.001
+  size: 21
+  date: '1994-07-20T15:50:02'
+  crc: '0x7515e4a4'
+- name: BB_DISK.LST
+  size: 311
+  date: '1994-09-27T14:10:02'
+  crc: '0xbe984b69'
+- name: INST.DAT
+  size: 2535
+  date: '1994-07-20T15:53:26'
+  crc: '0xe4709432'
+- name: INSTALL.EXE
+  size: 82416
+  date: '1994-07-20T15:53:38'
+  crc: '0x0d00bf11'

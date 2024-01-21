@@ -1,0 +1,70 @@
+filename: Bad Dudes (1988)(Data East USA, Inc.) [Action].zip
+tdc_id: '12353.0'
+title:
+  box: Bad Dudes
+publisher: Data East USA, Inc.
+year: '1988'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:25:56'
+  last_modified: '2019-03-01T18:25:56'
+type: zip
+commands:
+  play: BADDUDES.COM
+references:
+  dosid: DOS00930
+  exodos: Bad Dudes (1988).zip
+files:
+- name: BADDUDES.COM
+  size: 10223
+  date: '1988-04-21T21:23:52'
+  crc: '0x32c1dcd5'
+- name: LEVEL0.BIN
+  size: 13277
+  date: '1989-02-04T14:00:44'
+  crc: '0x08d36f15'
+- name: LEVEL1.BIN
+  size: 14721
+  date: '1989-01-25T13:45:26'
+  crc: '0xda615486'
+- name: LEVEL2.BIN
+  size: 7606
+  date: '1989-02-09T15:44:58'
+  crc: '0x8b5dcbe6'
+- name: LEVEL3.BIN
+  size: 6762
+  date: '1989-02-10T17:18:32'
+  crc: '0x587a77da'
+- name: LEVEL4.BIN
+  size: 14065
+  date: '1989-02-01T22:04:52'
+  crc: '0xbcc26d76'
+- name: LEVEL5.BIN
+  size: 14479
+  date: '1989-02-09T14:49:46'
+  crc: '0x13d278b0'
+- name: LEVEL6.BIN
+  size: 15799
+  date: '1989-01-30T11:08:10'
+  crc: '0x5e7fd361'
+- name: LEVEL7.BIN
+  size: 14634
+  date: '1989-02-02T00:33:08'
+  crc: '0xf029856f'
+- name: LEVEL8.BIN
+  size: 15651
+  date: '1989-01-28T14:41:46'
+  crc: '0x72127799'
+- name: SCRIPT.BIN
+  size: 480
+  date: '1989-01-30T23:00:46'
+  crc: '0xe0cfb184'
+- name: SPRITES.EGA
+  size: 232501
+  date: '1989-02-09T15:19:02'
+  crc: '0x0af3a685'
+- name: STARTUP.PRG
+  size: 120866
+  date: '1989-02-11T11:20:32'
+  crc: '0x08b85f97'

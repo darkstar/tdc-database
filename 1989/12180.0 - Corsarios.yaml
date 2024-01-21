@@ -1,0 +1,58 @@
+filename: Corsarios (1989)(Opera Soft S.A.) [Action].zip
+tdc_id: '12180.0'
+title:
+  box: Corsarios
+publisher: Opera Soft S.A.
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2017-03-20T21:55:28'
+  last_modified: '2017-03-20T21:55:28'
+type: zip
+commands:
+  play: CORSARIO.EXE
+references:
+  dosid: DOS01529
+  exodos: Corsarios (1989).zip
+files:
+- name: CORSARIO.CTR
+  size: 443
+  date: '1994-11-29T23:08:32'
+  crc: '0x8808ffb7'
+- name: CORSARIO.EXE
+  size: 2430
+  date: '1992-11-30T15:20:36'
+  crc: '0x7f3536e5'
+- name: COR_CGA.PIC
+  size: 16384
+  date: '1989-09-20T15:04:46'
+  crc: '0x361acf04'
+- name: COR_CGA1.OVL
+  size: 4235
+  date: '1989-09-22T16:27:16'
+  crc: '0xfb884f80'
+- name: COR_CGA2.OVL
+  size: 56105
+  date: '1989-09-20T13:40:48'
+  crc: '0x74342b1a'
+- name: COR_CGA3.OVL
+  size: 55829
+  date: '1989-09-20T13:42:32'
+  crc: '0x4893d6ec'
+- name: COR_EGA.PIC
+  size: 32000
+  date: '1989-09-20T15:05:08'
+  crc: '0x2ca07e85'
+- name: COR_EGA1.OVL
+  size: 7304
+  date: '1989-09-21T18:30:16'
+  crc: '0x2428ff94'
+- name: COR_EGA2.OVL
+  size: 193854
+  date: '1989-09-22T12:07:00'
+  crc: '0xc3b66b2f'
+- name: COR_EGA3.OVL
+  size: 112944
+  date: '1989-09-22T18:48:50'
+  crc: '0xb4af66e5'

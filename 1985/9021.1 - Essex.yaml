@@ -1,0 +1,38 @@
+filename: Essex [a1] (1985)(Brøderbund Software, Inc.) [Adventure].zip
+tdc_id: '9021.1'
+title:
+  box: Essex
+publisher: Brøderbund Software, Inc.
+year: '1985'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:24:24'
+  last_modified: '2019-03-01T18:24:24'
+type: zip
+tags:
+- Alternate: 1
+references:
+  dosid: DOS02048
+  exodos: Essex (1985).zip
+files:
+- name: ADisk.obj
+  size: 180736
+  date: '1985-08-14T16:48:02'
+  crc: '0x872f31d6'
+- name: Clear.com
+  size: 10
+  date: '2000-06-19T15:29:16'
+  crc: '0x8230ed82'
+- name: Essex.bat
+  size: 62
+  date: '2000-06-19T15:29:44'
+  crc: '0x3eaaa67f'
+- name: Go.exe
+  size: 35328
+  date: '2000-06-19T14:17:32'
+  crc: '0x88389656'
+- name: Side.txt
+  size: 65
+  date: '1985-08-14T16:50:36'
+  crc: '0xd0d235d6'

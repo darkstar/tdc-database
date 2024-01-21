@@ -1,0 +1,41 @@
+filename: Tyger Spirit (demo) (1996)(David Grace) [Action].zip
+tdc_id: '17172.0'
+title:
+  screen: Tyger Spirit
+  qualifier: demo
+publisher: David Grace
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2022-12-14T12:15:19'
+  last_modified: '2022-12-14T12:15:19'
+type: zip
+demo: true
+commands:
+  play: TYGER.EXE
+files:
+- name: TYGER.EXE
+  size: 98048
+  date: '1996-09-25T22:22:14'
+  crc: '0x0e14182f'
+- name: TYGER.LEV
+  size: 14926
+  date: '1996-09-25T22:23:00'
+  crc: '0xaf3bb457'
+- name: TYGER.SCR
+  size: 147584
+  date: '1996-09-25T18:41:58'
+  crc: '0xfd9590b3'
+- name: TYGER.SND
+  size: 349582
+  date: '1996-06-18T05:39:56'
+  crc: '0x5d00c913'
+- name: TYGER.SPR
+  size: 313365
+  date: '1996-09-25T19:47:56'
+  crc: '0x3f77e64e'
+- name: TYGER.TXT
+  size: 838
+  date: '1996-09-25T22:47:22'
+  crc: '0xccb37da4'

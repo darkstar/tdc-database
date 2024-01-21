@@ -1,0 +1,53 @@
+filename: Game (demo) (1998)(Alexander Larkin) [Action].zip
+tdc_id: '13918.1'
+title:
+  screen: Game
+  qualifier: demo
+publisher: Alexander Larkin
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:41:18'
+  last_modified: '2019-03-02T10:41:18'
+type: zip
+demo: true
+commands:
+  play: GAME.EXE
+files:
+- name: BALL.ALG
+  size: 21763
+  date: '1998-10-31T21:45:40'
+  crc: '0xb5adab1f'
+- name: BEER.IBG
+  size: 23789
+  date: '1998-11-15T20:03:20'
+  crc: '0xffaab465'
+- name: DEBHERO.ALG
+  size: 21179
+  date: '1998-11-03T17:37:30'
+  crc: '0x8b3c8ab0'
+- name: FIRE.ALG
+  size: 10514
+  date: '1998-10-31T20:30:38'
+  crc: '0x5389b947'
+- name: GAME.EXE
+  size: 72192
+  date: '1998-11-15T20:21:46'
+  crc: '0x19e35888'
+- name: GAME.LVL
+  size: 25069
+  date: '1998-11-15T19:59:02'
+  crc: '0xdc1452a1'
+- name: LEVEL1.ALG
+  size: 40490
+  date: '1998-11-04T00:29:22'
+  crc: '0xa1cba4e8'
+- name: LEVEL1A.ALG
+  size: 39721
+  date: '1998-11-03T18:34:46'
+  crc: '0x4be4befe'
+- name: SKY.ALG
+  size: 53058
+  date: '1998-10-31T21:38:28'
+  crc: '0x9d44bfc8'

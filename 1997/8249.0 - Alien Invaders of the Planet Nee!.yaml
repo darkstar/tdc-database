@@ -1,0 +1,29 @@
+filename: Alien Invaders of the Planet Nee! v2 (1997)(Andrew Morison) [Action].zip
+tdc_id: '8249.0'
+title:
+  screen: Alien Invaders of the Planet Nee!
+publisher: Andrew Morison
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:23:46'
+  last_modified: '2019-03-02T10:23:46'
+version: '2'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: ALIEN.BAS
+  size: 6839
+  date: '1997-08-12T21:01:34'
+  crc: '0x12b9b9f7'
+- name: GO.BAT
+  size: 25
+  date: '2018-11-18T00:01:38'
+  crc: '0xb762fe08'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'

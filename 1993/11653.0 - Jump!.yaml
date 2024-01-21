@@ -1,0 +1,48 @@
+filename: Jump! (1993)(Peter Hinz) [Strategy, Action].zip
+tdc_id: '11653.0'
+title:
+  screen: Jump!
+publisher: Peter Hinz
+year: '1993'
+genre:
+- Strategy
+- Action
+language: English
+date:
+  added: '2019-03-01T19:10:44'
+  last_modified: '2019-03-01T19:10:44'
+type: zip
+commands:
+  play: JUMP!.EXE
+references:
+  dosid: DOS06128
+  exodos: Jump! (1993).zip
+files:
+- name: CT-VOICE.DRV
+  size: 2493
+  date: '1990-09-10T22:37:54'
+  crc: '0x63c62014'
+- name: JUMP!.DOC
+  size: 1327
+  date: '1993-03-30T00:12:16'
+  crc: '0x74aecb7e'
+- name: JUMP!.EXE
+  size: 37621
+  date: '1993-03-27T00:02:58'
+  crc: '0x05620b6e'
+- name: JUMP.GFX
+  size: 9606
+  date: '1993-02-20T22:48:32'
+  crc: '0x81383e83'
+- name: JUMP.SND
+  size: 61391
+  date: '1993-03-13T06:08:20'
+  crc: '0xc07439c0'
+- name: JUMP1.GFX
+  size: 14177
+  date: '1993-01-18T11:09:24'
+  crc: '0x51a9ae90'
+- name: JUMPFIN.GFX
+  size: 35149
+  date: '1993-03-02T00:39:14'
+  crc: '0x6a8a52cf'

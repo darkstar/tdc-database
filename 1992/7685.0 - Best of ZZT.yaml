@@ -1,0 +1,69 @@
+filename: Best of ZZT v3.2 r920531 [SW] (1992)(Epic MegaGames, Inc.) [Action, Adventure, Role-Playing (RPG), Compilation].zip
+tdc_id: '7685.0'
+title:
+  screen: Best of ZZT
+publisher: Epic MegaGames, Inc.
+year: '1992'
+genre:
+- Action
+- Adventure
+- Role-Playing (RPG)
+- Compilation
+language: English
+date:
+  added: '2016-02-16T16:46:28'
+  last_modified: '2023-05-15T18:17:40'
+version: '3.2'
+release: '920531'
+type: zip
+tags:
+- Shareware
+media: Download
+compilation: true
+commands:
+  play: ZZT.EXE
+references:
+  mobygames: https://www.mobygames.com/game/66903/best-of-zzt/
+  dosid: DOS06735
+  exodos: Best of ZZT (1992).zip
+files:
+- name: ASP.DOC
+  size: 2054
+  date: '1991-11-02T18:09:18'
+  crc: '0xf32482cf'
+- name: BESTZZT1.ZZT
+  size: 168604
+  date: '1992-04-19T13:39:26'
+  crc: '0xb289c709'
+- name: BESTZZT2.ZZT
+  size: 86977
+  date: '1992-04-18T10:24:58'
+  crc: '0x1ce69814'
+- name: CATALOG.EXE
+  size: 21568
+  date: '1992-07-12T18:04:08'
+  crc: '0x000e098f'
+- name: FILE_ID.DIZ
+  size: 158
+  date: '1992-05-31T15:40:26'
+  crc: '0x4ceb6027'
+- name: ORDER.DOC
+  size: 2599
+  date: '1992-05-23T10:10:58'
+  crc: '0xed4c7c56'
+- name: PRINTME.BAT
+  size: 274
+  date: '1991-10-19T20:59:28'
+  crc: '0x39505da3'
+- name: ZZT.CFG
+  size: 16
+  date: '1992-03-24T15:38:58'
+  crc: '0x4f8c3f05'
+- name: ZZT.DAT
+  size: 7618
+  date: '1992-05-31T15:42:50'
+  crc: '0x6966db46'
+- name: ZZT.EXE
+  size: 47764
+  date: '1992-05-21T08:38:24'
+  crc: '0xe2896f3b'

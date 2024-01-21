@@ -1,0 +1,54 @@
+filename: Silverball Plus 2 (Installer) [f1] (1993)(MicroLeague Multimedia, Inc.) [Action].zip
+tdc_id: '5989.1'
+title:
+  box: Silverball Plus 2
+publisher: MicroLeague Multimedia, Inc.
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T21:07:30'
+  last_modified: '2019-03-01T21:07:30'
+type: zip
+tags:
+- Fixed: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DDB.001
+  size: 1329998
+  date: '1994-05-04T17:12:40'
+  crc: '0xbc041346'
+- name: DDB.002
+  size: 285272
+  date: '1994-05-04T17:14:16'
+  crc: '0x66ed71ef'
+- name: DISK.ID
+  size: 33
+  date: '1994-05-04T17:06:42'
+  crc: '0xa48c5040'
+- name: DISK.ID_
+  size: 33
+  date: '1994-05-04T17:13:00'
+  crc: '0xa6caee19'
+- name: INSTALL.DAT
+  size: 6608
+  date: '2012-12-21T18:59:22'
+  crc: '0x32d7f163'
+- name: INSTALL.DA_
+  size: 6608
+  date: '1994-05-05T10:00:22'
+  crc: '0x57d83e11'
+- name: INSTALL.EXE
+  size: 90304
+  date: '1994-05-04T17:06:38'
+  crc: '0x929e6b84'
+- name: README.BAT
+  size: 23
+  date: '1994-05-05T09:38:06'
+  crc: '0xf4a4b0db'
+- name: README.DOC
+  size: 1193
+  date: '1994-05-05T09:22:48'
+  crc: '0x020ec9d0'

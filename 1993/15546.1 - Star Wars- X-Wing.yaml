@@ -1,0 +1,78 @@
+filename: Star Wars- X-Wing v1.0 (Installer) (1993)(LucasArts Entertainment Company LLC) [Action, Simulation][!].zip
+tdc_id: '15546.1'
+parent_id: '15546.3'
+title:
+  box: 'Star Wars: X-Wing'
+  qualifier: Installer
+publisher: LucasArts Entertainment Company LLC
+year: '1993'
+genre:
+- Action
+- Simulation
+language: English
+date:
+  added: '2021-04-21T14:35:06'
+  last_modified: '2023-11-26T10:49:58'
+version: '1.0'
+type: zip
+tags:
+- KnownGood
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/536/star-wars-x-wing/
+files:
+- name: DETECT.EXE
+  size: 32238
+  date: '1993-02-02T20:03:38'
+  crc: '0x3ccaacb9'
+- name: DISK.ID
+  size: 51
+  date: '1993-02-15T18:33:02'
+  crc: '0x2bbe04c7'
+- name: DISK.ID2
+  size: 51
+  date: '1993-02-15T18:35:44'
+  crc: '0x29f8ba9e'
+- name: DISK.ID3
+  size: 51
+  date: '1993-02-15T18:38:46'
+  crc: '0x283ad0a9'
+- name: DISK.ID4
+  size: 51
+  date: '1993-02-15T18:41:06'
+  crc: '0x2d75c62c'
+- name: DISK.ID5
+  size: 51
+  date: '1993-02-15T18:43:18'
+  crc: '0x2cb7ac1b'
+- name: INSTALL.EXE
+  size: 138041
+  date: '1992-07-28T12:00:00'
+  crc: '0xbbe52e6d'
+- name: READ.ME
+  size: 13201
+  date: '1993-02-15T14:31:42'
+  crc: '0x92a53772'
+- name: XWING.001
+  size: 1270992
+  date: '1993-02-15T18:45:30'
+  crc: '0x19b27b1a'
+- name: XWING.002
+  size: 1457152
+  date: '1993-02-15T18:37:36'
+  crc: '0x26b1e86c'
+- name: XWING.003
+  size: 1457152
+  date: '1993-02-15T18:40:40'
+  crc: '0x28570623'
+- name: XWING.004
+  size: 1457152
+  date: '1993-02-15T18:42:56'
+  crc: '0x6ef35dd2'
+- name: XWING.005
+  size: 1176599
+  date: '1993-02-15T18:44:54'
+  crc: '0x715803ed'

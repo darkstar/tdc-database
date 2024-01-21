@@ -1,0 +1,45 @@
+filename: T-Zero v1.02 [SW] (1991)(Dennis Cunningham) [Adventure, Interactive Fiction].zip
+tdc_id: '7257.0'
+title:
+  screen: T-Zero
+publisher: Dennis Cunningham
+year: '1991'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:39:38'
+  last_modified: '2019-03-01T18:39:38'
+version: '1.02'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: T-ZERO.EXE
+files:
+- name: REGISTER.ME
+  size: 966
+  date: '1991-05-18T12:38:52'
+  crc: '0xf41327e7'
+- name: T-0.DAT
+  size: 31736
+  date: '1991-05-24T18:38:38'
+  crc: '0x809675a2'
+- name: T-ZERO.DAT
+  size: 157058
+  date: '1991-05-24T18:38:20'
+  crc: '0x8fb93f27'
+- name: T-ZERO.EXE
+  size: 84251
+  date: '1991-05-29T19:04:52'
+  crc: '0xbc59fd2c'
+- name: T-ZERO.MAN
+  size: 34832
+  date: '1991-05-18T09:28:10'
+  crc: '0x8570a161'
+- name: VENDOR.DOC
+  size: 3129
+  date: '1991-05-24T04:17:50'
+  crc: '0x1e7fc088'

@@ -1,0 +1,53 @@
+filename: Laser Squad (Installer) [f1] (1992)(MicroLeague Multimedia, Inc.) [Strategy][!].zip
+tdc_id: '6286.4'
+title:
+  box: Laser Squad
+publisher: MicroLeague Multimedia, Inc.
+year: '1992'
+genre: Strategy
+language: English
+date:
+  added: '2020-04-19T11:22:04'
+  last_modified: '2020-04-19T11:22:04'
+type: zip
+tags:
+- KnownGood
+- Fixed: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK.ID
+  size: 28
+  date: '1992-11-05T04:45:40'
+  crc: '0x5f170fca'
+- name: DISK2.ID
+  size: 28
+  date: '1992-11-05T05:04:06'
+  crc: '0x5d51b193'
+- name: INSTALL.DAT
+  size: 17454
+  date: '1992-11-05T05:27:56'
+  crc: '0x3eed4617'
+- name: INSTALL.DA_
+  size: 17454
+  date: '1992-11-05T05:27:56'
+  crc: '0xe7143161'
+- name: INSTALL.EXE
+  size: 90304
+  date: '1992-11-05T04:45:40'
+  crc: '0x929e6b84'
+- name: LASER.001
+  size: 1339874
+  date: '1992-11-05T05:03:30'
+  crc: '0x5cf33449'
+- name: LASER.002
+  size: 1321696
+  date: '1992-11-05T05:24:40'
+  crc: '0xe376169d'
+- name: LASERSQU.AD1
+  size: 0
+  date: '1992-11-05T04:39:48'
+- name: LASERSQU.AD2
+  size: 0
+  date: '1992-11-05T04:40:12'

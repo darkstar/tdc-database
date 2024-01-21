@@ -1,0 +1,77 @@
+filename: Adventure Fun-Pak (1989)(Apogee Software, Ltd.) [Compilation].zip
+tdc_id: '8112.0'
+title:
+  screen: Adventure Fun-Pak
+publisher: Apogee Software, Ltd.
+year: '1989'
+genre: Compilation
+language: English
+date:
+  added: '2019-03-01T18:27:08'
+  last_modified: '2019-03-01T18:27:08'
+type: zip
+compilation: true
+references:
+  dosid: DOS04161
+  exodos: Puzzle Fun-Pak (1989).zip
+files:
+- name: ADV-MENU.COM
+  size: 13659
+  date: '1988-12-10T22:26:18'
+  crc: '0x688947fe'
+- name: ADV.BAT
+  size: 32
+  date: '1989-01-11T23:53:00'
+  crc: '0xe825b977'
+- name: BOMBER.COM
+  size: 16269
+  date: '1988-12-10T22:25:10'
+  crc: '0x675f994d'
+- name: LIST.COM
+  size: 9209
+  date: '1988-10-14T17:06:40'
+  crc: '0xa072a2c4'
+- name: NOSLOW.COM
+  size: 128
+  date: '1986-01-09T00:08:32'
+  crc: '0x52cee980'
+- name: PASRUN.COM
+  size: 12230
+  date: '1990-08-19T19:04:20'
+  crc: '0x0706fe50'
+- name: RAIDERS.COM
+  size: 25679
+  date: '1988-12-10T22:24:16'
+  crc: '0x943914b7'
+- name: RAIDERS.EXE
+  size: 25679
+  date: '1990-11-10T13:00:16'
+  crc: '0x943914b7'
+- name: README.TXT
+  size: 7980
+  date: '1989-01-11T23:55:20'
+  crc: '0x5b707250'
+- name: RESCUE.EXE
+  size: 23912
+  date: '1990-11-10T13:00:22'
+  crc: '0x7b1c8db0'
+- name: RUNNER.COM
+  size: 23997
+  date: '1988-12-10T22:25:46'
+  crc: '0x6bf7d886'
+- name: RUNNER.EXE
+  size: 23997
+  date: '1990-11-10T13:00:46'
+  crc: '0x6bf7d886'
+- name: SLOW.COM
+  size: 128
+  date: '1986-01-09T00:07:40'
+  crc: '0x1cebbaf8'
+- name: SLOW.DOC
+  size: 1024
+  date: '1986-01-09T00:08:10'
+  crc: '0xf48f6a18'
+- name: THING.COM
+  size: 24094
+  date: '1988-12-10T22:26:00'
+  crc: '0x7b28c505'

@@ -1,0 +1,45 @@
+filename: 忘國戰記- 잊혀진 나라의 이야기 (Installer) (Ko) (1995)(Mirinae Software, Pantech) [Role-Playing (RPG)].zip
+tdc_id: '6536.0'
+title:
+  screen: '忘國戰記: 잊혀진 나라의 이야기'
+  translation: The Romance of Forgotten Kingdom
+  transliteration: 'Mangguk Jeon''gi: Ichyeojin Nara-ui Iyagi'
+  qualifier: Installer
+publisher: Mirinae Software, Pantech
+year: '1995'
+genre: Role-Playing (RPG)
+language: Korean
+date:
+  added: '2021-02-24T14:20:16'
+  last_modified: '2023-06-29T18:41:53'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/56501/the-romance-of-forgotten-kingdom/
+files:
+- name: INSTALL.EXE
+  size: 92749
+  date: '1995-12-10T15:14:52'
+  crc: '0x1fceb69f'
+- name: RPG.001
+  size: 1053479
+  date: '1995-12-11T15:10:04'
+  crc: '0x867619f4'
+- name: RPG.002
+  size: 1148106
+  date: '1995-12-11T15:15:36'
+  crc: '0x2170521c'
+- name: RPG.003
+  size: 1190723
+  date: '1995-12-09T18:25:22'
+  crc: '0x5868632e'
+- name: RPG.004
+  size: 730574
+  date: '1995-12-12T23:24:50'
+  crc: '0x00c775f5'
+- name: SETUP.INI
+  size: 247
+  date: '1995-12-10T15:43:28'
+  crc: '0xd7bb0218'

@@ -1,0 +1,44 @@
+filename: Life & Death v1.06 (1988)(Software Toolworks, Inc., The) [Simulation].zip
+tdc_id: '5591.3'
+title:
+  box: Life & Death
+publisher: Software Toolworks, Inc., The
+year: '1988'
+genre: Simulation
+language: English
+date:
+  added: '2021-06-07T18:07:10'
+  last_modified: '2021-06-07T18:07:10'
+version: '1.06'
+type: zip
+commands:
+  play: LND.EXE
+files:
+- name: DIAG.VCE
+  size: 2731
+  date: '1991-07-18T12:12:26'
+  crc: '0xe6e84078'
+- name: LND.EXE
+  size: 340753
+  date: '1991-07-18T12:12:24'
+  crc: '0xddf6dc1b'
+- name: LND.EX_
+  size: 340753
+  date: '1991-07-18T12:12:24'
+  crc: '0xe8cdf1dc'
+- name: LND_SURG.DAT
+  size: 3450
+  date: '2000-07-11T07:23:36'
+  crc: '0x9e100703'
+- name: SCR.VCE
+  size: 5339
+  date: '1991-07-18T12:15:06'
+  crc: '0xf4163237'
+- name: SURGERY1.LND
+  size: 269909
+  date: '1991-07-18T12:14:10'
+  crc: '0xb0c2c196'
+- name: SURGERY2.LND
+  size: 266387
+  date: '1991-07-18T12:15:04'
+  crc: '0xfedcdfb8'

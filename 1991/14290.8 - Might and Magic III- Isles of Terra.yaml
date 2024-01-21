@@ -1,0 +1,36 @@
+filename: Might and Magic III- Isles of Terra (Installer) (De) (1991)(Softgold Computerspiele GmbH) [Role-Playing (RPG)].zip
+tdc_id: '14290.8'
+title:
+  box: 'Might and Magic III: Isles of Terra'
+publisher: Softgold Computerspiele GmbH
+year: '1991'
+genre: Role-Playing (RPG)
+language: German
+date:
+  added: '2021-12-03T16:26:14'
+  last_modified: '2021-12-03T16:26:14'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 23493
+  date: '1991-11-26T14:35:50'
+  crc: '0x8ed100ac'
+- name: MM3.NWC
+  size: 127971
+  date: '1991-12-01T06:34:46'
+  crc: '0xa7c06647'
+- name: MM3.PT0
+  size: 1062400
+  date: '1991-12-01T06:36:38'
+  crc: '0xe8c55734'
+- name: MM3.PT1
+  size: 1213952
+  date: '1991-12-01T06:38:54'
+  crc: '0xf496200a'
+- name: MM3.PT2
+  size: 1149779
+  date: '1991-12-01T06:41:06'
+  crc: '0x38f18b69'

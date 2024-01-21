@@ -1,0 +1,64 @@
+filename: Cynet (1998)(Necromason) [Action].zip
+tdc_id: '12287.0'
+title:
+  screen: Cynet
+publisher: Necromason
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:41:06'
+  last_modified: '2019-03-02T10:41:06'
+type: zip
+media: Download
+commands:
+  play: start.bat
+files:
+- name: CYNET.BAS
+  size: 6464
+  date: '1998-11-26T01:47:14'
+  crc: '0x9c3400f7'
+- name: CYNET.PIC
+  size: 64007
+  date: '1998-11-21T05:10:52'
+  crc: '0x2151cef4'
+- name: CYNET1.PIC
+  size: 64007
+  date: '1998-11-25T01:46:00'
+  crc: '0xf21cd920'
+- name: CYNET2.PIC
+  size: 64007
+  date: '1998-11-24T22:37:08'
+  crc: '0xda96bc10'
+- name: CYNET3.PIC
+  size: 64007
+  date: '1998-11-24T22:37:20'
+  crc: '0x1d4d242c'
+- name: CYNET4.PIC
+  size: 64007
+  date: '1998-11-24T22:37:28'
+  crc: '0x2b4a7c17'
+- name: CYNET5.PIC
+  size: 64007
+  date: '1998-11-25T23:49:20'
+  crc: '0x0ab55cd7'
+- name: GAMEPAL.PAL
+  size: 2376
+  date: '1998-11-21T05:11:34'
+  crc: '0xafdb42df'
+- name: NECRO.PIC
+  size: 64007
+  date: '1998-11-24T22:36:50'
+  crc: '0xd2e44624'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1995-07-11T10:50:00'
+  crc: '0x3152911c'
+- name: cynet.txt
+  size: 1613
+  date: '1998-11-26T02:57:26'
+  crc: '0x16d552e9'
+- name: start.bat
+  size: 23
+  date: '2014-03-04T18:46:40'
+  crc: '0xb5b49035'

@@ -1,0 +1,157 @@
+filename: 2400 A.D. (1988)(ORIGIN Systems, Inc.) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '5420.0'
+parent_id: '5420.2'
+title:
+  box: 2400 A.D.
+publisher: ORIGIN Systems, Inc.
+year: '1988'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2022-05-10T10:02:00'
+  last_modified: '2022-05-10T10:02:00'
+type: zip
+commands:
+  play: 2400AD.EXE
+references:
+  dosid: DOS00631
+  exodos: 2400 AD (1988).zip
+files:
+- name: 2400.CH
+  size: 1024
+  date: '1988-03-28T12:47:54'
+  crc: '0xdabb8ee6'
+- name: 2400.HCS
+  size: 3072
+  date: '1988-06-02T13:38:30'
+  crc: '0x64c3a9d5'
+- name: 2400AD.EXE
+  size: 26496
+  date: '1988-08-02T08:41:22'
+  crc: '0x813fa4fb'
+- name: 2400AD.EX_
+  size: 26496
+  date: '1988-08-02T08:41:22'
+  crc: '0x5a7eee96'
+- name: AD.16
+  size: 4134
+  date: '1988-06-08T15:18:54'
+  crc: '0xafc18c05'
+- name: AD.4
+  size: 3606
+  date: '1988-06-08T15:18:46'
+  crc: '0x235dc2e2'
+- name: BLST.A
+  size: 512
+  date: '1988-01-13T07:34:38'
+  crc: '0xd08fcec5'
+- name: BLST.B
+  size: 512
+  date: '1988-01-13T07:35:08'
+  crc: '0x3b624d53'
+- name: CGA.DRV
+  size: 5751
+  date: '1988-07-26T10:48:20'
+  crc: '0x67e53aba'
+- name: DATA.OVL
+  size: 50368
+  date: '1988-08-02T08:41:22'
+  crc: '0x194ed7d4'
+- name: EGA.DRV
+  size: 8441
+  date: '1988-06-13T08:43:32'
+  crc: '0x47f63958'
+- name: GAME.OVL
+  size: 35728
+  date: '1988-08-02T08:41:02'
+  crc: '0x6320c78f'
+- name: GENISIS.OVL
+  size: 2272
+  date: '1988-08-02T08:41:04'
+  crc: '0xd8b8c460'
+- name: GUPPY1.OVL
+  size: 2864
+  date: '1988-08-01T15:19:02'
+  crc: '0xa64961f1'
+- name: GUPPY2.OVL
+  size: 1536
+  date: '1988-08-01T15:19:04'
+  crc: '0xdf616a2f'
+- name: GUPPY3.OVL
+  size: 624
+  date: '1988-08-01T15:19:04'
+  crc: '0x852e5b4d'
+- name: HER.DRV
+  size: 6631
+  date: '1988-06-08T18:02:30'
+  crc: '0xb388df6f'
+- name: MAP.A
+  size: 28160
+  date: '1988-01-11T16:20:08'
+  crc: '0xe55a75af'
+- name: MAP.B
+  size: 37376
+  date: '1988-01-11T16:20:14'
+  crc: '0x1244ff8b'
+- name: MERCH.OVL
+  size: 2960
+  date: '1988-08-02T08:41:06'
+  crc: '0x12c6f506'
+- name: MERCH2.OVL
+  size: 2048
+  date: '1988-08-02T08:41:06'
+  crc: '0x18058631'
+- name: MERCH3.OVL
+  size: 2048
+  date: '1988-08-02T08:41:08'
+  crc: '0x84cff57e'
+- name: MTALK.DAT
+  size: 4791
+  date: '1988-07-10T15:56:34'
+  crc: '0xbd81e58a'
+- name: SAVED.GAM
+  size: 4994
+  date: '1994-09-19T13:03:48'
+  crc: '0x7e8660a4'
+- name: STUFF.OVL
+  size: 2960
+  date: '1988-08-02T08:41:10'
+  crc: '0x5601ac4c'
+- name: STUFF2.OVL
+  size: 2352
+  date: '1988-08-02T08:41:12'
+  crc: '0x91f939bc'
+- name: T1K.DRV
+  size: 4271
+  date: '1988-08-08T14:25:46'
+  crc: '0xf90df6c7'
+- name: TABLES
+  size: 4256
+  date: '1988-07-17T13:14:56'
+  crc: '0x99ed046f'
+- name: TALK4.DAT
+  size: 20864
+  date: '1988-03-23T10:35:04'
+  crc: '0x64906134'
+- name: TALKNEW.DAT
+  size: 2316
+  date: '1988-05-20T21:14:44'
+  crc: '0xfe1a0c78'
+- name: TILES.16
+  size: 32768
+  date: '1988-07-20T14:10:20'
+  crc: '0x24a50509'
+- name: TILES.4
+  size: 16384
+  date: '1988-07-18T08:24:20'
+  crc: '0xe0535bb3'
+- name: TITLE.DAT
+  size: 18000
+  date: '1988-04-15T09:53:50'
+  crc: '0x9fdb6ef3'
+- name: TITLE.OVL
+  size: 1232
+  date: '1988-08-02T08:40:44'
+  crc: '0x9acc5497'

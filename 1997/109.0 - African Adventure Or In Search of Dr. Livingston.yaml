@@ -1,0 +1,36 @@
+filename: African Adventure Or In Search of Dr. Livingston (1997)(Tony Baechler) [Adventure, Interactive Fiction].zip
+tdc_id: '109.0'
+title:
+  screen: African Adventure Or In Search of Dr. Livingston
+publisher: Tony Baechler
+year: '1997'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T10:23:42'
+  last_modified: '2019-03-02T10:23:42'
+type: zip
+commands:
+  play: african.exe
+references:
+  dosid: DOS00017
+  exodos: African Adventure Or In Search of Dr. Livingston (1997).zip
+files:
+- name: african.bas
+  size: 30025
+  date: '1997-09-28T14:51:04'
+  crc: '0xe1b9b2fe'
+- name: african.exe
+  size: 58283
+  date: '1997-09-28T20:15:26'
+  crc: '0xbd60e009'
+- name: african.txt
+  size: 2957
+  date: '1997-09-28T20:32:32'
+  crc: '0x56216ed7'
+- name: afrsrc.bas
+  size: 28153
+  date: '1994-11-05T20:54:58'
+  crc: '0xe035fa9b'

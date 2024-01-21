@@ -1,0 +1,23 @@
+filename: Universe (Es) (1994)(Core Design Ltd.) [Adventure].zip
+tdc_id: '7326.3'
+title:
+  box: Universe
+publisher: Core Design Ltd.
+year: '1994'
+genre: Adventure
+language: Spanish
+date:
+  added: '2019-03-02T07:18:58'
+  last_modified: '2019-03-02T07:18:58'
+type: zip
+commands:
+  play: UNIVERSE.EXE
+files:
+- name: UNIVERSE.EPF
+  size: 6217836
+  date: '1995-03-14T12:33:26'
+  crc: '0x56c5afcb'
+- name: UNIVERSE.EXE
+  size: 94632
+  date: '1995-03-14T12:33:26'
+  crc: '0xf7a86c02'

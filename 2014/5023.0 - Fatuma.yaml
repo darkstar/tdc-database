@@ -1,0 +1,56 @@
+filename: Fatuma [FW] (2014)(Michael Muniko) [Simulation, Strategy].zip
+tdc_id: '5023.0'
+title:
+  screen: Fatuma
+publisher: Michael Muniko
+year: '2014'
+genre:
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2019-03-02T10:58:04'
+  last_modified: '2019-03-02T10:58:04'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: fatuma.exe
+files:
+- name: fatuma.exe
+  size: 137104
+  date: '2015-10-05T16:48:44'
+  crc: '0xe77eb252'
+- name: fatuma.txt
+  size: 466
+  date: '2015-10-05T16:54:16'
+  crc: '0x7120db9d'
+- name: hiscore.dat
+  size: 10
+  date: '2015-10-05T16:40:14'
+  crc: '0x75dea3be'
+- name: insts.dat
+  size: 4096
+  date: '2015-10-05T13:33:06'
+  crc: '0x6b80da67'
+- name: lev1.sng
+  size: 516
+  date: '2015-10-05T11:44:24'
+  crc: '0x502110cd'
+- name: lev2.sng
+  size: 736
+  date: '2014-08-30T10:25:30'
+  crc: '0x54e816a4'
+- name: lev3.sng
+  size: 2486
+  date: '2014-08-30T10:25:32'
+  crc: '0x0314665f'
+- name: logo.sng
+  size: 436
+  date: '2015-09-11T20:44:32'
+  crc: '0x284e3318'
+- name: lose.sng
+  size: 346
+  date: '2015-10-05T12:51:56'
+  crc: '0x0064e778'

@@ -1,0 +1,88 @@
+filename: TimeKeeper (1999)(Glenn Powell) [Strategy, Puzzle].zip
+tdc_id: '16736.0'
+title:
+  screen: TimeKeeper
+publisher: Glenn Powell
+year: '1999'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-03-02T10:46:34'
+  last_modified: '2019-03-02T10:46:34'
+type: zip
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 24
+  date: '2019-01-06T14:35:44'
+  crc: '0xacd33c6e'
+- name: Intro.img
+  size: 64007
+  date: '1999-09-09T16:27:56'
+  crc: '0x6a1cacef'
+- name: Intro.pal
+  size: 771
+  date: '1999-09-09T16:27:56'
+  crc: '0x75cfa459'
+- name: Manual.txt
+  size: 1830
+  date: '1999-09-09T19:05:16'
+  crc: '0x622640c5'
+- name: QB.EXE
+  size: 278804
+  date: '2016-03-13T01:19:56'
+  crc: '0xb08bc0fe'
+- name: Sound\
+  size: 0
+  date: '1999-09-09T14:59:00'
+- name: Sound\blast.wav
+  size: 12258
+  date: '1999-09-09T15:41:34'
+  crc: '0xc79c8ff0'
+- name: Sound\bounce.wav
+  size: 2280
+  date: '1999-09-09T15:08:04'
+  crc: '0x8fb033d0'
+- name: Sound\burn.wav
+  size: 11938
+  date: '1999-09-09T15:20:04'
+  crc: '0x388e5368'
+- name: Sound\jump.wav
+  size: 4076
+  date: '1999-09-09T15:03:16'
+  crc: '0x60dee9a3'
+- name: Sound\reverse.wav
+  size: 5104
+  date: '1999-09-09T15:38:14'
+  crc: '0xd8e4098c'
+- name: Sound\switch.wav
+  size: 3562
+  date: '1999-09-09T15:43:34'
+  crc: '0xd14ab2a8'
+- name: Sound\win.wav
+  size: 15018
+  date: '1999-09-09T17:35:16'
+  crc: '0x8138c563'
+- name: TIMEKEEP.BAS
+  size: 22331
+  date: '2019-01-06T14:39:18'
+  crc: '0x6b420f7d'
+- name: TIMEKEEP.SRC
+  size: 22319
+  date: '1999-09-10T00:55:16'
+  crc: '0x59905d41'
+- name: TK1.LVL
+  size: 122754
+  date: '1999-09-09T14:42:04'
+  crc: '0xf7ddce41'
+- name: TK2.LVL
+  size: 122754
+  date: '1999-09-09T17:27:10'
+  crc: '0xb5f7c9ff'
+- name: TKEDIT.BAS
+  size: 13277
+  date: '1999-09-11T11:07:52'
+  crc: '0x58912f27'

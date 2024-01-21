@@ -1,0 +1,31 @@
+filename: Epsilon Games (Installer) [FW] (1996)(Synchronous Systems) [Action].zip
+tdc_id: '9049.0'
+title:
+  screen: Epsilon Games
+publisher: Synchronous Systems
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-01-23T12:58:46'
+  last_modified: '2019-01-23T12:58:46'
+type: zip
+tags:
+- Freeware
+media: Download
+installer: true
+commands:
+  play: E-GAME10.EXE
+files:
+- name: E-GAME10.EXE
+  size: 390584
+  date: '1996-03-25T09:26:56'
+  crc: '0xaf16a7b2'
+- name: FILE_ID.DIZ
+  size: 134
+  date: '1996-05-09T17:20:54'
+  crc: '0x6f86aba5'
+- name: INSTALL.TXT
+  size: 537
+  date: '1996-03-25T20:21:42'
+  crc: '0x159534ce'

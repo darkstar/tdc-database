@@ -1,0 +1,91 @@
+filename: Crisis in the Kremlin (Installer) [f1] (1991)(Spectrum HoloByte, Inc.) [Strategy].zip
+tdc_id: '9379.2'
+title:
+  box: Crisis in the Kremlin
+publisher: Spectrum HoloByte, Inc.
+year: '1991'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:35:26'
+  last_modified: '2019-03-01T18:35:26'
+type: zip
+tags:
+- Fixed: 1
+installer: true
+references:
+  dosid: DOS01565
+  exodos: Crisis in the Kremlin (1992).zip
+files:
+- name: CRISIS.001
+  size: 160910
+  date: '1992-05-10T17:46:28'
+  crc: '0xda7eb3ed'
+- name: CRISIS.002
+  size: 314880
+  date: '1992-05-10T17:48:08'
+  crc: '0xc2a82335'
+- name: CRISIS.003
+  size: 344064
+  date: '1992-05-10T17:49:58'
+  crc: '0xb6971dc5'
+- name: CRISIS.004
+  size: 230363
+  date: '1992-05-10T17:51:34'
+  crc: '0x78c17fea'
+- name: DISK.ID
+  size: 37
+  date: '1992-05-10T17:45:40'
+  crc: '0x0d96975e'
+- name: INSTALL.DAT
+  size: 13385
+  date: '2011-11-15T21:44:36'
+  crc: '0x9fe4efb2'
+- name: INSTALL.DA_
+  size: 13385
+  date: '1992-05-09T01:36:46'
+  crc: '0x92a0db7d'
+- name: INSTALL.EXE
+  size: 76558
+  date: '1992-05-10T17:45:34'
+  crc: '0x8c6c0c69'
+- name: KREMLIN1.PAA
+  size: 1111448
+  date: '1992-04-29T21:31:12'
+  crc: '0x083ac4fc'
+- name: KREMLIN5.LE2
+  size: 23074
+  date: '1992-05-04T13:59:32'
+  crc: '0x68a3d793'
+- name: KREMLING.EXE
+  size: 5394
+  date: '1992-05-01T16:18:12'
+  crc: '0xe89762d1'
+- name: KREMLN2A.PAA
+  size: 1130198
+  date: '1992-05-06T12:06:56'
+  crc: '0x0ffe0c67'
+- name: KREMLN3A.PAA
+  size: 1100845
+  date: '1992-05-06T12:37:52'
+  crc: '0xe2160547'
+- name: KREMLN4A.LE2
+  size: 894501
+  date: '1992-05-06T12:29:22'
+  crc: '0x545fb1e4'
+- name: README.TXT
+  size: 1786
+  date: '1992-05-10T18:05:50'
+  crc: '0x466d268c'
+- name: SOUNDID.EXE
+  size: 4245
+  date: '1992-05-10T17:45:36'
+  crc: '0x3a295bf5'
+- name: UTLUNZIP.EXE
+  size: 12774
+  date: '1992-05-10T17:45:34'
+  crc: '0xb00d24fa'
+- name: VIDEOID.EXE
+  size: 4035
+  date: '1992-05-10T17:45:36'
+  crc: '0xdea4f47b'

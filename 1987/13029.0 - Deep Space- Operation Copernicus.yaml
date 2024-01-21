@@ -1,0 +1,52 @@
+filename: Deep Space- Operation Copernicus (1987)(Sir-tech Software, Inc.) [Action, Simulation].zip
+tdc_id: '13029.0'
+title:
+  box: 'Deep Space: Operation Copernicus'
+publisher: Sir-tech Software, Inc.
+year: '1987'
+genre:
+- Action
+- Simulation
+language: English
+date:
+  added: '2020-06-18T08:18:38'
+  last_modified: '2020-06-18T08:18:38'
+type: zip
+commands:
+  play: DS.EXE
+references:
+  dosid: DOS01709
+  exodos: Deep Space Operation Copernicus (1987).zip
+files:
+- name: DEEP.DOC
+  size: 15130
+  date: '1987-10-26T00:26:32'
+  crc: '0x30b0a3bf'
+- name: DS.EXE
+  size: 70656
+  date: '1987-10-19T02:48:36'
+  crc: '0x96959ea8'
+- name: DS.EX_
+  size: 70656
+  date: '1987-08-14T11:50:16'
+  crc: '0xdacf0e70'
+- name: LAND.PIC
+  size: 16384
+  date: '1986-12-29T19:27:18'
+  crc: '0xa46cc6c5'
+- name: LEFT.PIC
+  size: 16384
+  date: '1987-02-26T14:32:08'
+  crc: '0x46ca8dea'
+- name: LS.PIC
+  size: 16384
+  date: '1987-02-05T12:31:48'
+  crc: '0x51fb390e'
+- name: RIGHT.PIC
+  size: 16384
+  date: '1987-02-28T17:59:54'
+  crc: '0x7e5d0840'
+- name: TITLE.PIC
+  size: 16384
+  date: '1986-12-29T19:27:46'
+  crc: '0x64ae267f'

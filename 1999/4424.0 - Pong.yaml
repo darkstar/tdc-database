@@ -1,0 +1,27 @@
+filename: Pong (1999)(Black Maiden) [Action].zip
+tdc_id: '4424.0'
+title:
+  screen: Pong
+publisher: Black Maiden
+year: '1999'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:46:20'
+  last_modified: '2019-03-02T10:46:20'
+type: zip
+commands:
+  play: PONG.EXE
+files:
+- name: PONG.DIZ
+  size: 187
+  date: '1999-09-14T16:46:42'
+  crc: '0x940ae9d3'
+- name: PONG.EXE
+  size: 4159
+  date: '1999-09-04T19:31:02'
+  crc: '0x796c1db4'
+- name: PONG.TXT
+  size: 1386
+  date: '1999-09-14T16:45:48'
+  crc: '0xf48ebbd1'

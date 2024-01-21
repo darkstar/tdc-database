@@ -1,0 +1,33 @@
+filename: Adventure Castle (2001)(Dave Dunfield) [Adventure, Interactive Fiction].zip
+tdc_id: '8110.0'
+title:
+  screen: Adventure Castle
+publisher: Dave Dunfield
+year: '2001'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T10:55:10'
+  last_modified: '2019-03-02T10:55:10'
+type: zip
+commands:
+  play: castle.com
+files:
+- name: castle.c
+  size: 44619
+  date: '2001-11-26T08:21:52'
+  crc: '0x7c54cbae'
+- name: castle.com
+  size: 23009
+  date: '2001-11-26T08:21:52'
+  crc: '0x758406d5'
+- name: castle.dat
+  size: 34207
+  date: '2001-11-26T08:21:52'
+  crc: '0x899cd5fa'
+- name: castle.hlp
+  size: 1364
+  date: '2001-11-26T08:21:52'
+  crc: '0xb5b7d339'

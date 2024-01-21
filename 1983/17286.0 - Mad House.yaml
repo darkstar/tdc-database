@@ -1,0 +1,30 @@
+filename: Mad House (1983)(Usborne Publishing Ltd) [Action, Puzzle].zip
+tdc_id: '17286.0'
+title:
+  screen: Mad House
+publisher: Usborne Publishing Ltd
+year: '1983'
+genre:
+- Action
+- Puzzle
+language: English
+date:
+  added: '2023-03-16T07:41:03'
+  last_modified: '2023-03-16T07:41:03'
+type: zip
+media: Type-In
+commands:
+  play: Go.bat
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T12:00:00'
+  crc: '0x92293842'
+- name: Go.bat
+  size: 15
+  date: '2022-08-02T20:32:58'
+  crc: '0xbf23b33a'
+- name: madhouse.bas
+  size: 1186
+  date: '2022-08-02T20:30:34'
+  crc: '0x6871d185'

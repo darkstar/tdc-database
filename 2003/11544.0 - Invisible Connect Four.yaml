@@ -1,0 +1,27 @@
+filename: Invisible Connect Four (2003)(Benjamin Wolf) [Strategy].zip
+tdc_id: '11544.0'
+title:
+  screen: Invisible Connect Four
+publisher: Benjamin Wolf
+year: '2003'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:56:30'
+  last_modified: '2019-03-02T10:56:30'
+type: zip
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 22
+  date: '2018-02-10T11:29:30'
+  crc: '0x109dc26f'
+- name: INVIS4.BAS
+  size: 5888
+  date: '2012-04-25T21:22:54'
+  crc: '0x49b4954a'
+- name: QB.EXE
+  size: 278804
+  date: '2016-03-12T18:19:58'
+  crc: '0xb08bc0fe'

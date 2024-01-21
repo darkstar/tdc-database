@@ -1,0 +1,30 @@
+filename: CATCH88 (1982)(RKC) [Action].zip
+tdc_id: '998.0'
+title:
+  screen: CATCH88
+publisher: RKC
+year: '1982'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:22:58'
+  last_modified: '2019-03-01T18:22:58'
+type: zip
+commands:
+  play: CATCH88.BAT
+references:
+  dosid: DOS06767
+  exodos: Catch88 (1982).zip
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: CATCH88.BAS
+  size: 6016
+  date: '1982-12-03T15:15:34'
+  crc: '0x19748739'
+- name: CATCH88.BAT
+  size: 17
+  date: '2014-12-19T01:12:36'
+  crc: '0xaf8d2fb6'

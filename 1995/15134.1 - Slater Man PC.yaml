@@ -1,0 +1,34 @@
+filename: Slater Man PC (Pl) (1995)(TimSoft) [Action].zip
+tdc_id: '15134.1'
+title:
+  screen: Slater Man PC
+publisher: TimSoft
+year: '1995'
+genre: Action
+language: Polish
+date:
+  added: '2021-05-07T04:14:52'
+  last_modified: '2022-12-28T12:09:00'
+type: zip
+commands:
+  play: SLATER.EXE
+  setup: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/slater-man-pc
+files:
+- name: PROBLEMY.TXT
+  size: 3700
+  date: '1995-12-13T21:21:44'
+  crc: '0x10c3a5e6'
+- name: SETUP.EXE
+  size: 5415
+  date: '1995-12-13T21:21:44'
+  crc: '0xb2246f43'
+- name: SLATER.DAT
+  size: 2505187
+  date: '1995-12-13T21:21:44'
+  crc: '0xe284bbde'
+- name: SLATER.EXE
+  size: 1553
+  date: '1995-12-13T21:21:44'
+  crc: '0x1a77346d'

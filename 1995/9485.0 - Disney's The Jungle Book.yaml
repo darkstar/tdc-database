@@ -1,0 +1,42 @@
+filename: Disney's The Jungle Book v2.1 (1995)(Virgin Interactive Entertainment (Europe) Ltd.) [Action].zip
+tdc_id: '9485.0'
+parent_id: '9485.1'
+title:
+  box: Disney's The Jungle Book
+publisher: Virgin Interactive Entertainment (Europe) Ltd.
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T08:43:28'
+  last_modified: '2019-03-02T08:43:28'
+version: '2.1'
+type: zip
+references:
+  dosid: DOS05527
+  exodos: Walt Disney's The Jungle Book (1995).zip
+files:
+- name: EPSMIX32.DLL
+  size: 6144
+  date: '1995-10-23T16:05:22'
+  crc: '0xfe73806a'
+- name: INSTALL.EXE
+  size: 13048
+  date: '1995-10-23T16:05:22'
+  crc: '0x042754a4'
+- name: JUNGLE.CFG
+  size: 125
+  date: '1995-10-23T16:05:22'
+  crc: '0x96dc15f6'
+- name: JUNGLE.EPF
+  size: 2285395
+  date: '1995-10-23T16:05:22'
+  crc: '0xb1df83db'
+- name: JUNGLE.EXE
+  size: 635639
+  date: '1995-10-23T16:05:22'
+  crc: '0x6dcdcff1'
+- name: JUNGLEW.EXE
+  size: 265728
+  date: '1995-10-23T16:05:22'
+  crc: '0xb92f8b20'

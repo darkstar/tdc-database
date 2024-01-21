@@ -1,0 +1,45 @@
+filename: Daemon Quest- The First Saga- The Legend of the Door [SW] (1989)(Steve Blanding) [Adventure].zip
+tdc_id: '12893.0'
+title:
+  screen: 'Daemon Quest: The First Saga: The Legend of the Door'
+publisher: Steve Blanding
+year: '1989'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:27:34'
+  last_modified: '2019-03-01T18:27:34'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: DQUEST.EXE
+references:
+  dosid: DOS00144
+  exodos: Daemon Quest - The First Saga - The Legend of the Door (1989).zip
+files:
+- name: DQUEST.COD
+  size: 152880
+  date: '1990-09-27T13:57:50'
+  crc: '0xe28ff1d2'
+- name: DQUEST.EXE
+  size: 20752
+  date: '1990-01-26T09:20:18'
+  crc: '0x70987427'
+- name: DQUEST.ITM
+  size: 6000
+  date: '1990-09-27T13:57:50'
+  crc: '0x1b5f7163'
+- name: DQUEST.ROM
+  size: 20000
+  date: '1990-09-27T13:57:50'
+  crc: '0x24f3078e'
+- name: DQUEST.WRD
+  size: 32500
+  date: '1990-02-03T22:45:32'
+  crc: '0xa79d5174'
+- name: README
+  size: 10487
+  date: '1990-11-27T11:44:38'
+  crc: '0x1c40afa6'

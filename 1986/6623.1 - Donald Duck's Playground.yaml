@@ -1,0 +1,64 @@
+filename: Donald Duck's Playground v1.0a (1986)(Sierra On-Line, Inc.) [Educational].zip
+tdc_id: '6623.1'
+title:
+  box: Donald Duck's Playground
+publisher: Sierra On-Line, Inc.
+year: '1986'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T18:24:46'
+  last_modified: '2019-03-01T18:24:46'
+version: 1.0a
+type: zip
+commands:
+  play: SIERRA.EXE
+files:
+- name: AGIDATA.OVL
+  size: 6656
+  date: '1986-11-07T08:27:02'
+  crc: '0x3d5d7bad'
+- name: CGA_GRAF.OVL
+  size: 1024
+  date: '1986-11-07T08:25:10'
+  crc: '0xe7c78dc1'
+- name: EGA_GRAF.OVL
+  size: 1024
+  date: '1986-11-07T08:25:12'
+  crc: '0x33daae91'
+- name: JR_GRAF.OVL
+  size: 512
+  date: '1986-11-07T08:25:10'
+  crc: '0xfde4aeac'
+- name: OBJECT
+  size: 61
+  date: '1986-02-05T23:04:52'
+  crc: '0xaaa435af'
+- name: PICDIR
+  size: 90
+  date: '1986-02-05T23:04:58'
+  crc: '0x2bb1f99e'
+- name: SIERRA.EXE
+  size: 34816
+  date: '1999-07-15T20:03:36'
+  crc: '0x42ef4e31'
+- name: SNDDIR
+  size: 81
+  date: '1986-02-05T23:05:02'
+  crc: '0xc8acda2b'
+- name: VIEWDIR
+  size: 510
+  date: '1986-02-05T23:05:08'
+  crc: '0x1ff418f0'
+- name: VOL.0
+  size: 167848
+  date: '1986-02-05T23:05:12'
+  crc: '0x332d346f'
+- name: WORDS.TOK
+  size: 221
+  date: '1986-02-05T23:06:10'
+  crc: '0xd849cec1'
+- name: logdir
+  size: 132
+  date: '1986-02-05T23:04:46'
+  crc: '0x084a8014'

@@ -1,0 +1,35 @@
+filename: Legend of Dragon (Ko) (1994)(DAWN Soft) [Role-Playing (RPG)].zip
+tdc_id: '3140.0'
+title:
+  screen: Legend of Dragon
+publisher: DAWN Soft
+year: '1994'
+genre: Role-Playing (RPG)
+language: Korean
+date:
+  added: '2019-03-01T22:01:20'
+  last_modified: '2019-03-01T22:01:20'
+type: zip
+commands:
+  play: DAWN.EXE
+files:
+- name: DAWN.DAT
+  size: 93084
+  date: '1994-08-29T07:23:24'
+  crc: '0x1e395730'
+- name: DAWN.EXE
+  size: 119004
+  date: '1996-04-15T16:30:06'
+  crc: '0xef8861f7'
+- name: MAP.DAT
+  size: 47200
+  date: '1994-08-05T11:24:02'
+  crc: '0x0d43eee8'
+- name: MUSIC.DAT
+  size: 233804
+  date: '1994-08-31T04:03:58'
+  crc: '0x32bfb48c'
+- name: PIC.DAT
+  size: 846579
+  date: '1994-08-05T11:25:14'
+  crc: '0x9feb5f27'

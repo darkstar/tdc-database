@@ -1,0 +1,30 @@
+filename: Breakout [SW] (1991)(Ian Warmby) [Action].zip
+tdc_id: '8855.0'
+title:
+  screen: Breakout
+publisher: Ian Warmby
+year: '1991'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:35:06'
+  last_modified: '2019-03-01T18:35:06'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: BREAKOUT.EXE
+files:
+- name: BREAKOUT.EXE
+  size: 24160
+  date: '1980-01-08T22:15:36'
+  crc: '0x80b58076'
+- name: INSTRUCT.DOC
+  size: 3675
+  date: '1980-01-02T23:13:00'
+  crc: '0x6967db3e'
+- name: REGISTER.DOC
+  size: 3219
+  date: '1980-01-02T23:15:32'
+  crc: '0x379fa9da'

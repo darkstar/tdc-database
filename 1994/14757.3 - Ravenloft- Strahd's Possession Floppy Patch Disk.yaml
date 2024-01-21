@@ -1,0 +1,38 @@
+filename: Ravenloft- Strahd's Possession Floppy Patch Disk v1.1 (Installer) (1994)(Strategic Simulations, Inc.) [Role-Playing (RPG), Addon].zip
+tdc_id: '14757.3'
+title:
+  screen: 'Ravenloft: Strahd''s Possession Floppy Patch Disk'
+publisher: Strategic Simulations, Inc.
+year: '1994'
+genre:
+- Role-Playing (RPG)
+- Addon
+language: English
+date:
+  added: '2019-09-21T20:09:34'
+  last_modified: '2019-09-21T20:09:34'
+version: '1.1'
+type: zip
+installer: true
+patch: true
+files:
+- name: BOOT.NFO
+  size: 29
+  date: '1994-04-25T10:09:46'
+  crc: '0x75cfbde8'
+- name: DATA.A00
+  size: 409217
+  date: '1994-04-25T09:46:58'
+  crc: '0xba0c6e3b'
+- name: DEARJ.EXE
+  size: 39441
+  date: '1993-03-19T16:18:52'
+  crc: '0x284b68d2'
+- name: INSTALL.EXE
+  size: 47075
+  date: '1994-04-13T10:01:40'
+  crc: '0x5d5afa6e'
+- name: INSTALL.NFO
+  size: 432
+  date: '1994-04-25T10:09:46'
+  crc: '0x4f01ed7a'

@@ -1,0 +1,27 @@
+filename: JBounce (1995)(Jay Foad) [Action].zip
+tdc_id: '3582.0'
+title:
+  screen: JBounce
+publisher: Jay Foad
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T08:56:02'
+  last_modified: '2019-03-02T08:56:02'
+type: zip
+commands:
+  play: JBOUNCE.COM
+files:
+- name: JBOUNCE.ASM
+  size: 2142
+  date: '1995-03-15T15:58:10'
+  crc: '0x08fb0668'
+- name: JBOUNCE.COM
+  size: 256
+  date: '1995-03-15T15:59:04'
+  crc: '0x02f18b2d'
+- name: JBOUNCE.TXT
+  size: 843
+  date: '1995-03-15T15:17:14'
+  crc: '0x8ded9642'

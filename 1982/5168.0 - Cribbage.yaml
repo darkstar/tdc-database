@@ -1,0 +1,34 @@
+filename: Cribbage (color) (1982)(Patrick Leabo) [Strategy, Cards].zip
+tdc_id: '5168.0'
+title:
+  screen: Cribbage
+  qualifier: color
+publisher: Patrick Leabo
+year: '1982'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:22:58'
+  last_modified: '2019-03-01T18:22:58'
+type: zip
+commands:
+  play: CRIBBAGE.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: CRIBBAGE.BAS
+  size: 23197
+  date: '1980-01-01T21:00:00'
+  crc: '0x4ec492a0'
+- name: CRIBBAGE.BAT
+  size: 18
+  date: '1980-01-01T00:00:00'
+  crc: '0xcd35324a'
+- name: CRIBBAGE.DAT
+  size: 128
+  date: '1982-08-22T13:21:06'
+  crc: '0xa42be4b5'

@@ -1,0 +1,32 @@
+filename: Wandering Hamster O.H.R.RPG.C.E Demo (2001)(Hamster Republic Productions) [Role-Playing (RPG)].zip
+tdc_id: '7462.1'
+title:
+  screen: Wandering Hamster O.H.R.RPG.C.E Demo
+publisher: Hamster Republic Productions
+year: '2001'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-02T10:55:48'
+  last_modified: '2019-03-02T10:55:48'
+type: zip
+demo: true
+commands:
+  play: wander.exe
+files:
+- name: ohrrpgce.fnt
+  size: 2055
+  date: '1998-09-29T22:30:12'
+  crc: '0x80585637'
+- name: wander.exe
+  size: 119371
+  date: '2001-06-11T16:43:08'
+  crc: '0x35e267df'
+- name: wander.rpg
+  size: 3515020
+  date: '2001-06-10T17:14:46'
+  crc: '0x0b52adbd'
+- name: wh_demo.txt
+  size: 4175
+  date: '2001-06-11T16:55:20'
+  crc: '0xae3551a7'

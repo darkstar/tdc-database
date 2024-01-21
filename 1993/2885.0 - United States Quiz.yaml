@@ -1,0 +1,26 @@
+filename: United States Quiz (1993)(Will Menninger) [Educational].zip
+tdc_id: '2885.0'
+title:
+  screen: United States Quiz
+publisher: Will Menninger
+year: '1993'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T21:11:02'
+  last_modified: '2019-03-01T21:11:02'
+type: zip
+commands:
+  play: STATES.EXE
+references:
+  dosid: DOS05427
+  exodos: United States Quiz (1993).zip
+files:
+- name: STATES.DOC
+  size: 1606
+  date: '1993-09-28T09:31:40'
+  crc: '0xe14081ef'
+- name: STATES.EXE
+  size: 183277
+  date: '1993-09-28T09:31:40'
+  crc: '0x3561f7da'

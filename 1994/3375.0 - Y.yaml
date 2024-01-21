@@ -1,0 +1,27 @@
+filename: Y v1.10 (1994)(P. Stragler) [Action].zip
+tdc_id: '3375.0'
+title:
+  screen: Y
+publisher: P. Stragler
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T07:20:10'
+  last_modified: '2019-03-02T07:20:10'
+version: '1.10'
+type: zip
+commands:
+  play: Y.exe
+references:
+  dosid: DOS05776
+  exodos: Y (1994).zip
+files:
+- name: Y.HSC
+  size: 320
+  date: '2012-09-27T23:11:28'
+  crc: '0x3dcf2ca7'
+- name: Y.exe
+  size: 32529
+  date: '1994-11-12T23:56:10'
+  crc: '0x412b4f5e'

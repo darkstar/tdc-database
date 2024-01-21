@@ -1,0 +1,38 @@
+filename: Manchester United Premier League Champions (Installer) (En)(De)(Fr)(It) (1994)(Krisalis Software Ltd.) [Action, Simulation, Sports].zip
+tdc_id: '9875.0'
+title:
+  box: Manchester United Premier League Champions
+publisher: Krisalis Software Ltd.
+year: '1994'
+genre:
+- Action
+- Simulation
+- Sports
+language:
+- English
+- French
+- Italian
+- German
+date:
+  added: '2019-03-01T22:01:56'
+  last_modified: '2019-03-01T22:01:56'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  dosid: DOS03332
+  exodos: Manchester United Premier League Champions (1994).zip
+files:
+- name: DISK.001
+  size: 1376172
+  date: '1994-07-20T13:20:46'
+  crc: '0xf9143f82'
+- name: DISK.002
+  size: 675336
+  date: '1994-07-20T13:20:50'
+  crc: '0xe0400527'
+- name: INSTALL.EXE
+  size: 33152
+  date: '1994-06-21T12:48:42'
+  crc: '0x23b47b0c'

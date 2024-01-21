@@ -1,0 +1,27 @@
+filename: Hobbit (198x)(K. Williams) [Role-Playing (RPG)].zip
+tdc_id: '1848.0'
+title:
+  screen: Hobbit
+publisher: K. Williams
+year: 198x
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:29:26'
+  last_modified: '2019-03-01T18:29:26'
+type: zip
+commands:
+  play: HOBBIT.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: HOBBIT.BAS
+  size: 12032
+  date: '1980-01-01T01:40:34'
+  crc: '0xade50158'
+- name: HOBBIT.BAT
+  size: 15
+  date: '1980-01-01T00:00:00'
+  crc: '0x3cfbe28f'

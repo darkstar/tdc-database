@@ -1,0 +1,35 @@
+filename: Egawheel v16.0S [SW] (1991)(Russell R. Mueller) [Strategy].zip
+tdc_id: '13325.2'
+title:
+  screen: Egawheel
+publisher: Russell R. Mueller
+year: '1991'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:35:46'
+  last_modified: '2019-03-01T18:35:46'
+version: 16.0S
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: EGAWHEEL.EXE
+files:
+- name: CHAMP.DAT
+  size: 286
+  date: '1991-01-17T18:15:28'
+  crc: '0x74860691'
+- name: EGAWHEEL.DAT
+  size: 60000
+  date: '1991-07-29T16:53:32'
+  crc: '0xb1cd4005'
+- name: EGAWHEEL.DOC
+  size: 15935
+  date: '1991-08-01T18:58:12'
+  crc: '0xe3d9df42'
+- name: EGAWHEEL.EXE
+  size: 110112
+  date: '1991-08-02T20:14:06'
+  crc: '0xfd673792'

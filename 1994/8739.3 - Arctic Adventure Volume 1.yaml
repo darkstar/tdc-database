@@ -1,0 +1,33 @@
+filename: Arctic Adventure Volume 1 v2.0 (Installer) [SW][a2] (1994)(Apogee Software, Ltd.) [Action].zip
+tdc_id: '8739.3'
+title:
+  screen: Arctic Adventure Volume 1
+publisher: Apogee Software, Ltd.
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2011-12-01T11:43:14'
+  last_modified: '2011-12-01T11:43:14'
+version: '2.0'
+type: zip
+tags:
+- Shareware
+- Alternate: 2
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: AA1_BBS._1
+  size: 131920
+  date: '1991-05-01T14:00:00'
+  crc: '0x4fad2ed3'
+- name: FILE_ID.DIZ
+  size: 351
+  date: '1991-05-01T14:00:00'
+  crc: '0xd7264d40'
+- name: INSTALL.EXE
+  size: 34096
+  date: '1991-05-01T14:00:00'
+  crc: '0x0adbfee9'

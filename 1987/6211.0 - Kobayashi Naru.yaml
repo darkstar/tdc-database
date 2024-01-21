@@ -1,0 +1,29 @@
+filename: Kobayashi Naru [DC] (1987)(Mastertronic Group Ltd.) [Adventure].zip
+tdc_id: '6211.0'
+parent_id: '6211.2'
+title:
+  box: Kobayashi Naru
+publisher: Mastertronic Group Ltd.
+year: '1987'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:25:24'
+  last_modified: '2019-03-01T18:25:24'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: KOBAYASH.COM
+references:
+  dosid: DOS05920
+  exodos: Kobyashi Naru (1987).zip
+files:
+- name: GAME.DAT
+  size: 368640
+  date: '1999-03-04T16:49:00'
+  crc: '0x3f32ce7e'
+- name: KOBAYASH.COM
+  size: 576
+  date: '1999-06-01T23:24:00'
+  crc: '0xd88de150'

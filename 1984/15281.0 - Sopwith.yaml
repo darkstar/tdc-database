@@ -1,0 +1,30 @@
+filename: Sopwith (1984)(BMB Compuscience) [Action].zip
+tdc_id: '15281.0'
+title:
+  screen: Sopwith
+publisher: BMB Compuscience
+year: '1984'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:16'
+  last_modified: '2019-03-01T18:24:16'
+type: zip
+commands:
+  play: SOPWITH.EXE
+references:
+  dosid: DOS04670
+  exodos: Sopwith (1985).zip
+files:
+- name: SOPWITH.EXE
+  size: 60919
+  date: '1984-04-25T09:02:00'
+  crc: '0x4655d710'
+- name: SOPWITH0.DTA
+  size: 512
+  date: '1984-04-03T08:58:00'
+  crc: '0x793956a2'
+- name: Sopwith.txt
+  size: 9440
+  date: '1984-04-25T09:02:00'
+  crc: '0x1e8ee947'

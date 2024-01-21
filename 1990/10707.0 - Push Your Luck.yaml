@@ -1,0 +1,27 @@
+filename: Push Your Luck v1.1 (1990)(MicroLink) [Strategy].zip
+tdc_id: '10707.0'
+title:
+  screen: Push Your Luck
+publisher: MicroLink
+year: '1990'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:33:38'
+  last_modified: '2019-03-01T18:33:38'
+version: '1.1'
+type: zip
+commands:
+  play: MLPUSH.EXE
+references:
+  dosid: DOS03352
+  exodos: MicroLink Push Your Luck (1990).zip
+files:
+- name: MLPUSH.DOC
+  size: 12534
+  date: '1990-07-07T10:28:26'
+  crc: '0x29e658a2'
+- name: MLPUSH.EXE
+  size: 45632
+  date: '1990-07-06T15:03:46'
+  crc: '0xd8d9d1e7'

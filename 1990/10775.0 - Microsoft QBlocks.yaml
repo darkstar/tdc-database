@@ -1,0 +1,32 @@
+filename: Microsoft QBlocks (1990)(Microsoft Corporation) [Strategy].zip
+tdc_id: '10775.0'
+title:
+  screen: Microsoft QBlocks
+publisher: Microsoft Corporation
+year: '1990'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:33:40'
+  last_modified: '2023-01-30T15:18:17'
+type: zip
+media: Download
+commands:
+  play: qblocks.bat
+files:
+- name: qbasic.exe
+  size: 194309
+  date: '1998-05-11T20:01:00'
+  crc: '0x3152911c'
+- name: qbasic.hlp
+  size: 130881
+  date: '1998-05-11T20:01:00'
+  crc: '0x5f159ed0'
+- name: qblocks.bas
+  size: 56348
+  date: '1996-07-09T11:03:28'
+  crc: '0x56285877'
+- name: qblocks.bat
+  size: 27
+  date: '2012-09-29T19:07:54'
+  crc: '0xf4cc2ade'

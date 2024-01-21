@@ -1,0 +1,33 @@
+filename: Phantis (Es) [DC] (1988)(Dinamic Software) [Action].zip
+tdc_id: '10194.0'
+title:
+  box: Phantis
+publisher: Dinamic Software
+year: '1988'
+genre: Action
+language: Spanish
+date:
+  added: '2019-03-01T18:26:36'
+  last_modified: '2019-03-01T18:26:36'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: phantis.exe
+files:
+- name: phantis
+  size: 63451
+  date: '2000-01-27T22:14:04'
+  crc: '0xbcdf8562'
+- name: phantis.exe
+  size: 1564
+  date: '2000-01-28T03:36:42'
+  crc: '0x54d98bec'
+- name: phantis1
+  size: 99408
+  date: '2000-01-26T12:22:48'
+  crc: '0x822bf171'
+- name: phantis2
+  size: 104023
+  date: '2000-01-26T13:02:54'
+  crc: '0x95370194'

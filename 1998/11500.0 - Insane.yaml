@@ -1,0 +1,41 @@
+filename: Insane (1998)(Entropy) [Strategy, Puzzle].zip
+tdc_id: '11500.0'
+title:
+  screen: Insane
+publisher: Entropy
+year: '1998'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-03-02T10:41:48'
+  last_modified: '2019-03-02T10:41:48'
+type: zip
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 22
+  date: '2018-12-16T14:13:04'
+  crc: '0x10685a56'
+- name: INSANE.BAS
+  size: 4942
+  date: '1998-04-18T17:13:46'
+  crc: '0xbb13a269'
+- name: INSANE.PUT
+  size: 2027
+  date: '1998-04-18T17:13:32'
+  crc: '0xb92e3ecd'
+- name: NEWGAME.FNT
+  size: 11299
+  date: '1998-02-28T20:46:34'
+  crc: '0xc48a3adf'
+- name: NEWGAME.PAL
+  size: 768
+  date: '1998-02-28T20:46:56'
+  crc: '0x14a17193'
+- name: QB.EXE
+  size: 278804
+  date: '2016-03-13T01:19:58'
+  crc: '0xb08bc0fe'

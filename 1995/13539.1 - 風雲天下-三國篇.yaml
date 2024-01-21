@@ -1,0 +1,44 @@
+filename: 風雲天下-三國篇 (Zh) (1995)(Soft-World International) [Action].zip
+tdc_id: '13539.1'
+title:
+  screen: 風雲天下-三國篇
+  transliteration: 'Fengyun Tianxia: Sanguo-pian'
+publisher: Soft-World International
+year: '1995'
+genre: Action
+language: Chinese
+date:
+  added: '2019-03-02T08:43:44'
+  last_modified: '2023-12-05T13:18:15'
+type: zip
+commands:
+  play: GAME.EXE
+  setup: INSTALL.EXE
+references:
+  dosid: DOS07978
+  exodos: Stormy World - The Three Kingdoms (1995).zip
+files:
+- name: AUTO.FPE
+  size: 168
+  date: '1995-02-19T12:39:46'
+  crc: '0x107e37fe'
+- name: GAME.DAT
+  size: 3134757
+  date: '1995-02-19T11:13:08'
+  crc: '0xf65fd7ff'
+- name: GAME.EXE
+  size: 54513
+  date: '1995-02-19T11:13:00'
+  crc: '0x4f5b28ad'
+- name: INSTALL.EXE
+  size: 60507
+  date: '1995-02-19T11:11:20'
+  crc: '0xb3ba3658'
+- name: MENU
+  size: 97821
+  date: '1995-02-19T11:11:18'
+  crc: '0x0a637727'
+- name: SETUP
+  size: 68
+  date: '1995-03-09T22:12:52'
+  crc: '0xe327ddd5'

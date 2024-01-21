@@ -1,0 +1,97 @@
+filename: Krypton Egg v2.1 (Installer) (En)(Fr) [SWR] (1994)(Computers Communications & Visions) [Action].zip
+tdc_id: '6249.5'
+parent_id: '6249.15'
+title:
+  screen: Krypton Egg
+publisher: Computers Communications & Visions
+year: '1994'
+genre: Action
+language:
+- English
+- French
+date:
+  added: '2020-10-01T08:22:42'
+  last_modified: '2020-10-01T08:22:42'
+version: '2.1'
+type: zip
+tags:
+- SharewareRegistered
+installer: true
+references:
+  mobygames: https://www.mobygames.com/game/dos/krypton-egg
+files:
+- name: DATA\
+  size: 0
+  date: '2020-10-01T08:21:14'
+- name: DATA\DOS4GW.EXZ
+  size: 138022
+  date: '1994-05-31T13:00:00'
+  crc: '0x2edd7cdb'
+- name: DATA\FILE_ID.DIS
+  size: 243
+  date: '1994-12-02T18:37:20'
+  crc: '0xb4966e29'
+- name: DATA\KE.EXZ
+  size: 115328
+  date: '1994-12-07T11:23:24'
+  crc: '0x57acd20c'
+- name: DATA\KE.ICO
+  size: 766
+  date: '1994-05-21T15:03:16'
+  crc: '0x1afc11cb'
+- name: DATA\KE.NFO
+  size: 948
+  date: '1994-11-08T14:18:28'
+  crc: '0xe122553a'
+- name: DATA\KE.PIF
+  size: 545
+  date: '1994-05-17T14:57:18'
+  crc: '0xb88b788a'
+- name: DATA\KE.RSZ
+  size: 724703
+  date: '1994-12-07T09:11:04'
+  crc: '0xc9832a23'
+- name: DATA\KE_FR.DOC
+  size: 13789
+  date: '1994-12-07T12:30:04'
+  crc: '0xaa35211f'
+- name: DATA\KE_FR.FAQ
+  size: 7460
+  date: '1994-12-07T09:36:54'
+  crc: '0x88a902c4'
+- name: DATA\KE_US.DOC
+  size: 9633
+  date: '1994-11-30T10:20:00'
+  crc: '0xbfba1ff5'
+- name: DATA\KE_US.FAQ
+  size: 5741
+  date: '1994-12-07T09:38:48'
+  crc: '0x237e59c7'
+- name: DATA\ORDER.FRM
+  size: 2462
+  date: '1994-11-08T10:22:50'
+  crc: '0x1a50a9d3'
+- name: DATA\PRINTORD.BAT
+  size: 196
+  date: '1994-07-23T11:07:22'
+  crc: '0x56cea50c'
+- name: DATA\README.TXT
+  size: 736
+  date: '1994-10-25T21:04:36'
+  crc: '0x5ac64879'
+- name: GZIP.EXE
+  size: 39910
+  date: '1993-08-19T08:53:00'
+  crc: '0xf28e7f03'
+- name: INSTALL.BAT
+  size: 658
+  date: '1994-12-07T11:20:00'
+  crc: '0x043525c3'
+- name: KE.BAT
+  size: 101
+  date: '1994-12-07T11:20:00'
+  crc: '0xe691da5e'
+- name: LABEL.BAT
+  size: 17
+  date: '1994-12-07T11:20:00'
+  crc: '0x10337042'

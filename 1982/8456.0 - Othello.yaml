@@ -1,0 +1,32 @@
+filename: Othello [SW] (1982)(Patrick Leabo) [Strategy, Board].zip
+tdc_id: '8456.0'
+title:
+  screen: Othello
+publisher: Patrick Leabo
+year: '1982'
+genre:
+- Strategy
+- Board
+language: English
+date:
+  added: '2019-09-02T05:04:04'
+  last_modified: '2019-09-02T05:04:04'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: OTHELLO.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: OTHELLO.BAS
+  size: 6912
+  date: '1982-09-02T12:00:00'
+  crc: '0xcfe73b11'
+- name: OTHELLO.BAT
+  size: 17
+  date: '1980-01-01T11:00:00'
+  crc: '0x7a094564'

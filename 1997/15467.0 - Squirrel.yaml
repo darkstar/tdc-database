@@ -1,0 +1,30 @@
+filename: Squirrel (1997)(NeoZones Productions) [Action, Strategy].zip
+tdc_id: '15467.0'
+title:
+  screen: Squirrel
+publisher: NeoZones Productions
+year: '1997'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-02T10:37:56'
+  last_modified: '2019-03-02T10:37:56'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 28
+  date: '2018-11-21T16:39:06'
+  crc: '0x92341950'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'
+- name: SQUIRREL.BAS
+  size: 9073
+  date: '1997-05-09T22:54:30'
+  crc: '0x453d828c'

@@ -1,0 +1,81 @@
+filename: Ace of Aces (EGA) (1987)(Accolade, Inc.) [Action, Simulation].zip
+tdc_id: '8032.1'
+title:
+  box: Ace of Aces
+  qualifier: EGA
+publisher: Accolade, Inc.
+year: '1987'
+genre:
+- Action
+- Simulation
+language: English
+date:
+  added: '2019-03-01T18:25:06'
+  last_modified: '2019-03-01T18:25:06'
+type: zip
+commands:
+  play: ACE.EXE
+references:
+  dosid: DOS00492
+  exodos: Ace of Aces (1987).zip
+files:
+- name: ACE.EXE
+  size: 122119
+  date: '1994-02-10T13:35:14'
+  crc: '0x2f539ea2'
+- name: AMO
+  size: 7262
+  date: '1980-01-01T01:27:10'
+  crc: '0x689925e9'
+- name: CRD1
+  size: 13337
+  date: '1980-01-01T00:11:34'
+  crc: '0x51022f05'
+- name: DOR
+  size: 4774
+  date: '1980-01-01T00:08:42'
+  crc: '0x2d990e29'
+- name: EMB1
+  size: 4251
+  date: '1980-01-01T02:17:00'
+  crc: '0xf2f42990'
+- name: HIGH
+  size: 144
+  date: '1980-01-01T00:00:04'
+  crc: '0x474c56eb'
+- name: IMG
+  size: 24324
+  date: '1980-01-01T00:25:00'
+  crc: '0xef2a8863'
+- name: LFV
+  size: 18185
+  date: '1980-01-01T00:32:12'
+  crc: '0x7949d40a'
+- name: LWGR
+  size: 24553
+  date: '1980-01-01T00:09:06'
+  crc: '0x4e6c87bb'
+- name: MAP
+  size: 12988
+  date: '1980-01-01T00:23:14'
+  crc: '0xa54a4d10'
+- name: RHD
+  size: 17042
+  date: '1980-01-01T00:19:42'
+  crc: '0x78b0fd75'
+- name: RWGL
+  size: 25569
+  date: '1980-01-01T00:10:26'
+  crc: '0x74b10e93'
+- name: SLC
+  size: 18958
+  date: '1980-01-01T00:01:22'
+  crc: '0x9daba4de'
+- name: TOFF1
+  size: 26726
+  date: '1980-01-01T01:02:34'
+  crc: '0x41b8da4a'
+- name: TTL
+  size: 26736
+  date: '1980-01-01T07:32:52'
+  crc: '0xbf4a55bc'

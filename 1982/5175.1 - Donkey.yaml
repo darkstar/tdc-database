@@ -1,0 +1,28 @@
+filename: Donkey v1.10 (1982)(IBM, Microsoft) [Racing - Driving].zip
+tdc_id: '5175.1'
+title:
+  box: Donkey
+publisher: IBM, Microsoft
+year: '1982'
+genre: Racing - Driving
+language: English
+date:
+  added: '2019-03-01T18:22:58'
+  last_modified: '2019-03-01T18:22:58'
+version: '1.10'
+type: zip
+commands:
+  play: DONKEYQB.EXE
+files:
+- name: DONKEY.BAS
+  size: 3584
+  date: '1983-03-08T12:00:00'
+  crc: '0xb7301c9b'
+- name: DONKEYQB.EXE
+  size: 42430
+  date: '2008-08-20T00:34:42'
+  crc: '0x8835d954'
+- name: donkeyqb.bas
+  size: 4477
+  date: '2008-08-20T00:35:36'
+  crc: '0x0bd7988c'

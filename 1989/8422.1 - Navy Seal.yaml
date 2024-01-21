@@ -1,0 +1,47 @@
+filename: Navy Seal v2.0 (Installer) (1989)(Cosmi Corporation) [Action].zip
+tdc_id: '8422.1'
+title:
+  box: Navy Seal
+publisher: Cosmi Corporation
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:28:28'
+  last_modified: '2019-03-01T18:28:28'
+version: '2.0'
+type: zip
+installer: true
+files:
+- name: GETUSER.COM
+  size: 8192
+  date: '1991-07-08T11:20:10'
+  crc: '0x19233163'
+- name: INSTALL.BAT
+  size: 4367
+  date: '1991-11-01T12:55:44'
+  crc: '0x8510ff17'
+- name: INSTALLF.BAT
+  size: 2245
+  date: '1991-11-01T12:59:16'
+  crc: '0x2fa96e69'
+- name: NS1.EXE
+  size: 178485
+  date: '1991-11-01T09:54:36'
+  crc: '0x4963c378'
+- name: NS2.EXE
+  size: 204190
+  date: '1991-11-01T08:34:18'
+  crc: '0x4b5d5fed'
+- name: NS3.EXE
+  size: 100600
+  date: '1991-11-01T08:36:54'
+  crc: '0x90b8291a'
+- name: READFILE.EXE
+  size: 38296
+  date: '1991-11-01T10:50:54'
+  crc: '0xb649b1cb'
+- name: README.TXT
+  size: 3713
+  date: '1991-11-01T10:25:12'
+  crc: '0xced1dfc5'

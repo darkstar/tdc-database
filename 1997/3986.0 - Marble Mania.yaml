@@ -1,0 +1,33 @@
+filename: Marble Mania v2.0 (1997)(Nick Schweitzer) [Action].zip
+tdc_id: '3986.0'
+title:
+  screen: Marble Mania
+publisher: Nick Schweitzer
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:35:36'
+  last_modified: '2019-03-02T10:35:36'
+version: '2.0'
+type: zip
+media: Download
+commands:
+  play: MM.BAT
+files:
+- name: MM.BAS
+  size: 26841
+  date: '1997-04-02T20:16:28'
+  crc: '0xcd5d898a'
+- name: MM.BAT
+  size: 30
+  date: '1997-04-02T17:30:48'
+  crc: '0x8b88da89'
+- name: MM.GIF
+  size: 2922
+  date: '1997-04-02T17:37:04'
+  crc: '0x2595bbe6'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'

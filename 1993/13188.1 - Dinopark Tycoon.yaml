@@ -1,0 +1,58 @@
+filename: Dinopark Tycoon v1.04 (Installer) [f1] (1993)(MECC) [Educational, Simulation, Strategy].zip
+tdc_id: '13188.1'
+title:
+  box: Dinopark Tycoon
+publisher: MECC
+year: '1993'
+genre:
+- Educational
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2019-03-01T19:02:22'
+  last_modified: '2019-03-01T19:02:22'
+version: '1.04'
+type: zip
+tags:
+- Fixed: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DINO1.LIF
+  size: 549950
+  date: '1993-08-05T09:02:26'
+  crc: '0xf2a4c9ff'
+- name: DINO2.LIF
+  size: 1205420
+  date: '1993-08-05T09:11:36'
+  crc: '0xdc9d3046'
+- name: DISK.ID
+  size: 36
+  date: '1993-06-28T10:15:00'
+  crc: '0xdf7ec0b9'
+- name: DISK.ID_
+  size: 38
+  date: '1993-06-28T10:15:00'
+  crc: '0x68bcd8c4'
+- name: INSTALL.DAT
+  size: 9126
+  date: '1993-08-04T17:25:50'
+  crc: '0xb2e30a3d'
+- name: INSTALL.DA_
+  size: 9126
+  date: '1993-08-04T17:25:50'
+  crc: '0xb2e30a3d'
+- name: INSTALL.EXE
+  size: 90304
+  date: '1993-04-08T13:45:00'
+  crc: '0x929e6b84'
+- name: PRODUCT.PF
+  size: 350
+  date: '1993-08-03T08:08:16'
+  crc: '0xde0d943b'
+- name: READ.ME
+  size: 610
+  date: '1993-08-03T11:55:04'
+  crc: '0x8f80c879'

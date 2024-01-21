@@ -1,0 +1,34 @@
+filename: Beyond Castle Wolfenstein remastered v.02 [DC] (2004)(Muse Software, Jeff Leyda) [Action].zip
+tdc_id: '4917.0'
+title:
+  screen: Beyond Castle Wolfenstein remastered
+publisher: Muse Software, Jeff Leyda
+year: '2004'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:56:50'
+  last_modified: '2019-03-02T10:56:50'
+version: '.02'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: BCW.EXE
+files:
+- name: BCW.EXE
+  size: 94517
+  date: '2004-07-17T21:19:32'
+  crc: '0x04814ebb'
+- name: OPTIONA.DAT
+  size: 16384
+  date: '2004-06-24T22:50:18'
+  crc: '0xb81dce37'
+- name: OPTIONC.DAT
+  size: 16384
+  date: '2004-04-13T21:06:12'
+  crc: '0x88f275a8'
+- name: README.TXT
+  size: 3848
+  date: '2004-07-19T21:08:30'
+  crc: '0x93b74e68'

@@ -1,0 +1,32 @@
+filename: Shadows of Mordor, The (1988)(Addison-Wesley Publishing Company, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '5913.0'
+title:
+  box: The Shadows of Mordor
+publisher: Addison-Wesley Publishing Company, Inc.
+year: '1988'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:26:44'
+  last_modified: '2019-03-01T18:26:44'
+type: zip
+commands:
+  play: SOM.EXE
+references:
+  dosid: DOS04509
+  exodos: Shadows of Mordor (1987).zip
+files:
+- name: SOM.EXE
+  size: 77408
+  date: '1988-02-24T14:42:32'
+  crc: '0x33809988'
+- name: SOM.PIC
+  size: 113009
+  date: '1987-11-25T14:08:46'
+  crc: '0x27de2c0f'
+- name: VER2.3
+  size: 32
+  date: '1988-02-24T14:56:16'
+  crc: '0xcd0b3b26'

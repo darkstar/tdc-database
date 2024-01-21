@@ -1,0 +1,23 @@
+filename: Assembly Invaders (2000)(Axel Lindholm) [Action].zip
+tdc_id: '4523.0'
+title:
+  screen: Assembly Invaders
+publisher: Axel Lindholm
+year: '2000'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:47:26'
+  last_modified: '2019-03-02T10:47:26'
+type: zip
+commands:
+  play: INVADERS.COM
+files:
+- name: INVADERS.ASM
+  size: 16369
+  date: '2000-03-29T14:59:12'
+  crc: '0x635408bb'
+- name: INVADERS.COM
+  size: 2048
+  date: '2000-03-29T14:59:14'
+  crc: '0x63bd0903'

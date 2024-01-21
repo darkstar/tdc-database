@@ -1,0 +1,33 @@
+filename: Monopoly v2.5 [SW] (1997)(Brian Cole) [Strategy, Board].zip
+tdc_id: '4005.0'
+title:
+  screen: Monopoly
+publisher: Brian Cole
+year: '1997'
+genre:
+- Strategy
+- Board
+language: English
+date:
+  added: '2019-03-02T10:35:46'
+  last_modified: '2019-03-02T10:35:46'
+version: '2.5'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 28
+  date: '2018-12-18T00:07:56'
+  crc: '0xecea78a3'
+- name: MONOPOLY.BAS
+  size: 100867
+  date: '1998-09-13T08:39:30'
+  crc: '0xf5c8c1b0'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

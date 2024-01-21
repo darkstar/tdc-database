@@ -1,0 +1,48 @@
+filename: 20th Century Frog r881125 (De) (1988)(Wayne Snyder III, Vincent P. P. McLaglen, Murgatroyd J. Grattini) [Action].zip
+tdc_id: '1464.1'
+title:
+  screen: 20th Century Frog
+publisher: Wayne Snyder III, Vincent P. P. McLaglen, Murgatroyd J. Grattini
+year: '1988'
+genre: Action
+language: German
+date:
+  added: '2019-03-01T18:25:50'
+  last_modified: '2022-10-03T09:29:07'
+release: '881125'
+type: zip
+commands:
+  play: FROGDEU.EXE
+files:
+- name: DEUFROG.INF
+  size: 20345
+  date: '1991-12-18T04:32:34'
+  crc: '0xac4647ee'
+- name: EGAVGA.BGI
+  size: 5139
+  date: '1987-12-09T04:00:00'
+  crc: '0x03b024cc'
+- name: FROG.DRV
+  size: 2560
+  date: '1988-11-18T14:50:04'
+  crc: '0xbc51369f'
+- name: FROG.SCO
+  size: 1654
+  date: '1991-12-18T04:17:22'
+  crc: '0x39db730a'
+- name: FROGDEU.EXE
+  size: 96432
+  date: '1988-11-25T15:36:36'
+  crc: '0xa5f6fdcf'
+- name: GAME
+  size: 1408
+  date: '1988-11-28T14:35:04'
+  crc: '0x0cf1cae8'
+- name: SCO
+  size: 1654
+  date: '1988-08-24T18:18:14'
+  crc: '0xb730a614'
+- name: SSD
+  size: 1408
+  date: '1988-08-26T14:26:20'
+  crc: '0x008607bb'

@@ -1,0 +1,26 @@
+filename: Afghanistan (1983)(John D. Odneal) [Strategy].zip
+tdc_id: '1046.0'
+title:
+  screen: Afghanistan
+publisher: John D. Odneal
+year: '1983'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:23:06'
+  last_modified: '2019-03-01T18:23:06'
+type: zip
+commands:
+  play: AF.EXE
+references:
+  dosid: DOS15967
+  exodos: Afghanistan (1983).zip
+files:
+- name: AF.DOC
+  size: 6656
+  date: '1984-10-04T01:02:52'
+  crc: '0x2965aaa2'
+- name: AF.EXE
+  size: 70144
+  date: '1984-10-04T01:18:00'
+  crc: '0x44d12b7e'

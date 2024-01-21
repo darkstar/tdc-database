@@ -1,0 +1,33 @@
+filename: EGA-Solitaire v93.07.05 [SW] (1993)(John A. Junod) [Strategy, Cards].zip
+tdc_id: '13323.1'
+title:
+  screen: EGA-Solitaire
+publisher: John A. Junod
+year: '1993'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2009-12-19T07:50:04'
+  last_modified: '2009-12-19T07:50:04'
+version: 93.07.05
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: EGASOLIT.EXE
+files:
+- name: -READ.ME
+  size: 558
+  date: '1993-07-25T08:45:32'
+  crc: '0xbdd757c1'
+- name: EGASOLIT.EXE
+  size: 80176
+  date: '1993-07-05T19:25:00'
+  crc: '0xf1e8a60a'
+- name: FILE_ID.DIZ
+  size: 47
+  date: '1993-07-25T08:01:00'
+  crc: '0x92a495c2'

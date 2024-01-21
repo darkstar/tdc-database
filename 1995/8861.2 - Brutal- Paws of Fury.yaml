@@ -1,0 +1,60 @@
+filename: Brutal- Paws of Fury (Installer) (En)(Fr)(De) (1995)(GameTek, Inc.) [Action].zip
+tdc_id: '8861.2'
+parent_id: '8861.4'
+title:
+  box: 'Brutal: Paws of Fury'
+publisher: GameTek, Inc.
+year: '1995'
+genre: Action
+language:
+- English
+- French
+- German
+date:
+  added: '2019-03-02T07:30:44'
+  last_modified: '2019-03-02T07:30:44'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: BLD_INFO.CFG
+  size: 1669
+  date: '1995-05-24T16:08:52'
+  crc: '0x6631110a'
+- name: DISK.ID
+  size: 31
+  date: '1995-05-24T16:08:58'
+  crc: '0xc76782a4'
+- name: DISK.ID2
+  size: 31
+  date: '1995-05-24T16:10:24'
+  crc: '0xc5213cfd'
+- name: DISK.ID3
+  size: 31
+  date: '1995-05-24T16:11:52'
+  crc: '0xc4e356ca'
+- name: GAMETEK.1
+  size: 1330688
+  date: '1995-05-24T16:10:06'
+  crc: '0x6c4457e4'
+- name: GAMETEK.2
+  size: 1457152
+  date: '1995-05-24T16:11:38'
+  crc: '0x6f1b7fbe'
+- name: GAMETEK.3
+  size: 343613
+  date: '1995-05-24T16:12:10'
+  crc: '0xc5c9575c'
+- name: IMAGE.DAT
+  size: 7918
+  date: '1995-05-24T16:08:26'
+  crc: '0x10ab91e3'
+- name: INSTALL.EXE
+  size: 109443
+  date: '1995-05-16T18:34:00'
+  crc: '0xfe747bfd'
+- name: LANGRC.RES
+  size: 6243
+  date: '1995-05-24T16:08:54'
+  crc: '0x5445282f'

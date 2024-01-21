@@ -1,0 +1,38 @@
+filename: Midway Campaign (1982)(The Avalon Hill Game Company) [Strategy, War].zip
+tdc_id: '14277.0'
+title:
+  box: Midway Campaign
+  screen: Midway Campaign
+publisher: The Avalon Hill Game Company
+year: '1982'
+genre:
+- Strategy
+- War
+language: English
+date:
+  added: '2019-03-01T18:23:00'
+  last_modified: '2019-03-01T18:23:00'
+type: zip
+media: Download
+commands:
+  play: midway.bat
+references:
+  dosid: DOS03552
+  exodos: Midway Campaign (1983).zip
+files:
+- name: Midway.bas
+  size: 1431
+  date: '2001-01-06T00:01:00'
+  crc: '0x72e6ff06'
+- name: Midwayp.bas
+  size: 21416
+  date: '2001-01-06T00:01:00'
+  crc: '0x48223337'
+- name: gwbasic.exe
+  size: 80592
+  date: '1998-06-16T02:32:00'
+  crc: '0x8462d0e4'
+- name: midway.bat
+  size: 126
+  date: '2007-02-26T13:52:58'
+  crc: '0x1fe4e2b0'

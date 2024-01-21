@@ -1,0 +1,54 @@
+filename: Cribbage King - Gin King v1.08 (1990)(Software Toolworks, Inc., The) [Strategy, Cards, Compilation].zip
+tdc_id: '9083.1'
+title:
+  box: Cribbage King - Gin King
+publisher: Software Toolworks, Inc., The
+year: '1990'
+genre:
+- Strategy
+- Cards
+- Compilation
+language: English
+date:
+  added: '2023-01-31T12:59:48'
+  last_modified: '2023-01-31T12:59:48'
+version: '1.08'
+type: zip
+compilation: true
+commands:
+  play: CRIBGIN.EXE
+references:
+  mobygames: https://www.mobygames.com/game/cribbage-king-gin-king
+files:
+- name: CRIBGIN.EXE
+  size: 39575
+  date: '1990-07-12T12:00:24'
+  crc: '0x6a6e7eb7'
+- name: CRIBKING.CFG
+  size: 291
+  date: '1990-07-12T12:00:24'
+  crc: '0x97c46b56'
+- name: CRIBKING.EXE
+  size: 181483
+  date: '1990-07-12T12:00:24'
+  crc: '0xe367baa1'
+- name: EGACARD.BIN
+  size: 49908
+  date: '1990-07-12T12:00:24'
+  crc: '0x5842265a'
+- name: EGAVGA.DVR
+  size: 5363
+  date: '1990-07-12T12:00:24'
+  crc: '0x06d36962'
+- name: GINKING.CFG
+  size: 1113
+  date: '1990-07-12T12:00:24'
+  crc: '0xdac66bcb'
+- name: GINKING.EXE
+  size: 155425
+  date: '1990-07-12T12:00:24'
+  crc: '0x73c9d1d4'
+- name: TITLEEGA.CMP
+  size: 61277
+  date: '1990-07-12T12:00:24'
+  crc: '0x0f64105c'

@@ -1,0 +1,59 @@
+filename: Continuum (Demo) (1990)(Data East Corporation) [Action, Strategy].zip
+tdc_id: '6113.1'
+title:
+  screen: Continuum
+  qualifier: Demo
+publisher: Data East Corporation
+year: '1990'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2021-05-18T09:53:06'
+  last_modified: '2021-05-18T09:53:06'
+type: zip
+demo: true
+commands:
+  play: CONTINU.COM
+files:
+- name: CONFIG.TAT
+  size: 572
+  date: '1990-10-18T11:38:36'
+  crc: '0x842d2be1'
+- name: CONTINU.COM
+  size: 6848
+  date: '1990-10-17T16:22:34'
+  crc: '0xe357f62e'
+- name: GRAPHS.CC1
+  size: 71526
+  date: '1990-10-16T17:43:58'
+  crc: '0xe82c5aa3'
+- name: HIGHSCOR.QB
+  size: 546
+  date: '1990-07-10T16:49:28'
+  crc: '0x7d3f781d'
+- name: MUSIC_A.CC1
+  size: 60650
+  date: '1990-10-09T16:30:02'
+  crc: '0x57bf6b6d'
+- name: MUSIC_B.CC1
+  size: 8912
+  date: '1990-10-09T16:30:58'
+  crc: '0x292963e9'
+- name: MUSIC_T.CC1
+  size: 39972
+  date: '1990-10-09T16:36:30'
+  crc: '0xb2991c9d'
+- name: PROGS.CC1
+  size: 150350
+  date: '1990-10-18T12:27:34'
+  crc: '0xdeacd390'
+- name: READ.ME
+  size: 819
+  date: '1991-05-20T13:15:32'
+  crc: '0x0b932b1e'
+- name: TEXTES.CC1
+  size: 12378
+  date: '1990-10-18T12:28:30'
+  crc: '0x7c907536'

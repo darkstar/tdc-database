@@ -1,0 +1,32 @@
+filename: Amazing Snake Racer (1997)(Anonymous) [Action].zip
+tdc_id: '8312.0'
+title:
+  screen: Amazing Snake Racer
+publisher: Anonymous
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:23:48'
+  last_modified: '2019-03-02T10:23:48'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 26
+  date: '2018-12-08T12:35:00'
+  crc: '0xe4893d88'
+- name: MAPS.DAT
+  size: 11933
+  date: '1997-11-13T18:19:08'
+  crc: '0x5dd43afd'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: SOURCE.BAS
+  size: 7631
+  date: '1997-11-13T18:38:36'
+  crc: '0xda3b3e26'

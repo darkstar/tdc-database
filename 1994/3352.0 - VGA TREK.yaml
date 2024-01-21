@@ -1,0 +1,31 @@
+filename: VGA TREK v1.5 [FW] (1994)(Dynamic Software Solutions) [Action].zip
+tdc_id: '3352.0'
+title:
+  screen: VGA TREK
+publisher: Dynamic Software Solutions
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2016-02-17T15:55:06'
+  last_modified: '2016-02-17T15:55:06'
+version: '1.5'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: VGATREK.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 73
+  date: '1995-01-27T17:45:26'
+  crc: '0xcc659b88'
+- name: README.BAT
+  size: 82
+  date: '1995-01-27T17:44:10'
+  crc: '0x0388cff7'
+- name: VGATREK.EXE
+  size: 109228
+  date: '1995-01-27T17:43:12'
+  crc: '0x36b7b84b'

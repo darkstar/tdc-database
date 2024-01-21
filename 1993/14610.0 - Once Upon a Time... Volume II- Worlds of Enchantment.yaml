@@ -1,0 +1,41 @@
+filename: Once Upon a Time... Volume II- Worlds of Enchantment v1.5 (Installer) (1993)(Compu-Teach) [Educational][!].zip
+tdc_id: '14610.0'
+parent_id: '14610.1'
+title:
+  box: 'Once Upon a Time... Volume II: Worlds of Enchantment'
+  qualifier: Installer
+publisher: Compu-Teach
+year: '1993'
+genre: Educational
+language: English
+date:
+  added: '2021-03-28T12:35:10'
+  last_modified: '2023-07-11T21:49:24'
+version: '1.5'
+type: zip
+tags:
+- KnownGood
+media: 720K
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  dosid: DOS15900
+  exodos: Once Upon a Time... Volume II - Worlds of Enchantment (1990).zip
+files:
+- name: INSTALL.EXE
+  size: 72127
+  date: '1993-06-28T15:45:16'
+  crc: '0xe2bb4450'
+- name: INSTALL.S
+  size: 3533
+  date: '1993-06-30T11:43:20'
+  crc: '0x9ff1ef22'
+- name: ONCE2.001
+  size: 638434
+  date: '1993-06-30T11:38:30'
+  crc: '0x31f9a802'
+- name: ONCE2.002
+  size: 203991
+  date: '1993-06-30T11:39:56'
+  crc: '0x52079ee5'

@@ -1,0 +1,45 @@
+filename: Vertigo v0.1 (1995)(Anton Norup Sorensen) [Simulation].zip
+tdc_id: '3814.0'
+title:
+  screen: Vertigo
+publisher: Anton Norup Sorensen
+year: '1995'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-02T09:07:18'
+  last_modified: '2019-03-02T09:07:18'
+version: '0.1'
+type: zip
+media: Download
+commands:
+  play: VERTIGO.EXE
+files:
+- name: EGAVGA.BGI
+  size: 5554
+  date: '1991-11-11T02:00:00'
+  crc: '0x9b14ff3b'
+- name: SVGA16.BGI
+  size: 8910
+  date: '1994-08-23T00:58:48'
+  crc: '0x837d643c'
+- name: SVGAS3.BGI
+  size: 6047
+  date: '1994-08-23T00:58:56'
+  crc: '0xfd8f78e3'
+- name: VERTIGO.CNF
+  size: 46
+  date: '2015-07-22T17:29:22'
+  crc: '0x620995d0'
+- name: VERTIGO.DOC
+  size: 20417
+  date: '1995-08-29T20:34:40'
+  crc: '0xe686b40b'
+- name: VERTIGO.EXE
+  size: 193925
+  date: '1995-08-29T19:57:04'
+  crc: '0x42b15b3c'
+- name: VESA.BGI
+  size: 4116
+  date: '1992-06-15T21:00:00'
+  crc: '0x9c802ad3'

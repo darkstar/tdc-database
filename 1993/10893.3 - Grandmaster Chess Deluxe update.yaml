@@ -1,0 +1,41 @@
+filename: Grandmaster Chess Deluxe update (1993)(Capstone Software) [Strategy, Chess, Addon].zip
+tdc_id: '10893.3'
+parent_id: '10893.2'
+title:
+  box: Grandmaster Chess Deluxe update
+publisher: Capstone Software
+year: '1993'
+genre:
+- Strategy
+- Chess
+- Addon
+language: English
+date:
+  added: '2022-08-07T16:09:22'
+  last_modified: '2022-08-07T16:09:22'
+type: zip
+files:
+- name: CHESS.000
+  size: 40
+  date: '1993-10-08T21:55:32'
+  crc: '0x6726b50c'
+- name: CHESS.LRN
+  size: 10240
+  date: '1993-10-08T21:55:32'
+  crc: '0x33e33222'
+- name: GMC1-2.RTP
+  size: 660984
+  date: '1993-07-26T17:51:38'
+  crc: '0x4d876d8c'
+- name: GMCHESS.EXE
+  size: 114901
+  date: '1992-10-16T16:38:18'
+  crc: '0x4f3bca09'
+- name: PATCH.EXE
+  size: 78129
+  date: '1993-01-19T12:36:52'
+  crc: '0x3c73c346'
+- name: UPDATE.BAT
+  size: 760
+  date: '1993-07-26T15:54:18'
+  crc: '0xefe51e58'

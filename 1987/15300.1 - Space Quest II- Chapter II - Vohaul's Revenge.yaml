@@ -1,0 +1,114 @@
+filename: Space Quest II- Chapter II - Vohaul's Revenge v2.0A [tr Ru] (1987)(Sierra On-Line, Inc.) [Adventure].zip
+tdc_id: '15300.1'
+title:
+  box: 'Space Quest II: Chapter II - Vohaul''s Revenge'
+publisher: Sierra On-Line, Inc.
+year: '1987'
+genre: Adventure
+language: Russian
+date:
+  added: '2022-04-11T01:19:30'
+  last_modified: '2022-04-11T01:19:30'
+version: 2.0A
+type: zip
+tags:
+- Translated
+commands:
+  play: START.COM
+files:
+- name: AGI
+  size: 39424
+  date: '1994-02-19T22:44:02'
+  crc: '0xc40088a0'
+- name: AGIDATA.OVL
+  size: 8192
+  date: '1994-04-18T21:51:54'
+  crc: '0xf498a89b'
+- name: CGA_GRAF.OVL
+  size: 1024
+  date: '1987-11-04T14:35:24'
+  crc: '0xc8fcc528'
+- name: EGA_GRAF.OVL
+  size: 1024
+  date: '1987-11-04T14:35:26'
+  crc: '0x0ae98926'
+- name: HGC_FONT
+  size: 3072
+  date: '1987-01-26T13:47:26'
+  crc: '0x200435c7'
+- name: HGC_GRAF.OVL
+  size: 1536
+  date: '1987-11-04T14:35:28'
+  crc: '0x7b59fb4c'
+- name: HGC_OBJS.OVL
+  size: 1024
+  date: '1987-11-04T14:35:32'
+  crc: '0xa27c8af7'
+- name: IBM_OBJS.OVL
+  size: 512
+  date: '1987-11-04T14:35:30'
+  crc: '0xda1a4910'
+- name: LOGDIR
+  size: 423
+  date: '1994-05-21T16:49:38'
+  crc: '0xb0d5d0b7'
+- name: OBJECT
+  size: 344
+  date: '1994-04-16T12:42:36'
+  crc: '0x7fc76c47'
+- name: PICDIR
+  size: 441
+  date: '1994-05-21T16:49:42'
+  crc: '0x62bb8068'
+- name: READ.ME
+  size: 20828
+  date: '1995-04-30T15:36:56'
+  crc: '0x7b094983'
+- name: SNDDIR
+  size: 210
+  date: '1994-05-21T16:49:44'
+  crc: '0xbb9c1d68'
+- name: SQ2.OVR
+  size: 7936
+  date: '1988-04-01T10:18:16'
+  crc: '0xdb7cd179'
+- name: SQ2.RUL
+  size: 19014
+  date: '1999-01-10T18:15:16'
+  crc: '0xa2e260ed'
+- name: START.COM
+  size: 2315
+  date: '1994-04-16T22:27:02'
+  crc: '0xfb1f5522'
+- name: TITLE.OVR
+  size: 6305
+  date: '1998-03-04T10:15:04'
+  crc: '0x90757e0e'
+- name: VG_GRAF.OVL
+  size: 512
+  date: '1987-11-04T14:35:30'
+  crc: '0x0997fbf5'
+- name: VIEWDIR
+  size: 720
+  date: '1994-05-21T16:49:48'
+  crc: '0x4f91eb24'
+- name: VOL.0
+  size: 70307
+  date: '1994-04-24T11:00:54'
+  crc: '0x5c8fb266'
+- name: VOL.1
+  size: 160699
+  date: '1994-05-21T16:49:36'
+  crc: '0x7ce59914'
+- name: VOL.2
+  size: 214559
+  date: '1994-04-24T15:26:24'
+  crc: '0x17930c15'
+- name: VOL.3
+  size: 194756
+  date: '1994-04-27T22:01:42'
+  crc: '0x83a436dc'
+- name: WORDS.TOK
+  size: 7518
+  date: '1994-04-27T22:07:12'
+  crc: '0xc2b63662'

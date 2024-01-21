@@ -1,0 +1,63 @@
+filename: Lines of Luck v1.01 [SW] (1991)(Glenn Franck) [Simulation].zip
+tdc_id: '706.0'
+title:
+  screen: Lines of Luck
+publisher: Glenn Franck
+year: '1991'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:36:38'
+  last_modified: '2019-03-01T18:36:38'
+version: '1.01'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: LINES.EXE
+files:
+- name: BELLS.DAT
+  size: 7643
+  date: '1992-03-30T20:24:42'
+  crc: '0xd4ad83b2'
+- name: EGAVGA.BGI
+  size: 5554
+  date: '1990-05-04T01:00:00'
+  crc: '0x116c5498'
+- name: IMAGES.DAT
+  size: 171024
+  date: '1992-03-30T20:09:30'
+  crc: '0x03893140'
+- name: LINES.DOC
+  size: 21405
+  date: '1992-10-18T17:22:58'
+  crc: '0x1944ae4a'
+- name: LINES.EXE
+  size: 149167
+  date: '1992-10-19T20:53:34'
+  crc: '0xfacd08a7'
+- name: LITT.CHR
+  size: 5131
+  date: '1989-05-31T01:00:02'
+  crc: '0xf443c492'
+- name: README
+  size: 1867
+  date: '1992-10-18T17:14:52'
+  crc: '0x245dbb0b'
+- name: REGISTER.DOC
+  size: 2429
+  date: '1992-10-19T19:54:20'
+  crc: '0x2d7fa994'
+- name: SANS.CHR
+  size: 13638
+  date: '1989-05-31T01:00:02'
+  crc: '0x10e47f8f'
+- name: TRIP.CHR
+  size: 7241
+  date: '1990-05-04T01:00:00'
+  crc: '0xfe5cd6b1'
+- name: TSCR.CHR
+  size: 16933
+  date: '1989-05-31T01:00:02'
+  crc: '0x26bc6887'

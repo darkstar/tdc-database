@@ -1,0 +1,31 @@
+filename: PacWorm (1982)(Richard Addison) [Action].zip
+tdc_id: '10587.0'
+title:
+  screen: PacWorm
+publisher: Richard Addison
+year: '1982'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:23:02'
+  last_modified: '2019-03-01T18:23:02'
+type: zip
+media: Download
+commands:
+  play: worm.bat
+references:
+  dosid: DOS03891
+  exodos: PacWorm (1982).zip
+files:
+- name: PACWORM.BAS
+  size: 6265
+  date: '1980-01-01T00:12:16'
+  crc: '0xebf00670'
+- name: gwbasic.exe
+  size: 80592
+  date: '1997-11-10T17:19:20'
+  crc: '0x8462d0e4'
+- name: worm.bat
+  size: 19
+  date: '2007-09-03T08:41:02'
+  crc: '0x9a30b673'

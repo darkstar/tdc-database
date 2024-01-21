@@ -1,0 +1,45 @@
+filename: Video Vegas v4.10s (En)(Es) [SW] (1991)(P.C. Software) [Strategy, Cards, Compilation].zip
+tdc_id: '17252.0'
+title:
+  screen: Video Vegas
+publisher: P.C. Software
+year: '1991'
+genre:
+- Strategy
+- Cards
+- Compilation
+language:
+- English
+- Spanish
+date:
+  added: '2023-03-01T15:17:53'
+  last_modified: '2023-03-01T15:17:53'
+version: 4.10s
+type: zip
+tags:
+- Shareware
+media: Download
+compilation: true
+commands:
+  play: VVS.COM
+files:
+- name: DESC.TXT
+  size: 501
+  date: '1994-02-11T23:43:50'
+  crc: '0x512cc284'
+- name: ORDERS.TXT
+  size: 4758
+  date: '1991-10-08T19:03:20'
+  crc: '0x6117a5da'
+- name: README.VVS
+  size: 3690
+  date: '1991-09-27T11:31:10'
+  crc: '0xdda0e98e'
+- name: SETUP.DTA
+  size: 577
+  date: '1994-02-11T23:44:28'
+  crc: '0xc7d0c7fd'
+- name: VVS.COM
+  size: 35515
+  date: '1991-09-09T14:45:20'
+  crc: '0x1721ef18'

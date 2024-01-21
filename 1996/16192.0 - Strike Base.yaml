@@ -1,0 +1,42 @@
+filename: Strike Base v1.18 (1996)(Max Design GesMBH) [Action, Strategy].zip
+tdc_id: '16192.0'
+title:
+  box: Strike Base
+publisher: Max Design GesMBH
+year: '1996'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-02T10:21:00'
+  last_modified: '2019-03-02T10:21:00'
+version: '1.18'
+type: zip
+commands:
+  play: STRIKE.EXE
+files:
+- name: AUTORUN.ICO
+  size: 766
+  date: '1996-12-24T23:32:00'
+  crc: '0x7e0c73ae'
+- name: CONFIG.TXT
+  size: 143
+  date: '2011-07-02T02:40:44'
+  crc: '0x4d3993ce'
+- name: DOS4GW.EXE
+  size: 265420
+  date: '1996-12-24T23:32:00'
+  crc: '0xcb214447'
+- name: GAMEDATA.CD
+  size: 59896805
+  date: '1996-12-24T23:32:00'
+  crc: '0xeceebe2f'
+- name: SETSOUND.EXE
+  size: 85750
+  date: '1996-12-24T23:32:00'
+  crc: '0xa20f32ae'
+- name: STRIKE.EXE
+  size: 432997
+  date: '1996-12-24T23:32:00'
+  crc: '0x060dae5b'

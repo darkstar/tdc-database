@@ -1,0 +1,42 @@
+filename: Sensible Soccer (demo) (Installer) (1994)(Sensible Software) [Simulation, Sports].zip
+tdc_id: '3265.0'
+title:
+  screen: Sensible Soccer
+  qualifier: demo
+publisher: Sensible Software
+year: '1994'
+genre:
+- Simulation
+- Sports
+language: English
+date:
+  added: '2013-05-31T14:42:58'
+  last_modified: '2013-05-31T14:42:58'
+type: zip
+installer: true
+demo: true
+files:
+- name: DISK1
+  size: 1
+  date: '1991-04-14T19:17:18'
+  crc: '0x37d75180'
+- name: INSTALL.EXE
+  size: 13118
+  date: '1994-02-17T14:18:30'
+  crc: '0x08f697ac'
+- name: READ.ME
+  size: 17038
+  date: '1994-02-16T15:58:36'
+  crc: '0xfe44a553'
+- name: SETUP.DAT
+  size: 97
+  date: '1994-09-14T01:44:42'
+  crc: '0x92f8164c'
+- name: SOC.DAT
+  size: 561146
+  date: '1994-03-24T12:09:40'
+  crc: '0x18daaeeb'
+- name: USA.EXE
+  size: 78006
+  date: '1994-03-29T17:31:44'
+  crc: '0x105d51fe'

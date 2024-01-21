@@ -1,0 +1,102 @@
+filename: Future Wars- Adventures in Time (1990)(Delphine Software International) [Adventure].zip
+tdc_id: '13882.0'
+parent_id: '13882.10'
+title:
+  box: 'Future Wars: Adventures in Time'
+publisher: Delphine Software International
+year: '1990'
+genre: Adventure
+language: English
+date:
+  added: '2022-07-23T13:42:36'
+  last_modified: '2022-07-23T13:42:36'
+type: zip
+commands:
+  play: DELPHINE.EXE
+  setup: INSTALL.EXE
+notes: 'This is the UK version, also known as "Future Wars: Time Travellers" on the box'
+files:
+- name: AUTO00.PRC
+  size: 128
+  date: '1990-05-28T23:47:32'
+  crc: '0x27190770'
+- name: BASESON.SND
+  size: 16298
+  date: '1990-05-28T23:42:42'
+  crc: '0x6a942d95'
+- name: DELPHINE.EXE
+  size: 44973
+  date: '1990-07-13T11:07:54'
+  crc: '0x974e4331'
+- name: INSTALL.EXE
+  size: 12062
+  date: '1990-05-16T12:08:44'
+  crc: '0xae8028dd'
+- name: LVDT.BAT
+  size: 29
+  date: '1990-04-26T21:07:22'
+  crc: '0x1b1b7eb3'
+- name: PART01
+  size: 167912
+  date: '1990-05-28T23:57:08'
+  crc: '0x575725aa'
+- name: PART01.PAL
+  size: 4708
+  date: '1990-04-23T11:03:48'
+  crc: '0x28be6ffc'
+- name: PART01._
+  size: 167912
+  date: '1990-05-28T23:57:08'
+  crc: '0x7a9015a1'
+- name: PART02
+  size: 276948
+  date: '1990-05-28T23:43:40'
+  crc: '0x78b1ed4b'
+- name: PART02.PAL
+  size: 4246
+  date: '1990-04-18T20:30:14'
+  crc: '0x3d9d19ae'
+- name: PART03
+  size: 154970
+  date: '1990-05-28T23:43:58'
+  crc: '0x11773802'
+- name: PART03.PAL
+  size: 5842
+  date: '1990-04-23T00:30:52'
+  crc: '0x9e788656'
+- name: PART04
+  size: 153596
+  date: '1990-05-28T23:44:12'
+  crc: '0x42bfb820'
+- name: PART04.PAL
+  size: 2860
+  date: '1990-03-30T12:03:28'
+  crc: '0x8b7d07ea'
+- name: PART04B
+  size: 92536
+  date: '1990-05-28T23:44:30'
+  crc: '0xca5a6630'
+- name: PART04B.PAL
+  size: 1474
+  date: '1990-04-23T00:33:12'
+  crc: '0x1e3f5426'
+- name: TEXTE.DAT
+  size: 4996
+  date: '1990-05-28T23:47:08'
+  crc: '0x83f3f5a9'
+- name: VOL.1
+  size: 1
+  date: '1990-05-28T23:46:10'
+  crc: '0xf9b6b51f'
+- name: VOL.2
+  size: 1
+  date: '1990-05-28T23:46:10'
+  crc: '0xf9b6b51f'
+- name: VOL.3
+  size: 1
+  date: '1990-05-28T23:46:10'
+  crc: '0xf9b6b51f'
+- name: VOL.END
+  size: 1
+  date: '1990-05-28T23:46:10'
+  crc: '0xf9b6b51f'

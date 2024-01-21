@@ -1,0 +1,33 @@
+filename: Dog Star (1986)(Lance Micklus) [Adventure, Interactive Fiction].zip
+tdc_id: '6603.0'
+title:
+  screen: Dog Star
+publisher: Lance Micklus
+year: '1986'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:24:44'
+  last_modified: '2019-03-01T18:24:44'
+type: zip
+commands:
+  play: DOGSTAR.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: DOGSTAR.BAS
+  size: 14768
+  date: '1986-07-19T00:00:48'
+  crc: '0xbb9fb772'
+- name: DOGSTAR.BAT
+  size: 18
+  date: '2014-12-18T17:59:58'
+  crc: '0xee7b7181'
+- name: DOGSTAR.BA_
+  size: 14768
+  date: '1986-07-19T00:00:48'
+  crc: '0x903723cb'

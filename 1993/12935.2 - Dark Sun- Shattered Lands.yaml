@@ -1,0 +1,52 @@
+filename: Dark Sun- Shattered Lands (Installer) (1993)(Strategic Simulations, Inc.) [Role-Playing (RPG)].zip
+tdc_id: '12935.2'
+title:
+  box: 'Dark Sun: Shattered Lands'
+publisher: Strategic Simulations, Inc.
+year: '1993'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T19:02:14'
+  last_modified: '2019-03-01T19:02:14'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: BOOT.NFO
+  size: 33
+  date: '1993-09-08T08:53:22'
+  crc: '0x63d5e7c2'
+- name: DATA1.ARJ
+  size: 1374055
+  date: '1993-09-10T10:09:54'
+  crc: '0x3546c833'
+- name: DATA2.ARJ
+  size: 1456872
+  date: '1993-09-10T10:14:16'
+  crc: '0x4911d7de'
+- name: DATA3.ARJ
+  size: 1456910
+  date: '1993-09-10T10:18:48'
+  crc: '0xcb5a6d45'
+- name: DATA4.ARJ
+  size: 1456835
+  date: '1993-09-10T10:23:10'
+  crc: '0x4e3bb0a6'
+- name: DATA5.ARJ
+  size: 1355589
+  date: '1993-09-10T10:27:48'
+  crc: '0x01303941'
+- name: DEARJ.EXE
+  size: 39441
+  date: '1993-03-19T16:18:52'
+  crc: '0x284b68d2'
+- name: INSTALL.EXE
+  size: 41690
+  date: '1993-09-03T17:34:18'
+  crc: '0x30c2d9e6'
+- name: INSTALL.NFO
+  size: 163
+  date: '1993-09-08T09:40:02'
+  crc: '0xb498c8b3'

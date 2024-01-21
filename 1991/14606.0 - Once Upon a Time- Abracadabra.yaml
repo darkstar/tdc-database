@@ -1,0 +1,70 @@
+filename: Once Upon a Time- Abracadabra (En)(De)(Fr)(It)(Es) [f1] (1991)(Coktel Vision) [Adventure].zip
+tdc_id: '14606.0'
+title:
+  box: 'Once Upon a Time: Abracadabra'
+publisher: Coktel Vision
+year: '1991'
+genre: Adventure
+language:
+- English
+- Spanish
+- French
+- Italian
+- German
+date:
+  added: '2019-03-01T18:37:14'
+  last_modified: '2023-10-15T14:25:07'
+type: zip
+tags:
+- Fixed: 1
+commands:
+  play: GO.EXE
+references:
+  mobygames: https://www.mobygames.com/game/31462/once-upon-a-time-abracadabra/
+  dosid: DOS02751
+  exodos: Once Upon A Time - Abracadabra (1991).zip
+files:
+- name: ALL.ASK
+  size: 2804
+  date: '1991-11-05T14:03:20'
+  crc: '0xf746ff72'
+- name: GO.EXE
+  size: 189824
+  date: '1991-11-07T14:02:28'
+  crc: '0x8d07a4ab'
+- name: GO.EX_
+  size: 88587
+  date: '1991-11-07T14:02:28'
+  crc: '0x8554205d'
+- name: MESS.ALL
+  size: 356
+  date: '1991-11-05T14:06:18'
+  crc: '0x6cc57178'
+- name: MESS.ANG
+  size: 257
+  date: '1991-10-29T08:47:30'
+  crc: '0x1b55786e'
+- name: MESS.ESP
+  size: 315
+  date: '1991-10-31T14:36:48'
+  crc: '0x653c0dbb'
+- name: MESS.FRA
+  size: 333
+  date: '1991-11-04T12:50:40'
+  crc: '0x88175fce'
+- name: MESS.ITA
+  size: 329
+  date: '1991-11-04T10:18:06'
+  crc: '0xa966644a'
+- name: STK1.STK
+  size: 209521
+  date: '1991-11-12T15:48:38'
+  crc: '0x26b7f079'
+- name: STK2.STK
+  size: 361529
+  date: '1991-11-12T15:58:16'
+  crc: '0xfc10984b'
+- name: STK3.STK
+  size: 353257
+  date: '1991-11-12T16:00:26'
+  crc: '0x689da4a3'

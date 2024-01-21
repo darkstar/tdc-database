@@ -1,0 +1,27 @@
+filename: Zentris v1.62 (Installer) [SW] (1996)(ZenSoft) [Strategy, Action].zip
+tdc_id: '15723.3'
+title:
+  screen: Zentris
+publisher: ZenSoft
+year: '1996'
+genre:
+- Strategy
+- Action
+language: English
+date:
+  added: '2019-03-02T10:23:38'
+  last_modified: '2019-03-02T10:23:38'
+version: '1.62'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: zentrdos.exe
+notes: 1996 installer for a 1992 game.
+files:
+- name: zentrdos.exe
+  size: 192691
+  date: '2012-06-19T19:41:58'
+  crc: '0xf8285df7'

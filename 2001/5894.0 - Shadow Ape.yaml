@@ -1,0 +1,55 @@
+filename: Shadow Ape (2001)(Burning Dreams) [Adventure].zip
+tdc_id: '5894.0'
+title:
+  screen: Shadow Ape
+publisher: Burning Dreams
+year: '2001'
+genre: Adventure
+language: English
+date:
+  added: '2018-04-08T13:58:04'
+  last_modified: '2018-04-08T13:58:04'
+type: zip
+media: Download
+commands:
+  play: SHADOWPC.EXE
+references:
+  dosid: DOS06370
+  exodos: Shadow Ape (2001).zip
+files:
+- name: FILE_ID.DIZ
+  size: 504
+  date: '1996-12-24T23:32:00'
+  crc: '0xd0607c6a'
+- name: PLAYSCR.PI1
+  size: 32066
+  date: '1996-12-24T23:32:00'
+  crc: '0xc66e904d'
+- name: SATITLES.PI1
+  size: 32066
+  date: '1996-12-24T23:32:00'
+  crc: '0xb84019c6'
+- name: SCREEN18.DAT
+  size: 27520
+  date: '1996-12-24T23:32:00'
+  crc: '0x6f6aa639'
+- name: SCREEN26.DAT
+  size: 27520
+  date: '1996-12-24T23:32:00'
+  crc: '0xbe865b66'
+- name: SCREEN34.DAT
+  size: 27520
+  date: '1996-12-24T23:32:00'
+  crc: '0x38f20c15'
+- name: SCREEN57.DAT
+  size: 27520
+  date: '1996-12-24T23:32:00'
+  crc: '0x892360bd'
+- name: SHADOWPC.EXE
+  size: 16096
+  date: '1996-12-24T23:32:00'
+  crc: '0x2fe56173'
+- name: TBDTALK.TXT
+  size: 2416
+  date: '1996-12-24T23:32:00'
+  crc: '0x8c0bc61c'

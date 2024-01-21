@@ -1,0 +1,40 @@
+filename: Doppy & Pru's Summer Holiday (1989)(Doppelganger Adventures) [Adventure, Interactive Fiction].zip
+tdc_id: '6645.0'
+title:
+  screen: Doppy & Pru's Summer Holiday
+publisher: Doppelganger Adventures
+year: '1989'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:27:36'
+  last_modified: '2019-03-01T18:27:36'
+type: zip
+commands:
+  play: DPSH.EXE
+references:
+  dosid: DOS00044
+  exodos: Doppy and Pru's Summer Holiday (1989).zip
+files:
+- name: DPSH.DAT
+  size: 44207
+  date: '1991-08-18T13:06:06'
+  crc: '0xbf7895c4'
+- name: DPSH.EXE
+  size: 123287
+  date: '1991-08-22T18:27:40'
+  crc: '0x156ce6d5'
+- name: DPSH.KEY
+  size: 680
+  date: '1991-08-17T13:47:04'
+  crc: '0xa0f6d97f'
+- name: DPSH.LOC
+  size: 31871
+  date: '1991-08-17T13:47:04'
+  crc: '0xcd962a99'
+- name: DPSH.SAV
+  size: 4317
+  date: '1991-08-21T19:30:14'
+  crc: '0xb13b5969'

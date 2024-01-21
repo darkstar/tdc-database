@@ -1,0 +1,33 @@
+filename: IBM PC Blackjack [a1] (1984)(Patrick Leabo) [Strategy, Cards].zip
+tdc_id: '9653.2'
+title:
+  screen: IBM PC Blackjack
+publisher: Patrick Leabo
+year: '1984'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:24:08'
+  last_modified: '2023-02-02T08:59:30'
+type: zip
+tags:
+- Alternate: 1
+commands:
+  play: GO.BAT
+references:
+  mobygames: https://www.mobygames.com/game/blackjack_____
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: BLKJACK.BAS
+  size: 8144
+  date: '1984-07-21T13:31:32'
+  crc: '0x6e39970a'
+- name: GO.BAT
+  size: 22
+  date: '2019-01-11T13:45:52'
+  crc: '0xdfe5c088'

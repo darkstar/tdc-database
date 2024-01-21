@@ -1,0 +1,38 @@
+filename: Heathkit DND (1985)(R. Wild) [Role-Playing (RPG)].zip
+tdc_id: '1192.0'
+title:
+  screen: Heathkit DND
+publisher: R. Wild
+year: '1985'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:24:26'
+  last_modified: '2019-03-01T18:24:26'
+type: zip
+commands:
+  play: DND.EXE
+references:
+  dosid: DOS02563
+  exodos: Heathkit DND (1985).zip
+files:
+- name: DND.BAS
+  size: 49625
+  date: '1998-03-07T09:48:20'
+  crc: '0x1c33ed78'
+- name: DND.DAT
+  size: 1408
+  date: '1984-05-26T22:48:02'
+  crc: '0xc062b229'
+- name: DND.EXE
+  size: 107677
+  date: '1998-03-07T09:48:20'
+  crc: '0x2e83a7e5'
+- name: DND.TXT
+  size: 15799
+  date: '1998-03-07T09:54:26'
+  crc: '0x56b3d7f0'
+- name: MERLIN
+  size: 513
+  date: '1998-03-07T09:43:00'
+  crc: '0x66e0bf80'

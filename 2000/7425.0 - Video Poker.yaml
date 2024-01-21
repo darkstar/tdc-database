@@ -1,0 +1,62 @@
+filename: Video Poker v0.61 (Fi) (2000)(Viktor Rootselainen) [Strategy, Cards].zip
+tdc_id: '7425.0'
+title:
+  screen: Video Poker
+publisher: Viktor Rootselainen
+year: '2000'
+genre:
+- Strategy
+- Cards
+language: Finnish
+date:
+  added: '2019-03-02T10:55:08'
+  last_modified: '2019-03-02T10:55:08'
+version: '0.61'
+type: zip
+commands:
+  play: POKER.EXE
+files:
+- name: LCD.FON
+  size: 4098
+  date: '1994-10-25T22:13:44'
+  crc: '0xdb91da91'
+- name: POKER.EXE
+  size: 127844
+  date: '2000-06-20T20:07:30'
+  crc: '0x3faef197'
+- name: POKER.MAK
+  size: 34
+  date: '2000-06-18T00:51:56'
+  crc: '0x56bae53a'
+- name: POKERMOD.BAS
+  size: 17339
+  date: '2000-06-17T22:18:38'
+  crc: '0xb3286bad'
+- name: Poker.bas
+  size: 25193
+  date: '2000-06-18T17:44:12'
+  crc: '0x7977342b'
+- name: RC4.BAS
+  size: 2266
+  date: '1999-01-16T21:05:12'
+  crc: '0x00e2619f'
+- name: cards.pcx
+  size: 92282
+  date: '1998-07-13T20:26:00'
+  crc: '0xfe0af467'
+- name: cards2.pcx
+  size: 30985
+  date: '1998-07-13T20:30:28'
+  crc: '0x355a9775'
+- name: logo.pcx
+  size: 16646
+  date: '2000-06-18T01:15:44'
+  crc: '0xa95260b5'
+- name: poker.pcx
+  size: 12929
+  date: '1998-07-23T17:01:32'
+  crc: '0xd3350100'
+- name: poker.txt
+  size: 848
+  date: '2000-06-18T19:07:24'
+  crc: '0x2842e498'

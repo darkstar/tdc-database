@@ -1,0 +1,29 @@
+filename: IBM's Casino (mono) (1985)(Anonymous) [Simulation].zip
+tdc_id: '9656.3'
+title:
+  screen: IBM's Casino
+  qualifier: mono
+publisher: Anonymous
+year: '1985'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:24:28'
+  last_modified: '2019-03-01T18:24:28'
+type: zip
+media: Download
+commands:
+  play: IBMCASIN.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: IBMCASIN.BAS
+  size: 5760
+  date: '1985-03-14T22:34:50'
+  crc: '0x630a7dcb'
+- name: IBMCASIN.BAT
+  size: 18
+  date: '2014-12-25T12:05:00'
+  crc: '0x8eb53ad9'

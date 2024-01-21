@@ -1,0 +1,81 @@
+filename: Aurora Borealis (demo) v1.98 (En)(Ru)(Pt) (2003)(Alexander Svirin) [Strategy].zip
+tdc_id: '8983.2'
+title:
+  screen: Aurora Borealis
+  qualifier: demo
+publisher: Alexander Svirin
+year: '2003'
+genre: Strategy
+language:
+- English
+- Russian
+- Portuguese
+date:
+  added: '2019-03-02T10:56:26'
+  last_modified: '2019-03-02T10:56:26'
+version: '1.98'
+type: zip
+demo: true
+commands:
+  play: aurora.exe
+files:
+- name: ENGLISH.CHB
+  size: 13043800
+  date: '2003-07-19T20:56:42'
+  crc: '0x86623810'
+- name: ENG_ALEX.CHB
+  size: 311500
+  date: '2003-05-07T11:13:46'
+  crc: '0x144d2520'
+- name: RUSSIAN.CHB
+  size: 36669500
+  date: '2003-10-17T18:40:56'
+  crc: '0x632a66cb'
+- name: RUS_ENGN.CHB
+  size: 36669500
+  date: '2003-10-17T18:47:50'
+  crc: '0xff0e52a6'
+- name: aurora.exe
+  size: 181936
+  date: '2003-10-17T18:46:10'
+  crc: '0x90265bd8'
+- name: aurora.icl
+  size: 5440
+  date: '2002-03-10T17:24:28'
+  crc: '0x2bc49854'
+- name: aurora.reg
+  size: 1011
+  date: '2002-03-10T17:45:26'
+  crc: '0xa316a1e9'
+- name: aurora_guide_en.doc
+  size: 62464
+  date: '2003-05-04T12:57:54'
+  crc: '0xdfbbd916'
+- name: aurora_guide_rus.doc
+  size: 148992
+  date: '2003-05-04T12:57:40'
+  crc: '0xa873245e'
+- name: export_en.rtf
+  size: 8025
+  date: '2003-03-02T19:38:24'
+  crc: '0x6c7dfefc'
+- name: export_rus.rtf
+  size: 22241
+  date: '2003-02-23T19:36:02'
+  crc: '0xf4087bf8'
+- name: open_eng.cbk
+  size: 9820169
+  date: '2003-08-31T10:31:40'
+  crc: '0xffc93da1'
+- name: open_rus.cbk
+  size: 23340797
+  date: '2003-10-17T18:44:22'
+  crc: '0x081f567a'
+- name: pos4.edb
+  size: 22437037
+  date: '2002-01-17T06:50:42'
+  crc: '0x84335271'
+- name: pos4en.edb
+  size: 25769926
+  date: '2003-08-31T23:32:26'
+  crc: '0x745d5daa'

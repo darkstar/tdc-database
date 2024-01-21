@@ -1,0 +1,71 @@
+filename: Backgammon Royale (En)(Fr)(De) (1990)(Oxford Softworks) [Strategy, Board].zip
+tdc_id: '12340.0'
+title:
+  box: Backgammon Royale
+publisher: Oxford Softworks
+year: '1990'
+genre:
+- Strategy
+- Board
+language:
+- English
+- French
+- German
+date:
+  added: '2019-03-01T18:31:48'
+  last_modified: '2019-03-01T18:31:48'
+type: zip
+commands:
+  play: BG.EXE
+references:
+  dosid: DOS00923
+  exodos: Backgammon Royale (1990).zip
+files:
+- name: BG.EXE
+  size: 68357
+  date: '1991-10-24T03:32:00'
+  crc: '0xdcf1a2d6'
+- name: BG.MNU
+  size: 7325
+  date: '1991-10-24T03:32:00'
+  crc: '0xc91bfa5c'
+- name: CGA.BGI
+  size: 6332
+  date: '1991-10-24T03:32:00'
+  crc: '0x5f4c2b51'
+- name: EGAVGA.BGI
+  size: 5554
+  date: '1991-10-24T03:32:00'
+  crc: '0x116c5498'
+- name: HERC.BGI
+  size: 6204
+  date: '1991-10-24T03:32:00'
+  crc: '0xac360ec1'
+- name: OPPONENT.PC1
+  size: 64048
+  date: '1991-10-24T03:32:00'
+  crc: '0x6e33f085'
+- name: OPPONENT.PC2
+  size: 64048
+  date: '1991-10-24T03:32:00'
+  crc: '0x78b97dac'
+- name: OPPONENT.PC3
+  size: 64048
+  date: '1991-10-24T03:32:00'
+  crc: '0xdc6d78a5'
+- name: OPP_CGA.PC1
+  size: 16384
+  date: '1991-10-24T03:32:00'
+  crc: '0xf51f9724'
+- name: OPP_CGA.PC2
+  size: 16384
+  date: '1991-10-24T03:32:00'
+  crc: '0xfebf71fa'
+- name: OPP_CGA.PC3
+  size: 16384
+  date: '1991-10-24T03:32:00'
+  crc: '0xf51f9724'
+- name: TINYGAME.BGG
+  size: 273
+  date: '1991-10-24T03:32:00'
+  crc: '0xd5e05631'

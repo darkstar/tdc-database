@@ -1,0 +1,232 @@
+filename: Inca II- Wiracocha v1.200 (Installer) (En)(Fr)(It)(Es) (1996)(C.T.O. Spa) [Action, Adventure].zip
+tdc_id: '11456.2'
+parent_id: '11456.11'
+title:
+  box: 'Inca II: Wiracocha'
+publisher: C.T.O. Spa
+year: '1996'
+genre:
+- Action
+- Adventure
+language:
+- English
+- Spanish
+- French
+- Italian
+date:
+  added: '2020-12-20T18:07:06'
+  last_modified: '2022-10-16T12:02:13'
+version: '1.200'
+type: zip
+installer: true
+commands:
+  play: INSTALL.COM
+references:
+  mobygames: https://www.mobygames.com/game/dos/inca-ii-nations-of-immortality
+  dosid: DOS02713
+  exodos: Inca II - Nations of Immortality (1993).zip
+files:
+- name: ACRODOS\
+  size: 0
+  date: '1996-03-21T13:35:26'
+- name: ACRODOS\8514HERE.EXE
+  size: 3245
+  date: '1993-11-22T17:02:08'
+  crc: '0x0658cef9'
+- name: ACRODOS\ACROBAT.001
+  size: 1209256
+  date: '1993-12-17T16:53:36'
+  crc: '0xa566419d'
+- name: ACRODOS\ACROBAT.002
+  size: 1221865
+  date: '1993-12-17T16:55:24'
+  crc: '0x21c67aad'
+- name: ACRODOS\ACRTEST.EXE
+  size: 5763
+  date: '1993-10-13T16:16:28'
+  crc: '0x0dd628ae'
+- name: ACRODOS\BINMOD.EXE
+  size: 4873
+  date: '1993-12-08T12:59:24'
+  crc: '0x9397e133'
+- name: ACRODOS\DISK.ID
+  size: 43
+  date: '1993-12-17T16:50:40'
+  crc: '0xce9d602a'
+- name: ACRODOS\INSTALL.EXE
+  size: 204111
+  date: '1993-12-09T18:19:52'
+  crc: '0x49a763b8'
+- name: ACRODOS\MOUSECHK.EXE
+  size: 1504
+  date: '1993-04-14T12:46:50'
+  crc: '0x2147b6c5'
+- name: ACRODOS\README.TXT
+  size: 10587
+  date: '1993-12-16T16:05:34'
+  crc: '0x07a2c33b'
+- name: ACRODOS\SERNUM.TXT
+  size: 18
+  date: '1994-03-17T20:19:36'
+  crc: '0x8720082d'
+- name: ACROWIN\
+  size: 0
+  date: '1996-03-21T13:35:46'
+- name: ACROWIN\ACROREAD.EXE
+  size: 1443672
+  date: '1995-01-16T01:50:00'
+  crc: '0x48113cfb'
+- name: CD.ITK
+  size: 103192154
+  date: '1993-11-26T12:47:40'
+  crc: '0x4a224ec6'
+- name: COKTEL.CLT
+  size: 768
+  date: '1993-10-08T15:25:36'
+  crc: '0x9a56d39a'
+- name: COKTEL.IMD
+  size: 835339
+  date: '1993-10-15T10:50:42'
+  crc: '0x38ef3aff'
+- name: COKTEL.IMS
+  size: 4003
+  date: '1993-10-08T17:23:38'
+  crc: '0xe5140e91'
+- name: COKTEL2.IMD
+  size: 531604
+  date: '1993-10-15T10:41:30'
+  crc: '0xb922fba4'
+- name: CONFORT.ITK
+  size: 13764292
+  date: '1993-11-26T12:51:16'
+  crc: '0x5f23bbb3'
+- name: DOCS\
+  size: 0
+  date: '1996-03-21T13:36:02'
+- name: DOCS\HELPREAD.PDF
+  size: 462965
+  date: '1995-02-02T20:12:42'
+  crc: '0xe724658a'
+- name: DOCS\ITALIANO\
+  size: 0
+  date: '1996-03-21T13:36:08'
+- name: DOCS\ITALIANO\MANUALE.PDF
+  size: 1941489
+  date: '1996-03-15T14:09:00'
+  crc: '0x633738b1'
+- name: DOCS\LICENSE.PDF
+  size: 12153
+  date: '1995-02-02T20:12:42'
+  crc: '0x1a4ebaab'
+- name: DOCS\README.PDF
+  size: 29643
+  date: '1995-02-02T20:12:42'
+  crc: '0x8f84ef6d'
+- name: DOCS\REGCARD.PDF
+  size: 27802
+  date: '1995-02-02T20:12:42'
+  crc: '0xc323654b'
+- name: DOCS\SUPPORT.PDF
+  size: 5733
+  date: '1995-02-02T20:12:44'
+  crc: '0x4d852686'
+- name: DOCS\TOURREAD.PDF
+  size: 479713
+  date: '1995-02-02T20:12:46'
+  crc: '0xaedfdb9e'
+- name: EXT.STK
+  size: 6616834
+  date: '1993-12-14T17:56:10'
+  crc: '0x9549d871'
+- name: FROBLI.ITK
+  size: 4250270
+  date: '1993-11-19T19:24:56'
+  crc: '0xa7a6dea7'
+- name: FRSPEAK.ITK
+  size: 38965108
+  date: '1993-11-26T13:16:44'
+  crc: '0xe4a913b8'
+- name: INCA2.EXE
+  size: 694288
+  date: '1993-12-15T15:40:06'
+  crc: '0xc785631e'
+- name: INCA2.STK
+  size: 404552
+  date: '1993-11-24T14:03:58'
+  crc: '0x06d51ff8'
+- name: INSTALL.ASK
+  size: 16501
+  date: '1993-12-15T15:28:04'
+  crc: '0x31f008d0'
+- name: INSTALL.COM
+  size: 5691
+  date: '1993-08-19T12:25:20'
+  crc: '0x33818fdf'
+- name: INSTALL.INF
+  size: 1126
+  date: '1993-12-15T11:30:44'
+  crc: '0xd51e9819'
+- name: INTRO.STK
+  size: 916828
+  date: '1993-12-14T18:18:52'
+  crc: '0xf9ba2aa5'
+- name: ITOBLI.ITK
+  size: 4803464
+  date: '1993-12-14T17:22:56'
+  crc: '0xda6d5bbe'
+- name: ITSPEAK.ITK
+  size: 44693532
+  date: '1993-12-16T16:56:04'
+  crc: '0x964637a9'
+- name: LOCO.STK
+  size: 188088
+  date: '1993-11-22T15:45:18'
+  crc: '0x9d26cd6c'
+- name: MDO.DEF
+  size: 208
+  date: '1993-12-14T17:44:04'
+  crc: '0xb8b4654b'
+- name: MDOS.IMD
+  size: 1280318
+  date: '1993-10-20T09:21:12'
+  crc: '0xd64e32e9'
+- name: MUSINCA.LIC
+  size: 488
+  date: '1993-11-15T11:54:36'
+  crc: '0x64a44c18'
+- name: OBLI.ITK
+  size: 3636658
+  date: '1993-11-26T13:18:36'
+  crc: '0xeaf4bf8c'
+- name: README.BAT
+  size: 17
+  date: '1993-12-14T18:21:12'
+  crc: '0xbcd664e1'
+- name: README.TXT
+  size: 136
+  date: '1993-12-15T14:23:06'
+  crc: '0xf53779b0'
+- name: SETUP.EXE
+  size: 74339
+  date: '1993-12-16T10:04:10'
+  crc: '0x3f81527a'
+- name: SPEAK.INF
+  size: 7
+  date: '1993-11-02T22:12:56'
+  crc: '0x41745f90'
+- name: USOBLI.ITK
+  size: 4526772
+  date: '1993-11-26T13:19:46'
+  crc: '0x6e9f78f3'
+- name: USSPEAK.ITK
+  size: 44266780
+  date: '1993-11-26T13:30:24'
+  crc: '0xc217c62f'
+- name: VERSION
+  size: 22
+  date: '1993-12-15T10:24:16'
+  crc: '0x2dd0d249'
+- name: ZZZZZZZZ.ZZZ
+  size: 2934796
+  date: '1993-09-15T15:11:16'
+  crc: '0x53f1127f'

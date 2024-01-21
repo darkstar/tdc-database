@@ -1,0 +1,79 @@
+filename: Udoiana Raunes v1.1 (2000)(Stefan Zwanzger, Thomas Wagner) [Adventure].zip
+tdc_id: '17021.0'
+title:
+  screen: Udoiana Raunes
+publisher: Stefan Zwanzger, Thomas Wagner
+year: '2000'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-02T10:55:08'
+  last_modified: '2019-03-02T10:55:08'
+version: '1.1'
+type: zip
+commands:
+  play: RAUNES.EXE
+references:
+  dosid: DOS05662
+  exodos: Udoiana Raunes (2000).zip
+files:
+- name: BP.DSK
+  size: 320
+  date: '1998-11-22T23:16:24'
+  crc: '0xdbc2eb2a'
+- name: RAUNES.CFG
+  size: 347
+  date: '1998-11-30T18:11:36'
+  crc: '0xa9f3bf32'
+- name: RAUNES.DAT
+  size: 1785818
+  date: '1998-11-22T01:14:46'
+  crc: '0x22090d7c'
+- name: RAUNES.EXE
+  size: 144704
+  date: '1998-11-30T18:57:38'
+  crc: '0xba256e24'
+- name: RAUNES.SND
+  size: 881604
+  date: '1998-04-28T22:12:20'
+  crc: '0x3b36efd3'
+- name: RAUNES1.SAV
+  size: 185
+  date: '1998-11-30T18:11:36'
+  crc: '0x0a95c5a6'
+- name: RAUNES2.SAV
+  size: 185
+  date: '1998-11-22T15:55:10'
+  crc: '0xae522e26'
+- name: RAUNES2.SND
+  size: 419360
+  date: '1998-04-28T22:18:28'
+  crc: '0x636b2ddb'
+- name: RAUNES3.SAV
+  size: 185
+  date: '1998-11-22T15:55:18'
+  crc: '0xae522e26'
+- name: RAUNES4.SAV
+  size: 185
+  date: '1998-11-22T15:55:22'
+  crc: '0xae522e26'
+- name: RAUNES5.SAV
+  size: 185
+  date: '1998-11-22T15:55:26'
+  crc: '0xae522e26'
+- name: SELF.SF
+  size: 15557
+  date: '1997-07-22T17:08:52'
+  crc: '0x6e1acf2c'
+- name: URS.ICO
+  size: 766
+  date: '1998-04-19T18:35:06'
+  crc: '0x3ddfa02b'
+- name: VERSION.TXT
+  size: 408
+  date: '1998-11-22T00:48:44'
+  crc: '0x689948a5'
+- name: WHATSNEW.TXT
+  size: 838
+  date: '1998-11-22T00:50:36'
+  crc: '0xa094f0c2'

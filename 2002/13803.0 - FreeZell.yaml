@@ -1,0 +1,81 @@
+filename: FreeZell [FW] (2002)(Dieter Caspary) [Strategy, Cards].zip
+tdc_id: '13803.0'
+title:
+  screen: FreeZell
+publisher: Dieter Caspary
+year: '2002'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-02T10:55:58'
+  last_modified: '2019-03-02T10:55:58'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: freezell.exe
+files:
+- name: Data\
+  size: 0
+  date: '2002-10-20T14:50:44'
+- name: Data\Score.dat
+  size: 8
+  date: '2002-10-20T22:51:44'
+  crc: '0xc93010f9'
+- name: Data\cursor.dat
+  size: 768
+  date: '2002-10-17T01:19:52'
+  crc: '0xade52ea8'
+- name: Images\
+  size: 0
+  date: '2002-10-20T14:50:44'
+- name: Images\loser.gif
+  size: 9250
+  date: '2002-10-10T10:49:54'
+  crc: '0x7f2c8caa'
+- name: Images\map.gif
+  size: 44261
+  date: '2002-10-10T01:12:52'
+  crc: '0xa55a8690'
+- name: Images\winner.gif
+  size: 9341
+  date: '2002-10-10T17:58:38'
+  crc: '0x351ae2c2'
+- name: Sound\
+  size: 0
+  date: '2002-10-20T14:50:44'
+- name: Sound\click.wav
+  size: 8028
+  date: '2002-10-03T23:54:56'
+  crc: '0x0a20367a'
+- name: Sound\error.wav
+  size: 75466
+  date: '2002-10-03T23:54:02'
+  crc: '0xdaf01ad8'
+- name: Sound\intro.wav
+  size: 45422
+  date: '2002-10-20T13:36:26'
+  crc: '0xd9120167'
+- name: Sound\loser.wav
+  size: 70760
+  date: '2002-10-03T23:52:16'
+  crc: '0x1f278f84'
+- name: Sound\request.wav
+  size: 101960
+  date: '2002-10-03T23:41:52'
+  crc: '0xb06b0f0f'
+- name: Sound\winner.wav
+  size: 198508
+  date: '2002-10-03T23:52:52'
+  crc: '0x82e4a9ba'
+- name: freezell.exe
+  size: 132246
+  date: '2002-10-20T22:27:06'
+  crc: '0xcaf542ec'
+- name: readme.txt
+  size: 1824
+  date: '2002-10-20T22:45:42'
+  crc: '0xcb72c83d'

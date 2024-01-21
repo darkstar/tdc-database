@@ -1,0 +1,28 @@
+filename: Tron (1997)(Jonathan Shneier) [Action].zip
+tdc_id: '4116.0'
+title:
+  screen: Tron
+publisher: Jonathan Shneier
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:38:36'
+  last_modified: '2019-03-02T10:38:36'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 24
+  date: '2018-11-19T23:05:34'
+  crc: '0xd084ae17'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'
+- name: TRON.BAS
+  size: 8076
+  date: '1997-03-07T04:34:32'
+  crc: '0x571eba4a'

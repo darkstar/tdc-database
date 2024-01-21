@@ -1,0 +1,89 @@
+filename: Toci (demo) (Ko) (1993)(Makkoya) [Action].zip
+tdc_id: '2866.0'
+title:
+  screen: Toci
+  qualifier: demo
+publisher: Makkoya
+year: '1993'
+genre: Action
+language: Korean
+date:
+  added: '2021-01-23T23:37:04'
+  last_modified: '2021-01-23T23:37:04'
+type: zip
+demo: true
+commands:
+  play: TOCI.EXE
+files:
+- name: ASC.FNT
+  size: 1824
+  date: '1993-06-14T01:17:20'
+  crc: '0x342f8719'
+- name: BASIC1.FNT
+  size: 6504
+  date: '1993-06-14T00:19:22'
+  crc: '0xc7c56df3'
+- name: BOSS1.CMB
+  size: 2762
+  date: '1993-06-16T12:48:36'
+  crc: '0x40324b9c'
+- name: BOSS1.VSF
+  size: 14888
+  date: '1993-06-15T20:41:16'
+  crc: '0x5c915458'
+- name: CONFIG.CFG
+  size: 6
+  date: '1993-03-23T21:03:52'
+  crc: '0x097ec6c6'
+- name: EFFECT.VSF
+  size: 28652
+  date: '1993-06-21T00:30:50'
+  crc: '0x5962b5b8'
+- name: GAME2.MID
+  size: 4175
+  date: '1992-12-01T18:44:08'
+  crc: '0xef8e1ce5'
+- name: ITEM.VSF
+  size: 10424
+  date: '1993-06-21T00:26:52'
+  crc: '0x109fdd7f'
+- name: KS5601.FNT
+  size: 6080
+  date: '1993-02-01T11:52:26'
+  crc: '0xb564dbd1'
+- name: LOGO.VSF
+  size: 17044
+  date: '1993-06-11T21:56:54'
+  crc: '0x19a50a07'
+- name: MOVE.VSF
+  size: 75524
+  date: '1993-06-11T23:17:50'
+  crc: '0xebf87ee5'
+- name: SC1.MID
+  size: 6716
+  date: '1992-11-08T10:49:32'
+  crc: '0x8556deb6'
+- name: ST1.VSF
+  size: 68828
+  date: '1993-06-09T21:54:58'
+  crc: '0xea83976c'
+- name: TOCI.EXE
+  size: 161926
+  date: '1993-06-21T00:39:16'
+  crc: '0x0da4172b'
+- name: TOCI1.FNT
+  size: 20904
+  date: '1993-06-19T02:18:34'
+  crc: '0xdcd66318'
+- name: TOCI1.SCR
+  size: 28025
+  date: '1993-06-21T00:42:56'
+  crc: '0xfdcf057e'
+- name: VOLCANO.BMP
+  size: 64000
+  date: '1993-05-22T00:09:46'
+  crc: '0x98ecbd56'
+- name: WEAPON.VSF
+  size: 5092
+  date: '1993-06-15T20:18:14'
+  crc: '0x78a93ca8'

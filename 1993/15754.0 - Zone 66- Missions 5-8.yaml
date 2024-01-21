@@ -1,0 +1,39 @@
+filename: Zone 66- Missions 5-8 (Installer) [SWR] (1993)(Epic MegaGames, Inc.) [Action, Addon].zip
+tdc_id: '15754.0'
+title:
+  screen: 'Zone 66: Missions 5-8'
+publisher: Epic MegaGames, Inc.
+year: '1993'
+genre:
+- Action
+- Addon
+language: English
+date:
+  added: '2019-03-01T21:12:50'
+  last_modified: '2019-03-01T21:12:50'
+type: zip
+tags:
+- SharewareRegistered
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK2\
+  size: 0
+  date: '2014-11-24T12:55:48'
+- name: DISK2\ZONE66B.PAK
+  size: 165262
+  date: '1993-03-18T18:07:58'
+  crc: '0xb615b59b'
+- name: INSTALL.EXE
+  size: 31464
+  date: '1992-08-21T20:34:20'
+  crc: '0x08c1de75'
+- name: INSTALL.FIL
+  size: 1836
+  date: '1993-03-18T18:02:24'
+  crc: '0xd47a3e4d'
+- name: ZONE66B.PAK
+  size: 1420088
+  date: '1993-03-18T18:06:50'
+  crc: '0x83096515'

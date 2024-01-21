@@ -1,0 +1,47 @@
+filename: Chomp (1982)(Ensign Software) [Action].zip
+tdc_id: '9176.0'
+title:
+  screen: Chomp
+publisher: Ensign Software
+year: '1982'
+genre: Action
+language: English
+date:
+  added: '2020-03-10T17:15:40'
+  last_modified: '2020-03-10T17:15:40'
+type: zip
+commands:
+  play: CHOMP.EXE
+files:
+- name: CHOMP.EXE
+  size: 37632
+  date: '1980-01-01T01:32:12'
+  crc: '0x2a5ec008'
+- name: EXIT.HOE
+  size: 63
+  date: '1980-01-01T01:31:32'
+  crc: '0xfed49e74'
+- name: HS.DAT
+  size: 128
+  date: '1980-01-01T02:24:02'
+  crc: '0x930d4d88'
+- name: MAZE1.DAT
+  size: 1159
+  date: '1980-01-01T02:41:24'
+  crc: '0x773a6679'
+- name: MAZE2.DAT
+  size: 1280
+  date: '1991-12-01T15:26:00'
+  crc: '0xa2342e92'
+- name: MAZE3.DAT
+  size: 1280
+  date: '1980-01-01T02:50:20'
+  crc: '0x1f359e6f'
+- name: MAZE4.DAT
+  size: 1280
+  date: '1980-01-01T01:11:54'
+  crc: '0x3c16d048'
+- name: MAZE5.DAT
+  size: 1280
+  date: '1980-01-01T01:10:14'
+  crc: '0x2154eb7a'

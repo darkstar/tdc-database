@@ -1,0 +1,39 @@
+filename: Eliza v3.0 [SW] (1981)(Steve Grumette) [Simulation].zip
+tdc_id: '5184.0'
+title:
+  screen: Eliza
+publisher: Steve Grumette
+year: '1981'
+genre: Simulation
+language: English
+date:
+  added: '2019-09-02T05:03:46'
+  last_modified: '2019-09-02T05:03:46'
+version: '3.0'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: ELIZA.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: ELIZA.BAS
+  size: 24320
+  date: '1982-11-08T12:00:00'
+  crc: '0x1ea189d2'
+- name: ELIZA.BAT
+  size: 15
+  date: '1980-01-01T11:00:00'
+  crc: '0x3a0d2920'
+- name: STRINGS.FIL
+  size: 1280
+  date: '1983-02-20T12:00:00'
+  crc: '0xe716e5b2'
+- name: WRTSTR.BAS
+  size: 1280
+  date: '1982-04-15T12:00:00'
+  crc: '0x36b660ab'

@@ -1,0 +1,73 @@
+filename: Gobliiins v1.02 (Installer) (1995)(Sierra On-Line, Inc.) [Adventure, Puzzle].zip
+tdc_id: '14105.10'
+parent_id: '14105.11'
+title:
+  box: Gobliiins
+publisher: Sierra On-Line, Inc.
+year: '1995'
+genre:
+- Adventure
+- Puzzle
+language: English
+date:
+  added: '2022-05-27T12:32:28'
+  last_modified: '2022-05-27T12:32:28'
+version: '1.02'
+type: zip
+installer: true
+files:
+- name: BGO.BAT
+  size: 3
+  date: '1993-10-05T10:39:38'
+  crc: '0xf30073ab'
+- name: GO.BAT
+  size: 3
+  date: '1993-10-05T10:39:38'
+  crc: '0xf30073ab'
+- name: GOB.EXE
+  size: 82990
+  date: '1993-09-17T11:47:22'
+  crc: '0x5f071446'
+- name: GOB.LIC
+  size: 949
+  date: '1993-09-17T08:53:08'
+  crc: '0x21ac85cd'
+- name: INSTALL.ASK
+  size: 15885
+  date: '1993-09-02T10:01:16'
+  crc: '0x13a2b422'
+- name: INSTALL.EXE
+  size: 5723
+  date: '1993-08-26T16:29:10'
+  crc: '0xa3580da6'
+- name: INSTALL.INF
+  size: 632
+  date: '1993-10-06T10:08:38'
+  crc: '0xfd4095cb'
+- name: INTRO.STK
+  size: 3261212
+  date: '1993-09-17T08:53:06'
+  crc: '0x0dbf4f45'
+- name: MDO.DEF
+  size: 182
+  date: '1993-10-06T10:33:42'
+  crc: '0x6b03c81e'
+- name: PATCH\
+  size: 0
+  date: '1995-09-15T10:45:18'
+- name: PATCH\GOB.EXE
+  size: 84373
+  date: '1994-01-19T15:47:58'
+  crc: '0x54c9f319'
+- name: PATCH\README.BAT
+  size: 35
+  date: '1994-01-12T18:10:00'
+  crc: '0xa0442cf6'
+- name: SETUP.EXE
+  size: 70543
+  date: '1993-09-17T11:41:12'
+  crc: '0x231b1667'
+- name: VERSION
+  size: 28
+  date: '1993-10-05T10:38:20'
+  crc: '0xaa74e0fd'

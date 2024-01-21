@@ -1,0 +1,31 @@
+filename: Guncrib v1.1.0 [SW] (1993)(David Sherohman) [Action].zip
+tdc_id: '10973.0'
+title:
+  screen: Guncrib
+publisher: David Sherohman
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2022-01-02T17:11:42'
+  last_modified: '2022-01-02T17:11:42'
+version: 1.1.0
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: guncrib.exe
+files:
+- name: guncrib.doc
+  size: 8926
+  date: '1993-06-18T12:54:04'
+  crc: '0xd9900b23'
+- name: guncrib.exe
+  size: 30603
+  date: '1993-06-15T10:25:48'
+  crc: '0xaafe77c6'
+- name: letters.bmp
+  size: 6016
+  date: '1991-08-24T16:55:26'
+  crc: '0x0bdadbbf'

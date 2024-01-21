@@ -1,0 +1,49 @@
+filename: Monkey Island 2- LeChuck's Revenge v1.0D (Installer) (De) [a1] (1992)(Softgold Computerspiele GmbH) [Adventure][!].zip
+tdc_id: '7891.5'
+parent_id: '7891.17'
+title:
+  box: 'Monkey Island 2: LeChuck''s Revenge'
+  qualifier: Installer
+publisher: Softgold Computerspiele GmbH
+year: '1992'
+genre: Adventure
+language: German
+date:
+  added: '2019-03-01T18:36:58'
+  last_modified: '2023-12-05T10:33:55'
+version: 1.0D
+type: zip
+tags:
+- KnownGood
+- Alternate: 1
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/289/monkey-island-2-lechucks-revenge/
+files:
+- name: INSTALL.EXE
+  size: 23552
+  date: '1992-03-05T18:08:50'
+  crc: '0xe6dbf6e5'
+- name: PCV10__A.MI2
+  size: 1432136
+  date: '1992-03-05T18:22:50'
+  crc: '0x67e11039'
+- name: PCV10__B.MI2
+  size: 1456136
+  date: '1992-03-05T18:22:50'
+  crc: '0x7c2452fa'
+- name: PCV10__C.MI2
+  size: 1456136
+  date: '1992-03-05T18:22:50'
+  crc: '0x88385d59'
+- name: PCV10__D.MI2
+  size: 1456136
+  date: '1992-03-05T18:22:50'
+  crc: '0x993b16c3'
+- name: PCV10__E.MI2
+  size: 1446647
+  date: '1992-03-05T18:22:50'
+  crc: '0xc5fe1c81'

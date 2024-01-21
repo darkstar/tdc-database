@@ -1,0 +1,32 @@
+filename: Booga Hunt (1996)(Ben Piko, Jamie Godden) [Action].zip
+tdc_id: '179.0'
+title:
+  screen: Booga Hunt
+publisher: Ben Piko, Jamie Godden
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:00:10'
+  last_modified: '2019-03-02T10:00:10'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: B_HUNT.BAS
+  size: 26981
+  date: '1996-05-04T12:56:32'
+  crc: '0xb177a2d2'
+- name: B_HUNT.TXT
+  size: 3369
+  date: '1996-04-12T08:38:56'
+  crc: '0x2cecb544'
+- name: GO.BAT
+  size: 26
+  date: '2018-03-13T01:00:52'
+  crc: '0x432222b7'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'

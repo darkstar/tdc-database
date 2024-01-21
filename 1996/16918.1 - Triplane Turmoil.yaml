@@ -1,0 +1,53 @@
+filename: Triplane Turmoil v1.02 [SWR] (1996)(Dodekaedron Software Creations, Inc.) [Action].zip
+tdc_id: '16918.1'
+title:
+  screen: Triplane Turmoil
+publisher: Dodekaedron Software Creations, Inc.
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:22:20'
+  last_modified: '2019-03-02T10:22:20'
+version: '1.02'
+type: zip
+tags:
+- SharewareRegistered
+commands:
+  play: triplane.exe
+references:
+  dosid: DOS05278
+  exodos: Triplane Turmoil (1996).zip
+files:
+- name: cwsdpmi.doc
+  size: 7186
+  date: '1998-08-05T15:57:22'
+  crc: '0x9e137891'
+- name: cwsdpmi.exe
+  size: 20217
+  date: '1998-08-05T15:57:22'
+  crc: '0xf967640f'
+- name: fokker.dks
+  size: 4361168
+  date: '1999-07-14T12:36:32'
+  crc: '0x79a13077'
+- name: keyset.dta
+  size: 24
+  date: '1998-08-05T15:57:24'
+  crc: '0x9d364b00'
+- name: license.txt
+  size: 1414
+  date: '1999-07-14T12:41:20'
+  crc: '0x7a869278'
+- name: readme.txt
+  size: 43829
+  date: '1998-08-05T15:57:24'
+  crc: '0x0d211aa8'
+- name: triplane.exe
+  size: 474624
+  date: '1997-12-31T19:02:00'
+  crc: '0x847bb371'
+- name: whatsnew.txt
+  size: 344
+  date: '1998-08-05T15:57:24'
+  crc: '0x25cb2d84'

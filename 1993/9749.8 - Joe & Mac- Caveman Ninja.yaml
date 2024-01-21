@@ -1,0 +1,39 @@
+filename: Joe & Mac- Caveman Ninja v082693 (Installer) (1993)(New World Computing, Inc.) [Action].zip
+tdc_id: '9749.8'
+parent_id: '9749.7'
+title:
+  box: 'Joe & Mac: Caveman Ninja'
+  qualifier: Installer
+publisher: New World Computing, Inc.
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2023-11-19T16:51:43'
+  last_modified: '2023-11-19T16:51:43'
+version: 082693
+type: zip
+media:
+- 720K
+- 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/888/joe-mac-caveman-ninja/
+files:
+- name: CAVEMAN.A01
+  size: 692148
+  date: '1993-08-31T16:22:46'
+  crc: '0xc34cd095'
+- name: CAVEMAN.ARJ
+  size: 1424257
+  date: '1993-08-31T15:51:58'
+  crc: '0x525e227d'
+- name: INSTALL.EXE
+  size: 32639
+  date: '1993-09-01T15:35:46'
+  crc: '0x930681cb'
+- name: JOE_N_MA.C_2
+  size: 0
+  date: '1993-08-31T13:29:36'

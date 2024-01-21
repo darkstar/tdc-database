@@ -1,0 +1,25 @@
+filename: Novatron (1982)(VeriSoft Works) [Action].zip
+tdc_id: '14524.0'
+title:
+  box: Novatron
+publisher: VeriSoft Works
+year: '1982'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:23:00'
+  last_modified: '2024-01-15T09:15:43'
+type: zip
+commands:
+  play: NOVATRON.EXE
+references:
+  mobygames: https://www.mobygames.com/company/1258/verisoft-works/
+files:
+- name: NOVATRON.DOC
+  size: 1375
+  date: '1986-07-06T13:23:30'
+  crc: '0xe34cb6fe'
+- name: NOVATRON.EXE
+  size: 28288
+  date: '1980-04-01T19:23:14'
+  crc: '0x8bb19ddc'

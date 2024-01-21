@@ -1,0 +1,36 @@
+filename: Podigan [FW] (199x)(Murray Lorden) [Adventure, Interactive Fiction].zip
+tdc_id: '17300.0'
+title:
+  screen: Podigan
+publisher: Murray Lorden
+year: 199x
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2023-03-23T14:16:04'
+  last_modified: '2023-03-23T14:16:04'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: go.bat
+files:
+- name: GWBASIC.EXE
+  size: 68416
+  date: '2020-01-20T10:29:20'
+  crc: '0xfa808a0a'
+- name: go.bat
+  size: 15
+  date: '1980-01-01T00:00:00'
+  crc: '0x2e9e142a'
+- name: podigan.bas
+  size: 39805
+  date: '2023-03-23T14:15:14'
+  crc: '0xdc0fef3b'
+- name: podigan.txt
+  size: 328
+  date: '2023-01-06T15:08:16'
+  crc: '0x632e747d'

@@ -1,0 +1,46 @@
+filename: Duke Caribbean- Life's A Beach (Installer) (1997)(WizardWorks Group, Inc.) [Action, Addon].zip
+tdc_id: '9463.0'
+title:
+  box: 'Duke Caribbean: Life''s A Beach'
+publisher: WizardWorks Group, Inc.
+year: '1997'
+genre:
+- Action
+- Addon
+language: English
+date:
+  added: '2019-03-02T10:31:06'
+  last_modified: '2019-03-02T10:31:06'
+type: zip
+installer: true
+commands:
+  play: GAMER.EXE
+files:
+- name: DVINTRO.TXT
+  size: 3949
+  date: '1997-11-22T20:37:02'
+  crc: '0x9c0666f1'
+- name: GAMER.EXE
+  size: 35520
+  date: '1998-01-09T19:16:26'
+  crc: '0x7feeea64'
+- name: GAMER.INI
+  size: 1642
+  date: '1997-10-16T19:31:16'
+  crc: '0xe795a974'
+- name: README.TXT
+  size: 9807
+  date: '1997-11-12T22:08:22'
+  crc: '0x92c189a3'
+- name: VACA13.SSI
+  size: 23559381
+  date: '1998-01-09T18:35:06'
+  crc: '0x4a2dbb62'
+- name: VACA15.SSI
+  size: 22521880
+  date: '1998-01-09T18:36:56'
+  crc: '0xb62b42fd'
+- name: VACAPP.SSI
+  size: 22551333
+  date: '1998-01-09T18:36:16'
+  crc: '0x2f4fccee'

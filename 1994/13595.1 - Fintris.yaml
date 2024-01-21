@@ -1,0 +1,98 @@
+filename: Fintris v1.26 (Fi)(En) [SW] (1994)(Tommi Tarkiainen) [Action, Strategy].zip
+tdc_id: '13595.1'
+title:
+  screen: Fintris
+publisher: Tommi Tarkiainen
+year: '1994'
+genre:
+- Action
+- Strategy
+language:
+- English
+- Finnish
+date:
+  added: '2016-02-16T20:52:26'
+  last_modified: '2016-02-16T20:52:26'
+version: '1.26'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: FINTRIS.EXE
+references:
+  dosid: DOS06833
+  exodos: Fintris (1994).zip
+files:
+- name: CONFIG.FIN
+  size: 46
+  date: '1994-01-10T21:10:26'
+  crc: '0x608bef24'
+- name: DEFAULT1.KEY
+  size: 10
+  date: '1993-12-01T00:47:58'
+  crc: '0x76447fe0'
+- name: DEFAULT2.KEY
+  size: 10
+  date: '1993-11-13T10:40:32'
+  crc: '0x63c85062'
+- name: EFINTRIS.TXT
+  size: 15354
+  date: '1993-12-25T09:43:36'
+  crc: '0xb2d9fdbf'
+- name: FILE_ID.DIZ
+  size: 391
+  date: '1993-10-13T15:38:00'
+  crc: '0xcda6c02f'
+- name: FINBACK.DAT
+  size: 47997
+  date: '1993-10-24T04:42:04'
+  crc: '0x680ad245'
+- name: FINBEG.DAT
+  size: 62081
+  date: '1993-08-23T19:09:48'
+  crc: '0xcfd2d4f8'
+- name: FINEND.DAT
+  size: 56880
+  date: '1993-08-23T19:09:16'
+  crc: '0xe490a39e'
+- name: FINMENU.DAT
+  size: 56955
+  date: '1993-04-08T11:35:14'
+  crc: '0x1c35d330'
+- name: FINSTAT.DAT
+  size: 50048
+  date: '1993-12-20T07:29:28'
+  crc: '0xaadf9a74'
+- name: FINTEXT.DAT
+  size: 45439
+  date: '1993-11-02T14:55:24'
+  crc: '0xa0c6ad8b'
+- name: FINTRIS.DAT
+  size: 46949
+  date: '1993-10-22T21:07:26'
+  crc: '0x2ffac86b'
+- name: FINTRIS.EXE
+  size: 79554
+  date: '1993-12-25T09:31:18'
+  crc: '0xa091d432'
+- name: SCORE.DAT
+  size: 1710
+  date: '1994-01-10T21:06:08'
+  crc: '0xbde59587'
+- name: SFINTRIS.TXT
+  size: 15956
+  date: '1993-12-25T09:45:04'
+  crc: '0xd1256d35'
+- name: SILOGO.DAT
+  size: 18553
+  date: '1993-04-08T11:35:22'
+  crc: '0xab93bc60'
+- name: TOPTEN.DAT
+  size: 58087
+  date: '1993-04-08T11:35:24'
+  crc: '0x87147168'
+- name: TOPTEXT.DAT
+  size: 47869
+  date: '1993-07-25T22:50:04'
+  crc: '0x6dc9eccd'

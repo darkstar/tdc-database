@@ -1,0 +1,38 @@
+filename: Computer Stocks & Bonds (1982)(The Avalon Hill Game Company) [Simulation, Strategy].zip
+tdc_id: '6058.0'
+title:
+  box: Computer Stocks & Bonds
+  screen: Computer Stocks & Bonds
+publisher: The Avalon Hill Game Company
+year: '1982'
+genre:
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:23:04'
+  last_modified: '2019-03-01T18:23:04'
+type: zip
+media: Download
+commands:
+  play: Runme.bat
+references:
+  dosid: DOS01492
+  exodos: Computer Stocks and Bonds (1982).zip
+files:
+- name: Runme.bat
+  size: 20
+  date: '2002-02-22T19:36:50'
+  crc: '0x9b85fc59'
+- name: STOCKS.BAS
+  size: 1152
+  date: '1999-01-01T00:00:00'
+  crc: '0x9d9d19ca'
+- name: STOCKS.TXT
+  size: 28928
+  date: '1999-01-01T00:00:00'
+  crc: '0x8bc6f5d8'
+- name: gwbasic.EXE
+  size: 80592
+  date: '1988-02-09T00:00:02'
+  crc: '0x8462d0e4'

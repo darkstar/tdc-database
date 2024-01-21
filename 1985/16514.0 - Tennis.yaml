@@ -1,0 +1,28 @@
+filename: Tennis (1985)(Imagic) [Simulation, Sports].zip
+tdc_id: '16514.0'
+title:
+  box: Tennis
+publisher: Imagic
+year: '1985'
+genre:
+- Simulation
+- Sports
+language: English
+date:
+  added: '2019-03-01T18:24:36'
+  last_modified: '2019-03-01T18:24:36'
+type: zip
+commands:
+  play: TENNISPC.EXE
+references:
+  dosid: DOS05228
+  exodos: Tournament Tennis (1985).zip
+files:
+- name: TENNIS2
+  size: 16384
+  date: '1980-01-01T00:21:46'
+  crc: '0x9318f891'
+- name: TENNISPC.EXE
+  size: 70528
+  date: '1985-05-06T18:43:44'
+  crc: '0x3d0f3f87'

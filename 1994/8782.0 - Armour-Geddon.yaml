@@ -1,0 +1,48 @@
+filename: Armour-Geddon v131093 (1994)(Psygnosis Limited, PC World) [Action, Simulation, Strategy].zip
+tdc_id: '8782.0'
+parent_id: '8782.1'
+title:
+  box: Armour-Geddon
+publisher: Psygnosis Limited, PC World
+year: '1994'
+genre:
+- Action
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:41:14'
+  last_modified: '2019-03-01T18:41:14'
+version: '131093'
+type: zip
+commands:
+  play: ARMOUR.EXE
+files:
+- name: ARMOUR
+  size: 707669
+  date: '1994-03-01T00:00:00'
+  crc: '0x1efbb981'
+- name: ARMOUR.EXE
+  size: 6991
+  date: '1994-03-01T00:00:00'
+  crc: '0x815eb721'
+- name: EXTRO
+  size: 415884
+  date: '1993-10-13T14:53:56'
+  crc: '0x9b797503'
+- name: INTRO
+  size: 392432
+  date: '1994-05-01T00:00:00'
+  crc: '0xebb6ffa5'
+- name: PSYG
+  size: 9035
+  date: '1994-03-01T00:00:00'
+  crc: '0x3aa42963'
+- name: SOUND.CFG
+  size: 1
+  date: '2000-07-04T12:08:26'
+  crc: '0xd202ef8d'
+- name: SOUND.EXE
+  size: 4203
+  date: '1994-03-01T00:00:00'
+  crc: '0xa7f7f960'

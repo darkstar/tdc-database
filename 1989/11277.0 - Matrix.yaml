@@ -1,0 +1,35 @@
+filename: Matrix (1989)(H. Wilhelm) [Strategy].zip
+tdc_id: '11277.0'
+title:
+  screen: Matrix
+publisher: H. Wilhelm
+year: '1989'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:28:18'
+  last_modified: '2019-03-01T18:28:18'
+type: zip
+commands:
+  play: MATRIX.EXE
+files:
+- name: CGA.BGI
+  size: 6253
+  date: '1991-09-11T05:00:00'
+  crc: '0x17cbdd92'
+- name: EGAVGA.BGI
+  size: 5363
+  date: '1991-09-11T05:00:00'
+  crc: '0x06d36962'
+- name: HERC.BGI
+  size: 6125
+  date: '1991-09-11T05:00:00'
+  crc: '0xc1f40043'
+- name: IBM8514.BGI
+  size: 6665
+  date: '1991-09-11T05:00:00'
+  crc: '0x0350d1bd'
+- name: MATRIX.EXE
+  size: 29264
+  date: '1980-01-01T00:00:00'
+  crc: '0x107532bf'

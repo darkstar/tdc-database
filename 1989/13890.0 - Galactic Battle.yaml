@@ -1,0 +1,42 @@
+filename: Galactic Battle (1989)(Softdisk Publishing) [Action].zip
+tdc_id: '13890.0'
+title:
+  box: Galactic Battle
+publisher: Softdisk Publishing
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:27:48'
+  last_modified: '2019-03-01T18:27:48'
+type: zip
+commands:
+  play: GB.EXE
+references:
+  dosid: DOS02149
+  exodos: Galactic Battle (1990).zip
+files:
+- name: GB.CMP
+  size: 6984
+  date: '1988-10-31T13:13:14'
+  crc: '0x864491e6'
+- name: GB.DEM
+  size: 3000
+  date: '1988-11-10T22:30:14'
+  crc: '0xbd9b06a3'
+- name: GB.EXE
+  size: 26157
+  date: '1989-10-30T17:03:02'
+  crc: '0x8ca2627e'
+- name: GB.HSC
+  size: 53
+  date: '1989-10-31T11:21:46'
+  crc: '0xce0810ab'
+- name: GB.IMG
+  size: 124560
+  date: '1989-07-20T19:54:08'
+  crc: '0x51a2e3b1'
+- name: GB.TXT
+  size: 13873
+  date: '1989-11-15T16:23:52'
+  crc: '0xaa244e12'

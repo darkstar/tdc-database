@@ -1,0 +1,38 @@
+filename: Chateu Le Mont v5.75 (2002)(Paul Allen Panks) [Adventure, Interactive Fiction].zip
+tdc_id: '9297.0'
+title:
+  screen: Chateu Le Mont
+publisher: Paul Allen Panks
+year: '2002'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2020-10-24T18:39:22'
+  last_modified: '2020-10-24T18:39:22'
+version: '5.75'
+type: zip
+commands:
+  play: CHATEU.EXE
+files:
+- name: CHATEU.BAK
+  size: 68188
+  date: '2002-10-10T07:44:56'
+  crc: '0xa1e079b6'
+- name: CHATEU.BAS
+  size: 68188
+  date: '2002-10-10T07:46:16'
+  crc: '0xa1e079b6'
+- name: CHATEU.EXE
+  size: 52318
+  date: '2002-10-10T07:46:20'
+  crc: '0xc5cca4a6'
+- name: MAP.DAT
+  size: 2383
+  date: '2002-09-13T19:56:52'
+  crc: '0x335ec3bc'
+- name: ROOMS.DAT
+  size: 2166
+  date: '2002-09-13T20:51:08'
+  crc: '0xed02b7aa'

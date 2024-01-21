@@ -1,0 +1,83 @@
+filename: Fake Ultima (1997)(Scott Scheirmann) [Role-Playing (RPG)].zip
+tdc_id: '3918.0'
+title:
+  screen: Fake Ultima
+publisher: Scott Scheirmann
+year: '1997'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-02T10:31:20'
+  last_modified: '2019-03-02T10:31:20'
+type: zip
+commands:
+  play: ULTIMA.EXE
+files:
+- name: BACKDROP.PCX
+  size: 12487
+  date: '1997-03-21T02:45:44'
+  crc: '0xbfe37ead'
+- name: BOOL.C
+  size: 46
+  date: '1997-04-13T19:38:20'
+  crc: '0xe575e9af'
+- name: BOOL.H
+  size: 224
+  date: '1997-03-15T19:58:18'
+  crc: '0xb5901345'
+- name: CITY.TXT
+  size: 7332
+  date: '1998-12-17T15:11:16'
+  crc: '0x8488edbf'
+- name: DBVIDEO.C
+  size: 21903
+  date: '1997-04-21T00:52:06'
+  crc: '0x834e99d4'
+- name: DBVIDEO.H
+  size: 2497
+  date: '1997-03-20T22:43:44'
+  crc: '0xb4461092'
+- name: KEYBOARD.C
+  size: 2541
+  date: '1997-04-21T00:52:58'
+  crc: '0x45543f9a'
+- name: KEYBOARD.H
+  size: 3940
+  date: '1997-03-15T18:01:36'
+  crc: '0x69f20d80'
+- name: MAP.TXT
+  size: 26130
+  date: '1998-12-17T15:36:26'
+  crc: '0x04dfa9c4'
+- name: MNVIDEO.C
+  size: 16359
+  date: '1997-04-21T00:21:04'
+  crc: '0xc7f4c556'
+- name: MNVIDEO.H
+  size: 3723
+  date: '1997-03-21T03:53:22'
+  crc: '0x995c4fbc'
+- name: NEWCITY.PCX
+  size: 7776
+  date: '1997-04-21T00:57:50'
+  crc: '0xb29eba45'
+- name: SBSGAME.C
+  size: 7614
+  date: '1997-03-21T03:53:58'
+  crc: '0x07f5d49e'
+- name: SBSGAME.H
+  size: 2609
+  date: '1997-03-21T03:45:04'
+  crc: '0xcc4ee57e'
+- name: ULTIMA.C
+  size: 4976
+  date: '1997-04-21T00:51:42'
+  crc: '0x2a44d30b'
+- name: ULTIMA.EXE
+  size: 70968
+  date: '1997-04-15T00:57:48'
+  crc: '0x0c8dc710'
+- name: fakeult.txt
+  size: 1494
+  date: '1997-04-21T01:11:30'
+  crc: '0xa03fd824'

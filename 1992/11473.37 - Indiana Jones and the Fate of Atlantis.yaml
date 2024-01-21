@@ -1,0 +1,31 @@
+filename: Indiana Jones and the Fate of Atlantis (demo) (Installer) (1992)(Softgold Computerspiele GmbH) [Adventure].zip
+tdc_id: '11473.37'
+title:
+  screen: Indiana Jones and the Fate of Atlantis
+  qualifier: demo
+publisher: Softgold Computerspiele GmbH
+year: '1992'
+genre: Adventure
+language: English
+date:
+  added: '2023-12-07T12:56:48'
+  last_modified: '2023-12-07T12:56:48'
+type: zip
+media: Download
+installer: true
+demo: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 34629
+  date: '1992-04-10T13:20:06'
+  crc: '0xdadc8255'
+- name: PLAFAT_A
+  size: 763876
+  date: '1992-04-10T13:20:44'
+  crc: '0xbad471a6'
+- name: READ.ME
+  size: 1316
+  date: '1992-04-10T12:39:58'
+  crc: '0xb9a29498'

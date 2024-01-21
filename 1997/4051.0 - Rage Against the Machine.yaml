@@ -1,0 +1,26 @@
+filename: Rage Against the Machine (1997)(Harald Wuest) [Action].zip
+tdc_id: '4051.0'
+title:
+  screen: Rage Against the Machine
+publisher: Harald Wuest
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:37:00'
+  last_modified: '2019-03-02T10:37:00'
+type: zip
+commands:
+  play: RAGE.EXE
+references:
+  dosid: DOS07040
+  exodos: Rage Against the Machine (1997).zip
+files:
+- name: RAGE.EXE
+  size: 32730
+  date: '1997-06-30T20:42:12'
+  crc: '0xddc87b4c'
+- name: README.TXT
+  size: 715
+  date: '1997-06-30T20:42:12'
+  crc: '0x00448cc9'

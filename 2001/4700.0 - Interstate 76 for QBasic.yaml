@@ -1,0 +1,30 @@
+filename: Interstate 76 for QBasic (2001)(Roop Singh) [Action, Racing - Driving].zip
+tdc_id: '4700.0'
+title:
+  screen: Interstate 76 for QBasic
+publisher: Roop Singh
+year: '2001'
+genre:
+- Action
+- Racing - Driving
+language: English
+date:
+  added: '2019-03-02T10:55:20'
+  last_modified: '2019-03-02T10:55:20'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 27
+  date: '2018-11-29T12:43:28'
+  crc: '0x061c7d0e'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: QBI76UZ.BAS
+  size: 26758
+  date: '2018-03-10T15:08:04'
+  crc: '0xf6ffb5ec'

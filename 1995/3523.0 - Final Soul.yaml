@@ -1,0 +1,36 @@
+filename: Final Soul v0.04 [SW] (1995)(CAT Productions, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '3523.0'
+title:
+  screen: Final Soul
+publisher: CAT Productions, Inc.
+year: '1995'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T08:43:46'
+  last_modified: '2019-03-02T08:43:46'
+version: '0.04'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: FINALV4.EXE
+references:
+  dosid: DOS02148
+  exodos: Final Soul (1995).zip
+files:
+- name: FINALV4.DAT
+  size: 59376
+  date: '1999-12-31T18:00:00'
+  crc: '0x98753443'
+- name: FINALV4.EXE
+  size: 87936
+  date: '1999-12-31T18:00:00'
+  crc: '0x09c5c05c'
+- name: FININFO.DAT
+  size: 3008
+  date: '1999-12-31T18:00:00'
+  crc: '0x621fd2e4'

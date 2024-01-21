@@ -1,0 +1,92 @@
+filename: Witchaven (demo) (Installer) [f1] (1995)(IntraCorp, Inc.) [Action].zip
+tdc_id: '3824.1'
+title:
+  screen: Witchaven
+  qualifier: demo
+publisher: IntraCorp, Inc.
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2022-10-25T11:21:14'
+  last_modified: '2022-10-25T11:21:14'
+type: zip
+tags:
+- Fixed: 1
+installer: true
+demo: true
+commands:
+  play: INSTALL.BAT
+references:
+  mobygames: https://www.mobygames.com/game/dos/witchaven
+files:
+- name: DISK1\
+  size: 0
+  date: '1995-08-22T11:43:50'
+- name: DISK1\PKBACK#.001
+  size: 0
+  date: '1995-08-01T23:34:46'
+- name: DISK1\WH.PAK
+  size: 1413162
+  date: '1995-08-22T11:43:50'
+  crc: '0x5e9eb76b'
+- name: DISK2\
+  size: 0
+  date: '1995-08-22T11:46:58'
+- name: DISK2\PKBACK#.002
+  size: 0
+  date: '1995-08-01T23:36:50'
+- name: DISK2\WH.PAK
+  size: 1454095
+  date: '1995-08-22T11:46:58'
+  crc: '0x3fa64d6d'
+- name: DISK3\
+  size: 0
+  date: '1995-08-22T11:50:40'
+- name: DISK3\PKBACK#.003
+  size: 0
+  date: '1995-08-01T23:38:40'
+- name: DISK3\WH.PAK
+  size: 1454095
+  date: '1995-08-22T11:50:40'
+  crc: '0xa5734870'
+- name: DISK4\
+  size: 0
+  date: '1995-08-22T11:52:46'
+- name: DISK4\PKBACK#.004
+  size: 0
+  date: '1995-08-01T23:40:36'
+- name: DISK4\WH.PAK
+  size: 1425423
+  date: '1995-08-22T11:52:46'
+  crc: '0x99df4211'
+- name: DISK5\
+  size: 0
+  date: '1995-08-22T11:54:16'
+- name: DISK5\PKBACK#.005
+  size: 0
+  date: '1995-08-01T23:41:52'
+- name: DISK5\WH.PAK
+  size: 939591
+  date: '1995-08-22T11:54:16'
+  crc: '0xf2019083'
+- name: INSTALL.BAT
+  size: 107
+  date: '1980-01-01T12:00:00'
+  crc: '0xe5de2752'
+- name: INSTALL.EXE
+  size: 34905
+  date: '1994-06-15T19:00:00'
+  crc: '0x9bf7a8aa'
+- name: INSTALL.FIL
+  size: 1542
+  date: '1995-08-22T11:38:26'
+  crc: '0xc2566f3a'
+- name: README.BAT
+  size: 2501
+  date: '1995-08-09T15:32:54'
+  crc: '0x5c45450b'
+- name: WH.PAK
+  size: 6686306
+  date: '1995-08-22T11:43:50'
+  crc: '0x13257d14'

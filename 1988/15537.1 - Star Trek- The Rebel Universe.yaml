@@ -1,0 +1,49 @@
+filename: Star Trek- The Rebel Universe (EGA) (1988)(Simon & Schuster Interactive) [Simulation, Strategy].zip
+tdc_id: '15537.1'
+title:
+  box: 'Star Trek: The Rebel Universe'
+  qualifier: EGA
+publisher: Simon & Schuster Interactive
+year: '1988'
+genre:
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:26:50'
+  last_modified: '2019-03-01T18:26:50'
+type: zip
+commands:
+  play: STARTREK.EXE
+references:
+  dosid: DOS04839
+  exodos: Star Trek - The Rebel Universe (1988).zip
+files:
+- name: LOADSCR.EGA
+  size: 32000
+  date: '1980-01-01T02:56:04'
+  crc: '0x9d10a4c8'
+- name: REMOTE0.DAT
+  size: 34934
+  date: '1980-01-01T00:03:50'
+  crc: '0x1dcd2b51'
+- name: REMOTEA.DAT
+  size: 65152
+  date: '1980-01-01T02:06:50'
+  crc: '0x03841a11'
+- name: REMOTEB.DAT
+  size: 64908
+  date: '1980-01-01T02:06:56'
+  crc: '0x68b5dc63'
+- name: REMOTEC.DAT
+  size: 24374
+  date: '1980-01-01T02:07:00'
+  crc: '0x2153daf3'
+- name: REMOTED.DAT
+  size: 48864
+  date: '1980-01-01T05:33:02'
+  crc: '0x52bd77cf'
+- name: STARTREK.EXE
+  size: 85456
+  date: '1980-01-01T00:09:06'
+  crc: '0x8033b495'

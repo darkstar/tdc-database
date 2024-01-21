@@ -1,0 +1,32 @@
+filename: Quake 1.01 to 1.06 patch (1996)(id Software, Inc.) [Action, Addon].zip
+tdc_id: '10798.2'
+title:
+  screen: Quake 1.01 to 1.06 patch
+publisher: id Software, Inc.
+year: '1996'
+genre:
+- Action
+- Addon
+language: English
+date:
+  added: '2016-05-01T18:44:52'
+  last_modified: '2016-05-01T18:44:52'
+type: zip
+patch: true
+files:
+- name: patch.dat
+  size: 413192
+  date: '1996-09-30T03:13:50'
+  crc: '0x5ae65348'
+- name: patch.exe
+  size: 64481
+  date: '1996-10-01T13:16:20'
+  crc: '0x06405775'
+- name: q101-106.txt
+  size: 8560
+  date: '1996-10-01T13:30:32'
+  crc: '0xae0c5dcb'
+- name: quake.exe
+  size: 404480
+  date: '1996-10-01T13:19:18'
+  crc: '0xcb6fca15'

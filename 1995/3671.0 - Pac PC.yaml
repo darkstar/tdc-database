@@ -1,0 +1,31 @@
+filename: Pac PC (1995)(J. Rowan) [Action].zip
+tdc_id: '3671.0'
+title:
+  screen: Pac PC
+publisher: J. Rowan
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2014-09-21T17:27:08'
+  last_modified: '2014-09-21T17:27:08'
+type: zip
+media: Download
+commands:
+  play: PACPC.EXE
+references:
+  dosid: DOS06998
+  exodos: Pac PC (1995).zip
+files:
+- name: FILE_ID.DIZ
+  size: 128
+  date: '1995-05-29T03:37:02'
+  crc: '0x113dd340'
+- name: PACPC.DOC
+  size: 3901
+  date: '1995-05-16T17:47:12'
+  crc: '0x54dadfff'
+- name: PACPC.EXE
+  size: 269390
+  date: '1995-05-22T22:23:52'
+  crc: '0xf1c6f2d4'

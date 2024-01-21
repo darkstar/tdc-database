@@ -1,0 +1,87 @@
+filename: URI Quest (1999)(Jeff Carroll Productions) [Adventure].zip
+tdc_id: '4479.0'
+title:
+  screen: URI Quest
+publisher: Jeff Carroll Productions
+year: '1999'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-02T10:46:36'
+  last_modified: '2019-03-02T10:46:36'
+type: zip
+commands:
+  play: AGI.EXE
+files:
+- name: AGI.EXE
+  size: 39424
+  date: '2001-02-22T01:26:44'
+  crc: '0x4c32a6d2'
+- name: LOGDIR
+  size: 660
+  date: '2002-02-27T10:23:50'
+  crc: '0x1ea27085'
+- name: OBJECT
+  size: 462
+  date: '1999-01-20T19:15:44'
+  crc: '0x421b0706'
+- name: PICDIR
+  size: 660
+  date: '2002-02-27T10:23:50'
+  crc: '0xadb43c52'
+- name: SNDDIR
+  size: 84
+  date: '2002-02-27T10:23:52'
+  crc: '0xe4da8dad'
+- name: URI.ico
+  size: 766
+  date: '1999-01-22T12:51:44'
+  crc: '0x780f3e65'
+- name: VIEWDIR
+  size: 765
+  date: '2002-02-27T10:23:52'
+  crc: '0x446b8a36'
+- name: VOL.0
+  size: 676230
+  date: '2002-02-27T10:23:52'
+  crc: '0x10806f8b'
+- name: WORDS.TOK
+  size: 4905
+  date: '1999-01-29T09:56:36'
+  crc: '0xd9bd7cd0'
+- name: agidata.ovl
+  size: 8192
+  date: '1997-09-16T02:32:04'
+  crc: '0xd2aa52f4'
+- name: cga_graf.ovl
+  size: 1024
+  date: '1997-09-16T02:32:04'
+  crc: '0xa8f00e6b'
+- name: ega_graf.ovl
+  size: 1024
+  date: '1997-09-16T02:32:06'
+  crc: '0x99f00f0f'
+- name: hgc_font
+  size: 3072
+  date: '1997-09-16T02:32:06'
+  crc: '0x200435c7'
+- name: hgc_graf.ovl
+  size: 1536
+  date: '1997-09-16T02:32:06'
+  crc: '0x8ca5a1da'
+- name: hgc_objs.ovl
+  size: 1024
+  date: '1997-09-16T02:32:06'
+  crc: '0xbbd13bbf'
+- name: ibm_objs.ovl
+  size: 512
+  date: '1997-09-16T02:32:06'
+  crc: '0x3b17b970'
+- name: jr_graf.ovl
+  size: 512
+  date: '1997-09-16T02:32:08'
+  crc: '0x2c7b7b15'
+- name: vg_graf.ovl
+  size: 512
+  date: '1997-09-16T02:32:12'
+  crc: '0x086a550b'

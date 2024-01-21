@@ -1,0 +1,38 @@
+filename: F-1 (Es) (1991)(Zigurat Software S.L.) [Action, Simulation, Racing - Driving].zip
+tdc_id: '9101.0'
+title:
+  screen: F-1
+publisher: Zigurat Software S.L.
+year: '1991'
+genre:
+- Action
+- Simulation
+- Racing - Driving
+language: Spanish
+date:
+  added: '2019-03-01T18:35:52'
+  last_modified: '2023-02-16T15:28:53'
+type: zip
+commands:
+  play: C.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/f-1
+  dosid: DOS02076
+  exodos: F-1 (1991).zip
+files:
+- name: C.EXE
+  size: 87936
+  date: '1991-12-02T13:00:38'
+  crc: '0xe0d75540'
+- name: FORM1.BAT
+  size: 36
+  date: '1991-12-02T14:11:46'
+  crc: '0xc218af4e'
+- name: FORM1.SCR
+  size: 16384
+  date: '1991-12-02T12:54:46'
+  crc: '0xd8bb2469'
+- name: SCREEN.COM
+  size: 60
+  date: '1991-12-02T14:35:24'
+  crc: '0xbf879b06'

@@ -1,0 +1,64 @@
+filename: F40 Pursuit Simulator (CGA) (1989)(Titus France SA) [Action].zip
+tdc_id: '9118.0'
+title:
+  box: F40 Pursuit Simulator
+  qualifier: CGA
+publisher: Titus France SA
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:27:44'
+  last_modified: '2019-03-01T18:27:44'
+type: zip
+commands:
+  play: F40.EXE
+files:
+- name: BOARD
+  size: 4001
+  date: '2015-04-12T10:17:30'
+  crc: '0x491ce1be'
+- name: CARTE
+  size: 28800
+  date: '2015-04-12T10:17:30'
+  crc: '0x7c1cb387'
+- name: DECOR
+  size: 9600
+  date: '2015-04-12T10:17:30'
+  crc: '0xc2538508'
+- name: EC
+  size: 300
+  date: '2015-04-12T10:17:30'
+  crc: '0xb4e49929'
+- name: F40.EXE
+  size: 77085
+  date: '2015-04-12T10:17:30'
+  crc: '0x8ad5e1c5'
+- name: GRAPH
+  size: 39616
+  date: '2015-04-12T10:17:32'
+  crc: '0x64049159'
+- name: MASK
+  size: 39616
+  date: '2015-04-12T10:17:32'
+  crc: '0xa1742fda'
+- name: MPOL
+  size: 37316
+  date: '2015-04-12T10:17:32'
+  crc: '0x255e0257'
+- name: NYCFONT
+  size: 472
+  date: '2015-04-12T10:17:32'
+  crc: '0xc5f262cd'
+- name: POL
+  size: 37316
+  date: '2015-04-12T10:17:32'
+  crc: '0xcfc4b1c5'
+- name: SCORE
+  size: 5600
+  date: '2015-04-12T10:17:32'
+  crc: '0xb17b502f'
+- name: TITUS
+  size: 32808
+  date: '2015-04-12T10:17:32'
+  crc: '0xc325331c'

@@ -1,0 +1,75 @@
+filename: Superbike Challenge (1987)(Brøderbund Software, Inc.) [Racing - Driving].zip
+tdc_id: '16339.0'
+title:
+  box: Superbike Challenge
+publisher: Brøderbund Software, Inc.
+year: '1987'
+genre: Racing - Driving
+language: English
+date:
+  added: '2019-03-01T18:25:40'
+  last_modified: '2019-03-01T18:25:40'
+type: zip
+commands:
+  play: SB.EXE
+files:
+- name: CIRC.CTR
+  size: 2923
+  date: '1987-09-01T00:00:08'
+  crc: '0x7b385f75'
+- name: COMP.PIC
+  size: 16000
+  date: '1987-09-01T00:00:14'
+  crc: '0xddfc2f81'
+- name: FOND.PIC
+  size: 16000
+  date: '1987-09-01T00:00:14'
+  crc: '0x55cc2c3e'
+- name: MIBM8.DAT
+  size: 16384
+  date: '1987-09-01T00:00:08'
+  crc: '0xa6eb0c61'
+- name: MIBM9.DAT
+  size: 16384
+  date: '1987-09-01T00:00:08'
+  crc: '0x86b5e825'
+- name: MIBMC.DAT
+  size: 16384
+  date: '1987-09-01T00:00:10'
+  crc: '0xab32503c'
+- name: MIBMG.DAT
+  size: 16384
+  date: '1987-09-01T00:00:10'
+  crc: '0xc8b6d25a'
+- name: MIBMH.DAT
+  size: 16384
+  date: '1987-09-01T00:00:12'
+  crc: '0x0d71e9f2'
+- name: PISTBL.PIC
+  size: 16000
+  date: '1987-09-01T00:00:16'
+  crc: '0x0e8a69cc'
+- name: PISTRG.PIC
+  size: 16000
+  date: '1987-09-01T00:00:16'
+  crc: '0xb78e2a0b'
+- name: SB.EXE
+  size: 155968
+  date: '1987-09-01T00:00:06'
+  crc: '0x4f681c75'
+- name: SB.EX_
+  size: 155968
+  date: '1987-09-01T00:00:06'
+  crc: '0x9f5700db'
+- name: SB.TST
+  size: 512
+  date: '1987-09-01T00:00:16'
+  crc: '0xeb85686c'
+- name: SPRITES.DAT
+  size: 41949
+  date: '1987-09-01T00:00:12'
+  crc: '0x41d82cff'
+- name: TABBAS.DAT
+  size: 4215
+  date: '1987-09-01T00:00:12'
+  crc: '0xa270ff0f'

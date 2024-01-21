@@ -1,0 +1,45 @@
+filename: Decko v2.0 [SW] (1993)(SNR Software) [Strategy, Cards].zip
+tdc_id: '13020.0'
+title:
+  screen: Decko
+publisher: SNR Software
+year: '1993'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T19:02:18'
+  last_modified: '2019-03-01T19:02:18'
+version: '2.0'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: DECKO.EXE
+files:
+- name: DECKO.DAT
+  size: 1308
+  date: '1993-08-01T09:00:00'
+  crc: '0xcbe6f568'
+- name: DECKO.EXE
+  size: 142066
+  date: '1993-08-01T09:00:00'
+  crc: '0xf685634a'
+- name: DECKO.SCR
+  size: 25819
+  date: '1993-08-01T09:00:00'
+  crc: '0x9bce6fe2'
+- name: DECKO.SNG
+  size: 2500
+  date: '1993-08-01T09:00:00'
+  crc: '0x7e42f960'
+- name: PACKING.LST
+  size: 287
+  date: '1993-08-01T09:00:00'
+  crc: '0x74f14746'
+- name: README.TXT
+  size: 2955
+  date: '1993-08-01T09:00:00'
+  crc: '0xad6c8090'

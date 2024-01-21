@@ -1,0 +1,63 @@
+filename: Mario et la Machine à Remonter le Temps v1.0.1 (Fr) (1994)(Software Toolworks, Inc., The) [Action, Adventure, Educational].zip
+tdc_id: '11149.3'
+parent_id: '11149.4'
+title:
+  box: Mario et la Machine à Remonter le Temps
+publisher: Software Toolworks, Inc., The
+year: '1994'
+genre:
+- Action
+- Adventure
+- Educational
+language: French
+date:
+  added: '2019-03-01T19:13:06'
+  last_modified: '2023-08-29T09:52:08'
+version: 1.0.1
+type: zip
+media: 1.44M
+commands:
+  play: MARIO.EXE
+references:
+  mobygames: https://www.mobygames.com/game/12156/marios-time-machine/
+files:
+- name: CMIDPAK.COM
+  size: 13376
+  date: '1994-01-14T01:00:00'
+  crc: '0x08403569'
+- name: MARIO.BIN
+  size: 314224
+  date: '1994-01-14T01:00:00'
+  crc: '0xe0640416'
+- name: MARIO.EXE
+  size: 132464
+  date: '1994-01-14T01:00:00'
+  crc: '0x3b277ed0'
+- name: MARIO.V2L
+  size: 5599709
+  date: '1994-01-14T01:00:00'
+  crc: '0x66de1bd3'
+- name: MIDPAK.AD
+  size: 3622
+  date: '1994-01-14T01:00:00'
+  crc: '0xbbdffaba'
+- name: MIDPAK.ADV
+  size: 14743
+  date: '1994-01-14T01:00:00'
+  crc: '0x0b6a2202'
+- name: RESOURCE.LST
+  size: 230
+  date: '1994-01-14T01:00:00'
+  crc: '0xceb9ee9e'
+- name: SOUND.V2L
+  size: 1575809
+  date: '1994-01-14T01:00:00'
+  crc: '0x7113eea8'
+- name: SOUNDRV.COM
+  size: 4560
+  date: '1994-01-14T01:00:00'
+  crc: '0xf1e23f2d'
+- name: STRING.LST
+  size: 16836
+  date: '1994-01-14T01:00:00'
+  crc: '0x9a9b9994'

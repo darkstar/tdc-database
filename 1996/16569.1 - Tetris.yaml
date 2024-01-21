@@ -1,0 +1,34 @@
+filename: Tetris (Sv) (1996)(Andreas Mattsson) [Action, Strategy].zip
+tdc_id: '16569.1'
+title:
+  screen: Tetris
+publisher: Andreas Mattsson
+year: '1996'
+genre:
+- Action
+- Strategy
+language: Swedish
+date:
+  added: '2019-03-02T10:21:50'
+  last_modified: '2019-03-02T10:21:50'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 26
+  date: '2018-12-30T15:45:12'
+  crc: '0x11eaedb5'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: TETRIS.BAS
+  size: 7927
+  date: '1996-06-30T14:10:02'
+  crc: '0xfe683b6e'
+- name: TETRIS.DAT
+  size: 160
+  date: '1996-03-21T19:05:28'
+  crc: '0xfdd230f7'

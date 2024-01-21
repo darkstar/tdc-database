@@ -1,0 +1,28 @@
+filename: Casino Royale (1998)(Leif Starbuck) [Simulation].zip
+tdc_id: '5475.0'
+title:
+  screen: Casino Royale
+publisher: Leif Starbuck
+year: '1998'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-02T10:41:00'
+  last_modified: '2019-03-02T10:41:00'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: CASINO.BAS
+  size: 45420
+  date: '1998-08-20T22:37:46'
+  crc: '0xe5e1d8b5'
+- name: GO.BAT
+  size: 26
+  date: '2018-12-04T22:13:46'
+  crc: '0x5e7dad3e'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

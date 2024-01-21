@@ -1,0 +1,82 @@
+filename: 絕地-眾神之詛咒 v1.0 (Installer) (Zh) (1995)(Art. 9 Entertainment Corporation) [Adventure].zip
+tdc_id: '9570.0'
+title:
+  screen: 絕地-眾神之詛咒
+  translation: Heaven's Dawn
+  qualifier: Installer
+publisher: Art. 9 Entertainment Corporation
+year: '1995'
+genre: Adventure
+language: Chinese
+date:
+  added: '2021-12-29T10:51:40'
+  last_modified: '2023-06-29T17:13:19'
+version: '1.0'
+type: zip
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/45120/heavens-dawn/
+files:
+- name: INSTALL.EXE
+  size: 80564
+  date: '1995-09-12T15:02:10'
+  crc: '0xc40ae4ca'
+- name: INSTALL.INI
+  size: 802
+  date: '1995-09-12T15:37:54'
+  crc: '0xe15f8348'
+- name: PACK1.PRG
+  size: 1375232
+  date: '1995-09-12T15:03:40'
+  crc: '0xf7593f61'
+- name: PACK10.PRG
+  size: 1457152
+  date: '1995-09-12T15:32:36'
+  crc: '0xc7fc066e'
+- name: PACK11.PRG
+  size: 1457152
+  date: '1995-09-12T15:34:28'
+  crc: '0xa6708d2b'
+- name: PACK12.PRG
+  size: 1457152
+  date: '1995-09-12T15:36:28'
+  crc: '0xe7aa512c'
+- name: PACK13.PRG
+  size: 11005
+  date: '1995-09-12T15:37:08'
+  crc: '0x23c55aeb'
+- name: PACK2.PRG
+  size: 1457152
+  date: '1995-09-12T15:12:50'
+  crc: '0x3b565556'
+- name: PACK3.PRG
+  size: 1457152
+  date: '1995-09-12T15:15:30'
+  crc: '0x02a3c79a'
+- name: PACK4.PRG
+  size: 1457152
+  date: '1995-09-12T15:17:20'
+  crc: '0xdb9d1887'
+- name: PACK5.PRG
+  size: 1457152
+  date: '1995-09-12T15:19:08'
+  crc: '0x7c62e585'
+- name: PACK6.PRG
+  size: 1457152
+  date: '1995-09-12T15:21:10'
+  crc: '0x0e12d364'
+- name: PACK7.PRG
+  size: 1457152
+  date: '1995-09-12T15:26:54'
+  crc: '0x7eb68c88'
+- name: PACK8.PRG
+  size: 1457152
+  date: '1995-09-12T15:28:48'
+  crc: '0xc755d30e'
+- name: PACK9.PRG
+  size: 1457152
+  date: '1995-09-12T15:30:40'
+  crc: '0x26b6770f'

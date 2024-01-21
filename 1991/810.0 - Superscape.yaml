@@ -1,0 +1,50 @@
+filename: Superscape (demo) v1.1 (1991)(Dimension International) [Simulation].zip
+tdc_id: '810.0'
+title:
+  screen: Superscape
+  qualifier: demo
+publisher: Dimension International
+year: '1991'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:39:38'
+  last_modified: '2019-03-01T18:39:38'
+version: '1.1'
+type: zip
+demo: true
+commands:
+  play: DEMO.EXE
+files:
+- name: DEMO.DOC
+  size: 8554
+  date: '1991-04-04T18:29:28'
+  crc: '0x4587d1b0'
+- name: DEMO.EXE
+  size: 55094
+  date: '1991-02-01T13:00:08'
+  crc: '0xc31cbaf9'
+- name: DEMO.LBM
+  size: 12526
+  date: '1991-02-01T13:00:08'
+  crc: '0xc71a7fe7'
+- name: DEMO.PAL
+  size: 1792
+  date: '1991-02-01T13:00:08'
+  crc: '0xecf779d6'
+- name: DEMO.SHP
+  size: 45269
+  date: '1991-02-01T13:00:08'
+  crc: '0xe1df1ae4'
+- name: DEMO.WLD
+  size: 18356
+  date: '1991-02-01T13:00:08'
+  crc: '0x1470e48a'
+- name: SS.CFG
+  size: 2487
+  date: '1991-02-01T13:00:08'
+  crc: '0xbe05f3c4'
+- name: SS.LBM
+  size: 24222
+  date: '1991-02-01T13:00:08'
+  crc: '0x6c483065'

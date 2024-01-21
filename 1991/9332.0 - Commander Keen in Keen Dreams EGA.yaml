@@ -1,0 +1,33 @@
+filename: Commander Keen in Keen Dreams EGA [SWR] (1991)(Softdisk, Inc.) [Action].zip
+tdc_id: '9332.0'
+title:
+  screen: Commander Keen in Keen Dreams EGA
+publisher: Softdisk, Inc.
+year: '1991'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:35:18'
+  last_modified: '2019-03-01T18:35:18'
+type: zip
+tags:
+- SharewareRegistered
+commands:
+  play: KDREAMS.EXE
+files:
+- name: AUDIO.KDR
+  size: 3498
+  date: '1991-07-10T16:31:44'
+  crc: '0x80ac85e5'
+- name: EGAGRAPH.KDR
+  size: 213045
+  date: '1991-07-10T16:31:44'
+  crc: '0x2dc94687'
+- name: GAMEMAPS.KDR
+  size: 63497
+  date: '1991-07-10T16:31:44'
+  crc: '0x7b517fa0'
+- name: KDREAMS.EXE
+  size: 77694
+  date: '1991-07-17T11:50:48'
+  crc: '0xc73b8cb2'

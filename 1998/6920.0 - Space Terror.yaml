@@ -1,0 +1,28 @@
+filename: Space Terror v1.05 (Pl) (1998)(Krzysztof Kolodziejski) [Action].zip
+tdc_id: '6920.0'
+title:
+  screen: Space Terror
+publisher: Krzysztof Kolodziejski
+year: '1998'
+genre: Action
+language: Polish
+date:
+  added: '2019-03-02T10:44:36'
+  last_modified: '2019-03-02T10:44:36'
+version: '1.05'
+type: zip
+commands:
+  play: SPACE.EXE
+files:
+- name: EGAVGA.BGI
+  size: 5527
+  date: '1992-10-27T07:00:00'
+  crc: '0xa33014d5'
+- name: SPACE.EXE
+  size: 30672
+  date: '1998-11-16T20:44:12'
+  crc: '0x5a44be7b'
+- name: TRIP.CHR
+  size: 16677
+  date: '1992-10-27T07:00:00'
+  crc: '0xba867503'

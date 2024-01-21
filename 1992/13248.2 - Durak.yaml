@@ -1,0 +1,37 @@
+filename: Durak [a2] (1992)(Felix) [Strategy, Cards].zip
+tdc_id: '13248.2'
+title:
+  screen: Durak
+  translation: Fool
+publisher: Felix
+year: '1992'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:44:36'
+  last_modified: '2023-06-26T11:51:30'
+type: zip
+tags:
+- Alternate: 2
+media: Download
+commands:
+  play: durak.exe
+references:
+  mobygames: https://www.mobygames.com/game/158462/durak/
+  dosid: DOS15363
+  exodos: Durak (1992).zip
+files:
+- name: durak.exe
+  size: 47230
+  date: '1999-12-31T18:00:00'
+  crc: '0xba5959b4'
+- name: egavga.bgi
+  size: 5363
+  date: '1999-12-31T18:00:00'
+  crc: '0x06d36962'
+- name: trip.chr
+  size: 7241
+  date: '1999-12-31T18:00:00'
+  crc: '0xfe5cd6b1'

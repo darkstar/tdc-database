@@ -1,0 +1,27 @@
+filename: NEMESIS, the Go Master (1984)(Bruce Wilcox) [Strategy].zip
+tdc_id: '1131.0'
+title:
+  screen: NEMESIS, the Go Master
+publisher: Bruce Wilcox
+year: '1984'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:24:12'
+  last_modified: '2019-03-01T18:24:12'
+type: zip
+commands:
+  play: GO.EXE
+files:
+- name: GO.BIN
+  size: 6000
+  date: '1980-01-01T01:37:06'
+  crc: '0xd1579f26'
+- name: GO.DOC
+  size: 23203
+  date: '1980-01-01T21:15:22'
+  crc: '0x0c714e11'
+- name: GO.EXE
+  size: 102784
+  date: '1980-01-01T03:01:10'
+  crc: '0x355e3ec9'

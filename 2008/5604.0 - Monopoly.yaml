@@ -1,0 +1,38 @@
+filename: Monopoly (2008)(Roche Fahlaneigh) [Strategy, Board].zip
+tdc_id: '5604.0'
+title:
+  screen: Monopoly
+publisher: Roche Fahlaneigh
+year: '2008'
+genre:
+- Strategy
+- Board
+language: English
+date:
+  added: '2019-03-02T10:57:22'
+  last_modified: '2019-03-02T10:57:22'
+type: zip
+media: Download
+commands:
+  play: RUN.BAT
+files:
+- name: BOARD
+  size: 23360
+  date: '2008-04-17T06:58:28'
+  crc: '0x412366e9'
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1988-10-04T19:00:08'
+  crc: '0x2a44af39'
+- name: MDATA
+  size: 5305
+  date: '2008-04-17T06:56:44'
+  crc: '0x226d48cb'
+- name: MNPLY.BAS
+  size: 12871
+  date: '2008-04-17T06:55:32'
+  crc: '0x3731fcf5'
+- name: RUN.BAT
+  size: 21
+  date: '2018-02-15T11:39:52'
+  crc: '0x940811a4'

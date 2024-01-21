@@ -1,0 +1,30 @@
+filename: Pulse [SWR] (1996)(Albino Frog Software, Inc.) [Action, Strategy].zip
+tdc_id: '5134.1'
+title:
+  screen: Pulse
+publisher: Albino Frog Software, Inc.
+year: '1996'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-02T10:16:10'
+  last_modified: '2019-03-02T10:16:10'
+type: zip
+tags:
+- SharewareRegistered
+commands:
+  play: pulse.exe
+references:
+  dosid: DOS04151
+  exodos: Pulse (1996).zip
+files:
+- name: pulse.exe
+  size: 323899
+  date: '2001-07-18T05:20:42'
+  crc: '0xd231e507'
+- name: pulse.reg
+  size: 17
+  date: '2001-07-18T05:20:28'
+  crc: '0x88582394'

@@ -1,0 +1,103 @@
+filename: Ascendancy (Installer) (Es) (1995)(Softgold Computerspiele GmbH) [Strategy].zip
+tdc_id: '8919.2'
+title:
+  box: Ascendancy
+publisher: Softgold Computerspiele GmbH
+year: '1995'
+genre: Strategy
+language: Spanish
+date:
+  added: '2019-03-02T07:29:30'
+  last_modified: '2019-03-02T07:29:30'
+type: zip
+installer: true
+commands:
+  play: INSTALL.BAT
+files:
+- name: DATA\
+  size: 0
+  date: '2014-11-22T14:51:34'
+- name: DATA\ADRV688.DIG
+  size: 11278
+  date: '1995-01-18T02:00:00'
+  crc: '0x96dfb75d'
+- name: DATA\AILDRVR.LST
+  size: 16760
+  date: '1995-11-20T16:27:18'
+  crc: '0x314db9b7'
+- name: DATA\ASCEND.EXE
+  size: 587475
+  date: '1995-08-30T14:59:02'
+  crc: '0x72bbd878'
+- name: DATA\ASCEND.vlp
+  size: 94
+  date: '2006-03-01T16:33:38'
+  crc: '0x312d45a1'
+- name: DATA\ASCEND00.COB
+  size: 481731
+  date: '1995-11-30T10:54:32'
+  crc: '0x649d34a2'
+- name: DATA\ASCEND01.COB
+  size: 12385306
+  date: '1995-06-30T07:43:54'
+  crc: '0x41a66b4e'
+- name: DATA\ASCEND02.COB
+  size: 60787718
+  date: '1995-06-30T07:56:40'
+  crc: '0x257d8b6a'
+- name: DATA\DOS4GW.EXE
+  size: 265420
+  date: '1994-09-01T06:00:00'
+  crc: '0xcb214447'
+- name: DATA\INSTALL.DAT
+  size: 716
+  date: '1995-11-17T05:33:14'
+  crc: '0xdfb9169e'
+- name: DATA\INSTALL.EXE
+  size: 56422
+  date: '1995-07-17T08:40:18'
+  crc: '0xe4f34e32'
+- name: DATA\JAMMER.DIG
+  size: 3219
+  date: '1995-01-18T02:00:00'
+  crc: '0x230129e0'
+- name: DATA\PROAUDIO.DIG
+  size: 2127
+  date: '1995-01-18T02:00:00'
+  crc: '0x4b071066'
+- name: DATA\RAP10.DIG
+  size: 2849
+  date: '1995-01-18T02:00:00'
+  crc: '0x47373ef0'
+- name: DATA\SB16.DIG
+  size: 2812
+  date: '1995-01-18T02:00:00'
+  crc: '0xc5d3dc1a'
+- name: DATA\SBLASTER.DIG
+  size: 2984
+  date: '1995-01-18T02:00:00'
+  crc: '0xbf414d3b'
+- name: DATA\SBPRO.DIG
+  size: 2763
+  date: '1995-01-18T02:00:00'
+  crc: '0x1061490f'
+- name: DATA\SETSOUND.EXE
+  size: 168249
+  date: '1995-11-30T05:18:22'
+  crc: '0x5de85c86'
+- name: DATA\SNDSCAPE.DIG
+  size: 4171
+  date: '1995-01-18T02:00:00'
+  crc: '0x708a96a2'
+- name: DATA\ULTRA.DIG
+  size: 9478
+  date: '1995-01-18T02:00:00'
+  crc: '0x430d67f5'
+- name: DATA\UVCONFIG.EXE
+  size: 260250
+  date: '1995-05-01T18:35:20'
+  crc: '0x3731ecd2'
+- name: INSTALL.BAT
+  size: 757
+  date: '1995-10-20T01:42:54'
+  crc: '0x8b93501b'

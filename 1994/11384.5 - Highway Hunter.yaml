@@ -1,0 +1,53 @@
+filename: Highway Hunter (Installer) [SW] (1994)(Safari Software) [Action, Racing - Driving].zip
+tdc_id: '11384.5'
+title:
+  screen: Highway Hunter
+publisher: Safari Software
+year: '1994'
+genre:
+- Action
+- Racing - Driving
+language: English
+date:
+  added: '2019-01-16T10:44:36'
+  last_modified: '2019-01-16T10:44:36'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 440
+  date: '1994-12-10T01:26:20'
+  crc: '0x8cedea0c'
+- name: HHSCRN.X00
+  size: 73
+  date: '1994-12-10T01:33:38'
+  crc: '0xf2077c01'
+- name: HHSCRN.Z01
+  size: 180190
+  date: '1994-12-10T01:33:04'
+  crc: '0xefd72ca0'
+- name: HHSW.X00
+  size: 85
+  date: '1994-12-10T01:33:38'
+  crc: '0x6a1dbe41'
+- name: HHSW.Z01
+  size: 879382
+  date: '1994-12-10T01:33:24'
+  crc: '0x94e0441a'
+- name: INSTALL.BIN
+  size: 4000
+  date: '1994-03-19T02:58:20'
+  crc: '0x8b18e882'
+- name: INSTALL.DAT
+  size: 24
+  date: '1994-12-10T01:33:38'
+  crc: '0x29e4df76'
+- name: INSTALL.EXE
+  size: 11980
+  date: '1994-12-09T01:01:30'
+  crc: '0xb21625e7'

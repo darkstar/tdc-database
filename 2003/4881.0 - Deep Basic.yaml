@@ -1,0 +1,53 @@
+filename: Deep Basic (2003)(Thomas McBurney) [Strategy, Chess].zip
+tdc_id: '4881.0'
+title:
+  screen: Deep Basic
+publisher: Thomas McBurney
+year: '2003'
+genre:
+- Strategy
+- Chess
+language: English
+date:
+  added: '2019-03-02T10:56:28'
+  last_modified: '2019-03-02T10:56:28'
+type: zip
+commands:
+  play: DBCHESS.EXE
+files:
+- name: BOOK.DBA
+  size: 799900
+  date: '2003-05-26T17:16:24'
+  crc: '0x81109c62'
+- name: BOOK.IDX
+  size: 1105125
+  date: '2003-05-26T16:58:14'
+  crc: '0x666216ba'
+- name: BOOK.REC
+  size: 8
+  date: '2003-05-26T16:58:14'
+  crc: '0xd202a380'
+- name: CHESS.LOG
+  size: 59
+  date: '2014-03-08T13:20:54'
+  crc: '0x2562d728'
+- name: CHESS6.BAS
+  size: 82946
+  date: '2003-05-28T15:39:04'
+  crc: '0xf76e0cb5'
+- name: DBCHESS.EXE
+  size: 92646
+  date: '2003-05-28T15:39:08'
+  crc: '0xf1708fc8'
+- name: FEN.IN
+  size: 255
+  date: '2003-04-24T01:57:38'
+  crc: '0x8f2b624b'
+- name: PIECES.EGA
+  size: 9607
+  date: '2003-02-02T13:25:22'
+  crc: '0x4ccc8763'
+- name: ReadMe.txt
+  size: 1101
+  date: '2003-05-28T15:53:38'
+  crc: '0x6bc36221'

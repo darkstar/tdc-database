@@ -1,0 +1,74 @@
+filename: World Darts (1989)(Melbourne House) [Sports].zip
+tdc_id: '16096.0'
+title:
+  box: World Darts
+publisher: Melbourne House
+year: '1989'
+genre: Sports
+language: English
+date:
+  added: '2019-03-01T18:29:24'
+  last_modified: '2019-03-01T18:29:24'
+type: zip
+commands:
+  play: DARTS.EXE
+references:
+  dosid: DOS15828
+  exodos: World Darts (1987).zip
+files:
+- name: ARCADIA.BIN
+  size: 2048
+  date: '1987-11-27T17:04:44'
+  crc: '0x4519531a'
+- name: ARMS.BIN
+  size: 4096
+  date: '1987-11-23T18:26:58'
+  crc: '0x9c65bb44'
+- name: BINARY.BIN
+  size: 2048
+  date: '1987-11-27T17:06:02'
+  crc: '0x124f4eae'
+- name: CHARSET.BIN
+  size: 352
+  date: '1987-11-03T18:40:28'
+  crc: '0xd6307f96'
+- name: DA.BIN
+  size: 10240
+  date: '1987-10-15T17:44:00'
+  crc: '0x9dbcc257'
+- name: DARTGR.BIN
+  size: 10240
+  date: '1987-10-20T17:10:06'
+  crc: '0x6148067d'
+- name: DARTS.EXE
+  size: 28382
+  date: '1989-08-04T11:09:08'
+  crc: '0x4948abe9'
+- name: HANDGR.BIN
+  size: 10240
+  date: '1987-10-20T17:11:14'
+  crc: '0xcccdb33e'
+- name: HANDS.BIN
+  size: 8192
+  date: '1987-10-15T17:46:42'
+  crc: '0xec5ccc0e'
+- name: HEADS.BIN
+  size: 4096
+  date: '1987-11-23T18:23:48'
+  crc: '0xb84469c5'
+- name: PUBSCENE.BIN
+  size: 16384
+  date: '1987-12-17T18:04:52'
+  crc: '0x6f048479'
+- name: SMHEADS.BIN
+  size: 4096
+  date: '1987-11-23T18:26:16'
+  crc: '0xc0ab5f1a'
+- name: SP-180.BIN
+  size: 2048
+  date: '1987-11-02T18:27:58'
+  crc: '0x971d730e'
+- name: STAGE.BIN
+  size: 16384
+  date: '1987-11-27T17:03:42'
+  crc: '0xcc995526'

@@ -1,0 +1,42 @@
+filename: Bicis (Es) (1990)(Ediciones Manali, S.A.) [Action].zip
+tdc_id: '12597.0'
+title:
+  screen: Bicis
+publisher: Ediciones Manali, S.A.
+year: '1990'
+genre: Action
+language: Spanish
+date:
+  added: '2020-07-21T11:49:16'
+  last_modified: '2020-07-21T11:49:16'
+type: zip
+commands:
+  play: BICIS.EXE
+references:
+  dosid: DOS15977
+  exodos: Bicis (1990).zip
+files:
+- name: BICIS.EXE
+  size: 46195
+  date: '2107-12-31T23:01:58'
+  crc: '0x6c6b0a35'
+- name: BICIS.PIC
+  size: 16391
+  date: '1990-09-08T13:02:50'
+  crc: '0x09725dd6'
+- name: BICIS.SPR
+  size: 10614
+  date: '1990-09-08T12:26:26'
+  crc: '0x24567ce6'
+- name: LETRAS.DAT
+  size: 1320
+  date: '1980-01-01T01:39:44'
+  crc: '0xe5f9e27d'
+- name: TECLAINT.BIN
+  size: 98
+  date: '2107-12-31T23:02:44'
+  crc: '0x53a1e02e'
+- name: TROZOS.BIN
+  size: 520
+  date: '2107-12-31T23:20:08'
+  crc: '0x94b9ab54'

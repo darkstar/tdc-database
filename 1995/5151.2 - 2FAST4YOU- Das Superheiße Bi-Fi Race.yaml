@@ -1,0 +1,83 @@
+filename: 2FAST4YOU- Das Superheiße Bi-Fi Race v0.90 (De) (1995)(Bi-Fi Roll) [Racing - Driving, Sports].zip
+tdc_id: '5151.2'
+title:
+  box: '2FAST4YOU: Das Superheiße Bi-Fi Race'
+publisher: Bi-Fi Roll
+year: '1995'
+genre:
+- Racing - Driving
+- Sports
+language: German
+date:
+  added: '2019-03-02T07:27:14'
+  last_modified: '2019-03-02T07:27:14'
+version: '0.90'
+type: zip
+commands:
+  play: BIFI3.BAT
+  setup: SETUP.EXE
+files:
+- name: BIFI.CFG
+  size: 101
+  date: '2010-05-02T14:06:48'
+  crc: '0x8b3faede'
+- name: BIFI.EXE
+  size: 207957
+  date: '1995-07-18T15:16:58'
+  crc: '0x639fe854'
+- name: BIFI1.SND
+  size: 145645
+  date: '1995-04-02T22:30:30'
+  crc: '0x83c1a4a0'
+- name: BIFI2.SND
+  size: 79107
+  date: '1995-02-26T00:20:04'
+  crc: '0x607c1fad'
+- name: BIFI3.BAT
+  size: 54
+  date: '2010-05-02T14:05:58'
+  crc: '0xdf22cdde'
+- name: BIFI3.SND
+  size: 115471
+  date: '1995-02-26T00:20:04'
+  crc: '0xd69740d1'
+- name: BIFI4.SND
+  size: 129731
+  date: '1995-04-02T23:59:24'
+  crc: '0xb794400a'
+- name: CARS.DAT
+  size: 662605
+  date: '1995-06-16T15:22:26'
+  crc: '0x7efd23ea'
+- name: CONFIG.DAT
+  size: 2
+  date: '2010-05-02T14:05:58'
+  crc: '0x14a285ac'
+- name: DOS4GW.EXE
+  size: 170610
+  date: '1994-09-01T10:00:00'
+  crc: '0x34e29fd5'
+- name: FONTS.DAT
+  size: 62843
+  date: '1995-06-01T14:47:02'
+  crc: '0x793b5bdf'
+- name: README.TXT
+  size: 465
+  date: '1995-07-18T16:00:08'
+  crc: '0x20d03294'
+- name: SETUP.EXE
+  size: 108748
+  date: '1995-07-18T15:14:18'
+  crc: '0x6bf78bad'
+- name: SFX.SND
+  size: 174182
+  date: '1995-05-18T11:22:06'
+  crc: '0x945f9c4d'
+- name: SHAPES.DAT
+  size: 1694143
+  date: '1995-06-16T15:22:54'
+  crc: '0xbc071ab1'
+- name: SHAPES.IDX
+  size: 104
+  date: '1995-06-16T15:22:54'
+  crc: '0x8b4b7b83'

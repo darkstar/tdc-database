@@ -1,0 +1,82 @@
+filename: Cannons (2003)(red_Marvin) [Action].zip
+tdc_id: '4877.0'
+title:
+  screen: Cannons
+publisher: red_Marvin
+year: '2003'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:56:26'
+  last_modified: '2019-03-02T10:56:26'
+type: zip
+commands:
+  play: cannons.EXE
+files:
+- name: README.TXT
+  size: 2502
+  date: '2003-11-21T22:15:00'
+  crc: '0x6d66ff00'
+- name: cannons.EXE
+  size: 72378
+  date: '2003-11-21T22:16:54'
+  crc: '0x13f36947'
+- name: data\
+  size: 0
+  date: '2014-11-22T15:00:54'
+- name: data\1.GFX
+  size: 247
+  date: '2003-11-26T17:44:42'
+  crc: '0x388170f2'
+- name: data\2.GFX
+  size: 637
+  date: '1988-11-15T07:33:38'
+  crc: '0x106a2976'
+- name: data\3.GFX
+  size: 983
+  date: '2003-11-16T18:49:58'
+  crc: '0xda996f2d'
+- name: data\4.GFX
+  size: 133
+  date: '2003-11-10T21:51:58'
+  crc: '0x9453e821'
+- name: data\ALIEN.PUT
+  size: 8207
+  date: '1988-11-15T07:25:14'
+  crc: '0xe45efd5d'
+- name: data\BADLANDS.PUT
+  size: 8207
+  date: '1988-11-15T07:19:24'
+  crc: '0x75e9de67'
+- name: data\BRIGHT.PAL
+  size: 1024
+  date: '1992-09-03T04:32:24'
+  crc: '0xd91077fc'
+- name: data\CUBYHELL.PUT
+  size: 8207
+  date: '1988-11-20T06:39:36'
+  crc: '0x59b5a07b'
+- name: data\DELAY.CFG
+  size: 11
+  date: '2003-11-21T22:11:08'
+  crc: '0x51f377f9'
+- name: data\NORMAL.PAL
+  size: 1024
+  date: '1992-09-02T08:51:38'
+  crc: '0xb911873c'
+- name: data\OPTIONS.CFG
+  size: 40
+  date: '2003-11-21T22:11:06'
+  crc: '0xd636adc2'
+- name: data\SRC10.BAS
+  size: 25096
+  date: '2003-11-21T22:16:46'
+  crc: '0xcbbf5614'
+- name: data\TECHNO1.PUT
+  size: 8207
+  date: '1988-11-15T09:41:58'
+  crc: '0xf2c0ea79'
+- name: data\TECHNO2.PUT
+  size: 8207
+  date: '1988-11-20T06:30:24'
+  crc: '0xdae5defc'

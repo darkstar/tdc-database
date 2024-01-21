@@ -1,0 +1,27 @@
+filename: Caves of Poseidia (2000)(Dieter Marfurt) [Simulation].zip
+tdc_id: '5512.0'
+title:
+  screen: Caves of Poseidia
+publisher: Dieter Marfurt
+year: '2000'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-02T10:54:38'
+  last_modified: '2019-03-02T10:54:38'
+type: zip
+commands:
+  play: CAVEPOS.EXE
+files:
+- name: CAVEPOS.BAS
+  size: 35035
+  date: '2000-05-06T23:59:46'
+  crc: '0x4cf564fd'
+- name: CAVEPOS.EXE
+  size: 77460
+  date: '2000-05-07T00:03:00'
+  crc: '0xdb0da62d'
+- name: cavepos.txt
+  size: 869
+  date: '2000-08-30T15:54:00'
+  crc: '0x68594c2b'

@@ -1,0 +1,31 @@
+filename: Hexen- Beyond Heretic CD Version (Installer) (1995)(id Software, Inc.) [Action].zip
+tdc_id: '11044.6'
+parent_id: '11044.9'
+title:
+  box: 'Hexen: Beyond Heretic CD Version'
+publisher: id Software, Inc.
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T08:45:28'
+  last_modified: '2019-03-02T08:45:28'
+type: zip
+installer: true
+files:
+- name: DEICE.EXE
+  size: 17303
+  date: '1995-10-13T22:31:04'
+  crc: '0xaad4552c'
+- name: HEXCD210.1
+  size: 10155907
+  date: '1995-10-15T21:20:30'
+  crc: '0x00ae2a04'
+- name: HEXCD210.DAT
+  size: 249
+  date: '1995-10-15T21:20:10'
+  crc: '0x70e5d98e'
+- name: INSTALL.BAT
+  size: 206
+  date: '1995-10-13T22:32:54'
+  crc: '0xf0aa0de9'

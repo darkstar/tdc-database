@@ -1,0 +1,28 @@
+filename: Dice (1995)(Kurt Kuzba) [Strategy].zip
+tdc_id: '13145.0'
+title:
+  screen: Dice
+publisher: Kurt Kuzba
+year: '1995'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T08:43:16'
+  last_modified: '2019-03-02T08:43:16'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: DICE_EX.BAS
+  size: 3329
+  date: '2018-03-10T20:21:52'
+  crc: '0x79ef2cd1'
+- name: GO.BAT
+  size: 27
+  date: '2018-03-10T20:23:28'
+  crc: '0x3d3eaace'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'

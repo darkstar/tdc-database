@@ -1,0 +1,98 @@
+filename: Last Duel- Inter Planet War 2012 (1989)(Capcom Co., Ltd.) [Action].zip
+tdc_id: '6303.0'
+title:
+  box: 'Last Duel: Inter Planet War 2012'
+publisher: Capcom Co., Ltd.
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:28:10'
+  last_modified: '2019-03-01T18:28:10'
+type: zip
+commands:
+  play: GAME.COM
+references:
+  dosid: DOS03089
+  exodos: Last Duel - Inter Planet War 2012 (1989).zip
+files:
+- name: B.DSK
+  size: 2
+  date: '1989-07-04T12:04:28'
+  crc: '0x14a285ac'
+- name: BORDER.TTX
+  size: 16000
+  date: '1985-11-20T01:35:38'
+  crc: '0x8e80d5f8'
+- name: C.DSK
+  size: 2
+  date: '1989-07-04T12:04:32'
+  crc: '0x14a285ac'
+- name: EBORDER.TTX
+  size: 32001
+  date: '1989-04-10T10:54:26'
+  crc: '0x627947e3'
+- name: ELEV1.TTX
+  size: 65535
+  date: '1989-08-11T09:39:04'
+  crc: '0xac3305d7'
+- name: ELEV2.TTX
+  size: 65535
+  date: '1989-06-12T20:11:14'
+  crc: '0x8b8ac6fc'
+- name: ELEV3.TTX
+  size: 65535
+  date: '1989-08-11T09:53:32'
+  crc: '0x6519d47d'
+- name: ELEV4.TTX
+  size: 65535
+  date: '1989-06-12T20:12:48'
+  crc: '0xd1647208'
+- name: ELEV5.TTX
+  size: 65535
+  date: '1989-08-11T09:53:06'
+  crc: '0x649061bb'
+- name: ELEV6.TTX
+  size: 65535
+  date: '1989-06-13T19:37:50'
+  crc: '0x45138e7b'
+- name: ELOAD.TTX
+  size: 32033
+  date: '1989-04-07T11:52:26'
+  crc: '0xec6b5810'
+- name: GAME.COM
+  size: 35078
+  date: '2015-08-02T16:46:42'
+  crc: '0xda47600d'
+- name: GAME.CO_
+  size: 35078
+  date: '1989-11-23T16:56:16'
+  crc: '0xea98fefb'
+- name: LEVEL1.TTX
+  size: 32768
+  date: '1989-03-07T15:27:48'
+  crc: '0xb0fcdcb7'
+- name: LEVEL2.TTX
+  size: 32768
+  date: '1989-03-09T10:58:32'
+  crc: '0xf67face3'
+- name: LEVEL3.TTX
+  size: 32768
+  date: '1989-03-10T16:13:56'
+  crc: '0xb99693c6'
+- name: LEVEL4.TTX
+  size: 32768
+  date: '1989-04-07T09:29:44'
+  crc: '0x71ffa8e7'
+- name: LEVEL5.TTX
+  size: 32768
+  date: '1989-03-13T15:00:28'
+  crc: '0xecc0ad56'
+- name: LEVEL6.TTX
+  size: 32768
+  date: '1989-04-07T09:08:04'
+  crc: '0x4e5615b7'
+- name: LOAD.TTX
+  size: 16000
+  date: '1985-11-20T05:32:28'
+  crc: '0xe5c2b45e'

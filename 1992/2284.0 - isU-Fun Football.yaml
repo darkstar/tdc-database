@@ -1,0 +1,40 @@
+filename: isU-Fun Football (Installer) (En)(De)(Fr)(It)(Es)(Nl) (1992)(isU Consult gmbH) [Strategy, Simulation].zip
+tdc_id: '2284.0'
+title:
+  screen: isU-Fun Football
+publisher: isU Consult gmbH
+year: '1992'
+genre:
+- Strategy
+- Simulation
+language:
+- English
+- Spanish
+- French
+- Italian
+- German
+- Dutch
+date:
+  added: '2019-03-01T18:47:58'
+  last_modified: '2022-11-21T08:53:41'
+type: zip
+installer: true
+commands:
+  play: INSTALL.BAT
+files:
+- name: FOOTBALL.BAT
+  size: 42
+  date: '1992-07-29T11:15:20'
+  crc: '0x83d5ec99'
+- name: FOOTBALL.EXE
+  size: 603500
+  date: '1993-04-09T11:02:34'
+  crc: '0xf2d53f66'
+- name: INSTALL.BAT
+  size: 278
+  date: '1992-08-04T09:09:42'
+  crc: '0x2913ab4a'
+- name: VGUARD.DAT
+  size: 44
+  date: '1992-08-04T09:27:20'
+  crc: '0x1030fb3d'

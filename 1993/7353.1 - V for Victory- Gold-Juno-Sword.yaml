@@ -1,0 +1,63 @@
+filename: V for Victory- Gold-Juno-Sword v4.0 (Installer) (1993)(Three-Sixty Pacific, Inc.) [Strategy][!].zip
+tdc_id: '7353.1'
+title:
+  box: 'V for Victory: Gold-Juno-Sword'
+publisher: Three-Sixty Pacific, Inc.
+year: '1993'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T21:11:12'
+  last_modified: '2019-03-01T21:11:12'
+version: '4.0'
+type: zip
+tags:
+- KnownGood
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DRIVERS.000
+  size: 30215
+  date: '1993-08-12T04:00:00'
+  crc: '0x2857fdde'
+- name: GJSDATA.000
+  size: 86658
+  date: '1993-08-12T04:00:00'
+  crc: '0x66b05662'
+- name: GJSRES.000
+  size: 273316
+  date: '1993-08-12T04:00:00'
+  crc: '0x9f844229'
+- name: INSTALL.EXE
+  size: 168352
+  date: '1993-08-12T04:00:00'
+  crc: '0x48207b75'
+- name: INSTALL5.DAT
+  size: 6933
+  date: '1993-08-12T04:00:00'
+  crc: '0x803dc6a2'
+- name: MAINDATA.000
+  size: 243099
+  date: '1993-08-12T04:00:00'
+  crc: '0x74de8f9a'
+- name: MAINEXEC.000
+  size: 228832
+  date: '1993-08-13T04:00:00'
+  crc: '0x9fe13279'
+- name: PCX.000
+  size: 48637
+  date: '1993-08-12T04:00:00'
+  crc: '0x4d9488d4'
+- name: READ.ME
+  size: 8922
+  date: '1993-08-13T15:53:40'
+  crc: '0x82b24fef'
+- name: RECON.000
+  size: 69493
+  date: '1993-08-12T04:00:00'
+  crc: '0x8a6c7df7'
+- name: UPDATE.000
+  size: 148088
+  date: '1993-08-12T04:00:00'
+  crc: '0xbcd843b2'

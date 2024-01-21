@@ -1,0 +1,40 @@
+filename: Body Blows (Installer) (1993)(MicroLeague Interactive Software) [Action][!].zip
+tdc_id: '12723.5'
+parent_id: '12723.8'
+title:
+  box: Body Blows
+publisher: MicroLeague Interactive Software
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2023-01-24T12:45:34'
+  last_modified: '2023-01-24T15:21:54'
+type: zip
+tags:
+- KnownGood
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/body-blows
+files:
+- name: BODY BLO.WS
+  size: 0
+  date: '1993-10-07T12:25:28'
+- name: BODYBLOW.001
+  size: 1332711
+  date: '1993-10-07T12:48:42'
+  crc: '0x68b08326'
+- name: DISK.ID
+  size: 27
+  date: '1993-10-07T12:25:50'
+  crc: '0xfd3a30e7'
+- name: INSTALL.DAT
+  size: 9817
+  date: '1993-10-07T16:12:20'
+  crc: '0x9299ae82'
+- name: INSTALL.EXE
+  size: 90304
+  date: '1993-10-07T12:25:50'
+  crc: '0x929e6b84'

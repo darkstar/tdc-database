@@ -1,0 +1,28 @@
+filename: R.A.M. (Es) (1990)(Topo Soft) [Action].zip
+tdc_id: '10873.0'
+title:
+  box: R.A.M.
+publisher: Topo Soft
+year: '1990'
+genre: Action
+language: Spanish
+date:
+  added: '2019-03-01T18:33:44'
+  last_modified: '2019-03-01T18:33:44'
+type: zip
+references:
+  dosid: DOS02764
+  exodos: R.A.M. (1990).zip
+files:
+- name: RAM.EXE
+  size: 1922
+  date: '1990-09-20T21:08:00'
+  crc: '0xd4afa006'
+- name: RAM_CGA.EXE
+  size: 89968
+  date: '1990-09-20T03:28:00'
+  crc: '0xb5c1ef7a'
+- name: RAM_EGA.EXE
+  size: 128926
+  date: '1990-09-20T21:45:00'
+  crc: '0x691ac0ca'

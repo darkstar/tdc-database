@@ -1,0 +1,46 @@
+filename: Golden Axe (Installer) [h1] (1990)(Sega Entertainment Inc) [Action].zip
+tdc_id: '14133.0'
+title:
+  box: Golden Axe
+publisher: Sega Entertainment Inc
+year: '1990'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:32:44'
+  last_modified: '2019-03-01T18:32:44'
+type: zip
+tags:
+- Hack: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DATA.SGA
+  size: 45352
+  date: '1994-08-02T00:00:00'
+  crc: '0xe6b6191c'
+- name: EXE.SGA
+  size: 29427
+  date: '1994-08-02T20:24:06'
+  crc: '0x657a28bf'
+- name: FONT.SGA
+  size: 82105
+  date: '1994-08-02T00:00:00'
+  crc: '0x5926370b'
+- name: GRAPHIC.SGA
+  size: 378690
+  date: '1994-08-02T00:00:00'
+  crc: '0x73129fe3'
+- name: INSTALL.EXE
+  size: 1855
+  date: '1994-08-02T00:00:00'
+  crc: '0x89f80304'
+- name: MAP.SGA
+  size: 41452
+  date: '1994-08-02T00:00:00'
+  crc: '0xbd3a285c'
+- name: MUSIC.SGA
+  size: 35143
+  date: '1994-08-02T00:00:00'
+  crc: '0x7d7d545f'

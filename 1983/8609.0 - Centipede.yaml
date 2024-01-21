@@ -1,0 +1,24 @@
+filename: Centipede [DC] (1983)(Atarisoft) [Action].zip
+tdc_id: '8609.0'
+title:
+  box: Centipede
+publisher: Atarisoft
+year: '1983'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:23:08'
+  last_modified: '2019-03-01T18:23:08'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: CENTIPED.EXE
+references:
+  dosid: DOS05848
+  exodos: Centipede (Atari)(1983).zip
+files:
+- name: CENTIPED.EXE
+  size: 13360
+  date: '1999-05-30T01:34:16'
+  crc: '0x5134f939'

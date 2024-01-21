@@ -1,0 +1,32 @@
+filename: Box Pushing Thingy with the Stuff, The (demo) v0.4 (1998)(Kevin B. Kohler) [Action, Strategy].zip
+tdc_id: '12787.0'
+title:
+  screen: The Box Pushing Thingy with the Stuff
+  qualifier: demo
+publisher: Kevin B. Kohler
+year: '1998'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-02T10:40:44'
+  last_modified: '2019-03-02T10:40:44'
+version: '0.4'
+type: zip
+demo: true
+commands:
+  play: GO.BAT
+files:
+- name: BLOCKGA4.BAS
+  size: 10619
+  date: '2018-11-14T19:53:26'
+  crc: '0x55312724'
+- name: GO.BAT
+  size: 28
+  date: '2018-11-14T20:11:46'
+  crc: '0xc168dac1'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'

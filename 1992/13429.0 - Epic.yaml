@@ -1,0 +1,50 @@
+filename: Epic (1992)(Ocean Software Ltd.) [Action, Simulation].zip
+tdc_id: '13429.0'
+title:
+  box: Epic
+publisher: Ocean Software Ltd.
+year: '1992'
+genre:
+- Action
+- Simulation
+language: English
+date:
+  added: '2019-03-01T18:44:40'
+  last_modified: '2019-03-01T18:44:40'
+type: zip
+references:
+  dosid: DOS02031
+  exodos: Epic (1992).zip
+files:
+- name: EPIC.BAT
+  size: 28
+  date: '2011-11-13T16:42:06'
+  crc: '0x74c2bf30'
+- name: EPIC.DAT
+  size: 6425403
+  date: '2011-11-13T16:42:06'
+  crc: '0x0c0eb38d'
+- name: GAME.DAT
+  size: 176000
+  date: '2011-11-13T16:42:06'
+  crc: '0xbc660edd'
+- name: GV
+  size: 54
+  date: '2011-11-13T16:42:06'
+  crc: '0x9f94b792'
+- name: READ.ME
+  size: 1572
+  date: '2011-11-13T16:42:06'
+  crc: '0x577a8d31'
+- name: SETSOUND.EXE
+  size: 14790
+  date: '2011-11-13T16:42:06'
+  crc: '0xf2600c90'
+- name: SETSTICK.EXE
+  size: 23538
+  date: '2011-11-13T16:42:06'
+  crc: '0x76325ae9'
+- name: START.EXE
+  size: 129968
+  date: '2011-11-13T16:42:06'
+  crc: '0xd1ff0a3a'

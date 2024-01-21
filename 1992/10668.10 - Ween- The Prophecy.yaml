@@ -1,0 +1,45 @@
+filename: Ween- The Prophecy (demo) v1.2 (1992)(Coktel Vision) [Adventure].zip
+tdc_id: '10668.10'
+title:
+  screen: 'Ween: The Prophecy'
+  qualifier: demo
+publisher: Coktel Vision
+year: '1992'
+genre: Adventure
+language: English
+date:
+  added: '2022-01-07T20:24:44'
+  last_modified: '2023-11-21T08:53:28'
+version: '1.2'
+type: zip
+media: Download
+demo: true
+commands:
+  play: GO.BAT
+references:
+  mobygames: https://www.mobygames.com/game/6218/the-prophecy/
+files:
+- name: ALL.ASK
+  size: 8600
+  date: '1993-10-24T16:19:28'
+  crc: '0x3dfe9e14'
+- name: GO.BAT
+  size: 27
+  date: '1993-10-24T16:19:30'
+  crc: '0xfe62dcc9'
+- name: INTRO.STK
+  size: 2425477
+  date: '1993-10-24T16:19:24'
+  crc: '0x24cc01e6'
+- name: L360.GDR
+  size: 3524
+  date: '1993-10-24T16:19:30'
+  crc: '0x2f584902'
+- name: LOADER.EXE
+  size: 84361
+  date: '1993-10-24T16:19:28'
+  crc: '0x4b35abbd'
+- name: LVGA.GDR
+  size: 4844
+  date: '1993-10-24T16:19:30'
+  crc: '0x36f1f893'

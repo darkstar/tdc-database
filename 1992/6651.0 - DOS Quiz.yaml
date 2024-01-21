@@ -1,0 +1,33 @@
+filename: DOS Quiz v1.7.1 [SW] (1992)(Steve Mount) [Educational, Trivia].zip
+tdc_id: '6651.0'
+title:
+  screen: DOS Quiz
+publisher: Steve Mount
+year: '1992'
+genre:
+- Educational
+- Trivia
+language: English
+date:
+  added: '2019-03-01T18:42:28'
+  last_modified: '2019-03-01T18:42:28'
+version: 1.7.1
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: DOSQUIZ.EXE
+files:
+- name: DOSQUIZ.DOC
+  size: 16497
+  date: '1992-03-26T21:28:00'
+  crc: '0xbeed1129'
+- name: DOSQUIZ.EXE
+  size: 47579
+  date: '1992-04-02T22:45:52'
+  crc: '0x67b4d6d5'
+- name: PRICE.LST
+  size: 2345
+  date: '1992-02-24T00:17:52'
+  crc: '0x0c0adc26'

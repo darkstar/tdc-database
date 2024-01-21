@@ -1,0 +1,34 @@
+filename: Cars v1.023 (Installer) [SW] (1996)(Chris Jones) [Action, Racing - Driving].zip
+tdc_id: '11982.0'
+title:
+  screen: Cars
+publisher: Chris Jones
+year: '1996'
+genre:
+- Action
+- Racing - Driving
+language: English
+date:
+  added: '2021-06-05T00:11:14'
+  last_modified: '2021-06-05T00:11:14'
+version: '1.023'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.1
+  size: 407109
+  date: '1997-07-25T14:20:50'
+  crc: '0xd8bc8721'
+- name: INSTALL.CFG
+  size: 228
+  date: '1997-07-25T14:21:36'
+  crc: '0x2685c0f4'
+- name: INSTALL.EXE
+  size: 64006
+  date: '1998-04-25T19:26:52'
+  crc: '0xa036e184'

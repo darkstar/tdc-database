@@ -1,0 +1,31 @@
+filename: Wry - A Text Based Comedy v0.412 (2000)(Nukem Enterprises, Sim Creations Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '15916.0'
+title:
+  screen: Wry - A Text Based Comedy
+publisher: Nukem Enterprises, Sim Creations Inc.
+year: '2000'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2020-04-03T08:14:16'
+  last_modified: '2020-04-03T08:14:16'
+version: '0.412'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: ERIKSGAM.BAS
+  size: 116301
+  date: '2018-12-14T14:03:10'
+  crc: '0x6f884b89'
+- name: GO.BAT
+  size: 28
+  date: '2018-12-14T14:09:46'
+  crc: '0xa42aa6fc'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

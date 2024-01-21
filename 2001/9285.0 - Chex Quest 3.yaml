@@ -1,0 +1,40 @@
+filename: Chex Quest 3 (2001)(Ralston Foods, Inc.) [Action].zip
+tdc_id: '9285.0'
+title:
+  screen: Chex Quest 3
+publisher: Ralston Foods, Inc.
+year: '2001'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:55:16'
+  last_modified: '2019-03-02T10:55:16'
+type: zip
+references:
+  dosid: DOS00253
+  exodos: Chex Quest 3 (1996).zip
+files:
+- name: DEFAULT.CFG
+  size: 872
+  date: '2016-01-11T20:15:00'
+  crc: '0xbcb101d1'
+- name: README3.txt
+  size: 347
+  date: '2001-01-16T22:51:22'
+  crc: '0x3f0623b2'
+- name: chex.exe
+  size: 713017
+  date: '1996-10-31T20:35:34'
+  crc: '0xdd3e1573'
+- name: chex3.bat
+  size: 22
+  date: '2000-11-22T20:43:06'
+  crc: '0x661f1a20'
+- name: chex3.wad
+  size: 9348448
+  date: '2001-01-16T22:47:06'
+  crc: '0xa6a5bf06'
+- name: setup.exe
+  size: 107056
+  date: '2009-11-04T04:59:56'
+  crc: '0x2746a131'

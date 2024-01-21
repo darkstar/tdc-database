@@ -1,0 +1,39 @@
+filename: Mystic Towers v1.1 (Installer) [SW][a1] (1994)(Apogee Software, Ltd.) [Action, Role-Playing (RPG)].zip
+tdc_id: '14391.3'
+title:
+  screen: Mystic Towers
+publisher: Apogee Software, Ltd.
+year: '1994'
+genre:
+- Action
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T22:02:16'
+  last_modified: '2019-03-01T22:02:16'
+version: '1.1'
+type: zip
+tags:
+- Shareware
+- Alternate: 1
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 33649
+  date: '1994-07-15T13:10:00'
+  crc: '0x4d1161c3'
+- name: MT_1BBS._1
+  size: 401408
+  date: '1994-07-15T13:10:00'
+  crc: '0xbbb35ec1'
+- name: MT_1BBS._2
+  size: 401408
+  date: '1994-07-15T13:10:00'
+  crc: '0x4c20354b'
+- name: MT_1BBS._3
+  size: 400157
+  date: '1994-07-15T13:10:00'
+  crc: '0x3e75b005'

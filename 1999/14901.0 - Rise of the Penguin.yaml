@@ -1,0 +1,30 @@
+filename: Rise of the Penguin (1999)(Andrew Morison) [Adventure, Interactive Fiction].zip
+tdc_id: '14901.0'
+title:
+  screen: Rise of the Penguin
+publisher: Andrew Morison
+year: '1999'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T10:46:24'
+  last_modified: '2019-03-02T10:46:24'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 28
+  date: '2018-12-18T10:50:02'
+  crc: '0x0b62ecd9'
+- name: PENGUINS.BAS
+  size: 15048
+  date: '1999-08-23T15:11:04'
+  crc: '0xe2d154ff'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

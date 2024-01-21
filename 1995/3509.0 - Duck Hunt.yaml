@@ -1,0 +1,34 @@
+filename: Duck Hunt v1.2 (1995)(Creators of Intense Art) [Action, Sports].zip
+tdc_id: '3509.0'
+title:
+  screen: Duck Hunt
+publisher: Creators of Intense Art
+year: '1995'
+genre:
+- Action
+- Sports
+language: English
+date:
+  added: '2018-04-08T10:47:46'
+  last_modified: '2018-04-08T10:47:46'
+version: '1.2'
+type: zip
+media: Download
+commands:
+  play: DUCKHUNT.EXE
+references:
+  dosid: DOS07436
+  exodos: Duck Hunt (1995).zip
+files:
+- name: DUCKHUNT.EXE
+  size: 279163
+  date: '1995-07-31T12:00:12'
+  crc: '0xc7d7208e'
+- name: DUCKHUNT.TXT
+  size: 3064
+  date: '1995-07-31T12:00:12'
+  crc: '0xba1e039f'
+- name: FILE_ID.DIZ
+  size: 388
+  date: '1995-07-31T12:00:12'
+  crc: '0x80d8f4b4'

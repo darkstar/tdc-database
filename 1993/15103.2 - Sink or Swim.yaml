@@ -1,0 +1,38 @@
+filename: Sink or Swim (Installer) [b1] (1993)(Zeppelin Games Limited) [Strategy, Action].zip
+tdc_id: '15103.2'
+title:
+  box: Sink or Swim
+publisher: Zeppelin Games Limited
+year: '1993'
+genre:
+- Strategy
+- Action
+language: English
+date:
+  added: '2019-03-01T21:07:48'
+  last_modified: '2019-03-01T21:07:48'
+type: zip
+tags:
+- Bad: 1
+installer: true
+files:
+- name: INSTALL.BAT
+  size: 427
+  date: '1993-11-01T12:16:16'
+  crc: '0xfa8fa6e4'
+- name: LHA.EXE
+  size: 33965
+  date: '1992-08-22T17:44:02'
+  crc: '0xc591bebf'
+- name: PAK1.EXE
+  size: 1227739
+  date: '1993-11-01T11:50:36'
+  crc: '0x005321b8'
+- name: PAK2.EXE
+  size: 608923
+  date: '1993-11-01T11:59:20'
+  crc: '0xe9db16b0'
+- name: SOS.BAT
+  size: 397
+  date: '1993-11-01T16:38:10'
+  crc: '0xa04d1a76'

@@ -1,0 +1,32 @@
+filename: Infidel r22 [DC] (1983)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '11486.5'
+parent_id: '11486.4'
+title:
+  box: Infidel
+publisher: Infocom, Inc.
+year: '1983'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2022-06-05T09:53:40'
+  last_modified: '2022-06-05T09:53:40'
+release: '22'
+type: zip
+tags:
+- DOSConversion
+media: 360K
+commands:
+  play: INFIDEL.COM
+references:
+  mobygames: https://www.mobygames.com/game/pc-booter/infidel
+files:
+- name: INFIDEL.COM
+  size: 12928
+  date: '1980-01-01T00:00:00'
+  crc: '0x5b731280'
+- name: INFIDEL.DAT
+  size: 113344
+  date: '1980-01-01T00:06:58'
+  crc: '0x78cc2123'

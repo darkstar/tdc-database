@@ -1,0 +1,45 @@
+filename: Video BlackJack [SW][a2] (1993)(SNR Software) [Strategy, Cards].zip
+tdc_id: '7413.2'
+title:
+  screen: Video BlackJack
+publisher: SNR Software
+year: '1993'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T21:11:20'
+  last_modified: '2019-03-01T21:11:20'
+type: zip
+tags:
+- Shareware
+- Alternate: 2
+media: Download
+commands:
+  play: BJACK.EXE
+files:
+- name: BJACK.DAT
+  size: 1788
+  date: '1993-08-01T07:00:00'
+  crc: '0x79b82a58'
+- name: BJACK.EXE
+  size: 142833
+  date: '1993-08-01T07:00:00'
+  crc: '0xb93ee4cf'
+- name: BJACK.SCR
+  size: 25819
+  date: '1993-08-01T07:00:00'
+  crc: '0x9bce6fe2'
+- name: BJACK.SNG
+  size: 2500
+  date: '1993-08-01T07:00:00'
+  crc: '0x7e42f960'
+- name: PACKING.LST
+  size: 287
+  date: '1993-08-01T07:00:00'
+  crc: '0x82eeef12'
+- name: README.TXT
+  size: 2955
+  date: '1993-08-01T07:00:00'
+  crc: '0xad6c8090'

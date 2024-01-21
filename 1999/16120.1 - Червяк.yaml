@@ -1,0 +1,30 @@
+filename: Червяк v1.5.11 (Ru) (1999)(Serg Wasilenkow) [Action].zip
+tdc_id: '16120.1'
+title:
+  screen: Червяк
+  translation: Worm
+publisher: Serg Wasilenkow
+year: '1999'
+genre: Action
+language: Russian
+date:
+  added: '2019-03-02T10:46:36'
+  last_modified: '2023-07-01T18:24:39'
+version: 1.5.11
+type: zip
+media: Download
+commands:
+  play: WORM.EXE
+files:
+- name: WHATSNEW.151
+  size: 6775
+  date: '1999-02-23T01:50:10'
+  crc: '0x4356a559'
+- name: WORM.EXE
+  size: 35982
+  date: '1999-02-23T01:50:10'
+  crc: '0x65ced156'
+- name: WORM.INI
+  size: 10
+  date: '1997-01-07T00:08:30'
+  crc: '0x1e5a0621'

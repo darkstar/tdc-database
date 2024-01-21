@@ -1,0 +1,117 @@
+filename: Turbo Chess (1985)(Borland International) [Strategy, Chess].zip
+tdc_id: '7237.0'
+title:
+  screen: Turbo Chess
+publisher: Borland International
+year: '1985'
+genre:
+- Strategy
+- Chess
+language: English
+date:
+  added: '2019-03-01T18:24:36'
+  last_modified: '2019-03-01T18:24:36'
+type: zip
+commands:
+  play: CHESS.COM
+files:
+- name: BOARD.CH
+  size: 9005
+  date: '1985-10-29T16:59:50'
+  crc: '0x00378c2c'
+- name: CHESS
+  size: 128
+  date: '1995-11-23T21:07:26'
+  crc: '0xc381be70'
+- name: CHESS.COM
+  size: 64894
+  date: '1985-10-29T17:12:00'
+  crc: '0x4eb83fe0'
+- name: CHESS.PAS
+  size: 1570
+  date: '1985-10-29T17:02:32'
+  crc: '0x393b0e62'
+- name: DISPLAY.CH
+  size: 17958
+  date: '1985-10-29T17:00:14'
+  crc: '0x06794785'
+- name: EVALU.CH
+  size: 20817
+  date: '1985-10-29T17:00:58'
+  crc: '0x20a5eb39'
+- name: INPUT.CH
+  size: 21753
+  date: '1985-10-29T17:00:28'
+  crc: '0xa2a206f5'
+- name: MATE.001
+  size: 129
+  date: '1985-10-09T14:29:36'
+  crc: '0x92e8da60'
+- name: MATE.002
+  size: 192
+  date: '1985-10-09T15:11:06'
+  crc: '0x24b34838'
+- name: MATE.003
+  size: 108
+  date: '1985-10-09T15:11:52'
+  crc: '0xca143c6a'
+- name: MATE.004
+  size: 150
+  date: '1985-10-09T15:12:04'
+  crc: '0xfbd40359'
+- name: MATE.005
+  size: 101
+  date: '1985-10-09T15:12:16'
+  crc: '0x260c1aac'
+- name: MATE.006
+  size: 122
+  date: '1985-10-09T15:13:14'
+  crc: '0x7a29327a'
+- name: MATE.007
+  size: 106
+  date: '1985-10-09T15:42:36'
+  crc: '0x26be8ed0'
+- name: MATE.008
+  size: 136
+  date: '1985-10-09T15:15:48'
+  crc: '0x64e0c114'
+- name: MATE.009
+  size: 99
+  date: '1985-10-09T15:18:16'
+  crc: '0x199ae1d5'
+- name: MATE.010
+  size: 176
+  date: '1985-10-09T15:25:18'
+  crc: '0xcc501250'
+- name: MOVGEN.CH
+  size: 19106
+  date: '1985-10-29T17:02:52'
+  crc: '0xe98d8b6a'
+- name: OPENING.LIB
+  size: 32000
+  date: '1985-10-29T17:18:16'
+  crc: '0x1e6b1655'
+- name: READ.ME
+  size: 9232
+  date: '1985-10-29T17:16:42'
+  crc: '0xecff8eb8'
+- name: README.COM
+  size: 16099
+  date: '1985-10-24T17:15:00'
+  crc: '0x34d05148'
+- name: SEARCH.CH
+  size: 27043
+  date: '1985-10-29T17:01:10'
+  crc: '0xb1d0d853'
+- name: SMALL.CH
+  size: 16530
+  date: '1985-10-29T17:00:44'
+  crc: '0x616b47f8'
+- name: TALK.CH
+  size: 31090
+  date: '1985-10-29T17:01:24'
+  crc: '0xc2ab136d'
+- name: TIMELIB.CH
+  size: 2387
+  date: '1985-10-29T16:59:36'
+  crc: '0xad16f70e'

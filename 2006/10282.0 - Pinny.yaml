@@ -1,0 +1,33 @@
+filename: Pinny (2006)(Scott Haag) [Simulation, Action].zip
+tdc_id: '10282.0'
+title:
+  screen: Pinny
+publisher: Scott Haag
+year: '2006'
+genre:
+- Simulation
+- Action
+language: English
+date:
+  added: '2019-03-02T10:57:14'
+  last_modified: '2019-03-02T10:57:14'
+type: zip
+commands:
+  play: PINNY.EXE
+files:
+- name: DOS4GW.EXE
+  size: 265420
+  date: '1994-09-01T11:00:00'
+  crc: '0xcb214447'
+- name: PINNY.DAT
+  size: 251787
+  date: '1998-10-21T01:00:42'
+  crc: '0xe497a27d'
+- name: PINNY.EXE
+  size: 102045
+  date: '1998-10-21T03:15:02'
+  crc: '0x43c4d9f2'
+- name: Pinny.txt
+  size: 339
+  date: '2006-07-16T19:44:08'
+  crc: '0xb4c4c910'

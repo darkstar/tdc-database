@@ -1,0 +1,90 @@
+filename: Maniac Mansion- Day of the Tentacle v1.6 (Installer) (1993)(LucasArts Entertainment Company LLC) [Adventure].zip
+tdc_id: '11123.22'
+parent_id: '11123.21'
+title:
+  box: 'Maniac Mansion: Day of the Tentacle'
+  qualifier: Installer
+publisher: LucasArts Entertainment Company LLC
+year: '1993'
+genre: Adventure
+language: English
+date:
+  added: '2023-11-25T11:08:12'
+  last_modified: '2023-11-25T11:08:12'
+version: '1.6'
+type: zip
+media: 1.2M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/719/maniac-mansion-day-of-the-tentacle/
+files:
+- name: DISK.ID
+  size: 31
+  date: '1993-06-07T17:05:32'
+  crc: '0x7f4e0aa2'
+- name: DISK.ID2
+  size: 31
+  date: '1993-06-07T17:08:02'
+  crc: '0x7d08b4fb'
+- name: DISK.ID3
+  size: 31
+  date: '1993-06-07T17:09:14'
+  crc: '0x7ccadecc'
+- name: DISK.ID4
+  size: 31
+  date: '1993-06-07T17:11:00'
+  crc: '0x7985c849'
+- name: DISK.ID5
+  size: 31
+  date: '1993-06-07T17:12:18'
+  crc: '0x7847a27e'
+- name: DISK.ID6
+  size: 31
+  date: '1993-06-07T17:15:54'
+  crc: '0x7a011c27'
+- name: DISK.ID7
+  size: 31
+  date: '1993-06-07T17:17:42'
+  crc: '0x7bc37610'
+- name: DISK.ID8
+  size: 31
+  date: '1993-06-07T17:18:58'
+  crc: '0x709f312d'
+- name: DOTT.001
+  size: 1099688
+  date: '1993-06-07T17:20:16'
+  crc: '0xf49c51b8'
+- name: DOTT.002
+  size: 1213440
+  date: '1993-06-07T17:08:52'
+  crc: '0x185adc1b'
+- name: DOTT.003
+  size: 1213440
+  date: '1993-06-07T17:10:06'
+  crc: '0x88663ec4'
+- name: DOTT.004
+  size: 1213440
+  date: '1993-06-07T17:11:50'
+  crc: '0xdf2324b2'
+- name: DOTT.005
+  size: 1213440
+  date: '1993-06-07T17:13:10'
+  crc: '0x988fea91'
+- name: DOTT.006
+  size: 1213440
+  date: '1993-06-07T17:16:44'
+  crc: '0x5122d376'
+- name: DOTT.007
+  size: 1213440
+  date: '1993-06-07T17:18:34'
+  crc: '0x27d9b6af'
+- name: DOTT.008
+  size: 981731
+  date: '1993-06-07T17:19:40'
+  crc: '0xe0862e7a'
+- name: INSTALL.EXE
+  size: 113388
+  date: '1992-07-28T12:00:00'
+  crc: '0x229e418d'

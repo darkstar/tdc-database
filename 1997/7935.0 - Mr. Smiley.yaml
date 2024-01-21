@@ -1,0 +1,30 @@
+filename: Mr. Smiley [FW] (1997)(Steve Nunnally) [Simulation].zip
+tdc_id: '7935.0'
+title:
+  screen: Mr. Smiley
+publisher: Steve Nunnally
+year: '1997'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-02T10:35:58'
+  last_modified: '2023-03-12T16:33:48'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 26
+  date: '2018-11-18T16:53:26'
+  crc: '0xa5c34f67'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'
+- name: SMILEY.BAS
+  size: 32561
+  date: '2018-11-18T16:46:18'
+  crc: '0xf35e8233'

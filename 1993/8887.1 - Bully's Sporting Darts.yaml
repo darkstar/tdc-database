@@ -1,0 +1,77 @@
+filename: Bully's Sporting Darts [a1] (1993)(Alternative Software Ltd.) [Sports].zip
+tdc_id: '8887.1'
+title:
+  box: Bully's Sporting Darts
+publisher: Alternative Software Ltd.
+year: '1993'
+genre: Sports
+language: English
+date:
+  added: '2020-02-08T19:38:42'
+  last_modified: '2020-02-08T19:38:42'
+type: zip
+tags:
+- Alternate: 1
+commands:
+  play: BULLY.EXE
+files:
+- name: BOARD11.PIC
+  size: 32007
+  date: '1993-05-06T03:04:44'
+  crc: '0xae70cfd6'
+- name: BOARD13.PIC
+  size: 32007
+  date: '1993-05-08T14:27:10'
+  crc: '0xe6fd37d0'
+- name: BOARD14.PIC
+  size: 32007
+  date: '1993-05-08T14:26:38'
+  crc: '0x10f0f12e'
+- name: BOARD15.PIC
+  size: 32007
+  date: '1993-05-08T14:27:16'
+  crc: '0x1f2ffe00'
+- name: BOARD16.PIC
+  size: 32007
+  date: '1993-05-08T14:27:20'
+  crc: '0xf10832b8'
+- name: BOARD17.PIC
+  size: 32007
+  date: '1993-05-08T14:27:24'
+  crc: '0xd8c9858b'
+- name: BSD.INS
+  size: 137
+  date: '2107-11-29T17:00:00'
+  crc: '0x00d1afe6'
+- name: BSD.SMP
+  size: 24375
+  date: '1993-05-29T12:50:42'
+  crc: '0x1f659728'
+- name: BULLY.EXE
+  size: 116094
+  date: '1993-07-07T04:30:14'
+  crc: '0xedd3751b'
+- name: BULLY.FNT
+  size: 779
+  date: '2107-11-29T17:00:00'
+  crc: '0x33a3d820'
+- name: DAT.DAT
+  size: 1031
+  date: '2107-11-29T17:00:00'
+  crc: '0x1efec8d6'
+- name: ICONS.DAT
+  size: 11343
+  date: '2107-11-29T17:00:00'
+  crc: '0x2af13e90'
+- name: LOADSCR.PIC
+  size: 32007
+  date: '1993-05-03T05:09:52'
+  crc: '0x23834fa7'
+- name: MENU.PIC
+  size: 32007
+  date: '1993-05-03T05:09:46'
+  crc: '0x6772bc92'
+- name: SPR.DAT
+  size: 63931
+  date: '1993-05-28T20:14:16'
+  crc: '0x9b5557c9'

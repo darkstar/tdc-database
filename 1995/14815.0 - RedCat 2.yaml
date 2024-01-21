@@ -1,0 +1,62 @@
+filename: RedCat 2 (Installer) (Nl) (1995)(RedCat Software) [Action, Adventure].zip
+tdc_id: '14815.0'
+title:
+  box: RedCat 2
+publisher: RedCat Software
+year: '1995'
+genre:
+- Action
+- Adventure
+language: Dutch
+date:
+  added: '2019-03-02T08:59:46'
+  last_modified: '2019-03-02T08:59:46'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 111720
+  date: '1995-08-21T11:12:00'
+  crc: '0x08aa3ca7'
+- name: INSTALL.IMG
+  size: 3469
+  date: '1995-08-19T12:43:06'
+  crc: '0x1f279312'
+- name: INSTALL.IND
+  size: 54
+  date: '1995-08-19T12:43:06'
+  crc: '0x927a3470'
+- name: INSTALL.INF
+  size: 93
+  date: '1995-08-21T11:14:54'
+  crc: '0x72c67a14'
+- name: RC2.RZP
+  size: 1268636
+  date: '1995-08-24T10:48:10'
+  crc: '0x0a524d23'
+- name: RCS.IMG
+  size: 18594
+  date: '1995-08-19T15:53:16'
+  crc: '0x721c014d'
+- name: RCS.IND
+  size: 74
+  date: '1995-08-19T15:53:16'
+  crc: '0x32d35ee5'
+- name: STD.PCC
+  size: 986
+  date: '1994-01-07T10:57:06'
+  crc: '0x4bf18811'
+- name: WND1.DAT
+  size: 960
+  date: '1994-10-27T15:24:24'
+  crc: '0xcb584157'
+- name: XVGALIB.IMG
+  size: 3750
+  date: '1995-08-19T12:32:50'
+  crc: '0x09d06f6a'
+- name: XVGALIB.IND
+  size: 18
+  date: '1995-08-19T12:32:50'
+  crc: '0x8f4e8605'

@@ -1,0 +1,50 @@
+filename: Harpoon II- BattleSet 2 - WestPac v2.0.2 (Installer) (1994)(Three-Sixty Pacific, Inc.) [Simulation, Strategy, Addon].zip
+tdc_id: '11011.0'
+title:
+  box: 'Harpoon II: BattleSet 2 - WestPac'
+publisher: Three-Sixty Pacific, Inc.
+year: '1994'
+genre:
+- Simulation
+- Strategy
+- Addon
+language: English
+date:
+  added: '2019-03-01T21:59:52'
+  last_modified: '2019-03-01T21:59:52'
+version: 2.0.2
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK.2
+  size: 1
+  date: '1994-02-01T12:56:42'
+  crc: '0x6c09ff9d'
+- name: INSTALL.EXE
+  size: 157504
+  date: '1994-07-14T12:21:42'
+  crc: '0x52c1b12d'
+- name: INSTALL5.DAT
+  size: 7208
+  date: '1994-11-12T12:30:02'
+  crc: '0xf49355d3'
+- name: PCX.000
+  size: 47135
+  date: '1994-08-23T11:47:20'
+  crc: '0x03fb1a27'
+- name: WESTPAC.000
+  size: 495004
+  date: '1994-11-15T15:01:38'
+  crc: '0x08c49672'
+- name: WESTPAC.001
+  size: 1161245
+  date: '1994-11-15T15:06:00'
+  crc: '0x4457fadf'
+- name: WESTPACO.NE
+  size: 0
+  date: '1994-11-15T15:35:28'
+- name: WESTPACT.WO
+  size: 0
+  date: '1994-11-15T15:40:46'

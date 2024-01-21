@@ -1,0 +1,41 @@
+filename: Trivia Funpack (Installer) [f1] (1993)(Dan Linton, Jason Blochowiak) [Educational, Compilation].zip
+tdc_id: '16930.1'
+title:
+  screen: Trivia Funpack
+publisher: Dan Linton, Jason Blochowiak
+year: '1993'
+genre:
+- Educational
+- Compilation
+language: English
+date:
+  added: '2019-03-01T21:10:46'
+  last_modified: '2019-03-01T21:10:46'
+type: zip
+tags:
+- Fixed: 1
+installer: true
+compilation: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FUNPACK.1
+  size: 661148
+  date: '1999-12-31T18:00:00'
+  crc: '0x34a75bd6'
+- name: FUNPACK.2
+  size: 431887
+  date: '1999-12-31T18:00:00'
+  crc: '0xd5bbc57e'
+- name: INSTALL.EXE
+  size: 22597
+  date: '2014-01-01T15:28:44'
+  crc: '0x9e2f60b6'
+- name: INSTALL.EX_
+  size: 13414
+  date: '1999-12-31T18:00:00'
+  crc: '0x4f9b97ef'
+- name: INSTALL.OVL
+  size: 32515
+  date: '1999-12-31T18:00:00'
+  crc: '0x3af0b070'

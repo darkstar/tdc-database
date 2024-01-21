@@ -1,0 +1,54 @@
+filename: Chinese Checkers v2.2 (Installer) [SW] (1994)(ImagiSOFT, Inc.) [Strategy, Board].zip
+tdc_id: '5268.8'
+title:
+  screen: Chinese Checkers
+publisher: ImagiSOFT, Inc.
+year: '1994'
+genre:
+- Strategy
+- Board
+language: English
+date:
+  added: '2018-01-06T21:01:56'
+  last_modified: '2018-01-06T21:01:56'
+version: '2.2'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: CHINESE.PAK
+  size: 216038
+  date: '1994-04-01T12:00:00'
+  crc: '0xbef72485'
+- name: FILE_ID.DIZ
+  size: 421
+  date: '1994-04-01T12:00:00'
+  crc: '0xa212b866'
+- name: INSTALL.BIN
+  size: 4000
+  date: '1994-04-01T12:00:00'
+  crc: '0x53921adb'
+- name: INSTALL.EXE
+  size: 34447
+  date: '1994-04-01T12:00:00'
+  crc: '0x63fdf02b'
+- name: INSTALL.FIL
+  size: 7224
+  date: '1994-04-01T12:00:00'
+  crc: '0x61a7be7f'
+- name: READ.ME
+  size: 5150
+  date: '1994-04-01T12:00:00'
+  crc: '0x3801a103'
+- name: VENDOR.DOC
+  size: 4667
+  date: '1994-04-01T12:00:00'
+  crc: '0x01edadc6'
+- name: WINDOWS.PAK
+  size: 1008
+  date: '1994-04-01T12:00:00'
+  crc: '0xa4bbcf7a'

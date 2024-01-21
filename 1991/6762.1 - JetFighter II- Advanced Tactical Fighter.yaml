@@ -1,0 +1,47 @@
+filename: JetFighter II- Advanced Tactical Fighter v1.0B (Installer) (1991)(Velocity Inc.) [Simulation].zip
+tdc_id: '6762.1'
+parent_id: '6762.12'
+title:
+  box: 'JetFighter II: Advanced Tactical Fighter'
+publisher: Velocity Inc.
+year: '1991'
+genre: Simulation
+language: English
+date:
+  added: '2021-07-16T08:58:46'
+  last_modified: '2021-07-16T08:58:46'
+version: 1.0B
+type: zip
+installer: true
+files:
+- name: CGADATA.EXE
+  size: 218854
+  date: '1991-06-11T17:28:22'
+  crc: '0x08044b84'
+- name: EGADATA.EXE
+  size: 217833
+  date: '1991-06-11T17:28:04'
+  crc: '0xed21eaef'
+- name: INSTALL.DAT
+  size: 69082
+  date: '1991-06-11T18:12:30'
+  crc: '0x368c75d9'
+- name: INSTALL.EXE
+  size: 9703
+  date: '1991-06-11T18:12:32'
+  crc: '0x1b29590d'
+- name: JETFIGHT.ER2
+  size: 0
+  date: '1991-06-11T13:22:46'
+- name: MISSION.EXE
+  size: 144601
+  date: '1991-06-11T17:27:24'
+  crc: '0x343ed46e'
+- name: PROGRAM.EXE
+  size: 150656
+  date: '1991-06-11T17:26:52'
+  crc: '0x24ce9e21'
+- name: VGADATA.EXE
+  size: 220582
+  date: '1991-06-11T17:27:44'
+  crc: '0x0f324a78'

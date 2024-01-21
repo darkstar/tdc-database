@@ -1,0 +1,58 @@
+filename: Cartooners (Installer) (1989)(Electronic Arts, Inc.) [Educational, Editor].zip
+tdc_id: '11984.0'
+title:
+  box: Cartooners
+publisher: Electronic Arts, Inc.
+year: '1989'
+genre:
+- Educational
+- Editor
+language: English
+date:
+  added: '2019-03-01T18:27:24'
+  last_modified: '2019-03-01T18:27:24'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: ART_1AC.PEA
+  size: 68880
+  date: '1989-10-24T10:53:10'
+  crc: '0xe996a482'
+- name: ART_1MO.PEA
+  size: 10875
+  date: '1989-10-24T10:52:58'
+  crc: '0x0e417d8b'
+- name: ART_1MU.PEA
+  size: 17147
+  date: '1989-10-27T12:02:58'
+  crc: '0xf7614c65'
+- name: ART_1SC.PEA
+  size: 72174
+  date: '1989-10-24T10:52:54'
+  crc: '0x18b04dbd'
+- name: ART_2.PEA
+  size: 148173
+  date: '1989-10-24T10:53:30'
+  crc: '0x17968933'
+- name: CARTOON.IEA
+  size: 9994
+  date: '1989-10-30T14:07:22'
+  crc: '0x18d97758'
+- name: EX_MOVS.PEA
+  size: 16524
+  date: '1989-10-27T08:42:52'
+  crc: '0x3bc4b8fd'
+- name: INSTALL.EXE
+  size: 39819
+  date: '1989-09-12T23:45:02'
+  crc: '0xd666da62'
+- name: PROGRAM.PEA
+  size: 169612
+  date: '1989-11-03T13:53:06'
+  crc: '0xda8de05a'
+- name: SCENES1.PEA
+  size: 74112
+  date: '1989-10-24T10:52:46'
+  crc: '0x568dcd7a'

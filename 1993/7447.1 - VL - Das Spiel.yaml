@@ -1,0 +1,24 @@
+filename: VL - Das Spiel (Installer) (De) (1993)(LBS, Promotion Software) [Adventure].zip
+tdc_id: '7447.1'
+title:
+  screen: VL - Das Spiel
+publisher: LBS, Promotion Software
+year: '1993'
+genre: Adventure
+language: German
+date:
+  added: '2019-03-01T21:11:22'
+  last_modified: '2022-11-30T09:58:30'
+type: zip
+installer: true
+commands:
+  play: INSTALL.BAT
+files:
+- name: INSTALL.BAT
+  size: 1382
+  date: '1993-05-20T14:02:08'
+  crc: '0xeefa3f56'
+- name: I\II.EXE
+  size: 725453
+  date: '1993-05-21T07:09:16'
+  crc: '0x90b5cf1a'

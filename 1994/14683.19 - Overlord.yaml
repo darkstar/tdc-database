@@ -1,0 +1,40 @@
+filename: Overlord (SVGA) r940609 (demo) (Installer) (1994)(Virgin Interactive Entertainment (Europe) Ltd.) [Simulation, Addon].zip
+tdc_id: '14683.19'
+title:
+  screen: Overlord
+  qualifier: SVGA
+publisher: Virgin Interactive Entertainment (Europe) Ltd.
+year: '1994'
+genre:
+- Simulation
+- Addon
+language: English
+date:
+  added: '2024-01-02T10:02:34'
+  last_modified: '2024-01-02T10:02:34'
+release: '940609'
+type: zip
+media: Download
+installer: true
+demo: true
+commands:
+  play: INSTALL.BAT
+references:
+  mobygames: https://www.mobygames.com/game/513/overlord/
+files:
+- name: DEMO.FIL
+  size: 1897
+  date: '1994-06-16T13:25:10'
+  crc: '0x76cd8300'
+- name: INSTALL.BAT
+  size: 254
+  date: '1994-06-16T14:07:52'
+  crc: '0xdc21e544'
+- name: INSTALLX.EXE
+  size: 1213037
+  date: '1994-06-16T14:28:56'
+  crc: '0x69a273d9'
+- name: READ.ME
+  size: 11943
+  date: '1994-06-16T12:40:02'
+  crc: '0x41b79414'

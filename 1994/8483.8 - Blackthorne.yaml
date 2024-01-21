@@ -1,0 +1,31 @@
+filename: Blackthorne (demo) (Installer) (1994)(Interplay Productions, Inc.) [Action].zip
+tdc_id: '8483.8'
+parent_id: '8483.17'
+title:
+  screen: Blackthorne
+  qualifier: demo
+publisher: Interplay Productions, Inc.
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-01-16T10:22:32'
+  last_modified: '2019-01-16T10:22:32'
+type: zip
+installer: true
+demo: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: BTHORNE.I00
+  size: 1113969
+  date: '1994-08-25T16:31:32'
+  crc: '0x521a7855'
+- name: FILE_ID.DIZ
+  size: 104
+  date: '1994-08-25T20:51:06'
+  crc: '0x576292a3'
+- name: INSTALL.EXE
+  size: 56848
+  date: '1994-08-24T17:35:08'
+  crc: '0xa9ca1c97'

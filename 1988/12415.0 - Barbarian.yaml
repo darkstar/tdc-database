@@ -1,0 +1,35 @@
+filename: Barbarian (1988)(Epyx, Inc.) [Action].zip
+tdc_id: '12415.0'
+title:
+  box: Barbarian
+publisher: Epyx, Inc.
+year: '1988'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:25:56'
+  last_modified: '2019-03-01T18:25:56'
+type: zip
+commands:
+  play: BARB.EXE
+files:
+- name: BARB.EXE
+  size: 51527
+  date: '1989-01-31T09:06:36'
+  crc: '0x63640b5f'
+- name: CHRDATA.DAT
+  size: 4096
+  date: '1995-10-23T14:17:12'
+  crc: '0x4e4c039d'
+- name: CHRDATA1.DAT
+  size: 4096
+  date: '1995-10-23T14:17:12'
+  crc: '0x5f7a763e'
+- name: CHRDATA2.DAT
+  size: 4096
+  date: '1995-10-23T14:17:12'
+  crc: '0x714135b1'
+- name: CHRDATA3.DAT
+  size: 4096
+  date: '1995-10-23T14:17:12'
+  crc: '0xf55119c6'

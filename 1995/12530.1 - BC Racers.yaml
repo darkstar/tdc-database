@@ -1,0 +1,39 @@
+filename: BC Racers (Installer) (En)(De)(Fr) (1995)(Front Street Publishing) [Action].zip
+tdc_id: '12530.1'
+title:
+  screen: BC Racers
+publisher: Front Street Publishing
+year: '1995'
+genre: Action
+language:
+- English
+- French
+- German
+date:
+  added: '2019-03-02T07:29:48'
+  last_modified: '2019-03-02T07:29:48'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: ARC.LST
+  size: 3657
+  date: '1995-02-21T16:50:28'
+  crc: '0x643fc3e5'
+- name: ARCIVE.01
+  size: 1457664
+  date: '1995-02-21T16:47:20'
+  crc: '0xb4df4252'
+- name: ARCIVE.02
+  size: 947111
+  date: '1995-02-21T16:50:24'
+  crc: '0x28d9bbb7'
+- name: DOS4GW.EXE
+  size: 265420
+  date: '1994-09-01T10:00:00'
+  crc: '0xcb214447'
+- name: INSTALL.EXE
+  size: 106882
+  date: '1995-02-20T12:13:38'
+  crc: '0x7f72909d'

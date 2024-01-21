@@ -1,0 +1,28 @@
+filename: Moria v1.9.9 (Fr) (1986)(AJM) [Adventure].zip
+tdc_id: '1284.0'
+title:
+  screen: Moria
+publisher: AJM
+year: '1986'
+genre: Adventure
+language: French
+date:
+  added: '2019-03-01T18:24:52'
+  last_modified: '2019-03-01T18:24:52'
+version: 1.9.9
+type: zip
+commands:
+  play: MORIA2.COM
+files:
+- name: MORIA2.COM
+  size: 64992
+  date: '1986-07-18T16:42:32'
+  crc: '0xe3221d8f'
+- name: MORIA2.DON
+  size: 10055
+  date: '1986-07-18T01:12:22'
+  crc: '0xff309696'
+- name: Moria2.txt
+  size: 506
+  date: '1988-01-26T18:58:46'
+  crc: '0x43f3563d'

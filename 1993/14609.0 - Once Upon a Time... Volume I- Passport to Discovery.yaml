@@ -1,0 +1,41 @@
+filename: Once Upon a Time... Volume I- Passport to Discovery v1.5 (Installer) (1993)(Compu-Teach) [Educational][!].zip
+tdc_id: '14609.0'
+parent_id: '14609.1'
+title:
+  box: 'Once Upon a Time... Volume I: Passport to Discovery'
+  qualifier: Installer
+publisher: Compu-Teach
+year: '1993'
+genre: Educational
+language: English
+date:
+  added: '2021-03-28T12:31:26'
+  last_modified: '2023-07-11T21:48:51'
+version: '1.5'
+type: zip
+tags:
+- KnownGood
+media: 720K
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  dosid: DOS15899
+  exodos: Once Upon a Time... Volume I - Passport to Discovery (1990).zip
+files:
+- name: INSTALL.EXE
+  size: 72127
+  date: '1993-06-28T15:45:16'
+  crc: '0xe2bb4450'
+- name: INSTALL.S
+  size: 3527
+  date: '1993-06-30T10:47:18'
+  crc: '0x1d4d425f'
+- name: ONCE1.001
+  size: 627163
+  date: '1993-06-30T11:06:10'
+  crc: '0x3a802bc0'
+- name: ONCE1.002
+  size: 247434
+  date: '1993-06-30T11:07:42'
+  crc: '0xcf88cedb'

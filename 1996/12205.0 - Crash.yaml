@@ -1,0 +1,36 @@
+filename: Crash (1996)(Digital Nightmares) [Action, Racing - Driving].zip
+tdc_id: '12205.0'
+title:
+  screen: Crash
+publisher: Digital Nightmares
+year: '1996'
+genre:
+- Action
+- Racing - Driving
+language: English
+date:
+  added: '2019-03-02T10:02:08'
+  last_modified: '2019-03-02T10:02:08'
+type: zip
+commands:
+  play: CRASH.EXE
+references:
+  dosid: DOS01541
+  exodos: CRASH (1996).zip
+files:
+- name: CRASH.EXE
+  size: 231627
+  date: '1996-04-16T08:33:28'
+  crc: '0x10bcb257'
+- name: DOS4GW.EXE
+  size: 265396
+  date: '1995-10-26T16:50:00'
+  crc: '0x5cc34b0f'
+- name: ONLY.ONE
+  size: 418497
+  date: '1996-03-30T14:28:32'
+  crc: '0x592b6f02'
+- name: README.TXT
+  size: 1024
+  date: '1997-03-31T00:09:04'
+  crc: '0x0f4d6f49'

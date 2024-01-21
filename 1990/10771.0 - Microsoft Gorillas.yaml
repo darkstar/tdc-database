@@ -1,0 +1,32 @@
+filename: Microsoft Gorillas (1990)(Microsoft Corporation) [Strategy].zip
+tdc_id: '10771.0'
+title:
+  screen: Microsoft Gorillas
+publisher: Microsoft Corporation
+year: '1990'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:33:40'
+  last_modified: '2023-01-30T15:03:17'
+type: zip
+media: Download
+commands:
+  play: Gorillas.bat
+references:
+  mobygames: https://www.mobygames.com/game/dos/ms-dos-5-included-games
+  dosid: DOS06301
+  exodos: Gorillas (1991).zip
+files:
+- name: Gorillas.bat
+  size: 66
+  date: '2009-07-12T15:15:40'
+  crc: '0x9fcfdcfd'
+- name: QBasic.EXE
+  size: 194309
+  date: '1993-09-30T06:20:00'
+  crc: '0x3152911c'
+- name: gorilla.bas
+  size: 29434
+  date: '2003-05-24T02:06:08'
+  crc: '0x902fe6bb'

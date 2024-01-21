@@ -1,0 +1,27 @@
+filename: Tiro al Plato (Es) (1990)(Ediciones Manali, S.A.) [Action].zip
+tdc_id: '16753.0'
+title:
+  screen: Tiro al Plato
+publisher: Ediciones Manali, S.A.
+year: '1990'
+genre: Action
+language: Spanish
+date:
+  added: '2019-03-01T18:34:18'
+  last_modified: '2019-03-01T18:34:18'
+type: zip
+commands:
+  play: TIRO.EXE
+files:
+- name: TECLAINT.BIN
+  size: 98
+  date: '1980-01-01T01:02:44'
+  crc: '0x53a1e02e'
+- name: TIRO.BIN
+  size: 13945
+  date: '1980-01-01T01:03:56'
+  crc: '0xfa651123'
+- name: TIRO.EXE
+  size: 48834
+  date: '1980-01-01T02:29:20'
+  crc: '0x6442a0f3'

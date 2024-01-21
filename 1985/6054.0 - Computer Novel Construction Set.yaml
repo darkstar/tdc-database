@@ -1,0 +1,62 @@
+filename: Computer Novel Construction Set (1985)(Hayden Software) [Adventure, Educational].zip
+tdc_id: '6054.0'
+title:
+  box: Computer Novel Construction Set
+publisher: Hayden Software
+year: '1985'
+genre:
+- Adventure
+- Educational
+language: English
+date:
+  added: '2019-03-01T18:24:24'
+  last_modified: '2019-03-01T18:24:24'
+type: zip
+references:
+  dosid: DOS00040
+  exodos: Computer Novel Construction Set (1985).zip
+files:
+- name: ACCESS.EXE
+  size: 7168
+  date: '1985-04-11T17:48:18'
+  crc: '0x8c48ebfa'
+- name: CODE.EXE
+  size: 10240
+  date: '1985-04-11T15:13:16'
+  crc: '0x0662ecda'
+- name: MAKE.EXE
+  size: 58880
+  date: '1985-06-27T19:52:02'
+  crc: '0x3923ffca'
+- name: MAP.EXE
+  size: 18432
+  date: '1985-04-11T16:02:10'
+  crc: '0x93c12ce9'
+- name: MISSILE.DAT
+  size: 22876
+  date: '1989-08-16T18:59:38'
+  crc: '0xdd482522'
+- name: MISSILE.MES
+  size: 36587
+  date: '1985-06-28T10:33:02'
+  crc: '0xdd8969ad'
+- name: PACK.EXE
+  size: 9216
+  date: '1985-04-11T15:13:34'
+  crc: '0x8b3c2f24'
+- name: PLAY.EXE
+  size: 43008
+  date: '1985-05-22T18:25:38'
+  crc: '0x46bde067'
+- name: START.BAT
+  size: 8
+  date: '1980-01-01T00:03:22'
+  crc: '0x66c9e2d5'
+- name: TUTORIAL.DAT
+  size: 1312
+  date: '1980-01-01T00:06:14'
+  crc: '0x4f928571'
+- name: TUTORIAL.MES
+  size: 1260
+  date: '1980-01-01T00:40:44'
+  crc: '0x21d6049e'

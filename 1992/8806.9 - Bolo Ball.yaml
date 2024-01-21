@@ -1,0 +1,49 @@
+filename: Bolo Ball v1.0 [SWR] (1992)(Soleau Software, Inc.) [Strategy].zip
+tdc_id: '8806.9'
+title:
+  screen: Bolo Ball
+publisher: Soleau Software, Inc.
+year: '1992'
+genre: Strategy
+language: English
+date:
+  added: '2023-09-30T17:37:16'
+  last_modified: '2023-09-30T17:37:16'
+version: '1.0'
+type: zip
+tags:
+- SharewareRegistered
+media: Download
+commands:
+  play: BOLOBALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/4169/bolo-ball/
+files:
+- name: BBALLREG.$
+  size: 215
+  date: '1992-01-19T17:30:30'
+  crc: '0xfa3c278a'
+- name: BB_REG.DOC
+  size: 1566
+  date: '1992-01-19T09:53:22'
+  crc: '0x02db4ae0'
+- name: BOLOBALL.DOC
+  size: 5167
+  date: '1992-01-19T11:02:32'
+  crc: '0xf937bc6f'
+- name: BOLOBALL.EXE
+  size: 109890
+  date: '1992-01-21T23:26:30'
+  crc: '0x20be1f13'
+- name: BOLOBALL.OV1
+  size: 34613
+  date: '1992-01-17T19:22:48'
+  crc: '0x736b153a'
+- name: BOLOBALL.OV2
+  size: 33459
+  date: '1992-01-19T02:23:54'
+  crc: '0xc9919c2b'
+- name: BOLOBALL.SCR
+  size: 362
+  date: '1992-01-20T21:11:54'
+  crc: '0x961a1ef0'

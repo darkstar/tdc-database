@@ -1,0 +1,44 @@
+filename: Epsilon Games v1.1 (Installer) [FW] (1997)(Synchronous Systems) [Action].zip
+tdc_id: '9049.2'
+title:
+  screen: Epsilon Games
+publisher: Synchronous Systems
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-01-24T05:04:34'
+  last_modified: '2019-01-24T05:04:34'
+version: '1.1'
+type: zip
+tags:
+- Freeware
+media: Download
+installer: true
+commands:
+  play: EPSIG11.EXE
+files:
+- name: EPSIG11.EXE
+  size: 752817
+  date: '1997-01-23T11:26:20'
+  crc: '0x1544abe4'
+- name: FILE_ID.DIZ
+  size: 57
+  date: '1997-03-23T15:32:08'
+  crc: '0xeb0ce2d4'
+- name: INSTALL.TXT
+  size: 732
+  date: '1997-01-22T09:50:20'
+  crc: '0x349995a0'
+- name: MANUAL.TXT
+  size: 30767
+  date: '1997-01-22T09:51:02'
+  crc: '0x65796d93'
+- name: REQMENTS.TXT
+  size: 331
+  date: '1997-01-10T09:11:40'
+  crc: '0xd0e52c8d'
+- name: VENDOR.DOC
+  size: 2451
+  date: '1997-01-15T13:35:20'
+  crc: '0xfabaf9b8'

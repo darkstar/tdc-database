@@ -1,0 +1,46 @@
+filename: Corridor 7- Alien Invasion Demo (Installer) [a1] (1994)(Capstone Software) [Action].zip
+tdc_id: '9341.10'
+title:
+  screen: 'Corridor 7: Alien Invasion Demo'
+publisher: Capstone Software
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2012-04-27T06:54:06'
+  last_modified: '2022-11-16T15:27:03'
+type: zip
+tags:
+- Alternate: 1
+media: Download
+installer: true
+demo: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/corridor-7-alien-invasion
+files:
+- name: C7.LZH
+  size: 1306380
+  date: '1994-03-17T16:25:08'
+  crc: '0x885c315f'
+- name: C70001
+  size: 22
+  date: '1994-03-17T16:32:10'
+  crc: '0xc52d25c0'
+- name: EZI.CFG
+  size: 636
+  date: '1994-03-16T18:30:18'
+  crc: '0xe805f6ee'
+- name: FILE_ID.DIZ
+  size: 528
+  date: '1994-03-17T16:43:00'
+  crc: '0xe54fb3f2'
+- name: INSTALL.EXE
+  size: 70614
+  date: '1993-07-12T11:10:48'
+  crc: '0x1d30ffb9'
+- name: INSTALL.OLB
+  size: 56793
+  date: '1994-03-15T18:20:54'
+  crc: '0x57c43a47'

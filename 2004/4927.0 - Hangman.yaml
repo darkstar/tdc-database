@@ -1,0 +1,31 @@
+filename: Hangman (Hu) (2004)(Keith Koshman, Baranyi Péter) [Strategy, Puzzle, Educational].zip
+tdc_id: '4927.0'
+title:
+  screen: Hangman
+publisher: Keith Koshman, Baranyi Péter
+year: '2004'
+genre:
+- Strategy
+- Puzzle
+- Educational
+language: Hungarian
+date:
+  added: '2019-03-02T10:56:54'
+  last_modified: '2019-03-02T10:56:54'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 27
+  date: '2018-12-05T18:30:50'
+  crc: '0x13e93504'
+- name: HANGMAN.BAS
+  size: 17207
+  date: '2018-02-17T23:35:04'
+  crc: '0x6875ab7f'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

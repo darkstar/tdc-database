@@ -1,0 +1,67 @@
+filename: Asteroids (1998)(TF Software) [Action].zip
+tdc_id: '8940.0'
+title:
+  screen: Asteroids
+publisher: TF Software
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:40:40'
+  last_modified: '2019-03-02T10:40:40'
+type: zip
+commands:
+  play: Asteroid.exe
+files:
+- name: Asteroid.bas
+  size: 26489
+  date: '1998-11-09T16:44:46'
+  crc: '0xfd55e2df'
+- name: Asteroid.drw
+  size: 32011
+  date: '1997-06-23T23:45:24'
+  crc: '0x542d05a6'
+- name: Asteroid.exe
+  size: 89624
+  date: '1998-11-09T16:45:10'
+  crc: '0x3e356977'
+- name: Asteroid.pal
+  size: 535
+  date: '1997-06-23T23:45:36'
+  crc: '0xd7bbaed5'
+- name: Bomb.dat
+  size: 379
+  date: '1997-06-24T17:34:26'
+  crc: '0x982aa973'
+- name: Font7.fnt
+  size: 1246
+  date: '1997-02-14T17:22:12'
+  crc: '0xab5b09d0'
+- name: Font7m.fnt
+  size: 1246
+  date: '1997-02-14T17:22:12'
+  crc: '0x62635d19'
+- name: Highscor.dat
+  size: 320
+  date: '1998-11-09T16:47:22'
+  crc: '0xaa751d44'
+- name: Logo.dat
+  size: 2442
+  date: '1997-03-27T05:12:02'
+  crc: '0xca9630c0'
+- name: Rock.dat
+  size: 1063
+  date: '1997-06-22T13:53:12'
+  crc: '0x152816bd'
+- name: Ship.dat
+  size: 6255
+  date: '1997-06-22T19:06:48'
+  crc: '0xf02e6412'
+- name: Title.drw
+  size: 32011
+  date: '1997-06-24T14:40:34'
+  crc: '0xd21a945a'
+- name: readme.txt
+  size: 406
+  date: '1998-11-09T16:43:16'
+  crc: '0x2d0ab5f2'

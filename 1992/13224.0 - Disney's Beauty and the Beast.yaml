@@ -1,0 +1,70 @@
+filename: Disney's Beauty and the Beast (1992)(Walt Disney Computer Software, Inc.) [Educational].zip
+tdc_id: '13224.0'
+title:
+  box: Disney's Beauty and the Beast
+publisher: Walt Disney Computer Software, Inc.
+year: '1992'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T18:42:26'
+  last_modified: '2019-03-01T18:42:26'
+type: zip
+commands:
+  play: BEAUTY.COM
+references:
+  dosid: DOS01811
+  exodos: Disney's Beauty and the Beast - Be Our Guest (1992).zip
+files:
+- name: 1.PAK
+  size: 698720
+  date: '1993-05-13T16:12:28'
+  crc: '0x3ef0f2b1'
+- name: 2.PAK
+  size: 1418997
+  date: '1993-05-13T16:13:26'
+  crc: '0xd1079800'
+- name: BAL.ADD
+  size: 4813
+  date: '1992-11-11T03:04:10'
+  crc: '0x44bd8d26'
+- name: BALBUZ.ADD
+  size: 741
+  date: '1993-03-21T21:23:16'
+  crc: '0x18361f86'
+- name: BB.CC1
+  size: 55512
+  date: '1993-05-13T16:42:06'
+  crc: '0xc13cbbe6'
+- name: BB5.VOC
+  size: 56034
+  date: '1993-04-22T18:49:02'
+  crc: '0x90fc4de0'
+- name: BB6.VOC
+  size: 56034
+  date: '1993-04-22T18:49:34'
+  crc: '0x1545d56d'
+- name: BEAUTY.COM
+  size: 3616
+  date: '1992-08-25T15:53:36'
+  crc: '0x3fd335f2'
+- name: CACHE.BIN
+  size: 12800
+  date: '1993-04-10T15:00:32'
+  crc: '0xa9351014'
+- name: INFO.CC1
+  size: 22841
+  date: '1993-05-11T18:13:24'
+  crc: '0xd4bf93f4'
+- name: INFO.TAT
+  size: 309
+  date: '1993-05-13T16:51:04'
+  crc: '0x55a1d0e7'
+- name: MEGA.MVF
+  size: 224152
+  date: '1993-04-22T18:52:34'
+  crc: '0x120711b0'
+- name: SCENARIO
+  size: 14
+  date: '1993-05-13T16:11:50'
+  crc: '0x9a0a5625'

@@ -1,0 +1,38 @@
+filename: Србомер v1.0 (Sr) (1996)(Жарко Вукосављевић, Миливоjе Бугарчић) [Educational].zip
+tdc_id: '446.0'
+title:
+  screen: Србомер
+  transliteration: Srbomer
+publisher: Жарко Вукосављевић, Миливоjе Бугарчић
+year: '1996'
+genre: Educational
+language: Serbian
+date:
+  added: '2020-07-18T06:11:06'
+  last_modified: '2024-01-03T15:02:46'
+version: '1.0'
+type: zip
+media: Download
+commands:
+  play: SRB.EXE
+files:
+- name: C14.FNT
+  size: 3840
+  date: '1996-07-06T15:00:00'
+  crc: '0x6ecc3771'
+- name: MERAC.IMG
+  size: 52423
+  date: '1996-07-06T15:00:00'
+  crc: '0x3b15bbb6'
+- name: OPANAK.IMG
+  size: 3063
+  date: '1996-07-06T15:00:00'
+  crc: '0x431bbd10'
+- name: PITANJA.DAT
+  size: 28013
+  date: '1996-07-06T15:00:00'
+  crc: '0x558ba850'
+- name: SRB.EXE
+  size: 113896
+  date: '1996-07-06T15:00:00'
+  crc: '0x2567e794'

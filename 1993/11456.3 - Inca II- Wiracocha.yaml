@@ -1,0 +1,127 @@
+filename: Inca II- Wiracocha v1.000 (Installer) (Fr)(De)(En) (1993)(Sierra On-Line, Inc.) [Action, Adventure][!].zip
+tdc_id: '11456.3'
+parent_id: '11456.13'
+title:
+  box: 'Inca II: Wiracocha'
+publisher: Sierra On-Line, Inc.
+year: '1993'
+genre:
+- Action
+- Adventure
+language:
+- English
+- French
+- German
+date:
+  added: '2019-03-01T19:09:56'
+  last_modified: '2022-10-17T10:01:58'
+version: '1.000'
+type: zip
+tags:
+- KnownGood
+installer: true
+commands:
+  play: INSTALL.COM
+references:
+  mobygames: https://www.mobygames.com/game/dos/inca-ii-nations-of-immortality
+files:
+- name: COKTEL.#04
+  size: 3848
+  date: '1993-11-24T20:12:26'
+  crc: '0x4c78e721'
+- name: COKTEL.#05
+  size: 406
+  date: '1993-11-24T20:12:26'
+  crc: '0x6eebda30'
+- name: EXT.$06
+  size: 198144
+  date: '1993-11-24T20:23:18'
+  crc: '0xd5e26916'
+- name: EXT.$07
+  size: 1457664
+  date: '1993-11-24T20:23:24'
+  crc: '0xb08f7612'
+- name: EXT.$08
+  size: 1457664
+  date: '1993-11-24T20:23:34'
+  crc: '0xeabb2ddc'
+- name: EXT.$09
+  size: 1457664
+  date: '1993-11-24T20:23:44'
+  crc: '0xc6dce407'
+- name: EXT.$10
+  size: 413933
+  date: '1993-11-24T20:23:50'
+  crc: '0x62a44454'
+- name: INCA2.#06
+  size: 368495
+  date: '1993-11-24T20:12:56'
+  crc: '0x9b0e40db'
+- name: INCA2.#08
+  size: 350901
+  date: '1993-11-26T09:30:10'
+  crc: '0x89e7dabe'
+- name: INSTALL.ASK
+  size: 16371
+  date: '1993-11-24T15:33:26'
+  crc: '0xaffc9565'
+- name: INSTALL.COM
+  size: 5691
+  date: '1993-08-19T12:25:20'
+  crc: '0x33818fdf'
+- name: INSTALL.INF
+  size: 788
+  date: '1993-11-24T20:23:54'
+  crc: '0xc3b54502'
+- name: INTRO.#01
+  size: 716667
+  date: '1993-11-26T09:31:08'
+  crc: '0x0daaf19b'
+- name: LOCO.#07
+  size: 175235
+  date: '1993-11-24T20:13:08'
+  crc: '0xc0edad1e'
+- name: LOKA.#09
+  size: 373706
+  date: '1993-11-24T20:21:32'
+  crc: '0xcfb9c4f0'
+- name: LOKB.#10
+  size: 270025
+  date: '1993-11-24T20:02:36'
+  crc: '0xbc69a2a0'
+- name: MDO.DEF
+  size: 196
+  date: '1993-11-25T14:38:50'
+  crc: '0xcbbdf110'
+- name: OBLIHD.$00
+  size: 95232
+  date: '1993-11-24T20:22:28'
+  crc: '0x04803c15'
+- name: OBLIHD.$01
+  size: 1457664
+  date: '1993-11-24T20:22:34'
+  crc: '0x2a108984'
+- name: OBLIHD.$02
+  size: 1457664
+  date: '1993-11-24T20:22:44'
+  crc: '0xe0f4806b'
+- name: OBLIHD.$03
+  size: 1457664
+  date: '1993-11-24T20:22:54'
+  crc: '0x8345aac9'
+- name: OBLIHD.$04
+  size: 1457664
+  date: '1993-11-24T20:23:04'
+  crc: '0x6e4aafa7'
+- name: OBLIHD.$05
+  size: 1259501
+  date: '1993-11-24T20:23:12'
+  crc: '0x90170a6f'
+- name: SETUP.EXE
+  size: 74092
+  date: '1993-11-25T12:40:22'
+  crc: '0xe60693ad'
+- name: VERSION
+  size: 19
+  date: '1993-11-24T19:44:22'
+  crc: '0x143babd0'

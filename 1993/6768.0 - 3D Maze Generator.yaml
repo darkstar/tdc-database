@@ -1,0 +1,30 @@
+filename: 3D Maze Generator (1993)(Alan Yap Ching Fatt) [Action, Strategy].zip
+tdc_id: '6768.0'
+title:
+  screen: 3D Maze Generator
+publisher: Alan Yap Ching Fatt
+year: '1993'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:55:14'
+  last_modified: '2019-03-01T18:55:14'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: 3DBLOCK.BAS
+  size: 25493
+  date: '2019-01-06T10:35:38'
+  crc: '0x8f40bf1b'
+- name: GO.BAT
+  size: 27
+  date: '2019-01-06T10:40:20'
+  crc: '0x812afbe7'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

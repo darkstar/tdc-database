@@ -1,0 +1,50 @@
+filename: UMoria v5.2.2 (1990)(James E. Wilson) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '17027.2'
+title:
+  screen: UMoria
+publisher: James E. Wilson
+year: '1990'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:34:24'
+  last_modified: '2019-03-01T18:34:24'
+version: 5.2.2
+type: zip
+commands:
+  play: MORIA522.EXE
+files:
+- name: MORIA.CNF
+  size: 1562
+  date: '2015-11-02T12:13:28'
+  crc: '0x970f77e3'
+- name: MORIA.SCR
+  size: 1
+  date: '1990-11-02T21:32:20'
+  crc: '0x2f6016f7'
+- name: MORIA522.EXE
+  size: 161045
+  date: '1990-10-27T18:47:34'
+  crc: '0xcdf5b22b'
+- name: ORIGCMDS.HLP
+  size: 2901
+  date: '1990-10-31T23:26:06'
+  crc: '0x2d36705e'
+- name: OWIZCMDS.HLP
+  size: 391
+  date: '1990-11-01T00:03:08'
+  crc: '0x3ccade30'
+- name: ROGLCMDS.HLP
+  size: 3103
+  date: '1990-11-01T00:04:04'
+  crc: '0x85fe5775'
+- name: VERSION.HLP
+  size: 1649
+  date: '1990-11-01T00:06:00'
+  crc: '0x844a7a90'
+- name: WELCOME.HLP
+  size: 430
+  date: '1990-11-01T00:07:04'
+  crc: '0x6293f4fd'

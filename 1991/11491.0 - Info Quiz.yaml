@@ -1,0 +1,76 @@
+filename: Info Quiz v2.0 (1991)(ComputerEasy) [Strategy, Trivia].zip
+tdc_id: '11491.0'
+parent_id: '11491.1'
+title:
+  box: Info Quiz
+publisher: ComputerEasy
+year: '1991'
+genre:
+- Strategy
+- Trivia
+language: English
+date:
+  added: '2020-11-25T20:37:26'
+  last_modified: '2020-11-25T20:37:26'
+version: '2.0'
+type: zip
+references:
+  dosid: DOS15150
+  exodos: Info Quiz (1990).zip
+files:
+- name: CGA.BGI
+  size: 6029
+  date: '1987-12-10T01:05:00'
+  crc: '0xcd2d7722'
+- name: COMPTEST.EXE
+  size: 49784
+  date: '1991-01-21T18:11:02'
+  crc: '0x363457b8'
+- name: EDITOR.EXE
+  size: 54174
+  date: '1991-01-21T17:13:48'
+  crc: '0x305fe049'
+- name: EGAVGA.BGI
+  size: 5139
+  date: '1987-12-10T01:05:00'
+  crc: '0x03b024cc'
+- name: GENERAL1.LST
+  size: 90
+  date: '1997-05-19T18:58:56'
+  crc: '0xa00dde7e'
+- name: GENERAL1.QUS
+  size: 55547
+  date: '1990-10-09T21:11:28'
+  crc: '0x84219e89'
+- name: HERC.BGI
+  size: 5933
+  date: '1987-12-10T01:05:00'
+  crc: '0x9a2673a8'
+- name: INSTALL.BAT
+  size: 3078
+  date: '1991-02-06T09:01:38'
+  crc: '0x4377113f'
+- name: MAKETEST.EXE
+  size: 57216
+  date: '1991-01-21T17:18:04'
+  crc: '0x7ff6c740'
+- name: PC3270.BGI
+  size: 5837
+  date: '1987-12-10T01:05:00'
+  crc: '0xc29fa591'
+- name: QUIZ.EXE
+  size: 61106
+  date: '1991-01-21T17:11:18'
+  crc: '0x7fb325a0'
+- name: SECURE.BAT
+  size: 2977
+  date: '1991-03-11T08:25:22'
+  crc: '0x12c2244c'
+- name: STATS.EXE
+  size: 41440
+  date: '1991-01-21T17:19:42'
+  crc: '0x8b5969f3'
+- name: TRIP.CHR
+  size: 7213
+  date: '1987-12-10T01:05:00'
+  crc: '0xb0fb0cbe'

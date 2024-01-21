@@ -1,0 +1,46 @@
+filename: Unlimited Adventures v1.0 (Installer) (1993)(Strategic Simulations, Inc.) [Role-Playing (RPG)][!].zip
+tdc_id: '17041.6'
+title:
+  box: Unlimited Adventures
+publisher: Strategic Simulations, Inc.
+year: '1993'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2022-11-30T15:47:12'
+  last_modified: '2022-11-30T15:47:12'
+version: '1.0'
+type: zip
+tags:
+- KnownGood
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/unlimited-adventures
+files:
+- name: 'FRUA 1-0. #1'
+  size: 0
+  date: '1993-03-19T14:52:34'
+- name: 'FRUA 1-0. #2'
+  size: 0
+  date: '1993-03-19T14:53:00'
+- name: 'FRUA 1-0. #3'
+  size: 0
+  date: '1993-03-19T14:53:28'
+- name: FRUADST1.EXE
+  size: 564321
+  date: '1993-03-17T17:25:28'
+  crc: '0xecb3aecf'
+- name: FRUADST2.EXE
+  size: 1135906
+  date: '1993-03-10T13:08:34'
+  crc: '0x428e8113'
+- name: FRUADST3.EXE
+  size: 1186258
+  date: '1993-03-10T13:09:34'
+  crc: '0x3a201902'
+- name: INSTALL.EXE
+  size: 96934
+  date: '1993-03-01T19:39:50'
+  crc: '0x877b7f0e'

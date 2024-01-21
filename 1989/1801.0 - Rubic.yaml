@@ -1,0 +1,26 @@
+filename: Rubic (1989)(Boruch Zivas) [Strategy].zip
+tdc_id: '1801.0'
+title:
+  screen: Rubic
+publisher: Boruch Zivas
+year: '1989'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:28:50'
+  last_modified: '2019-03-01T18:28:50'
+type: zip
+commands:
+  play: RUBIC.EXE
+references:
+  dosid: DOS15847
+  exodos: Rubic (1989).zip
+files:
+- name: RUBIC.DAT
+  size: 2880
+  date: '1991-02-01T16:08:58'
+  crc: '0x57c96d44'
+- name: RUBIC.EXE
+  size: 85200
+  date: '1991-02-01T16:09:02'
+  crc: '0xa5da2288'

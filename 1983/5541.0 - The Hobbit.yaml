@@ -1,0 +1,30 @@
+filename: Hobbit, The [DC] (1983)(Melbourne House) [Adventure, Interactive Fiction].zip
+tdc_id: '5541.0'
+title:
+  box: The Hobbit
+publisher: Melbourne House
+year: '1983'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:23:14'
+  last_modified: '2019-03-01T18:23:14'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: Hobbit.com
+references:
+  dosid: DOS05907
+  exodos: Hobbit, The (1983).zip
+files:
+- name: Hobbit.com
+  size: 584
+  date: '1999-05-03T16:31:08'
+  crc: '0x821b9acb'
+- name: Hobbit.dat
+  size: 358400
+  date: '1999-05-03T11:46:58'
+  crc: '0x66f2c5c9'

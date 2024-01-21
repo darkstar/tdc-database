@@ -1,0 +1,33 @@
+filename: cRiMe [SW] (1985)(David W. Nilsen) [Adventure].zip
+tdc_id: '1176.0'
+title:
+  screen: cRiMe
+publisher: David W. Nilsen
+year: '1985'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:24:24'
+  last_modified: '2019-03-01T18:24:24'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: CRIME.EXE
+references:
+  dosid: DOS01556
+  exodos: cRIMe (1985).zip
+files:
+- name: CRIME.EXE
+  size: 89742
+  date: '1988-07-16T15:54:12'
+  crc: '0x523fe5ac'
+- name: CRIME.MSG
+  size: 349
+  date: '1988-08-30T00:32:10'
+  crc: '0xe79c4b6d'
+- name: README
+  size: 1987
+  date: '1988-07-16T15:28:04'
+  crc: '0xa5468f19'

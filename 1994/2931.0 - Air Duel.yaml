@@ -1,0 +1,64 @@
+filename: Air Duel v0.90c (1994)(Chang Gyu. Chae) [Action].zip
+tdc_id: '2931.0'
+title:
+  screen: Air Duel
+publisher: Chang Gyu. Chae
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T21:46:58'
+  last_modified: '2019-03-01T21:46:58'
+version: 0.90c
+type: zip
+commands:
+  play: AIRDUEL.EXE
+files:
+- name: 08PT.FNT
+  size: 4842
+  date: '1992-01-31T05:10:00'
+  crc: '0xd53c8d9c'
+- name: AIRDUEL.CFG
+  size: 6
+  date: '1993-07-26T05:58:22'
+  crc: '0x909eb7df'
+- name: AIRDUEL.DOC
+  size: 3964
+  date: '1993-04-11T07:26:36'
+  crc: '0x6fadbd2a'
+- name: AIRDUEL.EXE
+  size: 134682
+  date: '1993-04-11T06:47:56'
+  crc: '0x4e35864b'
+- name: DATA01.BIN
+  size: 5292
+  date: '1993-03-07T22:46:48'
+  crc: '0x24e09ec0'
+- name: DATA02.BIN
+  size: 23338
+  date: '1993-03-18T13:46:20'
+  crc: '0xd745360d'
+- name: DATA03.BIN
+  size: 59612
+  date: '1993-03-05T03:25:10'
+  crc: '0x96801193'
+- name: DATA04.BIN
+  size: 10672
+  date: '1993-04-08T21:42:32'
+  crc: '0x3955d159'
+- name: DATA05.BIN
+  size: 18326
+  date: '1993-03-04T22:32:02'
+  crc: '0xf2b8629f'
+- name: FONT5X7.BIN
+  size: 11623
+  date: '1993-04-03T03:20:34'
+  crc: '0x9a3efe30'
+- name: FXDATA01.BIN
+  size: 4673
+  date: '1992-04-05T21:52:44'
+  crc: '0x3783e873'
+- name: FXDATA02.BIN
+  size: 896
+  date: '1993-04-08T21:29:12'
+  crc: '0xdbac8310'

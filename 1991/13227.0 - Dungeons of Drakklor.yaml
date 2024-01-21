@@ -1,0 +1,31 @@
+filename: Dungeons of Drakklor v2.0 [SW] (1991)(Mark Neri) [Action].zip
+tdc_id: '13227.0'
+title:
+  screen: Dungeons of Drakklor
+publisher: Mark Neri
+year: '1991'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:35:42'
+  last_modified: '2019-03-01T18:35:42'
+version: '2.0'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: DRAKKLOR.EXE
+files:
+- name: DRAKKLOR.DOC
+  size: 1198
+  date: '1991-11-23T00:12:24'
+  crc: '0x6a0089c6'
+- name: DRAKKLOR.EXE
+  size: 12410
+  date: '1991-11-23T00:21:44'
+  crc: '0x3428e145'
+- name: LEVELS.DOD
+  size: 44000
+  date: '1991-06-28T08:26:22'
+  crc: '0x3073eb97'

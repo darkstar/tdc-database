@@ -1,0 +1,33 @@
+filename: WISO-Sparschwein-Spiel, Das (De) (1994)(WISO) [Strategy, Puzzle].zip
+tdc_id: '3370.0'
+title:
+  screen: Das WISO-Sparschwein-Spiel
+publisher: WISO
+year: '1994'
+genre:
+- Strategy
+- Puzzle
+language: German
+date:
+  added: '2019-03-02T07:19:34'
+  last_modified: '2019-03-02T07:19:34'
+type: zip
+commands:
+  play: WISO.EXE
+files:
+- name: FAXFORM
+  size: 2466
+  date: '1993-11-11T21:02:04'
+  crc: '0x83d8b41a'
+- name: WISO.EXE
+  size: 60528
+  date: '1993-11-13T01:30:32'
+  crc: '0x19059c58'
+- name: WSP.001
+  size: 442192
+  date: '1993-11-13T02:06:34'
+  crc: '0x5b35832a'
+- name: WSP.DOI
+  size: 3738
+  date: '1993-11-13T02:06:34'
+  crc: '0x0701e466'

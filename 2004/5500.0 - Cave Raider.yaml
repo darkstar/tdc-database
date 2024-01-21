@@ -1,0 +1,36 @@
+filename: Cave Raider v1.2 (2004)(Paul Redling) [Action].zip
+tdc_id: '5500.0'
+title:
+  screen: Cave Raider
+publisher: Paul Redling
+year: '2004'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:56:50'
+  last_modified: '2019-03-02T10:56:50'
+version: '1.2'
+type: zip
+commands:
+  play: CR.EXE
+files:
+- name: CR-E.TXT
+  size: 9677
+  date: '2004-10-24T17:00:06'
+  crc: '0x4ce294da'
+- name: CR-G.TXT
+  size: 12439
+  date: '2004-10-24T17:00:06'
+  crc: '0x7eddd06d'
+- name: CR.BAS
+  size: 54773
+  date: '2004-10-24T17:00:04'
+  crc: '0x35c8bb70'
+- name: CR.DAT
+  size: 146
+  date: '2014-03-01T12:51:46'
+  crc: '0x36fac4bd'
+- name: CR.EXE
+  size: 61188
+  date: '2004-10-24T17:00:06'
+  crc: '0x1c997db8'

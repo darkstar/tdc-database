@@ -1,0 +1,34 @@
+filename: ChessGenius 3 v3.001 (En)(De)(Fr)(Es) (2003)(Richard Lang) [Strategy, Chess].zip
+tdc_id: '9278.0'
+title:
+  screen: ChessGenius 3
+publisher: Richard Lang
+year: '2003'
+genre:
+- Strategy
+- Chess
+language:
+- English
+- Spanish
+- French
+- German
+date:
+  added: '2019-03-02T10:56:26'
+  last_modified: '2019-03-02T10:56:26'
+version: '3.001'
+type: zip
+commands:
+  play: CG3DOS.EXE
+files:
+- name: CG3DOS.EXE
+  size: 112748
+  date: '2003-08-12T14:31:12'
+  crc: '0x5e819e75'
+- name: CG3TEXT.CGS
+  size: 14689
+  date: '2003-08-12T14:31:12'
+  crc: '0x0e33c2d4'
+- name: MAINBOOK.CG3
+  size: 86538
+  date: '1994-09-14T15:48:02'
+  crc: '0x5775e083'

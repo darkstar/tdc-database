@@ -1,0 +1,81 @@
+filename: QMan v0.3 (1998)(David Jennings) [Action].zip
+tdc_id: '4220.0'
+title:
+  screen: QMan
+publisher: David Jennings
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:44:18'
+  last_modified: '2019-03-02T10:44:18'
+version: '0.3'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 24
+  date: '2018-11-21T16:33:58'
+  crc: '0xcd61149b'
+- name: LEVEL1.PGM
+  size: 10007
+  date: '1998-06-23T11:28:20'
+  crc: '0xd4aa9d6e'
+- name: LEVEL2.PGM
+  size: 10007
+  date: '1998-06-25T23:19:18'
+  crc: '0x90f1a34d'
+- name: LEVEL3
+  size: 10007
+  date: '1998-06-25T21:44:36'
+  crc: '0x28bfffea'
+- name: LEVEL3.PGM
+  size: 5007
+  date: '1998-06-25T21:21:04'
+  crc: '0x842f641d'
+- name: LEVEL4.PGM
+  size: 8007
+  date: '1998-06-25T21:42:40'
+  crc: '0xf269c771'
+- name: LEVEL5.PGM
+  size: 10007
+  date: '1998-06-25T22:20:54'
+  crc: '0x6ce89bc6'
+- name: LEVEL6.PGM
+  size: 10007
+  date: '1998-06-25T22:34:02'
+  crc: '0xd41a3d8b'
+- name: LEVEL7.PGM
+  size: 10007
+  date: '1998-06-25T23:14:58'
+  crc: '0x9d61560d'
+- name: LEVEL8.PGM
+  size: 10007
+  date: '1998-06-28T19:37:38'
+  crc: '0x41b810bc'
+- name: LOGO.PGM
+  size: 40007
+  date: '1998-06-19T17:11:38'
+  crc: '0x651a099c'
+- name: MAINL.PGM
+  size: 20007
+  date: '1998-06-22T22:28:28'
+  crc: '0x7380a80e'
+- name: PACGUYS.PAG
+  size: 35007
+  date: '1998-06-24T16:25:16'
+  crc: '0x0e323920'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'
+- name: QPAC.BAS
+  size: 28062
+  date: '1998-06-30T14:09:08'
+  crc: '0x27244caa'
+- name: SHADE.FNT
+  size: 10007
+  date: '1998-06-19T13:00:42'
+  crc: '0x0a53d69e'

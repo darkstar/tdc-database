@@ -1,0 +1,37 @@
+filename: Manor v1.1 [FW] (1986)(Leon Baradat) [Strategy].zip
+tdc_id: '11128.1'
+title:
+  screen: Manor
+publisher: Leon Baradat
+year: '1986'
+genre: Strategy
+language: English
+date:
+  added: '2023-02-12T17:22:13'
+  last_modified: '2023-02-12T17:22:13'
+version: '1.1'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: RUN.BAT
+references:
+  mobygames: https://www.mobygames.com/game/manor
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T12:00:00'
+  crc: '0x92293842'
+- name: INTRO.BAS
+  size: 9879
+  date: '2007-02-07T17:13:00'
+  crc: '0x32049a3a'
+- name: MANOR.BAS
+  size: 25436
+  date: '2017-07-16T00:00:24'
+  crc: '0x12c9692b'
+- name: RUN.BAT
+  size: 14
+  date: '2014-04-02T01:42:44'
+  crc: '0xd46ecca8'

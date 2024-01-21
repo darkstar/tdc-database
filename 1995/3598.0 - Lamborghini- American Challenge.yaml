@@ -1,0 +1,32 @@
+filename: Lamborghini- American Challenge (1995)(Titus France SA, PC Format) [Racing - Driving].zip
+tdc_id: '3598.0'
+parent_id: '3598.1'
+title:
+  box: 'Lamborghini: American Challenge'
+publisher: Titus France SA, PC Format
+year: '1995'
+genre: Racing - Driving
+language: English
+date:
+  added: '2021-09-21T13:16:38'
+  last_modified: '2021-09-21T13:16:38'
+type: zip
+commands:
+  play: LAC.EXE
+files:
+- name: ARCBIN.DAT
+  size: 574471
+  date: '1994-02-25T15:55:08'
+  crc: '0x0695ecd5'
+- name: DISK.INF
+  size: 371
+  date: '1991-12-26T03:15:00'
+  crc: '0x52d4fb5c'
+- name: LAC.EXE
+  size: 80934
+  date: '1994-04-06T11:05:06'
+  crc: '0x4dd6a252'
+- name: TOTTAB.DAT
+  size: 14237
+  date: '1994-02-21T11:59:24'
+  crc: '0xc21ef879'

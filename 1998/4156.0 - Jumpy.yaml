@@ -1,0 +1,31 @@
+filename: Jumpy (1998)(BlaBla) [Action].zip
+tdc_id: '4156.0'
+title:
+  screen: Jumpy
+publisher: BlaBla
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:41:52'
+  last_modified: '2019-03-02T10:41:52'
+type: zip
+commands:
+  play: JUMPY.EXE
+files:
+- name: JUMPY.DIZ
+  size: 529
+  date: '1998-04-13T02:03:00'
+  crc: '0xa4a286d9'
+- name: JUMPY.EXE
+  size: 83744
+  date: '1998-04-13T02:03:00'
+  crc: '0xb4a29a88'
+- name: JUMPY.PCX
+  size: 19540
+  date: '1998-04-13T02:03:00'
+  crc: '0x55fb8d60'
+- name: JUMPY.S3M
+  size: 116429
+  date: '1998-04-13T02:03:00'
+  crc: '0xb69fd0e3'

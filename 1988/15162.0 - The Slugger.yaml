@@ -1,0 +1,28 @@
+filename: Slugger, The [DC] (1988)(Mastertronic Group Ltd.) [Sports].zip
+tdc_id: '15162.0'
+title:
+  box: The Slugger
+publisher: Mastertronic Group Ltd.
+year: '1988'
+genre: Sports
+language: English
+date:
+  added: '2019-03-01T18:26:46'
+  last_modified: '2019-03-01T18:26:46'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: SLUGGER.COM
+references:
+  dosid: DOS05973
+  exodos: Slugger, The (1986).zip
+files:
+- name: GAME.DAT
+  size: 368640
+  date: '1999-03-04T16:53:00'
+  crc: '0x569d7937'
+- name: SLUGGER.COM
+  size: 416
+  date: '1999-08-23T21:57:00'
+  crc: '0xbb11377c'

@@ -1,0 +1,28 @@
+filename: Russian Roulett (1990)(Averysoft Corporation) [Simulation].zip
+tdc_id: '2069.0'
+title:
+  screen: Russian Roulett
+publisher: Averysoft Corporation
+year: '1990'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:33:54'
+  last_modified: '2019-03-01T18:33:54'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 27
+  date: '2018-12-18T11:00:00'
+  crc: '0x78220b6e'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: ROULETT.BAS
+  size: 16788
+  date: '1999-08-23T15:10:44'
+  crc: '0xb20f8b10'

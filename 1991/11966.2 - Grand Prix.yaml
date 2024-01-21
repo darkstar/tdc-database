@@ -1,0 +1,42 @@
+filename: Grand Prix v2.0 [SW] (1991)(Wizard Games of Scotland, Ltd.) [Racing - Driving, Simulation, Sports].zip
+tdc_id: '11966.2'
+title:
+  screen: Grand Prix
+publisher: Wizard Games of Scotland, Ltd.
+year: '1991'
+genre:
+- Racing - Driving
+- Simulation
+- Sports
+language: English
+date:
+  added: '2019-03-01T18:36:08'
+  last_modified: '2019-03-01T18:36:08'
+version: '2.0'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: RUN.EXE
+files:
+- name: GP.DAT
+  size: 8628
+  date: '1991-06-23T16:22:02'
+  crc: '0x312bd6ea'
+- name: GP.HLP
+  size: 22847
+  date: '1991-07-10T18:38:24'
+  crc: '0x2acf25fc'
+- name: GP.Z
+  size: 73187
+  date: '1991-06-22T17:10:54'
+  crc: '0x699f616d'
+- name: RUN.EXE
+  size: 14862
+  date: '1991-05-27T10:25:46'
+  crc: '0x4340a09c'
+- name: SHARE
+  size: 1580
+  date: '1991-05-25T21:14:08'
+  crc: '0xf5f9d2ed'

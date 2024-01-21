@@ -1,0 +1,56 @@
+filename: Vixen (1988)(Martech) [Action, Adventure].zip
+tdc_id: '1618.0'
+title:
+  screen: Vixen
+publisher: Martech
+year: '1988'
+genre:
+- Action
+- Adventure
+language: English
+date:
+  added: '2019-03-01T18:26:58'
+  last_modified: '2019-03-01T18:26:58'
+type: zip
+commands:
+  play: VIXEN.EXE
+references:
+  dosid: DOS05510
+  exodos: Vixen (1988).zip
+files:
+- name: ALLVIX.SPT
+  size: 61020
+  date: '1985-11-20T00:09:04'
+  crc: '0xcfcd17dc'
+- name: SND.PIN
+  size: 2358
+  date: '1980-01-01T04:31:50'
+  crc: '0x21320387'
+- name: TEST4.BGD
+  size: 10240
+  date: '1985-11-20T00:08:06'
+  crc: '0xd11931f6'
+- name: TEST4.CHR
+  size: 56612
+  date: '1985-11-20T00:08:10'
+  crc: '0xf76c88ad'
+- name: TEST4.LVL
+  size: 44914
+  date: '1987-04-22T00:00:58'
+  crc: '0xd31bcde2'
+- name: TEST4.OBJ
+  size: 19654
+  date: '1985-11-20T00:08:40'
+  crc: '0x4991e4ee'
+- name: TESTLD1.ART
+  size: 32512
+  date: '1987-04-22T01:13:04'
+  crc: '0xb401a651'
+- name: VIXEN.EXE
+  size: 28640
+  date: '1988-07-18T14:57:28'
+  crc: '0xd942e536'
+- name: VIXPAN1.ART
+  size: 32512
+  date: '1985-11-20T00:07:56'
+  crc: '0x623d21b9'

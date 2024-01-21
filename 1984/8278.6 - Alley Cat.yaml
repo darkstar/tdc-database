@@ -1,0 +1,26 @@
+filename: Alley Cat [DC][h2] (1984)(IBM) [Action].zip
+tdc_id: '8278.6'
+title:
+  box: Alley Cat
+publisher: IBM
+year: '1984'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:24:00'
+  last_modified: '2019-03-01T18:24:00'
+type: zip
+tags:
+- DOSConversion
+- Hack: 2
+commands:
+  play: ALLEYCAT.COM
+files:
+- name: ALLEYCAT.BIN
+  size: 73728
+  date: '1986-03-16T12:34:02'
+  crc: '0xbfec4514'
+- name: ALLEYCAT.COM
+  size: 16896
+  date: '1986-03-16T12:20:16'
+  crc: '0x1cc6cf46'

@@ -1,0 +1,90 @@
+filename: Monsoon (1997)(Midnight Games) [Adventure].zip
+tdc_id: '4006.0'
+title:
+  screen: Monsoon
+publisher: Midnight Games
+year: '1997'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-02T10:35:48'
+  last_modified: '2019-03-02T10:35:48'
+type: zip
+commands:
+  play: MONSOON.EXE
+references:
+  dosid: DOS06369
+  exodos: Monsoon (2005).zip
+files:
+- name: CALM.SCR
+  size: 14776
+  date: '1997-08-13T18:24:04'
+  crc: '0xdeb356ed'
+- name: CWSDPMI.EXE
+  size: 20125
+  date: '2000-10-22T12:55:00'
+  crc: '0x1d1b569c'
+- name: GRAPHICS.DAT
+  size: 2561084
+  date: '1997-09-05T02:54:26'
+  crc: '0x6285d63e'
+- name: MFF1.FNT
+  size: 2306
+  date: '1994-12-06T02:01:00'
+  crc: '0xbdc34cd4'
+- name: MFF3.FNT
+  size: 11330
+  date: '1994-12-06T02:01:00'
+  crc: '0xcb395ec0'
+- name: MONSOON.EXE
+  size: 375781
+  date: '1997-09-05T02:19:38'
+  crc: '0xfd7714bd'
+- name: MSG01.SAV
+  size: 120
+  date: '1997-09-15T07:24:40'
+  crc: '0xa3207903'
+- name: MSG02.SAV
+  size: 120
+  date: '1997-09-18T07:06:04'
+  crc: '0x4704f027'
+- name: MSG03.SAV
+  size: 120
+  date: '1997-09-04T07:10:36'
+  crc: '0xff8a6cbd'
+- name: MSG04.SAV
+  size: 120
+  date: '1997-09-04T07:10:38'
+  crc: '0xff8a6cbd'
+- name: MSG05.SAV
+  size: 120
+  date: '1997-09-04T07:10:42'
+  crc: '0xff8a6cbd'
+- name: MSG06.SAV
+  size: 120
+  date: '1997-09-04T07:10:46'
+  crc: '0xff8a6cbd'
+- name: MSG07.SAV
+  size: 120
+  date: '1997-09-04T07:10:54'
+  crc: '0xff8a6cbd'
+- name: MSG08.SAV
+  size: 120
+  date: '1997-09-04T07:10:52'
+  crc: '0xff8a6cbd'
+- name: MSG09.SAV
+  size: 120
+  date: '1997-09-04T07:10:56'
+  crc: '0xff8a6cbd'
+- name: README.TXT
+  size: 1716
+  date: '1997-09-05T02:25:14'
+  crc: '0x01ef4e36'
+- name: SAVE.CFG
+  size: 43
+  date: '1997-09-18T07:06:04'
+  crc: '0x9a3fea19'
+- name: SOUND.DAT
+  size: 1292230
+  date: '1997-08-28T16:55:08'
+  crc: '0xcce6fd5a'

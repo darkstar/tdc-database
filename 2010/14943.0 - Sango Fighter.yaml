@@ -1,0 +1,34 @@
+filename: Sango Fighter (En)(Ja)(Zh) (2010)(Super Fighter Team) [Action].zip
+tdc_id: '14943.0'
+title:
+  screen: Sango Fighter
+publisher: Super Fighter Team
+year: '2010'
+genre: Action
+language:
+- English
+- Chinese
+- Japanese
+date:
+  added: '2019-03-02T10:57:46'
+  last_modified: '2019-03-02T10:57:46'
+type: zip
+commands:
+  play: SANGO.EXE
+files:
+- name: DATA.PAK
+  size: 6011876
+  date: '2011-01-06T13:56:26'
+  crc: '0x01630bb5'
+- name: README.TXT
+  size: 1140
+  date: '2011-02-15T01:01:22'
+  crc: '0x32d3fe28'
+- name: SANGO.CFG
+  size: 100
+  date: '2011-02-15T00:56:14'
+  crc: '0xe612ff82'
+- name: SANGO.EXE
+  size: 75475
+  date: '2011-01-06T01:40:24'
+  crc: '0xae2ea258'

@@ -1,0 +1,39 @@
+filename: Cuerpo Rompe Bolas (Es) (1993)(Kronos) [Action].zip
+tdc_id: '9417.0'
+title:
+  screen: Cuerpo Rompe Bolas
+publisher: Kronos
+year: '1993'
+genre: Action
+language: Spanish
+date:
+  added: '2019-03-01T19:02:08'
+  last_modified: '2019-03-01T19:02:08'
+type: zip
+commands:
+  play: CRB.EXE
+files:
+- name: AYUDA.CRB
+  size: 4905
+  date: '1992-12-03T19:00:10'
+  crc: '0x56dd931a'
+- name: CRB.CFG
+  size: 17
+  date: '1980-01-01T00:00:00'
+  crc: '0x3007ab92'
+- name: CRB.EXE
+  size: 75643
+  date: '1992-12-03T19:00:10'
+  crc: '0x63c8074f'
+- name: CRB.GRF
+  size: 460237
+  date: '1992-12-03T19:00:10'
+  crc: '0x4538a3fb'
+- name: CRB.PLT
+  size: 1016
+  date: '1992-12-03T19:00:10'
+  crc: '0x41b1d34a'
+- name: CRB.RCD
+  size: 70
+  date: '1980-01-01T00:00:00'
+  crc: '0x0fc3d6d6'

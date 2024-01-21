@@ -1,0 +1,57 @@
+filename: Croustibat v1.01 (Pt) (1995)(Findus) [Adventure].zip
+tdc_id: '9392.0'
+title:
+  box: Croustibat
+publisher: Findus
+year: '1995'
+genre: Adventure
+language: Portuguese
+date:
+  added: '2021-12-12T05:26:56'
+  last_modified: '2023-08-06T08:57:33'
+version: '1.01'
+type: zip
+media: 1.44M
+commands:
+  play: GO.BAT
+  setup: SETUP.EXE
+references:
+  dosid: DOS06790
+  exodos: Croustibat (1995).zip
+files:
+- name: ALL.ASK
+  size: 12768
+  date: '1995-03-16T11:35:42'
+  crc: '0x41a9bbf1'
+- name: GO.BAT
+  size: 7
+  date: '1993-04-07T19:02:20'
+  crc: '0x92924fde'
+- name: INSTALL.ASK
+  size: 21175
+  date: '1995-01-05T17:24:02'
+  crc: '0x7ba7dcc8'
+- name: INSTALL.BAT
+  size: 195
+  date: '1995-03-27T14:54:20'
+  crc: '0x8d805583'
+- name: INTRO.STK
+  size: 851926
+  date: '1995-04-04T19:15:02'
+  crc: '0x9b76ab5d'
+- name: LOADER.EXE
+  size: 169026
+  date: '1993-03-11T16:02:16'
+  crc: '0x91e95670'
+- name: MDO.CFG
+  size: 23
+  date: '1995-07-03T17:24:46'
+  crc: '0xf30a7b08'
+- name: MDO.DEF
+  size: 161
+  date: '1995-03-16T15:48:28'
+  crc: '0x3960f54f'
+- name: SETUP.EXE
+  size: 25292
+  date: '1993-03-12T14:47:38'
+  crc: '0x70ed8ad8'

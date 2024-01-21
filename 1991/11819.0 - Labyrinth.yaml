@@ -1,0 +1,25 @@
+filename: Labyrinth (1991)(Russell Wallace) [Adventure, Interactive Fiction].zip
+tdc_id: '11819.0'
+title:
+  screen: Labyrinth
+publisher: Russell Wallace
+year: '1991'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:36:32'
+  last_modified: '2019-03-01T18:36:32'
+type: zip
+commands:
+  play: LABY.COM
+files:
+- name: LABY.C
+  size: 19173
+  date: '1991-04-07T05:24:22'
+  crc: '0x3b526ced'
+- name: LABY.COM
+  size: 15865
+  date: '1991-04-07T05:32:32'
+  crc: '0xb509b023'

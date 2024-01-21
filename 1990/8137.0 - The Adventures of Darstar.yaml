@@ -1,0 +1,38 @@
+filename: Adventures of Darstar, The (1990)(K.K. Enterprises) [Adventure, Interactive Fiction].zip
+tdc_id: '8137.0'
+title:
+  screen: The Adventures of Darstar
+publisher: K.K. Enterprises
+year: '1990'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:31:44'
+  last_modified: '2019-03-01T18:31:44'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: CLOSENC.BAS
+  size: 403
+  date: '1990-08-26T04:54:32'
+  crc: '0x116157e7'
+- name: DARSTAR.BAS
+  size: 6112
+  date: '1990-08-13T07:53:28'
+  crc: '0x653f57d7'
+- name: GO.BAT
+  size: 23
+  date: '2019-01-13T12:54:26'
+  crc: '0x7d1daa34'
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1988-10-05T02:00:08'
+  crc: '0x2a44af39'
+- name: HOLLOW.BAS
+  size: 625
+  date: '1990-08-26T05:08:16'
+  crc: '0xbeb6e15b'

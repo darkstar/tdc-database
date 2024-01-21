@@ -1,0 +1,41 @@
+filename: Serf City- Life is Feudal (Installer) (1994)(Strategic Simulations, Inc.) [Simulation, Strategy].zip
+tdc_id: '5869.1'
+title:
+  box: 'Serf City: Life is Feudal'
+publisher: Strategic Simulations, Inc.
+year: '1994'
+genre:
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2019-03-01T22:04:24'
+  last_modified: '2019-03-01T22:04:24'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  dosid: DOS04483
+  exodos: Serf City - Life is Feudal (1994).zip
+files:
+- name: BOOT.NFO
+  size: 190
+  date: '1994-05-19T11:26:28'
+  crc: '0xb6719345'
+- name: DATA.A00
+  size: 1279955
+  date: '1994-05-24T17:04:16'
+  crc: '0x4b675b64'
+- name: DEARJ.EXE
+  size: 39441
+  date: '1993-03-19T16:18:52'
+  crc: '0x284b68d2'
+- name: INSTALL.EXE
+  size: 47384
+  date: '1994-05-20T11:38:34'
+  crc: '0xcc23258f'
+- name: INSTALL.NFO
+  size: 434
+  date: '1994-05-19T17:32:12'
+  crc: '0x90ebd6ea'

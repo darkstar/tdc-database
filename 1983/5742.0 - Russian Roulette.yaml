@@ -1,0 +1,28 @@
+filename: Russian Roulette (1983)(Anonymous) [Simulation].zip
+tdc_id: '5742.0'
+title:
+  screen: Russian Roulette
+publisher: Anonymous
+year: '1983'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:23:18'
+  last_modified: '2019-03-01T18:23:18'
+type: zip
+media: Download
+commands:
+  play: RUSSROUL.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: RUSSROUL.BAS
+  size: 1024
+  date: '1983-03-05T12:00:00'
+  crc: '0xbc2a84db'
+- name: RUSSROUL.BAT
+  size: 18
+  date: '1980-01-01T00:00:00'
+  crc: '0xf392bdb4'

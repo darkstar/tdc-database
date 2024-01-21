@@ -1,0 +1,77 @@
+filename: Log!cal (1991)(Rainbow Arts Software GmbH) [Action, Strategy][!].zip
+tdc_id: '6447.0'
+parent_id: '6447.2'
+title:
+  box: Log!cal
+publisher: Rainbow Arts Software GmbH
+year: '1991'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:36:40'
+  last_modified: '2023-09-20T14:39:51'
+type: zip
+tags:
+- KnownGood
+media: 720K
+commands:
+  play: LOGICAL.BAT
+references:
+  mobygames: https://www.mobygames.com/game/541/logcal/
+  dosid: DOS03209
+  exodos: Logical (1991).zip
+files:
+- name: DATAE.PCK
+  size: 9348
+  date: '1991-05-26T00:00:04'
+  crc: '0x024b8647'
+- name: DATAV.PCK
+  size: 11652
+  date: '1991-05-26T00:00:04'
+  crc: '0xdc89e68f'
+- name: G1.DAT
+  size: 33668
+  date: '1991-05-26T00:00:04'
+  crc: '0xd5fc036c'
+- name: G2.DAT
+  size: 37402
+  date: '1991-05-26T00:00:04'
+  crc: '0xeef5c938'
+- name: G3.DAT
+  size: 37811
+  date: '1991-05-26T00:00:04'
+  crc: '0x2878c170'
+- name: G4.DAT
+  size: 36247
+  date: '1991-05-26T00:00:04'
+  crc: '0x05959894'
+- name: INSTALL.BAT
+  size: 3020
+  date: '1991-05-26T00:00:04'
+  crc: '0x53e5253e'
+- name: INTRO.EXE
+  size: 8510
+  date: '1991-05-26T00:00:04'
+  crc: '0x7a7302ad'
+- name: LOG.EXE
+  size: 142444
+  date: '1992-01-07T06:06:38'
+  crc: '0x9f782aca'
+- name: LOG.EX_
+  size: 142444
+  date: '1991-05-26T00:00:04'
+  crc: '0x60b1b516'
+- name: LOGICAL.BAT
+  size: 27
+  date: '1991-05-26T00:00:04'
+  crc: '0x75544a98'
+- name: MCE.BIN
+  size: 2122
+  date: '1991-05-26T00:00:04'
+  crc: '0xc0231d97'
+- name: MCV.BIN
+  size: 2236
+  date: '1991-05-26T00:00:04'
+  crc: '0x4f4eae5b'

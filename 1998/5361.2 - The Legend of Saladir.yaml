@@ -1,0 +1,40 @@
+filename: Legend of Saladir, The v0.24 (1998)(Erno Tuomainen) [Role-Playing (RPG)].zip
+tdc_id: '5361.2'
+title:
+  screen: The Legend of Saladir
+publisher: Erno Tuomainen
+year: '1998'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-02T10:42:16'
+  last_modified: '2019-03-02T10:42:16'
+version: '0.24'
+type: zip
+commands:
+  play: SALADIR.EXE
+files:
+- name: CWSDPMI.DOC
+  size: 7188
+  date: '1997-10-15T23:20:32'
+  crc: '0xc0657e6c'
+- name: CWSDPMI.EXE
+  size: 20473
+  date: '1997-10-19T21:48:14'
+  crc: '0x80fa6999'
+- name: OUTWORLD.MAP
+  size: 57620
+  date: '1997-12-20T20:11:04'
+  crc: '0x65d379f4'
+- name: README.TXT
+  size: 105
+  date: '1998-01-22T15:59:54'
+  crc: '0xacc28308'
+- name: SALADIR.EXE
+  size: 201728
+  date: '1998-01-22T15:47:24'
+  crc: '0x17199d68'
+- name: SALADIR.TXT
+  size: 16381
+  date: '1998-01-22T15:58:28'
+  crc: '0x1ada5aab'

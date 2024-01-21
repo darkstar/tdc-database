@@ -1,0 +1,55 @@
+filename: Womb With a View v1.03 (Installer) (1992)(International Micro Design, Inc.) [Simulation, Educational].zip
+tdc_id: '16060.1'
+title:
+  screen: Womb With a View
+publisher: International Micro Design, Inc.
+year: '1992'
+genre:
+- Simulation
+- Educational
+language: English
+date:
+  added: '2019-03-01T18:52:30'
+  last_modified: '2019-03-01T18:52:30'
+version: '1.03'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK.ID
+  size: 32
+  date: '1993-07-12T16:41:32'
+  crc: '0x88f3542f'
+- name: DISK.ID2
+  size: 32
+  date: '1993-07-12T16:50:46'
+  crc: '0x8ab5ea76'
+- name: DISK.ID3
+  size: 32
+  date: '1993-07-12T17:03:48'
+  crc: '0x8b778041'
+- name: GRAVID.001
+  size: 625254
+  date: '1993-07-12T16:50:34'
+  crc: '0x940e2477'
+- name: GRAVID.002
+  size: 717865
+  date: '1993-07-12T16:58:58'
+  crc: '0x61885b9c'
+- name: GRAVID.003
+  size: 464116
+  date: '1993-07-12T17:09:38'
+  crc: '0xbb631d3f'
+- name: INSTALL.DAT
+  size: 2270
+  date: '2015-09-17T16:27:22'
+  crc: '0xffc3a4a6'
+- name: INSTALL.DA_
+  size: 2270
+  date: '1993-07-12T17:09:54'
+  crc: '0xf049b3a3'
+- name: INSTALL.EXE
+  size: 90304
+  date: '1993-07-12T16:41:32'
+  crc: '0x929e6b84'

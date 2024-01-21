@@ -1,0 +1,27 @@
+filename: Bugs Bunny Hare-Brained Adventure, The (1990)(Hi-Tech Expressions, Inc.) [Action].zip
+tdc_id: '12858.0'
+parent_id: '12858.3'
+title:
+  box: The Bugs Bunny Hare-Brained Adventure
+publisher: Hi-Tech Expressions, Inc.
+year: '1990'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:31:58'
+  last_modified: '2019-03-01T18:31:58'
+type: zip
+commands:
+  play: BUGS.EXE
+references:
+  dosid: DOS01200
+  exodos: Bugs Bunny Hare-Brained Adventure, The (1990).zip
+files:
+- name: BUGS.EXE
+  size: 27675
+  date: '1990-06-11T10:33:30'
+  crc: '0x46bd2146'
+- name: CELLS.001
+  size: 237025
+  date: '1990-06-11T08:40:12'
+  crc: '0x6cdb9bfe'

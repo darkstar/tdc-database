@@ -1,0 +1,37 @@
+filename: Pokeri v2.1 (Fi) [SW] (1990)(T. Armanto) [Strategy, Cards].zip
+tdc_id: '2045.0'
+title:
+  screen: Pokeri
+publisher: T. Armanto
+year: '1990'
+genre:
+- Strategy
+- Cards
+language: Finnish
+date:
+  added: '2019-03-01T18:33:36'
+  last_modified: '2022-12-14T09:54:04'
+version: '2.1'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: POKERI.EXE
+files:
+- name: ENKKA.DAT
+  size: 42
+  date: '1996-11-10T13:45:20'
+  crc: '0x7d131112'
+- name: POKER.DAT
+  size: 22
+  date: '1995-12-20T14:20:56'
+  crc: '0x5d564a7d'
+- name: POKER.DOC
+  size: 8614
+  date: '1995-12-20T14:20:56'
+  crc: '0x33085697'
+- name: POKERI.EXE
+  size: 36912
+  date: '1995-12-20T14:21:00'
+  crc: '0xb54749dc'

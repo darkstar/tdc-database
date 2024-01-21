@@ -1,0 +1,48 @@
+filename: Inner Worlds v1.1 (Installer) [SW] (1996)(Sleepless Software) [Action].zip
+tdc_id: '11496.0'
+title:
+  screen: Inner Worlds
+publisher: Sleepless Software
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:10:26'
+  last_modified: '2019-03-02T10:10:26'
+version: '1.1'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 131072
+  date: '1996-09-05T12:51:18'
+  crc: '0x0c74d652'
+- name: INSTALL.TXT
+  size: 19772
+  date: '1997-03-21T17:45:40'
+  crc: '0x3ce2ac55'
+- name: IW.GZ1
+  size: 1320960
+  date: '1996-09-05T11:25:14'
+  crc: '0xe9dc9d4b'
+- name: IW.GZ2
+  size: 1457152
+  date: '1996-09-05T11:25:14'
+  crc: '0xaf8c5a0c'
+- name: IW.GZ3
+  size: 1457152
+  date: '1996-09-05T11:25:16'
+  crc: '0x6b460048'
+- name: IW.GZ4
+  size: 1457152
+  date: '1996-09-05T11:25:18'
+  crc: '0xdd05518e'
+- name: IW.GZ5
+  size: 834944
+  date: '1996-09-05T11:25:18'
+  crc: '0x0030f875'

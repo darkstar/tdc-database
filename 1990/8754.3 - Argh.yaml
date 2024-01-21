@@ -1,0 +1,30 @@
+filename: Argh v4.0 [SW] (1990)(David B. Howorth) [Strategy].zip
+tdc_id: '8754.3'
+title:
+  screen: Argh
+publisher: David B. Howorth
+year: '1990'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:31:48'
+  last_modified: '2019-03-01T18:31:48'
+version: '4.0'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: ARGH.EXE
+references:
+  dosid: DOS06697
+  exodos: Argh (1989).zip
+files:
+- name: ARGH.DOC
+  size: 8729
+  date: '1990-08-19T04:00:00'
+  crc: '0x70e52460'
+- name: ARGH.EXE
+  size: 69728
+  date: '1990-08-19T04:00:00'
+  crc: '0xf93e3066'

@@ -1,0 +1,159 @@
+filename: Lost Tribe, The v2.0 CD (Installer) (1995)(Lawrence Productions, Inc., Kidsoft L.L.C.) [Strategy].zip
+tdc_id: '11926.2'
+title:
+  box: The Lost Tribe
+publisher: Lawrence Productions, Inc., Kidsoft L.L.C.
+year: '1995'
+genre: Strategy
+language: English
+date:
+  added: '2022-11-16T12:47:10'
+  last_modified: '2022-11-16T12:47:10'
+version: '2.0'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/lost-tribe
+files:
+- name: ACTIONS.RDT
+  size: 106680
+  date: '1992-08-27T01:00:00'
+  crc: '0x8194f5ae'
+- name: BOOK1.RDT
+  size: 229708
+  date: '1992-08-27T01:00:00'
+  crc: '0x0f913bf7'
+- name: BOOK2.RDT
+  size: 221241
+  date: '1992-08-27T01:00:00'
+  crc: '0x6d29e58a'
+- name: COPYRGHT.TXT
+  size: 231
+  date: '1995-08-03T16:03:14'
+  crc: '0xd0dd040b'
+- name: DRYDASH.SAV
+  size: 15744
+  date: '1992-08-27T01:00:00'
+  crc: '0xa4b01b03'
+- name: ENDGAME.RDT
+  size: 174189
+  date: '1992-08-27T01:00:00'
+  crc: '0xe150bd40'
+- name: GATHRIV.SAV
+  size: 15744
+  date: '1992-08-27T01:00:00'
+  crc: '0xd541ecdc'
+- name: GETTHERE.SAV
+  size: 15744
+  date: '1992-08-27T01:00:00'
+  crc: '0xdaaa80ec'
+- name: GRANDPA.SAV
+  size: 15744
+  date: '1992-08-27T01:00:00'
+  crc: '0xba3d4f93'
+- name: HUNTANIM.RDT
+  size: 300525
+  date: '1992-08-27T01:00:00'
+  crc: '0x0f150667'
+- name: INSTALL.EXE
+  size: 12734
+  date: '1995-07-24T15:37:38'
+  crc: '0x8453410e'
+- name: LWR.SAV
+  size: 15744
+  date: '1992-08-27T01:00:00'
+  crc: '0x94ba10cc'
+- name: MAP.RDT
+  size: 43535
+  date: '1992-08-27T01:00:00'
+  crc: '0x54622c42'
+- name: OPENING.RDT
+  size: 384733
+  date: '1992-08-27T01:00:00'
+  crc: '0x1090db81'
+- name: OVERRIVR.SAV
+  size: 15744
+  date: '1992-08-27T01:00:00'
+  crc: '0xc3afeb59'
+- name: REBT_10.RDT
+  size: 159059
+  date: '1992-08-27T01:00:00'
+  crc: '0x52d52d6b'
+- name: REBT_20.RDT
+  size: 150619
+  date: '1992-08-27T01:00:00'
+  crc: '0x22d25660'
+- name: REBT_30.RDT
+  size: 236317
+  date: '1992-08-27T01:00:00'
+  crc: '0x2bce4fc8'
+- name: REBT_40.RDT
+  size: 188550
+  date: '1992-08-27T01:00:00'
+  crc: '0x45f9447e'
+- name: REBT_41.RDT
+  size: 205536
+  date: '1992-08-27T01:00:00'
+  crc: '0xf95ad2c3'
+- name: REBT_50.RDT
+  size: 170455
+  date: '1992-08-27T01:00:00'
+  crc: '0x1932df38'
+- name: REBT_51.RDT
+  size: 69971
+  date: '1992-08-27T01:00:00'
+  crc: '0xdebe0e4d'
+- name: REBT_60.RDT
+  size: 187896
+  date: '1992-08-27T01:00:00'
+  crc: '0x6c38d41e'
+- name: REBT_61.RDT
+  size: 135573
+  date: '1992-08-27T01:00:00'
+  crc: '0x1cc8ea60'
+- name: REBT_70.RDT
+  size: 61216
+  date: '1992-08-27T01:00:00'
+  crc: '0xedd9b39f'
+- name: RNDVALUE.RDT
+  size: 3642
+  date: '1992-08-27T01:00:00'
+  crc: '0xe9cdc912'
+- name: ROLLIST.RDT
+  size: 93681
+  date: '1992-08-27T01:00:00'
+  crc: '0x1adc5ff5'
+- name: SNDLIST1.RDT
+  size: 263579
+  date: '1992-08-27T01:00:00'
+  crc: '0x973427a1'
+- name: SNDLIST2.RDT
+  size: 177585
+  date: '1992-08-27T01:00:00'
+  crc: '0x433ee2df'
+- name: SNDLIST3.RDT
+  size: 244468
+  date: '1992-08-27T01:00:00'
+  crc: '0x35844659'
+- name: SNDLIST4.RDT
+  size: 305723
+  date: '1992-08-27T01:00:00'
+  crc: '0x79d2bd2e'
+- name: SYSBUT.RDT
+  size: 14451
+  date: '1992-08-27T01:00:00'
+  crc: '0x6310c9c0'
+- name: SYSRES.RDT
+  size: 201027
+  date: '1992-08-27T01:00:00'
+  crc: '0x7e81b59b'
+- name: TRIBE.EXE
+  size: 124538
+  date: '1995-07-24T15:37:10'
+  crc: '0x51023e64'
+- name: WINANIM.RDT
+  size: 192909
+  date: '1992-08-27T01:00:00'
+  crc: '0x9aed11fb'

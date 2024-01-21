@@ -1,0 +1,53 @@
+filename: Harpoon BattleSet 2- North Atlantic Convoys [a1] (1990)(Three-Sixty Pacific, Inc.) [Simulation, Strategy, Addon].zip
+tdc_id: '11015.1'
+title:
+  box: 'Harpoon BattleSet 2: North Atlantic Convoys'
+publisher: Three-Sixty Pacific, Inc.
+year: '1990'
+genre:
+- Simulation
+- Strategy
+- Addon
+language: English
+date:
+  added: '2021-05-07T14:46:06'
+  last_modified: '2021-05-07T14:46:06'
+type: zip
+tags:
+- Alternate: 1
+commands:
+  play: JOINEGA.BAT
+files:
+- name: JOINEGA.BAT
+  size: 42
+  date: '1990-03-11T17:26:56'
+  crc: '0xa8d228e0'
+- name: NACV DIS.K 1
+  size: 0
+  date: '1980-01-01T02:35:52'
+- name: NACV DIS.K 2
+  size: 0
+  date: '1980-01-01T02:43:46'
+- name: NACV DIS.K 3
+  size: 0
+  date: '1980-01-01T02:47:28'
+- name: NACV.RES
+  size: 219413
+  date: '1991-08-03T11:56:08'
+  crc: '0x528d01cd'
+- name: NACVCGA.RES
+  size: 116604
+  date: '1990-03-09T17:19:00'
+  crc: '0xaeadf663'
+- name: NACVEGA.1
+  size: 360448
+  date: '1990-03-12T13:17:30'
+  crc: '0x1c55d6d1'
+- name: NACVEGA.2
+  size: 200170
+  date: '1990-03-12T13:17:32'
+  crc: '0xd99d2f48'
+- name: NACVTGA.RES
+  size: 143387
+  date: '1990-05-02T09:59:28'
+  crc: '0x8c996c86'

@@ -1,0 +1,32 @@
+filename: Revenge of the Eland (1986)(Dave Dubin) [Adventure, Interactive Fiction].zip
+tdc_id: '1295.0'
+title:
+  screen: Revenge of the Eland
+publisher: Dave Dubin
+year: '1986'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:24:56'
+  last_modified: '2019-03-01T18:24:56'
+type: zip
+commands:
+  play: ELAND2.COM
+references:
+  dosid: DOS00100
+  exodos: Revenge of the Eland (1986).zip
+files:
+- name: DEYTAPHI
+  size: 7424
+  date: '1987-09-11T14:02:56'
+  crc: '0x6f13490a'
+- name: ELAND2.COM
+  size: 20745
+  date: '1987-09-11T14:21:26'
+  crc: '0x71d36534'
+- name: GAME
+  size: 224
+  date: '1990-11-13T17:53:50'
+  crc: '0xb55baf48'

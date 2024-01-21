@@ -1,0 +1,32 @@
+filename: Prisoner (1988)(Jim Bates) [Strategy, Puzzle].zip
+tdc_id: '1575.0'
+title:
+  screen: Prisoner
+publisher: Jim Bates
+year: '1988'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-03-01T18:26:40'
+  last_modified: '2019-03-01T18:26:40'
+type: zip
+commands:
+  play: PRISONER.EXE
+references:
+  dosid: DOS16087
+  exodos: Prisoner (1988).zip
+files:
+- name: PRIS1.GRF
+  size: 22144
+  date: '1988-12-24T23:00:00'
+  crc: '0x9333b63e'
+- name: PRISONER.DOC
+  size: 2364
+  date: '1988-12-24T23:00:00'
+  crc: '0xbb4f02fb'
+- name: PRISONER.EXE
+  size: 79589
+  date: '1988-12-24T23:00:00'
+  crc: '0xceca3e54'

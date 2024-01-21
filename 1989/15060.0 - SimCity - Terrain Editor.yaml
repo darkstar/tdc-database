@@ -1,0 +1,125 @@
+filename: SimCity- Terrain Editor (Installer) (1989)(Infogrames Europe SA) [Editor, Simulation][!].zip
+tdc_id: '15060.0'
+parent_id: '15060.2'
+title:
+  box: SimCity - Terrain Editor
+  qualifier: Installer
+publisher: Infogrames Europe SA
+year: '1989'
+genre:
+- Editor
+- Simulation
+language: English
+date:
+  added: '2019-06-02T12:58:34'
+  last_modified: '2023-06-18T08:03:24'
+type: zip
+tags:
+- KnownGood
+media: 360K
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/14236/sim-city-terrain-editor/
+files:
+- name: BADNEWS.CTY
+  size: 27264
+  date: '1989-04-13T23:52:38'
+  crc: '0x5f869100'
+- name: BIG_CITY.CTY
+  size: 27264
+  date: '1989-03-27T11:28:50'
+  crc: '0x38f11590'
+- name: CEGATE.PPF
+  size: 31020
+  date: '1989-11-05T01:02:44'
+  crc: '0xa51226e5'
+- name: CEGATED.PGF
+  size: 63010
+  date: '1989-12-05T23:29:54'
+  crc: '0xc83483f9'
+- name: CGATE.PPF
+  size: 7707
+  date: '1989-11-07T18:28:04'
+  crc: '0xd4fafdc0'
+- name: CGATED.PGF
+  size: 9677
+  date: '1989-12-04T23:30:58'
+  crc: '0x76ef630a'
+- name: DEADWOOD.CTY
+  size: 27264
+  date: '1989-05-03T12:25:12'
+  crc: '0x9de2c1b4'
+- name: FINNIGAN.CTY
+  size: 27264
+  date: '1989-04-27T12:26:20'
+  crc: '0x615f8d93'
+- name: FREDSVIL.CTY
+  size: 27264
+  date: '1989-03-06T23:07:24'
+  crc: '0x387edff8'
+- name: HAPPY_IL.CTY
+  size: 27264
+  date: '1989-03-23T22:57:46'
+  crc: '0x93d81265'
+- name: INSTALL.EXE
+  size: 29399
+  date: '1989-12-15T13:48:28'
+  crc: '0x4e563ab3'
+- name: JOFFEBRG.CTY
+  size: 27264
+  date: '1989-11-19T16:55:44'
+  crc: '0xae9a772b'
+- name: LINEAR.CTY
+  size: 27264
+  date: '1989-04-14T00:03:40'
+  crc: '0x9a1d3aed'
+- name: MCGATE.PPF
+  size: 18226
+  date: '1989-11-07T01:39:56'
+  crc: '0x59e4c4e0'
+- name: MCGATED.PGF
+  size: 26152
+  date: '1989-12-04T23:31:18'
+  crc: '0xfaa92350'
+- name: MEDDEVE.CTY
+  size: 27264
+  date: '1989-04-30T20:12:06'
+  crc: '0x07559d08'
+- name: MONOTE.PPF
+  size: 13474
+  date: '1989-11-05T02:19:34'
+  crc: '0x0289223f'
+- name: MONOTED.PGF
+  size: 24523
+  date: '1989-12-14T12:56:16'
+  crc: '0xeaec3c3c'
+- name: README
+  size: 39
+  date: '1989-11-11T12:36:54'
+  crc: '0x5bd763ce'
+- name: SEGATE.PPF
+  size: 13889
+  date: '1989-11-05T02:19:58'
+  crc: '0x8d83aa2f'
+- name: SEGATED.PGF
+  size: 19085
+  date: '1989-12-14T15:19:06'
+  crc: '0xde42d66b'
+- name: SOUNDDAT.PSF
+  size: 17951
+  date: '1989-10-16T23:55:02'
+  crc: '0x1aef88b0'
+- name: TDYTE.PPF
+  size: 11185
+  date: '1989-11-16T01:19:32'
+  crc: '0x9458388d'
+- name: TDYTED.PGF
+  size: 17861
+  date: '1989-12-14T15:18:48'
+  crc: '0x394242ea'
+- name: TERRAIN.EXE
+  size: 139309
+  date: '1989-12-15T13:48:22'
+  crc: '0x38946cda'

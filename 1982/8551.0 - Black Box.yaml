@@ -1,0 +1,31 @@
+filename: Black Box (1982)(International PC Owners) [Strategy].zip
+tdc_id: '8551.0'
+title:
+  screen: Black Box
+publisher: International PC Owners
+year: '1982'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:22:56'
+  last_modified: '2019-03-01T18:22:56'
+type: zip
+media: Download
+commands:
+  play: Runme.bat
+references:
+  dosid: DOS01067
+  exodos: Black Box (1982).zip
+files:
+- name: BLACKBOX.BAS
+  size: 8192
+  date: '2001-04-11T17:54:00'
+  crc: '0x9486973d'
+- name: Runme.bat
+  size: 22
+  date: '2003-03-01T05:19:00'
+  crc: '0x66d94ac0'
+- name: gwbasic.exe
+  size: 80592
+  date: '1988-02-09T00:00:00'
+  crc: '0x8462d0e4'

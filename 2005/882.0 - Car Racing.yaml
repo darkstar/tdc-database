@@ -1,0 +1,30 @@
+filename: Car Racing (2005)(QBDude) [Action, Racing - Driving].zip
+tdc_id: '882.0'
+title:
+  screen: Car Racing
+publisher: QBDude
+year: '2005'
+genre:
+- Action
+- Racing - Driving
+language: English
+date:
+  added: '2019-03-02T10:57:02'
+  last_modified: '2019-03-02T10:57:02'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: CarRacingEnglish.bas
+  size: 4283
+  date: '2018-02-17T01:43:16'
+  crc: '0x5acc019e'
+- name: GO.BAT
+  size: 28
+  date: '2018-12-04T11:19:20'
+  crc: '0xc95c1057'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

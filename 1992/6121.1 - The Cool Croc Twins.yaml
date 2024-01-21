@@ -1,0 +1,29 @@
+filename: Cool Croc Twins, The (demo) (1992)(Empire Interactive Inc.) [Action].zip
+tdc_id: '6121.1'
+title:
+  screen: The Cool Croc Twins
+  qualifier: demo
+publisher: Empire Interactive Inc.
+year: '1992'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:41:58'
+  last_modified: '2019-03-01T18:41:58'
+type: zip
+demo: true
+commands:
+  play: PLAYCOOL.EXE
+files:
+- name: COOOOOL.CFG
+  size: 18
+  date: '1992-11-04T14:49:28'
+  crc: '0x015124a2'
+- name: HISCORE.CCT
+  size: 156
+  date: '1992-11-04T14:49:28'
+  crc: '0xeee0382a'
+- name: PLAYCOOL.EXE
+  size: 190650
+  date: '1992-05-11T00:02:00'
+  crc: '0xe40bb6f6'

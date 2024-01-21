@@ -1,0 +1,34 @@
+filename: Fairlight Castle v1.02 (2004)(Paul Allen Panks) [Adventure, Interactive Fiction].zip
+tdc_id: '13468.0'
+title:
+  screen: Fairlight Castle
+publisher: Paul Allen Panks
+year: '2004'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-02T10:56:52'
+  last_modified: '2019-03-02T10:56:52'
+version: '1.02'
+type: zip
+commands:
+  play: FC.EXE
+files:
+- name: FC.BAS
+  size: 28433
+  date: '2004-06-27T04:03:14'
+  crc: '0x9ce9e2eb'
+- name: FC.EXE
+  size: 46493
+  date: '2004-06-27T04:03:30'
+  crc: '0x825e55e5'
+- name: FCMAP.TXT
+  size: 456
+  date: '2004-06-27T02:21:56'
+  crc: '0x1511fdea'
+- name: READMEFC.TXT
+  size: 2032
+  date: '2004-06-27T02:33:42'
+  crc: '0x7a811b6c'

@@ -1,0 +1,27 @@
+filename: Simple Mad Lib (2003)(Nukem Enterprises) [Simulation].zip
+tdc_id: '15079.0'
+title:
+  screen: Simple Mad Lib
+publisher: Nukem Enterprises
+year: '2003'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-02T10:56:44'
+  last_modified: '2019-03-02T10:56:44'
+type: zip
+commands:
+  play: MADLIB.EXE
+files:
+- name: MADLIB.EXE
+  size: 13968
+  date: '2003-02-13T15:25:10'
+  crc: '0x16b481b3'
+- name: MADLIB.OBJ
+  size: 2022
+  date: '2003-02-13T15:25:10'
+  crc: '0xb522f264'
+- name: README.TXT
+  size: 610
+  date: '2003-02-13T15:31:56'
+  crc: '0xb9c020ad'

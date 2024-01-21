@@ -1,0 +1,28 @@
+filename: Pong (De) (1998)(Andreas Meile) [Action].zip
+tdc_id: '10403.0'
+title:
+  screen: Pong
+publisher: Andreas Meile
+year: '1998'
+genre: Action
+language: German
+date:
+  added: '2019-03-02T10:44:14'
+  last_modified: '2019-03-02T10:44:14'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 24
+  date: '2018-12-01T12:06:24'
+  crc: '0x948bec37'
+- name: PONG.BAS
+  size: 4472
+  date: '2018-12-01T12:06:10'
+  crc: '0xf228b655'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

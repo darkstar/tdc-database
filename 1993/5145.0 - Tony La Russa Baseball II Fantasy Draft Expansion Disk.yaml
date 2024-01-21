@@ -1,0 +1,28 @@
+filename: Tony La Russa Baseball II Fantasy Draft Expansion Disk (Installer) (1993)(Strategic Simulations, Inc.) [Simulation, Sports, Strategy, Addon].zip
+tdc_id: '5145.0'
+title:
+  box: Tony La Russa Baseball II Fantasy Draft Expansion Disk
+publisher: Strategic Simulations, Inc.
+year: '1993'
+genre:
+- Simulation
+- Sports
+- Strategy
+- Addon
+language: English
+date:
+  added: '2019-03-01T21:10:22'
+  last_modified: '2019-03-01T21:10:22'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK1.ARJ
+  size: 664928
+  date: '1993-05-05T14:30:06'
+  crc: '0x206be573'
+- name: INSTALL.EXE
+  size: 24393
+  date: '1993-04-27T09:57:28'
+  crc: '0x62795939'

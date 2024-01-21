@@ -1,0 +1,27 @@
+filename: Text Missile Command (1995)(Kurt W. Dekker) [Action].zip
+tdc_id: '16606.0'
+title:
+  screen: Text Missile Command
+publisher: Kurt W. Dekker
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T09:06:12'
+  last_modified: '2019-03-02T09:06:12'
+type: zip
+commands:
+  play: tmc.exe
+files:
+- name: order.txt
+  size: 3676
+  date: '1999-12-31T18:00:00'
+  crc: '0xe82b4e44'
+- name: readme.tmc
+  size: 2552
+  date: '1999-12-31T18:00:00'
+  crc: '0x7a4bf9d0'
+- name: tmc.exe
+  size: 69264
+  date: '1999-12-31T18:00:00'
+  crc: '0xbad71a55'

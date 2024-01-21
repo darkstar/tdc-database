@@ -1,0 +1,49 @@
+filename: L5RC v1.4 (1998)(CoGS) [Strategy, Puzzle].zip
+tdc_id: '4162.0'
+title:
+  screen: L5RC
+publisher: CoGS
+year: '1998'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-03-02T10:42:16'
+  last_modified: '2019-03-02T10:42:16'
+version: '1.4'
+type: zip
+commands:
+  play: L5RC.EXE
+references:
+  dosid: DOS03047
+  exodos: L5RC (1998).zip
+files:
+- name: L5RC.001
+  size: 60
+  date: '2000-04-05T17:40:48'
+  crc: '0x852c1b82'
+- name: L5RC.EXE
+  size: 54128
+  date: '1998-03-29T13:44:40'
+  crc: '0x55134209'
+- name: README.TXT
+  size: 596
+  date: '1998-11-21T16:20:12'
+  crc: '0xc0df8981'
+- name: l5rc.002
+  size: 45702
+  date: '1998-02-15T12:30:36'
+  crc: '0x6b9c5280'
+- name: l5rc.003
+  size: 93476
+  date: '1997-12-21T11:39:26'
+  crc: '0x5f8ec2e4'
+- name: l5rc.004
+  size: 40018
+  date: '1998-11-21T16:23:42'
+  crc: '0x69f9b057'
+- name: l5rc.txt
+  size: 628
+  date: '1998-11-21T16:24:46'
+  crc: '0xa0129906'

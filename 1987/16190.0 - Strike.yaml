@@ -1,0 +1,62 @@
+filename: Strike (1987)(Mastertronic Ltd.) [Sports].zip
+tdc_id: '16190.0'
+title:
+  box: Strike
+publisher: Mastertronic Ltd.
+year: '1987'
+genre: Sports
+language: English
+date:
+  added: '2019-03-01T18:25:40'
+  last_modified: '2019-03-01T18:25:40'
+type: zip
+commands:
+  play: AUTOEXEC.EXE
+files:
+- name: AUTOEXEC.EXE
+  size: 28796
+  date: '1987-08-13T09:47:26'
+  crc: '0x6c927ca0'
+- name: GRAFIX\
+  size: 0
+  date: '2018-05-18T20:28:00'
+- name: GRAFIX\BALL.BIN
+  size: 640
+  date: '1987-02-05T09:30:20'
+  crc: '0xdce246b9'
+- name: GRAFIX\BALLDAT.BIN
+  size: 640
+  date: '1987-02-05T09:43:20'
+  crc: '0xdbc3b85f'
+- name: GRAFIX\NEWDATA.BIN
+  size: 26624
+  date: '1987-02-19T11:33:08'
+  crc: '0x6f4ac807'
+- name: GRAFIX\ROLLBAL.BIN
+  size: 160
+  date: '1987-02-03T17:09:40'
+  crc: '0x713ad52f'
+- name: GRAFIX\RUN.IBM
+  size: 6192
+  date: '1980-01-23T20:55:24'
+  crc: '0x605107bf'
+- name: GRAFIX\RUN.OLD
+  size: 8192
+  date: '1985-01-01T00:00:00'
+  crc: '0x586d7ad9'
+- name: GRAFIX\SCREEN.BIN
+  size: 16384
+  date: '1980-01-01T01:38:48'
+  crc: '0xe67b2efe'
+- name: GRAFIX\SHUFFLE.BIN
+  size: 1536
+  date: '1987-02-20T12:29:40'
+  crc: '0x712f577e'
+- name: GRAFIX\SKITTLES.BIN
+  size: 4320
+  date: '1987-02-05T10:31:58'
+  crc: '0x6fd0cacf'
+- name: GRAFIX\WINDOW.BIN
+  size: 2112
+  date: '1987-02-02T13:44:18'
+  crc: '0x4f84aded'

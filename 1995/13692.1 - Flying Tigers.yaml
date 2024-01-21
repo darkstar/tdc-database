@@ -1,0 +1,34 @@
+filename: Flying Tigers v2.00 (Installer) (De)(En) [SW] (1995)(Homebrew Software) [Action].zip
+tdc_id: '13692.1'
+title:
+  screen: Flying Tigers
+publisher: Homebrew Software
+year: '1995'
+genre: Action
+language:
+- English
+- German
+date:
+  added: '2019-03-02T08:43:54'
+  last_modified: '2019-03-02T08:43:54'
+version: '2.00'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK1.XXX
+  size: 1098369
+  date: '1995-10-13T13:51:58'
+  crc: '0xc35ece97'
+- name: INSTALL.001
+  size: 1165
+  date: '1995-10-13T13:10:38'
+  crc: '0x4577c27c'
+- name: INSTALL.EXE
+  size: 87162
+  date: '1995-10-13T13:04:42'
+  crc: '0x417fa2da'

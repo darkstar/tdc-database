@@ -1,0 +1,30 @@
+filename: Panic! (Es) (2002)(Amaka Soft) [Action].zip
+tdc_id: '4835.0'
+title:
+  screen: Panic!
+publisher: Amaka Soft
+year: '2002'
+genre: Action
+language: Spanish
+date:
+  added: '2019-03-02T10:56:06'
+  last_modified: '2019-03-02T10:56:06'
+type: zip
+commands:
+  play: PANIC.EXE
+references:
+  dosid: DOS08022
+  exodos: Panic! (2002).zip
+files:
+- name: DIV32RUN.DLL
+  size: 320043
+  date: '2002-04-01T13:56:56'
+  crc: '0xed72e0f1'
+- name: PANIC.EXE
+  size: 38589
+  date: '2002-04-01T13:56:56'
+  crc: '0x2cbf0d88'
+- name: PANIC.PAK
+  size: 3878308
+  date: '2002-04-01T13:56:56'
+  crc: '0x306df469'

@@ -1,0 +1,64 @@
+filename: Aspar GP Master (1993)(Dinamic Software, Prism Leisure Corporation Plc) [Racing - Driving].zip
+tdc_id: '8922.0'
+title:
+  box: Aspar GP Master
+publisher: Dinamic Software, Prism Leisure Corporation Plc
+year: '1993'
+genre: Racing - Driving
+language: English
+date:
+  added: '2020-11-26T14:09:34'
+  last_modified: '2023-12-22T09:57:35'
+type: zip
+media: CD-ROM
+commands:
+  play: DINAMIC.BAT
+references:
+  mobygames: https://www.mobygames.com/game/1941/grand-prix-master/
+  dosid: DOS02457
+  exodos: Grand Prix Master (1989).zip
+files:
+- name: ASPAR.CIR
+  size: 39280
+  date: '1993-09-10T16:15:54'
+  crc: '0x12be8803'
+- name: ASPAR0.SPL
+  size: 65536
+  date: '1993-09-10T16:15:54'
+  crc: '0xce9b29ae'
+- name: ASPAR1.SPL
+  size: 20608
+  date: '1993-09-10T16:15:54'
+  crc: '0x7ba42342'
+- name: ASPEGA.B3
+  size: 64480
+  date: '1993-09-10T16:16:20'
+  crc: '0xf6a85819'
+- name: ASPEGA.DAT
+  size: 312
+  date: '1993-09-10T16:15:54'
+  crc: '0xf05d41f8'
+- name: ASPEGA.GRF
+  size: 32768
+  date: '1993-09-10T16:15:54'
+  crc: '0x5b58fc1f'
+- name: ASPEGA.R1
+  size: 42270
+  date: '1993-09-10T16:15:54'
+  crc: '0x9fb5f84b'
+- name: ASPEGA.SCR
+  size: 32768
+  date: '1993-09-10T16:15:56'
+  crc: '0x12a67ea7'
+- name: ASPMUS.COM
+  size: 912
+  date: '1993-09-10T16:15:56'
+  crc: '0x7bb7ae86'
+- name: DINAMIC.BAT
+  size: 31
+  date: '1993-09-13T17:57:14'
+  crc: '0x0bbb34cb'
+- name: EXECUTE.COM
+  size: 1160
+  date: '1993-09-10T16:15:56'
+  crc: '0x2fe36e76'

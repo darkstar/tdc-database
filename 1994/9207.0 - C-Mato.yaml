@@ -1,0 +1,35 @@
+filename: C-Mato v1.2 (Fi) (1994)(PWP) [Action].zip
+tdc_id: '9207.0'
+title:
+  screen: C-Mato
+publisher: PWP
+year: '1994'
+genre: Action
+language: Finnish
+date:
+  added: '2019-03-01T21:55:00'
+  last_modified: '2019-03-01T21:55:00'
+version: '1.2'
+type: zip
+commands:
+  play: C-MATO.EXE
+references:
+  dosid: DOS06783
+  exodos: C-Mato (1994).zip
+files:
+- name: C-MATO.C
+  size: 7102
+  date: '1994-05-09T07:50:32'
+  crc: '0x9becab09'
+- name: C-MATO.DOC
+  size: 113
+  date: '1994-07-02T16:14:08'
+  crc: '0x8fbb9255'
+- name: C-MATO.EXE
+  size: 24062
+  date: '1994-06-26T18:39:48'
+  crc: '0x15bdb4cb'
+- name: C-MATO.HI
+  size: 198
+  date: '1994-06-13T20:09:42'
+  crc: '0xfbfe65f3'

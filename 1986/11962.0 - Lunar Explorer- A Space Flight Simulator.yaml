@@ -1,0 +1,93 @@
+filename: Lunar Explorer- A Space Flight Simulator v1.1 (1986)(Electric Transit, Inc.) [Action, Simulation].zip
+tdc_id: '11962.0'
+title:
+  box: 'Lunar Explorer: A Space Flight Simulator'
+publisher: Electric Transit, Inc.
+year: '1986'
+genre:
+- Action
+- Simulation
+language: English
+date:
+  added: '2019-03-01T18:24:50'
+  last_modified: '2019-03-01T18:24:50'
+version: '1.1'
+type: zip
+commands:
+  play: EXPLORER.EXE
+references:
+  dosid: DOS03268
+  exodos: Lunar Explorer A Space Flight Simulator (1986).zip
+files:
+- name: CHARS.H
+  size: 1548
+  date: '2012-05-22T23:43:18'
+  crc: '0xdbecf641'
+- name: CHARS.L
+  size: 860
+  date: '2012-05-22T23:43:18'
+  crc: '0x69545c29'
+- name: CRASH
+  size: 2000
+  date: '2012-05-22T23:43:18'
+  crc: '0x2a46350f'
+- name: DUSTMAP.C
+  size: 460
+  date: '2012-05-22T23:43:18'
+  crc: '0x9be1e7b6'
+- name: DUSTMAP.E
+  size: 460
+  date: '2012-05-22T23:43:18'
+  crc: '0xedc3bc86'
+- name: DUSTMAP.H
+  size: 460
+  date: '2012-05-22T23:43:20'
+  crc: '0x783d9176'
+- name: DUSTMAP.M
+  size: 460
+  date: '2012-05-22T23:43:20'
+  crc: '0xedc3bc86'
+- name: EXPLORER.EXE
+  size: 31305
+  date: '2012-05-22T23:43:20'
+  crc: '0xd048fc9a'
+- name: RADAR.H
+  size: 3699
+  date: '2012-05-22T23:43:20'
+  crc: '0x4d518412'
+- name: RADAR.L
+  size: 1863
+  date: '2012-05-22T23:43:20'
+  crc: '0xae182ae0'
+- name: RETITLE.C
+  size: 7134
+  date: '2012-05-22T23:43:20'
+  crc: '0x6192079d'
+- name: RETITLE.E
+  size: 20840
+  date: '2012-05-22T23:43:20'
+  crc: '0xc45db24c'
+- name: RETITLE.H
+  size: 13847
+  date: '2012-05-22T23:43:20'
+  crc: '0xf8d6b54d'
+- name: RETITLE.M
+  size: 12673
+  date: '2012-05-22T23:43:20'
+  crc: '0xe8001f20'
+- name: TITLE.C
+  size: 6839
+  date: '2012-05-22T23:43:20'
+  crc: '0xe1176511'
+- name: TITLE.E
+  size: 15738
+  date: '2012-05-22T23:43:22'
+  crc: '0x8cf1e99c'
+- name: TITLE.H
+  size: 10512
+  date: '2012-05-22T23:43:22'
+  crc: '0xf6dba030'
+- name: TITLE.M
+  size: 10072
+  date: '2012-05-22T23:43:22'
+  crc: '0x9007b1a9'

@@ -1,0 +1,36 @@
+filename: Pikcells v2.0 (Pl) (1998)(MES) [Action].zip
+tdc_id: '4199.0'
+title:
+  screen: Pikcells
+publisher: MES
+year: '1998'
+genre: Action
+language: Polish
+date:
+  added: '2019-03-02T10:43:44'
+  last_modified: '2019-03-02T10:43:44'
+version: '2.0'
+type: zip
+commands:
+  play: PIKCELL2.EXE
+files:
+- name: EGAVGA.BGI
+  size: 5554
+  date: '1990-10-23T06:00:00'
+  crc: '0x116c5498'
+- name: EGAVGA.OBJ
+  size: 5655
+  date: '1991-02-15T17:26:50'
+  crc: '0xfcad03f3'
+- name: PIKCELL2.EXE
+  size: 33312
+  date: '1998-08-20T14:54:16'
+  crc: '0x132f9ae3'
+- name: PROCEDUR.TPU
+  size: 43200
+  date: '1998-09-01T13:43:48'
+  crc: '0xc71d2e11'
+- name: SVGA256.BGI
+  size: 7451
+  date: '1993-07-22T03:05:40'
+  crc: '0x819d1dc9'

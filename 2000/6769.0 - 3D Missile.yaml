@@ -1,0 +1,29 @@
+filename: 3D Missile v1.0.2 (2000)(Aaron Alderman) [Strategy].zip
+tdc_id: '6769.0'
+title:
+  screen: 3D Missile
+publisher: Aaron Alderman
+year: '2000'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T10:47:24'
+  last_modified: '2019-03-02T10:47:24'
+version: 1.0.2
+type: zip
+media: Download
+commands:
+  play: 3dmiss.exe
+files:
+- name: 3DMISS.FOD
+  size: 720
+  date: '2000-05-14T16:13:40'
+  crc: '0x5e60e9bc'
+- name: 3DMISS.TXT
+  size: 2529
+  date: '2000-11-29T22:44:18'
+  crc: '0xbbdd83d6'
+- name: 3dmiss.exe
+  size: 102724
+  date: '2000-11-29T22:39:18'
+  crc: '0x93681ca3'

@@ -1,0 +1,48 @@
+filename: Space Station Escape v1.5 (Installer) [SW] (1995)(Roy Person, RPSoft) [Action].zip
+tdc_id: '6917.0'
+title:
+  screen: Space Station Escape
+publisher: Roy Person, RPSoft
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T09:04:34'
+  last_modified: '2019-03-02T09:04:34'
+version: '1.5'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 70790
+  date: '1995-05-15T23:00:50'
+  crc: '0x73384f8f'
+- name: INSTALL.INI
+  size: 136
+  date: '1995-05-15T23:02:50'
+  crc: '0xaffef96d'
+- name: MANUAL.TXT
+  size: 7297
+  date: '1995-05-17T23:08:20'
+  crc: '0x3cf3f7e2'
+- name: PACK1.PRG
+  size: 1379448
+  date: '1995-05-15T23:01:54'
+  crc: '0x882cb0b3'
+- name: PACK2.PRG
+  size: 549541
+  date: '1995-05-15T23:02:36'
+  crc: '0x63bf3ba6'
+- name: README.BAT
+  size: 1509
+  date: '1995-05-15T23:46:02'
+  crc: '0xae22de69'
+- name: REGISTER.TXT
+  size: 2085
+  date: '1995-05-15T23:13:26'
+  crc: '0x875969ae'

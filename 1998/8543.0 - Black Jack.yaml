@@ -1,0 +1,33 @@
+filename: Black Jack (1998)(Alexander Larkin) [Strategy, Cards].zip
+tdc_id: '8543.0'
+title:
+  screen: Black Jack
+publisher: Alexander Larkin
+year: '1998'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-02T10:40:42'
+  last_modified: '2019-03-02T10:40:42'
+type: zip
+commands:
+  play: GM.EXE
+files:
+- name: ERROR200.TXT
+  size: 176
+  date: '1999-08-30T18:53:48'
+  crc: '0x3f52a6f1'
+- name: GM.EXE
+  size: 8272
+  date: '1999-08-30T20:25:08'
+  crc: '0x9aa54862'
+- name: GM.PAS
+  size: 7889
+  date: '1998-08-13T13:33:28'
+  crc: '0xf9a1c58e'
+- name: HEAD.TXT
+  size: 202
+  date: '1998-08-13T15:12:06'
+  crc: '0x878a88cf'

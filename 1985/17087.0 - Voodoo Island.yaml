@@ -1,0 +1,50 @@
+filename: Voodoo Island (1985)(Mindscape, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '17087.0'
+title:
+  box: Voodoo Island
+publisher: Mindscape, Inc.
+year: '1985'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:24:38'
+  last_modified: '2019-03-01T18:24:38'
+type: zip
+references:
+  dosid: DOS06002
+  exodos: Voodoo Island (1985).zip
+files:
+- name: DPLTTL.COM
+  size: 12255
+  date: '1985-09-25T09:35:00'
+  crc: '0xf106099a'
+- name: GAME.000
+  size: 67840
+  date: '1985-10-22T16:13:24'
+  crc: '0xb27bcb32'
+- name: GAME.COM
+  size: 25835
+  date: '1985-10-22T16:13:28'
+  crc: '0xdbe80674'
+- name: MESSAGE
+  size: 45568
+  date: '1985-10-24T01:24:58'
+  crc: '0x2cb1b95c'
+- name: TABLES
+  size: 5969
+  date: '1985-10-24T01:09:54'
+  crc: '0xcfb6d5a3'
+- name: VOCAB
+  size: 7150
+  date: '1985-10-24T01:25:58'
+  crc: '0x7f88ae45'
+- name: VOODOO.BAT
+  size: 22
+  date: '1997-09-30T22:11:06'
+  crc: '0x6fb5a7e0'
+- name: VOODOO.SCR
+  size: 16000
+  date: '1985-09-23T17:25:10'
+  crc: '0x05c5ca92'

@@ -1,0 +1,105 @@
+filename: Sam & Max Hit the Road CD v1.11 (1994)(LucasArts Entertainment Company LLC) [Adventure].zip
+tdc_id: '14936.5'
+title:
+  box: Sam & Max Hit the Road CD
+publisher: LucasArts Entertainment Company LLC
+year: '1994'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T22:04:16'
+  last_modified: '2019-03-01T22:04:16'
+version: '1.11'
+type: zip
+references:
+  dosid: DOS04394
+  exodos: Sam and Max Hit the Road (1993).zip
+files:
+- name: BOOTMKR.EXE
+  size: 50309
+  date: '2013-04-08T22:01:16'
+  crc: '0x0bc36676'
+- name: CDPLAY.EXE
+  size: 5009
+  date: '2013-04-08T22:01:18'
+  crc: '0x6045c666'
+- name: DOS4GW.EXE
+  size: 254196
+  date: '2013-04-08T22:01:20'
+  crc: '0x3b750e06'
+- name: EMIDI.MSD
+  size: 5632
+  date: '2013-04-08T22:01:22'
+  crc: '0x88c2696a'
+- name: ENSONIQ.WSD
+  size: 10240
+  date: '2013-04-08T22:01:24'
+  crc: '0x9d5e3d67'
+- name: FM2.MSD
+  size: 8720
+  date: '2013-04-08T22:01:26'
+  crc: '0x63944ac9'
+- name: FM4.MSD
+  size: 11651
+  date: '2013-04-08T22:01:28'
+  crc: '0x81a9492b'
+- name: GMIDI.MSD
+  size: 3972
+  date: '2013-04-08T22:01:30'
+  crc: '0x62b57587'
+- name: MONSTER.SOU
+  size: 183195967
+  date: '2013-04-08T22:09:16'
+  crc: '0x45442d28'
+- name: README.TXT
+  size: 10803
+  date: '2013-04-08T22:09:20'
+  crc: '0x1587fc5d'
+- name: ROLAND.MSD
+  size: 5062
+  date: '2013-04-08T22:09:22'
+  crc: '0x9f01223b'
+- name: SAMNMAX.000
+  size: 9080
+  date: '2013-04-08T22:09:26'
+  crc: '0xa277c40d'
+- name: SAMNMAX.001
+  size: 13790685
+  date: '2013-04-08T22:10:20'
+  crc: '0xe813ff59'
+- name: SAMNMAX.EXE
+  size: 254199
+  date: '2013-04-08T22:10:26'
+  crc: '0x92ee12e6'
+- name: SAMNMAX.RSC
+  size: 798571
+  date: '2013-04-08T22:10:32'
+  crc: '0x9d312b7d'
+- name: SB16.WSD
+  size: 7781
+  date: '2013-04-08T22:10:36'
+  crc: '0xfecd97b4'
+- name: SBCLONE.WSD
+  size: 7891
+  date: '2013-04-08T22:10:38'
+  crc: '0x28d7190d'
+- name: SBPRO.WSD
+  size: 9589
+  date: '2013-04-08T22:10:42'
+  crc: '0xce72f942'
+- name: SETMUSE.EXE
+  size: 151892
+  date: '2013-04-08T22:10:46'
+  crc: '0x96b665f5'
+- name: SETMUSE.TXT
+  size: 3682
+  date: '2013-04-08T22:10:50'
+  crc: '0x3d4fa440'
+- name: TESTMIDI
+  size: 354
+  date: '2013-04-08T22:10:52'
+  crc: '0x185a2d28'
+- name: TESTWAVE
+  size: 46689
+  date: '2013-04-08T22:10:56'
+  crc: '0xd6d47607'

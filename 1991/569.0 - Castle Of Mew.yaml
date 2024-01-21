@@ -1,0 +1,74 @@
+filename: Castle Of Mew (1991)(R.L.B. Programs) [Adventure].zip
+tdc_id: '569.0'
+title:
+  screen: Castle Of Mew
+publisher: R.L.B. Programs
+year: '1991'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:35:10'
+  last_modified: '2019-03-01T18:35:10'
+type: zip
+commands:
+  play: MEW.EXE
+references:
+  dosid: DOS00033
+  exodos: Castle Of Mew (1991).zip
+files:
+- name: CASTLE.PIC
+  size: 64015
+  date: '1991-06-07T06:35:56'
+  crc: '0x59d33970'
+- name: CASTLE2.PIC
+  size: 64015
+  date: '1991-06-09T13:50:56'
+  crc: '0xdc0117c9'
+- name: CAVE.PIC
+  size: 64015
+  date: '1991-07-01T06:52:28'
+  crc: '0x2d9c1d24'
+- name: CROWN.PIC
+  size: 64015
+  date: '1991-05-19T16:57:38'
+  crc: '0x80c3ddf5'
+- name: DDM.PIC
+  size: 64015
+  date: '1991-06-04T07:30:36'
+  crc: '0x6bbe03b0'
+- name: MAN1.PIC
+  size: 267
+  date: '1991-07-01T06:57:20'
+  crc: '0x8145a751'
+- name: MAN2.PIC
+  size: 287
+  date: '1991-07-01T06:59:58'
+  crc: '0xabbf1686'
+- name: MEW.EXE
+  size: 94700
+  date: '1991-07-02T19:09:18'
+  crc: '0xb675bcbb'
+- name: MNT.PIC
+  size: 64015
+  date: '1991-06-05T17:59:52'
+  crc: '0x44cb69d7'
+- name: QSA.PIC
+  size: 64015
+  date: '1991-07-01T07:13:00'
+  crc: '0x412ebfb5'
+- name: README.1ST
+  size: 1671
+  date: '1991-07-02T19:29:08'
+  crc: '0x30692acb'
+- name: STORE.PIC
+  size: 64015
+  date: '1991-06-06T05:17:46'
+  crc: '0x1b74e19f'
+- name: TRAN.PIC
+  size: 64015
+  date: '1991-05-19T09:35:00'
+  crc: '0x030c65bd'
+- name: TUNNEL.PIC
+  size: 64015
+  date: '1991-06-07T07:44:08'
+  crc: '0xe1cc3305'

@@ -1,0 +1,44 @@
+filename: Night Mission Pinball v3.0 (1988)(subLOGIC) [Simulation].zip
+tdc_id: '14469.1'
+title:
+  box: Night Mission Pinball
+publisher: subLOGIC
+year: '1988'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:26:32'
+  last_modified: '2019-03-01T18:26:32'
+version: '3.0'
+type: zip
+commands:
+  play: PINBALL.EXE
+files:
+- name: PANEL.CGA
+  size: 16512
+  date: '1988-08-31T15:44:40'
+  crc: '0x0b7190d6'
+- name: PANEL.EGA
+  size: 32001
+  date: '1988-08-31T15:44:40'
+  crc: '0x40e97b31'
+- name: PANEL.VGA
+  size: 64001
+  date: '1988-08-31T15:44:42'
+  crc: '0x20d6a4fa'
+- name: PBMODES.BIN
+  size: 1633
+  date: '2007-09-04T23:28:32'
+  crc: '0xd2180e51'
+- name: PINBALL.EXE
+  size: 42077
+  date: '1988-08-31T15:44:42'
+  crc: '0x29c0fca9'
+- name: PINBALL.LOG
+  size: 157
+  date: '1999-09-26T22:17:08'
+  crc: '0xe21ef254'
+- name: README.PB1
+  size: 4013
+  date: '1988-08-31T15:44:44'
+  crc: '0x4838b04c'

@@ -1,0 +1,69 @@
+filename: Operation Body Count (demo) [a1] (1994)(Capstone Software) [Action].zip
+tdc_id: '5703.3'
+title:
+  screen: Operation Body Count
+  qualifier: demo
+publisher: Capstone Software
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T22:02:28'
+  last_modified: '2019-03-01T22:02:28'
+type: zip
+tags:
+- Alternate: 1
+demo: true
+files:
+- name: AUDIOHED.BC
+  size: 960
+  date: '1994-08-30T14:54:40'
+  crc: '0xab1b5c22'
+- name: AUDIOMUS.BC
+  size: 856064
+  date: '1994-08-30T14:59:00'
+  crc: '0x3754c127'
+- name: AUDIOT.BC
+  size: 57508
+  date: '1994-08-30T14:54:40'
+  crc: '0x2157318b'
+- name: BC.EXE
+  size: 294908
+  date: '1994-08-31T16:48:30'
+  crc: '0x89e1e34d'
+- name: GFXINFOV.BC
+  size: 46
+  date: '1994-08-31T12:52:02'
+  crc: '0x8defd8d0'
+- name: GFXTILES.BC
+  size: 2071736
+  date: '1994-08-31T15:00:24'
+  crc: '0x1f82f7ed'
+- name: MAPHEAD.BC
+  size: 402
+  date: '1994-08-31T13:13:12'
+  crc: '0x40f66645'
+- name: MAPTEMP.BC
+  size: 210368
+  date: '1994-08-31T13:13:12'
+  crc: '0xb8d1bd77'
+- name: SEQSIX.BC
+  size: 207508
+  date: '1994-08-25T14:56:06'
+  crc: '0x1f323203'
+- name: SETUP.EXE
+  size: 54734
+  date: '1994-08-30T12:53:08'
+  crc: '0xf9ba25c7'
+- name: VGADICT.BC
+  size: 1024
+  date: '1994-09-07T16:09:00'
+  crc: '0xfbdfb37f'
+- name: VGAGRAPH.BC
+  size: 294260
+  date: '1994-09-07T16:09:00'
+  crc: '0xfabd0f03'
+- name: VGAHEAD.BC
+  size: 174
+  date: '1994-09-07T16:09:00'
+  crc: '0x8e8306b6'

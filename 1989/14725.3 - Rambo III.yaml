@@ -1,0 +1,42 @@
+filename: Rambo III [o1] (1989)(Taito Corporation) [Action].zip
+tdc_id: '14725.3'
+title:
+  box: Rambo III
+publisher: Taito Corporation
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:28:46'
+  last_modified: '2019-03-01T18:28:46'
+type: zip
+tags:
+- Overdump: 1
+references:
+  dosid: DOS02768
+  exodos: Rambo III (1989).zip
+files:
+- name: LIB_0.LBS
+  size: 124894
+  date: '1989-12-08T09:54:42'
+  crc: '0xb93badad'
+- name: LIB_1.LBS
+  size: 116830
+  date: '1989-12-08T09:54:50'
+  crc: '0xd89946fa'
+- name: LIB_2.LBS
+  size: 197330
+  date: '1989-12-08T09:55:02'
+  crc: '0xc8c35580'
+- name: RAMBO.ATI
+  size: 49978
+  date: '1989-12-13T19:48:10'
+  crc: '0x42b2a221'
+- name: RAMBO.COM
+  size: 787
+  date: '1990-11-25T17:36:24'
+  crc: '0x46cbdab0'
+- name: RAMBO.EXE
+  size: 20992
+  date: '1990-11-25T17:36:24'
+  crc: '0x5421b117'

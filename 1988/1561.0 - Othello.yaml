@@ -1,0 +1,29 @@
+filename: Othello (1988)(Erich J Spengler) [Strategy, Board].zip
+tdc_id: '1561.0'
+title:
+  screen: Othello
+publisher: Erich J Spengler
+year: '1988'
+genre:
+- Strategy
+- Board
+language: English
+date:
+  added: '2019-03-01T18:26:34'
+  last_modified: '2019-03-01T18:26:34'
+type: zip
+commands:
+  play: OTH.EXE
+files:
+- name: OTH.EXE
+  size: 22528
+  date: '2006-02-19T02:59:30'
+  crc: '0x70540db7'
+- name: OTH.PAS
+  size: 54947
+  date: '2088-01-01T01:22:26'
+  crc: '0xe92e0090'
+- name: OTH.TXT
+  size: 1024
+  date: '2088-01-01T01:09:12'
+  crc: '0xcd59234c'

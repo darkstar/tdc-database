@@ -1,0 +1,57 @@
+filename: Paris-Dakar (Es) (1988)(Zigurat Software S.L.) [Racing - Driving, Simulation].zip
+tdc_id: '10636.0'
+title:
+  screen: Paris-Dakar
+publisher: Zigurat Software S.L.
+year: '1988'
+genre:
+- Racing - Driving
+- Simulation
+language: Spanish
+date:
+  added: '2020-03-28T21:10:24'
+  last_modified: '2023-02-16T15:23:53'
+type: zip
+commands:
+  play: PARIS.EXE
+references:
+  mobygames: https://www.mobygames.com/game/dos/paris-dakar
+  dosid: DOS03915
+  exodos: Paris-Dakar (1988).zip
+files:
+- name: CONFIG.SYS
+  size: 265
+  date: '1991-11-23T12:15:18'
+  crc: '0xe2b53139'
+- name: FASE1.PC
+  size: 8802
+  date: '1989-05-22T11:16:58'
+  crc: '0x1258108d'
+- name: FASE2.PC
+  size: 8802
+  date: '1989-05-22T11:17:14'
+  crc: '0x6c919783'
+- name: FASE3.PC
+  size: 8802
+  date: '1989-05-22T11:17:26'
+  crc: '0xc16dec3c'
+- name: HT12EMS.SYS
+  size: 12288
+  date: '1990-07-17T10:35:04'
+  crc: '0x01aa51dc'
+- name: MARCPARI.PC
+  size: 16384
+  date: '1989-12-05T20:34:12'
+  crc: '0xff9c5343'
+- name: MUGNECO.PC
+  size: 6144
+  date: '1989-05-22T11:21:00'
+  crc: '0xceff3c96'
+- name: PANTPARI.PC
+  size: 16384
+  date: '1989-12-05T20:33:50'
+  crc: '0x2c4e35a3'
+- name: PARIS.EXE
+  size: 31013
+  date: '1990-09-03T17:57:48'
+  crc: '0xa4eff5a4'

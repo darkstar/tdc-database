@@ -1,0 +1,34 @@
+filename: ZorkQuest- Assault on Egreth Castle (1989)(Infocom, Inc., Papyrus Design Group, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '15705.2'
+parent_id: '15705.1'
+title:
+  box: 'ZorkQuest: Assault on Egreth Castle'
+  screen: 'Zork Quest : Episode One : Assault on Egreth Castle'
+publisher: Infocom, Inc., Papyrus Design Group, Inc.
+year: '1989'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2023-08-04T10:58:20'
+  last_modified: '2023-08-04T10:58:20'
+type: zip
+media: 720K
+commands:
+  play: PLAY.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1694/zorkquest-assault-on-egreth-castle/
+files:
+- name: DATA1
+  size: 39804
+  date: '1980-11-07T20:23:48'
+  crc: '0x1621c8ee'
+- name: DATA2
+  size: 254825
+  date: '1989-02-17T10:49:52'
+  crc: '0x1084e921'
+- name: PLAY.EXE
+  size: 36191
+  date: '1988-10-20T13:56:20'
+  crc: '0x04332e71'

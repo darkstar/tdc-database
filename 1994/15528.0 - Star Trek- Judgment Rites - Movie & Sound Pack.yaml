@@ -1,0 +1,71 @@
+filename: Star Trek- Judgment Rites - Movie & Sound Pack (Installer) (1994)(Interplay Productions, Inc.) [Adventure, Simulation, Addon].zip
+tdc_id: '15528.0'
+title:
+  box: 'Star Trek: Judgment Rites - Movie & Sound Pack'
+publisher: Interplay Productions, Inc.
+year: '1994'
+genre:
+- Adventure
+- Simulation
+- Addon
+language: English
+date:
+  added: '2021-08-23T14:13:14'
+  last_modified: '2021-08-23T14:13:14'
+type: zip
+installer: true
+commands:
+  play: INSTALL.COM
+files:
+- name: DEARJ.EXE
+  size: 67782
+  date: '1993-12-08T17:14:04'
+  crc: '0xce0bf00c'
+- name: DISK.001
+  size: 7
+  date: '1994-04-19T16:21:16'
+  crc: '0xc6d1e209'
+- name: DISK.002
+  size: 7
+  date: '1994-04-19T16:22:08'
+  crc: '0xc4975c50'
+- name: DISK.003
+  size: 7
+  date: '1994-04-19T16:22:08'
+  crc: '0xc5553667'
+- name: DISK.004
+  size: 7
+  date: '1994-04-19T16:22:08'
+  crc: '0xc01a20e2'
+- name: DISK.005
+  size: 7
+  date: '1994-04-19T16:22:10'
+  crc: '0xc1d84ad5'
+- name: INSTALL.COM
+  size: 22624
+  date: '1994-04-21T16:46:02'
+  crc: '0x8ad93525'
+- name: README.DOC
+  size: 1087
+  date: '1994-05-10T14:48:12'
+  crc: '0x20a7f07b'
+- name: RITES_CP.A01
+  size: 1456386
+  date: '1994-05-10T11:22:30'
+  crc: '0x52bbdea2'
+- name: RITES_CP.A02
+  size: 1456376
+  date: '1994-05-10T11:19:48'
+  crc: '0x7944ce56'
+- name: RITES_CP.A03
+  size: 1456480
+  date: '1994-05-10T11:23:32'
+  crc: '0x7d7f3f35'
+- name: RITES_CP.A04
+  size: 1454111
+  date: '1994-05-10T11:23:42'
+  crc: '0x18848337'
+- name: RITES_CP.ARJ
+  size: 1363709
+  date: '1994-05-10T11:22:18'
+  crc: '0x95f4b64f'

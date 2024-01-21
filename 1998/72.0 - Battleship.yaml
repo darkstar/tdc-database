@@ -1,0 +1,50 @@
+filename: Battleship v2.2 [SW] (1998)(Timothy C. Benner) [Strategy].zip
+tdc_id: '72.0'
+title:
+  screen: Battleship
+publisher: Timothy C. Benner
+year: '1998'
+genre: Strategy
+language: English
+date:
+  added: '2021-02-03T17:42:06'
+  last_modified: '2021-02-03T17:42:06'
+version: '2.2'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: BATTLESH.EXE
+references:
+  dosid: DOS00988
+  exodos: Battleship (1998).zip
+files:
+- name: BATTLESH.DOC
+  size: 8021
+  date: '1998-04-01T22:00:00'
+  crc: '0x30bca8f7'
+- name: BATTLESH.EXE
+  size: 99248
+  date: '1998-04-01T22:00:00'
+  crc: '0x493eb4eb'
+- name: BB_BPIC.DAT
+  size: 21792
+  date: '1998-04-01T22:00:00'
+  crc: '0x580317f7'
+- name: BB_SPIC.DAT
+  size: 9696
+  date: '1998-04-01T22:00:00'
+  crc: '0xadb64411'
+- name: FILE_ID.DIZ
+  size: 275
+  date: '1998-04-01T22:00:00'
+  crc: '0xc4e1e8d7'
+- name: README.DOC
+  size: 2960
+  date: '1998-04-01T22:00:00'
+  crc: '0x09ad3479'
+- name: REGISTER.TXT
+  size: 2232
+  date: '1998-04-01T22:00:00'
+  crc: '0xc5d32c47'

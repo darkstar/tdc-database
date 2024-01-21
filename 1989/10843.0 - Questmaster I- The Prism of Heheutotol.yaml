@@ -1,0 +1,70 @@
+filename: Questmaster I- The Prism of Heheutotol (1989)(Miles Computing, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '10843.0'
+title:
+  box: 'Questmaster I: The Prism of Heheutotol'
+publisher: Miles Computing, Inc.
+year: '1989'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:28:44'
+  last_modified: '2023-12-16T10:44:21'
+type: zip
+commands:
+  play: qm.bat
+  setup: setup.exe
+references:
+  mobygames: https://www.mobygames.com/game/1166/dondra-a-new-beginning/
+  dosid: DOS01827
+  exodos: Questmaster I - The Prism of Heheutotol (1989).zip
+files:
+- name: d0.bga
+  size: 112726
+  date: '1990-04-17T17:51:44'
+  crc: '0x384c06b1'
+- name: d1.bga
+  size: 123637
+  date: '1989-03-04T16:08:26'
+  crc: '0x0214f34a'
+- name: d2.bga
+  size: 237145
+  date: '1989-03-16T09:53:56'
+  crc: '0xda7bb80f'
+- name: d3.bga
+  size: 201394
+  date: '1989-03-05T13:55:22'
+  crc: '0xeb7c8926'
+- name: d4.bga
+  size: 156223
+  date: '1989-04-30T10:34:42'
+  crc: '0x788abd24'
+- name: d5.bga
+  size: 179279
+  date: '1989-03-05T14:07:26'
+  crc: '0xa873f1af'
+- name: d6.bga
+  size: 131646
+  date: '1989-06-27T19:37:32'
+  crc: '0x4fcca78b'
+- name: qm.bat
+  size: 23
+  date: '1999-11-17T13:22:10'
+  crc: '0x5a4aa5d4'
+- name: qm.bga
+  size: 56280
+  date: '1990-05-04T13:46:56'
+  crc: '0x6fbfc817'
+- name: qm1.exe
+  size: 153904
+  date: '1999-11-17T13:10:18'
+  crc: '0x90df557e'
+- name: setup.exe
+  size: 18722
+  date: '1989-05-05T10:32:20'
+  crc: '0x4cb3a75f'
+- name: sound.com
+  size: 13280
+  date: '1989-04-26T17:45:12'
+  crc: '0x9cc79544'

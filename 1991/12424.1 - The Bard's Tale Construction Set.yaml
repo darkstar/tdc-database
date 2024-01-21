@@ -1,0 +1,31 @@
+filename: Bard's Tale Construction Set, The (Installer) (1991)(Interplay Productions, Inc.) [Role-Playing (RPG), Editor].zip
+tdc_id: '12424.1'
+parent_id: '12424.4'
+title:
+  box: The Bard's Tale Construction Set
+publisher: Interplay Productions, Inc.
+year: '1991'
+genre:
+- Role-Playing (RPG)
+- Editor
+language: English
+date:
+  added: '2019-03-01T18:34:56'
+  last_modified: '2019-03-01T18:34:56'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 88579
+  date: '1991-10-29T12:03:02'
+  crc: '0x968ad3bf'
+- name: INTRPLAY.CMP
+  size: 1095075
+  date: '1991-10-29T02:54:54'
+  crc: '0x2f977a07'
+- name: README.BAT
+  size: 457
+  date: '1991-10-29T13:20:56'
+  crc: '0x323df248'

@@ -1,0 +1,76 @@
+filename: Video Poker v0.61 (Fi) [a1] (2000)(Viktor Rootselainen) [Strategy, Cards].zip
+tdc_id: '7425.1'
+title:
+  screen: Video Poker
+publisher: Viktor Rootselainen
+year: '2000'
+genre:
+- Strategy
+- Cards
+language: Finnish
+date:
+  added: '2019-03-02T10:55:08'
+  last_modified: '2019-03-02T10:55:08'
+version: '0.61'
+type: zip
+tags:
+- Alternate: 1
+commands:
+  play: GO.BAT
+files:
+- name: CARDS.PCX
+  size: 92282
+  date: '1998-07-13T20:26:00'
+  crc: '0xfe0af467'
+- name: CARDS2.PCX
+  size: 30985
+  date: '1998-07-13T20:30:28'
+  crc: '0x355a9775'
+- name: GO.BAT
+  size: 35
+  date: '2018-11-28T21:31:10'
+  crc: '0xd35de8b6'
+- name: LCD.FON
+  size: 4098
+  date: '1994-10-25T22:13:44'
+  crc: '0xdb91da91'
+- name: LOGO.PCX
+  size: 16646
+  date: '2000-06-18T01:15:44'
+  crc: '0xa95260b5'
+- name: POKER.BAS
+  size: 25193
+  date: '2000-06-18T17:44:12'
+  crc: '0x7977342b'
+- name: POKER.MAK
+  size: 34
+  date: '2000-06-18T00:51:56'
+  crc: '0x56bae53a'
+- name: POKER.PCX
+  size: 12929
+  date: '1998-07-23T17:01:32'
+  crc: '0xd3350100'
+- name: POKER.TXT
+  size: 848
+  date: '2000-06-18T19:07:24'
+  crc: '0x2842e498'
+- name: POKERMOD.BAS
+  size: 17339
+  date: '2000-06-17T22:18:38'
+  crc: '0xb3286bad'
+- name: QB.EXE
+  size: 278804
+  date: '2016-03-13T01:19:58'
+  crc: '0xb08bc0fe'
+- name: RC4.BAS
+  size: 2266
+  date: '1999-01-16T21:05:12'
+  crc: '0x00e2619f'
+- name: SVGABC.BI
+  size: 9493
+  date: '2000-01-01T16:19:52'
+  crc: '0xbfe3e6b5'
+- name: SVGAQB.QLB
+  size: 114638
+  date: '2018-11-28T21:30:36'
+  crc: '0x88b3df98'

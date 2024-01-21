@@ -1,0 +1,40 @@
+filename: EasyPlay Blackjack v1.00c (Installer) (1993)(EasyPlay Software) [Strategy, Cards].zip
+tdc_id: '13282.0'
+title:
+  screen: EasyPlay Blackjack
+publisher: EasyPlay Software
+year: '1993'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2018-11-12T19:17:14'
+  last_modified: '2018-11-12T19:17:14'
+version: 1.00c
+type: zip
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: EASYPLAY.BJK
+  size: 166871
+  date: '1993-05-31T01:00:00'
+  crc: '0x4eb9ce58'
+- name: FILE_ID.DIZ
+  size: 196
+  date: '1993-06-14T04:37:24'
+  crc: '0x30a3aecc'
+- name: INSTALL.EXE
+  size: 48208
+  date: '1993-05-31T01:00:00'
+  crc: '0x42f71369'
+- name: ORDER.FRM
+  size: 4859
+  date: '1993-05-31T01:00:00'
+  crc: '0x1d60d241'
+- name: README.COM
+  size: 1447
+  date: '1993-05-31T01:00:06'
+  crc: '0x102403b1'

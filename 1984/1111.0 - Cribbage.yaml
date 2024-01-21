@@ -1,0 +1,29 @@
+filename: Cribbage (1984)(L.C Systems) [Strategy, Cards].zip
+tdc_id: '1111.0'
+title:
+  screen: Cribbage
+publisher: L.C Systems
+year: '1984'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:24:02'
+  last_modified: '2019-03-01T18:24:02'
+type: zip
+commands:
+  play: CRIB2.BAT
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: CRIB2.BAS
+  size: 17939
+  date: '1984-03-20T11:34:00'
+  crc: '0xb408e3f0'
+- name: CRIB2.BAT
+  size: 15
+  date: '1980-01-01T01:01:00'
+  crc: '0xe2991405'

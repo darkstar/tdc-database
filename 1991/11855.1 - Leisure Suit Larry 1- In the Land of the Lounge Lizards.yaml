@@ -1,0 +1,173 @@
+filename: Leisure Suit Larry 1- In the Land of the Lounge Lizards v2.0 (1991)(Sierra On-Line, Inc.) [Adventure][!].zip
+tdc_id: '11855.1'
+parent_id: '11855.3'
+title:
+  box: 'Leisure Suit Larry 1: In the Land of the Lounge Lizards'
+publisher: Sierra On-Line, Inc.
+year: '1991'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:36:34'
+  last_modified: '2023-12-03T16:28:21'
+version: '2.0'
+type: zip
+tags:
+- KnownGood
+media: 1.44M
+commands:
+  play: SIERRAH.BAT
+  setup: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/413/leisure-suit-larry-1-in-the-land-of-the-lounge-lizards/
+  dosid: DOS03122
+  exodos: Leisure Suit Larry 1 - Land of the Lounge Lizards VGA (1991).zip
+files:
+- name: ADL.DRV
+  size: 8070
+  date: '1991-06-25T11:31:56'
+  crc: '0xd44245eb'
+- name: CMS.DRV
+  size: 3741
+  date: '1991-06-13T15:30:08'
+  crc: '0x534b8408'
+- name: IBMKBD.DRV
+  size: 537
+  date: '1991-02-27T13:52:50'
+  crc: '0x63ed6bcc'
+- name: IBMPS1.DRV
+  size: 4364
+  date: '1991-06-13T15:30:28'
+  crc: '0xbfcb766f'
+- name: INSTALL.BAT
+  size: 96
+  date: '1991-02-11T14:32:44'
+  crc: '0x88fb8cb7'
+- name: INSTALL.BA_
+  size: 43
+  date: '1990-12-27T22:06:10'
+  crc: '0x8cb0fe4d'
+- name: INSTALL.EXE
+  size: 50655
+  date: '1991-06-25T15:26:40'
+  crc: '0x00ec510f'
+- name: INSTALL.HLP
+  size: 14117
+  date: '1991-06-25T15:59:22'
+  crc: '0x455badce'
+- name: INSTALL.MSG
+  size: 216
+  date: '1990-12-27T22:05:48'
+  crc: '0x90bebe74'
+- name: INSTALL.SCR
+  size: 2439
+  date: '1991-06-25T11:07:30'
+  crc: '0x7ba69d20'
+- name: INSTALL.TXT
+  size: 3971
+  date: '1991-05-23T11:26:20'
+  crc: '0x7d94273b'
+- name: INTERP.TXT
+  size: 2365
+  date: '1991-06-26T10:14:24'
+  crc: '0x5e5fad79'
+- name: JOYSTICK.DRV
+  size: 607
+  date: '1990-10-12T17:49:20'
+  crc: '0xbaeddd01'
+- name: LSL1.BAT
+  size: 29
+  date: '1991-06-25T15:36:14'
+  crc: '0x8403a73b'
+- name: LSL1H.BAT
+  size: 26
+  date: '1991-06-25T15:36:14'
+  crc: '0xeb9f470c'
+- name: LSL1RS.BAT
+  size: 33
+  date: '1991-05-30T12:07:38'
+  crc: '0x068909aa'
+- name: MT32.DRV
+  size: 1976
+  date: '1991-06-25T14:32:40'
+  crc: '0x903dd811'
+- name: MTBLAST.DRV
+  size: 3670
+  date: '1991-06-14T18:31:44'
+  crc: '0x31ff8dbb'
+- name: PROAUDIO.DRV
+  size: 11942
+  date: '1991-06-25T16:08:12'
+  crc: '0x9b5ef36d'
+- name: README.1
+  size: 843
+  date: '1991-06-25T16:53:54'
+  crc: '0x4d072a52'
+- name: README.2
+  size: 544
+  date: '1991-06-26T00:25:20'
+  crc: '0xea5915da'
+- name: README.BAT
+  size: 57
+  date: '1991-06-25T16:45:48'
+  crc: '0xa9349e23'
+- name: RESOURCE.000
+  size: 918242
+  date: '1991-06-25T15:38:52'
+  crc: '0x4a0463ae'
+- name: RESOURCE.001
+  size: 1114688
+  date: '1991-06-25T15:41:42'
+  crc: '0x8fa91a33'
+- name: RESOURCE.002
+  size: 1078443
+  date: '1991-06-25T15:45:08'
+  crc: '0xfba7a44c'
+- name: RESOURCE.CFG
+  size: 35
+  date: '1991-06-21T18:32:56'
+  crc: '0x4c9d4a3c'
+- name: RESOURCE.MAP
+  size: 3198
+  date: '1991-06-25T15:45:08'
+  crc: '0x6e476249'
+- name: SCIDHUV.EXE
+  size: 108769
+  date: '1991-06-25T15:21:20'
+  crc: '0x4468c198'
+- name: SIERRA.BAT
+  size: 22
+  date: '1991-06-25T15:36:14'
+  crc: '0x10180600'
+- name: SIERRAH.BAT
+  size: 19
+  date: '1991-06-25T15:36:14'
+  crc: '0xadfbdeb3'
+- name: SNDBLAST.DRV
+  size: 9784
+  date: '1991-06-25T11:32:28'
+  crc: '0x019a7326'
+- name: STD.DRV
+  size: 1461
+  date: '1991-06-13T15:29:32'
+  crc: '0x11b619e7'
+- name: TANDY3V.DRV
+  size: 3950
+  date: '1991-06-13T15:30:18'
+  crc: '0xcecb955a'
+- name: TANDY3VD.DRV
+  size: 4498
+  date: '1991-06-13T15:30:22'
+  crc: '0x6814b17f'
+- name: VERSION
+  size: 6
+  date: '1991-06-26T00:26:18'
+  crc: '0x3260df34'
+- name: VGA320.DRV
+  size: 4307
+  date: '1991-05-06T11:21:58'
+  crc: '0x1e2f4ed8'
+- name: VGA320BW.DRV
+  size: 4369
+  date: '1991-05-06T11:21:52'
+  crc: '0x68f8461e'

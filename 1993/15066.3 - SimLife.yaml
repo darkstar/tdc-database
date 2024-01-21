@@ -1,0 +1,43 @@
+filename: SimLife v1.03 (Installer) (1993)(Maxis Software Inc.) [Simulation].zip
+tdc_id: '15066.3'
+title:
+  box: SimLife
+publisher: Maxis Software Inc.
+year: '1993'
+genre: Simulation
+language: English
+date:
+  added: '2020-06-16T14:01:58'
+  last_modified: '2020-06-16T14:01:58'
+version: '1.03'
+type: zip
+installer: true
+files:
+- name: DISKDAT.0
+  size: 580000
+  date: '1993-01-19T10:58:58'
+  crc: '0x8fe5e750'
+- name: DISKDAT.1
+  size: 699767
+  date: '1993-01-19T10:59:14'
+  crc: '0xb5e65dbf'
+- name: DISKDAT.LST
+  size: 3948
+  date: '1993-01-19T10:59:14'
+  crc: '0x45d15573'
+- name: GAMES.TXT
+  size: 6562
+  date: '1993-03-16T12:26:20'
+  crc: '0x46de07f6'
+- name: INFO.EXE
+  size: 10601
+  date: '1993-01-19T10:56:30'
+  crc: '0x57e6d335'
+- name: INSTALL.EXE
+  size: 104349
+  date: '1993-01-19T10:56:30'
+  crc: '0xfd74c682'
+- name: README.TXT
+  size: 12717
+  date: '1993-03-16T12:28:54'
+  crc: '0x4d3374bb'

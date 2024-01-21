@@ -1,0 +1,32 @@
+filename: T2- The Arcade Game (Installer) [h1] (1993)(Virgin Games, Inc.) [Action].zip
+tdc_id: '16414.2'
+title:
+  box: T2- The Arcade Game
+publisher: Virgin Games, Inc.
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T21:09:34'
+  last_modified: '2019-03-01T21:09:34'
+type: zip
+tags:
+- Hack: 1
+installer: true
+files:
+- name: INSTALL.EXE
+  size: 14195
+  date: '1993-11-28T21:21:18'
+  crc: '0x1e687aa2'
+- name: LZH.EXE
+  size: 43552
+  date: '1993-11-03T18:04:48'
+  crc: '0xdd6d684c'
+- name: README.TXT
+  size: 1408
+  date: '1993-11-16T11:06:32'
+  crc: '0xd05b849d'
+- name: _T2.EXE
+  size: 639368
+  date: '1993-11-28T21:20:40'
+  crc: '0xc7f182f2'

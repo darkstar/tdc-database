@@ -1,0 +1,43 @@
+filename: Master (1990)(Thunderhead Software, Inc.) [Strategy].zip
+tdc_id: '2009.0'
+title:
+  screen: Master
+publisher: Thunderhead Software, Inc.
+year: '1990'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:33:12'
+  last_modified: '2019-03-01T18:33:12'
+type: zip
+commands:
+  play: MASTER.EXE
+files:
+- name: CATALOG.BOX
+  size: 42322
+  date: '1990-09-09T13:30:06'
+  crc: '0x8e47e072'
+- name: CATALOG.TXT
+  size: 42322
+  date: '1990-09-09T13:30:10'
+  crc: '0x5a59610f'
+- name: MASTER.C
+  size: 6432
+  date: '1990-09-08T15:35:42'
+  crc: '0x52abc6ff'
+- name: MASTER.EXE
+  size: 16592
+  date: '1990-09-08T15:36:02'
+  crc: '0xad937479'
+- name: NORMAL.TXT
+  size: 4094
+  date: '1990-09-08T16:14:10'
+  crc: '0xb7cc32e6'
+- name: README.BOX
+  size: 11042
+  date: '1990-09-08T16:15:20'
+  crc: '0xb2bb5a09'
+- name: README.TXT
+  size: 11042
+  date: '1990-09-08T16:15:24'
+  crc: '0xe795fe1c'

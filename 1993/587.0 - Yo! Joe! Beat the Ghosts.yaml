@@ -1,0 +1,53 @@
+filename: Yo! Joe! Beat the Ghosts (Installer) (Fr)(De)(En) [h1] (1993)(Hudson Soft Company, Ltd.) [Action].zip
+tdc_id: '587.0'
+title:
+  box: Yo! Joe! Beat the Ghosts
+publisher: Hudson Soft Company, Ltd.
+year: '1993'
+genre: Action
+language:
+- English
+- French
+- German
+date:
+  added: '2019-03-01T21:12:46'
+  last_modified: '2019-03-01T21:12:46'
+type: zip
+tags:
+- Hack: 1
+installer: true
+commands:
+  play: INSTALL.BAT
+files:
+- name: DATA\FILE1.JOE
+  size: 836611
+  date: '1993-09-11T13:56:40'
+  crc: '0xc2b0686f'
+- name: DATA\FILE2.JOE
+  size: 505740
+  date: '1993-09-11T13:55:30'
+  crc: '0xfabeb796'
+- name: DATA\SOUND.JOE
+  size: 214824
+  date: '1993-09-11T13:57:22'
+  crc: '0x8c7a0fd1'
+- name: DATA\UNPACK.EXE
+  size: 20686
+  date: '1992-03-15T02:01:00'
+  crc: '0x3d2453e6'
+- name: DISK1
+  size: 2
+  date: '1993-08-25T19:05:56'
+  crc: '0x14a285ac'
+- name: DISK2
+  size: 2
+  date: '1993-08-25T19:07:04'
+  crc: '0x14a285ac'
+- name: INST2.$$$
+  size: 4570
+  date: '1993-09-11T14:16:30'
+  crc: '0xd8435c41'
+- name: INSTALL.BAT
+  size: 3183
+  date: '1993-09-11T14:17:12'
+  crc: '0x41721933'

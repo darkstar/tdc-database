@@ -1,0 +1,31 @@
+filename: Harpoon - US Naval Institute Battleset (Installer) (1991)(Three-Sixty Pacific, Inc.) [Simulation, Strategy, Addon].zip
+tdc_id: '11013.0'
+title:
+  box: Harpoon - US Naval Institute Battleset
+publisher: Three-Sixty Pacific, Inc.
+year: '1991'
+genre:
+- Simulation
+- Strategy
+- Addon
+language: English
+date:
+  added: '2019-03-01T18:36:14'
+  last_modified: '2019-03-01T18:36:14'
+type: zip
+installer: true
+commands:
+  play: MAKEUSNI.EXE
+files:
+- name: MAKEUSNI.EXE
+  size: 7840
+  date: '1991-09-11T07:01:24'
+  crc: '0xca4b2108'
+- name: READ.ME
+  size: 122
+  date: '1992-11-18T16:54:28'
+  crc: '0xebd9427c'
+- name: USNI.RES
+  size: 152336
+  date: '1991-09-17T04:42:22'
+  crc: '0xf8788b2e'

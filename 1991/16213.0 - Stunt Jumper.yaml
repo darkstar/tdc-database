@@ -1,0 +1,47 @@
+filename: Stunt Jumper [SW] (1991)(Scott Elder) [Action, Strategy].zip
+tdc_id: '16213.0'
+title:
+  screen: Stunt Jumper
+publisher: Scott Elder
+year: '1991'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:39:34'
+  last_modified: '2019-03-01T18:39:34'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: JUMP.EXE
+references:
+  dosid: DOS06254
+  exodos: Stunt Jumper (1991).zip
+files:
+- name: BIKEJUMP.PAK
+  size: 2520
+  date: '1991-04-02T05:09:54'
+  crc: '0x2bd3e781'
+- name: JUMP.EXE
+  size: 63126
+  date: '1991-05-11T06:20:48'
+  crc: '0xabec7443'
+- name: MOTO1.PAK
+  size: 8285
+  date: '1991-04-02T05:18:12'
+  crc: '0xf254ebf3'
+- name: MOTOINT.PAK
+  size: 12132
+  date: '1991-04-07T18:21:46'
+  crc: '0xefa76bde'
+- name: MOTOTOP.PAK
+  size: 1462
+  date: '1991-04-02T05:21:28'
+  crc: '0xca0ad190'
+- name: ROAD.PAK
+  size: 7697
+  date: '1991-04-02T05:20:32'
+  crc: '0x9b6f2ca7'

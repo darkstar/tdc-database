@@ -1,0 +1,30 @@
+filename: Bob Saget Killer 2000 (1997)(M-K Productions) [Action].zip
+tdc_id: '3868.0'
+title:
+  screen: Bob Saget Killer 2000
+publisher: M-K Productions
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:25:20'
+  last_modified: '2019-03-02T10:25:20'
+type: zip
+commands:
+  play: KILLBOB.EXE
+references:
+  dosid: DOS01124
+  exodos: Bob Saget Killer 2000 (1997).zip
+files:
+- name: KILLBOB.BIN
+  size: 276600
+  date: '1997-08-16T17:53:58'
+  crc: '0x410c1c32'
+- name: KILLBOB.EXE
+  size: 83426
+  date: '2000-09-20T20:08:26'
+  crc: '0xe1f42bc1'
+- name: KILLBOB.TXT
+  size: 4776
+  date: '2000-03-23T22:42:02'
+  crc: '0x92ac16cc'

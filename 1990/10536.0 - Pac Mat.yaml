@@ -1,0 +1,32 @@
+filename: Pac Mat (Es) (1990)(Ediciones Manali, S.A.) [Educational, Action].zip
+tdc_id: '10536.0'
+title:
+  screen: Pac Mat
+publisher: Ediciones Manali, S.A.
+year: '1990'
+genre:
+- Educational
+- Action
+language: Spanish
+date:
+  added: '2019-03-01T18:33:28'
+  last_modified: '2019-03-01T18:33:28'
+type: zip
+commands:
+  play: PACMAT.EXE
+references:
+  dosid: DOS15669
+  exodos: PacMat (1990).zip
+files:
+- name: PACMAT.BIN
+  size: 9758
+  date: '1980-01-01T00:20:52'
+  crc: '0x88db8017'
+- name: PACMAT.EXE
+  size: 45167
+  date: '1980-01-01T00:50:12'
+  crc: '0x197a1215'
+- name: TECLAINT.BIN
+  size: 98
+  date: '1980-01-01T00:02:44'
+  crc: '0x53a1e02e'

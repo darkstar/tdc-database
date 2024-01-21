@@ -1,0 +1,84 @@
+filename: Crusade, The (Installer) (1991)(Inland International Software) [Adventure].zip
+tdc_id: '12255.1'
+title:
+  screen: The Crusade
+publisher: Inland International Software
+year: '1991'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T18:35:28'
+  last_modified: '2019-03-01T18:35:28'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DATA1
+  size: 136825
+  date: '1992-01-15T23:30:20'
+  crc: '0x32f1be5e'
+- name: DATA2
+  size: 243036
+  date: '1992-01-15T10:52:48'
+  crc: '0x15f5aa8f'
+- name: DATA3
+  size: 157300
+  date: '1992-01-07T12:34:10'
+  crc: '0x8cc07397'
+- name: FILE138
+  size: 2104
+  date: '1991-11-14T01:23:28'
+  crc: '0xdfdf9952'
+- name: FILE139
+  size: 1290
+  date: '1991-11-14T01:23:30'
+  crc: '0xa9cc73b3'
+- name: FILE140
+  size: 9164
+  date: '1991-11-14T01:24:08'
+  crc: '0xdc553f09'
+- name: FILE141
+  size: 1424
+  date: '1991-11-14T01:24:08'
+  crc: '0x71c003bf'
+- name: FILE142
+  size: 7038
+  date: '1991-11-14T01:24:10'
+  crc: '0x12e4ca4f'
+- name: FILE143
+  size: 4220
+  date: '1991-11-14T01:23:04'
+  crc: '0x697c49f0'
+- name: FILE144
+  size: 756
+  date: '1991-11-14T01:23:04'
+  crc: '0x68f461dd'
+- name: FILE145
+  size: 3570
+  date: '1991-11-14T01:23:06'
+  crc: '0xc1bd35cd'
+- name: FILE146
+  size: 4960
+  date: '1991-11-14T01:23:06'
+  crc: '0x42b9fe85'
+- name: FILE147
+  size: 4874
+  date: '1991-11-14T01:23:08'
+  crc: '0x2da70ab5'
+- name: FILE148
+  size: 1994
+  date: '1991-11-14T01:23:08'
+  crc: '0x1ea15111'
+- name: FILE149
+  size: 6734
+  date: '1991-11-14T01:23:10'
+  crc: '0xed009475'
+- name: FILE150
+  size: 1790
+  date: '1991-11-14T01:23:12'
+  crc: '0x5efeb528'
+- name: INSTALL.EXE
+  size: 18384
+  date: '1992-01-15T10:46:24'
+  crc: '0xc32b12d8'

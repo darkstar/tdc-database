@@ -1,0 +1,32 @@
+filename: Alien Bash (2003)(Keith Jennings) [Action].zip
+tdc_id: '8241.0'
+title:
+  screen: Alien Bash
+publisher: Keith Jennings
+year: '2003'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:56:20'
+  last_modified: '2019-03-02T10:56:20'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: ABASH.BAS
+  size: 28089
+  date: '2018-11-29T18:50:54'
+  crc: '0xe46aba57'
+- name: ABASH.SRC
+  size: 28301
+  date: '2018-03-10T15:14:36'
+  crc: '0x67094d26'
+- name: GO.BAT
+  size: 25
+  date: '2018-11-29T18:02:48'
+  crc: '0xcbc8b67b'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

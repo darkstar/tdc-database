@@ -1,0 +1,48 @@
+filename: Defender (demo) (1993)(Softlair) [Action].zip
+tdc_id: '13037.0'
+title:
+  screen: Defender
+  qualifier: demo
+publisher: Softlair
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T19:02:18'
+  last_modified: '2019-03-01T19:02:18'
+type: zip
+demo: true
+commands:
+  play: DEFENDER.COM
+references:
+  dosid: DOS07376
+  exodos: Defender (1992).zip
+files:
+- name: DEFENDER.COM
+  size: 60776
+  date: '1993-04-12T09:18:58'
+  crc: '0xea603250'
+- name: DEFENDER.DAT
+  size: 64256
+  date: '1993-04-12T09:19:16'
+  crc: '0x1d89516d'
+- name: DEFENDER.DOC
+  size: 2175
+  date: '1993-03-07T11:36:36'
+  crc: '0x8debc9b5'
+- name: DEFENDER.GRX
+  size: 57600
+  date: '1993-02-05T23:21:14'
+  crc: '0xe91933fb'
+- name: DEFENDER.SND
+  size: 192512
+  date: '1992-12-26T19:40:44'
+  crc: '0x1fd96b63'
+- name: DEFENDER.TBL
+  size: 512
+  date: '1992-10-27T12:40:52'
+  crc: '0x31612154'
+- name: DEFENDER.TXT
+  size: 549
+  date: '1993-04-13T17:36:52'
+  crc: '0xa26e1a8d'

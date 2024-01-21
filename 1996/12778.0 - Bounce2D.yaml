@@ -1,0 +1,48 @@
+filename: Bounce2D v0.01 (Cs) (1996)(Eriador Games) [Action].zip
+tdc_id: '12778.0'
+title:
+  screen: Bounce2D
+publisher: Eriador Games
+year: '1996'
+genre: Action
+language: Czech
+date:
+  added: '2019-03-02T10:00:10'
+  last_modified: '2019-03-02T10:00:10'
+version: '0.01'
+type: zip
+commands:
+  play: BOUNCE2D.EXE
+files:
+- name: BALL.BAL
+  size: 16
+  date: '1996-06-01T18:16:02'
+  crc: '0x1ac1378b'
+- name: BOUNCE2D.EXE
+  size: 39072
+  date: '1996-06-05T11:39:58'
+  crc: '0xd99a22e2'
+- name: PADBG.EPF
+  size: 10839
+  date: '1996-06-02T15:13:54'
+  crc: '0xa20513fc'
+- name: PADDLE.BAL
+  size: 480
+  date: '1996-06-02T09:34:28'
+  crc: '0x56adc8da'
+- name: SBOLD.FNT
+  size: 1520
+  date: '1996-03-15T22:03:18'
+  crc: '0xef52c1d6'
+- name: SMALL.FNT
+  size: 1520
+  date: '1996-03-14T18:56:32'
+  crc: '0x71106769'
+- name: SPEED.BAL
+  size: 2160
+  date: '1996-06-02T09:32:52'
+  crc: '0xe543514d'
+- name: STATIC.BAL
+  size: 720
+  date: '1996-06-02T09:30:52'
+  crc: '0x2daa1a14'

@@ -1,0 +1,28 @@
+filename: Rapid Reflex (1988)(COMPUTE! Publications, Inc.) [Action].zip
+tdc_id: '14736.0'
+title:
+  screen: Rapid Reflex
+publisher: COMPUTE! Publications, Inc.
+year: '1988'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:26:42'
+  last_modified: '2019-03-01T18:26:42'
+type: zip
+media: Type-In
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 21
+  date: '2019-01-13T00:35:04'
+  crc: '0xf6ec4c28'
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1988-10-05T02:00:08'
+  crc: '0x2a44af39'
+- name: RAPID.BAS
+  size: 3246
+  date: '1990-12-18T23:24:22'
+  crc: '0x784e0683'

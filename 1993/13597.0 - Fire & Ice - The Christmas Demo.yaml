@@ -1,0 +1,28 @@
+filename: Fire & Ice - The Christmas Demo (1993)(Renegade Software) [Action].zip
+tdc_id: '13597.0'
+title:
+  screen: Fire & Ice - The Christmas Demo
+publisher: Renegade Software
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T19:08:36'
+  last_modified: '2019-03-01T19:08:36'
+type: zip
+demo: true
+commands:
+  play: FIREXMAS.EXE
+files:
+- name: FIRE&ICE.CFG
+  size: 185
+  date: '1995-08-29T22:43:10'
+  crc: '0xff60a38f'
+- name: FIREXMAS.EXE
+  size: 374397
+  date: '1993-11-10T15:44:26'
+  crc: '0x864cfdb5'
+- name: READTHIS.1ST
+  size: 16565
+  date: '1993-11-11T02:56:38'
+  crc: '0xcbf48885'

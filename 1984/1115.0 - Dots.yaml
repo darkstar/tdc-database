@@ -1,0 +1,28 @@
+filename: Dots (1984)(Lynn Robert Holtzman) [Strategy].zip
+tdc_id: '1115.0'
+title:
+  screen: Dots
+publisher: Lynn Robert Holtzman
+year: '1984'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:24:04'
+  last_modified: '2019-03-01T18:24:04'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: DOTSGAME.BAS
+  size: 10240
+  date: '1986-06-11T23:39:52'
+  crc: '0x0964f0ed'
+- name: GO.BAT
+  size: 24
+  date: '2019-01-12T20:54:26'
+  crc: '0xbbd51b76'
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1988-10-05T02:00:08'
+  crc: '0x2a44af39'

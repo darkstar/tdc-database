@@ -1,0 +1,42 @@
+filename: Spellcasting 301- Spring Break (Installer) (1992)(Legend Entertainment Company) [Adventure, Interactive Fiction].zip
+tdc_id: '15376.1'
+title:
+  box: 'Spellcasting 301: Spring Break'
+publisher: Legend Entertainment Company
+year: '1992'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:51:22'
+  last_modified: '2019-03-01T18:51:22'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 57093
+  date: '1992-08-26T18:29:12'
+  crc: '0xa5a6cfc7'
+- name: INSTALL.TAG
+  size: 51
+  date: '1992-08-25T15:01:40'
+  crc: '0x58d3dd95'
+- name: S301_I11.LEG
+  size: 1156095
+  date: '1992-08-25T14:57:56'
+  crc: '0x9c29bcf3'
+- name: S301_I12.LEG
+  size: 1213885
+  date: '1992-08-25T14:58:20'
+  crc: '0x7b4bab68'
+- name: S301_I13.LEG
+  size: 1213855
+  date: '1992-08-25T14:59:42'
+  crc: '0x29461d30'
+- name: S301_I14.LEG
+  size: 1190331
+  date: '1992-08-25T15:01:38'
+  crc: '0x923e3970'

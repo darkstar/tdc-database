@@ -1,0 +1,30 @@
+filename: Putty v0.0 (Hu) (1989)(Tamas Hodaszi) [Strategy, Action].zip
+tdc_id: '1785.0'
+title:
+  screen: Putty
+publisher: Tamas Hodaszi
+year: '1989'
+genre:
+- Strategy
+- Action
+language: Hungarian
+date:
+  added: '2020-09-06T23:34:14'
+  last_modified: '2020-09-06T23:34:14'
+version: '0.0'
+type: zip
+commands:
+  play: PUTTY.EXE
+files:
+- name: BASRUN.EXE
+  size: 31744
+  date: '1982-05-07T15:00:04'
+  crc: '0x86bdc5f3'
+- name: PUTTY.EXE
+  size: 21120
+  date: '1980-01-01T03:09:00'
+  crc: '0xc0530bce'
+- name: PUTTY.SCR
+  size: 384
+  date: '2001-12-15T17:15:54'
+  crc: '0x9ba54fe5'

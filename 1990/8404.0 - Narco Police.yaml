@@ -1,0 +1,80 @@
+filename: Narco Police (1990)(Dinamic Software) [Action, Strategy].zip
+tdc_id: '8404.0'
+title:
+  box: Narco Police
+publisher: Dinamic Software
+year: '1990'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:33:20'
+  last_modified: '2019-03-01T18:33:20'
+type: zip
+commands:
+  play: Npolice.exe
+references:
+  dosid: DOS03365
+  exodos: Narco Police (1990).zip
+files:
+- name: DISK1\DIBUJOS.BIN
+  size: 26928
+  date: '1993-06-01T00:00:00'
+  crc: '0xaf0393f3'
+- name: DISK1\ISLADIB.BIN
+  size: 3872
+  date: '1993-06-01T00:00:00'
+  crc: '0x6f0b1f35'
+- name: DISK1\ISLAPAN.PAN
+  size: 32080
+  date: '1993-06-01T00:00:00'
+  crc: '0xb70b223b'
+- name: DISK1\MENUPAN.PAN
+  size: 32080
+  date: '1993-06-01T00:00:00'
+  crc: '0xe9b85a6d'
+- name: DISK1\PRESENTA.PAN
+  size: 32080
+  date: '1993-06-01T00:00:00'
+  crc: '0x578668b5'
+- name: DISK1\SELEDIB.BIN
+  size: 80744
+  date: '1993-06-01T00:00:00'
+  crc: '0xf517fa75'
+- name: DISK1\SELEPAN.PAN
+  size: 32080
+  date: '1993-06-01T00:00:00'
+  crc: '0x9b7c8c19'
+- name: DISK2\CHOPPER.PAN
+  size: 32080
+  date: '1993-06-01T00:00:00'
+  crc: '0x82ece32c'
+- name: DISK2\CONGRA.PAN
+  size: 32080
+  date: '1993-06-01T00:00:00'
+  crc: '0xcfb15e36'
+- name: DISK2\ENEGRAF1.BIN
+  size: 71848
+  date: '1993-06-01T00:00:00'
+  crc: '0x7f6086e5'
+- name: DISK2\ENEGRAF2.BIN
+  size: 72488
+  date: '1993-06-01T00:00:00'
+  crc: '0x539e9f06'
+- name: DISK2\SOLGRAF.BIN
+  size: 81104
+  date: '1993-06-01T00:00:00'
+  crc: '0xd4217d9f'
+- name: DISK2\TUNGRAF1.BIN
+  size: 32144
+  date: '1993-06-01T00:00:00'
+  crc: '0xf2236e41'
+- name: DISK2\TUNGRAF2.BIN
+  size: 32144
+  date: '1993-06-01T00:00:00'
+  crc: '0x56ecfb63'
+- name: Npolice.exe
+  size: 66000
+  date: '1993-06-22T15:33:40'
+  crc: '0xf012ba7f'

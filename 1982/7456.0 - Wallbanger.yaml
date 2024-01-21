@@ -1,0 +1,30 @@
+filename: Wallbanger (1982)(Tom Springall) [Action].zip
+tdc_id: '7456.0'
+title:
+  screen: Wallbanger
+publisher: Tom Springall
+year: '1982'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:23:06'
+  last_modified: '2019-03-01T18:23:06'
+type: zip
+commands:
+  play: WALLBANG.BAT
+references:
+  dosid: DOS07221
+  exodos: Wallbanger (1982).zip
+files:
+- name: BASICA.COM
+  size: 59570
+  date: '1983-10-20T11:00:00'
+  crc: '0x92293842'
+- name: WALLBANG.BAS
+  size: 5120
+  date: '1983-04-16T12:00:00'
+  crc: '0x73719976'
+- name: WALLBANG.BAT
+  size: 18
+  date: '1980-01-01T00:00:00'
+  crc: '0xe787426f'

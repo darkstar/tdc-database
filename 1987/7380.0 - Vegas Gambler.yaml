@@ -1,0 +1,93 @@
+filename: Vegas Gambler [h1] (1987)(Logical Design Works, Inc.) [Simulation].zip
+tdc_id: '7380.0'
+title:
+  box: Vegas Gambler
+publisher: Logical Design Works, Inc.
+year: '1987'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:25:48'
+  last_modified: '2019-03-01T18:25:48'
+type: zip
+tags:
+- Hack: 1
+commands:
+  play: ARISOX.EXE
+files:
+- name: ARISOX.EXE
+  size: 67293
+  date: '1990-08-10T00:12:42'
+  crc: '0x3e8136f8'
+- name: B.CMP
+  size: 18348
+  date: '1988-04-09T16:00:16'
+  crc: '0x944f32d5'
+- name: C.CMP
+  size: 24344
+  date: '1988-04-09T16:00:16'
+  crc: '0x12fb0173'
+- name: CV.CMP
+  size: 28916
+  date: '1988-04-09T16:00:16'
+  crc: '0xeaff1753'
+- name: F.CMP
+  size: 20256
+  date: '1988-04-09T16:00:16'
+  crc: '0x7aa2f0cc'
+- name: LD1
+  size: 2240
+  date: '1988-04-09T16:00:16'
+  crc: '0x96a55ae3'
+- name: LD2
+  size: 1120
+  date: '1988-04-09T16:00:16'
+  crc: '0xdcbc9a14'
+- name: LG1
+  size: 16000
+  date: '1988-04-09T16:00:16'
+  crc: '0x926a900b'
+- name: LG2
+  size: 8000
+  date: '1988-04-09T16:00:16'
+  crc: '0x0ae4cfb4'
+- name: M.CMP
+  size: 18700
+  date: '1988-04-09T16:00:16'
+  crc: '0xe316d58a'
+- name: NM.CMP
+  size: 21152
+  date: '1988-04-09T16:00:16'
+  crc: '0x7f239a68'
+- name: P.CMP
+  size: 19880
+  date: '1988-04-09T16:00:16'
+  crc: '0x29e16d4d'
+- name: R.CMP
+  size: 22352
+  date: '1988-04-09T16:00:16'
+  crc: '0x5423efe4'
+- name: R1.CMP
+  size: 21260
+  date: '1988-04-09T16:00:16'
+  crc: '0x8a82cfe0'
+- name: S.CMP
+  size: 23220
+  date: '1988-04-09T16:00:16'
+  crc: '0xf18fabee'
+- name: SV.GAM
+  size: 8
+  date: '1980-01-01T01:04:00'
+  crc: '0x85a1e672'
+- name: T.CMP
+  size: 20120
+  date: '1988-04-09T16:00:16'
+  crc: '0x8d7a94f6'
+- name: VM
+  size: 408
+  date: '1988-04-09T16:00:16'
+  crc: '0x54c859d0'
+- name: VNOM
+  size: 156
+  date: '1988-04-09T16:00:16'
+  crc: '0x36d3974e'

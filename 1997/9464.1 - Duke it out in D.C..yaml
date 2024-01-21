@@ -1,0 +1,62 @@
+filename: Duke it out in D.C. v1.01 (Installer) (1997)(WizardWorks Group, Inc.) [Action, Addon].zip
+tdc_id: '9464.1'
+title:
+  box: Duke it out in D.C.
+publisher: WizardWorks Group, Inc.
+year: '1997'
+genre:
+- Action
+- Addon
+language: English
+date:
+  added: '2019-03-21T16:40:54'
+  last_modified: '2019-03-21T16:40:54'
+version: '1.01'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 30368
+  date: '1998-01-21T11:48:12'
+  crc: '0x46433888'
+- name: dcintro.txt
+  size: 3142
+  date: '1997-02-23T11:14:40'
+  crc: '0x3633968a'
+- name: dukedc\
+  size: 0
+  date: '2005-07-14T17:35:30'
+- name: dukedc\GAMER.EXE
+  size: 35520
+  date: '1998-01-09T07:31:26'
+  crc: '0x7feeea64'
+- name: dukedc\dcintro.txt
+  size: 3140
+  date: '1997-02-21T13:16:00'
+  crc: '0x94091e35'
+- name: dukedc\dukedc13.ssi
+  size: 7926624
+  date: '1997-02-21T13:55:30'
+  crc: '0xa9242158'
+- name: dukedc\dukedcpp.ssi
+  size: 8225517
+  date: '1997-02-21T13:57:08'
+  crc: '0xb79d997f'
+- name: dukedc\gamer.ini
+  size: 1642
+  date: '1997-10-16T09:46:16'
+  crc: '0xe795a974'
+- name: dukedc\readme.txt
+  size: 11301
+  date: '1997-10-16T12:37:46'
+  crc: '0xbf478713'
+- name: install.pif
+  size: 967
+  date: '2004-07-25T08:42:00'
+  crc: '0xfafad3bb'
+- name: readme.txt
+  size: 16684
+  date: '1997-10-16T09:52:32'
+  crc: '0x54bfb4be'

@@ -1,0 +1,30 @@
+filename: M-AZN Blackjack (2005)(M-AZN) [Strategy, Cards].zip
+tdc_id: '894.0'
+title:
+  screen: M-AZN Blackjack
+publisher: M-AZN
+year: '2005'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-02T10:57:06'
+  last_modified: '2019-03-02T10:57:06'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: BJ.BAS
+  size: 8642
+  date: '2018-02-17T20:53:56'
+  crc: '0x5853956b'
+- name: GO.BAT
+  size: 22
+  date: '2018-12-01T18:13:28'
+  crc: '0x5486dcff'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

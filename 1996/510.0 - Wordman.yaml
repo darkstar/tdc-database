@@ -1,0 +1,30 @@
+filename: Wordman (1996)(Andreas Normann) [Educational, Puzzle].zip
+tdc_id: '510.0'
+title:
+  screen: Wordman
+publisher: Andreas Normann
+year: '1996'
+genre:
+- Educational
+- Puzzle
+language: English
+date:
+  added: '2019-03-02T10:23:30'
+  last_modified: '2019-03-02T10:23:30'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 27
+  date: '2018-11-19T23:01:20'
+  crc: '0xf455833c'
+- name: QBASIC.EXE
+  size: 254799
+  date: '1991-04-09T00:28:02'
+  crc: '0x19f6ed75'
+- name: WORDMAN.BAS
+  size: 11629
+  date: '1997-08-13T22:07:50'
+  crc: '0xfbd7c2c5'

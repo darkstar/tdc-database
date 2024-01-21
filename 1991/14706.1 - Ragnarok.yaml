@@ -1,0 +1,37 @@
+filename: Ragnarok v1.4 (Installer) (1991)(Norsehelm Productions) [Role-Playing (RPG)].zip
+tdc_id: '14706.1'
+title:
+  box: Ragnarok
+publisher: Norsehelm Productions
+year: '1991'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2019-03-01T18:37:30'
+  last_modified: '2019-03-01T18:37:30'
+version: '1.4'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 17440
+  date: '1992-06-03T08:27:10'
+  crc: '0xc91712e3'
+- name: RAGNAROK.A
+  size: 311594
+  date: '1992-06-03T08:51:08'
+  crc: '0xf37cffc0'
+- name: RAGNAROK.B
+  size: 360526
+  date: '1992-07-09T13:25:44'
+  crc: '0xd77c8607'
+- name: RAGNAROK.C
+  size: 341611
+  date: '1992-06-03T08:36:28'
+  crc: '0xe269be22'
+- name: RAGNAROK.D
+  size: 356326
+  date: '1992-07-09T13:20:08'
+  crc: '0x8d50f363'

@@ -1,0 +1,69 @@
+filename: Rectong (2005)(Mike Chambers) [Action].zip
+tdc_id: '14796.0'
+title:
+  screen: Rectong
+publisher: Mike Chambers
+year: '2005'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:57:06'
+  last_modified: '2019-03-02T10:57:06'
+type: zip
+commands:
+  play: RECTONG.EXE
+files:
+- name: RECTONG.EXE
+  size: 64504
+  date: '2005-10-17T04:42:16'
+  crc: '0x5c1c3f0e'
+- name: gfx\
+  size: 0
+  date: '2005-10-15T03:11:10'
+- name: gfx\ball00.rec
+  size: 144
+  date: '2005-10-15T03:11:10'
+  crc: '0x4e671c26'
+- name: gfx\ball01.rec
+  size: 256
+  date: '2005-10-14T22:53:56'
+  crc: '0x54d3b7bf'
+- name: gfx\butt01.rec
+  size: 1536
+  date: '2005-10-15T03:18:44'
+  crc: '0x4865d02e'
+- name: gfx\butt02.rec
+  size: 1536
+  date: '2005-10-15T03:19:08'
+  crc: '0x9b2ee06f'
+- name: gfx\butt03.rec
+  size: 1536
+  date: '2005-10-15T03:19:28'
+  crc: '0x88fd8b1b'
+- name: gfx\butt04.rec
+  size: 1536
+  date: '2005-10-17T01:45:58'
+  crc: '0xcfb87438'
+- name: gfx\palette.pal
+  size: 1052
+  date: '2005-10-14T22:53:34'
+  crc: '0xa2f08143'
+- name: gfx\title01.pal
+  size: 1052
+  date: '2005-10-14T23:48:02'
+  crc: '0x103fe355'
+- name: gfx\title01.rec
+  size: 64000
+  date: '2005-10-15T02:19:48'
+  crc: '0xcd2dad00'
+- name: readme.txt
+  size: 376
+  date: '2005-10-17T03:31:04'
+  crc: '0x9016f115'
+- name: source\
+  size: 0
+  date: '2005-10-17T04:42:10'
+- name: source\RECTONG.BAS
+  size: 15099
+  date: '2005-10-17T04:42:10'
+  crc: '0xde0a5e36'

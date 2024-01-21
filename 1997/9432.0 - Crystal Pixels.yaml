@@ -1,0 +1,45 @@
+filename: Crystal Pixels v3.15 (1997)(Home Sweet Pixel) [Adventure, Simulation].zip
+tdc_id: '9432.0'
+title:
+  screen: Crystal Pixels
+publisher: Home Sweet Pixel
+year: '1997'
+genre:
+- Adventure
+- Simulation
+language: English
+date:
+  added: '2019-03-02T10:26:08'
+  last_modified: '2019-03-02T10:26:08'
+version: '3.15'
+type: zip
+commands:
+  play: CRYXTELS.EXE
+references:
+  dosid: DOS01582
+  exodos: Crystal Pixels (1997).zip
+files:
+- name: CRYXTELS.EXE
+  size: 88640
+  date: '1996-12-24T23:32:00'
+  crc: '0x3400b000'
+- name: CRYXTELS.SIT
+  size: 21899
+  date: '1996-12-24T23:32:00'
+  crc: '0x58495977'
+- name: PIXELS.DEF
+  size: 36503
+  date: '1996-12-24T23:32:00'
+  crc: '0x5ec42c96'
+- name: crystal pixels.txt
+  size: 15070
+  date: '1996-12-24T23:32:00'
+  crc: '0xce635efb'
+- name: pixels definition.txt
+  size: 7176
+  date: '1996-12-24T23:32:00'
+  crc: '0x4394d2ef'
+- name: wpl.htm
+  size: 9786
+  date: '1996-12-24T23:32:00'
+  crc: '0x9d1afa0e'

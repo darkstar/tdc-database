@@ -1,0 +1,51 @@
+filename: Geneva Adventure, The [SW] (1989)(Philip Bourne) [Adventure, Interactive Fiction].zip
+tdc_id: '14006.0'
+title:
+  screen: The Geneva Adventure
+publisher: Philip Bourne
+year: '1989'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:27:48'
+  last_modified: '2019-03-01T18:27:48'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: GENEVA.EXE
+references:
+  dosid: DOS00167
+  exodos: Geneva Adventure, The (1989).zip
+files:
+- name: FINALB.DAT
+  size: 22110
+  date: '1989-07-27T20:00:48'
+  crc: '0xee864251'
+- name: FINALE.DAT
+  size: 22105
+  date: '1989-07-23T20:53:28'
+  crc: '0x764282df'
+- name: GENEVA.EXE
+  size: 33264
+  date: '1989-07-27T20:01:40'
+  crc: '0xd46e16e4'
+- name: PREFACE.DAT
+  size: 21943
+  date: '1989-07-18T19:02:04'
+  crc: '0xd180ee90'
+- name: REGISTER.DOC
+  size: 768
+  date: '1989-11-08T13:56:02'
+  crc: '0xbf0ac1d1'
+- name: TIDY1.DAT
+  size: 22010
+  date: '1989-07-20T13:18:58'
+  crc: '0xfb521ede'
+- name: TIDY2.DAT
+  size: 22103
+  date: '1989-07-20T13:45:06'
+  crc: '0x77a19581'

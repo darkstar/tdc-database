@@ -1,0 +1,41 @@
+filename: Super Star Wars v1.31x (1996)(LucasArts Entertainment Company LLC) [Action].zip
+tdc_id: '16322.0'
+title:
+  box: Super Star Wars
+publisher: LucasArts Entertainment Company LLC
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:21:04'
+  last_modified: '2019-03-02T10:21:04'
+version: 1.31x
+type: zip
+references:
+  dosid: DOS06412
+  exodos: Super Star Wars (1994).zip
+files:
+- name: INFO.TXT
+  size: 2834
+  date: '1996-04-12T18:24:04'
+  crc: '0x4071f36c'
+- name: RESOURCE.001
+  size: 5753317
+  date: '1996-02-15T19:23:38'
+  crc: '0xd6cf48bf'
+- name: RESOURCE.DIR
+  size: 15062
+  date: '1996-02-15T19:23:38'
+  crc: '0xcdaad63c'
+- name: SETUP.EXE
+  size: 28190
+  date: '1996-02-15T17:03:28'
+  crc: '0x0fb7445e'
+- name: SSW.CFG
+  size: 52
+  date: '1996-07-07T23:02:32'
+  crc: '0xe04dceaa'
+- name: SSW.EXE
+  size: 7620
+  date: '1996-02-15T20:06:00'
+  crc: '0x4b5fcc82'

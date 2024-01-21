@@ -1,0 +1,36 @@
+filename: Phantom's Revenge, The (1982)(Temple Software, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '10196.0'
+title:
+  screen: The Phantom's Revenge
+publisher: Temple Software, Inc.
+year: '1982'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2020-10-21T06:56:22'
+  last_modified: '2020-10-21T06:56:22'
+type: zip
+commands:
+  play: PHANTOM.EXE
+references:
+  dosid: DOS03984
+  exodos: Phantom's Revenge, The (1982).zip
+files:
+- name: ADVENTUR.IND
+  size: 10795
+  date: '1983-03-19T17:20:30'
+  crc: '0xa17070ff'
+- name: ADVENTUR.WRK
+  size: 59392
+  date: '1983-03-19T17:20:32'
+  crc: '0x39a4d4b6'
+- name: PHANTOM.EXE
+  size: 9088
+  date: '1983-03-15T22:59:08'
+  crc: '0x2878e6e4'
+- name: READ.ME
+  size: 142
+  date: '1983-03-19T23:37:28'
+  crc: '0xd3042aa8'

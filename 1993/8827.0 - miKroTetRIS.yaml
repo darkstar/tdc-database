@@ -1,0 +1,50 @@
+filename: miKroTetRIS v2.1 (1993)(Roger Espel Llima) [Action, Strategy].zip
+tdc_id: '8827.0'
+title:
+  screen: miKroTetRIS
+publisher: Roger Espel Llima
+year: '1993'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T19:01:40'
+  last_modified: '2023-06-26T13:22:47'
+version: '2.1'
+type: zip
+media: Download
+commands:
+  play: ktris.com
+references:
+  dosid: DOS07300
+  exodos: BooTris (1993).zip
+files:
+- name: bootris.asm
+  size: 16696
+  date: '1997-05-30T09:32:22'
+  crc: '0xc161fc27'
+- name: bootris.bin
+  size: 512
+  date: '1997-05-30T09:32:22'
+  crc: '0x24d4c4a3'
+- name: bootris.img
+  size: 164352
+  date: '2015-02-20T12:46:20'
+  crc: '0x109e5671'
+- name: instboot.asm
+  size: 4111
+  date: '1997-05-30T09:32:30'
+  crc: '0xd6aa0333'
+- name: instboot.com
+  size: 1288
+  date: '1997-05-30T09:32:30'
+  crc: '0xd2cf30b8'
+- name: ktris.asm
+  size: 16759
+  date: '1994-11-02T19:00:52'
+  crc: '0xcbe5bf97'
+- name: ktris.com
+  size: 408
+  date: '1993-11-20T19:34:00'
+  crc: '0xe3f0e423'

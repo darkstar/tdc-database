@@ -1,0 +1,52 @@
+filename: War Eagles! (1989)(Cosmi Corporation) [Simulation].zip
+tdc_id: '7465.0'
+title:
+  box: War Eagles!
+publisher: Cosmi Corporation
+year: '1989'
+genre: Simulation
+language: English
+date:
+  added: '2019-03-01T18:29:20'
+  last_modified: '2019-03-01T18:29:20'
+type: zip
+references:
+  dosid: DOS05539
+  exodos: War Eagles - Fokker (1989).zip
+files:
+- name: BUNIF.SCN
+  size: 4845
+  date: '1989-07-06T00:07:04'
+  crc: '0x710d713d'
+- name: CRASH.SCN
+  size: 23985
+  date: '1989-07-06T10:47:18'
+  crc: '0x123fcffb'
+- name: GUNIF.SCN
+  size: 11495
+  date: '1989-07-06T00:09:06'
+  crc: '0x06d90ff1'
+- name: INSTALL.BAT
+  size: 244
+  date: '1989-07-13T13:21:14'
+  crc: '0x71945e58'
+- name: PILOTS.LST
+  size: 32
+  date: '1989-07-31T19:14:28'
+  crc: '0x1741425e'
+- name: SCORES.LST
+  size: 256
+  date: '1989-07-28T09:26:44'
+  crc: '0xafd27b04'
+- name: SIDE.SCN
+  size: 10000
+  date: '1989-07-02T15:04:40'
+  crc: '0xe1cc625b'
+- name: TITLE.SCN
+  size: 14485
+  date: '1989-06-30T19:29:58'
+  crc: '0x6906267b'
+- name: WE.EXE
+  size: 283415
+  date: '1989-08-01T09:28:22'
+  crc: '0x4ae3c84e'

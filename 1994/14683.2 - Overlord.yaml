@@ -1,0 +1,64 @@
+filename: Overlord (SVGA) r940519 (Installer) (1994)(Virgin Interactive Entertainment (Europe) Ltd.) [Simulation, Addon].zip
+tdc_id: '14683.2'
+title:
+  box: Overlord
+  qualifier: SVGA
+publisher: Virgin Interactive Entertainment (Europe) Ltd.
+year: '1994'
+genre:
+- Simulation
+- Addon
+language: English
+date:
+  added: '2019-03-01T22:02:32'
+  last_modified: '2024-01-02T11:37:19'
+release: '940519'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/513/overlord/
+  dosid: DOS03872
+  exodos: Overlord (1994).zip
+files:
+- name: INSTALL.EXE
+  size: 33672
+  date: '1994-05-10T12:15:30'
+  crc: '0x4c50e515'
+- name: INSTENG.DIP
+  size: 3082
+  date: '1994-05-13T15:20:48'
+  crc: '0xd09b0f30'
+- name: READ.ME
+  size: 9055
+  date: '1994-05-19T15:50:28'
+  crc: '0xa4112e79'
+- name: ROWAN.001
+  size: 1419271
+  date: '1994-05-19T17:52:10'
+  crc: '0x6f33a2d5'
+- name: ROWAN.002
+  size: 1457153
+  date: '1994-05-19T17:47:22'
+  crc: '0x06ec7585'
+- name: ROWAN.003
+  size: 1457153
+  date: '1994-05-19T17:48:36'
+  crc: '0x29751c57'
+- name: ROWAN.004
+  size: 1457153
+  date: '1994-05-19T17:49:52'
+  crc: '0x96960f88'
+- name: ROWAN.005
+  size: 1457153
+  date: '1994-05-19T17:51:06'
+  crc: '0x540fc6c2'
+- name: ROWAN.006
+  size: 717584
+  date: '1994-05-19T17:51:52'
+  crc: '0x73970408'
+- name: SVGA.TXT
+  size: 4
+  date: '1994-05-13T11:40:02'
+  crc: '0x8bc21544'

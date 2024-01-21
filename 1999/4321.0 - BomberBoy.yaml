@@ -1,0 +1,28 @@
+filename: BomberBoy (Nl) (1999)(Ruud Wijtvliet) [Action].zip
+tdc_id: '4321.0'
+title:
+  screen: BomberBoy
+publisher: Ruud Wijtvliet
+year: '1999'
+genre: Action
+language: Dutch
+date:
+  added: '2019-03-02T10:45:38'
+  last_modified: '2019-03-02T10:45:38'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: BOMB-BOY.BAS
+  size: 51697
+  date: '2018-03-10T14:54:14'
+  crc: '0xd9a07d9a'
+- name: GO.BAT
+  size: 28
+  date: '2018-11-27T11:41:26'
+  crc: '0x54102ca9'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

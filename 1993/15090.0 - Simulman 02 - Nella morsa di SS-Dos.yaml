@@ -1,0 +1,46 @@
+filename: Simulman 02 - Nella morsa di SS-Dos (Installer) (It) (1993)(Simulmondo) [Action, Adventure].zip
+tdc_id: '15090.0'
+title:
+  box: Simulman 02 - Nella morsa di SS-Dos
+publisher: Simulmondo
+year: '1993'
+genre:
+- Action
+- Adventure
+language: Italian
+date:
+  added: '2019-03-01T21:07:44'
+  last_modified: '2022-11-22T10:38:20'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: 1.U
+  size: 413180
+  date: '1993-04-05T17:44:14'
+  crc: '0x8e9fc249'
+- name: 2.U
+  size: 373539
+  date: '1993-04-05T17:45:24'
+  crc: '0x38c5a36e'
+- name: ANI1.ANI
+  size: 22628
+  date: '1993-01-13T12:03:58'
+  crc: '0xf6abdb0a'
+- name: GENE.CHV
+  size: 3591
+  date: '1992-12-15T17:05:14'
+  crc: '0x2741b47a'
+- name: INSTALL.DAT
+  size: 5287
+  date: '1993-04-05T08:50:46'
+  crc: '0x6c7a9b01'
+- name: INSTALL.EXE
+  size: 29447
+  date: '1993-02-15T12:47:58'
+  crc: '0xd2966045'
+- name: RESETTA.COM
+  size: 19
+  date: '1992-12-17T15:23:44'
+  crc: '0xc6a39750'

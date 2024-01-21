@@ -1,0 +1,52 @@
+filename: Cowquest v2.01 (1999)(Hand Productions) [Action].zip
+tdc_id: '4335.0'
+title:
+  screen: Cowquest
+publisher: Hand Productions
+year: '1999'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:45:40'
+  last_modified: '2019-03-02T10:45:40'
+version: '2.01'
+type: zip
+commands:
+  play: cowquest.exe
+files:
+- name: CWSDPMI.EXE
+  size: 20125
+  date: '2000-10-22T12:55:00'
+  crc: '0x1d1b569c'
+- name: cowquest.exe
+  size: 843734
+  date: '1999-01-19T02:50:40'
+  crc: '0x88ffda33'
+- name: cowquest.ico
+  size: 2238
+  date: '1998-08-16T19:24:26'
+  crc: '0x62ee59c3'
+- name: credit.dat
+  size: 18176
+  date: '1998-12-25T22:39:48'
+  crc: '0x521bb4b8'
+- name: game.dat
+  size: 618045
+  date: '1999-01-19T02:53:32'
+  crc: '0x5d71bf25'
+- name: intro.dat
+  size: 40027
+  date: '1998-12-25T22:38:44'
+  crc: '0xebec154c'
+- name: music.dat
+  size: 160292
+  date: '1999-01-19T02:16:58'
+  crc: '0x94e74d50'
+- name: readme.txt
+  size: 1329
+  date: '1999-01-19T03:01:50'
+  crc: '0x6bfe26d0'
+- name: sfx.dat
+  size: 429108
+  date: '1999-01-10T21:41:56'
+  crc: '0xaa26ddce'

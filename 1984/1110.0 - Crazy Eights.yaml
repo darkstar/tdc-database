@@ -1,0 +1,28 @@
+filename: Crazy Eights (1984)(Les Davids) [Strategy, Cards].zip
+tdc_id: '1110.0'
+title:
+  screen: Crazy Eights
+publisher: Les Davids
+year: '1984'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2019-03-01T18:24:02'
+  last_modified: '2019-03-01T18:24:02'
+type: zip
+commands:
+  play: CRAZY8.EXE
+references:
+  dosid: DOS00381
+  exodos: Crazy Eights (1984).zip
+files:
+- name: CRAZY8.BAS
+  size: 9195
+  date: '1984-10-28T00:06:00'
+  crc: '0x6a113f9b'
+- name: CRAZY8.EXE
+  size: 27806
+  date: '1985-07-29T23:53:30'
+  crc: '0xe08077ac'

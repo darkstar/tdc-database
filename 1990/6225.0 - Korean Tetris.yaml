@@ -1,0 +1,33 @@
+filename: Korean Tetris v1.5 (1990)(Park S.G.) [Action, Strategy].zip
+tdc_id: '6225.0'
+title:
+  screen: Korean Tetris
+publisher: Park S.G.
+year: '1990'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:33:02'
+  last_modified: '2019-03-01T18:33:02'
+version: '1.5'
+type: zip
+commands:
+  play: KOREA.EXE
+references:
+  dosid: DOS07946
+  exodos: Korean Tetris (1990).zip
+files:
+- name: KOREA.EXE
+  size: 83332
+  date: '1990-03-22T00:28:42'
+  crc: '0xef9b6783'
+- name: KOREA.PTN
+  size: 8192
+  date: '1990-03-21T20:02:34'
+  crc: '0xbf3beca8'
+- name: KOREA.STG
+  size: 20500
+  date: '1990-03-21T20:18:08'
+  crc: '0x5e5381af'

@@ -1,0 +1,52 @@
+filename: Super Mario's Mah-Jongg v1.1 (En)(Es) (2002)(BISI Soft) [Strategy, Puzzle].zip
+tdc_id: '17188.0'
+title:
+  screen: Super Mario's Mah-Jongg
+publisher: BISI Soft
+year: '2002'
+genre:
+- Strategy
+- Puzzle
+language:
+- English
+- Spanish
+date:
+  added: '2022-12-25T08:18:01'
+  last_modified: '2022-12-25T08:18:01'
+version: '1.1'
+type: zip
+commands:
+  play: Mahjongg.exe
+files:
+- name: Mahjongg.dat
+  size: 101571
+  date: '2002-07-09T12:12:18'
+  crc: '0xe914cb11'
+- name: Mahjongg.exe
+  size: 65695
+  date: '2002-07-18T22:14:54'
+  crc: '0xe354c1b5'
+- name: Mahjongg.gfx
+  size: 164098
+  date: '2002-07-12T17:10:18'
+  crc: '0x5aac0e67'
+- name: mvsc.dat
+  size: 100862
+  date: '2002-07-14T23:19:14'
+  crc: '0xf1f6c256'
+- name: mvsc.gfx
+  size: 146263
+  date: '2002-07-14T23:07:14'
+  crc: '0xb8c5b9f9'
+- name: pokemon.dat
+  size: 100877
+  date: '2002-07-15T16:12:18'
+  crc: '0x18b2ee10'
+- name: pokemon.gfx
+  size: 157958
+  date: '2002-07-15T16:10:52'
+  crc: '0x8f2db4fb'
+- name: readme.txt
+  size: 5345
+  date: '2002-10-31T16:45:26'
+  crc: '0x6010928c'

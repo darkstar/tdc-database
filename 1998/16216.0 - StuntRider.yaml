@@ -1,0 +1,31 @@
+filename: StuntRider v1.1w [FW] (1998)(Dominick Aguilar) [Action].zip
+tdc_id: '16216.0'
+title:
+  screen: StuntRider
+publisher: Dominick Aguilar
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:44:38'
+  last_modified: '2019-03-02T10:44:38'
+version: 1.1w
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GO.BAT
+  size: 28
+  date: '2019-01-09T21:12:04'
+  crc: '0x55e12b1a'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'
+- name: STUNTRDR.BAS
+  size: 5744
+  date: '1998-09-21T01:51:20'
+  crc: '0x0a851a23'

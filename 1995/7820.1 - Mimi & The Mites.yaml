@@ -1,0 +1,29 @@
+filename: Mimi & The Mites v1.01c (Installer) (1995)(FormGen, Inc.) [Action].zip
+tdc_id: '7820.1'
+title:
+  box: Mimi & The Mites
+publisher: FormGen, Inc.
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T08:57:24'
+  last_modified: '2019-03-02T08:57:24'
+version: 1.01c
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DISK001.NID
+  size: 1763886
+  date: '1995-09-27T23:59:30'
+  crc: '0xf7dd62c4'
+- name: INSTALL.EXE
+  size: 34691
+  date: '1995-09-27T23:56:56'
+  crc: '0x9205d18c'
+- name: README.TXT
+  size: 37408
+  date: '1995-08-15T20:36:02'
+  crc: '0xa0cc3016'

@@ -1,0 +1,28 @@
+filename: Evade (2006)(Ian Bester) [Action].zip
+tdc_id: '911.0'
+title:
+  screen: Evade
+publisher: Ian Bester
+year: '2006'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:57:14'
+  last_modified: '2019-03-02T10:57:14'
+type: zip
+media: Download
+commands:
+  play: GO.BAT
+files:
+- name: GAME1.BAS
+  size: 31583
+  date: '2018-02-17T01:44:50'
+  crc: '0x829e56c5'
+- name: GO.BAT
+  size: 25
+  date: '2018-12-03T20:34:32'
+  crc: '0xd0b0c15e'
+- name: QBASIC.EXE
+  size: 194309
+  date: '1993-09-30T13:20:00'
+  crc: '0x3152911c'

@@ -1,0 +1,80 @@
+filename: Flashback- The Quest for Identity (Installer) (1993)(Strategic Simulations, Inc.) [Action, Adventure].zip
+tdc_id: '13643.10'
+title:
+  box: 'Flashback: The Quest for Identity'
+publisher: Strategic Simulations, Inc.
+year: '1993'
+genre:
+- Action
+- Adventure
+language: English
+date:
+  added: '2019-03-01T19:08:38'
+  last_modified: '2019-03-01T19:08:38'
+type: zip
+installer: true
+files:
+- name: BOOTSBOS.EXE
+  size: 16639
+  date: '1993-06-15T15:17:28'
+  crc: '0xb64c338e'
+- name: DATA\FB.EXE
+  size: 128532
+  date: '1993-06-24T02:16:22'
+  crc: '0xfc3bc639'
+- name: DATA\GLOB1_FB.ABA
+  size: 226118
+  date: '1993-05-07T19:22:00'
+  crc: '0xad5e9a97'
+- name: DATA\GLOB2_FB.ABA
+  size: 670278
+  date: '1993-06-07T13:43:10'
+  crc: '0x6393a47b'
+- name: DATA\GLOBAL.FIB
+  size: 160874
+  date: '1993-04-23T19:58:14'
+  crc: '0x1aae4dc1'
+- name: DATA\GLOB_US.ABA
+  size: 150563
+  date: '1993-05-28T18:02:18'
+  crc: '0x6dc661bf'
+- name: DATA\LEVEL1.LEV
+  size: 35360
+  date: '1993-04-23T19:58:24'
+  crc: '0x2d5bd205'
+- name: DATA\LEVEL2.LEV
+  size: 73216
+  date: '1993-06-07T13:26:00'
+  crc: '0x1fb97821'
+- name: DATA\LEVEL2.OBJ
+  size: 66700
+  date: '1993-04-23T19:59:38'
+  crc: '0x87895c6a'
+- name: DATA\LEVEL3.LEV
+  size: 26192
+  date: '1993-04-23T19:58:32'
+  crc: '0x80f6affe'
+- name: DATA\LEVEL4.LEV
+  size: 44256
+  date: '1993-04-23T19:58:34'
+  crc: '0x22f22999'
+- name: DATA\LEVEL5.LEV
+  size: 81636
+  date: '1993-04-23T19:58:40'
+  crc: '0xf91ba571'
+- name: DATA\PERSO.SPR
+  size: 94616
+  date: '1993-04-23T20:01:22'
+  crc: '0xc83c3fc0'
+- name: INSTALL.EXE
+  size: 54580
+  date: '1993-06-11T16:32:48'
+  crc: '0x0b13c1a9'
+- name: READ.ME
+  size: 2839
+  date: '1993-06-15T13:41:36'
+  crc: '0x9fef891b'
+- name: SSISBOS.EXE
+  size: 207669
+  date: '1993-06-14T16:37:40'
+  crc: '0x2831f739'

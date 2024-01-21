@@ -1,0 +1,61 @@
+filename: O-Pong (Fr) [FW] (1996)(Stophylevie) [Action].zip
+tdc_id: '352.0'
+title:
+  screen: O-Pong
+publisher: Stophylevie
+year: '1996'
+genre: Action
+language: French
+date:
+  added: '2019-03-02T10:13:50'
+  last_modified: '2019-03-02T10:13:50'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: pong.exe
+references:
+  dosid: DOS15660
+  exodos: OPong (1996).zip
+files:
+- name: pong.bob
+  size: 1920
+  date: '1996-12-25T00:32:00'
+  crc: '0x81bc712b'
+- name: pong.exe
+  size: 31744
+  date: '1996-12-25T00:32:00'
+  crc: '0x19d9193d'
+- name: pong_1.img
+  size: 64000
+  date: '1996-12-25T00:32:00'
+  crc: '0xbd03e213'
+- name: pong_1.pal
+  size: 768
+  date: '1996-12-25T00:32:00'
+  crc: '0x03e4b57c'
+- name: pong_1.voc
+  size: 3342
+  date: '1996-12-25T00:32:00'
+  crc: '0x9eafc80a'
+- name: pong_2.img
+  size: 64000
+  date: '1996-12-25T00:32:00'
+  crc: '0xf1255989'
+- name: pong_2.voc
+  size: 2239
+  date: '1996-12-25T00:32:00'
+  crc: '0x59d18665'
+- name: pong_3.voc
+  size: 42570
+  date: '1996-12-25T00:32:00'
+  crc: '0xe472a114'
+- name: pong_4.voc
+  size: 21610
+  date: '1996-12-25T00:32:00'
+  crc: '0x2f0e3f1d'
+- name: pong_5.voc
+  size: 55183
+  date: '1996-12-25T00:32:00'
+  crc: '0x95c05289'

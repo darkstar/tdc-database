@@ -1,0 +1,35 @@
+filename: Populous- The Promised Lands v1.1 (Installer) (1989)(Electronic Arts, Inc.) [Strategy, Addon].zip
+tdc_id: '10437.1'
+title:
+  box: 'Populous: The Promised Lands'
+publisher: Electronic Arts, Inc.
+year: '1989'
+genre:
+- Strategy
+- Addon
+language: English
+date:
+  added: '2020-09-14T15:08:58'
+  last_modified: '2020-09-14T15:08:58'
+version: '1.1'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: CGA.CMP
+  size: 81249
+  date: '1989-11-21T12:30:34'
+  crc: '0x4bf35ad7'
+- name: EGA.CMP
+  size: 112371
+  date: '1989-11-21T12:35:08'
+  crc: '0x57637d05'
+- name: INSTALL.EXE
+  size: 17139
+  date: '1989-11-22T19:31:02'
+  crc: '0xcfcaef80'
+- name: VGA.CMP
+  size: 120620
+  date: '1989-11-21T12:44:12'
+  crc: '0xe07ee4eb'

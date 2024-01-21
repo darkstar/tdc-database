@@ -1,0 +1,29 @@
+filename: Hex Jump [SW] (1990)(Alan Meiss) [Strategy].zip
+tdc_id: '7756.0'
+title:
+  screen: Hex Jump
+publisher: Alan Meiss
+year: '1990'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:32:48'
+  last_modified: '2019-03-01T18:32:48'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: HEXJUMP.EXE
+references:
+  dosid: DOS15437
+  exodos: Hex Jump (1990).zip
+files:
+- name: HEXJUMP.DOC
+  size: 2597
+  date: '1990-07-30T10:02:38'
+  crc: '0xdf50d618'
+- name: HEXJUMP.EXE
+  size: 42608
+  date: '1990-07-30T10:19:38'
+  crc: '0x373f77b1'

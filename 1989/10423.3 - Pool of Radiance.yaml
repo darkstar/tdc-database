@@ -1,0 +1,46 @@
+filename: Pool of Radiance v1.2 (Installer) (1989)(Strategic Simulations, Inc.) [Role-Playing (RPG)].zip
+tdc_id: '10423.3'
+parent_id: '10423.8'
+title:
+  box: Pool of Radiance
+  qualifier: Installer
+publisher: Strategic Simulations, Inc.
+year: '1989'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2020-02-04T11:28:38'
+  last_modified: '2023-04-26T15:23:07'
+version: '1.2'
+type: zip
+media: 720K
+installer: true
+files:
+- name: DISKA.ARC
+  size: 283778
+  date: '1989-04-24T13:21:32'
+  crc: '0x1d555a8b'
+- name: DISKB.ARC
+  size: 344977
+  date: '1989-05-09T14:31:48'
+  crc: '0x106a03b8'
+- name: DISKC.ARC
+  size: 338390
+  date: '1989-04-24T13:22:40'
+  crc: '0x0ddab8f7'
+- name: INSTALL.EXE
+  size: 29216
+  date: '1989-05-09T14:29:42'
+  crc: '0x7eead1d4'
+- name: PKUNPAK.EXE
+  size: 15112
+  date: '1988-08-02T00:00:00'
+  crc: '0x6abb3257'
+- name: SAVE.ARC
+  size: 9325
+  date: '1989-04-24T13:24:26'
+  crc: '0x7e6f1ccf'
+- name: START.EXE
+  size: 75536
+  date: '1989-05-09T13:30:00'
+  crc: '0x0ad6069a'

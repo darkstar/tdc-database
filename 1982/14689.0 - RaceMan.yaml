@@ -1,0 +1,28 @@
+filename: RaceMan (1982)(Paul Somerson) [Action].zip
+tdc_id: '14689.0'
+title:
+  screen: RaceMan
+publisher: Paul Somerson
+year: '1982'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:23:02'
+  last_modified: '2019-03-01T18:23:02'
+type: zip
+media: Download
+commands:
+  play: race.bat
+files:
+- name: DRIVER.BAS
+  size: 4352
+  date: '2008-04-22T17:17:26'
+  crc: '0x4f7cc00a'
+- name: GWBASIC.EXE
+  size: 80592
+  date: '2001-05-04T06:58:22'
+  crc: '0x8462d0e4'
+- name: race.bat
+  size: 14
+  date: '2008-04-22T17:35:30'
+  crc: '0x76dcd747'

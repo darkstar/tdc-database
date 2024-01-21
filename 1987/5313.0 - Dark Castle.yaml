@@ -1,0 +1,53 @@
+filename: Dark Castle (1987)(Three-Sixty Pacific, Inc.) [Action].zip
+tdc_id: '5313.0'
+parent_id: '5313.3'
+title:
+  box: Dark Castle
+publisher: Three-Sixty Pacific, Inc.
+year: '1987'
+genre: Action
+language: English
+date:
+  added: '2020-03-05T22:26:04'
+  last_modified: '2020-03-05T22:26:04'
+type: zip
+references:
+  dosid: DOS01635
+  exodos: Dark Castle (1987).zip
+files:
+- name: BDATA.GLB
+  size: 326088
+  date: '1987-09-13T21:12:36'
+  crc: '0x345527ca'
+- name: DATAAP.GLB
+  size: 125192
+  date: '1987-09-12T15:06:16'
+  crc: '0x3b0530f8'
+- name: DC.EXE
+  size: 110507
+  date: '1987-09-13T15:56:56'
+  crc: '0xc6f72bd9'
+- name: DC.EX_
+  size: 110507
+  date: '1987-09-13T15:56:56'
+  crc: '0xf5f8f55f'
+- name: DCOVL.000
+  size: 22784
+  date: '1987-09-15T15:01:00'
+  crc: '0x38e4df0b'
+- name: DCOVL.COM
+  size: 41336
+  date: '1987-09-15T15:01:00'
+  crc: '0x3b11ab86'
+- name: INSTALL.BAT
+  size: 706
+  date: '1987-09-01T22:06:12'
+  crc: '0xc1c7af21'
+- name: INSTRUCP.GLB
+  size: 31699
+  date: '1987-08-29T14:33:58'
+  crc: '0x3183439a'
+- name: STAT.GLB
+  size: 3827
+  date: '1987-09-01T21:49:32'
+  crc: '0x6def8227'

@@ -1,0 +1,41 @@
+filename: Buick Dimensions 1991 (1990)(General Motors Corporation) [Simulation, Sports].zip
+tdc_id: '12862.0'
+title:
+  box: Buick Dimensions 1991
+publisher: General Motors Corporation
+year: '1990'
+genre:
+- Simulation
+- Sports
+language: English
+date:
+  added: '2019-03-01T18:31:58'
+  last_modified: '2023-05-22T07:18:46'
+type: zip
+commands:
+  play: BUICK.EXE
+references:
+  mobygames: https://www.mobygames.com/game/71591/buick-dimensions/
+  dosid: DOS06761
+  exodos: Buick Dimensions (1990).zip
+files:
+- name: 1991.AND
+  size: 376448
+  date: '1990-12-28T12:00:14'
+  crc: '0xaf92cc79'
+- name: BEYOND
+  size: 105059
+  date: '1990-12-28T12:00:14'
+  crc: '0xc29f527b'
+- name: BUICK.EXE
+  size: 20544
+  date: '1990-12-28T12:00:14'
+  crc: '0x63a0a80c'
+- name: FOR
+  size: 152576
+  date: '1990-12-28T12:00:14'
+  crc: '0x65073ce2'
+- name: QUALITY.EXE
+  size: 72720
+  date: '1990-12-28T12:00:14'
+  crc: '0xc5e6f09e'

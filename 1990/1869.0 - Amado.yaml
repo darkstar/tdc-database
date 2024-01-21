@@ -1,0 +1,29 @@
+filename: Amado [SW] (1990)(Yong Choi) [Strategy].zip
+tdc_id: '1869.0'
+title:
+  screen: Amado
+publisher: Yong Choi
+year: '1990'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:31:46'
+  last_modified: '2019-03-01T18:31:46'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: AMADO.EXE
+references:
+  dosid: DOS15212
+  exodos: Amado (1989).zip
+files:
+- name: AMADO.DOC
+  size: 4130
+  date: '1990-02-17T03:27:06'
+  crc: '0xadbf3103'
+- name: AMADO.EXE
+  size: 98261
+  date: '1990-02-17T15:17:50'
+  crc: '0x6d68ceb8'

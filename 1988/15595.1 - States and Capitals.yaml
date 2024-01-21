@@ -1,0 +1,50 @@
+filename: States and Capitals (1988)(Softdisk Publishing) [Educational].zip
+tdc_id: '15595.1'
+title:
+  box: States and Capitals
+publisher: Softdisk Publishing
+year: '1988'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T18:26:52'
+  last_modified: '2019-03-01T18:26:52'
+type: zip
+commands:
+  play: QUIZPRES.EXE
+references:
+  dosid: DOS04856
+  exodos: States and Capitals (1988).zip
+files:
+- name: QUIZ.DAT
+  size: 344
+  date: '1980-01-01T00:08:22'
+  crc: '0xcecf970e'
+- name: QUIZ1.DAT
+  size: 353
+  date: '1988-03-24T09:10:36'
+  crc: '0x49c60ba8'
+- name: QUIZ2.DAT
+  size: 343
+  date: '1980-01-01T00:10:40'
+  crc: '0xb73f3106'
+- name: QUIZ3.DAT
+  size: 348
+  date: '1988-05-20T00:37:26'
+  crc: '0x587c987b'
+- name: QUIZ4.DAT
+  size: 348
+  date: '1980-01-01T00:16:54'
+  crc: '0xe03d12c6'
+- name: QUIZPRES.EXE
+  size: 44580
+  date: '1988-04-04T09:33:06'
+  crc: '0x884bbd74'
+- name: QUIZPRES.TXT
+  size: 1567
+  date: '1988-05-20T00:39:52'
+  crc: '0x748c8536'
+- name: UTILITY.DAT
+  size: 185
+  date: '1988-03-02T11:57:56'
+  crc: '0xa626f311'

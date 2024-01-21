@@ -1,0 +1,49 @@
+filename: Prophecy, The [tr Cs] (1993)(Sierra On-Line, Inc.) [Adventure].zip
+tdc_id: '10668.7'
+parent_id: '10668.1'
+title:
+  box: The Prophecy
+publisher: Sierra On-Line, Inc.
+year: '1993'
+genre: Adventure
+language: Czech
+date:
+  added: '2023-11-21T07:37:34'
+  last_modified: '2023-11-21T07:37:34'
+type: zip
+tags:
+- Translated
+media: 1.44M
+commands:
+  play: GO.BAT
+references:
+  mobygames: https://www.mobygames.com/game/6218/the-prophecy/
+files:
+- name: ALL.ASK
+  size: 11177
+  date: '2014-09-15T21:36:56'
+  crc: '0x79bf6a8b'
+- name: GO.BAT
+  size: 23
+  date: '1993-02-01T08:57:36'
+  crc: '0xa16fce1c'
+- name: INTRO.STK
+  size: 7122333
+  date: '2014-09-16T13:07:54'
+  crc: '0xc02748dd'
+- name: L360.GDR
+  size: 3524
+  date: '1993-02-01T08:57:36'
+  crc: '0x2f584902'
+- name: LEGA.GDR
+  size: 14299
+  date: '1993-02-01T08:57:34'
+  crc: '0xf97edb7f'
+- name: LOADER.EXE
+  size: 88911
+  date: '1993-02-01T08:57:32'
+  crc: '0x00a1b702'
+- name: LVGA.GDR
+  size: 4844
+  date: '1993-02-01T08:57:36'
+  crc: '0x36f1f893'

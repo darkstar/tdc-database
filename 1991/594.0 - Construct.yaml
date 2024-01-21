@@ -1,0 +1,43 @@
+filename: Construct v1.11 (1991)(LDT) [Action].zip
+tdc_id: '594.0'
+title:
+  screen: Construct
+publisher: LDT
+year: '1991'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:35:22'
+  last_modified: '2019-03-01T18:35:22'
+version: '1.11'
+type: zip
+commands:
+  play: CONSTR.EXE
+files:
+- name: BRICKS
+  size: 0
+  date: '2000-07-14T17:45:02'
+- name: CONSTR.DOC
+  size: 3284
+  date: '1994-12-29T18:12:30'
+  crc: '0x69440068'
+- name: CONSTR.EXE
+  size: 56561
+  date: '1994-12-29T18:12:32'
+  crc: '0x1a7a04bf'
+- name: KARNOV
+  size: 19530
+  date: '1994-12-29T18:12:20'
+  crc: '0xb1c5ab7a'
+- name: SAVE
+  size: 8700
+  date: '1994-12-29T18:13:08'
+  crc: '0x44766826'
+- name: SCORES
+  size: 340
+  date: '1994-12-29T18:12:54'
+  crc: '0x4588ab74'
+- name: SCREENS
+  size: 9000
+  date: '1994-12-29T18:12:56'
+  crc: '0xffe30649'

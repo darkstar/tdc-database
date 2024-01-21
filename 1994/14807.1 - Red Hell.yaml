@@ -1,0 +1,59 @@
+filename: Red Hell v1.2 (Installer) [h1] (1994)(Merit Software) [Adventure].zip
+tdc_id: '14807.1'
+title:
+  box: Red Hell
+publisher: Merit Software
+year: '1994'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T22:03:38'
+  last_modified: '2019-03-01T22:03:38'
+version: '1.2'
+type: zip
+tags:
+- Hack: 1
+installer: true
+commands:
+  play: install.exe
+files:
+- name: install.exe
+  size: 138053
+  date: '1996-12-24T23:32:00'
+  crc: '0xb4724a85'
+- name: krono.inf
+  size: 844
+  date: '1996-12-24T23:32:00'
+  crc: '0xd8dfc459'
+- name: readme.txt
+  size: 10223
+  date: '1996-12-24T23:32:00'
+  crc: '0xe25ff3c2'
+- name: redhell_.001
+  size: 1318400
+  date: '1996-12-24T23:32:00'
+  crc: '0x9b4d4db0'
+- name: redhell_.002
+  size: 1457664
+  date: '1996-12-24T23:32:00'
+  crc: '0x13a7d792'
+- name: redhell_.003
+  size: 1457664
+  date: '1996-12-24T23:32:00'
+  crc: '0x5b300e92'
+- name: redhell_.004
+  size: 1457664
+  date: '1996-12-24T23:32:00'
+  crc: '0xd2a7c61f'
+- name: redhell_.005
+  size: 1457664
+  date: '1996-12-24T23:32:00'
+  crc: '0xab0e057a'
+- name: redhell_.006
+  size: 1457664
+  date: '1996-12-24T23:32:00'
+  crc: '0xe9675f91'
+- name: redhell_.007
+  size: 928587
+  date: '1996-12-24T23:32:00'
+  crc: '0xad88b2e0'

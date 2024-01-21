@@ -1,0 +1,24 @@
+filename: Serious Soccer (Installer) (1993)(Virgin Games, Ltd.) [Sports].zip
+tdc_id: '5872.1'
+title:
+  box: Serious Soccer
+publisher: Virgin Games, Ltd.
+year: '1993'
+genre: Sports
+language: English
+date:
+  added: '2019-03-01T19:18:34'
+  last_modified: '2019-03-01T19:18:34'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 21735
+  date: '1999-12-31T18:00:00'
+  crc: '0x92a13f10'
+- name: SERIOUS.RNC
+  size: 1050665
+  date: '1999-12-31T18:00:00'
+  crc: '0xe0616996'
