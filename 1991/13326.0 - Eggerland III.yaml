@@ -1,4 +1,4 @@
-filename: Eggerland III v1.2 (1991)(Vampire Vengeance) [Strategy, Puzzle].zip
+filename: Eggerland III v1.2 [SW] (1991)(Vampire Vengeance) [Strategy, Puzzle].zip
 tdc_id: '13326.0'
 title:
   screen: Eggerland III
@@ -10,9 +10,16 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:35:46'
-  last_modified: '2019-03-01T18:35:46'
+  last_modified: '2024-01-21T09:23:22'
 version: '1.2'
 type: zip
+tags:
+- Shareware
+commands:
+  play: EGGERLND.EXE
+  setup: EGGINST.EXE
+references:
+  mobygames: https://www.mobygames.com/game/96034/eggerland-3/
 files:
 - name: DEFAULT@.EGG
   size: 15642
