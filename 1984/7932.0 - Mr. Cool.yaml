@@ -1,22 +1,24 @@
-filename: Mr. Cool (PCjr) [DC] (1984)(Sierra On-Line, Inc.) [Action].zip
+filename: Mr. Cool r840416 [DC] (1984)(Sierra On-Line, Inc.) [Action].zip
 tdc_id: '7932.0'
+parent_id: '7932.3'
 title:
   box: Mr. Cool
-  qualifier: PCjr
 publisher: Sierra On-Line, Inc.
 year: '1984'
 genre: Action
 language: English
 date:
   added: '2019-03-01T18:24:12'
-  last_modified: '2019-03-01T18:24:12'
+  last_modified: '2024-01-23T15:49:17'
+release: '840416'
 type: zip
 tags:
 - DOSConversion
-requirements:
-  cpu:
-    min: '8088'
+media: 360K
+commands:
+  play: START.COM
 references:
+  mobygames: https://www.mobygames.com/game/9295/mr-cool/
   dosid: DOS07281
   exodos: Mr. Cool (1983).zip
 files:

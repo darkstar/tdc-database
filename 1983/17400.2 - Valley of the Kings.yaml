@@ -1,0 +1,35 @@
+filename: Valley of the Kings (1983)(Temple Software, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '17400.2'
+parent_id: '17400.1'
+title:
+  box: Valley of the Kings
+publisher: Temple Software, Inc.
+year: '1983'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2024-01-23T13:10:53'
+  last_modified: '2024-01-23T13:10:53'
+type: zip
+media: 360K
+commands:
+  play: VALLEY.EXE
+files:
+- name: ADVENTUR.IND
+  size: 13642
+  date: '1983-04-21T11:19:48'
+  crc: '0x04a05449'
+- name: ADVENTUR.WRK
+  size: 77824
+  date: '1983-04-21T11:19:50'
+  crc: '0x87af6db7'
+- name: ADVENTUR.WRM
+  size: 1596
+  date: '1985-08-07T13:09:18'
+  crc: '0xd81baaa4'
+- name: VALLEY.EXE
+  size: 10496
+  date: '1983-04-13T13:13:10'
+  crc: '0x6901ab56'

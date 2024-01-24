@@ -1,5 +1,6 @@
-filename: King's Bounty v1.00 (1990)(New World Computing, Inc.) [IMA][360k].zip
+filename: King's Bounty v1.00 (1990)(New World Computing, Inc.) [IMA][360k][!].zip
 tdc_id: '11808.3'
+parent_id: '11808.7'
 title:
   box: King's Bounty
 publisher: New World Computing, Inc.
@@ -8,16 +9,20 @@ genre: IMA
 language: English
 date:
   added: '2023-02-26T10:01:23'
-  last_modified: '2023-02-26T10:01:23'
+  last_modified: '2024-01-23T08:11:35'
 version: '1.00'
 type: IMA
+tags:
+- KnownGood
 media: 360K
+references:
+  mobygames: https://www.mobygames.com/game/1473/kings-bounty/
 files:
-- name: disk1.ima
+- name: Disk1.ima
   size: 368640
-  date: '1990-07-23T18:09:02'
+  date: '2024-01-19T17:17:52'
   crc: '0x0ecf2f27'
-- name: disk2.ima
+- name: Disk2.ima
   size: 368640
-  date: '1990-07-23T18:09:02'
+  date: '2024-01-19T17:18:02'
   crc: '0x380525db'

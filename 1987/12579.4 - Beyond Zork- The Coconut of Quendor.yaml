@@ -1,5 +1,6 @@
-filename: Beyond Zork- The Coconut of Quendor r57 (1987)(Infocom, Inc.) [IMA][360k].zip
+filename: Beyond Zork- The Coconut of Quendor r57 (1987)(Infocom, Inc.) [IMA][360k][!].zip
 tdc_id: '12579.4'
+parent_id: '12579.6'
 title:
   box: 'Beyond Zork: The Coconut of Quendor'
 publisher: Infocom, Inc.
@@ -8,12 +9,16 @@ genre: IMA
 language: English
 date:
   added: '2023-02-24T12:51:50'
-  last_modified: '2023-02-24T12:51:50'
+  last_modified: '2024-01-23T08:01:28'
 release: '57'
 type: IMA
+tags:
+- KnownGood
 media: 360K
+references:
+  mobygames: https://www.mobygames.com/game/54/beyond-zork-the-coconut-of-quendor/
 files:
-- name: disk1.img
+- name: Disk1.ima
   size: 368640
-  date: '2010-12-16T15:23:00'
+  date: '2024-01-19T18:21:32'
   crc: '0xb6fbab29'

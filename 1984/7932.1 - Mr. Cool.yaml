@@ -1,5 +1,6 @@
-filename: Mr. Cool [DC] (1984)(Sierra On-Line, Inc.) [Action].zip
+filename: Mr. Cool r840315 [DC] (1984)(Sierra On-Line, Inc.) [Action].zip
 tdc_id: '7932.1'
+parent_id: '7932.2'
 title:
   box: Mr. Cool
 publisher: Sierra On-Line, Inc.
@@ -8,10 +9,16 @@ genre: Action
 language: English
 date:
   added: '2019-03-01T18:24:12'
-  last_modified: '2019-03-01T18:24:12'
+  last_modified: '2024-01-23T15:27:29'
+release: '840315'
 type: zip
 tags:
 - DOSConversion
+media: 360K
+commands:
+  play: START.COM
+references:
+  mobygames: https://www.mobygames.com/game/9295/mr-cool/
 files:
 - name: HIGH
   size: 512
@@ -19,7 +26,7 @@ files:
   crc: '0x76b4a87f'
 - name: MAIN.EXE
   size: 36368
-  date: '2013-01-07T22:17:48'
+  date: '1984-03-15T13:48:46'
   crc: '0xa2846209'
 - name: README.TXT
   size: 712

@@ -1,5 +1,6 @@
-filename: Hollywood Hijinx r37 (1986)(Infocom, Inc.) [IMA][180k].zip
+filename: Hollywood Hijinx r37 (1986)(Infocom, Inc.) [IMA][180k][!].zip
 tdc_id: '8348.1'
+parent_id: '8348.2'
 title:
   box: Hollywood Hijinx
 publisher: Infocom, Inc.
@@ -8,14 +9,16 @@ genre: IMA
 language: English
 date:
   added: '2023-02-24T12:32:28'
-  last_modified: '2023-02-24T12:32:28'
+  last_modified: '2024-01-23T08:07:33'
 release: '37'
 type: IMA
+tags:
+- KnownGood
 media: 360K
 references:
-  mobygames: https://www.mobygames.com/game/dos/hollywood-hijinx
+  mobygames: https://www.mobygames.com/game/470/hollywood-hijinx/
 files:
-- name: hijinx37.ima
-  size: 184448
-  date: '2022-06-05T10:14:36'
-  crc: '0xb9b2dbd4'
+- name: Disk1.ima
+  size: 184320
+  date: '2024-01-19T18:41:44'
+  crc: '0xcd9e78e2'

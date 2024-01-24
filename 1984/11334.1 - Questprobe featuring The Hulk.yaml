@@ -1,8 +1,10 @@
-filename: Hulk, The [f1] (1984)(Load'N'Go Software) [Adventure, Interactive Fiction].zip
+filename: Hulk, The (1984)(Green Valley Publishing, ShareData, Inc.) [Adventure, Interactive Fiction].zip
 tdc_id: '11334.1'
+parent_id: '11334.3'
 title:
   box: The Hulk
-publisher: Load'N'Go Software
+  screen: Questprobe featuring The Hulk
+publisher: Green Valley Publishing, ShareData, Inc.
 year: '1984'
 genre:
 - Adventure
@@ -10,13 +12,13 @@ genre:
 language: English
 date:
   added: '2019-04-23T21:36:34'
-  last_modified: '2019-04-23T21:36:34'
+  last_modified: '2024-01-23T15:08:06'
 type: zip
-tags:
-- Fixed: 1
+media: 360K
 commands:
   play: START.EXE
 references:
+  mobygames: https://www.mobygames.com/game/1943/the-hulk/
   dosid: DOS02669
   exodos: Questprobe featuring The Hulk (1984).zip
 files:

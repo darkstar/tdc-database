@@ -1,5 +1,6 @@
-filename: Trinity r11 (1986)(Infocom, Inc.) [IMA][360k].zip
+filename: Trinity r11 (1986)(Infocom, Inc.) [IMA][360k][!].zip
 tdc_id: '16917.5'
+parent_id: '16917.7'
 title:
   box: Trinity
 publisher: Infocom, Inc.
@@ -8,14 +9,16 @@ genre: IMA
 language: English
 date:
   added: '2023-06-22T08:10:02'
-  last_modified: '2023-06-22T08:10:02'
+  last_modified: '2024-01-23T14:34:51'
 release: '11'
 type: IMA
+tags:
+- KnownGood
 media: 360K
 references:
   mobygames: https://www.mobygames.com/game/477/trinity/
 files:
-- name: disk1.ima
+- name: Disk1.ima
   size: 368640
-  date: '1986-05-13T08:44:58'
+  date: '2024-01-23T17:39:12'
   crc: '0x4ca6213b'

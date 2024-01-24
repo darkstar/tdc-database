@@ -1,5 +1,6 @@
-filename: Sherlock- The Riddle of the Crown Jewels r21 (1988)(Infocom, Inc.) [IMA][360k].zip
+filename: Sherlock- The Riddle of the Crown Jewels r21 (1988)(Infocom, Inc.) [IMA][360k][!].zip
 tdc_id: '15015.2'
+parent_id: '15015.3'
 title:
   box: 'Sherlock: The Riddle of the Crown Jewels'
 publisher: Infocom, Inc.
@@ -8,12 +9,16 @@ genre: IMA
 language: English
 date:
   added: '2023-02-24T16:58:32'
-  last_modified: '2023-02-24T16:58:32'
+  last_modified: '2024-01-23T14:37:44'
 release: '21'
 type: IMA
+tags:
+- KnownGood
 media: 360K
+references:
+  mobygames: https://www.mobygames.com/game/479/sherlock-the-riddle-of-the-crown-jewels/
 files:
-- name: disk1.ima
+- name: Disk1.ima
   size: 368640
-  date: '2019-11-19T21:24:18'
+  date: '2024-01-23T17:14:54'
   crc: '0x9cfb4616'

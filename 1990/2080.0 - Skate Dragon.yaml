@@ -1,18 +1,23 @@
-filename: Skate Dragon (Es) (1990)(Iris Soft) [Action].zip
+filename: Skate Dragon (Es) (1990)(Iris Soft) [Action][!].zip
 tdc_id: '2080.0'
+parent_id: '2080.2'
 title:
-  screen: Skate Dragon
+  box: Skate Dragon
 publisher: Iris Soft
 year: '1990'
 genre: Action
 language: Spanish
 date:
   added: '2019-03-01T18:34:02'
-  last_modified: '2019-03-01T18:34:02'
+  last_modified: '2024-01-23T14:50:05'
 type: zip
+tags:
+- KnownGood
+media: 360K
 commands:
   play: SD.EXE
 references:
+  mobygames: https://www.mobygames.com/game/129770/skate-dragon/
   dosid: DOS08040
   exodos: Skate Dragon (1990).zip
 files:
