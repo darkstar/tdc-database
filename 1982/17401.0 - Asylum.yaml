@@ -1,0 +1,30 @@
+filename: Asylum [DC] (1982)(Med Systems Software) [Adventure, Interactive Fiction].zip
+tdc_id: '17401.0'
+title:
+  box: Asylum
+publisher: Med Systems Software
+year: '1982'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  last_modified: '2024-01-24T08:58:13'
+type: zip
+tags:
+- DOSConversion
+media: 360K
+commands:
+  play: ASYLUM.EXE
+references:
+  mobygames: https://www.mobygames.com/game/64947/asylum/
+notes: +=PCMag Aug.'82, 198 + Sep.'82, 66 + Sep.'82, 317 /// booter, 48K, 80col graphics, $39.95
+files:
+- name: ASYLUM.EXE
+  size: 28210
+  date: '1983-05-01T00:00:00'
+  crc: '0xfda7b4dd'
+- name: ASYLUM.SAV
+  size: 2560
+  date: '1983-05-01T00:00:00'
+  crc: '0x0b3e6ec2'

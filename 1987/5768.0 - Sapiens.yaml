@@ -1,8 +1,8 @@
-filename: Sapiens (1987)(Loriciel SA) [Action, Adventure].zip
+filename: Sapiens (1987)(Loriciels) [Action, Adventure].zip
 tdc_id: '5768.0'
 title:
   box: Sapiens
-publisher: Loriciel SA
+publisher: Loriciels
 year: '1987'
 genre:
 - Action
@@ -10,10 +10,12 @@ genre:
 language: English
 date:
   added: '2019-12-19T21:55:42'
-  last_modified: '2019-12-19T21:55:42'
+  last_modified: '2024-01-26T16:30:16'
 type: zip
 commands:
   play: SAPIENS.EXE
+references:
+  mobygames: https://www.mobygames.com/game/16184/sapiens/
 files:
 - name: SAPIENS.EXE
   size: 89916

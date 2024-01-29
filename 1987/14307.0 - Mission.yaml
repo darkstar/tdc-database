@@ -1,4 +1,4 @@
-filename: Mission (Fr) (1987)(Loriciels) [Action].zip
+filename: Mission (Fr) [f1] (1987)(Loriciels) [Action].zip
 tdc_id: '14307.0'
 title:
   box: Mission
@@ -8,11 +8,14 @@ genre: Action
 language: French
 date:
   added: '2019-03-01T18:25:28'
-  last_modified: '2019-03-01T18:25:28'
+  last_modified: '2024-01-26T09:59:15'
 type: zip
+tags:
+- Fixed: 1
 commands:
   play: MISSION.EXE
 references:
+  mobygames: https://www.mobygames.com/game/33752/mission/
   dosid: DOS03591
   exodos: Mission (1987).zip
 files:

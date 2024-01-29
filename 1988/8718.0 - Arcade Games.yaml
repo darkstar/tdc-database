@@ -1,19 +1,20 @@
-filename: Arcade Games v1.1 (1987)(Keypunch Software, Inc.) [Action, Compilation].zip
+filename: Arcade Games v1.1 (1988)(Keypunch Software, Inc.) [Action, Compilation].zip
 tdc_id: '8718.0'
 title:
   box: Arcade Games
 publisher: Keypunch Software, Inc.
-year: '1987'
+year: '1988'
 genre:
 - Action
 - Compilation
 language: English
 date:
   added: '2020-07-14T16:10:16'
-  last_modified: '2020-07-14T16:10:16'
+  last_modified: '2024-01-24T15:49:18'
 version: '1.1'
 type: zip
-compilation: true
+commands:
+  play: GO.BAT
 files:
 - name: ARCADE.CPR
   size: 6226

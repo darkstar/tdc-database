@@ -1,8 +1,9 @@
-filename: Pinball Magic (1990)(Loriciels) [Simulation, Action].zip
+filename: Pinball Magic [f1] (1990)(Loriciel SA) [Simulation, Action].zip
 tdc_id: '10267.0'
+parent_id: '10267.1'
 title:
   box: Pinball Magic
-publisher: Loriciels
+publisher: Loriciel SA
 year: '1990'
 genre:
 - Simulation
@@ -10,11 +11,15 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:33:34'
-  last_modified: '2019-03-01T18:33:34'
+  last_modified: '2024-01-26T16:16:11'
 type: zip
+tags:
+- Fixed: 1
+media: 720K
 commands:
   play: PINBALL.EXE
 references:
+  mobygames: https://www.mobygames.com/game/27703/pinball-magic/
   dosid: DOS04010
   exodos: Pinball Magic (1990).zip
 files:
@@ -330,6 +335,10 @@ files:
   size: 54902
   date: '1992-02-18T19:39:58'
   crc: '0x043754c3'
+- name: PINBALL.EX_
+  size: 29042
+  date: '1990-11-08T15:39:38'
+  crc: '0x6fc1b474'
 - name: PLANMASQ.000
   size: 3371
   date: '1990-08-30T10:48:00'

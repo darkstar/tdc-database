@@ -1,5 +1,6 @@
-filename: Darklands Upgrade and Bonus Disk v483.04 (1992)(MicroProse Software, Inc.) [IMA][1440k].zip
+filename: Darklands Upgrade and Bonus Disk v483.04 (1992)(MicroProse Software, Inc.) [IMA][1440k][!].zip
 tdc_id: '12945.30'
+parent_id: '12945.32'
 title:
   box: Darklands Upgrade and Bonus Disk
 publisher: MicroProse Software, Inc.
@@ -8,14 +9,16 @@ genre: IMA
 language: English
 date:
   added: '2023-07-07T11:47:56'
-  last_modified: '2023-07-07T11:47:56'
+  last_modified: '2024-01-28T07:54:55'
 version: '483.04'
 type: IMA
+tags:
+- KnownGood
 media: 1.44M
 references:
   mobygames: https://www.mobygames.com/game/258/darklands/
 files:
-- name: Bonus.IMA
+- name: Disk1.ima
   size: 1474560
-  date: '1992-10-15T11:45:40'
+  date: '2024-01-25T19:22:58'
   crc: '0xe3dc90ad'

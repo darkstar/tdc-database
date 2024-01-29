@@ -1,19 +1,22 @@
-filename: Arcade Bonanza (1987)(Keypunch Software, Inc.) [Action, Compilation].zip
+filename: Arcade Bonanza v1.1 (1986)(Keypunch Software, Inc.) [Action, Compilation].zip
 tdc_id: '8716.0'
 title:
   box: Arcade Bonanza
 publisher: Keypunch Software, Inc.
-year: '1987'
+year: '1986'
 genre:
 - Action
 - Compilation
 language: English
 date:
   added: '2019-03-01T18:25:08'
-  last_modified: '2019-03-01T18:25:08'
+  last_modified: '2024-01-24T15:53:02'
+version: '1.1'
 type: zip
-compilation: true
+commands:
+  play: MENU.BAT
 references:
+  mobygames: https://www.mobygames.com/game/50405/arcade-bonanza/
   dosid: DOS00826
   exodos: Arcade Bonanza (1987).zip
 files:

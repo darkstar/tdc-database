@@ -1,8 +1,8 @@
-filename: L'aigle d'or - Le retour [tr En][h1] (1991)(Loriciel) [Adventure, Action].zip
-tdc_id: '11837.1'
+filename: L'aigle d'or - Le retour [tr En][h1] (1991)(Loriciel SA) [Adventure, Action].zip
+tdc_id: '14135.3'
 title:
   box: L'aigle d'or - Le retour
-publisher: Loriciel
+publisher: Loriciel SA
 year: '1991'
 genre:
 - Adventure
@@ -10,11 +10,15 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:36:32'
-  last_modified: '2019-03-01T18:36:32'
+  last_modified: '2024-01-26T09:11:31'
 type: zip
 tags:
 - Translated
 - Hack: 1
+commands:
+  play: EAGLE2.EXE
+references:
+  mobygames: https://www.mobygames.com/game/54825/golden-eagle/
 files:
 - name: AIGLE.SAV
   size: 320

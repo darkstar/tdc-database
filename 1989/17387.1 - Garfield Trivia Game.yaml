@@ -1,0 +1,106 @@
+filename: Garfield Trivia Game (1989)(Developmental Learning Materials) [Trivia].zip
+tdc_id: '17387.1'
+title:
+  box: Garfield Trivia Game
+publisher: Developmental Learning Materials
+year: '1989'
+genre: Trivia
+language: English
+date:
+  added: '2024-01-26T20:03:49'
+  last_modified: '2024-01-26T20:03:49'
+type: zip
+media: 360K
+commands:
+  play: TRIVIA.EXE
+references:
+  mobygames: https://www.mobygames.com/game/142991/garfield-trivia-game/
+files:
+- name: AUTOEXEC.BAT
+  size: 6
+  date: '1988-08-17T08:58:14'
+  crc: '0x3abb7090'
+- name: CAT1.TRV
+  size: 6226
+  date: '1988-08-30T11:43:24'
+  crc: '0xe785687c'
+- name: CAT2.TRV
+  size: 5524
+  date: '1988-08-30T11:43:44'
+  crc: '0x6a98be45'
+- name: CAT3.TRV
+  size: 6205
+  date: '1988-08-30T11:44:24'
+  crc: '0x4ecbe32b'
+- name: CAT4.TRV
+  size: 6859
+  date: '1988-08-30T11:45:12'
+  crc: '0xb3114e94'
+- name: CAT5.TRV
+  size: 6632
+  date: '1988-08-10T09:31:16'
+  crc: '0x9c1f2d8e'
+- name: CAT6.TRV
+  size: 6075
+  date: '1988-08-30T11:45:54'
+  crc: '0x8f1e7a52'
+- name: CATEGORY.TRV
+  size: 64
+  date: '1988-08-29T10:58:44'
+  crc: '0x681b9b7e'
+- name: CGA.BGI
+  size: 6029
+  date: '1987-11-17T04:00:00'
+  crc: '0xcd2d7722'
+- name: CHDRIVE.EXE
+  size: 5168
+  date: '1988-08-04T03:12:22'
+  crc: '0x19c33c96'
+- name: DATADISK
+  size: 3
+  date: '1988-08-30T14:00:10'
+  crc: '0xdb62a9b6'
+- name: DISKNAME.TRV
+  size: 7
+  date: '1988-08-17T09:00:44'
+  crc: '0x5d504e18'
+- name: EDPICS.IMG
+  size: 926
+  date: '1988-08-25T13:36:42'
+  crc: '0xb4358037'
+- name: EDTRIV.EXE
+  size: 48864
+  date: '1988-09-01T13:51:48'
+  crc: '0xdcb17f4b'
+- name: GAMEPICS.IMG
+  size: 6862
+  date: '1988-08-25T13:36:42'
+  crc: '0xddc59021'
+- name: GMTRIV.EXE
+  size: 44720
+  date: '1988-09-02T13:25:08'
+  crc: '0x9ecf67a8'
+- name: INPICS.IMG
+  size: 22522
+  date: '1988-08-25T13:36:46'
+  crc: '0x3c94ef0d'
+- name: INSTALL.BAT
+  size: 928
+  date: '1988-08-31T14:00:56'
+  crc: '0x75a1642c'
+- name: LITT.CHR
+  size: 2126
+  date: '1987-11-17T04:00:00'
+  crc: '0xfe9cb16d'
+- name: TRIVIA.CO_
+  size: 5006
+  date: '1988-09-07T17:50:58'
+  crc: '0x76c036b3'
+- name: TRIVIA.EXE
+  size: 22800
+  date: '1988-09-07T17:50:58'
+  crc: '0x4418a163'
+- name: TRIVIA.PCX
+  size: 6623
+  date: '1988-08-03T22:31:36'
+  crc: '0xb1d8a6d5'

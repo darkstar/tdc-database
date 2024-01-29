@@ -1,8 +1,8 @@
-filename: Spider-Man v2.6 [f1] (1984)(Load'N'Go Software) [Adventure, Interactive Fiction].zip
+filename: Spider-Man v2.6 [f1] (1984)(Green Valley Publishing, ShareData, Inc.) [Adventure, Interactive Fiction].zip
 tdc_id: '15400.0'
 title:
   box: Spider-Man
-publisher: Load'N'Go Software
+publisher: Green Valley Publishing, ShareData, Inc.
 year: '1984'
 genre:
 - Adventure
@@ -10,13 +10,15 @@ genre:
 language: English
 date:
   added: '2021-12-11T16:16:24'
-  last_modified: '2021-12-11T16:16:24'
+  last_modified: '2024-01-25T09:14:23'
 version: '2.6'
 type: zip
 tags:
 - Fixed: 1
 commands:
   play: MENU.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1870/spider-man/
 files:
 - name: B015.PAK
   size: 1408

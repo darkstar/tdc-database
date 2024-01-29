@@ -1,8 +1,8 @@
-filename: L'aigle d'or - Le retour (Fr) (1991)(Loriciels) [Adventure, Action].zip
-tdc_id: '11837.0'
+filename: L'aigle d'or - Le retour (Fr) (1991)(Loriciel SA) [Adventure, Action].zip
+tdc_id: '14135.2'
 title:
   box: L'aigle d'or - Le retour
-publisher: Loriciels
+publisher: Loriciel SA
 year: '1991'
 genre:
 - Adventure
@@ -10,10 +10,12 @@ genre:
 language: French
 date:
   added: '2019-03-01T18:36:30'
-  last_modified: '2019-03-01T18:36:30'
+  last_modified: '2024-01-26T09:11:08'
 type: zip
 commands:
   play: AIGLE.EXE
+references:
+  mobygames: https://www.mobygames.com/game/54825/golden-eagle/
 files:
 - name: AIGLE.EXE
   size: 64657

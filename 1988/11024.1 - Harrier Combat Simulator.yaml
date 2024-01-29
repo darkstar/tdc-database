@@ -1,4 +1,4 @@
-filename: Harrier Combat Simulator r240488 (1988)(Mindscape, Inc.) [Simulation].zip
+filename: Harrier Combat Simulator r880424 (1988)(Mindscape, Inc.) [Simulation].zip
 tdc_id: '11024.1'
 title:
   box: Harrier Combat Simulator
@@ -8,10 +8,13 @@ genre: Simulation
 language: English
 date:
   added: '2022-06-23T11:06:32'
-  last_modified: '2022-06-23T11:06:32'
-release: '240488'
+  last_modified: '2024-01-25T08:09:17'
+release: '880424'
 type: zip
+commands:
+  play: HARRIER.COM
 references:
+  mobygames: https://www.mobygames.com/game/3883/harrier-combat-simulator/
   dosid: DOS05902
   exodos: Harrier Combat Simulator (1987).zip
 files:

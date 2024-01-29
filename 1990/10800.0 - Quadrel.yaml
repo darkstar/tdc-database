@@ -1,18 +1,23 @@
-filename: Quadrel (En)(Fr) (1990)(Loriciel) [Strategy].zip
+filename: Quadrel (En)(Fr) (1990)(Loriciel SA) [Strategy, Puzzle].zip
 tdc_id: '10800.0'
 title:
   box: Quadrel
-publisher: Loriciel
+publisher: Loriciel SA
 year: '1990'
-genre: Strategy
+genre:
+- Strategy
+- Puzzle
 language:
 - English
 - French
 date:
   added: '2019-03-01T18:33:42'
-  last_modified: '2019-03-01T18:33:42'
+  last_modified: '2024-01-26T16:23:15'
 type: zip
+commands:
+  play: Quadrel.exe
 references:
+  mobygames: https://www.mobygames.com/game/13227/quadrel/
   dosid: DOS04178
   exodos: Quadrel (1990).zip
 files:

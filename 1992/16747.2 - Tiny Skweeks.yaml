@@ -1,8 +1,8 @@
-filename: Tiny Skweeks [h1] (1992)(Loriciels) [Strategy, Action].zip
+filename: Tiny Skweeks [h1] (1992)(Loriciel SA) [Strategy, Action].zip
 tdc_id: '16747.2'
 title:
   box: Tiny Skweeks
-publisher: Loriciels
+publisher: Loriciel SA
 year: '1992'
 genre:
 - Strategy
@@ -10,10 +10,15 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:51:56'
-  last_modified: '2019-03-01T18:51:56'
+  last_modified: '2024-01-26T17:09:57'
 type: zip
 tags:
 - Hack: 1
+commands:
+  play: SKWEEKS.EXE
+  setup: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/15730/the-brainies/
 files:
 - name: BRAIN.CFG
   size: 12

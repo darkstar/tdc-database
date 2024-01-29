@@ -1,16 +1,21 @@
-filename: Booly (1991)(Loriciel SA) [Strategy].zip
+filename: Booly (1991)(Loriciel SA) [Strategy, Puzzle].zip
 tdc_id: '8823.0'
 title:
   box: Booly
 publisher: Loriciel SA
 year: '1991'
-genre: Strategy
+genre:
+- Strategy
+- Puzzle
 language: English
 date:
   added: '2020-01-14T19:42:26'
-  last_modified: '2020-01-14T19:42:26'
+  last_modified: '2024-01-25T11:31:02'
 type: zip
+commands:
+  play: VGAEGA.EXE
 references:
+  mobygames: https://www.mobygames.com/game/20781/booly/
   dosid: DOS01145
   exodos: Booly (1991).zip
 files:

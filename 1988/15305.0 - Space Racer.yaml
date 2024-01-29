@@ -1,8 +1,8 @@
-filename: Space Racer (Fr) (1988)(Loriciel) [Action, Racing - Driving].zip
+filename: Space Racer (Fr) (1988)(Loriciels) [Action, Racing - Driving].zip
 tdc_id: '15305.0'
 title:
   box: Space Racer
-publisher: Loriciel
+publisher: Loriciels
 year: '1988'
 genre:
 - Action
@@ -10,10 +10,12 @@ genre:
 language: French
 date:
   added: '2008-03-02T04:05:44'
-  last_modified: '2008-03-02T04:05:44'
+  last_modified: '2024-01-26T16:50:51'
 type: zip
 commands:
   play: SPACE.EXE
+references:
+  mobygames: https://www.mobygames.com/game/250/space-racer/
 files:
 - name: MENU.PI1
   size: 16384

@@ -1,30 +1,37 @@
-filename: Panza Kick Boxing [a1] (1990)(Loriciels) [Action, Sports].zip
+filename: Panza Kick Boxing (1991)(U.S. Gold Ltd., Kixx) [Action, Sports][!].zip
 tdc_id: '10616.2'
+parent_id: '10616.3'
 title:
   box: Panza Kick Boxing
-publisher: Loriciels
-year: '1990'
+publisher: U.S. Gold Ltd., Kixx
+year: '1991'
 genre:
 - Action
 - Sports
 language: English
 date:
   added: '2019-03-01T18:33:30'
-  last_modified: '2019-03-01T18:33:30'
+  last_modified: '2024-01-26T12:41:58'
 type: zip
 tags:
-- Alternate: 1
+- KnownGood
+media: 720K
 commands:
   play: KICK.EXE
+references:
+  mobygames: https://www.mobygames.com/game/12587/panza-kick-boxing/
 files:
+- name: B\
+  size: 0
+  date: '1990-11-05T11:33:08'
 - name: B\BOXER.00A
   size: 35
-  date: '1998-10-19T21:58:50'
-  crc: '0x3ab72114'
+  date: '1990-11-05T15:36:14'
+  crc: '0x9c31ea74'
 - name: B\BOXER.00B
   size: 35
-  date: '1998-10-19T21:35:36'
-  crc: '0xe767c0ac'
+  date: '1990-11-05T15:36:14'
+  crc: '0x6ad750fc'
 - name: B\BOXER.00C
   size: 35
   date: '1990-11-05T15:36:16'
@@ -51,11 +58,11 @@ files:
   crc: '0x49d670ab'
 - name: B\BOXER.00I
   size: 35
-  date: '1998-10-19T21:56:04'
-  crc: '0xab545779'
+  date: '1990-11-05T15:36:16'
+  crc: '0x12a4f897'
 - name: B\BOXER.00J
   size: 35
-  date: '1998-10-19T21:41:16'
+  date: '1990-11-05T15:36:16'
   crc: '0x39bf5af8'
 - name: B\BOXER.00K
   size: 35
@@ -81,26 +88,39 @@ files:
   size: 35
   date: '1990-11-05T15:36:18'
   crc: '0xf406d14e'
+- name: C\
+  size: 0
+  date: '1990-11-05T15:48:00'
 - name: C\GENETOS.BIN
   size: 2048
   date: '1987-04-22T00:02:24'
   crc: '0xb6203798'
-- name: GRAPHICS\TOUT0.BIN
-  size: 319473
-  date: '1998-12-11T20:21:08'
-  crc: '0x875b1307'
+- name: GRAPHICS\
+  size: 0
+  date: '1990-11-05T15:48:02'
 - name: GRAPHICS\TOUT1.BIN
   size: 132523
-  date: '1998-12-11T20:21:10'
+  date: '2107-12-31T23:59:58'
   crc: '0x64b69ffb'
 - name: GRAPHICS\TOUT3.BIN
   size: 59134
-  date: '1998-12-11T20:21:10'
+  date: '2107-12-31T23:59:58'
   crc: '0xcbf2112a'
+- name: INSTALHD.BAT
+  size: 1024
+  date: '1990-10-18T16:32:54'
+  crc: '0xbaeb6156'
 - name: KICK.EXE
   size: 40473
-  date: '1992-07-03T17:59:28'
+  date: '1980-01-01T00:00:00'
   crc: '0xdf80174e'
+- name: KICK.EX_
+  size: 41458
+  date: '1990-11-05T15:38:58'
+  crc: '0x5829591f'
+- name: M\
+  size: 0
+  date: '1990-11-05T15:47:34'
 - name: M\P3A.SPL
   size: 31500
   date: '1987-04-22T01:34:32'
@@ -129,29 +149,35 @@ files:
   size: 36000
   date: '1987-04-22T01:35:40'
   crc: '0x3e9e1154'
+- name: N\
+  size: 0
+  date: '1990-11-05T11:32:38'
 - name: N\VOIX.SPL
   size: 48095
-  date: '1998-12-11T20:21:10'
+  date: '2107-12-31T23:59:58'
   crc: '0xec769fb8'
 - name: N\VOIX2.SPL
   size: 16543
-  date: '1998-12-11T20:21:10'
+  date: '2107-12-31T23:59:58'
   crc: '0x06cb3480'
+- name: P\
+  size: 0
+  date: '1990-11-05T15:47:18'
 - name: P\PRES0.CGA
   size: 9732
-  date: '1998-12-11T20:21:10'
+  date: '2107-12-31T23:59:58'
   crc: '0x70143ce0'
 - name: P\PRES0.PI1
   size: 12318
-  date: '1998-12-11T20:21:10'
+  date: '2107-12-31T23:59:58'
   crc: '0x032ede90'
 - name: P\PRES1.CGA
   size: 14313
-  date: '1998-12-11T20:21:10'
+  date: '2107-12-31T23:59:58'
   crc: '0x683911c4'
 - name: P\PRES1.PI1
   size: 16814
-  date: '1998-12-11T20:21:10'
+  date: '2107-12-31T23:59:58'
   crc: '0x5ac961ed'
 - name: P\PRES2.CGA
   size: 32099
@@ -161,119 +187,134 @@ files:
   size: 32099
   date: '1990-11-02T12:40:58'
   crc: '0x4b7354c5'
+- name: S\
+  size: 0
+  date: '1990-11-05T11:31:08'
 - name: S\BOARD.CGA
   size: 11912
-  date: '1998-12-11T20:21:10'
+  date: '2107-12-31T23:59:58'
   crc: '0xbc8fad63'
 - name: S\BOARD.PI1
   size: 17898
-  date: '1998-12-11T20:21:10'
+  date: '2107-12-31T23:59:58'
   crc: '0x34dffe1f'
 - name: S\BOARD1.CGA
-  size: 286720
-  date: '1998-12-11T20:21:10'
-  crc: '0xee48fb1c'
+  size: 7368
+  date: '2107-12-31T23:59:58'
+  crc: '0xb5ead5b7'
 - name: S\BOARD1.PI1
   size: 13912
-  date: '1998-12-11T20:21:10'
+  date: '2107-12-31T23:59:58'
   crc: '0xca13d860'
 - name: S\BOARD2.CGA
   size: 11790
-  date: '1998-12-11T20:21:10'
+  date: '2107-12-31T23:59:58'
   crc: '0x5307fa34'
 - name: S\BOARD2.PI1
   size: 17810
-  date: '1998-12-11T20:21:10'
+  date: '2107-12-31T23:59:58'
   crc: '0xcabcab42'
 - name: S\GYM1.CGA
   size: 8955
-  date: '1998-12-11T20:21:10'
+  date: '2107-12-31T23:59:58'
   crc: '0xbe923865'
 - name: S\GYM1.PI1
   size: 15587
-  date: '1998-12-11T20:21:10'
+  date: '2107-12-31T23:59:58'
   crc: '0xababf059'
 - name: S\MENU.CGA
   size: 9613
-  date: '1998-12-11T20:21:10'
+  date: '2107-12-31T23:59:58'
   crc: '0xe221072e'
 - name: S\MENU.PI1
   size: 19329
-  date: '1998-12-11T20:21:10'
+  date: '2107-12-31T23:59:58'
   crc: '0x3709ec55'
 - name: S\OPTION.CGA
   size: 8944
-  date: '1998-12-11T20:21:10'
+  date: '2107-12-31T23:59:58'
   crc: '0x349ce148'
 - name: S\OPTION.PI1
   size: 16525
-  date: '1998-12-11T20:21:10'
+  date: '2107-12-31T23:59:58'
   crc: '0x1be2cada'
 - name: S\REFUS.CGA
   size: 12028
-  date: '1998-12-11T20:21:10'
+  date: '2107-12-31T23:59:58'
   crc: '0xc19f6855'
 - name: S\REFUS.PI1
-  size: 9450
-  date: '1998-12-11T20:21:10'
-  crc: '0x46b94092'
+  size: 14619
+  date: '2107-12-31T23:59:58'
+  crc: '0x6e5eab1a'
 - name: S\SALLE0.CGA
   size: 15860
-  date: '1998-12-11T20:21:10'
+  date: '2107-12-31T23:59:58'
   crc: '0x9be92306'
 - name: S\SALLE0.PI1
   size: 21315
-  date: '1998-12-11T20:21:10'
+  date: '2107-12-31T23:59:58'
   crc: '0x267169f0'
 - name: S\SALLE1.CGA
   size: 32099
-  date: '1998-12-11T20:21:10'
+  date: '2107-12-31T23:59:58'
   crc: '0x01ecf329'
 - name: S\SALLE1.PI1
   size: 17084
-  date: '1998-12-11T20:21:10'
+  date: '2107-12-31T23:59:58'
   crc: '0xec8e303f'
 - name: S\SCORE0.CGA
   size: 13012
-  date: '1998-12-11T20:21:10'
+  date: '2107-12-31T23:59:58'
   crc: '0xdc5646dc'
 - name: S\SCORE0.PI1
   size: 18731
-  date: '1998-12-11T20:21:10'
+  date: '2107-12-31T23:59:58'
   crc: '0x2904740d'
 - name: S\SCORE1.CGA
   size: 15074
-  date: '1998-12-11T20:21:10'
+  date: '2107-12-31T23:59:58'
   crc: '0x4c034deb'
 - name: S\SCORE1.PI1
   size: 13914
-  date: '1998-12-11T20:21:10'
+  date: '2107-12-31T23:59:58'
   crc: '0x75c713f8'
 - name: S\SELECT.CGA
   size: 13807
-  date: '1998-12-11T20:21:10'
+  date: '2107-12-31T23:59:58'
   crc: '0xa9d7f47e'
 - name: S\SELECT.PI1
   size: 6163
-  date: '1998-12-11T20:21:10'
+  date: '2107-12-31T23:59:58'
   crc: '0x31dbcd83'
 - name: S\VICTORE.CGA
   size: 16222
-  date: '1998-12-11T20:21:10'
+  date: '2107-12-31T23:59:58'
   crc: '0x5be21f28'
 - name: S\VICTORE.PI1
   size: 14349
-  date: '1998-12-11T20:21:10'
+  date: '2107-12-31T23:59:58'
   crc: '0x4982b4ea'
 - name: S\VICTORY.CGA
   size: 18065
-  date: '1998-12-11T20:21:10'
+  date: '2107-12-31T23:59:58'
   crc: '0x91324928'
 - name: S\VICTORY.PI1
   size: 15695
-  date: '1998-12-11T20:21:10'
+  date: '2107-12-31T23:59:58'
   crc: '0x9667885c'
 - name: TOTO
+  size: 1
+  date: '1990-10-13T11:23:58'
+  crc: '0x62d277af'
+- name: TOTO.a
+  size: 1
+  date: '1990-10-06T20:18:56'
+  crc: '0xe8b7be43'
+- name: TOTO.b
+  size: 1
+  date: '1990-10-06T20:18:50'
+  crc: '0x71beeff9'
+- name: TOTOZ
   size: 1
   date: '1990-10-13T11:23:58'
   crc: '0x62d277af'
