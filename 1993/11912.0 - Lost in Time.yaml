@@ -1,16 +1,23 @@
-filename: Lost in Time (Installer) (1993)(Coktel Vision) [Adventure].zip
+filename: Lost in Time v1.000 (Installer) (1993)(Sierra On-Line, Inc.) [Adventure][!].zip
 tdc_id: '11912.0'
+parent_id: '11912.7'
 title:
   box: Lost in Time
-publisher: Coktel Vision
+  qualifier: Installer
+publisher: Sierra On-Line, Inc.
 year: '1993'
 genre: Adventure
 language: English
 date:
   added: '2019-03-01T19:12:00'
-  last_modified: '2019-03-01T19:12:00'
+  last_modified: '2024-01-31T19:30:50'
+version: '1.000'
 type: zip
+tags:
+- KnownGood
 installer: true
+commands:
+  play: INSTALL.EXE
 files:
 - name: BATCOM.#11
   size: 5668

@@ -1,5 +1,6 @@
-filename: Biology Series- Regulation and Homeostasis- Systems in Balance [f1] (1985)(IBM) [Educational].zip
+filename: Biology Series- Regulation and Homeostasis- Systems in Balance [f1] (1985)(IBM) [Educational][!].zip
 tdc_id: '12656.0'
+parent_id: '12656.2'
 title:
   box: 'Biology Series: Regulation and Homeostasis: Systems in Balance'
 publisher: IBM
@@ -8,10 +9,14 @@ genre: Educational
 language: English
 date:
   added: '2022-07-24T12:52:06'
-  last_modified: '2022-07-24T12:52:06'
+  last_modified: '2024-01-31T15:49:37'
 type: zip
 tags:
+- KnownGood
 - Fixed: 1
+media: 360K
+commands:
+  play: AUTOEXEC.BAT
 files:
 - name: AUTOEXEC.BAT
   size: 76

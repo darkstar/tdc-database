@@ -1,5 +1,6 @@
-filename: Physics Discovery Series- Investigating Conservation of Energy (1985)(IBM) [Educational].zip
+filename: Physics Discovery Series- Investigating Conservation of Energy (1985)(IBM) [Educational][!].zip
 tdc_id: '10224.0'
+parent_id: '10224.2'
 title:
   box: 'Physics Discovery Series: Investigating Conservation of Energy'
 publisher: IBM
@@ -8,8 +9,13 @@ genre: Educational
 language: English
 date:
   added: '2022-07-10T13:59:48'
-  last_modified: '2022-07-10T13:59:48'
+  last_modified: '2024-01-31T13:54:48'
 type: zip
+tags:
+- KnownGood
+media: 360K
+commands:
+  play: AUTOEXEC.BAT
 files:
 - name: AUTOEXEC.BAT
   size: 32

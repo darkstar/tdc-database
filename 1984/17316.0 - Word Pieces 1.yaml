@@ -1,5 +1,6 @@
-filename: Word Pieces 1 (1984)(Compu-Teach) [IMA][360k].zip
+filename: Word Pieces 1 (1984)(Compu-Teach) [IMA][320k].zip
 tdc_id: '17316.0'
+parent_id: '17316.2'
 title:
   box: Word Pieces 1
 publisher: Compu-Teach
@@ -8,11 +9,13 @@ genre: IMA
 language: English
 date:
   added: '2023-07-12T08:31:17'
-  last_modified: '2023-07-12T08:56:56'
+  last_modified: '2024-01-31T13:49:52'
 type: IMA
 media: 360K
+references:
+  mobygames: https://www.mobygames.com/game/204231/word-pieces-1/
 files:
-- name: disk1.ima
+- name: Disk1.ima
   size: 327680
-  date: '2023-06-13T08:11:28'
+  date: '2024-01-29T20:14:34'
   crc: '0x74c02d7c'

@@ -1,5 +1,6 @@
-filename: Double Agent (En)(De)(It)(Fr) [b1] (1998)(Flair Software Ltd.) [Action, Strategy].zip
+filename: Double Agent (En)(De)(It)(Fr) (1998)(Flair Software Ltd.) [Action, Strategy].zip
 tdc_id: '6661.0'
+parent_id: '6661.1'
 title:
   box: Double Agent
 publisher: Flair Software Ltd.
@@ -14,94 +15,22 @@ language:
 - German
 date:
   added: '2019-03-02T10:41:10'
-  last_modified: '2019-03-02T10:41:10'
+  last_modified: '2024-01-30T15:39:19'
 type: zip
-tags:
-- Bad: 1
+media: CD-ROM
+audio:
+- CD-DA
+commands:
+  play: DOSGO.BAT
 references:
+  mobygames: https://www.mobygames.com/game/76294/double-agent/
   dosid: DOS07463
   exodos: Double Agent (1998).zip
 files:
-- name: AILEVEL.DAT
-  size: 500
-  date: '1997-01-30T02:35:20'
-  crc: '0xf8a6800c'
-- name: A_SPYSEL.SEQ
-  size: 981134
-  date: '1996-09-08T12:10:42'
-  crc: '0x8ffee0cb'
-- name: BIGBAK.JAP
-  size: 42397
-  date: '1997-10-30T10:56:02'
-  crc: '0x1e1541fd'
-- name: BIGFRA.XIS
-  size: 12427
-  date: '1996-10-23T01:14:38'
-  crc: '0x2cacddc2'
-- name: BIGGER.XIS
-  size: 13520
-  date: '1996-10-23T01:17:42'
-  crc: '0x7305ca0a'
-- name: BIGHOL.XIS
-  size: 17088
-  date: '1994-10-04T11:54:34'
-  crc: '0xdfba62f4'
-- name: BIGITA.XIS
-  size: 13417
-  date: '1996-10-23T01:42:50'
-  crc: '0xa3625c4a'
-- name: BIGPOL.XIS
-  size: 15922
-  date: '1994-10-05T16:06:38'
-  crc: '0x17acacdb'
-- name: BIGPOR.XIS
-  size: 18796
-  date: '1994-03-10T17:16:56'
-  crc: '0x4746d6c0'
-- name: BIGSPA.XIS
-  size: 14727
-  date: '1996-10-23T01:15:46'
-  crc: '0x8006f8bb'
-- name: BIGSWE.XIS
-  size: 16315
-  date: '1994-10-04T15:44:02'
-  crc: '0x18823fd8'
-- name: BIGUK.XIS
-  size: 19590
-  date: '1996-10-23T01:13:08'
-  crc: '0x066056ba'
-- name: BRI_FONT.CEL
-  size: 64800
-  date: '1996-09-06T22:42:02'
-  crc: '0xa400038f'
-- name: B_SPYSEL.SEQ
-  size: 986708
-  date: '1996-09-08T12:13:12'
-  crc: '0x5ea3bf0f'
-- name: CDLOAD.SEQ
-  size: 57876
-  date: '1997-07-23T15:57:06'
-  crc: '0x24820ef3'
-- name: C_SPYSEL.SEQ
-  size: 768576
-  date: '1996-09-08T12:22:26'
-  crc: '0x5c252ce6'
-- name: DFT.TF
-  size: 307
-  date: '1996-10-30T17:23:30'
-  crc: '0x5d67f2de'
-- name: DRIVER.SB1
-  size: 11408
-  date: '1994-11-27T22:46:28'
-  crc: '0xddfb0296'
-- name: DRIVER.SB2
-  size: 35882
-  date: '1995-02-23T17:03:28'
-  crc: '0xd79c0f3e'
-- name: D_SPYSEL.SEQ
-  size: 992354
-  date: '1996-09-08T12:24:34'
-  crc: '0x9f929acc'
+- name: DOSGO.BAT
+  size: 1674
+  date: '1997-11-05T10:52:26'
+  crc: '0xfbe3252c'
 - name: E-READ.DOC
   size: 1042432
   date: '1997-11-28T11:57:10'
@@ -110,28 +39,28 @@ files:
   size: 27189
   date: '1997-11-28T11:49:42'
   crc: '0xc2acbade'
-- name: FREN.SKA
-  size: 978
-  date: '1997-11-20T11:15:22'
-  crc: '0xf67e50b2'
-- name: FUT.CHR
-  size: 768
-  date: '1993-09-04T01:07:52'
-  crc: '0x1e16b9d7'
+- name: G-READ.DOC
+  size: 1034752
+  date: '1997-11-28T11:50:50'
+  crc: '0xca7b657c'
 - name: G-READ.TXT
   size: 32591
   date: '1997-11-28T11:52:04'
   crc: '0xae3bff02'
 - name: GAME\
   size: 0
-  date: '2014-11-22T15:20:24'
+  date: '1997-11-29T11:27:52'
 - name: GAME\AGENT.COL
   size: 768
-  date: '1996-06-12T16:12:58'
+  date: '1996-06-12T15:12:58'
   crc: '0x96c3bd79'
+- name: GAME\AGENT.ICO
+  size: 2238
+  date: '1997-03-21T17:52:28'
+  crc: '0xd1c0b617'
 - name: GAME\BACKDROP.COL
   size: 768
-  date: '1996-06-19T16:23:54'
+  date: '1996-06-19T15:23:54'
   crc: '0x27241580'
 - name: GAME\BACKDROP.PMN
   size: 7029
@@ -139,15 +68,15 @@ files:
   crc: '0xad850335'
 - name: GAME\BACKDRP2.COL
   size: 768
-  date: '1996-06-19T16:24:16'
+  date: '1996-06-19T15:24:16'
   crc: '0xb92edac3'
 - name: GAME\BACKDRP3.COL
   size: 768
-  date: '1996-06-19T16:24:34'
+  date: '1996-06-19T15:24:34'
   crc: '0x8397375e'
 - name: GAME\BACKDRP4.COL
   size: 768
-  date: '1996-06-19T16:24:52'
+  date: '1996-06-19T15:24:52'
   crc: '0x0c2aa328'
 - name: GAME\BLUEBACK.PMN
   size: 20348
@@ -169,14 +98,38 @@ files:
   size: 8681
   date: '1996-11-03T06:11:26'
   crc: '0x16eb1d6b'
+- name: GAME\CDI.PIF
+  size: 967
+  date: '1997-10-16T17:10:12'
+  crc: '0x3c685826'
 - name: GAME\CDLOAD.EXE
   size: 8805
   date: '1997-11-11T14:50:42'
   crc: '0xf0f2c7bb'
+- name: GAME\CDLOAD.PIF
+  size: 967
+  date: '1997-10-16T16:57:50'
+  crc: '0x9ed21c54'
+- name: GAME\CREDIT.DSB
+  size: 21913483
+  date: '1997-11-20T12:25:46'
+  crc: '0x1a159328'
+- name: GAME\CREDITS.EXE
+  size: 11505
+  date: '1997-11-26T11:06:02'
+  crc: '0x77f66195'
+- name: GAME\CREDITS.PIF
+  size: 967
+  date: '1997-10-16T17:09:52'
+  crc: '0x23ff8cf2'
 - name: GAME\CSET.CHR
   size: 768
   date: '1992-11-21T19:15:32'
   crc: '0x99be5ad5'
+- name: GAME\DA.ICO
+  size: 2238
+  date: '1997-03-21T17:52:28'
+  crc: '0xd1c0b617'
 - name: GAME\DFT.TF
   size: 307
   date: '1996-10-30T17:23:30'
@@ -190,9 +143,13 @@ files:
   date: '1996-01-23T15:13:02'
   crc: '0x2bda1203'
 - name: GAME\DOUBLEA.BAT
-  size: 281
-  date: '1998-02-02T15:14:22'
-  crc: '0x57a69501'
+  size: 282
+  date: '1997-10-27T17:22:54'
+  crc: '0x23ecf512'
+- name: GAME\DOUBLEA.PIF
+  size: 967
+  date: '1997-11-27T11:17:30'
+  crc: '0x681eb960'
 - name: GAME\DRIVER.SB1
   size: 11408
   date: '1994-11-27T22:46:28'
@@ -207,35 +164,59 @@ files:
   crc: '0x32590125'
 - name: GAME\ELVLOD.SEQ
   size: 35456
-  date: '1997-07-16T18:20:20'
+  date: '1997-07-16T17:20:20'
   crc: '0x40087e9d'
-- name: GAME\ELVOVER.dsb
+- name: GAME\ELVOVER.DSB
   size: 826087
-  date: '1996-10-14T14:47:34'
+  date: '1996-10-14T13:47:34'
   crc: '0xc9e5a4c3'
 - name: GAME\ELVSCORE.SEQ
   size: 3638977
   date: '1996-11-27T23:11:36'
   crc: '0xff880413'
+- name: GAME\ENDSEQ1.DSB
+  size: 20642797
+  date: '1996-10-11T15:42:42'
+  crc: '0x314d64a8'
+- name: GAME\ENDSEQ2.DSB
+  size: 20725223
+  date: '1996-10-11T15:18:54'
+  crc: '0x65071633'
+- name: GAME\ENDSEQ3.DSB
+  size: 20585694
+  date: '1996-10-11T15:35:32'
+  crc: '0x4bad933f'
+- name: GAME\ENDSEQ4.DSB
+  size: 20294873
+  date: '1996-10-11T15:27:48'
+  crc: '0x7852a6ed'
 - name: GAME\FADE.SEQ
   size: 71284
-  date: '1996-09-07T20:44:34'
+  date: '1996-09-07T19:44:34'
   crc: '0x5722e629'
 - name: GAME\FILLER.SEQ
   size: 731118
-  date: '1997-08-21T19:00:46'
+  date: '1997-08-21T18:00:46'
   crc: '0xb08f3c80'
 - name: GAME\FIN.EXE
   size: 11745
   date: '1997-11-11T14:43:42'
   crc: '0x27840f9c'
+- name: GAME\FIN.PIF
+  size: 967
+  date: '1997-10-16T17:00:48'
+  crc: '0xf919fca7'
 - name: GAME\FL.EXE
   size: 8609
   date: '1997-11-11T14:41:16'
   crc: '0x1a2efb94'
+- name: GAME\FL.PIF
+  size: 967
+  date: '1997-10-16T17:00:20'
+  crc: '0x865bd129'
 - name: GAME\FLAIR.SEQ
   size: 69246
-  date: '1996-09-06T13:38:38'
+  date: '1996-09-06T12:38:38'
   crc: '0x8861ea70'
 - name: GAME\FONT.ATT
   size: 1010
@@ -243,11 +224,11 @@ files:
   crc: '0xfa2c984a'
 - name: GAME\FONT.PIC
   size: 64846
-  date: '1996-10-15T13:01:00'
+  date: '1996-10-15T12:01:00'
   crc: '0x57f2b383'
 - name: GAME\FONT.PMN
   size: 13874
-  date: '1996-09-07T19:09:56'
+  date: '1996-09-07T18:09:56'
   crc: '0x615710c1'
 - name: GAME\FONT2.PIC
   size: 64846
@@ -277,9 +258,9 @@ files:
   size: 35727
   date: '1996-11-06T08:41:14'
   crc: '0xa96ee0f8'
-- name: GAME\GRLOVER.dsb
+- name: GAME\GRLOVER.DSB
   size: 822478
-  date: '1996-10-14T14:48:42'
+  date: '1996-10-14T13:48:42'
   crc: '0xd288f55f'
 - name: GAME\GRLSCORE.SEQ
   size: 3466416
@@ -287,16 +268,199 @@ files:
   crc: '0x96fefeea'
 - name: GAME\HIGH.PIC
   size: 64846
-  date: '1996-10-08T15:32:42'
+  date: '1996-10-08T14:32:42'
   crc: '0xe8428da3'
 - name: GAME\HIGHS.EXE
   size: 4817
   date: '1997-11-28T12:27:58'
   crc: '0x5b2ce22d'
+- name: GAME\HIGHS.PIF
+  size: 967
+  date: '1997-10-17T12:25:52'
+  crc: '0xa4e2efb8'
 - name: GAME\IIII.EXE
   size: 9083
   date: '1996-11-03T06:10:48'
   crc: '0x6b5a3a30'
+- name: GAME\IIII.PIF
+  size: 967
+  date: '1997-10-16T17:01:12'
+  crc: '0xf01493f4'
+- name: GAME\INSTALL\
+  size: 0
+  date: '1997-11-29T11:29:28'
+- name: GAME\INSTALL\AILEVEL.DAT
+  size: 500
+  date: '1997-01-30T02:35:20'
+  crc: '0xf8a6800c'
+- name: GAME\INSTALL\A_SPYSEL.SEQ
+  size: 981134
+  date: '1996-09-08T11:10:42'
+  crc: '0x8ffee0cb'
+- name: GAME\INSTALL\BIGBAK.JAP
+  size: 42397
+  date: '1997-10-30T10:56:02'
+  crc: '0x1e1541fd'
+- name: GAME\INSTALL\BIGFRA.XIS
+  size: 12427
+  date: '1996-10-23T00:14:38'
+  crc: '0x2cacddc2'
+- name: GAME\INSTALL\BIGGER.XIS
+  size: 13520
+  date: '1996-10-23T00:17:42'
+  crc: '0x7305ca0a'
+- name: GAME\INSTALL\BIGHOL.XIS
+  size: 17088
+  date: '1994-10-04T11:54:34'
+  crc: '0xdfba62f4'
+- name: GAME\INSTALL\BIGITA.XIS
+  size: 13417
+  date: '1996-10-23T00:42:50'
+  crc: '0xa3625c4a'
+- name: GAME\INSTALL\BIGPOL.XIS
+  size: 15922
+  date: '1994-10-05T16:06:38'
+  crc: '0x17acacdb'
+- name: GAME\INSTALL\BIGPOR.XIS
+  size: 18796
+  date: '1994-03-10T17:16:56'
+  crc: '0x4746d6c0'
+- name: GAME\INSTALL\BIGSPA.XIS
+  size: 14727
+  date: '1996-10-23T00:15:46'
+  crc: '0x8006f8bb'
+- name: GAME\INSTALL\BIGSWE.XIS
+  size: 16315
+  date: '1994-10-04T15:44:02'
+  crc: '0x18823fd8'
+- name: GAME\INSTALL\BIGUK.XIS
+  size: 19590
+  date: '1996-10-23T00:13:08'
+  crc: '0x066056ba'
+- name: GAME\INSTALL\BRI_FONT.CEL
+  size: 64800
+  date: '1996-09-06T21:42:02'
+  crc: '0xa400038f'
+- name: GAME\INSTALL\B_SPYSEL.SEQ
+  size: 986708
+  date: '1996-09-08T11:13:12'
+  crc: '0x5ea3bf0f'
+- name: GAME\INSTALL\CDLOAD.SEQ
+  size: 57876
+  date: '1997-07-23T14:57:06'
+  crc: '0x24820ef3'
+- name: GAME\INSTALL\C_SPYSEL.SEQ
+  size: 768576
+  date: '1996-09-08T11:22:26'
+  crc: '0x5c252ce6'
+- name: GAME\INSTALL\DFT.TF
+  size: 307
+  date: '1996-10-30T17:23:30'
+  crc: '0x5d67f2de'
+- name: GAME\INSTALL\DRIVER.SB1
+  size: 11408
+  date: '1994-11-27T22:46:28'
+  crc: '0xddfb0296'
+- name: GAME\INSTALL\DRIVER.SB2
+  size: 35882
+  date: '1995-02-23T17:03:28'
+  crc: '0xd79c0f3e'
+- name: GAME\INSTALL\D_SPYSEL.SEQ
+  size: 992354
+  date: '1996-09-08T11:24:34'
+  crc: '0x9f929acc'
+- name: GAME\INSTALL\FREN.SKA
+  size: 978
+  date: '1997-11-20T11:15:22'
+  crc: '0xf67e50b2'
+- name: GAME\INSTALL\FUT.CHR
+  size: 768
+  date: '1993-09-04T00:07:52'
+  crc: '0x1e16b9d7'
+- name: GAME\INSTALL\GERM.SKA
+  size: 978
+  date: '1997-11-20T11:14:26'
+  crc: '0x8e7fcdf8'
+- name: GAME\INSTALL\IIII.EXE
+  size: 9083
+  date: '1996-11-03T06:10:48'
+  crc: '0x6b5a3a30'
+- name: GAME\INSTALL\ITAL.SKA
+  size: 978
+  date: '1997-11-20T11:15:42'
+  crc: '0xf5667ff8'
+- name: GAME\INSTALL\JOY.EXE
+  size: 11675
+  date: '1997-11-26T16:36:22'
+  crc: '0x43b8d86e'
+- name: GAME\INSTALL\JOY.PIF
+  size: 967
+  date: '1997-08-21T09:54:22'
+  crc: '0x0afaa91d'
+- name: GAME\INSTALL\JOY2.EXE
+  size: 12747
+  date: '1997-11-11T14:41:16'
+  crc: '0xde97efe2'
+- name: GAME\INSTALL\JOY2.PIF
+  size: 967
+  date: '1997-08-27T15:29:52'
+  crc: '0x645adf15'
+- name: GAME\INSTALL\LAN.EXE
+  size: 13935
+  date: '1997-11-20T12:12:40'
+  crc: '0x22e26cc0'
+- name: GAME\INSTALL\LAN.PIF
+  size: 967
+  date: '1997-11-20T12:31:54'
+  crc: '0x9efa2ef1'
+- name: GAME\INSTALL\LANG.SKA
+  size: 978
+  date: '1997-11-20T11:15:08'
+  crc: '0xcac7f452'
+- name: GAME\INSTALL\NINTCHR.XUN
+  size: 5500
+  date: '1996-10-28T01:02:22'
+  crc: '0xd53bb2dd'
+- name: GAME\INSTALL\OPT_FONT.CEL
+  size: 64800
+  date: '1996-09-06T21:35:30'
+  crc: '0x71dff6f6'
+- name: GAME\INSTALL\SLOT.0
+  size: 211
+  date: '1997-11-27T11:16:44'
+  crc: '0xa3ab038a'
+- name: GAME\INSTALL\SLOT.1
+  size: 211
+  date: '1997-11-27T11:16:44'
+  crc: '0xa3ab038a'
+- name: GAME\INSTALL\SLOT.2
+  size: 211
+  date: '1997-11-27T11:16:44'
+  crc: '0xa3ab038a'
+- name: GAME\INSTALL\SLOT.3
+  size: 211
+  date: '1997-11-27T11:16:44'
+  crc: '0xa3ab038a'
+- name: GAME\INSTALL\SLOT.4
+  size: 211
+  date: '1997-11-27T11:16:44'
+  crc: '0xa3ab038a'
+- name: GAME\INSTALL\SLOT.5
+  size: 211
+  date: '1997-11-27T11:16:44'
+  crc: '0xa3ab038a'
+- name: GAME\INSTALL\SPINBL2.XOB
+  size: 1533
+  date: '1994-06-17T18:33:44'
+  crc: '0x8fce0c07'
+- name: GAME\INSTALL\SPYBULB.SEQ
+  size: 1152718
+  date: '1996-09-06T17:55:10'
+  crc: '0x10736481'
+- name: GAME\INSTALL\TOTALS.DAT
+  size: 110
+  date: '1997-11-27T11:25:32'
+  crc: '0x099f19d8'
 - name: GAME\ITAL.SKA
   size: 978
   date: '1997-11-20T11:15:42'
@@ -309,9 +473,9 @@ files:
   size: 37042
   date: '1996-11-27T21:18:16'
   crc: '0x10d383c2'
-- name: GAME\JAPOVER.dsb
+- name: GAME\JAPOVER.DSB
   size: 820668
-  date: '1996-10-14T14:49:40'
+  date: '1996-10-14T13:49:40'
   crc: '0x859bf068'
 - name: GAME\JAPSCORE.SEQ
   size: 3465305
@@ -321,64 +485,72 @@ files:
   size: 11675
   date: '1997-11-26T16:36:14'
   crc: '0x43b8d86e'
+- name: GAME\JOY.PIF
+  size: 967
+  date: '1997-10-17T12:26:06'
+  crc: '0x93472b76'
 - name: GAME\JOY2.EXE
   size: 12747
   date: '1997-11-11T14:41:16'
   crc: '0xde97efe2'
+- name: GAME\JOY2.PIF
+  size: 967
+  date: '1997-10-16T17:01:38'
+  crc: '0x4819e33f'
 - name: GAME\LABFENCE.FOP
   size: 14048
-  date: '1997-08-14T18:24:30'
+  date: '1997-08-14T17:24:30'
   crc: '0x0336dd2b'
 - name: GAME\LAB\
   size: 0
-  date: '2014-11-22T15:20:22'
+  date: '1997-11-29T11:29:32'
 - name: GAME\LAB\AILLEVSA.DAT
   size: 500
-  date: '1997-06-12T17:19:30'
+  date: '1997-06-12T16:19:30'
   crc: '0x3c61ca42'
 - name: GAME\LAB\AILLEVSB.DAT
   size: 500
-  date: '1997-04-28T17:35:46'
+  date: '1997-04-28T16:35:46'
   crc: '0x272e7dfb'
 - name: GAME\LAB\AILLEVSC.DAT
   size: 500
-  date: '1997-04-28T17:41:32'
+  date: '1997-04-28T16:41:32'
   crc: '0x1a630161'
 - name: GAME\LAB\AILLEVSD.DAT
   size: 500
-  date: '1997-06-20T12:02:10'
+  date: '1997-06-20T11:02:10'
   crc: '0x45a9ca31'
 - name: GAME\LAB\AILLEVSE.DAT
   size: 500
-  date: '1997-06-23T11:56:24'
+  date: '1997-06-23T10:56:24'
   crc: '0xbe81fe2d'
 - name: GAME\LAB\AILLEVSF.DAT
   size: 500
-  date: '1997-05-01T16:52:52'
+  date: '1997-05-01T15:52:52'
   crc: '0x6111ab38'
 - name: GAME\LAB\AILLEVSG.DAT
   size: 500
-  date: '1997-06-23T15:02:34'
+  date: '1997-06-23T14:02:34'
   crc: '0x017f1b73'
 - name: GAME\LAB\AILLEVSH.DAT
   size: 500
-  date: '1997-06-24T11:46:38'
+  date: '1997-06-24T10:46:38'
   crc: '0xb626f1da'
 - name: GAME\LAB\AILLEVSI.DAT
   size: 500
-  date: '1997-06-24T13:17:28'
+  date: '1997-06-24T12:17:28'
   crc: '0xbc1b91c9'
 - name: GAME\LAB\AILLEVSJ.DAT
   size: 500
-  date: '1997-05-02T12:05:22'
+  date: '1997-05-02T11:05:22'
   crc: '0xa83638ab'
 - name: GAME\LAB\AILLEVSK.DAT
   size: 500
-  date: '1997-06-25T16:07:40'
+  date: '1997-06-25T15:07:40'
   crc: '0xab4f5e21'
 - name: GAME\LAB\AILLEVSL.DAT
   size: 500
-  date: '1997-06-26T13:20:04'
+  date: '1997-06-26T12:20:04'
   crc: '0x3b446a01'
 - name: GAME\LAB\ALL1.ATT
   size: 27824
@@ -394,7 +566,7 @@ files:
   crc: '0x7077ea5f'
 - name: GAME\LAB\ALLMAP1.AAA
   size: 32768
-  date: '1997-10-03T16:56:42'
+  date: '1997-10-03T15:56:42'
   crc: '0x6cdf29f2'
 - name: GAME\LAB\ALLMAP1.BBB
   size: 32768
@@ -402,15 +574,15 @@ files:
   crc: '0xc43b7410'
 - name: GAME\LAB\ALLMAP1.CCC
   size: 32768
-  date: '1997-06-12T19:01:36'
+  date: '1997-06-12T18:01:36'
   crc: '0x82602a65'
 - name: GAME\LAB\ALLMAP1.DDD
   size: 32768
-  date: '1997-10-03T12:38:48'
+  date: '1997-10-03T11:38:48'
   crc: '0x045ad434'
 - name: GAME\LAB\ALLMAP1.EEE
   size: 32768
-  date: '1997-06-23T12:09:18'
+  date: '1997-06-23T11:09:18'
   crc: '0x7064586a'
 - name: GAME\LAB\ALLMAP1.FFF
   size: 32768
@@ -418,19 +590,19 @@ files:
   crc: '0x54f26a47'
 - name: GAME\LAB\ALLMAP1.GGG
   size: 32768
-  date: '1997-10-03T12:51:56'
+  date: '1997-10-03T11:51:56'
   crc: '0xd68b5b02'
 - name: GAME\LAB\ALLMAP1.HHH
   size: 32768
-  date: '1997-10-03T12:59:06'
+  date: '1997-10-03T11:59:06'
   crc: '0x41199eda'
 - name: GAME\LAB\ALLMAP1.III
   size: 32768
-  date: '1997-10-03T16:47:46'
+  date: '1997-10-03T15:47:46'
   crc: '0x02a1ff4d'
 - name: GAME\LAB\ALLMAP1.JJJ
   size: 32768
-  date: '1997-10-03T13:08:42'
+  date: '1997-10-03T12:08:42'
   crc: '0xea5dad5d'
 - name: GAME\LAB\ALLMAP1.KKK
   size: 32768
@@ -438,11 +610,11 @@ files:
   crc: '0x39bf036f'
 - name: GAME\LAB\ALLMAP1.LLL
   size: 32768
-  date: '1997-10-03T14:59:30'
+  date: '1997-10-03T13:59:30'
   crc: '0x88908353'
 - name: GAME\LAB\ALLMAP2.AAA
   size: 18442
-  date: '1997-10-03T16:56:42'
+  date: '1997-10-03T15:56:42'
   crc: '0x049189fc'
 - name: GAME\LAB\ALLMAP2.BBB
   size: 18442
@@ -450,15 +622,15 @@ files:
   crc: '0x049189fc'
 - name: GAME\LAB\ALLMAP2.CCC
   size: 18442
-  date: '1997-06-12T19:01:36'
+  date: '1997-06-12T18:01:36'
   crc: '0x049189fc'
 - name: GAME\LAB\ALLMAP2.DDD
   size: 18442
-  date: '1997-10-03T12:38:48'
+  date: '1997-10-03T11:38:48'
   crc: '0x049189fc'
 - name: GAME\LAB\ALLMAP2.EEE
   size: 18442
-  date: '1997-06-23T12:09:18'
+  date: '1997-06-23T11:09:18'
   crc: '0x049189fc'
 - name: GAME\LAB\ALLMAP2.FFF
   size: 18442
@@ -466,19 +638,19 @@ files:
   crc: '0x049189fc'
 - name: GAME\LAB\ALLMAP2.GGG
   size: 18442
-  date: '1997-10-03T12:51:56'
+  date: '1997-10-03T11:51:56'
   crc: '0x049189fc'
 - name: GAME\LAB\ALLMAP2.HHH
   size: 18442
-  date: '1997-10-03T12:59:06'
+  date: '1997-10-03T11:59:06'
   crc: '0x049189fc'
 - name: GAME\LAB\ALLMAP2.III
   size: 18442
-  date: '1997-10-03T16:47:46'
+  date: '1997-10-03T15:47:46'
   crc: '0x049189fc'
 - name: GAME\LAB\ALLMAP2.JJJ
   size: 18442
-  date: '1997-10-03T13:08:42'
+  date: '1997-10-03T12:08:42'
   crc: '0x049189fc'
 - name: GAME\LAB\ALLMAP2.KKK
   size: 18442
@@ -486,11 +658,11 @@ files:
   crc: '0x049189fc'
 - name: GAME\LAB\ALLMAP2.LLL
   size: 18442
-  date: '1997-10-03T14:59:30'
+  date: '1997-10-03T13:59:30'
   crc: '0x049189fc'
 - name: GAME\LAB\BEDSQK.FOP
   size: 9847
-  date: '1996-08-27T23:17:54'
+  date: '1996-08-27T22:17:54'
   crc: '0xf119acc0'
 - name: GAME\LAB\BIGSHOT.FOP
   size: 14272
@@ -502,7 +674,7 @@ files:
   crc: '0x1a631ad3'
 - name: GAME\LAB\BOWLING.FOP
   size: 15882
-  date: '1996-08-27T20:08:20'
+  date: '1996-08-27T19:08:20'
   crc: '0x3d8c2ab3'
 - name: GAME\LAB\BRITE.PMN
   size: 1539
@@ -514,11 +686,11 @@ files:
   crc: '0x5bfce535'
 - name: GAME\LAB\BUBBLE.FOP
   size: 15769
-  date: '1996-08-26T22:48:34'
+  date: '1996-08-26T21:48:34'
   crc: '0x713709f2'
 - name: GAME\LAB\BURN.FOP
   size: 16168
-  date: '1996-08-27T22:03:48'
+  date: '1996-08-27T21:03:48'
   crc: '0x485ad965'
 - name: GAME\LAB\BURP.FOP
   size: 7318
@@ -526,11 +698,11 @@ files:
   crc: '0x585b0085'
 - name: GAME\LAB\CABSURCH.FOP
   size: 7128
-  date: '1996-08-26T23:40:50'
+  date: '1996-08-26T22:40:50'
   crc: '0x16707586'
 - name: GAME\LAB\CDLOAD.PMN
   size: 13045
-  date: '1996-09-04T21:48:04'
+  date: '1996-09-04T20:48:04'
   crc: '0x048e378f'
 - name: GAME\LAB\CHEW.FOP
   size: 15224
@@ -538,7 +710,7 @@ files:
   crc: '0x0490021f'
 - name: GAME\LAB\CHUCK.FOP
   size: 4322
-  date: '1995-05-10T11:37:30'
+  date: '1995-05-10T10:37:30'
   crc: '0x561f71bf'
 - name: GAME\LAB\CLUNK.FOP
   size: 1750
@@ -546,7 +718,7 @@ files:
   crc: '0xe126b3c4'
 - name: GAME\LAB\COMPY.FOP
   size: 8115
-  date: '1996-08-28T00:06:12'
+  date: '1996-08-27T23:06:12'
   crc: '0x9db5ee29'
 - name: GAME\LAB\CUBE1.AAA
   size: 1000
@@ -562,11 +734,11 @@ files:
   crc: '0x3a3e5540'
 - name: GAME\LAB\CUBE1.DDD
   size: 1000
-  date: '1997-06-17T12:54:08'
+  date: '1997-06-17T11:54:08'
   crc: '0x20b045b9'
 - name: GAME\LAB\CUBE1.EEE
   size: 1000
-  date: '1997-06-23T11:21:14'
+  date: '1997-06-23T10:21:14'
   crc: '0x95401ea5'
 - name: GAME\LAB\CUBE1.FFF
   size: 1000
@@ -578,7 +750,7 @@ files:
   crc: '0x84756eb7'
 - name: GAME\LAB\CUBE1.HHH
   size: 1000
-  date: '1997-06-24T11:03:42'
+  date: '1997-06-24T10:03:42'
   crc: '0x590450b7'
 - name: GAME\LAB\CUBE1.III
   size: 1000
@@ -590,7 +762,7 @@ files:
   crc: '0x316c93c5'
 - name: GAME\LAB\CUBE1.KKK
   size: 1000
-  date: '1997-06-25T16:12:04'
+  date: '1997-06-25T15:12:04'
   crc: '0x4678a7ef'
 - name: GAME\LAB\CUBE1.LLL
   size: 1000
@@ -598,11 +770,11 @@ files:
   crc: '0x24172498'
 - name: GAME\LAB\CUCKOO.FOP
   size: 16207
-  date: '1996-08-27T17:25:32'
+  date: '1996-08-27T16:25:32'
   crc: '0xd42cb2ef'
 - name: GAME\LAB\CUSH.FOP
   size: 8897
-  date: '1996-08-27T16:49:26'
+  date: '1996-08-27T15:49:26'
   crc: '0x617dd6e5'
 - name: GAME\LAB\DEFENCE.FOP
   size: 14038
@@ -610,19 +782,19 @@ files:
   crc: '0xb4a9126b'
 - name: GAME\LAB\DEMO1.AAA
   size: 750
-  date: '1996-08-28T10:15:56'
+  date: '1996-08-28T09:15:56'
   crc: '0x1b97145a'
 - name: GAME\LAB\DEMO1.BBB
   size: 750
-  date: '1996-08-28T10:19:46'
+  date: '1996-08-28T09:19:46'
   crc: '0x56d57af6'
 - name: GAME\LAB\DEMO2.AAA
   size: 750
-  date: '1996-08-28T10:15:56'
+  date: '1996-08-28T09:15:56'
   crc: '0xa3af3afd'
 - name: GAME\LAB\DEMO2.BBB
   size: 750
-  date: '1996-08-28T10:19:46'
+  date: '1996-08-28T09:19:46'
   crc: '0xbb2763dd'
 - name: GAME\LAB\DOOROPEN.FOP
   size: 4271
@@ -630,15 +802,15 @@ files:
   crc: '0xa26a977f'
 - name: GAME\LAB\DRINKY.FOP
   size: 16209
-  date: '1996-08-27T11:57:20'
+  date: '1996-08-27T10:57:20'
   crc: '0x6fc21803'
 - name: GAME\LAB\DRIP.FOP
   size: 11808
-  date: '1997-08-08T11:32:04'
+  date: '1997-08-08T10:32:04'
   crc: '0x08bc332e'
 - name: GAME\LAB\DRIP2.FOP
   size: 6298
-  date: '1997-08-11T11:44:34'
+  date: '1997-08-11T10:44:34'
   crc: '0x2f417fa5'
 - name: GAME\LAB\DRUMROLL.FOP
   size: 16024
@@ -646,7 +818,7 @@ files:
   crc: '0xe245747b'
 - name: GAME\LAB\ELECT.FOP
   size: 15959
-  date: '1996-08-27T21:41:58'
+  date: '1996-08-27T20:41:58'
   crc: '0x426c63ce'
 - name: GAME\LAB\ELVDECK.FOP
   size: 15200
@@ -674,7 +846,7 @@ files:
   crc: '0x4e2ae3c7'
 - name: GAME\LAB\EXPLODE.FOP
   size: 16207
-  date: '1996-08-27T19:56:10'
+  date: '1996-08-27T18:56:10'
   crc: '0x721ba15f'
 - name: GAME\LAB\EXPLODE2.FOP
   size: 5974
@@ -682,7 +854,7 @@ files:
   crc: '0x8e974d54'
 - name: GAME\LAB\EXTING.FOP
   size: 13873
-  date: '1997-08-12T15:39:54'
+  date: '1997-08-12T14:39:54'
   crc: '0x2888a158'
 - name: GAME\LAB\FANK.FOP
   size: 16234
@@ -798,7 +970,7 @@ files:
   crc: '0x4aa33920'
 - name: GAME\LAB\JUDDA.FOP
   size: 16055
-  date: '1997-06-19T18:21:44'
+  date: '1997-06-19T17:21:44'
   crc: '0xb055da4d'
 - name: GAME\LAB\LDEMO1.SKA
   size: 1300
@@ -818,7 +990,7 @@ files:
   crc: '0x7416ac7c'
 - name: GAME\LAB\LITTER.FOP
   size: 11414
-  date: '1996-08-27T11:24:28'
+  date: '1996-08-27T10:24:28'
   crc: '0xcef83a7d'
 - name: GAME\LAB\NET.FOP
   size: 4985
@@ -834,11 +1006,11 @@ files:
   crc: '0xeca6ea7a'
 - name: GAME\LAB\OWL1.FOP
   size: 16096
-  date: '1997-08-19T11:30:48'
+  date: '1997-08-19T10:30:48'
   crc: '0xcd98fb1f'
 - name: GAME\LAB\OWL2.FOP
   size: 6688
-  date: '1997-08-19T11:32:04'
+  date: '1997-08-19T10:32:04'
   crc: '0xbc1bdd16'
 - name: GAME\LAB\PARA1.PMN
   size: 9930
@@ -854,27 +1026,27 @@ files:
   crc: '0xd2245148'
 - name: GAME\LAB\PARA2.PMN
   size: 14003
-  date: '1997-08-19T12:23:30'
+  date: '1997-08-19T11:23:30'
   crc: '0x647f7cbd'
 - name: GAME\LAB\PARA2A.PMN
   size: 14834
-  date: '1997-08-19T12:23:34'
+  date: '1997-08-19T11:23:34'
   crc: '0x11da6270'
 - name: GAME\LAB\PARA2B.PMN
   size: 16297
-  date: '1997-08-19T12:23:38'
+  date: '1997-08-19T11:23:38'
   crc: '0x262e3353'
 - name: GAME\LAB\PARA3.PMN
   size: 13578
-  date: '1996-08-27T05:19:30'
+  date: '1996-08-27T04:19:30'
   crc: '0xb20b0511'
 - name: GAME\LAB\PARA3A.PMN
   size: 13578
-  date: '1996-08-27T05:19:30'
+  date: '1996-08-27T04:19:30'
   crc: '0xb20b0511'
 - name: GAME\LAB\PARA3B.PMN
   size: 13578
-  date: '1996-08-27T05:19:30'
+  date: '1996-08-27T04:19:30'
   crc: '0xb20b0511'
 - name: GAME\LAB\PARA4.PMN
   size: 12031
@@ -894,19 +1066,19 @@ files:
   crc: '0x7249b41c'
 - name: GAME\LAB\PUNCH.FOP
   size: 3430
-  date: '1997-08-12T15:36:02'
+  date: '1997-08-12T14:36:02'
   crc: '0xf6aa024b'
 - name: GAME\LAB\PUNCHY.FOP
   size: 4064
-  date: '1997-08-14T16:16:20'
+  date: '1997-08-14T15:16:20'
   crc: '0x65b4e4d8'
 - name: GAME\LAB\PUNCHY2.FOP
   size: 2752
-  date: '1997-08-14T16:38:08'
+  date: '1997-08-14T15:38:08'
   crc: '0x0f733e38'
 - name: GAME\LAB\RAIN.FOP
   size: 15978
-  date: '1997-08-15T16:25:10'
+  date: '1997-08-15T15:25:10'
   crc: '0x16e5806f'
 - name: GAME\LAB\REDDOOR.PMN
   size: 1371
@@ -918,7 +1090,7 @@ files:
   crc: '0x7a7b5348'
 - name: GAME\LAB\RIKO.FOP
   size: 7608
-  date: '1995-04-20T18:01:04'
+  date: '1995-04-20T17:01:04'
   crc: '0x287abf6f'
 - name: GAME\LAB\RING.FOP
   size: 14791
@@ -930,27 +1102,27 @@ files:
   crc: '0x26a6adb2'
 - name: GAME\LAB\RUSTLE.FOP
   size: 8982
-  date: '1996-08-27T11:24:42'
+  date: '1996-08-27T10:24:42'
   crc: '0x8736f8e6'
 - name: GAME\LAB\SAFECRAS.FOP
   size: 14924
-  date: '1996-08-27T22:19:34'
+  date: '1996-08-27T21:19:34'
   crc: '0x3e64ca5b'
 - name: GAME\LAB\SBLOX11.CEL
   size: 64800
-  date: '1997-10-23T18:05:06'
+  date: '1997-10-23T17:05:06'
   crc: '0x9f36bce3'
 - name: GAME\LAB\SBLOX12.CEL
   size: 64800
-  date: '1997-10-23T18:05:40'
+  date: '1997-10-23T17:05:40'
   crc: '0x0b59f7e0'
 - name: GAME\LAB\SBLOX13.CEL
   size: 64800
-  date: '1997-10-23T18:05:52'
+  date: '1997-10-23T17:05:52'
   crc: '0x7cffbf87'
 - name: GAME\LAB\SBLOX14.CEL
   size: 64800
-  date: '1997-10-23T18:06:10'
+  date: '1997-10-23T17:06:10'
   crc: '0x86379873'
 - name: GAME\LAB\SBLOX21.CEL
   size: 62240
@@ -966,7 +1138,7 @@ files:
   crc: '0xc5086c06'
 - name: GAME\LAB\SBLOX24.CEL
   size: 64800
-  date: '1997-10-09T17:06:18'
+  date: '1997-10-09T16:06:18'
   crc: '0xb4ce3311'
 - name: GAME\LAB\SCREEM.FOP
   size: 15979
@@ -982,31 +1154,31 @@ files:
   crc: '0xe2edf66d'
 - name: GAME\LAB\SHOTDED.FOP
   size: 8383
-  date: '1997-08-12T12:03:36'
+  date: '1997-08-12T11:03:36'
   crc: '0x7cc88864'
 - name: GAME\LAB\SHOTDED2.FOP
   size: 4996
-  date: '1997-08-12T12:03:42'
+  date: '1997-08-12T11:03:42'
   crc: '0x382642ce'
 - name: GAME\LAB\SMALCUB.FOP
   size: 5046
-  date: '1996-08-27T22:52:40'
+  date: '1996-08-27T21:52:40'
   crc: '0x3a56a20f'
 - name: GAME\LAB\SMOKE.FOP
   size: 11772
-  date: '1996-08-27T01:28:02'
+  date: '1996-08-27T00:28:02'
   crc: '0x3a063aee'
 - name: GAME\LAB\SPRITE01.PMN
   size: 18809
-  date: '1997-10-17T16:40:24'
+  date: '1997-10-17T15:40:24'
   crc: '0x087df9d3'
 - name: GAME\LAB\SPRITE02.PMN
   size: 21559
-  date: '1997-10-17T16:40:28'
+  date: '1997-10-17T15:40:28'
   crc: '0xcdb2c3a4'
 - name: GAME\LAB\SPRITE03.PMN
   size: 14282
-  date: '1997-10-17T16:40:32'
+  date: '1997-10-17T15:40:32'
   crc: '0x1a4b8d24'
 - name: GAME\LAB\SPRITE04.PMN
   size: 19930
@@ -1066,7 +1238,7 @@ files:
   crc: '0x6b36f21b'
 - name: GAME\LAB\SPRITE18.PMN
   size: 43683
-  date: '1997-08-26T12:35:30'
+  date: '1997-08-26T11:35:30'
   crc: '0x897e2842'
 - name: GAME\LAB\SPRITE19.PMN
   size: 25683
@@ -1082,7 +1254,7 @@ files:
   crc: '0xdd855618'
 - name: GAME\LAB\SPRITE22.PMN
   size: 26932
-  date: '1997-09-30T17:01:36'
+  date: '1997-09-30T16:01:36'
   crc: '0x57e9a782'
 - name: GAME\LAB\SPRITE23.PMN
   size: 15437
@@ -1270,11 +1442,11 @@ files:
   crc: '0x7f3aa410'
 - name: GAME\LAB\SPYMAN1.PMN
   size: 16275
-  date: '1996-08-06T07:58:20'
+  date: '1996-08-06T06:58:20'
   crc: '0x72b5b36b'
 - name: GAME\LAB\SURCH.FOP
   size: 9621
-  date: '1997-08-08T11:18:36'
+  date: '1997-08-08T10:18:36'
   crc: '0x81365c1d'
 - name: GAME\LAB\TEMPLATE.PMN
   size: 9552
@@ -1286,11 +1458,11 @@ files:
   crc: '0x4b386f5b'
 - name: GAME\LAB\THUNDA.FOP
   size: 16032
-  date: '1997-08-15T16:13:10'
+  date: '1997-08-15T15:13:10'
   crc: '0x6e075f2a'
 - name: GAME\LAB\THUNDA2.FOP
   size: 16032
-  date: '1997-08-15T16:13:16'
+  date: '1997-08-15T15:13:16'
   crc: '0x6531ef5c'
 - name: GAME\LAB\TINTS.PMN
   size: 1552
@@ -1316,6 +1488,10 @@ files:
   size: 13935
   date: '1997-11-20T12:12:30'
   crc: '0x22e26cc0'
+- name: GAME\LAN.PIF
+  size: 967
+  date: '1997-11-20T12:30:16'
+  crc: '0xe4de7bda'
 - name: GAME\LANG.SKA
   size: 978
   date: '1997-11-20T11:15:08'
@@ -1324,6 +1500,18 @@ files:
   size: 15787
   date: '1997-11-26T15:47:48'
   crc: '0x12857c63'
+- name: GAME\LAUNCH.PIF
+  size: 967
+  date: '1997-10-16T17:01:56'
+  crc: '0xd1bbe827'
+- name: GAME\LD.EXE
+  size: 11505
+  date: '1997-11-26T11:02:54'
+  crc: '0x00e24b40'
+- name: GAME\LD.PIF
+  size: 967
+  date: '1997-10-16T17:02:14'
+  crc: '0x9b4bb35d'
 - name: GAME\LETTER01.PMN
   size: 10361
   date: '1996-02-15T16:13:40'
@@ -1336,38 +1524,54 @@ files:
   size: 64846
   date: '1996-10-30T10:40:32'
   crc: '0x62491521'
+- name: GAME\LOAD.PIF
+  size: 967
+  date: '1997-10-17T12:26:20'
+  crc: '0x4345b471'
 - name: GAME\LOADER.EXE
   size: 7765
   date: '1997-11-27T11:13:56'
   crc: '0xda6dfb33'
+- name: GAME\LOADER.PIF
+  size: 967
+  date: '1997-11-20T11:34:08'
+  crc: '0x0f97b0ef'
 - name: GAME\LOADR.SEQ
   size: 3285314
-  date: '1997-10-07T12:51:02'
+  date: '1997-10-07T11:51:02'
   crc: '0xdadb7a6e'
 - name: GAME\LOGO.DSB
-  size: 16
-  date: '1998-02-02T16:21:56'
-  crc: '0x294e4810'
+  size: 4387044
+  date: '1997-11-18T14:53:42'
+  crc: '0x6d4c7e98'
 - name: GAME\LOSER.SEQ
   size: 2841266
-  date: '1997-07-21T16:13:08'
+  date: '1997-07-21T15:13:08'
   crc: '0x7d9623a3'
 - name: GAME\LOSLOD.SEQ
   size: 134718
-  date: '1997-07-22T13:17:30'
+  date: '1997-07-22T12:17:30'
   crc: '0xa187155c'
 - name: GAME\LOS_LOD.SEQ
   size: 42130
-  date: '1997-07-11T17:12:12'
+  date: '1997-07-11T16:12:12'
   crc: '0xcca62e3d'
 - name: GAME\MAIN.EXE
   size: 71553
   date: '1997-11-29T11:15:32'
   crc: '0xe2bf9187'
+- name: GAME\MAIN.PIF
+  size: 967
+  date: '1997-10-16T17:02:52'
+  crc: '0x056dab3f'
 - name: GAME\MID.EXE
   size: 8591
   date: '1997-11-11T14:41:18'
   crc: '0x32b484bf'
+- name: GAME\MID.PIF
+  size: 967
+  date: '1997-10-16T17:03:04'
+  crc: '0xe5fa0590'
 - name: GAME\MINTY.PMN
   size: 25914
   date: '1996-02-15T16:11:48'
@@ -1398,23 +1602,23 @@ files:
   crc: '0x181f019e'
 - name: GAME\MODSET.BIN
   size: 363
-  date: '1996-08-19T05:29:40'
+  date: '1996-08-19T04:29:40'
   crc: '0x9ac9b801'
 - name: GAME\MSEL1.COL
   size: 768
-  date: '1996-06-19T16:29:34'
+  date: '1996-06-19T15:29:34'
   crc: '0x2e8a1dda'
 - name: GAME\MSEL2.COL
   size: 768
-  date: '1996-06-19T16:29:48'
+  date: '1996-06-19T15:29:48'
   crc: '0xfc8cd451'
 - name: GAME\MSEL3.COL
   size: 768
-  date: '1996-06-19T16:30:04'
+  date: '1996-06-19T15:30:04'
   crc: '0xce165c2e'
 - name: GAME\MSEL4.COL
   size: 768
-  date: '1996-06-19T16:30:24'
+  date: '1996-06-19T15:30:24'
   crc: '0x63595aa4'
 - name: GAME\MUSIC.SBL
   size: 5906
@@ -1422,7 +1626,7 @@ files:
   crc: '0xf647e0de'
 - name: GAME\OFFICE\
   size: 0
-  date: '2014-11-22T15:20:24'
+  date: '1997-11-29T11:29:46'
 - name: GAME\OFFICE\AIOLEVSA.DAT
   size: 500
   date: '1997-03-17T12:26:04'
@@ -1433,43 +1637,43 @@ files:
   crc: '0x9739fc96'
 - name: GAME\OFFICE\AIOLEVSC.DAT
   size: 500
-  date: '1997-05-19T16:14:36'
+  date: '1997-05-19T15:14:36'
   crc: '0x1078cac0'
 - name: GAME\OFFICE\AIOLEVSD.DAT
   size: 500
-  date: '1997-05-29T12:32:04'
+  date: '1997-05-29T11:32:04'
   crc: '0x06a1a744'
 - name: GAME\OFFICE\AIOLEVSE.DAT
   size: 500
-  date: '1997-06-03T13:24:42'
+  date: '1997-06-03T12:24:42'
   crc: '0x304f6c7e'
 - name: GAME\OFFICE\AIOLEVSF.DAT
   size: 500
-  date: '1997-06-11T15:50:26'
+  date: '1997-06-11T14:50:26'
   crc: '0xee8392ea'
 - name: GAME\OFFICE\AIOLEVSG.DAT
   size: 500
-  date: '1997-06-11T17:29:58'
+  date: '1997-06-11T16:29:58'
   crc: '0x08c8ce2e'
 - name: GAME\OFFICE\AIOLEVSH.DAT
   size: 500
-  date: '1997-04-30T12:33:04'
+  date: '1997-04-30T11:33:04'
   crc: '0xf58b7954'
 - name: GAME\OFFICE\AIOLEVSI.DAT
   size: 500
-  date: '1997-04-30T12:58:36'
+  date: '1997-04-30T11:58:36'
   crc: '0xd5baa6d3'
 - name: GAME\OFFICE\AIOLEVSJ.DAT
   size: 500
-  date: '1997-04-30T13:32:44'
+  date: '1997-04-30T12:32:44'
   crc: '0x27878ead'
 - name: GAME\OFFICE\AIOLEVSK.DAT
   size: 500
-  date: '1997-04-30T14:57:26'
+  date: '1997-04-30T13:57:26'
   crc: '0xc88b21b4'
 - name: GAME\OFFICE\AIOLEVSL.DAT
   size: 500
-  date: '1997-04-30T15:58:30'
+  date: '1997-04-30T14:58:30'
   crc: '0x98aa106e'
 - name: GAME\OFFICE\ALL1.ATT
   size: 27824
@@ -1497,39 +1701,39 @@ files:
   crc: '0xeaba3af1'
 - name: GAME\OFFICE\ALLMAP1.DDD
   size: 32768
-  date: '1997-06-10T16:33:40'
+  date: '1997-06-10T15:33:40'
   crc: '0x5d72f392'
 - name: GAME\OFFICE\ALLMAP1.EEE
   size: 32768
-  date: '1997-06-10T18:37:06'
+  date: '1997-06-10T17:37:06'
   crc: '0x1d9cd0f7'
 - name: GAME\OFFICE\ALLMAP1.FFF
   size: 32768
-  date: '1997-06-12T15:11:28'
+  date: '1997-06-12T14:11:28'
   crc: '0x22e440f7'
 - name: GAME\OFFICE\ALLMAP1.GGG
   size: 32768
-  date: '1997-06-11T17:42:14'
+  date: '1997-06-11T16:42:14'
   crc: '0xba06b391'
 - name: GAME\OFFICE\ALLMAP1.HHH
   size: 32768
-  date: '1997-10-03T16:42:22'
+  date: '1997-10-03T15:42:22'
   crc: '0x85cfdd3e'
 - name: GAME\OFFICE\ALLMAP1.III
   size: 32768
-  date: '1997-06-11T18:07:44'
+  date: '1997-06-11T17:07:44'
   crc: '0x2c544f56'
 - name: GAME\OFFICE\ALLMAP1.JJJ
   size: 32768
-  date: '1997-06-12T11:31:30'
+  date: '1997-06-12T10:31:30'
   crc: '0x7f33db7d'
 - name: GAME\OFFICE\ALLMAP1.KKK
   size: 32768
-  date: '1997-06-12T11:56:40'
+  date: '1997-06-12T10:56:40'
   crc: '0xd7bc357c'
 - name: GAME\OFFICE\ALLMAP1.LLL
   size: 32768
-  date: '1997-06-12T12:37:42'
+  date: '1997-06-12T11:37:42'
   crc: '0x2afb2a64'
 - name: GAME\OFFICE\ALLMAP2.AAA
   size: 18442
@@ -1545,39 +1749,39 @@ files:
   crc: '0xbcf5fa86'
 - name: GAME\OFFICE\ALLMAP2.DDD
   size: 18442
-  date: '1997-06-10T16:33:40'
+  date: '1997-06-10T15:33:40'
   crc: '0x20202859'
 - name: GAME\OFFICE\ALLMAP2.EEE
   size: 18442
-  date: '1997-06-10T18:37:06'
+  date: '1997-06-10T17:37:06'
   crc: '0x333515c3'
 - name: GAME\OFFICE\ALLMAP2.FFF
   size: 18442
-  date: '1997-06-12T15:11:28'
+  date: '1997-06-12T14:11:28'
   crc: '0x57757082'
 - name: GAME\OFFICE\ALLMAP2.GGG
   size: 18442
-  date: '1997-06-11T17:42:14'
+  date: '1997-06-11T16:42:14'
   crc: '0xf6c68265'
 - name: GAME\OFFICE\ALLMAP2.HHH
   size: 18442
-  date: '1997-10-03T16:42:22'
+  date: '1997-10-03T15:42:22'
   crc: '0x19951e5c'
 - name: GAME\OFFICE\ALLMAP2.III
   size: 18442
-  date: '1997-06-11T18:07:44'
+  date: '1997-06-11T17:07:44'
   crc: '0x65293446'
 - name: GAME\OFFICE\ALLMAP2.JJJ
   size: 18442
-  date: '1997-06-12T11:31:30'
+  date: '1997-06-12T10:31:30'
   crc: '0x55ba9765'
 - name: GAME\OFFICE\ALLMAP2.KKK
   size: 18442
-  date: '1997-06-12T11:56:40'
+  date: '1997-06-12T10:56:40'
   crc: '0x049189fc'
 - name: GAME\OFFICE\ALLMAP2.LLL
   size: 18442
-  date: '1997-06-12T12:37:44'
+  date: '1997-06-12T11:37:44'
   crc: '0xbce3a0ab'
 - name: GAME\OFFICE\BIGSHOT.FOP
   size: 14272
@@ -1589,7 +1793,7 @@ files:
   crc: '0xd77196f0'
 - name: GAME\OFFICE\BOWLING.FOP
   size: 15882
-  date: '1996-08-27T20:08:20'
+  date: '1996-08-27T19:08:20'
   crc: '0x3d8c2ab3'
 - name: GAME\OFFICE\BRITE.PMN
   size: 1539
@@ -1601,11 +1805,11 @@ files:
   crc: '0xaad31393'
 - name: GAME\OFFICE\BUBBLE.FOP
   size: 15769
-  date: '1996-08-26T22:48:34'
+  date: '1996-08-26T21:48:34'
   crc: '0x713709f2'
 - name: GAME\OFFICE\BURN.FOP
   size: 16168
-  date: '1996-08-27T22:03:48'
+  date: '1996-08-27T21:03:48'
   crc: '0x485ad965'
 - name: GAME\OFFICE\BURP.FOP
   size: 7318
@@ -1613,11 +1817,11 @@ files:
   crc: '0x585b0085'
 - name: GAME\OFFICE\CABSURCH.FOP
   size: 7128
-  date: '1996-08-26T23:40:50'
+  date: '1996-08-26T22:40:50'
   crc: '0x16707586'
 - name: GAME\OFFICE\CDLOAD.PMN
   size: 13045
-  date: '1996-09-04T21:48:04'
+  date: '1996-09-04T20:48:04'
   crc: '0x048e378f'
 - name: GAME\OFFICE\CHEW.FOP
   size: 15224
@@ -1625,7 +1829,7 @@ files:
   crc: '0x0490021f'
 - name: GAME\OFFICE\CHUCK.FOP
   size: 4322
-  date: '1995-05-10T11:37:30'
+  date: '1995-05-10T10:37:30'
   crc: '0x561f71bf'
 - name: GAME\OFFICE\CLUNK.FOP
   size: 1750
@@ -1633,11 +1837,11 @@ files:
   crc: '0xe126b3c4'
 - name: GAME\OFFICE\CONVEYOR.FOP
   size: 15223
-  date: '1997-08-12T11:08:28'
+  date: '1997-08-12T10:08:28'
   crc: '0xf3b7da96'
 - name: GAME\OFFICE\COPIER.FOP
   size: 12124
-  date: '1996-08-27T16:49:14'
+  date: '1996-08-27T15:49:14'
   crc: '0x9855b0c2'
 - name: GAME\OFFICE\CUBE1.AAA
   size: 1000
@@ -1649,7 +1853,7 @@ files:
   crc: '0xf1f373fa'
 - name: GAME\OFFICE\CUBE1.CCC
   size: 1000
-  date: '1997-06-10T12:04:58'
+  date: '1997-06-10T11:04:58'
   crc: '0xe1c5f4ea'
 - name: GAME\OFFICE\CUBE1.DDD
   size: 1000
@@ -1657,11 +1861,11 @@ files:
   crc: '0x8dac2065'
 - name: GAME\OFFICE\CUBE1.EEE
   size: 1000
-  date: '1997-06-10T17:59:46'
+  date: '1997-06-10T16:59:46'
   crc: '0x65667d53'
 - name: GAME\OFFICE\CUBE1.FFF
   size: 1000
-  date: '1997-06-11T12:50:46'
+  date: '1997-06-11T11:50:46'
   crc: '0x4e82b0d3'
 - name: GAME\OFFICE\CUBE1.GGG
   size: 1000
@@ -1685,11 +1889,11 @@ files:
   crc: '0x11aaff77'
 - name: GAME\OFFICE\CUBE1.LLL
   size: 1000
-  date: '1996-05-14T12:14:28'
+  date: '1996-05-14T11:14:28'
   crc: '0xb46bef97'
 - name: GAME\OFFICE\CUSH.FOP
   size: 8897
-  date: '1996-08-27T16:49:26'
+  date: '1996-08-27T15:49:26'
   crc: '0x617dd6e5'
 - name: GAME\OFFICE\DEFENCE.FOP
   size: 14038
@@ -1697,19 +1901,19 @@ files:
   crc: '0xb4a9126b'
 - name: GAME\OFFICE\DEMO1.AAA
   size: 750
-  date: '1996-08-28T10:02:56'
+  date: '1996-08-28T09:02:56'
   crc: '0x664a9405'
 - name: GAME\OFFICE\DEMO1.BBB
   size: 750
-  date: '1996-08-28T10:05:16'
+  date: '1996-08-28T09:05:16'
   crc: '0xf5271bec'
 - name: GAME\OFFICE\DEMO2.AAA
   size: 750
-  date: '1996-08-28T10:02:56'
+  date: '1996-08-28T09:02:56'
   crc: '0x201fc100'
 - name: GAME\OFFICE\DEMO2.BBB
   size: 750
-  date: '1996-08-28T10:05:16'
+  date: '1996-08-28T09:05:16'
   crc: '0x00561bd9'
 - name: GAME\OFFICE\DOOROPEN.FOP
   size: 4271
@@ -1717,11 +1921,11 @@ files:
   crc: '0xa26a977f'
 - name: GAME\OFFICE\DRINKY.FOP
   size: 8115
-  date: '1996-08-27T16:20:58'
+  date: '1996-08-27T15:20:58'
   crc: '0xc8da79d7'
 - name: GAME\OFFICE\DRIP2.FOP
   size: 6298
-  date: '1997-08-11T11:44:34'
+  date: '1997-08-11T10:44:34'
   crc: '0x2f417fa5'
 - name: GAME\OFFICE\DRUMROLL.FOP
   size: 16024
@@ -1729,7 +1933,7 @@ files:
   crc: '0xe245747b'
 - name: GAME\OFFICE\ELECT.FOP
   size: 15959
-  date: '1996-08-27T21:41:58'
+  date: '1996-08-27T20:41:58'
   crc: '0x426c63ce'
 - name: GAME\OFFICE\ELVDECK.FOP
   size: 15200
@@ -1757,7 +1961,7 @@ files:
   crc: '0x4e2ae3c7'
 - name: GAME\OFFICE\EXPLODE.FOP
   size: 16207
-  date: '1996-08-27T19:56:10'
+  date: '1996-08-27T18:56:10'
   crc: '0x721ba15f'
 - name: GAME\OFFICE\EXPLODE2.FOP
   size: 5974
@@ -1765,7 +1969,7 @@ files:
   crc: '0x8e974d54'
 - name: GAME\OFFICE\EXTING.FOP
   size: 13873
-  date: '1997-08-12T15:39:54'
+  date: '1997-08-12T14:39:54'
   crc: '0x2888a158'
 - name: GAME\OFFICE\FANK.FOP
   size: 16234
@@ -1881,7 +2085,7 @@ files:
   crc: '0x4aa33920'
 - name: GAME\OFFICE\JUDDA.FOP
   size: 16055
-  date: '1997-06-19T18:21:44'
+  date: '1997-06-19T17:21:44'
   crc: '0xb055da4d'
 - name: GAME\OFFICE\LIFTDOOR.FOP
   size: 7237
@@ -1893,7 +2097,7 @@ files:
   crc: '0x7416ac7c'
 - name: GAME\OFFICE\LITTER.FOP
   size: 11414
-  date: '1996-08-27T11:24:28'
+  date: '1996-08-27T10:24:28'
   crc: '0xcef83a7d'
 - name: GAME\OFFICE\NET.FOP
   size: 4985
@@ -1909,11 +2113,11 @@ files:
   crc: '0x0063eea3'
 - name: GAME\OFFICE\ODEMO3.SKA
   size: 1300
-  date: '1997-09-04T17:28:16'
+  date: '1997-09-04T16:28:16'
   crc: '0xcc16748f'
 - name: GAME\OFFICE\ODEMO4.SKA
   size: 1300
-  date: '1997-09-04T17:28:16'
+  date: '1997-09-04T16:28:16'
   crc: '0x56b015cc'
 - name: GAME\OFFICE\OFFYDORC.FOP
   size: 6082
@@ -1929,51 +2133,51 @@ files:
   crc: '0xeca6ea7a'
 - name: GAME\OFFICE\PARA1.PMN
   size: 13438
-  date: '1997-08-15T18:56:02'
+  date: '1997-08-15T17:56:02'
   crc: '0x24991fee'
 - name: GAME\OFFICE\PARA1A.PMN
   size: 13436
-  date: '1997-08-15T18:56:08'
+  date: '1997-08-15T17:56:08'
   crc: '0xc5c9eaa8'
 - name: GAME\OFFICE\PARA1B.PMN
   size: 13436
-  date: '1997-08-15T18:56:08'
+  date: '1997-08-15T17:56:08'
   crc: '0xc5c9eaa8'
 - name: GAME\OFFICE\PARA2.PMN
   size: 13986
-  date: '1997-08-15T18:56:14'
+  date: '1997-08-15T17:56:14'
   crc: '0xa84be001'
 - name: GAME\OFFICE\PARA2A.PMN
   size: 13986
-  date: '1997-08-15T18:56:18'
+  date: '1997-08-15T17:56:18'
   crc: '0xb6086299'
 - name: GAME\OFFICE\PARA2B.PMN
   size: 13986
-  date: '1997-08-15T18:56:18'
+  date: '1997-08-15T17:56:18'
   crc: '0xb6086299'
 - name: GAME\OFFICE\PARA3.PMN
   size: 14363
-  date: '1997-08-15T18:56:24'
+  date: '1997-08-15T17:56:24'
   crc: '0x5ad438a1'
 - name: GAME\OFFICE\PARA3A.PMN
   size: 14363
-  date: '1997-08-15T18:56:28'
+  date: '1997-08-15T17:56:28'
   crc: '0xddca37c9'
 - name: GAME\OFFICE\PARA3B.PMN
   size: 14363
-  date: '1997-08-15T18:56:28'
+  date: '1997-08-15T17:56:28'
   crc: '0xddca37c9'
 - name: GAME\OFFICE\PARA4.PMN
   size: 13753
-  date: '1997-08-15T18:56:32'
+  date: '1997-08-15T17:56:32'
   crc: '0x77e9b99c'
 - name: GAME\OFFICE\PARA4A.PMN
   size: 13753
-  date: '1997-08-15T18:56:40'
+  date: '1997-08-15T17:56:40'
   crc: '0x77e9b99c'
 - name: GAME\OFFICE\PARA4B.PMN
   size: 13753
-  date: '1997-08-15T18:56:40'
+  date: '1997-08-15T17:56:40'
   crc: '0x77e9b99c'
 - name: GAME\OFFICE\PULSE.PMN
   size: 2253
@@ -1981,19 +2185,19 @@ files:
   crc: '0x7249b41c'
 - name: GAME\OFFICE\PUNCH.FOP
   size: 3430
-  date: '1997-08-12T15:36:02'
+  date: '1997-08-12T14:36:02'
   crc: '0xf6aa024b'
 - name: GAME\OFFICE\PUNCHY.FOP
   size: 4064
-  date: '1997-08-14T16:16:20'
+  date: '1997-08-14T15:16:20'
   crc: '0x65b4e4d8'
 - name: GAME\OFFICE\PUNCHY2.FOP
   size: 2752
-  date: '1997-08-14T16:38:08'
+  date: '1997-08-14T15:38:08'
   crc: '0x0f733e38'
 - name: GAME\OFFICE\RAIN.FOP
   size: 15978
-  date: '1997-08-15T16:25:10'
+  date: '1997-08-15T15:25:10'
   crc: '0x16e5806f'
 - name: GAME\OFFICE\REDDOOR.PMN
   size: 1339
@@ -2005,11 +2209,11 @@ files:
   crc: '0x8e4b659b'
 - name: GAME\OFFICE\RIKO.FOP
   size: 7608
-  date: '1995-04-20T18:01:04'
+  date: '1995-04-20T17:01:04'
   crc: '0x287abf6f'
 - name: GAME\OFFICE\RING.FOP
   size: 14799
-  date: '1997-08-19T11:50:56'
+  date: '1997-08-19T10:50:56'
   crc: '0x13e817a2'
 - name: GAME\OFFICE\ROCKET.FOP
   size: 4985
@@ -2017,43 +2221,43 @@ files:
   crc: '0x26a6adb2'
 - name: GAME\OFFICE\RUSTLE.FOP
   size: 8982
-  date: '1996-08-27T11:24:42'
+  date: '1996-08-27T10:24:42'
   crc: '0x8736f8e6'
 - name: GAME\OFFICE\SAFECRAS.FOP
   size: 14924
-  date: '1996-08-27T22:19:34'
+  date: '1996-08-27T21:19:34'
   crc: '0x3e64ca5b'
 - name: GAME\OFFICE\SBLOX11.CEL
   size: 64800
-  date: '1997-10-23T18:24:22'
+  date: '1997-10-23T17:24:22'
   crc: '0x6e0b8993'
 - name: GAME\OFFICE\SBLOX12.CEL
   size: 64800
-  date: '1997-10-23T18:24:46'
+  date: '1997-10-23T17:24:46'
   crc: '0xdff6d7c4'
 - name: GAME\OFFICE\SBLOX13.CEL
   size: 64800
-  date: '1997-10-23T18:25:06'
+  date: '1997-10-23T17:25:06'
   crc: '0xc24eec57'
 - name: GAME\OFFICE\SBLOX14.CEL
   size: 64800
-  date: '1997-10-23T18:25:20'
+  date: '1997-10-23T17:25:20'
   crc: '0x9fb26174'
 - name: GAME\OFFICE\SBLOX21.CEL
   size: 64800
-  date: '1997-07-10T17:10:02'
+  date: '1997-07-10T16:10:02'
   crc: '0x8070bc60'
 - name: GAME\OFFICE\SBLOX22.CEL
   size: 64800
-  date: '1997-07-10T17:10:10'
+  date: '1997-07-10T16:10:10'
   crc: '0x8f8f5d1f'
 - name: GAME\OFFICE\SBLOX23.CEL
   size: 64800
-  date: '1997-07-10T17:10:22'
+  date: '1997-07-10T16:10:22'
   crc: '0x8070bc60'
 - name: GAME\OFFICE\SBLOX24.CEL
   size: 64800
-  date: '1997-07-10T17:10:30'
+  date: '1997-07-10T16:10:30'
   crc: '0x404ff350'
 - name: GAME\OFFICE\SCREEM.FOP
   size: 15979
@@ -2065,7 +2269,7 @@ files:
   crc: '0xfbd76b03'
 - name: GAME\OFFICE\SEARCH2.FOP
   size: 7821
-  date: '1997-08-08T11:18:40'
+  date: '1997-08-08T10:18:40'
   crc: '0xb90eb3ed'
 - name: GAME\OFFICE\SELECT.FOP
   size: 1673
@@ -2073,15 +2277,15 @@ files:
   crc: '0xe2edf66d'
 - name: GAME\OFFICE\SHOTDED.FOP
   size: 8383
-  date: '1997-08-12T12:03:36'
+  date: '1997-08-12T11:03:36'
   crc: '0x7cc88864'
 - name: GAME\OFFICE\SHOTDED2.FOP
   size: 4996
-  date: '1997-08-12T12:03:42'
+  date: '1997-08-12T11:03:42'
   crc: '0x382642ce'
 - name: GAME\OFFICE\SMOKE.FOP
   size: 11772
-  date: '1996-08-27T01:28:02'
+  date: '1996-08-27T00:28:02'
   crc: '0x3a063aee'
 - name: GAME\OFFICE\SPRITE01.PMN
   size: 14067
@@ -2153,7 +2357,7 @@ files:
   crc: '0x90b891bb'
 - name: GAME\OFFICE\SPRITE18.PMN
   size: 43648
-  date: '1997-08-26T12:51:08'
+  date: '1997-08-26T11:51:08'
   crc: '0x2d235d45'
 - name: GAME\OFFICE\SPRITE19.PMN
   size: 22732
@@ -2169,7 +2373,7 @@ files:
   crc: '0x2169db1c'
 - name: GAME\OFFICE\SPRITE22.PMN
   size: 27113
-  date: '1997-09-30T17:00:44'
+  date: '1997-09-30T16:00:44'
   crc: '0x36c4edd3'
 - name: GAME\OFFICE\SPRITE23.PMN
   size: 12769
@@ -2357,11 +2561,11 @@ files:
   crc: '0x7f3aa410'
 - name: GAME\OFFICE\SPYMAN1.PMN
   size: 16279
-  date: '1996-08-06T08:06:04'
+  date: '1996-08-06T07:06:04'
   crc: '0xdd4a0389'
 - name: GAME\OFFICE\TEMPLATE.PMN
   size: 9457
-  date: '1996-04-12T12:11:28'
+  date: '1996-04-12T11:11:28'
   crc: '0x90c96922'
 - name: GAME\OFFICE\TESTY.XMI
   size: 18612
@@ -2369,11 +2573,11 @@ files:
   crc: '0x4b386f5b'
 - name: GAME\OFFICE\THUNDA.FOP
   size: 16032
-  date: '1997-08-15T16:13:10'
+  date: '1997-08-15T15:13:10'
   crc: '0x6e075f2a'
 - name: GAME\OFFICE\THUNDA2.FOP
   size: 16032
-  date: '1997-08-15T16:13:16'
+  date: '1997-08-15T15:13:16'
   crc: '0x6531ef5c'
 - name: GAME\OFFICE\TINTS.PMN
   size: 1552
@@ -2401,28 +2605,100 @@ files:
   crc: '0x6db5ee94'
 - name: GAME\OUP_FONT.CEL
   size: 64800
-  date: '1996-09-06T22:43:58'
+  date: '1996-09-06T21:43:58'
   crc: '0x17672ff3'
-- name: GAME\Over.exe
+- name: GAME\OVER.EXE
   size: 8693
   date: '1997-11-11T14:41:20'
   crc: '0x5281bf77'
+- name: GAME\OVER1.EXE
+  size: 11505
+  date: '1997-11-26T11:06:14'
+  crc: '0x8e24a30b'
+- name: GAME\OVER1.PIF
+  size: 967
+  date: '1997-10-16T17:03:32'
+  crc: '0xc1abef58'
+- name: GAME\OVER2.EXE
+  size: 11505
+  date: '1997-11-26T11:06:26'
+  crc: '0x08159c1d'
+- name: GAME\OVER2.PIF
+  size: 967
+  date: '1997-10-16T17:03:44'
+  crc: '0xbca32386'
+- name: GAME\OVER3.EXE
+  size: 11505
+  date: '1997-11-26T11:06:36'
+  crc: '0xc1fe2a18'
+- name: GAME\OVER3.PIF
+  size: 967
+  date: '1997-10-16T17:03:52'
+  crc: '0x217465f3'
+- name: GAME\OVER4.EXE
+  size: 11505
+  date: '1997-11-26T11:07:02'
+  crc: '0xe55710fa'
+- name: GAME\OVER4.PIF
+  size: 967
+  date: '1997-10-16T17:04:08'
+  crc: '0x46b2ba3a'
 - name: GAME\PICK.EXE
   size: 54307
   date: '1997-11-27T16:16:56'
   crc: '0x6605a90f'
+- name: GAME\PICK.PIF
+  size: 967
+  date: '1997-10-16T17:04:20'
+  crc: '0xf0788c09'
 - name: GAME\PLAY1.EXE
   size: 87263
   date: '1997-11-28T16:35:30'
   crc: '0x94783203'
+- name: GAME\PLAY1.PIF
+  size: 967
+  date: '1997-10-16T17:04:44'
+  crc: '0x824c0a22'
 - name: GAME\PLAY2.EXE
   size: 87121
   date: '1997-11-28T16:36:18'
   crc: '0x4f7be5e9'
+- name: GAME\PLAY2.PIF
+  size: 967
+  date: '1997-10-16T17:04:56'
+  crc: '0xff44c6fc'
 - name: GAME\PLAY3.EXE
   size: 86639
   date: '1997-11-28T16:37:04'
   crc: '0xc139e9a7'
+- name: GAME\PLAY3.PIF
+  size: 967
+  date: '1997-10-16T17:05:08'
+  crc: '0x62938089'
+- name: GAME\RCREDIT.DSB
+  size: 17893617
+  date: '1997-11-20T17:06:52'
+  crc: '0xa7a44e3a'
+- name: GAME\RENDSEQ1.DSB
+  size: 13276690
+  date: '1996-10-14T12:20:10'
+  crc: '0x6c084fc8'
+- name: GAME\RENDSEQ2.DSB
+  size: 13346930
+  date: '1996-10-14T12:02:44'
+  crc: '0xbffdb313'
+- name: GAME\RENDSEQ3.DSB
+  size: 13274417
+  date: '1996-10-14T12:14:56'
+  crc: '0x9a95751f'
+- name: GAME\RENDSEQ4.DSB
+  size: 13157131
+  date: '1996-10-14T12:09:00'
+  crc: '0x03369421'
+- name: GAME\RTITLE.DSB
+  size: 5610870
+  date: '1996-10-14T12:22:40'
+  crc: '0x9d885048'
 - name: GAME\SAVE.EXE
   size: 3797
   date: '1997-11-11T14:42:26'
@@ -2431,60 +2707,64 @@ files:
   size: 64846
   date: '1996-10-30T10:28:24'
   crc: '0x6e0f7262'
+- name: GAME\SAVE.PIF
+  size: 967
+  date: '1997-10-16T17:05:46'
+  crc: '0x1bedbef9'
 - name: GAME\SAVE.XYZ
   size: 500
   date: '1997-11-27T17:58:22'
   crc: '0x3c61ca42'
 - name: GAME\SHIP\
   size: 0
-  date: '2014-11-22T15:20:26'
+  date: '1997-11-29T11:29:58'
 - name: GAME\SHIP\AISLEVSA.DAT
   size: 500
-  date: '1997-06-30T13:23:02'
+  date: '1997-06-30T12:23:02'
   crc: '0x6baf9192'
 - name: GAME\SHIP\AISLEVSB.DAT
   size: 500
-  date: '1997-05-22T17:14:26'
+  date: '1997-05-22T16:14:26'
   crc: '0x8cfe9976'
 - name: GAME\SHIP\AISLEVSC.DAT
   size: 500
-  date: '1997-04-28T16:23:10'
+  date: '1997-04-28T15:23:10'
   crc: '0x5a34d9eb'
 - name: GAME\SHIP\AISLEVSD.DAT
   size: 500
-  date: '1997-07-09T15:40:36'
+  date: '1997-07-09T14:40:36'
   crc: '0x543909b2'
 - name: GAME\SHIP\AISLEVSE.DAT
   size: 500
-  date: '1997-07-01T15:15:26'
+  date: '1997-07-01T14:15:26'
   crc: '0x50788ade'
 - name: GAME\SHIP\AISLEVSF.DAT
   size: 500
-  date: '1997-05-02T15:25:26'
+  date: '1997-05-02T14:25:26'
   crc: '0x7a76e4ac'
 - name: GAME\SHIP\AISLEVSG.DAT
   size: 500
-  date: '1997-07-08T17:44:28'
+  date: '1997-07-08T16:44:28'
   crc: '0xe35f76f2'
 - name: GAME\SHIP\AISLEVSH.DAT
   size: 500
-  date: '1997-07-02T18:20:34'
+  date: '1997-07-02T17:20:34'
   crc: '0xb205d108'
 - name: GAME\SHIP\AISLEVSI.DAT
   size: 500
-  date: '1997-07-03T12:56:38'
+  date: '1997-07-03T11:56:38'
   crc: '0x81316680'
 - name: GAME\SHIP\AISLEVSJ.DAT
   size: 500
-  date: '1997-07-03T16:18:58'
+  date: '1997-07-03T15:18:58'
   crc: '0x3ff3ce51'
 - name: GAME\SHIP\AISLEVSK.DAT
   size: 500
-  date: '1997-07-04T12:23:50'
+  date: '1997-07-04T11:23:50'
   crc: '0x598cb7aa'
 - name: GAME\SHIP\AISLEVSL.DAT
   size: 500
-  date: '1997-07-04T14:55:32'
+  date: '1997-07-04T13:55:32'
   crc: '0x67524d44'
 - name: GAME\SHIP\ALL1.ATT
   size: 27824
@@ -2500,11 +2780,11 @@ files:
   crc: '0x82eedfe1'
 - name: GAME\SHIP\ALLMAP1.AAA
   size: 32768
-  date: '1997-07-11T15:09:18'
+  date: '1997-07-11T14:09:18'
   crc: '0x7194b3e3'
 - name: GAME\SHIP\ALLMAP1.BBB
   size: 32768
-  date: '1997-06-30T17:34:48'
+  date: '1997-06-30T16:34:48'
   crc: '0xeba25c31'
 - name: GAME\SHIP\ALLMAP1.CCC
   size: 32768
@@ -2512,15 +2792,15 @@ files:
   crc: '0x4fd0ef01'
 - name: GAME\SHIP\ALLMAP1.CUT
   size: 32768
-  date: '1997-07-04T15:03:04'
+  date: '1997-07-04T14:03:04'
   crc: '0x236082fa'
 - name: GAME\SHIP\ALLMAP1.DDD
   size: 32768
-  date: '1997-08-29T12:02:40'
+  date: '1997-08-29T11:02:40'
   crc: '0x93a39b1a'
 - name: GAME\SHIP\ALLMAP1.EEE
   size: 32768
-  date: '1997-08-29T12:26:54'
+  date: '1997-08-29T11:26:54'
   crc: '0xf16f8aa2'
 - name: GAME\SHIP\ALLMAP1.FFF
   size: 32768
@@ -2528,7 +2808,7 @@ files:
   crc: '0xc768ea7d'
 - name: GAME\SHIP\ALLMAP1.GGG
   size: 32768
-  date: '1997-10-03T11:32:04'
+  date: '1997-10-03T10:32:04'
   crc: '0xaf3b5edd'
 - name: GAME\SHIP\ALLMAP1.HHH
   size: 32768
@@ -2536,27 +2816,27 @@ files:
   crc: '0x5dbb1764'
 - name: GAME\SHIP\ALLMAP1.III
   size: 32768
-  date: '1997-08-28T11:41:18'
+  date: '1997-08-28T10:41:18'
   crc: '0xe23b12e0'
 - name: GAME\SHIP\ALLMAP1.JJJ
   size: 32768
-  date: '1997-10-24T13:18:24'
+  date: '1997-10-24T12:18:24'
   crc: '0xa9a7e23f'
 - name: GAME\SHIP\ALLMAP1.KKK
   size: 32768
-  date: '1997-10-03T16:08:58'
+  date: '1997-10-03T15:08:58'
   crc: '0x85f8d52a'
 - name: GAME\SHIP\ALLMAP1.LLL
   size: 32768
-  date: '1997-10-03T15:50:46'
+  date: '1997-10-03T14:50:46'
   crc: '0xe08b792e'
 - name: GAME\SHIP\ALLMAP2.AAA
   size: 18442
-  date: '1997-07-11T15:09:18'
+  date: '1997-07-11T14:09:18'
   crc: '0x4ffaa4af'
 - name: GAME\SHIP\ALLMAP2.BBB
   size: 18442
-  date: '1997-06-30T17:34:48'
+  date: '1997-06-30T16:34:48'
   crc: '0xd850fd18'
 - name: GAME\SHIP\ALLMAP2.CCC
   size: 18442
@@ -2564,15 +2844,15 @@ files:
   crc: '0x96e5765f'
 - name: GAME\SHIP\ALLMAP2.CUT
   size: 18442
-  date: '1997-07-04T15:03:04'
+  date: '1997-07-04T14:03:04'
   crc: '0x56b3d75b'
 - name: GAME\SHIP\ALLMAP2.DDD
   size: 18442
-  date: '1997-08-29T12:02:40'
+  date: '1997-08-29T11:02:40'
   crc: '0xe19cf0f6'
 - name: GAME\SHIP\ALLMAP2.EEE
   size: 18442
-  date: '1997-08-29T12:26:54'
+  date: '1997-08-29T11:26:54'
   crc: '0x5052fe86'
 - name: GAME\SHIP\ALLMAP2.FFF
   size: 18442
@@ -2580,7 +2860,7 @@ files:
   crc: '0xde2fcdd7'
 - name: GAME\SHIP\ALLMAP2.GGG
   size: 18442
-  date: '1997-10-03T11:32:04'
+  date: '1997-10-03T10:32:04'
   crc: '0xcdef60bf'
 - name: GAME\SHIP\ALLMAP2.HHH
   size: 18442
@@ -2588,23 +2868,23 @@ files:
   crc: '0x8a872cf7'
 - name: GAME\SHIP\ALLMAP2.III
   size: 18442
-  date: '1997-08-28T11:41:18'
+  date: '1997-08-28T10:41:18'
   crc: '0xecb859eb'
 - name: GAME\SHIP\ALLMAP2.JJJ
   size: 18442
-  date: '1997-10-24T13:18:24'
+  date: '1997-10-24T12:18:24'
   crc: '0x460ca4c3'
 - name: GAME\SHIP\ALLMAP2.KKK
   size: 18442
-  date: '1997-10-03T16:08:58'
+  date: '1997-10-03T15:08:58'
   crc: '0xbe5b4ec7'
 - name: GAME\SHIP\ALLMAP2.LLL
   size: 18442
-  date: '1997-10-03T15:50:46'
+  date: '1997-10-03T14:50:46'
   crc: '0x083fcccb'
 - name: GAME\SHIP\ARCADE1.FOP
   size: 15855
-  date: '1996-08-28T04:45:00'
+  date: '1996-08-28T03:45:00'
   crc: '0x7cce882c'
 - name: GAME\SHIP\BIGSHOT.FOP
   size: 14272
@@ -2616,7 +2896,7 @@ files:
   crc: '0xd77196f0'
 - name: GAME\SHIP\BOWLING.FOP
   size: 15882
-  date: '1996-08-27T20:08:20'
+  date: '1996-08-27T19:08:20'
   crc: '0x3d8c2ab3'
 - name: GAME\SHIP\BRITE.PMN
   size: 1539
@@ -2628,11 +2908,11 @@ files:
   crc: '0xaad31393'
 - name: GAME\SHIP\BUBBLE.FOP
   size: 15769
-  date: '1996-08-26T22:48:34'
+  date: '1996-08-26T21:48:34'
   crc: '0x713709f2'
 - name: GAME\SHIP\BURN.FOP
   size: 16168
-  date: '1996-08-27T22:03:48'
+  date: '1996-08-27T21:03:48'
   crc: '0x485ad965'
 - name: GAME\SHIP\BURP.FOP
   size: 7318
@@ -2640,11 +2920,11 @@ files:
   crc: '0x585b0085'
 - name: GAME\SHIP\CABSURCH.FOP
   size: 7128
-  date: '1996-08-26T23:40:50'
+  date: '1996-08-26T22:40:50'
   crc: '0x16707586'
 - name: GAME\SHIP\CDLOAD.PMN
   size: 13045
-  date: '1996-09-04T21:48:04'
+  date: '1996-09-04T20:48:04'
   crc: '0x048e378f'
 - name: GAME\SHIP\CHEW.FOP
   size: 15224
@@ -2652,7 +2932,7 @@ files:
   crc: '0x0490021f'
 - name: GAME\SHIP\CHUCK.FOP
   size: 4322
-  date: '1995-05-10T11:37:30'
+  date: '1995-05-10T10:37:30'
   crc: '0x561f71bf'
 - name: GAME\SHIP\CLUNK.FOP
   size: 1750
@@ -2660,55 +2940,55 @@ files:
   crc: '0xe126b3c4'
 - name: GAME\SHIP\CUBE1.AAA
   size: 1000
-  date: '1997-06-30T12:01:28'
+  date: '1997-06-30T11:01:28'
   crc: '0x3add6d5e'
 - name: GAME\SHIP\CUBE1.BBB
   size: 1000
-  date: '1996-05-13T16:18:10'
+  date: '1996-05-13T15:18:10'
   crc: '0x331ae4c2'
 - name: GAME\SHIP\CUBE1.CCC
   size: 1000
-  date: '1996-05-03T15:06:56'
+  date: '1996-05-03T14:06:56'
   crc: '0xaa8cd353'
 - name: GAME\SHIP\CUBE1.DDD
   size: 1000
-  date: '1997-07-09T15:38:24'
+  date: '1997-07-09T14:38:24'
   crc: '0xb018e30f'
 - name: GAME\SHIP\CUBE1.EEE
   size: 1000
-  date: '1996-05-08T17:06:48'
+  date: '1996-05-08T16:06:48'
   crc: '0xddeebd0d'
 - name: GAME\SHIP\CUBE1.FFF
   size: 1000
-  date: '1996-09-24T11:35:28'
+  date: '1996-09-24T10:35:28'
   crc: '0x8fa0de9e'
 - name: GAME\SHIP\CUBE1.GGG
   size: 1000
-  date: '1997-07-02T11:24:42'
+  date: '1997-07-02T10:24:42'
   crc: '0xb9f51f1b'
 - name: GAME\SHIP\CUBE1.HHH
   size: 1000
-  date: '1997-07-02T17:50:52'
+  date: '1997-07-02T16:50:52'
   crc: '0x9cf995b2'
 - name: GAME\SHIP\CUBE1.III
   size: 1000
-  date: '1996-05-07T17:10:50'
+  date: '1996-05-07T16:10:50'
   crc: '0x56056b38'
 - name: GAME\SHIP\CUBE1.JJJ
   size: 1000
-  date: '1996-05-08T11:03:08'
+  date: '1996-05-08T10:03:08'
   crc: '0x0f6935b0'
 - name: GAME\SHIP\CUBE1.KKK
   size: 1000
-  date: '1997-07-04T11:42:20'
+  date: '1997-07-04T10:42:20'
   crc: '0x1b3c3a3d'
 - name: GAME\SHIP\CUBE1.LLL
   size: 1000
-  date: '1997-07-04T14:54:38'
+  date: '1997-07-04T13:54:38'
   crc: '0x42f86019'
 - name: GAME\SHIP\CUSH.FOP
   size: 8897
-  date: '1996-08-27T16:49:26'
+  date: '1996-08-27T15:49:26'
   crc: '0x617dd6e5'
 - name: GAME\SHIP\DEFENCE.FOP
   size: 14038
@@ -2716,23 +2996,23 @@ files:
   crc: '0xb4a9126b'
 - name: GAME\SHIP\DEKCHAR.FOP
   size: 4928
-  date: '1997-08-12T15:34:00'
+  date: '1997-08-12T14:34:00'
   crc: '0x3ac1df82'
 - name: GAME\SHIP\DEMO1.AAA
   size: 750
-  date: '1996-08-28T10:30:08'
+  date: '1996-08-28T09:30:08'
   crc: '0x5b8b3574'
 - name: GAME\SHIP\DEMO1.BBB
   size: 750
-  date: '1996-08-28T10:32:16'
+  date: '1996-08-28T09:32:16'
   crc: '0x60d888ef'
 - name: GAME\SHIP\DEMO2.AAA
   size: 750
-  date: '1996-08-28T10:30:08'
+  date: '1996-08-28T09:30:08'
   crc: '0xe5d68409'
 - name: GAME\SHIP\DEMO2.BBB
   size: 750
-  date: '1996-08-28T10:32:16'
+  date: '1996-08-28T09:32:16'
   crc: '0x13b3a354'
 - name: GAME\SHIP\DOOROPEN.FOP
   size: 4271
@@ -2740,11 +3020,11 @@ files:
   crc: '0xa26a977f'
 - name: GAME\SHIP\DRINKY.FOP
   size: 8115
-  date: '1996-08-27T16:20:58'
+  date: '1996-08-27T15:20:58'
   crc: '0xc8da79d7'
 - name: GAME\SHIP\DRIP2.FOP
   size: 6298
-  date: '1997-08-11T11:44:34'
+  date: '1997-08-11T10:44:34'
   crc: '0x2f417fa5'
 - name: GAME\SHIP\DRUMROLL.FOP
   size: 16024
@@ -2752,7 +3032,7 @@ files:
   crc: '0xe245747b'
 - name: GAME\SHIP\ELECT.FOP
   size: 15959
-  date: '1996-08-27T21:41:58'
+  date: '1996-08-27T20:41:58'
   crc: '0x426c63ce'
 - name: GAME\SHIP\ELVDECK.FOP
   size: 15200
@@ -2780,15 +3060,15 @@ files:
   crc: '0x4e2ae3c7'
 - name: GAME\SHIP\ENGINE2.FOP
   size: 16416
-  date: '1997-08-15T16:57:44'
+  date: '1997-08-15T15:57:44'
   crc: '0xc9e6720c'
 - name: GAME\SHIP\ENGULL.FOP
   size: 16352
-  date: '1997-08-08T13:00:14'
+  date: '1997-08-08T12:00:14'
   crc: '0xba34a5d3'
 - name: GAME\SHIP\EXPLODE.FOP
   size: 16207
-  date: '1996-08-27T19:56:10'
+  date: '1996-08-27T18:56:10'
   crc: '0x721ba15f'
 - name: GAME\SHIP\EXPLODE2.FOP
   size: 5974
@@ -2796,7 +3076,7 @@ files:
   crc: '0x8e974d54'
 - name: GAME\SHIP\EXTING.FOP
   size: 13873
-  date: '1997-08-12T15:39:54'
+  date: '1997-08-12T14:39:54'
   crc: '0x2888a158'
 - name: GAME\SHIP\FANK.FOP
   size: 16234
@@ -2804,10 +3084,10 @@ files:
   crc: '0xa06a058f'
 - name: GAME\SHIP\FOP
   size: 0
-  date: '1997-08-15T13:07:52'
+  date: '1997-08-15T12:07:52'
 - name: GAME\SHIP\FRUITY.FOP
   size: 15896
-  date: '1996-08-27T03:53:54'
+  date: '1996-08-27T02:53:54'
   crc: '0x68d2ca25'
 - name: GAME\SHIP\GAM.COL
   size: 768
@@ -2919,7 +3199,7 @@ files:
   crc: '0x4aa33920'
 - name: GAME\SHIP\JUDDA.FOP
   size: 16055
-  date: '1997-06-19T18:21:44'
+  date: '1997-06-19T17:21:44'
   crc: '0xb055da4d'
 - name: GAME\SHIP\LIFTDOOR.FOP
   size: 7237
@@ -2931,7 +3211,7 @@ files:
   crc: '0x7416ac7c'
 - name: GAME\SHIP\LITTER.FOP
   size: 11414
-  date: '1996-08-27T11:24:28'
+  date: '1996-08-27T10:24:28'
   crc: '0xcef83a7d'
 - name: GAME\SHIP\NET.FOP
   size: 4985
@@ -2947,55 +3227,55 @@ files:
   crc: '0xeca6ea7a'
 - name: GAME\SHIP\PARA1.PMN
   size: 12136
-  date: '1997-08-21T17:42:12'
+  date: '1997-08-21T16:42:12'
   crc: '0x26136324'
 - name: GAME\SHIP\PARA1A.PMN
   size: 12072
-  date: '1997-08-21T17:42:16'
+  date: '1997-08-21T16:42:16'
   crc: '0x5f7a4109'
 - name: GAME\SHIP\PARA1B.PMN
   size: 11794
-  date: '1997-08-26T16:10:26'
+  date: '1997-08-26T15:10:26'
   crc: '0x4508a6a0'
 - name: GAME\SHIP\PARA2.PMN
   size: 11483
-  date: '1997-09-29T15:16:56'
+  date: '1997-09-29T14:16:56'
   crc: '0x0ac61671'
 - name: GAME\SHIP\PARA2A.PMN
   size: 11216
-  date: '1997-09-29T15:17:06'
+  date: '1997-09-29T14:17:06'
   crc: '0xf1be0862'
 - name: GAME\SHIP\PARA2B.PMN
   size: 11473
-  date: '1997-09-29T15:17:12'
+  date: '1997-09-29T14:17:12'
   crc: '0x220fc7d6'
 - name: GAME\SHIP\PARA3.PMN
   size: 10515
-  date: '1997-09-29T18:14:00'
+  date: '1997-09-29T17:14:00'
   crc: '0x94d910b0'
 - name: GAME\SHIP\PARA3A.PMN
   size: 24276
-  date: '1997-09-29T18:14:06'
+  date: '1997-09-29T17:14:06'
   crc: '0x2dfd82cf'
 - name: GAME\SHIP\PARA3B.PMN
   size: 25076
-  date: '1997-09-29T18:14:12'
+  date: '1997-09-29T17:14:12'
   crc: '0x8191c4c4'
 - name: GAME\SHIP\PARA4.PMN
   size: 12353
-  date: '1997-09-29T18:14:30'
+  date: '1997-09-29T17:14:30'
   crc: '0x473f5851'
 - name: GAME\SHIP\PARA4A.PMN
   size: 12396
-  date: '1997-09-29T18:14:24'
+  date: '1997-09-29T17:14:24'
   crc: '0x7e4aee48'
 - name: GAME\SHIP\PARA4B.PMN
   size: 12672
-  date: '1997-09-29T18:14:16'
+  date: '1997-09-29T17:14:16'
   crc: '0x818e4d80'
 - name: GAME\SHIP\PISTON.FOP
   size: 16416
-  date: '1997-08-08T11:18:06'
+  date: '1997-08-08T10:18:06'
   crc: '0xcf129802'
 - name: GAME\SHIP\PULSE.PMN
   size: 2253
@@ -3003,19 +3283,19 @@ files:
   crc: '0x7249b41c'
 - name: GAME\SHIP\PUNCH.FOP
   size: 3430
-  date: '1997-08-12T15:36:02'
+  date: '1997-08-12T14:36:02'
   crc: '0xf6aa024b'
 - name: GAME\SHIP\PUNCHY.FOP
   size: 4064
-  date: '1997-08-14T16:16:20'
+  date: '1997-08-14T15:16:20'
   crc: '0x65b4e4d8'
 - name: GAME\SHIP\PUNCHY2.FOP
   size: 2752
-  date: '1997-08-14T16:38:08'
+  date: '1997-08-14T15:38:08'
   crc: '0x0f733e38'
 - name: GAME\SHIP\RAIN.FOP
   size: 15978
-  date: '1997-08-15T16:25:10'
+  date: '1997-08-15T15:25:10'
   crc: '0x16e5806f'
 - name: GAME\SHIP\REDDOOR.PMN
   size: 1339
@@ -3027,7 +3307,7 @@ files:
   crc: '0x25a1e082'
 - name: GAME\SHIP\RIKO.FOP
   size: 7608
-  date: '1995-04-20T18:01:04'
+  date: '1995-04-20T17:01:04'
   crc: '0x287abf6f'
 - name: GAME\SHIP\RING.FOP
   size: 14791
@@ -3039,43 +3319,43 @@ files:
   crc: '0x26a6adb2'
 - name: GAME\SHIP\RUSTLE.FOP
   size: 8982
-  date: '1996-08-27T11:24:42'
+  date: '1996-08-27T10:24:42'
   crc: '0x8736f8e6'
 - name: GAME\SHIP\SAFECRAS.FOP
   size: 14924
-  date: '1996-08-27T22:19:34'
+  date: '1996-08-27T21:19:34'
   crc: '0x3e64ca5b'
 - name: GAME\SHIP\SBLOX11.CEL
   size: 64800
-  date: '1997-07-04T18:05:30'
+  date: '1997-07-04T17:05:30'
   crc: '0x4ab67ca8'
 - name: GAME\SHIP\SBLOX12.CEL
   size: 64800
-  date: '1997-07-04T16:37:08'
+  date: '1997-07-04T15:37:08'
   crc: '0x93866791'
 - name: GAME\SHIP\SBLOX13.CEL
   size: 64800
-  date: '1997-07-04T16:37:26'
+  date: '1997-07-04T15:37:26'
   crc: '0x631f094b'
 - name: GAME\SHIP\SBLOX14.CEL
   size: 64800
-  date: '1997-07-04T16:37:42'
+  date: '1997-07-04T15:37:42'
   crc: '0x3cb6f019'
 - name: GAME\SHIP\SBLOX21.CEL
   size: 64800
-  date: '1997-07-04T16:38:24'
+  date: '1997-07-04T15:38:24'
   crc: '0x77620fa2'
 - name: GAME\SHIP\SBLOX22.CEL
   size: 64800
-  date: '1997-07-04T16:46:50'
+  date: '1997-07-04T15:46:50'
   crc: '0x9d9f839d'
 - name: GAME\SHIP\SBLOX23.CEL
   size: 64800
-  date: '1997-07-04T16:39:00'
+  date: '1997-07-04T15:39:00'
   crc: '0x364b43cc'
 - name: GAME\SHIP\SBLOX24.CEL
   size: 64800
-  date: '1997-07-04T18:27:52'
+  date: '1997-07-04T17:27:52'
   crc: '0xe2217aaf'
 - name: GAME\SHIP\SCREEM.FOP
   size: 15979
@@ -3099,15 +3379,15 @@ files:
   crc: '0xe2edf66d'
 - name: GAME\SHIP\SHOTDED.FOP
   size: 8383
-  date: '1997-08-12T12:03:36'
+  date: '1997-08-12T11:03:36'
   crc: '0x7cc88864'
 - name: GAME\SHIP\SHOTDED2.FOP
   size: 4996
-  date: '1997-08-12T12:03:42'
+  date: '1997-08-12T11:03:42'
   crc: '0x382642ce'
 - name: GAME\SHIP\SMOKE.FOP
   size: 11772
-  date: '1996-08-27T01:28:02'
+  date: '1996-08-27T00:28:02'
   crc: '0x3a063aee'
 - name: GAME\SHIP\SPRITE01.PMN
   size: 16158
@@ -3179,11 +3459,11 @@ files:
   crc: '0xbc613ce7'
 - name: GAME\SHIP\SPRITE18.PMN
   size: 43666
-  date: '1997-08-26T12:35:48'
+  date: '1997-08-26T11:35:48'
   crc: '0x3706ead9'
 - name: GAME\SHIP\SPRITE19.PMN
   size: 26021
-  date: '1997-05-28T13:26:08'
+  date: '1997-05-28T12:26:08'
   crc: '0xc5ce9a9a'
 - name: GAME\SHIP\SPRITE20.PMN
   size: 28882
@@ -3195,7 +3475,7 @@ files:
   crc: '0x2350decc'
 - name: GAME\SHIP\SPRITE22.PMN
   size: 27107
-  date: '1997-09-30T17:03:18'
+  date: '1997-09-30T16:03:18'
   crc: '0xe2e6116e'
 - name: GAME\SHIP\SPRITE23.PMN
   size: 12249
@@ -3383,15 +3663,15 @@ files:
   crc: '0x7f3aa410'
 - name: GAME\SHIP\SPYMAN1.PMN
   size: 16277
-  date: '1996-08-06T09:10:12'
+  date: '1996-08-06T08:10:12'
   crc: '0x776dfebf'
 - name: GAME\SHIP\SURCH.FOP
   size: 9621
-  date: '1997-08-08T11:18:36'
+  date: '1997-08-08T10:18:36'
   crc: '0x81365c1d'
 - name: GAME\SHIP\TEMPLATE.PMN
   size: 9458
-  date: '1996-04-12T12:15:38'
+  date: '1996-04-12T11:15:38'
   crc: '0xb2a4d481'
 - name: GAME\SHIP\TESTY.XMI
   size: 18612
@@ -3399,15 +3679,15 @@ files:
   crc: '0x4b386f5b'
 - name: GAME\SHIP\THEHORN.FOP
   size: 16416
-  date: '1997-08-08T14:45:44'
+  date: '1997-08-08T13:45:44'
   crc: '0x18e166bc'
 - name: GAME\SHIP\THUNDA.FOP
   size: 16032
-  date: '1997-08-15T16:13:10'
+  date: '1997-08-15T15:13:10'
   crc: '0x6e075f2a'
 - name: GAME\SHIP\THUNDA2.FOP
   size: 16032
-  date: '1997-08-15T16:13:16'
+  date: '1997-08-15T15:13:16'
   crc: '0x6531ef5c'
 - name: GAME\SHIP\TINTS.PMN
   size: 1552
@@ -3437,9 +3717,13 @@ files:
   size: 8609
   date: '1997-11-11T14:41:18'
   crc: '0xebe357e8'
+- name: GAME\SL.PIF
+  size: 967
+  date: '1997-11-20T11:34:30'
+  crc: '0x62aca399'
 - name: GAME\SL.SEQ
   size: 637792
-  date: '1997-08-22T12:15:54'
+  date: '1997-08-22T11:15:54'
   crc: '0x5617627f'
 - name: GAME\SPANISH.TEX
   size: 12720
@@ -3447,31 +3731,51 @@ files:
   crc: '0x089eb6ed'
 - name: GAME\SPEC.CHR
   size: 768
-  date: '1994-09-23T15:22:24'
+  date: '1994-09-23T14:22:24'
   crc: '0x74b369d7'
 - name: GAME\SPINBL2.XOB
   size: 1533
-  date: '1994-06-17T19:33:44'
+  date: '1994-06-17T18:33:44'
   crc: '0x8fce0c07'
+- name: GAME\SPY.ICO
+  size: 766
+  date: '1996-12-05T12:47:04'
+  crc: '0x48222c74'
 - name: GAME\SPY1.EXE
   size: 87175
   date: '1997-11-29T11:00:30'
   crc: '0x5a3cfde6'
+- name: GAME\SPY1.PIF
+  size: 967
+  date: '1997-10-16T17:06:18'
+  crc: '0xbe5c0cc7'
 - name: GAME\SPY2.EXE
   size: 87033
   date: '1997-11-29T11:00:16'
   crc: '0x51fbd139'
+- name: GAME\SPY2.PIF
+  size: 967
+  date: '1997-10-16T17:06:28'
+  crc: '0x27d9ebb9'
 - name: GAME\SPY3.EXE
   size: 86535
   date: '1997-11-29T10:59:58'
   crc: '0x1c85ee36'
+- name: GAME\SPY3.PIF
+  size: 967
+  date: '1997-10-16T17:06:40'
+  crc: '0x072bb94c'
+- name: GAME\SPYINST.NFO
+  size: 32
+  date: '1996-09-07T23:59:46'
+  crc: '0xb2e6b8af'
 - name: GAME\SPYLOD.SEQ
   size: 40306
   date: '1996-11-28T01:01:18'
   crc: '0x4840fcac'
-- name: GAME\SPYOVER.dsb
+- name: GAME\SPYOVER.DSB
   size: 824260
-  date: '1996-10-14T14:50:36'
+  date: '1996-10-14T13:50:36'
   crc: '0x036b0ebb'
 - name: GAME\SPYSCORE.SEQ
   size: 3560651
@@ -3481,9 +3785,13 @@ files:
   size: 8609
   date: '1997-11-11T14:41:18'
   crc: '0x38fa9914'
+- name: GAME\SS.PIF
+  size: 967
+  date: '1997-11-20T11:34:36'
+  crc: '0x91a9e8d8'
 - name: GAME\SS.SEQ
   size: 741866
-  date: '1997-08-22T12:17:32'
+  date: '1997-08-22T11:17:32'
   crc: '0x62cc9402'
 - name: GAME\TEMPLATE.PMN
   size: 9804
@@ -3491,11 +3799,11 @@ files:
   crc: '0xdd7f6579'
 - name: GAME\TEST.ATT
   size: 1010
-  date: '1995-07-04T17:13:40'
+  date: '1995-07-04T16:13:40'
   crc: '0x23342c40'
 - name: GAME\TEST.COL
   size: 768
-  date: '1995-07-17T16:41:58'
+  date: '1995-07-17T15:41:58'
   crc: '0x46b638ec'
 - name: GAME\TEST.PMN
   size: 8543
@@ -3505,187 +3813,127 @@ files:
   size: 5474
   date: '1996-02-15T16:11:28'
   crc: '0x4011e91e'
+- name: GAME\TITLE.DSB
+  size: 9553319
+  date: '1996-10-14T13:54:10'
+  crc: '0x1a1c4060'
 - name: GAME\TOTALS.DAT
   size: 110
-  date: '1997-08-13T12:50:08'
+  date: '1997-08-13T11:50:08'
   crc: '0x9513cd50'
 - name: GAME\TWEEN0.EXE
   size: 46477
   date: '1997-11-29T11:16:18'
   crc: '0x14617222'
+- name: GAME\TWEEN0.PIF
+  size: 967
+  date: '1997-10-16T17:07:18'
+  crc: '0x21b22e38'
 - name: GAME\TWEEN1.EXE
   size: 46477
   date: '1997-11-29T11:16:18'
   crc: '0x7311633e'
+- name: GAME\TWEEN1.PIF
+  size: 967
+  date: '1997-10-16T17:07:30'
+  crc: '0x2483f4bd'
 - name: GAME\TWEEN2.EXE
   size: 46493
   date: '1997-11-29T11:16:18'
   crc: '0x4b66599b'
+- name: GAME\TWEEN2.PIF
+  size: 967
+  date: '1997-10-16T17:07:44'
+  crc: '0x2bd19b32'
 - name: GAME\TWEEN3.EXE
   size: 46477
   date: '1997-11-29T11:16:18'
   crc: '0x27c35cc2'
+- name: GAME\TWEEN3.PIF
+  size: 967
+  date: '1997-10-16T17:07:56'
+  crc: '0x2ee041b7'
 - name: GAME\UP.EXE
   size: 21615
   date: '1997-11-25T11:59:38'
   crc: '0x3fc2e85f'
+- name: GAME\UP.PIF
+  size: 967
+  date: '1997-11-20T11:35:12'
+  crc: '0x6cacd7c3'
+- name: GAME\VID1.EXE
+  size: 11505
+  date: '1997-11-26T11:05:00'
+  crc: '0x1c9550ba'
+- name: GAME\VID1.PIF
+  size: 967
+  date: '1997-10-16T17:08:18'
+  crc: '0x7abb140a'
+- name: GAME\VID2A.EXE
+  size: 11505
+  date: '1997-11-26T11:05:12'
+  crc: '0xf28cc3bd'
+- name: GAME\VID2A.PIF
+  size: 967
+  date: '1997-10-16T17:08:34'
+  crc: '0x43df9b61'
+- name: GAME\VID2B.EXE
+  size: 11505
+  date: '1997-11-26T11:05:22'
+  crc: '0x66eb9a3c'
+- name: GAME\VID2B.PIF
+  size: 967
+  date: '1997-10-16T17:08:46'
+  crc: '0x0b192715'
+- name: GAME\VID2C.EXE
+  size: 11505
+  date: '1997-11-26T11:05:32'
+  crc: '0x1536ad43'
+- name: GAME\VID2C.PIF
+  size: 967
+  date: '1997-10-16T17:08:58'
+  crc: '0x1888f54c'
+- name: GAME\VID2D.EXE
+  size: 11505
+  date: '1997-11-26T11:05:48'
+  crc: '0x95542f7f'
+- name: GAME\VID2D.PIF
+  size: 967
+  date: '1997-10-16T17:09:08'
+  crc: '0x89a7e390'
 - name: GAME\WINNER.EXE
   size: 8671
   date: '1997-11-11T14:41:20'
   crc: '0xa245ad7f'
+- name: GAME\WINNER.PIF
+  size: 967
+  date: '1997-10-16T17:09:20'
+  crc: '0x256b4564'
 - name: GAME\XL.EXE
   size: 8609
   date: '1997-11-11T14:41:20'
   crc: '0xeb8fd754'
-- name: GAME\aTm.dll
-  size: 160768
-  date: '1997-09-22T21:25:04'
-  crc: '0x0b831255'
-- name: GAME\class.EXE
-  size: 1024
-  date: '1998-02-02T18:06:00'
-  crc: '0x70795a05'
-- name: GAME\credits.exe
-  size: 517
-  date: '1998-02-02T16:28:08'
-  crc: '0x3d556841'
-- name: GAME\datnfox.dta
-  size: 878
-  date: '1998-02-01T14:40:24'
-  crc: '0x7976fc4e'
-- name: GAME\dohsfx.lib
-  size: 12590
-  date: '1998-01-28T01:29:52'
-  crc: '0x2422e169'
-- name: GAME\ld.exe
-  size: 517
-  date: '1998-02-02T16:28:08'
-  crc: '0x3d556841'
-- name: GAME\over1.exe
-  size: 517
-  date: '1998-02-02T16:28:08'
-  crc: '0x3d556841'
-- name: GAME\over2.exe
-  size: 517
-  date: '1998-02-02T16:28:08'
-  crc: '0x3d556841'
-- name: GAME\over3.exe
-  size: 517
-  date: '1998-02-02T16:28:08'
-  crc: '0x3d556841'
-- name: GAME\over4.exe
-  size: 517
-  date: '1998-02-02T16:28:08'
-  crc: '0x3d556841'
-- name: GAME\spyvsspy.exe
-  size: 209408
-  date: '1998-02-01T03:01:16'
-  crc: '0x0c53a10e'
-- name: GAME\vid1.exe
-  size: 517
-  date: '1998-02-02T16:28:08'
-  crc: '0x3d556841'
-- name: GAME\vid2a.exe
-  size: 517
-  date: '1998-02-02T16:28:08'
-  crc: '0x3d556841'
-- name: GAME\vid2b.exe
-  size: 517
-  date: '1998-02-02T16:28:08'
-  crc: '0x3d556841'
-- name: GAME\vid2c.exe
-  size: 517
-  date: '1998-02-02T16:28:08'
-  crc: '0x3d556841'
-- name: GAME\vid2d.exe
-  size: 517
-  date: '1998-02-02T16:28:08'
-  crc: '0x3d556841'
-- name: GERM.SKA
-  size: 978
-  date: '1997-11-20T11:14:26'
-  crc: '0x8e7fcdf8'
+- name: GAME\XL.PIF
+  size: 967
+  date: '1997-11-20T11:34:14'
+  crc: '0x1200f0eb'
+- name: I-READ.DOC
+  size: 1023488
+  date: '1997-11-28T11:57:52'
+  crc: '0x04dde5f3'
 - name: I-READ.TXT
   size: 31608
   date: '1997-11-28T11:53:58'
   crc: '0x1fedda2f'
-- name: IIII.EXE
-  size: 9083
-  date: '1996-11-03T06:10:48'
-  crc: '0x6b5a3a30'
 - name: INSTALL.BAT
-  size: 380
-  date: '1998-01-30T15:41:44'
-  crc: '0xcea4220a'
-- name: ITAL.SKA
-  size: 978
-  date: '1997-11-20T11:15:42'
-  crc: '0xf5667ff8'
-- name: LAN.EXE
-  size: 13935
-  date: '1997-11-20T12:12:40'
-  crc: '0x22e26cc0'
-- name: LANG.SKA
-  size: 978
-  date: '1997-11-20T11:15:08'
-  crc: '0xcac7f452'
-- name: NINTCHR.XUN
-  size: 5500
-  date: '1996-10-28T01:02:22'
-  crc: '0xd53bb2dd'
-- name: OPT_FONT.CEL
-  size: 64800
-  date: '1996-09-06T22:35:30'
-  crc: '0x71dff6f6'
-- name: SLOT.0
-  size: 211
-  date: '1997-11-27T11:16:44'
-  crc: '0xa3ab038a'
-- name: SLOT.1
-  size: 211
-  date: '1997-11-27T11:16:44'
-  crc: '0xa3ab038a'
-- name: SLOT.2
-  size: 211
-  date: '1997-11-27T11:16:44'
-  crc: '0xa3ab038a'
-- name: SLOT.3
-  size: 211
-  date: '1997-11-27T11:16:44'
-  crc: '0xa3ab038a'
-- name: SLOT.4
-  size: 211
-  date: '1997-11-27T11:16:44'
-  crc: '0xa3ab038a'
-- name: SLOT.5
-  size: 211
-  date: '1997-11-27T11:16:44'
-  crc: '0xa3ab038a'
-- name: SPINBL2.XOB
-  size: 1533
-  date: '1994-06-17T19:33:44'
-  crc: '0x8fce0c07'
-- name: SPY.ICO
-  size: 766
-  date: '1996-12-05T12:47:04'
-  crc: '0x48222c74'
-- name: SPY.PIF
-  size: 967
-  date: '1998-02-02T18:07:02'
-  crc: '0x6305d8ea'
-- name: SPYBULB.SEQ
-  size: 1152718
-  date: '1996-09-06T18:55:10'
-  crc: '0x10736481'
-- name: SPYINST.NFO
-  size: 40
-  date: '2012-12-23T20:02:22'
-  crc: '0x727580eb'
-- name: TOTALS.DAT
-  size: 110
-  date: '1998-01-30T18:24:02'
-  crc: '0x099f19d8'
-- name: spy.bat
-  size: 1688
-  date: '2016-12-11T23:04:02'
-  crc: '0x44ab7ca1'
+  size: 1903
+  date: '1997-11-26T11:37:04'
+  crc: '0x757a3b08'
+- name: UNINST.BAT
+  size: 173
+  date: '1997-10-29T14:36:46'
+  crc: '0xb6009fca'
+- name: WINGO.EXE
+  size: 548864
+  date: '1997-11-26T12:02:04'
+  crc: '0x8e9bebae'

@@ -1,5 +1,6 @@
-filename: Biology Series- Chemicals of Life III- Proteins and Nucleic Acids v1.01 (1986)(IBM) [Educational].zip
+filename: Biology Series- Chemicals of Life III- Proteins and Nucleic Acids v1.01 (1986)(IBM) [Educational][!].zip
 tdc_id: '12655.0'
+parent_id: '12655.2'
 title:
   box: 'Biology Series: Chemicals of Life III: Proteins and Nucleic Acids'
 publisher: IBM
@@ -8,9 +9,14 @@ genre: Educational
 language: English
 date:
   added: '2022-07-10T13:59:48'
-  last_modified: '2022-07-10T13:59:48'
+  last_modified: '2024-01-31T15:58:48'
 version: '1.01'
 type: zip
+tags:
+- KnownGood
+media: 360K
+commands:
+  play: G.BAT
 files:
 - name: AUTOEXEC.BAT
   size: 91

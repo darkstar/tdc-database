@@ -1,19 +1,23 @@
-filename: Oil's Well [DC] (1984)(Sierra On-Line Inc.) [Action].zip
+filename: Oil's Well [DC] (1984)(Sierra On-Line, Inc.) [Action].zip
 tdc_id: '14580.0'
+parent_id: '14580.2'
 title:
   box: Oil's Well
-publisher: Sierra On-Line Inc.
+publisher: Sierra On-Line, Inc.
 year: '1984'
 genre: Action
 language: English
 date:
   added: '2022-08-14T12:40:06'
-  last_modified: '2022-08-14T12:40:06'
+  last_modified: '2024-01-31T20:07:22'
 type: zip
 tags:
 - DOSConversion
+media: 360K
 commands:
   play: OILSWELL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1427/oils-well/
 files:
 - name: DATA1.DAT
   size: 380

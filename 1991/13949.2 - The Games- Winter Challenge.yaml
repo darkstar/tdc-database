@@ -1,5 +1,6 @@
-filename: Games, The- Winter Challenge (1991)(Accolade, Inc.) [IMA][1440k].zip
+filename: Games, The- Winter Challenge (1991)(Accolade, Inc.) [IMA][1440k][!].zip
 tdc_id: '13949.2'
+parent_id: '13949.5'
 title:
   box: 'The Games: Winter Challenge'
 publisher: Accolade, Inc.
@@ -8,11 +9,15 @@ genre: IMA
 language: English
 date:
   added: '2023-02-26T17:45:46'
-  last_modified: '2023-02-26T17:45:46'
+  last_modified: '2024-01-31T13:59:53'
 type: IMA
+tags:
+- KnownGood
 media: 1.44M
+references:
+  mobygames: https://www.mobygames.com/game/2110/the-games-winter-challenge/
 files:
-- name: Winter.IMA
+- name: Disk1.ima
   size: 1474560
-  date: '1991-10-03T00:00:00'
+  date: '2024-01-29T17:57:32'
   crc: '0xe490406f'

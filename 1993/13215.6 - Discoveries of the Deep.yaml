@@ -1,5 +1,6 @@
-filename: Discoveries of the Deep (1993)(Capstone Software) [IMA][1440k].zip
+filename: Discoveries of the Deep (1993)(Capstone Software) [IMA][1440k][!].zip
 tdc_id: '13215.6'
+parent_id: '13215.7'
 title:
   box: Discoveries of the Deep
 publisher: Capstone Software
@@ -8,23 +9,27 @@ genre: IMA
 language: English
 date:
   added: '2023-02-27T10:13:50'
-  last_modified: '2023-02-27T10:13:50'
+  last_modified: '2024-01-31T14:38:46'
 type: IMA
+tags:
+- KnownGood
 media: 1.44M
+references:
+  mobygames: https://www.mobygames.com/game/428/discoveries-of-the-deep/
 files:
-- name: disk1.IMA
+- name: Disk1.ima
   size: 1474560
-  date: '1993-08-25T13:43:56'
+  date: '2024-01-29T17:24:34'
   crc: '0xb49fcbd6'
-- name: disk2.IMA
+- name: Disk2.ima
   size: 1474560
-  date: '1993-08-25T13:43:56'
+  date: '2024-01-29T17:24:48'
   crc: '0x07113e8b'
-- name: disk3.IMA
+- name: Disk3.ima
   size: 1474560
-  date: '1993-08-25T13:43:56'
+  date: '2024-01-29T17:25:06'
   crc: '0xa0ecfb60'
-- name: disk4.IMA
+- name: Disk4.ima
   size: 1474560
-  date: '1993-08-25T13:43:56'
+  date: '2024-01-29T17:25:20'
   crc: '0xc80ad1a3'
