@@ -1,6 +1,6 @@
-filename: Schwarze Auge, Das- Die Schicksalsklinge v1.05 (GEN v1.04) (Installer) (De) [f1] (1992)(Fantasy Productions Verlags- und Medienvertriebs GmbH) [Adventure, Role-Playing (RPG)].zip
-tdc_id: '14779.11'
-parent_id: '14779.8'
+filename: Schwarze Auge, Das- Die Schicksalsklinge v1.06 (GEN v1.04) (Installer) (De) [f1] (1992)(Fantasy Productions Verlags- und Medienvertriebs GmbH) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '14779.20'
+parent_id: '14779.19'
 title:
   box: 'Das Schwarze Auge: Die Schicksalsklinge'
   qualifier: GEN v1.04
@@ -11,39 +11,38 @@ genre:
 - Role-Playing (RPG)
 language: German
 date:
-  added: '2019-03-01T18:42:20'
-  last_modified: '2024-02-01T16:35:26'
-version: '1.05'
+  added: '2024-02-02T14:55:25'
+  last_modified: '2024-02-02T14:55:25'
+version: '1.06'
 type: zip
 tags:
 - Fixed: 1
+media: 1.2M
 installer: true
-commands:
-  play: INSTALL.BAT
 references:
   mobygames: https://www.mobygames.com/game/3437/realms-of-arkania-blade-of-destiny/
 files:
 - name: DATA.S01
   size: 1213440
-  date: '1992-09-18T18:39:38'
-  crc: '0xf713ac1f'
+  date: '1992-10-12T15:53:24'
+  crc: '0x9c3c5d49'
 - name: DATA.S02
   size: 1213440
-  date: '1992-09-18T18:39:50'
-  crc: '0xd44c2d76'
+  date: '1992-10-12T15:53:30'
+  crc: '0xc81d639d'
 - name: DATA.S03
-  size: 704447
-  date: '1992-09-18T18:39:54'
-  crc: '0xf9c4393f'
+  size: 704912
+  date: '1992-10-12T15:53:34'
+  crc: '0x65e1f2f1'
 - name: DSA I 5.1
   size: 0
-  date: '1992-09-21T15:32:16'
+  date: '1992-10-15T12:20:42'
 - name: DSA I 5.2
   size: 0
-  date: '1992-09-21T15:37:20'
+  date: '1992-10-15T12:15:58'
 - name: DSA I 5.3
   size: 0
-  date: '1992-09-21T15:38:56'
+  date: '1992-10-15T12:11:00'
 - name: DSA I 5.4
   size: 0
   date: '1992-09-17T17:23:50'
@@ -64,9 +63,9 @@ files:
   date: '1980-01-01T12:00:00'
   crc: '0x12ae82cf'
 - name: INSTALL.EXE
-  size: 37264
-  date: '1992-07-14T13:00:02'
-  crc: '0xc55a5374'
+  size: 24364
+  date: '1992-10-09T19:27:30'
+  crc: '0x3cbbf4ed'
 - name: LHA.EXE
   size: 36624
   date: '1980-01-01T00:00:00'

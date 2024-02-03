@@ -1,8 +1,10 @@
-filename: Das Schwarze Auge- Die Schicksalsklinge v1.06 (De) (1992)(Fantasy Productions Verlags- und Medienvertriebsgesellschaft mbH) [Adventure, Role-Playing (RPG)].zip
+filename: Schwarze Auge, Das- Die Schicksalsklinge v1.06 (GEN v1.04) (De) (1992)(Fantasy Productions Verlags- und Medienvertriebs GmbH) [Adventure, Role-Playing (RPG)].zip
 tdc_id: '14779.12'
+parent_id: '14779.20'
 title:
   box: 'Das Schwarze Auge: Die Schicksalsklinge'
-publisher: Fantasy Productions Verlags- und Medienvertriebsgesellschaft mbH
+  qualifier: GEN v1.04
+publisher: Fantasy Productions Verlags- und Medienvertriebs GmbH
 year: '1992'
 genre:
 - Adventure
@@ -10,9 +12,14 @@ genre:
 language: German
 date:
   added: '2019-03-01T18:42:20'
-  last_modified: '2019-03-01T18:42:20'
+  last_modified: '2024-02-02T14:57:04'
 version: '1.06'
 type: zip
+media: 1.2M
+commands:
+  play: SCHICK.BAT
+references:
+  mobygames: https://www.mobygames.com/game/3437/realms-of-arkania-blade-of-destiny/
 files:
 - name: ARBOSCH.CHR
   size: 1738
@@ -66,6 +73,10 @@ files:
   size: 522288
   date: '1992-10-09T18:36:26'
   crc: '0xd66ab374'
+- name: SCHICKM.EX_
+  size: 522288
+  date: '1992-10-09T18:36:26'
+  crc: '0xd01af40e'
 - name: START___
   size: 18476
   date: '1992-10-09T20:32:06'

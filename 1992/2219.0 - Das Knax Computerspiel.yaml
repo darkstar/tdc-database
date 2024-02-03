@@ -1,7 +1,7 @@
-filename: Das Knax Computerspiel (De) (1992)(Sparkasse) [Action, Strategy].zip
+filename: KNAX Computerspiel, Das (De) (1992)(Sparkasse) [Action, Strategy].zip
 tdc_id: '2219.0'
 title:
-  screen: Das Knax Computerspiel
+  box: Das KNAX Computerspiel
 publisher: Sparkasse
 year: '1992'
 genre:
@@ -10,9 +10,12 @@ genre:
 language: German
 date:
   added: '2019-03-01T18:42:20'
-  last_modified: '2019-03-01T18:42:20'
+  last_modified: '2024-02-02T15:27:37'
 type: zip
+commands:
+  play: KNAXST.BAT
 references:
+  mobygames: https://www.mobygames.com/game/70561/das-knax-computerspiel/
   dosid: DOS15328
   exodos: KNAX (1992).zip
 files:

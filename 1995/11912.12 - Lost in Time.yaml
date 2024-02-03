@@ -15,3 +15,12 @@ type: bin-cue
 media: CD-ROM
 references:
   mobygames: https://www.mobygames.com/game/6098/lost-in-time/
+files:
+- name: Lost in Time (USA).bin
+  size: 57718080
+  date: '2018-11-23T11:59:34'
+  crc: '0x32f20851'
+- name: Lost in Time (USA).cue
+  size: 84
+  date: '2018-11-23T11:59:34'
+  crc: '0x2f7bc924'
