@@ -1,0 +1,44 @@
+filename: Kindercomp v2.0 (1984)(Spinnaker Software Corporation) [Educational].zip
+tdc_id: '11795.4'
+parent_id: '11795.3'
+title:
+  box: Kindercomp
+publisher: Spinnaker Software Corporation
+year: '1984'
+genre: Educational
+language: English
+date:
+  added: '2024-02-05T18:07:52'
+  last_modified: '2024-02-05T18:07:52'
+version: '2.0'
+type: zip
+media: 360K
+commands:
+  play: KDC_IB_D.EXE
+references:
+  mobygames: https://www.mobygames.com/game/8620/kindercomp/
+files:
+- name: AUTOEXEC.BAT
+  size: 11
+  date: '1984-02-28T09:46:20'
+  crc: '0x50c5d82b'
+- name: INSTALL1.BAT
+  size: 304
+  date: '1984-02-01T09:25:58'
+  crc: '0x2716a73e'
+- name: INSTALL2.BAT
+  size: 233
+  date: '1984-02-01T09:29:46'
+  crc: '0x74d0d649'
+- name: INSTALLJ.BAT
+  size: 304
+  date: '1984-02-01T09:25:58'
+  crc: '0x2716a73e'
+- name: KDC_IB_D.EXE
+  size: 15744
+  date: '1984-02-27T13:23:34'
+  crc: '0x2c20a7ba'
+- name: KDC_IB_D.EX_
+  size: 15744
+  date: '1984-02-27T13:23:34'
+  crc: '0xadb5f1fd'

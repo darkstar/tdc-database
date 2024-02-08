@@ -1,0 +1,32 @@
+filename: Witness, The r18 [DC] (1983)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '5402.6'
+parent_id: '5402.5'
+title:
+  box: The Witness
+publisher: Infocom, Inc.
+year: '1983'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2024-02-05T15:54:43'
+  last_modified: '2024-02-05T15:54:43'
+release: '18'
+type: zip
+tags:
+- DOSConversion
+media: 360K
+commands:
+  play: WITNESS.DAT
+references:
+  mobygames: https://www.mobygames.com/game/pc-booter/witness
+files:
+- name: WITNESS.COM
+  size: 12928
+  date: '2024-02-05T15:50:16'
+  crc: '0xd21abebf'
+- name: WITNESS.DAT
+  size: 129728
+  date: '2024-02-05T09:28:38'
+  crc: '0x37040e25'

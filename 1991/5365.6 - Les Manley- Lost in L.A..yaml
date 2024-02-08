@@ -1,5 +1,6 @@
-filename: Les Manley- Lost in L.A. (1991)(Accolade, Inc.) [IMA][720k].zip
+filename: Les Manley- Lost in L.A. v1.0 (1991)(Accolade, Inc.) [IMA][720k][!].zip
 tdc_id: '5365.6'
+parent_id: '5365.12'
 title:
   box: 'Les Manley: Lost in L.A.'
 publisher: Accolade, Inc.
@@ -8,6 +9,36 @@ genre: IMA
 language: English
 date:
   added: '2023-02-26T17:56:52'
-  last_modified: '2023-02-26T17:56:52'
+  last_modified: '2024-02-03T09:57:58'
+version: '1.0'
 type: IMA
+tags:
+- KnownGood
 media: 720K
+references:
+  mobygames: https://www.mobygames.com/game/3351/les-manley-in-lost-in-la/
+files:
+- name: Disk1.ima
+  size: 737280
+  date: '2024-01-25T14:11:54'
+  crc: '0xacafe8c4'
+- name: Disk2.ima
+  size: 737280
+  date: '2024-01-25T14:16:26'
+  crc: '0x1fbbf4e3'
+- name: Disk3.ima
+  size: 737280
+  date: '2024-01-25T14:23:10'
+  crc: '0x590c19d0'
+- name: Disk4.ima
+  size: 737280
+  date: '2024-01-25T14:28:04'
+  crc: '0xe05c17ab'
+- name: Disk5.ima
+  size: 737280
+  date: '2024-01-25T14:33:26'
+  crc: '0xbceaeac5'
+- name: Disk6.ima
+  size: 737280
+  date: '2024-01-25T14:45:12'
+  crc: '0x8df6283d'

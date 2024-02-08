@@ -1,5 +1,6 @@
-filename: Rex Nebular and the Cosmic Gender Bender Bonus disk (1992)(MicroProse Software, Inc.) [IMA][1440k].zip
+filename: Rex Nebular and the Cosmic Gender Bender Bonus disk (1992)(MicroProse Software, Inc.) [IMA][1440k][!].zip
 tdc_id: '14886.9'
+parent_id: '14886.14'
 title:
   box: Rex Nebular and the Cosmic Gender Bender Bonus disk
 publisher: MicroProse Software, Inc.
@@ -8,11 +9,15 @@ genre: IMA
 language: English
 date:
   added: '2023-02-27T09:47:34'
-  last_modified: '2023-02-27T09:47:34'
+  last_modified: '2024-02-07T07:27:14'
 type: IMA
+tags:
+- KnownGood
 media: 1.44M
+references:
+  mobygames: https://www.mobygames.com/game/539/rex-nebular-and-the-cosmic-gender-bender/
 files:
-- name: disk1.ima
+- name: Disk1.ima
   size: 1474560
-  date: '1992-09-30T08:57:44'
+  date: '2024-02-05T19:39:16'
   crc: '0x3476543e'

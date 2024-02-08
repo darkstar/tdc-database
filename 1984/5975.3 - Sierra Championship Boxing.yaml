@@ -1,5 +1,6 @@
-filename: Sierra Championship Boxing (1984)(Sierra On-Line, Inc.) [Sports].zip
+filename: Sierra Championship Boxing [DC][h1] (1984)(Sierra On-Line, Inc.) [Sports].zip
 tdc_id: '5975.3'
+parent_id: '5975.5'
 title:
   box: Sierra Championship Boxing
 publisher: Sierra On-Line, Inc.
@@ -8,11 +9,16 @@ genre: Sports
 language: English
 date:
   added: '2019-03-01T18:24:14'
-  last_modified: '2019-03-01T18:24:14'
+  last_modified: '2024-02-07T16:54:25'
 type: zip
+tags:
+- DOSConversion
+- Hack: 1
+media: 360K
 commands:
   play: KO.EXE
 references:
+  mobygames: https://www.mobygames.com/game/4172/sierra-championship-boxing/
   dosid: DOS05971
   exodos: Sierra Championship Boxing (1985).zip
 files:

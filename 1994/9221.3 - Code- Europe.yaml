@@ -1,5 +1,6 @@
-filename: Code- Europe v1.4 (1994)(Compu-Teach) [IMA][1440k].zip
+filename: Code- Europe v1.4 (1994)(Compu-Teach) [IMA][1440k][!].zip
 tdc_id: '9221.3'
+parent_id: '9221.6'
 title:
   box: 'Code: Europe'
 publisher: Compu-Teach
@@ -8,18 +9,20 @@ genre: IMA
 language: English
 date:
   added: '2023-07-12T09:03:11'
-  last_modified: '2023-07-12T09:03:11'
+  last_modified: '2024-02-06T13:44:59'
 version: '1.4'
 type: IMA
+tags:
+- KnownGood
 media: 1.44M
 references:
   mobygames: https://www.mobygames.com/game/6545/code-europe/
 files:
-- name: Disk1.IMA
+- name: Disk1.ima
   size: 1474560
-  date: '1994-04-20T18:47:02'
+  date: '2024-02-04T19:25:26'
   crc: '0x5e2e2eb3'
-- name: Disk2.IMA
+- name: Disk2.ima
   size: 1474560
-  date: '1994-04-20T18:47:02'
+  date: '2024-02-04T19:25:40'
   crc: '0x8b1039e4'

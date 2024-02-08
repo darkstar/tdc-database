@@ -1,5 +1,6 @@
-filename: Casino Craps [a1] (1992)(Villa Crespo Software) [Strategy].zip
+filename: Casino Craps r920709 (1992)(Villa Crespo Software) [Strategy].zip
 tdc_id: '5470.1'
+parent_id: '5470.3'
 title:
   box: Casino Craps
 publisher: Villa Crespo Software
@@ -8,9 +9,32 @@ genre: Strategy
 language: English
 date:
   added: '2019-03-01T18:41:40'
-  last_modified: '2019-03-01T18:41:40'
+  last_modified: '2024-02-03T11:19:33'
+release: '920709'
 type: zip
-tags:
-- Alternate: 1
+media: 720K
 commands:
   play: CRAPS.EXE
+references:
+  mobygames: https://www.mobygames.com/game/49765/casino-craps/
+files:
+- name: CRAP.V
+  size: 28747
+  date: '1992-04-01T22:59:58'
+  crc: '0xefddc7dd'
+- name: CRAPS.EXE
+  size: 126911
+  date: '1992-07-09T20:52:00'
+  crc: '0x31e28e42'
+- name: NH.L
+  size: 360046
+  date: '1992-06-30T10:25:26'
+  crc: '0x007ee74f'
+- name: NT1.L
+  size: 160520
+  date: '1992-06-19T10:54:44'
+  crc: '0xc5d16ce8'
+- name: SYSCHECK.EXE
+  size: 28607
+  date: '1992-07-11T13:46:32'
+  crc: '0x6928a924'

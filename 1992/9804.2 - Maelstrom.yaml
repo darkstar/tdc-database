@@ -1,7 +1,8 @@
-filename: Maelstrom (Installer) [a1] (1992)(Don Bluth Multimedia, Inc., Merit Studios, Inc.) [Adventure, Strategy].zip
+filename: Maelstrom v1.00 (Installer) (1992)(Don Bluth Multimedia, Inc., Merit Studios, Inc.) [Adventure, Strategy].zip
 tdc_id: '9804.2'
 title:
   box: Maelstrom
+  qualifier: Installer
 publisher: Don Bluth Multimedia, Inc., Merit Studios, Inc.
 year: '1992'
 genre:
@@ -10,13 +11,14 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:49:10'
-  last_modified: '2019-03-01T18:49:10'
+  last_modified: '2024-02-07T09:08:13'
+version: '1.00'
 type: zip
-tags:
-- Alternate: 1
 installer: true
 commands:
   play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1864/maelstrom/
 files:
 - name: AUTOEXEC.000
   size: 35

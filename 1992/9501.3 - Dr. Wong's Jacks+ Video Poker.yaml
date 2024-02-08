@@ -1,0 +1,53 @@
+filename: Dr. Wong's Jacks+ Video Poker (1992)(Villa Crespo Software, Inc.) [Strategy, Cards].zip
+tdc_id: '9501.3'
+parent_id: '9501.2'
+title:
+  box: Dr. Wong's Jacks+ Video Poker
+publisher: Villa Crespo Software, Inc.
+year: '1992'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2024-02-03T12:37:50'
+  last_modified: '2024-02-03T12:37:50'
+type: zip
+media: 360K
+commands:
+  play: JACKSVP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/49774/dr-wongs-jacks-video-poker/
+files:
+- name: HELPX.DB
+  size: 6904
+  date: '1992-05-17T19:11:00'
+  crc: '0x8858745d'
+- name: JACKSVP.EXE
+  size: 57435
+  date: '1992-05-17T19:11:00'
+  crc: '0x87c9b82f'
+- name: SOUND.DB
+  size: 72313
+  date: '1992-05-17T19:11:00'
+  crc: '0xaa3e18b4'
+- name: VCSSOUND.PCM
+  size: 30335
+  date: '1992-05-17T19:11:00'
+  crc: '0x6cdfbbf2'
+- name: WONGIC.DB
+  size: 9032
+  date: '1992-05-17T19:11:00'
+  crc: '0xd1df11ca'
+- name: WONGIE.DB
+  size: 45040
+  date: '1992-05-17T19:11:00'
+  crc: '0xa053ff4a'
+- name: WONGXC.DB
+  size: 35132
+  date: '1992-05-17T19:11:00'
+  crc: '0x6e0b1092'
+- name: WONGXE.DB
+  size: 59676
+  date: '1992-05-17T19:11:00'
+  crc: '0x41c02952'

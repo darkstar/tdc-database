@@ -1,4 +1,4 @@
-filename: Chuck Yeager's Advanced Flight Simulator (1987)(Electronic Arts, Inc.) [Simulation].zip
+filename: Chuck Yeager's Advanced Flight Simulator v1.0 r870517 (1987)(Electronic Arts, Inc.) [Simulation][!].zip
 tdc_id: '5271.0'
 parent_id: '5271.1'
 title:
@@ -9,8 +9,17 @@ genre: Simulation
 language: English
 date:
   added: '2022-03-06T13:28:54'
-  last_modified: '2022-03-06T13:28:54'
+  last_modified: '2024-02-04T19:06:18'
+version: '1.0'
+release: '870517'
 type: zip
+tags:
+- KnownGood
+media: 360K
+commands:
+  play: AFS\AFS.EXE
+references:
+  mobygames: https://www.mobygames.com/game/4812/chuck-yeagers-advanced-flight-simulator/
 files:
 - name: AFS.BAT
   size: 18

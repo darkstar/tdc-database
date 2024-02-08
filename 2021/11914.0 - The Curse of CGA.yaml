@@ -1,0 +1,63 @@
+filename: Curse of CGA, The [FW] (2021)(Jani Nykänen) [Strategy, Puzzle].zip
+tdc_id: '11914.0'
+title:
+  screen: The Curse of CGA
+publisher: Jani Nykänen
+year: '2021'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2024-02-04T15:01:07'
+  last_modified: '2024-02-04T15:01:07'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: CURSE.EXE
+files:
+- name: ASSETS\
+  size: 0
+  date: '2024-01-12T06:54:58'
+- name: ASSETS\ENDING.BIN
+  size: 901
+  date: '2021-02-08T15:35:04'
+  crc: '0x7a545a69'
+- name: ASSETS\FIGURE.BIN
+  size: 2565
+  date: '2021-02-08T15:35:04'
+  crc: '0x43876f7b'
+- name: ASSETS\FONT.BIN
+  size: 4101
+  date: '2021-02-08T15:35:04'
+  crc: '0x54d693f6'
+- name: ASSETS\HUD.BIN
+  size: 645
+  date: '2021-02-08T15:35:04'
+  crc: '0xacfecced'
+- name: ASSETS\LOGO.BIN
+  size: 965
+  date: '2021-02-08T15:35:04'
+  crc: '0xf289edf5'
+- name: ASSETS\MAP.BIN
+  size: 3006
+  date: '2021-02-08T15:35:04'
+  crc: '0xfd08b89b'
+- name: ASSETS\OBJECTS.BIN
+  size: 133
+  date: '2021-02-08T15:35:04'
+  crc: '0xbf70aa3f'
+- name: ASSETS\TILESET.BIN
+  size: 2821
+  date: '2021-02-08T15:35:04'
+  crc: '0x9a1ae250'
+- name: ASSETS\TITLE.BIN
+  size: 2957
+  date: '2021-02-08T15:35:04'
+  crc: '0xa6952840'
+- name: CURSE.EXE
+  size: 49562
+  date: '2021-02-07T22:03:48'
+  crc: '0x42005200'
