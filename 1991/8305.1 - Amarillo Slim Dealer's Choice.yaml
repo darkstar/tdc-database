@@ -1,17 +1,19 @@
-filename: Amarillo Slim Dealer's Choice [a1] (1991)(Villa Crespo Software) [Simulation].zip
+filename: Amarillo Slim Dealer's Choice (1991)(Villa Crespo Software, Inc.) [Simulation, Cards].zip
 tdc_id: '8305.1'
 title:
   box: Amarillo Slim Dealer's Choice
-publisher: Villa Crespo Software
+publisher: Villa Crespo Software, Inc.
 year: '1991'
-genre: Simulation
+genre:
+- Simulation
+- Cards
 language: English
 date:
   added: '2019-03-01T18:34:50'
-  last_modified: '2019-03-01T18:34:50'
+  last_modified: '2024-02-11T20:31:35'
 type: zip
-tags:
-- Alternate: 1
+references:
+  mobygames: https://www.mobygames.com/game/8782/amarillo-slim-dealers-choice/
 files:
 - name: 28POKER.EXE
   size: 357339

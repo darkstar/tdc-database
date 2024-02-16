@@ -1,5 +1,6 @@
-filename: Grand Prix Unlimited (1992)(Accolade, Inc.) [Action, Racing - Driving, Simulation, Sports].zip
+filename: Grand Prix Unlimited v1.0 (1992)(Accolade, Inc.) [Action, Racing - Driving, Simulation, Sports][!].zip
 tdc_id: '11972.0'
+parent_id: '11972.6'
 title:
   box: Grand Prix Unlimited
 publisher: Accolade, Inc.
@@ -12,9 +13,17 @@ genre:
 language: English
 date:
   added: '2021-04-28T18:55:26'
-  last_modified: '2021-04-28T18:55:26'
+  last_modified: '2024-02-11T09:51:43'
+version: '1.0'
 type: zip
+tags:
+- KnownGood
+media: 720K
+commands:
+  play: GPU.EXE
+  setup: SETUP.EXE
 references:
+  mobygames: https://www.mobygames.com/game/321/grand-prix-unlimited/
   dosid: DOS02458
   exodos: Grand Prix Unlimited (1992).zip
 files:

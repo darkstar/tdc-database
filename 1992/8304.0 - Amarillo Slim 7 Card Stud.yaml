@@ -1,18 +1,23 @@
-filename: Amarillo Slim 7 Card Stud (1992)(Villa Crespo Software) [Simulation].zip
+filename: Amarillo Slim 7 Card Stud (1992)(Villa Crespo Software, Inc.) [Simulation, Cards].zip
 tdc_id: '8304.0'
+parent_id: '8304.2'
 title:
   box: Amarillo Slim 7 Card Stud
-publisher: Villa Crespo Software
+publisher: Villa Crespo Software, Inc.
 year: '1992'
-genre: Simulation
+genre:
+- Simulation
+- Cards
 language: English
 date:
   added: '2021-10-21T13:20:44'
-  last_modified: '2021-10-21T13:20:44'
+  last_modified: '2024-02-11T20:12:08'
 type: zip
+media: 720K
 commands:
   play: 7STUD.EXE
 references:
+  mobygames: https://www.mobygames.com/game/80774/amarillo-slims-7-card-stud/
   dosid: DOS07542
   exodos: Amarillo Slim's 7 Card Stud (1992).zip
 files:

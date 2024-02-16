@@ -1,19 +1,23 @@
-filename: Jumpman [DC] (1983)(IBM) [Action].zip
+filename: Jumpman [DC] (1984)(IBM) [Action].zip
 tdc_id: '5150.15'
+parent_id: '5150.16'
 title:
   box: Jumpman
 publisher: IBM
-year: '1983'
+year: '1984'
 genre: Action
 language: English
 date:
   added: '2019-03-01T18:23:14'
-  last_modified: '2019-03-01T18:23:14'
+  last_modified: '2024-02-11T08:54:38'
 type: zip
 tags:
 - DOSConversion
+media: 360K
 commands:
   play: JUMPMAN.EXE
+references:
+  mobygames: https://www.mobygames.com/game/80/jumpman/
 files:
 - name: HISCORES.DAT
   size: 189

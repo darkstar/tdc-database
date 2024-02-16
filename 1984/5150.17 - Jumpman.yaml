@@ -1,21 +1,24 @@
-filename: Jumpman [DC][b1] (1983)(IBM) [Action].zip
+filename: Jumpman [DC][b1] (1984)(IBM) [Action].zip
 tdc_id: '5150.17'
+parent_id: '5150.15'
 title:
   box: Jumpman
 publisher: IBM
-year: '1983'
+year: '1984'
 genre: Action
 language: English
 date:
   added: '2019-03-01T18:23:14'
-  last_modified: '2019-03-01T18:23:14'
+  last_modified: '2024-02-11T08:56:01'
 type: zip
 tags:
 - DOSConversion
 - Bad: 1
+media: 360K
 commands:
   play: JUMPMAN.COM
 references:
+  mobygames: https://www.mobygames.com/game/80/jumpman/
   dosid: DOS05916
   exodos: Jumpman (1984).zip
 files:

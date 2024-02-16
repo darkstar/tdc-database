@@ -13,14 +13,14 @@ type: zip
 commands:
   play: JINGLE.EXE
 files:
+- name: CREATE.BAT
+  size: 2432
+  date: '1986-09-05T14:59:58'
+  crc: '0xd1fd1cdd'
 - name: JINGLE.EXE
   size: 58368
   date: '1986-09-12T15:10:54'
   crc: '0xe26fe10a'
-- name: NAME.DAT
-  size: 128
-  date: '1986-10-16T15:32:32'
-  crc: '0x60f1b542'
 - name: X01N.HSL
   size: 2937
   date: '1986-08-15T00:13:30'

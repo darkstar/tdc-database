@@ -1,22 +1,24 @@
-filename: Questprobe- Featuring Human Torch and the Thing v1.72 [f1] (1985)(Adventure International) [Adventure].zip
-tdc_id: '10844.1'
+filename: Human Torch and the Thing v1.72 [f1] (1991)(Keypunch Software, Inc.) [Adventure].zip
+tdc_id: '10844.0'
 title:
-  box: 'Questprobe: Featuring Human Torch and the Thing'
-publisher: Adventure International
-year: '1985'
+  box: Human Torch and the Thing
+publisher: Keypunch Software, Inc.
+year: '1991'
 genre: Adventure
 language: English
 date:
   added: '2019-03-01T18:24:32'
-  last_modified: '2022-11-20T21:05:44'
+  last_modified: '2024-02-11T14:52:57'
 version: '1.72'
 type: zip
 tags:
 - Fixed: 1
 commands:
-  play: START.EXE
+  play: FANTFOUR.EXE
 references:
-  mobygames: https://www.mobygames.com/game/dos/questprobe-featuring-human-torch-and-the-thing
+  mobygames: https://www.mobygames.com/game/1947/questprobe-featuring-human-torch-and-the-thing/
+  dosid: DOS04204
+  exodos: Questprobe featuring Human Torch and the Thing (1986).zip
 files:
 - name: B002.PAK
   size: 1536
@@ -106,6 +108,18 @@ files:
   size: 512
   date: '1985-08-09T02:04:04'
   crc: '0x4b2de52f'
+- name: FANTFOUR.EXE
+  size: 98944
+  date: '1985-11-27T13:14:30'
+  crc: '0x37683c78'
+- name: FANTFOUR.EX_
+  size: 98944
+  date: '1985-11-27T13:14:30'
+  crc: '0x16f3bda6'
+- name: FANTFOUR.TXT
+  size: 8221
+  date: '1991-05-27T13:05:34'
+  crc: '0xc72f3c2f'
 - name: R001.PAK
   size: 2432
   date: '1985-08-09T01:47:42'
@@ -274,31 +288,7 @@ files:
   size: 512
   date: '1985-08-09T22:51:50'
   crc: '0x11177d2e'
-- name: SAVEGA.DAT
-  size: 2560
-  date: '1980-01-01T12:51:48'
-  crc: '0x1a18bf98'
-- name: SAVEGB.DAT
-  size: 2560
-  date: '1980-01-01T12:53:44'
-  crc: '0x67ff80b5'
-- name: SAVEGC.DAT
-  size: 2560
-  date: '1980-01-01T12:55:54'
-  crc: '0xb465b240'
-- name: SAVEGD.DAT
-  size: 2560
-  date: '1980-01-01T13:01:26'
-  crc: '0xa70b98c7'
 - name: SPL53P.DAT
   size: 41472
   date: '1985-11-26T08:14:06'
   crc: '0xf07ed25a'
-- name: START.EXE
-  size: 98944
-  date: '1985-11-27T13:14:30'
-  crc: '0x37683c78'
-- name: START.EX_
-  size: 98944
-  date: '1985-11-27T13:14:30'
-  crc: '0xdad2c653'

@@ -1,0 +1,100 @@
+filename: Hooray for Henrietta v1.1 (demo) (1990)(Scetlander Ltd.) [Educational][!].zip
+tdc_id: '1978.3'
+parent_id: '1978.2'
+title:
+  box: Hooray for Henrietta
+  qualifier: demo
+publisher: Scetlander Ltd.
+year: '1990'
+genre: Educational
+language: English
+date:
+  added: '2024-02-15T13:15:29'
+  last_modified: '2024-02-15T13:15:29'
+version: '1.1'
+type: zip
+tags:
+- KnownGood
+media: 360K
+demo: true
+commands:
+  play: HH.BAT
+references:
+  mobygames: https://www.mobygames.com/game/118883/hooray-for-henrietta/
+files:
+- name: CUSTPAS.PIC
+  size: 7302
+  date: '1990-03-20T01:10:14'
+  crc: '0xb5ff514d'
+- name: DANCEHH.TPM
+  size: 480
+  date: '1990-03-26T17:54:20'
+  crc: '0x0cfb56a5'
+- name: DEFS.DAT
+  size: 29
+  date: '1990-08-06T15:08:52'
+  crc: '0x0fac8bd9'
+- name: GUIDE.TXT
+  size: 20279
+  date: '1990-10-11T10:33:48'
+  crc: '0xdb95c44b'
+- name: HERB.PIC
+  size: 254
+  date: '1990-01-30T15:30:34'
+  crc: '0xd1bb1889'
+- name: HH.BAT
+  size: 55
+  date: '1990-03-27T14:20:32'
+  crc: '0x18cb4a59'
+- name: HHPAS.PIC
+  size: 15846
+  date: '1990-10-08T01:58:26'
+  crc: '0x53851d42'
+- name: HHPICS.PIC
+  size: 3168
+  date: '1990-03-21T16:29:04'
+  crc: '0xcac8474a'
+- name: HOORAY.EXE
+  size: 164336
+  date: '1990-10-30T09:48:00'
+  crc: '0x2d44d4db'
+- name: INTROHH.TPM
+  size: 480
+  date: '1990-03-27T13:35:30'
+  crc: '0xe2e77b73'
+- name: MORGHEAD.PIC
+  size: 1306
+  date: '1990-10-11T03:14:48'
+  crc: '0xbeafda15'
+- name: PARHEAD.PIC
+  size: 2450
+  date: '1990-10-16T00:04:38'
+  crc: '0xd33e5707'
+- name: README.EXE
+  size: 7040
+  date: '1990-09-14T12:25:52'
+  crc: '0x073a5d5b'
+- name: README.TXT
+  size: 304
+  date: '1990-10-09T16:23:56'
+  crc: '0x59380080'
+- name: RESULTS.DAT
+  size: 43560
+  date: '1990-09-14T17:16:16'
+  crc: '0xcfac4ffa'
+- name: SCORES.DAT
+  size: 540
+  date: '1990-10-09T17:35:12'
+  crc: '0x3d149dd3'
+- name: TREE.PIC
+  size: 254
+  date: '1990-01-30T15:17:26'
+  crc: '0x57fc96d8'
+- name: WEDDING.TPM
+  size: 480
+  date: '1990-03-26T17:54:28'
+  crc: '0xaf1b5a68'
+- name: WEDPAS.PIC
+  size: 6018
+  date: '1990-03-22T00:20:06'
+  crc: '0x334090bf'

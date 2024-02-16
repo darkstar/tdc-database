@@ -1,24 +1,45 @@
-filename: Backgammon [a1] (1986)(Anonymous) [Strategy, Board].zip
+filename: Backgammon (1986)(Green Valley Publishing, ShareData, Inc.) [Strategy, Board][!].zip
 tdc_id: '12341.2'
+parent_id: '12341.1'
 title:
-  screen: Backgammon
-publisher: Anonymous
+  box: Backgammon
+publisher: Green Valley Publishing, ShareData, Inc.
 year: '1986'
 genre:
 - Strategy
 - Board
 language: English
 date:
-  added: '2019-03-01T18:24:40'
-  last_modified: '2019-03-01T18:24:40'
+  added: '2019-03-01T18:29:24'
+  last_modified: '2024-02-11T09:24:43'
 type: zip
 tags:
-- Alternate: 1
-media: Download
+- KnownGood
+media: 360K
 commands:
-  play: BACKGAM.EXE
+  play: GAME16.EXE
 files:
-- name: BACKGAM.EXE
-  size: 45866
-  date: '1986-06-09T09:55:48'
-  crc: '0xb203d712'
+- name: GAM16.EXE
+  size: 63350
+  date: '1980-01-04T00:34:36'
+  crc: '0x88e88e54'
+- name: IO.SYS
+  size: 5140
+  date: '1985-02-22T11:57:56'
+  crc: '0x5f90c582'
+- name: MENU.BAK
+  size: 5
+  date: '1980-01-01T00:35:34'
+  crc: '0x2742067e'
+- name: MENU.BAT
+  size: 401
+  date: '1980-01-01T00:16:04'
+  crc: '0x963dca5c'
+- name: MSDOS.SYS
+  size: 17176
+  date: '1985-02-18T09:50:00'
+  crc: '0xf44eb3b6'
+- name: READ.ME
+  size: 262
+  date: '1980-01-01T00:05:08'
+  crc: '0x5924edd5'
