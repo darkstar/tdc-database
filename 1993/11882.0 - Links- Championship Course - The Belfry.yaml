@@ -1,7 +1,8 @@
-filename: Links- Championship Course - The Belfry (Installer) (1993)(Access Software, Inc.) [Sports, Addon].zip
+filename: Links- Championship Course - The Belfry v1.10 (Installer) (1993)(Access Software, Inc.) [Sports, Addon].zip
 tdc_id: '11882.0'
 title:
   box: 'Links: Championship Course - The Belfry'
+  qualifier: Installer
 publisher: Access Software, Inc.
 year: '1993'
 genre:
@@ -10,9 +11,14 @@ genre:
 language: English
 date:
   added: '2019-03-01T19:11:50'
-  last_modified: '2019-03-01T19:11:50'
+  last_modified: '2024-02-21T09:48:40'
+version: '1.10'
 type: zip
 installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/37368/links-championship-course-the-belfry/
 files:
 - name: BELFRY1.REC
   size: 2693

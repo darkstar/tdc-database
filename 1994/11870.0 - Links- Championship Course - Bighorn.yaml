@@ -1,7 +1,9 @@
-filename: Links- Championship Course - Bighorn (Installer) (1994)(Access Software, Inc.) [Sports, Addon].zip
+filename: Links- Championship Course - Bighorn v1.21 (Installer) (1994)(Access Software, Inc.) [Sports, Addon][!].zip
 tdc_id: '11870.0'
+parent_id: '11870.2'
 title:
   box: 'Links: Championship Course - Bighorn'
+  qualifier: Installer
 publisher: Access Software, Inc.
 year: '1994'
 genre:
@@ -10,9 +12,17 @@ genre:
 language: English
 date:
   added: '2019-03-01T22:01:40'
-  last_modified: '2019-03-01T22:01:40'
+  last_modified: '2024-02-21T16:05:08'
+version: '1.21'
 type: zip
+tags:
+- KnownGood
+media: 1.44M
 installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/4030/links-championship-course-bighorn/
 files:
 - name: BIGHORN1.REC
   size: 2831

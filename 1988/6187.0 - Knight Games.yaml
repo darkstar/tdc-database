@@ -1,4 +1,4 @@
-filename: Knight Games (1988)(Mastertronic Group Ltd.) [Sports].zip
+filename: Knight Games (1988)(Mastertronic Group Ltd.) [Sports][!].zip
 tdc_id: '6187.0'
 parent_id: '6187.2'
 title:
@@ -9,9 +9,15 @@ genre: Sports
 language: English
 date:
   added: '2019-03-01T18:26:24'
-  last_modified: '2019-03-01T18:26:24'
+  last_modified: '2024-02-18T08:22:57'
 type: zip
+tags:
+- KnownGood
+media: 360K
+commands:
+  play: KG.EXE
 references:
+  mobygames: https://www.mobygames.com/game/1649/knight-games/
   dosid: DOS03023
   exodos: Knight Games (1988).zip
 files:
@@ -109,7 +115,7 @@ files:
   crc: '0xa0c0ff6f'
 - name: KGFONT.FNT
   size: 2050
-  date: '2027-12-31T00:00:00'
+  date: '2107-12-31T23:59:58'
   crc: '0xfbe94bd2'
 - name: PS.DAT
   size: 46393

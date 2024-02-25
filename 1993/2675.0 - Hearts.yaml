@@ -1,5 +1,6 @@
-filename: Hearts (1993)(Villa Crespo Software Inc.) [Strategy, Cards].zip
+filename: Hearts (1993)(Villa Crespo Software Inc.) [Strategy, Cards][!].zip
 tdc_id: '2675.0'
+parent_id: '2675.2'
 title:
   box: Hearts
 publisher: Villa Crespo Software Inc.
@@ -10,9 +11,15 @@ genre:
 language: English
 date:
   added: '2019-03-01T19:09:36'
-  last_modified: '2019-03-01T19:09:36'
+  last_modified: '2024-02-22T11:11:08'
 type: zip
+tags:
+- KnownGood
+media: 720K
+commands:
+  play: CBS21.BAT
 references:
+  mobygames: https://www.mobygames.com/game/141536/hearts/
   dosid: DOS15432
   exodos: Hearts (1993).zip
 files:
@@ -24,10 +31,6 @@ files:
   size: 17
   date: '1993-04-15T07:11:00'
   crc: '0x00e71d65'
-- name: HEART.EXE
-  size: 305808
-  date: '1993-04-15T07:11:00'
-  crc: '0x1e3aa2a3'
 - name: HEARTS.DAT
   size: 285102
   date: '1993-04-15T07:11:00'
@@ -36,6 +39,10 @@ files:
   size: 47201
   date: '1993-04-15T07:11:00'
   crc: '0x7a56c231'
+- name: HEARTS.EXE
+  size: 305808
+  date: '1993-04-15T07:11:00'
+  crc: '0x1e3aa2a3'
 - name: HEARTS.IDX
   size: 1682
   date: '1993-04-15T07:11:00'

@@ -1,17 +1,26 @@
-filename: Prophecy, The (Installer) (1993)(Sierra On-Line, Inc.) [Adventure].zip
+filename: Prophecy, The v1.0 (Installer) (1993)(Sierra On-Line, Inc.) [Adventure][!].zip
 tdc_id: '10668.1'
 parent_id: '10668.2'
 title:
   box: The Prophecy
+  qualifier: Installer
 publisher: Sierra On-Line, Inc.
 year: '1993'
 genre: Adventure
 language: English
 date:
   added: '2022-01-08T17:05:04'
-  last_modified: '2022-01-08T17:05:04'
+  last_modified: '2024-02-22T16:32:16'
+version: '1.0'
 type: zip
+tags:
+- KnownGood
+media: 1.44M
 installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/6218/the-prophecy/
 files:
 - name: ALL.ASK
   size: 11077
@@ -73,7 +82,7 @@ files:
   size: 1051
   date: '1993-02-23T10:06:52'
   crc: '0xba444d2a'
-- name: VERSION.1
+- name: VERSION
   size: 44
   date: '1993-02-07T10:50:42'
   crc: '0xae0b349f'

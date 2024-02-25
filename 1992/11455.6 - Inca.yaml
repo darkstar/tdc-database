@@ -1,0 +1,224 @@
+filename: Inca (Installer) (En)(De)(Fr)(It)(Es) (1992)(Coktel Vision) [Action, Adventure].zip
+tdc_id: '11455.6'
+parent_id: '11455.5'
+title:
+  box: Inca
+  qualifier: Installer
+publisher: Coktel Vision
+year: '1992'
+genre:
+- Action
+- Adventure
+language:
+- English
+- Spanish
+- French
+- Italian
+- German
+date:
+  added: '2024-02-22T16:21:53'
+  last_modified: '2024-02-22T16:21:53'
+type: zip
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/4198/inca/
+files:
+- name: ALL.ASK
+  size: 9625
+  date: '1992-11-10T11:52:28'
+  crc: '0x8d189c01'
+- name: AV.EXE
+  size: 60184
+  date: '1992-11-10T12:09:26'
+  crc: '0x1ad478ff'
+- name: AV.ITK
+  size: 508504
+  date: '1992-11-10T11:55:10'
+  crc: '0x593748ad'
+- name: AV.STK
+  size: 71740
+  date: '1992-11-10T18:55:56'
+  crc: '0x1f141644'
+- name: END.EXE
+  size: 50398
+  date: '1992-11-10T12:09:44'
+  crc: '0xcae8cdef'
+- name: END.STK
+  size: 34740
+  date: '1992-11-10T18:56:02'
+  crc: '0xa20addc8'
+- name: ESPACE.ITK
+  size: 485916
+  date: '1992-11-10T12:05:10'
+  crc: '0x8e80bdc5'
+- name: ESPACE1.EXE
+  size: 66132
+  date: '1992-11-10T12:09:14'
+  crc: '0xd1434b2a'
+- name: ESPACE2.EXE
+  size: 73745
+  date: '1992-11-10T12:08:56'
+  crc: '0x389a8b95'
+- name: ESPACE3.EXE
+  size: 72296
+  date: '1992-11-10T12:09:00'
+  crc: '0x016269a4'
+- name: ESPACE4.EXE
+  size: 73887
+  date: '1992-11-10T12:08:52'
+  crc: '0x1560e9ac'
+- name: ESPACE5.EXE
+  size: 75141
+  date: '1992-11-10T12:08:50'
+  crc: '0xaef84979'
+- name: GEN.EXE
+  size: 51102
+  date: '1992-11-10T12:09:38'
+  crc: '0x5c50508c'
+- name: GEN.STK
+  size: 133186
+  date: '1992-11-10T18:56:10'
+  crc: '0x046d5046'
+- name: GLOBAL.STK
+  size: 1309888
+  date: '1992-11-10T19:04:06'
+  crc: '0x51cc85c9'
+- name: INCA.BAT
+  size: 14
+  date: '1992-11-10T11:51:18'
+  crc: '0xf54e462d'
+- name: INCAB.$04
+  size: 21504
+  date: '1992-11-12T10:25:02'
+  crc: '0xd72768d7'
+- name: INCAB.$05
+  size: 718426
+  date: '1992-11-12T10:25:08'
+  crc: '0x685d7781'
+- name: INCAB.EXE
+  size: 64240
+  date: '1992-11-10T12:09:20'
+  crc: '0xfd6ef52c'
+- name: INCAB.ITK
+  size: 829572
+  date: '1992-11-10T11:56:04'
+  crc: '0xb57466c6'
+- name: INCAX.EXE
+  size: 61054
+  date: '1992-11-10T12:09:22'
+  crc: '0x21bff7e8'
+- name: INSTALL.ALL
+  size: 1542
+  date: '1992-11-12T10:25:38'
+  crc: '0x6116671f'
+- name: INSTALL.EXE
+  size: 18596
+  date: '1992-11-06T17:18:24'
+  crc: '0x8e6b1dc1'
+- name: INTRO.ITK
+  size: 493978
+  date: '1992-11-10T11:56:28'
+  crc: '0x6e63df8e'
+- name: INTRO.STK
+  size: 140132
+  date: '1992-11-10T18:56:22'
+  crc: '0xa0dda1c3'
+- name: LOST.STK
+  size: 33010
+  date: '1992-11-10T18:55:50'
+  crc: '0x81fd29c1'
+- name: MAIN.EXE
+  size: 66193
+  date: '1992-11-10T12:09:08'
+  crc: '0x65c7651c'
+- name: MAIN.ITK
+  size: 417760
+  date: '1992-11-10T12:02:10'
+  crc: '0xbc527aec'
+- name: MAIN.STK
+  size: 297386
+  date: '1992-11-10T18:56:38'
+  crc: '0x4736d938'
+- name: MAYA.EXE
+  size: 65347
+  date: '1992-11-10T12:09:16'
+  crc: '0x30a789b3'
+- name: MAYA.ITK
+  size: 733314
+  date: '1992-11-10T12:03:28'
+  crc: '0xef2de1f3'
+- name: MAYA.STK
+  size: 140614
+  date: '1992-11-10T18:56:52'
+  crc: '0x2299fa43'
+- name: MORE.ITK
+  size: 897810
+  date: '1992-11-10T11:54:46'
+  crc: '0xf0fbc0df'
+- name: PLAN1.EXE
+  size: 55304
+  date: '1992-11-10T12:09:32'
+  crc: '0xdba8c197'
+- name: PLAN2.EXE
+  size: 57890
+  date: '1992-11-10T12:09:28'
+  crc: '0xd43a2008'
+- name: RUN.#01
+  size: 111520
+  date: '1992-11-12T10:07:46'
+  crc: '0x31614465'
+- name: RUN1.$00
+  size: 20480
+  date: '1992-11-12T10:24:18'
+  crc: '0x214ce9e8'
+- name: RUN1.$01
+  size: 1457152
+  date: '1992-11-12T10:24:28'
+  crc: '0xaccc1644'
+- name: RUN1.$02
+  size: 1457152
+  date: '1992-11-12T10:24:42'
+  crc: '0xd668adc9'
+- name: RUN1.$03
+  size: 268628
+  date: '1992-11-12T10:24:52'
+  crc: '0x62e90524'
+- name: RUN2.ITK
+  size: 1406114
+  date: '1992-11-10T11:52:26'
+  crc: '0xe3493a6c'
+- name: SAVE.BAT
+  size: 14
+  date: '1992-11-10T11:51:18'
+  crc: '0x42d99c81'
+- name: SAVE.STK
+  size: 36962
+  date: '1992-11-10T18:57:48'
+  crc: '0xfe049b6b'
+- name: SAVEX.EXE
+  size: 51335
+  date: '1992-11-10T12:09:34'
+  crc: '0x9962d2ef'
+- name: SURVOL.#02
+  size: 748072
+  date: '1992-11-12T10:10:54'
+  crc: '0xe518eca5'
+- name: SURVOL.STK
+  size: 236962
+  date: '1992-11-12T12:21:20'
+  crc: '0xa584bc37'
+- name: SURVOL1.EXE
+  size: 66150
+  date: '1992-11-10T12:09:10'
+  crc: '0xc06003ee'
+- name: WIN.EXE
+  size: 50862
+  date: '1992-11-10T12:09:40'
+  crc: '0x0b6a7385'
+- name: WIN.STK
+  size: 394788
+  date: '1992-11-10T12:05:30'
+  crc: '0x7ce17cf7'

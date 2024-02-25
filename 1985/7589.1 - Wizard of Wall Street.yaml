@@ -1,5 +1,6 @@
 filename: Wizard of Wall Street v1.10 (1985)(Synapse Software Corporation) [Strategy, Simulation][!].zip
 tdc_id: '7589.1'
+parent_id: '7589.3'
 title:
   box: Wizard of Wall Street
 publisher: Synapse Software Corporation
@@ -15,6 +16,12 @@ version: '1.10'
 type: zip
 tags:
 - KnownGood
+requirements:
+  cpu:
+    min: '8088'
+media: 360K
+commands:
+  play: WOWS.EXE
 files:
 - name: 20POUNDS.PIC
   size: 4829

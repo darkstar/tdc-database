@@ -1,0 +1,134 @@
+filename: Children's Writing & Publishing Center, The v1.1 (Installer) (1989)(The Learning Company) [Educational].zip
+tdc_id: '17415.2'
+parent_id: '17415.1'
+title:
+  box: The Children's Writing & Publishing Center
+  qualifier: Installer
+publisher: The Learning Company
+year: '1989'
+genre: Educational
+language: English
+date:
+  added: '2024-02-22T09:09:10'
+  last_modified: '2024-02-22T09:09:10'
+version: '1.1'
+type: zip
+media: 360K
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: AUTOEXEC.BAT
+  size: 20
+  date: '1989-05-26T16:16:00'
+  crc: '0x07afbe8c'
+- name: CPC.BAT
+  size: 339
+  date: '1989-05-26T16:16:00'
+  crc: '0x17bd0b66'
+- name: CPC.COM
+  size: 144
+  date: '1989-05-02T12:30:56'
+  crc: '0x65122545'
+- name: CPCH.BAT
+  size: 12
+  date: '1989-05-26T16:16:00'
+  crc: '0xf17fda94'
+- name: CPCINST.EXE
+  size: 8554
+  date: '1989-04-19T09:12:50'
+  crc: '0xc63ef639'
+- name: DESKTOPD.CFG
+  size: 55
+  date: '1989-05-26T16:16:04'
+  crc: '0xa3ff7c5d'
+- name: INSTALL.EXE
+  size: 27475
+  date: '1989-05-02T12:30:52'
+  crc: '0xb0235757'
+- name: INSTALL.PDM
+  size: 5
+  date: '1989-05-26T16:16:10'
+  crc: '0xad287931'
+- name: PROG.CFG
+  size: 1111
+  date: '1989-05-02T12:31:08'
+  crc: '0x85beee79'
+- name: SAMPLE.CPC
+  size: 3248
+  date: '1989-04-19T09:12:42'
+  crc: '0xc0a88a48'
+- name: TLC.1
+  size: 25000
+  date: '1989-03-01T08:41:16'
+  crc: '0x131434ce'
+- name: TLC.2
+  size: 32000
+  date: '1989-03-01T08:41:20'
+  crc: '0xcfe9e180'
+- name: TLCINFO.DAT
+  size: 233
+  date: '1989-05-02T12:31:02'
+  crc: '0xd011771c'
+- name: TLCINFO2.DAT
+  size: 233
+  date: '1989-05-26T16:15:50'
+  crc: '0xdcccf807'
+- name: TLCINFO3.DAT
+  size: 233
+  date: '1989-04-19T09:12:56'
+  crc: '0x9dc7cf86'
+- name: TLC\
+  size: 0
+  date: '1989-03-20T14:45:08'
+- name: TLC\CPC\
+  size: 0
+  date: '1989-03-20T14:45:08'
+- name: TLC\CPC\CPC.CFG
+  size: 562
+  date: '1989-05-26T16:15:44'
+  crc: '0xa3fe3e4d'
+- name: TLC\CPC\CPC.EXE
+  size: 186304
+  date: '1989-05-26T16:15:42'
+  crc: '0x6fc788b6'
+- name: TLC\CPC\CPCFONTS.DAT
+  size: 26337
+  date: '1989-05-26T16:15:42'
+  crc: '0xc20425e5'
+- name: TLC\CPC\CPCHELP.DAT
+  size: 8157
+  date: '1989-05-26T16:15:44'
+  crc: '0xf54357a5'
+- name: TLC\CPC\CPCPIC1.DAT
+  size: 238536
+  date: '1989-05-04T19:02:32'
+  crc: '0x5bd84b8b'
+- name: TLC\CPC\CPCPIC1.NAM
+  size: 4690
+  date: '1989-05-04T19:02:32'
+  crc: '0xd2c75551'
+- name: TLC\CPC\MENU.PCK
+  size: 1502
+  date: '1989-05-26T16:15:44'
+  crc: '0xaa998922'
+- name: TLC\CPC\MENUBAR.PCK
+  size: 1269
+  date: '1989-05-26T16:15:42'
+  crc: '0x184baa84'
+- name: TLC\CPC\PRINTERS.DAT
+  size: 8032
+  date: '1989-05-26T16:15:44'
+  crc: '0xa5d174e7'
+- name: TLC\CPC\TITLE1.PCK
+  size: 5084
+  date: '1989-06-30T14:41:38'
+  crc: '0xe614f6a2'
+- name: TLC\CPC\TITLE2.PCK
+  size: 4178
+  date: '1989-06-30T14:41:38'
+  crc: '0x8fba7c53'
+- name: WORLD.CPC
+  size: 11052
+  date: '1980-01-01T01:55:12'
+  crc: '0x2d563a1f'

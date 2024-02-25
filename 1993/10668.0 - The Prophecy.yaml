@@ -1,4 +1,4 @@
-filename: Prophecy, The (1993)(Sierra On-Line, Inc.) [Adventure].zip
+filename: Prophecy, The v1.0 (1993)(Sierra On-Line, Inc.) [Adventure].zip
 tdc_id: '10668.0'
 parent_id: '10668.1'
 title:
@@ -9,9 +9,14 @@ genre: Adventure
 language: English
 date:
   added: '2019-03-01T19:16:38'
-  last_modified: '2019-03-01T19:16:38'
+  last_modified: '2024-02-22T16:37:06'
+version: '1.0'
 type: zip
+media: 1.44M
+commands:
+  play: GO.BAT
 references:
+  mobygames: https://www.mobygames.com/game/6218/the-prophecy/
   dosid: DOS04129
   exodos: Ween - The Prophecy (1993).zip
 files:

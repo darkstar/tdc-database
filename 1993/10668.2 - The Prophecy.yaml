@@ -1,4 +1,4 @@
-filename: Prophecy, The (1993)(Sierra On-Line, Inc.) [IMA][1440k].zip
+filename: Prophecy, The v1.0 (1993)(Sierra On-Line, Inc.) [IMA][1440k].zip
 tdc_id: '10668.2'
 title:
   box: The Prophecy
@@ -8,29 +8,30 @@ genre: IMA
 language: English
 date:
   added: '2023-11-20T19:49:43'
-  last_modified: '2023-11-20T19:49:43'
+  last_modified: '2024-02-22T16:31:57'
+version: '1.0'
 type: IMA
 media: 1.44M
 references:
   mobygames: https://www.mobygames.com/game/6218/the-prophecy/
 files:
-- name: disk1.img
+- name: disk1.ima
   size: 1474560
   date: '2008-09-12T07:40:56'
   crc: '0x2b02f3eb'
-- name: disk2.img
+- name: disk2.ima
   size: 1474560
   date: '2008-09-12T07:43:32'
   crc: '0x4b65e326'
-- name: disk3.img
+- name: disk3.ima
   size: 1474560
   date: '2008-09-12T07:47:34'
   crc: '0xba19173d'
-- name: disk4.img
+- name: disk4.ima
   size: 1474560
   date: '2008-09-12T07:49:40'
   crc: '0xbd798f22'
-- name: disk5.img
+- name: disk5.ima
   size: 1474560
   date: '2008-09-12T07:51:50'
   crc: '0x3fb8ef2a'

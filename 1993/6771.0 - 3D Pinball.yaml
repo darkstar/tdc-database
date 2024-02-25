@@ -1,0 +1,93 @@
+filename: 3D Pinball (1993)(Villa Crespo Software, Inc.) [Simulation, Action][!].zip
+tdc_id: '6771.0'
+parent_id: '6771.2'
+title:
+  box: 3D Pinball
+publisher: Villa Crespo Software, Inc.
+year: '1993'
+genre:
+- Simulation
+- Action
+language: English
+date:
+  added: '2019-03-01T18:40:46'
+  last_modified: '2024-02-22T10:12:52'
+type: zip
+tags:
+- KnownGood
+media: 720K
+commands:
+  play: CBS12.BAT
+references:
+  mobygames: https://www.mobygames.com/game/59508/3d-pinball/
+  dosid: DOS00286
+  exodos: 3D Pinball (1992).zip
+files:
+- name: 3DPINBAL.L
+  size: 48703
+  date: '1993-05-15T07:11:00'
+  crc: '0xd139d4a8'
+- name: CBS12.BAT
+  size: 128
+  date: '1993-05-15T07:11:00'
+  crc: '0xb6da42e3'
+- name: CBS2.EXE
+  size: 5092
+  date: '1993-05-15T07:11:00'
+  crc: '0x876428dc'
+- name: DISKVOL.DAT
+  size: 20
+  date: '1993-05-15T07:11:00'
+  crc: '0x621777a6'
+- name: HIGH.PI1
+  size: 32066
+  date: '1993-05-15T07:11:00'
+  crc: '0x4dab09ca'
+- name: LOADER.EXE
+  size: 2661
+  date: '1993-05-15T07:11:00'
+  crc: '0xed86a39c'
+- name: PLANEGA.PI1
+  size: 32034
+  date: '1993-05-15T07:11:00'
+  crc: '0x0b4de8d9'
+- name: SCR1.PI1
+  size: 32034
+  date: '1993-05-15T07:11:00'
+  crc: '0xd76bb6f1'
+- name: SCR2.PI1
+  size: 32034
+  date: '1993-05-15T07:11:00'
+  crc: '0x7cb06849'
+- name: SCR3.PI1
+  size: 32034
+  date: '1993-05-15T07:11:00'
+  crc: '0xe2df025c'
+- name: SCR4.PI1
+  size: 32034
+  date: '1993-05-15T07:11:00'
+  crc: '0xe060eb46'
+- name: SCR5.PI1
+  size: 32034
+  date: '1993-05-15T07:11:00'
+  crc: '0x32396825'
+- name: SCR6.PI1
+  size: 32034
+  date: '1993-05-15T07:11:00'
+  crc: '0xde59df2d'
+- name: SLOWLOAD.EXE
+  size: 1152
+  date: '1993-05-15T07:11:00'
+  crc: '0x4615a5c7'
+- name: TITLESC.PI1
+  size: 32034
+  date: '1993-05-15T07:11:00'
+  crc: '0x53fed33d'
+- name: WINDOW.PI1
+  size: 32034
+  date: '1993-05-15T07:11:00'
+  crc: '0x30dba0f5'
+- name: WIZZIE.PI1
+  size: 32034
+  date: '1993-05-15T07:11:00'
+  crc: '0x04080a2b'

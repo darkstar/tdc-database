@@ -1,0 +1,25 @@
+filename: Microsoft Flight Simulator 3.0 (1988)(Microsoft Corporation) [IMA][360k].zip
+tdc_id: '14265.3'
+parent_id: '14265.2'
+title:
+  box: Microsoft Flight Simulator 3.0
+publisher: Microsoft Corporation
+year: '1988'
+genre: IMA
+language: English
+date:
+  added: '2024-02-21T18:43:52'
+  last_modified: '2024-02-21T18:43:52'
+type: IMA
+media: 360K
+references:
+  mobygames: https://www.mobygames.com/game/332/microsoft-flight-simulator-v30/
+files:
+- name: Program.ima
+  size: 368640
+  date: '2024-02-19T18:00:46'
+  crc: '0x3826c791'
+- name: Scenery.ima
+  size: 368640
+  date: '2024-02-19T18:00:58'
+  crc: '0xe19bb6dc'

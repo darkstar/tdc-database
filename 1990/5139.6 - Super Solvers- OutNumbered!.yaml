@@ -1,0 +1,162 @@
+filename: Super Solvers- OutNumbered! v1.02 (Installer) (1990)(The Learning Company) [Educational, Adventure].zip
+tdc_id: '5139.6'
+parent_id: '5139.5'
+title:
+  box: 'Super Solvers: OutNumbered!'
+  qualifier: Installer
+publisher: The Learning Company
+year: '1990'
+genre:
+- Educational
+- Adventure
+language: English
+date:
+  added: '2024-02-21T16:33:56'
+  last_modified: '2024-02-22T07:33:24'
+version: '1.02'
+type: zip
+media: 360K
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/17693/super-solvers-outnumbered/
+files:
+- name: DESKTOPD.CFG
+  size: 55
+  date: '1990-01-19T10:08:16'
+  crc: '0x6ce77fa6'
+- name: INSTALL.COM
+  size: 100
+  date: '1989-12-27T12:04:18'
+  crc: '0xcf0d4e16'
+- name: INSTALL.DAT
+  size: 1111
+  date: '1989-12-27T11:24:26'
+  crc: '0xdbd7e86d'
+- name: INSTALL.EXE
+  size: 20713
+  date: '1990-03-12T17:50:46'
+  crc: '0xfd6ae497'
+- name: INSTALL.PDM
+  size: 517
+  date: '1990-03-19T10:23:28'
+  crc: '0x57c60474'
+- name: SSO.BAT
+  size: 257
+  date: '1989-12-15T16:02:20'
+  crc: '0x6a61d46e'
+- name: SSO.COM
+  size: 105
+  date: '1989-12-20T12:21:12'
+  crc: '0x4ec98c31'
+- name: SSOC.BAT
+  size: 6
+  date: '1990-02-13T08:57:04'
+  crc: '0x2d9f8f6b'
+- name: SSOC_2.BAT
+  size: 47
+  date: '1990-02-08T18:09:26'
+  crc: '0xd099639c'
+- name: SSOE.BAT
+  size: 6
+  date: '1990-02-13T08:56:54'
+  crc: '0xc4fc2a5e'
+- name: SSOE_2.BAT
+  size: 47
+  date: '1990-02-08T18:09:26'
+  crc: '0xd099639c'
+- name: SSOH.BAT
+  size: 6
+  date: '1989-12-07T11:12:00'
+  crc: '0xba4d56e3'
+- name: SSOH_2.BAT
+  size: 47
+  date: '1990-02-08T18:09:26'
+  crc: '0xd099639c'
+- name: SSOINST.EXE
+  size: 4616
+  date: '1989-12-07T12:37:58'
+  crc: '0x87182375'
+- name: SSO_2.BAT
+  size: 47
+  date: '1990-02-08T18:09:26'
+  crc: '0xd099639c'
+- name: TLCINFO.DAT
+  size: 233
+  date: '1989-12-27T11:24:26'
+  crc: '0xc913df01'
+- name: TLCINFO2.DAT
+  size: 233
+  date: '1989-12-27T11:24:26'
+  crc: '0x7e044471'
+- name: TLC\
+  size: 0
+  date: '1990-08-22T07:32:18'
+- name: TLC\SSO\
+  size: 0
+  date: '1990-08-22T07:32:28'
+- name: TLC\SSO\CLOSE1.GRA
+  size: 29848
+  date: '1990-08-22T08:04:06'
+  crc: '0x4e90db50'
+- name: TLC\SSO\CLOSE2.GRA
+  size: 6634
+  date: '1990-08-22T08:04:06'
+  crc: '0xfd63753e'
+- name: TLC\SSO\DMOCKET.GRA
+  size: 51121
+  date: '1990-08-22T08:04:06'
+  crc: '0xc776fb6f'
+- name: TLC\SSO\DRILL.GRA
+  size: 15099
+  date: '1990-08-22T08:04:06'
+  crc: '0xfb8db2e0'
+- name: TLC\SSO\FASTLOAD.GRA
+  size: 143368
+  date: '1990-08-22T08:03:56'
+  crc: '0xf859a37c'
+- name: TLC\SSO\HELP.DAT
+  size: 10951
+  date: '1990-08-22T08:04:06'
+  crc: '0xecc78247'
+- name: TLC\SSO\HISCORE.DAT
+  size: 150
+  date: '1980-01-01T00:20:00'
+  crc: '0x7b6549fc'
+- name: TLC\SSO\MOCKET.DAT
+  size: 36140
+  date: '1990-08-22T08:03:56'
+  crc: '0x1b901df3'
+- name: TLC\SSO\OPENING.GRA
+  size: 36207
+  date: '1990-08-22T08:03:56'
+  crc: '0x1154794d'
+- name: TLC\SSO\ROOMS.GRA
+  size: 12880
+  date: '1990-08-22T08:04:06'
+  crc: '0x15122187'
+- name: TLC\SSO\SSO.CGA
+  size: 4876
+  date: '1990-08-22T08:03:56'
+  crc: '0x24da152d'
+- name: TLC\SSO\SSO.EXE
+  size: 107277
+  date: '1990-08-22T08:03:56'
+  crc: '0x69d34425'
+- name: TLC\SSO\SSO.TGA
+  size: 3910
+  date: '1990-08-22T08:03:56'
+  crc: '0x95de63db'
+- name: TLC\SSO\TEMPLATE.GRA
+  size: 109433
+  date: '1990-08-22T08:04:06'
+  crc: '0xb84ea9cd'
+- name: TLC\SSO\TROPHY.GRA
+  size: 8211
+  date: '1990-08-22T08:04:06'
+  crc: '0x60618d8d'
+- name: TLC\SSO\USERS.DAT
+  size: 1450
+  date: '1980-01-01T00:19:58'
+  crc: '0x50904d6d'

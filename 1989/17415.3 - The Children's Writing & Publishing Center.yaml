@@ -1,0 +1,70 @@
+filename: Children's Writing & Publishing Center, The v1.1 (1989)(The Learning Company) [Educational].zip
+tdc_id: '17415.3'
+parent_id: '17415.2'
+title:
+  box: The Children's Writing & Publishing Center
+publisher: The Learning Company
+year: '1989'
+genre: Educational
+language: English
+date:
+  added: '2024-02-22T09:21:02'
+  last_modified: '2024-02-22T09:21:02'
+version: '1.1'
+type: zip
+media: 360K
+commands:
+  play: CPC.EXE
+files:
+- name: CPC.CFG
+  size: 562
+  date: '1989-05-26T16:15:10'
+  crc: '0x91341a55'
+- name: CPC.EXE
+  size: 186304
+  date: '1989-05-26T16:15:10'
+  crc: '0x6fc788b6'
+- name: CPCFONTS.DAT
+  size: 26337
+  date: '1989-05-26T16:15:10'
+  crc: '0xc20425e5'
+- name: CPCHELP.DAT
+  size: 8157
+  date: '1989-05-26T16:15:10'
+  crc: '0xf54357a5'
+- name: CPCPIC1.DAT
+  size: 238536
+  date: '1989-05-26T16:15:10'
+  crc: '0x5bd84b8b'
+- name: CPCPIC1.NAM
+  size: 4690
+  date: '1989-05-26T16:15:10'
+  crc: '0xd2c75551'
+- name: MENU.PCK
+  size: 1502
+  date: '1989-05-26T16:15:10'
+  crc: '0xaa998922'
+- name: MENUBAR.PCK
+  size: 1269
+  date: '1989-05-26T16:15:10'
+  crc: '0x184baa84'
+- name: PRINTERS.DAT
+  size: 8032
+  date: '1989-05-26T16:15:10'
+  crc: '0xa5d174e7'
+- name: SAMPLE.CPC
+  size: 3248
+  date: '1989-05-26T16:15:10'
+  crc: '0xc0a88a48'
+- name: TITLE1.PCK
+  size: 5084
+  date: '1989-05-26T16:15:10'
+  crc: '0xe614f6a2'
+- name: TITLE2.PCK
+  size: 4178
+  date: '1989-05-26T16:15:10'
+  crc: '0x8fba7c53'
+- name: WORLD.CPC
+  size: 11052
+  date: '1989-05-26T16:15:10'
+  crc: '0x2d563a1f'

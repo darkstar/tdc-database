@@ -1,5 +1,6 @@
-filename: Fun School 2 - For the Under-6s (1989)(Database Educational Software) [Educational].zip
+filename: Fun School 2 - For the Under-6s (1989)(Database Educational Software) [Educational][!].zip
 tdc_id: '13853.0'
+parent_id: '13853.2'
 title:
   box: Fun School 2 - For the Under-6s
 publisher: Database Educational Software
@@ -8,67 +9,73 @@ genre: Educational
 language: English
 date:
   added: '2019-05-21T11:28:14'
-  last_modified: '2019-05-21T11:28:14'
+  last_modified: '2024-02-16T09:48:11'
 type: zip
+tags:
+- KnownGood
+media: 360K
+commands:
+  play: FUN.EXE
 references:
+  mobygames: https://www.mobygames.com/game/65600/fun-school-2-for-the-under-6s/
   dosid: DOS15108
   exodos: Fun School 2 - For the Under-6s (1989).zip
 files:
 - name: BALLOON.EXE
   size: 70108
-  date: '1980-03-23T14:18:28'
+  date: '1980-03-23T15:18:28'
   crc: '0x89d0bbaa'
 - name: BEARDAT.DAT
   size: 4701
-  date: '1980-03-19T19:57:20'
+  date: '1980-03-19T20:57:20'
   crc: '0x8020ccce'
 - name: BIGBDAT.DAT
   size: 2777
-  date: '1980-03-19T20:09:28'
+  date: '1980-03-19T21:09:28'
   crc: '0xd7f4b269'
 - name: BMSKDAT.DAT
   size: 4743
-  date: '1980-03-20T18:46:48'
+  date: '1980-03-20T19:46:48'
   crc: '0xc12039ff'
 - name: COLTRNY.TBC
   size: 37847
-  date: '1980-03-23T14:44:04'
+  date: '1980-03-23T15:44:04'
   crc: '0x6f3eff11'
 - name: COUNT6.TBC
   size: 12462
-  date: '1980-03-23T14:56:34'
+  date: '1980-03-23T15:56:34'
   crc: '0xb69035e8'
 - name: CSRDAT.DAT
   size: 1082
-  date: '1980-03-20T18:47:16'
+  date: '1980-03-20T19:47:16'
   crc: '0x6c86ea3e'
 - name: CSRMASK.DAT
   size: 1036
-  date: '1980-03-20T18:47:16'
+  date: '1980-03-20T19:47:16'
   crc: '0x4a957fea'
 - name: CUP.DAT
   size: 258
-  date: '1980-03-23T11:07:00'
+  date: '1980-03-23T12:07:00'
   crc: '0xf0ac7b54'
 - name: FUN.EXE
   size: 70239
-  date: '1989-12-15T18:20:02'
+  date: '1989-12-15T19:20:02'
   crc: '0x4b2ee568'
 - name: FUN.TBC
   size: 11391
-  date: '1989-12-15T18:14:58'
+  date: '1989-12-15T19:14:58'
   crc: '0xdb24123d'
 - name: MANDAT.DAT
   size: 110
-  date: '1980-03-04T16:36:52'
+  date: '1980-03-04T17:36:52'
   crc: '0xf2781089'
 - name: MANMASK.DAT
   size: 105
-  date: '1980-03-04T17:18:54'
+  date: '1980-03-04T18:18:54'
   crc: '0x0c329cc3'
 - name: MAZEDAT.DAT
   size: 9840
-  date: '1980-03-22T18:51:58'
+  date: '1980-03-22T19:51:58'
   crc: '0xdf63e341'
 - name: MENU.TBC
   size: 11668
@@ -76,53 +83,53 @@ files:
   crc: '0xab6e63b7'
 - name: MOLEDAT.DAT
   size: 3262
-  date: '1980-03-19T19:30:42'
+  date: '1980-03-19T20:30:42'
   crc: '0x0faa1db5'
 - name: MOLHIL2.TBC
   size: 13441
-  date: '1980-03-23T15:00:38'
+  date: '1980-03-23T16:00:38'
   crc: '0x35587937'
 - name: NECK.DAT
   size: 178
-  date: '1980-03-13T20:33:18'
+  date: '1980-03-13T21:33:18'
   crc: '0xb4614124'
 - name: PICK2.TBC
   size: 16790
-  date: '1980-03-23T15:09:06'
+  date: '1980-03-23T16:09:06'
   crc: '0x17853cee'
 - name: PICNIC5.TBC
   size: 15880
-  date: '1980-03-23T15:13:18'
+  date: '1980-03-23T16:13:18'
   crc: '0x3e0a8fc2'
 - name: REFLECT.DAT
   size: 345
-  date: '1980-03-13T20:52:16'
+  date: '1980-03-13T21:52:16'
   crc: '0x025d3083'
 - name: SHAPES2.TBC
   size: 10856
-  date: '1980-03-23T15:17:34'
+  date: '1980-03-23T16:17:34'
   crc: '0x5bb5b4ad'
 - name: SPELL4.TBC
   size: 19046
-  date: '1980-03-23T15:22:52'
+  date: '1980-03-23T16:22:52'
   crc: '0x1e03e30b'
 - name: TEAPOT.DAT
   size: 509
-  date: '1980-03-23T11:19:18'
+  date: '1980-03-23T12:19:18'
   crc: '0x65076800'
 - name: TIMING.DAT
   size: 6
-  date: '1989-12-17T13:37:46'
+  date: '1989-12-17T14:37:46'
   crc: '0xb7321cb1'
 - name: TRANDAT.DAT
   size: 790
-  date: '1980-03-03T08:13:10'
+  date: '1980-03-03T09:13:10'
   crc: '0xd9f250a4'
 - name: TREEDAT.DAT
   size: 344
-  date: '1980-02-02T10:33:30'
+  date: '1980-02-02T11:33:30'
   crc: '0x6dbf7b22'
 - name: TYPERUN.TBC
   size: 8274
-  date: '1980-03-23T16:16:50'
+  date: '1980-03-23T17:16:50'
   crc: '0xd76cadd3'

@@ -1,0 +1,84 @@
+filename: Links- Championship Course - Banff Springs v1.21 (Installer) (1994)(Access Software, Inc.) [Sports, Addon][!].zip
+tdc_id: '11866.4'
+parent_id: '11866.3'
+title:
+  box: 'Links: Championship Course - Banff Springs'
+  qualifier: Installer
+publisher: Access Software, Inc.
+year: '1994'
+genre:
+- Sports
+- Addon
+language: English
+date:
+  added: '2024-02-21T09:43:52'
+  last_modified: '2024-02-21T09:43:52'
+version: '1.21'
+type: zip
+tags:
+- KnownGood
+media:
+- 720K
+- 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/4173/links-championship-course-banff-springs/
+files:
+- name: BANFF.SPL
+  size: 139933
+  date: '1993-03-15T13:44:58'
+  crc: '0x448ba96a'
+- name: BANFF1.REC
+  size: 3025
+  date: '1993-03-16T21:49:50'
+  crc: '0xeb18a814'
+- name: BANFF2.REC
+  size: 3117
+  date: '1993-03-17T02:58:36'
+  crc: '0xb75c7ec7'
+- name: BANFF3.REC
+  size: 3177
+  date: '1993-03-17T02:58:38'
+  crc: '0x5bcb6478'
+- name: BANFF4.REC
+  size: 2703
+  date: '1993-03-17T02:58:36'
+  crc: '0x68d6838c'
+- name: BANFF_SP.1
+  size: 496400
+  date: '1993-03-17T12:40:30'
+  crc: '0x59e1fe5f'
+- name: BANFF_SP.2
+  size: 1436691
+  date: '1993-03-17T12:40:40'
+  crc: '0xfb18cad4'
+- name: BANFF_SP.3
+  size: 500525
+  date: '1993-03-17T12:40:42'
+  crc: '0xa7f075b0'
+- name: CONVERT.LZ
+  size: 94685
+  date: '1993-03-16T13:29:32'
+  crc: '0x9beb11f4'
+- name: COURSE.INI
+  size: 2823
+  date: '1994-01-27T15:10:24'
+  crc: '0x3e5a4363'
+- name: GOLF.EXE
+  size: 61510
+  date: '1992-11-16T15:25:22'
+  crc: '0x3a3cb49c'
+- name: INSTALL.EXE
+  size: 104050
+  date: '1993-08-31T15:54:16'
+  crc: '0x78332152'
+- name: LIE.LZ
+  size: 21861
+  date: '1992-11-04T13:45:54'
+  crc: '0x6ab8740b'
+- name: LINKS386.EXE
+  size: 444890
+  date: '1994-01-20T09:50:34'
+  crc: '0x66776560'

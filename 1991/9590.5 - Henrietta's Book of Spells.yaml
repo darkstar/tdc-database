@@ -1,0 +1,124 @@
+filename: Henrietta's Book of Spells v1.0 (demo) (1991)(Lander Software, Scetlander Ltd.) [Educational][!].zip
+tdc_id: '9590.5'
+parent_id: '9590.4'
+title:
+  box: Henrietta's Book of Spells
+  qualifier: demo
+publisher: Lander Software, Scetlander Ltd.
+year: '1991'
+genre: Educational
+language: English
+date:
+  added: '2024-02-18T08:03:20'
+  last_modified: '2024-02-21T05:45:49'
+version: '1.0'
+type: zip
+tags:
+- KnownGood
+media: 360K
+demo: true
+commands:
+  play: SPELL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/82376/henriettas-book-of-spells/
+files:
+- name: CASTLEP.PIC
+  size: 15846
+  date: '1990-05-04T06:08:58'
+  crc: '0x9b047e2b'
+- name: DANCEHS.TPM
+  size: 480
+  date: '1990-08-06T01:12:28'
+  crc: '0x6987ce8e'
+- name: DANCESPA.TPM
+  size: 480
+  date: '1990-08-07T02:19:40'
+  crc: '0x989e64dd'
+- name: DANCEW.TPM
+  size: 480
+  date: '1990-08-07T02:09:46'
+  crc: '0x942f7646'
+- name: DEFS.DAT
+  size: 32
+  date: '1990-08-28T13:15:24'
+  crc: '0xb2c8d42e'
+- name: FROGBIT.PIC
+  size: 90
+  date: '1990-08-08T02:26:40'
+  crc: '0x0f87ef67'
+- name: FROGP.PIC
+  size: 2050
+  date: '1990-06-11T01:59:06'
+  crc: '0xd2750328'
+- name: GUIDE.TXT
+  size: 15248
+  date: '1990-10-15T12:06:52'
+  crc: '0xa33c35bc'
+- name: HENRYP.PIC
+  size: 3422
+  date: '1990-06-11T02:00:18'
+  crc: '0x485d651a'
+- name: INTROSP.TPM
+  size: 480
+  date: '1990-08-07T17:03:28'
+  crc: '0x55190fb0'
+- name: LOADSP.PIC
+  size: 16006
+  date: '1990-08-01T16:34:20'
+  crc: '0x997e4600'
+- name: MAXWORDS.DAT
+  size: 25000
+  date: '1990-10-09T14:57:32'
+  crc: '0x99ab82d7'
+- name: MINWORDS.DAT
+  size: 3000
+  date: '1990-08-29T12:42:22'
+  crc: '0xa28ab45c'
+- name: MORGHEAD.PIC
+  size: 1306
+  date: '1990-10-11T03:14:48'
+  crc: '0xbeafda15'
+- name: PARHEAD.PIC
+  size: 2450
+  date: '1990-10-16T00:04:38'
+  crc: '0xd33e5707'
+- name: README.EXE
+  size: 7040
+  date: '1990-09-14T12:25:52'
+  crc: '0x073a5d5b'
+- name: README.TXT
+  size: 320
+  date: '1990-10-09T16:44:02'
+  crc: '0x82c2b719'
+- name: RESULTS.DAT
+  size: 27670
+  date: '1990-10-16T15:39:14'
+  crc: '0xe7538551'
+- name: SCORES.DAT
+  size: 600
+  date: '1990-11-11T17:52:56'
+  crc: '0xd4a57d21'
+- name: SPELL.EXE
+  size: 202352
+  date: '1990-10-29T11:26:32'
+  crc: '0x794b4ccf'
+- name: SPELLS.BAT
+  size: 63
+  date: '1990-06-27T12:24:12'
+  crc: '0x47c93269'
+- name: SPELLS.PIC
+  size: 3168
+  date: '1990-06-19T11:31:52'
+  crc: '0xe68e6b69'
+- name: TEXT.PIC
+  size: 1194
+  date: '1990-07-20T15:16:18'
+  crc: '0x283939e8'
+- name: TEXT1.PIC
+  size: 728
+  date: '1990-06-08T12:44:18'
+  crc: '0x0f678444'
+- name: WITCHPAS.PIC
+  size: 4732
+  date: '1990-08-01T01:46:38'
+  crc: '0x3a17f39b'

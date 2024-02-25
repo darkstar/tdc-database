@@ -1,0 +1,36 @@
+filename: Hooray for Henrietta v2.0 (demo) (Installer) (1992)(Lander Software, Scetlander Ltd.) [Educational][!].zip
+tdc_id: '1978.6'
+parent_id: '1978.5'
+title:
+  box: Hooray for Henrietta
+  qualifier: Installer
+publisher: Lander Software, Scetlander Ltd.
+year: '1992'
+genre: Educational
+language: English
+date:
+  added: '2024-02-20T08:46:55'
+  last_modified: '2024-02-20T08:46:55'
+version: 2.0 (demo)
+type: zip
+tags:
+- KnownGood
+media: 720K
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/118883/hooray-for-henrietta/
+files:
+- name: HHDEMO.EXE
+  size: 428480
+  date: '1992-08-17T16:36:14'
+  crc: '0xb5130469'
+- name: ID1
+  size: 856
+  date: '1992-08-17T15:52:22'
+  crc: '0xd8d1fa7c'
+- name: INSTALL.EXE
+  size: 15969
+  date: '1992-08-10T16:28:28'
+  crc: '0x2d163d5e'

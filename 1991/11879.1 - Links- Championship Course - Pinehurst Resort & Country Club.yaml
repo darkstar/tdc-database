@@ -1,7 +1,8 @@
-filename: Links- Championship Course - Pinehurst Resort & Country Club (Installer) [a1] (1991)(Access Software, Inc.) [Simulation, Sports, Addon].zip
+filename: Links- Championship Course - Pinehurst Resort & Country Club v1.52 (Installer) (1991)(Access Software, Inc.) [Simulation, Sports, Addon].zip
 tdc_id: '11879.1'
 title:
   box: 'Links: Championship Course - Pinehurst Resort & Country Club'
+  qualifier: Installer
 publisher: Access Software, Inc.
 year: '1991'
 genre:
@@ -11,11 +12,12 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:36:38'
-  last_modified: '2019-03-01T18:36:38'
+  last_modified: '2024-02-21T16:16:58'
+version: '1.52'
 type: zip
-tags:
-- Alternate: 1
 installer: true
+references:
+  mobygames: https://www.mobygames.com/game/2225/links-championship-course-pinehurst-resort-country-club/
 files:
 - name: GETA.BAT
   size: 557

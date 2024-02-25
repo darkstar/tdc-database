@@ -1,18 +1,21 @@
-filename: Hooray for Henrietta v2.0 (1992)(Lander Software) [Educational].zip
+filename: Hooray for Henrietta v2.0 (1992)(Lander Software, Scetlander Ltd.) [Educational].zip
 tdc_id: '5556.0'
 parent_id: '5556.1'
 title:
   box: Hooray for Henrietta
-publisher: Lander Software
+publisher: Lander Software, Scetlander Ltd.
 year: '1992'
 genre: Educational
 language: English
 date:
   added: '2019-03-01T18:45:58'
-  last_modified: '2019-03-01T18:45:58'
+  last_modified: '2024-02-21T05:53:32'
 version: '2.0'
 type: zip
+commands:
+  play: HH.BAT
 references:
+  mobygames: https://www.mobygames.com/game/118883/hooray-for-henrietta/
   dosid: DOS15440
   exodos: Hooray for Henrietta (1990).zip
 files:

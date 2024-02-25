@@ -1,21 +1,188 @@
-filename: Zork III- The Dungeon Master r16 (1983)(Infocom, Inc.) [TD0][160k][cp].zip
+filename: Zork III- The Dungeon Master r16 (booter) (1983)(Infocom, Inc.) [kfx][160k][cp][!].zip
 tdc_id: '15701.5'
 title:
   box: 'Zork III: The Dungeon Master'
+  qualifier: booter
 publisher: Infocom, Inc.
 year: '1983'
-genre: TD0
+genre: kfx
 language: English
 date:
   added: '2023-02-18T16:34:19'
-  last_modified: '2023-02-18T16:34:19'
+  last_modified: '2024-02-21T07:53:25'
 release: '16'
-type: TD0
+type: kfx
+tags:
+- KnownGood
 media: 360K
 references:
-  mobygames: https://www.mobygames.com/game/pc-booter/zork-iii-the-dungeon-master
+  mobygames: https://www.mobygames.com/game/53/zork-iii-the-dungeon-master/
 files:
-- name: ZORK3R16.TD0
-  size: 90979
-  date: '2013-06-22T14:50:58'
-  crc: '0x2429b0eb'
+- name: track00.0.raw
+  size: 215338
+  date: '2024-02-10T03:41:50'
+  crc: '0x738d6d98'
+- name: track01.0.raw
+  size: 220309
+  date: '2024-02-10T03:41:50'
+  crc: '0x5614fdb5'
+- name: track02.0.raw
+  size: 238385
+  date: '2024-02-10T03:41:52'
+  crc: '0x46feafca'
+- name: track03.0.raw
+  size: 258750
+  date: '2024-02-10T03:41:54'
+  crc: '0x5fcc8c6b'
+- name: track04.0.raw
+  size: 221062
+  date: '2024-02-10T03:41:56'
+  crc: '0x25779528'
+- name: track05.0.raw
+  size: 226818
+  date: '2024-02-10T03:41:56'
+  crc: '0xbc90fb4c'
+- name: track06.0.raw
+  size: 235819
+  date: '2024-02-10T03:41:58'
+  crc: '0xc354904e'
+- name: track07.0.raw
+  size: 225324
+  date: '2024-02-10T03:42:00'
+  crc: '0x19133a47'
+- name: track08.0.raw
+  size: 264242
+  date: '2024-02-10T03:42:00'
+  crc: '0xc9781dbb'
+- name: track09.0.raw
+  size: 239748
+  date: '2024-02-10T03:42:02'
+  crc: '0x3ec376ca'
+- name: track10.0.raw
+  size: 227528
+  date: '2024-02-10T03:42:04'
+  crc: '0x32a520ee'
+- name: track11.0.raw
+  size: 235208
+  date: '2024-02-10T03:42:04'
+  crc: '0x8b7eab78'
+- name: track12.0.raw
+  size: 228287
+  date: '2024-02-10T03:42:06'
+  crc: '0xf5758b40'
+- name: track13.0.raw
+  size: 224070
+  date: '2024-02-10T03:42:08'
+  crc: '0x03d85483'
+- name: track14.0.raw
+  size: 229541
+  date: '2024-02-10T03:42:10'
+  crc: '0x62fe378a'
+- name: track15.0.raw
+  size: 226023
+  date: '2024-02-10T03:42:10'
+  crc: '0x3b7e1b68'
+- name: track16.0.raw
+  size: 224054
+  date: '2024-02-10T03:42:12'
+  crc: '0xce38e244'
+- name: track17.0.raw
+  size: 223529
+  date: '2024-02-10T03:42:14'
+  crc: '0xa3330d96'
+- name: track18.0.raw
+  size: 223412
+  date: '2024-02-10T03:42:14'
+  crc: '0xe664d057'
+- name: track19.0.raw
+  size: 227765
+  date: '2024-02-10T03:42:16'
+  crc: '0x48ca5943'
+- name: track20.0.raw
+  size: 228723
+  date: '2024-02-10T03:42:18'
+  crc: '0x62cf2b8b'
+- name: track21.0.raw
+  size: 227966
+  date: '2024-02-10T03:42:18'
+  crc: '0x8e2e3ec4'
+- name: track22.0.raw
+  size: 227125
+  date: '2024-02-10T03:42:20'
+  crc: '0x537b9409'
+- name: track23.0.raw
+  size: 221707
+  date: '2024-02-10T03:42:22'
+  crc: '0x0e0bfbba'
+- name: track24.0.raw
+  size: 226338
+  date: '2024-02-10T03:42:22'
+  crc: '0xfda4ee27'
+- name: track25.0.raw
+  size: 226240
+  date: '2024-02-10T03:42:24'
+  crc: '0xd8f43e88'
+- name: track26.0.raw
+  size: 221335
+  date: '2024-02-10T03:42:26'
+  crc: '0x8e680998'
+- name: track27.0.raw
+  size: 224396
+  date: '2024-02-10T03:42:28'
+  crc: '0x97546a4b'
+- name: track28.0.raw
+  size: 224673
+  date: '2024-02-10T03:42:28'
+  crc: '0x6c5b3652'
+- name: track29.0.raw
+  size: 224391
+  date: '2024-02-10T03:42:30'
+  crc: '0x5f77d509'
+- name: track30.0.raw
+  size: 224541
+  date: '2024-02-10T03:42:32'
+  crc: '0x97f9f748'
+- name: track31.0.raw
+  size: 224695
+  date: '2024-02-10T03:42:32'
+  crc: '0x473e836c'
+- name: track32.0.raw
+  size: 224412
+  date: '2024-02-10T03:42:34'
+  crc: '0xdd1a6a73'
+- name: track33.0.raw
+  size: 221097
+  date: '2024-02-10T03:42:36'
+  crc: '0xa9eb7210'
+- name: track34.0.raw
+  size: 224503
+  date: '2024-02-10T03:42:36'
+  crc: '0x00dd5e12'
+- name: track35.0.raw
+  size: 220758
+  date: '2024-02-10T03:42:38'
+  crc: '0xbf2d9d95'
+- name: track36.0.raw
+  size: 224722
+  date: '2024-02-10T03:42:40'
+  crc: '0xf7e84b82'
+- name: track37.0.raw
+  size: 224620
+  date: '2024-02-10T03:42:42'
+  crc: '0x84ab231c'
+- name: track38.0.raw
+  size: 224485
+  date: '2024-02-10T03:42:42'
+  crc: '0x38e9155b'
+- name: track39.0.raw
+  size: 224490
+  date: '2024-02-10T03:42:44'
+  crc: '0x75be42b9'
+- name: track40.0.raw
+  size: 199241
+  date: '2024-02-10T03:42:46'
+  crc: '0x7395cf96'
+- name: track41.0.raw
+  size: 199633
+  date: '2024-02-10T03:42:46'
+  crc: '0xf2b4fec9'
