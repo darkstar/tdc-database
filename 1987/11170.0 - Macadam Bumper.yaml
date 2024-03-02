@@ -1,4 +1,4 @@
-filename: Macadam Bumper (En)(Fr)(De) (1987)(ERE Informatique) [Simulation].zip
+filename: Macadam Bumper (En)(Fr)(De) [f1] (1987)(ERE Informatique) [Simulation].zip
 tdc_id: '11170.0'
 title:
   box: Macadam Bumper
@@ -11,9 +11,14 @@ language:
 - German
 date:
   added: '2019-03-01T18:25:26'
-  last_modified: '2019-03-01T18:25:26'
+  last_modified: '2024-03-01T18:05:29'
 type: zip
+tags:
+- Fixed: 1
+commands:
+  play: MACADAM.EXE
 references:
+  mobygames: https://www.mobygames.com/game/6447/macadam-bumper/
   dosid: DOS03277
   exodos: Macadam Bumper (1987).zip
 files:
@@ -44,12 +49,24 @@ files:
 - name: MC1.EXE
   size: 40518
   date: '1987-06-03T03:56:46'
+  crc: '0x16a569e4'
+- name: MC1.EX_
+  size: 40518
+  date: '1987-06-03T03:56:46'
   crc: '0x4cfab704'
 - name: MC2.EXE
   size: 38315
   date: '1987-06-03T04:07:50'
+  crc: '0xb6038f99'
+- name: MC2.EX_
+  size: 38315
+  date: '1987-06-03T04:07:50'
   crc: '0xc7266063'
 - name: MC3.EXE
+  size: 38124
+  date: '1987-06-03T04:02:56'
+  crc: '0xf741ac3c'
+- name: MC3.EX_
   size: 38124
   date: '1987-06-03T04:02:56'
   crc: '0x7731787b'

@@ -1,17 +1,22 @@
-filename: Early Games for Young Children v4.0 (1984)(Counterpoint Software, Inc.) [Educational].zip
+filename: Early Games for Young Children v4.0 (1984)(Springboard Software, Inc.) [Educational].zip
 tdc_id: '1118.0'
+parent_id: '1118.1'
 title:
   box: Early Games for Young Children
-publisher: Counterpoint Software, Inc.
+publisher: Springboard Software, Inc.
 year: '1984'
 genre: Educational
 language: English
 date:
   added: '2019-03-01T18:24:04'
-  last_modified: '2019-03-01T18:24:04'
+  last_modified: '2024-02-25T11:23:13'
 version: '4.0'
 type: zip
+media: 360K
+commands:
+  play: AUTOEXEC.BAT
 references:
+  mobygames: https://www.mobygames.com/game/63081/early-games-for-young-children/
   dosid: DOS06533
   exodos: Early Games for Young Children (1984).zip
 files:
@@ -21,8 +26,12 @@ files:
   crc: '0x174c0cef'
 - name: BASICA.COM
   size: 59570
-  date: '1983-10-20T12:00:00'
+  date: '1980-01-01T00:00:00'
   crc: '0x92293842'
+- name: BASICA.CO_
+  size: 25984
+  date: '1983-10-20T12:00:00'
+  crc: '0x63206a10'
 - name: DIRGET.BSV
   size: 568
   date: '1984-08-09T21:46:52'
@@ -75,6 +84,10 @@ files:
   size: 2056
   date: '1984-02-14T15:05:36'
   crc: '0x022a5609'
+- name: SETUP.BAT
+  size: 71
+  date: '1980-01-01T00:05:56'
+  crc: '0x361084a2'
 - name: ZZZZZZZZ.CHK
   size: 2
   date: '1980-01-01T00:08:00'

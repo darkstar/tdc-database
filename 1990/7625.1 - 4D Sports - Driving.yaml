@@ -1,4 +1,4 @@
-filename: 4D Sports - Driving v1.1 (1990)(Mindscape International Ltd.) [Simulation, Racing - Driving].zip
+filename: 4D Sports - Driving v1.1 r901219 (1990)(Mindscape International Ltd.) [Simulation, Racing - Driving].zip
 tdc_id: '7625.1'
 parent_id: '7625.13'
 title:
@@ -11,9 +11,16 @@ genre:
 language: English
 date:
   added: '2022-06-14T12:51:24'
-  last_modified: '2022-06-14T12:51:24'
+  last_modified: '2024-03-01T12:32:47'
 version: '1.1'
+release: '901219'
 type: zip
+media: 360K
+commands:
+  play: STUNTS.COM
+  setup: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/329/stunts/
 files:
 - name: AD15.DRV
   size: 3285

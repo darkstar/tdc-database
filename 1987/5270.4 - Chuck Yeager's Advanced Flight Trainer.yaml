@@ -1,5 +1,6 @@
-filename: Chuck Yeager's Advanced Flight Trainer v1.2 (1987)(Electronic Arts, Inc.) [IMA][360k][!].zip
+filename: Chuck Yeager's Advanced Flight Trainer v1.2 r870810 (1987)(Electronic Arts, Inc.) [IMA][360k][!].zip
 tdc_id: '5270.4'
+parent_id: '5270.5'
 title:
   box: Chuck Yeager's Advanced Flight Trainer
 publisher: Electronic Arts, Inc.
@@ -8,12 +9,15 @@ genre: IMA
 language: English
 date:
   added: '2023-02-24T14:01:34'
-  last_modified: '2023-02-24T14:01:34'
+  last_modified: '2024-02-28T14:46:34'
 version: '1.2'
+release: '870810'
 type: IMA
 tags:
 - KnownGood
 media: 360K
+references:
+  mobygames: https://www.mobygames.com/game/4812/chuck-yeagers-advanced-flight-simulator/
 files:
 - name: cyaft.txt
   size: 265

@@ -1,0 +1,35 @@
+filename: Lode Runner v3.0 (1987)(Brøderbund Software, Inc.) [Action].zip
+tdc_id: '5203.12'
+parent_id: '5203.11'
+title:
+  box: Lode Runner
+publisher: Brøderbund Software, Inc.
+year: '1987'
+genre: Action
+language: English
+date:
+  added: '2024-02-07T15:43:24'
+  last_modified: '2024-02-24T09:16:14'
+version: '3.0'
+type: zip
+media: 360K
+commands:
+  play: LR.COM
+references:
+  mobygames: https://www.mobygames.com/game/243/lode-runner/
+files:
+- name: LODERUN.DAT
+  size: 81920
+  date: '1987-10-08T09:06:00'
+  crc: '0xf1c307fe'
+- name: LODERUN_3.0
+  size: 0
+  date: '1980-01-01T00:06:10'
+- name: LR.COM
+  size: 43082
+  date: '1987-10-08T09:06:12'
+  crc: '0x5697894c'
+- name: LR.CO_
+  size: 43068
+  date: '1987-10-08T09:06:12'
+  crc: '0x9c980be0'

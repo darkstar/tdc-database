@@ -1,5 +1,6 @@
-filename: 3-D Helicopter Simulator v1.10 [a2] (1987)(Sierra On-Line, Inc.) [Action, Simulation].zip
+filename: 3-D Helicopter Simulator v1.10 (1987)(Sierra On-Line, Inc.) [Action, Simulation][!].zip
 tdc_id: '6024.6'
+parent_id: '6024.12'
 title:
   box: 3-D Helicopter Simulator
 publisher: Sierra On-Line, Inc.
@@ -10,11 +11,16 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:25:06'
-  last_modified: '2019-03-01T18:25:06'
+  last_modified: '2024-02-26T06:54:13'
 version: '1.10'
 type: zip
 tags:
-- Alternate: 2
+- KnownGood
+media: 360K
+commands:
+  play: HELI.COM
+references:
+  mobygames: https://www.mobygames.com/game/5830/sierras-3-d-helicopter-simulator/
 files:
 - name: CPC.COM
   size: 8048

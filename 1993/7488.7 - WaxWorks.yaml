@@ -1,9 +1,10 @@
-filename: WaxWorks (Installer) (Es) (1993)(Accolade, Inc.) [Adventure, Role-Playing (RPG)].zip
+filename: WaxWorks (Installer) (Es) (1993)(Accolade, Inc., Erbe Software, S.A.) [Adventure, Role-Playing (RPG)].zip
 tdc_id: '7488.7'
 parent_id: '7488.10'
 title:
   box: WaxWorks
-publisher: Accolade, Inc.
+  qualifier: Installer
+publisher: Accolade, Inc., Erbe Software, S.A.
 year: '1993'
 genre:
 - Adventure
@@ -11,9 +12,14 @@ genre:
 language: Spanish
 date:
   added: '2022-01-09T11:18:10'
-  last_modified: '2022-01-09T11:18:10'
+  last_modified: '2024-02-27T13:31:39'
 type: zip
+media: 1.44M
 installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1269/waxworks/
 files:
 - name: INSTALL.EXE
   size: 17390

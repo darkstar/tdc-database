@@ -1,17 +1,23 @@
-filename: Arachnophobia [a2] (1991)(Walt Disney Computer Software, Inc.) [Action].zip
+filename: Arachnophobia (Installer) (1991)(Walt Disney Computer Software, Inc.) [Action].zip
 tdc_id: '8710.2'
+parent_id: '8710.4'
 title:
   box: Arachnophobia
+  qualifier: Installer
 publisher: Walt Disney Computer Software, Inc.
 year: '1991'
 genre: Action
 language: English
 date:
   added: '2019-03-01T18:34:52'
-  last_modified: '2019-03-01T18:34:52'
+  last_modified: '2024-02-29T08:22:32'
 type: zip
-tags:
-- Alternate: 2
+media: 360K
+installer: true
+commands:
+  play: SPIDER.EXE
+references:
+  mobygames: https://www.mobygames.com/game/6256/arachnophobia/
 files:
 - name: ALWAYS1.NNV
   size: 4080
@@ -294,9 +300,9 @@ files:
   date: '1991-03-01T19:24:00'
   crc: '0x5837f171'
 - name: INSTALL.BAT
-  size: 2212
-  date: '1991-03-07T09:52:32'
-  crc: '0x6c483ff4'
+  size: 2990
+  date: '1991-03-07T09:51:48'
+  crc: '0x2facbd23'
 - name: JUNGLE.NNV
   size: 42795
   date: '1991-03-01T19:24:00'
@@ -465,6 +471,10 @@ files:
   size: 108924
   date: '1991-03-01T19:24:00'
   crc: '0x6900d3eb'
+- name: SPIDER.EX_
+  size: 108924
+  date: '1991-03-01T19:24:00'
+  crc: '0xbb67c947'
 - name: SPIDERS.MAR
   size: 5001
   date: '1991-03-01T19:24:00'
@@ -513,6 +523,18 @@ files:
   size: 1142
   date: '1991-03-01T19:24:00'
   crc: '0xc98030da'
+- name: Spider 1
+  size: 0
+  date: '1991-02-27T15:06:28'
+- name: Spider 2
+  size: 0
+  date: '1991-02-28T09:58:32'
+- name: Spider 3
+  size: 0
+  date: '1991-02-28T09:58:58'
+- name: Spider 4
+  size: 0
+  date: '1991-02-28T09:59:26'
 - name: TEACHER.CEC
   size: 4726
   date: '1991-03-01T19:24:00'

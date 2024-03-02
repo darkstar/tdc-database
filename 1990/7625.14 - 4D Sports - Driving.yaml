@@ -1,4 +1,4 @@
-filename: 4D Sports - Driving v1.1 [a1] (1990)(Mindscape International Ltd.) [Simulation, Racing - Driving].zip
+filename: 4D Sports - Driving v1.1 r901213 (1990)(Mindscape International Ltd.) [Simulation, Racing - Driving].zip
 tdc_id: '7625.14'
 title:
   box: 4D Sports - Driving
@@ -10,12 +10,10 @@ genre:
 language: English
 date:
   added: '2023-10-28T15:20:23'
-  last_modified: '2023-10-28T15:20:23'
+  last_modified: '2024-03-01T12:27:37'
 version: '1.1'
+release: '901213'
 type: zip
-tags:
-- Alternate: 1
-media: 720K
 commands:
   play: STUNTS.COM
 references:
@@ -23,19 +21,19 @@ references:
 files:
 - name: AD15.DRV
   size: 3285
-  date: '1990-10-24T20:43:42'
+  date: '1990-10-24T19:43:42'
   crc: '0xb8430f65'
 - name: ADENG1.VCE
   size: 1152
-  date: '1990-10-04T21:08:36'
+  date: '1990-10-04T20:08:36'
   crc: '0x9fca56d1'
 - name: ADSKIDMS.VCE
   size: 3008
-  date: '1990-09-10T20:53:00'
+  date: '1990-09-10T19:53:00'
   crc: '0x1fa18e6b'
 - name: ALPINE.PVS
   size: 7423
-  date: '1990-11-16T23:41:42'
+  date: '1990-11-16T22:41:42'
   crc: '0x348da55c'
 - name: BERNIES.HIG
   size: 364
@@ -43,63 +41,63 @@ files:
   crc: '0x2fa522fd'
 - name: BERNIES.TRK
   size: 1802
-  date: '1990-12-07T20:25:02'
+  date: '1990-12-07T19:25:02'
   crc: '0x457e044f'
 - name: CARANSX.RES
   size: 932
-  date: '1990-12-13T22:32:38'
+  date: '1990-12-13T21:32:38'
   crc: '0x78612ee8'
 - name: CARAUDI.RES
   size: 962
-  date: '1990-12-13T22:32:40'
+  date: '1990-12-13T21:32:40'
   crc: '0x319bb5bf'
 - name: CARCOUN.RES
   size: 971
-  date: '1990-12-13T22:32:38'
+  date: '1990-12-13T21:32:38'
   crc: '0x8d3f554b'
 - name: CARFGTO.RES
   size: 942
-  date: '1990-12-13T22:32:38'
+  date: '1990-12-13T21:32:38'
   crc: '0xdf65f27e'
 - name: CARJAGU.RES
   size: 951
-  date: '1990-12-13T22:32:40'
+  date: '1990-12-13T21:32:40'
   crc: '0xa960207c'
 - name: CARLANC.RES
   size: 969
-  date: '1990-12-13T22:32:42'
+  date: '1990-12-13T21:32:42'
   crc: '0x977b63ef'
 - name: CARLM02.RES
   size: 954
-  date: '1990-12-13T22:32:42'
+  date: '1990-12-13T21:32:42'
   crc: '0x6ec5c3ca'
 - name: CARP962.RES
   size: 951
-  date: '1990-12-13T22:32:40'
+  date: '1990-12-13T21:32:40'
   crc: '0x1cef0e50'
 - name: CARPC04.RES
   size: 952
-  date: '1990-12-13T22:32:38'
+  date: '1990-12-13T21:32:38'
   crc: '0xb24e71aa'
 - name: CARPMIN.RES
   size: 957
-  date: '1990-12-13T22:32:40'
+  date: '1990-12-13T21:32:40'
   crc: '0x5c9bc12e'
 - name: CARVETT.RES
   size: 940
-  date: '1990-12-13T22:32:40'
+  date: '1990-12-13T21:32:40'
   crc: '0x0e431e4a'
 - name: CGA.COD
   size: 78885
-  date: '1990-12-13T22:43:54'
+  date: '1990-12-13T21:43:54'
   crc: '0x282aebfe'
 - name: CGA.DIF
   size: 16620
-  date: '1990-12-13T22:43:56'
+  date: '1990-12-13T21:43:56'
   crc: '0xe046b851'
 - name: CGA.HDR
   size: 30
-  date: '1990-12-13T22:43:56'
+  date: '1990-12-13T21:43:56'
   crc: '0xd318130d'
 - name: CHERRIS.HIG
   size: 364
@@ -107,27 +105,27 @@ files:
   crc: '0x2fa522fd'
 - name: CHERRIS.TRK
   size: 1802
-  date: '1990-12-07T20:25:08'
+  date: '1990-12-07T19:25:08'
   crc: '0x8d627992'
 - name: CITY.PVS
   size: 7044
-  date: '1990-11-16T23:41:56'
+  date: '1990-11-16T22:41:56'
   crc: '0xa02fac05'
 - name: COUNTRY.PVS
   size: 3323
-  date: '1990-11-16T23:42:10'
+  date: '1990-11-16T22:42:10'
   crc: '0x51b867a1'
 - name: CRED.RES
   size: 435
-  date: '1990-12-13T22:32:36'
+  date: '1990-12-13T21:32:36'
   crc: '0x44b3eb31'
 - name: DEFAULT.HIG
   size: 364
-  date: '1991-02-07T16:28:36'
-  crc: '0x2f51b46f'
+  date: '1990-12-07T09:24:56'
+  crc: '0x2fa522fd'
 - name: DEFAULT.RPL
   size: 4183
-  date: '1990-12-07T20:29:56'
+  date: '1990-12-07T19:29:56'
   crc: '0xc3a301a3'
 - name: DEFAULT.TRK
   size: 1802
@@ -135,47 +133,47 @@ files:
   crc: '0xd1570e1c'
 - name: DESERT.PVS
   size: 5561
-  date: '1990-11-16T23:41:10'
+  date: '1990-11-16T22:41:10'
   crc: '0xb949dea5'
 - name: EGA.CMN
   size: 101474
-  date: '1990-12-13T22:43:26'
+  date: '1990-12-13T21:43:26'
   crc: '0x0edcef3b'
 - name: EGA.COD
   size: 90580
-  date: '1990-12-13T22:43:40'
+  date: '1990-12-13T21:43:40'
   crc: '0xe2ae41ad'
 - name: EGA.HDR
   size: 30
-  date: '1990-12-13T22:43:42'
+  date: '1990-12-13T21:43:42'
   crc: '0xf4a25602'
 - name: FONTDEF.FNT
   size: 1837
-  date: '1990-10-01T05:41:46'
+  date: '1990-10-01T04:41:46'
   crc: '0x7f98e1c4'
 - name: FONTLED.FNT
   size: 670
-  date: '1990-09-14T19:44:02'
+  date: '1990-09-14T18:44:02'
   crc: '0x29a39302'
 - name: FONTN.FNT
   size: 1443
-  date: '1990-09-29T03:19:34'
+  date: '1990-09-29T02:19:34'
   crc: '0x0ebade27'
 - name: GAME.PRE
   size: 15433
-  date: '1990-12-13T22:45:10'
+  date: '1990-12-13T21:45:10'
   crc: '0xc71b4f7e'
 - name: GAME1.P3S
   size: 17556
-  date: '1990-11-16T23:38:02'
+  date: '1990-11-16T22:38:02'
   crc: '0x860e576e'
 - name: GAME2.P3S
   size: 21852
-  date: '1990-11-16T23:38:12'
+  date: '1990-11-16T22:38:12'
   crc: '0x9cbef68f'
 - name: GEENG.SFX
   size: 2074
-  date: '1990-10-02T23:52:38'
+  date: '1990-10-02T22:52:38'
   crc: '0x53db542b'
 - name: HELENS.HIG
   size: 364
@@ -183,175 +181,175 @@ files:
   crc: '0x2fa522fd'
 - name: HELENS.TRK
   size: 1802
-  date: '1990-12-07T20:25:16'
+  date: '1990-12-07T19:25:16'
   crc: '0x2a8e87cb'
 - name: JOES.HIG
   size: 364
-  date: '1991-01-17T13:53:08'
-  crc: '0x20df7c91'
+  date: '1990-12-07T09:25:24'
+  crc: '0x2fa522fd'
 - name: JOES.TRK
   size: 1802
-  date: '1990-12-07T20:25:24'
+  date: '1990-12-07T19:25:24'
   crc: '0x9d01b739'
 - name: LOAD.EXE
   size: 21765
-  date: '1990-11-20T00:30:52'
+  date: '1990-11-19T23:30:52'
   crc: '0x9700db30'
 - name: MAIN.RES
   size: 1164
-  date: '1990-12-13T22:32:36'
+  date: '1990-12-13T21:32:36'
   crc: '0x513fa62e'
 - name: MCGA.COD
   size: 70850
-  date: '1990-12-13T22:44:24'
+  date: '1990-12-13T21:44:24'
   crc: '0x526f10a6'
 - name: MCGA.DIF
   size: 16594
-  date: '1990-12-13T22:44:28'
+  date: '1990-12-13T21:44:28'
   crc: '0xe1e98b4d'
 - name: MCGA.HDR
   size: 30
-  date: '1990-12-13T22:44:28'
+  date: '1990-12-13T21:44:28'
   crc: '0x69109b4d'
 - name: MISC.PRE
   size: 2597
-  date: '1990-12-13T22:45:10'
+  date: '1990-12-13T21:45:10'
   crc: '0x124888d0'
 - name: MT15.DRV
   size: 1667
-  date: '1990-10-06T08:28:36'
+  date: '1990-10-06T07:28:36'
   crc: '0xa46b16a0'
 - name: MT32.PLB
   size: 1271
-  date: '1990-10-02T21:53:24'
+  date: '1990-10-02T20:53:24'
   crc: '0x099d754b'
 - name: MTENG1.VCE
   size: 976
-  date: '1990-10-03T21:05:00'
+  date: '1990-10-03T20:05:00'
   crc: '0x9f2239a9'
 - name: MTSKIDMS.VCE
   size: 1184
-  date: '1990-09-10T20:12:10'
+  date: '1990-09-10T19:12:10'
   crc: '0x44a14223'
 - name: OPP1.PRE
   size: 1254
-  date: '1990-12-13T22:45:12'
+  date: '1990-12-13T21:45:12'
   crc: '0x49f24d31'
 - name: OPP1LOSE.PVS
   size: 10733
-  date: '1990-11-16T23:50:54'
+  date: '1990-11-16T22:50:54'
   crc: '0x204676fc'
 - name: OPP1WIN.PVS
   size: 10143
-  date: '1990-11-16T23:50:38'
+  date: '1990-11-16T22:50:38'
   crc: '0xc4ae116c'
 - name: OPP2.PRE
   size: 1320
-  date: '1990-12-13T22:45:12'
+  date: '1990-12-13T21:45:12'
   crc: '0x6f5e7136'
 - name: OPP2LOSE.PVS
   size: 18883
-  date: '1990-11-16T23:51:32'
+  date: '1990-11-16T22:51:32'
   crc: '0x26baae88'
 - name: OPP2WIN.PVS
   size: 20830
-  date: '1990-11-16T23:51:14'
+  date: '1990-11-16T22:51:14'
   crc: '0xcaa9951c'
 - name: OPP3.PRE
   size: 995
-  date: '1990-12-13T22:45:14'
+  date: '1990-12-13T21:45:14'
   crc: '0xceb0f88f'
 - name: OPP3LOSE.PVS
   size: 11578
-  date: '1990-11-16T23:52:08'
+  date: '1990-11-16T22:52:08'
   crc: '0x60a542ef'
 - name: OPP3WIN.PVS
   size: 21125
-  date: '1990-11-16T23:51:52'
+  date: '1990-11-16T22:51:52'
   crc: '0xc7ab2d6f'
 - name: OPP4.PRE
   size: 1372
-  date: '1990-12-13T22:45:14'
+  date: '1990-12-13T21:45:14'
   crc: '0x3f32e4b6'
 - name: OPP4LOSE.PVS
   size: 26093
-  date: '1990-11-16T23:52:50'
+  date: '1990-11-16T22:52:50'
   crc: '0x7f2eeb19'
 - name: OPP4WIN.PVS
   size: 25855
-  date: '1990-11-16T23:52:30'
+  date: '1990-11-16T22:52:30'
   crc: '0x62e6dd64'
 - name: OPP5.PRE
   size: 1256
-  date: '1990-12-13T22:45:16'
+  date: '1990-12-13T21:45:16'
   crc: '0x044f11ff'
 - name: OPP5LOSE.PVS
   size: 22016
-  date: '1990-11-16T23:53:32'
+  date: '1990-11-16T22:53:32'
   crc: '0xa27a2dc6'
 - name: OPP5WIN.PVS
   size: 33740
-  date: '1990-11-16T23:53:12'
+  date: '1990-11-16T22:53:12'
   crc: '0x81b40eaa'
 - name: OPP6.PRE
   size: 1294
-  date: '1990-12-13T22:45:16'
+  date: '1990-12-13T21:45:16'
   crc: '0x9412c5ba'
 - name: OPP6LOSE.PVS
   size: 28687
-  date: '1990-11-16T23:54:14'
+  date: '1990-11-16T22:54:14'
   crc: '0x97b95136'
 - name: OPP6WIN.PVS
   size: 24653
-  date: '1990-11-16T23:53:52'
+  date: '1990-11-16T22:53:52'
   crc: '0x4a752a10'
 - name: PC15.DRV
   size: 2190
-  date: '1990-10-06T02:22:58'
+  date: '1990-10-06T01:22:58'
   crc: '0xe251bf1b'
 - name: PCENG1.VCE
   size: 1088
-  date: '1990-09-27T22:06:40'
+  date: '1990-09-27T21:06:40'
   crc: '0x86406267'
 - name: PCSKIDMS.VCE
   size: 1232
-  date: '1990-08-16T21:47:30'
+  date: '1990-08-16T20:47:30'
   crc: '0x0dca6e72'
 - name: SDCRED.PES
   size: 3608
-  date: '1990-11-16T23:40:32'
+  date: '1990-11-16T22:40:32'
   crc: '0x5b191634'
 - name: SDCSEL.PVS
   size: 12362
-  date: '1990-11-16T23:43:28'
+  date: '1990-11-16T22:43:28'
   crc: '0x9759f9b1'
 - name: SDGAME.PVS
   size: 12286
-  date: '1990-11-16T23:44:10'
+  date: '1990-11-16T22:44:10'
   crc: '0x079fa838'
 - name: SDGAME2.PVS
   size: 1252
-  date: '1990-11-16T23:44:24'
+  date: '1990-11-16T22:44:24'
   crc: '0xaebc8137'
 - name: SDMAIN.PVS
   size: 1176
-  date: '1990-11-16T23:35:30'
+  date: '1990-11-16T22:35:30'
   crc: '0xbb1fc518'
 - name: SDMSEL.PVS
   size: 15577
-  date: '1990-11-16T23:43:10'
+  date: '1990-11-16T22:43:10'
   crc: '0x44a4ac32'
 - name: SDOSEL.PVS
   size: 39363
-  date: '1990-11-16T23:43:52'
+  date: '1990-11-16T22:43:52'
   crc: '0x384ea310'
 - name: SDTEDIT.PES
   size: 16076
-  date: '1990-11-16T23:40:54'
+  date: '1990-11-16T22:40:54'
   crc: '0x65ff4e73'
 - name: SDTITL.PVS
   size: 11231
-  date: '1990-12-04T01:02:12'
+  date: '1990-12-04T00:02:12'
   crc: '0x3588baf2'
 - name: SETUP.DAT
   size: 96
@@ -359,159 +357,159 @@ files:
   crc: '0xbad3712f'
 - name: SETUP.EXE
   size: 15065
-  date: '1990-12-07T20:23:20'
+  date: '1990-12-07T19:23:20'
   crc: '0x24aee214'
 - name: SKIDOVER.KMS
   size: 4303
-  date: '1990-09-08T01:35:12'
+  date: '1990-09-08T00:35:12'
   crc: '0x8768c7c4'
 - name: SKIDS.HIG
   size: 364
-  date: '1991-02-06T11:21:16'
-  crc: '0x5e9a9b6c'
+  date: '1990-12-07T09:25:30'
+  crc: '0x2fa522fd'
 - name: SKIDS.TRK
   size: 1802
   date: '1990-12-07T10:25:30'
   crc: '0xbc08f0e9'
 - name: SKIDSLCT.KMS
   size: 8612
-  date: '1990-09-08T02:13:28'
+  date: '1990-09-08T01:13:28'
   crc: '0x957ac3c3'
 - name: SKIDTITL.KMS
   size: 2590
-  date: '1990-09-08T03:54:48'
+  date: '1990-09-08T02:54:48'
   crc: '0x196528ec'
 - name: SKIDVICT.KMS
   size: 4221
-  date: '1990-09-09T21:31:54'
+  date: '1990-09-09T20:31:54'
   crc: '0x88eaebe3'
 - name: STANSX.P3S
   size: 5140
-  date: '1990-11-16T23:38:42'
+  date: '1990-11-16T22:38:42'
   crc: '0xcc50cc17'
 - name: STAUDI.P3S
   size: 7026
-  date: '1990-11-16T23:39:40'
+  date: '1990-11-16T22:39:40'
   crc: '0x2d0fffdd'
 - name: STCOUN.P3S
   size: 5338
-  date: '1990-11-16T23:38:22'
+  date: '1990-11-16T22:38:22'
   crc: '0xafb134fb'
 - name: STDAANSX.PVS
   size: 14776
-  date: '1990-11-16T23:45:48'
+  date: '1990-11-16T22:45:48'
   crc: '0xbb623715'
 - name: STDAAUDI.PVS
   size: 15167
-  date: '1990-11-16T23:49:02'
+  date: '1990-11-16T22:49:02'
   crc: '0x0434461a'
 - name: STDACOUN.PVS
   size: 12896
-  date: '1990-11-16T23:44:42'
+  date: '1990-11-16T22:44:42'
   crc: '0x3e659b05'
 - name: STDAFGTO.PVS
   size: 15364
-  date: '1990-11-16T23:45:14'
+  date: '1990-11-16T22:45:14'
   crc: '0x94846cdd'
 - name: STDAJAGU.PVS
   size: 16200
-  date: '1990-11-16T23:47:58'
+  date: '1990-11-16T22:47:58'
   crc: '0x70a321ea'
 - name: STDALANC.PVS
   size: 19460
-  date: '1990-11-16T23:49:50'
+  date: '1990-11-16T22:49:50'
   crc: '0xe39878e6'
 - name: STDALM02.PVS
   size: 17252
-  date: '1990-11-16T23:50:10'
+  date: '1990-11-16T22:50:10'
   crc: '0x07f86761'
 - name: STDAP962.PVS
   size: 13659
-  date: '1990-11-16T23:47:28'
+  date: '1990-11-16T22:47:28'
   crc: '0x42d11f9d'
 - name: STDAPC04.PVS
   size: 15727
-  date: '1990-11-16T23:46:22'
+  date: '1990-11-16T22:46:22'
   crc: '0x4f782106'
 - name: STDAPMIN.PVS
   size: 11069
-  date: '1990-11-16T23:48:30'
+  date: '1990-11-16T22:48:30'
   crc: '0xff8758cf'
 - name: STDAVETT.PVS
   size: 15240
-  date: '1990-11-16T23:46:54'
+  date: '1990-11-16T22:46:54'
   crc: '0x9b647d7c'
 - name: STDBANSX.PVS
   size: 772
-  date: '1990-11-16T23:46:02'
+  date: '1990-11-16T22:46:02'
   crc: '0x2ca90938'
 - name: STDBAUDI.PVS
   size: 841
-  date: '1990-11-16T23:49:16'
+  date: '1990-11-16T22:49:16'
   crc: '0x9c6c979e'
 - name: STDBCOUN.PVS
   size: 951
-  date: '1990-11-16T23:44:54'
+  date: '1990-11-16T22:44:54'
   crc: '0xa6a31bc9'
 - name: STDBFGTO.PVS
   size: 955
-  date: '1990-11-16T23:45:28'
+  date: '1990-11-16T22:45:28'
   crc: '0x9289caf0'
 - name: STDBJAGU.PVS
   size: 743
-  date: '1990-11-16T23:48:12'
+  date: '1990-11-16T22:48:12'
   crc: '0x7ec1f308'
 - name: STDBLANC.PVS
   size: 1069
-  date: '1990-11-16T23:49:30'
+  date: '1990-11-16T22:49:30'
   crc: '0xf8f0fb18'
 - name: STDBLM02.PVS
   size: 912
-  date: '1990-11-16T23:50:24'
+  date: '1990-11-16T22:50:24'
   crc: '0x1413805c'
 - name: STDBP962.PVS
   size: 720
-  date: '1990-11-16T23:47:40'
+  date: '1990-11-16T22:47:40'
   crc: '0xb6af78a2'
 - name: STDBPC04.PVS
   size: 933
-  date: '1990-11-16T23:46:36'
+  date: '1990-11-16T22:46:36'
   crc: '0x02960ac5'
 - name: STDBPMIN.PVS
   size: 796
-  date: '1990-11-16T23:48:42'
+  date: '1990-11-16T22:48:42'
   crc: '0x85b37793'
 - name: STDBVETT.PVS
   size: 1097
-  date: '1990-11-16T23:47:08'
+  date: '1990-11-16T22:47:08'
   crc: '0xde056cdc'
 - name: STFGTO.P3S
   size: 4183
-  date: '1990-11-16T23:38:32'
+  date: '1990-11-16T22:38:32'
   crc: '0xac68977a'
 - name: STJAGU.P3S
   size: 5544
-  date: '1990-11-16T23:39:22'
+  date: '1990-11-16T22:39:22'
   crc: '0x429abf25'
 - name: STLANC.P3S
   size: 4004
-  date: '1990-11-16T23:40:00'
+  date: '1990-11-16T22:40:00'
   crc: '0x0df78cfb'
 - name: STLM02.P3S
   size: 5853
-  date: '1990-11-16T23:39:52'
+  date: '1990-11-16T22:39:52'
   crc: '0x5f9501a7'
 - name: STP962.P3S
   size: 5838
-  date: '1990-11-16T23:39:12'
+  date: '1990-11-16T22:39:12'
   crc: '0xf05f6d79'
 - name: STPC04.P3S
   size: 4097
-  date: '1990-11-16T23:38:52'
+  date: '1990-11-16T22:38:52'
   crc: '0x4b646e23'
 - name: STPMIN.P3S
   size: 2697
-  date: '1990-11-16T23:39:32'
+  date: '1990-11-16T22:39:32'
   crc: '0x19139f35'
 - name: STUNTS.COM
   size: 195
@@ -519,45 +517,45 @@ files:
   crc: '0xe834794c'
 - name: STUNTS.CO_
   size: 758
-  date: '1990-08-07T23:27:44'
+  date: '1990-08-07T22:27:44'
   crc: '0x42ca8467'
 - name: STVETT.P3S
   size: 6283
-  date: '1990-11-16T23:39:02'
+  date: '1990-11-16T22:39:02'
   crc: '0x77f7a4ff'
 - name: TD15.DRV
   size: 2993
-  date: '1990-11-01T22:47:54'
+  date: '1990-11-01T21:47:54'
   crc: '0x6f30a499'
 - name: TDENG1.VCE
   size: 912
-  date: '1990-10-03T21:09:26'
+  date: '1990-10-03T20:09:26'
   crc: '0xdada71f2'
 - name: TDSKIDMS.VCE
   size: 2528
-  date: '1990-09-08T02:23:40'
+  date: '1990-09-08T01:23:40'
   crc: '0xd069fbfe'
 - name: TDY.COD
   size: 77028
-  date: '1990-12-13T22:44:10'
+  date: '1990-12-13T21:44:10'
   crc: '0xfc6660f6'
 - name: TDY.DIF
   size: 16248
-  date: '1990-12-13T22:44:12'
+  date: '1990-12-13T21:44:12'
   crc: '0xfb09f7ce'
 - name: TDY.HDR
   size: 30
-  date: '1990-12-13T22:44:12'
+  date: '1990-12-13T21:44:12'
   crc: '0xbe3d2568'
 - name: TEDIT.PRE
   size: 5026
-  date: '1990-12-13T22:45:12'
+  date: '1990-12-13T21:45:12'
   crc: '0x2622bdfd'
 - name: TITLE.P3S
   size: 2703
-  date: '1990-11-16T23:40:10'
+  date: '1990-11-16T22:40:10'
   crc: '0x0c490490'
 - name: TROPICAL.PVS
   size: 5467
-  date: '1990-11-16T23:41:26'
+  date: '1990-11-16T22:41:26'
   crc: '0x42f5d80c'

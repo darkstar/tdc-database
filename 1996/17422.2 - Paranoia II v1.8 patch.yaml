@@ -1,0 +1,27 @@
+filename: Paranoia II v1.8 patch (Cs) (1996)(Phoenix Arts) [Strategy, Addon].zip
+tdc_id: '17422.2'
+title:
+  screen: Paranoia II v1.8 patch
+publisher: Phoenix Arts
+year: '1996'
+genre:
+- Strategy
+- Addon
+language: Czech
+date:
+  added: '2024-02-27T16:11:08'
+  last_modified: '2024-02-27T16:11:08'
+type: zip
+media: Download
+patch: true
+commands:
+  play: upgr_p2.exe
+files:
+- name: ReadMe.txt
+  size: 726
+  date: '2024-01-08T09:24:42'
+  crc: '0x501fb9b2'
+- name: upgr_p2.exe
+  size: 646433
+  date: '2024-01-08T09:22:38'
+  crc: '0xeb43aa60'

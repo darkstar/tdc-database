@@ -1,4 +1,4 @@
-filename: Demon Blue (1992)(Microvalue) [Action].zip
+filename: Demon Blue (1992)(Microvalue) [Action][!].zip
 tdc_id: '13067.0'
 parent_id: '13067.2'
 title:
@@ -9,11 +9,15 @@ genre: Action
 language: English
 date:
   added: '2019-03-01T18:42:24'
-  last_modified: '2019-03-01T18:42:24'
+  last_modified: '2024-02-27T07:56:04'
 type: zip
+tags:
+- KnownGood
+media: 360K
 commands:
   play: DEMON.EXE
 references:
+  mobygames: https://www.mobygames.com/game/22366/demon-blue/
   dosid: DOS01724
   exodos: Demon Blue (1992).zip
 files:
@@ -29,6 +33,10 @@ files:
   size: 41927
   date: '1992-04-16T08:09:54'
   crc: '0xec2e50e2'
+- name: DEMON.EX_
+  size: 41927
+  date: '1992-04-16T08:09:54'
+  crc: '0xe4ef87ae'
 - name: INFOBAR.PI1
   size: 32034
   date: '1987-04-22T00:01:08'
@@ -37,10 +45,6 @@ files:
   size: 5000
   date: '1987-04-22T00:04:20'
   crc: '0x3e7a4a61'
-- name: MAPBLOCK.PI1
-  size: 5000
-  date: '1987-04-22T00:00:30'
-  crc: '0xfe2182fd'
 - name: SPRITES1.PI1
   size: 32034
   date: '1987-04-22T00:05:24'
@@ -54,10 +58,13 @@ files:
   date: '1987-04-22T00:03:20'
   crc: '0x2e64e9ed'
 - name: TITLE.PI1
-  size: 32066
-  date: '1992-04-21T13:39:28'
-  crc: '0xc12177db'
+  size: 32034
+  date: '1992-03-05T13:01:40'
+  crc: '0x0a296730'
 - name: TITLE2.PI1
   size: 32034
   date: '1987-04-22T00:06:46'
   crc: '0x3d2035cb'
+- name: _
+  size: 0
+  date: '1992-04-16T08:23:04'

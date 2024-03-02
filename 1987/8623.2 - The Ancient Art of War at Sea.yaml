@@ -1,5 +1,6 @@
-filename: Ancient Art of War at Sea, The [a2] (1987)(Brøderbund Software, Inc.) [Strategy].zip
+filename: Ancient Art of War at Sea, The (1987)(Brøderbund Software, Inc.) [Strategy][!].zip
 tdc_id: '8623.2'
+parent_id: '8623.4'
 title:
   box: The Ancient Art of War at Sea
 publisher: Brøderbund Software, Inc.
@@ -8,12 +9,15 @@ genre: Strategy
 language: English
 date:
   added: '2019-03-01T18:25:08'
-  last_modified: '2019-03-01T18:25:08'
+  last_modified: '2024-02-26T12:54:37'
 type: zip
 tags:
-- Alternate: 2
+- KnownGood
+media: 360K
 commands:
   play: WAS.EXE
+references:
+  mobygames: https://www.mobygames.com/game/188/the-ancient-art-of-war-at-sea/
 files:
 - name: AD
   size: 4158
@@ -69,8 +73,8 @@ files:
   crc: '0x9db25c91'
 - name: SCNF
   size: 29
-  date: '1988-12-28T12:56:02'
-  crc: '0x8cd305d5'
+  date: '1987-10-02T00:00:08'
+  crc: '0xda44a85d'
 - name: SDITLES
   size: 876
   date: '1987-07-10T12:00:12'
@@ -167,6 +171,9 @@ files:
   size: 6533
   date: '1987-07-10T12:00:30'
   crc: '0xe512fe2a'
+- name: WAS 3.0
+  size: 0
+  date: '1987-10-02T00:14:32'
 - name: WAS.EXE
   size: 161792
   date: '1987-10-02T00:00:20'

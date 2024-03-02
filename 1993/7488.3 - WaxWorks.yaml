@@ -1,9 +1,9 @@
-filename: WaxWorks (Es) (1993)(Accolade, Inc.) [Adventure, Role-Playing (RPG)].zip
+filename: WaxWorks (Es) (1993)(Accolade, Inc., Erbe Software, S.A.) [Adventure, Role-Playing (RPG)].zip
 tdc_id: '7488.3'
 parent_id: '7488.7'
 title:
   box: WaxWorks
-publisher: Accolade, Inc.
+publisher: Accolade, Inc., Erbe Software, S.A.
 year: '1993'
 genre:
 - Adventure
@@ -11,8 +11,14 @@ genre:
 language: Spanish
 date:
   added: '2022-01-05T00:41:36'
-  last_modified: '2022-01-05T00:41:36'
+  last_modified: '2024-02-27T13:32:23'
 type: zip
+media: 1.44M
+commands:
+  play: WAX_MSI.COM
+  setup: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1269/waxworks/
 files:
 - name: 001.VGA
   size: 372

@@ -1,4 +1,4 @@
-filename: Ruckus Poker [a1] (1993)(Villa Crespo Software, Inc.) [Strategy, Cards].zip
+filename: Ruckus Poker r931012 (1993)(Villa Crespo Software, Inc.) [Strategy, Cards].zip
 tdc_id: '5710.1'
 title:
   box: Ruckus Poker
@@ -10,10 +10,13 @@ genre:
 language: English
 date:
   added: '2019-03-01T19:18:10'
-  last_modified: '2019-03-01T19:18:10'
+  last_modified: '2024-02-27T08:28:12'
+release: '931012'
 type: zip
-tags:
-- Alternate: 1
+commands:
+  play: POKER.EXE
+references:
+  mobygames: https://www.mobygames.com/game/80775/ruckus-poker/
 files:
 - name: BILL.THT
   size: 1044

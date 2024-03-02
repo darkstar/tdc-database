@@ -1,5 +1,6 @@
-filename: MegaTraveller 1- The Zhodani Conspiracy v3.0 (1990)(Paragon Software Corporation) [Action, Role-Playing (RPG)].zip
+filename: MegaTraveller 1- The Zhodani Conspiracy v3.0 r900910 (1990)(Paragon Software Corporation) [Action, Role-Playing (RPG)][!].zip
 tdc_id: '7753.1'
+parent_id: '7753.8'
 title:
   box: 'MegaTraveller 1: The Zhodani Conspiracy'
 publisher: Paragon Software Corporation
@@ -10,9 +11,15 @@ genre:
 language: English
 date:
   added: '2021-08-02T14:12:28'
-  last_modified: '2021-08-02T14:12:28'
+  last_modified: '2024-02-29T10:29:04'
 version: '3.0'
+release: '900910'
 type: zip
+tags:
+- KnownGood
+media: 360K
+commands:
+  play: TRAV.COM
 files:
 - name: 0.STP
   size: 129

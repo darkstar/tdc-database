@@ -1,6 +1,6 @@
-filename: MegaTraveller 1- The Zhodani Conspiracy (1990)(Paragon Software Corporation) [Action, Role-Playing (RPG)].zip
+filename: MegaTraveller 1- The Zhodani Conspiracy v1.0 (1990)(Paragon Software Corporation) [Action, Role-Playing (RPG)][!].zip
 tdc_id: '7753.0'
-parent_id: '7753.3'
+parent_id: '7753.7'
 title:
   box: 'MegaTraveller 1: The Zhodani Conspiracy'
 publisher: Paragon Software Corporation
@@ -11,8 +11,16 @@ genre:
 language: English
 date:
   added: '2021-08-01T09:19:56'
-  last_modified: '2021-08-01T09:19:56'
+  last_modified: '2024-02-29T10:02:53'
+version: '1.0'
 type: zip
+tags:
+- KnownGood
+media: 360K
+commands:
+  play: TRAV.COM
+references:
+  mobygames: https://www.mobygames.com/game/426/megatraveller-1-the-zhodani-conspiracy/
 files:
 - name: 0.STP
   size: 129
@@ -90,6 +98,10 @@ files:
   size: 2305
   date: '1990-04-30T12:52:06'
   crc: '0x4bed3e7e'
+- name: DEFAULT.SAV
+  size: 3974
+  date: '1990-05-02T16:29:46'
+  crc: '0xe6b153d6'
 - name: DOOR.VMF
   size: 599
   date: '1990-05-03T09:50:48'
@@ -118,6 +130,18 @@ files:
   size: 2405
   date: '1990-05-03T09:05:28'
   crc: '0x7e146282'
+- name: I_megaA0.2
+  size: 0
+  date: '1990-04-30T00:00:02'
+- name: I_megaB0.2
+  size: 0
+  date: '1990-04-30T00:00:02'
+- name: I_megaC0.2
+  size: 0
+  date: '1990-04-30T00:00:02'
+- name: I_megaD0.2
+  size: 0
+  date: '1990-04-30T00:00:02'
 - name: LAUNCH.VMF
   size: 1867
   date: '1990-05-03T09:41:30'
@@ -150,7 +174,7 @@ files:
   size: 1698
   date: '1990-05-03T09:01:02'
   crc: '0x6176ad48'
-- name: README.LEX
+- name: README.TXT
   size: 912
   date: '1990-05-05T14:20:10'
   crc: '0xb968a1ba'
@@ -196,8 +220,12 @@ files:
   crc: '0x35d37ee4'
 - name: STARTUP.EXE
   size: 41120
-  date: '1988-05-08T14:29:44'
-  crc: '0x10e4b3f7'
+  date: '1990-05-08T14:29:44'
+  crc: '0x07c8b3ce'
+- name: STARTUP.EX_
+  size: 41120
+  date: '1990-05-08T14:29:44'
+  crc: '0xca799b05'
 - name: STATIONS.LY
   size: 28646
   date: '1990-05-06T09:25:42'
@@ -246,10 +274,6 @@ files:
   size: 12690
   date: '1990-05-09T14:56:34'
   crc: '0x73d93adf'
-- name: UCHARS.DAT
-  size: 3073
-  date: '1992-10-04T15:52:44'
-  crc: '0xd8e3de06'
 - name: W.DAT
   size: 124338
   date: '1990-05-06T08:29:20'

@@ -1,0 +1,59 @@
+filename: Jet Set Willy PC v0.991 [FW] (1999)(Andy Noble) [Action].zip
+tdc_id: '9718.0'
+title:
+  screen: Jet Set Willy
+publisher: Andy Noble
+year: '1999'
+genre: Action
+language: English
+date:
+  added: '2019-03-02T10:46:12'
+  last_modified: '2024-02-27T12:48:30'
+version: '0.991'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: JSW.EXE
+references:
+  mobygames: https://www.mobygames.com/game/45260/jet-set-willy/
+  dosid: DOS02908
+  exodos: Jet Set Willy (1999).zip
+files:
+- name: JSW-DAT2.DAT
+  size: 195144
+  date: '1999-07-31T14:26:38'
+  crc: '0xfbc571ae'
+- name: JSW-DAT3.DAT
+  size: 2776
+  date: '1999-07-31T14:26:38'
+  crc: '0xc51d8e7f'
+- name: JSW-DAT4.DAT
+  size: 2383
+  date: '1999-07-31T14:26:38'
+  crc: '0x96da1b24'
+- name: JSW-DAT5.DAT
+  size: 1121
+  date: '1999-07-31T14:26:38'
+  crc: '0xf6c630b3'
+- name: JSW-DAT6.DAT
+  size: 2790
+  date: '1999-07-31T14:26:38'
+  crc: '0x41fd1ed3'
+- name: JSW-DAT7.DAT
+  size: 1777
+  date: '1999-07-31T14:26:38'
+  crc: '0x14a1d0e1'
+- name: JSW.EXE
+  size: 523871
+  date: '1999-08-29T18:41:30'
+  crc: '0x0496112a'
+- name: LICENSE.TXT
+  size: 4932
+  date: '1999-07-31T14:26:38'
+  crc: '0x80ea895d'
+- name: README.TXT
+  size: 9213
+  date: '1999-08-16T22:51:06'
+  crc: '0xbe0eaac9'

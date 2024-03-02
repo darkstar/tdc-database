@@ -1,4 +1,4 @@
-filename: 3-D Helicopter Simulator (1987)(Sierra On-Line, Inc.) [Action, Simulation].zip
+filename: 3-D Helicopter Simulator v1.00 (1987)(Sierra On-Line, Inc.) [Action, Simulation].zip
 tdc_id: '6024.0'
 parent_id: '6024.7'
 title:
@@ -11,9 +11,14 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:25:04'
-  last_modified: '2019-03-01T18:25:04'
+  last_modified: '2024-02-26T06:46:20'
+version: '1.00'
 type: zip
+media: 360K
+commands:
+  play: HELI.EXE
 references:
+  mobygames: https://www.mobygames.com/game/5830/sierras-3-d-helicopter-simulator/
   dosid: DOS04546
   exodos: Sierra's 3-D Helicopter Simulator (1987).zip
 files:
