@@ -1,22 +1,31 @@
-filename: American Challenge- A Sailing Simulation, The (1986)(Mindscape, Inc.) [Simulation, Sports, Racing - Driving].zip
+filename: American Challenge, The- A Sailing Simulation (1986)(Mindscape, Inc.) [Simulation, Racing - Driving, Sports].zip
 tdc_id: '8323.0'
+parent_id: '8323.1'
 title:
   box: 'The American Challenge: A Sailing Simulation'
 publisher: Mindscape, Inc.
 year: '1986'
 genre:
 - Simulation
-- Sports
 - Racing - Driving
+- Sports
 language: English
 date:
   added: '2019-03-01T18:24:40'
-  last_modified: '2019-03-01T18:24:40'
+  last_modified: '2024-03-07T08:12:11'
 type: zip
+media: 360K
+commands:
+  play: SAIL.EXE
 references:
+  mobygames: https://www.mobygames.com/game/1467/the-american-challenge-a-sailing-simulation/
   dosid: DOS00778
   exodos: American Challenge A Sailing Simulation, The (1986).zip
 files:
+- name: AUTOEXEC.BAT
+  size: 175
+  date: '1986-03-02T14:51:12'
+  crc: '0x9965174b'
 - name: BANNER.DAT
   size: 5142
   date: '1986-03-01T09:14:02'
@@ -27,8 +36,8 @@ files:
   crc: '0x664f90e3'
 - name: DIRECT.DAT
   size: 136
-  date: '1999-09-17T09:47:46'
-  crc: '0x9d071f15'
+  date: '1986-03-23T11:52:46'
+  crc: '0x1f6acae2'
 - name: GO1200.BAT
   size: 34
   date: '1985-10-08T18:11:38'
@@ -37,18 +46,26 @@ files:
   size: 33
   date: '1985-10-08T18:11:54'
   crc: '0xbce079ce'
+- name: INSTALL1.BAT
+  size: 448
+  date: '1980-01-01T00:31:30'
+  crc: '0x5cb26b45'
+- name: INSTALL2.BAT
+  size: 325
+  date: '1980-01-01T00:33:38'
+  crc: '0xc98f193b'
 - name: RACES.DAT
   size: 73728
-  date: '1999-09-17T09:47:44'
-  crc: '0x5755f8f3'
-- name: Runme.bat
-  size: 20
-  date: '1999-09-17T09:46:56'
-  crc: '0xd4553df3'
+  date: '1986-03-23T11:49:18'
+  crc: '0x0e778eaa'
 - name: SAIL.EXE
-  size: 56016
+  size: 30268
   date: '1986-03-23T11:55:16'
-  crc: '0x7a9b2f74'
+  crc: '0x67e8cd5f'
+- name: SAIL.EX_
+  size: 31584
+  date: '1986-03-23T11:55:16'
+  crc: '0x45c1dd3b'
 - name: SAIL1200.BAT
   size: 180
   date: '1986-03-02T14:50:26'

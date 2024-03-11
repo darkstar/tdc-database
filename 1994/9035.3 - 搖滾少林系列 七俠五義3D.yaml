@@ -1,0 +1,69 @@
+filename: 搖滾少林系列 七俠五義3D (demo) (Zh) (1994)(Accend, Inc.) [Action].zip
+tdc_id: '9035.3'
+parent_id: '9035.2'
+title:
+  box: 搖滾少林系列 七俠五義3D
+  translation: Rock'n Shaolin- Legend of Seven Paladins
+  qualifier: demo
+publisher: Accend, Inc.
+year: '1994'
+genre: Action
+language: Chinese
+date:
+  added: '2024-03-07T14:31:27'
+  last_modified: '2024-03-07T14:31:27'
+type: zip
+media: Download
+demo: true
+commands:
+  play: 75MAIN.EXE
+  setup: SETUP.EXE
+files:
+- name: 75M.EXE
+  size: 378907
+  date: '1994-09-22T08:12:02'
+  crc: '0xb1690cbb'
+- name: 75MAIN.EXE
+  size: 34246
+  date: '1994-09-22T09:04:38'
+  crc: '0xd9de984d'
+- name: 75T.EXE
+  size: 327215
+  date: '1994-09-22T07:46:20'
+  crc: '0xd0697c43'
+- name: DOS4GW.EXE
+  size: 254532
+  date: '1993-12-02T16:36:36'
+  crc: '0xfb51f2c9'
+- name: L0ART000.DAT
+  size: 4643536
+  date: '1994-09-21T22:26:28'
+  crc: '0x16924d1e'
+- name: L1ART000.DAT
+  size: 3755655
+  date: '1994-09-22T07:04:58'
+  crc: '0x4e617322'
+- name: LMART000.DAT
+  size: 221258
+  date: '1994-09-22T07:06:00'
+  crc: '0xf17ce5e6'
+- name: LVART000.DAT
+  size: 1425886
+  date: '1994-09-22T07:42:42'
+  crc: '0x6c3e041a'
+- name: PALETTE.DAT
+  size: 41600
+  date: '1994-08-08T22:51:18'
+  crc: '0x132a4bbc'
+- name: SETUP.DAT
+  size: 380
+  date: '1994-09-22T09:05:40'
+  crc: '0xcb5e1e74'
+- name: SETUP.EXE
+  size: 58980
+  date: '1994-09-14T02:01:40'
+  crc: '0x92bca214'
+- name: TABLES.DAT
+  size: 10880
+  date: '1994-08-22T16:42:24'
+  crc: '0xa450689e'

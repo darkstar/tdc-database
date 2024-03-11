@@ -1,8 +1,8 @@
-filename: Oubliette (1983)(Human Engineered Software) [Adventure, Role-Playing (RPG)].zip
+filename: Oubliette v2.5 (1983)(HesWare, Human Engineered Software) [Adventure, Role-Playing (RPG)].zip
 tdc_id: '1075.0'
 title:
-  screen: Oubliette
-publisher: Human Engineered Software
+  box: Oubliette
+publisher: HesWare, Human Engineered Software
 year: '1983'
 genre:
 - Adventure
@@ -10,20 +10,33 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:23:16'
-  last_modified: '2019-03-01T18:23:16'
+  last_modified: '2024-03-02T14:55:36'
+version: '2.5'
 type: zip
+media: 360K
+commands:
+  play: GOUB.EXE
 references:
+  mobygames: https://www.mobygames.com/game/3986/oubliette/
   dosid: DOS03863
   exodos: Oubliette (1983).zip
 files:
 - name: GOUB.EXE
-  size: 42496
+  size: 42400
   date: '1983-02-17T10:42:08'
-  crc: '0x6aaf8812'
+  crc: '0x6bc4c9cf'
+- name: GOUB.EX_
+  size: 42960
+  date: '1983-02-17T10:42:08'
+  crc: '0x49e71bd2'
 - name: OUB.EXE
-  size: 42012
+  size: 41948
   date: '1983-02-17T11:33:26'
-  crc: '0x3ef22da5'
+  crc: '0x34fb743b'
+- name: OUB.EX_
+  size: 42448
+  date: '1983-02-17T11:33:26'
+  crc: '0x5bc37b0c'
 - name: OUB1.DAT
   size: 184
   date: '1980-01-01T00:29:08'
@@ -36,10 +49,6 @@ files:
   size: 350
   date: '1980-01-01T00:31:10'
   crc: '0x58ef20b3'
-- name: OUB12.DAT
-  size: 1
-  date: '1991-02-14T16:05:48'
-  crc: '0x2f6016f7'
 - name: OUB2.DAT
   size: 350
   date: '1980-01-01T00:29:10'
@@ -62,13 +71,13 @@ files:
   crc: '0x6489f8c5'
 - name: OUB7.DAT
   size: 6208
-  date: '1997-06-07T18:39:56'
-  crc: '0xf30ad6b3'
+  date: '1983-04-07T16:25:36'
+  crc: '0x2a730294'
 - name: OUB8.DAT
   size: 8925
   date: '1980-01-01T00:31:12'
   crc: '0x7f0cb794'
 - name: OUB9.DAT
   size: 32
-  date: '2007-03-04T12:02:54'
-  crc: '0x00adc8e5'
+  date: '1980-01-01T00:01:50'
+  crc: '0x11b8640c'

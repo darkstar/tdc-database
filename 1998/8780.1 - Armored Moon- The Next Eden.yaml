@@ -1,18 +1,24 @@
-filename: Armored Moon- The Next Eden (1998)(Microforum International) [ISO].zip
+filename: Armored Moon- The Next Eden (1998)(Microforum International) [bin-cue].zip
 tdc_id: '8780.1'
 title:
   box: 'Armored Moon: The Next Eden'
 publisher: Microforum International
 year: '1998'
-genre: ISO
+genre: bin-cue
 language: English
 date:
   added: '2023-02-23T14:43:24'
-  last_modified: '2023-02-23T14:43:24'
-type: ISO
+  last_modified: '2024-03-07T10:04:26'
+type: bin-cue
 media: CD-ROM
+references:
+  mobygames: https://www.mobygames.com/game/49128/armored-moon-the-next-eden/
 files:
-- name: cd.iso
-  size: 250515456
-  date: '1999-12-31T18:00:00'
-  crc: '0x2ef85783'
+- name: Armored Moon (Canada).bin
+  size: 288411648
+  date: '1996-12-24T23:32:00'
+  crc: '0x3675b35a'
+- name: Armored Moon (Canada).cue
+  size: 87
+  date: '1996-12-24T23:32:00'
+  crc: '0xd6e72fe4'

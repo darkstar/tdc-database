@@ -1,8 +1,9 @@
-filename: Links- Championship Course - Pinehurst Resort & Country Club v1.09 (Installer) (1993)(Access Software, Inc.) [Sports, Addon].zip
+filename: Links- Championship Course - Pinehurst Resort & Country Club (SVGA) v1.09 (Installer) (1993)(Access Software, Inc.) [Sports, Addon][!].zip
 tdc_id: '11878.0'
+parent_id: '11878.2'
 title:
   box: 'Links: Championship Course - Pinehurst Resort & Country Club'
-  qualifier: Installer
+  qualifier: SVGA
 publisher: Access Software, Inc.
 year: '1993'
 genre:
@@ -11,9 +12,14 @@ genre:
 language: English
 date:
   added: '2019-03-01T19:11:50'
-  last_modified: '2024-02-21T09:47:29'
+  last_modified: '2024-03-03T10:10:04'
 version: '1.09'
 type: zip
+tags:
+- KnownGood
+media:
+- 720K
+- 1.44M
 installer: true
 commands:
   play: INSTALL.EXE

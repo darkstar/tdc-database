@@ -1,0 +1,64 @@
+filename: Mean 18 r880917 (1988)(Accolade, Inc.) [Sports].zip
+tdc_id: '11327.9'
+parent_id: '11327.8'
+title:
+  box: Mean 18
+publisher: Accolade, Inc.
+year: '1988'
+genre: Sports
+language: English
+date:
+  added: '2024-03-03T08:08:38'
+  last_modified: '2024-03-03T08:08:38'
+release: '880917'
+type: zip
+media: 360K
+commands:
+  play: GOLF.EXE
+references:
+  mobygames: https://www.mobygames.com/game/152/mean-18/
+files:
+- name: ARCH.DAT
+  size: 13717
+  date: '1988-09-17T16:02:14'
+  crc: '0x8d0edede'
+- name: ARCH.EXE
+  size: 61312
+  date: '1988-09-17T16:01:56'
+  crc: '0xdf778c8f'
+- name: ARCH.EX_
+  size: 61312
+  date: '1988-09-17T16:01:56'
+  crc: '0x0c9d536b'
+- name: AUGUSTA.M18
+  size: 111864
+  date: '1986-02-28T11:36:16'
+  crc: '0x13004ff4'
+- name: BUSHHILL.M18
+  size: 111864
+  date: '1988-09-17T16:02:32'
+  crc: '0x65100ec4'
+- name: GOLF.DAT
+  size: 50186
+  date: '1988-09-17T16:02:06'
+  crc: '0x4e0d43fb'
+- name: GOLF.EXE
+  size: 106512
+  date: '1988-09-17T16:02:50'
+  crc: '0xa73efadf'
+- name: GOLF.EX_
+  size: 106512
+  date: '1988-09-17T16:02:50'
+  crc: '0x74d4253b'
+- name: GRAPHICS.EGA
+  size: 8096
+  date: '1988-09-17T16:02:10'
+  crc: '0x1311cdf5'
+- name: PEBBLE.M18
+  size: 111864
+  date: '1986-03-04T10:56:02'
+  crc: '0x518f8314'
+- name: STANDREW.M18
+  size: 111864
+  date: '1986-02-28T15:43:40'
+  crc: '0xd399c456'

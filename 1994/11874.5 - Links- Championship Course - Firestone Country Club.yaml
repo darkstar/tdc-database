@@ -1,0 +1,78 @@
+filename: Links- Championship Course - Firestone Country Club (SVGA) v1.21 (Installer) (1994)(Access Software, Inc.) [Sports, Addon][!].zip
+tdc_id: '11874.5'
+parent_id: '11874.4'
+title:
+  box: 'Links: Championship Course - Firestone Country Club'
+  qualifier: SVGA
+publisher: Access Software, Inc.
+year: '1994'
+genre:
+- Sports
+- Addon
+language: English
+date:
+  added: '2024-03-03T10:40:07'
+  last_modified: '2024-03-03T10:40:07'
+version: '1.21'
+type: zip
+tags:
+- KnownGood
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/2224/links-championship-course-firestone-country-club/
+files:
+- name: CONVERT.LZ
+  size: 84877
+  date: '1993-08-27T11:15:30'
+  crc: '0x3236c4de'
+- name: COURSE.INI
+  size: 2847
+  date: '1994-01-27T14:11:54'
+  crc: '0x17f48aaf'
+- name: FIRE1.REC
+  size: 3273
+  date: '1993-09-15T14:33:34'
+  crc: '0xd927e188'
+- name: FIRE2.REC
+  size: 3153
+  date: '1993-09-15T16:06:34'
+  crc: '0x37bc6e54'
+- name: FIRE3.REC
+  size: 3241
+  date: '1993-09-15T20:11:34'
+  crc: '0x50d667c1'
+- name: FIRE4.REC
+  size: 3329
+  date: '1993-09-15T14:22:16'
+  crc: '0x576866ec'
+- name: FIRESTON.1
+  size: 547391
+  date: '1993-09-13T16:08:00'
+  crc: '0xc2943c02'
+- name: FIRESTON.2
+  size: 859261
+  date: '1993-09-13T16:08:04'
+  crc: '0xa082712f'
+- name: FIRESTON.SPL
+  size: 156909
+  date: '1993-08-18T18:13:12'
+  crc: '0xb4b8a82b'
+- name: GOLF.EXE
+  size: 61510
+  date: '1992-11-16T15:25:22'
+  crc: '0x3a3cb49c'
+- name: INSTALL.EXE
+  size: 104050
+  date: '1993-08-31T15:54:16'
+  crc: '0x78332152'
+- name: LIE.LZ
+  size: 21861
+  date: '1992-11-04T13:45:54'
+  crc: '0x6ab8740b'
+- name: LINKS386.EXE
+  size: 444890
+  date: '1994-01-20T09:50:34'
+  crc: '0x66776560'

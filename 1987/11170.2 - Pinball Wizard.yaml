@@ -1,4 +1,4 @@
-filename: Pinball Wizard (1987)(Accolade, Inc.) [Simulation, Action].zip
+filename: Pinball Wizard [f1] (1987)(Accolade, Inc.) [Simulation, Action].zip
 tdc_id: '11170.2'
 title:
   box: Pinball Wizard
@@ -10,8 +10,14 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:25:30'
-  last_modified: '2019-03-01T18:25:30'
+  last_modified: '2024-03-02T14:21:24'
 type: zip
+tags:
+- Fixed: 1
+commands:
+  play: PINBALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/6447/macadam-bumper/
 files:
 - name: 27HIGH.PW1
   size: 10999
@@ -44,12 +50,24 @@ files:
 - name: MC1.EXE
   size: 39216
   date: '1987-08-03T07:06:22'
+  crc: '0x7e690fcb'
+- name: MC1.EX_
+  size: 39216
+  date: '1987-08-03T07:06:22'
   crc: '0x2284f0db'
 - name: MC2.EXE
+  size: 36880
+  date: '1987-08-03T06:04:46'
+  crc: '0xd4b2168e'
+- name: MC2.EX_
   size: 36880
   date: '1987-08-03T06:04:56'
   crc: '0xbe1cbf47'
 - name: MC3.EXE
+  size: 36768
+  date: '1987-08-03T05:13:46'
+  crc: '0x2f0d1e58'
+- name: MC3.EX_
   size: 36768
   date: '1987-08-03T05:13:46'
   crc: '0x5e80cc13'

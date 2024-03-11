@@ -1,8 +1,9 @@
-filename: Links- Championship Course - Banff Springs v1.10 (Installer) (1993)(Access Software, Inc.) [Sports, Addon].zip
+filename: Links- Championship Course - Banff Springs (SVGA) v1.10 (Installer) (1993)(Access Software, Inc.) [Sports, Addon][!].zip
 tdc_id: '11866.0'
+parent_id: '11866.6'
 title:
   box: 'Links: Championship Course - Banff Springs'
-  qualifier: Installer
+  qualifier: SVGA
 publisher: Access Software, Inc.
 year: '1993'
 genre:
@@ -11,9 +12,14 @@ genre:
 language: English
 date:
   added: '2019-03-01T19:11:48'
-  last_modified: '2024-02-21T09:44:30'
+  last_modified: '2024-03-03T10:05:18'
 version: '1.10'
 type: zip
+tags:
+- KnownGood
+media:
+- 720K
+- 1.44M
 installer: true
 commands:
   play: INSTALL.EXE

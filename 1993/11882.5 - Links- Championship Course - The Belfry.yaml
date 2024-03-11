@@ -1,0 +1,96 @@
+filename: Links- Championship Course - The Belfry (SVGA) v1.11 (Installer) (1993)(Access Software, Inc.) [Sports, Addon][!].zip
+tdc_id: '11882.5'
+parent_id: '11882.4'
+title:
+  box: 'Links: Championship Course - The Belfry'
+  qualifier: SVGA
+publisher: Access Software, Inc.
+year: '1993'
+genre:
+- Sports
+- Addon
+language: English
+date:
+  added: '2024-03-03T10:18:06'
+  last_modified: '2024-03-03T10:18:06'
+version: '1.11'
+type: zip
+tags:
+- KnownGood
+media:
+- 720K
+- 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/37368/links-championship-course-the-belfry/
+files:
+- name: BELFRY1.REC
+  size: 2693
+  date: '1993-06-10T22:57:38'
+  crc: '0xbdb539bd'
+- name: BELFRY1.SPL
+  size: 178456
+  date: '1993-06-07T15:36:24'
+  crc: '0x9e54113a'
+- name: BELFRY2.REC
+  size: 3043
+  date: '1993-06-10T14:20:58'
+  crc: '0xc48cd93a'
+- name: BELFRY2.SPL
+  size: 162733
+  date: '1993-06-07T15:40:12'
+  crc: '0x1a0f5b33'
+- name: BELFRY3.REC
+  size: 3287
+  date: '1993-06-10T18:11:36'
+  crc: '0xfe1d6608'
+- name: BELFRY4.REC
+  size: 3195
+  date: '1993-06-10T20:02:10'
+  crc: '0x86089ea0'
+- name: BELFRY5.REC
+  size: 3305
+  date: '1993-06-10T22:39:54'
+  crc: '0x6947b382'
+- name: BELFRY6.REC
+  size: 3797
+  date: '1993-06-11T14:37:30'
+  crc: '0xed6d4b6e'
+- name: CONVERT.LZ
+  size: 79579
+  date: '1993-06-10T10:54:40'
+  crc: '0xfbbe6f6e'
+- name: COURSE.INI
+  size: 2908
+  date: '1993-08-25T12:58:26'
+  crc: '0xe7973d78'
+- name: GOLF.EXE
+  size: 61510
+  date: '1992-11-16T15:25:22'
+  crc: '0x3a3cb49c'
+- name: INSTALL.EXE
+  size: 104050
+  date: '1993-08-31T15:54:16'
+  crc: '0x78332152'
+- name: LIE.LZ
+  size: 21861
+  date: '1992-11-04T13:45:54'
+  crc: '0x6ab8740b'
+- name: LINKS386.EXE
+  size: 441484
+  date: '1993-08-25T11:27:22'
+  crc: '0x6accd470'
+- name: THE_BELF.1
+  size: 328009
+  date: '1993-06-10T15:06:36'
+  crc: '0x01532a90'
+- name: THE_BELF.2
+  size: 1428182
+  date: '1993-06-10T15:06:42'
+  crc: '0x1b46cc53'
+- name: THE_BELF.3
+  size: 616494
+  date: '1993-06-10T15:06:44'
+  crc: '0x11977d14'

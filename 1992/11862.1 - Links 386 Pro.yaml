@@ -1,16 +1,26 @@
-filename: Links 386 Pro (Installer) (1992)(Access Software, Inc.) [Sports].zip
+filename: Links 386 Pro v1.00 (Installer) (1992)(Access Software, Inc.) [Sports][!].zip
 tdc_id: '11862.1'
+parent_id: '11862.17'
 title:
   box: Links 386 Pro
+  qualifier: Installer
 publisher: Access Software, Inc.
 year: '1992'
 genre: Sports
 language: English
 date:
   added: '2019-03-01T18:48:52'
-  last_modified: '2019-03-01T18:48:52'
+  last_modified: '2024-03-03T09:38:05'
+version: '1.00'
 type: zip
+tags:
+- KnownGood
+media: 1.44M
 installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/3757/links-386-pro/
 files:
 - name: BASEPAL.COL
   size: 776
