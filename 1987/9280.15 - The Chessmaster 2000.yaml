@@ -1,23 +1,29 @@
-filename: Chessmaster 2000, The v1.01 (1986)(Software Toolworks, Inc., The) [Strategy, Chess].zip
-tdc_id: '9280.6'
+filename: Chessmaster 2000, The v1.07 (1987)(Software Toolworks, Inc., The) [Strategy, Chess].zip
+tdc_id: '9280.15'
+parent_id: '9280.14'
 title:
   box: The Chessmaster 2000
 publisher: Software Toolworks, Inc., The
-year: '1986'
+year: '1987'
 genre:
 - Strategy
 - Chess
 language: English
 date:
-  added: '2019-03-01T18:24:44'
-  last_modified: '2019-03-01T18:24:44'
-version: '1.01'
+  added: '2024-03-10T16:22:29'
+  last_modified: '2024-03-10T17:00:33'
+version: '1.07'
 type: zip
+media: 360K
+commands:
+  play: CMASTER.EXE
+references:
+  mobygames: https://www.mobygames.com/game/10/the-chessmaster-2000/
 files:
 - name: AUTOEXEC.BAT
-  size: 94
-  date: '1986-08-22T16:14:04'
-  crc: '0xe2bc75ed'
+  size: 716
+  date: '1986-11-27T10:35:08'
+  crc: '0xf985c526'
 - name: CG1.CM
   size: 467
   date: '1986-06-09T13:11:36'
@@ -26,10 +32,6 @@ files:
   size: 467
   date: '1986-06-09T13:46:00'
   crc: '0x0784b4ad'
-- name: CG100.CM
-  size: 507
-  date: '1986-06-12T14:11:52'
-  crc: '0x7bd427cf'
 - name: CG11.CM
   size: 371
   date: '1986-06-09T13:47:14'
@@ -132,8 +134,8 @@ files:
   crc: '0x7219c146'
 - name: CG34.CM
   size: 659
-  date: '1986-06-09T14:53:26'
-  crc: '0x3086b80b'
+  date: '1986-10-09T14:02:18'
+  crc: '0x6b09b403'
 - name: CG35.CM
   size: 467
   date: '1986-06-09T15:01:02'
@@ -141,7 +143,7 @@ files:
 - name: CG36.CM
   size: 835
   date: '1986-06-09T15:03:30'
-  crc: '0x5e9e424e'
+  crc: '0x8a267637'
 - name: CG37.CM
   size: 1003
   date: '1986-06-09T15:04:48'
@@ -181,7 +183,7 @@ files:
 - name: CG45.CM
   size: 435
   date: '1986-06-09T15:25:50'
-  crc: '0x129eb7e5'
+  crc: '0x63fa1683'
 - name: CG46.CM
   size: 531
   date: '1986-06-09T15:27:04'
@@ -382,55 +384,19 @@ files:
   size: 531
   date: '1986-06-12T13:56:36'
   crc: '0x5f9a6cfb'
-- name: CG91.CM
-  size: 803
-  date: '1986-06-12T13:58:14'
-  crc: '0xf7ee9160'
-- name: CG92.CM
-  size: 483
-  date: '1986-06-12T13:59:44'
-  crc: '0xdedcb2fc'
-- name: CG93.CM
-  size: 467
-  date: '1986-06-12T14:01:08'
-  crc: '0x083c09e4'
-- name: CG94.CM
-  size: 579
-  date: '1986-06-12T14:03:26'
-  crc: '0x0c5c63c7'
-- name: CG95.CM
-  size: 483
-  date: '1986-06-12T14:04:52'
-  crc: '0x3ffeca51'
-- name: CG96.CM
-  size: 635
-  date: '1986-06-12T14:06:30'
-  crc: '0x35092ec5'
-- name: CG97.CM
-  size: 635
-  date: '1986-06-12T14:07:48'
-  crc: '0x35092ec5'
-- name: CG98.CM
-  size: 779
-  date: '1986-06-12T16:26:24'
-  crc: '0x32c21785'
-- name: CG99.CM
-  size: 419
-  date: '1986-06-12T14:10:38'
-  crc: '0x7a05ef59'
 - name: CM.DAT
-  size: 40634
-  date: '1990-05-16T17:43:24'
-  crc: '0x7ea508ea'
+  size: 40646
+  date: '1987-11-24T18:00:58'
+  crc: '0xbe51e165'
 - name: CM.EXE
-  size: 122713
-  date: '1986-08-22T16:47:26'
-  crc: '0xfb46cc15'
+  size: 130176
+  date: '1987-01-14T12:33:52'
+  crc: '0x2a5374d2'
 - name: CM.EX_
-  size: 122713
-  date: '1986-08-22T16:47:26'
-  crc: '0x7064a3da'
+  size: 130176
+  date: '1987-01-14T12:33:52'
+  crc: '0x816c7954'
 - name: CMASTER.EXE
-  size: 17117
-  date: '1986-08-22T16:46:56'
-  crc: '0x57106a04'
+  size: 17720
+  date: '1987-01-14T13:15:40'
+  crc: '0xa635820e'

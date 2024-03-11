@@ -1,4 +1,4 @@
-filename: Chessmaster 2000, The v1.06 (1986)(Software Toolworks, Inc., The) [Strategy, Chess].zip
+filename: Chessmaster 2000, The v1.06 [h1] (1986)(Software Toolworks, Inc., The) [Strategy, Chess].zip
 tdc_id: '9280.10'
 title:
   box: The Chessmaster 2000
@@ -10,10 +10,15 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:24:44'
-  last_modified: '2019-03-01T18:24:44'
+  last_modified: '2024-03-10T16:19:42'
 version: '1.06'
 type: zip
+tags:
+- Hack: 1
+commands:
+  play: CMASTER.EXE
 references:
+  mobygames: https://www.mobygames.com/game/10/the-chessmaster-2000/
   dosid: DOS01358
   exodos: Chessmaster 2000, The (1986).zip
 files:

@@ -1,5 +1,6 @@
 filename: Rendezvous With Rama (1984)(Trillium Corp.) [Adventure, Interactive Fiction].zip
 tdc_id: '14833.0'
+parent_id: '14833.1'
 title:
   box: Rendezvous With Rama
 publisher: Trillium Corp.
@@ -12,1029 +13,1059 @@ date:
   added: '2019-03-01T18:24:14'
   last_modified: '2019-03-01T18:24:14'
 type: zip
+media: 360K
 commands:
-  play: RDV.EXE
+  play: RDV\RDV.EXE
 references:
   dosid: DOS04278
   exodos: Rendezvous with Rama (1984).zip
 files:
-- name: '0'
-  size: 11264
-  date: '1998-09-01T12:48:54'
-  crc: '0x7d56bf61'
-- name: '1'
-  size: 11264
-  date: '1998-09-01T12:56:38'
-  crc: '0xac89cf53'
-- name: AFT_CORR
+- name: AUTOEXEC.BAT
+  size: 20
+  date: '1984-11-20T16:48:58'
+  crc: '0xf3ef98f0'
+- name: COMMAND.COM
+  size: 17792
+  date: '1983-10-20T12:00:00'
+  crc: '0x12c755d3'
+- name: IBMBIO.COM
+  size: 4736
+  date: '1983-10-20T12:00:00'
+  crc: '0x4d68de33'
+- name: IBMDOS.COM
+  size: 17024
+  date: '1983-10-20T12:00:00'
+  crc: '0x66f7a373'
+- name: INSTALL1.BAT
+  size: 296
+  date: '1984-11-21T10:03:36'
+  crc: '0x496ca889'
+- name: INSTALL2.BAT
+  size: 225
+  date: '1984-11-21T10:03:46'
+  crc: '0xf3835d79'
+- name: RDV-IB-D.-A
+  size: 0
+  date: '1984-12-04T10:33:00'
+- name: RDV-IB-D.-B
+  size: 0
+  date: '1984-11-20T07:54:54'
+- name: RDV\
+  size: 0
+  date: '1984-12-04T10:33:30'
+- name: RDV\AFT_CORR
   size: 605
   date: '1984-11-27T19:12:16'
   crc: '0x05f1a359'
-- name: AIRLOCKI
+- name: RDV\AIRLOCKI
   size: 829
   date: '1984-11-27T19:13:00'
   crc: '0xf0348563'
-- name: AIRLOCKO
+- name: RDV\AIRLOCKO
   size: 646
   date: '1984-11-27T19:13:38'
   crc: '0x46311037'
-- name: ALPHA_BA
+- name: RDV\ALPHA_BA
   size: 473
   date: '1984-11-27T19:14:10'
   crc: '0xaac4fc63'
-- name: BETA_BAS
+- name: RDV\BETA_BAS
   size: 471
   date: '1984-11-27T19:14:42'
   crc: '0x8d0f17dd'
-- name: BIGHORN_
+- name: RDV\BIGHORN_
   size: 2486
   date: '1984-11-27T19:15:36'
   crc: '0x388080e9'
-- name: BIRD_CAG
+- name: RDV\BIRD_CAG
   size: 1792
   date: '1984-11-27T19:16:30'
   crc: '0xcc5808f1'
-- name: BLACK_SQ
+- name: RDV\BLACK_SQ
   size: 541
   date: '1984-11-27T19:17:02'
   crc: '0xed8b007b'
-- name: BLANK_GR
+- name: RDV\BLANK_GR
   size: 924
   date: '1984-11-27T19:17:42'
   crc: '0x213814ac'
-- name: BLUE_SQU
+- name: RDV\BLUE_SQU
   size: 190
   date: '1984-11-27T19:18:10'
   crc: '0x44236a30'
-- name: BRIDGE
+- name: RDV\BRIDGE
   size: 2592
   date: '1984-11-27T23:24:00'
   crc: '0x5f2293c2'
-- name: CLIFFSID
+- name: RDV\CLIFFSID
   size: 565
   date: '1984-11-27T19:19:24'
   crc: '0xf3e56292'
-- name: CONEXAMI
+- name: RDV\CONEXAMI
   size: 923
   date: '1984-11-27T19:20:10'
   crc: '0xb5942e65'
-- name: CONFLY
+- name: RDV\CONFLY
   size: 1324
   date: '1984-11-27T19:20:58'
   crc: '0x47e0645c'
-- name: CONLANDM
+- name: RDV\CONLANDM
   size: 1273
   date: '1984-11-27T19:21:38'
   crc: '0x63e0c7a4'
-- name: CONLOOK
+- name: RDV\CONLOOK
   size: 308
   date: '1984-11-27T19:22:10'
   crc: '0x21edb724'
-- name: CONOPEN
+- name: RDV\CONOPEN
   size: 416
   date: '1984-11-27T19:22:50'
   crc: '0xb3468271'
-- name: CONROOF
+- name: RDV\CONROOF
   size: 1735
   date: '1984-11-27T19:23:22'
   crc: '0xea2e7da3'
-- name: CONTIME
+- name: RDV\CONTIME
   size: 2151
   date: '1984-11-27T19:23:52'
   crc: '0xbf818784'
-- name: COPPER_S
+- name: RDV\COPPER_S
   size: 399
   date: '1984-11-27T19:24:22'
   crc: '0xc34a1034'
-- name: CRASH_SI
+- name: RDV\CRASH_SI
   size: 699
   date: '1984-11-27T19:24:58'
   crc: '0x6121faf6'
-- name: CRATER_S
+- name: RDV\CRATER_S
   size: 608
   date: '1984-11-27T19:25:36'
   crc: '0xdc9b928a'
-- name: CREW_QUA
+- name: RDV\CREW_QUA
   size: 1492
   date: '1984-11-27T19:26:12'
   crc: '0x5c8a4e28'
-- name: CRYSTAL_
+- name: RDV\CRYSTAL_
   size: 708
   date: '1984-11-27T19:26:42'
   crc: '0x157575ec'
-- name: DIM
+- name: RDV\DIM
   size: 1257
   date: '1984-11-27T19:27:20'
   crc: '0xded0f4a7'
-- name: DIR
+- name: RDV\DIR
   size: 1192
   date: '1984-11-20T17:40:20'
   crc: '0x93d6406c'
-- name: DIRT_FIE
+- name: RDV\DIRT_FIE
   size: 591
   date: '1984-11-27T19:27:54'
   crc: '0x7dced733'
-- name: DISPOSAL
+- name: RDV\DISPOSAL
   size: 1423
   date: '1984-11-27T19:28:42'
   crc: '0xbc40ee49'
-- name: DOCKING
+- name: RDV\DOCKING
   size: 56
   date: '1984-11-27T23:14:10'
   crc: '0xb7a74cc3'
-- name: DRAGONFL
+- name: RDV\DRAGONFL
   size: 754
   date: '1984-11-21T08:19:56'
   crc: '0x47bb932d'
-- name: EAST_RAM
+- name: RDV\EAST_RAM
   size: 287
   date: '1984-11-27T19:29:10'
   crc: '0xa293aba0'
-- name: EDGE_CRA
+- name: RDV\EDGE_CRA
   size: 923
   date: '1984-11-27T19:29:48'
   crc: '0xcddb87c7'
-- name: EMPTY_SQ
+- name: RDV\EMPTY_SQ
   size: 1444
   date: '1984-11-27T19:30:36'
   crc: '0xaa459a74'
-- name: ENGINE_R
+- name: RDV\ENGINE_R
   size: 2870
   date: '1984-11-27T19:31:36'
   crc: '0x3ccd5bee'
-- name: FENCED_H
+- name: RDV\FENCED_H
   size: 918
   date: '1984-11-27T19:32:16'
   crc: '0x4947d9b5'
-- name: FLOWER
+- name: RDV\FLOWER
   size: 1450
   date: '1984-11-27T19:33:04'
   crc: '0xf91b1c02'
-- name: FOOD_ROO
+- name: RDV\FOOD_ROO
   size: 1516
   date: '1984-11-27T19:33:42'
   crc: '0x0e7b661d'
-- name: FORE_COR
+- name: RDV\FORE_COR
   size: 1048
   date: '1984-11-27T19:34:16'
   crc: '0xb8fb3a78'
-- name: FROZEN_N
+- name: RDV\FROZEN_N
   size: 737
   date: '1984-11-27T19:34:46'
   crc: '0xd0091ac4'
-- name: FROZEN_S
+- name: RDV\FROZEN_S
   size: 757
   date: '1984-11-27T19:35:20'
   crc: '0x234de4ef'
-- name: GAMMA_BA
+- name: RDV\GAMMA_BA
   size: 547
   date: '1984-11-27T19:36:38'
   crc: '0xc38f5f87'
-- name: GATE_MOS
+- name: RDV\GATE_MOS
   size: 1025
   date: '1984-11-27T19:37:20'
   crc: '0xa70081e5'
-- name: GLOBE_RO
+- name: RDV\GLOBE_RO
   size: 1715
   date: '1984-11-27T19:38:04'
   crc: '0x4bf004fa'
-- name: GREAT_HA
+- name: RDV\GREAT_HA
   size: 724
   date: '1984-11-27T19:38:36'
   crc: '0x8f99f5c6'
-- name: GREAT_PL
+- name: RDV\GREAT_PL
   size: 2948
   date: '1984-11-27T19:40:42'
   crc: '0x0a9aab4d'
-- name: HALF_WAY
+- name: RDV\HALF_WAY
   size: 978
   date: '1984-11-27T19:36:06'
   crc: '0x826a9fa5'
-- name: HUB
+- name: RDV\HUB
   size: 3052
   date: '1984-11-27T19:41:34'
   crc: '0xa5e872fb'
-- name: INNER_CH
+- name: RDV\INNER_CH
   size: 1627
   date: '1984-11-27T19:42:18'
   crc: '0xaa89ce77'
-- name: KIOSK
+- name: RDV\KIOSK
   size: 1964
   date: '1984-11-27T19:43:12'
   crc: '0x076ca9b4'
-- name: LANDED_B
+- name: RDV\LANDED_B
   size: 2775
   date: '1984-11-27T19:43:56'
   crc: '0xb3a76cef'
-- name: LAURA
+- name: RDV\LAURA
   size: 359
   date: '1984-11-26T17:25:26'
   crc: '0x6de63de6'
-- name: LIGHT
+- name: RDV\LIGHT
   size: 1485
   date: '1984-11-27T19:44:30'
   crc: '0x0174e6b3'
-- name: LIGHTTXT
+- name: RDV\LIGHTTXT
   size: 2763
   date: '1984-11-27T19:45:04'
   crc: '0xabdaf96a'
-- name: LONDON_I
+- name: RDV\LONDON_I
   size: 2843
   date: '1984-11-27T19:46:32'
   crc: '0x5c7c28b5'
-- name: LONDON_P
+- name: RDV\LONDON_P
   size: 730
   date: '1984-11-27T19:47:14'
   crc: '0xcbb65bde'
-- name: LONDON_Q
+- name: RDV\LONDON_Q
   size: 1109
   date: '1984-11-27T19:47:52'
   crc: '0xe0c53c4b'
-- name: LONDON_S
+- name: RDV\LONDON_S
   size: 694
   date: '1984-11-27T19:48:38'
   crc: '0x7740a6e2'
-- name: LONG_COR
+- name: RDV\LONG_COR
   size: 735
   date: '1984-11-27T19:49:10'
   crc: '0x1f44a459'
-- name: METAL_CO
+- name: RDV\METAL_CO
   size: 933
   date: '1984-11-27T19:49:54'
   crc: '0x8366ff0d'
-- name: MONKEYHO
+- name: RDV\MONKEYHO
   size: 3259
   date: '1984-11-27T19:51:02'
   crc: '0xf2cf273a'
-- name: MOSCOW_C
+- name: RDV\MOSCOW_C
   size: 1117
   date: '1984-11-27T19:51:42'
   crc: '0x000e9ea2'
-- name: MOSCOW_I
+- name: RDV\MOSCOW_I
   size: 2789
   date: '1984-11-27T19:53:10'
   crc: '0x39878581'
-- name: MOSCOW_S
+- name: RDV\MOSCOW_S
   size: 610
   date: '1984-11-27T19:53:50'
   crc: '0x3e5f990f'
-- name: NEWDATA
+- name: RDV\NEWDATA
   size: 872
   date: '1984-11-30T16:07:42'
   crc: '0x1b3a05d8'
-- name: NORTH_FA
+- name: RDV\NORTH_FA
   size: 872
   date: '1984-11-27T19:54:28'
   crc: '0x2df52c3e'
-- name: NORTH_SL
+- name: RDV\NORTH_SL
   size: 541
   date: '1984-11-27T19:55:02'
   crc: '0xf7cd795b'
-- name: NY_CLEAR
+- name: RDV\NY_CLEAR
   size: 1303
   date: '1984-11-27T19:55:38'
   crc: '0x4fb4b232'
-- name: NY_HARBO
+- name: RDV\NY_HARBO
   size: 1227
   date: '1984-11-27T19:56:20'
   crc: '0x49194247'
-- name: OPENING
+- name: RDV\OPENING
   size: 2386
   date: '1984-11-27T19:57:36'
   crc: '0x871f8fef'
-- name: PACORR
+- name: RDV\PACORR
   size: 1046
   date: '1984-11-16T18:35:52'
   crc: '0xfa23eca0'
-- name: PAIRLO
+- name: RDV\PAIRLO
   size: 941
   date: '1984-11-16T18:37:20'
   crc: '0xa7496d5d'
-- name: PALI1
+- name: RDV\PALI1
   size: 624
   date: '1984-11-19T18:00:22'
   crc: '0xb10cb895'
-- name: PALI2
+- name: RDV\PALI2
   size: 273
   date: '1984-11-19T16:49:02'
   crc: '0xdf9b350b'
-- name: PALI3
+- name: RDV\PALI3
   size: 774
   date: '1984-11-19T16:50:18'
   crc: '0xe7a59fdb'
-- name: PARIS_IN
+- name: RDV\PARIS_IN
   size: 2803
   date: '1984-11-27T19:59:06'
   crc: '0xbba68fe7'
-- name: PARIS_PE
+- name: RDV\PARIS_PE
   size: 719
   date: '1984-11-27T19:59:48'
   crc: '0x45968b9f'
-- name: PARIS_PL
+- name: RDV\PARIS_PL
   size: 1115
   date: '1984-11-27T20:00:28'
   crc: '0x8bc1cb7d'
-- name: PARIS_SK
+- name: RDV\PARIS_SK
   size: 705
   date: '1984-11-27T20:01:12'
   crc: '0x234e0ae3'
-- name: PBASE
+- name: RDV\PBASE
   size: 1218
   date: '1984-11-16T18:43:12'
   crc: '0xa5414a54'
-- name: PBIGHO
+- name: RDV\PBIGHO
   size: 527
   date: '1984-11-16T18:44:44'
   crc: '0xeaf0b399'
-- name: PBIRD
+- name: RDV\PBIRD
   size: 2268
   date: '1984-11-16T18:46:16'
   crc: '0x18676ad8'
-- name: PBLANK
+- name: RDV\PBLANK
   size: 1269
   date: '1984-11-19T16:51:36'
   crc: '0x2c641315'
-- name: PBLUE
+- name: RDV\PBLUE
   size: 1386
   date: '1984-11-26T17:26:42'
   crc: '0x36130ba3'
-- name: PBRIDG
+- name: RDV\PBRIDG
   size: 1446
   date: '1984-11-19T07:01:02'
   crc: '0xb70778c7'
-- name: PCHAMB
+- name: RDV\PCHAMB
   size: 812
   date: '1984-11-16T19:00:54'
   crc: '0xf425451d'
-- name: PCLIFF
+- name: RDV\PCLIFF
   size: 777
   date: '1984-11-16T19:02:24'
   crc: '0x591ae0c2'
-- name: PCOLUM
+- name: RDV\PCOLUM
   size: 1731
   date: '1984-11-16T19:03:56'
   crc: '0xfe6e6f2d'
-- name: PCOPPR
+- name: RDV\PCOPPR
   size: 1001
   date: '1984-11-16T19:05:26'
   crc: '0x612c9dc2'
-- name: PCRASH
+- name: RDV\PCRASH
   size: 1622
   date: '1984-11-16T19:08:24'
   crc: '0xc4d0fbcd'
-- name: PCRATE
+- name: RDV\PCRATE
   size: 1874
   date: '1984-11-16T19:09:54'
   crc: '0xc84362ce'
-- name: PCRB
+- name: RDV\PCRB
   size: 1949
   date: '1984-11-16T19:11:26'
   crc: '0x6d0f5f35'
-- name: PCREWC
+- name: RDV\PCREWC
   size: 1196
   date: '1984-11-19T07:02:30'
   crc: '0x5c83d4c3'
-- name: PCRYST
+- name: RDV\PCRYST
   size: 1826
   date: '1984-11-19T07:03:58'
   crc: '0x955bf8b7'
-- name: PDIM
+- name: RDV\PDIM
   size: 981
   date: '1984-11-19T07:05:24'
   crc: '0x015ebf96'
-- name: PDIRT
+- name: RDV\PDIRT
   size: 2643
   date: '1984-11-19T07:06:54'
   crc: '0x07c5136b'
-- name: PDISPO
+- name: RDV\PDISPO
   size: 729
   date: '1984-11-19T07:08:20'
   crc: '0xca4fe1e5'
-- name: PDNA
+- name: RDV\PDNA
   size: 1551
   date: '1984-11-19T07:09:48'
   crc: '0x46a38b71'
-- name: PDRGON
+- name: RDV\PDRGON
   size: 735
   date: '1984-11-19T07:11:16'
   crc: '0xf1761b96'
-- name: PEMPTY
+- name: RDV\PEMPTY
   size: 1445
   date: '1984-11-19T07:12:42'
   crc: '0xb9d92e19'
-- name: PEND
+- name: RDV\PEND
   size: 810
   date: '1984-11-26T17:27:58'
   crc: '0x7e8f3597'
-- name: PENGI2
+- name: RDV\PENGI2
   size: 1070
   date: '1984-11-19T07:15:36'
   crc: '0x0a14ce93'
-- name: PENGIN
+- name: RDV\PENGIN
   size: 1416
   date: '1984-11-19T07:17:04'
   crc: '0x0ededcb8'
-- name: PERAMP
+- name: RDV\PERAMP
   size: 986
   date: '1984-11-19T16:52:54'
   crc: '0xec006482'
-- name: PFCORR
+- name: RDV\PFCORR
   size: 1059
   date: '1984-11-19T16:54:10'
   crc: '0x4eb3a05e'
-- name: PFLOWR
+- name: RDV\PFLOWR
   size: 1866
   date: '1984-11-19T16:55:28'
   crc: '0x34ef48b1'
-- name: PFOOD
+- name: RDV\PFOOD
   size: 1307
   date: '1984-11-19T07:33:36'
   crc: '0xe8b908ba'
-- name: PFROZN
+- name: RDV\PFROZN
   size: 990
   date: '1984-11-19T17:12:04'
   crc: '0x59f3c0bc'
-- name: PGATE
+- name: RDV\PGATE
   size: 1382
   date: '1984-11-19T07:37:12'
   crc: '0xdca71e65'
-- name: PGINNY
+- name: RDV\PGINNY
   size: 1505
   date: '1984-11-19T08:16:22'
   crc: '0x826e0dd0'
-- name: PGLOBE
+- name: RDV\PGLOBE
   size: 812
   date: '1984-11-19T16:59:16'
   crc: '0x6f5c5cb8'
-- name: PGREAT
+- name: RDV\PGREAT
   size: 704
   date: '1984-11-19T07:42:30'
   crc: '0x2e043427'
-- name: PHUB
+- name: RDV\PHUB
   size: 1085
   date: '1984-11-26T17:29:16'
   crc: '0x96be0ab6'
-- name: PIETER
+- name: RDV\PIETER
   size: 518
   date: '1984-11-19T17:00:28'
   crc: '0xfc939852'
-- name: PIX1
+- name: RDV\PIX1
   size: 546
   date: '1984-11-20T09:19:24'
   crc: '0x1295bda9'
-- name: PIX2
+- name: RDV\PIX2
   size: 719
   date: '1984-11-19T17:03:08'
   crc: '0x001c7395'
-- name: PIX3
+- name: RDV\PIX3
   size: 923
   date: '1984-11-19T17:04:24'
   crc: '0x3d8f943b'
-- name: PKIOSK
+- name: RDV\PKIOSK
   size: 929
   date: '1984-11-19T07:51:46'
   crc: '0x2d383c5e'
-- name: PLIGHT
+- name: RDV\PLIGHT
   size: 507
   date: '1984-11-19T07:53:18'
   crc: '0x8105ab34'
-- name: PLINTR
+- name: RDV\PLINTR
   size: 698
   date: '1984-11-19T07:54:52'
   crc: '0x08499d47'
-- name: PLONGC
+- name: RDV\PLONGC
   size: 489
   date: '1984-11-19T07:56:24'
   crc: '0xf8ef6331'
-- name: PLOWED_S
+- name: RDV\PLOWED_S
   size: 768
   date: '1984-11-27T20:01:50'
   crc: '0x146f461d'
-- name: PLSKY
+- name: RDV\PLSKY
   size: 1508
   date: '1984-11-19T07:57:58'
   crc: '0x9f2b9ca6'
-- name: PLTUNN
+- name: RDV\PLTUNN
   size: 840
   date: '1984-11-19T07:59:32'
   crc: '0x226f34f7'
-- name: PMETAL
+- name: RDV\PMETAL
   size: 1967
   date: '1984-11-19T08:01:06'
   crc: '0xb1de6987'
-- name: PMINTR
+- name: RDV\PMINTR
   size: 932
   date: '1984-11-19T08:02:40'
   crc: '0x2d9029b4'
-- name: PMONKE
+- name: RDV\PMONKE
   size: 1079
   date: '1984-11-19T08:04:14'
   crc: '0x2fbd33ce'
-- name: PMSKY
+- name: RDV\PMSKY
   size: 1545
   date: '1984-11-19T08:05:50'
   crc: '0x3663bfb4'
-- name: PMTUNN
+- name: RDV\PMTUNN
   size: 999
   date: '1984-11-19T08:10:16'
   crc: '0xccdd68cb'
-- name: PNFACE
+- name: RDV\PNFACE
   size: 896
   date: '1984-11-19T08:11:30'
   crc: '0x1bf35643'
-- name: PNORTH
+- name: RDV\PNORTH
   size: 1319
   date: '1984-11-19T08:12:42'
   crc: '0x6cf8b6d8'
-- name: PNYCLR
+- name: RDV\PNYCLR
   size: 1140
   date: '1984-11-19T08:13:56'
   crc: '0xa2768040'
-- name: PNYHAR
+- name: RDV\PNYHAR
   size: 1487
   date: '1984-11-19T08:15:10'
   crc: '0xa8fc811f'
-- name: POD_AREA
+- name: RDV\POD_AREA
   size: 994
   date: '1984-11-27T20:02:28'
   crc: '0xe2a5f80b'
-- name: PPINTR
+- name: RDV\PPINTR
   size: 684
   date: '1984-11-26T17:30:32'
   crc: '0x14289364'
-- name: PPLOND
+- name: RDV\PPLOND
   size: 1511
   date: '1984-11-26T17:31:48'
   crc: '0x4d1fd71a'
-- name: PPLOWD
+- name: RDV\PPLOWD
   size: 2873
   date: '1984-11-16T17:36:44'
   crc: '0x8e2f117d'
-- name: PPOD
+- name: RDV\PPOD
   size: 1284
   date: '1984-11-16T17:37:26'
   crc: '0xed192ab0'
-- name: PPPARS
+- name: RDV\PPPARS
   size: 1196
   date: '1984-11-16T17:38:08'
   crc: '0x957b0cf7'
-- name: PPSKY
+- name: RDV\PPSKY
   size: 1481
   date: '1984-11-16T17:39:36'
   crc: '0x544586d4'
-- name: PPTUNN
+- name: RDV\PPTUNN
   size: 903
   date: '1984-11-16T17:40:20'
   crc: '0xb1d0c37e'
-- name: PPYRAM
+- name: RDV\PPYRAM
   size: 702
   date: '1984-11-19T17:07:02'
   crc: '0x1d37b723'
-- name: PRBECA
+- name: RDV\PRBECA
   size: 3254
   date: '1984-11-16T17:41:50'
   crc: '0x90b36c02'
-- name: PRDOOR
+- name: RDV\PRDOOR
   size: 972
   date: '1984-11-16T17:42:38'
   crc: '0xf9a6b537'
-- name: PRED
+- name: RDV\PRED
   size: 1217
   date: '1984-11-16T17:43:26'
   crc: '0xf1739fc4'
-- name: PROM1
+- name: RDV\PROM1
   size: 311
   date: '1984-11-16T17:44:08'
   crc: '0x7921bf0d'
-- name: PROM2
+- name: RDV\PROM2
   size: 366
   date: '1984-11-16T17:44:52'
   crc: '0x89ba40e8'
-- name: PROM3
+- name: RDV\PROM3
   size: 300
   date: '1984-11-16T17:45:34'
   crc: '0xd7e2d9be'
-- name: PSHORE
+- name: RDV\PSHORE
   size: 1284
   date: '1984-11-16T17:46:22'
   crc: '0xb957c74c'
-- name: PSIDEW
+- name: RDV\PSIDEW
   size: 1194
   date: '1984-11-16T17:47:10'
   crc: '0x33fb1e5b'
-- name: PSILVR
+- name: RDV\PSILVR
   size: 1191
   date: '1984-11-16T17:48:54'
   crc: '0xf7667c64'
-- name: PSPD
+- name: RDV\PSPD
   size: 1496
   date: '1984-11-16T17:50:40'
   crc: '0xd8d22706'
-- name: PSPIDR
+- name: RDV\PSPIDR
   size: 234
   date: '1984-11-16T17:51:28'
   crc: '0xd664eb20'
-- name: PSPONG
+- name: RDV\PSPONG
   size: 2568
   date: '1984-11-16T17:52:24'
   crc: '0x33423e7f'
-- name: PSQUAR
+- name: RDV\PSQUAR
   size: 920
   date: '1984-11-16T17:53:16'
   crc: '0x283364e8'
-- name: PSRAMP
+- name: RDV\PSRAMP
   size: 978
   date: '1984-11-16T17:54:12'
   crc: '0xb48b846d'
-- name: PSTAIR
+- name: RDV\PSTAIR
   size: 1865
   date: '1984-11-16T17:55:08'
   crc: '0x506ee1e4'
-- name: PSTRAI
+- name: RDV\PSTRAI
   size: 1406
   date: '1984-11-19T17:08:18'
   crc: '0xec6f3e31'
-- name: PSUCKS
+- name: RDV\PSUCKS
   size: 965
   date: '1984-11-16T18:01:06'
   crc: '0x7034aeb8'
-- name: PTHAWD
+- name: RDV\PTHAWD
   size: 3815
   date: '1984-11-16T18:02:04'
   crc: '0xd4dfa41f'
-- name: PTILE
+- name: RDV\PTILE
   size: 1778
   date: '1984-11-16T18:03:00'
   crc: '0xa5932722'
-- name: PTRAP
+- name: RDV\PTRAP
   size: 1307
   date: '1984-11-16T18:03:58'
   crc: '0xc8254c33'
-- name: PTRELL
+- name: RDV\PTRELL
   size: 1838
   date: '1984-11-16T18:04:54'
   crc: '0x09c5017a'
-- name: PTRIAN
+- name: RDV\PTRIAN
   size: 900
   date: '1984-11-30T16:45:56'
   crc: '0x8eb0805d'
-- name: PTRIBU
+- name: RDV\PTRIBU
   size: 648
   date: '1984-11-16T18:06:50'
   crc: '0xfc639fc7'
-- name: PUTILI
+- name: RDV\PUTILI
   size: 1499
   date: '1984-11-19T18:04:16'
   crc: '0x530d3524'
-- name: PVALLE
+- name: RDV\PVALLE
   size: 1218
   date: '1984-11-16T18:14:10'
   crc: '0x489f0536'
-- name: PWIND
+- name: RDV\PWIND
   size: 669
   date: '1984-11-19T17:09:32'
   crc: '0xa3f4a4e9'
-- name: PWIRET
+- name: RDV\PWIRET
   size: 2273
   date: '1984-11-16T18:16:52'
   crc: '0x6e7ae490'
-- name: PWRAMP
+- name: RDV\PWRAMP
   size: 989
   date: '1984-11-16T18:18:16'
   crc: '0x1525f234'
-- name: RDV
+- name: RDV\RDV
   size: 7436
   date: '1984-11-27T18:38:50'
   crc: '0x2e134f35'
-- name: RDV.EXE
+- name: RDV\RDV.EXE
   size: 47794
-  date: '1999-01-10T14:55:50'
+  date: '1984-12-06T07:44:44'
   crc: '0x01bfb3a8'
-- name: RDV1FIN.IB
+- name: RDV\RDV.EX_
+  size: 47794
+  date: '1984-12-06T07:44:44'
+  crc: '0x2cd0bd4b'
+- name: RDV\RDV1FIN.IB
   size: 118
   date: '1984-09-24T15:59:24'
   crc: '0xe177e6d6'
-- name: RDV1FIN.JR
+- name: RDV\RDV1FIN.JR
   size: 169
   date: '1984-11-20T23:49:04'
   crc: '0xe1702807'
-- name: RDV2FIN.IB
+- name: RDV\RDV2FIN.IB
   size: 161
   date: '1984-09-24T15:42:58'
   crc: '0x27772459'
-- name: RDV2FIN.JR
+- name: RDV\RDV2FIN.JR
   size: 161
   date: '1984-11-21T00:31:30'
   crc: '0xa5b6cdd0'
-- name: RDV3FIN.IB
+- name: RDV\RDV3FIN.IB
   size: 441
   date: '1984-11-20T12:12:12'
   crc: '0xf16ba92e'
-- name: RDV3FIN.JR
+- name: RDV\RDV3FIN.JR
   size: 946
   date: '1984-11-21T10:22:56'
   crc: '0x65d5441f'
-- name: RDVDEATH.IB
+- name: RDV\RDVDEATH.IB
   size: 85
   date: '1984-10-26T17:48:52'
   crc: '0x03614154'
-- name: RDVDEATH.JR
+- name: RDV\RDVDEATH.JR
   size: 188
   date: '1984-11-21T10:36:44'
   crc: '0xe2d255da'
-- name: RDVMETAL.IB
+- name: RDV\RDVMETAL.IB
   size: 53
   date: '1984-09-24T15:52:20'
   crc: '0x85393ad1'
-- name: RDVMETAL.JR
+- name: RDV\RDVMETAL.JR
   size: 53
   date: '1984-11-20T23:42:20'
   crc: '0x85393ad1'
-- name: RDVNOTE1.IB
+- name: RDV\RDVNOTE1.IB
   size: 37
   date: '1984-09-24T15:50:20'
   crc: '0x7921573b'
-- name: RDVNOTE1.JR
+- name: RDV\RDVNOTE1.JR
   size: 37
   date: '1984-11-20T23:40:38'
   crc: '0x7921573b'
-- name: RDVNOTE2.IB
+- name: RDV\RDVNOTE2.IB
   size: 37
   date: '1984-09-24T15:50:38'
   crc: '0x78e33d0c'
-- name: RDVNOTE2.JR
+- name: RDV\RDVNOTE2.JR
   size: 37
   date: '1984-11-20T23:40:54'
   crc: '0x78e33d0c'
-- name: RDVNOTE3.IB
+- name: RDV\RDVNOTE3.IB
   size: 37
   date: '1984-09-24T15:50:56'
   crc: '0x71f9c468'
-- name: RDVNOTE3.JR
+- name: RDV\RDVNOTE3.JR
   size: 37
   date: '1984-11-20T23:41:10'
   crc: '0x71f9c468'
-- name: RDVNOTE4.IB
+- name: RDV\RDVNOTE4.IB
   size: 37
   date: '1984-09-24T15:51:12'
   crc: '0x703bae5f'
-- name: RDVNOTE4.JR
+- name: RDV\RDVNOTE4.JR
   size: 37
   date: '1984-11-20T23:41:28'
   crc: '0x703bae5f'
-- name: RDVOPEN.IB
+- name: RDV\RDVOPEN.IB
   size: 576
   date: '1984-11-20T12:11:42'
   crc: '0x08334be7'
-- name: RDVOPEN.JR
+- name: RDV\RDVOPEN.JR
   size: 1100
   date: '1984-11-20T23:47:58'
   crc: '0x8dae69c8'
-- name: RDVRAMAN.IB
+- name: RDV\RDVRAMAN.IB
   size: 132
   date: '1984-09-24T15:54:50'
   crc: '0xfdd42011'
-- name: RDVRAMAN.JR
+- name: RDV\RDVRAMAN.JR
   size: 633
   date: '1984-11-21T00:19:14'
   crc: '0x20b8d0dc'
-- name: RDVRAZZ.IB
+- name: RDV\RDVRAZZ.IB
   size: 42
   date: '1984-09-24T15:52:04'
   crc: '0xbd1cb300'
-- name: RDVRAZZ.JR
+- name: RDV\RDVRAZZ.JR
   size: 74
   date: '1984-11-20T23:53:06'
   crc: '0x36833d62'
-- name: RDVREWRD.IB
+- name: RDV\RDVREWRD.IB
   size: 168
   date: '1984-10-22T18:46:50'
   crc: '0x84205fd5'
-- name: RDVREWRD.JR
+- name: RDV\RDVREWRD.JR
   size: 188
   date: '1984-11-20T23:41:46'
   crc: '0x94de71a7'
-- name: RDVROM1.IB
+- name: RDV\RDVROM1.IB
   size: 50
   date: '1984-10-26T18:26:24'
   crc: '0x226874f7'
-- name: RDVROM1.JR
+- name: RDV\RDVROM1.JR
   size: 50
   date: '1984-11-20T23:44:10'
   crc: '0xf44485b7'
-- name: RDVROM2.IB
+- name: RDV\RDVROM2.IB
   size: 65
   date: '1984-10-26T18:26:44'
   crc: '0x5b5df456'
-- name: RDVROM2.JR
+- name: RDV\RDVROM2.JR
   size: 88
   date: '1984-11-20T23:44:28'
   crc: '0x50b679bb'
-- name: RDVROM3.IB
+- name: RDV\RDVROM3.IB
   size: 80
   date: '1984-10-26T18:27:02'
   crc: '0x671ab282'
-- name: RDVROM3.JR
+- name: RDV\RDVROM3.JR
   size: 143
   date: '1984-11-20T23:44:48'
   crc: '0x6260393b'
-- name: RDVSONG1.IB
+- name: RDV\RDVSONG1.IB
   size: 42
   date: '1984-09-24T16:03:28'
   crc: '0xcf09da0c'
-- name: RDVSONG1.JR
+- name: RDV\RDVSONG1.JR
   size: 55
   date: '1984-11-20T23:42:38'
   crc: '0x447ac549'
-- name: RDVSONG2.IB
+- name: RDV\RDVSONG2.IB
   size: 69
   date: '1984-09-24T16:04:02'
   crc: '0x4fcd818c'
-- name: RDVSONG2.JR
+- name: RDV\RDVSONG2.JR
   size: 65
   date: '1984-11-20T23:42:56'
   crc: '0xccba0f61'
-- name: RDVSONG3.IB
+- name: RDV\RDVSONG3.IB
   size: 63
   date: '1984-09-24T16:04:46'
   crc: '0x34fbda00'
-- name: RDVSONG3.JR
+- name: RDV\RDVSONG3.JR
   size: 83
   date: '1984-11-20T23:43:14'
   crc: '0x207c85b8'
-- name: RDVSONG4.IB
+- name: RDV\RDVSONG4.IB
   size: 43
   date: '1984-10-22T16:11:28'
   crc: '0x3f9d2664'
-- name: RDVSONG4.JR
+- name: RDV\RDVSONG4.JR
   size: 227
   date: '1984-11-20T23:43:32'
   crc: '0xd6e065b0'
-- name: RDVSONG5.IB
+- name: RDV\RDVSONG5.IB
   size: 48
   date: '1984-10-22T12:33:22'
   crc: '0x5682b6f7'
-- name: RDVSONG5.JR
+- name: RDV\RDVSONG5.JR
   size: 70
   date: '1984-11-20T23:43:50'
   crc: '0xe6dab2cd'
-- name: RED_SQUA
+- name: RDV\RED_SQUA
   size: 456
   date: '1984-11-27T20:03:00'
   crc: '0xbc7d0f2b'
-- name: ROUND_DO
+- name: RDV\ROUND_DO
   size: 1175
   date: '1984-11-27T20:03:38'
   crc: '0x2efc6c7c'
-- name: RUNGED_S
+- name: RDV\RUNGED_S
   size: 550
   date: '1984-11-27T20:04:10'
   crc: '0xf4f54908'
-- name: SAVED
-  size: 160
-  date: '1998-09-01T12:56:38'
-  crc: '0xcf8f7ca0'
-- name: SHORE_FR
+- name: RDV\SHORE_FR
   size: 439
   date: '1984-11-27T20:04:42'
   crc: '0x81d6bced'
-- name: SHORE_TH
+- name: RDV\SHORE_TH
   size: 930
   date: '1984-11-27T20:05:24'
   crc: '0x2b95ea18'
-- name: SIDEWALK
+- name: RDV\SIDEWALK
   size: 1395
   date: '1984-11-27T20:05:58'
   crc: '0x50f19ed0'
-- name: SILVER_B
+- name: RDV\SILVER_B
   size: 1292
   date: '1984-11-27T20:06:36'
   crc: '0xfa6ebbb6'
-- name: SIMP
+- name: RDV\SIMP
   size: 594
   date: '1984-11-26T17:33:00'
   crc: '0xb8d468a1'
-- name: SLIPPERY
+- name: RDV\SLIPPERY
   size: 395
   date: '1984-11-27T20:07:08'
   crc: '0x3f2af4b3'
-- name: SOUTH_RA
+- name: RDV\SOUTH_RA
   size: 287
   date: '1984-11-27T20:07:34'
   crc: '0xde4773c0'
-- name: SPIDER
+- name: RDV\SPIDER
   size: 3085
   date: '1984-11-27T20:08:52'
   crc: '0x215b03d2'
-- name: SPONGY_S
+- name: RDV\SPONGY_S
   size: 2147
   date: '1984-11-27T20:09:50'
   crc: '0x4383e1d1'
-- name: SQUARE_D
+- name: RDV\SQUARE_D
   size: 1224
   date: '1984-11-27T20:10:36'
   crc: '0xdeeb2a26'
-- name: STAIR_AL
+- name: RDV\STAIR_AL
   size: 1067
   date: '1984-11-27T20:11:10'
   crc: '0x87c8bc93'
-- name: STAIR_BE
+- name: RDV\STAIR_BE
   size: 1063
   date: '1984-11-27T20:11:42'
   crc: '0x5e1e17e0'
-- name: STAIR_GA
+- name: RDV\STAIR_GA
   size: 1064
   date: '1984-11-27T20:12:14'
   crc: '0xe8fe609b'
-- name: STRAIGHT
+- name: RDV\STRAIGHT
   size: 1129
   date: '1984-11-27T20:12:56'
   crc: '0x5842af5b'
-- name: SUCTION
+- name: RDV\SUCTION
   size: 1007
   date: '1984-11-27T20:13:26'
   crc: '0x64621044'
-- name: THAWED_S
+- name: RDV\THAWED_S
   size: 1366
   date: '1984-11-27T20:14:06'
   crc: '0xbcad9598'
-- name: THRED1
+- name: RDV\THRED1
   size: 686
   date: '1984-11-16T18:23:54'
   crc: '0x3c0c5477'
-- name: THRED2
+- name: RDV\THRED2
   size: 921
   date: '1984-11-16T18:28:00'
   crc: '0x73293487'
-- name: THRED3
+- name: RDV\THRED3
   size: 1461
   date: '1984-11-16T18:29:30'
   crc: '0xbe82afff'
-- name: THREE_WA
+- name: RDV\THREE_WA
   size: 434
   date: '1984-11-27T20:14:34'
   crc: '0xb68a9b15'
-- name: TILE_SQU
+- name: RDV\TILE_SQU
   size: 2685
   date: '1984-11-27T20:15:24'
   crc: '0xa531e08d'
-- name: TITLE
+- name: RDV\TITLE
   size: 1091
   date: '1984-11-21T07:16:38'
   crc: '0x8ea20de0'
-- name: TRAP_LON
+- name: RDV\TRAP_LON
   size: 769
   date: '1984-11-27T20:15:56'
   crc: '0x3ec11333'
-- name: TRAP_MOS
+- name: RDV\TRAP_MOS
   size: 770
   date: '1984-11-27T20:16:30'
   crc: '0x233b559f'
-- name: TRAP_NY
+- name: RDV\TRAP_NY
   size: 769
   date: '1984-11-27T20:17:02'
   crc: '0x84774e97'
-- name: TRAP_PAR
+- name: RDV\TRAP_PAR
   size: 770
   date: '1984-11-27T20:17:36'
   crc: '0x6d075a10'
-- name: TRELLIS
+- name: RDV\TRELLIS
   size: 1379
   date: '1984-11-27T20:18:26'
   crc: '0x9be5cc0e'
-- name: TRIANGLE
+- name: RDV\TRIANGLE
   size: 1031
   date: '1984-11-27T20:19:16'
   crc: '0xdf6e87a7'
-- name: TRILLIUM.IB
+- name: RDV\TRILLIUM.IB
   size: 163
   date: '1984-09-24T15:57:38'
   crc: '0x1e850eef'
-- name: TRILLIUM.JR
+- name: RDV\TRILLIUM.JR
   size: 184
   date: '1984-11-19T23:24:32'
   crc: '0xad636946'
-- name: UTILITY_
+- name: RDV\UTILITY_
   size: 511
   date: '1984-11-27T20:19:50'
   crc: '0xa1e50f90'
-- name: VALLEY_E
+- name: RDV\VALLEY_E
   size: 617
   date: '1984-11-28T11:13:36'
   crc: '0xd5c945c2'
-- name: VOLT
+- name: RDV\VOLT
   size: 3
   date: '1984-10-11T18:26:10'
   crc: '0xdb62a9b6'
-- name: WEST_RAM
+- name: RDV\VOLT.B
+  size: 3
+  date: '1984-11-29T16:54:30'
+  crc: '0xd92417ef'
+- name: RDV\WEST_RAM
   size: 287
   date: '1984-11-27T20:21:02'
   crc: '0x596262d7'
-- name: WILL
+- name: RDV\WILL
   size: 380
   date: '1984-11-19T17:10:46'
   crc: '0xc2fe95c7'
-- name: WIRE_TAP
+- name: RDV\WIRE_TAP
   size: 1550
   date: '1984-11-27T20:21:48'
   crc: '0xb1a7917f'

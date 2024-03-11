@@ -1,8 +1,7 @@
-filename: Tristam Island (demo) (2020)(Hugo Labrande) [Adventure, Interactive Fiction].zip
+filename: Tristam Island r1 [FW] (2020)(Hugo Labrande) [Adventure, Interactive Fiction].zip
 tdc_id: '5082.0'
 title:
   screen: Tristam Island
-  qualifier: demo
 publisher: Hugo Labrande
 year: '2020'
 genre:
@@ -11,10 +10,16 @@ genre:
 language: English
 date:
   added: '2020-10-01T14:44:08'
-  last_modified: '2020-10-01T14:44:08'
+  last_modified: '2024-03-10T07:52:52'
+release: '1'
 type: zip
+tags:
+- Freeware
 media: Download
-demo: true
+commands:
+  play: TRISTAM.BAT
+references:
+  mobygames: https://www.mobygames.com/game/154785/tristam-island/
 files:
 - name: DOSINFO.COM
   size: 12004

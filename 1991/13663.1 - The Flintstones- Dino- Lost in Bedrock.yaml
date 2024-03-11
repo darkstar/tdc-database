@@ -1,19 +1,21 @@
-filename: Flintstones- Dino- Lost in Bedrock, The [a1] (1990)(Hi-Tech Expressions, Inc.) [Action].zip
+filename: Flintstones- Dino- Lost in Bedrock, The (1991)(Hi-Tech Expressions, Inc.) [Action].zip
 tdc_id: '13663.1'
+parent_id: '13663.2'
 title:
   box: 'The Flintstones: Dino: Lost in Bedrock'
 publisher: Hi-Tech Expressions, Inc.
-year: '1990'
+year: '1991'
 genre: Action
 language: English
 date:
   added: '2019-03-01T18:32:38'
-  last_modified: '2019-03-01T18:32:38'
+  last_modified: '2024-03-09T07:36:42'
 type: zip
-tags:
-- Alternate: 1
+media: 360K
 commands:
   play: FRED.EXE
+references:
+  mobygames: https://www.mobygames.com/game/26687/the-flintstones-dino-lost-in-bedrock/
 files:
 - name: BL.CMP
   size: 10340
