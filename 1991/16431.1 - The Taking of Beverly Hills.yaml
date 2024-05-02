@@ -1,5 +1,6 @@
-filename: Taking of Beverly Hills, The [a1] (1991)(Capstone Software) [Action, Adventure].zip
+filename: Taking of Beverly Hills, The r911218 [a1] (1991)(Capstone Software) [Action, Adventure].zip
 tdc_id: '16431.1'
+parent_id: '16431.3'
 title:
   box: The Taking of Beverly Hills
 publisher: Capstone Software
@@ -10,11 +11,16 @@ genre:
 language: English
 date:
   added: '2020-10-26T12:05:30'
-  last_modified: '2020-10-26T12:05:30'
+  last_modified: '2024-04-11T12:04:52'
+release: '911218'
 type: zip
 tags:
 - Alternate: 1
+media: 720K
+commands:
+  play: BH.EXE
 references:
+  mobygames: https://www.mobygames.com/game/25499/the-taking-of-beverly-hills/
   dosid: DOS05018
   exodos: Taking of Beverly Hills, The (1991).zip
 files:
@@ -123,6 +129,10 @@ files:
   date: '1991-08-23T10:30:08'
   crc: '0xb91aaa5e'
 - name: BHIGHS
+  size: 222
+  date: '1980-01-01T00:39:14'
+  crc: '0x36250889'
+- name: BHIGHS.3-4
   size: 222
   date: '1991-12-17T14:30:34'
   crc: '0x6653a022'

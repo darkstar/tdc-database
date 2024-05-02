@@ -1,8 +1,9 @@
-filename: Software Toolworks CD Game Pack, The v1.01 (1990)(Software Toolworks, Inc., The) [Action, Strategy, Compilation].zip
+filename: Software Toolworks CD Game Pack, The v1.01 (1990)(The Software Toolworks, Inc.) [Action, Strategy, Compilation].zip
 tdc_id: '15240.0'
+parent_id: '15240.1'
 title:
   box: The Software Toolworks CD Game Pack
-publisher: Software Toolworks, Inc., The
+publisher: The Software Toolworks, Inc.
 year: '1990'
 genre:
 - Action
@@ -11,12 +12,14 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:34:04'
-  last_modified: '2019-03-01T18:34:04'
+  last_modified: '2024-04-14T14:29:12'
 version: '1.01'
 type: zip
-compilation: true
+media: CD-ROM
 commands:
   play: TOOLWORK.EXE
+references:
+  mobygames: https://www.mobygames.com/game/35676/the-software-toolworks-cd-game-pack/
 files:
 - name: SWT\
   size: 0

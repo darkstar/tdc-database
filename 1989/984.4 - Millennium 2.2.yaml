@@ -1,0 +1,83 @@
+filename: Millennium 2.2 (1989)(Electric Dreams Software) [Strategy].zip
+tdc_id: '984.4'
+parent_id: '984.3'
+title:
+  box: Millennium 2.2
+publisher: Electric Dreams Software
+year: '1989'
+genre: Strategy
+language: English
+date:
+  added: '2024-04-23T09:47:19'
+  last_modified: '2024-04-23T09:47:19'
+type: zip
+media: 360K
+commands:
+  play: START.COM
+references:
+  mobygames: https://www.mobygames.com/game/10796/millennium-return-to-earth/
+files:
+- name: '1'
+  size: 256
+  date: '1980-01-01T00:00:00'
+  crc: '0x9a4301c9'
+- name: '2'
+  size: 256
+  date: '1980-01-01T00:00:00'
+  crc: '0x23503172'
+- name: 2200AD.BIN
+  size: 47999
+  date: '1980-01-06T18:03:52'
+  crc: '0x202a7fc0'
+- name: 2200AD1.BIN
+  size: 62571
+  date: '1980-01-10T15:31:56'
+  crc: '0xb9bbca94'
+- name: 2200AD2.BIN
+  size: 23347
+  date: '1980-01-24T23:40:50'
+  crc: '0x4592d43c'
+- name: 2200AD3.BIN
+  size: 11994
+  date: '1988-03-30T12:18:32'
+  crc: '0x343da2d0'
+- name: 2200AD4.BIN
+  size: 10790
+  date: '1980-01-03T17:56:42'
+  crc: '0xe3616d54'
+- name: 2200AD5.BIN
+  size: 27088
+  date: '1988-04-08T15:00:20'
+  crc: '0x64591096'
+- name: 2200AD6.BIN
+  size: 23704
+  date: '1989-05-12T11:43:32'
+  crc: '0x991e241c'
+- name: 2200AD7.BIN
+  size: 10684
+  date: '1989-05-12T13:03:40'
+  crc: '0x0756d8a8'
+- name: '3'
+  size: 256
+  date: '1980-01-01T00:00:00'
+  crc: '0x2e514159'
+- name: '4'
+  size: 256
+  date: '1980-01-01T00:00:00'
+  crc: '0xa2cb25af'
+- name: '5'
+  size: 8192
+  date: '1980-01-01T00:00:00'
+  crc: '0xcc3a8ae2'
+- name: RUN.COM
+  size: 4294
+  date: '1989-05-25T06:47:10'
+  crc: '0x6b9f30f7'
+- name: RUN.EXE
+  size: 4718
+  date: '1989-05-25T06:45:26'
+  crc: '0xda4c0927'
+- name: START.COM
+  size: 9722
+  date: '1980-01-01T00:00:00'
+  crc: '0x736d469a'

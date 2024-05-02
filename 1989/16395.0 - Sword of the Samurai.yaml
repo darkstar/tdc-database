@@ -1,5 +1,6 @@
 filename: Sword of the Samurai v445.01 (1989)(MicroProse Software, Inc.) [Action, Adventure, Strategy].zip
 tdc_id: '16395.0'
+parent_id: '16395.1'
 title:
   box: Sword of the Samurai
 publisher: MicroProse Software, Inc.
@@ -75,13 +76,19 @@ files:
   size: 4622
   date: '1989-10-27T14:05:40'
   crc: '0x057e152a'
+- name: I♥SAMA01
+  size: 0
+  date: '1980-02-29T00:00:02'
+- name: I♥SAMB01
+  size: 0
+  date: '1980-02-29T00:00:02'
 - name: MELEE.CAT
   size: 21725
   date: '1989-11-01T15:12:00'
   crc: '0x2a8146d4'
 - name: MELEE.EXE
   size: 80615
-  date: '1989-11-07T02:32:00'
+  date: '1989-11-04T19:49:18'
   crc: '0x6fdd3756'
 - name: MELEE.EX_
   size: 80567
@@ -125,7 +132,7 @@ files:
   crc: '0x47e8f910'
 - name: SAMURAI.COM
   size: 3780
-  date: '1989-10-30T17:58:14'
+  date: '1989-10-30T17:58:16'
   crc: '0xaa1efa03'
 - name: SAMURAI.CO_
   size: 9902
@@ -137,7 +144,7 @@ files:
   crc: '0x06bbce9e'
 - name: START.EXE
   size: 39879
-  date: '1989-11-04T20:17:00'
+  date: '1989-11-04T20:17:42'
   crc: '0xc8712f35'
 - name: START.EX_
   size: 39879

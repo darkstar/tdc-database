@@ -1,5 +1,6 @@
-filename: Where in Time is Carmen Sandiego_ v1.01 (1989)(Brøderbund Software, Inc.) [Adventure, Educational].zip
+filename: Where in Time is Carmen Sandiego_ v1.01 (1989)(Brøderbund Software, Inc.) [Adventure, Educational][!].zip
 tdc_id: '7514.1'
+parent_id: '7514.8'
 title:
   box: Where in Time is Carmen Sandiego?
 publisher: Brøderbund Software, Inc.
@@ -10,9 +11,16 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:29:22'
-  last_modified: '2019-03-01T18:29:22'
+  last_modified: '2024-04-22T16:29:36'
 version: '1.01'
 type: zip
+tags:
+- KnownGood
+media: 360K
+commands:
+  play: CARMEN.EXE
+references:
+  mobygames: https://www.mobygames.com/game/6564/where-in-time-is-carmen-sandiego/
 files:
 - name: BUBBLE.DAT
   size: 578
@@ -38,6 +46,15 @@ files:
   size: 233210
   date: '1989-08-08T12:00:00'
   crc: '0x86795fda'
+- name: COUNTRYD.SK1
+  size: 0
+  date: '1989-08-06T14:49:40'
+- name: COUNTRYD.SK2
+  size: 0
+  date: '1989-08-06T15:07:16'
+- name: CTIME V1..01
+  size: 0
+  date: '1980-01-01T01:35:06'
 - name: DIGISND.DAT
   size: 64755
   date: '1989-08-08T12:00:00'

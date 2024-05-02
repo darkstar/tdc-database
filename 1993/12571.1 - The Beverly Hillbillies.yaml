@@ -1,16 +1,21 @@
-filename: Beverly Hillbillies, The (Installer) (1993)(Capstone Software) [Adventure].zip
+filename: Beverly Hillbillies, The v1.00 (Installer) (1993)(Capstone Software) [Adventure].zip
 tdc_id: '12571.1'
+parent_id: '12571.2'
 title:
   box: The Beverly Hillbillies
+  qualifier: Installer
 publisher: Capstone Software
 year: '1993'
 genre: Adventure
 language: English
 date:
   added: '2019-03-01T19:01:30'
-  last_modified: '2019-03-01T19:01:30'
+  last_modified: '2024-04-11T14:08:00'
+version: '1.00'
 type: zip
 installer: true
+references:
+  mobygames: https://www.mobygames.com/game/3291/the-beverly-hillbillies/
 files:
 - name: BHB0001
   size: 22

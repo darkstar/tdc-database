@@ -1,19 +1,21 @@
-filename: Wizball (1987)(Ocean Software Ltd.) [Action].zip
+filename: Wizball (1987)(Ocean Software Ltd., Thunder Mountain) [Action].zip
 tdc_id: '7606.0'
 parent_id: '7606.4'
 title:
   box: Wizball
-publisher: Ocean Software Ltd.
+publisher: Ocean Software Ltd., Thunder Mountain
 year: '1987'
 genre: Action
 language: English
 date:
   added: '2019-03-01T18:25:50'
-  last_modified: '2019-03-01T18:25:50'
+  last_modified: '2024-04-27T13:26:32'
 type: zip
+media: 360K
 commands:
   play: WIZBALL.EXE
 references:
+  mobygames: https://www.mobygames.com/game/526/wizball/
   dosid: DOS05686
   exodos: Wizball (1987).zip
 files:
@@ -63,7 +65,7 @@ files:
   crc: '0xdef64533'
 - name: DISK.EXE
   size: 77600
-  date: '1990-01-13T14:31:06'
+  date: '1987-11-24T19:45:54'
   crc: '0x98d52723'
 - name: DISK.EX_
   size: 77600

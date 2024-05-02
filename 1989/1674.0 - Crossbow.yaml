@@ -1,5 +1,6 @@
-filename: Crossbow (1989)(Absolute Entertainment, Inc.) [Action].zip
+filename: Crossbow (1989)(Absolute Entertainment, Inc.) [Action][!].zip
 tdc_id: '1674.0'
+parent_id: '1674.1'
 title:
   box: Crossbow
 publisher: Absolute Entertainment, Inc.
@@ -8,11 +9,15 @@ genre: Action
 language: English
 date:
   added: '2019-03-01T18:27:32'
-  last_modified: '2019-03-01T18:27:32'
+  last_modified: '2024-04-22T14:41:26'
 type: zip
+tags:
+- KnownGood
+media: 360K
 commands:
   play: CROSSBOW.EXE
 references:
+  mobygames: https://www.mobygames.com/game/10526/crossbow/
   dosid: DOS01567
   exodos: Crossbow (1989).zip
 files:
@@ -60,14 +65,21 @@ files:
   size: 7253
   date: '1989-01-06T01:09:48'
   crc: '0xfe9652ce'
+- name: CBOW.EXE
+  size: 72640
+  date: '1989-01-12T10:15:10'
+  crc: '0xb6c56611'
+- name: CBOW.EX_
+  size: 72640
+  date: '1989-01-12T10:15:10'
+  crc: '0x9c9e1f40'
 - name: COM.CMP
   size: 17189
   date: '1989-03-02T22:11:38'
   crc: '0x9a8b6ce2'
-- name: CROSSBOW.EXE
-  size: 72640
-  date: '1989-01-12T10:15:10'
-  crc: '0xb6c56611'
+- name: CROSSBOW
+  size: 0
+  date: '1989-03-08T15:32:14'
 - name: DESERT.CGA
   size: 12086
   date: '1988-07-15T18:28:46'
@@ -98,8 +110,8 @@ files:
   crc: '0xab0c5fbd'
 - name: HISC.CRY
   size: 81
-  date: '1990-08-08T17:59:26'
-  crc: '0x342e7640'
+  date: '1989-03-08T15:35:06'
+  crc: '0x20a7d7f7'
 - name: INTERIOR.CGA
   size: 7452
   date: '1989-01-08T11:02:18'
@@ -200,3 +212,7 @@ files:
   size: 8728
   date: '1988-12-02T01:05:14'
   crc: '0xf756b14a'
+- name: XEMAG.SYS
+  size: 4607
+  date: '1983-07-17T14:26:36'
+  crc: '0x41355daa'

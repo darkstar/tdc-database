@@ -1,0 +1,116 @@
+filename: Bruce Lee Lives v1.02 [f1] (1989)(The Software Toolworks, Inc.) [Action].zip
+tdc_id: '8863.1'
+title:
+  box: Bruce Lee Lives
+publisher: The Software Toolworks, Inc.
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:27:22'
+  last_modified: '2024-04-14T11:56:16'
+version: '1.02'
+type: zip
+tags:
+- Fixed: 1
+commands:
+  play: BRUCEFIX.COM
+references:
+  mobygames: https://www.mobygames.com/game/660/bruce-lee-lives/
+files:
+- name: BRUCE.EGA
+  size: 340407
+  date: '2011-11-01T18:50:10'
+  crc: '0x9921f711'
+- name: BRUCE.EXE
+  size: 110276
+  date: '2011-11-01T18:49:58'
+  crc: '0x1889dee8'
+- name: BRUCEFIX.COM
+  size: 167
+  date: '2011-10-31T14:03:56'
+  crc: '0x674d9fb3'
+- name: DRAGON.EGA
+  size: 16387
+  date: '2011-11-01T18:50:00'
+  crc: '0x580a747f'
+- name: LOGO.EGA
+  size: 36539
+  date: '2011-11-01T18:50:00'
+  crc: '0xc3fd4040'
+- name: MISSION0.EGA
+  size: 14002
+  date: '2011-11-01T18:50:00'
+  crc: '0xa542cd5d'
+- name: MISSION1.EGA
+  size: 11126
+  date: '2011-11-01T18:50:02'
+  crc: '0x9a48605c'
+- name: MISSION2.EGA
+  size: 23758
+  date: '2011-11-01T18:50:02'
+  crc: '0xd3a62436'
+- name: MISSION3.BIN
+  size: 3736
+  date: '2011-11-01T18:50:10'
+  crc: '0x93b21c10'
+- name: MISSION3.EGA
+  size: 62693
+  date: '2011-11-01T18:50:02'
+  crc: '0x2b9d0e27'
+- name: MISSION4.BIN
+  size: 940
+  date: '2011-11-01T18:50:10'
+  crc: '0x56627f90'
+- name: MISSION4.EGA
+  size: 21369
+  date: '2011-11-01T18:50:02'
+  crc: '0xeddbd83d'
+- name: MISSION5.BIN
+  size: 4175
+  date: '2011-11-01T18:50:10'
+  crc: '0x31adb0a2'
+- name: MISSION5.EGA
+  size: 40204
+  date: '2011-11-01T18:50:04'
+  crc: '0x22bf5031'
+- name: PLAYERS.BIN
+  size: 32843
+  date: '2011-11-01T18:50:10'
+  crc: '0x8fcb4c4e'
+- name: RMN3_12.@
+  size: 1872
+  date: '2011-11-01T18:50:10'
+  crc: '0x9994a6e7'
+- name: SCORES.BIN
+  size: 1200
+  date: '2011-11-01T18:50:10'
+  crc: '0x0c4e4a69'
+- name: SETUP.BIN
+  size: 15
+  date: '2011-11-01T18:49:58'
+  crc: '0x78b92ca3'
+- name: SSD10_16.@
+  size: 1980
+  date: '2011-11-01T18:50:10'
+  crc: '0x87d53aba'
+- name: SSF1_15.@
+  size: 3950
+  date: '2011-11-01T18:50:10'
+  crc: '0x58c2b550'
+- name: STORY.BIN
+  size: 12553
+  date: '2011-11-01T18:50:10'
+  crc: '0xd3a1e559'
+- name: STORY.EGA
+  size: 35429
+  date: '2011-11-01T18:50:04'
+  crc: '0x7d47d9eb'
+- name: TRAINING.EGA
+  size: 24731
+  date: '2011-11-01T18:50:04'
+  crc: '0xa34a3aa8'
+- name: WWN.EGA
+  size: 621
+  date: '2011-11-01T18:50:04'
+  crc: '0x3a9a838c'

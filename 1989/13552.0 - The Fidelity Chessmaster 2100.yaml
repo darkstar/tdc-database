@@ -1,8 +1,8 @@
-filename: Fidelity Chessmaster 2100, The v1.15 (1989)(Software Toolworks, Inc., The) [Strategy, Chess].zip
+filename: Fidelity Chessmaster 2100, The v1.15 (1989)(The Software Toolworks, Inc.) [Strategy, Chess].zip
 tdc_id: '13552.0'
 title:
   box: The Fidelity Chessmaster 2100
-publisher: Software Toolworks, Inc., The
+publisher: The Software Toolworks, Inc.
 year: '1989'
 genre:
 - Strategy
@@ -10,12 +10,13 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:27:46'
-  last_modified: '2019-03-01T18:27:46'
+  last_modified: '2024-04-14T12:30:50'
 version: '1.15'
 type: zip
 commands:
   play: 2100.EXE
 references:
+  mobygames: https://www.mobygames.com/game/11/the-fidelity-chessmaster-2100/
   dosid: DOS02128
   exodos: Fidelity Chessmaster 2100, The (1989).zip
 files:

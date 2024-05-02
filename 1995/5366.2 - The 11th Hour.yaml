@@ -1,4 +1,4 @@
-filename: 11th Hour, The (1995)(Virgin Interactive Entertainment, Inc.) [ISO].zip
+filename: 11th Hour, The (1995)(Virgin Interactive Entertainment, Inc.) [bin-cue].zip
 tdc_id: '5366.2'
 title:
   box: The 11th Hour
@@ -9,24 +9,40 @@ language: English
 date:
   added: '2023-02-20T12:07:08'
   last_modified: '2023-02-20T12:07:08'
-type: ISO
+type: bin-cue
 media: CD-ROM
 references:
   mobygames: https://www.mobygames.com/game/dos/11th-hour
 files:
-- name: cd1.iso
-  size: 525963264
-  date: '2007-08-02T22:35:40'
-  crc: '0x6654d8d6'
-- name: cd2.iso
-  size: 651364352
-  date: '2007-08-03T05:38:40'
-  crc: '0x58dd26af'
-- name: cd3.iso
-  size: 595685376
-  date: '2007-08-04T00:00:50'
-  crc: '0xbfae1d1b'
-- name: cd4.iso
-  size: 631117824
-  date: '2007-08-05T13:13:40'
-  crc: '0x8f84dfa6'
+- name: 11th Hour, The (USA) (Disc 1).bin
+  size: 604388736
+  date: '2015-08-19T18:45:20'
+  crc: '0x04e460b9'
+- name: 11th Hour, The (USA) (Disc 1).cue
+  size: 118
+  date: '2018-05-17T10:28:46'
+  crc: '0x41598a6a'
+- name: 11th Hour, The (USA) (Disc 2).bin
+  size: 748404048
+  date: '2015-08-19T18:46:30'
+  crc: '0xb7459684'
+- name: 11th Hour, The (USA) (Disc 2).cue
+  size: 118
+  date: '2018-05-17T10:28:46'
+  crc: '0x4004acbb'
+- name: 11th Hour, The (USA) (Disc 3).bin
+  size: 684460224
+  date: '2015-08-19T18:47:16'
+  crc: '0xb0841956'
+- name: 11th Hour, The (USA) (Disc 3).cue
+  size: 118
+  date: '2018-05-17T10:28:46'
+  crc: '0xf61f4ccb'
+- name: 11th Hour, The (USA) (Disc 4).bin
+  size: 725152176
+  date: '2015-08-19T18:47:56'
+  crc: '0x2d4af438'
+- name: 11th Hour, The (USA) (Disc 4).cue
+  size: 118
+  date: '2018-05-17T10:28:46'
+  crc: '0x42bee119'

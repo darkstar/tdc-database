@@ -1,0 +1,153 @@
+filename: Life & Death II- The Brain v1.1 [f1] (1990)(The Software Toolworks, Inc.) [Simulation, Strategy].zip
+tdc_id: '5590.3'
+parent_id: '5590.1'
+title:
+  box: 'Life & Death II: The Brain'
+publisher: The Software Toolworks, Inc.
+year: '1990'
+genre:
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2021-10-26T21:56:56'
+  last_modified: '2024-04-15T07:00:57'
+version: '1.1'
+type: zip
+tags:
+- Fixed: 1
+commands:
+  play: LD2.EXE
+  setup: SETUP.BAT
+references:
+  mobygames: https://www.mobygames.com/game/4474/life-death-ii-the-brain/
+  dosid: DOS03159
+  exodos: Life and Death 2 - The Brain (1990).zip
+files:
+- name: ANIM.EGA
+  size: 85450
+  date: '1990-11-28T10:00:00'
+  crc: '0x10742d2f'
+- name: ANIM.VGA
+  size: 136645
+  date: '1990-11-28T10:00:00'
+  crc: '0xcacf47a4'
+- name: CLASS.EGA
+  size: 20078
+  date: '1990-11-28T10:00:00'
+  crc: '0xcd5f49f5'
+- name: CLASS.VGA
+  size: 25618
+  date: '1990-11-28T10:00:00'
+  crc: '0xcccce668'
+- name: CONFIG\
+  size: 0
+  date: '2021-10-26T17:41:46'
+- name: CONFIG\A.DAT
+  size: 18
+  date: '1980-01-01T12:00:00'
+  crc: '0x2f530d80'
+- name: CONFIG\E.DAT
+  size: 2
+  date: '1980-01-01T12:00:00'
+  crc: '0x73ef707d'
+- name: CONFIG\N.DAT
+  size: 6
+  date: '1980-01-01T12:00:00'
+  crc: '0x21f8f7ac'
+- name: CONFIG\P.DAT
+  size: 18
+  date: '1980-01-01T12:00:00'
+  crc: '0xc5d5d0e2'
+- name: CONFIG\S.DAT
+  size: 18
+  date: '1980-01-01T12:00:00'
+  crc: '0x212fb105'
+- name: CONFIG\T.DAT
+  size: 2
+  date: '1980-01-01T12:00:00'
+  crc: '0x6af4413c'
+- name: CONFIG\U.DAT
+  size: 6
+  date: '1980-01-01T12:00:00'
+  crc: '0xeaa42409'
+- name: CONFIG\V.DAT
+  size: 2
+  date: '1980-01-01T12:00:00'
+  crc: '0x58c223be'
+- name: CONFIG\X.DAT
+  size: 6
+  date: '1980-01-01T12:00:00'
+  crc: '0x6c3056a7'
+- name: DIMAGES.EGA
+  size: 196333
+  date: '1990-11-28T10:00:00'
+  crc: '0xdfcb732f'
+- name: DIMAGES.VGA
+  size: 342761
+  date: '1990-11-28T10:00:00'
+  crc: '0xdb275275'
+- name: EGA.STK
+  size: 9271
+  date: '1990-11-28T12:00:00'
+  crc: '0x434453db'
+- name: HIMAGES.EGA
+  size: 189727
+  date: '1990-11-28T10:00:00'
+  crc: '0x5cd04b7c'
+- name: HIMAGES.VGA
+  size: 352635
+  date: '1990-11-28T10:00:00'
+  crc: '0xa1a085d2'
+- name: HOSPITAL.RSC
+  size: 129800
+  date: '1990-12-01T10:00:00'
+  crc: '0xdaac31e9'
+- name: LD2.EXE
+  size: 194936
+  date: '1990-11-29T16:22:06'
+  crc: '0x590ce605'
+- name: LD2.EX_
+  size: 194936
+  date: '1990-11-29T16:22:06'
+  crc: '0x2c26c624'
+- name: MC.EGA
+  size: 230
+  date: '1990-11-28T10:00:00'
+  crc: '0x3962f392'
+- name: MC.VGA
+  size: 232
+  date: '1990-11-28T10:00:00'
+  crc: '0x8e9f15ce'
+- name: OP.EXE
+  size: 175886
+  date: '1990-11-29T16:09:28'
+  crc: '0x7b7a4b45'
+- name: OP_IMAGE.EGA
+  size: 224661
+  date: '1990-11-28T10:00:00'
+  crc: '0xb78633f4'
+- name: OP_IMAGE.VGA
+  size: 348079
+  date: '1990-11-28T10:00:00'
+  crc: '0xea417fef'
+- name: OP_SOUND.RES
+  size: 59382
+  date: '1990-11-28T10:00:00'
+  crc: '0x231d5092'
+- name: SETUP.BAT
+  size: 938
+  date: '2021-10-26T21:55:44'
+  crc: '0xdca94fcb'
+- name: TITLE.EGA
+  size: 13014
+  date: '1990-11-28T10:00:00'
+  crc: '0xaa2d30b5'
+- name: TITLE.VGA
+  size: 20286
+  date: '1990-11-28T10:00:00'
+  crc: '0xd37a15fe'
+- name: VGA.STK
+  size: 9271
+  date: '1990-11-28T12:00:00'
+  crc: '0x65c69ce2'

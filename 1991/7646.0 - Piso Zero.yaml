@@ -1,21 +1,19 @@
-filename: Piso Zero (Es) [h1] (1991)(Zigurat Software S.L.) [Action].zip
+filename: Piso Zero (Es) (1991)(Zigurat Software S.L.) [Action].zip
 tdc_id: '7646.0'
 title:
-  screen: Piso Zero
+  box: Piso Zero
 publisher: Zigurat Software S.L.
 year: '1991'
 genre: Action
 language: Spanish
 date:
   added: '2019-03-01T18:37:24'
-  last_modified: '2023-02-16T15:23:13'
+  last_modified: '2024-04-24T09:02:06'
 type: zip
-tags:
-- Hack: 1
 commands:
-  play: Piso0.com
+  play: PISO.COM
 references:
-  mobygames: http://www.mobygames.com/game/dos/piso-zero
+  mobygames: https://www.mobygames.com/game/49608/piso-zero/
   dosid: DOS04023
   exodos: Piso Zero (1991).zip
 files:
@@ -31,6 +29,10 @@ files:
   size: 36864
   date: '1991-11-13T20:53:30'
   crc: '0x511dba62'
+- name: HISCORE.ZRO
+  size: 374
+  date: '1991-11-15T13:56:02'
+  crc: '0x1c46655e'
 - name: LETRASDT.CGA
   size: 4096
   date: '1990-11-02T11:06:22'
@@ -46,11 +48,15 @@ files:
 - name: PISO.CGA
   size: 36593
   date: '1991-11-18T11:11:26'
-  crc: '0x788fe105'
+  crc: '0x07d58d7a'
+- name: PISO.COM
+  size: 569
+  date: '1991-11-15T12:55:30'
+  crc: '0xd9dbc81e'
 - name: PISO.EGA
   size: 39217
   date: '1991-11-18T11:12:12'
-  crc: '0x4c1b14a9'
+  crc: '0x266ad583'
 - name: PRESENT0.EGA
   size: 65535
   date: '1991-11-15T13:19:42'
@@ -63,10 +69,6 @@ files:
   size: 16384
   date: '1991-11-09T00:42:06'
   crc: '0x41f44e2e'
-- name: Piso0.com
-  size: 569
-  date: '1992-04-12T14:15:14'
-  crc: '0xd9dbc81e'
 - name: SCREGRF.CGA
   size: 4096
   date: '1980-01-01T00:09:52'

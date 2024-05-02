@@ -1,7 +1,9 @@
-filename: Metaltech- EarthSiege Speech Pack (Installer) (1994)(Sierra On-Line, Inc.) [Simulation, Addon].zip
+filename: Metaltech- EarthSiege Speech Pack v1.0 (Installer) (1994)(Sierra On-Line, Inc.) [Simulation, Addon][!].zip
 tdc_id: '14239.7'
+parent_id: '14239.19'
 title:
   box: 'Metaltech: EarthSiege Speech Pack'
+  qualifier: Installer
 publisher: Sierra On-Line, Inc.
 year: '1994'
 genre:
@@ -10,55 +12,63 @@ genre:
 language: English
 date:
   added: '2020-06-10T16:37:36'
-  last_modified: '2020-06-10T16:37:36'
+  last_modified: '2024-04-16T14:44:30'
+version: '1.0'
 type: zip
+tags:
+- KnownGood
+media: 1.44M
 installer: true
+commands:
+  play: INSTALL.BAT
+references:
+  mobygames: https://www.mobygames.com/game/6382/metaltech-earthsiege-speech-pack/
 files:
 - name: COPYFILZ.EXE
   size: 75972
-  date: '1994-10-23T11:00:00'
+  date: '1994-10-24T01:00:00'
   crc: '0x2d452473'
 - name: INSTALL.BAT
   size: 466
-  date: '1994-10-23T11:00:00'
+  date: '1994-10-24T01:00:00'
   crc: '0xcddf8c9e'
 - name: INSTALL.HLP
   size: 20894
-  date: '1994-10-23T11:00:00'
+  date: '1994-10-24T01:00:00'
   crc: '0x529f6fee'
 - name: INSTALL.SCR
   size: 3188
-  date: '1994-10-23T11:00:00'
+  date: '1994-10-24T01:00:00'
   crc: '0x7b0d49a9'
 - name: INSTALL.TXT
   size: 9501
-  date: '1994-10-23T11:00:00'
+  date: '1994-10-24T01:00:00'
   crc: '0x1e23be7f'
 - name: RESOURCE.000
   size: 1099676
-  date: '1994-10-23T11:00:00'
+  date: '1994-10-24T01:00:00'
   crc: '0xbb998159'
 - name: RESOURCE.001
   size: 1456730
-  date: '1994-10-23T11:00:00'
+  date: '1994-10-24T01:00:00'
   crc: '0x48a432c5'
 - name: RESOURCE.002
   size: 1456635
-  date: '1994-10-23T11:00:00'
+  date: '1994-10-24T01:00:00'
   crc: '0x465b626e'
 - name: RESOURCE.003
   size: 1334958
-  date: '1994-10-23T11:00:00'
+  date: '1994-10-24T01:00:00'
   crc: '0x70844b91'
 - name: RESOURCE.CFG
   size: 113
-  date: '1994-10-23T11:00:00'
+  date: '1994-10-24T01:00:00'
   crc: '0xb6f8d3e1'
 - name: SETPREF.EXE
   size: 38793
-  date: '1994-10-23T11:00:00'
+  date: '1994-10-24T01:00:00'
   crc: '0xa5ef29c2'
 - name: UNCHUNK.EXE
   size: 15926
-  date: '1994-10-23T11:00:00'
+  date: '1994-10-24T01:00:00'
   crc: '0xceddc4ab'

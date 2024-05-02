@@ -1,0 +1,100 @@
+filename: Trolls (demo) (1992)(Capstone Software) [Action].zip
+tdc_id: '16948.11'
+title:
+  screen: Trolls
+  qualifier: demo
+publisher: Capstone Software
+year: '1992'
+genre: Action
+language: English
+date:
+  added: '2024-04-10T10:48:52'
+  last_modified: '2024-04-10T15:04:57'
+type: zip
+media: Download
+demo: true
+commands:
+  play: DEMO.BAT
+references:
+  mobygames: https://www.mobygames.com/game/6522/trolls/
+files:
+- name: ALGAME02.ZER
+  size: 12300
+  date: '1992-09-16T08:58:56'
+  crc: '0xd4c8aef7'
+- name: BRIDGE02.TAB
+  size: 240
+  date: '1992-08-25T12:05:58'
+  crc: '0x60f1b94d'
+- name: DEMO.BAT
+  size: 29
+  date: '1992-10-02T07:20:50'
+  crc: '0x15abcd14'
+- name: FAIRPAL.COL
+  size: 768
+  date: '1992-09-28T08:06:16'
+  crc: '0x7670572f'
+- name: FANTPAL.COL
+  size: 768
+  date: '1992-08-25T11:25:54'
+  crc: '0xe3ca33d7'
+- name: FANTSY01.ZER
+  size: 29118
+  date: '1992-09-03T07:34:44'
+  crc: '0x64e0a2c1'
+- name: FANTSY02.ZER
+  size: 28952
+  date: '1992-09-03T07:35:30'
+  crc: '0x431be5cd'
+- name: LEVEL02.MAP
+  size: 40960
+  date: '1989-07-29T00:03:14'
+  crc: '0xe21f4b5f'
+- name: LIFTS02.TAB
+  size: 480
+  date: '1992-08-28T14:25:06'
+  crc: '0xc632bcf1'
+- name: LOADPIC.EXE
+  size: 54137
+  date: '1992-09-04T13:00:28'
+  crc: '0xbe26b0f0'
+- name: LVDATA00.TAB
+  size: 496
+  date: '1992-10-02T16:22:54'
+  crc: '0x2dc6625e'
+- name: LVDATA02.TAB
+  size: 496
+  date: '1992-09-22T08:02:22'
+  crc: '0x6fe35771'
+- name: MONSTR01.TAB
+  size: 400
+  date: '1992-08-06T11:30:56'
+  crc: '0x0a7d43e7'
+- name: MONSTR02.TAB
+  size: 400
+  date: '1992-09-03T07:59:40'
+  crc: '0x9d7c331d'
+- name: MONSTR02.ZER
+  size: 24132
+  date: '1992-09-02T11:38:54'
+  crc: '0x14a1a960'
+- name: PANEL.ZER
+  size: 13876
+  date: '1992-09-16T07:40:54'
+  crc: '0x6f74f138'
+- name: PICKUPS0.ZER
+  size: 17034
+  date: '1992-08-19T07:40:48'
+  crc: '0x8ca96d99'
+- name: SPRING02.TAB
+  size: 320
+  date: '1992-08-25T12:03:08'
+  crc: '0x053eceb7'
+- name: TROLLS.EXE
+  size: 62035
+  date: '1992-10-05T12:47:52'
+  crc: '0x665480c6'
+- name: TROLSPR1.ZER
+  size: 24394
+  date: '1992-09-21T13:55:34'
+  crc: '0x5e6be408'

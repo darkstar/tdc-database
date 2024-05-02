@@ -1,0 +1,43 @@
+filename: PC Prim - Les Tables (Fr) (1987)(Carraz Editions) [Educational].zip
+tdc_id: '10132.0'
+title:
+  box: PC Prim - Les Tables
+publisher: Carraz Editions
+year: '1987'
+genre: Educational
+language: French
+date:
+  added: '2019-02-18T03:57:02'
+  last_modified: '2024-04-23T19:23:31'
+type: zip
+commands:
+  play: TABLES.COM
+files:
+- name: NBEXOTA.DTA
+  size: 2
+  date: '1987-11-25T16:10:50'
+  crc: '0x58c223be'
+- name: NIVATAB.DTA
+  size: 198
+  date: '1987-11-11T17:49:02'
+  crc: '0x3b5e522d'
+- name: PARTAB.DTA
+  size: 18
+  date: '1987-11-07T10:15:22'
+  crc: '0x9383f281'
+- name: RESTAB.DTA
+  size: 46
+  date: '1987-11-25T16:10:52'
+  crc: '0x098f8e42'
+- name: SIGTAB.DTA
+  size: 2
+  date: '2019-02-16T15:34:58'
+  crc: '0x58c223be'
+- name: TABLES.000
+  size: 768
+  date: '1987-11-20T16:34:04'
+  crc: '0xb4569b1f'
+- name: TABLES.COM
+  size: 61337
+  date: '1987-11-25T16:09:04'
+  crc: '0xb5f1c9a3'

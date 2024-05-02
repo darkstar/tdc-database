@@ -1,4 +1,4 @@
-filename: Beverly Hillbillies, The (1993)(Capstone Software) [Adventure].zip
+filename: Beverly Hillbillies, The v1.00 (1993)(Capstone Software) [Adventure].zip
 tdc_id: '12571.0'
 parent_id: '12571.1'
 title:
@@ -9,9 +9,14 @@ genre: Adventure
 language: English
 date:
   added: '2019-03-01T19:01:30'
-  last_modified: '2019-03-01T19:01:30'
+  last_modified: '2024-04-11T14:08:46'
+version: '1.00'
 type: zip
+commands:
+  play: HB.EXE
+  setup: CONFIG.EXE
 references:
+  mobygames: https://www.mobygames.com/game/3291/the-beverly-hillbillies/
   dosid: DOS01023
   exodos: Beverly Hillbillies, The (1993).zip
 files:
@@ -173,8 +178,8 @@ files:
   crc: '0xc7707a40'
 - name: SOUNDRV.COM
   size: 2832
-  date: '1998-09-22T22:13:42'
-  crc: '0xe556d9f4'
+  date: '1993-10-22T14:39:56'
+  crc: '0x04731928'
 - name: SOUNDRV.CVX
   size: 2624
   date: '1992-11-13T08:23:58'

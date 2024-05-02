@@ -1,18 +1,19 @@
-filename: Qbasic Gorillas (1991)(Microsoft Corporation) [Strategy].zip
+filename: QBasic Gorillas (1991)(IBM, Microsoft Corporation) [Strategy].zip
 tdc_id: '10771.1'
 title:
-  screen: Qbasic Gorillas
-publisher: Microsoft Corporation
+  screen: QBasic Gorillas
+publisher: IBM, Microsoft Corporation
 year: '1991'
 genre: Strategy
 language: English
 date:
   added: '2019-03-01T18:37:30'
-  last_modified: '2019-03-01T18:37:30'
+  last_modified: '2024-04-13T08:06:09'
 type: zip
-media: Download
 commands:
   play: Gorillas.bat
+references:
+  mobygames: https://www.mobygames.com/game/22839/ms-dos-5-included-games/
 files:
 - name: Gorillas.bat
   size: 27

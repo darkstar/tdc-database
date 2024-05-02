@@ -1,8 +1,10 @@
-filename: North & South (Installer) (Fr)(En)(De) (1994)(Infogrames) [Action, Strategy].zip
+filename: North & South (Installer) (Fr)(En)(De) (1994)(Infogrames, Action Sixteen) [Action, Strategy].zip
 tdc_id: '8479.4'
+parent_id: '8479.2'
 title:
   box: North & South
-publisher: Infogrames
+  qualifier: Installer
+publisher: Infogrames, Action Sixteen
 year: '1994'
 genre:
 - Action
@@ -13,23 +15,22 @@ language:
 - German
 date:
   added: '2019-03-01T22:02:24'
-  last_modified: '2019-03-01T22:02:24'
+  last_modified: '2024-04-22T08:58:35'
 type: zip
+media: CD-ROM
 installer: true
 commands:
   play: GO.BAT
+references:
+  mobygames: https://www.mobygames.com/game/6926/north-south/
 files:
 - name: GO.BAT
   size: 386
   date: '1994-11-01T18:09:52'
   crc: '0xddc04058'
-- name: MANUAL.TXT
-  size: 8536
-  date: '1995-08-22T13:23:10'
-  crc: '0xe4a0310a'
 - name: NANDS.CD\
   size: 0
-  date: '1997-05-11T13:35:08'
+  date: '1994-10-26T19:35:34'
 - name: NANDS.CD\ACTION16.EXE
   size: 22412
   date: '1993-10-06T08:56:36'

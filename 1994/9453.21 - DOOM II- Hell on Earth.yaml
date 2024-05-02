@@ -1,37 +1,40 @@
-filename: DOOM II- Hell on Earth v1.666 (1994)(id Software, Inc.) [IMA][1440k][!].zip
+filename: DOOM II- Hell on Earth v1.666 (1994)(GT Interactive Software Corp., id Software, Inc.) [IMA][1440k][!].zip
 tdc_id: '9453.21'
+parent_id: '9453.22'
 title:
   box: 'DOOM II: Hell on Earth'
-publisher: id Software, Inc.
+publisher: GT Interactive Software Corp., id Software, Inc.
 year: '1994'
 genre: IMA
 language: English
 date:
   added: '2023-02-27T10:46:32'
-  last_modified: '2023-02-27T10:46:32'
+  last_modified: '2024-04-16T14:55:45'
 version: '1.666'
 type: IMA
 tags:
 - KnownGood
 media: 1.44M
+references:
+  mobygames: https://www.mobygames.com/game/299/doom-ii/
 files:
 - name: disk1.ima
   size: 1474560
-  date: '2010-12-27T01:53:14'
+  date: '2024-04-11T11:03:28'
   crc: '0xbf080133'
 - name: disk2.ima
   size: 1474560
-  date: '2010-12-27T01:53:30'
+  date: '2024-04-11T11:07:52'
   crc: '0xb0f69ffe'
 - name: disk3.ima
   size: 1474560
-  date: '2010-12-27T01:53:56'
+  date: '2024-04-11T11:12:14'
   crc: '0x990c3a96'
 - name: disk4.ima
   size: 1474560
-  date: '2010-12-27T01:54:26'
+  date: '2024-04-11T11:16:40'
   crc: '0xf0d3452f'
 - name: disk5.ima
   size: 1474560
-  date: '2010-12-27T01:54:44'
+  date: '2024-04-11T11:21:02'
   crc: '0xb3a14141'

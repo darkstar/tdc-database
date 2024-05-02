@@ -1,8 +1,9 @@
-filename: Cribbage King - Gin King v1.08 (Installer) (1990)(Software Toolworks, Inc., The) [Strategy, Cards, Compilation].zip
+filename: Cribbage King - Gin King v1.08 (Installer) (1990)(The Software Toolworks, Inc.) [Strategy, Cards, Compilation].zip
 tdc_id: '9083.0'
 title:
   box: Cribbage King - Gin King
-publisher: Software Toolworks, Inc., The
+  qualifier: Installer
+publisher: The Software Toolworks, Inc.
 year: '1990'
 genre:
 - Strategy
@@ -11,15 +12,14 @@ genre:
 language: English
 date:
   added: '2023-01-31T12:58:23'
-  last_modified: '2023-01-31T12:58:23'
+  last_modified: '2024-04-14T14:14:16'
 version: '1.08'
 type: zip
 installer: true
-compilation: true
 commands:
   play: INSTALL.EXE
 references:
-  mobygames: https://www.mobygames.com/game/cribbage-king-gin-king
+  mobygames: https://www.mobygames.com/game/10902/cribbage-king-gin-king/
 files:
 - name: CG1.TZF
   size: 315442

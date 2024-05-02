@@ -1,0 +1,154 @@
+filename: Life & Death II- The Brain v1.1 (Es) (1991)(The Software Toolworks, Inc.) [Simulation, Strategy].zip
+tdc_id: '5590.0'
+title:
+  box: 'Life & Death II: The Brain'
+publisher: The Software Toolworks, Inc.
+year: '1991'
+genre:
+- Simulation
+- Strategy
+language: Spanish
+date:
+  added: '2019-03-01T18:36:38'
+  last_modified: '2024-04-15T07:01:50'
+version: '1.1'
+type: zip
+commands:
+  play: Play.bat
+references:
+  mobygames: https://www.mobygames.com/game/4474/life-death-ii-the-brain/
+files:
+- name: EGA\
+  size: 0
+  date: '2014-11-22T16:01:12'
+- name: EGA\ANIM.EGA
+  size: 85450
+  date: '2012-06-06T13:35:36'
+  crc: '0x5d8b1fae'
+- name: EGA\CLASS.EGA
+  size: 20078
+  date: '2012-06-06T13:35:36'
+  crc: '0x22469023'
+- name: EGA\CONFIG.DAT
+  size: 26
+  date: '2012-06-06T13:35:32'
+  crc: '0x2c59e1c2'
+- name: EGA\DIMAGES.EGA
+  size: 196361
+  date: '2012-06-06T13:35:36'
+  crc: '0xd6ea943e'
+- name: EGA\DOCTORS.DAT
+  size: 4231
+  date: '2012-06-06T13:36:24'
+  crc: '0xef0b5792'
+- name: EGA\EGA.STK
+  size: 9272
+  date: '2012-06-06T13:35:26'
+  crc: '0x08773bc6'
+- name: EGA\HIMAGES.EGA
+  size: 189727
+  date: '2012-06-06T13:35:36'
+  crc: '0xd76ef6d6'
+- name: EGA\HOSPITAL.RSC
+  size: 134493
+  date: '2012-06-06T13:35:36'
+  crc: '0xdb76d331'
+- name: EGA\LD2.EXE
+  size: 194936
+  date: '1994-07-17T14:28:02'
+  crc: '0x590ce605'
+- name: EGA\LERROR.DAT
+  size: 172
+  date: '2012-06-06T13:36:24'
+  crc: '0xf1a48a39'
+- name: EGA\MC.EGA
+  size: 230
+  date: '2012-06-06T13:35:36'
+  crc: '0xa77b2abb'
+- name: EGA\OP.EXE
+  size: 178958
+  date: '2012-06-06T13:35:36'
+  crc: '0x571c6b06'
+- name: EGA\OP_IMAGE.EGA
+  size: 224661
+  date: '2012-06-06T13:35:36'
+  crc: '0xb78633f4'
+- name: EGA\OP_SOUND.RES
+  size: 59673
+  date: '2012-06-06T13:35:36'
+  crc: '0x6603fef7'
+- name: EGA\TITLE.EGA
+  size: 13014
+  date: '2012-06-06T13:35:36'
+  crc: '0xa35c04e7'
+- name: Play.bat
+  size: 608
+  date: '2012-06-06T15:08:44'
+  crc: '0xcc74e028'
+- name: RESPOND.COM
+  size: 89
+  date: '1991-03-28T03:30:12'
+  crc: '0xd2788c61'
+- name: VGA\
+  size: 0
+  date: '2014-11-22T16:01:12'
+- name: VGA\ANIM.VGA
+  size: 136645
+  date: '2012-06-06T13:32:24'
+  crc: '0x24f9b40a'
+- name: VGA\CLASS.VGA
+  size: 25618
+  date: '2012-06-06T13:32:24'
+  crc: '0x7d66aacc'
+- name: VGA\CONFIG.DAT
+  size: 26
+  date: '2012-06-06T13:32:20'
+  crc: '0xabab9bc6'
+- name: VGA\DIMAGES.VGA
+  size: 343080
+  date: '2012-06-06T13:32:24'
+  crc: '0x132efa53'
+- name: VGA\DOCTORS.DAT
+  size: 6471
+  date: '2012-06-06T13:49:42'
+  crc: '0x47e3aa88'
+- name: VGA\HIMAGES.VGA
+  size: 352635
+  date: '2012-06-06T13:32:24'
+  crc: '0xa1a085d2'
+- name: VGA\HOSPITAL.RSC
+  size: 134493
+  date: '2012-06-06T13:32:24'
+  crc: '0xdb76d331'
+- name: VGA\LD2.EXE
+  size: 194936
+  date: '1994-07-17T14:28:02'
+  crc: '0x590ce605'
+- name: VGA\LERROR.DAT
+  size: 172
+  date: '2012-06-06T13:49:42'
+  crc: '0xf1a48a39'
+- name: VGA\MC.VGA
+  size: 232
+  date: '2012-06-06T13:32:24'
+  crc: '0x8e9f15ce'
+- name: VGA\OP.EXE
+  size: 178958
+  date: '2012-06-06T13:32:24'
+  crc: '0x571c6b06'
+- name: VGA\OP_IMAGE.VGA
+  size: 348079
+  date: '2012-06-06T13:32:24'
+  crc: '0x8f28a02b'
+- name: VGA\OP_SOUND.RES
+  size: 59673
+  date: '2012-06-06T13:32:24'
+  crc: '0x6603fef7'
+- name: VGA\TITLE.VGA
+  size: 20286
+  date: '2012-06-06T13:32:24'
+  crc: '0x4f292674'
+- name: VGA\VGA.STK
+  size: 9272
+  date: '2012-06-06T13:32:16'
+  crc: '0xcbaab34c'

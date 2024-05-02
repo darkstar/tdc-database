@@ -1,5 +1,6 @@
 filename: Robot Odyssey v1.1 (1985)(The Learning Company) [Adventure, Educational].zip
 tdc_id: '6485.0'
+parent_id: '6485.2'
 title:
   box: Robot Odyssey
 publisher: The Learning Company
@@ -64,7 +65,7 @@ files:
 - name: GAME.EXE
   size: 110239
   date: '1986-04-07T10:42:12'
-  crc: '0x9618a881'
+  crc: '0xba3fbaa4'
 - name: GAME.EX_
   size: 110239
   date: '1986-04-07T10:42:12'
@@ -116,7 +117,7 @@ files:
 - name: LAB.EXE
   size: 89199
   date: '1986-03-18T10:51:40'
-  crc: '0x009e77f9'
+  crc: '0x2cb965dc'
 - name: LAB.EX_
   size: 89199
   date: '1986-03-18T10:51:40'
@@ -145,10 +146,6 @@ files:
   size: 1605
   date: '1986-02-04T21:31:52'
   crc: '0xdf30bfc5'
-- name: PLAY.EX_
-  size: 1605
-  date: '1986-02-04T21:31:52'
-  crc: '0x1038ae1a'
 - name: PULSE.CHP
   size: 19
   date: '1985-09-13T21:39:18'

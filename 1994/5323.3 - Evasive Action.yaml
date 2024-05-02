@@ -1,19 +1,22 @@
-filename: Evasive Action v1.37 (Installer) [a2] (1994)(Software Toolworks, Inc., The) [Simulation].zip
+filename: Evasive Action v1.37 (Installer) [a2] (1994)(The Software Toolworks, Inc.) [Simulation].zip
 tdc_id: '5323.3'
 title:
   box: Evasive Action
-publisher: Software Toolworks, Inc., The
+  qualifier: Installer
+publisher: The Software Toolworks, Inc.
 year: '1994'
 genre: Simulation
 language: English
 date:
   added: '2019-03-01T21:56:34'
-  last_modified: '2019-03-01T21:56:34'
+  last_modified: '2024-04-15T07:14:48'
 version: '1.37'
 type: zip
 tags:
 - Alternate: 2
 installer: true
+references:
+  mobygames: https://www.mobygames.com/game/3882/evasive-action/
 files:
 - name: DI1.QPZ
   size: 4

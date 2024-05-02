@@ -1,8 +1,9 @@
-filename: Mario's Time Machine (Installer) (1993)(Software Toolworks, Inc., The) [Action, Adventure, Educational].zip
+filename: Mario's Time Machine (Installer) (1993)(The Software Toolworks, Inc.) [Action, Adventure, Educational].zip
 tdc_id: '11149.1'
 title:
   box: Mario's Time Machine
-publisher: Software Toolworks, Inc., The
+  qualifier: Installer
+publisher: The Software Toolworks, Inc.
 year: '1993'
 genre:
 - Action
@@ -11,9 +12,11 @@ genre:
 language: English
 date:
   added: '2019-03-01T19:13:04'
-  last_modified: '2019-03-01T19:13:04'
+  last_modified: '2024-04-14T18:07:39'
 type: zip
 installer: true
+references:
+  mobygames: https://www.mobygames.com/game/12156/marios-time-machine/
 files:
 - name: DI1.QPZ
   size: 4

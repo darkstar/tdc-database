@@ -1,19 +1,21 @@
-filename: Trolls [a1] (1992)(Capstone Software) [Action].zip
+filename: Trolls (1992)(Flair Software Ltd.) [Action].zip
 tdc_id: '16948.2'
+parent_id: '16948.4'
 title:
   box: Trolls
-publisher: Capstone Software
+publisher: Flair Software Ltd.
 year: '1992'
 genre: Action
 language: English
 date:
   added: '2020-02-01T09:42:06'
-  last_modified: '2020-02-01T09:42:06'
+  last_modified: '2024-04-10T13:55:21'
 type: zip
-tags:
-- Alternate: 1
+media: 720K
 commands:
   play: TROLLS.EXE
+references:
+  mobygames: https://www.mobygames.com/game/6522/trolls/
 files:
 - name: ALGAME01.ZER
   size: 15383
@@ -121,13 +123,17 @@ files:
   crc: '0x3c385d53'
 - name: CALIBRAT.ION
   size: 8
-  date: '1996-09-03T06:27:14'
-  crc: '0x642813dc'
+  date: '1992-10-21T12:52:20'
+  crc: '0x4f20d5e8'
 - name: CAPSTONE.SEQ
   size: 3802
   date: '1985-11-20T00:06:16'
   crc: '0xef44a9cb'
 - name: CHRSET.DAT
+  size: 2461
+  date: '1992-02-25T13:42:40'
+  crc: '0x3a73fdde'
+- name: CHRSET.DA_
   size: 2461
   date: '1992-02-25T13:42:40'
   crc: '0xd52472be'
@@ -193,8 +199,8 @@ files:
   crc: '0x7ba042df'
 - name: HISCORE
   size: 2
-  date: '1996-09-03T10:33:26'
-  crc: '0xb1a1868b'
+  date: '1992-11-05T14:33:04'
+  crc: '0x41d912ff'
 - name: LEVEL00.MAP
   size: 40960
   date: '1985-11-20T01:44:02'
@@ -504,9 +510,9 @@ files:
   date: '1992-09-29T10:43:50'
   crc: '0x17a3df9a'
 - name: SETUP.FOP
-  size: 12
-  date: '1996-09-03T10:33:14'
-  crc: '0x7322e2e5'
+  size: 10
+  date: '1992-11-05T14:32:50'
+  crc: '0x9b8159f4'
 - name: SETUP.PCN
   size: 2378
   date: '1992-11-08T16:03:14'
@@ -584,13 +590,13 @@ files:
   date: '1992-11-24T17:42:28'
   crc: '0x49e2054e'
 - name: TROLLS.EXE
-  size: 2521
-  date: '1992-07-04T08:26:34'
-  crc: '0x1568fde7'
+  size: 2505
+  date: '1992-11-24T20:21:46'
+  crc: '0x5bb6c712'
 - name: TROLLVGA.PCN
-  size: 78741
-  date: '1992-06-10T10:48:54'
-  crc: '0x07e7ef80'
+  size: 78623
+  date: '1992-11-24T17:41:44'
+  crc: '0xf7a105c9'
 - name: TROLSPR1.ZER
   size: 24394
   date: '1992-09-21T13:55:34'

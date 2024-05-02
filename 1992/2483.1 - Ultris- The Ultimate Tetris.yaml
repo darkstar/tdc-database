@@ -1,0 +1,52 @@
+filename: Ultris- The Ultimate Tetris v1.2 [SW] (1992)(David Pritchard) [Action, Strategy].zip
+tdc_id: '2483.1'
+title:
+  screen: 'Ultris: The Ultimate Tetris'
+publisher: David Pritchard
+year: '1992'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2024-04-15T15:44:56'
+  last_modified: '2024-04-15T15:44:56'
+version: '1.2'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: ULTRIS.EXE
+  setup: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/75404/ultris-the-ultimate-tetris/
+files:
+- name: README.COM
+  size: 13904
+  date: '1992-07-31T10:00:02'
+  crc: '0x5b8603af'
+- name: SETUP.EXE
+  size: 39586
+  date: '1992-07-31T10:00:02'
+  crc: '0x2b9cdd01'
+- name: ULTRIS.DAT
+  size: 48141
+  date: '1992-07-31T10:00:02'
+  crc: '0x534f68b0'
+- name: ULTRIS.DOC
+  size: 11853
+  date: '1992-07-31T10:00:04'
+  crc: '0xe97b2982'
+- name: ULTRIS.EXE
+  size: 195398
+  date: '1992-07-31T10:00:02'
+  crc: '0x1eb2da29'
+- name: ULTRIS.ICO
+  size: 766
+  date: '1992-07-31T10:00:02'
+  crc: '0xf0b3f98e'
+- name: ULTRIS1.DAT
+  size: 54193
+  date: '1992-07-31T10:00:02'
+  crc: '0xfd083ffd'

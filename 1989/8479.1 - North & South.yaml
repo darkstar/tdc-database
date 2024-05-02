@@ -1,5 +1,6 @@
-filename: North & South (En)(De)(Fr)(It)(Es) [h1] (1989)(Infogrames) [Action, Strategy].zip
+filename: North & South (En)(De)(Fr)(It)(Es) (1989)(Infogrames) [Action, Strategy].zip
 tdc_id: '8479.1'
+parent_id: '8479.6'
 title:
   box: North & South
 publisher: Infogrames
@@ -15,132 +16,131 @@ language:
 - German
 date:
   added: '2019-03-01T18:28:30'
-  last_modified: '2019-03-01T18:28:30'
+  last_modified: '2024-04-22T08:28:16'
 type: zip
-tags:
-- Hack: 1
+media: 360K
+commands:
+  play: TATOU.COM
+references:
+  mobygames: https://www.mobygames.com/game/6926/north-south/
 files:
 - name: BA1CGA.1
   size: 4502
-  date: '1990-05-18T12:08:22'
+  date: '1989-11-22T16:11:14'
   crc: '0x1b152903'
-- name: BA1EGA.1
+- name: BA1EGA.2
   size: 11557
-  date: '1990-05-18T12:08:22'
+  date: '1989-11-24T11:50:16'
   crc: '0xb303c73b'
 - name: BA2CGA.1
   size: 2832
-  date: '1990-05-18T12:08:22'
+  date: '1989-12-04T09:16:26'
   crc: '0x2fe16a02'
-- name: BA2EGA.1
+- name: BA2EGA.2
   size: 7643
-  date: '1990-05-18T12:08:22'
+  date: '1989-11-24T11:50:42'
   crc: '0xe17adb5d'
 - name: CARCGA.1
   size: 14429
-  date: '1990-05-18T12:08:22'
+  date: '1989-11-22T16:05:26'
   crc: '0xa30dfa38'
-- name: CAREGA.1
+- name: CAREGA.2
   size: 35515
-  date: '1990-05-18T12:08:22'
+  date: '1989-12-06T10:51:02'
   crc: '0xdf217534'
 - name: CHOCGA.1
   size: 11526
-  date: '1990-05-18T12:08:22'
+  date: '1989-12-06T14:37:38'
   crc: '0xbaedf783'
-- name: CHOEGA.1
+- name: CHOEGA.2
   size: 25732
-  date: '1990-05-18T12:08:22'
+  date: '1989-12-06T11:25:04'
   crc: '0x3d3f3a5b'
 - name: CONFIG.TAT
   size: 281
-  date: '1992-02-28T13:04:40'
-  crc: '0xad6a0f97'
-- name: DEFKEY.TAT
-  size: 45
-  date: '1990-05-18T12:08:26'
-  crc: '0x8e3d1dda'
+  date: '1991-07-30T16:39:26'
+  crc: '0xdf4d167d'
 - name: ECRCGA.1
   size: 15461
-  date: '1990-05-18T12:08:26'
+  date: '1989-11-22T16:32:38'
   crc: '0x7c0b57dc'
-- name: ECREGA.1
+- name: ECREGA.2
   size: 55645
-  date: '1990-05-18T12:08:24'
+  date: '1989-12-06T14:05:28'
   crc: '0x708e2fa1'
 - name: FORCGA.1
   size: 7194
-  date: '1990-05-18T12:08:24'
+  date: '1989-11-21T14:37:54'
   crc: '0xc7533ca9'
-- name: FOREGA.1
+- name: FOREGA.2
   size: 16106
-  date: '1990-05-18T12:08:24'
+  date: '1989-11-21T16:53:48'
   crc: '0x8b66fc5e'
 - name: GAGCGA.1
   size: 14745
-  date: '1990-05-18T12:08:24'
+  date: '1989-11-22T16:24:10'
   crc: '0xd1a84615'
-- name: GAGEGA.1
+- name: GAGEGA.2
   size: 44234
-  date: '1990-05-18T12:08:24'
+  date: '1989-11-24T11:55:04'
   crc: '0xe79d3e71'
-- name: HELP.COM
-  size: 3840
-  date: '1991-03-19T22:21:34'
-  crc: '0x4ebd9353'
 - name: NSPXI.1
-  size: 161869
-  date: '1990-05-18T12:08:28'
-  crc: '0xf45a6dfc'
+  size: 162629
+  date: '1989-12-06T15:32:58'
+  crc: '0xe578133d'
 - name: PERCGA.1
   size: 7493
-  date: '1990-05-18T12:08:28'
+  date: '1989-11-22T16:27:20'
   crc: '0x9524b44a'
-- name: PEREGA.1
+- name: PEREGA.2
   size: 14982
-  date: '1990-05-18T12:08:28'
+  date: '1989-12-06T13:08:46'
   crc: '0x01b21568'
 - name: PRECGA.1
   size: 13528
-  date: '1990-05-18T12:08:28'
+  date: '1989-12-05T11:49:18'
   crc: '0x5e933620'
-- name: PREEGA.1
+- name: PREEGA.2
   size: 39549
-  date: '1990-05-18T12:08:32'
+  date: '1989-12-05T11:30:34'
   crc: '0x0a7c61ea'
 - name: SFOCGA.1
   size: 9458
-  date: '1990-05-18T12:08:36'
+  date: '1989-11-29T10:01:28'
   crc: '0x535d08b9'
-- name: SFOEGA.1
+- name: SFOEGA.2
   size: 26845
-  date: '1990-05-18T12:08:36'
+  date: '1989-11-24T11:52:12'
   crc: '0x950b8b92'
 - name: TATCGA.1
   size: 14321
-  date: '1990-05-18T12:08:34'
+  date: '1989-12-05T11:51:22'
   crc: '0x410eb077'
-- name: TATEGA.1
+- name: TATEGA.2
   size: 18303
-  date: '1990-05-18T12:08:36'
+  date: '1989-12-05T12:02:32'
   crc: '0x3c6f8759'
 - name: TATOU.COM
   size: 6708
-  date: '1990-05-18T12:08:34'
-  crc: '0xab713365'
+  date: '1989-10-26T17:21:34'
+  crc: '0x5b75e4be'
+- name: TATOU.CO_
+  size: 6708
+  date: '1989-10-26T17:21:34'
+  crc: '0xaf1e6abd'
 - name: TRACGA.1
   size: 5049
-  date: '1990-05-18T12:08:34'
+  date: '1989-11-21T14:39:40'
   crc: '0x1e059ae7'
-- name: TRAEGA.1
+- name: TRAEGA.2
   size: 10259
-  date: '1990-05-18T12:08:38'
+  date: '1989-11-21T16:54:22'
   crc: '0x48af3878'
 - name: VIGCGA.1
   size: 17422
-  date: '1990-05-18T12:08:38'
+  date: '1989-12-05T16:30:28'
   crc: '0x249079ee'
-- name: VIGEGA.1
+- name: VIGEGA.2
   size: 41436
-  date: '1990-05-18T12:08:38'
+  date: '1989-11-24T11:49:36'
   crc: '0x784357c2'

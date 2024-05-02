@@ -1,4 +1,4 @@
-filename: Bill & Ted's Excellent Adventure (1990)(Capstone Software) [Adventure].zip
+filename: Bill & Ted's Excellent Adventure (1990)(Capstone Software) [Adventure][!].zip
 tdc_id: '12634.0'
 parent_id: '12634.1'
 title:
@@ -9,9 +9,16 @@ genre: Adventure
 language: English
 date:
   added: '2019-03-01T18:31:54'
-  last_modified: '2019-03-01T18:31:54'
+  last_modified: '2024-04-13T07:57:22'
 type: zip
+tags:
+- KnownGood
+media: 720K
+commands:
+  play: BT.EXE
+  setup: BTCONFIG.COM
 references:
+  mobygames: https://www.mobygames.com/game/1911/bill-teds-excellent-adventure/
   dosid: DOS01056
   exodos: Bill and Ted's Excellent Adventure (1990).zip
 files:
@@ -265,7 +272,7 @@ files:
   crc: '0x17fa0b1a'
 - name: BT.EXE
   size: 70811
-  date: '1997-02-15T12:54:26'
+  date: '1990-07-01T12:00:00'
   crc: '0xd7be62ec'
 - name: BT0.OVL
   size: 43243
@@ -365,7 +372,7 @@ files:
   crc: '0xfa1903ef'
 - name: BTHIGHS
   size: 222
-  date: '1990-07-01T07:00:00'
+  date: '1990-07-01T12:00:00'
   crc: '0xefa93777'
 - name: CBT.CMP
   size: 6645
@@ -408,9 +415,9 @@ files:
   date: '1990-07-01T12:00:00'
   crc: '0x3c709a63'
 - name: INSTALL2.BAT
-  size: 491
-  date: '1990-07-02T13:03:12'
-  crc: '0x1d86d951'
+  size: 201
+  date: '1990-07-26T15:58:02'
+  crc: '0x0d22fe50'
 - name: SS1.CMP
   size: 111302
   date: '1990-07-01T12:00:00'

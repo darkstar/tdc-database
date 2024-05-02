@@ -1,19 +1,22 @@
-filename: Ultimate Domain v1.4 (Installer) (1994)(Software Toolworks, Inc., The) [Strategy].zip
+filename: Ultimate Domain v1.4 (Installer) (1994)(The Software Toolworks, Inc.) [Strategy].zip
 tdc_id: '7285.0'
 title:
   box: Ultimate Domain
-publisher: Software Toolworks, Inc., The
+  qualifier: Installer
+publisher: The Software Toolworks, Inc.
 year: '1994'
 genre: Strategy
 language: English
 date:
   added: '2019-03-02T07:18:48'
-  last_modified: '2019-03-02T07:18:48'
+  last_modified: '2024-04-14T18:06:42'
 version: '1.4'
 type: zip
 installer: true
 commands:
   play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/11809/ultimate-domain/
 files:
 - name: DI1.QPZ
   size: 4

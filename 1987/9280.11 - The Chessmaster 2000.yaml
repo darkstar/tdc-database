@@ -1,8 +1,9 @@
-filename: Chessmaster 2000, The v1.08 (1987)(Software Toolworks, Inc., The) [Strategy, Chess].zip
+filename: Chessmaster 2000, The v1.08 (1987)(The Software Toolworks, Inc.) [Strategy, Chess].zip
 tdc_id: '9280.11'
+parent_id: '9280.13'
 title:
   box: The Chessmaster 2000
-publisher: Software Toolworks, Inc., The
+publisher: The Software Toolworks, Inc.
 year: '1987'
 genre:
 - Strategy
@@ -10,9 +11,14 @@ genre:
 language: English
 date:
   added: '2021-05-13T09:58:34'
-  last_modified: '2021-05-13T09:58:34'
+  last_modified: '2024-04-14T12:27:07'
 version: '1.08'
 type: zip
+media: 360K
+commands:
+  play: CMASTER.EXE
+references:
+  mobygames: https://www.mobygames.com/game/10/the-chessmaster-2000/
 files:
 - name: 1.CM
   size: 107
@@ -424,9 +430,13 @@ files:
   crc: '0x6d63a7d8'
 - name: CM.DAT
   size: 40646
-  date: '1992-10-13T21:26:28'
-  crc: '0x345d10f3'
+  date: '1987-04-02T15:11:44'
+  crc: '0x547a6b0e'
 - name: CM.EXE
+  size: 123625
+  date: '1987-04-02T15:38:08'
+  crc: '0x98e2fecf'
+- name: CM.EX_
   size: 123625
   date: '1987-04-02T15:38:08'
   crc: '0x8d339bfe'

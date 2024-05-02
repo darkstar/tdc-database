@@ -1,0 +1,33 @@
+filename: Bart's Law (demo) (1993)(Ultra Force) [Action].zip
+tdc_id: '2166.0'
+title:
+  screen: Bart's Law
+  qualifier: demo
+publisher: Ultra Force
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:41:24'
+  last_modified: '2024-04-15T15:38:40'
+type: zip
+demo: true
+commands:
+  play: BARTSLAW.EXE
+files:
+- name: BARTSLAW.DOC
+  size: 3380
+  date: '1993-01-22T10:51:34'
+  crc: '0x445378a5'
+- name: BARTSLAW.EXE
+  size: 74809
+  date: '1991-03-05T20:18:56'
+  crc: '0x8ab4145e'
+- name: BARTSLAW.MIX
+  size: 59956
+  date: '1991-09-14T17:12:56'
+  crc: '0x00ff5b77'
+- name: BARTSLAW.SND
+  size: 106310
+  date: '1991-11-01T03:00:00'
+  crc: '0x002e92a8'

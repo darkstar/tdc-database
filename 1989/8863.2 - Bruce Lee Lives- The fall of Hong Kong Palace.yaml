@@ -1,18 +1,23 @@
-filename: Bruce Lee Lives- The fall of Hong Kong Palace v1.02 [h1] (1989)(Software Toolworks, Inc., The) [Action].zip
+filename: Bruce Lee Lives v1.02 [h1] (1989)(The Software Toolworks, Inc.) [Action].zip
 tdc_id: '8863.2'
 title:
-  box: 'Bruce Lee Lives: The fall of Hong Kong Palace'
-publisher: Software Toolworks, Inc., The
+  box: Bruce Lee Lives
+  screen: 'Bruce Lee Lives: The Fall of Hong Kong Palace'
+publisher: The Software Toolworks, Inc.
 year: '1989'
 genre: Action
 language: English
 date:
   added: '2019-03-01T18:27:22'
-  last_modified: '2019-03-01T18:27:22'
+  last_modified: '2024-04-14T11:56:50'
 version: '1.02'
 type: zip
 tags:
 - Hack: 1
+commands:
+  play: BRUCE.EXE
+references:
+  mobygames: https://www.mobygames.com/game/660/bruce-lee-lives/
 files:
 - name: BRUCE.CQA
   size: 137245

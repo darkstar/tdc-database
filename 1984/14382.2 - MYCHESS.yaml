@@ -1,8 +1,8 @@
-filename: MYCHESS v1.0 (1984)(Software Toolworks, Inc., The) [Strategy, Chess].zip
+filename: MYCHESS v1.0 (1984)(The Software Toolworks, Inc.) [Strategy, Chess].zip
 tdc_id: '14382.2'
 title:
   box: MYCHESS
-publisher: Software Toolworks, Inc., The
+publisher: The Software Toolworks, Inc.
 year: '1984'
 genre:
 - Strategy
@@ -10,13 +10,14 @@ genre:
 language: English
 date:
   added: '2023-05-24T09:07:36'
-  last_modified: '2023-05-25T10:01:39'
+  last_modified: '2024-04-15T07:21:36'
 version: '1.0'
 type: zip
-media: 360K
 commands:
   play: MYCHESS.COM
   setup: MYCONFIG.EXE
+references:
+  mobygames: https://www.mobygames.com/game/16123/mychess/
 files:
 - name: MYCHESS.COM
   size: 52352

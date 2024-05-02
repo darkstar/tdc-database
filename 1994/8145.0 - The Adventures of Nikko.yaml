@@ -1,8 +1,8 @@
-filename: Adventures of Nikko, The (En)(Ru) (1994)(Software Toolworks, Inc., The) [Educational].zip
+filename: Adventures of Nikko, The (En)(Ru) (1994)(The Software Toolworks, Inc.) [Educational].zip
 tdc_id: '8145.0'
 title:
   box: The Adventures of Nikko
-publisher: Software Toolworks, Inc., The
+publisher: The Software Toolworks, Inc.
 year: '1994'
 genre: Educational
 language:
@@ -10,8 +10,11 @@ language:
 - Russian
 date:
   added: '2021-01-21T09:44:36'
-  last_modified: '2021-01-21T09:44:36'
+  last_modified: '2024-04-14T12:23:21'
 type: zip
+commands:
+  play: GO.BAT
+  setup: SETSOUND.BAT
 references:
   dosid: DOS15965
   exodos: Adventures of Nikko, The (1994).zip

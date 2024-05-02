@@ -1,4 +1,4 @@
-filename: Annihilator Tank [SW] (1996)(Andrew McNab) [Action].zip
+filename: Annihilator Tank v1.0 [SW] (1996)(Andrew McNab) [Action].zip
 tdc_id: '8660.0'
 title:
   screen: Annihilator Tank
@@ -8,324 +8,327 @@ genre: Action
 language: English
 date:
   added: '2016-02-16T13:54:50'
-  last_modified: '2016-02-16T13:54:50'
+  last_modified: '2024-04-17T16:03:41'
+version: '1.0'
 type: zip
 tags:
 - Shareware
 media: Download
 commands:
   play: GO.BAT
+references:
+  mobygames: https://www.mobygames.com/game/49194/annihilator-tank/
 files:
 - name: DATA\
   size: 0
-  date: '2014-11-22T14:49:48'
+  date: '1996-06-19T00:45:48'
 - name: DATA\AT.CFG
   size: 9
-  date: '1996-06-15T06:27:20'
+  date: '1996-06-15T07:27:20'
   crc: '0xe84ee097'
 - name: DATA\AT.EXE
   size: 279318
-  date: '1996-06-22T05:46:52'
+  date: '1996-06-22T06:46:52'
   crc: '0x00b18f91'
 - name: DATA\CHKLIST.MS
   size: 27
-  date: '1996-08-07T07:14:08'
+  date: '1996-08-07T08:14:08'
   crc: '0x08047ae7'
 - name: DATA\CPIT.SPR
   size: 8785
-  date: '1996-06-05T00:07:18'
+  date: '1996-06-05T01:07:18'
   crc: '0xb40d61cb'
 - name: DATA\DEB1.3D
   size: 124
-  date: '1996-06-02T23:44:44'
+  date: '1996-06-03T00:44:44'
   crc: '0x04535311'
 - name: DATA\DEB2.3D
   size: 98
-  date: '1996-06-09T00:44:40'
+  date: '1996-06-09T01:44:40'
   crc: '0x31185918'
 - name: DATA\DEB3.3D
   size: 98
-  date: '1996-06-09T00:40:22'
+  date: '1996-06-09T01:40:22'
   crc: '0xd3be47f5'
 - name: DATA\DEB4.3D
   size: 110
-  date: '1996-06-05T05:38:42'
+  date: '1996-06-05T06:38:42'
   crc: '0xa0016c22'
 - name: DATA\DEB5.3D
   size: 98
-  date: '1996-06-13T02:36:30'
+  date: '1996-06-13T03:36:30'
   crc: '0x81702824'
 - name: DATA\ETANK.3D
   size: 466
-  date: '1996-06-07T01:53:30'
+  date: '1996-06-07T02:53:30'
   crc: '0xbf9f5aac'
 - name: DATA\ETURRET.3D
   size: 376
-  date: '1996-06-07T00:22:18'
+  date: '1996-06-07T01:22:18'
   crc: '0xb97e9e0c'
 - name: DATA\EXP.WAV
   size: 8423
-  date: '1996-06-08T00:00:28'
+  date: '1996-06-08T01:00:28'
   crc: '0x8fd22e8e'
 - name: DATA\EXP1.3D
   size: 110
-  date: '1996-05-30T00:09:40'
+  date: '1996-05-30T01:09:40'
   crc: '0x9104aefc'
 - name: DATA\EXP1.SPR
   size: 32741
-  date: '1996-05-25T06:49:40'
+  date: '1996-05-25T07:49:40'
   crc: '0xedb2ddd5'
 - name: DATA\EXP2.3D
   size: 110
-  date: '1996-05-30T00:09:46'
+  date: '1996-05-30T01:09:46'
   crc: '0xcadb9b12'
 - name: DATA\EXP2.SPR
   size: 26095
-  date: '1996-05-25T06:51:56'
+  date: '1996-05-25T07:51:56'
   crc: '0x18807e4f'
 - name: DATA\EXP2.WAV
   size: 11372
-  date: '1996-06-08T02:11:10'
+  date: '1996-06-08T03:11:10'
   crc: '0x15ec45de'
 - name: DATA\EXP3.3D
   size: 110
-  date: '1996-05-30T00:09:52'
+  date: '1996-05-30T01:09:52'
   crc: '0x99dd5ee8'
 - name: DATA\EXP3.SPR
   size: 31993
-  date: '1996-05-25T06:52:20'
+  date: '1996-05-25T07:52:20'
   crc: '0x6d39d110'
 - name: DATA\EXP3.WAV
   size: 11372
-  date: '1996-06-08T02:10:00'
+  date: '1996-06-08T03:10:00'
   crc: '0x477b354e'
 - name: DATA\EXPL.3D
   size: 140
-  date: '1996-05-30T00:12:06'
+  date: '1996-05-30T01:12:06'
   crc: '0x0899a767'
 - name: DATA\EXPL2.3D
   size: 270
-  date: '1996-06-04T22:44:18'
+  date: '1996-06-04T23:44:18'
   crc: '0x33c4a882'
 - name: DATA\FIRE.WAV
   size: 6972
-  date: '1996-05-08T16:27:34'
+  date: '1996-05-08T17:27:34'
   crc: '0xae719892'
 - name: DATA\FIRE2.WAV
   size: 6904
-  date: '1996-06-08T01:36:22'
+  date: '1996-06-08T02:36:22'
   crc: '0xb8809ddb'
 - name: DATA\GAMESAVE
   size: 15
-  date: '2005-02-17T20:29:50'
-  crc: '0xd3e2b4c1'
+  date: '1996-08-24T15:08:42'
+  crc: '0xd7d303e7'
 - name: DATA\GATES.3D
   size: 226
-  date: '1996-06-04T03:27:26'
+  date: '1996-06-04T04:27:26'
   crc: '0x3926dbc6'
 - name: DATA\GATES2.3D
   size: 226
-  date: '1996-06-04T03:25:42'
+  date: '1996-06-04T04:25:42'
   crc: '0x5e6b4af4'
 - name: DATA\GUN1.3D
   size: 330
-  date: '1996-06-06T00:40:36'
+  date: '1996-06-06T01:40:36'
   crc: '0xeb9e7e84'
 - name: DATA\GUNBASE.3D
   size: 186
-  date: '1996-06-06T00:41:32'
+  date: '1996-06-06T01:41:32'
   crc: '0xae60cbbc'
 - name: DATA\GUND.3D
   size: 98
-  date: '1996-06-05T02:08:22'
+  date: '1996-06-05T03:08:22'
   crc: '0x04c5adc2'
 - name: DATA\HEDGE.3D
   size: 120
-  date: '1996-06-05T02:04:52'
+  date: '1996-06-05T03:04:52'
   crc: '0x1a831c95'
 - name: DATA\HQ.3D
   size: 294
-  date: '1996-06-12T07:40:54'
+  date: '1996-06-12T08:40:54'
   crc: '0xe22d9778'
 - name: DATA\HQD.3D
   size: 112
-  date: '1996-06-09T00:46:38'
+  date: '1996-06-09T01:46:38'
   crc: '0xdb0445e7'
 - name: DATA\HUT.3D
   size: 272
-  date: '1996-06-13T02:43:20'
+  date: '1996-06-13T03:43:20'
   crc: '0xbf915b24'
 - name: DATA\M1.MIS
   size: 324
-  date: '1996-06-13T05:23:08'
+  date: '1996-06-13T06:23:08'
   crc: '0x90da7d9e'
 - name: DATA\M10.MIS
   size: 302
-  date: '1996-06-14T02:10:34'
+  date: '1996-06-14T03:10:34'
   crc: '0xb94f60ab'
 - name: DATA\M2.MIS
   size: 269
-  date: '1996-06-13T07:04:20'
+  date: '1996-06-13T08:04:20'
   crc: '0x38f5e8a2'
 - name: DATA\M3.MIS
   size: 474
-  date: '1996-06-13T07:45:22'
+  date: '1996-06-13T08:45:22'
   crc: '0xb0e5106e'
 - name: DATA\M4.MIS
   size: 143
-  date: '1996-06-13T23:15:40'
+  date: '1996-06-14T00:15:40'
   crc: '0x0c6dc56a'
 - name: DATA\M5.MIS
   size: 241
-  date: '1996-06-13T23:21:54'
+  date: '1996-06-14T00:21:54'
   crc: '0xef503e98'
 - name: DATA\M6.MIS
   size: 383
-  date: '1996-06-13T23:33:22'
+  date: '1996-06-14T00:33:22'
   crc: '0xc18ae9a4'
 - name: DATA\M7.MIS
   size: 320
-  date: '1996-06-13T23:47:46'
+  date: '1996-06-14T00:47:46'
   crc: '0xca3a5bbe'
 - name: DATA\M8.MIS
   size: 272
-  date: '1996-06-14T00:52:00'
+  date: '1996-06-14T01:52:00'
   crc: '0x689e5119'
 - name: DATA\M9.MIS
   size: 386
-  date: '1996-06-14T01:59:58'
+  date: '1996-06-14T02:59:58'
   crc: '0x40f30eee'
 - name: DATA\PAL.COL
   size: 768
-  date: '1996-06-13T02:53:46'
+  date: '1996-06-13T03:53:46'
   crc: '0xd09613b9'
 - name: DATA\POLE.3D
   size: 94
-  date: '1996-05-30T06:07:02'
+  date: '1996-05-30T07:07:02'
   crc: '0xb68e2fb0'
 - name: DATA\RECT.3D
   size: 116
-  date: '1996-06-07T08:24:24'
+  date: '1996-06-07T09:24:24'
   crc: '0x82dfd057'
 - name: DATA\ROAD1.3D
   size: 96
-  date: '1996-05-30T02:30:58'
+  date: '1996-05-30T03:30:58'
   crc: '0x33019362'
 - name: DATA\ROAD2.3D
   size: 96
-  date: '1996-05-30T02:30:54'
+  date: '1996-05-30T03:30:54'
   crc: '0x4c7646b1'
 - name: DATA\S1.PCX
   size: 21931
-  date: '1996-06-19T02:06:40'
+  date: '1996-06-19T03:06:40'
   crc: '0x81cc628b'
 - name: DATA\S2.PCX
   size: 9979
-  date: '1996-06-19T02:04:48'
+  date: '1996-06-19T03:04:48'
   crc: '0xe570cc10'
 - name: DATA\S3.PCX
   size: 9087
-  date: '1996-06-19T02:01:34'
+  date: '1996-06-19T03:01:34'
   crc: '0x7adb0c24'
 - name: DATA\SC1.DAT
   size: 111
-  date: '1996-06-14T02:13:54'
+  date: '1996-06-14T03:13:54'
   crc: '0x1c64f324'
 - name: DATA\SHELL.3D
   size: 88
-  date: '1996-05-24T23:53:24'
+  date: '1996-05-25T00:53:24'
   crc: '0x726db1aa'
 - name: DATA\SHELL2.3D
   size: 88
-  date: '1996-05-30T00:34:24'
+  date: '1996-05-30T01:34:24'
   crc: '0xd55906a2'
 - name: DATA\SKD.TM
   size: 49152
-  date: '1996-06-11T09:48:06'
+  date: '1996-06-11T10:48:06'
   crc: '0x5fed6f76'
 - name: DATA\SQ.3D
   size: 116
-  date: '1996-05-24T00:03:24'
+  date: '1996-05-24T01:03:24'
   crc: '0xc0d87822'
 - name: DATA\STONES.3D
   size: 246
-  date: '1996-06-12T23:22:40'
+  date: '1996-06-13T00:22:40'
   crc: '0xdae7e4d3'
 - name: DATA\TANK.3D
   size: 444
-  date: '1996-06-07T02:35:54'
+  date: '1996-06-07T03:35:54'
   crc: '0x6791bcbe'
 - name: DATA\TANKD.3D
   size: 98
-  date: '1996-06-05T02:07:14'
+  date: '1996-06-05T03:07:14'
   crc: '0xbdb3c8d9'
 - name: DATA\TITLE.SPR
   size: 12417
-  date: '1996-06-12T06:24:56'
+  date: '1996-06-12T07:24:56'
   crc: '0x8f1fec6f'
 - name: DATA\TITLE.WAV
   size: 20967
-  date: '1996-06-11T04:46:40'
+  date: '1996-06-11T05:46:40'
   crc: '0x2161ff4d'
 - name: DATA\TOWER.3D
   size: 322
-  date: '1996-06-04T22:53:30'
+  date: '1996-06-04T23:53:30'
   crc: '0xc5db276b'
 - name: DATA\TOWERD.3D
   size: 164
-  date: '1996-06-05T02:08:38'
+  date: '1996-06-05T03:08:38'
   crc: '0x78c85ef9'
 - name: DATA\TRACK1.3D
   size: 98
-  date: '1996-06-13T02:54:12'
+  date: '1996-06-13T03:54:12'
   crc: '0xfa1429ab'
 - name: DATA\TRACK2.3D
   size: 98
-  date: '1996-06-13T02:54:06'
+  date: '1996-06-13T03:54:06'
   crc: '0xa6b8e65b'
 - name: DATA\TREE.SPR
   size: 9273
-  date: '1996-06-05T06:47:52'
+  date: '1996-06-05T07:47:52'
   crc: '0xf6409e96'
 - name: DATA\TROOP.3D
   size: 496
-  date: '1996-06-07T02:12:46'
+  date: '1996-06-07T03:12:46'
   crc: '0x5f5dc304'
 - name: DATA\TURRET.3D
   size: 376
-  date: '1996-06-07T02:35:30'
+  date: '1996-06-07T03:35:30'
   crc: '0xdc8b0252'
 - name: DATA\VEDGE.3D
   size: 120
-  date: '1996-06-05T02:04:58'
+  date: '1996-06-05T03:04:58'
   crc: '0x9ca0cce8'
 - name: DATA\VEG1.3D
   size: 110
-  date: '1996-06-05T05:42:30'
+  date: '1996-06-05T06:42:30'
   crc: '0x9d1858fd'
 - name: DATA\WALL1.3D
   size: 266
-  date: '1996-06-04T22:56:40'
+  date: '1996-06-04T23:56:40'
   crc: '0x7a15c19b'
 - name: DATA\WALL1D.3D
   size: 112
-  date: '1996-06-05T02:08:54'
+  date: '1996-06-05T03:08:54'
   crc: '0x0cf9870c'
 - name: DATA\WALL2.3D
   size: 266
-  date: '1996-06-04T22:57:14'
+  date: '1996-06-04T23:57:14'
   crc: '0xc215e72a'
 - name: DATA\WALL2D.3D
   size: 112
-  date: '1996-06-05T02:09:12'
+  date: '1996-06-05T03:09:12'
   crc: '0xecd8623a'
 - name: FILE_ID.DIZ
   size: 240
-  date: '1996-08-08T08:48:52'
+  date: '1996-08-08T09:48:52'
   crc: '0x9d3cbf4f'
 - name: GO.BAT
   size: 47
-  date: '1996-06-19T01:04:12'
+  date: '1996-06-19T02:04:12'
   crc: '0xf620ba35'
 - name: INSTALL.TXT
   size: 226
@@ -333,21 +336,21 @@ files:
   crc: '0x3a129cb0'
 - name: LICENSE.TXT
   size: 495
-  date: '1996-06-19T01:03:44'
+  date: '1996-06-19T02:03:44'
   crc: '0x4d8065ca'
 - name: README.TXT
   size: 3769
-  date: '1996-08-24T13:59:14'
+  date: '1996-08-24T14:59:14'
   crc: '0x966993de'
 - name: REGISTER.TXT
   size: 1220
-  date: '1996-08-24T14:01:10'
+  date: '1996-08-24T15:01:10'
   crc: '0x7114e41b'
 - name: RG
   size: 592
-  date: '1996-08-24T13:34:58'
+  date: '1996-08-24T14:34:58'
   crc: '0x7dd42f47'
 - name: USREG.TXT
   size: 1637
-  date: '1996-08-24T14:01:52'
+  date: '1996-08-24T15:01:52'
   crc: '0xa3ca8d93'

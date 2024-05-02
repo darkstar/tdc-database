@@ -1,0 +1,57 @@
+filename: Alien War (Es) (2001)(5 Union Software Group S.L.) [Action].zip
+tdc_id: '17467.0'
+title:
+  screen: Alien War
+publisher: 5 Union Software Group S.L.
+year: '2001'
+genre: Action
+language: Spanish
+date:
+  added: '2024-04-24T08:45:25'
+  last_modified: '2024-04-24T08:45:25'
+type: zip
+media: Download
+commands:
+  play: Game.exe
+  setup: SONIDO.Exe
+files:
+- name: DATA\DOS4GW.EXE
+  size: 265396
+  date: '2000-02-03T14:45:58'
+  crc: '0x5cc34b0f'
+- name: DATA\TEST.XM
+  size: 12384
+  date: '2000-02-03T14:45:58'
+  crc: '0xac24eeab'
+- name: DATA\setup.lib
+  size: 1148459
+  date: '2000-02-03T14:45:58'
+  crc: '0x05d294a8'
+- name: DATA\test.wav
+  size: 9640
+  date: '2000-02-03T14:45:58'
+  crc: '0xfed40cd9'
+- name: DOS4GW.EXE
+  size: 265396
+  date: '2000-02-03T14:45:58'
+  crc: '0x5cc34b0f'
+- name: GAME.CFG
+  size: 136
+  date: '2021-01-29T23:20:32'
+  crc: '0xf7a713b5'
+- name: GAME.LIB
+  size: 4119950
+  date: '2001-10-08T15:50:32'
+  crc: '0xbc542440'
+- name: Game.exe
+  size: 430727
+  date: '2000-02-03T14:45:58'
+  crc: '0x27761ea1'
+- name: SONIDO.Exe
+  size: 303507
+  date: '2000-02-03T14:45:58'
+  crc: '0xc8b7adcf'
+- name: inicio.dat
+  size: 159
+  date: '2001-10-08T18:41:28'
+  crc: '0xe84a05e6'
