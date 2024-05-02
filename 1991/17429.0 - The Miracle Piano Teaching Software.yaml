@@ -1,0 +1,64 @@
+filename: Miracle Piano Teaching Software, The v1.05 (Installer) (1991)(The Software Toolworks, Inc.) [Educational].zip
+tdc_id: '17429.0'
+title:
+  box: The Miracle Piano Teaching Software
+  qualifier: Installer
+publisher: The Software Toolworks, Inc.
+year: '1991'
+genre: Educational
+language: English
+date:
+  added: '2024-03-28T11:08:57'
+  last_modified: '2024-03-28T11:08:57'
+version: '1.05'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/18943/the-miracle-piano-teaching-system/
+files:
+- name: DI1.QPZ
+  size: 4
+  date: '1991-10-04T06:05:00'
+  crc: '0x04e5916b'
+- name: DI2.QPZ
+  size: 4
+  date: '1991-10-04T06:05:00'
+  crc: '0x04e5916b'
+- name: DI3.QPZ
+  size: 4
+  date: '1991-10-04T06:05:00'
+  crc: '0x04e5916b'
+- name: INSTALL.EXE
+  size: 40700
+  date: '1991-10-04T06:05:00'
+  crc: '0x1ec85725'
+- name: MI1.TZF
+  size: 278853
+  date: '1991-10-04T06:05:00'
+  crc: '0x3f9979e4'
+- name: MI2.TZF
+  size: 296551
+  date: '1991-10-04T06:05:00'
+  crc: '0xed7a5629'
+- name: MI3.TZF
+  size: 283500
+  date: '1991-10-04T06:05:00'
+  crc: '0x597ffe94'
+- name: MI4.TZF
+  size: 79304
+  date: '1991-10-04T06:05:00'
+  crc: '0x53a2829d'
+- name: MI5.TZF
+  size: 359555
+  date: '1991-10-04T06:05:00'
+  crc: '0x579b9b5a'
+- name: MI6.TZF
+  size: 354863
+  date: '1991-10-04T06:05:00'
+  crc: '0x415c33a8'
+- name: MI7.TZF
+  size: 220874
+  date: '1991-10-04T06:05:00'
+  crc: '0x012387a0'

@@ -1,0 +1,46 @@
+filename: Fire Crow v1.0 (demo) (1998)(PiSofr, Ouss & MirMax) [Action].zip
+tdc_id: '17433.0'
+title:
+  box: Fire Crow
+  qualifier: demo
+publisher: PiSofr, Ouss & MirMax
+year: '1998'
+genre: Action
+language: English
+date:
+  added: '2024-04-01T15:57:14'
+  last_modified: '2024-04-01T15:57:14'
+version: '1.0'
+type: zip
+demo: true
+commands:
+  play: FIRE.EXE
+files:
+- name: CWSDPMI.EXE
+  size: 20473
+  date: '1997-10-19T21:48:14'
+  crc: '0x80fa6999'
+- name: FILE_ID.DIZ
+  size: 366
+  date: '1998-11-08T22:49:54'
+  crc: '0xd234cb92'
+- name: FIRE.CFG
+  size: 197
+  date: '1998-11-08T22:51:22'
+  crc: '0xbf141fc6'
+- name: FIRE.DAT
+  size: 1447630
+  date: '1998-08-31T22:50:06'
+  crc: '0x2d0f635e'
+- name: FIRE.EXE
+  size: 208520
+  date: '1998-10-10T17:18:58'
+  crc: '0x7013d603'
+- name: INIT.DAT
+  size: 2750
+  date: '1993-02-01T02:04:16'
+  crc: '0x48525871'
+- name: README.TXT
+  size: 4813
+  date: '1998-11-08T22:49:26'
+  crc: '0x56ca3b83'

@@ -1,5 +1,6 @@
 filename: These United States (1984)(IBM) [Educational, Trivia].zip
 tdc_id: '16631.0'
+parent_id: '16631.2'
 title:
   box: These United States
 publisher: IBM
@@ -23,16 +24,16 @@ files:
   crc: '0xb3c38711'
 - name: G.COM
   size: 259
-  date: '2021-03-19T12:00:00'
+  date: '1980-01-01T00:00:00'
   crc: '0x4a3e5a1e'
 - name: G.EXE
   size: 5632
   date: '1984-08-14T12:00:00'
   crc: '0x5256ad89'
 - name: GAME.COM
-  size: 108
-  date: '2014-05-18T04:30:46'
-  crc: '0x4789ee34'
+  size: 2328
+  date: '1980-01-01T00:00:00'
+  crc: '0xa9e0d53d'
 - name: GAME.EXE
   size: 52864
   date: '1984-08-14T12:00:08'
@@ -63,11 +64,7 @@ files:
   crc: '0x0add2ffa'
 - name: SCORE.EXE
   size: 1152
-  date: '2014-05-18T04:35:00'
-  crc: '0x5627bfe8'
-- name: SCORE.EX_
-  size: 1152
-  date: '1987-08-04T12:00:00'
+  date: '1984-08-14T12:00:08'
   crc: '0x63724047'
 - name: SCORE.PIC
   size: 175
@@ -98,7 +95,7 @@ files:
   date: '1983-07-04T00:00:00'
 - name: VIEWDOX.COM
   size: 90
-  date: '2014-05-19T20:08:32'
+  date: '1980-01-01T00:00:00'
   crc: '0x092c30db'
 - name: VIEWDOX.EXE
   size: 10484

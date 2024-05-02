@@ -1,0 +1,28 @@
+filename: Arcy 2 v1.0 (Installer) (De) [SWR][a1] (1994)(CAPS Softwaredesign ULM) [Strategy].zip
+tdc_id: '8746.10'
+title:
+  box: Arcy 2
+  qualifier: Installer
+publisher: CAPS Softwaredesign ULM
+year: '1994'
+genre: Strategy
+language: German
+date:
+  added: '2024-03-20T15:23:11'
+  last_modified: '2024-03-20T15:23:11'
+version: '1.0'
+type: zip
+tags:
+- SharewareRegistered
+- Alternate: 1
+media: Download
+installer: true
+commands:
+  play: '!A2_SHR.EXE'
+references:
+  mobygames: https://www.mobygames.com/game/944/arcy-2/
+files:
+- name: '!A2_SHR.EXE'
+  size: 445100
+  date: '1994-02-08T12:26:04'
+  crc: '0xf58c17ca'

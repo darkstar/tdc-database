@@ -1,5 +1,6 @@
 filename: Wizball (1987)(Ocean Software Ltd.) [Action].zip
 tdc_id: '7606.0'
+parent_id: '7606.4'
 title:
   box: Wizball
 publisher: Ocean Software Ltd.
@@ -56,9 +57,21 @@ files:
   size: 800
   date: '1987-08-28T15:02:44'
   crc: '0x570970f0'
+- name: DISC.BAT
+  size: 6
+  date: '1987-09-28T12:48:28'
+  crc: '0xdef64533'
+- name: DISK.EXE
+  size: 77600
+  date: '1990-01-13T14:31:06'
+  crc: '0x98d52723'
+- name: DISK.EX_
+  size: 77600
+  date: '1987-11-24T19:45:54'
+  crc: '0x48744933'
 - name: NOISE
   size: 2000
-  date: '1997-02-05T13:51:36'
+  date: 1986-09-25X29:22:36
   crc: '0x1c1d0998'
 - name: SAMPLE
   size: 63105
@@ -72,7 +85,6 @@ files:
   size: 21600
   date: '1986-08-29T11:57:14'
   crc: '0xec34a638'
-- name: WIZBALL.EXE
-  size: 77600
-  date: '1990-01-13T14:31:06'
-  crc: '0x98d52723'
+- name: WIZBALL
+  size: 0
+  date: '1987-12-03T17:18:56'

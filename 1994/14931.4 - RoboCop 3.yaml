@@ -1,0 +1,34 @@
+filename: RoboCop 3 (Installer) (En)(De)(Fr) (1994)(The Hit Squad, Jackson Libri Electronic Publishing, Ocean Software Ltd.) [Action, Racing - Driving].zip
+tdc_id: '14931.4'
+parent_id: '17426.1'
+title:
+  box: RoboCop 3
+  qualifier: Installer
+publisher: The Hit Squad, Jackson Libri Electronic Publishing, Ocean Software Ltd.
+year: '1994'
+genre:
+- Action
+- Racing - Driving
+language:
+- English
+- French
+- German
+date:
+  added: '2024-03-24T09:35:03'
+  last_modified: '2024-03-24T09:35:03'
+type: zip
+media: CD-ROM
+installer: true
+commands:
+  play: HDINST.EXE
+references:
+  mobygames: https://www.mobygames.com/game/20121/robocop-3/
+files:
+- name: HDINST.EXE
+  size: 24501
+  date: '1994-05-23T12:34:28'
+  crc: '0x9a4135e4'
+- name: ROBO3.RNC
+  size: 4552314
+  date: '1994-05-23T12:32:26'
+  crc: '0xe9466329'

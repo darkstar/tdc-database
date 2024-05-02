@@ -1,0 +1,71 @@
+filename: Conquestador- Szenario Generator (Installer) (De) (1991)(German Design Group) [Strategy, Addon].zip
+tdc_id: '6104.15'
+parent_id: '6104.14'
+title:
+  box: 'Conquestador: Szenario Generator'
+  qualifier: Installer
+publisher: German Design Group
+year: '1991'
+genre:
+- Strategy
+- Addon
+language: German
+date:
+  added: '2024-04-01T09:18:43'
+  last_modified: '2024-04-01T09:18:43'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/55408/conquestador-szenario-generator/
+files:
+- name: INSTALL.EXE
+  size: 23082
+  date: '1992-08-18T16:16:20'
+  crc: '0xc3042e8d'
+- name: PRIVATE\
+  size: 0
+  date: '1992-08-14T15:44:00'
+- name: PRIVATE\DISK1.EXE
+  size: 300616
+  date: '1992-08-18T17:24:56'
+  crc: '0x0e9c15b4'
+- name: PRIVATE\DRUCKE.BAT
+  size: 21
+  date: '1992-08-18T16:18:42'
+  crc: '0x59b0f14c'
+- name: PRIVATE\DRUCKEN.BAT
+  size: 21
+  date: '1992-08-18T16:18:42'
+  crc: '0x59b0f14c'
+- name: PRIVATE\EDIT.BAT
+  size: 14
+  date: '1992-06-30T00:18:58'
+  crc: '0xedc63c23'
+- name: PRIVATE\GFX\
+  size: 0
+  date: '1999-06-16T19:06:48'
+- name: PRIVATE\GFX\#NFO.EGA
+  size: 0
+  date: '1999-06-16T19:07:22'
+- name: PRIVATE\GFX\8.FON
+  size: 2948
+  date: '1992-08-17T17:31:56'
+  crc: '0x849b6f6f'
+- name: PRIVATE\GFX\NSTART
+  size: 91890
+  date: '1992-06-29T20:26:12'
+  crc: '0x49839285'
+- name: PRIVATE\GFX\NSTART.EGA
+  size: 90066
+  date: '1992-06-29T21:31:36'
+  crc: '0x092eacec'
+- name: PRIVATE\SCEDIT.HLP
+  size: 12137
+  date: '1992-08-17T17:51:18'
+  crc: '0x8374cd94'
+- name: PRIVATE\UPDATE.EXE
+  size: 190828
+  date: '1992-08-18T09:45:36'
+  crc: '0x56c26622'

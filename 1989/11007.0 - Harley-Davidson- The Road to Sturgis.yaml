@@ -1,5 +1,6 @@
 filename: Harley-Davidson- The Road to Sturgis (1989)(Mindscape, Inc.) [Action, Racing - Driving, Simulation].zip
 tdc_id: '11007.0'
+parent_id: '11007.3'
 title:
   box: 'Harley-Davidson: The Road to Sturgis'
 publisher: Mindscape, Inc.
@@ -95,17 +96,16 @@ files:
   size: 3150
   date: '1989-11-09T15:23:38'
   crc: '0xfd259631'
-- name: HALLFAME.HD
-  size: 640
-  date: '1997-01-11T19:48:12'
-  crc: '0xc011be91'
+- name: HARLEY
+  size: 0
+  date: '1989-12-04T18:20:50'
 - name: HG.EXE
   size: 160437
-  date: '1991-11-14T21:06:12'
+  date: '1989-12-04T20:18:06'
   crc: '0x90c07af4'
 - name: HG.EX_
   size: 160437
-  date: '2018-09-19T21:22:08'
+  date: '1989-12-04T20:18:06'
   crc: '0x1ae00602'
 - name: HG1.ART
   size: 19346
@@ -141,7 +141,7 @@ files:
   crc: '0xcea5e8a8'
 - name: INIT.ART
   size: 42515
-  date: '1989-11-07T01:42:56'
+  date: '1989-12-04T20:28:30'
   crc: '0xe43ceafb'
 - name: IT.DRV
   size: 33099
@@ -171,6 +171,10 @@ files:
   size: 915
   date: '1989-11-09T15:22:36'
   crc: '0x5bce06f1'
+- name: README.DOC
+  size: 1986
+  date: '1989-12-02T21:20:48'
+  crc: '0x45c9b8ff'
 - name: REAPER.ART
   size: 1352
   date: '1989-11-09T15:18:40'

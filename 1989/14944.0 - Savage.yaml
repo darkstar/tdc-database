@@ -1,18 +1,22 @@
-filename: Savage (CGA-Tandy) [b1] (1989)(Firebird Software Ltd.) [Action].zip
+filename: Savage (CGA, Tandy) [b1] (1989)(Firebird Software Ltd.) [Action].zip
 tdc_id: '14944.0'
 title:
   box: Savage
-  qualifier: CGA-Tandy
+  qualifier: CGA, Tandy
 publisher: Firebird Software Ltd.
 year: '1989'
 genre: Action
 language: English
 date:
   added: '2019-03-01T18:28:52'
-  last_modified: '2019-03-01T18:28:52'
+  last_modified: '2024-04-08T08:18:31'
 type: zip
 tags:
 - Bad: 1
+commands:
+  play: SAVAGE.EXE
+references:
+  mobygames: https://www.mobygames.com/game/297/savage/
 files:
 - name: SAVAGE.EXE
   size: 9174

@@ -1,5 +1,6 @@
-filename: RoboCop 3 (En)(De)(Fr) (1992)(Ocean Software Ltd.) [Action, Racing - Driving].zip
+filename: RoboCop 3 (En)(De)(Fr) (1992)(Ocean Software Ltd.) [Action, Racing - Driving][!].zip
 tdc_id: '14931.0'
+parent_id: '14931.1'
 title:
   box: RoboCop 3
 publisher: Ocean Software Ltd.
@@ -13,53 +14,63 @@ language:
 - German
 date:
   added: '2019-03-01T18:50:24'
-  last_modified: '2019-03-01T18:50:24'
+  last_modified: '2024-03-23T18:32:30'
 type: zip
+tags:
+- KnownGood
+media: 1.44M
+commands:
+  play: ROBO3.BAT
 references:
+  mobygames: https://www.mobygames.com/game/20121/robocop-3/
   dosid: DOS04332
   exodos: RoboCop 3 (1992).zip
 files:
 - name: COR.DAT
   size: 217632
-  date: '2011-12-04T14:09:48'
+  date: '1992-10-23T16:46:54'
   crc: '0xc9a83207'
 - name: DRIVING.DAT
   size: 168496
-  date: '2011-12-04T14:09:48'
+  date: '1992-10-23T16:46:54'
   crc: '0x2e066bfd'
 - name: FIGHTING.DAT
   size: 139760
-  date: '2011-12-04T14:09:48'
+  date: '1992-10-23T16:46:54'
   crc: '0xe1c4afcb'
 - name: FLYING.DAT
   size: 165360
-  date: '2011-12-04T14:09:48'
+  date: '1992-10-23T16:46:54'
   crc: '0x14174fc5'
 - name: GV
   size: 26
-  date: '2011-12-04T14:09:48'
+  date: '1992-10-23T16:46:54'
   crc: '0x208e2965'
 - name: ROBO.DAT
   size: 4571133
-  date: '2011-12-04T14:09:48'
+  date: '1992-10-23T16:46:54'
   crc: '0x01bb391f'
 - name: ROBO3.BAT
+  size: 21
+  date: '1992-10-23T16:46:54'
+  crc: '0xbf2b83e0'
+- name: ROBO3.BA_
   size: 28
-  date: '2011-12-04T14:09:48'
-  crc: '0x7ed6d932'
+  date: '1992-10-23T16:46:54'
+  crc: '0xd0be48a3'
 - name: SETSOUND.EXE
   size: 15046
-  date: '2011-12-04T14:09:48'
+  date: '1992-10-23T16:46:54'
   crc: '0xed45e240'
 - name: SETSTICK.EXE
   size: 19596
-  date: '2011-12-04T14:09:48'
+  date: '1992-10-23T16:46:54'
   crc: '0xbc85e9b4'
 - name: START.EXE
   size: 157408
-  date: '1999-01-10T19:02:58'
-  crc: '0xc254ce1e'
+  date: '1992-10-23T16:46:54'
+  crc: '0x0a7a2ded'
 - name: START.EX_
   size: 157408
-  date: '2011-12-04T14:09:48'
-  crc: '0x22901c74'
+  date: '1992-10-23T16:46:54'
+  crc: '0xeabeff87'

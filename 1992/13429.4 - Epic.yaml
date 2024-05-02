@@ -1,0 +1,65 @@
+filename: Epic v1.0 r920618 (1992)(Ocean Software Ltd.) [Action, Simulation].zip
+tdc_id: '13429.4'
+parent_id: '13429.2'
+title:
+  box: Epic
+publisher: Ocean Software Ltd.
+year: '1992'
+genre:
+- Action
+- Simulation
+language: English
+date:
+  added: '2019-03-01T18:44:40'
+  last_modified: '2024-03-20T13:53:07'
+version: '1.0'
+release: '920618'
+type: zip
+media: 1.44M
+commands:
+  play: EPIC.BAT
+references:
+  mobygames: https://www.mobygames.com/game/2080/epic/
+  dosid: DOS02031
+  exodos: Epic (1992).zip
+files:
+- name: EPIC.BAT
+  size: 21
+  date: '1992-06-18T14:08:40'
+  crc: '0xbf2b83e0'
+- name: EPIC.BA_
+  size: 27
+  date: '1992-06-18T14:08:40'
+  crc: '0x488c8bcb'
+- name: EPIC.DAT
+  size: 6808045
+  date: '1992-06-18T14:08:40'
+  crc: '0xfada97d0'
+- name: GAME.DAT
+  size: 182912
+  date: '1992-06-18T14:08:40'
+  crc: '0x7d5b01c5'
+- name: GV
+  size: 56
+  date: '1992-06-18T14:08:40'
+  crc: '0x32c7692f'
+- name: READ.ME
+  size: 1572
+  date: '1992-06-18T14:08:40'
+  crc: '0x577a8d31'
+- name: SETSOUND.EXE
+  size: 14790
+  date: '1992-06-18T14:08:40'
+  crc: '0xf2600c90'
+- name: SETSTICK.EXE
+  size: 17822
+  date: '1992-06-18T14:08:40'
+  crc: '0xa2f9706e'
+- name: START.EXE
+  size: 139968
+  date: '1992-06-18T14:08:40'
+  crc: '0xfcb447c2'
+- name: START.EX_
+  size: 139968
+  date: '1992-06-18T14:08:40'
+  crc: '0x64b057d0'

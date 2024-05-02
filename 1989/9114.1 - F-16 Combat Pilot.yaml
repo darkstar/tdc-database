@@ -1,9 +1,9 @@
-filename: F-16 Combat Pilot (EGA-Tandy) [f1] (1989)(Electronic Arts, Inc.) [Simulation, Strategy].zip
+filename: F-16 Combat Pilot (EGA, Tandy) [f1] (1989)(Electronic Arts, Inc.) [Simulation, Strategy].zip
 tdc_id: '9114.1'
 parent_id: '9114.2'
 title:
   box: F-16 Combat Pilot
-  qualifier: EGA-Tandy
+  qualifier: EGA, Tandy
 publisher: Electronic Arts, Inc.
 year: '1989'
 genre:
@@ -12,11 +12,14 @@ genre:
 language: English
 date:
   added: '2020-08-04T11:52:14'
-  last_modified: '2020-08-04T11:52:14'
+  last_modified: '2024-04-07T08:57:10'
 type: zip
 tags:
 - Fixed: 1
+commands:
+  play: START.BAT
 references:
+  mobygames: https://www.mobygames.com/game/6421/f-16-combat-pilot/
   dosid: DOS02083
   exodos: F-16 Combat Pilot (1989).zip
 files:

@@ -1,5 +1,6 @@
-filename: Computer Edition of Monopoly, The [a1] (1989)(Leisure Genius) [IMA][360k].zip
+filename: Computer Edition of Monopoly, The (1989)(Leisure Genius) [IMA][360k][!].zip
 tdc_id: '6366.7'
+parent_id: '6366.9'
 title:
   box: The Computer Edition of Monopoly
 publisher: Leisure Genius
@@ -8,13 +9,15 @@ genre: IMA
 language: English
 date:
   added: '2023-03-15T09:26:31'
-  last_modified: '2023-03-15T09:26:31'
+  last_modified: '2024-03-11T14:48:05'
 type: IMA
 tags:
-- Alternate: 1
+- KnownGood
 media: 360K
+references:
+  mobygames: https://www.mobygames.com/game/6151/monopoly/
 files:
-- name: MONOPO#1.IMA
+- name: Disk1.ima
   size: 368640
-  date: '2015-03-07T20:40:12'
+  date: '2024-03-10T09:37:44'
   crc: '0x15e85853'

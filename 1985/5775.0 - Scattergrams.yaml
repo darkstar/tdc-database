@@ -1,5 +1,6 @@
 filename: Scattergrams (1985)(IBM) [Strategy, Puzzle].zip
 tdc_id: '5775.0'
+parent_id: '5775.1'
 title:
   box: Scattergrams
 publisher: IBM
@@ -15,7 +16,7 @@ type: zip
 files:
 - name: G.COM
   size: 259
-  date: '2021-03-19T12:00:00'
+  date: '1980-01-01T00:00:00'
   crc: '0x4a3e5a1e'
 - name: G.EXE
   size: 5632
@@ -37,6 +38,10 @@ files:
   size: 1515
   date: '1985-01-15T12:00:16'
   crc: '0x6cab6226'
+- name: SG.COM
+  size: 92
+  date: '1980-01-01T00:00:00'
+  crc: '0xadd742f1'
 - name: SG.EXE
   size: 65920
   date: '1985-01-15T12:00:00'
@@ -92,6 +97,10 @@ files:
 - name: VENDOR-#.DO1
   size: 0
   date: '1983-07-04T00:00:00'
+- name: VIEWDOX.COM
+  size: 92
+  date: '1980-01-01T00:00:00'
+  crc: '0x38daeed9'
 - name: VIEWDOX.EXE
   size: 10484
   date: '1985-01-15T12:00:00'

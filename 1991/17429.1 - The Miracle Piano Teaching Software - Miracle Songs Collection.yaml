@@ -1,0 +1,34 @@
+filename: Miracle Piano Teaching Software, The - Miracle Songs Collection v1.00 (Installer) (1991)(The Software Toolworks, Inc.) [Educational, Addon].zip
+tdc_id: '17429.1'
+title:
+  box: The Miracle Piano Teaching Software - Miracle Songs Collection
+  qualifier: Installer
+publisher: The Software Toolworks, Inc.
+year: '1991'
+genre:
+- Educational
+- Addon
+language: English
+date:
+  added: '2024-03-28T11:09:56'
+  last_modified: '2024-03-28T11:09:56'
+version: '1.00'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/18943/the-miracle-piano-teaching-system/
+files:
+- name: DI1.QPZ
+  size: 4
+  date: '1991-09-21T21:27:18'
+  crc: '0x04e5916b'
+- name: INSTALL.EXE
+  size: 44587
+  date: '1991-09-20T19:35:42'
+  crc: '0x1d44956b'
+- name: MI1.TZF
+  size: 301806
+  date: '1991-09-21T21:08:38'
+  crc: '0xf3d40b8f'

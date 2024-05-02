@@ -1,4 +1,4 @@
-filename: Contraption Zack v1.0.5 (1992)(Mindscape, Inc.) [Action, Strategy].zip
+filename: Contraption Zack v1.0.5 [f1] (1992)(Mindscape, Inc.) [Action, Strategy].zip
 tdc_id: '6115.0'
 parent_id: '6115.1'
 title:
@@ -11,66 +11,154 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:41:58'
-  last_modified: '2019-03-01T18:41:58'
+  last_modified: '2024-03-25T08:45:58'
 version: 1.0.5
 type: zip
+tags:
+- Fixed: 1
 commands:
   play: ZACK.EXE
+  setup: SETUP.BAT
 references:
+  mobygames: https://www.mobygames.com/game/5011/contraption-zack/
   dosid: DOS01517
   exodos: Contraption Zack (1992).zip
 files:
-- name: Drivers\
+- name: DRIVERS\
   size: 0
-  date: '2012-04-11T23:37:52'
-- name: Drivers\MIDPAK.AD
+  date: '1992-11-18T14:34:56'
+- name: DRIVERS\ADLIB.ADD
+  size: 18
+  date: '1992-11-18T14:34:56'
+  crc: '0x30eddd70'
+- name: DRIVERS\ADLIB.ADV
+  size: 13919
+  date: '1992-11-18T14:34:56'
+  crc: '0xa22b853c'
+- name: DRIVERS\ADLIB.COM
+  size: 3088
+  date: '1992-11-18T14:34:56'
+  crc: '0x2f780ee5'
+- name: DRIVERS\IBMBAK.COM
+  size: 2816
+  date: '1992-11-18T14:34:56'
+  crc: '0xf961d0d6'
+- name: DRIVERS\MIDPAK.AD
   size: 5248
-  date: '2006-06-26T07:57:08'
+  date: '1992-11-18T14:34:56'
   crc: '0x6c318683'
-- name: Drivers\MIDPAK.ADV
-  size: 13968
-  date: '2006-06-26T07:57:08'
-  crc: '0x29697857'
-- name: Drivers\MIDPAK.COM
+- name: DRIVERS\MIDPAK.COM
   size: 12722
-  date: '2006-06-26T07:57:08'
+  date: '1992-11-18T14:34:56'
   crc: '0xa07eedcf'
-- name: Drivers\SNDRVR.COM
+- name: DRIVERS\MT32MPU.ADD
+  size: 21
+  date: '1992-11-18T14:34:56'
+  crc: '0x841edf09'
+- name: DRIVERS\MT32MPU.ADV
+  size: 10432
+  date: '1992-11-18T14:34:56'
+  crc: '0x822a9866'
+- name: DRIVERS\PASFM.ADD
+  size: 17
+  date: '1992-11-18T14:34:56'
+  crc: '0x70bc6884'
+- name: DRIVERS\PASFM.ADV
+  size: 14395
+  date: '1992-11-18T14:34:56'
+  crc: '0xb0541395'
+- name: DRIVERS\PAUDIO.COM
+  size: 4304
+  date: '1992-11-18T14:34:56'
+  crc: '0x6afc10d8'
+- name: DRIVERS\PCSPKR.ADD
+  size: 12
+  date: '1992-11-18T14:34:56'
+  crc: '0x5ae4d9c3'
+- name: DRIVERS\PCSPKR.ADV
+  size: 7886
+  date: '1992-11-18T14:34:56'
+  crc: '0x0a619279'
+- name: DRIVERS\SBFM.ADD
+  size: 20
+  date: '1992-11-18T14:34:56'
+  crc: '0xf98dc4bc'
+- name: DRIVERS\SBFM.ADV
+  size: 13968
+  date: '1992-11-18T14:34:56'
+  crc: '0x29697857'
+- name: DRIVERS\SBLASTER.COM
   size: 3616
-  date: '2006-06-26T07:57:08'
+  date: '1992-11-18T14:34:56'
   crc: '0xfaf09c72'
-- name: RUBEAREA.SAV
-  size: 88
-  date: '2012-03-27T17:51:34'
-  crc: '0xb32f6a8c'
-- name: RUBEAREA.TMP
-  size: 68
-  date: '2012-03-27T17:51:34'
-  crc: '0xfa24ad84'
-- name: Resource\
+- name: DRIVERS\SBPFM.ADD
+  size: 24
+  date: '1992-11-18T14:34:56'
+  crc: '0xa4073c2b'
+- name: DRIVERS\SBPFM.ADV
+  size: 14404
+  date: '1992-11-18T14:34:56'
+  crc: '0x83214d49'
+- name: DRIVERS\SBPRO.COM
+  size: 3552
+  date: '1992-11-18T14:34:56'
+  crc: '0x73b8c04e'
+- name: DRIVERS\SETD.EXE
+  size: 50440
+  date: '1992-11-18T14:34:56'
+  crc: '0xbee9dbcf'
+- name: DRIVERS\SETM.EXE
+  size: 49455
+  date: '1992-11-18T14:34:56'
+  crc: '0x5c738a03'
+- name: DRIVERS\SOURCE.COM
+  size: 2592
+  date: '1992-11-18T14:34:56'
+  crc: '0xd8164913'
+- name: DRIVERS\TANDY.ADD
+  size: 7
+  date: '1992-11-18T14:34:56'
+  crc: '0x1543a3d1'
+- name: DRIVERS\TANDY.ADV
+  size: 8156
+  date: '1992-11-18T14:34:56'
+  crc: '0x80dbb220'
+- name: DRIVERS\TANEXTX.COM
+  size: 2976
+  date: '1992-11-18T14:34:56'
+  crc: '0x238d61d8'
+- name: DRIVERS\TANSLTL.COM
+  size: 2384
+  date: '1992-11-18T14:34:56'
+  crc: '0xd40eefed'
+- name: RESOURCE\
   size: 0
-  date: '2012-04-11T23:37:52'
-- name: Resource\INTROEND.PRS
+  date: '1992-11-18T14:37:38'
+- name: RESOURCE\INTROEND.PRS
   size: 1731784
-  date: '2006-06-26T07:57:30'
+  date: '1992-11-18T14:37:16'
   crc: '0xd02c7317'
-- name: Resource\OBJECTS.PRS
+- name: RESOURCE\OBJECTS.PRS
   size: 1148612
-  date: '2006-06-26T08:00:44'
+  date: '1992-11-18T14:37:38'
   crc: '0x89732fb4'
-- name: Resource\ROOMS.PRS
+- name: RESOURCE\ROOMS.PRS
   size: 270253
-  date: '2006-06-26T07:57:34'
+  date: '1992-11-18T14:37:16'
   crc: '0xb3ab4bfa'
-- name: Resource\WORLD.PRS
+- name: RESOURCE\WORLD.PRS
   size: 44671
-  date: '2006-06-26T07:57:34'
+  date: '1992-11-18T14:37:16'
   crc: '0x4e3f508b'
-- name: Resource\ZACK.PRS
+- name: RESOURCE\ZACK.PRS
   size: 209007
-  date: '2006-06-26T07:57:32'
+  date: '1992-11-18T14:37:16'
   crc: '0x41da004d'
+- name: SETUP.BAT
+  size: 159
+  date: '1980-01-01T13:00:00'
+  crc: '0xa3ef8d44'
 - name: ZACK.EXE
   size: 130746
-  date: '2006-06-26T07:57:06'
+  date: '1992-11-18T14:34:48'
   crc: '0x09bbb183'

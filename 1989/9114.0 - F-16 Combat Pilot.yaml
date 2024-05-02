@@ -1,8 +1,8 @@
-filename: F-16 Combat Pilot (CGA-Mono) [h1] (1989)(Digital Integration Ltd.) [Simulation, Strategy].zip
+filename: F-16 Combat Pilot (MDA, CGA) [h1] (1989)(Digital Integration Ltd.) [Simulation, Strategy].zip
 tdc_id: '9114.0'
 title:
   box: F-16 Combat Pilot
-  qualifier: CGA-Mono
+  qualifier: MDA, CGA
 publisher: Digital Integration Ltd.
 year: '1989'
 genre:
@@ -11,12 +11,14 @@ genre:
 language: English
 date:
   added: '2021-01-10T14:42:38'
-  last_modified: '2021-01-10T14:42:38'
+  last_modified: '2024-04-07T09:03:45'
 type: zip
 tags:
 - Hack: 1
 commands:
   play: F16.EXE
+references:
+  mobygames: https://www.mobygames.com/game/6421/f-16-combat-pilot/
 files:
 - name: COMPLETE.CMP
   size: 13534

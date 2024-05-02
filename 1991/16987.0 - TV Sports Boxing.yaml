@@ -1,0 +1,129 @@
+filename: TV Sports Boxing [b1] (1991)(Mirrorsoft Ltd., Cinemaware Corporation) [Action, Sports, Strategy].zip
+tdc_id: '16987.0'
+title:
+  box: TV Sports Boxing
+publisher: Mirrorsoft Ltd., Cinemaware Corporation
+year: '1991'
+genre:
+- Action
+- Sports
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:39:54'
+  last_modified: '2024-04-06T10:21:34'
+type: zip
+tags:
+- Bad: 1
+commands:
+  play: VBOX.COM
+  setup: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/15780/abc-wide-world-of-sports-boxing/
+  dosid: DOS15809
+  exodos: TV Sports - Boxing (1991).zip
+files:
+- name: BBDATA.BLT
+  size: 137463
+  date: '1991-08-25T12:00:00'
+  crc: '0xcd1e9c92'
+- name: BGLOBE.BLT
+  size: 93990
+  date: '1991-10-02T10:02:24'
+  crc: '0x37c21f37'
+- name: BHDATA.BLT
+  size: 358111
+  date: '1991-10-02T10:02:22'
+  crc: '0x6544a9a1'
+- name: BOXINTRO.BLT
+  size: 128632
+  date: '1991-09-20T10:35:30'
+  crc: '0x5fc398ce'
+- name: BOXRDATA.BLT
+  size: 19012
+  date: '1991-10-02T10:02:22'
+  crc: '0xf73ed2e0'
+- name: BPPICS.BLT
+  size: 50808
+  date: '1991-08-25T12:00:00'
+  crc: '0xcf084f1c'
+- name: BSHELL.BLT
+  size: 222201
+  date: '1991-08-25T12:00:00'
+  crc: '0x84c0d70e'
+- name: CONFIG.BLT
+  size: 4856
+  date: '1991-08-25T12:00:00'
+  crc: '0xdfe1de7f'
+- name: DBAAA.000
+  size: 512
+  date: '1991-11-07T00:15:06'
+  crc: '0x5fe42c8b'
+- name: DBAAB.000
+  size: 512
+  date: '1991-11-07T00:16:58'
+  crc: '0xb2aa7578'
+- name: DBEAA.000
+  size: 512
+  date: '1991-11-07T00:17:40'
+  crc: '0xf51cb99a'
+- name: DBEAB.000
+  size: 512
+  date: '1991-11-07T00:18:18'
+  crc: '0x52300c63'
+- name: DKAAA.000
+  size: 512
+  date: '1991-11-07T00:18:22'
+  crc: '0x2e4a231f'
+- name: DLAAA.000
+  size: 512
+  date: '1991-11-07T00:15:08'
+  crc: '0xdaedd55e'
+- name: DLAAB.000
+  size: 512
+  date: '1991-11-07T00:16:58'
+  crc: '0x02e24e42'
+- name: DLEAA.000
+  size: 512
+  date: '1991-11-07T00:17:40'
+  crc: '0xac441f3c'
+- name: DLEAB.000
+  size: 512
+  date: '1991-11-07T00:18:20'
+  crc: '0xee2cae91'
+- name: DMAAA.000
+  size: 512
+  date: '1991-11-07T00:15:06'
+  crc: '0x5a7b154f'
+- name: DMAAB.000
+  size: 512
+  date: '1991-11-07T00:16:58'
+  crc: '0x1503d705'
+- name: DMEAA.000
+  size: 512
+  date: '1991-11-07T00:17:40'
+  crc: '0xa91f425d'
+- name: DMEAB.000
+  size: 512
+  date: '1991-11-07T00:18:18'
+  crc: '0x5971fcfc'
+- name: FILES.TXT
+  size: 1126
+  date: '1991-08-25T12:00:00'
+  crc: '0x55b172a7'
+- name: GAME.DAT
+  size: 239352
+  date: '1991-10-02T10:02:22'
+  crc: '0xa8af1d7a'
+- name: RANKINGS.TXT
+  size: 63
+  date: '1991-10-02T10:02:24'
+  crc: '0xac7bd6c8'
+- name: SETUP.EXE
+  size: 41590
+  date: '1991-08-25T12:00:00'
+  crc: '0xe6f9c822'
+- name: VBOX.COM
+  size: 841
+  date: '1991-12-07T22:14:40'
+  crc: '0x074034c0'

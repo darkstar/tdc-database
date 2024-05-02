@@ -1,5 +1,6 @@
-filename: Where in the World is Carmen Sandiego_ [a1] (1986)(Brøderbund Software, Inc.) [Adventure, Educational].zip
+filename: Where in the World is Carmen Sandiego_ v1.0 (1986)(Brøderbund Software, Inc.) [Adventure, Educational].zip
 tdc_id: '8009.8'
+parent_id: '8009.5'
 title:
   box: Where in the World is Carmen Sandiego?
 publisher: Brøderbund Software, Inc.
@@ -10,12 +11,14 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:25:02'
-  last_modified: '2019-03-01T18:25:02'
+  last_modified: '2024-03-11T11:59:52'
+version: '1.0'
 type: zip
-tags:
-- Alternate: 1
+media: 360K
 commands:
   play: CARMEN.EXE
+references:
+  mobygames: https://www.mobygames.com/game/163/where-in-the-world-is-carmen-sandiego/
 files:
 - name: ATHENS.CIT
   size: 5440
@@ -53,6 +56,10 @@ files:
   size: 27032
   date: '1988-01-28T11:43:52'
   crc: '0x8294688e'
+- name: CARMEN.EX_
+  size: 27032
+  date: '1986-09-10T13:33:40'
+  crc: '0x83a726b8'
 - name: COLOMBO.CIT
   size: 6885
   date: '1986-09-10T13:31:26'
@@ -115,8 +122,8 @@ files:
   crc: '0x10673faf'
 - name: PARIS.CIT
   size: 5920
-  date: '1986-09-10T01:32:28'
-  crc: '0xca29f288'
+  date: '1986-09-10T13:32:28'
+  crc: '0xd3ba102c'
 - name: PEKING.CIT
   size: 6030
   date: '1986-09-10T13:32:32'

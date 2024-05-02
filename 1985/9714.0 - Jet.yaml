@@ -1,18 +1,23 @@
-filename: Jet (1985)(subLOGIC) [Simulation].img.zip
+filename: Jet [a1] (1985)(subLOGIC) [IMA][160k][cr].zip
 tdc_id: '9714.0'
 title:
   box: Jet
 publisher: subLOGIC
 year: '1985'
-genre: Simulation
+genre: IMA
 language: English
 date:
   added: '2020-11-03T10:38:44'
-  last_modified: '2020-11-03T10:38:44'
-type: zip
+  last_modified: '2024-04-01T12:20:00'
+type: IMA
+tags:
+- Alternate: 1
+media: 360K
+references:
+  mobygames: https://www.mobygames.com/game/1856/jet/
 notes: .img
 files:
-- name: JET.IMG
+- name: disk1.ima
   size: 204800
   date: '2020-11-03T09:15:22'
   crc: '0x71524725'

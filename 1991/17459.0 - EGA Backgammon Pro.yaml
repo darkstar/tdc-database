@@ -1,0 +1,53 @@
+filename: EGA Backgammon Pro v1.50 (De) [SW] (1991)(Michael Schellong) [Strategy, Board].zip
+tdc_id: '17459.0'
+title:
+  screen: EGA Backgammon Pro
+publisher: Michael Schellong
+year: '1991'
+genre:
+- Strategy
+- Board
+language: German
+date:
+  added: '2024-04-01T17:55:50'
+  last_modified: '2024-04-01T17:55:50'
+version: '1.50'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: BGPRO.EXE
+files:
+- name: BGPRO.DOC
+  size: 42947
+  date: '1991-06-01T01:50:00'
+  crc: '0xff5654ac'
+- name: BGPRO.EXE
+  size: 103955
+  date: '1991-06-01T01:50:00'
+  crc: '0x94a1a37b'
+- name: BGPRO.PTS
+  size: 4
+  date: '2023-08-09T22:40:24'
+  crc: '0x2144df1c'
+- name: BGPRO.SET
+  size: 90
+  date: '2022-07-26T09:15:36'
+  crc: '0xe268eba8'
+- name: RAND1.C
+  size: 2617
+  date: '1991-06-01T01:50:00'
+  crc: '0x4d60c087'
+- name: RAND1.EXE
+  size: 14772
+  date: '1991-06-01T01:50:00'
+  crc: '0x239f3e51'
+- name: RAND2.EXE
+  size: 18461
+  date: '1991-06-01T01:50:00'
+  crc: '0x229086cd'
+- name: RAND2.PAS
+  size: 4385
+  date: '1991-06-01T01:50:00'
+  crc: '0x4ad21fc8'

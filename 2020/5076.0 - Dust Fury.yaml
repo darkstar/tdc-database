@@ -18,6 +18,12 @@ media: Download
 commands:
   play: dustfury.exe
 files:
+- name: data\
+  size: 0
+  date: '2024-03-16T20:49:30'
+- name: data\anim\
+  size: 0
+  date: '2024-03-16T20:49:28'
 - name: data\anim\an1-01.tga
   size: 4908
   date: '2020-04-15T22:56:24'
@@ -118,6 +124,9 @@ files:
   size: 2786
   date: '2020-04-16T00:43:24'
   crc: '0x9f70786c'
+- name: data\lr-01\
+  size: 0
+  date: '2024-03-16T20:49:30'
 - name: data\lr-01\alco01.tga
   size: 4908
   date: '2020-03-29T16:29:38'
@@ -514,6 +523,9 @@ files:
   size: 4908
   date: '2020-04-13T17:05:12'
   crc: '0xe23b65be'
+- name: data\maps\
+  size: 0
+  date: '2024-03-16T20:49:30'
 - name: data\maps\tmike01.map
   size: 786605
   date: '2020-04-16T09:32:40'
@@ -526,10 +538,16 @@ files:
   size: 768
   date: '2020-03-29T11:10:14'
   crc: '0x3617b5da'
+- name: data\sound\
+  size: 0
+  date: '2024-03-16T20:49:30'
 - name: data\sound\engine.wav
   size: 333244
   date: '2020-04-14T21:21:22'
   crc: '0xa58ce8d4'
+- name: data\vehicles\
+  size: 0
+  date: '2024-03-16T20:49:30'
 - name: data\vehicles\ship2.da3
   size: 12396
   date: '2020-04-13T19:58:32'

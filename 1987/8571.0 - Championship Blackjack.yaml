@@ -20,7 +20,7 @@ references:
 files:
 - name: BASIC.SYS
   size: 384
-  date: '1980-01-01T00:00:00'
+  date: 1980-00-00X00:00:00
   crc: '0xfa222382'
 - name: BJACK.EXE
   size: 63488
@@ -68,7 +68,7 @@ files:
   crc: '0x334d5568'
 - name: PCSOFT.SYS
   size: 2048
-  date: '1980-01-01T00:00:00'
+  date: 1980-00-00X00:00:00
   crc: '0x12896eb8'
 - name: RULESC.SCN
   size: 4224
@@ -80,11 +80,11 @@ files:
   crc: '0x7cc5d594'
 - name: SIMBEGC.SCN
   size: 4224
-  date: '1980-01-01T00:00:00'
+  date: 1980-00-00X00:00:00
   crc: '0x9cd1cbb5'
 - name: SIMBEGM.SCN
   size: 4224
-  date: '1980-01-01T00:00:00'
+  date: 1980-00-00X00:00:00
   crc: '0x1c992962'
 - name: STATS.SCN
   size: 4224
@@ -92,19 +92,19 @@ files:
   crc: '0xf02460b7'
 - name: TRNYBEGC.SCN
   size: 4224
-  date: '1980-01-01T00:00:00'
+  date: 1980-00-00X00:00:00
   crc: '0x59a7ee49'
 - name: TRNYBEGM.SCN
   size: 4224
-  date: '1980-01-01T00:00:00'
+  date: 1980-00-00X00:00:00
   crc: '0x0a537cf5'
 - name: TRNYWINC.SCN
   size: 4224
-  date: '1980-01-01T00:00:00'
+  date: 1980-00-00X00:00:00
   crc: '0xdc611277'
 - name: TRNYWINM.SCN
   size: 4224
-  date: '1980-01-01T00:00:00'
+  date: 1980-00-00X00:00:00
   crc: '0x5e8a12a3'
 - name: ZIG-0701.-15
   size: 0

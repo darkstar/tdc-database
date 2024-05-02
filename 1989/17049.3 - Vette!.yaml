@@ -1,7 +1,8 @@
-filename: Vette! v1.01 (CGA-Herc) (1989)(Spectrum HoloByte, Inc.) [Racing - Driving, Simulation].zip
+filename: Vette! v1.01 (MDA, CGA) (1989)(Spectrum HoloByte, Inc.) [Racing - Driving, Simulation].zip
 tdc_id: '17049.3'
 title:
   box: Vette!
+  qualifier: MDA, CGA
 publisher: Spectrum HoloByte, Inc.
 year: '1989'
 genre:
@@ -10,9 +11,13 @@ genre:
 language: English
 date:
   added: '2022-02-20T05:53:10'
-  last_modified: '2022-02-20T05:53:10'
+  last_modified: '2024-04-07T10:00:06'
 version: '1.01'
 type: zip
+commands:
+  play: VETTE.EXE
+references:
+  mobygames: https://www.mobygames.com/game/799/vette/
 files:
 - name: CGAPIC.BIN
   size: 6966

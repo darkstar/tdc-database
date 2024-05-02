@@ -1,5 +1,6 @@
-filename: Summer Olympiad (1988)(Thunder Mountain) [Sports].zip
+filename: Summer Olympiad (1988)(Thunder Mountain) [Sports][!].zip
 tdc_id: '16246.0'
+parent_id: '16246.2'
 title:
   box: Summer Olympiad
 publisher: Thunder Mountain
@@ -8,9 +9,15 @@ genre: Sports
 language: English
 date:
   added: '2019-03-01T18:26:52'
-  last_modified: '2019-03-01T18:26:52'
+  last_modified: '2024-03-29T08:23:24'
 type: zip
+tags:
+- KnownGood
+media: 360K
+commands:
+  play: GAME.BAT
 references:
+  mobygames: https://www.mobygames.com/game/16453/summer-challenge/
   dosid: DOS04931
   exodos: Summer Challenge (1988).zip
 files:
@@ -18,6 +25,26 @@ files:
   size: 11008
   date: '1988-07-15T09:49:36'
   crc: '0x0e7d44f2'
+- name: DISKLABL.L
+  size: 9
+  date: '1980-01-20T07:04:54'
+  crc: '0xceef9efa'
+- name: DISKLABL.L_2
+  size: 9
+  date: '1980-01-22T03:48:30'
+  crc: '0xe5c2cd39'
+- name: DISKSWAP.EXE
+  size: 1250
+  date: '1988-08-09T14:33:22'
+  crc: '0x0654c555'
+- name: DISKSWP2.EX2
+  size: 1252
+  date: '1988-09-06T02:39:42'
+  crc: '0x120c3d1e'
+- name: DISKSWP2.EXE
+  size: 533
+  date: '1988-08-08T09:16:14'
+  crc: '0xd9adcf98'
 - name: EV3.EXE
   size: 13014
   date: '1988-09-09T13:32:26'
@@ -40,8 +67,12 @@ files:
   crc: '0x57c54d1d'
 - name: GAME.BAT
   size: 550
-  date: '2001-05-29T08:45:00'
+  date: '1980-01-01T00:32:16'
   crc: '0x2fb46fe0'
+- name: GAME.BA_
+  size: 735
+  date: '1980-01-01T00:32:16'
+  crc: '0xa96968b5'
 - name: GOFOR.EXE
   size: 5666
   date: '1988-08-11T07:45:28'

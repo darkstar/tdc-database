@@ -1,8 +1,8 @@
-filename: Game of Kings (Mono) (1989)(E. Blaschke) [Strategy, Cards].zip
+filename: Game of Kings (MDA) (1989)(E. Blaschke) [Strategy, Cards].zip
 tdc_id: '13924.1'
 title:
   screen: Game of Kings
-  qualifier: Mono
+  qualifier: MDA
 publisher: E. Blaschke
 year: '1989'
 genre:
@@ -11,8 +11,11 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:27:48'
-  last_modified: '2019-03-01T18:27:48'
+  last_modified: '2024-04-07T09:04:20'
 type: zip
+media: Download
+commands:
+  play: KINGS.EXE
 files:
 - name: BRUN45.EXE
   size: 77440

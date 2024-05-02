@@ -1,19 +1,25 @@
-filename: IndyCar Racing II v1.0.1 (1996)(Sierra On-Line, Inc.) [ISO].zip
+filename: IndyCar Racing II v1.0.1 (1996)(Sierra On-Line, Inc.) [bin-cue].zip
 tdc_id: '5148.4'
 title:
   box: IndyCar Racing II
 publisher: Sierra On-Line, Inc.
 year: '1996'
-genre: ISO
+genre: bin-cue
 language: English
 date:
   added: '2023-02-22T11:24:07'
-  last_modified: '2023-02-22T11:24:07'
+  last_modified: '2024-03-12T11:45:05'
 version: 1.0.1
-type: ISO
+type: bin-cue
 media: CD-ROM
+references:
+  mobygames: https://www.mobygames.com/game/4082/indycar-racing-ii/
 files:
-- name: ICR2.iso
-  size: 226273280
-  date: '2020-07-19T12:00:32'
-  crc: '0x91cec778'
+- name: IndyCar Racing II (USA) (v1.0.1).bin
+  size: 259860720
+  date: '1996-12-24T23:32:00'
+  crc: '0xa7badacc'
+- name: IndyCar Racing II (USA) (v1.0.1).cue
+  size: 136
+  date: '1996-12-24T23:32:00'
+  crc: '0x3abd3787'

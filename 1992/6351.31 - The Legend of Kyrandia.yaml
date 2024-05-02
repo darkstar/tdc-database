@@ -1,0 +1,66 @@
+filename: Legend of Kyrandia, The v1.3 (Installer) (1992)(Virgin Games, Inc.) [Adventure].zip
+tdc_id: '6351.31'
+parent_id: '6351.20'
+title:
+  box: The Legend of Kyrandia
+  qualifier: Installer
+publisher: Virgin Games, Inc.
+year: '1992'
+genre: Adventure
+language: English
+date:
+  added: '2024-04-01T19:04:23'
+  last_modified: '2024-04-01T19:04:23'
+version: '1.3'
+type: zip
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/394/fables-fiends-the-legend-of-kyrandia-book-one/
+files:
+- name: '#M\'
+  size: 0
+  date: '1991-10-18T16:30:20'
+- name: '#OC\'
+  size: 0
+  date: '1991-10-18T16:31:06'
+- name: '#OLLINS\'
+  size: 0
+  date: '1991-10-18T16:30:08'
+- name: '#UICK\'
+  size: 0
+  date: '1991-10-18T16:30:18'
+- name: '#UROBASE\'
+  size: 0
+  date: '1991-10-18T16:30:32'
+- name: '#UROLET\'
+  size: 0
+  date: '1991-10-18T16:30:24'
+- name: '#UROTAP\'
+  size: 0
+  date: '1991-10-18T16:31:24'
+- name: '#UTOR\'
+  size: 0
+  date: '1991-10-18T16:30:10'
+- name: DISK1.EXE
+  size: 1418859
+  date: '1992-08-14T12:34:28'
+  crc: '0xd453b079'
+- name: DISK2.EXE
+  size: 1456852
+  date: '1992-08-14T12:35:22'
+  crc: '0xa794f024'
+- name: DISK3.EXE
+  size: 1456768
+  date: '1992-09-10T12:45:50'
+  crc: '0xd362d132'
+- name: DISK4.EXE
+  size: 1424794
+  date: '1992-08-14T12:37:28'
+  crc: '0x1609b209'
+- name: INSTALL.EXE
+  size: 37007
+  date: '1992-08-14T12:37:56'
+  crc: '0x1e188267'

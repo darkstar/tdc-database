@@ -1,18 +1,23 @@
-filename: Rise of the Dragon (CGA-EGA) [a1] (1990)(Sierra On-Line, Inc.) [Adventure].zip
+filename: Rise of the Dragon (CGA, EGA) [a1] (1990)(Sierra On-Line, Inc.) [Adventure].zip
 tdc_id: '14900.1'
 title:
   box: Rise of the Dragon
-  qualifier: CGA-EGA
+  qualifier: CGA, EGA
 publisher: Sierra On-Line, Inc.
 year: '1990'
 genre: Adventure
 language: English
 date:
   added: '2019-03-01T18:33:50'
-  last_modified: '2019-03-01T18:33:50'
+  last_modified: '2024-04-08T08:21:20'
 type: zip
 tags:
 - Alternate: 1
+commands:
+  play: DRAGON.EXE
+  setup: INSTALL.COM
+references:
+  mobygames: https://www.mobygames.com/game/98/rise-of-the-dragon/
 files:
 - name: '--------.--'
   size: 3

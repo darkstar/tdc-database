@@ -1,4 +1,4 @@
-filename: Crime Does Not Pay [h1] (1991)(Titus Software Corporation) [Action].zip
+filename: Crime Does Not Pay (1991)(Titus Software Corporation) [Action].zip
 tdc_id: '9372.1'
 title:
   box: Crime Does Not Pay
@@ -8,97 +8,98 @@ genre: Action
 language: English
 date:
   added: '2019-03-01T18:35:26'
-  last_modified: '2019-03-01T18:35:26'
+  last_modified: '2024-04-05T15:08:08'
 type: zip
-tags:
-- Hack: 1
+commands:
+  play: MAFIA.COM
 references:
+  mobygames: https://www.mobygames.com/game/51290/crime-does-not-pay/
   dosid: DOS01559
   exodos: Crime Does Not Pay (1990).zip
 files:
 - name: BANKROOM.SEQ
   size: 5638
-  date: '1986-04-24T00:01:08'
+  date: '1986-04-23T23:01:08'
   crc: '0x3c6e3a9a'
 - name: BOUNTY.SEQ
   size: 3574
-  date: '1986-04-24T00:02:22'
+  date: '1986-04-23T23:02:22'
   crc: '0x71334592'
 - name: BUS.SEQ
   size: 1662
-  date: '1986-04-24T00:10:22'
+  date: '1986-04-23T23:10:22'
   crc: '0xa78c0034'
 - name: CARRACT.SEQ
   size: 3774
-  date: '1986-04-24T00:02:40'
+  date: '1986-04-23T23:02:40'
   crc: '0x7fe9d487'
 - name: CARRACT2.SEQ
   size: 1040
-  date: '1986-04-24T00:06:10'
+  date: '1986-04-23T23:06:10'
   crc: '0x8649222c'
 - name: CARRACT3.SEQ
   size: 1930
-  date: '1986-04-24T00:06:24'
+  date: '1986-04-23T23:06:24'
   crc: '0xe7ade48a'
 - name: CARRACT4.SEQ
   size: 2170
-  date: '1986-04-24T00:06:32'
+  date: '1986-04-23T23:06:32'
   crc: '0xfa696de5'
 - name: CARRACT5.SEQ
   size: 3100
-  date: '1986-04-24T00:06:40'
+  date: '1986-04-23T23:06:40'
   crc: '0x9af7f810'
 - name: CARRACT6.SEQ
   size: 5194
-  date: '1986-04-24T00:06:50'
+  date: '1986-04-23T23:06:50'
   crc: '0x145a0177'
 - name: CARRACT7.SEQ
   size: 690
-  date: '1986-04-24T00:06:58'
+  date: '1986-04-23T23:06:58'
   crc: '0x70f8b174'
 - name: CARRACT8.SEQ
   size: 3126
-  date: '1986-04-24T00:07:06'
+  date: '1986-04-23T23:07:06'
   crc: '0xc8bf1898'
 - name: CARRACT9.SEQ
   size: 1756
-  date: '1986-04-24T00:07:16'
+  date: '1986-04-23T23:07:16'
   crc: '0x0e5d215c'
 - name: CARRACTA.SEQ
   size: 1306
-  date: '1986-04-24T00:07:24'
+  date: '1986-04-23T23:07:24'
   crc: '0x9099bbde'
 - name: CARRACTB.SEQ
   size: 1340
-  date: '1986-04-24T00:07:32'
+  date: '1986-04-23T23:07:32'
   crc: '0x822521f2'
 - name: CARRACTC.SEQ
   size: 522
-  date: '1986-04-24T00:07:42'
+  date: '1986-04-23T23:07:42'
   crc: '0xbd35f132'
 - name: CARRACTD.SEQ
   size: 980
-  date: '1986-04-24T00:08:20'
+  date: '1986-04-23T23:08:20'
   crc: '0xbece5ff0'
 - name: CARRACTE.SEQ
   size: 1048
-  date: '1986-04-24T00:08:30'
+  date: '1986-04-23T23:08:30'
   crc: '0x598e76ef'
 - name: CHI_HOME.SEQ
   size: 22492
-  date: '1986-04-24T00:24:58'
+  date: '1986-04-23T23:24:58'
   crc: '0xb99cb172'
 - name: CORPSE_C.SEQ
   size: 1912
-  date: '1986-04-24T05:37:04'
+  date: '1986-04-24T04:37:04'
   crc: '0x79845490'
 - name: CORPSE_I.SEQ
   size: 1920
-  date: '1986-04-24T05:38:48'
+  date: '1986-04-24T04:38:48'
   crc: '0xa346bfd0'
 - name: DONNEES.DAT
   size: 15854
-  date: '1986-04-24T00:20:54'
+  date: '1986-04-23T23:20:54'
   crc: '0xc4a4936e'
 - name: ENGLISH.DAT
   size: 2426
@@ -110,47 +111,43 @@ files:
   crc: '0x660e91a1'
 - name: ENNEMI0.SEQ
   size: 5992
-  date: '1986-04-24T00:25:46'
+  date: '1986-04-23T23:25:46'
   crc: '0xd9accee1'
 - name: ENNEMI1.SEQ
   size: 6038
-  date: '1986-04-24T00:26:22'
+  date: '1986-04-23T23:26:22'
   crc: '0x3be2ff5e'
 - name: ENNEMI2.SEQ
   size: 5206
-  date: '1986-04-24T00:26:32'
+  date: '1986-04-23T23:26:32'
   crc: '0x2760279e'
 - name: ENNEMI3.SEQ
   size: 5934
-  date: '1986-04-24T00:26:44'
+  date: '1986-04-23T23:26:44'
   crc: '0x6f857eb7'
 - name: ENNEMI4.SEQ
   size: 6074
-  date: '1986-04-24T00:26:56'
+  date: '1986-04-23T23:26:56'
   crc: '0x53d5e66c'
 - name: ENNEMI5.SEQ
   size: 5482
-  date: '1986-04-24T00:27:08'
+  date: '1986-04-23T23:27:08'
   crc: '0x1f012ca7'
 - name: FACE_C.SEQ
   size: 1948
-  date: '1986-04-24T00:27:32'
+  date: '1986-04-23T23:27:32'
   crc: '0x6c7d0bbe'
 - name: FACE_I.SEQ
   size: 1952
-  date: '1986-04-24T00:27:42'
+  date: '1986-04-23T23:27:42'
   crc: '0x7328d29b'
-- name: FAST
-  size: 87388
-  date: '1986-12-15T02:56:00'
-  crc: '0xde920860'
 - name: FLAGS.SEQ
   size: 952
-  date: '1986-04-24T00:29:02'
+  date: '1986-04-23T23:29:02'
   crc: '0xf0f0e6b7'
 - name: FONT.SEQ
   size: 6972
-  date: '1986-04-24T00:10:46'
+  date: '1986-04-23T23:10:46'
   crc: '0xe33fc532'
 - name: FRENCH.DAT
   size: 2400
@@ -162,11 +159,11 @@ files:
   crc: '0x64ae57f3'
 - name: GEORGIO.SEQ
   size: 10936
-  date: '1986-04-24T00:29:00'
+  date: '1986-04-23T23:29:00'
   crc: '0xd291c863'
 - name: GEORGIOS.SEQ
   size: 14750
-  date: '1986-04-24T00:30:22'
+  date: '1986-04-23T23:30:22'
   crc: '0xafb1b19e'
 - name: GERMAN.DAT
   size: 2401
@@ -178,19 +175,19 @@ files:
   crc: '0x56fee0bc'
 - name: INSTALL.BAT
   size: 186
-  date: '1991-04-04T09:44:04'
+  date: '1991-04-04T08:44:04'
   crc: '0x34acdce0'
 - name: INTERSEC.SEQ
   size: 16658
-  date: '1986-04-24T00:48:02'
+  date: '1986-04-23T23:48:02'
   crc: '0x544e55cb'
 - name: IRENE.SEQ
   size: 9424
-  date: '1986-04-24T00:31:02'
+  date: '1986-04-23T23:31:02'
   crc: '0x588292b6'
 - name: IRENESH.SEQ
   size: 10870
-  date: '1986-04-24T00:31:16'
+  date: '1986-04-23T23:31:16'
   crc: '0x6464ec78'
 - name: ITALIAN.DAT
   size: 2406
@@ -202,83 +199,83 @@ files:
   crc: '0xd27b9199'
 - name: ITA_HOME.SEQ
   size: 23754
-  date: '1986-04-24T00:33:52'
+  date: '1986-04-23T23:33:52'
   crc: '0x6e01dc8a'
 - name: JUAN.SEQ
   size: 10068
-  date: '1986-04-24T00:31:44'
+  date: '1986-04-23T23:31:44'
   crc: '0xd2f9c4fe'
 - name: JUANSH.SEQ
   size: 13490
-  date: '1986-04-24T00:31:58'
+  date: '1986-04-23T23:31:58'
   crc: '0xf2fc51b6'
 - name: LUDO.SEQ
   size: 10562
-  date: '1986-04-24T00:32:10'
+  date: '1986-04-23T23:32:10'
   crc: '0xa4aef5e6'
 - name: LUDOSH.SEQ
   size: 14540
-  date: '1986-04-24T00:16:22'
+  date: '1986-04-23T23:16:22'
   crc: '0xa3cff3a6'
 - name: MAFIA.COM
-  size: 13186
-  date: '1999-02-13T14:18:20'
-  crc: '0x2194bb87'
+  size: 12710
+  date: '2022-05-29T18:03:50'
+  crc: '0x88b393f6'
 - name: MAFIA.OV2
   size: 2215
-  date: '1991-04-10T11:34:58'
+  date: '1991-04-10T10:34:58'
   crc: '0x0575ca0e'
 - name: MAFIA.OVL
-  size: 908
-  date: '1991-03-19T17:39:22'
-  crc: '0xbc821a58'
+  size: 73874
+  date: '2022-05-29T18:31:40'
+  crc: '0xc8603a0c'
 - name: MAFIOSO.SEQ
   size: 9230
-  date: '1986-04-24T00:59:10'
+  date: '1986-04-23T23:59:10'
   crc: '0x6c4a6df1'
 - name: NEWPAPER.SEQ
   size: 3996
-  date: '1986-04-24T00:22:30'
+  date: '1986-04-23T23:22:30'
   crc: '0x889e121a'
 - name: NOT_FIRE.SEQ
   size: 18408
-  date: '1986-04-24T00:44:08'
+  date: '1986-04-23T23:44:08'
   crc: '0x81ee1b82'
 - name: PEDRO.SEQ
   size: 10506
-  date: '1986-04-24T00:38:50'
+  date: '1986-04-23T23:38:50'
   crc: '0x0e28f597'
 - name: PEDROSH.SEQ
   size: 13988
-  date: '1986-04-24T00:17:18'
+  date: '1986-04-23T23:17:18'
   crc: '0x3f22c3f0'
 - name: PLACES.DAT
   size: 504
-  date: '1986-04-24T00:21:06'
+  date: '1986-04-23T23:21:06'
   crc: '0x27862b6f'
 - name: README.COM
   size: 1688
-  date: '1991-04-11T11:26:32'
+  date: '1991-04-11T10:26:32'
   crc: '0xf5e177dd'
 - name: ROOMS.DAT
   size: 12902
-  date: '1986-04-24T00:21:12'
+  date: '1986-04-23T23:21:12'
   crc: '0x0dd47574'
 - name: R_TBL.DAT
   size: 400
-  date: '1986-04-24T00:21:24'
+  date: '1986-04-23T23:21:24'
   crc: '0x3387ec19'
 - name: SEQ.SEQ
   size: 204874
-  date: '1986-04-24T00:03:50'
+  date: '1986-04-23T23:03:50'
   crc: '0x792665d6'
 - name: SOPHIA2.SEQ
   size: 9510
-  date: '1986-04-24T00:04:04'
+  date: '1986-04-23T23:04:04'
   crc: '0x2c6d9bb9'
 - name: SOPHIASH.SEQ
   size: 11192
-  date: '1986-04-24T00:58:36'
+  date: '1986-04-23T23:58:36'
   crc: '0x499072dc'
 - name: SPANISH.DAT
   size: 2382
@@ -290,9 +287,9 @@ files:
   crc: '0x7bc838a0'
 - name: TEXTURES.SEQ
   size: 13116
-  date: '1986-04-24T00:11:28'
+  date: '1986-04-23T23:11:28'
   crc: '0xc286f6dc'
 - name: TITLE.SEQ
   size: 8044
-  date: '1991-04-08T23:38:26'
+  date: '1991-04-08T22:38:26'
   crc: '0x2d0d54a5'

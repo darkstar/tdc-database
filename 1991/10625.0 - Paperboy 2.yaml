@@ -14,23 +14,27 @@ references:
   dosid: DOS03910
   exodos: Paperboy 2 (1991).zip
 files:
-- name: GAME.EXE
+- name: PB.CM
+  size: 58
+  date: '1980-01-01T13:00:00'
+  crc: '0xf6efc9c6'
+- name: PB.EXE
   size: 64554
-  date: '1992-01-16T19:25:18'
-  crc: '0x7173e092'
+  date: '1991-12-18T14:00:00'
+  crc: '0x9339fdf4'
 - name: PBDISK1A.BIN
   size: 243167
-  date: '1992-01-16T19:47:36'
+  date: '1991-12-18T14:00:00'
   crc: '0xafa1b24b'
 - name: PBDISK1B.BIN
   size: 55067
-  date: '1992-01-16T19:47:38'
+  date: '1991-12-18T14:00:00'
   crc: '0x07bb20f3'
 - name: PBDISK2.BIN
   size: 319814
-  date: '1992-01-16T19:47:44'
+  date: '1991-12-18T14:00:00'
   crc: '0x99d4cc26'
-- name: SETUP.EXE
-  size: 5376
-  date: '1992-01-17T10:43:38'
-  crc: '0x284d78d4'
+- name: SETUP.BAT
+  size: 9802
+  date: '1980-01-01T13:00:00'
+  crc: '0x42ce76e0'

@@ -1,8 +1,8 @@
-filename: Stock Market- The Game v2.0 (1990)(Starsoft Development Laboratories, Inc.) [Simulation, Strategy].zip
+filename: Stock Market- The Game v2.0 (1990)(ComputerEasy) [Simulation, Strategy].zip
 tdc_id: '15635.0'
 title:
   box: 'Stock Market: The Game'
-publisher: Starsoft Development Laboratories, Inc.
+publisher: ComputerEasy
 year: '1990'
 genre:
 - Simulation
@@ -10,10 +10,13 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:34:08'
-  last_modified: '2019-03-01T18:34:08'
+  last_modified: '2024-04-04T11:29:13'
 version: '2.0'
 type: zip
+commands:
+  play: STOCK.EXE
 references:
+  mobygames: https://www.mobygames.com/game/1871/stock-market-the-game/
   dosid: DOS04875
   exodos: Stock Market - The Game (1990).zip
 files:

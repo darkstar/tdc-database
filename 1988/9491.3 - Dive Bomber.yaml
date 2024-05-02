@@ -1,0 +1,29 @@
+filename: Dive Bomber r880914 (1988)(U.S. Gold Ltd.) [IMA][360k][cr].zip
+tdc_id: '9491.3'
+title:
+  box: Dive Bomber
+publisher: U.S. Gold Ltd.
+year: '1988'
+genre: IMA
+language: English
+date:
+  added: '2024-04-04T15:53:22'
+  last_modified: '2024-04-04T15:53:22'
+release: '880914'
+type: IMA
+media: 360K
+references:
+  mobygames: https://www.mobygames.com/game/626/dive-bomber/
+files:
+- name: cga.ima
+  size: 368640
+  date: '1980-01-01T05:47:18'
+  crc: '0x8e33b3db'
+- name: ega.ima
+  size: 368640
+  date: '1980-01-01T05:40:58'
+  crc: '0xa9e520d4'
+- name: tandy.ima
+  size: 368640
+  date: '1980-01-01T05:23:50'
+  crc: '0xff8548e0'

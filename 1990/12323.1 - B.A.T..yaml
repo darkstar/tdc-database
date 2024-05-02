@@ -1,9 +1,9 @@
-filename: B.A.T. (CGA-EGA-Tandy) (1990)(Ubi Soft Entertainment Software) [Adventure, Role-Playing (RPG)].zip
+filename: B.A.T. (CGA, EGA, Tandy) (1990)(Ubi Soft Entertainment Software) [Adventure, Role-Playing (RPG)].zip
 tdc_id: '12323.1'
 parent_id: '12323.5'
 title:
   box: B.A.T.
-  qualifier: CGA-EGA-Tandy
+  qualifier: CGA, EGA, Tandy
 publisher: Ubi Soft Entertainment Software
 year: '1990'
 genre:
@@ -12,8 +12,12 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:31:48'
-  last_modified: '2019-03-01T18:31:48'
+  last_modified: '2024-04-08T08:16:07'
 type: zip
+commands:
+  play: BAT.BAT
+references:
+  mobygames: https://www.mobygames.com/game/2200/bat/
 files:
 - name: BAT.BAT
   size: 246

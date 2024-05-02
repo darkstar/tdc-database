@@ -1,5 +1,6 @@
 filename: 3D Lemmings Winterland v1.05 (1995)(Psygnosis Limited) [Strategy, Action].zip
 tdc_id: '6766.0'
+parent_id: '6766.1'
 title:
   box: 3D Lemmings Winterland
 publisher: Psygnosis Limited
@@ -19,945 +20,934 @@ references:
 files:
 - name: ANIM\
   size: 0
-  date: '2014-11-22T14:44:36'
+  date: '1995-11-07T13:06:46'
 - name: ANIM\C0B
   size: 2764551
-  date: '1996-12-24T22:32:00'
+  date: '1995-06-15T15:53:00'
   crc: '0x96a88e0d'
 - name: ANIM\FX0
   size: 364
-  date: '1996-12-24T22:32:00'
+  date: '1995-08-07T17:08:56'
   crc: '0x55d1ecb7'
 - name: ANIM\SNOWB
   size: 2606051
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-03T17:46:02'
   crc: '0x6fbfa52d'
 - name: GFX\
   size: 0
-  date: '2014-11-22T14:44:38'
+  date: '1995-11-07T13:06:58'
 - name: GFX\ANIMOBJ.004
   size: 16384
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-06T15:54:10'
   crc: '0x1c56a018'
 - name: GFX\ANIMOBJ.009
   size: 16384
-  date: '1996-12-24T22:32:00'
+  date: '1995-06-28T10:32:04'
   crc: '0xc26e085b'
 - name: GFX\ANIMOBJ.031
   size: 16384
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-01T17:30:28'
   crc: '0xbdcde76a'
 - name: GFX\ANIMOBJ.094
   size: 16384
-  date: '1996-12-24T22:32:00'
+  date: '1995-06-28T10:33:10'
   crc: '0x0d9243cd'
 - name: GFX\BGRD.000
   size: 15360
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-03T17:30:02'
   crc: '0xdff6813d'
 - name: GFX\BOMBNUMB.GFX
   size: 8192
-  date: '1996-12-24T22:32:00'
+  date: '1995-02-28T12:59:58'
   crc: '0x840fa6ab'
 - name: GFX\COGS.GFX
   size: 26136
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-03T17:29:46'
   crc: '0xaf79536b'
 - name: GFX\COMMENTS.TXT
   size: 727
-  date: '1996-12-24T22:32:00'
+  date: '1995-05-09T22:48:02'
   crc: '0x77a6933d'
 - name: GFX\DEFLICON.RNC
   size: 8417
-  date: '1996-12-24T22:32:00'
+  date: '1995-05-30T10:56:18'
   crc: '0x2378f64d'
 - name: GFX\ENDLEMMS.RNC
   size: 1446
-  date: '1996-12-24T22:32:00'
+  date: '1995-04-04T16:40:02'
   crc: '0xbbd02da7'
 - name: GFX\FEATURES.GFX
   size: 64768
-  date: '1996-12-24T22:32:00'
+  date: '1995-08-07T16:29:22'
   crc: '0xb2e08323'
 - name: GFX\FLAKE.000
   size: 84
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-04T17:19:48'
   crc: '0x2bc7c87d'
 - name: GFX\HELP.GFX
   size: 64768
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-05T13:32:18'
   crc: '0x318bef55'
 - name: GFX\ICONS.RNC
   size: 9354
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-04T17:44:40'
   crc: '0x812ac9dc'
 - name: GFX\INTRO1.RNC
   size: 13920
-  date: '1996-12-24T22:32:00'
+  date: '1995-06-26T13:37:50'
   crc: '0x47095ed3'
 - name: GFX\INTRO1.SVG
   size: 307968
-  date: '1996-12-24T22:32:00'
+  date: '1995-06-26T13:58:22'
   crc: '0x39925f69'
 - name: GFX\INTRO2.RNC
   size: 1343
-  date: '1996-12-24T22:32:00'
+  date: '1995-06-26T13:37:54'
   crc: '0x44dbbe51'
 - name: GFX\INTRO2.SVG
   size: 307968
-  date: '1996-12-24T22:32:00'
+  date: '1995-06-26T13:37:58'
   crc: '0x72cbd25d'
 - name: GFX\INTRO3.RNC
   size: 7215
-  date: '1996-12-24T22:32:00'
+  date: '1995-06-26T13:38:00'
   crc: '0xf01e33b3'
 - name: GFX\INTRO3.SVG
   size: 307968
-  date: '1996-12-24T22:32:00'
+  date: '1995-06-26T13:38:02'
   crc: '0x3ef18b75'
 - name: GFX\INTRO5.RNC
   size: 3192
-  date: '1996-12-24T22:32:00'
+  date: '1995-06-26T13:38:08'
   crc: '0x8ff3d8e0'
 - name: GFX\INTRO5.SVG
   size: 307968
-  date: '1996-12-24T22:32:00'
+  date: '1995-06-26T13:38:10'
   crc: '0x25e01944'
 - name: GFX\INTRO6.RNC
   size: 1127
-  date: '1996-12-24T22:32:00'
+  date: '1995-06-26T13:38:12'
   crc: '0x800b1b58'
 - name: GFX\INTRO6.SVG
   size: 307968
-  date: '1996-12-24T22:32:00'
+  date: '1995-06-26T13:38:14'
   crc: '0x064fa2e7'
 - name: GFX\INTRO7.RNC
   size: 13288
-  date: '1996-12-24T22:32:00'
+  date: '1995-06-26T13:38:18'
   crc: '0x80419142'
 - name: GFX\INTRO7.SVG
   size: 307968
-  date: '1996-12-24T22:32:00'
+  date: '1995-06-26T13:38:20'
   crc: '0x3b8de649'
 - name: GFX\LAND.000
   size: 16384
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-01T15:38:28'
   crc: '0xd1262a8d'
 - name: GFX\LAND.004
   size: 16384
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-01T15:38:30'
   crc: '0x2c2c6f51'
 - name: GFX\LAND.031
   size: 16384
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-01T15:38:34'
   crc: '0xac900510'
 - name: GFX\LEMMINGS.FNT
   size: 539648
-  date: '1996-12-24T22:32:00'
+  date: '1995-02-02T10:05:40'
   crc: '0x80767502'
 - name: GFX\LM3D.PAL
   size: 768
-  date: '1996-12-24T22:32:00'
+  date: '1995-03-02T11:35:02'
   crc: '0x57d74b4a'
 - name: GFX\LOADING.GFX
   size: 5793
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-03T17:29:46'
   crc: '0x0343d855'
 - name: GFX\LOADING.RNC
   size: 5793
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-03T17:29:46'
   crc: '0x0343d855'
 - name: GFX\MINILEMM.GFX
   size: 65536
-  date: '1996-12-24T22:32:00'
+  date: '1995-06-07T12:35:02'
   crc: '0x3620d1e7'
 - name: GFX\MOUSE.RNC
   size: 2502
-  date: '1996-12-24T22:32:00'
+  date: '1995-03-07T11:26:48'
   crc: '0xf13f156d'
 - name: GFX\OBJ.004
   size: 45056
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-06T15:54:08'
   crc: '0x744dfea4'
 - name: GFX\OBJ.010
   size: 45056
-  date: '1996-12-24T22:32:00'
+  date: '1995-06-28T10:31:50'
   crc: '0xa40c501f'
 - name: GFX\OBJ.016
   size: 45056
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-03T10:49:38'
   crc: '0xe546f2da'
 - name: GFX\OBJ.031
   size: 45056
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-01T17:30:24'
   crc: '0x74dbcd08'
 - name: GFX\OBJ.056
   size: 45056
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-03T10:49:38'
   crc: '0x2a04f3c0'
 - name: GFX\OVERLAY.000
   size: 12288
-  date: '1996-12-24T22:32:00'
+  date: '1995-03-07T11:26:26'
   crc: '0x0892f779'
 - name: GFX\PRACICON.RNC
   size: 9576
-  date: '1996-12-24T22:32:00'
+  date: '1995-05-30T10:56:14'
   crc: '0xcd958daa'
 - name: GFX\SCENE000.PAL
   size: 768
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-04T16:45:56'
   crc: '0x695ec6ae'
 - name: GFX\SCENE000.RNC
   size: 28093
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-04T16:45:56'
   crc: '0x67cfc601'
 - name: GFX\SCENE000.SVG
   size: 311296
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-04T16:45:58'
   crc: '0xed92f785'
 - name: GFX\SCENE000.SVP
   size: 768
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-04T16:45:58'
   crc: '0xe096529e'
 - name: GFX\SEA.002
   size: 16384
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-01T16:55:54'
   crc: '0xc488f9b3'
 - name: GFX\SEA.004
   size: 16384
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-01T16:55:56'
   crc: '0xddb8c249'
 - name: GFX\SEA.006
   size: 16384
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-01T16:55:56'
   crc: '0xe043152e'
 - name: GFX\SEA.056
   size: 16384
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-01T16:55:56'
   crc: '0xac900510'
 - name: GFX\SIGNS.000
   size: 49152
-  date: '1996-12-24T22:32:00'
+  date: '1995-06-28T10:31:50'
   crc: '0x3e398c81'
 - name: GFX\SIGNS.004
   size: 49152
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-06T15:54:08'
   crc: '0x75fb93fa'
 - name: GFX\SIGNS.031
   size: 49152
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-01T17:30:26'
   crc: '0x616603b9'
 - name: GFX\SKY.004
   size: 65536
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-01T16:34:00'
   crc: '0x12f25961'
 - name: GFX\SKY.007
   size: 65536
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-01T16:34:04'
   crc: '0xed95457f'
 - name: GFX\SKY.016
   size: 65536
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-01T16:34:06'
   crc: '0x2fb4d100'
 - name: GFX\SKY.031
   size: 65536
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-01T16:34:10'
   crc: '0xb8022098'
 - name: GFX\TEXTURE.004
   size: 409600
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-06T15:54:20'
   crc: '0x75d55e8c'
 - name: GFX\TEXTURE.014
   size: 409600
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-06T15:54:22'
   crc: '0xfe02509f'
 - name: GFX\TEXTURE.016
   size: 409600
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-03T10:49:52'
   crc: '0x68fcde1a'
 - name: GFX\TEXTURE.024
   size: 409600
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-06T15:54:24'
   crc: '0x8f2bfb46'
 - name: GFX\TEXTURE.031
   size: 409600
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-01T17:30:50'
   crc: '0x96bd0cb5'
 - name: GFX\TEXTURE.056
   size: 409600
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-03T10:50:02'
   crc: '0x989b107c'
 - name: GFX\TITLE.FNT
   size: 23240
-  date: '1996-12-24T22:32:00'
+  date: '1995-05-28T16:05:34'
   crc: '0x809accec'
 - name: GFX\TITLE.MHC
   size: 296611
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-04T16:09:46'
   crc: '0x36a638c9'
 - name: GFX\TITLE.RNC
   size: 6095
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-04T16:37:30'
   crc: '0x289a4ada'
 - name: GFX\TRAPS.004
   size: 32768
-  date: '1996-12-24T22:32:00'
+  date: '1995-06-28T10:33:32'
   crc: '0x8ce70a26'
 - name: GFX\TRAPS.005
   size: 32768
-  date: '1996-12-24T22:32:00'
+  date: '1995-06-28T10:33:34'
   crc: '0x09c4faea'
 - name: GFX\WALLS.000
   size: 65536
-  date: '1996-12-24T22:32:00'
+  date: '1995-06-28T10:31:50'
   crc: '0xdfe77ecc'
 - name: GFX\WINDER.RNC
   size: 7630
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-04T16:09:30'
   crc: '0xd46e113f'
 - name: L3D.EXE
   size: 148061
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-06T15:58:34'
   crc: '0x08f8c953'
 - name: LEMM\
   size: 0
-  date: '2014-11-22T14:44:38'
+  date: '1995-11-07T13:07:22'
 - name: LEMM\LEMM.MHC
   size: 936160
-  date: '1996-12-24T22:32:00'
+  date: '1995-05-29T13:57:16'
   crc: '0x8cd9a76a'
 - name: LEVELS\
   size: 0
-  date: '2014-11-22T14:44:38'
+  date: '1995-11-07T13:07:28'
 - name: LEVELS\BLK.000
   size: 1408
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-06T13:43:16'
   crc: '0xad87d9f1'
 - name: LEVELS\BLK.001
   size: 1408
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-07T10:54:36'
   crc: '0xb37d94f1'
 - name: LEVELS\BLK.002
   size: 1408
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-06T13:50:58'
   crc: '0x9cd70f45'
 - name: LEVELS\BLK.003
   size: 1408
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-06T13:46:26'
   crc: '0xad6d38b6'
 - name: LEVELS\BLK.004
   size: 1408
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-06T13:50:20'
   crc: '0x6fd0ef96'
 - name: LEVELS\BLK.005
   size: 1408
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-03T14:38:48'
   crc: '0xcccad679'
 - name: LEVELS\LEVEL.000
   size: 66048
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-06T13:43:16'
   crc: '0x050ff3bc'
 - name: LEVELS\LEVEL.001
   size: 66048
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-07T10:54:36'
   crc: '0xab258f4b'
 - name: LEVELS\LEVEL.002
   size: 66048
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-06T13:50:58'
   crc: '0x5146a4d1'
 - name: LEVELS\LEVEL.003
   size: 66048
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-06T13:46:26'
   crc: '0x69db210e'
 - name: LEVELS\LEVEL.004
   size: 66048
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-06T13:50:20'
   crc: '0x62d332fc'
 - name: LEVELS\LEVEL.005
   size: 66048
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-03T14:38:48'
   crc: '0xe24cb4b0'
-- name: LM3D.CD\
-  size: 0
-  date: '2014-11-22T14:44:38'
-- name: LM3D.CD\LM3D.CFG
-  size: 58
-  date: '2012-09-14T18:26:24'
-  crc: '0x36006c63'
-- name: LM3D.CD\LM3DXMAS.SAV
-  size: 271
-  date: '2012-09-14T18:26:28'
-  crc: '0xa6ba0d3f'
 - name: READ.ME
   size: 23356
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-06T15:13:14'
   crc: '0xf59119e3'
 - name: REPLAYS\
   size: 0
-  date: '2014-11-22T14:44:38'
+  date: '1995-11-07T13:07:30'
 - name: REPLAYS\REP.000
   size: 64802
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-06T14:32:36'
   crc: '0x8fe56e4a'
 - name: REPLAYS\REP.001
   size: 64802
-  date: '1996-12-24T22:32:00'
+  date: '1995-11-06T14:46:32'
   crc: '0x217bbfcc'
 - name: REPLAYS\REP.002
   size: 1322
-  date: '1996-12-24T22:32:00'
+  date: '1995-08-07T15:08:14'
   crc: '0x3686183e'
 - name: SETUP.EXE
   size: 28692
-  date: '1996-12-24T22:32:00'
+  date: '1995-03-01T12:39:54'
   crc: '0x5ba99e44'
 - name: SOUND\
   size: 0
-  date: '2014-11-22T14:44:38'
+  date: '1995-11-07T13:07:30'
 - name: SOUND\AWE\
   size: 0
-  date: '2014-11-22T14:44:38'
+  date: '1995-11-07T13:07:32'
 - name: SOUND\AWE\AWALIEN3.SND
   size: 13640
-  date: '1996-12-24T22:32:00'
+  date: '1994-12-22T20:54:10'
   crc: '0x595e3857'
 - name: SOUND\AWE\AWARMY1.SND
   size: 15555
-  date: '1996-12-24T22:32:00'
+  date: '1994-12-02T21:07:38'
   crc: '0x53b386fd'
 - name: SOUND\AWE\AWARMY2.SND
   size: 18435
-  date: '1996-12-24T22:32:00'
+  date: '1994-12-22T14:31:14'
   crc: '0x355a5cef'
 - name: SOUND\AWE\AWLEGO1.SND
   size: 24363
-  date: '1996-12-24T22:32:00'
+  date: '1994-12-03T16:05:36'
   crc: '0x6be941c6'
 - name: SOUND\AWE\AWMEDI1.SND
   size: 16658
-  date: '1996-12-24T22:32:00'
+  date: '1994-11-16T18:49:06'
   crc: '0x4d523351'
 - name: SOUND\AWE\AWTITLE1.SND
   size: 11510
-  date: '1996-12-24T22:32:00'
+  date: '1994-12-22T21:03:10'
   crc: '0x2d1d647a'
 - name: SOUND\AWE\AWTITLE2.SND
   size: 10113
-  date: '1996-12-24T22:32:00'
+  date: '1994-12-22T18:09:02'
   crc: '0x47bf1617'
 - name: SOUND\DRIVERS\
   size: 0
-  date: '2014-11-22T14:44:38'
+  date: '1995-11-07T13:07:38'
 - name: SOUND\DRIVERS\AWE320.BIN
   size: 35898
-  date: '1996-12-24T22:32:00'
+  date: '1995-04-07T10:37:38'
   crc: '0x475ddc02'
 - name: SOUND\DRIVERS\GM0.BIN
   size: 6634
-  date: '1996-12-24T22:32:00'
+  date: '1995-04-03T23:06:44'
   crc: '0x437361ca'
 - name: SOUND\DRIVERS\GUS0.BIN
   size: 8138
-  date: '1996-12-24T22:32:00'
+  date: '1995-04-07T11:20:48'
   crc: '0x6a02c08d'
 - name: SOUND\DRIVERS\LAPC0.BIN
   size: 7475
-  date: '1996-12-24T22:32:00'
+  date: '1995-04-07T16:59:54'
   crc: '0x03c068e8'
 - name: SOUND\DRIVERS\QUICK0.BIN
   size: 11288
-  date: '1996-12-24T22:32:00'
+  date: '1995-04-07T17:05:34'
   crc: '0xef8f9bb8'
 - name: SOUND\DRIVERS\SBL0.BIN
   size: 11336
-  date: '1996-12-24T22:32:00'
+  date: '1995-06-13T12:29:28'
   crc: '0xec3e4d5c'
 - name: SOUND\DRIVERS\SCC0.BIN
   size: 6634
-  date: '1996-12-24T22:32:00'
+  date: '1995-04-03T23:06:44'
   crc: '0x437361ca'
 - name: SOUND\DRIVERS\ULTRAMID.INI
   size: 7062
-  date: '1996-12-24T22:32:00'
+  date: '1995-02-28T15:50:14'
   crc: '0x0a2066e9'
 - name: SOUND\GM\
   size: 0
-  date: '2014-11-22T14:44:38'
+  date: '1995-11-07T13:07:38'
 - name: SOUND\GM\GMALIEN3.SND
   size: 13651
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-10T10:43:34'
   crc: '0xb18086ba'
 - name: SOUND\GM\GMARMY1.SND
   size: 15555
-  date: '1996-12-24T22:32:00'
+  date: '1994-12-20T12:03:40'
   crc: '0x1f31020f'
 - name: SOUND\GM\GMARMY2.SND
   size: 18409
-  date: '1996-12-24T22:32:00'
+  date: '1994-12-20T12:07:24'
   crc: '0xe73e6a21'
 - name: SOUND\GM\GMLEGO1.SND
   size: 24363
-  date: '1996-12-24T22:32:00'
+  date: '1994-12-20T12:05:44'
   crc: '0x44e867fb'
 - name: SOUND\GM\GMMEDI1.SND
   size: 16658
-  date: '1996-12-24T22:32:00'
+  date: '1994-12-20T12:06:14'
   crc: '0x81827f91'
 - name: SOUND\GM\GMTITLE1.SND
   size: 11513
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-12T11:14:50'
   crc: '0x466c2878'
 - name: SOUND\GM\GMTITLE2.SND
   size: 10125
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-12T11:17:52'
   crc: '0x38a47a65'
 - name: SOUND\GUS\
   size: 0
-  date: '2014-11-22T14:44:38'
+  date: '1995-11-07T13:07:40'
 - name: SOUND\GUS\GRALIEN3.SND
   size: 13424
-  date: '1996-12-24T22:32:00'
+  date: '1995-02-21T17:20:48'
   crc: '0x456fbc5b'
 - name: SOUND\GUS\GRARMY1.SND
   size: 15491
-  date: '1996-12-24T22:32:00'
+  date: '1995-02-22T01:52:06'
   crc: '0xe7bce7df'
 - name: SOUND\GUS\GRARMY2.SND
   size: 18341
-  date: '1996-12-24T22:32:00'
+  date: '1995-02-22T01:53:20'
   crc: '0x33521a01'
 - name: SOUND\GUS\GRLEGO1.SND
   size: 24297
-  date: '1996-12-24T22:32:00'
+  date: '1995-03-01T13:16:00'
   crc: '0x49ba82b0'
 - name: SOUND\GUS\GRMEDI1.SND
   size: 16357
-  date: '1996-12-24T22:32:00'
+  date: '1995-02-22T01:52:44'
   crc: '0x170c1ade'
 - name: SOUND\GUS\GRTITLE1.SND
   size: 11395
-  date: '1996-12-24T22:32:00'
+  date: '1995-02-21T17:25:50'
   crc: '0x583e6294'
 - name: SOUND\GUS\GRTITLE2.SND
   size: 10050
-  date: '1996-12-24T22:32:00'
+  date: '1995-02-21T17:25:54'
   crc: '0xd823ba9f'
 - name: SOUND\GUS\ULTRAMID.EXE
   size: 40038
-  date: '1996-12-24T22:32:00'
+  date: '1994-09-20T03:57:00'
   crc: '0x0902b67a'
 - name: SOUND\GUS\ULTRAMID.INI
   size: 7053
-  date: '1996-12-24T22:32:00'
+  date: '1995-02-22T02:27:08'
   crc: '0xf12f7c6a'
 - name: SOUND\LAPC\
   size: 0
-  date: '2014-11-22T14:44:38'
+  date: '1995-11-07T13:07:42'
 - name: SOUND\LAPC\LAALIEN3.SND
   size: 10017
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-15T18:17:54'
   crc: '0x16c76a32'
 - name: SOUND\LAPC\LAARMY1.SND
   size: 18870
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-15T18:10:54'
   crc: '0x99727bf2'
 - name: SOUND\LAPC\LAARMY2.SND
   size: 18286
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-15T18:15:02'
   crc: '0x22a8ba39'
 - name: SOUND\LAPC\LALEGO1.SND
   size: 24037
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-15T18:12:38'
   crc: '0x57401a9e'
 - name: SOUND\LAPC\LAMEDI1.SND
   size: 16089
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-15T18:13:04'
   crc: '0x740de41d'
 - name: SOUND\LAPC\LATITLE1.SND
   size: 10033
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-15T20:34:30'
   crc: '0xf595ee11'
 - name: SOUND\LAPC\LATITLE2.SND
   size: 11354
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-15T20:34:00'
   crc: '0xa423c16f'
 - name: SOUND\SAMPLIST.TXT
   size: 3917
-  date: '1996-12-24T22:32:00'
+  date: '1995-08-07T13:01:22'
   crc: '0x6fc83f7c'
 - name: SOUND\SBL\
   size: 0
-  date: '2014-11-22T14:44:38'
+  date: '1995-11-07T13:07:42'
 - name: SOUND\SBL\SBALIEN3.SND
   size: 7471
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-16T09:03:54'
   crc: '0x71b6c892'
 - name: SOUND\SBL\SBARMY1.SND
   size: 16816
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-18T18:49:56'
   crc: '0x54339aa6'
 - name: SOUND\SBL\SBARMY2.SND
   size: 16474
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-16T08:59:14'
   crc: '0x77293658'
 - name: SOUND\SBL\SBLEGO1.SND
   size: 20482
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-17T22:05:46'
   crc: '0x2bf96bcf'
 - name: SOUND\SBL\SBMEDI1.SND
   size: 12132
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-18T18:51:02'
   crc: '0x19728fc2'
 - name: SOUND\SBL\SBTITLE1.SND
   size: 8735
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-18T18:46:42'
   crc: '0x1b19830c'
 - name: SOUND\SBL\SBTITLE2.SND
   size: 7794
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-16T09:11:36'
   crc: '0x91863f0c'
 - name: SOUND\SCC1\
   size: 0
-  date: '2014-11-22T14:44:38'
+  date: '1995-11-07T13:07:48'
 - name: SOUND\SCC1\SCALIEN3.SND
   size: 13651
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-10T10:43:34'
   crc: '0xb18086ba'
 - name: SOUND\SCC1\SCARMY1.SND
   size: 15555
-  date: '1996-12-24T22:32:00'
+  date: '1994-12-20T12:03:40'
   crc: '0x1f31020f'
 - name: SOUND\SCC1\SCARMY2.SND
   size: 18409
-  date: '1996-12-24T22:32:00'
+  date: '1994-12-20T12:07:24'
   crc: '0xe73e6a21'
 - name: SOUND\SCC1\SCLEGO1.SND
   size: 24363
-  date: '1996-12-24T22:32:00'
+  date: '1994-12-20T12:05:44'
   crc: '0x44e867fb'
 - name: SOUND\SCC1\SCMEDI1.SND
   size: 16658
-  date: '1996-12-24T22:32:00'
+  date: '1994-12-20T12:06:14'
   crc: '0x81827f91'
 - name: SOUND\SCC1\SCTITLE1.SND
   size: 11513
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-12T11:14:50'
   crc: '0x466c2878'
 - name: SOUND\SCC1\SCTITLE2.SND
   size: 10125
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-12T11:17:52'
   crc: '0x38a47a65'
 - name: SOUND\SPOTFX\
   size: 0
-  date: '2014-11-22T14:44:38'
+  date: '1995-11-07T13:07:50'
 - name: SOUND\SPOTFX\ANVIL1.U8
   size: 8026
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-24T09:19:24'
   crc: '0xa477742f'
 - name: SOUND\SPOTFX\BEEP3.U8
   size: 2743
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-24T09:19:24'
   crc: '0xa43917e6'
 - name: SOUND\SPOTFX\BEEP4.U8
   size: 3407
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-24T09:19:24'
   crc: '0x0618cc42'
 - name: SOUND\SPOTFX\BOING1.U8
   size: 5824
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-24T09:19:26'
   crc: '0xcd8b57c1'
 - name: SOUND\SPOTFX\BRICKS1.U8
   size: 2592
-  date: '1996-12-24T22:32:00'
+  date: '1995-02-16T21:59:42'
   crc: '0xe5271da9'
 - name: SOUND\SPOTFX\BROLLY1.U8
   size: 3572
-  date: '1996-12-24T22:32:00'
+  date: '1995-02-16T21:59:42'
   crc: '0xc7db2aaf'
 - name: SOUND\SPOTFX\CRACKLE2.U8
   size: 16262
-  date: '1996-12-24T22:32:00'
+  date: '1995-02-19T14:26:42'
   crc: '0x264b1c19'
 - name: SOUND\SPOTFX\CREAKY2.U8
   size: 25879
-  date: '1996-12-24T22:32:00'
+  date: '1995-02-16T21:59:42'
   crc: '0xf8543e6a'
 - name: SOUND\SPOTFX\CTAPULT1.U8
   size: 8576
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-24T09:23:38'
   crc: '0xe56915f5'
 - name: SOUND\SPOTFX\EXPLOSN3.U8
   size: 13488
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-24T09:19:24'
   crc: '0xde6c7f49'
 - name: SOUND\SPOTFX\FANFARE.U8
   size: 11087
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-24T09:23:38'
   crc: '0x6dbb67ef'
 - name: SOUND\SPOTFX\FLAMETHR.U8
   size: 11532
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-24T09:19:26'
   crc: '0x3fbb2cac'
 - name: SOUND\SPOTFX\GRAVEL3.U8
   size: 3902
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-24T09:19:24'
   crc: '0x73127cca'
 - name: SOUND\SPOTFX\HAMMER1.U8
   size: 3596
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-24T09:19:24'
   crc: '0x53fd1fb0'
 - name: SOUND\SPOTFX\LIGHTNG.U8
   size: 15425
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-25T17:51:20'
   crc: '0x2c96262e'
 - name: SOUND\SPOTFX\LOGO2.U8
   size: 47175
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-24T09:23:38'
   crc: '0x2b1fb4bf'
 - name: SOUND\SPOTFX\MANTRAP1.U8
   size: 7202
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-24T09:19:24'
   crc: '0x6cc24f2f'
 - name: SOUND\SPOTFX\NEGATIVE.U8
   size: 10612
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-24T09:23:38'
   crc: '0xe4c901de'
 - name: SOUND\SPOTFX\PICKAXE4.U8
   size: 3314
-  date: '1996-12-24T22:32:00'
+  date: '1995-02-16T21:59:42'
   crc: '0x5ed62a76'
 - name: SOUND\SPOTFX\POSITIVE.U8
   size: 12420
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-24T09:19:24'
   crc: '0x2e776351'
 - name: SOUND\SPOTFX\RELOAD.U8
   size: 12173
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-24T09:19:24'
   crc: '0xbbf083ff'
 - name: SOUND\SPOTFX\SCALE.U8
   size: 7052
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-24T09:19:24'
   crc: '0x4d8c0a33'
 - name: SOUND\SPOTFX\SHOTGUN1.U8
   size: 15945
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-24T09:19:26'
   crc: '0xca45bd98'
 - name: SOUND\SPOTFX\SNAREL2B.U8
   size: 12506
-  date: '1996-12-24T22:32:00'
+  date: '1995-02-16T21:59:42'
   crc: '0x46aadd3a'
 - name: SOUND\SPOTFX\SPLASH.U8
   size: 6349
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-24T09:19:26'
   crc: '0x0a85450d'
 - name: SOUND\SPOTFX\SUCKER2.U8
   size: 4556
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-24T09:19:26'
   crc: '0x10db0897'
 - name: SOUND\SPOTFX\TELEPORT.U8
   size: 14499
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-24T09:23:38'
   crc: '0x7b277351'
 - name: SOUND\SPOTFX\THUD1.U8
   size: 5215
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-24T09:19:26'
   crc: '0xa3bbabb8'
 - name: SOUND\SPOTFX\TICK1.U8
   size: 242
-  date: '1996-12-24T22:32:00'
+  date: '1995-02-16T21:59:42'
   crc: '0x3de908b3'
 - name: SOUND\SPOTFX\TONE1.U8
   size: 3864
-  date: '1996-12-24T22:32:00'
+  date: '1995-02-16T21:59:42'
   crc: '0x0850c9f3'
 - name: SOUND\VOXFX\
   size: 0
-  date: '2014-11-22T14:44:38'
+  date: '1995-11-07T13:07:52'
 - name: SOUND\VOXFX\AAH2.U8
   size: 26828
-  date: '1996-12-24T22:32:00'
+  date: '1995-02-28T20:07:10'
   crc: '0x544a69eb'
 - name: SOUND\VOXFX\BASHER2.U8
   size: 9266
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-25T17:30:30'
   crc: '0x074bfa29'
 - name: SOUND\VOXFX\BLANK1.U8
   size: 32
-  date: '1996-12-24T22:32:00'
+  date: '1995-02-28T20:07:06'
   crc: '0x28e9bef9'
 - name: SOUND\VOXFX\BLOCKER1.U8
   size: 8890
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-25T17:30:28'
   crc: '0x586c457f'
 - name: SOUND\VOXFX\BOMBER.U8
   size: 8392
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-25T17:30:30'
   crc: '0xf04e327b'
 - name: SOUND\VOXFX\BOOS.U8
   size: 30287
-  date: '1996-12-24T22:32:00'
+  date: '1995-02-16T22:14:58'
   crc: '0xcf74cccd'
 - name: SOUND\VOXFX\BUILDER2.U8
   size: 9863
-  date: '1996-12-24T22:32:00'
+  date: '1995-02-16T22:14:58'
   crc: '0xc9a6b199'
 - name: SOUND\VOXFX\BYEBYE1.U8
   size: 10976
-  date: '1996-12-24T22:32:00'
+  date: '1995-02-28T20:07:08'
   crc: '0xd1e51e24'
 - name: SOUND\VOXFX\CAMRA3.U8
   size: 17922
-  date: '1996-12-24T22:32:00'
+  date: '1995-02-28T20:07:10'
   crc: '0x7f4d1c20'
 - name: SOUND\VOXFX\CAMRA4.U8
   size: 18019
-  date: '1996-12-24T22:32:00'
+  date: '1995-02-28T20:07:10'
   crc: '0xf8b9bf25'
 - name: SOUND\VOXFX\CAMRAONE.U8
   size: 17095
-  date: '1996-12-24T22:32:00'
+  date: '1995-02-28T20:07:10'
   crc: '0xb3fbef5f'
 - name: SOUND\VOXFX\CAMRATWO.U8
   size: 16604
-  date: '1996-12-24T22:32:00'
+  date: '1995-02-28T20:07:10'
   crc: '0x5249eb66'
 - name: SOUND\VOXFX\CHEERS1.U8
   size: 30496
-  date: '1996-12-24T22:32:00'
+  date: '1995-02-16T22:14:58'
   crc: '0x201ecb62'
 - name: SOUND\VOXFX\CLIMBER2.U8
   size: 12459
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-25T17:30:32'
   crc: '0x6d54cfaf'
 - name: SOUND\VOXFX\CODE.U8
   size: 7512
-  date: '1996-12-24T22:32:00'
+  date: '1995-02-28T20:07:06'
   crc: '0x78f7fc2e'
 - name: SOUND\VOXFX\DEFLECT.U8
   size: 16373
-  date: '1996-12-24T22:32:00'
+  date: '1995-02-28T20:07:12'
   crc: '0x32e4b570'
 - name: SOUND\VOXFX\DIGGER2.U8
   size: 9922
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-25T17:30:30'
   crc: '0x40fdca7d'
 - name: SOUND\VOXFX\DROWN1.U8
   size: 15593
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-25T17:30:30'
   crc: '0x75334938'
 - name: SOUND\VOXFX\EXIT.U8
   size: 8888
-  date: '1996-12-24T22:32:00'
+  date: '1995-02-28T20:07:06'
   crc: '0x41191a8b'
 - name: SOUND\VOXFX\FALLER3.U8
   size: 26435
-  date: '1996-12-24T22:32:00'
+  date: '1995-02-16T22:14:58'
   crc: '0x92b267e8'
 - name: SOUND\VOXFX\FLOATER1.U8
   size: 13448
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-25T17:30:32'
   crc: '0x65ec82fd'
 - name: SOUND\VOXFX\FLYER1.U8
   size: 11280
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-25T17:30:28'
   crc: '0x2aa777c0'
 - name: SOUND\VOXFX\FUN2.U8
   size: 15296
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-25T17:30:30'
   crc: '0x3ac25941'
 - name: SOUND\VOXFX\GEDDON1.U8
   size: 34765
-  date: '1996-12-24T22:32:00'
+  date: '1995-02-28T20:07:08'
   crc: '0x05dd1f25'
 - name: SOUND\VOXFX\HILITE.U8
   size: 21202
-  date: '1996-12-24T22:32:00'
+  date: '1995-02-28T20:07:12'
   crc: '0x3f97637b'
 - name: SOUND\VOXFX\HUP3.U8
   size: 5915
-  date: '1996-12-24T22:32:00'
+  date: '1995-02-16T22:14:58'
   crc: '0xd424a890'
 - name: SOUND\VOXFX\LETSGO1.U8
   size: 14000
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-25T17:30:28'
   crc: '0x1e8ef7e8'
 - name: SOUND\VOXFX\MINER2.U8
   size: 12287
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-25T17:30:30'
   crc: '0x17ed2477'
 - name: SOUND\VOXFX\MUD1.U8
   size: 11212
-  date: '1996-12-24T22:32:00'
+  date: '1995-02-28T20:07:12'
   crc: '0x913cf042'
 - name: SOUND\VOXFX\OHNO1.U8
   size: 15094
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-25T17:30:28'
   crc: '0x3c600cb5'
 - name: SOUND\VOXFX\OK2.U8
   size: 7448
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-25T17:30:30'
   crc: '0xe2e4e06c'
 - name: SOUND\VOXFX\ONEWAY.U8
   size: 18075
-  date: '1996-12-24T22:32:00'
+  date: '1995-02-28T20:07:12'
   crc: '0x4f891d58'
 - name: SOUND\VOXFX\OPTIONS.U8
   size: 11372
-  date: '1996-12-24T22:32:00'
+  date: '1995-02-28T20:07:06'
   crc: '0xcd6299e7'
 - name: SOUND\VOXFX\PLAY.U8
   size: 6638
-  date: '1996-12-24T22:32:00'
+  date: '1995-02-28T20:07:06'
   crc: '0xe325f04f'
 - name: SOUND\VOXFX\PRACTISE.U8
   size: 11090
-  date: '1996-12-24T22:32:00'
+  date: '1995-02-28T20:07:06'
   crc: '0xdd4a099e'
 - name: SOUND\VOXFX\ROCKSL1.U8
   size: 13209
-  date: '1996-12-24T22:32:00'
+  date: '1995-02-28T20:07:08'
   crc: '0x081712a8'
 - name: SOUND\VOXFX\SHRUG1.U8
   size: 6138
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-25T17:30:30'
   crc: '0xccc2d326'
 - name: SOUND\VOXFX\SLIPPER1.U8
   size: 23931
-  date: '1996-12-24T22:32:00'
+  date: '1995-02-28T20:07:12'
   crc: '0x484e3ce7'
 - name: SOUND\VOXFX\SPLITTER.U8
   size: 20672
-  date: '1996-12-24T22:32:00'
+  date: '1995-02-28T20:07:12'
   crc: '0xe926d2ee'
 - name: SOUND\VOXFX\SPRING.U8
   size: 9930
-  date: '1996-12-24T22:32:00'
+  date: '1995-03-21T10:42:06'
   crc: '0x05c55f55'
 - name: SOUND\VOXFX\TELEPORT.U8
   size: 13883
-  date: '1996-12-24T22:32:00'
+  date: '1995-02-28T20:07:12'
   crc: '0xa6990425'
 - name: SOUND\VOXFX\TRAMPOL1.U8
   size: 17357
-  date: '1996-12-24T22:32:00'
+  date: '1995-02-28T20:07:12'
   crc: '0xc724046e'
 - name: SOUND\VOXFX\TURNER1.U8
   size: 9962
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-25T17:30:30'
   crc: '0x1b5583da'
 - name: SOUND\VOXFX\UH_UH1.U8
   size: 11768
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-25T17:30:30'
   crc: '0x2d89263a'
 - name: SOUND\VOXFX\VIRTUAL1.U8
   size: 21941
-  date: '1996-12-24T22:32:00'
+  date: '1995-02-28T20:07:10'
   crc: '0x3801342e'
 - name: SOUND\VOXFX\WOUNDED1.U8
   size: 12386
-  date: '1996-12-24T22:32:00'
+  date: '1995-01-25T17:30:30'
   crc: '0x03531dc7'
 - name: SOUND\VOXFX\YIPPEE1.U8
   size: 11660
-  date: '1996-12-24T22:32:00'
+  date: '1995-02-16T22:14:58'
   crc: '0xbd47b766'

@@ -1,0 +1,99 @@
+filename: Championship Blackjack (1986)(PCSoftware) [Strategy, Cards].zip
+tdc_id: '8571.2'
+title:
+  box: Championship Blackjack
+publisher: PCSoftware
+year: '1986'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2024-04-01T17:48:01'
+  last_modified: '2024-04-01T17:48:01'
+type: zip
+commands:
+  play: MENU.BAT
+references:
+  mobygames: https://www.mobygames.com/game/dos/championship-blackjack
+files:
+- name: BASIC.SYS
+  size: 384
+  date: '1980-12-31T00:00:00'
+  crc: '0xfa222382'
+- name: BJACK.EXE
+  size: 63488
+  date: '1986-07-09T02:24:16'
+  crc: '0x205e56c7'
+- name: EMSG
+  size: 1664
+  date: '1982-05-02T01:00:00'
+  crc: '0xc51c4d1c'
+- name: HELPADDC.SCN
+  size: 4224
+  date: '1982-05-28T01:00:00'
+  crc: '0x21ec05e0'
+- name: HELPADDM.SCN
+  size: 4224
+  date: '1982-05-28T01:00:00'
+  crc: '0x5ebd30f6'
+- name: HELPINTC.SCN
+  size: 4224
+  date: '1982-05-28T01:00:00'
+  crc: '0xe98e83f5'
+- name: HELPINTM.SCN
+  size: 4224
+  date: '1982-05-28T01:00:00'
+  crc: '0x4676dba8'
+- name: MENU.BAT
+  size: 46
+  date: '1980-01-01T00:12:06'
+  crc: '0x6cb545ff'
+- name: OPTIONC.SCN
+  size: 4224
+  date: '1982-05-29T01:00:00'
+  crc: '0x3c267c51'
+- name: OPTIONM.SCN
+  size: 4224
+  date: '1982-05-29T01:00:00'
+  crc: '0x334d5568'
+- name: PCSOFT.SYS
+  size: 2048
+  date: '1980-12-31T00:00:00'
+  crc: '0x12896eb8'
+- name: RULESC.SCN
+  size: 4224
+  date: '1982-05-28T01:00:00'
+  crc: '0xa62c0cb9'
+- name: RULESM.SCN
+  size: 4224
+  date: '1982-05-28T01:00:00'
+  crc: '0x7cc5d594'
+- name: SIMBEGC.SCN
+  size: 4224
+  date: '1980-12-31T00:00:00'
+  crc: '0x9cd1cbb5'
+- name: SIMBEGM.SCN
+  size: 4224
+  date: '1980-12-31T00:00:00'
+  crc: '0x1c992962'
+- name: STATS.SCN
+  size: 4224
+  date: '1982-05-02T01:00:00'
+  crc: '0xf02460b7'
+- name: TRNYBEGC.SCN
+  size: 4224
+  date: '1980-12-31T00:00:00'
+  crc: '0x59a7ee49'
+- name: TRNYBEGM.SCN
+  size: 4224
+  date: '1980-12-31T00:00:00'
+  crc: '0x0a537cf5'
+- name: TRNYWINC.SCN
+  size: 4224
+  date: '1980-12-31T00:00:00'
+  crc: '0xdc611277'
+- name: TRNYWINM.SCN
+  size: 4224
+  date: '1980-12-31T00:00:00'
+  crc: '0x5e8a12a3'

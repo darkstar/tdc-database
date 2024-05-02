@@ -1,0 +1,113 @@
+filename: Bethesda Softworks 1995 Product Demo CD (Installer) (1995)(Bethesda Softworks LLC) [Compilation].zip
+tdc_id: '17425.0'
+title:
+  box: Bethesda Softworks 1995 Product Demo CD
+  qualifier: Installer
+publisher: Bethesda Softworks LLC
+year: '1995'
+genre: Compilation
+language: English
+date:
+  added: '2024-03-22T10:45:31'
+  last_modified: '2024-03-22T10:45:31'
+type: zip
+media: CD-ROM
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: BOWLING\
+  size: 0
+  date: '2024-03-19T09:32:12'
+- name: BOWLING\PBA.Z
+  size: 2368266
+  date: '1995-10-25T07:22:32'
+  crc: '0x4c6e085f'
+- name: BOWLING\SETUP.EXE
+  size: 273408
+  date: '1995-07-14T07:27:56'
+  crc: '0x70b963dc'
+- name: BOWLING\SETUP.INS
+  size: 27457
+  date: '1995-09-25T05:59:10'
+  crc: '0x325a835b'
+- name: BOWLING\SETUP.PKG
+  size: 454
+  date: '1995-10-25T07:22:32'
+  crc: '0xb077b419'
+- name: BOWLING\~INS0762.LIB
+  size: 77675
+  date: '1995-10-25T07:22:38'
+  crc: '0x6d8be407'
+- name: DAGGER\
+  size: 0
+  date: '2024-03-19T09:32:14'
+- name: DAGGER\DAGGER.1
+  size: 16077229
+  date: '1995-10-24T15:51:02'
+  crc: '0xf1aba1f1'
+- name: DAGGER\DAGGER.H1
+  size: 76704
+  date: '1995-10-24T15:51:02'
+  crc: '0x53610e1e'
+- name: DAGGER\DAGGER.TDS
+  size: 4
+  date: '1995-10-24T15:51:02'
+  crc: '0x95d4a942'
+- name: HELP.TXT
+  size: 5471
+  date: '1995-09-26T13:58:18'
+  crc: '0xfc624848'
+- name: INSTALL.EXE
+  size: 91792
+  date: '1995-10-25T07:19:28'
+  crc: '0x2f88d74e'
+- name: PLANET\
+  size: 0
+  date: '2024-03-19T09:32:14'
+- name: PLANET\10TH.1
+  size: 2835097
+  date: '1995-10-20T13:07:06'
+  crc: '0xd2ed3bb4'
+- name: PLANET\10TH.H1
+  size: 5472
+  date: '1995-10-20T13:07:06'
+  crc: '0xc8a92501'
+- name: PLANET\10TH.TDS
+  size: 4
+  date: '1995-10-20T13:07:06'
+  crc: '0x7c6c0520'
+- name: README.TXT
+  size: 20233
+  date: '1995-10-26T13:26:30'
+  crc: '0xe971f0c8'
+- name: SHOCK\
+  size: 0
+  date: '2024-03-19T09:32:14'
+- name: SHOCK\SHOCK.1
+  size: 4948140
+  date: '1995-10-24T13:21:50'
+  crc: '0xac1e3bd5'
+- name: SHOCK\SHOCK.H1
+  size: 25824
+  date: '1995-10-24T13:21:50'
+  crc: '0x50322425'
+- name: SHOCK\SHOCK.TDS
+  size: 4
+  date: '1995-10-24T13:21:50'
+  crc: '0x063969db'
+- name: XCAR\
+  size: 0
+  date: '2024-03-19T09:32:14'
+- name: XCAR\XCAR.1
+  size: 2292678
+  date: '1995-10-23T13:58:52'
+  crc: '0x01bea70e'
+- name: XCAR\XCAR.H1
+  size: 2016
+  date: '1995-10-23T13:58:52'
+  crc: '0x7f7d1a2c'
+- name: XCAR\XCAR.TDS
+  size: 4
+  date: '1995-10-23T13:58:52'
+  crc: '0x26d70347'

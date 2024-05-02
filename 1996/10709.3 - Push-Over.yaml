@@ -1,18 +1,25 @@
-filename: Push-Over (1996)(Big Games) [IMA][720k][!].zip
+filename: Push-Over (En)(De)(Fr)(Es) (1996)(Big Games, Ocean Software Ltd.) [IMA][720k][!].zip
 tdc_id: '10709.3'
+parent_id: '10709.4'
 title:
   box: Push-Over
-publisher: Big Games
+publisher: Big Games, Ocean Software Ltd.
 year: '1996'
 genre: IMA
-language: English
+language:
+- English
+- Spanish
+- French
+- German
 date:
   added: '2023-02-27T11:13:53'
-  last_modified: '2023-02-27T11:13:53'
+  last_modified: '2024-03-29T15:05:02'
 type: IMA
 tags:
 - KnownGood
 media: 720K
+references:
+  mobygames: https://www.mobygames.com/game/1777/push-over/
 files:
 - name: Disk1.ima
   size: 737280

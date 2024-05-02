@@ -1,26 +1,35 @@
-filename: 7th Guest, The (Installer) (1993)(Virgin Games, Inc.) [Adventure].zip
+filename: 7th Guest, The r930415 (Installer) (1993)(Virgin Games, Inc.) [Adventure].zip
 tdc_id: '7644.0'
 parent_id: '7644.3'
 title:
   box: The 7th Guest
+  qualifier: Installer
 publisher: Virgin Games, Inc.
 year: '1993'
 genre: Adventure
 language: English
 date:
   added: '2022-02-24T11:45:52'
-  last_modified: '2022-02-24T11:45:52'
+  last_modified: '2024-03-21T08:12:12'
+release: '930415'
 type: zip
+media: CD-ROM
 installer: true
+audio:
+- CD-DA
+commands:
+  play: INSTALL.BAT
+references:
+  mobygames: https://www.mobygames.com/game/283/the-7th-guest/
 files:
 - name: INSTALL.BAT
-  size: 149
-  date: '1993-03-10T12:19:48'
-  crc: '0xeea51156'
-- name: INSTALL2.BAT
   size: 25
   date: '1993-03-19T12:53:56'
   crc: '0x8c3336e9'
+- name: INSTALL.BA_
+  size: 149
+  date: '1993-03-10T12:19:48'
+  crc: '0xeea51156'
 - name: T7G\
   size: 0
   date: '1993-03-30T23:42:28'
@@ -62,10 +71,10 @@ files:
   crc: '0xe034b231'
 - name: T7G\INSTALL\
   size: 0
-  date: '1993-05-20T12:31:48'
+  date: '1993-04-15T19:47:36'
 - name: T7G\INSTALL\ADLIB.ADV
   size: 14775
-  date: '1992-11-14T06:00:00'
+  date: '1993-01-01T19:32:02'
   crc: '0x865e52d2'
 - name: T7G\INSTALL\ADLIBG.ADV
   size: 16257
@@ -188,9 +197,9 @@ files:
   date: '1993-03-08T16:37:02'
   crc: '0x953c6932'
 - name: T7G\INSTALL\INSTALL.EXE
-  size: 43762
-  date: '1993-05-11T18:04:10'
-  crc: '0x2d1b0c6a'
+  size: 43389
+  date: '1993-03-29T11:39:12'
+  crc: '0x25ee5d36'
 - name: T7G\INSTALL\INTRO.RL
   size: 1960
   date: '1993-03-24T18:55:42'
@@ -245,7 +254,7 @@ files:
   crc: '0xb2210d4b'
 - name: T7G\INSTALL\MT32MPU.ADV
   size: 10707
-  date: '1992-11-14T06:00:00'
+  date: '1993-01-01T19:31:56'
   crc: '0xcfd00e6c'
 - name: T7G\INSTALL\MU.GRV
   size: 1354
@@ -272,16 +281,16 @@ files:
   date: '1993-03-08T17:41:32'
   crc: '0xa697234f'
 - name: T7G\INSTALL\PASDIG.ADV
-  size: 4361
-  date: '1992-11-14T06:00:00'
-  crc: '0x0edba24b'
+  size: 4317
+  date: '1993-01-01T19:33:06'
+  crc: '0xf4423f10'
 - name: T7G\INSTALL\PASFM.ADV
   size: 15242
-  date: '1992-11-14T06:00:00'
+  date: '1993-01-01T19:32:34'
   crc: '0xd73676bd'
 - name: T7G\INSTALL\PASOPL.ADV
   size: 16333
-  date: '1992-11-14T06:00:00'
+  date: '1993-01-01T19:32:40'
   crc: '0x527b4aef'
 - name: T7G\INSTALL\README.TXT
   size: 2934
@@ -292,25 +301,25 @@ files:
   date: '1993-03-17T10:08:42'
   crc: '0x0c3bd017'
 - name: T7G\INSTALL\SBDIG.ADV
-  size: 4667
-  date: '1992-11-14T06:00:00'
-  crc: '0x0214818d'
+  size: 4623
+  date: '1993-01-01T19:31:30'
+  crc: '0xbb2e4494'
 - name: T7G\INSTALL\SBFM.ADV
   size: 14825
-  date: '1992-11-14T06:00:00'
+  date: '1993-01-01T19:32:10'
   crc: '0xaa4f129e'
 - name: T7G\INSTALL\SBP1FM.ADV
   size: 15235
-  date: '1992-11-14T06:00:00'
+  date: '1993-01-01T19:32:18'
   crc: '0x8abc7aa2'
 - name: T7G\INSTALL\SBP2FM.ADV
   size: 16357
-  date: '1992-11-14T06:00:00'
+  date: '1993-01-01T19:32:26'
   crc: '0x87e2ad7b'
 - name: T7G\INSTALL\SBPDIG.ADV
-  size: 4946
-  date: '1992-11-14T06:00:00'
-  crc: '0xe08717b1'
+  size: 4902
+  date: '1993-01-01T19:31:22'
+  crc: '0xf0f519f3'
 - name: T7G\INSTALL\SCRIPT.GRV
   size: 16659
   date: '1993-04-15T13:24:14'
@@ -332,9 +341,9 @@ files:
   date: '1992-04-15T07:29:04'
   crc: '0xe940ca99'
 - name: T7G\INSTALL\V.EXE
-  size: 21361
-  date: '1993-05-11T12:01:56'
-  crc: '0xa1acc11e'
+  size: 21264
+  date: '1993-04-06T15:30:58'
+  crc: '0x936140cb'
 - name: T7G\INSTALL\XMI.GJD
   size: 257251
   date: '1993-03-09T09:24:08'
@@ -385,24 +394,24 @@ files:
   crc: '0xd0c6d04e'
 - name: VESA\
   size: 0
-  date: '1993-05-20T12:32:34'
+  date: '1993-04-15T19:48:12'
 - name: VESA\APPIAN\
   size: 0
-  date: '1993-05-20T12:32:36'
+  date: '1993-04-15T19:48:12'
 - name: VESA\APPIAN\APVESA.EXE
   size: 2580
   date: '1991-04-11T12:32:12'
   crc: '0x00b41ae7'
 - name: VESA\ATI\
   size: 0
-  date: '1993-05-20T12:32:36'
+  date: '1993-04-15T19:48:12'
 - name: VESA\ATI\VVESA.COM
   size: 3736
   date: '1991-04-11T12:31:40'
   crc: '0x726e35af'
 - name: VESA\CANDT\
   size: 0
-  date: '1993-05-20T12:32:38'
+  date: '1993-04-15T19:48:12'
 - name: VESA\CANDT\README.TXT
   size: 392
   date: '1991-04-11T12:31:40'
@@ -441,7 +450,7 @@ files:
   crc: '0xe0521606'
 - name: VESA\CIRRUS\
   size: 0
-  date: '1993-05-20T12:32:42'
+  date: '1993-04-15T19:48:14'
 - name: VESA\CIRRUS\CRUSVESA.COM
   size: 3711
   date: '1991-04-11T12:31:38'
@@ -452,7 +461,7 @@ files:
   crc: '0x741aedd2'
 - name: VESA\EVEREX\
   size: 0
-  date: '1993-05-20T12:32:44'
+  date: '1993-04-15T19:48:14'
 - name: VESA\EVEREX\EVRXVESA.COM
   size: 4228
   date: '1991-04-11T12:31:42'
@@ -483,7 +492,7 @@ files:
   crc: '0x36e4f2f3'
 - name: VESA\GENCAD3D\
   size: 0
-  date: '1993-05-20T12:32:48'
+  date: '1993-04-15T19:48:16'
 - name: VESA\GENCAD3D\VESA16L.VGD
   size: 24467
   date: '1991-04-11T12:32:06'
@@ -502,7 +511,7 @@ files:
   crc: '0xd5ac1567'
 - name: VESA\GENOA\
   size: 0
-  date: '1993-05-20T12:32:54'
+  date: '1993-04-15T19:48:16'
 - name: VESA\GENOA\GENBOX.EXE
   size: 9712
   date: '1991-04-11T12:31:46'
@@ -533,7 +542,7 @@ files:
   crc: '0x875953e1'
 - name: VESA\OAK\
   size: 0
-  date: '1993-05-20T12:32:56'
+  date: '1993-04-15T19:48:18'
 - name: VESA\OAK\37VESA.COM
   size: 1351
   date: '1991-04-11T12:32:14'
@@ -552,7 +561,7 @@ files:
   crc: '0x9c9c8638'
 - name: VESA\ORCHID\
   size: 0
-  date: '1993-05-20T12:32:58'
+  date: '1993-04-15T19:48:20'
 - name: VESA\ORCHID\ORCHDVSA.COM
   size: 2021
   date: '1991-04-11T12:32:12'
@@ -563,7 +572,7 @@ files:
   crc: '0xa443fb79'
 - name: VESA\PARADISE\
   size: 0
-  date: '1993-05-20T12:33:00'
+  date: '1993-04-15T19:48:20'
 - name: VESA\PARADISE\READ.ME
   size: 911
   date: '1991-04-11T12:31:46'
@@ -578,7 +587,7 @@ files:
   crc: '0xbf9e06c1'
 - name: VESA\SIGMA\
   size: 0
-  date: '1993-05-20T12:33:02'
+  date: '1993-04-15T19:48:20'
 - name: VESA\SIGMA\READ.ME
   size: 1111
   date: '1991-04-11T12:31:48'
@@ -589,7 +598,7 @@ files:
   crc: '0x752f067b'
 - name: VESA\STB\
   size: 0
-  date: '1993-05-20T12:33:04'
+  date: '1993-04-15T19:48:20'
 - name: VESA\STB\READ.ME
   size: 1098
   date: '1991-04-11T12:31:48'
@@ -600,7 +609,7 @@ files:
   crc: '0x37741ec7'
 - name: VESA\TECMAR\
   size: 0
-  date: '1993-05-20T12:33:06'
+  date: '1993-04-15T19:48:22'
 - name: VESA\TECMAR\VESATEST.C
   size: 7360
   date: '1991-04-11T12:31:48'
@@ -615,7 +624,7 @@ files:
   crc: '0xeb6c9c2a'
 - name: VESA\TRIDENT\
   size: 0
-  date: '1993-05-20T12:33:08'
+  date: '1993-04-15T19:48:22'
 - name: VESA\TRIDENT\TVGAVESA.DOC
   size: 2573
   date: '1991-04-11T12:32:14'
@@ -626,7 +635,7 @@ files:
   crc: '0x6579a19c'
 - name: VESA\TSENG\
   size: 0
-  date: '1993-05-20T12:33:10'
+  date: '1993-04-15T19:48:22'
 - name: VESA\TSENG\TLIVESA.COM
   size: 3389
   date: '1991-04-11T12:50:02'
@@ -637,7 +646,7 @@ files:
   crc: '0x958a6e40'
 - name: VESA\VIDEO7\
   size: 0
-  date: '1993-05-20T12:33:12'
+  date: '1993-04-15T19:48:24'
 - name: VESA\VIDEO7\V7VESA.COM
   size: 2346
   date: '1991-04-11T12:31:50'

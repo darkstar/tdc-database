@@ -94,18 +94,14 @@ files:
   size: 3150
   date: '1989-11-09T15:23:38'
   crc: '0xfd259631'
-- name: GAMESAVE.HD
-  size: 236
-  date: '1990-09-06T13:44:44'
-  crc: '0x1eff3247'
-- name: HALLFAME.HD
-  size: 640
-  date: '1990-09-12T11:15:20'
-  crc: '0xc011be91'
 - name: HG.EXE
   size: 160437
   date: '1989-12-04T20:18:06'
-  crc: '0x9d759c0d'
+  crc: '0x817dfbbb'
+- name: HG.EX_
+  size: 160437
+  date: '1989-12-04T20:18:06'
+  crc: '0x1ae00602'
 - name: HG1.ART
   size: 19346
   date: '1989-11-13T02:03:08'
@@ -113,7 +109,7 @@ files:
 - name: HG2.ART
   size: 26872
   date: '1989-11-09T13:06:40'
-  crc: '0xa5e94746'
+  crc: '0x612c8e3c'
 - name: HGDRAG.ART
   size: 14359
   date: '1989-10-23T18:09:56'

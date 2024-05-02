@@ -1,5 +1,6 @@
-filename: Mist, The (1985)(Mindscape, Inc.) [Adventure].zip
+filename: Mist, The r851023 (1985)(Mindscape, Inc.) [Adventure].zip
 tdc_id: '14318.0'
+parent_id: '14318.2'
 title:
   box: The Mist
 publisher: Mindscape, Inc.
@@ -8,11 +9,22 @@ genre: Adventure
 language: English
 date:
   added: '2019-03-01T18:24:30'
-  last_modified: '2019-03-01T18:24:30'
+  last_modified: '2024-03-11T11:04:36'
+release: '851023'
 type: zip
+media: 360K
 commands:
-  play: GAME.COM
+  play: START.BAT
+references:
+  mobygames: https://www.mobygames.com/game/1130/the-mist/
 files:
+- name: -THE-MIST!-
+  size: 0
+  date: '1987-12-27T12:27:30'
+- name: DPLTTL.COM
+  size: 12189
+  date: '1985-09-19T09:49:28'
+  crc: '0x56ea064a'
 - name: GAME.000
   size: 67840
   date: '1985-10-22T16:13:24'
@@ -21,18 +33,30 @@ files:
   size: 24552
   date: '1985-10-22T16:13:28'
   crc: '0x4de94f6e'
-- name: HI_SCORE.DAT
-  size: 214
-  date: '1990-06-26T21:19:36'
-  crc: '0x86a31c22'
-- name: LOGO.DAT
-  size: 16384
-  date: '1988-03-03T13:29:54'
-  crc: '0x95419c89'
+- name: GAME.CO_
+  size: 25835
+  date: '1985-10-22T16:13:28'
+  crc: '0x04773d39'
+- name: INSTALL1.BAT
+  size: 768
+  date: '1985-09-18T08:15:18'
+  crc: '0xfade3849'
+- name: INSTALL2.BAT
+  size: 640
+  date: '1985-08-05T11:24:06'
+  crc: '0x461a123c'
 - name: MESSAGE
   size: 46080
   date: '1985-10-23T02:02:14'
   crc: '0x623a7b15'
+- name: MIST.SCR
+  size: 16000
+  date: '1985-09-19T08:32:16'
+  crc: '0xb42f626d'
+- name: START.BAT
+  size: 23
+  date: '1980-01-01T00:00:00'
+  crc: '0xe3a94856'
 - name: TABLES
   size: 5358
   date: '1985-10-23T01:45:48'

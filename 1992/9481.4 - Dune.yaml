@@ -1,17 +1,30 @@
-filename: Dune (It) (1992)(Virgin Games, Ltd.) [Adventure, Strategy].zip
+filename: Dune r920724 (En)(Fr)(De)(It)(Es) (1992)(Virgin Games, Inc.) [Adventure, Strategy].zip
 tdc_id: '9481.4'
+parent_id: '9481.16'
 title:
   box: Dune
-publisher: Virgin Games, Ltd.
+publisher: Virgin Games, Inc.
 year: '1992'
 genre:
 - Adventure
 - Strategy
-language: Italian
+language:
+- English
+- Spanish
+- French
+- Italian
+- German
 date:
   added: '2019-03-01T18:42:32'
-  last_modified: '2019-03-01T18:42:32'
+  last_modified: '2024-03-24T11:04:53'
+release: '920724'
 type: zip
+media: 720K
+commands:
+  play: DUNE.BAT
+  setup: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/380/dune/
 files:
 - name: ARRAKIS.AGD
   size: 9027
@@ -25,10 +38,6 @@ files:
   size: 12210
   date: '1992-03-20T14:00:56'
   crc: '0x4bd4c1b9'
-- name: ARROW.PPV
-  size: 113
-  date: '1992-06-12T15:04:16'
-  crc: '0xc894e219'
 - name: ATTACK.HSQ
   size: 5761
   date: '1992-01-14T16:17:40'
@@ -130,33 +139,26 @@ files:
   date: '1992-01-05T23:21:10'
   crc: '0x5ab842b4'
 - name: DEATH3.HSQ
-  size: 27365
-  date: '1993-03-19T12:59:56'
-  crc: '0x575bb2de'
+  size: 42098
+  date: '1992-01-05T23:21:18'
+  crc: '0x661a1b3d'
 - name: DIALOGUE.HSQ
   size: 4219
   date: '1992-06-10T12:31:08'
   crc: '0x3992f5f7'
-- name: DUNE24S0.SAV
-  size: 9582
-  date: '2007-09-06T12:24:24'
-  crc: '0x746968ba'
-- name: DUNE24S1.SAV
-  size: 12958
-  date: '1998-07-04T22:04:38'
-  crc: '0xed4e837b'
-- name: DUNE24S2.SAV
-  size: 12848
-  date: '1998-03-04T15:23:22'
-  crc: '0x1094e9a2'
-- name: DUNE24S3.SAV
-  size: 12799
-  date: '1998-07-04T22:07:04'
-  crc: '0x2d6f0e3f'
-- name: DUNE24S4.SAV
-  size: 12980
-  date: '1998-07-04T21:06:58'
-  crc: '0xe0f57182'
+- name: DUNE.205.D1
+  size: 0
+  date: '1992-07-24T16:25:18'
+- name: DUNE.205.D2
+  size: 0
+  date: '1992-07-24T16:27:00'
+- name: DUNE.205.D3
+  size: 0
+  date: '1992-07-24T16:31:00'
+- name: DUNE.BAT
+  size: 377
+  date: '1991-09-22T04:56:14'
+  crc: '0x39adf782'
 - name: DUNE386.HSQ
   size: 9543
   date: '1992-04-23T00:31:18'
@@ -184,11 +186,11 @@ files:
 - name: DUNEPRG.EXE
   size: 57520
   date: '1992-06-19T00:32:46'
+  crc: '0x8537cdaf'
+- name: DUNEPRG.EX_
+  size: 57520
+  date: '1992-06-19T00:32:46'
   crc: '0x2f4a9c10'
-- name: DUNEPR_K.EXE
-  size: 6238
-  date: '1998-08-11T12:53:08'
-  crc: '0x7017f194'
 - name: DUNES.HSQ
   size: 21874
   date: '1991-11-12T19:21:50'
@@ -209,10 +211,6 @@ files:
   size: 9397
   date: '1992-04-22T15:47:02'
   crc: '0x215ca19f'
-- name: ECGS.PPV
-  size: 7213
-  date: '1992-06-16T09:50:40'
-  crc: '0xaa2f67df'
 - name: EMPR.HSQ
   size: 10113
   date: '1992-04-02T16:03:00'
@@ -225,34 +223,6 @@ files:
   size: 15683
   date: '1991-12-22T02:48:06'
   crc: '0x9058caae'
-- name: FILE01.PPV
-  size: 2430
-  date: '1992-06-15T12:13:38'
-  crc: '0xa0fd3e45'
-- name: FILE02.PPV
-  size: 4119
-  date: '1992-05-15T09:06:50'
-  crc: '0x3221604c'
-- name: FILE03.PPV
-  size: 24074
-  date: '1992-07-02T15:32:12'
-  crc: '0xb40f92d4'
-- name: FILE04.PPV
-  size: 5032
-  date: '1992-05-18T15:08:56'
-  crc: '0xd3910ea3'
-- name: FILE05.PPV
-  size: 18253
-  date: '1992-05-15T09:07:00'
-  crc: '0xd088fed9'
-- name: FILE06.PPV
-  size: 15408
-  date: '1992-05-15T09:07:02'
-  crc: '0x0d1db002'
-- name: FILE07.PPV
-  size: 2659
-  date: '1992-05-15T09:07:04'
-  crc: '0xa3be6f04'
 - name: FINAL.HSQ
   size: 16274
   date: '1992-01-18T17:04:48'
@@ -277,18 +247,10 @@ files:
   size: 18417
   date: '1992-04-02T16:26:56'
   crc: '0x7048beb8'
-- name: GAMESCRN.PPV
-  size: 8894
-  date: '1992-07-07T09:27:36'
-  crc: '0x7a729187'
 - name: GENERIC.HSQ
   size: 4009
   date: '1991-08-24T18:32:48'
   crc: '0xdff3ca34'
-- name: GIOCA.BAT
-  size: 55
-  date: '2011-10-16T20:15:36'
-  crc: '0x557227e6'
 - name: GLOBDATA.HSQ
   size: 4741
   date: '1991-02-03T14:46:38'
@@ -313,14 +275,6 @@ files:
   size: 11511
   date: '1992-04-02T15:45:56'
   crc: '0x25dbb881'
-- name: HEART.PPV
-  size: 1978
-  date: '1992-03-10T10:57:22'
-  crc: '0x1df7e0ba'
-- name: HELP2.PPV
-  size: 1190
-  date: '1992-03-18T10:48:06'
-  crc: '0x29c2ec26'
 - name: ICONES.HSQ
   size: 14995
   date: '1992-04-22T14:12:12'
@@ -329,14 +283,10 @@ files:
   size: 4672
   date: '1991-10-29T19:13:38'
   crc: '0x31906c64'
-- name: INPWINDO.PPV
-  size: 2179
-  date: '1992-05-21T14:03:32'
-  crc: '0xb92a974d'
 - name: INSTALL.EXE
-  size: 11672
-  date: '1992-05-31T00:19:18'
-  crc: '0xd9241a9e'
+  size: 12184
+  date: '1992-07-01T00:20:58'
+  crc: '0x89d79940'
 - name: INTDS.HSQ
   size: 15155
   date: '1991-10-10T20:33:12'
@@ -349,34 +299,18 @@ files:
   size: 21411
   date: '1991-11-15T12:15:44'
   crc: '0x3022fea9'
-- name: LESSON.PPV
-  size: 5038
-  date: '1992-05-29T17:01:10'
-  crc: '0xa0f1095b'
-- name: LESSON1.PPV
-  size: 1502
-  date: '1992-05-15T12:15:54'
-  crc: '0x9297ffe4'
-- name: LESSON2.PPV
-  size: 2419
-  date: '1992-05-19T14:14:04'
-  crc: '0xc705fc7c'
 - name: LETO.HSQ
   size: 6991
   date: '1992-04-02T15:39:38'
   crc: '0x86ef9f4d'
+- name: LOGO.EXE
+  size: 2437
+  date: '1992-04-06T23:38:06'
+  crc: '0xda9b3a59'
 - name: LOGO.HNM
   size: 18263
   date: '1992-04-27T01:43:02'
   crc: '0xaa2cce49'
-- name: MAIN.PPV
-  size: 23944
-  date: '1992-06-30T10:47:02'
-  crc: '0xb80f7fcb'
-- name: MAINBUTS.PPV
-  size: 1380
-  date: '1992-06-30T17:04:44'
-  crc: '0x293eeee1'
 - name: MAP.HSQ
   size: 15984
   date: '1991-09-21T01:46:24'
@@ -405,10 +339,6 @@ files:
   size: 4950
   date: '1992-03-20T23:51:02'
   crc: '0x3653ea60'
-- name: MOUSE.COM
-  size: 15108
-  date: '1990-06-06T00:00:00'
-  crc: '0xa489c4e6'
 - name: ONMAP.HSQ
   size: 13907
   date: '1992-02-17T13:57:18'
@@ -429,10 +359,6 @@ files:
   size: 9311
   date: '1991-12-15T03:50:28'
   crc: '0x1a665f04'
-- name: PAGE.PPV
-  size: 614
-  date: '1992-05-14T12:56:04'
-  crc: '0x14ae1339'
 - name: PALACE.SAL
   size: 1859
   date: '1992-04-02T04:59:12'
@@ -499,7 +425,7 @@ files:
   crc: '0x1eba296e'
 - name: POR.HSQ
   size: 19275
-  date: '1992-03-29T19:39:06'
+  date: '1992-03-29T18:39:06'
   crc: '0x4ee6687b'
 - name: PROUGE.HSQ
   size: 9525
@@ -507,16 +433,8 @@ files:
   crc: '0x2d6413d1'
 - name: PRT.HNM
   size: 130328
-  date: '1992-04-05T07:03:44'
+  date: '1992-04-05T06:03:44'
   crc: '0x6cc14781'
-- name: REDYWNDO.PPV
-  size: 1724
-  date: '1992-05-21T14:03:14'
-  crc: '0x881d0ba2'
-- name: SCORWNDO.PPV
-  size: 1190
-  date: '1992-03-25T10:40:42'
-  crc: '0x0ea7ebd2'
 - name: SD1.HSQ
   size: 15410
   date: '1992-02-18T19:49:26'
@@ -609,10 +527,6 @@ files:
   size: 7344
   date: '1992-03-20T18:09:22'
   crc: '0xff0089d7'
-- name: SKILWNDO.PPV
-  size: 2252
-  date: '1992-05-21T14:03:18'
-  crc: '0x2b7a50fe'
 - name: SKY.HSQ
   size: 8609
   date: '1992-01-06T19:47:40'
@@ -623,7 +537,7 @@ files:
   crc: '0x6acc6791'
 - name: STARS.HSQ
   size: 42234
-  date: '1992-03-29T17:20:46'
+  date: '1992-03-29T16:20:46'
   crc: '0x4cf61860'
 - name: STIL.HSQ
   size: 11043
@@ -685,14 +599,6 @@ files:
   size: 3471
   date: '1992-03-20T14:01:56'
   crc: '0xf64f1492'
-- name: WINDOW.PPV
-  size: 505
-  date: '1992-05-14T12:56:10'
-  crc: '0xaced271a'
-- name: WINDOW2.PPV
-  size: 575
-  date: '1992-05-14T12:56:14'
-  crc: '0x827f1c11'
 - name: WORMINTR.AGD
   size: 5618
   date: '1992-03-07T19:43:14'

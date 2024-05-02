@@ -1,0 +1,50 @@
+filename: Dune (En)(Fr)(De)(It)(Es) (1993)(Virgin Games, Inc.) [Adventure, Strategy].zip
+tdc_id: '9481.18'
+parent_id: '9481.17'
+title:
+  box: Dune
+publisher: Virgin Games, Inc.
+year: '1993'
+genre:
+- Adventure
+- Strategy
+language:
+- English
+- Spanish
+- French
+- Italian
+- German
+date:
+  added: '2024-03-24T13:20:17'
+  last_modified: '2024-03-24T13:20:17'
+type: zip
+media: CD-ROM
+commands:
+  play: DUNE.EXE
+references:
+  mobygames: https://www.mobygames.com/game/380/dune/
+files:
+- name: DNCDPRG.EXE
+  size: 78730
+  date: '1993-06-27T21:01:04'
+  crc: '0x9e129811'
+- name: DUNE.DAT
+  size: 397796624
+  date: '1993-07-06T15:11:44'
+  crc: '0x825b7ae4'
+- name: DUNE.EXE
+  size: 6486
+  date: '1993-03-13T04:19:50'
+  crc: '0xbb7dda7e'
+- name: INSTALL.EXE
+  size: 13221
+  date: '1993-07-08T13:39:40'
+  crc: '0x6e71d44f'
+- name: README.BAT
+  size: 30
+  date: '1993-02-20T16:49:52'
+  crc: '0x0c66cf09'
+- name: README.DOC
+  size: 7037
+  date: '1993-03-13T04:05:44'
+  crc: '0x340dfb3b'

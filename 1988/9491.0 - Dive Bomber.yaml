@@ -1,4 +1,4 @@
-filename: Dive Bomber (1988)(U.S. Gold Ltd.) [Action, Simulation].zip
+filename: Dive Bomber r880829 (1988)(U.S. Gold Ltd.) [Action, Simulation].zip
 tdc_id: '9491.0'
 title:
   box: Dive Bomber
@@ -10,9 +10,13 @@ genre:
 language: English
 date:
   added: '2020-04-29T05:51:40'
-  last_modified: '2020-04-29T05:51:40'
+  last_modified: '2024-04-04T10:55:16'
+release: '880829'
 type: zip
+commands:
+  play: DIVEBOMB.COM
 references:
+  mobygames: https://www.mobygames.com/game/626/dive-bomber/
   dosid: DOS01813
   exodos: Dive Bomber (1988).zip
 files:
@@ -32,10 +36,6 @@ files:
   size: 81837
   date: '1988-07-28T11:06:36'
   crc: '0xce16828a'
-- name: CONFIG.DAT
-  size: 12
-  date: '2020-04-29T12:50:12'
-  crc: '0x9417ad51'
 - name: DIVEBOMB.COM
   size: 4919
   date: '1988-08-29T10:29:14'

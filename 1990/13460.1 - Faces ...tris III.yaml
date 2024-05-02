@@ -1,19 +1,22 @@
-filename: Faces ...tris III (CGA, Mono) (1990)(Spectrum HoloByte, Inc.) [Strategy].zip
+filename: Faces ...tris III (MDA, CGA) (1990)(Spectrum HoloByte, Inc.) [Strategy].zip
 tdc_id: '13460.1'
 parent_id: '13460.5'
 title:
   box: Faces ...tris III
-  qualifier: CGA, Mono
+  qualifier: MDA, CGA
 publisher: Spectrum HoloByte, Inc.
 year: '1990'
 genre: Strategy
 language: English
 date:
   added: '2019-03-01T18:32:34'
-  last_modified: '2019-03-01T18:32:34'
+  last_modified: '2024-04-07T09:09:40'
 type: zip
+media: 720K
 commands:
   play: FACES.EXE
+references:
+  mobygames: https://www.mobygames.com/game/2627/faces-tris-iii/
 files:
 - name: AGC.BIN
   size: 5972

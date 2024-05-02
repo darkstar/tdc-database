@@ -1,0 +1,148 @@
+filename: Vaxine (1991)(U.S. Gold Ltd.) [Action][!].zip
+tdc_id: '7372.5'
+parent_id: '7372.3'
+title:
+  box: Vaxine
+publisher: U.S. Gold Ltd.
+year: '1991'
+genre: Action
+language: English
+date:
+  added: '2024-04-08T08:57:44'
+  last_modified: '2024-04-08T08:57:44'
+type: zip
+tags:
+- KnownGood
+media: 720K
+commands:
+  play: VAXINE.EXE
+references:
+  mobygames: https://www.mobygames.com/game/5624/vaxine/
+files:
+- name: BIGCH.BIN
+  size: 64496
+  date: '1991-03-20T08:39:16'
+  crc: '0x21c7842c'
+- name: BIGNUM.BIN
+  size: 1536
+  date: '1991-03-20T08:39:12'
+  crc: '0xdec9b588'
+- name: CGA\
+  size: 0
+  date: '1991-03-20T08:46:12'
+- name: CGA\BALLS.CGA
+  size: 11936
+  date: '1991-03-20T08:39:36'
+  crc: '0x386392cc'
+- name: CGA\BASES.CGA
+  size: 7127
+  date: '1991-03-20T08:39:36'
+  crc: '0xdde190aa'
+- name: CGA\STARS.CGA
+  size: 11822
+  date: '1991-03-20T08:39:36'
+  crc: '0xb39eab8a'
+- name: CGA\TITLE.CGA
+  size: 13984
+  date: '1991-03-20T08:39:38'
+  crc: '0xa39bc425'
+- name: CGA\TORI.CGA
+  size: 4668
+  date: '1991-03-20T08:39:38'
+  crc: '0xd9b0648d'
+- name: EGA\
+  size: 0
+  date: '1991-03-20T08:46:20'
+- name: EGA\BALLS.EGA
+  size: 18368
+  date: '1991-03-20T08:39:40'
+  crc: '0x0ba4726a'
+- name: EGA\BASES.EGA
+  size: 10844
+  date: '1991-03-20T08:39:40'
+  crc: '0x3c7fd1a3'
+- name: EGA\STARS.EGA
+  size: 18368
+  date: '1991-03-20T08:39:42'
+  crc: '0xf0275fb0'
+- name: EGA\TITLE.EGA
+  size: 24276
+  date: '1991-03-20T08:39:44'
+  crc: '0x3d4b2e7b'
+- name: EGA\TORI.EGA
+  size: 6998
+  date: '1991-03-20T08:39:42'
+  crc: '0xbc1983e4'
+- name: INSTALL.COM
+  size: 1960
+  date: '1991-03-19T17:40:02'
+  crc: '0xdb1f748a'
+- name: SOUNDS\
+  size: 0
+  date: '1991-03-20T08:47:08'
+- name: SOUNDS\ADLIB.SMP
+  size: 41348
+  date: '1991-03-20T08:39:30'
+  crc: '0x563db4e5'
+- name: SOUNDS\IBM.SMP
+  size: 13679
+  date: '1991-03-20T08:39:34'
+  crc: '0xdbdad08d'
+- name: SOUNDS\ROLAND.SMP
+  size: 25323
+  date: '1991-03-20T08:39:32'
+  crc: '0xb7b809c6'
+- name: SPDEMO.VAX
+  size: 7620
+  date: '1991-03-20T08:39:16'
+  crc: '0x9914fc63'
+- name: TGA\
+  size: 0
+  date: '1991-03-20T08:46:54'
+- name: TGA\BALLS.TGA
+  size: 22864
+  date: '1991-03-20T08:39:48'
+  crc: '0xbfc138cb'
+- name: TGA\BASES.TGA
+  size: 13459
+  date: '1991-03-20T08:39:48'
+  crc: '0xf85c266b'
+- name: TGA\STARS.TGA
+  size: 22864
+  date: '1991-03-20T08:39:50'
+  crc: '0x6413120d'
+- name: TGA\TORI.TGA
+  size: 8650
+  date: '1991-03-20T08:39:50'
+  crc: '0x8e562769'
+- name: VAXINE.EXE
+  size: 23581
+  date: '1991-03-20T08:39:10'
+  crc: '0x4c48a246'
+- name: VAXINE.EX_
+  size: 23581
+  date: '1991-03-20T08:39:10'
+  crc: '0x4bca9650'
+- name: VGA\
+  size: 0
+  date: '1991-03-20T08:46:34'
+- name: VGA\BALLS.VGA
+  size: 38168
+  date: '1991-03-20T08:39:20'
+  crc: '0xb6d15c47'
+- name: VGA\BASES.VGA
+  size: 22332
+  date: '1991-03-20T08:39:22'
+  crc: '0x91850927'
+- name: VGA\STARS.VGA
+  size: 18894
+  date: '1991-03-20T08:39:24'
+  crc: '0xa5c65af3'
+- name: VGA\TITLE.VGA
+  size: 25146
+  date: '1991-03-20T08:39:28'
+  crc: '0x335c8e07'
+- name: VGA\TORI.VGA
+  size: 15221
+  date: '1991-03-20T08:39:26'
+  crc: '0x217a6bbe'

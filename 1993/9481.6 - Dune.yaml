@@ -1,10 +1,10 @@
-filename: Dune (En)(Fr)(De)(It)(Es) (1993)(Virgin Games, Ltd.) [ISO].zip
+filename: Dune (En)(Fr)(De)(It)(Es) (1993)(Virgin Games, Ltd.) [bin-cue].zip
 tdc_id: '9481.6'
 title:
   box: Dune
 publisher: Virgin Games, Ltd.
 year: '1993'
-genre: ISO
+genre: bin-cue
 language:
 - English
 - Spanish
@@ -13,13 +13,17 @@ language:
 - German
 date:
   added: '2023-02-18T19:44:58'
-  last_modified: '2023-02-18T19:44:58'
-type: ISO
+  last_modified: '2024-03-24T11:36:06'
+type: bin-cue
 media: CD-ROM
 references:
-  mobygames: https://www.mobygames.com/game/dos/dune
+  mobygames: https://www.mobygames.com/game/380/dune/
 files:
-- name: Dune.iso
-  size: 398438400
-  date: '2019-02-13T01:20:10'
-  crc: '0xd57b2d6d'
+- name: Dune (Europe) (En,Fr,De,Es,It).bin
+  size: 457581600
+  date: '1996-12-24T23:32:00'
+  crc: '0xbf86536e'
+- name: Dune (Europe) (En,Fr,De,Es,It).cue
+  size: 119
+  date: '1996-12-24T23:32:00'
+  crc: '0xe13e91ce'

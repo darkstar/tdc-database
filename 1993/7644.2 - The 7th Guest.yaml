@@ -1,27 +1,35 @@
-filename: 7th Guest, The v1.2 (Installer) (1993)(Virgin Games, Inc.) [Adventure].zip
+filename: 7th Guest, The v1.2 (Installer) (1993)(Virgin Interactive Entertainment (Europe) Ltd.) [Adventure].zip
 tdc_id: '7644.2'
 parent_id: '7644.4'
 title:
   box: The 7th Guest
-publisher: Virgin Games, Inc.
+  qualifier: Installer
+publisher: Virgin Interactive Entertainment (Europe) Ltd.
 year: '1993'
 genre: Adventure
 language: English
 date:
   added: '2022-02-23T17:38:42'
-  last_modified: '2022-02-23T17:38:42'
+  last_modified: '2024-03-20T18:42:57'
 version: '1.2'
 type: zip
+media: CD-ROM
 installer: true
+audio:
+- CD-DA
+commands:
+  play: INSTALL.BAT
+references:
+  mobygames: https://www.mobygames.com/game/283/the-7th-guest/
 files:
 - name: INSTALL.BAT
-  size: 111
-  date: '1993-04-21T11:49:08'
-  crc: '0xd87ea476'
-- name: INSTALL2.BAT
   size: 254
   date: '1993-06-17T18:32:42'
   crc: '0x0b695e4d'
+- name: INSTALL.BA_
+  size: 111
+  date: '1993-04-21T11:49:08'
+  crc: '0xd87ea476'
 - name: MENU.DAT
   size: 246
   date: '1993-06-17T17:38:06'
@@ -40,7 +48,7 @@ files:
   crc: '0x9916219f'
 - name: T7G\
   size: 0
-  date: '1993-06-17T17:49:10'
+  date: '1993-04-21T10:31:10'
 - name: T7G\AT.GJD
   size: 45171574
   date: '1993-03-08T16:02:12'

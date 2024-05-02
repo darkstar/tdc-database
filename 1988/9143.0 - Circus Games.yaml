@@ -1,5 +1,6 @@
-filename: Circus Games (1988)(Keypunch Software, Inc.) [Action].zip
+filename: Circus Games (1988)(Keypunch Software, Inc.) [Action][!].zip
 tdc_id: '9143.0'
+parent_id: '9143.1'
 title:
   box: Circus Games
 publisher: Keypunch Software, Inc.
@@ -8,8 +9,13 @@ genre: Action
 language: English
 date:
   added: '2019-03-01T18:26:04'
-  last_modified: '2019-03-01T18:26:04'
+  last_modified: '2024-04-01T13:54:07'
 type: zip
+tags:
+- KnownGood
+media: 360K
+commands:
+  play: GO.BAT
 references:
   dosid: DOS15296
   exodos: Circus Games (1988).zip
@@ -54,22 +60,26 @@ files:
   size: 32855
   date: '1988-11-21T18:29:40'
   crc: '0x1cdffbbc'
-- name: CIRCUS.RES
-  size: 162
-  date: '1999-02-26T22:55:52'
-  crc: '0x28b17528'
 - name: CIRCUS.SPC
   size: 2560
   date: '1988-10-04T08:52:26'
   crc: '0x369c136e'
+- name: CONFIG.COM
+  size: 64
+  date: '1980-01-01T00:12:24'
+  crc: '0x45cb7cdd'
 - name: D.SPC
   size: 5888
   date: '1988-08-20T14:00:08'
   crc: '0xfac07260'
 - name: GO.BAT
-  size: 29
-  date: '1988-12-06T17:36:44'
-  crc: '0x413d300b'
+  size: 82
+  date: '1980-01-01T01:04:36'
+  crc: '0xf98bf642'
+- name: GO.BA_
+  size: 81
+  date: '1980-01-01T01:04:36'
+  crc: '0x4649d94e'
 - name: K1.CPR
   size: 4039
   date: '1980-01-01T06:50:34'

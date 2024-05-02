@@ -1,4 +1,4 @@
-filename: 7th Guest, The (1993)(Virgin Games, Inc.) [bin-cue].zip
+filename: 7th Guest, The r930415 (1993)(Virgin Games, Inc.) [bin-cue].zip
 tdc_id: '7644.3'
 title:
   box: The 7th Guest
@@ -8,7 +8,8 @@ genre: bin-cue
 language: English
 date:
   added: '2023-02-18T19:35:29'
-  last_modified: '2023-02-18T19:35:29'
+  last_modified: '2024-03-21T08:11:00'
+release: '930415'
 type: bin-cue
 media: CD-ROM
 audio:
@@ -16,34 +17,31 @@ audio:
 references:
   mobygames: https://www.mobygames.com/game/dos/7th-guest
 files:
-- name: CD2\
-  size: 0
-  date: '2022-02-24T10:44:40'
-- name: CD2\Track 01.bin
-  size: 105863520
-  date: '2021-05-24T08:41:36'
-  crc: '0x0ff149a7'
-- name: CD2\Track 01.cue
-  size: 166
-  date: '2021-05-26T21:37:42'
-  crc: '0xa97dbdf3'
-- name: CD2\Track 02.bin
-  size: 299717712
-  date: '2021-05-24T09:06:46'
-  crc: '0xc9f6482b'
-- name: Track 01.bin
+- name: 7th Guest, The (USA) (Disc 1) (Track 1).bin
   size: 706639584
-  date: '2021-05-24T09:13:36'
+  date: '1996-12-24T23:32:00'
   crc: '0x821351e1'
-- name: Track 01.cue
-  size: 258
-  date: '2021-05-26T21:35:20'
-  crc: '0xed93ace2'
-- name: Track 02.bin
+- name: 7th Guest, The (USA) (Disc 1) (Track 2).bin
   size: 13058304
-  date: '2021-05-24T09:13:42'
+  date: '1996-12-24T23:32:00'
   crc: '0x87d192c7'
-- name: Track 03.bin
+- name: 7th Guest, The (USA) (Disc 1) (Track 3).bin
   size: 1237152
-  date: '2021-05-24T09:22:06'
+  date: '1996-12-24T23:32:00'
   crc: '0x9e6f065c'
+- name: 7th Guest, The (USA) (Disc 1).cue
+  size: 351
+  date: '1996-12-24T23:32:00'
+  crc: '0x69f4f03a'
+- name: 7th Guest, The (USA) (Disc 2) (Track 1).bin
+  size: 115196256
+  date: '1996-12-24T23:32:00'
+  crc: '0x8d0c2db3'
+- name: 7th Guest, The (USA) (Disc 2) (Track 2).bin
+  size: 290384976
+  date: '1996-12-24T23:32:00'
+  crc: '0x123dfbfa'
+- name: 7th Guest, The (USA) (Disc 2).cue
+  size: 228
+  date: '1996-12-24T23:32:00'
+  crc: '0xb0e0f9b3'

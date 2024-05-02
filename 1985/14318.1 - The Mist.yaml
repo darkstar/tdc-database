@@ -1,4 +1,4 @@
-filename: Mist, The [a1] (1985)(Mindscape, Inc.) [Adventure].zip
+filename: Mist, The r850919 (1985)(Mindscape, Inc.) [Adventure].zip
 tdc_id: '14318.1'
 title:
   box: The Mist
@@ -8,39 +8,41 @@ genre: Adventure
 language: English
 date:
   added: '2019-03-01T18:24:30'
-  last_modified: '2019-03-01T18:24:30'
+  last_modified: '2024-03-11T11:06:04'
+release: '850919'
 type: zip
-tags:
-- Alternate: 1
+commands:
+  play: GAME.COM
 references:
+  mobygames: https://www.mobygames.com/game/1130/the-mist/
   dosid: DOS03596
   exodos: Stephen King's - The Mist (1985).zip
 files:
-- name: Dplttl.com
+- name: DPLTTL.COM
   size: 12189
   date: '1985-09-19T08:44:20'
   crc: '0xd53f5f0a'
-- name: Game.000
+- name: GAME.000
   size: 67584
   date: '1985-09-17T09:16:28'
   crc: '0xcd93c9bf'
-- name: Game.com
+- name: GAME.COM
   size: 24552
   date: '1985-09-17T09:16:00'
   crc: '0xf5c31026'
-- name: Message
+- name: MESSAGE
   size: 46080
   date: '1985-09-18T14:33:22'
   crc: '0x623a7b15'
-- name: Mist.scr
+- name: MIST.SCR
   size: 16000
   date: '1985-09-19T08:32:16'
   crc: '0xb42f626d'
-- name: Tables
+- name: TABLES
   size: 5358
   date: '1985-09-18T14:14:10'
   crc: '0x465b337b'
-- name: Vocab
+- name: VOCAB
   size: 7150
   date: '1985-09-18T14:34:36'
   crc: '0x6d6ef3df'

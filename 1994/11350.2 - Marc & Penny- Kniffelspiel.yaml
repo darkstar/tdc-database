@@ -1,0 +1,33 @@
+filename: Marc & Penny- Kniffelspiel (Installer) (1994)(Volksbank) [Strategy, Puzzle].zip
+tdc_id: '11350.2'
+parent_id: '11350.1'
+title:
+  box: 'Marc & Penny: Kniffelspiel'
+  qualifier: Installer
+publisher: Volksbank
+year: '1994'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2024-03-11T15:03:05'
+  last_modified: '2024-03-11T15:03:05'
+type: zip
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 10160
+  date: '1994-11-02T19:30:04'
+  crc: '0xab925992'
+- name: M&P.SQZ
+  size: 241310
+  date: '1994-11-12T20:59:50'
+  crc: '0xeecb69d3'
+- name: SQZ.EXE
+  size: 71492
+  date: '1993-01-24T01:08:30'
+  crc: '0x66fd7b9b'

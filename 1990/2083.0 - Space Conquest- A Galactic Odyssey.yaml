@@ -1,8 +1,9 @@
-filename: Space Conquest- A Galactic Odyssey (Installer) (1990)(StarSoft Development Laboratories) [Action, Strategy].zip
+filename: Space Conquest- A Galactic Odyssey (Installer) [b1] (1990)(ComputerEasy, StarSoft Development Laboratories) [Action, Strategy].zip
 tdc_id: '2083.0'
 title:
   box: 'Space Conquest: A Galactic Odyssey'
-publisher: StarSoft Development Laboratories
+  qualifier: Installer
+publisher: ComputerEasy, StarSoft Development Laboratories
 year: '1990'
 genre:
 - Action
@@ -10,901 +11,906 @@ genre:
 language: English
 date:
   added: '2020-08-10T16:51:38'
-  last_modified: '2020-08-10T16:51:38'
+  last_modified: '2024-04-05T12:22:56'
 type: zip
+tags:
+- Bad: 1
 installer: true
+commands:
+  play: INSTALLH.EXE
 references:
+  mobygames: https://www.mobygames.com/game/7076/space-conquest-a-galactic-odyssey/
   dosid: DOS04690
   exodos: Space Conquest - A Galactic Odyssey (1990).zip
 files:
 - name: ESPACE.EXE
   size: 104219
-  date: '1990-05-28T14:43:52'
+  date: '1990-05-28T17:43:52'
   crc: '0xd567138a'
 - name: INSTALH.EXE
   size: 59968
-  date: '1990-05-28T21:20:44'
+  date: '1990-05-29T00:20:44'
   crc: '0xbd544a27'
-- name: PAK\
-  size: 0
-  date: '2009-06-03T22:58:20'
+- name: INSTALL.BAT
+  size: 143
+  date: '1990-08-02T10:30:52'
+  crc: '0xf1aad3c7'
 - name: PAK\ALPHA.CGA
   size: 1793
-  date: '1989-05-28T20:04:26'
+  date: '1989-05-28T23:04:26'
   crc: '0x397bd501'
 - name: PAK\ALPHA.EGA
   size: 4350
-  date: '1989-06-06T17:23:08'
+  date: '1989-06-06T20:23:08'
   crc: '0x395793cb'
 - name: PAK\ALPHA.VGA
   size: 4207
-  date: '1989-06-06T20:14:44'
+  date: '1989-06-06T23:14:44'
   crc: '0x511da910'
 - name: PAK\ANDROD.CGA
   size: 256
-  date: '1989-05-28T20:25:36'
+  date: '1989-05-28T23:25:36'
   crc: '0x29b9498e'
 - name: PAK\ANDROD.EGA
   size: 798
-  date: '1989-06-06T19:10:04'
+  date: '1989-06-06T22:10:04'
   crc: '0x16ca3240'
 - name: PAK\ANDROD.VGA
   size: 1572
-  date: '1989-06-11T15:36:04'
+  date: '1989-06-11T18:36:04'
   crc: '0x63aba732'
 - name: PAK\ANT.CGA
   size: 257
-  date: '1989-05-28T20:28:50'
+  date: '1989-05-28T23:28:50'
   crc: '0x8bcf88c5'
 - name: PAK\ANT.EGA
   size: 553
-  date: '1989-06-06T19:18:18'
+  date: '1989-06-06T22:18:18'
   crc: '0x95731331'
 - name: PAK\ANT.VGA
   size: 1420
-  date: '1989-06-11T15:43:58'
+  date: '1989-06-11T18:43:58'
   crc: '0x418f59ab'
 - name: PAK\ASKF
   size: 17
-  date: '1990-01-02T03:49:02'
+  date: '1990-01-02T06:49:02'
   crc: '0x291dbf2f'
 - name: PAK\ASSO.CGA
   size: 257
-  date: '1989-05-28T20:29:14'
+  date: '1989-05-28T23:29:14'
   crc: '0x2ba73764'
 - name: PAK\ASSO.EGA
   size: 946
-  date: '1989-06-06T19:18:36'
+  date: '1989-06-06T22:18:36'
   crc: '0xcee3f81e'
 - name: PAK\ASSO.VGA
   size: 1316
-  date: '1989-06-11T15:44:18'
+  date: '1989-06-11T18:44:18'
   crc: '0x9d2d9d51'
 - name: PAK\BELLU.CGA
   size: 246
-  date: '1989-05-28T20:28:38'
+  date: '1989-05-28T23:28:38'
   crc: '0x88bbbcc4'
 - name: PAK\BELLU.EGA
   size: 758
-  date: '1989-06-06T19:11:26'
+  date: '1989-06-06T22:11:26'
   crc: '0x54bda504'
 - name: PAK\BELLU.VGA
   size: 1405
-  date: '1989-06-11T15:43:40'
+  date: '1989-06-11T18:43:40'
   crc: '0x110b7f13'
 - name: PAK\BLACKHOL.CGA
   size: 6764
-  date: '1989-06-01T19:59:08'
+  date: '1989-06-01T22:59:08'
   crc: '0x01732dec'
 - name: PAK\BLACKHOL.EGA
   size: 4067
-  date: '1989-06-06T17:03:48'
+  date: '1989-06-06T20:03:48'
   crc: '0xbd3aad2e'
 - name: PAK\BLACKHOL.VGA
   size: 8312
-  date: '1989-06-06T19:53:38'
+  date: '1989-06-06T22:53:38'
   crc: '0x801a2dda'
 - name: PAK\BLANK.CGA
   size: 11489
-  date: '1989-07-07T17:51:42'
+  date: '1989-07-07T20:51:42'
   crc: '0xc63a7e72'
 - name: PAK\BLANK.EGA
   size: 5276
-  date: '1989-07-07T17:51:12'
+  date: '1989-07-07T20:51:12'
   crc: '0x844a4c26'
 - name: PAK\BLANK.VGA
   size: 1479
-  date: '1989-07-07T17:50:28'
+  date: '1989-07-07T20:50:28'
   crc: '0xcd5c3b3e'
 - name: PAK\COMEASY.CGA
   size: 1498
-  date: '1990-05-28T12:46:54'
+  date: '1990-05-28T15:46:54'
   crc: '0xae2dfcd7'
 - name: PAK\COMEASY.EGA
   size: 8305
-  date: '1990-05-28T12:47:26'
+  date: '1990-05-28T15:47:26'
   crc: '0x10268e9f'
 - name: PAK\COMEASY.VGA
   size: 30261
-  date: '1990-05-28T14:32:08'
+  date: '1990-05-28T17:32:08'
   crc: '0xb938aa6b'
 - name: PAK\DAMAGE.CGA
   size: 2505
-  date: '1989-05-28T20:05:12'
+  date: '1989-05-28T23:05:12'
   crc: '0x8309bb37'
 - name: PAK\DAMAGE.EGA
   size: 11967
-  date: '1989-06-06T17:24:58'
+  date: '1989-06-06T20:24:58'
   crc: '0xfbb1c4f2'
 - name: PAK\DAMAGE.VGA
   size: 6571
-  date: '1989-06-06T20:17:00'
+  date: '1989-06-06T23:17:00'
   crc: '0xf07e917e'
 - name: PAK\DEFEAT.CGA
   size: 12394
-  date: '1989-05-28T19:51:52'
+  date: '1989-05-28T22:51:52'
   crc: '0x3d1cf44f'
 - name: PAK\DEFEAT.EGA
   size: 25190
-  date: '1989-06-06T17:04:22'
+  date: '1989-06-06T20:04:22'
   crc: '0x786e4f8a'
 - name: PAK\DEFEAT.VGA
   size: 65042
-  date: '1989-06-17T21:07:12'
+  date: '1989-06-18T00:07:12'
   crc: '0xb9b4e764'
 - name: PAK\DESTROY.CGA
   size: 2750
-  date: '1989-05-28T19:52:10'
+  date: '1989-05-28T22:52:10'
   crc: '0xdc6b6411'
 - name: PAK\DESTROY.EGA
   size: 5930
-  date: '1989-06-06T17:05:10'
+  date: '1989-06-06T20:05:10'
   crc: '0x0f66c905'
 - name: PAK\DESTROY.VGA
   size: 65042
-  date: '1989-06-17T21:08:04'
+  date: '1989-06-18T00:08:04'
   crc: '0xdc6dc69d'
 - name: PAK\DESTROY2.CGA
   size: 6855
-  date: '1990-05-28T14:58:18'
+  date: '1990-05-28T17:58:18'
   crc: '0x604ba12a'
 - name: PAK\DESTROY2.EGA
   size: 7178
-  date: '1990-05-27T20:27:24'
+  date: '1990-05-27T23:27:24'
   crc: '0x7f8388ef'
 - name: PAK\DESTROY2.VGA
   size: 6704
-  date: '1990-05-27T20:33:54'
+  date: '1990-05-27T23:33:54'
   crc: '0x11a3612d'
 - name: PAK\DESTRUCT.CGA
   size: 6659
-  date: '1989-06-06T17:28:24'
+  date: '1989-06-06T20:28:24'
   crc: '0xffb97bbd'
 - name: PAK\DESTRUCT.EGA
   size: 3828
-  date: '1989-06-06T17:27:08'
+  date: '1989-06-06T20:27:08'
   crc: '0x1f6780cb'
 - name: PAK\DESTRUCT.VGA
   size: 4312
-  date: '1989-06-06T20:17:50'
+  date: '1989-06-06T23:17:50'
   crc: '0xc1f1284e'
 - name: PAK\DOCK1.CGA
   size: 31100
-  date: '1990-02-03T11:15:40'
+  date: '1990-02-03T14:15:40'
   crc: '0x99bdbedf'
 - name: PAK\DOCK1.EGA
   size: 27432
-  date: '1990-02-03T11:13:18'
+  date: '1990-02-03T14:13:18'
   crc: '0xab57a455'
 - name: PAK\DOCK1.VGA
   size: 13384
-  date: '1990-01-22T19:09:34'
+  date: '1990-01-22T22:09:34'
   crc: '0x4c294050'
 - name: PAK\EMUL.CGA
   size: 266
-  date: '1989-05-28T20:27:08'
+  date: '1989-05-28T23:27:08'
   crc: '0x4bce78fe'
 - name: PAK\EMUL.EGA
   size: 960
-  date: '1989-06-06T19:10:42'
+  date: '1989-06-06T22:10:42'
   crc: '0xe7ddd9c2'
 - name: PAK\EMUL.VGA
   size: 1623
-  date: '1989-06-11T15:36:26'
+  date: '1989-06-11T18:36:26'
   crc: '0x65b9cadb'
 - name: PAK\EXPLODE.CGA
   size: 161
-  date: '1989-05-31T18:08:10'
+  date: '1989-05-31T21:08:10'
   crc: '0x2ce93ccc'
 - name: PAK\EXPLODE.EGA
   size: 521
-  date: '1989-06-06T18:05:36'
+  date: '1989-06-06T21:05:36'
   crc: '0xce0c94cf'
 - name: PAK\EXPLODE.VGA
   size: 1150
-  date: '1989-06-17T20:57:32'
+  date: '1989-06-17T23:57:32'
   crc: '0xc4c06b6d'
 - name: PAK\FMANCER.CGA
   size: 368
-  date: '1989-05-28T20:17:02'
+  date: '1989-05-28T23:17:02'
   crc: '0xc548c8aa'
 - name: PAK\FMANCER.EGA
   size: 1241
-  date: '1989-06-06T19:48:58'
+  date: '1989-06-06T22:48:58'
   crc: '0x9e6f7e50'
 - name: PAK\FMANCER.VGA
   size: 1633
-  date: '1989-06-11T16:01:00'
+  date: '1989-06-11T19:01:00'
   crc: '0xe8138330'
 - name: PAK\FSHIP1.CGA
   size: 95
-  date: '1989-05-28T20:22:58'
+  date: '1989-05-28T23:22:58'
   crc: '0xf46fbcff'
 - name: PAK\FSHIP1.EGA
   size: 427
-  date: '1989-06-06T18:03:26'
+  date: '1989-06-06T21:03:26'
   crc: '0xf34b57d0'
 - name: PAK\FSHIP1.VGA
   size: 958
-  date: '1989-06-11T15:59:36'
+  date: '1989-06-11T18:59:36'
   crc: '0x400a8cd3'
 - name: PAK\FSHIP2.CGA
   size: 128
-  date: '1989-05-28T20:23:18'
+  date: '1989-05-28T23:23:18'
   crc: '0x207ef70a'
 - name: PAK\FSHIP2.EGA
   size: 430
-  date: '1989-06-06T18:03:56'
+  date: '1989-06-06T21:03:56'
   crc: '0xc81777bc'
 - name: PAK\FSHIP2.VGA
   size: 890
-  date: '1989-06-11T15:59:54'
+  date: '1989-06-11T18:59:54'
   crc: '0x66170443'
 - name: PAK\FSHIP3.CGA
   size: 76
-  date: '1989-05-28T20:23:58'
+  date: '1989-05-28T23:23:58'
   crc: '0xa923c5f9'
 - name: PAK\FSHIP3.EGA
   size: 379
-  date: '1989-06-06T18:04:30'
+  date: '1989-06-06T21:04:30'
   crc: '0xe432857a'
 - name: PAK\FSHIP3.VGA
   size: 861
-  date: '1989-06-11T16:00:22'
+  date: '1989-06-11T19:00:22'
   crc: '0x4ad69cb1'
 - name: PAK\GRID1.CGA
   size: 173
-  date: '1989-05-28T20:15:32'
+  date: '1989-05-28T23:15:32'
   crc: '0xe8381e28'
 - name: PAK\GRID1.EGA
   size: 659
-  date: '1989-06-06T17:42:30'
+  date: '1989-06-06T20:42:30'
   crc: '0x6422f663'
 - name: PAK\GRID1.VGA
   size: 1216
-  date: '1989-07-09T19:54:20'
+  date: '1989-07-09T22:54:20'
   crc: '0x441427f9'
 - name: PAK\GRID10.CGA
   size: 171
-  date: '1989-05-28T20:17:50'
+  date: '1989-05-28T23:17:50'
   crc: '0xa5c749d8'
 - name: PAK\GRID10.EGA
   size: 659
-  date: '1989-06-06T17:46:16'
+  date: '1989-06-06T20:46:16'
   crc: '0xc637500b'
 - name: PAK\GRID10.VGA
   size: 1092
-  date: '1989-11-29T18:43:10'
+  date: '1989-11-29T21:43:10'
   crc: '0x45464b67'
 - name: PAK\GRID2.CGA
   size: 145
-  date: '1989-05-28T20:12:06'
+  date: '1989-05-28T23:12:06'
   crc: '0x2e0d114d'
 - name: PAK\GRID2.EGA
   size: 632
-  date: '1989-06-06T17:42:46'
+  date: '1989-06-06T20:42:46'
   crc: '0xc40eb9a9'
 - name: PAK\GRID2.VGA
   size: 982
-  date: '1989-07-09T19:54:38'
+  date: '1989-07-09T22:54:38'
   crc: '0x7e11bb4a'
 - name: PAK\GRID3.CGA
   size: 169
-  date: '1989-05-28T20:13:48'
+  date: '1989-05-28T23:13:48'
   crc: '0x6d728430'
 - name: PAK\GRID3.EGA
   size: 659
-  date: '1989-06-06T17:43:10'
+  date: '1989-06-06T20:43:10'
   crc: '0x3d4c7978'
 - name: PAK\GRID3.VGA
   size: 1216
-  date: '1989-12-03T14:06:56'
+  date: '1989-12-03T17:06:56'
   crc: '0xe67e00af'
 - name: PAK\GRID4.CGA
   size: 165
-  date: '1989-05-28T20:13:30'
+  date: '1989-05-28T23:13:30'
   crc: '0x3532ecc2'
 - name: PAK\GRID4.EGA
   size: 632
-  date: '1989-06-06T17:43:24'
+  date: '1989-06-06T20:43:24'
   crc: '0xb9213afd'
 - name: PAK\GRID4.VGA
   size: 1093
-  date: '1989-07-09T19:55:20'
+  date: '1989-07-09T22:55:20'
   crc: '0xf48e5c4c'
 - name: PAK\GRID5.CGA
   size: 171
-  date: '1989-05-28T20:14:06'
+  date: '1989-05-28T23:14:06'
   crc: '0x6047138a'
 - name: PAK\GRID5.EGA
   size: 659
-  date: '1989-06-06T17:43:44'
+  date: '1989-06-06T20:43:44'
   crc: '0x838b9d08'
 - name: PAK\GRID5.VGA
   size: 1103
-  date: '1989-07-09T19:55:38'
+  date: '1989-07-09T22:55:38'
   crc: '0x431bb549'
 - name: PAK\GRID6.CGA
   size: 173
-  date: '1989-05-28T20:14:22'
+  date: '1989-05-28T23:14:22'
   crc: '0x832a4534'
 - name: PAK\GRID6.EGA
   size: 632
-  date: '1989-06-06T17:44:22'
+  date: '1989-06-06T20:44:22'
   crc: '0x136995fa'
 - name: PAK\GRID6.VGA
   size: 1177
-  date: '1989-07-09T19:56:02'
+  date: '1989-07-09T22:56:02'
   crc: '0x78c9cfc8'
 - name: PAK\GRID7.CGA
   size: 178
-  date: '1989-05-28T20:15:20'
+  date: '1989-05-28T23:15:20'
   crc: '0x2e0dd5dd'
 - name: PAK\GRID7.EGA
   size: 659
-  date: '1989-06-06T17:44:46'
+  date: '1989-06-06T20:44:46'
   crc: '0x5fd32127'
 - name: PAK\GRID7.VGA
   size: 1218
-  date: '1989-07-09T19:56:18'
+  date: '1989-07-09T22:56:18'
   crc: '0xadd73f07'
 - name: PAK\GRID8.CGA
   size: 170
-  date: '1989-05-28T20:11:52'
+  date: '1989-05-28T23:11:52'
   crc: '0xf2d050bf'
 - name: PAK\GRID8.EGA
   size: 632
-  date: '1989-06-06T17:45:08'
+  date: '1989-06-06T20:45:08'
   crc: '0x221f7163'
 - name: PAK\GRID8.VGA
   size: 1218
-  date: '1989-07-09T19:56:40'
+  date: '1989-07-09T22:56:40'
   crc: '0xf24d79a5'
 - name: PAK\GRID9.CGA
   size: 165
-  date: '1989-05-28T20:17:34'
+  date: '1989-05-28T23:17:34'
   crc: '0x959401da'
 - name: PAK\GRID9.EGA
   size: 632
-  date: '1989-06-06T17:45:54'
+  date: '1989-06-06T20:45:54'
   crc: '0x2a0b1a82'
 - name: PAK\GRID9.VGA
   size: 1022
-  date: '1989-07-09T19:57:04'
+  date: '1989-07-09T22:57:04'
   crc: '0x6a8b8624'
 - name: PAK\HSCORE
   size: 512
-  date: '1989-12-18T16:19:52'
+  date: '1989-12-18T19:19:52'
   crc: '0x88088be4'
 - name: PAK\INPUTF
   size: 186
-  date: '1990-01-02T03:49:02'
+  date: '1990-01-02T06:49:02'
   crc: '0x915ff470'
 - name: PAK\INTRO.CGA
   size: 5464
-  date: '1990-03-19T18:22:10'
+  date: '1990-03-19T21:22:10'
   crc: '0xe287172e'
 - name: PAK\INTRO.EGA
   size: 13058
-  date: '1990-03-19T18:25:30'
+  date: '1990-03-19T21:25:30'
   crc: '0xd796aeff'
 - name: PAK\INTRO.VGA
   size: 16186
-  date: '1990-03-19T18:28:04'
+  date: '1990-03-19T21:28:04'
   crc: '0x88ec76a4'
 - name: PAK\LAND1.CGA
   size: 1260
-  date: '1989-05-28T19:56:10'
+  date: '1989-05-28T22:56:10'
   crc: '0xab8a4267'
 - name: PAK\LAND1.EGA
   size: 2330
-  date: '1989-06-06T17:08:42'
+  date: '1989-06-06T20:08:42'
   crc: '0xe37b27c6'
 - name: PAK\LAND1.VGA
   size: 4025
-  date: '1989-06-06T20:04:36'
+  date: '1989-06-06T23:04:36'
   crc: '0xb808c83b'
 - name: PAK\LAND2.CGA
   size: 1257
-  date: '1989-05-28T19:56:52'
+  date: '1989-05-28T22:56:52'
   crc: '0xc775ab0b'
 - name: PAK\LAND2.EGA
   size: 2496
-  date: '1989-06-06T17:09:00'
+  date: '1989-06-06T20:09:00'
   crc: '0x36cbbe35'
 - name: PAK\LAND2.VGA
   size: 3481
-  date: '1989-06-06T20:04:56'
+  date: '1989-06-06T23:04:56'
   crc: '0xa448c0ba'
 - name: PAK\LAND3.CGA
   size: 947
-  date: '1989-05-28T19:58:38'
+  date: '1989-05-28T22:58:38'
   crc: '0xff7ab6c7'
 - name: PAK\LAND3.EGA
   size: 3089
-  date: '1989-06-06T17:12:10'
+  date: '1989-06-06T20:12:10'
   crc: '0xdfeddbc8'
 - name: PAK\LAND3.VGA
   size: 3117
-  date: '1989-06-06T20:07:08'
+  date: '1989-06-06T23:07:08'
   crc: '0xd9ce569c'
 - name: PAK\LAND4.CGA
   size: 1032
-  date: '1989-05-28T19:58:56'
+  date: '1989-05-28T22:58:56'
   crc: '0x8b24798c'
 - name: PAK\LAND4.EGA
   size: 3340
-  date: '1989-06-06T17:12:30'
+  date: '1989-06-06T20:12:30'
   crc: '0xcec854ba'
 - name: PAK\LAND4.VGA
   size: 2813
-  date: '1989-06-06T20:07:30'
+  date: '1989-06-06T23:07:30'
   crc: '0x917cd4b8'
 - name: PAK\LAND5.CGA
   size: 590
-  date: '1989-05-28T19:59:16'
+  date: '1989-05-28T22:59:16'
   crc: '0xb0ae689e'
 - name: PAK\LAND5.EGA
   size: 2490
-  date: '1989-06-06T17:12:56'
+  date: '1989-06-06T20:12:56'
   crc: '0x42cf44cd'
 - name: PAK\LAND5.VGA
   size: 3619
-  date: '1989-06-06T20:08:10'
+  date: '1989-06-06T23:08:10'
   crc: '0x27d7b513'
 - name: PAK\LAND6.CGA
   size: 1412
-  date: '1989-05-28T19:59:50'
+  date: '1989-05-28T22:59:50'
   crc: '0x916c7fe0'
 - name: PAK\LAND6.EGA
   size: 3504
-  date: '1989-06-06T17:13:28'
+  date: '1989-06-06T20:13:28'
   crc: '0x9519b7b9'
 - name: PAK\LAND6.VGA
   size: 5396
-  date: '1989-06-06T20:08:28'
+  date: '1989-06-06T23:08:28'
   crc: '0x5d07b2db'
 - name: PAK\LAND7.CGA
   size: 646
-  date: '1989-05-28T20:00:08'
+  date: '1989-05-28T23:00:08'
   crc: '0xf982b0f9'
 - name: PAK\LAND7.EGA
   size: 2450
-  date: '1989-06-06T17:13:48'
+  date: '1989-06-06T20:13:48'
   crc: '0x57dea820'
 - name: PAK\LAND7.VGA
   size: 1310
-  date: '1989-06-06T20:08:42'
+  date: '1989-06-06T23:08:42'
   crc: '0xefc93b18'
 - name: PAK\LAND8.CGA
   size: 901
-  date: '1989-05-28T20:01:34'
+  date: '1989-05-28T23:01:34'
   crc: '0xb1fec6a9'
 - name: PAK\LAND8.EGA
   size: 5249
-  date: '1989-06-06T17:15:50'
+  date: '1989-06-06T20:15:50'
   crc: '0x772f19d7'
 - name: PAK\LAND8.VGA
   size: 2592
-  date: '1989-06-06T20:11:08'
+  date: '1989-06-06T23:11:08'
   crc: '0x260fd095'
 - name: PAK\LAND9.CGA
   size: 654
-  date: '1989-05-28T20:01:46'
+  date: '1989-05-28T23:01:46'
   crc: '0x8e52d1c2'
 - name: PAK\LAND9.EGA
   size: 4919
-  date: '1989-06-06T17:16:04'
+  date: '1989-06-06T20:16:04'
   crc: '0x337bd8db'
 - name: PAK\LAND9.VGA
   size: 2275
-  date: '1989-06-06T20:11:28'
+  date: '1989-06-06T23:11:28'
   crc: '0xd13e6af2'
 - name: PAK\LANDING.CGA
   size: 1145
-  date: '1989-05-28T19:57:28'
+  date: '1989-05-28T22:57:28'
   crc: '0xb3182b4b'
 - name: PAK\LANDING.EGA
   size: 6173
-  date: '1989-06-06T17:11:46'
+  date: '1989-06-06T20:11:46'
   crc: '0xefae7f13'
 - name: PAK\LANDING.VGA
   size: 9914
-  date: '1989-06-06T20:06:12'
+  date: '1989-06-06T23:06:12'
   crc: '0x24e9d1d7'
 - name: PAK\LOGO2.CGA
   size: 12083
-  date: '1989-07-08T22:22:44'
+  date: '1989-07-09T01:22:44'
   crc: '0xb8bc8a0c'
 - name: PAK\LOGO2.EGA
   size: 11859
-  date: '1989-07-08T22:21:44'
+  date: '1989-07-09T01:21:44'
   crc: '0x9f5733e3'
 - name: PAK\LOGO2.VGA
   size: 17601
-  date: '1989-07-08T22:21:06'
+  date: '1989-07-09T01:21:06'
   crc: '0x5946cc20'
 - name: PAK\LOGOHAR.CGA
   size: 6794
-  date: '1989-05-28T20:00:48'
+  date: '1989-05-28T23:00:48'
   crc: '0x66795902'
 - name: PAK\LOGOHAR.EGA
   size: 12706
-  date: '1989-06-06T17:14:20'
+  date: '1989-06-06T20:14:20'
   crc: '0x52820220'
 - name: PAK\LOGOHAR.VGA
   size: 26817
-  date: '1989-06-06T20:09:24'
+  date: '1989-06-06T23:09:24'
   crc: '0xf5c36ab5'
 - name: PAK\MAIN.CGA
   size: 3322
-  date: '1990-02-03T12:15:08'
+  date: '1990-02-03T15:15:08'
   crc: '0x259e3459'
 - name: PAK\MAIN.EGA
   size: 9281
-  date: '1990-02-03T12:16:32'
+  date: '1990-02-03T15:16:32'
   crc: '0x6f9fe627'
 - name: PAK\MAIN.VGA
   size: 8421
-  date: '1989-12-02T15:57:38'
+  date: '1989-12-02T18:57:38'
   crc: '0xdf1f22e6'
 - name: PAK\MANCE.CGA
   size: 260
-  date: '1989-05-28T20:29:30'
+  date: '1989-05-28T23:29:30'
   crc: '0x5d972243'
 - name: PAK\MANCE.EGA
   size: 1040
-  date: '1989-06-06T19:18:52'
+  date: '1989-06-06T22:18:52'
   crc: '0x158bf1bd'
 - name: PAK\MANCE.VGA
   size: 1323
-  date: '1989-06-11T15:48:54'
+  date: '1989-06-11T18:48:54'
   crc: '0x44ed676c'
 - name: PAK\MANCER.CGA
   size: 1013
-  date: '1989-05-28T20:02:04'
+  date: '1989-05-28T23:02:04'
   crc: '0xdd41fa51'
 - name: PAK\MANCER.EGA
   size: 3208
-  date: '1989-06-06T17:15:08'
+  date: '1989-06-06T20:15:08'
   crc: '0x866a7d4f'
 - name: PAK\MANCER.VGA
   size: 3021
-  date: '1989-12-16T15:02:34'
+  date: '1989-12-16T18:02:34'
   crc: '0x8eab3b9a'
 - name: PAK\MANCER2.CGA
   size: 1391
-  date: '1989-05-28T20:02:40'
+  date: '1989-05-28T23:02:40'
   crc: '0xd7fc4c71'
 - name: PAK\MANCER2.EGA
   size: 8207
-  date: '1989-06-06T19:27:16'
+  date: '1989-06-06T22:27:16'
   crc: '0xcb9c208c'
 - name: PAK\MANCER2.VGA
   size: 5025
-  date: '1989-12-16T15:15:54'
+  date: '1989-12-16T18:15:54'
   crc: '0x3d1994dd'
 - name: PAK\MANCER3.CGA
   size: 1408
-  date: '1989-05-28T20:03:14'
+  date: '1989-05-28T23:03:14'
   crc: '0x94009395'
 - name: PAK\MANCER3.EGA
   size: 5177
-  date: '1989-06-06T19:28:02'
+  date: '1989-06-06T22:28:02'
   crc: '0x86380ab8'
 - name: PAK\MANCER3.VGA
   size: 4947
-  date: '1989-12-16T15:21:26'
+  date: '1989-12-16T18:21:26'
   crc: '0x1853940d'
 - name: PAK\MANCER4.CGA
   size: 1632
-  date: '1989-05-28T20:03:44'
+  date: '1989-05-28T23:03:44'
   crc: '0xf8e4e2db'
 - name: PAK\MANCER4.EGA
   size: 6461
-  date: '1989-06-06T19:26:30'
+  date: '1989-06-06T22:26:30'
   crc: '0xd6aa0902'
 - name: PAK\MANCER4.VGA
   size: 4014
-  date: '1989-12-16T16:01:40'
+  date: '1989-12-16T19:01:40'
   crc: '0xc430ac3b'
 - name: PAK\MENU.CGA
   size: 1546
-  date: '1989-05-28T20:04:48'
+  date: '1989-05-28T23:04:48'
   crc: '0x423af5fb'
 - name: PAK\MENU.EGA
   size: 5885
-  date: '1989-06-06T17:23:46'
+  date: '1989-06-06T20:23:46'
   crc: '0x436bb8e7'
 - name: PAK\MENU.VGA
   size: 4063
-  date: '1989-06-06T20:16:32'
+  date: '1989-06-06T23:16:32'
   crc: '0xafac2ff3'
 - name: PAK\MESSAGES.DAT
   size: 2777
-  date: '1989-07-08T23:06:06'
+  date: '1989-07-09T02:06:06'
   crc: '0xe3eca6f7'
 - name: PAK\MISSLE.CGA
   size: 84
-  date: '1989-05-28T20:21:20'
+  date: '1989-05-28T23:21:20'
   crc: '0x15e21daf'
 - name: PAK\MISSLE.EGA
   size: 205
-  date: '1989-06-06T18:06:04'
+  date: '1989-06-06T21:06:04'
   crc: '0x31d12c37'
 - name: PAK\MISSLE.VGA
   size: 899
-  date: '1989-06-17T20:58:04'
+  date: '1989-06-17T23:58:04'
   crc: '0xc6559d71'
 - name: PAK\OPEN1.CGA
   size: 6292
-  date: '1989-05-28T20:08:26'
+  date: '1989-05-28T23:08:26'
   crc: '0xa5b9e8af'
 - name: PAK\OPEN1.EGA
   size: 22423
-  date: '1989-06-06T17:30:26'
+  date: '1989-06-06T20:30:26'
   crc: '0x82bad691'
 - name: PAK\OPEN1.VGA
   size: 15945
-  date: '1989-06-06T20:18:44'
+  date: '1989-06-06T23:18:44'
   crc: '0xc70f620a'
 - name: PAK\OPEN2.CGA
   size: 6186
-  date: '1989-05-28T20:09:00'
+  date: '1989-05-28T23:09:00'
   crc: '0x8714b1f9'
 - name: PAK\OPEN2.EGA
   size: 30078
-  date: '1989-06-06T17:31:06'
+  date: '1989-06-06T20:31:06'
   crc: '0x11cc080c'
 - name: PAK\OPEN2.VGA
   size: 15413
-  date: '1989-06-06T20:20:50'
+  date: '1989-06-06T23:20:50'
   crc: '0x4fc8dda4'
 - name: PAK\OPEN3.CGA
   size: 6039
-  date: '1989-05-28T20:09:38'
+  date: '1989-05-28T23:09:38'
   crc: '0xc03c4110'
 - name: PAK\OPEN3.EGA
   size: 20233
-  date: '1989-06-06T17:36:46'
+  date: '1989-06-06T20:36:46'
   crc: '0xd638eb4a'
 - name: PAK\OPEN3.VGA
   size: 13223
-  date: '1989-06-06T20:21:46'
+  date: '1989-06-06T23:21:46'
   crc: '0x296189fc'
 - name: PAK\PAL2.VGA
   size: 12416
-  date: '1989-12-02T14:21:58'
+  date: '1989-12-02T17:21:58'
   crc: '0xaa0143a2'
 - name: PAK\PLANET.CGA
   size: 8632
-  date: '1989-07-08T21:34:58'
+  date: '1989-07-09T00:34:58'
   crc: '0xe8e2c6f1'
 - name: PAK\PLANET.EGA
   size: 11945
-  date: '1989-07-08T21:36:00'
+  date: '1989-07-09T00:36:00'
   crc: '0x3c0bcc4a'
 - name: PAK\PLANET.VGA
   size: 1495
-  date: '1989-07-08T21:38:34'
+  date: '1989-07-09T00:38:34'
   crc: '0xbb3bfd5e'
 - name: PAK\PUNY.86
   size: 1536
-  date: '1989-12-19T19:20:40'
+  date: '1989-12-19T22:20:40'
   crc: '0x47fb670b'
 - name: PAK\RETINA.CGA
   size: 6551
-  date: '1989-06-06T17:28:04'
+  date: '1989-06-06T20:28:04'
   crc: '0x0f1880fd'
 - name: PAK\RETINA.EGA
   size: 4085
-  date: '1989-06-06T17:26:50'
+  date: '1989-06-06T20:26:50'
   crc: '0xd3803997'
 - name: PAK\RETINA.VGA
   size: 3652
-  date: '1989-11-29T19:06:10'
+  date: '1989-11-29T22:06:10'
   crc: '0xfb5337bb'
 - name: PAK\SCOUT5.CGA
   size: 9204
-  date: '1989-05-28T20:10:50'
+  date: '1989-05-28T23:10:50'
   crc: '0x0f0fa02f'
 - name: PAK\SCOUT5.EGA
   size: 19671
-  date: '1989-06-06T17:37:30'
+  date: '1989-06-06T20:37:30'
   crc: '0x3b7a1a00'
 - name: PAK\SCOUT5.VGA
   size: 26816
-  date: '1989-06-06T20:23:46'
+  date: '1989-06-06T23:23:46'
   crc: '0x8f059f8c'
 - name: PAK\SHUT1.CGA
   size: 190
-  date: '1989-06-01T19:41:58'
+  date: '1989-06-01T22:41:58'
   crc: '0x035c1c33'
 - name: PAK\SHUT1.EGA
   size: 694
-  date: '1989-06-06T19:40:12'
+  date: '1989-06-06T22:40:12'
   crc: '0x2d71d24c'
 - name: PAK\SHUT1.VGA
   size: 1144
-  date: '1989-06-11T16:09:12'
+  date: '1989-06-11T19:09:12'
   crc: '0x3f6a5441'
 - name: PAK\SHUT2.CGA
   size: 185
-  date: '1989-06-01T19:42:18'
+  date: '1989-06-01T22:42:18'
   crc: '0x4a7d1c16'
 - name: PAK\SHUT2.EGA
   size: 482
-  date: '1989-06-06T19:40:26'
+  date: '1989-06-06T22:40:26'
   crc: '0x5015c4ef'
 - name: PAK\SHUT2.VGA
   size: 1094
-  date: '1989-06-11T16:09:34'
+  date: '1989-06-11T19:09:34'
   crc: '0x525a7530'
 - name: PAK\SHUT3.CGA
   size: 177
-  date: '1989-06-01T19:42:34'
+  date: '1989-06-01T22:42:34'
   crc: '0x194a1c47'
 - name: PAK\SHUT3.EGA
   size: 458
-  date: '1989-06-06T19:40:42'
+  date: '1989-06-06T22:40:42'
   crc: '0xfddab99c'
 - name: PAK\SHUT3.VGA
   size: 1036
-  date: '1989-06-11T16:09:48'
+  date: '1989-06-11T19:09:48'
   crc: '0xdcf9b304'
 - name: PAK\SHUT4.CGA
   size: 170
-  date: '1989-06-01T19:42:48'
+  date: '1989-06-01T22:42:48'
   crc: '0x79e4de65'
 - name: PAK\SHUT4.EGA
   size: 432
-  date: '1989-06-06T19:41:20'
+  date: '1989-06-06T22:41:20'
   crc: '0x333dc12b'
 - name: PAK\SHUT4.VGA
   size: 1001
-  date: '1989-06-11T16:10:06'
+  date: '1989-06-11T19:10:06'
   crc: '0xad6dcad4'
 - name: PAK\SHUT5.CGA
   size: 162
-  date: '1989-06-01T19:43:14'
+  date: '1989-06-01T22:43:14'
   crc: '0x4a629f01'
 - name: PAK\SHUT5.EGA
   size: 407
-  date: '1989-06-06T19:41:44'
+  date: '1989-06-06T22:41:44'
   crc: '0x32e12413'
 - name: PAK\SHUT5.VGA
   size: 973
-  date: '1989-06-11T16:10:24'
+  date: '1989-06-11T19:10:24'
   crc: '0x6f2ae32d'
 - name: PAK\SHUT6.CGA
   size: 154
-  date: '1989-06-01T19:43:30'
+  date: '1989-06-01T22:43:30'
   crc: '0x8b160b0b'
 - name: PAK\SHUT6.EGA
   size: 393
-  date: '1989-06-06T19:42:00'
+  date: '1989-06-06T22:42:00'
   crc: '0x1bae60d5'
 - name: PAK\SHUT6.VGA
   size: 933
-  date: '1989-06-11T16:10:58'
+  date: '1989-06-11T19:10:58'
   crc: '0x11b6ce76'
 - name: PAK\SHUT7.CGA
   size: 142
-  date: '1989-06-01T19:43:46'
+  date: '1989-06-01T22:43:46'
   crc: '0xfc3b1fa4'
 - name: PAK\SHUT7.EGA
   size: 340
-  date: '1989-06-06T19:42:20'
+  date: '1989-06-06T22:42:20'
   crc: '0xf4037fa3'
 - name: PAK\SHUT7.VGA
   size: 886
-  date: '1989-06-11T16:11:12'
+  date: '1989-06-11T19:11:12'
   crc: '0x6ae72cb6'
 - name: PAK\SPACE.SET
-  size: 14
-  date: '2009-06-03T22:58:44'
-  crc: '0xeb6cabcb'
+  size: 0
+  date: '1990-05-28T23:56:22'
 - name: PAK\STATION.CGA
   size: 7484
-  date: '1989-07-08T21:48:10'
+  date: '1989-07-09T00:48:10'
   crc: '0xce10b74e'
 - name: PAK\STATION.EGA
   size: 10847
-  date: '1989-07-08T21:47:14'
+  date: '1989-07-09T00:47:14'
   crc: '0x274160d5'
 - name: PAK\STATION.VGA
   size: 2988
-  date: '1989-07-08T21:46:12'
+  date: '1989-07-09T00:46:12'
   crc: '0xa29b1ea6'
 - name: PAK\TENTA.CGA
   size: 254
-  date: '1989-05-28T20:28:14'
+  date: '1989-05-28T23:28:14'
   crc: '0x31e7aaa5'
 - name: PAK\TENTA.EGA
   size: 1019
-  date: '1989-06-06T19:11:08'
+  date: '1989-06-06T22:11:08'
   crc: '0x41d6b673'
 - name: PAK\TENTA.VGA
   size: 1396
-  date: '1989-06-11T15:37:00'
+  date: '1989-06-11T18:37:00'
   crc: '0x03a859fc'
 - name: PAK\TINY.86
   size: 1536
-  date: '1989-12-18T16:40:00'
+  date: '1989-12-18T19:40:00'
   crc: '0xb1acf028'
 - name: PAK\VICTORY.CGA
   size: 6318
-  date: '1989-05-28T20:31:16'
+  date: '1989-05-28T23:31:16'
   crc: '0x016b9053'
 - name: PAK\VICTORY.EGA
   size: 29584
-  date: '1989-06-06T19:25:00'
+  date: '1989-06-06T22:25:00'
   crc: '0x5a35b7fe'
 - name: PAK\VICTORY.VGA
   size: 20537
-  date: '1989-06-11T16:03:34'
+  date: '1989-06-11T19:03:34'
   crc: '0x05ed5cd5'
 - name: PAK\WINNERS.CGA
   size: 7806
-  date: '1989-05-28T20:32:24'
+  date: '1989-05-28T23:32:24'
   crc: '0xd157ace0'
 - name: PAK\WINNERS.EGA
   size: 16626
-  date: '1989-06-06T19:25:46'
+  date: '1989-06-06T22:25:46'
   crc: '0x5047a42d'
 - name: PAK\WINNERS.VGA
   size: 16608
-  date: '1989-12-18T15:45:36'
+  date: '1989-12-18T18:45:36'
   crc: '0x8ac462ef'
 - name: SC1
   size: 3
-  date: '1990-05-28T15:24:12'
+  date: '1990-05-28T18:24:12'
   crc: '0xb6f83745'
 - name: SC2
   size: 3
-  date: '1990-05-28T15:24:44'
+  date: '1990-05-28T18:24:44'
   crc: '0x2ff166ff'
 - name: SC3
   size: 3
-  date: '1990-05-28T15:25:04'
+  date: '1990-05-28T18:25:04'
   crc: '0x58f65669'
 - name: SC4
   size: 3
-  date: '1990-05-28T15:25:22'
+  date: '1990-05-28T18:25:22'
   crc: '0xc692c3ca'
 - name: SC5
   size: 3
-  date: '1990-05-28T15:25:48'
+  date: '1990-05-28T18:25:48'
   crc: '0xb195f35c'
 - name: SPACE.BAT
   size: 218
-  date: '1990-02-03T13:57:32'
+  date: '1990-02-03T16:57:32'
   crc: '0x8e95972f'
 - name: SPACEC.COM
   size: 14096
-  date: '1990-05-28T14:51:54'
+  date: '1990-05-28T17:51:54'
   crc: '0xf021e848'
 - name: VSPACE.EXE
   size: 110283
-  date: '1990-05-28T14:44:24'
+  date: '1990-05-28T17:44:24'
   crc: '0xb978ba45'

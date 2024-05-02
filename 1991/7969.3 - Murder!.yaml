@@ -1,0 +1,65 @@
+filename: Murder! (Es) (1991)(U.S. Gold Ltd.) [Adventure].zip
+tdc_id: '7969.3'
+title:
+  box: Murder!
+publisher: U.S. Gold Ltd.
+year: '1991'
+genre: Adventure
+language: Spanish
+date:
+  added: '2024-04-01T09:49:58'
+  last_modified: '2024-04-01T09:49:58'
+type: zip
+commands:
+  play: MURDER.EXE
+references:
+  mobygames: https://www.mobygames.com/game/10585/murder/
+files:
+- name: BITS
+  size: 40872
+  date: '1990-01-01T00:00:00'
+  crc: '0xd8937286'
+- name: CREDITS
+  size: 9700
+  date: '1990-01-01T00:00:00'
+  crc: '0x64d7fe0b'
+- name: FACOBJ
+  size: 20464
+  date: '1990-01-01T00:00:00'
+  crc: '0xf49c91a4'
+- name: FONTS
+  size: 4320
+  date: '1990-01-01T00:00:00'
+  crc: '0x4ec4f36d'
+- name: FURN
+  size: 52780
+  date: '1990-01-01T00:00:00'
+  crc: '0x01416868'
+- name: MANSION
+  size: 20588
+  date: '1990-01-01T00:00:00'
+  crc: '0x7220c8f2'
+- name: MURDER.EXE
+  size: 38591
+  date: '1990-01-01T00:00:00'
+  crc: '0xb14720ae'
+- name: PAPER
+  size: 6154
+  date: '1990-01-01T00:00:00'
+  crc: '0xde0a920f'
+- name: PAPERBIT
+  size: 6272
+  date: '1990-01-01T00:00:00'
+  crc: '0x481e80a1'
+- name: PLYRS
+  size: 29376
+  date: '1990-01-01T00:00:00'
+  crc: '0x7970af89'
+- name: ROOMDATA
+  size: 33792
+  date: '1990-01-01T00:00:00'
+  crc: '0xd80610d3'
+- name: THEHOUSE
+  size: 2048
+  date: '1990-01-01T00:00:00'
+  crc: '0x26d29c37'

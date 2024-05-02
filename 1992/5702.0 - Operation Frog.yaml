@@ -16,6 +16,9 @@ references:
   dosid: DOS03841
   exodos: Operation Frog (1992).zip
 files:
+- name: FROGFILE\
+  size: 0
+  date: '2024-03-16T20:47:08'
 - name: FROGFILE\FF00.TXT
   size: 1019
   date: '1991-07-31T19:48:18'
@@ -96,6 +99,9 @@ files:
   size: 938
   date: '1991-08-01T05:06:04'
   crc: '0x13a49e04'
+- name: G_256\
+  size: 0
+  date: '2024-03-16T20:47:08'
 - name: G_256\G00.PKP
   size: 3329
   date: '1991-06-06T08:37:10'
@@ -276,6 +282,9 @@ files:
   size: 13896
   date: '1991-07-08T13:17:52'
   crc: '0x2e2d483a'
+- name: G_4\
+  size: 0
+  date: '2024-03-16T20:47:08'
 - name: G_4\G00.PKP
   size: 1362
   date: '1991-08-05T11:30:04'
@@ -464,6 +473,9 @@ files:
   size: 10048
   date: '1991-09-04T15:08:20'
   crc: '0x3da0b734'
+- name: MISC\
+  size: 0
+  date: '2024-03-16T20:47:08'
 - name: MISC\FFHELP.TXT
   size: 8124
   date: '1991-08-30T13:15:22'

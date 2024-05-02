@@ -1,5 +1,6 @@
 filename: Liptocoe (1985)(IBM) [Action].zip
 tdc_id: '6417.0'
+parent_id: '6417.1'
 title:
   box: Liptocoe
 publisher: IBM
@@ -29,7 +30,7 @@ files:
   crc: '0x6b08962b'
 - name: G.COM
   size: 259
-  date: '2021-03-19T12:00:00'
+  date: '1980-01-01T00:00:00'
   crc: '0x4a3e5a1e'
 - name: G.EXE
   size: 5632
@@ -45,7 +46,7 @@ files:
   crc: '0x7595284f'
 - name: LIP.COM
   size: 92
-  date: '2013-02-04T13:04:04'
+  date: '1980-01-01T00:00:00'
   crc: '0x568f1b94'
 - name: LIP.EXE
   size: 60703
@@ -79,9 +80,12 @@ files:
   size: 128
   date: '1980-01-01T19:56:04'
   crc: '0xce3cdf72'
+- name: VENDOR-#.DO1
+  size: 0
+  date: '1983-07-04T00:00:00'
 - name: VIEWDOX.COM
   size: 92
-  date: '2013-02-04T13:04:04'
+  date: '1980-01-01T00:00:00'
   crc: '0x20c42ce9'
 - name: VIEWDOX.EXE
   size: 10484

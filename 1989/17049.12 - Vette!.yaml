@@ -1,17 +1,20 @@
-filename: Vette! v1.0 (CGA-herc) (1989)(Spectrum HoloByte, Inc.) [IMA][720k].zip
+filename: Vette! v1.0 (MDA, CGA) (1989)(Spectrum HoloByte, Inc.) [IMA][720k].zip
 tdc_id: '17049.12'
 title:
   box: Vette!
+  qualifier: MDA, CGA
 publisher: Spectrum HoloByte, Inc.
 year: '1989'
 genre: IMA
 language: English
 date:
   added: '2023-02-25T16:49:59'
-  last_modified: '2023-02-25T16:49:59'
+  last_modified: '2024-04-07T09:58:12'
 version: '1.0'
 type: IMA
 media: 720K
+references:
+  mobygames: https://www.mobygames.com/game/799/vette/
 files:
 - name: cga.ima
   size: 737280

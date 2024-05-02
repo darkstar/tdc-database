@@ -1,7 +1,8 @@
-filename: Contraption Zack v1.0.5 (Installer) (1992)(Mindscape, Inc.) [Action, Strategy].zip
+filename: Contraption Zack v1.0.5 (Installer) [f1] (1992)(Mindscape, Inc.) [Action, Strategy].zip
 tdc_id: '6115.1'
 title:
   box: Contraption Zack
+  qualifier: Installer
 publisher: Mindscape, Inc.
 year: '1992'
 genre:
@@ -10,10 +11,16 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:41:58'
-  last_modified: '2019-03-01T18:41:58'
+  last_modified: '2024-03-25T08:44:59'
 version: 1.0.5
 type: zip
+tags:
+- Fixed: 1
 installer: true
+commands:
+  play: INSTALL.BAT
+references:
+  mobygames: https://www.mobygames.com/game/5011/contraption-zack/
 files:
 - name: DI1.QPZ
   size: 4
@@ -34,12 +41,28 @@ files:
 - name: IN5H0301.TZF
   size: 1015181
   date: '1992-11-18T14:37:16'
+  crc: '0xc8d1466a'
+- name: IN5H0301.TZ_
+  size: 1015181
+  date: '1992-11-18T14:37:16'
   crc: '0xaba8675a'
 - name: IN5H0302.TZF
   size: 187929
   date: '1992-11-18T14:37:38'
+  crc: '0xdbda9457'
+- name: IN5H0302.TZ_
+  size: 187929
+  date: '1992-11-18T14:37:38'
   crc: '0x9b685f8d'
+- name: INSTALL.BAT
+  size: 670
+  date: '1980-01-01T13:00:00'
+  crc: '0x0a42b15c'
 - name: INSTALL.EXE
+  size: 64642
+  date: '1992-11-18T16:43:40'
+  crc: '0xc1c9196f'
+- name: INSTALL.EX_
   size: 64642
   date: '1992-11-18T16:43:40'
   crc: '0x955505bf'

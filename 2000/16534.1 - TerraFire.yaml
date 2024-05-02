@@ -1,4 +1,4 @@
-filename: TerraFire v2.1f [SWR] (2000)(ORT Software) [Action].zip
+filename: TerraFire v2.01f [SWR] (2000)(ORT Software) [Action].zip
 tdc_id: '16534.1'
 title:
   screen: TerraFire
@@ -8,11 +8,17 @@ genre: Action
 language: English
 date:
   added: '2020-02-19T05:12:48'
-  last_modified: '2020-02-19T05:12:48'
-version: 2.1f
+  last_modified: '2024-03-25T10:50:40'
+version: 2.01f
 type: zip
 tags:
 - SharewareRegistered
+media: Download
+commands:
+  play: Tf.exe
+  setup: Setup.exe
+references:
+  mobygames: https://www.mobygames.com/game/6752/terrafire/
 files:
 - name: Catalog.txt
   size: 5012

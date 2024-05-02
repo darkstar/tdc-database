@@ -1,0 +1,35 @@
+filename: Paperboy 2 (Installer) (1991)(Mindscape, Inc.) [Action].zip
+tdc_id: '10625.10'
+parent_id: '10625.9'
+title:
+  box: Paperboy 2
+  qualifier: Installer
+publisher: Mindscape, Inc.
+year: '1991'
+genre: Action
+language: English
+date:
+  added: '2024-03-23T13:36:20'
+  last_modified: '2024-03-23T13:36:20'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/4020/paperboy-2/
+files:
+- name: DI1.QPZ
+  size: 4
+  date: '1991-12-16T14:00:00'
+  crc: '0x04e5916b'
+- name: INSTALL.EXE
+  size: 64864
+  date: '1991-12-16T14:00:00'
+  crc: '0x63f6e323'
+- name: PB.TZF
+  size: 247745
+  date: '1991-12-16T14:00:00'
+  crc: '0x23fa4a20'
+- name: PB2
+  size: 0
+  date: '1991-12-18T15:43:14'
