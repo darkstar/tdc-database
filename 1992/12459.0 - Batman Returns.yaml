@@ -1,4 +1,4 @@
-filename: Batman Returns (1992)(Konami Corporation) [Action].zip
+filename: Batman Returns v1.0 (1992)(Konami Corporation) [Action].zip
 tdc_id: '12459.0'
 parent_id: '12459.2'
 title:
@@ -9,8 +9,34 @@ genre: Action
 language: English
 date:
   added: '2019-03-01T18:41:24'
-  last_modified: '2019-03-01T18:41:24'
+  last_modified: '2024-05-02T10:38:55'
+version: '1.0'
 type: zip
+commands:
+  play: BATMAN.EXE
+  setup: INSTALL.EXE
 references:
+  mobygames: https://www.mobygames.com/game/3620/batman-returns/
   dosid: DOS00960
   exodos: Batman Returns (1993).zip
+files:
+- name: BATMAN.CFG
+  size: 8
+  date: '1992-12-15T01:00:00'
+  crc: '0x46c0ab3a'
+- name: BATMAN.DAT
+  size: 16861665
+  date: '1992-12-15T01:00:00'
+  crc: '0x1fedd64d'
+- name: BATMAN.EXE
+  size: 131455
+  date: '1992-12-15T01:00:00'
+  crc: '0xe16f0b80'
+- name: BATMAN.P01
+  size: 8627
+  date: '1992-12-15T01:00:00'
+  crc: '0x1c13b075'
+- name: INSTALL.EXE
+  size: 12381
+  date: '1992-12-15T01:00:00'
+  crc: '0x371cd5ef'

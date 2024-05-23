@@ -1,23 +1,26 @@
-filename: World War II- Battles of the South Pacific (Installer) [f1] (1993)(Quantum Quality Productions) [Strategy].zip
+filename: World War II- Battles of the South Pacific (Installer) [f1] (1993)(Quantum Quality Productions, Mirage Technologies (Multimedia) Ltd.) [Strategy].zip
 tdc_id: '16110.1'
+parent_id: '16110.2'
 title:
   box: 'World War II: Battles of the South Pacific'
-publisher: Quantum Quality Productions
+  qualifier: Installer
+publisher: Quantum Quality Productions, Mirage Technologies (Multimedia) Ltd.
 year: '1993'
 genre: Strategy
 language: English
 date:
   added: '2019-03-01T21:12:36'
-  last_modified: '2019-03-01T21:12:36'
+  last_modified: '2024-05-09T11:10:28'
 type: zip
 tags:
 - Fixed: 1
+media: 1.44M
 installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/2891/world-war-ii-battles-of-the-south-pacific/
 files:
-- name: CRACK.COM
-  size: 660
-  date: '1993-09-16T23:22:46'
-  crc: '0xdb27aca0'
 - name: DISK.ID
   size: 35
   date: '1993-09-01T21:58:46'

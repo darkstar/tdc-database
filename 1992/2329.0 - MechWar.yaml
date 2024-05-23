@@ -1,4 +1,4 @@
-filename: MechWar v1.12 [SW] (1992)(Klaus Breuer) [Strategy].zip
+filename: MechWar v1.12 [FW] (1992)(Klaus Breuer) [Strategy].zip
 tdc_id: '2329.0'
 title:
   screen: MechWar
@@ -8,12 +8,15 @@ genre: Strategy
 language: English
 date:
   added: '2018-07-08T16:04:58'
-  last_modified: '2018-07-08T16:04:58'
+  last_modified: '2024-05-05T10:05:23'
 version: '1.12'
 type: zip
 tags:
-- Shareware
+- Freeware
 media: Download
+commands:
+  play: MECHWAR.EXE
+  setup: SETUP.EXE
 references:
   dosid: DOS15617
   exodos: MechWar (1992).zip

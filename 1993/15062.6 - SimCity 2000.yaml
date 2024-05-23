@@ -1,7 +1,9 @@
-filename: SimCity 2000 (Installer) (1993)(Maxis Software Inc.) [Simulation, Strategy].zip
+filename: SimCity 2000 v1.0 r931228 (Installer) (1993)(Maxis Software Inc.) [Simulation, Strategy].zip
 tdc_id: '15062.6'
+parent_id: '15062.19'
 title:
   box: SimCity 2000
+  qualifier: Installer
 publisher: Maxis Software Inc.
 year: '1993'
 genre:
@@ -10,9 +12,16 @@ genre:
 language: English
 date:
   added: '2019-03-01T21:07:34'
-  last_modified: '2019-03-01T21:07:34'
+  last_modified: '2024-05-15T14:02:26'
+version: '1.0'
+release: '931228'
 type: zip
+media: 1.44M
 installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/657/simcity-2000/
 files:
 - name: AHEAD._
   size: 1435
@@ -130,6 +139,12 @@ files:
   size: 207331
   date: '1993-12-28T06:00:00'
   crc: '0xe66fe738'
+- name: SCV1D1
+  size: 0
+  date: '1993-12-28T11:31:12'
+- name: SCV1D2
+  size: 0
+  date: '1993-12-28T11:34:24'
 - name: SIGMA._
   size: 3116
   date: '1993-12-28T06:00:00'

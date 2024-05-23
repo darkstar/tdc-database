@@ -1,0 +1,59 @@
+filename: World War II- Battles of the South Pacific (Installer) [f1] (1993)(Quantum Quality Productions) [Strategy].zip
+tdc_id: '16110.4'
+parent_id: '16110.3'
+title:
+  box: 'World War II: Battles of the South Pacific'
+  qualifier: Installer
+publisher: Quantum Quality Productions
+year: '1993'
+genre: Strategy
+language: English
+date:
+  added: '2024-05-09T11:14:03'
+  last_modified: '2024-05-09T11:14:03'
+type: zip
+tags:
+- Fixed: 1
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/2891/world-war-ii-battles-of-the-south-pacific/
+files:
+- name: DISK.ID
+  size: 35
+  date: '1993-09-01T21:58:46'
+  crc: '0xef3e6236'
+- name: DISK.ID2
+  size: 35
+  date: '1993-09-01T21:58:24'
+  crc: '0x0409d935'
+- name: INSTALL.DA2
+  size: 2165
+  date: '1993-09-12T01:22:12'
+  crc: '0x2bd94f8e'
+- name: INSTALL.DAT
+  size: 11477
+  date: '1993-09-07T05:13:26'
+  crc: '0xa138ea7d'
+- name: INSTALL.DA_
+  size: 9529
+  date: '1993-09-07T05:13:26'
+  crc: '0xd061062b'
+- name: INSTALL.EXE
+  size: 102075
+  date: '1993-09-02T09:08:32'
+  crc: '0xa9ef5479'
+- name: WW2000.LBR
+  size: 184375
+  date: '1993-09-01T20:54:04'
+  crc: '0x9e7b48ef'
+- name: WW2001.LBR
+  size: 867119
+  date: '1993-09-06T22:28:18'
+  crc: '0x6700dc79'
+- name: WW2002.LBR
+  size: 1045172
+  date: '1993-09-12T01:18:50'
+  crc: '0x3c96f276'

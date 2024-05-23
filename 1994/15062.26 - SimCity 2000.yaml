@@ -1,0 +1,189 @@
+filename: SimCity 2000 CD v1.0 r941103 (Installer) (1994)(Maxis Software Inc.) [Simulation, Strategy].zip
+tdc_id: '15062.26'
+parent_id: '15062.25'
+title:
+  box: SimCity 2000
+  qualifier: CD
+publisher: Maxis Software Inc.
+year: '1994'
+genre:
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2024-05-16T15:40:35'
+  last_modified: '2024-05-16T15:40:35'
+version: '1.0'
+release: '941103'
+type: zip
+media: CD-ROM
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/657/simcity-2000/
+files:
+- name: AHEAD._
+  size: 1435
+  date: '1994-01-13T12:01:38'
+  crc: '0xb5036c44'
+- name: APPIAN._
+  size: 1228
+  date: '1994-01-13T12:01:18'
+  crc: '0x7af59e25'
+- name: ATI._
+  size: 13590
+  date: '1994-01-13T12:01:32'
+  crc: '0xd16b305f'
+- name: BOCA._
+  size: 3092
+  date: '1994-01-13T12:01:36'
+  crc: '0xefb4c1db'
+- name: BOOTDISK.EXE
+  size: 48398
+  date: '1994-04-15T11:17:18'
+  crc: '0x096e2d96'
+- name: CIRRUS._
+  size: 3503
+  date: '1994-01-13T12:02:08'
+  crc: '0x5d67bf4d'
+- name: CITIES._
+  size: 81886
+  date: '1994-01-13T12:11:24'
+  crc: '0xd3c74bf5'
+- name: COMPAQ._
+  size: 14723
+  date: '1994-01-13T12:02:02'
+  crc: '0x0106dcd5'
+- name: C_AND_T._
+  size: 4157
+  date: '1994-01-13T12:02:42'
+  crc: '0x1c930fe0'
+- name: DIAMOND._
+  size: 18410
+  date: '1994-01-13T12:02:26'
+  crc: '0xa83d1e57'
+- name: EVEREX._
+  size: 4722
+  date: '1994-01-13T12:02:32'
+  crc: '0xc09002f0'
+- name: GENOA._
+  size: 24072
+  date: '1994-01-13T12:03:12'
+  crc: '0xa907fbe9'
+- name: HEADLAND._
+  size: 19847
+  date: '1994-01-13T12:03:44'
+  crc: '0x05df0ea2'
+- name: HERCULES._
+  size: 10125
+  date: '1994-01-13T12:03:20'
+  crc: '0xc208f2a7'
+- name: IBM._
+  size: 5585
+  date: '1994-01-13T12:03:28'
+  crc: '0xd13fe0e8'
+- name: INFO.EXE
+  size: 27025
+  date: '1993-12-21T06:00:00'
+  crc: '0x0ca7edf9'
+- name: INSTALL.EXE
+  size: 96280
+  date: '1993-12-21T06:00:00'
+  crc: '0x00c35225'
+- name: INSTALL.MXS
+  size: 10883
+  date: '1994-11-03T13:42:42'
+  crc: '0x9434bb2f'
+- name: INSTALL._
+  size: 154175
+  date: '1994-01-13T11:55:24'
+  crc: '0x076dfb88'
+- name: IRIS._
+  size: 3092
+  date: '1994-01-13T12:03:32'
+  crc: '0xefb4c1db'
+- name: MAXIS.CIM
+  size: 67557
+  date: '1993-12-21T06:00:00'
+  crc: '0xc3a936aa'
+- name: OAK._
+  size: 5200
+  date: '1994-01-13T12:04:30'
+  crc: '0xa155e90a'
+- name: ORCHID._
+  size: 6058
+  date: '1994-01-13T12:04:16'
+  crc: '0xa1926cbe'
+- name: PARADISE._
+  size: 7795
+  date: '1994-01-13T12:04:04'
+  crc: '0xc1088a3b'
+- name: PERFECTV._
+  size: 1913
+  date: '1994-01-13T12:05:54'
+  crc: '0x34d6134b'
+- name: POSTCARD.CIM
+  size: 15341
+  date: '1993-12-21T06:00:00'
+  crc: '0x0455f154'
+- name: README.TXT
+  size: 21453
+  date: '1994-04-15T15:55:50'
+  crc: '0x03268edf'
+- name: SC2000._
+  size: 531105
+  date: '1994-07-20T17:43:10'
+  crc: '0xfba462f4'
+- name: SC2DAT._
+  size: 1125466
+  date: '1993-12-28T06:00:00'
+  crc: '0x3ebf3aa5'
+- name: SCENARIO._
+  size: 651845
+  date: '1994-11-03T12:15:56'
+  crc: '0x6f9a68c1'
+- name: SIGMA._
+  size: 3116
+  date: '1994-01-13T12:04:40'
+  crc: '0x2ee0651d'
+- name: SOUND._
+  size: 121306
+  date: '1994-01-13T12:00:58'
+  crc: '0x95c3c36a'
+- name: SPIDER._
+  size: 151461
+  date: '1994-01-13T12:05:48'
+  crc: '0x75b7b1c3'
+- name: STB._
+  size: 7552
+  date: '1994-01-13T12:22:38'
+  crc: '0xfeaad446'
+- name: TECMAR._
+  size: 7578
+  date: '1994-01-13T12:06:20'
+  crc: '0x9118463c'
+- name: TI_PORT._
+  size: 2926
+  date: '1994-01-13T12:06:28'
+  crc: '0xefd07820'
+- name: TRIDENT._
+  size: 8382
+  date: '1994-01-13T12:06:02'
+  crc: '0xa6008cc9'
+- name: TSENG._
+  size: 6472
+  date: '1994-01-13T12:06:12'
+  crc: '0x718aac90'
+- name: UNIVESA._
+  size: 22706
+  date: '1994-01-13T12:01:14'
+  crc: '0xd0a18153'
+- name: VIDEO7._
+  size: 4060
+  date: '1994-01-13T12:06:34'
+  crc: '0x3e000649'
+- name: WESTERN._
+  size: 5830
+  date: '1994-01-13T12:22:22'
+  crc: '0xc84b7b56'

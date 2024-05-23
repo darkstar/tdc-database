@@ -1,8 +1,9 @@
-filename: SimCity 2000 v1.01 (1994)(Reveal Computer Products) [Simulation, Strategy].zip
+filename: SimCity 2000 v1.01 (1994)(Reveal Computer Products, Maxis Software Inc.) [Simulation, Strategy].zip
 tdc_id: '15062.13'
+parent_id: '15062.14'
 title:
   box: SimCity 2000
-publisher: Reveal Computer Products
+publisher: Reveal Computer Products, Maxis Software Inc.
 year: '1994'
 genre:
 - Simulation
@@ -10,10 +11,14 @@ genre:
 language: English
 date:
   added: '2019-03-02T07:16:02'
-  last_modified: '2019-03-02T07:16:02'
+  last_modified: '2024-05-16T07:37:35'
 version: '1.01'
 type: zip
+commands:
+  play: SC2000.EXE
+  setup: INSTALL.EXE
 references:
+  mobygames: https://www.mobygames.com/game/657/simcity-2000/
   dosid: DOS04563
   exodos: SimCity 2000 - CD Collection (1994).zip
 files:

@@ -1,0 +1,47 @@
+filename: SimCity 2000 Scenarios Volume 1- Grosse Katastrophen (Installer) (De) (1994)(Maxis Software Inc.) [Simulation, Strategy, Addon].zip
+tdc_id: '15064.3'
+parent_id: '15064.2'
+title:
+  box: 'SimCity 2000 Scenarios Volume 1: Grosse Katastrophen'
+  qualifier: Installer
+publisher: Maxis Software Inc.
+year: '1994'
+genre:
+- Simulation
+- Strategy
+- Addon
+language: German
+date:
+  added: '2024-05-16T08:33:30'
+  last_modified: '2024-05-16T08:33:30'
+type: zip
+media: 720K
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/40993/simcity-2000-scenarios-volume-1-great-disasters/
+files:
+- name: INSTALL.EXE
+  size: 96280
+  date: '1993-12-21T06:00:00'
+  crc: '0x00c35225'
+- name: INSTALL.MXS
+  size: 4597
+  date: '1994-06-06T11:28:04'
+  crc: '0xe81623f8'
+- name: MAXIS.CIM
+  size: 67557
+  date: '1993-12-21T06:00:00'
+  crc: '0xc3a936aa'
+- name: POSTCARD.CIM
+  size: 15341
+  date: '1993-12-21T06:00:00'
+  crc: '0x0455f154'
+- name: SCENARIO.S_1
+  size: 0
+  date: '1994-05-20T10:45:18'
+- name: SCENARIO._
+  size: 445059
+  date: '1994-05-20T10:52:32'
+  crc: '0xc4a954a3'

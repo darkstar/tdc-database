@@ -1,5 +1,6 @@
-filename: Indiana Jones and the Last Crusade- The Graphic Adventure v2.0 [a1] (1990)(Lucasfilm Games) [Adventure].zip
+filename: Indiana Jones and the Last Crusade- The Graphic Adventure v2.0-3.0.18 (1990)(Lucasfilm Games) [Adventure].zip
 tdc_id: '11475.15'
+parent_id: '11475.38'
 title:
   box: 'Indiana Jones and the Last Crusade: The Graphic Adventure'
 publisher: Lucasfilm Games
@@ -8,11 +9,14 @@ genre: Adventure
 language: English
 date:
   added: '2019-03-01T18:32:52'
-  last_modified: '2019-03-01T18:32:52'
-version: '2.0'
+  last_modified: '2024-05-14T10:14:12'
+version: 2.0-3.0.18
 type: zip
-tags:
-- Alternate: 1
+media: 1.2M
+commands:
+  play: INDY256.EXE
+references:
+  mobygames: https://www.mobygames.com/game/534/indiana-jones-and-the-last-crusade-the-graphic-adventure/
 files:
 - name: 00.LFL
   size: 6295

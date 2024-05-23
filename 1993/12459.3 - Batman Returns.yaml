@@ -1,0 +1,41 @@
+filename: Batman Returns v1.6 (1993)(Konami Corporation) [Action].zip
+tdc_id: '12459.3'
+parent_id: '12459.7'
+title:
+  box: Batman Returns
+publisher: Konami Corporation
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-10-02T12:56:50'
+  last_modified: '2024-05-02T10:46:59'
+version: '1.6'
+type: zip
+media: 1.44M
+commands:
+  play: BATMAN.EXE
+  setup: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/3620/batman-returns/
+files:
+- name: BATMAN.CFG
+  size: 8
+  date: '1993-01-20T01:06:00'
+  crc: '0x46c0ab3a'
+- name: BATMAN.DAT
+  size: 16861665
+  date: '1993-01-20T01:06:00'
+  crc: '0x1fedd64d'
+- name: BATMAN.EXE
+  size: 131135
+  date: '1993-01-20T01:06:00'
+  crc: '0xafd27118'
+- name: BATMAN.P01
+  size: 8627
+  date: '1993-01-20T01:06:00'
+  crc: '0x366f01ba'
+- name: INSTALL.EXE
+  size: 12381
+  date: '1993-01-20T01:06:00'
+  crc: '0x371cd5ef'

@@ -1,0 +1,79 @@
+filename: Batman Returns v1.6 (Installer) (1993)(Konami Corporation) [Action].zip
+tdc_id: '12459.7'
+parent_id: '12459.4'
+title:
+  box: Batman Returns
+  qualifier: Installer
+publisher: Konami Corporation
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2024-05-02T08:46:55'
+  last_modified: '2024-05-02T08:46:55'
+version: '1.6'
+type: zip
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.BAT
+references:
+  mobygames: https://www.mobygames.com/game/3620/batman-returns/
+files:
+- name: BATMAN.P01
+  size: 1444864
+  date: '1993-01-20T14:55:48'
+  crc: '0xaf3ab634'
+- name: BATMAN.P02
+  size: 1457664
+  date: '1993-01-20T14:57:18'
+  crc: '0x3482244b'
+- name: BATMAN.P03
+  size: 1457664
+  date: '1993-01-20T14:58:46'
+  crc: '0xf68ad23f'
+- name: BATMAN.P04
+  size: 1457664
+  date: '1993-01-20T15:00:28'
+  crc: '0x8dcd2fca'
+- name: BATMAN.P05
+  size: 1457664
+  date: '1993-01-20T15:01:52'
+  crc: '0xf33aeeb2'
+- name: BATMAN.P06
+  size: 1457664
+  date: '1993-01-20T15:03:14'
+  crc: '0xcd004a74'
+- name: BATMAN.P07
+  size: 783325
+  date: '1993-01-20T15:04:04'
+  crc: '0x6130e560'
+- name: Batman
+  size: 0
+  date: '1993-01-20T14:52:24'
+- name: Batman.2
+  size: 0
+  date: '1993-01-20T14:51:04'
+- name: Batman.3
+  size: 0
+  date: '1993-01-20T14:49:46'
+- name: Batman.4
+  size: 0
+  date: '1993-01-20T14:48:04'
+- name: Batman.5
+  size: 0
+  date: '1993-01-20T14:46:38'
+- name: Batman.6
+  size: 0
+  date: '1993-01-20T14:44:48'
+- name: Batman.7
+  size: 0
+  date: '1993-01-20T14:37:34'
+- name: INSTALL.BAT
+  size: 247
+  date: '1980-01-01T13:00:00'
+  crc: '0x6548fce9'
+- name: INSTALL.EXE
+  size: 12381
+  date: '1992-12-15T11:48:38'
+  crc: '0x371cd5ef'

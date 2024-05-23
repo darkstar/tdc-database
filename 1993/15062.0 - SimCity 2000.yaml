@@ -1,5 +1,6 @@
-filename: SimCity 2000 (1993)(Maxis Software Inc.) [Simulation, Strategy].zip
+filename: SimCity 2000 v1.0 r931228 (1993)(Maxis Software Inc.) [Simulation, Strategy].zip
 tdc_id: '15062.0'
+parent_id: '15062.6'
 title:
   box: SimCity 2000
 publisher: Maxis Software Inc.
@@ -10,8 +11,16 @@ genre:
 language: English
 date:
   added: '2019-03-01T21:07:32'
-  last_modified: '2019-03-01T21:07:32'
+  last_modified: '2024-05-15T15:00:24'
+version: '1.0'
+release: '931228'
 type: zip
+media: 1.44M
+commands:
+  play: SC2000.EXE
+  setup: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/657/simcity-2000/
 files:
 - name: GM1.BNK
   size: 23907

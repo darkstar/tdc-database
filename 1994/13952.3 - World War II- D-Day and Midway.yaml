@@ -1,0 +1,77 @@
+filename: World War II- D-Day and Midway (Installer) [f1] (1994)(Domark Software, Inc.) [Simulation].zip
+tdc_id: '13952.3'
+parent_id: '13952.2'
+title:
+  box: 'World War II: D-Day and Midway'
+  qualifier: Installer
+publisher: Domark Software, Inc.
+year: '1994'
+genre: Simulation
+language: English
+date:
+  added: '2024-05-13T17:44:13'
+  last_modified: '2024-05-13T17:44:13'
+type: zip
+tags:
+- Fixed: 1
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.BAT
+files:
+- name: COMMON.EXE
+  size: 412655
+  date: '1994-09-07T12:44:48'
+  crc: '0x10af6ed8'
+- name: D-DAY.EXE
+  size: 1066110
+  date: '1994-09-07T13:10:26'
+  crc: '0x719081a8'
+- name: DISK.ID
+  size: 19
+  date: '1994-07-21T14:35:56'
+  crc: '0x39a83f26'
+- name: DISK.ID2
+  size: 19
+  date: '1994-07-21T14:36:18'
+  crc: '0x3bee817f'
+- name: INSTALL.BAT
+  size: 106
+  date: '1980-01-01T13:00:00'
+  crc: '0x520e7eb1'
+- name: INSTALL.DAT
+  size: 4856
+  date: '1994-07-22T16:20:32'
+  crc: '0xa171ba85'
+- name: INSTALL.DA_
+  size: 4856
+  date: '1994-07-22T16:20:32'
+  crc: '0xdc6aa37b'
+- name: INSTALL.EXE
+  size: 75686
+  date: '1992-02-04T03:19:02'
+  crc: '0x183874b5'
+- name: LODETAIL.EXE
+  size: 437236
+  date: '1994-09-07T12:03:38'
+  crc: '0x01559e57'
+- name: MIDWAY.EXE
+  size: 345115
+  date: '1994-09-08T18:17:00'
+  crc: '0xf806a302'
+- name: README.TXT
+  size: 14993
+  date: '1994-09-07T09:26:58'
+  crc: '0xb1fa1f2a'
+- name: TOOLS.EXE
+  size: 110222
+  date: '1994-07-22T00:08:38'
+  crc: '0x6b7ecaf3'
+- name: VIDEO.DFT
+  size: 15
+  date: '1994-07-24T17:47:26'
+  crc: '0x543d7cca'
+- name: WWII.EXE
+  size: 178652
+  date: '1994-09-07T13:28:14'
+  crc: '0x1f7390ea'
