@@ -1,16 +1,25 @@
-filename: Seal Team (Installer) (1993)(Electronic Arts, Inc.) [Simulation].zip
+filename: Seal Team (Installer) (1993)(Electronic Arts, Inc.) [Simulation][!].zip
 tdc_id: '14968.3'
+parent_id: '14968.5'
 title:
   box: Seal Team
+  qualifier: Installer
 publisher: Electronic Arts, Inc.
 year: '1993'
 genre: Simulation
 language: English
 date:
   added: '2020-03-30T08:20:04'
-  last_modified: '2020-03-30T08:20:04'
+  last_modified: '2024-06-13T09:02:59'
 type: zip
+tags:
+- KnownGood
+media: 1.44M
 installer: true
+commands:
+  play: INSTALL.BAT
+references:
+  mobygames: https://www.mobygames.com/game/1488/seal-team/
 files:
 - name: DISK#1
   size: 0

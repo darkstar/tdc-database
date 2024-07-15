@@ -1,18 +1,23 @@
-filename: Sorry! (1990)(Gametek, Inc.) [Strategy][!].zip
+filename: Sorry! (1990)(GameTek, Inc.) [Strategy][!].zip
 tdc_id: '6861.0'
+parent_id: '6861.1'
 title:
   box: Sorry!
-publisher: Gametek, Inc.
+publisher: GameTek, Inc.
 year: '1990'
 genre: Strategy
 language: English
 date:
   added: '2019-03-01T18:34:04'
-  last_modified: '2019-03-01T18:34:04'
+  last_modified: '2024-06-09T19:46:37'
 type: zip
 tags:
 - KnownGood
+media: 360K
+commands:
+  play: SORRY.BAT
 references:
+  mobygames: https://www.mobygames.com/game/136506/sorry/
   dosid: DOS00388
   exodos: Sorry! (1990).zip
 files:

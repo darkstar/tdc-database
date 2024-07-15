@@ -13,8 +13,6 @@ type: zip
 installer: true
 commands:
   play: INSTALL.BAT
-references:
-  mobygames: https://www.mobygames.com/game/dos/nippon-safes-inc
 files:
 - name: ARJ.EXE
   size: 104614

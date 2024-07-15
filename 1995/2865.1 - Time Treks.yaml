@@ -17,8 +17,6 @@ type: zip
 installer: true
 commands:
   play: INSTALL.EXE
-references:
-  mobygames: https://www.mobygames.com/game/dos/time-treks
 files:
 - name: DISK.ID
   size: 29

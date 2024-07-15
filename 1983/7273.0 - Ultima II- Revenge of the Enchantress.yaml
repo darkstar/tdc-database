@@ -1,7 +1,9 @@
-filename: Ultima II- Revenge of the Enchantress (1983)(Sierra On-Line, Inc.) [Adventure, Role-Playing (RPG)].zip
+filename: Ultima II- The Revenge of the Enchantress (1983)(Sierra On-Line, Inc.) [Adventure, Role-Playing (RPG)].zip
 tdc_id: '7273.0'
+parent_id: '7273.5'
 title:
-  box: 'Ultima II: Revenge of the Enchantress'
+  box: 'Ultima II: The Revenge of the Enchantress'
+  screen: 'Ultima II: Revenge of the Enchantress'
 publisher: Sierra On-Line, Inc.
 year: '1983'
 genre:
@@ -10,9 +12,13 @@ genre:
 language: English
 date:
   added: '2020-11-16T13:45:24'
-  last_modified: '2020-11-16T13:45:24'
+  last_modified: '2024-06-13T11:58:16'
 type: zip
+media: 360K
+commands:
+  play: ULTIMAII.COM
 references:
+  mobygames: https://www.mobygames.com/game/880/ultima-ii-the-revenge-of-the-enchantress/
   dosid: DOS05383
   exodos: Ultima II - Revenge of the Enchantress (1983).zip
 files:

@@ -13,8 +13,6 @@ type: zip
 installer: true
 commands:
   play: GO.BAT
-references:
-  mobygames: https://www.mobygames.com/game/dos/trump-castle-3
 files:
 - name: DEMOS\
   size: 0

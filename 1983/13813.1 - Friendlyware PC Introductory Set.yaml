@@ -1,8 +1,8 @@
-filename: Friendlyware PC Introductory Set v2.0 [a1] (1983)(FriendlySoft) [Action, Compilation].zip
+filename: Friendlyware PC Introductory Set v2.0 [a1] (1983)(FriendlySoft Inc.) [Action, Compilation].zip
 tdc_id: '13813.1'
 title:
-  screen: Friendlyware PC Introductory Set
-publisher: FriendlySoft
+  box: Friendlyware PC Introductory Set
+publisher: FriendlySoft Inc.
 year: '1983'
 genre:
 - Action
@@ -10,15 +10,15 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:23:12'
-  last_modified: '2019-03-01T18:23:12'
+  last_modified: '2024-07-08T10:46:01'
 version: '2.0'
 type: zip
 tags:
 - Alternate: 1
-media: Download
-compilation: true
 commands:
   play: AUTOEXEC.BAT
+references:
+  mobygames: https://www.mobygames.com/game/33869/friendlyware-pc-introductory-set/
 files:
 - name: '21.002'
   size: 9984

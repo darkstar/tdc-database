@@ -14,8 +14,6 @@ type: zip
 installer: true
 commands:
   play: INSTALL.EXE
-references:
-  mobygames: https://www.mobygames.com/game/dos/body-blows
 files:
 - name: BB.RNC
   size: 1386574

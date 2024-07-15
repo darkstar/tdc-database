@@ -13,8 +13,6 @@ version: '3.2'
 type: zip
 commands:
   play: ALF.EXE
-references:
-  mobygames: https://www.mobygames.com/game/dos/alf-the-first-adventure
 files:
 - name: ADD_LIB4.PIC
   size: 16392

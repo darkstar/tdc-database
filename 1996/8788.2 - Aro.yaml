@@ -1,0 +1,54 @@
+filename: Aro v1.0 [SW] (1996)(D'India Software) [Action].zip
+tdc_id: '8788.2'
+title:
+  screen: Aro
+publisher: D'India Software
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2024-06-21T10:07:50'
+  last_modified: '2024-06-21T10:07:50'
+version: '1.0'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: ARO.EXE
+  setup: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1917/aro/
+files:
+- name: ARO.DCF
+  size: 1309696
+  date: '2004-01-04T09:25:30'
+  crc: '0x25543400'
+- name: ARO.EXE
+  size: 97024
+  date: '1996-06-29T16:04:48'
+  crc: '0x76957512'
+- name: DPMI16BI.OVL
+  size: 63504
+  date: '1996-06-29T16:04:48'
+  crc: '0xcefdd6dd'
+- name: FILE_ID.DIZ
+  size: 458
+  date: '2003-09-13T13:51:56'
+  crc: '0x081a2a3e'
+- name: ORDER.FRM
+  size: 2498
+  date: '1996-06-29T16:04:48'
+  crc: '0xa4ae5287'
+- name: README.EXE
+  size: 50640
+  date: '1996-06-29T16:04:48'
+  crc: '0x30a78c8a'
+- name: RTM.EXE
+  size: 85998
+  date: '1996-06-29T16:04:48'
+  crc: '0x212f32b9'
+- name: SETUP.EXE
+  size: 27648
+  date: '1996-06-29T16:04:48'
+  crc: '0x43b3a4ba'

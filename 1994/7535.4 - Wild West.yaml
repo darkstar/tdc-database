@@ -1,0 +1,33 @@
+filename: Wild West (Installer) (De) [SW] (1994)(PROLINE Software) [Adventure].zip
+tdc_id: '7535.4'
+parent_id: '7535.3'
+title:
+  box: Wild West
+  qualifier: Installer
+publisher: PROLINE Software
+year: '1994'
+genre: Adventure
+language: German
+date:
+  added: '2024-06-10T14:26:52'
+  last_modified: '2024-06-10T14:26:52'
+type: zip
+tags:
+- Shareware
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 19387
+  date: '1994-03-03T01:00:00'
+  crc: '0x48c52380'
+- name: UNARJ.EXE
+  size: 13221
+  date: '1994-03-03T01:00:00'
+  crc: '0x6fe90bb7'
+- name: WWDEMO.VOL
+  size: 1395887
+  date: '1994-03-03T01:00:00'
+  crc: '0x3cbe3ee1'

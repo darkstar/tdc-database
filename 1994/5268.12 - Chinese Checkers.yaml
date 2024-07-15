@@ -16,8 +16,6 @@ version: '2.1'
 type: zip
 commands:
   play: CHINESE.EXE
-references:
-  mobygames: https://www.mobygames.com/game/dos/chinese-checkers
 files:
 - name: '!'
   size: 1459

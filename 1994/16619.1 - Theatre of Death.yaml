@@ -19,8 +19,6 @@ type: zip
 installer: true
 commands:
   play: INSTALL.EXE
-references:
-  mobygames: https://www.mobygames.com/game/dos/theatre-of-death
 files:
 - name: DEUTSCH.EXE
   size: 171052

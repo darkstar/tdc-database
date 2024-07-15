@@ -1,8 +1,8 @@
-filename: Candy Land (1988)(Gametek, Inc.) [Strategy].zip
+filename: Candy Land (1988)(GameTek, Inc.) [Strategy].zip
 tdc_id: '8585.0'
 title:
   box: Candy Land
-publisher: Gametek, Inc.
+publisher: GameTek, Inc.
 year: '1988'
 genre: Strategy
 language: English
@@ -10,6 +10,8 @@ date:
   added: '2019-03-01T18:26:02'
   last_modified: '2019-03-01T18:26:02'
 type: zip
+commands:
+  play: CANDY.BAT
 files:
 - name: CANDY.BAT
   size: 63

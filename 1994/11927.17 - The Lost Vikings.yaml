@@ -1,0 +1,41 @@
+filename: Lost Vikings, The (demo) (Installer) (1994)(Europress Publications, Interplay Productions, Inc.) [Action, Strategy].zip
+tdc_id: '11927.17'
+title:
+  screen: The Lost Vikings
+  qualifier: Installer
+publisher: Europress Publications, Interplay Productions, Inc.
+year: '1994'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2024-07-04T09:47:48'
+  last_modified: '2024-07-04T09:47:48'
+type: zip
+media: Download
+installer: true
+commands:
+  play: GO.BAT
+references:
+  mobygames: https://www.mobygames.com/game/1547/the-lost-vikings/
+files:
+- name: GO.BAT
+  size: 67
+  date: '1994-02-02T08:49:40'
+  crc: '0x363add11'
+- name: INFO.TXT
+  size: 635
+  date: '1994-02-02T08:49:30'
+  crc: '0xb734d233'
+- name: UTILS\
+  size: 0
+  date: '1994-01-21T11:25:28'
+- name: UTILS\QINST.EXE
+  size: 6277
+  date: '1994-01-28T16:01:46'
+  crc: '0xd3ef39dc'
+- name: VIKING.EXE
+  size: 1108638
+  date: '1994-02-02T08:47:34'
+  crc: '0xbcba808e'

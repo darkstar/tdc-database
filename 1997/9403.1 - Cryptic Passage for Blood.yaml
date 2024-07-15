@@ -17,8 +17,6 @@ type: zip
 installer: true
 commands:
   play: INSTALL.EXE
-references:
-  mobygames: https://www.mobygames.com/game/dos/cryptic-passage-for-blood
 files:
 - name: CP1031.TXT
   size: 104

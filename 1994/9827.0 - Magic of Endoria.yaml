@@ -15,8 +15,6 @@ version: '1.0'
 type: zip
 commands:
   play: START.BAT
-references:
-  mobygames: https://www.mobygames.com/game/dos/magic-of-endoria
 files:
 - name: BLACK.COM
   size: 15

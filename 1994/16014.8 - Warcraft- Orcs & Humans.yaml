@@ -15,8 +15,6 @@ demo: true
 commands:
   play: WAR.EXE
   setup: SETUP.EXE
-references:
-  mobygames: https://www.mobygames.com/game/dos/warcraft-orcs-humans
 files:
 - name: CONFIG.WAR
   size: 32

@@ -1,19 +1,25 @@
-filename: Blood- Plasma Pak v1.11 (1997)(GT Interactive Software Corp.) [ISO].zip
+filename: Blood- Plasma Pak v1.11 (1997)(GT Interactive Software Corp.) [bin-cue].zip
 tdc_id: '12680.1'
 title:
   box: 'Blood: Plasma Pak'
 publisher: GT Interactive Software Corp.
 year: '1997'
-genre: ISO
+genre: bin-cue
 language: English
 date:
   added: '2023-02-23T10:32:54'
-  last_modified: '2023-02-23T10:32:54'
+  last_modified: '2024-06-09T19:16:22'
 version: '1.11'
-type: ISO
+type: bin-cue
 media: CD-ROM
+references:
+  mobygames: https://www.mobygames.com/game/2199/blood-plasma-pak/
 files:
-- name: cd.iso
-  size: 118241280
-  date: '2013-02-21T18:26:22'
-  crc: '0xc445ca96'
+- name: Blood - Plasma Pak (USA).bin
+  size: 135797424
+  date: '2015-09-06T09:38:16'
+  crc: '0x832741fd'
+- name: Blood - Plasma Pak (USA).cue
+  size: 90
+  date: '2015-08-14T06:37:14'
+  crc: '0xa05fde98'

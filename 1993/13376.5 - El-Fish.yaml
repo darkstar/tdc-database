@@ -1,5 +1,6 @@
-filename: El-Fish r930323 (1993)(Maxis Software Inc.) [IMA][1440k].zip
+filename: El-Fish v1.01 (1993)(Maxis Software Inc.) [IMA][1440k][!].zip
 tdc_id: '13376.5'
+parent_id: '13376.8'
 title:
   box: El-Fish
 publisher: Maxis Software Inc.
@@ -8,26 +9,28 @@ genre: IMA
 language: English
 date:
   added: '2024-05-01T08:09:27'
-  last_modified: '2024-05-01T08:09:27'
-release: '930323'
+  last_modified: '2024-07-01T19:16:36'
+version: '1.01'
 type: IMA
+tags:
+- KnownGood
 media: 1.44M
 references:
   mobygames: https://www.mobygames.com/game/314/el-fish/
 files:
-- name: DISK01.IMA
+- name: Disk1.ima
   size: 1474560
-  date: '2019-03-09T22:09:56'
+  date: '2024-05-27T01:30:20'
   crc: '0x37963a68'
-- name: DISK02.IMA
+- name: Disk2.ima
   size: 1474560
-  date: '2019-03-09T22:12:56'
+  date: '2024-05-27T01:35:40'
   crc: '0xbbeda519'
-- name: DISK03.IMA
+- name: Disk3.ima
   size: 1474560
-  date: '2019-03-09T22:15:32'
+  date: '2024-05-27T01:39:38'
   crc: '0xcac04a6a'
-- name: DISK04.IMA
+- name: Disk4.ima
   size: 1474560
-  date: '2019-03-09T22:18:12'
+  date: '2024-05-27T01:44:52'
   crc: '0xd2f5b33b'

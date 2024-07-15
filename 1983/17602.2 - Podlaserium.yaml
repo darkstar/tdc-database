@@ -1,0 +1,34 @@
+filename: Podlaserium v2.0 (1983)(DP Computer Services Co.) [Action].zip
+tdc_id: '17602.2'
+parent_id: '17602.1'
+title:
+  box: Podlaserium
+publisher: DP Computer Services Co.
+year: '1983'
+genre: Action
+language: English
+date:
+  added: '2024-07-01T19:38:43'
+  last_modified: '2024-07-01T19:38:43'
+version: '2.0'
+type: zip
+media: 360K
+commands:
+  play: PODLASER.EXE
+files:
+- name: AUTOEXEC.BAT
+  size: 32
+  date: '1983-02-08T18:58:56'
+  crc: '0x7285bd7f'
+- name: HISCORE.DAT
+  size: 384
+  date: '1980-01-01T01:45:26'
+  crc: '0x08ea22f9'
+- name: INSTRUC.TXT
+  size: 4992
+  date: '1983-02-03T10:28:14'
+  crc: '0xd6dfca76'
+- name: PODLASER.EXE
+  size: 43648
+  date: '1983-02-07T20:19:28'
+  crc: '0xa0f40936'

@@ -16,8 +16,6 @@ type: zip
 installer: true
 commands:
   play: SPECTRE.EXE
-references:
-  mobygames: https://www.mobygames.com/game/dos/spectre-vr
 files:
 - name: INSTALL.BAT
   size: 52

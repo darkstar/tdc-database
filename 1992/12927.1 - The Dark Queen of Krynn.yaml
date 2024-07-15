@@ -13,8 +13,6 @@ type: zip
 installer: true
 commands:
   play: INSTALL.EXE
-references:
-  mobygames: https://www.mobygames.com/game/dos/dark-queen-of-krynn
 files:
 - name: DQK.EXE
   size: 449402

@@ -1,5 +1,6 @@
-filename: Microsoft Flight Simulator- Japan Scenery Disk (1987)(subLOGIC) [Simulation, Addon].img.zip
+filename: Microsoft Flight Simulator- Japan Scenery Disk v1.2 (1987)(subLOGIC) [Simulation, Addon].img.zip
 tdc_id: '7789.0'
+parent_id: '7789.2'
 title:
   box: 'Microsoft Flight Simulator: Japan Scenery Disk'
 publisher: subLOGIC
@@ -10,8 +11,12 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:25:28'
-  last_modified: '2019-03-01T18:25:28'
+  last_modified: '2024-07-08T09:01:09'
+version: '1.2'
 type: zip
+media: 360K
+references:
+  mobygames: https://www.mobygames.com/game/24007/japan-scenery-disk/
 files:
 - name: SD-JAP.IMG
   size: 1474560

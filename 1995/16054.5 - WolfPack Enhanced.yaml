@@ -16,8 +16,6 @@ type: zip
 installer: true
 commands:
   play: INSTALL.EXE
-references:
-  mobygames: https://www.mobygames.com/game/dos/wolf-pack__
 files:
 - name: 2PLAYER\
   size: 0

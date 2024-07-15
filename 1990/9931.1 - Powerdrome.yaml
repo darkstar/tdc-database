@@ -19,8 +19,6 @@ type: zip
 installer: true
 commands:
   play: INSTALL.EXE
-references:
-  mobygames: https://www.mobygames.com/game/dos/powerdrome_
 files:
 - name: BIGBOB.HUF
   size: 30031

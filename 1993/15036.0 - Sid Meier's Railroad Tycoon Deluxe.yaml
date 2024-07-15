@@ -1,5 +1,6 @@
 filename: Sid Meier's Railroad Tycoon Deluxe (1993)(MicroProse Software, Inc.) [Strategy].zip
 tdc_id: '15036.0'
+parent_id: '15036.1'
 title:
   box: Sid Meier's Railroad Tycoon Deluxe
 publisher: MicroProse Software, Inc.
@@ -119,6 +120,10 @@ files:
   size: 2642
   date: '1991-04-03T02:02:24'
   crc: '0x72b3a017'
+- name: CONFIG.RRD
+  size: 18
+  date: '1980-01-01T13:00:00'
+  crc: '0xa5d3d0f1'
 - name: CREDIT.SPC
   size: 21200
   date: '1993-05-22T12:52:42'

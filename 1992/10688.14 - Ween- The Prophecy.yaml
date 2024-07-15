@@ -13,8 +13,6 @@ type: zip
 installer: true
 commands:
   play: INSTALL.EXE
-references:
-  mobygames: https://www.mobygames.com/game/dos/prophecy
 files:
 - name: ALL.ASK
   size: 8566

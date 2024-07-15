@@ -13,8 +13,6 @@ type: zip
 installer: true
 commands:
   play: INSTALL.EXE
-references:
-  mobygames: https://www.mobygames.com/game/dos/fox-ranger-ii-second-mission
 files:
 - name: 1.ZZZ
   size: 923251

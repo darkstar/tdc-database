@@ -1,17 +1,20 @@
 filename: King's Quest (1984)(IBM) [Adventure].img.zip
 tdc_id: '6153.0'
+parent_id: '6153.11'
 title:
   box: King's Quest
+  qualifier: PCjr
 publisher: IBM
 year: '1984'
 genre: Adventure
 language: English
 date:
   added: '2019-03-01T18:24:08'
-  last_modified: '2022-12-07T16:18:16'
+  last_modified: '2024-07-02T14:55:49'
 type: zip
+media: 360K
 references:
-  mobygames: https://www.mobygames.com/game/pc-booter/kings-quest
+  mobygames: https://www.mobygames.com/game/122/kings-quest/
   dosid: DOS02747
   exodos: King's Quest I - Quest for the Crown (1984).zip
 files:

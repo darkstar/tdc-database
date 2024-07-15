@@ -1,5 +1,6 @@
-filename: Ultima V- Warriors of Destiny v1.14 (1988)(ORIGIN Systems, Inc.) [Role-Playing (RPG)].zip
+filename: Ultima V- Warriors of Destiny v1.14 r880624 (1988)(ORIGIN Systems, Inc.) [Role-Playing (RPG)].zip
 tdc_id: '17029.0'
+parent_id: '17029.3'
 title:
   box: 'Ultima V: Warriors of Destiny'
 publisher: ORIGIN Systems, Inc.
@@ -10,10 +11,13 @@ date:
   added: '2019-03-01T18:26:58'
   last_modified: '2019-03-01T18:26:58'
 version: '1.14'
+release: '880624'
 type: zip
+media: 360K
 commands:
-  play: ULTIMA5.EXE
+  play: ULTIMA.EXE
 references:
+  mobygames: https://www.mobygames.com/game/808/ultima-v-warriors-of-destiny/
   dosid: DOS05411
   exodos: Ultima V - Warriors of Destiny (1988).zip
 files:
@@ -31,7 +35,7 @@ files:
   crc: '0x3420672e'
 - name: BRIT.OOL
   size: 256
-  date: '2010-01-22T18:09:22'
+  date: '1988-06-24T16:24:46'
   crc: '0x0d968558'
 - name: BRITISH.BIT
   size: 784
@@ -89,9 +93,6 @@ files:
   size: 48624
   date: '1988-06-24T16:10:28'
   crc: '0xaadfae0f'
-- name: DESKTOP.CFG
-  size: 0
-  date: '1990-12-05T00:20:02'
 - name: DNG1.16
   size: 8929
   date: '1988-06-21T10:04:56'
@@ -350,11 +351,11 @@ files:
   crc: '0x44673878'
 - name: SAVED.GAM
   size: 4192
-  date: '1980-01-01T00:54:38'
-  crc: '0xb563d4cb'
+  date: '1988-06-24T16:24:46'
+  crc: '0xd060016a'
 - name: SAVED.OOL
   size: 512
-  date: '1980-01-01T00:54:40'
+  date: '1988-06-24T16:24:46'
   crc: '0x2b61f738'
 - name: SHOPPE.DAT
   size: 10135
@@ -411,7 +412,7 @@ files:
 - name: STORY3.16
   size: 9274
   date: '1988-05-30T16:18:28'
-  crc: '0xcff80993'
+  crc: '0x69a5f2bf'
 - name: STORY3.4
   size: 7596
   date: '1988-05-23T09:06:28'
@@ -423,11 +424,11 @@ files:
 - name: STORY4.4
   size: 7932
   date: '1988-05-23T09:06:30'
-  crc: '0x2397bff6'
+  crc: '0x0ecf91db'
 - name: STORY5.16
   size: 12336
   date: '1988-05-30T16:18:34'
-  crc: '0x23bae070'
+  crc: '0xd9c21eb3'
 - name: STORY5.4
   size: 8496
   date: '1988-05-23T09:06:32'
@@ -435,7 +436,7 @@ files:
 - name: STORY6.16
   size: 15290
   date: '1988-05-30T16:18:38'
-  crc: '0x76c8da0c'
+  crc: '0x991f8ac9'
 - name: STORY6.4
   size: 12714
   date: '1988-05-23T09:06:34'
@@ -492,17 +493,21 @@ files:
   size: 14591
   date: '1988-05-23T09:06:42'
   crc: '0x72edf83b'
-- name: ULTIMA5.EXE
+- name: ULTIMA.EXE
+  size: 35264
+  date: '1988-06-24T16:10:28'
+  crc: '0x12e1892d'
+- name: ULTIMA.EX_
   size: 36576
   date: '1988-06-24T16:10:28'
-  crc: '0x8c010239'
+  crc: '0x4eff23c2'
 - name: UNDER.DAT
   size: 65536
   date: '1988-02-24T16:03:38'
   crc: '0x15c54d3a'
 - name: UNDER.OOL
   size: 256
-  date: '2010-01-22T18:09:22'
+  date: '1988-06-24T16:24:46'
   crc: '0x945d0718'
 - name: WD.BIT
   size: 1772

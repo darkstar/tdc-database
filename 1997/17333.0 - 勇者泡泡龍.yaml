@@ -1,774 +1,1667 @@
-filename: 勇者泡泡龍 (1997)(Lonai Software) [Action].zip
+filename: 勇者泡泡龍 (Installer) (Zh) (1997)(Lonai Software) [Action].zip
 tdc_id: '17333.0'
+parent_id: '17333.1'
 title:
-  screen: 勇者泡泡龍
+  box: 勇者泡泡龍
   translation: Brave Bubble Dragon
   transliteration: Yongzhe Paopao Long
+  qualifier: Installer
 publisher: Lonai Software
 year: '1997'
 genre: Action
-language: English
+language: Chinese
 date:
   added: '2023-07-31T08:41:53'
-  last_modified: '2023-07-31T08:41:53'
+  last_modified: '2024-05-27T12:58:17'
 type: zip
+media: CD-ROM
+installer: true
+audio:
+- CD-DA
 commands:
-  play: GAME.EXE
+  play: BOBO\PLAY.EXE
 references:
   mobygames: https://www.mobygames.com/game/89373/yongzhe-paopao-long/
 files:
-- name: AA1.INX
+- name: BDSCR\
+  size: 0
+  date: '1997-01-21T16:59:44'
+- name: BDSCR\BD.ZIP
+  size: 164172
+  date: '1996-12-02T14:22:36'
+  crc: '0x492b57fb'
+- name: BDSCR\INSTALL.BAT
+  size: 115
+  date: '1996-12-02T15:43:48'
+  crc: '0xd99ada00'
+- name: BDSCR\PKUNZIP.EXE
+  size: 28959
+  date: '1993-02-01T02:04:16'
+  crc: '0xeeaac5ea'
+- name: BDSCR\README.TXT
+  size: 306
+  date: '1996-12-02T15:00:02'
+  crc: '0xa63ba486'
+- name: BG_INS.LON
+  size: 64772
+  date: '1997-12-15T11:17:38'
+  crc: '0xfdf0af2b'
+- name: BOBO\
+  size: 0
+  date: '1997-01-21T16:59:44'
+- name: BOBO\AA1.INX
   size: 64772
   date: '2011-11-20T20:58:58'
   crc: '0x57f62e8c'
-- name: AA2.INX
+- name: BOBO\AA2.INX
   size: 64772
   date: '2011-11-20T20:59:06'
   crc: '0x5507264f'
-- name: AA3.INX
+- name: BOBO\AA3.INX
   size: 64772
   date: '2011-11-20T20:59:16'
   crc: '0xace3b12d'
-- name: AA4.INX
+- name: BOBO\AA4.INX
   size: 64772
   date: '2011-11-20T20:59:24'
   crc: '0x3673ae5f'
-- name: AA5.INX
+- name: BOBO\AA5.INX
   size: 64772
   date: '2011-11-20T20:59:34'
   crc: '0x2c2b3318'
-- name: ART1.INX
+- name: BOBO\ART1.INX
   size: 51840
   date: '1996-12-03T14:35:30'
   crc: '0x6e3588f6'
-- name: ART2.INX
+- name: BOBO\ART2.INX
   size: 57600
   date: '2001-01-13T16:00:24'
   crc: '0x8322a9b7'
-- name: ART3.INX
+- name: BOBO\ART3.INX
   size: 28160
   date: '1996-12-13T02:18:26'
   crc: '0x2c1673f7'
-- name: ART4.INX
+- name: BOBO\ART4.INX
   size: 46464
   date: '1996-12-20T03:31:42'
   crc: '0xccca349c'
-- name: ART5.INX
+- name: BOBO\ART5.INX
   size: 23040
   date: '2013-01-02T04:05:02'
   crc: '0x0a91ede1'
-- name: ART6.INX
+- name: BOBO\ART6.INX
   size: 41472
   date: '2013-01-03T04:55:40'
   crc: '0xa88ae87b'
-- name: ATT1.INX
+- name: BOBO\ATT1.INX
   size: 1000
   date: '2011-11-27T08:55:44'
   crc: '0x74266458'
-- name: ATT2.INX
+- name: BOBO\ATT2.INX
   size: 1000
   date: '1996-12-03T11:18:20'
   crc: '0x47957441'
-- name: ATT21.INX
+- name: BOBO\ATT21.INX
   size: 1000
   date: '1996-12-05T17:29:50'
   crc: '0x390c36d0'
-- name: ATT22.INX
+- name: BOBO\ATT22.INX
   size: 1000
   date: '1996-12-05T17:31:18'
   crc: '0x99de32c2'
-- name: ATT23.INX
+- name: BOBO\ATT23.INX
   size: 1000
   date: '1996-12-05T17:31:24'
   crc: '0xe3ad9e9e'
-- name: ATT24.INX
+- name: BOBO\ATT24.INX
   size: 1000
   date: '1996-12-05T17:31:38'
   crc: '0x1c7ab56f'
-- name: ATT25.INX
+- name: BOBO\ATT25.INX
   size: 1000
   date: '2013-01-07T19:38:54'
   crc: '0xc46e6cbc'
-- name: ATT26.INX
+- name: BOBO\ATT26.INX
   size: 1000
   date: '1996-12-11T16:25:20'
   crc: '0x0b30dab3'
-- name: ATT27.INX
+- name: BOBO\ATT27.INX
   size: 1000
   date: '1997-01-18T20:53:26'
   crc: '0x880ce59a'
-- name: ATT3.INX
+- name: BOBO\ATT3.INX
   size: 1000
   date: '2011-11-27T16:27:20'
   crc: '0xbfd2238a'
-- name: ATT31.INX
+- name: BOBO\ATT31.INX
   size: 1000
   date: '1996-12-12T01:26:18'
   crc: '0xc77a2541'
-- name: ATT32.INX
+- name: BOBO\ATT32.INX
   size: 1000
   date: '1996-12-12T07:42:00'
   crc: '0xc4c363b2'
-- name: ATT33.INX
+- name: BOBO\ATT33.INX
   size: 1000
   date: '1996-12-12T01:26:32'
   crc: '0x7e852df7'
-- name: ATT34.INX
+- name: BOBO\ATT34.INX
   size: 1000
   date: '1996-12-12T01:26:38'
   crc: '0xdba8dbc9'
-- name: ATT35.INX
+- name: BOBO\ATT35.INX
   size: 1000
   date: '1996-12-12T01:26:44'
   crc: '0x486c91eb'
-- name: ATT36.INX
+- name: BOBO\ATT36.INX
   size: 1000
   date: '1996-12-12T01:26:52'
   crc: '0x0e9a862b'
-- name: ATT37.INX
+- name: BOBO\ATT37.INX
   size: 1000
   date: '1996-12-12T01:26:58'
   crc: '0x0f5a22b5'
-- name: ATT38.INX
+- name: BOBO\ATT38.INX
   size: 1000
   date: '1996-12-12T01:27:06'
   crc: '0xb2ebd468'
-- name: ATT4.INX
+- name: BOBO\ATT4.INX
   size: 1000
   date: '1996-12-12T07:24:18'
   crc: '0x95c71038'
-- name: ATT41.INX
+- name: BOBO\ATT41.INX
   size: 1000
   date: '1996-12-20T02:58:58'
   crc: '0xf1bf2d5b'
-- name: ATT410.INX
+- name: BOBO\ATT410.INX
   size: 1000
   date: '1996-12-20T03:00:02'
   crc: '0x8d6ad6e8'
-- name: ATT411.INX
+- name: BOBO\ATT411.INX
   size: 1000
   date: '1996-12-20T03:00:10'
   crc: '0x3ac6a82e'
-- name: ATT42.INX
+- name: BOBO\ATT42.INX
   size: 1000
   date: '1996-12-20T02:59:08'
   crc: '0xbbf38d79'
-- name: ATT43.INX
+- name: BOBO\ATT43.INX
   size: 1000
   date: '1997-01-18T16:36:14'
   crc: '0x0b3a0b2b'
-- name: ATT44.INX
+- name: BOBO\ATT44.INX
   size: 1000
   date: '1996-12-20T02:59:22'
   crc: '0x6c2c1864'
-- name: ATT45.INX
+- name: BOBO\ATT45.INX
   size: 1000
   date: '1997-01-18T16:34:54'
   crc: '0x4879d095'
-- name: ATT46.INX
+- name: BOBO\ATT46.INX
   size: 1000
   date: '1996-12-20T02:59:34'
   crc: '0x06a9bf97'
-- name: ATT47.INX
+- name: BOBO\ATT47.INX
   size: 1000
   date: '2001-01-13T20:50:48'
   crc: '0xe9cf9e84'
-- name: ATT48.INX
+- name: BOBO\ATT48.INX
   size: 1000
   date: '2013-01-07T19:29:40'
   crc: '0x6198f8b1'
-- name: ATT49.INX
+- name: BOBO\ATT49.INX
   size: 1000
   date: '1997-01-18T16:35:06'
   crc: '0xe2a6cc11'
-- name: ATT4X.INX
+- name: BOBO\ATT4X.INX
   size: 1000
   date: '2001-01-13T18:58:44'
   crc: '0xa9fcbbb2'
-- name: ATT5.INX
+- name: BOBO\ATT5.INX
   size: 1000
   date: '1996-12-03T11:19:06'
   crc: '0xaeb7f553'
-- name: ATT51.INX
+- name: BOBO\ATT51.INX
   size: 1000
   date: '1997-01-18T16:35:14'
   crc: '0x81bd77ea'
-- name: ATT510.INX
+- name: BOBO\ATT510.INX
   size: 1000
   date: '2013-01-02T01:53:24'
   crc: '0xb9dba9db'
-- name: ATT52.INX
+- name: BOBO\ATT52.INX
   size: 1000
   date: '2013-01-02T01:52:20'
   crc: '0x50ce7b9b'
-- name: ATT53.INX
+- name: BOBO\ATT53.INX
   size: 1000
   date: '2013-01-02T01:52:38'
   crc: '0x0d525546'
-- name: ATT54.INX
+- name: BOBO\ATT54.INX
   size: 1000
   date: '2013-01-02T01:52:46'
   crc: '0xaa1be847'
-- name: ATT55.INX
+- name: BOBO\ATT55.INX
   size: 1000
   date: '2013-01-02T01:52:52'
   crc: '0xaf53a9af'
-- name: ATT56.INX
+- name: BOBO\ATT56.INX
   size: 1000
   date: '2013-01-02T01:52:58'
   crc: '0xf15a8cf9'
-- name: ATT57.INX
+- name: BOBO\ATT57.INX
   size: 1000
   date: '1997-01-18T16:35:24'
   crc: '0x9dcd405f'
-- name: ATT58.INX
+- name: BOBO\ATT58.INX
   size: 1000
   date: '2013-01-02T01:53:10'
   crc: '0x993930e7'
-- name: ATT59.INX
+- name: BOBO\ATT59.INX
   size: 1000
   date: '2013-01-02T01:53:16'
   crc: '0x8232e3b9'
-- name: ATT6.INX
+- name: BOBO\ATT6.INX
   size: 1000
   date: '1996-12-03T11:19:12'
   crc: '0xe0e5cdeb'
-- name: ATT61.INX
+- name: BOBO\ATT61.INX
   size: 1000
   date: '2013-01-02T02:33:36'
   crc: '0x5d7c2ef5'
-- name: ATT610.INX
+- name: BOBO\ATT610.INX
   size: 1000
   date: '2013-01-02T02:35:12'
   crc: '0xfddf050d'
-- name: ATT611.INX
+- name: BOBO\ATT611.INX
   size: 1000
   date: '2013-01-02T02:35:42'
   crc: '0x64c43046'
-- name: ATT612.INX
+- name: BOBO\ATT612.INX
   size: 1000
   date: '2013-01-02T02:35:52'
   crc: '0x0fef4ee4'
-- name: ATT613.INX
+- name: BOBO\ATT613.INX
   size: 1000
   date: '2013-01-02T02:36:00'
   crc: '0x8cd7b2f9'
-- name: ATT614.INX
+- name: BOBO\ATT614.INX
   size: 1000
   date: '2013-01-02T02:36:10'
   crc: '0x23eb5b13'
-- name: ATT615.INX
+- name: BOBO\ATT615.INX
   size: 1000
   date: '2013-01-02T02:36:34'
   crc: '0x90de59ed'
-- name: ATT62.INX
+- name: BOBO\ATT62.INX
   size: 1000
   date: '1997-01-18T16:34:10'
   crc: '0xb748dc44'
-- name: ATT63.INX
+- name: BOBO\ATT63.INX
   size: 1000
   date: '2013-01-02T02:33:54'
   crc: '0x7f5426b1'
-- name: ATT64.INX
+- name: BOBO\ATT64.INX
   size: 1000
   date: '2013-01-02T02:34:02'
   crc: '0x0f3013ce'
-- name: ATT65.INX
+- name: BOBO\ATT65.INX
   size: 1000
   date: '1997-01-18T16:34:18'
   crc: '0x6b4e089a'
-- name: ATT66.INX
+- name: BOBO\ATT66.INX
   size: 1000
   date: '1997-01-18T16:34:26'
   crc: '0x4e7938e0'
-- name: ATT67.INX
+- name: BOBO\ATT67.INX
   size: 1000
   date: '2013-01-02T02:34:34'
   crc: '0x3c31851f'
-- name: ATT68.INX
+- name: BOBO\ATT68.INX
   size: 1000
   date: '2013-01-02T02:34:44'
   crc: '0x965a3fdc'
-- name: ATT69.INX
+- name: BOBO\ATT69.INX
   size: 1000
   date: '1997-01-18T16:34:34'
   crc: '0x68470787'
-- name: BACK1.INX
+- name: BOBO\BACK1.INX
   size: 64772
   date: '2013-01-07T21:23:00'
   crc: '0xb9fe5c50'
-- name: BACK2.INX
+- name: BOBO\BACK2.INX
   size: 64772
   date: '2001-01-14T21:17:52'
   crc: '0x84fef75d'
-- name: BACK3.INX
+- name: BOBO\BACK3.INX
   size: 64772
   date: '2001-01-15T15:07:38'
   crc: '0xfc6a9c7b'
-- name: BACK4.INX
+- name: BOBO\BACK4.INX
   size: 64772
   date: '1997-01-18T15:44:06'
   crc: '0x8b044e12'
-- name: BACK5.INX
+- name: BOBO\BACK5.INX
   size: 64772
   date: '1997-01-17T15:15:08'
   crc: '0x2ec6df64'
-- name: BACK6.INX
+- name: BOBO\BACK6.INX
   size: 64772
   date: '1997-01-17T15:16:28'
   crc: '0x67b462e2'
-- name: BG1.INX
+- name: BOBO\BG1.INX
   size: 64772
   date: '1996-12-26T02:13:20'
   crc: '0xd55b2ee1'
-- name: BG2.INX
+- name: BOBO\BG2.INX
   size: 64772
   date: '1996-12-26T02:13:26'
   crc: '0x895a8e37'
-- name: BG21.INX
+- name: BOBO\BG21.INX
   size: 64772
   date: '1996-12-05T17:28:26'
   crc: '0xf3c4a7a0'
-- name: BG22.INX
+- name: BOBO\BG22.INX
   size: 64772
   date: '1996-12-05T17:29:04'
   crc: '0x21540ab6'
-- name: BG23.INX
+- name: BOBO\BG23.INX
   size: 64772
   date: '1996-12-05T17:28:58'
   crc: '0x9d149ee2'
-- name: BG24.INX
+- name: BOBO\BG24.INX
   size: 64772
   date: '1996-12-05T17:29:16'
   crc: '0xd80ac55b'
-- name: BG25.INX
+- name: BOBO\BG25.INX
   size: 64772
   date: '1996-12-10T09:04:06'
   crc: '0x1c2cd8af'
-- name: BG26.INX
+- name: BOBO\BG26.INX
   size: 64772
   date: '1996-12-11T16:25:10'
   crc: '0x314e4e6d'
-- name: BG27.INX
+- name: BOBO\BG27.INX
   size: 64772
   date: '1996-12-05T17:29:40'
   crc: '0x9a78fc0a'
-- name: BG3.INX
+- name: BOBO\BG3.INX
   size: 64772
   date: '1996-12-26T02:13:34'
   crc: '0x18325059'
-- name: BG31.INX
+- name: BOBO\BG31.INX
   size: 64772
   date: '1996-12-12T01:25:06'
   crc: '0xd747153b'
-- name: BG32.INX
+- name: BOBO\BG32.INX
   size: 64772
   date: '1996-12-12T01:25:18'
   crc: '0xb0e57ed1'
-- name: BG33.INX
+- name: BOBO\BG33.INX
   size: 64772
   date: '1996-12-12T01:25:26'
   crc: '0xb9e746b6'
-- name: BG34.INX
+- name: BOBO\BG34.INX
   size: 64772
   date: '1996-12-12T01:25:32'
   crc: '0x776ca968'
-- name: BG35.INX
+- name: BOBO\BG35.INX
   size: 64772
   date: '1996-12-12T01:25:40'
   crc: '0x91ebb289'
-- name: BG36.INX
+- name: BOBO\BG36.INX
   size: 64772
   date: '1996-12-12T01:25:48'
   crc: '0x91ed8406'
-- name: BG37.INX
+- name: BOBO\BG37.INX
   size: 64772
   date: '1996-12-12T01:25:58'
   crc: '0xd79dd038'
-- name: BG38.INX
+- name: BOBO\BG38.INX
   size: 64772
   date: '1996-12-12T01:26:06'
   crc: '0x628c4794'
-- name: BG4.INX
+- name: BOBO\BG4.INX
   size: 64772
   date: '1996-12-26T02:13:42'
   crc: '0x9e9ec2f1'
-- name: BG41.INX
+- name: BOBO\BG41.INX
   size: 64772
   date: '1996-12-20T02:56:56'
   crc: '0xe073c7f9'
-- name: BG410.INX
+- name: BOBO\BG410.INX
   size: 64772
   date: '1996-12-20T02:58:04'
   crc: '0x58745fba'
-- name: BG411.INX
+- name: BOBO\BG411.INX
   size: 64772
   date: '1996-12-20T02:58:10'
   crc: '0x7c078d59'
-- name: BG42.INX
+- name: BOBO\BG42.INX
   size: 64772
   date: '1996-12-20T02:57:06'
   crc: '0xa867fee9'
-- name: BG43.INX
+- name: BOBO\BG43.INX
   size: 64772
   date: '1996-12-20T02:57:12'
   crc: '0xf91312b5'
-- name: BG44.INX
+- name: BOBO\BG44.INX
   size: 64772
   date: '1996-12-20T02:57:18'
   crc: '0xde203539'
-- name: BG45.INX
+- name: BOBO\BG45.INX
   size: 64772
   date: '1996-12-20T02:57:24'
   crc: '0x75d9f120'
-- name: BG46.INX
+- name: BOBO\BG46.INX
   size: 64772
   date: '1996-12-20T02:57:30'
   crc: '0x28b2b2ec'
-- name: BG47.INX
+- name: BOBO\BG47.INX
   size: 64772
   date: '1996-12-20T02:57:38'
   crc: '0xaa1345cc'
-- name: BG48.INX
+- name: BOBO\BG48.INX
   size: 64772
   date: '1996-12-20T02:57:44'
   crc: '0x9216833e'
-- name: BG49.INX
+- name: BOBO\BG49.INX
   size: 64772
   date: '2001-01-14T14:47:12'
   crc: '0x9996356d'
-- name: BG4X.INX
+- name: BOBO\BG4X.INX
   size: 64772
   date: '1996-12-20T02:58:18'
   crc: '0xcca189bc'
-- name: BG5.INX
+- name: BOBO\BG5.INX
   size: 64772
   date: '1996-12-26T02:13:52'
   crc: '0xc6f72f9b'
-- name: BG51.INX
+- name: BOBO\BG51.INX
   size: 64772
   date: '2013-01-02T01:48:30'
   crc: '0xc9727abd'
-- name: BG510.INX
+- name: BOBO\BG510.INX
   size: 64772
   date: '2013-01-02T01:49:38'
   crc: '0x19f0b49b'
-- name: BG52.INX
+- name: BOBO\BG52.INX
   size: 64772
   date: '2013-01-02T01:48:38'
   crc: '0x476d63a8'
-- name: BG53.INX
+- name: BOBO\BG53.INX
   size: 64772
   date: '2013-01-02T01:48:48'
   crc: '0xfd39dcae'
-- name: BG54.INX
+- name: BOBO\BG54.INX
   size: 64772
   date: '2013-01-02T01:48:54'
   crc: '0x7dded0c0'
-- name: BG55.INX
+- name: BOBO\BG55.INX
   size: 64772
   date: '2013-01-02T01:49:02'
   crc: '0x46d30274'
-- name: BG56.INX
+- name: BOBO\BG56.INX
   size: 64772
   date: '2013-01-02T01:49:10'
   crc: '0x501eec8f'
-- name: BG57.INX
+- name: BOBO\BG57.INX
   size: 64772
   date: '2013-01-02T01:49:18'
   crc: '0x0b5ba23e'
-- name: BG58.INX
+- name: BOBO\BG58.INX
   size: 64772
   date: '2013-01-02T01:49:24'
   crc: '0x90659c8f'
-- name: BG59.INX
+- name: BOBO\BG59.INX
   size: 64772
   date: '2013-01-02T01:49:32'
   crc: '0xb034fe0c'
-- name: BG6.INX
+- name: BOBO\BG6.INX
   size: 64772
   date: '1996-12-26T02:14:00'
   crc: '0x56258ce6'
-- name: BG61.INX
+- name: BOBO\BG61.INX
   size: 64772
   date: '2013-01-02T02:30:18'
   crc: '0x1073165c'
-- name: BG610.INX
+- name: BOBO\BG610.INX
   size: 64772
   date: '2013-01-02T02:31:54'
   crc: '0x6ff1d4c5'
-- name: BG611.INX
+- name: BOBO\BG611.INX
   size: 64772
   date: '2013-01-02T02:31:40'
   crc: '0xa9b9d324'
-- name: BG612.INX
+- name: BOBO\BG612.INX
   size: 64772
   date: '2013-01-02T02:32:04'
   crc: '0x5aa3f0f3'
-- name: BG613.INX
+- name: BOBO\BG613.INX
   size: 64772
   date: '2013-01-02T02:32:14'
   crc: '0x9ce5d95b'
-- name: BG614.INX
+- name: BOBO\BG614.INX
   size: 64772
   date: '2013-01-02T02:32:22'
   crc: '0xaf0643da'
-- name: BG615.INX
+- name: BOBO\BG615.INX
   size: 64772
   date: '2013-01-02T02:32:30'
   crc: '0xe239a785'
-- name: BG62.INX
+- name: BOBO\BG62.INX
   size: 64772
   date: '2013-01-02T02:30:26'
   crc: '0xd9d1ba08'
-- name: BG63.INX
+- name: BOBO\BG63.INX
   size: 64772
   date: '2013-01-02T02:30:34'
   crc: '0x36390090'
-- name: BG64.INX
+- name: BOBO\BG64.INX
   size: 64772
   date: '2013-01-02T02:30:40'
   crc: '0x52bf03f0'
-- name: BG65.INX
+- name: BOBO\BG65.INX
   size: 64772
   date: '2013-01-02T02:30:50'
   crc: '0x9a92883a'
-- name: BG66.INX
+- name: BOBO\BG66.INX
   size: 64772
   date: '2013-01-02T02:30:58'
   crc: '0xbbc4825c'
-- name: BG67.INX
+- name: BOBO\BG67.INX
   size: 64772
   date: '2013-01-02T02:31:04'
   crc: '0x8bdd3b56'
-- name: BG68.INX
+- name: BOBO\BG68.INX
   size: 64772
   date: '2013-01-02T02:31:14'
   crc: '0x08de15f3'
-- name: BG69.INX
+- name: BOBO\BG69.INX
   size: 64772
   date: '2013-01-02T02:31:22'
   crc: '0xe51b72dd'
-- name: BG_CON.LON
+- name: BOBO\BG_CON.LON
   size: 64772
   date: '2012-12-17T19:10:30'
   crc: '0x241517d1'
-- name: BG_KO.LON
+- name: BOBO\BG_KO.LON
   size: 64772
   date: '1996-12-27T18:00:48'
   crc: '0x4ebdd2c3'
-- name: BG_LON.LON
+- name: BOBO\BG_LON.LON
   size: 64772
   date: '2012-12-26T12:47:56'
   crc: '0xebfe5248'
-- name: BG_NAM.LON
+- name: BOBO\BG_NAM.LON
   size: 64772
   date: '1997-01-06T13:42:06'
   crc: '0x43e033cc'
-- name: BG_OV.LON
+- name: BOBO\BG_OV.LON
   size: 64772
   date: '2012-12-17T18:24:04'
   crc: '0x8b19cf81'
-- name: BG_SEL.LON
+- name: BOBO\BG_SEL.LON
   size: 64772
   date: '2012-12-23T11:03:28'
   crc: '0xc3ae40b7'
-- name: BG_ST.LON
+- name: BOBO\BG_ST.LON
   size: 64772
   date: '1996-12-08T09:22:56'
   crc: '0xe05fd68a'
-- name: BIG1.INX
+- name: BOBO\BIG1.INX
   size: 51840
   date: '1996-12-03T14:32:34'
   crc: '0xfa5099ab'
-- name: BIG2.INX
+- name: BOBO\BIG2.INX
   size: 57024
   date: '1996-12-10T14:54:48'
   crc: '0x7a679e09'
-- name: BIG3.INX
+- name: BOBO\BIG3.INX
   size: 42240
   date: '1996-12-13T02:16:56'
   crc: '0xccdcda45'
-- name: BIG4.INX
+- name: BOBO\BIG4.INX
   size: 61952
   date: '1996-12-20T03:30:38'
   crc: '0xc81f4f53'
-- name: BIG5.INX
+- name: BOBO\BIG5.INX
   size: 42240
   date: '2013-01-02T04:01:52'
   crc: '0x06b4dcf2'
-- name: BIG6.INX
+- name: BOBO\BIG6.INX
   size: 48384
   date: '2013-01-03T04:53:26'
   crc: '0x519f7194'
+- name: BOBO\CCC\
+  size: 0
+  date: '1997-01-21T17:00:02'
+- name: BOBO\CCC\AEMO-01.CCC
+  size: 10958
+  date: '1997-01-06T21:38:08'
+  crc: '0xf5c7c8a7'
+- name: BOBO\CCC\AEMO-02.CCC
+  size: 4720
+  date: '1997-01-06T21:48:52'
+  crc: '0x9765b0d0'
+- name: BOBO\CCC\AEMO-03.CCC
+  size: 7000
+  date: '1997-01-06T21:54:08'
+  crc: '0x19f93e4c'
+- name: BOBO\CCC\AEMO-04.CCC
+  size: 10251
+  date: '1997-01-06T22:05:32'
+  crc: '0xede7991a'
+- name: BOBO\CCC\AEMO-04F.CCC
+  size: 9243
+  date: '1997-01-06T22:09:30'
+  crc: '0x16e5864f'
+- name: BOBO\CCC\AEMO-05.CCC
+  size: 10861
+  date: '1997-01-13T04:22:34'
+  crc: '0xddf8cb06'
+- name: BOBO\CCC\AEMO-05F.CCC
+  size: 10861
+  date: '1997-01-13T04:29:16'
+  crc: '0x76194a35'
+- name: BOBO\CCC\AEMO-06.CCC
+  size: 12828
+  date: '1997-01-13T04:29:52'
+  crc: '0xae38640b'
+- name: BOBO\CCC\AEMO-06F.CCC
+  size: 12828
+  date: '1997-01-13T04:30:56'
+  crc: '0xaffa79de'
+- name: BOBO\CCC\AEMO-07.CCC
+  size: 16083
+  date: '1997-01-06T22:45:36'
+  crc: '0xe9de30a3'
+- name: BOBO\CCC\AEMO-07F.CCC
+  size: 16083
+  date: '1997-01-06T22:47:40'
+  crc: '0x10f49650'
+- name: BOBO\CCC\AEMO-08.CCC
+  size: 6661
+  date: '1997-01-18T14:07:22'
+  crc: '0x0416e4eb'
+- name: BOBO\CCC\AEMO-08F.CCC
+  size: 6661
+  date: '1997-01-18T14:08:42'
+  crc: '0x59f7043e'
+- name: BOBO\CCC\AEMO-10.CCC
+  size: 1053
+  date: '1990-07-04T20:49:20'
+  crc: '0x1e839a91'
+- name: BOBO\DEMO11.INX
+  size: 4406
+  date: '1997-01-18T16:05:16'
+  crc: '0xcf9526c0'
+- name: BOBO\DEMO14.INX
+  size: 1051
+  date: '1997-01-17T17:26:14'
+  crc: '0x44a5016d'
+- name: BOBO\DEMO21.INX
+  size: 5268
+  date: '1997-01-18T16:09:54'
+  crc: '0xdabd4d02'
+- name: BOBO\DEMO23.INX
+  size: 6848
+  date: '1997-01-18T20:22:56'
+  crc: '0xe2b9d67f'
+- name: BOBO\DEMO31.INX
+  size: 3596
+  date: '1997-01-18T16:21:02'
+  crc: '0x106397df'
+- name: BOBO\DEMO33.INX
+  size: 1760
+  date: '1997-01-18T20:35:44'
+  crc: '0xb4c720bf'
+- name: BOBO\DEMO41.INX
+  size: 3582
+  date: '1997-01-18T16:29:52'
+  crc: '0x2acef92a'
+- name: BOBO\DEMO48.INX
+  size: 2554
+  date: '1997-01-18T20:42:16'
+  crc: '0x0b175cc9'
+- name: BOBO\DEMO51.INX
+  size: 3322
+  date: '1997-01-18T16:39:22'
+  crc: '0x77c7c6b8'
+- name: BOBO\DEMO61.INX
+  size: 4825
+  date: '1997-01-18T16:43:32'
+  crc: '0xc1372427'
+- name: BOBO\EMY1.INX
+  size: 12672
+  date: '2011-11-28T10:41:46'
+  crc: '0xbda34337'
+- name: BOBO\EMY10.INX
+  size: 8640
+  date: '2013-01-09T15:12:18'
+  crc: '0x0dc5dffd'
+- name: BOBO\EMY11.INX
+  size: 28800
+  date: '1996-12-07T10:23:44'
+  crc: '0x3665e4d9'
+- name: BOBO\EMY12.INX
+  size: 28800
+  date: '1996-12-07T10:26:58'
+  crc: '0xb0e2c7b2'
+- name: BOBO\EMY2.INX
+  size: 11520
+  date: '2011-11-28T09:49:58'
+  crc: '0x87fa039e'
+- name: BOBO\EMY3.INX
+  size: 10944
+  date: '2011-11-28T10:44:54'
+  crc: '0x03350201'
+- name: BOBO\EMY4.INX
+  size: 6912
+  date: '2013-01-09T15:09:30'
+  crc: '0x11a469ed'
+- name: BOBO\EMY5.INX
+  size: 6912
+  date: '2011-11-28T11:46:30'
+  crc: '0x347711e3'
+- name: BOBO\EMY6.INX
+  size: 6912
+  date: '1996-12-06T14:53:00'
+  crc: '0xe7f7d15e'
+- name: BOBO\EMY7.INX
+  size: 8064
+  date: '1996-12-06T15:31:36'
+  crc: '0xf223f5ab'
+- name: BOBO\EMY8.INX
+  size: 35200
+  date: '1996-12-06T15:34:54'
+  crc: '0x3524e8af'
+- name: BOBO\EMY9.INX
+  size: 6912
+  date: '2013-01-07T17:26:00'
+  crc: '0xc69d505e'
+- name: BOBO\EMYT.INX
+  size: 13824
+  date: '2011-11-26T16:01:26'
+  crc: '0xc85ed0d7'
+- name: BOBO\EMYX.INX
+  size: 6144
+  date: '2013-01-06T19:46:56'
+  crc: '0x59ce7eec'
+- name: BOBO\EXIT.INX
+  size: 7808
+  date: '2001-01-14T02:55:02'
+  crc: '0x196b181b'
+- name: BOBO\GG1.INX
+  size: 4032
+  date: '1996-12-03T14:43:02'
+  crc: '0x7429f836'
+- name: BOBO\GG2.INX
+  size: 4608
+  date: '1996-12-10T15:00:12'
+  crc: '0x8ee185e7'
+- name: BOBO\GG3.INX
+  size: 9600
+  date: '1996-12-13T02:19:46'
+  crc: '0x66833f7f'
+- name: BOBO\GG4.INX
+  size: 4608
+  date: '1996-12-20T03:32:50'
+  crc: '0x69294003'
+- name: BOBO\GG5.INX
+  size: 41472
+  date: '2013-01-07T19:37:06'
+  crc: '0x97de656e'
+- name: BOBO\GG6.INX
+  size: 12288
+  date: '2013-01-03T04:56:18'
+  crc: '0x5f3b32fb'
+- name: BOBO\LFOOD.INX
+  size: 14400
+  date: '1996-12-04T14:38:04'
+  crc: '0x9cccf441'
+- name: BOBO\LON.INX
+  size: 64772
+  date: '1996-12-25T06:34:52'
+  crc: '0xebfe5248'
+- name: BOBO\LSCORE.INX
+  size: 4608
+  date: '2011-11-28T14:39:02'
+  crc: '0x862e3165'
+- name: BOBO\MAN.INX
+  size: 34560
+  date: '2011-11-29T15:02:48'
+  crc: '0x8ed62f08'
+- name: BOBO\MFOOD.INX
+  size: 4608
+  date: '2011-11-28T14:30:18'
+  crc: '0xf6de5de2'
+- name: BOBO\MM.INX
+  size: 42048
+  date: '2013-01-06T19:56:44'
+  crc: '0x60fb5f5d'
+- name: BOBO\MMCH.INX
+  size: 29952
+  date: '2013-01-07T19:59:46'
+  crc: '0xa31155c9'
+- name: BOBO\NN.INX
+  size: 42048
+  date: '2013-01-06T17:11:52'
+  crc: '0x6fa2ec82'
+- name: BOBO\NNCH.INX
+  size: 29952
+  date: '2013-01-06T17:51:16'
+  crc: '0xd87dddc5'
+- name: BOBO\NO.INX
+  size: 960
+  date: '2011-11-21T16:10:16'
+  crc: '0xee845797'
+- name: BOBO\PLAY.EXE
+  size: 417683
+  date: '1997-01-19T03:18:16'
+  crc: '0x710ff3d9'
+- name: BOBO\PP5.INX
+  size: 2304
+  date: '2013-01-02T04:07:32'
+  crc: '0x0f3d83bc'
+- name: BOBO\PP6.INX
+  size: 2048
+  date: '2013-01-03T04:57:00'
+  crc: '0x761913b9'
 - name: BOBO\README.TXT
   size: 1493
   date: '1997-01-19T03:26:32'
   crc: '0x758b6a69'
-- name: CCC\AEMO-01.CCC
-  size: 10958
-  date: '1997-01-06T21:38:08'
-  crc: '0xf5c7c8a7'
-- name: CCC\AEMO-02.CCC
-  size: 4720
-  date: '1997-01-06T21:48:52'
-  crc: '0x9765b0d0'
-- name: CCC\AEMO-03.CCC
-  size: 7000
-  date: '1997-01-06T21:54:08'
-  crc: '0x19f93e4c'
-- name: CCC\AEMO-04.CCC
-  size: 10251
-  date: '1997-01-06T22:05:32'
-  crc: '0xede7991a'
-- name: CCC\AEMO-04F.CCC
-  size: 9243
-  date: '1997-01-06T22:09:30'
-  crc: '0x16e5864f'
-- name: CCC\AEMO-05.CCC
-  size: 10861
-  date: '1997-01-13T04:22:34'
-  crc: '0xddf8cb06'
-- name: CCC\AEMO-05F.CCC
-  size: 10861
-  date: '1997-01-13T04:29:16'
-  crc: '0x76194a35'
-- name: CCC\AEMO-06.CCC
-  size: 12828
-  date: '1997-01-13T04:29:52'
-  crc: '0xae38640b'
-- name: CCC\AEMO-06F.CCC
-  size: 12828
-  date: '1997-01-13T04:30:56'
-  crc: '0xaffa79de'
-- name: CCC\AEMO-07.CCC
-  size: 16083
-  date: '1997-01-06T22:45:36'
-  crc: '0xe9de30a3'
-- name: CCC\AEMO-07F.CCC
-  size: 16083
-  date: '1997-01-06T22:47:40'
-  crc: '0x10f49650'
-- name: CCC\AEMO-08.CCC
-  size: 6661
-  date: '1997-01-18T14:07:22'
-  crc: '0x0416e4eb'
-- name: CCC\AEMO-08F.CCC
-  size: 6661
-  date: '1997-01-18T14:08:42'
-  crc: '0x59f7043e'
-- name: CCC\AEMO-10.CCC
-  size: 1053
-  date: '1990-07-04T20:49:20'
-  crc: '0x1e839a91'
-- name: CDX.EXE
-  size: 8944
-  date: '1995-09-03T20:54:00'
-  crc: '0xca920ed3'
-- name: DEMO11.INX
-  size: 4406
-  date: '1997-01-18T16:05:16'
-  crc: '0xcf9526c0'
-- name: DEMO14.INX
-  size: 1051
-  date: '1997-01-17T17:26:14'
-  crc: '0x44a5016d'
-- name: DEMO21.INX
-  size: 5268
-  date: '1997-01-18T16:09:54'
-  crc: '0xdabd4d02'
-- name: DEMO23.INX
-  size: 6848
-  date: '1997-01-18T20:22:56'
-  crc: '0xe2b9d67f'
-- name: DEMO31.INX
-  size: 3596
-  date: '1997-01-18T16:21:02'
-  crc: '0x106397df'
-- name: DEMO33.INX
-  size: 1760
-  date: '1997-01-18T20:35:44'
-  crc: '0xb4c720bf'
-- name: DEMO41.INX
-  size: 3582
-  date: '1997-01-18T16:29:52'
-  crc: '0x2acef92a'
-- name: DEMO48.INX
-  size: 2554
-  date: '1997-01-18T20:42:16'
-  crc: '0x0b175cc9'
-- name: DEMO51.INX
-  size: 3322
-  date: '1997-01-18T16:39:22'
-  crc: '0x77c7c6b8'
-- name: DEMO61.INX
-  size: 4825
-  date: '1997-01-18T16:43:32'
-  crc: '0xc1372427'
-- name: EMY1.INX
-  size: 12672
-  date: '2011-11-28T10:41:46'
-  crc: '0xbda34337'
-- name: EMY10.INX
-  size: 8640
-  date: '2013-01-09T15:12:18'
-  crc: '0x0dc5dffd'
-- name: EMY11.INX
-  size: 28800
-  date: '1996-12-07T10:23:44'
-  crc: '0x3665e4d9'
-- name: EMY12.INX
-  size: 28800
-  date: '1996-12-07T10:26:58'
-  crc: '0xb0e2c7b2'
-- name: EMY2.INX
-  size: 11520
-  date: '2011-11-28T09:49:58'
-  crc: '0x87fa039e'
-- name: EMY3.INX
-  size: 10944
-  date: '2011-11-28T10:44:54'
-  crc: '0x03350201'
-- name: EMY4.INX
-  size: 6912
-  date: '2013-01-09T15:09:30'
-  crc: '0x11a469ed'
-- name: EMY5.INX
-  size: 6912
-  date: '2011-11-28T11:46:30'
-  crc: '0x347711e3'
-- name: EMY6.INX
-  size: 6912
-  date: '1996-12-06T14:53:00'
-  crc: '0xe7f7d15e'
-- name: EMY7.INX
-  size: 8064
-  date: '1996-12-06T15:31:36'
-  crc: '0xf223f5ab'
-- name: EMY8.INX
-  size: 35200
-  date: '1996-12-06T15:34:54'
-  crc: '0x3524e8af'
-- name: EMY9.INX
-  size: 6912
-  date: '2013-01-07T17:26:00'
-  crc: '0xc69d505e'
-- name: EMYT.INX
-  size: 13824
-  date: '2011-11-26T16:01:26'
-  crc: '0xc85ed0d7'
-- name: EMYX.INX
-  size: 6144
-  date: '2013-01-06T19:46:56'
-  crc: '0x59ce7eec'
-- name: EXIT.INX
-  size: 7808
-  date: '2001-01-14T02:55:02'
-  crc: '0x196b181b'
+- name: BOBO\READY1.INX
+  size: 2560
+  date: '2013-01-08T16:12:20'
+  crc: '0xe62d6fde'
+- name: BOBO\READY2.INX
+  size: 2560
+  date: '2013-01-08T16:14:10'
+  crc: '0xad75af58'
+- name: BOBO\SA1-2.INX
+  size: 64772
+  date: '1997-01-17T20:19:54'
+  crc: '0x723bc63c'
+- name: BOBO\SA1-3.INX
+  size: 64772
+  date: '1997-01-17T20:20:06'
+  crc: '0x95ec829c'
+- name: BOBO\SA2-2.INX
+  size: 64772
+  date: '1997-01-17T20:20:26'
+  crc: '0x4e242767'
+- name: BOBO\SA2-3.INX
+  size: 64772
+  date: '1997-01-17T20:20:38'
+  crc: '0x608935c5'
+- name: BOBO\SA3-2.INX
+  size: 64772
+  date: '1997-01-17T21:05:24'
+  crc: '0x8b26501f'
+- name: BOBO\SA3-3.INX
+  size: 64772
+  date: '1997-01-17T21:05:38'
+  crc: '0xde0b685d'
+- name: BOBO\SA4-2.INX
+  size: 64772
+  date: '1997-01-18T15:15:26'
+  crc: '0x875746ee'
+- name: BOBO\SA4-3.INX
+  size: 64772
+  date: '1997-01-18T15:15:14'
+  crc: '0x581ffa8e'
+- name: BOBO\SA5-2.INX
+  size: 64772
+  date: '1997-01-17T20:21:16'
+  crc: '0x91474817'
+- name: BOBO\SA5-3.INX
+  size: 64772
+  date: '1997-01-17T20:21:28'
+  crc: '0xd6017293'
+- name: BOBO\SA6-2.INX
+  size: 64772
+  date: '1997-01-17T20:21:42'
+  crc: '0xc4373954'
+- name: BOBO\SA6-3.INX
+  size: 64772
+  date: '1997-01-17T20:21:56'
+  crc: '0xb1658190'
+- name: BOBO\SCORE.LON
+  size: 80
+  date: '1997-01-06T16:50:14'
+  crc: '0x7a3c9e82'
+- name: BOBO\SFOOD.INX
+  size: 7424
+  date: '2001-01-12T16:06:00'
+  crc: '0x5b7a6c85'
+- name: BOBO\SP1_CON.LON
+  size: 44573
+  date: '2012-12-17T19:08:58'
+  crc: '0xc5f21e5d'
+- name: BOBO\SP1_KO.LON
+  size: 38215
+  date: '1996-12-27T17:46:32'
+  crc: '0xca04e250'
+- name: BOBO\SP1_NAM.LON
+  size: 23559
+  date: '1997-01-10T17:01:24'
+  crc: '0x850ba906'
+- name: BOBO\SP1_OV.LON
+  size: 9039
+  date: '2012-12-17T17:40:50'
+  crc: '0x8843804f'
+- name: BOBO\SP1_SEL.LON
+  size: 63597
+  date: '2012-12-23T11:23:36'
+  crc: '0xc2ba689b'
+- name: BOBO\SP1_ST.LON
+  size: 57663
+  date: '1996-12-08T16:04:46'
+  crc: '0x0b6ec381'
+- name: BOBO\SP2_SEL.LON
+  size: 14551
+  date: '1996-12-08T18:08:34'
+  crc: '0xfac448a0'
+- name: BOBO\SP2_ST.LON
+  size: 24397
+  date: '1996-12-08T09:20:10'
+  crc: '0xfdce3f54'
+- name: BOBO\SPATT1.INX
+  size: 1000
+  date: '2013-01-08T16:22:34'
+  crc: '0xd6645f68'
+- name: BOBO\SPATT2.INX
+  size: 1000
+  date: '2013-01-08T16:23:04'
+  crc: '0xd6645f68'
+- name: BOBO\SPBG1.INX
+  size: 64772
+  date: '2001-01-15T00:36:42'
+  crc: '0x32e170ac'
+- name: BOBO\SPBG2.INX
+  size: 64772
+  date: '2001-01-15T00:38:08'
+  crc: '0xa390f69c'
+- name: BOBO\SPNO1.INX
+  size: 4224
+  date: '2013-01-08T16:17:52'
+  crc: '0x1a16d4bf'
+- name: BOBO\SPNO2.INX
+  size: 4224
+  date: '2013-01-08T16:19:44'
+  crc: '0xda33ed79'
+- name: BOBO\SSCORE.INX
+  size: 5888
+  date: '2013-01-08T15:32:12'
+  crc: '0x3e16839c'
+- name: BOBO\STAGE1.INX
+  size: 4224
+  date: '2013-01-08T16:10:58'
+  crc: '0x39ff50ff'
+- name: BOBO\STAGE2.INX
+  size: 4224
+  date: '2013-01-08T16:11:28'
+  crc: '0xc24ea9be'
+- name: BOBO\VVV\
+  size: 0
+  date: '1997-01-21T17:00:04'
+- name: BOBO\VVV\B001.VVV
+  size: 23393
+  date: '1997-01-12T20:54:38'
+  crc: '0x5d399390'
+- name: BOBO\VVV\B002.VVV
+  size: 20809
+  date: '1997-01-12T20:54:58'
+  crc: '0x7beddfb8'
+- name: BOBO\VVV\B003.VVV
+  size: 10905
+  date: '1997-01-12T20:55:08'
+  crc: '0x0dc80cda'
+- name: BOBO\VVV\B004.VVV
+  size: 21201
+  date: '1997-01-12T20:55:20'
+  crc: '0x0cd3c3b1'
+- name: BOBO\VVV\B005.VVV
+  size: 15145
+  date: '1997-01-12T20:55:40'
+  crc: '0xc0d60b8d'
+- name: BOBO\VVV\B006.VVV
+  size: 11721
+  date: '1997-01-12T20:55:50'
+  crc: '0x29d91f38'
+- name: BOBO\VVV\B007.VVV
+  size: 6146
+  date: '1997-01-12T20:56:32'
+  crc: '0xac6caf79'
+- name: BOBO\VVV\B008.VVV
+  size: 16159
+  date: '1997-01-12T20:56:50'
+  crc: '0x9e83e01a'
+- name: BOBO\VVV\B009.VVV
+  size: 16263
+  date: '1997-01-12T20:57:22'
+  crc: '0x0c172fe4'
+- name: BOBO\VVV\B010.VVV
+  size: 26698
+  date: '1997-01-12T20:57:44'
+  crc: '0x0722a9b4'
+- name: BOBO\VVV\B011.VVV
+  size: 8455
+  date: '1997-12-12T21:02:02'
+  crc: '0xf0031760'
+- name: BOBO\VVV\B012.VVV
+  size: 11307
+  date: '1997-12-12T21:04:16'
+  crc: '0x001331c0'
+- name: BOBO\VVV\B013.VVV
+  size: 7678
+  date: '1997-12-12T21:05:52'
+  crc: '0x72ca6494'
+- name: BOBO\VVV\B014.VVV
+  size: 5686
+  date: '1997-12-12T21:07:34'
+  crc: '0x08d70a3f'
+- name: BOBO\VVV\B015.VVV
+  size: 10532
+  date: '1997-12-12T21:09:12'
+  crc: '0xb4552c2a'
+- name: BOBO\VVV\B016.VVV
+  size: 7353
+  date: '1997-12-12T21:10:54'
+  crc: '0xa89f42a7'
+- name: BOBO\VVV\B017.VVV
+  size: 12165
+  date: '1997-12-12T21:11:26'
+  crc: '0xa5303785'
+- name: BOBO\VVV\B018.VVV
+  size: 6327
+  date: '1997-12-12T21:11:38'
+  crc: '0x128bc984'
+- name: BOBO\VVV\B019.VVV
+  size: 8382
+  date: '1997-12-12T21:11:52'
+  crc: '0x0b4c2480'
+- name: BOBO\VVV\B020.VVV
+  size: 22362
+  date: '1997-12-12T21:12:06'
+  crc: '0x039256b2'
+- name: BOBO\VVV\B021.VVV
+  size: 12732
+  date: '1997-12-12T21:12:20'
+  crc: '0xd720b8b3'
+- name: BOBO\VVV\B022.VVV
+  size: 12185
+  date: '1997-12-12T21:12:30'
+  crc: '0x9259abf4'
+- name: BOBO\VVV\B023.VVV
+  size: 1599
+  date: '1997-12-12T21:13:20'
+  crc: '0x9b39b993'
+- name: BOBO\VVV\B024.VVV
+  size: 2595
+  date: '1997-12-12T21:13:36'
+  crc: '0x5626927c'
+- name: BOBO\VVV\B025.VVV
+  size: 18157
+  date: '1997-12-12T21:13:46'
+  crc: '0x811449d1'
+- name: BOBO\VVV\B026.VVV
+  size: 4357
+  date: '1997-12-12T21:13:54'
+  crc: '0xbdb5abc2'
+- name: BOBO\VVV\B027.VVV
+  size: 14845
+  date: '1997-12-12T21:14:08'
+  crc: '0x972a663a'
+- name: BOBO\VVV\B028.VVV
+  size: 7279
+  date: '1997-12-12T21:14:22'
+  crc: '0x61856c98'
+- name: BOBO\VVV\B029.VVV
+  size: 3759
+  date: '1997-12-12T21:14:34'
+  crc: '0x63bf50a0'
+- name: BOBO\VVV\B030.VVV
+  size: 7485
+  date: '1997-12-12T21:14:44'
+  crc: '0x7edb7738'
+- name: BOBO\VVV\B031.VVV
+  size: 11557
+  date: '1997-12-12T21:14:52'
+  crc: '0x6ba7e8f3'
+- name: BOBO\VVV\B032.VVV
+  size: 12729
+  date: '1997-12-12T21:15:02'
+  crc: '0x39eb4495'
+- name: BOBO\VVV\B033.VVV
+  size: 27151
+  date: '1997-12-12T21:15:08'
+  crc: '0x1232def0'
+- name: BOBO\VVV\B034.VVV
+  size: 12441
+  date: '1997-12-12T21:15:16'
+  crc: '0x4cb3ede6'
+- name: BOBO\VVV\B035.VVV
+  size: 8681
+  date: '1997-12-12T21:15:26'
+  crc: '0x77d98ed6'
+- name: BOBO\VVV\B036.VVV
+  size: 29111
+  date: '1997-12-12T21:15:34'
+  crc: '0x034ba3a0'
+- name: BOBO\VVV\B037.VVV
+  size: 11213
+  date: '1997-12-12T21:15:44'
+  crc: '0xb0bdd665'
+- name: BOBO\VVV\B038.VVV
+  size: 17517
+  date: '1997-12-12T21:15:52'
+  crc: '0xc080e948'
+- name: BOBO\VVV\B039.VVV
+  size: 10029
+  date: '1997-12-12T21:16:00'
+  crc: '0x9663b8b3'
+- name: BOBO\VVV\B040.VVV
+  size: 20395
+  date: '1997-12-12T21:16:06'
+  crc: '0xa175ee4e'
+- name: BOBO\VVV\B041.VVV
+  size: 9433
+  date: '1997-12-12T21:16:14'
+  crc: '0xc9bf8416'
+- name: BOBO\VVV\B042.VVV
+  size: 1711
+  date: '1997-12-12T21:16:22'
+  crc: '0x2512e7e1'
+- name: BOBO\VVV\B043.VVV
+  size: 5407
+  date: '1997-12-12T21:16:28'
+  crc: '0x94e79082'
+- name: BOBO\VVV\B044.VVV
+  size: 17141
+  date: '1997-12-12T21:16:34'
+  crc: '0x0676e7c1'
+- name: BOBO\VVV\B045.VVV
+  size: 12785
+  date: '1997-12-12T21:16:44'
+  crc: '0xe0b344ef'
+- name: BOBO\VVV\B046.VVV
+  size: 13215
+  date: '1997-12-12T21:16:52'
+  crc: '0x99480294'
+- name: BOBO\VVV\B047.VVV
+  size: 12441
+  date: '1997-12-12T21:16:58'
+  crc: '0xb25d2a05'
+- name: BOBO\VVV\B048.VVV
+  size: 20291
+  date: '1997-12-12T21:17:08'
+  crc: '0x17ae3ce2'
+- name: BOBO\VVV\B049.VVV
+  size: 26151
+  date: '1997-12-12T21:17:18'
+  crc: '0xa65dd498'
+- name: BOBO\VVV\B050.VVV
+  size: 21469
+  date: '1997-12-12T21:17:28'
+  crc: '0x6f8d627b'
+- name: BOBO\VVV\B051.VVV
+  size: 13019
+  date: '1997-12-12T21:17:36'
+  crc: '0x9b78b5d5'
+- name: BOBO\VVV\B052.VVV
+  size: 29065
+  date: '1997-12-12T21:17:44'
+  crc: '0x8d2ae74a'
+- name: BOBO\VVV\B053.VVV
+  size: 28939
+  date: '1997-12-12T21:17:52'
+  crc: '0x2d7e2121'
+- name: BOBO\VVV\B054.VVV
+  size: 22847
+  date: '1997-12-12T21:18:00'
+  crc: '0x331398ba'
+- name: BOBO\VVV\B055.VVV
+  size: 29409
+  date: '1997-12-12T21:18:08'
+  crc: '0xf0c1e1e5'
+- name: BOBO\VVV\B056.VVV
+  size: 27393
+  date: '1997-12-12T21:18:16'
+  crc: '0x9f0e9099'
+- name: BOBO\VVV\B057.VVV
+  size: 12789
+  date: '1997-12-12T21:18:24'
+  crc: '0xba80ef42'
+- name: BOBO\VVV\B058.VVV
+  size: 15525
+  date: '1997-12-12T21:18:32'
+  crc: '0xa5c4f7fa'
+- name: BOBO\VVV\B059.VVV
+  size: 8187
+  date: '1997-12-12T21:18:40'
+  crc: '0xb3b25316'
+- name: BOBO\VVV\B060.VVV
+  size: 22817
+  date: '1997-12-12T21:18:48'
+  crc: '0x6f25d929'
+- name: BOBO\VVV\B061.VVV
+  size: 7275
+  date: '1997-12-12T21:18:56'
+  crc: '0x336461cd'
+- name: BOBO\VVV\B062.VVV
+  size: 10683
+  date: '1997-12-12T21:19:06'
+  crc: '0x9c74f1d3'
+- name: BOBO\VVV\B063.VVV
+  size: 3913
+  date: '1997-12-12T21:19:30'
+  crc: '0x578b29c7'
+- name: BOBO\VVV\B064.VVV
+  size: 6193
+  date: '1997-12-12T21:19:40'
+  crc: '0xc697490c'
+- name: BOBO\VVV\B065.VVV
+  size: 3055
+  date: '1997-12-12T21:19:48'
+  crc: '0xedeb82f8'
+- name: BOBO\VVV\B066.VVV
+  size: 8075
+  date: '1997-12-12T21:19:56'
+  crc: '0x3b24a0d1'
+- name: BOBO\VVV\B067.VVV
+  size: 10715
+  date: '1997-12-12T21:20:06'
+  crc: '0x96685850'
+- name: BOBO\VVV\B068.VVV
+  size: 5217
+  date: '1997-12-12T21:20:14'
+  crc: '0x36057b34'
+- name: BOBO\VVV\B069.VVV
+  size: 4177
+  date: '1997-12-12T21:20:22'
+  crc: '0x2cf701d0'
+- name: BOBO\VVV\B070.VVV
+  size: 5733
+  date: '1997-12-12T21:20:30'
+  crc: '0xeb28b51c'
+- name: BOBO\VVV\B071.VVV
+  size: 17659
+  date: '1997-12-12T21:20:38'
+  crc: '0x02aa369d'
+- name: BOBO\VVV\B072.VVV
+  size: 14355
+  date: '1997-12-12T21:21:06'
+  crc: '0xa7c6eabe'
+- name: BOBO\VVV\B073.VVV
+  size: 13741
+  date: '1997-12-12T21:20:52'
+  crc: '0x68ed8f69'
+- name: BOBO\VVV\B074.VVV
+  size: 28641
+  date: '1997-12-12T21:21:20'
+  crc: '0x2885309a'
+- name: BOBO\VVV\B075.VVV
+  size: 17373
+  date: '1997-12-12T21:21:30'
+  crc: '0xa411e2c4'
+- name: BOBO\VVV\B076.VVV
+  size: 6675
+  date: '1997-12-12T21:21:38'
+  crc: '0xc1789c49'
+- name: BOBO\VVV\B077.VVV
+  size: 24333
+  date: '1997-12-12T21:21:46'
+  crc: '0xd7dea8db'
+- name: BOBO\VVV\B078.VVV
+  size: 14569
+  date: '1997-12-12T21:21:54'
+  crc: '0x462455a5'
+- name: BOBO\VVV\B079.VVV
+  size: 23217
+  date: '1997-12-12T21:22:04'
+  crc: '0xf6675430'
+- name: BOBO\VVV\B080.VVV
+  size: 14465
+  date: '1997-12-12T21:22:14'
+  crc: '0x1e662b0c'
+- name: BOBO\VVV\B081.VVV
+  size: 27859
+  date: '1997-12-12T21:22:22'
+  crc: '0xae30db58'
+- name: BOBO\VVV\B082.VVV
+  size: 28001
+  date: '1997-12-12T21:22:32'
+  crc: '0x3dc34c64'
+- name: BOBO\VVV\B083.VVV
+  size: 8907
+  date: '1997-12-12T21:22:40'
+  crc: '0xa020cd9d'
+- name: BOBO\VVV\B084.VVV
+  size: 23409
+  date: '1997-12-12T21:22:48'
+  crc: '0x7ae3f502'
+- name: BOBO\VVV\B085.VVV
+  size: 6057
+  date: '1997-12-12T21:22:56'
+  crc: '0x43725005'
+- name: BOBO\VVV\B086.VVV
+  size: 11929
+  date: '1997-12-12T21:23:06'
+  crc: '0x9bf63e87'
+- name: BOBO\VVV\B087.VVV
+  size: 15245
+  date: '1997-12-12T21:23:16'
+  crc: '0x2061b62b'
+- name: BOBO\VVV\B088.VVV
+  size: 17665
+  date: '1997-12-12T21:23:24'
+  crc: '0xd933237c'
+- name: BOBO\VVV\B089.VVV
+  size: 5913
+  date: '1997-12-12T21:23:32'
+  crc: '0x78a8722e'
+- name: BOBO\VVV\B090.VVV
+  size: 28723
+  date: '1997-12-12T21:23:42'
+  crc: '0x0c3a5ede'
+- name: BOBO\VVV\B091.VVV
+  size: 29059
+  date: '1997-12-12T21:23:54'
+  crc: '0x17c6a107'
+- name: BOBO\VVV\B092.VVV
+  size: 28005
+  date: '1997-12-12T21:24:02'
+  crc: '0xd6fd7873'
+- name: BOBO\VVV\B093.VVV
+  size: 25443
+  date: '1997-12-12T21:24:12'
+  crc: '0xae421650'
+- name: BOBO\VVV\B094.VVV
+  size: 10857
+  date: '1997-12-12T21:24:22'
+  crc: '0x49ccf8e0'
+- name: BOBO\VVV\B095.VVV
+  size: 25763
+  date: '1997-12-12T21:24:30'
+  crc: '0xe4a80c18'
+- name: BOBO\VVV\B096.VVV
+  size: 22973
+  date: '1997-12-12T21:24:38'
+  crc: '0x1290887d'
+- name: BOBO\VVV\B097.VVV
+  size: 5913
+  date: '1997-12-12T21:24:48'
+  crc: '0xed39d2de'
+- name: BOBO\VVV\B098.VVV
+  size: 17329
+  date: '1997-12-12T21:25:18'
+  crc: '0xd87cdcdf'
+- name: BOBO\VVV\B099.VVV
+  size: 29061
+  date: '1997-12-12T21:25:26'
+  crc: '0x027d3740'
+- name: BOBO\VVV\B100.VVV
+  size: 29733
+  date: '1997-01-12T20:58:00'
+  crc: '0x841e11a3'
+- name: BOBO\VVV\B101.VVV
+  size: 28523
+  date: '1997-01-12T20:58:18'
+  crc: '0x9cea1172'
+- name: BOBO\VVV\B102.VVV
+  size: 8025
+  date: '1997-01-12T20:58:30'
+  crc: '0xd58f2d92'
+- name: BOBO\VVV\B103.VVV
+  size: 7367
+  date: '1997-01-12T20:58:42'
+  crc: '0x47157113'
+- name: BOBO\VVV\B104.VVV
+  size: 5473
+  date: '1997-01-12T20:58:52'
+  crc: '0x77f45088'
+- name: BOBO\VVV\B105.VVV
+  size: 15747
+  date: '1997-01-12T20:59:02'
+  crc: '0x1d1fb88f'
+- name: BOBO\VVV\B106.VVV
+  size: 30169
+  date: '1997-01-12T20:59:14'
+  crc: '0x8694d261'
+- name: BOBO\VVV\B107.VVV
+  size: 25797
+  date: '1997-01-12T20:59:26'
+  crc: '0xcebb01f8'
+- name: BOBO\VVV\B108.VVV
+  size: 10837
+  date: '1997-01-12T20:59:38'
+  crc: '0xab47d313'
+- name: BOBO\VVV\B109.VVV
+  size: 17833
+  date: '1997-12-12T21:01:38'
+  crc: '0xe9f5f6ff'
+- name: BOBO\VVV\B110.VVV
+  size: 6109
+  date: '1997-12-12T21:02:18'
+  crc: '0x604cc9c4'
+- name: BOBO\VVV\B111.VVV
+  size: 24473
+  date: '1997-12-12T21:02:32'
+  crc: '0x343c7021'
+- name: BOBO\VVV\B112.VVV
+  size: 3875
+  date: '1997-12-12T21:02:42'
+  crc: '0x9fc1194d'
+- name: BOBO\VVV\B113.VVV
+  size: 10485
+  date: '1997-12-12T21:02:52'
+  crc: '0x99288352'
+- name: BOBO\VVV\B114.VVV
+  size: 8193
+  date: '1997-12-12T21:03:00'
+  crc: '0x14ef1db6'
+- name: BOBO\VVV\B115.VVV
+  size: 16499
+  date: '1997-12-12T21:03:20'
+  crc: '0xae99622d'
+- name: BOBO\VVV\B116.VVV
+  size: 9383
+  date: '1997-12-12T21:03:32'
+  crc: '0x0e8c952e'
+- name: BOBO\VVV\B117.VVV
+  size: 16215
+  date: '1997-12-12T21:03:48'
+  crc: '0x93659541'
+- name: BOBO\VVV\B118.VVV
+  size: 27063
+  date: '1997-12-12T21:03:58'
+  crc: '0xcdd7b892'
+- name: BOBO\VVV\B119.VVV
+  size: 29681
+  date: '1997-12-12T21:04:04'
+  crc: '0x5584a6c3'
+- name: BOBO\VVV\B120.VVV
+  size: 4053
+  date: '1997-12-12T21:04:28'
+  crc: '0x350b658d'
+- name: BOBO\VVV\B121.VVV
+  size: 7583
+  date: '1997-12-12T21:04:36'
+  crc: '0x8f599c4e'
+- name: BOBO\VVV\B122.VVV
+  size: 13693
+  date: '1997-12-12T21:04:46'
+  crc: '0x707a29e4'
+- name: BOBO\VVV\B123.VVV
+  size: 7601
+  date: '1997-12-12T21:04:52'
+  crc: '0x15f81cc7'
+- name: BOBO\VVV\B124.VVV
+  size: 8993
+  date: '1997-12-12T21:05:00'
+  crc: '0x3e2b52a5'
+- name: BOBO\VVV\B125.VVV
+  size: 27299
+  date: '1997-12-12T21:05:06'
+  crc: '0x916cd775'
+- name: BOBO\VVV\B126.VVV
+  size: 11913
+  date: '1997-12-12T21:05:14'
+  crc: '0x0e82a8bc'
+- name: BOBO\VVV\B127.VVV
+  size: 1223
+  date: '1997-12-12T21:05:24'
+  crc: '0x6ca56d16'
+- name: BOBO\VVV\B128.VVV
+  size: 7103
+  date: '1997-12-12T21:05:32'
+  crc: '0x349e4d6e'
+- name: BOBO\VVV\B129.VVV
+  size: 6189
+  date: '1997-12-12T21:05:38'
+  crc: '0x7afe7f9c'
+- name: BOBO\VVV\B130.VVV
+  size: 27851
+  date: '1997-12-12T21:06:00'
+  crc: '0xabc11c05'
+- name: BOBO\VVV\B131.VVV
+  size: 11799
+  date: '1997-12-12T21:06:08'
+  crc: '0xcc8b8964'
+- name: BOBO\VVV\B132.VVV
+  size: 11715
+  date: '1997-12-12T21:06:14'
+  crc: '0x580149b1'
+- name: BOBO\VVV\B133.VVV
+  size: 10561
+  date: '1997-12-12T21:06:22'
+  crc: '0x64719378'
+- name: BOBO\VVV\B134.VVV
+  size: 15781
+  date: '1997-12-12T21:06:28'
+  crc: '0x4f07e6de'
+- name: BOBO\VVV\B135.VVV
+  size: 6039
+  date: '1997-12-12T21:06:36'
+  crc: '0xa1bfe970'
+- name: BOBO\VVV\B136.VVV
+  size: 16179
+  date: '1997-12-12T21:06:44'
+  crc: '0xeb5ad42a'
+- name: BOBO\VVV\B137.VVV
+  size: 3085
+  date: '1997-12-12T21:06:54'
+  crc: '0x4a323e01'
+- name: BOBO\VVV\B138.VVV
+  size: 12585
+  date: '1997-12-12T21:07:02'
+  crc: '0xd48b07b0'
+- name: BOBO\VVV\B139.VVV
+  size: 15125
+  date: '1997-12-12T21:07:20'
+  crc: '0x3b52f1b0'
+- name: BOBO\VVV\B140.VVV
+  size: 20471
+  date: '1997-12-12T21:07:46'
+  crc: '0x66c0522a'
+- name: BOBO\VVV\B141.VVV
+  size: 10141
+  date: '1997-12-12T21:07:54'
+  crc: '0xa3fa8c27'
+- name: BOBO\VVV\B142.VVV
+  size: 27457
+  date: '1997-12-12T21:08:04'
+  crc: '0xeeb282ff'
+- name: BOBO\VVV\B143.VVV
+  size: 4345
+  date: '1997-12-12T21:08:12'
+  crc: '0xda84e52e'
+- name: BOBO\VVV\B144.VVV
+  size: 3195
+  date: '1997-12-12T21:08:20'
+  crc: '0x10ae9ad0'
+- name: BOBO\VVV\B145.VVV
+  size: 7519
+  date: '1997-12-12T21:08:28'
+  crc: '0x4d23eca3'
+- name: BOBO\VVV\B146.VVV
+  size: 29899
+  date: '1997-12-12T21:08:34'
+  crc: '0xade05f27'
+- name: BOBO\VVV\B147.VVV
+  size: 14635
+  date: '1997-12-12T21:08:42'
+  crc: '0xfc7727bb'
+- name: BOBO\VVV\B148.VVV
+  size: 21493
+  date: '1997-12-12T21:08:50'
+  crc: '0x36ad5d78'
+- name: BOBO\VVV\B149.VVV
+  size: 18513
+  date: '1997-12-12T21:08:58'
+  crc: '0xa4675487'
+- name: BOBO\VVV\B150.VVV
+  size: 15537
+  date: '1997-12-12T21:09:24'
+  crc: '0x017b8085'
+- name: BOBO\VVV\B151.VVV
+  size: 17841
+  date: '1997-12-12T21:09:32'
+  crc: '0x6e8bdb55'
+- name: BOBO\VVV\B152.VVV
+  size: 2343
+  date: '1997-12-12T21:09:42'
+  crc: '0xeb289b63'
+- name: BOBO\VVV\B153.VVV
+  size: 11009
+  date: '1997-12-12T21:09:52'
+  crc: '0x48dd0533'
+- name: BOBO\VVV\B154.VVV
+  size: 13965
+  date: '1997-12-12T21:10:00'
+  crc: '0xc5aac54c'
+- name: BOBO\VVV\B155.VVV
+  size: 11733
+  date: '1997-12-12T21:10:08'
+  crc: '0xb5adc3a5'
+- name: BOBO\VVV\B156.VVV
+  size: 5799
+  date: '1997-12-12T21:10:16'
+  crc: '0x432d217f'
+- name: BOBO\VVV\B157.VVV
+  size: 26169
+  date: '1997-12-12T21:10:22'
+  crc: '0x2f0ebced'
+- name: BOBO\VVV\B158.VVV
+  size: 14339
+  date: '1997-12-12T21:10:32'
+  crc: '0x0e8c4882'
+- name: BOBO\VVV\B159.VVV
+  size: 5669
+  date: '1997-12-12T21:10:42'
+  crc: '0xff208305'
+- name: BOBO\VVV\B160.VVV
+  size: 4489
+  date: '1997-12-12T21:11:04'
+  crc: '0xcb8c18c3'
+- name: BOBO\VVV\B161.VVV
+  size: 3383
+  date: '1997-12-12T21:11:12'
+  crc: '0x87cf6c9f'
+- name: BOBO\WORD.INX
+  size: 9984
+  date: '2013-01-08T15:34:56'
+  crc: '0x98060475'
+- name: FFF\
+  size: 0
+  date: '1997-01-21T17:00:34'
 - name: FFF\HEAD.FFF
-  size: 895006
-  date: '1997-01-15T17:06:24'
-  crc: '0x0ae08052'
+  size: 15353858
+  date: '1997-01-04T23:44:46'
+  crc: '0xff033c58'
 - name: FFF\MARK.FFF
   size: 895006
   date: '1997-01-15T17:06:24'
@@ -777,867 +1670,508 @@ files:
   size: 5731209
   date: '1997-01-15T21:21:20'
   crc: '0x19b08f27'
-- name: GAME.EXE
-  size: 417683
-  date: '1997-01-19T03:18:16'
-  crc: '0x710ff3d9'
-- name: GG1.INX
-  size: 4032
-  date: '1996-12-03T14:43:02'
-  crc: '0x7429f836'
-- name: GG2.INX
-  size: 4608
-  date: '1996-12-10T15:00:12'
-  crc: '0x8ee185e7'
-- name: GG3.INX
-  size: 9600
-  date: '1996-12-13T02:19:46'
-  crc: '0x66833f7f'
-- name: GG4.INX
-  size: 4608
-  date: '1996-12-20T03:32:50'
-  crc: '0x69294003'
-- name: GG5.INX
-  size: 41472
-  date: '2013-01-07T19:37:06'
-  crc: '0x97de656e'
-- name: GG6.INX
-  size: 12288
-  date: '2013-01-03T04:56:18'
-  crc: '0x5f3b32fb'
-- name: LFOOD.INX
-  size: 14400
-  date: '1996-12-04T14:38:04'
-  crc: '0x9cccf441'
-- name: LON.INX
-  size: 64772
-  date: '1996-12-25T06:34:52'
-  crc: '0xebfe5248'
-- name: LSCORE.INX
-  size: 4608
-  date: '2011-11-28T14:39:02'
-  crc: '0x862e3165'
-- name: MAN.INX
-  size: 34560
-  date: '2011-11-29T15:02:48'
-  crc: '0x8ed62f08'
-- name: MFOOD.INX
-  size: 4608
-  date: '2011-11-28T14:30:18'
-  crc: '0xf6de5de2'
-- name: MM.INX
-  size: 42048
-  date: '2013-01-06T19:56:44'
-  crc: '0x60fb5f5d'
-- name: MMCH.INX
-  size: 29952
-  date: '2013-01-07T19:59:46'
-  crc: '0xa31155c9'
-- name: NN.INX
-  size: 42048
-  date: '2013-01-06T17:11:52'
-  crc: '0x6fa2ec82'
-- name: NNCH.INX
-  size: 29952
-  date: '2013-01-06T17:51:16'
-  crc: '0xd87dddc5'
-- name: NO.INX
-  size: 960
-  date: '2011-11-21T16:10:16'
-  crc: '0xee845797'
-- name: PLAY.BAT
-  size: 69
-  date: '1997-02-09T20:28:00'
-  crc: '0x11be8229'
-- name: PP5.INX
-  size: 2304
-  date: '2013-01-02T04:07:32'
-  crc: '0x0f3d83bc'
-- name: PP6.INX
-  size: 2048
-  date: '2013-01-03T04:57:00'
-  crc: '0x761913b9'
-- name: README.TXT
-  size: 1493
-  date: '1997-01-19T03:26:32'
-  crc: '0x758b6a69'
-- name: READY1.INX
-  size: 2560
-  date: '2013-01-08T16:12:20'
-  crc: '0xe62d6fde'
-- name: READY2.INX
-  size: 2560
-  date: '2013-01-08T16:14:10'
-  crc: '0xad75af58'
-- name: SA1-2.INX
-  size: 64772
-  date: '1997-01-17T20:19:54'
-  crc: '0x723bc63c'
-- name: SA1-3.INX
-  size: 64772
-  date: '1997-01-17T20:20:06'
-  crc: '0x95ec829c'
-- name: SA2-2.INX
-  size: 64772
-  date: '1997-01-17T20:20:26'
-  crc: '0x4e242767'
-- name: SA2-3.INX
-  size: 64772
-  date: '1997-01-17T20:20:38'
-  crc: '0x608935c5'
-- name: SA3-2.INX
-  size: 64772
-  date: '1997-01-17T21:05:24'
-  crc: '0x8b26501f'
-- name: SA3-3.INX
-  size: 64772
-  date: '1997-01-17T21:05:38'
-  crc: '0xde0b685d'
-- name: SA4-2.INX
-  size: 64772
-  date: '1997-01-18T15:15:26'
-  crc: '0x875746ee'
-- name: SA4-3.INX
-  size: 64772
-  date: '1997-01-18T15:15:14'
-  crc: '0x581ffa8e'
-- name: SA5-2.INX
-  size: 64772
-  date: '1997-01-17T20:21:16'
-  crc: '0x91474817'
-- name: SA5-3.INX
-  size: 64772
-  date: '1997-01-17T20:21:28'
-  crc: '0xd6017293'
-- name: SA6-2.INX
-  size: 64772
-  date: '1997-01-17T20:21:42'
-  crc: '0xc4373954'
-- name: SA6-3.INX
-  size: 64772
-  date: '1997-01-17T20:21:56'
-  crc: '0xb1658190'
-- name: SCORE.LON
-  size: 80
-  date: '1997-01-06T16:50:14'
-  crc: '0x7a3c9e82'
-- name: SFOOD.INX
-  size: 7424
-  date: '2001-01-12T16:06:00'
-  crc: '0x5b7a6c85'
-- name: SP1_CON.LON
-  size: 44573
-  date: '2012-12-17T19:08:58'
-  crc: '0xc5f21e5d'
-- name: SP1_KO.LON
-  size: 38215
-  date: '1996-12-27T17:46:32'
-  crc: '0xca04e250'
-- name: SP1_NAM.LON
-  size: 23559
-  date: '1997-01-10T17:01:24'
-  crc: '0x850ba906'
-- name: SP1_OV.LON
-  size: 9039
-  date: '2012-12-17T17:40:50'
-  crc: '0x8843804f'
-- name: SP1_SEL.LON
-  size: 63597
-  date: '2012-12-23T11:23:36'
-  crc: '0xc2ba689b'
-- name: SP1_ST.LON
-  size: 57663
-  date: '1996-12-08T16:04:46'
-  crc: '0x0b6ec381'
-- name: SP2_SEL.LON
-  size: 14551
-  date: '1996-12-08T18:08:34'
-  crc: '0xfac448a0'
-- name: SP2_ST.LON
-  size: 24397
-  date: '1996-12-08T09:20:10'
-  crc: '0xfdce3f54'
-- name: SPATT1.INX
-  size: 1000
-  date: '2013-01-08T16:22:34'
-  crc: '0xd6645f68'
-- name: SPATT2.INX
-  size: 1000
-  date: '2013-01-08T16:23:04'
-  crc: '0xd6645f68'
-- name: SPBG1.INX
-  size: 64772
-  date: '2001-01-15T00:36:42'
-  crc: '0x32e170ac'
-- name: SPBG2.INX
-  size: 64772
-  date: '2001-01-15T00:38:08'
-  crc: '0xa390f69c'
-- name: SPNO1.INX
-  size: 4224
-  date: '2013-01-08T16:17:52'
-  crc: '0x1a16d4bf'
-- name: SPNO2.INX
-  size: 4224
-  date: '2013-01-08T16:19:44'
-  crc: '0xda33ed79'
-- name: SSCORE.INX
-  size: 5888
-  date: '2013-01-08T15:32:12'
-  crc: '0x3e16839c'
-- name: STAGE1.INX
-  size: 4224
-  date: '2013-01-08T16:10:58'
-  crc: '0x39ff50ff'
-- name: STAGE2.INX
-  size: 4224
-  date: '2013-01-08T16:11:28'
-  crc: '0xc24ea9be'
-- name: VVV\B001.VVV
-  size: 23393
-  date: '1997-01-12T20:54:38'
-  crc: '0x5d399390'
-- name: VVV\B002.VVV
-  size: 20809
-  date: '1997-01-12T20:54:58'
-  crc: '0x7beddfb8'
-- name: VVV\B003.VVV
-  size: 10905
-  date: '1997-01-12T20:55:08'
-  crc: '0x0dc80cda'
-- name: VVV\B004.VVV
-  size: 21201
-  date: '1997-01-12T20:55:20'
-  crc: '0x0cd3c3b1'
-- name: VVV\B005.VVV
-  size: 15145
-  date: '1997-01-12T20:55:40'
-  crc: '0xc0d60b8d'
-- name: VVV\B006.VVV
-  size: 11721
-  date: '1997-01-12T20:55:50'
-  crc: '0x29d91f38'
-- name: VVV\B007.VVV
-  size: 6146
-  date: '1997-01-12T20:56:32'
-  crc: '0xac6caf79'
-- name: VVV\B008.VVV
-  size: 16159
-  date: '1997-01-12T20:56:50'
-  crc: '0x9e83e01a'
-- name: VVV\B009.VVV
-  size: 16263
-  date: '1997-01-12T20:57:22'
-  crc: '0x0c172fe4'
-- name: VVV\B010.VVV
-  size: 26698
-  date: '1997-01-12T20:57:44'
-  crc: '0x0722a9b4'
-- name: VVV\B011.VVV
-  size: 8455
-  date: '1997-12-12T21:02:02'
-  crc: '0xf0031760'
-- name: VVV\B012.VVV
-  size: 11307
-  date: '1997-12-12T21:04:16'
-  crc: '0x001331c0'
-- name: VVV\B013.VVV
-  size: 7678
-  date: '1997-12-12T21:05:52'
-  crc: '0x72ca6494'
-- name: VVV\B014.VVV
-  size: 5686
-  date: '1997-12-12T21:07:34'
-  crc: '0x08d70a3f'
-- name: VVV\B015.VVV
-  size: 10532
-  date: '1997-12-12T21:09:12'
-  crc: '0xb4552c2a'
-- name: VVV\B016.VVV
-  size: 7353
-  date: '1997-12-12T21:10:54'
-  crc: '0xa89f42a7'
-- name: VVV\B017.VVV
-  size: 12165
-  date: '1997-12-12T21:11:26'
-  crc: '0xa5303785'
-- name: VVV\B018.VVV
-  size: 6327
-  date: '1997-12-12T21:11:38'
-  crc: '0x128bc984'
-- name: VVV\B019.VVV
-  size: 8382
-  date: '1997-12-12T21:11:52'
-  crc: '0x0b4c2480'
-- name: VVV\B020.VVV
-  size: 22362
-  date: '1997-12-12T21:12:06'
-  crc: '0x039256b2'
-- name: VVV\B021.VVV
-  size: 12732
-  date: '1997-12-12T21:12:20'
-  crc: '0xd720b8b3'
-- name: VVV\B022.VVV
-  size: 12185
-  date: '1997-12-12T21:12:30'
-  crc: '0x9259abf4'
-- name: VVV\B023.VVV
-  size: 1599
-  date: '1997-12-12T21:13:20'
-  crc: '0x9b39b993'
-- name: VVV\B024.VVV
-  size: 2595
-  date: '1997-12-12T21:13:36'
-  crc: '0x5626927c'
-- name: VVV\B025.VVV
-  size: 18157
-  date: '1997-12-12T21:13:46'
-  crc: '0x811449d1'
-- name: VVV\B026.VVV
-  size: 4357
-  date: '1997-12-12T21:13:54'
-  crc: '0xbdb5abc2'
-- name: VVV\B027.VVV
-  size: 14845
-  date: '1997-12-12T21:14:08'
-  crc: '0x972a663a'
-- name: VVV\B028.VVV
-  size: 7279
-  date: '1997-12-12T21:14:22'
-  crc: '0x61856c98'
-- name: VVV\B029.VVV
-  size: 3759
-  date: '1997-12-12T21:14:34'
-  crc: '0x63bf50a0'
-- name: VVV\B030.VVV
-  size: 7485
-  date: '1997-12-12T21:14:44'
-  crc: '0x7edb7738'
-- name: VVV\B031.VVV
-  size: 11557
-  date: '1997-12-12T21:14:52'
-  crc: '0x6ba7e8f3'
-- name: VVV\B032.VVV
-  size: 12729
-  date: '1997-12-12T21:15:02'
-  crc: '0x39eb4495'
-- name: VVV\B033.VVV
-  size: 27151
-  date: '1997-12-12T21:15:08'
-  crc: '0x1232def0'
-- name: VVV\B034.VVV
-  size: 12441
-  date: '1997-12-12T21:15:16'
-  crc: '0x4cb3ede6'
-- name: VVV\B035.VVV
-  size: 8681
-  date: '1997-12-12T21:15:26'
-  crc: '0x77d98ed6'
-- name: VVV\B036.VVV
-  size: 29111
-  date: '1997-12-12T21:15:34'
-  crc: '0x034ba3a0'
-- name: VVV\B037.VVV
-  size: 11213
-  date: '1997-12-12T21:15:44'
-  crc: '0xb0bdd665'
-- name: VVV\B038.VVV
-  size: 17517
-  date: '1997-12-12T21:15:52'
-  crc: '0xc080e948'
-- name: VVV\B039.VVV
-  size: 10029
-  date: '1997-12-12T21:16:00'
-  crc: '0x9663b8b3'
-- name: VVV\B040.VVV
-  size: 20395
-  date: '1997-12-12T21:16:06'
-  crc: '0xa175ee4e'
-- name: VVV\B041.VVV
-  size: 9433
-  date: '1997-12-12T21:16:14'
-  crc: '0xc9bf8416'
-- name: VVV\B042.VVV
-  size: 1711
-  date: '1997-12-12T21:16:22'
-  crc: '0x2512e7e1'
-- name: VVV\B043.VVV
-  size: 5407
-  date: '1997-12-12T21:16:28'
-  crc: '0x94e79082'
-- name: VVV\B044.VVV
-  size: 17141
-  date: '1997-12-12T21:16:34'
-  crc: '0x0676e7c1'
-- name: VVV\B045.VVV
-  size: 12785
-  date: '1997-12-12T21:16:44'
-  crc: '0xe0b344ef'
-- name: VVV\B046.VVV
-  size: 13215
-  date: '1997-12-12T21:16:52'
-  crc: '0x99480294'
-- name: VVV\B047.VVV
-  size: 12441
-  date: '1997-12-12T21:16:58'
-  crc: '0xb25d2a05'
-- name: VVV\B048.VVV
-  size: 20291
-  date: '1997-12-12T21:17:08'
-  crc: '0x17ae3ce2'
-- name: VVV\B049.VVV
-  size: 26151
-  date: '1997-12-12T21:17:18'
-  crc: '0xa65dd498'
-- name: VVV\B050.VVV
-  size: 21469
-  date: '1997-12-12T21:17:28'
-  crc: '0x6f8d627b'
-- name: VVV\B051.VVV
-  size: 13019
-  date: '1997-12-12T21:17:36'
-  crc: '0x9b78b5d5'
-- name: VVV\B052.VVV
-  size: 29065
-  date: '1997-12-12T21:17:44'
-  crc: '0x8d2ae74a'
-- name: VVV\B053.VVV
-  size: 28939
-  date: '1997-12-12T21:17:52'
-  crc: '0x2d7e2121'
-- name: VVV\B054.VVV
-  size: 22847
-  date: '1997-12-12T21:18:00'
-  crc: '0x331398ba'
-- name: VVV\B055.VVV
-  size: 29409
-  date: '1997-12-12T21:18:08'
-  crc: '0xf0c1e1e5'
-- name: VVV\B056.VVV
-  size: 27393
-  date: '1997-12-12T21:18:16'
-  crc: '0x9f0e9099'
-- name: VVV\B057.VVV
-  size: 12789
-  date: '1997-12-12T21:18:24'
-  crc: '0xba80ef42'
-- name: VVV\B058.VVV
-  size: 15525
-  date: '1997-12-12T21:18:32'
-  crc: '0xa5c4f7fa'
-- name: VVV\B059.VVV
-  size: 8187
-  date: '1997-12-12T21:18:40'
-  crc: '0xb3b25316'
-- name: VVV\B060.VVV
-  size: 22817
-  date: '1997-12-12T21:18:48'
-  crc: '0x6f25d929'
-- name: VVV\B061.VVV
-  size: 7275
-  date: '1997-12-12T21:18:56'
-  crc: '0x336461cd'
-- name: VVV\B062.VVV
-  size: 10683
-  date: '1997-12-12T21:19:06'
-  crc: '0x9c74f1d3'
-- name: VVV\B063.VVV
-  size: 3913
-  date: '1997-12-12T21:19:30'
-  crc: '0x578b29c7'
-- name: VVV\B064.VVV
-  size: 6193
-  date: '1997-12-12T21:19:40'
-  crc: '0xc697490c'
-- name: VVV\B065.VVV
-  size: 3055
-  date: '1997-12-12T21:19:48'
-  crc: '0xedeb82f8'
-- name: VVV\B066.VVV
-  size: 8075
-  date: '1997-12-12T21:19:56'
-  crc: '0x3b24a0d1'
-- name: VVV\B067.VVV
-  size: 10715
-  date: '1997-12-12T21:20:06'
-  crc: '0x96685850'
-- name: VVV\B068.VVV
-  size: 5217
-  date: '1997-12-12T21:20:14'
-  crc: '0x36057b34'
-- name: VVV\B069.VVV
-  size: 4177
-  date: '1997-12-12T21:20:22'
-  crc: '0x2cf701d0'
-- name: VVV\B070.VVV
-  size: 5733
-  date: '1997-12-12T21:20:30'
-  crc: '0xeb28b51c'
-- name: VVV\B071.VVV
-  size: 17659
-  date: '1997-12-12T21:20:38'
-  crc: '0x02aa369d'
-- name: VVV\B072.VVV
-  size: 14355
-  date: '1997-12-12T21:21:06'
-  crc: '0xa7c6eabe'
-- name: VVV\B073.VVV
-  size: 13741
-  date: '1997-12-12T21:20:52'
-  crc: '0x68ed8f69'
-- name: VVV\B074.VVV
-  size: 28641
-  date: '1997-12-12T21:21:20'
-  crc: '0x2885309a'
-- name: VVV\B075.VVV
-  size: 17373
-  date: '1997-12-12T21:21:30'
-  crc: '0xa411e2c4'
-- name: VVV\B076.VVV
-  size: 6675
-  date: '1997-12-12T21:21:38'
-  crc: '0xc1789c49'
-- name: VVV\B077.VVV
-  size: 24333
-  date: '1997-12-12T21:21:46'
-  crc: '0xd7dea8db'
-- name: VVV\B078.VVV
-  size: 14569
-  date: '1997-12-12T21:21:54'
-  crc: '0x462455a5'
-- name: VVV\B079.VVV
-  size: 23217
-  date: '1997-12-12T21:22:04'
-  crc: '0xf6675430'
-- name: VVV\B080.VVV
-  size: 14465
-  date: '1997-12-12T21:22:14'
-  crc: '0x1e662b0c'
-- name: VVV\B081.VVV
-  size: 27859
-  date: '1997-12-12T21:22:22'
-  crc: '0xae30db58'
-- name: VVV\B082.VVV
-  size: 28001
-  date: '1997-12-12T21:22:32'
-  crc: '0x3dc34c64'
-- name: VVV\B083.VVV
-  size: 8907
-  date: '1997-12-12T21:22:40'
-  crc: '0xa020cd9d'
-- name: VVV\B084.VVV
-  size: 23409
-  date: '1997-12-12T21:22:48'
-  crc: '0x7ae3f502'
-- name: VVV\B085.VVV
-  size: 6057
-  date: '1997-12-12T21:22:56'
-  crc: '0x43725005'
-- name: VVV\B086.VVV
-  size: 11929
-  date: '1997-12-12T21:23:06'
-  crc: '0x9bf63e87'
-- name: VVV\B087.VVV
-  size: 15245
-  date: '1997-12-12T21:23:16'
-  crc: '0x2061b62b'
-- name: VVV\B088.VVV
-  size: 17665
-  date: '1997-12-12T21:23:24'
-  crc: '0xd933237c'
-- name: VVV\B089.VVV
-  size: 5913
-  date: '1997-12-12T21:23:32'
-  crc: '0x78a8722e'
-- name: VVV\B090.VVV
-  size: 28723
-  date: '1997-12-12T21:23:42'
-  crc: '0x0c3a5ede'
-- name: VVV\B091.VVV
-  size: 29059
-  date: '1997-12-12T21:23:54'
-  crc: '0x17c6a107'
-- name: VVV\B092.VVV
-  size: 28005
-  date: '1997-12-12T21:24:02'
-  crc: '0xd6fd7873'
-- name: VVV\B093.VVV
-  size: 25443
-  date: '1997-12-12T21:24:12'
-  crc: '0xae421650'
-- name: VVV\B094.VVV
-  size: 10857
-  date: '1997-12-12T21:24:22'
-  crc: '0x49ccf8e0'
-- name: VVV\B095.VVV
-  size: 25763
-  date: '1997-12-12T21:24:30'
-  crc: '0xe4a80c18'
-- name: VVV\B096.VVV
-  size: 22973
-  date: '1997-12-12T21:24:38'
-  crc: '0x1290887d'
-- name: VVV\B097.VVV
-  size: 5913
-  date: '1997-12-12T21:24:48'
-  crc: '0xed39d2de'
-- name: VVV\B098.VVV
-  size: 17329
-  date: '1997-12-12T21:25:18'
-  crc: '0xd87cdcdf'
-- name: VVV\B099.VVV
-  size: 29061
-  date: '1997-12-12T21:25:26'
-  crc: '0x027d3740'
-- name: VVV\B100.VVV
-  size: 29733
-  date: '1997-01-12T20:58:00'
-  crc: '0x841e11a3'
-- name: VVV\B101.VVV
-  size: 28523
-  date: '1997-01-12T20:58:18'
-  crc: '0x9cea1172'
-- name: VVV\B102.VVV
-  size: 8025
-  date: '1997-01-12T20:58:30'
-  crc: '0xd58f2d92'
-- name: VVV\B103.VVV
-  size: 7367
-  date: '1997-01-12T20:58:42'
-  crc: '0x47157113'
-- name: VVV\B104.VVV
-  size: 5473
-  date: '1997-01-12T20:58:52'
-  crc: '0x77f45088'
-- name: VVV\B105.VVV
-  size: 15747
-  date: '1997-01-12T20:59:02'
-  crc: '0x1d1fb88f'
-- name: VVV\B106.VVV
-  size: 30169
-  date: '1997-01-12T20:59:14'
-  crc: '0x8694d261'
-- name: VVV\B107.VVV
-  size: 25797
-  date: '1997-01-12T20:59:26'
-  crc: '0xcebb01f8'
-- name: VVV\B108.VVV
-  size: 10837
-  date: '1997-01-12T20:59:38'
-  crc: '0xab47d313'
-- name: VVV\B109.VVV
-  size: 17833
-  date: '1997-12-12T21:01:38'
-  crc: '0xe9f5f6ff'
-- name: VVV\B110.VVV
-  size: 6109
-  date: '1997-12-12T21:02:18'
-  crc: '0x604cc9c4'
-- name: VVV\B111.VVV
-  size: 24473
-  date: '1997-12-12T21:02:32'
-  crc: '0x343c7021'
-- name: VVV\B112.VVV
-  size: 3875
-  date: '1997-12-12T21:02:42'
-  crc: '0x9fc1194d'
-- name: VVV\B113.VVV
-  size: 10485
-  date: '1997-12-12T21:02:52'
-  crc: '0x99288352'
-- name: VVV\B114.VVV
-  size: 8193
-  date: '1997-12-12T21:03:00'
-  crc: '0x14ef1db6'
-- name: VVV\B115.VVV
-  size: 16499
-  date: '1997-12-12T21:03:20'
-  crc: '0xae99622d'
-- name: VVV\B116.VVV
-  size: 9383
-  date: '1997-12-12T21:03:32'
-  crc: '0x0e8c952e'
-- name: VVV\B117.VVV
-  size: 16215
-  date: '1997-12-12T21:03:48'
-  crc: '0x93659541'
-- name: VVV\B118.VVV
-  size: 27063
-  date: '1997-12-12T21:03:58'
-  crc: '0xcdd7b892'
-- name: VVV\B119.VVV
-  size: 29681
-  date: '1997-12-12T21:04:04'
-  crc: '0x5584a6c3'
-- name: VVV\B120.VVV
-  size: 4053
-  date: '1997-12-12T21:04:28'
-  crc: '0x350b658d'
-- name: VVV\B121.VVV
-  size: 7583
-  date: '1997-12-12T21:04:36'
-  crc: '0x8f599c4e'
-- name: VVV\B122.VVV
-  size: 13693
-  date: '1997-12-12T21:04:46'
-  crc: '0x707a29e4'
-- name: VVV\B123.VVV
-  size: 7601
-  date: '1997-12-12T21:04:52'
-  crc: '0x15f81cc7'
-- name: VVV\B124.VVV
-  size: 8993
-  date: '1997-12-12T21:05:00'
-  crc: '0x3e2b52a5'
-- name: VVV\B125.VVV
-  size: 27299
-  date: '1997-12-12T21:05:06'
-  crc: '0x916cd775'
-- name: VVV\B126.VVV
-  size: 11913
-  date: '1997-12-12T21:05:14'
-  crc: '0x0e82a8bc'
-- name: VVV\B127.VVV
-  size: 1223
-  date: '1997-12-12T21:05:24'
-  crc: '0x6ca56d16'
-- name: VVV\B128.VVV
-  size: 7103
-  date: '1997-12-12T21:05:32'
-  crc: '0x349e4d6e'
-- name: VVV\B129.VVV
-  size: 6189
-  date: '1997-12-12T21:05:38'
-  crc: '0x7afe7f9c'
-- name: VVV\B130.VVV
-  size: 27851
-  date: '1997-12-12T21:06:00'
-  crc: '0xabc11c05'
-- name: VVV\B131.VVV
-  size: 11799
-  date: '1997-12-12T21:06:08'
-  crc: '0xcc8b8964'
-- name: VVV\B132.VVV
-  size: 11715
-  date: '1997-12-12T21:06:14'
-  crc: '0x580149b1'
-- name: VVV\B133.VVV
-  size: 10561
-  date: '1997-12-12T21:06:22'
-  crc: '0x64719378'
-- name: VVV\B134.VVV
-  size: 15781
-  date: '1997-12-12T21:06:28'
-  crc: '0x4f07e6de'
-- name: VVV\B135.VVV
-  size: 6039
-  date: '1997-12-12T21:06:36'
-  crc: '0xa1bfe970'
-- name: VVV\B136.VVV
-  size: 16179
-  date: '1997-12-12T21:06:44'
-  crc: '0xeb5ad42a'
-- name: VVV\B137.VVV
-  size: 3085
-  date: '1997-12-12T21:06:54'
-  crc: '0x4a323e01'
-- name: VVV\B138.VVV
-  size: 12585
-  date: '1997-12-12T21:07:02'
-  crc: '0xd48b07b0'
-- name: VVV\B139.VVV
-  size: 15125
-  date: '1997-12-12T21:07:20'
-  crc: '0x3b52f1b0'
-- name: VVV\B140.VVV
-  size: 20471
-  date: '1997-12-12T21:07:46'
-  crc: '0x66c0522a'
-- name: VVV\B141.VVV
-  size: 10141
-  date: '1997-12-12T21:07:54'
-  crc: '0xa3fa8c27'
-- name: VVV\B142.VVV
-  size: 27457
-  date: '1997-12-12T21:08:04'
-  crc: '0xeeb282ff'
-- name: VVV\B143.VVV
-  size: 4345
-  date: '1997-12-12T21:08:12'
-  crc: '0xda84e52e'
-- name: VVV\B144.VVV
-  size: 3195
-  date: '1997-12-12T21:08:20'
-  crc: '0x10ae9ad0'
-- name: VVV\B145.VVV
-  size: 7519
-  date: '1997-12-12T21:08:28'
-  crc: '0x4d23eca3'
-- name: VVV\B146.VVV
-  size: 29899
-  date: '1997-12-12T21:08:34'
-  crc: '0xade05f27'
-- name: VVV\B147.VVV
-  size: 14635
-  date: '1997-12-12T21:08:42'
-  crc: '0xfc7727bb'
-- name: VVV\B148.VVV
-  size: 21493
-  date: '1997-12-12T21:08:50'
-  crc: '0x36ad5d78'
-- name: VVV\B149.VVV
-  size: 18513
-  date: '1997-12-12T21:08:58'
-  crc: '0xa4675487'
-- name: VVV\B150.VVV
-  size: 15537
-  date: '1997-12-12T21:09:24'
-  crc: '0x017b8085'
-- name: VVV\B151.VVV
-  size: 17841
-  date: '1997-12-12T21:09:32'
-  crc: '0x6e8bdb55'
-- name: VVV\B152.VVV
-  size: 2343
-  date: '1997-12-12T21:09:42'
-  crc: '0xeb289b63'
-- name: VVV\B153.VVV
-  size: 11009
-  date: '1997-12-12T21:09:52'
-  crc: '0x48dd0533'
-- name: VVV\B154.VVV
-  size: 13965
-  date: '1997-12-12T21:10:00'
-  crc: '0xc5aac54c'
-- name: VVV\B155.VVV
-  size: 11733
-  date: '1997-12-12T21:10:08'
-  crc: '0xb5adc3a5'
-- name: VVV\B156.VVV
-  size: 5799
-  date: '1997-12-12T21:10:16'
-  crc: '0x432d217f'
-- name: VVV\B157.VVV
-  size: 26169
-  date: '1997-12-12T21:10:22'
-  crc: '0x2f0ebced'
-- name: VVV\B158.VVV
-  size: 14339
-  date: '1997-12-12T21:10:32'
-  crc: '0x0e8c4882'
-- name: VVV\B159.VVV
-  size: 5669
-  date: '1997-12-12T21:10:42'
-  crc: '0xff208305'
-- name: VVV\B160.VVV
-  size: 4489
-  date: '1997-12-12T21:11:04'
-  crc: '0xcb8c18c3'
-- name: VVV\B161.VVV
-  size: 3383
-  date: '1997-12-12T21:11:12'
-  crc: '0x87cf6c9f'
-- name: WORD.INX
-  size: 9984
-  date: '2013-01-08T15:34:56'
-  crc: '0x98060475'
+- name: HJM\
+  size: 0
+  date: '1997-01-21T17:00:46'
+- name: HJM\CONT\
+  size: 0
+  date: '1997-01-21T17:01:18'
+- name: HJM\CONT\BG_CON.KKK
+  size: 52835
+  date: '2012-12-17T19:10:08'
+  crc: '0x6ee2daf0'
+- name: HJM\CONT\CONT.KKK
+  size: 84796
+  date: '1996-12-11T11:13:40'
+  crc: '0x6a83104d'
+- name: HJM\CONT\CONT1.KKK
+  size: 84542
+  date: '2012-12-17T19:05:28'
+  crc: '0x7782f82f'
+- name: HJM\HJM.FFF
+  size: 73381316
+  date: '1997-01-03T03:43:38'
+  crc: '0xb4176568'
+- name: HJM\HJM\
+  size: 0
+  date: '1997-01-21T17:03:02'
+- name: HJM\HJM\CONT\
+  size: 0
+  date: '1997-01-21T17:03:34'
+- name: HJM\HJM\CONT\BG_CON.KKK
+  size: 52835
+  date: '2012-12-17T19:10:08'
+  crc: '0x6ee2daf0'
+- name: HJM\HJM\CONT\CONT.KKK
+  size: 84796
+  date: '1996-12-11T11:13:40'
+  crc: '0x6a83104d'
+- name: HJM\HJM\CONT\CONT1.KKK
+  size: 84542
+  date: '2012-12-17T19:05:28'
+  crc: '0x7782f82f'
+- name: HJM\HJM\HJM.FFF
+  size: 73381316
+  date: '1997-01-03T03:43:38'
+  crc: '0xb4176568'
+- name: HJM\HJM\HJM\
+  size: 0
+  date: '1997-01-21T17:04:32'
+- name: HJM\HJM\HJM\CONT\
+  size: 0
+  date: '1997-01-21T17:05:04'
+- name: HJM\HJM\HJM\CONT\BG_CON.KKK
+  size: 52835
+  date: '2012-12-17T19:10:08'
+  crc: '0x6ee2daf0'
+- name: HJM\HJM\HJM\CONT\CONT.KKK
+  size: 84796
+  date: '1996-12-11T11:13:40'
+  crc: '0x6a83104d'
+- name: HJM\HJM\HJM\CONT\CONT1.KKK
+  size: 84542
+  date: '2012-12-17T19:05:28'
+  crc: '0x7782f82f'
+- name: HJM\HJM\HJM\HJM.FFF
+  size: 73381316
+  date: '1997-01-03T03:43:38'
+  crc: '0xb4176568'
+- name: HJM\HJM\HJM\KOMM\
+  size: 0
+  date: '1997-01-21T17:05:04'
+- name: HJM\HJM\HJM\KOMM\A32.KKK
+  size: 83232
+  date: '1996-12-10T13:36:20'
+  crc: '0x93adf114'
+- name: HJM\HJM\HJM\KOMM\KOMM.KKK
+  size: 25960
+  date: '1996-12-27T16:02:16'
+  crc: '0x96c351a3'
+- name: HJM\HJM\HJM\LOGO\
+  size: 0
+  date: '1997-01-21T17:05:06'
+- name: HJM\HJM\HJM\LOGO\LON.KKK
+  size: 18290
+  date: '1996-12-26T12:37:54'
+  crc: '0x86786369'
+- name: HJM\HJM\HJM\NAME\
+  size: 0
+  date: '1997-01-21T17:05:06'
+- name: HJM\HJM\HJM\NAME\BG_NAM.KKK
+  size: 64311
+  date: '1997-01-06T13:40:58'
+  crc: '0xc4ce791a'
+- name: HJM\HJM\HJM\NAME\NAME.KKK
+  size: 103443
+  date: '1996-12-18T10:14:54'
+  crc: '0xea58fc41'
+- name: HJM\HJM\HJM\NAME\NAME1.KKK
+  size: 67865
+  date: '1996-12-23T16:59:48'
+  crc: '0x24768d71'
+- name: HJM\HJM\HJM\NAME\NAME2.KKK
+  size: 100143
+  date: '1997-01-03T16:35:12'
+  crc: '0xb5aecd05'
+- name: HJM\HJM\HJM\NAME\NAME3.KKK
+  size: 96157
+  date: '1997-01-01T17:39:16'
+  crc: '0xadff6a6e'
+- name: HJM\HJM\HJM\PTMM\
+  size: 0
+  date: '1997-01-21T17:05:08'
+- name: HJM\HJM\HJM\PTMM\PTMM01.KKK
+  size: 58581
+  date: '1996-12-24T15:38:58'
+  crc: '0x6325fd45'
+- name: HJM\HJM\HJM\PTMM\PTMM02.KKK
+  size: 70126
+  date: '1996-12-24T15:40:06'
+  crc: '0xb9e04aac'
+- name: HJM\HJM\HJM\PTMM\PTMM03-1.KKK
+  size: 71214
+  date: '1996-12-24T15:40:46'
+  crc: '0x811e473d'
+- name: HJM\HJM\HJM\PTMM\PTMM03.KKK
+  size: 103272
+  date: '1996-12-24T15:41:40'
+  crc: '0x2ad9ab2e'
+- name: HJM\HJM\HJM\PTMM\PTMM04.KKK
+  size: 72731
+  date: '1996-12-24T15:42:22'
+  crc: '0x9b676e7b'
+- name: HJM\HJM\HJM\PTMM\PTMM05.KKK
+  size: 91612
+  date: '1996-12-26T09:41:48'
+  crc: '0xe164fbfd'
+- name: HJM\HJM\HJM\PTMM\PTMM06.KKK
+  size: 63859
+  date: '1996-12-24T15:45:42'
+  crc: '0x2e422532'
+- name: HJM\HJM\HJM\SELECT\
+  size: 0
+  date: '1997-01-21T17:05:08'
+- name: HJM\HJM\HJM\SELECT\BG_SEL.KKK
+  size: 45242
+  date: '2012-12-23T11:01:46'
+  crc: '0xee8fba6a'
+- name: HJM\HJM\HJM\SELECT\SELECT.KKK
+  size: 88435
+  date: '1996-12-08T15:32:32'
+  crc: '0xf09ae97c'
+- name: HJM\HJM\HJM\SELECT\SELECT1.KKK
+  size: 77751
+  date: '1996-12-08T15:51:12'
+  crc: '0x76b336b9'
+- name: HJM\HJM\HJM\SELECT\SELECT2.KKK
+  size: 101142
+  date: '1996-12-21T08:59:04'
+  crc: '0xd00aff18'
+- name: HJM\HJM\HJM\STARTPCX\
+  size: 0
+  date: '1997-01-21T17:05:10'
+- name: HJM\HJM\HJM\STARTPCX\BG1.KKK
+  size: 12884
+  date: '1996-12-03T15:03:22'
+  crc: '0xba42dbce'
+- name: HJM\HJM\HJM\STARTPCX\BG2.KKK
+  size: 17225
+  date: '1996-12-08T09:21:44'
+  crc: '0x9bf8256f'
+- name: HJM\HJM\HJM\STARTPCX\SHMM01.KKK
+  size: 52482
+  date: '1996-12-08T09:17:14'
+  crc: '0x1f5e8a33'
+- name: HJM\HJM\HJM\STARTPCX\SHMM02.KKK
+  size: 33718
+  date: '1996-12-05T14:05:34'
+  crc: '0xbd9068ba'
+- name: HJM\HJM\HJM\STARTPCX\SHMM03.KKK
+  size: 48345
+  date: '1996-12-08T16:02:40'
+  crc: '0x94b62f4d'
+- name: HJM\HJM\KOMM\
+  size: 0
+  date: '1997-01-21T17:03:36'
+- name: HJM\HJM\KOMM\A32.KKK
+  size: 83232
+  date: '1996-12-10T13:36:20'
+  crc: '0x93adf114'
+- name: HJM\HJM\KOMM\KOMM.KKK
+  size: 25960
+  date: '1996-12-27T16:02:16'
+  crc: '0x96c351a3'
+- name: HJM\HJM\LIN\
+  size: 0
+  date: '1997-01-21T17:05:10'
+- name: HJM\HJM\LIN\G320.FFF
+  size: 4497187
+  date: '1997-01-05T00:01:58'
+  crc: '0xdcd00279'
+- name: HJM\HJM\LIN\H320.FFF
+  size: 15353858
+  date: '1997-01-04T23:44:46'
+  crc: '0xc2da8ba3'
+- name: HJM\HJM\LIN\HEAD.FFF
+  size: 15353858
+  date: '1997-01-04T23:44:46'
+  crc: '0xb61e841f'
+- name: HJM\HJM\LIN\MARK.FFF
+  size: 895006
+  date: '1997-01-15T17:06:24'
+  crc: '0x0ae08052'
+- name: HJM\HJM\LIN\PTA.FFF
+  size: 417798
+  date: '1997-01-15T20:33:50'
+  crc: '0xe50bb5c9'
+- name: HJM\HJM\LIN\PTAB.FFF
+  size: 5731209
+  date: '1997-01-15T21:21:20'
+  crc: '0xc9bdbc17'
+- name: HJM\HJM\LIN\PTB.FFF
+  size: 878726
+  date: '1997-01-15T20:59:30'
+  crc: '0x8269a962'
+- name: HJM\HJM\LOGO\
+  size: 0
+  date: '1997-01-21T17:03:36'
+- name: HJM\HJM\LOGO\LON.KKK
+  size: 18290
+  date: '1996-12-26T12:37:54'
+  crc: '0x86786369'
+- name: HJM\HJM\NAME\
+  size: 0
+  date: '1997-01-21T17:03:38'
+- name: HJM\HJM\NAME\BG_NAM.KKK
+  size: 64311
+  date: '1997-01-06T13:40:58'
+  crc: '0xc4ce791a'
+- name: HJM\HJM\NAME\NAME.KKK
+  size: 103443
+  date: '1996-12-18T10:14:54'
+  crc: '0xea58fc41'
+- name: HJM\HJM\NAME\NAME1.KKK
+  size: 67865
+  date: '1996-12-23T16:59:48'
+  crc: '0x24768d71'
+- name: HJM\HJM\NAME\NAME2.KKK
+  size: 100143
+  date: '1997-01-03T16:35:12'
+  crc: '0xb5aecd05'
+- name: HJM\HJM\NAME\NAME3.KKK
+  size: 96157
+  date: '1997-01-01T17:39:16'
+  crc: '0xadff6a6e'
+- name: HJM\HJM\PTMM\
+  size: 0
+  date: '1997-01-21T17:03:38'
+- name: HJM\HJM\PTMM\PTMM01.KKK
+  size: 58581
+  date: '1996-12-24T15:38:58'
+  crc: '0x6325fd45'
+- name: HJM\HJM\PTMM\PTMM02.KKK
+  size: 70126
+  date: '1996-12-24T15:40:06'
+  crc: '0xb9e04aac'
+- name: HJM\HJM\PTMM\PTMM03-1.KKK
+  size: 71214
+  date: '1996-12-24T15:40:46'
+  crc: '0x811e473d'
+- name: HJM\HJM\PTMM\PTMM03.KKK
+  size: 103272
+  date: '1996-12-24T15:41:40'
+  crc: '0x2ad9ab2e'
+- name: HJM\HJM\PTMM\PTMM04.KKK
+  size: 72731
+  date: '1996-12-24T15:42:22'
+  crc: '0x9b676e7b'
+- name: HJM\HJM\PTMM\PTMM05.KKK
+  size: 91612
+  date: '1996-12-26T09:41:48'
+  crc: '0xe164fbfd'
+- name: HJM\HJM\PTMM\PTMM06.KKK
+  size: 63859
+  date: '1996-12-24T15:45:42'
+  crc: '0x2e422532'
+- name: HJM\HJM\SELECT\
+  size: 0
+  date: '1997-01-21T17:03:40'
+- name: HJM\HJM\SELECT\BG_SEL.KKK
+  size: 45242
+  date: '2012-12-23T11:01:46'
+  crc: '0xee8fba6a'
+- name: HJM\HJM\SELECT\SELECT.KKK
+  size: 88435
+  date: '1996-12-08T15:32:32'
+  crc: '0xf09ae97c'
+- name: HJM\HJM\SELECT\SELECT1.KKK
+  size: 77751
+  date: '1996-12-08T15:51:12'
+  crc: '0x76b336b9'
+- name: HJM\HJM\SELECT\SELECT2.KKK
+  size: 101142
+  date: '1996-12-21T08:59:04'
+  crc: '0xd00aff18'
+- name: HJM\HJM\STARTPCX\
+  size: 0
+  date: '1997-01-21T17:03:40'
+- name: HJM\HJM\STARTPCX\BG1.KKK
+  size: 12884
+  date: '1996-12-03T15:03:22'
+  crc: '0xba42dbce'
+- name: HJM\HJM\STARTPCX\BG2.KKK
+  size: 17225
+  date: '1996-12-08T09:21:44'
+  crc: '0x9bf8256f'
+- name: HJM\HJM\STARTPCX\SHMM01.KKK
+  size: 52482
+  date: '1996-12-08T09:17:14'
+  crc: '0x1f5e8a33'
+- name: HJM\HJM\STARTPCX\SHMM02.KKK
+  size: 33718
+  date: '1996-12-05T14:05:34'
+  crc: '0xbd9068ba'
+- name: HJM\HJM\STARTPCX\SHMM03.KKK
+  size: 48345
+  date: '1996-12-08T16:02:40'
+  crc: '0x94b62f4d'
+- name: HJM\KOMM\
+  size: 0
+  date: '1997-01-21T17:01:20'
+- name: HJM\KOMM\A32.KKK
+  size: 83232
+  date: '1996-12-10T13:36:20'
+  crc: '0x93adf114'
+- name: HJM\KOMM\KOMM.KKK
+  size: 25960
+  date: '1996-12-27T16:02:16'
+  crc: '0x96c351a3'
+- name: HJM\LIN\
+  size: 0
+  date: '1997-01-21T17:03:42'
+- name: HJM\LIN\G320.FFF
+  size: 4497187
+  date: '1997-01-05T00:01:58'
+  crc: '0xdcd00279'
+- name: HJM\LIN\H320.FFF
+  size: 15353858
+  date: '1997-01-04T23:44:46'
+  crc: '0xc2da8ba3'
+- name: HJM\LIN\HEAD.FFF
+  size: 15353858
+  date: '1997-01-04T23:44:46'
+  crc: '0xb61e841f'
+- name: HJM\LIN\MARK.FFF
+  size: 895006
+  date: '1997-01-15T17:06:24'
+  crc: '0x0ae08052'
+- name: HJM\LIN\PTA.FFF
+  size: 417798
+  date: '1997-01-15T20:33:50'
+  crc: '0xe50bb5c9'
+- name: HJM\LIN\PTAB.FFF
+  size: 5731209
+  date: '1997-01-15T21:21:20'
+  crc: '0xc9bdbc17'
+- name: HJM\LIN\PTB.FFF
+  size: 878726
+  date: '1997-01-15T20:59:30'
+  crc: '0x8269a962'
+- name: HJM\LOGO\
+  size: 0
+  date: '1997-01-21T17:01:20'
+- name: HJM\LOGO\LON.KKK
+  size: 18290
+  date: '1996-12-26T12:37:54'
+  crc: '0x86786369'
+- name: HJM\NAME\
+  size: 0
+  date: '1997-01-21T17:01:20'
+- name: HJM\NAME\BG_NAM.KKK
+  size: 64311
+  date: '1997-01-06T13:40:58'
+  crc: '0xc4ce791a'
+- name: HJM\NAME\NAME.KKK
+  size: 103443
+  date: '1996-12-18T10:14:54'
+  crc: '0xea58fc41'
+- name: HJM\NAME\NAME1.KKK
+  size: 67865
+  date: '1996-12-23T16:59:48'
+  crc: '0x24768d71'
+- name: HJM\NAME\NAME2.KKK
+  size: 100143
+  date: '1997-01-03T16:35:12'
+  crc: '0xb5aecd05'
+- name: HJM\NAME\NAME3.KKK
+  size: 96157
+  date: '1997-01-01T17:39:16'
+  crc: '0xadff6a6e'
+- name: HJM\PTMM\
+  size: 0
+  date: '1997-01-21T17:01:22'
+- name: HJM\PTMM\PTMM01.KKK
+  size: 58581
+  date: '1996-12-24T15:38:58'
+  crc: '0x6325fd45'
+- name: HJM\PTMM\PTMM02.KKK
+  size: 70126
+  date: '1996-12-24T15:40:06'
+  crc: '0xb9e04aac'
+- name: HJM\PTMM\PTMM03-1.KKK
+  size: 71214
+  date: '1996-12-24T15:40:46'
+  crc: '0x811e473d'
+- name: HJM\PTMM\PTMM03.KKK
+  size: 103272
+  date: '1996-12-24T15:41:40'
+  crc: '0x2ad9ab2e'
+- name: HJM\PTMM\PTMM04.KKK
+  size: 72731
+  date: '1996-12-24T15:42:22'
+  crc: '0x9b676e7b'
+- name: HJM\PTMM\PTMM05.KKK
+  size: 91612
+  date: '1996-12-26T09:41:48'
+  crc: '0xe164fbfd'
+- name: HJM\PTMM\PTMM06.KKK
+  size: 63859
+  date: '1996-12-24T15:45:42'
+  crc: '0x2e422532'
+- name: HJM\SELECT\
+  size: 0
+  date: '1997-01-21T17:01:24'
+- name: HJM\SELECT\BG_SEL.KKK
+  size: 45242
+  date: '2012-12-23T11:01:46'
+  crc: '0xee8fba6a'
+- name: HJM\SELECT\SELECT.KKK
+  size: 88435
+  date: '1996-12-08T15:32:32'
+  crc: '0xf09ae97c'
+- name: HJM\SELECT\SELECT1.KKK
+  size: 77751
+  date: '1996-12-08T15:51:12'
+  crc: '0x76b336b9'
+- name: HJM\SELECT\SELECT2.KKK
+  size: 101142
+  date: '1996-12-21T08:59:04'
+  crc: '0xd00aff18'
+- name: HJM\STARTPCX\
+  size: 0
+  date: '1997-01-21T17:01:24'
+- name: HJM\STARTPCX\BG1.KKK
+  size: 12884
+  date: '1996-12-03T15:03:22'
+  crc: '0xba42dbce'
+- name: HJM\STARTPCX\BG2.KKK
+  size: 17225
+  date: '1996-12-08T09:21:44'
+  crc: '0x9bf8256f'
+- name: HJM\STARTPCX\SHMM01.KKK
+  size: 52482
+  date: '1996-12-08T09:17:14'
+  crc: '0x1f5e8a33'
+- name: HJM\STARTPCX\SHMM02.KKK
+  size: 33718
+  date: '1996-12-05T14:05:34'
+  crc: '0xbd9068ba'
+- name: HJM\STARTPCX\SHMM03.KKK
+  size: 48345
+  date: '1996-12-08T16:02:40'
+  crc: '0x94b62f4d'
+- name: INSTALL.EXE
+  size: 60874
+  date: '1997-01-18T21:00:32'
+  crc: '0xc066ac32'
+- name: LIN\
+  size: 0
+  date: '1997-01-21T17:01:26'
+- name: LIN\G320.FFF
+  size: 4497187
+  date: '1997-01-05T00:01:58'
+  crc: '0xdcd00279'
+- name: LIN\H320.FFF
+  size: 15353858
+  date: '1997-01-04T23:44:46'
+  crc: '0xc2da8ba3'
+- name: LIN\HEAD.FFF
+  size: 15353858
+  date: '1997-01-04T23:44:46'
+  crc: '0xb61e841f'
+- name: LIN\MARK.FFF
+  size: 895006
+  date: '1997-01-15T17:06:24'
+  crc: '0x0ae08052'
+- name: LIN\PTA.FFF
+  size: 417798
+  date: '1997-01-15T20:33:50'
+  crc: '0xe50bb5c9'
+- name: LIN\PTAB.FFF
+  size: 5731209
+  date: '1997-01-15T21:21:20'
+  crc: '0xc9bdbc17'
+- name: LIN\PTB.FFF
+  size: 878726
+  date: '1997-01-15T20:59:30'
+  crc: '0x8269a962'

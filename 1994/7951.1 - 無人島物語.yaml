@@ -16,8 +16,6 @@ type: zip
 installer: true
 commands:
   play: INSTALL.EXE
-references:
-  mobygames: https://www.mobygames.com/game/pc98/mujint-monogatari
 files:
 - name: BAR.BMP
   size: 9534

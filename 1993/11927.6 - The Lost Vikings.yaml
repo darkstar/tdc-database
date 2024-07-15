@@ -1,32 +1,22 @@
-filename: Lost Vikings, The [a1] (1993)(Interplay Productions, Inc.) [Action, Strategy].zip
+filename: Lost Vikings, The (De) (1993)(Interplay Productions, Ltd.) [IMA][1440k].zip
 tdc_id: '11927.6'
 title:
   box: The Lost Vikings
-publisher: Interplay Productions, Inc.
+publisher: Interplay Productions, Ltd.
 year: '1993'
-genre:
-- Action
-- Strategy
-language: English
+genre: IMA
+language: German
 date:
   added: '2019-03-01T19:12:14'
-  last_modified: '2019-03-01T19:12:14'
-type: zip
-tags:
-- Alternate: 1
+  last_modified: '2024-07-03T15:47:49'
+type: IMA
+media: 1.44M
 references:
+  mobygames: https://www.mobygames.com/game/1547/the-lost-vikings/
   dosid: DOS03249
   exodos: Lost Vikings, The (1993).zip
 files:
-- name: DATA.DAT
-  size: 1571357
-  date: '1999-11-11T11:41:52'
-  crc: '0x8ddcf616'
-- name: SETUP.EXE
-  size: 33552
-  date: '1999-11-11T11:41:40'
-  crc: '0x5a63dfbf'
-- name: VIKINGS.EXE
-  size: 142144
-  date: '1999-11-11T11:41:40'
-  crc: '0xf310c8bb'
+- name: disk1.ima
+  size: 1474560
+  date: '2012-11-17T09:18:12'
+  crc: '0x789bec6d'

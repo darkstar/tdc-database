@@ -1,19 +1,29 @@
-filename: Wing Commander II- Vengeance of the Kilrathi - Special Operations 2 (1992)(ORIGIN Systems, Inc.) [Simulation, Addon][!].zip
+filename: Wing Commander II- Vengeance of the Kilrathi - Special Operations 2 v7.3F (Installer) (1992)(ORIGIN Systems, Inc.) [Action, Simulation, Addon][!].zip
 tdc_id: '16042.0'
+parent_id: '16042.1'
 title:
   box: 'Wing Commander II: Vengeance of the Kilrathi - Special Operations 2'
+  qualifier: Installer
 publisher: ORIGIN Systems, Inc.
 year: '1992'
 genre:
+- Action
 - Simulation
 - Addon
 language: English
 date:
   added: '2019-03-01T18:52:26'
-  last_modified: '2019-03-01T18:52:26'
+  last_modified: '2024-07-03T12:25:01'
+version: 7.3F
 type: zip
 tags:
 - KnownGood
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL2.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1107/wing-commander-ii-vengeance-of-the-kilrathi-special-operations-2/
 files:
 - name: ALTSHIPS.002
   size: 2480
@@ -85,12 +95,12 @@ files:
   crc: '0x7712e83e'
 - name: INSTALL2.DAT
   size: 1400
-  date: '1992-05-05T16:42:06'
-  crc: '0x8292383a'
+  date: '1992-06-09T11:36:10'
+  crc: '0x3579dd88'
 - name: INSTALL2.EXE
-  size: 71408
-  date: '1992-03-16T15:32:08'
-  crc: '0x89e85954'
+  size: 134504
+  date: '1992-06-09T11:19:22'
+  crc: '0x18f0e221'
 - name: INSULT2.LZC
   size: 24291
   date: '1992-04-24T14:45:38'
@@ -232,9 +242,9 @@ files:
   date: '1992-04-14T10:46:50'
   crc: '0x9ed67719'
 - name: SERIES.S02
-  size: 93311
-  date: '1992-05-05T16:13:32'
-  crc: '0x789da6f8'
+  size: 93327
+  date: '1992-06-04T09:33:42'
+  crc: '0x18a09a38'
 - name: SHIP.V41
   size: 64867
   date: '1992-04-10T10:14:52'
@@ -247,10 +257,13 @@ files:
   size: 68875
   date: '1992-03-26T16:29:48'
   crc: '0x6bad8841'
+- name: SO2 V7_3.F
+  size: 0
+  date: '1992-06-09T11:40:10'
 - name: SO2.LZC
-  size: 234092
-  date: '1992-05-05T16:36:34'
-  crc: '0x9ea65efd'
+  size: 234103
+  date: '1992-06-09T11:34:06'
+  crc: '0x5643728d'
 - name: SPEECH.S20
   size: 136480
   date: '1992-04-20T14:40:16'

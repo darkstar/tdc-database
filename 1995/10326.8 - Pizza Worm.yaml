@@ -1,0 +1,41 @@
+filename: Pizza Worm v2.1 [FW] (1995)(Zorlim Software) [Action].zip
+tdc_id: '10326.8'
+title:
+  screen: Pizza Worm
+publisher: Zorlim Software
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2024-06-19T15:04:53'
+  last_modified: '2024-06-19T15:04:53'
+version: '2.1'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: PWORM.EXE
+references:
+  mobygames: https://www.mobygames.com/game/4150/pizza-worm/
+files:
+- name: FILE_ID.DIZ
+  size: 555
+  date: '1995-04-06T14:27:34'
+  crc: '0xbf3f5987'
+- name: PWORM.DAT
+  size: 380405
+  date: '1995-04-06T14:17:40'
+  crc: '0xb460430f'
+- name: PWORM.DOC
+  size: 7182
+  date: '1995-04-06T17:24:28'
+  crc: '0x41360f69'
+- name: PWORM.EXE
+  size: 51037
+  date: '1995-04-06T14:20:56'
+  crc: '0xf6bb966b'
+- name: ZORLIM.EXE
+  size: 7741
+  date: '1995-04-06T14:26:26'
+  crc: '0x08622f51'

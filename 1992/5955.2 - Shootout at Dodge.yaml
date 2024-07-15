@@ -1,0 +1,40 @@
+filename: Shootout at Dodge (Installer) [SW] (1992)(Sherwood Forest Software) [Action].zip
+tdc_id: '5955.2'
+title:
+  screen: Shootout at Dodge
+  qualifier: Installer
+publisher: Sherwood Forest Software
+year: '1992'
+genre: Action
+language: English
+date:
+  added: '2024-06-22T08:47:08'
+  last_modified: '2024-06-22T08:47:08'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.BAT
+files:
+- name: DEICE.EXE
+  size: 17303
+  date: '1993-04-10T13:01:00'
+  crc: '0xaad4552c'
+- name: INSTALL.BAT
+  size: 84
+  date: '1994-08-02T21:31:28'
+  crc: '0xbde67774'
+- name: README.TXT
+  size: 582
+  date: '1996-09-24T17:23:40'
+  crc: '0x09fe4dee'
+- name: SDODGE.1
+  size: 144642
+  date: '1993-06-21T10:06:26'
+  crc: '0xf97de63a'
+- name: SDODGE.DAT
+  size: 338
+  date: '1994-08-02T22:36:56'
+  crc: '0x1ad64d23'

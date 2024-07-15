@@ -13,8 +13,6 @@ version: '1.0'
 type: zip
 commands:
   play: SHOCK.EXE
-references:
-  mobygames: https://www.mobygames.com/game/dos/pro-pinball-timeshock
 files:
 - name: DAT\
   size: 0

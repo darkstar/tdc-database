@@ -22,8 +22,6 @@ version: 1.4.1-CD
 type: zip
 commands:
   play: INSTALL.BAT
-references:
-  mobygames: https://www.mobygames.com/game/dos/mission-pom-br-the-snackn-run-game
 files:
 - name: DISKVER.BAT
   size: 1519

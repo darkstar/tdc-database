@@ -1,0 +1,48 @@
+filename: Rise of the Triad- The HUNT Begins v1.3 (Installer) [SW][a1] (1995)(Apogee Software, Ltd.) [Action].zip
+tdc_id: '14904.9'
+title:
+  screen: 'Rise of the Triad: The HUNT Begins'
+  qualifier: Installer
+publisher: Apogee Software, Ltd.
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2024-06-21T15:13:49'
+  last_modified: '2024-06-21T15:13:49'
+version: '1.3'
+type: zip
+tags:
+- Shareware
+- Alternate: 1
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/58990/rise-of-the-triad-the-hunt-begins/
+files:
+- name: FILE_ID.DIZ
+  size: 504
+  date: '1995-08-01T13:30:00'
+  crc: '0xcf3a3501'
+- name: INSTALL.EXE
+  size: 52592
+  date: '1995-08-01T13:30:00'
+  crc: '0x429fc3cd'
+- name: ROT13BBS.IFC
+  size: 10746
+  date: '1995-08-01T13:30:00'
+  crc: '0xc0401d65'
+- name: ROT13BBS._1
+  size: 798720
+  date: '1995-08-01T13:30:00'
+  crc: '0x1be74ce9'
+- name: ROT13BBS._2
+  size: 1457152
+  date: '1995-08-01T13:30:00'
+  crc: '0x23ea1724'
+- name: ROT13BBS._3
+  size: 1456318
+  date: '1995-08-01T13:30:00'
+  crc: '0x5518a806'

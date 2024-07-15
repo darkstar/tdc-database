@@ -1,4 +1,4 @@
-filename: Pizza Worm v2.1g [b1] (1999)(Zorlim Software) [Action].zip
+filename: Pizza Worm v2.1G [FW][b1] (1999)(Zorlim Software) [Action].zip
 tdc_id: '10326.6'
 title:
   screen: Pizza Worm
@@ -8,14 +8,17 @@ genre: Action
 language: English
 date:
   added: '2016-02-17T13:45:48'
-  last_modified: '2016-02-17T13:45:48'
-version: 2.1g
+  last_modified: '2024-06-20T07:57:20'
+version: 2.1G
 type: zip
 tags:
+- Freeware
 - Bad: 1
 media: Download
 commands:
   play: PWORM.EXE
+references:
+  mobygames: https://www.mobygames.com/game/4150/pizza-worm/
 files:
 - name: FILE_ID.DIZ
   size: 292

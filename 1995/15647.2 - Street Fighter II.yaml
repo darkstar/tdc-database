@@ -1,0 +1,65 @@
+filename: Street Fighter II (1995)(Kixx, U.S. Gold Ltd.) [Action].zip
+tdc_id: '15647.2'
+parent_id: '15647.7'
+title:
+  box: Street Fighter II
+publisher: Kixx, U.S. Gold Ltd.
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:51:34'
+  last_modified: '2024-05-25T15:12:56'
+type: zip
+media: CD-ROM
+commands:
+  play: SF2.EXE
+references:
+  mobygames: https://www.mobygames.com/game/6239/street-fighter-ii/
+  dosid: DOS02789
+  exodos: Street Fighter II (1992).zip
+files:
+- name: BACKDROP.SF2
+  size: 774204
+  date: '1995-05-31T11:05:38'
+  crc: '0x287f24a0'
+- name: CONFIG.SF2
+  size: 47
+  date: '1995-05-31T16:28:38'
+  crc: '0xb813afa2'
+- name: EXTRAS.SF2
+  size: 182
+  date: '1995-05-31T11:13:48'
+  crc: '0x5104e60b'
+- name: GENERAL.SF2
+  size: 643620
+  date: '1995-05-31T11:05:06'
+  crc: '0x61c8ba48'
+- name: HIGHSCOR.SF2
+  size: 94
+  date: '1995-05-31T11:32:38'
+  crc: '0x56993065'
+- name: INDEX.SF2
+  size: 63861
+  date: '1995-05-31T11:05:56'
+  crc: '0xec9cee7a'
+- name: SBDRIVER.DRV
+  size: 2048
+  date: '1995-05-31T11:04:42'
+  crc: '0x1b0082eb'
+- name: SF2.EXE
+  size: 79948
+  date: '1995-05-31T11:27:38'
+  crc: '0xc9dc2b7a'
+- name: SF2.PIF
+  size: 545
+  date: '1995-05-31T11:04:42'
+  crc: '0xabbf0689'
+- name: SPRITE1.SF2
+  size: 1297466
+  date: '1995-05-31T11:06:44'
+  crc: '0x833c9942'
+- name: SPRITE2.SF2
+  size: 1302349
+  date: '1995-05-31T11:07:46'
+  crc: '0xdca64394'

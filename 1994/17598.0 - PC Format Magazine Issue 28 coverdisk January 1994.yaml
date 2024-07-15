@@ -1,0 +1,45 @@
+filename: PC Format Magazine Issue 28 coverdisk January 1994 (Installer) (1994)(PC Format Magazine) [Compilation].zip
+tdc_id: '17598.0'
+title:
+  box: PC Format Magazine Issue 28 coverdisk January 1994
+  qualifier: Installer
+publisher: PC Format Magazine
+year: '1994'
+genre: Compilation
+language: English
+date:
+  added: '2024-06-26T09:04:30'
+  last_modified: '2024-06-26T09:04:30'
+type: zip
+installer: true
+commands:
+  play: PCF.EXE
+files:
+- name: FIRE.ZIP
+  size: 280587
+  date: '1993-11-10T21:57:42'
+  crc: '0x22276569'
+- name: FURY.ZIP
+  size: 367337
+  date: '1993-11-15T13:44:00'
+  crc: '0x7c95a3f1'
+- name: MENU.TXT
+  size: 462
+  date: '1993-11-29T15:10:40'
+  crc: '0xfadd6c83'
+- name: PCF.EXE
+  size: 3706
+  date: '1993-07-14T16:11:58'
+  crc: '0x53cb262c'
+- name: PCF.GRF
+  size: 1000
+  date: '1993-07-12T14:29:36'
+  crc: '0x00c95756'
+- name: PINBALL.ZIP
+  size: 711561
+  date: '1993-10-19T12:21:00'
+  crc: '0xe175dc6d'
+- name: PKUNZIP.EXE
+  size: 29656
+  date: '1992-05-01T00:00:00'
+  crc: '0xfdaacd55'

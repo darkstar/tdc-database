@@ -1,0 +1,45 @@
+filename: Cribbage v1.11 [SW] (1996)(Paul R. Clements Jr.) [Strategy, Cards].zip
+tdc_id: '17590.0'
+title:
+  screen: Cribbage
+publisher: Paul R. Clements Jr.
+year: '1996'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2024-06-22T14:19:40'
+  last_modified: '2024-06-22T14:19:40'
+version: '1.11'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: VGACRIB.EXE
+files:
+- name: CRIB.HIS
+  size: 811
+  date: '1996-09-23T01:35:44'
+  crc: '0xfd4ef9db'
+- name: CRIB.LOG
+  size: 15
+  date: '1996-09-26T18:12:58'
+  crc: '0x9cc3449d'
+- name: CRIBBAGE.INS
+  size: 10324
+  date: '1996-06-30T03:14:44'
+  crc: '0xf7df400e'
+- name: README.TXT
+  size: 993
+  date: '1996-09-26T18:03:22'
+  crc: '0xb3a218eb'
+- name: REGISTER.TXT
+  size: 666
+  date: '1996-09-26T18:04:38'
+  crc: '0x44542a7e'
+- name: VGACRIB.EXE
+  size: 108180
+  date: '1996-09-26T18:11:34'
+  crc: '0xf4bff4fa'

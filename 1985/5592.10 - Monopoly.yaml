@@ -15,8 +15,6 @@ version: '3.22'
 type: zip
 commands:
   play: MONOPOLY.COM
-references:
-  mobygames: https://www.mobygames.com/game/monopoly_
 files:
 - name: MONOCODE.000
   size: 7168

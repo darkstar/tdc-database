@@ -1,0 +1,39 @@
+filename: Shadow Warrior v1.2 (Installer) [SW] (1997)(3D Realms Entertainment, Inc.) [Action].zip
+tdc_id: '5900.6'
+title:
+  screen: Shadow Warrior
+  qualifier: Installer
+publisher: 3D Realms Entertainment, Inc.
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2024-06-18T15:31:20'
+  last_modified: '2024-06-18T15:31:20'
+version: '1.2'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/387/shadow-warrior/
+files:
+- name: FILE_ID.DIZ
+  size: 451
+  date: '1997-08-25T13:20:00'
+  crc: '0xb57ae3a5'
+- name: INSTALL.EXE
+  size: 142326
+  date: '1997-08-25T13:20:00'
+  crc: '0x68939de2'
+- name: LICENSE.TXT
+  size: 6689
+  date: '1997-08-25T13:20:00'
+  crc: '0x41a8644f'
+- name: SWSW12.SHR
+  size: 13233269
+  date: '1997-08-25T13:20:00'
+  crc: '0xfe1b6b20'

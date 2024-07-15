@@ -13,8 +13,6 @@ type: zip
 installer: true
 commands:
   play: INSTALL.EXE
-references:
-  mobygames: https://www.mobygames.com/game/dos/abenteuer-europa
 files:
 - name: INST001.EXE
   size: 1401944

@@ -1,5 +1,6 @@
-filename: Might and Magic III- Isles of Terra [a1] (1991)(New World Computing, Inc.) [Role-Playing (RPG)].zip
+filename: Might and Magic III- Isles of Terra r911001 (1991)(New World Computing, Inc.) [Role-Playing (RPG)].zip
 tdc_id: '14290.13'
+parent_id: '14290.10'
 title:
   box: 'Might and Magic III: Isles of Terra'
 publisher: New World Computing, Inc.
@@ -8,11 +9,14 @@ genre: Role-Playing (RPG)
 language: English
 date:
   added: '2021-12-03T14:09:00'
-  last_modified: '2021-12-03T14:09:00'
+  last_modified: '2024-07-02T10:21:11'
+release: '911001'
 type: zip
-tags:
-- Alternate: 1
+media: 1.2M
+commands:
+  play: MM3.COM
 references:
+  mobygames: https://www.mobygames.com/game/1621/might-and-magic-iii-isles-of-terra/
   dosid: DOS03563
   exodos: Might and Magic 3 - Isles of Terra (1991).zip
 files:
@@ -29,9 +33,9 @@ files:
   date: '1991-10-01T18:28:50'
   crc: '0x5e43e620'
 - name: MM3.COM
-  size: 2000
-  date: '1996-10-09T20:15:50'
-  crc: '0x444acad8'
+  size: 142
+  date: '1980-01-01T00:00:00'
+  crc: '0x37f50071'
 - name: MM3.EXE
   size: 280032
   date: '1991-10-01T18:28:50'

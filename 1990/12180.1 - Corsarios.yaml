@@ -1,4 +1,4 @@
-filename: Corsarios [DC] (1990)(Opera Soft S.A.) [Action].zip
+filename: Corsarios [DC][h1] (1990)(Opera Soft S.A.) [Action].zip
 tdc_id: '12180.1'
 title:
   box: Corsarios
@@ -8,12 +8,15 @@ genre: Action
 language: English
 date:
   added: '2019-03-01T18:32:10'
-  last_modified: '2019-03-01T18:32:10'
+  last_modified: '2024-07-08T08:48:49'
 type: zip
 tags:
 - DOSConversion
+- Hack: 1
 commands:
   play: LOADER.EXE
+references:
+  mobygames: https://www.mobygames.com/game/24830/corsarios/
 files:
 - name: '--------.---'
   size: 0

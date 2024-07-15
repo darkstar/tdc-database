@@ -15,8 +15,6 @@ type: zip
 media: CD-ROM
 commands:
   play: START.BAT
-references:
-  mobygames: https://www.mobygames.com/game/dos/pandora-directive
 files:
 - name: AUTOBOOT.EXE
   size: 46208

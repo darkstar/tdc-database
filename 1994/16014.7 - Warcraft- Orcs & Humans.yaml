@@ -15,8 +15,6 @@ installer: true
 demo: true
 commands:
   play: INSTALL.EXE
-references:
-  mobygames: https://www.mobygames.com/game/dos/warcraft-orcs-humans
 files:
 - name: ADLIB.MDA
   size: 4107

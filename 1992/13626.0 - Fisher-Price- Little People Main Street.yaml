@@ -1,15 +1,18 @@
-filename: Fisher-Price- Little People Main Street (1992)(Gametek, Inc.) [Educational].zip
+filename: Fisher-Price- Little People Main Street (1992)(GameTek, Inc.) [Educational].zip
 tdc_id: '13626.0'
 title:
   box: 'Fisher-Price: Little People Main Street'
-publisher: Gametek, Inc.
+publisher: GameTek, Inc.
 year: '1992'
 genre: Educational
 language: English
 date:
   added: '2019-03-01T18:44:46'
-  last_modified: '2019-03-01T18:44:46'
+  last_modified: '2024-06-09T19:42:52'
 type: zip
+commands:
+  play: MAINSTR.EXE
+  setup: FPCONFIG.EXE
 references:
   dosid: DOS15597
   exodos: Little People Main Street (1992).zip

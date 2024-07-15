@@ -1,0 +1,52 @@
+filename: FlashCard Arithmetic v3.5 [SW] (1992)(Ed Oliver) [Educational].zip
+tdc_id: '17593.0'
+title:
+  screen: FlashCard Arithmetic
+publisher: Ed Oliver
+year: '1992'
+genre: Educational
+language: English
+date:
+  added: '2024-06-22T15:33:21'
+  last_modified: '2024-06-22T15:33:21'
+version: '3.5'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: FLASHCRD.EXE
+  setup: FLASHCFG.EXE
+files:
+- name: FLASH.CFG
+  size: 819
+  date: '1992-01-02T14:33:34'
+  crc: '0xfff967db'
+- name: FLASH.DOC
+  size: 26880
+  date: '1992-01-31T20:28:48'
+  crc: '0x7f9157ec'
+- name: FLASH.HLP
+  size: 10240
+  date: '1992-01-02T15:31:08'
+  crc: '0xa655e83e'
+- name: FLASH.REG
+  size: 1920
+  date: '1992-01-02T14:24:12'
+  crc: '0x25cad9b3'
+- name: FLASH.SIT
+  size: 2176
+  date: '1992-01-02T14:24:30'
+  crc: '0xc1d008d9'
+- name: FLASHCFG.EXE
+  size: 35568
+  date: '1992-01-31T20:58:54'
+  crc: '0x9c4870a7'
+- name: FLASHCRD.EXE
+  size: 57904
+  date: '1992-01-31T20:58:42'
+  crc: '0xb515d5e6'
+- name: READ.ME
+  size: 1280
+  date: '1992-01-31T20:42:36'
+  crc: '0xe540897b'

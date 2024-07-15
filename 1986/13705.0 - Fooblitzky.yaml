@@ -15,8 +15,6 @@ installer: true
 commands:
   play: INSTALLH.BAT
   setup: FOO.BAT
-references:
-  mobygames: https://www.mobygames.com/game/dos/fooblitzky
 files:
 - name: AUTOEXEC.BAT
   size: 128

@@ -1,4 +1,4 @@
-filename: Kiloblaster- Death of a Starship [SW] (1992)(Epic MegaGames, Inc.) [Action].zip
+filename: Kiloblaster- Death of a Starship v1.0 [SW] (1992)(Epic MegaGames, Inc.) [Action].zip
 tdc_id: '11788.0'
 title:
   screen: 'Kiloblaster: Death of a Starship'
@@ -8,11 +8,16 @@ genre: Action
 language: English
 date:
   added: '2014-09-23T19:41:36'
-  last_modified: '2014-09-23T19:41:36'
+  last_modified: '2024-06-22T08:51:48'
+version: '1.0'
 type: zip
 tags:
 - Shareware
 media: Download
+commands:
+  play: KILO.BAT
+references:
+  mobygames: https://www.mobygames.com/game/1074/kiloblaster/
 files:
 - name: '-------.---'
   size: 2

@@ -1,5 +1,6 @@
-filename: Indiana Jones and the Last Crusade- The Action Game [h1] (1989)(Lucasfilm Games) [Action].zip
+filename: Indiana Jones and the Last Crusade- The Action Game v1.1 [a1] (1989)(Lucasfilm Games) [Action].zip
 tdc_id: '11477.3'
+parent_id: '11477.2'
 title:
   box: 'Indiana Jones and the Last Crusade: The Action Game'
 publisher: Lucasfilm Games
@@ -8,234 +9,249 @@ genre: Action
 language: English
 date:
   added: '2019-03-01T18:28:02'
-  last_modified: '2019-03-01T18:28:02'
+  last_modified: '2024-07-09T09:03:47'
+version: '1.1'
 type: zip
 tags:
-- Hack: 1
+- Alternate: 1
+media: 720K
 commands:
-  play: Indy.com
+  play: INDY.COM
+references:
+  mobygames: https://www.mobygames.com/game/1146/indiana-jones-and-the-last-crusade-the-action-game/
 files:
-- name: Boyindy.rlc
+- name: BOYINDY.RLC
   size: 11055
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0xcab7d4db'
-- name: Boyindy.rle
+- name: BOYINDY.RLE
   size: 26354
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0xfb40c962'
-- name: Boymask.rlc
+- name: BOYMASK.RLC
   size: 13520
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0xf9b26588'
-- name: Chr1.cga
+- name: CHR1.CGA
   size: 8192
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0x51818614'
-- name: Chr1.ega
+- name: CHR1.EGA
   size: 16384
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0xb6cb4496'
-- name: Chr2.cga
+- name: CHR2.CGA
   size: 8192
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0xb7fbee8d'
-- name: Chr2.ega
+- name: CHR2.EGA
   size: 16384
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0xf5323080'
-- name: Chr3.cga
+- name: CHR3.CGA
   size: 8192
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0xa6cc932d'
-- name: Chr3.ega
+- name: CHR3.EGA
   size: 16384
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0x2c6363f5'
-- name: Chr4.cga
+- name: CHR4.CGA
   size: 8192
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0xf24a8609'
-- name: Chr4.ega
+- name: CHR4.EGA
   size: 16384
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0x0398e5f6'
-- name: Chr6.cga
+- name: CHR6.CGA
   size: 8192
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0x7600633b'
-- name: Chr6.ega
+- name: CHR6.EGA
   size: 16384
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0x8ec49c40'
-- name: Digi1.rlc
+- name: DIGI1.RLC
   size: 8548
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0xf974e9f5'
-- name: Digi1.rle
+- name: DIGI1.RLE
   size: 15925
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0x5f125c3c'
-- name: Digi2.rlc
+- name: DIGI2.RLC
   size: 8461
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0xde2eafa6'
-- name: Digi2.rle
+- name: DIGI2.RLE
   size: 16448
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0x6333d0df'
-- name: Digi3.rlc
+- name: DIGI3.RLC
   size: 8625
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0xb3005c5e'
-- name: Digi3.rle
+- name: DIGI3.RLE
   size: 16217
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0x00be4eb3'
-- name: Digi4.rlc
+- name: DIGI4.RLC
   size: 8681
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0xf219cc6d'
-- name: Digi4.rle
+- name: DIGI4.RLE
   size: 15619
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0x4487199e'
-- name: Indy.com
-  size: 48896
-  date: '2006-09-01T12:05:02'
-  crc: '0xfb239165'
-- name: Indy.rlc
+- name: INDY.COM
+  size: 48893
+  date: '1989-09-25T18:30:12'
+  crc: '0xec51079d'
+- name: INDY.RLC
   size: 11646
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0x7bed6569'
-- name: Indy.rle
+- name: INDY.RLE
   size: 29497
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0xf6fd2362'
-- name: Indymask.rlc
+- name: INDYMASK.RLC
   size: 13976
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0x93d94326'
-- name: L1mask.rlc
+- name: INSTALL.BAT
+  size: 3812
+  date: '1989-09-25T12:00:00'
+  crc: '0xd792d5c8'
+- name: Indy Action
+  size: 0
+  date: '1989-10-02T12:20:00'
+- name: L1MASK.RLC
   size: 11462
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0xa8744359'
-- name: L2mask.rlc
+- name: L2MASK.RLC
   size: 9779
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0x18b22434'
-- name: L3mask.rlc
+- name: L3MASK.RLC
   size: 9467
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0x6e8ed05c'
-- name: L4mask.rlc
+- name: L4MASK.RLC
   size: 5733
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0x0e41ab86'
-- name: Level1.rlc
+- name: LEVEL1.RLC
   size: 9769
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0x935b8463'
-- name: Level1.rle
+- name: LEVEL1.RLE
   size: 26994
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0x994ad37b'
-- name: Level2.rlc
+- name: LEVEL2.RLC
   size: 7322
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0x7cfed725'
-- name: Level2.rle
+- name: LEVEL2.RLE
   size: 22777
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0x654f2b5b'
-- name: Level3.rlc
+- name: LEVEL3.RLC
   size: 9972
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0x2581dadf'
-- name: Level3.rle
+- name: LEVEL3.RLE
   size: 24809
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0x16b5f35a'
-- name: Level4.rlc
+- name: LEVEL4.RLC
   size: 4552
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0x5234e134'
-- name: Level4.rle
+- name: LEVEL4.RLE
   size: 12380
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0xbb54b69c'
-- name: Logo.rlc
+- name: LOGO.RLC
   size: 6004
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0x0c6df474'
-- name: Logo.rle
+- name: LOGO.RLE
   size: 13333
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0xc56e20b9'
-- name: Map1.cga
+- name: MAP1.CGA
   size: 6210
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0x81faa674'
-- name: Map1.ega
+- name: MAP1.EGA
   size: 6210
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0x9a5c2b83'
-- name: Map2.cga
+- name: MAP2.CGA
   size: 6054
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0xe19a22ac'
-- name: Map2.ega
+- name: MAP2.EGA
   size: 6918
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0x8e2e80c2'
-- name: Map3.cga
+- name: MAP3.CGA
   size: 5334
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0xf9df1e88'
-- name: Map3.ega
+- name: MAP3.EGA
   size: 5556
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0x5342f66f'
-- name: Map4.cga
+- name: MAP4.CGA
   size: 6111
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0x233cb335'
-- name: Map4.ega
+- name: MAP4.EGA
   size: 6111
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0xa5f5241f'
-- name: Map5.cga
+- name: MAP5.CGA
   size: 1161
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0x51f3bca9'
-- name: Map5.ega
+- name: MAP5.EGA
   size: 1161
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0x9caf556f'
-- name: Map6.cga
+- name: MAP6.CGA
   size: 246
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0xfa27964d'
-- name: Map6.ega
+- name: MAP6.EGA
   size: 246
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0xfa27964d'
-- name: Panel.rlc
+- name: PANEL.RLC
   size: 11015
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0x334f25e7'
-- name: Panel.rle
+- name: PANEL.RLE
   size: 18739
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0xeb019e28'
-- name: Text.rle
+- name: README
+  size: 1203
+  date: '1989-10-02T11:15:12'
+  crc: '0xc33496f3'
+- name: TEXT.RLE
   size: 21837
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0xa476b915'
-- name: Title.rlc
+- name: TITLE.RLC
   size: 11744
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0x088dc909'
-- name: Title.rle
+- name: TITLE.RLE
   size: 25403
-  date: '2006-09-01T12:05:02'
+  date: '1989-09-26T12:00:00'
   crc: '0x4da75f8c'

@@ -16,8 +16,6 @@ release: '930901'
 type: zip
 commands:
   play: SPECTRE.BAT
-references:
-  mobygames: https://www.mobygames.com/game/dos/spectre
 files:
 - name: ADLIB.DRV
   size: 5610

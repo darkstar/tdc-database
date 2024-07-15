@@ -1,7 +1,8 @@
-filename: Retribution v1.11 (Installer) (De)(Fr)(En) (1994)(Gremlin Interactive Limited) [Action, Simulation].zip
+filename: Retribution v1.10 (Installer) (De)(Fr)(En) (1994)(Gremlin Interactive Limited) [Action, Simulation].zip
 tdc_id: '14853.2'
 title:
   box: Retribution
+  qualifier: Installer
 publisher: Gremlin Interactive Limited
 year: '1994'
 genre:
@@ -13,19 +14,39 @@ language:
 - German
 date:
   added: '2019-03-01T22:03:46'
-  last_modified: '2019-03-01T22:03:46'
-version: '1.11'
+  last_modified: '2024-05-31T09:18:08'
+version: '1.10'
 type: zip
 installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/10736/retribution/
 files:
-- name: CRACK.COM
-  size: 830
-  date: '1994-12-08T03:28:44'
-  crc: '0x79ee3b0d'
 - name: DTEST.EXE
   size: 15764
   date: '1994-11-24T10:47:38'
   crc: '0xf9b3619b'
+- name: DTEST2.EXE
+  size: 15374
+  date: '1994-11-24T10:45:14'
+  crc: '0xab73ca62'
+- name: DTEST3.EXE
+  size: 15374
+  date: '1994-11-24T10:41:46'
+  crc: '0x8a7504f1'
+- name: DTEST4.EXE
+  size: 15374
+  date: '1994-11-24T10:39:46'
+  crc: '0x682fceea'
+- name: DTEST5.EXE
+  size: 15374
+  date: '1994-11-24T10:37:22'
+  crc: '0xf2413672'
+- name: DTEST6.EXE
+  size: 15374
+  date: '1994-11-24T10:34:50'
+  crc: '0x3ed52f52'
 - name: INSTALL.EXE
   size: 80480
   date: '1994-11-21T01:10:00'

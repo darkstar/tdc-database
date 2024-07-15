@@ -18,8 +18,6 @@ installer: true
 demo: true
 commands:
   play: INSTALL.BAT
-references:
-  mobygames: https://www.mobygames.com/game/dos/settlers-ii-veni-vidi-vici-demo-version
 files:
 - name: DATA\
   size: 0

@@ -1,0 +1,154 @@
+filename: FriendlyWare PC Arcade v3.0 (1985)(FriendlySoft Inc.) [Action, Compilation].zip
+tdc_id: '13811.3'
+parent_id: '13811.4'
+title:
+  box: FriendlyWare PC Arcade
+publisher: FriendlySoft Inc.
+year: '1985'
+genre:
+- Action
+- Compilation
+language: English
+date:
+  added: '2020-11-20T18:58:26'
+  last_modified: '2024-07-08T10:42:46'
+version: '3.0'
+type: zip
+media: 360K
+commands:
+  play: AR.BAT
+references:
+  mobygames: https://www.mobygames.com/game/13598/friendlyware-pc-arcade/
+files:
+- name: AR.BAT
+  size: 9
+  date: '1985-02-11T12:00:02'
+  crc: '0x558dc93c'
+- name: ARCADE.ENC
+  size: 11776
+  date: '1985-03-29T15:56:00'
+  crc: '0xafcd2ead'
+- name: ARCADE.EXE
+  size: 11558
+  date: '1985-03-29T15:56:28'
+  crc: '0x997853bb'
+- name: ARCADE.EX_
+  size: 6176
+  date: '1985-03-29T15:56:28'
+  crc: '0x4c5cd220'
+- name: ASCIIMAN.OVL
+  size: 6288
+  date: '1985-02-11T12:00:00'
+  crc: '0xd3cab8a7'
+- name: ASCIIMAN.SCR
+  size: 128
+  date: '1980-01-01T04:00:20'
+  crc: '0x0a1410d0'
+- name: AUTOEXEC.BAT
+  size: 9
+  date: '1985-02-11T12:00:00'
+  crc: '0x558dc93c'
+- name: BLOCK.OVL
+  size: 4748
+  date: '1985-02-11T12:00:04'
+  crc: '0xac1d198e'
+- name: BLOCK.SCR
+  size: 128
+  date: '1980-01-01T00:39:52'
+  crc: '0xf8c23bb9'
+- name: BLOCK2.OVL
+  size: 4748
+  date: '1985-02-11T12:00:06'
+  crc: '0x5b5e5aff'
+- name: BUG.OVL
+  size: 7316
+  date: '1985-02-11T12:00:04'
+  crc: '0x66fbfafe'
+- name: BUG.SCR
+  size: 128
+  date: '1980-01-01T00:31:44'
+  crc: '0xb4a22902'
+- name: GORILLA.OVL
+  size: 10986
+  date: '1985-02-11T12:00:06'
+  crc: '0x15ee376e'
+- name: GORILLA.SCR
+  size: 128
+  date: '1980-01-01T02:21:48'
+  crc: '0x80d57882'
+- name: IBMBIO.COM
+  size: 4608
+  date: '1984-12-01T12:02:22'
+  crc: '0xe427d898'
+- name: IBMDOS.COM
+  size: 17152
+  date: '1983-03-08T12:00:00'
+  crc: '0xe4d7f60c'
+- name: INST.OVL
+  size: 9432
+  date: '1985-02-11T12:00:04'
+  crc: '0x6b46a796'
+- name: INST2.OVL
+  size: 9990
+  date: '1985-02-11T12:00:08'
+  crc: '0xe2b9d47a'
+- name: LANDER.OVL
+  size: 12816
+  date: '1985-02-11T12:00:08'
+  crc: '0x63048bfd'
+- name: LANDER2.OVL
+  size: 12818
+  date: '1985-02-11T12:00:02'
+  crc: '0x5016171d'
+- name: LOGO.OVL
+  size: 2983
+  date: '1985-02-11T12:00:10'
+  crc: '0x36c9b319'
+- name: RABBIT.OVL
+  size: 8168
+  date: '1985-02-11T12:00:06'
+  crc: '0xad72ec24'
+- name: RABBIT.SCR
+  size: 128
+  date: '1980-01-01T02:12:28'
+  crc: '0x68c8a9af'
+- name: RACE.OVL
+  size: 1507
+  date: '1985-02-11T12:00:12'
+  crc: '0x857b265a'
+- name: RACE2.OVL
+  size: 1652
+  date: '1985-02-11T12:00:00'
+  crc: '0xcdf6e794'
+- name: RESCUE.OVL
+  size: 4272
+  date: '1985-02-11T12:00:08'
+  crc: '0x3d7a1998'
+- name: RESCUE.SCR
+  size: 128
+  date: '1980-01-01T01:03:50'
+  crc: '0x20dffb07'
+- name: RESCUE2.OVL
+  size: 4272
+  date: '1985-02-11T12:00:10'
+  crc: '0xbf73cc58'
+- name: ROBOT.OVL
+  size: 5389
+  date: '1985-02-11T12:00:08'
+  crc: '0x0cf30cc4'
+- name: ROBOT.SCR
+  size: 128
+  date: '1980-01-01T00:32:46'
+  crc: '0x4f7d0ee1'
+- name: SETUP.COM
+  size: 2320
+  date: '1985-02-11T12:00:14'
+  crc: '0x4b9c0b0e'
+- name: SHOOTER.OVL
+  size: 3645
+  date: '1985-02-11T12:00:04'
+  crc: '0x67422e03'
+- name: SHOOTER.SCR
+  size: 128
+  date: '1980-01-01T00:34:04'
+  crc: '0x6af429b5'

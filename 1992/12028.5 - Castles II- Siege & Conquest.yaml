@@ -17,8 +17,6 @@ type: zip
 installer: true
 commands:
   play: INSTALL.EXE
-references:
-  mobygames: https://www.mobygames.com/game/dos/castles-ii-siege-conquest
 files:
 - name: CASTLES2.1
   size: 1407664

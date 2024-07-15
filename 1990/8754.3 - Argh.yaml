@@ -1,14 +1,16 @@
-filename: Argh v4.0 [SW] (1990)(David B. Howorth) [Strategy].zip
+filename: Argh v4.0 [SW] (1990)(David B. Howorth) [Strategy, Puzzle].zip
 tdc_id: '8754.3'
 title:
   screen: Argh
 publisher: David B. Howorth
 year: '1990'
-genre: Strategy
+genre:
+- Strategy
+- Puzzle
 language: English
 date:
   added: '2019-03-01T18:31:48'
-  last_modified: '2019-03-01T18:31:48'
+  last_modified: '2024-05-30T13:09:09'
 version: '4.0'
 type: zip
 tags:
@@ -17,6 +19,7 @@ media: Download
 commands:
   play: ARGH.EXE
 references:
+  mobygames: https://www.mobygames.com/game/70981/argh/
   dosid: DOS06697
   exodos: Argh (1989).zip
 files:

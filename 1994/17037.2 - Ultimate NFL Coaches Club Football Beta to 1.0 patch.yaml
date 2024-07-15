@@ -1,21 +1,26 @@
-filename: Ultimate NFL Coaches Club Football Beta to 1.0 patch (Installer) (1994)(MicroProse Software, Inc.) [Sports, Strategy].zip
+filename: Ultimate NFL Coaches Club Football Beta to 1.0 patch (Installer) (1994)(MicroProse Software, Inc.) [Sports, Strategy, Addon].zip
 tdc_id: '17037.2'
 title:
   screen: Ultimate NFL Coaches Club Football Beta to 1.0 patch
+  qualifier: Installer
 publisher: MicroProse Software, Inc.
 year: '1994'
 genre:
 - Sports
 - Strategy
+- Addon
 language: English
 date:
   added: '2019-03-02T07:18:56'
-  last_modified: '2019-03-02T07:18:56'
+  last_modified: '2024-07-08T12:22:26'
 type: zip
+media: Download
 installer: true
 patch: true
 commands:
   play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/4713/ultimate-nfl-coaches-club-football/
 files:
 - name: INSTALL.EXE
   size: 23296

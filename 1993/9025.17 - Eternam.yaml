@@ -1,4 +1,4 @@
-filename: Eternam (1993)(Capstone Software) [IMA][1440k].zip
+filename: Eternam [b1] (1993)(Capstone Software) [IMA][1440k].zip
 tdc_id: '9025.17'
 parent_id: '9025.16'
 title:
@@ -9,13 +9,15 @@ genre: IMA
 language: English
 date:
   added: '2024-04-16T08:45:29'
-  last_modified: '2024-04-16T08:45:29'
+  last_modified: '2024-06-27T10:49:03'
 type: IMA
+tags:
+- Bad: 1
 media: 1.44M
 references:
   mobygames: https://www.mobygames.com/game/1368/eternam/
 files:
-- name: Disk1.ima
+- name: Disk1_virus!.ima
   size: 1474560
   date: '2024-04-02T19:17:56'
   crc: '0xdb2fc083'

@@ -1,5 +1,6 @@
 filename: Shootout at Dodge [SW] (1992)(Sherwood Forest Software) [Action].zip
 tdc_id: '5955.0'
+parent_id: '5955.2'
 title:
   screen: Shootout at Dodge
 publisher: Sherwood Forest Software
@@ -16,221 +17,231 @@ media: Download
 files:
 - name: ASSAY.BBL
   size: 63001
-  date: '2010-07-25T21:49:00'
+  date: '1996-07-05T21:13:28'
   crc: '0x38afc19f'
 - name: ASSAY.MAP
   size: 22001
-  date: '2010-07-25T21:49:00'
+  date: '1996-07-05T21:13:00'
   crc: '0xf9351ccd'
 - name: BANK.BBL
   size: 63001
-  date: '2010-07-25T21:49:00'
+  date: '1996-07-05T21:14:46'
   crc: '0x6dd60663'
 - name: BANK.MAP
   size: 22001
-  date: '2010-07-25T21:49:00'
+  date: '1996-07-05T21:14:18'
   crc: '0x318aa407'
 - name: BLACKSMI.BBL
   size: 63000
-  date: '2010-07-25T21:49:00'
+  date: '1992-09-07T18:27:20'
   crc: '0x3419ecc8'
 - name: BLACKSMI.MAP
   size: 22000
-  date: '2010-07-25T21:49:00'
+  date: '1992-09-07T22:54:00'
   crc: '0x503b6015'
 - name: BOOT.BBL
   size: 63001
-  date: '2010-07-25T21:49:00'
+  date: '1996-07-05T21:11:32'
   crc: '0x749414d7'
 - name: BOOT.MAP
   size: 22001
-  date: '2010-07-25T21:49:00'
+  date: '1996-07-05T21:11:04'
   crc: '0xd8c1bc05'
-- name: CONFIG.BAT
-  size: 17
-  date: '2010-07-25T21:49:00'
-  crc: '0xdf552f37'
-- name: CONFIG.DAT
-  size: 500
-  date: '2013-04-15T13:22:06'
-  crc: '0x1a0a3621'
-- name: CONFIG.HLP
-  size: 2722
-  date: '2010-07-25T21:49:00'
-  crc: '0xc684c8b8'
 - name: COPYRITE.DOC
   size: 38
-  date: '2010-07-25T21:49:00'
+  date: '1996-07-20T10:54:50'
   crc: '0x9bc6a2e8'
-- name: DATA1.REC
-  size: 609
-  date: '2010-07-25T21:49:00'
-  crc: '0xeb97a013'
 - name: DODGE.BBL
   size: 63001
-  date: '2010-07-25T21:49:00'
+  date: '1996-07-05T21:10:10'
   crc: '0x4a10a313'
 - name: DODGE.CBL
   size: 21001
-  date: '2010-07-25T21:49:00'
+  date: '1996-07-05T21:10:52'
   crc: '0x6e6ad0da'
 - name: DODGE.CHR
   size: 7569
-  date: '2010-07-25T21:49:00'
+  date: '1996-07-05T21:10:42'
   crc: '0x1db1b0ea'
 - name: DODGE.EXE
-  size: 160598
-  date: '2010-07-25T21:49:00'
-  crc: '0x51288496'
+  size: 82803
+  date: '1996-06-24T11:34:06'
+  crc: '0xd59180ce'
 - name: DODGE.GAM
-  size: 6299
-  date: '2010-07-25T21:49:00'
-  crc: '0x0b4f6049'
-- name: DODGE.HIS
-  size: 340
-  date: '2010-07-25T21:49:00'
-  crc: '0x304a068a'
+  size: 6600
+  date: '1996-07-05T21:07:20'
+  crc: '0x8b61a551'
 - name: DODGE.MAP
   size: 22001
-  date: '2010-07-25T21:49:00'
+  date: '1996-07-05T21:09:42'
   crc: '0x0569d6fc'
 - name: DODGE.MBL
   size: 42000
-  date: '2010-07-25T21:49:00'
+  date: '1996-07-24T19:29:08'
   crc: '0x51cc1159'
 - name: DODGE.MON
   size: 19201
-  date: '2010-07-25T21:49:00'
+  date: '1996-07-05T21:10:18'
   crc: '0xe4d56be5'
-- name: DODGE.REC
-  size: 609
-  date: '2010-07-25T21:49:00'
-  crc: '0xeb97a013'
 - name: DODGE.SAV
   size: 40980
-  date: '2010-07-25T21:49:00'
+  date: '1996-07-05T21:20:52'
   crc: '0xe72a2b59'
 - name: DODGE.SND
   size: 2161
-  date: '2010-07-25T21:49:00'
+  date: '1996-07-05T21:10:54'
   crc: '0x6db51218'
 - name: DODGECRE.TXT
   size: 496
-  date: '2010-07-25T21:49:00'
+  date: '1992-09-16T16:05:12'
   crc: '0x3e53edae'
 - name: DODGEINS.BAK
   size: 1503
-  date: '2010-07-25T21:49:00'
+  date: '1992-09-16T20:13:14'
   crc: '0x779b7805'
 - name: DODGEINS.TXT
-  size: 1503
-  date: '2010-07-25T21:49:00'
-  crc: '0x779b7805'
+  size: 1556
+  date: '1996-07-20T10:37:04'
+  crc: '0xfe6acc4e'
 - name: DODGESTO.TXT
   size: 514
-  date: '2010-07-25T21:49:00'
+  date: '1992-09-16T15:57:44'
   crc: '0x2d265800'
-- name: END.BKD
-  size: 44
-  date: '2010-07-25T21:49:00'
-  crc: '0x2d482eb4'
-- name: END.GIF
-  size: 4133
-  date: '2010-07-25T21:49:00'
-  crc: '0xa0a7df18'
 - name: ENDCREDI.TXT
   size: 498
-  date: '2010-07-25T21:49:00'
+  date: '1992-09-16T16:13:42'
   crc: '0xe606047b'
 - name: ENDSTORY.TXT
   size: 410
-  date: '2010-07-25T21:49:00'
+  date: '1992-09-16T16:09:52'
   crc: '0xe61b7771'
-- name: FILELIST.CPY
-  size: 553
-  date: '2010-07-25T21:49:00'
-  crc: '0xc7f8f388'
+- name: GAM\
+  size: 0
+  date: '2024-06-22T07:20:48'
+- name: GAM\DODGECRE.TXT
+  size: 496
+  date: '1992-09-16T16:05:12'
+  crc: '0x3e53edae'
+- name: GAM\DODGEINS.TXT
+  size: 1503
+  date: '1992-09-16T20:13:14'
+  crc: '0x779b7805'
+- name: GAM\DODGESTO.TXT
+  size: 514
+  date: '1992-09-16T15:57:44'
+  crc: '0x2d265800'
+- name: GAM\ENDCREDI.TXT
+  size: 498
+  date: '1992-09-16T16:13:42'
+  crc: '0xe606047b'
+- name: GAM\ENDSTORY.TXT
+  size: 410
+  date: '1992-09-16T16:09:52'
+  crc: '0xe61b7771'
+- name: GAM\GMHELP.TXT
+  size: 542
+  date: '1992-06-21T22:00:00'
+  crc: '0xda206ac9'
+- name: GIF\
+  size: 0
+  date: '2024-06-22T07:20:48'
+- name: GIF\END.BKD
+  size: 44
+  date: '1996-07-20T10:30:10'
+  crc: '0x2d482eb4'
+- name: GIF\END.GIF
+  size: 4133
+  date: '1992-06-14T11:47:38'
+  crc: '0xa0a7df18'
+- name: GIF\GMTITLE.GIF
+  size: 5295
+  date: '1992-06-14T11:47:48'
+  crc: '0x1097f53a'
+- name: GIF\TITLE.BKD
+  size: 44
+  date: '1996-07-20T10:29:40'
+  crc: '0x2d482eb4'
+- name: GIF\TITLE.GIF
+  size: 6434
+  date: '1996-07-20T10:28:22'
+  crc: '0xb16be2d4'
 - name: GMHELP.TXT
   size: 542
-  date: '2010-07-25T21:49:00'
+  date: '1992-06-21T22:00:00'
   crc: '0xda206ac9'
 - name: GMTITLE.GIF
   size: 5296
-  date: '2010-07-25T21:49:00'
+  date: '1996-06-24T11:33:30'
   crc: '0x391c4e47'
 - name: HOTEL.BBL
   size: 63001
-  date: '2010-07-25T21:49:00'
+  date: '1996-07-05T21:14:08'
   crc: '0x1282916f'
 - name: HOTEL.MAP
   size: 22001
-  date: '2010-07-25T21:49:00'
+  date: '1996-07-05T21:13:40'
   crc: '0xc34b6e13'
 - name: MASPALCE.MAP
   size: 22000
-  date: '2010-07-25T21:49:00'
+  date: '1996-06-24T18:49:52'
   crc: '0x54e2fd8d'
 - name: MASPLACE.BBL
   size: 63000
-  date: '2010-07-25T21:49:00'
+  date: '1996-06-24T18:59:34'
   crc: '0x0b09dbb4'
 - name: MINE.BBL
   size: 63000
-  date: '2010-07-25T21:49:00'
+  date: '1992-09-12T13:40:26'
   crc: '0xd5847710'
 - name: MINE.MAP
   size: 22000
-  date: '2010-07-25T21:49:00'
+  date: '1992-09-12T13:46:18'
   crc: '0xc532c817'
+- name: README.DOC
+  size: 673
+  date: '1992-06-16T22:01:22'
+  crc: '0xa0ec5ae8'
 - name: SALOON.BBL
   size: 63001
-  date: '2010-07-25T21:49:00'
+  date: '1996-07-05T21:16:02'
   crc: '0x658fd631'
 - name: SALOON.MAP
   size: 22001
-  date: '2010-07-25T21:49:00'
+  date: '1996-07-05T21:15:34'
   crc: '0xd97078c9'
 - name: SAMPLE.PAL
   size: 769
-  date: '2010-07-25T21:49:00'
+  date: '1996-07-05T21:09:32'
   crc: '0xfe55294b'
-- name: SNDBLAST.DRV
-  size: 2493
-  date: '2010-07-25T21:49:00'
-  crc: '0x5ba6df77'
 - name: STORE.BBL
   size: 63001
-  date: '2010-07-25T21:49:00'
+  date: '1996-07-05T21:12:50'
   crc: '0x4588e641'
 - name: STORE.MAP
   size: 22001
-  date: '2010-07-25T21:49:00'
+  date: '1996-07-05T21:12:22'
   crc: '0x977e7daf'
-- name: THUMBS.DB
-  size: 7680
-  date: '2010-07-25T21:49:00'
-  crc: '0xca8eed19'
 - name: TITLE.BKD
   size: 44
-  date: '2010-07-25T21:49:00'
+  date: '1996-07-05T21:06:46'
   crc: '0x22ce586e'
-- name: TITLE.GIF
-  size: 6434
-  date: '2010-07-25T21:49:00'
-  crc: '0xb16be2d4'
 - name: UNDERTAK.BBL
   size: 63001
-  date: '2010-07-25T21:49:00'
+  date: '1996-07-05T21:12:10'
   crc: '0xee56aed9'
 - name: UNDERTAK.MAP
   size: 22001
-  date: '2010-07-25T21:49:00'
+  date: '1996-07-05T21:11:44'
   crc: '0x066d059a'
+- name: VIEW.EXE
+  size: 2107
+  date: '1990-06-22T23:23:44'
+  crc: '0x8ba72849'
 - name: WELLS.BBL
   size: 63001
-  date: '2010-07-25T21:49:00'
+  date: '1996-07-05T21:15:24'
   crc: '0x79415647'
 - name: WELLS.MAP
   size: 22001
-  date: '2010-07-25T21:49:00'
+  date: '1996-07-05T21:14:56'
   crc: '0x68e35f41'

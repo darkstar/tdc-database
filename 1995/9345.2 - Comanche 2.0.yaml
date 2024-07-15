@@ -16,8 +16,6 @@ type: zip
 installer: true
 commands:
   play: INSTALL.EXE
-references:
-  mobygames: https://www.mobygames.com/game/dos/comanche-2
 files:
 - name: BACKUP\
   size: 0

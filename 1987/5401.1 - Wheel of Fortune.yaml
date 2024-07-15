@@ -13,8 +13,6 @@ version: 600072D
 type: zip
 commands:
   play: MENU.EXE
-references:
-  mobygames: https://www.mobygames.com/game/dos/wheel-of-fortune
 files:
 - name: ANSWERS.DAT
   size: 52616

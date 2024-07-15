@@ -15,8 +15,6 @@ type: zip
 commands:
   play: SENTIENT.EXE
   setup: DOSDRV\SETSOUND.EXE
-references:
-  mobygames: https://www.mobygames.com/game/dos/sentient
 files:
 - name: ARUNSPCH.VSR
   size: 745616

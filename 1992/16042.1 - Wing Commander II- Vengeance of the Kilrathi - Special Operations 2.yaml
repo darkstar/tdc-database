@@ -1,5 +1,6 @@
-filename: Wing Commander II- Vengeance of the Kilrathi - Special Operations 2 (1992)(ORIGIN Systems, Inc.) [IMA][1440k][!].zip
+filename: Wing Commander II- Vengeance of the Kilrathi - Special Operations 2 v7.3F (1992)(ORIGIN Systems, Inc.) [IMA][1440k][!].zip
 tdc_id: '16042.1'
+parent_id: '16042.2'
 title:
   box: 'Wing Commander II: Vengeance of the Kilrathi - Special Operations 2'
 publisher: ORIGIN Systems, Inc.
@@ -8,11 +9,14 @@ genre: IMA
 language: English
 date:
   added: '2023-02-27T10:01:02'
-  last_modified: '2023-02-27T10:01:02'
+  last_modified: '2024-07-03T12:24:46'
+version: 7.3F
 type: IMA
 tags:
 - KnownGood
 media: 1.44M
+references:
+  mobygames: https://www.mobygames.com/game/1107/wing-commander-ii-vengeance-of-the-kilrathi-special-operations-2/
 files:
 - name: Disk1.ima
   size: 1474560

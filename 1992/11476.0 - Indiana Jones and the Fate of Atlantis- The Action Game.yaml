@@ -1,5 +1,6 @@
-filename: Indiana Jones and the Fate of Atlantis- The Action Game (1992)(LucasArts) [Action, Adventure].zip
+filename: Indiana Jones and the Fate of Atlantis- The Action Game v1.0 (1992)(LucasArts) [Action, Adventure].zip
 tdc_id: '11476.0'
+parent_id: '11476.1'
 title:
   box: 'Indiana Jones and the Fate of Atlantis: The Action Game'
 publisher: LucasArts
@@ -10,9 +11,14 @@ genre:
 language: English
 date:
   added: '2020-05-08T11:16:18'
-  last_modified: '2020-05-08T11:16:18'
+  last_modified: '2024-07-09T08:18:59'
+version: '1.0'
 type: zip
+media: 720K
+commands:
+  play: START.BAT
 references:
+  mobygames: https://www.mobygames.com/game/4289/indiana-jones-and-the-fate-of-atlantis-the-action-game/
   dosid: DOS02720
   exodos: Indiana Jones and The Fate of Atlantis - The Action Game (1992).zip
 files:
@@ -26,8 +32,8 @@ files:
   crc: '0xe615c833'
 - name: INDY.EXE
   size: 713
-  date: '1992-07-01T15:30:26'
-  crc: '0x0f4ee98d'
+  date: '1980-01-01T00:00:00'
+  crc: '0xd21cb3b2'
 - name: INDY4A.EXE
   size: 48846
   date: '1992-03-25T13:11:14'
@@ -70,5 +76,5 @@ files:
   crc: '0xae5ec6f3'
 - name: START.BAT
   size: 22
-  date: '2000-10-16T16:53:18'
+  date: '1980-01-01T00:00:00'
   crc: '0xd306ce19'

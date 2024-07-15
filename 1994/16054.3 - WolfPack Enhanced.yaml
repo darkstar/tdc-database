@@ -16,8 +16,6 @@ type: zip
 installer: true
 commands:
   play: INSTALL.BAT
-references:
-  mobygames: https://www.mobygames.com/game/dos/wolf-pack__
 files:
 - name: 2PLAYER.LZH
   size: 7510

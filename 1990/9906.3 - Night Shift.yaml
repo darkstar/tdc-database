@@ -1,4 +1,4 @@
-filename: Night Shift (1990)(Lucasfilm Games LLC) [IMA][360k].zip
+filename: Night Shift v1.0 (1990)(Lucasfilm Games LLC) [IMA][360k].zip
 tdc_id: '9906.3'
 title:
   box: Night Shift
@@ -8,19 +8,22 @@ genre: IMA
 language: English
 date:
   added: '2023-02-26T10:12:01'
-  last_modified: '2023-02-26T10:12:01'
+  last_modified: '2024-07-12T10:21:34'
+version: '1.0'
 type: IMA
 media: 360K
+references:
+  mobygames: https://www.mobygames.com/game/1508/night-shift/
 files:
-- name: Night Shift v1.0 5.25 Disk 1.IMA
+- name: disk1.ima
   size: 368640
   date: '2009-10-19T12:20:50'
   crc: '0xcbc694c3'
-- name: Night Shift v1.0 5.25 Disk 2.IMA
+- name: disk2.ima
   size: 368640
   date: '2009-10-19T12:20:50'
   crc: '0x944cb58e'
-- name: Night Shift v1.0 5.25 Disk 3.IMA
+- name: disk3.ima
   size: 368640
   date: '2009-10-19T12:20:50'
   crc: '0xebaeda25'

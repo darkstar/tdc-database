@@ -17,8 +17,6 @@ version: '1.1'
 type: zip
 media: CD-ROM
 installer: true
-references:
-  mobygames: https://www.mobygames.com/game/dos/metaltech-earthsiege
 files:
 - name: CAR\
   size: 0

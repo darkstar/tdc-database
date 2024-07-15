@@ -1,4 +1,4 @@
-filename: Walls of Bratock, The [SW] (1994)(Oracle Software) [Role-Playing (RPG)].zip
+filename: Walls of Bratock, The v1.0 [SW] (1994)(Oracle Software) [Role-Playing (RPG)].zip
 tdc_id: '7458.1'
 title:
   screen: The Walls of Bratock
@@ -8,11 +8,17 @@ genre: Role-Playing (RPG)
 language: English
 date:
   added: '2009-11-23T05:17:46'
-  last_modified: '2009-11-23T05:17:46'
+  last_modified: '2024-06-18T15:04:33'
+version: '1.0'
 type: zip
 tags:
 - Shareware
 media: Download
+commands:
+  play: BRATOCK.EXE
+  setup: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/146110/the-walls-of-bratock/
 files:
 - name: '!MIST.MAP'
   size: 6400

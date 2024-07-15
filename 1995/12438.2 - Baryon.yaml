@@ -1,0 +1,69 @@
+filename: Baryon (Installer) [SWR] (1995)(The Game Factory) [Action].zip
+tdc_id: '12438.2'
+title:
+  box: Baryon
+  qualifier: Installer
+publisher: The Game Factory
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2024-05-29T21:37:00'
+  last_modified: '2024-05-29T21:37:00'
+type: zip
+tags:
+- SharewareRegistered
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1318/baryon/
+files:
+- name: BARYON01.PCY
+  size: 1140812
+  date: '1995-08-01T01:00:00'
+  crc: '0x00fba402'
+- name: BARYON02.PCY
+  size: 1452418
+  date: '1995-08-01T01:00:00'
+  crc: '0x39af3bc6'
+- name: BARYON03.PCY
+  size: 1453900
+  date: '1995-08-01T01:00:00'
+  crc: '0x2ef91224'
+- name: BARYON04.PCY
+  size: 1456445
+  date: '1995-08-01T01:00:00'
+  crc: '0x318800e6'
+- name: BARYON05.PCY
+  size: 1450265
+  date: '1995-08-01T01:00:00'
+  crc: '0x283d38c0'
+- name: BARYON06.PCY
+  size: 1453609
+  date: '1995-08-01T01:00:00'
+  crc: '0xe8aaba50'
+- name: BARYON07.PCY
+  size: 1455948
+  date: '1995-08-01T01:00:00'
+  crc: '0x53294a16'
+- name: BARYON08.PCY
+  size: 1371785
+  date: '1995-08-01T01:00:00'
+  crc: '0xf9290692'
+- name: DISK1
+  size: 127
+  date: '1995-08-01T01:00:00'
+  crc: '0x80d69079'
+- name: DOS4GW.EXE
+  size: 265420
+  date: '1995-08-01T01:00:00'
+  crc: '0x61288ccc'
+- name: INSTALL.DAT
+  size: 83
+  date: '1995-08-01T01:00:00'
+  crc: '0xe3a0d508'
+- name: INSTALL.EXE
+  size: 48756
+  date: '1995-08-01T01:00:00'
+  crc: '0x24877de4'

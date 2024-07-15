@@ -18,8 +18,6 @@ type: zip
 installer: true
 commands:
   play: install.bat
-references:
-  mobygames: https://www.mobygames.com/game/dos/fantastic-adventures-of-dizzy
 files:
 - name: antifont.bin
   size: 13013

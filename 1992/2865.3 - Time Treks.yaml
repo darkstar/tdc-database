@@ -15,8 +15,6 @@ type: zip
 installer: true
 commands:
   play: 'INSTALL.BAT c:'
-references:
-  mobygames: https://www.mobygames.com/game/dos/time-treks
 files:
 - name: '1'
   size: 3

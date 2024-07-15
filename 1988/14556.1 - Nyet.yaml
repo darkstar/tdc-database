@@ -1,34 +1,31 @@
-filename: Nyet v1.2 (1988)(David B. Howorth) [Action].zip
+filename: Nyet v1.2 [FW] (1988)(David B. Howorth) [Action, Strategy].zip
 tdc_id: '14556.1'
 title:
   screen: Nyet
 publisher: David B. Howorth
 year: '1988'
-genre: Action
+genre:
+- Action
+- Strategy
 language: English
 date:
   added: '2019-03-01T18:26:34'
-  last_modified: '2019-03-01T18:26:34'
+  last_modified: '2024-05-30T13:39:46'
 version: '1.2'
 type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: NYET.EXE
+references:
+  mobygames: https://www.mobygames.com/game/2433/nyet/
 files:
 - name: NYET.DOC
   size: 3674
   date: '1988-06-30T21:56:46'
   crc: '0xaaca1772'
 - name: NYET.EXE
-  size: 12708
+  size: 25136
   date: '1988-07-01T18:17:30'
-  crc: '0xaf0b9d46'
-- name: NYET.HIS
-  size: 230
-  date: '1980-01-01T00:19:00'
-  crc: '0x41352bfd'
-- name: NYETKEY.COM
-  size: 394
-  date: '1989-07-26T23:03:20'
-  crc: '0xf7961e63'
-- name: NYETKEY.DOC
-  size: 1242
-  date: '1989-07-26T22:57:38'
-  crc: '0x6b60c04c'
+  crc: '0x7752b05e'

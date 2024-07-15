@@ -1,8 +1,8 @@
-filename: Lost Vikings, The [FW] (2014)(Blizzard Entertainment Inc.) [Action, Strategy].zip
+filename: Lost Vikings, The [FW] (2014)(Blizzard Entertainment Inc., Interplay Productions, Inc.) [Action, Strategy].zip
 tdc_id: '11927.7'
 title:
   screen: The Lost Vikings
-publisher: Blizzard Entertainment Inc.
+publisher: Blizzard Entertainment Inc., Interplay Productions, Inc.
 year: '2014'
 genre:
 - Action
@@ -10,27 +10,41 @@ genre:
 language: English
 date:
   added: '2021-12-12T05:27:28'
-  last_modified: '2021-12-12T05:27:28'
+  last_modified: '2024-07-04T07:27:27'
 type: zip
 tags:
 - Freeware
 media: Download
 commands:
-  play: VIKINGS.EXE
+  play: VIKINGS\VIKINGS.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1547/the-lost-vikings/
 files:
-- name: DATA.DAT
-  size: 1729100
-  date: '2014-04-29T00:17:12'
-  crc: '0x269a87d1'
 - name: Lost Vikings EULA txt 20140331.txt
   size: 9095
-  date: '2014-04-29T00:17:12'
+  date: '2014-04-28T16:17:12'
   crc: '0x27ac2f21'
 - name: The Lost Vikings Manual.txt
   size: 31022
-  date: '2014-04-30T18:55:00'
+  date: '2014-04-30T10:55:00'
   crc: '0x2dcd8333'
-- name: VIKINGS.EXE
+- name: The Lost Vikings.exe
+  size: 2448944
+  date: '2014-04-29T19:34:52'
+  crc: '0x5e2623b2'
+- name: VIKINGS\DATA.DAT
+  size: 1729100
+  date: '2014-04-28T16:17:12'
+  crc: '0x269a87d1'
+- name: VIKINGS\VIKINGS.EXE
   size: 325520
-  date: '2014-04-29T00:17:12'
+  date: '2014-04-28T16:17:12'
   crc: '0xb7007dcd'
+- name: dosbox.conf
+  size: 300
+  date: '2014-04-28T21:39:50'
+  crc: '0x30028e95'
+- name: launcher-src.zip
+  size: 214090
+  date: '2014-04-29T19:37:20'
+  crc: '0x1dad9448'

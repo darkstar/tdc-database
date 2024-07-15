@@ -1,0 +1,35 @@
+filename: Lost Vikings, The (demo) (1994)(Europress Publications, Interplay Productions, Inc.) [Action, Strategy].zip
+tdc_id: '11927.18'
+parent_id: '11927.17'
+title:
+  screen: The Lost Vikings
+  qualifier: demo
+publisher: Europress Publications, Interplay Productions, Inc.
+year: '1994'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2024-07-04T09:48:27'
+  last_modified: '2024-07-04T09:48:27'
+type: zip
+media: Download
+demo: true
+commands:
+  play: VIKDEMO.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1547/the-lost-vikings/
+files:
+- name: DATA.DAT
+  size: 1280301
+  date: '1993-04-26T18:40:22'
+  crc: '0x99e19d7e'
+- name: README.TXT
+  size: 4653
+  date: '1993-05-17T14:02:02'
+  crc: '0x743abfe2'
+- name: VIKDEMO.EXE
+  size: 143840
+  date: '1993-04-26T18:29:18'
+  crc: '0x0e633f95'

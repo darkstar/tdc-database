@@ -19,8 +19,6 @@ type: zip
 installer: true
 commands:
   play: INSTALL.EXE
-references:
-  mobygames: https://www.mobygames.com/game/dos/network-q-rac-rally
 files:
 - name: INSTALL.CFG
   size: 1842

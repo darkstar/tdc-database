@@ -1,15 +1,29 @@
-filename: Wing Commander II- Vengeance of the Kilrathi - Special Operations 1 (1991)(ORIGIN Systems, Inc.) [Addon].zip
+filename: Wing Commander II- Vengeance of the Kilrathi - Special Operations 1 vF1.3 (Installer) (1991)(ORIGIN Systems, Inc.) [Action, Simulation, Addon][!].zip
 tdc_id: '16041.0'
+parent_id: '16041.1'
 title:
   box: 'Wing Commander II: Vengeance of the Kilrathi - Special Operations 1'
+  qualifier: Installer
 publisher: ORIGIN Systems, Inc.
 year: '1991'
-genre: Addon
+genre:
+- Action
+- Simulation
+- Addon
 language: English
 date:
   added: '2019-03-01T18:40:02'
-  last_modified: '2019-03-01T18:40:02'
+  last_modified: '2024-06-29T13:01:54'
+version: F1.3
 type: zip
+tags:
+- KnownGood
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL1.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1106/wing-commander-ii-vengeance-of-the-kilrathi-special-operations-1/
 files:
 - name: ALTSHIPS.001
   size: 1839
@@ -239,6 +253,9 @@ files:
   size: 68875
   date: '1991-11-14T09:58:16'
   crc: '0x7d7aaf4c'
+- name: SO1 VF1_3
+  size: 0
+  date: '1991-11-17T19:17:30'
 - name: SO1.LZC
   size: 238344
   date: '1991-11-17T14:11:52'

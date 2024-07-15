@@ -1,0 +1,39 @@
+filename: Descent v1.2 (Installer) [SW] (1995)(Interplay Productions, Inc.) [Action].zip
+tdc_id: '13082.10'
+title:
+  screen: Descent
+  qualifier: Installer
+publisher: Interplay Productions, Inc.
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2024-06-19T09:28:13'
+  last_modified: '2024-06-19T09:28:13'
+version: '1.2'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/692/descent/
+files:
+- name: DESCENT1.SOW
+  size: 1411525
+  date: '1995-02-22T17:35:28'
+  crc: '0xe0a6e1d9'
+- name: DESCENT2.SOW
+  size: 1455993
+  date: '1995-02-22T17:36:22'
+  crc: '0x708ce5fe'
+- name: FILE_ID.DIZ
+  size: 73
+  date: '1995-08-11T13:42:44'
+  crc: '0x8a0201b4'
+- name: INSTALL.EXE
+  size: 44773
+  date: '1995-02-22T17:23:54'
+  crc: '0x4d2e68bf'

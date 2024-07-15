@@ -1,0 +1,39 @@
+filename: Duke Nukem 3D v1.3D (Installer) [SW] (1996)(GT Interactive Software Corp.) [Action].zip
+tdc_id: '9467.5'
+title:
+  screen: Duke Nukem 3D
+  qualifier: Installer
+publisher: GT Interactive Software Corp.
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2024-06-18T15:50:36'
+  last_modified: '2024-06-18T15:50:36'
+version: 1.3D
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/365/duke-nukem-3d/
+files:
+- name: DN3DSW13.SHR
+  size: 5848108
+  date: '1996-04-24T13:30:00'
+  crc: '0x1358a896'
+- name: FILE_ID.DIZ
+  size: 496
+  date: '1996-04-24T13:30:00'
+  crc: '0xf5f08b5b'
+- name: INSTALL.EXE
+  size: 142342
+  date: '1996-04-24T13:30:00'
+  crc: '0x19441356'
+- name: LICENSE.TXT
+  size: 9108
+  date: '1996-04-24T13:30:00'
+  crc: '0x5c41fbe4'

@@ -1,8 +1,9 @@
-filename: Spirit of Excalibur (1990)(Virgin Games, Inc.) [Adventure, Role-Playing (RPG), Strategy].zip
+filename: Spirit of Excalibur (1990)(Virgin Mastertronic Ltd.) [Adventure, Role-Playing (RPG), Strategy].zip
 tdc_id: '15409.0'
+parent_id: '15409.1'
 title:
   box: Spirit of Excalibur
-publisher: Virgin Games, Inc.
+publisher: Virgin Mastertronic Ltd.
 year: '1990'
 genre:
 - Adventure
@@ -11,9 +12,16 @@ genre:
 language: English
 date:
   added: '2019-11-10T01:10:30'
-  last_modified: '2019-11-10T01:10:30'
+  last_modified: '2024-07-08T15:39:33'
 type: zip
+media:
+- 360K
+- 1.2M
+commands:
+  play: START.EXE
+  setup: INSTALL.EXE
 references:
+  mobygames: https://www.mobygames.com/game/2539/spirit-of-excalibur/
   dosid: DOS04761
   exodos: Spirit of Excalibur (1990).zip
 files:
@@ -31,19 +39,19 @@ files:
   crc: '0x135115d9'
 - name: DISK1
   size: 3
-  date: '1990-04-26T16:04:28'
+  date: '1990-04-26T19:04:28'
   crc: '0x8042fa69'
 - name: DISK2
   size: 3
-  date: '1990-04-26T16:04:28'
+  date: '1990-04-26T19:04:28'
   crc: '0x8042fa69'
 - name: DISK3
   size: 3
-  date: '1990-04-26T16:04:28'
+  date: '1990-04-26T19:04:28'
   crc: '0x8042fa69'
 - name: DISK4
   size: 3
-  date: '1990-04-26T16:04:28'
+  date: '1990-04-26T19:04:28'
   crc: '0x8042fa69'
 - name: DISK5
   size: 3
@@ -55,7 +63,7 @@ files:
   crc: '0x8042fa69'
 - name: EGA.DVR
   size: 9296
-  date: '1990-07-11T15:47:44'
+  date: '1990-07-11T18:47:44'
   crc: '0x0f5f30b1'
 - name: EPISODE1.DAT
   size: 9077
@@ -79,16 +87,19 @@ files:
   crc: '0xe19401f1'
 - name: EXCAL.EXE
   size: 188604
-  date: '1990-09-25T20:10:54'
+  date: '1990-09-25T21:10:54'
   crc: '0x77dfde23'
 - name: EXCAL.EX_
   size: 88603
   date: '1990-09-25T20:10:54'
   crc: '0xbe3a2b1a'
+- name: Excalibu.r
+  size: 0
+  date: '1990-09-26T14:17:56'
 - name: GAME.CFG
   size: 606
-  date: '2010-06-03T21:19:38'
-  crc: '0x9bcb7db3'
+  date: '1990-09-19T11:47:42'
+  crc: '0xb73a5705'
 - name: HINT.RES
   size: 36990
   date: '1990-09-16T16:19:14'
@@ -115,46 +126,46 @@ files:
   crc: '0xdf6a7a22'
 - name: RES16\
   size: 0
-  date: '2010-05-30T20:37:18'
+  date: '1990-09-26T14:50:12'
 - name: RES16\ANI2.RES
   size: 146489
-  date: '1990-08-21T10:50:26'
+  date: '1990-08-21T13:50:26'
   crc: '0xf7696f3f'
 - name: RES16\ANI4.RES
   size: 96043
-  date: '1990-08-23T16:10:08'
+  date: '1990-08-23T19:10:08'
   crc: '0xc2188228'
 - name: RES16\ENGLAND.RES
   size: 28525
-  date: '1990-08-08T12:24:02'
+  date: '1990-08-08T15:24:02'
   crc: '0x4cc2cdc2'
 - name: RES16\IMAG2.RES
   size: 70143
-  date: '1990-07-13T12:06:56'
+  date: '1990-07-13T15:06:56'
   crc: '0x9db2989e'
 - name: RES16\IMAG3.RES
   size: 353402
-  date: '1990-08-28T13:41:16'
+  date: '1990-08-28T16:41:16'
   crc: '0x0d106795'
 - name: RES16\IMAG4.RES
   size: 194147
-  date: '1990-09-12T17:07:32'
+  date: '1990-09-12T20:07:32'
   crc: '0x0e5dae4f'
 - name: RES16\INTF.RES
   size: 79601
-  date: '1990-09-14T18:50:08'
+  date: '1990-09-14T21:50:08'
   crc: '0xaff3ee99'
 - name: RES16\LOGO.RES
   size: 45406
-  date: '1990-09-25T20:01:30'
+  date: '1990-09-25T23:01:30'
   crc: '0x788def23'
 - name: RES16\TITLE.RES
   size: 58266
-  date: '1990-07-14T16:23:32'
+  date: '1990-07-14T19:23:32'
   crc: '0xc793e0f8'
 - name: RES32\
   size: 0
-  date: '2010-05-03T22:27:04'
+  date: '1990-09-28T17:39:52'
 - name: RES32\ANI.RES
   size: 243623
   date: '1990-08-07T12:22:24'
@@ -209,7 +220,7 @@ files:
   crc: '0x709b6f00'
 - name: TAN.DVR
   size: 6413
-  date: '1990-08-02T08:36:48'
+  date: '1990-08-02T11:36:48'
   crc: '0x48712ff8'
 - name: TANDY.DVR
   size: 3584

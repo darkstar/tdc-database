@@ -17,8 +17,6 @@ installer: true
 demo: true
 commands:
   play: INSTALL.BAT
-references:
-  mobygames: https://www.mobygames.com/game/dos/capitalism
 files:
 - name: DATA\
   size: 0

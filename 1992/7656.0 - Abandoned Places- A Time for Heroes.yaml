@@ -1,11 +1,13 @@
-filename: Abandoned Places- A Time for Heroes r921007 (En)(De)(It)(Es) (1992)(International Computer Entertainment Ltd.) [Role-Playing (RPG)].zip
+filename: Abandoned Places- A Time for Heroes r921007 (En)(De)(It)(Es) (1992)(International Computer Entertainment Ltd.) [Adventure, Role-Playing (RPG)].zip
 tdc_id: '7656.0'
 parent_id: '7656.2'
 title:
   box: 'Abandoned Places: A Time for Heroes'
 publisher: International Computer Entertainment Ltd.
 year: '1992'
-genre: Role-Playing (RPG)
+genre:
+- Adventure
+- Role-Playing (RPG)
 language:
 - English
 - Spanish
@@ -13,10 +15,10 @@ language:
 - German
 date:
   added: '2021-12-17T09:08:22'
-  last_modified: '2023-09-05T10:06:37'
+  last_modified: '2024-05-30T10:08:48'
 release: '921007'
 type: zip
-media: 720K
+media: 1.44M
 commands:
   play: START.EXE
   setup: SETUP.EXE

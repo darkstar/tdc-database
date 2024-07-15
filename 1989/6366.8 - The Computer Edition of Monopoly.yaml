@@ -1,4 +1,4 @@
-filename: Computer Edition of Monopoly, The [a1] (1989)(Leisure Genius) [Strategy, Board].zip
+filename: Computer Edition of Monopoly, The r890909 (1989)(Leisure Genius) [Strategy, Board][!].zip
 tdc_id: '6366.8'
 parent_id: '6366.7'
 title:
@@ -11,13 +11,16 @@ genre:
 language: English
 date:
   added: '2023-03-15T09:26:50'
-  last_modified: '2023-03-15T09:26:50'
+  last_modified: '2024-05-31T16:25:01'
+release: '890909'
 type: zip
 tags:
-- Alternate: 1
+- KnownGood
 media: 360K
 commands:
   play: MONOPOLY.EXE
+references:
+  mobygames: https://www.mobygames.com/game/6151/monopoly/
 files:
 - name: INSTALL.BAT
   size: 2947

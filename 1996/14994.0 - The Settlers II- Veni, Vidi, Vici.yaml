@@ -16,8 +16,6 @@ type: zip
 installer: true
 commands:
   play: INSTALL.BAT
-references:
-  mobygames: https://www.mobygames.com/game/dos/settlers-ii-veni-vidi-vici
 files:
 - name: AUTORUN.EXE
   size: 212480

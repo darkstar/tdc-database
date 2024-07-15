@@ -17,8 +17,6 @@ installer: true
 demo: true
 commands:
   play: INSTALL.EXE
-references:
-  mobygames: https://www.mobygames.com/game/dos/corridor-7-alien-invasion
 files:
 - name: C7.LZH
   size: 1306380

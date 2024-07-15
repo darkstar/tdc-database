@@ -15,8 +15,6 @@ version: '1.04'
 type: zip
 commands:
   play: SVR.BAT
-references:
-  mobygames: https://www.mobygames.com/game/dos/spectre-vr
 files:
 - name: BASIC.MAT
   size: 8499

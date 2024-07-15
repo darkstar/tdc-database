@@ -15,8 +15,6 @@ version: '1.2'
 type: zip
 commands:
   play: PEEGA.EXE
-references:
-  mobygames: https://www.mobygames.com/game/dos/ums-ii-nations-at-war-planet-editor
 files:
 - name: ALEX.@
   size: 3873

@@ -1,5 +1,6 @@
-filename: Might and Magic III- Isles of Terra (1991)(New World Computing, Inc.) [IMA][720k].zip
+filename: Might and Magic III- Isles of Terra r910902 (1991)(New World Computing, Inc.) [IMA][720k][!].zip
 tdc_id: '14290.16'
+parent_id: '14290.19'
 title:
   box: 'Might and Magic III: Isles of Terra'
 publisher: New World Computing, Inc.
@@ -8,27 +9,32 @@ genre: IMA
 language: English
 date:
   added: '2023-02-26T17:59:08'
-  last_modified: '2023-02-26T17:59:08'
+  last_modified: '2024-07-02T09:14:43'
+release: '910902'
 type: IMA
+tags:
+- KnownGood
 media: 720K
+references:
+  mobygames: https://www.mobygames.com/game/1621/might-and-magic-iii-isles-of-terra/
 files:
-- name: disk1.img
+- name: Disk1.ima
   size: 737280
-  date: '2009-06-25T00:09:54'
-  crc: '0x0838267d'
-- name: disk2.img
+  date: '2024-07-01T21:21:42'
+  crc: '0xf6510a2a'
+- name: Disk2.ima
   size: 737280
-  date: '2009-06-25T00:09:54'
-  crc: '0x8dabf9c3'
-- name: disk3.img
+  date: '2024-07-01T21:21:54'
+  crc: '0x700416fb'
+- name: Disk3.ima
   size: 737280
-  date: '2009-06-25T00:09:54'
-  crc: '0xdfe946b8'
-- name: disk4.img
+  date: '2024-07-01T21:55:06'
+  crc: '0xb1d020a4'
+- name: Disk4.ima
   size: 737280
-  date: '2009-06-25T00:09:54'
-  crc: '0x78c5da56'
-- name: disk5.img
+  date: '2024-07-01T21:22:16'
+  crc: '0xdc907c79'
+- name: Disk5.ima
   size: 737280
-  date: '2009-06-25T00:09:54'
-  crc: '0xcd178b43'
+  date: '2024-07-01T21:22:28'
+  crc: '0x841995c2'

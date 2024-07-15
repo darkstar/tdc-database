@@ -15,8 +15,6 @@ type: zip
 installer: true
 commands:
   play: INSTALL.EXE
-references:
-  mobygames: https://www.mobygames.com/game/dos/action-soccer
 files:
 - name: ACTION.MNU
   size: 795480

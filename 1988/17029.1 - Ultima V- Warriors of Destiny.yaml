@@ -13,496 +13,502 @@ version: '1.16'
 type: zip
 commands:
   play: ULTIMA.EXE
+references:
+  mobygames: https://www.mobygames.com/game/808/ultima-v-warriors-of-destiny/
 files:
 - name: BLCKTHRN.OVL
   size: 3184
-  date: '1988-10-19T07:32:34'
-  crc: '0x5349cce4'
+  date: '1988-10-19T08:44:48'
+  crc: '0x21e51714'
 - name: BRIT.CBT
   size: 5632
-  date: '1988-02-24T14:05:50'
+  date: '1988-02-24T16:05:50'
   crc: '0x0729e578'
 - name: BRIT.DAT
   size: 52480
-  date: '1988-03-15T11:00:18'
+  date: '1988-03-15T13:00:18'
   crc: '0x3420672e'
 - name: BRIT.OOL
   size: 256
-  date: '1988-10-19T08:06:34'
+  date: '1988-10-19T08:51:32'
   crc: '0x0d968558'
 - name: BRITISH.BIT
   size: 784
-  date: '1988-03-24T06:22:20'
+  date: '1988-03-24T08:22:20'
   crc: '0x8bbbd77e'
 - name: BRITISH.PTH
   size: 2783
-  date: '1988-03-12T13:33:34'
+  date: '1988-03-12T15:33:34'
   crc: '0x8455f285'
 - name: CAST.OVL
   size: 8560
-  date: '1988-10-19T07:32:46'
-  crc: '0xde45a74e'
+  date: '1988-10-19T08:45:00'
+  crc: '0x22dc9b81'
 - name: CAST2.OVL
   size: 4544
-  date: '1988-10-19T07:32:48'
-  crc: '0x97fbb69a'
+  date: '1988-10-19T08:45:02'
+  crc: '0x699ba1c9'
 - name: CASTLE.DAT
   size: 16384
-  date: '1988-02-24T14:05:02'
+  date: '1988-02-24T16:05:02'
   crc: '0xb98151c8'
 - name: CASTLE.NPC
   size: 4608
-  date: '1988-02-24T14:05:56'
+  date: '1988-02-24T16:05:56'
   crc: '0xc252b946'
 - name: CASTLE.TLK
   size: 21868
-  date: '1988-03-08T13:16:14'
+  date: '1988-03-08T15:16:14'
   crc: '0xaf82f1a7'
 - name: CGA.DRV
   size: 8135
-  date: '1988-06-20T08:26:00'
+  date: '1988-06-20T10:26:00'
   crc: '0x2e81a661'
 - name: CMDS.OVL
   size: 7440
-  date: '1988-10-19T07:32:44'
-  crc: '0x91003db0'
+  date: '1988-10-19T08:44:58'
+  crc: '0xfba1f91d'
 - name: COMBAT.OVL
   size: 7408
-  date: '1988-10-19T07:32:34'
-  crc: '0xa791b65a'
+  date: '1988-10-19T08:44:48'
+  crc: '0x13aa8a3c'
 - name: COMSUBS.OVL
   size: 5216
-  date: '1988-10-19T07:32:50'
-  crc: '0x668bbae4'
+  date: '1988-10-19T08:45:04'
+  crc: '0xae30c62a'
 - name: CREATE.16
   size: 11000
-  date: '1988-05-30T14:18:20'
+  date: '1988-05-30T16:18:20'
   crc: '0x793717f9'
 - name: CREATE.4
   size: 9114
-  date: '1988-05-23T07:06:22'
+  date: '1988-05-23T09:06:22'
   crc: '0xea83cdce'
 - name: DATA.OVL
-  size: 48464
-  date: '1988-10-19T07:33:00'
-  crc: '0x32d46adb'
+  size: 48496
+  date: '1988-10-19T08:45:14'
+  crc: '0x56ab9c90'
 - name: DNG1.16
   size: 8929
-  date: '1988-06-21T08:04:56'
+  date: '1988-06-21T10:04:56'
   crc: '0x941265ed'
 - name: DNG1.4
   size: 7918
-  date: '1988-06-10T06:28:58'
+  date: '1988-06-10T08:28:58'
   crc: '0xee869d7f'
 - name: DNG2.16
   size: 18552
-  date: '1988-06-21T08:04:58'
+  date: '1988-06-21T10:04:58'
   crc: '0x42ac23be'
 - name: DNG2.4
   size: 18020
-  date: '1988-06-10T06:29:00'
+  date: '1988-06-10T08:29:00'
   crc: '0x5c423bfa'
 - name: DNG3.16
   size: 17020
-  date: '1988-06-21T08:05:02'
+  date: '1988-06-21T10:05:02'
   crc: '0xf34c64a1'
 - name: DNG3.4
   size: 14146
-  date: '1988-06-10T06:29:02'
+  date: '1988-06-10T08:29:02'
   crc: '0x3e512e59'
 - name: DNGLOOK.OVL
   size: 5040
-  date: '1988-10-19T07:32:36'
-  crc: '0xcfe1d797'
+  date: '1988-10-19T08:44:52'
+  crc: '0xeba30d6f'
 - name: DUNGEON.CBT
   size: 39424
-  date: '1988-02-24T14:05:54'
+  date: '1988-02-24T16:05:54'
   crc: '0x252fbc58'
 - name: DUNGEON.DAT
   size: 4096
-  date: '1988-02-24T14:03:42'
+  date: '1988-02-24T16:03:42'
   crc: '0x1d6ad701'
 - name: DUNGEON.OVL
   size: 8016
-  date: '1988-10-19T07:32:28'
-  crc: '0x2bd9375f'
+  date: '1988-10-19T08:44:42'
+  crc: '0x9627e62a'
 - name: DWELLING.DAT
   size: 16384
-  date: '1988-02-24T14:05:08'
+  date: '1988-02-24T16:05:08'
   crc: '0x9ba8ce0b'
 - name: DWELLING.NPC
   size: 4608
-  date: '1988-02-24T14:05:58'
+  date: '1988-02-24T16:05:58'
   crc: '0x8df33428'
 - name: DWELLING.TLK
   size: 7979
-  date: '1988-03-08T13:16:08'
+  date: '1988-03-08T15:16:08'
   crc: '0x128f1eff'
 - name: EGA.DRV
   size: 11654
-  date: '1988-06-13T12:33:42'
+  date: '1988-06-13T14:33:42'
   crc: '0x584015a8'
 - name: END.DAT
   size: 3698
-  date: '1988-03-14T12:30:00'
+  date: '1988-03-14T14:30:00'
   crc: '0xfeff58f5'
 - name: END1.16
   size: 7792
-  date: '1988-05-30T14:18:42'
+  date: '1988-05-30T16:18:42'
   crc: '0x18f3d8b8'
 - name: END1.4
   size: 6397
-  date: '1988-05-23T07:06:38'
+  date: '1988-05-23T09:06:38'
   crc: '0x571fa794'
 - name: END2.16
   size: 8542
-  date: '1988-05-30T14:18:44'
+  date: '1988-05-30T16:18:44'
   crc: '0x2d3b74c3'
 - name: END2.4
   size: 7340
-  date: '1988-05-23T07:06:40'
+  date: '1988-05-23T09:06:40'
   crc: '0x05caaffd'
 - name: ENDGAME.OVL
   size: 2800
-  date: '1988-10-19T07:32:40'
-  crc: '0xaffba484'
+  date: '1988-10-19T08:44:54'
+  crc: '0x5d9377df'
 - name: ENDMSG.DAT
   size: 786
-  date: '1988-05-11T09:58:02'
+  date: '1988-05-11T11:58:02'
   crc: '0x216d3340'
 - name: ENDSC.16
   size: 1392
-  date: '1988-05-30T14:18:50'
+  date: '1988-05-30T16:18:50'
   crc: '0x4fa8f203'
 - name: ENDSC.4
   size: 1214
-  date: '1988-06-02T13:19:42'
+  date: '1988-06-02T15:19:42'
   crc: '0x67328901'
 - name: FLAMES.OVL
   size: 32
-  date: '1988-10-19T07:32:30'
+  date: '1988-10-19T08:44:44'
   crc: '0x8afdbe4c'
 - name: FONT.OVL
   size: 3744
-  date: '1988-10-19T07:32:54'
-  crc: '0xf3783776'
+  date: '1988-10-19T08:45:08'
+  crc: '0xc1cb62cf'
 - name: HER.DRV
   size: 9087
-  date: '1988-06-13T12:46:22'
+  date: '1988-06-13T14:46:22'
   crc: '0xd5971e51'
 - name: IBM.CH
   size: 1024
-  date: '1988-06-02T07:38:04'
+  date: '1988-06-02T09:38:04'
   crc: '0x73dbbd51'
 - name: IBM.HCS
   size: 3072
-  date: '1988-06-14T14:45:10'
+  date: '1988-06-14T16:45:10'
   crc: '0x2f62e582'
 - name: INIT.GAM
   size: 4192
-  date: '1988-10-19T06:51:32'
+  date: '1988-10-17T09:11:02'
   crc: '0x93396be1'
 - name: INIT.OOL
   size: 256
-  date: '1988-10-19T06:51:32'
+  date: '1988-10-17T09:11:02'
   crc: '0x945d0718'
 - name: INTRO.OVL
   size: 8400
-  date: '1992-01-20T14:23:40'
-  crc: '0x7c6b3114'
+  date: '1988-10-19T08:44:44'
+  crc: '0xd27c6720'
 - name: ITEMS.16
   size: 2793
-  date: '1988-06-21T08:05:02'
+  date: '1988-06-21T10:05:02'
   crc: '0x12d6cc73'
 - name: ITEMS.4
   size: 2207
-  date: '1988-06-10T06:29:04'
+  date: '1988-06-10T08:29:04'
   crc: '0x53a83488'
 - name: KARMA.DAT
   size: 761
-  date: '1988-04-25T07:34:46'
+  date: '1988-04-25T09:34:46'
   crc: '0x9eeab858'
 - name: KEEP.DAT
   size: 16384
-  date: '1988-02-24T14:05:06'
+  date: '1988-02-24T16:05:06'
   crc: '0x3f1eb4d0'
 - name: KEEP.NPC
   size: 4608
-  date: '1988-02-24T14:05:56'
+  date: '1988-02-24T16:05:56'
   crc: '0xefc4d9f4'
 - name: KEEP.TLK
   size: 17947
-  date: '1988-03-08T13:16:20'
+  date: '1988-03-08T15:16:20'
   crc: '0xa3008fa8'
 - name: LOOK2.DAT
   size: 3622
-  date: '1988-04-04T13:38:06'
+  date: '1988-04-04T15:38:06'
   crc: '0x392dede2'
 - name: LOOKOBJ.OVL
   size: 4560
-  date: '1988-10-19T07:32:36'
-  crc: '0x6db37209'
+  date: '1988-10-19T08:44:50'
+  crc: '0x877bc446'
 - name: MAINOUT.OVL
   size: 7344
-  date: '1988-10-19T07:32:26'
-  crc: '0x6beeee66'
+  date: '1988-10-19T08:44:40'
+  crc: '0x0b8868d2'
 - name: MISCMAPS.DAT
   size: 1871
-  date: '1988-02-02T12:03:06'
+  date: '1988-02-02T14:03:06'
   crc: '0x62941e68'
 - name: MISCMSG.DAT
   size: 2745
-  date: '1988-05-11T09:53:46'
+  date: '1988-05-11T11:53:46'
   crc: '0xfb06398f'
 - name: MON0.16
   size: 993
-  date: '1988-06-21T08:05:02'
+  date: '1988-06-21T10:05:02'
   crc: '0x8280f2dd'
 - name: MON0.4
   size: 741
-  date: '1988-06-10T06:29:04'
+  date: '1988-06-10T08:29:04'
   crc: '0x9993d17e'
 - name: MON1.16
   size: 560
-  date: '1988-06-21T08:05:04'
+  date: '1988-06-21T10:05:04'
   crc: '0x94375624'
 - name: MON1.4
   size: 471
-  date: '1988-06-10T06:29:06'
+  date: '1988-06-10T08:29:06'
   crc: '0x6dd510d6'
 - name: MON2.16
   size: 842
-  date: '1988-06-21T08:05:04'
+  date: '1988-06-21T10:05:04'
   crc: '0x5d046c3d'
 - name: MON2.4
   size: 761
-  date: '1988-06-10T06:29:06'
+  date: '1988-06-10T08:29:06'
   crc: '0x67abd292'
 - name: MON3.16
   size: 722
-  date: '1988-06-21T08:05:04'
+  date: '1988-06-21T10:05:04'
   crc: '0x1d55ab63'
 - name: MON3.4
   size: 659
-  date: '1988-06-10T06:29:06'
+  date: '1988-06-10T08:29:06'
   crc: '0xce167bac'
 - name: MON4.16
   size: 626
-  date: '1988-06-21T08:05:06'
+  date: '1988-06-21T10:05:06'
   crc: '0x2a58dd5d'
 - name: MON4.4
   size: 550
-  date: '1988-06-10T06:29:06'
+  date: '1988-06-10T08:29:06'
   crc: '0x00c89a05'
 - name: MON5.16
   size: 1276
-  date: '1988-06-21T08:05:06'
+  date: '1988-06-21T10:05:06'
   crc: '0xde688de5'
 - name: MON5.4
   size: 959
-  date: '1988-06-10T06:29:08'
+  date: '1988-06-10T08:29:08'
   crc: '0xe0e6f22d'
 - name: MON6.16
   size: 860
-  date: '1988-06-21T08:05:06'
+  date: '1988-06-21T10:05:06'
   crc: '0x3f743046'
 - name: MON6.4
   size: 684
-  date: '1988-06-10T06:29:08'
+  date: '1988-06-10T08:29:08'
   crc: '0x4f94e4bd'
 - name: MON7.16
   size: 1063
-  date: '1988-06-21T08:05:08'
+  date: '1988-06-21T10:05:08'
   crc: '0xdc3ec417'
 - name: MON7.4
   size: 831
-  date: '1988-06-10T06:29:08'
+  date: '1988-06-10T08:29:08'
   crc: '0x2efeae26'
 - name: NPC.OVL
   size: 4912
-  date: '1988-10-19T07:32:32'
-  crc: '0xe151a0f0'
+  date: '1988-10-19T08:44:46'
+  crc: '0xa25d2760'
 - name: OUTSUBS.OVL
   size: 2464
-  date: '1988-10-19T07:32:38'
-  crc: '0xf041d67b'
+  date: '1988-10-19T08:44:52'
+  crc: '0x3503ff5e'
 - name: PROPORT.PCS
   size: 802
-  date: '1988-03-24T06:23:30'
+  date: '1988-03-24T08:23:30'
   crc: '0xec7d3a4a'
 - name: QUESTION.DAT
   size: 7746
-  date: '1988-03-23T11:43:16'
+  date: '1988-03-23T13:43:16'
   crc: '0xb5d75546'
 - name: RUNES.CH
   size: 1024
-  date: '1988-06-10T08:52:22'
+  date: '1988-06-10T10:52:22'
   crc: '0x76140138'
 - name: RUNES.HCS
   size: 3072
-  date: '1988-06-14T09:49:18'
+  date: '1988-06-14T11:49:18'
   crc: '0x44673878'
 - name: SAVED.GAM
   size: 4192
-  date: '1988-10-19T08:06:34'
+  date: '1988-10-19T08:51:32'
   crc: '0x93396be1'
 - name: SAVED.OOL
   size: 512
-  date: '1988-10-19T08:06:34'
+  date: '1988-10-19T08:51:32'
   crc: '0x2b61f738'
 - name: SHOPPE.DAT
   size: 10135
-  date: '1988-05-10T12:08:02'
+  date: '1988-05-10T14:08:02'
   crc: '0x98690f9f'
 - name: SHOPPES.OVL
   size: 5936
-  date: '1988-10-19T07:32:40'
-  crc: '0x61c69cf0'
+  date: '1988-10-19T08:44:54'
+  crc: '0x1a0a4f0d'
 - name: SHOPPES2.OVL
   size: 2848
-  date: '1988-10-19T07:32:52'
-  crc: '0x0cf937ba'
+  date: '1988-10-19T08:45:06'
+  crc: '0x7fbbbc2b'
 - name: SHOPPES3.OVL
   size: 2528
-  date: '1988-10-19T07:32:52'
-  crc: '0xbf5bf5ad'
+  date: '1988-10-19T08:45:06'
+  crc: '0x1f7fbd6f'
 - name: SIGNS.DAT
   size: 8364
-  date: '1988-02-24T14:05:18'
+  date: '1988-02-24T16:05:18'
   crc: '0xd64a09d0'
 - name: SJOG.OVL
   size: 8800
-  date: '1988-10-19T07:32:42'
-  crc: '0x4a850333'
+  date: '1988-10-19T08:44:56'
+  crc: '0x5acba0fd'
 - name: STARTSC.16
   size: 3383
-  date: '1988-06-15T08:54:30'
+  date: '1988-06-15T10:54:30'
   crc: '0x27d98ebc'
 - name: STARTSC.4
   size: 3101
-  date: '1988-06-15T08:57:38'
+  date: '1988-06-15T10:57:38'
   crc: '0x7f6c8f47'
 - name: STORY.DAT
   size: 11679
-  date: '1988-06-02T08:53:34'
+  date: '1988-06-02T10:53:34'
   crc: '0xa26355f2'
 - name: STORY1.16
   size: 7725
-  date: '1988-05-30T14:18:22'
+  date: '1988-05-30T16:18:22'
   crc: '0x5296e5de'
 - name: STORY1.4
   size: 5461
-  date: '1988-06-07T08:56:28'
+  date: '1988-06-07T10:56:28'
   crc: '0xa21ec0ba'
 - name: STORY2.16
   size: 14461
-  date: '1988-07-22T06:54:20'
+  date: '1988-07-22T08:54:20'
   crc: '0x2a740417'
 - name: STORY2.4
   size: 10641
-  date: '1988-05-23T07:06:26'
+  date: '1988-05-23T09:06:26'
   crc: '0xde1212da'
 - name: STORY3.16
   size: 9274
-  date: '1988-05-30T14:18:28'
+  date: '1988-05-30T16:18:28'
   crc: '0x69a5f2bf'
 - name: STORY3.4
   size: 7596
-  date: '1988-05-23T07:06:28'
+  date: '1988-05-23T09:06:28'
   crc: '0xdea2d838'
 - name: STORY4.16
   size: 11190
-  date: '1988-05-30T14:18:32'
+  date: '1988-05-30T16:18:32'
   crc: '0xffde45dc'
 - name: STORY4.4
   size: 7932
-  date: '1988-05-23T07:06:30'
+  date: '1988-05-23T09:06:30'
   crc: '0x0ecf91db'
 - name: STORY5.16
   size: 12336
-  date: '1988-05-30T14:18:34'
+  date: '1988-05-30T16:18:34'
   crc: '0xd9c21eb3'
 - name: STORY5.4
   size: 8496
-  date: '1988-05-23T07:06:32'
+  date: '1988-05-23T09:06:32'
   crc: '0xe685d128'
 - name: STORY6.16
   size: 15290
-  date: '1988-05-30T14:18:38'
+  date: '1988-05-30T16:18:38'
   crc: '0x991f8ac9'
 - name: STORY6.4
   size: 12714
-  date: '1988-05-23T07:06:34'
+  date: '1988-05-23T09:06:34'
   crc: '0x67f956b8'
 - name: T1K.DRV
   size: 7733
-  date: '1988-06-16T06:57:52'
+  date: '1988-06-16T08:57:52'
   crc: '0xbe201a2d'
 - name: TALK.OVL
   size: 4880
-  date: '1988-10-19T07:32:48'
-  crc: '0xf8851edb'
+  date: '1988-10-19T08:45:02'
+  crc: '0xf6ee740a'
 - name: TEXT.16
   size: 1678
-  date: '1988-05-30T14:18:40'
+  date: '1988-05-30T16:18:40'
   crc: '0x62d34982'
 - name: TEXT.4
   size: 1580
-  date: '1988-10-18T13:24:16'
+  date: '1988-10-18T15:24:16'
   crc: '0x9619f02d'
 - name: TILES.16
   size: 30414
-  date: '1988-06-21T07:13:22'
+  date: '1988-06-21T09:13:22'
   crc: '0x002ca25f'
 - name: TILES.4
   size: 19347
-  date: '1988-06-20T08:10:24'
+  date: '1988-06-20T10:10:24'
   crc: '0x6f8b5fe3'
 - name: TITLE.BIT
   size: 3323
-  date: '1988-03-24T06:22:22'
+  date: '1988-03-24T08:22:22'
   crc: '0x1ad47b9a'
 - name: TOWN.OVL
   size: 6256
-  date: '1988-10-19T07:32:24'
-  crc: '0x0a4703f0'
+  date: '1988-10-19T08:44:38'
+  crc: '0xcc532806'
 - name: TOWNE.DAT
   size: 16384
-  date: '1988-02-24T14:05:04'
+  date: '1988-02-24T16:05:04'
   crc: '0x1a2a5287'
 - name: TOWNE.NPC
   size: 4608
-  date: '1988-02-24T14:05:56'
+  date: '1988-02-24T16:05:56'
   crc: '0xbfffec46'
 - name: TOWNE.TLK
   size: 26835
-  date: '1988-03-08T13:16:06'
+  date: '1988-03-08T15:16:06'
   crc: '0x5169e680'
 - name: ULTIMA.16
   size: 16039
-  date: '1988-06-02T12:54:40'
+  date: '1988-06-02T14:54:40'
   crc: '0xb5dcbded'
 - name: ULTIMA.4
   size: 14591
-  date: '1988-05-23T07:06:42'
+  date: '1988-05-23T09:06:42'
   crc: '0x72edf83b'
 - name: ULTIMA.EXE
+  size: 35280
+  date: '1988-10-19T08:45:14'
+  crc: '0x3a46822d'
+- name: ULTIMA.EX_
   size: 36592
-  date: '1992-01-09T21:46:34'
-  crc: '0x4e56116e'
+  date: '1988-10-19T08:45:14'
+  crc: '0xb2d849bc'
 - name: UNDER.DAT
   size: 65536
-  date: '1988-02-24T14:03:38'
+  date: '1988-02-24T16:03:38'
   crc: '0x15c54d3a'
 - name: UNDER.OOL
   size: 256
-  date: '1988-10-19T08:06:34'
+  date: '1988-10-19T08:51:32'
   crc: '0x945d0718'
 - name: WD.BIT
   size: 1772
-  date: '1988-05-25T09:38:42'
+  date: '1988-05-25T11:38:42'
   crc: '0x5271c3e6'
 - name: ZSTATS.OVL
   size: 4880
-  date: '1988-10-19T07:32:50'
-  crc: '0xe3f9ff49'
+  date: '1988-10-19T08:45:04'
+  crc: '0xa0dfc15c'

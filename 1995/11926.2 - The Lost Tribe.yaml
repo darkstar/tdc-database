@@ -14,8 +14,6 @@ type: zip
 installer: true
 commands:
   play: INSTALL.EXE
-references:
-  mobygames: https://www.mobygames.com/game/dos/lost-tribe
 files:
 - name: ACTIONS.RDT
   size: 106680

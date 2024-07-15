@@ -1,0 +1,45 @@
+filename: GoPartner v1.2 (De) [SW] (1992)(Ingolf Hellmann) [Strategy, Board].zip
+tdc_id: '17542.0'
+title:
+  screen: GoPartner
+publisher: Ingolf Hellmann
+year: '1992'
+genre:
+- Strategy
+- Board
+language: German
+date:
+  added: '2024-05-26T16:47:28'
+  last_modified: '2024-05-26T16:47:28'
+version: '1.2'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: GO.EXE
+files:
+- name: FARBEN.TXT
+  size: 1864
+  date: '1992-07-04T19:21:12'
+  crc: '0x33fc4ba0'
+- name: GO.CFG
+  size: 37
+  date: '2023-08-18T06:34:42'
+  crc: '0x2db26c4b'
+- name: GO.DAT
+  size: 71077
+  date: '1992-10-13T21:26:26'
+  crc: '0x5fc28f25'
+- name: GO.EXE
+  size: 194720
+  date: '1992-11-15T21:06:54'
+  crc: '0x67a135ef'
+- name: README
+  size: 3694
+  date: '1992-12-02T16:43:42'
+  crc: '0x35e85139'
+- name: VERSION.GO
+  size: 4699
+  date: '1992-11-16T20:06:34'
+  crc: '0x3fa4a273'

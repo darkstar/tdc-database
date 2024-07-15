@@ -1,0 +1,37 @@
+filename: Masterblazer v0.99 Gamma (Installer) (1992)(Rainbow Arts Software GmbH, LucasArts, Softgold Computerspiele GmbH, Topshots) [Action, Racing - Driving, Sports].zip
+tdc_id: '11200.5'
+parent_id: '11200.4'
+title:
+  box: Masterblazer
+  qualifier: Installer
+publisher: Rainbow Arts Software GmbH, LucasArts, Softgold Computerspiele GmbH, Topshots
+year: '1992'
+genre:
+- Action
+- Racing - Driving
+- Sports
+language: English
+date:
+  added: '2024-07-12T08:22:07'
+  last_modified: '2024-07-12T08:22:07'
+version: 0.99 Gamma
+type: zip
+media: 720K
+installer: true
+commands:
+  play: INSTALL.BAT
+references:
+  mobygames: https://www.mobygames.com/game/6331/masterblazer/
+files:
+- name: INSTALL.BAT
+  size: 495
+  date: '1992-06-23T15:39:52'
+  crc: '0x2fa43b11'
+- name: PART1.EXE
+  size: 716498
+  date: '1992-06-23T14:10:02'
+  crc: '0x53eb9d6c'
+- name: PART2.EXE
+  size: 424617
+  date: '1992-06-23T14:14:14'
+  crc: '0x1b2e2e1a'

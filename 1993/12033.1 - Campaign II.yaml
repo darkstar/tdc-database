@@ -19,8 +19,6 @@ type: zip
 installer: true
 commands:
   play: INSTALL.BAT
-references:
-  mobygames: https://www.mobygames.com/game/dos/campaign-ii
 files:
 - name: CAMP2.RNC
   size: 490270

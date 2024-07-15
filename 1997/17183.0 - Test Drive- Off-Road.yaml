@@ -16,8 +16,6 @@ type: zip
 installer: true
 commands:
   play: INSTALL.EXE
-references:
-  mobygames: https://www.mobygames.com/game/dos/test-drive-off-road
 files:
 - name: AI.DAT
   size: 167

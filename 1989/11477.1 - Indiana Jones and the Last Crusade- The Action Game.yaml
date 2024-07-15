@@ -1,5 +1,6 @@
-filename: Indiana Jones and the Last Crusade- The Action Game (1989)(Lucasfilm Games) [Action][!].zip
+filename: Indiana Jones and the Last Crusade- The Action Game v1.0 (1989)(Lucasfilm Games) [Action].zip
 tdc_id: '11477.1'
+parent_id: '11477.8'
 title:
   box: 'Indiana Jones and the Last Crusade: The Action Game'
 publisher: Lucasfilm Games
@@ -8,11 +9,13 @@ genre: Action
 language: English
 date:
   added: '2019-03-01T18:28:02'
-  last_modified: '2019-03-01T18:28:02'
+  last_modified: '2024-07-09T08:37:25'
+version: '1.0'
 type: zip
-tags:
-- KnownGood
+commands:
+  play: INDY.COM
 references:
+  mobygames: https://www.mobygames.com/game/1146/indiana-jones-and-the-last-crusade-the-action-game/
   dosid: DOS02722
   exodos: Indiana Jones and the Last Crusade - The Action Game (1989).zip
 files:
@@ -117,13 +120,12 @@ files:
   date: '1989-09-26T12:00:00'
   crc: '0x93d94326'
 - name: INSTALL.BAT
-  size: 3176
+  size: 3812
   date: '1989-09-25T12:00:00'
-  crc: '0x867d43b1'
-- name: INSTALL2.BAT
-  size: 1308
-  date: '1989-09-25T12:00:00'
-  crc: '0x943be416'
+  crc: '0xd792d5c8'
+- name: Indy Action
+  size: 0
+  date: '1989-09-26T16:22:32'
 - name: L1MASK.RLC
   size: 11462
   date: '1989-09-26T12:00:00'
@@ -237,9 +239,9 @@ files:
   date: '1989-09-26T12:00:00'
   crc: '0xeb019e28'
 - name: README
-  size: 962
-  date: '1989-09-26T16:30:30'
-  crc: '0x069710d6'
+  size: 1158
+  date: '1989-09-25T12:00:00'
+  crc: '0xa20f1e47'
 - name: TEXT.RLE
   size: 21837
   date: '1989-09-26T12:00:00'

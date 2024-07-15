@@ -13,8 +13,6 @@ type: zip
 installer: true
 commands:
   play: INSTALR.BAT
-references:
-  mobygames: https://www.mobygames.com/game/dos/olimpiadas-92-gimnasia-deportiva
 files:
 - name: D1.LZH
   size: 675892

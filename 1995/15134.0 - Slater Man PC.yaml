@@ -13,8 +13,6 @@ type: zip
 installer: true
 commands:
   play: INSTALUJ.EXE
-references:
-  mobygames: https://www.mobygames.com/game/dos/slater-man-pc
 files:
 - name: INSTALUJ.EXE
   size: 5415

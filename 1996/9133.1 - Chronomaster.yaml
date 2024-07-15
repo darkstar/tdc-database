@@ -15,8 +15,6 @@ media: CD-ROM
 installer: true
 commands:
   play: INSTALL.EXE
-references:
-  mobygames: https://www.mobygames.com/game/dos/chronomaster
 files:
 - name: AUTORUN.INF
   size: 28

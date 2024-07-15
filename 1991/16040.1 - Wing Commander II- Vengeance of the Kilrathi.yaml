@@ -1,7 +1,9 @@
-filename: Wing Commander II- Vengeance of the Kilrathi (Installer) (1991)(ORIGIN Systems, Inc.) [Action, Simulation].zip
+filename: Wing Commander II- Vengeance of the Kilrathi v4.0 (Installer) (1991)(ORIGIN Systems, Inc.) [Action, Simulation][!].zip
 tdc_id: '16040.1'
+parent_id: '16040.5'
 title:
   box: 'Wing Commander II: Vengeance of the Kilrathi'
+  qualifier: Installer
 publisher: ORIGIN Systems, Inc.
 year: '1991'
 genre:
@@ -10,11 +12,17 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:40:02'
-  last_modified: '2019-03-01T18:40:02'
+  last_modified: '2024-06-29T11:20:29'
+version: '4.0'
 type: zip
+tags:
+- KnownGood
+media: 1.2M
 installer: true
 commands:
   play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/823/wing-commander-ii-vengeance-of-the-kilrathi/
 files:
 - name: ALTINT.001
   size: 105
@@ -732,6 +740,9 @@ files:
   size: 103793
   date: '1991-08-19T16:00:00'
   crc: '0x4ff9ab81'
+- name: WC2 VF4_.00
+  size: 0
+  date: '1991-08-19T21:16:06'
 - name: WC2.LZC
   size: 238668
   date: '1991-08-19T16:00:00'

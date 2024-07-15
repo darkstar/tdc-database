@@ -17,8 +17,6 @@ type: zip
 installer: true
 commands:
   play: INSTALL.EXE
-references:
-  mobygames: '-'
 files:
 - name: BOOT.NFO
   size: 29

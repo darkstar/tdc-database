@@ -1,0 +1,80 @@
+filename: Funballs v1.0 [SW] (1995)(St.AbcuGLS, Delta System) [Strategy, Puzzle].zip
+tdc_id: '17554.0'
+title:
+  screen: Funballs
+publisher: St.AbcuGLS, Delta System
+year: '1995'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2024-06-13T20:47:35'
+  last_modified: '2024-06-13T20:47:35'
+version: '1.0'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: FUNBALLS.EXE
+files:
+- name: DATAS\
+  size: 0
+  date: '1995-07-17T18:51:28'
+- name: DATAS\FB.CHR
+  size: 9280
+  date: '1995-07-17T14:20:58'
+  crc: '0x0a47ccda'
+- name: DATAS\FB.GFX
+  size: 64000
+  date: '1995-07-17T17:02:54'
+  crc: '0x5e2d33fe'
+- name: DATAS\FB.INI
+  size: 62
+  date: '1995-07-18T19:17:18'
+  crc: '0x51469406'
+- name: DATAS\FB.LEV
+  size: 2400
+  date: '1995-07-14T22:24:48'
+  crc: '0xa58b331c'
+- name: DATAS\FB.LOD
+  size: 378
+  date: '1995-07-01T10:57:36'
+  crc: '0x5e7c71fd'
+- name: DATAS\FB.LOG
+  size: 14720
+  date: '1995-07-09T11:28:16'
+  crc: '0xf2a7ec05'
+- name: DATAS\FB.MUS
+  size: 12622
+  date: '1995-07-17T12:09:44'
+  crc: '0x7e817358'
+- name: DATAS\FB.NUM
+  size: 250
+  date: '1995-07-08T18:10:00'
+  crc: '0xd59f5d43'
+- name: DATAS\FB.PAL
+  size: 768
+  date: '1995-07-15T10:16:30'
+  crc: '0xf14d8707'
+- name: DATAS\FB.PRG
+  size: 20144
+  date: '1995-07-17T21:05:16'
+  crc: '0xaf6b1016'
+- name: DATAS\FB.SET
+  size: 1125
+  date: '1995-07-02T21:44:58'
+  crc: '0x86fa9341'
+- name: FILE_ID.DIZ
+  size: 221
+  date: '1995-07-17T19:49:20'
+  crc: '0x072da883'
+- name: FUNBALLS.EXE
+  size: 17056
+  date: '1995-07-17T22:17:30'
+  crc: '0x7538b7d1'
+- name: README.TXT
+  size: 4996
+  date: '1995-07-18T19:16:26'
+  crc: '0x7abfdbe5'

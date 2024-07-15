@@ -1,0 +1,56 @@
+filename: Puzzle v1.00 (Installer) (Pt) (1994)(Rui Tempero Software) [Strategy, Puzzle].zip
+tdc_id: '17509.0'
+title:
+  box: Puzzle
+  qualifier: Installer
+publisher: Rui Tempero Software
+year: '1994'
+genre:
+- Strategy
+- Puzzle
+language: Portuguese
+date:
+  added: '2024-05-24T19:45:03'
+  last_modified: '2024-05-24T19:45:03'
+version: '1.00'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: CREDITS.PAS
+  size: 2445
+  date: '1994-04-21T17:01:06'
+  crc: '0xfc7ed723'
+- name: GAME.PAS
+  size: 9042
+  date: '1994-04-22T16:16:36'
+  crc: '0x9a4b3d1a'
+- name: INSTALL.EXE
+  size: 6336
+  date: '1994-03-21T10:00:32'
+  crc: '0x9c82c612'
+- name: LE_PIC.PAS
+  size: 902
+  date: '1994-04-21T17:01:54'
+  crc: '0xdef3f13c'
+- name: PACK.PZZ
+  size: 91902
+  date: '1994-03-21T09:58:06'
+  crc: '0xe650dd4c'
+- name: PUZZ.PAS
+  size: 10558
+  date: '1994-04-22T15:50:42'
+  crc: '0x8cc8809e'
+- name: SVGA256.PAS
+  size: 1691
+  date: '1994-04-22T15:55:12'
+  crc: '0x665e102a'
+- name: SYSTEM.PZZ
+  size: 72090
+  date: '1994-03-20T04:30:32'
+  crc: '0x62c8da10'
+- name: SYSTEM1.SYS
+  size: 25584
+  date: '1994-03-20T08:07:32'
+  crc: '0x17310913'

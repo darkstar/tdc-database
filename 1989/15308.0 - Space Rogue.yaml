@@ -1,5 +1,6 @@
-filename: Space Rogue (1989)(ORIGIN Systems, Inc.) [Action, Adventure, Role-Playing (RPG)].zip
+filename: Space Rogue v1.1 (1989)(ORIGIN Systems, Inc.) [Action, Adventure, Role-Playing (RPG)].zip
 tdc_id: '15308.0'
+parent_id: '15308.1'
 title:
   box: Space Rogue
 publisher: ORIGIN Systems, Inc.
@@ -11,8 +12,14 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:29:02'
-  last_modified: '2019-03-01T18:29:02'
+  last_modified: '2024-06-18T11:45:57'
+version: '1.1'
 type: zip
+media: 360K
+commands:
+  play: SR.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1635/space-rogue/
 files:
 - name: ALL.DES
   size: 536
@@ -107,6 +114,10 @@ files:
   date: '1989-07-26T11:07:52'
   crc: '0x3a7a4b2f'
 - name: SR.EXE
+  size: 154555
+  date: '1989-09-07T14:10:42'
+  crc: '0x68b46e82'
+- name: SR.EX_
   size: 154555
   date: '1989-09-07T14:10:42'
   crc: '0x18d19e06'

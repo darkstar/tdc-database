@@ -1,0 +1,131 @@
+filename: Rayman (demo) (1995)(Ubi Soft Entertainment Software) [Action].zip
+tdc_id: '14759.3'
+title:
+  screen: Rayman
+  qualifier: demo
+publisher: Ubi Soft Entertainment Software
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2024-06-21T14:41:28'
+  last_modified: '2024-06-21T14:41:28'
+type: zip
+media: Download
+demo: true
+commands:
+  play: RAYMAN.EXE
+references:
+  mobygames: https://www.mobygames.com/game/2247/rayman/
+files:
+- name: HMIDET.386
+  size: 81990
+  date: '1995-02-06T03:00:00'
+  crc: '0x637c56a8'
+- name: HMIDRV.386
+  size: 261425
+  date: '1995-02-06T03:00:00'
+  crc: '0xf6d116a3'
+- name: PCMAP\ALLFIX.DAT
+  size: 519234
+  date: '1995-11-28T11:19:06'
+  crc: '0xa22a21a5'
+- name: PCMAP\BRAY.DAT
+  size: 98229
+  date: '1995-11-28T11:19:00'
+  crc: '0x03cdfa58'
+- name: PCMAP\CAVE\
+  size: 0
+  date: '2010-03-01T11:21:00'
+- name: PCMAP\CAVE\RAY10.LEV
+  size: 157527
+  date: '1995-11-28T11:21:18'
+  crc: '0x35ebb321'
+- name: PCMAP\CAVE\RAY4.LEV
+  size: 257822
+  date: '1995-11-28T11:21:10'
+  crc: '0x32cc3d54'
+- name: PCMAP\IMAGE\
+  size: 0
+  date: '2010-03-01T11:21:00'
+- name: PCMAP\IMAGE\RAY1.LEV
+  size: 245304
+  date: '1995-11-28T11:20:42'
+  crc: '0xc1380988'
+- name: PCMAP\JUNGLE\
+  size: 0
+  date: '2010-03-01T11:21:00'
+- name: PCMAP\JUNGLE\RAY4.LEV
+  size: 383232
+  date: '1995-11-28T11:19:20'
+  crc: '0x3309ce04'
+- name: PCMAP\JUNGLE\RAY9.LEV
+  size: 241860
+  date: '1995-11-28T11:19:26'
+  crc: '0x4bed56b9'
+- name: PCMAP\MOUNTAIN\
+  size: 0
+  date: '2010-03-01T11:21:00'
+- name: PCMAP\MOUNTAIN\RAY7.LEV
+  size: 206442
+  date: '1995-11-28T11:20:28'
+  crc: '0x250f5666'
+- name: PCMAP\MUSIC\
+  size: 0
+  date: '2010-03-01T11:21:00'
+- name: PCMAP\MUSIC\RAY7.LEV
+  size: 320408
+  date: '1995-11-28T11:19:56'
+  crc: '0xa0f8ec3b'
+- name: PCMAP\MUSIC\RAY8.LEV
+  size: 368654
+  date: '1995-11-16T16:25:40'
+  crc: '0xa367eb6b'
+- name: PCMAP\RAY1.WLD
+  size: 903731
+  date: '1995-11-28T11:19:12'
+  crc: '0xcaefa17e'
+- name: PCMAP\RAY2.WLD
+  size: 853899
+  date: '1995-11-28T11:19:46'
+  crc: '0x4feae1ed'
+- name: PCMAP\RAY3.WLD
+  size: 772177
+  date: '1995-11-28T11:20:16'
+  crc: '0x5e0071c0'
+- name: PCMAP\RAY4.WLD
+  size: 919132
+  date: '1995-11-28T11:20:42'
+  crc: '0xb8d06ea5'
+- name: PCMAP\RAY5.WLD
+  size: 995747
+  date: '1995-11-28T11:21:06'
+  crc: '0x962f47cb'
+- name: RAY.LNG
+  size: 4175
+  date: '1995-11-28T18:47:04'
+  crc: '0xdfca4c86'
+- name: RAYMAN.EXE
+  size: 412264
+  date: '1995-12-04T13:43:38'
+  crc: '0xe86fe7bb'
+- name: RAYMAN.ICO
+  size: 766
+  date: '1995-11-13T18:01:00'
+  crc: '0x41ee44e2'
+- name: README.TXT
+  size: 971
+  date: '1995-12-04T16:43:08'
+  crc: '0x67d3dad5'
+- name: SNDD8B.DAT
+  size: 290280
+  date: '1995-11-13T19:42:56'
+  crc: '0x7bdcaebb'
+- name: SNDH8B.DAT
+  size: 2048
+  date: '1995-11-13T19:42:58'
+  crc: '0xd4708385'
+- name: VIGNET.DAT
+  size: 568681
+  date: '1995-11-28T11:05:34'
+  crc: '0xfbd22a06'

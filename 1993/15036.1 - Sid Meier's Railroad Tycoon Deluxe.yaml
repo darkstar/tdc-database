@@ -1,18 +1,25 @@
-filename: Sid Meier's Railroad Tycoon Deluxe (Installer) [h1] (1993)(MicroProse Software, Inc.) [Strategy].zip
+filename: Sid Meier's Railroad Tycoon Deluxe (Installer) (1993)(MicroProse Software, Inc.) [Strategy][!].zip
 tdc_id: '15036.1'
+parent_id: '15036.18'
 title:
   box: Sid Meier's Railroad Tycoon Deluxe
+  qualifier: Installer
 publisher: MicroProse Software, Inc.
 year: '1993'
 genre: Strategy
 language: English
 date:
   added: '2019-03-01T21:07:26'
-  last_modified: '2019-03-01T21:07:26'
+  last_modified: '2024-06-09T07:43:05'
 type: zip
 tags:
-- Hack: 1
+- KnownGood
+media: 1.44M
 installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/4037/sid-meiers-railroad-tycoon-deluxe/
 files:
 - name: INSTALL.EXE
   size: 112961
@@ -38,10 +45,6 @@ files:
   size: 496188
   date: '1993-06-10T10:33:08'
   crc: '0x1e955713'
-- name: RRT.COM
-  size: 1789
-  date: '1993-06-13T14:58:12'
-  crc: '0x2c70c312'
 - name: RRTD.001
   size: 783147
   date: '1993-06-10T10:35:00'

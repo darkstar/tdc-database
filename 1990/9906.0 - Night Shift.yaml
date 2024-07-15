@@ -1,5 +1,6 @@
-filename: Night Shift (1990)(Lucasfilm Games LLC) [Action][!].zip
+filename: Night Shift v1.0 (1990)(Lucasfilm Games LLC) [Action].zip
 tdc_id: '9906.0'
+parent_id: '9906.5'
 title:
   box: Night Shift
 publisher: Lucasfilm Games LLC
@@ -8,10 +9,14 @@ genre: Action
 language: English
 date:
   added: '2021-01-19T20:18:36'
-  last_modified: '2021-01-19T20:18:36'
+  last_modified: '2024-07-12T10:25:04'
+version: '1.0'
 type: zip
-tags:
-- KnownGood
+media: 360K
+commands:
+  play: IML.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1508/night-shift/
 files:
 - name: BEAST_1.CMP
   size: 54831

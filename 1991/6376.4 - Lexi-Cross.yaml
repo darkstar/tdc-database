@@ -1,5 +1,6 @@
-filename: Lexi-Cross [a1] (1991)(Interplay Productions, Inc.) [Strategy].zip
+filename: Lexi-Cross r910318 [a1] (1991)(Interplay Productions, Inc.) [Strategy].zip
 tdc_id: '6376.4'
+parent_id: '6376.3'
 title:
   box: Lexi-Cross
 publisher: Interplay Productions, Inc.
@@ -8,10 +9,17 @@ genre: Strategy
 language: English
 date:
   added: '2021-09-12T20:10:58'
-  last_modified: '2021-09-12T20:10:58'
+  last_modified: '2024-06-12T15:14:30'
+release: '910318'
 type: zip
 tags:
 - Alternate: 1
+media: 360K
+commands:
+  play: START.BAT
+  setup: SETUP.BAT
+references:
+  mobygames: https://www.mobygames.com/game/750/lexi-cross/
 files:
 - name: ABDULOID.PRO
   size: 123

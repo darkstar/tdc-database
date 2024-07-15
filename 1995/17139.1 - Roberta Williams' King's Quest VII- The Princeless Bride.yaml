@@ -15,8 +15,6 @@ media: CD-ROM
 installer: true
 commands:
   play: INSTALL.BAT
-references:
-  mobygames: https://www.mobygames.com/game/dos/roberta-williams-kings-quest-vii-the-princeless-bride
 files:
 - name: 0.CHK
   size: 144978

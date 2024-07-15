@@ -16,8 +16,6 @@ type: zip
 installer: true
 commands:
   play: INSTALL.EXE
-references:
-  mobygames: https://www.mobygames.com/game/dos/spectre
 files:
 - name: INSTALL.DAT
   size: 23618

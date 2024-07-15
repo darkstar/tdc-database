@@ -1,8 +1,8 @@
-filename: '''Nam 1965-1975 (EGA) (En)(De)(Fr)(It) (1991)(Domark Software Ltd.) [Strategy].zip'
+filename: '''Nam 1965-1975 (En)(De)(Fr)(It) (1991)(Domark Software Ltd.) [Strategy].zip'
 tdc_id: '14404.0'
+parent_id: '14404.1'
 title:
-  screen: '''Nam 1965-1975'
-  qualifier: EGA
+  box: '''Nam 1965-1975'
 publisher: Domark Software Ltd.
 year: '1991'
 genre: Strategy
@@ -13,9 +13,13 @@ language:
 - German
 date:
   added: '2019-03-01T18:34:40'
-  last_modified: '2019-03-01T18:34:40'
+  last_modified: '2024-07-01T15:22:59'
 type: zip
+media: 720K
+commands:
+  play: PC-NAM.EXE
 references:
+  mobygames: https://www.mobygames.com/game/51858/nam-1965-1975/
   dosid: DOS03361
   exodos: '''Nam 1965-1975 (1991).zip'
 files:
@@ -119,6 +123,10 @@ files:
   size: 2730
   date: '1990-09-02T15:14:42'
   crc: '0xf042c2ea'
+- name: BADEND.CGA
+  size: 18537
+  date: '1991-01-02T05:54:38'
+  crc: '0xdade9499'
 - name: BADEND.EGA
   size: 48497
   date: '1991-03-13T20:01:10'
@@ -135,66 +143,130 @@ files:
   size: 12866
   date: '1991-03-17T01:30:10'
   crc: '0x62c699a9'
+- name: GOODEND.CGA
+  size: 22194
+  date: '1991-01-02T05:55:40'
+  crc: '0xf2ad3a83'
 - name: GOODEND.EGA
   size: 45669
   date: '1991-03-13T20:02:44'
   crc: '0xcb6be840'
+- name: ICORPS.CGA
+  size: 18935
+  date: '1991-01-20T05:16:04'
+  crc: '0xb72f5c7f'
 - name: ICORPS.EGA
   size: 68833
   date: '1991-03-13T17:31:18'
   crc: '0x7dc9267d'
+- name: IICORPS.CGA
+  size: 19714
+  date: '1991-01-20T05:16:42'
+  crc: '0x5491d2d8'
 - name: IICORPS.EGA
   size: 71316
   date: '1991-03-13T17:32:34'
   crc: '0x1e3a2ca8'
+- name: IIICORPS.CGA
+  size: 18896
+  date: '1991-01-20T05:17:24'
+  crc: '0x221ecf47'
 - name: IIICORPS.EGA
   size: 66984
   date: '1991-03-18T01:17:18'
   crc: '0x9d3733a1'
+- name: INSTCGA.BAT
+  size: 761
+  date: '1991-03-17T13:38:30'
+  crc: '0x5eae5c85'
+- name: INSTEGA.BAT
+  size: 997
+  date: '1991-03-17T13:38:12'
+  crc: '0xcc466245'
 - name: ITALIAN.TXT
   size: 13148
   date: '1991-03-17T01:32:42'
   crc: '0x98984ecd'
+- name: IVCORPS.CGA
+  size: 18126
+  date: '1991-01-20T05:18:08'
+  crc: '0xa0e171ff'
 - name: IVCORPS.EGA
   size: 64802
   date: '1991-03-13T17:33:26'
   crc: '0x0b0ffa33'
+- name: JOHNAD.CGA
+  size: 17464
+  date: '1991-01-02T06:31:32'
+  crc: '0x57c45fa0'
 - name: JOHNAD.EGA
   size: 50026
   date: '1991-03-13T15:29:36'
   crc: '0x22ad0fa8'
+- name: JOHNSON.CGA
+  size: 17519
+  date: '1990-10-12T17:32:28'
+  crc: '0xa2f06c8c'
 - name: JOHNSON.EGA
   size: 50027
   date: '1991-03-13T15:24:28'
   crc: '0x30fe5bd7'
+- name: MAPINDEX.CGA
+  size: 18053
+  date: '1991-01-20T05:18:48'
+  crc: '0x7f65c737'
 - name: MAPINDEX.EGA
   size: 67002
   date: '1991-03-13T17:35:36'
   crc: '0x97bb1a5c'
-- name: NAM.EXE
-  size: 113744
-  date: '2055-10-11T18:08:46'
-  crc: '0xeac43e51'
+- name: NAMCGA.BAT
+  size: 11
+  date: '1991-03-17T08:10:38'
+  crc: '0x0c726a09'
 - name: NAMEGA.BAT
-  size: 8
-  date: '2055-10-11T18:46:42'
-  crc: '0xb116f04a'
+  size: 11
+  date: '1991-03-17T08:10:50'
+  crc: '0x08ff16bb'
+- name: NIXAD.CGA
+  size: 17354
+  date: '1991-01-02T05:59:18'
+  crc: '0xac07167a'
 - name: NIXAD.EGA
   size: 49853
   date: '1991-03-17T23:31:08'
   crc: '0x229a1ccf'
+- name: NIXON.CGA
+  size: 17340
+  date: '1990-11-30T15:11:52'
+  crc: '0x3b5316c7'
 - name: NIXON.EGA
   size: 48958
   date: '1991-03-17T23:32:28'
   crc: '0x85380665'
+- name: PAPER.CGA
+  size: 16518
+  date: '1991-03-04T06:59:28'
+  crc: '0xb1c4b188'
 - name: PAPER.EGA
   size: 35864
   date: '1991-03-04T06:58:10'
   crc: '0x36c820b2'
+- name: PC-NAM.EXE
+  size: 109163
+  date: '1991-03-20T17:16:56'
+  crc: '0xf40a40c3'
+- name: REPORT.CGA
+  size: 17032
+  date: '1991-01-02T06:00:16'
+  crc: '0xbf1df7ce'
 - name: REPORT.EGA
   size: 73631
   date: '1991-03-14T11:48:12'
   crc: '0x56aed8c6'
+- name: START.CGA
+  size: 19052
+  date: '1991-01-02T06:01:02'
+  crc: '0xe93cf679'
 - name: START.EGA
   size: 51904
   date: '1991-03-13T20:04:12'

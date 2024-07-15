@@ -20,8 +20,6 @@ type: zip
 installer: true
 commands:
   play: INSTALL.COM
-references:
-  mobygames: https://www.mobygames.com/game/dos/inca-ii-nations-of-immortality
 files:
 - name: CD.ITK
   size: 103192154

@@ -1,4 +1,4 @@
-filename: Fire & Ice (1993)(Renegade Software) [Action].zip
+filename: Fire & Ice (1993)(Renegade Software) [Action][!].zip
 tdc_id: '13598.0'
 parent_id: '13598.2'
 title:
@@ -9,15 +9,27 @@ genre: Action
 language: English
 date:
   added: '2019-03-01T19:08:36'
-  last_modified: '2019-03-01T19:08:36'
+  last_modified: '2024-06-18T17:05:14'
 type: zip
+tags:
+- KnownGood
+media: 1.44M
 commands:
-  play: FIRE.EXE
+  play: FIRE.COM
 references:
+  mobygames: https://www.mobygames.com/game/6075/fire-ice/
   dosid: DOS02219
   exodos: Fire and Ice (1993).zip
 files:
 - name: FIRE.EXE
   size: 1021763
+  date: '1993-11-07T08:00:08'
+  crc: '0xb4017075'
+- name: FIRE.EX_
+  size: 1021763
   date: '1993-11-07T20:00:08'
   crc: '0x3888ebc8'
+- name: READ.ME
+  size: 257
+  date: '1993-11-08T17:08:28'
+  crc: '0x00fe9ee4'

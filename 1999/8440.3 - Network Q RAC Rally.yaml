@@ -16,8 +16,6 @@ type: zip
 installer: true
 commands:
   play: games\install.bat c
-references:
-  mobygames: https://www.mobygames.com/game/dos/network-q-rac-rally
 files:
 - name: AUTORUN.INF
   size: 68

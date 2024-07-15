@@ -1,0 +1,76 @@
+filename: Fatal Fumes v1.00 [SW] (1996)(Jussi Koskela) [Action, Racing - Driving].zip
+tdc_id: '13523.4'
+title:
+  screen: Fatal Fumes
+publisher: Jussi Koskela
+year: '1996'
+genre:
+- Action
+- Racing - Driving
+language: English
+date:
+  added: '2024-06-21T17:35:20'
+  last_modified: '2024-06-21T17:35:20'
+version: '1.00'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: FF.EXE
+  setup: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1096/fatal-fumes/
+files:
+- name: DATA000.JUS
+  size: 228352
+  date: '1996-11-11T15:50:20'
+  crc: '0xf8cc1d8e'
+- name: DATA001.JUS
+  size: 197298
+  date: '1996-11-11T15:50:20'
+  crc: '0xdd7cf1b9'
+- name: DATA002.JUS
+  size: 238592
+  date: '1996-11-11T15:50:22'
+  crc: '0xbfaeb9a3'
+- name: DATA003.JUS
+  size: 9055
+  date: '1996-11-11T15:50:22'
+  crc: '0xfacace3d'
+- name: DATA004.JUS
+  size: 3243
+  date: '1996-11-11T15:50:22'
+  crc: '0x5b7c1354'
+- name: DATA005.JUS
+  size: 91
+  date: '1996-11-11T16:27:52'
+  crc: '0xb553c11c'
+- name: DATA006.JUS
+  size: 98486
+  date: '1996-11-11T15:50:22'
+  crc: '0x8a8bf7e5'
+- name: FF.EXE
+  size: 124352
+  date: '1996-11-11T15:50:20'
+  crc: '0xda3abe2b'
+- name: FFMANUAL.TXT
+  size: 9740
+  date: '1996-11-11T15:50:22'
+  crc: '0x984a22e5'
+- name: FILE_ID.DIZ
+  size: 441
+  date: '1996-11-11T15:50:22'
+  crc: '0x01a24f1c'
+- name: INSTALL.EXE
+  size: 15312
+  date: '1996-11-11T15:50:20'
+  crc: '0xeed40f92'
+- name: SETUP.EXE
+  size: 10032
+  date: '1996-11-11T15:50:20'
+  crc: '0xb9da6b19'
+- name: SWTRACKS.JUS
+  size: 14876
+  date: '1996-11-10T21:43:08'
+  crc: '0x981bf83b'

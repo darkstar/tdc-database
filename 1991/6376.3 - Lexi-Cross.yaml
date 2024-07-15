@@ -1,18 +1,26 @@
-filename: Lexi-Cross (Installer) [a1] (1991)(Interplay Productions, Inc.) [Strategy].zip
+filename: Lexi-Cross r910318 (Installer) [a1] (1991)(Interplay Productions, Inc.) [Strategy].zip
 tdc_id: '6376.3'
+parent_id: '6376.8'
 title:
   box: Lexi-Cross
+  qualifier: Installer
 publisher: Interplay Productions, Inc.
 year: '1991'
 genre: Strategy
 language: English
 date:
   added: '2021-09-12T20:09:16'
-  last_modified: '2021-09-12T20:09:16'
+  last_modified: '2024-06-12T15:13:46'
+release: '910318'
 type: zip
 tags:
 - Alternate: 1
+media: 360K
 installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/750/lexi-cross/
 files:
 - name: DISK51.SS
   size: 256992

@@ -1,4 +1,4 @@
-filename: Robbo (Pl) (1993)(xLand Games) [Strategy, Action].zip
+filename: Robbo v1.01 (Pl) (1993)(xLand Games) [Strategy, Action].zip
 tdc_id: '14921.1'
 title:
   box: Robbo
@@ -10,26 +10,48 @@ genre:
 language: Polish
 date:
   added: '2019-03-01T19:18:02'
-  last_modified: '2019-03-01T19:18:02'
+  last_modified: '2024-07-13T08:08:42'
+version: '1.01'
 type: zip
+media: 1.2M
+commands:
+  play: START.BAT
+references:
+  mobygames: https://www.mobygames.com/game/751/robbo/
 files:
-- name: CONFIG.DTA
-  size: 2
-  date: '2011-01-04T02:04:30'
-  crc: '0x9b00ccfb'
+- name: CRACK.COM
+  size: 4400
+  date: '1980-01-01T00:00:00'
+  crc: '0xc80555f3'
+- name: CZYTAJ.COM
+  size: 868
+  date: '1993-06-16T10:27:48'
+  crc: '0x25601032'
+- name: CZYTAJ.DOK
+  size: 2725
+  date: '1993-06-17T14:13:12'
+  crc: '0x3bdd7498'
+- name: CZYTAJ.TO
+  size: 2192
+  date: '1993-06-21T19:46:40'
+  crc: '0x30a3650b'
 - name: INSTALUJ.EXE
   size: 22096
-  date: '1999-12-19T18:36:00'
+  date: '1993-06-21T17:49:10'
   crc: '0x8ac7ff95'
 - name: ROBBO.EXE
   size: 2149033
-  date: '2011-01-04T02:03:18'
-  crc: '0xfedbf575'
+  date: '1993-06-22T13:10:28'
+  crc: '0x7cf6a18a'
 - name: ROBBO.ICO
   size: 766
   date: '1993-06-16T11:03:14'
   crc: '0x10cc024b'
-- name: robbocrk.com
-  size: 194
-  date: '2001-07-05T19:19:30'
-  crc: '0xc1c3d247'
+- name: ROBBO.PIF
+  size: 545
+  date: '1993-06-16T10:42:04'
+  crc: '0x35f7e9b4'
+- name: START.BAT
+  size: 74
+  date: '1980-01-01T00:00:00'
+  crc: '0x559df963'

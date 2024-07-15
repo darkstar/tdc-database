@@ -15,8 +15,6 @@ type: zip
 installer: true
 commands:
   play: INSTALL.BAT
-references:
-  mobygames: https://www.mobygames.com/game/dos/hexuma-das-auge-des-kal
 files:
 - name: IMAGE.001
   size: 357500

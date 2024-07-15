@@ -15,8 +15,6 @@ type: zip
 installer: true
 commands:
   play: CWORLD.EXE
-references:
-  mobygames: http://www.mobygames.com/game/dos/cruel-world
 files:
 - name: CWORLD.EXE
   size: 887449

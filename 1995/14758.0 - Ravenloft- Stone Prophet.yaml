@@ -1,18 +1,24 @@
-filename: Ravenloft- Stone Prophet (Installer) (1995)(Strategic Simulations, Inc.) [Role-Playing (RPG)].zip
+filename: Ravenloft- Stone Prophet v1.00 (Installer) (1995)(Strategic Simulations, Inc.) [Role-Playing (RPG)].zip
 tdc_id: '14758.0'
+parent_id: '14758.4'
 title:
   box: 'Ravenloft: Stone Prophet'
+  qualifier: Installer
 publisher: Strategic Simulations, Inc.
 year: '1995'
 genre: Role-Playing (RPG)
 language: English
 date:
   added: '2019-09-21T20:44:26'
-  last_modified: '2019-09-21T20:44:26'
+  last_modified: '2024-06-12T11:15:21'
+version: '1.00'
 type: zip
+media: CD-ROM
 installer: true
 commands:
   play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/3314/ravenloft-stone-prophet/
 files:
 - name: BOOT1.NFO
   size: 215
@@ -24,7 +30,7 @@ files:
   crc: '0x82fb5018'
 - name: CINE\
   size: 0
-  date: '2000-01-01T00:00:00'
+  date: '1995-03-03T11:15:34'
 - name: CINE\AWAKE.ACT
   size: 474
   date: '1995-02-14T10:39:00'
@@ -415,7 +421,7 @@ files:
   crc: '0x0adf8634'
 - name: THUNDER\
   size: 0
-  date: '2000-01-01T00:00:00'
+  date: '1995-03-07T16:11:44'
 - name: THUNDER\1.SMK
   size: 14051120
   date: '1995-02-13T19:03:02'

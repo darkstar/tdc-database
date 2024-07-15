@@ -17,8 +17,6 @@ type: zip
 installer: true
 commands:
   play: INSTALL.EXE
-references:
-  mobygames: '-'
 files:
 - name: DISK1.ARJ
   size: 1377425

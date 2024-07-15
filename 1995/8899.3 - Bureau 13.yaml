@@ -1,0 +1,54 @@
+filename: Bureau 13 v1772alpha (demo) (1995)(GameTek, Inc.) [Adventure].zip
+tdc_id: '8899.3'
+title:
+  box: Bureau 13
+  qualifier: demo
+publisher: GameTek, Inc.
+year: '1995'
+genre: Adventure
+language: English
+date:
+  added: '2024-06-20T11:09:04'
+  last_modified: '2024-06-20T11:09:04'
+version: 1772alpha
+type: zip
+media: Download
+demo: true
+commands:
+  play: B13.COM
+  setup: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/6601/bureau-13/
+files:
+- name: B13.COM
+  size: 1289
+  date: '1993-10-06T19:53:42'
+  crc: '0x74cc674f'
+- name: B13.DAT
+  size: 89672
+  date: '1994-12-19T15:14:20'
+  crc: '0x1bb9d307'
+- name: DATA.GL
+  size: 4778029
+  date: '1994-12-19T13:54:34'
+  crc: '0xdb2cf3bf'
+- name: FILE_ID.DIZ
+  size: 208
+  date: '1987-07-17T07:27:36'
+  crc: '0xee315dc3'
+- name: README.TXT
+  size: 2056
+  date: '1995-06-04T15:56:02'
+  crc: '0xb320bf66'
+- name: SETUP.EXE
+  size: 24905
+  date: '1994-12-10T00:47:08'
+  crc: '0x89bdc1f1'
+- name: SETUP.GL
+  size: 57592
+  date: '1994-12-09T17:52:46'
+  crc: '0x355fcf27'
+- name: TEXT.GL
+  size: 219146
+  date: '1994-12-19T12:13:30'
+  crc: '0xf420bdf6'

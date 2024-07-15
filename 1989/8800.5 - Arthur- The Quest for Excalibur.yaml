@@ -1,0 +1,62 @@
+filename: Arthur- The Quest for Excalibur r74 (Installer) (1989)(Infocom, Inc.) [Adventure, Interactive Fiction][!].zip
+tdc_id: '8800.5'
+parent_id: '8800.4'
+title:
+  box: 'Arthur: The Quest for Excalibur'
+  qualifier: Installer
+publisher: Infocom, Inc.
+year: '1989'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2024-06-26T20:16:20'
+  last_modified: '2024-06-26T20:16:20'
+release: '74'
+type: zip
+tags:
+- KnownGood
+media: 360K
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1252/arthur-the-quest-for-excalibur/
+files:
+- name: ARTHUR.CG1
+  size: 209359
+  date: '1989-07-13T18:50:16'
+  crc: '0x5fdcff85'
+- name: ARTHUR.EXE
+  size: 47528
+  date: '1989-07-14T16:21:38'
+  crc: '0xc81cdf6a'
+- name: ARTHUR.MG1
+  size: 292279
+  date: '1989-07-14T11:32:56'
+  crc: '0xc692bdf5'
+- name: ARTHUR.PRM
+  size: 2877
+  date: '1989-07-14T12:16:26'
+  crc: '0x7510201f'
+- name: ARTHUR.ZIP
+  size: 269312
+  date: '1989-07-14T16:16:28'
+  crc: '0x76d97dd4'
+- name: EZR.EXE
+  size: 63709
+  date: '1989-07-08T13:00:28'
+  crc: '0x43d4964c'
+- name: FILECVT.EXE
+  size: 26072
+  date: '1989-07-12T13:10:26'
+  crc: '0xd99c01fe'
+- name: IARTHUR.RUN
+  size: 5209
+  date: '1989-07-13T14:29:10'
+  crc: '0xdb60fe79'
+- name: INSTALL.EXE
+  size: 5834
+  date: '1989-07-11T12:15:32'
+  crc: '0xd5674634'

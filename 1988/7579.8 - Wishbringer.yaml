@@ -1,0 +1,32 @@
+filename: Wishbringer r23 (1988)(Infocom, Inc.) [Adventure, Interactive Fiction][!].zip
+tdc_id: '7579.8'
+parent_id: '7579.7'
+title:
+  box: Wishbringer
+publisher: Infocom, Inc.
+year: '1988'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2024-07-03T13:32:48'
+  last_modified: '2024-07-03T13:32:48'
+release: '23'
+type: zip
+tags:
+- KnownGood
+media: 360K
+commands:
+  play: WISHBRIN.EXE
+references:
+  mobygames: https://www.mobygames.com/game/95/wishbringer/
+files:
+- name: WISHBRIN.DAT
+  size: 164713
+  date: '1980-01-01T04:59:30'
+  crc: '0x5f0c246a'
+- name: WISHBRIN.EXE
+  size: 33946
+  date: '1980-01-01T04:50:28'
+  crc: '0x10ebacd6'

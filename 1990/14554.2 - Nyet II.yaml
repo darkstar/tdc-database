@@ -1,21 +1,25 @@
-filename: Nyet II v2.2 (De) [SW] (1990)(PROLINE Computer GbR) [Strategy, Action].zip
+filename: Nyet II vTEST-2.2 (De) [SW] (1990)(Data Becker GmbH & Co. KG, Proline Software GmbH) [Action, Strategy].zip
 tdc_id: '14554.2'
 title:
   screen: Nyet II
-publisher: PROLINE Computer GbR
+publisher: Data Becker GmbH & Co. KG, Proline Software GmbH
 year: '1990'
 genre:
-- Strategy
 - Action
+- Strategy
 language: German
 date:
   added: '2019-03-01T18:33:22'
-  last_modified: '2019-03-01T18:33:22'
-version: '2.2'
+  last_modified: '2024-05-30T14:24:04'
+version: TEST-2.2
 type: zip
 tags:
 - Shareware
 media: Download
+commands:
+  play: NYET2D.EXE
+references:
+  mobygames: https://www.mobygames.com/game/192050/nyet-ii/
 files:
 - name: CLEARHI.EXE
   size: 37274

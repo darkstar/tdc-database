@@ -1,29 +1,28 @@
-filename: Fire & Ice [SW] (1995)(Renegade Software) [Action].zip
+filename: Fire & Ice v1.0 [SW] (1995)(Renegade Software, Streetwise Interactive) [Action].zip
 tdc_id: '13598.1'
 title:
   screen: Fire & Ice
-publisher: Renegade Software
+publisher: Renegade Software, Streetwise Interactive
 year: '1995'
 genre: Action
 language: English
 date:
   added: '2019-01-02T21:04:34'
-  last_modified: '2019-01-02T21:04:34'
+  last_modified: '2024-06-13T13:41:37'
+version: '1.0'
 type: zip
 tags:
 - Shareware
 media: Download
 commands:
   play: FIRE.EXE
+references:
+  mobygames: https://www.mobygames.com/game/6075/fire-ice/
 files:
 - name: FILE_ID.DIZ
   size: 519
   date: '1995-05-25T23:30:00'
   crc: '0xcc38e1b6'
-- name: FIRE&ICE.CFG
-  size: 185
-  date: '2007-08-21T23:12:16'
-  crc: '0x6ffce686'
 - name: FIRE.EXE
   size: 1052613
   date: '1995-05-25T23:30:00'

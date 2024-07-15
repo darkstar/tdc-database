@@ -1,0 +1,50 @@
+filename: Where in the World is Carmen Sandiego_ v2.0 (1989)(Brøderbund Software, Inc.) [Adventure, Educational].zip
+tdc_id: '8009.28'
+parent_id: '8009.27'
+title:
+  box: Where in the World is Carmen Sandiego?
+publisher: Brøderbund Software, Inc.
+year: '1989'
+genre:
+- Adventure
+- Educational
+language: English
+date:
+  added: '2024-07-01T14:49:33'
+  last_modified: '2024-07-01T14:49:33'
+version: '2.0'
+type: zip
+media: 360K
+commands:
+  play: CARMEN.EXE
+references:
+  mobygames: https://www.mobygames.com/game/163/where-in-the-world-is-carmen-sandiego/
+files:
+- name: CARMEN.DAT
+  size: 100463
+  date: '1989-12-11T00:00:02'
+  crc: '0xba0e3b15'
+- name: CARMEN.EXE
+  size: 114953
+  date: '1989-12-11T12:00:02'
+  crc: '0x63322f06'
+- name: CARMEN.EX_
+  size: 114953
+  date: '1989-12-11T00:00:02'
+  crc: '0x8e26e55b'
+- name: CITIES.DAT
+  size: 183710
+  date: '1989-12-11T00:00:02'
+  crc: '0xd2d6a751'
+- name: DIGISND.DAT
+  size: 106275
+  date: '1989-12-11T00:00:02'
+  crc: '0x118dec0a'
+- name: INTERPOL.DAT
+  size: 2112
+  date: '1992-01-08T16:07:38'
+  crc: '0x664bd14c'
+- name: MIDISND.DAT
+  size: 7568
+  date: '1989-12-11T00:00:02'
+  crc: '0x1c8fe81f'

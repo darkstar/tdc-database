@@ -1,7 +1,9 @@
 filename: Zork II- The Wizard of Frobozz r19 (booter) (1982)(Infocom, Inc.) [IMA][160k][cr].zip
 tdc_id: '15700.6'
+parent_id: '15700.17'
 title:
   box: 'Zork II: The Wizard of Frobozz'
+  qualifier: booter
 publisher: Infocom, Inc.
 year: '1982'
 genre: IMA
@@ -12,8 +14,6 @@ date:
 release: '19'
 type: IMA
 media: 360K
-references:
-  mobygames: https://www.mobygames.com/game/pc-booter/zork-ii-the-wizard-of-frobozz
 files:
 - name: ZORK2R19.IMG
   size: 163840

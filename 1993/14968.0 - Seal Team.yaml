@@ -1,5 +1,6 @@
-filename: Seal Team (1993)(Electronic Arts, Inc.) [Simulation].zip
+filename: Seal Team (1993)(Electronic Arts, Inc.) [Simulation][!].zip
 tdc_id: '14968.0'
+parent_id: '14968.3'
 title:
   box: Seal Team
 publisher: Electronic Arts, Inc.
@@ -8,9 +9,16 @@ genre: Simulation
 language: English
 date:
   added: '2019-03-01T19:18:32'
-  last_modified: '2019-03-01T19:18:32'
+  last_modified: '2024-06-13T09:05:25'
 type: zip
+tags:
+- KnownGood
+media: 1.44M
+commands:
+  play: ST.EXE
+  setup: SETUP.BAT
 references:
+  mobygames: https://www.mobygames.com/game/1488/seal-team/
   dosid: DOS04448
   exodos: Seal Team (1993).zip
 files:
@@ -84,8 +92,8 @@ files:
   crc: '0x7ae1ff87'
 - name: C8.CMP
   size: 908
-  date: '1993-12-22T13:24:54'
-  crc: '0x64dda589'
+  date: '1993-07-30T16:44:22'
+  crc: '0x5161d6fd'
 - name: CA.LIB
   size: 13873
   date: '1992-07-30T15:40:44'
@@ -180,12 +188,12 @@ files:
   crc: '0x8aae4999'
 - name: MIDPAK.ADI
   size: 4
-  date: '1993-11-30T11:52:00'
+  date: '1993-07-30T15:22:32'
   crc: '0xffffffff'
 - name: MIDPAK.ADV
-  size: 14743
-  date: '1992-07-07T06:00:00'
-  crc: '0x0b6a2202'
+  size: 4
+  date: '1993-03-17T09:57:58'
+  crc: '0x8e23f281'
 - name: MSNS.LIB
   size: 45443
   date: '1993-07-29T14:34:48'
@@ -356,12 +364,12 @@ files:
   crc: '0x44bef40b'
 - name: SOUNDRV.ADI
   size: 4
-  date: '1993-11-30T11:52:08'
+  date: '1993-07-30T15:22:34'
   crc: '0xffffffff'
 - name: SOUNDRV.ADV
-  size: 4702
-  date: '1992-07-07T06:00:00'
-  crc: '0x43430cb8'
+  size: 4
+  date: '1993-03-17T09:57:58'
+  crc: '0x8e23f281'
 - name: ST.EXE
   size: 358284
   date: '1993-07-30T15:48:52'

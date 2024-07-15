@@ -142,6 +142,10 @@ files:
   size: 286
   date: '1993-01-30T01:36:00'
   crc: '0xfbed6ee0'
+- name: FILE_ID.DIZ
+  size: 32
+  date: '1987-07-17T07:27:36'
+  crc: '0x9c345012'
 - name: FIRE.LEV
   size: 3204
   date: '1993-01-30T01:35:38'
@@ -243,9 +247,9 @@ files:
   date: '1993-01-30T01:35:50'
   crc: '0x37c9aaa5'
 - name: NETHACK.CNF
-  size: 4616
-  date: '2016-07-01T18:57:46'
-  crc: '0x95968f36'
+  size: 4660
+  date: '1993-01-30T13:32:54'
+  crc: '0xa4c0be59'
 - name: NETHACK.EXE
   size: 993789
   date: '1993-01-31T12:45:28'
@@ -452,5 +456,5 @@ files:
   crc: '0x0a7f6412'
 - name: WIZHELP
   size: 312
-  date: '1991-07-02T17:17:48'
+  date: '1991-07-02T16:17:48'
   crc: '0x2d4b2470'

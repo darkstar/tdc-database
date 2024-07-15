@@ -14,8 +14,6 @@ type: zip
 installer: true
 commands:
   play: INSTALL.EXE
-references:
-  mobygames: https://www.mobygames.com/game/dos/football-glory
 files:
 - name: AUTOEXEC.BAT
   size: 62

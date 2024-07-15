@@ -1,5 +1,6 @@
-filename: Superbike Challenge (1987)(Brøderbund Software, Inc.) [Racing - Driving].zip
+filename: Superbike Challenge v1.0 (1987)(Brøderbund Software, Inc.) [Racing - Driving].zip
 tdc_id: '16339.0'
+parent_id: '16339.2'
 title:
   box: Superbike Challenge
 publisher: Brøderbund Software, Inc.
@@ -8,10 +9,14 @@ genre: Racing - Driving
 language: English
 date:
   added: '2019-03-01T18:25:40'
-  last_modified: '2019-03-01T18:25:40'
+  last_modified: '2024-07-01T19:32:35'
+version: '1.0'
 type: zip
+media: 360K
 commands:
   play: SB.EXE
+references:
+  mobygames: https://www.mobygames.com/game/793/superbike-challenge/
 files:
 - name: CIRC.CTR
   size: 2923

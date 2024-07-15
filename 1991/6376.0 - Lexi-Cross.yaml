@@ -1,6 +1,6 @@
-filename: Lexi-Cross (1991)(Interplay Productions, Inc.) [Strategy].zip
+filename: Lexi-Cross r910318 (1991)(Interplay Productions, Inc.) [Strategy].zip
 tdc_id: '6376.0'
-parent_id: '6376.6'
+parent_id: '6376.2'
 title:
   box: Lexi-Cross
 publisher: Interplay Productions, Inc.
@@ -9,9 +9,15 @@ genre: Strategy
 language: English
 date:
   added: '2021-09-12T19:41:16'
-  last_modified: '2021-09-12T19:41:16'
+  last_modified: '2024-06-12T15:11:23'
+release: '910318'
 type: zip
+media: 720K
+commands:
+  play: START.BAT
+  setup: SETUP.BAT
 references:
+  mobygames: https://www.mobygames.com/game/750/lexi-cross/
   dosid: DOS03151
   exodos: Lexi-Cross (1991).zip
 files:

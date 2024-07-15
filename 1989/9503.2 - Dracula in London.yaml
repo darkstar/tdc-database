@@ -15,8 +15,6 @@ version: '1.03'
 type: zip
 commands:
   play: DRACULA.EXE
-references:
-  mobygames: https://www.mobygames.com/game/dos/dracula-in-london
 files:
 - name: '1'
   size: 144

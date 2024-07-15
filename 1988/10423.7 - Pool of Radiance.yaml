@@ -1,5 +1,6 @@
-filename: Pool of Radiance (1988)(Strategic Simulations, Inc.) [IMA][360k].zip
+filename: Pool of Radiance v1.0 (1988)(Strategic Simulations, Inc.) [IMA][360k][!].zip
 tdc_id: '10423.7'
+parent_id: '10423.11'
 title:
   box: Pool of Radiance
 publisher: Strategic Simulations, Inc.
@@ -8,19 +9,24 @@ genre: IMA
 language: English
 date:
   added: '2023-02-24T16:48:29'
-  last_modified: '2023-02-24T16:48:29'
+  last_modified: '2024-07-01T16:06:23'
+version: '1.0'
 type: IMA
+tags:
+- KnownGood
 media: 360K
+references:
+  mobygames: https://www.mobygames.com/game/502/pool-of-radiance/
 files:
-- name: POOLRAD1.IMA
+- name: DiskA.ima
   size: 368640
-  date: '2012-02-03T21:10:26'
-  crc: '0x83b031fa'
-- name: POOLRAD2.IMA
+  date: '2024-07-01T21:27:14'
+  crc: '0x2b9b675d'
+- name: DiskB.ima
   size: 368640
-  date: '2012-02-03T21:11:44'
-  crc: '0x82ae7aed'
-- name: POOLRAD3.IMA
+  date: '2024-07-01T21:27:24'
+  crc: '0x6253b655'
+- name: DiskC.ima
   size: 368640
-  date: '2012-02-03T21:08:36'
-  crc: '0xc10a2962'
+  date: '2024-07-01T21:27:34'
+  crc: '0x123a9b0b'

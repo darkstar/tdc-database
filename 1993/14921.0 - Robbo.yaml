@@ -1,7 +1,9 @@
-filename: Robbo (Installer) (Pl) [h1] (1993)(xLand Games) [Strategy, Action].zip
+filename: Robbo v1.01 (Installer) (Pl) (1993)(xLand Games) [Strategy, Action].zip
 tdc_id: '14921.0'
+parent_id: '14921.5'
 title:
   box: Robbo
+  qualifier: Installer
 publisher: xLand Games
 year: '1993'
 genre:
@@ -10,13 +12,14 @@ genre:
 language: Polish
 date:
   added: '2019-03-01T19:18:02'
-  last_modified: '2019-03-01T19:18:02'
+  last_modified: '2024-07-12T14:58:25'
+version: '1.01'
 type: zip
-tags:
-- Hack: 1
 installer: true
 commands:
   play: INSTALUJ.EXE
+references:
+  mobygames: https://www.mobygames.com/game/751/robbo/
 files:
 - name: INSTALUJ.EXE
   size: 22096
@@ -27,10 +30,16 @@ files:
   date: '1993-06-11T12:52:28'
   crc: '0x8c718fb0'
 - name: ROBBO.A01
-  size: 945619
-  date: '1993-07-01T10:08:58'
-  crc: '0xff2a6112'
+  size: 977202
+  date: '1993-06-22T13:11:50'
+  crc: '0x88cdc394'
 - name: ROBBO.ARJ
-  size: 1212400
-  date: '1993-07-01T10:08:52'
-  crc: '0xcf7d7093'
+  size: 1179400
+  date: '1993-06-22T13:11:40'
+  crc: '0xe613ff09'
+- name: ROBBO_1
+  size: 0
+  date: '1993-06-21T19:43:42'
+- name: ROBBO_2
+  size: 0
+  date: '1993-06-21T19:46:26'

@@ -1,0 +1,27 @@
+filename: JellyFish v1.2 [SW] (1993)(Martin Software Productions, Eldon D. Martin) [Action].zip
+tdc_id: '9701.0'
+title:
+  screen: JellyFish
+publisher: Martin Software Productions, Eldon D. Martin
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T19:10:34'
+  last_modified: '2024-06-21T13:59:45'
+version: '1.2'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: JFISH.EXE
+files:
+- name: CATALOG.EXE
+  size: 29452
+  date: '1993-02-03T17:44:36'
+  crc: '0xd9fe8a5a'
+- name: JFISH.EXE
+  size: 61594
+  date: '1993-02-09T19:15:06'
+  crc: '0x36ee0cc0'

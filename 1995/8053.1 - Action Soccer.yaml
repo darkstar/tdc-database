@@ -13,8 +13,6 @@ type: zip
 installer: true
 commands:
   play: INSTALL.BAT
-references:
-  mobygames: https://www.mobygames.com/game/dos/action-soccer
 files:
 - name: DISK1
   size: 0

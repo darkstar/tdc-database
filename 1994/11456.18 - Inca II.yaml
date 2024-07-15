@@ -1,0 +1,136 @@
+filename: Inca II v1.000 (Installer) (1994)(Sierra On-Line, Inc.) [Action, Adventure].zip
+tdc_id: '11456.18'
+parent_id: '11456.17'
+title:
+  box: Inca II
+  qualifier: Installer
+publisher: Sierra On-Line, Inc.
+year: '1994'
+genre:
+- Action
+- Adventure
+language: English
+date:
+  added: '2024-07-01T11:40:06'
+  last_modified: '2024-07-01T11:40:06'
+version: '1.000'
+type: zip
+media: 1.44M
+installer: true
+commands:
+  play: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/4553/inca-ii-nations-of-immortality/
+files:
+- name: COKTEL.CLT
+  size: 768
+  date: '1994-03-14T14:32:44'
+  crc: '0x9a56d39a'
+- name: COKTEL.IMS
+  size: 4003
+  date: '1994-03-14T14:32:44'
+  crc: '0xe5140e91'
+- name: EXT.$06
+  size: 130560
+  date: '1994-03-18T07:22:48'
+  crc: '0x6982a436'
+- name: EXT.$07
+  size: 1455616
+  date: '1994-03-18T07:22:56'
+  crc: '0x9b18b06f'
+- name: EXT.$08
+  size: 1455616
+  date: '1994-03-18T07:23:06'
+  crc: '0xbc5f19f3'
+- name: EXT.$09
+  size: 1455616
+  date: '1994-03-18T07:23:16'
+  crc: '0x79898351'
+- name: EXT.$10
+  size: 487710
+  date: '1994-03-18T07:23:24'
+  crc: '0x6d864bdb'
+- name: GO.BAT
+  size: 22
+  date: '1994-03-14T14:30:58'
+  crc: '0x37a5ab1e'
+- name: INCA2.#02
+  size: 349772
+  date: '1994-03-15T11:32:08'
+  crc: '0x523cf065'
+- name: INCA2.#09
+  size: 368501
+  date: '1994-03-15T13:01:04'
+  crc: '0x5392fd1e'
+- name: INSTALL.ASK
+  size: 16375
+  date: '1994-03-14T14:30:56'
+  crc: '0x38fda1d4'
+- name: INSTALL.EXE
+  size: 5723
+  date: '1993-08-26T16:29:10'
+  crc: '0xa3580da6'
+- name: INSTALL.INF
+  size: 866
+  date: '1994-03-18T07:23:30'
+  crc: '0xb51c05af'
+- name: INTRO.#01
+  size: 639015
+  date: '1994-03-15T13:01:58'
+  crc: '0x089f7b73'
+- name: LOCO.#03
+  size: 175235
+  date: '1994-03-15T13:02:10'
+  crc: '0xc0edad1e'
+- name: LOKA.#08
+  size: 373706
+  date: '1994-03-10T11:08:38'
+  crc: '0xcfb9c4f0'
+- name: LOKB.#10
+  size: 270025
+  date: '1994-03-10T11:09:30'
+  crc: '0xbc69a2a0'
+- name: MDO.DEF
+  size: 186
+  date: '1994-03-14T14:30:58'
+  crc: '0x5cae9f83'
+- name: OBLIHD.$00
+  size: 35840
+  date: '1994-03-18T07:22:04'
+  crc: '0xedd35090'
+- name: OBLIHD.$01
+  size: 1455616
+  date: '1994-03-18T07:22:08'
+  crc: '0x125928f1'
+- name: OBLIHD.$02
+  size: 1455616
+  date: '1994-03-18T07:22:18'
+  crc: '0x70fc4f18'
+- name: OBLIHD.$03
+  size: 1455616
+  date: '1994-03-18T07:22:26'
+  crc: '0x19869cba'
+- name: OBLIHD.$04
+  size: 1455616
+  date: '1994-03-18T07:22:36'
+  crc: '0x2fccb785'
+- name: OBLIHD.$05
+  size: 1324696
+  date: '1994-03-18T07:22:44'
+  crc: '0x9c7e6df4'
+- name: README
+  size: 4373
+  date: '1994-03-17T10:59:12'
+  crc: '0x2757e2bc'
+- name: README.BAT
+  size: 29
+  date: '1994-03-14T14:30:58'
+  crc: '0x2e285da6'
+- name: SETUP.EXE
+  size: 76979
+  date: '1994-03-18T13:57:30'
+  crc: '0xf532df5e'
+- name: VERSION
+  size: 38
+  date: '1994-03-18T13:30:06'
+  crc: '0x541272e7'

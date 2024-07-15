@@ -1,0 +1,71 @@
+filename: Infocom Sampler, The r97 (1986)(Infocom, Inc.) [Adventure, Interactive Fiction, Compilation][!].zip
+tdc_id: '17601.2'
+parent_id: '17601.1'
+title:
+  box: The Infocom Sampler
+publisher: Infocom, Inc.
+year: '1986'
+genre:
+- Adventure
+- Interactive Fiction
+- Compilation
+language: English
+date:
+  added: '2024-07-01T09:40:05'
+  last_modified: '2024-07-01T09:40:05'
+release: '97'
+type: zip
+tags:
+- KnownGood
+media: 360K
+commands:
+  play: SAMPLER.COM
+files:
+- name: AF.EXE
+  size: 13168
+  date: '1985-05-28T13:27:14'
+  crc: '0xac30980c'
+- name: GAMEDIR.COM
+  size: 62
+  date: '1985-05-31T10:45:50'
+  crc: '0xee6703b0'
+- name: INSTALL.BAT
+  size: 2432
+  date: '1986-12-12T12:18:06'
+  crc: '0x695f9849'
+- name: INSTALLD.BAT
+  size: 1664
+  date: '1986-12-12T12:46:30'
+  crc: '0x346645e6'
+- name: INSTALLH.BAT
+  size: 2176
+  date: '1986-12-12T12:17:28'
+  crc: '0x0c476eab'
+- name: SAMPLER.COM
+  size: 12004
+  date: '1980-01-01T00:26:34'
+  crc: '0xda0705c0'
+- name: SAMPLER.DAT
+  size: 125315
+  date: '1980-01-01T02:02:48'
+  crc: '0x58b09f38'
+- name: SCAN.COM
+  size: 114
+  date: '1986-09-25T13:40:48'
+  crc: '0x78387415'
+- name: SETUP.EXE
+  size: 1584
+  date: '1985-06-28T10:53:14'
+  crc: '0x62ddb282'
+- name: SETUP.INF
+  size: 3
+  date: '1985-05-04T20:39:12'
+  crc: '0x8bdcb97d'
+- name: STATLINE.BAT
+  size: 3200
+  date: '1986-12-10T10:18:56'
+  crc: '0x331dbf34'
+- name: YES.COM
+  size: 93
+  date: '1984-11-30T12:02:30'
+  crc: '0x01bd6af9'

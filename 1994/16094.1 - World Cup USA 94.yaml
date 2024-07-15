@@ -17,8 +17,6 @@ type: zip
 installer: true
 commands:
   play: INSTALL.EXE
-references:
-  mobygames: https://www.mobygames.com/game/dos/world-cup-usa-94
 files:
 - name: ADLIB.RNC
   size: 11456

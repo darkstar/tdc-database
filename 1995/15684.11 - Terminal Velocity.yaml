@@ -1,0 +1,39 @@
+filename: Terminal Velocity v1.2 (Installer) [SW] (1995)(FormGen, Inc.) [Action].zip
+tdc_id: '15684.11'
+title:
+  screen: Terminal Velocity
+  qualifier: Installer
+publisher: FormGen, Inc.
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2024-06-20T15:09:13'
+  last_modified: '2024-06-20T15:09:13'
+version: '1.2'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/635/terminal-velocity/
+files:
+- name: FILE_ID.DIZ
+  size: 460
+  date: '1995-06-30T13:20:00'
+  crc: '0xed8d29e4'
+- name: INSTALL.EXE
+  size: 142385
+  date: '1995-06-30T13:20:00'
+  crc: '0xb16dbe02'
+- name: LICENSE.TXT
+  size: 8902
+  date: '1995-06-30T13:20:00'
+  crc: '0x234075f8'
+- name: TV12S.SHR
+  size: 3748866
+  date: '1995-06-30T13:20:00'
+  crc: '0x8ebdfacb'

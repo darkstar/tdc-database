@@ -19,8 +19,6 @@ type: zip
 installer: true
 commands:
   play: INSTALL.COM
-references:
-  mobygames: https://www.mobygames.com/game/dos/darker
 files:
 - name: DARKER.00
   size: 1195478

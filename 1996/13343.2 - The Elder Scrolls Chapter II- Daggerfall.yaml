@@ -15,8 +15,6 @@ type: zip
 installer: true
 commands:
   play: INSTALL.EXE
-references:
-  mobygames: https://www.mobygames.com/game/dos/elder-scrolls-chapter-ii-daggerfall
 files:
 - name: AUTORUN.INF
   size: 58

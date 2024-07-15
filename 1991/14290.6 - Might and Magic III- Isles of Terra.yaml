@@ -1,38 +1,56 @@
-filename: Might and Magic III- Isles of Terra (Installer) (1991)(New World Computing, Inc.) [Role-Playing (RPG)][!].zip
+filename: Might and Magic III- Isles of Terra r911001 (Installer) [a1] (1991)(New World Computing, Inc.) [Role-Playing (RPG)][!].zip
 tdc_id: '14290.6'
+parent_id: '14290.18'
 title:
   box: 'Might and Magic III: Isles of Terra'
+  qualifier: Installer
 publisher: New World Computing, Inc.
 year: '1991'
 genre: Role-Playing (RPG)
 language: English
 date:
   added: '2021-12-03T13:03:38'
-  last_modified: '2021-12-03T13:03:38'
+  last_modified: '2024-07-02T09:50:09'
+release: '911001'
 type: zip
 tags:
 - KnownGood
+- Alternate: 1
+media: 720K
 installer: true
 commands:
   play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1621/might-and-magic-iii-isles-of-terra/
 files:
 - name: INSTALL.EXE
   size: 21650
   date: '1991-10-01T18:28:50'
   crc: '0x0c82c486'
+- name: M&M_III_.1
+  size: 0
+  date: '1991-08-29T03:11:24'
 - name: MM3.NWC
   size: 150944
   date: '1991-10-01T18:28:50'
   crc: '0x3ac00a3a'
 - name: MM3.PT0
-  size: 1040896
-  date: '1991-10-01T18:37:58'
-  crc: '0xa1b2c4a8'
+  size: 556032
+  date: '1991-10-01T18:30:10'
+  crc: '0x2bf8de3a'
 - name: MM3.PT1
-  size: 1213952
-  date: '1991-10-01T18:39:18'
-  crc: '0x0c51de29'
+  size: 730112
+  date: '1991-10-01T18:31:24'
+  crc: '0x0e0375ce'
 - name: MM3.PT2
-  size: 1175544
-  date: '1991-10-01T18:40:26'
-  crc: '0xb17918cc'
+  size: 730112
+  date: '1991-10-01T18:32:34'
+  crc: '0x6aa9160a'
+- name: MM3.PT3
+  size: 730112
+  date: '1991-10-01T18:33:42'
+  crc: '0xb9e7df16'
+- name: MM3.PT4
+  size: 684026
+  date: '1991-10-01T18:34:44'
+  crc: '0xbb4959fa'

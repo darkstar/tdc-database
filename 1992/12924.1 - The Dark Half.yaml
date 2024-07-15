@@ -1,5 +1,6 @@
 filename: Dark Half, The (Installer) (1992)(Capstone Software) [Adventure].zip
 tdc_id: '12924.1'
+parent_id: '12924.8'
 title:
   box: The Dark Half
 publisher: Capstone Software
@@ -14,31 +15,35 @@ installer: true
 commands:
   play: INSTALL.EXE
 files:
+- name: DH 3 1
+  size: 0
+  date: '1992-08-15T10:25:32'
+- name: DH 3 2
+  size: 0
+  date: '1992-08-15T10:27:16'
+- name: DH 3 3
+  size: 0
+  date: '1992-08-15T10:29:06'
+- name: DH 3 4
+  size: 0
+  date: '1992-08-15T10:30:48'
 - name: DH00.INS
-  size: 650140
-  date: '1992-07-31T19:53:26'
-  crc: '0xc7f36b31'
+  size: 650120
+  date: '1992-08-15T10:55:54'
+  crc: '0x8bbd544e'
 - name: DH01.INS
-  size: 730091
-  date: '1992-07-31T19:59:18'
-  crc: '0x365fadc9'
+  size: 730055
+  date: '1992-08-15T11:02:14'
+  crc: '0xf813484e'
 - name: DH02.INS
-  size: 730059
-  date: '1992-07-31T20:05:00'
-  crc: '0x53e17a62'
+  size: 730079
+  date: '1992-08-15T11:08:44'
+  crc: '0xd2e51241'
 - name: DH03.INS
-  size: 729812
-  date: '1992-07-31T20:11:32'
-  crc: '0x39fca679'
-- name: DH04.INS
-  size: 730092
-  date: '1992-07-31T20:17:46'
-  crc: '0xe31246ac'
-- name: DH05.INS
-  size: 720643
-  date: '1992-07-31T20:26:32'
-  crc: '0xc98bdaff'
+  size: 410030
+  date: '1992-08-15T11:14:06'
+  crc: '0xbfdb5f68'
 - name: INSTALL.EXE
-  size: 79210
-  date: '1992-07-31T18:11:42'
-  crc: '0xa57f1321'
+  size: 79022
+  date: '1992-08-15T10:41:40'
+  crc: '0xdb4fd472'

@@ -1,0 +1,33 @@
+filename: Zong v1.20 (Installer) [SW] (1996)(ZenSoft Inc.) [Action].zip
+tdc_id: '15756.5'
+title:
+  screen: Zong
+  qualifier: Installer
+publisher: ZenSoft Inc.
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2024-06-20T15:45:35'
+  last_modified: '2024-06-20T15:45:35'
+version: '1.20'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: FILE_ID.DIZ
+  size: 463
+  date: '1996-07-22T00:34:02'
+  crc: '0x6677d775'
+- name: INSTALL.EXE
+  size: 596847
+  date: '1996-07-22T00:34:02'
+  crc: '0x2c4c6fbb'
+- name: README.1ST
+  size: 794
+  date: '1996-07-22T00:34:02'
+  crc: '0x4d8dd8a5'

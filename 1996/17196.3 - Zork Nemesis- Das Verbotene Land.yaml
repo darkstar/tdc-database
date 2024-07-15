@@ -13,8 +13,6 @@ type: zip
 installer: true
 commands:
   play: DOS\INSTALL.EXE
-references:
-  mobygames: https://www.mobygames.com/game/dos/zork-nemesis-the-forbidden-lands
 files:
 - name: ADSET.DLL
   size: 19968

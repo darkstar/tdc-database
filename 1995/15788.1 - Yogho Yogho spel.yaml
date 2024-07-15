@@ -13,8 +13,6 @@ type: zip
 installer: true
 commands:
   play: INSTALL.EXE
-references:
-  mobygames: https://www.mobygames.com/game/dos/yogho-yogho-spel
 files:
 - name: INSTALL.DAT
   size: 1029977

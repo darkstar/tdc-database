@@ -1,20 +1,23 @@
-filename: Space Intruders [SW] (1993)(Sarwan Narine) [Action].zip
+filename: Space Intruders v1.0 [SW] (1993)(Sarwan Narine, Softlair Computer Productions) [Action].zip
 tdc_id: '6886.0'
 title:
   screen: Space Intruders
-publisher: Sarwan Narine
+publisher: Sarwan Narine, Softlair Computer Productions
 year: '1993'
 genre: Action
 language: English
 date:
   added: '2019-03-01T21:08:16'
-  last_modified: '2019-03-01T21:08:16'
+  last_modified: '2024-06-19T09:24:11'
+version: '1.0'
 type: zip
 tags:
 - Shareware
 media: Download
 commands:
   play: INTRUDER.COM
+references:
+  mobygames: https://www.mobygames.com/game/73297/space-intruders/
 files:
 - name: INTRUDER.COM
   size: 56952

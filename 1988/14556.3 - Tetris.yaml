@@ -1,0 +1,31 @@
+filename: Tetris v1.0 [FW] (1988)(David B. Howorth) [Action, Strategy].zip
+tdc_id: '14556.3'
+title:
+  screen: Tetris
+publisher: David B. Howorth
+year: '1988'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2022-08-07T23:57:14'
+  last_modified: '2024-05-30T13:38:31'
+version: '1.0'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: TETRIS.EXE
+references:
+  mobygames: https://www.mobygames.com/game/2433/nyet/
+files:
+- name: TETRIS.DOC
+  size: 2560
+  date: '1989-02-17T18:47:08'
+  crc: '0x76babdff'
+- name: TETRIS.EXE
+  size: 23520
+  date: '1988-05-31T18:24:22'
+  crc: '0x0c051b9b'

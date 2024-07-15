@@ -19,8 +19,6 @@ type: zip
 installer: true
 commands:
   play: INSTALL.BAT
-references:
-  mobygames: https://www.mobygames.com/game/dos/zombieville
 files:
 - name: CONV\
   size: 0

@@ -1,4 +1,4 @@
-filename: Pulse [SW] (1996)(Albino Frog Software, Inc.) [Action, Strategy].zip
+filename: Pulse v1.1 [SW][a1] (1996)(Albino Frog Software, Inc.) [Action, Strategy].zip
 tdc_id: '5134.0'
 title:
   screen: Pulse
@@ -10,15 +10,17 @@ genre:
 language: English
 date:
   added: '2019-03-02T10:16:10'
-  last_modified: '2019-03-02T10:16:10'
+  last_modified: '2024-06-22T14:13:12'
+version: '1.1'
 type: zip
 tags:
 - Shareware
+- Alternate: 1
 media: Download
 commands:
   play: pulse.exe
 references:
-  mobygames: http://www.mobygames.com/game/dos/nba-live-96
+  mobygames: https://www.mobygames.com/game/12739/pulse/
 files:
 - name: pulse.exe
   size: 329123

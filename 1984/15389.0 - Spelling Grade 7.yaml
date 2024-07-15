@@ -1,5 +1,6 @@
-filename: Spelling Grade 7 (1984)(American Educational Computer, Inc.) [Educational].zip
+filename: Spelling Grade 7 (1984)(American Educational Computer, Inc.) [Educational][!].zip
 tdc_id: '15389.0'
+parent_id: '15389.2'
 title:
   box: Spelling Grade 7
 publisher: American Educational Computer, Inc.
@@ -8,8 +9,13 @@ genre: Educational
 language: English
 date:
   added: '2019-03-01T18:24:16'
-  last_modified: '2019-03-01T18:24:16'
+  last_modified: '2024-06-18T14:50:05'
 type: zip
+tags:
+- KnownGood
+media: 360K
+commands:
+  play: gwbasic.exe HELLO.BAS
 files:
 - name: ALPHA.BAS
   size: 5248
@@ -375,14 +381,6 @@ files:
   size: 896
   date: '1984-05-26T11:41:32'
   crc: '0x97796ceb'
-- name: MERISSA.DWB
-  size: 342
-  date: '1988-02-07T23:30:54'
-  crc: '0x0b0525b8'
-- name: MERISSA.SRF
-  size: 103
-  date: '1988-02-07T23:30:56'
-  crc: '0x7ae00f4b'
 - name: MERLIN.DWB
   size: 446
   date: '1980-01-01T01:55:04'
@@ -395,14 +393,6 @@ files:
   size: 17408
   date: '1984-06-30T17:08:56'
   crc: '0x2dfd93dc'
-- name: NICOLEA.DWB
-  size: 814
-  date: '1988-02-07T23:56:34'
-  crc: '0x9c57b216'
-- name: NICOLEA.SRF
-  size: 103
-  date: '1988-02-07T23:55:32'
-  crc: '0x1886ebcd'
 - name: PROOF.BAS
   size: 5376
   date: '1984-06-30T13:46:02'
@@ -412,9 +402,9 @@ files:
   date: '1984-06-12T17:35:54'
   crc: '0x8f9ce95e'
 - name: SRF.DAT
-  size: 24
-  date: '1988-02-07T23:50:26'
-  crc: '0x76c5bb7e'
+  size: 4
+  date: '1980-01-01T00:10:58'
+  crc: '0xde3aa51e'
 - name: STDISKS.BAS
   size: 11264
   date: '1984-07-03T23:23:36'

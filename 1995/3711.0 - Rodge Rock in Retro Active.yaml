@@ -21,31 +21,35 @@ references:
 files:
 - name: BLOCKS3.DAT
   size: 12064
-  date: '1994-06-07T15:06:40'
+  date: '1995-03-21T21:56:24'
   crc: '0xc96660c1'
 - name: BORD2.TGA
   size: 64786
-  date: '1994-06-07T15:06:40'
+  date: '1995-02-16T11:51:54'
   crc: '0x53c00e44'
 - name: CHAR1.DAT
   size: 16384
-  date: '1995-03-21T20:56:24'
+  date: '1995-03-21T21:56:24'
   crc: '0x759491c8'
 - name: COLOUR1.DAT
   size: 1536
-  date: '1994-10-12T16:04:50'
+  date: '1994-10-12T17:04:50'
   crc: '0x58ba2fc1'
+- name: FILE_ID.DIZ
+  size: 106
+  date: '1987-07-17T07:27:36'
+  crc: '0xf5b9c434'
 - name: HELP.ICN
   size: 35348
-  date: '1994-06-07T15:06:40'
+  date: '1994-12-29T14:38:58'
   crc: '0x03b21fc3'
 - name: HELP.RGB
   size: 96
-  date: '1994-06-07T15:06:42'
+  date: '1994-12-29T14:40:34'
   crc: '0xadac6245'
 - name: HIGHSCO1.TGA
   size: 64786
-  date: '1994-06-07T15:06:42'
+  date: '1994-06-15T12:54:28'
   crc: '0xe503d240'
 - name: HIGHSPRI.DAT
   size: 64512
@@ -53,31 +57,39 @@ files:
   crc: '0x80a950bd'
 - name: HISCORES.DAT
   size: 520
-  date: '2013-04-12T12:53:28'
-  crc: '0x8b7098fd'
+  date: '1995-03-21T16:56:36'
+  crc: '0x20634886'
+- name: INSTALL.BAT
+  size: 1552
+  date: '1995-03-19T19:42:26'
+  crc: '0xb9de0e28'
 - name: MAP4.DAT
   size: 4096
-  date: '1995-03-21T20:56:24'
+  date: '1995-03-21T21:56:24'
   crc: '0xa8225552'
 - name: ORDER.TGA
   size: 64786
-  date: '1994-06-07T15:06:42'
+  date: '1995-03-15T09:42:14'
   crc: '0x01548054'
+- name: ORDER.TXT
+  size: 1570
+  date: '1995-03-15T09:34:30'
+  crc: '0xaf975646'
 - name: READ.ME
   size: 10807
-  date: '1994-06-07T15:06:42'
+  date: '1995-03-19T19:40:50'
   crc: '0x66303287'
 - name: RODGE.EXE
   size: 448512
-  date: '1995-03-22T09:09:04'
+  date: '1995-03-22T10:09:04'
   crc: '0x004a332b'
 - name: RODGE2.TGA
   size: 64786
-  date: '1994-06-07T15:06:44'
+  date: '1995-02-07T12:16:40'
   crc: '0x41a0a26a'
 - name: SPRITES3.DAT
   size: 64512
-  date: '1995-03-21T20:56:24'
+  date: '1995-03-21T21:56:24'
   crc: '0xca887c16'
 - name: SPRITES7.DAT
   size: 64512
@@ -85,7 +97,7 @@ files:
   crc: '0xcdcf9ab6'
 - name: TEXTURE3.DAT
   size: 16384
-  date: '1995-03-21T20:56:24'
+  date: '1995-03-21T21:56:24'
   crc: '0xde38f3ac'
 - name: TITTSPRI.DAT
   size: 64512

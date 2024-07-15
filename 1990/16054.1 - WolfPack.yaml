@@ -15,8 +15,6 @@ version: '1.01'
 type: zip
 commands:
   play: WOLFPACK.EXE
-references:
-  mobygames: https://www.mobygames.com/game/dos/wolf-pack__
 files:
 - name: ATLANTIC.MMP
   size: 14100

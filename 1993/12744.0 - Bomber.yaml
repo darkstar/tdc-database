@@ -1,8 +1,8 @@
-filename: Bomber v2.1 (Fr)(En) [SW] (1993)(Patrick Piche) [Action].zip
+filename: Bomber v2.1 (Fr)(En) [SW] (1993)(Patrick Piché) [Action].zip
 tdc_id: '12744.0'
 title:
   screen: Bomber
-publisher: Patrick Piche
+publisher: Patrick Piché
 year: '1993'
 genre: Action
 language:
@@ -10,13 +10,16 @@ language:
 - French
 date:
   added: '2013-11-09T13:15:34'
-  last_modified: '2013-11-09T13:15:34'
+  last_modified: '2024-06-19T10:43:47'
 version: '2.1'
 type: zip
 tags:
 - Shareware
 media: Download
+commands:
+  play: BOMBER.EXE
 references:
+  mobygames: https://www.mobygames.com/game/1084/bomber/
   dosid: DOS01137
   exodos: Bomber (1993).zip
 files:

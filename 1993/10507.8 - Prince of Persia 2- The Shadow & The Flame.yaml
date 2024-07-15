@@ -1,0 +1,97 @@
+filename: Prince of Persia 2- The Shadow & The Flame v1.0 (Demo) (1993)(Brøderbund Software, Inc.) [Action].zip
+tdc_id: '10507.8'
+title:
+  screen: 'Prince of Persia 2: The Shadow & The Flame'
+  qualifier: Demo
+publisher: Brøderbund Software, Inc.
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2024-06-21T15:21:50'
+  last_modified: '2024-06-21T15:21:50'
+version: '1.0'
+type: zip
+media: Download
+demo: true
+commands:
+  play: PRINCE.EXE
+references:
+  mobygames: https://www.mobygames.com/game/78/prince-of-persia-2-the-shadow-the-flame/
+files:
+- name: CONFIG.DAT
+  size: 32
+  date: '1993-04-21T01:00:00'
+  crc: '0xa7be0127'
+- name: DIGI.DRV
+  size: 2224
+  date: '1993-04-21T01:00:00'
+  crc: '0xd42e58ec'
+- name: DIGISND.DAT
+  size: 166966
+  date: '1993-04-21T01:00:00'
+  crc: '0xf0beb94c'
+- name: FRAGSND.DAT
+  size: 296
+  date: '1993-04-21T01:00:00'
+  crc: '0xe291fda8'
+- name: GUARD.DAT
+  size: 24287
+  date: '1993-04-21T01:00:00'
+  crc: '0x1232e514'
+- name: IBMSND.DAT
+  size: 7633
+  date: '1993-04-21T01:00:00'
+  crc: '0x833d3241'
+- name: KID.DAT
+  size: 56807
+  date: '1993-04-21T01:00:00'
+  crc: '0xf34d4b45'
+- name: MIDI.DRV
+  size: 2432
+  date: '1993-04-21T01:00:00'
+  crc: '0xd37e9091'
+- name: MIDISND.DAT
+  size: 40062
+  date: '1993-04-21T01:00:00'
+  crc: '0xa1aa1b25'
+- name: NIS.DAT
+  size: 396115
+  date: '1993-04-21T01:00:00'
+  crc: '0xe14925e2'
+- name: NISDIGI.DAT
+  size: 206309
+  date: '1993-04-21T01:00:00'
+  crc: '0xfe98746d'
+- name: NISIBM.DAT
+  size: 8
+  date: '1993-04-21T01:00:00'
+  crc: '0x09441e65'
+- name: NISMIDI.DAT
+  size: 40098
+  date: '1993-04-21T01:00:00'
+  crc: '0x3e99c9fd'
+- name: PRESETS.DEF
+  size: 2049
+  date: '1993-04-21T01:00:00'
+  crc: '0xaaba0815'
+- name: PRINCE.DAT
+  size: 34796
+  date: '1993-04-21T01:00:00'
+  crc: '0xf97ba9c7'
+- name: PRINCE.EXE
+  size: 257567
+  date: '1993-04-21T01:00:00'
+  crc: '0xc3303205'
+- name: ROOFTOPS.DAT
+  size: 146028
+  date: '1993-04-21T01:00:00'
+  crc: '0x9e155f10'
+- name: SEQUENCE.DAT
+  size: 5370
+  date: '1993-04-21T01:00:00'
+  crc: '0x24cdda23'
+- name: TRANS.DAT
+  size: 25028
+  date: '1993-04-21T01:00:00'
+  crc: '0x2c68048d'

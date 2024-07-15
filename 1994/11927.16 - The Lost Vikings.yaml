@@ -1,0 +1,42 @@
+filename: Lost Vikings, The (demo) (1994)(Interplay Productions, Inc.) [Action, Strategy].zip
+tdc_id: '11927.16'
+title:
+  box: The Lost Vikings
+  qualifier: demo
+publisher: Interplay Productions, Inc.
+year: '1994'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2024-07-04T07:36:41'
+  last_modified: '2024-07-04T07:36:41'
+type: zip
+media: CD-ROM
+demo: true
+commands:
+  play: VIKINGS.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1547/the-lost-vikings/
+files:
+- name: 5.COM
+  size: 873
+  date: '1993-09-01T14:10:16'
+  crc: '0xde197a9b'
+- name: DATA.DAT
+  size: 1280301
+  date: '1993-04-26T18:40:22'
+  crc: '0x99e19d7e'
+- name: README.BAT
+  size: 37
+  date: '1993-04-28T16:58:34'
+  crc: '0x649c0f30'
+- name: README.TXT
+  size: 2070
+  date: '1993-04-28T16:59:44'
+  crc: '0x4f16068f'
+- name: VIKINGS.EXE
+  size: 143840
+  date: '1993-04-26T18:29:18'
+  crc: '0x0e633f95'

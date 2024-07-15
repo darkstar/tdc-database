@@ -19,8 +19,6 @@ type: zip
 installer: true
 commands:
   play: SETUP.EXE
-references:
-  mobygames: https://www.mobygames.com/game/dos/tricky-quiky-games-die-suche-nach-den-verschollenen-seiten-ii
 files:
 - name: DPMI16BI.OVL
   size: 65312

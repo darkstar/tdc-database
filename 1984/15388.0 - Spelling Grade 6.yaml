@@ -1,5 +1,6 @@
-filename: Spelling Grade 6 (1984)(American Educational Computer, Inc.) [Educational].zip
+filename: Spelling Grade 6 (1984)(American Educational Computer, Inc.) [Educational][!].zip
 tdc_id: '15388.0'
+parent_id: '15388.2'
 title:
   box: Spelling Grade 6
 publisher: American Educational Computer, Inc.
@@ -8,8 +9,13 @@ genre: Educational
 language: English
 date:
   added: '2019-03-01T18:24:16'
-  last_modified: '2019-03-01T18:24:16'
+  last_modified: '2024-06-18T14:47:31'
 type: zip
+tags:
+- KnownGood
+media: 360K
+commands:
+  play: gwbasic.exe HELLO.BAS
 files:
 - name: ALPHA.BAS
   size: 5248
@@ -376,9 +382,9 @@ files:
   date: '1984-06-28T20:18:08'
   crc: '0x39e53035'
 - name: NEWLIST.BAS
-  size: 17336
-  date: '1984-11-28T18:27:40'
-  crc: '0x4133ac26'
+  size: 17408
+  date: '1984-06-30T17:08:56'
+  crc: '0x2dfd93dc'
 - name: PROOF.BAS
   size: 5376
   date: '1984-06-30T13:46:02'

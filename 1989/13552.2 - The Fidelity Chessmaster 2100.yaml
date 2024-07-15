@@ -1,0 +1,125 @@
+filename: Fidelity Chessmaster 2100, The v1.15 (Installer) (1989)(The Software Toolworks, Inc.) [Strategy, Chess].zip
+tdc_id: '13552.2'
+title:
+  box: The Fidelity Chessmaster 2100
+  qualifier: Installer
+publisher: The Software Toolworks, Inc.
+year: '1989'
+genre:
+- Strategy
+- Chess
+language: English
+date:
+  added: '2024-06-12T13:32:47'
+  last_modified: '2024-06-12T13:32:47'
+version: '1.15'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/11/the-fidelity-chessmaster-2100/
+files:
+- name: 2100 V1..15
+  size: 0
+  date: '1989-05-25T16:17:52'
+- name: 2100.EQE
+  size: 241685
+  date: '1989-05-25T16:15:00'
+  crc: '0x2bd88033'
+- name: BOOK.DAT
+  size: 8386
+  date: '1989-05-25T16:15:00'
+  crc: '0xb0b67ee1'
+- name: CGA.LBM
+  size: 12130
+  date: '1989-05-25T16:15:00'
+  crc: '0x9a0d80f9'
+- name: CLASSICS.DQT
+  size: 89644
+  date: '1989-05-25T16:15:00'
+  crc: '0x7856eebb'
+- name: EGA.LQM
+  size: 18465
+  date: '1989-05-25T16:15:00'
+  crc: '0x0bc906ff'
+- name: HELP.DQT
+  size: 18441
+  date: '1989-05-25T16:15:00'
+  crc: '0x022aeca4'
+- name: HGC.LBM
+  size: 15544
+  date: '1989-05-25T16:15:00'
+  crc: '0xd50b6eaf'
+- name: INSTALL.EXE
+  size: 44737
+  date: '1989-05-25T16:17:10'
+  crc: '0x2b8ed340'
+- name: INSTALL.EX_
+  size: 44737
+  date: '1989-05-25T16:17:10'
+  crc: '0x1304c3c3'
+- name: MIKE_DUF.FY
+  size: 5120
+  date: '1989-03-29T11:43:36'
+  crc: '0xd66164f2'
+- name: SYSTEM01.FNT
+  size: 2256
+  date: '1989-05-25T16:15:00'
+  crc: '0x62711c2a'
+- name: SYSTEM03.FNT
+  size: 3280
+  date: '1989-05-25T16:15:00'
+  crc: '0x87a55bf0'
+- name: SYSTEM08.FNT
+  size: 2108
+  date: '1989-05-25T16:15:00'
+  crc: '0xbbf96fa0'
+- name: SYSTEM24.FNT
+  size: 2484
+  date: '1989-05-25T16:15:00'
+  crc: '0x4c88bc47'
+- name: TGA.LQM
+  size: 12536
+  date: '1989-05-25T16:15:00'
+  crc: '0x125bf97f'
+- name: TITLECGA.LBM
+  size: 4634
+  date: '1989-05-25T16:15:00'
+  crc: '0x5bfe8e81'
+- name: TITLEEGA.LQM
+  size: 30818
+  date: '1989-05-25T16:15:00'
+  crc: '0x6159b446'
+- name: TITLEHGC.LBM
+  size: 7442
+  date: '1989-05-25T16:15:00'
+  crc: '0xec2f3b60'
+- name: TITLETGA.LQM
+  size: 20387
+  date: '1989-05-25T16:15:00'
+  crc: '0x9183f506'
+- name: TUTORIAL.DAT
+  size: 27393
+  date: '1989-05-25T16:15:00'
+  crc: '0xc367bce8'
+- name: TWRXCGA.LBM
+  size: 7074
+  date: '1989-05-25T16:15:00'
+  crc: '0x9f4907c0'
+- name: TWRXEGA.LQM
+  size: 16229
+  date: '1989-05-25T16:15:00'
+  crc: '0x0541a576'
+- name: TWRXHGC.LBM
+  size: 13986
+  date: '1989-05-25T16:15:00'
+  crc: '0x5568852e'
+- name: TWRXTGA.LQM
+  size: 4329
+  date: '1989-05-25T16:15:00'
+  crc: '0x7ee36fb8'
+- name: VOICE.DAT
+  size: 11100
+  date: '1989-05-25T16:15:00'
+  crc: '0xed0e1c26'

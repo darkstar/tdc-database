@@ -1,0 +1,47 @@
+filename: Indiana Jones and the Temple of Doom r890516 (1989)(Mindscape, Inc.) [Action].zip
+tdc_id: '11474.3'
+parent_id: '11474.2'
+title:
+  box: Indiana Jones and the Temple of Doom
+publisher: Mindscape, Inc.
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:28:02'
+  last_modified: '2024-07-10T06:58:58'
+release: '890516'
+type: zip
+media: 360K
+commands:
+  play: INDY.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1838/indiana-jones-and-the-temple-of-doom/
+files:
+- name: 4INDY.COM
+  size: 178
+  date: '1989-02-24T09:23:42'
+  crc: '0x3c33a823'
+- name: INDY.CGA
+  size: 32000
+  date: '1989-02-02T12:02:54'
+  crc: '0x434a4730'
+- name: INDY.EGA
+  size: 32000
+  date: '1989-05-16T16:59:40'
+  crc: '0x988cbd8d'
+- name: INDY.EXE
+  size: 242567
+  date: '1989-04-24T13:33:16'
+  crc: '0x1ab9e6b4'
+- name: INDY.EX_
+  size: 242567
+  date: '1989-04-24T12:33:16'
+  crc: '0xd4f3bd13'
+- name: INDYJONE.S
+  size: 0
+  date: '1989-05-16T17:01:56'
+- name: INSTALL.BAT
+  size: 1484
+  date: '1989-04-20T15:47:46'
+  crc: '0x9164e45f'

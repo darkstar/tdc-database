@@ -17,8 +17,6 @@ installer: true
 compilation: true
 commands:
   play: SOL12.EXE
-references:
-  mobygames: https://www.mobygames.com/game/dos/solar-winds-galaxy
 files:
 - name: SOL12.EXE
   size: 984250

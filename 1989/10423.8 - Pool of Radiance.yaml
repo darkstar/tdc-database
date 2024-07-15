@@ -13,11 +13,11 @@ version: '1.2'
 type: IMA
 media: 720K
 files:
-- name: PORDisk1.IMA
+- name: disk1.ima
   size: 737280
   date: '2010-02-10T22:38:14'
   crc: '0x7fceae07'
-- name: PORDisk2.IMA
+- name: disk2.ima
   size: 737280
   date: '2010-02-10T22:43:26'
   crc: '0x360019c5'

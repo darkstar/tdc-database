@@ -16,8 +16,6 @@ type: zip
 installer: true
 commands:
   play: SETUP.EXE .
-references:
-  mobygames: https://www.mobygames.com/game/dos/ultima-iv-quest-of-the-avatar
 files:
 - name: ABACUS.EGA
   size: 1877

@@ -1,5 +1,6 @@
-filename: Sid Meier's Railroad Tycoon Deluxe (1993)(MicroProse Software, Inc.) [IMA][1440k][!].zip
+filename: Sid Meier's Railroad Tycoon Deluxe v1.01 (1993)(MicroProse Software, Inc.) [IMA][1440k][!].zip
 tdc_id: '15036.8'
+parent_id: '15036.9'
 title:
   box: Sid Meier's Railroad Tycoon Deluxe
 publisher: MicroProse Software, Inc.
@@ -8,11 +9,14 @@ genre: IMA
 language: English
 date:
   added: '2023-02-27T10:31:14'
-  last_modified: '2023-02-27T10:31:14'
+  last_modified: '2024-06-04T11:27:41'
+version: '1.01'
 type: IMA
 tags:
 - KnownGood
 media: 1.44M
+references:
+  mobygames: https://www.mobygames.com/game/4037/sid-meiers-railroad-tycoon-deluxe/
 files:
 - name: Disk1.ima
   size: 1474560

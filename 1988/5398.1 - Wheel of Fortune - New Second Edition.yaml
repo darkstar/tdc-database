@@ -13,8 +13,6 @@ release: '880318'
 type: zip
 commands:
   play: WHEEL2.EXE
-references:
-  mobygames: https://www.mobygames.com/game/dos/wheel-of-fortune-new-second-edition
 files:
 - name: CHAMPS.DAT
   size: 2688
