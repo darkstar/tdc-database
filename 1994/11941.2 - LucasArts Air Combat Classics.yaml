@@ -1,18 +1,23 @@
-filename: LucasArts Air Combat Classics (1994)(Softgold Computerspiele GmbH) [IMA][1440k][!].zip
+filename: LucasArts Air Combat Classics v1.0 (1994)(LucasArts, Softgold Computerspiele GmbH) [IMA][1440k][!].zip
 tdc_id: '11941.2'
+parent_id: '11941.3'
 title:
   box: LucasArts Air Combat Classics
-publisher: Softgold Computerspiele GmbH
+publisher: LucasArts, Softgold Computerspiele GmbH
 year: '1994'
 genre: IMA
 language: English
 date:
   added: '2023-02-27T10:52:22'
-  last_modified: '2023-02-27T10:52:22'
+  last_modified: '2024-07-15T17:54:11'
+version: '1.0'
 type: IMA
 tags:
 - KnownGood
 media: 1.44M
+compilation: true
+references:
+  mobygames: https://www.mobygames.com/game/2833/lucasarts-air-combat-classics/
 files:
 - name: Disk1.ima
   size: 1474560

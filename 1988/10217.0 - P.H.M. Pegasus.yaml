@@ -1,7 +1,9 @@
 filename: PHM Pegasus (1988)(Electronic Arts, Inc.) [Action, Simulation].zip
 tdc_id: '10217.0'
+parent_id: '10217.1'
 title:
   box: PHM Pegasus
+  screen: P.H.M. Pegasus
 publisher: Electronic Arts, Inc.
 year: '1988'
 genre:
@@ -12,6 +14,8 @@ date:
   added: '2019-03-01T18:26:38'
   last_modified: '2019-03-01T18:26:38'
 type: zip
+commands:
+  play: PHM.EXE E
 references:
   dosid: DOS03988
   exodos: PHM Pegasus (1988).zip

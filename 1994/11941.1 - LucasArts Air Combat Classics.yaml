@@ -1,25 +1,49 @@
-filename: LucasArts Air Combat Classics (Installer) (1994)(LucasArts, Softgold Computerspiele GmbH) [Compilation].zip
+filename: LucasArts Air Combat Classics v1.0 (Installer) (1994)(LucasArts, Softgold Computerspiele GmbH) [Compilation][!].zip
 tdc_id: '11941.1'
+parent_id: '11941.2'
 title:
   box: LucasArts Air Combat Classics
+  qualifier: Installer
 publisher: LucasArts, Softgold Computerspiele GmbH
 year: '1994'
 genre: Compilation
 language: English
 date:
   added: '2019-03-01T22:01:48'
-  last_modified: '2019-03-01T22:01:48'
+  last_modified: '2024-07-15T17:54:38'
+version: '1.0'
 type: zip
+tags:
+- KnownGood
+media: 1.44M
 installer: true
 compilation: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/2833/lucasarts-air-combat-classics/
 files:
 - name: CLASSICS.001
   size: 1251008
   date: '1993-08-26T13:08:30'
   crc: '0x123c60bc'
+- name: CLASSICS.002
+  size: 1457152
+  date: '1993-08-26T13:06:16'
+  crc: '0x10a7bdc9'
+- name: CLASSICS.003
+  size: 481082
+  date: '1993-08-26T13:07:22'
+  crc: '0x0ff55f8f'
 - name: CLASSICS._1
   size: 0
   date: '1993-08-26T13:01:14'
+- name: CLASSICS._2
+  size: 0
+  date: '1993-08-26T13:04:08'
+- name: CLASSICS._3
+  size: 0
+  date: '1993-08-26T13:06:38'
 - name: DETECT.EXE
   size: 32238
   date: '1993-08-24T13:27:14'
@@ -28,6 +52,14 @@ files:
   size: 43
   date: '1993-08-26T13:01:12'
   crc: '0x53fadab0'
+- name: DISK2.ID
+  size: 43
+  date: '1993-08-26T13:04:08'
+  crc: '0x51bc64e9'
+- name: DISK3.ID
+  size: 43
+  date: '1993-08-26T13:06:36'
+  crc: '0x507e0ede'
 - name: INSTALL.EXE
   size: 157926
   date: '1993-06-28T04:10:22'
@@ -36,31 +68,3 @@ files:
   size: 12413
   date: '1993-08-26T11:28:40'
   crc: '0xd0645cb0'
-- name: disk 2\
-  size: 0
-  date: '2013-02-01T20:09:36'
-- name: disk 2\CLASSICS.002
-  size: 1457152
-  date: '1993-08-26T13:06:16'
-  crc: '0x10a7bdc9'
-- name: disk 2\CLASSICS._2
-  size: 0
-  date: '1993-08-26T13:04:08'
-- name: disk 2\DISK.ID
-  size: 43
-  date: '1993-08-26T13:04:08'
-  crc: '0x51bc64e9'
-- name: disk 3\
-  size: 0
-  date: '2013-02-01T20:09:20'
-- name: disk 3\CLASSICS.003
-  size: 481082
-  date: '1993-08-26T13:07:22'
-  crc: '0x0ff55f8f'
-- name: disk 3\CLASSICS._3
-  size: 0
-  date: '1993-08-26T13:06:38'
-- name: disk 3\DISK.ID
-  size: 43
-  date: '1993-08-26T13:06:36'
-  crc: '0x507e0ede'
