@@ -1,36 +1,25 @@
-filename: Their Finest Hour- The Battle of Britain [a2] (1989)(Lucasfilm Games LLC) [Action, Simulation].zip
+filename: Their Finest Hour- Battle of Britain v1.1 (1994)(U.S. Gold Ltd., Kixx, Lucasfilm Games LLC) [Action, Simulation].zip
 tdc_id: '16622.2'
+parent_id: '16622.8'
 title:
-  box: 'Their Finest Hour: The Battle of Britain'
-publisher: Lucasfilm Games LLC
-year: '1989'
+  box: 'Their Finest Hour: Battle of Britain'
+publisher: U.S. Gold Ltd., Kixx, Lucasfilm Games LLC
+year: '1994'
 genre:
 - Action
 - Simulation
 language: English
 date:
   added: '2019-03-01T18:29:12'
-  last_modified: '2023-07-04T12:16:18'
+  last_modified: '2024-07-18T07:28:07'
+version: '1.1'
 type: zip
-tags:
-- Alternate: 2
+media: 1.44M
+commands:
+  play: BOB.EXE
+references:
+  mobygames: https://www.mobygames.com/game/227/their-finest-hour-the-battle-of-britain/
 files:
-- name: 111GUND.PAC
-  size: 10243
-  date: '1989-08-27T00:44:18'
-  crc: '0x1d60fe71'
-- name: 111GUNN.PAC
-  size: 11897
-  date: '1989-08-27T00:44:02'
-  crc: '0x683bcf86'
-- name: 111GUNS.PAC
-  size: 11722
-  date: '1989-08-27T00:44:36'
-  crc: '0x0d9bd2a6'
-- name: 111GUNV.PAC
-  size: 11955
-  date: '1989-08-27T00:44:34'
-  crc: '0xb9fd0544'
 - name: ADLIBSFX
   size: 1463
   date: '1989-09-19T23:27:52'
@@ -51,21 +40,13 @@ files:
   size: 5760
   date: '1989-05-15T19:48:48'
   crc: '0x9bdcd30d'
-- name: BILL.RAF
-  size: 58
-  date: '1993-11-29T11:36:14'
-  crc: '0xc6de621c'
 - name: BOB.EXE
-  size: 220140
-  date: '1992-12-06T15:11:20'
-  crc: '0xda941e99'
-- name: BOND.RAF
-  size: 58
-  date: '1993-08-31T15:27:50'
-  crc: '0xf457d58d'
+  size: 220059
+  date: '1993-08-26T11:55:50'
+  crc: '0xd816a79a'
 - name: FLTS\
   size: 0
-  date: '2008-05-24T09:17:56'
+  date: '1994-03-02T12:41:50'
 - name: FLTS\BF109-1.FLT
   size: 855
   date: '1989-09-15T01:30:04'
@@ -434,21 +415,53 @@ files:
   size: 2822
   date: '1989-08-31T00:16:28'
   crc: '0xd020430a'
+- name: INSTALL.BAT
+  size: 3355
+  date: '1994-03-02T12:36:22'
+  crc: '0x67ab5a49'
+- name: INSTALL2.BAT
+  size: 1192
+  date: '1994-03-02T12:37:06'
+  crc: '0x6f30064b'
 - name: INTRO.PAC
   size: 26770
   date: '1989-10-01T16:57:54'
   crc: '0xd99fac53'
-- name: JON.109
-  size: 58
-  date: '1993-11-29T11:35:42'
-  crc: '0x8c196d8f'
+- name: MAP.PAC
+  size: 6511
+  date: '1989-09-14T16:39:52'
+  crc: '0xb48ae041'
 - name: MB.EXE
-  size: 43614
+  size: 43609
   date: '1989-10-02T07:07:00'
-  crc: '0x86fe0974'
+  crc: '0x110dc7f1'
+- name: MBICONS.PAC
+  size: 15317
+  date: '1989-09-25T20:24:00'
+  crc: '0x4098f23d'
+- name: MBMAP.PAC
+  size: 12747
+  date: '1989-09-25T20:22:26'
+  crc: '0x71092271'
 - name: PI\
   size: 0
-  date: '2008-05-24T09:17:56'
+  date: '1994-03-02T12:44:38'
+- name: PI\AIR4.PAC
+  size: 7264
+  date: '1989-09-12T02:08:44'
+  crc: '0x8c9e1655'
+- name: PI\AIR4S.PAC
+  size: 3302
+  date: '1989-09-12T02:08:50'
+  crc: '0x228c3e8f'
+- name: PI\AIRFX1.PAC
+  size: 13482
+  date: '1989-05-15T19:47:44'
+  crc: '0x5df90470'
+- name: PI\AIRFX1S.PAC
+  size: 5760
+  date: '1989-05-15T19:48:48'
+  crc: '0x9bdcd30d'
 - name: PI\DO17.PAC
   size: 21715
   date: '1989-09-11T23:06:54'
@@ -497,6 +510,14 @@ files:
   size: 7739
   date: '1989-07-06T21:55:40'
   crc: '0x62e45103'
+- name: PI\SHIPV1.PAC
+  size: 9023
+  date: '1988-08-22T19:30:30'
+  crc: '0xf898b2fb'
+- name: PI\SHIPV1S.PAC
+  size: 4302
+  date: '1988-08-22T19:30:36'
+  crc: '0x3f585f63'
 - name: PI\SPIT4.PAC
   size: 19858
   date: '1989-07-15T11:16:38'
@@ -513,25 +534,29 @@ files:
   size: 8780
   date: '1989-07-15T11:11:36'
   crc: '0xd983efd4'
-- name: RP1.TMP
-  size: 15000
-  date: '1993-11-29T11:29:00'
-  crc: '0x730766d4'
-- name: RP2.TMP
-  size: 15000
-  date: '1993-11-29T11:29:00'
-  crc: '0xd7829055'
-- name: SCHLANG.109
-  size: 58
-  date: '1993-09-14T13:08:12'
-  crc: '0xa7cc746d'
-- name: SCHRAM.BOB
-  size: 650
-  date: '1993-09-10T15:21:06'
-  crc: '0xfe577b68'
+- name: PI\WTR2.PAC
+  size: 19064
+  date: '1989-08-28T15:36:34'
+  crc: '0x48e71704'
+- name: PI\WTR2S.PAC
+  size: 8491
+  date: '1989-08-28T15:36:42'
+  crc: '0x3e4df6c2'
+- name: PI\WTRFX1S.PAC
+  size: 11042
+  date: '1989-05-25T17:48:08'
+  crc: '0x2753ddd1'
+- name: READ.ME
+  size: 6374
+  date: '1989-10-02T04:08:44'
+  crc: '0x418565ce'
+- name: README.BAT
+  size: 17
+  date: '1989-10-02T04:48:12'
+  crc: '0x71962af2'
 - name: SCREENS\
   size: 0
-  date: '2008-05-24T09:17:56'
+  date: '1994-03-02T12:43:30'
 - name: SCREENS\110DASH.PAC
   size: 15969
   date: '1989-10-02T05:01:24'
@@ -548,6 +573,22 @@ files:
   size: 9191
   date: '1989-10-02T05:01:50'
   crc: '0xbb2fd0f9'
+- name: SCREENS\111GUND.PAC
+  size: 10243
+  date: '1989-08-27T00:44:18'
+  crc: '0x1d60fe71'
+- name: SCREENS\111GUNN.PAC
+  size: 11897
+  date: '1989-08-27T00:44:02'
+  crc: '0x683bcf86'
+- name: SCREENS\111GUNS.PAC
+  size: 11722
+  date: '1989-08-27T00:44:36'
+  crc: '0x0d9bd2a6'
+- name: SCREENS\111GUNV.PAC
+  size: 11955
+  date: '1989-08-27T00:44:34'
+  crc: '0xb9fd0544'
 - name: SCREENS\BBPARTS.PAC
   size: 12724
   date: '1989-10-02T05:04:26'
@@ -652,14 +693,6 @@ files:
   size: 6516
   date: '1989-10-02T05:16:32'
   crc: '0x93a63c0c'
-- name: SCREENS\MBICONS.PAC
-  size: 15317
-  date: '1989-09-25T20:24:00'
-  crc: '0x4098f23d'
-- name: SCREENS\MBMAP.PAC
-  size: 12747
-  date: '1989-09-25T20:22:26'
-  crc: '0x71092271'
 - name: SCREENS\MENU.PAC
   size: 12061
   date: '1989-09-23T11:45:30'
@@ -720,18 +753,6 @@ files:
   size: 4302
   date: '1988-08-22T19:30:36'
   crc: '0x3f585f63'
-- name: TURBOKEY.COM
-  size: 512
-  date: '1992-12-06T14:48:58'
-  crc: '0xccfca6e0'
-- name: UUTT.BMB
-  size: 58
-  date: '1993-11-29T11:34:46'
-  crc: '0x36b35a11'
-- name: WOLF.RAF
-  size: 58
-  date: '1993-11-29T11:36:34'
-  crc: '0xc6de621c'
 - name: WTR2.PAC
   size: 19064
   date: '1989-08-28T15:36:34'

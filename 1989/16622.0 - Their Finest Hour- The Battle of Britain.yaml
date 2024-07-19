@@ -1,5 +1,6 @@
-filename: Their Finest Hour- The Battle of Britain (1989)(Lucasfilm Games LLC) [Action, Simulation].zip
+filename: Their Finest Hour- The Battle of Britain v1.0 (1989)(Lucasfilm Games LLC) [Action, Simulation][!].zip
 tdc_id: '16622.0'
+parent_id: '16622.5'
 title:
   box: 'Their Finest Hour: The Battle of Britain'
 publisher: Lucasfilm Games LLC
@@ -10,24 +11,19 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:29:12'
-  last_modified: '2023-07-04T12:16:06'
+  last_modified: '2024-07-17T10:30:27'
+version: '1.0'
 type: zip
+tags:
+- KnownGood
+media: 720K
+commands:
+  play: BOB.EXE
 references:
+  mobygames: https://www.mobygames.com/game/227/their-finest-hour-the-battle-of-britain/
   dosid: DOS05099
   exodos: Their Finest Hour The Battle of Britain (1989).zip
 files:
-- name: 1121.BOB
-  size: 650
-  date: '1993-08-26T11:49:00'
-  crc: '0x3371463f'
-- name: 3N.BOB
-  size: 650
-  date: '1993-08-24T11:31:48'
-  crc: '0xec7efda3'
-- name: 686466.BOB
-  size: 650
-  date: '1993-08-13T10:27:42'
-  crc: '0xda9af299'
 - name: ADLIBSFX
   size: 1463
   date: '1989-09-19T23:27:52'
@@ -48,113 +44,49 @@ files:
   size: 5760
   date: '1989-05-15T19:48:48'
   crc: '0x9bdcd30d'
-- name: ANDERS.110
-  size: 58
-  date: '1992-02-10T14:56:10'
-  crc: '0xfdc03267'
-- name: ANDREI.110
-  size: 58
-  date: '1993-10-14T12:16:04'
-  crc: '0x53507d3a'
-- name: AS.RPY
-  size: 20399
-  date: '1992-01-15T19:02:08'
-  crc: '0x2d7b5b0e'
-- name: ASDF.BOB
-  size: 650
-  date: '1993-08-23T12:38:12'
-  crc: '0xf6c5b3ad'
-- name: AVN.FLT
-  size: 855
-  date: '1991-09-25T08:46:30'
-  crc: '0x9669b8d6'
-- name: B.RPY
-  size: 20399
-  date: '1992-01-02T14:07:46'
-  crc: '0xefe671c3'
-- name: BF109-4.FLT
-  size: 855
-  date: '1989-09-15T00:42:40'
-  crc: '0x1bd9ea24'
-- name: BF109-5.FLT
-  size: 855
-  date: '1989-09-23T16:58:58'
-  crc: '0x64b5a190'
-- name: BF109-6.FLT
-  size: 855
-  date: '1989-09-17T23:00:10'
-  crc: '0x07f140c3'
-- name: BF109-7.FLT
-  size: 855
-  date: '1989-09-23T11:41:02'
-  crc: '0x7cb3f0c2'
-- name: BF109-8.FLT
-  size: 855
-  date: '1989-09-18T00:53:48'
-  crc: '0x788883ab'
-- name: BF110-4.FLT
-  size: 855
-  date: '1989-09-23T21:17:22'
-  crc: '0xe9448dcd'
-- name: BF110-5.FLT
-  size: 855
-  date: '1989-09-10T18:23:28'
-  crc: '0xa75e8a30'
-- name: BF110-6.FLT
-  size: 855
-  date: '1989-09-23T21:20:44'
-  crc: '0x4569ef25'
-- name: BF110-7.FLT
-  size: 855
-  date: '1989-09-23T20:05:28'
-  crc: '0x05361676'
 - name: BOB.EXE
-  size: 122242
+  size: 220135
   date: '1989-10-02T21:03:12'
-  crc: '0xeae77371'
-- name: BOBKOODI.TXT
-  size: 4794
-  date: '1992-12-13T09:48:52'
-  crc: '0x08e60235'
-- name: BOMBINO.BOB
-  size: 650
-  date: '1993-11-26T16:34:58'
-  crc: '0xa08731d6'
-- name: BORMAN.109
-  size: 58
-  date: '1992-01-31T12:41:32'
-  crc: '0x8c196d8f'
-- name: CCC.BMB
-  size: 58
-  date: '1993-07-05T22:43:44'
-  crc: '0x36b35a11'
-- name: CERGA.110
-  size: 58
-  date: '1993-10-05T15:54:20'
-  crc: '0x53507d3a'
-- name: E.BOB
-  size: 650
-  date: '1992-12-13T11:04:28'
-  crc: '0x505ddeb7'
+  crc: '0xc9b6e200'
+- name: BOB.EX_
+  size: 220135
+  date: '1989-10-02T21:03:12'
+  crc: '0x52c6aeb1'
 - name: FLTS\
   size: 0
-  date: '2007-12-28T05:15:28'
+  date: '1989-10-03T01:17:18'
 - name: FLTS\BF109-1.FLT
+  size: 855
+  date: '1989-09-15T01:30:04'
+  crc: '0xc93606a8'
+- name: FLTS\BF109-2.FLT
+  size: 855
+  date: '1989-09-15T00:42:06'
+  crc: '0x4dd786e4'
+- name: FLTS\BF109-3.FLT
+  size: 855
+  date: '1989-09-23T17:41:10'
+  crc: '0xa5d6ab71'
+- name: FLTS\BF109-4.FLT
   size: 855
   date: '1989-09-15T00:42:40'
   crc: '0x1bd9ea24'
-- name: FLTS\BF109-2.FLT
-  size: 855
-  date: '1989-09-23T16:58:58'
-  crc: '0x64b5a190'
-- name: FLTS\BF109-3.FLT
-  size: 855
-  date: '1989-09-17T23:00:10'
-  crc: '0x07f140c3'
 - name: FLTS\BF109-5.FLT
   size: 855
   date: '1989-09-23T16:58:58'
   crc: '0x64b5a190'
+- name: FLTS\BF109-6.FLT
+  size: 855
+  date: '1989-09-17T23:00:10'
+  crc: '0x07f140c3'
+- name: FLTS\BF109-7.FLT
+  size: 855
+  date: '1989-09-23T11:41:02'
+  crc: '0x7cb3f0c2'
+- name: FLTS\BF109-8.FLT
+  size: 855
+  date: '1989-09-18T00:53:48'
+  crc: '0x788883ab'
 - name: FLTS\BF110-1.FLT
   size: 855
   date: '1989-09-23T18:05:18'
@@ -167,6 +99,22 @@ files:
   size: 855
   date: '1989-09-07T13:13:38'
   crc: '0x9aaa162e'
+- name: FLTS\BF110-4.FLT
+  size: 855
+  date: '1989-09-23T21:17:22'
+  crc: '0xe9448dcd'
+- name: FLTS\BF110-5.FLT
+  size: 855
+  date: '1989-09-10T18:23:28'
+  crc: '0xa75e8a30'
+- name: FLTS\BF110-6.FLT
+  size: 855
+  date: '1989-09-23T21:20:44'
+  crc: '0x4569ef25'
+- name: FLTS\BF110-7.FLT
+  size: 855
+  date: '1989-09-23T20:05:28'
+  crc: '0x05361676'
 - name: FLTS\BF110-8.FLT
   size: 855
   date: '1989-09-18T09:06:20'
@@ -223,6 +171,18 @@ files:
   size: 855
   date: '1989-09-23T13:42:14'
   crc: '0x932d712f'
+- name: FLTS\HURR-3.FLT
+  size: 855
+  date: '1989-09-23T13:43:22'
+  crc: '0xce1e1a0a'
+- name: FLTS\HURR-4.FLT
+  size: 855
+  date: '1989-09-14T00:41:52'
+  crc: '0x04869bba'
+- name: FLTS\HURR-5.FLT
+  size: 855
+  date: '1989-09-23T13:40:30'
+  crc: '0x26274a80'
 - name: FLTS\HURR-6.FLT
   size: 855
   date: '1989-09-23T22:26:20'
@@ -231,6 +191,10 @@ files:
   size: 855
   date: '1989-09-23T13:30:00'
   crc: '0x164c12f3'
+- name: FLTS\HURR-8.FLT
+  size: 855
+  date: '1989-09-15T01:45:24'
+  crc: '0xdd209138'
 - name: FLTS\JU88-1.FLT
   size: 855
   date: '1989-09-07T20:53:48'
@@ -247,6 +211,10 @@ files:
   size: 855
   date: '1989-09-30T09:08:40'
   crc: '0xd078bd96'
+- name: FLTS\SPIT-1.FLT
+  size: 855
+  date: '1989-09-13T16:20:54'
+  crc: '0x94d09eec'
 - name: FLTS\SPIT-2.FLT
   size: 855
   date: '1989-09-13T18:17:00'
@@ -259,6 +227,18 @@ files:
   size: 855
   date: '1989-09-13T19:29:06'
   crc: '0x2c491864'
+- name: FLTS\SPIT-5.FLT
+  size: 855
+  date: '1989-09-13T17:43:32'
+  crc: '0x7e72fb6d'
+- name: FLTS\SPIT-6.FLT
+  size: 855
+  date: '1989-09-10T22:07:00'
+  crc: '0xb4f1b29d'
+- name: FLTS\SPIT-7.FLT
+  size: 855
+  date: '1989-09-06T20:02:24'
+  crc: '0x2cdf7b10'
 - name: FLTS\SPIT-8.FLT
   size: 855
   date: '1989-09-06T19:15:32'
@@ -279,6 +259,22 @@ files:
   size: 855
   date: '1989-09-29T09:58:14'
   crc: '0x1c106fd9'
+- name: FLTS\STUKA-5.FLT
+  size: 855
+  date: '1989-09-29T10:53:52'
+  crc: '0x59512493'
+- name: FLTS\STUKA-6.FLT
+  size: 855
+  date: '1989-09-17T18:51:48'
+  crc: '0x89361fe0'
+- name: FLTS\STUKA-7.FLT
+  size: 855
+  date: '1989-09-29T10:55:52'
+  crc: '0x2b48bd4a'
+- name: FLTS\STUKA-8.FLT
+  size: 855
+  date: '1989-09-17T12:29:04'
+  crc: '0x3e11600f'
 - name: FLTS\TBF1091.FLT
   size: 855
   date: '1989-09-27T20:07:38'
@@ -415,42 +411,10 @@ files:
   size: 12328
   date: '1989-09-30T09:05:18'
   crc: '0x4f13700f'
-- name: GAFT.110
-  size: 58
-  date: '1992-02-05T19:35:26'
-  crc: '0x8e74acc8'
 - name: GATTACKS.CMP
   size: 2847
   date: '1989-10-02T01:36:28'
   crc: '0x89b342e3'
-- name: GEBBELS.J87
-  size: 58
-  date: '1992-02-10T16:17:44'
-  crc: '0x70c9f938'
-- name: GEORG.J87
-  size: 58
-  date: '1992-02-05T19:35:28'
-  crc: '0x9747c840'
-- name: GERING.BMB
-  size: 58
-  date: '1992-02-10T14:56:12'
-  crc: '0x5cd71854'
-- name: GERING.J87
-  size: 58
-  date: '1992-02-10T16:17:42'
-  crc: '0x2d3c5b1b'
-- name: GERMAN.J87
-  size: 58
-  date: '1992-02-10T16:17:44'
-  crc: '0x64ea1070'
-- name: GERYNG.BMB
-  size: 58
-  date: '1992-02-07T14:16:28'
-  crc: '0x78e2efe3'
-- name: GHJ.BOB
-  size: 650
-  date: '1994-02-16T05:48:38'
-  crc: '0x37b41172'
 - name: GMAT.GOB
   size: 2794
   date: '1989-08-31T00:16:28'
@@ -459,78 +423,18 @@ files:
   size: 2822
   date: '1989-08-31T00:16:28'
   crc: '0xd020430a'
-- name: GUNS.BMB
-  size: 58
-  date: '1992-02-10T14:56:10'
-  crc: '0xe27bde9b'
-- name: GUNS.J87
-  size: 58
-  date: '1992-02-04T18:52:36'
-  crc: '0x59368f94'
-- name: HANS.110
-  size: 58
-  date: '1992-02-05T19:07:14'
-  crc: '0x96de7eac'
-- name: HURR-3.FLT
-  size: 855
-  date: '1989-09-23T13:43:22'
-  crc: '0xce1e1a0a'
-- name: HURR-4.FLT
-  size: 855
-  date: '1989-09-14T00:41:52'
-  crc: '0x04869bba'
-- name: HURR-5.FLT
-  size: 855
-  date: '1989-09-23T13:40:30'
-  crc: '0x26274a80'
-- name: HURR-8.FLT
-  size: 855
-  date: '1989-09-15T01:45:24'
-  crc: '0xdd209138'
-- name: III.109
-  size: 58
-  date: '1993-11-10T17:24:58'
-  crc: '0x8c196d8f'
+- name: INSTALL.BAT
+  size: 3370
+  date: '1989-09-29T18:08:52'
+  crc: '0xa7161482'
+- name: INSTALL2.BAT
+  size: 1434
+  date: '1989-09-29T18:09:10'
+  crc: '0x51e890de'
 - name: INTRO.PAC
   size: 26770
   date: '1989-10-01T16:57:54'
   crc: '0xd99fac53'
-- name: J.BOB
-  size: 650
-  date: '1993-11-26T16:36:06'
-  crc: '0xe7098bca'
-- name: KJK.BOB
-  size: 650
-  date: '1993-10-12T15:20:36'
-  crc: '0xda9af299'
-- name: KKK.BOB
-  size: 650
-  date: '1994-04-14T01:08:38'
-  crc: '0xda9af299'
-- name: KRAFT.FLT
-  size: 855
-  date: '1991-12-31T14:51:00'
-  crc: '0x01367e5e'
-- name: KURT.109
-  size: 58
-  date: '1992-01-31T17:55:56'
-  crc: '0xa0eaa184'
-- name: KURT.110
-  size: 58
-  date: '1992-02-05T18:28:38'
-  crc: '0x4108ada3'
-- name: KURT.J87
-  size: 58
-  date: '1992-02-05T19:35:28'
-  crc: '0x2c40a619'
-- name: LIR.BOB
-  size: 650
-  date: '1993-08-19T11:26:06'
-  crc: '0xba2abc6a'
-- name: M.BOB
-  size: 650
-  date: '1992-12-13T10:25:28'
-  crc: '0xda9af299'
 - name: MAP.PAC
   size: 6511
   date: '1989-09-14T16:39:52'
@@ -547,57 +451,25 @@ files:
   size: 12747
   date: '1989-09-25T20:22:26'
   crc: '0x71092271'
-- name: NIKI.BMB
-  size: 58
-  date: '1994-02-15T17:19:58'
-  crc: '0x36b35a11'
-- name: NIKI.BOB
-  size: 650
-  date: '1994-02-10T17:10:58'
-  crc: '0xda9af299'
-- name: NMBVGH.BOB
-  size: 650
-  date: '1994-03-03T19:01:18'
-  crc: '0xda9af299'
-- name: OTOBYEMS.BOB
-  size: 650
-  date: '1992-02-10T17:07:00'
-  crc: '0xdf191766'
-- name: P109.TOP
-  size: 120
-  date: '1992-01-31T17:55:56'
-  crc: '0x3ce99128'
-- name: P110.TOP
-  size: 120
-  date: '1992-02-10T14:56:10'
-  crc: '0x45cf1465'
-- name: PA.BAT
-  size: 231
-  date: '1992-01-31T18:35:32'
-  crc: '0x3fa93ada'
-- name: PAT.BAT
-  size: 78
-  date: '1991-12-31T23:29:24'
-  crc: '0xad525da6'
-- name: PATCH!.EXE
-  size: 10663
-  date: '1991-09-05T20:16:18'
-  crc: '0x295341ee'
-- name: PAULT.BMB
-  size: 58
-  date: '1992-02-10T14:56:10'
-  crc: '0xe8ac8f63'
-- name: PBMB.TOP
-  size: 120
-  date: '1992-02-10T14:26:56'
-  crc: '0x09436eae'
-- name: PITERS.110
-  size: 58
-  date: '1992-02-10T16:17:44'
-  crc: '0xbe27557f'
 - name: PI\
   size: 0
-  date: '2007-12-28T05:15:28'
+  date: '1989-10-03T01:27:18'
+- name: PI\AIR4.PAC
+  size: 7264
+  date: '1989-09-12T02:08:44'
+  crc: '0x8c9e1655'
+- name: PI\AIR4S.PAC
+  size: 3302
+  date: '1989-09-12T02:08:50'
+  crc: '0x228c3e8f'
+- name: PI\AIRFX1.PAC
+  size: 13482
+  date: '1989-05-15T19:47:44'
+  crc: '0x5df90470'
+- name: PI\AIRFX1S.PAC
+  size: 5760
+  date: '1989-05-15T19:48:48'
+  crc: '0x9bdcd30d'
 - name: PI\DO17.PAC
   size: 21715
   date: '1989-09-11T23:06:54'
@@ -646,6 +518,14 @@ files:
   size: 7739
   date: '1989-07-06T21:55:40'
   crc: '0x62e45103'
+- name: PI\SHIPV1.PAC
+  size: 9023
+  date: '1988-08-22T19:30:30'
+  crc: '0xf898b2fb'
+- name: PI\SHIPV1S.PAC
+  size: 4302
+  date: '1988-08-22T19:30:36'
+  crc: '0x3f585f63'
 - name: PI\SPIT4.PAC
   size: 19858
   date: '1989-07-15T11:16:38'
@@ -662,45 +542,29 @@ files:
   size: 8780
   date: '1989-07-15T11:11:36'
   crc: '0xd983efd4'
-- name: PJ87.TOP
-  size: 120
-  date: '1992-02-10T16:17:44'
-  crc: '0xd2029ab9'
-- name: PRAF.TOP
-  size: 120
-  date: '1992-02-10T17:06:28'
-  crc: '0xa5a39148'
-- name: R.BOB
-  size: 650
-  date: '1992-12-13T11:05:06'
-  crc: '0xec7efda3'
+- name: PI\WTR2.PAC
+  size: 19064
+  date: '1989-08-28T15:36:34'
+  crc: '0x48e71704'
+- name: PI\WTR2S.PAC
+  size: 8491
+  date: '1989-08-28T15:36:42'
+  crc: '0x3e4df6c2'
+- name: PI\WTRFX1S.PAC
+  size: 11042
+  date: '1989-05-25T17:48:08'
+  crc: '0x2753ddd1'
 - name: READ.ME
   size: 6374
   date: '1989-10-02T04:08:44'
   crc: '0x418565ce'
-- name: RP1.TMP
-  size: 15000
-  date: '2007-12-28T05:31:50'
-  crc: '0x1a9179ad'
-- name: RP2.TMP
-  size: 15000
-  date: '2007-12-28T05:31:50'
-  crc: '0xd5240903'
-- name: RR.BOB
-  size: 650
-  date: '1994-05-18T12:28:10'
-  crc: '0xe7098bca'
-- name: RTU.BOB
-  size: 650
-  date: '1994-03-10T18:26:32'
-  crc: '0xe2814797'
-- name: SASHA.BOB
-  size: 650
-  date: '1993-08-31T16:44:22'
-  crc: '0x19b7453d'
+- name: README.BAT
+  size: 17
+  date: '1989-10-02T04:48:12'
+  crc: '0x71962af2'
 - name: SCREENS\
   size: 0
-  date: '2007-12-28T05:15:28'
+  date: '1989-10-03T01:24:44'
 - name: SCREENS\110DASH.PAC
   size: 15969
   date: '1989-10-02T05:01:24'
@@ -833,6 +697,10 @@ files:
   size: 4607
   date: '1989-10-02T05:07:54'
   crc: '0x53c056f5'
+- name: SCREENS\MAP.PAC
+  size: 6516
+  date: '1989-10-02T05:16:32'
+  crc: '0x93a63c0c'
 - name: SCREENS\MENU.PAC
   size: 12061
   date: '1989-09-23T11:45:30'
@@ -881,22 +749,6 @@ files:
   size: 1060
   date: '1989-08-13T19:49:02'
   crc: '0xca586b06'
-- name: SDD.BOB
-  size: 650
-  date: '1993-09-03T12:04:06'
-  crc: '0x599a462e'
-- name: SERJ.109
-  size: 58
-  date: '1992-01-31T18:33:16'
-  crc: '0x616e45ca'
-- name: SERJ.BMB
-  size: 58
-  date: '1992-01-31T18:58:06'
-  crc: '0x11d59d36'
-- name: SERJ.J87
-  size: 58
-  date: '1992-02-05T14:43:26'
-  crc: '0xb463ac99'
 - name: SFX.SFX
   size: 1906
   date: '1988-09-27T22:03:48'
@@ -909,86 +761,6 @@ files:
   size: 4302
   date: '1988-08-22T19:30:36'
   crc: '0x3f585f63'
-- name: SHTIRLIZ.110
-  size: 58
-  date: '1992-02-03T14:50:44'
-  crc: '0x5d222fba'
-- name: SPIT-1.FLT
-  size: 855
-  date: '1989-09-13T16:20:54'
-  crc: '0x94d09eec'
-- name: SPIT-5.FLT
-  size: 855
-  date: '1989-09-13T17:43:32'
-  crc: '0x7e72fb6d'
-- name: SPIT-6.FLT
-  size: 855
-  date: '1989-09-10T22:07:00'
-  crc: '0xb4f1b29d'
-- name: SPIT-7.FLT
-  size: 855
-  date: '1989-09-06T20:02:24'
-  crc: '0x2cdf7b10'
-- name: SS.RPY
-  size: 20399
-  date: '1992-01-24T17:06:28'
-  crc: '0x35656fd0'
-- name: SSAHSA.BOB
-  size: 650
-  date: '1993-12-01T18:06:00'
-  crc: '0xfd8a915a'
-- name: STUKA-5.FLT
-  size: 855
-  date: '1989-09-29T10:53:52'
-  crc: '0x59512493'
-- name: STUKA-6.FLT
-  size: 855
-  date: '1989-09-17T18:51:48'
-  crc: '0x89361fe0'
-- name: STUKA-7.FLT
-  size: 855
-  date: '1989-09-29T10:55:52'
-  crc: '0x2b48bd4a'
-- name: STUKA-8.FLT
-  size: 855
-  date: '1989-09-17T12:29:04'
-  crc: '0x3e11600f'
-- name: STUKA.RPY
-  size: 20399
-  date: '1992-01-02T20:11:00'
-  crc: '0x2878a025'
-- name: TIMENS.109
-  size: 58
-  date: '1992-01-31T18:33:14'
-  crc: '0x8c93a036'
-- name: TRAL.BOB
-  size: 650
-  date: '1993-11-26T16:48:42'
-  crc: '0xc2bf0cbe'
-- name: TYUI.BOB
-  size: 650
-  date: '1994-03-10T18:32:14'
-  crc: '0xbdac5fa6'
-- name: TYUIOOP.109
-  size: 58
-  date: '1994-03-10T18:24:10'
-  crc: '0x8c196d8f'
-- name: TYUUIIIO.109
-  size: 58
-  date: '1994-03-10T18:24:18'
-  crc: '0x8c196d8f'
-- name: UUUUU.BOB
-  size: 650
-  date: '1994-03-07T18:29:48'
-  crc: '0xe7098bca'
-- name: WLAD.109
-  size: 58
-  date: '1992-02-03T10:11:12'
-  crc: '0x61e48873'
-- name: WLAD.BOB
-  size: 650
-  date: '1992-02-03T10:11:20'
-  crc: '0x138c5b90'
 - name: WTR2.PAC
   size: 19064
   date: '1989-08-28T15:36:34'
@@ -1001,11 +773,3 @@ files:
   size: 11042
   date: '1989-05-25T17:48:08'
   crc: '0x2753ddd1'
-- name: YHF.BOB
-  size: 650
-  date: '1994-02-23T19:18:58'
-  crc: '0xda9af299'
-- name: YUUUU.109
-  size: 58
-  date: '1993-11-10T17:24:52'
-  crc: '0x8c196d8f'

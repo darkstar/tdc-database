@@ -1,19 +1,24 @@
-filename: Their Finest Hour- The Battle of Britain [a3] (1989)(Lucasfilm Games LLC) [Action, Simulation].zip
-tdc_id: '16622.3'
+filename: Their Finest Hour- The Battle of Britain v1.1 (1990)(Lucasfilm Games LLC) [Action, Simulation].zip
+tdc_id: '16622.6'
+parent_id: '16622.1'
 title:
   box: 'Their Finest Hour: The Battle of Britain'
 publisher: Lucasfilm Games LLC
-year: '1989'
+year: '1990'
 genre:
 - Action
 - Simulation
 language: English
 date:
-  added: '2019-03-01T18:29:12'
-  last_modified: '2023-07-04T12:16:24'
+  added: '2024-04-24T09:49:01'
+  last_modified: '2024-07-17T14:31:26'
+version: '1.1'
 type: zip
-tags:
-- Alternate: 3
+media: 360K
+commands:
+  play: BOB.EXE
+references:
+  mobygames: https://www.mobygames.com/game/227/their-finest-hour-the-battle-of-britain/
 files:
 - name: ADLIBSFX
   size: 1463
@@ -36,12 +41,16 @@ files:
   date: '1989-05-15T19:48:48'
   crc: '0x9bdcd30d'
 - name: BOB.EXE
-  size: 220135
-  date: '1989-10-02T21:03:12'
-  crc: '0xf6b6a0b1'
+  size: 220249
+  date: '1990-07-25T09:49:20'
+  crc: '0xad33a3d1'
+- name: BOB.EX_
+  size: 220249
+  date: '1990-07-25T09:49:20'
+  crc: '0x37867878'
 - name: FLTS\
   size: 0
-  date: '2010-01-23T16:41:30'
+  date: '1989-10-03T01:16:48'
 - name: FLTS\BF109-1.FLT
   size: 855
   date: '1989-09-15T01:30:04'
@@ -440,7 +449,7 @@ files:
   crc: '0x71092271'
 - name: PI\
   size: 0
-  date: '2010-01-23T16:41:30'
+  date: '1989-10-03T01:31:14'
 - name: PI\AIR4.PAC
   size: 7264
   date: '1989-09-12T02:08:44'
@@ -542,16 +551,16 @@ files:
   date: '1989-05-25T17:48:08'
   crc: '0x2753ddd1'
 - name: READ.ME
-  size: 6443
-  date: '1992-03-20T14:28:08'
-  crc: '0x655a87b1'
+  size: 6374
+  date: '1989-10-02T04:08:44'
+  crc: '0x418565ce'
 - name: README.BAT
   size: 17
   date: '1989-10-02T04:48:12'
   crc: '0x71962af2'
 - name: SCREENS\
   size: 0
-  date: '2010-01-29T21:51:54'
+  date: '1989-10-03T01:16:54'
 - name: SCREENS\110DASH.PAC
   size: 15969
   date: '1989-10-02T05:01:24'

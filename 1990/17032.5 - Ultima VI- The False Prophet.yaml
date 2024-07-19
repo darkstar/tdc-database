@@ -1,6 +1,6 @@
-filename: Ultima VI- The False Prophet v4.5 (1990)(ORIGIN Systems, Inc.) [Adventure, Role-Playing (RPG)][!].zip
-tdc_id: '17032.0'
-parent_id: '17032.3'
+filename: Ultima VI- The False Prophet v1.7 (1990)(ORIGIN Systems, Inc.) [Adventure, Role-Playing (RPG)][!].zip
+tdc_id: '17032.5'
+parent_id: '17032.1'
 title:
   box: 'Ultima VI: The False Prophet'
 publisher: ORIGIN Systems, Inc.
@@ -10,20 +10,18 @@ genre:
 - Role-Playing (RPG)
 language: English
 date:
-  added: '2019-03-01T18:34:24'
-  last_modified: '2024-07-18T17:40:26'
-version: '4.5'
+  added: '2024-07-18T17:15:56'
+  last_modified: '2024-07-18T17:15:56'
+version: '1.7'
 type: zip
 tags:
 - KnownGood
-media: 720K
+media: 360K
 commands:
   play: ULTIMA6.EXE
   setup: INSTALL.EXE
 references:
   mobygames: https://www.mobygames.com/game/104/ultima-vi-the-false-prophet/
-  dosid: DOS05410
-  exodos: Ultima VI - The False Prophet (1990).zip
 files:
 - name: ALL.CON
   size: 402
@@ -31,7 +29,7 @@ files:
   crc: '0x87e914b7'
 - name: ANIMDATA
   size: 194
-  date: '1990-04-23T15:17:38'
+  date: '1990-03-08T17:25:40'
   crc: '0xb8c5b433'
 - name: ANIMMASK.VGA
   size: 404
@@ -39,16 +37,16 @@ files:
   crc: '0x472198a9'
 - name: BASETILE
   size: 2048
-  date: '1990-04-18T15:38:56'
+  date: '1990-03-08T17:25:52'
   crc: '0x6b2b31c0'
 - name: BLOCKS.SHP
   size: 8847
   date: '1989-12-13T16:09:06'
   crc: '0x166e26dd'
 - name: BOOK.DAT
-  size: 25132
-  date: '1990-04-18T14:24:18'
-  crc: '0x8bfee10a'
+  size: 25156
+  date: '1990-03-02T21:11:30'
+  crc: '0x14536b7d'
 - name: BOOTUP.M
   size: 421
   date: '1990-02-16T19:04:44'
@@ -63,16 +61,16 @@ files:
   crc: '0x32d0cd0a'
 - name: CHUNKS
   size: 65536
-  date: '1990-04-23T15:17:48'
+  date: '1990-03-02T17:07:54'
   crc: '0x4b2f9830'
 - name: CONVERSE.A
-  size: 162615
-  date: '1990-04-16T14:11:44'
-  crc: '0xb66be5e6'
+  size: 162458
+  date: '1990-03-07T13:34:52'
+  crc: '0xf7aece2f'
 - name: CONVERSE.B
-  size: 152537
-  date: '1990-04-16T14:13:24'
-  crc: '0x5bfd170c'
+  size: 152448
+  date: '1990-03-13T12:31:06'
+  crc: '0x9743febb'
 - name: CONVERT.PAL
   size: 1184
   date: '1990-02-26T11:45:00'
@@ -102,9 +100,9 @@ files:
   date: '1990-02-17T11:40:42'
   crc: '0xba994f77'
 - name: END.EXE
-  size: 40112
-  date: '1990-04-06T12:28:06'
-  crc: '0xaf11c9e9'
+  size: 39982
+  date: '1990-02-26T10:38:40'
+  crc: '0x34b6c07a'
 - name: END.M
   size: 880
   date: '1990-02-16T19:04:46'
@@ -126,13 +124,13 @@ files:
   date: '1990-02-16T19:04:46'
   crc: '0x85dcce9a'
 - name: GAME.EXE
-  size: 205613
-  date: '1990-05-16T02:56:46'
-  crc: '0x6a10d5a4'
+  size: 204681
+  date: '1990-03-08T18:03:26'
+  crc: '0x5f446327'
 - name: GAME.EX_
-  size: 205613
-  date: '1990-05-16T02:56:46'
-  crc: '0x3eeba9b9'
+  size: 204681
+  date: '1990-03-08T18:03:26'
+  crc: '0xbf4b38e7'
 - name: GARGOYLE.M
   size: 666
   date: '1990-02-21T21:13:08'
@@ -146,9 +144,9 @@ files:
   date: '1990-02-16T19:04:48'
   crc: '0x066f2620'
 - name: INSTALL.EXE
-  size: 27250
-  date: '1990-04-23T12:50:42'
-  crc: '0x8fa0de0e'
+  size: 25603
+  date: '1990-03-08T17:39:06'
+  crc: '0xb2d810ec'
 - name: INSUB.BAT
   size: 940
   date: '1990-02-17T14:33:42'
@@ -166,9 +164,9 @@ files:
   date: '1990-02-06T15:22:00'
   crc: '0x6346d707'
 - name: INTRO_1.SHP
-  size: 83810
-  date: '1990-03-22T11:51:36'
-  crc: '0x287a7a86'
+  size: 83388
+  date: '1990-02-09T17:52:04'
+  crc: '0xc9ac72b1'
 - name: INTRO_2.SHP
   size: 68739
   date: '1990-02-06T15:18:22'
@@ -179,35 +177,38 @@ files:
   crc: '0x4d365088'
 - name: LOOK.LZD
   size: 4193
-  date: '1990-04-23T15:19:50'
+  date: '1990-03-02T17:09:58'
   crc: '0xff7b140b'
 - name: LZDNGBLK
-  size: 39620
-  date: '1990-04-23T15:18:22'
-  crc: '0xadb56a50'
+  size: 39615
+  date: '1990-03-08T17:27:28'
+  crc: '0xa6bc55e0'
 - name: LZMAP
   size: 17566
-  date: '1990-04-23T15:17:46'
+  date: '1990-03-08T17:26:56'
   crc: '0xf0c23f01'
 - name: LZOBJBLK
-  size: 43974
-  date: '1990-04-23T15:18:14'
-  crc: '0x56e429e6'
+  size: 44026
+  date: '1990-03-08T17:27:22'
+  crc: '0xc910d910'
 - name: MAINMENU.SHP
   size: 7543
   date: '1989-12-13T16:08:56'
   crc: '0x648a587d'
 - name: MAKEMODE.EXE
   size: 24201
-  date: '1990-03-25T15:46:12'
-  crc: '0x44425d8c'
+  date: '1990-03-08T17:38:56'
+  crc: '0x163f6d95'
+- name: MAP
+  size: 0
+  date: '1990-03-13T14:10:44'
 - name: MAPTILES.VGA
-  size: 47199
-  date: '1990-04-23T15:18:50'
-  crc: '0x1499ab75'
+  size: 47161
+  date: '1990-03-08T17:27:56'
+  crc: '0xad0a0039'
 - name: MASKTYPE.VGA
   size: 1515
-  date: '1990-04-23T15:18:52'
+  date: '1990-03-08T17:27:58'
   crc: '0xf328cc34'
 - name: MCGADRV.BIN
   size: 1940
@@ -227,7 +228,7 @@ files:
   crc: '0x3196880a'
 - name: OBJTILES.VGA
   size: 289344
-  date: '1990-04-23T15:18:42'
+  date: '1990-03-02T17:08:48'
   crc: '0x27476507'
 - name: PALETTES.INT
   size: 4608
@@ -249,9 +250,110 @@ files:
   size: 20249
   date: '1990-03-02T18:05:30'
   crc: '0xf29904c2'
+- name: SAVEGAME\
+  size: 0
+  date: '1990-03-13T14:10:44'
+- name: SAVEGAME\OBJBLKAA
+  size: 18
+  date: '1990-03-13T14:10:48'
+  crc: '0x43f2286e'
+- name: SAVEGAME\OBJBLKAB
+  size: 1666
+  date: '1990-03-13T14:10:50'
+  crc: '0xe7348cc5'
+- name: SAVEGAME\OBJBLKAC
+  size: 0
+  date: '1990-03-13T14:11:12'
+- name: SAVEGAME\OBJBLKAD
+  size: 0
+  date: '1990-03-13T14:11:14'
+- name: SAVEGAME\OBJBLKBA
+  size: 50
+  date: '1990-03-13T14:10:48'
+  crc: '0xe00950b0'
+- name: SAVEGAME\OBJBLKBB
+  size: 0
+  date: '1990-03-13T14:10:52'
+- name: SAVEGAME\OBJBLKBC
+  size: 0
+  date: '1990-03-13T14:11:14'
+- name: SAVEGAME\OBJBLKBD
+  size: 0
+  date: '1990-03-13T14:11:16'
+- name: SAVEGAME\OBJBLKCA
+  size: 498
+  date: '1990-03-13T14:10:54'
+  crc: '0xa2cb6f7f'
+- name: SAVEGAME\OBJBLKCB
+  size: 1018
+  date: '1990-03-13T14:10:58'
+  crc: '0x5d64f827'
+- name: SAVEGAME\OBJBLKCC
+  size: 0
+  date: '1990-03-13T14:11:18'
+- name: SAVEGAME\OBJBLKCD
+  size: 0
+  date: '1990-03-13T14:11:20'
+- name: SAVEGAME\OBJBLKDA
+  size: 274
+  date: '1990-03-13T14:10:56'
+  crc: '0xe172a12d'
+- name: SAVEGAME\OBJBLKDB
+  size: 226
+  date: '1990-03-13T14:10:58'
+  crc: '0x9c666e33'
+- name: SAVEGAME\OBJBLKDC
+  size: 0
+  date: '1990-03-13T14:11:18'
+- name: SAVEGAME\OBJBLKDD
+  size: 0
+  date: '1990-03-13T14:11:22'
+- name: SAVEGAME\OBJBLKEA
+  size: 0
+  date: '1990-03-13T14:11:00'
+- name: SAVEGAME\OBJBLKEB
+  size: 90
+  date: '1990-03-13T14:11:04'
+  crc: '0x23ab6154'
+- name: SAVEGAME\OBJBLKEC
+  size: 0
+  date: '1990-03-13T14:11:22'
+- name: SAVEGAME\OBJBLKED
+  size: 0
+  date: '1990-03-13T14:11:26'
+- name: SAVEGAME\OBJBLKFA
+  size: 0
+  date: '1990-03-13T14:11:02'
+- name: SAVEGAME\OBJBLKFB
+  size: 0
+  date: '1990-03-13T14:11:06'
+- name: SAVEGAME\OBJBLKFC
+  size: 0
+  date: '1990-03-13T14:11:24'
+- name: SAVEGAME\OBJBLKFD
+  size: 0
+  date: '1990-03-13T14:11:26'
+- name: SAVEGAME\OBJBLKGA
+  size: 0
+  date: '1990-03-13T14:11:06'
+- name: SAVEGAME\OBJBLKGB
+  size: 0
+  date: '1990-03-13T14:11:10'
+- name: SAVEGAME\OBJBLKGC
+  size: 0
+  date: '1990-03-13T14:11:28'
+- name: SAVEGAME\OBJBLKHA
+  size: 0
+  date: '1990-03-13T14:11:08'
+- name: SAVEGAME\OBJBLKHB
+  size: 0
+  date: '1990-03-13T14:11:10'
+- name: SAVEGAME\OBJBLKHC
+  size: 0
+  date: '1990-03-13T14:11:30'
 - name: SCHEDULE
   size: 3329
-  date: '1990-04-18T15:38:58'
+  date: '1990-03-08T17:25:54'
   crc: '0xd440df25'
 - name: STARPOS.DAT
   size: 755
@@ -262,73 +364,68 @@ files:
   date: '1990-02-16T19:04:48'
   crc: '0x0955d1b6'
 - name: T2CGA.EXE
-  size: 23026
-  date: '1990-04-27T14:33:40'
-  crc: '0x8dfe1b0e'
+  size: 21039
+  date: '1990-03-08T17:38:46'
+  crc: '0x252259dc'
 - name: T2EGA.EXE
   size: 22747
-  date: '1990-03-25T15:46:26'
+  date: '1990-03-08T17:39:10'
   crc: '0x412e274f'
 - name: T2HRC.EXE
-  size: 23026
-  date: '1990-04-27T14:33:46'
-  crc: '0xa68959a9'
+  size: 21039
+  date: '1990-03-08T17:39:02'
+  crc: '0x6ae49bd8'
 - name: T2TGA.EXE
   size: 21453
-  date: '1990-03-25T15:46:00'
+  date: '1990-03-08T17:38:42'
   crc: '0x88c1b65f'
-- name: TANDYPIN.EXE
-  size: 624
-  date: '1989-09-28T11:20:28'
-  crc: '0xe78ee18c'
 - name: TGADRV.BIN
   size: 2379
   date: '1990-02-17T11:40:44'
   crc: '0x37949242'
 - name: TILEFLAG
   size: 7168
-  date: '1990-04-23T15:17:38'
-  crc: '0x81ab335e'
+  date: '1990-03-08T17:25:42'
+  crc: '0xcdcab167'
 - name: TILEINDX.VGA
   size: 4096
-  date: '1990-04-23T15:18:42'
+  date: '1990-03-08T17:27:48'
   crc: '0x42aafcd8'
 - name: TITLES.SHP
   size: 6125
   date: '1989-12-13T16:08:48'
   crc: '0xe9448a2a'
-- name: U.EXE
-  size: 109988
-  date: '1990-03-27T17:41:42'
-  crc: '0x3b4c660b'
 - name: U6.1
-  size: 92
-  date: '1990-05-14T12:15:26'
-  crc: '0x9d4d0613'
+  size: 80
+  date: '1990-01-10T16:02:10'
+  crc: '0xcfdf69ca'
 - name: U6.2
-  size: 97
-  date: '1990-05-14T12:15:36'
-  crc: '0x654c1622'
+  size: 85
+  date: '1990-03-01T09:07:00'
+  crc: '0xbe9ac3cd'
 - name: U6.3
-  size: 92
-  date: '1990-05-14T12:15:46'
-  crc: '0x5ad47f10'
+  size: 80
+  date: '1990-03-01T09:07:06'
+  crc: '0xc03f37c6'
 - name: U6.4
-  size: 89
-  date: '1990-05-14T12:15:54'
-  crc: '0xcd98501b'
+  size: 77
+  date: '1990-01-08T20:52:50'
+  crc: '0xaaddcd79'
 - name: U6.5
-  size: 86
-  date: '1990-05-14T12:16:02'
-  crc: '0xe20ef587'
+  size: 74
+  date: '1990-01-08T20:53:44'
+  crc: '0x62a4397f'
 - name: U6.6
-  size: 93
-  date: '1990-05-14T12:16:12'
-  crc: '0xb0fa67d5'
+  size: 81
+  date: '1990-03-01T09:07:18'
+  crc: '0xf478d430'
 - name: U6.7
-  size: 93
-  date: '1990-05-14T12:16:22'
-  crc: '0x425b4279'
+  size: 81
+  date: '1990-03-01T09:07:26'
+  crc: '0xf525f2e1'
+- name: U6.8
+  size: 0
+  date: '1990-03-13T14:11:32'
 - name: U6.CH
   size: 2048
   date: '1990-02-20T13:17:06'
@@ -342,9 +439,9 @@ files:
   date: '1990-02-10T14:36:06'
   crc: '0x17f2616e'
 - name: U6CGA.DRV
-  size: 7301
-  date: '1990-03-26T14:52:12'
-  crc: '0x2a01c9a4'
+  size: 7186
+  date: '1990-02-22T16:46:02'
+  crc: '0xc5a156d7'
 - name: U6CMS.DRV
   size: 1455
   date: '1990-02-10T14:36:12'
@@ -366,9 +463,9 @@ files:
   date: '1990-01-31T10:06:38'
   crc: '0x42eed0f9'
 - name: U6EGA.DRV
-  size: 6847
-  date: '1990-03-26T11:55:04'
-  crc: '0xe22c8599'
+  size: 6782
+  date: '1990-02-16T11:24:04'
+  crc: '0xe1ac2b65'
 - name: U6INNOVA.DRV
   size: 1190
   date: '1990-02-27T15:54:22'
@@ -390,9 +487,9 @@ files:
   date: '1990-02-22T08:48:34'
   crc: '0x12a59672'
 - name: U6TANDY.DRV
-  size: 5930
-  date: '1990-03-27T17:53:16'
-  crc: '0xa31b2480'
+  size: 5913
+  date: '1990-02-22T16:46:12'
+  crc: '0x77acb62f'
 - name: U6TMUS.DRV
   size: 1272
   date: '1990-02-12T11:34:10'
@@ -402,9 +499,9 @@ files:
   date: '1990-03-02T11:04:38'
   crc: '0xc9f5ca58'
 - name: ULTIMA6.EXE
-  size: 18677
-  date: '1990-03-26T11:08:44'
-  crc: '0xb6f7b862'
+  size: 109740
+  date: '1990-03-05T16:25:32'
+  crc: '0x43b0a60f'
 - name: VELLUM1.SHP
   size: 6147
   date: '1989-12-13T16:08:38'
