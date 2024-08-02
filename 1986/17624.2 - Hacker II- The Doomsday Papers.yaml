@@ -1,0 +1,29 @@
+filename: Hacker II- The Doomsday Papers [DC] (1986)(Activision, Inc.) [Strategy].zip
+tdc_id: '17624.2'
+parent_id: '17624.1'
+title:
+  box: 'Hacker II: The Doomsday Papers'
+publisher: Activision, Inc.
+year: '1986'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-01T18:24:46'
+  last_modified: '2019-03-01T18:24:46'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: HACKER2.COM
+references:
+  dosid: DOS05900
+  exodos: Hacker 2 - The Doomsday Papers (1986).zip
+files:
+- name: GAME.DAT
+  size: 368640
+  date: '1999-05-29T12:44:20'
+  crc: '0xde336035'
+- name: HACKER2.COM
+  size: 432
+  date: '1999-05-29T14:44:02'
+  crc: '0xcfd1dba6'

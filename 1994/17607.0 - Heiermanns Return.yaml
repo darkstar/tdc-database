@@ -1,0 +1,53 @@
+filename: Heiermanns Return (De) [FW] (1994)(Sparkasse Gelsenkirchen) [Action, Trivia].zip
+tdc_id: '17607.0'
+title:
+  screen: Heiermanns Return
+publisher: Sparkasse Gelsenkirchen
+year: '1994'
+genre:
+- Action
+- Trivia
+language: German
+date:
+  added: '2024-07-30T09:26:50'
+  last_modified: '2024-07-30T09:26:50'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: SPK.BAT
+  setup: SETUP.EXE
+files:
+- name: 01.CAT
+  size: 1247
+  date: '1994-12-05T18:18:36'
+  crc: '0x7e7195f6'
+- name: 01.DAT
+  size: 1882504
+  date: '1994-12-05T18:18:36'
+  crc: '0x72f28f36'
+- name: DOS4GW.EXE
+  size: 264964
+  date: '1994-05-16T10:16:16'
+  crc: '0xea7106eb'
+- name: README.TXT
+  size: 14268
+  date: '1994-12-05T19:52:40'
+  crc: '0x75eca801'
+- name: S.EXE
+  size: 208997
+  date: '1994-12-05T16:54:04'
+  crc: '0xca0c5b9a'
+- name: SETUP.EXE
+  size: 47184
+  date: '1994-10-26T06:17:56'
+  crc: '0x4901836a'
+- name: SPK.BAT
+  size: 25
+  date: '2024-06-19T07:02:50'
+  crc: '0x7e0be3b9'
+- name: TESTMOD.EXE
+  size: 32442
+  date: '1994-05-31T10:00:00'
+  crc: '0x1cd4aef6'

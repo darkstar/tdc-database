@@ -1,4 +1,4 @@
-filename: Broken Sword- La leyenda de los Templarios (Es) (1996)(Virgin Interactive Entertainment (Europe) Ltd.) [Adventure].zip
+filename: Broken Sword- La leyenda de los Templarios (Es) [b1] (1996)(Virgin Interactive Entertainment (Europe) Ltd.) [Adventure].zip
 tdc_id: '8886.0'
 title:
   box: 'Broken Sword: La leyenda de los Templarios'
@@ -8,8 +8,15 @@ genre: Adventure
 language: Spanish
 date:
   added: '2019-03-02T10:00:12'
-  last_modified: '2019-03-02T10:00:12'
+  last_modified: '2024-07-24T08:48:34'
 type: zip
+tags:
+- Bad: 1
+commands:
+  play: CIRCLE.BAT
+  setup: SETSOUND.EXE
+references:
+  mobygames: https://www.mobygames.com/game/499/circle-of-blood/
 files:
 - name: ADRV688.DIG
   size: 11278

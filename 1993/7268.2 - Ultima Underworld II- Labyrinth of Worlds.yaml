@@ -1,7 +1,9 @@
-filename: Ultima Underworld II- Labyrinth of Worlds v013662 (Installer) (1993)(ORIGIN Systems, Inc.) [Action, Role-Playing (RPG)].zip
+filename: Ultima Underworld II- Labyrinth of Worlds vF1.90S (Installer) (1993)(ORIGIN Systems, Inc.) [Action, Role-Playing (RPG)][!].zip
 tdc_id: '7268.2'
+parent_id: '7268.3'
 title:
   box: 'Ultima Underworld II: Labyrinth of Worlds'
+  qualifier: Installer
 publisher: ORIGIN Systems, Inc.
 year: '1993'
 genre:
@@ -10,10 +12,17 @@ genre:
 language: English
 date:
   added: '2019-03-01T21:10:54'
-  last_modified: '2019-03-01T21:10:54'
-version: '013662'
+  last_modified: '2024-07-29T17:17:59'
+version: F1.90S
 type: zip
+tags:
+- KnownGood
+media: 1.44M
 installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/691/ultima-underworld-ii-labyrinth-of-worlds/
 files:
 - name: BASE0001.LZH
   size: 252708
@@ -113,19 +122,19 @@ files:
   crc: '0x21442771'
 - name: UNDERWOR.LD1
   size: 0
-  date: '1993-01-03T11:33:02'
+  date: '1992-12-23T18:35:38'
 - name: UNDERWOR.LD2
   size: 0
-  date: '1993-01-03T11:34:24'
+  date: '1992-12-23T18:37:04'
 - name: UNDERWOR.LD3
   size: 0
-  date: '1993-01-03T11:34:46'
+  date: '1992-12-23T18:38:54'
 - name: UNDERWOR.LD4
   size: 0
-  date: '1993-01-03T11:35:08'
+  date: '1992-12-23T18:40:26'
 - name: UNDERWOR.LD5
   size: 0
-  date: '1993-01-03T11:35:36'
+  date: '1992-12-23T18:41:58'
 - name: UWSOUND.EXE
   size: 32848
   date: '1992-11-27T13:59:10'

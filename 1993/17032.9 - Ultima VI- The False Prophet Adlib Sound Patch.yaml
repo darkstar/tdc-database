@@ -1,0 +1,28 @@
+filename: Ultima VI- The False Prophet Adlib Sound Patch (1993)(ORIGIN Systems, Inc.) [Adventure, Role-Playing (RPG), Addon].zip
+tdc_id: '17032.9'
+title:
+  screen: 'Ultima VI: The False Prophet Adlib Sound Patch'
+publisher: ORIGIN Systems, Inc.
+year: '1993'
+genre:
+- Adventure
+- Role-Playing (RPG)
+- Addon
+language: English
+date:
+  added: '2024-07-21T08:24:49'
+  last_modified: '2024-07-21T08:24:49'
+type: zip
+media: Download
+patch: true
+references:
+  mobygames: https://www.mobygames.com/game/808/ultima-v-warriors-of-destiny/
+files:
+- name: READ.ME
+  size: 1130
+  date: '1993-12-09T17:12:16'
+  crc: '0x062d98f9'
+- name: U6ADLIB.DRV
+  size: 1217
+  date: '1993-12-09T16:52:18'
+  crc: '0xbf5650c6'

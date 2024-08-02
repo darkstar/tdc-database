@@ -1,18 +1,25 @@
-filename: WWII GI (1999)(GT Interactive Software Corp.) [ISO].zip
+filename: WWII GI v1.0 (1999)(GT Interactive Software Corp.) [bin-cue].zip
 tdc_id: '15924.1'
 title:
   box: WWII GI
 publisher: GT Interactive Software Corp.
 year: '1999'
-genre: ISO
+genre: bin-cue
 language: English
 date:
   added: '2023-02-23T15:25:38'
-  last_modified: '2023-02-23T15:25:38'
-type: ISO
+  last_modified: '2024-07-26T18:26:30'
+version: '1.0'
+type: bin-cue
 media: CD-ROM
+references:
+  mobygames: https://www.mobygames.com/game/1014/wwii-gi/
 files:
-- name: cd.iso
-  size: 614459392
-  date: '1999-12-31T19:00:00'
-  crc: '0x0fb3b5a7'
+- name: WWII GI (USA).bin
+  size: 706049232
+  date: '1996-12-24T16:32:00'
+  crc: '0xf9368678'
+- name: WWII GI (USA).cue
+  size: 79
+  date: '1996-12-24T16:32:00'
+  crc: '0x65307c20'

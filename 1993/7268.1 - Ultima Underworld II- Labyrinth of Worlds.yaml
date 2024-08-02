@@ -1,5 +1,6 @@
-filename: Ultima Underworld II- Labyrinth of Worlds v013662 (1993)(ORIGIN Systems, Inc.) [Action, Role-Playing (RPG)].zip
+filename: Ultima Underworld II- Labyrinth of Worlds vF1.90S (1993)(ORIGIN Systems, Inc.) [Action, Role-Playing (RPG)][!].zip
 tdc_id: '7268.1'
+parent_id: '7268.2'
 title:
   box: 'Ultima Underworld II: Labyrinth of Worlds'
 publisher: ORIGIN Systems, Inc.
@@ -10,13 +11,23 @@ genre:
 language: English
 date:
   added: '2019-03-01T21:10:54'
-  last_modified: '2019-03-01T21:10:54'
-version: '013662'
+  last_modified: '2024-07-29T17:19:55'
+version: F1.90S
 type: zip
+tags:
+- KnownGood
+media: 1.44M
+commands:
+  play: UW2.EXE
+  setup: UWSOUND.EXE
 references:
+  mobygames: https://www.mobygames.com/game/691/ultima-underworld-ii-labyrinth-of-worlds/
   dosid: DOS05406
   exodos: Ultima Underworld 2 - Labyrinth of Worlds (1993).zip
 files:
+- name: CRIT\
+  size: 0
+  date: '1992-12-11T23:57:14'
 - name: CRIT\AS.AN
   size: 128
   date: '1992-12-11T23:57:14'
@@ -345,6 +356,9 @@ files:
   size: 256
   date: '1992-12-11T23:56:02'
   crc: '0x3b229368'
+- name: CUTS\
+  size: 0
+  date: '1992-12-15T11:54:56'
 - name: CUTS\CS000.N00
   size: 498
   date: '1992-12-01T18:44:16'
@@ -605,6 +619,9 @@ files:
   size: 64000
   date: '1992-12-02T17:23:36'
   crc: '0x4b3896ac'
+- name: DATA\
+  size: 0
+  date: '1992-12-23T16:52:18'
 - name: DATA\3DWIN.GR
   size: 129
   date: '1992-07-26T19:23:08'
@@ -857,10 +874,6 @@ files:
   size: 32237
   date: '1992-11-10T15:02:42'
   crc: '0xb4fe0e36'
-- name: DATA\UW.CFG
-  size: 37
-  date: '1992-12-23T16:52:18'
-  crc: '0x9866d228'
 - name: DATA\VIEWS.GR
   size: 91
   date: '1992-07-26T19:24:40'
@@ -886,13 +899,16 @@ files:
   date: '1992-12-23T17:01:54'
   crc: '0x008e835e'
 - name: INSTALL.EXE
-  size: 133662
+  size: 70656
   date: '1992-11-05T10:19:12'
-  crc: '0x9385164b'
+  crc: '0x251bfbcd'
 - name: INSTALL.OLB
   size: 42585
-  date: '1992-12-05T15:11:50'
+  date: '1992-12-05T15:11:54'
   crc: '0x310f5978'
+- name: SOUND\
+  size: 0
+  date: '1992-12-09T17:16:20'
 - name: SOUND\BSP00.VOC
   size: 173073
   date: '1992-09-11T10:47:30'
@@ -937,10 +953,6 @@ files:
   size: 4361
   date: '1992-11-25T14:44:02'
   crc: '0x0edba24b'
-- name: SOUND\DESCRIPT.ION
-  size: 911
-  date: '1993-02-28T13:10:08'
-  crc: '0xa258fa94'
 - name: SOUND\DM01.ADV
   size: 8352
   date: '1992-08-17T06:00:00'

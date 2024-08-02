@@ -1,0 +1,56 @@
+filename: Lavagna (Installer) (1993)(Fondazione Don Carlo Gnocchi) [Educational].zip
+tdc_id: '2027.1'
+title:
+  box: Lavagna
+  qualifier: Installer
+publisher: Fondazione Don Carlo Gnocchi
+year: '1993'
+genre: Educational
+language: English
+date:
+  added: '2024-07-28T14:55:54'
+  last_modified: '2024-07-28T14:55:54'
+type: zip
+media: 720K
+installer: true
+commands:
+  play: LAVAGNA\LAVAGNA.EXE
+files:
+- name: INSTALLA.CMD
+  size: 588
+  date: '1993-03-28T17:51:36'
+  crc: '0x8dd9a056'
+- name: INSTALLA.EXE
+  size: 13732
+  date: '1990-12-11T08:56:50'
+  crc: '0x99626ede'
+- name: LAVAGNA.BAT
+  size: 42
+  date: '1993-03-28T17:58:16'
+  crc: '0x6b249e78'
+- name: LAVAGNA\
+  size: 0
+  date: '1993-02-09T17:34:36'
+- name: LAVAGNA\IMMAGINI\
+  size: 0
+  date: '1993-02-09T17:34:36'
+- name: LAVAGNA\IMMAGINI\DRIVE.SEK
+  size: 12
+  date: '1991-03-13T18:30:32'
+  crc: '0x40de9bdc'
+- name: LAVAGNA\IMMAGINI\LABIRINT.DAT
+  size: 2401
+  date: '1992-09-16T14:22:04'
+  crc: '0x756c8efb'
+- name: LAVAGNA\IMMAGINI\TMP.TMP
+  size: 17007
+  date: '1992-09-16T14:58:04'
+  crc: '0x6eaf990f'
+- name: LAVAGNA\LAVAGNA.EXE
+  size: 132304
+  date: '1993-02-09T17:31:52'
+  crc: '0x99342e34'
+- name: LAVAGNA\LAVAGNA.EX_
+  size: 132304
+  date: '1993-02-09T17:31:52'
+  crc: '0xf09e12e4'

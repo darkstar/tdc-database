@@ -1,0 +1,82 @@
+filename: Ultima VI- The False Prophet - Nitpickers Delight Patch v1.23 (2021)(Sir John) [Adventure, Role-Playing (RPG), Addon].zip
+tdc_id: '17032.11'
+title:
+  screen: 'Ultima VI: The False Prophet - Nitpickers Delight Patch'
+publisher: Sir John
+year: '2021'
+genre:
+- Adventure
+- Role-Playing (RPG)
+- Addon
+language: English
+date:
+  added: '2024-07-27T10:43:36'
+  last_modified: '2024-07-27T10:43:36'
+version: '1.23'
+type: zip
+media: Download
+patch: true
+references:
+  mobygames: https://www.mobygames.com/game/104/ultima-vi-the-false-prophet/
+files:
+- name: BOOK.DAT
+  size: 25132
+  date: '2014-07-17T09:06:44'
+  crc: '0x39044413'
+- name: Book_Of_Spoilers.txt
+  size: 15627
+  date: '2021-05-26T17:55:26'
+  crc: '0xe3916c4a'
+- name: CONFIG.U6
+  size: 20
+  date: '1998-01-14T11:15:28'
+  crc: '0xfb476e2b'
+- name: CONVERSE.A
+  size: 167604
+  date: '2018-05-23T10:49:10'
+  crc: '0x4f1d8ce6'
+- name: CONVERSE.B
+  size: 153215
+  date: '2018-05-23T10:49:10'
+  crc: '0x82889520'
+- name: END.EXE
+  size: 40112
+  date: '2019-06-01T15:42:34'
+  crc: '0xec03c75b'
+- name: INTRO_1.SHP
+  size: 84189
+  date: '2018-05-23T10:22:58'
+  crc: '0x68fb501e'
+- name: LOOK.LZD
+  size: 4193
+  date: '2014-07-17T07:21:12'
+  crc: '0xff7b140b'
+- name: MAINMENU.SHP
+  size: 7785
+  date: '2021-05-26T17:33:28'
+  crc: '0x78a39b35'
+- name: MAPTILES.VGA
+  size: 47199
+  date: '2014-07-17T07:21:12'
+  crc: '0x1499ab75'
+- name: MASKTYPE.VGA
+  size: 1515
+  date: '2014-07-17T07:21:12'
+  crc: '0xf328cc34'
+- name: SAVEGAME\
+  size: 0
+  date: '2021-05-19T11:16:22'
+- name: SAVEGAME\OBJLIST
+  size: 7539
+  date: '2021-01-29T14:06:20'
+  crc: '0xb95a5f0a'
+- name: cloud_saves\
+  size: 0
+  date: '2021-05-19T11:16:12'
+- name: cloud_saves\SAVEGAME\
+  size: 0
+  date: '2021-02-04T14:57:28'
+- name: cloud_saves\SAVEGAME\OBJLIST
+  size: 7539
+  date: '2021-01-29T14:06:20'
+  crc: '0xb95a5f0a'

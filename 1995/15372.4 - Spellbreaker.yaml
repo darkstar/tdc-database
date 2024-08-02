@@ -1,0 +1,52 @@
+filename: Spellbreaker r87 (1995)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '15372.4'
+title:
+  box: Spellbreaker
+publisher: Infocom, Inc.
+year: '1995'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2024-07-29T14:33:50'
+  last_modified: '2024-07-29T14:33:50'
+release: '87'
+type: zip
+media: CD-ROM
+commands:
+  play: SPELLBRE.BAT
+references:
+  mobygames: https://www.mobygames.com/game/58/spellbreaker/
+files:
+- name: DATA\
+  size: 0
+  date: '1995-05-04T20:16:14'
+- name: DATA\SPELLBRE.DAT
+  size: 153600
+  date: '1995-06-01T11:00:00'
+  crc: '0xbd64bbc7'
+- name: NNANSI.COM
+  size: 5221
+  date: '1995-06-01T11:00:00'
+  crc: '0xc3001c87'
+- name: SETUP.BAT
+  size: 1382
+  date: '1995-05-17T18:32:18'
+  crc: '0xc1b10cc5'
+- name: SETUP.INF
+  size: 3
+  date: '1995-06-01T11:00:00'
+  crc: '0x8bdcb97d'
+- name: SPELLBRE.BAT
+  size: 61
+  date: '1995-05-17T18:32:18'
+  crc: '0x785ae18f'
+- name: _SETUP.EXE
+  size: 1584
+  date: '1995-06-01T11:00:00'
+  crc: '0x62ddb282'
+- name: _SPELLBR.COM
+  size: 12004
+  date: '1995-06-01T11:00:00'
+  crc: '0x132a28ae'

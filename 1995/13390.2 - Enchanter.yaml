@@ -1,0 +1,52 @@
+filename: Enchanter r29 (1995)(Activision, Inc., Infocom, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '13390.2'
+title:
+  box: Enchanter
+publisher: Activision, Inc., Infocom, Inc.
+year: '1995'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:23:12'
+  last_modified: '2024-07-29T14:09:56'
+release: '29'
+type: zip
+media: CD-ROM
+commands:
+  play: ENCHANTE.BAT
+references:
+  mobygames: https://www.mobygames.com/game/56/enchanter/
+files:
+- name: DATA\
+  size: 0
+  date: '1995-05-04T20:16:14'
+- name: DATA\ENCHANTE.DAT
+  size: 122880
+  date: '1995-06-01T11:00:00'
+  crc: '0xdce09892'
+- name: ENCHANTE.BAT
+  size: 61
+  date: '1995-05-17T18:32:18'
+  crc: '0xdba18839'
+- name: NNANSI.COM
+  size: 5221
+  date: '1995-06-01T11:00:00'
+  crc: '0xc3001c87'
+- name: SETUP.BAT
+  size: 1382
+  date: '1995-05-17T18:32:18'
+  crc: '0xc1b10cc5'
+- name: SETUP.INF
+  size: 3
+  date: '1995-06-01T11:00:00'
+  crc: '0x8bdcb97d'
+- name: _ENCHANT.COM
+  size: 12004
+  date: '1995-06-01T11:00:00'
+  crc: '0xd1326f1c'
+- name: _SETUP.EXE
+  size: 1584
+  date: '1995-06-01T11:00:00'
+  crc: '0x62ddb282'

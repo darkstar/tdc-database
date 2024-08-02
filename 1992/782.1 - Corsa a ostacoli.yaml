@@ -1,0 +1,103 @@
+filename: Corsa a ostacoli v2.00 (Installer) (It) (1992)(Anastasis, A.S.P.H.I.) [Educational].zip
+tdc_id: '782.1'
+title:
+  box: Corsa a ostacoli
+  transliteration: Obstacle race
+  qualifier: Installer
+publisher: Anastasis, A.S.P.H.I.
+year: '1992'
+genre: Educational
+language: Italian
+date:
+  added: '2024-07-28T13:53:16'
+  last_modified: '2024-07-28T13:53:16'
+version: '2.00'
+type: zip
+media: 720K
+installer: true
+commands:
+  play: CORS.EXE
+files:
+- name: CGA.BGI
+  size: 6332
+  date: '1990-11-30T06:00:00'
+  crc: '0x5f4c2b51'
+- name: CGAHORSE.GDB
+  size: 113872
+  date: '1992-11-26T16:37:12'
+  crc: '0x2fed617e'
+- name: CGAHORSE.GDX
+  size: 960
+  date: '1992-11-26T16:37:12'
+  crc: '0x08ee21f1'
+- name: CORS.EXE
+  size: 68016
+  date: '1992-12-10T14:35:20'
+  crc: '0xaee82e43'
+- name: CORS.EX_
+  size: 68016
+  date: '1992-12-10T14:35:20'
+  crc: '0xd1000430'
+- name: CORSA
+  size: 0
+  date: '1992-12-10T14:35:20'
+- name: CORSA.BAC
+  size: 197
+  date: '1992-12-10T14:39:26'
+  crc: '0xb778b9dd'
+- name: CORSA.BAT
+  size: 176
+  date: '1992-12-10T14:38:44'
+  crc: '0x29e25747'
+- name: CORSA.HIT
+  size: 190
+  date: '1992-12-14T17:06:06'
+  crc: '0xca1b977d'
+- name: CORSA.PIC
+  size: 16391
+  date: '1991-10-09T13:07:30'
+  crc: '0xf5d6a8d6'
+- name: CORSA.TXT
+  size: 7088
+  date: '1992-05-30T16:56:16'
+  crc: '0xc54ed2fc'
+- name: ESERC1.DAT
+  size: 3287
+  date: '1991-11-05T15:34:56'
+  crc: '0x41b138dd'
+- name: ESERC2.DAT
+  size: 1682
+  date: '1991-09-23T10:35:30'
+  crc: '0x249e523a'
+- name: ESERC3.DAT
+  size: 2956
+  date: '1991-11-29T08:09:02'
+  crc: '0x39833f88'
+- name: INSTALLA.CMD
+  size: 1445
+  date: '1992-12-10T14:53:18'
+  crc: '0x5ff81b38'
+- name: INSTALLA.EXE
+  size: 13837
+  date: '1992-12-03T15:19:20'
+  crc: '0xa185cb2d'
+- name: LITT.CHR
+  size: 2138
+  date: '1989-05-02T05:50:18'
+  crc: '0x626944dd'
+- name: PRESENTA.EXE
+  size: 6053
+  date: '1992-12-03T15:00:38'
+  crc: '0xa42ef82b'
+- name: VGA256.BGI
+  size: 3289
+  date: '1989-05-31T01:00:02'
+  crc: '0x55f0b0ba'
+- name: VGAHORSE.GDB
+  size: 321853
+  date: '1992-11-26T16:42:34'
+  crc: '0xaf2af242'
+- name: VGAHORSE.GDX
+  size: 968
+  date: '1992-11-26T16:42:34'
+  crc: '0x1ba452ec'

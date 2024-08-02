@@ -1,0 +1,50 @@
+filename: PicTrivia (1989)(ComputerEasy) [Strategy, Trivia].zip
+tdc_id: '106.1'
+title:
+  box: PicTrivia
+publisher: ComputerEasy
+year: '1989'
+genre:
+- Strategy
+- Trivia
+language: English
+date:
+  added: '2024-07-25T16:01:51'
+  last_modified: '2024-07-25T16:01:51'
+type: zip
+media: 720K
+commands:
+  play: PICTRIV.EXE
+files:
+- name: EGAVGA.BGI
+  size: 5363
+  date: '1989-10-25T17:00:52'
+  crc: '0x06d36962'
+- name: FILLIN.DB
+  size: 1770
+  date: '1989-10-25T17:00:52'
+  crc: '0xb13e0685'
+- name: INSTALL.EXE
+  size: 17840
+  date: '1989-10-25T17:00:32'
+  crc: '0x8002d6c9'
+- name: PICTRIV.EXE
+  size: 86292
+  date: '1989-10-25T17:00:30'
+  crc: '0x74f26ab3'
+- name: PICTURE.DB
+  size: 139945
+  date: '1989-10-25T17:00:52'
+  crc: '0x117b793d'
+- name: PICTURE.NDX
+  size: 708
+  date: '1989-10-25T17:00:52'
+  crc: '0xbec157ed'
+- name: QUES.DB
+  size: 48609
+  date: '1989-10-25T17:00:52'
+  crc: '0x7711efb6'
+- name: QUESPH.DB
+  size: 52079
+  date: '1989-10-25T17:00:52'
+  crc: '0x9a6b2159'

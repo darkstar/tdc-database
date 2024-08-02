@@ -1,0 +1,95 @@
+filename: Gioco della papera v1.10 (Installer) (It) (1992)(Anastasis, A.S.P.H.I., S.N.R.) [Educational].zip
+tdc_id: '3401.1'
+title:
+  box: Gioco della papera
+  translation: Duck Game
+  qualifier: Installer
+publisher: Anastasis, A.S.P.H.I., S.N.R.
+year: '1992'
+genre: Educational
+language: Italian
+date:
+  added: '2024-07-29T08:22:05'
+  last_modified: '2024-07-29T08:22:05'
+version: '1.10'
+type: zip
+media: 720K
+installer: true
+commands:
+  play: PAPERA.BAT
+files:
+- name: CGA.BGI
+  size: 6332
+  date: '1992-04-08T09:39:02'
+  crc: '0x5f4c2b51'
+- name: INSTALLA.CMD
+  size: 1515
+  date: '1992-12-03T17:59:24'
+  crc: '0x01e10e9a'
+- name: INSTALLA.EXE
+  size: 13837
+  date: '1992-12-03T15:19:20'
+  crc: '0xa185cb2d'
+- name: PAPERA
+  size: 0
+  date: '1992-12-10T16:35:00'
+- name: PAPERA.BAC
+  size: 204
+  date: '1992-12-03T17:46:52'
+  crc: '0xd1f0af95'
+- name: PAPERA.BAT
+  size: 182
+  date: '1992-12-03T17:46:16'
+  crc: '0x24dcc50c'
+- name: PAPERA.CFC
+  size: 48
+  date: '1992-04-08T09:39:02'
+  crc: '0xb32a6916'
+- name: PAPERA.CFG
+  size: 48
+  date: '1992-04-08T09:39:02'
+  crc: '0xc849b0ae'
+- name: PAPERA.ESE
+  size: 26635
+  date: '1992-05-04T15:02:18'
+  crc: '0xdef90288'
+- name: PAPERA.GDB
+  size: 3579
+  date: '1992-04-08T09:39:02'
+  crc: '0xe9748458'
+- name: PAPERA.GDX
+  size: 272
+  date: '1992-04-08T09:39:02'
+  crc: '0x69bae20b'
+- name: PAPERA.HLP
+  size: 4658
+  date: '1992-04-08T09:39:02'
+  crc: '0x219c712c'
+- name: PAPERA.PER
+  size: 974
+  date: '1992-04-08T09:39:02'
+  crc: '0x59bb39fb'
+- name: PAPERA.PIC
+  size: 16391
+  date: '1992-04-08T09:39:02'
+  crc: '0x234fd4c2'
+- name: PAPERA.STR
+  size: 30268
+  date: '1992-04-15T11:09:34'
+  crc: '0x8eced853'
+- name: PAPERA.TXT
+  size: 7293
+  date: '1992-04-08T09:39:02'
+  crc: '0x0848c335'
+- name: PRESENTA.EXE
+  size: 6053
+  date: '1992-12-03T15:00:38'
+  crc: '0xa42ef82b'
+- name: SOFTDIDA.EXE
+  size: 136800
+  date: '1992-04-23T13:43:28'
+  crc: '0x922c414d'
+- name: SOFTDIDA.EX_
+  size: 136800
+  date: '1992-04-23T13:43:28'
+  crc: '0x837a6415'

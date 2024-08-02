@@ -1,0 +1,151 @@
+filename: Il gioco della rana v2.00 (Installer) (It) (1992)(Anastasis, A.S.P.H.I.) [Educational].zip
+tdc_id: '1543.1'
+title:
+  box: Il gioco della rana
+  transliteration: The Frog Game
+  qualifier: Installer
+publisher: Anastasis, A.S.P.H.I.
+year: '1992'
+genre: Educational
+language: Italian
+date:
+  added: '2024-07-28T14:34:06'
+  last_modified: '2024-07-29T13:44:03'
+version: '2.00'
+type: zip
+media: 720K
+installer: true
+commands:
+  play: RANA.BAT
+files:
+- name: CGA.BGI
+  size: 6253
+  date: '1989-05-02T05:50:00'
+  crc: '0x17cbdd92'
+- name: FROG.EXE
+  size: 65808
+  date: '1992-12-14T09:43:20'
+  crc: '0x27e11fe3'
+- name: FROG.EX_
+  size: 65808
+  date: '1992-12-14T09:43:20'
+  crc: '0x6a875fe2'
+- name: FROG.HIT
+  size: 210
+  date: '1993-02-18T12:07:20'
+  crc: '0x9e2e145d'
+- name: FROG.PIC
+  size: 16391
+  date: '1991-04-17T10:57:12'
+  crc: '0x272ae47b'
+- name: FROG.TXT
+  size: 7129
+  date: '1992-05-30T16:50:34'
+  crc: '0x5e384f3a'
+- name: INSTALLA.CMD
+  size: 1465
+  date: '1992-12-03T17:33:32'
+  crc: '0x7d8f6a43'
+- name: INSTALLA.EXE
+  size: 13837
+  date: '1992-12-03T15:19:20'
+  crc: '0xa185cb2d'
+- name: LITT.CHR
+  size: 2138
+  date: '1989-05-02T05:50:00'
+  crc: '0xe18c9d7c'
+- name: PAROLE.LV1
+  size: 77
+  date: '1990-10-05T12:20:22'
+  crc: '0x210640b5'
+- name: PAROLE.LV2
+  size: 311
+  date: '1991-10-03T17:58:28'
+  crc: '0xa93b2bee'
+- name: PAROLE.LV3
+  size: 313
+  date: '1991-10-03T17:58:56'
+  crc: '0xa1d7ae78'
+- name: PAROLE.LV4
+  size: 313
+  date: '1991-10-03T17:59:16'
+  crc: '0x9544a0ce'
+- name: PAROLE.LV5
+  size: 400
+  date: '1991-10-03T18:00:04'
+  crc: '0xd61ce363'
+- name: PAROLE.LV6
+  size: 412
+  date: '1991-10-03T18:00:26'
+  crc: '0x68676e30'
+- name: PAROLE.LV7
+  size: 409
+  date: '1991-10-03T18:00:38'
+  crc: '0xdf38bf01'
+- name: PAROLE.LV8
+  size: 508
+  date: '1991-10-03T18:01:44'
+  crc: '0xcd948001'
+- name: PAROLE.LV9
+  size: 518
+  date: '1991-10-03T18:03:20'
+  crc: '0x52d1a3f2'
+- name: PRESENTA.EXE
+  size: 6053
+  date: '1992-12-03T15:00:38'
+  crc: '0xa42ef82b'
+- name: RANA
+  size: 0
+  date: '1992-12-10T16:38:18'
+- name: RANA.BAC
+  size: 194
+  date: '1992-12-03T16:09:18'
+  crc: '0xe33b4e6b'
+- name: RANA.BAT
+  size: 174
+  date: '1992-12-03T16:08:38'
+  crc: '0xf4cb85f1'
+- name: RANA.GDB
+  size: 12566
+  date: '1991-04-10T11:30:18'
+  crc: '0xefdc10ea'
+- name: RANA.GDX
+  size: 256
+  date: '1991-04-10T11:30:18'
+  crc: '0x2c6704de'
+- name: RANAAUX.GDB
+  size: 16216
+  date: '1991-04-10T11:30:30'
+  crc: '0x27902300'
+- name: RANAAUX.GDX
+  size: 256
+  date: '1991-04-10T11:30:30'
+  crc: '0xf30c5a41'
+- name: SFONDO.GDB
+  size: 4436
+  date: '1991-04-10T11:30:42'
+  crc: '0x5e62157a'
+- name: SFONDO.GDX
+  size: 80
+  date: '1991-04-10T11:30:42'
+  crc: '0x0beea704'
+- name: VGA256.BGI
+  size: 3289
+  date: '1989-05-31T01:00:02'
+  crc: '0x55f0b0ba'
+- name: VGARANA.GDB
+  size: 31019
+  date: '1992-05-08T07:49:54'
+  crc: '0x9d001a96'
+- name: VGARANA.GDX
+  size: 256
+  date: '1992-05-08T07:49:54'
+  crc: '0xa2ec0476'
+- name: VGASFOND.GDB
+  size: 46945
+  date: '1992-09-29T12:39:40'
+  crc: '0x2bf84192'
+- name: VGASFOND.GDX
+  size: 88
+  date: '1992-09-29T12:39:40'
+  crc: '0x62d9a8e2'

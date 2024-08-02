@@ -1,0 +1,50 @@
+filename: Sorcerer r15 (1995)(Activision, Inc., Infocom, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '6862.1'
+title:
+  box: Sorcerer
+publisher: Activision, Inc., Infocom, Inc.
+year: '1995'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2019-03-01T18:24:16'
+  last_modified: '2024-07-29T14:27:53'
+release: '15'
+type: zip
+media: CD-ROM
+commands:
+  play: SORCERER.BAT
+files:
+- name: DATA\
+  size: 0
+  date: '1995-05-04T20:16:14'
+- name: DATA\SORCERER.DAT
+  size: 122880
+  date: '1995-06-01T11:00:00'
+  crc: '0x6e4794c0'
+- name: NNANSI.COM
+  size: 5221
+  date: '1995-06-01T11:00:00'
+  crc: '0xc3001c87'
+- name: SETUP.BAT
+  size: 1382
+  date: '1995-05-17T18:32:18'
+  crc: '0xc1b10cc5'
+- name: SETUP.INF
+  size: 3
+  date: '1995-06-01T11:00:00'
+  crc: '0x8bdcb97d'
+- name: SORCERER.BAT
+  size: 61
+  date: '1995-05-17T18:32:18'
+  crc: '0x702777fb'
+- name: _SETUP.EXE
+  size: 1584
+  date: '1995-06-01T11:00:00'
+  crc: '0x62ddb282'
+- name: _SORCERE.COM
+  size: 11402
+  date: '1995-06-01T11:00:00'
+  crc: '0x831e22f9'

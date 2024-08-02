@@ -1,0 +1,86 @@
+filename: Gold of the Aztecs, The v1.0 (Installer) (1991)(U.S. Gold, Inc.) [Action, Adventure].zip
+tdc_id: '14129.2'
+parent_id: '14129.1'
+title:
+  box: The Gold of the Aztecs
+  qualifier: Installer
+publisher: U.S. Gold, Inc.
+year: '1991'
+genre:
+- Action
+- Adventure
+language: English
+date:
+  added: '2024-07-30T10:15:53'
+  last_modified: '2024-07-30T12:00:07'
+version: '1.0'
+type: zip
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/17245/the-gold-of-the-aztecs/
+files:
+- name: GOLD.EXE
+  size: 6683
+  date: '1991-04-18T18:36:30'
+  crc: '0xbfb268c4'
+- name: GOLDA.EXE
+  size: 134595
+  date: '1991-04-19T17:37:00'
+  crc: '0x924655a7'
+- name: GOLDB.EXE
+  size: 149063
+  date: '1991-04-17T10:48:56'
+  crc: '0x240a1468'
+- name: GOLDC.EXE
+  size: 179483
+  date: '1991-04-17T10:48:02'
+  crc: '0xce0ba197'
+- name: GOLDD.EXE
+  size: 165096
+  date: '1991-04-17T10:48:06'
+  crc: '0xf7e7de61'
+- name: GOLDE.EXE
+  size: 192584
+  date: '1991-04-17T10:48:12'
+  crc: '0xb96f952d'
+- name: GOLDF.EXE
+  size: 188280
+  date: '1991-04-17T10:48:18'
+  crc: '0xe4ae71db'
+- name: GOLDG.EXE
+  size: 198737
+  date: '1991-04-17T10:48:24'
+  crc: '0xec246431'
+- name: GOLDH.EXE
+  size: 173294
+  date: '1991-04-17T10:48:28'
+  crc: '0x733a998a'
+- name: GOLDI.EXE
+  size: 171214
+  date: '1991-04-17T10:48:34'
+  crc: '0xe58d299b'
+- name: GOLDJ.EXE
+  size: 191190
+  date: '1991-04-17T10:48:40'
+  crc: '0xcf9055fa'
+- name: GOLDK.EXE
+  size: 178925
+  date: '1991-04-17T10:48:46'
+  crc: '0x137553da'
+- name: Gold 1
+  size: 0
+  date: '1991-04-17T10:48:46'
+- name: Gold 2
+  size: 0
+  date: '1991-04-17T10:48:10'
+- name: INSTALL.EXE
+  size: 6155
+  date: '1991-04-17T10:48:10'
+  crc: '0x05ce96b1'
+- name: LHA211.EXE
+  size: 43008
+  date: '1991-04-17T10:48:22'
+  crc: '0xab5540e5'

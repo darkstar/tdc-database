@@ -1,29 +1,34 @@
-filename: Fantasy Collection, The (Installer) (1995)(Activision, Inc.) [Interactive Fiction, Compilation].zip
+filename: Fantasy Collection, The (Installer) (1995)(Activision, Inc., Infocom, Inc.) [Adventure, Interactive Fiction, Compilation].zip
 tdc_id: '13493.0'
+parent_id: '13493.1'
 title:
   box: The Fantasy Collection
-publisher: Activision, Inc.
+  qualifier: Installer
+publisher: Activision, Inc., Infocom, Inc.
 year: '1995'
 genre:
+- Adventure
 - Interactive Fiction
 - Compilation
 language: English
 date:
   added: '2019-03-02T08:43:44'
-  last_modified: '2019-03-02T08:43:44'
+  last_modified: '2024-07-28T11:01:06'
 type: zip
+media: CD-ROM
 installer: true
-compilation: true
+references:
+  mobygames: https://www.mobygames.com/game/24661/the-fantasy-collection/
 files:
 - name: PC\
   size: 0
-  date: '2016-02-07T10:50:30'
+  date: '1995-05-18T12:26:52'
 - name: PC\FANTASY\
   size: 0
-  date: '2016-02-07T10:50:30'
+  date: '1995-05-17T14:57:36'
 - name: PC\FANTASY\DATA\
   size: 0
-  date: '2016-02-07T10:50:30'
+  date: '1995-05-04T20:16:14'
 - name: PC\FANTASY\DATA\ENCHANTE.DAT
   size: 122880
   date: '1995-06-01T11:00:00'
@@ -66,7 +71,7 @@ files:
   crc: '0x723eb6e8'
 - name: PC\FANTASY\SEASTALK\
   size: 0
-  date: '2016-02-07T10:50:30'
+  date: '1995-05-17T14:57:10'
 - name: PC\FANTASY\SEASTALK\SEASTALK.BAT
   size: 67
   date: '1995-05-17T18:32:18'
@@ -101,7 +106,7 @@ files:
   crc: '0x785ae18f'
 - name: PC\FANTASY\WISHBRIN\
   size: 0
-  date: '2016-02-07T10:50:30'
+  date: '1995-05-17T14:57:24'
 - name: PC\FANTASY\WISHBRIN\SETUP.INF
   size: 3
   date: '1995-06-01T11:00:00'
@@ -156,7 +161,7 @@ files:
   crc: '0x74f729cf'
 - name: PC\WININST\
   size: 0
-  date: '2016-02-07T10:50:30'
+  date: '1995-05-18T12:26:52'
 - name: PC\WININST\DIALOGS.DLL
   size: 18192
   date: '1995-06-01T11:00:00'
