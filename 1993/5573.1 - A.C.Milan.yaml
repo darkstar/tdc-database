@@ -1,0 +1,50 @@
+filename: Campioni (Installer) (It) (1993)(Simulmondo) [Simulation, Sports].zip
+tdc_id: '5573.1'
+parent_id: '5573.0'
+title:
+  box: Campioni
+  screen: A.C.Milan
+  qualifier: Installer
+publisher: Simulmondo
+year: '1993'
+genre:
+- Simulation
+- Sports
+language: Italian
+date:
+  added: '2024-08-02T16:51:47'
+  last_modified: '2024-08-02T16:51:47'
+type: zip
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: 1.U
+  size: 537531
+  date: '1993-05-05T10:10:38'
+  crc: '0xbb5a62b3'
+- name: 2.U
+  size: 303500
+  date: '1993-05-05T10:12:22'
+  crc: '0xc8e32096'
+- name: ANI1.ANI
+  size: 22628
+  date: '1993-01-13T12:03:58'
+  crc: '0xf6abdb0a'
+- name: GENE.CHV
+  size: 3591
+  date: '1992-12-15T17:05:14'
+  crc: '0x2741b47a'
+- name: INSTALL.DAT
+  size: 3711
+  date: '1993-05-05T09:20:44'
+  crc: '0x5c714844'
+- name: INSTALL.EXE
+  size: 29447
+  date: '1993-02-15T12:47:58'
+  crc: '0xd2966045'
+- name: RESETTA.COM
+  size: 19
+  date: '1992-12-17T15:23:44'
+  crc: '0xc6a39750'

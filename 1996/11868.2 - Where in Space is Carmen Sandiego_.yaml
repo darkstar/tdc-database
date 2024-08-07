@@ -1,0 +1,190 @@
+filename: Where in Space is Carmen Sandiego_ v1.1 (1996)(Brøderbund Software, Inc.) [Educational, Adventure].zip
+tdc_id: '11868.2'
+parent_id: '11868.1'
+title:
+  box: Where in Space is Carmen Sandiego?
+publisher: Brøderbund Software, Inc.
+year: '1996'
+genre:
+- Educational
+- Adventure
+language: English
+date:
+  added: '2024-08-06T12:36:08'
+  last_modified: '2024-08-06T12:36:08'
+version: '1.1'
+type: zip
+media: CD-ROM
+commands:
+  play: CARMEN.EXE
+  setup: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/4847/where-in-space-is-carmen-sandiego-deluxe/
+files:
+- name: BD.EXE
+  size: 45750
+  date: '1996-02-01T10:16:48'
+  crc: '0x9aee2eb5'
+- name: CARMEN.EXE
+  size: 165647
+  date: '1996-02-01T10:16:48'
+  crc: '0x6a55a84d'
+- name: DIGISND.DAT
+  size: 718443
+  date: '1996-02-01T10:16:48'
+  crc: '0x870a956f'
+- name: DIGISND1.DAT
+  size: 779009
+  date: '1996-02-01T10:16:48'
+  crc: '0x34a216e1'
+- name: FLYBY.DAT
+  size: 591397
+  date: '1996-02-01T10:16:48'
+  crc: '0x02c2c69f'
+- name: FRAG.DAT
+  size: 730
+  date: '1996-02-01T10:16:48'
+  crc: '0xf49a9922'
+- name: GMIDI.DAT
+  size: 49566
+  date: '1996-02-01T10:16:48'
+  crc: '0x241591ea'
+- name: IBMDIGI.DAT
+  size: 44151
+  date: '1996-02-01T10:16:48'
+  crc: '0xbd0f466a'
+- name: IBMMIDI.DAT
+  size: 7099
+  date: '1996-02-01T10:16:48'
+  crc: '0x19b36a9b'
+- name: MFX.DAT
+  size: 17465
+  date: '1996-02-01T10:16:48'
+  crc: '0xd5bf78c7'
+- name: MIDISND.DAT
+  size: 181720
+  date: '1996-02-01T10:16:48'
+  crc: '0x8997e268'
+- name: OPEN.DAT
+  size: 449984
+  date: '1996-02-01T10:16:48'
+  crc: '0x3c3e8cc2'
+- name: PROGTALK.EXE
+  size: 104960
+  date: '1996-02-01T10:16:48'
+  crc: '0xd6629ce4'
+- name: ROSTER
+  size: 11565
+  date: '1996-02-01T10:16:48'
+  crc: '0x62d6320e'
+- name: SETUP.CFG
+  size: 2009
+  date: '1996-02-01T10:16:48'
+  crc: '0x2cde3635'
+- name: SETUP.EXE
+  size: 81746
+  date: '1996-02-01T10:16:48'
+  crc: '0x10c817c0'
+- name: SNDDRVRS\
+  size: 0
+  date: '2024-08-06T12:30:08'
+- name: SNDDRVRS\DDISNEY.DRV
+  size: 1200
+  date: '1996-02-01T22:16:32'
+  crc: '0xcf5842fe'
+- name: SNDDRVRS\DMVISION.DRV
+  size: 2448
+  date: '1996-02-01T22:16:32'
+  crc: '0xdf2af82a'
+- name: SNDDRVRS\DPS1.DRV
+  size: 784
+  date: '1996-02-01T22:16:32'
+  crc: '0xaa192fbd'
+- name: SNDDRVRS\DSBLAST.DRV
+  size: 2224
+  date: '1996-02-01T22:16:32'
+  crc: '0xcd3cbb47'
+- name: SNDDRVRS\DSB_PRO.DRV
+  size: 2224
+  date: '1996-02-01T22:16:32'
+  crc: '0x6188e98e'
+- name: SNDDRVRS\DTANDY.DRV
+  size: 1136
+  date: '1996-02-01T22:16:32'
+  crc: '0x42ec18d7'
+- name: SNDDRVRS\MADLIB.DRV
+  size: 2432
+  date: '1996-02-01T22:16:32'
+  crc: '0xaa7e458c'
+- name: SNDDRVRS\MCMS101.DRV
+  size: 624
+  date: '1996-02-01T22:16:32'
+  crc: '0xd3240f4f'
+- name: SNDDRVRS\MMPU401.DRV
+  size: 960
+  date: '1996-02-01T22:16:32'
+  crc: '0x9266640b'
+- name: SNDDRVRS\MMVISION.DRV
+  size: 2432
+  date: '1996-02-01T22:16:32'
+  crc: '0x2baf5d4c'
+- name: SNDDRVRS\MPS1.DRV
+  size: 1568
+  date: '1996-02-01T22:16:32'
+  crc: '0x236d93ca'
+- name: SNDDRVRS\MSBLAST.DRV
+  size: 2432
+  date: '1996-02-01T22:16:32'
+  crc: '0x11a5eb1e'
+- name: SNDDRVRS\MSB_PRO.DRV
+  size: 2432
+  date: '1996-02-01T22:16:32'
+  crc: '0x35da12e4'
+- name: SNDDRVRS\MTANDY.DRV
+  size: 1584
+  date: '1996-02-01T22:16:32'
+  crc: '0xc6dbcff4'
+- name: SNDDRVRS\PRESET32.DEF
+  size: 641
+  date: '1996-02-01T22:16:32'
+  crc: '0x31929fba'
+- name: SNDDRVRS\PRESET33.DEF
+  size: 2049
+  date: '1996-02-01T22:16:32'
+  crc: '0x0fe09e49'
+- name: SNDDRVRS\PRESET40.DEF
+  size: 21198
+  date: '1996-02-01T22:16:32'
+  crc: '0x1aa6c276'
+- name: SNDDRVRS\PRESET41.DEF
+  size: 646
+  date: '1996-02-01T22:16:32'
+  crc: '0xfef31a2a'
+- name: SPACE.DAT
+  size: 885452
+  date: '1996-02-01T10:16:48'
+  crc: '0xac70c393'
+- name: SPACE.ICO
+  size: 766
+  date: '1996-02-01T10:16:48'
+  crc: '0xe5f481a9'
+- name: SPACE.PIF
+  size: 545
+  date: '1996-02-01T10:16:48'
+  crc: '0xf24ef114'
+- name: SPACE1.DAT
+  size: 663281
+  date: '1996-02-01T10:16:48'
+  crc: '0xab1b496c'
+- name: SPACE2.DAT
+  size: 297666
+  date: '1996-02-01T10:16:48'
+  crc: '0x73087739'
+- name: STRINGS.DAT
+  size: 435942
+  date: '1996-02-01T10:16:48'
+  crc: '0xdc088c48'
+- name: VAL.DAT
+  size: 435930
+  date: '1996-02-01T10:16:48'
+  crc: '0xe7818837'

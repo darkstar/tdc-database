@@ -1,5 +1,6 @@
-filename: Bureaucracy r116 (1987)(Infocom, Inc.) [IMA][360k].zip
+filename: Bureaucracy r116 (1987)(Infocom, Inc.) [IMA][360k][!].zip
 tdc_id: '12877.3'
+parent_id: '12877.6'
 title:
   box: Bureaucracy
 publisher: Infocom, Inc.
@@ -8,12 +9,16 @@ genre: IMA
 language: English
 date:
   added: '2023-02-24T13:59:14'
-  last_modified: '2023-02-24T13:59:14'
+  last_modified: '2024-08-02T13:33:39'
 release: '116'
 type: IMA
+tags:
+- KnownGood
 media: 360K
+references:
+  mobygames: https://www.mobygames.com/game/474/bureaucracy/
 files:
-- name: disk1.ima
+- name: Disk1.ima
   size: 368640
-  date: '2010-11-27T19:11:36'
+  date: '2024-07-31T18:24:02'
   crc: '0x6ee288b9'

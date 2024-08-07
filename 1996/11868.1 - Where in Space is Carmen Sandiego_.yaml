@@ -1,0 +1,52 @@
+filename: Where in Space is Carmen Sandiego_ v1.1 (Installer) (1996)(Brøderbund Software, Inc.) [Educational, Adventure].zip
+tdc_id: '11868.1'
+parent_id: '11868.0'
+title:
+  box: Where in Space is Carmen Sandiego?
+  qualifier: Installer
+publisher: Brøderbund Software, Inc.
+year: '1996'
+genre:
+- Educational
+- Adventure
+language: English
+date:
+  added: '2024-08-06T12:34:42'
+  last_modified: '2024-08-06T12:34:42'
+version: '1.1'
+type: zip
+media: CD-ROM
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/4847/where-in-space-is-carmen-sandiego-deluxe/
+files:
+- name: INSTALL.EXE
+  size: 5091
+  date: '1994-04-07T01:10:00'
+  crc: '0x26c0e350'
+- name: SETUP.CFG
+  size: 2009
+  date: '1996-02-01T10:16:56'
+  crc: '0x2cde3635'
+- name: SETUP.EXE
+  size: 81746
+  date: '1996-01-31T14:19:34'
+  crc: '0x10c817c0'
+- name: SPACE1
+  size: 1350144
+  date: '1994-04-07T01:10:00'
+  crc: '0xf41359ea'
+- name: SPACE2
+  size: 1457664
+  date: '1994-04-07T01:10:00'
+  crc: '0x9fcd2349'
+- name: SPACE3
+  size: 1457664
+  date: '1994-04-07T01:10:00'
+  crc: '0xb52fb767'
+- name: SPACE4
+  size: 1446932
+  date: '1994-04-07T01:10:00'
+  crc: '0x505c3306'

@@ -1,4 +1,4 @@
-filename: Powerboat USA- Offshore Superboat Racing [h1] (1990)(Accolade, Inc.) [Action, Simulation, Racing - Driving].zip
+filename: Powerboat USA- Offshore Superboat Racing (1990)(Accolade, Inc.) [Action, Simulation, Racing - Driving].zip
 tdc_id: '9561.0'
 parent_id: '9561.1'
 title:
@@ -13,12 +13,11 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:33:38'
-  last_modified: '2023-04-26T10:29:34'
+  last_modified: '2024-08-03T08:00:40'
 type: zip
-tags:
-- Hack: 1
+media: 720K
 commands:
-  play: PBOAT.EXE
+  play: POWERB.EXE
 references:
   mobygames: https://www.mobygames.com/game/54190/heat-wave-offshore-superboat-racing/
 files:
@@ -49,7 +48,7 @@ files:
 - name: POWERB.EXE
   size: 79381
   date: '1990-03-14T14:38:00'
-  crc: '0x17962964'
+  crc: '0xad2072ee'
 - name: POWERB.EX_
   size: 79381
   date: '1990-03-14T14:38:00'

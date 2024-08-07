@@ -1,0 +1,42 @@
+filename: Network Q RAC Rally v1.3 (Installer) (It) (1995)(Europress Software Ltd.) [Racing - Driving, Sports].zip
+tdc_id: '8440.23'
+parent_id: '8440.22'
+title:
+  box: Network Q RAC Rally
+  qualifier: Installer
+publisher: Europress Software Ltd.
+year: '1995'
+genre:
+- Racing - Driving
+- Sports
+language: Italian
+date:
+  added: '2024-08-05T07:43:21'
+  last_modified: '2024-08-05T07:43:21'
+version: '1.3'
+type: zip
+media: CD-ROM
+installer: true
+audio:
+- CD-DA
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/27962/network-q-rac-rally/
+files:
+- name: INSTALL.CFG
+  size: 952
+  date: '1995-10-04T15:29:04'
+  crc: '0x8d4c4966'
+- name: INSTALL.EXE
+  size: 56934
+  date: '1994-03-18T02:05:00'
+  crc: '0x14417964'
+- name: RALIT.SHR
+  size: 5194330
+  date: '1995-10-04T15:14:04'
+  crc: '0x6cd957fe'
+- name: RALITSAV.SHR
+  size: 14267
+  date: '1995-10-04T15:14:40'
+  crc: '0xd411294d'

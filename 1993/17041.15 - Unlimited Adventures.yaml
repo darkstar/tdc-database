@@ -1,5 +1,6 @@
-filename: Unlimited Adventures v1.2 (1993)(Strategic Simulations, Inc.) [IMA][1440k][!].zip
+filename: Unlimited Adventures v1.2 (1993)(Strategic Simulations, Inc.) [IMA][720k-1440k][!].zip
 tdc_id: '17041.15'
+parent_id: '17041.16'
 title:
   box: Unlimited Adventures
 publisher: Strategic Simulations, Inc.
@@ -8,12 +9,16 @@ genre: IMA
 language: English
 date:
   added: '2023-02-27T10:37:42'
-  last_modified: '2023-02-27T10:37:42'
+  last_modified: '2024-08-05T08:42:04'
 version: '1.2'
 type: IMA
 tags:
 - KnownGood
-media: 1.44M
+media:
+- 720K
+- 1.44M
+references:
+  mobygames: https://www.mobygames.com/game/710/unlimited-adventures/
 files:
 - name: Disk1.ima
   size: 737280

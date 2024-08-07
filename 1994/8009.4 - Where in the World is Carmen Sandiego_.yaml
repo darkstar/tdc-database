@@ -1,0 +1,66 @@
+filename: Where in the World is Carmen Sandiego_ v2.0 (Installer) (1994)(Brøderbund Software, Inc.) [Educational, Adventure].zip
+tdc_id: '8009.4'
+title:
+  box: Where in the World is Carmen Sandiego?
+  qualifier: Installer
+publisher: Brøderbund Software, Inc.
+year: '1994'
+genre:
+- Educational
+- Adventure
+language: English
+date:
+  added: '2019-03-02T07:19:28'
+  last_modified: '2024-08-06T11:54:46'
+version: '2.0'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/8195/where-in-the-world-is-carmen-sandiego-deluxe-edition/
+files:
+- name: 'CWORLD #.1'
+  size: 0
+  date: '1994-07-18T15:37:42'
+- name: 'CWORLD #.2'
+  size: 0
+  date: '1994-07-18T15:38:04'
+- name: 'CWORLD #.3'
+  size: 0
+  date: '1994-07-18T15:38:38'
+- name: 'CWORLD #.4'
+  size: 0
+  date: '1994-07-18T15:39:10'
+- name: INSTALL.EXE
+  size: 5091
+  date: '1994-07-18T02:00:00'
+  crc: '0x26c0e350'
+- name: README.TXT
+  size: 4462
+  date: '1994-07-18T02:00:00'
+  crc: '0xa622bd1b'
+- name: SETUP.CFG
+  size: 2335
+  date: '1994-07-18T02:00:00'
+  crc: '0xb6be3473'
+- name: SETUP.EXE
+  size: 78184
+  date: '1994-07-18T02:00:00'
+  crc: '0xa563f45c'
+- name: WORLD1
+  size: 1357664
+  date: '1994-07-18T02:00:00'
+  crc: '0x76e606ca'
+- name: WORLD2
+  size: 1457664
+  date: '1994-07-18T02:00:00'
+  crc: '0x2ad545db'
+- name: WORLD3
+  size: 1457664
+  date: '1994-07-18T02:00:00'
+  crc: '0xb2b75411'
+- name: WORLD4
+  size: 614237
+  date: '1994-07-18T02:00:00'
+  crc: '0x60f24df1'
