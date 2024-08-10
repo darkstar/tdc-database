@@ -1,5 +1,6 @@
-filename: Armor Alley v1.1 (1992)(Three-Sixty Pacific, Inc.) [Action, Strategy].zip
+filename: Armor Alley v1.1 r920807 (1992)(Three-Sixty Pacific, Inc.) [Action, Strategy][!].zip
 tdc_id: '8777.1'
+parent_id: '8777.3'
 title:
   box: Armor Alley
 publisher: Three-Sixty Pacific, Inc.
@@ -10,9 +11,12 @@ genre:
 language: English
 date:
   added: '2023-06-07T07:27:47'
-  last_modified: '2023-06-07T07:27:47'
+  last_modified: '2024-08-09T17:46:18'
 version: '1.1'
+release: '920807'
 type: zip
+tags:
+- KnownGood
 media: 360K
 commands:
   play: AA.EXE
@@ -35,7 +39,17 @@ files:
   size: 36591
   date: '1991-04-16T14:56:06'
   crc: '0x70718fd9'
+- name: AA DISK.1
+  size: 0
+  date: '1992-08-07T11:12:20'
+- name: AA DISK.2
+  size: 0
+  date: '1992-08-07T11:16:14'
 - name: AA.EXE
+  size: 265758
+  date: '1992-08-07T10:14:18'
+  crc: '0xa9c514b0'
+- name: AA.EX_
   size: 265758
   date: '1992-08-07T10:14:18'
   crc: '0xda6e7bf5'

@@ -1,5 +1,6 @@
-filename: Scoop, The (1989)(Spinnaker Software Corporation) [Adventure].zip
+filename: Scoop, The (1989)(Spinnaker Software Corporation) [Adventure][!].zip
 tdc_id: '5804.0'
+parent_id: '5804.1'
 title:
   box: The Scoop
 publisher: Spinnaker Software Corporation
@@ -8,52 +9,22 @@ genre: Adventure
 language: English
 date:
   added: '2019-03-01T18:28:52'
-  last_modified: '2019-03-01T18:28:52'
+  last_modified: '2024-08-09T20:13:38'
 type: zip
+tags:
+- KnownGood
+media: 720K
+commands:
+  play: SCOOP.EXE
 references:
+  mobygames: https://www.mobygames.com/game/4795/the-scoop/
   dosid: DOS04427
   exodos: Scoop, The (1989).zip
 files:
-- name: '#1.SCP'
-  size: 1083
-  date: '1995-11-14T06:49:44'
-  crc: '0xd043e9c8'
-- name: '#2.SCP'
-  size: 1083
-  date: '1995-11-14T07:09:04'
-  crc: '0x8c65530f'
-- name: BETTER.SCP
-  size: 1083
-  date: '1995-12-13T07:42:18'
-  crc: '0xecf333bb'
-- name: BRETT
-  size: 3858
-  date: '1996-01-25T12:25:48'
-  crc: '0x35e304e6'
-- name: CRAPNEW.SCP
-  size: 1083
-  date: '1995-12-13T07:34:44'
-  crc: '0x82612a1d'
-- name: DANGER.SCP
-  size: 1083
-  date: '1995-11-07T12:29:14'
-  crc: '0xcb58f2cc'
-- name: EVENING.SCP
-  size: 1083
-  date: '1995-11-07T07:41:52'
-  crc: '0x6abb08eb'
-- name: FIRST.SCP
-  size: 1083
-  date: '1995-11-07T06:20:42'
-  crc: '0xfcd05541'
 - name: INSTALL.BAT
   size: 1502
   date: '1989-01-20T16:17:40'
   crc: '0x46cdbd21'
-- name: MANALIVE.SCP
-  size: 1083
-  date: '1995-12-13T07:32:22'
-  crc: '0x89faffd1'
 - name: SCAPIX
   size: 212462
   date: '1988-11-19T19:21:40'
@@ -70,11 +41,11 @@ files:
   size: 79251
   date: '1989-01-19T11:13:02'
   crc: '0x7084930e'
+- name: SCOOP.EX_
+  size: 79251
+  date: '1989-01-19T11:13:02'
+  crc: '0x5f73f914'
 - name: TITLE1.PAK
   size: 9237
   date: '1989-01-04T11:24:06'
   crc: '0xab2d2c99'
-- name: WAIT.SCP
-  size: 1083
-  date: '1995-11-07T07:47:46'
-  crc: '0xe7a05f60'

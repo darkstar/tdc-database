@@ -1,0 +1,163 @@
+filename: Where in the World is Carmen Sandiego_ Deluxe Edition CD v1.2 (1993)(Brøderbund Software, Inc.) [Adventure, Educational].zip
+tdc_id: '17628.14'
+parent_id: '17628.13'
+title:
+  box: Where in the World is Carmen Sandiego_
+  qualifier: Deluxe Edition CD
+publisher: Brøderbund Software, Inc.
+year: '1993'
+genre:
+- Adventure
+- Educational
+language: English
+date:
+  added: '2024-08-07T12:29:38'
+  last_modified: '2024-08-07T12:29:38'
+version: '1.2'
+type: zip
+media: CD-ROM
+commands:
+  play: CARMEN.EXE
+  setup: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/8195/where-in-the-world-is-carmen-sandiego-deluxe-edition/covers/
+files:
+- name: AUDIO.DAT
+  size: 27133037
+  date: '2024-08-07T17:22:40'
+  crc: '0xf98eba12'
+- name: CARMEN.DAT
+  size: 18982506
+  date: '2024-08-07T17:22:40'
+  crc: '0xa81f9331'
+- name: CARMEN.EXE
+  size: 188631
+  date: '2024-08-07T17:22:40'
+  crc: '0x7ae6a637'
+- name: CHKCD.EXE
+  size: 18111
+  date: '2024-08-07T17:22:40'
+  crc: '0x41458613'
+- name: COUNTRY.DAT
+  size: 30914355
+  date: '2024-08-07T17:22:42'
+  crc: '0xf7f1c21f'
+- name: COUNTRY2.DAT
+  size: 25402726
+  date: '2024-08-07T17:22:42'
+  crc: '0x5cf769b0'
+- name: COUNTRY3.DAT
+  size: 31463783
+  date: '2024-08-07T17:22:42'
+  crc: '0x559b6be3'
+- name: DANGER.DAT
+  size: 933897
+  date: '2024-08-07T17:22:42'
+  crc: '0xe221a2b5'
+- name: DELUXE.ICO
+  size: 766
+  date: '2024-08-07T17:22:42'
+  crc: '0x96b6dece'
+- name: DELUXE.PIF
+  size: 545
+  date: '2024-08-07T17:22:42'
+  crc: '0x5657c3b5'
+- name: ENDS.DAT
+  size: 844872
+  date: '2024-08-07T17:22:42'
+  crc: '0x84bcd383'
+- name: HENCH.DAT
+  size: 1125702
+  date: '2024-08-07T17:22:42'
+  crc: '0x0b73ac13'
+- name: INSTALL.EXE
+  size: 5091
+  date: '2024-08-07T17:22:42'
+  crc: '0x26c0e350'
+- name: PROGTALK.EXE
+  size: 104960
+  date: '2024-08-07T17:22:42'
+  crc: '0x7f157d9b'
+- name: SETUP.CFG
+  size: 1893
+  date: '2024-08-07T17:22:42'
+  crc: '0x17fb2bd3'
+- name: SETUP.EXE
+  size: 81697
+  date: '2024-08-07T17:22:42'
+  crc: '0x59a1c7e6'
+- name: SNDDRVRS\
+  size: 0
+  date: '2024-08-07T17:22:42'
+- name: SNDDRVRS\DMVISION.DRV
+  size: 2448
+  date: '2024-08-07T17:22:42'
+  crc: '0xdf2af82a'
+- name: SNDDRVRS\DPS1.DRV
+  size: 784
+  date: '2024-08-07T17:22:42'
+  crc: '0xaa192fbd'
+- name: SNDDRVRS\DSBLAST.DRV
+  size: 2224
+  date: '2024-08-07T17:22:42'
+  crc: '0x125b6ce3'
+- name: SNDDRVRS\DSB_PRO.DRV
+  size: 2224
+  date: '2024-08-07T17:22:42'
+  crc: '0xbeef3e2a'
+- name: SNDDRVRS\DTANDY.DRV
+  size: 1136
+  date: '2024-08-07T17:22:42'
+  crc: '0x42ec18d7'
+- name: SNDDRVRS\MADLIB.DRV
+  size: 2432
+  date: '2024-08-07T17:22:42'
+  crc: '0xaa7e458c'
+- name: SNDDRVRS\MCMS101.DRV
+  size: 624
+  date: '2024-08-07T17:22:42'
+  crc: '0xd3240f4f'
+- name: SNDDRVRS\MMPU401.DRV
+  size: 960
+  date: '2024-08-07T17:22:42'
+  crc: '0x9266640b'
+- name: SNDDRVRS\MMVISION.DRV
+  size: 2432
+  date: '2024-08-07T17:22:42'
+  crc: '0x2baf5d4c'
+- name: SNDDRVRS\MPS1.DRV
+  size: 1568
+  date: '2024-08-07T17:22:42'
+  crc: '0x236d93ca'
+- name: SNDDRVRS\MSBLAST.DRV
+  size: 2432
+  date: '2024-08-07T17:22:42'
+  crc: '0x11a5eb1e'
+- name: SNDDRVRS\MSB_PRO.DRV
+  size: 2432
+  date: '2024-08-07T17:22:42'
+  crc: '0x35da12e4'
+- name: SNDDRVRS\MTANDY.DRV
+  size: 1584
+  date: '2024-08-07T17:22:42'
+  crc: '0xc6dbcff4'
+- name: SNDDRVRS\PRESET32.DEF
+  size: 521
+  date: '2024-08-07T17:22:42'
+  crc: '0x1c061cfe'
+- name: SNDDRVRS\PRESET33.DEF
+  size: 2049
+  date: '2024-08-07T17:22:42'
+  crc: '0x40707fa8'
+- name: SNDDRVRS\PRESET40.DEF
+  size: 20620
+  date: '2024-08-07T17:22:42'
+  crc: '0x635321e8'
+- name: SOURCE.DAT
+  size: 133261
+  date: '2024-08-07T17:22:42'
+  crc: '0x8f08c81f'
+- name: SOURCE.EXE
+  size: 61305
+  date: '2024-08-07T17:22:42'
+  crc: '0xbcbb66eb'

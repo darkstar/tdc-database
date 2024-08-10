@@ -1,0 +1,82 @@
+filename: Armor Alley v1.1 r921113 (1992)(Three-Sixty Pacific, Inc.) [Action, Strategy].zip
+tdc_id: '8777.6'
+parent_id: '8777.5'
+title:
+  box: Armor Alley
+publisher: Three-Sixty Pacific, Inc.
+year: '1992'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2024-08-09T17:32:52'
+  last_modified: '2024-08-09T17:32:52'
+version: '1.1'
+release: '921113'
+type: zip
+media: 720K
+commands:
+  play: AA.EXE
+references:
+  mobygames: https://www.mobygames.com/game/101/armor-alley/
+files:
+- name: 1BIT.SHP
+  size: 49552
+  date: '1990-11-19T19:22:32'
+  crc: '0x0644aac3'
+- name: 2BIT.SHP
+  size: 27182
+  date: '1991-04-16T14:56:00'
+  crc: '0x76856fed'
+- name: 4BIT.SHP
+  size: 123879
+  date: '1990-11-21T23:28:20'
+  crc: '0xc80d1309'
+- name: 4BITL.SHP
+  size: 36591
+  date: '1991-04-16T14:56:06'
+  crc: '0x70718fd9'
+- name: AA.EXE
+  size: 265758
+  date: '1992-11-13T11:31:38'
+  crc: '0xdb8123d3'
+- name: AA.EX_
+  size: 265758
+  date: '1992-11-13T11:31:38'
+  crc: '0xa82a4c96'
+- name: ARMOR AL.LEY
+  size: 0
+  date: '1992-11-13T12:28:32'
+- name: ARMOR.CFG
+  size: 9
+  date: '1992-11-13T12:40:50'
+  crc: '0x952346dc'
+- name: COLSN.SHP
+  size: 24779
+  date: '1990-11-19T19:22:30'
+  crc: '0x601fd13d'
+- name: PICTS.RES
+  size: 16464
+  date: '1991-05-12T23:56:12'
+  crc: '0xa7f32761'
+- name: SOUNDS.AME
+  size: 868
+  date: '1991-04-11T18:19:26'
+  crc: '0xfef33874'
+- name: SOUNDS.RES
+  size: 31777
+  date: '1992-11-13T12:41:26'
+  crc: '0xf69b4df0'
+- name: SOUNDS.SED
+  size: 1046
+  date: '1991-04-10T17:12:34'
+  crc: '0x989887be'
+- name: STALKER.RES
+  size: 61347
+  date: '1991-05-30T10:16:58'
+  crc: '0xbffc0219'
+- name: SYSTEM.RES
+  size: 13626
+  date: '1991-04-24T22:49:30'
+  crc: '0xbd854153'

@@ -1,0 +1,48 @@
+filename: Where in the World is Carmen Sandiego_ Enhanced v2.3 (1992)(Brøderbund Software, Inc.) [Adventure, Educational].zip
+tdc_id: '8009.9'
+title:
+  box: Where in the World is Carmen Sandiego_ Enhanced
+publisher: Brøderbund Software, Inc.
+year: '1992'
+genre:
+- Adventure
+- Educational
+language: English
+date:
+  added: '2019-03-01T18:52:24'
+  last_modified: '2019-03-01T18:52:24'
+version: '2.3'
+type: zip
+commands:
+  play: CARMEN.EXE
+references:
+  mobygames: https://www.mobygames.com/game/4848/where-in-the-world-is-carmen-sandiego-enhanced/
+files:
+- name: ACME.DAT
+  size: 2112
+  date: '1994-10-27T09:15:00'
+  crc: '0xeb0516af'
+- name: CARMEN.DAT
+  size: 102125
+  date: '1992-02-20T00:00:00'
+  crc: '0xe0f2ce90'
+- name: CARMEN.EXE
+  size: 120912
+  date: '1992-02-20T00:00:00'
+  crc: '0x5665f295'
+- name: CARMEN.EX_
+  size: 117387
+  date: '1992-02-20T00:00:00'
+  crc: '0x12857448'
+- name: CITIES.DAT
+  size: 168341
+  date: '1992-02-20T00:00:00'
+  crc: '0x2d23839b'
+- name: DIGISND.DAT
+  size: 82828
+  date: '1992-02-20T00:00:00'
+  crc: '0x43505abb'
+- name: MIDISND.DAT
+  size: 7548
+  date: '1992-02-20T00:00:00'
+  crc: '0x72f1096c'

@@ -1,5 +1,6 @@
 filename: Armor Alley v1.1 (1991)(Three-Sixty Pacific, Inc.) [Action, Strategy].zip
 tdc_id: '8777.0'
+parent_id: '8777.4'
 title:
   box: Armor Alley
 publisher: Three-Sixty Pacific, Inc.
@@ -39,6 +40,10 @@ files:
   size: 265758
   date: '1991-06-13T01:07:04'
   crc: '0xbe99d61b'
+- name: AA.EX_
+  size: 265758
+  date: '1991-06-13T01:07:04'
+  crc: '0xcd32b95e'
 - name: COLSN.SHP
   size: 24779
   date: '1990-11-19T19:22:30'
@@ -47,18 +52,14 @@ files:
   size: 16464
   date: '1991-05-12T23:56:12'
   crc: '0xa7f32761'
-- name: PREFS.RES
-  size: 1397
-  date: '1997-04-16T22:44:18'
-  crc: '0x85802333'
 - name: SOUNDS.AME
   size: 868
   date: '1991-04-11T18:19:26'
   crc: '0xfef33874'
 - name: SOUNDS.RES
   size: 31777
-  date: '1997-04-16T22:43:48'
-  crc: '0x777e1cb4'
+  date: '1991-06-13T12:35:46'
+  crc: '0x05e6d756'
 - name: SOUNDS.SED
   size: 1046
   date: '1991-04-10T17:12:34'

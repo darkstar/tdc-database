@@ -1,4 +1,4 @@
-filename: Double Dragon [a2] (1988)(Arcadia Systems, Inc.) [Action][!].zip
+filename: Double Dragon r881014 (1988)(Arcadia Systems, Inc.) [Action].zip
 tdc_id: '5317.2'
 title:
   box: Double Dragon
@@ -8,11 +8,13 @@ genre: Action
 language: English
 date:
   added: '2019-03-01T18:26:06'
-  last_modified: '2019-03-01T18:26:06'
+  last_modified: '2024-08-08T14:17:14'
+release: '881014'
 type: zip
-tags:
-- KnownGood
-- Alternate: 2
+commands:
+  play: DRAGON.BAT
+references:
+  mobygames: https://www.mobygames.com/game/1839/double-dragon/
 files:
 - name: ABOBO.EG1
   size: 16362

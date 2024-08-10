@@ -1,0 +1,92 @@
+filename: Where in the World is Carmen Sandiego_ Deluxe Edition CD v1.1 (1992)(Brøderbund Software, Inc.) [Adventure, Educational].zip
+tdc_id: '17628.12'
+parent_id: '17628.11'
+title:
+  box: Where in the World is Carmen Sandiego_
+  qualifier: Deluxe Edition CD
+publisher: Brøderbund Software, Inc.
+year: '1992'
+genre:
+- Adventure
+- Educational
+language: English
+date:
+  added: '2024-08-07T12:16:37'
+  last_modified: '2024-08-07T12:16:37'
+version: '1.1'
+type: zip
+media: CD-ROM
+commands:
+  play: CARMEN.EXE
+  setup: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/8195/where-in-the-world-is-carmen-sandiego-deluxe-edition/covers/
+files:
+- name: APPLESHARE_PDS
+  size: 30720
+  date: '2024-08-07T17:04:54'
+  crc: '0x792b24a6'
+- name: AUDIO.DAT
+  size: 27133167
+  date: '2024-08-07T17:04:56'
+  crc: '0xd80ef5d4'
+- name: CARMEN.DAT
+  size: 18982711
+  date: '2024-08-07T17:04:56'
+  crc: '0x8575293e'
+- name: CARMEN.EXE
+  size: 145369
+  date: '2024-08-07T17:04:56'
+  crc: '0xdfbcaea6'
+- name: CONEDIT.COM
+  size: 10996
+  date: '2024-08-07T17:04:56'
+  crc: '0x6b919f7a'
+- name: COUNTRY.DAT
+  size: 30914355
+  date: '2024-08-07T17:04:56'
+  crc: '0xf7f1c21f'
+- name: COUNTRY2.DAT
+  size: 25402726
+  date: '2024-08-07T17:04:56'
+  crc: '0x5cf769b0'
+- name: COUNTRY3.DAT
+  size: 31463783
+  date: '2024-08-07T17:04:56'
+  crc: '0x559b6be3'
+- name: DANGER.DAT
+  size: 933897
+  date: '2024-08-07T17:04:56'
+  crc: '0xe221a2b5'
+- name: ENDS.DAT
+  size: 844872
+  date: '2024-08-07T17:04:56'
+  crc: '0x84bcd383'
+- name: HENCH.DAT
+  size: 1125702
+  date: '2024-08-07T17:04:56'
+  crc: '0x0b73ac13'
+- name: README.BAT
+  size: 27
+  date: '2024-08-07T17:04:56'
+  crc: '0x19d22d8b'
+- name: README.TXT
+  size: 8655
+  date: '2024-08-07T17:04:56'
+  crc: '0xe095a800'
+- name: SETUP.CFG
+  size: 536
+  date: '2024-08-07T17:04:56'
+  crc: '0x6fc5cb17'
+- name: SETUP.EXE
+  size: 35709
+  date: '2024-08-07T17:04:56'
+  crc: '0x76528982'
+- name: SOURCE.DAT
+  size: 133267
+  date: '2024-08-07T17:04:56'
+  crc: '0x4967cb4f'
+- name: SOURCE.EXE
+  size: 231455
+  date: '2024-08-07T17:04:56'
+  crc: '0x9a43c558'
