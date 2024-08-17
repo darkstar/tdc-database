@@ -1,15 +1,24 @@
-filename: Battle Isle '93 - The Moon of Chromos (1993)(Blue Byte Software GmbH) [Strategy].zip
-tdc_id: '12488.0'
+filename: Battle Isle Data Disk II- Der Mond von Cromos (1993)(Blue Byte Software GmbH) [Strategy, Addon].zip
+tdc_id: '12488.3'
+parent_id: '12488.2'
 title:
-  box: Battle Isle '93 - The Moon of Chromos
+  box: 'Battle Isle Data Disk II: Der Mond'
 publisher: Blue Byte Software GmbH
 year: '1993'
-genre: Strategy
+genre:
+- Strategy
+- Addon
 language: English
 date:
-  added: '2019-03-01T19:01:20'
-  last_modified: '2019-03-01T19:01:20'
+  added: '2024-08-10T08:38:14'
+  last_modified: '2024-08-10T11:29:17'
+version: on Cromos
 type: zip
+media: 1.44M
+commands:
+  play: MOND.EXE
+references:
+  mobygames: https://www.mobygames.com/game/6755/battle-isle-93-the-moon-of-chromos/
 files:
 - name: 00.PAL
   size: 422
@@ -29,7 +38,7 @@ files:
   crc: '0x47776d59'
 - name: ANIM\
   size: 0
-  date: '1999-02-09T22:49:36'
+  date: '1993-03-31T17:02:22'
 - name: ANIM\AB.FX
   size: 65
   date: '1991-11-15T20:56:12'
@@ -127,9 +136,9 @@ files:
   date: '1993-03-09T15:44:00'
   crc: '0x6d26cb8b'
 - name: BIMOND.LST
-  size: 6293
-  date: '1993-05-10T14:56:06'
-  crc: '0xa158905c'
+  size: 6294
+  date: '1993-03-31T17:17:04'
+  crc: '0x1a711741'
 - name: CHAR6.DAT
   size: 1367
   date: '1993-03-09T15:44:00'
@@ -175,16 +184,16 @@ files:
   date: '1993-03-09T15:44:00'
   crc: '0x92627d0d'
 - name: INST.DAT
-  size: 918
-  date: '1993-04-28T12:21:22'
-  crc: '0x94f1ff1f'
+  size: 1115
+  date: '1993-03-31T17:14:36'
+  crc: '0xcc5553d3'
 - name: INSTALL.EXE
   size: 41040
   date: '1993-03-09T15:44:00'
   crc: '0xaaca44ad'
 - name: LIB\
   size: 0
-  date: '1999-02-09T22:49:36'
+  date: '1993-03-31T17:00:16'
 - name: LIB\BIGUNIT.LIB
   size: 32891
   date: '1993-03-09T15:06:46'
@@ -255,7 +264,7 @@ files:
   crc: '0x954e2b28'
 - name: MAP\
   size: 0
-  date: '1999-02-09T22:49:36'
+  date: '1993-03-31T17:00:34'
 - name: MAP\00.COM
   size: 134
   date: '1993-03-09T16:35:12'
@@ -644,18 +653,21 @@ files:
   size: 128
   date: '1993-03-09T15:44:00'
   crc: '0xbe3ad25f'
-- name: MOON.EXE
-  size: 216720
-  date: '1993-05-10T14:47:42'
-  crc: '0x97a7722a'
+- name: MOND
+  size: 0
+  date: '1993-03-31T16:56:00'
+- name: MOND.EXE
+  size: 216528
+  date: '1993-03-31T16:40:04'
+  crc: '0xac36cf89'
 - name: STATS.IFF
   size: 2105
   date: '1993-03-09T15:44:00'
   crc: '0x27d53b7f'
 - name: TITEL.IFF
-  size: 47602
-  date: '1993-04-28T11:25:02'
-  crc: '0xc7fa961b'
+  size: 13910
+  date: '1993-03-09T15:44:00'
+  crc: '0x9ae26eec'
 - name: TITEL.PND
   size: 8371
   date: '1993-03-09T15:44:00'

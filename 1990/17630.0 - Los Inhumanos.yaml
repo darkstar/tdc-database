@@ -14,6 +14,10 @@ type: zip
 commands:
   play: DISK.EXE
 files:
+- name: AUTOEXEC.BAT
+  size: 6
+  date: '1990-06-05T13:05:28'
+  crc: '0xdef64533'
 - name: DISK.EXE
   size: 105216
   date: '1990-06-05T13:52:20'
@@ -22,3 +26,7 @@ files:
   size: 105216
   date: '1990-06-05T13:52:20'
   crc: '0x2a49510e'
+- name: UNIDAD_B.EXE
+  size: 105216
+  date: '1990-06-05T12:56:02'
+  crc: '0xa374880f'

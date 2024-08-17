@@ -1,43 +1,52 @@
-filename: Wing Commander- Privateer - Righteous Fire (1994)(ORIGIN Systems, Inc.) [Simulation, Addon].zip
+filename: Wing Commander- Privateer - Righteous Fire (Installer) [f1] (1994)(ORIGIN Systems, Inc.) [Action, Simulation, Addon].zip
 tdc_id: '16044.0'
+parent_id: '16044.1'
 title:
   box: 'Wing Commander: Privateer - Righteous Fire'
+  qualifier: Installer
 publisher: ORIGIN Systems, Inc.
 year: '1994'
 genre:
+- Action
 - Simulation
 - Addon
 language: English
 date:
   added: '2019-03-02T07:19:30'
-  last_modified: '2019-03-02T07:19:30'
+  last_modified: '2024-08-10T11:40:12'
 type: zip
+tags:
+- Fixed: 1
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1577/privateer-righteous-fire/
 files:
-- name: INITRF.PAK
-  size: 881
-  date: '1994-01-21T18:05:12'
-  crc: '0x91ac092e'
-- name: PRSO.EXE
-  size: 935424
-  date: '1994-01-24T15:13:12'
-  crc: '0x2993cced'
-- name: PRSO.TRE
-  size: 2860063
-  date: '1994-01-21T17:38:16'
-  crc: '0x86263926'
-- name: README.TXT
-  size: 15964
-  date: '1994-01-12T10:22:00'
-  crc: '0x3f02cd7b'
-- name: RF.CFG
-  size: 92
-  date: '1993-11-17T16:54:02'
-  crc: '0xada63f26'
-- name: RF.EXE
-  size: 8325
-  date: '1993-11-04T17:05:24'
-  crc: '0x2e75d680'
-- name: TABTXE.NDA
-  size: 13519
-  date: '1994-01-17T18:50:42'
-  crc: '0x20d3d403'
+- name: INSTALL.EXE
+  size: 24144
+  date: '1994-01-11T15:10:26'
+  crc: '0x128b4a2d'
+- name: PKBACK#.001
+  size: 0
+  date: '1994-01-25T09:05:34'
+- name: PKBACK#.002
+  size: 0
+  date: '1994-01-25T09:05:58'
+- name: PKUNZIP.EXE
+  size: 29378
+  date: '1993-02-01T02:04:16'
+  crc: '0x00832770'
+- name: PRSO.ZI1
+  size: 1403392
+  date: '1994-01-25T09:05:32'
+  crc: '0x1bfb2c4b'
+- name: PRSO.ZI2
+  size: 280196
+  date: '1994-01-25T09:05:56'
+  crc: '0x2ceb5439'
+- name: PRSO.ZIP
+  size: 1683584
+  date: '1994-01-25T09:05:32'
+  crc: '0x44828302'

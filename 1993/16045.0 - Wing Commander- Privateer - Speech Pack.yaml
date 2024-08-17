@@ -1,7 +1,9 @@
-filename: Wing Commander- Privateer - Speech Pack (1993)(Electronic Arts, Inc.) [Action, Simulation, Addon].zip
+filename: Wing Commander- Privateer - Speech Pack (Installer) [f1] (1993)(Electronic Arts, Inc.) [Action, Simulation, Addon].zip
 tdc_id: '16045.0'
+parent_id: '16045.1'
 title:
   box: 'Wing Commander: Privateer - Speech Pack'
+  qualifier: Installer
 publisher: Electronic Arts, Inc.
 year: '1993'
 genre:
@@ -11,16 +13,46 @@ genre:
 language: English
 date:
   added: '2019-03-01T21:12:20'
-  last_modified: '2019-03-01T21:12:20'
+  last_modified: '2024-08-10T11:47:55'
 type: zip
+tags:
+- Fixed: 1
+installer: true
 commands:
   play: SPEECH.EXE
+references:
+  mobygames: https://www.mobygames.com/game/2085/wing-commander-privateer-speech-pack/
 files:
+- name: PKBACK#.001
+  size: 0
+  date: '1993-08-31T15:58:18'
+- name: PKBACK#.002
+  size: 0
+  date: '1993-08-31T16:00:26'
+- name: PKBACK#.003
+  size: 0
+  date: '1993-08-31T16:02:18'
+- name: PKUNZIP.EXE
+  size: 29378
+  date: '1993-02-01T02:04:16'
+  crc: '0x00832770'
 - name: SPEECH.EXE
   size: 35363
-  date: '1993-08-31T15:58:00'
+  date: '1993-08-31T16:20:02'
   crc: '0x128f2a70'
-- name: SPEECH.PAK
-  size: 6130358
-  date: '1993-08-31T15:58:00'
-  crc: '0xdd379a7a'
+- name: SPEECH.ZI1
+  size: 1392128
+  date: '1993-08-31T15:58:10'
+  crc: '0x15c9b35b'
+- name: SPEECH.ZI2
+  size: 1457664
+  date: '1993-08-31T16:00:18'
+  crc: '0x6e66f90f'
+- name: SPEECH.ZI3
+  size: 1210345
+  date: '1993-08-31T16:02:12'
+  crc: '0x049edb2a'
+- name: SPEECH.ZIP
+  size: 4060133
+  date: '1993-08-31T15:58:10'
+  crc: '0x35b3e4e4'

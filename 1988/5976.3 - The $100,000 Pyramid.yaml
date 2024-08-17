@@ -1,6 +1,5 @@
-filename: $100,000 Pyramid, The v1.3 (1988)(Box Office, Inc.) [Trivia].zip
-tdc_id: '5976.1'
-parent_id: '5976.2'
+filename: $100,000 Pyramid, The v1.2 (1988)(Box Office, Inc.) [Trivia].zip
+tdc_id: '5976.3'
 title:
   box: The $100,000 Pyramid
 publisher: Box Office, Inc.
@@ -8,21 +7,18 @@ year: '1988'
 genre: Trivia
 language: English
 date:
-  added: '1991-01-20T01:28:08'
-  last_modified: '2024-08-11T11:24:01'
-version: '1.3'
+  added: '2024-08-11T11:27:39'
+  last_modified: '2024-08-11T11:27:39'
+version: '1.2'
 type: zip
-media: 720K
 commands:
   play: GAME.BAT
 references:
   mobygames: https://www.mobygames.com/game/41732/the-100000-pyramid/
-  dosid: DOS00604
-  exodos: $100,000 Pyramid (1988).zip
 files:
 - name: BCAT.DAT
   size: 19589
-  date: '1988-01-25T17:47:32'
+  date: '1988-01-12T18:14:16'
   crc: '0xd412679e'
 - name: BO_SCR.PIC
   size: 16392
@@ -33,37 +29,37 @@ files:
   date: '1987-12-13T01:55:52'
   crc: '0x9f190bbf'
 - name: BO_TITLE.EXE
-  size: 9382
-  date: '1988-01-22T18:21:28'
-  crc: '0x3b8a6137'
+  size: 8870
+  date: '1987-12-16T11:45:28'
+  crc: '0x7b1b392c'
 - name: CAT.DAT
-  size: 34381
-  date: '1988-02-03T00:50:32'
-  crc: '0xedc8cfe2'
+  size: 11764
+  date: '1988-01-12T20:10:36'
+  crc: '0x440e6e4b'
 - name: FNT.PIC
   size: 16392
-  date: '1988-01-24T15:19:48'
-  crc: '0xd6e0cec8'
+  date: '1988-01-12T13:00:06'
+  crc: '0xcbbbae21'
 - name: GAME.BAT
   size: 30
   date: '1987-12-17T12:27:20'
   crc: '0x55082609'
 - name: PYRAMID.EXE
-  size: 57624
-  date: '1988-02-03T03:30:32'
-  crc: '0xd6424bb3'
+  size: 54476
+  date: '1988-01-15T10:09:42'
+  crc: '0xf9ddb79e'
 - name: PYRAMID.HLP
-  size: 4837
-  date: '1988-01-27T12:29:16'
-  crc: '0xb7831510'
+  size: 1619
+  date: '1988-01-12T15:40:58'
+  crc: '0xa6e34921'
 - name: PYRAMID.SCR
   size: 240
-  date: '1980-01-01T00:57:56'
-  crc: '0xd95d55d1'
+  date: '1988-01-15T10:19:56'
+  crc: '0x1e13fa74'
 - name: PYRAMID1.PIC
   size: 16392
-  date: '1988-01-24T14:14:34'
-  crc: '0x5985e785'
+  date: '1988-01-13T16:53:08'
+  crc: '0xfe81ea41'
 - name: PYRAMID2.PIC
   size: 16392
   date: '1987-12-14T17:18:00'
@@ -81,10 +77,10 @@ files:
   date: '1987-12-11T19:59:58'
   crc: '0xafbab816'
 - name: VERS.DAT
-  size: 88
-  date: '1980-01-01T00:53:12'
-  crc: '0xc8f36394'
+  size: 89
+  date: '1980-01-01T01:29:36'
+  crc: '0x828ce3b9'
 - name: WINNER.PIC
   size: 16392
-  date: '1988-01-18T17:11:08'
-  crc: '0x51c319b7'
+  date: '1988-01-14T16:50:18'
+  crc: '0x1a55c17e'
