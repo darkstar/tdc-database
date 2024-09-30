@@ -1,8 +1,9 @@
-filename: Power Drive (En)(De)(Fr)(It)(Es) (1994)(Back Alley Publishing) [Action, Racing - Driving].zip
+filename: Power Drive v1.00 (En)(De)(Fr)(It)(Es) (1994)(U.S. Gold Ltd.) [Action, Racing - Driving].zip
 tdc_id: '9923.0'
+parent_id: '9923.1'
 title:
-  screen: Power Drive
-publisher: Back Alley Publishing
+  box: Power Drive
+publisher: U.S. Gold Ltd.
 year: '1994'
 genre:
 - Action
@@ -15,1602 +16,1616 @@ language:
 - German
 date:
   added: '2019-03-01T22:02:48'
-  last_modified: '2019-03-01T22:02:48'
+  last_modified: '2024-09-26T08:31:09'
+version: '1.00'
 type: zip
+media: 1.44M
+commands:
+  play: PD.BAT
+  setup: SOUND.EXE
 references:
+  mobygames: https://www.mobygames.com/game/13017/power-drive/
   dosid: DOS03369
   exodos: Power Drive (1994).zip
 files:
 - name: BATCH1.BAT
   size: 22
-  date: '1995-03-13T18:24:04'
+  date: '1994-11-21T19:04:32'
   crc: '0x27b7551f'
 - name: BATCH2.BAT
   size: 129
-  date: '1995-03-13T18:24:04'
+  date: '1994-11-21T19:04:32'
   crc: '0xdbe92300'
 - name: EMUSET.EXE
   size: 10080
-  date: '1995-03-13T18:24:04'
+  date: '1994-11-21T19:04:32'
   crc: '0xfc56d7f0'
 - name: GAMESAVE\
   size: 0
-  date: '1995-09-13T13:34:36'
+  date: '1994-11-21T19:04:32'
+- name: GAMESAVE\DEFAULT.RAL
+  size: 2286
+  date: '1994-11-21T19:04:32'
+  crc: '0xc1a85adb'
 - name: G\
   size: 0
-  date: '1995-09-13T13:34:38'
+  date: '1994-11-21T19:04:32'
 - name: G\AST\
   size: 0
-  date: '1995-09-13T13:34:38'
+  date: '1994-11-21T19:04:32'
 - name: G\AST\AST.BIN
   size: 111
-  date: '1995-03-13T18:24:16'
+  date: '1994-11-21T19:04:32'
   crc: '0xd8d1911f'
 - name: G\AST\AST.DAT
   size: 36125
-  date: '1995-03-13T18:24:16'
+  date: '1994-11-21T19:04:32'
   crc: '0x02033b2d'
 - name: G\AST\AST.PAL
   size: 384
-  date: '1995-03-13T18:24:16'
+  date: '1994-11-21T19:04:32'
   crc: '0xdae58ea7'
 - name: G\AST\ASTTAB.BIN
   size: 216
-  date: '1995-03-13T18:24:16'
+  date: '1994-11-21T19:04:32'
   crc: '0x88af4eb1'
 - name: G\BITS\
   size: 0
-  date: '1995-09-13T13:34:38'
+  date: '1994-11-21T19:04:32'
 - name: G\BITS\ARDUST.DAT
   size: 1763
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0x99877914'
 - name: G\BITS\ARROWS.DAT
   size: 14504
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0xd981901a'
 - name: G\BITS\AUDUST.DAT
   size: 1763
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0x8ee0b50e'
 - name: G\BITS\BITS08.DAT
   size: 479
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0xadae05de'
 - name: G\BITS\BITS16.DAT
   size: 421
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0x451f1ab2'
 - name: G\BITS\CHRS.BIN
   size: 152
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0x4dba9ca5'
 - name: G\BITS\CHRS.DAT
   size: 1815
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0xd43c122f'
 - name: G\BITS\DEBRIS.DAT
   size: 771
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0xd86bfccb'
 - name: G\BITS\DEDUST.DAT
   size: 1763
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0x6d04dc53'
 - name: G\BITS\FIDUST.DAT
   size: 1763
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0x3513f02c'
 - name: G\BITS\FIRE.DAT
   size: 1425
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0x9e3ff5f1'
 - name: G\BITS\FODUST.DAT
   size: 1763
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0x8ee0b50e'
 - name: G\BITS\GBDUST.DAT
   size: 1763
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0x8e6256e1'
 - name: G\BITS\HEADS.DAT
   size: 2725
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0x96066bfb'
 - name: G\BITS\MARSION.DAT
   size: 2342
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0x3a2d3da7'
 - name: G\BITS\MARSION.PAL
   size: 48
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0x2a74cf04'
 - name: G\BITS\MODUST.DAT
   size: 1763
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0x8e6256e1'
 - name: G\BITS\OLDSTAT.PL0
   size: 24
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0x6b65de5b'
 - name: G\BITS\PANEL.PAL
   size: 24
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0x7e805214'
 - name: G\BITS\PAUSE.PAL
   size: 24
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0x259f63bc'
 - name: G\BITS\PICKUPS.DAT
   size: 424
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0x7d0affc7'
 - name: G\BITS\PICKUPS.PAL
   size: 48
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0x5c3cff9e'
 - name: G\BITS\PRACSPR.BIN
   size: 68
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0x528a2137'
 - name: G\BITS\PRACSPR.DAT
   size: 26734
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0x9e6ec959'
 - name: G\BITS\SMOKE.DAT
   size: 650
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0x30468e38'
 - name: G\BITS\SPLAUS.DAT
   size: 2373
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0xbf2f9c67'
 - name: G\BITS\SPLFOR.DAT
   size: 2373
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0xe60b32e8'
 - name: G\BITS\SPLGBR.DAT
   size: 2373
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0xbf2f9c67'
 - name: G\BITS\STAT.PL0
   size: 24
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0x656a84a0'
 - name: G\BITS\STAT.PL1
   size: 24
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0xd9d7521a'
 - name: G\BITS\STATUS.DAT
   size: 11282
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0x39d1253c'
 - name: G\BITS\WEATHER.DAT
   size: 253
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0xe607d41a'
 - name: G\CEL\
   size: 0
-  date: '1995-09-13T13:34:38'
+  date: '1994-11-21T19:04:32'
 - name: G\CEL\CEL.BIN
   size: 111
-  date: '1995-03-13T18:24:04'
+  date: '1994-11-21T19:04:32'
   crc: '0x7d8c85c1'
 - name: G\CEL\CEL.DAT
   size: 37328
-  date: '1995-03-13T18:24:04'
+  date: '1994-11-21T19:04:32'
   crc: '0x1dd55a46'
 - name: G\CEL\CEL.PAL
   size: 384
-  date: '1995-03-13T18:24:04'
+  date: '1994-11-21T19:04:32'
   crc: '0x97a8af81'
 - name: G\CEL\CELTAB.BIN
   size: 216
-  date: '1995-03-13T18:24:04'
+  date: '1994-11-21T19:04:32'
   crc: '0x065684d4'
 - name: G\CLI\
   size: 0
-  date: '1995-09-13T13:34:38'
+  date: '1994-11-21T19:04:32'
 - name: G\CLI\CLI.BIN
   size: 111
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0xa47c1173'
 - name: G\CLI\CLI.DAT
   size: 31798
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0xfdf15e44'
 - name: G\CLI\CLI.PAL
   size: 384
-  date: '1995-03-13T18:24:16'
+  date: '1994-11-21T19:04:32'
   crc: '0x2f92bdea'
 - name: G\CLI\CLITAB.BIN
   size: 216
-  date: '1995-03-13T18:24:16'
+  date: '1994-11-21T19:04:32'
   crc: '0x62738757'
 - name: G\COS\
   size: 0
-  date: '1995-09-13T13:34:38'
+  date: '1994-11-21T19:04:32'
 - name: G\COS\COS.BIN
   size: 111
-  date: '1995-03-13T18:24:16'
+  date: '1994-11-21T19:04:32'
   crc: '0xd803e263'
 - name: G\COS\COS.DAT
   size: 36612
-  date: '1995-03-13T18:24:16'
+  date: '1994-11-21T19:04:32'
   crc: '0x3dc97655'
 - name: G\COS\COS.PAL
   size: 384
-  date: '1995-03-13T18:24:16'
+  date: '1994-11-21T19:04:32'
   crc: '0x9da19e54'
 - name: G\COS\COSTAB.BIN
   size: 216
-  date: '1995-03-13T18:24:16'
+  date: '1994-11-21T19:04:32'
   crc: '0x314fa540'
 - name: G\FIA\
   size: 0
-  date: '1995-09-13T13:34:38'
+  date: '1994-11-21T19:04:32'
 - name: G\FIA\FIA.BIN
   size: 111
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0x89fa2ca2'
 - name: G\FIA\FIA.DAT
   size: 30831
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0xea3b4632'
 - name: G\FIA\FIA.PAL
   size: 384
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0xf6b052ec'
 - name: G\FIA\FIATAB.BIN
   size: 216
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0xe3563e25'
 - name: G\LANG\
   size: 0
-  date: '1995-09-13T13:34:38'
+  date: '1994-11-21T19:04:32'
 - name: G\LANG\ENG.BIN
   size: 3419
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0x7ba7ae31'
 - name: G\LANG\FRE.BIN
   size: 3861
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0x983b66d3'
 - name: G\LANG\GER.BIN
   size: 3636
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0x1ebef5a1'
 - name: G\LANG\ITA.BIN
   size: 3746
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0xf7476964'
 - name: G\LANG\MENG.BIN
   size: 256
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0x0f570100'
 - name: G\LANG\MFRE.BIN
   size: 256
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0x0f570100'
 - name: G\LANG\MGER.BIN
   size: 256
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0x0f570100'
 - name: G\LANG\MITA.BIN
   size: 256
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0x0f570100'
 - name: G\LANG\MSPA.BIN
   size: 256
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0x0f570100'
 - name: G\LANG\SPA.BIN
   size: 3880
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0x310bf72c'
 - name: G\MG\
   size: 0
-  date: '1995-09-13T13:34:38'
+  date: '1994-11-21T19:04:32'
 - name: G\MG\BFONT.DAT
   size: 15772
-  date: '1995-03-13T18:24:16'
+  date: '1994-11-21T19:04:32'
   crc: '0x0e5bd6bb'
 - name: G\MG\BFONT.PAL
   size: 192
-  date: '1995-03-13T18:24:16'
+  date: '1994-11-21T19:04:32'
   crc: '0xe8c3b4e3'
 - name: G\MG\BUTBOX.DAT
   size: 733
-  date: '1995-03-13T18:24:18'
+  date: '1994-11-21T19:04:32'
   crc: '0x1d6edab9'
 - name: G\MG\BUTPAL.PAL
   size: 144
-  date: '1995-03-13T18:24:20'
+  date: '1994-11-21T19:04:32'
   crc: '0xc224c2a9'
 - name: G\MG\CARBOX.DAT
   size: 6453
-  date: '1995-03-13T18:24:18'
+  date: '1994-11-21T19:04:32'
   crc: '0x1bcca8f1'
 - name: G\MG\CREDIT.MCP
   size: 64768
-  date: '1995-03-13T18:24:16'
+  date: '1994-11-21T19:04:32'
   crc: '0x962ab276'
 - name: G\MG\FLAGS.DAT
   size: 17922
-  date: '1995-03-13T18:24:20'
+  date: '1994-11-21T19:04:32'
   crc: '0x6c4d0848'
 - name: G\MG\FLAGS.PAL
   size: 96
-  date: '1995-03-13T18:24:20'
+  date: '1994-11-21T19:04:32'
   crc: '0x484f5c66'
 - name: G\MG\LEGAL.GIF
   size: 5859
-  date: '1995-03-13T18:24:20'
+  date: '1994-11-21T19:04:32'
   crc: '0x2ffc444c'
 - name: G\MG\LFONT.BIN
   size: 336
-  date: '1995-03-13T18:24:16'
+  date: '1994-11-21T19:04:32'
   crc: '0xe6d2128a'
 - name: G\MG\LFONT.DAT
   size: 6057
-  date: '1995-03-13T18:24:16'
+  date: '1994-11-21T19:04:32'
   crc: '0xc2d4ade5'
 - name: G\MG\MAIN.GIF
   size: 20524
-  date: '1995-03-13T18:24:20'
+  date: '1994-11-21T19:04:32'
   crc: '0xcbebe932'
 - name: G\MG\OPTIONS.MCP
   size: 64768
-  date: '1995-03-13T18:24:16'
+  date: '1994-11-21T19:04:32'
   crc: '0x38da1140'
 - name: G\MG\PD01.MCP
   size: 64768
-  date: '1995-03-13T18:24:20'
+  date: '1994-11-21T19:04:32'
   crc: '0x3869464e'
 - name: G\MG\PD02.MCP
   size: 64768
-  date: '1995-03-13T18:24:20'
+  date: '1994-11-21T19:04:32'
   crc: '0xd70647ba'
 - name: G\MG\PD03.MCP
   size: 64768
-  date: '1995-03-13T18:24:20'
+  date: '1994-11-21T19:04:32'
   crc: '0x8ee9eafb'
 - name: G\MG\PD04.MCP
   size: 64768
-  date: '1995-03-13T18:24:20'
+  date: '1994-11-21T19:04:32'
   crc: '0xaeda8130'
 - name: G\MG\PDB.MCP
   size: 64768
-  date: '1995-03-13T18:24:16'
+  date: '1994-11-21T19:04:32'
   crc: '0xbf724b7b'
 - name: G\MG\PDG.MCP
   size: 64768
-  date: '1995-03-13T18:24:18'
+  date: '1994-11-21T19:04:32'
   crc: '0x3bb36813'
 - name: G\MG\PDH.MCP
   size: 64768
-  date: '1995-03-13T18:24:18'
+  date: '1994-11-21T19:04:32'
   crc: '0x2a25fd8f'
 - name: G\MG\PDK.MCP
   size: 64768
-  date: '1995-03-13T18:24:18'
+  date: '1994-11-21T19:04:32'
   crc: '0xac5eef4f'
 - name: G\MG\PDM.MCP
   size: 64768
-  date: '1995-03-13T18:24:18'
+  date: '1994-11-21T19:04:32'
   crc: '0x5efa1be8'
 - name: G\MG\PDN.MCP
   size: 64768
-  date: '1995-03-13T18:24:18'
+  date: '1994-11-21T19:04:32'
   crc: '0xc715b4fb'
 - name: G\MG\PDP.MCP
   size: 64768
-  date: '1995-03-13T18:24:18'
+  date: '1994-11-21T19:04:32'
   crc: '0xc05a2ad5'
 - name: G\MG\PDRIVE.DAT
   size: 11936
-  date: '1995-03-13T18:24:16'
+  date: '1994-11-21T19:04:32'
   crc: '0xa5eaa42d'
 - name: G\MG\PDT.MCP
   size: 64768
-  date: '1995-03-13T18:24:20'
+  date: '1994-11-21T19:04:32'
   crc: '0xf54483ee'
 - name: G\MG\PDZ.MCP
   size: 64768
-  date: '1995-03-13T18:24:20'
+  date: '1994-11-21T19:04:32'
   crc: '0xde2834fe'
 - name: G\MG\PDZ_BCRC.MCC
   size: 65144
-  date: '1995-03-13T18:24:18'
+  date: '1994-11-21T19:04:32'
   crc: '0x6a8f83c5'
 - name: G\MG\PRAC.MCP
   size: 64768
-  date: '1995-03-13T18:24:16'
+  date: '1994-11-21T19:04:32'
   crc: '0xc05a2ad5'
 - name: G\MG\PRACSPR.BIN
   size: 68
-  date: '1995-03-13T18:24:16'
+  date: '1994-11-21T19:04:32'
   crc: '0x11b8d601'
 - name: G\MG\PRACSPR.DAT
   size: 25840
-  date: '1995-03-13T18:24:16'
+  date: '1994-11-21T19:04:32'
   crc: '0xcea9a323'
 - name: G\MG\PRESENT.DAT
   size: 3323
-  date: '1995-03-13T18:24:16'
+  date: '1994-11-21T19:04:32'
   crc: '0x54b9fc30'
 - name: G\MG\WAGEWOGO.GIF
   size: 7634
-  date: '1995-03-13T18:24:18'
+  date: '1994-11-21T19:04:32'
   crc: '0xaf20a0ab'
 - name: G\MG\WCAR.DAT
   size: 25376
-  date: '1995-03-13T18:24:16'
+  date: '1994-11-21T19:04:32'
   crc: '0x684c16e5'
 - name: G\MG\WCAR.PAL
   size: 192
-  date: '1995-03-13T18:24:18'
+  date: '1994-11-21T19:04:32'
   crc: '0x3f14be37'
 - name: G\MG\WORLD2.MCP
   size: 64768
-  date: '1995-03-13T18:24:16'
+  date: '1994-11-21T19:04:32'
   crc: '0x79f332f2'
 - name: G\MIN\
   size: 0
-  date: '1995-09-13T13:34:38'
+  date: '1994-11-21T19:04:32'
 - name: G\MIN\MIN.BIN
   size: 111
-  date: '1995-03-13T18:24:04'
+  date: '1994-11-21T19:04:32'
   crc: '0x74a38d89'
 - name: G\MIN\MIN.DAT
   size: 27891
-  date: '1995-03-13T18:24:04'
+  date: '1994-11-21T19:04:32'
   crc: '0x7d509fdf'
 - name: G\MIN\MIN.PAL
   size: 384
-  date: '1995-03-13T18:24:04'
+  date: '1994-11-21T19:04:32'
   crc: '0x91366524'
 - name: G\MIN\MINTAB.BIN
   size: 216
-  date: '1995-03-13T18:24:04'
+  date: '1994-11-21T19:04:32'
   crc: '0x87c3d873'
 - name: G\M\
   size: 0
-  date: '1995-09-13T13:34:38'
+  date: '1994-11-21T19:04:32'
 - name: G\M\ARI\
   size: 0
-  date: '1995-09-13T13:34:38'
+  date: '1994-11-21T19:04:32'
 - name: G\M\ARI\ARI.BLK
   size: 122880
-  date: '1995-03-13T18:24:12'
+  date: '1994-11-21T19:04:32'
   crc: '0x0a17b754'
 - name: G\M\ARI\ARI.DAY
   size: 768
-  date: '1995-03-13T18:24:12'
+  date: '1994-11-21T19:04:32'
   crc: '0xd2d975a9'
 - name: G\M\ARI\ARIZO2.BIN
   size: 985
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0xa362b5aa'
 - name: G\M\ARI\ARIZO2.TIL
   size: 28384
-  date: '1995-03-13T18:24:12'
+  date: '1994-11-21T19:04:32'
   crc: '0xb6de7a9d'
 - name: G\M\ARI\ARIZO2.TMA
   size: 4416
-  date: '1995-03-13T18:24:12'
+  date: '1994-11-21T19:04:32'
   crc: '0xaf72accd'
 - name: G\M\ARI\ARIZO3.BIN
   size: 1581
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0xd4724347'
 - name: G\M\ARI\ARIZO3.TIL
   size: 43104
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0x9d851fed'
 - name: G\M\ARI\ARIZO3.TMA
   size: 7056
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0x6c8b35ed'
 - name: G\M\ARI\ARIZO4.BIN
   size: 1149
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0xe8f315d0'
 - name: G\M\ARI\ARIZO4.TIL
   size: 27072
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0x756a5775'
 - name: G\M\ARI\ARIZO4.TMA
   size: 4512
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0x795abbb4'
 - name: G\M\ARI\ARIZO5.BIN
   size: 1581
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0xf4fd8da9'
 - name: G\M\ARI\ARIZO5.TIL
   size: 33664
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0x91b2115f'
 - name: G\M\ARI\ARIZO5.TMA
   size: 7808
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0x37982969'
 - name: G\M\ARI\ARIZO6.BIN
   size: 1117
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0x456dd05d'
 - name: G\M\ARI\ARIZO6.TIL
   size: 28032
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0x8d22c140'
 - name: G\M\ARI\ARIZO6.TMA
   size: 5292
-  date: '1995-03-13T18:24:14'
+  date: '1994-11-21T19:04:32'
   crc: '0xf76a80a8'
 - name: G\M\AUS\
   size: 0
-  date: '1995-09-13T13:34:38'
+  date: '1994-11-21T19:04:32'
 - name: G\M\AUS\AUST.BLK
   size: 122880
-  date: '1995-03-13T18:24:08'
+  date: '1994-11-21T19:04:32'
   crc: '0x2f1bdbcd'
 - name: G\M\AUS\AUST.DAY
   size: 768
-  date: '1995-03-13T18:24:08'
+  date: '1994-11-21T19:04:32'
   crc: '0x0f7c7304'
 - name: G\M\AUS\AUST2.BIN
   size: 1577
-  date: '1995-03-13T18:24:10'
+  date: '1994-11-21T19:04:32'
   crc: '0x41d7d441'
 - name: G\M\AUS\AUST2.TIL
   size: 24544
-  date: '1995-03-13T18:24:10'
+  date: '1994-11-21T19:04:32'
   crc: '0x3db2f4a0'
 - name: G\M\AUS\AUST2.TMA
   size: 8192
-  date: '1995-03-13T18:24:10'
+  date: '1994-11-21T19:04:32'
   crc: '0xb55726a6'
 - name: G\M\AUS\AUST3.BIN
   size: 941
-  date: '1995-03-13T18:24:10'
+  date: '1994-11-21T19:04:32'
   crc: '0x49c35a38'
 - name: G\M\AUS\AUST3.TIL
   size: 14464
-  date: '1995-03-13T18:24:10'
+  date: '1994-11-21T19:04:32'
   crc: '0x36821c49'
 - name: G\M\AUS\AUST3.TMA
   size: 4386
-  date: '1995-03-13T18:24:10'
+  date: '1994-11-21T19:04:32'
   crc: '0x92ac08bb'
 - name: G\M\AUS\AUST4.BIN
   size: 1293
-  date: '1995-03-13T18:24:10'
+  date: '1994-11-21T19:04:32'
   crc: '0xe9e567d6'
 - name: G\M\AUS\AUST4.TIL
   size: 25024
-  date: '1995-03-13T18:24:10'
+  date: '1994-11-21T19:04:32'
   crc: '0x872f1d2f'
 - name: G\M\AUS\AUST4.TMA
   size: 8192
-  date: '1995-03-13T18:24:08'
+  date: '1994-11-21T19:04:32'
   crc: '0x5640cc3a'
 - name: G\M\AUS\AUST5.BIN
   size: 1107
-  date: '1995-03-13T18:24:10'
+  date: '1994-11-21T19:04:32'
   crc: '0x4743e9c5'
 - name: G\M\AUS\AUST5.TIL
   size: 16064
-  date: '1995-03-13T18:24:10'
+  date: '1994-11-21T19:04:32'
   crc: '0xff4b6ed7'
 - name: G\M\AUS\AUST5.TMA
   size: 6144
-  date: '1995-03-13T18:24:10'
+  date: '1994-11-21T19:04:32'
   crc: '0x68f934a9'
 - name: G\M\AUS\AUST6.BIN
   size: 1213
-  date: '1995-03-13T18:24:10'
+  date: '1994-11-21T19:04:32'
   crc: '0x34e9e3b2'
 - name: G\M\AUS\AUST6.TIL
   size: 20032
-  date: '1995-03-13T18:24:10'
+  date: '1994-11-21T19:04:32'
   crc: '0x705a8426'
 - name: G\M\AUS\AUST6.TMA
   size: 8192
-  date: '1995-03-13T18:24:08'
+  date: '1994-11-21T19:04:32'
   crc: '0x4c762df2'
 - name: G\M\DES\
   size: 0
-  date: '1995-09-13T13:34:38'
+  date: '1994-11-21T19:04:32'
 - name: G\M\DES\DES.BLK
   size: 122880
-  date: '1995-03-13T18:24:10'
+  date: '1994-11-21T19:04:32'
   crc: '0x8ee6b49a'
 - name: G\M\DES\DES.DAY
   size: 768
-  date: '1995-03-13T18:24:12'
+  date: '1994-11-21T19:04:32'
   crc: '0xeb92e8e3'
 - name: G\M\DES\DES1.BIN
   size: 781
-  date: '1995-03-13T18:24:12'
+  date: '1994-11-21T19:04:32'
   crc: '0xe2000b62'
 - name: G\M\DES\DES1.TIL
   size: 14080
-  date: '1995-03-13T18:24:10'
+  date: '1994-11-21T19:04:32'
   crc: '0x9b5d35a3'
 - name: G\M\DES\DES1.TMA
   size: 2520
-  date: '1995-03-13T18:24:10'
+  date: '1994-11-21T19:04:32'
   crc: '0xf84c6864'
 - name: G\M\DES\DES2.BIN
   size: 813
-  date: '1995-03-13T18:24:12'
+  date: '1994-11-21T19:04:32'
   crc: '0x7f3b2b4a'
 - name: G\M\DES\DES2.TIL
   size: 18016
-  date: '1995-03-13T18:24:10'
+  date: '1994-11-21T19:04:32'
   crc: '0x5baf0838'
 - name: G\M\DES\DES2.TMA
   size: 3936
-  date: '1995-03-13T18:24:10'
+  date: '1994-11-21T19:04:32'
   crc: '0xd4448835'
 - name: G\M\DES\DES3.BIN
   size: 1259
-  date: '1995-03-13T18:24:12'
+  date: '1994-11-21T19:04:32'
   crc: '0xcf0b9b2b'
 - name: G\M\DES\DES3.TIL
   size: 35840
-  date: '1995-03-13T18:24:10'
+  date: '1994-11-21T19:04:32'
   crc: '0x73e296d2'
 - name: G\M\DES\DES3.TMA
   size: 7080
-  date: '1995-03-13T18:24:10'
+  date: '1994-11-21T19:04:32'
   crc: '0xc00963a2'
 - name: G\M\DES\DES4.BIN
   size: 804
-  date: '1995-03-13T18:24:12'
+  date: '1994-11-21T19:04:32'
   crc: '0x6efffb08'
 - name: G\M\DES\DES4.TIL
   size: 16128
-  date: '1995-03-13T18:24:12'
+  date: '1994-11-21T19:04:32'
   crc: '0xb8cc4165'
 - name: G\M\DES\DES4.TMA
   size: 3600
-  date: '1995-03-13T18:24:10'
+  date: '1994-11-21T19:04:32'
   crc: '0x48547d45'
 - name: G\M\DES\DES5.BIN
   size: 1221
-  date: '1995-03-13T18:24:12'
+  date: '1994-11-21T19:04:32'
   crc: '0xb41b5aaf'
 - name: G\M\DES\DES5.TIL
   size: 25536
-  date: '1995-03-13T18:24:12'
+  date: '1994-11-21T19:04:32'
   crc: '0x5c334b4e'
 - name: G\M\DES\DES5.TMA
   size: 5300
-  date: '1995-03-13T18:24:12'
+  date: '1994-11-21T19:04:32'
   crc: '0x4abee7c3'
 - name: G\M\FIN\
   size: 0
-  date: '1995-09-13T13:34:38'
+  date: '1994-11-21T19:04:32'
 - name: G\M\FIN\FIN.BLK
   size: 130000
-  date: '1995-03-13T18:24:12'
+  date: '1994-11-21T19:04:32'
   crc: '0x51d6e34b'
 - name: G\M\FIN\FIN.DAY
   size: 768
-  date: '1995-03-13T18:24:12'
+  date: '1994-11-21T19:04:32'
   crc: '0xf87ac1ea'
 - name: G\M\FIN\FINL1.BIN
   size: 861
-  date: '1995-03-13T18:24:12'
+  date: '1994-11-21T19:04:32'
   crc: '0x0f1e6fff'
 - name: G\M\FIN\FINL1.TIL
   size: 23776
-  date: '1995-03-13T18:24:12'
+  date: '1994-11-21T19:04:32'
   crc: '0xf5458813'
 - name: G\M\FIN\FINL1.TMA
   size: 4320
-  date: '1995-03-13T18:24:12'
+  date: '1994-11-21T19:04:32'
   crc: '0xad161209'
 - name: G\M\FIN\FINL2.BIN
   size: 1133
-  date: '1995-03-13T18:24:12'
+  date: '1994-11-21T19:04:32'
   crc: '0xf7eb4e63'
 - name: G\M\FIN\FINL2.TIL
   size: 18496
-  date: '1995-03-13T18:24:12'
+  date: '1994-11-21T19:04:32'
   crc: '0x0816c68e'
 - name: G\M\FIN\FINL2.TMA
   size: 5796
-  date: '1995-03-13T18:24:12'
+  date: '1994-11-21T19:04:32'
   crc: '0x7ccb3817'
 - name: G\M\FIN\FINL3.BIN
   size: 883
-  date: '1995-03-13T18:24:12'
+  date: '1994-11-21T19:04:32'
   crc: '0xd2aec747'
 - name: G\M\FIN\FINL3.TIL
   size: 10176
-  date: '1995-03-13T18:24:12'
+  date: '1994-11-21T19:04:32'
   crc: '0x4458463a'
 - name: G\M\FIN\FINL3.TMA
   size: 3854
-  date: '1995-03-13T18:24:12'
+  date: '1994-11-21T19:04:32'
   crc: '0x1bd01a02'
 - name: G\M\FIN\FINL4.BIN
   size: 1081
-  date: '1995-03-13T18:24:12'
+  date: '1994-11-21T19:04:32'
   crc: '0x37fb142d'
 - name: G\M\FIN\FINL4.TIL
   size: 24416
-  date: '1995-03-13T18:24:12'
+  date: '1994-11-21T19:04:32'
   crc: '0x526602d8'
 - name: G\M\FIN\FINL4.TMA
   size: 5472
-  date: '1995-03-13T18:24:12'
+  date: '1994-11-21T19:04:32'
   crc: '0xc4d525ba'
 - name: G\M\FIN\FINL5.BIN
   size: 899
-  date: '1995-03-13T18:24:12'
+  date: '1994-11-21T19:04:32'
   crc: '0xb18e1e59'
 - name: G\M\FIN\FINL5.TIL
   size: 18528
-  date: '1995-03-13T18:24:12'
+  date: '1994-11-21T19:04:32'
   crc: '0x3a41b4fc'
 - name: G\M\FIN\FINL5.TMA
   size: 4600
-  date: '1995-03-13T18:24:12'
+  date: '1994-11-21T19:04:32'
   crc: '0x00519d2c'
 - name: G\M\FIN\FINL6.BIN
   size: 1165
-  date: '1995-03-13T18:24:12'
+  date: '1994-11-21T19:04:32'
   crc: '0x29892bfd'
 - name: G\M\FIN\FINL6.TIL
   size: 24480
-  date: '1995-03-13T18:24:12'
+  date: '1994-11-21T19:04:32'
   crc: '0xd4aadc5d'
 - name: G\M\FIN\FINL6.TMA
   size: 5280
-  date: '1995-03-13T18:24:12'
+  date: '1994-11-21T19:04:32'
   crc: '0x19a5d1b0'
 - name: G\M\FOR\
   size: 0
-  date: '1995-09-13T13:34:38'
+  date: '1994-11-21T19:04:32'
 - name: G\M\FOR\FOR.BLK
   size: 122880
-  date: '1995-03-13T18:24:10'
+  date: '1994-11-21T19:04:32'
   crc: '0xf322c8f2'
 - name: G\M\FOR\FOR.DAY
   size: 768
-  date: '1995-03-13T18:24:10'
+  date: '1994-11-21T19:04:32'
   crc: '0x8573bb97'
 - name: G\M\FOR\FOR1.BIN
   size: 751
-  date: '1995-03-13T18:24:10'
+  date: '1994-11-21T19:04:32'
   crc: '0x3862117b'
 - name: G\M\FOR\FOR1.TIL
   size: 17184
-  date: '1995-03-13T18:24:10'
+  date: '1994-11-21T19:04:32'
   crc: '0x925a645d'
 - name: G\M\FOR\FOR1.TMA
   size: 4032
-  date: '1995-03-13T18:24:10'
+  date: '1994-11-21T19:04:32'
   crc: '0x192e2e47'
 - name: G\M\FOR\FOR2.BIN
   size: 909
-  date: '1995-03-13T18:24:10'
+  date: '1994-11-21T19:04:32'
   crc: '0xd2f6252f'
 - name: G\M\FOR\FOR2.TIL
   size: 22944
-  date: '1995-03-13T18:24:10'
+  date: '1994-11-21T19:04:32'
   crc: '0xf2b5d223'
 - name: G\M\FOR\FOR2.TMA
   size: 3996
-  date: '1995-03-13T18:24:10'
+  date: '1994-11-21T19:04:32'
   crc: '0x9df376e6'
 - name: G\M\FOR\FOR3.BIN
   size: 1027
-  date: '1995-03-13T18:24:10'
+  date: '1994-11-21T19:04:32'
   crc: '0x870c236e'
 - name: G\M\FOR\FOR3.TIL
   size: 27744
-  date: '1995-03-13T18:24:10'
+  date: '1994-11-21T19:04:32'
   crc: '0x18a1fbd4'
 - name: G\M\FOR\FOR3.TMA
   size: 4700
-  date: '1995-03-13T18:24:10'
+  date: '1994-11-21T19:04:32'
   crc: '0x75b48c78'
 - name: G\M\FOR\FOR4.BIN
   size: 893
-  date: '1995-03-13T18:24:10'
+  date: '1994-11-21T19:04:32'
   crc: '0x5934cf10'
 - name: G\M\FOR\FOR4.TIL
   size: 17024
-  date: '1995-03-13T18:24:10'
+  date: '1994-11-21T19:04:32'
   crc: '0x103370c2'
 - name: G\M\FOR\FOR4.TMA
   size: 3948
-  date: '1995-03-13T18:24:10'
+  date: '1994-11-21T19:04:32'
   crc: '0x6ba6f4e8'
 - name: G\M\GBR\
   size: 0
-  date: '1995-09-13T13:34:38'
+  date: '1994-11-21T19:04:32'
 - name: G\M\GBR\GBR.BLK
   size: 122880
-  date: '1995-03-13T18:24:08'
+  date: '1994-11-21T19:04:32'
   crc: '0x66180b0b'
 - name: G\M\GBR\GBR.DAY
   size: 768
-  date: '1995-03-13T18:24:08'
+  date: '1994-11-21T19:04:32'
   crc: '0x943fa85a'
 - name: G\M\GBR\GBR1.BIN
   size: 1229
-  date: '1995-03-13T18:24:08'
+  date: '1994-11-21T19:04:32'
   crc: '0x94c13b52'
 - name: G\M\GBR\GBR1.TIL
   size: 34528
-  date: '1995-03-13T18:24:08'
+  date: '1994-11-21T19:04:32'
   crc: '0xb663c565'
 - name: G\M\GBR\GBR1.TMA
   size: 5504
-  date: '1995-03-13T18:24:08'
+  date: '1994-11-21T19:04:32'
   crc: '0x59c8168b'
 - name: G\M\GBR\GBR2.BIN
   size: 1283
-  date: '1995-03-13T18:24:08'
+  date: '1994-11-21T19:04:32'
   crc: '0x90d6ffc6'
 - name: G\M\GBR\GBR2.TIL
   size: 33024
-  date: '1995-03-13T18:24:08'
+  date: '1994-11-21T19:04:32'
   crc: '0xc078d054'
 - name: G\M\GBR\GBR2.TMA
   size: 4644
-  date: '1995-03-13T18:24:08'
+  date: '1994-11-21T19:04:32'
   crc: '0x790fa07c'
 - name: G\M\GBR\GBR3.BIN
   size: 973
-  date: '1995-03-13T18:24:08'
+  date: '1994-11-21T19:04:32'
   crc: '0xa51240a7'
 - name: G\M\GBR\GBR3.TIL
   size: 36896
-  date: '1995-03-13T18:24:08'
+  date: '1994-11-21T19:04:32'
   crc: '0xc82a3e59'
 - name: G\M\GBR\GBR3.TMA
   size: 8192
-  date: '1995-03-13T18:24:08'
+  date: '1994-11-21T19:04:32'
   crc: '0x3530d168'
 - name: G\M\GBR\SNOW1.BIN
   size: 861
-  date: '1995-03-13T18:24:08'
+  date: '1994-11-21T19:04:32'
   crc: '0xef3d958b'
 - name: G\M\GBR\SNOW1.TIL
   size: 40384
-  date: '1995-03-13T18:24:08'
+  date: '1994-11-21T19:04:32'
   crc: '0x0503ddc5'
 - name: G\M\GBR\SNOW1.TMA
   size: 8192
-  date: '1995-03-13T18:24:08'
+  date: '1994-11-21T19:04:32'
   crc: '0xe79b42e5'
 - name: G\M\GBR\SNOW2.BIN
   size: 1165
-  date: '1995-03-13T18:24:08'
+  date: '1994-11-21T19:04:32'
   crc: '0x867aa474'
 - name: G\M\GBR\SNOW2.TIL
   size: 26528
-  date: '1995-03-13T18:24:08'
+  date: '1994-11-21T19:04:32'
   crc: '0x0150c9e3'
 - name: G\M\GBR\SNOW2.TMA
   size: 4558
-  date: '1995-03-13T18:24:08'
+  date: '1994-11-21T19:04:32'
   crc: '0x10f1373a'
 - name: G\M\GBR\SNOW4.BIN
   size: 1053
-  date: '1995-03-13T18:24:08'
+  date: '1994-11-21T19:04:32'
   crc: '0x67919ed6'
 - name: G\M\GBR\SNOW4.TIL
   size: 26720
-  date: '1995-03-13T18:24:08'
+  date: '1994-11-21T19:04:32'
   crc: '0xf0b01b9f'
 - name: G\M\GBR\SNOW4.TMA
   size: 5310
-  date: '1995-03-13T18:24:08'
+  date: '1994-11-21T19:04:32'
   crc: '0x96a3725a'
 - name: G\M\GBR\SNOW5.BIN
   size: 1225
-  date: '1995-03-13T18:24:08'
+  date: '1994-11-21T19:04:32'
   crc: '0xcb97bf68'
 - name: G\M\GBR\SNOW5.TIL
   size: 30688
-  date: '1995-03-13T18:24:08'
+  date: '1994-11-21T19:04:32'
   crc: '0x5f5cd290'
 - name: G\M\GBR\SNOW5.TMA
   size: 4752
-  date: '1995-03-13T18:24:08'
+  date: '1994-11-21T19:04:32'
   crc: '0x9c1ab3ae'
 - name: G\M\GOV\
   size: 0
-  date: '1995-09-13T13:34:38'
+  date: '1994-11-21T19:04:32'
 - name: G\M\GOV\GOV.BLK
   size: 81920
-  date: '1995-03-13T18:24:08'
+  date: '1994-11-21T19:04:32'
   crc: '0xf4554ae9'
 - name: G\M\GOV\GOV.DAY
   size: 768
-  date: '1995-03-13T18:24:08'
+  date: '1994-11-21T19:04:32'
   crc: '0x7162d227'
 - name: G\M\GOV\GOVER.BIN
   size: 725
-  date: '1995-03-13T18:24:08'
+  date: '1994-11-21T19:04:32'
   crc: '0x5bed3a3c'
 - name: G\M\GOV\GOVER.TIL
   size: 1888
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0xb6b797ab'
 - name: G\M\GOV\GOVER.TMA
   size: 1792
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0xd50722f1'
 - name: G\M\MON\
   size: 0
-  date: '1995-09-13T13:34:38'
+  date: '1994-11-21T19:04:32'
 - name: G\M\MON\COR1.BIN
   size: 1005
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0xbb299c46'
 - name: G\M\MON\COR1.TIL
   size: 16640
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0x24234c07'
 - name: G\M\MON\COR1.TMA
   size: 7564
-  date: '1995-03-13T18:24:04'
+  date: '1994-11-21T19:04:32'
   crc: '0xe6677964'
 - name: G\M\MON\COR2.BIN
   size: 946
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0xfd53b6c3'
 - name: G\M\MON\COR2.TIL
   size: 19744
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0x2758c61d'
 - name: G\M\MON\COR2.TMA
   size: 7552
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0x719d9e18'
 - name: G\M\MON\COR3.BIN
   size: 1046
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0x109902d3'
 - name: G\M\MON\COR3.TIL
   size: 16384
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0x17abef79'
 - name: G\M\MON\COR3.TMA
   size: 5304
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0xc816babf'
 - name: G\M\MON\COR5.BIN
   size: 1068
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0xa9265351'
 - name: G\M\MON\COR5.TIL
   size: 19040
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0x56a10c72'
 - name: G\M\MON\COR5.TMA
   size: 6270
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0x1dbcf31f'
 - name: G\M\MON\COR6.BIN
   size: 722
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0x2b48cb18'
 - name: G\M\MON\COR6.TIL
   size: 10816
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0x3eb093a2'
 - name: G\M\MON\COR6.TMA
   size: 4130
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0x533f7103'
 - name: G\M\MON\MON1.BIN
   size: 850
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0x4233b0a9'
 - name: G\M\MON\MON1.TIL
   size: 14304
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0xe23561f7'
 - name: G\M\MON\MON1.TMA
   size: 4736
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0x5a5957a6'
 - name: G\M\MON\MON2.BIN
   size: 712
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0x047bd9ef'
 - name: G\M\MON\MON2.TIL
   size: 7808
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0x0c439023'
 - name: G\M\MON\MON2.TMA
   size: 4080
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0xa12922c9'
 - name: G\M\MON\MON3.BIN
   size: 956
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0x269a4120'
 - name: G\M\MON\MON3.TIL
   size: 16416
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0x09a433d2'
 - name: G\M\MON\MON3.TMA
   size: 6016
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0x21221066'
 - name: G\M\MON\MON4.BIN
   size: 886
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0x270b120e'
 - name: G\M\MON\MON4.TIL
   size: 11744
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0x61421c42'
 - name: G\M\MON\MON4.TMA
   size: 4608
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0xae0440c2'
 - name: G\M\MON\MONTE.BLK
   size: 122880
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0x03b11e36'
 - name: G\M\MON\MONTE.DAY
   size: 768
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0xc79be528'
 - name: G\M\SKI\
   size: 0
-  date: '1995-09-13T13:34:38'
+  date: '1994-11-21T19:04:32'
 - name: G\M\SKI\DSRT.BLK
   size: 81920
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0x4028d125'
 - name: G\M\SKI\DSRT.DAY
   size: 768
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0x2b1f5711'
 - name: G\M\SKI\SAREA1.BIN
   size: 629
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0xffe0423a'
 - name: G\M\SKI\SAREA1.TIL
   size: 384
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0x92626351'
 - name: G\M\SKI\SAREA1.TMA
   size: 1584
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0xe617f08d'
 - name: G\M\SKI\SAREA2.BIN
   size: 629
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0x2adb8dbd'
 - name: G\M\SKI\SAREA2.TIL
   size: 448
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0x0dada553'
 - name: G\M\SKI\SAREA2.TMA
   size: 1584
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0x093e833a'
 - name: G\M\SKI\SARZ.BIN
   size: 757
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0x952dd70d'
 - name: G\M\SKI\SARZ.TIL
   size: 2752
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0xe9e3c809'
 - name: G\M\SKI\SARZ.TMA
   size: 2592
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0x975c0ab6'
 - name: G\M\SKI\SAU1.BIN
   size: 757
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0x21e5ea6b'
 - name: G\M\SKI\SAU1.TIL
   size: 2240
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0xc0adf03d'
 - name: G\M\SKI\SAU1.TMA
   size: 2160
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0x27447b88'
 - name: G\M\SKI\SAU2.BIN
   size: 757
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0xb4ec6cb5'
 - name: G\M\SKI\SAU2.TIL
   size: 2400
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0x9eb3346e'
 - name: G\M\SKI\SAU2.TMA
   size: 2592
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0x9722b39b'
 - name: G\M\SKI\SCOR.BIN
   size: 757
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0x7a75bab9'
 - name: G\M\SKI\SCOR.TIL
   size: 2816
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0x09749e52'
 - name: G\M\SKI\SCOR.TMA
   size: 1584
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0xb6f95a08'
 - name: G\M\SKI\SFT1.BIN
   size: 757
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0x286ca2a0'
 - name: G\M\SKI\SFT1.TIL
   size: 2368
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0x7ad917ad'
 - name: G\M\SKI\SFT1.TMA
   size: 1044
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0x37e13037'
 - name: G\M\SKI\SNOW.BLK
   size: 81920
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0x9c3c1894'
 - name: G\M\SKI\SNOW.DAY
   size: 768
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0xa8fe9ca6'
 - name: G\M\SKI\SSNW.BIN
   size: 757
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0x14fd644e'
 - name: G\M\SKI\SSNW.TIL
   size: 2208
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0x68ec85fe'
 - name: G\M\SKI\SSNW.TMA
   size: 2592
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0xdd71c65f'
 - name: G\M\SKI\TARM.BLK
   size: 81920
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0x053d57c4'
 - name: G\M\SKI\TARM.DAY
   size: 768
-  date: '1995-03-13T18:24:06'
+  date: '1994-11-21T19:04:32'
   crc: '0x33493201'
 - name: MEGAEM.EXE
   size: 92571
-  date: '1995-03-13T18:24:04'
+  date: '1994-11-21T19:04:32'
   crc: '0x39d26f69'
 - name: PD.BAT
   size: 22
-  date: '1995-09-13T12:27:04'
+  date: '1994-11-21T19:04:32'
   crc: '0x27b7551f'
 - name: PDRIVE.EXE
   size: 563423
-  date: '1995-03-13T18:27:28'
+  date: '1994-11-21T19:04:32'
   crc: '0x0ae3ceaa'
+- name: PDRIVE.EX_
+  size: 563423
+  date: '1994-11-21T19:04:32'
+  crc: '0x6b1d2477'
 - name: SOUND.DEF
   size: 8
-  date: '1995-09-13T12:27:04'
-  crc: '0x368b484c'
+  date: '1994-11-21T19:04:32'
+  crc: '0x9c8280c7'
 - name: SOUND.EXE
   size: 19368
-  date: '1995-03-13T18:24:04'
+  date: '1994-11-21T19:04:32'
   crc: '0x73d5a05a'
 - name: S\
   size: 0
-  date: '1995-09-13T13:34:36'
+  date: '1994-11-21T19:04:32'
 - name: S\B\
   size: 0
-  date: '1995-09-13T13:34:52'
+  date: '1994-11-21T19:04:32'
 - name: S\B\PDSBCARS.SND
   size: 4691
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0x50f11d95'
 - name: S\B\PDSBCONT.SND
   size: 4821
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0x9ad5c63d'
 - name: S\B\PDSBEND.SND
   size: 3337
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0x83961b82'
 - name: S\B\PDSBFAIL.SND
   size: 741
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0x5c9f21b4'
 - name: S\B\PDSBFIX.SND
   size: 4576
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0xf261dd12'
 - name: S\B\PDSBIG1.SND
   size: 15753
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0xb80c81a8'
 - name: S\B\PDSBIG10.SND
   size: 11147
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0xde623875'
 - name: S\B\PDSBIG2.SND
   size: 12092
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0x36e0e3bf'
 - name: S\B\PDSBIG3.SND
   size: 16217
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0x3aebf2af'
 - name: S\B\PDSBIG4.SND
   size: 16039
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0xa5cb585a'
 - name: S\B\PDSBIG5.SND
   size: 11514
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0x7c93c456'
 - name: S\B\PDSBIG6.SND
   size: 13787
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0xc52b8238'
 - name: S\B\PDSBIG7.SND
   size: 12418
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0xbdaac239'
 - name: S\B\PDSBIG8.SND
   size: 9110
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0xea999483'
 - name: S\B\PDSBIG9.SND
   size: 8696
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0x24663ecd'
 - name: S\B\PDSBMAP.SND
   size: 1476
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0x1a1e510d'
 - name: S\B\PDSBOPT.SND
   size: 5440
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0x18dda506'
 - name: S\B\PDSBPASS.SND
   size: 1678
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0x48828bc2'
 - name: S\B\PDSBPLAC.SND
   size: 2737
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0x4a99e1e4'
 - name: S\B\PDSBSTAG.SND
   size: 6569
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0x913c5bdd'
 - name: S\B\PDSBTITL.SND
   size: 4509
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0xa2915a11'
 - name: S\C\
   size: 0
-  date: '1995-09-13T13:34:52'
+  date: '1994-11-21T19:04:32'
 - name: S\C\PDSCCARS.SND
   size: 5230
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0x42014610'
 - name: S\C\PDSCCONT.SND
   size: 5172
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0xd555812b'
 - name: S\C\PDSCEND.SND
   size: 3682
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0x1b271fbe'
 - name: S\C\PDSCFAIL.SND
   size: 802
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0x9f456e43'
 - name: S\C\PDSCFIX.SND
   size: 6112
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0x914db7ca'
 - name: S\C\PDSCIG1.SND
   size: 11935
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0x6ad7fef9'
 - name: S\C\PDSCIG10.SND
   size: 8453
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0xaac05ae9'
 - name: S\C\PDSCIG2.SND
   size: 12139
-  date: '1995-03-13T18:24:24'
+  date: '1994-11-21T19:04:32'
   crc: '0x7680f0b6'
 - name: S\C\PDSCIG3.SND
   size: 12212
-  date: '1995-03-13T18:24:24'
+  date: '1994-11-21T19:04:32'
   crc: '0xc6cb74a6'
 - name: S\C\PDSCIG4.SND
   size: 15751
-  date: '1995-03-13T18:24:24'
+  date: '1994-11-21T19:04:32'
   crc: '0xd938a045'
 - name: S\C\PDSCIG5.SND
   size: 12363
-  date: '1995-03-13T18:24:24'
+  date: '1994-11-21T19:04:32'
   crc: '0x27befb4c'
 - name: S\C\PDSCIG6.SND
   size: 13429
-  date: '1995-03-13T18:24:24'
+  date: '1994-11-21T19:04:32'
   crc: '0x971d9b7b'
 - name: S\C\PDSCIG7.SND
   size: 8930
-  date: '1995-03-13T18:24:24'
+  date: '1994-11-21T19:04:32'
   crc: '0x3affe6c3'
 - name: S\C\PDSCIG8.SND
   size: 6888
-  date: '1995-03-13T18:24:24'
+  date: '1994-11-21T19:04:32'
   crc: '0x7f892b8e'
 - name: S\C\PDSCIG9.SND
   size: 8441
-  date: '1995-03-13T18:24:24'
+  date: '1994-11-21T19:04:32'
   crc: '0x357069bd'
 - name: S\C\PDSCMAP.SND
   size: 1516
-  date: '1995-03-13T18:24:24'
+  date: '1994-11-21T19:04:32'
   crc: '0xc5c2741f'
 - name: S\C\PDSCOPT.SND
   size: 3599
-  date: '1995-03-13T18:24:24'
+  date: '1994-11-21T19:04:32'
   crc: '0xa4a6e563'
 - name: S\C\PDSCPASS.SND
   size: 1841
-  date: '1995-03-13T18:24:24'
+  date: '1994-11-21T19:04:32'
   crc: '0x5efa1b47'
 - name: S\C\PDSCPLAC.SND
   size: 2689
-  date: '1995-03-13T18:24:24'
+  date: '1994-11-21T19:04:32'
   crc: '0x7513ca11'
 - name: S\C\PDSCSTAG.SND
   size: 6131
-  date: '1995-03-13T18:24:24'
+  date: '1994-11-21T19:04:32'
   crc: '0x1907bdef'
 - name: S\C\PDSCTITL.SND
   size: 3835
-  date: '1995-03-13T18:24:24'
+  date: '1994-11-21T19:04:32'
   crc: '0x7068d7e4'
 - name: S\G\
   size: 0
-  date: '1995-09-13T13:34:52'
+  date: '1994-11-21T19:04:32'
 - name: S\G\GRCARSEL.SND
   size: 5171
-  date: '1995-03-13T18:24:20'
+  date: '1994-11-21T19:04:32'
   crc: '0x1deddafd'
 - name: S\G\GRCONTRL.SND
   size: 5103
-  date: '1995-03-13T18:24:20'
+  date: '1994-11-21T19:04:32'
   crc: '0x3dc39393'
 - name: S\G\GRENDSEA.SND
   size: 3606
-  date: '1995-03-13T18:24:20'
+  date: '1994-11-21T19:04:32'
   crc: '0xa5fce728'
 - name: S\G\GRFAIL.SND
   size: 735
-  date: '1995-03-13T18:24:20'
+  date: '1994-11-21T19:04:32'
   crc: '0x15bb5f1f'
 - name: S\G\GRFIXSC.SND
   size: 5553
-  date: '1995-03-13T18:24:20'
+  date: '1994-11-21T19:04:32'
   crc: '0x1597be87'
 - name: S\G\GRINGA10.SND
   size: 8407
-  date: '1995-03-13T18:24:20'
+  date: '1994-11-21T19:04:32'
   crc: '0x72c8c28a'
 - name: S\G\GRINGAM1.SND
   size: 11884
-  date: '1995-03-13T18:24:20'
+  date: '1994-11-21T19:04:32'
   crc: '0xcc27ecb5'
 - name: S\G\GRINGAM2.SND
   size: 12080
-  date: '1995-03-13T18:24:20'
+  date: '1994-11-21T19:04:32'
   crc: '0x28bc0a3b'
 - name: S\G\GRINGAM3.SND
   size: 12164
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0x7a42d3b2'
 - name: S\G\GRINGAM4.SND
   size: 15700
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0x6351a75e'
 - name: S\G\GRINGAM5.SND
   size: 12312
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0xbcc14279'
 - name: S\G\GRINGAM6.SND
   size: 13370
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0x5e2e77dc'
 - name: S\G\GRINGAM7.SND
   size: 8909
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0xb114138c'
 - name: S\G\GRINGAM8.SND
   size: 6845
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0x0e0165e2'
 - name: S\G\GRINGAM9.SND
   size: 8390
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0x9bad5d8e'
 - name: S\G\GRMAPSC.SND
   size: 1471
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0xcf57ecfe'
 - name: S\G\GROPTION.SND
   size: 3556
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0x9c33f4b6'
 - name: S\G\GRPASS.SND
   size: 1777
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0xbe8a8698'
 - name: S\G\GRPLACE.SND
   size: 2630
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0xe5e0e7eb'
 - name: S\G\GRSTAGER.SND
   size: 4125
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0xd7402b95'
 - name: S\G\GRTITLE.SND
   size: 3776
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0x8bd63cd2'
 - name: S\LAPC0.BIN
   size: 6794
-  date: '1995-03-13T18:24:20'
+  date: '1994-11-21T19:04:32'
   crc: '0x783ff94b'
 - name: S\L\
   size: 0
-  date: '1995-09-13T13:34:52'
+  date: '1994-11-21T19:04:32'
 - name: S\L\PDLACARS.SND
   size: 5179
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0xff7487a3'
 - name: S\L\PDLACIG1.SND
   size: 11912
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0xfc2d21de'
 - name: S\L\PDLACIG2.SND
   size: 12108
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0x9b73ab3e'
 - name: S\L\PDLACIG3.SND
   size: 12161
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0xcf094cd5'
 - name: S\L\PDLACIG4.SND
   size: 15720
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0xe152052b'
 - name: S\L\PDLACIG5.SND
   size: 12312
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0xdf3eb5c5'
 - name: S\L\PDLACIG6.SND
   size: 13398
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0x63bd646f'
 - name: S\L\PDLACIG7.SND
   size: 8919
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0x65dacc20'
 - name: S\L\PDLACIG8.SND
   size: 6857
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0x4a9f34a7'
 - name: S\L\PDLACIG9.SND
   size: 8410
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0xf80f3149'
 - name: S\L\PDLACONT.SND
   size: 5101
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0xa3a3ea79'
 - name: S\L\PDLAEND.SND
   size: 3611
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0x023497eb'
 - name: S\L\PDLAFAIL.SND
   size: 731
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0xed323e88'
 - name: S\L\PDLAFIX.SND
   size: 6041
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0x92067f46'
 - name: S\L\PDLAIG10.SND
   size: 8419
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0x7c7096e5'
 - name: S\L\PDLAMAP.SND
   size: 1465
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0xe91fe2d7'
 - name: S\L\PDLAOPT.SND
   size: 3588
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0x6755d7b6'
 - name: S\L\PDLAPASS.SND
   size: 1775
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0x0f5c9ea8'
 - name: S\L\PDLAPLAC.SND
   size: 2630
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0x40b8bd66'
 - name: S\L\PDLASTAG.SND
   size: 6077
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0x0a81ea59'
 - name: S\L\PDLATITL.SND
   size: 3804
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0x20538e7a'
 - name: S\SBL0.BIN
   size: 11348
-  date: '1995-03-13T18:24:20'
+  date: '1994-11-21T19:04:32'
   crc: '0x34c98a2b'
 - name: S\SCC0.BIN
   size: 6794
-  date: '1995-03-13T18:24:20'
+  date: '1994-11-21T19:04:32'
   crc: '0x783ff94b'
 - name: S\S\
   size: 0
-  date: '1995-09-13T13:34:52'
+  date: '1994-11-21T19:04:32'
 - name: S\S\BANGCAR1.U8
   size: 3938
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0x755d344c'
 - name: S\S\GRAVEL.U8
   size: 6492
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0x32585a3a'
 - name: S\S\GRVSKID1.U8
   size: 8432
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0x180f9f4e'
 - name: S\S\HORN1.U8
   size: 2522
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0x05dcf155'
 - name: S\S\HORN4.U8
   size: 1992
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0xa159cecf'
 - name: S\S\LOOPENG1.U8
   size: 8112
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0xe8b97b33'
 - name: S\S\NGRAVEL.U8
   size: 6422
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0xcdb7c1b2'
 - name: S\S\PULLSKID.U8
   size: 13756
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0xc3a44e36'
 - name: S\S\SPLASH2.U8
   size: 9876
-  date: '1995-03-13T18:24:22'
+  date: '1994-11-21T19:04:32'
   crc: '0x54f93d2a'

@@ -1,0 +1,54 @@
+filename: Dungeon Hack CD v1.0 (Installer) (1993)(Strategic Simulations, Inc.) [Role-Playing (RPG)].zip
+tdc_id: '9539.8'
+parent_id: '9539.7'
+title:
+  box: Dungeon Hack
+  qualifier: CD
+publisher: Strategic Simulations, Inc.
+year: '1993'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2024-09-21T08:09:38'
+  last_modified: '2024-09-21T08:09:38'
+version: '1.0'
+type: zip
+media: CD-ROM
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/992/dungeon-hack/
+files:
+- name: DATA1.ARJ
+  size: 9030941
+  date: '1993-11-09T10:13:22'
+  crc: '0x2e7375e6'
+- name: DATA1.NFO
+  size: 95
+  date: '1993-11-09T10:23:50'
+  crc: '0x6286b473'
+- name: DATA2.NFO
+  size: 110
+  date: '1993-11-12T15:21:46'
+  crc: '0xcae1d748'
+- name: DATA3.NFO
+  size: 104
+  date: '1993-11-12T11:50:36'
+  crc: '0x37aed7c7'
+- name: DEARJ.EXE
+  size: 39441
+  date: '1993-03-19T16:18:52'
+  crc: '0x284b68d2'
+- name: DEMO1.ARJ
+  size: 3625572
+  date: '1993-11-12T15:39:32'
+  crc: '0xc2c4f076'
+- name: DEMO2.ARJ
+  size: 5793082
+  date: '1993-11-12T11:49:26'
+  crc: '0x42e12475'
+- name: INSTALL.EXE
+  size: 43725
+  date: '1993-11-12T15:28:42'
+  crc: '0xcb201c8e'

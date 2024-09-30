@@ -1,5 +1,6 @@
-filename: Alone in the Dark (Fr) (1992)(Infogrames Europe SA) [IMA][1440k].zip
+filename: Alone in the Dark (Fr) (1992)(Infogrames Europe SA) [IMA][1440k][!].zip
 tdc_id: '8281.24'
+parent_id: '8281.30'
 title:
   box: Alone in the Dark
 publisher: Infogrames Europe SA
@@ -8,25 +9,27 @@ genre: IMA
 language: French
 date:
   added: '2023-11-19T10:51:09'
-  last_modified: '2023-11-19T10:51:09'
+  last_modified: '2024-08-25T06:54:40'
 type: IMA
+tags:
+- KnownGood
 media: 1.44M
 references:
   mobygames: https://www.mobygames.com/game/325/alone-in-the-dark/
 files:
-- name: disk1.ima
+- name: Disk1.ima
   size: 1474560
-  date: '2005-07-16T20:36:24'
-  crc: '0x11783b10'
-- name: disk2.ima
+  date: '2024-08-24T18:10:08'
+  crc: '0x0934c407'
+- name: Disk2.ima
   size: 1474560
-  date: '2004-03-17T13:07:16'
+  date: '2024-08-24T18:10:20'
   crc: '0x73299a22'
-- name: disk3.ima
+- name: Disk3.ima
   size: 1474560
-  date: '2004-03-17T13:09:08'
-  crc: '0x52f20223'
-- name: disk4.ima
+  date: '2024-08-24T18:10:32'
+  crc: '0x4d55e0e6'
+- name: Disk4.ima
   size: 1474560
-  date: '2004-03-17T13:10:52'
-  crc: '0x8cd64cf1'
+  date: '2024-08-24T18:10:42'
+  crc: '0x9ff09742'

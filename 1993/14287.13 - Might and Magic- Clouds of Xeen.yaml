@@ -1,0 +1,40 @@
+filename: Might and Magic- Clouds of Xeen (1993)(New World Computing, Inc.) [Role-Playing (RPG)].zip
+tdc_id: '14287.13'
+parent_id: '14287.12'
+title:
+  box: 'Might and Magic: Clouds of Xeen'
+publisher: New World Computing, Inc.
+year: '1993'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2024-08-31T13:46:56'
+  last_modified: '2024-08-31T13:46:56'
+type: zip
+media: 1.44M
+commands:
+  play: XEEN.EXE
+  setup: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/3423/might-and-magic-clouds-of-xeen/
+files:
+- name: INSTALL.EXE
+  size: 19501
+  date: '1992-10-07T18:40:36'
+  crc: '0x67e79ddb'
+- name: XEEN.CC
+  size: 13435646
+  date: '1992-10-07T18:40:36'
+  crc: '0xecf2e3ab'
+- name: XEEN.DAT
+  size: 155494
+  date: '1993-04-01T15:22:42'
+  crc: '0xc6cd6d72'
+- name: XEEN.DA_
+  size: 155414
+  date: '1993-04-01T15:22:42'
+  crc: '0xbb976578'
+- name: XEEN.EXE
+  size: 38350
+  date: '1992-12-04T13:35:18'
+  crc: '0xe7cba58d'

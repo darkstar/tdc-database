@@ -1,0 +1,83 @@
+filename: SimCity Classic v2.0 (Installer) (1993)(Maxis Software Inc.) [Simulation, Strategy].zip
+tdc_id: '5991.9'
+parent_id: '5991.8'
+title:
+  box: SimCity Classic
+  screen: SimCity
+  qualifier: Installer
+publisher: Maxis Software Inc.
+year: '1993'
+genre:
+- Simulation
+- Strategy
+language: English
+date:
+  added: '2024-08-29T11:24:06'
+  last_modified: '2024-08-29T11:24:06'
+version: '2.0'
+type: zip
+media: 720K
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/202400/simcity-classic/
+files:
+- name: CEGA._
+  size: 242158
+  date: '1993-12-01T06:00:00'
+  crc: '0x1eb1b4f0'
+- name: DATA._
+  size: 195465
+  date: '1993-12-01T06:00:00'
+  crc: '0x6d2fd991'
+- name: INFO.EXE
+  size: 27025
+  date: '1993-12-01T06:00:00'
+  crc: '0x0ca7edf9'
+- name: INSTALL.EXE
+  size: 96280
+  date: '1993-12-01T06:00:00'
+  crc: '0x00c35225'
+- name: INSTALL.MXS
+  size: 6256
+  date: '1993-12-01T06:00:00'
+  crc: '0x5bd1a2f9'
+- name: INSTALL._
+  size: 30962
+  date: '1993-12-01T06:00:00'
+  crc: '0xee2675a7'
+- name: MAXIS.CIM
+  size: 67557
+  date: '1993-12-01T06:00:00'
+  crc: '0xc3a936aa'
+- name: MCGA._
+  size: 76313
+  date: '1993-12-01T06:00:00'
+  crc: '0x0b09a6e3'
+- name: MONO._
+  size: 63296
+  date: '1993-12-01T06:00:00'
+  crc: '0x0ee76f18'
+- name: POSTCARD.CIM
+  size: 15341
+  date: '1993-12-01T06:00:00'
+  crc: '0x0455f154'
+- name: README.TXT
+  size: 6241
+  date: '1993-12-01T06:00:00'
+  crc: '0xf1e0c0b7'
+- name: SCENARIO._
+  size: 75149
+  date: '1993-12-01T06:00:00'
+  crc: '0x08067fe2'
+- name: SIMCITY._
+  size: 118505
+  date: '1993-12-01T06:00:00'
+  crc: '0xef1036ef'
+- name: SIMCITY1
+  size: 0
+  date: '1993-11-30T15:21:50'
+- name: SIMCITY2
+  size: 0
+  date: '1993-11-30T15:24:28'

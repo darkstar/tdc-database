@@ -1,0 +1,44 @@
+filename: Dragon Wars (1990)(Interplay Productions, Inc.) [Action, Adventure][!].zip
+tdc_id: '6698.0'
+parent_id: '6698.3'
+title:
+  box: Dragon Wars
+publisher: Interplay Productions, Inc.
+year: '1990'
+genre:
+- Action
+- Adventure
+language: English
+date:
+  added: '2019-03-01T18:27:36'
+  last_modified: '2024-09-20T19:34:39'
+type: zip
+tags:
+- KnownGood
+media: 720K
+commands:
+  play: DRAGON.COM
+references:
+  mobygames: https://www.mobygames.com/game/2026/dragon-wars/
+  dosid: DOS01870
+  exodos: Dragon Wars (1990).zip
+files:
+- name: DATA1
+  size: 296439
+  date: '1990-02-12T16:12:00'
+  crc: '0xd4237139'
+- name: DATA2
+  size: 352430
+  date: '1990-02-12T16:12:00'
+  crc: '0x985cfbab'
+- name: DRAGON.COM
+  size: 55217
+  date: '1990-02-12T16:12:00'
+  crc: '0x1319f23e'
+- name: DWTRAN.COM
+  size: 4044
+  date: '1990-02-12T16:12:00'
+  crc: '0xc0542c53'
+- name: Dragon W.ars
+  size: 0
+  date: '1990-02-12T17:24:50'

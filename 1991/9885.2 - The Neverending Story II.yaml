@@ -1,7 +1,8 @@
-filename: Neverending Story II, The (1991)(Merit Studios, Inc.) [Action, Adventure].zip
+filename: Neverending Story II- The Arcade Game, The (1991)(Merit Studios, Inc.) [Action, Adventure].zip
 tdc_id: '9885.2'
 title:
-  box: The Neverending Story II
+  box: 'The Neverending Story II: The Arcade Game'
+  screen: The Neverending Story II
 publisher: Merit Studios, Inc.
 year: '1991'
 genre:
@@ -10,10 +11,12 @@ genre:
 language: English
 date:
   added: '2022-12-07T13:05:02'
-  last_modified: '2022-12-07T13:05:02'
+  last_modified: '2024-09-17T17:55:18'
 type: zip
 commands:
   play: NES2.EXE
+references:
+  mobygames: https://www.mobygames.com/game/528/the-neverending-story-ii-the-arcade-game/
 files:
 - name: 3D.BIC
   size: 3767

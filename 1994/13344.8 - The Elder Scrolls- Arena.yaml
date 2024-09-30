@@ -1,7 +1,8 @@
-filename: Elder Scrolls, The- Arena v1.06 (Installer) (1994)(Bethesda Softworks LLC) [Action, Role-Playing (RPG)].zip
+filename: Elder Scrolls, The- Arena v1.00 r940217 (Installer) (1994)(Bethesda Softworks LLC) [Action, Role-Playing (RPG)].zip
 tdc_id: '13344.8'
 title:
   box: 'The Elder Scrolls: Arena'
+  qualifier: Installer
 publisher: Bethesda Softworks LLC
 year: '1994'
 genre:
@@ -10,10 +11,15 @@ genre:
 language: English
 date:
   added: '2019-03-01T21:56:28'
-  last_modified: '2019-03-01T21:56:28'
-version: '1.06'
+  last_modified: '2024-08-28T19:09:54'
+version: '1.00'
+release: '940217'
 type: zip
 installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/803/the-elder-scrolls-arena/
 files:
 - name: 39300577.MIF
   size: 16004
@@ -24,9 +30,13 @@ files:
   date: '1994-01-18T18:45:52'
   crc: '0x35d6780e'
 - name: A.EXE
-  size: 174031
-  date: '1994-08-20T23:28:58'
-  crc: '0xeb17f3de'
+  size: 313840
+  date: '1994-02-17T12:16:30'
+  crc: '0x42813424'
+- name: A.EX_
+  size: 169675
+  date: '1994-01-31T18:44:48'
+  crc: '0xd130bb98'
 - name: ARENA.1
   size: 1407247
   date: '1994-01-14T15:06:52'
@@ -90,34 +100,22 @@ files:
   size: 4
   date: '1994-01-14T16:04:52'
   crc: '0xd1610bc6'
-- name: ARROWS.CIF
-  size: 1178
-  date: '1994-04-14T17:45:04'
-  crc: '0xa327df8b'
 - name: BOOTEXEC.CPY
   size: 115
   date: '1993-10-06T18:14:20'
   crc: '0xd901c2a3'
-- name: BS5.MIF
-  size: 830
-  date: '1994-02-09T12:17:04'
-  crc: '0x8ff650a0'
-- name: CHARSPEL.IMG
-  size: 64780
-  date: '1994-02-23T17:11:50'
-  crc: '0x803b5127'
 - name: CONFIG.CPY
   size: 98
   date: '1993-09-04T13:02:36'
   crc: '0x353b6895'
-- name: CRYSTAL3.INF
-  size: 5581
-  date: '1994-04-29T13:41:44'
-  crc: '0xebcfed3f'
 - name: HELP.TXT
   size: 5623
   date: '1994-01-31T18:36:12'
   crc: '0xc0f81ea5'
+- name: HELP.TX_
+  size: 5620
+  date: '1993-04-20T19:12:16'
+  crc: '0xb061236f'
 - name: IMPPAL.MIF
   size: 8639
   date: '1994-01-21T18:36:04'
@@ -139,78 +137,26 @@ files:
   date: '1994-01-21T18:34:04'
   crc: '0x50877c18'
 - name: INSTALL.EXE
-  size: 82864
-  date: '1994-05-11T11:55:36'
-  crc: '0x924491b1'
+  size: 26157
+  date: '1994-01-21T14:05:04'
+  crc: '0x2c395a79'
 - name: NAMES.DAT
   size: 480
   date: '1994-01-21T17:18:20'
-  crc: '0xff8df7f7'
+  crc: '0x958ca5c0'
 - name: RANDOM1.MIF
-  size: 22880
-  date: '1994-02-09T16:36:54'
-  crc: '0x6503fea8'
-- name: READ.ME
-  size: 9892
-  date: '1994-08-08T15:06:42'
-  crc: '0xc73ba809'
+  size: 22791
+  date: '1994-01-27T14:16:16'
+  crc: '0x1d4cf831'
 - name: README.BAT
-  size: 21
-  date: '1994-05-11T10:06:36'
-  crc: '0x7191ad5d'
+  size: 26
+  date: '1994-01-31T17:02:06'
+  crc: '0x85fe6853'
 - name: README.TXT
-  size: 2876
-  date: '1994-02-10T17:54:52'
-  crc: '0x95063cfb'
-- name: SCROLL03.IMG
-  size: 20163
-  date: '1994-02-16T16:52:56'
-  crc: '0xa4d63296'
+  size: 2446
+  date: '1994-01-31T17:00:28'
+  crc: '0xad0c5201'
 - name: SPELLS.LST
-  size: 10880
-  date: '1994-01-19T16:39:30'
-  crc: '0x6de061f3'
-- name: SPELLSG.00
-  size: 10880
-  date: '1994-01-19T16:39:30'
-  crc: '0x6de061f3'
-- name: SPELLSG.01
-  size: 10880
-  date: '1994-01-19T16:39:30'
-  crc: '0x6de061f3'
-- name: SPELLSG.02
-  size: 10880
-  date: '1994-01-19T16:39:30'
-  crc: '0x6de061f3'
-- name: SPELLSG.03
-  size: 10880
-  date: '1994-01-19T16:39:30'
-  crc: '0x6de061f3'
-- name: SPELLSG.04
-  size: 10880
-  date: '1994-01-19T16:39:30'
-  crc: '0x6de061f3'
-- name: SPELLSG.05
-  size: 10880
-  date: '1994-01-19T16:39:30'
-  crc: '0x6de061f3'
-- name: SPELLSG.06
-  size: 10880
-  date: '1994-01-19T16:39:30'
-  crc: '0x6de061f3'
-- name: SPELLSG.07
-  size: 10880
-  date: '1994-01-19T16:39:30'
-  crc: '0x6de061f3'
-- name: SPELLSG.08
-  size: 10880
-  date: '1994-01-19T16:39:30'
-  crc: '0x6de061f3'
-- name: SPELLSG.09
-  size: 10880
-  date: '1994-01-19T16:39:30'
-  crc: '0x6de061f3'
-- name: SPELLSG.65
   size: 10880
   date: '1994-01-19T16:39:30'
   crc: '0x6de061f3'

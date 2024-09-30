@@ -1,0 +1,71 @@
+filename: Sorcerer r6 (Installer) (1985)(Infocom, Inc.) [Adventure, Interactive Fiction][!].zip
+tdc_id: '6862.11'
+parent_id: '6862.10'
+title:
+  box: Sorcerer
+  qualifier: Installer
+publisher: Infocom, Inc.
+year: '1985'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2024-09-13T05:55:40'
+  last_modified: '2024-09-13T05:55:40'
+release: '6'
+type: zip
+tags:
+- KnownGood
+media: 360K
+installer: true
+commands:
+  play: SORCERER.COM
+  setup: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/57/sorcerer/
+files:
+- name: AF.EXE
+  size: 13168
+  date: '1985-05-28T13:27:14'
+  crc: '0xac30980c'
+- name: GAMEDIR.COM
+  size: 62
+  date: '1985-05-31T10:45:50'
+  crc: '0xee6703b0'
+- name: INSTALL.BAT
+  size: 2176
+  date: '1985-05-31T13:48:34'
+  crc: '0x37ae5f29'
+- name: INSTALLH.BAT
+  size: 1024
+  date: '1985-05-31T10:49:28'
+  crc: '0x9e643246'
+- name: SCAN.COM
+  size: 114
+  date: '1985-05-23T11:58:58'
+  crc: '0x15be874f'
+- name: SETUP.EXE
+  size: 1605
+  date: '1985-02-26T17:13:20'
+  crc: '0x98ef1221'
+- name: SETUP.INF
+  size: 3
+  date: '1985-05-04T20:39:12'
+  crc: '0x8bdcb97d'
+- name: SORCERER.COM
+  size: 11394
+  date: '1980-01-01T01:15:32'
+  crc: '0xfcb616b9'
+- name: SORCERER.DAT
+  size: 109568
+  date: '1980-01-01T00:31:34'
+  crc: '0xf1c294c9'
+- name: STATLINE.BAT
+  size: 3328
+  date: '1985-05-31T11:53:22'
+  crc: '0x20890f2c'
+- name: YES.COM
+  size: 93
+  date: '1984-11-30T12:02:30'
+  crc: '0x01bd6af9'

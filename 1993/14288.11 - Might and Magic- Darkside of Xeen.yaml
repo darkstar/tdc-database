@@ -1,0 +1,37 @@
+filename: Might and Magic- Darkside of Xeen patch r930719 (1993)(New World Computing, Inc.) [Role-Playing (RPG), Addon].zip
+tdc_id: '14288.11'
+title:
+  screen: 'Might and Magic: Darkside of Xeen'
+  qualifier: patch
+publisher: New World Computing, Inc.
+year: '1993'
+genre:
+- Role-Playing (RPG)
+- Addon
+language: English
+date:
+  added: '2024-08-30T09:30:49'
+  last_modified: '2024-08-30T09:30:49'
+release: '930719'
+type: zip
+media: Download
+patch: true
+references:
+  mobygames: https://www.mobygames.com/game/3424/might-and-magic-darkside-of-xeen/
+files:
+- name: INSTALL.EXE
+  size: 21876
+  date: '1993-05-24T11:11:42'
+  crc: '0x5e91925d'
+- name: README.BAT
+  size: 272
+  date: '1994-04-22T11:15:06'
+  crc: '0xbab0e42a'
+- name: XEEN.DAT
+  size: 153919
+  date: '1993-07-19T15:08:32'
+  crc: '0x97d96e6d'
+- name: XEEN.EXE
+  size: 53681
+  date: '1993-06-10T17:10:42'
+  crc: '0xb9ad93d2'

@@ -1,0 +1,98 @@
+filename: Skyfox II- The Cygnus Conflict (1988)(Electronic Arts, Inc.) [Action][!].zip
+tdc_id: '10027.0'
+parent_id: '10027.1'
+title:
+  box: 'Skyfox II: The Cygnus Conflict'
+publisher: Electronic Arts, Inc.
+year: '1988'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:26:46'
+  last_modified: '2024-09-27T08:38:38'
+type: zip
+tags:
+- KnownGood
+media: 720K
+commands:
+  play: SKYFOX16.EXE
+references:
+  mobygames: https://www.mobygames.com/game/192/skyfox-ii-the-cygnus-conflict/
+  dosid: DOS03408
+  exodos: Skyfox II - The Cygnus Conflict (1988).zip
+files:
+- name: BITMAPS\
+  size: 0
+  date: '1980-01-01T00:09:52'
+- name: BITMAPS\CGAMAPS.PCK
+  size: 59307
+  date: '1988-02-20T15:25:50'
+  crc: '0xbe23c24c'
+- name: BITMAPS\CREDITS.INF
+  size: 618
+  date: '1987-12-22T12:43:54'
+  crc: '0x133218e3'
+- name: BITMAPS\CREDITS.PCK
+  size: 54981
+  date: '1988-01-12T13:41:40'
+  crc: '0xca787b86'
+- name: BITMAPS\EGACRDTS.INF
+  size: 618
+  date: '1988-02-27T17:17:22'
+  crc: '0xb22589c9'
+- name: BITMAPS\EGACRDTS.PCK
+  size: 57219
+  date: '1988-02-27T17:20:52'
+  crc: '0x202bbeb0'
+- name: BITMAPS\EGAFOX.INF
+  size: 1774
+  date: '1988-03-01T13:26:58'
+  crc: '0x4aece50a'
+- name: BITMAPS\EGAFOX.PCK
+  size: 110481
+  date: '1988-03-01T13:28:10'
+  crc: '0x6e41e192'
+- name: BITMAPS\EGAMAPS.PCK
+  size: 97412
+  date: '1988-03-01T13:13:42'
+  crc: '0xa2f6f1d3'
+- name: BITMAPS\FONT
+  size: 1536
+  date: '1988-01-12T12:48:46'
+  crc: '0x0c739d45'
+- name: BITMAPS\FONT16.DAT
+  size: 3072
+  date: '1988-01-28T12:26:54'
+  crc: '0x68e402f5'
+- name: BITMAPS\SCENARIO.PCK
+  size: 2305
+  date: '1988-02-26T13:29:18'
+  crc: '0xd98f08de'
+- name: BITMAPS\STARFOX.INF
+  size: 1774
+  date: '1988-01-19T13:40:42'
+  crc: '0x991108f3'
+- name: BITMAPS\STARFOX.PCK
+  size: 130531
+  date: '1988-01-19T13:39:46'
+  crc: '0x2522d5dd'
+- name: INST16.BAT
+  size: 1923
+  date: '1988-03-17T15:19:00'
+  crc: '0x2f92c530'
+- name: INST4.BAT
+  size: 2560
+  date: '1988-03-17T15:18:22'
+  crc: '0x786a5fea'
+- name: MAKE.BAT
+  size: 844
+  date: '1988-03-17T15:25:42'
+  crc: '0xc4f4cb25'
+- name: SKYFOX16.EXE
+  size: 84121
+  date: '1988-03-17T11:06:02'
+  crc: '0x0e1b5a78'
+- name: SKYFOX4.EXE
+  size: 81125
+  date: '1988-03-17T11:26:42'
+  crc: '0xd0d51a73'

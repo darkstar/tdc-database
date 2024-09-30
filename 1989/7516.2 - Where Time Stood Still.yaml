@@ -1,0 +1,75 @@
+filename: Where Time Stood Still (1989)(Ocean Software Ltd., C.T.O. srl) [Action, Adventure].zip
+tdc_id: '7516.2'
+parent_id: '7516.1'
+title:
+  box: Where Time Stood Still
+publisher: Ocean Software Ltd., C.T.O. srl
+year: '1989'
+genre:
+- Action
+- Adventure
+language: English
+date:
+  added: '2024-08-29T07:16:08'
+  last_modified: '2024-08-29T07:16:08'
+type: zip
+media: 360K
+commands:
+  play: WTSS.BAT
+references:
+  mobygames: https://www.mobygames.com/game/15030/where-time-stood-still/
+files:
+- name: C\
+  size: 0
+  date: '1989-03-09T16:15:24'
+- name: C\MASKSET.X
+  size: 1968
+  date: '1989-03-09T16:59:26'
+  crc: '0x29bf6283'
+- name: C\P.COM
+  size: 56
+  date: '1989-03-09T17:02:36'
+  crc: '0xad010528'
+- name: C\P.CO_
+  size: 2398
+  date: '1989-03-09T17:02:36'
+  crc: '0xd712d491'
+- name: C\S.EXE
+  size: 263168
+  date: '1989-03-09T17:02:32'
+  crc: '0x79af387a'
+- name: C\TMAPSET.X
+  size: 21120
+  date: '1989-03-09T16:59:42'
+  crc: '0x9c549b9c'
+- name: M.COM
+  size: 248
+  date: '1989-03-09T12:16:34'
+  crc: '0x57f0f18f'
+- name: O\
+  size: 0
+  date: '1989-03-09T16:15:22'
+- name: O\I.EXE
+  size: 167936
+  date: '1989-03-09T12:16:24'
+  crc: '0x283632ea'
+- name: O\MASKSET.X
+  size: 3936
+  date: '1989-03-09T12:16:28'
+  crc: '0xd14bbfc0'
+- name: O\P.COM
+  size: 56
+  date: '1989-03-09T17:02:36'
+  crc: '0xad010528'
+- name: O\P.CO_
+  size: 2398
+  date: '1989-03-09T12:16:32'
+  crc: '0xd712d491'
+- name: WTSS.BAT
+  size: 88
+  date: '1989-03-09T12:16:36'
+  crc: '0x8b9d262d'
+- name: WTSS.BA_
+  size: 88
+  date: '1989-03-09T12:16:36'
+  crc: '0x08af8ab9'

@@ -1,8 +1,10 @@
-filename: Power Drive (Installer) (En)(De)(Fr)(It)(Es) (1994)(Back Alley Publishing) [Action, Racing - Driving].zip
+filename: Power Drive v1.00 (Installer) (En)(De)(Fr)(It)(Es) (1994)(U.S. Gold Ltd.) [Action, Racing - Driving][!].zip
 tdc_id: '9923.1'
+parent_id: '9923.2'
 title:
-  screen: Power Drive
-publisher: Back Alley Publishing
+  box: Power Drive
+  qualifier: Installer
+publisher: U.S. Gold Ltd.
 year: '1994'
 genre:
 - Action
@@ -15,14 +17,18 @@ language:
 - German
 date:
   added: '2019-03-01T22:02:50'
-  last_modified: '2019-03-01T22:02:50'
+  last_modified: '2024-09-26T08:10:50'
+version: '1.00'
 type: zip
+tags:
+- KnownGood
+media: 1.44M
 installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/13017/power-drive/
 files:
-- name: CRACK.COM
-  size: 6160
-  date: '1993-02-23T12:12:36'
-  crc: '0xd95f5f0f'
 - name: INSTALL.EXE
   size: 22050
   date: '1994-11-21T18:27:14'
@@ -35,3 +41,7 @@ files:
   size: 817599
   date: '1991-11-21T19:04:32'
   crc: '0xeb67b9d3'
+- name: README.TXT
+  size: 396
+  date: '1991-11-11T14:37:46'
+  crc: '0xdf2aaab1'

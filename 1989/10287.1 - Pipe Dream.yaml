@@ -1,17 +1,26 @@
-filename: Pipe Dream [a1] (1989)(LucasArts) [Strategy].zip
+filename: Pipe Dream r890925 (1989)(Soft-World International Corporation, Lucasfilm Games LLC) [Strategy, Action][!].zip
 tdc_id: '10287.1'
+parent_id: '10287.5'
 title:
   box: Pipe Dream
-publisher: LucasArts
+publisher: Soft-World International Corporation, Lucasfilm Games LLC
 year: '1989'
-genre: Strategy
+genre:
+- Strategy
+- Action
 language: English
 date:
   added: '2019-03-01T18:28:38'
-  last_modified: '2019-03-01T18:28:38'
+  last_modified: '2024-09-13T08:06:54'
+release: '890925'
 type: zip
 tags:
-- Alternate: 1
+- KnownGood
+media: 360K
+commands:
+  play: PIPE.EXE
+references:
+  mobygames: https://www.mobygames.com/game/2112/pipe-dream/
 files:
 - name: ARTSET1.ART
   size: 11869
@@ -137,6 +146,9 @@ files:
   size: 4179
   date: '1989-09-24T12:00:00'
   crc: '0x644b1578'
+- name: Pipe Dre.am
+  size: 0
+  date: '1989-09-26T00:54:06'
 - name: README
   size: 977
   date: '1989-09-24T12:00:00'

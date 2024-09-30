@@ -1,8 +1,10 @@
-filename: Heimdall 2- Into the Hall of Worlds (Installer) (En)(De)(Fr)(It)(Es)(No) (1994)(Core Design Ltd.) [Role-Playing (RPG)].zip
+filename: Heimdall 2- Into the Hall of Worlds (Installer) (En)(De)(Fr)(It)(Es) (1994)(Core Design Ltd.) [Role-Playing (RPG)][!].zip
 tdc_id: '5357.2'
 parent_id: '5357.3'
 title:
-  box: 'Heimdall 2: Into the Hall of Worlds'
+  box: Heimdall 2
+  screen: 'Heimdall 2: Into the Hall of Worlds'
+  qualifier: Installer
 publisher: Core Design Ltd.
 year: '1994'
 genre: Role-Playing (RPG)
@@ -12,14 +14,18 @@ language:
 - French
 - Italian
 - German
-- Norwegian
 date:
   added: '2019-03-01T21:59:54'
-  last_modified: '2019-03-01T21:59:54'
+  last_modified: '2024-09-24T11:56:06'
 type: zip
+tags:
+- KnownGood
+media: 1.44M
 installer: true
 commands:
   play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1135/heimdall-2-into-the-hall-of-worlds/
 files:
 - name: H2PC.001
   size: 1419264
@@ -29,6 +35,9 @@ files:
   size: 1383751
   date: '1994-07-14T16:19:08'
   crc: '0x78e5ae8f'
+- name: HEIMDALL._2
+  size: 0
+  date: '1994-07-14T16:16:56'
 - name: INSTALL.EXE
   size: 24951
   date: '1994-07-13T16:04:02'

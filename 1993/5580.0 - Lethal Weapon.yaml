@@ -1,0 +1,33 @@
+filename: Lethal Weapon (1993)(Ocean Software Ltd.) [Action].zip
+tdc_id: '5580.0'
+parent_id: '5580.1'
+title:
+  box: Lethal Weapon
+publisher: Ocean Software Ltd.
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:48:50'
+  last_modified: '2024-09-27T08:09:49'
+type: zip
+media: 720K
+commands:
+  play: LETHAL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/6956/lethal-weapon/
+  dosid: DOS03147
+  exodos: Lethal Weapon (1992).zip
+files:
+- name: LETHAL.EXE
+  size: 3708424
+  date: '1993-02-18T06:11:28'
+  crc: '0x674d41d7'
+- name: READ.ME
+  size: 1729
+  date: '1993-02-18T06:11:28'
+  crc: '0xc03d4b1e'
+- name: WIPELETH.EXE
+  size: 3166
+  date: '1993-02-18T06:11:28'
+  crc: '0x87d09208'

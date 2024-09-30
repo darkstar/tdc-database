@@ -1,8 +1,9 @@
-filename: Daily Crossword, The v1.1 (Installer) [SW] (1994)(John Stevens) [Strategy, Puzzle].zip
+filename: Daily Crossword, The v1.1 (Installer) [SW] (1994)(AUS-PC-SOFT, John Stevens) [Strategy, Puzzle].zip
 tdc_id: '12905.4'
 title:
   screen: The Daily Crossword
-publisher: John Stevens
+  qualifier: Installer
+publisher: AUS-PC-SOFT, John Stevens
 year: '1994'
 genre:
 - Strategy
@@ -10,13 +11,15 @@ genre:
 language: English
 date:
   added: '2019-01-19T14:04:58'
-  last_modified: '2019-01-19T14:04:58'
+  last_modified: '2024-08-17T08:04:45'
 version: '1.1'
 type: zip
 tags:
 - Shareware
 media: Download
 installer: true
+commands:
+  play: INSTALL.EXE
 files:
 - name: 013X013A.001
   size: 169
@@ -70,6 +73,10 @@ files:
   size: 78818
   date: '1993-06-30T19:13:48'
   crc: '0xc924b176'
+- name: FILE_ID.DIZ
+  size: 424
+  date: '1994-05-16T19:16:26'
+  crc: '0xa7d61f3b'
 - name: HELP.ENG
   size: 24968
   date: '1994-04-26T08:01:22'
@@ -106,7 +113,3 @@ files:
   size: 116040
   date: '1994-05-16T19:11:46'
   crc: '0x1fdc8740'
-- name: file_id.diz
-  size: 424
-  date: '1994-05-16T19:16:26'
-  crc: '0xa7d61f3b'

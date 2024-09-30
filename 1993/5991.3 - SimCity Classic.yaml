@@ -1,8 +1,9 @@
-filename: SimCity Classic v2.0 [a1] (1993)(Mindscape, Inc.) [Simulation, Strategy].zip
+filename: SimCity Classic v2.0 (1993)(The Hit Squad, Maxis Software Inc.) [Simulation, Strategy].zip
 tdc_id: '5991.3'
+parent_id: '5991.2'
 title:
   box: SimCity Classic
-publisher: Mindscape, Inc.
+publisher: The Hit Squad, Maxis Software Inc.
 year: '1993'
 genre:
 - Simulation
@@ -10,267 +11,262 @@ genre:
 language: English
 date:
   added: '2019-03-01T21:07:38'
-  last_modified: '2019-03-01T21:07:38'
+  last_modified: '2024-08-29T14:02:11'
 version: '2.0'
 type: zip
-tags:
-- Alternate: 1
+media: 720K
+commands:
+  play: SIMCITY.EXE
+  setup: SETTINGS.EXE
 references:
+  mobygames: https://www.mobygames.com/game/202400/simcity-classic/
   dosid: DOS00217
   exodos: SimCity Classic (1994).zip
 files:
 - name: CEGA\
   size: 0
-  date: '2015-09-07T18:56:18'
+  date: '2024-08-29T12:02:56'
 - name: CEGA\CEGADAT.PGF
   size: 90675
-  date: '2015-09-07T18:56:16'
+  date: '1993-08-01T06:00:00'
   crc: '0x0b3d84be'
 - name: CEGA\CEGANTRO.PPF
   size: 40531
-  date: '2015-09-07T18:56:08'
+  date: '1993-08-01T06:00:00'
   crc: '0xc0545d15'
 - name: CEGA\CEGASCEN.PPF
   size: 34432
-  date: '2015-09-07T18:56:10'
+  date: '1993-08-01T06:00:00'
   crc: '0xf730d5b7'
 - name: CEGA\CEGATBAR.PGF
   size: 1701
-  date: '2015-09-07T18:56:16'
+  date: '1993-08-01T06:00:00'
   crc: '0x9ecee37b'
 - name: CEGA\CEGATE.PPF
   size: 31020
-  date: '2015-09-07T18:56:18'
+  date: '1993-08-01T06:00:00'
   crc: '0xa51226e5'
 - name: CEGA\CVGANTRO.PPF
   size: 54719
-  date: '2015-09-07T18:56:20'
+  date: '1993-08-01T06:00:00'
   crc: '0x21bab535'
-- name: CLASSIC.CFG
-  size: 72
-  date: '2015-09-07T18:57:16'
-  crc: '0xae326ce2'
 - name: DATA\
   size: 0
-  date: '2015-09-07T18:56:52'
+  date: '2024-08-29T12:03:30'
 - name: DATA\ADLIB.ADV
   size: 14775
-  date: '2015-09-07T18:56:44'
+  date: '1993-08-01T06:00:00'
   crc: '0x865e52d2'
 - name: DATA\ADLIBG.ADV
   size: 16257
-  date: '2015-09-07T18:56:46'
+  date: '1993-08-01T06:00:00'
   crc: '0xaacc891f'
 - name: DATA\ALGDIG.ADV
   size: 5770
-  date: '2015-09-07T18:56:46'
+  date: '1993-08-01T06:00:00'
   crc: '0xa7ecbb4b'
 - name: DATA\BULLLOOP.VOC
   size: 1857
-  date: '2015-09-07T18:56:50'
+  date: '1993-08-01T06:00:00'
   crc: '0x5d68a499'
 - name: DATA\COPTER.VOC
   size: 13274
-  date: '2015-09-07T18:56:50'
+  date: '1993-08-01T06:00:00'
   crc: '0xcd8865ea'
 - name: DATA\EXPLODE.VOC
   size: 12769
-  date: '2015-09-07T18:56:50'
+  date: '1993-08-01T06:00:00'
   crc: '0x43fd7663'
 - name: DATA\GMT32MPU.ADV
   size: 10843
-  date: '2015-09-07T18:56:42'
+  date: '1993-08-01T06:00:00'
   crc: '0xac2d523b'
 - name: DATA\HONK.VOC
   size: 5636
-  date: '2015-09-07T18:56:52'
+  date: '1993-08-01T06:00:00'
   crc: '0xfd9d4b26'
 - name: DATA\MANGO.VOC
   size: 16279
-  date: '2015-09-07T18:56:52'
+  date: '1993-08-01T06:00:00'
   crc: '0x20c672de'
 - name: DATA\MESSAGE.PTF
   size: 4885
-  date: '2015-09-07T18:56:42'
+  date: '1993-08-01T06:00:00'
   crc: '0x7b050cbe'
 - name: DATA\MT32MPU.ADV
   size: 10707
-  date: '2015-09-07T18:56:46'
+  date: '1993-08-01T06:00:00'
   crc: '0xcfd00e6c'
 - name: DATA\PASDIG.ADV
   size: 4361
-  date: '2015-09-07T18:56:46'
+  date: '1993-08-01T06:00:00'
   crc: '0x0edba24b'
 - name: DATA\PASFM.ADV
   size: 15242
-  date: '2015-09-07T18:56:46'
+  date: '1993-08-01T06:00:00'
   crc: '0xd73676bd'
 - name: DATA\PASOPL.ADV
   size: 16333
-  date: '2015-09-07T18:56:48'
+  date: '1993-08-01T06:00:00'
   crc: '0x527b4aef'
 - name: DATA\PCSPKR.ADV
   size: 8434
-  date: '2015-09-07T18:56:48'
+  date: '1993-08-01T06:00:00'
   crc: '0x092c07c9'
 - name: DATA\PLOP.VOC
   size: 1422
-  date: '2015-09-07T18:56:52'
+  date: '1993-08-01T06:00:00'
   crc: '0x8a6521d3'
 - name: DATA\POLICE.VOC
   size: 14294
-  date: '2015-09-07T18:56:52'
+  date: '1993-08-01T06:00:00'
   crc: '0x26510b17'
 - name: DATA\SBDIG.ADV
   size: 4667
-  date: '2015-09-07T18:56:44'
+  date: '1993-08-01T06:00:00'
   crc: '0x0214818d'
 - name: DATA\SBFM.ADV
   size: 14825
-  date: '2015-09-07T18:56:44'
+  date: '1993-08-01T06:00:00'
   crc: '0xaa4f129e'
 - name: DATA\SBP1FM.ADV
   size: 15235
-  date: '2015-09-07T18:56:48'
+  date: '1993-08-01T06:00:00'
   crc: '0x8abc7aa2'
 - name: DATA\SBP2FM.ADV
   size: 16357
-  date: '2015-09-07T18:56:48'
+  date: '1993-08-01T06:00:00'
   crc: '0x87e2ad7b'
 - name: DATA\SBPDIG.ADV
   size: 4946
-  date: '2015-09-07T18:56:48'
+  date: '1993-08-01T06:00:00'
   crc: '0xe08717b1'
 - name: DATA\SCTUNE.XMI
   size: 9788
-  date: '2015-09-07T18:56:44'
+  date: '1993-08-01T06:00:00'
   crc: '0x357291bd'
 - name: DATA\SIMTIMBR.AD
   size: 3622
-  date: '2015-09-07T18:56:42'
+  date: '1993-08-01T06:00:00'
   crc: '0xdc54ec25'
 - name: DATA\SIMTIMBR.OPL
   size: 5591
-  date: '2015-09-07T18:56:42'
+  date: '1993-08-01T06:00:00'
   crc: '0x128e43c4'
 - name: DATA\SOUNDDAT.PSF
   size: 17819
-  date: '2015-09-07T18:56:42'
+  date: '1993-08-01T06:00:00'
   crc: '0xb1deb078'
 - name: DATA\TANDY.ADV
   size: 8746
-  date: '2015-09-07T18:56:50'
+  date: '1993-08-01T06:00:00'
   crc: '0xee082d8d'
 - name: DATA\TOOTIT.VOC
   size: 14191
-  date: '2015-09-07T18:56:54'
+  date: '1993-08-01T06:00:00'
   crc: '0xf9bce6e8'
 - name: INFO.EXE
   size: 27025
-  date: '2015-09-07T18:55:54'
+  date: '1993-08-01T06:00:00'
   crc: '0x0ca7edf9'
 - name: INSTALL.MXS
   size: 6068
-  date: '2015-09-07T18:55:52'
+  date: '1993-08-01T06:00:00'
   crc: '0xbd9a1182'
 - name: MAXIS.CIM
   size: 67557
-  date: '2015-09-07T18:55:52'
+  date: '1993-08-01T06:00:00'
   crc: '0xc3a936aa'
 - name: MCGA\
   size: 0
-  date: '2015-09-07T18:56:26'
+  date: '2024-08-29T12:03:04'
 - name: MCGA\MCGADAT.PGF
   size: 41671
-  date: '2015-09-07T18:56:24'
+  date: '1993-08-01T06:00:00'
   crc: '0xd21787e4'
 - name: MCGA\MCGANTRO.PPF
   size: 25219
-  date: '2015-09-07T18:56:26'
+  date: '1993-08-01T06:00:00'
   crc: '0x8cab0ffa'
 - name: MCGA\MCGASCEN.PPF
   size: 10680
-  date: '2015-09-07T18:56:26'
+  date: '1993-08-01T06:00:00'
   crc: '0x6f9d04f0'
 - name: MCGA\MCGATBAR.PGF
   size: 1042
-  date: '2015-09-07T18:56:24'
+  date: '1993-08-01T06:00:00'
   crc: '0xc4d50024'
 - name: MONO\
   size: 0
-  date: '2015-09-07T18:56:34'
+  date: '2024-08-29T12:03:12'
 - name: MONO\MONODAT.PGF
   size: 37304
-  date: '2015-09-07T18:56:32'
+  date: '1993-08-01T06:00:00'
   crc: '0x6a661c30'
 - name: MONO\MONONTRO.PPF
   size: 13913
-  date: '2015-09-07T18:56:32'
+  date: '1993-08-01T06:00:00'
   crc: '0x2d8917d0'
 - name: MONO\MONOSCEN.PPF
   size: 14287
-  date: '2015-09-07T18:56:34'
+  date: '1993-08-01T06:00:00'
   crc: '0x4d0437dd'
 - name: MONO\MONOTBAR.PGF
   size: 518
-  date: '2015-09-07T18:56:34'
+  date: '1993-08-01T06:00:00'
   crc: '0x7d0f6adc'
 - name: POSTCARD.CIM
   size: 15341
-  date: '2015-09-07T18:55:52'
+  date: '1993-08-01T06:00:00'
   crc: '0x0455f154'
 - name: README.TXT
-  size: 6110
-  date: '2015-09-07T18:55:54'
-  crc: '0x244eb771'
+  size: 6115
+  date: '1993-08-01T06:00:00'
+  crc: '0x6f5c4418'
 - name: SCENARIO\
   size: 0
-  date: '2015-09-07T18:56:40'
+  date: '2024-08-29T12:03:18'
 - name: SCENARIO\BERN.PSN
   size: 8946
-  date: '2015-09-07T18:56:36'
+  date: '1993-08-01T06:00:00'
   crc: '0xe0a34da3'
 - name: SCENARIO\BOSTON.PSN
   size: 11030
-  date: '2015-09-07T18:56:40'
+  date: '1993-08-01T06:00:00'
   crc: '0x6ce96ca5'
 - name: SCENARIO\DETROIT.PSN
   size: 10086
-  date: '2015-09-07T18:56:38'
+  date: '1993-08-01T06:00:00'
   crc: '0x3da56768'
 - name: SCENARIO\DULLSVIL.PSN
   size: 6281
-  date: '2015-09-07T18:56:36'
+  date: '1993-08-01T06:00:00'
   crc: '0x5604885f'
 - name: SCENARIO\HAMBURG.PSN
   size: 10639
-  date: '2015-09-07T18:56:36'
+  date: '1993-08-01T06:00:00'
   crc: '0xaae5eff3'
 - name: SCENARIO\RIO.PSN
   size: 10379
-  date: '2015-09-07T18:56:40'
+  date: '1993-08-01T06:00:00'
   crc: '0x030defa9'
 - name: SCENARIO\SANFRAN.PSN
   size: 9328
-  date: '2015-09-07T18:56:36'
+  date: '1993-08-01T06:00:00'
   crc: '0xf6371d63'
 - name: SCENARIO\TOKYO.PSN
   size: 9846
-  date: '2015-09-07T18:56:38'
+  date: '1993-08-01T06:00:00'
   crc: '0xdc6fb8ed'
 - name: SETTINGS.EXE
   size: 103735
-  date: '2015-09-07T18:55:54'
+  date: '1993-08-01T06:00:00'
   crc: '0xd52a9ec0'
-- name: SIMCITY.CFG
-  size: 77
-  date: '2015-09-07T18:57:16'
-  crc: '0x1db89b05'
 - name: SIMCITY.EXE
   size: 282913
-  date: '2015-09-07T18:56:04'
+  date: '1993-08-01T06:00:00'
   crc: '0x5b1e614e'
 - name: VRF_ADV.EXE
   size: 18686
-  date: '2015-09-07T18:55:56'
+  date: '1993-08-01T06:00:00'
   crc: '0xf2a2ff24'

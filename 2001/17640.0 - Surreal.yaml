@@ -1,0 +1,47 @@
+filename: Surreal v1.0 (2001)(Matthew Lowe) [Adventure, Interactive Fiction].zip
+tdc_id: '17640.0'
+title:
+  box: Surreal
+publisher: Matthew Lowe
+year: '2001'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2024-08-22T11:52:11'
+  last_modified: '2024-08-22T11:52:11'
+version: '1.0'
+type: zip
+media: Download
+commands:
+  play: SURREAL.BAT
+files:
+- name: ADVENT.000
+  size: 14592
+  date: '2024-08-19T20:17:18'
+  crc: '0x29383ed4'
+- name: ADVENT.001
+  size: 10752
+  date: '2024-08-19T20:17:22'
+  crc: '0x0e5a178e'
+- name: ADVENT.002
+  size: 20992
+  date: '2024-08-19T20:17:42'
+  crc: '0x1dafa2f9'
+- name: ADVENT.COM
+  size: 29207
+  date: '2024-08-19T20:17:56'
+  crc: '0xe5a9872e'
+- name: README.doc
+  size: 1421
+  date: '2024-08-19T20:18:02'
+  crc: '0xa48f619c'
+- name: SURREAL.BAT
+  size: 16
+  date: '2024-08-19T20:18:18'
+  crc: '0x317c83ce'
+- name: SURREAL.DAT
+  size: 28494
+  date: '2024-08-19T20:18:18'
+  crc: '0x71450f94'

@@ -1,5 +1,6 @@
-filename: Xenon 2- Megablast (1990)(Image Works) [Action].zip
+filename: Xenon 2- Megablast (1990)(Image Works) [Action][!].zip
 tdc_id: '15845.0'
+parent_id: '15845.5'
 title:
   box: 'Xenon 2: Megablast'
 publisher: Image Works
@@ -8,33 +9,25 @@ genre: Action
 language: English
 date:
   added: '2019-03-01T18:34:38'
-  last_modified: '2019-03-01T18:34:38'
+  last_modified: '2024-09-25T07:51:26'
 type: zip
+tags:
+- KnownGood
+media: 720K
 commands:
   play: XENON2.EXE
 references:
+  mobygames: https://www.mobygames.com/game/277/xenon-2-megablast/
   dosid: DOS05743
   exodos: Xenon 2 - Megablast (1990).zip
 files:
-- name: EVENTS.PC
-  size: 1586
-  date: '1989-09-11T09:28:34'
-  crc: '0xb9909491'
-- name: EVENTSBG.PC
-  size: 718
-  date: '1989-09-11T09:28:34'
-  crc: '0xf70796be'
 - name: GR.DAT
   size: 17837
   date: '1989-10-26T07:30:56'
   crc: '0xadc28c05'
-- name: MAP.CMP
-  size: 3634
-  date: '1989-10-25T02:34:16'
-  crc: '0x6afea347'
 - name: S1\
   size: 0
-  date: '2009-01-14T22:38:40'
+  date: '1989-11-23T17:29:52'
 - name: S1\EVENTS.PC
   size: 1586
   date: '1989-09-11T09:28:34'
@@ -61,7 +54,7 @@ files:
   crc: '0x8b9a6e57'
 - name: S2\
   size: 0
-  date: '2009-01-14T22:38:40'
+  date: '1989-11-23T17:30:04'
 - name: S2\EVENTS.PC
   size: 1222
   date: '1989-10-15T03:42:42'
@@ -88,7 +81,7 @@ files:
   crc: '0xcce10a2c'
 - name: S3\
   size: 0
-  date: '2009-01-14T22:38:40'
+  date: '1989-11-23T17:30:14'
 - name: S3\EVENTS.PC
   size: 2090
   date: '1989-10-15T03:44:18'
@@ -115,7 +108,7 @@ files:
   crc: '0x168ab267'
 - name: S4\
   size: 0
-  date: '2009-01-14T22:38:40'
+  date: '1989-11-23T17:30:22'
 - name: S4\EVENTS.PC
   size: 1446
   date: '1989-10-15T03:45:16'
@@ -142,7 +135,7 @@ files:
   crc: '0x27a9ab42'
 - name: S5\
   size: 0
-  date: '2009-01-14T22:38:40'
+  date: '1989-11-23T17:30:34'
 - name: S5\EVENTS.PC
   size: 2090
   date: '1989-10-15T03:46:24'
@@ -179,6 +172,9 @@ files:
   size: 8041
   date: '1989-10-26T07:30:48'
   crc: '0xbcbceca3'
+- name: XENON 2
+  size: 0
+  date: '1989-11-23T17:28:00'
 - name: XENON2.EXE
   size: 123496
   date: '1989-11-22T15:42:14'

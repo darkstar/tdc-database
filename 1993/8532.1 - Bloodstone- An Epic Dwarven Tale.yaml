@@ -1,5 +1,6 @@
 filename: Bloodstone- An Epic Dwarven Tale (Installer) (1993)(Mindcraft Software, Inc.) [Role-Playing (RPG)].zip
 tdc_id: '8532.1'
+parent_id: '8532.2'
 title:
   box: 'Bloodstone: An Epic Dwarven Tale'
 publisher: Mindcraft Software, Inc.
@@ -20,6 +21,9 @@ files:
   size: 1226788
   date: '1993-06-25T15:16:26'
   crc: '0x26ff038b'
+- name: BLOODSTO.NE
+  size: 0
+  date: '1993-06-25T15:06:08'
 - name: DISK1
   size: 11
   date: '1993-05-17T19:35:52'

@@ -1,7 +1,7 @@
-filename: Heimdall 2- Into the Hall of Worlds (En)(De)(Fr)(It)(Es)(No) [a1] (1994)(Core Design Ltd.) [Role-Playing (RPG)].zip
+filename: Heimdall 2- Into the Hall of Worlds (En)(De)(Fr)(It)(Es) [a1] (1994)(Core Design Ltd.) [Role-Playing (RPG)].zip
 tdc_id: '5357.1'
 title:
-  box: 'Heimdall 2: Into the Hall of Worlds'
+  screen: 'Heimdall 2: Into the Hall of Worlds'
 publisher: Core Design Ltd.
 year: '1994'
 genre: Role-Playing (RPG)
@@ -11,14 +11,17 @@ language:
 - French
 - Italian
 - German
-- Norwegian
 date:
   added: '2019-02-23T05:05:48'
-  last_modified: '2019-02-23T05:05:48'
+  last_modified: '2024-09-24T13:58:01'
 type: zip
 tags:
 - Alternate: 1
+commands:
+  play: H2PC.EXE
+  setup: INSTALL.EXE
 references:
+  mobygames: https://www.mobygames.com/game/1135/heimdall-2-into-the-hall-of-worlds/
   dosid: DOS02571
   exodos: Heimdall 2 - Into the Hall of Worlds (1994).zip
 files:

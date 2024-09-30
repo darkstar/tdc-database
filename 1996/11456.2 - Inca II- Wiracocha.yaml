@@ -1,9 +1,10 @@
-filename: Inca II- Wiracocha v1.200 (Installer) (En)(Fr)(It)(Es) (1996)(C.T.O. Spa) [Action, Adventure].zip
+filename: Inca II- Wiracocha v1.200 (Installer) (En)(Fr)(It)(Es) (1996)(CTO S.p.A., Sierra On-Line, Inc.) [Action, Adventure].zip
 tdc_id: '11456.2'
 parent_id: '11456.11'
 title:
   box: 'Inca II: Wiracocha'
-publisher: C.T.O. Spa
+  qualifier: Installer
+publisher: CTO S.p.A., Sierra On-Line, Inc.
 year: '1996'
 genre:
 - Action
@@ -15,13 +16,17 @@ language:
 - Italian
 date:
   added: '2020-12-20T18:07:06'
-  last_modified: '2022-10-16T12:02:13'
+  last_modified: '2024-08-29T07:47:14'
 version: '1.200'
 type: zip
+media: CD-ROM
 installer: true
+audio:
+- CD-DA
 commands:
   play: INSTALL.COM
 references:
+  mobygames: https://www.mobygames.com/game/4553/inca-ii-nations-of-immortality/
   dosid: DOS02713
   exodos: Inca II - Nations of Immortality (1993).zip
 files:

@@ -1,17 +1,25 @@
-filename: Cruise for a Corpse (EGA, Tandy) (1991)(Interplay Entertainment Corp.) [Adventure].zip
+filename: Cruise for a Corpse (EGA, TGA) (1991)(Interplay Entertainment Corp.) [Adventure].zip
 tdc_id: '12248.2'
 parent_id: '12248.3'
 title:
   box: Cruise for a Corpse
-  qualifier: EGA, Tandy
+  qualifier: EGA, TGA
 publisher: Interplay Entertainment Corp.
 year: '1991'
 genre: Adventure
 language: English
 date:
   added: '2019-03-01T18:35:28'
-  last_modified: '2019-03-01T18:35:28'
+  last_modified: '2024-09-17T17:09:37'
 type: zip
+media:
+- 720K
+- 1.44M
+commands:
+  play: DELPHINE.EXE
+  setup: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/2264/cruise-for-a-corpse/
 files:
 - name: D1
   size: 540087

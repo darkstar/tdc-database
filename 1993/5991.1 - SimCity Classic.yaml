@@ -1,8 +1,10 @@
-filename: SimCity Classic v2.0 (Installer) (1993)(Mindscape, Inc.) [Simulation, Strategy].zip
+filename: SimCity Classic v2.0 (Installer) (1993)(CTO S.p.A., Maxis Software Inc.) [Simulation, Strategy][!].zip
 tdc_id: '5991.1'
+parent_id: '5991.6'
 title:
   box: SimCity Classic
-publisher: Mindscape, Inc.
+  qualifier: Installer
+publisher: CTO S.p.A., Maxis Software Inc.
 year: '1993'
 genre:
 - Simulation
@@ -10,10 +12,17 @@ genre:
 language: English
 date:
   added: '2019-03-01T21:07:36'
-  last_modified: '2019-03-01T21:07:36'
+  last_modified: '2024-08-29T11:05:48'
 version: '2.0'
 type: zip
+tags:
+- KnownGood
+media: 1.44M
 installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/202400/simcity-classic/
 files:
 - name: CEGA._
   size: 242158

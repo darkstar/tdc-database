@@ -1,0 +1,69 @@
+filename: Deja Vu- A Nightmare Comes True (1988)(Mindscape, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '13051.3'
+parent_id: '13051.2'
+title:
+  box: 'Deja Vu: A Nightmare Comes True'
+publisher: Mindscape, Inc.
+year: '1988'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2024-09-27T06:53:01'
+  last_modified: '2024-09-27T06:53:01'
+type: zip
+media: 360K
+commands:
+  play: DEJAVU.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1069/deja-vu-a-nightmare-comes-true/
+files:
+- name: DEJAGAME.D
+  size: 7808
+  date: '1987-10-22T01:14:54'
+  crc: '0xdf036d10'
+- name: DEJAVU.EXE
+  size: 89937
+  date: '1988-03-16T16:25:12'
+  crc: '0xf5514921'
+- name: FILTERS.D
+  size: 23486
+  date: '1987-10-22T01:16:10'
+  crc: '0x0d842b00'
+- name: FINISH.BAT
+  size: 126
+  date: '1988-02-24T21:00:30'
+  crc: '0xd8661300'
+- name: GRAPHICS.D
+  size: 297088
+  date: '1988-02-12T01:42:06'
+  crc: '0x858deef0'
+- name: INSTALL.EXE
+  size: 16240
+  date: '1987-09-15T10:52:56'
+  crc: '0x3f7e991d'
+- name: OBJECTS.D
+  size: 5248
+  date: '1987-10-22T00:05:58'
+  crc: '0xdba1e942'
+- name: RESOURCE.D
+  size: 512
+  date: '1988-03-15T10:41:50'
+  crc: '0x0503e3a9'
+- name: SETFIXED.BAT
+  size: 1022
+  date: '1988-02-24T21:41:08'
+  crc: '0xebd235d1'
+- name: SOUNDS.D
+  size: 20865
+  date: '1987-10-26T11:12:44'
+  crc: '0xbe178615'
+- name: TEXT.D
+  size: 66794
+  date: '1987-10-22T01:15:46'
+  crc: '0xecea5601'
+- name: UNINSTAL.BAT
+  size: 319
+  date: '1987-11-04T10:03:14'
+  crc: '0xe1e0f97d'

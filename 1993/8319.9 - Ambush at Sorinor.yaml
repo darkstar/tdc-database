@@ -1,0 +1,51 @@
+filename: Ambush at Sorinor (demo) (Installer) (1993)(Mindcraft Software, Inc.) [Strategy].zip
+tdc_id: '8319.9'
+parent_id: '17637.0'
+parent_id_valid: true
+title:
+  screen: Ambush at Sorinor
+  qualifier: demo
+publisher: Mindcraft Software, Inc.
+year: '1993'
+genre: Strategy
+language: English
+date:
+  added: '2024-08-16T07:39:39'
+  last_modified: '2024-08-16T07:39:39'
+type: zip
+media: Download
+installer: true
+demo: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/4946/ambush-at-sorinor/
+files:
+- name: DEMO.CMP
+  size: 521167
+  date: '1993-05-27T14:51:16'
+  crc: '0x57c7cb8d'
+- name: DISK1
+  size: 11
+  date: '1993-04-14T14:39:52'
+  crc: '0x978548c4'
+- name: GAME.INF
+  size: 38
+  date: '1993-04-14T13:19:10'
+  crc: '0xfb272309'
+- name: INSTALL.EXE
+  size: 52048
+  date: '1993-04-14T12:26:28'
+  crc: '0x9fce02e6'
+- name: LASTDISK
+  size: 2
+  date: '1993-04-06T17:52:12'
+  crc: '0x14a285ac'
+- name: LOOK.COM
+  size: 10688
+  date: '1993-04-07T13:19:08'
+  crc: '0x11911507'
+- name: README.TXT
+  size: 11723
+  date: '1993-05-27T14:53:44'
+  crc: '0x467bd11c'

@@ -1,0 +1,201 @@
+filename: Rally Championships (Installer) (En)(De)(Fr)(It)(Es)(Nl)(Pl)(Pt) (1994)(Golden Zone, Flair Software Ltd.) [Action, Racing - Driving].zip
+tdc_id: '14720.3'
+parent_id: '14720.2'
+title:
+  box: Rally Championships
+  qualifier: Installer
+publisher: Golden Zone, Flair Software Ltd.
+year: '1994'
+genre:
+- Action
+- Racing - Driving
+language:
+- English
+- Spanish
+- French
+- Italian
+- German
+- Polish
+- Dutch
+- Portuguese
+date:
+  added: '2024-08-15T13:09:02'
+  last_modified: '2024-08-15T13:09:02'
+type: zip
+media: CD-ROM
+installer: true
+audio:
+- CD-DA
+commands:
+  play: GO.EXE
+references:
+  mobygames: https://www.mobygames.com/game/9884/rally-championships/
+files:
+- name: AMEBA.CIC
+  size: 275176
+  date: '1994-12-07T12:20:14'
+  crc: '0xa1ee5df5'
+- name: BANDI.EXE
+  size: 3175
+  date: '1994-12-03T12:15:30'
+  crc: '0x7d49e75e'
+- name: BENZ.BLK
+  size: 27457
+  date: '1994-01-12T20:21:50'
+  crc: '0x35f7e2b4'
+- name: BENZTOC.ALL
+  size: 192869
+  date: '1994-12-14T16:15:24'
+  crc: '0xa1771e91'
+- name: BONUSINF.KOM
+  size: 1507
+  date: '1994-11-22T02:53:28'
+  crc: '0xc831e5ac'
+- name: CAL.SCE
+  size: 670981
+  date: '1994-12-14T11:02:24'
+  crc: '0x0bb43576'
+- name: CALIB.EXE
+  size: 2741
+  date: '1992-09-02T18:20:02'
+  crc: '0x55c8dfe8'
+- name: CALIBRAT.ION
+  size: 20
+  date: '1994-12-11T16:05:36'
+  crc: '0xfc8d0d1b'
+- name: CAR.BLK
+  size: 2555904
+  date: '1994-12-09T16:37:40'
+  crc: '0xf8f9a921'
+- name: CEL.SCE
+  size: 473293
+  date: '1994-12-14T11:02:56'
+  crc: '0xa4fd5054'
+- name: DEL.SCE
+  size: 671264
+  date: '1994-12-14T11:03:28'
+  crc: '0x84d82f40'
+- name: DRVMFX.ALL
+  size: 69468
+  date: '1994-01-10T15:49:30'
+  crc: '0xa6f34304'
+- name: ESC.SCE
+  size: 951873
+  date: '1994-12-14T11:04:20'
+  crc: '0xff4ab536'
+- name: FILEVER.ALL
+  size: 96403
+  date: '1994-11-29T12:45:14'
+  crc: '0x305595c2'
+- name: FOREIGN.BIN
+  size: 32680
+  date: '1994-12-12T14:47:30'
+  crc: '0xdf910542'
+- name: FRECT.BLK
+  size: 20000
+  date: '1994-12-12T13:35:08'
+  crc: '0x68644115'
+- name: GO.EXE
+  size: 14944
+  date: '1994-12-16T16:27:42'
+  crc: '0x56459e05'
+- name: IMAGINE.ALL
+  size: 577517
+  date: '1994-11-22T18:54:24'
+  crc: '0xfe3a8d46'
+- name: INTRFIL.FOX
+  size: 732656
+  date: '1994-01-15T00:15:16'
+  crc: '0xcdde157b'
+- name: LAGO.AEY
+  size: 149888
+  date: '1994-12-14T11:04:58'
+  crc: '0x7963844d'
+- name: LOGO.DCS
+  size: 11547
+  date: '1994-11-22T12:23:10'
+  crc: '0x44cfb9e5'
+- name: MEGA.PRO
+  size: 4680000
+  date: '1994-12-10T18:16:34'
+  crc: '0x4c38f56d'
+- name: MEGAPA.LSA
+  size: 3392000
+  date: '1994-12-14T15:14:12'
+  crc: '0xe15c4c1a'
+- name: MEGASELC.BLK
+  size: 298646
+  date: '1994-12-13T14:12:08'
+  crc: '0x02913f87'
+- name: OKATRO.AEY
+  size: 950540
+  date: '1994-12-14T11:05:44'
+  crc: '0xb1dbac5e'
+- name: PEU.SCE
+  size: 811070
+  date: '1994-12-14T11:06:22'
+  crc: '0x50c2b00d'
+- name: PODSRA.AEY
+  size: 899450
+  date: '1994-12-14T11:07:02'
+  crc: '0xaa11c80d'
+- name: POR.SCE
+  size: 344847
+  date: '1994-12-14T11:07:30'
+  crc: '0xba7261e8'
+- name: POSIX.EXE
+  size: 4480
+  date: '1994-12-11T16:02:12'
+  crc: '0xef3f370e'
+- name: POWDRA.AEY
+  size: 796419
+  date: '1994-12-14T11:07:58'
+  crc: '0xf39e03f8'
+- name: RACECD.EXE
+  size: 160127
+  date: '1994-12-16T11:54:46'
+  crc: '0x11fe3e3d'
+- name: SCASCIA.BLK
+  size: 154225
+  date: '1994-12-14T11:08:20'
+  crc: '0x9213cfc0'
+- name: START.BAT
+  size: 24
+  date: '1994-12-11T16:01:30'
+  crc: '0xfcd9e740'
+- name: TIME.AEY
+  size: 405175
+  date: '1994-12-14T11:08:42'
+  crc: '0x572e133d'
+- name: VICT.CIT
+  size: 168428
+  date: '1994-12-14T18:28:40'
+  crc: '0x721af1a2'
+- name: VICT.DES
+  size: 161479
+  date: '1994-12-14T11:09:42'
+  crc: '0x7a674c43'
+- name: VICT.MON
+  size: 133782
+  date: '1994-12-14T11:09:58'
+  crc: '0x123528bb'
+- name: VICT.NEV
+  size: 126146
+  date: '1994-12-14T11:10:12'
+  crc: '0x2cd72cd2'
+- name: VICT.PAL
+  size: 95808
+  date: '1994-12-14T11:10:38'
+  crc: '0x665f2e34'
+- name: WHEEL
+  size: 440
+  date: '1994-12-07T15:37:38'
+  crc: '0x3ffaaa14'
+- name: XFALL.LSA
+  size: 651010
+  date: '1994-11-08T22:53:44'
+  crc: '0x9b22b748'
+- name: ZOCTRACK.TAB
+  size: 4264
+  date: '1994-12-07T10:56:04'
+  crc: '0x4256e3b3'

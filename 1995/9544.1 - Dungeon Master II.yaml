@@ -1,0 +1,141 @@
+filename: Dungeon Master II- The Legend of Skullkeep CD (Installer) (1995)(Interplay Entertainment Corp.) [Role-Playing (RPG)].zip
+tdc_id: '9544.1'
+parent_id: '9544.3'
+title:
+  box: 'Dungeon Master II: The Legend of Skullkeep'
+  screen: Dungeon Master II
+  qualifier: CD
+publisher: Interplay Entertainment Corp.
+year: '1995'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2020-12-22T18:25:52'
+  last_modified: '2024-09-21T10:02:43'
+type: zip
+media: CD-ROM
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/914/dungeon-master-ii-skullkeep/
+files:
+- name: CREDITS
+  size: 5454542
+  date: '1995-05-03T00:30:30'
+  crc: '0x9ce23e0c'
+- name: CREDITS.PCX
+  size: 35483
+  date: '1995-07-13T16:13:52'
+  crc: '0x4aa5ed1b'
+- name: DATA\
+  size: 0
+  date: '1995-07-18T12:57:24'
+- name: DATA\DUNGEON.DAT
+  size: 39437
+  date: '1995-06-30T13:53:00'
+  crc: '0x2530a08a'
+- name: DATA\GRAPHICS.DAT
+  size: 8639757
+  date: '1995-07-11T01:16:00'
+  crc: '0xc6d130f6'
+- name: DATA\SONGLIST.DAT
+  size: 63
+  date: '1995-05-10T15:17:00'
+  crc: '0xfa6cdaca'
+- name: DOS4GW.EXE
+  size: 265420
+  date: '1994-09-22T14:07:00'
+  crc: '0xcb214447'
+- name: DRUM.BNK
+  size: 5404
+  date: '1995-04-28T12:29:00'
+  crc: '0x89422dd5'
+- name: END
+  size: 5078746
+  date: '1995-05-03T00:51:44'
+  crc: '0x8cd811cc'
+- name: END.VGA
+  size: 4648982
+  date: '1995-06-30T11:11:00'
+  crc: '0xbb635088'
+- name: EREGCARD.EXE
+  size: 85541
+  date: '1995-06-14T18:21:00'
+  crc: '0x8d606dc3'
+- name: EREGCARD.INI
+  size: 47
+  date: '1995-06-20T11:34:00'
+  crc: '0x773acf14'
+- name: FTL
+  size: 495046
+  date: '1995-04-21T01:35:46'
+  crc: '0x7cace77a'
+- name: FTL.VGA
+  size: 404966
+  date: '1995-06-30T11:11:00'
+  crc: '0xe7630ec9'
+- name: HMIDET.386
+  size: 83774
+  date: '1995-03-09T10:43:00'
+  crc: '0xae8d1a06'
+- name: HMIDRV.386
+  size: 317317
+  date: '1995-03-09T10:42:00'
+  crc: '0x21c398b8'
+- name: HMIMDRV.386
+  size: 117848
+  date: '1995-04-24T07:23:00'
+  crc: '0x8d8c0f2d'
+- name: IBMIOP.EXE
+  size: 12626
+  date: '1995-07-13T00:04:00'
+  crc: '0xa76911bd'
+- name: INSTALL.EXE
+  size: 12018
+  date: '1995-07-18T12:58:32'
+  crc: '0xe54ba406'
+- name: INTRO
+  size: 1747588
+  date: '1995-04-11T04:01:00'
+  crc: '0x6a3668c9'
+- name: INTRO.VGA
+  size: 1743936
+  date: '1995-06-30T11:11:00'
+  crc: '0xc968565e'
+- name: INTRPLAY.PCX
+  size: 14545
+  date: '1995-05-09T01:14:00'
+  crc: '0x765c31b6'
+- name: MELODIC.BNK
+  size: 5404
+  date: '1995-04-28T12:29:00'
+  crc: '0x4df263e3'
+- name: README.TXT
+  size: 1885
+  date: '1995-07-18T13:57:00'
+  crc: '0x21e7ab6a'
+- name: SETUP.EXE
+  size: 188279
+  date: '1995-03-29T11:01:00'
+  crc: '0x4619d072'
+- name: SETUP.INI
+  size: 2702
+  date: '1995-05-08T05:54:00'
+  crc: '0xb7a0262c'
+- name: SKULL.EXE
+  size: 522637
+  date: '1995-07-13T14:54:00'
+  crc: '0xc1526f95'
+- name: SPLASH
+  size: 22179
+  date: '1995-04-19T04:49:00'
+  crc: '0x649a0dc6'
+- name: TEST.HMP
+  size: 9645
+  date: '1995-04-25T15:07:00'
+  crc: '0xcae81ef1'
+- name: TEST.RAW
+  size: 40320
+  date: '1995-03-29T11:01:00'
+  crc: '0x0d2d49b8'

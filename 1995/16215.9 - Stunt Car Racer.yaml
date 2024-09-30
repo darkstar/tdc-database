@@ -1,0 +1,66 @@
+filename: Stunt Car Racer (1995)(Futura Games, MicroProse Ltd.) [Action, Racing - Driving][!].zip
+tdc_id: '16215.9'
+parent_id: '16215.8'
+title:
+  box: Stunt Car Racer
+publisher: Futura Games, MicroProse Ltd.
+year: '1995'
+genre:
+- Action
+- Racing - Driving
+language: English
+date:
+  added: '2024-09-25T08:07:15'
+  last_modified: '2024-09-25T08:07:15'
+type: zip
+tags:
+- KnownGood
+media: 720K
+commands:
+  play: CAR.COM
+references:
+  mobygames: https://www.mobygames.com/game/782/stunt-track-racer/
+files:
+- name: CAR.CGA
+  size: 148486
+  date: '1989-11-22T00:00:00'
+  crc: '0x6165ac39'
+- name: CAR.COM
+  size: 382
+  date: '1980-01-01T12:00:00'
+  crc: '0xbbf4f3da'
+- name: CAR.EGA
+  size: 264742
+  date: '1989-11-22T00:00:00'
+  crc: '0xb6583043'
+- name: CAR.TAN
+  size: 186838
+  date: '1989-11-22T00:00:00'
+  crc: '0x8aef190b'
+- name: CAR1.COM
+  size: 2571
+  date: '1989-11-22T00:00:00'
+  crc: '0x321bf0dd'
+- name: CAR2.COM
+  size: 2571
+  date: '1989-11-22T00:00:00'
+  crc: '0x6b572e0a'
+- name: CAR3.COM
+  size: 2571
+  date: '1989-11-22T00:00:00'
+  crc: '0x27b493e4'
+- name: CARCGA.COM
+  size: 803
+  date: '1994-07-01T16:32:16'
+  crc: '0xe0a6dde9'
+- name: CAREGA.COM
+  size: 803
+  date: '1994-07-01T16:31:26'
+  crc: '0xe8426caf'
+- name: CARTAN.COM
+  size: 803
+  date: '1994-07-01T16:31:56'
+  crc: '0xe7054d2b'
+- name: SCR
+  size: 0
+  date: '1994-07-06T15:42:18'

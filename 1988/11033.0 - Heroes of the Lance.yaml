@@ -1,4 +1,4 @@
-filename: Heroes of the Lance (1988)(Strategic Simulations, Inc.) [Action, Role-Playing (RPG)].zip
+filename: Heroes of the Lance v1.0 (1988)(Strategic Simulations, Inc.) [Action, Role-Playing (RPG)][!].zip
 tdc_id: '11033.0'
 parent_id: '11033.2'
 title:
@@ -11,9 +11,16 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:26:16'
-  last_modified: '2019-03-01T18:26:16'
+  last_modified: '2024-09-23T16:48:01'
+version: '1.0'
 type: zip
+tags:
+- KnownGood
+media: 360K
+commands:
+  play: START.EXE
 references:
+  mobygames: https://www.mobygames.com/game/3601/heroes-of-the-lance/
   dosid: DOS02171
   exodos: Heroes of the Lance (1989).zip
 files:
@@ -139,7 +146,7 @@ files:
   crc: '0x0b93be42'
 - name: START.EX_
   size: 97005
-  date: '2015-01-19T21:20:50'
+  date: '1988-10-26T15:54:30'
   crc: '0xd4c55e9b'
 - name: STURM.DAT
   size: 47360

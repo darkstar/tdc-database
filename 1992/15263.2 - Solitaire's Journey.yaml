@@ -1,7 +1,8 @@
-filename: Solitaire's Journey (Installer) [a1] (1992)(Quantum Quality Productions) [Strategy, Cards].zip
+filename: Solitaire's Journey v1.00 (Installer) [a1] (1992)(Quantum Quality Productions) [Strategy, Cards].zip
 tdc_id: '15263.2'
 title:
   box: Solitaire's Journey
+  qualifier: Installer
 publisher: Quantum Quality Productions
 year: '1992'
 genre:
@@ -10,13 +11,16 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:51:06'
-  last_modified: '2019-03-01T18:51:06'
+  last_modified: '2024-09-17T11:13:04'
+version: '1.00'
 type: zip
 tags:
 - Alternate: 1
 installer: true
 commands:
   play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1986/solitaires-journey/
 files:
 - name: DISK.ID
   size: 55

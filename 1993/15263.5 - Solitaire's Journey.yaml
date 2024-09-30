@@ -1,0 +1,45 @@
+filename: Solitaire's Journey v1.03 (Installer) (1993)(Quantum Quality Productions) [Strategy, Cards][!].zip
+tdc_id: '15263.5'
+parent_id: '15263.4'
+title:
+  box: Solitaire's Journey
+  qualifier: Installer
+publisher: Quantum Quality Productions
+year: '1993'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2024-09-17T10:49:18'
+  last_modified: '2024-09-17T10:49:18'
+version: '1.03'
+type: zip
+tags:
+- KnownGood
+media: 720K
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1986/solitaires-journey/
+files:
+- name: DISK.ID
+  size: 55
+  date: '1993-02-11T12:14:12'
+  crc: '0x2dc6ac8e'
+- name: INSTALL.EXE
+  size: 102849
+  date: '1992-03-22T14:48:46'
+  crc: '0x70e95656'
+- name: SJ_V103_.D1
+  size: 0
+  date: '1993-02-11T12:14:12'
+- name: SOLIT.001
+  size: 561146
+  date: '1993-02-11T12:15:28'
+  crc: '0x4124707d'
+- name: SOLIT.INF
+  size: 1887
+  date: '1992-04-09T17:00:44'
+  crc: '0x022fe803'

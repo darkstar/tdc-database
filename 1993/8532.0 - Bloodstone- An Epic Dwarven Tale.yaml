@@ -1,4 +1,4 @@
-filename: Bloodstone- An Epic Dwarven Tale (1993)(Mindcraft Software, Inc.) [Role-Playing (RPG)][!].zip
+filename: Bloodstone- An Epic Dwarven Tale (1993)(Mindcraft Software, Inc.) [Role-Playing (RPG)].zip
 tdc_id: '8532.0'
 parent_id: '8532.1'
 title:
@@ -9,11 +9,13 @@ genre: Role-Playing (RPG)
 language: English
 date:
   added: '2019-03-01T19:01:38'
-  last_modified: '2019-03-01T19:01:38'
+  last_modified: '2024-08-15T15:38:09'
 type: zip
-tags:
-- KnownGood
+media: 1.44M
+commands:
+  play: BLOOD.BAT
 references:
+  mobygames: https://www.mobygames.com/game/3245/bloodstone-an-epic-dwarven-tale/
   dosid: DOS01107
   exodos: Bloodstone - An Epic Dwarven Tale (1993).zip
 files:
@@ -1037,10 +1039,6 @@ files:
   size: 7312
   date: '1993-05-05T17:59:50'
   crc: '0xac369c9b'
-- name: MEM.TXT
-  size: 941
-  date: '1993-07-07T17:35:32'
-  crc: '0x4ea9a984'
 - name: NEWS.TXT
   size: 6219
   date: '1993-06-15T12:04:00'

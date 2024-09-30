@@ -1,0 +1,57 @@
+filename: Heimdall 2- Into the Hall of Worlds CD (Installer) (En)(De)(Fr)(It)(Es) (1994)(Core Design Ltd.) [Role-Playing (RPG)].zip
+tdc_id: '5357.6'
+parent_id: '5357.5'
+title:
+  box: Heimdall 2
+  screen: 'Heimdall 2: Into the Hall of Worlds'
+  qualifier: CD
+publisher: Core Design Ltd.
+year: '1994'
+genre: Role-Playing (RPG)
+language:
+- English
+- Spanish
+- French
+- Italian
+- German
+date:
+  added: '2024-09-24T11:48:33'
+  last_modified: '2024-09-24T11:48:33'
+type: zip
+media: CD-ROM
+installer: true
+audio:
+- CD-DA
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1135/heimdall-2-into-the-hall-of-worlds/
+files:
+- name: 0LOADER.BIN
+  size: 21
+  date: '1994-07-22T12:05:52'
+  crc: '0x815b61c3'
+- name: FILE.ABS
+  size: 21
+  date: '1994-07-22T12:05:52'
+  crc: '0x815b61c3'
+- name: FILE.BIB
+  size: 21
+  date: '1994-07-22T12:05:52'
+  crc: '0x815b61c3'
+- name: FILE.COP
+  size: 21
+  date: '1994-07-22T12:05:52'
+  crc: '0x815b61c3'
+- name: HEIM2.001
+  size: 2817102
+  date: '1994-07-22T16:33:12'
+  crc: '0x290aa834'
+- name: INSTALL.EXE
+  size: 25007
+  date: '1994-07-22T12:05:52'
+  crc: '0x3c2a997d'
+- name: INSTALL.PIC
+  size: 13152
+  date: '1994-07-22T12:05:52'
+  crc: '0xbd46a25e'

@@ -1,17 +1,21 @@
-filename: Space Quest IV- Roger Wilco and the Time Rippers (16 Color) v1.060 (1991)(Sierra On-Line, Inc.) [Adventure].zip
+filename: Space Quest IV- Roger Wilco and the Time Rippers v1.060 (EGA, TGA) (1991)(Sierra On-Line, Inc.) [Adventure][!].zip
 tdc_id: '15302.17'
+parent_id: '15302.19'
 title:
   box: 'Space Quest IV: Roger Wilco and the Time Rippers'
-  qualifier: 16 Color
+  qualifier: EGA, TGA
 publisher: Sierra On-Line, Inc.
 year: '1991'
 genre: Adventure
 language: English
 date:
   added: '2023-08-11T09:38:57'
-  last_modified: '2023-08-11T09:38:57'
+  last_modified: '2024-09-17T17:54:10'
 version: '1.060'
 type: zip
+tags:
+- KnownGood
+media: 720K
 commands:
   play: SQ4.BAT
   setup: INSTALL.EXE
@@ -42,6 +46,10 @@ files:
   size: 4356
   date: '1991-02-04T15:23:36'
   crc: '0x6eb27bb6'
+- name: INSTALL.BAT
+  size: 96
+  date: '1991-02-11T14:32:44'
+  crc: '0x88fb8cb7'
 - name: INSTALL.EXE
   size: 35026
   date: '1991-03-14T09:22:14'
@@ -94,10 +102,6 @@ files:
   size: 595465
   date: '1991-03-12T16:40:42'
   crc: '0x7afa63dd'
-- name: RESOURCE.CFG
-  size: 129
-  date: '2022-12-24T00:09:38'
-  crc: '0xd33ebf0a'
 - name: RESOURCE.MAP
   size: 5556
   date: '1991-03-12T16:40:42'
@@ -138,6 +142,21 @@ files:
   size: 31
   date: '1991-01-18T11:36:30'
   crc: '0x8e8f30b1'
+- name: SQ4_DISK._01
+  size: 0
+  date: '1991-03-12T16:53:34'
+- name: SQ4_DISK._02
+  size: 0
+  date: '1991-03-12T16:55:42'
+- name: SQ4_DISK._03
+  size: 0
+  date: '1991-03-12T16:57:44'
+- name: SQ4_DISK._04
+  size: 0
+  date: '1991-03-12T16:59:50'
+- name: SQ4_DISK._05
+  size: 0
+  date: '1991-03-12T17:01:48'
 - name: STARTUP
   size: 0
   date: '1991-03-12T16:49:24'

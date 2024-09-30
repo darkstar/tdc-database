@@ -1,9 +1,9 @@
-filename: Phantasie (1987)(Wizardware Group Inc.) [Adventure, Role-Playing (RPG)].zip
+filename: Phantasie v1.0 (1987)(Strategic Simulations, Inc.) [Adventure, Role-Playing (RPG)].zip
 tdc_id: '10192.0'
 parent_id: '10192.3'
 title:
   box: Phantasie
-publisher: Wizardware Group Inc.
+publisher: Strategic Simulations, Inc.
 year: '1987'
 genre:
 - Adventure
@@ -11,8 +11,14 @@ genre:
 language: English
 date:
   added: '2020-07-21T16:22:10'
-  last_modified: '2020-07-21T16:22:10'
+  last_modified: '2024-09-20T16:54:18'
+version: '1.0'
 type: zip
+media: 360K
+commands:
+  play: AUTOEXEC.BAT
+references:
+  mobygames: https://www.mobygames.com/game/647/phantasie/
 files:
 - name: AUTOEXEC.BAT
   size: 72
@@ -234,6 +240,9 @@ files:
   size: 34816
   date: '1987-06-12T20:38:32'
   crc: '0x419bb599'
+- name: PHANTASI.E
+  size: 0
+  date: '1987-04-14T10:58:22'
 - name: PHM
   size: 2056
   date: '1987-04-09T17:40:22'

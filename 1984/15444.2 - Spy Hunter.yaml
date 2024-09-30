@@ -1,0 +1,30 @@
+filename: Spy Hunter [DC] (1984)(SEGA Enterprises Ltd.) [Action, Racing - Driving].zip
+tdc_id: '15444.2'
+title:
+  box: Spy Hunter
+publisher: SEGA Enterprises Ltd.
+year: '1984'
+genre:
+- Action
+- Racing - Driving
+language: English
+date:
+  added: '2024-08-21T13:19:48'
+  last_modified: '2024-08-21T13:19:48'
+type: zip
+tags:
+- DOSConversion
+media: 360K
+commands:
+  play: SPYHUNT.COM
+references:
+  mobygames: https://www.mobygames.com/game/7668/spy-hunter/
+files:
+- name: HUNT.SPY
+  size: 114688
+  date: '1985-10-27T11:04:46'
+  crc: '0x2432ad70'
+- name: SPYHUNT.COM
+  size: 194
+  date: '1985-12-26T12:00:00'
+  crc: '0xaf33fc64'

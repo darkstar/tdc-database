@@ -1,0 +1,64 @@
+filename: Soviet (1994)(Digital Dreams Multimedia, Opera Soft S.A.) [Action, Strategy].zip
+tdc_id: '6856.0'
+parent_id: '10553.0'
+parent_id_valid: true
+title:
+  box: Soviet
+publisher: Digital Dreams Multimedia, Opera Soft S.A.
+year: '1994'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:34:04'
+  last_modified: '2024-09-27T11:33:21'
+type: zip
+media: CD-ROM
+commands:
+  play: SOVIET.EXE
+references:
+  mobygames: https://www.mobygames.com/game/32391/soviet/
+  dosid: DOS04678
+  exodos: Soviet (1990).zip
+files:
+- name: SOVIET.CTR
+  size: 681
+  date: '1994-11-29T19:22:12'
+  crc: '0xa82cc35e'
+- name: SOVIET.EXE
+  size: 2808
+  date: '1992-11-30T15:39:56'
+  crc: '0x11466708'
+- name: SOV_CGA.PIC
+  size: 16384
+  date: '1980-01-01T03:12:18'
+  crc: '0x642d2bb3'
+- name: SOV_CGA1.OVL
+  size: 91969
+  date: '1980-01-01T03:11:22'
+  crc: '0xb5e58fb0'
+- name: SOV_CGA2.OVL
+  size: 69012
+  date: '1980-01-01T03:11:30'
+  crc: '0xfb8a820d'
+- name: SOV_EGA.PIC
+  size: 32000
+  date: '1980-01-01T03:12:24'
+  crc: '0xa9b45306'
+- name: SOV_EGA1.OVL
+  size: 138489
+  date: '1980-01-01T03:11:42'
+  crc: '0xa567a470'
+- name: SOV_EGA2.OVL
+  size: 162535
+  date: '1980-01-01T03:11:58'
+  crc: '0x05bce1ea'
+- name: SOV_FIN.OVL
+  size: 10026
+  date: '1980-01-01T03:12:02'
+  crc: '0x04aa561a'
+- name: SOV_MENU.OVL
+  size: 35464
+  date: '1980-01-01T03:12:06'
+  crc: '0x8ef6f981'

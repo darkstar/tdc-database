@@ -1,5 +1,6 @@
-filename: Solitaire's Journey (1992)(Quantum Quality Productions) [Strategy, Cards].zip
+filename: Solitaire's Journey v1.00 (1992)(Quantum Quality Productions) [Strategy, Cards].zip
 tdc_id: '15263.0'
+parent_id: '15263.1'
 title:
   box: Solitaire's Journey
 publisher: Quantum Quality Productions
@@ -10,9 +11,14 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:51:06'
-  last_modified: '2019-03-01T18:51:06'
+  last_modified: '2024-09-17T11:12:24'
+version: '1.00'
 type: zip
+commands:
+  play: SOLIT.EXE
+  setup: SOLSETUP.EXE
 references:
+  mobygames: https://www.mobygames.com/game/1986/solitaires-journey/
   dosid: DOS04662
   exodos: Solitaire's Journey (1992).zip
 files:

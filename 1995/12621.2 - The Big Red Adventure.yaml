@@ -1,7 +1,9 @@
-filename: Big Red Adventure, The (Installer) (En)(It)(De)(Fr) (1995)(Core Design Ltd.) [Adventure].zip
+filename: Big Red Adventure, The (Installer) (En)(It)(De)(Fr) (1995)(Core Design Ltd.) [Adventure][!].zip
 tdc_id: '12621.2'
+parent_id: '12621.5'
 title:
   box: The Big Red Adventure
+  qualifier: Installer
 publisher: Core Design Ltd.
 year: '1995'
 genre: Adventure
@@ -12,11 +14,16 @@ language:
 - German
 date:
   added: '2019-03-02T07:29:56'
-  last_modified: '2019-03-02T07:29:56'
+  last_modified: '2024-09-24T17:00:14'
 type: zip
+tags:
+- KnownGood
+media: 1.44M
 installer: true
 commands:
   play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/3206/the-big-red-adventure/
 files:
 - name: DISK1_0.ZIP
   size: 674410

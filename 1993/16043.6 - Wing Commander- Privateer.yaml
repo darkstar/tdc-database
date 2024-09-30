@@ -1,0 +1,81 @@
+filename: Wing Commander- Privateer v2.13 (Installer) [f1] (1993)(Electronic Arts, Inc., ORIGIN Systems, Inc.) [Action, Simulation][!].zip
+tdc_id: '16043.6'
+parent_id: '16043.2'
+title:
+  box: 'Wing Commander: Privateer'
+  qualifier: Installer
+publisher: Electronic Arts, Inc., ORIGIN Systems, Inc.
+year: '1993'
+genre:
+- Action
+- Simulation
+language: English
+date:
+  added: '2024-09-18T16:26:30'
+  last_modified: '2024-09-18T16:26:30'
+version: '2.13'
+type: zip
+tags:
+- KnownGood
+- Fixed: 1
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/611/wing-commander-privateer/
+files:
+- name: INSTALL.EXE
+  size: 35215
+  date: '1993-09-04T18:41:12'
+  crc: '0x0547f214'
+- name: PKBACK#.001
+  size: 0
+  date: '1993-09-13T12:18:50'
+- name: PKBACK#.002
+  size: 0
+  date: '1993-09-13T12:21:16'
+- name: PKBACK#.003
+  size: 0
+  date: '1993-09-13T12:22:26'
+- name: PKBACK#.004
+  size: 0
+  date: '1993-09-13T12:23:38'
+- name: PKBACK#.005
+  size: 0
+  date: '1993-09-13T12:25:34'
+- name: PKBACK#.006
+  size: 0
+  date: '1993-09-13T12:26:32'
+- name: PKUNZIP.EXE
+  size: 29378
+  date: '1993-02-01T02:04:16'
+  crc: '0x00832770'
+- name: PRIVATER.ZI1
+  size: 1392640
+  date: '1993-09-13T12:18:48'
+  crc: '0x7fcb6ef9'
+- name: PRIVATER.ZI2
+  size: 1457664
+  date: '1993-09-13T12:21:16'
+  crc: '0x9a09beff'
+- name: PRIVATER.ZI3
+  size: 1457664
+  date: '1993-09-13T12:22:24'
+  crc: '0x227edea4'
+- name: PRIVATER.ZI4
+  size: 1457664
+  date: '1993-09-13T12:23:36'
+  crc: '0x853454d2'
+- name: PRIVATER.ZI5
+  size: 1457664
+  date: '1993-09-13T12:25:32'
+  crc: '0x7232c083'
+- name: PRIVATER.ZI6
+  size: 1113244
+  date: '1993-09-13T12:26:30'
+  crc: '0xbe34e3ba'
+- name: PRIVATER.ZIP
+  size: 8336536
+  date: '1993-09-13T12:26:30'
+  crc: '0x96e444ef'

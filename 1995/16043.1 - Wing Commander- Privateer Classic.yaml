@@ -1,0 +1,189 @@
+filename: Wing Commander- Privateer Classic CD v1.3 (Installer) (1995)(Electronic Arts Ltd., ORIGIN Systems, Inc.) [Action, Simulation].zip
+tdc_id: '16043.1'
+parent_id: '16043.7'
+title:
+  box: 'Wing Commander: Privateer Classic'
+  qualifier: CD
+publisher: Electronic Arts Ltd., ORIGIN Systems, Inc.
+year: '1995'
+genre:
+- Action
+- Simulation
+language: English
+date:
+  added: '2019-03-02T09:07:56'
+  last_modified: '2024-09-18T17:07:43'
+version: '1.3'
+type: zip
+media: CD-ROM
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/23543/wing-commander-privateer-cd-rom-edition/
+  dosid: DOS05624
+  exodos: Wing Commander Privateer (CD-ROM) (1994).zip
+files:
+- name: ACROBAT.CAT
+  size: 1818005
+  date: '1995-02-02T15:49:14'
+  crc: '0x8218492b'
+- name: ACROBAT.INF
+  size: 312
+  date: '1995-02-02T15:49:14'
+  crc: '0xd0cbbe57'
+- name: ACROPFM.CAT
+  size: 32223
+  date: '1995-02-02T15:49:22'
+  crc: '0x20468028'
+- name: ACROPFM.INF
+  size: 416
+  date: '1995-02-02T15:49:22'
+  crc: '0xadeb5b4b'
+- name: ACROREAD.EXE
+  size: 1438059
+  date: '1995-02-02T15:49:08'
+  crc: '0x91ad7ac2'
+- name: ACROVESA.CAT
+  size: 62500
+  date: '1995-02-02T15:49:18'
+  crc: '0xd6abce83'
+- name: ACROVESA.INF
+  size: 156
+  date: '1995-02-02T15:49:18'
+  crc: '0x1e6a6cce'
+- name: DOCS\
+  size: 0
+  date: '1995-04-05T15:07:02'
+- name: DOCS\CATALOG.EXE
+  size: 9509999
+  date: '1995-02-02T13:40:04'
+  crc: '0x99e8a6ac'
+- name: DOCS\DEUTSCH\
+  size: 0
+  date: '1995-04-05T15:07:02'
+- name: DOCS\DEUTSCH\HANDBUCH.PDF
+  size: 1718521
+  date: '1995-03-31T12:26:26'
+  crc: '0x2b201b41'
+- name: DOCS\DEUTSCH\REF.PDF
+  size: 613662
+  date: '1995-03-31T12:26:52'
+  crc: '0x9045759a'
+- name: DOCS\ENGLISH\
+  size: 0
+  date: '1995-04-05T15:07:02'
+- name: DOCS\ENGLISH\MANUAL.PDF
+  size: 1679985
+  date: '1995-03-31T12:28:06'
+  crc: '0x502419a8'
+- name: DOCS\ENGLISH\REF.PDF
+  size: 609583
+  date: '1995-03-31T12:28:44'
+  crc: '0xba1f9cbe'
+- name: DOCS\FRANCAIS\
+  size: 0
+  date: '1995-04-05T15:07:02'
+- name: DOCS\FRANCAIS\MANUEL.PDF
+  size: 1710318
+  date: '1995-03-31T12:25:24'
+  crc: '0x5ef691d1'
+- name: DOCS\FRANCAIS\REF.PDF
+  size: 617385
+  date: '1995-03-31T12:25:50'
+  crc: '0xc720ceeb'
+- name: DOCS\HELPREAD.PDF
+  size: 462965
+  date: '1995-01-28T11:26:48'
+  crc: '0xe724658a'
+- name: DOCS\LICENSE.PDF
+  size: 12153
+  date: '1995-01-28T11:26:50'
+  crc: '0x1a4ebaab'
+- name: DOCS\README.PDF
+  size: 29643
+  date: '1995-01-28T11:26:50'
+  crc: '0x8f84ef6d'
+- name: DOCS\REGCARD.PDF
+  size: 27802
+  date: '1995-01-28T11:26:50'
+  crc: '0xc323654b'
+- name: DOCS\SUPPORT.PDF
+  size: 5733
+  date: '1995-01-28T11:26:50'
+  crc: '0x4d852686'
+- name: DOCS\TOURREAD.PDF
+  size: 479713
+  date: '1995-01-28T11:26:54'
+  crc: '0xaedfdb9e'
+- name: HELP.TXT
+  size: 12902
+  date: '1995-02-09T13:45:04'
+  crc: '0xb8880e0a'
+- name: INSTALL.EXE
+  size: 40000
+  date: '1995-02-02T15:49:24'
+  crc: '0xba3f3e7f'
+- name: INSTALLA.EXE
+  size: 211972
+  date: '1995-02-02T15:49:06'
+  crc: '0xe907d510'
+- name: INST\
+  size: 0
+  date: '1995-04-05T15:07:02'
+- name: INST\INITCFG.PAK
+  size: 841
+  date: '1995-02-02T15:49:22'
+  crc: '0xbc6dfc58'
+- name: INST\INITRF.PAK
+  size: 881
+  date: '1995-02-02T15:49:22'
+  crc: '0x91ac092e'
+- name: INST\JEMM.OVL
+  size: 17471
+  date: '1995-02-02T15:49:22'
+  crc: '0x2c0046b6'
+- name: INST\PRCD.EXE
+  size: 937760
+  date: '1995-02-02T15:49:24'
+  crc: '0xba4c58ae'
+- name: INST\PRIV.EXE
+  size: 8325
+  date: '1995-02-02T15:49:24'
+  crc: '0xaf895636'
+- name: INST\RF.BAT
+  size: 7
+  date: '1995-02-02T15:49:24'
+  crc: '0x6c8a8cb0'
+- name: INST\TABTNE.VDA
+  size: 9843
+  date: '1995-02-02T15:49:24'
+  crc: '0x0a5d752c'
+- name: INST\TABTXE.NDA
+  size: 13519
+  date: '1995-02-02T15:49:24'
+  crc: '0x20d3d403'
+- name: LICENSE.1
+  size: 1152
+  date: '1995-02-02T15:49:08'
+  crc: '0x5850a463'
+- name: LICENSE.ALL
+  size: 8239
+  date: '1995-02-02T15:49:08'
+  crc: '0x9d8aa489'
+- name: PRIV.TRE
+  size: 89486108
+  date: '1995-02-02T15:53:48'
+  crc: '0xcb43fb51'
+- name: PSFONTS.CAT
+  size: 671740
+  date: '1995-02-02T15:49:20'
+  crc: '0x348c676b'
+- name: PSFONTS.INF
+  size: 416
+  date: '1995-02-02T15:49:20'
+  crc: '0x333a830d'
+- name: RF.TRE
+  size: 72960246
+  date: '1995-02-02T15:57:22'
+  crc: '0x349a6606'

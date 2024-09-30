@@ -1,0 +1,102 @@
+filename: Solitaire's Journey v1.03 (1993)(Quantum Quality Productions) [Strategy, Cards].zip
+tdc_id: '15263.6'
+parent_id: '15263.5'
+title:
+  box: Solitaire's Journey
+publisher: Quantum Quality Productions
+year: '1993'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2024-09-17T11:06:20'
+  last_modified: '2024-09-17T11:06:20'
+version: '1.03'
+type: zip
+media: 720K
+commands:
+  play: SOLIT.EXE
+  setup: SOLSETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1986/solitaires-journey/
+files:
+- name: CARDS.DAT
+  size: 150348
+  date: '1993-02-11T12:14:12'
+  crc: '0xb089e7f3'
+- name: CARDS2.DAT
+  size: 67040
+  date: '1993-02-11T12:14:12'
+  crc: '0x2fd34a07'
+- name: EGAIMAGE.DAT
+  size: 242474
+  date: '1993-02-11T12:14:12'
+  crc: '0x61adc493'
+- name: FONT.DAT
+  size: 4182
+  date: '1993-02-11T12:14:12'
+  crc: '0x99bdfe2a'
+- name: FONT2.DAT
+  size: 2646
+  date: '1993-02-11T12:14:12'
+  crc: '0x37dedd6c'
+- name: GAMES.DAT
+  size: 211637
+  date: '1993-02-11T12:14:12'
+  crc: '0x0f758f39'
+- name: SOLIT.EXE
+  size: 316656
+  date: '1993-02-11T12:14:12'
+  crc: '0xf4cb645f'
+- name: SOLIT.EX_
+  size: 265504
+  date: '1993-02-11T12:14:12'
+  crc: '0xa7b2d8af'
+- name: SOLSETUP.EXE
+  size: 21542
+  date: '1993-02-11T12:14:12'
+  crc: '0x717b9ccf'
+- name: SOUND\
+  size: 0
+  date: '2024-09-17T10:50:38'
+- name: SOUND\ADLIB.ADV
+  size: 13919
+  date: '1993-02-11T12:14:12'
+  crc: '0xa22b853c'
+- name: SOUND\MT32MPU.ADV
+  size: 10432
+  date: '1993-02-11T12:14:12'
+  crc: '0x822a9866'
+- name: SOUND\PASFM.ADV
+  size: 14395
+  date: '1993-02-11T12:14:12'
+  crc: '0xb0541395'
+- name: SOUND\PCSPKR.ADV
+  size: 7886
+  date: '1993-02-11T12:14:12'
+  crc: '0x0a619279'
+- name: SOUND\SBFM.ADV
+  size: 13968
+  date: '1993-02-11T12:14:12'
+  crc: '0x29697857'
+- name: SOUND\SBPFM.ADV
+  size: 14404
+  date: '1993-02-11T12:14:12'
+  crc: '0x83214d49'
+- name: SOUND\SOLMUSIC.AD
+  size: 5122
+  date: '1993-02-11T12:14:12'
+  crc: '0x4c7f0248'
+- name: SOUND\SOLMUSIC.DRV
+  size: 12832
+  date: '1993-02-11T12:14:12'
+  crc: '0x1083c3de'
+- name: SOUND\SOLMUSIC.XMI
+  size: 6876
+  date: '1993-02-11T12:14:12'
+  crc: '0x5e29ddba'
+- name: VGAIMAGE.DAT
+  size: 357475
+  date: '1993-02-11T12:14:12'
+  crc: '0xc998b6b7'

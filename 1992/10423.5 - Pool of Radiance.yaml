@@ -1,25 +1,32 @@
-filename: Pool of Radiance v1.3 (Installer) (1992)(Strategic Simulations, Inc.) [Role-Playing (RPG)].zip
+filename: Pool of Radiance v1.3 (Installer) (1992)(Strategic Simulations, Inc.) [Role-Playing (RPG)][!].zip
 tdc_id: '10423.5'
+parent_id: '10423.9'
 title:
   box: Pool of Radiance
+  qualifier: Installer
 publisher: Strategic Simulations, Inc.
 year: '1992'
 genre: Role-Playing (RPG)
 language: English
 date:
   added: '2019-03-01T18:50:00'
-  last_modified: '2019-03-01T18:50:00'
+  last_modified: '2024-09-28T14:02:40'
 version: '1.3'
 type: zip
+tags:
+- KnownGood
+media: 1.44M
 installer: true
 commands:
   play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/502/pool-of-radiance/
 files:
 - name: DISK1.ARJ
-  size: 887845
-  date: '1992-09-16T00:42:02'
-  crc: '0xa2714440'
-- name: HD POR V1_3
+  size: 886610
+  date: '1992-09-04T10:50:02'
+  crc: '0xe7eb9ac8'
+- name: HD POR V.1_3
   size: 0
   date: '1992-08-31T08:20:22'
 - name: INSTALL.EXE

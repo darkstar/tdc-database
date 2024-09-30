@@ -11,946 +11,951 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:35:52'
-  last_modified: '2019-03-01T18:35:52'
+  last_modified: '2024-09-22T09:55:53'
 version: '1.1'
 type: zip
+media: 720K
+commands:
+  play: START.EXE
+  setup: SETUP.EXE
 references:
+  mobygames: https://www.mobygames.com/game/307/eye-of-the-beholder-ii-the-legend-of-darkmoon/
   dosid: DOS02073
   exodos: Eye of the Beholder II - The Legend of Darkmoon (1991).zip
 files:
 - name: AIRSEAL.CPS
   size: 21530
-  date: '2011-11-26T16:21:50'
+  date: '1991-10-04T15:46:42'
   crc: '0x933112e9'
 - name: ALTAR.CPS
   size: 18510
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-15T17:38:28'
   crc: '0x602837ad'
 - name: ANT.CPS
   size: 7845
-  date: '2011-11-26T16:21:50'
+  date: '1991-11-13T18:26:10'
   crc: '0xa1ff7688'
 - name: ASERVANT.CPS
   size: 6088
-  date: '2011-11-26T16:21:50'
+  date: '1991-11-10T00:00:56'
   crc: '0x96b4d6f0'
 - name: AZURE.ADL
   size: 10543
-  date: '2011-11-26T16:21:50'
+  date: '1991-11-25T12:12:06'
   crc: '0x1c66f683'
 - name: AZURE.DEC
   size: 5112
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-25T11:41:52'
   crc: '0xcb1715b5'
 - name: AZURE.EGA
   size: 768
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-25T07:37:32'
   crc: '0x3f0cfc7b'
 - name: AZURE.PAL
   size: 768
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-08T17:26:32'
   crc: '0xffbad7bf'
 - name: AZURE.SND
   size: 5190
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-22T14:50:18'
   crc: '0xad35e16b'
 - name: AZURE1.CPS
   size: 23256
-  date: '2011-11-26T16:21:50'
+  date: '1991-11-20T00:04:44'
   crc: '0x7817ad7f'
 - name: AZURE2.CPS
   size: 3545
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-07T16:37:06'
   crc: '0x93d98587'
 - name: BADMOOD.CPS
   size: 20437
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-26T12:21:58'
   crc: '0xf712d6e3'
 - name: BASILISK.CPS
   size: 9283
-  date: '2011-11-26T16:21:50'
+  date: '1991-09-25T12:58:42'
   crc: '0xa4a60292'
 - name: BEHOLDER.CPS
   size: 9918
-  date: '2011-11-26T16:21:50'
+  date: '1991-09-12T15:59:46'
   crc: '0x807c3d5b'
 - name: BEHOLDER.DCR
   size: 38
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-20T00:29:12'
   crc: '0x7f86a651'
 - name: BLOOD.CPS
   size: 13344
-  date: '2011-11-26T16:21:52'
+  date: '1991-10-31T19:47:44'
   crc: '0x3d7ff75a'
 - name: BORDER.CPS
   size: 3328
-  date: '2011-11-26T16:21:50'
+  date: '1991-08-23T17:14:26'
   crc: '0x894e49b4'
 - name: BROWN.DEC
   size: 6048
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-25T11:41:52'
   crc: '0x13d189ac'
 - name: BROWN1.CPS
   size: 27229
-  date: '2011-11-26T16:21:50'
+  date: '1991-11-13T19:17:36'
   crc: '0xe0add9f3'
 - name: BROWN2.CPS
   size: 18978
-  date: '2011-11-26T16:21:50'
+  date: '1991-11-07T16:34:34'
   crc: '0x0724a694'
 - name: BROWN3.CPS
   size: 7434
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-07T16:34:58'
   crc: '0x726552ae'
 - name: BULETTE.CPS
   size: 8588
-  date: '2011-11-26T16:21:50'
+  date: '1991-11-05T16:25:14'
   crc: '0xd89f2153'
 - name: CATACOMB.ADL
   size: 8358
-  date: '2011-11-26T16:21:50'
+  date: '1991-11-25T12:12:32'
   crc: '0x1c924da6'
 - name: CATACOMB.SND
   size: 5190
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-22T14:50:26'
   crc: '0x34626908'
 - name: CHARGEN.CPS
   size: 25914
-  date: '2011-11-26T16:21:50'
+  date: '1991-08-15T16:54:24'
   crc: '0x11d794bc'
 - name: CHARGENA.CPS
   size: 33141
-  date: '2011-11-26T16:21:50'
+  date: '1991-08-15T16:54:24'
   crc: '0x65278ed0'
 - name: CHARGENB.CPS
   size: 7888
-  date: '2011-11-26T16:21:52'
+  date: '1991-08-15T16:54:24'
   crc: '0xcc1661d7'
 - name: CHOICE.CPS
   size: 23794
-  date: '2011-11-26T16:21:50'
+  date: '1991-09-25T13:02:36'
   crc: '0xc0a039af'
 - name: CLERIC1.CPS
   size: 7279
-  date: '2011-11-26T16:21:50'
+  date: '1991-11-07T16:39:02'
   crc: '0xdeef1c9b'
 - name: CLERIC1.DCR
   size: 110
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-20T00:29:12'
   crc: '0xa5e2bf9e'
 - name: CLERIC2.CPS
   size: 8689
-  date: '2011-11-26T16:21:50'
+  date: '1991-10-03T18:30:00'
   crc: '0xb202e9da'
 - name: CLERIC2.DCR
   size: 110
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-20T00:29:12'
   crc: '0xe8d5e8a9'
 - name: CLERIC3.CPS
   size: 8102
-  date: '2011-11-26T16:21:50'
+  date: '1991-09-06T16:45:32'
   crc: '0xabe9897d'
 - name: CLERIC3.DCR
   size: 110
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-20T00:29:12'
   crc: '0xa922fd53'
 - name: COIN.CPS
   size: 5815
-  date: '2011-11-26T16:21:52'
+  date: '1991-10-31T12:38:20'
   crc: '0x8a3b9050'
 - name: CREDITS.CPS
   size: 3340
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-08T12:44:14'
   crc: '0x7fb862be'
 - name: CREDITS.TXT
   size: 2316
-  date: '2011-11-26T16:21:50'
+  date: '1991-12-30T15:34:08'
   crc: '0x8cbdbae4'
 - name: CREDITS2.CPS
   size: 8251
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-13T11:42:18'
   crc: '0xa730bd90'
 - name: CREDITS3.CPS
   size: 2007
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-27T16:03:36'
   crc: '0x8a21e1f7'
 - name: CRIMRING.CPS
   size: 16047
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-25T20:32:44'
   crc: '0x4561f6d1'
 - name: CRIMSON.CPS
   size: 18617
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-11T23:07:30'
   crc: '0xa4e818ff'
 - name: CRIMSON.DEC
   size: 4832
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-25T11:41:52'
   crc: '0x814a2569'
 - name: CRIMSON.EGA
   size: 768
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-25T07:37:30'
   crc: '0xaf32e4c6'
 - name: CRIMSON.PAL
   size: 768
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-07T16:28:54'
   crc: '0xeadce21a'
 - name: CRIMSON.VCN
   size: 23699
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-19T18:31:12'
   crc: '0xc929971e'
 - name: CRIMSON.VMP
   size: 5834
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-19T18:29:44'
   crc: '0xcc85d49c'
 - name: CRIMSON1.ADL
   size: 7863
-  date: '2011-11-26T16:21:50'
+  date: '1991-11-25T12:12:40'
   crc: '0x754e8efe'
 - name: CRIMSON1.SND
   size: 5190
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-22T14:50:30'
   crc: '0xaa0839df'
 - name: CRIMSON2.ADL
   size: 9288
-  date: '2011-11-26T16:21:50'
+  date: '1991-11-25T12:12:52'
   crc: '0xe0528c6f'
 - name: CRIMSON2.CPS
   size: 1871
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-15T17:41:58'
   crc: '0xc9b468d0'
 - name: CRIMSON2.SND
   size: 5190
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-22T14:50:36'
   crc: '0xc09fdb89'
 - name: CRYSTAL.CPS
   size: 23279
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-05T22:38:12'
   crc: '0xe438b072'
 - name: CUBE.CPS
   size: 5491
-  date: '2011-11-26T16:21:50'
+  date: '1991-08-15T16:54:24'
   crc: '0xac4e8690'
 - name: DARKMOON.CPS
   size: 9047
-  date: '2011-11-26T16:21:50'
+  date: '1991-09-05T15:44:06'
   crc: '0x059a990c'
 - name: DECORATE.CPS
   size: 4929
-  date: '2011-11-26T16:21:50'
+  date: '1991-10-16T05:51:04'
   crc: '0x616680ae'
 - name: DESTROY0.CPS
   size: 11029
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-07T15:14:04'
   crc: '0xef656391'
 - name: DESTROY1.CPS
   size: 11739
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-12T18:32:26'
   crc: '0x9b465cca'
 - name: DESTROY2.CPS
   size: 13747
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-08T08:44:42'
   crc: '0x3de5fadf'
 - name: DESTROY3.CPS
   size: 15998
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-08T08:45:40'
   crc: '0x33866943'
 - name: DOOR1.CPS
   size: 17000
-  date: '2011-11-26T16:21:50'
+  date: '1991-11-16T18:17:22'
   crc: '0x5590440f'
 - name: DOOR2.CPS
   size: 12117
-  date: '2011-11-26T16:21:50'
+  date: '1991-11-13T18:51:28'
   crc: '0xde462a2c'
 - name: DOORWAY1.CPS
   size: 9974
-  date: '2011-11-26T16:21:52'
+  date: '1991-10-31T12:31:00'
   crc: '0xca6c9c0a'
 - name: DOORWAY2.CPS
   size: 13154
-  date: '2011-11-26T16:21:52'
+  date: '1991-10-31T12:32:18'
   crc: '0xe3555f81'
 - name: DRAGON.CPS
   size: 15706
-  date: '2011-11-26T16:21:50'
+  date: '1991-11-05T22:25:16'
   crc: '0x13f4e997'
 - name: DRAGON.DCR
   size: 74
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-20T00:29:12'
   crc: '0x3d82aedc'
 - name: DRAGON1.CPS
   size: 16493
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-13T11:16:40'
   crc: '0x0c5f83fd'
 - name: DRAGON2.CPS
   size: 21760
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-19T16:58:16'
   crc: '0xcdabfb5b'
 - name: DRAN.CPS
   size: 6742
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-14T18:09:26'
   crc: '0x28cc6dcf'
 - name: DRANAZ3.CPS
   size: 10967
-  date: '2011-11-26T16:21:52'
+  date: '1991-10-31T21:15:02'
   crc: '0xb194b73f'
 - name: DRANSL2.CPS
   size: 9738
-  date: '2011-11-26T16:21:52'
+  date: '1991-10-31T19:46:44'
   crc: '0x38d04186'
 - name: DRANX.CPS
   size: 17206
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-05T16:35:50'
   crc: '0xee6d2b64'
 - name: DREAM.CPS
   size: 23919
-  date: '2011-11-26T16:21:52'
+  date: '1991-09-25T13:00:50'
   crc: '0x5dc769a6'
 - name: DUNG.EGA
   size: 768
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-25T07:37:28'
   crc: '0x6a335960'
 - name: DUNG.PAL
   size: 768
-  date: '2011-11-26T16:21:52'
+  date: '1991-10-31T17:38:32'
   crc: '0xe4d16ded'
 - name: DUNG.VCN
   size: 41549
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-19T18:26:32'
   crc: '0x7f1b159f'
 - name: DUNG.VMP
   size: 5834
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-19T18:23:24'
   crc: '0xbb692f6e'
 - name: EOBDATA0.SAV
   size: 46891
-  date: '2011-11-26T16:21:52'
+  date: '1991-12-04T20:54:14'
   crc: '0x30ed9d05'
 - name: FADING.DAT
   size: 1792
-  date: '2011-11-26T16:21:48'
+  date: '1991-10-29T18:33:10'
   crc: '0x0d7dd530'
 - name: FINALE1.ADL
   size: 8402
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-20T11:38:48'
   crc: '0x3308c324'
 - name: FINALE1.SND
   size: 2115
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-22T14:50:42'
   crc: '0x51976794'
 - name: FINALE2.ADL
   size: 13349
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-15T10:53:14'
   crc: '0xb9518ed2'
 - name: FINALE2.SND
   size: 1529
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-22T14:50:52'
   crc: '0x74745c5f'
 - name: FINALE_0.PAL
   size: 768
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-19T15:49:34'
   crc: '0x13dd5525'
 - name: FINALE_1.PAL
   size: 768
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-19T15:49:40'
   crc: '0x781137b7'
 - name: FINALE_2.PAL
   size: 768
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-19T15:49:34'
   crc: '0x615114aa'
 - name: FINALE_3.PAL
   size: 768
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-19T15:49:36'
   crc: '0xf97cdfd5'
 - name: FINALE_4.PAL
   size: 768
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-19T15:49:36'
   crc: '0xd4a958c3'
 - name: FINALE_5.PAL
   size: 768
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-19T15:49:38'
   crc: '0x8c49a428'
 - name: FINALE_6.PAL
   size: 768
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-19T15:49:42'
   crc: '0x0762e01b'
 - name: FINALE_7.PAL
   size: 768
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-19T15:49:40'
   crc: '0xa327bf36'
 - name: FONT6.FNT
   size: 1028
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-19T13:22:06'
   crc: '0xc787782e'
 - name: FONT8.FNT
   size: 1284
-  date: '2011-11-26T16:21:54'
+  date: '1991-08-15T16:54:24'
   crc: '0xa2d675c5'
 - name: FOREST.ADL
   size: 6997
-  date: '2011-11-26T16:21:48'
+  date: '1991-11-25T12:13:16'
   crc: '0x434f0767'
 - name: FOREST.CPS
   size: 10687
-  date: '2011-11-26T16:21:52'
+  date: '1991-08-26T16:43:56'
   crc: '0xf1c01bae'
 - name: FOREST.DEC
   size: 248
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-25T11:41:52'
   crc: '0xd5fa8db8'
 - name: FOREST.EGA
   size: 768
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-25T07:37:20'
   crc: '0x35f10fb2'
 - name: FOREST.PAL
   size: 768
-  date: '2011-11-26T16:21:52'
+  date: '1991-10-31T17:38:32'
   crc: '0xd6f2a62e'
 - name: FOREST.SND
   size: 5190
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-22T14:50:58'
   crc: '0xadf74dd8'
 - name: FOREST.VCN
   size: 22139
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-20T17:52:22'
   crc: '0x8e668bab'
 - name: FOREST.VMP
   size: 2386
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-20T17:51:18'
   crc: '0xa9161424'
 - name: FRGIANT.CPS
   size: 10761
-  date: '2011-11-26T16:21:52'
+  date: '1991-10-09T14:09:06'
   crc: '0x5fbb7c65'
 - name: FSNAKE.CPS
   size: 7269
-  date: '2011-11-26T16:21:52'
+  date: '1991-09-06T16:30:18'
   crc: '0xa1566b46'
 - name: GARGOYLE.CPS
   size: 9434
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-13T18:12:46'
   crc: '0x6f44be8e'
 - name: GASSPORE.CPS
   size: 6556
-  date: '2011-11-26T16:21:52'
+  date: '1991-09-06T16:30:42'
   crc: '0x00c868b1'
 - name: GLASS.CPS
   size: 16870
-  date: '2011-11-26T16:21:52'
+  date: '1991-10-31T19:49:08'
   crc: '0xc0a4674b'
 - name: GUARD1.CPS
   size: 8715
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-12T18:31:36'
   crc: '0x40b07a70'
 - name: GUARD1.DCR
   size: 110
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-20T00:29:12'
   crc: '0xe92a143e'
 - name: GUARD2.CPS
   size: 7252
-  date: '2011-11-26T16:21:52'
+  date: '1991-08-15T16:54:24'
   crc: '0xc2e2eeb5'
 - name: GUARD2.DCR
   size: 74
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-20T00:29:12'
   crc: '0x71ea1b74'
 - name: GUARDIAN.CPS
   size: 13436
-  date: '2011-11-26T16:21:52'
+  date: '1991-10-23T03:25:42'
   crc: '0x3da379ae'
 - name: HEAD.CPS
   size: 526
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-14T15:45:14'
   crc: '0xc5e8343d'
 - name: HELLHND.CPS
   size: 5595
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-08T14:39:32'
   crc: '0x47394452'
 - name: HEROES.CPS
   size: 18322
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-12T19:24:14'
   crc: '0xb6184491'
 - name: HURRY1.CPS
   size: 18291
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-07T13:40:54'
   crc: '0x3c691906'
 - name: HURRY2.CPS
   size: 6954
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-13T11:26:08'
   crc: '0x399c436e'
 - name: IMPLODE.CPS
   size: 15391
-  date: '2011-11-26T16:21:52'
+  date: '1991-10-31T19:50:14'
   crc: '0x8bd8dcb7'
 - name: INTRO.ADL
   size: 7849
-  date: '2011-11-26T16:21:48'
+  date: '1991-11-16T19:51:10'
   crc: '0x861b47b0'
 - name: INTRO.CPS
   size: 16479
-  date: '2011-11-26T16:21:52'
+  date: '1991-08-15T16:54:24'
   crc: '0x06ca3262'
 - name: INTRO.EGA
   size: 768
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-25T07:37:36'
   crc: '0x91821e42'
 - name: INTRO.SND
   size: 1529
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-22T14:51:02'
   crc: '0xf5dfa29a'
 - name: INVENT.CPS
   size: 2450
-  date: '2011-11-26T16:21:52'
+  date: '1991-09-23T14:29:22'
   crc: '0x7898c869'
 - name: ITEM.DAT
   size: 10385
-  date: '2011-11-26T16:21:48'
+  date: '1991-12-04T11:43:28'
   crc: '0xcaae6ed7'
 - name: ITEMICN.CPS
   size: 11056
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-20T13:07:24'
   crc: '0x78f375a5'
 - name: ITEML1.CPS
   size: 3685
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-07T16:40:24'
   crc: '0xbcc215f6'
 - name: ITEMS1.CPS
   size: 3981
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-05T11:17:52'
   crc: '0xd0b9ec2c'
 - name: ITEMTYPE.DAT
   size: 1026
-  date: '2011-11-26T16:21:48'
+  date: '1991-12-04T11:43:24'
   crc: '0xcf71995c'
 - name: KHELBAN1.CPS
   size: 15572
-  date: '2011-11-26T16:21:52'
+  date: '1991-10-31T12:33:48'
   crc: '0x8b1fca4d'
 - name: KHELBAN2.CPS
   size: 9163
-  date: '2011-11-26T16:21:52'
+  date: '1991-10-31T12:34:36'
   crc: '0x74fcc5cc'
 - name: KHELBAN3.CPS
   size: 11259
-  date: '2011-11-26T16:21:52'
+  date: '1991-10-31T12:35:40'
   crc: '0xc00a522a'
 - name: KHELBAN4.CPS
   size: 14137
-  date: '2011-11-26T16:21:52'
+  date: '1991-10-31T12:36:56'
   crc: '0x2eef13ec'
 - name: KHELBAN5.CPS
   size: 8093
-  date: '2011-11-26T16:21:52'
+  date: '1991-10-31T15:23:44'
   crc: '0xf728eade'
 - name: KHELBAN6.CPS
   size: 13355
-  date: '2011-11-26T16:21:52'
+  date: '1991-10-31T15:23:06'
   crc: '0xe90df451'
 - name: KHELBEN.CPS
   size: 7075
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-08T11:39:04'
   crc: '0x2eeb0026'
 - name: KHELDRAN.CPS
   size: 17575
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-05T16:33:10'
   crc: '0x99773e7e'
 - name: LEVEL1.INF
   size: 4712
-  date: '2011-11-26T16:21:54'
+  date: '1991-12-03T14:01:38'
   crc: '0xce90727e'
 - name: LEVEL1.MAZ
   size: 4102
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-25T11:41:52'
   crc: '0x563eec10'
 - name: LEVEL10.INF
   size: 867
-  date: '2011-11-26T16:21:54'
+  date: '1991-12-03T14:04:46'
   crc: '0x99d38bb1'
 - name: LEVEL10.MAZ
   size: 4102
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-25T11:41:52'
   crc: '0x9777a7b9'
 - name: LEVEL11.INF
   size: 5560
-  date: '2011-11-26T16:21:54'
+  date: '1991-12-03T14:05:10'
   crc: '0x15763ed9'
 - name: LEVEL11.MAZ
   size: 4102
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-25T11:41:52'
   crc: '0xea0592bf'
 - name: LEVEL12.INF
   size: 5334
-  date: '2011-11-26T16:21:54'
+  date: '1991-12-03T14:05:34'
   crc: '0x8b749cc7'
 - name: LEVEL12.MAZ
   size: 4102
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-25T12:15:40'
   crc: '0x02745f51'
 - name: LEVEL13.INF
   size: 3746
-  date: '2011-11-26T16:21:54'
+  date: '1991-12-03T14:05:52'
   crc: '0x4c804c03'
 - name: LEVEL13.MAZ
   size: 4102
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-25T11:41:52'
   crc: '0x08b915dd'
 - name: LEVEL14.INF
   size: 4258
-  date: '2011-11-26T16:21:54'
+  date: '1991-12-03T14:06:16'
   crc: '0x49390454'
 - name: LEVEL14.MAZ
   size: 4102
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-25T11:52:28'
   crc: '0x45527dda'
 - name: LEVEL15.INF
   size: 4580
-  date: '2011-11-26T16:21:54'
+  date: '1991-12-03T14:06:38'
   crc: '0x24d59792'
 - name: LEVEL15.MAZ
   size: 4102
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-25T11:41:52'
   crc: '0x9d094827'
 - name: LEVEL16.INF
   size: 1769
-  date: '2011-11-26T16:21:54'
+  date: '1991-12-03T14:06:56'
   crc: '0x0d136dd2'
 - name: LEVEL2.INF
   size: 5048
-  date: '2011-11-26T16:21:54'
+  date: '1991-12-03T21:24:34'
   crc: '0xe9b9855c'
 - name: LEVEL2.MAZ
   size: 4102
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-25T11:41:52'
   crc: '0x8c2eedce'
 - name: LEVEL3.INF
   size: 4419
-  date: '2011-11-26T16:21:54'
+  date: '1991-12-03T14:02:22'
   crc: '0x00d0d72b'
 - name: LEVEL3.MAZ
   size: 4102
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-25T11:41:52'
   crc: '0xe8cebe1d'
 - name: LEVEL4.INF
   size: 1512
-  date: '2011-11-26T16:21:54'
+  date: '1991-12-03T14:02:36'
   crc: '0xa47668f7'
 - name: LEVEL4.MAZ
   size: 4102
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-25T11:41:52'
   crc: '0x672490d8'
 - name: LEVEL5.INF
   size: 2684
-  date: '2011-11-26T16:21:54'
+  date: '1991-12-03T14:02:56'
   crc: '0xe4bbb18a'
 - name: LEVEL5.MAZ
   size: 4102
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-25T11:41:52'
   crc: '0x531c579f'
 - name: LEVEL6.INF
   size: 5765
-  date: '2011-11-26T16:21:54'
+  date: '1991-12-03T21:24:58'
   crc: '0x7c530f94'
 - name: LEVEL6.MAZ
   size: 4102
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-25T11:41:52'
   crc: '0x511ca5e1'
 - name: LEVEL7.INF
   size: 5614
-  date: '2011-11-26T16:21:54'
+  date: '1991-12-03T20:55:34'
   crc: '0x0a5737b2'
 - name: LEVEL7.MAZ
   size: 4102
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-25T14:29:34'
   crc: '0xbdc7e5be'
 - name: LEVEL8.INF
   size: 5112
-  date: '2011-11-26T16:21:54'
+  date: '1991-12-03T21:44:24'
   crc: '0xa862c318'
 - name: LEVEL8.MAZ
   size: 4102
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-25T11:41:52'
   crc: '0xc9cfef84'
 - name: LEVEL9.INF
   size: 4301
-  date: '2011-11-26T16:21:54'
+  date: '1991-12-03T14:04:32'
   crc: '0x0953dda0'
 - name: LEVEL9.MAZ
   size: 4102
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-25T11:41:52'
   crc: '0x880bdb5d'
 - name: LEVELS.TMP
   size: 36210
-  date: '2011-11-26T16:21:54'
+  date: '1992-01-03T11:52:04'
   crc: '0x282efb31'
 - name: MAGE.CPS
   size: 6341
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-05T18:15:44'
   crc: '0x251109c3'
 - name: MAGE.DCR
   size: 38
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-20T00:29:12'
   crc: '0x575e90e8'
 - name: MAGIC.CPS
   size: 3564
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-07T13:37:46'
   crc: '0x2f17761b'
 - name: MANTIS.CPS
   size: 8830
-  date: '2011-11-26T16:21:52'
+  date: '1991-10-07T17:03:48'
   crc: '0xd89b470d'
 - name: MANTIS.DCR
   size: 110
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-20T00:29:12'
   crc: '0x1893ebf4'
 - name: MAP.CPS
   size: 9166
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-20T01:58:58'
   crc: '0x6e7d833d'
 - name: MEDUSA.CPS
   size: 6506
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-10T00:00:20'
   crc: '0xaeee3f02'
 - name: MENU.CPS
   size: 24493
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-26T13:35:44'
   crc: '0x41d2ba70'
 - name: MENU.EGA
   size: 768
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-25T07:37:24'
   crc: '0x55bdb9bf'
 - name: MEZANINE.ADL
   size: 8070
-  date: '2011-11-26T16:21:50'
+  date: '1991-11-25T12:13:06'
   crc: '0xccfab80d'
 - name: MEZANINE.SND
   size: 5190
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-22T14:51:06'
   crc: '0x7012ad13'
 - name: MEZZ.DEC
   size: 4476
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-25T11:41:52'
   crc: '0x8d15b570'
 - name: MEZZ.EGA
   size: 768
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-25T07:37:18'
   crc: '0x8b59cffe'
 - name: MEZZ.PAL
   size: 768
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-07T16:29:02'
   crc: '0xe64ed900'
 - name: MEZZ.VCN
   size: 25585
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-19T18:22:20'
   crc: '0x1c0dfa1e'
 - name: MEZZ.VMP
   size: 5834
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-19T18:20:50'
   crc: '0xb2e68c1c'
 - name: MEZZ1.CPS
   size: 22527
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-13T19:14:16'
   crc: '0xef6fffcc'
 - name: MEZZ2.CPS
   size: 16354
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-18T14:53:44'
   crc: '0xd405fccc'
 - name: MGA.OVL
   size: 9994
-  date: '2011-11-26T16:21:52'
+  date: '1991-12-03T22:06:44'
   crc: '0x50010673'
 - name: MINDFLAY.CPS
   size: 8890
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-25T19:37:06'
   crc: '0x6ca804e9'
 - name: MMOUTH1.CPS
   size: 8999
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-07T16:44:02'
   crc: '0xdfea006e'
 - name: MMOUTH2.CPS
   size: 10658
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-07T16:44:42'
   crc: '0xaf630bd7'
 - name: OUTPORTS.CPS
   size: 4315
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-08T17:11:50'
   crc: '0xd0587c96'
 - name: OUTTAKE.CPS
   size: 3583
-  date: '2011-11-26T16:21:52'
+  date: '1991-08-29T17:23:40'
   crc: '0x89d2253e'
 - name: PALETTE.COL
   size: 768
-  date: '2011-11-26T16:21:54'
+  date: '1991-08-26T14:48:06'
   crc: '0xd6f2a62e'
 - name: PALETTE0.PAL
   size: 768
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-21T17:47:14'
   crc: '0x5a0cfdab'
 - name: PALETTE1.PAL
   size: 768
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-06T17:30:28'
   crc: '0xe30d871f'
 - name: PALETTE2.PAL
   size: 768
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-01T16:56:58'
   crc: '0xcf9d2cb6'
 - name: PALETTE3.PAL
   size: 768
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-01T16:57:00'
   crc: '0x4d3705ca'
 - name: PALETTE4.PAL
   size: 768
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-01T16:56:54'
   crc: '0x0c75f506'
 - name: PLAYFLD.CPS
   size: 8821
-  date: '2011-11-26T16:21:52'
+  date: '1991-10-14T02:07:08'
   crc: '0x2545cf61'
 - name: PORTALA.CPS
   size: 13225
-  date: '2011-11-26T16:21:54'
+  date: '1991-08-15T16:54:24'
   crc: '0xc6e7e2eb'
 - name: PORTALB.CPS
   size: 16861
-  date: '2011-11-26T16:21:54'
+  date: '1991-08-15T16:54:24'
   crc: '0xbbac5654'
 - name: SALAMNDR.CPS
   size: 11154
-  date: '2011-11-26T16:21:52'
+  date: '1991-10-09T14:10:32'
   crc: '0x978f4abe'
 - name: SETUP.EXE
   size: 16866
-  date: '2011-11-26T16:21:52'
+  date: '1991-12-04T11:31:04'
   crc: '0xac6a71da'
 - name: SHRUNKEN.CPS
   size: 7430
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-07T16:47:00'
   crc: '0x85bc9599'
 - name: SILVER.ADL
   size: 10381
-  date: '2011-11-26T16:21:50'
+  date: '1991-11-25T12:13:12'
   crc: '0xaed98ed0'
 - name: SILVER.DEC
   size: 4692
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-25T11:41:52'
   crc: '0xcf12658e'
 - name: SILVER.EGA
   size: 768
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-25T07:37:26'
   crc: '0x15eb2430'
 - name: SILVER.PAL
   size: 768
-  date: '2011-11-26T16:21:52'
+  date: '1991-10-31T17:38:32'
   crc: '0xa2c6bb7e'
 - name: SILVER.SND
   size: 5190
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-22T14:51:10'
   crc: '0x6c6dc21f'
 - name: SILVER.VCN
   size: 24936
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-19T18:28:54'
   crc: '0xcdf669c4'
 - name: SILVER.VMP
   size: 5834
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-19T18:27:30'
   crc: '0xa565b138'
 - name: SILVER1.CPS
   size: 20543
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-13T19:19:20'
   crc: '0x06a90ba5'
 - name: SILVER2.CPS
   size: 7094
-  date: '2011-11-26T16:21:52'
+  date: '1991-10-07T12:16:34'
   crc: '0x4bb75324'
 - name: SKELWAR.CPS
   size: 14703
-  date: '2011-11-26T16:21:54'
+  date: '1991-08-15T16:54:24'
   crc: '0x298ae638'
 - name: SOUT1.CPS
   size: 29935
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-14T18:11:30'
   crc: '0xe0791236'
 - name: SOUT2.CPS
   size: 24759
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-14T18:13:16'
   crc: '0x8859a8a7'
 - name: SOUT3.CPS
   size: 22232
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-15T17:36:12'
   crc: '0x361d754e'
 - name: SOUT4.CPS
   size: 27829
-  date: '2011-11-26T16:21:54'
+  date: '1991-11-22T21:23:02'
   crc: '0x4952015b'
 - name: SOUT5.CPS
   size: 19589
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-09T18:59:52'
   crc: '0x27934701'
 - name: SPIDER.CPS
   size: 6581
-  date: '2011-11-26T16:21:52'
+  date: '1991-08-15T16:54:24'
   crc: '0x75918832'
 - name: START.EXE
   size: 333328
-  date: '2011-11-26T16:14:14'
+  date: '1992-01-03T11:49:36'
   crc: '0xd3a4d75f'
 - name: START.EX_
   size: 333328
-  date: '2011-11-26T16:13:24'
+  date: '1992-01-03T11:49:36'
   crc: '0x8f6b81bd'
 - name: STONEGIA.CPS
   size: 10632
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-25T19:37:40'
   crc: '0x34c98cda'
 - name: STREET1.CPS
   size: 13961
-  date: '2011-11-26T16:21:52'
+  date: '1991-10-31T12:28:50'
   crc: '0xcb104fdd'
 - name: STREET2.CPS
   size: 13026
-  date: '2011-11-26T16:21:52'
+  date: '1991-10-31T12:29:58'
   crc: '0x5fb415e4'
 - name: SUICIDE.CPS
   size: 18251
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-15T17:37:18'
   crc: '0x53ab87ba'
 - name: TANGLOR.CPS
   size: 9048
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-08T17:13:26'
   crc: '0x566c5d9e'
 - name: TEXT.DAT
   size: 22463
-  date: '2011-11-26T16:21:48'
+  date: '1991-12-03T21:25:16'
   crc: '0x337dfc0d'
 - name: THANKS.CPS
   size: 15017
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-12T15:39:18'
   crc: '0x4bdd3cca'
 - name: THROWN.CPS
   size: 4957
-  date: '2011-11-26T16:21:52'
+  date: '1991-10-10T18:20:16'
   crc: '0x0da7f815'
 - name: WASP.CPS
   size: 5194
-  date: '2011-11-26T16:21:52'
+  date: '1991-09-05T15:49:30'
   crc: '0xfacaa1f1'
 - name: WESTWOOD.CPS
   size: 2451
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-06T18:06:38'
   crc: '0x0e78bea3'
 - name: WILLOWIS.CPS
   size: 6377
-  date: '2011-11-26T16:21:52'
+  date: '1991-11-09T23:59:44'
   crc: '0x0b350f02'
 - name: WINDING.CPS
   size: 23188
-  date: '2011-11-26T16:21:52'
+  date: '1991-10-31T12:42:54'
   crc: '0x17320b13'
 - name: WOLF.CPS
   size: 5952
-  date: '2011-11-26T16:21:52'
+  date: '1991-08-30T16:56:16'
   crc: '0x0256d3f1'
 - name: XGA.OVL
   size: 12587
-  date: '2011-11-26T16:21:52'
+  date: '1991-12-03T22:06:52'
   crc: '0x591943fc'

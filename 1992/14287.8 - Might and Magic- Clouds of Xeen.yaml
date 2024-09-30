@@ -1,0 +1,78 @@
+filename: Might and Magic- Clouds of Xeen r921008 (Installer) (1992)(New World Computing, Inc.) [Role-Playing (RPG)][!].zip
+tdc_id: '14287.8'
+parent_id: '14287.7'
+title:
+  box: 'Might and Magic: Clouds of Xeen'
+  qualifier: Installer
+publisher: New World Computing, Inc.
+year: '1992'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2024-08-30T14:49:02'
+  last_modified: '2024-08-30T15:24:26'
+release: '921008'
+type: zip
+tags:
+- KnownGood
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/3423/might-and-magic-clouds-of-xeen/
+files:
+- name: DEARJ.EXE
+  size: 38373
+  date: '1992-09-11T17:01:52'
+  crc: '0x0af1b6b1'
+- name: INSTALL.BAT
+  size: 1725
+  date: '1980-01-01T13:00:00'
+  crc: '0xfb17058d'
+- name: INSTALL.EXE
+  size: 19501
+  date: '1992-10-07T18:40:36'
+  crc: '0x67e79ddb'
+- name: XEEN.105
+  size: 1146307
+  date: '1992-10-08T12:17:38'
+  crc: '0xa45cc685'
+- name: XEEN.A01
+  size: 1456874
+  date: '1992-10-08T11:59:22'
+  crc: '0x3be75a1e'
+- name: XEEN.A02
+  size: 1456984
+  date: '1992-10-08T12:04:12'
+  crc: '0x5a3740c8'
+- name: XEEN.A03
+  size: 1456976
+  date: '1992-10-08T12:08:40'
+  crc: '0x06e8357d'
+- name: XEEN.A04
+  size: 1456962
+  date: '1992-10-08T12:13:42'
+  crc: '0x92758a47'
+- name: XEEN.ARJ
+  size: 1398577
+  date: '1992-10-08T11:54:52'
+  crc: '0xcf888f27'
+- name: XEEN_1
+  size: 0
+  date: '1992-10-07T13:39:48'
+- name: XEEN_2
+  size: 0
+  date: '1992-10-07T13:41:12'
+- name: XEEN_3
+  size: 0
+  date: '1992-10-07T13:42:12'
+- name: XEEN_4
+  size: 0
+  date: '1992-10-07T13:42:32'
+- name: XEEN_5
+  size: 0
+  date: '1992-10-07T13:42:56'
+- name: XEEN_6
+  size: 0
+  date: '1992-10-08T11:49:02'

@@ -1,16 +1,21 @@
-filename: Dungeon Master II- Skullkeep v0.9 Beta (1993)(Victor Entertainment Inc.) [Role-Playing (RPG)].zip
+filename: Dungeon Master II- Skullkeep v0.9 Beta (1993)(FTL Games) [Role-Playing (RPG)].zip
 tdc_id: '9544.2'
 title:
   screen: 'Dungeon Master II: Skullkeep'
-publisher: Victor Entertainment Inc.
+publisher: FTL Games
 year: '1993'
 genre: Role-Playing (RPG)
 language: English
 date:
   added: '2019-03-01T19:02:34'
-  last_modified: '2019-03-01T19:02:34'
-version: '0.9'
+  last_modified: '2024-09-21T10:13:27'
+version: 0.9 Beta
 type: zip
+media: Download
+commands:
+  play: DM.EXE
+references:
+  mobygames: https://www.mobygames.com/game/914/dungeon-master-ii-skullkeep/
 files:
 - name: DATA\
   size: 0

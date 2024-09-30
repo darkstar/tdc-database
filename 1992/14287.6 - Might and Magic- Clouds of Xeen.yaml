@@ -1,0 +1,45 @@
+filename: Might and Magic- Clouds of Xeen (demo) (Installer) (1992)(New World Computing, Inc.) [Role-Playing (RPG)].zip
+tdc_id: '14287.6'
+title:
+  screen: 'Might and Magic: Clouds of Xeen'
+  qualifier: demo
+publisher: New World Computing, Inc.
+year: '1992'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2024-08-30T14:03:17'
+  last_modified: '2024-08-30T14:03:17'
+type: zip
+media: Download
+installer: true
+demo: true
+commands:
+  play: INSTALL.BAT
+references:
+  mobygames: https://www.mobygames.com/game/3423/might-and-magic-clouds-of-xeen/
+files:
+- name: DEMO.EXE
+  size: 1362350
+  date: '1992-07-06T09:03:16'
+  crc: '0x2f1a9785'
+- name: DEMO.NWC
+  size: 76
+  date: '1992-07-01T07:49:44'
+  crc: '0x4c843349'
+- name: DEMO2.EXE
+  size: 1416309
+  date: '1992-08-07T10:59:32'
+  crc: '0x44292c23'
+- name: INSTALL.BAT
+  size: 816
+  date: '1992-07-02T03:52:52'
+  crc: '0xae47f279'
+- name: SOUND.NWC
+  size: 16850
+  date: '1992-06-15T04:29:34'
+  crc: '0x376158a4'
+- name: XEEN.NWC
+  size: 54911
+  date: '1992-07-06T04:48:42'
+  crc: '0x1de328be'

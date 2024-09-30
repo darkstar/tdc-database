@@ -1,8 +1,9 @@
-filename: Heimdall 2- Into the Hall of Worlds (En)(De)(Fr)(It)(Es)(No) (1994)(Core Design Ltd.) [IMA][1440k][!].zip
+filename: Heimdall 2- Into the Hall of Worlds (En)(De)(Fr)(It)(Es) (1994)(Core Design Ltd.) [IMA][1440k][!].zip
 tdc_id: '5357.3'
 parent_id: '5357.4'
 title:
-  box: 'Heimdall 2: Into the Hall of Worlds'
+  box: Heimdall 2
+  screen: 'Heimdall 2: Into the Hall of Worlds'
 publisher: Core Design Ltd.
 year: '1994'
 genre: IMA
@@ -12,14 +13,15 @@ language:
 - French
 - Italian
 - German
-- Norwegian
 date:
   added: '2023-02-27T10:49:19'
-  last_modified: '2023-02-27T10:49:19'
+  last_modified: '2024-09-24T11:55:33'
 type: IMA
 tags:
 - KnownGood
 media: 1.44M
+references:
+  mobygames: https://www.mobygames.com/game/1135/heimdall-2-into-the-hall-of-worlds/
 files:
 - name: Disk1.ima
   size: 1474560

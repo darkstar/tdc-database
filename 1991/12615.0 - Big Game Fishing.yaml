@@ -1,5 +1,6 @@
-filename: Big Game Fishing (It)(En) [h1] (1991)(Simulmondo) [Simulation, Sports].zip
+filename: Big Game Fishing (It)(En) (1991)(Simulmondo) [Simulation, Sports].zip
 tdc_id: '12615.0'
+parent_id: '12615.2'
 title:
   box: Big Game Fishing
 publisher: Simulmondo
@@ -12,18 +13,29 @@ language:
 - Italian
 date:
   added: '2019-03-01T18:35:00'
-  last_modified: '2022-09-20T16:23:04'
+  last_modified: '2024-09-24T17:36:40'
 type: zip
-tags:
-- Hack: 1
+media: 720K
+commands:
+  play: START.BAT
 references:
+  mobygames: https://www.mobygames.com/game/33473/big-game-fishing/
   dosid: DOS01046
   exodos: Big Game Fishing (1991).zip
 files:
+- name: BGF-PC1
+  size: 0
+  date: '1991-07-08T20:07:00'
+- name: BGF-PC2
+  size: 0
+  date: '1991-07-08T20:14:00'
+- name: BGF-PC3
+  size: 0
+  date: '1991-07-08T20:29:00'
 - name: BGF_TCL.COM
   size: 1070
-  date: '1991-12-06T23:17:28'
-  crc: '0xbb681621'
+  date: '1980-01-01T00:00:00'
+  crc: '0x4dcfeb85'
 - name: BIG-GAME.EXE
   size: 78347
   date: '1991-08-30T15:53:20'
@@ -42,7 +54,7 @@ files:
   crc: '0x87629d9d'
 - name: PICTURES.CGA\
   size: 0
-  date: '2000-06-21T23:58:18'
+  date: '1991-07-08T20:10:22'
 - name: PICTURES.CGA\BIGGAME.PC1
   size: 16073
   date: '1985-11-20T00:02:16'
@@ -105,7 +117,7 @@ files:
   crc: '0x1e856f07'
 - name: PICTURES.EGA\
   size: 0
-  date: '2000-06-21T23:58:28'
+  date: '1991-07-08T20:24:40'
 - name: PICTURES.EGA\BIGGAME.PC1
   size: 47396
   date: '1991-07-06T18:48:14'
@@ -180,7 +192,7 @@ files:
   crc: '0xec43dc5b'
 - name: PICTURES.VGA\
   size: 0
-  date: '2000-06-21T23:58:36'
+  date: '1991-07-08T20:30:08'
 - name: PICTURES.VGA\BIGGAME.PC1
   size: 48114
   date: '1991-06-26T15:50:16'
@@ -253,7 +265,7 @@ files:
   size: 42322
   date: '1991-06-26T17:26:38'
   crc: '0x96176133'
-- name: RUNME.BAT
+- name: START.BAT
   size: 30
-  date: '2011-02-20T14:43:40'
+  date: '1980-01-01T00:00:00'
   crc: '0x4c8a07c8'

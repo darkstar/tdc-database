@@ -1,0 +1,27 @@
+filename: Lethal Weapon (Installer) (1995)(Big Games, Ocean Software Ltd.) [Action][!].zip
+tdc_id: '5580.3'
+parent_id: '5580.4'
+title:
+  box: Lethal Weapon
+  qualifier: Installer
+publisher: Big Games, Ocean Software Ltd.
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2024-09-27T07:57:04'
+  last_modified: '2024-09-27T07:57:04'
+type: zip
+tags:
+- KnownGood
+media: 720K
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/6956/lethal-weapon/
+files:
+- name: INSTALL.EXE
+  size: 572708
+  date: '1994-08-16T10:38:08'
+  crc: '0x25b034a0'

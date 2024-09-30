@@ -1,4 +1,4 @@
-filename: Buck Rogers- Countdown to Doomsday (1990)(Strategic Simulations, Inc.) [Adventure, Role-Playing (RPG)].zip
+filename: Buck Rogers- Countdown to Doomsday v1.00 (1990)(Strategic Simulations, Inc.) [Adventure, Role-Playing (RPG)].zip
 tdc_id: '8882.0'
 parent_id: '8882.2'
 title:
@@ -11,11 +11,14 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:31:56'
-  last_modified: '2019-03-01T18:31:56'
+  last_modified: '2024-09-20T17:45:48'
+version: '1.00'
 type: zip
+media: 360K
 commands:
   play: START.EXE
 references:
+  mobygames: https://www.mobygames.com/game/489/buck-rogers-countdown-to-doomsday/
   dosid: DOS00524
   exodos: Buck Rogers - Countdown to Doomsday (1990).zip
 files:
@@ -261,7 +264,7 @@ files:
   crc: '0x1a9e6e45'
 - name: SAVE\
   size: 0
-  date: '2008-09-14T08:49:18'
+  date: '1990-09-12T17:46:40'
 - name: SAVE\CHRDATA1.SAV
   size: 259
   date: '1990-09-15T11:28:50'
@@ -344,11 +347,11 @@ files:
   crc: '0x6870d153'
 - name: START.EXE
   size: 67619
-  date: '2008-09-14T08:50:50'
+  date: '1990-09-19T23:19:16'
   crc: '0x2a9a603d'
 - name: START.EX_
   size: 67619
-  date: '2008-09-14T08:50:34'
+  date: '1990-09-19T23:19:16'
   crc: '0x9197ac21'
 - name: TITLE.DAX
   size: 27058

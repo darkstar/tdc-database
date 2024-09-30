@@ -1,5 +1,6 @@
-filename: Wing Commander- Privateer (1993)(Electronic Arts, Inc., ORIGIN Systems, Inc.) [IMA][1440k][!].zip
+filename: Wing Commander- Privateer v2.13 (1993)(Electronic Arts, Inc., ORIGIN Systems, Inc.) [IMA][1440k][!].zip
 tdc_id: '16043.2'
+parent_id: '16043.3'
 title:
   box: 'Wing Commander: Privateer'
 publisher: Electronic Arts, Inc., ORIGIN Systems, Inc.
@@ -8,11 +9,14 @@ genre: IMA
 language: English
 date:
   added: '2023-02-27T10:38:44'
-  last_modified: '2023-02-27T10:38:44'
+  last_modified: '2024-08-29T16:50:19'
+version: '2.13'
 type: IMA
 tags:
 - KnownGood
 media: 1.44M
+references:
+  mobygames: https://www.mobygames.com/game/611/wing-commander-privateer/
 files:
 - name: Disk1.ima
   size: 1474560

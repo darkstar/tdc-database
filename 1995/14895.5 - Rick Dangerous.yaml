@@ -1,0 +1,66 @@
+filename: Rick Dangerous (1995)(Futura Games, Kixx, U.S. Gold Ltd.) [Action, Adventure][!].zip
+tdc_id: '14895.5'
+parent_id: '14895.4'
+title:
+  box: Rick Dangerous
+publisher: Futura Games, Kixx, U.S. Gold Ltd.
+year: '1995'
+genre:
+- Action
+- Adventure
+language: English
+date:
+  added: '2024-09-25T07:09:42'
+  last_modified: '2024-09-25T07:09:42'
+type: zip
+tags:
+- KnownGood
+media: 720K
+commands:
+  play: RICKEGA.BAT
+references:
+  mobygames: https://www.mobygames.com/game/2932/rick-dangerous/
+files:
+- name: CGA.COM
+  size: 4096
+  date: '1994-07-06T00:56:52'
+  crc: '0x298c9b79'
+- name: EGA.COM
+  size: 4096
+  date: '1994-07-06T00:52:26'
+  crc: '0xa5957a97'
+- name: INSTALL.BAT
+  size: 3180
+  date: '1994-07-06T09:50:34'
+  crc: '0x11907215'
+- name: KIXX
+  size: 0
+  date: '1994-11-29T09:48:56'
+- name: RICK.CGA
+  size: 97469
+  date: '1989-08-07T14:24:34'
+  crc: '0x0c5813ef'
+- name: RICK.EGA
+  size: 123255
+  date: '1989-08-07T14:23:12'
+  crc: '0xc8ae082f'
+- name: RICK.TND
+  size: 64257
+  date: '1989-08-07T15:44:30'
+  crc: '0x96fb59f5'
+- name: RICKCGA.BAT
+  size: 20
+  date: '1994-07-06T01:05:14'
+  crc: '0xd6578d3c'
+- name: RICKEGA.BAT
+  size: 20
+  date: '1994-07-06T01:04:50'
+  crc: '0x3ee2477f'
+- name: RICKTAN.BAT
+  size: 20
+  date: '1994-07-06T01:05:28'
+  crc: '0x833de3e2'
+- name: TAN.COM
+  size: 4096
+  date: '1994-07-06T00:58:12'
+  crc: '0xb6c05382'

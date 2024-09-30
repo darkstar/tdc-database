@@ -1,6 +1,5 @@
 filename: Elder Scrolls, The- Arena Patch 1.04 (1994)(Bethesda Softworks LLC) [Action, Role-Playing (RPG), Addon].zip
 tdc_id: '13344.17'
-parent_id: '13344.1'
 title:
   screen: 'The Elder Scrolls: Arena Patch 1.04'
 publisher: Bethesda Softworks LLC
@@ -19,6 +18,10 @@ commands:
   play: A.EXE
 files:
 - name: A.EXE
+  size: 315136
+  date: '1994-03-11T17:33:48'
+  crc: '0x85c7dfe2'
+- name: A.EX_
   size: 170928
   date: '1994-03-11T17:33:48'
   crc: '0xc29f3bb7'

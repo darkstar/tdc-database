@@ -1,8 +1,8 @@
-filename: Hearts v6.6 [SW] (1993)(R. J. Crouch) [Strategy, Cards].zip
+filename: Hearts v6.6 [SW] (1993)(R. J. Crouch, CareWare) [Strategy, Cards].zip
 tdc_id: '5355.2'
 title:
   screen: Hearts
-publisher: R. J. Crouch
+publisher: R. J. Crouch, CareWare
 year: '1993'
 genre:
 - Strategy
@@ -10,12 +10,14 @@ genre:
 language: English
 date:
   added: '2019-03-01T19:09:36'
-  last_modified: '2019-03-01T19:09:36'
+  last_modified: '2024-08-29T16:04:58'
 version: '6.6'
 type: zip
 tags:
 - Shareware
 media: Download
+commands:
+  play: HEARTS.EXE
 files:
 - name: HEART66.DAT
   size: 60

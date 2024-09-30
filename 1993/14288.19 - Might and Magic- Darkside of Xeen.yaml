@@ -1,0 +1,45 @@
+filename: Might and Magic- Darkside of Xeen r930827 (De) (1993)(Softgold Computerspiele GmbH, New World Computing, Inc.) [Role-Playing (RPG)].zip
+tdc_id: '14288.19'
+parent_id: '14288.15'
+title:
+  box: 'Might and Magic: Darkside of Xeen'
+publisher: Softgold Computerspiele GmbH, New World Computing, Inc.
+year: '1993'
+genre: Role-Playing (RPG)
+language: German
+date:
+  added: '2024-09-20T09:04:03'
+  last_modified: '2024-09-20T09:04:03'
+release: '930827'
+type: zip
+media: 1.44M
+commands:
+  play: XEEN.EXE
+  setup: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/3424/might-and-magic-darkside-of-xeen/
+files:
+- name: DARK.CC
+  size: 11168312
+  date: '1993-08-27T12:11:04'
+  crc: '0xef8fe799'
+- name: INSTALL.EXE
+  size: 21970
+  date: '1993-08-03T12:42:04'
+  crc: '0xf66b01cf'
+- name: INTRO.CC
+  size: 8899953
+  date: '1993-08-11T10:17:24'
+  crc: '0x3fe0905b'
+- name: XEEN.DAT
+  size: 377216
+  date: '1993-08-27T12:17:56'
+  crc: '0x13110f25'
+- name: XEEN.DA_
+  size: 154050
+  date: '1993-08-27T12:17:56'
+  crc: '0xd812c7f5'
+- name: XEEN.EXE
+  size: 53682
+  date: '1993-08-27T12:36:42'
+  crc: '0xf547902c'

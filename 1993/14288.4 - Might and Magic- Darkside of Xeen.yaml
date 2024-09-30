@@ -1,24 +1,28 @@
-filename: Might and Magic- Darkside of Xeen (Installer) [b1] (1993)(New World Computing, Inc.) [Role-Playing (RPG)].zip
+filename: Might and Magic- Darkside of Xeen r930519 (Installer) (1993)(New World Computing, Inc.) [Role-Playing (RPG)].zip
 tdc_id: '14288.4'
+parent_id: '14288.10'
 title:
   box: 'Might and Magic: Darkside of Xeen'
+  qualifier: Installer
 publisher: New World Computing, Inc.
 year: '1993'
 genre: Role-Playing (RPG)
 language: English
 date:
   added: '2019-12-13T21:03:02'
-  last_modified: '2019-12-13T21:03:02'
+  last_modified: '2024-08-30T08:35:39'
+release: '930519'
 type: zip
-tags:
-- Bad: 1
+media: 1.44M
 installer: true
 commands:
   play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/3424/might-and-magic-darkside-of-xeen/
 files:
 - name: DARK_DIS.K1
   size: 0
-  date: '1993-05-19T06:12:02'
+  date: '1993-05-19T06:11:54'
 - name: DARK_DIS.K2
   size: 0
   date: '1993-05-19T06:12:02'
@@ -44,10 +48,18 @@ files:
   size: 38373
   date: '1992-09-11T17:01:52'
   crc: '0x0af1b6b1'
+- name: INSTALL.BAT
+  size: 1727
+  date: '1980-01-01T13:00:00'
+  crc: '0xbb54bf57'
 - name: INSTALL.EXE
   size: 21869
   date: '1993-05-19T11:28:52'
   crc: '0xdf64ce06'
+- name: XEEN.107
+  size: 1444620
+  date: '1993-05-19T06:35:56'
+  crc: '0x2c8d9f47'
 - name: XEEN.A00
   size: 1396427
   date: '1993-05-19T06:16:46'
@@ -76,7 +88,3 @@ files:
   size: 1456992
   date: '1993-05-19T06:33:24'
   crc: '0x004e71be'
-- name: XEEN.A07
-  size: 1444620
-  date: '1993-05-19T06:35:56'
-  crc: '0x2c8d9f47'

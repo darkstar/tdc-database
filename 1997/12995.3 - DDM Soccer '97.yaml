@@ -1,0 +1,79 @@
+filename: DDM Soccer '97 (Installer) (En)(Es)(Fr)(De)(It) (1997)(Golden Zone, Digital Dreams Multimedia) [Sports].zip
+tdc_id: '12995.3'
+parent_id: '12995.1'
+title:
+  box: DDM Soccer '97
+  qualifier: Installer
+publisher: Golden Zone, Digital Dreams Multimedia
+year: '1997'
+genre: Sports
+language:
+- English
+- Spanish
+- French
+- Italian
+- German
+date:
+  added: '2024-08-15T11:45:57'
+  last_modified: '2024-08-15T11:45:57'
+type: zip
+media: CD-ROM
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: 1_SOCCER.EXE
+  size: 349952
+  date: '1997-11-03T10:13:06'
+  crc: '0x1f3994fd'
+- name: AUTORUN.INF
+  size: 55
+  date: '1997-10-17T10:30:20'
+  crc: '0x118c87e0'
+- name: CONTROL.PIF
+  size: 967
+  date: '1997-11-03T10:09:22'
+  crc: '0x04c4a585'
+- name: GOLD.AVI
+  size: 52412502
+  date: '1997-10-01T14:31:54'
+  crc: '0xff9a8fe0'
+- name: INSTALL.EXE
+  size: 46821
+  date: '1996-10-07T12:19:58'
+  crc: '0x93cc9cd3'
+- name: INSTALL.INI
+  size: 64
+  date: '1996-10-07T12:18:52'
+  crc: '0xac33fdfe'
+- name: OVL_00.PIF
+  size: 967
+  date: '1997-11-03T10:08:20'
+  crc: '0x3f3b2a8f'
+- name: OVL_01.PIF
+  size: 967
+  date: '1997-11-03T10:08:34'
+  crc: '0xb2e94f53'
+- name: OVL_02.PIF
+  size: 967
+  date: '1997-11-03T10:08:50'
+  crc: '0xffeee776'
+- name: PACKET.001
+  size: 1044691
+  date: '1996-11-13T11:42:40'
+  crc: '0xbcfebb88'
+- name: SETUP.PIF
+  size: 967
+  date: '1997-11-03T10:09:06'
+  crc: '0xa65ac174'
+- name: SOCCER.PIF
+  size: 967
+  date: '1997-11-03T10:07:54'
+  crc: '0xb390d6a9'
+- name: STUFF\
+  size: 0
+  date: '1997-11-04T11:59:20'
+- name: STUFF\SOCCER97.ICO
+  size: 2238
+  date: '1997-10-09T10:36:34'
+  crc: '0xf8f8f28c'

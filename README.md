@@ -233,11 +233,11 @@ All fields that are not marked as *optional* are present in every entry.
   format and use a backslash as path separator. If the name ends with a backslash, it represents
   a directory.
 
-  - `size`: The size of the file, on bytes. If the entry is a directory, the size is always 0.
+  - `size`: The size of the file, in bytes. If the entry is a directory, the size is always 0.
   Note that the reverse is not true, there can definitely be regular files that are 0 bytes in size.
 
   - `date`: The DOS timestamp of the file. This is where it gets tricky, as DOS did not check the
-  timestamps for validity, and so "impossible" timestamps could exist, like 25:34:62. To handle that
+  timestamps for validity, and so "impossible" timestamps could exist, like 25:34:62. To handle that,
   this field has two possible formats:
 
     - it is either a regular, valid ISO 8901 / RFC3339 timestamp, like `1995-11-11T06:11:10`

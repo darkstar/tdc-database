@@ -1,7 +1,9 @@
-filename: Buck Rogers- Countdown to Doomsday (Installer) (1990)(Strategic Simulations, Inc.) [Adventure, Role-Playing (RPG)].zip
+filename: Buck Rogers- Countdown to Doomsday v1.00 (Installer) (1990)(Strategic Simulations, Inc.) [Adventure, Role-Playing (RPG)][!].zip
 tdc_id: '8882.2'
+parent_id: '8882.7'
 title:
   box: 'Buck Rogers: Countdown to Doomsday'
+  qualifier: Installer
 publisher: Strategic Simulations, Inc.
 year: '1990'
 genre:
@@ -10,9 +12,17 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:31:56'
-  last_modified: '2019-03-01T18:31:56'
+  last_modified: '2024-09-20T17:28:09'
+version: '1.00'
 type: zip
+tags:
+- KnownGood
+media: 360K
 installer: true
+commands:
+  play: INSTALL.COM
+references:
+  mobygames: https://www.mobygames.com/game/489/buck-rogers-countdown-to-doomsday/
 files:
 - name: BUCK1.EXE
   size: 354532

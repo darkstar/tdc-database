@@ -1,4 +1,4 @@
-filename: Phantasie v1.1 (1990)(Wizardware Group Inc.) [Adventure, Role-Playing (RPG)].zip
+filename: Phantasie v1.1 (1990)(Wizardware Group Inc.) [Adventure, Role-Playing (RPG)][!].zip
 tdc_id: '10192.1'
 parent_id: '10192.4'
 title:
@@ -11,10 +11,16 @@ genre:
 language: English
 date:
   added: '2020-07-23T15:12:14'
-  last_modified: '2020-07-23T15:12:14'
+  last_modified: '2024-09-20T16:38:04'
 version: '1.1'
 type: zip
+tags:
+- KnownGood
+media: 360K
+commands:
+  play: PH.BAT
 references:
+  mobygames: https://www.mobygames.com/game/647/phantasie/
   dosid: DOS03978
   exodos: Phantasie (1987).zip
 files:
@@ -242,6 +248,9 @@ files:
   size: 208
   date: '1990-09-04T13:05:00'
   crc: '0x13974c7f'
+- name: PHANTASI.E
+  size: 0
+  date: '1987-04-14T10:58:22'
 - name: PHANTASI.EXE
   size: 21101
   date: '1990-08-22T08:24:44'

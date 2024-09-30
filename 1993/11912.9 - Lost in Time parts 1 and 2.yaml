@@ -1,9 +1,10 @@
-filename: Lost in Time parts 1 and 2 (Installer) (En)(Fr)(De)(It)(Es) (1993)(C.T.O. Spa) [Adventure].zip
+filename: Lost in Time parts 1 and 2 (Installer) (En)(Fr)(De)(It)(Es) (1993)(CTO S.p.A., Coktel Vision) [Adventure].zip
 tdc_id: '11912.9'
 parent_id: '11912.8'
 title:
   box: Lost in Time parts 1 and 2
-publisher: C.T.O. Spa
+  qualifier: Installer
+publisher: CTO S.p.A., Coktel Vision
 year: '1993'
 genre: Adventure
 language:
@@ -14,10 +15,16 @@ language:
 - German
 date:
   added: '2020-12-21T15:18:18'
-  last_modified: '2020-12-21T15:18:18'
+  last_modified: '2024-08-29T08:54:12'
 type: zip
+media: CD-ROM
 installer: true
+audio:
+- CD-DA
+commands:
+  play: INSTALL.COM
 references:
+  mobygames: https://www.mobygames.com/game/6098/lost-in-time/
   dosid: DOS03243
   exodos: Lost in Time (1993).zip
 notes: -compilation, do we need?

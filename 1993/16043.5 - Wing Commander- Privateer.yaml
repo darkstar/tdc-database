@@ -1,0 +1,66 @@
+filename: Wing Commander- Privateer vA1.15 (1993)(ORIGIN Systems, Inc.) [Action, Simulation].zip
+tdc_id: '16043.5'
+parent_id: '16043.4'
+title:
+  box: 'Wing Commander: Privateer'
+publisher: ORIGIN Systems, Inc.
+year: '1993'
+genre:
+- Action
+- Simulation
+language: English
+date:
+  added: '2024-08-30T17:05:32'
+  last_modified: '2024-08-30T17:05:32'
+version: A1.15
+type: zip
+media: 1.44M
+commands:
+  play: PRIV.EXE
+references:
+  mobygames: https://www.mobygames.com/game/611/wing-commander-privateer/
+files:
+- name: GAMEFLOW.TRE
+  size: 9290808
+  date: '1993-08-09T19:23:44'
+  crc: '0xcfbf1f34'
+- name: INITCFG.PAK
+  size: 818
+  date: '1993-08-04T22:31:14'
+  crc: '0xb87c9e08'
+- name: JEMM.OVL
+  size: 26512
+  date: '1993-07-23T13:14:10'
+  crc: '0x48e103b7'
+- name: MIDGAMES.TRE
+  size: 2758552
+  date: '1993-08-09T19:24:08'
+  crc: '0x8aebd44c'
+- name: OBJECTS.TRE
+  size: 4572639
+  date: '1993-08-09T19:21:12'
+  crc: '0x5722b6b0'
+- name: PRIV.CFG
+  size: 81
+  date: '1993-07-26T14:49:10'
+  crc: '0x23f97e6a'
+- name: PRIV.EXE
+  size: 8229
+  date: '1993-08-08T11:55:36'
+  crc: '0xe51b4dd0'
+- name: PRIVATER.EXE
+  size: 936318
+  date: '1993-08-09T20:11:40'
+  crc: '0x04daa271'
+- name: SOUND.TRE
+  size: 875686
+  date: '1993-08-06T15:06:08'
+  crc: '0xd511365d'
+- name: SPACE.TRE
+  size: 347352
+  date: '1993-08-09T19:23:50'
+  crc: '0xb5a6c191'
+- name: SPEECH.TRE
+  size: 460045
+  date: '1993-08-09T19:24:14'
+  crc: '0x40c067c5'
