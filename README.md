@@ -245,8 +245,10 @@ All fields that are not marked as *optional* are present in every entry.
     - or it is an invalid timestamp that has the same format as the ISO timestamp, but with an "X"
     instead of the "T" of the ISO format, like `1983-00-24X29:55:04`
 
-  When parsing this field you should wrap the ISO timestamp parsing in a try...catch block and
-  handle the "invalid" case as is convenient for you (ignore, fix, ...)
+    When parsing this field you should wrap the ISO timestamp parsing in a try...catch block and
+    handle the "invalid" case as is convenient for you (ignore, fix, ...)
 
   - `crc`: the CRC32 checksum of the complete file, in hex format with a leading `0x` string. If
-  the entry is a directory or a 0-byte size file, the `crc` field is missing
+  the entry is a directory or a 0-byte size file, the `crc` field is missing. The polynomial used
+  for the CRC calculation is the standard 0x04c11db7 polynomial that is also used in PkZip and
+  other implementations. Other checksum types might be added in the future.
