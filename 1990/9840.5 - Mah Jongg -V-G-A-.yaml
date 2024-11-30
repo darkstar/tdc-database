@@ -1,5 +1,6 @@
 filename: Mah Jongg -V-G-A- v2.2 [SW] (1990)(Ron Balewski) [Strategy].zip
 tdc_id: '9840.5'
+parent_id: '9840.10'
 title:
   screen: Mah Jongg -V-G-A-
 publisher: Ron Balewski
@@ -14,92 +15,86 @@ type: zip
 tags:
 - Shareware
 media: Download
+commands:
+  play: MJVGA22.EXE
 files:
-- name: ADDRESSZ.DBF
-  size: 880
-  date: '1992-01-13T08:23:42'
-  crc: '0xf2f2845d'
 - name: BBS.NUM
-  size: 426
-  date: '1990-05-19T09:06:58'
-  crc: '0x75834d7a'
+  size: 472
+  date: '1990-06-13T23:08:54'
+  crc: '0x882fc5a2'
 - name: BLANKS.ZIP
   size: 10287
-  date: '1989-11-30T15:42:48'
+  date: '1989-11-30T21:42:48'
   crc: '0x19e50d6c'
 - name: DRAFTSMN.DOC
   size: 8399
-  date: '1989-08-11T11:24:38'
+  date: '1989-08-11T17:24:38'
   crc: '0x233e601f'
 - name: DRAFTSMN.EXE
   size: 67886
-  date: '1990-03-06T13:07:44'
+  date: '1990-03-06T19:07:44'
   crc: '0xe0b18846'
 - name: EDITHOF.EXE
   size: 85516
-  date: '1990-05-10T10:24:40'
+  date: '1990-05-10T16:24:40'
   crc: '0xd5fe48dd'
-- name: FILES.TMP
-  size: 96
-  date: '1992-01-16T02:24:04'
-  crc: '0x372d12b9'
 - name: FILES.TXT
   size: 1062
-  date: '1990-05-10T10:53:40'
+  date: '1990-05-10T16:53:40'
   crc: '0x91a01289'
 - name: FIXES.DOC
   size: 6455
-  date: '1990-05-10T10:43:34'
+  date: '1990-05-10T16:43:34'
   crc: '0xc288098b'
 - name: MJVGA22.DOC
   size: 36720
-  date: '1990-05-10T09:20:56'
+  date: '1990-05-10T15:20:56'
   crc: '0x0dde26da'
 - name: MJVGA22.EXE
   size: 125660
-  date: '1990-05-17T03:41:52'
-  crc: '0x06b760b3'
+  date: '1990-05-17T09:41:52'
+  crc: '0x6a8f87cb'
 - name: NEW.V22
   size: 1862
-  date: '1990-03-29T07:00:44'
+  date: '1990-03-29T13:00:44'
   crc: '0xc0489e84'
 - name: OFFER.TXT
-  size: 1431
-  date: '1990-05-11T03:47:32'
-  crc: '0xa708c94b'
+  size: 1406
+  date: '1990-06-13T23:29:36'
+  crc: '0xe8031da6'
+- name: OFFER2.TXT
+  size: 1283
+  date: '1990-05-31T19:45:00'
+  crc: '0xa525543e'
 - name: PAKTIL.COM
   size: 10134
-  date: '1989-11-23T02:46:06'
+  date: '1989-11-23T08:46:06'
   crc: '0xb808a7a1'
 - name: TILESETS.DOC
   size: 987
-  date: '1989-11-30T16:09:30'
+  date: '1989-11-30T22:09:30'
   crc: '0xc71c3c0d'
-- name: TO1.NTX
-  size: 2048
-  date: '1992-01-13T08:23:42'
-  crc: '0x5ffa13db'
 - name: UNPAKTIL.COM
   size: 9416
-  date: '1989-11-23T02:50:56'
+  date: '1989-11-23T08:50:56'
   crc: '0xb7f7e6ca'
 - name: UTILITY.DOC
   size: 6501
-  date: '1990-04-08T08:58:58'
+  date: '1990-04-08T14:58:58'
   crc: '0x4ff775e7'
 - name: V01.TIS
   size: 63958
-  date: '1989-11-23T02:47:14'
+  date: '1989-11-23T08:47:14'
   crc: '0x24f9aed2'
 - name: V02.TIS
   size: 63956
-  date: '1989-12-03T12:29:38'
+  date: '1989-12-03T18:29:38'
   crc: '0x453ee48c'
 - name: V03.TIS
   size: 63958
-  date: '1989-11-23T02:49:46'
+  date: '1989-11-23T08:49:46'
   crc: '0xd6ed8db6'
 - name: VIEWSET.EXE
   size: 94664
-  date: '1989-11-30T15:47:18'
+  date: '1989-11-30T21:47:18'
   crc: '0x842af0ed'

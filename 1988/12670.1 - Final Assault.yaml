@@ -1,5 +1,6 @@
-filename: Final Assault (1988)(Epyx, Inc.) [Action, Simulation, Sports].zip
+filename: Final Assault (1988)(Epyx, Inc.) [Action, Simulation, Sports][!].zip
 tdc_id: '12670.1'
+parent_id: '12670.4'
 title:
   box: Final Assault
 publisher: Epyx, Inc.
@@ -11,9 +12,15 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:26:10'
-  last_modified: '2019-03-01T18:26:10'
+  last_modified: '2024-11-25T11:57:40'
 type: zip
+tags:
+- KnownGood
+media: 360K
+commands:
+  play: ASSAULT.COM
 references:
+  mobygames: https://www.mobygames.com/game/6443/final-assault/
   dosid: DOS02141
   exodos: Final Assault (1988).zip
 files:
@@ -51,16 +58,24 @@ files:
   crc: '0x77ef83c9'
 - name: BIV.EXE
   size: 77336
-  date: '2009-08-01T10:19:52'
+  date: '1988-08-24T11:28:14'
   crc: '0x2b51e662'
+- name: BIV.EX_
+  size: 77336
+  date: '1988-08-24T11:28:14'
+  crc: '0x030b5795'
 - name: BIVCAR.BIN
   size: 3360
   date: '1985-07-18T15:35:00'
   crc: '0xed9bf9e5'
 - name: BIVH.EXE
   size: 77384
-  date: '2009-08-01T10:19:58'
+  date: '1988-08-24T11:28:04'
   crc: '0x84d84da0'
+- name: BIVH.EX_
+  size: 77384
+  date: '1988-08-24T11:28:04'
+  crc: '0xac82fc57'
 - name: GARDEUS.IAP
   size: 7455
   date: '1988-07-18T11:47:32'

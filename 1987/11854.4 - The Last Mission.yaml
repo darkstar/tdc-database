@@ -1,5 +1,6 @@
-filename: Last Mission, The [tr En][DC] (1987)(Opera Soft S.A.) [Action].zip
+filename: Last Mission, The [DC] (1987)(Opera Soft S.A.) [Action].zip
 tdc_id: '11854.4'
+parent_id: '11854.6'
 title:
   box: The Last Mission
 publisher: Opera Soft S.A.
@@ -8,13 +9,15 @@ genre: Action
 language: English
 date:
   added: '2019-03-01T18:25:26'
-  last_modified: '2019-03-01T18:25:26'
+  last_modified: '2024-11-25T12:28:22'
 type: zip
 tags:
 - DOSConversion
-- Translated
+media: 360K
 commands:
   play: Lastmiss.exe
+references:
+  mobygames: https://www.mobygames.com/game/1985/the-last-mission/
 files:
 - name: Lastmiss.exe
   size: 74272

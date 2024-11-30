@@ -1,21 +1,23 @@
-filename: Star Hammer v1.0CD (Installer) (De) [SW] (1994)(Silver Lightning Software) [Action].zip
+filename: Star Hammer v1.0CD (De) [SW] (1994)(Jürgen Egeling Computer) [Action].zip
 tdc_id: '15510.2'
 title:
   screen: Star Hammer
-publisher: Silver Lightning Software
+publisher: Jürgen Egeling Computer
 year: '1994'
 genre: Action
 language: German
 date:
   added: '2018-10-26T20:36:06'
-  last_modified: '2018-10-26T20:36:06'
+  last_modified: '2024-10-28T15:39:47'
 version: 1.0CD
 type: zip
 tags:
 - Shareware
 media: Download
-installer: true
+commands:
+  play: HAMMER.BAT
 references:
+  mobygames: https://www.mobygames.com/game/40402/star-hammer/
   dosid: DOS02779
   exodos: Star Hammer (1994).zip
 files:
@@ -151,10 +153,6 @@ files:
   size: 768
   date: '1993-11-09T17:48:08'
   crc: '0xb5906ef0'
-- name: HAMMER.TXT
-  size: 2175
-  date: '1994-02-18T10:25:40'
-  crc: '0x82c358f9'
 - name: HAMMER.VGA
   size: 3742
   date: '1993-12-23T11:47:34'

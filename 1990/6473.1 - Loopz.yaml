@@ -1,79 +1,25 @@
-filename: Loopz [a1] (1990)(Mindscape, Inc.) [Action, Strategy].zip
+filename: Loopz (1990)(Mindscape, Inc.) [IMA][360k][!].zip
 tdc_id: '6473.1'
+parent_id: '6473.2'
 title:
   box: Loopz
 publisher: Mindscape, Inc.
 year: '1990'
-genre:
-- Action
-- Strategy
+genre: IMA
 language: English
 date:
-  added: '2019-03-01T18:33:08'
-  last_modified: '2019-03-01T18:33:08'
-type: zip
+  added: '2023-02-26T10:07:56'
+  last_modified: '2023-02-26T10:07:56'
+type: IMA
 tags:
-- Alternate: 1
-commands:
-  play: LOOPZ.EXE
+- KnownGood
+media: 360K
 files:
-- name: CGA.BCF
-  size: 48000
-  date: '1990-10-25T08:04:10'
-  crc: '0xa04f5d46'
-- name: CGAATTR.CUT
-  size: 3316
-  date: '1990-10-22T08:43:46'
-  crc: '0x10c9218c'
-- name: CP.CUT
-  size: 13969
-  date: '1990-10-15T12:04:18'
-  crc: '0xaeeede81'
-- name: EB.CUT
-  size: 24443
-  date: '1990-10-16T16:54:12'
-  crc: '0x55044527'
-- name: EGAATTR.CUT
-  size: 3509
-  date: '1990-10-16T09:19:06'
-  crc: '0xe9449e93'
-- name: EGAGREEN.CUT
-  size: 36424
-  date: '1990-06-23T12:41:42'
-  crc: '0xcb7d728f'
-- name: EGAWHITE.CUT
-  size: 29516
-  date: '1990-06-23T12:44:50'
-  crc: '0x6fc2958a'
-- name: EP.CUT
-  size: 9822
-  date: '1990-10-15T08:22:16'
-  crc: '0x23aeb3b3'
-- name: LOOPZ.BCF
-  size: 18468
-  date: '1990-10-22T08:21:10'
-  crc: '0x6308ada9'
-- name: LOOPZ.EXE
-  size: 34699
-  date: '1980-01-01T03:45:16'
-  crc: '0xc59770f7'
-- name: LOOPZ.HIS
-  size: 3046
-  date: '1991-06-05T15:18:36'
-  crc: '0xe3c26ed6'
-- name: VB.CUT
-  size: 24255
-  date: '1990-10-16T16:52:20'
-  crc: '0xde8b37f5'
-- name: VGAGREEN.CUT
-  size: 42762
-  date: '1990-08-31T17:35:44'
-  crc: '0x306f5203'
-- name: VGAWHITE.CUT
-  size: 38210
-  date: '1990-07-24T08:01:38'
-  crc: '0x797df6da'
-- name: VP.CUT
-  size: 9766
-  date: '1990-10-16T08:03:52'
-  crc: '0x19e14dfe'
+- name: Disk1.IMA
+  size: 368640
+  date: '2018-11-07T18:36:54'
+  crc: '0xf6390ff7'
+- name: Disk2.IMA
+  size: 368640
+  date: '2018-11-07T18:40:32'
+  crc: '0xe7a623da'

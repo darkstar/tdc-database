@@ -1,0 +1,37 @@
+filename: Livingstone Supongo (Es) [DC] (1987)(Opera Soft S.A.) [Action, Adventure].zip
+tdc_id: '11888.0'
+parent_id: '11888.6'
+title:
+  box: Livingstone Supongo
+publisher: Opera Soft S.A.
+year: '1987'
+genre:
+- Action
+- Adventure
+language: Spanish
+date:
+  added: '2019-03-01T18:26:26'
+  last_modified: '2024-11-27T13:37:31'
+type: zip
+tags:
+- DOSConversion
+media: 360K
+commands:
+  play: LIVING.COM
+references:
+  mobygames: https://www.mobygames.com/search/?q=Livingstone%20Supongo
+  dosid: DOS03201
+  exodos: Livingstone, I Presume (1986).zip
+files:
+- name: GAME
+  size: 61440
+  date: '1987-02-14T00:00:00'
+  crc: '0x24433828'
+- name: START.COM
+  size: 3584
+  date: '1987-02-14T00:00:00'
+  crc: '0x14e9a85b'
+- name: TITLE
+  size: 16384
+  date: '1987-02-14T12:00:00'
+  crc: '0x97cfe7a9'

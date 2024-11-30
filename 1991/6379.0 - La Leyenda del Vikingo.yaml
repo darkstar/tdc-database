@@ -1,15 +1,17 @@
 filename: Leyenda del Vikingo, La (Es) (1991)(Ediciones Manali, S.A.) [Action].zip
 tdc_id: '6379.0'
 title:
-  screen: La Leyenda del Vikingo
+  box: La Leyenda del Vikingo
 publisher: Ediciones Manali, S.A.
 year: '1991'
 genre: Action
 language: Spanish
 date:
   added: '2019-03-01T18:36:36'
-  last_modified: '2019-03-01T18:36:36'
+  last_modified: '2024-10-18T16:40:55'
 type: zip
+commands:
+  play: VIKINGO.BAT
 files:
 - name: RUN.EXE
   size: 53024

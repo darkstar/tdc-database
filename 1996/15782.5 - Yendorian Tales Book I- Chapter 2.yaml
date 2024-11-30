@@ -1,4 +1,4 @@
-filename: Yendorian Tales Book I- Chapter 2 v2.10 [SW] (Installer) (1996)(Spectrum Pacific Publishing) [Role-Playing (RPG)].zip
+filename: Yendorian Tales Book I- Chapter 2 v2.10 (Installer) [SW] (1996)(Spectrum Pacific Publishing) [Role-Playing (RPG)].zip
 tdc_id: '15782.5'
 title:
   screen: 'Yendorian Tales Book I: Chapter 2'
@@ -8,7 +8,7 @@ genre: Role-Playing (RPG)
 language: English
 date:
   added: '2019-06-12T18:50:22'
-  last_modified: '2019-06-12T18:50:22'
+  last_modified: '2024-11-01T09:50:35'
 version: '2.10'
 type: zip
 tags:
@@ -17,6 +17,8 @@ media: Download
 installer: true
 commands:
   play: yendor2.exe
+references:
+  mobygames: https://www.mobygames.com/game/11051/yendorian-tales-book-i-chapter-2/
 files:
 - name: yendor2.exe
   size: 2443099

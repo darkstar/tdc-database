@@ -1,612 +1,617 @@
-filename: 1483 Anno Domini (Installer) (De) (1998)(SoftKey International, Inc.) [Adventure].zip
+filename: 1483 Anno Domini (Installer) (De) (1998)(SoftKey International, Inc., TLC Tewi Verlag GmbH, The Jumping Bird Press) [Adventure].zip
 tdc_id: '6010.2'
 parent_id: '6010.4'
 title:
   box: 1483 Anno Domini
-publisher: SoftKey International, Inc.
+publisher: SoftKey International, Inc., TLC Tewi Verlag GmbH, The Jumping Bird Press
 year: '1998'
 genre: Adventure
 language: German
 date:
   added: '2019-03-02T10:40:28'
-  last_modified: '2019-03-02T10:40:28'
+  last_modified: '2024-10-26T17:10:59'
 type: zip
+media: CD-ROM
 installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/222850/1483-anno-domini/
 files:
 - name: 3D.SQZ
   size: 997407
-  date: '1994-03-10T06:30:54'
+  date: '1994-03-10T11:30:54'
   crc: '0x3dcb33bd'
+- name: ADOBE\
+  size: 0
+  date: '1998-05-07T17:50:16'
+- name: ADOBE\READER16\
+  size: 0
+  date: '1998-05-07T17:50:16'
+- name: ADOBE\READER16\AR16D301.EXE
+  size: 4084333
+  date: '1998-05-07T12:08:32'
+  crc: '0x1d33a6bb'
+- name: ADOBE\READER32\
+  size: 0
+  date: '1998-05-07T17:50:16'
+- name: ADOBE\READER32\AR32D301.EXE
+  size: 4209320
+  date: '1998-05-07T11:52:56'
+  crc: '0xca610d3f'
+- name: ANTIVIRU\
+  size: 0
+  date: '1998-05-07T17:50:16'
+- name: ANTIVIRU\AUTORUN.INF
+  size: 32
+  date: '1998-01-01T19:20:00'
+  crc: '0x42c27d72'
+- name: ANTIVIRU\BESTELL.DOC
+  size: 27260
+  date: '1997-12-22T14:51:50'
+  crc: '0x45336b74'
+- name: ANTIVIRU\EMAV16\
+  size: 0
+  date: '1998-05-07T17:50:16'
+- name: ANTIVIRU\EMAV16\DATA.Z
+  size: 2348341
+  date: '1998-01-01T19:20:00'
+  crc: '0xf9aaf352'
+- name: ANTIVIRU\EMAV16\DISK1.ID
+  size: 1
+  date: '1998-01-01T19:20:00'
+  crc: '0x83dcefb7'
+- name: ANTIVIRU\EMAV16\SETUP.EXE
+  size: 44928
+  date: '1998-01-01T19:20:00'
+  crc: '0x432f6eb9'
+- name: ANTIVIRU\EMAV16\SETUP.INS
+  size: 58671
+  date: '1998-01-01T19:20:00'
+  crc: '0xe2f987de'
+- name: ANTIVIRU\EMAV16\_INST16.EX_
+  size: 282655
+  date: '1998-01-01T19:20:00'
+  crc: '0x851a5030'
+- name: ANTIVIRU\EMAV16\_ISDEL.EXE
+  size: 8192
+  date: '1998-01-01T19:20:00'
+  crc: '0xdb6ff40d'
+- name: ANTIVIRU\EMAV16\_SETUP.DLL
+  size: 11264
+  date: '1998-01-01T19:20:00'
+  crc: '0xc0d7cfc9'
+- name: ANTIVIRU\EMAV16\_SETUP.LIB
+  size: 36567
+  date: '1998-01-01T19:20:00'
+  crc: '0xe657cd3f'
+- name: ANTIVIRU\EMAV32\
+  size: 0
+  date: '1998-05-07T17:50:16'
+- name: ANTIVIRU\EMAV32\DATA.Z
+  size: 2443662
+  date: '1998-01-01T19:20:00'
+  crc: '0x0567fe45'
+- name: ANTIVIRU\EMAV32\DISK1.ID
+  size: 3
+  date: '1998-01-01T19:20:00'
+  crc: '0x8f93c1e6'
+- name: ANTIVIRU\EMAV32\SETUP.EXE
+  size: 47616
+  date: '1998-01-01T19:20:00'
+  crc: '0x6976ee0e'
+- name: ANTIVIRU\EMAV32\SETUP.INS
+  size: 57746
+  date: '1998-01-01T19:20:00'
+  crc: '0x879df195'
+- name: ANTIVIRU\EMAV32\_INST32I.EX_
+  size: 306748
+  date: '1998-01-01T19:20:00'
+  crc: '0x109e4b5a'
+- name: ANTIVIRU\EMAV32\_SETUP.DLL
+  size: 10752
+  date: '1998-01-01T19:20:00'
+  crc: '0x96b8076b'
+- name: ANTIVIRU\EMAV32\_SETUP.LIB
+  size: 47798
+  date: '1998-01-01T19:20:00'
+  crc: '0x609773be'
+- name: ANTIVIRU\NOTFALL\
+  size: 0
+  date: '1998-05-07T17:50:16'
+- name: ANTIVIRU\NOTFALL\CLEANBOO.EXE
+  size: 25215
+  date: '1998-01-01T19:20:00'
+  crc: '0x7514e811'
+- name: ANTIVIRU\NOTFALL\CLEANPAR.EXE
+  size: 25077
+  date: '1998-01-01T19:20:00'
+  crc: '0x30807d57'
+- name: ANTIVIRU\NOTFALL\FIND.DRV
+  size: 781751
+  date: '1998-01-01T19:20:00'
+  crc: '0x0d6b9a6c'
+- name: ANTIVIRU\NOTFALL\FINDVIRU.EXE
+  size: 32309
+  date: '1998-01-01T19:20:00'
+  crc: '0x730245e0'
+- name: ANTIVIRU\NOTFALL\FRIDAY.BAT
+  size: 1191
+  date: '1998-01-01T19:20:00'
+  crc: '0x2e1a100e'
+- name: ANTIVIRU\NOTFALL\FV.BAT
+  size: 672
+  date: '1998-01-01T19:20:00'
+  crc: '0x8d30cc79'
+- name: ANTIVIRU\NOTFALL\FV386.EXE
+  size: 645555
+  date: '1998-01-01T19:20:00'
+  crc: '0x04607287'
+- name: ANTIVIRU\NOTFALL\FV86.EXE
+  size: 161457
+  date: '1998-01-01T19:20:00'
+  crc: '0xe65712ad'
+- name: ANTIVIRU\NOTFALL\LICENCE.DRV
+  size: 1049
+  date: '1998-01-01T19:20:00'
+  crc: '0x80d3b828'
+- name: ANTIVIRU\NOTFALL\MESSAGES.DRV
+  size: 193016
+  date: '1998-01-01T19:20:00'
+  crc: '0xf31d42a4'
+- name: ANTIVIRU\NOTFALL\NAMES.DRV
+  size: 167587
+  date: '1998-01-01T19:20:00'
+  crc: '0x75269def'
+- name: ANTIVIRU\NOTFALL\README.TXT
+  size: 870
+  date: '1998-01-01T19:20:00'
+  crc: '0x9938c849'
+- name: ANTIVIRU\NOTFALL\REPAIR.DRV
+  size: 166765
+  date: '1998-01-01T19:20:00'
+  crc: '0x857de5f8'
+- name: ANTIVIRU\NOTFALL\TKUTIL.EXE
+  size: 75259
+  date: '1998-01-01T19:20:00'
+  crc: '0x4293a60b'
+- name: ANTIVIRU\README.TXT
+  size: 684
+  date: '1998-01-19T11:48:36'
+  crc: '0x449c50cb'
+- name: ANTIVIRU\TOOLKIT.INF\
+  size: 0
+  date: '1998-05-07T17:50:16'
+- name: ANTIVIRU\TOOLKIT.INF\ACROREAD\
+  size: 0
+  date: '1998-05-07T17:50:16'
+- name: ANTIVIRU\TOOLKIT.INF\ACROREAD\WIN3X\
+  size: 0
+  date: '1998-05-07T17:50:16'
+- name: ANTIVIRU\TOOLKIT.INF\ACROREAD\WIN3X\ABCPYDOC.INI
+  size: 14979
+  date: '1997-11-01T19:18:00'
+  crc: '0xe4783fe8'
+- name: ANTIVIRU\TOOLKIT.INF\ACROREAD\WIN3X\ARCHIVE.Z
+  size: 3388846
+  date: '1997-11-01T19:18:00'
+  crc: '0x907b56bf'
+- name: ANTIVIRU\TOOLKIT.INF\ACROREAD\WIN3X\LIESMICH.WRI
+  size: 53760
+  date: '1997-11-01T19:18:00'
+  crc: '0x0ed8bfc5'
+- name: ANTIVIRU\TOOLKIT.INF\ACROREAD\WIN3X\SETUP.EXE
+  size: 44928
+  date: '1997-11-01T19:18:00'
+  crc: '0xa53fe6fa'
+- name: ANTIVIRU\TOOLKIT.INF\ACROREAD\WIN3X\SETUP.INS
+  size: 284490
+  date: '1997-11-01T19:18:00'
+  crc: '0x0907c847'
+- name: ANTIVIRU\TOOLKIT.INF\ACROREAD\WIN3X\SETUP.PKG
+  size: 1254
+  date: '1997-11-01T19:18:00'
+  crc: '0x26836920'
+- name: ANTIVIRU\TOOLKIT.INF\ACROREAD\WIN3X\_INST16.EX_
+  size: 281996
+  date: '1997-11-01T19:18:00'
+  crc: '0x097ec814'
+- name: ANTIVIRU\TOOLKIT.INF\ACROREAD\WIN3X\_ISDEL.EXE
+  size: 8192
+  date: '1997-11-01T19:18:00'
+  crc: '0xdb6ff40d'
+- name: ANTIVIRU\TOOLKIT.INF\ACROREAD\WIN3X\_SETUP.DLL
+  size: 11264
+  date: '1997-11-01T19:18:00'
+  crc: '0x589e477d'
+- name: ANTIVIRU\TOOLKIT.INF\ACROREAD\WIN3X\_SETUP.LIB
+  size: 210903
+  date: '1997-11-01T19:18:00'
+  crc: '0x27d47cba'
+- name: ANTIVIRU\TOOLKIT.INF\ACROREAD\WIN95_NT\
+  size: 0
+  date: '1998-05-07T17:50:16'
+- name: ANTIVIRU\TOOLKIT.INF\ACROREAD\WIN95_NT\ABCPYDOC.INI
+  size: 14979
+  date: '1997-11-01T19:18:00'
+  crc: '0xe4783fe8'
+- name: ANTIVIRU\TOOLKIT.INF\ACROREAD\WIN95_NT\ARCHIVE.Z
+  size: 3348457
+  date: '1997-11-01T19:18:00'
+  crc: '0xa9c9b4ad'
+- name: ANTIVIRU\TOOLKIT.INF\ACROREAD\WIN95_NT\LIESMICH.WRI
+  size: 53760
+  date: '1997-11-01T19:18:00'
+  crc: '0x0ed8bfc5'
+- name: ANTIVIRU\TOOLKIT.INF\ACROREAD\WIN95_NT\SETUP.EXE
+  size: 47616
+  date: '1997-11-01T19:18:00'
+  crc: '0xf9d25d99'
+- name: ANTIVIRU\TOOLKIT.INF\ACROREAD\WIN95_NT\SETUP.INS
+  size: 284840
+  date: '1997-11-01T19:18:00'
+  crc: '0x8698c141'
+- name: ANTIVIRU\TOOLKIT.INF\ACROREAD\WIN95_NT\SETUP.PKG
+  size: 1247
+  date: '1997-11-01T19:18:00'
+  crc: '0xf92b6a65'
+- name: ANTIVIRU\TOOLKIT.INF\ACROREAD\WIN95_NT\_INST32I.EX_
+  size: 323612
+  date: '1997-11-01T19:18:00'
+  crc: '0x7fa82917'
+- name: ANTIVIRU\TOOLKIT.INF\ACROREAD\WIN95_NT\_ISDEL.EXE
+  size: 8192
+  date: '1997-11-01T19:18:00'
+  crc: '0xdb6ff40d'
+- name: ANTIVIRU\TOOLKIT.INF\ACROREAD\WIN95_NT\_SETUP.DLL
+  size: 11264
+  date: '1997-11-01T19:18:00'
+  crc: '0x589e477d'
+- name: ANTIVIRU\TOOLKIT.INF\ACROREAD\WIN95_NT\_SETUP.LIB
+  size: 258649
+  date: '1997-11-01T19:18:00'
+  crc: '0x44a1dd77'
+- name: ANTIVIRU\TOOLKIT.INF\MANUAL.PDF
+  size: 2316244
+  date: '1997-11-01T19:18:00'
+  crc: '0xff01d84f'
+- name: ANTIVIRU\TOOLKIT.INF\README.TXT
+  size: 699
+  date: '1997-12-22T16:27:02'
+  crc: '0x96558497'
 - name: AUTORUN.INF
   size: 47
-  date: '1997-07-07T11:12:28'
+  date: '1997-07-07T16:12:28'
   crc: '0x858e0af9'
-- name: Adobe\
-  size: 0
-  date: '1998-05-07T12:50:16'
-- name: Adobe\READER16\
-  size: 0
-  date: '1998-05-07T12:50:16'
-- name: Adobe\READER16\AR16D301.EXE
-  size: 4084333
-  date: '1998-05-07T07:08:32'
-  crc: '0x1d33a6bb'
-- name: Adobe\READER32\
-  size: 0
-  date: '1998-05-07T12:50:16'
-- name: Adobe\READER32\AR32D301.EXE
-  size: 4209320
-  date: '1998-05-07T06:52:56'
-  crc: '0xca610d3f'
-- name: Antiviru\
-  size: 0
-  date: '1998-05-07T12:50:16'
-- name: Antiviru\AUTORUN.INF
-  size: 32
-  date: '1998-01-01T14:20:00'
-  crc: '0x42c27d72'
-- name: Antiviru\BESTELL.DOC
-  size: 27260
-  date: '1997-12-22T09:51:50'
-  crc: '0x45336b74'
-- name: Antiviru\EMAV16\
-  size: 0
-  date: '1998-05-07T12:50:16'
-- name: Antiviru\EMAV16\DATA.Z
-  size: 2348341
-  date: '1998-01-01T14:20:00'
-  crc: '0xf9aaf352'
-- name: Antiviru\EMAV16\DISK1.ID
-  size: 1
-  date: '1998-01-01T14:20:00'
-  crc: '0x83dcefb7'
-- name: Antiviru\EMAV16\SETUP.EXE
-  size: 44928
-  date: '1998-01-01T14:20:00'
-  crc: '0x432f6eb9'
-- name: Antiviru\EMAV16\SETUP.INS
-  size: 58671
-  date: '1998-01-01T14:20:00'
-  crc: '0xe2f987de'
-- name: Antiviru\EMAV16\_INST16.EX_
-  size: 282655
-  date: '1998-01-01T14:20:00'
-  crc: '0x851a5030'
-- name: Antiviru\EMAV16\_ISDEL.EXE
-  size: 8192
-  date: '1998-01-01T14:20:00'
-  crc: '0xdb6ff40d'
-- name: Antiviru\EMAV16\_SETUP.DLL
-  size: 11264
-  date: '1998-01-01T14:20:00'
-  crc: '0xc0d7cfc9'
-- name: Antiviru\EMAV16\_SETUP.LIB
-  size: 36567
-  date: '1998-01-01T14:20:00'
-  crc: '0xe657cd3f'
-- name: Antiviru\EMAV32\
-  size: 0
-  date: '1998-05-07T12:50:16'
-- name: Antiviru\EMAV32\DATA.Z
-  size: 2443662
-  date: '1998-01-01T14:20:00'
-  crc: '0x0567fe45'
-- name: Antiviru\EMAV32\DISK1.ID
-  size: 3
-  date: '1998-01-01T14:20:00'
-  crc: '0x8f93c1e6'
-- name: Antiviru\EMAV32\SETUP.EXE
-  size: 47616
-  date: '1998-01-01T14:20:00'
-  crc: '0x6976ee0e'
-- name: Antiviru\EMAV32\SETUP.INS
-  size: 57746
-  date: '1998-01-01T14:20:00'
-  crc: '0x879df195'
-- name: Antiviru\EMAV32\_INST32I.EX_
-  size: 306748
-  date: '1998-01-01T14:20:00'
-  crc: '0x109e4b5a'
-- name: Antiviru\EMAV32\_SETUP.DLL
-  size: 10752
-  date: '1998-01-01T14:20:00'
-  crc: '0x96b8076b'
-- name: Antiviru\EMAV32\_SETUP.LIB
-  size: 47798
-  date: '1998-01-01T14:20:00'
-  crc: '0x609773be'
-- name: Antiviru\NOTFALL\
-  size: 0
-  date: '1998-05-07T12:50:16'
-- name: Antiviru\NOTFALL\CLEANBOO.EXE
-  size: 25215
-  date: '1998-01-01T14:20:00'
-  crc: '0x7514e811'
-- name: Antiviru\NOTFALL\CLEANPAR.EXE
-  size: 25077
-  date: '1998-01-01T14:20:00'
-  crc: '0x30807d57'
-- name: Antiviru\NOTFALL\FIND.DRV
-  size: 781751
-  date: '1998-01-01T14:20:00'
-  crc: '0x0d6b9a6c'
-- name: Antiviru\NOTFALL\FINDVIRU.EXE
-  size: 32309
-  date: '1998-01-01T14:20:00'
-  crc: '0x730245e0'
-- name: Antiviru\NOTFALL\FRIDAY.BAT
-  size: 1191
-  date: '1998-01-01T14:20:00'
-  crc: '0x2e1a100e'
-- name: Antiviru\NOTFALL\FV.BAT
-  size: 672
-  date: '1998-01-01T14:20:00'
-  crc: '0x8d30cc79'
-- name: Antiviru\NOTFALL\FV386.EXE
-  size: 645555
-  date: '1998-01-01T14:20:00'
-  crc: '0x04607287'
-- name: Antiviru\NOTFALL\FV86.EXE
-  size: 161457
-  date: '1998-01-01T14:20:00'
-  crc: '0xe65712ad'
-- name: Antiviru\NOTFALL\LICENCE.DRV
-  size: 1049
-  date: '1998-01-01T14:20:00'
-  crc: '0x80d3b828'
-- name: Antiviru\NOTFALL\MESSAGES.DRV
-  size: 193016
-  date: '1998-01-01T14:20:00'
-  crc: '0xf31d42a4'
-- name: Antiviru\NOTFALL\NAMES.DRV
-  size: 167587
-  date: '1998-01-01T14:20:00'
-  crc: '0x75269def'
-- name: Antiviru\NOTFALL\README.TXT
-  size: 870
-  date: '1998-01-01T14:20:00'
-  crc: '0x9938c849'
-- name: Antiviru\NOTFALL\REPAIR.DRV
-  size: 166765
-  date: '1998-01-01T14:20:00'
-  crc: '0x857de5f8'
-- name: Antiviru\NOTFALL\TKUTIL.EXE
-  size: 75259
-  date: '1998-01-01T14:20:00'
-  crc: '0x4293a60b'
-- name: Antiviru\README.TXT
-  size: 684
-  date: '1998-01-19T06:48:36'
-  crc: '0x449c50cb'
-- name: Antiviru\TOOLKIT.INF\
-  size: 0
-  date: '1998-05-07T12:50:16'
-- name: Antiviru\TOOLKIT.INF\ACROREAD\
-  size: 0
-  date: '1998-05-07T12:50:16'
-- name: Antiviru\TOOLKIT.INF\ACROREAD\WIN3X\
-  size: 0
-  date: '1998-05-07T12:50:16'
-- name: Antiviru\TOOLKIT.INF\ACROREAD\WIN3X\ABCPYDOC.INI
-  size: 14979
-  date: '1997-11-01T14:18:00'
-  crc: '0xe4783fe8'
-- name: Antiviru\TOOLKIT.INF\ACROREAD\WIN3X\ARCHIVE.Z
-  size: 3388846
-  date: '1997-11-01T14:18:00'
-  crc: '0x907b56bf'
-- name: Antiviru\TOOLKIT.INF\ACROREAD\WIN3X\LIESMICH.WRI
-  size: 53760
-  date: '1997-11-01T14:18:00'
-  crc: '0x0ed8bfc5'
-- name: Antiviru\TOOLKIT.INF\ACROREAD\WIN3X\SETUP.EXE
-  size: 44928
-  date: '1997-11-01T14:18:00'
-  crc: '0xa53fe6fa'
-- name: Antiviru\TOOLKIT.INF\ACROREAD\WIN3X\SETUP.INS
-  size: 284490
-  date: '1997-11-01T14:18:00'
-  crc: '0x0907c847'
-- name: Antiviru\TOOLKIT.INF\ACROREAD\WIN3X\SETUP.PKG
-  size: 1254
-  date: '1997-11-01T14:18:00'
-  crc: '0x26836920'
-- name: Antiviru\TOOLKIT.INF\ACROREAD\WIN3X\_INST16.EX_
-  size: 281996
-  date: '1997-11-01T14:18:00'
-  crc: '0x097ec814'
-- name: Antiviru\TOOLKIT.INF\ACROREAD\WIN3X\_ISDEL.EXE
-  size: 8192
-  date: '1997-11-01T14:18:00'
-  crc: '0xdb6ff40d'
-- name: Antiviru\TOOLKIT.INF\ACROREAD\WIN3X\_SETUP.DLL
-  size: 11264
-  date: '1997-11-01T14:18:00'
-  crc: '0x589e477d'
-- name: Antiviru\TOOLKIT.INF\ACROREAD\WIN3X\_SETUP.LIB
-  size: 210903
-  date: '1997-11-01T14:18:00'
-  crc: '0x27d47cba'
-- name: Antiviru\TOOLKIT.INF\ACROREAD\WIN95_NT\
-  size: 0
-  date: '1998-05-07T12:50:16'
-- name: Antiviru\TOOLKIT.INF\ACROREAD\WIN95_NT\ABCPYDOC.INI
-  size: 14979
-  date: '1997-11-01T14:18:00'
-  crc: '0xe4783fe8'
-- name: Antiviru\TOOLKIT.INF\ACROREAD\WIN95_NT\ARCHIVE.Z
-  size: 3348457
-  date: '1997-11-01T14:18:00'
-  crc: '0xa9c9b4ad'
-- name: Antiviru\TOOLKIT.INF\ACROREAD\WIN95_NT\LIESMICH.WRI
-  size: 53760
-  date: '1997-11-01T14:18:00'
-  crc: '0x0ed8bfc5'
-- name: Antiviru\TOOLKIT.INF\ACROREAD\WIN95_NT\SETUP.EXE
-  size: 47616
-  date: '1997-11-01T14:18:00'
-  crc: '0xf9d25d99'
-- name: Antiviru\TOOLKIT.INF\ACROREAD\WIN95_NT\SETUP.INS
-  size: 284840
-  date: '1997-11-01T14:18:00'
-  crc: '0x8698c141'
-- name: Antiviru\TOOLKIT.INF\ACROREAD\WIN95_NT\SETUP.PKG
-  size: 1247
-  date: '1997-11-01T14:18:00'
-  crc: '0xf92b6a65'
-- name: Antiviru\TOOLKIT.INF\ACROREAD\WIN95_NT\_INST32I.EX_
-  size: 323612
-  date: '1997-11-01T14:18:00'
-  crc: '0x7fa82917'
-- name: Antiviru\TOOLKIT.INF\ACROREAD\WIN95_NT\_ISDEL.EXE
-  size: 8192
-  date: '1997-11-01T14:18:00'
-  crc: '0xdb6ff40d'
-- name: Antiviru\TOOLKIT.INF\ACROREAD\WIN95_NT\_SETUP.DLL
-  size: 11264
-  date: '1997-11-01T14:18:00'
-  crc: '0x589e477d'
-- name: Antiviru\TOOLKIT.INF\ACROREAD\WIN95_NT\_SETUP.LIB
-  size: 258649
-  date: '1997-11-01T14:18:00'
-  crc: '0x44a1dd77'
-- name: Antiviru\TOOLKIT.INF\MANUAL.PDF
-  size: 2316244
-  date: '1997-11-01T14:18:00'
-  crc: '0xff01d84f'
-- name: Antiviru\TOOLKIT.INF\README.TXT
-  size: 699
-  date: '1997-12-22T11:27:02'
-  crc: '0x96558497'
 - name: CSERVE\
   size: 0
-  date: '1998-05-07T12:50:16'
+  date: '1998-05-07T17:50:16'
 - name: CSERVE\CS_302D\
   size: 0
-  date: '1998-05-07T12:50:16'
+  date: '1998-05-07T17:50:16'
 - name: CSERVE\CS_302D\ALMANAC.HL_
   size: 358880
-  date: '1997-02-13T10:13:10'
+  date: '1997-02-13T15:13:10'
   crc: '0x312a3844'
 - name: CSERVE\CS_302D\CFOS.LIB
   size: 270203
-  date: '1997-02-06T19:11:44'
+  date: '1997-02-07T00:11:44'
   crc: '0x9371ae83'
 - name: CSERVE\CS_302D\CFOSINST.INS
   size: 36196
-  date: '1996-11-11T11:36:44'
+  date: '1996-11-11T16:36:44'
   crc: '0x1352d76f'
 - name: CSERVE\CS_302D\CIM.LIB
   size: 3839674
-  date: '1997-02-07T03:04:28'
+  date: '1997-02-07T08:04:28'
   crc: '0xf7c8445f'
 - name: CSERVE\CS_302D\CONFIG.INI
   size: 4315
-  date: '1997-01-29T16:53:22'
+  date: '1997-01-29T21:53:22'
   crc: '0xa0157728'
 - name: CSERVE\CS_302D\CS3.HL_
   size: 340454
-  date: '1997-02-06T19:11:30'
+  date: '1997-02-07T00:11:30'
   crc: '0x9b84876a'
 - name: CSERVE\CS_302D\CUSTOM.INI
   size: 1112
-  date: '1997-03-13T06:14:46'
+  date: '1997-03-13T11:14:46'
   crc: '0x8e9677a8'
 - name: CSERVE\CS_302D\DUN.LIB
   size: 2156877
-  date: '1997-02-06T19:13:44'
+  date: '1997-02-07T00:13:44'
   crc: '0x6eef705c'
 - name: CSERVE\CS_302D\DUNOSR2.LIB
   size: 2103089
-  date: '1997-02-07T03:01:56'
+  date: '1997-02-07T08:01:56'
   crc: '0x84453f12'
 - name: CSERVE\CS_302D\DUNOTHER.LIB
   size: 7572
-  date: '1997-02-06T19:14:26'
+  date: '1997-02-07T00:14:26'
   crc: '0x9260b599'
 - name: CSERVE\CS_302D\GOCSERVE.EX_
   size: 5151
-  date: '1997-02-06T19:15:02'
+  date: '1997-02-07T00:15:02'
   crc: '0x4a0aeb31'
 - name: CSERVE\CS_302D\IE30_16.LIB
   size: 2467572
-  date: '1997-02-06T19:14:48'
+  date: '1997-02-07T00:14:48'
   crc: '0x0d2746fd'
 - name: CSERVE\CS_302D\LICENSE.TXT
   size: 3212
-  date: '1996-10-11T13:41:50'
+  date: '1996-10-11T18:41:50'
   crc: '0x6ca67cf7'
 - name: CSERVE\CS_302D\MSIE301.LIB
   size: 5623024
-  date: '1997-02-06T19:14:56'
+  date: '1997-02-07T00:14:56'
   crc: '0x73f630e2'
 - name: CSERVE\CS_302D\RAS.LIB
   size: 241696
-  date: '1997-02-06T19:13:04'
+  date: '1997-02-07T00:13:04'
   crc: '0x652815c9'
 - name: CSERVE\CS_302D\README.LIB
   size: 592218
-  date: '1997-02-13T10:15:36'
+  date: '1997-02-13T15:15:36'
   crc: '0xb8f34f01'
 - name: CSERVE\CS_302D\README.WRI
   size: 10240
-  date: '1997-01-29T10:40:44'
+  date: '1997-01-29T15:40:44'
   crc: '0x33dad372'
 - name: CSERVE\CS_302D\RPA.LIB
   size: 308153
-  date: '1997-02-06T19:14:28'
+  date: '1997-02-07T00:14:28'
   crc: '0x902cb748'
 - name: CSERVE\CS_302D\RPA16.LIB
   size: 1642968
-  date: '1997-02-06T19:14:32'
+  date: '1997-02-07T00:14:32'
   crc: '0x3b33bb92'
 - name: CSERVE\CS_302D\RTW32.LIB
   size: 756785
-  date: '1997-02-06T19:14:44'
+  date: '1997-02-07T00:14:44'
   crc: '0x9bd40bfb'
 - name: CSERVE\CS_302D\SCRIPTS.LIB
   size: 34795
-  date: '1997-02-06T19:11:24'
+  date: '1997-02-07T00:11:24'
   crc: '0x3c16df5c'
 - name: CSERVE\CS_302D\SETUP.EXE
   size: 44608
-  date: '1996-07-24T04:00:00'
+  date: '1996-07-24T09:00:00'
   crc: '0x7b48a0be'
 - name: CSERVE\CS_302D\SETUP.INI
   size: 130120
-  date: '1996-09-12T17:09:30'
+  date: '1996-09-12T22:09:30'
   crc: '0x2f3a7323'
 - name: CSERVE\CS_302D\SETUP.INS
   size: 154886
-  date: '1997-02-13T10:16:04'
+  date: '1997-02-13T15:16:04'
   crc: '0xad9d0b18'
 - name: CSERVE\CS_302D\SETUP.PKG
   size: 8749
-  date: '1997-02-06T19:16:22'
+  date: '1997-02-07T00:16:22'
   crc: '0xc33f7945'
 - name: CSERVE\CS_302D\SOUND.LIB
   size: 1038267
-  date: '1997-02-06T19:15:02'
+  date: '1997-02-07T00:15:02'
   crc: '0xe9bf072f'
 - name: CSERVE\CS_302D\SUPPORT.LIB
   size: 24126
-  date: '1997-02-06T19:11:36'
+  date: '1997-02-07T00:11:36'
   crc: '0x062b6ee3'
 - name: CSERVE\CS_302D\WBIN.LIB
   size: 204736
-  date: '1997-02-06T23:37:24'
+  date: '1997-02-07T04:37:24'
   crc: '0xb4888a01'
 - name: CSERVE\CS_302D\WIN31.BAD
   size: 6
-  date: '1997-02-06T19:16:22'
+  date: '1997-02-07T00:16:22'
   crc: '0xe25a22fd'
 - name: CSERVE\CS_302D\_INST16.EX_
   size: 280481
-  date: '1996-07-10T02:15:12'
+  date: '1996-07-10T07:15:12'
   crc: '0xd8650626'
 - name: CSERVE\CS_302D\_INST32I.EX_
   size: 316789
-  date: '1996-07-24T04:00:00'
+  date: '1996-07-24T09:00:00'
   crc: '0xf1abddca'
 - name: CSERVE\CS_302D\_ISDEL.EXE
   size: 8192
-  date: '1995-09-07T20:22:40'
+  date: '1995-09-08T01:22:40'
   crc: '0xdb6ff40d'
 - name: CSERVE\CS_302D\_SETUP.DLL
   size: 10752
-  date: '1996-02-19T17:22:10'
+  date: '1996-02-19T22:22:10'
   crc: '0x96b8076b'
 - name: CSERVE\CS_302D\_SETUP.LIB
   size: 252577
-  date: '1997-02-06T19:15:52'
+  date: '1997-02-07T00:15:52'
   crc: '0x7c6545e2'
 - name: CSERVE\CS_302D\_SETUP32.LIB
   size: 299372
-  date: '1997-02-06T19:15:50'
+  date: '1997-02-07T00:15:50'
   crc: '0x8e92f970'
 - name: CSERVE\WINCIM\
   size: 0
-  date: '1998-05-07T12:50:16'
+  date: '1998-05-07T17:50:18'
 - name: CSERVE\WINCIM\ALMANAC.HL_
   size: 1229
-  date: '1997-02-12T05:21:40'
+  date: '1997-02-12T10:21:40'
   crc: '0xdfc67042'
 - name: CSERVE\WINCIM\CCTC230.DL_
   size: 96966
-  date: '1997-02-12T05:21:40'
+  date: '1997-02-12T10:21:40'
   crc: '0x7ef5ab3b'
 - name: CSERVE\WINCIM\CID.LIB
   size: 122044
-  date: '1997-02-12T05:21:40'
+  date: '1997-02-12T10:21:40'
   crc: '0xe9e7caaa'
 - name: CSERVE\WINCIM\CUSTOM.LIB
   size: 731
-  date: '1997-02-12T05:21:40'
+  date: '1997-02-12T10:21:40'
   crc: '0x411243e9'
 - name: CSERVE\WINCIM\EXPLORE.LIB
   size: 97455
-  date: '1997-02-12T05:21:40'
+  date: '1997-02-12T10:21:40'
   crc: '0xe39355ae'
 - name: CSERVE\WINCIM\FAVORITE.HO_
   size: 1075
-  date: '1997-02-12T05:21:40'
+  date: '1997-02-12T10:21:40'
   crc: '0xf22a8fca'
 - name: CSERVE\WINCIM\FCABINET.LIB
   size: 963
-  date: '1997-02-12T05:21:40'
+  date: '1997-02-12T10:21:40'
   crc: '0xaec79933'
 - name: CSERVE\WINCIM\GLOSSRY.HL_
   size: 37408
-  date: '1997-02-12T05:21:40'
+  date: '1997-02-12T10:21:40'
   crc: '0xd105dd9b'
 - name: CSERVE\WINCIM\GOCSERVE.EX_
   size: 5151
-  date: '1997-02-12T05:21:40'
+  date: '1997-02-12T10:21:40'
   crc: '0x78c3f656'
 - name: CSERVE\WINCIM\LIB1.LIB
   size: 73820
-  date: '1997-02-12T05:21:40'
+  date: '1997-02-12T10:21:40'
   crc: '0xbdf8cf39'
 - name: CSERVE\WINCIM\NETSCAPE.INI
   size: 1510
-  date: '1997-02-12T05:21:40'
+  date: '1997-02-12T10:21:40'
   crc: '0x1da06b01'
 - name: CSERVE\WINCIM\NETSCAPE.LIB
   size: 1365607
-  date: '1997-02-12T05:21:40'
+  date: '1997-02-12T10:21:40'
   crc: '0xa3e525f0'
 - name: CSERVE\WINCIM\NSOLE.LIB
   size: 651847
-  date: '1997-02-12T05:21:40'
+  date: '1997-02-12T10:21:40'
   crc: '0x2e798a70'
 - name: CSERVE\WINCIM\NSOLE2.LIB
   size: 24821
-  date: '1997-02-12T05:21:40'
+  date: '1997-02-12T10:21:40'
   crc: '0x9c4ecae9'
 - name: CSERVE\WINCIM\NSPLUG.LIB
   size: 7331
-  date: '1997-02-12T05:21:40'
+  date: '1997-02-12T10:21:40'
   crc: '0x8a240b47'
 - name: CSERVE\WINCIM\SCRIPTS.LIB
   size: 33934
-  date: '1997-02-12T05:21:40'
+  date: '1997-02-12T10:21:40'
   crc: '0x90f79271'
 - name: CSERVE\WINCIM\SETUP.EXE
   size: 47616
-  date: '1997-02-12T05:21:40'
+  date: '1997-02-12T10:21:40'
   crc: '0x7440528e'
 - name: CSERVE\WINCIM\SETUP.INI
   size: 52
-  date: '1997-02-12T05:21:40'
+  date: '1997-02-12T10:21:40'
   crc: '0x86180847'
 - name: CSERVE\WINCIM\SETUP.INS
   size: 62128
-  date: '1997-02-12T05:21:40'
+  date: '1997-02-12T10:21:40'
   crc: '0x2eba5bcc'
 - name: CSERVE\WINCIM\SUPPORT.LIB
   size: 1679
-  date: '1997-02-12T05:21:40'
+  date: '1997-02-12T10:21:40'
   crc: '0x0533d82e'
 - name: CSERVE\WINCIM\WINCIM.HL_
   size: 371662
-  date: '1997-02-12T05:21:40'
+  date: '1997-02-12T10:21:40'
   crc: '0x3bf8bab4'
 - name: CSERVE\WINCIM\WINCIM.LIB
   size: 617713
-  date: '1997-02-12T05:21:40'
+  date: '1997-02-12T10:21:40'
   crc: '0x1f13645f'
 - name: CSERVE\WINCIM\WINCIM2.LIB
   size: 126126
-  date: '1997-02-12T05:21:40'
+  date: '1997-02-12T10:21:40'
   crc: '0x23c87539'
 - name: CSERVE\WINCIM\WINSIGN.LIB
   size: 123186
-  date: '1997-03-11T05:09:18'
+  date: '1997-03-11T10:09:18'
   crc: '0x32c45bc0'
 - name: CSERVE\WINCIM\WINSOCK.DL_
   size: 57254
-  date: '1997-02-12T05:21:40'
+  date: '1997-02-12T10:21:40'
   crc: '0x12ac8cec'
 - name: CSERVE\WINCIM\_INST16.EX_
   size: 271431
-  date: '1997-02-12T05:21:40'
+  date: '1997-02-12T10:21:40'
   crc: '0x1ec4b0c6'
 - name: CSERVE\WINCIM\_ISDEL.EXE
   size: 7680
-  date: '1997-02-12T05:21:40'
+  date: '1997-02-12T10:21:40'
   crc: '0x06367ca3'
 - name: CSERVE\WINCIM\_SETUP.DLL
   size: 10752
-  date: '1997-02-12T05:21:40'
+  date: '1997-02-12T10:21:40'
   crc: '0x768672fd'
 - name: CSERVE\WINCIM\_SETUP.LIB
   size: 127934
-  date: '1997-02-12T05:21:40'
+  date: '1997-02-12T10:21:40'
   crc: '0xa270d0b2'
-- name: Handbuch\
+- name: HANDBUCH\
   size: 0
-  date: '1998-05-07T12:50:16'
-- name: Handbuch\handbuc6.doc
+  date: '1998-05-07T17:50:18'
+- name: HANDBUCH\HANDBUC6.DOC
   size: 2105344
-  date: '1998-05-07T12:00:40'
+  date: '1998-05-07T17:00:40'
   crc: '0x056f4d4c'
-- name: Handbuch\handbuch.PDF
-  size: 428162
-  date: '1998-05-07T11:58:24'
-  crc: '0x837dbf32'
-- name: Handbuch\handbuch.doc
+- name: HANDBUCH\HANDBUCH.DOC
   size: 498176
-  date: '1998-05-07T11:46:26'
+  date: '1998-05-07T16:46:26'
   crc: '0x05e84c6b'
+- name: HANDBUCH\HANDBUCH.PDF
+  size: 428162
+  date: '1998-05-07T16:58:24'
+  crc: '0x837dbf32'
 - name: INSTALL.EXE
   size: 20631
-  date: '1994-02-10T11:39:12'
+  date: '1994-02-10T16:39:12'
   crc: '0x24f5f7e1'
 - name: LIESMICH.TXT
   size: 1132
-  date: '1998-05-07T12:29:52'
+  date: '1998-05-07T17:29:52'
   crc: '0x9d99011e'
 - name: PRG.SQZ
   size: 1430949
-  date: '1994-03-10T06:39:26'
+  date: '1994-03-10T11:39:26'
   crc: '0x8d5aec89'
 - name: SAVE.SQZ
   size: 463
-  date: '1993-05-07T11:22:16'
+  date: '1993-05-07T16:22:16'
   crc: '0xc4481538'
 - name: SHOWTEXT.EXE
   size: 7320
-  date: '1994-01-14T06:11:50'
+  date: '1994-01-14T11:11:50'
   crc: '0x8860566e'
 - name: SQZ.EXE
   size: 71492
-  date: '1993-01-23T20:08:30'
+  date: '1993-01-24T01:08:30'
   crc: '0x66fd7b9b'
 - name: START.EXE
   size: 324720
-  date: '1997-07-07T11:09:16'
+  date: '1997-07-07T16:09:16'
   crc: '0xb44f74e1'
 - name: START.INI
   size: 1318
-  date: '1998-05-07T12:45:24'
+  date: '1998-05-07T17:45:24'
   crc: '0xb390336b'
 - name: _CSERVE.DOC
   size: 13312
-  date: '1997-03-25T07:22:08'
+  date: '1997-03-25T12:22:08'
   crc: '0x3fb5289e'
 - name: _CSERVE.TXT
   size: 1820
-  date: '1997-12-23T05:26:24'
+  date: '1997-12-23T10:26:24'
   crc: '0xf783a677'
 - name: _CSERVE.WRI
   size: 3200
-  date: '1997-03-25T07:27:30'
+  date: '1997-03-25T12:27:30'
   crc: '0xb99b89f3'
 - name: _VIRUS.DOC
   size: 152064
-  date: '1997-03-24T07:13:52'
+  date: '1997-03-24T12:13:52'
   crc: '0x462dce3f'
 - name: _VIRUS.TXT
   size: 4274
-  date: '1997-12-23T05:25:18'
+  date: '1997-12-23T10:25:18'
   crc: '0x5221dffb'

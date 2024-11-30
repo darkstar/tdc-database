@@ -1,18 +1,24 @@
-filename: Star Hammer (Installer) [SWR] (1994)(Homebrew Software) [Action].zip
+filename: Star Hammer v1.0 (Installer) [SWR] (1994)(Homebrew Software, Silver Lightning Software) [Action].zip
 tdc_id: '15510.0'
 title:
   screen: Star Hammer
-publisher: Homebrew Software
+publisher: Homebrew Software, Silver Lightning Software
 year: '1994'
 genre: Action
 language: English
 date:
   added: '2019-03-02T07:17:42'
-  last_modified: '2019-03-02T07:17:42'
+  last_modified: '2024-10-28T15:56:58'
+version: '1.0'
 type: zip
 tags:
 - SharewareRegistered
+media: Download
 installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/40402/star-hammer/
 files:
 - name: '1'
   size: 3

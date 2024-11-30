@@ -1,0 +1,35 @@
+filename: In campo per Mostar- MF '95 (Installer) (It) (1996)(UNDERGROUND Technologies) [Simulation, Sports].zip
+tdc_id: '17661.1'
+parent_id: '17661.0'
+title:
+  box: 'In campo per Mostar: MF ''95'
+publisher: UNDERGROUND Technologies
+year: '1996'
+genre:
+- Simulation
+- Sports
+language: Italian
+date:
+  added: '2024-10-16T12:08:24'
+  last_modified: '2024-10-16T12:14:02'
+type: zip
+media: 1.44M
+installer: true
+commands:
+  play: INSTALLA.EXE C:\MF95
+files:
+- name: AR.EXE
+  size: 25236
+  date: '1990-10-21T12:02:54'
+  crc: '0x93fafb0c'
+- name: INSTALLA.EXE
+  size: 13782
+  date: '1996-02-16T06:12:36'
+  crc: '0x55b86c13'
+- name: MF '95
+  size: 0
+  date: '1996-03-11T21:28:16'
+- name: MF95.AR
+  size: 1002895
+  date: '1996-03-11T16:55:56'
+  crc: '0x711b63c4'

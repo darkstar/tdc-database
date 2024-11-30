@@ -1,4 +1,4 @@
-filename: Orion Project, The v1.9 [SW] (Installer) (1994)(The Local Group) [Action].zip
+filename: Orion Project, The v1.9 (Installer) [SW] (1994)(The Local Group) [Action].zip
 tdc_id: '14666.1'
 title:
   screen: The Orion Project
@@ -8,13 +8,17 @@ genre: Action
 language: English
 date:
   added: '2019-03-01T22:02:30'
-  last_modified: '2019-03-01T22:02:30'
+  last_modified: '2024-11-01T09:43:01'
 version: '1.9'
 type: zip
 tags:
 - Shareware
 media: Download
 installer: true
+commands:
+  play: install.bat
+references:
+  mobygames: https://www.mobygames.com/game/50421/the-orion-project/
 files:
 - name: fatboy.exe
   size: 898091

@@ -1,4 +1,4 @@
-filename: Mixed-Up Mother Goose (SCI) v1.011 [a1] (1990)(Sierra On-Line, Inc.) [Adventure, Educational].zip
+filename: Mixed-Up Mother Goose v1.011 (SCI) [a1] (1990)(Sierra On-Line, Inc.) [Adventure, Educational].zip
 tdc_id: '14328.2'
 title:
   box: Mixed-Up Mother Goose
@@ -11,12 +11,16 @@ genre:
 language: English
 date:
   added: '2021-02-23T18:33:42'
-  last_modified: '2021-02-23T18:33:42'
+  last_modified: '2024-11-05T20:07:59'
 version: '1.011'
 type: zip
 tags:
 - Alternate: 1
+commands:
+  play: MG.BAT
+  setup: INSTALL.EXE
 references:
+  mobygames: https://www.mobygames.com/game/22295/mixed-up-mother-goose/
   dosid: DOS03599
   exodos: Mixed-Up Mother Goose (1990).zip
 files:

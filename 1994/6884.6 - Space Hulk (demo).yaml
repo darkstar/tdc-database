@@ -2,7 +2,6 @@ filename: Space Hulk (demo) (Installer) (1994)(Europress Publications) [Action, 
 tdc_id: '6884.6'
 title:
   screen: Space Hulk (demo)
-  qualifier: Installer
 publisher: Europress Publications
 year: '1994'
 genre:
@@ -15,6 +14,7 @@ date:
 type: zip
 media: CD-ROM
 installer: true
+demo: true
 files:
 - name: ANM_DIR\
   size: 0

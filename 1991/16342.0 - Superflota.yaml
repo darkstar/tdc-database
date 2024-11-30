@@ -1,15 +1,17 @@
 filename: Superflota (Es) (1991)(Ediciones Manali, S.A.) [Strategy].zip
 tdc_id: '16342.0'
 title:
-  screen: Superflota
+  box: Superflota
 publisher: Ediciones Manali, S.A.
 year: '1991'
 genre: Strategy
 language: Spanish
 date:
   added: '2019-03-01T18:39:38'
-  last_modified: '2019-03-01T18:39:38'
+  last_modified: '2024-10-19T07:23:56'
 type: zip
+commands:
+  play: BARCOS.BAT
 files:
 - name: BARCOS.BAT
   size: 27

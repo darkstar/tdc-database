@@ -1,0 +1,53 @@
+filename: Fortuna Ruota, La (Installer) (It) (1995)(Finson SpA) [Strategy].zip
+tdc_id: '17659.1'
+parent_id: '17659.0'
+title:
+  box: La Fortuna Ruota
+publisher: Finson SpA
+year: '1995'
+genre: Strategy
+language: Italian
+date:
+  added: '2024-10-15T08:17:51'
+  last_modified: '2024-10-15T08:17:51'
+type: zip
+media: 1.44M
+installer: true
+commands:
+  play: INSTALLA.EXE
+files:
+- name: FINSON S.RL
+  size: 0
+  date: '1995-11-08T08:52:32'
+- name: INSTALLA.DAT
+  size: 620
+  date: '1995-11-09T11:36:52'
+  crc: '0xcdf70029'
+- name: INSTALLA.EXE
+  size: 31120
+  date: '1994-04-15T16:45:58'
+  crc: '0x0986bf2c'
+- name: INSTALLA.LNG
+  size: 2501
+  date: '1994-05-20T09:42:30'
+  crc: '0x58c8229b'
+- name: RUOTAF.EXE
+  size: 20984
+  date: '1994-05-18T18:46:42'
+  crc: '0x1de79ee7'
+- name: RUOTAF.SQZ
+  size: 60959
+  date: '1995-11-08T09:31:30'
+  crc: '0x4be49dc1'
+- name: TEXT.TXT
+  size: 1944
+  date: '1995-10-29T12:17:04'
+  crc: '0x8d9668e2'
+- name: VAI.BAT
+  size: 58
+  date: '1993-08-31T11:51:38'
+  crc: '0xded0551c'
+- name: XTYPE.EXE
+  size: 6672
+  date: '1991-09-10T16:54:08'
+  crc: '0xf2f9ab1d'

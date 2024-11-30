@@ -1,4 +1,4 @@
-filename: Rubik's Cube (1982)(International PC Owners) [Simulation, Strategy].zip
+filename: Rubik's Cube (1982)(International PC Owners) [Simulation, Strategy, Puzzle].zip
 tdc_id: '5713.0'
 title:
   screen: Rubik's Cube
@@ -7,11 +7,15 @@ year: '1982'
 genre:
 - Simulation
 - Strategy
+- Puzzle
 language: English
 date:
   added: '2019-03-01T18:23:02'
-  last_modified: '2019-03-01T18:23:02'
+  last_modified: '2024-10-18T10:04:32'
 type: zip
+media: Download
+commands:
+  play: START.BAT
 references:
   dosid: DOS04377
   exodos: Rubik's Cube (1982).zip
@@ -24,7 +28,7 @@ files:
   size: 28928
   date: '2001-04-11T20:55:54'
   crc: '0xb47cad90'
-- name: Runme.bat
+- name: START.BAT
   size: 18
   date: '2004-04-01T06:42:42'
   crc: '0xe2a186c1'

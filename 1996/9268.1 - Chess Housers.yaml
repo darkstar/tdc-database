@@ -1,0 +1,32 @@
+filename: Chess Housers (Installer) (Es) (1996)(Digital Dreams Multimedia, Diabolic Software) [Strategy, Puzzle].zip
+tdc_id: '9268.1'
+title:
+  box: Chess Housers
+publisher: Digital Dreams Multimedia, Diabolic Software
+year: '1996'
+genre:
+- Strategy
+- Puzzle
+language: Spanish
+date:
+  added: '2024-10-29T11:49:35'
+  last_modified: '2024-10-29T11:49:35'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/28039/chess-housers/
+files:
+- name: INSTALL.EXE
+  size: 113998
+  date: '1996-10-15T12:19:42'
+  crc: '0xde3d70bb'
+- name: INSTALL.INI
+  size: 75
+  date: '1996-10-16T14:56:24'
+  crc: '0x2d8720fc'
+- name: PACKET.001
+  size: 578085
+  date: '1996-10-15T17:28:58'
+  crc: '0x63502f01'

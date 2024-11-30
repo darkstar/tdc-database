@@ -1,0 +1,55 @@
+filename: SkyRoads v2.10 (Installer) (De) [SW][f1] (1996)(Ticsoft, BlueMoon Software, Jürgen Egeling Computer) [Racing - Driving].zip
+tdc_id: '15130.7'
+title:
+  screen: SkyRoads
+publisher: Ticsoft, BlueMoon Software, Jürgen Egeling Computer
+year: '1996'
+genre: Racing - Driving
+language: German
+date:
+  added: '2024-10-31T07:37:36'
+  last_modified: '2024-10-31T07:37:36'
+version: '2.10'
+type: zip
+tags:
+- Shareware
+- Fixed: 1
+media: Download
+installer: true
+commands:
+  play: INSTALL.BAT
+references:
+  mobygames: https://www.mobygames.com/game/1007/skyroads/
+files:
+- name: '!'
+  size: 1596
+  date: '1996-07-08T09:19:48'
+  crc: '0xb4f33ab0'
+- name: EC.EXE
+  size: 2762
+  date: '1995-09-20T14:35:46'
+  crc: '0x9d77e7a9'
+- name: EXTERNAL.DEU
+  size: 4457
+  date: '1995-07-23T10:13:44'
+  crc: '0x8ecd8298'
+- name: INST.EXE
+  size: 87162
+  date: '1995-06-01T00:01:00'
+  crc: '0x417fa2da'
+- name: INSTALL.001
+  size: 1127
+  date: '1996-07-08T16:08:00'
+  crc: '0x5038cac7'
+- name: INSTALL.BAT
+  size: 797
+  date: '1996-07-15T15:44:32'
+  crc: '0x3f9f705b'
+- name: INSTALL.DEU
+  size: 1234
+  date: '1996-07-08T16:08:14'
+  crc: '0xa60f9b5f'
+- name: SKY200.XXX
+  size: 503787
+  date: '1996-07-15T14:12:32'
+  crc: '0x3c2dc75a'

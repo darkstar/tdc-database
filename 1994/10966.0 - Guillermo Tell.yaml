@@ -1,0 +1,40 @@
+filename: Guillermo Tell (Es) (1994)(Digital Dreams Multimedia, Opera Soft S.A.) [Action, Adventure].zip
+tdc_id: '10966.0'
+parent_id: '10553.0'
+parent_id_valid: true
+title:
+  box: Guillermo Tell
+publisher: Digital Dreams Multimedia, Opera Soft S.A.
+year: '1994'
+genre:
+- Action
+- Adventure
+language: Spanish
+date:
+  added: '2019-03-01T18:27:52'
+  last_modified: '2024-10-27T17:39:57'
+type: zip
+media: CD-ROM
+commands:
+  play: GUILLER.EXE
+references:
+  mobygames: https://www.mobygames.com/game/73260/guillermo-tell/
+  dosid: DOS06876
+  exodos: Guillermo Tell (1989).zip
+files:
+- name: GUILLER.CTR
+  size: 817
+  date: '1994-11-29T16:10:40'
+  crc: '0x5710ae19'
+- name: GUILLER.EXE
+  size: 2289
+  date: '1992-11-28T12:14:46'
+  crc: '0xb9678c63'
+- name: GUILLER.OVL
+  size: 53585
+  date: '1989-06-26T13:15:50'
+  crc: '0x5ed4e865'
+- name: GUILLER.PIC
+  size: 16384
+  date: '1989-06-28T15:27:50'
+  crc: '0xfe471e4b'

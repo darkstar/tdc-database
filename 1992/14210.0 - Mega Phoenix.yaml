@@ -1,18 +1,23 @@
-filename: Mega Phoenix (1992)(Prism Leisure Corporation Plc) [Action][!].zip
+filename: Mega Phoenix (1992)(Prism Leisure Corporation Plc, Dinamic Software) [Action][!].zip
 tdc_id: '14210.0'
+parent_id: '14210.2'
 title:
   box: Mega Phoenix
-publisher: Prism Leisure Corporation Plc
+publisher: Prism Leisure Corporation Plc, Dinamic Software
 year: '1992'
 genre: Action
 language: English
 date:
   added: '2019-03-01T18:49:18'
-  last_modified: '2019-03-01T18:49:18'
+  last_modified: '2024-11-04T16:16:22'
 type: zip
 tags:
 - KnownGood
+media: 720K
+commands:
+  play: MEGA.EXE
 references:
+  mobygames: https://www.mobygames.com/game/25335/mega-phoenix/
   dosid: DOS03489
   exodos: Mega Phoenix (1992).zip
 files:

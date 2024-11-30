@@ -3,7 +3,6 @@ tdc_id: '1978.6'
 parent_id: '1978.5'
 title:
   box: Hooray for Henrietta
-  qualifier: demo
 publisher: Lander Software, Scetlander Ltd.
 year: '1992'
 genre: Educational
@@ -17,6 +16,7 @@ tags:
 - KnownGood
 media: 720K
 installer: true
+demo: true
 commands:
   play: INSTALL.EXE
 references:

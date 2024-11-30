@@ -1,16 +1,22 @@
-filename: Lion King, The (1994)(Virgin Interactive Entertainment, Inc.) [Action].zip
+filename: Lion King, The r941125 (1994)(Virgin Interactive Entertainment (Europe) Ltd.) [Action].zip
 tdc_id: '6414.0'
 parent_id: '6414.1'
 title:
   box: The Lion King
-publisher: Virgin Interactive Entertainment, Inc.
+publisher: Virgin Interactive Entertainment (Europe) Ltd.
 year: '1994'
 genre: Action
 language: English
 date:
   added: '2019-03-01T22:01:42'
-  last_modified: '2019-03-01T22:01:42'
+  last_modified: '2024-10-03T11:31:44'
+release: '941125'
 type: zip
+media: 1.44M
+commands:
+  play: LIONKING.EXE
+references:
+  mobygames: https://www.mobygames.com/game/2077/the-lion-king/
 files:
 - name: INSTALL.EXE
   size: 12968
@@ -25,10 +31,10 @@ files:
   date: '1994-11-25T17:03:50'
   crc: '0x4a9efdc7'
 - name: LIONKING.EXE
-  size: 673469
-  date: '1994-11-29T15:23:46'
-  crc: '0x3784463a'
-- name: LIONKING._XE
-  size: 673469
-  date: '1994-11-29T15:23:46'
-  crc: '0x090571cd'
+  size: 673437
+  date: '1994-11-25T17:03:50'
+  crc: '0x11815d89'
+- name: LIONKING.EX_
+  size: 673437
+  date: '1994-11-25T17:03:50'
+  crc: '0xd980421d'

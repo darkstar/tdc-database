@@ -1,4 +1,4 @@
-filename: LHX- Attack Chopper (1990)(Electronic Arts, Inc.) [Action, Simulation].zip
+filename: LHX- Attack Chopper (1990)(Electronic Arts, Inc.) [Action, Simulation][!].zip
 tdc_id: '6382.0'
 parent_id: '6382.4'
 title:
@@ -11,9 +11,15 @@ genre:
 language: English
 date:
   added: '2020-06-19T08:07:10'
-  last_modified: '2020-06-19T08:07:10'
+  last_modified: '2024-10-04T13:21:22'
 type: zip
+tags:
+- KnownGood
+media: 720K
+commands:
+  play: START.BAT
 references:
+  mobygames: https://www.mobygames.com/game/615/lhx-attack-chopper/
   dosid: DOS03155
   exodos: LHX Attack Chopper (1990).zip
 files:

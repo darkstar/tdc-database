@@ -1,4 +1,4 @@
-filename: Vinyl Goddess From Mars [SWR] (Installer) (1995)(Union Logic Software Publishing, Inc.) [Action].zip
+filename: Vinyl Goddess From Mars (Installer) [SWR] (1995)(Union Logic Software Publishing, Inc.) [Action].zip
 tdc_id: '7437.3'
 title:
   screen: Vinyl Goddess From Mars
@@ -8,11 +8,16 @@ genre: Action
 language: English
 date:
   added: '2019-03-02T09:07:20'
-  last_modified: '2019-03-02T09:07:20'
+  last_modified: '2024-11-01T09:46:53'
 type: zip
 tags:
 - SharewareRegistered
+media: Download
 installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1381/vinyl-goddess-from-mars/
 files:
 - name: GODDESS1.ARJ
   size: 1183410

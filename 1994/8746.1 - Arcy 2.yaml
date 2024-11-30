@@ -1,15 +1,15 @@
-filename: Arcy 2 [SW] (1994)(MVP Software) [Strategy].zip
+filename: Arcy 2 [SW] (1994)(MVP Software, CAPS Softwaredesign) [Strategy].zip
 tdc_id: '8746.1'
 parent_id: '8746.0'
 title:
   screen: Arcy 2
-publisher: MVP Software
+publisher: MVP Software, CAPS Softwaredesign
 year: '1994'
 genre: Strategy
 language: English
 date:
   added: '2011-11-27T17:11:00'
-  last_modified: '2011-11-27T17:11:00'
+  last_modified: '2024-10-26T17:19:52'
 type: zip
 tags:
 - Shareware
@@ -17,6 +17,7 @@ media: Download
 commands:
   play: ARCY2.EXE
 references:
+  mobygames: https://www.mobygames.com/game/944/arcy-2/
   dosid: DOS00840
   exodos: Arcy 2 (1994).zip
 files:
@@ -164,6 +165,10 @@ files:
   size: 809
   date: '1994-03-16T22:01:54'
   crc: '0x01193752'
+- name: FILE_ID.DIZ
+  size: 411
+  date: '1994-03-20T21:57:36'
+  crc: '0x1cedff08'
 - name: FUZZY.HLP
   size: 24722
   date: '1993-11-11T11:11:00'
@@ -356,7 +361,3 @@ files:
   size: 1502
   date: '1993-11-11T11:11:00'
   crc: '0x895347d1'
-- name: file_id.diz
-  size: 411
-  date: '1994-03-20T21:57:36'
-  crc: '0x1cedff08'

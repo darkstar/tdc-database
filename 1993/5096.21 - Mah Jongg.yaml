@@ -1,0 +1,80 @@
+filename: Mah Jongg v4.1 (Installer) [SW] (1993)(Nels Anderson) [Strategy].zip
+tdc_id: '5096.21'
+title:
+  screen: Mah Jongg
+publisher: Nels Anderson
+year: '1993'
+genre: Strategy
+language: English
+date:
+  added: '2024-11-18T14:22:16'
+  last_modified: '2024-11-18T14:22:16'
+version: '4.1'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+references:
+  mobygames: https://www.mobygames.com/game/6153/mah-jongg-solitaire/
+files:
+- name: FILE_ID.DIZ
+  size: 382
+  date: '1993-07-07T04:10:00'
+  crc: '0xca003002'
+- name: GO-FORM.DAT
+  size: 3336
+  date: '1993-06-01T14:30:00'
+  crc: '0xa0eba860'
+- name: GO-STRT.DAT
+  size: 541
+  date: '1993-06-01T11:07:16'
+  crc: '0x11807f88'
+- name: GO.EXE
+  size: 26022
+  date: '1992-01-10T12:14:02'
+  crc: '0x122b4e0a'
+- name: INSTALL.BAT
+  size: 2264
+  date: '1993-07-07T04:10:00'
+  crc: '0x800b2c2a'
+- name: MAHJONGG.DOC
+  size: 55749
+  date: '1993-07-07T04:10:00'
+  crc: '0x5c562447'
+- name: MAHJONGG.EXE
+  size: 150518
+  date: '1993-07-07T04:10:00'
+  crc: '0xa1a0bc1f'
+- name: MAHJONGG.TXT
+  size: 8703
+  date: '1993-07-07T04:10:00'
+  crc: '0x13bc1883'
+- name: MJMISC.EXE
+  size: 39054
+  date: '1993-07-07T04:10:00'
+  crc: '0x3e7826a1'
+- name: MJTILES.EXE
+  size: 69579
+  date: '1993-07-07T04:10:00'
+  crc: '0x2a779d72'
+- name: ORDERFRM.TXT
+  size: 3850
+  date: '1993-07-07T04:10:00'
+  crc: '0x9f0427ba'
+- name: PCSIG.TXT
+  size: 2329
+  date: '1993-06-01T14:31:30'
+  crc: '0x3c5d3bbb'
+- name: SHAREMAG.TXT
+  size: 1831
+  date: '1993-06-01T14:32:04'
+  crc: '0x98ea0032'
+- name: UKORDER.TXT
+  size: 2284
+  date: '1993-07-07T04:10:00'
+  crc: '0xff4d4bc2'
+- name: VENDOR.TXT
+  size: 4291
+  date: '1993-07-07T04:10:00'
+  crc: '0xf4852d44'

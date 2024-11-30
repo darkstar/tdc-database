@@ -1,4 +1,4 @@
-filename: Super Ultimate Boppin' [SWR] (Installer) (1995)(Mannacom) [Action].zip
+filename: Super Ultimate Boppin' (Installer) [SWR] (1995)(Mannacom) [Action].zip
 tdc_id: '3760.0'
 title:
   screen: Super Ultimate Boppin'
@@ -8,11 +8,13 @@ genre: Action
 language: English
 date:
   added: '2019-08-31T18:19:14'
-  last_modified: '2019-08-31T18:19:14'
+  last_modified: '2024-11-01T09:45:33'
 type: zip
 tags:
 - SharewareRegistered
 installer: true
+commands:
+  play: MANACCOM.BAT
 references:
   dosid: DOS01148
   exodos: Boppin' (1994).zip

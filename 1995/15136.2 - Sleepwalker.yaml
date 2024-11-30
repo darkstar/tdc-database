@@ -1,0 +1,113 @@
+filename: Sleepwalker (1995)(Megamedia Corp., Ocean Software Ltd.) [Action].zip
+tdc_id: '15136.2'
+parent_id: '15136.4'
+title:
+  box: Sleepwalker
+publisher: Megamedia Corp., Ocean Software Ltd.
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T21:08:08'
+  last_modified: '2024-10-08T15:21:02'
+type: zip
+media: CD-ROM
+commands:
+  play: OCEAN.BAT
+references:
+  mobygames: https://www.mobygames.com/game/12765/sleepwalker/
+files:
+- name: OCEAN.BAT
+  size: 891
+  date: '1994-10-12T08:29:58'
+  crc: '0xb64d5599'
+- name: OCEAN.CD\
+  size: 0
+  date: '1995-02-07T17:15:14'
+- name: OCEAN.CD\CDPATCH.EXE
+  size: 2383
+  date: '1994-09-19T14:27:04'
+  crc: '0xe49d9dc2'
+- name: OCEAN.CD\MENU.EXE
+  size: 28876
+  date: '1994-10-11T13:44:56'
+  crc: '0xc6b9a273'
+- name: OCEAN.CD\MENU.TXT
+  size: 501
+  date: '1995-02-08T08:47:02'
+  crc: '0xd9bfc0f0'
+- name: OCEAN.CD\SLEEP\
+  size: 0
+  date: '1995-02-07T17:15:52'
+- name: OCEAN.CD\SLEEP\$T800012
+  size: 90736
+  date: '1995-02-08T08:47:56'
+  crc: '0xa59ee9ef'
+- name: OCEAN.CD\SLEEP\ANIMS2.RNC
+  size: 628065
+  date: '1994-10-11T18:19:12'
+  crc: '0xc28b6ec8'
+- name: OCEAN.CD\SLEEP\BANIM.MOD
+  size: 43396
+  date: '1994-10-11T18:19:32'
+  crc: '0xfff5c4f5'
+- name: OCEAN.CD\SLEEP\BONUS.RNC
+  size: 227274
+  date: '1994-10-11T18:19:12'
+  crc: '0x2a3ac239'
+- name: OCEAN.CD\SLEEP\CONTINUE.MOD
+  size: 33708
+  date: '1994-10-11T18:19:12'
+  crc: '0xaad945b3'
+- name: OCEAN.CD\SLEEP\EANIMS1.RNC
+  size: 1052354
+  date: '1994-10-11T18:19:20'
+  crc: '0x55f6e2fb'
+- name: OCEAN.CD\SLEEP\ESLEEP.RNC
+  size: 666788
+  date: '1994-10-11T18:19:24'
+  crc: '0x537e0837'
+- name: OCEAN.CD\SLEEP\FUNKLUL.MOD
+  size: 76146
+  date: '1994-10-11T18:19:12'
+  crc: '0xbe381948'
+- name: OCEAN.CD\SLEEP\GAMEOVER.MOD
+  size: 43432
+  date: '1994-10-11T18:19:24'
+  crc: '0xeff93b8f'
+- name: OCEAN.CD\SLEEP\INTRO.MOD
+  size: 166954
+  date: '1994-10-11T18:19:26'
+  crc: '0xd41611a0'
+- name: OCEAN.CD\SLEEP\SETUP.EXE
+  size: 107107
+  date: '1994-10-12T08:23:28'
+  crc: '0x4ae4979c'
+- name: OCEAN.CD\SLEEP\SLEEP.EXE
+  size: 48750
+  date: '1994-10-11T18:19:26'
+  crc: '0x8a68b50a'
+- name: OCEAN.CD\SLEEP\SOUNDS.RNC
+  size: 575831
+  date: '1994-10-11T18:19:32'
+  crc: '0xf7daedae'
+- name: OCEAN.CD\SLEEP\SW.BAT
+  size: 18
+  date: '1995-02-08T08:47:54'
+  crc: '0x9cdf7083'
+- name: OCEAN.CD\SLEEP\TITLE.MOD
+  size: 127348
+  date: '1994-10-11T18:19:26'
+  crc: '0x35f8f452'
+- name: OCEAN.CD\SLEEP\TWEEN.MOD
+  size: 58778
+  date: '1994-10-11T18:19:32'
+  crc: '0x92066b75'
+- name: README.EXE
+  size: 195765
+  date: '1995-02-08T14:58:14'
+  crc: '0xf184b67a'
+- name: README.TXT
+  size: 11497
+  date: '1995-02-08T18:16:14'
+  crc: '0xdcfdda76'

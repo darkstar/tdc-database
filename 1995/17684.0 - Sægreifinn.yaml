@@ -1,0 +1,58 @@
+filename: Sægreifinn (Installer) (Is) (1995)(Tölvu & Hugbúnaðarþjónustan) [Strategy, Simulation].zip
+tdc_id: '17684.0'
+title:
+  box: Sægreifinn
+publisher: Tölvu & Hugbúnaðarþjónustan
+year: '1995'
+genre:
+- Strategy
+- Simulation
+language: Icelandic
+date:
+  added: '2024-11-24T07:32:11'
+  last_modified: '2024-11-24T07:32:11'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: ARJ.EXE
+  size: 98758
+  date: '1991-10-29T08:11:30'
+  crc: '0x6e9f24a8'
+- name: EGAVGA.BGI
+  size: 5621
+  date: '1989-05-08T16:43:56'
+  crc: '0xac961097'
+- name: INSTALL.EXE
+  size: 124176
+  date: '1995-01-06T13:20:42'
+  crc: '0x6f145a83'
+- name: INSTALL.PCX
+  size: 110157
+  date: '1994-12-19T16:56:24'
+  crc: '0x72ae3479'
+- name: S-GREIFI.A01
+  size: 1456284
+  date: '1994-12-19T17:45:26'
+  crc: '0x1be7624c'
+- name: S-GREIFI.A02
+  size: 1456309
+  date: '1994-12-19T17:47:36'
+  crc: '0x4f4ec7d8'
+- name: S-GREIFI.A03
+  size: 1124846
+  date: '1995-01-10T14:09:56'
+  crc: '0x601a7d64'
+- name: S-GREIFI.ARJ
+  size: 1456320
+  date: '1994-12-19T17:43:08'
+  crc: '0x126bfeb8'
+- name: TRIP.CHR
+  size: 9372
+  date: '1989-02-02T16:22:08'
+  crc: '0xe541e12b'
+- name: VESA.ARJ
+  size: 363485
+  date: '1994-12-17T20:43:06'
+  crc: '0xf6a95ce8'

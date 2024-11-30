@@ -1,4 +1,4 @@
-filename: Silicon Dreams (1987)(Firebird Licensees Inc.) [Adventure, Interactive Fiction, Compilation][!].zip
+filename: Silicon Dreams (1987)(Firebird Licensees Inc.) [Adventure, Interactive Fiction, Compilation].zip
 tdc_id: '15057.0'
 title:
   box: Silicon Dreams
@@ -11,12 +11,12 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:25:36'
-  last_modified: '2019-03-01T18:25:36'
+  last_modified: '2024-10-25T15:38:49'
 type: zip
-tags:
-- KnownGood
-compilation: true
+commands:
+  play: MENU.EXE
 references:
+  mobygames: https://www.mobygames.com/game/12261/silicon-dreams/
   dosid: DOS04555
   exodos: Silicon Dreams (1986).zip
 files:

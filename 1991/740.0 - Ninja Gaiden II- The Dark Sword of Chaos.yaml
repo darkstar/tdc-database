@@ -1,16 +1,22 @@
-filename: Ninja Gaiden II- The Dark Sword of Chaos (1991)(Tecmo, Ltd.) [Action].zip
+filename: Ninja Gaiden II- The Dark Sword of Chaos (1991)(GameTek, Inc.) [Action].zip
 tdc_id: '740.0'
+parent_id: '740.1'
 title:
   box: 'Ninja Gaiden II: The Dark Sword of Chaos'
-publisher: Tecmo, Ltd.
+publisher: GameTek, Inc.
 year: '1991'
 genre: Action
 language: English
 date:
   added: '2019-03-01T18:37:08'
-  last_modified: '2019-03-01T18:37:08'
+  last_modified: '2024-11-20T07:34:05'
 type: zip
+media: 720K
+commands:
+  play: NINJA.EXE
+  setup: NJCONFIG.EXE
 references:
+  mobygames: https://www.mobygames.com/game/2466/ninja-gaiden-ii-the-dark-sword-of-chaos/
   dosid: DOS03758
   exodos: Ninja Gaiden II - The Dark Sword of Chaos (1991).zip
 files:
@@ -18,6 +24,10 @@ files:
   size: 2067
   date: '1991-06-18T10:05:28'
   crc: '0x17094553'
+- name: ACT1.S16
+  size: 5615
+  date: '1991-06-10T17:32:52'
+  crc: '0xf6f6477c'
 - name: ACT1.S32
   size: 6201
   date: '1991-06-10T17:40:26'
@@ -26,6 +36,10 @@ files:
   size: 2075
   date: '1991-06-20T13:38:12'
   crc: '0xcafed5d2'
+- name: ACT2.S16
+  size: 6539
+  date: '1991-06-10T17:28:02'
+  crc: '0x2b0ac966'
 - name: ACT2.S32
   size: 7774
   date: '1991-06-10T17:41:16'
@@ -34,6 +48,10 @@ files:
   size: 2718
   date: '1991-06-25T14:16:44'
   crc: '0xd8567282'
+- name: ACT3.S16
+  size: 12335
+  date: '1991-06-25T00:13:04'
+  crc: '0xac2a6493'
 - name: ACT3.S32
   size: 15490
   date: '1991-06-10T17:42:04'
@@ -42,6 +60,10 @@ files:
   size: 3281
   date: '1991-06-25T15:24:30'
   crc: '0x253431d3'
+- name: ACT4.S16
+  size: 10885
+  date: '1991-06-25T00:21:12'
+  crc: '0x41d176d1'
 - name: ACT4.S32
   size: 12646
   date: '1991-06-10T17:42:38'
@@ -50,6 +72,10 @@ files:
   size: 3809
   date: '1991-06-18T10:06:06'
   crc: '0x154ee803'
+- name: ACT5.S16
+  size: 12260
+  date: '1991-06-25T00:23:24'
+  crc: '0xcce206c8'
 - name: ACT5.S32
   size: 13991
   date: '1991-06-10T17:43:24'
@@ -58,6 +84,10 @@ files:
   size: 2266
   date: '1991-06-18T10:06:12'
   crc: '0x3bf4b8a2'
+- name: ACT6.S16
+  size: 11520
+  date: '1991-07-12T12:31:32'
+  crc: '0xb9251c3d'
 - name: ACT6.S32
   size: 11799
   date: '1991-06-10T17:43:58'
@@ -66,10 +96,18 @@ files:
   size: 3242
   date: '1991-06-19T13:43:36'
   crc: '0xa9263e81'
+- name: ACT7_1.S16
+  size: 4277
+  date: '1991-06-10T17:29:30'
+  crc: '0xe5521174'
 - name: ACT7_1.S32
   size: 5269
   date: '1991-06-10T17:44:22'
   crc: '0xe25c36ca'
+- name: ACT7_2.S16
+  size: 14475
+  date: '1991-07-04T14:56:54'
+  crc: '0x2de15a65'
 - name: ACT7_2.S32
   size: 15209
   date: '1991-06-10T17:46:20'
@@ -78,22 +116,42 @@ files:
   size: 10285
   date: '1991-07-01T15:01:04'
   crc: '0x2d4ad960'
+- name: CHAOS.B16
+  size: 9145
+  date: '1991-06-10T15:22:52'
+  crc: '0x929a21c5'
 - name: CHAOS.B32
   size: 11647
   date: '1991-06-10T15:03:42'
   crc: '0xf21de023'
+- name: CREDIT.B16
+  size: 8454
+  date: '1991-07-04T17:30:02'
+  crc: '0x091a7a8c'
 - name: CREDIT.B32
   size: 11428
   date: '1991-07-05T10:44:00'
   crc: '0xd19c3ff5'
+- name: FINALE.S16
+  size: 15747
+  date: '1991-07-04T14:45:28'
+  crc: '0x55633ff8'
 - name: FINALE.S32
   size: 16535
   date: '1991-07-04T13:49:40'
   crc: '0xf18bf153'
+- name: FONT.B16
+  size: 507
+  date: '1991-06-10T15:23:18'
+  crc: '0x7085e9ff'
 - name: FONT.B32
   size: 2067
   date: '1991-06-10T15:05:14'
   crc: '0x143564d9'
+- name: GAMETEK.B16
+  size: 2569
+  date: '1991-07-01T17:53:24'
+  crc: '0x8b5ca464'
 - name: GAMETEK.B32
   size: 3559
   date: '1991-07-01T17:07:34'
@@ -103,61 +161,121 @@ files:
   date: '1991-07-01T15:02:52'
   crc: '0xe3ae49e7'
 - name: INSTALL.BAT
-  size: 1446
-  date: '1991-07-05T14:12:12'
-  crc: '0x757f9891'
+  size: 1338
+  date: '1991-07-05T14:23:14'
+  crc: '0x782f1796'
+- name: INSTALLV.BAT
+  size: 1337
+  date: '1991-07-05T11:43:44'
+  crc: '0x6e885e16'
+- name: LAHJA.B16
+  size: 6934
+  date: '1991-06-10T15:22:32'
+  crc: '0x1156ce2b'
 - name: LAHJA.B32
   size: 9025
   date: '1991-06-10T15:04:22'
   crc: '0xa7a7e3cc'
+- name: MANLEY.B16
+  size: 3619
+  date: '1991-07-02T11:48:22'
+  crc: '0xa8e927b8'
 - name: MANLEY.B32
   size: 4280
   date: '1991-07-02T11:25:56'
   crc: '0x5d506fcb'
+- name: MAP1A.B16
+  size: 9004
+  date: '1991-06-10T15:23:34'
+  crc: '0xb9a4a4d2'
 - name: MAP1A.B32
   size: 12474
   date: '1991-06-10T15:05:30'
   crc: '0x59e57d6d'
+- name: MAP1B.B16
+  size: 8977
+  date: '1991-06-10T15:23:42'
+  crc: '0xdfe760e8'
 - name: MAP1B.B32
   size: 11530
   date: '1991-06-10T15:05:38'
   crc: '0x096d6417'
+- name: MAP3A.B16
+  size: 9674
+  date: '1991-06-25T14:06:18'
+  crc: '0x59256a51'
 - name: MAP3A.B32
   size: 13061
   date: '1991-06-25T13:46:22'
   crc: '0x44a97710'
+- name: MAP3B.B16
+  size: 2229
+  date: '1991-06-25T14:06:24'
+  crc: '0x4f3aaf70'
 - name: MAP3B.B32
   size: 3740
   date: '1991-06-25T13:46:28'
   crc: '0x22ad458f'
+- name: MAP4A.B16
+  size: 9911
+  date: '1991-06-19T10:09:34'
+  crc: '0x0cf47747'
 - name: MAP4A.B32
   size: 13892
   date: '1991-06-10T15:06:42'
   crc: '0xc59c42e0'
+- name: MAP4B.B16
+  size: 6126
+  date: '1991-06-19T10:24:50'
+  crc: '0xe36be163'
 - name: MAP4B.B32
   size: 8170
   date: '1991-06-18T16:43:50'
   crc: '0x7f702b0d'
+- name: MAP5A.B16
+  size: 9774
+  date: '1991-06-10T15:24:14'
+  crc: '0xa66245c7'
 - name: MAP5A.B32
   size: 12933
   date: '1991-06-10T15:06:22'
   crc: '0x3ab70a9d'
+- name: MAP5B.B16
+  size: 8609
+  date: '1991-06-10T15:24:18'
+  crc: '0x4c654cf7'
 - name: MAP5B.B32
   size: 10260
   date: '1991-06-10T15:06:32'
   crc: '0xe1bb1562'
+- name: MAP6A.B16
+  size: 10854
+  date: '1991-06-10T15:24:48'
+  crc: '0xdf6c339b'
 - name: MAP6A.B32
   size: 11930
   date: '1991-06-18T16:57:32'
   crc: '0x90b2c0c8'
+- name: MAP6B.B16
+  size: 6505
+  date: '1991-06-10T15:24:52'
+  crc: '0xd95e200f'
 - name: MAP6B.B32
   size: 8922
   date: '1991-06-10T15:06:12'
   crc: '0x60d076c1'
+- name: MAP7A.B16
+  size: 10734
+  date: '1991-06-19T10:13:58'
+  crc: '0xea49c1ac'
 - name: MAP7A.B32
   size: 15063
   date: '1991-06-19T09:44:20'
   crc: '0x493b1ff5'
+- name: MAP7B.B16
+  size: 9508
+  date: '1991-06-10T15:25:08'
+  crc: '0x0bd66fe3'
 - name: MAP7B.B32
   size: 13923
   date: '1991-06-10T15:04:58'
@@ -170,34 +288,58 @@ files:
   size: 60604
   date: '1991-07-05T11:52:46'
   crc: '0x19758092'
+- name: NINJA.S16
+  size: 62565
+  date: '1991-07-03T13:25:54'
+  crc: '0xa9350364'
 - name: NINJA.S32
   size: 101928
   date: '1991-07-03T12:25:56'
   crc: '0x41bb2bfd'
 - name: NINJA.SAV
-  size: 1201
-  date: '1994-08-16T17:07:24'
-  crc: '0xccca5098'
+  size: 4
+  date: '1980-01-04T05:03:04'
+  crc: '0xb034d1d6'
 - name: NJCONFIG.EXE
   size: 11598
   date: '1991-07-04T17:14:34'
   crc: '0x51a45935'
+- name: PROLOG.S16
+  size: 13330
+  date: '1991-06-24T10:59:44'
+  crc: '0x77d7e6b1'
 - name: PROLOG.S32
   size: 15518
   date: '1991-06-10T16:35:30'
   crc: '0x791bbba6'
+- name: SCOREB.B16
+  size: 728
+  date: '1991-06-10T15:23:24'
+  crc: '0xd156d4d5'
 - name: SCOREB.B32
   size: 1480
   date: '1991-06-10T15:05:42'
   crc: '0x5a4f472f'
+- name: SUNSET.B16
+  size: 3800
+  date: '1991-06-10T15:22:12'
+  crc: '0xfebf0f2c'
 - name: SUNSET.B32
   size: 7709
   date: '1991-06-10T15:04:30'
   crc: '0x6f5917a8'
+- name: TECMO.B16
+  size: 1128
+  date: '1991-07-02T11:48:10'
+  crc: '0x64968fc9'
 - name: TECMO.B32
   size: 1378
   date: '1991-07-02T11:26:00'
   crc: '0x351c171b'
+- name: TITLE.B16
+  size: 5476
+  date: '1991-07-02T11:50:54'
+  crc: '0x1bcd8b79'
 - name: TITLE.B32
   size: 6148
   date: '1991-06-28T14:56:24'

@@ -1,0 +1,38 @@
+filename: Last Mission, The (Es) (1994)(Digital Dreams Multimedia, Opera Soft S.A.) [Action].zip
+tdc_id: '11854.0'
+parent_id: '10553.0'
+parent_id_valid: true
+title:
+  box: The Last Mission
+publisher: Digital Dreams Multimedia, Opera Soft S.A.
+year: '1994'
+genre: Action
+language: Spanish
+date:
+  added: '2019-03-01T18:25:26'
+  last_modified: '2024-10-27T17:34:07'
+type: zip
+media: CD-ROM
+commands:
+  play: LMISION.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1985/the-last-mission/
+  dosid: DOS05922
+  exodos: Last Mission, The (1987).zip
+files:
+- name: LMISION.CTR
+  size: 1091
+  date: '1994-11-29T23:20:54'
+  crc: '0x4b5ceff7'
+- name: LMISION.EXE
+  size: 2315
+  date: '1992-11-21T23:15:06'
+  crc: '0x306d3598'
+- name: LMISION.OVL
+  size: 57344
+  date: '1980-01-01T05:48:20'
+  crc: '0xffe9f569'
+- name: LMISION.PIC
+  size: 16384
+  date: '1980-01-01T05:48:34'
+  crc: '0xedbdc3e8'

@@ -1,0 +1,27 @@
+filename: Sleepwalker (1995)(Big Games, Ocean Software Ltd.) [Action].zip
+tdc_id: '15136.8'
+parent_id: '15136.7'
+title:
+  box: Sleepwalker
+publisher: Big Games, Ocean Software Ltd.
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2024-10-08T16:21:30'
+  last_modified: '2024-10-08T16:21:30'
+type: zip
+media: 1.44M
+commands:
+  play: SLEEP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/12765/sleepwalker/
+files:
+- name: READ.ME
+  size: 1091
+  date: '1994-08-08T15:18:36'
+  crc: '0xa8d89546'
+- name: SLEEP.EXE
+  size: 3752356
+  date: '1994-08-08T15:18:36'
+  crc: '0xfeedceb3'

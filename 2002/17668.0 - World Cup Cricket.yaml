@@ -1,0 +1,125 @@
+filename: World Cup Cricket v2.62 [FW] (2002)(M. J. Carter) [Simulation, Sports].zip
+tdc_id: '17668.0'
+title:
+  screen: World Cup Cricket
+publisher: M. J. Carter
+year: '2002'
+genre:
+- Simulation
+- Sports
+language: English
+date:
+  added: '2024-10-18T09:56:25'
+  last_modified: '2024-10-18T09:56:25'
+version: '2.62'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: wcc.bat
+files:
+- name: WCCSAVES\USER.SAV
+  size: 48
+  date: '2006-01-12T11:56:44'
+  crc: '0x15e57d76'
+- name: WCCSAVES\USERTEAM.DAT
+  size: 2035
+  date: '2006-01-12T11:56:40'
+  crc: '0x7581f744'
+- name: WCCSAVES\WCC.POS
+  size: 2512
+  date: '2006-01-12T11:56:46'
+  crc: '0x2cb772d7'
+- name: WCCSAVES\WCC.SAV
+  size: 1338
+  date: '2006-01-12T11:56:40'
+  crc: '0x1291f0af'
+- name: src\wccentry.bas
+  size: 10495
+  date: '2002-11-24T00:26:20'
+  crc: '0x53e492e2'
+- name: src\wccmenu.bas
+  size: 30958
+  date: '2002-11-24T00:26:20'
+  crc: '0x66959693'
+- name: src\wcctourn.bas
+  size: 54766
+  date: '2002-11-24T00:26:20'
+  crc: '0xb03e958e'
+- name: src\wcctourn.mak
+  size: 27
+  date: '2002-11-24T00:26:20'
+  crc: '0x36bfa71c'
+- name: src\wccutil.bas
+  size: 5861
+  date: '2002-11-24T00:26:20'
+  crc: '0x178e1948'
+- name: wcc.bat
+  size: 661
+  date: '2002-11-24T00:26:20'
+  crc: '0x777d26d4'
+- name: wcc.dat
+  size: 1338
+  date: '2002-11-24T00:26:20'
+  crc: '0x1291f0af'
+- name: wcc.txt
+  size: 26606
+  date: '2002-11-24T00:26:20'
+  crc: '0xd2a374fa'
+- name: wccentry.exe
+  size: 70536
+  date: '2002-11-24T00:26:20'
+  crc: '0xbc97f38d'
+- name: wccmatch.dat
+  size: 6491
+  date: '2002-11-24T00:26:20'
+  crc: '0xdb352f0d'
+- name: wccmenu.bin
+  size: 106028
+  date: '2002-11-24T00:26:20'
+  crc: '0xfe27a686'
+- name: wccteams.dat
+  size: 118
+  date: '2002-11-24T00:26:20'
+  crc: '0xa3fee466'
+- name: wccteams\australi.dat
+  size: 2368
+  date: '2002-11-24T00:26:20'
+  crc: '0x25bf147e'
+- name: wccteams\england.dat
+  size: 2259
+  date: '2002-11-24T00:26:20'
+  crc: '0x420f56e9'
+- name: wccteams\india.dat
+  size: 2317
+  date: '2002-11-24T00:26:20'
+  crc: '0xf38848aa'
+- name: wccteams\newzeala.dat
+  size: 2348
+  date: '2002-11-24T00:26:20'
+  crc: '0x3e3e8b90'
+- name: wccteams\pakistan.dat
+  size: 2233
+  date: '2002-11-24T00:26:20'
+  crc: '0x45a52364'
+- name: wccteams\southafr.dat
+  size: 2113
+  date: '2002-11-24T00:26:20'
+  crc: '0x84df2e71'
+- name: wccteams\srilanka.dat
+  size: 2355
+  date: '2002-11-24T00:26:20'
+  crc: '0x40f64d19'
+- name: wccteams\westindi.dat
+  size: 2302
+  date: '2002-11-24T00:26:20'
+  crc: '0xf0bcc8c1'
+- name: wccteams\zimbabwe.dat
+  size: 2035
+  date: '2002-11-24T00:26:20'
+  crc: '0x7581f744'
+- name: wcctourn.bin
+  size: 139006
+  date: '2002-11-24T00:26:20'
+  crc: '0x8c76d103'

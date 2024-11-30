@@ -1,8 +1,8 @@
-filename: Sports Puzzle (Es) [f1] (1989)(System 4) [Strategy, Puzzle].zip
+filename: Sports Puzzle v1.0 (Es) [f1] (1989)(SPE Software de Programadores Españoles, T.M.S. S.A., System 4) [Strategy, Puzzle].zip
 tdc_id: '11746.0'
 title:
   screen: Sports Puzzle
-publisher: System 4
+publisher: SPE Software de Programadores Españoles, T.M.S. S.A., System 4
 year: '1989'
 genre:
 - Strategy
@@ -10,10 +10,13 @@ genre:
 language: Spanish
 date:
   added: '2019-03-01T18:29:02'
-  last_modified: '2019-03-01T18:29:02'
+  last_modified: '2024-10-21T07:38:08'
+version: '1.0'
 type: zip
 tags:
 - Fixed: 1
+commands:
+  play: Play.com
 files:
 - name: PUZZ0.PIK
   size: 16011

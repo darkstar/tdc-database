@@ -1,0 +1,30 @@
+filename: Birds of Prey (Installer) (1995)(Big Games, Electronic Arts, Inc.) [Simulation, Action].zip
+tdc_id: '12666.4'
+parent_id: '12666.3'
+title:
+  box: Birds of Prey
+publisher: Big Games, Electronic Arts, Inc.
+year: '1995'
+genre:
+- Simulation
+- Action
+language: English
+date:
+  added: '2024-10-07T15:50:46'
+  last_modified: '2024-10-07T15:50:46'
+type: zip
+media: 720K
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/3818/birds-of-prey/
+files:
+- name: BOP.RNC
+  size: 427287
+  date: '1995-02-14T10:39:38'
+  crc: '0xa999b7df'
+- name: INSTALL.EXE
+  size: 122745
+  date: '1995-02-14T10:40:16'
+  crc: '0x7481f013'

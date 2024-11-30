@@ -1,18 +1,23 @@
-filename: Jack Flash (Installer) [SWR] (1995)(MVP Software) [Action].zip
+filename: Jack Flash (Installer) [SWR] (1995)(MVP Software, CAPS Softwaredesign) [Action].zip
 tdc_id: '11606.1'
 title:
   screen: Jack Flash
-publisher: MVP Software
+publisher: MVP Software, CAPS Softwaredesign
 year: '1995'
 genre: Action
 language: English
 date:
   added: '2018-08-19T14:35:38'
-  last_modified: '2018-08-19T14:35:38'
+  last_modified: '2024-10-26T17:42:36'
 type: zip
 tags:
 - SharewareRegistered
+media: Download
 installer: true
+commands:
+  play: INSTALL.COM
+references:
+  mobygames: https://www.mobygames.com/game/947/jack-flash/
 files:
 - name: FLASH.EXE
   size: 642764

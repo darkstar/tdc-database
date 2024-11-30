@@ -1,0 +1,38 @@
+filename: Livingstone Supongo (Es) (1994)(Digital Dreams Multimedia, Opera Soft S.A.) [Action, Adventure].zip
+tdc_id: '11888.3'
+parent_id: '10553.0'
+parent_id_valid: true
+title:
+  box: Livingstone Supongo
+publisher: Digital Dreams Multimedia, Opera Soft S.A.
+year: '1994'
+genre:
+- Action
+- Adventure
+language: Spanish
+date:
+  added: '2019-03-01T18:26:26'
+  last_modified: '2024-10-27T17:42:43'
+type: zip
+media: CD-ROM
+commands:
+  play: LIVIN1.EXE
+references:
+  mobygames: https://www.mobygames.com/game/4517/livingstone-i-presume/
+files:
+- name: LIVIN1.CTR
+  size: 1365
+  date: '1994-11-29T16:21:40'
+  crc: '0xdbb6955c'
+- name: LIVIN1.EXE
+  size: 2313
+  date: '1992-11-21T23:07:18'
+  crc: '0x878f2be9'
+- name: LIVIN1.OVL
+  size: 57344
+  date: '1980-01-01T05:48:12'
+  crc: '0xe35243a1'
+- name: LIVIN1.PIC
+  size: 16384
+  date: '1980-01-01T05:48:30'
+  crc: '0x97cfe7a9'

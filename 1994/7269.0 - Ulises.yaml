@@ -1,0 +1,46 @@
+filename: Ulises (Es) (1994)(Digital Dreams Multimedia, Opera Soft S.A.) [Action].zip
+tdc_id: '7269.0'
+parent_id: '10553.0'
+parent_id_valid: true
+title:
+  box: Ulises
+publisher: Digital Dreams Multimedia, Opera Soft S.A.
+year: '1994'
+genre: Action
+language: Spanish
+date:
+  added: '2019-03-01T18:29:18'
+  last_modified: '2024-10-27T17:53:08'
+type: zip
+media: CD-ROM
+commands:
+  play: ULISES.EXE
+references:
+  mobygames: https://www.mobygames.com/game/27978/ulises/
+  dosid: DOS05343
+  exodos: Ulises (1989).zip
+files:
+- name: ULISES.CTR
+  size: 740
+  date: '1994-11-29T22:21:34'
+  crc: '0xe9a95d64'
+- name: ULISES.EXE
+  size: 2277
+  date: '1992-11-30T15:41:24'
+  crc: '0x310a409a'
+- name: ULI_CGA.OVL
+  size: 47600
+  date: '1989-04-14T19:30:54'
+  crc: '0x39347009'
+- name: ULI_CGA.PIC
+  size: 16384
+  date: '1989-04-07T11:40:06'
+  crc: '0x35b09fd6'
+- name: ULI_EGA.OVL
+  size: 125292
+  date: '1994-02-13T05:16:22'
+  crc: '0xfcbc910f'
+- name: ULI_EGA.PIC
+  size: 32000
+  date: '1989-04-14T16:55:24'
+  crc: '0xc80dba88'

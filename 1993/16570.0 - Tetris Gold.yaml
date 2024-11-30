@@ -1,4 +1,4 @@
-filename: Tetris Gold (1993)(Spectrum HoloByte, Inc.) [Action, Strategy, Compilation].zip
+filename: Tetris Gold (1993)(Spectrum HoloByte, Inc.) [Action, Strategy, Puzzle, Compilation].zip
 tdc_id: '16570.0'
 title:
   box: Tetris Gold
@@ -7,13 +7,17 @@ year: '1993'
 genre:
 - Action
 - Strategy
+- Puzzle
 - Compilation
 language: English
 date:
   added: '2022-05-05T11:09:28'
-  last_modified: '2022-05-05T11:09:28'
+  last_modified: '2024-10-27T11:15:36'
 type: zip
-compilation: true
+commands:
+  play: TETDOS.EXE
+references:
+  mobygames: https://www.mobygames.com/game/14446/tetris-gold/
 files:
 - name: FACES\
   size: 0

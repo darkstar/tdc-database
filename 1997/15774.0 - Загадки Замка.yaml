@@ -1,7 +1,8 @@
-filename: Zagadki Zamka (Загадки Замка) (Ru) [FW] (1997)(Pavel Anokhin) [Strategy, Puzzle].zip
+filename: Загадки Замка (Ru) [FW] (1997)(Pavel Anokhin) [Strategy, Puzzle].zip
 tdc_id: '15774.0'
 title:
   screen: Загадки Замка
+  transliteration: Zagadki Zamka
 publisher: Pavel Anokhin
 year: '1997'
 genre:
@@ -10,11 +11,14 @@ genre:
 language: Russian
 date:
   added: '2022-06-01T14:39:16'
-  last_modified: '2022-06-01T14:39:16'
+  last_modified: '2024-10-01T16:39:19'
 type: zip
 tags:
 - Freeware
 media: Download
+commands:
+  play: LABIRINT.EXE
+  setup: SETUP.EXE
 files:
 - name: 1.RAW
   size: 30764

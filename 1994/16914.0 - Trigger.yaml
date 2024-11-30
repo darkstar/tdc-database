@@ -1,0 +1,38 @@
+filename: Trigger (Es) (1994)(Digital Dreams Multimedia, Opera Soft S.A.) [Action].zip
+tdc_id: '16914.0'
+parent_id: '10553.0'
+parent_id_valid: true
+title:
+  box: Trigger
+publisher: Digital Dreams Multimedia, Opera Soft S.A.
+year: '1994'
+genre: Action
+language: Spanish
+date:
+  added: '2019-03-01T18:29:14'
+  last_modified: '2024-10-27T17:51:59'
+type: zip
+media: CD-ROM
+commands:
+  play: TRIGGER.EXE
+references:
+  mobygames: https://www.mobygames.com/game/34100/trigger/
+  dosid: DOS05276
+  exodos: Trigger (1989).zip
+files:
+- name: TRIGGER.CTR
+  size: 1277
+  date: '1994-11-29T19:39:14'
+  crc: '0xfb080de8'
+- name: TRIGGER.EXE
+  size: 2289
+  date: '1992-11-28T12:50:12'
+  crc: '0xd5c18266'
+- name: TRIGGER.OVL
+  size: 51862
+  date: '1989-06-15T09:44:30'
+  crc: '0xe911557d'
+- name: TRIGGER.PIC
+  size: 16384
+  date: '1989-06-15T09:52:12'
+  crc: '0xe07a0b13'

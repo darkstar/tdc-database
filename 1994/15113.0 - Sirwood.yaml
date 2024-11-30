@@ -1,0 +1,78 @@
+filename: Sirwood (1994)(Digital Dreams Multimedia, Opera Soft S.A.) [Action].zip
+tdc_id: '15113.0'
+parent_id: '10553.0'
+parent_id_valid: true
+title:
+  box: Sirwood
+publisher: Digital Dreams Multimedia, Opera Soft S.A.
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:34:02'
+  last_modified: '2024-10-27T18:00:18'
+type: zip
+media: CD-ROM
+commands:
+  play: SIRWOOD.EXE
+references:
+  mobygames: https://www.mobygames.com/game/46327/sirwood/
+  dosid: DOS04592
+  exodos: Sirwood (1990).zip
+files:
+- name: SIRWOOD.CTR
+  size: 1519
+  date: '1994-11-29T19:09:58'
+  crc: '0x641bdaee'
+- name: SIRWOOD.EXE
+  size: 2692
+  date: '1992-11-30T15:36:26'
+  crc: '0x291f6031'
+- name: SIR_CGA.PIC
+  size: 16384
+  date: '1990-06-19T10:39:14'
+  crc: '0xb2bd1087'
+- name: SIR_CGA0.OVL
+  size: 42112
+  date: '1990-06-21T15:45:26'
+  crc: '0x5ed2cbbc'
+- name: SIR_CGA1.OVL
+  size: 57136
+  date: '1990-06-21T11:56:38'
+  crc: '0xb1581cb7'
+- name: SIR_CGA2.OVL
+  size: 56887
+  date: '1990-06-21T11:56:46'
+  crc: '0x70721e05'
+- name: SIR_CGA3.OVL
+  size: 57465
+  date: '1990-06-21T11:56:54'
+  crc: '0xca02eb82'
+- name: SIR_CGAM.OVL
+  size: 8451
+  date: '1990-06-21T11:56:26'
+  crc: '0xc5f049ff'
+- name: SIR_EGA.PIC
+  size: 32000
+  date: '1990-06-19T10:39:00'
+  crc: '0x1abbe049'
+- name: SIR_EGA0.OVL
+  size: 65434
+  date: '1990-06-21T15:45:34'
+  crc: '0xb9191b54'
+- name: SIR_EGA1.OVL
+  size: 76075
+  date: '1990-06-21T11:57:14'
+  crc: '0x2704447d'
+- name: SIR_EGA2.OVL
+  size: 75651
+  date: '1990-06-21T11:57:22'
+  crc: '0x8c4a6fac'
+- name: SIR_EGA3.OVL
+  size: 77333
+  date: '1990-06-21T11:57:30'
+  crc: '0x3c28c369'
+- name: SIR_EGAM.OVL
+  size: 13957
+  date: '1990-06-21T11:56:58'
+  crc: '0x84b8d06c'

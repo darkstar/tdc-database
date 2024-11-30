@@ -1,4 +1,4 @@
-filename: DinoHunt [SW] (Installer) (1993)(Sherwood Forest Software) [Action].zip
+filename: DinoHunt (Installer) [SW] (1993)(Sherwood Forest Software) [Action].zip
 tdc_id: '13187.0'
 title:
   screen: DinoHunt
@@ -8,13 +8,16 @@ genre: Action
 language: English
 date:
   added: '2012-07-04T14:52:56'
-  last_modified: '2012-07-04T14:52:56'
+  last_modified: '2024-11-01T09:40:44'
 type: zip
 tags:
 - Shareware
 media: Download
 installer: true
+commands:
+  play: INSTAL_A.BAT
 references:
+  mobygames: https://www.mobygames.com/game/49752/dino-hunt/
   dosid: DOS01794
   exodos: Dino Hunt (1993).zip
 files:

@@ -1,4 +1,4 @@
-filename: World Empire v1.50 [SW] (Installer) (1992)(Viable Software Alternatives) [Strategy].zip
+filename: World Empire v1.50 (Installer) [SW] (1992)(Viable Software Alternatives) [Strategy].zip
 tdc_id: '16097.2'
 title:
   screen: World Empire
@@ -8,13 +8,15 @@ genre: Strategy
 language: English
 date:
   added: '2019-03-01T18:52:34'
-  last_modified: '2019-03-01T18:52:34'
+  last_modified: '2024-11-01T09:48:58'
 version: '1.50'
 type: zip
 tags:
 - Shareware
 media: Download
 installer: true
+commands:
+  play: INSTALL.BAT
 files:
 - name: '#1EMPIRE.EXE'
   size: 250160

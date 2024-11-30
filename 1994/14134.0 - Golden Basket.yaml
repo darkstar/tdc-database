@@ -1,0 +1,44 @@
+filename: Golden Basket (Es) (1994)(Digital Dreams Multimedia, Opera Soft S.A.) [Action, Sports].zip
+tdc_id: '14134.0'
+parent_id: '10553.0'
+parent_id_valid: true
+title:
+  box: Golden Basket
+publisher: Digital Dreams Multimedia, Opera Soft S.A.
+year: '1994'
+genre:
+- Action
+- Sports
+language: Spanish
+date:
+  added: '2019-03-01T18:36:06'
+  last_modified: '2024-10-28T11:26:20'
+type: zip
+media: CD-ROM
+commands:
+  play: BASKET.EXE
+references:
+  mobygames: https://www.mobygames.com/game/20005/golden-basket/
+  dosid: DOS02429
+  exodos: Golden Basket (1990).zip
+files:
+- name: BASKET.EXE
+  size: 2857
+  date: '1992-11-30T17:39:10'
+  crc: '0x58c6cfdc'
+- name: GOLD_CGA.OVL
+  size: 86701
+  date: '1993-07-05T16:30:06'
+  crc: '0xf29845eb'
+- name: GOLD_CGA.PIC
+  size: 16384
+  date: '1990-11-19T18:35:54'
+  crc: '0xdf0e65d4'
+- name: GOLD_EGA.OVL
+  size: 120567
+  date: '1993-07-05T16:38:38'
+  crc: '0x6c53c249'
+- name: GOLD_EGA.PIC
+  size: 32000
+  date: '1990-11-20T11:25:44'
+  crc: '0xb565eeba'

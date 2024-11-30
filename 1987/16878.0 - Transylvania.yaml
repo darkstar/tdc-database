@@ -1,5 +1,6 @@
-filename: Transylvania (1987)(Polarware - Penguin Software, Inc.) [Adventure, Interactive Fiction].zip
+filename: Transylvania [f1] (1987)(Polarware - Penguin Software, Inc.) [Adventure, Interactive Fiction][!].zip
 tdc_id: '16878.0'
+parent_id: '16878.3'
 title:
   box: Transylvania
 publisher: Polarware - Penguin Software, Inc.
@@ -10,60 +11,110 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:25:46'
-  last_modified: '2019-03-01T18:25:46'
+  last_modified: '2024-10-15T17:47:05'
 type: zip
+tags:
+- KnownGood
+- Fixed: 1
+media: 360K
 commands:
   play: NOVEL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/133318/transylvania/
 files:
-- name: G0
-  size: 24572
-  date: '1987-10-19T14:31:48'
-  crc: '0x5d533fc6'
-- name: G1
-  size: 1018
-  date: '1987-10-19T15:10:44'
-  crc: '0xdb98fed3'
-- name: G2
-  size: 1018
-  date: '1987-10-19T15:10:50'
-  crc: '0x529414ac'
-- name: G3
-  size: 1018
-  date: '1992-01-27T01:50:30'
-  crc: '0x248be4b0'
-- name: G4
-  size: 1018
-  date: '1987-10-19T15:10:56'
-  crc: '0xe60e8523'
+- name: AUTOEXEC.BAT
+  size: 10
+  date: '2068-02-19T14:09:26'
+  crc: '0xc82bf96a'
+- name: CHARSET.GDA
+  size: 1024
+  date: '1985-11-21T15:09:40'
+  crc: '0x079aff94'
+- name: G1.MS0
+  size: 1274
+  date: '1980-01-01T00:07:06'
+  crc: '0x106e6e52'
+- name: G2.MS0
+  size: 1274
+  date: '1980-01-01T00:07:16'
+  crc: '0x500a5692'
+- name: G3.MS0
+  size: 1274
+  date: '1980-01-01T00:07:26'
+  crc: '0xa653b952'
+- name: G4.MS0
+  size: 1274
+  date: '1980-01-04T21:10:10'
+  crc: '0x0adca1f5'
+- name: INSTALL.BAT
+  size: 264
+  date: '1980-01-19T03:42:06'
+  crc: '0xeafb8562'
+- name: JR_GRAPH.OVR
+  size: 3524
+  date: '1980-01-01T05:09:26'
+  crc: '0xac80878a'
+- name: MA.MS1
+  size: 3840
+  date: '1985-12-03T16:25:48'
+  crc: '0x0b87b60a'
+- name: MB.MS1
+  size: 2560
+  date: '1985-12-03T16:26:24'
+  crc: '0x65db861a'
+- name: MC.MS1
+  size: 2048
+  date: '1985-12-03T16:26:42'
+  crc: '0x31bb3ee2'
+- name: MD.MS1
+  size: 2304
+  date: '1985-12-03T16:27:08'
+  crc: '0x54717451'
+- name: ME.MS1
+  size: 1536
+  date: '1985-12-03T16:28:16'
+  crc: '0x8f772415'
 - name: NOVEL.EXE
-  size: 103276
-  date: '1988-05-17T10:17:54'
-  crc: '0x870a3a9d'
-- name: OA
-  size: 7344
-  date: '1987-10-19T14:35:34'
-  crc: '0x35eecd24'
-- name: OB
-  size: 7672
-  date: '1987-10-19T14:36:00'
-  crc: '0xcf944a75'
-- name: OC
-  size: 5369
-  date: '1987-10-19T14:36:20'
-  crc: '0x92c6bb9f'
-- name: RA
-  size: 17878
-  date: '1987-10-19T14:34:12'
-  crc: '0x0624ecda'
-- name: RB
-  size: 12718
-  date: '1987-10-19T14:34:40'
-  crc: '0x33ced2a0'
-- name: RC
-  size: 7541
-  date: '1987-10-19T14:35:02'
-  crc: '0x96287533'
-- name: T0
-  size: 2636
-  date: '1987-10-19T14:31:02'
-  crc: '0x686f97e6'
+  size: 51600
+  date: '1980-01-01T05:09:08'
+  crc: '0x95ac7b42'
+- name: NOVEL.EX_
+  size: 51600
+  date: '1980-01-01T05:09:08'
+  crc: '0x03baf83a'
+- name: OA.MS1
+  size: 7936
+  date: '1980-01-01T00:12:18'
+  crc: '0x1ab17d3c'
+- name: OB.MS1
+  size: 8192
+  date: '1980-01-01T00:05:20'
+  crc: '0x494a8730'
+- name: OC.MS1
+  size: 5888
+  date: '1980-01-01T00:14:58'
+  crc: '0xa27aba67'
+- name: PC_GRAPH.OVR
+  size: 3456
+  date: '1980-01-01T05:09:18'
+  crc: '0x4919db95'
+- name: RA.MS1
+  size: 17920
+  date: '1980-01-01T00:03:54'
+  crc: '0x44dd2e28'
+- name: RB.MS1
+  size: 12544
+  date: '1980-01-01T00:10:52'
+  crc: '0xf1d235ae'
+- name: RC.MS1
+  size: 8192
+  date: '1980-01-01T00:12:26'
+  crc: '0x52c5ba44'
+- name: TR.GDA
+  size: 24832
+  date: '1985-12-03T16:31:30'
+  crc: '0x051c65f3'
+- name: TRTITLE.MS1
+  size: 3328
+  date: '1986-02-07T12:51:32'
+  crc: '0xc632153d'

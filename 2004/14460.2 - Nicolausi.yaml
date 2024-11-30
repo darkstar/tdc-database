@@ -1,14 +1,14 @@
-filename: Nicolausi v1.1 (Installer) [SW] (2004)(TOM Productions) [Action].zip
+filename: Nicolausi v1.1 (Installer) [SW] (2004)(TOM-Productions) [Action].zip
 tdc_id: '14460.2'
 title:
   screen: Nicolausi
-publisher: TOM Productions
+publisher: TOM-Productions
 year: '2004'
 genre: Action
 language: English
 date:
   added: '2019-03-02T10:56:56'
-  last_modified: '2019-03-02T10:56:56'
+  last_modified: '2024-10-29T08:39:10'
 version: '1.1'
 type: zip
 tags:
@@ -17,6 +17,8 @@ media: Download
 installer: true
 commands:
   play: i_nicoi.exe
+references:
+  mobygames: https://www.mobygames.com/game/81922/nicolausi/
 files:
 - name: i_nicoi.exe
   size: 376304

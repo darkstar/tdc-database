@@ -1,18 +1,22 @@
-filename: Taito's Super Space Invaders (1992)(Domark Software, Inc.) [Action][!].zip
+filename: Taito's Super Space Invaders r920127 (1992)(Domark Software Ltd.) [Action].zip
 tdc_id: '16422.0'
+parent_id: '16422.8'
 title:
   box: Taito's Super Space Invaders
-publisher: Domark Software, Inc.
+publisher: Domark Software Ltd.
 year: '1992'
 genre: Action
 language: English
 date:
   added: '2019-03-01T18:51:42'
-  last_modified: '2019-03-01T18:51:42'
+  last_modified: '2024-10-11T06:33:26'
+release: '920127'
 type: zip
-tags:
-- KnownGood
+media: 360K
+commands:
+  play: START.BAT
 references:
+  mobygames: https://www.mobygames.com/game/3881/taitos-super-space-invaders/
   dosid: DOS05014
   exodos: Taito's Super Space Invaders (1991).zip
 files:
@@ -108,30 +112,14 @@ files:
   size: 4995
   date: '1992-01-16T16:14:28'
   crc: '0xf2ba35f8'
-- name: ALIENSC
-  size: 10774
-  date: '1992-01-16T16:14:30'
-  crc: '0xe5f4668b'
 - name: ALIENSC.CGA
   size: 8248
   date: '1992-01-16T16:14:32'
   crc: '0x37da90ff'
-- name: ALIENSD
-  size: 6263
-  date: '1992-01-16T16:14:34'
-  crc: '0xaaf7ca19'
 - name: ANIM
   size: 258871
   date: '1992-01-25T13:34:54'
   crc: '0xd50d8ab1'
-- name: ANIMA
-  size: 115347
-  date: '1992-01-25T13:35:36'
-  crc: '0x3cc811ac'
-- name: ANIMB
-  size: 251699
-  date: '1992-01-25T13:43:52'
-  crc: '0x45aa7009'
 - name: BEEPER.BIN
   size: 6193
   date: '1991-10-21T12:22:32'
@@ -144,6 +132,10 @@ files:
   size: 4673
   date: '1992-01-16T16:15:44'
   crc: '0x65e6252a'
+- name: FIXINV.COM
+  size: 13
+  date: '1980-01-01T00:00:00'
+  crc: '0xf2cf6517'
 - name: INSTALL.EXE
   size: 19151
   date: '1992-01-27T22:58:40'
@@ -256,6 +248,10 @@ files:
   size: 2541
   date: '1992-01-16T16:16:30'
   crc: '0xbfaf0108'
+- name: START.BAT
+  size: 119
+  date: '1980-01-01T00:00:00'
+  crc: '0x7c3890d2'
 - name: STORY1
   size: 19272
   date: '1992-01-16T16:16:32'

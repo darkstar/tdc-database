@@ -1,8 +1,9 @@
-filename: Chess Housers v2.01 (Es) (1993)(Digital Dreams Multimedia) [Strategy, Puzzle].zip
+filename: Chess Housers (Es) (1993)(Digital Dreams Multimedia, Diabolic Software) [Strategy, Puzzle].zip
 tdc_id: '9268.0'
+parent_id: '9268.1'
 title:
   box: Chess Housers
-publisher: Digital Dreams Multimedia
+publisher: Digital Dreams Multimedia, Diabolic Software
 year: '1993'
 genre:
 - Strategy
@@ -10,210 +11,213 @@ genre:
 language: Spanish
 date:
   added: '2019-03-01T19:01:52'
-  last_modified: '2019-03-01T19:01:52'
-version: '2.01'
+  last_modified: '2024-10-29T10:09:24'
 type: zip
+commands:
+  play: CHESS.EXE
+  setup: SETUP.EXE
 references:
+  mobygames: https://www.mobygames.com/game/28039/chess-housers/
   dosid: DOS01357
   exodos: Chess Housers (1993).zip
 files:
 - name: A.GRF
   size: 11396
-  date: '2011-07-10T15:15:24'
+  date: '1993-09-02T12:05:34'
   crc: '0xba06feaf'
 - name: A.NFO
   size: 90
-  date: '2011-07-10T15:15:24'
+  date: '1993-08-31T18:32:38'
   crc: '0xbd04a811'
 - name: ADLIB.DEV
   size: 821
-  date: '2011-07-10T15:15:24'
+  date: '1993-09-29T20:26:02'
   crc: '0x60a0c454'
 - name: CH0486.NIV
   size: 2582
-  date: '2011-07-10T15:15:26'
+  date: '1993-10-21T18:40:04'
   crc: '0x300c4516'
 - name: CH0850.NIV
   size: 1417
-  date: '2011-07-10T15:15:24'
+  date: '1992-11-29T17:48:14'
   crc: '0x2a93d076'
 - name: CH1290.NIV
   size: 1171
-  date: '2011-07-10T15:15:24'
+  date: '1993-10-21T18:40:20'
   crc: '0xa40bc7e9'
 - name: CH1357.NIV
   size: 1144
-  date: '2011-07-10T15:15:26'
+  date: '1993-10-21T18:39:58'
   crc: '0x5b804ac4'
 - name: CH1492.NIV
   size: 1078
-  date: '2011-07-10T15:15:24'
+  date: '1993-10-21T20:36:26'
   crc: '0x3e0b70c5'
 - name: CH1971.NIV
   size: 907
-  date: '2011-07-10T15:15:26'
+  date: '1993-10-21T18:40:02'
   crc: '0x69fd3564'
 - name: CH1993.NIV
   size: 1315
-  date: '2011-07-10T15:15:26'
+  date: '1993-10-21T18:40:12'
   crc: '0x4be6acd7'
 - name: CH2715.NIV
   size: 1386
-  date: '2011-07-10T15:15:24'
+  date: '1993-10-21T18:40:08'
   crc: '0x5a8eb7fb'
 - name: CH3210.NIV
   size: 1567
-  date: '2011-07-10T15:15:24'
+  date: '1993-10-21T18:40:14'
   crc: '0xb257dc5f'
 - name: CH3333.NIV
   size: 1071
-  date: '2011-07-10T15:15:26'
+  date: '1993-10-21T18:40:00'
   crc: '0xcbc722bf'
 - name: CH3838.NIV
   size: 1207
-  date: '2011-07-10T15:15:24'
+  date: '1993-10-21T18:40:06'
   crc: '0xad682093'
 - name: CH6604.NIV
   size: 923
-  date: '2011-07-10T15:15:26'
+  date: '1993-10-21T18:40:04'
   crc: '0xed9d5401'
 - name: CH8086.NIV
   size: 1115
-  date: '2011-07-10T15:15:24'
+  date: '1993-10-21T18:39:56'
   crc: '0x3b2bbc9f'
 - name: CH8748.NIV
   size: 931
-  date: '2011-07-10T15:15:26'
+  date: '1993-10-21T18:40:18'
   crc: '0x55b9fc7c'
 - name: CHESS.EXE
   size: 91615
-  date: '2011-07-10T15:15:52'
+  date: '1996-10-15T17:27:18'
   crc: '0xbd426dd6'
 - name: CHESS.VGA
   size: 64000
-  date: '2011-07-10T15:15:16'
+  date: '1980-01-04T10:32:16'
   crc: '0x6e290de6'
 - name: CHL1.GRF
   size: 518
-  date: '2011-07-10T15:15:14'
+  date: '1980-01-04T01:49:46'
   crc: '0x01900e03'
 - name: CHL2.GRF
   size: 518
-  date: '2011-07-10T15:15:14'
+  date: '1980-01-04T01:50:28'
   crc: '0xf6bcc5e9'
 - name: CHL3.GRF
   size: 518
-  date: '2011-07-10T15:15:14'
+  date: '1980-01-04T04:42:50'
   crc: '0x9dfbe20f'
 - name: CHL4.GRF
   size: 518
-  date: '2011-07-10T15:15:14'
+  date: '1980-01-04T01:51:14'
   crc: '0x9d06d8ed'
 - name: CHL5.GRF
   size: 518
-  date: '2011-07-10T15:15:14'
+  date: '1980-01-04T09:05:32'
   crc: '0x384f87b8'
 - name: CHL6.GRF
   size: 518
-  date: '2011-07-10T15:15:14'
+  date: '1980-01-04T01:52:02'
   crc: '0x12acc500'
 - name: DEADCHES.DDI
   size: 33276
-  date: '2011-07-10T15:15:44'
+  date: '1993-12-01T15:50:38'
   crc: '0x307d003a'
 - name: DVI.GRF
   size: 49658
-  date: '2011-07-10T15:15:28'
+  date: '1993-11-03T20:38:02'
   crc: '0xfd3187f9'
 - name: EGAVGA.BGI
   size: 5554
-  date: '2011-07-10T15:15:24'
+  date: '1991-11-11T03:00:00'
   crc: '0x9b14ff3b'
 - name: FASE1.DDI
   size: 133130
-  date: '2011-07-10T15:15:32'
+  date: '1993-11-14T14:04:38'
   crc: '0xdd0dd780'
 - name: FASE2.DDI
   size: 127316
-  date: '2011-07-10T15:15:44'
+  date: '1993-11-14T14:06:14'
   crc: '0x7b1de464'
 - name: FINAL.VGA
   size: 64000
-  date: '2011-07-10T15:15:20'
+  date: '1980-01-06T23:50:58'
   crc: '0x7039a36c'
 - name: HALL.VGA
   size: 64000
-  date: '2011-07-10T15:15:22'
+  date: '1992-11-29T18:25:38'
   crc: '0x2b031b34'
 - name: I.GRF
   size: 5570
-  date: '2011-07-10T15:15:24'
+  date: '1993-09-20T21:17:52'
   crc: '0x67d8e3ce'
 - name: I.NFO
   size: 111
-  date: '2011-07-10T15:15:24'
+  date: '1993-09-20T21:08:20'
   crc: '0x95f716b6'
 - name: LPT1_DAC.DEV
   size: 705
-  date: '2011-07-10T15:15:24'
+  date: '1993-09-29T20:26:26'
   crc: '0xca2e049c'
 - name: LPT_STER.DEV
   size: 750
-  date: '2011-07-10T15:15:24'
+  date: '1993-09-29T20:25:56'
   crc: '0x77d9fd16'
 - name: MAPACHES.DDI
   size: 14234
-  date: '2011-07-10T15:15:34'
+  date: '1993-11-14T14:47:52'
   crc: '0x77db5bbf'
 - name: MARCOLL.VGA
   size: 64000
-  date: '2011-07-10T15:15:26'
+  date: '1993-10-21T18:19:10'
   crc: '0x0e87e91d'
 - name: MENU.DDI
   size: 134574
-  date: '2011-07-10T15:15:38'
+  date: '1993-11-14T14:06:40'
   crc: '0xc4701bb0'
 - name: MENU.VGA
   size: 64000
-  date: '2011-07-10T15:15:20'
+  date: '1980-01-04T10:05:04'
   crc: '0x2e364fa2'
 - name: N.GRF
   size: 5570
-  date: '2011-07-10T15:15:24'
+  date: '1993-09-20T21:08:12'
   crc: '0x4543102f'
 - name: N.NFO
   size: 111
-  date: '2011-07-10T15:15:24'
+  date: '1993-09-20T21:08:20'
   crc: '0x95f716b6'
 - name: SB_1_5.DEV
   size: 1625
-  date: '2011-07-10T15:15:24'
+  date: '1993-09-29T20:26:20'
   crc: '0xdd1130eb'
 - name: SB_ASP.DEV
   size: 1652
-  date: '2011-07-10T15:15:24'
+  date: '1993-09-29T20:26:14'
   crc: '0x10b47396'
 - name: SB_PRO.DEV
   size: 1785
-  date: '2011-07-10T15:15:24'
+  date: '1993-10-03T15:13:26'
   crc: '0xe8843079'
 - name: SETUP.CFG
   size: 2
-  date: '2011-07-10T15:16:14'
-  crc: '0x9791d582'
+  date: '1996-10-15T17:27:38'
+  crc: '0xc1cb7204'
 - name: SETUP.EXE
   size: 44345
-  date: '2011-07-10T15:15:48'
+  date: '1996-10-15T17:27:26'
   crc: '0x5c4fb26b'
 - name: SPEAKER.DEV
   size: 1054
-  date: '2011-07-10T15:15:24'
+  date: '1993-09-29T20:25:50'
   crc: '0xe37a7ad3'
 - name: SVGA256.BGI
   size: 5381
-  date: '2011-07-10T15:15:24'
+  date: '1991-08-28T22:50:38'
   crc: '0x1714556c'
 - name: TIMER_0.DEV
   size: 985
-  date: '2011-07-10T15:15:24'
+  date: '1993-09-29T20:25:46'
   crc: '0x8a67c70e'

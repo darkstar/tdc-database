@@ -11,25 +11,29 @@ date:
   last_modified: '2019-03-01T18:25:16'
 type: zip
 files:
-- name: CARGRAF.ASM
-  size: 4709
-  date: '1980-01-01T00:14:54'
-  crc: '0xb32f5640'
 - name: CARGRAF.COM
   size: 453
-  date: '1980-01-01T00:15:12'
+  date: '1980-01-01T00:00:00'
   crc: '0x694cb6fd'
 - name: QUI1.DNM
   size: 61689
   date: '1987-12-29T15:27:38'
   crc: '0xf6f7ef18'
+- name: QUI1.DN_
+  size: 61689
+  date: '2016-05-06T22:21:00'
+  crc: '0xf745bfb8'
 - name: QUI2.DNM
   size: 56773
   date: '1987-12-03T11:25:52'
   crc: '0x1ea061ef'
+- name: QUI2.DN_
+  size: 56773
+  date: '2016-05-06T22:21:00'
+  crc: '0x3886fd58'
 - name: QUIJOTE.BAT
   size: 19
-  date: '1980-01-01T00:04:10'
+  date: '1980-01-01T00:00:00'
   crc: '0xa65a071a'
 - name: QUIJOTE.GRF
   size: 143360

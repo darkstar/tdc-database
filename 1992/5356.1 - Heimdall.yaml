@@ -1,4 +1,4 @@
-filename: Heimdall (Installer) (En)(De)(Fr)(It)(Es) (1992)(Virgin Games, Inc.) [Adventure, Role-Playing (RPG)].zip
+filename: Heimdall (Installer) (En)(De)(Fr)(It)(Es) [a1] (1992)(Virgin Games, Inc.) [Adventure, Role-Playing (RPG)].zip
 tdc_id: '5356.1'
 title:
   box: Heimdall
@@ -15,11 +15,15 @@ language:
 - German
 date:
   added: '2019-03-01T18:45:50'
-  last_modified: '2022-11-21T08:41:34'
+  last_modified: '2024-10-08T08:56:19'
 type: zip
+tags:
+- Alternate: 1
 installer: true
 commands:
   play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/2072/heimdall/
 files:
 - name: HEIMDALL.1
   size: 1269210

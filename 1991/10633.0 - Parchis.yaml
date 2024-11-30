@@ -1,15 +1,17 @@
 filename: Parchis (Es) (1991)(Ediciones Manali, S.A.) [Strategy].zip
 tdc_id: '10633.0'
 title:
-  screen: Parchis
+  box: Parchis
 publisher: Ediciones Manali, S.A.
 year: '1991'
 genre: Strategy
 language: Spanish
 date:
   added: '2019-03-01T18:37:20'
-  last_modified: '2019-03-01T18:37:20'
+  last_modified: '2024-10-19T07:23:45'
 type: zip
+commands:
+  play: PARCHIS.BAT
 files:
 - name: DESAGDTB.BIN
   size: 396

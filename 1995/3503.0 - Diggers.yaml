@@ -1,21 +1,24 @@
-filename: Diggers (demo) v1.95 [SW] (Installer) (1995)(Millennium Media Group) [Strategy].zip
+filename: Diggers v1.95 (demo) (Installer) [SW] (1995)(Millennium Media Group) [Strategy].zip
 tdc_id: '3503.0'
 title:
   screen: Diggers
-  qualifier: demo
 publisher: Millennium Media Group
 year: '1995'
 genre: Strategy
 language: English
 date:
   added: '2019-02-04T19:38:02'
-  last_modified: '2019-02-04T19:38:02'
+  last_modified: '2024-11-01T09:38:55'
 version: '1.95'
 type: zip
 tags:
 - Shareware
 installer: true
 demo: true
+commands:
+  play: DIGGERS.EXE
+references:
+  mobygames: https://www.mobygames.com/game/27354/diggers/
 files:
 - name: 1.TXT
   size: 1650

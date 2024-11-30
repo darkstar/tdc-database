@@ -1,5 +1,6 @@
-filename: California Games II v1.2.1 (1991)(Epyx, Inc.) [Sports].zip
+filename: California Games II v1.2.1 (1991)(Epyx, Inc.) [Sports][!].zip
 tdc_id: '8900.3'
+parent_id: '8900.4'
 title:
   box: California Games II
 publisher: Epyx, Inc.
@@ -8,10 +9,16 @@ genre: Sports
 language: English
 date:
   added: '2019-03-01T18:35:08'
-  last_modified: '2019-03-01T18:35:08'
+  last_modified: '2024-10-09T14:42:17'
 version: 1.2.1
 type: zip
+tags:
+- KnownGood
+media: 720K
+commands:
+  play: CGII.EXE
 references:
+  mobygames: https://www.mobygames.com/game/1826/california-games-ii/
   dosid: DOS01233
   exodos: California Games II (1990).zip
 files:

@@ -1,0 +1,37 @@
+filename: Game of Robot Junior, The v1.00B (De) [FW] (1991)(TOM-Productions) [Action].zip
+tdc_id: '6484.0'
+title:
+  screen: The Game of Robot Junior
+publisher: TOM-Productions
+year: '1991'
+genre: Action
+language: German
+date:
+  added: '2019-03-01T18:37:34'
+  last_modified: '2024-10-29T09:00:32'
+version: 1.00B
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: ROBJUN.EXE
+references:
+  mobygames: https://www.mobygames.com/game/25866/robot-junior/
+files:
+- name: ITEMJG.CRN
+  size: 13141
+  date: '1989-01-08T12:55:58'
+  crc: '0x8fda6b6d'
+- name: ROBJUN.CRN
+  size: 979
+  date: '1989-01-08T12:56:30'
+  crc: '0x87282a97'
+- name: ROBJUN.EXE
+  size: 81394
+  date: '1989-01-08T14:21:26'
+  crc: '0xe1cfbe34'
+- name: ROBJUN.SCN
+  size: 13540
+  date: '1991-01-08T12:00:00'
+  crc: '0x87f79948'

@@ -1,0 +1,58 @@
+filename: Chess Housers (Installer) (Es) (1994)(Digital Dreams Multimedia, IBM, Diabolic Software) [Strategy, Puzzle].zip
+tdc_id: '9268.3'
+parent_id: '9268.4'
+title:
+  box: Chess Housers
+publisher: Digital Dreams Multimedia, IBM, Diabolic Software
+year: '1994'
+genre:
+- Strategy
+- Puzzle
+language: Spanish
+date:
+  added: '2024-10-29T15:19:39'
+  last_modified: '2024-10-29T15:19:39'
+type: zip
+media: 720K
+installer: true
+commands:
+  play: INSTALAR.EXE
+references:
+  mobygames: https://www.mobygames.com/game/65721/chess-housers/
+files:
+- name: A.GRF
+  size: 11396
+  date: '1993-09-02T12:05:34'
+  crc: '0xba06feaf'
+- name: A.NFO
+  size: 90
+  date: '1993-08-31T18:32:38'
+  crc: '0xbd04a811'
+- name: CHESSHOU.EXE
+  size: 476814
+  date: '1994-04-04T22:57:32'
+  crc: '0xa94bca8c'
+- name: EGAVGA.BGI
+  size: 5554
+  date: '1991-11-11T03:00:00'
+  crc: '0x9b14ff3b'
+- name: I.GRF
+  size: 5570
+  date: '1993-09-20T21:17:52'
+  crc: '0x67d8e3ce'
+- name: I.NFO
+  size: 111
+  date: '1993-09-20T21:08:20'
+  crc: '0x95f716b6'
+- name: INSTALAR.EXE
+  size: 75018
+  date: '1994-05-26T12:18:12'
+  crc: '0x56059033'
+- name: N.GRF
+  size: 5570
+  date: '1993-09-20T21:08:12'
+  crc: '0x4543102f'
+- name: N.NFO
+  size: 111
+  date: '1993-09-20T21:08:20'
+  crc: '0x95f716b6'

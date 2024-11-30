@@ -1,0 +1,32 @@
+filename: Drakkhen (CGA, EGA, HGA) (1990)(Data East USA, Inc., Infogrames Europe SA) [IMA][720k][!].zip
+tdc_id: '9458.5'
+parent_id: '9458.4'
+title:
+  box: Drakkhen
+  qualifier: CGA, EGA, HGA
+publisher: Data East USA, Inc., Infogrames Europe SA
+year: '1990'
+genre: IMA
+language: English
+date:
+  added: '2023-03-15T12:33:14'
+  last_modified: '2024-11-14T17:23:51'
+type: IMA
+tags:
+- KnownGood
+media: 720K
+references:
+  mobygames: https://www.mobygames.com/game/1969/drakkhen/
+files:
+- name: Disk1.ima
+  size: 737280
+  date: '2023-03-15T09:58:30'
+  crc: '0x262ad672'
+- name: Disk2.ima
+  size: 737280
+  date: '2023-03-15T09:58:40'
+  crc: '0xddb95f4e'
+- name: Disk3.ima
+  size: 737280
+  date: '2023-03-15T09:58:52'
+  crc: '0x97d7c78e'

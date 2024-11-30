@@ -1,5 +1,6 @@
-filename: Football Glory v1.1a (Installer) (1995)(Black Legend Ltd.) [Sports].zip
+filename: Football Glory v1.1a (Installer) (1995)(Black Legend Ltd.) [Sports][!].zip
 tdc_id: '13713.2'
+parent_id: '13713.11'
 title:
   box: Football Glory
 publisher: Black Legend Ltd.
@@ -8,12 +9,17 @@ genre: Sports
 language: English
 date:
   added: '2023-01-19T10:52:48'
-  last_modified: '2023-01-19T10:52:48'
+  last_modified: '2024-10-03T14:18:53'
 version: 1.1a
 type: zip
+tags:
+- KnownGood
+media: 1.44M
 installer: true
 commands:
   play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/2919/football-glory/
 files:
 - name: AUTOEXEC.BAT
   size: 62

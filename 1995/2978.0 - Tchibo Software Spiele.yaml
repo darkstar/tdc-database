@@ -1,0 +1,30 @@
+filename: Tchibo Software Spiele v1.10 (Installer) (De) (1995)(bhv Verlags GmbH, Mad Data) [Compilation].zip
+tdc_id: '2978.0'
+title:
+  box: Tchibo Software Spiele
+publisher: bhv Verlags GmbH, Mad Data
+year: '1995'
+genre: Compilation
+language: German
+date:
+  added: '2024-10-31T06:42:11'
+  last_modified: '2024-10-31T06:42:11'
+version: '1.10'
+type: zip
+installer: true
+commands:
+  play: INSTALL.BAT
+references:
+  mobygames: https://www.mobygames.com/game/113117/tchibo-software-spiele/
+files:
+- name: INSTALL.BAT
+  size: 472
+  date: '1995-07-24T12:09:04'
+  crc: '0x433be65d'
+- name: INSTALL_.EXE
+  size: 1433131
+  date: '1995-08-08T14:22:06'
+  crc: '0x3b8a242a'
+- name: MAD DATA
+  size: 0
+  date: '1995-01-04T22:18:40'

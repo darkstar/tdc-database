@@ -1,4 +1,4 @@
-filename: Tetris Deluxe (1993)(Todd S. Lehman) [Action, Strategy].zip
+filename: Tetris Deluxe (1993)(Todd S. Lehman) [Action, Strategy, Puzzle].zip
 tdc_id: '2856.0'
 title:
   screen: Tetris Deluxe
@@ -7,11 +7,14 @@ year: '1993'
 genre:
 - Action
 - Strategy
+- Puzzle
 language: English
 date:
   added: '2019-03-01T21:09:46'
-  last_modified: '2019-03-01T21:09:46'
+  last_modified: '2024-10-27T11:16:40'
 type: zip
+commands:
+  play: TETRIS.BAT
 files:
 - name: MODE_EGA.COM
   size: 18

@@ -1,5 +1,6 @@
-filename: Street Fighter II (1993)(U.S. Gold Ltd.) [IMA][1440k][!].zip
+filename: Street Fighter II r930908 (1993)(U.S. Gold Ltd.) [IMA][1440k][!].zip
 tdc_id: '15647.3'
+parent_id: '15647.4'
 title:
   box: Street Fighter II
 publisher: U.S. Gold Ltd.
@@ -8,11 +9,14 @@ genre: IMA
 language: English
 date:
   added: '2023-02-27T10:35:15'
-  last_modified: '2023-02-27T10:35:15'
+  last_modified: '2024-10-08T18:31:10'
+release: '930908'
 type: IMA
 tags:
 - KnownGood
 media: 1.44M
+references:
+  mobygames: https://www.mobygames.com/game/6239/street-fighter-ii/
 files:
 - name: Disk1.ima
   size: 1474560

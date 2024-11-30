@@ -1,0 +1,38 @@
+filename: Solo (Es) (1994)(Digital Dreams Multimedia, Opera Soft S.A.) [Action].zip
+tdc_id: '6846.0'
+parent_id: '10553.0'
+parent_id_valid: true
+title:
+  box: Solo
+publisher: Digital Dreams Multimedia, Opera Soft S.A.
+year: '1994'
+genre: Action
+language: Spanish
+date:
+  added: '2019-03-01T18:29:00'
+  last_modified: '2024-10-27T17:40:36'
+type: zip
+media: CD-ROM
+commands:
+  play: SOLO.EXE
+references:
+  mobygames: https://www.mobygames.com/game/34101/solo/
+  dosid: DOS04666
+  exodos: Solo (1989).zip
+files:
+- name: SOLO.CTR
+  size: 745
+  date: '1994-11-29T19:18:46'
+  crc: '0xb3b48368'
+- name: SOLO.EXE
+  size: 2283
+  date: '1992-11-28T12:55:18'
+  crc: '0x413a8e8a'
+- name: SOLO.OVL
+  size: 45496
+  date: '1989-05-15T18:29:40'
+  crc: '0x5a03dfbd'
+- name: SOLO.PIC
+  size: 16384
+  date: '1989-05-15T18:35:52'
+  crc: '0x35976d78'

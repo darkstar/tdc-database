@@ -1,18 +1,21 @@
-filename: Flashy Cars (1992)(Goldy Games) [Action, Strategy, Puzzle].zip
+filename: Flashy Cars (1992)(Goldy Games, Dinamic Software) [Action, Strategy, Puzzle, Racing - Driving].zip
 tdc_id: '13644.0'
 title:
-  screen: Flashy Cars
-publisher: Goldy Games
+  box: Flashy Cars
+publisher: Goldy Games, Dinamic Software
 year: '1992'
 genre:
 - Action
 - Strategy
 - Puzzle
+- Racing - Driving
 language: English
 date:
   added: '2019-03-01T18:44:48'
-  last_modified: '2019-03-01T18:44:48'
+  last_modified: '2024-11-15T17:23:46'
 type: zip
+commands:
+  play: FLASHY-C.EXE
 references:
   dosid: DOS15807
   exodos: Turbo Flashy Cars (1992).zip

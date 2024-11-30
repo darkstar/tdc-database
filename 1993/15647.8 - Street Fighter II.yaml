@@ -1,0 +1,72 @@
+filename: Street Fighter II r930908 (1993)(U.S. Gold Ltd.) [Action][!].zip
+tdc_id: '15647.8'
+parent_id: '15647.3'
+title:
+  box: Street Fighter II
+publisher: U.S. Gold Ltd.
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2024-10-08T18:31:55'
+  last_modified: '2024-10-08T18:31:55'
+release: '930908'
+type: zip
+tags:
+- KnownGood
+media: 1.44M
+commands:
+  play: SF2.EXE
+references:
+  mobygames: https://www.mobygames.com/game/6239/street-fighter-ii/
+files:
+- name: BACKDROP.SF2
+  size: 774204
+  date: '1993-09-09T16:32:08'
+  crc: '0x287f24a0'
+- name: EXTRAS.SF2
+  size: 201
+  date: '1993-09-09T16:31:06'
+  crc: '0xcc82e4ef'
+- name: GENERAL.SF2
+  size: 643620
+  date: '1993-09-09T16:31:34'
+  crc: '0x61c8ba48'
+- name: INDEX.SF2
+  size: 63861
+  date: '1993-09-09T16:32:18'
+  crc: '0xec9cee7a'
+- name: INSTALL.EXE
+  size: 3604
+  date: '1993-08-20T10:29:40'
+  crc: '0x7d73a661'
+- name: SBDRIVER.DRV
+  size: 3910
+  date: '1993-09-09T16:31:06'
+  crc: '0x0a4ee047'
+- name: SF2.EXE
+  size: 79948
+  date: '1993-09-09T16:33:26'
+  crc: '0x6602a35e'
+- name: SF2.EX_
+  size: 79948
+  date: '1993-09-09T16:33:26'
+  crc: '0xe6203986'
+- name: SF2.PIF
+  size: 545
+  date: '1993-09-09T16:31:06'
+  crc: '0xabbf0689'
+- name: SF2DISK1
+  size: 0
+  date: '1993-09-09T15:30:52'
+- name: SF2DISK2
+  size: 0
+  date: '1993-09-09T15:32:54'
+- name: SPRITE1.SF2
+  size: 1297466
+  date: '1993-09-09T16:33:14'
+  crc: '0x833c9942'
+- name: SPRITE2.SF2
+  size: 1302349
+  date: '1993-09-09T16:34:22'
+  crc: '0xdca64394'

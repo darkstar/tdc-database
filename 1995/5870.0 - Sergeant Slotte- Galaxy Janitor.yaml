@@ -1,8 +1,10 @@
-filename: Sergeant Slotte- Galaxy Janitor (De)(En) (1995)(Mad Data) [Action].zip
+filename: Sergeant Slotte- Galaxy Janitor (De)(En) (1995)(bhv Verlags GmbH, Mad Data) [Action].zip
 tdc_id: '5870.0'
+parent_id: '2978.0'
+parent_id_valid: true
 title:
-  screen: 'Sergeant Slotte: Galaxy Janitor'
-publisher: Mad Data
+  box: 'Sergeant Slotte: Galaxy Janitor'
+publisher: bhv Verlags GmbH, Mad Data
 year: '1995'
 genre: Action
 language:
@@ -10,18 +12,21 @@ language:
 - German
 date:
   added: '2019-03-02T09:02:20'
-  last_modified: '2019-03-02T09:02:20'
+  last_modified: '2024-10-31T14:10:57'
 type: zip
+commands:
+  play: SLOTTE.EXE
+  setup: SETUP.EXE
 files:
 - name: SETUP.EXE
   size: 34048
-  date: '1995-07-19T08:15:56'
+  date: '1995-07-19T07:15:56'
   crc: '0x22248d49'
 - name: SLOTTE.DAT
   size: 532642
-  date: '1995-07-23T19:11:38'
+  date: '1995-07-23T18:11:38'
   crc: '0xf10c4ad9'
 - name: SLOTTE.EXE
   size: 88926
-  date: '1995-08-02T21:40:44'
+  date: '1995-08-02T20:40:44'
   crc: '0xb0131e94'

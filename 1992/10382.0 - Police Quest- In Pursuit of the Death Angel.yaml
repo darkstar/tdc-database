@@ -1,4 +1,4 @@
-filename: Police Quest- In Pursuit of the Death Angel (SCI) v2.0 (1992)(Sierra On-Line, Inc.) [Adventure].zip
+filename: Police Quest- In Pursuit of the Death Angel v2.0 (SCI) (1992)(Sierra On-Line, Inc.) [Adventure].zip
 tdc_id: '10382.0'
 title:
   box: 'Police Quest: In Pursuit of the Death Angel'
@@ -9,10 +9,14 @@ genre: Adventure
 language: English
 date:
   added: '2019-08-21T20:34:24'
-  last_modified: '2019-08-21T20:34:24'
+  last_modified: '2024-11-06T01:28:17'
 version: '2.0'
 type: zip
+commands:
+  play: PQ.BAT
+  setup: INSTALL.EXE
 references:
+  mobygames: https://www.mobygames.com/game/2031/police-quest-in-pursuit-of-the-death-angel/
   dosid: DOS04062
   exodos: Police Quest 1 - In Pursuit of the Death Angel VGA (1990).zip
 files:

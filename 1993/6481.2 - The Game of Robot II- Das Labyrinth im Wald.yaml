@@ -1,0 +1,30 @@
+filename: Game of Robot II, The- Das Labyrinth im Wald v2.4 (Installer) (De) [SW] (1993)(TOM-Productions) [Action].zip
+tdc_id: '6481.2'
+title:
+  screen: 'The Game of Robot II: Das Labyrinth im Wald'
+publisher: TOM-Productions
+year: '1993'
+genre: Action
+language: German
+date:
+  added: '2019-03-01T19:18:04'
+  last_modified: '2024-10-29T09:34:32'
+version: '2.4'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/25867/robot-ii-das-labyrinth-im-wald/
+files:
+- name: INSTALL.EXE
+  size: 21982
+  date: '1993-04-16T18:44:54'
+  crc: '0x05edb0d9'
+- name: ROBOT2.ARJ
+  size: 269518
+  date: '1993-04-30T15:50:26'
+  crc: '0x853d95a0'

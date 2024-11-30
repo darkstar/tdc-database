@@ -1,5 +1,6 @@
-filename: Tracker (1987)(Rainbird Software) [Action].zip
+filename: Tracker v1.00 (1987)(Rainbird Software) [Action][!].zip
 tdc_id: '16857.0'
+parent_id: '16857.2'
 title:
   box: Tracker
 publisher: Rainbird Software
@@ -8,9 +9,16 @@ genre: Action
 language: English
 date:
   added: '2019-03-01T18:25:46'
-  last_modified: '2019-03-01T18:25:46'
+  last_modified: '2024-10-13T10:39:38'
+version: '1.00'
 type: zip
+tags:
+- KnownGood
+media: 360K
+commands:
+  play: TRACKER.BAT
 references:
+  mobygames: https://www.mobygames.com/game/1236/tracker/
   dosid: DOS05237
   exodos: Tracker (1987).zip
 files:
@@ -33,7 +41,7 @@ files:
 - name: SH1
   size: 29026
   date: '1987-05-11T18:11:38'
-  crc: '0x5a2ac736'
+  crc: '0xf9af17e6'
 - name: SH2
   size: 3496
   date: '1987-05-11T18:11:38'
@@ -52,5 +60,9 @@ files:
   crc: '0xbb1ce42e'
 - name: TRCKCODE.EXE
   size: 205392
-  date: '1997-04-24T17:04:06'
+  date: '1987-08-07T15:22:30'
   crc: '0x532c4031'
+- name: TRCKCODE.EX_
+  size: 205392
+  date: '1987-08-07T15:22:30'
+  crc: '0x8c506f0e'

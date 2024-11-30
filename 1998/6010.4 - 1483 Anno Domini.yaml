@@ -1,18 +1,24 @@
-filename: 1483 Anno Domini (De) (1998)(SoftKey International, Inc.) [ISO].zip
+filename: 1483 Anno Domini (De) (1998)(SoftKey International, Inc., TLC Tewi Verlag GmbH, The Jumping Bird Press) [bin-cue].zip
 tdc_id: '6010.4'
 title:
   box: 1483 Anno Domini
-publisher: SoftKey International, Inc.
+publisher: SoftKey International, Inc., TLC Tewi Verlag GmbH, The Jumping Bird Press
 year: '1998'
-genre: ISO
+genre: bin-cue
 language: German
 date:
   added: '2023-02-23T14:43:09'
-  last_modified: '2023-02-23T14:43:09'
-type: ISO
+  last_modified: '2024-10-26T17:10:32'
+type: bin-cue
 media: CD-ROM
+references:
+  mobygames: https://www.mobygames.com/game/222850/1483-anno-domini/
 files:
-- name: 1483.iso
+- name: 1483.bin
   size: 71042160
-  date: '2013-06-19T22:38:20'
+  date: '2024-09-25T21:07:20'
   crc: '0x2c2f2dd4'
+- name: 1483.cue
+  size: 157
+  date: '2024-09-25T21:08:06'
+  crc: '0x1f031871'

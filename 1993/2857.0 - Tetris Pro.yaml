@@ -1,36 +1,38 @@
-filename: Tetris Pro [SW] (1993)(Trial) [Action, Strategy].zip
+filename: Tetris Pro [h1] (1993)(VOBIS Amsterdam II) [Action, Strategy, Puzzle].zip
 tdc_id: '2857.0'
 title:
-  screen: Tetris Pro
-publisher: Trial
+  box: Tetris Pro
+publisher: VOBIS Amsterdam II
 year: '1993'
 genre:
 - Action
 - Strategy
+- Puzzle
 language: English
 date:
   added: '2017-03-18T21:47:06'
-  last_modified: '2017-03-18T21:47:06'
+  last_modified: '2024-10-27T11:14:37'
 type: zip
 tags:
-- Shareware
-media: Download
+- Hack: 1
+commands:
+  play: TETRISP.EXE
+  setup: SETUP.EXE
 references:
   dosid: DOS15775
   exodos: Tetris Pro (1994).zip
 files:
-- name: FILE_ID.DIZ
-  size: 531
-  date: '1993-10-22T12:00:00'
-  crc: '0x081ec286'
+- name: DDISKS\
+  size: 0
+  date: '2024-10-27T11:12:30'
+- name: DDISKS\NATURE.DD
+  size: 1895249
+  date: '1993-10-20T12:00:00'
+  crc: '0x22b588db'
 - name: SETUP.EXE
   size: 33190
   date: '1993-10-22T12:00:00'
   crc: '0xe702bcc6'
-- name: TETRISP.CFG
-  size: 384
-  date: '2005-02-11T01:30:14'
-  crc: '0xf0804ccd'
 - name: TETRISP.DAT
   size: 203275
   date: '1993-10-22T12:00:00'
@@ -43,19 +45,11 @@ files:
   size: 203356
   date: '1993-10-22T12:00:00'
   crc: '0x37fc16be'
-- name: TRIAL.NFO
-  size: 1755
-  date: '1993-10-22T12:00:00'
-  crc: '0x758fad75'
 - name: VDRIVERS.DOC
   size: 1028
   date: '1993-10-22T12:00:00'
   crc: '0x6d8b7a67'
-- name: VESA.INF
-  size: 2350
-  date: '2006-03-01T14:47:08'
-  crc: '0x693825e5'
-- name: VESA.ZIP
+- name: VDRIVERS.ZIP
   size: 189004
   date: '1993-10-22T12:00:00'
   crc: '0x2f656181'
@@ -67,7 +61,3 @@ files:
   size: 15808
   date: '1993-10-22T12:00:00'
   crc: '0x7b022eea'
-- name: ddisks\NATURE.DD
-  size: 1895249
-  date: '1993-10-20T12:00:00'
-  crc: '0x22b588db'

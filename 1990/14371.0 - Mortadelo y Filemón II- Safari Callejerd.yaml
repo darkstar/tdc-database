@@ -1,0 +1,34 @@
+filename: Mortadelo y Filemón II- Safari Callejerd (CGA) (Es) (1990)(Dro Soft) [Action].zip
+tdc_id: '14371.0'
+title:
+  box: 'Mortadelo y Filemón II: Safari Callejerd'
+  qualifier: CGA
+publisher: Dro Soft
+year: '1990'
+genre: Action
+language: Spanish
+date:
+  added: '2019-03-01T18:28:26'
+  last_modified: '2024-11-15T18:24:54'
+type: zip
+commands:
+  play: MRT.BAT
+references:
+  mobygames: https://www.mobygames.com/game/14409/mortadelo-y-filemon-ii-safari-callejero/
+files:
+- name: FASE1CGA.EXE
+  size: 50353
+  date: '1990-11-01T13:40:58'
+  crc: '0xe59d9abc'
+- name: FASE2CGA.EXE
+  size: 52129
+  date: '1990-11-01T13:39:42'
+  crc: '0xad176449'
+- name: MENUCGA.EXE
+  size: 18143
+  date: '1990-11-12T14:08:56'
+  crc: '0xeb055051'
+- name: MRT.BAT
+  size: 148
+  date: '1991-03-25T16:39:20'
+  crc: '0x148355f7'

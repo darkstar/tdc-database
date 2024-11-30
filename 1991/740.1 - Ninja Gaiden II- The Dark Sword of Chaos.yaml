@@ -1,20 +1,24 @@
-filename: Ninja Gaiden II- The Dark Sword of Chaos (1991)(Tecmo, Ltd.) [IMA][720k][!].zip
+filename: Ninja Gaiden II- The Dark Sword of Chaos (1991)(GameTek, Inc.) [IMA][720k].zip
 tdc_id: '740.1'
 title:
   box: 'Ninja Gaiden II: The Dark Sword of Chaos'
-publisher: Tecmo, Ltd.
+publisher: GameTek, Inc.
 year: '1991'
 genre: IMA
 language: English
 date:
   added: '2023-02-26T18:02:38'
-  last_modified: '2023-02-26T18:02:38'
+  last_modified: '2024-11-20T07:33:02'
 type: IMA
-tags:
-- KnownGood
 media: 720K
+references:
+  mobygames: https://www.mobygames.com/game/2466/ninja-gaiden-ii-the-dark-sword-of-chaos/
 files:
-- name: disk1.ima
+- name: Ega_Tandy.ima
+  size: 737280
+  date: '2024-11-14T11:42:18'
+  crc: '0xda53e4a8'
+- name: Vga_Mcga.ima
   size: 737280
   date: '2015-06-17T04:30:04'
   crc: '0xf69da21d'

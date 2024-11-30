@@ -1,0 +1,33 @@
+filename: Abadia del Crímen 256 colores, La (Es) (2000)(Antonio Giner Gonzalez, Opera Soft S.A.) [Adventure].zip
+tdc_id: '17685.0'
+title:
+  screen: La Abadia del Crímen
+  qualifier: 256 colores
+publisher: Antonio Giner Gonzalez, Opera Soft S.A.
+year: '2000'
+genre: Adventure
+language: Spanish
+date:
+  added: '2019-03-02T10:47:26'
+  last_modified: '2024-11-23T08:51:01'
+type: zip
+media: Download
+commands:
+  play: crimen.exe
+references:
+  mobygames: https://www.mobygames.com/game/14113/la-abadia-del-crimen/
+  dosid: DOS08026
+  exodos: Abadia del Crimen, La (2000).zip
+files:
+- name: crimen.exe
+  size: 7509
+  date: '2000-12-23T05:58:52'
+  crc: '0x49281b4e'
+- name: imagen
+  size: 159072
+  date: '2000-12-22T23:57:12'
+  crc: '0xc4f595a3'
+- name: leeme.txt
+  size: 2523
+  date: '2011-05-02T12:48:58'
+  crc: '0x206b2a23'

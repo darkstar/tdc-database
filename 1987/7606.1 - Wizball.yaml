@@ -1,5 +1,6 @@
-filename: Wizball (1987)(Ocean Software Ltd.) [Action][!].img.zip
+filename: Wizball (1987)(Ocean Software Ltd.) [Action].img.zip
 tdc_id: '7606.1'
+parent_id: '7606.3'
 title:
   box: Wizball
 publisher: Ocean Software Ltd.
@@ -8,10 +9,11 @@ genre: Action
 language: English
 date:
   added: '2019-12-29T13:43:04'
-  last_modified: '2019-12-29T13:43:04'
+  last_modified: '2024-10-15T13:56:20'
 type: zip
-tags:
-- KnownGood
+media: 360K
+references:
+  mobygames: https://www.mobygames.com/game/526/wizball/
 notes: .img
 files:
 - name: WIZBALL.IMG

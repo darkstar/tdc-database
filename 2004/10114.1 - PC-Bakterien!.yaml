@@ -1,0 +1,28 @@
+filename: PC-Bakterien! v1.5 (Installer) (De) [SW] (2004)(TOM-Productions) [Action, Puzzle].zip
+tdc_id: '10114.1'
+title:
+  screen: PC-Bakterien!
+publisher: TOM-Productions
+year: '2004'
+genre:
+- Action
+- Puzzle
+language: German
+date:
+  added: '2019-03-02T10:56:56'
+  last_modified: '2024-10-29T08:53:30'
+version: '1.5'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: i_pcbg.exe
+references:
+  mobygames: https://www.mobygames.com/game/45688/pc-bakterien/
+files:
+- name: i_pcbg.exe
+  size: 695984
+  date: '2010-07-17T17:29:34'
+  crc: '0x9d0746e1'

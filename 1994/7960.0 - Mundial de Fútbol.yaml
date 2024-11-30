@@ -1,0 +1,58 @@
+filename: Mundial de Fútbol (Es) (1994)(Digital Dreams Multimedia, Opera Soft S.A.) [Sports].zip
+tdc_id: '7960.0'
+parent_id: '10553.0'
+parent_id_valid: true
+title:
+  box: Mundial de Fútbol
+publisher: Digital Dreams Multimedia, Opera Soft S.A.
+year: '1994'
+genre: Sports
+language: Spanish
+date:
+  added: '2019-03-01T18:33:18'
+  last_modified: '2024-10-27T17:55:07'
+type: zip
+media: CD-ROM
+commands:
+  play: FUTBOL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/20078/mundial-de-futbol/
+  dosid: DOS08021
+  exodos: Mundial de Futbol (1990).zip
+files:
+- name: FUTBOL.CTR
+  size: 350
+  date: '1994-11-29T23:12:30'
+  crc: '0xb0f65380'
+- name: FUTBOL.EXE
+  size: 2948
+  date: '1992-12-02T13:45:30'
+  crc: '0x265baa9f'
+- name: FUT_CGA.PIC
+  size: 16384
+  date: '1990-07-03T15:26:34'
+  crc: '0x0a20d8e0'
+- name: FUT_CGA1.OVL
+  size: 51045
+  date: '1994-05-06T12:07:34'
+  crc: '0x45faeda2'
+- name: FUT_CGAM.OVL
+  size: 44927
+  date: '1990-07-03T17:08:16'
+  crc: '0x611407dd'
+- name: FUT_EGA.PIC
+  size: 32000
+  date: '1990-07-03T15:06:18'
+  crc: '0xc5520b86'
+- name: FUT_EGA1.OVL
+  size: 59119
+  date: '1994-05-06T12:08:52'
+  crc: '0xabd64849'
+- name: FUT_EGAM.OVL
+  size: 56177
+  date: '1990-07-06T19:20:16'
+  crc: '0x06449971'
+- name: MUNDIAL.DAT
+  size: 512
+  date: '1994-05-06T12:25:24'
+  crc: '0x592ca067'

@@ -1,0 +1,44 @@
+filename: 1483 Anno Domini (Installer) (De) (1994)(The Jumping Bird Press, CAPS Softwaredesign) [Adventure].zip
+tdc_id: '6010.9'
+parent_id: '6010.8'
+title:
+  box: 1483 Anno Domini
+publisher: The Jumping Bird Press, CAPS Softwaredesign
+year: '1994'
+genre: Adventure
+language: German
+date:
+  added: '2024-10-14T08:45:49'
+  last_modified: '2024-10-26T16:59:02'
+type: zip
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/222850/1483-anno-domini/
+files:
+- name: 3D.SQZ
+  size: 997407
+  date: '1994-03-10T11:30:54'
+  crc: '0x3dcb33bd'
+- name: INSTALL.EXE
+  size: 20631
+  date: '1994-02-10T16:39:12'
+  crc: '0x24f5f7e1'
+- name: LIESMICH.TXT
+  size: 1128
+  date: '1994-03-10T16:33:22'
+  crc: '0xa1ca5cc9'
+- name: PRG.SQZ
+  size: 1430949
+  date: '1994-03-10T11:39:26'
+  crc: '0x8d5aec89'
+- name: SAVE.SQZ
+  size: 463
+  date: '1993-05-07T16:22:16'
+  crc: '0xc4481538'
+- name: SQZ.EXE
+  size: 71492
+  date: '1993-01-24T01:08:30'
+  crc: '0x66fd7b9b'

@@ -2,7 +2,6 @@ filename: Overlord r940609 (demo) (Installer) (1994)(Virgin Interactive Entertai
 tdc_id: '14683.25'
 title:
   screen: Overlord
-  qualifier: demo
 publisher: Virgin Interactive Entertainment (Europe) Ltd.
 year: '1994'
 genre: Simulation
@@ -14,6 +13,7 @@ release: '940609'
 type: zip
 media: Download
 installer: true
+demo: true
 commands:
   play: INSTALL.BAT
 references:

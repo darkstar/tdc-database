@@ -1,0 +1,157 @@
+filename: Drakkhen (VGA) (Fr) (1990)(Infogrames) [Action, Adventure, Role-Playing (RPG)].zip
+tdc_id: '9458.18'
+title:
+  box: Drakkhen
+  qualifier: VGA
+publisher: Infogrames
+year: '1990'
+genre:
+- Action
+- Adventure
+- Role-Playing (RPG)
+language: French
+date:
+  added: '2024-11-15T08:41:13'
+  last_modified: '2024-11-15T08:41:13'
+type: zip
+commands:
+  play: TATOU.COM
+references:
+  mobygames: https://www.mobygames.com/game/1969/drakkhen/
+files:
+- name: 0.TXT
+  size: 11938
+  date: '1989-11-15T16:04:38'
+  crc: '0x216fd669'
+- name: 1.TXT
+  size: 4965
+  date: '1989-06-18T16:08:50'
+  crc: '0xb725a089'
+- name: 2.TXT
+  size: 5601
+  date: '1989-11-15T16:16:52'
+  crc: '0x37a5012a'
+- name: ACTIV.SAV
+  size: 360
+  date: '1990-09-02T04:23:02'
+  crc: '0xca70eb78'
+- name: ACTIV.SRC
+  size: 360
+  date: '1990-09-02T04:23:02'
+  crc: '0xca70eb78'
+- name: CONFIG.TAT
+  size: 167
+  date: '1990-10-22T01:58:34'
+  crc: '0xa15ce736'
+- name: DATAEXT.BIN
+  size: 1250
+  date: '1990-09-02T04:23:02'
+  crc: '0x5d74a57f'
+- name: DRAKM.CC1
+  size: 135296
+  date: '1990-10-29T10:52:08'
+  crc: '0x8b6663ec'
+- name: DRAKM.CC_
+  size: 135296
+  date: '1990-10-29T10:52:08'
+  crc: '0xfcfc046b'
+- name: DRDRIVER.CC1
+  size: 3028
+  date: '1990-09-02T04:23:02'
+  crc: '0x560a4e17'
+- name: DRK1
+  size: 4
+  date: '1990-09-02T04:23:02'
+  crc: '0x78862ef9'
+- name: END.PAL
+  size: 768
+  date: '1990-09-02T04:23:02'
+  crc: '0xd5205a6a'
+- name: EXTE_VGA.CC0
+  size: 10415
+  date: '1990-09-02T04:23:02'
+  crc: '0x7ceb32d7'
+- name: GAME.PAL
+  size: 768
+  date: '1990-09-02T04:23:02'
+  crc: '0x3f71eff0'
+- name: GAMEBVGA.CC1
+  size: 88232
+  date: '1990-09-02T04:23:02'
+  crc: '0xe82baf56'
+- name: GAME_VGA.CC1
+  size: 184642
+  date: '1990-09-02T04:23:02'
+  crc: '0x96c1818f'
+- name: GARDE.PAL
+  size: 768
+  date: '1990-09-02T04:23:02'
+  crc: '0x49b6ace2'
+- name: GARDEVGA.CC1
+  size: 78099
+  date: '1990-10-23T03:41:40'
+  crc: '0x1554b272'
+- name: INST.DRK
+  size: 479
+  date: '1990-10-23T02:12:36'
+  crc: '0x751cbf17'
+- name: INSTALL.BAT
+  size: 1401
+  date: '1990-10-23T02:13:32'
+  crc: '0x5ef2bba0'
+- name: INTE_VGA.CC0
+  size: 39821
+  date: '1990-09-02T04:23:02'
+  crc: '0x0a3ae103'
+- name: INTRO.CC1
+  size: 6658
+  date: '1990-09-02T04:23:02'
+  crc: '0x8c5ee63a'
+- name: MONS_VGA.CC1
+  size: 214682
+  date: '1990-09-02T04:23:02'
+  crc: '0xf6c2f9d8'
+- name: MUSIC.CC1
+  size: 19172
+  date: '1990-09-02T04:23:02'
+  crc: '0xda666dd5'
+- name: OBJET.SAV
+  size: 210
+  date: '1990-09-02T04:23:02'
+  crc: '0xa92a0378'
+- name: OBJET.SRC
+  size: 210
+  date: '1990-09-02T04:23:02'
+  crc: '0xa92a0378'
+- name: PERSO.SAV
+  size: 1994
+  date: '1990-09-02T04:23:02'
+  crc: '0xf6f09881'
+- name: PERS_VGA.CC1
+  size: 48108
+  date: '1990-09-02T04:23:02'
+  crc: '0xd57ce1e1'
+- name: QUETE.FNT
+  size: 614
+  date: '1990-09-02T04:23:02'
+  crc: '0x9080c550'
+- name: README.DOC
+  size: 1890
+  date: '1990-10-23T02:18:38'
+  crc: '0xd71d8fcd'
+- name: REG.CC1
+  size: 20014
+  date: '1990-10-22T02:43:48'
+  crc: '0x2b0f57f3'
+- name: RESI_VGA.CC0
+  size: 22996
+  date: '1990-09-02T04:23:02'
+  crc: '0x65233e51'
+- name: SPOC_VGA.CC0
+  size: 22274
+  date: '1990-09-02T04:23:02'
+  crc: '0x3da402ea'
+- name: TATOU.COM
+  size: 6907
+  date: '1990-10-23T08:34:10'
+  crc: '0x31b291b3'

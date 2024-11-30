@@ -1,14 +1,16 @@
-filename: Mad Mac 2 (De) (1995)(Mad Data) [Action].zip
+filename: Mad Mac 2 (De) (1995)(bhv Verlags GmbH, Mad Data) [Action].zip
 tdc_id: '3622.0'
+parent_id: '2978.0'
+parent_id_valid: true
 title:
   box: Mad Mac 2
-publisher: Mad Data
+publisher: bhv Verlags GmbH, Mad Data
 year: '1995'
 genre: Action
 language: German
 date:
   added: '2019-03-02T08:56:54'
-  last_modified: '2024-05-14T07:42:05'
+  last_modified: '2024-10-31T14:13:27'
 type: zip
 commands:
   play: MM2.EXE
@@ -17,37 +19,33 @@ references:
   dosid: DOS07922
   exodos: Mad Mac II (1995).zip
 files:
-- name: 000.DAT
-  size: 13
-  date: '2010-05-18T10:46:12'
-  crc: '0x19fdf797'
 - name: 001.DAT
   size: 190
-  date: '2010-05-18T10:45:58'
-  crc: '0x91059607'
+  date: '1994-09-16T15:04:18'
+  crc: '0xacecf1db'
 - name: 002.DAT
   size: 21716
-  date: '1995-06-28T12:29:00'
+  date: '1995-06-28T11:29:00'
   crc: '0x744774e7'
 - name: 003.DAT
   size: 35710
-  date: '1995-06-19T22:31:36'
+  date: '1995-06-19T21:31:36'
   crc: '0x6da526a5'
 - name: 005.DAT
   size: 28424
-  date: '1995-06-23T16:53:02'
+  date: '1995-06-23T15:53:02'
   crc: '0xc087d064'
 - name: 006.DAT
   size: 8142
-  date: '1995-06-19T22:31:36'
+  date: '1995-06-19T21:31:36'
   crc: '0x0a24ff3d'
 - name: 007.DAT
   size: 36338
-  date: '1995-06-19T22:31:38'
+  date: '1995-06-19T21:31:38'
   crc: '0x9bac04ad'
 - name: 008.DAT
   size: 16882
-  date: '1995-07-16T22:24:34'
+  date: '1995-07-16T21:24:34'
   crc: '0xf0e3ca96'
 - name: 009.DAT
   size: 4812
@@ -55,51 +53,51 @@ files:
   crc: '0x1aa7ca29'
 - name: 010.DAT
   size: 1690
-  date: '1995-07-23T15:24:46'
+  date: '1995-07-23T14:24:46'
   crc: '0xa688ac8b'
 - name: 011.DAT
   size: 3170
-  date: '1995-06-09T00:01:00'
+  date: '1995-06-08T23:01:00'
   crc: '0xd6655871'
 - name: 012.DAT
   size: 1664
-  date: '1995-06-09T00:01:00'
+  date: '1995-06-08T23:01:00'
   crc: '0x4dfe6819'
 - name: 013.DAT
   size: 14100
-  date: '1995-07-04T16:05:38'
+  date: '1995-07-04T15:05:38'
   crc: '0x1fe5306d'
 - name: 014.DAT
   size: 1400
-  date: '1995-07-04T16:10:08'
+  date: '1995-07-04T15:10:08'
   crc: '0x7a452f47'
 - name: 015.DAT
   size: 2384
-  date: '1995-06-09T00:01:00'
+  date: '1995-06-08T23:01:00'
   crc: '0x412c3be2'
 - name: 016.DAT
   size: 477
-  date: '1995-07-01T03:18:58'
+  date: '1995-07-01T02:18:58'
   crc: '0xad2ec05f'
 - name: 017.DAT
   size: 1392
-  date: '1995-07-01T03:18:58'
+  date: '1995-07-01T02:18:58'
   crc: '0x6fdd6602'
 - name: 018.DAT
   size: 1499
-  date: '1995-04-08T19:58:36'
+  date: '1995-04-08T18:58:36'
   crc: '0xbd9b6007'
 - name: 020.DAT
   size: 51168
-  date: '1995-07-04T16:23:48'
+  date: '1995-07-04T15:23:48'
   crc: '0x049e4a83'
 - name: 021.DAT
   size: 8194
-  date: '1995-06-19T22:31:38'
+  date: '1995-06-19T21:31:38'
   crc: '0x75fd9986'
 - name: 022.DAT
   size: 3360
-  date: '1995-06-19T22:31:38'
+  date: '1995-06-19T21:31:38'
   crc: '0xf9efdf1d'
 - name: 023.DAT
   size: 68528
@@ -107,47 +105,47 @@ files:
   crc: '0xec10a311'
 - name: 024.DAT
   size: 17112
-  date: '1995-06-10T22:20:16'
+  date: '1995-06-10T21:20:16'
   crc: '0x740829ba'
 - name: 025.DAT
   size: 1826
-  date: '1995-07-23T15:15:06'
+  date: '1995-07-23T14:15:06'
   crc: '0xab5d0251'
 - name: 026.DAT
   size: 1600
-  date: '1995-06-09T00:01:00'
+  date: '1995-06-08T23:01:00'
   crc: '0xb0bdc1ff'
 - name: 027.DAT
   size: 4334
-  date: '1995-06-09T00:01:00'
+  date: '1995-06-08T23:01:00'
   crc: '0xc2ffca93'
 - name: 028.DAT
   size: 1882
-  date: '1995-06-09T00:01:00'
+  date: '1995-06-08T23:01:00'
   crc: '0x12df246b'
 - name: 029.DAT
   size: 12156
-  date: '1995-07-04T16:08:36'
+  date: '1995-07-04T15:08:36'
   crc: '0xf7a0ef48'
 - name: 030.DAT
   size: 1886
-  date: '1995-06-09T00:01:00'
+  date: '1995-06-08T23:01:00'
   crc: '0x95bd6d5b'
 - name: 031.DAT
   size: 5130
-  date: '1995-06-09T00:01:00'
+  date: '1995-06-08T23:01:00'
   crc: '0x84575080'
 - name: 032.DAT
   size: 1456
-  date: '1995-06-09T00:01:00'
+  date: '1995-06-08T23:01:00'
   crc: '0x671dd388'
 - name: 033.DAT
   size: 4204
-  date: '1995-06-09T00:01:00'
+  date: '1995-06-08T23:01:00'
   crc: '0x3dcf1373'
 - name: 034.DAT
   size: 1626
-  date: '1995-07-01T03:18:58'
+  date: '1995-07-01T02:18:58'
   crc: '0x07000ba6'
 - name: 035.DAT
   size: 72794
@@ -159,41 +157,41 @@ files:
   crc: '0xe790d0a8'
 - name: 037.DAT
   size: 53222
-  date: '1995-07-05T11:59:26'
+  date: '1995-07-05T10:59:26'
   crc: '0x955f0bd8'
 - name: 038.DAT
   size: 16426
-  date: '1995-06-10T22:13:54'
+  date: '1995-06-10T21:13:54'
   crc: '0x9732fb95'
 - name: 039.DAT
   size: 12408
-  date: '1995-06-10T20:55:08'
+  date: '1995-06-10T19:55:08'
   crc: '0x296fde7a'
 - name: 040.DAT
   size: 66660
-  date: '1995-07-06T11:20:04'
+  date: '1995-07-06T10:20:04'
   crc: '0xd851998b'
 - name: 041.DAT
   size: 66660
-  date: '1995-07-12T10:04:36'
+  date: '1995-07-12T09:04:36'
   crc: '0xec705286'
 - name: 042.DAT
   size: 66660
-  date: '1995-07-05T17:39:54'
+  date: '1995-07-05T16:39:54'
   crc: '0x83fcb731'
 - name: 043.DAT
   size: 66660
-  date: '1995-07-12T09:54:32'
+  date: '1995-07-12T08:54:32'
   crc: '0x0a099c38'
 - name: 044.DAT
   size: 66660
-  date: '1995-07-17T13:01:38'
+  date: '1995-07-17T12:01:38'
   crc: '0x229db4cf'
 - name: 045.DAT
   size: 66660
-  date: '1995-07-18T18:47:42'
+  date: '1995-07-18T17:47:42'
   crc: '0xb5af581f'
 - name: MM2.EXE
   size: 165335
-  date: '1995-07-25T10:29:16'
+  date: '1995-07-25T09:29:16'
   crc: '0x87cb60bd'

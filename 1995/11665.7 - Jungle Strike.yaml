@@ -1,26 +1,31 @@
-filename: Jungle Strike (1995)(Gremlin Interactive Limited) [IMA][1440k].zip
+filename: Jungle Strike (1995)(Golden Games, Gremlin Interactive Limited) [IMA][1440k][!].zip
 tdc_id: '11665.7'
+parent_id: '11665.8'
 title:
   box: Jungle Strike
-publisher: Gremlin Interactive Limited
+publisher: Golden Games, Gremlin Interactive Limited
 year: '1995'
 genre: IMA
 language: English
 date:
   added: '2023-02-27T11:05:12'
-  last_modified: '2023-02-27T11:05:12'
+  last_modified: '2024-10-07T12:21:17'
 type: IMA
+tags:
+- KnownGood
 media: 1.44M
+references:
+  mobygames: https://www.mobygames.com/game/792/jungle-strike/
 files:
-- name: disk1.ima
+- name: Disk1.ima
   size: 1474560
-  date: '1995-03-06T11:31:02'
+  date: '2024-10-02T14:45:54'
   crc: '0xec72dfd3'
-- name: disk2.ima
+- name: Disk2.ima
   size: 1474560
-  date: '1995-03-06T11:34:20'
+  date: '2024-10-02T14:45:54'
   crc: '0xdfd5bbd2'
-- name: disk3.ima
+- name: Disk3.ima
   size: 1474560
-  date: '1995-03-06T13:36:42'
+  date: '2024-10-02T14:45:54'
   crc: '0x20691385'

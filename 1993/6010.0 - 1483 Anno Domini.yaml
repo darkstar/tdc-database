@@ -1,19 +1,24 @@
-filename: 1483 Anno Domini (De) [SW] (1993)(The Jumping Bird Press) [Adventure].zip
+filename: 1483 Anno Domini r930706 (De) [SW] (1993)(The Jumping Bird Press, CAPS Softwaredesign) [Adventure].zip
 tdc_id: '6010.0'
 parent_id: '6010.3'
 title:
   screen: 1483 Anno Domini
-publisher: The Jumping Bird Press
+publisher: The Jumping Bird Press, CAPS Softwaredesign
 year: '1993'
 genre: Adventure
 language: German
 date:
   added: '2019-03-01T18:55:12'
-  last_modified: '2019-03-01T18:55:12'
+  last_modified: '2024-10-26T17:01:50'
+release: '930706'
 type: zip
 tags:
 - Shareware
 media: Download
+commands:
+  play: START.BAT
+references:
+  mobygames: https://www.mobygames.com/game/222850/1483-anno-domini/
 files:
 - name: 0.OBJ
   size: 578

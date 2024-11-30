@@ -1,0 +1,49 @@
+filename: Capitán Trueno, El [a1] (1990)(Dinamic Software) [Action, Adventure].zip
+tdc_id: '8591.1'
+title:
+  box: El Capitán Trueno
+publisher: Dinamic Software
+year: '1990'
+genre:
+- Action
+- Adventure
+language: English
+date:
+  added: '2024-11-21T08:34:37'
+  last_modified: '2024-11-21T08:34:37'
+type: zip
+tags:
+- Alternate: 1
+commands:
+  play: CAP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/16010/el-capitan-trueno/
+files:
+- name: CAP.EXE
+  size: 66047
+  date: '1990-03-23T13:09:10'
+  crc: '0xe02ee761'
+- name: CAP.RUI
+  size: 16536
+  date: '1990-03-22T14:52:54'
+  crc: '0x3ffb4f98'
+- name: CHARSET
+  size: 3392
+  date: '1990-03-16T15:35:40'
+  crc: '0x96480b2b'
+- name: FONDOS.GRF
+  size: 39151
+  date: '1990-01-18T18:32:58'
+  crc: '0x04fe6710'
+- name: SEGGRA1.GRF
+  size: 39590
+  date: '1990-01-30T23:54:30'
+  crc: '0xdd77ee7d'
+- name: SEGGRA2.GRF
+  size: 58662
+  date: '1990-01-23T20:06:48'
+  crc: '0x83cd3987'
+- name: SEGGRA3.GRF
+  size: 37120
+  date: '1990-03-23T13:02:30'
+  crc: '0x75d0113f'

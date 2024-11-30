@@ -1,14 +1,16 @@
-filename: PC-Bakterien! v1.3 (Installer) (De) [SW] (1993)(TOM Productions) [Action].zip
+filename: PC-Bakterien! v1.3 (Installer) (De) [SW] (1993)(TOM-Productions) [Action, Puzzle].zip
 tdc_id: '10115.1'
 title:
   screen: PC-Bakterien!
-publisher: TOM Productions
+publisher: TOM-Productions
 year: '1993'
-genre: Action
+genre:
+- Action
+- Puzzle
 language: German
 date:
   added: '2019-03-01T19:16:00'
-  last_modified: '2019-03-01T19:16:00'
+  last_modified: '2024-10-29T08:51:55'
 version: '1.3'
 type: zip
 tags:
@@ -17,6 +19,8 @@ media: Download
 installer: true
 commands:
   play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/45688/pc-bakterien/
 files:
 - name: INSTALL.EXE
   size: 17392

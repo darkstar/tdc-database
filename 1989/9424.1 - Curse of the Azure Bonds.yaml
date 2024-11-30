@@ -1,6 +1,6 @@
-filename: Curse of the Azure Bonds v1.1 (1989)(Strategic Simulations, Inc.) [Role-Playing (RPG)].zip
+filename: Curse of the Azure Bonds v1.1 (1989)(Strategic Simulations, Inc.) [Role-Playing (RPG)][!].zip
 tdc_id: '9424.1'
-parent_id: '9424.6'
+parent_id: '9424.11'
 title:
   box: Curse of the Azure Bonds
 publisher: Strategic Simulations, Inc.
@@ -9,10 +9,16 @@ genre: Role-Playing (RPG)
 language: English
 date:
   added: '2019-03-01T18:27:32'
-  last_modified: '2019-03-01T18:27:32'
+  last_modified: '2024-11-03T11:29:19'
 version: '1.1'
 type: zip
+tags:
+- KnownGood
 media: 360K
+commands:
+  play: START.EXE
+references:
+  mobygames: https://www.mobygames.com/game/503/curse-of-the-azure-bonds/
 files:
 - name: 8X8D1.DAX
   size: 3769
@@ -118,6 +124,12 @@ files:
   size: 5963
   date: '1989-06-09T12:49:06'
   crc: '0x99411241'
+- name: CURSAVE
+  size: 0
+  date: '1989-07-17T13:23:06'
+- name: CURSE
+  size: 0
+  date: '1989-07-17T13:35:42'
 - name: DUNGCOM.DAX
   size: 5542
   date: '1989-05-01T15:34:44'
@@ -149,7 +161,7 @@ files:
 - name: GAME.OVR
   size: 272128
   date: '1989-07-13T16:45:36'
-  crc: '0x29a3742b'
+  crc: '0x4de0e603'
 - name: GAME.OV_
   size: 272128
   date: '1989-07-13T16:45:36'
@@ -224,7 +236,7 @@ files:
   crc: '0xdd0bb76d'
 - name: ITEMS
   size: 2050
-  date: '1985-01-01T00:00:00'
+  date: '1989-05-23T00:55:00'
   crc: '0xf15e54ee'
 - name: MAKENEWA.BAT
   size: 1184
@@ -332,7 +344,7 @@ files:
   crc: '0xc509f3c3'
 - name: SAVE\
   size: 0
-  date: '2011-12-13T15:57:50'
+  date: '1989-07-13T16:57:26'
 - name: SAVE\CHRDATA1.FX
   size: 9
   date: '1989-06-08T15:48:36'

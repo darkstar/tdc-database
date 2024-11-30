@@ -1,0 +1,35 @@
+filename: Goody (Es) [DC] (1987)(Opera Soft S.A.) [Action, Adventure].zip
+tdc_id: '14157.1'
+parent_id: '14157.9'
+title:
+  box: Goody
+publisher: Opera Soft S.A.
+year: '1987'
+genre:
+- Action
+- Adventure
+language: Spanish
+date:
+  added: '2019-03-01T18:25:20'
+  last_modified: '2024-11-26T08:21:38'
+type: zip
+tags:
+- DOSConversion
+media: 360K
+commands:
+  play: START.COM
+references:
+  mobygames: https://www.mobygames.com/game/2090/goody/
+files:
+- name: GAME
+  size: 61440
+  date: '1987-02-14T00:00:00'
+  crc: '0xaee9c82d'
+- name: START.COM
+  size: 3584
+  date: '1987-02-14T00:00:00'
+  crc: '0xd9af259e'
+- name: TITLE
+  size: 16384
+  date: '1987-02-14T00:00:00'
+  crc: '0x0ba91fb3'

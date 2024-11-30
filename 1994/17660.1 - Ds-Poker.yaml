@@ -1,0 +1,57 @@
+filename: Ds-Poker v1.0 (Installer) (It) (1994)(Finson SpA) [Strategy, Cards].zip
+tdc_id: '17660.1'
+parent_id: '17660.0'
+title:
+  box: Ds-Poker
+publisher: Finson SpA
+year: '1994'
+genre:
+- Strategy
+- Cards
+language: Italian
+date:
+  added: '2024-10-16T07:49:01'
+  last_modified: '2024-10-16T07:49:01'
+version: '1.0'
+type: zip
+media: 1.44M
+installer: true
+commands:
+  play: INSTALLA.EXE
+files:
+- name: DSPOKER.EXE
+  size: 371099
+  date: '1994-05-24T18:11:28'
+  crc: '0x7a8313e9'
+- name: DSPOKER.LIS
+  size: 843
+  date: '1994-05-24T18:52:20'
+  crc: '0x2f45144c'
+- name: INSTALL.EXE
+  size: 8885
+  date: '1994-05-24T18:16:16'
+  crc: '0x7768ccff'
+- name: INSTALLA.DAT
+  size: 502
+  date: '1994-05-24T18:47:20'
+  crc: '0x4e3e0a49'
+- name: INSTALLA.EXE
+  size: 31120
+  date: '1994-04-15T16:45:58'
+  crc: '0x0986bf2c'
+- name: INSTALLA.LNG
+  size: 2502
+  date: '1994-05-18T12:02:10'
+  crc: '0xece784f2'
+- name: TEXT.TXT
+  size: 1945
+  date: '1994-05-24T17:45:14'
+  crc: '0x18c987e0'
+- name: VAI.BAT
+  size: 58
+  date: '1993-08-31T11:51:38'
+  crc: '0xded0551c'
+- name: XTYPE.EXE
+  size: 6672
+  date: '1991-09-10T16:54:08'
+  crc: '0xf2f9ab1d'

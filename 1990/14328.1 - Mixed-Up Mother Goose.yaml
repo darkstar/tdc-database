@@ -1,4 +1,4 @@
-filename: Mixed-Up Mother Goose (SCI) v1.011 (1990)(Sierra On-Line, Inc.) [Adventure, Educational].zip
+filename: Mixed-Up Mother Goose v1.011 (SCI) (1990)(Sierra On-Line, Inc.) [Adventure, Educational].zip
 tdc_id: '14328.1'
 title:
   box: Mixed-Up Mother Goose
@@ -11,9 +11,14 @@ genre:
 language: English
 date:
   added: '2021-02-23T19:08:54'
-  last_modified: '2021-02-23T19:08:54'
+  last_modified: '2024-11-05T20:07:17'
 version: '1.011'
 type: zip
+commands:
+  play: MG.BAT
+  setup: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/22295/mixed-up-mother-goose/
 files:
 - name: ADL.DRV
   size: 9778

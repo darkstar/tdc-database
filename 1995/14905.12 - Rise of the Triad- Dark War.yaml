@@ -1,0 +1,66 @@
+filename: Rise of the Triad- Dark War v1.2a (Installer) (1995)(Apogee Software, Ltd.) [Action][!].zip
+tdc_id: '14905.12'
+parent_id: '14905.11'
+title:
+  box: 'Rise of the Triad: Dark War'
+publisher: Apogee Software, Ltd.
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2024-10-27T08:29:17'
+  last_modified: '2024-10-27T08:29:17'
+version: 1.2a
+type: zip
+tags:
+- KnownGood
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/418/rise-of-the-triad-dark-war/
+files:
+- name: DEALERS.EXE
+  size: 20749
+  date: '1995-02-01T00:00:00'
+  crc: '0x89b95daa'
+- name: INSTALL.EXE
+  size: 39499
+  date: '1995-02-15T13:21:00'
+  crc: '0xee180a27'
+- name: LICENSE.DOC
+  size: 2605
+  date: '1995-02-15T13:21:00'
+  crc: '0x81059fca'
+- name: ORDER.FRM
+  size: 5679
+  date: '1995-02-01T00:00:00'
+  crc: '0xd6dbdb56'
+- name: ROTT12R._1
+  size: 1358848
+  date: '1995-02-15T13:21:00'
+  crc: '0x90d48a6a'
+- name: ROTT12R._2
+  size: 1457152
+  date: '1995-02-15T13:21:00'
+  crc: '0xd9bf8ce5'
+- name: ROTT12R._3
+  size: 1457152
+  date: '1995-02-15T13:21:00'
+  crc: '0x5bad56cc'
+- name: ROTT12R._4
+  size: 1457152
+  date: '1995-02-15T13:21:00'
+  crc: '0x80248d7c'
+- name: ROTT12R._5
+  size: 1456576
+  date: '1995-02-15T13:21:00'
+  crc: '0xc5105c0f'
+- name: ROTT_REG
+  size: 0
+  date: '1995-02-23T22:14:44'
+- name: SWCBBS.EXE
+  size: 5766
+  date: '1995-02-01T00:00:00'
+  crc: '0x145fccc6'

@@ -1,0 +1,33 @@
+filename: Populous & The Promised Lands (Installer) (1995)(Big Games, Electronic Arts, Inc.) [Strategy, Compilation].zip
+tdc_id: '17657.2'
+parent_id: '17657.1'
+title:
+  box: Populous & The Promised Lands
+publisher: Big Games, Electronic Arts, Inc.
+year: '1995'
+genre:
+- Strategy
+- Compilation
+language: English
+date:
+  added: '2024-10-09T07:06:22'
+  last_modified: '2024-10-09T07:06:22'
+type: zip
+media: 720K
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/16151/populous-populous-the-promised-lands/
+files:
+- name: INSTALL.EXE
+  size: 24236
+  date: '1994-07-06T11:31:22'
+  crc: '0x618497d6'
+- name: POPULOUS
+  size: 0
+  date: '1989-11-17T16:06:28'
+- name: POPULOUS.RNC
+  size: 286043
+  date: '1994-07-06T11:24:10'
+  crc: '0x2e6b7df5'

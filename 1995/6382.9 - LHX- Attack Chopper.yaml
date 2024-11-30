@@ -1,0 +1,66 @@
+filename: LHX- Attack Chopper (1995)(Big Games, Electronic Arts, Inc.) [Action, Simulation][!].zip
+tdc_id: '6382.9'
+parent_id: '6382.8'
+title:
+  box: 'LHX: Attack Chopper'
+publisher: Big Games, Electronic Arts, Inc.
+year: '1995'
+genre:
+- Action
+- Simulation
+language: English
+date:
+  added: '2024-10-04T13:35:56'
+  last_modified: '2024-10-04T13:35:56'
+type: zip
+tags:
+- KnownGood
+media: 720K
+commands:
+  play: LHX.EXE
+references:
+  mobygames: https://www.mobygames.com/game/615/lhx-attack-chopper/
+files:
+- name: INSTALL.BAT
+  size: 4282
+  date: '1990-02-22T11:06:42'
+  crc: '0x6b81f36e'
+- name: JTUNER.EXE
+  size: 14741
+  date: '1990-02-23T17:01:04'
+  crc: '0x2ff8747f'
+- name: LHX
+  size: 0
+  date: '1995-01-09T16:58:40'
+- name: LHX.EXE
+  size: 279729
+  date: '1994-08-08T19:25:18'
+  crc: '0x9e9ab25e'
+- name: LHX0.LIB
+  size: 23819
+  date: '1990-02-23T15:25:14'
+  crc: '0x221a7d3d'
+- name: LHX1.LIB
+  size: 22869
+  date: '1990-02-23T15:25:28'
+  crc: '0x90dada09'
+- name: LHX2.LIB
+  size: 28838
+  date: '1990-02-23T15:25:44'
+  crc: '0xa6e95265'
+- name: LHX3.LIB
+  size: 82036
+  date: '1990-02-23T15:25:56'
+  crc: '0x80e9be84'
+- name: LHX4.LIB
+  size: 207551
+  date: '1990-02-22T22:50:34'
+  crc: '0x4f51ed92'
+- name: PART_TWO.BAT
+  size: 842
+  date: '1990-02-22T11:08:08'
+  crc: '0x5e8eaf19'
+- name: README
+  size: 275
+  date: '1990-02-09T15:48:38'
+  crc: '0xcc967ae1'

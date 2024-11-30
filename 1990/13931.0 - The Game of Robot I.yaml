@@ -1,0 +1,49 @@
+filename: Game of Robot I, The v1.34 [SW] (1990)(TOM-Productions) [Action].zip
+tdc_id: '13931.0'
+title:
+  screen: The Game of Robot I
+publisher: TOM-Productions
+year: '1990'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:32:42'
+  last_modified: '2024-10-29T09:27:37'
+version: '1.34'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: ROBOT.EXE
+references:
+  mobygames: https://www.mobygames.com/game/6876/the-game-of-robot/
+files:
+- name: FRAGEN.DOC
+  size: 15664
+  date: '1990-04-24T12:00:00'
+  crc: '0x7e94f212'
+- name: ITEM.ROB
+  size: 19609
+  date: '1990-04-24T12:00:00'
+  crc: '0xf5e0c98e'
+- name: ITEMG.ROB
+  size: 22629
+  date: '1990-04-24T12:00:00'
+  crc: '0x58318cc8'
+- name: README.TXT
+  size: 2275
+  date: '1990-04-24T12:00:00'
+  crc: '0x5c2ff165'
+- name: ROBOT.EXE
+  size: 150018
+  date: '1990-04-24T12:00:00'
+  crc: '0xcb709b53'
+- name: ROOMS.DEF
+  size: 139320
+  date: '1990-04-24T12:00:00'
+  crc: '0x756d97cb'
+- name: ROOMS.ROB
+  size: 7700
+  date: '1990-04-24T12:00:00'
+  crc: '0x6f31c83c'

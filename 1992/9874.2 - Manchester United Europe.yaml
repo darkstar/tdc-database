@@ -1,5 +1,6 @@
-filename: Manchester United Europe (En)(Fr)(De)(Es)(It) (1992)(Krisalis Software Ltd.) [IMA][720k][!].zip
+filename: Manchester United Europe v1.02 (En)(Fr)(De)(Es)(It) (1992)(Krisalis Software Ltd.) [IMA][720k][!].zip
 tdc_id: '9874.2'
+parent_id: '9874.4'
 title:
   box: Manchester United Europe
 publisher: Krisalis Software Ltd.
@@ -13,11 +14,14 @@ language:
 - German
 date:
   added: '2023-02-27T09:36:08'
-  last_modified: '2023-02-27T09:36:08'
+  last_modified: '2024-10-02T11:47:13'
+version: '1.02'
 type: IMA
 tags:
 - KnownGood
 media: 720K
+references:
+  mobygames: https://www.mobygames.com/game/13148/microleague-action-sports-soccer/
 files:
 - name: disk1.ima
   size: 737280

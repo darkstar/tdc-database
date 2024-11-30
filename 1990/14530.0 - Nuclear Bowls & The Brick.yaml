@@ -1,7 +1,7 @@
-filename: Nuclear Bowls & The Brick (Es) (1990)(Diabolic Software) [Action, Compilation].zip
+filename: Nuclear Bowls & The Brick (Es) [f1] (1990)(Diabolic Software) [Action, Compilation].zip
 tdc_id: '14530.0'
 title:
-  screen: Nuclear Bowls & The Brick
+  box: Nuclear Bowls & The Brick
 publisher: Diabolic Software
 year: '1990'
 genre:
@@ -10,46 +10,53 @@ genre:
 language: Spanish
 date:
   added: '2019-03-01T18:33:22'
-  last_modified: '2019-03-01T18:33:22'
+  last_modified: '2024-10-30T07:48:16'
 type: zip
-compilation: true
+tags:
+- Fixed: 1
+media: 360K
 references:
+  mobygames: https://www.mobygames.com/game/96646/nuclear-bowls/
   dosid: DOS07324
   exodos: Brick, The (1990).zip
 files:
 - name: '-'
   size: 416
-  date: '2001-11-17T06:32:06'
+  date: '1990-07-11T19:13:58'
   crc: '0x8a03cd72'
 - name: '0'
   size: 16384
-  date: '2001-11-17T06:32:06'
+  date: '1990-07-11T19:13:58'
   crc: '0x30eadc00'
 - name: '1'
   size: 384
-  date: '2001-11-17T06:32:06'
+  date: '1990-07-11T19:13:58'
   crc: '0xd2268560'
 - name: '9'
   size: 360
-  date: '2001-11-17T06:32:06'
+  date: '1990-07-11T19:13:58'
   crc: '0x9a2350e7'
-- name: 9∩
+- name: '9_'
   size: 256
-  date: '2001-11-17T06:32:06'
+  date: '1990-07-11T19:13:58'
   crc: '0xa977ad6d'
 - name: A
   size: 2048
-  date: '2001-11-17T06:32:06'
+  date: '1990-07-11T19:13:58'
   crc: '0x9ed38997'
 - name: B
   size: 1136
-  date: '2001-11-17T06:32:06'
+  date: '1990-07-11T19:13:58'
   crc: '0x1804a8aa'
 - name: BOWLS.BAT
   size: 24
   date: '1990-11-07T19:13:58'
   crc: '0x6f5ee05b'
 - name: BRICK.EXE
+  size: 47568
+  date: '1990-07-11T19:13:58'
+  crc: '0xa773de5e'
+- name: BRICK.EX_
   size: 47568
   date: '1990-11-07T19:13:58'
   crc: '0x798e618b'
@@ -65,7 +72,7 @@ files:
   size: 4064
   date: '1990-11-07T19:13:58'
   crc: '0xebc5673d'
-- name: I∩
+- name: I_
   size: 592
   date: '1990-11-07T19:13:58'
   crc: '0x19080410'

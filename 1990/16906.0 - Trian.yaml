@@ -1,7 +1,7 @@
 filename: Trian (Es) (1990)(Ediciones Manali, S.A.) [Strategy, Action].zip
 tdc_id: '16906.0'
 title:
-  screen: Trian
+  box: Trian
 publisher: Ediciones Manali, S.A.
 year: '1990'
 genre:
@@ -10,8 +10,10 @@ genre:
 language: Spanish
 date:
   added: '2019-03-01T18:34:20'
-  last_modified: '2019-03-01T18:34:20'
+  last_modified: '2024-10-18T16:42:44'
 type: zip
+commands:
+  play: TRIAN.BAT
 files:
 - name: RUN2.EXE
   size: 53024

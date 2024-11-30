@@ -1,0 +1,42 @@
+filename: Mutan Zone (Es) (1994)(Digital Dreams Multimedia, Opera Soft S.A.) [Action].zip
+tdc_id: '7978.0'
+parent_id: '10553.0'
+parent_id_valid: true
+title:
+  box: Mutan Zone
+publisher: Digital Dreams Multimedia, Opera Soft S.A.
+year: '1994'
+genre: Action
+language: Spanish
+date:
+  added: '2019-03-01T18:26:32'
+  last_modified: '2024-10-27T17:46:50'
+type: zip
+media: CD-ROM
+commands:
+  play: MUTAN_Z.EXE
+references:
+  mobygames: https://www.mobygames.com/game/20217/mutan-zone/
+  dosid: DOS03672
+  exodos: Mutan Zone (1988).zip
+files:
+- name: MUTAN_Z.CTR
+  size: 1142
+  date: '2001-02-08T18:34:32'
+  crc: '0x714761ce'
+- name: MUTAN_Z.EXE
+  size: 2370
+  date: '2001-02-08T18:34:32'
+  crc: '0x779ddd31'
+- name: MUTAN_Z.PIC
+  size: 16384
+  date: '2001-02-08T18:34:32'
+  crc: '0xd8dcb915'
+- name: MUTAN_Z1.OVL
+  size: 52255
+  date: '2001-02-08T18:34:32'
+  crc: '0xfd350539'
+- name: MUTAN_Z2.OVL
+  size: 51067
+  date: '2001-02-08T18:34:32'
+  crc: '0x315e2a29'

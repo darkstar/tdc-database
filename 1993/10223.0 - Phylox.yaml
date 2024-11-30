@@ -1,4 +1,4 @@
-filename: Phylox (De) [SW] (1993)(Beavis-Soft) [Action].zip
+filename: Phylox (De) [SWR] (1993)(Beavis-Soft) [Action].zip
 tdc_id: '10223.0'
 title:
   screen: Phylox
@@ -8,11 +8,15 @@ genre: Action
 language: German
 date:
   added: '2019-03-01T19:16:10'
-  last_modified: '2019-03-01T19:16:10'
+  last_modified: '2024-10-30T08:10:35'
 type: zip
 tags:
-- Shareware
+- SharewareRegistered
 media: Download
+commands:
+  play: PHYLOX.BAT
+references:
+  mobygames: https://www.mobygames.com/game/58050/phylox/
 files:
 - name: AR.SP
   size: 143

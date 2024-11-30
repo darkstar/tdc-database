@@ -1,5 +1,6 @@
-filename: Links- The Challenge of Golf v1.45 (1991)(Access Software, Inc.) [Simulation, Sports].zip
+filename: Links- The Challenge of Golf v1.45 (1991)(Access Software, Inc.) [Simulation, Sports][!].zip
 tdc_id: '6413.2'
+parent_id: '6413.8'
 title:
   box: 'Links: The Challenge of Golf'
 publisher: Access Software, Inc.
@@ -10,143 +11,165 @@ genre:
 language: English
 date:
   added: '2020-01-29T21:52:04'
-  last_modified: '2020-01-29T21:52:04'
+  last_modified: '2024-10-09T11:13:57'
 version: '1.45'
 type: zip
+tags:
+- KnownGood
+media: 360K
+commands:
+  play: LINKS.BAT
+references:
+  mobygames: https://www.mobygames.com/game/492/links-the-challenge-of-golf/
 files:
-- name: BAY_HILL.CRS
-  size: 953184
-  date: '1991-05-01T01:02:00'
-  crc: '0x60c9b5cc'
-- name: BOUNTIFU.CRS
-  size: 631397
-  date: '1991-02-19T09:14:42'
-  crc: '0xedd76cd5'
+- name: CHECKSUM.CRC
+  size: 8
+  date: '1991-08-09T16:45:54'
+  crc: '0x280a86c8'
+- name: DATA02.MAP
+  size: 2360
+  date: '1991-08-05T14:37:40'
+  crc: '0x8bbdddbe'
+- name: DATA16.MAP
+  size: 8932
+  date: '1991-08-05T14:38:14'
+  crc: '0x0e3a6c01'
 - name: DEFAULT.PLR
   size: 548
-  date: '1991-11-11T18:43:16'
-  crc: '0x42bfebe7'
-- name: DORADO_B.CRS
-  size: 819011
-  date: '1991-10-04T10:09:18'
-  crc: '0x085fffc6'
-- name: FIRESTON.CRS
-  size: 618683
-  date: '1991-02-21T14:09:38'
-  crc: '0xde6121ed'
+  date: '1990-12-04T01:40:00'
+  crc: '0x846fbc94'
+- name: DISK1 V1.45
+  size: 0
+  date: '1991-05-03T14:35:18'
 - name: GOLF.EXE
   size: 60774
-  date: '1991-11-11T17:50:56'
+  date: '1991-05-02T01:45:00'
   crc: '0xa1a93677'
 - name: GOLF1.LZ
   size: 22706
-  date: '1991-11-11T17:51:16'
+  date: '1990-10-26T01:00:00'
   crc: '0x37449ca2'
 - name: GOLFER2.LZ
   size: 62418
-  date: '1991-11-11T17:51:02'
+  date: '1990-10-26T01:00:00'
   crc: '0xfde04fff'
 - name: HIMEM.SYS
   size: 6266
-  date: '1991-11-11T17:51:14'
+  date: '1989-03-21T02:06:00'
   crc: '0x388ce7d6'
 - name: INFO.LZ
   size: 7141
-  date: '1991-11-11T17:51:02'
+  date: '1990-11-10T15:47:08'
   crc: '0x43126056'
+- name: INSTALL.EXE
+  size: 24987
+  date: '1991-08-09T10:36:48'
+  crc: '0x68a8d8f0'
 - name: KEYBAT.COM
   size: 96
-  date: '1991-11-11T17:51:34'
+  date: '1987-12-04T11:49:32'
   crc: '0xf844fe43'
 - name: LIE.LZ
   size: 11262
   date: '1991-02-13T08:11:28'
   crc: '0xcc21f0e9'
+- name: LINKS DI.SK2
+  size: 0
+  date: '1990-10-26T04:25:44'
+- name: LINKS DI.SK3
+  size: 0
+  date: '1980-01-01T00:36:12'
+- name: LINKS DI.SK4
+  size: 0
+  date: '1980-01-01T00:38:38'
+- name: LINKS DI.SK5
+  size: 0
+  date: '1990-10-26T04:26:46'
 - name: LINKS.BAT
   size: 36
-  date: '1991-11-11T17:50:52'
+  date: '1990-10-26T01:00:00'
   crc: '0x68f3df31'
-- name: LINKS.CFG
-  size: 14
-  date: '1991-11-12T11:58:00'
-  crc: '0xf6c833c7'
-- name: MIGEL_MA.PLR
-  size: 548
-  date: '1991-11-12T15:26:58'
-  crc: '0xd14ebf10'
-- name: PINEHURS.CRS
-  size: 964026
-  date: '1991-11-11T18:05:18'
-  crc: '0x5964f42a'
+- name: MAKETORY.BAT
+  size: 267
+  date: '1990-11-10T15:28:38'
+  crc: '0x979d3fd0'
 - name: PLAYSET.LZ
   size: 13299
-  date: '1991-11-11T17:53:10'
+  date: '1990-10-26T01:00:00'
   crc: '0x6be6ef9f'
 - name: PRACTICE.CRX
   size: 108805
-  date: '1991-11-11T17:53:08'
+  date: '1990-10-26T01:00:00'
   crc: '0x6a88945a'
-- name: PRIMERJU.GAM
-  size: 816
-  date: '1991-11-13T01:51:16'
-  crc: '0x074fdeb6'
+- name: README.BAT
+  size: 2533
+  date: '1990-11-10T15:42:46'
+  crc: '0xbbc2da8b'
 - name: READY.LZ
   size: 9440
-  date: '1991-11-11T17:51:20'
+  date: '1990-10-26T01:00:00'
   crc: '0x4abebde7'
 - name: SCORCARD.LZ
   size: 12298
-  date: '1991-11-11T17:51:04'
+  date: '1990-10-26T01:00:00'
   crc: '0xc20c38a1'
-- name: SECONDGA.GAM
-  size: 816
-  date: '1991-11-14T16:13:30'
-  crc: '0x14646204'
 - name: SELCTCRS.LZ
   size: 15369
-  date: '1991-11-11T17:51:22'
+  date: '1990-10-26T01:00:00'
   crc: '0xc0896270'
 - name: SELCTPLR.LZ
   size: 11697
-  date: '1991-11-11T17:51:24'
+  date: '1990-10-26T01:00:00'
   crc: '0xfbadaaea'
 - name: SELECT.LZ
   size: 99659
-  date: '1991-11-11T17:51:32'
+  date: '1990-10-26T01:00:00'
   crc: '0x83a7650b'
 - name: SELPRACT.LZ
   size: 29084
-  date: '1991-11-11T17:53:12'
+  date: '1990-10-26T01:00:00'
   crc: '0x34fa6839'
 - name: SETBLAST.EXE
   size: 2079
-  date: '1991-11-11T17:50:58'
+  date: '1990-10-26T01:00:00'
   crc: '0x6a92254d'
 - name: SOUNDS.LZ
   size: 92406
-  date: '1991-11-11T17:51:12'
+  date: '1990-10-26T21:47:18'
   crc: '0xcbc729cc'
 - name: SYSTYPE.EXE
   size: 31710
-  date: '1991-11-11T17:51:38'
+  date: '1989-11-09T11:14:58'
   crc: '0xa2128443'
 - name: TITLE.EXE
   size: 22547
-  date: '1991-11-11T17:53:14'
+  date: '1990-10-26T01:00:00'
   crc: '0x2883544d'
 - name: TITLE.LNX
   size: 116230
-  date: '1991-11-11T17:53:22'
+  date: '1990-10-26T01:00:00'
   crc: '0xa78e8881'
 - name: TOPVIEW.LZ
   size: 10601
-  date: '1991-11-11T17:53:24'
+  date: '1990-10-26T01:00:00'
   crc: '0xd437d0cb'
-- name: TORREY_P.CRS
-  size: 780494
-  date: '1991-11-11T17:53:00'
-  crc: '0xf5cd1707'
+- name: TORREY1
+  size: 362496
+  date: '1990-10-25T09:54:16'
+  crc: '0xaaaf183b'
+- name: TORREY2
+  size: 362496
+  date: '1990-10-25T09:54:20'
+  crc: '0x6d222d1e'
+- name: TORREY3
+  size: 55502
+  date: '1990-10-26T01:00:00'
+  crc: '0xfeaaa70d'
+- name: UNINSTAL.EXE
+  size: 1633
+  date: '1990-12-03T01:40:00'
+  crc: '0x9696bb44'
 - name: XMM.EXE
   size: 2863
-  date: '1991-11-11T17:51:36'
+  date: '1990-11-10T15:34:56'
   crc: '0xa99b611b'

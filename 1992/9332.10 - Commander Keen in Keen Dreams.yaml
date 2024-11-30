@@ -1,0 +1,94 @@
+filename: Commander Keen in Keen Dreams v1.91a [SWR] (1992)(Softdisk Publishing) [Action].zip
+tdc_id: '9332.10'
+parent_id: '9332.9'
+title:
+  box: Commander Keen in Keen Dreams
+publisher: Softdisk Publishing
+year: '1992'
+genre: Action
+language: English
+date:
+  added: '2024-11-20T08:24:28'
+  last_modified: '2024-11-20T08:24:28'
+version: 1.91a
+type: zip
+tags:
+- SharewareRegistered
+media: 720K
+commands:
+  play: START.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1666/commander-keen-keen-dreams/
+files:
+- name: BKGND.SHL
+  size: 285
+  date: '1992-09-29T04:11:54'
+  crc: '0xd423ee09'
+- name: HELP.BAT
+  size: 32
+  date: '1992-09-09T10:44:38'
+  crc: '0x1468ca40'
+- name: INSTRUCT.SHL
+  size: 10059
+  date: '1992-09-29T04:12:00'
+  crc: '0x179019a2'
+- name: KDREAMS.AUD
+  size: 3498
+  date: '1991-07-10T16:31:44'
+  crc: '0x80ac85e5'
+- name: KDREAMS.CFG
+  size: 656
+  date: '1993-12-12T07:54:04'
+  crc: '0x713cc08d'
+- name: KDREAMS.CMP
+  size: 14189
+  date: '1992-08-23T06:21:18'
+  crc: '0x97628ca0'
+- name: KDREAMS.EGA
+  size: 213045
+  date: '1992-08-18T08:50:02'
+  crc: '0x2dc94687'
+- name: KDREAMS.EXE
+  size: 81607
+  date: '1992-09-10T15:31:28'
+  crc: '0x427cf205'
+- name: KDREAMS.MAP
+  size: 65674
+  date: '1992-08-17T07:52:40'
+  crc: '0x78bd24fc'
+- name: LAST.SHL
+  size: 1447
+  date: '1992-09-29T04:12:08'
+  crc: '0xe40b2e1f'
+- name: LOADSCN.EXE
+  size: 9959
+  date: '1992-07-14T15:00:58'
+  crc: '0xc7a55c34'
+- name: MENU.SHL
+  size: 417
+  date: '1992-09-29T04:12:02'
+  crc: '0x26969533'
+- name: NAME.SHL
+  size: 21
+  date: '1992-09-29T04:12:06'
+  crc: '0x9d23582c'
+- name: ORDER.SHL
+  size: 1397
+  date: '1992-09-29T04:12:06'
+  crc: '0x4264f5e6'
+- name: PRODUCTS.SHL
+  size: 3449
+  date: '1992-09-29T04:12:04'
+  crc: '0xa2e5173b'
+- name: QUICK.SHL
+  size: 2129
+  date: '1992-09-29T04:11:56'
+  crc: '0xd2e6a854'
+- name: README.TXT
+  size: 714
+  date: '1992-08-31T14:47:30'
+  crc: '0x63a677d3'
+- name: START.EXE
+  size: 17446
+  date: '1992-08-31T13:18:08'
+  crc: '0x1c585867'

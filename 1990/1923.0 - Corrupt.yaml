@@ -1,8 +1,8 @@
-filename: Corrupt (Es) (1990)(GLL Software) [Adventure, Interactive Fiction].zip
+filename: Corrupt (Es) (1990)(G.LL. Software S.A.) [Adventure, Interactive Fiction].zip
 tdc_id: '1923.0'
 title:
-  screen: Corrupt
-publisher: GLL Software
+  box: Corrupt
+publisher: G.LL. Software S.A.
 year: '1990'
 genre:
 - Adventure
@@ -10,8 +10,12 @@ genre:
 language: Spanish
 date:
   added: '2019-03-01T18:32:10'
-  last_modified: '2019-03-01T18:32:10'
+  last_modified: '2024-10-30T14:11:14'
 type: zip
+commands:
+  play: CORRUPT.EXE
+references:
+  mobygames: https://www.mobygames.com/game/106349/corrupt/
 files:
 - name: 1AGENTES.DAT
   size: 5821

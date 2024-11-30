@@ -1,20 +1,23 @@
-filename: Rescate En El Golfo (Es) [a1][h1] (1990)(Opera Soft S.A.) [Action].zip
+filename: Rescate en el Golfo (Es) [DC][h1][b1] (1990)(Opera Soft S.A.) [Action].zip
 tdc_id: '14845.2'
 title:
-  box: Rescate En El Golfo
+  box: Rescate en el Golfo
 publisher: Opera Soft S.A.
 year: '1990'
 genre: Action
 language: Spanish
 date:
   added: '2020-03-29T10:47:00'
-  last_modified: '2020-03-29T10:47:00'
+  last_modified: '2024-11-25T18:59:13'
 type: zip
 tags:
+- DOSConversion
 - Hack: 1
-- Alternate: 1
+- Bad: 1
 commands:
   play: RESCATE.EXE
+references:
+  mobygames: https://www.mobygames.com/game/19922/rescate-en-el-golfo/
 files:
 - name: README.TXT
   size: 5

@@ -1,5 +1,6 @@
-filename: Hillsfar v1.1 (1989)(Strategic Simulations, Inc.) [IMA][360k].zip
+filename: Hillsfar v1.1 (1989)(Strategic Simulations, Inc.) [IMA][360k][!].zip
 tdc_id: '8342.6'
+parent_id: '8342.9'
 title:
   box: Hillsfar
 publisher: Strategic Simulations, Inc.
@@ -8,18 +9,20 @@ genre: IMA
 language: English
 date:
   added: '2023-12-12T11:58:12'
-  last_modified: '2023-12-12T11:58:12'
+  last_modified: '2024-10-28T13:32:30'
 version: '1.1'
 type: IMA
+tags:
+- KnownGood
 media: 360K
 references:
   mobygames: https://www.mobygames.com/game/506/hillsfar/
 files:
-- name: HILLS-1.IMA
+- name: Disk1.ima
   size: 368640
-  date: '2011-06-21T18:10:36'
+  date: '2024-10-27T13:49:38'
   crc: '0x230189d2'
-- name: HILLS-2.IMA
+- name: Disk2.ima
   size: 368640
-  date: '2011-06-21T18:11:36'
+  date: '2024-10-27T13:49:48'
   crc: '0x5afd7ed2'

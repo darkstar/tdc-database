@@ -1,4 +1,4 @@
-filename: SuperFly [SW] (1990)(Nels Anderson) [Action].zip
+filename: SuperFly v1.0 [SW] (1990)(Nels Anderson) [Action].zip
 tdc_id: '16343.0'
 title:
   screen: SuperFly
@@ -8,11 +8,16 @@ genre: Action
 language: English
 date:
   added: '2019-03-01T18:34:12'
-  last_modified: '2019-03-01T18:34:12'
+  last_modified: '2024-11-18T14:39:20'
+version: '1.0'
 type: zip
 tags:
 - Shareware
 media: Download
+commands:
+  play: FLY.EXE
+references:
+  mobygames: https://www.mobygames.com/game/8708/superfly/
 files:
 - name: ARGHFLY.PCC
   size: 2235

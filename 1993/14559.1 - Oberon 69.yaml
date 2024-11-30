@@ -1,0 +1,33 @@
+filename: Oberon 69 (1993)(Prism Leisure Corporation Plc) [Action].zip
+tdc_id: '14559.1'
+parent_id: '14559.2'
+title:
+  box: Oberon 69
+publisher: Prism Leisure Corporation Plc
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:33:22'
+  last_modified: '2024-10-30T13:35:46'
+type: zip
+media: 720K
+commands:
+  play: OBERON.BAT
+references:
+  mobygames: https://www.mobygames.com/game/34502/oberon-69/
+  dosid: DOS03791
+  exodos: Oberon 69 (1990).zip
+files:
+- name: 69.EXE
+  size: 89429
+  date: '1993-06-17T00:57:06'
+  crc: '0x48be176c'
+- name: OBERON.BAT
+  size: 30
+  date: '1993-06-17T00:57:06'
+  crc: '0x7f091a0c'
+- name: PRE69.COM
+  size: 60042
+  date: '1993-06-17T00:57:06'
+  crc: '0xc4a974f7'

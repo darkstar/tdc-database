@@ -2,7 +2,6 @@ filename: F-22 Lightning II v1.02.00.02 (demo) (Installer) (1996)(NovaLogic, Inc
 tdc_id: '9116.2'
 title:
   box: F-22 Lightning II
-  qualifier: demo
 publisher: NovaLogic, Inc.
 year: '1996'
 genre:
@@ -16,6 +15,7 @@ version: 1.02.00.02
 type: zip
 media: Download
 installer: true
+demo: true
 references:
   mobygames: https://www.mobygames.com/game/2576/f-22-lightning-ii/
 files:

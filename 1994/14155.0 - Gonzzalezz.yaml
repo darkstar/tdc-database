@@ -1,0 +1,42 @@
+filename: Gonzzalezz (Es) (1994)(Digital Dreams Multimedia, Opera Soft S.A.) [Action].zip
+tdc_id: '14155.0'
+parent_id: '10553.0'
+parent_id_valid: true
+title:
+  box: Gonzzalezz
+publisher: Digital Dreams Multimedia, Opera Soft S.A.
+year: '1994'
+genre: Action
+language: Spanish
+date:
+  added: '2019-03-01T18:27:50'
+  last_modified: '2024-10-27T17:49:34'
+type: zip
+media: CD-ROM
+commands:
+  play: GONZALEZ.EXE
+references:
+  mobygames: https://www.mobygames.com/game/28005/gonzzalezz/
+  dosid: DOS02442
+  exodos: Gonzzalezz (1989).zip
+files:
+- name: GONZALE1.OVL
+  size: 43177
+  date: '1989-04-05T13:55:50'
+  crc: '0x0c3e51e9'
+- name: GONZALE2.OVL
+  size: 44925
+  date: '1989-04-05T13:53:24'
+  crc: '0xa8dd893b'
+- name: GONZALEZ.CTR
+  size: 1085
+  date: '1994-11-29T23:34:26'
+  crc: '0x6de6c67b'
+- name: GONZALEZ.EXE
+  size: 2371
+  date: '1992-12-01T13:25:34'
+  crc: '0x3217d63b'
+- name: GONZALEZ.PIC
+  size: 16384
+  date: '1989-04-03T13:49:18'
+  crc: '0xa136b176'

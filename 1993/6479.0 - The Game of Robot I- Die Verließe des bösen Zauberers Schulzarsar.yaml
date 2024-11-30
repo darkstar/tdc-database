@@ -1,0 +1,30 @@
+filename: Game of Robot I, The- Die Verließe des bösen Zauberers Schulzarsar v1.5 (Installer) (De) [SW] (1993)(TOM-Productions) [Action].zip
+tdc_id: '6479.0'
+title:
+  screen: 'The Game of Robot I: Die Verließe des bösen Zauberers Schulzarsar'
+publisher: TOM-Productions
+year: '1993'
+genre: Action
+language: German
+date:
+  added: '2019-03-01T19:18:04'
+  last_modified: '2024-10-29T09:04:15'
+version: '1.5'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/6876/the-game-of-robot/
+files:
+- name: INSTALL.EXE
+  size: 21982
+  date: '1993-04-16T18:44:54'
+  crc: '0x05edb0d9'
+- name: ROBOT1.ARJ
+  size: 217744
+  date: '1993-04-15T21:00:00'
+  crc: '0xdd9eaab9'

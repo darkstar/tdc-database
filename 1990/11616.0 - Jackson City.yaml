@@ -1,22 +1,27 @@
-filename: Jackson City (1990)(G.LL. Software S.A.) [Action].zip
+filename: Jackson City (1990)(Prism Leisure Corporation plc.) [Action].zip
 tdc_id: '11616.0'
+parent_id: '11616.1'
 title:
-  screen: Jackson City
-publisher: G.LL. Software S.A.
+  box: Jackson City
+publisher: Prism Leisure Corporation plc.
 year: '1990'
 genre: Action
 language: English
 date:
   added: '2019-03-01T18:32:56'
-  last_modified: '2019-03-01T18:32:56'
+  last_modified: '2024-10-29T17:08:38'
 type: zip
+media: 720K
+commands:
+  play: JACKSON.BAT
 references:
+  mobygames: https://www.mobygames.com/game/56808/jackson-city/
   dosid: DOS06126
   exodos: Jackson City (1990).zip
 files:
 - name: JACKP.QCB
   size: 16192
-  date: '2019-09-25T22:40:30'
+  date: '1993-06-17T00:51:18'
   crc: '0x0c5e3d4e'
 - name: JACKSON.BAT
   size: 19
@@ -24,5 +29,5 @@ files:
   crc: '0x97d91962'
 - name: Q4.EXE
   size: 108257
-  date: '2019-09-25T22:40:30'
+  date: '1993-06-17T00:51:18'
   crc: '0xb4a267a6'

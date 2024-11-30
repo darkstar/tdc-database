@@ -1,5 +1,6 @@
-filename: MegaCorp (Es) [DC][b1] (1989)(Dinamic Software) [Adventure, Interactive Fiction].zip
+filename: MegaCorp (Es) [DC] (1989)(Dinamic Software) [Adventure, Interactive Fiction].zip
 tdc_id: '14216.0'
+parent_id: '14216.1'
 title:
   box: MegaCorp
 publisher: Dinamic Software
@@ -10,35 +11,65 @@ genre:
 language: Spanish
 date:
   added: '2019-03-01T18:28:22'
-  last_modified: '2019-03-01T18:28:22'
+  last_modified: '2024-11-11T08:58:57'
 type: zip
 tags:
 - DOSConversion
-- Bad: 1
+media: 720K
 commands:
-  play: DINAMIC.EXE
+  play: MEGACORP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/34048/megacorp/
 files:
-- name: 51k.tmp
-  size: 52104
-  date: '2000-06-16T20:26:44'
-  crc: '0xec3ac664'
-- name: DATOS.DAT
-  size: 189440
-  date: '1998-01-12T22:58:48'
-  crc: '0xa5a58f90'
-- name: DINAMIC.EXE
-  size: 53248
-  date: '1988-03-14T22:08:02'
-  crc: '0x40e33a19'
-- name: Leeme.txt
-  size: 8009
-  date: '2000-06-16T20:45:52'
-  crc: '0x90b111ef'
+- name: '1'
+  size: 27648
+  date: '1989-05-07T14:48:54'
+  crc: '0xd34ca377'
+- name: '2'
+  size: 32256
+  date: '1989-05-07T14:48:54'
+  crc: '0xd4b390bd'
+- name: '3'
+  size: 27648
+  date: '1989-05-07T14:48:54'
+  crc: '0x34ffdc58'
+- name: '4'
+  size: 32256
+  date: '1989-05-07T14:48:54'
+  crc: '0x610d5942'
+- name: '5'
+  size: 27648
+  date: '1989-05-07T14:48:54'
+  crc: '0xd34ca377'
+- name: '6'
+  size: 32256
+  date: '1989-05-07T14:48:54'
+  crc: '0xd4b390bd'
+- name: '7'
+  size: 27648
+  date: '1989-05-07T14:48:54'
+  crc: '0x34ffdc58'
+- name: '8'
+  size: 32256
+  date: '1989-05-07T14:48:54'
+  crc: '0x610d5942'
 - name: MEGA1.DNM
+  size: 56625
+  date: '1989-05-07T14:47:10'
+  crc: '0xfbe728a7'
+- name: MEGA1.DN_
   size: 56625
   date: '1989-05-07T14:47:10'
   crc: '0xceb64032'
 - name: MEGA2.DNM
   size: 60436
   date: '1989-05-07T14:48:54'
+  crc: '0x550be76e'
+- name: MEGA2.DN_
+  size: 60436
+  date: '1989-05-07T14:48:54'
   crc: '0xf5e2d009'
+- name: MEGACORP.EXE
+  size: 53248
+  date: '1988-03-14T22:08:02'
+  crc: '0x40e33a19'

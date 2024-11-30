@@ -1,5 +1,6 @@
-filename: Manchester United Europe v1.02 (En)(Fr)(De)(Es)(It) (1992)(Krisalis Software Ltd.) [Simulation, Sports].zip
+filename: Manchester United Europe v1.02 (En)(Fr)(De)(Es)(It) (1992)(Krisalis Software Ltd.) [Simulation, Sports][!].zip
 tdc_id: '9874.0'
+parent_id: '9874.2'
 title:
   box: Manchester United Europe
 publisher: Krisalis Software Ltd.
@@ -15,10 +16,16 @@ language:
 - German
 date:
   added: '2019-03-01T18:49:12'
-  last_modified: '2019-03-01T18:49:12'
+  last_modified: '2024-10-02T11:36:13'
 version: '1.02'
 type: zip
+tags:
+- KnownGood
+media: 720K
+commands:
+  play: MUFC2.EXE
 references:
+  mobygames: https://www.mobygames.com/game/13148/microleague-action-sports-soccer/
   dosid: DOS03331
   exodos: Manchester United Europe (1991).zip
 files:
@@ -68,7 +75,7 @@ files:
   crc: '0x456f0354'
 - name: GRAPHICS\
   size: 0
-  date: '1996-10-02T21:24:20'
+  date: '1992-03-12T08:55:50'
 - name: GRAPHICS\BACKNUMS.EGA
   size: 10640
   date: '1991-09-05T17:12:20'

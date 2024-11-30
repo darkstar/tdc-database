@@ -1,4 +1,4 @@
-filename: Baseball Fanatic (1986)(Performing Arts Software Inc.) [Sports].zip
+filename: Baseball Fanatic [SW] (1986)(Performing Arts Software Inc.) [Sports].zip
 tdc_id: '1240.0'
 title:
   screen: Baseball Fanatic
@@ -8,8 +8,15 @@ genre: Sports
 language: English
 date:
   added: '2019-03-01T18:24:42'
-  last_modified: '2019-03-01T18:24:42'
+  last_modified: '2024-11-25T11:34:00'
 type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: BFDEMO.EXE
+references:
+  mobygames: https://www.mobygames.com/game/190046/baseball-fanatic/
 files:
 - name: A'S72.DAT
   size: 640

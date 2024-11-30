@@ -2,7 +2,6 @@ filename: Realms of Arkania- Star Trail (demo) (Installer) (1994)(Sir-tech Softw
 tdc_id: '14780.3'
 title:
   box: 'Realms of Arkania: Star Trail'
-  qualifier: demo
 publisher: Sir-tech Software, Inc.
 year: '1994'
 genre: Role-Playing (RPG)
@@ -13,6 +12,7 @@ date:
 type: zip
 media: Download
 installer: true
+demo: true
 commands:
   play: INSTALL.EXE
 references:

@@ -1,9 +1,10 @@
-filename: Drakkhen (Tandy) (1990)(Infogrames) [Action, Adventure, Role-Playing (RPG)].zip
+filename: Drakkhen (CGA, EGA, HGA, TGA) (Installer) (1990)(Data East USA, Inc., Infogrames Europe SA) [Action, Adventure, Role-Playing (RPG)].zip
 tdc_id: '9458.1'
+parent_id: '9458.5'
 title:
   box: Drakkhen
-  qualifier: Tandy
-publisher: Infogrames
+  qualifier: CGA, EGA, HGA, TGA
+publisher: Data East USA, Inc., Infogrames Europe SA
 year: '1990'
 genre:
 - Action
@@ -12,9 +13,14 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:32:28'
-  last_modified: '2019-03-01T18:32:28'
+  last_modified: '2024-11-14T17:14:02'
 type: zip
+media: 720K
+installer: true
+commands:
+  play: DRAKKHEN.COM
 references:
+  mobygames: https://www.mobygames.com/game/1969/drakkhen/
   dosid: DOS01874
   exodos: Drakkhen (1989).zip
 files:
@@ -66,11 +72,38 @@ files:
   size: 1250
   date: '1990-09-02T12:23:34'
   crc: '0x5d74a57f'
+- name: DISK1\
+  size: 0
+  date: '1990-09-02T12:23:02'
+- name: DISK1\ACTIV.SAV
+  size: 360
+  date: '1990-09-02T12:23:02'
+  crc: '0xca70eb78'
+- name: DISK1\OBJET.SAV
+  size: 210
+  date: '1990-09-02T12:23:02'
+  crc: '0xa92a0378'
+- name: DISK1\PERSO.SAV
+  size: 1994
+  date: '1990-09-02T12:23:02'
+  crc: '0xf6f09881'
+- name: DISK1\QUETE.FNT
+  size: 614
+  date: '1990-09-02T12:23:02'
+  crc: '0x9080c550'
 - name: DRAKC.CC1
+  size: 143700
+  date: '1990-09-02T11:23:02'
+  crc: '0x1cc7ceb6'
+- name: DRAKC.CC_
   size: 143700
   date: '1990-09-02T12:23:02'
   crc: '0x736f6ed3'
 - name: DRAKE.CC1
+  size: 146414
+  date: '1990-09-02T11:23:34'
+  crc: '0xe995ec60'
+- name: DRAKE.CC_
   size: 146414
   date: '1990-09-02T12:23:34'
   crc: '0xaee2c228'
@@ -80,8 +113,8 @@ files:
   crc: '0xa92e4853'
 - name: DRAKM.CC1
   size: 137890
-  date: '2011-12-13T19:54:42'
-  crc: '0x7bd65a94'
+  date: '1990-09-02T11:23:34'
+  crc: '0xc6e897bb'
 - name: DRAKM.CC_
   size: 137890
   date: '1990-09-02T12:23:34'
@@ -91,6 +124,10 @@ files:
   date: '1990-09-02T12:23:34'
   crc: '0xe021ee7a'
 - name: DRAKTJ.CC1
+  size: 114418
+  date: '1990-09-02T11:23:02'
+  crc: '0xbc807187'
+- name: DRAKTJ.CC_
   size: 114418
   date: '1990-09-02T12:23:02'
   crc: '0x99e0d571'
@@ -262,7 +299,3 @@ files:
   size: 22274
   date: '1990-09-02T12:23:34'
   crc: '0x3da402ea'
-- name: inst.bat
-  size: 901
-  date: '1990-09-02T12:23:02'
-  crc: '0x2f52e673'

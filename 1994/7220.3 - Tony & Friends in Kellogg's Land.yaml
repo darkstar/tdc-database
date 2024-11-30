@@ -1,16 +1,20 @@
-filename: Tony & Friends in Kellogg's Land (Installer) (De) (1994)(Kellogg Company) [Action].zip
+filename: Tony & Friends in Kellogg's Land (Installer) (De) (1994)(Kellogg (Deutschland) GmbH) [Action].zip
 tdc_id: '7220.3'
 title:
   box: Tony & Friends in Kellogg's Land
-publisher: Kellogg Company
+publisher: Kellogg (Deutschland) GmbH
 year: '1994'
 genre: Action
 language: German
 date:
   added: '2019-03-02T07:18:28'
-  last_modified: '2019-03-02T07:18:28'
+  last_modified: '2024-10-28T12:48:17'
 type: zip
 installer: true
+commands:
+  play: INSTALL.BAT
+references:
+  mobygames: https://www.mobygames.com/game/161187/tony-friends-in-kelloggs-land/
 files:
 - name: INSTALL.BAT
   size: 7

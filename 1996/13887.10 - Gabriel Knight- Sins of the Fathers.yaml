@@ -3,7 +3,6 @@ tdc_id: '13887.10'
 parent_id: '13887.9'
 title:
   box: 'Gabriel Knight: Sins of the Fathers'
-  qualifier: Installer
 publisher: Sierra On-Line, Inc.
 year: '1996'
 genre: Adventure
@@ -14,7 +13,6 @@ date:
 version: 1.100.000
 type: zip
 media: CD-ROM
-installer: true
 commands:
   play: SIERRA.EXE
   setup: INSTALL.EXE

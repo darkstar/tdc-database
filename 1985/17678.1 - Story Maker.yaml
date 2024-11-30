@@ -1,0 +1,93 @@
+filename: Story Maker (1985)(Sierra On-Line) [Educational].zip
+tdc_id: '17678.1'
+parent_id: '17678.0'
+title:
+  box: Story Maker
+publisher: Sierra On-Line
+year: '1985'
+genre: Educational
+language: English
+date:
+  added: '2024-10-31T10:47:25'
+  last_modified: '2024-10-31T10:47:25'
+type: zip
+media: 360K
+commands:
+  play: SMAKER.EXE
+files:
+- name: AUTOEXEC.BAT
+  size: 23
+  date: '1980-01-01T00:03:18'
+  crc: '0x55329e3e'
+- name: AUTOLOAD.EXE
+  size: 3584
+  date: '1980-01-01T00:02:54'
+  crc: '0x93ed1591'
+- name: BANNER
+  size: 614
+  date: '1980-01-01T00:00:38'
+  crc: '0xf751352b'
+- name: BRUSH.PIC
+  size: 529
+  date: '1980-01-01T02:03:30'
+  crc: '0x723acb9f'
+- name: CREDITS
+  size: 42
+  date: '1980-01-01T02:06:50'
+  crc: '0xec542a04'
+- name: DUMMY1
+  size: 6000
+  date: '1980-01-01T00:06:44'
+  crc: '0x3e6829c1'
+- name: DUMMY2
+  size: 20000
+  date: '1980-01-01T00:06:46'
+  crc: '0x3d28be94'
+- name: DUMMY3
+  size: 20000
+  date: '1980-01-01T00:06:48'
+  crc: '0x972f5302'
+- name: HAYSTACK.PIC
+  size: 387
+  date: '1984-10-16T15:47:50'
+  crc: '0x655be37a'
+- name: HOUSE.PIC
+  size: 294
+  date: '1984-10-16T15:08:46'
+  crc: '0x58322e5b'
+- name: INSTRUCT.TXT
+  size: 4570
+  date: '1984-12-14T08:50:12'
+  crc: '0x62357d9d'
+- name: MOUNTAIN.PIC
+  size: 178
+  date: '1984-10-16T15:03:50'
+  crc: '0x50b70d70'
+- name: PILLOW.PIC
+  size: 241
+  date: '1984-10-16T15:01:16'
+  crc: '0x57bebca0'
+- name: ROOSTER.PIC
+  size: 481
+  date: '1984-10-16T16:41:04'
+  crc: '0x0d2af5c1'
+- name: SMAKER.EXE
+  size: 20992
+  date: '1980-01-01T00:10:36'
+  crc: '0x861716e4'
+- name: SMAKER.EX_
+  size: 20992
+  date: '1980-01-01T00:10:36'
+  crc: '0xf3ce80c6'
+- name: SNOW.PIC
+  size: 526
+  date: '1984-10-16T16:26:34'
+  crc: '0xc7a157c4'
+- name: STELLER.EXE
+  size: 7680
+  date: '1985-01-14T16:46:26'
+  crc: '0x36327f79'
+- name: STORY
+  size: 1127
+  date: '1984-10-16T16:48:32'
+  crc: '0xca3aaf87'

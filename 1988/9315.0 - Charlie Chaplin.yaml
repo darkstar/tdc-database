@@ -1,5 +1,6 @@
-filename: Charlie Chaplin (1988)(U.S. Gold Ltd.) [Action, Simulation, Strategy].zip
+filename: Charlie Chaplin (1988)(U.S. Gold Ltd.) [Action, Simulation, Strategy][!].zip
 tdc_id: '9315.0'
+parent_id: '9315.1'
 title:
   box: Charlie Chaplin
 publisher: U.S. Gold Ltd.
@@ -11,10 +12,15 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:26:02'
-  last_modified: '2022-12-30T07:38:13'
+  last_modified: '2024-10-07T14:35:57'
 type: zip
+tags:
+- KnownGood
+media: 360K
 commands:
   play: CHAPLIN.EXE
+references:
+  mobygames: https://www.mobygames.com/game/28966/charlie-chaplin/
 files:
 - name: BOY.SPR
   size: 6312

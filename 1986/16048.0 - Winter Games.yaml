@@ -1,4 +1,4 @@
-filename: Winter Games [a1][DC] (1986)(Epyx, Inc.) [Action, Sports].zip
+filename: Winter Games [DC][a1] (1986)(Epyx, Inc.) [Action, Sports].zip
 tdc_id: '16048.0'
 title:
   box: Winter Games
@@ -10,19 +10,21 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:25:04'
-  last_modified: '2019-03-01T18:25:04'
+  last_modified: '2024-10-08T12:28:11'
 type: zip
 tags:
 - DOSConversion
 - Alternate: 1
 commands:
   play: WINTER.COM
+references:
+  mobygames: https://www.mobygames.com/game/1215/winter-games/
 files:
 - name: WINTER.COM
-  size: 2048
-  date: '1987-11-05T01:05:44'
-  crc: '0x559b61e1'
-- name: WINTERGM.DTA
-  size: 328192
-  date: '1987-11-05T03:09:22'
-  crc: '0xc8f9e9b1'
+  size: 416
+  date: '1999-08-24T22:18:00'
+  crc: '0x4d7d9e7f'
+- name: WINTER.DAT
+  size: 368640
+  date: '1997-07-03T09:14:00'
+  crc: '0x23041a6e'

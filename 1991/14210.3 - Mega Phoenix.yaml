@@ -1,0 +1,60 @@
+filename: Mega Phoenix (1991)(Dinamic Software) [Action].zip
+tdc_id: '14210.3'
+title:
+  box: Mega Phoenix
+publisher: Dinamic Software
+year: '1991'
+genre: Action
+language: English
+date:
+  added: '2024-11-05T11:05:10'
+  last_modified: '2024-11-05T11:05:10'
+type: zip
+commands:
+  play: DINAMIC.EXE
+references:
+  mobygames: https://www.mobygames.com/game/25335/mega-phoenix/
+files:
+- name: DINAMIC.EXE
+  size: 58896
+  date: '1991-06-24T18:49:20'
+  crc: '0xd99a6284'
+- name: DISK1\
+  size: 0
+  date: '1992-02-17T05:37:38'
+- name: DISK1\DIBUJOS.BIN
+  size: 43600
+  date: '1991-06-18T16:33:50'
+  crc: '0x773a28ad'
+- name: DISK1\FONDO1.BIN
+  size: 13600
+  date: '1991-06-04T19:15:40'
+  crc: '0x01286c71'
+- name: DISK1\FONDO2.BIN
+  size: 13600
+  date: '1991-06-05T13:35:42'
+  crc: '0xcf1b09b6'
+- name: DISK1\FONDO3.BIN
+  size: 13600
+  date: '1991-06-05T13:35:30'
+  crc: '0xf19eba77'
+- name: DISK1\PAJAGRAF.BIN
+  size: 21446
+  date: '1991-05-30T18:30:02'
+  crc: '0x96beb858'
+- name: DISK1\PAJAMENU.PAN
+  size: 32080
+  date: '1991-05-30T18:05:34'
+  crc: '0xfebfc51e'
+- name: DISK1\TODOMEGA.BIN
+  size: 68238
+  date: '1991-05-31T20:25:46'
+  crc: '0x098ff1d7'
+- name: DISK1\TODOMEGA.SON
+  size: 15334
+  date: '1991-06-02T03:46:08'
+  crc: '0x6f3796c9'
+- name: INSTMEGA.BAT
+  size: 256
+  date: '1991-06-24T18:58:54'
+  crc: '0x8919fe8c'

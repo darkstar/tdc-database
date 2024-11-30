@@ -1,15 +1,19 @@
-filename: Rubik's Cube (1989)(Calvin Culver) [Simulation].zip
+filename: Rubik's Cube (1989)(Calvin Culver) [Simulation, Strategy, Puzzle].zip
 tdc_id: '5715.0'
 title:
   screen: Rubik's Cube
 publisher: Calvin Culver
 year: '1989'
-genre: Simulation
+genre:
+- Simulation
+- Strategy
+- Puzzle
 language: English
 date:
   added: '2019-03-01T18:28:50'
-  last_modified: '2019-03-01T18:28:50'
+  last_modified: '2024-10-18T10:05:31'
 type: zip
+media: Download
 commands:
   play: RUBIK10.EXE
 files:

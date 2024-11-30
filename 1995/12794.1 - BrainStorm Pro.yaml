@@ -1,0 +1,40 @@
+filename: BrainStorm Pro [SWR] (1995)(Elkware) [Strategy, Puzzle].zip
+tdc_id: '12794.1'
+title:
+  screen: BrainStorm Pro
+publisher: Elkware
+year: '1995'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2019-03-01T21:54:58'
+  last_modified: '2024-10-30T12:51:00'
+type: zip
+tags:
+- SharewareRegistered
+media: Download
+commands:
+  play: BSPRO.EXE
+references:
+  mobygames: https://www.mobygames.com/game/71589/brainstorm-pro/
+  dosid: DOS06756
+  exodos: BrainStorm Pro (1994).zip
+files:
+- name: BSPRO.DOC
+  size: 4321
+  date: '1995-01-20T14:12:46'
+  crc: '0x586ac9a0'
+- name: BSPRO.DTA
+  size: 644194
+  date: '1995-01-20T14:12:46'
+  crc: '0x24c80ffd'
+- name: BSPRO.EXE
+  size: 19455
+  date: '1995-01-20T14:12:00'
+  crc: '0x81df779a'
+- name: DOC.EXE
+  size: 4833
+  date: '1995-01-20T14:12:46'
+  crc: '0x6843026a'

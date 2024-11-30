@@ -2,7 +2,6 @@ filename: Rock'n Shaolin- Legend of Seven Paladins (demo) (Installer) (1994)(Acc
 tdc_id: '9035.2'
 title:
   screen: 'Rock''n Shaolin: Legend of Seven Paladins'
-  qualifier: Installer
 publisher: Accend, Inc.
 year: '1994'
 genre: Action
@@ -13,6 +12,7 @@ date:
 type: zip
 media: Download
 installer: true
+demo: true
 files:
 - name: 75DEMO.1
   size: 1195008

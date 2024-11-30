@@ -1,8 +1,8 @@
-filename: Links- The Challenge of Golf v1.55 (Installer) (1995)(Kixx XL) [Simulation, Sports].zip
+filename: Links- The Challenge of Golf v1.55 (Installer) (1995)(Kixx XL, Access Software, Inc.) [Simulation, Sports].zip
 tdc_id: '6413.5'
 title:
   box: 'Links: The Challenge of Golf'
-publisher: Kixx XL
+publisher: Kixx XL, Access Software, Inc.
 year: '1995'
 genre:
 - Simulation
@@ -10,10 +10,14 @@ genre:
 language: English
 date:
   added: '2019-02-23T04:41:48'
-  last_modified: '2019-02-23T04:41:48'
+  last_modified: '2024-10-09T12:21:05'
 version: '1.55'
 type: zip
 installer: true
+commands:
+  play: MENU.EXE
+references:
+  mobygames: https://www.mobygames.com/game/492/links-the-challenge-of-golf/
 files:
 - name: DOXVIEW\
   size: 0

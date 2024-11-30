@@ -1,0 +1,32 @@
+filename: Zork III- The Dungeon Master r12 [DC] (1982)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '15701.13'
+parent_id: '15701.12'
+title:
+  box: 'Zork III: The Dungeon Master'
+publisher: Infocom, Inc.
+year: '1982'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2024-11-19T16:56:53'
+  last_modified: '2024-11-19T16:56:53'
+release: '12'
+type: zip
+tags:
+- DOSConversion
+media: 360K
+commands:
+  play: ZORK3.COM
+references:
+  mobygames: https://www.mobygames.com/game/53/zork-iii-the-dungeon-master/
+files:
+- name: ZORK3.COM
+  size: 12928
+  date: '1980-01-01T00:00:00'
+  crc: '0x86cd082e'
+- name: ZORK3R12.DAT
+  size: 112832
+  date: '1982-10-25T16:53:48'
+  crc: '0x847823bb'

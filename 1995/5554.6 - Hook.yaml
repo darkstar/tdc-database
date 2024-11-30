@@ -1,0 +1,37 @@
+filename: Hook (Installer) (En)(De)(Fr)(It)(Es) (1995)(Big Games, Ocean Software Ltd.) [Adventure].zip
+tdc_id: '5554.6'
+parent_id: '5554.5'
+title:
+  box: Hook
+publisher: Big Games, Ocean Software Ltd.
+year: '1995'
+genre: Adventure
+language:
+- English
+- Spanish
+- French
+- Italian
+- German
+date:
+  added: '2024-10-08T19:11:08'
+  last_modified: '2024-10-08T19:11:08'
+type: zip
+media: 720K
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/20230/hook/
+files:
+- name: HOOK.2
+  size: 730112
+  date: '1992-07-02T10:24:40'
+  crc: '0x28c83a31'
+- name: HOOK.3
+  size: 227069
+  date: '1992-07-02T10:24:40'
+  crc: '0x0761191d'
+- name: INSTALL.EXE
+  size: 729974
+  date: '1994-08-08T13:17:24'
+  crc: '0x796fab28'

@@ -1,18 +1,23 @@
-filename: Tony & Friends in Kellogg's Land (De) [a1][f1] (1994)(Kellogg Company) [Action].zip
+filename: Tony & Friends in Kellogg's Land (De) [a1][f1] (1994)(Kellogg (Deutschland) GmbH) [Action].zip
 tdc_id: '7220.2'
 title:
   box: Tony & Friends in Kellogg's Land
-publisher: Kellogg Company
+publisher: Kellogg (Deutschland) GmbH
 year: '1994'
 genre: Action
 language: German
 date:
   added: '2021-12-14T02:22:32'
-  last_modified: '2021-12-14T02:22:32'
+  last_modified: '2024-10-28T12:52:16'
 type: zip
 tags:
 - Alternate: 1
 - Fixed: 1
+commands:
+  play: START.EXE
+  setup: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/161187/tony-friends-in-kelloggs-land/
 files:
 - name: DPMI16BI.OVL
   size: 65312

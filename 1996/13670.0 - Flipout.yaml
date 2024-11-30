@@ -1,9 +1,9 @@
-filename: Flipout (De)(En) [SW] (1996)(TOM Productions) [Action].zip
+filename: FlipOut (De)(En) [SW] (1996)(TOM-Productions) [Action].zip
 tdc_id: '13670.0'
 parent_id: '13670.1'
 title:
-  screen: Flipout
-publisher: TOM Productions
+  screen: FlipOut
+publisher: TOM-Productions
 year: '1996'
 genre: Action
 language:
@@ -11,13 +11,15 @@ language:
 - German
 date:
   added: '2019-03-02T10:03:44'
-  last_modified: '2019-03-02T10:03:44'
+  last_modified: '2024-10-29T08:57:31'
 type: zip
 tags:
 - Shareware
 media: Download
 commands:
   play: FLIPOUT.BAT
+references:
+  mobygames: https://www.mobygames.com/game/177221/flipout/
 files:
 - name: FLIPOUT.BAT
   size: 28

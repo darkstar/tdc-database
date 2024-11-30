@@ -15,12 +15,12 @@ references:
   exodos: Moptown Parade (1984).zip
 files:
 - name: AUTOEXEC.BAT
-  size: 25
-  date: '2001-02-01T22:55:18'
-  crc: '0x68cd1142'
+  size: 23
+  date: '1980-01-01T00:00:00'
+  crc: '0x3f3918d1'
 - name: BASICA.EXE
   size: 54272
-  date: '1983-05-13T12:00:00'
+  date: '1980-01-01T00:00:00'
   crc: '0x7fdfc79a'
 - name: C.BIN
   size: 16512
@@ -30,10 +30,6 @@ files:
   size: 13184
   date: '1984-02-02T08:27:16'
   crc: '0x5795095c'
-- name: COMMAND.COM
-  size: 17792
-  date: '1984-01-30T12:00:00'
-  crc: '0x12c755d3'
 - name: DIFFS.BAS
   size: 13056
   date: '1984-02-02T08:27:44'
@@ -51,6 +47,10 @@ files:
   date: '1980-01-01T03:51:34'
   crc: '0x1145cb00'
 - name: MENU.BAS
+  size: 4864
+  date: '1984-02-01T07:44:14'
+  crc: '0xbe1e1af1'
+- name: MENU.BA_
   size: 4880
   date: '1984-02-01T07:44:14'
   crc: '0x020f4550'
@@ -66,10 +66,6 @@ files:
   size: 15360
   date: '1984-02-02T08:28:30'
   crc: '0x47349f2f'
-- name: NOKEY.COM
-  size: 7168
-  date: '1985-10-15T15:00:00'
-  crc: '0x805d1c0a'
 - name: OBJECT.BAS
   size: 392
   date: '1983-09-27T10:33:52'

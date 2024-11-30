@@ -1,63 +1,84 @@
-filename: James Pond II- Codename Robocod [a1] (1993)(Millennium Interactive Ltd.) [Action].zip
+filename: James Pond II- Codename Robocod (1993)(Kixx, Millennium Interactive Ltd.) [Action][!].zip
 tdc_id: '9694.2'
+parent_id: '9694.4'
 title:
   box: 'James Pond II: Codename Robocod'
-publisher: Millennium Interactive Ltd.
+publisher: Kixx, Millennium Interactive Ltd.
 year: '1993'
 genre: Action
 language: English
 date:
   added: '2019-03-01T19:10:32'
-  last_modified: '2019-03-01T19:10:32'
+  last_modified: '2024-10-09T13:31:56'
 type: zip
 tags:
-- Alternate: 1
+- KnownGood
+media: 1.44M
+commands:
+  play: ROBOCOD.EXE
+references:
+  mobygames: https://www.mobygames.com/game/581/james-pond-2-codename-robocod/
 files:
 - name: BATH1
   size: 77860
-  date: '1994-11-10T11:09:46'
+  date: '2106-11-23T11:50:26'
   crc: '0x9b89e59c'
 - name: CATLOTS
   size: 77072
-  date: '1994-11-10T11:09:50'
+  date: '2106-11-23T05:58:58'
   crc: '0x00253e9a'
+- name: HISCORE.DAT
+  size: 4
+  date: '1993-06-03T16:38:44'
+  crc: '0x045eaf28'
+- name: INSTALL.EXE
+  size: 2168
+  date: '1993-05-28T11:52:56'
+  crc: '0x492d5da7'
 - name: MOD.BON
   size: 49428
-  date: '1994-11-10T11:09:52'
+  date: '1993-05-26T11:21:20'
   crc: '0x928f6776'
 - name: MOD.ELG
   size: 58644
-  date: '1994-11-10T11:09:54'
+  date: '1993-05-19T16:23:58'
   crc: '0xac5a7e3c'
+- name: READ.ME
+  size: 2252
+  date: '1993-05-20T10:10:38'
+  crc: '0xbdbe4e2f'
+- name: ROBOCOD
+  size: 0
+  date: '1993-05-24T17:23:16'
 - name: ROBOCOD.EXE
   size: 82936
-  date: '1994-11-10T11:09:58'
+  date: '1993-06-02T16:36:10'
   crc: '0xf05f7fa9'
 - name: ROBOCOD.ICO
   size: 766
-  date: '1994-11-10T11:09:58'
+  date: '1992-09-22T20:04:20'
   crc: '0x2bbd087b'
+- name: ROBOCOD.PIF
+  size: 545
+  date: '1993-05-19T10:57:28'
+  crc: '0x6b143c95'
 - name: ROBOCOD.RNC
   size: 425582
-  date: '1994-11-10T11:10:18'
+  date: '1993-05-28T11:29:14'
   crc: '0xfee36a5d'
 - name: SAMPLES.BIN
   size: 29342
-  date: '1994-11-10T11:10:20'
+  date: '2106-01-01T00:00:00'
   crc: '0xdfa64e3b'
 - name: TITLE1
   size: 137448
-  date: '1994-11-10T11:10:26'
+  date: '2106-01-11T12:13:10'
   crc: '0x7303fbf4'
 - name: TOYS1
   size: 82980
-  date: '1994-11-10T11:10:28'
+  date: '2106-01-11T12:13:46'
   crc: '0x382ff8d0'
 - name: XMAS1
   size: 76836
-  date: '1994-11-10T11:10:32'
+  date: '2106-12-24T20:56:46'
   crc: '0x7e6a231a'
-- name: robocod.bat
-  size: 27
-  date: '1998-12-01T16:40:30'
-  crc: '0x61bc1851'

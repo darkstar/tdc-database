@@ -1,4 +1,4 @@
-filename: James Bond- The Stealth Affair (1990)(Interplay Productions, Inc.) [Action, Adventure].zip
+filename: James Bond- The Stealth Affair (1990)(Interplay Productions, Inc.) [Action, Adventure][!].zip
 tdc_id: '14643.6'
 parent_id: '14643.20'
 title:
@@ -11,9 +11,16 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:32:56'
-  last_modified: '2019-03-01T18:32:56'
+  last_modified: '2024-11-11T16:09:30'
 type: zip
+tags:
+- KnownGood
+media: 360K
+commands:
+  play: BOND.EXE
+  setup: INSTALL.EXE
 references:
+  mobygames: https://www.mobygames.com/game/2236/007-james-bond-the-stealth-affair/
   dosid: DOS02881
   exodos: James Bond 007 - The Stealth Affair (1990).zip
 files:
@@ -165,6 +172,24 @@ files:
   size: 4292
   date: '1990-10-10T12:23:34'
   crc: '0x4c8ffdb4'
+- name: STEALTH_.1
+  size: 0
+  date: '1990-09-26T07:21:00'
+- name: STEALTH_.2
+  size: 0
+  date: '1990-09-26T07:23:00'
+- name: STEALTH_.3
+  size: 0
+  date: '1990-09-26T07:24:00'
+- name: STEALTH_.4
+  size: 0
+  date: '1990-09-26T07:26:00'
+- name: STEALTH_.5
+  size: 0
+  date: '1990-09-26T07:28:00'
+- name: STEALTH_.6
+  size: 0
+  date: '1990-09-26T07:29:00'
 - name: TEXTE.DAT
   size: 5764
   date: '1990-08-17T10:18:02'

@@ -1,5 +1,6 @@
-filename: Disney's Duck Tales- The Quest for Gold (1990)(Walt Disney Computer Software, Inc.) [Action].zip
+filename: Disney's Duck Tales- The Quest for Gold v1.0 (1990)(Walt Disney Computer Software, Inc.) [Action][!].zip
 tdc_id: '6592.0'
+parent_id: '6592.4'
 title:
   box: 'Disney''s Duck Tales: The Quest for Gold'
 publisher: Walt Disney Computer Software, Inc.
@@ -8,11 +9,16 @@ genre: Action
 language: English
 date:
   added: '2019-03-01T18:32:24'
-  last_modified: '2019-03-01T18:32:24'
+  last_modified: '2024-11-15T18:44:04'
+version: '1.0'
 type: zip
+tags:
+- KnownGood
+media: 720K
 commands:
   play: DUCKTALE.EXE
 references:
+  mobygames: https://www.mobygames.com/game/1733/disneys-duck-tales-the-quest-for-gold/
   dosid: DOS01812
   exodos: Disney's Duck Tales - The Quest for Gold (1990).zip
 files:
@@ -30,8 +36,18 @@ files:
   crc: '0xb58a5279'
 - name: DUCKTALE.EXE
   size: 165218
-  date: '2008-10-25T17:52:46'
-  crc: '0xa0558ed7'
+  date: '1990-06-05T12:00:16'
+  crc: '0x2470fadd'
+- name: DUCKTALE.EX_
+  size: 165218
+  date: '1990-06-05T12:00:16'
+  crc: '0x0d21ee6d'
+- name: DUCKTALE.S 1
+  size: 0
+  date: '1990-06-04T23:06:12'
+- name: DUCKTALE.S 2
+  size: 0
+  date: '1990-06-04T22:10:40'
 - name: EXP.ARC
   size: 108115
   date: '1990-06-05T12:00:10'

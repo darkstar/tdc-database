@@ -4,7 +4,6 @@ parent_id: '17425.0'
 parent_id_valid: true
 title:
   screen: 'The Elder Scrolls: Daggerfall'
-  qualifier: demo
 publisher: Bethesda Softworks LLC
 year: '1995'
 genre: Role-Playing (RPG)
@@ -15,6 +14,7 @@ date:
 version: '0.1 '
 type: zip
 media: Download
+demo: true
 commands:
   play: FALL.EXE
 files:

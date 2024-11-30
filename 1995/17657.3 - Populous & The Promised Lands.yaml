@@ -1,0 +1,164 @@
+filename: Populous & The Promised Lands (1995)(Big Games, Electronic Arts, Inc.) [Strategy, Compilation].zip
+tdc_id: '17657.3'
+parent_id: '17657.2'
+title:
+  box: Populous & The Promised Lands
+publisher: Big Games, Electronic Arts, Inc.
+year: '1995'
+genre:
+- Strategy
+- Compilation
+language: English
+date:
+  added: '2024-10-09T07:07:02'
+  last_modified: '2024-10-09T07:07:02'
+type: zip
+media: 720K
+commands:
+  play: POP.BAT
+references:
+  mobygames: https://www.mobygames.com/game/16151/populous-populous-the-promised-lands/
+files:
+- name: DATA\
+  size: 0
+  date: '1994-07-10T12:45:54'
+- name: DATA\EGALOAD.DAT
+  size: 32048
+  date: '1994-07-10T12:46:46'
+  crc: '0x5619779f'
+- name: DATA\EGATITLE.DAT
+  size: 20224
+  date: '1994-07-10T12:46:44'
+  crc: '0xa6460c6b'
+- name: DATA\KEYS.DAT
+  size: 380
+  date: '1994-07-10T12:45:54'
+  crc: '0x6af9363c'
+- name: DATA\KEYS.DEF
+  size: 380
+  date: '1994-07-10T12:45:54'
+  crc: '0x6af9363c'
+- name: DATA\LEVEL0.DAT
+  size: 990
+  date: '1994-07-10T12:46:02'
+  crc: '0x76896726'
+- name: DATA\LEVEL1.DAT
+  size: 990
+  date: '1994-07-10T12:47:38'
+  crc: '0x98b5ad8d'
+- name: DATA\POP_ADL.DAT
+  size: 3299
+  date: '1994-07-10T12:46:00'
+  crc: '0xfe357fac'
+- name: DATA\POP_PC.DAT
+  size: 1253
+  date: '1994-07-10T12:46:00'
+  crc: '0xf64049ab'
+- name: DATA\POP_ROL.DAT
+  size: 4765
+  date: '1994-07-10T12:46:02'
+  crc: '0xdaa392f2'
+- name: DATA\POP_TDY.DAT
+  size: 2534
+  date: '1994-07-10T12:46:00'
+  crc: '0xbf6b0e91'
+- name: DATA\POP_TUNE.DAT
+  size: 23796
+  date: '1994-07-10T12:45:58'
+  crc: '0xe295f103'
+- name: DATA\VGAFONT.DAT
+  size: 4400
+  date: '1994-07-10T12:46:40'
+  crc: '0x59388127'
+- name: DATA\VGAICON.DAT
+  size: 11520
+  date: '1994-07-10T12:46:40'
+  crc: '0xcc7d8050'
+- name: DATA\VGALAND0.DAT
+  size: 32160
+  date: '1994-07-10T12:46:22'
+  crc: '0x11f8c951'
+- name: DATA\VGALAND1.DAT
+  size: 32160
+  date: '1994-07-10T12:46:18'
+  crc: '0x231c195b'
+- name: DATA\VGALAND2.DAT
+  size: 32160
+  date: '1994-07-10T12:46:06'
+  crc: '0x1cd41c10'
+- name: DATA\VGALAND3.DAT
+  size: 32160
+  date: '1994-07-10T12:46:12'
+  crc: '0x4b3eabe1'
+- name: DATA\VGALAND4.DAT
+  size: 32160
+  date: '1994-07-10T12:46:52'
+  crc: '0xdb948251'
+- name: DATA\VGALAND5.DAT
+  size: 32160
+  date: '1994-07-10T12:46:56'
+  crc: '0xc4de9685'
+- name: DATA\VGALAND6.DAT
+  size: 32160
+  date: '1994-07-10T12:47:00'
+  crc: '0xccd95ddd'
+- name: DATA\VGALAND7.DAT
+  size: 32160
+  date: '1994-07-10T12:47:06'
+  crc: '0xf4c94586'
+- name: DATA\VGALAND8.DAT
+  size: 32160
+  date: '1994-07-10T12:47:10'
+  crc: '0xb6b2a6fb'
+- name: DATA\VGALORD.DAT
+  size: 32048
+  date: '1994-07-10T12:46:28'
+  crc: '0x3b252431'
+- name: DATA\VGAQAZ.DAT
+  size: 32000
+  date: '1994-07-10T12:46:38'
+  crc: '0x1181b5fc'
+- name: DATA\VGASPR0.DAT
+  size: 31680
+  date: '1994-07-10T12:46:32'
+  crc: '0xab6988b5'
+- name: DATA\VGASPR4.DAT
+  size: 31680
+  date: '1994-07-10T12:47:16'
+  crc: '0xc388b99d'
+- name: DATA\VGASPR5.DAT
+  size: 31680
+  date: '1994-07-10T12:47:22'
+  crc: '0xd368b5b7'
+- name: DATA\VGASPR6.DAT
+  size: 31680
+  date: '1994-07-10T12:47:26'
+  crc: '0xed0ea3f0'
+- name: DATA\VGASPR7.DAT
+  size: 31680
+  date: '1994-07-10T12:47:32'
+  crc: '0x668d4e30'
+- name: DATA\VGASPR8.DAT
+  size: 31680
+  date: '1994-07-10T12:47:36'
+  crc: '0x0c39bd6d'
+- name: DATA\WORLD.DAT
+  size: 1340
+  date: '1994-07-10T12:45:56'
+  crc: '0x1e851e5d'
+- name: POP.BAT
+  size: 27
+  date: '1994-07-10T12:51:16'
+  crc: '0x55916636'
+- name: POPULOUS.EXE
+  size: 84959
+  date: '1994-07-10T12:45:46'
+  crc: '0x2a287ed4'
+- name: SOUND.EXE
+  size: 11092
+  date: '1994-07-10T12:45:54'
+  crc: '0xabbbcbef'
+- name: TRANS.EXE
+  size: 16715
+  date: '1994-07-10T12:45:50'
+  crc: '0x407810c0'

@@ -1,0 +1,46 @@
+filename: Hot Rod Harry v1.4 (Installer) [SW] (1992)(Waltware, Walt Winkelspecht) [Adventure].zip
+tdc_id: '8380.1'
+title:
+  screen: Hot Rod Harry
+publisher: Waltware, Walt Winkelspecht
+year: '1992'
+genre: Adventure
+language: English
+date:
+  added: '2019-03-01T19:09:44'
+  last_modified: '2024-10-21T15:48:45'
+version: '1.4'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.COM
+files:
+- name: DISK1.001
+  size: 206008
+  date: '1992-08-18T12:15:14'
+  crc: '0xf2534011'
+- name: DISK1.002
+  size: 206000
+  date: '1992-08-18T12:15:16'
+  crc: '0x27ae92c8'
+- name: INSTALL.COM
+  size: 5661
+  date: '1992-08-18T12:34:00'
+  crc: '0xa1103c77'
+- name: TSL-7615
+  size: 0
+  date: '1992-08-18T16:26:04'
+- name: TSL-7616
+  size: 0
+  date: '1992-08-18T16:31:10'
+- name: TSLHELP.BAT
+  size: 147
+  date: '1992-09-11T19:06:02'
+  crc: '0xa34817ba'
+- name: TSLHELP.EXE
+  size: 6811
+  date: '1992-08-18T18:04:20'
+  crc: '0x6c77234b'

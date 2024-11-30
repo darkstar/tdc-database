@@ -1,4 +1,4 @@
-filename: Rescate en el Golfo (Es) (1990)(Opera Soft S.A.) [Action].img.zip
+filename: Rescate en el Golfo (Es) [f1] (1990)(Opera Soft S.A.) [Action].img.zip
 tdc_id: '14845.0'
 title:
   box: Rescate en el Golfo
@@ -8,11 +8,16 @@ genre: Action
 language: Spanish
 date:
   added: '2021-12-19T11:52:26'
-  last_modified: '2021-12-19T11:52:26'
+  last_modified: '2024-11-25T19:03:44'
 type: zip
+tags:
+- Fixed: 1
+media: 360K
+references:
+  mobygames: https://www.mobygames.com/game/19922/rescate-en-el-golfo/
 notes: .img
 files:
-- name: Rescate.img
+- name: disk1.ima
   size: 368640
-  date: '2021-04-27T09:48:24'
-  crc: '0xa6bad52c'
+  date: '2024-11-23T06:11:22'
+  crc: '0x14b9090e'
