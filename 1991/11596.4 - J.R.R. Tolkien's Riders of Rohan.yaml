@@ -1,0 +1,109 @@
+filename: J.R.R. Tolkien's Riders of Rohan v1.0 (Installer) (1991)(Konami, Inc., Mirrorsoft Ltd.) [Strategy].zip
+tdc_id: '11596.4'
+parent_id: '11596.3'
+title:
+  box: J.R.R. Tolkien's Riders of Rohan
+publisher: Konami, Inc., Mirrorsoft Ltd.
+year: '1991'
+genre: Strategy
+language: English
+date:
+  added: '2024-12-04T14:58:30'
+  last_modified: '2024-12-04T14:58:30'
+version: '1.0'
+type: zip
+media: 1.44M
+installer: true
+commands:
+  play: ROHAN.EXE
+references:
+  mobygames: https://www.mobygames.com/game/9404/jrr-tolkiens-riders-of-rohan/
+files:
+- name: BATTLE.DAT
+  size: 219912
+  date: '1991-06-26T11:09:52'
+  crc: '0x401add83'
+- name: BSTILL.DAT
+  size: 104905
+  date: '1991-07-01T21:03:34'
+  crc: '0xdbc73a68'
+- name: DUCK.DAT
+  size: 162115
+  date: '1990-11-16T12:20:26'
+  crc: '0x2b2fcd29'
+- name: DUEL.DAT
+  size: 258065
+  date: '1990-11-12T14:21:00'
+  crc: '0x6d5cb509'
+- name: EBATTLE.DAT
+  size: 132228
+  date: '1991-06-26T11:15:00'
+  crc: '0x1db8d916'
+- name: EBSTILL.DAT
+  size: 53547
+  date: '1991-07-01T21:03:52'
+  crc: '0xe1985732'
+- name: EDUCK.DAT
+  size: 72543
+  date: '1991-04-19T14:24:28'
+  crc: '0x96f65c5b'
+- name: EDUEL.DAT
+  size: 160964
+  date: '1991-04-26T12:21:18'
+  crc: '0x21add1bd'
+- name: EFACE.DAT
+  size: 134610
+  date: '1991-05-02T12:03:10'
+  crc: '0x3ffeaf13'
+- name: EGENERAL.DAT
+  size: 96444
+  date: '1991-07-03T14:47:50'
+  crc: '0x228b2968'
+- name: EMAP.DAT
+  size: 58791
+  date: '1991-05-14T14:46:00'
+  crc: '0x7af0b6e4'
+- name: ESDUEL.DAT
+  size: 40110
+  date: '1991-05-14T11:38:46'
+  crc: '0x571c950a'
+- name: FACE.DAT
+  size: 234270
+  date: '1991-05-29T11:26:58'
+  crc: '0xbc9c3874'
+- name: GENERAL.DAT
+  size: 181894
+  date: '1991-09-10T10:10:00'
+  crc: '0x802cb061'
+- name: INSTALL.BAT
+  size: 329
+  date: '1991-06-28T15:48:12'
+  crc: '0x29c39bbe'
+- name: MAP.DAT
+  size: 109877
+  date: '1991-05-15T11:20:50'
+  crc: '0x6e59bb2d'
+- name: RIDERS.BAT
+  size: 160
+  date: '1991-08-20T18:17:46'
+  crc: '0x6e2f2d2f'
+- name: ROHAN.DAT
+  size: 21436
+  date: '1991-04-25T11:36:04'
+  crc: '0xb3a6a69d'
+- name: ROHAN.EXE
+  size: 302684
+  date: '1991-09-26T16:40:46'
+  crc: '0x3b39a2ce'
+- name: ROHAN.EX_
+  size: 302684
+  date: '1991-09-26T16:40:46'
+  crc: '0xd0b89375'
+- name: SDUEL.DAT
+  size: 60390
+  date: '1991-06-25T18:28:48'
+  crc: '0xc5d5d7bf'
+- name: TEXT.DAT
+  size: 127045
+  date: '1991-05-29T11:27:14'
+  crc: '0x06ba79fd'

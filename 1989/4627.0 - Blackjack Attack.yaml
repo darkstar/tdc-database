@@ -1,0 +1,99 @@
+filename: Blackjack Attack v1.0 (1989)(Robb Rinard, Richard Zizzi) [Strategy, Cards].zip
+tdc_id: '4627.0'
+title:
+  screen: Blackjack Attack
+publisher: Robb Rinard, Richard Zizzi
+year: '1989'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2024-12-09T18:30:28'
+  last_modified: '2024-12-09T18:30:28'
+version: '1.0'
+type: zip
+media: Download
+commands:
+  play: BLAKJACK.EXE
+files:
+- name: ADVSTRAT.DAT
+  size: 1467
+  date: '1989-12-30T15:11:58'
+  crc: '0x9528a393'
+- name: AJACK.HLP
+  size: 348
+  date: '1990-01-03T13:03:52'
+  crc: '0x2c1a1c57'
+- name: BJAPLR.DAT
+  size: 676
+  date: '1990-01-16T10:30:46'
+  crc: '0x1147ae58'
+- name: BJATK.CNF
+  size: 5940
+  date: '1990-01-11T13:31:06'
+  crc: '0x5bc5bb51'
+- name: BJATK.GFT
+  size: 2646
+  date: '1989-11-25T09:05:44'
+  crc: '0xc1e3bac0'
+- name: BJATK.PCL
+  size: 378934
+  date: '1990-01-11T13:46:52'
+  crc: '0xbfcb83c3'
+- name: BLAKJACK.EXE
+  size: 150572
+  date: '1990-01-16T09:22:20'
+  crc: '0x83667feb'
+- name: BLAKJACK.INS
+  size: 2252
+  date: '1990-01-12T08:57:46'
+  crc: '0x6a2e3d15'
+- name: BSTRATGY.DAT
+  size: 910
+  date: '1989-12-30T06:58:48'
+  crc: '0x705d37ac'
+- name: CCBASICS.DAT
+  size: 1709
+  date: '1989-12-30T09:42:12'
+  crc: '0x7f3ae798'
+- name: INSURANS.HLP
+  size: 557
+  date: '1990-01-09T13:58:16'
+  crc: '0x6536bd17'
+- name: LEARN.HLP
+  size: 329
+  date: '1990-01-12T09:07:22'
+  crc: '0x2d11ba02'
+- name: MENUBAR.DAT
+  size: 2595
+  date: '1990-01-16T10:29:40'
+  crc: '0xcf942dc4'
+- name: PLTABLE.HLP
+  size: 775
+  date: '1990-01-12T09:14:04'
+  crc: '0xe12b7fe6'
+- name: RULES.HLP
+  size: 2110
+  date: '1990-01-12T09:42:12'
+  crc: '0x76caddf7'
+- name: RULEVAR.DAT
+  size: 1072
+  date: '1990-01-12T09:22:40'
+  crc: '0x6cd8ec93'
+- name: SETTINGS.HLP
+  size: 3192
+  date: '1990-01-16T10:29:58'
+  crc: '0x668d240f'
+- name: SSM15.GFT
+  size: 1544
+  date: '1989-07-31T01:00:46'
+  crc: '0xa5be4481'
+- name: STATINFO.DAT
+  size: 1873
+  date: '1990-01-12T09:40:56'
+  crc: '0xbf5204c7'
+- name: USEKYBRD.DAT
+  size: 742
+  date: '1989-12-09T13:25:50'
+  crc: '0x3ca75cc4'

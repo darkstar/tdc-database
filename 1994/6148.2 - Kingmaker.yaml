@@ -48,9 +48,9 @@ files:
   date: '1993-03-24T16:47:10'
   crc: '0x2bba8905'
 - name: DMA.CFG
-  size: 7
-  date: '1998-09-27T15:27:26'
-  crc: '0x0ccbd9f8'
+  size: 9
+  date: '1980-01-01T12:00:00'
+  crc: '0x4d08dbc2'
 - name: DOVER.LBM
   size: 29402
   date: '1993-07-28T06:16:48'
@@ -69,7 +69,7 @@ files:
   crc: '0x75ad38ed'
 - name: INSTALL.EXE
   size: 22852
-  date: '1997-04-29T10:05:04'
+  date: '1994-03-11T15:41:40'
   crc: '0xba58366f'
 - name: KING.CLP
   size: 415406
@@ -77,8 +77,12 @@ files:
   crc: '0xe648cea5'
 - name: KING.EXE
   size: 169182
-  date: '1998-10-03T13:56:26'
-  crc: '0x9d13979e'
+  date: '1994-10-11T17:31:22'
+  crc: '0x051b4bbe'
+- name: KING.EX_
+  size: 169182
+  date: '1994-10-11T17:31:22'
+  crc: '0x11bd3fbb'
 - name: KING.FLC
   size: 131562
   date: '1993-02-06T11:50:46'
@@ -97,7 +101,7 @@ files:
   crc: '0x8d31c668'
 - name: LHA.EXE
   size: 34283
-  date: '1997-04-29T10:05:04'
+  date: '1991-07-20T02:13:00'
   crc: '0x2c68a172'
 - name: MAKEBOOT.BAT
   size: 182
@@ -115,14 +119,14 @@ files:
   size: 41678
   date: '1993-07-09T11:09:40'
   crc: '0xbca7fc91'
-- name: PATCH.TXT
-  size: 2566
-  date: '1997-01-06T16:03:42'
-  crc: '0x9c9ca907'
 - name: PLAGUE.FLC
   size: 194290
   date: '1993-03-24T16:50:28'
   crc: '0xd786a7d6'
+- name: README.TXT
+  size: 3305
+  date: '1994-05-24T11:08:04'
+  crc: '0x87828acf'
 - name: ROLAND.MUS
   size: 10649
   date: '1992-03-31T12:10:50'
@@ -343,15 +347,3 @@ files:
   size: 30208
   date: '1994-05-18T14:19:56'
   crc: '0x9248c90b'
-- name: install.txt
-  size: 480
-  date: '1997-04-23T13:56:42'
-  crc: '0x15870c27'
-- name: read.me
-  size: 2566
-  date: '1997-01-06T16:03:42'
-  crc: '0x9c9ca907'
-- name: readme.bat
-  size: 18
-  date: '1997-01-06T15:19:30'
-  crc: '0xa9a663a0'

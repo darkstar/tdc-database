@@ -1,18 +1,24 @@
-filename: ALF- The First Adventure v3.2 (1988)(Box Office, Inc.) [Action].zip
+filename: ALF- The First Adventure v3.2 (1988)(Box Office, Inc.) [Action][!].zip
 tdc_id: '8225.0'
+parent_id: '8225.3'
 title:
   box: 'ALF: The First Adventure'
-publisher: Box Office, Inc.
+publisher: Box Office, Inc.
 year: '1988'
 genre: Action
 language: English
 date:
   added: '2020-01-27T20:29:04'
-  last_modified: '2022-11-21T10:48:53'
+  last_modified: '2024-12-09T18:44:19'
 version: '3.2'
 type: zip
+tags:
+- KnownGood
+media: 360K
 commands:
   play: ALF.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1643/alf-the-first-adventure/
 files:
 - name: ADD_LIB4.PIC
   size: 16392

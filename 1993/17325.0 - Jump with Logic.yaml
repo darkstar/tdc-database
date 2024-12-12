@@ -1,4 +1,4 @@
-filename: Jump with Logic (It) [SW] (1993)(Bootstrap, Mauro Notarianni) [Strategy, Puzzle].zip
+filename: Jump with Logic (It) [SW][f1] (1993)(Bootstrap, Mauro Notarianni) [Strategy, Puzzle].zip
 tdc_id: '17325.0'
 title:
   screen: Jump with Logic
@@ -10,10 +10,11 @@ genre:
 language: Italian
 date:
   added: '2023-07-20T19:06:47'
-  last_modified: '2023-07-20T19:06:47'
+  last_modified: '2024-12-10T13:09:44'
 type: zip
 tags:
 - Shareware
+- Fixed: 1
 media: Download
 commands:
   play: JWL.EXE
@@ -27,6 +28,10 @@ files:
   date: '1993-04-29T06:35:28'
   crc: '0x0ad6d5cf'
 - name: JWL.EXE
+  size: 79178
+  date: '1993-03-03T05:11:26'
+  crc: '0x4efc997f'
+- name: JWL.EX_
   size: 79178
   date: '1993-03-03T05:11:26'
   crc: '0x13fc1eec'

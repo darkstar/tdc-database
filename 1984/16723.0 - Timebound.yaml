@@ -1,7 +1,7 @@
-filename: Time Bound (PCjr) (1984)(CBS Software) [Action, Educational][!].zip
+filename: Timebound (PCjr) (1984)(CBS Software) [Action, Educational].zip
 tdc_id: '16723.0'
 title:
-  box: Time Bound
+  box: Timebound
   qualifier: PCjr
 publisher: CBS Software
 year: '1984'
@@ -11,15 +11,12 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:24:18'
-  last_modified: '2019-03-01T18:24:18'
+  last_modified: '2024-12-11T12:42:00'
 type: zip
-tags:
-- KnownGood
-requirements:
-  cpu:
-    min: '8088'
 commands:
   play: CBS.EXE
+references:
+  mobygames: https://www.mobygames.com/game/174931/timebound/
 files:
 - name: CBS.EXE
   size: 19072

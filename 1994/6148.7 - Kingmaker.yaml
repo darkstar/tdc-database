@@ -1,0 +1,62 @@
+filename: Kingmaker v1.5 (Installer) (En)(De)(Fr) (1994)(The Avalon Hill Game Company) [Strategy].zip
+tdc_id: '6148.7'
+title:
+  box: Kingmaker
+  qualifier: Installer
+publisher: The Avalon Hill Game Company
+year: '1994'
+genre: Strategy
+language:
+- English
+- French
+- German
+date:
+  added: '2024-12-10T08:52:04'
+  last_modified: '2024-12-10T08:52:04'
+version: '1.5'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/11794/kingmaker/
+files:
+- name: ESPEECH.LZH
+  size: 1424472
+  date: '1993-10-26T13:17:02'
+  crc: '0xfe1b4f1d'
+- name: EVOICE.LZH
+  size: 404339
+  date: '1993-10-26T13:20:14'
+  crc: '0xd0b75110'
+- name: FRENCH.LZH
+  size: 16155
+  date: '1994-02-07T10:50:52'
+  crc: '0x577076bf'
+- name: FVOICE.LZH
+  size: 387315
+  date: '1993-10-26T13:19:16'
+  crc: '0xae9bb1b6'
+- name: GERMAN.LZH
+  size: 16611
+  date: '1994-02-07T10:51:42'
+  crc: '0x589ea2e1'
+- name: GVOICE.LZH
+  size: 209381
+  date: '1993-11-02T14:01:54'
+  crc: '0x16f5a91b'
+- name: INSTALL.EXE
+  size: 22852
+  date: '1994-03-11T15:41:40'
+  crc: '0xba58366f'
+- name: KING.LZH
+  size: 1284475
+  date: '1994-04-15T20:02:58'
+  crc: '0x20ce6119'
+- name: KING_1-2
+  size: 0
+  date: '1994-02-07T10:31:12'
+- name: LHA.EXE
+  size: 34283
+  date: '1991-07-20T02:13:00'
+  crc: '0x2c68a172'

@@ -1,0 +1,106 @@
+filename: Vegas Craps v1.0 (1988)(California Dreams) [Simulation].zip
+tdc_id: '11510.0'
+title:
+  box: Vegas Craps
+publisher: California Dreams
+year: '1988'
+genre: Simulation
+language: English
+date:
+  added: '2024-12-09T19:03:59'
+  last_modified: '2024-12-09T19:03:59'
+version: '1.0'
+type: zip
+commands:
+  play: CRAPS.EXE
+references:
+  mobygames: https://www.mobygames.com/game/119942/vegas-craps/
+files:
+- name: CDREAMS.PCC
+  size: 2830
+  date: '1988-08-31T19:55:08'
+  crc: '0xdde04f96'
+- name: CDREAMS.PCE
+  size: 8675
+  date: '1988-08-31T19:55:10'
+  crc: '0xc9c31265'
+- name: CDREAMS.PCH
+  size: 6028
+  date: '1988-08-31T19:55:10'
+  crc: '0xea0136ff'
+- name: CRAPS.DOC
+  size: 34369
+  date: '1988-04-01T00:00:00'
+  crc: '0xc92c0f5e'
+- name: CRAPS.EXE
+  size: 96583
+  date: '1988-08-31T19:55:18'
+  crc: '0x0920a522'
+- name: CRAPS.EX_
+  size: 96583
+  date: '1988-08-31T19:55:18'
+  crc: '0x8f739ef5'
+- name: DICE.EGA
+  size: 59840
+  date: '1988-08-31T19:55:22'
+  crc: '0xf38b4740'
+- name: FULLTAB.PCC
+  size: 5091
+  date: '1988-08-31T19:55:24'
+  crc: '0xfef33123'
+- name: FULLTAB.PCE
+  size: 13983
+  date: '1988-08-31T19:55:26'
+  crc: '0x0a58afd1'
+- name: FULLTAB.PCH
+  size: 11307
+  date: '1988-08-31T19:55:30'
+  crc: '0xd05998bc'
+- name: HELPMES.IND
+  size: 600
+  date: '1988-08-31T19:55:32'
+  crc: '0x78615e7a'
+- name: HELPMES.TXT
+  size: 13178
+  date: '1987-11-06T20:31:38'
+  crc: '0xa25dccf6'
+- name: OBJECTS.PCC
+  size: 7524
+  date: '1988-08-31T19:55:34'
+  crc: '0xd4917be1'
+- name: OBJECTS.PCE
+  size: 19656
+  date: '1988-08-31T19:55:36'
+  crc: '0xe15ac7da'
+- name: OBJECTS.PCH
+  size: 17278
+  date: '1988-08-31T19:55:38'
+  crc: '0xcc0cd927'
+- name: TABLE.PCC
+  size: 7398
+  date: '1988-08-31T19:55:42'
+  crc: '0x901ad11c'
+- name: TABLE.PCE
+  size: 18035
+  date: '1988-08-31T19:55:44'
+  crc: '0xec5d95b0'
+- name: TABLE.PCH
+  size: 16961
+  date: '1988-08-31T19:55:48'
+  crc: '0x8711eee3'
+- name: TITLE.PCC
+  size: 8557
+  date: '1988-08-31T19:55:52'
+  crc: '0x053b0afc'
+- name: TITLE.PCE
+  size: 21407
+  date: '1988-08-31T19:57:18'
+  crc: '0xeaa921c7'
+- name: TITLE.PCH
+  size: 16161
+  date: '1988-08-31T19:57:20'
+  crc: '0x58c431f0'
+- name: VERSION.BAT
+  size: 32
+  date: '1988-08-31T19:57:20'
+  crc: '0xa2a0e7be'

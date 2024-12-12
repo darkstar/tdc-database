@@ -1,4 +1,4 @@
-filename: Puzzle Beauty (Zh)(En) (1994)(Dynasty International Information Co., Ltd.) [Action, Strategy].zip
+filename: Puzzle Beauty (Zh)(En) [f1] (1994)(Dynasty International Information Co., Ltd.) [Action, Strategy].zip
 tdc_id: '10718.0'
 title:
   box: Puzzle Beauty
@@ -12,8 +12,10 @@ language:
 - Chinese
 date:
   added: '2019-03-01T22:02:54'
-  last_modified: '2019-03-01T22:02:54'
+  last_modified: '2024-12-11T16:30:38'
 type: zip
+tags:
+- Fixed: 1
 commands:
   play: PAB.EXE
 files:
@@ -134,6 +136,10 @@ files:
   date: '1995-05-10T13:19:10'
   crc: '0xf0034df5'
 - name: STAGEC.SFM
+  size: 476071
+  date: '1995-05-10T13:19:14'
+  crc: '0x808d62aa'
+- name: STAGEC.SF_
   size: 476071
   date: '1995-05-10T13:19:14'
   crc: '0x005b7d4a'

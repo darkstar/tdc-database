@@ -1,0 +1,29 @@
+filename: Titano (De) (1990)(Software 2000) [Strategy].zip
+tdc_id: '4518.0'
+title:
+  box: Titano
+publisher: Software 2000
+year: '1990'
+genre: Strategy
+language: German
+date:
+  added: '2024-12-09T08:47:50'
+  last_modified: '2024-12-09T08:47:50'
+type: zip
+commands:
+  play: TITANO.EXE
+references:
+  mobygames: https://www.mobygames.com/game/54251/titano/
+files:
+- name: TITANO.EXE
+  size: 127616
+  date: '1990-08-30T11:41:48'
+  crc: '0x0d01a0bd'
+- name: TITANOHI.NRM
+  size: 184
+  date: '1990-12-04T05:44:42'
+  crc: '0x0d133d2a'
+- name: TITANOHI.ZT
+  size: 184
+  date: '1990-12-04T05:44:08'
+  crc: '0x2caa0c8d'

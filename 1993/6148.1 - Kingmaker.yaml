@@ -1,21 +1,28 @@
-filename: Kingmaker (Installer) (1993)(The Avalon Hill Game Company) [Strategy].zip
+filename: Kingmaker v1.0 (Installer) (En)(De)(Fr) (1993)(U.S. Gold Ltd.) [Strategy].zip
 tdc_id: '6148.1'
+parent_id: '6148.3'
 title:
   box: Kingmaker
-publisher: The Avalon Hill Game Company
+  qualifier: Installer
+publisher: U.S. Gold Ltd.
 year: '1993'
 genre: Strategy
-language: English
+language:
+- English
+- French
+- German
 date:
   added: '2019-03-01T19:11:12'
-  last_modified: '2019-03-01T19:11:12'
+  last_modified: '2024-12-10T08:13:52'
+version: '1.0'
 type: zip
+media: 1.44M
 installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/11794/kingmaker/
 files:
-- name: CRACK.COM
-  size: 723
-  date: '1993-12-19T22:13:48'
-  crc: '0xcce84586'
 - name: ESPEECH.LZH
   size: 1424472
   date: '1993-10-26T13:17:02'

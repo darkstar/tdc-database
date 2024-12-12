@@ -1,8 +1,8 @@
-filename: Test Drive (Tandy 16 color) (1987)(Accolade, Inc.) [Racing - Driving, Simulation].zip
+filename: Test Drive (TGA) (1987)(Accolade, Inc.) [Racing - Driving, Simulation].zip
 tdc_id: '16543.1'
 title:
   box: Test Drive
-  qualifier: Tandy 16 color
+  qualifier: TGA
 publisher: Accolade, Inc.
 year: '1987'
 genre:
@@ -11,8 +11,12 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:25:42'
-  last_modified: '2019-03-01T18:25:42'
+  last_modified: '2024-12-11T08:02:35'
 type: zip
+commands:
+  play: TD.EXE
+references:
+  mobygames: https://www.mobygames.com/game/107/test-drive/
 files:
 - name: ACCOLADE.PCS
   size: 1281

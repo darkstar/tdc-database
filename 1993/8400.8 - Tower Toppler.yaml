@@ -1,0 +1,46 @@
+filename: Tower Toppler (1993)(U.S. Gold Ltd., Epyx, Inc.) [Action, Strategy][!].zip
+tdc_id: '8400.8'
+parent_id: '8400.2'
+title:
+  box: Tower Toppler
+publisher: U.S. Gold Ltd., Epyx, Inc.
+year: '1993'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2019-03-01T18:26:56'
+  last_modified: '2024-12-11T10:03:39'
+type: zip
+tags:
+- KnownGood
+media: 720K
+commands:
+  play: TOWERTOP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/3874/tower-toppler/
+files:
+- name: TOPPLER.BIN
+  size: 16384
+  date: '1989-01-25T14:08:24'
+  crc: '0x189bbfd3'
+- name: TOWERCGA.EXE
+  size: 123052
+  date: '1989-01-26T11:36:44'
+  crc: '0xbdec43d4'
+- name: TOWEREGA.EXE
+  size: 241036
+  date: '1989-01-26T11:36:32'
+  crc: '0x432b869f'
+- name: TOWERTGA.EXE
+  size: 214348
+  date: '1989-01-26T11:38:46'
+  crc: '0xabf7df61'
+- name: TOWERTOP.EXE
+  size: 1742
+  date: '1989-01-25T14:08:28'
+  crc: '0x96ec5682'
+- name: TTOPPLER
+  size: 0
+  date: '1993-02-28T21:03:56'

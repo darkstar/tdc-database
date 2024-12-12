@@ -1,8 +1,8 @@
-filename: Legend of Faerghail (Installer) (1990)(Rainbow Arts Software GmbH) [Adventure, Role-Playing (RPG)].zip
+filename: Legend of Faerghail v8.9-e r900619 (Installer) (1990)(reLINE Software) [Adventure, Role-Playing (RPG)].zip
 tdc_id: '6348.1'
 title:
   box: Legend of Faerghail
-publisher: Rainbow Arts Software GmbH
+publisher: reLINE Software
 year: '1990'
 genre:
 - Adventure
@@ -10,9 +10,15 @@ genre:
 language: English
 date:
   added: '2020-03-29T10:38:04'
-  last_modified: '2020-03-29T10:38:04'
+  last_modified: '2024-12-11T08:41:32'
+version: 8.9-e
+release: '900619'
 type: zip
 installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/3436/legend-of-faerghail/
 files:
 - name: ANIM.CGA
   size: 7193

@@ -1,0 +1,52 @@
+filename: Nebulus (1989)(Hewson Consultants Ltd.) [Action, Strategy].zip
+tdc_id: '8400.0'
+parent_id: '8400.9'
+title:
+  box: Nebulus
+publisher: Hewson Consultants Ltd.
+year: '1989'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2020-02-23T16:10:00'
+  last_modified: '2024-12-07T09:08:22'
+type: zip
+media: 720K
+commands:
+  play: NEBEGA.EXE
+references:
+  mobygames: https://www.mobygames.com/game/3874/tower-toppler/
+files:
+- name: HISCORE.BIN
+  size: 30
+  date: '1980-01-01T00:50:40'
+  crc: '0x51399e63'
+- name: NEBCGA.EXE
+  size: 123541
+  date: '1989-10-10T19:31:40'
+  crc: '0xadfc654a'
+- name: NEBCGA.EX_
+  size: 126576
+  date: '1989-10-10T19:31:40'
+  crc: '0xac770ce7'
+- name: NEBEGA.EXE
+  size: 222135
+  date: '1989-10-10T20:08:10'
+  crc: '0xb2ca3292'
+- name: NEBEGA.EX_
+  size: 225168
+  date: '1989-10-10T20:08:10'
+  crc: '0x756319af'
+- name: NEBTGA.EXE
+  size: 219611
+  date: '1989-10-10T20:06:34'
+  crc: '0x9065a1eb'
+- name: NEBTGA.EX_
+  size: 222640
+  date: '1989-10-10T20:06:34'
+  crc: '0x56e31e9f'
+- name: NEBULUS.PC
+  size: 0
+  date: '1989-10-10T19:29:52'

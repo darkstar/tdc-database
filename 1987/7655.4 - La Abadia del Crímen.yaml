@@ -1,0 +1,38 @@
+filename: Abadia del Crímen, La (Es) [DC][f1] (1987)(Opera Soft S.A.) [Adventure].zip
+tdc_id: '7655.4'
+parent_id: '7655.1'
+title:
+  box: La Abadia del Crímen
+publisher: Opera Soft S.A.
+year: '1987'
+genre: Adventure
+language: Spanish
+date:
+  added: '2024-12-02T07:11:04'
+  last_modified: '2024-12-02T07:11:04'
+type: zip
+tags:
+- DOSConversion
+- Fixed: 1
+media: 360K
+commands:
+  play: START.COM
+references:
+  mobygames: https://www.mobygames.com/game/14113/la-abadia-del-crimen/
+files:
+- name: GAME.BIN
+  size: 241664
+  date: '1987-02-14T12:00:00'
+  crc: '0x2abbf462'
+- name: SAVE
+  size: 20480
+  date: '1987-02-14T12:00:00'
+  crc: '0x025f645a'
+- name: START.COM
+  size: 512
+  date: '1987-02-14T12:00:00'
+  crc: '0x3a6fc840'
+- name: TITLE.BIN
+  size: 16384
+  date: '1987-02-14T12:00:00'
+  crc: '0x46cae411'

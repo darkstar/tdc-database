@@ -1,330 +1,337 @@
-filename: Kingmaker (1993)(The Avalon Hill Game Company) [Strategy].zip
+filename: Kingmaker v1.0 (1993)(U.S. Gold Ltd.) [Strategy].zip
 tdc_id: '6148.0'
 parent_id: '6148.1'
 title:
   box: Kingmaker
-publisher: The Avalon Hill Game Company
+publisher: U.S. Gold Ltd.
 year: '1993'
 genre: Strategy
 language: English
 date:
   added: '2019-03-01T19:11:10'
-  last_modified: '2019-03-01T19:11:10'
+  last_modified: '2024-12-10T08:16:24'
+version: '1.0'
 type: zip
+media: 1.44M
+commands:
+  play: KING.EXE
+  setup: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/11794/kingmaker/
 files:
 - name: ADLIB.MUS
   size: 6605
-  date: '2014-11-15T12:42:28'
+  date: '1992-03-31T11:59:46'
   crc: '0xd836b3b6'
 - name: BPAL.BBM
   size: 1274
-  date: '2014-11-15T12:42:42'
+  date: '1993-05-07T11:45:08'
   crc: '0xec988a2b'
 - name: BSPRITES.LBM
   size: 40046
-  date: '2014-11-15T12:42:34'
+  date: '1993-05-07T11:41:52'
   crc: '0x6145af7b'
 - name: BUSH.LBM
   size: 33112
-  date: '2014-11-15T12:42:32'
+  date: '1993-07-25T18:31:12'
   crc: '0xc9667796'
 - name: CHRONICL.E
   size: 24687
-  date: '2014-11-15T12:42:44'
+  date: '1993-11-03T14:31:38'
   crc: '0xf238853f'
 - name: CORIN.FLC
   size: 30794
-  date: '2014-11-15T12:42:48'
+  date: '1993-03-24T16:47:10'
   crc: '0x2bba8905'
 - name: DMA.CFG
   size: 9
-  date: '2014-11-15T12:42:48'
+  date: '1980-01-01T12:00:00'
   crc: '0x4d08dbc2'
 - name: DOVER.LBM
   size: 29402
-  date: '2014-11-15T12:42:42'
+  date: '1993-07-28T06:16:48'
   crc: '0x01edb956'
 - name: EXECUTE.FLC
   size: 35364
-  date: '2014-11-15T12:42:48'
+  date: '1993-03-26T17:49:06'
   crc: '0x06206c21'
 - name: FRANCE.LBM
   size: 38442
-  date: '2014-11-15T12:42:42'
+  date: '1993-07-28T11:38:26'
   crc: '0xe8aca107'
 - name: GALLEON.FLC
   size: 122022
-  date: '2014-11-15T12:42:48'
+  date: '1993-03-16T14:14:56'
   crc: '0x75ad38ed'
 - name: INSTALL.EXE
   size: 22662
-  date: '2014-11-15T12:42:28'
+  date: '1993-11-03T16:03:16'
   crc: '0x2c7c7566'
 - name: KING.CLP
   size: 415402
-  date: '2014-11-15T12:42:44'
+  date: '1993-09-02T22:13:38'
   crc: '0x6fff2136'
 - name: KING.EXE
   size: 167342
-  date: '2014-11-15T12:56:42'
+  date: '1993-11-03T15:51:32'
   crc: '0x951b4b58'
 - name: KING.EX_
   size: 167342
-  date: '2014-11-15T12:42:32'
+  date: '1993-11-03T15:51:32'
   crc: '0xddef26fb'
 - name: KING.FLC
   size: 131562
-  date: '2014-11-15T12:42:46'
+  date: '1993-02-06T11:50:46'
   crc: '0x2442a439'
 - name: KINGBABY.LBM
   size: 38636
-  date: '2014-11-15T12:42:36'
+  date: '1993-07-28T11:39:14'
   crc: '0x18897c32'
 - name: KINGLOGO.FLC
   size: 78950
-  date: '2014-11-15T12:42:48'
+  date: '1993-02-06T12:26:46'
   crc: '0xd931776f'
 - name: LHA.EXE
   size: 34283
-  date: '2014-11-15T12:42:28'
+  date: '1991-07-20T02:13:00'
   crc: '0x2c68a172'
 - name: MYEXEC.FLC
   size: 26992
-  date: '2014-11-15T12:42:46'
+  date: '1993-02-15T22:35:14'
   crc: '0x0d957db9'
 - name: NEV.LBM
   size: 46732
-  date: '2014-11-15T12:42:42'
+  date: '1993-07-09T13:37:02'
   crc: '0x6a954114'
 - name: NEW
   size: 204800
-  date: '2014-11-15T12:42:46'
+  date: '1993-04-22T16:33:34'
   crc: '0xdc061e7f'
 - name: PARL.LBM
   size: 41678
-  date: '2014-11-15T12:42:34'
+  date: '1993-07-09T11:09:40'
   crc: '0xbca7fc91'
 - name: PLAGUE.FLC
   size: 194290
-  date: '2014-11-15T12:42:48'
+  date: '1993-03-24T16:50:28'
   crc: '0xd786a7d6'
 - name: ROLAND.MUS
   size: 10649
-  date: '2014-11-15T12:42:28'
+  date: '1992-03-31T12:10:50'
   crc: '0x21ec479e'
 - name: ROSES.LBM
   size: 16602
-  date: '2014-11-15T12:42:34'
+  date: '1993-07-25T18:31:50'
   crc: '0x3c29fd0d'
 - name: SA.VOC
   size: 88580
-  date: '2014-11-15T12:42:52'
+  date: '1993-08-19T14:07:26'
   crc: '0xa6f2f3d7'
 - name: SB.VOC
   size: 85383
-  date: '2014-11-15T12:42:50'
+  date: '1993-08-20T14:11:36'
   crc: '0xb06c5f64'
 - name: SC.VOC
   size: 70863
-  date: '2014-11-15T12:42:52'
+  date: '1993-08-19T14:09:48'
   crc: '0x70efd21f'
 - name: SD.VOC
   size: 110138
-  date: '2014-11-15T12:42:52'
+  date: '1993-08-19T14:11:22'
   crc: '0xfa6d79db'
 - name: SE.VOC
   size: 87521
-  date: '2014-11-15T12:42:54'
+  date: '1993-08-19T14:15:54'
   crc: '0xd7e28042'
 - name: SF.VOC
   size: 82537
-  date: '2014-11-15T12:42:54'
+  date: '1993-08-19T14:17:34'
   crc: '0x75eb50a0'
 - name: SG.VOC
   size: 120415
-  date: '2014-11-15T12:42:54'
+  date: '1993-08-19T14:19:04'
   crc: '0xe1db1b92'
 - name: SH.VOC
   size: 178206
-  date: '2014-11-15T12:42:56'
+  date: '1993-08-19T14:20:32'
   crc: '0x673b4fb6'
 - name: SI.VOC
   size: 108809
-  date: '2014-11-15T12:42:56'
+  date: '1993-08-19T14:21:36'
   crc: '0x28b1b3d4'
 - name: SJ.VOC
   size: 95532
-  date: '2014-11-15T12:42:58'
+  date: '1993-08-19T14:23:10'
   crc: '0x45223aad'
 - name: SK.VOC
   size: 164013
-  date: '2014-11-15T12:42:58'
+  date: '1993-08-19T14:27:28'
   crc: '0x8b95971b'
 - name: SL.VOC
   size: 65288
-  date: '2014-11-15T12:42:58'
+  date: '1993-08-19T14:29:02'
   crc: '0x1f6f9705'
 - name: SM.VOC
   size: 130982
-  date: '2014-11-15T12:43:00'
+  date: '1993-08-19T15:09:54'
   crc: '0x1c7b317b'
 - name: SN.VOC
   size: 59745
-  date: '2014-11-15T12:42:52'
+  date: '1993-08-19T15:02:52'
   crc: '0x1d655f7f'
 - name: SO.VOC
   size: 96245
-  date: '2014-11-15T12:43:00'
+  date: '1993-08-19T14:34:36'
   crc: '0xb912157b'
 - name: SP.VOC
   size: 249787
-  date: '2014-11-15T12:42:50'
+  date: '1993-08-24T11:11:48'
   crc: '0xba1a3623'
 - name: SPEAKER.MUS
   size: 4111
-  date: '2014-11-15T12:42:28'
+  date: '1992-03-31T12:23:58'
   crc: '0x8a8c3c7a'
 - name: SQ.VOC
   size: 164143
-  date: '2014-11-15T12:43:02'
+  date: '1993-08-19T14:38:00'
   crc: '0x344ff99d'
 - name: SR.VOC
   size: 26722
-  date: '2014-11-15T12:43:00'
+  date: '1993-08-19T15:54:16'
   crc: '0xb3abe28a'
 - name: SS.VOC
   size: 17349
-  date: '2014-11-15T12:43:02'
+  date: '1993-08-19T15:56:22'
   crc: '0x70dedcdd'
 - name: ST.VOC
   size: 16002
-  date: '2014-11-15T12:43:02'
+  date: '1993-08-19T15:57:36'
   crc: '0x220619ad'
 - name: SU.VOC
   size: 13589
-  date: '2014-11-15T12:43:02'
+  date: '1993-08-19T15:59:38'
   crc: '0xe92e68a6'
 - name: SW.VOC
   size: 12561
-  date: '2014-11-15T12:43:02'
+  date: '1993-08-19T16:06:22'
   crc: '0x79fc6cd0'
 - name: SX.VOC
   size: 17558
-  date: '2014-11-15T12:43:02'
+  date: '1993-08-19T16:02:58'
   crc: '0xc9a88cae'
 - name: SY.VOC
   size: 16030
-  date: '2014-11-15T12:43:02'
+  date: '1993-08-19T16:03:58'
   crc: '0x683cde2e'
 - name: SZ.VOC
   size: 12401
-  date: '2014-11-15T12:43:00'
+  date: '1993-08-19T16:14:14'
   crc: '0x34bbce7f'
 - name: TEXT.DAT
   size: 14801
-  date: '2014-11-15T12:42:42'
+  date: '1993-11-03T14:31:32'
   crc: '0x3be423fc'
 - name: THRONE.LBM
   size: 59428
-  date: '2014-11-15T12:42:40'
+  date: '1993-07-28T11:37:38'
   crc: '0x61831f0e'
 - name: TM.LBM
   size: 3982
-  date: '2014-11-15T12:42:48'
+  date: '1993-09-29T11:29:44'
   crc: '0x43b6ed1a'
 - name: TPAL.BBM
   size: 522
-  date: '2014-11-15T12:42:42'
+  date: '1993-02-10T11:34:48'
   crc: '0x1f1abf24'
 - name: UK.LBM
   size: 208270
-  date: '2014-11-15T12:42:40'
+  date: '1993-03-24T12:42:12'
   crc: '0x896a0ed3'
 - name: USGOLD.BBM
   size: 9664
-  date: '2014-11-15T12:42:42'
+  date: '1993-01-14T17:41:20'
   crc: '0x7e8fde0a'
 - name: VA.VOC
   size: 35815
-  date: '2014-11-15T12:43:04'
+  date: '1993-08-25T09:10:54'
   crc: '0xe6a6b825'
 - name: VB.VOC
   size: 15545
-  date: '2014-11-15T12:43:02'
+  date: '1993-08-25T09:19:28'
   crc: '0x28eb97a3'
 - name: VC.VOC
   size: 33702
-  date: '2014-11-15T12:43:06'
+  date: '1993-08-25T09:14:10'
   crc: '0x9d12b58d'
 - name: VD.VOC
   size: 33429
-  date: '2014-11-15T12:43:06'
+  date: '1993-08-25T09:15:20'
   crc: '0x5d5c3c4d'
 - name: VE.VOC
   size: 46839
-  date: '2014-11-15T12:43:06'
+  date: '1993-08-25T09:16:02'
   crc: '0xa4bb5fa2'
 - name: VF.VOC
   size: 18062
-  date: '2014-11-15T12:43:02'
+  date: '1993-08-25T09:20:36'
   crc: '0x990045c7'
 - name: VG.VOC
   size: 25091
-  date: '2014-11-15T12:43:04'
+  date: '1993-08-25T09:17:26'
   crc: '0xafdd284f'
 - name: VH.VOC
   size: 20509
-  date: '2014-11-15T12:43:06'
+  date: '1993-08-25T11:12:02'
   crc: '0x818629eb'
 - name: VI.VOC
   size: 34827
-  date: '2014-11-15T12:43:04'
+  date: '1993-08-25T09:28:08'
   crc: '0x92b62fcf'
 - name: VICTORY.LBM
   size: 39938
-  date: '2014-11-15T12:42:36'
+  date: '1993-08-02T13:00:54'
   crc: '0x561060e9'
 - name: VJ.VOC
   size: 57311
-  date: '2014-11-15T12:43:04'
+  date: '1993-08-25T09:28:46'
   crc: '0xe458e471'
 - name: VK.VOC
   size: 15464
-  date: '2014-11-15T12:43:02'
+  date: '1993-08-25T09:34:48'
   crc: '0xb26e0b10'
 - name: VM.VOC
   size: 17030
-  date: '2014-11-15T12:43:06'
+  date: '1993-08-25T09:29:36'
   crc: '0xf955a515'
 - name: VP.VOC
   size: 35979
-  date: '2014-11-15T12:43:02'
+  date: '1993-08-25T09:27:22'
   crc: '0xbfea0f9d'
 - name: VQ.VOC
   size: 38086
-  date: '2014-11-15T12:43:04'
+  date: '1993-08-25T11:06:04'
   crc: '0xa19830f8'
 - name: VR.VOC
   size: 35284
-  date: '2014-11-15T12:43:04'
+  date: '1993-08-25T11:00:42'
   crc: '0x8ec35680'
 - name: VS.VOC
   size: 33144
-  date: '2014-11-15T12:43:04'
+  date: '1993-08-25T11:05:10'
   crc: '0x3da3b1cf'
 - name: VT.VOC
   size: 30062
-  date: '2014-11-15T12:43:04'
+  date: '1993-08-25T10:59:26'
   crc: '0x0b4ffc7f'
 - name: VU.VOC
   size: 26925
-  date: '2014-11-15T12:43:06'
+  date: '1993-08-25T11:08:36'
   crc: '0xdb0784a0'
 - name: WILL.BBM
   size: 8554
-  date: '2014-11-15T12:42:42'
+  date: '1993-02-09T11:41:32'
   crc: '0x46131670'
 - name: ZONES
   size: 30115
-  date: '2014-11-15T12:42:32'
+  date: '1993-08-16T13:30:06'
   crc: '0x61741c57'

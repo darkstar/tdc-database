@@ -1,9 +1,9 @@
-filename: Legend of Faerghail (1990)(Rainbow Arts Software GmbH) [Adventure, Role-Playing (RPG)].zip
+filename: Legend of Faerghail v8.9-e r900619 (1990)(reLINE Software) [Adventure, Role-Playing (RPG)].zip
 tdc_id: '6348.0'
 parent_id: '6348.1'
 title:
   box: Legend of Faerghail
-publisher: Rainbow Arts Software GmbH
+publisher: reLINE Software
 year: '1990'
 genre:
 - Adventure
@@ -11,3041 +11,5789 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:33:04'
-  last_modified: '2019-03-01T18:33:04'
+  last_modified: '2024-12-11T08:42:15'
+version: 8.9-e
+release: '900619'
 type: zip
+commands:
+  play: 'START.BAT '
 references:
+  mobygames: https://www.mobygames.com/game/3436/legend-of-faerghail/
   dosid: DOS02208
   exodos: Legend of Faerghail (1990).zip
 files:
+- name: CGA\
+  size: 0
+  date: '1990-07-17T13:10:34'
+- name: CGA\ANIM\
+  size: 0
+  date: '1990-07-17T13:10:34'
+- name: CGA\ANIM\AN00
+  size: 419
+  date: '1990-07-17T13:17:40'
+  crc: '0xc8e2a414'
+- name: CGA\ANIM\AN01
+  size: 402
+  date: '1990-07-17T13:17:40'
+  crc: '0xb2fe7166'
+- name: CGA\ANIM\AN02
+  size: 424
+  date: '1990-07-17T13:17:40'
+  crc: '0x31bf568a'
+- name: CGA\ANIM\AN03
+  size: 431
+  date: '1990-07-17T13:17:40'
+  crc: '0x79b6afe7'
+- name: CGA\ANIM\AN10
+  size: 433
+  date: '1990-07-17T13:17:40'
+  crc: '0x0a0e3514'
+- name: CGA\ANIM\AN11
+  size: 471
+  date: '1990-07-17T13:17:40'
+  crc: '0xa92d0a41'
+- name: CGA\ANIM\AN12
+  size: 514
+  date: '1990-07-17T13:17:40'
+  crc: '0x7c661cd9'
+- name: CGA\ANIM\AN13
+  size: 515
+  date: '1990-07-17T13:17:40'
+  crc: '0x59d2d2be'
+- name: CGA\ANIM\AN20
+  size: 404
+  date: '1990-07-17T13:17:40'
+  crc: '0xcbe2ec6e'
+- name: CGA\ANIM\AN21
+  size: 379
+  date: '1990-07-17T13:17:40'
+  crc: '0x495a07be'
+- name: CGA\ANIM\AN22
+  size: 422
+  date: '1990-07-17T13:17:40'
+  crc: '0xbaaf282c'
+- name: CGA\ANIM\AN23
+  size: 419
+  date: '1990-07-17T13:17:40'
+  crc: '0x457872a8'
+- name: CGA\ANIM\AN30
+  size: 421
+  date: '1990-07-17T13:17:40'
+  crc: '0x7f0b1d76'
+- name: CGA\ANIM\AN31
+  size: 402
+  date: '1990-07-17T13:17:40'
+  crc: '0x959d1b4c'
+- name: CGA\ANIM\AN32
+  size: 409
+  date: '1990-07-17T13:17:40'
+  crc: '0xdc0e051a'
+- name: CGA\ANIM\AN33
+  size: 430
+  date: '1990-07-17T13:17:40'
+  crc: '0x3eabcf87'
+- name: CGA\ANIM\AN40
+  size: 570
+  date: '1990-07-17T13:17:40'
+  crc: '0x346d88c4'
+- name: CGA\ANIM\AN41
+  size: 589
+  date: '1990-07-17T13:17:42'
+  crc: '0x5dd5617a'
+- name: CGA\ANIM\AN42
+  size: 595
+  date: '1990-07-17T13:17:42'
+  crc: '0xb0c6da82'
+- name: CGA\ANIM\AN43
+  size: 593
+  date: '1990-07-17T13:17:42'
+  crc: '0x347e58fa'
+- name: CGA\ANIM\AN50
+  size: 399
+  date: '1990-07-17T13:17:42'
+  crc: '0x875a59ef'
+- name: CGA\ANIM\AN51
+  size: 401
+  date: '1990-07-17T13:17:42'
+  crc: '0x2f7d331c'
+- name: CGA\ANIM\AN52
+  size: 414
+  date: '1990-07-17T13:17:42'
+  crc: '0x0b6c4b9a'
+- name: CGA\ANIM\AN53
+  size: 402
+  date: '1990-07-17T13:17:42'
+  crc: '0x678ece17'
+- name: CGA\CHAR0\
+  size: 0
+  date: '1990-07-17T13:10:34'
+- name: CGA\CHAR0\CH22
+  size: 2061
+  date: '1990-07-17T13:20:46'
+  crc: '0x77b7d3d4'
+- name: CGA\CHAR0\CH23
+  size: 1395
+  date: '1990-07-17T13:20:46'
+  crc: '0x90710215'
+- name: CGA\CHAR0\CH24
+  size: 2518
+  date: '1990-07-17T13:20:46'
+  crc: '0xba6a10a9'
+- name: CGA\CHAR0\CH25
+  size: 1611
+  date: '1990-07-17T13:20:46'
+  crc: '0x49477065'
+- name: CGA\CHAR0\CH26
+  size: 2284
+  date: '1990-07-17T13:20:46'
+  crc: '0xe71cd20e'
+- name: CGA\CHAR0\CH27
+  size: 1920
+  date: '1990-07-17T13:20:48'
+  crc: '0x3051fb75'
+- name: CGA\CHAR0\CH28
+  size: 1492
+  date: '1990-07-17T13:20:48'
+  crc: '0x3014e7a9'
+- name: CGA\CHAR0\CH29
+  size: 3193
+  date: '1990-07-17T13:20:48'
+  crc: '0xd4b704a3'
+- name: CGA\CHAR0\CH30
+  size: 2123
+  date: '1990-07-17T13:20:48'
+  crc: '0x48db4327'
+- name: CGA\CHAR0\CH31
+  size: 2214
+  date: '1990-07-17T13:20:48'
+  crc: '0x9dbf6aaf'
+- name: CGA\CHAR0\CH32
+  size: 3375
+  date: '1990-07-17T13:20:48'
+  crc: '0x1394a4da'
+- name: CGA\CHAR0\CH33
+  size: 1711
+  date: '1990-07-17T13:20:48'
+  crc: '0xa3cc7d48'
+- name: CGA\CHAR0\CH34
+  size: 2164
+  date: '1990-07-17T13:20:48'
+  crc: '0x3f6be748'
+- name: CGA\CHAR0\CH35
+  size: 2062
+  date: '1990-07-17T13:20:48'
+  crc: '0x9d8f076a'
+- name: CGA\CHAR0\CH36
+  size: 2377
+  date: '1990-07-17T13:20:48'
+  crc: '0x5eb72308'
+- name: CGA\CHAR0\CH37
+  size: 2342
+  date: '1990-07-17T13:20:48'
+  crc: '0x341d2661'
+- name: CGA\CHAR0\CH38
+  size: 1669
+  date: '1990-07-17T13:20:48'
+  crc: '0x960cb83a'
+- name: CGA\CHAR0\CH39
+  size: 1744
+  date: '1990-07-17T13:20:48'
+  crc: '0xb29bacd6'
+- name: CGA\CHAR0\CH40
+  size: 2215
+  date: '1990-07-17T13:20:48'
+  crc: '0x530072ee'
+- name: CGA\CHAR0\CH41
+  size: 2573
+  date: '1990-07-17T13:20:48'
+  crc: '0x433a3520'
+- name: CGA\CHAR0\CH42
+  size: 1893
+  date: '1990-07-17T13:20:48'
+  crc: '0xdfeeb6e9'
+- name: CGA\CHAR0\CH43
+  size: 3120
+  date: '1990-07-17T13:20:48'
+  crc: '0x46a998bb'
+- name: CGA\CHAR0\CH44
+  size: 2192
+  date: '1990-07-17T13:20:48'
+  crc: '0xb41de0b1'
+- name: CGA\CHAR0\CH45
+  size: 3258
+  date: '1990-07-17T13:20:48'
+  crc: '0x6fae378a'
+- name: CGA\CHAR0\CH46
+  size: 559
+  date: '1990-07-17T13:20:50'
+  crc: '0x7d446308'
+- name: CGA\CHAR0\CH47
+  size: 619
+  date: '1990-07-17T13:20:50'
+  crc: '0xe7fdaa00'
+- name: CGA\CHAR0\CH48
+  size: 3351
+  date: '1990-07-17T13:20:50'
+  crc: '0x0c0630dc'
+- name: CGA\CHAR0\CH49
+  size: 3265
+  date: '1990-07-17T13:20:50'
+  crc: '0xe2b2cb95'
+- name: CGA\CHAR0\CH50
+  size: 3122
+  date: '1990-07-17T13:20:50'
+  crc: '0xfcb5ea47'
+- name: CGA\CHAR0\CH51
+  size: 3419
+  date: '1990-07-17T13:20:50'
+  crc: '0xcf414858'
+- name: CGA\CHAR0\CH52
+  size: 3558
+  date: '1990-07-17T13:20:50'
+  crc: '0xda504a3f'
+- name: CGA\CHAR0\CH53
+  size: 3539
+  date: '1990-07-17T13:20:50'
+  crc: '0x421c9101'
+- name: CGA\CHAR0\CH54
+  size: 3414
+  date: '1990-07-17T13:20:50'
+  crc: '0x2f5179aa'
+- name: CGA\CHAR1\
+  size: 0
+  date: '1990-07-17T13:10:34'
+- name: CGA\CHAR1\CH22
+  size: 1601
+  date: '1990-07-17T13:25:00'
+  crc: '0x1d1a295c'
+- name: CGA\CHAR1\CH23
+  size: 2518
+  date: '1990-07-17T13:25:00'
+  crc: '0xba6a10a9'
+- name: CGA\CHAR1\CH24
+  size: 1924
+  date: '1990-07-17T13:25:00'
+  crc: '0xb9845dbf'
+- name: CGA\CHAR1\CH25
+  size: 2740
+  date: '1990-07-17T13:25:00'
+  crc: '0x261aba30'
+- name: CGA\CHAR1\CH26
+  size: 1977
+  date: '1990-07-17T13:25:00'
+  crc: '0x72f7e5a2'
+- name: CGA\CHAR1\CH27
+  size: 1905
+  date: '1990-07-17T13:25:00'
+  crc: '0xd0ceb827'
+- name: CGA\CHAR1\CH28
+  size: 2284
+  date: '1990-07-17T13:25:00'
+  crc: '0xe71cd20e'
+- name: CGA\CHAR1\CH29
+  size: 2757
+  date: '1990-07-17T13:25:00'
+  crc: '0x634ca868'
+- name: CGA\CHAR1\CH30
+  size: 1739
+  date: '1990-07-17T13:25:00'
+  crc: '0x70b4aa82'
+- name: CGA\CHAR1\CH31
+  size: 3552
+  date: '1990-07-17T13:25:00'
+  crc: '0x816743bf'
+- name: CGA\CHAR1\CH32
+  size: 2059
+  date: '1990-07-17T13:25:00'
+  crc: '0x7b98d6a4'
+- name: CGA\CHAR1\CH33
+  size: 1492
+  date: '1990-07-17T13:25:02'
+  crc: '0x3014e7a9'
+- name: CGA\CHAR1\CH34
+  size: 1911
+  date: '1990-07-17T13:25:02'
+  crc: '0xc0cb2e54'
+- name: CGA\CHAR1\CH35
+  size: 2794
+  date: '1990-07-17T13:25:02'
+  crc: '0x09cf6bed'
+- name: CGA\CHAR1\CH36
+  size: 2214
+  date: '1990-07-17T13:25:02'
+  crc: '0x9dbf6aaf'
+- name: CGA\CHAR1\CH37
+  size: 3375
+  date: '1990-07-17T13:25:02'
+  crc: '0x1394a4da'
+- name: CGA\CHAR1\CH38
+  size: 2007
+  date: '1990-07-17T13:25:02'
+  crc: '0x2b4ff480'
+- name: CGA\CHAR1\CH39
+  size: 2719
+  date: '1990-07-17T13:25:02'
+  crc: '0x0734db52'
+- name: CGA\CHAR1\CH40
+  size: 1711
+  date: '1990-07-17T13:25:02'
+  crc: '0xa3cc7d48'
+- name: CGA\CHAR1\CH41
+  size: 2164
+  date: '1990-07-17T13:25:02'
+  crc: '0x3f6be748'
+- name: CGA\CHAR1\CH42
+  size: 2062
+  date: '1990-07-17T13:25:02'
+  crc: '0x9d8f076a'
+- name: CGA\CHAR1\CH43
+  size: 3102
+  date: '1990-07-17T13:25:02'
+  crc: '0x50d1365c'
+- name: CGA\CHAR1\CH44
+  size: 1501
+  date: '1990-07-17T13:25:02'
+  crc: '0x43b01a1b'
+- name: CGA\CHAR1\CH45
+  size: 1920
+  date: '1990-07-17T13:25:02'
+  crc: '0xf35b4ce1'
+- name: CGA\CHAR1\CH46
+  size: 2377
+  date: '1990-07-17T13:25:02'
+  crc: '0x5eb72308'
+- name: CGA\CHAR1\CH47
+  size: 2319
+  date: '1990-07-17T13:25:02'
+  crc: '0xfca0bdad'
+- name: CGA\CHAR1\CH48
+  size: 2416
+  date: '1990-07-17T13:25:02'
+  crc: '0x0f1e247a'
+- name: CGA\CHAR1\CH49
+  size: 2342
+  date: '1990-07-17T13:25:02'
+  crc: '0x341d2661'
+- name: CGA\CHAR1\CH50
+  size: 1669
+  date: '1990-07-17T13:25:02'
+  crc: '0x960cb83a'
+- name: CGA\CHAR1\CH51
+  size: 1892
+  date: '1990-07-17T13:25:02'
+  crc: '0x65d1dfe2'
+- name: CGA\CHAR1\CH52
+  size: 2166
+  date: '1990-07-17T13:25:04'
+  crc: '0xdc8146ad'
+- name: CGA\CHAR1\CH53
+  size: 2192
+  date: '1990-07-17T13:25:04'
+  crc: '0x3041792f'
+- name: CGA\CHAR1\CH54
+  size: 2573
+  date: '1990-07-17T13:25:04'
+  crc: '0x433a3520'
+- name: CGA\CHAR1\CH55
+  size: 1920
+  date: '1990-07-17T13:25:04'
+  crc: '0x3051fb75'
+- name: CGA\CHAR1\CH56
+  size: 2064
+  date: '1990-07-17T13:25:04'
+  crc: '0xf1b1c67e'
+- name: CGA\CHAR1\CH57
+  size: 3484
+  date: '1990-07-17T13:25:04'
+  crc: '0x778443e4'
+- name: CGA\CHAR1\CH58
+  size: 1397
+  date: '1990-07-17T13:25:04'
+  crc: '0x2b66da4a'
+- name: CGA\CHAR1\CH59
+  size: 3307
+  date: '1990-07-17T13:25:04'
+  crc: '0x2ce96d18'
+- name: CGA\CHAR1\CH60
+  size: 3570
+  date: '1990-07-17T13:25:04'
+  crc: '0x0c382e4a'
+- name: CGA\CHAR1\CH61
+  size: 573
+  date: '1990-07-17T13:25:04'
+  crc: '0xaeeec806'
+- name: CGA\CHAR1\CH62
+  size: 3305
+  date: '1990-07-17T13:25:04'
+  crc: '0x0d901a73'
+- name: CGA\CHAR1\CH63
+  size: 644
+  date: '1990-07-17T13:25:04'
+  crc: '0x307c060c'
+- name: CGA\CHAR1\CH64
+  size: 3183
+  date: '1990-07-17T13:25:04'
+  crc: '0x0b2f9c2f'
+- name: CGA\CHAR1\CH65
+  size: 3429
+  date: '1990-07-17T13:25:04'
+  crc: '0xba389a1e'
+- name: CGA\CHAR1\CH66
+  size: 1282
+  date: '1990-07-17T13:25:04'
+  crc: '0x4aeb0c67'
+- name: CGA\CHAR1\CH67
+  size: 1956
+  date: '1990-07-17T13:25:04'
+  crc: '0xe228479a'
+- name: CGA\CHAR1\CH68
+  size: 1094
+  date: '1990-07-17T13:25:04'
+  crc: '0x16d7d34a'
+- name: CGA\CHAR1\CH69
+  size: 501
+  date: '1990-07-17T13:25:04'
+  crc: '0x24e616a2'
+- name: CGA\CHAR1\CH70
+  size: 1125
+  date: '1990-07-17T13:25:04'
+  crc: '0x732e9ff3'
+- name: CGA\CHAR1\CH71
+  size: 1396
+  date: '1990-07-17T13:25:06'
+  crc: '0xba94c4e9'
+- name: CGA\CHAR1\CH72
+  size: 1939
+  date: '1990-07-17T13:25:06'
+  crc: '0xbcb399b1'
+- name: CGA\CHAR1\CH73
+  size: 3522
+  date: '1990-07-17T13:25:06'
+  crc: '0xd7c50e72'
+- name: CGA\CHAR1\CH74
+  size: 3061
+  date: '1990-07-17T13:25:06'
+  crc: '0xdc91724b'
+- name: CGA\CHAR1\CH75
+  size: 2036
+  date: '1990-07-17T13:25:06'
+  crc: '0x14832fa2'
+- name: CGA\CHAR2\
+  size: 0
+  date: '1990-07-17T13:10:34'
+- name: CGA\CHAR2\CH22
+  size: 1601
+  date: '1990-07-17T13:29:08'
+  crc: '0x1d1a295c'
+- name: CGA\CHAR2\CH23
+  size: 2518
+  date: '1990-07-17T13:29:08'
+  crc: '0xba6a10a9'
+- name: CGA\CHAR2\CH24
+  size: 1924
+  date: '1990-07-17T13:29:08'
+  crc: '0xb9845dbf'
+- name: CGA\CHAR2\CH25
+  size: 1977
+  date: '1990-07-17T13:29:08'
+  crc: '0x72f7e5a2'
+- name: CGA\CHAR2\CH26
+  size: 1850
+  date: '1990-07-17T13:29:08'
+  crc: '0xc400a561'
+- name: CGA\CHAR2\CH27
+  size: 2310
+  date: '1990-07-17T13:29:08'
+  crc: '0x77efcbc0'
+- name: CGA\CHAR2\CH28
+  size: 1920
+  date: '1990-07-17T13:29:08'
+  crc: '0x3051fb75'
+- name: CGA\CHAR2\CH29
+  size: 2757
+  date: '1990-07-17T13:29:08'
+  crc: '0x634ca868'
+- name: CGA\CHAR2\CH30
+  size: 1739
+  date: '1990-07-17T13:29:08'
+  crc: '0x70b4aa82'
+- name: CGA\CHAR2\CH31
+  size: 3552
+  date: '1990-07-17T13:29:08'
+  crc: '0x816743bf'
+- name: CGA\CHAR2\CH32
+  size: 1492
+  date: '1990-07-17T13:29:08'
+  crc: '0x3014e7a9'
+- name: CGA\CHAR2\CH33
+  size: 1911
+  date: '1990-07-17T13:29:08'
+  crc: '0xc0cb2e54'
+- name: CGA\CHAR2\CH34
+  size: 2794
+  date: '1990-07-17T13:29:08'
+  crc: '0x09cf6bed'
+- name: CGA\CHAR2\CH35
+  size: 3375
+  date: '1990-07-17T13:29:08'
+  crc: '0x1394a4da'
+- name: CGA\CHAR2\CH36
+  size: 2920
+  date: '1990-07-17T13:29:08'
+  crc: '0x0c89319a'
+- name: CGA\CHAR2\CH37
+  size: 2007
+  date: '1990-07-17T13:29:10'
+  crc: '0x2b4ff480'
+- name: CGA\CHAR2\CH38
+  size: 1978
+  date: '1990-07-17T13:29:10'
+  crc: '0x4aa6a391'
+- name: CGA\CHAR2\CH39
+  size: 2354
+  date: '1990-07-17T13:29:10'
+  crc: '0xe6b3ffe3'
+- name: CGA\CHAR2\CH40
+  size: 1711
+  date: '1990-07-17T13:29:10'
+  crc: '0xa3cc7d48'
+- name: CGA\CHAR2\CH41
+  size: 2164
+  date: '1990-07-17T13:29:10'
+  crc: '0x3f6be748'
+- name: CGA\CHAR2\CH42
+  size: 1353
+  date: '1990-07-17T13:29:10'
+  crc: '0x9c9489c3'
+- name: CGA\CHAR2\CH43
+  size: 2062
+  date: '1990-07-17T13:29:10'
+  crc: '0x9d8f076a'
+- name: CGA\CHAR2\CH44
+  size: 2428
+  date: '1990-07-17T13:29:10'
+  crc: '0xd49346c5'
+- name: CGA\CHAR2\CH45
+  size: 3102
+  date: '1990-07-17T13:29:10'
+  crc: '0x50d1365c'
+- name: CGA\CHAR2\CH46
+  size: 1501
+  date: '1990-07-17T13:29:10'
+  crc: '0x43b01a1b'
+- name: CGA\CHAR2\CH47
+  size: 3446
+  date: '1990-07-17T13:29:10'
+  crc: '0xe696267e'
+- name: CGA\CHAR2\CH48
+  size: 1920
+  date: '1990-07-17T13:29:10'
+  crc: '0xf35b4ce1'
+- name: CGA\CHAR2\CH49
+  size: 2319
+  date: '1990-07-17T13:29:10'
+  crc: '0xfca0bdad'
+- name: CGA\CHAR2\CH50
+  size: 2416
+  date: '1990-07-17T13:29:10'
+  crc: '0x0f1e247a'
+- name: CGA\CHAR2\CH51
+  size: 1397
+  date: '1990-07-17T13:29:10'
+  crc: '0x2b66da4a'
+- name: CGA\CHAR2\CH52
+  size: 2342
+  date: '1990-07-17T13:29:10'
+  crc: '0x341d2661'
+- name: CGA\CHAR2\CH53
+  size: 1669
+  date: '1990-07-17T13:29:10'
+  crc: '0x960cb83a'
+- name: CGA\CHAR2\CH54
+  size: 1892
+  date: '1990-07-17T13:29:10'
+  crc: '0x65d1dfe2'
+- name: CGA\CHAR2\CH55
+  size: 2166
+  date: '1990-07-17T13:29:10'
+  crc: '0xdc8146ad'
+- name: CGA\CHAR2\CH56
+  size: 2192
+  date: '1990-07-17T13:29:12'
+  crc: '0x3041792f'
+- name: CGA\CHAR2\CH57
+  size: 2714
+  date: '1990-07-17T13:29:12'
+  crc: '0xbe574220'
+- name: CGA\CHAR2\CH58
+  size: 1282
+  date: '1990-07-17T13:29:12'
+  crc: '0x4aeb0c67'
+- name: CGA\CHAR2\CH59
+  size: 601
+  date: '1990-07-17T13:29:12'
+  crc: '0x7b12747e'
+- name: CGA\CHAR2\CH60
+  size: 1397
+  date: '1990-07-17T13:29:12'
+  crc: '0x2b66da4a'
+- name: CGA\CHAR2\CH61
+  size: 3570
+  date: '1990-07-17T13:29:12'
+  crc: '0x0c382e4a'
+- name: CGA\CHAR2\CH62
+  size: 1833
+  date: '1990-07-17T13:29:12'
+  crc: '0x2087e062'
+- name: CGA\CHAR2\CH63
+  size: 3305
+  date: '1990-07-17T13:29:12'
+  crc: '0x0d901a73'
+- name: CGA\CHAR2\CH64
+  size: 3183
+  date: '1990-07-17T13:29:12'
+  crc: '0x0b2f9c2f'
+- name: CGA\CHAR2\CH65
+  size: 573
+  date: '1990-07-17T13:29:12'
+  crc: '0xaeeec806'
+- name: CGA\CHAR2\CH66
+  size: 2311
+  date: '1990-07-17T13:29:12'
+  crc: '0x9359b281'
+- name: CGA\CHAR2\CH67
+  size: 3258
+  date: '1990-07-17T13:29:12'
+  crc: '0x6fae378a'
+- name: CGA\CHAR2\CH68
+  size: 1107
+  date: '1990-07-17T13:29:12'
+  crc: '0x640abd2d'
+- name: CGA\CHAR2\CH69
+  size: 619
+  date: '1990-07-17T13:29:12'
+  crc: '0xe7fdaa00'
+- name: CGA\CHAR2\CH70
+  size: 2036
+  date: '1990-07-17T13:29:12'
+  crc: '0x14832fa2'
+- name: CGA\CHAR2\CH71
+  size: 2309
+  date: '1990-07-17T13:29:12'
+  crc: '0x6037594e'
+- name: CGA\CHAR2\CH72
+  size: 3522
+  date: '1990-07-17T13:29:12'
+  crc: '0xd7c50e72'
+- name: CGA\CHAR2\CH73
+  size: 1939
+  date: '1990-07-17T13:29:12'
+  crc: '0xbcb399b1'
+- name: CGA\CHAR2\CH74
+  size: 3061
+  date: '1990-07-17T13:29:12'
+  crc: '0xdc91724b'
+- name: CGA\CHAR3\
+  size: 0
+  date: '1990-07-17T13:10:34'
+- name: CGA\CHAR3\CH00
+  size: 2032
+  date: '1990-07-17T13:31:12'
+  crc: '0x769c4dc5'
+- name: CGA\CHAR3\CH01
+  size: 1745
+  date: '1990-07-17T13:31:12'
+  crc: '0x29cbcd25'
+- name: CGA\CHAR3\CH02
+  size: 2102
+  date: '1990-07-17T13:31:12'
+  crc: '0x52644f12'
+- name: CGA\CHAR3\CH03
+  size: 2179
+  date: '1990-07-17T13:31:12'
+  crc: '0xfbcf8fcd'
+- name: CGA\CHAR3\CH04
+  size: 1983
+  date: '1990-07-17T13:31:12'
+  crc: '0x801a9212'
+- name: CGA\CHAR3\CH05
+  size: 1767
+  date: '1990-07-17T13:31:12'
+  crc: '0x754d6a67'
+- name: CGA\CHAR3\CH06
+  size: 1835
+  date: '1990-07-17T13:31:12'
+  crc: '0xca76fcbe'
+- name: CGA\CHAR3\CH07
+  size: 2084
+  date: '1990-07-17T13:31:12'
+  crc: '0x3b2b5851'
+- name: CGA\CHAR3\CH08
+  size: 1333
+  date: '1990-07-17T13:31:12'
+  crc: '0x0bfd517a'
+- name: CGA\CHAR3\CH09
+  size: 2496
+  date: '1990-07-17T13:31:12'
+  crc: '0x7ea94c8f'
+- name: CGA\CHAR3\CH10
+  size: 2026
+  date: '1990-07-17T13:31:12'
+  crc: '0x677eb439'
+- name: CGA\CHAR3\CH11
+  size: 2463
+  date: '1990-07-17T13:31:12'
+  crc: '0x081c9264'
+- name: CGA\CHAR3\CH12
+  size: 2401
+  date: '1990-07-17T13:31:12'
+  crc: '0x46c03601'
+- name: CGA\CHAR3\CH13
+  size: 2223
+  date: '1990-07-17T13:31:12'
+  crc: '0xc8f76043'
+- name: CGA\CHAR3\CH14
+  size: 2018
+  date: '1990-07-17T13:31:12'
+  crc: '0xc220355c'
+- name: CGA\CHAR3\CH15
+  size: 2379
+  date: '1990-07-17T13:31:12'
+  crc: '0x9b8659aa'
+- name: CGA\CHAR3\CH16
+  size: 3099
+  date: '1990-07-17T13:31:12'
+  crc: '0x610bb57d'
+- name: CGA\CHAR3\CH17
+  size: 2411
+  date: '1990-07-17T13:31:12'
+  crc: '0x554512c7'
+- name: CGA\CHAR3\CH18
+  size: 2033
+  date: '1990-07-17T13:31:12'
+  crc: '0x7635d275'
+- name: CGA\CHAR3\CH19
+  size: 2908
+  date: '1990-07-17T13:31:14'
+  crc: '0x2a5083dc'
+- name: CGA\CHAR3\CH20
+  size: 2437
+  date: '1990-07-17T13:31:14'
+  crc: '0xf929c497'
+- name: CGA\CHAR3\CH21
+  size: 2256
+  date: '1990-07-17T13:31:14'
+  crc: '0xa95f16a2'
+- name: CGA\D0\
+  size: 0
+  date: '1990-07-17T13:10:36'
+- name: CGA\D0\DP001
+  size: 263
+  date: '1990-07-17T13:32:18'
+  crc: '0x9131e41d'
+- name: CGA\D0\DP002
+  size: 5453
+  date: '1990-07-17T13:32:18'
+  crc: '0x9f504dfe'
+- name: CGA\D0\DP003
+  size: 1536
+  date: '1990-07-17T13:32:18'
+  crc: '0xd06286d0'
+- name: CGA\D0\DP004
+  size: 446
+  date: '1990-07-17T13:32:18'
+  crc: '0xd57022e6'
+- name: CGA\D0\DP005
+  size: 194
+  date: '1990-07-17T13:32:18'
+  crc: '0x1ad7bdd5'
+- name: CGA\D0\DP006
+  size: 850
+  date: '1990-07-17T13:32:18'
+  crc: '0xb3d6a231'
+- name: CGA\D0\DP007
+  size: 888
+  date: '1990-07-17T13:32:18'
+  crc: '0xee176567'
+- name: CGA\D0\DP008
+  size: 226
+  date: '1990-07-17T13:32:18'
+  crc: '0x158444ac'
+- name: CGA\D0\DP009
+  size: 240
+  date: '1990-07-17T13:32:18'
+  crc: '0x165317ae'
+- name: CGA\D0\DP010
+  size: 119
+  date: '1990-07-17T13:32:18'
+  crc: '0x4fb1150c'
+- name: CGA\D0\DP011
+  size: 119
+  date: '1990-07-17T13:32:18'
+  crc: '0xa62a1e07'
+- name: CGA\D0\DP012
+  size: 441
+  date: '1990-07-17T13:32:18'
+  crc: '0xfc695963'
+- name: CGA\D0\DP013
+  size: 432
+  date: '1990-07-17T13:32:20'
+  crc: '0xacce3fda'
+- name: CGA\D0\DP014
+  size: 3726
+  date: '1990-07-17T13:32:20'
+  crc: '0x0fc7d620'
+- name: CGA\D0\DP015
+  size: 960
+  date: '1990-07-17T13:32:20'
+  crc: '0x3ade1808'
+- name: CGA\D0\DP016
+  size: 369
+  date: '1990-07-17T13:32:20'
+  crc: '0xccad5cb8'
+- name: CGA\D0\DP017
+  size: 119
+  date: '1990-07-17T13:32:20'
+  crc: '0xa48a7dcd'
+- name: CGA\D0\DP018
+  size: 732
+  date: '1990-07-17T13:32:20'
+  crc: '0xec9462a0'
+- name: CGA\D0\DP019
+  size: 732
+  date: '1990-07-17T13:32:20'
+  crc: '0x24b4222a'
+- name: CGA\D0\DP020
+  size: 243
+  date: '1990-07-17T13:32:20'
+  crc: '0x8af73051'
+- name: CGA\D0\DP021
+  size: 243
+  date: '1990-07-17T13:32:20'
+  crc: '0x0cb637ad'
+- name: CGA\D0\DP022
+  size: 125
+  date: '1990-07-17T13:32:20'
+  crc: '0x0c920439'
+- name: CGA\D0\DP023
+  size: 125
+  date: '1990-07-17T13:32:20'
+  crc: '0xe3c326ec'
+- name: CGA\D0\DP024
+  size: 1442
+  date: '1990-07-17T13:32:20'
+  crc: '0xde5bec2b'
+- name: CGA\D0\DP025
+  size: 1470
+  date: '1990-07-17T13:32:20'
+  crc: '0x20107535'
+- name: CGA\D0\DP026
+  size: 470
+  date: '1990-07-17T13:32:20'
+  crc: '0xdabbb460'
+- name: CGA\D0\DP027
+  size: 464
+  date: '1990-07-17T13:32:20'
+  crc: '0xb6404cb6'
+- name: CGA\D0\DP028
+  size: 121
+  date: '1990-07-17T13:32:20'
+  crc: '0x4c6a20c8'
+- name: CGA\D0\DP029
+  size: 120
+  date: '1990-07-17T13:32:20'
+  crc: '0xc9d4c5ed'
+- name: CGA\D0\DP030
+  size: 302
+  date: '1990-07-17T13:32:20'
+  crc: '0x0ab0f077'
+- name: CGA\D0\DP031
+  size: 298
+  date: '1990-07-17T13:32:20'
+  crc: '0xbbe8512b'
+- name: CGA\D0\DP032
+  size: 230
+  date: '1990-07-17T13:32:20'
+  crc: '0xd89a8730'
+- name: CGA\D0\DP033
+  size: 226
+  date: '1990-07-17T13:32:20'
+  crc: '0x62812f9c'
+- name: CGA\D0\DP034
+  size: 164
+  date: '1990-07-17T13:32:22'
+  crc: '0xaca8c254'
+- name: CGA\D0\DP035
+  size: 160
+  date: '1990-07-17T13:32:22'
+  crc: '0xdbca1c8a'
+- name: CGA\D0\DP036
+  size: 3809
+  date: '1990-07-17T13:32:22'
+  crc: '0x44e3021e'
+- name: CGA\D0\DP037
+  size: 981
+  date: '1990-07-17T13:32:22'
+  crc: '0x5877c265'
+- name: CGA\D0\DP038
+  size: 371
+  date: '1990-07-17T13:32:22'
+  crc: '0x4475124b'
+- name: CGA\D0\DP039
+  size: 118
+  date: '1990-07-17T13:32:22'
+  crc: '0xa3f8b9b4'
+- name: CGA\D0\DP040
+  size: 739
+  date: '1990-07-17T13:32:22'
+  crc: '0x8519cbec'
+- name: CGA\D0\DP041
+  size: 739
+  date: '1990-07-17T13:32:22'
+  crc: '0xccef2812'
+- name: CGA\D0\DP042
+  size: 243
+  date: '1990-07-17T13:32:22'
+  crc: '0x85dadc4f'
+- name: CGA\D0\DP043
+  size: 243
+  date: '1990-07-17T13:32:22'
+  crc: '0xd394c986'
+- name: CGA\D0\DP044
+  size: 124
+  date: '1990-07-17T13:32:22'
+  crc: '0xda8ab1c8'
+- name: CGA\D0\DP045
+  size: 125
+  date: '1990-07-17T13:32:22'
+  crc: '0x41fc2146'
+- name: CGA\D0\DP046
+  size: 1444
+  date: '1990-07-17T13:32:22'
+  crc: '0x6506f15c'
+- name: CGA\D0\DP047
+  size: 1477
+  date: '1990-07-17T13:32:22'
+  crc: '0x20f847e8'
+- name: CGA\D0\DP048
+  size: 470
+  date: '1990-07-17T13:32:22'
+  crc: '0xea502dc9'
+- name: CGA\D0\DP049
+  size: 464
+  date: '1990-07-17T13:32:22'
+  crc: '0xcd24c31a'
+- name: CGA\D0\DP050
+  size: 121
+  date: '1990-07-17T13:32:22'
+  crc: '0xcd3e823a'
+- name: CGA\D0\DP051
+  size: 120
+  date: '1990-07-17T13:32:22'
+  crc: '0x8bc83641'
+- name: CGA\D0\DP052
+  size: 294
+  date: '1990-07-17T13:32:22'
+  crc: '0xa2f11648'
+- name: CGA\D0\DP053
+  size: 290
+  date: '1990-07-17T13:32:22'
+  crc: '0x44cf0101'
+- name: CGA\D0\DP054
+  size: 230
+  date: '1990-07-17T13:32:24'
+  crc: '0x8d56f5ca'
+- name: CGA\D0\DP055
+  size: 226
+  date: '1990-07-17T13:32:24'
+  crc: '0x85c06656'
+- name: CGA\D0\DP056
+  size: 164
+  date: '1990-07-17T13:32:24'
+  crc: '0x8be9850a'
+- name: CGA\D0\DP057
+  size: 160
+  date: '1990-07-17T13:32:24'
+  crc: '0xf0b6b15c'
+- name: CGA\D0\DP061
+  size: 130
+  date: '1990-07-17T13:32:24'
+  crc: '0x20ea5cf6'
+- name: CGA\D0\DP062
+  size: 209
+  date: '1990-07-17T13:32:24'
+  crc: '0xa997efd4'
+- name: CGA\D0\DP063
+  size: 111
+  date: '1990-07-17T13:32:24'
+  crc: '0xfac0e221'
+- name: CGA\D0\DP064
+  size: 254
+  date: '1990-07-17T13:32:24'
+  crc: '0x050875c6'
+- name: CGA\D0\DP065
+  size: 111
+  date: '1990-07-17T13:32:24'
+  crc: '0xfac0e221'
+- name: CGA\D0\DP066
+  size: 56
+  date: '1990-07-17T13:32:24'
+  crc: '0xcc63ceba'
+- name: CGA\D1\
+  size: 0
+  date: '1990-07-17T13:10:36'
+- name: CGA\D1\DP001
+  size: 2488
+  date: '1990-07-17T13:33:14'
+  crc: '0x0222fdf3'
+- name: CGA\D1\DP014
+  size: 3327
+  date: '1990-07-17T13:33:14'
+  crc: '0xb2004388'
+- name: CGA\D1\DP015
+  size: 861
+  date: '1990-07-17T13:33:14'
+  crc: '0x95c362e2'
+- name: CGA\D1\DP016
+  size: 347
+  date: '1990-07-17T13:33:14'
+  crc: '0x659906af'
+- name: CGA\D1\DP017
+  size: 108
+  date: '1990-07-17T13:33:14'
+  crc: '0x47d27182'
+- name: CGA\D1\DP018
+  size: 702
+  date: '1990-07-17T13:33:14'
+  crc: '0x4c9e2cc9'
+- name: CGA\D1\DP019
+  size: 698
+  date: '1990-07-17T13:33:14'
+  crc: '0x7deee5aa'
+- name: CGA\D1\DP020
+  size: 241
+  date: '1990-07-17T13:33:14'
+  crc: '0x98133d66'
+- name: CGA\D1\DP021
+  size: 243
+  date: '1990-07-17T13:33:14'
+  crc: '0x5e8699dc'
+- name: CGA\D1\DP022
+  size: 125
+  date: '1990-07-17T13:33:14'
+  crc: '0x7f608a6a'
+- name: CGA\D1\DP023
+  size: 125
+  date: '1990-07-17T13:33:14'
+  crc: '0xd27aa135'
+- name: CGA\D1\DP024
+  size: 1447
+  date: '1990-07-17T13:33:14'
+  crc: '0x5f87a4e3'
+- name: CGA\D1\DP025
+  size: 1493
+  date: '1990-07-17T13:33:14'
+  crc: '0x40799abf'
+- name: CGA\D1\DP026
+  size: 483
+  date: '1990-07-17T13:33:16'
+  crc: '0xaf1fb73f'
+- name: CGA\D1\DP027
+  size: 480
+  date: '1990-07-17T13:33:16'
+  crc: '0x4f805c42'
+- name: CGA\D1\DP028
+  size: 119
+  date: '1990-07-17T13:33:16'
+  crc: '0x67cd17d1'
+- name: CGA\D1\DP029
+  size: 117
+  date: '1990-07-17T13:33:16'
+  crc: '0x8ed7846a'
+- name: CGA\D1\DP030
+  size: 314
+  date: '1990-07-17T13:33:16'
+  crc: '0xed25611d'
+- name: CGA\D1\DP031
+  size: 308
+  date: '1990-07-17T13:33:16'
+  crc: '0xf1f275c5'
+- name: CGA\D1\DP032
+  size: 243
+  date: '1990-07-17T13:33:16'
+  crc: '0x124e10ba'
+- name: CGA\D1\DP033
+  size: 239
+  date: '1990-07-17T13:33:16'
+  crc: '0x80775adc'
+- name: CGA\D1\DP034
+  size: 164
+  date: '1990-07-17T13:33:16'
+  crc: '0x6f975dbf'
+- name: CGA\D1\DP035
+  size: 160
+  date: '1990-07-17T13:33:16'
+  crc: '0x657cd199'
+- name: CGA\D1\DP036
+  size: 2721
+  date: '1990-07-17T13:33:16'
+  crc: '0x63a6f735'
+- name: CGA\D1\DP037
+  size: 798
+  date: '1990-07-17T13:33:16'
+  crc: '0x3b59df9b'
+- name: CGA\D1\DP038
+  size: 349
+  date: '1990-07-17T13:33:16'
+  crc: '0x128d9729'
+- name: CGA\D1\DP039
+  size: 105
+  date: '1990-07-17T13:33:16'
+  crc: '0xc40bb46b'
+- name: CGA\D1\DP040
+  size: 679
+  date: '1990-07-17T13:33:16'
+  crc: '0x74f06f14'
+- name: CGA\D1\DP041
+  size: 686
+  date: '1990-07-17T13:33:16'
+  crc: '0x21a9b3e3'
+- name: CGA\D1\DP042
+  size: 243
+  date: '1990-07-17T13:33:16'
+  crc: '0x1284bcef'
+- name: CGA\D1\DP043
+  size: 243
+  date: '1990-07-17T13:33:16'
+  crc: '0xae475edd'
+- name: CGA\D1\DP044
+  size: 125
+  date: '1990-07-17T13:33:16'
+  crc: '0xb726ed7a'
+- name: CGA\D1\DP045
+  size: 125
+  date: '1990-07-17T13:33:16'
+  crc: '0x2dd9ada0'
+- name: CGA\D1\DP046
+  size: 1447
+  date: '1990-07-17T13:33:16'
+  crc: '0x6dbea0a5'
+- name: CGA\D1\DP047
+  size: 1493
+  date: '1990-07-17T13:33:18'
+  crc: '0x7f8d7b29'
+- name: CGA\D1\DP048
+  size: 367
+  date: '1990-07-17T13:33:18'
+  crc: '0x71743642'
+- name: CGA\D1\DP049
+  size: 364
+  date: '1990-07-17T13:33:18'
+  crc: '0x309de007'
+- name: CGA\D1\DP050
+  size: 115
+  date: '1990-07-17T13:33:18'
+  crc: '0x0551bd6d'
+- name: CGA\D1\DP051
+  size: 114
+  date: '1990-07-17T13:33:18'
+  crc: '0xc8b110b2'
+- name: CGA\D1\DP052
+  size: 326
+  date: '1990-07-17T13:33:18'
+  crc: '0xb8c36293'
+- name: CGA\D1\DP053
+  size: 320
+  date: '1990-07-17T13:33:18'
+  crc: '0xff0b014f'
+- name: CGA\D1\DP054
+  size: 243
+  date: '1990-07-17T13:33:18'
+  crc: '0x5c93f699'
+- name: CGA\D1\DP055
+  size: 240
+  date: '1990-07-17T13:33:18'
+  crc: '0x09d9bcf7'
+- name: CGA\D1\DP056
+  size: 164
+  date: '1990-07-17T13:33:18'
+  crc: '0x9f1ad8dd'
+- name: CGA\D1\DP057
+  size: 160
+  date: '1990-07-17T13:33:18'
+  crc: '0xf81df27a'
+- name: CGA\D1\DP058
+  size: 3630
+  date: '1990-07-17T13:33:18'
+  crc: '0xafd76351'
+- name: CGA\D1\DP059
+  size: 5220
+  date: '1990-07-17T13:33:18'
+  crc: '0x4cdbfa25'
+- name: CGA\D1\DP060
+  size: 3327
+  date: '1990-07-17T13:33:18'
+  crc: '0x1c62465e'
+- name: CGA\D1\DP067
+  size: 567
+  date: '1990-07-17T13:33:18'
+  crc: '0x1b3f6e4f'
+- name: CGA\D1\DP068
+  size: 366
+  date: '1990-07-17T13:33:18'
+  crc: '0xf4a2cc44'
+- name: CGA\D1\DP069
+  size: 389
+  date: '1990-07-17T13:33:18'
+  crc: '0xe109d24b'
+- name: CGA\D2\
+  size: 0
+  date: '1990-07-17T13:10:36'
+- name: CGA\D2\DP001
+  size: 2525
+  date: '1990-07-17T13:34:40'
+  crc: '0xd06ff7bf'
+- name: CGA\D2\DP014
+  size: 3375
+  date: '1990-07-17T13:34:40'
+  crc: '0x97d6c1e6'
+- name: CGA\D2\DP015
+  size: 849
+  date: '1990-07-17T13:34:42'
+  crc: '0x9a6f77b9'
+- name: CGA\D2\DP016
+  size: 347
+  date: '1990-07-17T13:34:42'
+  crc: '0x023c8ca8'
+- name: CGA\D2\DP017
+  size: 109
+  date: '1990-07-17T13:34:42'
+  crc: '0x0299a2e0'
+- name: CGA\D2\DP018
+  size: 704
+  date: '1990-07-17T13:34:42'
+  crc: '0xa45fb5dc'
+- name: CGA\D2\DP019
+  size: 706
+  date: '1990-07-17T13:34:42'
+  crc: '0x56e0dc26'
+- name: CGA\D2\DP020
+  size: 241
+  date: '1990-07-17T13:34:42'
+  crc: '0x5c0465e2'
+- name: CGA\D2\DP021
+  size: 241
+  date: '1990-07-17T13:34:42'
+  crc: '0x4373c982'
+- name: CGA\D2\DP022
+  size: 124
+  date: '1990-07-17T13:34:42'
+  crc: '0xdedd5db5'
+- name: CGA\D2\DP023
+  size: 125
+  date: '1990-07-17T13:34:42'
+  crc: '0xbc6bfdf2'
+- name: CGA\D2\DP024
+  size: 1440
+  date: '1990-07-17T13:34:42'
+  crc: '0xfa9169f9'
+- name: CGA\D2\DP025
+  size: 1486
+  date: '1990-07-17T13:34:42'
+  crc: '0xb50fb7c8'
+- name: CGA\D2\DP026
+  size: 483
+  date: '1990-07-17T13:34:42'
+  crc: '0x91080237'
+- name: CGA\D2\DP027
+  size: 480
+  date: '1990-07-17T13:34:42'
+  crc: '0xabbb4740'
+- name: CGA\D2\DP028
+  size: 127
+  date: '1990-07-17T13:34:42'
+  crc: '0xa8b954f1'
+- name: CGA\D2\DP029
+  size: 126
+  date: '1990-07-17T13:34:42'
+  crc: '0x75954702'
+- name: CGA\D2\DP030
+  size: 306
+  date: '1990-07-17T13:34:42'
+  crc: '0xf8c01520'
+- name: CGA\D2\DP031
+  size: 300
+  date: '1990-07-17T13:34:42'
+  crc: '0x5eadd0de'
+- name: CGA\D2\DP032
+  size: 219
+  date: '1990-07-17T13:34:42'
+  crc: '0xa557f73b'
+- name: CGA\D2\DP033
+  size: 216
+  date: '1990-07-17T13:34:42'
+  crc: '0xc88d5223'
+- name: CGA\D2\DP034
+  size: 149
+  date: '1990-07-17T13:34:42'
+  crc: '0x9dfdb65f'
+- name: CGA\D2\DP035
+  size: 145
+  date: '1990-07-17T13:34:42'
+  crc: '0x4f6391bd'
+- name: CGA\D2\DP036
+  size: 3148
+  date: '1990-07-17T13:34:44'
+  crc: '0xd1ebc44b'
+- name: CGA\D2\DP037
+  size: 824
+  date: '1990-07-17T13:34:44'
+  crc: '0xbb127047'
+- name: CGA\D2\DP038
+  size: 310
+  date: '1990-07-17T13:34:44'
+  crc: '0x83915461'
+- name: CGA\D2\DP039
+  size: 108
+  date: '1990-07-17T13:34:44'
+  crc: '0x72b69f0f'
+- name: CGA\D2\DP040
+  size: 698
+  date: '1990-07-17T13:34:44'
+  crc: '0xb46c87a9'
+- name: CGA\D2\DP041
+  size: 688
+  date: '1990-07-17T13:34:44'
+  crc: '0x2b74f31b'
+- name: CGA\D2\DP042
+  size: 238
+  date: '1990-07-17T13:34:44'
+  crc: '0x018a8fb7'
+- name: CGA\D2\DP043
+  size: 234
+  date: '1990-07-17T13:34:44'
+  crc: '0x9f1e0369'
+- name: CGA\D2\DP044
+  size: 125
+  date: '1990-07-17T13:34:44'
+  crc: '0x493b88d0'
+- name: CGA\D2\DP045
+  size: 124
+  date: '1990-07-17T13:34:44'
+  crc: '0xb3b01da2'
+- name: CGA\D2\DP046
+  size: 1444
+  date: '1990-07-17T13:34:44'
+  crc: '0x76f581b6'
+- name: CGA\D2\DP047
+  size: 1490
+  date: '1990-07-17T13:34:44'
+  crc: '0x3a1c0110'
+- name: CGA\D2\DP048
+  size: 478
+  date: '1990-07-17T13:34:44'
+  crc: '0x2403b51a'
+- name: CGA\D2\DP049
+  size: 475
+  date: '1990-07-17T13:34:44'
+  crc: '0x3f996388'
+- name: CGA\D2\DP050
+  size: 127
+  date: '1990-07-17T13:34:44'
+  crc: '0x58c9355b'
+- name: CGA\D2\DP051
+  size: 126
+  date: '1990-07-17T13:34:44'
+  crc: '0x8e9f0f2c'
+- name: CGA\D2\DP052
+  size: 322
+  date: '1990-07-17T13:34:44'
+  crc: '0xdf8dca15'
+- name: CGA\D2\DP053
+  size: 316
+  date: '1990-07-17T13:34:44'
+  crc: '0x7df52702'
+- name: CGA\D2\DP054
+  size: 219
+  date: '1990-07-17T13:34:44'
+  crc: '0x3b3338e5'
+- name: CGA\D2\DP055
+  size: 216
+  date: '1990-07-17T13:34:44'
+  crc: '0x33b0cd25'
+- name: CGA\D2\DP056
+  size: 155
+  date: '1990-07-17T13:34:44'
+  crc: '0xf3c9eff5'
+- name: CGA\D2\DP057
+  size: 151
+  date: '1990-07-17T13:34:44'
+  crc: '0x432b49a4'
+- name: CGA\D2\DP058
+  size: 3330
+  date: '1990-07-17T13:34:46'
+  crc: '0xc7f066a5'
+- name: CGA\D2\DP059
+  size: 3315
+  date: '1990-07-17T13:34:46'
+  crc: '0x5fe8d95c'
+- name: CGA\D2\DP060
+  size: 3208
+  date: '1990-07-17T13:34:46'
+  crc: '0x3b7f3f92'
+- name: CGA\D2\DP067
+  size: 567
+  date: '1990-07-17T13:34:46'
+  crc: '0xb1d6228b'
+- name: CGA\D2\DP068
+  size: 366
+  date: '1990-07-17T13:34:46'
+  crc: '0x4c88c7b3'
+- name: CGA\D2\DP069
+  size: 389
+  date: '1990-07-17T13:34:46'
+  crc: '0x65158c6a'
+- name: CGA\D3\
+  size: 0
+  date: '1990-07-17T13:10:36'
+- name: CGA\D3\DP001
+  size: 2856
+  date: '1990-07-17T13:36:02'
+  crc: '0x95cc19d6'
+- name: CGA\D3\DP014
+  size: 2373
+  date: '1990-07-17T13:36:02'
+  crc: '0x9cfc2bd2'
+- name: CGA\D3\DP015
+  size: 772
+  date: '1990-07-17T13:36:02'
+  crc: '0xaf29e82f'
+- name: CGA\D3\DP016
+  size: 335
+  date: '1990-07-17T13:36:04'
+  crc: '0xcc4a5abf'
+- name: CGA\D3\DP017
+  size: 184
+  date: '1990-07-17T13:36:04'
+  crc: '0x198e61ce'
+- name: CGA\D3\DP018
+  size: 564
+  date: '1990-07-17T13:36:04'
+  crc: '0x72b35b69'
+- name: CGA\D3\DP019
+  size: 593
+  date: '1990-07-17T13:36:04'
+  crc: '0x3136a752'
+- name: CGA\D3\DP020
+  size: 222
+  date: '1990-07-17T13:36:04'
+  crc: '0xc330b242'
+- name: CGA\D3\DP021
+  size: 220
+  date: '1990-07-17T13:36:04'
+  crc: '0x7b156c78'
+- name: CGA\D3\DP022
+  size: 116
+  date: '1990-07-17T13:36:04'
+  crc: '0xdebd8718'
+- name: CGA\D3\DP023
+  size: 115
+  date: '1990-07-17T13:36:04'
+  crc: '0x7a328a27'
+- name: CGA\D3\DP024
+  size: 1689
+  date: '1990-07-17T13:36:04'
+  crc: '0x4fff645d'
+- name: CGA\D3\DP025
+  size: 1778
+  date: '1990-07-17T13:36:04'
+  crc: '0x4b89a7d4'
+- name: CGA\D3\DP026
+  size: 476
+  date: '1990-07-17T13:36:04'
+  crc: '0xcfbd0bee'
+- name: CGA\D3\DP027
+  size: 473
+  date: '1990-07-17T13:36:04'
+  crc: '0x4c05e178'
+- name: CGA\D3\DP028
+  size: 119
+  date: '1990-07-17T13:36:04'
+  crc: '0xa9eae1f3'
+- name: CGA\D3\DP029
+  size: 118
+  date: '1990-07-17T13:36:04'
+  crc: '0x76ac0fad'
+- name: CGA\D3\DP030
+  size: 219
+  date: '1990-07-17T13:36:04'
+  crc: '0x7ba061d3'
+- name: CGA\D3\DP031
+  size: 127
+  date: '1990-07-17T13:36:04'
+  crc: '0x8716e88c'
+- name: CGA\D3\DP032
+  size: 204
+  date: '1990-07-17T13:36:04'
+  crc: '0x187d9243'
+- name: CGA\D3\DP033
+  size: 194
+  date: '1990-07-17T13:36:04'
+  crc: '0x0e564938'
+- name: CGA\D3\DP034
+  size: 121
+  date: '1990-07-17T13:36:04'
+  crc: '0x80083322'
+- name: CGA\D3\DP035
+  size: 90
+  date: '1990-07-17T13:36:04'
+  crc: '0x27ea37a7'
+- name: CGA\D3\DP036
+  size: 3370
+  date: '1990-07-17T13:36:04'
+  crc: '0xe7022346'
+- name: CGA\D3\DP037
+  size: 813
+  date: '1990-07-17T13:36:06'
+  crc: '0x2af40e19'
+- name: CGA\D3\DP038
+  size: 324
+  date: '1990-07-17T13:36:06'
+  crc: '0xbf86457a'
+- name: CGA\D3\DP039
+  size: 102
+  date: '1990-07-17T13:36:06'
+  crc: '0x447d7f17'
+- name: CGA\D3\DP040
+  size: 648
+  date: '1990-07-17T13:36:06'
+  crc: '0x3ea5c97e'
+- name: CGA\D3\DP041
+  size: 650
+  date: '1990-07-17T13:36:06'
+  crc: '0x716cff2f'
+- name: CGA\D3\DP042
+  size: 222
+  date: '1990-07-17T13:36:06'
+  crc: '0x32044cef'
+- name: CGA\D3\DP043
+  size: 222
+  date: '1990-07-17T13:36:06'
+  crc: '0xe8dfe0e1'
+- name: CGA\D3\DP044
+  size: 116
+  date: '1990-07-17T13:36:06'
+  crc: '0x565a9a26'
+- name: CGA\D3\DP045
+  size: 116
+  date: '1990-07-17T13:36:06'
+  crc: '0x7128ff6e'
+- name: CGA\D3\DP046
+  size: 1489
+  date: '1990-07-17T13:36:06'
+  crc: '0xb6f9c66b'
+- name: CGA\D3\DP047
+  size: 1543
+  date: '1990-07-17T13:36:06'
+  crc: '0x1f18f48b'
+- name: CGA\D3\DP048
+  size: 367
+  date: '1990-07-17T13:36:06'
+  crc: '0x72e9fbc1'
+- name: CGA\D3\DP049
+  size: 366
+  date: '1990-07-17T13:36:06'
+  crc: '0x71161778'
+- name: CGA\D3\DP050
+  size: 119
+  date: '1990-07-17T13:36:06'
+  crc: '0xdd20898b'
+- name: CGA\D3\DP051
+  size: 118
+  date: '1990-07-17T13:36:06'
+  crc: '0x965796d3'
+- name: CGA\D3\DP052
+  size: 293
+  date: '1990-07-17T13:36:06'
+  crc: '0x56b8ea80'
+- name: CGA\D3\DP053
+  size: 288
+  date: '1990-07-17T13:36:06'
+  crc: '0xc2da65d7'
+- name: CGA\D3\DP054
+  size: 214
+  date: '1990-07-17T13:36:06'
+  crc: '0x2bceb757'
+- name: CGA\D3\DP055
+  size: 210
+  date: '1990-07-17T13:36:06'
+  crc: '0xf8766d37'
+- name: CGA\D3\DP056
+  size: 152
+  date: '1990-07-17T13:36:06'
+  crc: '0x3806bfd4'
+- name: CGA\D3\DP057
+  size: 148
+  date: '1990-07-17T13:36:06'
+  crc: '0xfa2b9aab'
+- name: CGA\D3\DP058
+  size: 3440
+  date: '1990-07-17T13:36:08'
+  crc: '0x0818a41c'
+- name: CGA\D3\DP059
+  size: 3384
+  date: '1990-07-17T13:36:08'
+  crc: '0x0f0fefbf'
+- name: CGA\D3\DP060
+  size: 3611
+  date: '1990-07-17T13:36:08'
+  crc: '0x7615d59d'
+- name: CGA\D3\DP067
+  size: 567
+  date: '1990-07-17T13:36:08'
+  crc: '0xb1d6228b'
+- name: CGA\D3\DP068
+  size: 366
+  date: '1990-07-17T13:36:08'
+  crc: '0x4c88c7b3'
+- name: CGA\D3\DP069
+  size: 389
+  date: '1990-07-17T13:36:08'
+  crc: '0x65158c6a'
+- name: CGA\D4\
+  size: 0
+  date: '1990-07-17T13:10:36'
+- name: CGA\D4\DP001
+  size: 2124
+  date: '1990-07-17T13:37:04'
+  crc: '0xd16593b6'
+- name: CGA\D4\DP014
+  size: 3059
+  date: '1990-07-17T13:37:04'
+  crc: '0xc47492ca'
+- name: CGA\D4\DP015
+  size: 846
+  date: '1990-07-17T13:37:04'
+  crc: '0xb28e4ebd'
+- name: CGA\D4\DP016
+  size: 348
+  date: '1990-07-17T13:37:04'
+  crc: '0x0d52d4ab'
+- name: CGA\D4\DP017
+  size: 107
+  date: '1990-07-17T13:37:04'
+  crc: '0x072ba994'
+- name: CGA\D4\DP018
+  size: 701
+  date: '1990-07-17T13:37:04'
+  crc: '0xa253e2ba'
+- name: CGA\D4\DP019
+  size: 699
+  date: '1990-07-17T13:37:04'
+  crc: '0x67befecb'
+- name: CGA\D4\DP020
+  size: 238
+  date: '1990-07-17T13:37:04'
+  crc: '0x474c7e2b'
+- name: CGA\D4\DP021
+  size: 241
+  date: '1990-07-17T13:37:04'
+  crc: '0xcf6720b3'
+- name: CGA\D4\DP022
+  size: 125
+  date: '1990-07-17T13:37:04'
+  crc: '0x866439b4'
+- name: CGA\D4\DP023
+  size: 125
+  date: '1990-07-17T13:37:04'
+  crc: '0xe8c92dbd'
+- name: CGA\D4\DP024
+  size: 1459
+  date: '1990-07-17T13:37:04'
+  crc: '0x86a7e457'
+- name: CGA\D4\DP025
+  size: 1521
+  date: '1990-07-17T13:37:06'
+  crc: '0xa30aa6ac'
+- name: CGA\D4\DP026
+  size: 483
+  date: '1990-07-17T13:37:06'
+  crc: '0x0c2e5f2b'
+- name: CGA\D4\DP027
+  size: 480
+  date: '1990-07-17T13:37:06'
+  crc: '0x30113769'
+- name: CGA\D4\DP028
+  size: 185
+  date: '1990-07-17T13:37:06'
+  crc: '0x006bf32e'
+- name: CGA\D4\DP029
+  size: 184
+  date: '1990-07-17T13:37:06'
+  crc: '0xbfa5e209'
+- name: CGA\D4\DP030
+  size: 326
+  date: '1990-07-17T13:37:06'
+  crc: '0xef6ffb4b'
+- name: CGA\D4\DP031
+  size: 326
+  date: '1990-07-17T13:37:06'
+  crc: '0x15a1edb8'
+- name: CGA\D4\DP032
+  size: 241
+  date: '1990-07-17T13:37:06'
+  crc: '0xe0418d67'
+- name: CGA\D4\DP033
+  size: 238
+  date: '1990-07-17T13:37:06'
+  crc: '0x33025e32'
+- name: CGA\D4\DP034
+  size: 166
+  date: '1990-07-17T13:37:06'
+  crc: '0x8707f3c5'
+- name: CGA\D4\DP035
+  size: 168
+  date: '1990-07-17T13:37:06'
+  crc: '0x403e69ab'
+- name: CGA\D4\DP036
+  size: 3160
+  date: '1990-07-17T13:37:06'
+  crc: '0x0f6207c9'
+- name: CGA\D4\DP037
+  size: 838
+  date: '1990-07-17T13:37:06'
+  crc: '0xb4d718df'
+- name: CGA\D4\DP038
+  size: 337
+  date: '1990-07-17T13:37:06'
+  crc: '0x9aed9c98'
+- name: CGA\D4\DP039
+  size: 97
+  date: '1990-07-17T13:37:06'
+  crc: '0x9c97fc6f'
+- name: CGA\D4\DP040
+  size: 701
+  date: '1990-07-17T13:37:06'
+  crc: '0x72a212cf'
+- name: CGA\D4\DP041
+  size: 700
+  date: '1990-07-17T13:37:06'
+  crc: '0x2ad7ed36'
+- name: CGA\D4\DP042
+  size: 240
+  date: '1990-07-17T13:37:06'
+  crc: '0x07089d21'
+- name: CGA\D4\DP043
+  size: 241
+  date: '1990-07-17T13:37:06'
+  crc: '0xea4897d1'
+- name: CGA\D4\DP044
+  size: 125
+  date: '1990-07-17T13:37:06'
+  crc: '0xa6ee2b19'
+- name: CGA\D4\DP045
+  size: 125
+  date: '1990-07-17T13:37:06'
+  crc: '0x89eaca74'
+- name: CGA\D4\DP046
+  size: 1433
+  date: '1990-07-17T13:37:08'
+  crc: '0x6f9c1746'
+- name: CGA\D4\DP047
+  size: 1491
+  date: '1990-07-17T13:37:08'
+  crc: '0xffcff29b'
+- name: CGA\D4\DP048
+  size: 472
+  date: '1990-07-17T13:37:08'
+  crc: '0x00870000'
+- name: CGA\D4\DP049
+  size: 467
+  date: '1990-07-17T13:37:08'
+  crc: '0xd7f8baf8'
+- name: CGA\D4\DP050
+  size: 185
+  date: '1990-07-17T13:37:08'
+  crc: '0xc5f7396e'
+- name: CGA\D4\DP051
+  size: 184
+  date: '1990-07-17T13:37:08'
+  crc: '0xfbcdd051'
+- name: CGA\D4\DP052
+  size: 326
+  date: '1990-07-17T13:37:08'
+  crc: '0x4f89ad9e'
+- name: CGA\D4\DP053
+  size: 326
+  date: '1990-07-17T13:37:08'
+  crc: '0x0ceeab44'
+- name: CGA\D4\DP054
+  size: 242
+  date: '1990-07-17T13:37:08'
+  crc: '0x223c2b52'
+- name: CGA\D4\DP055
+  size: 239
+  date: '1990-07-17T13:37:08'
+  crc: '0x972e12e4'
+- name: CGA\D4\DP056
+  size: 166
+  date: '1990-07-17T13:37:08'
+  crc: '0xfd9d7197'
+- name: CGA\D4\DP057
+  size: 168
+  date: '1990-07-17T13:37:08'
+  crc: '0x007536a9'
+- name: CGA\D4\DP058
+  size: 2951
+  date: '1990-07-17T13:37:08'
+  crc: '0xdc98c71a'
+- name: CGA\D4\DP059
+  size: 3072
+  date: '1990-07-17T13:37:08'
+  crc: '0x4ec8a45f'
+- name: CGA\D4\DP060
+  size: 3096
+  date: '1990-07-17T13:37:08'
+  crc: '0x8298d043'
+- name: CGA\D4\DP067
+  size: 567
+  date: '1990-07-17T13:37:08'
+  crc: '0xb1d6228b'
+- name: CGA\D4\DP068
+  size: 366
+  date: '1990-07-17T13:37:08'
+  crc: '0x4c88c7b3'
+- name: CGA\D4\DP069
+  size: 389
+  date: '1990-07-17T13:37:08'
+  crc: '0x65158c6a'
+- name: CGA\D5\
+  size: 0
+  date: '1990-07-17T13:10:36'
+- name: CGA\D5\DP001
+  size: 2488
+  date: '1990-07-17T13:38:10'
+  crc: '0xe49df358'
+- name: CGA\D5\DP014
+  size: 3265
+  date: '1990-07-17T13:38:10'
+  crc: '0x58f13b5a'
+- name: CGA\D5\DP015
+  size: 787
+  date: '1990-07-17T13:38:10'
+  crc: '0x89273fe4'
+- name: CGA\D5\DP016
+  size: 341
+  date: '1990-07-17T13:38:10'
+  crc: '0x0cab6554'
+- name: CGA\D5\DP017
+  size: 105
+  date: '1990-07-17T13:38:10'
+  crc: '0x10fd9774'
+- name: CGA\D5\DP018
+  size: 687
+  date: '1990-07-17T13:38:10'
+  crc: '0x40fa476b'
+- name: CGA\D5\DP019
+  size: 688
+  date: '1990-07-17T13:38:10'
+  crc: '0x1cb14c9b'
+- name: CGA\D5\DP020
+  size: 243
+  date: '1990-07-17T13:38:10'
+  crc: '0x97d3dee6'
+- name: CGA\D5\DP021
+  size: 243
+  date: '1990-07-17T13:38:10'
+  crc: '0x9a1a2275'
+- name: CGA\D5\DP022
+  size: 125
+  date: '1990-07-17T13:38:10'
+  crc: '0xad7ca528'
+- name: CGA\D5\DP023
+  size: 125
+  date: '1990-07-17T13:38:10'
+  crc: '0x896040b9'
+- name: CGA\D5\DP024
+  size: 1447
+  date: '1990-07-17T13:38:10'
+  crc: '0x64366d38'
+- name: CGA\D5\DP025
+  size: 1493
+  date: '1990-07-17T13:38:10'
+  crc: '0xc98e1b73'
+- name: CGA\D5\DP026
+  size: 483
+  date: '1990-07-17T13:38:10'
+  crc: '0xc906d2ed'
+- name: CGA\D5\DP027
+  size: 480
+  date: '1990-07-17T13:38:10'
+  crc: '0x9dcff475'
+- name: CGA\D5\DP028
+  size: 185
+  date: '1990-07-17T13:38:10'
+  crc: '0xe4c6b80f'
+- name: CGA\D5\DP029
+  size: 184
+  date: '1990-07-17T13:38:10'
+  crc: '0x26770147'
+- name: CGA\D5\DP030
+  size: 310
+  date: '1990-07-17T13:38:10'
+  crc: '0xdde75401'
+- name: CGA\D5\DP031
+  size: 310
+  date: '1990-07-17T13:38:10'
+  crc: '0x0fab17c7'
+- name: CGA\D5\DP032
+  size: 243
+  date: '1990-07-17T13:38:10'
+  crc: '0x12c05717'
+- name: CGA\D5\DP033
+  size: 240
+  date: '1990-07-17T13:38:10'
+  crc: '0x5a6e8daf'
+- name: CGA\D5\DP034
+  size: 162
+  date: '1990-07-17T13:38:10'
+  crc: '0x72dbca67'
+- name: CGA\D5\DP035
+  size: 160
+  date: '1990-07-17T13:38:12'
+  crc: '0x185fe568'
+- name: CGA\D5\DP036
+  size: 2987
+  date: '1990-07-17T13:38:12'
+  crc: '0xf1560529'
+- name: CGA\D5\DP037
+  size: 753
+  date: '1990-07-17T13:38:12'
+  crc: '0x7cf4ef05'
+- name: CGA\D5\DP038
+  size: 337
+  date: '1990-07-17T13:38:12'
+  crc: '0xc0a4b8ac'
+- name: CGA\D5\DP039
+  size: 178
+  date: '1990-07-17T13:38:12'
+  crc: '0x3e23d956'
+- name: CGA\D5\DP040
+  size: 681
+  date: '1990-07-17T13:38:12'
+  crc: '0x5a35b166'
+- name: CGA\D5\DP041
+  size: 673
+  date: '1990-07-17T13:38:12'
+  crc: '0xbe39cb89'
+- name: CGA\D5\DP042
+  size: 242
+  date: '1990-07-17T13:38:12'
+  crc: '0x205117c7'
+- name: CGA\D5\DP043
+  size: 242
+  date: '1990-07-17T13:38:12'
+  crc: '0xa1bbc16c'
+- name: CGA\D5\DP044
+  size: 124
+  date: '1990-07-17T13:38:12'
+  crc: '0x89a690f6'
+- name: CGA\D5\DP045
+  size: 125
+  date: '1990-07-17T13:38:12'
+  crc: '0x655785e9'
+- name: CGA\D5\DP046
+  size: 1447
+  date: '1990-07-17T13:38:12'
+  crc: '0x2ceec472'
+- name: CGA\D5\DP047
+  size: 1493
+  date: '1990-07-17T13:38:12'
+  crc: '0xf7b0c44d'
+- name: CGA\D5\DP048
+  size: 483
+  date: '1990-07-17T13:38:12'
+  crc: '0xd70f5ecf'
+- name: CGA\D5\DP049
+  size: 480
+  date: '1990-07-17T13:38:12'
+  crc: '0xf83d604e'
+- name: CGA\D5\DP050
+  size: 185
+  date: '1990-07-17T13:38:12'
+  crc: '0xe79624bb'
+- name: CGA\D5\DP051
+  size: 184
+  date: '1990-07-17T13:38:12'
+  crc: '0xa8fcb77c'
+- name: CGA\D5\DP052
+  size: 322
+  date: '1990-07-17T13:38:12'
+  crc: '0x56a73310'
+- name: CGA\D5\DP053
+  size: 322
+  date: '1990-07-17T13:38:12'
+  crc: '0xc211ed53'
+- name: CGA\D5\DP054
+  size: 239
+  date: '1990-07-17T13:38:12'
+  crc: '0xdbae2474'
+- name: CGA\D5\DP055
+  size: 239
+  date: '1990-07-17T13:38:12'
+  crc: '0xaaf2e0d4'
+- name: CGA\D5\DP056
+  size: 163
+  date: '1990-07-17T13:38:14'
+  crc: '0x454f4ad0'
+- name: CGA\D5\DP057
+  size: 163
+  date: '1990-07-17T13:38:14'
+  crc: '0x4c214119'
+- name: CGA\D5\DP058
+  size: 3278
+  date: '1990-07-17T13:38:14'
+  crc: '0x858b817f'
+- name: CGA\D5\DP059
+  size: 3222
+  date: '1990-07-17T13:38:14'
+  crc: '0x801229b8'
+- name: CGA\D5\DP060
+  size: 2987
+  date: '1990-07-17T13:38:14'
+  crc: '0xf1560529'
+- name: CGA\D5\DP067
+  size: 567
+  date: '1990-07-17T13:38:14'
+  crc: '0xb1d6228b'
+- name: CGA\D5\DP068
+  size: 366
+  date: '1990-07-17T13:38:14'
+  crc: '0x4c88c7b3'
+- name: CGA\D5\DP069
+  size: 389
+  date: '1990-07-17T13:38:14'
+  crc: '0x65158c6a'
+- name: CGA\D6\
+  size: 0
+  date: '1990-07-17T13:10:36'
+- name: CGA\D6\DP001
+  size: 2358
+  date: '1990-07-17T13:39:20'
+  crc: '0x3c8684f2'
+- name: CGA\D6\DP014
+  size: 3112
+  date: '1990-07-17T13:39:20'
+  crc: '0x5a7a2d44'
+- name: CGA\D6\DP015
+  size: 802
+  date: '1990-07-17T13:39:20'
+  crc: '0x38c54ed8'
+- name: CGA\D6\DP016
+  size: 343
+  date: '1990-07-17T13:39:22'
+  crc: '0x0ab16092'
+- name: CGA\D6\DP017
+  size: 107
+  date: '1990-07-17T13:39:22'
+  crc: '0x915d3672'
+- name: CGA\D6\DP018
+  size: 682
+  date: '1990-07-17T13:39:22'
+  crc: '0x510c55e3'
+- name: CGA\D6\DP019
+  size: 679
+  date: '1990-07-17T13:39:22'
+  crc: '0x0ea07aa8'
+- name: CGA\D6\DP020
+  size: 243
+  date: '1990-07-17T13:39:22'
+  crc: '0x48b0e245'
+- name: CGA\D6\DP021
+  size: 130
+  date: '1990-07-17T13:39:22'
+  crc: '0x15f14641'
+- name: CGA\D6\DP022
+  size: 124
+  date: '1990-07-17T13:39:22'
+  crc: '0xa6863be5'
+- name: CGA\D6\DP023
+  size: 125
+  date: '1990-07-17T13:39:22'
+  crc: '0x148faf7f'
+- name: CGA\D6\DP024
+  size: 1417
+  date: '1990-07-17T13:39:22'
+  crc: '0x0a96395a'
+- name: CGA\D6\DP025
+  size: 1475
+  date: '1990-07-17T13:39:22'
+  crc: '0xbf98616f'
+- name: CGA\D6\DP026
+  size: 483
+  date: '1990-07-17T13:39:22'
+  crc: '0x9d5813f3'
+- name: CGA\D6\DP027
+  size: 480
+  date: '1990-07-17T13:39:22'
+  crc: '0x1c80571b'
+- name: CGA\D6\DP028
+  size: 180
+  date: '1990-07-17T13:39:22'
+  crc: '0x1ab8996b'
+- name: CGA\D6\DP029
+  size: 180
+  date: '1990-07-17T13:39:22'
+  crc: '0xaa3fec0d'
+- name: CGA\D6\DP030
+  size: 310
+  date: '1990-07-17T13:39:22'
+  crc: '0x4823eee7'
+- name: CGA\D6\DP031
+  size: 310
+  date: '1990-07-17T13:39:22'
+  crc: '0x9198bf2e'
+- name: CGA\D6\DP032
+  size: 243
+  date: '1990-07-17T13:39:22'
+  crc: '0x08085cbf'
+- name: CGA\D6\DP033
+  size: 240
+  date: '1990-07-17T13:39:22'
+  crc: '0x8516d84d'
+- name: CGA\D6\DP034
+  size: 162
+  date: '1990-07-17T13:39:22'
+  crc: '0xb8256498'
+- name: CGA\D6\DP035
+  size: 160
+  date: '1990-07-17T13:39:22'
+  crc: '0xd3a756eb'
+- name: CGA\D6\DP036
+  size: 3000
+  date: '1990-07-17T13:39:22'
+  crc: '0x65febac7'
+- name: CGA\D6\DP037
+  size: 807
+  date: '1990-07-17T13:39:24'
+  crc: '0x60aeb97c'
+- name: CGA\D6\DP038
+  size: 349
+  date: '1990-07-17T13:39:24'
+  crc: '0x441d4a77'
+- name: CGA\D6\DP039
+  size: 109
+  date: '1990-07-17T13:39:24'
+  crc: '0x04530aec'
+- name: CGA\D6\DP040
+  size: 685
+  date: '1990-07-17T13:39:24'
+  crc: '0x1ce86e05'
+- name: CGA\D6\DP041
+  size: 689
+  date: '1990-07-17T13:39:24'
+  crc: '0x9cf743b6'
+- name: CGA\D6\DP042
+  size: 243
+  date: '1990-07-17T13:39:24'
+  crc: '0x8480bf4d'
+- name: CGA\D6\DP043
+  size: 243
+  date: '1990-07-17T13:39:24'
+  crc: '0x43f3b24e'
+- name: CGA\D6\DP044
+  size: 125
+  date: '1990-07-17T13:39:24'
+  crc: '0x9d2752e9'
+- name: CGA\D6\DP045
+  size: 125
+  date: '1990-07-17T13:39:24'
+  crc: '0xdf54031c'
+- name: CGA\D6\DP046
+  size: 1447
+  date: '1990-07-17T13:39:24'
+  crc: '0xd969e9b2'
+- name: CGA\D6\DP047
+  size: 1493
+  date: '1990-07-17T13:39:24'
+  crc: '0x610b408a'
+- name: CGA\D6\DP048
+  size: 483
+  date: '1990-07-17T13:39:24'
+  crc: '0x620a0f06'
+- name: CGA\D6\DP049
+  size: 480
+  date: '1990-07-17T13:39:24'
+  crc: '0xa5aa5b22'
+- name: CGA\D6\DP050
+  size: 180
+  date: '1990-07-17T13:39:24'
+  crc: '0xeadb20e1'
+- name: CGA\D6\DP051
+  size: 180
+  date: '1990-07-17T13:39:24'
+  crc: '0x883e2e59'
+- name: CGA\D6\DP052
+  size: 326
+  date: '1990-07-17T13:39:24'
+  crc: '0xa6cb0eab'
+- name: CGA\D6\DP053
+  size: 326
+  date: '1990-07-17T13:39:24'
+  crc: '0x4ddc09ce'
+- name: CGA\D6\DP054
+  size: 243
+  date: '1990-07-17T13:39:24'
+  crc: '0xac3e2cbd'
+- name: CGA\D6\DP055
+  size: 240
+  date: '1990-07-17T13:39:24'
+  crc: '0x6794367f'
+- name: CGA\D6\DP056
+  size: 166
+  date: '1990-07-17T13:39:24'
+  crc: '0x544f398c'
+- name: CGA\D6\DP057
+  size: 166
+  date: '1990-07-17T13:39:24'
+  crc: '0xf904d46e'
+- name: CGA\D6\DP058
+  size: 3104
+  date: '1990-07-17T13:39:26'
+  crc: '0x62e350e7'
+- name: CGA\D6\DP059
+  size: 3069
+  date: '1990-07-17T13:39:26'
+  crc: '0x993968f9'
+- name: CGA\D6\DP060
+  size: 3055
+  date: '1990-07-17T13:39:26'
+  crc: '0xf3167b48'
+- name: CGA\D6\DP067
+  size: 567
+  date: '1990-07-17T13:39:26'
+  crc: '0xb1d6228b'
+- name: CGA\D6\DP068
+  size: 366
+  date: '1990-07-17T13:39:26'
+  crc: '0x4c88c7b3'
+- name: CGA\D6\DP069
+  size: 389
+  date: '1990-07-17T13:39:26'
+  crc: '0x65158c6a'
+- name: CGA\D7\
+  size: 0
+  date: '1990-07-17T13:10:36'
+- name: CGA\D7\DP001
+  size: 2716
+  date: '1990-07-17T13:40:38'
+  crc: '0x929b3ba8'
+- name: CGA\D7\DP014
+  size: 4097
+  date: '1990-07-17T13:40:38'
+  crc: '0x263cddfd'
+- name: CGA\D7\DP015
+  size: 1205
+  date: '1990-07-17T13:40:38'
+  crc: '0x6aee357b'
+- name: CGA\D7\DP016
+  size: 448
+  date: '1990-07-17T13:40:38'
+  crc: '0x0bef2ff4'
+- name: CGA\D7\DP017
+  size: 177
+  date: '1990-07-17T13:40:38'
+  crc: '0x08ed1cb2'
+- name: CGA\D7\DP018
+  size: 789
+  date: '1990-07-17T13:40:38'
+  crc: '0x0660cec6'
+- name: CGA\D7\DP019
+  size: 815
+  date: '1990-07-17T13:40:38'
+  crc: '0x372f93f5'
+- name: CGA\D7\DP020
+  size: 242
+  date: '1990-07-17T13:40:38'
+  crc: '0x72cca1b7'
+- name: CGA\D7\DP021
+  size: 242
+  date: '1990-07-17T13:40:38'
+  crc: '0x427f9b6c'
+- name: CGA\D7\DP022
+  size: 125
+  date: '1990-07-17T13:40:38'
+  crc: '0x4e1004db'
+- name: CGA\D7\DP023
+  size: 125
+  date: '1990-07-17T13:40:40'
+  crc: '0xf4f60902'
+- name: CGA\D7\DP024
+  size: 1648
+  date: '1990-07-17T13:40:40'
+  crc: '0xdbd5f3c3'
+- name: CGA\D7\DP025
+  size: 1641
+  date: '1990-07-17T13:40:40'
+  crc: '0x1d14a985'
+- name: CGA\D7\DP026
+  size: 480
+  date: '1990-07-17T13:40:40'
+  crc: '0x6a416ed8'
+- name: CGA\D7\DP027
+  size: 483
+  date: '1990-07-17T13:40:40'
+  crc: '0x18e2cce7'
+- name: CGA\D7\DP028
+  size: 115
+  date: '1990-07-17T13:40:40'
+  crc: '0x9499ca70'
+- name: CGA\D7\DP029
+  size: 115
+  date: '1990-07-17T13:40:40'
+  crc: '0x65f05ad4'
+- name: CGA\D7\DP030
+  size: 402
+  date: '1990-07-17T13:40:40'
+  crc: '0x7b0820d3'
+- name: CGA\D7\DP031
+  size: 401
+  date: '1990-07-17T13:40:40'
+  crc: '0xd879c38f'
+- name: CGA\D7\DP032
+  size: 240
+  date: '1990-07-17T13:40:40'
+  crc: '0x32ddd8f4'
+- name: CGA\D7\DP033
+  size: 243
+  date: '1990-07-17T13:40:40'
+  crc: '0x3a217d09'
+- name: CGA\D7\DP034
+  size: 167
+  date: '1990-07-17T13:40:40'
+  crc: '0x3b4a901c'
+- name: CGA\D7\DP035
+  size: 167
+  date: '1990-07-17T13:40:40'
+  crc: '0x561a0b4c'
+- name: CGA\D7\DP036
+  size: 3807
+  date: '1990-07-17T13:40:40'
+  crc: '0xbda188a2'
+- name: CGA\D7\DP037
+  size: 959
+  date: '1990-07-17T13:40:40'
+  crc: '0x69ea5004'
+- name: CGA\D7\DP038
+  size: 371
+  date: '1990-07-17T13:40:40'
+  crc: '0x80162a8a'
+- name: CGA\D7\DP039
+  size: 115
+  date: '1990-07-17T13:40:40'
+  crc: '0xe22a511a'
+- name: CGA\D7\DP040
+  size: 735
+  date: '1990-07-17T13:40:40'
+  crc: '0xa45ab1a9'
+- name: CGA\D7\DP041
+  size: 730
+  date: '1990-07-17T13:40:40'
+  crc: '0x319ee0e6'
+- name: CGA\D7\DP042
+  size: 243
+  date: '1990-07-17T13:40:40'
+  crc: '0xe51e7298'
+- name: CGA\D7\DP043
+  size: 243
+  date: '1990-07-17T13:40:40'
+  crc: '0x82ea3293'
+- name: CGA\D7\DP044
+  size: 125
+  date: '1990-07-17T13:40:42'
+  crc: '0x3f69b026'
+- name: CGA\D7\DP045
+  size: 125
+  date: '1990-07-17T13:40:42'
+  crc: '0x0af9ecf1'
+- name: CGA\D7\DP046
+  size: 1483
+  date: '1990-07-17T13:40:42'
+  crc: '0xf133384b'
+- name: CGA\D7\DP047
+  size: 1499
+  date: '1990-07-17T13:40:42'
+  crc: '0x7c7ce9a3'
+- name: CGA\D7\DP048
+  size: 480
+  date: '1990-07-17T13:40:42'
+  crc: '0xbd306f39'
+- name: CGA\D7\DP049
+  size: 483
+  date: '1990-07-17T13:40:42'
+  crc: '0xd8297036'
+- name: CGA\D7\DP050
+  size: 119
+  date: '1990-07-17T13:40:42'
+  crc: '0x841cbd54'
+- name: CGA\D7\DP051
+  size: 119
+  date: '1990-07-17T13:40:42'
+  crc: '0x73878ce2'
+- name: CGA\D7\DP052
+  size: 433
+  date: '1990-07-17T13:40:42'
+  crc: '0x3dc89b73'
+- name: CGA\D7\DP053
+  size: 435
+  date: '1990-07-17T13:40:42'
+  crc: '0x8716790c'
+- name: CGA\D7\DP054
+  size: 240
+  date: '1990-07-17T13:40:42'
+  crc: '0xf57d1e2e'
+- name: CGA\D7\DP055
+  size: 243
+  date: '1990-07-17T13:40:42'
+  crc: '0x688e81ba'
+- name: CGA\D7\DP056
+  size: 179
+  date: '1990-07-17T13:40:42'
+  crc: '0xeaf5b3a8'
+- name: CGA\D7\DP057
+  size: 179
+  date: '1990-07-17T13:40:42'
+  crc: '0xb9919d11'
+- name: CGA\D7\DP058
+  size: 3430
+  date: '1990-07-17T13:40:42'
+  crc: '0xbd45cc4d'
+- name: CGA\D7\DP059
+  size: 3404
+  date: '1990-07-17T13:40:42'
+  crc: '0x06fc20fb'
+- name: CGA\D7\DP060
+  size: 3807
+  date: '1990-07-17T13:40:42'
+  crc: '0xead5ad18'
+- name: CGA\D7\DP067
+  size: 567
+  date: '1990-07-17T13:40:42'
+  crc: '0xb1d6228b'
+- name: CGA\D7\DP068
+  size: 366
+  date: '1990-07-17T13:40:42'
+  crc: '0x4c88c7b3'
+- name: CGA\D7\DP069
+  size: 389
+  date: '1990-07-17T13:40:42'
+  crc: '0x65158c6a'
+- name: CGA\IN\
+  size: 0
+  date: '1990-07-17T13:10:36'
+- name: CGA\IN\CRED
+  size: 4313
+  date: '1990-07-17T13:41:26'
+  crc: '0x122390cf'
+- name: CGA\IN\DRAG
+  size: 11938
+  date: '1990-07-17T13:41:26'
+  crc: '0xebb07a0c'
+- name: CGA\IN\TITL
+  size: 3742
+  date: '1990-07-17T13:41:26'
+  crc: '0xcac6af9e'
+- name: CGA\PAGE\
+  size: 0
+  date: '1990-07-17T13:10:36'
+- name: CGA\PAGE\BOOK
+  size: 2559
+  date: '1990-07-17T13:42:34'
+  crc: '0xe60a9cdc'
+- name: CGA\PAGE\PG00
+  size: 3231
+  date: '1990-07-17T13:42:34'
+  crc: '0x66b74cda'
+- name: CGA\PAGE\PG01
+  size: 3068
+  date: '1990-07-17T13:42:34'
+  crc: '0xe76edb42'
+- name: CGA\PAGE\PG02
+  size: 3741
+  date: '1990-07-17T13:42:34'
+  crc: '0xcf944222'
+- name: CGA\PAGE\PG03
+  size: 2674
+  date: '1990-07-17T13:42:34'
+  crc: '0xb68d6f38'
+- name: CGA\PAGE\PG04
+  size: 3557
+  date: '1990-07-17T13:42:34'
+  crc: '0x9e0bd58d'
+- name: CGA\PAGE\PG05
+  size: 2558
+  date: '1990-07-17T13:42:34'
+  crc: '0x796c39f6'
+- name: CGA\PAGE\PG06
+  size: 3270
+  date: '1990-07-17T13:42:34'
+  crc: '0x9896facb'
+- name: CGA\PAGE\PG07
+  size: 2204
+  date: '1990-07-17T13:42:34'
+  crc: '0xe1781beb'
+- name: CGA\PAGE\PG08
+  size: 3513
+  date: '1990-07-17T13:42:34'
+  crc: '0x71155cad'
+- name: CGA\PAGE\PG09
+  size: 2151
+  date: '1990-07-17T13:42:34'
+  crc: '0x5ffab920'
+- name: CGA\TWN\
+  size: 0
+  date: '1990-07-17T13:10:36'
+- name: CGA\TWN\TWN00
+  size: 3172
+  date: '1990-07-17T13:43:24'
+  crc: '0xa6c24f2b'
+- name: CGA\TWN\TWN01
+  size: 3513
+  date: '1990-07-17T13:43:24'
+  crc: '0xd44ae176'
+- name: CGA\TWN\TWN02
+  size: 3158
+  date: '1990-07-17T13:43:24'
+  crc: '0x6886888a'
+- name: CGA\TWN\TWN03
+  size: 3464
+  date: '1990-07-17T13:43:24'
+  crc: '0x0c8707ba'
+- name: CGA\TWN\TWN04
+  size: 2883
+  date: '1990-07-17T13:43:24'
+  crc: '0xee5c4dfe'
+- name: CGA\TWN\TWN05
+  size: 2631
+  date: '1990-07-17T13:43:24'
+  crc: '0xdd6c9ec1'
+- name: CGA\UP\
+  size: 0
+  date: '1990-07-17T13:10:36'
+- name: CGA\UP\ARR1
+  size: 136
+  date: '1990-07-17T13:44:02'
+  crc: '0x86c36809'
+- name: CGA\UP\ARR2
+  size: 136
+  date: '1990-07-17T13:44:02'
+  crc: '0x13acfb82'
+- name: CGA\UP\ARR3
+  size: 136
+  date: '1990-07-17T13:44:02'
+  crc: '0x776d495e'
+- name: CGA\UP\ARR4
+  size: 134
+  date: '1990-07-17T13:44:02'
+  crc: '0xe0a2d848'
+- name: CGA\UP\ARR5
+  size: 134
+  date: '1990-07-17T13:44:02'
+  crc: '0xc63f4613'
+- name: CGA\UP\ARR6
+  size: 134
+  date: '1990-07-17T13:44:02'
+  crc: '0xdbb433da'
+- name: CGA\UP\BLK5
+  size: 275
+  date: '1990-07-17T13:44:02'
+  crc: '0xc8aacfc1'
+- name: CGA\UP\BOX1
+  size: 211
+  date: '1990-07-17T13:44:02'
+  crc: '0x2448af22'
+- name: CGA\UP\BOX2
+  size: 237
+  date: '1990-07-17T13:44:02'
+  crc: '0xd28c6108'
+- name: CGA\UP\BOX3
+  size: 216
+  date: '1990-07-17T13:44:02'
+  crc: '0x3d571871'
+- name: CGA\UP\BOX4
+  size: 207
+  date: '1990-07-17T13:44:02'
+  crc: '0xc82d43d3'
+- name: CGA\UP\BOX5
+  size: 205
+  date: '1990-07-17T13:44:02'
+  crc: '0x547c980b'
+- name: CGA\UP\CHR1
+  size: 2373
+  date: '1990-07-17T13:44:02'
+  crc: '0x651ff155'
+- name: CGA\UP\CHR2
+  size: 1625
+  date: '1990-07-17T13:44:02'
+  crc: '0xeacdbbc6'
+- name: CGA\UP\CRS0
+  size: 43
+  date: '1990-07-17T13:44:02'
+  crc: '0xcca78b31'
+- name: CGA\UP\CRS1
+  size: 43
+  date: '1990-07-17T13:44:04'
+  crc: '0xb7ffe6d6'
+- name: CGA\UP\LIN1
+  size: 353
+  date: '1990-07-17T13:44:04'
+  crc: '0xbaf7b5b4'
+- name: CGA\UP\LIN2
+  size: 353
+  date: '1990-07-17T13:44:04'
+  crc: '0xd45dcc8b'
+- name: CGA\UP\MENU
+  size: 4014
+  date: '1990-07-17T13:44:04'
+  crc: '0xdc2fdf37'
+- name: CGA\UP\MIN1
+  size: 47
+  date: '1990-07-17T13:44:04'
+  crc: '0xca157102'
+- name: CGA\UP\MIN2
+  size: 47
+  date: '1990-07-17T13:44:04'
+  crc: '0x53207a3b'
+- name: CGA\UP\MIN3
+  size: 47
+  date: '1990-07-17T13:44:04'
+  crc: '0xbb690c43'
+- name: CGA\UP\MIN4
+  size: 47
+  date: '1990-07-17T13:44:04'
+  crc: '0x3b0ebf0d'
+- name: CGA\UP\MSCR
+  size: 4345
+  date: '1990-07-17T13:44:04'
+  crc: '0xeafbb2f5'
+- name: CGA\UP\RAHM0
+  size: 59
+  date: '1990-07-17T13:44:04'
+  crc: '0x90f836b0'
+- name: CGA\UP\UP00
+  size: 284
+  date: '1990-07-17T13:44:04'
+  crc: '0x2d9cfd18'
+- name: CGA\UP\UP01
+  size: 284
+  date: '1990-07-17T13:44:04'
+  crc: '0xf5b0c5e9'
+- name: CGA\UP\UP02
+  size: 30
+  date: '1990-07-17T13:44:04'
+  crc: '0xe270850c'
+- name: CGA\UP\UP03
+  size: 30
+  date: '1990-07-17T13:44:04'
+  crc: '0x10b692ce'
+- name: CGA\UP\UP04
+  size: 30
+  date: '1990-07-17T13:44:04'
+  crc: '0xee3f3e19'
+- name: CGA\UP\UP05
+  size: 30
+  date: '1990-07-17T13:44:04'
+  crc: '0x4d0fffae'
+- name: CGA\UP\UP06
+  size: 30
+  date: '1990-07-17T13:44:04'
+  crc: '0x3db8a0fe'
+- name: CGA\UP\UP07
+  size: 30
+  date: '1990-07-17T13:44:04'
+  crc: '0x3c4313fe'
+- name: CGA\UP\UP08
+  size: 28
+  date: '1990-07-17T13:44:04'
+  crc: '0x013c1f0d'
+- name: CGA\UP\UP09
+  size: 30
+  date: '1990-07-17T13:44:04'
+  crc: '0x01d8d67e'
+- name: CGA\UP\UP0A
+  size: 30
+  date: '1990-07-17T13:44:04'
+  crc: '0x5f73f693'
+- name: CGA\UP\UP0D
+  size: 139
+  date: '1990-07-17T13:44:06'
+  crc: '0x50b6835a'
+- name: CGA\UP\UP0E
+  size: 122
+  date: '1990-07-17T13:44:06'
+  crc: '0x940560de'
+- name: CGA\UP\UP0F
+  size: 134
+  date: '1990-07-17T13:44:06'
+  crc: '0x219b1327'
+- name: CGA\UP\UP10
+  size: 110
+  date: '1990-07-17T13:44:06'
+  crc: '0x59dddb9a'
+- name: CGA\UP\UP11
+  size: 112
+  date: '1990-07-17T13:44:06'
+  crc: '0x819c9b31'
+- name: CGA\UP\UP12
+  size: 110
+  date: '1990-07-17T13:44:06'
+  crc: '0xb980f47b'
+- name: CGA\UP\UP13
+  size: 108
+  date: '1990-07-17T13:44:06'
+  crc: '0xe3692ba1'
+- name: CGA\UP\UP14
+  size: 311
+  date: '1990-07-17T13:44:06'
+  crc: '0xb22e4680'
+- name: CGA\UP\UP20
+  size: 880
+  date: '1990-07-17T13:44:06'
+  crc: '0xce31bbaa'
+- name: CGA\UP\UP21
+  size: 287
+  date: '1990-07-17T13:44:06'
+  crc: '0x9fd8fb78'
+- name: CGA\UP\UP22
+  size: 154
+  date: '1990-07-17T13:44:06'
+  crc: '0x43dbd9d9'
+- name: CGA\UP\UP23
+  size: 408
+  date: '1990-07-17T13:44:06'
+  crc: '0x9886a77b'
+- name: CGA\UP\UP24
+  size: 103
+  date: '1990-07-17T13:44:06'
+  crc: '0x9642f4f5'
+- name: CGA\UP\UP25
+  size: 38
+  date: '1990-07-17T13:44:06'
+  crc: '0x263d35b8'
 - name: DISK0.ID
   size: 0
-  date: '1992-03-26T16:52:22'
+  date: '1990-07-17T13:26:38'
 - name: DNGS\
   size: 0
-  date: '2014-11-22T15:59:42'
+  date: '1990-07-17T13:00:10'
 - name: DNGS\DNG00
   size: 1514
-  date: '1992-03-26T16:43:14'
+  date: '1990-07-17T13:26:06'
   crc: '0xe2832151'
 - name: DNGS\DNG01
-  size: 959
-  date: '1992-03-26T16:48:02'
-  crc: '0x82d515a0'
+  size: 963
+  date: '1990-07-17T13:26:10'
+  crc: '0x83548c62'
 - name: DNGS\DNG02
   size: 1157
-  date: '1992-03-26T16:48:04'
+  date: '1990-07-17T13:26:12'
   crc: '0x9fa048e1'
 - name: DNGS\DNG03
-  size: 1340
-  date: '1992-03-26T16:48:06'
-  crc: '0x1d2bd28f'
+  size: 1336
+  date: '1990-07-17T13:26:20'
+  crc: '0x1da427f3'
 - name: DNGS\DNG04
-  size: 1214
-  date: '1992-03-26T16:43:16'
-  crc: '0xe4b47ac8'
+  size: 1216
+  date: '1990-07-17T13:26:24'
+  crc: '0xb736f021'
 - name: DNGS\DNG05
   size: 1464
-  date: '1992-03-26T16:43:18'
+  date: '1990-07-17T13:26:28'
   crc: '0xfccf8443'
 - name: DNGS\DNG06
   size: 1111
-  date: '1992-03-26T16:43:20'
-  crc: '0xe1b53b2b'
+  date: '1990-07-17T13:26:34'
+  crc: '0x821c08e0'
 - name: DNGS\DNG07
   size: 1484
-  date: '1992-03-26T16:43:24'
+  date: '1990-07-17T13:26:38'
   crc: '0x5d5fb4ed'
 - name: DNGS\DNG10
   size: 1649
-  date: '1992-03-26T16:43:14'
+  date: '1990-07-17T13:26:06'
   crc: '0xe68e69f1'
 - name: DNGS\DNG11
-  size: 1276
-  date: '1992-03-26T16:48:02'
-  crc: '0xfe291a70'
+  size: 1292
+  date: '1990-07-17T13:26:10'
+  crc: '0x91374745'
 - name: DNGS\DNG12
   size: 1107
-  date: '1992-03-26T16:48:04'
+  date: '1990-07-17T13:26:12'
   crc: '0xafdcb95d'
 - name: DNGS\DNG13
   size: 1406
-  date: '1992-03-26T16:48:06'
+  date: '1990-07-17T13:26:20'
   crc: '0xe4a9ae63'
 - name: DNGS\DNG14
   size: 1204
-  date: '1992-03-26T16:43:16'
+  date: '1990-07-17T13:26:26'
   crc: '0x94a1e8a7'
 - name: DNGS\DNG15
   size: 1221
-  date: '1992-03-26T16:43:18'
+  date: '1990-07-17T13:26:28'
   crc: '0x6901aba1'
 - name: DNGS\DNG16
   size: 1276
-  date: '1992-03-26T16:43:20'
+  date: '1990-07-17T13:26:34'
   crc: '0x1ea2659a'
 - name: DNGS\DNG17
   size: 2016
-  date: '1992-03-26T16:43:24'
+  date: '1990-07-17T13:26:38'
   crc: '0x34e18c7b'
+- name: DNGS\DNG21
+  size: 1243
+  date: '1990-07-17T13:26:10'
+  crc: '0x84754a03'
 - name: DNGS\DNG23
   size: 1382
-  date: '1992-03-26T16:48:06'
+  date: '1990-07-17T13:26:20'
   crc: '0x0c171e0c'
 - name: DNGS\DNG24
   size: 1039
-  date: '1992-03-26T16:43:16'
+  date: '1990-07-17T13:26:26'
   crc: '0x61d69705'
 - name: DNGS\DNG26
   size: 272
-  date: '1992-03-26T16:43:20'
+  date: '1990-07-17T13:26:34'
   crc: '0xcda905e4'
 - name: DNGS\DNG27
   size: 1035
-  date: '1992-03-26T16:43:24'
+  date: '1990-07-17T13:26:38'
   crc: '0xcdb1fb43'
 - name: DNGS\DNG33
   size: 1072
-  date: '1992-03-26T16:48:06'
-  crc: '0xe0f2085c'
+  date: '1990-07-17T13:26:20'
+  crc: '0xf9dfdb96'
 - name: DNGS\DNG34
   size: 803
-  date: '1992-03-26T16:43:16'
+  date: '1990-07-17T13:26:26'
   crc: '0x7a0a8283'
 - name: DNGS\DNG36
   size: 340
-  date: '1992-03-26T16:43:20'
+  date: '1990-07-17T13:26:34'
   crc: '0x187b0d1a'
 - name: DNGS\DNG43
   size: 1302
-  date: '1992-03-26T16:48:06'
+  date: '1990-07-17T13:26:20'
   crc: '0x42619e04'
 - name: DNGS\DNG46
   size: 362
-  date: '1992-03-26T16:43:20'
+  date: '1990-07-17T13:26:34'
   crc: '0x25ea1ffa'
 - name: DNGS\DNG53
   size: 1432
-  date: '1992-03-26T16:48:06'
+  date: '1990-07-17T13:26:20'
   crc: '0xd983a2c8'
 - name: DNGS\DNG56
   size: 1620
-  date: '1992-03-26T16:43:20'
+  date: '1990-07-17T13:26:34'
   crc: '0xfb529963'
 - name: DNGS\DNG63
   size: 1458
-  date: '1992-03-26T16:48:06'
+  date: '1990-07-17T13:26:20'
   crc: '0x672bbf61'
 - name: DNGS\DNG66
   size: 1306
-  date: '1992-03-26T16:43:20'
+  date: '1990-07-17T13:26:34'
   crc: '0x8844bc3c'
 - name: DSKTAB.DFS
   size: 140
-  date: '1992-03-26T16:52:22'
+  date: '1990-07-17T13:26:38'
   crc: '0xce771b9e'
 - name: EGA\
   size: 0
-  date: '2014-11-22T16:00:02'
+  date: '1990-07-17T13:00:12'
 - name: EGA\ANIM\
   size: 0
-  date: '2014-11-22T15:59:44'
+  date: '1990-07-17T13:00:12'
 - name: EGA\ANIM\AN00
   size: 1171
-  date: '1992-03-26T16:42:00'
+  date: '1990-07-17T13:03:54'
   crc: '0x5ba890a6'
 - name: EGA\ANIM\AN01
   size: 1088
-  date: '1992-03-26T16:42:00'
+  date: '1990-07-17T13:03:54'
   crc: '0xbdbdc82e'
 - name: EGA\ANIM\AN02
   size: 1098
-  date: '1992-03-26T16:42:00'
+  date: '1990-07-17T13:03:54'
   crc: '0xa492608c'
 - name: EGA\ANIM\AN03
   size: 1214
-  date: '1992-03-26T16:42:02'
+  date: '1990-07-17T13:03:54'
   crc: '0x9be6854a'
 - name: EGA\ANIM\AN10
   size: 1049
-  date: '1992-03-26T16:42:02'
+  date: '1990-07-17T13:03:54'
   crc: '0xca6cc366'
 - name: EGA\ANIM\AN11
   size: 1196
-  date: '1992-03-26T16:42:02'
+  date: '1990-07-17T13:03:54'
   crc: '0xfbe96ff3'
 - name: EGA\ANIM\AN12
   size: 1280
-  date: '1992-03-26T16:42:02'
+  date: '1990-07-17T13:03:54'
   crc: '0x21a7a871'
 - name: EGA\ANIM\AN13
   size: 1280
-  date: '1992-03-26T16:42:02'
+  date: '1990-07-17T13:03:54'
   crc: '0xfd347c0f'
 - name: EGA\ANIM\AN20
   size: 1026
-  date: '1992-03-26T16:42:02'
+  date: '1990-07-17T13:03:54'
   crc: '0x94125e26'
 - name: EGA\ANIM\AN21
   size: 1005
-  date: '1992-03-26T16:42:02'
+  date: '1990-07-17T13:03:54'
   crc: '0x3658dd7a'
 - name: EGA\ANIM\AN22
   size: 1074
-  date: '1992-03-26T16:42:02'
+  date: '1990-07-17T13:03:54'
   crc: '0x2db8e84b'
 - name: EGA\ANIM\AN23
   size: 1060
-  date: '1992-03-26T16:42:02'
+  date: '1990-07-17T13:03:54'
   crc: '0x76a9e2f3'
 - name: EGA\ANIM\AN30
   size: 1100
-  date: '1992-03-26T16:42:02'
+  date: '1990-07-17T13:03:54'
   crc: '0x03f74f76'
 - name: EGA\ANIM\AN31
   size: 1078
-  date: '1992-03-26T16:42:02'
+  date: '1990-07-17T13:03:54'
   crc: '0x1927a000'
 - name: EGA\ANIM\AN32
   size: 1076
-  date: '1992-03-26T16:42:02'
+  date: '1990-07-17T13:03:54'
   crc: '0x704bc60a'
 - name: EGA\ANIM\AN33
   size: 1102
-  date: '1992-03-26T16:42:02'
+  date: '1990-07-17T13:03:54'
   crc: '0x23c1e748'
 - name: EGA\ANIM\AN40
   size: 1314
-  date: '1992-03-26T16:42:02'
+  date: '1990-07-17T13:03:54'
   crc: '0xe49d7d6d'
 - name: EGA\ANIM\AN41
   size: 1327
-  date: '1992-03-26T16:42:02'
+  date: '1990-07-17T13:03:54'
   crc: '0x50018b1e'
 - name: EGA\ANIM\AN42
   size: 1375
-  date: '1992-03-26T16:42:04'
+  date: '1990-07-17T13:03:54'
   crc: '0x57d4b17e'
 - name: EGA\ANIM\AN43
   size: 1356
-  date: '1992-03-26T16:42:04'
+  date: '1990-07-17T13:03:54'
   crc: '0x61714384'
 - name: EGA\ANIM\AN50
   size: 1126
-  date: '1992-03-26T16:42:04'
+  date: '1990-07-17T13:03:54'
   crc: '0x39c02fd1'
 - name: EGA\ANIM\AN51
   size: 1132
-  date: '1992-03-26T16:42:04'
+  date: '1990-07-17T13:03:54'
   crc: '0x22824956'
 - name: EGA\ANIM\AN52
   size: 1146
-  date: '1992-03-26T16:42:04'
+  date: '1990-07-17T13:03:54'
   crc: '0x036af6d1'
 - name: EGA\ANIM\AN53
   size: 1129
-  date: '1992-03-26T16:42:04'
+  date: '1990-07-17T13:03:54'
   crc: '0x325b6a6f'
 - name: EGA\CHAR0\
   size: 0
-  date: '2014-11-22T15:59:46'
+  date: '1990-07-17T13:00:12'
 - name: EGA\CHAR0\CH22
   size: 4777
-  date: '1992-03-26T16:44:22'
+  date: '1990-07-17T13:06:12'
   crc: '0xf760ea5b'
 - name: EGA\CHAR0\CH23
   size: 2591
-  date: '1992-03-26T16:44:24'
+  date: '1990-07-17T13:06:12'
   crc: '0x42a2ccc1'
 - name: EGA\CHAR0\CH24
   size: 5042
-  date: '1992-03-26T16:44:24'
+  date: '1990-07-17T13:06:12'
   crc: '0x1059e83b'
 - name: EGA\CHAR0\CH25
   size: 3198
-  date: '1992-03-26T16:44:24'
+  date: '1990-07-17T13:06:12'
   crc: '0x52119d18'
 - name: EGA\CHAR0\CH26
   size: 4910
-  date: '1992-03-26T16:44:24'
+  date: '1990-07-17T13:06:12'
   crc: '0x36f558a3'
 - name: EGA\CHAR0\CH27
   size: 5011
-  date: '1992-03-26T16:44:24'
+  date: '1990-07-17T13:06:12'
   crc: '0x5607321b'
 - name: EGA\CHAR0\CH28
   size: 3841
-  date: '1992-03-26T16:44:24'
+  date: '1990-07-17T13:06:12'
   crc: '0xf950ab1e'
 - name: EGA\CHAR0\CH29
   size: 4001
-  date: '1992-03-26T16:44:24'
+  date: '1990-07-17T13:06:12'
   crc: '0x857c6bdb'
 - name: EGA\CHAR0\CH30
   size: 3750
-  date: '1992-03-26T16:44:24'
+  date: '1990-07-17T13:06:12'
   crc: '0x1d90461d'
 - name: EGA\CHAR0\CH31
   size: 4490
-  date: '1992-03-26T16:44:24'
+  date: '1990-07-17T13:06:12'
   crc: '0x86f21ca4'
 - name: EGA\CHAR0\CH32
   size: 4741
-  date: '1992-03-26T16:44:24'
+  date: '1990-07-17T13:06:12'
   crc: '0x8f7b66a7'
 - name: EGA\CHAR0\CH33
   size: 3743
-  date: '1992-03-26T16:44:24'
+  date: '1990-07-17T13:06:12'
   crc: '0x8f6b0418'
 - name: EGA\CHAR0\CH34
   size: 4678
-  date: '1992-03-26T16:44:24'
+  date: '1990-07-17T13:06:12'
   crc: '0xc62c5cd2'
 - name: EGA\CHAR0\CH35
   size: 3756
-  date: '1992-03-26T16:44:24'
+  date: '1990-07-17T13:06:12'
   crc: '0xa9ebf7fe'
 - name: EGA\CHAR0\CH36
   size: 4376
-  date: '1992-03-26T16:44:26'
+  date: '1990-07-17T13:06:12'
   crc: '0xd544d73d'
 - name: EGA\CHAR0\CH37
   size: 5774
-  date: '1992-03-26T16:44:26'
+  date: '1990-07-17T13:06:12'
   crc: '0xc4f5ed9b'
 - name: EGA\CHAR0\CH38
   size: 3027
-  date: '1992-03-26T16:44:26'
+  date: '1990-07-17T13:06:12'
   crc: '0xfb7cc958'
 - name: EGA\CHAR0\CH39
   size: 3260
-  date: '1992-03-26T16:44:26'
+  date: '1990-07-17T13:06:12'
   crc: '0xb3346fcc'
 - name: EGA\CHAR0\CH40
   size: 5314
-  date: '1992-03-26T16:44:26'
+  date: '1990-07-17T13:06:12'
   crc: '0x7342b95a'
 - name: EGA\CHAR0\CH41
   size: 5626
-  date: '1992-03-26T16:44:26'
+  date: '1990-07-17T13:06:14'
   crc: '0x070ac0e4'
 - name: EGA\CHAR0\CH42
   size: 4449
-  date: '1992-03-26T16:44:26'
+  date: '1990-07-17T13:06:14'
   crc: '0xf3bffb23'
 - name: EGA\CHAR0\CH43
   size: 5640
-  date: '1992-03-26T16:44:26'
+  date: '1990-07-17T13:06:14'
   crc: '0x10e11f04'
 - name: EGA\CHAR0\CH44
   size: 4786
-  date: '1992-03-26T16:44:26'
+  date: '1990-07-17T13:06:14'
   crc: '0x9283fc3b'
 - name: EGA\CHAR0\CH45
   size: 4693
-  date: '1992-03-26T16:44:26'
+  date: '1990-07-17T13:06:14'
   crc: '0x3b68bc94'
 - name: EGA\CHAR0\CH46
   size: 1742
-  date: '1992-03-26T16:44:26'
+  date: '1990-07-17T13:06:14'
   crc: '0xc46e3941'
 - name: EGA\CHAR0\CH47
   size: 2019
-  date: '1992-03-26T16:44:26'
+  date: '1990-07-17T13:06:14'
   crc: '0xb42a4811'
 - name: EGA\CHAR0\CH48
   size: 4874
-  date: '1992-03-26T16:44:26'
+  date: '1990-07-17T13:06:14'
   crc: '0x050f088f'
 - name: EGA\CHAR0\CH49
   size: 6148
-  date: '1992-03-26T16:44:28'
+  date: '1990-07-17T13:06:14'
   crc: '0x6aa4c20f'
 - name: EGA\CHAR0\CH50
   size: 6118
-  date: '1992-03-26T16:44:28'
+  date: '1990-07-17T13:06:14'
   crc: '0x6121920e'
 - name: EGA\CHAR0\CH51
   size: 6754
-  date: '1992-03-26T16:44:28'
+  date: '1990-07-17T13:06:14'
   crc: '0x135a8205'
 - name: EGA\CHAR0\CH52
   size: 6456
-  date: '1992-03-26T16:44:28'
+  date: '1990-07-17T13:06:14'
   crc: '0xf458e99a'
 - name: EGA\CHAR0\CH53
   size: 5377
-  date: '1992-03-26T16:44:28'
+  date: '1990-07-17T13:06:14'
   crc: '0x4c4f8e97'
 - name: EGA\CHAR0\CH54
   size: 6485
-  date: '1992-03-26T16:44:28'
+  date: '1990-07-17T13:06:14'
   crc: '0x972202c7'
 - name: EGA\CHAR1\
   size: 0
-  date: '2014-11-22T15:59:48'
+  date: '1990-07-17T13:00:12'
 - name: EGA\CHAR1\CH22
   size: 4045
-  date: '1992-03-26T16:47:12'
+  date: '1990-07-17T13:09:20'
   crc: '0x81f62f41'
 - name: EGA\CHAR1\CH23
   size: 5042
-  date: '1992-03-26T16:47:12'
+  date: '1990-07-17T13:09:20'
   crc: '0x1059e83b'
 - name: EGA\CHAR1\CH24
   size: 3825
-  date: '1992-03-26T16:47:12'
+  date: '1990-07-17T13:09:20'
   crc: '0xe5b767e2'
 - name: EGA\CHAR1\CH25
   size: 3952
-  date: '1992-03-26T16:47:12'
+  date: '1990-07-17T13:09:22'
   crc: '0x44ca57a2'
 - name: EGA\CHAR1\CH26
   size: 4039
-  date: '1992-03-26T16:47:12'
+  date: '1990-07-17T13:09:22'
   crc: '0x5b083919'
 - name: EGA\CHAR1\CH27
   size: 3718
-  date: '1992-03-26T16:47:12'
+  date: '1990-07-17T13:09:22'
   crc: '0x88ef46c6'
 - name: EGA\CHAR1\CH28
   size: 4910
-  date: '1992-03-26T16:47:14'
+  date: '1990-07-17T13:09:22'
   crc: '0x36f558a3'
 - name: EGA\CHAR1\CH29
   size: 5823
-  date: '1992-03-26T16:47:14'
+  date: '1990-07-17T13:09:22'
   crc: '0xe547d537'
 - name: EGA\CHAR1\CH30
   size: 3958
-  date: '1992-03-26T16:47:14'
+  date: '1990-07-17T13:09:22'
   crc: '0x876a0f6d'
 - name: EGA\CHAR1\CH31
   size: 3951
-  date: '1992-03-26T16:47:14'
+  date: '1990-07-17T13:09:22'
   crc: '0xd34d5f14'
 - name: EGA\CHAR1\CH32
   size: 5448
-  date: '1992-03-26T16:47:14'
+  date: '1990-07-17T13:09:22'
   crc: '0x5ef098ac'
 - name: EGA\CHAR1\CH33
   size: 3841
-  date: '1992-03-26T16:47:14'
+  date: '1990-07-17T13:09:22'
   crc: '0xf950ab1e'
 - name: EGA\CHAR1\CH34
   size: 4413
-  date: '1992-03-26T16:47:14'
+  date: '1990-07-17T13:09:22'
   crc: '0x035ff649'
 - name: EGA\CHAR1\CH35
   size: 5648
-  date: '1992-03-26T16:47:14'
+  date: '1990-07-17T13:09:22'
   crc: '0xe83b50f1'
 - name: EGA\CHAR1\CH36
   size: 4490
-  date: '1992-03-26T16:47:14'
+  date: '1990-07-17T13:09:22'
   crc: '0x86f21ca4'
 - name: EGA\CHAR1\CH37
   size: 4741
-  date: '1992-03-26T16:47:14'
+  date: '1990-07-17T13:09:22'
   crc: '0x8f7b66a7'
 - name: EGA\CHAR1\CH38
   size: 3901
-  date: '1992-03-26T16:47:14'
+  date: '1990-07-17T13:09:22'
   crc: '0xc2ef9bc6'
 - name: EGA\CHAR1\CH39
   size: 5764
-  date: '1992-03-26T16:47:14'
+  date: '1990-07-17T13:09:22'
   crc: '0x5a96e2dd'
 - name: EGA\CHAR1\CH40
   size: 3743
-  date: '1992-03-26T16:47:14'
+  date: '1990-07-17T13:09:22'
   crc: '0x8f6b0418'
 - name: EGA\CHAR1\CH41
   size: 4678
-  date: '1992-03-26T16:47:16'
+  date: '1990-07-17T13:09:22'
   crc: '0xc62c5cd2'
 - name: EGA\CHAR1\CH42
   size: 3756
-  date: '1992-03-26T16:47:16'
+  date: '1990-07-17T13:09:22'
   crc: '0xa9ebf7fe'
 - name: EGA\CHAR1\CH43
   size: 5295
-  date: '1992-03-26T16:47:16'
+  date: '1990-07-17T13:09:22'
   crc: '0x008cd8ce'
 - name: EGA\CHAR1\CH44
   size: 3804
-  date: '1992-03-26T16:47:16'
+  date: '1990-07-17T13:09:22'
   crc: '0x5dc1f5e2'
 - name: EGA\CHAR1\CH45
   size: 4471
-  date: '1992-03-26T16:47:16'
+  date: '1990-07-17T13:09:22'
   crc: '0x6c56148a'
 - name: EGA\CHAR1\CH46
   size: 4376
-  date: '1992-03-26T16:47:16'
+  date: '1990-07-17T13:09:22'
   crc: '0xd544d73d'
 - name: EGA\CHAR1\CH47
   size: 5676
-  date: '1992-03-26T16:47:16'
+  date: '1990-07-17T13:09:22'
   crc: '0x4f1f7b03'
 - name: EGA\CHAR1\CH48
   size: 4915
-  date: '1992-03-26T16:47:16'
+  date: '1990-07-17T13:09:22'
   crc: '0x67c87113'
 - name: EGA\CHAR1\CH49
   size: 5774
-  date: '1992-03-26T16:47:16'
+  date: '1990-07-17T13:09:22'
   crc: '0xc4f5ed9b'
 - name: EGA\CHAR1\CH50
   size: 3027
-  date: '1992-03-26T16:47:16'
+  date: '1990-07-17T13:09:22'
   crc: '0xfb7cc958'
 - name: EGA\CHAR1\CH51
   size: 3878
-  date: '1992-03-26T16:47:16'
+  date: '1990-07-17T13:09:24'
   crc: '0x20c9f693'
 - name: EGA\CHAR1\CH52
   size: 4551
-  date: '1992-03-26T16:47:16'
+  date: '1990-07-17T13:09:24'
   crc: '0x141e02a5'
 - name: EGA\CHAR1\CH53
   size: 4644
-  date: '1992-03-26T16:47:16'
+  date: '1990-07-17T13:09:24'
   crc: '0x22f98742'
 - name: EGA\CHAR1\CH54
   size: 5626
-  date: '1992-03-26T16:47:18'
+  date: '1990-07-17T13:09:24'
   crc: '0x070ac0e4'
 - name: EGA\CHAR1\CH55
   size: 5011
-  date: '1992-03-26T16:47:18'
+  date: '1990-07-17T13:09:24'
   crc: '0x5607321b'
 - name: EGA\CHAR1\CH56
   size: 4211
-  date: '1992-03-26T16:47:18'
+  date: '1990-07-17T13:09:24'
   crc: '0xaedda5f7'
 - name: EGA\CHAR1\CH57
   size: 6518
-  date: '1992-03-26T16:47:18'
+  date: '1990-07-17T13:09:24'
   crc: '0xfe934406'
 - name: EGA\CHAR1\CH58
   size: 2259
-  date: '1992-03-26T16:47:18'
+  date: '1990-07-17T13:09:24'
   crc: '0xbb0ef32c'
 - name: EGA\CHAR1\CH59
   size: 6353
-  date: '1992-03-26T16:47:18'
+  date: '1990-07-17T13:09:24'
   crc: '0x0ac15458'
 - name: EGA\CHAR1\CH60
   size: 6534
-  date: '1992-03-26T16:47:18'
+  date: '1990-07-17T13:09:24'
   crc: '0x7309968d'
 - name: EGA\CHAR1\CH61
   size: 1673
-  date: '1992-03-26T16:47:18'
+  date: '1990-07-17T13:09:24'
   crc: '0x0601dbaf'
 - name: EGA\CHAR1\CH62
   size: 5246
-  date: '1992-03-26T16:47:18'
+  date: '1990-07-17T13:09:24'
   crc: '0x24f00a36'
 - name: EGA\CHAR1\CH63
   size: 1990
-  date: '1992-03-26T16:47:18'
+  date: '1990-07-17T13:09:24'
   crc: '0xf718d313'
 - name: EGA\CHAR1\CH64
   size: 3682
-  date: '1992-03-26T16:47:18'
+  date: '1990-07-17T13:09:24'
   crc: '0xf1b81e95'
 - name: EGA\CHAR1\CH65
   size: 4701
-  date: '1992-03-26T16:47:18'
+  date: '1990-07-17T13:09:24'
   crc: '0xe56f2fd3'
 - name: EGA\CHAR1\CH66
   size: 3213
-  date: '1992-03-26T16:47:20'
+  date: '1990-07-17T13:09:24'
   crc: '0x9d599865'
 - name: EGA\CHAR1\CH67
   size: 4530
-  date: '1992-03-26T16:47:20'
+  date: '1990-07-17T13:09:24'
   crc: '0x2a77458e'
 - name: EGA\CHAR1\CH68
   size: 2025
-  date: '1992-03-26T16:47:20'
+  date: '1990-07-17T13:09:24'
   crc: '0x4139dd24'
 - name: EGA\CHAR1\CH69
   size: 1562
-  date: '1992-03-26T16:47:20'
+  date: '1990-07-17T13:09:24'
   crc: '0x1a6bdc9d'
 - name: EGA\CHAR1\CH70
   size: 2615
-  date: '1992-03-26T16:47:20'
+  date: '1990-07-17T13:09:24'
   crc: '0x94d0b338'
 - name: EGA\CHAR1\CH71
   size: 3512
-  date: '1992-03-26T16:47:20'
+  date: '1990-07-17T13:09:24'
   crc: '0x5434a8bb'
 - name: EGA\CHAR1\CH72
   size: 4479
-  date: '1992-03-26T16:47:20'
+  date: '1990-07-17T13:09:24'
   crc: '0x50f19424'
 - name: EGA\CHAR1\CH73
   size: 6531
-  date: '1992-03-26T16:47:20'
+  date: '1990-07-17T13:09:24'
   crc: '0x5173562b'
 - name: EGA\CHAR1\CH74
   size: 5631
-  date: '1992-03-26T16:47:20'
+  date: '1990-07-17T13:09:24'
   crc: '0xde7b42bc'
 - name: EGA\CHAR1\CH75
   size: 4204
-  date: '1992-03-26T16:47:20'
+  date: '1990-07-17T13:09:24'
   crc: '0xafd2a7d4'
 - name: EGA\CHAR2\
   size: 0
-  date: '2014-11-22T15:59:50'
+  date: '1990-07-17T13:00:12'
 - name: EGA\CHAR2\CH22
   size: 4045
-  date: '1992-03-26T16:50:54'
+  date: '1990-07-17T13:12:28'
   crc: '0x81f62f41'
 - name: EGA\CHAR2\CH23
   size: 5042
-  date: '1992-03-26T16:50:54'
+  date: '1990-07-17T13:12:28'
   crc: '0x1059e83b'
 - name: EGA\CHAR2\CH24
   size: 3825
-  date: '1992-03-26T16:50:54'
+  date: '1990-07-17T13:12:28'
   crc: '0xe5b767e2'
 - name: EGA\CHAR2\CH25
   size: 4039
-  date: '1992-03-26T16:50:54'
+  date: '1990-07-17T13:12:28'
   crc: '0x5b083919'
 - name: EGA\CHAR2\CH26
   size: 4167
-  date: '1992-03-26T16:50:54'
+  date: '1990-07-17T13:12:28'
   crc: '0x4625e8b9'
 - name: EGA\CHAR2\CH27
   size: 4474
-  date: '1992-03-26T16:50:54'
+  date: '1990-07-17T13:12:28'
   crc: '0x55526f4e'
 - name: EGA\CHAR2\CH28
   size: 5011
-  date: '1992-03-26T16:50:54'
+  date: '1990-07-17T13:12:28'
   crc: '0x5607321b'
 - name: EGA\CHAR2\CH29
   size: 5823
-  date: '1992-03-26T16:50:54'
+  date: '1990-07-17T13:12:28'
   crc: '0xe547d537'
 - name: EGA\CHAR2\CH30
   size: 3958
-  date: '1992-03-26T16:50:54'
+  date: '1990-07-17T13:12:28'
   crc: '0x876a0f6d'
 - name: EGA\CHAR2\CH31
   size: 3951
-  date: '1992-03-26T16:50:54'
+  date: '1990-07-17T13:12:28'
   crc: '0xd34d5f14'
 - name: EGA\CHAR2\CH32
   size: 3841
-  date: '1992-03-26T16:50:54'
+  date: '1990-07-17T13:12:28'
   crc: '0xf950ab1e'
 - name: EGA\CHAR2\CH33
   size: 4413
-  date: '1992-03-26T16:50:54'
+  date: '1990-07-17T13:12:28'
   crc: '0x035ff649'
 - name: EGA\CHAR2\CH34
   size: 5648
-  date: '1992-03-26T16:50:54'
+  date: '1990-07-17T13:12:28'
   crc: '0xe83b50f1'
 - name: EGA\CHAR2\CH35
   size: 4741
-  date: '1992-03-26T16:50:56'
+  date: '1990-07-17T13:12:28'
   crc: '0x8f7b66a7'
 - name: EGA\CHAR2\CH36
   size: 5166
-  date: '1992-03-26T16:50:56'
+  date: '1990-07-17T13:12:28'
   crc: '0x3852e3ed'
 - name: EGA\CHAR2\CH37
   size: 3901
-  date: '1992-03-26T16:50:56'
+  date: '1990-07-17T13:12:28'
   crc: '0xc2ef9bc6'
 - name: EGA\CHAR2\CH38
   size: 4247
-  date: '1992-03-26T16:50:56'
+  date: '1990-07-17T13:12:28'
   crc: '0x77cedf80'
 - name: EGA\CHAR2\CH39
   size: 4113
-  date: '1992-03-26T16:50:56'
+  date: '1990-07-17T13:12:30'
   crc: '0x17d65bad'
 - name: EGA\CHAR2\CH40
   size: 3743
-  date: '1992-03-26T16:50:56'
+  date: '1990-07-17T13:12:30'
   crc: '0x8f6b0418'
 - name: EGA\CHAR2\CH41
   size: 4678
-  date: '1992-03-26T16:50:56'
+  date: '1990-07-17T13:12:30'
   crc: '0xc62c5cd2'
 - name: EGA\CHAR2\CH42
   size: 3745
-  date: '1992-03-26T16:50:56'
+  date: '1990-07-17T13:12:30'
   crc: '0x3ece40d9'
 - name: EGA\CHAR2\CH43
   size: 3756
-  date: '1992-03-26T16:50:56'
+  date: '1990-07-17T13:12:30'
   crc: '0xa9ebf7fe'
 - name: EGA\CHAR2\CH44
   size: 4963
-  date: '1992-03-26T16:50:56'
+  date: '1990-07-17T13:12:30'
   crc: '0x5abf7b58'
 - name: EGA\CHAR2\CH45
   size: 5295
-  date: '1992-03-26T16:50:56'
+  date: '1990-07-17T13:12:30'
   crc: '0x008cd8ce'
 - name: EGA\CHAR2\CH46
   size: 3804
-  date: '1992-03-26T16:50:56'
+  date: '1990-07-17T13:12:30'
   crc: '0x5dc1f5e2'
 - name: EGA\CHAR2\CH47
   size: 4744
-  date: '1992-03-26T16:50:56'
+  date: '1990-07-17T13:12:30'
   crc: '0xa7188f77'
 - name: EGA\CHAR2\CH48
   size: 4471
-  date: '1992-03-26T16:50:58'
+  date: '1990-07-17T13:12:30'
   crc: '0x6c56148a'
 - name: EGA\CHAR2\CH49
   size: 5676
-  date: '1992-03-26T16:50:58'
+  date: '1990-07-17T13:12:30'
   crc: '0x4f1f7b03'
 - name: EGA\CHAR2\CH50
   size: 4915
-  date: '1992-03-26T16:50:58'
+  date: '1990-07-17T13:12:30'
   crc: '0x67c87113'
 - name: EGA\CHAR2\CH51
   size: 2259
-  date: '1992-03-26T16:50:58'
+  date: '1990-07-17T13:12:30'
   crc: '0xbb0ef32c'
 - name: EGA\CHAR2\CH52
   size: 5774
-  date: '1992-03-26T16:50:58'
+  date: '1990-07-17T13:12:30'
   crc: '0xc4f5ed9b'
 - name: EGA\CHAR2\CH53
   size: 3027
-  date: '1992-03-26T16:50:58'
+  date: '1990-07-17T13:12:30'
   crc: '0xfb7cc958'
 - name: EGA\CHAR2\CH54
   size: 3878
-  date: '1992-03-26T16:50:58'
+  date: '1990-07-17T13:12:30'
   crc: '0x20c9f693'
 - name: EGA\CHAR2\CH55
   size: 4551
-  date: '1992-03-26T16:50:58'
+  date: '1990-07-17T13:12:30'
   crc: '0x141e02a5'
 - name: EGA\CHAR2\CH56
   size: 4644
-  date: '1992-03-26T16:50:58'
+  date: '1990-07-17T13:12:30'
   crc: '0x22f98742'
 - name: EGA\CHAR2\CH57
   size: 4828
-  date: '1992-03-26T16:50:58'
+  date: '1990-07-17T13:12:30'
   crc: '0xda55611f'
 - name: EGA\CHAR2\CH58
   size: 3213
-  date: '1992-03-26T16:50:58'
+  date: '1990-07-17T13:12:30'
   crc: '0x9d599865'
 - name: EGA\CHAR2\CH59
   size: 1794
-  date: '1992-03-26T16:50:58'
+  date: '1990-07-17T13:12:30'
   crc: '0x97bbae79'
 - name: EGA\CHAR2\CH60
   size: 2259
-  date: '1992-03-26T16:51:00'
+  date: '1990-07-17T13:12:30'
   crc: '0xbb0ef32c'
 - name: EGA\CHAR2\CH61
   size: 6534
-  date: '1992-03-26T16:51:00'
+  date: '1990-07-17T13:12:30'
   crc: '0x7309968d'
 - name: EGA\CHAR2\CH62
   size: 4348
-  date: '1992-03-26T16:51:00'
+  date: '1990-07-17T13:12:30'
   crc: '0x799c7b83'
 - name: EGA\CHAR2\CH63
   size: 5246
-  date: '1992-03-26T16:51:00'
+  date: '1990-07-17T13:12:30'
   crc: '0x24f00a36'
 - name: EGA\CHAR2\CH64
   size: 3682
-  date: '1992-03-26T16:51:00'
+  date: '1990-07-17T13:12:32'
   crc: '0xf1b81e95'
 - name: EGA\CHAR2\CH65
   size: 1673
-  date: '1992-03-26T16:51:00'
+  date: '1990-07-17T13:12:32'
   crc: '0x0601dbaf'
 - name: EGA\CHAR2\CH66
   size: 5245
-  date: '1992-03-26T16:51:00'
+  date: '1990-07-17T13:12:32'
   crc: '0x2daf43ec'
 - name: EGA\CHAR2\CH67
   size: 4693
-  date: '1992-03-26T16:51:00'
+  date: '1990-07-17T13:12:32'
   crc: '0x3b68bc94'
 - name: EGA\CHAR2\CH68
   size: 2802
-  date: '1992-03-26T16:51:00'
+  date: '1990-07-17T13:12:32'
   crc: '0x309f8268'
 - name: EGA\CHAR2\CH69
   size: 2019
-  date: '1992-03-26T16:51:00'
+  date: '1990-07-17T13:12:32'
   crc: '0xb42a4811'
 - name: EGA\CHAR2\CH70
   size: 4204
-  date: '1992-03-26T16:51:02'
+  date: '1990-07-17T13:12:32'
   crc: '0xafd2a7d4'
 - name: EGA\CHAR2\CH71
   size: 4552
-  date: '1992-03-26T16:51:00'
+  date: '1990-07-17T13:12:32'
   crc: '0xb377665a'
 - name: EGA\CHAR2\CH72
   size: 6531
-  date: '1992-03-26T16:51:00'
+  date: '1990-07-17T13:12:32'
   crc: '0x5173562b'
 - name: EGA\CHAR2\CH73
   size: 4479
-  date: '1992-03-26T16:51:02'
+  date: '1990-07-17T13:12:32'
   crc: '0x50f19424'
 - name: EGA\CHAR2\CH74
   size: 5631
-  date: '1992-03-26T16:51:02'
+  date: '1990-07-17T13:12:32'
   crc: '0xde7b42bc'
 - name: EGA\CHAR3\
   size: 0
-  date: '2014-11-22T15:59:52'
+  date: '1990-07-17T13:00:12'
 - name: EGA\CHAR3\CH00
   size: 4510
-  date: '1992-03-26T16:45:00'
+  date: '1990-07-17T13:14:10'
   crc: '0x4376082f'
 - name: EGA\CHAR3\CH01
   size: 3790
-  date: '1992-03-26T16:45:00'
+  date: '1990-07-17T13:14:10'
   crc: '0x69f3d5c8'
 - name: EGA\CHAR3\CH02
   size: 4831
-  date: '1992-03-26T16:45:00'
+  date: '1990-07-17T13:14:10'
   crc: '0x3d3116cb'
 - name: EGA\CHAR3\CH03
   size: 4300
-  date: '1992-03-26T16:45:00'
+  date: '1990-07-17T13:14:10'
   crc: '0xc77939b7'
 - name: EGA\CHAR3\CH04
   size: 4513
-  date: '1992-03-26T16:45:02'
+  date: '1990-07-17T13:14:10'
   crc: '0xd9aea9bc'
 - name: EGA\CHAR3\CH05
   size: 4202
-  date: '1992-03-26T16:45:02'
+  date: '1990-07-17T13:14:10'
   crc: '0xa4d33999'
 - name: EGA\CHAR3\CH06
   size: 3919
-  date: '1992-03-26T16:45:02'
+  date: '1990-07-17T13:14:10'
   crc: '0xe3b11b8a'
 - name: EGA\CHAR3\CH07
   size: 4602
-  date: '1992-03-26T16:45:02'
+  date: '1990-07-17T13:14:10'
   crc: '0xf10cc479'
 - name: EGA\CHAR3\CH08
   size: 3017
-  date: '1992-03-26T16:45:02'
+  date: '1990-07-17T13:14:10'
   crc: '0x7b83b405'
 - name: EGA\CHAR3\CH09
   size: 5481
-  date: '1992-03-26T16:45:02'
+  date: '1990-07-17T13:14:10'
   crc: '0xbfdc9f85'
 - name: EGA\CHAR3\CH10
   size: 4596
-  date: '1992-03-26T16:45:02'
+  date: '1990-07-17T13:14:10'
   crc: '0x0782a652'
 - name: EGA\CHAR3\CH11
   size: 5397
-  date: '1992-03-26T16:45:02'
+  date: '1990-07-17T13:14:10'
   crc: '0x15b0e8b7'
 - name: EGA\CHAR3\CH12
   size: 4007
-  date: '1992-03-26T16:45:02'
+  date: '1990-07-17T13:14:10'
   crc: '0xa91a21f2'
 - name: EGA\CHAR3\CH13
   size: 3887
-  date: '1992-03-26T16:45:02'
+  date: '1990-07-17T13:14:10'
   crc: '0xfdfff9e1'
 - name: EGA\CHAR3\CH14
   size: 3865
-  date: '1992-03-26T16:45:02'
+  date: '1990-07-17T13:14:10'
   crc: '0x4657dba2'
 - name: EGA\CHAR3\CH15
   size: 5577
-  date: '1992-03-26T16:45:02'
+  date: '1990-07-17T13:14:10'
   crc: '0x49e2ceba'
 - name: EGA\CHAR3\CH16
   size: 5405
-  date: '1992-03-26T16:45:02'
+  date: '1990-07-17T13:14:12'
   crc: '0x45767783'
 - name: EGA\CHAR3\CH17
   size: 4586
-  date: '1992-03-26T16:45:04'
+  date: '1990-07-17T13:14:12'
   crc: '0x9aa772ec'
 - name: EGA\CHAR3\CH18
   size: 4953
-  date: '1992-03-26T16:45:04'
+  date: '1990-07-17T13:14:12'
   crc: '0xd77a9a93'
 - name: EGA\CHAR3\CH19
   size: 5540
-  date: '1992-03-26T16:45:04'
+  date: '1990-07-17T13:14:12'
   crc: '0xa43d6706'
 - name: EGA\CHAR3\CH20
   size: 5463
-  date: '1992-03-26T16:45:04'
+  date: '1990-07-17T13:14:12'
   crc: '0x000b3831'
 - name: EGA\CHAR3\CH21
   size: 4570
-  date: '1992-03-26T16:45:04'
+  date: '1990-07-17T13:14:12'
   crc: '0x2816c39b'
 - name: EGA\D0\
   size: 0
-  date: '2014-11-22T15:59:52'
+  date: '1990-07-17T13:00:12'
 - name: EGA\D0\DP001
   size: 404
-  date: '1992-03-26T16:48:44'
+  date: '1990-07-17T13:15:18'
   crc: '0x28e08c50'
 - name: EGA\D0\DP002
   size: 6201
-  date: '1992-03-26T16:48:44'
+  date: '1990-07-17T13:15:18'
   crc: '0x2b4c7f4f'
 - name: EGA\D0\DP003
   size: 1841
-  date: '1992-03-26T16:48:44'
+  date: '1990-07-17T13:15:18'
   crc: '0xb251db29'
 - name: EGA\D0\DP004
   size: 504
-  date: '1992-03-26T16:48:44'
+  date: '1990-07-17T13:15:20'
   crc: '0x90c9ac26'
 - name: EGA\D0\DP005
   size: 248
-  date: '1992-03-26T16:48:44'
+  date: '1990-07-17T13:15:20'
   crc: '0xc3233329'
 - name: EGA\D0\DP006
   size: 1030
-  date: '1992-03-26T16:48:44'
+  date: '1990-07-17T13:15:20'
   crc: '0xfccf3cde'
 - name: EGA\D0\DP007
   size: 978
-  date: '1992-03-26T16:48:44'
+  date: '1990-07-17T13:15:20'
   crc: '0x5e769425'
 - name: EGA\D0\DP008
   size: 250
-  date: '1992-03-26T16:48:44'
+  date: '1990-07-17T13:15:20'
   crc: '0x4fe8572d'
 - name: EGA\D0\DP009
   size: 256
-  date: '1992-03-26T16:48:44'
+  date: '1990-07-17T13:15:20'
   crc: '0xffa84f7c'
 - name: EGA\D0\DP010
   size: 167
-  date: '1992-03-26T16:48:44'
+  date: '1990-07-17T13:15:20'
   crc: '0xa1161109'
 - name: EGA\D0\DP011
   size: 165
-  date: '1992-03-26T16:48:44'
+  date: '1990-07-17T13:15:20'
   crc: '0xd7bf45e3'
 - name: EGA\D0\DP012
   size: 695
-  date: '1992-03-26T16:48:44'
+  date: '1990-07-17T13:15:20'
   crc: '0x41d42e9f'
 - name: EGA\D0\DP013
   size: 669
-  date: '1992-03-26T16:48:44'
+  date: '1990-07-17T13:15:20'
   crc: '0x12adafa6'
 - name: EGA\D0\DP014
   size: 5849
-  date: '1992-03-26T16:48:44'
+  date: '1990-07-17T13:15:20'
   crc: '0xc9100669'
 - name: EGA\D0\DP015
   size: 1826
-  date: '1992-03-26T16:48:46'
+  date: '1990-07-17T13:15:20'
   crc: '0xff601ea2'
 - name: EGA\D0\DP016
   size: 533
-  date: '1992-03-26T16:48:46'
+  date: '1990-07-17T13:15:20'
   crc: '0x90dd9a9e'
 - name: EGA\D0\DP017
   size: 265
-  date: '1992-03-26T16:48:46'
+  date: '1990-07-17T13:15:20'
   crc: '0x1e461c0a'
 - name: EGA\D0\DP018
   size: 1062
-  date: '1992-03-26T16:48:46'
+  date: '1990-07-17T13:15:20'
   crc: '0xe59eaa05'
 - name: EGA\D0\DP019
   size: 1060
-  date: '1992-03-26T16:48:46'
+  date: '1990-07-17T13:15:20'
   crc: '0x32d687be'
 - name: EGA\D0\DP020
   size: 274
-  date: '1992-03-26T16:48:46'
+  date: '1990-07-17T13:15:20'
   crc: '0xe84825ad'
 - name: EGA\D0\DP021
   size: 275
-  date: '1992-03-26T16:48:46'
+  date: '1990-07-17T13:15:20'
   crc: '0x4ef89a88'
 - name: EGA\D0\DP022
   size: 180
-  date: '1992-03-26T16:48:46'
+  date: '1990-07-17T13:15:20'
   crc: '0xc5766375'
 - name: EGA\D0\DP023
   size: 183
-  date: '1992-03-26T16:48:46'
+  date: '1990-07-17T13:15:20'
   crc: '0x97a541da'
 - name: EGA\D0\DP024
   size: 2069
-  date: '1992-03-26T16:48:46'
+  date: '1990-07-17T13:15:20'
   crc: '0xc76aaa2d'
 - name: EGA\D0\DP025
   size: 2058
-  date: '1992-03-26T16:48:46'
+  date: '1990-07-17T13:15:20'
   crc: '0xcd326d9e'
 - name: EGA\D0\DP026
   size: 525
-  date: '1992-03-26T16:48:46'
+  date: '1990-07-17T13:15:20'
   crc: '0x2f586cd1'
 - name: EGA\D0\DP027
   size: 522
-  date: '1992-03-26T16:48:46'
+  date: '1990-07-17T13:15:20'
   crc: '0x444395d0'
 - name: EGA\D0\DP028
   size: 120
-  date: '1992-03-26T16:48:46'
+  date: '1990-07-17T13:15:20'
   crc: '0xf43c7e99'
 - name: EGA\D0\DP029
   size: 117
-  date: '1992-03-26T16:48:48'
+  date: '1990-07-17T13:15:20'
   crc: '0x4efe7258'
 - name: EGA\D0\DP030
   size: 345
-  date: '1992-03-26T16:48:48'
+  date: '1990-07-17T13:15:20'
   crc: '0x9c7b9c13'
 - name: EGA\D0\DP031
   size: 345
-  date: '1992-03-26T16:48:48'
+  date: '1990-07-17T13:15:20'
   crc: '0xaba86452'
 - name: EGA\D0\DP032
   size: 266
-  date: '1992-03-26T16:48:48'
+  date: '1990-07-17T13:15:20'
   crc: '0xbf6aa0c3'
 - name: EGA\D0\DP033
   size: 264
-  date: '1992-03-26T16:48:48'
+  date: '1990-07-17T13:15:20'
   crc: '0x3d49124a'
 - name: EGA\D0\DP034
   size: 250
-  date: '1992-03-26T16:48:48'
+  date: '1990-07-17T13:15:20'
   crc: '0x8cf07ca1'
 - name: EGA\D0\DP035
   size: 249
-  date: '1992-03-26T16:48:48'
+  date: '1990-07-17T13:15:20'
   crc: '0x9791b3ff'
 - name: EGA\D0\DP036
   size: 5538
-  date: '1992-03-26T16:48:48'
+  date: '1990-07-17T13:15:22'
   crc: '0x71913d45'
 - name: EGA\D0\DP037
   size: 1684
-  date: '1992-03-26T16:48:48'
+  date: '1990-07-17T13:15:22'
   crc: '0x7fd56d21'
 - name: EGA\D0\DP038
   size: 476
-  date: '1992-03-26T16:48:48'
+  date: '1990-07-17T13:15:22'
   crc: '0x154f83cb'
 - name: EGA\D0\DP039
   size: 238
-  date: '1992-03-26T16:48:48'
+  date: '1990-07-17T13:15:22'
   crc: '0x84f297c8'
 - name: EGA\D0\DP040
   size: 956
-  date: '1992-03-26T16:48:48'
+  date: '1990-07-17T13:15:22'
   crc: '0x71df5e73'
 - name: EGA\D0\DP041
   size: 953
-  date: '1992-03-26T16:48:48'
+  date: '1990-07-17T13:15:22'
   crc: '0x24d6e8ed'
 - name: EGA\D0\DP042
   size: 243
-  date: '1992-03-26T16:48:48'
+  date: '1990-07-17T13:15:22'
   crc: '0xb269ef9d'
 - name: EGA\D0\DP043
   size: 242
-  date: '1992-03-26T16:48:48'
+  date: '1990-07-17T13:15:22'
   crc: '0xadc0afa5'
 - name: EGA\D0\DP044
   size: 159
-  date: '1992-03-26T16:48:48'
+  date: '1990-07-17T13:15:22'
   crc: '0xad7a2ed6'
 - name: EGA\D0\DP045
   size: 163
-  date: '1992-03-26T16:48:50'
+  date: '1990-07-17T13:15:22'
   crc: '0xf990832a'
 - name: EGA\D0\DP046
   size: 1882
-  date: '1992-03-26T16:48:50'
+  date: '1990-07-17T13:15:22'
   crc: '0xa1e9b06d'
 - name: EGA\D0\DP047
   size: 1875
-  date: '1992-03-26T16:48:50'
+  date: '1990-07-17T13:15:22'
   crc: '0xa0ded0ba'
 - name: EGA\D0\DP048
   size: 472
-  date: '1992-03-26T16:48:50'
+  date: '1990-07-17T13:15:22'
   crc: '0xeb0b48be'
 - name: EGA\D0\DP049
   size: 471
-  date: '1992-03-26T16:48:50'
+  date: '1990-07-17T13:15:22'
   crc: '0xffe2e4d0'
 - name: EGA\D0\DP050
   size: 107
-  date: '1992-03-26T16:48:50'
+  date: '1990-07-17T13:15:22'
   crc: '0x3f875250'
 - name: EGA\D0\DP051
   size: 107
-  date: '1992-03-26T16:48:50'
+  date: '1990-07-17T13:15:22'
   crc: '0xdb92d719'
 - name: EGA\D0\DP052
   size: 303
-  date: '1992-03-26T16:48:50'
+  date: '1990-07-17T13:15:22'
   crc: '0x9262ca44'
 - name: EGA\D0\DP053
   size: 303
-  date: '1992-03-26T16:48:50'
+  date: '1990-07-17T13:15:22'
   crc: '0x6261b2a8'
 - name: EGA\D0\DP054
   size: 233
-  date: '1992-03-26T16:48:50'
+  date: '1990-07-17T13:15:22'
   crc: '0xf5f5eec3'
 - name: EGA\D0\DP055
   size: 232
-  date: '1992-03-26T16:48:50'
+  date: '1990-07-17T13:15:22'
   crc: '0xe507a0b8'
 - name: EGA\D0\DP056
   size: 220
-  date: '1992-03-26T16:48:50'
+  date: '1990-07-17T13:15:22'
   crc: '0x63226e3f'
 - name: EGA\D0\DP057
   size: 220
-  date: '1992-03-26T16:48:50'
+  date: '1990-07-17T13:15:22'
   crc: '0x458dc87f'
 - name: EGA\D0\DP061
   size: 202
-  date: '1992-03-26T16:48:50'
+  date: '1990-07-17T13:15:22'
   crc: '0xbfd961c4'
 - name: EGA\D0\DP062
   size: 239
-  date: '1992-03-26T16:48:50'
+  date: '1990-07-17T13:15:22'
   crc: '0x99fff458'
 - name: EGA\D0\DP063
   size: 401
-  date: '1992-03-26T16:48:52'
+  date: '1990-07-17T13:15:22'
   crc: '0x6aba3c43'
 - name: EGA\D0\DP064
   size: 197
-  date: '1992-03-26T16:48:52'
+  date: '1990-07-17T13:15:22'
   crc: '0x04f44db5'
 - name: EGA\D0\DP065
   size: 388
-  date: '1992-03-26T16:48:52'
+  date: '1990-07-17T13:15:22'
   crc: '0x0e44d949'
 - name: EGA\D0\DP066
   size: 258
-  date: '1992-03-26T16:48:52'
+  date: '1990-07-17T13:15:22'
   crc: '0xb9481aaf'
 - name: EGA\D1\
   size: 0
-  date: '2014-11-22T15:59:54'
+  date: '1990-07-17T13:00:12'
 - name: EGA\D1\DP001
   size: 3833
-  date: '1992-03-26T16:47:38'
+  date: '1990-07-17T13:16:16'
   crc: '0x18802f88'
 - name: EGA\D1\DP014
   size: 5648
-  date: '1992-03-26T16:47:38'
+  date: '1990-07-17T13:16:16'
   crc: '0x406c0290'
 - name: EGA\D1\DP015
   size: 1854
-  date: '1992-03-26T16:47:40'
+  date: '1990-07-17T13:16:16'
   crc: '0x6b30a94d'
 - name: EGA\D1\DP016
   size: 541
-  date: '1992-03-26T16:47:40'
+  date: '1990-07-17T13:16:16'
   crc: '0x3616cbc4'
 - name: EGA\D1\DP017
   size: 276
-  date: '1992-03-26T16:47:40'
+  date: '1990-07-17T13:16:16'
   crc: '0xf414a76f'
 - name: EGA\D1\DP018
   size: 1080
-  date: '1992-03-26T16:47:40'
+  date: '1990-07-17T13:16:16'
   crc: '0xf6d8de93'
 - name: EGA\D1\DP019
   size: 1105
-  date: '1992-03-26T16:47:40'
+  date: '1990-07-17T13:16:16'
   crc: '0x8c5a9f0c'
 - name: EGA\D1\DP020
   size: 287
-  date: '1992-03-26T16:47:40'
+  date: '1990-07-17T13:16:16'
   crc: '0x80f9201c'
 - name: EGA\D1\DP021
   size: 284
-  date: '1992-03-26T16:47:40'
+  date: '1990-07-17T13:16:16'
   crc: '0x5f9c0cf9'
 - name: EGA\D1\DP022
   size: 190
-  date: '1992-03-26T16:47:40'
+  date: '1990-07-17T13:16:16'
   crc: '0x7fde59b5'
 - name: EGA\D1\DP023
   size: 183
-  date: '1992-03-26T16:47:40'
+  date: '1990-07-17T13:16:16'
   crc: '0x0c9ff54c'
 - name: EGA\D1\DP024
   size: 2249
-  date: '1992-03-26T16:47:40'
+  date: '1990-07-17T13:16:16'
   crc: '0xf6010117'
 - name: EGA\D1\DP025
   size: 2248
-  date: '1992-03-26T16:47:40'
+  date: '1990-07-17T13:16:16'
   crc: '0x0f660221'
 - name: EGA\D1\DP026
   size: 576
-  date: '1992-03-26T16:47:40'
+  date: '1990-07-17T13:16:16'
   crc: '0xfeadf9f9'
 - name: EGA\D1\DP027
   size: 573
-  date: '1992-03-26T16:47:40'
+  date: '1990-07-17T13:16:16'
   crc: '0x501346ce'
 - name: EGA\D1\DP028
   size: 110
-  date: '1992-03-26T16:47:40'
+  date: '1990-07-17T13:16:16'
   crc: '0x3b657494'
 - name: EGA\D1\DP029
   size: 110
-  date: '1992-03-26T16:47:42'
+  date: '1990-07-17T13:16:16'
   crc: '0xf1d9949e'
 - name: EGA\D1\DP030
   size: 344
-  date: '1992-03-26T16:47:42'
+  date: '1990-07-17T13:16:16'
   crc: '0xde9d40cd'
 - name: EGA\D1\DP031
   size: 347
-  date: '1992-03-26T16:47:42'
+  date: '1990-07-17T13:16:16'
   crc: '0x6a5986d6'
 - name: EGA\D1\DP032
   size: 237
-  date: '1992-03-26T16:47:42'
+  date: '1990-07-17T13:16:16'
   crc: '0x01754e17'
 - name: EGA\D1\DP033
   size: 236
-  date: '1992-03-26T16:47:42'
+  date: '1990-07-17T13:16:16'
   crc: '0x7ea667ee'
 - name: EGA\D1\DP034
   size: 210
-  date: '1992-03-26T16:47:42'
+  date: '1990-07-17T13:16:16'
   crc: '0x0efc6655'
 - name: EGA\D1\DP035
   size: 212
-  date: '1992-03-26T16:47:42'
+  date: '1990-07-17T13:16:18'
   crc: '0xde2179c7'
 - name: EGA\D1\DP036
   size: 3818
-  date: '1992-03-26T16:47:42'
+  date: '1990-07-17T13:16:18'
   crc: '0x8a5380dd'
 - name: EGA\D1\DP037
   size: 1975
-  date: '1992-03-26T16:47:42'
+  date: '1990-07-17T13:16:18'
   crc: '0x4f4ab620'
 - name: EGA\D1\DP038
   size: 538
-  date: '1992-03-26T16:47:42'
+  date: '1990-07-17T13:16:18'
   crc: '0xec0ce4ea'
 - name: EGA\D1\DP039
   size: 125
-  date: '1992-03-26T16:47:42'
+  date: '1990-07-17T13:16:18'
   crc: '0x9b96f05e'
 - name: EGA\D1\DP040
   size: 1159
-  date: '1992-03-26T16:47:42'
+  date: '1990-07-17T13:16:18'
   crc: '0xd4b4d926'
 - name: EGA\D1\DP041
   size: 1159
-  date: '1992-03-26T16:47:42'
+  date: '1990-07-17T13:16:18'
   crc: '0x5fcfd3c4'
 - name: EGA\D1\DP042
   size: 294
-  date: '1992-03-26T16:47:42'
+  date: '1990-07-17T13:16:18'
   crc: '0xd65a0bda'
 - name: EGA\D1\DP043
   size: 291
-  date: '1992-03-26T16:47:42'
+  date: '1990-07-17T13:16:18'
   crc: '0x7538ab2a'
 - name: EGA\D1\DP044
   size: 87
-  date: '1992-03-26T16:47:42'
+  date: '1990-07-17T13:16:18'
   crc: '0xf08f5db4'
 - name: EGA\D1\DP045
   size: 87
-  date: '1992-03-26T16:47:44'
+  date: '1990-07-17T13:16:18'
   crc: '0x4203558c'
 - name: EGA\D1\DP046
   size: 2344
-  date: '1992-03-26T16:47:44'
+  date: '1990-07-17T13:16:18'
   crc: '0xee4141b8'
 - name: EGA\D1\DP047
   size: 2341
-  date: '1992-03-26T16:47:44'
+  date: '1990-07-17T13:16:18'
   crc: '0xb4ba8982'
 - name: EGA\D1\DP048
   size: 510
-  date: '1992-03-26T16:47:44'
+  date: '1990-07-17T13:16:18'
   crc: '0x8082b2aa'
 - name: EGA\D1\DP049
   size: 509
-  date: '1992-03-26T16:47:44'
+  date: '1990-07-17T13:16:18'
   crc: '0xe59848d3'
 - name: EGA\D1\DP050
   size: 51
-  date: '1992-03-26T16:47:44'
+  date: '1990-07-17T13:16:18'
   crc: '0xf34e0f75'
 - name: EGA\D1\DP051
   size: 50
-  date: '1992-03-26T16:47:44'
+  date: '1990-07-17T13:16:18'
   crc: '0x00710c02'
 - name: EGA\D1\DP052
   size: 391
-  date: '1992-03-26T16:47:44'
+  date: '1990-07-17T13:16:18'
   crc: '0xab581786'
 - name: EGA\D1\DP053
   size: 391
-  date: '1992-03-26T16:47:44'
+  date: '1990-07-17T13:16:18'
   crc: '0x5c47491a'
 - name: EGA\D1\DP054
   size: 283
-  date: '1992-03-26T16:47:44'
+  date: '1990-07-17T13:16:18'
   crc: '0x628c783f'
 - name: EGA\D1\DP055
   size: 279
-  date: '1992-03-26T16:47:44'
+  date: '1990-07-17T13:16:18'
   crc: '0x2524dbe1'
 - name: EGA\D1\DP056
   size: 220
-  date: '1992-03-26T16:47:44'
+  date: '1990-07-17T13:16:18'
   crc: '0xfbd8a611'
 - name: EGA\D1\DP057
   size: 223
-  date: '1992-03-26T16:47:44'
+  date: '1990-07-17T13:16:18'
   crc: '0x563b89c9'
 - name: EGA\D1\DP058
   size: 5919
-  date: '1992-03-26T16:47:44'
+  date: '1990-07-17T13:16:18'
   crc: '0xdb349f4a'
 - name: EGA\D1\DP059
   size: 5919
-  date: '1992-03-26T16:47:44'
+  date: '1990-07-17T13:16:18'
   crc: '0x838bd781'
 - name: EGA\D1\DP060
   size: 5648
-  date: '1992-03-26T16:47:46'
+  date: '1990-07-17T13:16:18'
   crc: '0x406c0290'
 - name: EGA\D1\DP067
   size: 597
-  date: '1992-03-26T16:47:46'
+  date: '1990-07-17T13:16:18'
   crc: '0x6e579590'
 - name: EGA\D1\DP068
   size: 312
-  date: '1992-03-26T16:47:46'
+  date: '1990-07-17T13:16:18'
   crc: '0xc9e522aa'
 - name: EGA\D1\DP069
   size: 316
-  date: '1992-03-26T16:47:46'
+  date: '1990-07-17T13:16:18'
   crc: '0x8f0f890f'
 - name: EGA\D2\
   size: 0
-  date: '2014-11-22T15:59:56'
+  date: '1990-07-17T13:00:12'
 - name: EGA\D2\DP001
   size: 3558
-  date: '1992-03-26T16:51:24'
+  date: '1990-07-17T13:17:26'
   crc: '0x27638b87'
 - name: EGA\D2\DP014
   size: 5814
-  date: '1992-03-26T16:51:24'
+  date: '1990-07-17T13:17:26'
   crc: '0x7c97ea46'
 - name: EGA\D2\DP015
   size: 1986
-  date: '1992-03-26T16:51:24'
+  date: '1990-07-17T13:17:26'
   crc: '0x076431ab'
 - name: EGA\D2\DP016
   size: 556
-  date: '1992-03-26T16:51:24'
+  date: '1990-07-17T13:17:26'
   crc: '0xf3773d89'
 - name: EGA\D2\DP017
   size: 245
-  date: '1992-03-26T16:51:24'
+  date: '1990-07-17T13:17:26'
   crc: '0xf6e3b8ad'
 - name: EGA\D2\DP018
   size: 1154
-  date: '1992-03-26T16:51:24'
+  date: '1990-07-17T13:17:26'
   crc: '0x061e76ce'
 - name: EGA\D2\DP019
   size: 1139
-  date: '1992-03-26T16:51:24'
+  date: '1990-07-17T13:17:26'
   crc: '0x046ee8c5'
 - name: EGA\D2\DP020
   size: 293
-  date: '1992-03-26T16:51:24'
+  date: '1990-07-17T13:17:26'
   crc: '0xa24fc4b9'
 - name: EGA\D2\DP021
   size: 285
-  date: '1992-03-26T16:51:24'
+  date: '1990-07-17T13:17:26'
   crc: '0x1efd3aa1'
 - name: EGA\D2\DP022
   size: 169
-  date: '1992-03-26T16:51:24'
+  date: '1990-07-17T13:17:26'
   crc: '0xa991fbde'
 - name: EGA\D2\DP023
   size: 167
-  date: '1992-03-26T16:51:24'
+  date: '1990-07-17T13:17:26'
   crc: '0xc27c8c13'
 - name: EGA\D2\DP024
   size: 2322
-  date: '1992-03-26T16:51:24'
+  date: '1990-07-17T13:17:26'
   crc: '0x06944eef'
 - name: EGA\D2\DP025
   size: 2319
-  date: '1992-03-26T16:51:24'
+  date: '1990-07-17T13:17:26'
   crc: '0x3681feee'
 - name: EGA\D2\DP026
   size: 509
-  date: '1992-03-26T16:51:24'
+  date: '1990-07-17T13:17:26'
   crc: '0x7275f0e6'
 - name: EGA\D2\DP027
   size: 509
-  date: '1992-03-26T16:51:26'
+  date: '1990-07-17T13:17:26'
   crc: '0x2032351e'
 - name: EGA\D2\DP028
   size: 117
-  date: '1992-03-26T16:51:26'
+  date: '1990-07-17T13:17:26'
   crc: '0x6d6c8de7'
 - name: EGA\D2\DP029
   size: 117
-  date: '1992-03-26T16:51:26'
+  date: '1990-07-17T13:17:26'
   crc: '0x6c54fd90'
 - name: EGA\D2\DP030
   size: 362
-  date: '1992-03-26T16:51:26'
+  date: '1990-07-17T13:17:26'
   crc: '0x042350fd'
 - name: EGA\D2\DP031
   size: 363
-  date: '1992-03-26T16:51:26'
+  date: '1990-07-17T13:17:26'
   crc: '0x9baaf657'
 - name: EGA\D2\DP032
   size: 242
-  date: '1992-03-26T16:51:26'
+  date: '1990-07-17T13:17:28'
   crc: '0xbac4366e'
 - name: EGA\D2\DP033
   size: 240
-  date: '1992-03-26T16:51:26'
+  date: '1990-07-17T13:17:28'
   crc: '0x8951e895'
 - name: EGA\D2\DP034
   size: 212
-  date: '1992-03-26T16:51:26'
+  date: '1990-07-17T13:17:28'
   crc: '0x82d0dbb7'
 - name: EGA\D2\DP035
   size: 214
-  date: '1992-03-26T16:51:26'
+  date: '1990-07-17T13:17:28'
   crc: '0xd94d3382'
 - name: EGA\D2\DP036
   size: 4791
-  date: '1992-03-26T16:51:26'
+  date: '1990-07-17T13:17:28'
   crc: '0xd726c670'
 - name: EGA\D2\DP037
   size: 1717
-  date: '1992-03-26T16:51:26'
+  date: '1990-07-17T13:17:28'
   crc: '0xc1206904'
 - name: EGA\D2\DP038
   size: 557
-  date: '1992-03-26T16:51:26'
+  date: '1990-07-17T13:17:28'
   crc: '0x9999a5ef'
 - name: EGA\D2\DP039
   size: 235
-  date: '1992-03-26T16:51:26'
+  date: '1990-07-17T13:17:28'
   crc: '0xcc5a98a7'
 - name: EGA\D2\DP040
   size: 1146
-  date: '1992-03-26T16:51:26'
+  date: '1990-07-17T13:17:28'
   crc: '0x5c41b6ce'
 - name: EGA\D2\DP041
   size: 1138
-  date: '1992-03-26T16:51:26'
+  date: '1990-07-17T13:17:28'
   crc: '0x30b0a250'
 - name: EGA\D2\DP042
   size: 295
-  date: '1992-03-26T16:51:28'
+  date: '1990-07-17T13:17:28'
   crc: '0x68f69224'
 - name: EGA\D2\DP043
   size: 288
-  date: '1992-03-26T16:51:28'
+  date: '1990-07-17T13:17:28'
   crc: '0x3e8367bd'
 - name: EGA\D2\DP044
   size: 162
-  date: '1992-03-26T16:51:28'
+  date: '1990-07-17T13:17:28'
   crc: '0x8e1d7f2a'
 - name: EGA\D2\DP045
   size: 160
-  date: '1992-03-26T16:51:28'
+  date: '1990-07-17T13:17:28'
   crc: '0x3ea2d401'
 - name: EGA\D2\DP046
   size: 2319
-  date: '1992-03-26T16:51:28'
+  date: '1990-07-17T13:17:28'
   crc: '0xfb87a615'
 - name: EGA\D2\DP047
   size: 2321
-  date: '1992-03-26T16:51:28'
+  date: '1990-07-17T13:17:28'
   crc: '0x74d70350'
 - name: EGA\D2\DP048
   size: 484
-  date: '1992-03-26T16:51:28'
+  date: '1990-07-17T13:17:28'
   crc: '0x5650bbf8'
 - name: EGA\D2\DP049
   size: 483
-  date: '1992-03-26T16:51:28'
+  date: '1990-07-17T13:17:28'
   crc: '0x813f066f'
 - name: EGA\D2\DP050
   size: 102
-  date: '1992-03-26T16:51:28'
+  date: '1990-07-17T13:17:28'
   crc: '0x5a80acc6'
 - name: EGA\D2\DP051
   size: 102
-  date: '1992-03-26T16:51:28'
+  date: '1990-07-17T13:17:28'
   crc: '0x115066d6'
 - name: EGA\D2\DP052
   size: 363
-  date: '1992-03-26T16:51:28'
+  date: '1990-07-17T13:17:28'
   crc: '0xbbeacee2'
 - name: EGA\D2\DP053
   size: 364
-  date: '1992-03-26T16:51:28'
+  date: '1990-07-17T13:17:28'
   crc: '0x96a71c73'
 - name: EGA\D2\DP054
   size: 237
-  date: '1992-03-26T16:51:28'
+  date: '1990-07-17T13:17:28'
   crc: '0xba8fa6a0'
 - name: EGA\D2\DP055
   size: 236
-  date: '1992-03-26T16:51:28'
+  date: '1990-07-17T13:17:28'
   crc: '0x5c3c0f59'
 - name: EGA\D2\DP056
   size: 208
-  date: '1992-03-26T16:51:28'
+  date: '1990-07-17T13:17:28'
   crc: '0x1fc37b27'
 - name: EGA\D2\DP057
   size: 209
-  date: '1992-03-26T16:51:28'
+  date: '1990-07-17T13:17:28'
   crc: '0x0f1d1c6a'
 - name: EGA\D2\DP058
   size: 5285
-  date: '1992-03-26T16:51:30'
+  date: '1990-07-17T13:17:28'
   crc: '0xadb22b7f'
 - name: EGA\D2\DP059
   size: 5102
-  date: '1992-03-26T16:51:30'
+  date: '1990-07-17T13:17:28'
   crc: '0x640d64e8'
 - name: EGA\D2\DP060
   size: 5174
-  date: '1992-03-26T16:51:30'
+  date: '1990-07-17T13:17:28'
   crc: '0x77cd9ea9'
 - name: EGA\D2\DP067
   size: 597
-  date: '1992-03-26T16:51:30'
+  date: '1990-07-17T13:17:28'
   crc: '0x6e579590'
 - name: EGA\D2\DP068
   size: 312
-  date: '1992-03-26T16:51:30'
+  date: '1990-07-17T13:17:28'
   crc: '0xc9e522aa'
 - name: EGA\D2\DP069
   size: 316
-  date: '1992-03-26T16:51:30'
+  date: '1990-07-17T13:17:28'
   crc: '0x8f0f890f'
 - name: EGA\D3\
   size: 0
-  date: '2014-11-22T15:59:58'
+  date: '1990-07-17T13:00:12'
 - name: EGA\D3\DP001
   size: 4175
-  date: '1992-03-26T16:51:50'
+  date: '1990-07-17T13:18:28'
   crc: '0x05e6a979'
 - name: EGA\D3\DP014
   size: 3656
-  date: '1992-03-26T16:51:50'
+  date: '1990-07-17T13:18:28'
   crc: '0x151b9efb'
 - name: EGA\D3\DP015
   size: 978
-  date: '1992-03-26T16:51:50'
+  date: '1990-07-17T13:18:28'
   crc: '0x6a753ecb'
 - name: EGA\D3\DP016
   size: 226
-  date: '1992-03-26T16:51:50'
+  date: '1990-07-17T13:18:28'
   crc: '0x8a255ed1'
 - name: EGA\D3\DP017
   size: 175
-  date: '1992-03-26T16:51:50'
+  date: '1990-07-17T13:18:28'
   crc: '0xfeed7cf7'
 - name: EGA\D3\DP018
   size: 642
-  date: '1992-03-26T16:51:50'
+  date: '1990-07-17T13:18:28'
   crc: '0x23bc8069'
 - name: EGA\D3\DP019
   size: 649
-  date: '1992-03-26T16:51:50'
+  date: '1990-07-17T13:18:28'
   crc: '0x1d259bc5'
 - name: EGA\D3\DP020
   size: 120
-  date: '1992-03-26T16:51:50'
+  date: '1990-07-17T13:18:28'
   crc: '0x11e78558'
 - name: EGA\D3\DP021
   size: 121
-  date: '1992-03-26T16:51:50'
+  date: '1990-07-17T13:18:28'
   crc: '0x1c4cd732'
 - name: EGA\D3\DP022
   size: 112
-  date: '1992-03-26T16:51:50'
+  date: '1990-07-17T13:18:28'
   crc: '0x91aad600'
 - name: EGA\D3\DP023
   size: 120
-  date: '1992-03-26T16:51:50'
+  date: '1990-07-17T13:18:28'
   crc: '0x86f9d4c7'
 - name: EGA\D3\DP024
   size: 1908
-  date: '1992-03-26T16:51:50'
+  date: '1990-07-17T13:18:28'
   crc: '0xb1585a29'
 - name: EGA\D3\DP025
   size: 1905
-  date: '1992-03-26T16:51:52'
+  date: '1990-07-17T13:18:28'
   crc: '0xffeae26f'
 - name: EGA\D3\DP026
   size: 362
-  date: '1992-03-26T16:51:52'
+  date: '1990-07-17T13:18:28'
   crc: '0x68994955'
 - name: EGA\D3\DP027
   size: 362
-  date: '1992-03-26T16:51:52'
+  date: '1990-07-17T13:18:28'
   crc: '0xbbbea83f'
 - name: EGA\D3\DP028
   size: 79
-  date: '1992-03-26T16:51:52'
+  date: '1990-07-17T13:18:28'
   crc: '0x1eb53375'
 - name: EGA\D3\DP029
   size: 79
-  date: '1992-03-26T16:51:52'
+  date: '1990-07-17T13:18:28'
   crc: '0x559e9c60'
 - name: EGA\D3\DP030
   size: 169
-  date: '1992-03-26T16:51:52'
+  date: '1990-07-17T13:18:28'
   crc: '0x9aa907a1'
 - name: EGA\D3\DP031
   size: 89
-  date: '1992-03-26T16:51:52'
+  date: '1990-07-17T13:18:28'
   crc: '0x26548247'
 - name: EGA\D3\DP032
   size: 136
-  date: '1992-03-26T16:51:52'
+  date: '1990-07-17T13:18:28'
   crc: '0x32f74697'
 - name: EGA\D3\DP033
   size: 132
-  date: '1992-03-26T16:51:52'
+  date: '1990-07-17T13:18:28'
   crc: '0x00f2169b'
 - name: EGA\D3\DP034
   size: 126
-  date: '1992-03-26T16:51:52'
+  date: '1990-07-17T13:18:28'
   crc: '0x45b151c5'
 - name: EGA\D3\DP035
   size: 71
-  date: '1992-03-26T16:51:52'
+  date: '1990-07-17T13:18:28'
   crc: '0x94f8faee'
 - name: EGA\D3\DP036
   size: 5247
-  date: '1992-03-26T16:51:52'
+  date: '1990-07-17T13:18:28'
   crc: '0xe3d38504'
 - name: EGA\D3\DP037
   size: 1910
-  date: '1992-03-26T16:51:52'
+  date: '1990-07-17T13:18:28'
   crc: '0xdbbd7671'
 - name: EGA\D3\DP038
   size: 531
-  date: '1992-03-26T16:51:52'
+  date: '1990-07-17T13:18:28'
   crc: '0x68c8d7a2'
 - name: EGA\D3\DP039
   size: 236
-  date: '1992-03-26T16:51:52'
+  date: '1990-07-17T13:18:28'
   crc: '0x3d37c50f'
 - name: EGA\D3\DP040
   size: 1083
-  date: '1992-03-26T16:51:54'
+  date: '1990-07-17T13:18:28'
   crc: '0x5ef46e01'
 - name: EGA\D3\DP041
   size: 1083
-  date: '1992-03-26T16:51:54'
+  date: '1990-07-17T13:18:30'
   crc: '0xcde3acaa'
 - name: EGA\D3\DP042
   size: 276
-  date: '1992-03-26T16:51:54'
+  date: '1990-07-17T13:18:30'
   crc: '0x64f9ece9'
 - name: EGA\D3\DP043
   size: 277
-  date: '1992-03-26T16:51:54'
+  date: '1990-07-17T13:18:30'
   crc: '0x921a12e8'
 - name: EGA\D3\DP044
   size: 160
-  date: '1992-03-26T16:51:54'
+  date: '1990-07-17T13:18:30'
   crc: '0x0e02e508'
 - name: EGA\D3\DP045
   size: 162
-  date: '1992-03-26T16:51:54'
+  date: '1990-07-17T13:18:30'
   crc: '0x169a8857'
 - name: EGA\D3\DP046
   size: 2224
-  date: '1992-03-26T16:51:54'
+  date: '1990-07-17T13:18:30'
   crc: '0x54b247bb'
 - name: EGA\D3\DP047
   size: 2223
-  date: '1992-03-26T16:51:54'
+  date: '1990-07-17T13:18:30'
   crc: '0xc912b7b0'
 - name: EGA\D3\DP048
   size: 454
-  date: '1992-03-26T16:51:54'
+  date: '1990-07-17T13:18:30'
   crc: '0x4c5abb5e'
 - name: EGA\D3\DP049
   size: 458
-  date: '1992-03-26T16:51:54'
+  date: '1990-07-17T13:18:30'
   crc: '0x300073a5'
 - name: EGA\D3\DP050
   size: 103
-  date: '1992-03-26T16:51:54'
+  date: '1990-07-17T13:18:30'
   crc: '0x360c4b3a'
 - name: EGA\D3\DP051
   size: 103
-  date: '1992-03-26T16:51:54'
+  date: '1990-07-17T13:18:30'
   crc: '0xb7327abd'
 - name: EGA\D3\DP052
   size: 363
-  date: '1992-03-26T16:51:54'
+  date: '1990-07-17T13:18:30'
   crc: '0xacb1ac8b'
 - name: EGA\D3\DP053
   size: 361
-  date: '1992-03-26T16:51:54'
+  date: '1990-07-17T13:18:30'
   crc: '0x1f71e0c5'
 - name: EGA\D3\DP054
   size: 250
-  date: '1992-03-26T16:51:56'
+  date: '1990-07-17T13:18:30'
   crc: '0x2f69b55b'
 - name: EGA\D3\DP055
   size: 248
-  date: '1992-03-26T16:51:56'
+  date: '1990-07-17T13:18:30'
   crc: '0x449c51d6'
 - name: EGA\D3\DP056
   size: 221
-  date: '1992-03-26T16:51:56'
+  date: '1990-07-17T13:18:30'
   crc: '0xd0bbb2da'
 - name: EGA\D3\DP057
   size: 219
-  date: '1992-03-26T16:51:56'
+  date: '1990-07-17T13:18:30'
   crc: '0xb7131dda'
 - name: EGA\D3\DP058
   size: 5920
-  date: '1992-03-26T16:51:56'
+  date: '1990-07-17T13:18:30'
   crc: '0x6eb6ef17'
 - name: EGA\D3\DP059
   size: 5853
-  date: '1992-03-26T16:51:56'
+  date: '1990-07-17T13:18:30'
   crc: '0xb4458dc7'
 - name: EGA\D3\DP060
   size: 6430
-  date: '1992-03-26T16:51:56'
+  date: '1990-07-17T13:18:30'
   crc: '0xbdccc99b'
 - name: EGA\D3\DP067
   size: 597
-  date: '1992-03-26T16:51:56'
+  date: '1990-07-17T13:18:30'
   crc: '0x6e579590'
 - name: EGA\D3\DP068
   size: 312
-  date: '1992-03-26T16:51:56'
+  date: '1990-07-17T13:18:30'
   crc: '0xc9e522aa'
 - name: EGA\D3\DP069
   size: 316
-  date: '1992-03-26T16:51:56'
+  date: '1990-07-17T13:18:30'
   crc: '0x8f0f890f'
 - name: EGA\D4\
   size: 0
-  date: '2014-11-22T15:59:58'
+  date: '1990-07-17T13:00:12'
 - name: EGA\D4\DP001
   size: 2482
-  date: '1992-03-26T16:45:18'
+  date: '1990-07-17T13:19:14'
   crc: '0x86e99076'
 - name: EGA\D4\DP014
   size: 3933
-  date: '1992-03-26T16:45:20'
+  date: '1990-07-17T13:19:14'
   crc: '0xc09e896f'
 - name: EGA\D4\DP015
   size: 1519
-  date: '1992-03-26T16:45:20'
+  date: '1990-07-17T13:19:14'
   crc: '0x441cdd8e'
 - name: EGA\D4\DP016
   size: 358
-  date: '1992-03-26T16:45:20'
+  date: '1990-07-17T13:19:14'
   crc: '0x0d5eecdf'
 - name: EGA\D4\DP017
   size: 130
-  date: '1992-03-26T16:45:20'
+  date: '1990-07-17T13:19:14'
   crc: '0xc1385da8'
 - name: EGA\D4\DP018
   size: 885
-  date: '1992-03-26T16:45:20'
+  date: '1990-07-17T13:19:14'
   crc: '0x31fc1deb'
 - name: EGA\D4\DP019
   size: 928
-  date: '1992-03-26T16:45:20'
+  date: '1990-07-17T13:19:14'
   crc: '0x18967d80'
 - name: EGA\D4\DP020
   size: 180
-  date: '1992-03-26T16:45:20'
+  date: '1990-07-17T13:19:14'
   crc: '0xbd92d851'
 - name: EGA\D4\DP021
   size: 190
-  date: '1992-03-26T16:45:20'
+  date: '1990-07-17T13:19:14'
   crc: '0xe9422fc4'
 - name: EGA\D4\DP022
   size: 88
-  date: '1992-03-26T16:45:20'
+  date: '1990-07-17T13:19:14'
   crc: '0x4afa21d9'
 - name: EGA\D4\DP023
   size: 93
-  date: '1992-03-26T16:45:20'
+  date: '1990-07-17T13:19:14'
   crc: '0xa66f1737'
 - name: EGA\D4\DP024
   size: 1834
-  date: '1992-03-26T16:45:20'
+  date: '1990-07-17T13:19:14'
   crc: '0x01b86e89'
 - name: EGA\D4\DP025
   size: 1835
-  date: '1992-03-26T16:45:20'
+  date: '1990-07-17T13:19:14'
   crc: '0xc64e9fc0'
 - name: EGA\D4\DP026
   size: 408
-  date: '1992-03-26T16:45:20'
+  date: '1990-07-17T13:19:14'
   crc: '0x3e785282'
 - name: EGA\D4\DP027
   size: 408
-  date: '1992-03-26T16:45:20'
+  date: '1990-07-17T13:19:14'
   crc: '0xfcf53031'
 - name: EGA\D4\DP028
   size: 59
-  date: '1992-03-26T16:45:20'
+  date: '1990-07-17T13:19:14'
   crc: '0xf5611e9d'
 - name: EGA\D4\DP029
   size: 59
-  date: '1992-03-26T16:45:22'
+  date: '1990-07-17T13:19:14'
   crc: '0x37c9c09b'
 - name: EGA\D4\DP030
   size: 279
-  date: '1992-03-26T16:45:22'
+  date: '1990-07-17T13:19:14'
   crc: '0xf44fb9bd'
 - name: EGA\D4\DP031
   size: 278
-  date: '1992-03-26T16:45:22'
+  date: '1990-07-17T13:19:14'
   crc: '0xa1a81083'
 - name: EGA\D4\DP032
   size: 181
-  date: '1992-03-26T16:45:22'
+  date: '1990-07-17T13:19:14'
   crc: '0x4a5a4ab6'
 - name: EGA\D4\DP033
   size: 181
-  date: '1992-03-26T16:45:22'
+  date: '1990-07-17T13:19:14'
   crc: '0xd89fae27'
 - name: EGA\D4\DP034
   size: 118
-  date: '1992-03-26T16:45:22'
+  date: '1990-07-17T13:19:14'
   crc: '0x4fc14a58'
 - name: EGA\D4\DP035
   size: 120
-  date: '1992-03-26T16:45:22'
+  date: '1990-07-17T13:19:14'
   crc: '0xf921a580'
 - name: EGA\D4\DP036
   size: 5332
-  date: '1992-03-26T16:45:22'
+  date: '1990-07-17T13:19:14'
   crc: '0x46c05208'
 - name: EGA\D4\DP037
   size: 1813
-  date: '1992-03-26T16:45:22'
+  date: '1990-07-17T13:19:14'
   crc: '0x5f4fd748'
 - name: EGA\D4\DP038
   size: 491
-  date: '1992-03-26T16:45:22'
+  date: '1990-07-17T13:19:14'
   crc: '0x4ebf4029'
 - name: EGA\D4\DP039
   size: 206
-  date: '1992-03-26T16:45:22'
+  date: '1990-07-17T13:19:14'
   crc: '0xd3d7f71c'
 - name: EGA\D4\DP040
   size: 1090
-  date: '1992-03-26T16:45:22'
+  date: '1990-07-17T13:19:14'
   crc: '0xe6c29734'
 - name: EGA\D4\DP041
   size: 1080
-  date: '1992-03-26T16:45:22'
+  date: '1990-07-17T13:19:14'
   crc: '0x403dba9d'
 - name: EGA\D4\DP042
   size: 263
-  date: '1992-03-26T16:45:22'
+  date: '1990-07-17T13:19:14'
   crc: '0xa7fa293c'
 - name: EGA\D4\DP043
   size: 260
-  date: '1992-03-26T16:45:22'
+  date: '1990-07-17T13:19:14'
   crc: '0x224fa710'
 - name: EGA\D4\DP044
   size: 152
-  date: '1992-03-26T16:45:24'
+  date: '1990-07-17T13:19:16'
   crc: '0x69dfde60'
 - name: EGA\D4\DP045
   size: 151
-  date: '1992-03-26T16:45:24'
+  date: '1990-07-17T13:19:16'
   crc: '0xe47122ff'
 - name: EGA\D4\DP046
   size: 2058
-  date: '1992-03-26T16:45:24'
+  date: '1990-07-17T13:19:16'
   crc: '0x701ce67a'
 - name: EGA\D4\DP047
   size: 2061
-  date: '1992-03-26T16:45:24'
+  date: '1990-07-17T13:19:16'
   crc: '0x1d6d4db6'
 - name: EGA\D4\DP048
   size: 488
-  date: '1992-03-26T16:45:24'
+  date: '1990-07-17T13:19:16'
   crc: '0xf8f86312'
 - name: EGA\D4\DP049
   size: 488
-  date: '1992-03-26T16:45:24'
+  date: '1990-07-17T13:19:16'
   crc: '0x40c4226a'
 - name: EGA\D4\DP050
   size: 83
-  date: '1992-03-26T16:45:24'
+  date: '1990-07-17T13:19:16'
   crc: '0xd038190c'
 - name: EGA\D4\DP051
   size: 83
-  date: '1992-03-26T16:45:24'
+  date: '1990-07-17T13:19:16'
   crc: '0xbbcd338f'
 - name: EGA\D4\DP052
   size: 369
-  date: '1992-03-26T16:45:24'
+  date: '1990-07-17T13:19:16'
   crc: '0xebf5f942'
 - name: EGA\D4\DP053
   size: 369
-  date: '1992-03-26T16:45:24'
+  date: '1990-07-17T13:19:16'
   crc: '0xf7e2878d'
 - name: EGA\D4\DP054
   size: 242
-  date: '1992-03-26T16:45:24'
+  date: '1990-07-17T13:19:16'
   crc: '0x2d94a84c'
 - name: EGA\D4\DP055
   size: 243
-  date: '1992-03-26T16:45:24'
+  date: '1990-07-17T13:19:16'
   crc: '0x5e169f6c'
 - name: EGA\D4\DP056
   size: 206
-  date: '1992-03-26T16:45:24'
+  date: '1990-07-17T13:19:16'
   crc: '0xc3a44298'
 - name: EGA\D4\DP057
   size: 208
-  date: '1992-03-26T16:45:24'
+  date: '1990-07-17T13:19:16'
   crc: '0xcb6510d8'
 - name: EGA\D4\DP058
   size: 3721
-  date: '1992-03-26T16:45:24'
+  date: '1990-07-17T13:19:16'
   crc: '0x8e905e25'
 - name: EGA\D4\DP059
   size: 3752
-  date: '1992-03-26T16:45:26'
+  date: '1990-07-17T13:19:16'
   crc: '0x4c0318a5'
 - name: EGA\D4\DP060
   size: 5069
-  date: '1992-03-26T16:45:26'
+  date: '1990-07-17T13:19:16'
   crc: '0x93afea18'
 - name: EGA\D4\DP067
   size: 597
-  date: '1992-03-26T16:45:26'
+  date: '1990-07-17T13:19:16'
   crc: '0x6e579590'
 - name: EGA\D4\DP068
   size: 312
-  date: '1992-03-26T16:45:26'
+  date: '1990-07-17T13:19:16'
   crc: '0xc9e522aa'
 - name: EGA\D4\DP069
   size: 316
-  date: '1992-03-26T16:45:26'
+  date: '1990-07-17T13:19:16'
   crc: '0x8f0f890f'
 - name: EGA\D5\
   size: 0
-  date: '2014-11-22T16:00:00'
+  date: '1990-07-17T13:00:12'
 - name: EGA\D5\DP001
   size: 4544
-  date: '1992-03-26T16:45:40'
+  date: '1990-07-17T13:19:58'
   crc: '0x3eb4b9c9'
 - name: EGA\D5\DP014
   size: 6285
-  date: '1992-03-26T16:45:40'
+  date: '1990-07-17T13:19:58'
   crc: '0x4d9f0aec'
 - name: EGA\D5\DP015
   size: 1985
-  date: '1992-03-26T16:45:40'
+  date: '1990-07-17T13:19:58'
   crc: '0x7a49883f'
 - name: EGA\D5\DP016
   size: 577
-  date: '1992-03-26T16:45:40'
+  date: '1990-07-17T13:19:58'
   crc: '0x7ce15f8c'
 - name: EGA\D5\DP017
   size: 185
-  date: '1992-03-26T16:45:40'
+  date: '1990-07-17T13:19:58'
   crc: '0x9bbfa456'
 - name: EGA\D5\DP018
   size: 1155
-  date: '1992-03-26T16:45:42'
+  date: '1990-07-17T13:19:58'
   crc: '0x57c95c70'
 - name: EGA\D5\DP019
   size: 1179
-  date: '1992-03-26T16:45:42'
+  date: '1990-07-17T13:19:58'
   crc: '0x6289719b'
 - name: EGA\D5\DP020
   size: 299
-  date: '1992-03-26T16:45:42'
+  date: '1990-07-17T13:19:58'
   crc: '0xff9b8cf8'
 - name: EGA\D5\DP021
   size: 300
-  date: '1992-03-26T16:45:42'
+  date: '1990-07-17T13:19:58'
   crc: '0xf461fb74'
 - name: EGA\D5\DP022
   size: 144
-  date: '1992-03-26T16:45:42'
+  date: '1990-07-17T13:19:58'
   crc: '0x734c6f29'
 - name: EGA\D5\DP023
   size: 99
-  date: '1992-03-26T16:45:42'
+  date: '1990-07-17T13:19:58'
   crc: '0xcd99e2f3'
 - name: EGA\D5\DP024
   size: 2387
-  date: '1992-03-26T16:45:42'
+  date: '1990-07-17T13:19:58'
   crc: '0x63376007'
 - name: EGA\D5\DP025
   size: 2388
-  date: '1992-03-26T16:45:42'
+  date: '1990-07-17T13:19:58'
   crc: '0x3d433557'
 - name: EGA\D5\DP026
   size: 590
-  date: '1992-03-26T16:45:42'
+  date: '1990-07-17T13:19:58'
   crc: '0xddd02bab'
 - name: EGA\D5\DP027
   size: 589
-  date: '1992-03-26T16:45:42'
+  date: '1990-07-17T13:19:58'
   crc: '0xb550e4da'
 - name: EGA\D5\DP028
   size: 120
-  date: '1992-03-26T16:45:42'
+  date: '1990-07-17T13:19:58'
   crc: '0xe3e82703'
 - name: EGA\D5\DP029
   size: 120
-  date: '1992-03-26T16:45:42'
+  date: '1990-07-17T13:19:58'
   crc: '0x83217469'
 - name: EGA\D5\DP030
   size: 382
-  date: '1992-03-26T16:45:42'
+  date: '1990-07-17T13:19:58'
   crc: '0x72e3b1e2'
 - name: EGA\D5\DP031
   size: 377
-  date: '1992-03-26T16:45:42'
+  date: '1990-07-17T13:19:58'
   crc: '0x4aa99b07'
 - name: EGA\D5\DP032
   size: 289
-  date: '1992-03-26T16:45:42'
+  date: '1990-07-17T13:19:58'
   crc: '0xd115fc81'
 - name: EGA\D5\DP033
   size: 288
-  date: '1992-03-26T16:45:42'
+  date: '1990-07-17T13:19:58'
   crc: '0x6b3e6ea4'
 - name: EGA\D5\DP034
   size: 194
-  date: '1992-03-26T16:45:44'
+  date: '1990-07-17T13:19:58'
   crc: '0xd19792a8'
 - name: EGA\D5\DP035
   size: 192
-  date: '1992-03-26T16:45:44'
+  date: '1990-07-17T13:19:58'
   crc: '0x38d9a454'
 - name: EGA\D5\DP036
   size: 5577
-  date: '1992-03-26T16:45:44'
+  date: '1990-07-17T13:19:58'
   crc: '0xafd48a42'
 - name: EGA\D5\DP037
   size: 1929
-  date: '1992-03-26T16:45:44'
+  date: '1990-07-17T13:19:58'
   crc: '0x04bf7b9a'
 - name: EGA\D5\DP038
   size: 577
-  date: '1992-03-26T16:45:44'
+  date: '1990-07-17T13:19:58'
   crc: '0x35a2e53d'
 - name: EGA\D5\DP039
   size: 260
-  date: '1992-03-26T16:45:44'
+  date: '1990-07-17T13:19:58'
   crc: '0x89b84a07'
 - name: EGA\D5\DP040
   size: 1164
-  date: '1992-03-26T16:45:44'
+  date: '1990-07-17T13:19:58'
   crc: '0x2ad89b7a'
 - name: EGA\D5\DP041
   size: 1164
-  date: '1992-03-26T16:45:44'
+  date: '1990-07-17T13:19:58'
   crc: '0xf85353e5'
 - name: EGA\D5\DP042
   size: 299
-  date: '1992-03-26T16:45:44'
+  date: '1990-07-17T13:20:00'
   crc: '0x6ff81262'
 - name: EGA\D5\DP043
   size: 300
-  date: '1992-03-26T16:45:44'
+  date: '1990-07-17T13:20:00'
   crc: '0xa9389b47'
 - name: EGA\D5\DP044
   size: 179
-  date: '1992-03-26T16:45:44'
+  date: '1990-07-17T13:20:00'
   crc: '0x47eff010'
 - name: EGA\D5\DP045
   size: 179
-  date: '1992-03-26T16:45:44'
+  date: '1990-07-17T13:20:00'
   crc: '0xb83f5c21'
 - name: EGA\D5\DP046
   size: 2387
-  date: '1992-03-26T16:45:44'
+  date: '1990-07-17T13:20:00'
   crc: '0x0c657f5f'
 - name: EGA\D5\DP047
   size: 2388
-  date: '1992-03-26T16:45:44'
+  date: '1990-07-17T13:20:00'
   crc: '0x60f57183'
 - name: EGA\D5\DP048
   size: 590
-  date: '1992-03-26T16:45:44'
+  date: '1990-07-17T13:20:00'
   crc: '0x5b7c2455'
 - name: EGA\D5\DP049
   size: 589
-  date: '1992-03-26T16:45:46'
+  date: '1990-07-17T13:20:00'
   crc: '0x510b476f'
 - name: EGA\D5\DP050
   size: 120
-  date: '1992-03-26T16:45:46'
+  date: '1990-07-17T13:20:00'
   crc: '0x6c357270'
 - name: EGA\D5\DP051
   size: 120
-  date: '1992-03-26T16:45:46'
+  date: '1990-07-17T13:20:00'
   crc: '0x3464c672'
 - name: EGA\D5\DP052
   size: 389
-  date: '1992-03-26T16:45:46'
+  date: '1990-07-17T13:20:00'
   crc: '0x491a5939'
 - name: EGA\D5\DP053
   size: 387
-  date: '1992-03-26T16:45:46'
+  date: '1990-07-17T13:20:00'
   crc: '0xa8ff6ca3'
 - name: EGA\D5\DP054
   size: 289
-  date: '1992-03-26T16:45:46'
+  date: '1990-07-17T13:20:00'
   crc: '0x9d57b8db'
 - name: EGA\D5\DP055
   size: 288
-  date: '1992-03-26T16:45:46'
+  date: '1990-07-17T13:20:00'
   crc: '0xc395bf66'
 - name: EGA\D5\DP056
   size: 224
-  date: '1992-03-26T16:45:46'
+  date: '1990-07-17T13:20:00'
   crc: '0x4ad83bf6'
 - name: EGA\D5\DP057
   size: 221
-  date: '1992-03-26T16:45:46'
+  date: '1990-07-17T13:20:00'
   crc: '0xff2cc7e4'
 - name: EGA\D5\DP058
   size: 6687
-  date: '1992-03-26T16:45:46'
+  date: '1990-07-17T13:20:00'
   crc: '0xa4b16c62'
 - name: EGA\D5\DP059
   size: 6260
-  date: '1992-03-26T16:45:46'
+  date: '1990-07-17T13:20:00'
   crc: '0x2c414a2d'
 - name: EGA\D5\DP060
   size: 5577
-  date: '1992-03-26T16:45:46'
+  date: '1990-07-17T13:20:00'
   crc: '0xafd48a42'
 - name: EGA\D5\DP067
   size: 597
-  date: '1992-03-26T16:45:46'
+  date: '1990-07-17T13:20:00'
   crc: '0x6e579590'
 - name: EGA\D5\DP068
   size: 312
-  date: '1992-03-26T16:45:46'
+  date: '1990-07-17T13:20:00'
   crc: '0xc9e522aa'
 - name: EGA\D5\DP069
   size: 316
-  date: '1992-03-26T16:45:48'
+  date: '1990-07-17T13:20:00'
   crc: '0x8f0f890f'
 - name: EGA\D6\
   size: 0
-  date: '2014-11-22T16:00:00'
+  date: '1990-07-17T13:00:12'
 - name: EGA\D6\DP001
   size: 3429
-  date: '1992-03-26T16:52:14'
+  date: '1990-07-17T13:20:48'
   crc: '0x3ad1d9bc'
 - name: EGA\D6\DP014
   size: 5904
-  date: '1992-03-26T16:52:14'
+  date: '1990-07-17T13:20:48'
   crc: '0xc12a252f'
 - name: EGA\D6\DP015
   size: 1912
-  date: '1992-03-26T16:52:14'
+  date: '1990-07-17T13:20:48'
   crc: '0xea4ae702'
 - name: EGA\D6\DP016
   size: 591
-  date: '1992-03-26T16:52:14'
+  date: '1990-07-17T13:20:48'
   crc: '0x577559d7'
 - name: EGA\D6\DP017
   size: 284
-  date: '1992-03-26T16:52:14'
+  date: '1990-07-17T13:20:48'
   crc: '0x0c129ae6'
 - name: EGA\D6\DP018
   size: 1183
-  date: '1992-03-26T16:52:14'
+  date: '1990-07-17T13:20:48'
   crc: '0x92c5f034'
 - name: EGA\D6\DP019
   size: 1191
-  date: '1992-03-26T16:52:14'
+  date: '1990-07-17T13:20:48'
   crc: '0xb65fe522'
 - name: EGA\D6\DP020
   size: 301
-  date: '1992-03-26T16:52:14'
+  date: '1990-07-17T13:20:48'
   crc: '0x8434be71'
 - name: EGA\D6\DP021
   size: 301
-  date: '1992-03-26T16:52:14'
+  date: '1990-07-17T13:20:48'
   crc: '0xcbb90b08'
 - name: EGA\D6\DP022
   size: 189
-  date: '1992-03-26T16:52:14'
+  date: '1990-07-17T13:20:48'
   crc: '0x0d8c3987'
 - name: EGA\D6\DP023
   size: 189
-  date: '1992-03-26T16:52:14'
+  date: '1990-07-17T13:20:48'
   crc: '0x1774ca0a'
 - name: EGA\D6\DP024
   size: 2391
-  date: '1992-03-26T16:52:14'
+  date: '1990-07-17T13:20:48'
   crc: '0x7c738e89'
 - name: EGA\D6\DP025
   size: 2389
-  date: '1992-03-26T16:52:16'
+  date: '1990-07-17T13:20:48'
   crc: '0x43a8812c'
 - name: EGA\D6\DP026
   size: 599
-  date: '1992-03-26T16:52:16'
+  date: '1990-07-17T13:20:50'
   crc: '0xfbaf270f'
 - name: EGA\D6\DP027
   size: 599
-  date: '1992-03-26T16:52:16'
+  date: '1990-07-17T13:20:50'
   crc: '0x782b7d16'
 - name: EGA\D6\DP028
   size: 109
-  date: '1992-03-26T16:52:16'
+  date: '1990-07-17T13:20:50'
   crc: '0x9bf8f746'
 - name: EGA\D6\DP029
   size: 109
-  date: '1992-03-26T16:52:16'
+  date: '1990-07-17T13:20:50'
   crc: '0x95602a06'
 - name: EGA\D6\DP030
   size: 374
-  date: '1992-03-26T16:52:16'
+  date: '1990-07-17T13:20:50'
   crc: '0x70a8e0ee'
 - name: EGA\D6\DP031
   size: 366
-  date: '1992-03-26T16:52:16'
+  date: '1990-07-17T13:20:50'
   crc: '0x1854b0ca'
 - name: EGA\D6\DP032
   size: 295
-  date: '1992-03-26T16:52:16'
+  date: '1990-07-17T13:20:50'
   crc: '0xe3b7c6ea'
 - name: EGA\D6\DP033
   size: 294
-  date: '1992-03-26T16:52:16'
+  date: '1990-07-17T13:20:50'
   crc: '0x90342a7f'
 - name: EGA\D6\DP034
   size: 248
-  date: '1992-03-26T16:52:16'
+  date: '1990-07-17T13:20:50'
   crc: '0x77add3bd'
 - name: EGA\D6\DP035
   size: 246
-  date: '1992-03-26T16:52:16'
+  date: '1990-07-17T13:20:50'
   crc: '0x860f1235'
 - name: EGA\D6\DP036
   size: 5146
-  date: '1992-03-26T16:52:16'
+  date: '1990-07-17T13:20:50'
   crc: '0x8ac6d179'
 - name: EGA\D6\DP037
   size: 2032
-  date: '1992-03-26T16:52:16'
+  date: '1990-07-17T13:20:50'
   crc: '0xcde43025'
 - name: EGA\D6\DP038
   size: 591
-  date: '1992-03-26T16:52:16'
+  date: '1990-07-17T13:20:50'
   crc: '0x3fba336c'
 - name: EGA\D6\DP039
   size: 296
-  date: '1992-03-26T16:52:16'
+  date: '1990-07-17T13:20:50'
   crc: '0x482238a9'
 - name: EGA\D6\DP040
   size: 1185
-  date: '1992-03-26T16:52:18'
+  date: '1990-07-17T13:20:50'
   crc: '0x9583cb7b'
 - name: EGA\D6\DP041
   size: 1191
-  date: '1992-03-26T16:52:18'
+  date: '1990-07-17T13:20:50'
   crc: '0x7126b1f0'
 - name: EGA\D6\DP042
   size: 301
-  date: '1992-03-26T16:52:18'
+  date: '1990-07-17T13:20:50'
   crc: '0xbb9ef233'
 - name: EGA\D6\DP043
   size: 301
-  date: '1992-03-26T16:52:18'
+  date: '1990-07-17T13:20:50'
   crc: '0x50c0be83'
 - name: EGA\D6\DP044
   size: 186
-  date: '1992-03-26T16:52:18'
+  date: '1990-07-17T13:20:50'
   crc: '0x414e8892'
 - name: EGA\D6\DP045
   size: 201
-  date: '1992-03-26T16:52:18'
+  date: '1990-07-17T13:20:50'
   crc: '0x7c5a909a'
 - name: EGA\D6\DP046
   size: 2387
-  date: '1992-03-26T16:52:18'
+  date: '1990-07-17T13:20:50'
   crc: '0x36b26b77'
 - name: EGA\D6\DP047
   size: 2388
-  date: '1992-03-26T16:52:18'
+  date: '1990-07-17T13:20:50'
   crc: '0xdca7c4c1'
 - name: EGA\D6\DP048
   size: 599
-  date: '1992-03-26T16:52:18'
+  date: '1990-07-17T13:20:50'
   crc: '0x8c5c4f46'
 - name: EGA\D6\DP049
   size: 599
-  date: '1992-03-26T16:52:18'
+  date: '1990-07-17T13:20:50'
   crc: '0xd8d64616'
 - name: EGA\D6\DP050
   size: 131
-  date: '1992-03-26T16:52:18'
+  date: '1990-07-17T13:20:50'
   crc: '0xb1f2f9fa'
 - name: EGA\D6\DP051
   size: 131
-  date: '1992-03-26T16:52:18'
+  date: '1990-07-17T13:20:50'
   crc: '0xbd18b496'
 - name: EGA\D6\DP052
   size: 399
-  date: '1992-03-26T16:52:18'
+  date: '1990-07-17T13:20:50'
   crc: '0x78ba1413'
 - name: EGA\D6\DP053
   size: 397
-  date: '1992-03-26T16:52:18'
+  date: '1990-07-17T13:20:50'
   crc: '0x5758b8ad'
 - name: EGA\D6\DP054
   size: 289
-  date: '1992-03-26T16:52:20'
+  date: '1990-07-17T13:20:50'
   crc: '0xccb79411'
 - name: EGA\D6\DP055
   size: 288
-  date: '1992-03-26T16:52:20'
+  date: '1990-07-17T13:20:50'
   crc: '0xaa5d59ae'
 - name: EGA\D6\DP056
   size: 258
-  date: '1992-03-26T16:52:20'
+  date: '1990-07-17T13:20:50'
   crc: '0x23488362'
 - name: EGA\D6\DP057
   size: 256
-  date: '1992-03-26T16:52:20'
+  date: '1990-07-17T13:20:50'
   crc: '0x8f73572a'
 - name: EGA\D6\DP058
   size: 6255
-  date: '1992-03-26T16:52:20'
+  date: '1990-07-17T13:20:52'
   crc: '0x1b3793ce'
 - name: EGA\D6\DP059
   size: 6225
-  date: '1992-03-26T16:52:20'
+  date: '1990-07-17T13:20:52'
   crc: '0xafe2b0a7'
 - name: EGA\D6\DP060
   size: 6115
-  date: '1992-03-26T16:52:20'
+  date: '1990-07-17T13:20:52'
   crc: '0x8a1827e5'
 - name: EGA\D6\DP067
   size: 597
-  date: '1992-03-26T16:52:20'
+  date: '1990-07-17T13:20:52'
   crc: '0x6e579590'
 - name: EGA\D6\DP068
   size: 312
-  date: '1992-03-26T16:52:20'
+  date: '1990-07-17T13:20:52'
   crc: '0xc9e522aa'
 - name: EGA\D6\DP069
   size: 316
-  date: '1992-03-26T16:52:20'
+  date: '1990-07-17T13:20:52'
   crc: '0x8f0f890f'
 - name: EGA\D7\
   size: 0
-  date: '2014-11-22T16:00:02'
+  date: '1990-07-17T13:00:12'
 - name: EGA\D7\DP001
   size: 3620
-  date: '1992-03-26T16:49:08'
+  date: '1990-07-17T13:21:42'
   crc: '0x43bb964e'
 - name: EGA\D7\DP014
   size: 6608
-  date: '1992-03-26T16:49:08'
+  date: '1990-07-17T13:21:42'
   crc: '0xbed26a51'
 - name: EGA\D7\DP015
   size: 2315
-  date: '1992-03-26T16:49:08'
+  date: '1990-07-17T13:21:42'
   crc: '0x44eac568'
 - name: EGA\D7\DP016
   size: 535
-  date: '1992-03-26T16:49:10'
+  date: '1990-07-17T13:21:42'
   crc: '0x4cb4e6fa'
 - name: EGA\D7\DP017
   size: 170
-  date: '1992-03-26T16:49:10'
+  date: '1990-07-17T13:21:42'
   crc: '0xacae9331'
 - name: EGA\D7\DP018
   size: 1189
-  date: '1992-03-26T16:49:10'
+  date: '1990-07-17T13:21:42'
   crc: '0x58297628'
 - name: EGA\D7\DP019
   size: 1191
-  date: '1992-03-26T16:49:10'
+  date: '1990-07-17T13:21:42'
   crc: '0xd1de57b7'
 - name: EGA\D7\DP020
   size: 277
-  date: '1992-03-26T16:49:10'
+  date: '1990-07-17T13:21:42'
   crc: '0xaa2ea4fc'
 - name: EGA\D7\DP021
   size: 250
-  date: '1992-03-26T16:49:10'
+  date: '1990-07-17T13:21:42'
   crc: '0x8cac3732'
 - name: EGA\D7\DP022
   size: 117
-  date: '1992-03-26T16:49:10'
+  date: '1990-07-17T13:21:42'
   crc: '0xa1d0f2be'
 - name: EGA\D7\DP023
   size: 111
-  date: '1992-03-26T16:49:10'
+  date: '1990-07-17T13:21:42'
   crc: '0x8bdb4820'
 - name: EGA\D7\DP024
   size: 2374
-  date: '1992-03-26T16:49:10'
+  date: '1990-07-17T13:21:42'
   crc: '0xfbfc847b'
 - name: EGA\D7\DP025
   size: 2379
-  date: '1992-03-26T16:49:10'
+  date: '1990-07-17T13:21:42'
   crc: '0x686e15ef'
 - name: EGA\D7\DP026
   size: 596
-  date: '1992-03-26T16:49:10'
+  date: '1990-07-17T13:21:44'
   crc: '0x1a9f8c1c'
 - name: EGA\D7\DP027
   size: 598
-  date: '1992-03-26T16:49:10'
+  date: '1990-07-17T13:21:44'
   crc: '0x4b99f5bd'
 - name: EGA\D7\DP028
   size: 59
-  date: '1992-03-26T16:49:10'
+  date: '1990-07-17T13:21:44'
   crc: '0xad521a71'
 - name: EGA\D7\DP029
   size: 59
-  date: '1992-03-26T16:49:10'
+  date: '1990-07-17T13:21:44'
   crc: '0x511581cf'
 - name: EGA\D7\DP030
   size: 486
-  date: '1992-03-26T16:49:10'
+  date: '1990-07-17T13:21:44'
   crc: '0xe82f9267'
 - name: EGA\D7\DP031
   size: 483
-  date: '1992-03-26T16:49:12'
+  date: '1990-07-17T13:21:44'
   crc: '0x956fb22f'
 - name: EGA\D7\DP032
   size: 127
-  date: '1992-03-26T16:49:12'
+  date: '1990-07-17T13:21:44'
   crc: '0x190386c4'
 - name: EGA\D7\DP033
   size: 127
-  date: '1992-03-26T16:49:12'
+  date: '1990-07-17T13:21:44'
   crc: '0x9ebdf9c1'
 - name: EGA\D7\DP034
   size: 120
-  date: '1992-03-26T16:49:12'
+  date: '1990-07-17T13:21:44'
   crc: '0x3b671ded'
 - name: EGA\D7\DP035
   size: 118
-  date: '1992-03-26T16:49:12'
+  date: '1990-07-17T13:21:44'
   crc: '0x8b04bd74'
 - name: EGA\D7\DP036
   size: 5149
-  date: '1992-03-26T16:49:12'
+  date: '1990-07-17T13:21:44'
   crc: '0xd29e4311'
 - name: EGA\D7\DP037
   size: 2150
-  date: '1992-03-26T16:49:12'
+  date: '1990-07-17T13:21:44'
   crc: '0xd9a220e0'
 - name: EGA\D7\DP038
   size: 529
-  date: '1992-03-26T16:49:12'
+  date: '1990-07-17T13:21:44'
   crc: '0x7b906bbc'
 - name: EGA\D7\DP039
   size: 149
-  date: '1992-03-26T16:49:12'
+  date: '1990-07-17T13:21:44'
   crc: '0x4b35257c'
 - name: EGA\D7\DP040
   size: 1191
-  date: '1992-03-26T16:49:12'
+  date: '1990-07-17T13:21:44'
   crc: '0x40a8f98b'
 - name: EGA\D7\DP041
   size: 1191
-  date: '1992-03-26T16:49:12'
+  date: '1990-07-17T13:21:44'
   crc: '0x32cf2d25'
 - name: EGA\D7\DP042
   size: 259
-  date: '1992-03-26T16:49:12'
+  date: '1990-07-17T13:21:44'
   crc: '0x9fdb260c'
 - name: EGA\D7\DP043
   size: 283
-  date: '1992-03-26T16:49:12'
+  date: '1990-07-17T13:21:44'
   crc: '0x6a609cde'
 - name: EGA\D7\DP044
   size: 87
-  date: '1992-03-26T16:49:12'
+  date: '1990-07-17T13:21:44'
   crc: '0xe57ad20c'
 - name: EGA\D7\DP045
   size: 111
-  date: '1992-03-26T16:49:12'
+  date: '1990-07-17T13:21:44'
   crc: '0x616c873d'
 - name: EGA\D7\DP046
   size: 2380
-  date: '1992-03-26T16:49:14'
+  date: '1990-07-17T13:21:44'
   crc: '0xa05faf2d'
 - name: EGA\D7\DP047
   size: 2383
-  date: '1992-03-26T16:49:14'
+  date: '1990-07-17T13:21:44'
   crc: '0x86183872'
 - name: EGA\D7\DP048
   size: 595
-  date: '1992-03-26T16:49:14'
+  date: '1990-07-17T13:21:44'
   crc: '0x7bb67577'
 - name: EGA\D7\DP049
   size: 598
-  date: '1992-03-26T16:49:14'
+  date: '1990-07-17T13:21:44'
   crc: '0x943c5e12'
 - name: EGA\D7\DP050
   size: 79
-  date: '1992-03-26T16:49:14'
+  date: '1990-07-17T13:21:44'
   crc: '0x570935b6'
 - name: EGA\D7\DP051
   size: 79
-  date: '1992-03-26T16:49:14'
+  date: '1990-07-17T13:21:44'
   crc: '0xba42c145'
 - name: EGA\D7\DP052
   size: 538
-  date: '1992-03-26T16:49:14'
+  date: '1990-07-17T13:21:44'
   crc: '0xf24c80bb'
 - name: EGA\D7\DP053
   size: 535
-  date: '1992-03-26T16:49:14'
+  date: '1990-07-17T13:21:44'
   crc: '0x3bfdfcdd'
 - name: EGA\D7\DP054
   size: 127
-  date: '1992-03-26T16:49:14'
+  date: '1990-07-17T13:21:44'
   crc: '0xdc68c65f'
 - name: EGA\D7\DP055
   size: 127
-  date: '1992-03-26T16:49:14'
+  date: '1990-07-17T13:21:44'
   crc: '0xa2b2a5e1'
 - name: EGA\D7\DP056
   size: 126
-  date: '1992-03-26T16:49:14'
+  date: '1990-07-17T13:21:44'
   crc: '0xeef99ebf'
 - name: EGA\D7\DP057
   size: 126
-  date: '1992-03-26T16:49:14'
+  date: '1990-07-17T13:21:44'
   crc: '0x1a01889d'
 - name: EGA\D7\DP058
   size: 5536
-  date: '1992-03-26T16:49:14'
+  date: '1990-07-17T13:21:44'
   crc: '0x7283edbc'
 - name: EGA\D7\DP059
   size: 5338
-  date: '1992-03-26T16:49:14'
+  date: '1990-07-17T13:21:46'
   crc: '0x01f6ddc1'
 - name: EGA\D7\DP060
   size: 5008
-  date: '1992-03-26T16:49:16'
+  date: '1990-07-17T13:21:46'
   crc: '0xe0bdecb3'
 - name: EGA\D7\DP067
   size: 597
-  date: '1992-03-26T16:49:16'
+  date: '1990-07-17T13:21:46'
   crc: '0x6e579590'
 - name: EGA\D7\DP068
   size: 312
-  date: '1992-03-26T16:49:16'
+  date: '1990-07-17T13:21:46'
   crc: '0xc9e522aa'
 - name: EGA\D7\DP069
   size: 316
-  date: '1992-03-26T16:49:16'
+  date: '1990-07-17T13:21:46'
   crc: '0x8f0f890f'
 - name: EGA\IN\
   size: 0
-  date: '2014-11-22T16:00:02'
+  date: '1990-07-17T13:00:12'
 - name: EGA\IN\CRED
   size: 7164
-  date: '1992-03-26T16:42:16'
+  date: '1990-07-17T13:22:20'
   crc: '0xdce797eb'
 - name: EGA\IN\DRAG
   size: 17478
-  date: '1992-03-26T16:42:16'
+  date: '1990-07-17T13:22:20'
   crc: '0xff6fd4bc'
 - name: EGA\IN\TITL
   size: 4278
-  date: '1992-03-26T16:42:16'
+  date: '1990-07-17T13:22:20'
   crc: '0x14d5948b'
 - name: EGA\PAGE\
   size: 0
-  date: '2014-11-22T16:00:02'
+  date: '1990-07-17T13:00:12'
 - name: EGA\PAGE\BOOK
   size: 4065
-  date: '1992-03-26T16:49:32'
+  date: '1990-07-17T13:23:10'
   crc: '0xd1a9e9a7'
 - name: EGA\PAGE\PG00
   size: 5238
-  date: '1992-03-26T16:49:32'
+  date: '1990-07-17T13:23:10'
   crc: '0x3eb28ea0'
 - name: EGA\PAGE\PG01
   size: 6514
-  date: '1992-03-26T16:49:32'
+  date: '1990-07-17T13:23:10'
   crc: '0x0443b7a0'
 - name: EGA\PAGE\PG02
   size: 5732
-  date: '1992-03-26T16:49:32'
+  date: '1990-07-17T13:23:10'
   crc: '0xe3cc00ef'
 - name: EGA\PAGE\PG03
   size: 5716
-  date: '1992-03-26T16:49:32'
+  date: '1990-07-17T13:23:10'
   crc: '0xb648e9c2'
 - name: EGA\PAGE\PG04
   size: 6988
-  date: '1992-03-26T16:49:34'
+  date: '1990-07-17T13:23:10'
   crc: '0xfdeb32df'
 - name: EGA\PAGE\PG05
   size: 5644
-  date: '1992-03-26T16:49:34'
+  date: '1990-07-17T13:23:10'
   crc: '0x8a558942'
 - name: EGA\PAGE\PG06
   size: 6458
-  date: '1992-03-26T16:49:34'
+  date: '1990-07-17T13:23:10'
   crc: '0xf9d8dfc6'
 - name: EGA\PAGE\PG07
   size: 4920
-  date: '1992-03-26T16:49:34'
+  date: '1990-07-17T13:23:10'
   crc: '0xeb357a21'
 - name: EGA\PAGE\PG08
   size: 5754
-  date: '1992-03-26T16:49:34'
+  date: '1990-07-17T13:23:10'
   crc: '0x40751299'
 - name: EGA\PAGE\PG09
   size: 4884
-  date: '1992-03-26T16:49:34'
+  date: '1990-07-17T13:23:10'
   crc: '0xc24d5264'
 - name: EGA\TWN\
   size: 0
-  date: '2014-11-22T16:00:02'
+  date: '1990-07-17T13:00:12'
 - name: EGA\TWN\TWN00
   size: 5424
-  date: '1992-03-26T16:42:30'
+  date: '1990-07-17T13:23:52'
   crc: '0x477837d4'
 - name: EGA\TWN\TWN01
   size: 6267
-  date: '1992-03-26T16:42:30'
+  date: '1990-07-17T13:23:52'
   crc: '0x7317d16a'
 - name: EGA\TWN\TWN02
   size: 6085
-  date: '1992-03-26T16:42:30'
+  date: '1990-07-17T13:23:52'
   crc: '0xa511d410'
 - name: EGA\TWN\TWN03
   size: 6014
-  date: '1992-03-26T16:42:30'
+  date: '1990-07-17T13:23:52'
   crc: '0xba3e9bad'
 - name: EGA\TWN\TWN04
   size: 5081
-  date: '1992-03-26T16:42:30'
+  date: '1990-07-17T13:23:52'
   crc: '0xc1137dab'
 - name: EGA\TWN\TWN05
   size: 6130
-  date: '1992-03-26T16:42:32'
+  date: '1990-07-17T13:23:52'
   crc: '0x64d0708d'
 - name: EGA\UP\
   size: 0
-  date: '2014-11-22T16:00:02'
+  date: '1990-07-17T13:00:12'
 - name: EGA\UP\ARR1
   size: 161
-  date: '1992-03-26T16:42:40'
+  date: '1990-07-17T13:24:18'
   crc: '0xbd8e7410'
 - name: EGA\UP\ARR2
   size: 71
-  date: '1992-03-26T16:42:40'
+  date: '1990-07-17T13:24:18'
   crc: '0x432f83bc'
 - name: EGA\UP\ARR3
   size: 134
-  date: '1992-03-26T16:42:42'
+  date: '1990-07-17T13:24:18'
   crc: '0x4e6c26a5'
 - name: EGA\UP\ARR4
   size: 133
-  date: '1992-03-26T16:42:42'
+  date: '1990-07-17T13:24:18'
   crc: '0xea40b507'
 - name: EGA\UP\ARR5
   size: 71
-  date: '1992-03-26T16:42:42'
+  date: '1990-07-17T13:24:18'
   crc: '0x41f13ad6'
 - name: EGA\UP\ARR6
   size: 161
-  date: '1992-03-26T16:42:42'
+  date: '1990-07-17T13:24:18'
   crc: '0x7bbe9967'
 - name: EGA\UP\BLK5
   size: 642
-  date: '1992-03-26T16:42:42'
+  date: '1990-07-17T13:24:18'
   crc: '0x77fcb895'
 - name: EGA\UP\BOX1
   size: 400
-  date: '1992-03-26T16:42:42'
+  date: '1990-07-17T13:24:18'
   crc: '0xe46e0d06'
 - name: EGA\UP\BOX2
   size: 399
-  date: '1992-03-26T16:42:42'
+  date: '1990-07-17T13:24:18'
   crc: '0x82f3e452'
 - name: EGA\UP\BOX3
   size: 396
-  date: '1992-03-26T16:42:42'
+  date: '1990-07-17T13:24:18'
   crc: '0x4c4db3f3'
 - name: EGA\UP\BOX4
   size: 396
-  date: '1992-03-26T16:42:42'
+  date: '1990-07-17T13:24:18'
   crc: '0x2787f9a6'
 - name: EGA\UP\BOX5
   size: 396
-  date: '1992-03-26T16:42:42'
+  date: '1990-07-17T13:24:18'
   crc: '0x68bc106b'
 - name: EGA\UP\CHR1
   size: 3081
-  date: '1992-03-26T16:42:42'
+  date: '1990-07-17T13:24:18'
   crc: '0x722a6c23'
 - name: EGA\UP\CHR2
   size: 2010
-  date: '1992-03-26T16:42:42'
+  date: '1990-07-17T13:24:18'
   crc: '0xe02df125'
 - name: EGA\UP\CRS0
   size: 17
-  date: '1992-03-26T16:42:42'
+  date: '1990-07-17T13:24:18'
   crc: '0x443663a3'
 - name: EGA\UP\CRS1
   size: 20
-  date: '1992-03-26T16:42:42'
+  date: '1990-07-17T13:24:18'
   crc: '0x3066c386'
 - name: EGA\UP\LIN1
   size: 876
-  date: '1992-03-26T16:42:42'
+  date: '1990-07-17T13:24:18'
   crc: '0xded68f8b'
 - name: EGA\UP\LIN2
   size: 706
-  date: '1992-03-26T16:42:42'
+  date: '1990-07-17T13:24:18'
   crc: '0x07237787'
 - name: EGA\UP\MENU
   size: 9145
-  date: '1992-03-26T16:42:44'
+  date: '1990-07-17T13:24:18'
   crc: '0xc5244eac'
 - name: EGA\UP\MIN1
   size: 71
-  date: '1992-03-26T16:42:44'
+  date: '1990-07-17T13:24:18'
   crc: '0x6c38dcc4'
 - name: EGA\UP\MIN2
   size: 71
-  date: '1992-03-26T16:42:44'
+  date: '1990-07-17T13:24:18'
   crc: '0x79735b46'
 - name: EGA\UP\MIN3
   size: 71
-  date: '1992-03-26T16:42:44'
+  date: '1990-07-17T13:24:18'
   crc: '0x988e3ef3'
 - name: EGA\UP\MIN4
   size: 71
-  date: '1992-03-26T16:42:44'
+  date: '1990-07-17T13:24:18'
   crc: '0x2bd72af2'
 - name: EGA\UP\MSCR
   size: 12117
-  date: '1992-03-26T16:42:44'
+  date: '1990-07-17T13:24:20'
   crc: '0xc7a96a76'
 - name: EGA\UP\RAHM0
   size: 59
-  date: '1992-03-26T16:42:44'
+  date: '1990-07-17T13:24:20'
   crc: '0x0b88b037'
 - name: EGA\UP\UP00
   size: 624
-  date: '1992-03-26T16:42:44'
+  date: '1990-07-17T13:24:20'
   crc: '0x3d13ffc5'
 - name: EGA\UP\UP01
   size: 622
-  date: '1992-03-26T16:42:44'
+  date: '1990-07-17T13:24:20'
   crc: '0xc30c3d37'
 - name: EGA\UP\UP02
   size: 25
-  date: '1992-03-26T16:42:44'
+  date: '1990-07-17T13:24:20'
   crc: '0x878cd9be'
 - name: EGA\UP\UP03
   size: 43
-  date: '1992-03-26T16:42:44'
+  date: '1990-07-17T13:24:20'
   crc: '0xb8c608d0'
 - name: EGA\UP\UP04
   size: 45
-  date: '1992-03-26T16:42:44'
+  date: '1990-07-17T13:24:20'
   crc: '0xb7945e79'
 - name: EGA\UP\UP05
   size: 33
-  date: '1992-03-26T16:42:44'
+  date: '1990-07-17T13:24:20'
   crc: '0x891920f3'
 - name: EGA\UP\UP06
   size: 39
-  date: '1992-03-26T16:42:44'
+  date: '1990-07-17T13:24:20'
   crc: '0xd5637da2'
 - name: EGA\UP\UP07
   size: 35
-  date: '1992-03-26T16:42:44'
+  date: '1990-07-17T13:24:20'
   crc: '0x87b286ea'
 - name: EGA\UP\UP08
   size: 41
-  date: '1992-03-26T16:42:46'
+  date: '1990-07-17T13:24:20'
   crc: '0xa445ef87'
 - name: EGA\UP\UP09
   size: 46
-  date: '1992-03-26T16:42:46'
+  date: '1990-07-17T13:24:20'
   crc: '0xb710ab32'
 - name: EGA\UP\UP0A
   size: 45
-  date: '1992-03-26T16:42:46'
+  date: '1990-07-17T13:24:20'
   crc: '0x1fb1d98f'
 - name: EGA\UP\UP0D
   size: 161
-  date: '1992-03-26T16:42:46'
+  date: '1990-07-17T13:24:20'
   crc: '0xb52948bd'
 - name: EGA\UP\UP0E
   size: 141
-  date: '1992-03-26T16:42:46'
+  date: '1990-07-17T13:24:20'
   crc: '0x5b48d0c0'
 - name: EGA\UP\UP0F
   size: 128
-  date: '1992-03-26T16:42:46'
+  date: '1990-07-17T13:24:20'
   crc: '0x3ebf347f'
 - name: EGA\UP\UP10
   size: 129
-  date: '1992-03-26T16:42:46'
+  date: '1990-07-17T13:24:20'
   crc: '0xb9dc1fce'
 - name: EGA\UP\UP11
   size: 130
-  date: '1992-03-26T16:42:46'
+  date: '1990-07-17T13:24:20'
   crc: '0x03987489'
 - name: EGA\UP\UP12
   size: 122
-  date: '1992-03-26T16:42:46'
+  date: '1990-07-17T13:24:20'
   crc: '0xff0dee56'
 - name: EGA\UP\UP13
   size: 116
-  date: '1992-03-26T16:42:46'
+  date: '1990-07-17T13:24:20'
   crc: '0x8e7ba408'
 - name: EGA\UP\UP14
   size: 582
-  date: '1992-03-26T16:42:46'
+  date: '1990-07-17T13:24:20'
   crc: '0x75183785'
 - name: EGA\UP\UP20
   size: 1587
-  date: '1992-03-26T16:42:46'
+  date: '1990-07-17T13:24:20'
   crc: '0xb957e0e7'
 - name: EGA\UP\UP21
   size: 431
-  date: '1992-03-26T16:42:46'
+  date: '1990-07-17T13:24:20'
   crc: '0xba8d59f6'
 - name: EGA\UP\UP22
   size: 189
-  date: '1992-03-26T16:42:46'
+  date: '1990-07-17T13:24:20'
   crc: '0x56b369fa'
 - name: EGA\UP\UP23
   size: 623
-  date: '1992-03-26T16:42:46'
+  date: '1990-07-17T13:24:20'
   crc: '0xcd452747'
 - name: EGA\UP\UP24
   size: 161
-  date: '1992-03-26T16:42:46'
+  date: '1990-07-17T13:24:20'
   crc: '0x7fd0ed23'
 - name: EGA\UP\UP25
   size: 77
-  date: '1992-03-26T16:42:48'
+  date: '1990-07-17T13:24:20'
   crc: '0x575bc99c'
-- name: GAME1.SAV
-  size: 0
-  date: '1998-08-31T03:31:36'
 - name: GAMES\
   size: 0
-  date: '2014-11-22T16:00:02'
-- name: GAMES\GAME1
-  size: 13134
-  date: '1998-09-01T20:18:56'
-  crc: '0x9375727b'
-- name: GAMES\GAME2
-  size: 13134
-  date: '1998-09-01T20:18:58'
-  crc: '0xf11a2a9e'
-- name: GAMES\GAME3
-  size: 13134
-  date: '1998-09-01T20:19:02'
-  crc: '0xf11a2a9e'
-- name: GAMES\GAME5
-  size: 13134
-  date: '1998-09-01T20:04:10'
-  crc: '0x4fbc4d62'
+  date: '1990-07-17T13:00:10'
 - name: LOF.EXE
-  size: 315152
-  date: '1992-03-26T16:41:26'
-  crc: '0xb0057a6c'
+  size: 258293
+  date: '1990-07-17T13:03:00'
+  crc: '0x67887046'
 - name: ROST\
   size: 0
-  date: '2014-11-22T16:00:02'
+  date: '1990-07-17T13:00:10'
 - name: ROST\ROST
-  size: 4555
-  date: '1998-08-31T03:27:48'
-  crc: '0xa5549251'
+  size: 2485
+  date: '1990-07-17T13:24:22'
+  crc: '0xa1db76d7'
 - name: ROST\SHOP
   size: 190
-  date: '1992-04-01T02:54:14'
-  crc: '0xcd32ad56'
+  date: '1990-07-17T13:24:22'
+  crc: '0xacf6e4c3'
 - name: START.BAT
-  size: 129
-  date: '1992-03-26T16:40:26'
-  crc: '0x72cafb63'
+  size: 130
+  date: '1990-07-17T13:00:12'
+  crc: '0xfba9ecee'
 - name: SYST\
   size: 0
-  date: '2014-11-22T16:00:02'
+  date: '1990-07-17T13:00:10'
 - name: SYST\NSC00
   size: 1951
-  date: '1992-03-26T16:45:52'
+  date: '1990-07-17T13:24:36'
   crc: '0x2e0bc032'
 - name: SYST\NSC01
   size: 2809
-  date: '1992-03-26T16:47:50'
+  date: '1990-07-17T13:24:44'
   crc: '0xfb513929'
 - name: SYST\NSC02
   size: 2809
-  date: '1992-03-26T16:47:52'
+  date: '1990-07-17T13:24:50'
   crc: '0x533341d7'
 - name: SYST\NSC03
   size: 10219
-  date: '1992-03-26T16:48:00'
+  date: '1990-07-17T13:25:08'
   crc: '0xda4b74c6'
 - name: SYST\NSC04
   size: 6241
-  date: '1992-03-26T16:42:56'
+  date: '1990-07-17T13:25:24'
   crc: '0x578f8ddc'
 - name: SYST\NSC05
   size: 5305
-  date: '1992-03-26T16:43:00'
+  date: '1990-07-17T13:25:32'
   crc: '0xd3f2317b'
 - name: SYST\NSC06
   size: 11077
-  date: '1992-03-26T16:43:08'
+  date: '1990-07-17T13:25:54'
   crc: '0x0914c282'
 - name: SYST\NSC07
   size: 4681
-  date: '1992-03-26T16:43:12'
+  date: '1990-07-17T13:26:04'
   crc: '0x2a51fd92'
 - name: SYST\SNSC
   size: 1092
-  date: '1992-03-26T16:42:50'
+  date: '1990-07-17T13:24:24'
   crc: '0xb99dd4c2'
 - name: SYST\SPEC0
   size: 5713
-  date: '1992-03-26T16:45:54'
+  date: '1990-07-17T13:24:36'
   crc: '0xec3fad5e'
 - name: SYST\SPEC1
   size: 13805
-  date: '1992-03-26T16:47:50'
-  crc: '0x66afc250'
+  date: '1990-07-17T13:24:44'
+  crc: '0x8f8e9a44'
 - name: SYST\SPEC2
   size: 7855
-  date: '1992-03-26T16:47:54'
-  crc: '0xe55b7aed'
+  date: '1990-07-17T13:24:50'
+  crc: '0xdf694dda'
 - name: SYST\SPEC3
   size: 26181
-  date: '1992-03-26T16:48:00'
-  crc: '0x55395cfe'
+  date: '1990-07-17T13:25:08'
+  crc: '0x3f684ef5'
 - name: SYST\SPEC4
   size: 35939
-  date: '1992-03-26T16:42:56'
-  crc: '0x35d98619'
+  date: '1990-07-17T13:25:24'
+  crc: '0x05ecceca'
 - name: SYST\SPEC5
   size: 15709
-  date: '1992-03-26T16:43:00'
-  crc: '0xce143ccc'
+  date: '1990-07-17T13:25:32'
+  crc: '0xd0f46bad'
 - name: SYST\SPEC6
   size: 43317
-  date: '1992-03-26T16:43:08'
+  date: '1990-07-17T13:25:56'
   crc: '0xf6476e1d'
 - name: SYST\SPEC7
   size: 9759
-  date: '1992-03-26T16:43:12'
+  date: '1990-07-17T13:26:04'
   crc: '0xbe32db24'
 - name: SYST\TXT0
-  size: 10950
-  date: '1992-03-26T16:45:54'
-  crc: '0x2d39df1c'
+  size: 11038
+  date: '1990-07-17T13:24:36'
+  crc: '0x429239a5'
 - name: SYST\TXT1
-  size: 706
-  date: '1992-03-26T16:47:50'
-  crc: '0xc8cd32a3'
+  size: 744
+  date: '1990-07-17T13:24:44'
+  crc: '0xda0e3acf'
 - name: SYST\TXT2
-  size: 605
-  date: '1992-03-26T16:47:54'
-  crc: '0xd161ba13'
+  size: 598
+  date: '1990-07-17T13:24:50'
+  crc: '0x44573370'
 - name: SYST\TXT3
-  size: 1010
-  date: '1992-03-26T16:48:00'
-  crc: '0x4fb6e8b4'
+  size: 1017
+  date: '1990-07-17T13:25:08'
+  crc: '0x437a8c58'
 - name: SYST\TXT4
-  size: 1905
-  date: '1992-03-26T16:42:56'
-  crc: '0x5032379c'
+  size: 1935
+  date: '1990-07-17T13:25:24'
+  crc: '0xf7b68150'
 - name: SYST\TXT5
   size: 795
-  date: '1992-03-26T16:43:00'
+  date: '1990-07-17T13:25:32'
   crc: '0x365958a6'
 - name: SYST\TXT6
-  size: 2161
-  date: '1992-03-26T16:43:08'
-  crc: '0x8b443ff7'
+  size: 2168
+  date: '1990-07-17T13:25:54'
+  crc: '0x2ac314ec'
 - name: SYST\TXT7
-  size: 1502
-  date: '1992-03-26T16:43:12'
-  crc: '0x3f9f5018'
+  size: 1500
+  date: '1990-07-17T13:26:04'
+  crc: '0xb95bc10c'
 - name: VOR.EXE
-  size: 27487
-  date: '1992-03-26T16:41:52'
-  crc: '0x87733ddb'
+  size: 27423
+  date: '1990-07-17T13:03:30'
+  crc: '0xb26455ff'
