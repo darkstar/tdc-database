@@ -1,5 +1,6 @@
-filename: Sky Shark (1989)(Taito Corporation) [Action].zip
+filename: Sky Shark (1989)(Taito Corporation) [Action][!].zip
 tdc_id: '10026.0'
+parent_id: '10026.4'
 title:
   box: Sky Shark
 publisher: Taito Corporation
@@ -8,15 +9,24 @@ genre: Action
 language: English
 date:
   added: '2019-03-01T18:28:58'
-  last_modified: '2019-03-01T18:28:58'
+  last_modified: '2025-01-09T09:23:13'
 type: zip
+tags:
+- KnownGood
+media: 360K
 commands:
   play: SKYSHARK.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1313/sky-shark/
 files:
 - name: ARROW.CMP
   size: 3778
   date: '1989-03-23T17:42:40'
   crc: '0x47ff162a'
+- name: CDCOM.INC
+  size: 3
+  date: '1988-04-07T20:03:28'
+  crc: '0x8f2f2200'
 - name: CMB_BLK1.CMP
   size: 61580
   date: '1988-08-19T18:20:42'
@@ -57,6 +67,18 @@ files:
   size: 7195
   date: '1988-09-24T20:28:10'
   crc: '0xbeaba3fe'
+- name: GETDRV.EXE
+  size: 849
+  date: '1989-03-31T21:55:56'
+  crc: '0xc20b47a2'
+- name: INSTALH2.INC
+  size: 2205
+  date: '1989-04-03T09:25:10'
+  crc: '0xdb4c75dd'
+- name: INSTALL.BAT
+  size: 2490
+  date: '1989-06-15T12:06:58'
+  crc: '0x1cd15ad5'
 - name: SCORES.CMP
   size: 800
   date: '1989-03-23T04:54:26'
@@ -69,6 +91,10 @@ files:
   size: 133723
   date: '1989-04-04T16:12:26'
   crc: '0x9fe05720'
+- name: SKYSHARK.CO_
+  size: 4240
+  date: '1989-04-04T16:39:44'
+  crc: '0x3339a536'
 - name: SKYSHARK.EXE
   size: 5835
   date: '1989-04-04T16:39:18'

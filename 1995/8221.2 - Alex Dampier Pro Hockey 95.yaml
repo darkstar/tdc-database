@@ -1,10 +1,10 @@
-filename: Alex Dampier Pro Hockey 95 (En)(Fr)(De)(It)(Es) (1995)(Merit Studios (Europe) Limited) [ISO].zip
+filename: Alex Dampier Pro Hockey 95 (En)(Fr)(De)(It)(Es) (1995)(Merit Studios (Europe) Limited) [bin-cue].zip
 tdc_id: '8221.2'
 title:
   box: Alex Dampier Pro Hockey 95
 publisher: Merit Studios (Europe) Limited
 year: '1995'
-genre: ISO
+genre: bin-cue
 language:
 - English
 - Spanish
@@ -12,12 +12,18 @@ language:
 - Italian
 - German
 date:
-  added: '2023-02-20T12:15:19'
-  last_modified: '2023-02-20T12:15:19'
-type: ISO
+  added: '2024-12-19T10:53:16'
+  last_modified: '2024-12-19T10:53:16'
+type: bin-cue
 media: CD-ROM
+references:
+  mobygames: https://www.mobygames.com/game/909/world-hockey-95/
 files:
-- name: cd.iso
-  size: 190773248
-  date: '1999-12-31T18:00:00'
-  crc: '0xb692117d'
+- name: WH95.bin
+  size: 219801456
+  date: '2017-04-19T10:40:08'
+  crc: '0xe2f8920d'
+- name: WH95.cue
+  size: 72
+  date: '2017-04-19T10:41:34'
+  crc: '0x6e7f3f4b'

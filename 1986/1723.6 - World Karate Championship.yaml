@@ -1,0 +1,32 @@
+filename: World Karate Championship [DC] (1986)(Epyx, Inc.) [Action].zip
+tdc_id: '1723.6'
+title:
+  box: World Karate Championship
+publisher: Epyx, Inc.
+year: '1986'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:25:04'
+  last_modified: '2019-03-01T18:25:04'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: WLDKARAT.EXE
+references:
+  dosid: DOS05710
+  exodos: World Karate Championship (1989).zip
+files:
+- name: NOTE.DOC
+  size: 143
+  date: '2047-08-03T20:59:18'
+  crc: '0x02852a90'
+- name: WLDKARAT.EXE
+  size: 1359
+  date: '2047-08-03T20:57:04'
+  crc: '0x321e6840'
+- name: WLDKARAT.IMG
+  size: 368640
+  date: '2047-08-03T18:29:02'
+  crc: '0x57216016'

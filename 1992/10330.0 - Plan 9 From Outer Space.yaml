@@ -1,5 +1,6 @@
 filename: Plan 9 From Outer Space (Fr)(De)(En) (1992)(Gremlin Graphics Software Ltd., Konami Corporation) [Adventure].zip
 tdc_id: '10330.0'
+parent_id: '10330.5'
 title:
   box: Plan 9 From Outer Space
 publisher: Gremlin Graphics Software Ltd., Konami Corporation
@@ -11,9 +12,14 @@ language:
 - German
 date:
   added: '2019-03-01T18:49:58'
-  last_modified: '2019-03-01T18:49:58'
+  last_modified: '2025-01-12T16:52:56'
 type: zip
+media: 720K
+commands:
+  play: PLAN9.EXE
+  setup: CONFIG.EXE
 references:
+  mobygames: https://www.mobygames.com/game/1293/plan-9-from-outer-space/
   dosid: DOS04030
   exodos: Plan 9 From Outer Space (1992).zip
 files:
@@ -27,7 +33,7 @@ files:
   crc: '0xa72c22a5'
 - name: CONFIG.EXE
   size: 21258
-  date: '1999-03-27T12:04:12'
+  date: '1992-06-17T12:25:46'
   crc: '0x4aef4ec0'
 - name: FONT1.FON
   size: 1104
@@ -51,16 +57,16 @@ files:
   crc: '0x47884cf6'
 - name: PLAN9.BIN
   size: 59373
-  date: '1999-03-27T12:05:12'
-  crc: '0x3a98279c'
+  date: '1992-06-10T10:16:16'
+  crc: '0xb5b625bb'
 - name: PLAN9.EXE
   size: 121588
-  date: '2011-11-28T21:43:46'
-  crc: '0x9a6e8ea4'
+  date: '1992-06-10T13:17:42'
+  crc: '0x41c2eb90'
 - name: PLAN9.EX_
   size: 121588
-  date: '1999-03-27T12:05:12'
-  crc: '0x41c2eb90'
+  date: '1992-06-10T13:17:42'
+  crc: '0x8013b205'
 - name: PLAN9.GFX
   size: 4144111
   date: '1992-06-10T10:16:08'

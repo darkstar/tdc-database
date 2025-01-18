@@ -12,6 +12,9 @@ date:
 type: kfx
 tags:
 - KnownGood
+requirements:
+  cpu:
+    min: '8088'
 media: 720K
 files:
 - name: track00.0.raw

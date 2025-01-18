@@ -1,0 +1,123 @@
+filename: Timequest v1.1.0 (Installer) (1991)(Legend Entertainment Company) [Adventure, Interactive Fiction][!].zip
+tdc_id: '16737.11'
+parent_id: '16737.7'
+title:
+  box: Timequest
+publisher: Legend Entertainment Company
+year: '1991'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2024-12-27T08:16:48'
+  last_modified: '2024-12-27T08:16:48'
+version: 1.1.0
+type: zip
+tags:
+- KnownGood
+media: 360K
+installer: true
+commands:
+  play: INSTALL.BAT
+references:
+  mobygames: https://www.mobygames.com/game/1026/timequest/
+files:
+- name: DISK 1
+  size: 0
+  date: '1991-08-02T14:09:00'
+- name: DISK 10
+  size: 0
+  date: '1991-08-02T14:17:20'
+- name: DISK 2
+  size: 0
+  date: '1991-08-02T14:09:44'
+- name: DISK 3
+  size: 0
+  date: '1991-08-02T14:11:20'
+- name: DISK 4
+  size: 0
+  date: '1991-08-02T14:12:06'
+- name: DISK 5
+  size: 0
+  date: '1991-08-02T14:12:50'
+- name: DISK 6
+  size: 0
+  date: '1991-08-02T14:14:12'
+- name: DISK 7
+  size: 0
+  date: '1991-08-02T14:15:02'
+- name: DISK 8
+  size: 0
+  date: '1991-08-02T14:15:44'
+- name: DISK 9
+  size: 0
+  date: '1991-08-02T14:16:36'
+- name: DISK1.EXE
+  size: 43309
+  date: '1991-08-02T13:48:28'
+  crc: '0xb90c29db'
+- name: DISK10.EXE
+  size: 358326
+  date: '1991-08-02T13:52:50'
+  crc: '0x21c1c24d'
+- name: DISK2.EXE
+  size: 298515
+  date: '1991-08-02T13:49:28'
+  crc: '0x2554dae4'
+- name: DISK3.EXE
+  size: 312249
+  date: '1991-08-02T13:50:10'
+  crc: '0x5b1dca9f'
+- name: DISK4.EXE
+  size: 344620
+  date: '1991-08-02T13:50:30'
+  crc: '0x79158a46'
+- name: DISK5.EXE
+  size: 360249
+  date: '1991-08-02T13:51:02'
+  crc: '0xaff2c92e'
+- name: DISK6.EXE
+  size: 360126
+  date: '1991-08-02T13:51:24'
+  crc: '0x7b1c6fab'
+- name: DISK7.EXE
+  size: 350982
+  date: '1991-08-02T13:51:40'
+  crc: '0x718e7747'
+- name: DISK8.EXE
+  size: 354540
+  date: '1991-08-02T13:51:54'
+  crc: '0x12139862'
+- name: DISK9.EXE
+  size: 358897
+  date: '1991-08-02T13:52:30'
+  crc: '0x4dd70562'
+- name: FLOPPY.BAT
+  size: 1961
+  date: '1991-05-16T12:17:32'
+  crc: '0xbff67589'
+- name: INSTALL.BAT
+  size: 3199
+  date: '1991-05-15T17:50:46'
+  crc: '0xad421e12'
+- name: SOUND1.EXE
+  size: 307177
+  date: '1991-05-18T19:47:46'
+  crc: '0x9c86f6eb'
+- name: SOUND2.EXE
+  size: 58317
+  date: '1991-05-18T19:48:04'
+  crc: '0xa86c495b'
+- name: SOUND3.EXE
+  size: 42515
+  date: '1991-05-18T19:48:18'
+  crc: '0xf0ff5576'
+- name: SOUND4.EXE
+  size: 14240
+  date: '1991-05-18T19:48:22'
+  crc: '0x7066aa20'
+- name: _INSTALL.BAT
+  size: 3372
+  date: '1991-08-02T13:57:14'
+  crc: '0x24d379e2'

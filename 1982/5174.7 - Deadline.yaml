@@ -1,0 +1,30 @@
+filename: Deadline r19 [DC] (1982)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '5174.7'
+title:
+  box: Deadline
+publisher: Infocom, Inc.
+year: '1982'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2024-12-12T14:25:52'
+  last_modified: '2024-12-12T14:25:52'
+release: '19'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: DEADLINE.COM
+references:
+  mobygames: https://www.mobygames.com/game/30/deadline/
+files:
+- name: DEADLINE.COM
+  size: 12928
+  date: '1982-04-27T14:19:06'
+  crc: '0xdb7b2b43'
+- name: DEDLNR19.DAT
+  size: 128704
+  date: '1982-04-27T14:19:06'
+  crc: '0x838ee43e'

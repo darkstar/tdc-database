@@ -1,8 +1,8 @@
-filename: Super Action Ball (Ko) (1995)(Softry, RGB) [Sports, Action].zip
+filename: Super Action Ball (Ko) (1995)(Softry Game Production, RGB) [Sports, Action].zip
 tdc_id: '3757.0'
 title:
-  screen: Super Action Ball
-publisher: Softry, RGB
+  box: Super Action Ball
+publisher: Softry Game Production, RGB
 year: '1995'
 genre:
 - Sports
@@ -10,9 +10,12 @@ genre:
 language: Korean
 date:
   added: '2019-03-02T09:05:52'
-  last_modified: '2019-03-02T09:05:52'
+  last_modified: '2025-01-02T14:37:31'
 type: zip
+commands:
+  play: PLAY.BAT
 references:
+  mobygames: https://www.mobygames.com/game/56885/super-action-ball/
   dosid: DOS06255
   exodos: Super Action Ball (1995).zip
 files:

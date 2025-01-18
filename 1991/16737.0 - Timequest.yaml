@@ -1,5 +1,6 @@
-filename: Timequest (1991)(Legend Entertainment Company) [Adventure, Interactive Fiction].zip
+filename: Timequest v1.0.0 (1991)(Legend Entertainment Company) [Adventure, Interactive Fiction].zip
 tdc_id: '16737.0'
+parent_id: '16737.9'
 title:
   box: Timequest
 publisher: Legend Entertainment Company
@@ -10,9 +11,14 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:39:46'
-  last_modified: '2019-03-01T18:39:46'
+  last_modified: '2024-12-27T08:12:51'
+version: 1.0.0
 type: zip
+media: 720K
+commands:
+  play: TQ.EXE
 references:
+  mobygames: https://www.mobygames.com/game/1026/timequest/
   dosid: DOS05144
   exodos: Timequest (1991).zip
 files:
@@ -56,18 +62,10 @@ files:
   size: 29312
   date: '1991-04-03T11:53:12'
   crc: '0x6af35029'
-- name: RESTART.DAT
-  size: 15495
-  date: '1995-03-11T12:57:14'
-  crc: '0x46ea092b'
 - name: SCREAM.RS
   size: 19168
   date: '1991-04-02T16:16:38'
   crc: '0x214f65b0'
-- name: SVGA256.BGI
-  size: 3660
-  date: '1991-02-09T01:30:00'
-  crc: '0x1afc0a29'
 - name: THEME.RS
   size: 290816
   date: '1991-04-02T16:17:42'
@@ -82,7 +80,7 @@ files:
   crc: '0x8a6853f5'
 - name: TIMEMAIN.OV_
   size: 311376
-  date: '2014-10-05T15:39:42'
+  date: '1991-05-19T01:00:12'
   crc: '0xaa439de3'
 - name: TIMESTR.DAT
   size: 103924

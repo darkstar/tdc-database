@@ -1,0 +1,101 @@
+filename: Hostel [FW] (2024)(Ronen Blumberg, RON77 Software, Mysoft) [Adventure, Interactive Fiction].zip
+tdc_id: '17748.0'
+title:
+  screen: Hostel
+publisher: Ronen Blumberg, RON77 Software, Mysoft
+year: '2024'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2025-01-10T11:05:13'
+  last_modified: '2025-01-10T11:05:13'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: START.BAT
+files:
+- name: .vscode\
+  size: 0
+  date: '2025-01-08T10:25:36'
+- name: .vscode\launch.json
+  size: 457
+  date: '2024-09-21T21:39:36'
+  crc: '0x4b3f4080'
+- name: DATA\
+  size: 0
+  date: '2025-01-08T10:25:36'
+- name: DATA\DATABASE.DAT
+  size: 37236
+  date: '2024-09-23T16:11:58'
+  crc: '0x0c3a0f73'
+- name: ENDING.BAS
+  size: 1456
+  date: '2024-09-23T17:15:12'
+  crc: '0xfc55a15b'
+- name: GWBASIC.EXE
+  size: 80608
+  date: '1988-10-05T03:00:08'
+  crc: '0x2a44af39'
+- name: HOSTEL.BAS
+  size: 9549
+  date: '2024-09-23T17:36:42'
+  crc: '0xd3f7b01c'
+- name: IMGS\
+  size: 0
+  date: '2025-01-08T10:25:36'
+- name: IMGS\HOSTEL.jpg
+  size: 68161
+  date: '2024-09-21T21:21:56'
+  crc: '0x4adb5ff5'
+- name: IMGS\HOSTEL2.bmp
+  size: 64118
+  date: '2024-09-21T21:25:56'
+  crc: '0xfd122d56'
+- name: IMGS\HOSTEL2.txt
+  size: 20650
+  date: '2024-09-21T21:26:52'
+  crc: '0xcdd36006'
+- name: IMGS\UFO.bmp
+  size: 64118
+  date: '2024-09-22T16:42:48'
+  crc: '0x942ab915'
+- name: IMGS\UFO.jpg
+  size: 81897
+  date: '2024-09-22T16:37:14'
+  crc: '0x7dc0b50e'
+- name: IMGS\UFO.txt
+  size: 24557
+  date: '2024-09-22T16:43:42'
+  crc: '0x9e2ddbd6'
+- name: IMGS\UFOEND.bmp
+  size: 64118
+  date: '2024-09-23T15:55:14'
+  crc: '0x421332e5'
+- name: IMGS\UFOEND.jpg
+  size: 59384
+  date: '2024-09-23T15:50:40'
+  crc: '0xd4e51c26'
+- name: IMGS\UFOEND.txt
+  size: 14856
+  date: '2024-09-23T15:56:14'
+  crc: '0x535c0acc'
+- name: INTRO.BAS
+  size: 744
+  date: '2024-09-23T12:32:34'
+  crc: '0xaac15e72'
+- name: INTRO2.BAS
+  size: 3384
+  date: '2024-09-23T17:33:46'
+  crc: '0x36b45790'
+- name: START.BAT
+  size: 53
+  date: '2024-09-22T13:52:32'
+  crc: '0x4805b700'
+- name: UFO.BAS
+  size: 6850
+  date: '2024-09-23T17:37:16'
+  crc: '0xefcb8acf'

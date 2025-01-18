@@ -1,34 +1,37 @@
-filename: Iron Lord (1991)(Action Sixteen) [IMA][360k].zip
+filename: Iron Lord (1991)(Action Sixteen, Digital Integration Ltd., Ubi Soft Entertainment Software) [IMA][360k].zip
 tdc_id: '11556.5'
+parent_id: '11556.7'
 title:
   box: Iron Lord
-publisher: Action Sixteen
+publisher: Action Sixteen, Digital Integration Ltd., Ubi Soft Entertainment Software
 year: '1991'
 genre: IMA
 language: English
 date:
   added: '2023-02-26T17:53:36'
-  last_modified: '2023-02-26T17:53:36'
+  last_modified: '2025-01-06T09:17:33'
 type: IMA
 media: 360K
+references:
+  mobygames: https://www.mobygames.com/game/14405/iron-lord/
 files:
-- name: Disk1.IMA
+- name: Disk0-1.ima
   size: 368640
-  date: '2010-08-09T10:15:28'
-  crc: '0xb36ae93b'
-- name: Disk2.IMA
+  date: '2025-01-06T11:55:02'
+  crc: '0xf839f3bc'
+- name: Disk2-3.ima
   size: 368640
-  date: '2010-08-09T10:17:42'
+  date: '2025-01-06T11:55:36'
   crc: '0xca0130d1'
-- name: Disk3.IMA
+- name: Disk6.ima
   size: 368640
-  date: '2010-08-09T10:18:34'
-  crc: '0x85c38702'
-- name: Disk4.IMA
-  size: 368640
-  date: '2010-08-09T10:19:42'
+  date: '2025-01-06T11:56:48'
   crc: '0x4ec248e8'
-- name: Disk5.IMA
+- name: Disk7.ima
   size: 368640
-  date: '2010-08-09T10:21:46'
+  date: '2025-01-06T11:59:48'
   crc: '0x090e9249'
+- name: disk4-5.ima
+  size: 368640
+  date: '2025-01-06T11:56:22'
+  crc: '0x85c38702'

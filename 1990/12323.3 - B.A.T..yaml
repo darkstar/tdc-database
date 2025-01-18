@@ -16,9 +16,9 @@ tags:
 - Alternate: 1
 files:
 - name: BAT.EXE
-  size: 104769
-  date: '1990-11-29T17:57:48'
-  crc: '0x7ffb2169'
+  size: 104785
+  date: '1990-11-29T18:26:26'
+  crc: '0x3d2fc7e4'
 - name: BAT1.MPC
   size: 1578
   date: '1990-07-18T02:12:14'
@@ -55,14 +55,6 @@ files:
   size: 1
   date: '1990-11-23T18:27:46'
   crc: '0xe8b7be43'
-- name: BATDISK3.TST
-  size: 1
-  date: '1990-11-23T18:27:50'
-  crc: '0xe8b7be43'
-- name: BATDISK4.TST
-  size: 1
-  date: '1990-11-23T18:27:50'
-  crc: '0xe8b7be43'
 - name: BATSTART.UP
   size: 4027
   date: '1990-11-26T11:28:10'
@@ -91,6 +83,12 @@ files:
   size: 6002
   date: '1990-11-29T10:49:38'
   crc: '0xceada6e9'
+- name: BAT_VGA1
+  size: 0
+  date: '1990-11-29T14:26:54'
+- name: BAT_VGA2
+  size: 0
+  date: '1990-11-29T14:36:50'
 - name: BIZZY.CMP
   size: 6041
   date: '1980-01-01T02:07:52'
@@ -220,9 +218,13 @@ files:
   date: '1990-10-23T15:07:58'
   crc: '0xf9103c65'
 - name: INSTALL.BAT
-  size: 537
-  date: '1990-11-29T18:03:48'
-  crc: '0xf760122d'
+  size: 581
+  date: '1990-11-29T19:06:04'
+  crc: '0xa9330384'
+- name: INSTALL2.BAT
+  size: 539
+  date: '1990-11-29T19:07:14'
+  crc: '0x8cae6a3d'
 - name: INTERP.BIN
   size: 7731
   date: '1990-10-02T14:45:30'

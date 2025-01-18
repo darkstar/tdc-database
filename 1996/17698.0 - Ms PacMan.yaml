@@ -1,0 +1,29 @@
+filename: Ms PacMan v3.4 (1996)(AGM, Achillefs Margaritis) [Action].zip
+tdc_id: '17698.0'
+title:
+  screen: Ms PacMan
+publisher: AGM, Achillefs Margaritis
+year: '1996'
+genre: Action
+language: English
+date:
+  added: '2024-12-16T20:51:57'
+  last_modified: '2024-12-16T20:51:57'
+version: '3.4'
+type: zip
+media: Download
+commands:
+  play: MSPACMAN.EXE
+files:
+- name: GAME.DAT
+  size: 56481
+  date: '2009-08-30T23:01:12'
+  crc: '0x1cc9d3fc'
+- name: MSPACMAN.EXE
+  size: 64176
+  date: '1996-06-25T03:44:26'
+  crc: '0xe47d8238'
+- name: MSPACMAN.TXT
+  size: 420
+  date: '1996-06-24T11:51:18'
+  crc: '0x30776901'

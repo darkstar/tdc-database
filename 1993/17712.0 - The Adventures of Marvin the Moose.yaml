@@ -1,0 +1,34 @@
+filename: Adventures of Marvin the Moose, The (Installer) (1993)(Milliken Publishing Company) [Educational].zip
+tdc_id: '17712.0'
+parent_id: '17712.2'
+title:
+  box: The Adventures of Marvin the Moose
+publisher: Milliken Publishing Company
+year: '1993'
+genre: Educational
+language: English
+date:
+  added: '2024-12-20T16:49:01'
+  last_modified: '2025-01-13T09:55:10'
+type: zip
+media: 1.2M
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 21616
+  date: '1993-01-04T16:46:06'
+  crc: '0xb8e2c259'
+- name: STORY.SP0
+  size: 1191936
+  date: '1993-01-06T09:46:02'
+  crc: '0x39f57b60'
+- name: STORY.SP1
+  size: 1213952
+  date: '1993-01-06T09:47:58'
+  crc: '0xf0343389'
+- name: STORY.SP2
+  size: 952277
+  date: '1993-01-06T09:50:16'
+  crc: '0x6c7dd87e'

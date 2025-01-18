@@ -1,0 +1,94 @@
+filename: Links- Championship Course - The Belfry (SVGA) v1.21 (Installer) (1994)(Access Software, Inc.) [Sports, Addon].zip
+tdc_id: '11882.7'
+parent_id: '11882.6'
+title:
+  box: 'Links: Championship Course - The Belfry'
+  qualifier: SVGA
+publisher: Access Software, Inc.
+year: '1994'
+genre:
+- Sports
+- Addon
+language: English
+date:
+  added: '2025-01-12T13:49:04'
+  last_modified: '2025-01-12T13:49:04'
+version: '1.21'
+type: zip
+media:
+- 720K
+- 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/37368/links-championship-course-the-belfry/
+files:
+- name: BELFRY1.REC
+  size: 2693
+  date: '1993-06-10T22:57:38'
+  crc: '0xbdb539bd'
+- name: BELFRY1.SPL
+  size: 178456
+  date: '1993-06-07T15:36:24'
+  crc: '0x9e54113a'
+- name: BELFRY2.REC
+  size: 3043
+  date: '1993-06-10T14:20:58'
+  crc: '0xc48cd93a'
+- name: BELFRY2.SPL
+  size: 162733
+  date: '1993-06-07T15:40:12'
+  crc: '0x1a0f5b33'
+- name: BELFRY3.REC
+  size: 3287
+  date: '1993-06-10T18:11:36'
+  crc: '0xfe1d6608'
+- name: BELFRY4.REC
+  size: 3195
+  date: '1993-06-10T20:02:10'
+  crc: '0x86089ea0'
+- name: BELFRY5.REC
+  size: 3305
+  date: '1993-06-10T22:39:54'
+  crc: '0x6947b382'
+- name: BELFRY6.REC
+  size: 3797
+  date: '1993-06-11T14:37:30'
+  crc: '0xed6d4b6e'
+- name: CONVERT.LZ
+  size: 79579
+  date: '1993-06-10T10:54:40'
+  crc: '0xfbbe6f6e'
+- name: COURSE.INI
+  size: 2925
+  date: '1994-01-27T13:03:40'
+  crc: '0x52ddc612'
+- name: GOLF.EXE
+  size: 61510
+  date: '1992-11-16T15:25:22'
+  crc: '0x3a3cb49c'
+- name: INSTALL.EXE
+  size: 103876
+  date: '1993-06-15T16:20:30'
+  crc: '0xf4f89cc7'
+- name: LIE.LZ
+  size: 21861
+  date: '1992-11-04T13:45:54'
+  crc: '0x6ab8740b'
+- name: LINKS386.EXE
+  size: 444890
+  date: '1994-01-20T09:50:34'
+  crc: '0x66776560'
+- name: THE_BELF.1
+  size: 344462
+  date: '1993-11-08T10:52:52'
+  crc: '0x5779ace2'
+- name: THE_BELF.2
+  size: 1426724
+  date: '1993-11-08T10:53:10'
+  crc: '0x63b41e09'
+- name: THE_BELF.3
+  size: 601496
+  date: '1993-11-08T10:53:18'
+  crc: '0xbf2a943b'

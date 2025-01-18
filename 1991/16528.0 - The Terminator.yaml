@@ -1,5 +1,6 @@
-filename: Terminator, The (1991)(Bethesda Softworks LLC) [Action, Adventure].zip
+filename: Terminator, The v1.01C (1991)(Bethesda Softworks LLC) [Action, Adventure].zip
 tdc_id: '16528.0'
+parent_id: '16528.2'
 title:
   box: The Terminator
 publisher: Bethesda Softworks LLC
@@ -10,9 +11,14 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:39:44'
-  last_modified: '2019-03-01T18:39:44'
+  last_modified: '2024-12-31T08:43:43'
+version: 1.01C
 type: zip
+media: 720K
+commands:
+  play: START.BAT
 references:
+  mobygames: https://www.mobygames.com/game/1778/the-terminator/
   dosid: DOS05073
   exodos: Terminator, The (1991).zip
 files:
@@ -32,6 +38,10 @@ files:
   size: 8544
   date: '1991-05-10T16:05:40'
   crc: '0x06c2bf18'
+- name: ARMORY.IMG
+  size: 8812
+  date: '1991-05-10T16:06:30'
+  crc: '0xa12d1c1a'
 - name: ARMORY.MSK
   size: 4992
   date: '1991-06-09T12:08:20'
@@ -40,6 +50,10 @@ files:
   size: 384
   date: '1991-01-04T10:19:24'
   crc: '0x5d3160bc'
+- name: BANK.IMG
+  size: 11878
+  date: '1991-05-08T17:09:56'
+  crc: '0x9656608f'
 - name: BANK256.IMG
   size: 7957
   date: '1991-05-13T09:35:40'
@@ -64,6 +78,14 @@ files:
   size: 14262
   date: '1991-04-18T14:10:04'
   crc: '0x16205894'
+- name: BOMB.DBI
+  size: 3960
+  date: '1990-09-05T17:21:00'
+  crc: '0x5d02bdc0'
+- name: BOMB.DCF
+  size: 51306
+  date: '1990-09-05T17:22:58'
+  crc: '0x466a5466'
 - name: BOMB.DFB
   size: 12778
   date: '1991-04-20T08:19:44'
@@ -100,6 +122,10 @@ files:
   size: 7170
   date: '1990-12-28T12:19:28'
   crc: '0x6ad4fe60'
+- name: DAMAGE.IMG
+  size: 5184
+  date: '1990-12-17T14:14:18'
+  crc: '0x1597aa26'
 - name: DOOR.RS
   size: 1939
   date: '1991-01-11T22:00:46'
@@ -108,6 +134,14 @@ files:
   size: 4158
   date: '1991-05-03T17:27:52'
   crc: '0x1b59e6e6'
+- name: DOR.DBI
+  size: 3022
+  date: '1990-12-12T12:24:04'
+  crc: '0x3671c941'
+- name: DOR.DCF
+  size: 28366
+  date: '1990-12-12T12:26:04'
+  crc: '0x66678504'
 - name: DOR.DFB
   size: 42500
   date: '1991-05-13T08:45:30'
@@ -120,6 +154,14 @@ files:
   size: 2976
   date: '1991-05-03T17:28:00'
   crc: '0x7ef89d34'
+- name: DOS.DBI
+  size: 6200
+  date: '1980-02-13T20:50:12'
+  crc: '0xfe7ee638'
+- name: DOS.DCF
+  size: 48716
+  date: '1980-02-13T20:54:50'
+  crc: '0x65fda510'
 - name: DOS.DFB
   size: 17934
   date: '1991-04-20T07:29:08'
@@ -132,6 +174,14 @@ files:
   size: 2884
   date: '1991-05-03T17:28:06'
   crc: '0xbfd56b3e'
+- name: DOT.DBI
+  size: 6806
+  date: '1990-12-12T12:19:04'
+  crc: '0xbe9db14c'
+- name: DOT.DCF
+  size: 50428
+  date: '1990-12-12T12:23:24'
+  crc: '0x9c9fbd8b'
 - name: DOT.DFB
   size: 31020
   date: '1991-05-13T09:13:50'
@@ -148,18 +198,30 @@ files:
   size: 1976
   date: '1991-05-03T17:28:12'
   crc: '0x1f469554'
+- name: DROW.DBI
+  size: 7746
+  date: '1990-12-07T19:27:10'
+  crc: '0xa0fbdabc'
+- name: DROW.DCF
+  size: 29844
+  date: '1990-12-07T19:28:44'
+  crc: '0xbe9c372c'
 - name: DROW.DFB
   size: 20334
-  date: '2088-02-15T11:53:44'
+  date: '1980-02-15T11:53:44'
   crc: '0x170d1602'
 - name: DROW.DFF
   size: 56488
-  date: '2088-02-15T12:04:36'
+  date: '1980-02-15T12:04:36'
   crc: '0x1664a233'
 - name: DRUG256.IMG
   size: 12289
   date: '1991-04-18T14:05:18'
   crc: '0x9685112e'
+- name: DRUGSTOR.IMG
+  size: 20081
+  date: '1990-12-17T14:17:40'
+  crc: '0xd1862926'
 - name: DRUGSTOR.MSK
   size: 8510
   date: '1990-11-07T15:31:08'
@@ -188,10 +250,10 @@ files:
   size: 756
   date: '1990-11-19T10:39:04'
   crc: '0x5c38ac3e'
-- name: FUCKTERM.COM
-  size: 248
-  date: '1991-11-19T02:36:46'
-  crc: '0xd6666b80'
+- name: GAME.EXE
+  size: 94544
+  date: '1991-08-05T15:15:22'
+  crc: '0x14315b68'
 - name: GRENADE.SPN
   size: 1014
   date: '1991-03-06T10:50:22'
@@ -204,6 +266,10 @@ files:
   size: 3773
   date: '1990-10-12T17:51:06'
   crc: '0x46f2a3b3'
+- name: GUNSTORE.IMG
+  size: 17272
+  date: '1991-05-10T16:08:40'
+  crc: '0x896c50bf'
 - name: GUNSTORE.MSK
   size: 3818
   date: '1991-05-10T19:05:54'
@@ -216,6 +282,10 @@ files:
   size: 13568
   date: '1990-10-24T12:19:44'
   crc: '0xec0ce2a3'
+- name: HOSP.IMG
+  size: 9904
+  date: '1991-05-09T13:46:56'
+  crc: '0xc67b60b0'
 - name: HOSP256.IMG
   size: 13515
   date: '1991-05-09T13:47:40'
@@ -244,6 +314,14 @@ files:
   size: 6323
   date: '1991-05-08T10:57:04'
   crc: '0x721cc678'
+- name: INTRO.DBI
+  size: 13466
+  date: '1990-12-17T15:56:02'
+  crc: '0xc9b4cbbe'
+- name: INTRO.DCF
+  size: 61010
+  date: '1990-12-17T16:01:06'
+  crc: '0x8682c595'
 - name: INTRO.DFB
   size: 33846
   date: '1991-04-20T08:42:38'
@@ -332,6 +410,10 @@ files:
   size: 1586
   date: '1991-03-07T11:11:34'
   crc: '0x6557eeeb'
+- name: MENU.IMG
+  size: 2590
+  date: '1991-05-07T13:39:40'
+  crc: '0x3a8937b0'
 - name: MENU256.IMG
   size: 23224
   date: '1991-05-07T13:39:54'
@@ -344,6 +426,14 @@ files:
   size: 4900
   date: '1991-05-03T17:28:24'
   crc: '0x313f4c94'
+- name: NET.DBI
+  size: 7458
+  date: '1990-11-06T11:16:10'
+  crc: '0xe581034b'
+- name: NET.DCF
+  size: 63158
+  date: '1990-11-06T11:19:14'
+  crc: '0xf782f347'
 - name: NET.DFB
   size: 19678
   date: '1991-04-20T11:45:22'
@@ -364,6 +454,14 @@ files:
   size: 1356
   date: '1991-05-03T17:28:28'
   crc: '0x77ae4b2e'
+- name: NY.DBI
+  size: 5058
+  date: '1990-11-06T11:27:56'
+  crc: '0x610ad69f'
+- name: NY.DCF
+  size: 63170
+  date: '1990-11-06T11:30:46'
+  crc: '0x9ff88b00'
 - name: NY.DFB
   size: 20984
   date: '1991-05-10T16:22:14'
@@ -376,6 +474,10 @@ files:
   size: 4197
   date: '1990-12-17T14:09:18'
   crc: '0x22c0dd4d'
+- name: PASS.IMG
+  size: 13224
+  date: '1991-05-02T16:18:26'
+  crc: '0xb282f43e'
 - name: PASS256.IMG
   size: 64784
   date: '1991-06-12T05:34:52'
@@ -392,6 +494,10 @@ files:
   size: 46
   date: '1991-03-06T14:32:06'
   crc: '0x61013283'
+- name: RANGE.IMG
+  size: 8386
+  date: '1991-05-10T16:09:18'
+  crc: '0x487d108f'
 - name: RANGE256.IMG
   size: 9281
   date: '1991-05-10T16:10:26'
@@ -400,18 +506,18 @@ files:
   size: 31177
   date: '1991-06-06T21:36:52'
   crc: '0x6a5c90db'
+- name: RATINGS.IMG
+  size: 8826
+  date: '1991-06-08T19:08:38'
+  crc: '0x8f3ca076'
 - name: RATINGS.RSE
   size: 207
-  date: '1994-07-11T15:07:00'
-  crc: '0x41266e8f'
+  date: '1991-06-08T19:08:38'
+  crc: '0x07f823ab'
 - name: RATINGS.TRM
   size: 207
-  date: '1994-07-10T20:36:56'
-  crc: '0xc730d954'
-- name: RUNME.BAT
-  size: 40
-  date: '1994-07-08T19:28:32'
-  crc: '0x20fc58db'
+  date: '1991-06-08T19:08:38'
+  crc: '0x07f823ab'
 - name: S8X59.IMG
   size: 488
   date: '1990-12-03T12:06:22'
@@ -436,6 +542,10 @@ files:
   size: 12178
   date: '1991-04-22T12:46:20'
   crc: '0xd9a75ff8'
+- name: SHOOTING.IMG
+  size: 5243
+  date: '1990-12-17T11:56:42'
+  crc: '0xa817a76a'
 - name: SIREN1.RS
   size: 7881
   date: '1991-01-13T13:13:54'
@@ -472,10 +582,18 @@ files:
   size: 11558
   date: '1991-04-18T14:06:18'
   crc: '0x237272e8'
+- name: SPORTSTO.IMG
+  size: 13870
+  date: '1991-04-18T11:09:18'
+  crc: '0x9b71cb93'
 - name: SPORTSTO.MSK
   size: 3522
   date: '1991-04-18T11:09:46'
   crc: '0x83a4c306'
+- name: START.BAT
+  size: 732
+  date: '1980-01-01T12:00:00'
+  crc: '0x2ba9f103'
 - name: SUBGUN1.RS
   size: 2243
   date: '1991-01-11T22:00:44'
@@ -484,6 +602,14 @@ files:
   size: 3335
   date: '1991-01-11T22:00:44'
   crc: '0xd5867ec7'
+- name: T.DBI
+  size: 13572
+  date: '1990-10-03T11:24:08'
+  crc: '0xd600e778'
+- name: T.DCF
+  size: 65436
+  date: '1990-10-03T11:42:20'
+  crc: '0x09454fbb'
 - name: TARGET.IMG
   size: 32
   date: '1991-05-05T14:09:04'
@@ -504,14 +630,18 @@ files:
   size: 3464
   date: '1991-05-03T17:28:56'
   crc: '0x282ec5d5'
-- name: TERM.EXE
-  size: 93600
-  date: '1991-06-21T15:24:42'
-  crc: '0xf7a0f7f6'
+- name: TERM.COM
+  size: 2194
+  date: '1980-01-01T00:00:00'
+  crc: '0x72fada8a'
+- name: TERM.CO_
+  size: 531
+  date: '1991-07-23T14:33:36'
+  crc: '0x76253b51'
 - name: TERMHUD.CIF
-  size: 624
-  date: '1991-06-21T11:59:58'
-  crc: '0x24e6ae80'
+  size: 688
+  date: '1990-12-03T10:57:26'
+  crc: '0x1d46586d'
 - name: TNY.ATF
   size: 1196
   date: '1990-11-25T13:42:18'
@@ -524,6 +654,14 @@ files:
   size: 1276
   date: '1991-05-03T17:29:00'
   crc: '0xc04e6462'
+- name: TS.DBI
+  size: 7968
+  date: '1990-11-06T19:07:00'
+  crc: '0x994b92ed'
+- name: TS.DCF
+  size: 6454
+  date: '1990-11-06T19:07:26'
+  crc: '0xd35c714f'
 - name: TS.DFB
   size: 34752
   date: '1991-06-20T14:13:36'

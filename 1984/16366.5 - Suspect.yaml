@@ -1,5 +1,6 @@
-filename: Suspect r14 (1984)(Infocom, Inc.) [IMA][160k][cr].zip
+filename: Suspect r14 (booter) (1984)(Infocom, Inc.) [IMA][160k][cr].zip
 tdc_id: '16366.5'
+parent_id: '16366.4'
 title:
   box: Suspect
 publisher: Infocom, Inc.
@@ -8,12 +9,14 @@ genre: IMA
 language: English
 date:
   added: '2023-02-23T20:10:28'
-  last_modified: '2023-02-23T20:10:28'
+  last_modified: '2024-12-12T17:30:49'
 release: '14'
 type: IMA
 media: 360K
+references:
+  mobygames: https://www.mobygames.com/game/93/suspect/
 files:
-- name: SUSPECT.IMG
+- name: disk1.ima
   size: 163840
   date: '1984-10-05T12:00:00'
   crc: '0x5599e4a1'

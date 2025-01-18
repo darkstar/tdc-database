@@ -1,0 +1,66 @@
+filename: Zone 66 r930921 (Installer) [SWR] (1993)(Epic MegaGames, Inc.) [Action].zip
+tdc_id: '2914.5'
+parent_id: '2914.6'
+title:
+  box: Zone 66
+  qualifier: Installer
+publisher: Epic MegaGames, Inc.
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2024-12-22T11:55:58'
+  last_modified: '2024-12-22T11:55:58'
+release: '930921'
+type: zip
+tags:
+- SharewareRegistered
+media: 1.44M
+installer: true
+references:
+  mobygames: https://www.mobygames.com/game/918/zone-66/
+files:
+- name: DISK02\
+  size: 0
+  date: '1993-12-20T12:14:16'
+- name: DISK02\ZONE66A.PAK
+  size: 943875
+  date: '1993-09-21T23:18:52'
+  crc: '0x62cc8d57'
+- name: DISK03\
+  size: 0
+  date: '1993-12-20T12:14:16'
+- name: DISK03\INSTALL.EXE
+  size: 33192
+  date: '1993-04-16T08:49:06'
+  crc: '0x06bbe8c7'
+- name: DISK03\INSTALL.FIL
+  size: 1865
+  date: '1993-09-21T23:19:34'
+  crc: '0xd2f47150'
+- name: DISK03\ZONE66B.PAK
+  size: 1419695
+  date: '1993-09-21T23:24:12'
+  crc: '0xa2a692f2'
+- name: DISK04\
+  size: 0
+  date: '1993-12-20T12:14:16'
+- name: DISK04\ZONE66B.PAK
+  size: 165543
+  date: '1993-09-21T23:25:28'
+  crc: '0x6cb0ecb5'
+- name: EPIC
+  size: 0
+  date: '1993-09-21T22:59:24'
+- name: INSTALL.EXE
+  size: 33192
+  date: '1993-04-16T08:49:06'
+  crc: '0x06bbe8c7'
+- name: INSTALL.FIL
+  size: 1858
+  date: '1993-09-21T23:10:52'
+  crc: '0xc22eb027'
+- name: ZONE66A.PAK
+  size: 1418376
+  date: '1993-09-21T23:15:34'
+  crc: '0x4947d3a8'

@@ -1,4 +1,4 @@
-filename: Iron Lord (1991)(Ubi Soft Entertainment Software) [Action, Adventure].zip
+filename: Iron Lord (Installer) (Fr) (1991)(Ubi Soft Entertainment Software) [Action, Adventure].zip
 tdc_id: '11556.1'
 parent_id: '11556.6'
 title:
@@ -8,12 +8,17 @@ year: '1991'
 genre:
 - Action
 - Adventure
-language: English
+language: French
 date:
   added: '2022-08-04T15:18:52'
-  last_modified: '2022-08-04T15:18:52'
+  last_modified: '2025-01-06T11:30:07'
 type: zip
+media: 360K
+installer: true
+commands:
+  play: IRONEGA.EXE
 references:
+  mobygames: https://www.mobygames.com/game/14405/iron-lord/
   dosid: DOS02838
   exodos: Iron Lord (1990).zip
 files:
@@ -395,6 +400,18 @@ files:
   size: 14278
   date: '1990-08-28T15:40:18'
   crc: '0x63b2142d'
+- name: IRON31
+  size: 0
+  date: '1991-04-07T02:12:00'
+- name: IRON32
+  size: 0
+  date: '1991-04-07T02:14:00'
+- name: IRON33
+  size: 0
+  date: '1991-04-07T02:16:00'
+- name: IRON34
+  size: 0
+  date: '1991-04-07T02:19:00'
 - name: IRON3\
   size: 0
   date: '1991-04-07T02:44:00'

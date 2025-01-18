@@ -1,24 +1,32 @@
-filename: King's Quest II- Romancing the Throne v2.2 [a2] (1987)(Sierra On-Line, Inc.) [Adventure].zip
+filename: King's Quest II- Romancing the Throne v2.2 (AGI 2.426) (1987)(Sierra On-Line, Inc.) [Adventure][!].zip
 tdc_id: '11812.7'
+parent_id: '11812.11'
 title:
   box: 'King''s Quest II: Romancing the Throne'
+  qualifier: AGI 2.426
 publisher: Sierra On-Line, Inc.
 year: '1987'
 genre: Adventure
 language: English
 date:
   added: '2019-03-01T18:25:24'
-  last_modified: '2019-03-01T18:25:24'
+  last_modified: '2025-01-08T09:31:10'
 version: '2.2'
 type: zip
 tags:
-- Alternate: 2
+- KnownGood
+media: 360K
 commands:
-  play: KQ2.EXE
+  play: SIERRA.COM
 references:
+  mobygames: https://www.mobygames.com/game/123/kings-quest-ii-romancing-the-throne/
   dosid: DOS03011
   exodos: King's Quest II - Romancing the Throne (1987).zip
 files:
+- name: AGI
+  size: 38400
+  date: '1987-05-07T13:51:08'
+  crc: '0x2580a58d'
 - name: AGIDATA.OVL
   size: 7680
   date: '1987-05-06T10:33:08'
@@ -47,18 +55,22 @@ files:
   size: 512
   date: '1987-05-06T10:32:40'
   crc: '0x143da6ff'
+- name: INSTALLH.BAT
+  size: 1217
+  date: '1987-05-07T13:50:54'
+  crc: '0x790affcb'
 - name: JR_GRAF.OVL
   size: 512
   date: '1987-05-06T10:32:38'
   crc: '0xc49114dd'
-- name: KQ2.EXE
-  size: 38400
-  date: '1988-03-20T15:24:10'
-  crc: '0x7dcaac7a'
 - name: LOGDIR
   size: 543
   date: '1987-05-07T12:55:28'
   crc: '0xa9a679c2'
+- name: MAKEPATH.COM
+  size: 74
+  date: '1987-04-22T12:05:20'
+  crc: '0xa04a3ac3'
 - name: OBJECT
   size: 601
   date: '1987-04-07T14:40:46'
@@ -67,6 +79,14 @@ files:
   size: 354
   date: '1987-05-07T12:55:28'
   crc: '0xa99b4b89'
+- name: SIERRA.COM
+  size: 2944
+  date: '1987-05-07T13:51:02'
+  crc: '0x2fb13a7e'
+- name: SIERRA.CO_
+  size: 2944
+  date: '1987-05-07T13:51:02'
+  crc: '0xad1f909a'
 - name: SNDDIR
   size: 135
   date: '1987-05-07T12:55:28'
@@ -91,3 +111,11 @@ files:
   size: 3516
   date: '1987-04-06T14:57:16'
   crc: '0x6cf8a510'
+- name: _INSTALL.BAT
+  size: 766
+  date: '1987-05-07T13:50:58'
+  crc: '0x27e36f21'
+- name: _KQ2.BAT
+  size: 39
+  date: '1987-04-07T14:04:00'
+  crc: '0x8fabcfaf'

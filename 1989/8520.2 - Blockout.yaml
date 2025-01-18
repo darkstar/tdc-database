@@ -1,4 +1,4 @@
-filename: Blockout v1.1 (1989)(California Dreams) [Action, Strategy].zip
+filename: Blockout v1.1 (1989)(California Dreams) [Action, Strategy][!].zip
 tdc_id: '8520.2'
 title:
   box: Blockout
@@ -10,15 +10,17 @@ genre:
 language: English
 date:
   added: '2021-02-13T18:15:42'
-  last_modified: '2021-02-13T18:15:42'
+  last_modified: '2025-01-17T20:52:59'
 version: '1.1'
 type: zip
+tags:
+- KnownGood
+commands:
+  play: BL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/498/blockout/
 files:
 - name: BL.EXE
-  size: 70534
-  date: '1989-11-08T11:21:18'
-  crc: '0xf1db7e6a'
-- name: BL.EX_
   size: 70534
   date: '1989-11-08T11:21:18'
   crc: '0x30d925e2'

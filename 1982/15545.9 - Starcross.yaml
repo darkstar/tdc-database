@@ -1,0 +1,30 @@
+filename: Starcross r15 [DC] (1982)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '15545.9'
+title:
+  box: Starcross
+publisher: Infocom, Inc.
+year: '1982'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2024-12-12T18:35:41'
+  last_modified: '2024-12-12T18:35:41'
+release: '15'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: STARCROS.COM
+references:
+  mobygames: https://www.mobygames.com/game/59/starcross/
+files:
+- name: STARCR15.DAT
+  size: 112832
+  date: '1982-09-01T18:34:30'
+  crc: '0xa50f9a2c'
+- name: STARCROS.COM
+  size: 12928
+  date: '1982-09-01T18:34:30'
+  crc: '0xd22e6c5a'

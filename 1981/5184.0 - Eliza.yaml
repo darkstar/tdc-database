@@ -13,6 +13,9 @@ version: '3.0'
 type: zip
 tags:
 - Shareware
+requirements:
+  cpu:
+    min: '8088'
 media: Download
 commands:
   play: ELIZA.BAT

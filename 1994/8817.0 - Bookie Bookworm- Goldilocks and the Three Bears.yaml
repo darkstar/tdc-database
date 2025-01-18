@@ -1,20 +1,20 @@
-filename: Bookie Bookworm- Goldilocks and the Three Bears (Installer) [SW][b1] (1994)(Cloud Nine Creative Group) [Educational].zip
+filename: Bookie Bookworm- Goldilocks and the Three Bears v1.0 (Installer) (1994)(Cloud Nine Creative Group) [Educational].zip
 tdc_id: '8817.0'
 title:
-  screen: 'Bookie Bookworm: Goldilocks and the Three Bears'
+  box: 'Bookie Bookworm: Goldilocks and the Three Bears'
 publisher: Cloud Nine Creative Group
 year: '1994'
 genre: Educational
 language: English
 date:
   added: '2019-03-01T21:54:54'
-  last_modified: '2019-03-01T21:54:54'
+  last_modified: '2025-01-11T16:38:39'
+version: '1.0'
 type: zip
-tags:
-- Shareware
-- Bad: 1
 media: Download
 installer: true
+commands:
+  play: INSTALL.EXE
 files:
 - name: 3bears\
   size: 0

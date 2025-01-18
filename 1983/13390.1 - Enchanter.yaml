@@ -1,4 +1,4 @@
-filename: Enchanter r16 [DC] (1983)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+filename: Enchanter r16-B [DC] (1983)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
 tdc_id: '13390.1'
 parent_id: '13390.6'
 title:
@@ -11,13 +11,16 @@ genre:
 language: English
 date:
   added: '2022-06-03T14:13:44'
-  last_modified: '2022-06-03T14:13:44'
-release: '16'
+  last_modified: '2024-12-26T08:42:09'
+release: 16-B
 type: zip
 tags:
 - DOSConversion
+media: 360K
 commands:
   play: ENCHANT.COM
+references:
+  mobygames: https://www.mobygames.com/game/56/enchanter/
 files:
 - name: ENCHANT.COM
   size: 12928

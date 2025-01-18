@@ -1,0 +1,30 @@
+filename: Suspended r5 [DC] (1983)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '7540.0'
+title:
+  box: Suspended
+publisher: Infocom, Inc.
+year: '1983'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2024-12-12T17:50:25'
+  last_modified: '2024-12-12T17:50:25'
+release: '5'
+type: zip
+tags:
+- DOSConversion
+commands:
+  play: SUSPEND.COM
+references:
+  mobygames: https://www.mobygames.com/game/60/suspended/
+files:
+- name: SUSPEND.COM
+  size: 12928
+  date: '1983-02-22T17:45:28'
+  crc: '0x7c1e75e6'
+- name: SUSPNDR5.DAT
+  size: 129728
+  date: '1983-02-22T17:45:28'
+  crc: '0xa40a31c9'

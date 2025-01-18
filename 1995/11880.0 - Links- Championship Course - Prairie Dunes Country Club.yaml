@@ -1,7 +1,9 @@
-filename: Links- Championship Course - Prairie Dunes Country Club (Installer) (1995)(Access Software, Inc.) [Sports, Addon].zip
+filename: Links- Championship Course - Prairie Dunes Country Club (SVGA) v1.21 (Installer) (1995)(Access Software, Inc.) [Sports, Addon].zip
 tdc_id: '11880.0'
+parent_id: '11880.1'
 title:
   box: 'Links: Championship Course - Prairie Dunes Country Club'
+  qualifier: SVGA
 publisher: Access Software, Inc.
 year: '1995'
 genre:
@@ -10,10 +12,19 @@ genre:
 language: English
 date:
   added: '2019-03-02T08:56:30'
-  last_modified: '2019-03-02T08:56:30'
+  last_modified: '2025-01-12T13:45:09'
+version: '1.21'
 type: zip
+media: 1.44M
 installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/56745/links-championship-course-prairie-dunes-country-club/
 files:
+- name: ATS\
+  size: 0
+  date: '1995-02-14T13:15:16'
 - name: ATS\GOLF.EXE
   size: 61542
   date: '1995-02-14T13:15:18'
@@ -34,10 +45,6 @@ files:
   size: 117622
   date: '1995-02-14T13:12:28'
   crc: '0x254e348d'
-- name: LABELS
-  size: 180
-  date: '1995-05-19T10:17:04'
-  crc: '0x95f6bc21'
 - name: LIE.LZ
   size: 21861
   date: '1995-02-14T13:12:26'

@@ -1,5 +1,6 @@
-filename: HardBall! (1987)(Accolade, Inc.) [Sports].zip
+filename: HardBall! (1987)(Accolade, Inc.) [Sports][!].zip
 tdc_id: '11002.0'
+parent_id: '11002.6'
 title:
   box: HardBall!
 publisher: Accolade, Inc.
@@ -8,9 +9,18 @@ genre: Sports
 language: English
 date:
   added: '2019-03-01T18:25:22'
-  last_modified: '2019-03-01T18:25:22'
+  last_modified: '2025-01-08T13:14:13'
 type: zip
+tags:
+- KnownGood
+requirements:
+  cpu:
+    min: '8088'
+media: 360K
+commands:
+  play: HARDBALL.EXE
 references:
+  mobygames: https://www.mobygames.com/game/7061/hardball/
   dosid: DOS02522
   exodos: HardBall! (1987).zip
 files:
@@ -58,10 +68,14 @@ files:
   size: 760
   date: '1987-07-21T23:06:10'
   crc: '0x3b04453c'
+- name: HARDBAL2.EXE
+  size: 768
+  date: '1987-10-16T13:24:14'
+  crc: '0xa63e7381'
 - name: HARDBALL.EXE
-  size: 2048
-  date: '1988-01-19T10:42:42'
-  crc: '0x9676f2e1'
+  size: 1792
+  date: '1987-10-20T12:25:54'
+  crc: '0xbef4a262'
 - name: HB1.000
   size: 41728
   date: '1980-01-01T00:14:46'
@@ -83,9 +97,13 @@ files:
   date: '1987-10-17T02:17:40'
   crc: '0xe44376ed'
 - name: HB2.COM
-  size: 45261
+  size: 46544
   date: '1987-10-17T02:20:06'
-  crc: '0x18a1d696'
+  crc: '0x3c5fb2a4'
+- name: HB2.CO_
+  size: 46544
+  date: '1987-10-17T02:20:06'
+  crc: '0xe66b48b8'
 - name: INFIELD
   size: 5320
   date: '1987-07-27T18:26:10'
@@ -166,14 +184,6 @@ files:
   size: 192
   date: '1987-09-01T20:59:12'
   crc: '0x77c90815'
-- name: README.EXE
-  size: 3040
-  date: '1994-02-02T13:52:40'
-  crc: '0x7b608994'
-- name: README.TXT
-  size: 3520
-  date: '1994-03-10T08:51:50'
-  crc: '0x5ec2aace'
 - name: RIGHT
   size: 13440
   date: '1987-07-27T14:14:02'

@@ -12,6 +12,9 @@ date:
 type: kfx
 tags:
 - KnownGood
+requirements:
+  cpu:
+    min: '8088'
 media: 360K
 references:
   mobygames: https://www.mobygames.com/game/7061/hardball/

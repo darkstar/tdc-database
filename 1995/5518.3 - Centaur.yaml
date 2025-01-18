@@ -1,0 +1,53 @@
+filename: Centaur v3.0 [FW] (1995)(Victor Vikhrev) [Strategy, Chess].zip
+tdc_id: '5518.3'
+title:
+  screen: Centaur
+publisher: Victor Vikhrev
+year: '1995'
+genre:
+- Strategy
+- Chess
+language: English
+date:
+  added: '2024-12-15T19:30:35'
+  last_modified: '2024-12-15T19:30:35'
+version: '3.0'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: C.BAT
+files:
+- name: BIBL.DAT
+  size: 49214
+  date: '2003-03-14T23:49:10'
+  crc: '0x712dc6de'
+- name: C.BAT
+  size: 27
+  date: '2020-07-01T20:00:00'
+  crc: '0x9ff8fd5b'
+- name: CHESS.EXE
+  size: 197280
+  date: '2003-03-14T18:00:00'
+  crc: '0xf547a9fe'
+- name: CHESS.OVR
+  size: 36978
+  date: '2003-03-14T18:00:00'
+  crc: '0x778e08ec'
+- name: FIG.BIN
+  size: 39312
+  date: '2003-03-14T23:49:20'
+  crc: '0x12384e51'
+- name: HELP.OVR
+  size: 2000
+  date: '2003-03-14T18:00:00'
+  crc: '0x0d304b22'
+- name: LAST.G
+  size: 54
+  date: '2003-03-14T18:00:00'
+  crc: '0x42c50088'
+- name: README.TXT
+  size: 3894
+  date: '2022-12-15T12:44:40'
+  crc: '0xa00b0295'

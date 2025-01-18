@@ -1,0 +1,106 @@
+filename: HardBall! (Tandy) (1988)(U.S. Gold Ltd., Accolade, Inc.) [Sports][!].zip
+tdc_id: '11002.9'
+parent_id: '11002.5'
+title:
+  box: HardBall!
+  qualifier: Tandy
+publisher: U.S. Gold Ltd., Accolade, Inc.
+year: '1988'
+genre: Sports
+language: English
+date:
+  added: '2025-01-08T17:20:06'
+  last_modified: '2025-01-08T17:20:06'
+type: zip
+tags:
+- KnownGood
+media: 360K
+commands:
+  play: HARDBALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/7061/hardball/
+files:
+- name: BLOC
+  size: 76
+  date: '1987-09-07T23:02:58'
+  crc: '0x57be4c96'
+- name: CHARS
+  size: 568
+  date: '1987-09-20T01:05:42'
+  crc: '0x635dac5f'
+- name: FIG16
+  size: 14132
+  date: '1987-09-02T19:34:10'
+  crc: '0xaf8ae5fc'
+- name: FLAG16
+  size: 1280
+  date: '1987-09-02T19:49:00'
+  crc: '0x703d5f92'
+- name: HARDBAL3.EXE
+  size: 768
+  date: '1987-10-16T13:24:14'
+  crc: '0xa63e7381'
+- name: HARDBALL.EXE
+  size: 997
+  date: '1987-09-21T04:12:34'
+  crc: '0xa509f905'
+- name: HB3.000
+  size: 44800
+  date: '1987-10-17T01:55:22'
+  crc: '0x83a29fc3'
+- name: HB3.001
+  size: 7680
+  date: '1987-10-17T01:52:50'
+  crc: '0x2d4bba7d'
+- name: HB3.COM
+  size: 47811
+  date: '1987-10-17T01:55:24'
+  crc: '0x7ad807cf'
+- name: INNING16
+  size: 9920
+  date: '1987-10-08T13:47:42'
+  crc: '0x0f5c7e69'
+- name: LEFT16
+  size: 17795
+  date: '1987-10-01T20:47:54'
+  crc: '0x7679c434'
+- name: PITCH16
+  size: 17629
+  date: '1987-10-01T20:38:08'
+  crc: '0xebb417d2'
+- name: PITCH16A.L
+  size: 49800
+  date: '1987-09-28T16:55:30'
+  crc: '0x5bece27c'
+- name: PITCH16A.R
+  size: 49800
+  date: '1987-09-28T15:23:40'
+  crc: '0x1e727d69'
+- name: PITCH16B
+  size: 13398
+  date: '1987-09-02T19:43:18'
+  crc: '0x6884719c'
+- name: PITCH16C
+  size: 5632
+  date: '1987-09-02T19:44:06'
+  crc: '0xd8b59c09'
+- name: PLOC
+  size: 192
+  date: '1987-09-07T23:02:56'
+  crc: '0x77c90815'
+- name: RIGHT16
+  size: 17877
+  date: '1987-10-01T20:43:10'
+  crc: '0x884f1464'
+- name: SOUND.BIN
+  size: 905
+  date: '1987-10-01T23:47:50'
+  crc: '0x1cf4814c'
+- name: THROW
+  size: 3584
+  date: '1987-09-03T20:22:12'
+  crc: '0x59afa5dd'
+- name: TITLE16
+  size: 32000
+  date: '1987-10-01T15:50:52'
+  crc: '0xe67adce2'

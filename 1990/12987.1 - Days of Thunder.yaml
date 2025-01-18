@@ -1,8 +1,9 @@
-filename: Days of Thunder (Installer) (1990)(Mindscape, Inc.) [Racing - Driving, Simulation].zip
+filename: Days of Thunder (Installer) (1990)(Mindscape, Inc.) [Racing - Driving, Simulation][!].zip
 tdc_id: '12987.1'
-parent_id: '12987.4'
+parent_id: '12987.6'
 title:
   box: Days of Thunder
+  qualifier: Installer
 publisher: Mindscape, Inc.
 year: '1990'
 genre:
@@ -11,11 +12,16 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:32:20'
-  last_modified: '2019-03-01T18:32:20'
+  last_modified: '2024-12-19T15:11:56'
 type: zip
+tags:
+- KnownGood
+media: 720K
 installer: true
 commands:
   play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1432/days-of-thunder/
 files:
 - name: DI1.QPZ
   size: 4

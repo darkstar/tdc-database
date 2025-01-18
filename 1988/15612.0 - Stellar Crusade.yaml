@@ -1,4 +1,4 @@
-filename: Stellar Crusade (1988)(Strategic Simulations, Inc.) [Simulation, Strategy].zip
+filename: Stellar Crusade v1.0 (1988)(Strategic Simulations, Inc.) [Simulation, Strategy].zip
 tdc_id: '15612.0'
 title:
   box: Stellar Crusade
@@ -10,9 +10,13 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:26:52'
-  last_modified: '2019-03-01T18:26:52'
+  last_modified: '2024-12-14T15:53:07'
+version: '1.0'
 type: zip
+commands:
+  play: CRUSADE.EXE
 references:
+  mobygames: https://www.mobygames.com/game/43507/stellar-crusade/
   dosid: DOS04869
   exodos: Stellar Crusade (1988).zip
 files:
@@ -20,14 +24,14 @@ files:
   size: 6029
   date: '1987-12-16T04:00:00'
   crc: '0xcd2d7722'
-- name: CINIT.bak
+- name: CINIT.EXE
+  size: 37024
+  date: '1988-04-14T14:21:28'
+  crc: '0x9b964d3c'
+- name: CINIT.EX_
   size: 37024
   date: '1988-04-14T14:21:28'
   crc: '0x39f17af2'
-- name: CINIT.exe
-  size: 37024
-  date: '2002-08-02T23:47:26'
-  crc: '0x9b964d3c'
 - name: CMAIN.EXE
   size: 116608
   date: '1988-04-17T16:36:14'
@@ -68,22 +72,6 @@ files:
   size: 41600
   date: '1988-03-06T16:54:48'
   crc: '0x02a37070'
-- name: Stellar Crusade Copy Protection.txt
-  size: 567
-  date: '1999-12-08T13:37:34'
-  crc: '0x3047cbba'
-- name: Stellar Crusade Manual.txt
-  size: 97335
-  date: '1999-12-08T22:30:40'
-  crc: '0xb5c3d9f2'
-- name: Stellar Crusade Map.gif
-  size: 18120
-  date: '1999-12-08T22:24:58'
-  crc: '0xf786d6fd'
-- name: TEMP.INF
-  size: 42630
-  date: '2007-09-05T21:04:50'
-  crc: '0x3514afd1'
 - name: WAR1.DAT
   size: 41600
   date: '1988-03-06T16:54:56'
@@ -92,7 +80,3 @@ files:
   size: 41600
   date: '1988-03-06T16:55:02'
   crc: '0xf58751ad'
-- name: crack.com
-  size: 177
-  date: '2002-08-02T23:46:56'
-  crc: '0x8382b635'

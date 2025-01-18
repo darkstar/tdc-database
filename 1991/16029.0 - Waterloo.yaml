@@ -1,0 +1,84 @@
+filename: Waterloo (1991)(Mirrorsoft Ltd.) [Simulation, Strategy, War][!].zip
+tdc_id: '16029.0'
+title:
+  box: Waterloo
+publisher: Mirrorsoft Ltd.
+year: '1991'
+genre:
+- Simulation
+- Strategy
+- War
+language: English
+date:
+  added: '2021-12-21T05:49:30'
+  last_modified: '2025-01-16T11:03:47'
+type: zip
+tags:
+- KnownGood
+commands:
+  play: WATERLOO.BAT
+references:
+  mobygames: https://www.mobygames.com/game/14952/waterloo/
+  dosid: DOS05557
+  exodos: Waterloo (1989).zip
+files:
+- name: ALLIES.GEN
+  size: 1845
+  date: '1991-05-09T12:26:14'
+  crc: '0x85e1e203'
+- name: ALLIES.ORD
+  size: 640
+  date: '1991-05-09T12:26:16'
+  crc: '0xe7642260'
+- name: B648.MAP
+  size: 12032
+  date: '1991-05-09T12:26:16'
+  crc: '0x9d30c391'
+- name: FRENCH.GEN
+  size: 1253
+  date: '1991-05-09T12:26:14'
+  crc: '0x70e7eb77'
+- name: FRENCH.ORD
+  size: 512
+  date: '1991-05-09T12:26:16'
+  crc: '0x345822b3'
+- name: LEXICON.TAB
+  size: 5760
+  date: '1991-05-09T12:26:16'
+  crc: '0xbf3cc0ab'
+- name: MIRIMAGE.RAX
+  size: 18462
+  date: '1991-05-09T12:16:46'
+  crc: '0x7c2ae9dd'
+- name: PARSE.TAB
+  size: 5376
+  date: '1991-05-09T12:26:16'
+  crc: '0x5fb67a5b'
+- name: SHOW.EXE
+  size: 2304
+  date: '1991-05-09T12:16:46'
+  crc: '0xcdfac136'
+- name: WAREA.DAT
+  size: 13056
+  date: '1991-05-09T12:26:14'
+  crc: '0x8ca2405f'
+- name: WATER.CGA
+  size: 16384
+  date: '1991-05-09T12:26:14'
+  crc: '0xd7f12856'
+- name: WATER.EGA
+  size: 114688
+  date: '1991-05-09T12:26:14'
+  crc: '0xf7476155'
+- name: WATERLOO.BAT
+  size: 38
+  date: '1991-05-09T12:16:46'
+  crc: '0x82aaf716'
+- name: WL.EXE
+  size: 334674
+  date: '1991-05-09T12:16:48'
+  crc: '0x9b2e3be1'
+- name: WL.EX_
+  size: 337760
+  date: '1991-05-09T12:16:48'
+  crc: '0x8e611731'

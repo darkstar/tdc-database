@@ -1,0 +1,31 @@
+filename: Enchanter r16-D [DC] (1983)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '13390.9'
+title:
+  box: Enchanter
+publisher: Infocom, Inc.
+year: '1983'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2024-12-26T08:40:15'
+  last_modified: '2024-12-26T08:40:15'
+release: 16-D
+type: zip
+tags:
+- DOSConversion
+media: 360K
+commands:
+  play: ENCHANT.COM
+references:
+  mobygames: https://www.mobygames.com/game/56/enchanter/
+files:
+- name: ENCHANT.COM
+  size: 12928
+  date: '1980-01-01T00:00:00'
+  crc: '0x4f62e6f4'
+- name: ENCHANT.DAT
+  size: 129728
+  date: '1983-11-15T14:46:08'
+  crc: '0x77e87d41'

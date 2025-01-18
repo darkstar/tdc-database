@@ -1,5 +1,6 @@
-filename: Timequest v1.0 (1991)(Legend Entertainment Company) [IMA][360k][!].zip
+filename: Timequest v1.0.0 (1991)(Legend Entertainment Company) [IMA][360k][!].zip
 tdc_id: '16737.3'
+parent_id: '16737.5'
 title:
   box: Timequest
 publisher: Legend Entertainment Company
@@ -8,12 +9,14 @@ genre: IMA
 language: English
 date:
   added: '2023-02-26T18:21:50'
-  last_modified: '2023-02-26T18:21:50'
-version: '1.0'
+  last_modified: '2024-12-27T08:06:50'
+version: 1.0.0
 type: IMA
 tags:
 - KnownGood
 media: 360K
+references:
+  mobygames: https://www.mobygames.com/game/1026/timequest/
 files:
 - name: Disk1.ima
   size: 368640

@@ -1,0 +1,48 @@
+filename: Museum Madness (demo) (1994)(MECC) [Educational].zip
+tdc_id: '7972.6'
+title:
+  screen: Museum Madness
+publisher: MECC
+year: '1994'
+genre: Educational
+language: English
+date:
+  added: '2024-12-14T13:15:39'
+  last_modified: '2024-12-14T13:15:39'
+type: zip
+media: Download
+demo: true
+commands:
+  play: MUSEUM.COM
+  setup: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/6495/museum-madness/
+files:
+- name: MUSEUM.CFG
+  size: 12
+  date: '1994-09-04T11:30:26'
+  crc: '0xb0f9434e'
+- name: MUSEUM.COM
+  size: 542
+  date: '1994-09-08T12:02:50'
+  crc: '0x26895ee9'
+- name: MUSEUM.NDX
+  size: 3856
+  date: '1994-09-08T12:02:50'
+  crc: '0x511b389a'
+- name: MUSEUM.OVL
+  size: 283850
+  date: '1994-09-08T12:02:50'
+  crc: '0xf2c65bf8'
+- name: MUSEUM.RES
+  size: 1178859
+  date: '1994-09-08T12:02:50'
+  crc: '0x206c27b9'
+- name: MUSEUM.TXT
+  size: 292
+  date: '1994-09-08T12:02:50'
+  crc: '0xc90a6e25'
+- name: SETUP.EXE
+  size: 42013
+  date: '1994-09-08T12:02:50'
+  crc: '0xa0d7a8ce'

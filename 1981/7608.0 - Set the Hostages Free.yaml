@@ -11,6 +11,9 @@ date:
   last_modified: '2019-03-01T18:22:54'
 version: '2.0'
 type: zip
+requirements:
+  cpu:
+    min: '8088'
 commands:
   play: HOSTAGES.EXE
 references:

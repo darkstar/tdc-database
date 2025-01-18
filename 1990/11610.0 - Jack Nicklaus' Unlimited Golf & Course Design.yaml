@@ -9,9 +9,12 @@ genre: Sports
 language: English
 date:
   added: '2019-03-01T18:32:56'
-  last_modified: '2019-03-01T18:32:56'
+  last_modified: '2025-01-09T15:40:14'
 type: zip
+commands:
+  play: GOLF.EXE
 references:
+  mobygames: https://www.mobygames.com/game/1275/jack-nicklaus-unlimited-golf-course-design/
   dosid: DOS02872
   exodos: Jack Nicklaus' Unlimited Golf and Course Design (1990).zip
 files:
@@ -127,11 +130,11 @@ files:
   size: 9732
   date: '1990-06-04T09:57:00'
   crc: '0xea3fb773'
-- name: DESIGN.COM
-  size: 1157
-  date: '1990-07-01T21:11:08'
-  crc: '0xfe689d7a'
-- name: DESIGN.DAT
+- name: DESIGN.EXE
+  size: 76291
+  date: '1990-06-15T19:16:28'
+  crc: '0xade11016'
+- name: DESIGN.EX_
   size: 76291
   date: '1990-06-15T19:16:28'
   crc: '0xb02128e2'
@@ -183,11 +186,11 @@ files:
   size: 1863
   date: '1990-06-07T16:47:14'
   crc: '0x3dfffd9d'
-- name: GOLF.COM
-  size: 1178
-  date: '1990-07-01T21:08:52'
-  crc: '0xed549dae'
-- name: GOLF.DAT
+- name: GOLF.EXE
+  size: 82345
+  date: '1990-06-15T19:26:36'
+  crc: '0x97045354'
+- name: GOLF.EX_
   size: 82345
   date: '1990-06-15T19:26:36'
   crc: '0x96fa2cff'
@@ -223,10 +226,6 @@ files:
   size: 1890
   date: '1990-05-30T13:58:26'
   crc: '0x5f358d0d'
-- name: MEMBERS.LST
-  size: 1000
-  date: '1997-02-27T19:49:44'
-  crc: '0xfc7dd964'
 - name: MFIELD.DM
   size: 6195
   date: '1990-06-14T15:33:54'

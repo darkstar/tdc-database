@@ -1,8 +1,9 @@
-filename: Treasures of the Savage Frontier v1.03 (De) (1992)(Strategic Simulations, Inc.) [Adventure, Role-Playing (RPG)].zip
+filename: Treasures of the Savage Frontier v1.03 (De) (1992)(Softgold Computerspiele GmbH, Strategic Simulations, Inc.) [Adventure, Role-Playing (RPG)].zip
 tdc_id: '16896.2'
+parent_id: '16896.9'
 title:
   box: Treasures of the Savage Frontier
-publisher: Strategic Simulations, Inc.
+publisher: Softgold Computerspiele GmbH, Strategic Simulations, Inc.
 year: '1992'
 genre:
 - Adventure
@@ -10,281 +11,283 @@ genre:
 language: German
 date:
   added: '2019-03-01T18:52:00'
-  last_modified: '2019-03-01T18:52:00'
+  last_modified: '2024-12-25T08:52:06'
 version: '1.03'
 type: zip
+media:
+- 720K
+- 1.44M
+commands:
+  play: START.BAT
 references:
+  mobygames: https://www.mobygames.com/game/507/treasures-of-the-savage-frontier/
   dosid: DOS05263
   exodos: Treasures of the Savage Frontier (1992).zip
 files:
 - name: 8X8D0.DAX
   size: 1939
-  date: '2012-11-18T12:44:12'
+  date: '1991-10-22T19:29:16'
   crc: '0xd6f8abef'
 - name: 8X8D1.DAX
   size: 146087
-  date: '2012-11-18T12:44:14'
+  date: '1992-02-20T13:06:22'
   crc: '0x88ea7fb5'
 - name: ADLIB.COM
   size: 2560
-  date: '2012-11-18T12:44:24'
+  date: '1992-02-05T08:41:50'
   crc: '0x9d71d089'
 - name: BACK1.DAX
   size: 22169
-  date: '2012-11-18T12:44:14'
+  date: '1992-02-25T12:35:26'
   crc: '0x58eb567a'
 - name: BIGPIC1.DAX
   size: 165640
-  date: '2012-11-18T12:44:16'
+  date: '1992-02-14T12:21:30'
   crc: '0xd8f1830e'
 - name: BORD.DAX
   size: 59234
-  date: '2012-11-18T12:44:16'
+  date: '1992-08-27T15:08:46'
   crc: '0xda5fcc6c'
 - name: BORDERS.DAX
   size: 3038
-  date: '2012-11-18T12:44:16'
+  date: '1991-08-20T17:07:50'
   crc: '0x94d1cc83'
 - name: CBODY.DAX
   size: 33442
-  date: '2012-11-18T12:44:16'
+  date: '1991-08-11T15:20:30'
   crc: '0x115b4b88'
 - name: CHEAD.DAX
   size: 4790
-  date: '2012-11-18T12:44:16'
+  date: '1991-08-11T15:20:30'
   crc: '0xea30eabf'
 - name: COMSPR.DAX
   size: 17294
-  date: '2012-11-18T12:44:16'
+  date: '1991-07-03T15:23:02'
   crc: '0x6d3b5385'
 - name: CONTROL.EXE
   size: 3984
-  date: '2012-11-18T12:44:24'
+  date: '1991-12-07T11:54:28'
   crc: '0x0f0b4bf3'
 - name: CPIC1.DAX
   size: 203455
-  date: '2012-11-18T12:44:34'
+  date: '1992-02-24T11:51:52'
   crc: '0x299a4050'
 - name: CURSOR.DAX
   size: 132
-  date: '2012-11-18T12:44:16'
+  date: '1990-08-30T17:25:56'
   crc: '0x8387c9ab'
 - name: DUNGCOM.DAX
   size: 81675
-  date: '2012-11-18T12:44:18'
+  date: '1992-02-25T12:52:20'
   crc: '0xee61acd2'
 - name: ECL1.DAX
   size: 258000
-  date: '2012-11-18T12:44:32'
+  date: '1992-11-23T20:16:08'
   crc: '0x43741e7e'
 - name: GAME.EXE
   size: 82464
-  date: '2018-12-04T21:17:24'
+  date: '1992-11-18T19:00:48'
   crc: '0x02a48fe4'
 - name: GAME.EX_
   size: 82464
-  date: '2012-11-18T12:44:26'
+  date: '1992-11-18T19:00:48'
   crc: '0x7fee0b92'
 - name: GAME.OVR
   size: 311489
-  date: '2012-11-18T12:44:28'
+  date: '1992-11-18T19:00:48'
   crc: '0xddc6d6f6'
 - name: GEO1.DAX
   size: 29983
-  date: '2012-11-18T12:44:18'
+  date: '1992-02-28T12:01:00'
   crc: '0x1c417a2c'
 - name: IBMSND.COM
   size: 2256
-  date: '2012-11-18T12:44:28'
+  date: '1992-02-05T08:42:10'
   crc: '0xcdc13117'
 - name: ITEM0.DAX
   size: 4483
-  date: '2012-11-18T12:44:18'
+  date: '1992-02-28T11:13:26'
   crc: '0x859187a1'
 - name: ITEMS
   size: 2048
-  date: '2012-11-18T12:44:28'
+  date: '1992-03-06T10:16:50'
   crc: '0xb793d1ef'
 - name: LUCK.DAX
   size: 11058
-  date: '2012-11-18T12:44:18'
+  date: '1992-08-28T14:41:36'
   crc: '0x78540a09'
 - name: MON1CHA.DAX
   size: 11065
-  date: '2012-11-18T12:44:18'
+  date: '1992-10-11T20:13:44'
   crc: '0xd4146164'
 - name: MON1ITM.DAX
   size: 3685
-  date: '2012-11-18T12:44:18'
+  date: '1992-10-11T20:13:44'
   crc: '0x9d256101'
 - name: MON1SPC.DAX
   size: 1556
-  date: '2012-11-18T12:44:18'
+  date: '1992-10-11T20:13:44'
   crc: '0xa6f341de'
 - name: MUSIC.DAX
   size: 14443
-  date: '2012-11-18T12:44:18'
+  date: '1992-02-18T17:15:08'
   crc: '0x7e99ba28'
 - name: OVER.DAX
   size: 111083
-  date: '2012-11-18T12:44:20'
+  date: '1991-10-22T19:22:56'
   crc: '0x4b150022'
 - name: PIC1.DAX
   size: 503785
-  date: '2012-11-18T12:44:48'
+  date: '1992-02-26T09:36:26'
   crc: '0x36b9bf47'
 - name: PIC1A.DAX
   size: 462122
-  date: '2012-11-18T12:44:52'
+  date: '1992-03-06T14:43:06'
   crc: '0x16cf30e0'
 - name: SAVE\
   size: 0
-  date: '2012-11-18T12:45:06'
+  date: '1992-02-20T10:34:34'
 - name: SAVE\CHRDATA1.EFX
   size: 9
-  date: '2012-11-18T12:45:06'
+  date: '1992-02-20T10:34:30'
   crc: '0xb9151d7a'
 - name: SAVE\CHRDATA1.SAV
   size: 510
-  date: '2012-11-18T12:45:06'
+  date: '1992-02-20T10:34:30'
   crc: '0x0f9e8902'
 - name: SAVE\CHRDATA1.THG
   size: 315
-  date: '2012-11-18T12:45:06'
+  date: '1992-02-20T10:34:30'
   crc: '0x87be3994'
 - name: SAVE\CHRDATA2.EFX
   size: 9
-  date: '2012-11-18T12:45:06'
+  date: '1992-02-20T10:34:30'
   crc: '0xf20d889d'
 - name: SAVE\CHRDATA2.SAV
   size: 510
-  date: '2012-11-18T12:45:06'
+  date: '1992-02-20T10:34:30'
   crc: '0xbf713965'
 - name: SAVE\CHRDATA2.THG
   size: 315
-  date: '2012-11-18T12:45:06'
+  date: '1992-02-20T10:34:30'
   crc: '0xda9a2ce6'
 - name: SAVE\CHRDATA3.EFX
   size: 9
-  date: '2012-11-18T12:45:06'
+  date: '1992-02-20T10:34:32'
   crc: '0xb9d12824'
 - name: SAVE\CHRDATA3.SAV
   size: 510
-  date: '2012-11-18T12:45:06'
+  date: '1992-02-20T10:34:30'
   crc: '0xd6c6ca46'
 - name: SAVE\CHRDATA3.THG
   size: 252
-  date: '2012-11-18T12:45:06'
+  date: '1992-02-20T10:34:32'
   crc: '0x850181a0'
 - name: SAVE\CHRDATA4.EFX
   size: 9
-  date: '2012-11-18T12:45:06'
+  date: '1992-02-20T10:34:32'
   crc: '0x80fbd595'
 - name: SAVE\CHRDATA4.SAV
   size: 510
-  date: '2012-11-18T12:45:06'
+  date: '1992-02-20T10:34:32'
   crc: '0xb357c635'
 - name: SAVE\CHRDATA4.THG
   size: 315
-  date: '2012-11-18T12:45:06'
+  date: '1992-02-20T10:34:32'
   crc: '0x552dd757'
 - name: SAVE\CHRDATA5.EFX
   size: 18
-  date: '2012-11-18T12:45:06'
+  date: '1992-02-20T10:34:32'
   crc: '0x697cf326'
 - name: SAVE\CHRDATA5.SAV
   size: 510
-  date: '2012-11-18T12:45:06'
+  date: '1992-02-20T10:34:32'
   crc: '0xdc190ce8'
 - name: SAVE\CHRDATA5.THG
   size: 189
-  date: '2012-11-18T12:45:06'
+  date: '1992-02-20T10:34:32'
   crc: '0x049f043c'
 - name: SAVE\CHRDATA6.EFX
   size: 36
-  date: '2012-11-18T12:45:06'
+  date: '1992-02-20T10:34:34'
   crc: '0xcdde0aa7'
 - name: SAVE\CHRDATA6.SAV
   size: 510
-  date: '2012-11-18T12:45:06'
+  date: '1992-02-20T10:34:34'
   crc: '0x826f687c'
 - name: SAVE\CHRDATA6.THG
   size: 189
-  date: '2012-11-18T12:45:06'
+  date: '1992-02-20T10:34:34'
   crc: '0xef4df026'
 - name: SAVE\CHRDATA7.EFX
   size: 9
-  date: '2012-11-18T12:45:06'
+  date: '1992-02-07T15:22:12'
   crc: '0x74111f4b'
 - name: SAVE\CHRDATA7.SAV
   size: 510
-  date: '2012-11-18T12:45:06'
+  date: '1992-02-04T13:40:32'
   crc: '0x4e23d308'
 - name: SAVE\CHRDATA7.THG
   size: 315
-  date: '2012-11-18T12:45:06'
+  date: '1992-02-04T13:40:32'
   crc: '0x989dc6fa'
 - name: SAVE\CHRDATA8.SAV
   size: 510
-  date: '2012-11-18T12:45:06'
+  date: '1992-01-21T14:17:46'
   crc: '0x06b37ca4'
 - name: SAVE\CHRDATA8.THG
   size: 378
-  date: '2012-11-18T12:45:06'
+  date: '1992-01-21T14:17:46'
   crc: '0xef18cb6f'
 - name: SAVE\SAVGAMA.PTY
   size: 1364
-  date: '2012-11-18T12:45:06'
+  date: '1992-02-20T10:34:30'
   crc: '0xea1ee73b'
 - name: SAVE\VAULTA.DAT
   size: 12
-  date: '2012-11-18T12:45:06'
+  date: '1992-02-20T10:34:34'
   crc: '0x7bd5c66f'
 - name: SBLASTER.COM
   size: 3120
-  date: '2012-11-18T12:44:28'
+  date: '1992-02-05T08:42:30'
   crc: '0xa8aec31b'
 - name: SKYGRND.DAX
   size: 85590
-  date: '2012-11-18T12:44:20'
+  date: '1992-02-25T12:28:06'
   crc: '0x9da70489'
-- name: SND.COM
-  size: 3120
-  date: '2012-11-18T12:45:24'
-  crc: '0xa8aec31b'
 - name: SPRIT1.DAX
   size: 54795
-  date: '2012-11-18T12:44:22'
+  date: '1992-01-31T09:41:42'
   crc: '0x50762083'
 - name: START.BAT
   size: 77
-  date: '2012-11-18T12:44:28'
+  date: '1992-03-03T11:48:30'
   crc: '0x4d7bbfd8'
 - name: STARTUP.EXE
   size: 11440
-  date: '2012-11-18T12:44:28'
+  date: '1992-05-04T10:07:22'
   crc: '0xdbaca744'
 - name: TANEXTX.COM
   size: 2448
-  date: '2012-11-18T12:44:28'
+  date: '1992-02-05T08:42:20'
   crc: '0xee5f9a2a'
 - name: TANSLTL.COM
   size: 1872
-  date: '2012-11-18T12:44:28'
+  date: '1992-02-05T08:42:26'
   crc: '0x538dcb13'
 - name: TITLE.DAX
   size: 267780
-  date: '2012-11-18T12:44:24'
+  date: '1992-02-26T16:53:44'
   crc: '0x68942a33'
 - name: WALLDEF1.DAX
   size: 12336
-  date: '2012-11-18T12:44:24'
+  date: '1992-02-20T17:03:16'
   crc: '0x9425890e'
 - name: WILDCOM.DAX
   size: 18628
-  date: '2012-11-18T12:44:24'
+  date: '1992-01-15T13:29:30'
   crc: '0x69175ca2'
 - name: ZOUNDS.DAX
   size: 21838
-  date: '2012-11-18T12:44:24'
+  date: '1991-11-14T13:37:46'
   crc: '0x3d00e162'

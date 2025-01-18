@@ -11,6 +11,9 @@ date:
   last_modified: '2024-11-27T08:51:49'
 version: '1.00'
 type: kfx
+requirements:
+  cpu:
+    min: '8088'
 media: 360K
 references:
   mobygames: https://www.mobygames.com/game/4074/microsoft-adventure/

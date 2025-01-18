@@ -1,4 +1,4 @@
-filename: Iron Lord [a2] (1991)(Ubi Soft Entertainment Software) [Action, Adventure].zip
+filename: Iron Lord r910501 (Installer) (1991)(Ubi Soft Entertainment Software) [Action, Adventure].zip
 tdc_id: '11556.4'
 title:
   box: Iron Lord
@@ -10,10 +10,14 @@ genre:
 language: English
 date:
   added: '2022-08-05T08:31:08'
-  last_modified: '2022-08-05T08:31:08'
+  last_modified: '2025-01-06T11:14:22'
+release: '910501'
 type: zip
-tags:
-- Alternate: 2
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/14405/iron-lord/
 files:
 - name: INSTALL.ABT
   size: 1813

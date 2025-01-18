@@ -1,0 +1,85 @@
+filename: Hoyle Bridge (1996)(Sierra On-Line, Inc.) [Strategy, Cards].zip
+tdc_id: '17711.0'
+title:
+  box: Hoyle Bridge
+publisher: Sierra On-Line, Inc.
+year: '1996'
+genre:
+- Strategy
+- Cards
+language: English
+date:
+  added: '2024-12-19T09:19:36'
+  last_modified: '2024-12-19T09:19:36'
+type: zip
+commands:
+  play: SIERRAH.EXE
+references:
+  mobygames: https://www.mobygames.com/game/17466/hoyle-bridge/
+files:
+- name: 1.MSG
+  size: 32
+  date: '1996-12-04T14:32:22'
+  crc: '0x4433f771'
+- name: 14.MSG
+  size: 2109
+  date: '1996-12-04T16:51:20'
+  crc: '0x31eb0b36'
+- name: 4.MSG
+  size: 1427
+  date: '1996-12-04T18:02:50'
+  crc: '0xe2ab2d6a'
+- name: 700.CFG
+  size: 466
+  date: '1996-12-04T16:15:46'
+  crc: '0xc24152e9'
+- name: 910.MSG
+  size: 2948
+  date: '1996-12-04T16:52:20'
+  crc: '0x0e67005f'
+- name: BRIDGE.OPT
+  size: 8
+  date: '2015-03-17T19:50:28'
+  crc: '0xa5ece673'
+- name: HOYLE.BMP
+  size: 117004
+  date: '1996-12-04T11:38:12'
+  crc: '0x7f2777b1'
+- name: MIDNONE.DRV
+  size: 10427
+  date: '1995-11-06T19:27:56'
+  crc: '0xa21ad12c'
+- name: README.TXT
+  size: 15116
+  date: '1996-12-04T17:07:42'
+  crc: '0x8c878118'
+- name: RESMAP.000
+  size: 5647
+  date: '1996-12-04T10:37:16'
+  crc: '0x1ba095b1'
+- name: RESMDT.000
+  size: 5647
+  date: '1996-12-04T10:37:16'
+  crc: '0xd8656099'
+- name: RESOURCE.AUD
+  size: 0
+  date: '1997-02-19T17:41:46'
+- name: RESOURCE.CFG
+  size: 228
+  date: '1997-02-19T17:49:34'
+  crc: '0xc5bdfbbd'
+- name: RESOURCE.SFX
+  size: 0
+  date: '1997-02-19T17:51:42'
+- name: RESSCI.000
+  size: 16842499
+  date: '1996-12-04T10:37:16'
+  crc: '0xbefc0a98'
+- name: SIERRA.ERR
+  size: 8475
+  date: '1996-12-04T12:57:18'
+  crc: '0x7969cc00'
+- name: SIERRAH.EXE
+  size: 941737
+  date: '1996-12-04T14:36:58'
+  crc: '0x948f0422'

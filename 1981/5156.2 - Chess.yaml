@@ -15,6 +15,9 @@ type: zip
 tags:
 - Shareware
 - Alternate: 2
+requirements:
+  cpu:
+    min: '8088'
 media: Download
 commands:
   play: CHESS.EXE

@@ -1,0 +1,49 @@
+filename: Tank Commander v1.2 Patch (1995)(Domark Software, Inc.) [Action, Simulation, Strategy, Addon].zip
+tdc_id: '15681.6'
+title:
+  screen: Tank Commander v1.2 Patch
+publisher: Domark Software, Inc.
+year: '1995'
+genre:
+- Action
+- Simulation
+- Strategy
+- Addon
+language: English
+date:
+  added: '2024-12-28T16:57:34'
+  last_modified: '2024-12-28T16:57:34'
+type: zip
+media: Download
+patch: true
+references:
+  mobygames: https://www.mobygames.com/game/30365/tank-commander/
+files:
+- name: INSTALL.BAT
+  size: 7381
+  date: '1995-07-14T14:29:20'
+  crc: '0x842a83cc'
+- name: INSTALL.EXE
+  size: 49288
+  date: '1995-07-14T09:30:14'
+  crc: '0x7e7bcbe4'
+- name: READ1ST.TXT
+  size: 3180
+  date: '1995-07-28T10:50:24'
+  crc: '0x93908999'
+- name: SETUP.EXE
+  size: 83262
+  date: '1995-07-14T14:32:18'
+  crc: '0xf211fe51'
+- name: TANK.EXE
+  size: 388574
+  date: '1995-07-14T08:37:38'
+  crc: '0xa4921269'
+- name: TANK_MOD.EXE
+  size: 397680
+  date: '1995-07-14T08:34:24'
+  crc: '0x260718a9'
+- name: TANK_NET.EXE
+  size: 392686
+  date: '1995-07-14T08:31:12'
+  crc: '0x71326a2b'

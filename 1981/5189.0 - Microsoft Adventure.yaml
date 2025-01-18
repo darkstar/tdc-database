@@ -12,6 +12,9 @@ date:
   added: '2019-12-29T13:50:42'
   last_modified: '2019-12-29T13:50:42'
 type: zip
+requirements:
+  cpu:
+    min: '8088'
 references:
   dosid: DOS05930
   exodos: Microsoft Adventure (1981).zip

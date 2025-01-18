@@ -1,4 +1,4 @@
-filename: Action Service [a1] (1988)(Infogrames Entertainment SA) [Action, Simulation].zip
+filename: Action Service r881207 (1988)(Infogrames Entertainment SA) [Action, Simulation].zip
 tdc_id: '8052.1'
 title:
   box: Action Service
@@ -10,10 +10,13 @@ genre:
 language: English
 date:
   added: '2020-02-08T19:47:02'
-  last_modified: '2020-02-08T19:47:02'
+  last_modified: '2025-01-03T11:02:41'
+release: '881207'
 type: zip
-tags:
-- Alternate: 1
+commands:
+  play: COBRA.BAT
+references:
+  mobygames: https://www.mobygames.com/game/30469/combat-course/
 files:
 - name: CAR1_CGA.HIP
   size: 13373
@@ -55,10 +58,6 @@ files:
   size: 418
   date: '1988-09-12T01:57:36'
   crc: '0x416e136d'
-- name: COBRA.RE2
-  size: 10
-  date: '1991-01-09T20:39:20'
-  crc: '0x202302b9'
 - name: CONSCGA.HIP
   size: 2961
   date: '1988-08-21T04:45:28'

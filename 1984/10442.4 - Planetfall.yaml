@@ -1,0 +1,32 @@
+filename: Planetfall r29 [DC] (1984)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '10442.4'
+parent_id: '10442.10'
+title:
+  box: Planetfall
+publisher: Infocom, Inc.
+year: '1984'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2022-06-03T20:51:34'
+  last_modified: '2024-12-12T19:22:56'
+release: '29'
+type: zip
+tags:
+- DOSConversion
+media: 360K
+commands:
+  play: PLANETFA.COM
+references:
+  mobygames: https://www.mobygames.com/game/51/planetfall/
+files:
+- name: PLANETFA.COM
+  size: 12928
+  date: '1984-01-18T19:21:40'
+  crc: '0x8ec56ea5'
+- name: PLANETFA.DAT
+  size: 130752
+  date: '1984-01-18T19:21:40'
+  crc: '0xedbbbeb8'

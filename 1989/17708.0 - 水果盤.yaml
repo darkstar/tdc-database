@@ -1,0 +1,36 @@
+filename: 水果盤 (HGA) (Zh)(En) (1989)(Soft-World) [Simulation].zip
+tdc_id: '17708.0'
+title:
+  screen: 水果盤
+  translation: Fruit Bar
+  transliteration: Shuǐguǒ pán
+  qualifier: HGA
+publisher: Soft-World
+year: '1989'
+genre: Simulation
+language:
+- English
+- Chinese
+date:
+  added: '2024-12-18T11:03:46'
+  last_modified: '2024-12-18T11:03:46'
+type: zip
+commands:
+  play: FRUIT.EXE
+files:
+- name: FRUIT.EXE
+  size: 279671
+  date: '1989-10-02T14:04:32'
+  crc: '0x8ff3d4b8'
+- name: HEAD.EXE
+  size: 9164
+  date: '1989-09-29T15:17:40'
+  crc: '0x55dd379a'
+- name: HITECH.DAT
+  size: 257
+  date: '2012-09-14T13:45:40'
+  crc: '0xc0056a4e'
+- name: SOUND.COM
+  size: 13440
+  date: '1988-11-11T09:48:08'
+  crc: '0x70097158'

@@ -1,0 +1,62 @@
+filename: Quarter Pole v1.1 (Installer) (De) (1994)(Starbyte Software, Microleague Interactive Software) [Racing - Driving, Simulation, Sports].zip
+tdc_id: '10811.6'
+parent_id: '10811.5'
+title:
+  box: Quarter Pole
+publisher: Starbyte Software, Microleague Interactive Software
+year: '1994'
+genre:
+- Racing - Driving
+- Simulation
+- Sports
+language: German
+date:
+  added: '2025-01-06T13:22:32'
+  last_modified: '2025-01-07T08:35:45'
+version: '1.1'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/37188/quarterpole/
+files:
+- name: DISK.ID
+  size: 27
+  date: '1994-04-29T14:51:30'
+  crc: '0x84e0942c'
+- name: DISK2.ID
+  size: 27
+  date: '1994-04-29T15:00:02'
+  crc: '0x86a62a75'
+- name: DISK3.ID
+  size: 27
+  date: '1994-04-29T15:11:08'
+  crc: '0x87644042'
+- name: INSTALL.DAT
+  size: 38876
+  date: '1994-04-29T15:49:32'
+  crc: '0xc4ffa73a'
+- name: INSTALL.EXE
+  size: 90304
+  date: '1994-04-29T14:51:30'
+  crc: '0x929e6b84'
+- name: QPOLE.001
+  size: 1114628
+  date: '1994-04-29T14:59:26'
+  crc: '0x1e784b8e'
+- name: QPOLE.002
+  size: 1419176
+  date: '1994-04-29T15:10:38'
+  crc: '0x364d1bd1'
+- name: QPOLE.003
+  size: 633589
+  date: '1994-04-29T15:15:32'
+  crc: '0xe62666da'
+- name: QUARTERP.OLE
+  size: 0
+  date: '1994-05-04T10:49:56'
+- name: SOUND.001
+  size: 177289
+  date: '1994-04-29T14:51:30'
+  crc: '0xbcdd8b88'

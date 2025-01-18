@@ -1,0 +1,26 @@
+filename: Bill & Ted's Excellent Adventure patch (1990)(Capstone, IntraCorp, Inc., Steven H. Don) [Adventure, Addon].zip
+tdc_id: '12634.4'
+title:
+  screen: Bill & Ted's Excellent Adventure patch
+publisher: Capstone, IntraCorp, Inc., Steven H. Don
+year: '1990'
+genre:
+- Adventure
+- Addon
+language: English
+date:
+  added: '2024-12-29T16:17:49'
+  last_modified: '2024-12-29T16:17:49'
+type: zip
+patch: true
+references:
+  mobygames: https://www.mobygames.com/game/1911/bill-teds-excellent-adventure/
+files:
+- name: BT.EXE
+  size: 70811
+  date: '2024-04-11T15:41:06'
+  crc: '0x629fcf52'
+- name: patch.txt
+  size: 1746
+  date: '2024-12-29T16:15:40'
+  crc: '0x2284f896'

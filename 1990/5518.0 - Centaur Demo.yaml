@@ -1,0 +1,38 @@
+filename: Centaur Demo v1.1 [SW] (1990)(Victor Vikhrev) [Strategy, Chess].zip
+tdc_id: '5518.0'
+title:
+  screen: Centaur Demo
+publisher: Victor Vikhrev
+year: '1990'
+genre:
+- Strategy
+- Chess
+language: English
+date:
+  added: '2019-03-01T18:32:02'
+  last_modified: '2024-12-15T07:58:57'
+version: '1.1'
+type: zip
+tags:
+- Shareware
+media: Download
+demo: true
+commands:
+  play: CENTAUR.EXE
+files:
+- name: CENTAUR.EXE
+  size: 121264
+  date: '1990-12-02T21:51:46'
+  crc: '0x00383f25'
+- name: ENGL.TXT
+  size: 4432
+  date: '1990-12-02T22:24:02'
+  crc: '0xc41370f5'
+- name: FIG.BIN
+  size: 39312
+  date: '1990-12-02T16:56:40'
+  crc: '0x12384e51'
+- name: RUSSOFT.WRE
+  size: 739
+  date: '1992-10-31T14:39:18'
+  crc: '0xaf478ed0'

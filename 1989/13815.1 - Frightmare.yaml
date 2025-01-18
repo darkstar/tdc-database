@@ -1,19 +1,21 @@
-filename: Frightmare [h1] (1989)(Avantage Software) [Action].zip
+filename: Frightmare [h1] (1989)(Accolade, Inc., Avantage Software) [Action].zip
 tdc_id: '13815.1'
 title:
-  screen: Frightmare
-publisher: Avantage Software
+  box: Frightmare
+publisher: Accolade, Inc., Avantage Software
 year: '1989'
 genre: Action
 language: English
 date:
   added: '2019-03-01T18:27:46'
-  last_modified: '2019-03-01T18:27:46'
+  last_modified: '2024-12-26T08:31:58'
 type: zip
 tags:
 - Hack: 1
 commands:
   play: Fright.exe
+references:
+  mobygames: https://www.mobygames.com/game/33687/frightmare/
 files:
 - name: Fright.blk
   size: 65535

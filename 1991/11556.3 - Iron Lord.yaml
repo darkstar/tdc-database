@@ -1,5 +1,6 @@
-filename: Iron Lord [a1] (1991)(Ubi Soft Entertainment Software) [Action, Adventure].zip
+filename: Iron Lord r910515 (Installer) (1991)(Ubi Soft Entertainment Software) [Action, Adventure].zip
 tdc_id: '11556.3'
+parent_id: '11556.8'
 title:
   box: Iron Lord
 publisher: Ubi Soft Entertainment Software
@@ -10,10 +11,15 @@ genre:
 language: English
 date:
   added: '2022-08-04T16:03:32'
-  last_modified: '2022-08-04T16:03:32'
+  last_modified: '2025-01-06T11:05:18'
+release: '910515'
 type: zip
-tags:
-- Alternate: 1
+media: 360K
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/14405/iron-lord/
 files:
 - name: INSTALL.ABT
   size: 1813
@@ -29,7 +35,7 @@ files:
   crc: '0x582aced6'
 - name: IRON1\
   size: 0
-  date: '1991-05-03T21:27:38'
+  date: '1991-05-03T21:28:52'
 - name: IRON1\IRONLORD.000
   size: 1
   date: '1990-08-28T16:58:54'
@@ -116,12 +122,16 @@ files:
   crc: '0x1d1f40d2'
 - name: IRON2\
   size: 0
-  date: '1991-05-03T21:30:52'
+  date: '1991-05-03T21:42:56'
 - name: IRON2\IRONLORD.002
   size: 1
   date: '1990-08-28T16:59:24'
   crc: '0xe96ccf45'
 - name: IRON2\IRONLORD.004
+  size: 1
+  date: '1990-08-28T16:59:24'
+  crc: '0xe96ccf45'
+- name: IRON2\IRONLORD.007
   size: 1
   date: '1990-08-28T16:59:24'
   crc: '0xe96ccf45'
@@ -345,6 +355,10 @@ files:
   size: 5600
   date: '1990-08-28T15:37:52'
   crc: '0x889c6eb5'
+- name: IRON2\IRONLORD.215
+  size: 11924
+  date: '1990-08-28T15:37:54'
+  crc: '0x11b531bf'
 - name: IRON2\IRONLORD.216
   size: 7466
   date: '1990-08-28T15:37:56'
@@ -357,29 +371,73 @@ files:
   size: 15355
   date: '1990-08-28T15:38:00'
   crc: '0xfa7dcafc'
+- name: IRON2\IRONLORD.239
+  size: 13877
+  date: '1990-08-28T15:39:54'
+  crc: '0x2f90dac2'
 - name: IRON2\IRONLORD.240
   size: 13547
   date: '1990-08-28T15:39:56'
   crc: '0xdbc6feda'
+- name: IRON2\IRONLORD.241
+  size: 19172
+  date: '1990-08-28T15:39:58'
+  crc: '0x741311fe'
 - name: IRON2\IRONLORD.242
   size: 22574
   date: '1990-08-28T15:40:00'
   crc: '0x36bc254a'
+- name: IRON2\IRONLORD.243
+  size: 24230
+  date: '1990-08-28T15:40:02'
+  crc: '0x38602321'
 - name: IRON2\IRONLORD.244
   size: 13271
   date: '1990-08-28T15:40:04'
   crc: '0x5609906a'
+- name: IRON2\IRONLORD.245
+  size: 1125
+  date: '1990-08-28T15:40:04'
+  crc: '0xdf1c12bd'
 - name: IRON2\IRONLORD.246
   size: 1536
   date: '1990-08-28T15:40:06'
   crc: '0x39e3d407'
+- name: IRON2\IRONLORD.247
+  size: 837
+  date: '1990-08-28T15:40:06'
+  crc: '0xa04308a0'
+- name: IRON2\IRONLORD.248
+  size: 12593
+  date: '1990-08-28T15:40:08'
+  crc: '0x72644550'
+- name: IRON2\IRONLORD.249
+  size: 15416
+  date: '1990-08-28T15:40:10'
+  crc: '0x6ca856b5'
+- name: IRON2\IRONLORD.250
+  size: 13423
+  date: '1990-08-28T15:40:10'
+  crc: '0x44be4337'
+- name: IRON2\IRONLORD.251
+  size: 17259
+  date: '1990-08-28T15:40:12'
+  crc: '0x88071993'
+- name: IRON2\IRONLORD.252
+  size: 17580
+  date: '1990-08-28T15:40:14'
+  crc: '0x72e2dd16'
 - name: IRON2\IRONLORD.253
   size: 13344
   date: '1990-08-28T15:40:16'
   crc: '0x944374bd'
+- name: IRON2\IRONLORD.254
+  size: 14278
+  date: '1990-08-28T15:40:18'
+  crc: '0x63b2142d'
 - name: IRON3\
   size: 0
-  date: '1991-05-03T21:36:48'
+  date: '1991-05-03T21:39:00'
 - name: IRON3\IRONLORD.003
   size: 1
   date: '1990-08-28T17:00:24'
@@ -623,6 +681,30 @@ files:
   size: 40704
   date: '1990-08-28T15:38:36'
   crc: '0xf53ac5ec'
+- name: IRON50
+  size: 0
+  date: '1991-05-03T21:13:00'
+- name: IRON51
+  size: 0
+  date: '1991-05-03T21:14:00'
+- name: IRON52
+  size: 0
+  date: '1991-05-03T21:16:00'
+- name: IRON53
+  size: 0
+  date: '1991-05-03T21:17:00'
+- name: IRON54
+  size: 0
+  date: '1991-05-03T21:19:00'
+- name: IRON55
+  size: 0
+  date: '1991-05-03T21:20:00'
+- name: IRON56
+  size: 0
+  date: '1991-05-03T21:21:00'
+- name: IRON57
+  size: 0
+  date: '1991-05-03T21:22:00'
 - name: IRONCGA.EXE
   size: 99744
   date: '1991-05-04T00:38:28'

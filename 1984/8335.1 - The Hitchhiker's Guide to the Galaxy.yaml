@@ -1,25 +1,23 @@
-filename: Hitchhiker's Guide to the Galaxy, The r47 (1984)(Infocom, Inc.) [Adventure, Interactive Fiction].img.zip
+filename: Hitchhiker's Guide to the Galaxy, The r47 (booter) (1984)(Infocom, Inc.) [IMA][160k][cr].zip
 tdc_id: '8335.1'
 title:
   box: The Hitchhiker's Guide to the Galaxy
+  qualifier: booter
 publisher: Infocom, Inc.
 year: '1984'
-genre:
-- Adventure
-- Interactive Fiction
+genre: IMA
 language: English
 date:
   added: '2022-04-10T03:17:14'
-  last_modified: '2022-04-10T03:17:14'
+  last_modified: '2024-12-12T15:01:39'
 release: '47'
-type: zip
+type: IMA
+media: 360K
+references:
+  mobygames: https://www.mobygames.com/game/88/the-hitchhikers-guide-to-the-galaxy/
 notes: .img
 files:
-- name: HHGTTG47.IMG
+- name: disk1.ima
   size: 163840
   date: '1984-09-14T12:00:00'
   crc: '0xa7e88257'
-- name: HHGTTG47.IM_
-  size: 163840
-  date: '1984-09-14T12:00:00'
-  crc: '0x33ba6af3'

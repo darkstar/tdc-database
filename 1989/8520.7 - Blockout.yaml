@@ -1,5 +1,6 @@
-filename: Blockout v1.1 (1989)(California Dreams) [IMA][360k].zip
+filename: Blockout v1.1 (1989)(California Dreams) [IMA][360k][!].zip
 tdc_id: '8520.7'
+parent_id: '8520.8'
 title:
   box: Blockout
 publisher: California Dreams
@@ -8,14 +9,16 @@ genre: IMA
 language: English
 date:
   added: '2024-06-29T16:34:46'
-  last_modified: '2024-06-29T16:34:46'
+  last_modified: '2025-01-17T20:49:04'
 version: '1.1'
 type: IMA
+tags:
+- KnownGood
 media: 360K
 references:
   mobygames: https://www.mobygames.com/game/498/blockout/
 files:
-- name: disk1.ima
+- name: Disk1.ima
   size: 368640
-  date: '2012-11-17T09:27:36'
-  crc: '0x994f34d4'
+  date: '2025-01-17T12:30:40'
+  crc: '0xad8c6860'

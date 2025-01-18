@@ -1,16 +1,20 @@
-filename: Frightmare (1989)(Avantage Software) [Action].zip
+filename: Frightmare (1989)(Accolade, Inc., Avantage Software) [Action].zip
 tdc_id: '13815.0'
 title:
-  screen: Frightmare
-publisher: Avantage Software
+  box: Frightmare
+publisher: Accolade, Inc., Avantage Software
 year: '1989'
 genre: Action
 language: English
 date:
   added: '2019-03-01T18:27:46'
-  last_modified: '2019-03-01T18:27:46'
+  last_modified: '2024-12-21T08:35:21'
 type: zip
+media: 360K
+commands:
+  play: PLAY.BAT
 references:
+  mobygames: https://www.mobygames.com/game/33687/frightmare/
   dosid: DOS02310
   exodos: Frightmare (1989).zip
 files:
@@ -19,9 +23,13 @@ files:
   date: '1989-09-02T00:32:08'
   crc: '0x80533295'
 - name: FRICGA.EXE
-  size: 8083
-  date: '2012-06-25T18:15:08'
-  crc: '0x0cb2c9df'
+  size: 14453
+  date: '1989-09-25T09:15:42'
+  crc: '0x4194bb29'
+- name: FRICGA.EX_
+  size: 14453
+  date: '1989-09-25T09:15:42'
+  crc: '0xd3a77f38'
 - name: FRICGA.MAP
   size: 7525
   date: '1989-09-02T00:31:54'
@@ -31,9 +39,13 @@ files:
   date: '1989-09-02T00:04:24'
   crc: '0xecb4cde0'
 - name: FRIEGA.EXE
-  size: 8239
-  date: '2012-06-25T18:15:28'
-  crc: '0xb53046f2'
+  size: 14613
+  date: '1989-09-25T09:16:40'
+  crc: '0xab3d76c9'
+- name: FRIEGA.EX_
+  size: 14613
+  date: '1989-09-25T09:16:40'
+  crc: '0x390eb2d8'
 - name: FRIEGA.MAP
   size: 7525
   date: '1989-09-02T00:04:50'
@@ -42,13 +54,13 @@ files:
   size: 126
   date: '1989-09-16T15:43:00'
   crc: '0x2d7e0641'
-- name: Play.bat
+- name: PLAY.BAT
   size: 479
-  date: '2012-06-26T11:10:30'
+  date: '1980-01-01T00:00:00'
   crc: '0x2e251ae0'
 - name: RESPOND.COM
   size: 89
-  date: '1991-03-28T05:30:12'
+  date: '1980-01-01T00:00:00'
   crc: '0xd2788c61'
 - name: SPRCGA.DAT
   size: 10518

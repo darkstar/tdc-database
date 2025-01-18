@@ -1,5 +1,6 @@
-filename: Terminator, The (Installer) [b1] (1991)(Bethesda Softworks LLC) [Action, Adventure].zip
+filename: Terminator, The v1.01C (Installer) (1991)(Bethesda Softworks LLC) [Action, Adventure].zip
 tdc_id: '16528.2'
+parent_id: '16528.3'
 title:
   box: The Terminator
 publisher: Bethesda Softworks LLC
@@ -10,11 +11,15 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:39:44'
-  last_modified: '2019-03-01T18:39:44'
+  last_modified: '2024-12-31T08:39:18'
+version: 1.01C
 type: zip
-tags:
-- Bad: 1
+media: 720K
 installer: true
+commands:
+  play: INSTALL.BAT
+references:
+  mobygames: https://www.mobygames.com/game/1778/the-terminator/
 files:
 - name: COMMON.EXE
   size: 445757
@@ -44,10 +49,6 @@ files:
   size: 531
   date: '1991-07-23T14:33:36'
   crc: '0x76253b51'
-- name: TERM.EXE
-  size: 87565
-  date: '1991-06-21T15:28:08'
-  crc: '0xb0636026'
 - name: VGA1.EXE
   size: 679851
   date: '1991-06-21T02:55:08'

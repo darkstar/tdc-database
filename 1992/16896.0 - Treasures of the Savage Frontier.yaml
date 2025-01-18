@@ -1,5 +1,6 @@
-filename: Treasures of the Savage Frontier (1992)(Strategic Simulations, Inc.) [Adventure, Role-Playing (RPG)].zip
+filename: Treasures of the Savage Frontier v1.00 (1992)(Strategic Simulations, Inc.) [Adventure, Role-Playing (RPG)].zip
 tdc_id: '16896.0'
+parent_id: '16896.1'
 title:
   box: Treasures of the Savage Frontier
 publisher: Strategic Simulations, Inc.
@@ -10,8 +11,14 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:52:00'
-  last_modified: '2019-03-01T18:52:00'
+  last_modified: '2024-12-25T08:55:13'
+version: '1.00'
 type: zip
+media: 1.2M
+commands:
+  play: START.BAT
+references:
+  mobygames: https://www.mobygames.com/game/507/treasures-of-the-savage-frontier/
 files:
 - name: 8X8D0.DAX
   size: 1939
@@ -79,12 +86,12 @@ files:
   crc: '0x4d7cb2ee'
 - name: GAME.EX_
   size: 71971
-  date: '2011-12-11T16:40:40'
+  date: '1992-03-08T18:49:02'
   crc: '0x4a5f5cdf'
 - name: GAME.OVR
   size: 310572
-  date: '1992-03-14T03:32:52'
-  crc: '0xa8a2b335'
+  date: '1992-03-07T01:16:12'
+  crc: '0x42bc2e4e'
 - name: GEO1.DAX
   size: 29983
   date: '1992-02-28T12:01:00'
@@ -133,6 +140,109 @@ files:
   size: 462122
   date: '1992-03-06T14:43:06'
   crc: '0x16cf30e0'
+- name: SAVE\
+  size: 0
+  date: '1992-02-20T10:34:34'
+- name: SAVE\CHRDATA1.EFX
+  size: 9
+  date: '1992-02-20T10:34:30'
+  crc: '0xb9151d7a'
+- name: SAVE\CHRDATA1.SAV
+  size: 510
+  date: '1992-02-20T10:34:30'
+  crc: '0x0f9e8902'
+- name: SAVE\CHRDATA1.THG
+  size: 315
+  date: '1992-02-20T10:34:30'
+  crc: '0x87be3994'
+- name: SAVE\CHRDATA2.EFX
+  size: 9
+  date: '1992-02-20T10:34:30'
+  crc: '0xf20d889d'
+- name: SAVE\CHRDATA2.SAV
+  size: 510
+  date: '1992-02-20T10:34:30'
+  crc: '0xbf713965'
+- name: SAVE\CHRDATA2.THG
+  size: 315
+  date: '1992-02-20T10:34:30'
+  crc: '0xda9a2ce6'
+- name: SAVE\CHRDATA3.EFX
+  size: 9
+  date: '1992-02-20T10:34:32'
+  crc: '0xb9d12824'
+- name: SAVE\CHRDATA3.SAV
+  size: 510
+  date: '1992-02-20T10:34:30'
+  crc: '0xd6c6ca46'
+- name: SAVE\CHRDATA3.THG
+  size: 252
+  date: '1992-02-20T10:34:32'
+  crc: '0x850181a0'
+- name: SAVE\CHRDATA4.EFX
+  size: 9
+  date: '1992-02-20T10:34:32'
+  crc: '0x80fbd595'
+- name: SAVE\CHRDATA4.SAV
+  size: 510
+  date: '1992-02-20T10:34:32'
+  crc: '0xb357c635'
+- name: SAVE\CHRDATA4.THG
+  size: 315
+  date: '1992-02-20T10:34:32'
+  crc: '0x552dd757'
+- name: SAVE\CHRDATA5.EFX
+  size: 18
+  date: '1992-02-20T10:34:32'
+  crc: '0x697cf326'
+- name: SAVE\CHRDATA5.SAV
+  size: 510
+  date: '1992-02-20T10:34:32'
+  crc: '0xdc190ce8'
+- name: SAVE\CHRDATA5.THG
+  size: 189
+  date: '1992-02-20T10:34:32'
+  crc: '0x049f043c'
+- name: SAVE\CHRDATA6.EFX
+  size: 36
+  date: '1992-02-20T10:34:34'
+  crc: '0xcdde0aa7'
+- name: SAVE\CHRDATA6.SAV
+  size: 510
+  date: '1992-02-20T10:34:34'
+  crc: '0x826f687c'
+- name: SAVE\CHRDATA6.THG
+  size: 189
+  date: '1992-02-20T10:34:34'
+  crc: '0xef4df026'
+- name: SAVE\CHRDATA7.EFX
+  size: 9
+  date: '1992-02-07T15:22:12'
+  crc: '0x74111f4b'
+- name: SAVE\CHRDATA7.SAV
+  size: 510
+  date: '1992-02-04T13:40:32'
+  crc: '0x4e23d308'
+- name: SAVE\CHRDATA7.THG
+  size: 315
+  date: '1992-02-04T13:40:32'
+  crc: '0x989dc6fa'
+- name: SAVE\CHRDATA8.SAV
+  size: 510
+  date: '1992-01-21T14:17:46'
+  crc: '0x06b37ca4'
+- name: SAVE\CHRDATA8.THG
+  size: 378
+  date: '1992-01-21T14:17:46'
+  crc: '0xef18cb6f'
+- name: SAVE\SAVGAMA.PTY
+  size: 1364
+  date: '1992-02-20T10:34:30'
+  crc: '0xea1ee73b'
+- name: SAVE\VAULTA.DAT
+  size: 12
+  date: '1992-02-20T10:34:34'
+  crc: '0x7bd5c66f'
 - name: SBLASTER.COM
   size: 3120
   date: '1992-02-05T08:42:30'

@@ -1,16 +1,24 @@
-filename: Demon's Tomb- The Awakening (1989)(Silhouette Software) [Adventure].zip
+filename: Demon's Tomb- The Awakening v1.00 (1989)(Silhouette Software) [Adventure][!].zip
 tdc_id: '1679.0'
+parent_id: '1679.2'
 title:
-  screen: 'Demon''s Tomb: The Awakening'
+  box: 'Demon''s Tomb: The Awakening'
 publisher: Silhouette Software
 year: '1989'
 genre: Adventure
 language: English
 date:
   added: '2019-03-01T18:27:36'
-  last_modified: '2019-03-01T18:27:36'
+  last_modified: '2025-01-03T09:36:19'
+version: '1.00'
 type: zip
+tags:
+- KnownGood
+media: 360K
+commands:
+  play: GAME.EXE
 references:
+  mobygames: https://www.mobygames.com/game/29434/demons-tomb-the-awakening/
   dosid: DOS01729
   exodos: Demon's Tomb - The Awakening (1989).zip
 files:

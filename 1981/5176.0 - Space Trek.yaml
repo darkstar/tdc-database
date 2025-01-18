@@ -12,6 +12,9 @@ date:
   added: '2019-03-01T18:22:54'
   last_modified: '2019-03-01T18:22:54'
 type: zip
+requirements:
+  cpu:
+    min: '8088'
 media: Download
 commands:
   play: GO.BAT

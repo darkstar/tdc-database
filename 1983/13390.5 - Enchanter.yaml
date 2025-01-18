@@ -1,19 +1,185 @@
-filename: Enchanter r16 (booter) (1983)(Infocom, Inc.) [TD0][160k][cp].zip
+filename: Enchanter r10-B (booter) (1983)(Infocom, Inc.) [kfx][160k][cp].zip
 tdc_id: '13390.5'
 title:
   box: Enchanter
 publisher: Infocom, Inc.
 year: '1983'
-genre: TD0
+genre: kfx
 language: English
 date:
   added: '2023-02-18T15:46:49'
-  last_modified: '2023-02-18T15:46:49'
-release: '16'
-type: TD0
+  last_modified: '2025-01-16T11:11:31'
+release: 10-B
+type: kfx
 media: 360K
+references:
+  mobygames: https://www.mobygames.com/game/56/enchanter/
 files:
-- name: ENCHAN-1.TD0
-  size: 119722
-  date: '2012-08-28T23:13:06'
-  crc: '0x16da48b5'
+- name: track00.0.raw
+  size: 202895
+  date: '2024-12-12T10:44:02'
+  crc: '0x7ac6e0f2'
+- name: track01.0.raw
+  size: 1946131
+  date: '2024-12-12T10:44:18'
+  crc: '0xc137c14e'
+- name: track02.0.raw
+  size: 2040062
+  date: '2024-12-12T10:44:32'
+  crc: '0xb172c477'
+- name: track03.0.raw
+  size: 2207892
+  date: '2024-12-12T10:44:48'
+  crc: '0xb10731b1'
+- name: track04.0.raw
+  size: 189524
+  date: '2024-12-12T10:44:50'
+  crc: '0x175100e3'
+- name: track05.0.raw
+  size: 194466
+  date: '2024-12-12T10:44:52'
+  crc: '0x4f020e03'
+- name: track06.0.raw
+  size: 202405
+  date: '2024-12-12T10:44:52'
+  crc: '0xd254704d'
+- name: track07.0.raw
+  size: 191031
+  date: '2024-12-12T10:44:54'
+  crc: '0x03d54240'
+- name: track08.0.raw
+  size: 214215
+  date: '2024-12-12T10:44:56'
+  crc: '0x8f1be57f'
+- name: track09.0.raw
+  size: 214223
+  date: '2024-12-12T10:44:56'
+  crc: '0x96f6dac8'
+- name: track10.0.raw
+  size: 191970
+  date: '2024-12-12T10:44:58'
+  crc: '0x44c1bb6d'
+- name: track11.0.raw
+  size: 196436
+  date: '2024-12-12T10:45:00'
+  crc: '0x0292de22'
+- name: track12.0.raw
+  size: 202085
+  date: '2024-12-12T10:45:00'
+  crc: '0xf25c8cf9'
+- name: track13.0.raw
+  size: 195384
+  date: '2024-12-12T10:45:02'
+  crc: '0xc8264e15'
+- name: track14.0.raw
+  size: 192740
+  date: '2024-12-12T10:45:04'
+  crc: '0x4d7822b9'
+- name: track15.0.raw
+  size: 193166
+  date: '2024-12-12T10:45:06'
+  crc: '0xc9b560fc'
+- name: track16.0.raw
+  size: 193364
+  date: '2024-12-12T10:45:06'
+  crc: '0x5cb7ea4f'
+- name: track17.0.raw
+  size: 193836
+  date: '2024-12-12T10:45:08'
+  crc: '0xb3a48ee6'
+- name: track18.0.raw
+  size: 192837
+  date: '2024-12-12T10:45:10'
+  crc: '0xc7a4fd21'
+- name: track19.0.raw
+  size: 194576
+  date: '2024-12-12T10:45:10'
+  crc: '0x4f6d429c'
+- name: track20.0.raw
+  size: 192354
+  date: '2024-12-12T10:45:12'
+  crc: '0x1ef44bba'
+- name: track21.0.raw
+  size: 192164
+  date: '2024-12-12T10:45:14'
+  crc: '0xd33fe5aa'
+- name: track22.0.raw
+  size: 194079
+  date: '2024-12-12T10:45:14'
+  crc: '0x1353ad96'
+- name: track23.0.raw
+  size: 191526
+  date: '2024-12-12T10:45:16'
+  crc: '0x93453e2a'
+- name: track24.0.raw
+  size: 192058
+  date: '2024-12-12T10:45:18'
+  crc: '0x4866ded9'
+- name: track25.0.raw
+  size: 191421
+  date: '2024-12-12T10:45:20'
+  crc: '0x98a12a65'
+- name: track26.0.raw
+  size: 192964
+  date: '2024-12-12T10:45:20'
+  crc: '0xf56f2de2'
+- name: track27.0.raw
+  size: 192670
+  date: '2024-12-12T10:45:22'
+  crc: '0x8a325ef8'
+- name: track28.0.raw
+  size: 192438
+  date: '2024-12-12T10:45:24'
+  crc: '0x74fc3ddf'
+- name: track29.0.raw
+  size: 190115
+  date: '2024-12-12T10:45:24'
+  crc: '0x4a8e6e8a'
+- name: track30.0.raw
+  size: 191604
+  date: '2024-12-12T10:45:26'
+  crc: '0xb7fd8251'
+- name: track31.0.raw
+  size: 191217
+  date: '2024-12-12T10:45:28'
+  crc: '0xbc706508'
+- name: track32.0.raw
+  size: 205241
+  date: '2024-12-12T10:45:28'
+  crc: '0xe3b29d2d'
+- name: track33.0.raw
+  size: 230201
+  date: '2024-12-12T10:45:30'
+  crc: '0x2fcf7982'
+- name: track34.0.raw
+  size: 189419
+  date: '2024-12-12T10:45:32'
+  crc: '0x78ec0943'
+- name: track35.0.raw
+  size: 189341
+  date: '2024-12-12T10:45:34'
+  crc: '0x719c17e3'
+- name: track36.0.raw
+  size: 189374
+  date: '2024-12-12T10:45:34'
+  crc: '0x39a22c46'
+- name: track37.0.raw
+  size: 189332
+  date: '2024-12-12T10:45:36'
+  crc: '0x75c6272b'
+- name: track38.0.raw
+  size: 189354
+  date: '2024-12-12T10:45:38'
+  crc: '0x800a88ab'
+- name: track39.0.raw
+  size: 189420
+  date: '2024-12-12T10:45:38'
+  crc: '0x013bcad9'
+- name: track40.0.raw
+  size: 185937
+  date: '2024-12-12T10:45:40'
+  crc: '0x2fcd3f80'
+- name: track41.0.raw
+  size: 170739
+  date: '2024-12-12T10:45:42'
+  crc: '0x592c960d'

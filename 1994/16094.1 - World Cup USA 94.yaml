@@ -1,7 +1,9 @@
-filename: World Cup USA 94 (Installer) (En)(De)(Fr)(It) (1994)(U.S. Gold Ltd.) [Sports].zip
+filename: World Cup USA 94 (Installer) (En)(De)(Fr)(It) (1994)(U.S. Gold Ltd.) [Sports][!].zip
 tdc_id: '16094.1'
+parent_id: '16094.3'
 title:
   box: World Cup USA 94
+  qualifier: Installer
 publisher: U.S. Gold Ltd.
 year: '1994'
 genre: Sports
@@ -12,11 +14,16 @@ language:
 - German
 date:
   added: '2019-03-02T07:19:38'
-  last_modified: '2022-11-30T10:28:24'
+  last_modified: '2024-12-17T11:05:00'
 type: zip
+tags:
+- KnownGood
+media: 1.44M
 installer: true
 commands:
   play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/612/world-cup-usa-94/
 files:
 - name: ADLIB.RNC
   size: 11456

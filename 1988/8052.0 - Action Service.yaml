@@ -1,5 +1,6 @@
-filename: Action Service (1988)(Infogrames Entertainment SA) [Action, Simulation].zip
+filename: Action Service r881004 [f1] (1988)(Infogrames Entertainment SA) [Action, Simulation].zip
 tdc_id: '8052.0'
+parent_id: '8052.7'
 title:
   box: Action Service
 publisher: Infogrames Entertainment SA
@@ -10,8 +11,15 @@ genre:
 language: English
 date:
   added: '2020-01-19T19:24:38'
-  last_modified: '2020-01-19T19:24:38'
+  last_modified: '2025-01-03T10:44:54'
+release: '881004'
 type: zip
+tags:
+- Fixed: 1
+commands:
+  play: COBRA.BAT
+references:
+  mobygames: https://www.mobygames.com/game/30469/combat-course/
 notes: Have game titled Combat Course, but AS supposedly exists?
 files:
 - name: CAR1_CGA.HIP

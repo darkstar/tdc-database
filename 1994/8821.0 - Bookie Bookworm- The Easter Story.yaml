@@ -1,20 +1,22 @@
-filename: Bookie Bookworm- The Easter Story (Installer) [SW][b1] (1994)(Cloud Nine Creative Group) [Educational].zip
+filename: Bookie Bookworm- The Easter Story v1.0 (Installer) (1994)(Cloud Nine Creative Group) [Educational][!].zip
 tdc_id: '8821.0'
+parent_id: '8821.1'
 title:
-  screen: 'Bookie Bookworm: The Easter Story'
+  box: 'Bookie Bookworm: The Easter Story'
 publisher: Cloud Nine Creative Group
 year: '1994'
 genre: Educational
 language: English
 date:
   added: '2019-03-01T21:54:56'
-  last_modified: '2019-03-01T21:54:56'
+  last_modified: '2025-01-11T10:09:27'
+version: '1.0'
 type: zip
 tags:
-- Shareware
-- Bad: 1
-media: Download
+- KnownGood
 installer: true
+commands:
+  play: INSTALL.EXE
 files:
 - name: BOOKIE.EXE
   size: 82392
@@ -44,6 +46,9 @@ files:
   size: 45866
   date: '1994-09-09T15:00:00'
   crc: '0x3bc86b73'
+- name: COVERS\
+  size: 0
+  date: '1994-09-09T15:00:34'
 - name: COVERS\01.BBP
   size: 8648
   date: '1994-09-09T15:00:06'
@@ -124,6 +129,9 @@ files:
   size: 19
   date: '1994-09-09T15:00:06'
   crc: '0x265d0537'
+- name: EASTER\
+  size: 0
+  date: '1994-09-09T14:39:52'
 - name: EASTER\&FIRE.BBW
   size: 7754
   date: '1994-09-09T14:00:00'
@@ -136,10 +144,6 @@ files:
   size: 56267
   date: '1994-09-09T14:00:10'
   crc: '0x8307c2ba'
-- name: EASTER\0100.BBA
-  size: 122
-  date: '1994-09-09T14:00:02'
-  crc: '0x85be0a7a'
 - name: EASTER\0101.BBA
   size: 1478
   date: '1994-09-09T14:00:00'
@@ -200,6 +204,10 @@ files:
   size: 122
   date: '1994-09-09T14:00:02'
   crc: '0x282505d6'
+- name: EASTER\01Ö8.BBA
+  size: 122
+  date: '1994-09-09T14:00:02'
+  crc: '0x85be0a7a'
 - name: EASTER\02.BBP
   size: 12396
   date: '1994-09-09T14:00:00'
@@ -1368,6 +1376,9 @@ files:
   size: 1751
   date: '1994-09-09T14:00:20'
   crc: '0x797efb1d'
+- name: HELP\
+  size: 0
+  date: '1994-09-09T15:03:44'
 - name: HELP\BOOKS.BBW
   size: 3888
   date: '1994-09-09T15:00:00'
@@ -1484,6 +1495,9 @@ files:
   size: 545
   date: '1994-09-09T15:00:00'
   crc: '0x80cecf34'
+- name: LIBRARY\
+  size: 0
+  date: '1994-09-09T15:01:04'
 - name: LIBRARY\APPLAUSE.BBW
   size: 8187
   date: '1994-09-09T15:00:02'

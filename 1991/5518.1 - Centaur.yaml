@@ -1,4 +1,4 @@
-filename: Centaur v2.0 (1991)(Victor Vikhrev) [Strategy, Chess].zip
+filename: Centaur v2.0 (Ru) (1991)(Victor Vikhrev) [Strategy, Chess].zip
 tdc_id: '5518.1'
 title:
   screen: Centaur
@@ -7,12 +7,13 @@ year: '1991'
 genre:
 - Strategy
 - Chess
-language: English
+language: Russian
 date:
   added: '2019-03-01T18:35:12'
-  last_modified: '2019-03-01T18:35:12'
+  last_modified: '2024-12-15T19:18:37'
 version: '2.0'
 type: zip
+media: Download
 commands:
   play: CHESS.EXE
 files:
@@ -21,6 +22,10 @@ files:
   date: '2003-06-02T20:32:28'
   crc: '0x712dc6de'
 - name: CHESS.EXE
+  size: 192896
+  date: '2003-06-02T20:32:30'
+  crc: '0x062bb4c9'
+- name: CHESS.EX_
   size: 192896
   date: '2003-06-02T20:32:30'
   crc: '0x1afc7958'

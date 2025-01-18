@@ -1,0 +1,57 @@
+filename: Rich Tauber's Bass Champ v1.2 (1988)(Shadowfax Software, Inc.) [Sports, Simulation].zip
+tdc_id: '773.1'
+title:
+  screen: Rich Tauber's Bass Champ
+publisher: Shadowfax Software, Inc.
+year: '1988'
+genre:
+- Sports
+- Simulation
+language: English
+date:
+  added: '2025-01-07T17:42:26'
+  last_modified: '2025-01-07T17:42:26'
+version: '1.2'
+type: zip
+media: Download
+commands:
+  play: BASS.EXE
+references:
+  mobygames: https://www.mobygames.com/game/32614/rich-taubers-bass-champ/
+files:
+- name: BASS.EXE
+  size: 96081
+  date: '1989-01-25T12:00:04'
+  crc: '0x57ef111d'
+- name: COVSTR.DAT
+  size: 2944
+  date: '1988-08-14T22:00:14'
+  crc: '0x09605fce'
+- name: INSTALL.BAT
+  size: 1627
+  date: '1989-01-27T07:21:24'
+  crc: '0x1e8f98c0'
+- name: LGRAPH.DAT
+  size: 44880
+  date: '1988-08-14T22:00:06'
+  crc: '0x9d014108'
+- name: PREPARE.BAT
+  size: 2128
+  date: '1989-01-27T07:11:50'
+  crc: '0x2909e293'
+- name: README.DOC
+  size: 1280
+  date: '1989-01-27T07:05:40'
+  crc: '0x00fe1cc0'
+- name: STIKAPIG.LAK
+  size: 17947
+  date: '1988-08-14T22:00:06'
+  crc: '0xb4631111'
+- name: WHLZNCGS.DAT
+  size: 2178
+  date: '1988-08-14T22:00:06'
+  crc: '0xa4c308f3'
+- name: WXXZZZ.DAT
+  size: 9520
+  date: '1988-08-14T22:00:06'
+  crc: '0xb82111fc'

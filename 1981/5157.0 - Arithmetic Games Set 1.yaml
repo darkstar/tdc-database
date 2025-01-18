@@ -14,6 +14,9 @@ date:
 type: zip
 tags:
 - Fixed: 1
+requirements:
+  cpu:
+    min: '8088'
 references:
   dosid: DOS06503
   exodos: Arithmetic Games Set 1 (1981).zip

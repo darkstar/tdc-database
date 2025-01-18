@@ -1,4 +1,4 @@
-filename: Terminator, The (1991)(Bethesda Softworks LLC) [kfx][720k].zip
+filename: Terminator, The v1.01C (1991)(Bethesda Softworks LLC) [kfx][720k].zip
 tdc_id: '16528.4'
 title:
   box: The Terminator
@@ -8,9 +8,12 @@ genre: kfx
 language: English
 date:
   added: '2023-02-26T18:20:35'
-  last_modified: '2023-02-26T18:20:35'
+  last_modified: '2024-12-30T15:54:20'
+version: 1.01C
 type: kfx
 media: 720K
+references:
+  mobygames: https://www.mobygames.com/game/1778/the-terminator/
 files:
 - name: Disk1\
   size: 0
@@ -1992,10 +1995,6 @@ files:
 - name: Disk4\
   size: 0
   date: '2021-03-31T19:08:54'
-- name: Disk4\disk.log
-  size: 19829
-  date: '2021-03-26T18:04:42'
-  crc: '0xddda674e'
 - name: Disk4\track00.0.raw
   size: 258488
   date: '2021-03-26T18:01:10'

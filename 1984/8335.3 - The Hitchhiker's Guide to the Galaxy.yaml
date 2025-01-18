@@ -1,20 +1,22 @@
-filename: Hitchhiker's Guide to the Galaxy, The r56 (1984)(Infocom, Inc.) [Adventure, Interactive Fiction].img.zip
+filename: Hitchhiker's Guide to the Galaxy, The r56 (booter) (1984)(Infocom, Inc.) [IMA][360k][cr].zip
 tdc_id: '8335.3'
 title:
   box: The Hitchhiker's Guide to the Galaxy
+  qualifier: booter
 publisher: Infocom, Inc.
 year: '1984'
-genre:
-- Adventure
-- Interactive Fiction
+genre: IMA
 language: English
 date:
   added: '2022-04-09T19:04:18'
-  last_modified: '2022-04-09T19:04:18'
+  last_modified: '2024-12-12T15:50:21'
 release: '56'
-type: zip
+type: IMA
+media: 360K
+references:
+  mobygames: https://www.mobygames.com/game/88/the-hitchhikers-guide-to-the-galaxy/
 files:
-- name: HHGTTG56.IMG
+- name: HHGTTG56.IMA
   size: 368640
   date: '1984-12-21T13:00:00'
   crc: '0x83c27427'

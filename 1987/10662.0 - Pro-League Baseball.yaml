@@ -1,5 +1,6 @@
-filename: Pro-League Baseball (1987)(Keypunch Software, Inc.) [Action, Sports, Compilation].zip
+filename: Pro-League Baseball (1987)(Keypunch Software, Inc.) [Action, Sports, Compilation][!].zip
 tdc_id: '10662.0'
+parent_id: '10662.2'
 title:
   box: Pro-League Baseball
 publisher: Keypunch Software, Inc.
@@ -11,10 +12,15 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:25:32'
-  last_modified: '2019-03-01T18:25:32'
+  last_modified: '2025-01-12T12:34:58'
 type: zip
-compilation: true
+tags:
+- KnownGood
+media: 360K
+commands:
+  play: BEGIN.EXE
 references:
+  mobygames: https://www.mobygames.com/game/62128/pro-league-baseball/
   dosid: DOS06428
   exodos: Pro-League Baseball (1987).zip
 files:

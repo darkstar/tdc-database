@@ -1,0 +1,67 @@
+filename: Museum Madness v1.0 (1994)(MECC) [Educational].zip
+tdc_id: '7972.0'
+parent_id: '7972.2'
+title:
+  box: Museum Madness
+publisher: MECC
+year: '1994'
+genre: Educational
+language: English
+date:
+  added: '2019-03-01T19:15:20'
+  last_modified: '2024-12-14T13:12:45'
+version: '1.0'
+type: zip
+media: 1.44M
+commands:
+  play: MUSEUM.COM
+  setup: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/6495/museum-madness/
+  dosid: DOS03669
+  exodos: Museum Madness (1994).zip
+files:
+- name: MUSEUM.COM
+  size: 686
+  date: '1994-08-03T01:00:00'
+  crc: '0xcf8f59aa'
+- name: MUSEUM.NDX
+  size: 32416
+  date: '1994-08-03T01:00:00'
+  crc: '0xb040bacd'
+- name: MUSEUM.RES
+  size: 7799716
+  date: '1994-08-03T01:00:00'
+  crc: '0xedcf3913'
+- name: MUSEUMA.OVL
+  size: 368544
+  date: '1994-08-03T01:00:00'
+  crc: '0xa932de88'
+- name: MUSEUMG.OVL
+  size: 187108
+  date: '1994-08-03T01:00:00'
+  crc: '0x4375b1d4'
+- name: MUSEUMN.OVL
+  size: 338144
+  date: '1994-08-03T01:00:00'
+  crc: '0x852e2d30'
+- name: MUSEUMS.OVL
+  size: 348664
+  date: '1994-08-03T01:00:00'
+  crc: '0xb38f04b1'
+- name: MUSEUMT.OVL
+  size: 308292
+  date: '1994-08-03T01:00:00'
+  crc: '0xf29c8a08'
+- name: MUSEUMW.OVL
+  size: 342078
+  date: '1994-08-03T01:00:00'
+  crc: '0xd7251f36'
+- name: PRODUCT.PF
+  size: 350
+  date: '1994-08-09T10:47:58'
+  crc: '0xbdfda643'
+- name: SETUP.EXE
+  size: 33521
+  date: '1994-08-03T01:00:00'
+  crc: '0x8528937f'

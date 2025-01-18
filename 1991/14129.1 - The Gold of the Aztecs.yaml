@@ -1,5 +1,6 @@
-filename: Gold of the Aztecs, The v1.0 (1991)(U.S. Gold, Inc.) [IMA][1440k].zip
+filename: Gold of the Aztecs, The v1.0 (1991)(U.S. Gold, Inc.) [IMA][1440k][!].zip
 tdc_id: '14129.1'
+parent_id: '14129.3'
 title:
   box: The Gold of the Aztecs
 publisher: U.S. Gold, Inc.
@@ -8,18 +9,20 @@ genre: IMA
 language: English
 date:
   added: '2024-07-30T10:13:45'
-  last_modified: '2024-07-30T11:59:50'
+  last_modified: '2025-01-12T10:51:03'
 version: '1.0'
 type: IMA
+tags:
+- KnownGood
 media: 1.44M
 references:
   mobygames: https://www.mobygames.com/game/17245/the-gold-of-the-aztecs/
 files:
-- name: disk1.ima
+- name: Disk1.ima
   size: 1474560
-  date: '2019-09-08T13:24:40'
+  date: '2025-01-10T20:46:26'
   crc: '0x04f8a1e0'
-- name: disk2.ima
+- name: Disk2.ima
   size: 1474560
-  date: '2019-09-08T13:25:14'
+  date: '2025-01-10T20:47:12'
   crc: '0x4696e5a7'

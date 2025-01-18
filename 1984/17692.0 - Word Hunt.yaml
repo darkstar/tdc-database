@@ -1,0 +1,39 @@
+filename: Word Hunt v1.0 (1984)(ComputerEasy, The Software Toolworks, Inc.) [Strategy, Puzzle].zip
+tdc_id: '17692.0'
+title:
+  box: Word Hunt
+publisher: ComputerEasy, The Software Toolworks, Inc.
+year: '1984'
+genre:
+- Strategy
+- Puzzle
+language: English
+date:
+  added: '2024-12-14T15:33:57'
+  last_modified: '2024-12-14T15:33:57'
+version: '1.0'
+type: zip
+commands:
+  play: WORDHUNT.COM
+  setup: WCONFIG.COM
+files:
+- name: AUTOEXEC.BAT
+  size: 10
+  date: '1980-01-01T00:00:18'
+  crc: '0xeda6739e'
+- name: INSTALL.BAT
+  size: 512
+  date: '1980-01-01T00:02:28'
+  crc: '0xe10fa405'
+- name: WCONFIG.COM
+  size: 14602
+  date: '1984-10-05T10:22:50'
+  crc: '0x81bb3270'
+- name: WORDHUNT.COM
+  size: 37732
+  date: '1984-10-05T10:22:50'
+  crc: '0xb7346c34'
+- name: WORDHUNT.WRD
+  size: 62391
+  date: '1983-03-14T19:56:52'
+  crc: '0xc0807df2'

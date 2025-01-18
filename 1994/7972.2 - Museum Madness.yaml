@@ -1,0 +1,121 @@
+filename: Museum Madness v1.0 (Installer) [f1] (1994)(MECC) [Educational].zip
+tdc_id: '7972.2'
+parent_id: '7972.1'
+title:
+  box: Museum Madness
+publisher: MECC
+year: '1994'
+genre: Educational
+language: English
+date:
+  added: '2024-12-14T12:11:04'
+  last_modified: '2024-12-14T12:11:04'
+version: '1.0'
+type: zip
+tags:
+- Fixed: 1
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/6495/museum-madness/
+files:
+- name: CONFIG.CLS
+  size: 172
+  date: '1994-07-20T13:05:00'
+  crc: '0xa411889a'
+- name: DISK.ID
+  size: 32
+  date: '1994-07-12T01:00:00'
+  crc: '0xc0c859aa'
+- name: DISK.ID2
+  size: 32
+  date: '1994-07-12T01:00:00'
+  crc: '0x465c2b04'
+- name: DISK.ID3
+  size: 32
+  date: '1994-07-12T01:00:00'
+  crc: '0x8d00f8a1'
+- name: DISK.ID4
+  size: 32
+  date: '1994-07-12T01:00:00'
+  crc: '0x9005c819'
+- name: DISK.ID5
+  size: 32
+  date: '1994-07-12T01:00:00'
+  crc: '0x5b591bbc'
+- name: DISK.ID6
+  size: 32
+  date: '1994-07-12T01:00:00'
+  crc: '0xddcd6912'
+- name: I-332MS.ITM
+  size: 54
+  date: '1994-08-08T17:55:54'
+  crc: '0x9439997d'
+- name: INSTALL.DAT
+  size: 4731
+  date: '1994-08-03T12:27:14'
+  crc: '0x3fc59248'
+- name: INSTALL.DA_
+  size: 4731
+  date: '1994-08-03T12:27:14'
+  crc: '0xa4e5f61a'
+- name: INSTALL.EXE
+  size: 90304
+  date: '1994-07-12T01:00:00'
+  crc: '0x929e6b84'
+- name: MS33210D.1
+  size: 0
+  date: '1994-08-09T13:40:42'
+- name: MS33210D.2
+  size: 0
+  date: '1994-08-09T13:40:14'
+- name: MS33210D.3
+  size: 0
+  date: '1994-08-09T13:39:52'
+- name: MS33210D.4
+  size: 0
+  date: '1994-08-09T13:39:32'
+- name: MS33210D.5
+  size: 0
+  date: '1994-08-09T13:39:10'
+- name: MS33210D.6
+  size: 0
+  date: '1994-08-09T13:38:42'
+- name: MUSEUM.001
+  size: 579584
+  date: '1994-08-05T11:10:52'
+  crc: '0x050d2a86'
+- name: MUSEUM.002
+  size: 1457152
+  date: '1994-08-05T11:17:46'
+  crc: '0x0a5248c3'
+- name: MUSEUM.003
+  size: 1457152
+  date: '1994-08-05T11:25:06'
+  crc: '0x569abf3d'
+- name: MUSEUM.004
+  size: 1457152
+  date: '1994-08-05T11:32:46'
+  crc: '0x6e410d20'
+- name: MUSEUM.005
+  size: 1457152
+  date: '1994-08-05T11:39:54'
+  crc: '0x26902216'
+- name: MUSEUM.006
+  size: 1196720
+  date: '1994-08-05T11:46:10'
+  crc: '0x828c6dcc'
+- name: MUSEUM.RED
+  size: 779204
+  date: '1994-08-05T11:06:28'
+  crc: '0x621a096e'
+- name: PRODUCT.PF
+  size: 350
+  date: '1994-08-09T10:47:58'
+  crc: '0xbdfda643'
+- name: READ.ME
+  size: 606
+  date: '1994-07-14T15:40:00'
+  crc: '0x50100af5'

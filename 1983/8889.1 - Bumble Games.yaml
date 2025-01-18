@@ -1,4 +1,4 @@
-filename: Bumble Games [a1] (1983)(IBM) [Educational].zip
+filename: Bumble Games (1983)(IBM) [Educational].zip
 tdc_id: '8889.1'
 title:
   box: Bumble Games
@@ -8,11 +8,12 @@ genre: Educational
 language: English
 date:
   added: '2019-03-01T18:23:08'
-  last_modified: '2019-03-01T18:23:08'
+  last_modified: '2024-12-16T17:45:10'
 type: zip
-tags:
-- Alternate: 1
+commands:
+  play: BUMBLE.BAT
 references:
+  mobygames: https://www.mobygames.com/game/15105/bumble-games/
   dosid: DOS01202
   exodos: Bumble Games (1983).zip
 files:

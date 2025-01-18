@@ -14,6 +14,9 @@ date:
 type: zip
 tags:
 - Freeware
+requirements:
+  cpu:
+    min: '8088'
 media: Download
 commands:
   play: pathman.bat

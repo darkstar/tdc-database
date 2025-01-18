@@ -1,0 +1,37 @@
+filename: Turf-form - System-8 (1990)(CDS Software LTD.) [Simulation, Sports][!].zip
+tdc_id: '17743.2'
+parent_id: '17743.1'
+title:
+  box: Turf-form - System-8
+publisher: CDS Software LTD.
+year: '1990'
+genre:
+- Simulation
+- Sports
+language: English
+date:
+  added: '2025-01-10T10:47:59'
+  last_modified: '2025-01-10T10:47:59'
+type: zip
+tags:
+- KnownGood
+media: 360K
+commands:
+  play: TURF.EXE
+files:
+- name: DEFAULT.DTA
+  size: 4665
+  date: '1990-11-02T17:28:40'
+  crc: '0x04f39832'
+- name: SYSTEM8.EXE
+  size: 98910
+  date: '1990-11-14T18:18:06'
+  crc: '0x589f1279'
+- name: TURF.DAT
+  size: 68
+  date: '1990-11-05T19:38:20'
+  crc: '0x634da56c'
+- name: TURF.EXE
+  size: 90921
+  date: '1990-11-14T18:14:58'
+  crc: '0x7d8e4c75'

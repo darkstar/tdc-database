@@ -14,6 +14,9 @@ date:
 type: zip
 tags:
 - Alternate: 1
+requirements:
+  cpu:
+    min: '8088'
 commands:
   play: CASTLE.EXE
 files:

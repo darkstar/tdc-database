@@ -1,9 +1,9 @@
-filename: Iron Lord (1991)(Action Sixteen) [Action, Adventure].zip
+filename: Iron Lord (1991)(Action Sixteen, Digital Integration Ltd., Ubi Soft Entertainment Software) [Action, Adventure].zip
 tdc_id: '11556.0'
 parent_id: '11556.5'
 title:
   box: Iron Lord
-publisher: Action Sixteen
+publisher: Action Sixteen, Digital Integration Ltd., Ubi Soft Entertainment Software
 year: '1991'
 genre:
 - Action
@@ -11,10 +11,13 @@ genre:
 language: English
 date:
   added: '2022-08-04T14:16:52'
-  last_modified: '2022-08-04T14:16:52'
+  last_modified: '2025-01-06T11:48:22'
 type: zip
+media: 360K
 commands:
   play: IRONLORD.EXE
+references:
+  mobygames: https://www.mobygames.com/game/14405/iron-lord/
 files:
 - name: IRON1\
   size: 0
@@ -81,7 +84,7 @@ files:
   crc: '0x1d1f40d2'
 - name: IRON2\
   size: 0
-  date: '1991-05-03T21:34:00'
+  date: '1991-05-03T21:42:56'
 - name: IRON2\IRONLORD.004
   size: 1
   date: '1990-08-28T16:59:24'
@@ -392,6 +395,18 @@ files:
   size: 40704
   date: '1990-08-28T15:38:36'
   crc: '0xf53ac5ec'
+- name: IRON53
+  size: 0
+  date: '1991-05-03T21:17:00'
+- name: IRON55
+  size: 0
+  date: '1991-05-03T21:20:00'
+- name: IRON56
+  size: 0
+  date: '1991-05-03T21:21:00'
+- name: IRON57
+  size: 0
+  date: '1991-05-03T21:22:00'
 - name: IRONLORD.EXE
   size: 97964
   date: '1991-09-23T12:29:00'

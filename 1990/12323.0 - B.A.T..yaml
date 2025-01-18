@@ -1,6 +1,6 @@
-filename: B.A.T. (1990)(Ubi Soft Entertainment Software) [Adventure, Role-Playing (RPG)].zip
+filename: B.A.T. (1990)(Ubi Soft Entertainment Software) [Adventure, Role-Playing (RPG)][!].zip
 tdc_id: '12323.0'
-parent_id: '12323.5'
+parent_id: '12323.10'
 title:
   box: B.A.T.
 publisher: Ubi Soft Entertainment Software
@@ -11,39 +11,45 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:31:48'
-  last_modified: '2019-03-01T18:31:48'
+  last_modified: '2025-01-17T09:03:06'
 type: zip
+tags:
+- KnownGood
+media: 360K
+commands:
+  play: BAT.EXE
 references:
+  mobygames: https://www.mobygames.com/game/2200/bat/
   dosid: DOS00957
   exodos: BAT (1990).zip
 files:
 - name: BAT.EXE
-  size: 104785
-  date: '1990-11-29T18:26:26'
-  crc: '0x3d2fc7e4'
+  size: 104769
+  date: '1990-11-29T17:57:48'
+  crc: '0x7ffb2169'
 - name: BAT1.MPC
   size: 1578
-  date: '1990-07-18T02:12:14'
+  date: '1990-07-17T00:12:14'
   crc: '0x6540063d'
 - name: BAT2.MPC
   size: 926
-  date: '1990-07-18T02:12:16'
+  date: '1990-07-17T00:12:16'
   crc: '0xef9e1bd3'
 - name: BAT3.MPC
   size: 882
-  date: '1990-07-18T02:12:18'
+  date: '1990-07-17T00:12:18'
   crc: '0x99cd503b'
 - name: BAT4.MPC
   size: 774
-  date: '1990-07-18T02:12:20'
+  date: '1990-07-17T00:12:20'
   crc: '0x11a80244'
 - name: BAT5.MPC
   size: 886
-  date: '1990-07-18T02:12:24'
+  date: '1990-07-17T00:12:24'
   crc: '0xc2ed8229'
 - name: BAT6.MPC
   size: 1054
-  date: '1990-07-18T02:13:56'
+  date: '1990-07-17T00:13:56'
   crc: '0xedcf0d04'
 - name: BATAGENT.BIN
   size: 21
@@ -56,6 +62,14 @@ files:
 - name: BATDISK2.TST
   size: 1
   date: '1990-11-23T18:27:46'
+  crc: '0xe8b7be43'
+- name: BATDISK3.TST
+  size: 1
+  date: '1990-11-23T18:27:50'
+  crc: '0xe8b7be43'
+- name: BATDISK4.TST
+  size: 1
+  date: '1990-11-23T18:27:50'
   crc: '0xe8b7be43'
 - name: BATSTART.UP
   size: 4027
@@ -87,10 +101,16 @@ files:
   crc: '0xceada6e9'
 - name: BAT_VGA1
   size: 0
-  date: '1990-11-29T14:26:54'
+  date: '1990-11-29T19:16:18'
 - name: BAT_VGA2
   size: 0
-  date: '1990-11-29T14:36:50'
+  date: '1990-11-29T19:19:38'
+- name: BAT_VGA3
+  size: 0
+  date: '1990-11-29T19:23:32'
+- name: BAT_VGA4
+  size: 0
+  date: '1990-11-29T20:00:08'
 - name: BIZZY.CMP
   size: 6041
   date: '1980-01-01T02:07:52'
@@ -220,13 +240,21 @@ files:
   date: '1990-10-23T15:07:58'
   crc: '0xf9103c65'
 - name: INSTALL.BAT
-  size: 581
-  date: '1990-11-29T19:06:04'
-  crc: '0xa9330384'
-- name: INSTALL_1.BAT
-  size: 539
-  date: '1990-11-29T19:07:14'
-  crc: '0x8cae6a3d'
+  size: 572
+  date: '1990-11-29T18:10:58'
+  crc: '0x4e72a42b'
+- name: INSTALL2.BAT
+  size: 558
+  date: '1990-11-29T18:02:38'
+  crc: '0x9736c62e'
+- name: INSTALL3.BAT
+  size: 558
+  date: '1990-11-29T18:03:18'
+  crc: '0x3b0377ba'
+- name: INSTALL4.BAT
+  size: 537
+  date: '1990-11-29T18:03:48'
+  crc: '0xf760122d'
 - name: INTERP.BIN
   size: 7731
   date: '1990-10-02T14:45:30'

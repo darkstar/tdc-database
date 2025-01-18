@@ -1,8 +1,8 @@
-filename: Mental Blocks (1989)(Avantage Software) [Action, Strategy].zip
+filename: Mental Blocks v1.0 (1989)(Accolade, Inc., Avantage Software) [Action, Strategy].zip
 tdc_id: '7713.0'
 title:
-  screen: Mental Blocks
-publisher: Avantage Software
+  box: Mental Blocks
+publisher: Accolade, Inc., Avantage Software
 year: '1989'
 genre:
 - Action
@@ -10,9 +10,13 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:28:22'
-  last_modified: '2019-03-01T18:28:22'
+  last_modified: '2024-12-21T07:51:14'
+version: '1.0'
 type: zip
+commands:
+  play: RUN.COM
 references:
+  mobygames: https://www.mobygames.com/game/46449/mental-blocks/
   dosid: DOS03505
   exodos: Mental Blocks (1989).zip
 files:
@@ -20,6 +24,10 @@ files:
   size: 23253
   date: '1989-07-18T11:09:08'
   crc: '0xf4e01f2f'
+- name: BRAIN.EX_
+  size: 23253
+  date: '1989-07-18T11:09:08'
+  crc: '0x47c4838d'
 - name: CGABRAIN.OVR
   size: 2604
   date: '1989-03-20T15:53:34'
@@ -56,10 +64,18 @@ files:
   size: 12229
   date: '1989-07-18T11:09:02'
   crc: '0xc70038b1'
+- name: CHOICE.EX_
+  size: 12229
+  date: '1989-07-18T11:09:02'
+  crc: '0x7424a413'
 - name: CUBES.EXE
   size: 60117
   date: '1989-07-18T11:09:12'
   crc: '0xb155a14a'
+- name: CUBES.EX_
+  size: 60117
+  date: '1989-07-18T11:09:12'
+  crc: '0x02713de8'
 - name: EGABRAIN.OVR
   size: 3212
   date: '1989-03-20T15:53:24'
@@ -92,6 +108,10 @@ files:
   size: 21909
   date: '1989-07-18T11:09:04'
   crc: '0xe51aaf34'
+- name: NYET3D.EX_
+  size: 21909
+  date: '1989-07-18T11:09:04'
+  crc: '0x563e3396'
 - name: NYETFRAM.CMP
   size: 10466
   date: '1989-03-08T14:45:06'

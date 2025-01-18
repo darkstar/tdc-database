@@ -1,7 +1,9 @@
-filename: Kult- The Temple of Flying Saucers (En)(De)(Fr) (1989)(Infogrames Europe SA) [Adventure, Role-Playing (RPG)].zip
+filename: Kult (En)(De)(Fr) (1989)(Infogrames Europe SA) [Adventure, Role-Playing (RPG)].zip
 tdc_id: '6260.0'
+parent_id: '6260.2'
 title:
-  box: 'Kult: The Temple of Flying Saucers'
+  box: Kult
+  screen: 'Kult: The Temple of Flying Saucers'
 publisher: Infogrames Europe SA
 year: '1989'
 genre:
@@ -13,122 +15,111 @@ language:
 - German
 date:
   added: '2019-03-01T18:28:08'
-  last_modified: '2019-03-01T18:28:08'
+  last_modified: '2025-01-05T14:20:15'
 type: zip
+media: 360K
+commands:
+  play: ERE.BAT
+references:
+  mobygames: https://www.mobygames.com/game/562/chamber-of-the-sci-mutant-priestess/
 files:
 - name: CLEAR.BIN
   size: 10303
-  date: '1999-09-22T22:05:06'
-  crc: '0x8f818ca9'
-- name: CONFIG.TAT
-  size: 182
-  date: '1999-09-22T22:07:10'
-  crc: '0x2ee5352f'
+  date: '1980-01-01T01:57:52'
+  crc: '0x9225d1d4'
 - name: DESCD.BIN
   size: 10438
-  date: '1989-05-10T00:00:00'
+  date: '1989-05-02T10:01:20'
   crc: '0xec811892'
 - name: DESCE.BIN
   size: 10419
-  date: '1989-05-10T00:00:00'
+  date: '1980-01-01T01:12:36'
   crc: '0x69be2db6'
 - name: DESCF.BIN
   size: 10491
-  date: '1989-05-10T00:00:00'
+  date: '1989-04-28T15:07:14'
   crc: '0x463f2b51'
-- name: DESCS.BIN
-  size: 10155
-  date: '1989-05-10T00:00:00'
-  crc: '0x731d1bbc'
 - name: DIALD.BIN
-  size: 10055
-  date: '1989-05-10T00:00:00'
-  crc: '0xe68d6cac'
+  size: 10058
+  date: '1980-01-01T01:16:52'
+  crc: '0xede630b0'
 - name: DIALE.BIN
   size: 9635
-  date: '1989-05-10T00:00:00'
+  date: '1989-04-28T15:08:58'
   crc: '0x2aa4f663'
 - name: DIALF.BIN
   size: 10070
-  date: '1989-05-10T00:00:00'
+  date: '1989-04-28T15:03:58'
   crc: '0x9e75e8b4'
-- name: DIALS.BIN
-  size: 9816
-  date: '1989-05-10T00:00:00'
-  crc: '0x84857f6b'
 - name: DRAP.BIN
   size: 6523
-  date: '1989-05-10T00:00:00'
+  date: '1980-01-01T00:35:42'
   crc: '0x78fd617e'
-- name: ERE.COM
-  size: 6690
-  date: '1989-05-10T00:00:00'
-  crc: '0xd74799f2'
+- name: ERE.BAT
+  size: 141
+  date: '1989-05-10T17:47:28'
+  crc: '0xdd7a25d6'
 - name: ERE.PXI
-  size: 134358
-  date: '1989-05-10T00:00:00'
-  crc: '0x55a195aa'
+  size: 134287
+  date: '1980-01-01T00:40:08'
+  crc: '0x8bebb156'
 - name: ERE.PX_
-  size: 134358
-  date: '2006-09-01T07:05:04'
-  crc: '0x07ce1e1d'
+  size: 134287
+  date: '1980-01-01T00:40:08'
+  crc: '0x338038db'
 - name: FOND.BIN
   size: 4476
-  date: '1989-05-10T00:00:00'
+  date: '1980-01-01T00:40:14'
   crc: '0xae734ffa'
 - name: IRUN.COM
   size: 2176
-  date: '1989-05-10T00:00:00'
+  date: '1989-01-23T21:47:48'
   crc: '0xff47727e'
-- name: KULT.BAT
-  size: 141
-  date: '1989-05-10T00:00:00'
-  crc: '0xdd7a25d6'
 - name: MOTSD.BIN
   size: 1077
-  date: '1989-05-10T00:00:00'
+  date: '1980-01-01T01:14:14'
   crc: '0x37ea9bea'
 - name: MOTSE.BIN
   size: 1082
-  date: '1989-05-10T00:00:00'
+  date: '1980-01-01T01:11:38'
   crc: '0x7c5952ee'
 - name: MOTSF.BIN
   size: 1068
-  date: '1989-05-10T00:00:00'
+  date: '1980-01-01T01:09:08'
   crc: '0xc621c704'
 - name: PERS1.BIN
   size: 14294
-  date: '1989-05-10T00:00:00'
+  date: '1986-04-24T01:31:48'
   crc: '0x66d7f6ec'
 - name: PERS2.BIN
   size: 10489
-  date: '1989-05-10T00:00:00'
+  date: '1986-04-24T01:33:40'
   crc: '0x52db349f'
 - name: PRES.BIN
   size: 8005
-  date: '1989-05-10T00:00:00'
+  date: '1980-01-01T00:32:56'
   crc: '0x6b99ba5b'
 - name: PUZZL.BIN
   size: 45671
-  date: '1989-05-10T00:00:00'
+  date: '1986-04-24T01:47:16'
   crc: '0xa75eb1c8'
 - name: SCORPION.EXE
   size: 1422
-  date: '1989-05-10T00:00:00'
+  date: '1989-05-10T12:13:06'
   crc: '0xec98b342'
 - name: SPRIT.BIN
   size: 23811
-  date: '1989-05-10T00:00:00'
+  date: '1987-11-14T04:27:34'
   crc: '0xebc28f81'
 - name: VEPCD.BIN
   size: 1548
-  date: '1989-05-10T00:00:00'
+  date: '1980-01-01T00:32:34'
   crc: '0x632b7cad'
 - name: VEPCE.BIN
   size: 1345
-  date: '1989-05-10T00:00:00'
+  date: '1980-01-01T00:32:12'
   crc: '0x68e76914'
 - name: VEPCF.BIN
   size: 1525
-  date: '1989-05-10T00:00:00'
+  date: '1980-01-01T00:28:58'
   crc: '0x55387b28'
