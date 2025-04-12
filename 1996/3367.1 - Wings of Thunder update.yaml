@@ -1,0 +1,42 @@
+filename: Wings of Thunder update (Flight Sim Toolkit) [FW] (1996)(Mike Layer, Invader) [Simulation, Addon].zip
+tdc_id: '3367.1'
+title:
+  screen: Wings of Thunder update
+  qualifier: Flight Sim Toolkit
+publisher: Mike Layer, Invader
+year: '1996'
+genre:
+- Simulation
+- Addon
+language: English
+date:
+  added: '2025-01-28T09:16:54'
+  last_modified: '2025-01-28T09:16:54'
+type: zip
+tags:
+- Freeware
+media: Download
+patch: true
+references:
+  mobygames: https://www.mobygames.com/game/80660/wings-of-thunder/
+files:
+- name: A10.FGD
+  size: 673
+  date: '1996-07-10T08:03:46'
+  crc: '0xf6713b26'
+- name: A10.FMD
+  size: 567
+  date: '1996-07-09T21:17:20'
+  crc: '0x4b7bc2ae'
+- name: EA10.FMD
+  size: 567
+  date: '1996-07-09T21:21:58'
+  crc: '0xde6e5d41'
+- name: HA10.FMD
+  size: 567
+  date: '1996-07-09T21:22:10'
+  crc: '0x5533e264'
+- name: SVGA_A10.PCX
+  size: 85946
+  date: '1996-07-10T08:10:16'
+  crc: '0xd1c186ba'

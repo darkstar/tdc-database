@@ -1,0 +1,30 @@
+filename: Mission Supernova - Teil 1- Das Schicksal des Horst Hummel v2.01 (Installer) (De) [SW] (1994)(Mad Data, Thomas & Steffen Dingel) [Adventure].zip
+tdc_id: '14314.3'
+title:
+  box: 'Mission Supernova - Teil 1: Das Schicksal des Horst Hummel'
+publisher: Mad Data, Thomas & Steffen Dingel
+year: '1994'
+genre: Adventure
+language: German
+date:
+  added: '2025-03-10T08:44:35'
+  last_modified: '2025-03-10T08:44:35'
+version: '2.01'
+type: zip
+tags:
+- Shareware
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/4582/mission-supernova/
+files:
+- name: INSTALL.EXE
+  size: 15360
+  date: '1994-01-09T23:56:56'
+  crc: '0x27b4cccc'
+- name: MSN_V201
+  size: 1125636
+  date: '1994-01-09T23:56:56'
+  crc: '0x5883a390'

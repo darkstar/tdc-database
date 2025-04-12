@@ -1,0 +1,53 @@
+filename: Wolfenstein 3D v1.4 (Installer) [SWR] (1994)(GT Interactive Software Corp., id Software, Inc.) [Action].zip
+tdc_id: '16051.14'
+parent_id: '16051.31'
+title:
+  box: Wolfenstein 3D
+publisher: GT Interactive Software Corp., id Software, Inc.
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:52:30'
+  last_modified: '2025-02-09T14:03:05'
+version: '1.4'
+type: zip
+tags:
+- SharewareRegistered
+media: 720K
+installer: true
+commands:
+  play: INSTALL.BAT
+references:
+  mobygames: https://www.mobygames.com/game/306/wolfenstein-3d/
+  dosid: DOS05689
+  exodos: Wolfenstein 3D (1992).zip
+files:
+- name: DEICE.EXE
+  size: 17303
+  date: '1993-02-04T15:33:24'
+  crc: '0xaad4552c'
+- name: INSTALL.BAT
+  size: 79
+  date: '1994-04-13T07:50:44'
+  crc: '0xf60596b6'
+- name: W3DGT.1
+  size: 332800
+  date: '1994-04-13T07:53:42'
+  crc: '0x3051a010'
+- name: W3DGT.2
+  size: 358400
+  date: '1994-04-13T07:53:44'
+  crc: '0xe6d4fac2'
+- name: W3DGT.3
+  size: 358400
+  date: '1994-04-13T07:53:46'
+  crc: '0x8ab7a9cb'
+- name: W3DGT.4
+  size: 124552
+  date: '1994-04-13T07:53:46'
+  crc: '0xf297e542'
+- name: W3DGT.DAT
+  size: 214
+  date: '1994-04-13T07:50:44'
+  crc: '0xf8baf643'

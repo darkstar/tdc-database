@@ -1,4 +1,4 @@
-filename: Jonny Quest- Curse of the Mayan Warriors (1993)(Hollyware Entertainment) [Adventure].zip
+filename: Jonny Quest- Curse of the Mayan Warriors v1.00 (1993)(Hollyware Entertainment) [Adventure].zip
 tdc_id: '11628.0'
 parent_id: '11628.1'
 title:
@@ -9,9 +9,15 @@ genre: Adventure
 language: English
 date:
   added: '2019-03-01T19:10:42'
-  last_modified: '2019-03-01T19:10:42'
+  last_modified: '2025-01-30T09:02:44'
+version: '1.00'
 type: zip
+media: 1.44M
+commands:
+  play: JONNY.BAT
+  setup: SETSOUND.BAT
 references:
+  mobygames: https://www.mobygames.com/game/2469/jonny-quest-curse-of-the-mayan-warriors/
   dosid: DOS02942
   exodos: Jonny Quest - Curse of the Mayan Warriors (1993).zip
 files:

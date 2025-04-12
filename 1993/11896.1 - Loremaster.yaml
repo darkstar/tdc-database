@@ -1,4 +1,4 @@
-filename: Loremaster (Installer) (1993)(Creative Software) [Adventure, Role-Playing (RPG)].zip
+filename: Loremaster v1P12A92 (Installer) [f1] (1993)(Creative Software) [Adventure, Role-Playing (RPG)].zip
 tdc_id: '11896.1'
 title:
   box: Loremaster
@@ -10,26 +10,61 @@ genre:
 language: English
 date:
   added: '2019-03-01T19:11:58'
-  last_modified: '2019-03-01T19:11:58'
+  last_modified: '2025-03-23T12:52:04'
+version: 1P12A92
 type: zip
+tags:
+- Fixed: 1
 installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/130618/loremaster/
 files:
 - name: DISK.ID
   size: 52
   date: '1993-01-25T10:49:22'
   crc: '0xa9396687'
+- name: DISK2.ID
+  size: 52
+  date: '1993-01-25T10:57:34'
+  crc: '0xab7fd8de'
+- name: DISK3.ID
+  size: 52
+  date: '1993-01-25T11:14:32'
+  crc: '0xaabdb2e9'
+- name: DISK4.ID
+  size: 52
+  date: '1993-01-25T11:30:06'
+  crc: '0xaff2a46c'
 - name: GM.DAT
   size: 6096
   date: '1993-01-25T10:49:16'
   crc: '0x56fe4ba1'
 - name: INSTALL.DAT
   size: 8010
-  date: '2013-02-10T22:20:00'
+  date: '1980-01-01T00:00:00'
   crc: '0xabebc4f3'
+- name: INSTALL.DA_
+  size: 8477
+  date: '1993-01-29T16:19:46'
+  crc: '0x1b77755c'
 - name: INSTALL.EXE
   size: 90304
   date: '1993-01-25T10:48:32'
   crc: '0x929e6b84'
+- name: INSTALL2.DAT
+  size: 308
+  date: '1993-01-25T11:12:32'
+  crc: '0x44fd1d0f'
+- name: INSTALL3.DAT
+  size: 308
+  date: '1993-01-25T11:29:16'
+  crc: '0xd3a2dc43'
+- name: INSTALL4.DAT
+  size: 833
+  date: '1993-01-25T11:50:00'
+  crc: '0x7edadab5'
 - name: LM1.001
   size: 771595
   date: '1993-01-25T10:57:10'
@@ -48,7 +83,7 @@ files:
   crc: '0xc1f41c51'
 - name: LM1.EXE
   size: 96
-  date: '2013-02-10T22:20:00'
+  date: '1980-01-01T00:00:00'
   crc: '0x59d5ebe8'
 - name: LM1_1.EXE
   size: 369936

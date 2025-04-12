@@ -1,0 +1,25 @@
+filename: Prince of Persia v1.0 (1990)(Brøderbund Software, Inc.) [IMA][360k].zip
+tdc_id: '8014.34'
+title:
+  box: Prince of Persia
+publisher: Brøderbund Software, Inc.
+year: '1990'
+genre: IMA
+language: English
+date:
+  added: '2025-02-17T08:21:15'
+  last_modified: '2025-02-17T08:21:15'
+version: '1.0'
+type: IMA
+media: 360K
+references:
+  mobygames: https://www.mobygames.com/game/196/prince-of-persia/
+files:
+- name: disk1.img
+  size: 368640
+  date: '2013-12-21T16:10:40'
+  crc: '0x70920913'
+- name: disk2.img
+  size: 368640
+  date: '2013-12-21T16:10:46'
+  crc: '0xd47f68c6'

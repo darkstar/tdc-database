@@ -1,0 +1,94 @@
+filename: NWurm v1.0 (Installer) (De) [SW] (1991)(Zeus Soft) [Action].zip
+tdc_id: '742.1'
+title:
+  screen: NWurm
+publisher: Zeus Soft
+year: '1991'
+genre: Action
+language: German
+date:
+  added: '2025-03-06T14:49:52'
+  last_modified: '2025-03-06T14:49:52'
+version: '1.0'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: START.BAT
+files:
+- name: INSTALL.EXE
+  size: 18624
+  date: '1991-01-10T14:00:00'
+  crc: '0xadf0d124'
+- name: NVIEM\
+  size: 0
+  date: '1994-11-06T14:26:04'
+- name: NVIEM\EP.PAS
+  size: 1454
+  date: '1991-01-10T14:00:00'
+  crc: '0x2f37b834'
+- name: NVIEM\EPP.ASM
+  size: 1368
+  date: '1991-01-10T14:00:00'
+  crc: '0xdffefbe0'
+- name: NVIEM\EPP.OBJ
+  size: 365
+  date: '1991-01-10T14:00:00'
+  crc: '0x4514d04d'
+- name: NVIEM\NV.EXE
+  size: 12336
+  date: '1991-01-10T14:00:00'
+  crc: '0xc33a939d'
+- name: NVIEM\NV.PAS
+  size: 15544
+  date: '1991-01-10T14:00:00'
+  crc: '0x177ec94f'
+- name: NWURM\
+  size: 0
+  date: '1994-11-06T14:26:04'
+- name: NWURM\EXTRA.NSZ
+  size: 3868
+  date: '1991-01-11T17:48:48'
+  crc: '0xe0d5e596'
+- name: NWURM\LIESMICH.TXT
+  size: 2762
+  date: '1991-01-12T20:34:06'
+  crc: '0xf69251a9'
+- name: NWURM\NFONT.EGA
+  size: 2896
+  date: '1991-01-10T14:00:00'
+  crc: '0x8f1372e4'
+- name: NWURM\NFONT.VGA
+  size: 4096
+  date: '1991-01-10T14:00:00'
+  crc: '0x41f86d90'
+- name: NWURM\NPICT.EGA
+  size: 418
+  date: '1991-01-10T14:00:00'
+  crc: '0xe25e5fa9'
+- name: NWURM\NPICT.VGA
+  size: 556
+  date: '1991-01-10T14:00:00'
+  crc: '0xe5771412'
+- name: NWURM\NV.BAT
+  size: 51
+  date: '1991-01-10T14:00:00'
+  crc: '0xb57ea2f6'
+- name: NWURM\NWURM.EXE
+  size: 92112
+  date: '1991-01-10T14:00:00'
+  crc: '0x7a09d9e8'
+- name: NWURM\NWURM.TXT
+  size: 19263
+  date: '1991-01-12T20:56:48'
+  crc: '0x6616daa4'
+- name: NWURM\STANDARD.NSZ
+  size: 11752
+  date: '1991-01-12T20:31:30'
+  crc: '0xdf9efc89'
+- name: START.BAT
+  size: 116
+  date: '1991-01-10T14:00:00'
+  crc: '0x87a5a1da'

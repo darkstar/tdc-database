@@ -1,0 +1,44 @@
+filename: Star Crusader- Bonus Missions Pack (Installer) (En)(De)(Fr) (1994)(GameTek UK Ltd.) [Simulation, Addon].zip
+tdc_id: '15497.7'
+parent_id: '15497.17'
+title:
+  box: 'Star Crusader: Bonus Missions Pack'
+publisher: GameTek UK Ltd.
+year: '1994'
+genre:
+- Simulation
+- Addon
+language:
+- English
+- French
+- German
+date:
+  added: '2025-03-05T09:02:58'
+  last_modified: '2025-03-05T09:02:58'
+type: zip
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/45934/star-crusader-bonus-missions-pack/
+files:
+- name: BONUS MISSI
+  size: 0
+  date: '1994-10-28T12:10:10'
+- name: DISK1.BMD
+  size: 127589
+  date: '1994-10-27T21:32:28'
+  crc: '0xf261d6b5'
+- name: DISK2.BMD
+  size: 19015
+  date: '1994-10-27T21:32:30'
+  crc: '0x909a01e5'
+- name: DISK3.BMD
+  size: 19021
+  date: '1994-10-27T21:32:32'
+  crc: '0xed856e05'
+- name: INSTALL.EXE
+  size: 25489
+  date: '1994-10-27T20:23:32'
+  crc: '0x6908a7b2'

@@ -1,8 +1,8 @@
-filename: Dschump! v1.40 (De)(En) [SW] (1994)(Peter Hinz) [Strategy, Action].zip
+filename: Dschump! v1.40 (De)(En) [SW] (1994)(Peter Hinz, HomeBrew Software) [Strategy, Action].zip
 tdc_id: '6756.2'
 title:
   screen: Dschump!
-publisher: Peter Hinz
+publisher: Peter Hinz, HomeBrew Software
 year: '1994'
 genre:
 - Strategy
@@ -12,12 +12,17 @@ language:
 - German
 date:
   added: '2018-01-23T14:58:12'
-  last_modified: '2018-01-23T14:58:12'
+  last_modified: '2025-03-29T15:07:13'
 version: '1.40'
 type: zip
 tags:
 - Shareware
 media: Download
+commands:
+  play: DSCHUMP.BAT
+  setup: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/58244/jump/
 files:
 - name: BESTELL.TXT
   size: 2426
@@ -27,6 +32,10 @@ files:
   size: 4316
   date: '1994-11-15T01:40:00'
   crc: '0x8a5f5349'
+- name: DSCHUMP.BAT
+  size: 35
+  date: '1994-11-15T01:40:00'
+  crc: '0x12841288'
 - name: DSCHUMP.CFG
   size: 26
   date: '1994-11-15T01:40:00'
@@ -103,10 +112,6 @@ files:
   size: 34537
   date: '1994-11-15T01:40:00'
   crc: '0xa8574378'
-- name: START.BAT
-  size: 35
-  date: '1994-11-15T01:40:00'
-  crc: '0x12841288'
 - name: SYSOP.DOC
   size: 6978
   date: '1994-11-15T01:40:00'

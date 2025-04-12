@@ -1,0 +1,89 @@
+filename: Graeme Souness Soccer Manager (1993)(Zeppelin Games Limited) [Sports].zip
+tdc_id: '10178.1'
+title:
+  box: Graeme Souness Soccer Manager
+publisher: Zeppelin Games Limited
+year: '1993'
+genre: Sports
+language: English
+date:
+  added: '2025-02-25T17:37:57'
+  last_modified: '2025-02-25T17:37:57'
+type: zip
+commands:
+  play: GSSM.EXE
+references:
+  mobygames: https://www.mobygames.com/game/20820/graeme-souness-soccer-manager/
+files:
+- name: GRAPHICS\ARROW.DAT
+  size: 32000
+  date: '1987-04-22T00:09:22'
+  crc: '0x69893bf1'
+- name: GRAPHICS\BANK.LBM
+  size: 10838
+  date: '1991-04-19T17:31:00'
+  crc: '0x7cca48aa'
+- name: GRAPHICS\BFONT.DAT
+  size: 11520
+  date: '1992-03-11T10:05:56'
+  crc: '0x8664b732'
+- name: GRAPHICS\BLUBAK.LBM
+  size: 18028
+  date: '1991-04-19T17:31:00'
+  crc: '0xdadcc9d0'
+- name: GRAPHICS\BLUEBAK.EGA
+  size: 18228
+  date: '1993-04-06T11:42:32'
+  crc: '0xef07ddfc'
+- name: GRAPHICS\CHAR.BIN
+  size: 512
+  date: '1992-02-24T16:40:54'
+  crc: '0xc2c88d63'
+- name: GRAPHICS\DISK.LBM
+  size: 10530
+  date: '1991-04-19T17:31:00'
+  crc: '0x53dea2bd'
+- name: GRAPHICS\DISK1.LBM
+  size: 10502
+  date: '1993-02-27T14:27:54'
+  crc: '0x800f1c65'
+- name: GRAPHICS\ICONS1.AM
+  size: 32066
+  date: '1992-03-11T10:02:54'
+  crc: '0xe9e10de8'
+- name: GRAPHICS\ICONS2.AM
+  size: 32066
+  date: '1992-03-11T10:03:06'
+  crc: '0x185b236b'
+- name: GRAPHICS\LOADER.LBM
+  size: 23736
+  date: '1991-04-19T17:32:00'
+  crc: '0xcd478f11'
+- name: GRAPHICS\MAINSCR.LBM
+  size: 29368
+  date: '1991-04-19T17:32:00'
+  crc: '0x809270cf'
+- name: GRAPHICS\PITCH.LBM
+  size: 22490
+  date: '1991-04-19T17:31:00'
+  crc: '0xb42ab8d4'
+- name: GRAPHICS\REV.TAB
+  size: 256
+  date: '1991-04-19T15:55:00'
+  crc: '0xa977ad6d'
+- name: GRAPHICS\SBOARD.LBM
+  size: 8888
+  date: '1991-04-19T17:31:00'
+  crc: '0x0fe3342e'
+- name: GRAPHICS\SMALLBIT.LBM
+  size: 17724
+  date: '1991-04-19T17:32:00'
+  crc: '0xb89d4147'
+- name: GSSM.EXE
+  size: 91343
+  date: '1993-04-18T15:01:32'
+  crc: '0x8920ce17'
+- name: SETUP.DAT
+  size: 6
+  date: '2024-08-15T15:37:02'
+  crc: '0xc2221563'

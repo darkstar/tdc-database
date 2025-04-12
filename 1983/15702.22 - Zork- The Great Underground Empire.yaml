@@ -1,0 +1,32 @@
+filename: Zork- The Great Underground Empire r75-A [DC] (1983)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '15702.22'
+parent_id: '15702.21'
+title:
+  box: 'Zork: The Great Underground Empire'
+publisher: Infocom, Inc.
+year: '1983'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2025-02-16T15:56:40'
+  last_modified: '2025-02-16T15:56:40'
+release: 75-A
+type: zip
+tags:
+- DOSConversion
+media: 360K
+commands:
+  play: ZORK1.COM
+references:
+  mobygames: https://www.mobygames.com/game/50/zork-the-great-underground-empire/
+files:
+- name: ZORK1.COM
+  size: 12928
+  date: '1980-01-01T00:00:00'
+  crc: '0x1655aa34'
+- name: ZORKR75.DAT
+  size: 113344
+  date: '1983-09-29T15:55:02'
+  crc: '0xa6667723'

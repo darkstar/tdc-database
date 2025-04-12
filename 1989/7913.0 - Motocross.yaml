@@ -1,5 +1,6 @@
-filename: Motocross (1989)(Gamestar, Inc.) [Racing - Driving, Simulation].zip
+filename: Motocross (1989)(Gamestar, Inc.) [Racing - Driving, Simulation][!].zip
 tdc_id: '7913.0'
+parent_id: '7913.2'
 title:
   box: Motocross
 publisher: Gamestar, Inc.
@@ -10,17 +11,19 @@ genre:
 language: English
 date:
   added: '2020-07-15T09:02:28'
-  last_modified: '2020-07-15T09:02:28'
+  last_modified: '2025-03-30T16:47:21'
 type: zip
+tags:
+- KnownGood
+media: 360K
 commands:
   play: MOTO.EXE
 references:
-  dosid: DOS03644
-  exodos: Motocross (1989).zip
+  mobygames: https://www.mobygames.com/game/1915/motocross/
 files:
 - name: BITMAPS\
   size: 0
-  date: '2016-04-02T16:04:06'
+  date: '1989-05-02T15:05:40'
 - name: BITMAPS\6X6.FNT
   size: 588
   date: '1980-01-04T00:49:04'
@@ -233,17 +236,35 @@ files:
   size: 119
   date: '1989-05-02T00:49:00'
   crc: '0xfef06cf6'
+- name: INSTALL.BAT
+  size: 2196
+  date: '1989-05-02T12:54:00'
+  crc: '0x78d6b554'
+- name: INSTALL2.BAT
+  size: 591
+  date: '1989-05-02T19:31:00'
+  crc: '0xda9124df'
+- name: MOTO.BAT
+  size: 39
+  date: '1989-05-02T00:30:00'
+  crc: '0xb5f0e313'
 - name: MOTO.EXE
   size: 134915
-  date: '1996-11-24T20:06:42'
+  date: '1986-05-02T06:30:00'
   crc: '0xd3e0ffc0'
 - name: MOTO.EX_
   size: 134915
-  date: '1989-05-02T01:30:00'
+  date: '1989-05-02T06:30:00'
   crc: '0x1339bcde'
+- name: MX1
+  size: 0
+  date: '1989-05-02T15:06:18'
+- name: MX2
+  size: 0
+  date: '1989-05-02T15:06:34'
 - name: TRACK\
   size: 0
-  date: '2016-04-02T16:04:06'
+  date: '1989-05-02T15:05:46'
 - name: TRACK\ANAHEIM.TRK
   size: 788
   date: '1980-01-04T01:24:30'

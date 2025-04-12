@@ -1,5 +1,6 @@
-filename: Zork- The Great Underground Empire r75 [DC] (1983)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+filename: Zork- The Great Underground Empire r75-B [DC] (1983)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
 tdc_id: '15702.2'
+parent_id: '15702.6'
 title:
   box: 'Zork: The Great Underground Empire'
 publisher: Infocom, Inc.
@@ -10,13 +11,16 @@ genre:
 language: English
 date:
   added: '2022-06-08T15:21:04'
-  last_modified: '2022-06-08T15:21:04'
-release: '75'
+  last_modified: '2025-02-06T07:52:06'
+release: 75-B
 type: zip
 tags:
 - DOSConversion
+media: 360K
 commands:
   play: ZORK1.COM
+references:
+  mobygames: https://www.mobygames.com/game/50/zork-the-great-underground-empire/
 files:
 - name: ZORK1.COM
   size: 12928

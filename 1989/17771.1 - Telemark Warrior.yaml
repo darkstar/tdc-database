@@ -1,0 +1,107 @@
+filename: Telemark Warrior (1989)(Dro Soft) [Action].zip
+tdc_id: '17771.1'
+parent_id: '17771.0'
+title:
+  box: Telemark Warrior
+publisher: Dro Soft
+year: '1989'
+genre: Action
+language: English
+date:
+  added: '2025-01-29T15:29:00'
+  last_modified: '2025-01-29T15:29:00'
+type: zip
+media: 360K
+commands:
+  play: TELEM.EXE
+references:
+  mobygames: https://www.mobygames.com/game/40305/telemark-warrior/
+files:
+- name: BALA.DAT
+  size: 256
+  date: '1989-08-03T16:18:58'
+  crc: '0x8e958c32'
+- name: BUENOD.DAT
+  size: 8960
+  date: '1989-12-13T20:54:12'
+  crc: '0xf0927b2a'
+- name: BUENOI.DAT
+  size: 8960
+  date: '1989-12-13T20:53:56'
+  crc: '0xe79c2e69'
+- name: CGA.BGI
+  size: 6253
+  date: '1988-08-29T02:00:00'
+  crc: '0x17cbdd92'
+- name: COSAS.DAT
+  size: 14080
+  date: '1989-12-13T21:57:44'
+  crc: '0x97941432'
+- name: F1.BLK
+  size: 15360
+  date: '1989-08-03T16:20:18'
+  crc: '0x97f0b5df'
+- name: F1.MAP
+  size: 1842
+  date: '1989-08-03T16:19:38'
+  crc: '0x52f5e062'
+- name: F2.BLK
+  size: 9792
+  date: '1989-08-03T16:20:34'
+  crc: '0xe10b1513'
+- name: F2.MAP
+  size: 1842
+  date: '1989-08-03T16:19:44'
+  crc: '0x8830aeaa'
+- name: F3.BLK
+  size: 10048
+  date: '1989-08-03T16:20:50'
+  crc: '0x16c025d5'
+- name: F3.MAP
+  size: 1842
+  date: '1989-08-03T16:19:50'
+  crc: '0x671d7b9f'
+- name: F4.BLK
+  size: 7040
+  date: '1989-08-03T16:21:02'
+  crc: '0x8fb3099e'
+- name: F4.MAP
+  size: 1842
+  date: '1989-08-03T16:19:56'
+  crc: '0x3316d8a7'
+- name: MALOD.DAT
+  size: 8960
+  date: '1989-12-13T21:33:36'
+  crc: '0x9dea27bf'
+- name: MALOI.DAT
+  size: 8960
+  date: '1989-12-13T21:33:50'
+  crc: '0x8410d7f0'
+- name: NUMROS.DAT
+  size: 480
+  date: '1989-08-03T16:19:24'
+  crc: '0x3ed8ae97'
+- name: S00.NEO
+  size: 16000
+  date: '1989-09-30T00:31:42'
+  crc: '0xc04cf25d'
+- name: S01.NEO
+  size: 16000
+  date: '1989-09-30T01:29:00'
+  crc: '0xfc196067'
+- name: SUBE.DAT
+  size: 3840
+  date: '1989-12-13T21:57:24'
+  crc: '0x197e7346'
+- name: TELEM.EXE
+  size: 62804
+  date: '1989-09-30T01:02:54'
+  crc: '0x9565ed29'
+- name: TEXTO.DAT
+  size: 12800
+  date: '1989-12-13T22:36:20'
+  crc: '0x03e88698'
+- name: VIDA.DAT
+  size: 3840
+  date: '1989-08-03T16:19:32'
+  crc: '0xa9dfb091'

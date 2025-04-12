@@ -284,6 +284,10 @@ files:
 - name: 69.LFL
   size: 52609
   date: '1990-06-15T14:54:04'
+  crc: '0x0d11271b'
+- name: 69.LF_
+  size: 52609
+  date: '1990-06-15T14:54:04'
   crc: '0x4b0a6fc9'
 - name: 70.LFL
   size: 11564
@@ -330,3 +334,12 @@ files:
   size: 102339
   date: '1990-06-15T14:54:04'
   crc: '0xd3fa7819'
+- name: LOOM_1
+  size: 0
+  date: '1990-06-14T15:51:02'
+- name: LOOM_2
+  size: 0
+  date: '1990-06-14T15:53:10'
+- name: LOOM_3
+  size: 0
+  date: '1990-06-14T15:54:32'

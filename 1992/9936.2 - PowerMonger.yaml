@@ -1,54 +1,125 @@
-filename: PowerMonger (demo) (1992)(Electronic Arts, Inc.) [Strategy].zip
+filename: PowerMonger (demo) (1992)(Bullfrog Productions Ltd., Electronic Arts, Inc.) [Strategy].zip
 tdc_id: '9936.2'
+parent_id: '9936.3'
 title:
-  screen: PowerMonger
-publisher: Electronic Arts, Inc.
+  box: PowerMonger
+publisher: Bullfrog Productions Ltd., Electronic Arts, Inc.
 year: '1992'
 genre: Strategy
 language: English
 date:
   added: '2019-03-01T18:50:02'
-  last_modified: '2019-03-01T18:50:02'
+  last_modified: '2025-01-26T16:36:17'
 type: zip
+media: 1.2M
 demo: true
+commands:
+  play: DEMO.EXE
+  setup: PMSETUP.BAT
+references:
+  mobygames: https://www.mobygames.com/game/1993/powermonger/
 files:
 - name: 1STMAP.DAT
   size: 528
-  date: '1993-04-10T20:43:58'
+  date: '1992-05-21T14:36:32'
   crc: '0x84369c32'
+- name: ADLIB.FX
+  size: 4328
+  date: '1992-05-21T14:36:32'
+  crc: '0x74cc0edb'
+- name: BEEPER.FX
+  size: 2036
+  date: '1992-05-21T14:36:32'
+  crc: '0xa2f67d1d'
+- name: CAPGRAPH.BIN
+  size: 32000
+  date: '1992-05-21T14:36:32'
+  crc: '0x7912a27d'
 - name: CAPGRAPH.BLK
   size: 24093
-  date: '1993-04-10T20:44:16'
+  date: '1992-05-21T14:36:32'
   crc: '0x6d2f6373'
+- name: CAPGRAPH.EGA
+  size: 32000
+  date: '1992-05-21T14:36:32'
+  crc: '0x73cff29e'
 - name: DEMO.EXE
   size: 241547
-  date: '1993-04-10T20:43:58'
+  date: '1992-05-21T14:36:32'
   crc: '0x6d3bb034'
+- name: LAP.FX
+  size: 12908
+  date: '1992-05-21T14:36:32'
+  crc: '0xd1e54fcd'
 - name: LOSE.256
   size: 64000
-  date: '1993-04-10T20:44:16'
+  date: '1992-05-21T14:36:32'
   crc: '0x34357e95'
+- name: LOSE.BIN
+  size: 32000
+  date: '1992-05-21T14:36:32'
+  crc: '0x2fb384bb'
+- name: LOSE.EGA
+  size: 32000
+  date: '1992-05-21T14:36:32'
+  crc: '0x6424e6c6'
 - name: LOSE.PAL
   size: 768
-  date: '1993-04-10T20:44:16'
+  date: '1992-05-21T14:36:32'
   crc: '0x5ef0cbcc'
-- name: PM.BAT
-  size: 10
-  date: '1993-04-10T20:44:16'
-  crc: '0x1527855a'
+- name: MT32.FX
+  size: 13184
+  date: '1992-05-21T14:36:32'
+  crc: '0x4a515f5c'
+- name: PMSETUP.BAT
+  size: 1142
+  date: '1980-01-01T00:00:00'
+  crc: '0xaf381a8d'
 - name: QAZ.256
   size: 64000
-  date: '1993-04-10T20:44:16'
+  date: '1992-05-21T14:36:32'
   crc: '0xe6eaafb5'
+- name: QAZ.BIN
+  size: 32000
+  date: '1992-05-21T14:36:32'
+  crc: '0xf63e8967'
+- name: QAZ.EGA
+  size: 32000
+  date: '1992-05-21T14:36:32'
+  crc: '0x380fae84'
 - name: SBLAST.FX
   size: 58786
-  date: '1993-04-10T20:44:06'
+  date: '1992-05-21T14:36:32'
   crc: '0x66f55040'
+- name: SPRITE08.EGA
+  size: 19580
+  date: '1992-05-21T14:36:32'
+  crc: '0x49db98b4'
+- name: SPRITE16.EGA
+  size: 7680
+  date: '1992-05-21T14:36:32'
+  crc: '0x1f61f705'
+- name: SPRITE24.EGA
+  size: 12960
+  date: '1992-05-21T14:36:32'
+  crc: '0x6c471056'
+- name: SPRITE32.EGA
+  size: 17280
+  date: '1992-05-21T14:36:32'
+  crc: '0xceaa4648'
 - name: WIN.256
   size: 64000
-  date: '1993-04-10T20:44:14'
+  date: '1992-05-21T14:36:32'
   crc: '0x0da8c60b'
+- name: WIN.BIN
+  size: 32000
+  date: '1992-05-21T14:36:32'
+  crc: '0xc5bc5662'
+- name: WIN.EGA
+  size: 32000
+  date: '1992-05-21T14:36:32'
+  crc: '0xd6c88d6c'
 - name: WIN.PAL
   size: 768
-  date: '1993-04-10T20:44:16'
+  date: '1992-05-21T14:36:32'
   crc: '0x4870565d'

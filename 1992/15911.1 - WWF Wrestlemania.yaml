@@ -1,8 +1,9 @@
-filename: WWF Wrestlemania (1992)(The Hit Squad) [Sports, Action].zip
+filename: WWF Wrestlemania (1992)(The Hit Squad, Ocean Software Ltd.) [Sports, Action].zip
 tdc_id: '15911.1'
+parent_id: '15911.9'
 title:
   box: WWF Wrestlemania
-publisher: The Hit Squad
+publisher: The Hit Squad, Ocean Software Ltd.
 year: '1992'
 genre:
 - Sports
@@ -10,13 +11,13 @@ genre:
 language: English
 date:
   added: '2022-01-15T16:20:30'
-  last_modified: '2023-07-05T16:32:16'
+  last_modified: '2025-03-16T13:50:18'
 type: zip
 media: 720K
+commands:
+  play: WWF.EXE
 references:
   mobygames: https://www.mobygames.com/game/23443/wwf-wrestlemania/
-  dosid: DOS05728
-  exodos: WWF Wrestlemania (1992).zip
 files:
 - name: DISK.NUM
   size: 4

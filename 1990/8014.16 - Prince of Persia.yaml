@@ -1,8 +1,8 @@
-filename: Prince of Persia v1.1 (De) (1990)(Brøderbund Software, Inc.) [Adventure, Action].zip
+filename: Prince of Persia v1.1 (Installer) (De) (1990)(Softgold Computerspiele GmbH, Brøderbund Software, Inc.) [Adventure, Action].zip
 tdc_id: '8014.16'
 title:
   box: Prince of Persia
-publisher: Brøderbund Software, Inc.
+publisher: Softgold Computerspiele GmbH, Brøderbund Software, Inc.
 year: '1990'
 genre:
 - Adventure
@@ -10,9 +10,14 @@ genre:
 language: German
 date:
   added: '2020-06-08T08:48:12'
-  last_modified: '2020-06-08T08:48:12'
+  last_modified: '2025-02-20T15:04:54'
 version: '1.1'
 type: zip
+installer: true
+commands:
+  play: PRINCE.EXE
+references:
+  mobygames: https://www.mobygames.com/game/196/prince-of-persia/
 files:
 - name: CDUNGEON.DAT
   size: 9407

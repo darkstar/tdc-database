@@ -1,0 +1,91 @@
+filename: Football Fanatic v1.7 (1996)(Thunderbear Software Creations) [Simulation, Sports].zip
+tdc_id: '13711.3'
+title:
+  screen: Football Fanatic
+publisher: Thunderbear Software Creations
+year: '1996'
+genre:
+- Simulation
+- Sports
+language: English
+date:
+  added: '2025-03-30T08:05:28'
+  last_modified: '2025-03-30T08:05:28'
+version: '1.7'
+type: zip
+media: Download
+commands:
+  play: FF.EXE
+files:
+- name: COUNTRY.DAT
+  size: 1051
+  date: '1996-10-26T15:53:22'
+  crc: '0xc2d2a3ba'
+- name: DPMI16BI.OVL
+  size: 50544
+  date: '1994-06-10T04:02:00'
+  crc: '0x8319cf7b'
+- name: DPMIINST.EXE
+  size: 36724
+  date: '1992-10-27T07:00:00'
+  crc: '0x7b29b30e'
+- name: FF.EXE
+  size: 1095680
+  date: '1996-12-15T12:12:44'
+  crc: '0x7dabebf7'
+- name: FILE_ID.DIZ
+  size: 505
+  date: '1996-12-28T13:21:30'
+  crc: '0x00f18c47'
+- name: FLAGS.DAT
+  size: 12891
+  date: '1996-12-12T15:05:44'
+  crc: '0x3d840338'
+- name: FOOTY.TXT
+  size: 6237
+  date: '1996-08-31T12:08:10'
+  crc: '0x108dbfc2'
+- name: HELP.DAT
+  size: 15672
+  date: '1996-12-04T12:14:38'
+  crc: '0x93310dcc'
+- name: HINTS.DOC
+  size: 4169
+  date: '1996-11-04T18:55:16'
+  crc: '0x64f9d215'
+- name: MANUAL.TXT
+  size: 19087
+  date: '1996-10-08T20:47:40'
+  crc: '0xe7321d1c'
+- name: NAMES.DAT
+  size: 82257
+  date: '1996-11-27T22:56:40'
+  crc: '0x9b4184f5'
+- name: ORDER.FRM
+  size: 3607
+  date: '1996-12-12T15:23:48'
+  crc: '0x99de9b85'
+- name: README.DOC
+  size: 10745
+  date: '1996-12-12T15:24:12'
+  crc: '0x38b78288'
+- name: REFEREE.DAT
+  size: 1457
+  date: '1996-09-24T16:07:52'
+  crc: '0x8c032a24'
+- name: RTM.EXE
+  size: 120853
+  date: '1994-06-10T04:02:00'
+  crc: '0xa4e940a6'
+- name: STAFF.DAT
+  size: 10762
+  date: '1996-11-27T23:07:30'
+  crc: '0xc84024b7'
+- name: TEAMS.DAT
+  size: 55392
+  date: '1996-12-12T15:04:26'
+  crc: '0xf4d4d783'
+- name: YOUTH.DAT
+  size: 3074
+  date: '1996-10-27T01:10:56'
+  crc: '0xd0dc842f'

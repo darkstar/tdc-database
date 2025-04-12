@@ -1,19 +1,22 @@
-filename: Faces ...tris III (VGA, EGA, Tandy) (1990)(Spectrum HoloByte, Inc.) [Strategy].zip
+filename: Faces ...tris III (EGA, TGA, VGA) (1990)(Spectrum HoloByte, Inc.) [Strategy].zip
 tdc_id: '13460.3'
-parent_id: '13460.5'
+parent_id: '13460.7'
 title:
   box: Faces ...tris III
-  qualifier: VGA, EGA, Tandy
+  qualifier: EGA, TGA, VGA
 publisher: Spectrum HoloByte, Inc.
 year: '1990'
 genre: Strategy
 language: English
 date:
   added: '2019-03-01T18:32:34'
-  last_modified: '2019-03-01T18:32:34'
+  last_modified: '2025-01-29T12:47:51'
 type: zip
+media: 1.2M
 commands:
   play: FACES.EXE
+references:
+  mobygames: https://www.mobygames.com/game/2627/faces-tris-iii/
 files:
 - name: AGE.BIN
   size: 10530

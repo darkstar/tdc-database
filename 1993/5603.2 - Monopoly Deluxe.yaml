@@ -1,0 +1,37 @@
+filename: Monopoly Deluxe v1.5 (Installer) (1993)(Virgin Games, Inc.) [Strategy, Board].zip
+tdc_id: '5603.2'
+title:
+  box: Monopoly Deluxe
+publisher: Virgin Games, Inc.
+year: '1993'
+genre:
+- Strategy
+- Board
+language: English
+date:
+  added: '2025-04-02T15:37:16'
+  last_modified: '2025-04-02T15:37:16'
+version: '1.5'
+type: zip
+installer: true
+commands:
+  play: INSTALL.COM
+references:
+  mobygames: https://www.mobygames.com/game/2032/monopoly-deluxe/
+files:
+- name: DISK1.DAT
+  size: 852274
+  date: '1993-08-17T08:30:00'
+  crc: '0xdcb8e023'
+- name: DISK2.DAT
+  size: 1061026
+  date: '1993-08-17T08:30:00'
+  crc: '0x62381bdb'
+- name: DISK3.DAT
+  size: 1102801
+  date: '1993-08-17T08:30:00'
+  crc: '0x680cbb7a'
+- name: INSTALL.COM
+  size: 5116
+  date: '1993-08-17T08:30:00'
+  crc: '0xfcc6e7e4'

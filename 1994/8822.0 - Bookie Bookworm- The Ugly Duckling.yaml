@@ -1,1970 +1,1977 @@
-filename: Bookie Bookworm- The Ugly Duckling (Installer) [SW][b1] (1994)(Cloud Nine Creative Group) [Educational].zip
+filename: Bookie Bookworm- The Ugly Duckling v1.0 (Installer) (1994)(Cloud Nine Creative Group) [Educational].zip
 tdc_id: '8822.0'
 title:
-  screen: 'Bookie Bookworm: The Ugly Duckling'
+  box: 'Bookie Bookworm: The Ugly Duckling'
 publisher: Cloud Nine Creative Group
 year: '1994'
 genre: Educational
 language: English
 date:
   added: '2019-03-01T21:54:56'
-  last_modified: '2019-03-01T21:54:56'
+  last_modified: '2025-01-28T14:59:14'
+version: '1.0'
 type: zip
-tags:
-- Shareware
-- Bad: 1
-media: Download
 installer: true
+commands:
+  play: INSTALL.EXE
 files:
-- name: bookie.exe
+- name: BOOKIE.EXE
   size: 82440
-  date: '1999-12-31T19:00:00'
+  date: '1994-11-20T19:35:48'
   crc: '0xb0b1885d'
-- name: bookie.ico
+- name: BOOKIE.ICO
   size: 766
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xf6d38fb0'
-- name: bookiec.gr
+- name: BOOKIE.PIF
+  size: 545
+  date: '1994-09-09T18:00:02'
+  crc: '0xde95f382'
+- name: BOOKIEC.GR
   size: 786
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xc431662f'
-- name: bookied.gr
+- name: BOOKIED.GR
   size: 786
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x9c310188'
-- name: buttons.img
+- name: BUTTONS.IMG
   size: 61321
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x042e8d8c'
-- name: cover.img
+- name: COVER.IMG
   size: 45866
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x3bc86b73'
-- name: covers\
+- name: COVERS\
   size: 0
-  date: '2013-07-07T13:06:26'
-- name: covers\01.bbp
+  date: '1994-09-09T18:00:02'
+- name: COVERS\01.BBP
   size: 7896
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0xc3fdc794'
-- name: covers\01.bbw
+- name: COVERS\01.BBW
   size: 5785
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0x90eb5878'
-- name: covers\02.bbp
+- name: COVERS\02.BBP
   size: 6323
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0xf07a00f2'
-- name: covers\02.bbw
+- name: COVERS\02.BBW
   size: 7842
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0xe52eb339'
-- name: covers\03.bbp
+- name: COVERS\03.BBP
   size: 9532
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0xb4519168'
-- name: covers\03.bbw
+- name: COVERS\03.BBW
   size: 6743
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0x3c768237'
-- name: covers\04.bbp
+- name: COVERS\04.BBP
   size: 11677
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0xdbd48a71'
-- name: covers\04.bbw
+- name: COVERS\04.BBW
   size: 5416
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0xc4686288'
-- name: covers\05.bbp
+- name: COVERS\05.BBP
   size: 11473
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0x76686dad'
-- name: covers\05.bbw
+- name: COVERS\05.BBW
   size: 6262
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0xc7e6f1a8'
-- name: covers\06.bbp
+- name: COVERS\06.BBP
   size: 6717
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0x60d70aab'
-- name: covers\06.bbw
+- name: COVERS\06.BBW
   size: 5543
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0xcbcd26a3'
-- name: covers\07.bbp
+- name: COVERS\07.BBP
   size: 4856
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0xb124cdab'
-- name: covers\07.bbw
+- name: COVERS\07.BBW
   size: 4783
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0xd4c814fc'
-- name: covers\covers.img
+- name: COVERS\COVERS.IMG
   size: 78656
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0xf2a858be'
-- name: covers\covers.txt
+- name: COVERS\COVERS.TXT
   size: 3203
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0x954aca62'
-- name: covers\dist01.img
+- name: COVERS\DIST01.IMG
   size: 4654
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0x1752122d'
-- name: covers\order01.txt
+- name: COVERS\ORDER01.TXT
   size: 17
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0xbd8d5df5'
-- name: covers\original.col
+- name: COVERS\ORIGINAL.COL
   size: 4096
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0x462486a5'
-- name: covers\reg01.txt
+- name: COVERS\REG01.TXT
   size: 17
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0xbc2f8682'
-- name: help\
+- name: HELP\
   size: 0
-  date: '2013-07-07T13:06:26'
-- name: help\books.bbw
+  date: '1994-09-09T18:00:00'
+- name: HELP\BOOKS.BBW
   size: 3888
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0x97023cfa'
-- name: help\boxaway.bbw
+- name: HELP\BOXAWAY.BBW
   size: 3782
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0xa12eb1ba'
-- name: help\boxaway1.bbw
+- name: HELP\BOXAWAY1.BBW
   size: 16363
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0xf36e9c24'
-- name: help\boxout.bbw
+- name: HELP\BOXOUT.BBW
   size: 4525
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0x25b3deb0'
-- name: help\boxout1.bbw
+- name: HELP\BOXOUT1.BBW
   size: 12748
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0xc9b99feb'
-- name: help\clear.bbw
+- name: HELP\CLEAR.BBW
   size: 4079
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0xed528329'
-- name: help\exit.bbw
+- name: HELP\EXIT.BBW
   size: 5881
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0x195494a0'
-- name: help\fill.bbw
+- name: HELP\FILL.BBW
   size: 2777
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0x483bc484'
-- name: help\helpbutt.bbw
+- name: HELP\HELPBUTT.BBW
   size: 9764
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0x9eb26e5d'
-- name: help\helpcray.bbw
+- name: HELP\HELPCRAY.BBW
   size: 6331
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0x15ee9d44'
-- name: help\helpfact.bbw
+- name: HELP\HELPFACT.BBW
   size: 23939
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0x9c7ed5dc'
-- name: help\helphint.bbw
+- name: HELP\HELPHINT.BBW
   size: 5137
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0x85d265f5'
-- name: help\helpmout.bbw
+- name: HELP\HELPMOUT.BBW
   size: 5559
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0xfa993b07'
-- name: help\helppict.bbw
+- name: HELP\HELPPICT.BBW
   size: 12747
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0xdb34d389'
-- name: help\helpreg.bbw
+- name: HELP\HELPREG.BBW
   size: 14488
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0x8c3fc351'
-- name: help\helptip.bbw
+- name: HELP\HELPTIP.BBW
   size: 7441
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0xe6240f43'
-- name: help\helpword.bbw
+- name: HELP\HELPWORD.BBW
   size: 5796
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0x267c43ce'
-- name: help\insert.bbw
+- name: HELP\INSERT.BBW
   size: 14037
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0x6e50aa2c'
-- name: help\ninstall.bbw
+- name: HELP\NINSTALL.BBW
   size: 16367
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0xf159d316'
-- name: help\nothing.bbw
+- name: HELP\NOTHING.BBW
   size: 2016
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0x6438e8af'
-- name: help\open1st.bbw
+- name: HELP\OPEN1ST.BBW
   size: 11154
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0xd7f4a67c'
-- name: help\popup.bbw
+- name: HELP\POPUP.BBW
   size: 12845
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0xf186aa18'
-- name: help\read.bbw
+- name: HELP\READ.BBW
   size: 2853
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0x80ab779d'
-- name: help\restore.bbw
+- name: HELP\RESTORE.BBW
   size: 4286
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0xc5e82ac3'
-- name: help\theme.bbw
+- name: HELP\THEME.BBW
   size: 73653
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0xc47c4f49'
-- name: help\turn.bbw
+- name: HELP\TURN.BBW
   size: 3396
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0xea0d84fb'
-- name: help\word.bbw
+- name: HELP\WORD.BBW
   size: 4477
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0x385260ee'
-- name: install.exe
+- name: INSTALL.EXE
   size: 97096
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x4aaaaebc'
-- name: library\
+- name: INSTALL.PIF
+  size: 545
+  date: '1994-09-09T18:00:02'
+  crc: '0x80cecf34'
+- name: LIBRARY\
   size: 0
-  date: '2013-07-07T13:06:26'
-- name: library\applause.bbw
+  date: '1994-09-09T18:00:02'
+- name: LIBRARY\APPLAUSE.BBW
   size: 8187
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0x473cf870'
-- name: library\arrow.bbw
+- name: LIBRARY\ARROW.BBW
   size: 5062
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0xac3cf469'
-- name: library\babycry.bbw
+- name: LIBRARY\BABYCRY.BBW
   size: 6820
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0xd1529025'
-- name: library\bell.bbw
+- name: LIBRARY\BELL.BBW
   size: 4622
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0xe908b9c2'
-- name: library\bikehorn.bbw
+- name: LIBRARY\BIKEHORN.BBW
   size: 2448
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0xf56e6147'
-- name: library\boing.bbw
+- name: LIBRARY\BOING.BBW
   size: 5030
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0x4e7587f1'
-- name: library\boing1.bbw
+- name: LIBRARY\BOING1.BBW
   size: 3698
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0x05316475'
-- name: library\boingzng.bbw
+- name: LIBRARY\BOINGZNG.BBW
   size: 2864
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0x447bacfb'
-- name: library\bonkcuck.bbw
+- name: LIBRARY\BONKCUCK.BBW
   size: 2618
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0xf06b196a'
-- name: library\boo.bbw
+- name: LIBRARY\BOO.BBW
   size: 6569
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0xab22c657'
-- name: library\bowling.bbw
+- name: LIBRARY\BOWLING.BBW
   size: 5663
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0x7661bebc'
-- name: library\brakes.bbw
+- name: LIBRARY\BRAKES.BBW
   size: 5798
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0x540270c8'
-- name: library\bubbles.bbw
+- name: LIBRARY\BUBBLES.BBW
   size: 3436
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0x04a4398c'
-- name: library\burp.bbw
+- name: LIBRARY\BURP.BBW
   size: 723
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0xb576bb85'
-- name: library\canopen.bbw
+- name: LIBRARY\CANOPEN.BBW
   size: 599
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0xfdad4a27'
-- name: library\carhorn.bbw
+- name: LIBRARY\CARHORN.BBW
   size: 2816
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0x71aebe70'
-- name: library\cashreg.bbw
+- name: LIBRARY\CASHREG.BBW
   size: 3713
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0x73f2f685'
-- name: library\cat.bbw
+- name: LIBRARY\CAT.BBW
   size: 2913
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x4f8cc827'
-- name: library\cheer.bbw
+- name: LIBRARY\CHEER.BBW
   size: 9598
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x0b463a85'
-- name: library\chicken.bbw
+- name: LIBRARY\CHICKEN.BBW
   size: 5667
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xc3977cc0'
-- name: library\chirp.bbw
+- name: LIBRARY\CHIRP.BBW
   size: 7263
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x22bdaa13'
-- name: library\copter.bbw
+- name: LIBRARY\COPTER.BBW
   size: 7051
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x1fd1ffd3'
-- name: library\coughgag.bbw
+- name: LIBRARY\COUGHGAG.BBW
   size: 8614
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x836083ba'
-- name: library\cow.bbw
+- name: LIBRARY\COW.BBW
   size: 7683
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x0a928517'
-- name: library\cracking.bbw
+- name: LIBRARY\CRACKING.BBW
   size: 2038
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x7758cf5d'
-- name: library\crash.bbw
+- name: LIBRARY\CRASH.BBW
   size: 4321
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xf7a348c7'
-- name: library\crazygun.bbw
+- name: LIBRARY\CRAZYGUN.BBW
   size: 4699
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x37ae5b4e'
-- name: library\creak.bbw
+- name: LIBRARY\CREAK.BBW
   size: 7342
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xa7a2ee51'
-- name: library\crying.bbw
+- name: LIBRARY\CRYING.BBW
   size: 8737
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xa464f331'
-- name: library\cuckoo.bbw
+- name: LIBRARY\CUCKOO.BBW
   size: 1360
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xb7d0cfde'
-- name: library\cussing.bbw
+- name: LIBRARY\CUSSING.BBW
   size: 4964
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xd41ce467'
-- name: library\cymbal.bbw
+- name: LIBRARY\CYMBAL.BBW
   size: 3554
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x71309e74'
-- name: library\doorbell.bbw
+- name: LIBRARY\DOORBELL.BBW
   size: 5179
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x00d21de2'
-- name: library\drum.bbw
+- name: LIBRARY\DRUM.BBW
   size: 3577
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xa35d4238'
-- name: library\dumbsong.bbw
+- name: LIBRARY\DUMBSONG.BBW
   size: 7213
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xa3829038'
-- name: library\dumlaugh.bbw
+- name: LIBRARY\DUMLAUGH.BBW
   size: 7017
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x3eb6c7ae'
-- name: library\eachpage.bbw
+- name: LIBRARY\EACHPAGE.BBW
   size: 10681
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:06'
   crc: '0xa440d8a9'
-- name: library\eating.bbw
+- name: LIBRARY\EATING.BBW
   size: 4490
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xa8c97d9b'
-- name: library\flap.bbw
+- name: LIBRARY\FLAP.BBW
   size: 657
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x0eb80afd'
-- name: library\flapping.bbw
+- name: LIBRARY\FLAPPING.BBW
   size: 7017
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x19c6b870'
-- name: library\footstep.bbw
+- name: LIBRARY\FOOTSTEP.BBW
   size: 9215
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x75992ddb'
-- name: library\foundme.bbw
+- name: LIBRARY\FOUNDME.BBW
   size: 7315
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x38386adf'
-- name: library\glassbrk.bbw
+- name: LIBRARY\GLASSBRK.BBW
   size: 3882
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x8c4d3e44'
-- name: library\gong.bbw
+- name: LIBRARY\GONG.BBW
   size: 4806
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xf7122001'
-- name: library\gotagain.bbw
+- name: LIBRARY\GOTAGAIN.BBW
   size: 9442
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x88da5698'
-- name: library\gotme.bbw
+- name: LIBRARY\GOTME.BBW
   size: 6154
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xc198d599'
-- name: library\groan.bbw
+- name: LIBRARY\GROAN.BBW
   size: 3707
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x372eb3e5'
-- name: library\growl.bbw
+- name: LIBRARY\GROWL.BBW
   size: 6011
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x73b80566'
-- name: library\guitar.bbw
+- name: LIBRARY\GUITAR.BBW
   size: 9982
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xecaad626'
-- name: library\gulp.bbw
+- name: LIBRARY\GULP.BBW
   size: 2634
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xa9c4c29d'
-- name: library\harp.bbw
+- name: LIBRARY\HARP.BBW
   size: 8546
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x69de9907'
-- name: library\help.bbw
+- name: LIBRARY\HELP.BBW
   size: 4432
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x99995e2b'
-- name: library\hideseek.bbw
+- name: LIBRARY\HIDESEEK.BBW
   size: 6899
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xbff52cec'
-- name: library\hmmm.bbw
+- name: LIBRARY\HMMM.BBW
   size: 4015
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xe5436ddd'
-- name: library\huh.bbw
+- name: LIBRARY\HUH.BBW
   size: 1886
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xaa0ea0b2'
-- name: library\injured.bbw
+- name: LIBRARY\INJURED.BBW
   size: 2490
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xa639d66d'
-- name: library\laughhi.bbw
+- name: LIBRARY\LAUGHHI.BBW
   size: 6027
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x315d18cf'
-- name: library\laughs.bbw
+- name: LIBRARY\LAUGHS.BBW
   size: 7983
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x9cc0e23b'
-- name: library\magic1.bbw
+- name: LIBRARY\MAGIC1.BBW
   size: 5206
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:06'
   crc: '0x38764dbb'
-- name: library\magic2.bbw
+- name: LIBRARY\MAGIC2.BBW
   size: 6934
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:06'
   crc: '0xcb66a963'
-- name: library\magic3.bbw
+- name: LIBRARY\MAGIC3.BBW
   size: 7305
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:06'
   crc: '0x53393745'
-- name: library\monkey.bbw
+- name: LIBRARY\MONKEY.BBW
   size: 5034
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xd07f2802'
-- name: library\nextpage.bbw
+- name: LIBRARY\NEXTPAGE.BBW
   size: 7614
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xe9135d6a'
-- name: library\organ.bbw
+- name: LIBRARY\ORGAN.BBW
   size: 5602
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xb4cbf922'
-- name: library\peekaboo.bbw
+- name: LIBRARY\PEEKABOO.BBW
   size: 7329
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:06'
   crc: '0x008db93d'
-- name: library\ping.bbw
+- name: LIBRARY\PING.BBW
   size: 2672
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x4ccf7e53'
-- name: library\plane.bbw
+- name: LIBRARY\PLANE.BBW
   size: 7463
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x70ac37eb'
-- name: library\pop.bbw
+- name: LIBRARY\POP.BBW
   size: 176
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x160f32ac'
-- name: library\rasberry.bbw
+- name: LIBRARY\RASBERRY.BBW
   size: 4147
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x6e57152f'
-- name: library\rattle.bbw
+- name: LIBRARY\RATTLE.BBW
   size: 3336
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x8b4cce45'
-- name: library\razor.bbw
+- name: LIBRARY\RAZOR.BBW
   size: 5540
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x05c49a50'
-- name: library\revelry.bbw
+- name: LIBRARY\REVELRY.BBW
   size: 5384
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xafeb4fdf'
-- name: library\ricochet.bbw
+- name: LIBRARY\RICOCHET.BBW
   size: 2285
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x15a15a92'
-- name: library\rimshot.bbw
+- name: LIBRARY\RIMSHOT.BBW
   size: 3422
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xa166acf5'
-- name: library\running.bbw
+- name: LIBRARY\RUNNING.BBW
   size: 5875
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xa19cf330'
-- name: library\scary.bbw
+- name: LIBRARY\SCARY.BBW
   size: 6134
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:06'
   crc: '0xf696b075'
-- name: library\shiphorn.bbw
+- name: LIBRARY\SHIPHORN.BBW
   size: 7937
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xfcfd4ee5'
-- name: library\siren.bbw
+- name: LIBRARY\SIREN.BBW
   size: 5680
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xf1a86cf1'
-- name: library\snake.bbw
+- name: LIBRARY\SNAKE.BBW
   size: 4605
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xbfad36ef'
-- name: library\snicker.bbw
+- name: LIBRARY\SNICKER.BBW
   size: 6331
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x6aab7023'
-- name: library\snip.bbw
+- name: LIBRARY\SNIP.BBW
   size: 3011
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xe3acb14d'
-- name: library\snore.bbw
+- name: LIBRARY\SNORE.BBW
   size: 7234
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x35c6c6f7'
-- name: library\splash.bbw
+- name: LIBRARY\SPLASH.BBW
   size: 2416
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x0d314f4d'
-- name: library\sproing.bbw
+- name: LIBRARY\SPROING.BBW
   size: 3204
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x3c830f23'
-- name: library\squawk.bbw
+- name: LIBRARY\SQUAWK.BBW
   size: 2533
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x8d5e1754'
-- name: library\stretch.bbw
+- name: LIBRARY\STRETCH.BBW
   size: 8793
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xcb376395'
-- name: library\subhorn.bbw
+- name: LIBRARY\SUBHORN.BBW
   size: 3236
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x5e64bfa3'
-- name: library\suzuki.bbw
+- name: LIBRARY\SUZUKI.BBW
   size: 5145
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x44ce31f4'
-- name: library\taps.bbw
+- name: LIBRARY\TAPS.BBW
   size: 8763
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x7081ff29'
-- name: library\timpani.bbw
+- name: LIBRARY\TIMPANI.BBW
   size: 7266
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x5403b5b6'
-- name: library\toot.bbw
+- name: LIBRARY\TOOT.BBW
   size: 2205
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xf605fe9c'
-- name: library\train.bbw
+- name: LIBRARY\TRAIN.BBW
   size: 10232
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x0c2c80c8'
-- name: library\trumpets.bbw
+- name: LIBRARY\TRUMPETS.BBW
   size: 8314
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xec566b39'
-- name: library\updown.bbw
+- name: LIBRARY\UPDOWN.BBW
   size: 4461
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x23764db2'
-- name: library\warning.bbw
+- name: LIBRARY\WARNING.BBW
   size: 5260
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xdbdb3240'
-- name: library\whee.bbw
+- name: LIBRARY\WHEE.BBW
   size: 576
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xf1e95443'
-- name: library\whisdown.bbw
+- name: LIBRARY\WHISDOWN.BBW
   size: 3477
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xc7cebfa2'
-- name: library\whistle.bbw
+- name: LIBRARY\WHISTLE.BBW
   size: 5579
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:06'
   crc: '0xa3f500d7'
-- name: library\whisup.bbw
+- name: LIBRARY\WHISUP.BBW
   size: 3858
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x0b5f6550'
-- name: library\whoopie.bbw
+- name: LIBRARY\WHOOPIE.BBW
   size: 6935
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x63890efd'
-- name: library\yehah.bbw
+- name: LIBRARY\YEHAH.BBW
   size: 6572
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xfbee3034'
-- name: library\yell.bbw
+- name: LIBRARY\YELL.BBW
   size: 4470
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x4cf5cec2'
-- name: library\yeow.bbw
+- name: LIBRARY\YEOW.BBW
   size: 6848
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x86543321'
-- name: library\yuck.bbw
+- name: LIBRARY\YUCK.BBW
   size: 3207
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x2d2c4204'
-- name: mouse.img
+- name: MOUSE.IMG
   size: 7378
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xa985c06f'
-- name: readme.txt
+- name: README.TXT
   size: 5260
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xebbe9a0a'
-- name: title.img
+- name: TITLE.IMG
   size: 51704
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x56b551cf'
-- name: uglyduck\
+- name: UGLYDUCK\
   size: 0
-  date: '2013-07-07T13:06:26'
-- name: uglyduck\&circle.bbw
+  date: '1994-09-09T14:00:02'
+- name: UGLYDUCK\&CIRCLE.BBW
   size: 7358
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x7aa65b63'
-- name: uglyduck\&deliver.bbw
+- name: UGLYDUCK\&DELIVER.BBW
   size: 7437
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x679d31bf'
-- name: uglyduck\&doesckn.bbw
+- name: UGLYDUCK\&DOESCKN.BBW
   size: 6939
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0xf078ee13'
-- name: uglyduck\&hello.bbw
+- name: UGLYDUCK\&HELLO.BBW
   size: 5925
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0xfce72a09'
-- name: uglyduck\&help.bbw
+- name: UGLYDUCK\&HELP.BBW
   size: 6097
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0xbc4c9cde'
-- name: uglyduck\&ifonly.bbw
+- name: UGLYDUCK\&IFONLY.BBW
   size: 5753
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x301d8c96'
-- name: uglyduck\&mmduck.bbw
+- name: UGLYDUCK\&MMDUCK.BBW
   size: 10002
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0xc330e2b2'
-- name: uglyduck\&rockrol.bbw
+- name: UGLYDUCK\&ROCKROL.BBW
   size: 5968
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x46046815'
-- name: uglyduck\&row.bbw
+- name: UGLYDUCK\&ROW.BBW
   size: 6934
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x8d89f0ce'
-- name: uglyduck\&sayword.bbw
+- name: UGLYDUCK\&SAYWORD.BBW
   size: 4279
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x7072dc45'
-- name: uglyduck\&smile.bbw
+- name: UGLYDUCK\&SMILE.BBW
   size: 5753
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x261dfe0d'
-- name: uglyduck\&tenhut.bbw
+- name: UGLYDUCK\&TENHUT.BBW
   size: 4573
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0xd0cb4621'
-- name: uglyduck\&wayto.bbw
+- name: UGLYDUCK\&WAYTO.BBW
   size: 8905
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0xfdc4cc58'
-- name: uglyduck\&wheee.bbw
+- name: UGLYDUCK\&WHEEE.BBW
   size: 5517
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x598f4965'
-- name: uglyduck\&yoohoo.bbw
+- name: UGLYDUCK\&YOOHOO.BBW
   size: 7857
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x5e47bafb'
-- name: uglyduck\&youdont.bbw
+- name: UGLYDUCK\&YOUDONT.BBW
   size: 6998
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x84d36968'
-- name: uglyduck\01.bbp
+- name: UGLYDUCK\01.BBP
   size: 6117
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x6f09f932'
-- name: uglyduck\01.bbw
+- name: UGLYDUCK\01.BBW
   size: 69641
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0x056d510f'
-- name: uglyduck\0101.bba
+- name: UGLYDUCK\0101.BBA
   size: 898
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x9723c840'
-- name: uglyduck\0102.bba
+- name: UGLYDUCK\0102.BBA
   size: 2033
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x12d62407'
-- name: uglyduck\0103.bba
+- name: UGLYDUCK\0103.BBA
   size: 4285
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x47250071'
-- name: uglyduck\0104.bba
+- name: UGLYDUCK\0104.BBA
   size: 2541
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0xc96160aa'
-- name: uglyduck\0105.bba
+- name: UGLYDUCK\0105.BBA
   size: 2601
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0xe6e3fad8'
-- name: uglyduck\0106.bba
+- name: UGLYDUCK\0106.BBA
   size: 1091
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0xed93f92a'
-- name: uglyduck\0107.bba
+- name: UGLYDUCK\0107.BBA
   size: 1316
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0xe0ba3c4a'
-- name: uglyduck\0108.bba
+- name: UGLYDUCK\0108.BBA
   size: 1220
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0xf713c8c1'
-- name: uglyduck\0109.bba
+- name: UGLYDUCK\0109.BBA
   size: 3639
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x0196705c'
-- name: uglyduck\0110.bba
+- name: UGLYDUCK\0110.BBA
   size: 1017
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x3b780ced'
-- name: uglyduck\0111.bba
+- name: UGLYDUCK\0111.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x50253589'
-- name: uglyduck\0112.bba
+- name: UGLYDUCK\0112.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x782525bc'
-- name: uglyduck\0113.bba
+- name: UGLYDUCK\0113.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0xd6f5d790'
-- name: uglyduck\0114.bba
+- name: UGLYDUCK\0114.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x282505d6'
-- name: uglyduck\02.bbp
+- name: UGLYDUCK\02.BBP
   size: 4715
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0xea253618'
-- name: uglyduck\02.bbw
+- name: UGLYDUCK\02.BBW
   size: 60455
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0xee55c4a4'
-- name: uglyduck\0201.bba
+- name: UGLYDUCK\0201.BBA
   size: 3313
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0xfd9f9f26'
-- name: uglyduck\0202.bba
+- name: UGLYDUCK\0202.BBA
   size: 2231
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x61282cd6'
-- name: uglyduck\0203.bba
+- name: UGLYDUCK\0203.BBA
   size: 3464
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x33591b32'
-- name: uglyduck\0204.bba
+- name: UGLYDUCK\0204.BBA
   size: 2983
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0xf24cff20'
-- name: uglyduck\0205.bba
+- name: UGLYDUCK\0205.BBA
   size: 1237
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x2f023b7a'
-- name: uglyduck\0206.bba
+- name: UGLYDUCK\0206.BBA
   size: 2310
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x287644f2'
-- name: uglyduck\0207.bba
+- name: UGLYDUCK\0207.BBA
   size: 1526
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x36262a01'
-- name: uglyduck\0208.bba
+- name: UGLYDUCK\0208.BBA
   size: 2253
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x330c0e3a'
-- name: uglyduck\0209.bba
+- name: UGLYDUCK\0209.BBA
   size: 3026
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x21bb8304'
-- name: uglyduck\0210.bba
+- name: UGLYDUCK\0210.BBA
   size: 674
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0xb3ae6e82'
-- name: uglyduck\0211.bba
+- name: UGLYDUCK\0211.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0xefa3cf5b'
-- name: uglyduck\0212.bba
+- name: UGLYDUCK\0212.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0xc7a3df6e'
-- name: uglyduck\0213.bba
+- name: UGLYDUCK\0213.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x69732d42'
-- name: uglyduck\0214.bba
+- name: UGLYDUCK\0214.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x97a3ff04'
-- name: uglyduck\03.bbp
+- name: UGLYDUCK\03.BBP
   size: 6493
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x49435944'
-- name: uglyduck\03.bbw
+- name: UGLYDUCK\03.BBW
   size: 42545
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0x57e242f8'
-- name: uglyduck\0301.bba
+- name: UGLYDUCK\0301.BBA
   size: 1372
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x6b124043'
-- name: uglyduck\0302.bba
+- name: UGLYDUCK\0302.BBA
   size: 1781
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x82f3db9a'
-- name: uglyduck\0303.bba
+- name: UGLYDUCK\0303.BBA
   size: 573
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x0c99a569'
-- name: uglyduck\0304.bba
+- name: UGLYDUCK\0304.BBA
   size: 1568
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x0e752590'
-- name: uglyduck\0305.bba
+- name: UGLYDUCK\0305.BBA
   size: 2651
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x226e61c8'
-- name: uglyduck\0306.bba
+- name: UGLYDUCK\0306.BBA
   size: 569
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0xa4431138'
-- name: uglyduck\0307.bba
+- name: UGLYDUCK\0307.BBA
   size: 2027
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x4326c583'
-- name: uglyduck\0308.bba
+- name: UGLYDUCK\0308.BBA
   size: 988
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x1c07534d'
-- name: uglyduck\0309.bba
+- name: UGLYDUCK\0309.BBA
   size: 2620
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0xb8f8fced'
-- name: uglyduck\0310.bba
+- name: UGLYDUCK\0310.BBA
   size: 594
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x959b4023'
-- name: uglyduck\0311.bba
+- name: UGLYDUCK\0311.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x85219915'
-- name: uglyduck\0312.bba
+- name: UGLYDUCK\0312.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0xad218920'
-- name: uglyduck\0313.bba
+- name: UGLYDUCK\0313.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x03f17b0c'
-- name: uglyduck\0314.bba
+- name: UGLYDUCK\0314.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0xfd21a94a'
-- name: uglyduck\04.bbp
+- name: UGLYDUCK\04.BBP
   size: 7012
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x176d7ed5'
-- name: uglyduck\04.bbw
+- name: UGLYDUCK\04.BBW
   size: 49905
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0x9b57d41b'
-- name: uglyduck\0401.bba
+- name: UGLYDUCK\0401.BBA
   size: 689
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x64497b7a'
-- name: uglyduck\0402.bba
+- name: UGLYDUCK\0402.BBA
   size: 4060
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0xa6e1428a'
-- name: uglyduck\0403.bba
+- name: UGLYDUCK\0403.BBA
   size: 2766
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x16e32545'
-- name: uglyduck\0404.bba
+- name: UGLYDUCK\0404.BBA
   size: 938
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0xce1cf105'
-- name: uglyduck\0405.bba
+- name: UGLYDUCK\0405.BBA
   size: 1110
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0xd4ff98f9'
-- name: uglyduck\0406.bba
+- name: UGLYDUCK\0406.BBA
   size: 1856
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0xe5265dff'
-- name: uglyduck\0407.bba
+- name: UGLYDUCK\0407.BBA
   size: 1677
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x6cb7ef42'
-- name: uglyduck\0408.bba
+- name: UGLYDUCK\0408.BBA
   size: 3402
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0xa92ce5a2'
-- name: uglyduck\0409.bba
+- name: UGLYDUCK\0409.BBA
   size: 889
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x526ae402'
-- name: uglyduck\0410.bba
+- name: UGLYDUCK\0410.BBA
   size: 918
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x4688af69'
-- name: uglyduck\0411.bba
+- name: UGLYDUCK\0411.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x4bdf3cbe'
-- name: uglyduck\0412.bba
+- name: UGLYDUCK\0412.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x63df2c8b'
-- name: uglyduck\0413.bba
+- name: UGLYDUCK\0413.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0xcd0fdea7'
-- name: uglyduck\0414.bba
+- name: UGLYDUCK\0414.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x33df0ce1'
-- name: uglyduck\05.bbp
+- name: UGLYDUCK\05.BBP
   size: 5334
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x1b1c136d'
-- name: uglyduck\05.bbw
+- name: UGLYDUCK\05.BBW
   size: 49584
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0x5ebd5684'
-- name: uglyduck\0501.bba
+- name: UGLYDUCK\0501.BBA
   size: 1981
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0xc2deb7fa'
-- name: uglyduck\0502.bba
+- name: UGLYDUCK\0502.BBA
   size: 4252
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0xdf268246'
-- name: uglyduck\0503.bba
+- name: UGLYDUCK\0503.BBA
   size: 2408
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x04299187'
-- name: uglyduck\0504.bba
+- name: UGLYDUCK\0504.BBA
   size: 5547
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x10fbcf77'
-- name: uglyduck\0505.bba
+- name: UGLYDUCK\0505.BBA
   size: 3581
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0xa5ee48a0'
-- name: uglyduck\0506.bba
+- name: UGLYDUCK\0506.BBA
   size: 1771
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x23bc5307'
-- name: uglyduck\0507.bba
+- name: UGLYDUCK\0507.BBA
   size: 1343
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x54b35789'
-- name: uglyduck\0508.bba
+- name: UGLYDUCK\0508.BBA
   size: 544
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x65218c85'
-- name: uglyduck\0509.bba
+- name: UGLYDUCK\0509.BBA
   size: 4377
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0xf7126825'
-- name: uglyduck\0510.bba
+- name: UGLYDUCK\0510.BBA
   size: 674
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x303db56a'
-- name: uglyduck\0511.bba
+- name: UGLYDUCK\0511.BBA
   size: 674
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0xbf53ec00'
-- name: uglyduck\0512.bba
+- name: UGLYDUCK\0512.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x095d7ac5'
-- name: uglyduck\0513.bba
+- name: UGLYDUCK\0513.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0xa78d88e9'
-- name: uglyduck\0514.bba
+- name: UGLYDUCK\0514.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x595d5aaf'
-- name: uglyduck\06.bbp
+- name: UGLYDUCK\06.BBP
   size: 7029
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x3ac2906b'
-- name: uglyduck\06.bbw
+- name: UGLYDUCK\06.BBW
   size: 41648
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0xb1e40c6d'
-- name: uglyduck\0601.bba
+- name: UGLYDUCK\0601.BBA
   size: 2546
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0xb75c6089'
-- name: uglyduck\0602.bba
+- name: UGLYDUCK\0602.BBA
   size: 2358
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0xb214792f'
-- name: uglyduck\0603.bba
+- name: UGLYDUCK\0603.BBA
   size: 373
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x0acc37f9'
-- name: uglyduck\0604.bba
+- name: UGLYDUCK\0604.BBA
   size: 2674
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x7fe205d2'
-- name: uglyduck\0605.bba
+- name: UGLYDUCK\0605.BBA
   size: 1078
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x0c4d2ceb'
-- name: uglyduck\0606.bba
+- name: UGLYDUCK\0606.BBA
   size: 2370
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0xb606022e'
-- name: uglyduck\0607.bba
+- name: UGLYDUCK\0607.BBA
   size: 1443
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x01d72cd5'
-- name: uglyduck\0608.bba
+- name: UGLYDUCK\0608.BBA
   size: 2538
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0xc1355139'
-- name: uglyduck\0609.bba
+- name: UGLYDUCK\0609.BBA
   size: 1792
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0xc9094697'
-- name: uglyduck\0610.bba
+- name: UGLYDUCK\0610.BBA
   size: 458
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x3caaaae3'
-- name: uglyduck\0611.bba
+- name: UGLYDUCK\0611.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x9edb9022'
-- name: uglyduck\0612.bba
+- name: UGLYDUCK\0612.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0xb6db8017'
-- name: uglyduck\0613.bba
+- name: UGLYDUCK\0613.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x180b723b'
-- name: uglyduck\0614.bba
+- name: UGLYDUCK\0614.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0xe6dba07d'
-- name: uglyduck\07.bbp
+- name: UGLYDUCK\07.BBP
   size: 8618
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x922d5ece'
-- name: uglyduck\07.bbw
+- name: UGLYDUCK\07.BBW
   size: 43925
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0x4342b65a'
-- name: uglyduck\0701.bba
+- name: UGLYDUCK\0701.BBA
   size: 3306
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x25d6fb19'
-- name: uglyduck\0702.bba
+- name: UGLYDUCK\0702.BBA
   size: 3850
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0xc4dae660'
-- name: uglyduck\0703.bba
+- name: UGLYDUCK\0703.BBA
   size: 1923
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x17e6ca94'
-- name: uglyduck\0704.bba
+- name: UGLYDUCK\0704.BBA
   size: 496
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x35995840'
-- name: uglyduck\0705.bba
+- name: UGLYDUCK\0705.BBA
   size: 2751
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x5fd59493'
-- name: uglyduck\0706.bba
+- name: UGLYDUCK\0706.BBA
   size: 790
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x24696766'
-- name: uglyduck\0707.bba
+- name: UGLYDUCK\0707.BBA
   size: 2679
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0xbbc8cc4f'
-- name: uglyduck\0708.bba
+- name: UGLYDUCK\0708.BBA
   size: 5629
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0xbda3b847'
-- name: uglyduck\0709.bba
+- name: UGLYDUCK\0709.BBA
   size: 1669
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x37fc7b42'
-- name: uglyduck\0710.bba
+- name: UGLYDUCK\0710.BBA
   size: 639
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x7a1dcf32'
-- name: uglyduck\0711.bba
+- name: UGLYDUCK\0711.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0xf459c66c'
-- name: uglyduck\0712.bba
+- name: UGLYDUCK\0712.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0xdc59d659'
-- name: uglyduck\0713.bba
+- name: UGLYDUCK\0713.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x72892475'
-- name: uglyduck\0714.bba
+- name: UGLYDUCK\0714.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x8c59f633'
-- name: uglyduck\08.bbp
+- name: UGLYDUCK\08.BBP
   size: 10650
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x4d652bd4'
-- name: uglyduck\08.bbw
+- name: UGLYDUCK\08.BBW
   size: 47139
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0x53b07ed0'
-- name: uglyduck\0801.bba
+- name: UGLYDUCK\0801.BBA
   size: 1582
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x4fa2adf9'
-- name: uglyduck\0802.bba
+- name: UGLYDUCK\0802.BBA
   size: 2230
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x1a39ecaa'
-- name: uglyduck\0803.bba
+- name: UGLYDUCK\0803.BBA
   size: 3784
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x5c1d6941'
-- name: uglyduck\0804.bba
+- name: UGLYDUCK\0804.BBA
   size: 1955
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x1515e18f'
-- name: uglyduck\0805.bba
+- name: UGLYDUCK\0805.BBA
   size: 2048
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x75d93395'
-- name: uglyduck\0806.bba
+- name: UGLYDUCK\0806.BBA
   size: 2193
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x52f7bf1c'
-- name: uglyduck\0807.bba
+- name: UGLYDUCK\0807.BBA
   size: 3289
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x5b6fc383'
-- name: uglyduck\0808.bba
+- name: UGLYDUCK\0808.BBA
   size: 2163
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x8fddf38b'
-- name: uglyduck\0809.bba
+- name: UGLYDUCK\0809.BBA
   size: 594
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0xaf1beca5'
-- name: uglyduck\0810.bba
+- name: UGLYDUCK\0810.BBA
   size: 931
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x5e2cb8c3'
-- name: uglyduck\0811.bba
+- name: UGLYDUCK\0811.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0xd857dd35'
-- name: uglyduck\0812.bba
+- name: UGLYDUCK\0812.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0xf057cd00'
-- name: uglyduck\0813.bba
+- name: UGLYDUCK\0813.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x5e873f2c'
-- name: uglyduck\0814.bba
+- name: UGLYDUCK\0814.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0xa057ed6a'
-- name: uglyduck\09.bbp
+- name: UGLYDUCK\09.BBP
   size: 4731
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0xa10e8b8a'
-- name: uglyduck\09.bbw
+- name: UGLYDUCK\09.BBW
   size: 42244
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0x659c2754'
-- name: uglyduck\0901.bba
+- name: UGLYDUCK\0901.BBA
   size: 1282
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x0669fef1'
-- name: uglyduck\0902.bba
+- name: UGLYDUCK\0902.BBA
   size: 1146
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0xf3a6d60a'
-- name: uglyduck\0903.bba
+- name: UGLYDUCK\0903.BBA
   size: 2561
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x08c02c56'
-- name: uglyduck\0904.bba
+- name: UGLYDUCK\0904.BBA
   size: 872
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x788ed48c'
-- name: uglyduck\0905.bba
+- name: UGLYDUCK\0905.BBA
   size: 1066
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x2b4a812b'
-- name: uglyduck\0906.bba
+- name: UGLYDUCK\0906.BBA
   size: 2764
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x12e636c9'
-- name: uglyduck\0907.bba
+- name: UGLYDUCK\0907.BBA
   size: 1702
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0xa3edc025'
-- name: uglyduck\0908.bba
+- name: UGLYDUCK\0908.BBA
   size: 1527
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x77765473'
-- name: uglyduck\0909.bba
+- name: UGLYDUCK\0909.BBA
   size: 3038
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0xd9762c4e'
-- name: uglyduck\0910.bba
+- name: UGLYDUCK\0910.BBA
   size: 710
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x370457db'
-- name: uglyduck\0911.bba
+- name: UGLYDUCK\0911.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0xb2d58b7b'
-- name: uglyduck\0912.bba
+- name: UGLYDUCK\0912.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x9ad59b4e'
-- name: uglyduck\0913.bba
+- name: UGLYDUCK\0913.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x34056962'
-- name: uglyduck\0914.bba
+- name: UGLYDUCK\0914.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0xcad5bb24'
-- name: uglyduck\10.bbp
+- name: UGLYDUCK\10.BBP
   size: 5385
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x0331f82c'
-- name: uglyduck\10.bbw
+- name: UGLYDUCK\10.BBW
   size: 69119
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0x39a33696'
-- name: uglyduck\1001.bba
+- name: UGLYDUCK\1001.BBA
   size: 1587
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x2707adda'
-- name: uglyduck\1002.bba
+- name: UGLYDUCK\1002.BBA
   size: 2829
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0xc61255cc'
-- name: uglyduck\1003.bba
+- name: UGLYDUCK\1003.BBA
   size: 1610
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x19ed2066'
-- name: uglyduck\1004.bba
+- name: UGLYDUCK\1004.BBA
   size: 2701
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x6335521a'
-- name: uglyduck\1005.bba
+- name: UGLYDUCK\1005.BBA
   size: 1574
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x3d940e40'
-- name: uglyduck\1006.bba
+- name: UGLYDUCK\1006.BBA
   size: 1543
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x0dfa7d54'
-- name: uglyduck\1007.bba
+- name: UGLYDUCK\1007.BBA
   size: 947
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x6e918ebe'
-- name: uglyduck\1008.bba
+- name: UGLYDUCK\1008.BBA
   size: 1378
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0xc94517d6'
-- name: uglyduck\1009.bba
+- name: UGLYDUCK\1009.BBA
   size: 984
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0xe3bf55aa'
-- name: uglyduck\1010.bba
+- name: UGLYDUCK\1010.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x05797f2a'
-- name: uglyduck\1011.bba
+- name: UGLYDUCK\1011.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0xaba98d06'
-- name: uglyduck\1012.bba
+- name: UGLYDUCK\1012.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x83a99d33'
-- name: uglyduck\1013.bba
+- name: UGLYDUCK\1013.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x2d796f1f'
-- name: uglyduck\1014.bba
+- name: UGLYDUCK\1014.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0xd3a9bd59'
-- name: uglyduck\11.bbp
+- name: UGLYDUCK\11.BBP
   size: 6148
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x28c172d1'
-- name: uglyduck\11.bbw
+- name: UGLYDUCK\11.BBW
   size: 58864
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0x25ec3903'
-- name: uglyduck\1101.bba
+- name: UGLYDUCK\1101.BBA
   size: 3176
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x9acff83a'
-- name: uglyduck\1102.bba
+- name: UGLYDUCK\1102.BBA
   size: 1876
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x98a7435d'
-- name: uglyduck\1103.bba
+- name: UGLYDUCK\1103.BBA
   size: 1606
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x61964cd7'
-- name: uglyduck\1104.bba
+- name: UGLYDUCK\1104.BBA
   size: 1984
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x26870337'
-- name: uglyduck\1105.bba
+- name: UGLYDUCK\1105.BBA
   size: 1609
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x66ff6676'
-- name: uglyduck\1106.bba
+- name: UGLYDUCK\1106.BBA
   size: 713
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x7fbea6ae'
-- name: uglyduck\1107.bba
+- name: UGLYDUCK\1107.BBA
   size: 1075
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x92422626'
-- name: uglyduck\1108.bba
+- name: UGLYDUCK\1108.BBA
   size: 2362
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x826391bb'
-- name: uglyduck\1109.bba
+- name: UGLYDUCK\1109.BBA
   size: 960
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x152f20de'
-- name: uglyduck\1110.bba
+- name: UGLYDUCK\1110.BBA
   size: 1088
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0xa2297d34'
-- name: uglyduck\1111.bba
+- name: UGLYDUCK\1111.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0xc12bdb48'
-- name: uglyduck\1112.bba
+- name: UGLYDUCK\1112.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0xe92bcb7d'
-- name: uglyduck\1113.bba
+- name: UGLYDUCK\1113.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x47fb3951'
-- name: uglyduck\1114.bba
+- name: UGLYDUCK\1114.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0xb92beb17'
-- name: uglyduck\a.bbw
+- name: UGLYDUCK\A.BBW
   size: 1521
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x50ef32c7'
-- name: uglyduck\after.bbw
+- name: UGLYDUCK\AFTER.BBW
   size: 1892
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0xd55ae46c'
-- name: uglyduck\again.bbw
+- name: UGLYDUCK\AGAIN.BBW
   size: 2242
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x628a4af1'
-- name: uglyduck\all.bbw
+- name: UGLYDUCK\ALL.BBW
   size: 1797
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0xa3a08975'
-- name: uglyduck\and.bbw
+- name: UGLYDUCK\AND.BBW
   size: 1963
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x2b99a46c'
-- name: uglyduck\animals.bbw
+- name: UGLYDUCK\ANIMALS.BBW
   size: 2445
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x3e95fdf5'
-- name: uglyduck\asleep.bbw
+- name: UGLYDUCK\ASLEEP.BBW
   size: 2081
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x3900bab1'
-- name: uglyduck\away.bbw
+- name: UGLYDUCK\AWAY.BBW
   size: 2696
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0xe3b34678'
-- name: uglyduck\barnyard.bbw
+- name: UGLYDUCK\BARNYARD.BBW
   size: 2764
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0xa9ba3cf3'
-- name: uglyduck\beautifl.bbw
+- name: UGLYDUCK\BEAUTIFL.BBW
   size: 3111
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0x31127ab1'
-- name: uglyduck\behind.bbw
+- name: UGLYDUCK\BEHIND.BBW
   size: 2590
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x3d35a5ac'
-- name: uglyduck\belong.bbw
+- name: UGLYDUCK\BELONG.BBW
   size: 2484
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x6c1340ab'
-- name: uglyduck\bowed.bbw
+- name: UGLYDUCK\BOWED.BBW
   size: 2108
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x370e0528'
-- name: uglyduck\but.bbw
+- name: UGLYDUCK\BUT.BBW
   size: 1481
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0xe95fd86a'
-- name: uglyduck\by.bbw
+- name: UGLYDUCK\BY.BBW
   size: 2069
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0xa1082c46'
-- name: uglyduck\cat.bbw
+- name: UGLYDUCK\CAT.BBW
   size: 1749
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x1b85fbaf'
-- name: uglyduck\chicken.bbw
+- name: UGLYDUCK\CHICKEN.BBW
   size: 2416
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x074683e7'
-- name: uglyduck\could.bbw
+- name: UGLYDUCK\COULD.BBW
   size: 1757
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0xd1ac4d2b'
-- name: uglyduck\couldnt.bbw
+- name: UGLYDUCK\COULDNT.BBW
   size: 1899
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x4189c4a5'
-- name: uglyduck\countrye.bbw
+- name: UGLYDUCK\COUNTRYE.BBW
   size: 3837
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0xb58dcf1b'
-- name: uglyduck\credits.txt
+- name: UGLYDUCK\CREDITS.TXT
   size: 310
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0xd50c5edd'
-- name: uglyduck\day.bbw
+- name: UGLYDUCK\DAY.BBW
   size: 1919
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0xc601838d'
-- name: uglyduck\didnt.bbw
+- name: UGLYDUCK\DIDNT.BBW
   size: 1848
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x556507db'
-- name: uglyduck\duck.bbw
+- name: UGLYDUCK\DUCK.BBW
   size: 1457
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x07f882f3'
-- name: uglyduck\duckling.bbw
+- name: UGLYDUCK\DUCKLING.BBW
   size: 2272
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x0ca44dc6'
-- name: uglyduck\ducklins.bbw
+- name: UGLYDUCK\DUCKLINS.BBW
   size: 2995
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0x7b5c7781'
-- name: uglyduck\egg.bbw
+- name: UGLYDUCK\EGG.BBW
   size: 1757
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x86858794'
-- name: uglyduck\eggs.bbw
+- name: UGLYDUCK\EGGS.BBW
   size: 2010
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x9d1ccd01'
-- name: uglyduck\embarrad.bbw
+- name: UGLYDUCK\EMBARRAD.BBW
   size: 3849
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0xc12c507e'
-- name: uglyduck\ever.bbw
+- name: UGLYDUCK\EVER.BBW
   size: 2151
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x42d33382'
-- name: uglyduck\fell.bbw
+- name: UGLYDUCK\FELL.BBW
   size: 2855
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x4e9fab26'
-- name: uglyduck\finally.bbw
+- name: UGLYDUCK\FINALLY.BBW
   size: 3149
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x983e13d2'
-- name: uglyduck\find.bbw
+- name: UGLYDUCK\FIND.BBW
   size: 2928
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0xdb2b9165'
-- name: uglyduck\for.bbw
+- name: UGLYDUCK\FOR.BBW
   size: 2784
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x61806f47'
-- name: uglyduck\found.bbw
+- name: UGLYDUCK\FOUND.BBW
   size: 3091
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0xff2e35fc'
-- name: uglyduck\fun.bbw
+- name: UGLYDUCK\FUN.BBW
   size: 2776
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x6b337b16'
-- name: uglyduck\had.bbw
+- name: UGLYDUCK\HAD.BBW
   size: 2202
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x115f3fe8'
-- name: uglyduck\happily.bbw
+- name: UGLYDUCK\HAPPILY.BBW
   size: 2702
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0xd490b1e2'
-- name: uglyduck\happy.bbw
+- name: UGLYDUCK\HAPPY.BBW
   size: 2824
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0x0e87ea5b'
-- name: uglyduck\hardly.bbw
+- name: UGLYDUCK\HARDLY.BBW
   size: 2237
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0xdc1b0b0b'
-- name: uglyduck\hatched.bbw
+- name: UGLYDUCK\HATCHED.BBW
   size: 2394
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x548072ea'
-- name: uglyduck\he.bbw
+- name: UGLYDUCK\HE.BBW
   size: 1800
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0xbf867137'
-- name: uglyduck\head.bbw
+- name: UGLYDUCK\HEAD.BBW
   size: 1768
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x192cc34e'
-- name: uglyduck\her.bbw
+- name: UGLYDUCK\HER.BBW
   size: 2199
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x385ea8d6'
-- name: uglyduck\him.bbw
+- name: UGLYDUCK\HIM.BBW
   size: 1868
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x3decf7ca'
-- name: uglyduck\his.bbw
+- name: UGLYDUCK\HIS.BBW
   size: 2413
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0xf645b011'
-- name: uglyduck\home.bbw
+- name: UGLYDUCK\HOME.BBW
   size: 2049
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0xbb56fad2'
-- name: uglyduck\in.bbw
+- name: UGLYDUCK\IN.BBW
   size: 1811
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x6e388d3f'
-- name: uglyduck\it.bbw
+- name: UGLYDUCK\IT.BBW
   size: 1283
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0xf73f95e1'
-- name: uglyduck\kind.bbw
+- name: UGLYDUCK\KIND.BBW
   size: 2207
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0xb976de16'
-- name: uglyduck\knew.bbw
+- name: UGLYDUCK\KNEW.BBW
   size: 1996
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x45e987b0'
-- name: uglyduck\knowing.bbw
+- name: UGLYDUCK\KNOWING.BBW
   size: 2715
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x7a368eeb'
-- name: uglyduck\last.bbw
+- name: UGLYDUCK\LAST.BBW
   size: 2268
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0xd9939505'
-- name: uglyduck\left.bbw
+- name: UGLYDUCK\LEFT.BBW
   size: 2516
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0xa9ff0f75'
-- name: uglyduck\like.bbw
+- name: UGLYDUCK\LIKE.BBW
   size: 1692
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0xf88e4ca8'
-- name: uglyduck\liked.bbw
+- name: UGLYDUCK\LIKED.BBW
   size: 1938
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0xe9a18a7c'
-- name: uglyduck\little.bbw
+- name: UGLYDUCK\LITTLE.BBW
   size: 2313
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x4645f8c7'
-- name: uglyduck\live.bbw
+- name: UGLYDUCK\LIVE.BBW
   size: 1976
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x670f3689'
-- name: uglyduck\lived.bbw
+- name: UGLYDUCK\LIVED.BBW
   size: 2106
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x0b9406dc'
-- name: uglyduck\long.bbw
+- name: UGLYDUCK\LONG.BBW
   size: 3140
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0xc736e47c'
-- name: uglyduck\looked.bbw
+- name: UGLYDUCK\LOOKED.BBW
   size: 1906
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0xa5644f24'
-- name: uglyduck\looking.bbw
+- name: UGLYDUCK\LOOKING.BBW
   size: 2736
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0xf90cb4cf'
-- name: uglyduck\made.bbw
+- name: UGLYDUCK\MADE.BBW
   size: 2384
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0xba2f3197'
-- name: uglyduck\matter.bbw
+- name: UGLYDUCK\MATTER.BBW
   size: 2423
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0x68d433e7'
-- name: uglyduck\met.bbw
+- name: UGLYDUCK\MET.BBW
   size: 1841
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0xa117be2c'
-- name: uglyduck\most.bbw
+- name: UGLYDUCK\MOST.BBW
   size: 2642
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0x96c4003a'
-- name: uglyduck\mother.bbw
+- name: UGLYDUCK\MOTHER.BBW
   size: 2416
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0xda82b0bb'
-- name: uglyduck\new.bbw
+- name: UGLYDUCK\NEW.BBW
   size: 2035
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0x11503778'
-- name: uglyduck\next.bbw
+- name: UGLYDUCK\NEXT.BBW
   size: 2287
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0xd54df807'
-- name: uglyduck\no.bbw
+- name: UGLYDUCK\NO.BBW
   size: 2792
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0x5e320ac1'
-- name: uglyduck\noticed.bbw
+- name: UGLYDUCK\NOTICED.BBW
   size: 2358
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0xf1a84a6a'
-- name: uglyduck\now.bbw
+- name: UGLYDUCK\NOW.BBW
   size: 2126
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0x30287cef'
-- name: uglyduck\of.bbw
+- name: UGLYDUCK\OF.BBW
   size: 1392
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0x246f7296'
-- name: uglyduck\old.bbw
+- name: UGLYDUCK\OLD.BBW
   size: 1957
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0xf23a43b2'
-- name: uglyduck\on.bbw
+- name: UGLYDUCK\ON.BBW
   size: 1769
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0xcf0264f3'
-- name: uglyduck\one.bbw
+- name: UGLYDUCK\ONE.BBW
   size: 1478
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0xe1c90fdf'
-- name: uglyduck\open.bbw
+- name: UGLYDUCK\OPEN.BBW
   size: 2507
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0x620fb4b1'
-- name: uglyduck\original.col
+- name: UGLYDUCK\ORIGINAL.COL
   size: 6144
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0xf705b0a0'
-- name: uglyduck\other.bbw
+- name: UGLYDUCK\OTHER.BBW
   size: 1647
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0x7828b8e8'
-- name: uglyduck\out.bbw
+- name: UGLYDUCK\OUT.BBW
   size: 1489
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0x957eebab'
-- name: uglyduck\over.bbw
+- name: UGLYDUCK\OVER.BBW
   size: 2073
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0xa564d6bd'
-- name: uglyduck\pets.bbw
+- name: UGLYDUCK\PETS.BBW
   size: 1781
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0x6cf0a2f8'
-- name: uglyduck\pick.bbw
+- name: UGLYDUCK\PICK.BBW
   size: 1343
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0x1d6e4694'
-- name: uglyduck\pond.bbw
+- name: UGLYDUCK\POND.BBW
   size: 2081
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0x05852850'
-- name: uglyduck\popped.bbw
+- name: UGLYDUCK\POPPED.BBW
   size: 1789
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0x6fa0819a'
-- name: uglyduck\popup.col
+- name: UGLYDUCK\POPUP.COL
   size: 6144
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0xbdd5dafe'
-- name: uglyduck\ran.bbw
+- name: UGLYDUCK\RAN.BBW
   size: 2016
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0x22eebbec'
-- name: uglyduck\reflectn.bbw
+- name: UGLYDUCK\REFLECTN.BBW
   size: 2808
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0x32e657bc'
-- name: uglyduck\right.bbw
+- name: UGLYDUCK\RIGHT.BBW
   size: 1990
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0xc8f0c248'
-- name: uglyduck\seen.bbw
+- name: UGLYDUCK\SEEN.BBW
   size: 2261
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0xfd7a0fd3'
-- name: uglyduck\shame.bbw
+- name: UGLYDUCK\SHAME.BBW
   size: 3296
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0xa5073e3d'
-- name: uglyduck\she.bbw
+- name: UGLYDUCK\SHE.BBW
   size: 2584
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0xb1476a46'
-- name: uglyduck\so.bbw
+- name: UGLYDUCK\SO.BBW
   size: 1959
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0xc2aca563'
-- name: uglyduck\somethig.bbw
+- name: UGLYDUCK\SOMETHIG.BBW
   size: 2931
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0xc17f11a7'
-- name: uglyduck\somethin.bbw
+- name: UGLYDUCK\SOMETHIN.BBW
   size: 3031
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0xe6fac8ce'
-- name: uglyduck\spring.bbw
+- name: UGLYDUCK\SPRING.BBW
   size: 2547
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0xcd12079c'
-- name: uglyduck\swam.bbw
+- name: UGLYDUCK\SWAM.BBW
   size: 2843
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0xedf3176f'
-- name: uglyduck\swan.bbw
+- name: UGLYDUCK\SWAN.BBW
   size: 3471
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0x5a12f075'
-- name: uglyduck\swans.bbw
+- name: UGLYDUCK\SWANS.BBW
   size: 3237
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0xbbc4123e'
-- name: uglyduck\that.bbw
+- name: UGLYDUCK\THAT.BBW
   size: 1811
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0x6b6c0499'
-- name: uglyduck\the.bbw
+- name: UGLYDUCK\THE.BBW
   size: 1868
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0x9e50600b'
-- name: uglyduck\them.bbw
+- name: UGLYDUCK\THEM.BBW
   size: 1890
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0x15d7c79a'
-- name: uglyduck\there.bbw
+- name: UGLYDUCK\THERE.BBW
   size: 2063
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0x7140dea9'
-- name: uglyduck\they.bbw
+- name: UGLYDUCK\THEY.BBW
   size: 1925
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0x4e3cbe39'
-- name: uglyduck\think.bbw
+- name: UGLYDUCK\THINK.BBW
   size: 1377
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0x2554010e'
-- name: uglyduck\thought.bbw
+- name: UGLYDUCK\THOUGHT.BBW
   size: 1652
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0x0eed027b'
-- name: uglyduck\three.bbw
+- name: UGLYDUCK\THREE.BBW
   size: 1789
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0xb367abe5'
-- name: uglyduck\to.bbw
+- name: UGLYDUCK\TO.BBW
   size: 1577
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0x9a1496fc'
-- name: uglyduck\took.bbw
+- name: UGLYDUCK\TOOK.BBW
   size: 1450
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0x4176eb0c'
-- name: uglyduck\traveled.bbw
+- name: UGLYDUCK\TRAVELED.BBW
   size: 2888
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0x71b1c5c4'
-- name: uglyduck\two.bbw
+- name: UGLYDUCK\TWO.BBW
   size: 1852
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0xc987b04c'
-- name: uglyduck\ugliest.bbw
+- name: UGLYDUCK\UGLIEST.BBW
   size: 2642
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0x7519b845'
-- name: uglyduck\ugly.bbw
+- name: UGLYDUCK\UGLY.BBW
   size: 2158
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0x8035a2da'
-- name: uglyduck\uglyduck.txt
+- name: UGLYDUCK\UGLYDUCK.TXT
   size: 1466
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0xa43b88e4'
-- name: uglyduck\up.bbw
+- name: UGLYDUCK\UP.BBW
   size: 1402
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0x1a76dae5'
-- name: uglyduck\version.txt
+- name: UGLYDUCK\VERSION.TXT
   size: 4
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x6686c27b'
-- name: uglyduck\wait.bbw
+- name: UGLYDUCK\WAIT.BBW
   size: 1960
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0x1a82800a'
-- name: uglyduck\was.bbw
+- name: UGLYDUCK\WAS.BBW
   size: 2164
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0xeed6f166'
-- name: uglyduck\wasnt.bbw
+- name: UGLYDUCK\WASNT.BBW
   size: 2223
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0x8c7ea713'
-- name: uglyduck\were.bbw
+- name: UGLYDUCK\WERE.BBW
   size: 2061
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0x3cf64355'
-- name: uglyduck\what.bbw
+- name: UGLYDUCK\WHAT.BBW
   size: 1955
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0xa6b5e227'
-- name: uglyduck\where.bbw
+- name: UGLYDUCK\WHERE.BBW
   size: 2137
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0x14e8bfe5'
-- name: uglyduck\who.bbw
+- name: UGLYDUCK\WHO.BBW
   size: 1544
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0x270fc238'
-- name: uglyduck\will.bbw
+- name: UGLYDUCK\WILL.BBW
   size: 1896
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0xac96673f'
-- name: uglyduck\winter.bbw
+- name: UGLYDUCK\WINTER.BBW
   size: 2093
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0x5084c649'
-- name: uglyduck\with.bbw
+- name: UGLYDUCK\WITH.BBW
   size: 1563
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0xabf19cb9'
-- name: uglyduck\woke.bbw
+- name: UGLYDUCK\WOKE.BBW
   size: 1769
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0x8501d525'
-- name: uglyduck\woman.bbw
+- name: UGLYDUCK\WOMAN.BBW
   size: 1957
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0x49209cca'
-- name: uglyduck\womans.bbw
+- name: UGLYDUCK\WOMANS.BBW
   size: 2334
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0x4cf7c8d9'
-- name: uglyduck\wonderfl.bbw
+- name: UGLYDUCK\WONDERFL.BBW
   size: 3873
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0x99c17307'
-- name: uglyduck\woods.bbw
+- name: UGLYDUCK\WOODS.BBW
   size: 2287
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0x71cba7e0'
-- name: version.txt
+- name: VERSION.TXT
   size: 4
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x6686c27b'

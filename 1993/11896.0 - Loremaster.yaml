@@ -1,5 +1,6 @@
-filename: Loremaster (1993)(Creative Software) [Adventure, Role-Playing (RPG)].zip
+filename: Loremaster v1P12A92 (1993)(Creative Software) [Adventure, Role-Playing (RPG)].zip
 tdc_id: '11896.0'
+parent_id: '11896.1'
 title:
   box: Loremaster
 publisher: Creative Software
@@ -10,14 +11,17 @@ genre:
 language: English
 date:
   added: '2019-03-01T19:11:56'
-  last_modified: '2019-03-01T19:11:56'
+  last_modified: '2025-03-23T13:03:55'
+version: 1P12A92
 type: zip
 commands:
   play: LM1.BAT
+references:
+  mobygames: https://www.mobygames.com/game/130618/loremaster/
 files:
 - name: LM1.BAT
   size: 15
-  date: '2013-04-09T21:23:40'
+  date: '1980-01-01T00:00:00'
   crc: '0x7f2b3473'
 - name: LM1\DAT\GM.DAT
   size: 6096
@@ -37,7 +41,7 @@ files:
   crc: '0x8496be41'
 - name: LM1\EXE\LM1.EXE
   size: 96
-  date: '2013-02-10T22:20:00'
+  date: '1980-01-01T00:00:00'
   crc: '0x59d5ebe8'
 - name: LM1\EXE\LM1_1.EXE
   size: 369936
@@ -57,5 +61,5 @@ files:
   crc: '0xec511ccf'
 - name: LM1\LM1.BAT
   size: 31
-  date: '2013-02-10T22:20:00'
+  date: '1980-01-01T00:00:00'
   crc: '0xe4b9bbfa'

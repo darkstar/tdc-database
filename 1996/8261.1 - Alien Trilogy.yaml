@@ -1,5 +1,6 @@
-filename: Alien Trilogy [b1] (1996)(Acclaim Entertainment, Inc.) [Action].zip
+filename: Alien Trilogy (Installer) (1996)(Acclaim Entertainment, Inc.) [Action].zip
 tdc_id: '8261.1'
+parent_id: '8261.4'
 title:
   box: Alien Trilogy
 publisher: Acclaim Entertainment, Inc.
@@ -8,10 +9,17 @@ genre: Action
 language: English
 date:
   added: '2020-04-19T17:12:42'
-  last_modified: '2020-04-19T17:12:42'
+  last_modified: '2025-04-03T15:26:26'
 type: zip
-tags:
-- Bad: 1
+media: CD-ROM
+installer: true
+audio:
+- CD-DA
+commands:
+  play: TRILOGY.EXE
+  setup: SETUP.BAT
+references:
+  mobygames: https://www.mobygames.com/game/1267/alien-trilogy/
 files:
 - name: ADRV688.DIG
   size: 11278
@@ -19,60 +27,73 @@ files:
   crc: '0x96dfb75d'
 - name: AILDRVR.LST
   size: 17947
-  date: '1996-03-21T19:34:48'
+  date: '1996-10-31T10:04:38'
   crc: '0xc9a7b7d6'
 - name: AUTORUN.INF
   size: 49
-  date: '1996-10-26T15:35:22'
+  date: '1996-10-31T10:04:38'
   crc: '0x5451c166'
 - name: CD\
   size: 0
-  date: '1996-11-12T14:31:08'
+  date: '1996-08-19T10:35:08'
 - name: CD\AVI\
   size: 0
-  date: '1996-11-12T14:31:08'
+  date: '1996-08-28T09:55:48'
 - name: CD\AVI\ALOGODUK.AVI
-  size: 0
-  date: '1996-11-07T22:07:52'
+  size: 1389898
+  date: '1996-10-09T14:14:08'
+  crc: '0x12d7af35'
 - name: CD\AVI\DEATH1.AVI
-  size: 0
-  date: '1996-11-07T22:07:52'
+  size: 477580
+  date: '1996-10-09T14:17:10'
+  crc: '0x94f83c64'
 - name: CD\AVI\DEATH2.AVI
-  size: 0
-  date: '1996-11-07T22:07:52'
+  size: 706334
+  date: '1996-10-09T14:17:58'
+  crc: '0x17ec2f15'
 - name: CD\AVI\DEATH3.AVI
-  size: 0
-  date: '1996-11-07T22:07:52'
+  size: 602960
+  date: '1996-10-09T14:18:54'
+  crc: '0x938856ca'
 - name: CD\AVI\DEATH4.AVI
-  size: 0
-  date: '1996-11-07T22:07:52'
+  size: 265560
+  date: '1996-10-09T14:19:30'
+  crc: '0x43069f16'
 - name: CD\AVI\DEATH5.AVI
-  size: 0
-  date: '1996-11-07T22:07:52'
+  size: 512904
+  date: '1996-10-09T14:20:18'
+  crc: '0xf1168574'
 - name: CD\AVI\DEATH6.AVI
-  size: 0
-  date: '1996-11-07T22:07:52'
+  size: 493048
+  date: '1996-10-09T14:20:56'
+  crc: '0x608ba145'
 - name: CD\AVI\FOXDKAUD.AVI
-  size: 0
-  date: '1996-11-07T22:07:52'
+  size: 1159724
+  date: '1996-10-08T18:22:08'
+  crc: '0x8a084862'
 - name: CD\AVI\GAMEOVER.AVI
-  size: 0
-  date: '1996-11-07T22:07:52'
+  size: 7031192
+  date: '1996-10-09T10:50:28'
+  crc: '0x64ebf052'
 - name: CD\AVI\INTRO.AVI
-  size: 0
-  date: '1996-11-07T22:07:52'
+  size: 10853370
+  date: '1996-10-09T14:30:12'
+  crc: '0xf77ee5e8'
 - name: CD\AVI\PRBLOGO.AVI
-  size: 0
-  date: '1996-11-07T22:07:52'
+  size: 780238
+  date: '1996-10-09T11:45:56'
+  crc: '0xe76480c7'
 - name: CD\AVI\S1_2.AVI
-  size: 0
-  date: '1996-11-07T22:07:52'
+  size: 3891052
+  date: '1996-10-09T12:39:56'
+  crc: '0x85fc1156'
 - name: CD\AVI\S2_3.AVI
-  size: 0
-  date: '1996-11-07T22:07:52'
+  size: 6562020
+  date: '1996-10-09T10:53:44'
+  crc: '0xf947feda'
 - name: CD\GFX\
   size: 0
-  date: '1996-11-12T14:31:08'
+  date: '1996-08-19T10:35:08'
 - name: CD\GFX\BONESHIP.BND
   size: 132204
   date: '1996-09-02T17:31:20'
@@ -82,9 +103,9 @@ files:
   date: '1996-09-02T17:31:10'
   crc: '0xc26fd51e'
 - name: CD\GFX\CREDITS.TXT
-  size: 2665
-  date: '1996-10-31T14:33:20'
-  crc: '0xe857f1f8'
+  size: 2739
+  date: '1996-11-08T11:07:42'
+  crc: '0x2bedec80'
 - name: CD\GFX\DEMO111.BIN
   size: 1800
   date: '1996-10-19T18:16:18'
@@ -98,23 +119,25 @@ files:
   date: '1996-10-19T18:09:32'
   crc: '0xf93d1220'
 - name: CD\GFX\EXPLGFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 132464
+  date: '1996-08-14T11:16:40'
+  crc: '0x574b95d9'
 - name: CD\GFX\EXPLGFX.BND
   size: 132464
   date: '1996-10-14T15:06:40'
   crc: '0xcb7225ec'
 - name: CD\GFX\FLAME.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 15320
+  date: '1996-08-13T19:28:16'
+  crc: '0xbeb1ce78'
 - name: CD\GFX\FLAME.BND
   size: 10224
   date: '1996-09-03T10:07:28'
   crc: '0x42bfc1e1'
 - name: CD\GFX\FONT1GFX.BND
   size: 67100
-  date: '1996-09-02T15:36:40'
-  crc: '0x0f07e1d7'
+  date: '1996-11-12T12:34:52'
+  crc: '0xd1e2f4b5'
 - name: CD\GFX\LEGAL.BND
   size: 132204
   date: '1996-10-14T18:24:38'
@@ -124,8 +147,9 @@ files:
   date: '1996-09-06T12:41:02'
   crc: '0x198cc547'
 - name: CD\GFX\MM9.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 14744
+  date: '1996-08-15T12:43:28'
+  crc: '0xcc408660'
 - name: CD\GFX\MM9.BND
   size: 11824
   date: '1996-09-03T10:07:24'
@@ -135,8 +159,9 @@ files:
   date: '1996-04-09T14:36:54'
   crc: '0x69a205e9'
 - name: CD\GFX\OPTGFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 929504
+  date: '1996-10-10T11:25:12'
+  crc: '0xcda03be6'
 - name: CD\GFX\OPTGFX.BND
   size: 929488
   date: '1996-10-10T11:25:06'
@@ -166,33 +191,36 @@ files:
   date: '1996-09-02T17:31:06'
   crc: '0xa1096cca'
 - name: CD\GFX\PULSE.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 29688
+  date: '1996-08-13T19:28:16'
+  crc: '0x0e2fe8e4'
 - name: CD\GFX\PULSE.BND
   size: 21988
   date: '1996-09-03T10:07:24'
   crc: '0xf22bbef9'
 - name: CD\GFX\SHOTGUN.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 17804
+  date: '1996-08-13T19:28:14'
+  crc: '0x0f3baa94'
 - name: CD\GFX\SHOTGUN.BND
   size: 12900
   date: '1996-09-03T10:07:20'
   crc: '0x88b66dcf'
 - name: CD\GFX\SMART.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 24960
+  date: '1996-08-13T19:28:16'
+  crc: '0x44c18793'
 - name: CD\GFX\SMART.BND
   size: 19592
   date: '1996-09-03T10:18:02'
   crc: '0x6a10864b'
 - name: CD\LANGUAGE\
   size: 0
-  date: '1996-11-12T14:31:08'
+  date: '1996-08-19T10:35:08'
 - name: CD\LANGUAGE\AMER.BIN
-  size: 2765
-  date: '1996-11-05T10:33:44'
-  crc: '0x5d57ba59'
+  size: 2731
+  date: '1996-11-14T17:29:28'
+  crc: '0xe2489965'
 - name: CD\LANGUAGE\ENGL.BIN
   size: 2765
   date: '1996-11-04T00:10:18'
@@ -202,9 +230,9 @@ files:
   date: '1996-11-04T00:10:18'
   crc: '0x98a41e34'
 - name: CD\LANGUAGE\GERM.BIN
-  size: 2221
-  date: '1996-11-04T00:10:18'
-  crc: '0x01fbb950'
+  size: 3208
+  date: '1996-11-11T14:51:54'
+  crc: '0x2c695174'
 - name: CD\LANGUAGE\ITAL.BIN
   size: 2406
   date: '1996-11-04T00:10:18'
@@ -213,113 +241,129 @@ files:
   size: 2591
   date: '1996-11-04T00:10:18'
   crc: '0x763cca77'
+- name: CD\LANGUAGE\MISSIONG.TXT
+  size: 11651
+  date: '1996-11-11T12:19:46'
+  crc: '0xa920d905'
 - name: CD\LANGUAGE\MISSIONU.TXT
   size: 11200
   date: '1996-04-09T07:37:10'
   crc: '0xb7562871'
 - name: CD\LANGUAGE\PNL0GFXU.16
   size: 68172
-  date: '1996-10-30T11:46:18'
-  crc: '0x64542218'
+  date: '1996-11-08T18:30:36'
+  crc: '0x2bb94dcf'
 - name: CD\LANGUAGE\PNL0GFXU.BND
   size: 68172
-  date: '1996-10-30T11:48:00'
-  crc: '0xefe93747'
+  date: '1996-11-08T18:30:36'
+  crc: '0x77eadd35'
 - name: CD\LANGUAGE\PNL1GFXU.16
   size: 68172
-  date: '1996-10-30T11:46:54'
-  crc: '0x8c12de0b'
+  date: '1996-11-08T18:30:36'
+  crc: '0x82b36229'
 - name: CD\LANGUAGE\PNL1GFXU.BND
   size: 68172
-  date: '1996-10-30T11:47:32'
-  crc: '0x8705faf6'
+  date: '1996-11-08T18:30:36'
+  crc: '0xb67b2fae'
 - name: CD\LANGUAGE\SPAN.BIN
   size: 2406
   date: '1996-11-04T00:10:18'
   crc: '0xed4ea638'
 - name: CD\NME\
   size: 0
-  date: '1996-11-12T14:31:08'
+  date: '1996-08-19T10:35:08'
 - name: CD\NME\BAMBI.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 143088
+  date: '1996-10-13T16:25:42'
+  crc: '0x3d780623'
 - name: CD\NME\BAMBI.BND
   size: 121528
   date: '1996-10-13T15:33:06'
   crc: '0x88060f14'
 - name: CD\NME\BURSTER.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 58236
+  date: '1996-10-13T16:25:42'
+  crc: '0x6143db35'
 - name: CD\NME\BURSTER.BND
   size: 48740
   date: '1996-10-13T15:33:06'
   crc: '0x5d9a97cd'
 - name: CD\NME\COLONIST.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 33876
+  date: '1996-10-13T16:25:40'
+  crc: '0xe1ccc239'
 - name: CD\NME\COLONIST.BND
   size: 26920
   date: '1996-10-08T14:59:34'
   crc: '0x306ea28a'
 - name: CD\NME\DOG.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 171708
+  date: '1996-10-13T16:25:30'
+  crc: '0x81cca8b5'
 - name: CD\NME\DOG.BND
   size: 130616
   date: '1996-10-23T18:36:50'
   crc: '0xca35cdda'
 - name: CD\NME\DOGCEIL.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 55612
+  date: '1996-10-13T16:25:30'
+  crc: '0x31c212d5'
 - name: CD\NME\DOGCEIL.BND
   size: 42312
   date: '1996-10-23T18:36:50'
   crc: '0xb7db893a'
 - name: CD\NME\EGGS.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 57860
+  date: '1996-10-13T16:25:34'
+  crc: '0xad0c55c7'
 - name: CD\NME\EGGS.BND
   size: 40000
   date: '1996-10-13T15:33:00'
   crc: '0x6db18f47'
 - name: CD\NME\FINGERS.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 17152
+  date: '1996-10-13T16:25:48'
+  crc: '0x0a5e789d'
 - name: CD\NME\FINGERS.BND
   size: 14052
   date: '1996-10-13T15:33:10'
   crc: '0xe7898bfa'
 - name: CD\NME\GUARD.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 131020
+  date: '1996-10-13T16:25:38'
+  crc: '0x81a80590'
 - name: CD\NME\GUARD.BND
   size: 99892
   date: '1996-10-13T15:33:02'
   crc: '0xd92a44f5'
 - name: CD\NME\HANDLER.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 187528
+  date: '1996-10-13T16:25:36'
+  crc: '0xd65b3298'
 - name: CD\NME\HANDLER.BND
   size: 142204
   date: '1996-10-13T15:33:00'
   crc: '0x13399d30'
 - name: CD\NME\HUGGER.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 43896
+  date: '1996-10-13T16:25:34'
+  crc: '0x438083a7'
 - name: CD\NME\HUGGER.BND
   size: 37352
   date: '1996-10-13T15:32:58'
   crc: '0x0d70edaf'
 - name: CD\NME\QUEEN.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 623780
+  date: '1996-10-28T18:14:42'
+  crc: '0x7a8d249d'
 - name: CD\NME\QUEEN.BND
   size: 444480
   date: '1996-10-28T18:38:26'
   crc: '0xca457d34'
 - name: CD\NME\SOLDIER.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 138192
+  date: '1996-10-13T16:25:40'
+  crc: '0x7934927a'
 - name: CD\NME\SOLDIER.BND
   size: 111140
   date: '1996-10-13T15:33:04'
@@ -329,29 +373,32 @@ files:
   date: '1996-05-14T09:40:52'
   crc: '0x557bcf34'
 - name: CD\NME\SYNTH.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 219984
+  date: '1996-11-08T17:00:52'
+  crc: '0xa4a564ea'
 - name: CD\NME\SYNTH.BND
-  size: 162256
-  date: '1996-10-26T15:35:20'
-  crc: '0xf13fbf82'
+  size: 162260
+  date: '1996-11-08T17:26:20'
+  crc: '0xb664b0ee'
 - name: CD\NME\WAR.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 140968
+  date: '1996-10-15T17:55:28'
+  crc: '0x51c59d54'
 - name: CD\NME\WAR.BND
   size: 106180
   date: '1996-10-23T18:36:50'
   crc: '0xad3dd0e4'
 - name: CD\NME\WARCEIL.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 53940
+  date: '1996-10-15T17:55:28'
+  crc: '0x15363480'
 - name: CD\NME\WARCEIL.BND
   size: 40896
   date: '1996-10-23T18:36:50'
   crc: '0xb071169a'
 - name: CD\PALS\
   size: 0
-  date: '1996-11-12T14:31:08'
+  date: '1996-08-19T10:35:08'
 - name: CD\PALS\BONESHIP.PAL
   size: 672
   date: '1996-09-06T12:58:20'
@@ -1006,55 +1053,63 @@ files:
   crc: '0x8fa3734b'
 - name: CD\SECT11\
   size: 0
-  date: '1996-11-12T14:31:08'
+  date: '1996-08-19T10:35:08'
 - name: CD\SECT11\111GFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 332468
+  date: '1996-10-26T15:35:18'
+  crc: '0x70fc0ed2'
 - name: CD\SECT11\111GFX.BIN
   size: 332468
   date: '1996-10-21T19:08:26'
   crc: '0xf41255a4'
 - name: CD\SECT11\112GFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 332664
+  date: '1996-08-16T10:27:44'
+  crc: '0x7b8409fe'
 - name: CD\SECT11\112GFX.BIN
   size: 332664
   date: '1996-09-06T10:56:18'
   crc: '0x026b0ea3'
 - name: CD\SECT11\113GFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 332640
+  date: '1996-08-16T10:27:52'
+  crc: '0x05cf307d'
 - name: CD\SECT11\113GFX.BIN
   size: 332640
   date: '1996-09-06T10:56:26'
   crc: '0x1962119e'
 - name: CD\SECT11\114GFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 332640
+  date: '1996-08-16T10:27:58'
+  crc: '0x05cf307d'
 - name: CD\SECT11\114GFX.BIN
   size: 332640
   date: '1996-09-06T10:56:26'
   crc: '0x1962119e'
 - name: CD\SECT11\115GFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 332640
+  date: '1996-08-16T10:28:08'
+  crc: '0x05cf307d'
 - name: CD\SECT11\115GFX.BIN
   size: 332640
   date: '1996-09-06T10:56:26'
   crc: '0x1962119e'
 - name: CD\SECT11\121GFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 332468
+  date: '1996-02-16T09:17:26'
+  crc: '0x13b53bc1'
 - name: CD\SECT11\122GFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 332272
+  date: '1996-08-16T10:44:14'
+  crc: '0x5ff27197'
 - name: CD\SECT11\122GFX.BIN
   size: 332272
   date: '1996-10-17T12:13:58'
   crc: '0x31b0ce8f'
 - name: CD\SECT11\131GFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 332304
+  date: '1996-04-19T06:55:00'
+  crc: '0x03882a99'
 - name: CD\SECT11\131GFX.BIN
   size: 332304
   date: '1996-05-14T12:38:56'
@@ -1089,38 +1144,43 @@ files:
   crc: '0x5fa59cee'
 - name: CD\SECT12\
   size: 0
-  date: '1996-11-12T14:31:08'
+  date: '1996-08-19T10:35:08'
 - name: CD\SECT12\141GFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 332368
+  date: '1996-04-09T00:37:26'
+  crc: '0x7763fe7e'
 - name: CD\SECT12\141GFX.BIN
   size: 332368
   date: '1996-10-21T18:50:06'
   crc: '0x8750d21d'
 - name: CD\SECT12\154GFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 332644
+  date: '1996-10-17T12:18:34'
+  crc: '0x420134df'
 - name: CD\SECT12\154GFX.BIN
   size: 332644
   date: '1996-10-21T18:50:08'
   crc: '0x33f89b01'
 - name: CD\SECT12\155GFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 332600
+  date: '1996-04-09T00:37:26'
+  crc: '0x7aecc75b'
 - name: CD\SECT12\155GFX.BIN
   size: 332600
   date: '1996-10-21T18:50:18'
   crc: '0x2bfaf4ee'
 - name: CD\SECT12\161GFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 332468
+  date: '1996-04-09T00:37:28'
+  crc: '0x0e1ab0cd'
 - name: CD\SECT12\161GFX.BIN
   size: 332468
   date: '1996-10-21T18:50:32'
   crc: '0x463d20d2'
 - name: CD\SECT12\162GFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 332612
+  date: '1996-04-09T00:37:28'
+  crc: '0x4a094d4b'
 - name: CD\SECT12\162GFX.BIN
   size: 332612
   date: '1996-10-21T18:50:40'
@@ -1147,45 +1207,51 @@ files:
   crc: '0x947cb572'
 - name: CD\SECT21\
   size: 0
-  date: '1996-11-12T14:31:08'
+  date: '1996-08-19T10:35:08'
 - name: CD\SECT21\211GFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 332692
+  date: '1996-10-21T18:58:38'
+  crc: '0x2c2e4ff2'
 - name: CD\SECT21\211GFX.BIN
   size: 332692
   date: '1996-10-21T18:50:52'
   crc: '0xd7ee3043'
 - name: CD\SECT21\212GFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 332556
+  date: '1996-10-26T15:35:14'
+  crc: '0x835b8c62'
 - name: CD\SECT21\212GFX.BIN
   size: 332556
   date: '1996-10-24T18:06:22'
   crc: '0x4f7a60df'
 - name: CD\SECT21\213GFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 332384
+  date: '1996-10-21T18:58:54'
+  crc: '0xa02168b3'
 - name: CD\SECT21\213GFX.BIN
   size: 332384
   date: '1996-10-24T20:05:10'
   crc: '0x14618055'
 - name: CD\SECT21\222GFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 332372
+  date: '1996-10-21T18:59:00'
+  crc: '0x676c1b1a'
 - name: CD\SECT21\222GFX.BIN
   size: 332372
   date: '1996-05-14T05:39:28'
   crc: '0x1365e5ab'
 - name: CD\SECT21\231GFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 332504
+  date: '1996-04-09T00:37:34'
+  crc: '0xa2e0d482'
 - name: CD\SECT21\231GFX.BIN
   size: 332504
   date: '1996-10-21T14:46:10'
   crc: '0x6de8cec8'
 - name: CD\SECT21\232GFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 332408
+  date: '1996-04-09T00:37:34'
+  crc: '0x7c05d4ff'
 - name: CD\SECT21\232GFX.BIN
   size: 332408
   date: '1996-05-14T05:39:38'
@@ -1216,31 +1282,35 @@ files:
   crc: '0xf1859a5b'
 - name: CD\SECT22\
   size: 0
-  date: '1996-11-12T14:31:08'
+  date: '1996-08-19T10:35:08'
 - name: CD\SECT22\242GFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 332428
+  date: '1996-04-09T00:37:38'
+  crc: '0xcd3cf857'
 - name: CD\SECT22\242GFX.BIN
   size: 332428
   date: '1996-05-14T05:39:30'
   crc: '0xc038f8a3'
 - name: CD\SECT22\243GFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 332428
+  date: '1996-04-09T00:37:40'
+  crc: '0xcd3cf857'
 - name: CD\SECT22\243GFX.BIN
   size: 332428
   date: '1996-05-14T05:39:40'
   crc: '0xc038f8a3'
 - name: CD\SECT22\262GFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 332448
+  date: '1996-10-26T15:35:08'
+  crc: '0x6cdd1866'
 - name: CD\SECT22\262GFX.BIN
   size: 332448
   date: '1996-10-21T18:51:04'
   crc: '0x56d11d48'
 - name: CD\SECT22\263GFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 332536
+  date: '1996-10-11T19:07:24'
+  crc: '0x70f4c7d3'
 - name: CD\SECT22\263GFX.BIN
   size: 332536
   date: '1996-10-17T18:40:00'
@@ -1263,52 +1333,59 @@ files:
   crc: '0xbb71722f'
 - name: CD\SECT31\
   size: 0
-  date: '1996-11-12T14:31:08'
+  date: '1996-08-19T10:35:08'
 - name: CD\SECT31\311GFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 332372
+  date: '1996-10-21T18:59:06'
+  crc: '0xe6bc2dda'
 - name: CD\SECT31\311GFX.BIN
   size: 332372
   date: '1996-10-23T11:34:18'
   crc: '0x259452c3'
 - name: CD\SECT31\321GFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 332344
+  date: '1996-10-26T15:35:06'
+  crc: '0x7918f753'
 - name: CD\SECT31\321GFX.BIN
   size: 332344
   date: '1996-10-23T13:32:08'
   crc: '0x1ec79251'
 - name: CD\SECT31\322GFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 332344
+  date: '1996-10-26T15:35:04'
+  crc: '0x7918f753'
 - name: CD\SECT31\322GFX.BIN
   size: 332344
   date: '1996-05-14T05:39:58'
   crc: '0xa7602fec'
 - name: CD\SECT31\323GFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 332344
+  date: '1996-10-26T15:35:02'
+  crc: '0x7918f753'
 - name: CD\SECT31\323GFX.BIN
   size: 332344
   date: '1996-05-14T05:40:10'
   crc: '0xa7602fec'
 - name: CD\SECT31\324GFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 332344
+  date: '1996-10-26T15:35:02'
+  crc: '0x7918f753'
 - name: CD\SECT31\324GFX.BIN
   size: 332344
   date: '1996-05-14T05:40:12'
   crc: '0xa7602fec'
 - name: CD\SECT31\325GFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 332344
+  date: '1996-10-26T15:35:00'
+  crc: '0x7918f753'
 - name: CD\SECT31\325GFX.BIN
   size: 332344
   date: '1996-05-14T05:40:20'
   crc: '0xa7602fec'
 - name: CD\SECT31\331GFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 332356
+  date: '1996-04-09T00:37:46'
+  crc: '0xd46bc0bd'
 - name: CD\SECT31\331GFX.BIN
   size: 332356
   date: '1996-10-23T13:32:12'
@@ -1343,52 +1420,59 @@ files:
   crc: '0x0ebe350c'
 - name: CD\SECT32\
   size: 0
-  date: '1996-11-12T14:31:08'
+  date: '1996-08-19T10:35:08'
 - name: CD\SECT32\351GFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 332356
+  date: '1996-04-09T00:37:50'
+  crc: '0x88f1052e'
 - name: CD\SECT32\351GFX.BIN
   size: 332356
   date: '1996-10-21T18:51:08'
   crc: '0x5003870e'
 - name: CD\SECT32\352GFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 332356
+  date: '1996-04-09T00:37:52'
+  crc: '0xc23e2e97'
 - name: CD\SECT32\352GFX.BIN
   size: 332356
   date: '1996-05-14T05:40:06'
   crc: '0xaf8c1d45'
 - name: CD\SECT32\353GFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 332356
+  date: '1996-04-09T00:37:52'
+  crc: '0xc23e2e97'
 - name: CD\SECT32\353GFX.BIN
   size: 332356
   date: '1996-05-14T05:40:18'
   crc: '0xaf8c1d45'
 - name: CD\SECT32\361GFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 332436
+  date: '1996-04-09T00:37:52'
+  crc: '0xdeaef275'
 - name: CD\SECT32\361GFX.BIN
   size: 332436
   date: '1996-04-09T00:37:52'
   crc: '0xdeaef275'
 - name: CD\SECT32\371GFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 332372
+  date: '1996-04-09T00:37:52'
+  crc: '0x732635ef'
 - name: CD\SECT32\371GFX.BIN
   size: 332372
   date: '1996-05-14T05:40:16'
   crc: '0x4b0db313'
 - name: CD\SECT32\381GFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 332372
+  date: '1996-04-09T00:37:54'
+  crc: '0x2942832c'
 - name: CD\SECT32\381GFX.BIN
   size: 332372
   date: '1996-05-14T05:40:24'
   crc: '0x59d50f7c'
 - name: CD\SECT32\391GFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 332516
+  date: '1996-10-28T15:47:28'
+  crc: '0x41dd9c6f'
 - name: CD\SECT32\391GFX.BIN
   size: 332516
   date: '1996-10-21T12:15:44'
@@ -1423,73 +1507,83 @@ files:
   crc: '0x6547c71d'
 - name: CD\SECT90\
   size: 0
-  date: '1996-11-12T14:31:08'
+  date: '1996-09-30T14:43:36'
 - name: CD\SECT90\900GFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 332468
+  date: '1996-10-21T19:07:14'
+  crc: '0x49c15ab0'
 - name: CD\SECT90\900GFX.BIN
   size: 332468
   date: '1996-10-21T19:08:30'
   crc: '0xa425411f'
 - name: CD\SECT90\901GFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 332272
+  date: '1996-09-23T11:02:10'
+  crc: '0x5ff27197'
 - name: CD\SECT90\901GFX.BIN
   size: 332272
   date: '1996-10-18T18:29:56'
   crc: '0x31b0ce8f'
 - name: CD\SECT90\902GFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 332304
+  date: '1996-10-18T14:20:06'
+  crc: '0xb5d1620d'
 - name: CD\SECT90\902GFX.BIN
   size: 332304
   date: '1996-10-18T18:29:58'
   crc: '0xb5c95866'
 - name: CD\SECT90\903GFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 332368
+  date: '1996-10-17T20:56:52'
+  crc: '0xc664df57'
 - name: CD\SECT90\903GFX.BIN
   size: 332368
   date: '1996-10-18T18:30:00'
   crc: '0x728a61a5'
 - name: CD\SECT90\904GFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 332644
+  date: '1996-10-17T21:10:56'
+  crc: '0x2158b59d'
 - name: CD\SECT90\904GFX.BIN
   size: 332644
   date: '1996-10-18T18:30:02'
   crc: '0xfdaf5bcd'
 - name: CD\SECT90\905GFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 332644
+  date: '1996-10-17T21:11:04'
+  crc: '0x2158b59d'
 - name: CD\SECT90\905GFX.BIN
   size: 332644
   date: '1996-10-18T18:30:04'
   crc: '0xfdaf5bcd'
 - name: CD\SECT90\906GFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 332356
+  date: '1996-10-24T20:01:50'
+  crc: '0xa33d7299'
 - name: CD\SECT90\906GFX.BIN
   size: 332356
   date: '1996-10-28T19:23:52'
   crc: '0x9935a1f3'
 - name: CD\SECT90\907GFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 332504
+  date: '1996-10-17T21:11:16'
+  crc: '0xde15a501'
 - name: CD\SECT90\907GFX.BIN
   size: 332504
   date: '1996-10-21T14:52:42'
   crc: '0x6de8cec8'
 - name: CD\SECT90\908GFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 332372
+  date: '1996-10-17T14:22:46'
+  crc: '0xe6bc2dda'
 - name: CD\SECT90\908GFX.BIN
   size: 332372
   date: '1996-10-28T19:24:04'
   crc: '0x259452c3'
 - name: CD\SECT90\909GFX.B16
-  size: 0
-  date: '1996-11-07T22:07:24'
+  size: 332356
+  date: '1996-10-30T11:22:50'
+  crc: '0x6dae2d06'
 - name: CD\SECT90\909GFX.BIN
   size: 332356
   date: '1996-10-30T11:22:48'
@@ -1508,35 +1602,35 @@ files:
   crc: '0x3459fdd8'
 - name: CD\SECT90\L903LEV.MAP
   size: 537308
-  date: '1996-11-04T15:37:10'
-  crc: '0x38a763fe'
+  date: '1996-11-12T17:28:24'
+  crc: '0x8bca69a9'
 - name: CD\SECT90\L904LEV.MAP
   size: 475992
   date: '1996-11-04T15:37:16'
   crc: '0xed018fe5'
 - name: CD\SECT90\L905LEV.MAP
-  size: 518008
-  date: '1996-11-04T15:37:24'
-  crc: '0xe0680536'
+  size: 518048
+  date: '1996-11-06T13:36:34'
+  crc: '0x43a4fd00'
 - name: CD\SECT90\L906LEV.MAP
   size: 526168
   date: '1996-11-04T16:15:32'
   crc: '0x615bdf5f'
 - name: CD\SECT90\L907LEV.MAP
   size: 504928
-  date: '1996-11-04T16:15:40'
-  crc: '0xfad23ef0'
+  date: '1996-11-12T17:29:04'
+  crc: '0x5ea186d6'
 - name: CD\SECT90\L908LEV.MAP
   size: 599912
-  date: '1996-11-04T15:37:52'
-  crc: '0x62a06a84'
+  date: '1996-11-12T17:29:22'
+  crc: '0x1cdde357'
 - name: CD\SECT90\L909LEV.MAP
   size: 395908
-  date: '1996-11-04T15:38:02'
-  crc: '0x5f15fd84'
+  date: '1996-11-12T17:29:40'
+  crc: '0x6750da16'
 - name: CD\SFX\
   size: 0
-  date: '1996-11-12T14:31:08'
+  date: '1996-08-19T10:35:08'
 - name: CD\SFX\0101SELE.RAW
   size: 2430
   date: '1996-08-16T02:00:20'
@@ -1767,23 +1861,23 @@ files:
   crc: '0xb813cbb9'
 - name: CD\SFX\111SFX.TXT
   size: 2672
-  date: '1996-10-26T15:34:50'
+  date: '1996-11-05T08:33:48'
   crc: '0x7bfd89e4'
 - name: CD\SFX\112SFX.TXT
   size: 2671
-  date: '1996-10-26T15:34:48'
+  date: '1996-11-05T08:33:48'
   crc: '0x4966f82d'
 - name: CD\SFX\113SFX.TXT
   size: 2635
-  date: '1996-10-26T15:34:48'
+  date: '1996-11-05T08:33:48'
   crc: '0x40e5d922'
 - name: CD\SFX\114SFX.TXT
   size: 2635
-  date: '1996-10-26T15:34:48'
+  date: '1996-11-05T08:33:48'
   crc: '0x40e5d922'
 - name: CD\SFX\115SFX.TXT
   size: 2635
-  date: '1996-10-26T15:34:48'
+  date: '1996-11-05T08:33:48'
   crc: '0x40e5d922'
 - name: CD\SFX\1201-NIT.RAW
   size: 31184
@@ -1799,7 +1893,7 @@ files:
   crc: '0xbe399ec0'
 - name: CD\SFX\122SFX.TXT
   size: 2704
-  date: '1996-10-26T15:34:48'
+  date: '1996-11-05T08:33:48'
   crc: '0xde6f2d41'
 - name: CD\SFX\1301AUTO.RAW
   size: 17298
@@ -1811,11 +1905,11 @@ files:
   crc: '0x0670d988'
 - name: CD\SFX\131SFX.TXT
   size: 2707
-  date: '1996-10-26T15:34:48'
+  date: '1996-11-05T08:33:48'
   crc: '0xd99e21c7'
 - name: CD\SFX\141SFX.TXT
   size: 2688
-  date: '1996-10-26T15:34:48'
+  date: '1996-11-05T08:33:48'
   crc: '0xcaf806c5'
 - name: CD\SFX\1501EGGO.RAW
   size: 12212
@@ -1835,11 +1929,11 @@ files:
   crc: '0x5fd9875b'
 - name: CD\SFX\154SFX.TXT
   size: 2705
-  date: '1996-10-26T15:34:48'
+  date: '1996-11-05T08:33:48'
   crc: '0x2d317c9e'
 - name: CD\SFX\155SFX.TXT
   size: 2638
-  date: '1996-10-26T15:34:48'
+  date: '1996-11-05T08:33:48'
   crc: '0x97d9087f'
 - name: CD\SFX\1601FAC0.RAW
   size: 15906
@@ -1911,11 +2005,11 @@ files:
   crc: '0x5084307a'
 - name: CD\SFX\161SFX.TXT
   size: 2670
-  date: '1996-10-26T15:34:48'
+  date: '1996-11-05T08:33:48'
   crc: '0x435e5770'
 - name: CD\SFX\162SFX.TXT
   size: 2680
-  date: '1996-10-26T15:34:48'
+  date: '1996-11-05T08:33:48'
   crc: '0x2794ae1c'
 - name: CD\SFX\1701ATTK.RAW
   size: 12753
@@ -2059,27 +2153,27 @@ files:
   crc: '0x68b5745e'
 - name: CD\SFX\211SFX.TXT
   size: 2713
-  date: '1996-10-26T15:34:48'
+  date: '1996-11-05T08:33:48'
   crc: '0x4c09c339'
 - name: CD\SFX\211SFXG.TXT
   size: 2705
-  date: '1996-06-06T01:27:34'
+  date: '1996-11-05T08:33:48'
   crc: '0x9882cc24'
 - name: CD\SFX\212SFX.TXT
-  size: 2688
-  date: '1996-10-26T15:34:48'
-  crc: '0x155347ed'
+  size: 2700
+  date: '1996-11-07T12:40:28'
+  crc: '0xa33acac1'
 - name: CD\SFX\212SFXG.TXT
   size: 2696
-  date: '1996-06-06T01:27:34'
+  date: '1996-11-05T08:33:48'
   crc: '0x39c2ddef'
 - name: CD\SFX\213SFX.TXT
-  size: 2658
-  date: '1996-10-26T15:34:48'
-  crc: '0xb6634928'
+  size: 2670
+  date: '1996-11-07T12:40:46'
+  crc: '0x019eb5d5'
 - name: CD\SFX\213SFXG.TXT
   size: 2672
-  date: '1996-06-06T01:27:34'
+  date: '1996-11-05T08:33:48'
   crc: '0xc98ec317'
 - name: CD\SFX\2202INJA.RAW
   size: 5388
@@ -2098,9 +2192,9 @@ files:
   date: '1996-08-16T03:41:52'
   crc: '0x089e242a'
 - name: CD\SFX\222SFX.TXT
-  size: 2691
-  date: '1996-10-26T15:34:48'
-  crc: '0xcbb76d06'
+  size: 2703
+  date: '1996-11-07T12:41:00'
+  crc: '0x481b9fa0'
 - name: CD\SFX\2302INJA.RAW
   size: 6090
   date: '1996-08-16T03:43:08'
@@ -2115,27 +2209,27 @@ files:
   crc: '0x7e655b11'
 - name: CD\SFX\231SFX.TXT
   size: 2685
-  date: '1996-10-26T15:34:48'
+  date: '1996-11-05T08:33:48'
   crc: '0xb2a8209e'
 - name: CD\SFX\232SFX.TXT
   size: 2694
-  date: '1996-10-26T15:34:48'
+  date: '1996-11-05T08:33:48'
   crc: '0x3cd0cec7'
 - name: CD\SFX\242SFX.TXT
   size: 2640
-  date: '1996-10-26T15:34:48'
+  date: '1996-11-05T08:33:48'
   crc: '0x7717d241'
 - name: CD\SFX\243SFX.TXT
   size: 2637
-  date: '1996-10-26T15:34:48'
+  date: '1996-11-05T08:33:48'
   crc: '0x2e247fd6'
 - name: CD\SFX\262SFX.TXT
   size: 2661
-  date: '1996-10-26T15:34:48'
+  date: '1996-11-05T08:33:48'
   crc: '0x5a106c48'
 - name: CD\SFX\263SFX.TXT
   size: 2682
-  date: '1996-10-26T15:34:48'
+  date: '1996-11-05T08:33:48'
   crc: '0x7197ca82'
 - name: CD\SFX\2701POWR.RAW
   size: 32470
@@ -2169,6 +2263,18 @@ files:
   size: 13755
   date: '1996-08-16T03:53:16'
   crc: '0xbae10fed'
+- name: CD\SFX\3101OP1.RAW
+  size: 20640
+  date: '1996-10-22T14:09:18'
+  crc: '0xcc72400e'
+- name: CD\SFX\3101OP2.RAW
+  size: 17000
+  date: '1996-10-22T14:09:26'
+  crc: '0xd09f3659'
+- name: CD\SFX\3101OP3.RAW
+  size: 15017
+  date: '1996-10-22T14:09:34'
+  crc: '0xf54599b0'
 - name: CD\SFX\3101OPEN.RAW
   size: 20640
   date: '1996-10-22T14:09:18'
@@ -2190,12 +2296,12 @@ files:
   date: '1996-08-16T04:01:36'
   crc: '0x24928f78'
 - name: CD\SFX\311SFX.TXT
-  size: 2662
-  date: '1996-10-26T15:34:48'
-  crc: '0x59e09abe'
+  size: 2683
+  date: '1996-11-07T12:44:00'
+  crc: '0xcaca9eb7'
 - name: CD\SFX\311SXFG.TXT
   size: 2679
-  date: '1996-06-06T01:27:34'
+  date: '1996-11-05T08:33:48'
   crc: '0x47ca6f0b'
 - name: CD\SFX\3201OPEN.RAW
   size: 20350
@@ -2215,23 +2321,23 @@ files:
   crc: '0x9fb2215e'
 - name: CD\SFX\321SFX.TXT
   size: 2695
-  date: '1996-10-26T15:34:48'
+  date: '1996-11-05T08:33:48'
   crc: '0xe58750fb'
 - name: CD\SFX\322SFX.TXT
   size: 2695
-  date: '1996-10-26T15:34:48'
+  date: '1996-11-05T08:33:48'
   crc: '0xe58750fb'
 - name: CD\SFX\323SFX.TXT
   size: 2695
-  date: '1996-10-26T15:34:48'
+  date: '1996-11-05T08:33:48'
   crc: '0xe58750fb'
 - name: CD\SFX\324SFX.TXT
   size: 2695
-  date: '1996-10-26T15:34:48'
+  date: '1996-11-05T08:33:48'
   crc: '0xe58750fb'
 - name: CD\SFX\325SFX.TXT
   size: 2695
-  date: '1996-10-26T15:34:48'
+  date: '1996-11-05T08:33:48'
   crc: '0xe58750fb'
 - name: CD\SFX\3301OPEN.RAW
   size: 13307
@@ -2255,11 +2361,11 @@ files:
   crc: '0xeb9417b4'
 - name: CD\SFX\331SFX.TXT
   size: 2686
-  date: '1996-10-26T15:34:48'
+  date: '1996-11-05T08:33:48'
   crc: '0x6a919e55'
 - name: CD\SFX\331SFXG.TXT
   size: 2682
-  date: '1996-06-06T01:27:34'
+  date: '1996-11-05T08:33:48'
   crc: '0x96f09810'
 - name: CD\SFX\3401TRAP.RAW
   size: 14288
@@ -2275,15 +2381,15 @@ files:
   crc: '0x10a547b1'
 - name: CD\SFX\351SFX.TXT
   size: 2693
-  date: '1996-10-26T15:34:48'
+  date: '1996-11-05T08:33:48'
   crc: '0xef595c60'
 - name: CD\SFX\352SFX.TXT
   size: 2677
-  date: '1996-10-26T15:34:48'
+  date: '1996-11-05T08:33:48'
   crc: '0x2ca50c2a'
 - name: CD\SFX\353SFX.TXT
   size: 2677
-  date: '1996-10-26T15:34:48'
+  date: '1996-11-05T08:33:48'
   crc: '0x2ca50c2a'
 - name: CD\SFX\3601STRT.RAW
   size: 72697
@@ -2338,12 +2444,12 @@ files:
   date: '1996-08-16T04:26:00'
   crc: '0xdae5384d'
 - name: CD\SFX\371SFX.TXT
-  size: 2671
-  date: '1996-10-26T15:34:48'
-  crc: '0xb1c8a5b8'
+  size: 2683
+  date: '1996-11-07T12:45:30'
+  crc: '0x895a3635'
 - name: CD\SFX\371SFXG.TXT
   size: 2679
-  date: '1996-06-06T01:27:34'
+  date: '1996-11-05T08:33:48'
   crc: '0x47ca6f0b'
 - name: CD\SFX\3801KLAX.RAW
   size: 28732
@@ -2351,7 +2457,7 @@ files:
   crc: '0xa2083289'
 - name: CD\SFX\381SFX.TXT
   size: 2674
-  date: '1996-10-26T15:34:48'
+  date: '1996-11-05T08:33:48'
   crc: '0x3c4a2bb8'
 - name: CD\SFX\3901PAE0.RAW
   size: 78765
@@ -2375,7 +2481,7 @@ files:
   crc: '0xfcfe063f'
 - name: CD\SFX\391SFX.TXT
   size: 2668
-  date: '1996-10-26T15:34:48'
+  date: '1996-11-05T08:33:48'
   crc: '0xa7f5df2b'
 - name: CD\SFX\4001FANS.RAW
   size: 5872
@@ -2543,43 +2649,43 @@ files:
   crc: '0x8860e98c'
 - name: CD\SFX\900SFX.TXT
   size: 2666
-  date: '1996-10-26T15:34:48'
+  date: '1996-11-05T08:33:56'
   crc: '0x8469e572'
 - name: CD\SFX\901SFX.TXT
   size: 2658
-  date: '1996-10-26T15:34:48'
+  date: '1996-11-05T08:33:56'
   crc: '0x22693187'
 - name: CD\SFX\902SFX.TXT
   size: 2655
-  date: '1996-10-26T15:34:48'
+  date: '1996-11-05T08:33:56'
   crc: '0xdc5bcc5f'
 - name: CD\SFX\903SFX.TXT
   size: 2651
-  date: '1996-10-26T15:34:48'
+  date: '1996-11-05T08:33:56'
   crc: '0x5a8cf3c6'
 - name: CD\SFX\904SFX.TXT
   size: 2651
-  date: '1996-10-26T15:34:48'
+  date: '1996-11-05T08:33:56'
   crc: '0x5a8cf3c6'
 - name: CD\SFX\905SFX.TXT
   size: 2651
-  date: '1996-10-26T15:34:48'
+  date: '1996-11-05T08:33:56'
   crc: '0x5a8cf3c6'
 - name: CD\SFX\906SFX.TXT
   size: 2650
-  date: '1996-10-26T15:34:48'
+  date: '1996-11-05T08:33:56'
   crc: '0x3543f912'
 - name: CD\SFX\907SFX.TXT
   size: 2658
-  date: '1996-10-26T15:34:48'
+  date: '1996-11-05T08:33:56'
   crc: '0x2038957c'
 - name: CD\SFX\908SFX.TXT
   size: 2643
-  date: '1996-10-26T15:34:48'
+  date: '1996-11-05T08:33:56'
   crc: '0x436ebb52'
 - name: CD\SFX\909SFX.TXT
   size: 2643
-  date: '1996-10-26T15:34:48'
+  date: '1996-11-05T08:33:56'
   crc: '0x436ebb52'
 - name: CD\SFX\BLANK.RAW
   size: 292
@@ -2597,6 +2703,38 @@ files:
   size: 8547
   date: '1996-10-26T15:34:50'
   crc: '0xd3751d90'
+- name: CD\SFX\FLAMLOOP.RAW
+  size: 14594
+  date: '1996-10-21T15:56:20'
+  crc: '0x90024160'
+- name: CD\SFX\GRENLN01.RAW
+  size: 8921
+  date: '1996-10-21T15:56:28'
+  crc: '0x5007e661'
+- name: CD\SFX\GRENLN02.RAW
+  size: 7317
+  date: '1996-10-21T15:56:36'
+  crc: '0xe345b492'
+- name: CD\SFX\GRENLN03.RAW
+  size: 6812
+  date: '1996-10-21T15:56:46'
+  crc: '0xa13a1132'
+- name: CD\SFX\GRENLN04.RAW
+  size: 10863
+  date: '1996-10-22T14:09:42'
+  crc: '0xdfa30fbc'
+- name: CD\SFX\GRENLN05.RAW
+  size: 12923
+  date: '1996-10-22T14:09:52'
+  crc: '0x3fb61c4b'
+- name: CD\SFX\GRENLN06.RAW
+  size: 7817
+  date: '1996-10-22T14:10:00'
+  crc: '0x988468a2'
+- name: CD\SFX\GRENLN07.RAW
+  size: 10863
+  date: '1996-10-22T14:10:10'
+  crc: '0x61d34a47'
 - name: CD\SFX\GRENLN08.RAW
   size: 10257
   date: '1996-10-25T14:48:20'
@@ -2613,14 +2751,82 @@ files:
   size: 13114
   date: '1996-08-16T04:42:16'
   crc: '0xd5ce7c48'
+- name: CD\SFX\NEWHAND1.RAW
+  size: 10464
+  date: '1996-10-21T15:56:56'
+  crc: '0x3cf009eb'
+- name: CD\SFX\NEWHAND2.RAW
+  size: 8730
+  date: '1996-10-21T15:57:06'
+  crc: '0x31f58e41'
+- name: CD\SFX\NEWHAND3.RAW
+  size: 8968
+  date: '1996-10-21T15:57:14'
+  crc: '0x986d0633'
+- name: CD\SFX\NEWHAND4.RAW
+  size: 8881
+  date: '1996-10-21T15:57:24'
+  crc: '0x03181ab3'
+- name: CD\SFX\NEWSFX.BAT
+  size: 1449
+  date: '1996-10-25T18:02:18'
+  crc: '0x9007a06d'
+- name: CD\SFX\NEWSHGUN.RAW
+  size: 15754
+  date: '1996-10-18T17:57:02'
+  crc: '0xc1467b8d'
+- name: CD\SFX\NEWSHOT1.RAW
+  size: 14544
+  date: '1996-10-21T15:57:32'
+  crc: '0x6b6c478b'
+- name: CD\SFX\NEWSHOT2.RAW
+  size: 15754
+  date: '1996-10-21T15:57:42'
+  crc: '0x7b9774c5'
+- name: CD\SFX\NEWSHOT3.RAW
+  size: 15989
+  date: '1996-10-21T15:57:52'
+  crc: '0xbde8f425'
 - name: CD\SFX\PICKUP.RAW
   size: 5413
   date: '1996-08-16T05:00:28'
   crc: '0x97330a2e'
+- name: CD\SFX\PRFL2B_1.RAW
+  size: 8678
+  date: '1996-10-21T15:58:02'
+  crc: '0xf0ae30a3'
+- name: CD\SFX\PRFL5_1.RAW
+  size: 10216
+  date: '1996-10-21T15:58:18'
+  crc: '0xe66b4b5d'
+- name: CD\SFX\PRFL6_1.RAW
+  size: 9816
+  date: '1996-10-21T15:58:28'
+  crc: '0x0cdcae21'
+- name: CD\SFX\SHIPFT1.RAW
+  size: 4012
+  date: '1996-10-22T14:10:20'
+  crc: '0x692bed96'
 - name: CD\SFX\SHIPFT10.RAW
   size: 2505
   date: '1996-10-25T14:57:46'
   crc: '0x09cbcfcd'
+- name: CD\SFX\SHIPFT2.RAW
+  size: 5255
+  date: '1996-10-22T14:10:28'
+  crc: '0xbc2f7ad7'
+- name: CD\SFX\SHIPFT3.RAW
+  size: 3874
+  date: '1996-10-22T14:10:44'
+  crc: '0xaafff6d2'
+- name: CD\SFX\SHIPFT4.RAW
+  size: 5147
+  date: '1996-10-22T14:10:52'
+  crc: '0x0821c92f'
+- name: CD\SFX\SHIPFT5.RAW
+  size: 6069
+  date: '1996-10-22T14:11:02'
+  crc: '0x6dcbb489'
 - name: CD\SFX\SHIPFT6.RAW
   size: 1952
   date: '1996-10-25T14:57:56'
@@ -2637,6 +2843,34 @@ files:
   size: 1923
   date: '1996-10-25T14:59:46'
   crc: '0x916cea95'
+- name: CD\SFX\SHOTTEST.RAW
+  size: 14544
+  date: '1996-10-21T15:58:58'
+  crc: '0x46168e65'
+- name: CD\SFX\SHTGN5_1.RAW
+  size: 16000
+  date: '1996-10-18T17:57:16'
+  crc: '0x8636783c'
+- name: CD\SFX\SHTGUN3A.RAW
+  size: 15000
+  date: '1996-10-18T17:57:36'
+  crc: '0x6e8fc7cc'
+- name: CD\SFX\SHTGUN4A.RAW
+  size: 16320
+  date: '1996-10-18T17:57:54'
+  crc: '0xb4b381b4'
+- name: CD\SFX\SMART1.RAW
+  size: 10570
+  date: '1996-10-22T14:11:14'
+  crc: '0xc3ab2e14'
+- name: CD\SFX\SMART2.RAW
+  size: 12269
+  date: '1996-10-22T14:11:24'
+  crc: '0x8c32eac8'
+- name: CD\SFX\SMART3.RAW
+  size: 10418
+  date: '1996-10-22T14:11:34'
+  crc: '0xf5db24e5'
 - name: CD\SFX\SMART3A.RAW
   size: 10187
   date: '1996-10-25T14:50:18'
@@ -2651,271 +2885,343 @@ files:
   crc: '0x928555eb'
 - name: CD\SFX\SPCH.TXT
   size: 762
-  date: '1996-09-05T10:05:12'
+  date: '1996-11-05T08:33:50'
   crc: '0xed77f2ee'
+- name: CD\SFX\SYNDIE1.RAW
+  size: 28164
+  date: '1996-10-21T15:59:10'
+  crc: '0xaccc85d6'
+- name: CD\SFX\SYNDIE2.RAW
+  size: 22034
+  date: '1996-10-21T15:59:22'
+  crc: '0x72311b30'
+- name: CD\SFX\SYNDIE3.RAW
+  size: 25381
+  date: '1996-10-21T15:59:32'
+  crc: '0x4241fb9e'
+- name: CD\SFX\SYNDIE4.RAW
+  size: 20853
+  date: '1996-10-21T15:59:40'
+  crc: '0x38317e4e'
+- name: CD\SFX\SYNDIE5.RAW
+  size: 18563
+  date: '1996-10-21T15:59:52'
+  crc: '0x2ba2b45c'
 - name: CD\SFX\SYNDIE6.RAW
   size: 14651
   date: '1996-09-23T18:03:40'
   crc: '0xd404ca26'
+- name: CD\SFX\SYNDIE7.RAW
+  size: 16078
+  date: '1996-10-21T16:00:38'
+  crc: '0xa2c53387'
+- name: CD\SFX\SYNFALL1.RAW
+  size: 16931
+  date: '1996-10-21T16:00:48'
+  crc: '0x4c637fce'
+- name: CD\SFX\SYNFALL2.RAW
+  size: 13105
+  date: '1996-10-21T16:00:58'
+  crc: '0xa9fd1c36'
+- name: CD\SFX\SYNFALL3.RAW
+  size: 20857
+  date: '1996-10-21T16:01:08'
+  crc: '0xfa0429fd'
+- name: CD\SFX\SYNFALL4.RAW
+  size: 11917
+  date: '1996-10-21T16:01:20'
+  crc: '0x558a6e5d'
+- name: CD\SFX\SYNFALL5.RAW
+  size: 12164
+  date: '1996-10-21T16:01:30'
+  crc: '0x43f5f41b'
+- name: CD\SFX\SYNHIT1.RAW
+  size: 5802
+  date: '1996-10-21T16:01:40'
+  crc: '0xfe0b2697'
+- name: CD\SFX\SYNHIT2.RAW
+  size: 4054
+  date: '1996-10-21T16:01:50'
+  crc: '0x10635407'
+- name: CD\SFX\SYNHIT3.RAW
+  size: 9757
+  date: '1996-10-21T16:02:00'
+  crc: '0x8a84f35d'
+- name: CD\SFX\SYNHIT4.RAW
+  size: 9074
+  date: '1996-10-21T16:02:10'
+  crc: '0xbb1ebd3d'
+- name: CD\SFX\SYNHIT5.RAW
+  size: 11571
+  date: '1996-10-21T16:02:20'
+  crc: '0xf9c14aa7'
+- name: CD\SFX\SYNHIT6.RAW
+  size: 4725
+  date: '1996-10-21T16:02:30'
+  crc: '0x60295936'
+- name: CD\SFX\SYNHIT7.RAW
+  size: 4572
+  date: '1996-10-21T16:02:38'
+  crc: '0xa3875705'
+- name: CD\SFX\SYNHIT8.RAW
+  size: 5029
+  date: '1996-10-21T16:02:48'
+  crc: '0xe8e4bb34'
 - name: CD\SFX\VC01A.RAW
   size: 9896
   date: '1996-08-12T13:17:40'
   crc: '0x6f147baf'
 - name: CD\SFX\VC01C.RAW
   size: 8256
-  date: '1996-08-13T03:18:46'
-  crc: '0x206303d1'
+  date: '1996-11-14T10:57:20'
+  crc: '0x632c125f'
 - name: CD\SFX\VC02A.RAW
   size: 10304
   date: '1996-08-12T13:19:36'
   crc: '0x788f1597'
 - name: CD\SFX\VC02B.RAW
   size: 9856
-  date: '1996-08-13T03:20:00'
-  crc: '0x6796ee38'
+  date: '1996-11-14T10:58:48'
+  crc: '0x345a6373'
 - name: CD\SFX\VC03A.RAW
   size: 12768
   date: '1996-08-12T13:21:04'
   crc: '0xf95377c1'
 - name: CD\SFX\VC03C.RAW
   size: 11904
-  date: '1996-08-13T03:21:40'
-  crc: '0x4274aa2a'
+  date: '1996-11-14T11:00:22'
+  crc: '0xa595cb2c'
 - name: CD\SFX\VC04A.RAW
   size: 10880
   date: '1996-08-12T13:22:00'
   crc: '0x644adb1b'
 - name: CD\SFX\VC04C.RAW
   size: 17840
-  date: '1996-08-13T03:23:26'
-  crc: '0xff077f7a'
+  date: '1996-11-14T11:01:54'
+  crc: '0xcf126596'
 - name: CD\SFX\VC05A.RAW
   size: 15824
   date: '1996-08-12T13:24:00'
   crc: '0xb4e64e48'
 - name: CD\SFX\VC05B.RAW
   size: 19004
-  date: '1996-08-13T03:24:22'
-  crc: '0x5fbda432'
+  date: '1996-11-14T11:02:56'
+  crc: '0x0006412d'
 - name: CD\SFX\VC06A.RAW
   size: 4515
   date: '1996-08-12T13:25:58'
   crc: '0x8fd1da25'
 - name: CD\SFX\VC06C.RAW
   size: 4798
-  date: '1996-08-13T03:26:36'
-  crc: '0x26e868fd'
+  date: '1996-11-14T11:04:22'
+  crc: '0xc27cb5dd'
 - name: CD\SFX\VC07A.RAW
   size: 14421
   date: '1996-08-12T13:27:32'
   crc: '0xda583f96'
 - name: CD\SFX\VC07B.RAW
   size: 12340
-  date: '1996-08-13T03:28:08'
-  crc: '0xdab8ce04'
+  date: '1996-11-14T11:05:18'
+  crc: '0xa1fbab5c'
 - name: CD\SFX\VC08A.RAW
   size: 15008
   date: '1996-08-12T13:29:04'
   crc: '0x1402d8e6'
 - name: CD\SFX\VC08B.RAW
   size: 12886
-  date: '1996-08-13T03:29:28'
-  crc: '0x4f42d399'
+  date: '1996-11-14T11:06:36'
+  crc: '0x86918006'
 - name: CD\SFX\VC09A.RAW
   size: 17876
-  date: '1996-08-13T03:34:14'
-  crc: '0x0ed9c63c'
+  date: '1996-11-14T11:07:20'
+  crc: '0x6bc7afac'
 - name: CD\SFX\VC10A.RAW
   size: 9704
   date: '1996-08-12T13:35:22'
   crc: '0x6ba7d40a'
 - name: CD\SFX\VC10B.RAW
   size: 13017
-  date: '1996-08-13T03:35:44'
-  crc: '0xb3aac50c'
+  date: '1996-11-14T11:08:30'
+  crc: '0xbedd59a8'
 - name: CD\SFX\VC11A.RAW
   size: 10142
   date: '1996-08-12T13:36:52'
   crc: '0xe161d78e'
 - name: CD\SFX\VC11B.RAW
   size: 10552
-  date: '1996-08-13T03:37:28'
-  crc: '0xe72878c1'
+  date: '1996-11-14T11:09:32'
+  crc: '0x1507fd59'
 - name: CD\SFX\VC12A.RAW
   size: 11589
-  date: '1996-08-13T03:38:26'
-  crc: '0x3d502e44'
+  date: '1996-11-14T11:10:02'
+  crc: '0x2c4583c0'
 - name: CD\SFX\VC13A.RAW
   size: 10757
   date: '1996-08-12T13:40:28'
   crc: '0x059cbcad'
 - name: CD\SFX\VC13B.RAW
   size: 10892
-  date: '1996-08-13T03:40:58'
-  crc: '0x6d4b5f95'
+  date: '1996-11-14T11:11:04'
+  crc: '0xd2bac3b3'
 - name: CD\SFX\VC14A.RAW
   size: 10920
-  date: '1996-08-13T03:42:48'
-  crc: '0xccc3c9b1'
+  date: '1996-11-14T11:11:50'
+  crc: '0xe2a9f6a4'
 - name: CD\SFX\VC15A.RAW
   size: 13032
-  date: '1996-08-13T03:44:10'
-  crc: '0x4a25c0ea'
+  date: '1996-11-14T11:12:54'
+  crc: '0x84963362'
 - name: CD\SFX\VC16A.RAW
   size: 16787
-  date: '1996-08-13T03:44:56'
-  crc: '0xc26d4214'
+  date: '1996-11-14T11:13:28'
+  crc: '0xc6a65f28'
 - name: CD\SFX\VC17A.RAW
   size: 12059
-  date: '1996-08-13T03:47:12'
-  crc: '0x8342a1e2'
+  date: '1996-11-14T11:14:40'
+  crc: '0xd76273ce'
 - name: CD\SFX\VC18A.RAW
   size: 15744
   date: '1996-08-12T13:48:32'
   crc: '0xc90ca07d'
 - name: CD\SFX\VC18C.RAW
   size: 13817
-  date: '1996-08-13T03:49:10'
-  crc: '0x5fe39fe6'
+  date: '1996-11-14T11:15:56'
+  crc: '0xf5e919fe'
 - name: CD\SFX\VC19A.RAW
   size: 16960
-  date: '1996-08-13T03:49:54'
-  crc: '0x781b9823'
+  date: '1996-11-14T11:16:24'
+  crc: '0x0ecaaea9'
 - name: CD\SFX\VC20.RAW
   size: 9493
-  date: '1996-08-13T03:50:32'
-  crc: '0xd35f4292'
+  date: '1996-11-14T11:16:56'
+  crc: '0x0ca62ece'
 - name: CD\SFX\VC25.RAW
   size: 21262
   date: '1996-08-12T14:03:00'
   crc: '0x1b23e7c4'
 - name: CD\SFX\VC25C.RAW
   size: 14272
-  date: '1996-08-13T04:04:08'
-  crc: '0x2cfe1a56'
+  date: '1996-11-14T11:20:10'
+  crc: '0x3bdf0604'
 - name: CD\SFX\VC30.RAW
   size: 12908
-  date: '1996-08-13T04:06:56'
-  crc: '0x9f7e30c4'
+  date: '1996-11-14T11:21:24'
+  crc: '0xae50c4da'
 - name: CD\SFX\VC31A.RAW
   size: 8919
-  date: '1996-08-13T04:07:34'
-  crc: '0x9932b9d5'
+  date: '1996-11-14T11:21:36'
+  crc: '0x76c7fbb1'
 - name: CD\SFX\VC32.RAW
   size: 16410
-  date: '1996-08-13T04:08:36'
-  crc: '0x83c6658b'
+  date: '1996-11-14T11:22:02'
+  crc: '0xb37e56ef'
 - name: CD\SFX\VC33.RAW
   size: 12651
-  date: '1996-08-13T04:09:00'
-  crc: '0x8ff913a2'
+  date: '1996-11-14T11:22:14'
+  crc: '0xce3045cb'
 - name: CD\SFX\VC34.RAW
   size: 12688
-  date: '1996-08-13T04:09:34'
-  crc: '0xcc2d8dcb'
+  date: '1996-11-14T11:22:26'
+  crc: '0x50fb6a60'
 - name: CD\SFX\VC35.RAW
   size: 18684
-  date: '1996-08-13T04:10:24'
-  crc: '0x75d62347'
+  date: '1996-11-14T11:22:40'
+  crc: '0xbacdd56d'
 - name: CD\SFX\VC36.RAW
   size: 13449
-  date: '1996-08-13T04:10:56'
-  crc: '0x834da020'
+  date: '1996-11-14T11:22:52'
+  crc: '0xe444c419'
 - name: CD\SFX\VC37.RAW
   size: 17344
-  date: '1996-08-13T04:11:26'
-  crc: '0x54490375'
+  date: '1996-11-14T11:23:12'
+  crc: '0xeb819fea'
 - name: CD\SFX\VC38.RAW
   size: 17072
-  date: '1996-08-13T04:11:48'
-  crc: '0x45903a4a'
+  date: '1996-11-14T11:23:24'
+  crc: '0x973220d8'
 - name: CD\SFX\VC39A.RAW
   size: 24349
-  date: '1996-08-13T04:14:14'
-  crc: '0xbb17ebad'
+  date: '1996-11-14T11:23:36'
+  crc: '0xed9142d6'
 - name: CD\SFX\VC40A.RAW
   size: 20312
   date: '1996-08-12T14:19:26'
   crc: '0x31b45583'
 - name: CD\SFX\VC40B.RAW
   size: 19554
-  date: '1996-08-13T04:22:06'
-  crc: '0x3046999c'
+  date: '1996-11-14T11:24:20'
+  crc: '0xac8ee4d0'
 - name: CD\SFX\VC41.RAW
   size: 25382
-  date: '1996-08-13T04:22:50'
-  crc: '0xe8bd6265'
+  date: '1996-11-14T11:24:32'
+  crc: '0x627fef05'
 - name: CD\SFX\VC42A.RAW
   size: 10225
-  date: '1996-08-13T04:23:12'
-  crc: '0xfd64ae82'
+  date: '1996-11-14T11:24:44'
+  crc: '0x0b5cb145'
 - name: CD\SFX\VC43.RAW
   size: 9570
-  date: '1996-08-13T04:30:18'
-  crc: '0x8faf5cb8'
+  date: '1996-11-14T11:25:12'
+  crc: '0x5e5a8edd'
 - name: DOS4GW.EXE
   size: 265396
-  date: '1996-10-12T13:18:12'
+  date: '1996-10-31T10:04:32'
   crc: '0x5cc34b0f'
 - name: DUKDOS.EXE
-  size: 182539
-  date: '1996-10-30T15:00:02'
-  crc: '0x1f52d70a'
-- name: INFO.BAT
-  size: 135
-  date: '1996-11-07T07:01:26'
-  crc: '0x55840180'
+  size: 182695
+  date: '1996-11-08T16:02:46'
+  crc: '0x4107f468'
+- name: DUKDOS.EX_
+  size: 182695
+  date: '1996-11-08T16:02:46'
+  crc: '0x2efdd1de'
 - name: INST.EXE
   size: 145509
   date: '1996-10-31T22:30:24'
   crc: '0x9e9df2f3'
 - name: INSTALL.BAT
   size: 373
-  date: '1996-10-30T12:14:02'
+  date: '1996-10-31T10:04:32'
   crc: '0xd893fa7e'
-- name: INSTALL.INI
-  size: 66
-  date: '1996-11-08T07:22:18'
-  crc: '0x37b500e7'
 - name: JAMMER.DIG
   size: 3219
-  date: '1995-11-06T09:00:00'
+  date: '1996-10-31T10:04:32'
   crc: '0x230129e0'
-- name: PATH.TXT
-  size: 3
-  date: '1996-11-07T22:09:08'
-  crc: '0xe0ab3b38'
 - name: PROAUDIO.DIG
   size: 2127
-  date: '1995-11-06T09:00:00'
+  date: '1996-10-31T10:04:32'
   crc: '0x4b071066'
 - name: RAP10.DIG
   size: 2849
-  date: '1995-11-06T09:00:00'
+  date: '1996-10-31T10:04:32'
   crc: '0x47373ef0'
 - name: README.TXT
-  size: 7096
-  date: '1996-11-04T17:24:24'
-  crc: '0xc1a8bbc4'
+  size: 7190
+  date: '1996-11-01T12:54:20'
+  crc: '0x6911cfcd'
 - name: SB16.DIG
   size: 2836
-  date: '1995-11-06T09:00:00'
+  date: '1996-10-31T10:04:32'
   crc: '0x6ddaa5d2'
 - name: SBLASTER.DIG
   size: 3125
-  date: '1995-11-06T09:00:00'
+  date: '1996-10-31T10:04:32'
   crc: '0xd1b1a7d7'
 - name: SBPRO.DIG
   size: 2763
-  date: '1995-11-06T09:00:00'
+  date: '1996-10-31T10:04:32'
   crc: '0x1061490f'
 - name: SETSOUND.EXE
   size: 128514
-  date: '1996-10-26T15:34:48'
+  date: '1996-10-31T10:04:36'
   crc: '0xc9101fd2'
+- name: SETUP.BAT
+  size: 588
+  date: '1980-01-01T00:00:00'
+  crc: '0x71018f10'
 - name: SNDSCAPE.DIG
   size: 4171
-  date: '1995-11-06T09:00:00'
+  date: '1996-10-31T10:04:32'
   crc: '0x708a96a2'
 - name: SPWTRIL.EXE
   size: 80838
@@ -2925,45 +3231,53 @@ files:
   size: 16777
   date: '1996-10-31T22:34:04'
   crc: '0xe94a933b'
+- name: T164.EXE
+  size: 773247
+  date: '1980-01-01T00:00:00'
+  crc: '0x0a735207'
 - name: T164.SHR
-  size: 366823
-  date: '1996-11-05T10:56:28'
-  crc: '0x615bcd1d'
+  size: 368871
+  date: '1996-11-14T17:53:16'
+  crc: '0x5bd87fa1'
+- name: T16P.EXE
+  size: 779699
+  date: '1980-01-01T00:00:00'
+  crc: '0x4a853fa1'
 - name: T16P.SHR
-  size: 366778
-  date: '1996-11-05T10:56:32'
-  crc: '0x74a7f23b'
+  size: 368832
+  date: '1996-11-14T17:53:20'
+  crc: '0x68f5500f'
+- name: T84.EXE
+  size: 777343
+  date: '1980-01-01T00:00:00'
+  crc: '0x9a134a29'
 - name: T84.SHR
-  size: 364209
-  date: '1996-11-05T10:56:38'
-  crc: '0x4cfe3755'
+  size: 366300
+  date: '1996-11-14T17:53:24'
+  crc: '0xfccc2751'
+- name: T8P.EXE
+  size: 783283
+  date: '1980-01-01T00:00:00'
+  crc: '0xba46eeaf'
 - name: T8P.SHR
-  size: 364071
-  date: '1996-11-05T10:56:42'
-  crc: '0xda5e8ba2'
-- name: TRILOGY.CFG
-  size: 318
-  date: '1996-11-07T22:10:00'
-  crc: '0x6006af2e'
-- name: TRILOGY.EXE
-  size: 766383
-  date: '1996-11-05T10:45:36'
-  crc: '0xfca9b93e'
+  size: 365987
+  date: '1996-11-14T17:53:30'
+  crc: '0xd0db85c3'
 - name: TRILOGY.ICO
   size: 1662
   date: '1996-10-31T10:04:38'
   crc: '0xe4137415'
 - name: TRILOGY.PIF
   size: 967
-  date: '1996-11-07T22:02:34'
-  crc: '0x8151de51'
+  date: '1996-11-09T11:09:32'
+  crc: '0x8237df69'
 - name: TRILOGY.VMC
   size: 89
   date: '1996-10-31T23:43:02'
   crc: '0xa0bd4627'
 - name: ULTRA.DIG
   size: 9478
-  date: '1995-11-06T09:00:00'
+  date: '1996-10-31T10:04:32'
   crc: '0x430d67f5'
 - name: WTRILOGY.EXE
   size: 232960

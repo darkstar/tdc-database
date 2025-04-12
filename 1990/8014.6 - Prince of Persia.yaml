@@ -1,5 +1,6 @@
-filename: Prince of Persia [h1] (1990)(Brøderbund Software, Inc.) [Adventure, Action].zip
+filename: Prince of Persia v1.0 (Installer) [a1] (1990)(Brøderbund Software, Inc.) [Adventure, Action].zip
 tdc_id: '8014.6'
+parent_id: '8014.35'
 title:
   box: Prince of Persia
 publisher: Brøderbund Software, Inc.
@@ -10,10 +11,17 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:33:38'
-  last_modified: '2019-03-01T18:33:38'
+  last_modified: '2025-02-17T08:45:58'
+version: '1.0'
 type: zip
 tags:
-- Hack: 1
+- Alternate: 1
+media: 720K
+installer: true
+commands:
+  play: PRINCE.EXE
+references:
+  mobygames: https://www.mobygames.com/game/196/prince-of-persia/
 files:
 - name: CDUNGEON.DAT
   size: 9407
@@ -72,9 +80,9 @@ files:
   date: '1990-03-29T00:00:02'
   crc: '0x79de3dcb'
 - name: INSTALL.EXE
-  size: 11481
+  size: 11449
   date: '1990-03-29T00:00:02'
-  crc: '0x5d396264'
+  crc: '0xffef01ff'
 - name: INSTALL.PDM
   size: 4233
   date: '1990-03-29T00:00:02'
@@ -101,12 +109,19 @@ files:
   crc: '0x31793851'
 - name: PRINCE.EXE
   size: 123335
-  date: '1990-04-24T19:36:40'
-  crc: '0x088d495f'
+  date: '1990-03-29T00:00:02'
+  crc: '0x6497fae8'
+- name: PRINCE.EX_
+  size: 123335
+  date: '1990-03-29T00:00:02'
+  crc: '0x01125b88'
 - name: PV.DAT
   size: 25829
   date: '1990-03-29T00:00:02'
   crc: '0x772e7706'
+- name: Prince V.1.0
+  size: 0
+  date: '2014-03-20T11:38:44'
 - name: SHADOW.DAT
   size: 4715
   date: '1990-03-29T00:00:02'

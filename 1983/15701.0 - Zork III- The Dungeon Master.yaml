@@ -1,4 +1,4 @@
-filename: Zork III- The Dungeon Master r16 [DC] (1983)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+filename: Zork III- The Dungeon Master r16-B [DC] (1983)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
 tdc_id: '15701.0'
 parent_id: '15701.6'
 title:
@@ -11,13 +11,16 @@ genre:
 language: English
 date:
   added: '2022-06-10T15:15:52'
-  last_modified: '2022-06-10T15:15:52'
-release: '16'
+  last_modified: '2025-02-06T15:06:49'
+release: 16-B
 type: zip
 tags:
 - DOSConversion
+media: 360K
 commands:
   play: ZORK3.COM
+references:
+  mobygames: https://www.mobygames.com/game/53/zork-iii-the-dungeon-master/
 files:
 - name: ZORK3.COM
   size: 12928

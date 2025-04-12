@@ -1,1906 +1,1913 @@
-filename: Bookie Bookworm- Little Red Riding Hood (Installer) [SW][b1] (1994)(Cloud Nine Creative Group) [Educational].zip
+filename: Bookie Bookworm- Little Red Riding Hood v1.0 (Installer) (1994)(Cloud Nine Creative Group) [Educational].zip
 tdc_id: '8819.0'
 title:
-  screen: 'Bookie Bookworm: Little Red Riding Hood'
+  box: 'Bookie Bookworm: Little Red Riding Hood'
 publisher: Cloud Nine Creative Group
 year: '1994'
 genre: Educational
 language: English
 date:
   added: '2019-03-01T21:54:54'
-  last_modified: '2019-03-01T21:54:54'
+  last_modified: '2025-01-28T15:17:10'
+version: '1.0'
 type: zip
-tags:
-- Shareware
-- Bad: 1
-media: Download
 installer: true
+commands:
+  play: INSTALL.EXE
 files:
-- name: bookie.exe
+- name: BOOKIE.EXE
   size: 82440
-  date: '1999-12-31T19:00:00'
+  date: '1994-11-20T19:35:48'
   crc: '0xb0b1885d'
-- name: bookie.ico
+- name: BOOKIE.ICO
   size: 766
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xf6d38fb0'
-- name: bookiec.gr
+- name: BOOKIE.PIF
+  size: 545
+  date: '1994-09-09T18:00:02'
+  crc: '0xde95f382'
+- name: BOOKIEC.GR
   size: 786
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xc431662f'
-- name: bookied.gr
+- name: BOOKIED.GR
   size: 786
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x9c310188'
-- name: buttons.img
+- name: BUTTONS.IMG
   size: 61321
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x042e8d8c'
-- name: cover.img
+- name: COVER.IMG
   size: 45866
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x3bc86b73'
-- name: covers\
+- name: COVERS\
   size: 0
-  date: '2013-07-07T13:06:16'
-- name: covers\01.bbp
+  date: '1994-09-09T18:00:02'
+- name: COVERS\01.BBP
   size: 7896
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0xc3fdc794'
-- name: covers\01.bbw
+- name: COVERS\01.BBW
   size: 5785
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0x90eb5878'
-- name: covers\02.bbp
+- name: COVERS\02.BBP
   size: 6323
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0xf07a00f2'
-- name: covers\02.bbw
+- name: COVERS\02.BBW
   size: 7842
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0xe52eb339'
-- name: covers\03.bbp
+- name: COVERS\03.BBP
   size: 9532
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0xb4519168'
-- name: covers\03.bbw
+- name: COVERS\03.BBW
   size: 6743
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0x3c768237'
-- name: covers\04.bbp
+- name: COVERS\04.BBP
   size: 11677
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0xdbd48a71'
-- name: covers\04.bbw
+- name: COVERS\04.BBW
   size: 5416
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0xc4686288'
-- name: covers\05.bbp
+- name: COVERS\05.BBP
   size: 11473
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0x76686dad'
-- name: covers\05.bbw
+- name: COVERS\05.BBW
   size: 6262
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0xc7e6f1a8'
-- name: covers\06.bbp
+- name: COVERS\06.BBP
   size: 6717
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0x60d70aab'
-- name: covers\06.bbw
+- name: COVERS\06.BBW
   size: 5543
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0xcbcd26a3'
-- name: covers\07.bbp
+- name: COVERS\07.BBP
   size: 4856
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0xb124cdab'
-- name: covers\07.bbw
+- name: COVERS\07.BBW
   size: 4783
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0xd4c814fc'
-- name: covers\covers.img
+- name: COVERS\COVERS.IMG
   size: 78656
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0xf2a858be'
-- name: covers\covers.txt
+- name: COVERS\COVERS.TXT
   size: 3203
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0x954aca62'
-- name: covers\dist01.img
+- name: COVERS\DIST01.IMG
   size: 4654
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0x1752122d'
-- name: covers\order01.txt
+- name: COVERS\ORDER01.TXT
   size: 17
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0xbd8d5df5'
-- name: covers\original.col
+- name: COVERS\ORIGINAL.COL
   size: 4096
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0x462486a5'
-- name: covers\reg01.txt
+- name: COVERS\REG01.TXT
   size: 17
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0xbc2f8682'
-- name: help\
+- name: HELP\
   size: 0
-  date: '2013-07-07T13:06:16'
-- name: help\books.bbw
+  date: '1994-09-09T18:00:00'
+- name: HELP\BOOKS.BBW
   size: 3888
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0x97023cfa'
-- name: help\boxaway.bbw
+- name: HELP\BOXAWAY.BBW
   size: 3782
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0xa12eb1ba'
-- name: help\boxaway1.bbw
+- name: HELP\BOXAWAY1.BBW
   size: 16363
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0xf36e9c24'
-- name: help\boxout.bbw
+- name: HELP\BOXOUT.BBW
   size: 4525
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0x25b3deb0'
-- name: help\boxout1.bbw
+- name: HELP\BOXOUT1.BBW
   size: 12748
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0xc9b99feb'
-- name: help\clear.bbw
+- name: HELP\CLEAR.BBW
   size: 4079
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0xed528329'
-- name: help\exit.bbw
+- name: HELP\EXIT.BBW
   size: 5881
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0x195494a0'
-- name: help\fill.bbw
+- name: HELP\FILL.BBW
   size: 2777
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0x483bc484'
-- name: help\helpbutt.bbw
+- name: HELP\HELPBUTT.BBW
   size: 9764
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0x9eb26e5d'
-- name: help\helpcray.bbw
+- name: HELP\HELPCRAY.BBW
   size: 6331
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0x15ee9d44'
-- name: help\helpfact.bbw
+- name: HELP\HELPFACT.BBW
   size: 23939
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0x9c7ed5dc'
-- name: help\helphint.bbw
+- name: HELP\HELPHINT.BBW
   size: 5137
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0x85d265f5'
-- name: help\helpmout.bbw
+- name: HELP\HELPMOUT.BBW
   size: 5559
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0xfa993b07'
-- name: help\helppict.bbw
+- name: HELP\HELPPICT.BBW
   size: 12747
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0xdb34d389'
-- name: help\helpreg.bbw
+- name: HELP\HELPREG.BBW
   size: 14488
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0x8c3fc351'
-- name: help\helptip.bbw
+- name: HELP\HELPTIP.BBW
   size: 7441
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0xe6240f43'
-- name: help\helpword.bbw
+- name: HELP\HELPWORD.BBW
   size: 5796
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0x267c43ce'
-- name: help\insert.bbw
+- name: HELP\INSERT.BBW
   size: 14037
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0x6e50aa2c'
-- name: help\ninstall.bbw
+- name: HELP\NINSTALL.BBW
   size: 16367
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0xf159d316'
-- name: help\nothing.bbw
+- name: HELP\NOTHING.BBW
   size: 2016
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0x6438e8af'
-- name: help\open1st.bbw
+- name: HELP\OPEN1ST.BBW
   size: 11154
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0xd7f4a67c'
-- name: help\popup.bbw
+- name: HELP\POPUP.BBW
   size: 12845
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0xf186aa18'
-- name: help\read.bbw
+- name: HELP\READ.BBW
   size: 2853
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0x80ab779d'
-- name: help\restore.bbw
+- name: HELP\RESTORE.BBW
   size: 4286
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0xc5e82ac3'
-- name: help\theme.bbw
+- name: HELP\THEME.BBW
   size: 73653
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0xc47c4f49'
-- name: help\turn.bbw
+- name: HELP\TURN.BBW
   size: 3396
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0xea0d84fb'
-- name: help\word.bbw
+- name: HELP\WORD.BBW
   size: 4477
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0x385260ee'
-- name: install.exe
+- name: INSTALL.EXE
   size: 97096
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x4aaaaebc'
-- name: library\
+- name: INSTALL.PIF
+  size: 545
+  date: '1994-09-09T18:00:02'
+  crc: '0x80cecf34'
+- name: LIBRARY\
   size: 0
-  date: '2013-07-07T13:06:16'
-- name: library\applause.bbw
+  date: '1994-09-09T18:00:02'
+- name: LIBRARY\APPLAUSE.BBW
   size: 8187
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0x473cf870'
-- name: library\arrow.bbw
+- name: LIBRARY\ARROW.BBW
   size: 5062
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0xac3cf469'
-- name: library\babycry.bbw
+- name: LIBRARY\BABYCRY.BBW
   size: 6820
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0xd1529025'
-- name: library\bell.bbw
+- name: LIBRARY\BELL.BBW
   size: 4622
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0xe908b9c2'
-- name: library\bikehorn.bbw
+- name: LIBRARY\BIKEHORN.BBW
   size: 2448
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0xf56e6147'
-- name: library\boing.bbw
+- name: LIBRARY\BOING.BBW
   size: 5030
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0x4e7587f1'
-- name: library\boing1.bbw
+- name: LIBRARY\BOING1.BBW
   size: 3698
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0x05316475'
-- name: library\boingzng.bbw
+- name: LIBRARY\BOINGZNG.BBW
   size: 2864
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0x447bacfb'
-- name: library\bonkcuck.bbw
+- name: LIBRARY\BONKCUCK.BBW
   size: 2618
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0xf06b196a'
-- name: library\boo.bbw
+- name: LIBRARY\BOO.BBW
   size: 6569
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0xab22c657'
-- name: library\bowling.bbw
+- name: LIBRARY\BOWLING.BBW
   size: 5663
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0x7661bebc'
-- name: library\brakes.bbw
+- name: LIBRARY\BRAKES.BBW
   size: 5798
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0x540270c8'
-- name: library\bubbles.bbw
+- name: LIBRARY\BUBBLES.BBW
   size: 3436
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0x04a4398c'
-- name: library\burp.bbw
+- name: LIBRARY\BURP.BBW
   size: 723
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0xb576bb85'
-- name: library\canopen.bbw
+- name: LIBRARY\CANOPEN.BBW
   size: 599
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0xfdad4a27'
-- name: library\carhorn.bbw
+- name: LIBRARY\CARHORN.BBW
   size: 2816
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0x71aebe70'
-- name: library\cashreg.bbw
+- name: LIBRARY\CASHREG.BBW
   size: 3713
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0x73f2f685'
-- name: library\cat.bbw
+- name: LIBRARY\CAT.BBW
   size: 2913
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x4f8cc827'
-- name: library\cheer.bbw
+- name: LIBRARY\CHEER.BBW
   size: 9598
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x0b463a85'
-- name: library\chicken.bbw
+- name: LIBRARY\CHICKEN.BBW
   size: 5667
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xc3977cc0'
-- name: library\chirp.bbw
+- name: LIBRARY\CHIRP.BBW
   size: 7263
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x22bdaa13'
-- name: library\copter.bbw
+- name: LIBRARY\COPTER.BBW
   size: 7051
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x1fd1ffd3'
-- name: library\coughgag.bbw
+- name: LIBRARY\COUGHGAG.BBW
   size: 8614
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x836083ba'
-- name: library\cow.bbw
+- name: LIBRARY\COW.BBW
   size: 7683
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x0a928517'
-- name: library\cracking.bbw
+- name: LIBRARY\CRACKING.BBW
   size: 2038
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x7758cf5d'
-- name: library\crash.bbw
+- name: LIBRARY\CRASH.BBW
   size: 4321
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xf7a348c7'
-- name: library\crazygun.bbw
+- name: LIBRARY\CRAZYGUN.BBW
   size: 4699
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x37ae5b4e'
-- name: library\creak.bbw
+- name: LIBRARY\CREAK.BBW
   size: 7342
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xa7a2ee51'
-- name: library\crying.bbw
+- name: LIBRARY\CRYING.BBW
   size: 8737
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xa464f331'
-- name: library\cuckoo.bbw
+- name: LIBRARY\CUCKOO.BBW
   size: 1360
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xb7d0cfde'
-- name: library\cussing.bbw
+- name: LIBRARY\CUSSING.BBW
   size: 4964
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xd41ce467'
-- name: library\cymbal.bbw
+- name: LIBRARY\CYMBAL.BBW
   size: 3554
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x71309e74'
-- name: library\doorbell.bbw
+- name: LIBRARY\DOORBELL.BBW
   size: 5179
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x00d21de2'
-- name: library\drum.bbw
+- name: LIBRARY\DRUM.BBW
   size: 3577
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xa35d4238'
-- name: library\dumbsong.bbw
+- name: LIBRARY\DUMBSONG.BBW
   size: 7213
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xa3829038'
-- name: library\dumlaugh.bbw
+- name: LIBRARY\DUMLAUGH.BBW
   size: 7017
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x3eb6c7ae'
-- name: library\eachpage.bbw
+- name: LIBRARY\EACHPAGE.BBW
   size: 10681
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:06'
   crc: '0xa440d8a9'
-- name: library\eating.bbw
+- name: LIBRARY\EATING.BBW
   size: 4490
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xa8c97d9b'
-- name: library\flap.bbw
+- name: LIBRARY\FLAP.BBW
   size: 657
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x0eb80afd'
-- name: library\flapping.bbw
+- name: LIBRARY\FLAPPING.BBW
   size: 7017
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x19c6b870'
-- name: library\footstep.bbw
+- name: LIBRARY\FOOTSTEP.BBW
   size: 9215
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x75992ddb'
-- name: library\foundme.bbw
+- name: LIBRARY\FOUNDME.BBW
   size: 7315
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x38386adf'
-- name: library\glassbrk.bbw
+- name: LIBRARY\GLASSBRK.BBW
   size: 3882
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x8c4d3e44'
-- name: library\gong.bbw
+- name: LIBRARY\GONG.BBW
   size: 4806
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xf7122001'
-- name: library\gotagain.bbw
+- name: LIBRARY\GOTAGAIN.BBW
   size: 9442
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x88da5698'
-- name: library\gotme.bbw
+- name: LIBRARY\GOTME.BBW
   size: 6154
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xc198d599'
-- name: library\groan.bbw
+- name: LIBRARY\GROAN.BBW
   size: 3707
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x372eb3e5'
-- name: library\growl.bbw
+- name: LIBRARY\GROWL.BBW
   size: 6011
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x73b80566'
-- name: library\guitar.bbw
+- name: LIBRARY\GUITAR.BBW
   size: 9982
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xecaad626'
-- name: library\gulp.bbw
+- name: LIBRARY\GULP.BBW
   size: 2634
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xa9c4c29d'
-- name: library\harp.bbw
+- name: LIBRARY\HARP.BBW
   size: 8546
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x69de9907'
-- name: library\help.bbw
+- name: LIBRARY\HELP.BBW
   size: 4432
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x99995e2b'
-- name: library\hideseek.bbw
+- name: LIBRARY\HIDESEEK.BBW
   size: 6899
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xbff52cec'
-- name: library\hmmm.bbw
+- name: LIBRARY\HMMM.BBW
   size: 4015
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xe5436ddd'
-- name: library\huh.bbw
+- name: LIBRARY\HUH.BBW
   size: 1886
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xaa0ea0b2'
-- name: library\injured.bbw
+- name: LIBRARY\INJURED.BBW
   size: 2490
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xa639d66d'
-- name: library\laughhi.bbw
+- name: LIBRARY\LAUGHHI.BBW
   size: 6027
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x315d18cf'
-- name: library\laughs.bbw
+- name: LIBRARY\LAUGHS.BBW
   size: 7983
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x9cc0e23b'
-- name: library\magic1.bbw
+- name: LIBRARY\MAGIC1.BBW
   size: 5206
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:06'
   crc: '0x38764dbb'
-- name: library\magic2.bbw
+- name: LIBRARY\MAGIC2.BBW
   size: 6934
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:06'
   crc: '0xcb66a963'
-- name: library\magic3.bbw
+- name: LIBRARY\MAGIC3.BBW
   size: 7305
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:06'
   crc: '0x53393745'
-- name: library\monkey.bbw
+- name: LIBRARY\MONKEY.BBW
   size: 5034
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xd07f2802'
-- name: library\nextpage.bbw
+- name: LIBRARY\NEXTPAGE.BBW
   size: 7614
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xe9135d6a'
-- name: library\organ.bbw
+- name: LIBRARY\ORGAN.BBW
   size: 5602
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xb4cbf922'
-- name: library\peekaboo.bbw
+- name: LIBRARY\PEEKABOO.BBW
   size: 7329
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:06'
   crc: '0x008db93d'
-- name: library\ping.bbw
+- name: LIBRARY\PING.BBW
   size: 2672
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x4ccf7e53'
-- name: library\plane.bbw
+- name: LIBRARY\PLANE.BBW
   size: 7463
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x70ac37eb'
-- name: library\pop.bbw
+- name: LIBRARY\POP.BBW
   size: 176
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x160f32ac'
-- name: library\rasberry.bbw
+- name: LIBRARY\RASBERRY.BBW
   size: 4147
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x6e57152f'
-- name: library\rattle.bbw
+- name: LIBRARY\RATTLE.BBW
   size: 3336
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x8b4cce45'
-- name: library\razor.bbw
+- name: LIBRARY\RAZOR.BBW
   size: 5540
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x05c49a50'
-- name: library\revelry.bbw
+- name: LIBRARY\REVELRY.BBW
   size: 5384
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xafeb4fdf'
-- name: library\ricochet.bbw
+- name: LIBRARY\RICOCHET.BBW
   size: 2285
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x15a15a92'
-- name: library\rimshot.bbw
+- name: LIBRARY\RIMSHOT.BBW
   size: 3422
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xa166acf5'
-- name: library\running.bbw
+- name: LIBRARY\RUNNING.BBW
   size: 5875
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xa19cf330'
-- name: library\scary.bbw
+- name: LIBRARY\SCARY.BBW
   size: 6134
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:06'
   crc: '0xf696b075'
-- name: library\shiphorn.bbw
+- name: LIBRARY\SHIPHORN.BBW
   size: 7937
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xfcfd4ee5'
-- name: library\siren.bbw
+- name: LIBRARY\SIREN.BBW
   size: 5680
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xf1a86cf1'
-- name: library\snake.bbw
+- name: LIBRARY\SNAKE.BBW
   size: 4605
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xbfad36ef'
-- name: library\snicker.bbw
+- name: LIBRARY\SNICKER.BBW
   size: 6331
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x6aab7023'
-- name: library\snip.bbw
+- name: LIBRARY\SNIP.BBW
   size: 3011
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xe3acb14d'
-- name: library\snore.bbw
+- name: LIBRARY\SNORE.BBW
   size: 7234
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x35c6c6f7'
-- name: library\splash.bbw
+- name: LIBRARY\SPLASH.BBW
   size: 2416
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x0d314f4d'
-- name: library\sproing.bbw
+- name: LIBRARY\SPROING.BBW
   size: 3204
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x3c830f23'
-- name: library\squawk.bbw
+- name: LIBRARY\SQUAWK.BBW
   size: 2533
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x8d5e1754'
-- name: library\stretch.bbw
+- name: LIBRARY\STRETCH.BBW
   size: 8793
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xcb376395'
-- name: library\subhorn.bbw
+- name: LIBRARY\SUBHORN.BBW
   size: 3236
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x5e64bfa3'
-- name: library\suzuki.bbw
+- name: LIBRARY\SUZUKI.BBW
   size: 5145
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x44ce31f4'
-- name: library\taps.bbw
+- name: LIBRARY\TAPS.BBW
   size: 8763
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x7081ff29'
-- name: library\timpani.bbw
+- name: LIBRARY\TIMPANI.BBW
   size: 7266
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x5403b5b6'
-- name: library\toot.bbw
+- name: LIBRARY\TOOT.BBW
   size: 2205
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xf605fe9c'
-- name: library\train.bbw
+- name: LIBRARY\TRAIN.BBW
   size: 10232
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x0c2c80c8'
-- name: library\trumpets.bbw
+- name: LIBRARY\TRUMPETS.BBW
   size: 8314
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xec566b39'
-- name: library\updown.bbw
+- name: LIBRARY\UPDOWN.BBW
   size: 4461
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x23764db2'
-- name: library\warning.bbw
+- name: LIBRARY\WARNING.BBW
   size: 5260
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xdbdb3240'
-- name: library\whee.bbw
+- name: LIBRARY\WHEE.BBW
   size: 576
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xf1e95443'
-- name: library\whisdown.bbw
+- name: LIBRARY\WHISDOWN.BBW
   size: 3477
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xc7cebfa2'
-- name: library\whistle.bbw
+- name: LIBRARY\WHISTLE.BBW
   size: 5579
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:06'
   crc: '0xa3f500d7'
-- name: library\whisup.bbw
+- name: LIBRARY\WHISUP.BBW
   size: 3858
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x0b5f6550'
-- name: library\whoopie.bbw
+- name: LIBRARY\WHOOPIE.BBW
   size: 6935
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x63890efd'
-- name: library\yehah.bbw
+- name: LIBRARY\YEHAH.BBW
   size: 6572
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xfbee3034'
-- name: library\yell.bbw
+- name: LIBRARY\YELL.BBW
   size: 4470
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x4cf5cec2'
-- name: library\yeow.bbw
+- name: LIBRARY\YEOW.BBW
   size: 6848
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x86543321'
-- name: library\yuck.bbw
+- name: LIBRARY\YUCK.BBW
   size: 3207
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x2d2c4204'
-- name: mouse.img
+- name: MOUSE.IMG
   size: 7378
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xa985c06f'
-- name: readme.txt
+- name: README.TXT
   size: 5260
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xebbe9a0a'
-- name: redhood\
+- name: REDHOOD\
   size: 0
-  date: '2013-07-07T13:06:16'
-- name: redhood\&andy.bbw
+  date: '1994-09-09T14:00:02'
+- name: REDHOOD\&ANDY.BBW
   size: 5045
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0xa451274c'
-- name: redhood\&apple.bbw
+- name: REDHOOD\&APPLE.BBW
   size: 7792
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0xe4ba2833'
-- name: redhood\&dog.bbw
+- name: REDHOOD\&DOG.BBW
   size: 5109
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x13610495'
-- name: redhood\&dontst.bbw
+- name: REDHOOD\&DONTST.BBW
   size: 4619
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0xc890086c'
-- name: redhood\&goofy.bbw
+- name: REDHOOD\&GOOFY.BBW
   size: 6483
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x981d7448'
-- name: redhood\&hellopo.bbw
+- name: REDHOOD\&HELLOPO.BBW
   size: 3950
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0xfb60275d'
-- name: redhood\&heybud.bbw
+- name: REDHOOD\&HEYBUD.BBW
   size: 2734
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x81458029'
-- name: redhood\&knocks.bbw
+- name: REDHOOD\&KNOCKS.BBW
   size: 2683
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0xa99639c8'
-- name: redhood\&leaf.bbw
+- name: REDHOOD\&LEAF.BBW
   size: 3418
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x0c7043f1'
-- name: redhood\&monkeys.bbw
+- name: REDHOOD\&MONKEYS.BBW
   size: 7088
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0xaa3501ad'
-- name: redhood\&opps.bbw
+- name: REDHOOD\&OPPS.BBW
   size: 4165
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0xf6f52276'
-- name: redhood\&peeyew.bbw
+- name: REDHOOD\&PEEYEW.BBW
   size: 8590
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0xc466cc4c'
-- name: redhood\&redis.bbw
+- name: REDHOOD\&REDIS.BBW
   size: 5539
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x71ba7242'
-- name: redhood\&someth.bbw
+- name: REDHOOD\&SOMETH.BBW
   size: 7427
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x59d44665'
-- name: redhood\&taketh.bbw
+- name: REDHOOD\&TAKETH.BBW
   size: 6741
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x6e4b0636'
-- name: redhood\&waita.bbw
+- name: REDHOOD\&WAITA.BBW
   size: 6843
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x3dfdbc0f'
-- name: redhood\&wayto.bbw
+- name: REDHOOD\&WAYTO.BBW
   size: 6231
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x4f580d6c'
-- name: redhood\&wolfon.bbw
+- name: REDHOOD\&WOLFON.BBW
   size: 5152
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x526bff3b'
-- name: redhood\&yikes.bbw
+- name: REDHOOD\&YIKES.BBW
   size: 2677
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x22dffb54'
-- name: redhood\&yuk.bbw
+- name: REDHOOD\&YUK.BBW
   size: 7909
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0xc7077a83'
-- name: redhood\01.bbp
+- name: REDHOOD\01.BBP
   size: 11697
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0xc8a1d913'
-- name: redhood\01.bbw
+- name: REDHOOD\01.BBW
   size: 40691
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0xdcc7c65c'
-- name: redhood\0101.bba
+- name: REDHOOD\0101.BBA
   size: 1321
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0xa40a5dac'
-- name: redhood\0102.bba
+- name: REDHOOD\0102.BBA
   size: 3116
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x36fdf268'
-- name: redhood\0103.bba
+- name: REDHOOD\0103.BBA
   size: 1021
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0xa4b5d87d'
-- name: redhood\0104.bba
+- name: REDHOOD\0104.BBA
   size: 1033
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x5c7582dc'
-- name: redhood\0105.bba
+- name: REDHOOD\0105.BBA
   size: 1384
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x85692567'
-- name: redhood\0106.bba
+- name: REDHOOD\0106.BBA
   size: 1510
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x3b0c2933'
-- name: redhood\0107.bba
+- name: REDHOOD\0107.BBA
   size: 1677
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x0a283eb6'
-- name: redhood\0108.bba
+- name: REDHOOD\0108.BBA
   size: 730
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0xf0bd9aec'
-- name: redhood\0109.bba
+- name: REDHOOD\0109.BBA
   size: 1983
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x26241743'
-- name: redhood\0110.bba
+- name: REDHOOD\0110.BBA
   size: 955
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0xe1156b3d'
-- name: redhood\0111.bba
+- name: REDHOOD\0111.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x50253589'
-- name: redhood\0112.bba
+- name: REDHOOD\0112.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x782525bc'
-- name: redhood\0113.bba
+- name: REDHOOD\0113.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0xd6f5d790'
-- name: redhood\0114.bba
+- name: REDHOOD\0114.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x282505d6'
-- name: redhood\02.bbp
+- name: REDHOOD\02.BBP
   size: 12872
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0xd27b6a38'
-- name: redhood\02.bbw
+- name: REDHOOD\02.BBW
   size: 36116
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0x8c52fea3'
-- name: redhood\0201.bba
+- name: REDHOOD\0201.BBA
   size: 1645
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x45f810fb'
-- name: redhood\0202.bba
+- name: REDHOOD\0202.BBA
   size: 1002
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x5db9bb6c'
-- name: redhood\0203.bba
+- name: REDHOOD\0203.BBA
   size: 1824
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0xd7e40516'
-- name: redhood\0204.bba
+- name: REDHOOD\0204.BBA
   size: 2185
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x9383f420'
-- name: redhood\0205.bba
+- name: REDHOOD\0205.BBA
   size: 1670
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x8193913a'
-- name: redhood\0206.bba
+- name: REDHOOD\0206.BBA
   size: 877
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x4d93f34a'
-- name: redhood\0207.bba
+- name: REDHOOD\0207.BBA
   size: 1145
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x0f74ed4a'
-- name: redhood\0208.bba
+- name: REDHOOD\0208.BBA
   size: 972
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x44214425'
-- name: redhood\0209.bba
+- name: REDHOOD\0209.BBA
   size: 919
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x519a2f24'
-- name: redhood\0210.bba
+- name: REDHOOD\0210.BBA
   size: 890
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0xe3f0be64'
-- name: redhood\0211.bba
+- name: REDHOOD\0211.BBA
   size: 551
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0xc109913d'
-- name: redhood\0212.bba
+- name: REDHOOD\0212.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0xc7a3df6e'
-- name: redhood\0213.bba
+- name: REDHOOD\0213.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x69732d42'
-- name: redhood\0214.bba
+- name: REDHOOD\0214.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x97a3ff04'
-- name: redhood\03.bbp
+- name: REDHOOD\03.BBP
   size: 12616
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x578d481f'
-- name: redhood\03.bbw
+- name: REDHOOD\03.BBW
   size: 33293
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0xeb58d667'
-- name: redhood\0301.bba
+- name: REDHOOD\0301.BBA
   size: 1570
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x71b54d69'
-- name: redhood\0302.bba
+- name: REDHOOD\0302.BBA
   size: 2696
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x5aa40b04'
-- name: redhood\0303.bba
+- name: REDHOOD\0303.BBA
   size: 1076
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x8dce4761'
-- name: redhood\0304.bba
+- name: REDHOOD\0304.BBA
   size: 1733
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x7f7b8b90'
-- name: redhood\0305.bba
+- name: REDHOOD\0305.BBA
   size: 1982
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0xf29db0e5'
-- name: redhood\0306.bba
+- name: REDHOOD\0306.BBA
   size: 1153
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0xaeb9a82a'
-- name: redhood\0307.bba
+- name: REDHOOD\0307.BBA
   size: 2685
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x88e9f50b'
-- name: redhood\0308.bba
+- name: REDHOOD\0308.BBA
   size: 2401
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0xd9b2c9bd'
-- name: redhood\0309.bba
+- name: REDHOOD\0309.BBA
   size: 1609
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x4b239ff1'
-- name: redhood\0310.bba
+- name: REDHOOD\0310.BBA
   size: 512
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0xafff6b66'
-- name: redhood\0311.bba
+- name: REDHOOD\0311.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x85219915'
-- name: redhood\0312.bba
+- name: REDHOOD\0312.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0xad218920'
-- name: redhood\0313.bba
+- name: REDHOOD\0313.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x03f17b0c'
-- name: redhood\0314.bba
+- name: REDHOOD\0314.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0xfd21a94a'
-- name: redhood\04.bbp
+- name: REDHOOD\04.BBP
   size: 11049
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0xe8df9686'
-- name: redhood\04.bbw
+- name: REDHOOD\04.BBW
   size: 40866
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0xf4d1b835'
-- name: redhood\0401.bba
+- name: REDHOOD\0401.BBA
   size: 1441
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0xcc710b74'
-- name: redhood\0402.bba
+- name: REDHOOD\0402.BBA
   size: 1745
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x0fd10936'
-- name: redhood\0403.bba
+- name: REDHOOD\0403.BBA
   size: 2724
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x6d640c69'
-- name: redhood\0404.bba
+- name: REDHOOD\0404.BBA
   size: 2869
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x5dd0b26e'
-- name: redhood\0405.bba
+- name: REDHOOD\0405.BBA
   size: 935
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0xa474ae1f'
-- name: redhood\0406.bba
+- name: REDHOOD\0406.BBA
   size: 1373
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x8adbde0d'
-- name: redhood\0407.bba
+- name: REDHOOD\0407.BBA
   size: 2018
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0xe70542d3'
-- name: redhood\0408.bba
+- name: REDHOOD\0408.BBA
   size: 1477
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x2be3fa6a'
-- name: redhood\0409.bba
+- name: REDHOOD\0409.BBA
   size: 904
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x81ee8814'
-- name: redhood\0410.bba
+- name: REDHOOD\0410.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0xe50fce92'
-- name: redhood\0411.bba
+- name: REDHOOD\0411.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x4bdf3cbe'
-- name: redhood\0412.bba
+- name: REDHOOD\0412.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x63df2c8b'
-- name: redhood\0413.bba
+- name: REDHOOD\0413.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0xcd0fdea7'
-- name: redhood\0414.bba
+- name: REDHOOD\0414.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x33df0ce1'
-- name: redhood\05.bbp
+- name: REDHOOD\05.BBP
   size: 11598
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x3203c4de'
-- name: redhood\05.bbw
+- name: REDHOOD\05.BBW
   size: 38863
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0xb82ce15f'
-- name: redhood\0501.bba
+- name: REDHOOD\0501.BBA
   size: 1118
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0xdb8cab4f'
-- name: redhood\0502.bba
+- name: REDHOOD\0502.BBA
   size: 1035
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0xc1a70a29'
-- name: redhood\0503.bba
+- name: REDHOOD\0503.BBA
   size: 1383
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x87f93d54'
-- name: redhood\0504.bba
+- name: REDHOOD\0504.BBA
   size: 3376
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x5c71eb2b'
-- name: redhood\0505.bba
+- name: REDHOOD\0505.BBA
   size: 1560
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0xd7e91d43'
-- name: redhood\0506.bba
+- name: REDHOOD\0506.BBA
   size: 440
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x9c8e9921'
-- name: redhood\0507.bba
+- name: REDHOOD\0507.BBA
   size: 1775
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0xad31a3ec'
-- name: redhood\0508.bba
+- name: REDHOOD\0508.BBA
   size: 1475
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x4bfcf2a6'
-- name: redhood\0509.bba
+- name: REDHOOD\0509.BBA
   size: 967
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x09d8c166'
-- name: redhood\0510.bba
+- name: REDHOOD\0510.BBA
   size: 766
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0xbd59dd35'
-- name: redhood\0511.bba
+- name: REDHOOD\0511.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x215d6af0'
-- name: redhood\0512.bba
+- name: REDHOOD\0512.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x095d7ac5'
-- name: redhood\0513.bba
+- name: REDHOOD\0513.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0xa78d88e9'
-- name: redhood\0514.bba
+- name: REDHOOD\0514.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x595d5aaf'
-- name: redhood\06.bbp
+- name: REDHOOD\06.BBP
   size: 11818
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x55a322d8'
-- name: redhood\06.bbw
+- name: REDHOOD\06.BBW
   size: 44162
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0xf8260b89'
-- name: redhood\0601.bba
+- name: REDHOOD\0601.BBA
   size: 523
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0xe5305e02'
-- name: redhood\0602.bba
+- name: REDHOOD\0602.BBA
   size: 1051
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x78bad5e7'
-- name: redhood\0603.bba
+- name: REDHOOD\0603.BBA
   size: 2081
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x5b824843'
-- name: redhood\0604.bba
+- name: REDHOOD\0604.BBA
   size: 1076
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0xf94308c6'
-- name: redhood\0605.bba
+- name: REDHOOD\0605.BBA
   size: 1284
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x8182c4cc'
-- name: redhood\0606.bba
+- name: REDHOOD\0606.BBA
   size: 1058
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x92e2c27d'
-- name: redhood\0607.bba
+- name: REDHOOD\0607.BBA
   size: 1081
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0xcd8c4ace'
-- name: redhood\0608.bba
+- name: REDHOOD\0608.BBA
   size: 2273
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0xbca19530'
-- name: redhood\0609.bba
+- name: REDHOOD\0609.BBA
   size: 1231
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x13902a12'
-- name: redhood\0610.bba
+- name: REDHOOD\0610.BBA
   size: 655
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x75778f36'
-- name: redhood\0611.bba
+- name: REDHOOD\0611.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x9edb9022'
-- name: redhood\0612.bba
+- name: REDHOOD\0612.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0xb6db8017'
-- name: redhood\0613.bba
+- name: REDHOOD\0613.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x180b723b'
-- name: redhood\0614.bba
+- name: REDHOOD\0614.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0xe6dba07d'
-- name: redhood\07.bbp
+- name: REDHOOD\07.BBP
   size: 12406
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x0a836398'
-- name: redhood\07.bbw
+- name: REDHOOD\07.BBW
   size: 35210
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0x4fc29d5b'
-- name: redhood\0701.bba
+- name: REDHOOD\0701.BBA
   size: 1650
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x70705e16'
-- name: redhood\0702.bba
+- name: REDHOOD\0702.BBA
   size: 1796
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0xd9196cc1'
-- name: redhood\0703.bba
+- name: REDHOOD\0703.BBA
   size: 3596
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x7a125fac'
-- name: redhood\0704.bba
+- name: REDHOOD\0704.BBA
   size: 1360
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0xe3f5df6a'
-- name: redhood\0705.bba
+- name: REDHOOD\0705.BBA
   size: 911
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x71ef491e'
-- name: redhood\0706.bba
+- name: REDHOOD\0706.BBA
   size: 1193
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x8ba5bf8c'
-- name: redhood\0707.bba
+- name: REDHOOD\0707.BBA
   size: 1160
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0xe7363d75'
-- name: redhood\0708.bba
+- name: REDHOOD\0708.BBA
   size: 1244
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x060e189b'
-- name: redhood\0709.bba
+- name: REDHOOD\0709.BBA
   size: 758
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x314e58b7'
-- name: redhood\0710.bba
+- name: REDHOOD\0710.BBA
   size: 631
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0xe48070cb'
-- name: redhood\0711.bba
+- name: REDHOOD\0711.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0xf459c66c'
-- name: redhood\0712.bba
+- name: REDHOOD\0712.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0xdc59d659'
-- name: redhood\0713.bba
+- name: REDHOOD\0713.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x72892475'
-- name: redhood\0714.bba
+- name: REDHOOD\0714.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x8c59f633'
-- name: redhood\08.bbp
+- name: REDHOOD\08.BBP
   size: 10374
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0xc0f9f123'
-- name: redhood\08.bbw
+- name: REDHOOD\08.BBW
   size: 37145
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0x8601903c'
-- name: redhood\0801.bba
+- name: REDHOOD\0801.BBA
   size: 2199
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0xa832bfcd'
-- name: redhood\0802.bba
+- name: REDHOOD\0802.BBA
   size: 1445
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0xc90ba6e9'
-- name: redhood\0803.bba
+- name: REDHOOD\0803.BBA
   size: 1478
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0xb4e2a10e'
-- name: redhood\0804.bba
+- name: REDHOOD\0804.BBA
   size: 3910
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0xff47dd98'
-- name: redhood\0805.bba
+- name: REDHOOD\0805.BBA
   size: 6442
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0xa1fadcf9'
-- name: redhood\0806.bba
+- name: REDHOOD\0806.BBA
   size: 1651
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x52e7c443'
-- name: redhood\0807.bba
+- name: REDHOOD\0807.BBA
   size: 937
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0xdd1de701'
-- name: redhood\0808.bba
+- name: REDHOOD\0808.BBA
   size: 3313
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x3ee627f3'
-- name: redhood\0809.bba
+- name: REDHOOD\0809.BBA
   size: 2272
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x9a079294'
-- name: redhood\0810.bba
+- name: REDHOOD\0810.BBA
   size: 1093
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x5878a60f'
-- name: redhood\0811.bba
+- name: REDHOOD\0811.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0xd857dd35'
-- name: redhood\0812.bba
+- name: REDHOOD\0812.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0xf057cd00'
-- name: redhood\0813.bba
+- name: REDHOOD\0813.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x5e873f2c'
-- name: redhood\0814.bba
+- name: REDHOOD\0814.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0xa057ed6a'
-- name: redhood\09.bbp
+- name: REDHOOD\09.BBP
   size: 8625
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x5b7c9817'
-- name: redhood\09.bbw
+- name: REDHOOD\09.BBW
   size: 39484
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0x28d13c69'
-- name: redhood\0901.bba
+- name: REDHOOD\0901.BBA
   size: 1566
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x35ec395b'
-- name: redhood\0902.bba
+- name: REDHOOD\0902.BBA
   size: 608
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0xa0a0c511'
-- name: redhood\0903.bba
+- name: REDHOOD\0903.BBA
   size: 1623
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0xef0e0876'
-- name: redhood\0904.bba
+- name: REDHOOD\0904.BBA
   size: 3374
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0xe0185032'
-- name: redhood\0905.bba
+- name: REDHOOD\0905.BBA
   size: 2214
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0xe1bda5c0'
-- name: redhood\0906.bba
+- name: REDHOOD\0906.BBA
   size: 1053
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x4664fdf5'
-- name: redhood\0907.bba
+- name: REDHOOD\0907.BBA
   size: 1915
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x88263528'
-- name: redhood\0908.bba
+- name: REDHOOD\0908.BBA
   size: 516
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x1319706a'
-- name: redhood\0909.bba
+- name: REDHOOD\0909.BBA
   size: 3940
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x6d687a70'
-- name: redhood\0910.bba
+- name: REDHOOD\0910.BBA
   size: 1005
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x2d53447b'
-- name: redhood\0911.bba
+- name: REDHOOD\0911.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0xb2d58b7b'
-- name: redhood\0912.bba
+- name: REDHOOD\0912.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x9ad59b4e'
-- name: redhood\0913.bba
+- name: REDHOOD\0913.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x34056962'
-- name: redhood\0914.bba
+- name: REDHOOD\0914.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0xcad5bb24'
-- name: redhood\10.bbp
+- name: REDHOOD\10.BBP
   size: 8706
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0xc685d760'
-- name: redhood\10.bbw
+- name: REDHOOD\10.BBW
   size: 49125
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0xcc776734'
-- name: redhood\1001.bba
+- name: REDHOOD\1001.BBA
   size: 1613
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x48a2772d'
-- name: redhood\1002.bba
+- name: REDHOOD\1002.BBA
   size: 2340
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x1c61c6e8'
-- name: redhood\1003.bba
+- name: REDHOOD\1003.BBA
   size: 1817
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x006013cf'
-- name: redhood\1004.bba
+- name: REDHOOD\1004.BBA
   size: 1400
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x0e676d55'
-- name: redhood\1005.bba
+- name: REDHOOD\1005.BBA
   size: 1633
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0xc0a764ac'
-- name: redhood\1006.bba
+- name: REDHOOD\1006.BBA
   size: 2922
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0xb829bc66'
-- name: redhood\1007.bba
+- name: REDHOOD\1007.BBA
   size: 1122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x9868e2d5'
-- name: redhood\1008.bba
+- name: REDHOOD\1008.BBA
   size: 1127
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x7aec83e7'
-- name: redhood\1009.bba
+- name: REDHOOD\1009.BBA
   size: 1571
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0xa85abbe3'
-- name: redhood\1010.bba
+- name: REDHOOD\1010.BBA
   size: 1509
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0xbf681a25'
-- name: redhood\1011.bba
+- name: REDHOOD\1011.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0xaba98d06'
-- name: redhood\1012.bba
+- name: REDHOOD\1012.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x83a99d33'
-- name: redhood\1013.bba
+- name: REDHOOD\1013.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x2d796f1f'
-- name: redhood\1014.bba
+- name: REDHOOD\1014.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0xd3a9bd59'
-- name: redhood\a.bbw
+- name: REDHOOD\A.BBW
   size: 1521
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x50ef32c7'
-- name: redhood\all.bbw
+- name: REDHOOD\ALL.BBW
   size: 1797
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0xa3a08975'
-- name: redhood\along.bbw
+- name: REDHOOD\ALONG.BBW
   size: 2894
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0xc9ff2557'
-- name: redhood\always.bbw
+- name: REDHOOD\ALWAYS.BBW
   size: 2619
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x062c4520'
-- name: redhood\and.bbw
+- name: REDHOOD\AND.BBW
   size: 1963
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x2b99a46c'
-- name: redhood\are.bbw
+- name: REDHOOD\ARE.BBW
   size: 2026
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x0daf30c3'
-- name: redhood\asked.bbw
+- name: REDHOOD\ASKED.BBW
   size: 2060
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0xc3a63fdf'
-- name: redhood\at.bbw
+- name: REDHOOD\AT.BBW
   size: 1667
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0xb3bb8b54'
-- name: redhood\away.bbw
+- name: REDHOOD\AWAY.BBW
   size: 2696
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0xe3b34678'
-- name: redhood\basket.bbw
+- name: REDHOOD\BASKET.BBW
   size: 2034
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x530e1fb1'
-- name: redhood\because.bbw
+- name: REDHOOD\BECAUSE.BBW
   size: 2721
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0xb8f68b51'
-- name: redhood\best.bbw
+- name: REDHOOD\BEST.BBW
   size: 1852
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0xf018a13d'
-- name: redhood\bottle.bbw
+- name: REDHOOD\BOTTLE.BBW
   size: 2195
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0xd7590c28'
-- name: redhood\bring.bbw
+- name: REDHOOD\BRING.BBW
   size: 2002
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x836a8799'
-- name: redhood\brushed.bbw
+- name: REDHOOD\BRUSHED.BBW
   size: 2057
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x98f8d4ea'
-- name: redhood\called.bbw
+- name: REDHOOD\CALLED.BBW
   size: 2049
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x79b34c85'
-- name: redhood\coat.bbw
+- name: REDHOOD\COAT.BBW
   size: 1695
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0xbb373675'
-- name: redhood\credits.txt
+- name: REDHOOD\CREDITS.TXT
   size: 268
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0xefd0fd5d'
-- name: redhood\cut.bbw
+- name: REDHOOD\CUT.BBW
   size: 1389
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0x3128db5b'
-- name: redhood\day.bbw
+- name: REDHOOD\DAY.BBW
   size: 1919
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0xc601838d'
-- name: redhood\doin.bbw
+- name: REDHOOD\DOIN.BBW
   size: 2057
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x8799563a'
-- name: redhood\dont.bbw
+- name: REDHOOD\DONT.BBW
   size: 1759
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x712826eb'
-- name: redhood\door.bbw
+- name: REDHOOD\DOOR.BBW
   size: 2065
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0xe6f9da02'
-- name: redhood\down.bbw
+- name: REDHOOD\DOWN.BBW
   size: 2301
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x4a7afc77'
-- name: redhood\edge.bbw
+- name: REDHOOD\EDGE.BBW
   size: 1957
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x3fcf55b4'
-- name: redhood\everyone.bbw
+- name: REDHOOD\EVERYONE.BBW
   size: 3246
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x9866b8ba'
-- name: redhood\food.bbw
+- name: REDHOOD\FOOD.BBW
   size: 2696
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0xe74d8f1c'
-- name: redhood\fooled.bbw
+- name: REDHOOD\FOOLED.BBW
   size: 3323
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x113f487d'
-- name: redhood\for.bbw
+- name: REDHOOD\FOR.BBW
   size: 2784
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x61806f47'
-- name: redhood\forest.bbw
+- name: REDHOOD\FOREST.BBW
   size: 2580
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x717ae0bb'
-- name: redhood\gagged.bbw
+- name: REDHOOD\GAGGED.BBW
   size: 2320
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x9713c98c'
-- name: redhood\get.bbw
+- name: REDHOOD\GET.BBW
   size: 1392
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0xb367de0c'
-- name: redhood\girl.bbw
+- name: REDHOOD\GIRL.BBW
   size: 1986
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0xa571b541'
-- name: redhood\going.bbw
+- name: REDHOOD\GOING.BBW
   size: 2198
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x93f3b0e0'
-- name: redhood\got.bbw
+- name: REDHOOD\GOT.BBW
   size: 1577
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0xe8b3adc3'
-- name: redhood\grandma.bbw
+- name: REDHOOD\GRANDMA.BBW
   size: 3160
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x57821c88'
-- name: redhood\grandmor.bbw
+- name: REDHOOD\GRANDMOR.BBW
   size: 3250
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0xf4f1b028'
-- name: redhood\grandmos.bbw
+- name: REDHOOD\GRANDMOS.BBW
   size: 3802
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0xc9208bce'
-- name: redhood\granny.bbw
+- name: REDHOOD\GRANNY.BBW
   size: 2733
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x0c1be56e'
-- name: redhood\he.bbw
+- name: REDHOOD\HE.BBW
   size: 1800
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0xbf867137'
-- name: redhood\head.bbw
+- name: REDHOOD\HEAD.BBW
   size: 1768
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x192cc34e'
-- name: redhood\her.bbw
+- name: REDHOOD\HER.BBW
   size: 2199
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x385ea8d6'
-- name: redhood\heres.bbw
+- name: REDHOOD\HERES.BBW
   size: 3005
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x3c68afe9'
-- name: redhood\his.bbw
+- name: REDHOOD\HIS.BBW
   size: 2413
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0xf645b011'
-- name: redhood\hissed.bbw
+- name: REDHOOD\HISSED.BBW
   size: 2532
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x50542435'
-- name: redhood\hood.bbw
+- name: REDHOOD\HOOD.BBW
   size: 1809
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0xcf6ab48a'
-- name: redhood\hoods.bbw
+- name: REDHOOD\HOODS.BBW
   size: 2542
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x1826709f'
-- name: redhood\house.bbw
+- name: REDHOOD\HOUSE.BBW
   size: 2097
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x3b31eb06'
-- name: redhood\how.bbw
+- name: REDHOOD\HOW.BBW
   size: 2531
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x51290626'
-- name: redhood\huh.bbw
+- name: REDHOOD\HUH.BBW
   size: 1712
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x4ddfbdbc'
-- name: redhood\im.bbw
+- name: REDHOOD\IM.BBW
   size: 1963
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x4ac51cfc'
-- name: redhood\in.bbw
+- name: REDHOOD\IN.BBW
   size: 1811
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x6e388d3f'
-- name: redhood\is.bbw
+- name: REDHOOD\IS.BBW
   size: 1732
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0xde3dfa72'
-- name: redhood\it.bbw
+- name: REDHOOD\IT.BBW
   size: 1283
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0xf73f95e1'
-- name: redhood\its.bbw
+- name: REDHOOD\ITS.BBW
   size: 1637
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x94c1d1ad'
-- name: redhood\knew.bbw
+- name: REDHOOD\KNEW.BBW
   size: 1996
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x45e987b0'
-- name: redhood\knocked.bbw
+- name: REDHOOD\KNOCKED.BBW
   size: 2255
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x44838294'
-- name: redhood\laughed.bbw
+- name: REDHOOD\LAUGHED.BBW
   size: 2462
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0xc38f2041'
-- name: redhood\laughter.bbw
+- name: REDHOOD\LAUGHTER.BBW
   size: 2713
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0xd46d93ed'
-- name: redhood\lazy.bbw
+- name: REDHOOD\LAZY.BBW
   size: 3776
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0xbcee5669'
-- name: redhood\little.bbw
+- name: REDHOOD\LITTLE.BBW
   size: 2313
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x4645f8c7'
-- name: redhood\lived.bbw
+- name: REDHOOD\LIVED.BBW
   size: 2106
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x0b9406dc'
-- name: redhood\looked.bbw
+- name: REDHOOD\LOOKED.BBW
   size: 1906
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0xa5644f24'
-- name: redhood\me.bbw
+- name: REDHOOD\ME.BBW
   size: 1938
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x3400d83c'
-- name: redhood\medicine.bbw
+- name: REDHOOD\MEDICINE.BBW
   size: 2752
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x9f3ff160'
-- name: redhood\met.bbw
+- name: REDHOOD\MET.BBW
   size: 1841
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0xa117be2c'
-- name: redhood\mother.bbw
+- name: REDHOOD\MOTHER.BBW
   size: 2416
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0xda82b0bb'
-- name: redhood\mouth.bbw
+- name: REDHOOD\MOUTH.BBW
   size: 2371
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x4804ac65'
-- name: redhood\my.bbw
+- name: REDHOOD\MY.BBW
   size: 2365
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0xc4e8fc24'
-- name: redhood\named.bbw
+- name: REDHOOD\NAMED.BBW
   size: 2481
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x4801a6df'
-- name: redhood\of.bbw
+- name: REDHOOD\OF.BBW
   size: 1392
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x246f7296'
-- name: redhood\okay.bbw
+- name: REDHOOD\OKAY.BBW
   size: 2061
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0xc766152b'
-- name: redhood\old.bbw
+- name: REDHOOD\OLD.BBW
   size: 1957
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0xf23a43b2'
-- name: redhood\on.bbw
+- name: REDHOOD\ON.BBW
   size: 1769
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0xcf0264f3'
-- name: redhood\one.bbw
+- name: REDHOOD\ONE.BBW
   size: 1478
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0xe1c90fdf'
-- name: redhood\only.bbw
+- name: REDHOOD\ONLY.BBW
   size: 2271
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x7d97ef50'
-- name: redhood\open.bbw
+- name: REDHOOD\OPEN.BBW
   size: 2507
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x620fb4b1'
-- name: redhood\opened.bbw
+- name: REDHOOD\OPENED.BBW
   size: 2184
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0xd7f9fbb3'
-- name: redhood\original.col
+- name: REDHOOD\ORIGINAL.COL
   size: 5632
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x8aff4167'
-- name: redhood\past.bbw
+- name: REDHOOD\PAST.BBW
   size: 1899
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x2b3adf1f'
-- name: redhood\please.bbw
+- name: REDHOOD\PLEASE.BBW
   size: 2136
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0xa8bb5ba4'
-- name: redhood\popup.col
+- name: REDHOOD\POPUP.COL
   size: 5632
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x70549ac2'
-- name: redhood\poured.bbw
+- name: REDHOOD\POURED.BBW
   size: 2160
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0xf4356772'
-- name: redhood\ran.bbw
+- name: REDHOOD\RAN.BBW
   size: 2016
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x22eebbec'
-- name: redhood\red.bbw
+- name: REDHOOD\RED.BBW
   size: 2231
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x6246dc37'
-- name: redhood\redhood.txt
+- name: REDHOOD\REDHOOD.TXT
   size: 1553
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x0d11f796'
-- name: redhood\riding.bbw
+- name: REDHOOD\RIDING.BBW
   size: 2619
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x98fc7c6d'
-- name: redhood\said.bbw
+- name: REDHOOD\SAID.BBW
   size: 1957
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x1bd7356e'
-- name: redhood\screechd.bbw
+- name: REDHOOD\SCREECHD.BBW
   size: 3612
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x1e5ca0f0'
-- name: redhood\she.bbw
+- name: REDHOOD\SHE.BBW
   size: 2584
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0xb1476a46'
-- name: redhood\short.bbw
+- name: REDHOOD\SHORT.BBW
   size: 2141
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0xaff52ec0'
-- name: redhood\sick.bbw
+- name: REDHOOD\SICK.BBW
   size: 2146
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x2f427cef'
-- name: redhood\somethig.bbw
+- name: REDHOOD\SOMETHIG.BBW
   size: 2931
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0xc17f11a7'
-- name: redhood\sorry.bbw
+- name: REDHOOD\SORRY.BBW
   size: 2947
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x157c6c7e'
-- name: redhood\starving.bbw
+- name: REDHOOD\STARVING.BBW
   size: 3842
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x8b703940'
-- name: redhood\stop.bbw
+- name: REDHOOD\STOP.BBW
   size: 2267
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x86aa04ad'
-- name: redhood\stuck.bbw
+- name: REDHOOD\STUCK.BBW
   size: 2211
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0xe3f9e898'
-- name: redhood\sweetie.bbw
+- name: REDHOOD\SWEETIE.BBW
   size: 2314
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x14404913'
-- name: redhood\take.bbw
+- name: REDHOOD\TAKE.BBW
   size: 1415
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x52c9b19b'
-- name: redhood\that.bbw
+- name: REDHOOD\THAT.BBW
   size: 1811
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x6b6c0499'
-- name: redhood\the.bbw
+- name: REDHOOD\THE.BBW
   size: 1868
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x9e50600b'
-- name: redhood\there.bbw
+- name: REDHOOD\THERE.BBW
   size: 2063
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x7140dea9'
-- name: redhood\this.bbw
+- name: REDHOOD\THIS.BBW
   size: 1942
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x20a0c42e'
-- name: redhood\throat.bbw
+- name: REDHOOD\THROAT.BBW
   size: 2621
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x61f78748'
-- name: redhood\tied.bbw
+- name: REDHOOD\TIED.BBW
   size: 1701
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x866b53d8'
-- name: redhood\to.bbw
+- name: REDHOOD\TO.BBW
   size: 1577
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x9a1496fc'
-- name: redhood\took.bbw
+- name: REDHOOD\TOOK.BBW
   size: 1450
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x4176eb0c'
-- name: redhood\turned.bbw
+- name: REDHOOD\TURNED.BBW
   size: 1972
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x60f64afa'
-- name: redhood\up.bbw
+- name: REDHOOD\UP.BBW
   size: 1402
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x1a76dae5'
-- name: redhood\version.txt
+- name: REDHOOD\VERSION.TXT
   size: 4
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x6686c27b'
-- name: redhood\waiting.bbw
+- name: REDHOOD\WAITING.BBW
   size: 2319
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x3093dcf5'
-- name: redhood\walking.bbw
+- name: REDHOOD\WALKING.BBW
   size: 2586
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x0b7e38d9'
-- name: redhood\was.bbw
+- name: REDHOOD\WAS.BBW
   size: 2164
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0xeed6f166'
-- name: redhood\way.bbw
+- name: REDHOOD\WAY.BBW
   size: 1800
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0xeb9716ce'
-- name: redhood\whats.bbw
+- name: REDHOOD\WHATS.BBW
   size: 2500
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0xa660f12b'
-- name: redhood\when.bbw
+- name: REDHOOD\WHEN.BBW
   size: 2026
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0xb604ea43'
-- name: redhood\while.bbw
+- name: REDHOOD\WHILE.BBW
   size: 2029
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x2facb077'
-- name: redhood\who.bbw
+- name: REDHOOD\WHO.BBW
   size: 1544
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x270fc238'
-- name: redhood\whole.bbw
+- name: REDHOOD\WHOLE.BBW
   size: 2565
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0xe65f34dc'
-- name: redhood\wide.bbw
+- name: REDHOOD\WIDE.BBW
   size: 2746
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0x12c4be5e'
-- name: redhood\wolf.bbw
+- name: REDHOOD\WOLF.BBW
   size: 2054
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0xb07121e1'
-- name: redhood\wolfs.bbw
+- name: REDHOOD\WOLFS.BBW
   size: 2405
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0x48be40e6'
-- name: redhood\wore.bbw
+- name: REDHOOD\WORE.BBW
   size: 1867
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0x09843f23'
-- name: redhood\wrong.bbw
+- name: REDHOOD\WRONG.BBW
   size: 2216
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0xd6b288c2'
-- name: redhood\ya.bbw
+- name: REDHOOD\YA.BBW
   size: 1912
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0x47a3bb9d'
-- name: redhood\you.bbw
+- name: REDHOOD\YOU.BBW
   size: 1751
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0x797efb1d'
-- name: redhood\your.bbw
+- name: REDHOOD\YOUR.BBW
   size: 2216
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0x0b36af44'
-- name: title.img
+- name: TITLE.IMG
   size: 51704
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x56b551cf'
-- name: version.txt
+- name: VERSION.TXT
   size: 4
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x6686c27b'

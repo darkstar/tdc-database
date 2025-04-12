@@ -1,4 +1,4 @@
-filename: Legend of Kyrandia, The v1.8 (Es) (1992)(Virgin Games, Inc.) [Adventure].zip
+filename: Legend of Kyrandia, The v1.8 (Es) [h1] (1992)(Virgin Games, Inc.) [Adventure].zip
 tdc_id: '6351.13'
 title:
   box: The Legend of Kyrandia
@@ -8,9 +8,15 @@ genre: Adventure
 language: Spanish
 date:
   added: '2019-03-01T18:48:48'
-  last_modified: '2019-03-01T18:48:48'
+  last_modified: '2025-02-27T10:06:15'
 version: '1.8'
 type: zip
+tags:
+- Hack: 1
+commands:
+  play: KYRANDIA.BAT
+references:
+  mobygames: https://www.mobygames.com/game/394/fables-fiends-the-legend-of-kyrandia-book-one/
 files:
 - name: 6.FNT
   size: 2419

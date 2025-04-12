@@ -1,5 +1,6 @@
-filename: Harpoon BattleSet 4- Indian Ocean - Persian Gulf [a1] (1991)(Three-Sixty Pacific, Inc.) [Simulation, Addon].zip
+filename: Harpoon BattleSet 4- Indian Ocean - Persian Gulf (Installer) (1991)(Three-Sixty Pacific, Inc.) [Simulation, Addon][!].zip
 tdc_id: '11017.1'
+parent_id: '11017.2'
 title:
   box: 'Harpoon BattleSet 4: Indian Ocean - Persian Gulf'
 publisher: Three-Sixty Pacific, Inc.
@@ -10,12 +11,16 @@ genre:
 language: English
 date:
   added: '2021-05-07T15:27:20'
-  last_modified: '2021-05-07T15:27:20'
+  last_modified: '2025-01-21T16:56:14'
 type: zip
 tags:
-- Alternate: 1
+- KnownGood
+media: 360K
+installer: true
 commands:
   play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/55143/harpoon-battleset-4-indian-ocean-persian-gulf/
 files:
 - name: HELP.TXT
   size: 4916

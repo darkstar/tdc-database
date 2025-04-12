@@ -1,200 +1,120 @@
-filename: California Pro Golf (1989)(Mastertronic, Inc.) [Sports].zip
+filename: California Pro Golf (1989)(16-Blitz, Mastertronic, Inc.) [Sports][!].zip
 tdc_id: '8902.0'
 parent_id: '8902.2'
 title:
   box: California Pro Golf
-publisher: Mastertronic, Inc.
+publisher: 16-Blitz, Mastertronic, Inc.
 year: '1989'
 genre: Sports
 language: English
 date:
   added: '2020-03-28T21:23:58'
-  last_modified: '2020-03-28T21:23:58'
+  last_modified: '2025-03-07T12:45:29'
 type: zip
+tags:
+- KnownGood
+media: 360K
+commands:
+  play: START.EXE
 references:
-  dosid: DOS01235
-  exodos: California Pro Golf (1989).zip
+  mobygames: https://www.mobygames.com/game/54032/california-pro-golf/
 files:
 - name: CGAGOLF.EXE
-  size: 182380
-  date: '1989-02-01T17:53:18'
-  crc: '0x85f2f179'
-- name: COURSE_A.CRS
+  size: 182284
+  date: '1988-12-19T13:29:32'
+  crc: '0x82871f92'
+- name: COURSE1.CRS
   size: 295
-  date: '1988-12-30T14:56:06'
-  crc: '0xd60275bc'
-- name: COURSE_B.CRS
-  size: 317
-  date: '1988-12-30T18:54:02'
-  crc: '0xe4f7380f'
+  date: '1988-12-17T21:50:38'
+  crc: '0xebf1a4ee'
+- name: COURSE2.CRS
+  size: 295
+  date: '1988-12-17T21:50:50'
+  crc: '0xebf1a4ee'
 - name: EGAGOLF.EXE
-  size: 241788
-  date: '1989-02-01T17:54:10'
-  crc: '0xfa9a6ad9'
-- name: GOLF.EXE
-  size: 8846
-  date: '1988-11-29T15:37:18'
-  crc: '0x18548e59'
-- name: PALYA01.HOL
+  size: 241692
+  date: '1988-12-19T13:30:24'
+  crc: '0x5b2251f1'
+- name: PALYA1.HOL
   size: 966
-  date: '1988-12-30T14:43:02'
-  crc: '0xf204424f'
-- name: PALYA02.HOL
-  size: 1178
-  date: '1988-12-30T14:43:40'
-  crc: '0x5fa4eee6'
-- name: PALYA03.HOL
-  size: 890
-  date: '1988-12-30T14:44:14'
-  crc: '0x478332a0'
-- name: PALYA04.HOL
-  size: 1318
-  date: '1988-12-30T14:44:56'
-  crc: '0xacb829df'
-- name: PALYA05.HOL
-  size: 928
-  date: '1988-12-30T14:45:30'
-  crc: '0x32089b0d'
-- name: PALYA06.HOL
-  size: 1396
-  date: '1988-12-30T14:46:12'
-  crc: '0x2adad35b'
-- name: PALYA07.HOL
-  size: 506
-  date: '1988-12-30T14:46:38'
-  crc: '0x70fbff8e'
-- name: PALYA08.HOL
-  size: 1272
-  date: '1988-12-30T14:47:20'
-  crc: '0x858e9511'
-- name: PALYA09.HOL
-  size: 962
-  date: '1988-12-30T14:47:56'
-  crc: '0x6f82d37e'
+  date: '1988-12-17T20:25:36'
+  crc: '0x61fe2c50'
 - name: PALYA10.HOL
   size: 1092
-  date: '1988-12-30T14:48:36'
-  crc: '0xa230abdf'
+  date: '1988-12-17T20:39:14'
+  crc: '0x075099f8'
 - name: PALYA11.HOL
   size: 1320
-  date: '1988-12-30T14:49:18'
-  crc: '0x166677bb'
+  date: '1988-12-17T20:40:06'
+  crc: '0xc94437d7'
 - name: PALYA12.HOL
   size: 1204
-  date: '1988-12-30T14:49:58'
-  crc: '0x84ac44c6'
+  date: '1988-12-17T20:40:56'
+  crc: '0x17356b24'
 - name: PALYA13.HOL
   size: 1604
-  date: '1988-12-30T14:50:46'
-  crc: '0x6996ae44'
+  date: '1988-12-17T20:41:54'
+  crc: '0x1c55daed'
 - name: PALYA14.HOL
   size: 1322
-  date: '1988-12-30T14:51:32'
-  crc: '0xa7e4540f'
+  date: '1988-12-17T20:42:46'
+  crc: '0x31385db7'
 - name: PALYA15.HOL
   size: 1090
-  date: '1988-12-30T14:52:10'
-  crc: '0x5df1c615'
+  date: '1988-12-17T20:43:34'
+  crc: '0x3a0acff4'
 - name: PALYA16.HOL
   size: 1196
-  date: '1988-12-30T14:52:52'
-  crc: '0x1958df33'
+  date: '1988-12-17T20:44:24'
+  crc: '0xea99f5e2'
 - name: PALYA17.HOL
   size: 944
-  date: '1988-12-30T14:53:28'
-  crc: '0x0594257a'
+  date: '1988-12-17T20:45:08'
+  crc: '0x86896a17'
 - name: PALYA18.HOL
   size: 1328
-  date: '1988-12-30T14:54:16'
-  crc: '0x228ca19b'
-- name: PALYB00.EXE
-  size: 37181
-  date: '1989-10-04T10:52:04'
-  crc: '0x3b285787'
-- name: PALYB01.HOL
-  size: 1204
-  date: '1988-12-30T19:21:54'
-  crc: '0xa4617b0c'
-- name: PALYB02.HOL
-  size: 1320
-  date: '1988-12-30T18:35:08'
-  crc: '0xdd24abcc'
-- name: PALYB03.HOL
-  size: 1092
-  date: '1988-12-30T18:34:24'
-  crc: '0x537a2e3f'
-- name: PALYB04.HOL
-  size: 962
-  date: '1988-12-30T18:33:44'
-  crc: '0x50c3b47b'
-- name: PALYB05.HOL
-  size: 1272
-  date: '1988-12-30T18:33:04'
-  crc: '0xa328d7a8'
-- name: PALYB06.HOL
-  size: 506
-  date: '1988-12-30T18:32:22'
-  crc: '0x8b960ef6'
-- name: PALYB07.HOL
-  size: 1396
-  date: '1988-12-30T18:28:26'
-  crc: '0x57105074'
-- name: PALYB08.HOL
-  size: 928
-  date: '1988-12-30T18:27:40'
-  crc: '0x1ebc5fea'
-- name: PALYB09.HOL
-  size: 1146
-  date: '1988-12-30T18:27:06'
-  crc: '0x91d4b2a4'
-- name: PALYB10.HOL
-  size: 890
-  date: '1988-12-30T18:26:24'
-  crc: '0x9809d4b1'
-- name: PALYB11.HOL
+  date: '1988-12-17T20:46:02'
+  crc: '0x8b619cb3'
+- name: PALYA2.HOL
   size: 1178
-  date: '1988-12-30T18:25:48'
-  crc: '0x230c49a3'
-- name: PALYB12.HOL
-  size: 948
-  date: '1988-12-30T19:12:28'
-  crc: '0xafe98be5'
-- name: PALYB13.HOL
-  size: 1604
-  date: '1988-12-30T18:36:42'
-  crc: '0x11218200'
-- name: PALYB14.HOL
-  size: 1316
-  date: '1988-12-30T19:13:14'
-  crc: '0x66b2b6b9'
-- name: PALYB15.HOL
-  size: 944
-  date: '1988-12-30T18:39:28'
-  crc: '0x0e0bbd26'
-- name: PALYB16.HOL
-  size: 1196
-  date: '1988-12-30T18:38:52'
-  crc: '0x75e96b92'
-- name: PALYB17.HOL
-  size: 1090
-  date: '1988-12-30T18:38:08'
-  crc: '0xd6dbbef1'
-- name: PALYB18.HOL
-  size: 1322
-  date: '1988-12-30T19:29:22'
-  crc: '0x7fa0c539'
-- name: RASTPROB.EXE
-  size: 2586
-  date: '1989-02-01T16:05:26'
-  crc: '0x2680c883'
+  date: '1988-12-17T20:26:00'
+  crc: '0x0af68196'
+- name: PALYA3.HOL
+  size: 890
+  date: '1988-12-17T20:26:54'
+  crc: '0xa64a7286'
+- name: PALYA4.HOL
+  size: 1318
+  date: '1988-12-17T20:29:54'
+  crc: '0x89c7bf0e'
+- name: PALYA5.HOL
+  size: 928
+  date: '1988-12-17T20:31:48'
+  crc: '0x9df05e94'
+- name: PALYA6.HOL
+  size: 1396
+  date: '1988-12-17T20:33:48'
+  crc: '0x2828e01b'
+- name: PALYA7.HOL
+  size: 506
+  date: '1988-12-17T20:35:40'
+  crc: '0x42d70005'
+- name: PALYA8.HOL
+  size: 1272
+  date: '1988-12-17T20:37:38'
+  crc: '0x54e4d67e'
+- name: PALYA9.HOL
+  size: 962
+  date: '1988-12-17T20:38:26'
+  crc: '0x613227a4'
+- name: PALYAP.HOL
+  size: 922
+  date: '1988-11-04T13:29:48'
+  crc: '0x5749a0d5'
 - name: READ.ME
-  size: 4335
-  date: '1991-10-17T13:44:54'
-  crc: '0xdfea6e44'
-- name: RUNME.BAT
-  size: 62
-  date: '1991-01-07T08:01:10'
-  crc: '0x8cad3df0'
+  size: 3813
+  date: '1988-12-19T20:40:04'
+  crc: '0x829a4d01'
 - name: SCGA.PCK
   size: 7990
   date: '1988-12-12T20:47:24'
@@ -215,11 +135,15 @@ files:
   size: 4618
   date: '1988-12-12T19:45:56'
   crc: '0x086dd40f'
+- name: START.EXE
+  size: 8846
+  date: '1988-11-29T15:37:18'
+  crc: '0x18548e59'
 - name: STND.PCK
   size: 13661
   date: '1988-12-17T21:03:26'
   crc: '0x783db2d5'
 - name: TNDGOLF.EXE
   size: 178764
-  date: '1989-02-01T13:28:58'
-  crc: '0x83af1240'
+  date: '1988-12-19T13:31:04'
+  crc: '0x778ee217'

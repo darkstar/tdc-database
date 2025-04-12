@@ -1,0 +1,51 @@
+filename: Quiz Kids, The- Adventure in the Mystery Maze v1.0 (Installer) (1992)(Wizardworks Group, Inc.) [Educational, Trivia].zip
+tdc_id: '10863.4'
+title:
+  box: 'The Quiz Kids: Adventure in the Mystery Maze'
+publisher: Wizardworks Group, Inc.
+year: '1992'
+genre:
+- Educational
+- Trivia
+language: English
+date:
+  added: '2025-03-02T09:09:27'
+  last_modified: '2025-03-02T09:09:27'
+version: '1.0'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: INSTALL.EXE
+  size: 22960
+  date: '1992-05-12T11:00:00'
+  crc: '0xd277e28b'
+- name: INSTALL1.EXE
+  size: 191782
+  date: '1992-05-15T00:51:18'
+  crc: '0x509f4fa3'
+- name: INSTALL2.EXE
+  size: 132024
+  date: '1992-05-12T11:00:00'
+  crc: '0x881adc06'
+- name: INSTALL3.EXE
+  size: 30650
+  date: '1992-05-12T11:00:00'
+  crc: '0xac35c516'
+- name: INSTALL4.EXE
+  size: 106454
+  date: '1992-05-12T11:00:00'
+  crc: '0xa8b6f8a3'
+- name: QUIZ4WIN.TXT
+  size: 3856
+  date: '1992-05-12T11:00:00'
+  crc: '0xf387e33d'
+- name: README.TXT
+  size: 6297
+  date: '1992-05-12T11:00:00'
+  crc: '0x8445d31a'
+- name: VERSION.100
+  size: 1225
+  date: '1992-05-12T11:00:00'
+  crc: '0x5e5eb9d1'

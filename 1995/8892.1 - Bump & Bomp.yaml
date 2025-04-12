@@ -1,0 +1,28 @@
+filename: Bump & Bomp (1995)(Mad Data) [Strategy].zip
+tdc_id: '8892.1'
+title:
+  screen: Bump & Bomp
+publisher: Mad Data
+year: '1995'
+genre: Strategy
+language: English
+date:
+  added: '2019-03-02T07:30:44'
+  last_modified: '2025-04-04T14:15:00'
+type: zip
+commands:
+  play: B&B.EXE
+  setup: SETUP.EXE
+files:
+- name: B&B.DAT
+  size: 2478800
+  date: '1995-12-21T14:40:42'
+  crc: '0x522c8240'
+- name: B&B.EXE
+  size: 131215
+  date: '1995-12-15T20:53:32'
+  crc: '0xa741c1d3'
+- name: SETUP.EXE
+  size: 33696
+  date: '1995-12-22T10:50:16'
+  crc: '0x9b407876'

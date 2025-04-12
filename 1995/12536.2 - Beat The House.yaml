@@ -1,0 +1,30 @@
+filename: Beat The House (Installer) (1995)(Interplay Entertainment Corp.) [Simulation].zip
+tdc_id: '12536.2'
+title:
+  box: Beat The House
+publisher: Interplay Entertainment Corp.
+year: '1995'
+genre: Simulation
+language: English
+date:
+  added: '2025-02-02T09:49:51'
+  last_modified: '2025-02-02T09:49:51'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1515/beat-the-house/
+files:
+- name: BTH.P01
+  size: 1359702
+  date: '1994-12-05T17:34:58'
+  crc: '0x5e49e940'
+- name: INSTALL.EXE
+  size: 11917
+  date: '1992-11-24T11:02:52'
+  crc: '0x8f8b54e9'
+- name: README.TXT
+  size: 3423
+  date: '1995-01-20T09:21:30'
+  crc: '0xe0e581d7'

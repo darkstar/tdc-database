@@ -1,0 +1,64 @@
+filename: Hare Raising Havoc (Installer) (1991)(Infogrames Entertainment SA, Walt Disney Computer Software, Inc.) [Adventure].zip
+tdc_id: '11006.4'
+parent_id: '11006.2'
+title:
+  box: Hare Raising Havoc
+publisher: Infogrames Entertainment SA, Walt Disney Computer Software, Inc.
+year: '1991'
+genre: Adventure
+language: English
+date:
+  added: '2025-04-03T08:03:04'
+  last_modified: '2025-04-03T08:03:04'
+type: zip
+media: 720K
+installer: true
+commands:
+  play: INSTALL.BAT
+references:
+  mobygames: https://www.mobygames.com/game/4346/hare-raising-havoc/
+files:
+- name: D1.PAK
+  size: 710365
+  date: '1991-11-22T16:38:50'
+  crc: '0xe37e56e6'
+- name: D2.PAK
+  size: 699670
+  date: '1991-11-22T16:49:20'
+  crc: '0xa9f97235'
+- name: D3.PAK
+  size: 662303
+  date: '1991-11-22T16:58:16'
+  crc: '0x5379180f'
+- name: D4.PAK
+  size: 486820
+  date: '1991-11-22T21:07:44'
+  crc: '0xa94e5dfb'
+- name: DISK1
+  size: 1
+  date: '1991-07-17T09:55:00'
+  crc: '0x83dcefb7'
+- name: DISK2
+  size: 1
+  date: '1991-07-17T09:55:00'
+  crc: '0x1ad5be0d'
+- name: DISK3
+  size: 1
+  date: '1991-07-17T09:55:00'
+  crc: '0x6dd28e9b'
+- name: DISK4
+  size: 1
+  date: '1991-07-17T09:55:00'
+  crc: '0xf3b61b38'
+- name: INSTALL.BAT
+  size: 2459
+  date: '1991-11-22T20:37:34'
+  crc: '0x2f819803'
+- name: TYPO.COM
+  size: 579
+  date: '1991-07-17T09:55:00'
+  crc: '0x0f1e4ff2'
+- name: UNPAK.EXE
+  size: 18394
+  date: '1991-11-22T11:24:46'
+  crc: '0xabb14f3b'

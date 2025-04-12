@@ -1,0 +1,102 @@
+filename: Aces of the Pacific v1.21 (Installer) (1994)(Sierra On-Line, Inc.) [Simulation][!].zip
+tdc_id: '8027.15'
+parent_id: '8027.14'
+title:
+  box: Aces of the Pacific
+publisher: Sierra On-Line, Inc.
+year: '1994'
+genre: Simulation
+language: English
+date:
+  added: '2025-03-16T12:10:24'
+  last_modified: '2025-03-16T12:10:24'
+version: '1.21'
+type: zip
+tags:
+- KnownGood
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1419/aces-of-the-pacific/
+files:
+- name: ADL.DRV
+  size: 107
+  date: '1994-08-02T01:21:00'
+  crc: '0x3cbcf212'
+- name: DEMOAG.VCR
+  size: 4133
+  date: '1994-08-02T01:21:00'
+  crc: '0x33149fd7'
+- name: DEMODS.VCR
+  size: 3985
+  date: '1994-08-02T01:21:00'
+  crc: '0xb5934cd5'
+- name: DEMOFLAK.VCR
+  size: 2899
+  date: '1994-08-02T01:21:00'
+  crc: '0x49e29745'
+- name: DEMOPAP.VCR
+  size: 3829
+  date: '1994-08-02T01:21:00'
+  crc: '0x672e7006'
+- name: IBMPS1.DRV
+  size: 109
+  date: '1994-08-02T01:21:00'
+  crc: '0xa74c19e3'
+- name: INSTALL.EXE
+  size: 77191
+  date: '1994-08-02T01:21:00'
+  crc: '0xfd841739'
+- name: INSTALL.HLP
+  size: 20894
+  date: '1994-08-02T01:21:00'
+  crc: '0x529f6fee'
+- name: INSTALL.SCR
+  size: 3198
+  date: '1994-08-02T01:21:00'
+  crc: '0xcca43f22'
+- name: INSTALL.TXT
+  size: 9501
+  date: '1994-08-02T01:21:00'
+  crc: '0x1e23be7f'
+- name: MT32.DRV
+  size: 125
+  date: '1994-08-02T01:21:00'
+  crc: '0xb9ea2915'
+- name: README
+  size: 11000
+  date: '1994-08-02T01:21:00'
+  crc: '0xb4c4d290'
+- name: RESOURCE.000
+  size: 1249674
+  date: '1994-08-02T01:21:00'
+  crc: '0xcaaef0e5'
+- name: RESOURCE.001
+  size: 1449877
+  date: '1994-08-02T01:21:00'
+  crc: '0xf3c034bf'
+- name: RESOURCE.002
+  size: 1248719
+  date: '1994-08-02T01:21:00'
+  crc: '0x4df02687'
+- name: RESOURCE.CFG
+  size: 138
+  date: '1994-08-02T01:21:00'
+  crc: '0x94031c57'
+- name: STD.DRV
+  size: 118
+  date: '1994-08-02T01:21:00'
+  crc: '0x2c31099e'
+- name: TANDY3V.DRV
+  size: 102
+  date: '1994-08-02T01:21:00'
+  crc: '0x01d29c65'
+- name: TOPMISS.DAT
+  size: 552
+  date: '1994-08-02T01:21:00'
+  crc: '0x0c0e5134'
+- name: UNCHUNK.EXE
+  size: 15799
+  date: '1994-08-02T01:21:00'
+  crc: '0xa2dd4d78'

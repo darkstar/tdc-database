@@ -1,0 +1,147 @@
+filename: Prince of Persia v1.1 (Installer) (1993)(The Hit Squad, Ocean Software Ltd., Brøderbund Software, Inc.) [Adventure, Action].zip
+tdc_id: '8014.19'
+parent_id: '8014.36'
+title:
+  box: Prince of Persia
+publisher: The Hit Squad, Ocean Software Ltd., Brøderbund Software, Inc.
+year: '1993'
+genre:
+- Adventure
+- Action
+language: English
+date:
+  added: '2019-03-01T18:33:38'
+  last_modified: '2025-02-17T15:49:31'
+version: '1.1'
+type: zip
+media: 720K
+installer: true
+commands:
+  play: PRINCE1.EXE
+references:
+  mobygames: https://www.mobygames.com/game/196/prince-of-persia/
+files:
+- name: CDUNGEON.DAT
+  size: 9407
+  date: '1990-08-31T15:13:56'
+  crc: '0x8dfd8a32'
+- name: CPALACE.DAT
+  size: 12889
+  date: '1990-08-31T15:14:26'
+  crc: '0xd99b4d4d'
+- name: DESKTOPD.CFG
+  size: 55
+  date: '1990-03-21T12:00:02'
+  crc: '0x61e90209'
+- name: DIGISND1.DAT
+  size: 48545
+  date: '1990-08-31T15:15:08'
+  crc: '0xbf4d0f41'
+- name: DIGISND2.DAT
+  size: 29143
+  date: '1990-08-31T15:15:16'
+  crc: '0x1f7a6563'
+- name: DIGISND3.DAT
+  size: 31000
+  date: '1990-08-31T15:15:10'
+  crc: '0x61875378'
+- name: EDUNGEON.DAT
+  size: 10165
+  date: '1990-08-31T15:13:48'
+  crc: '0xd0001fc6'
+- name: EPALACE.DAT
+  size: 13876
+  date: '1990-08-31T15:14:16'
+  crc: '0x2d059e03'
+- name: FAT.DAT
+  size: 6521
+  date: '1990-08-31T15:14:44'
+  crc: '0x955ce8c6'
+- name: GUARD.DAT
+  size: 6950
+  date: '1990-08-31T15:14:46'
+  crc: '0x594674d6'
+- name: GUARD1.DAT
+  size: 117
+  date: '1990-08-31T15:14:46'
+  crc: '0x4c32b5a2'
+- name: GUARD2.DAT
+  size: 117
+  date: '1990-08-31T15:14:46'
+  crc: '0xa5b5de91'
+- name: IBM_SND1.DAT
+  size: 3684
+  date: '1990-08-31T15:15:04'
+  crc: '0xa5bcb241'
+- name: IBM_SND2.DAT
+  size: 3784
+  date: '1990-08-31T15:15:14'
+  crc: '0x79de3dcb'
+- name: INSTALL.BAT
+  size: 553
+  date: '1992-10-07T11:52:38'
+  crc: '0xa55a7eb1'
+- name: INSTALL.PDM
+  size: 4233
+  date: '1990-03-21T12:00:02'
+  crc: '0x9282635d'
+- name: INSTALL1.EXE
+  size: 11445
+  date: '1990-07-10T14:44:20'
+  crc: '0xd462527b'
+- name: KID.DAT
+  size: 37149
+  date: '1990-08-31T15:14:40'
+  crc: '0x90e5edb6'
+- name: LEVELS.DAT
+  size: 37031
+  date: '1990-08-31T15:13:32'
+  crc: '0xdd46eefc'
+- name: MIDISND1.DAT
+  size: 9368
+  date: '1990-08-31T15:15:12'
+  crc: '0x258d38a5'
+- name: MIDISND2.DAT
+  size: 18408
+  date: '1990-08-31T15:15:18'
+  crc: '0x7b6ced71'
+- name: PRINCE.BAT
+  size: 372
+  date: '1992-10-07T11:11:18'
+  crc: '0x736f51d9'
+- name: PRINCE.DAT
+  size: 3278
+  date: '1990-08-31T15:06:36'
+  crc: '0x31793851'
+- name: PRINCE1.EXE
+  size: 122135
+  date: '1992-10-05T19:39:36'
+  crc: '0x215b3480'
+- name: PV.DAT
+  size: 25829
+  date: '1990-08-31T15:15:00'
+  crc: '0x772e7706'
+- name: SHADOW.DAT
+  size: 4715
+  date: '1990-08-31T15:14:54'
+  crc: '0xd886b145'
+- name: SKEL.DAT
+  size: 3864
+  date: '1990-08-31T15:14:48'
+  crc: '0x12df3c20'
+- name: TITLE.DAT
+  size: 36725
+  date: '1990-08-31T15:17:34'
+  crc: '0xa9a01505'
+- name: VDUNGEON.DAT
+  size: 14220
+  date: '1990-08-31T15:13:40'
+  crc: '0x80a8caba'
+- name: VIZIER.DAT
+  size: 6111
+  date: '1990-08-31T15:14:50'
+  crc: '0x6010d5ca'
+- name: VPALACE.DAT
+  size: 14226
+  date: '1990-08-31T15:14:06'
+  crc: '0xe0a66994'

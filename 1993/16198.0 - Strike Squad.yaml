@@ -1,5 +1,6 @@
-filename: Strike Squad (1993)(Mindcraft Software, Inc.) [Strategy].zip
+filename: Strike Squad v1.0 r930919 (1993)(Mindcraft Software, Inc.) [Strategy].zip
 tdc_id: '16198.0'
+parent_id: '16198.6'
 title:
   box: Strike Squad
 publisher: Mindcraft Software, Inc.
@@ -8,9 +9,15 @@ genre: Strategy
 language: English
 date:
   added: '2019-03-01T21:09:06'
-  last_modified: '2019-03-01T21:09:06'
+  last_modified: '2025-02-23T14:42:46'
+version: '1.0'
+release: '930919'
 type: zip
+commands:
+  play: SS.BAT
+  setup: SETD.EXE
 references:
+  mobygames: https://www.mobygames.com/game/9899/strike-squad/
   dosid: DOS04902
   exodos: Strike Squad (1993).zip
 files:
@@ -278,22 +285,6 @@ files:
   size: 198048
   date: '1993-07-14T11:32:00'
   crc: '0xde7255a2'
-- name: DISK2
-  size: 3
-  date: '1993-09-19T01:00:00'
-  crc: '0xe32fef56'
-- name: DISK3
-  size: 3
-  date: '1993-09-19T01:00:00'
-  crc: '0xe32fef56'
-- name: DISK4
-  size: 3
-  date: '1993-09-19T01:00:00'
-  crc: '0xe32fef56'
-- name: DISK5
-  size: 4
-  date: '1993-09-19T01:00:00'
-  crc: '0xad8bcdd9'
 - name: DRILLER1.ANM
   size: 85811
   date: '1993-06-21T15:39:28'
@@ -340,7 +331,7 @@ files:
   crc: '0xaea0cb49'
 - name: ENTSPEAK\
   size: 0
-  date: '2012-09-07T18:40:30'
+  date: '1993-09-18T18:45:50'
 - name: ENTSPEAK\AKEMAN.ESC
   size: 1332
   date: '1993-08-17T12:22:38'
@@ -689,10 +680,6 @@ files:
   size: 392
   date: '1993-04-12T12:13:34'
   crc: '0x6a91c790'
-- name: GUN-SALE.SIC
-  size: 1574
-  date: '1993-10-06T14:00:00'
-  crc: '0xc69db60b'
 - name: GUN-SALE.SIO
   size: 1574
   date: '1993-09-17T13:53:26'
@@ -953,14 +940,6 @@ files:
   size: 26456
   date: '1993-03-09T10:53:36'
   crc: '0xec168bc9'
-- name: MOTHSUPP.CUN
-  size: 13
-  date: '1993-10-06T14:02:30'
-  crc: '0x5afd712f'
-- name: MOTHSUPP.CUR
-  size: 69055
-  date: '1993-10-06T14:02:30'
-  crc: '0x03adc1fe'
 - name: MOTHSUPP.MAP
   size: 16887
   date: '1993-04-09T13:40:46'
@@ -1033,10 +1012,6 @@ files:
   size: 5040
   date: '1993-08-11T09:28:28'
   crc: '0x423e2b1b'
-- name: PET-SALE.SIC
-  size: 1574
-  date: '1993-10-06T14:00:00'
-  crc: '0xb879ef8f'
 - name: PET-SALE.SIO
   size: 1574
   date: '1993-09-17T12:18:50'
@@ -1201,14 +1176,6 @@ files:
   size: 16939
   date: '1993-04-14T11:54:38'
   crc: '0x6e2ab7d3'
-- name: REBEL001.CUN
-  size: 13
-  date: '1993-10-06T14:11:30'
-  crc: '0x336cdcfc'
-- name: REBEL001.CUR
-  size: 71827
-  date: '1993-10-06T14:11:30'
-  crc: '0x4e09817d'
 - name: REBEL001.MAP
   size: 22887
   date: '1993-09-03T14:53:14'
@@ -1247,8 +1214,8 @@ files:
   crc: '0xd4317543'
 - name: S.EXE
   size: 848760
-  date: '2013-01-14T18:30:46'
-  crc: '0x078d58d3'
+  date: '1993-09-18T19:22:40'
+  crc: '0x947c35e1'
 - name: S.EX_
   size: 848760
   date: '1993-09-18T19:22:40'
@@ -1297,10 +1264,6 @@ files:
   size: 392
   date: '1993-07-15T10:42:54'
   crc: '0xa94c0c5f'
-- name: SHOP-KEE.SIC
-  size: 1573
-  date: '1993-10-06T14:00:00'
-  crc: '0xce8e3ea8'
 - name: SHOP-KEE.SIO
   size: 1573
   date: '1993-09-17T15:01:22'
@@ -1369,10 +1332,6 @@ files:
   size: 2065
   date: '1993-09-19T01:00:00'
   crc: '0x41573f75'
-- name: SOUNDRV.COM
-  size: 5072
-  date: '1993-08-11T09:28:50'
-  crc: '0x26322111'
 - name: SOUNDRV.DRV
   size: 4176
   date: '1993-05-05T17:56:20'

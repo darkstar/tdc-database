@@ -1,8 +1,9 @@
-filename: Hobbit, The [DC] (1983)(Melbourne House) [Adventure, Interactive Fiction].zip
+filename: Hobbit, The [DC] (1983)(Addison-Wesley Publishing Company, Inc.) [Adventure, Interactive Fiction].zip
 tdc_id: '5541.0'
+parent_id: '5541.2'
 title:
   box: The Hobbit
-publisher: Melbourne House
+publisher: Addison-Wesley Publishing Company, Inc.
 year: '1983'
 genre:
 - Adventure
@@ -10,15 +11,15 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:23:14'
-  last_modified: '2019-03-01T18:23:14'
+  last_modified: '2025-04-06T08:34:03'
 type: zip
 tags:
 - DOSConversion
+media: 360K
 commands:
   play: Hobbit.com
 references:
-  dosid: DOS05907
-  exodos: Hobbit, The (1983).zip
+  mobygames: https://www.mobygames.com/game/3893/the-hobbit/
 files:
 - name: Hobbit.com
   size: 584

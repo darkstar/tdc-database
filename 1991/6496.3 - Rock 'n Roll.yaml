@@ -1,4 +1,4 @@
-filename: Rock 'n Roll r911001 (Installer) (1991)(Rainbow Arts Software GmbH) [Action, Strategy].zip
+filename: Rock 'n Roll r911001 (Installer) (1991)(Rainbow Arts Software GmbH) [Action, Strategy][!].zip
 tdc_id: '6496.3'
 parent_id: '6496.7'
 title:
@@ -11,17 +11,17 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:33:52'
-  last_modified: '2023-10-13T17:56:35'
+  last_modified: '2025-03-07T14:14:46'
 release: '911001'
 type: zip
+tags:
+- KnownGood
 media: 720K
 installer: true
 commands:
   play: ROCKROLL.EXE
 references:
   mobygames: https://www.mobygames.com/game/2047/rock-n-roll/
-  dosid: DOS04353
-  exodos: Rock 'n Roll (1990).zip
 files:
 - name: README.DAT
   size: 16940

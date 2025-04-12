@@ -1,5 +1,6 @@
-filename: Pools of Darkness (1991)(Strategic Simulations, Inc.) [Adventure, Role-Playing (RPG)].zip
+filename: Pools of Darkness v1.0 (1991)(Strategic Simulations, Inc.) [Adventure, Role-Playing (RPG)].zip
 tdc_id: '10421.0'
+parent_id: '10421.1'
 title:
   box: Pools of Darkness
 publisher: Strategic Simulations, Inc.
@@ -10,8 +11,14 @@ genre:
 language: English
 date:
   added: '2019-08-20T19:35:58'
-  last_modified: '2019-08-20T19:35:58'
+  last_modified: '2025-03-25T16:42:03'
+version: '1.0'
 type: zip
+media: 720K
+commands:
+  play: START.BAT
+references:
+  mobygames: https://www.mobygames.com/game/505/pools-of-darkness/
 files:
 - name: 8X8D0.DAX
   size: 1857

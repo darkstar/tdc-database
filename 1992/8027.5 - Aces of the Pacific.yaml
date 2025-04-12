@@ -1,5 +1,6 @@
-filename: Aces of the Pacific vA.30 (Installer) (1992)(Sierra On-Line, Inc.) [Simulation].zip
+filename: Aces of the Pacific v1.0 (Installer) (1992)(Sierra On-Line, Inc.) [Simulation][!].zip
 tdc_id: '8027.5'
+parent_id: '8027.12'
 title:
   box: Aces of the Pacific
 publisher: Sierra On-Line, Inc.
@@ -8,11 +9,27 @@ genre: Simulation
 language: English
 date:
   added: '2019-03-01T18:40:54'
-  last_modified: '2019-03-01T18:40:54'
-version: A.30
+  last_modified: '2025-03-16T10:23:54'
+version: '1.0'
 type: zip
+tags:
+- KnownGood
+media: 1.44M
 installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1419/aces-of-the-pacific/
 files:
+- name: ACES 1
+  size: 0
+  date: '1992-05-23T14:17:38'
+- name: ACES 2
+  size: 0
+  date: '1992-05-23T14:26:24'
+- name: ACES 3
+  size: 0
+  date: '1992-05-23T14:25:36'
 - name: ADL.DRV
   size: 107
   date: '1992-05-22T01:00:00'
@@ -74,9 +91,9 @@ files:
   date: '1992-05-22T01:00:00'
   crc: '0xdccc70a3'
 - name: RESOURCE.CFG
-  size: 167
-  date: '2008-04-26T23:20:44'
-  crc: '0x93734d24'
+  size: 125
+  date: '1992-05-22T01:00:00'
+  crc: '0x11243b68'
 - name: STD.DRV
   size: 118
   date: '1992-05-22T01:00:00'

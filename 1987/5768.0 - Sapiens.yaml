@@ -1,8 +1,9 @@
-filename: Sapiens (1987)(Loriciels) [Action, Adventure].zip
+filename: Sapiens (1987)(Loriciels, Proein S.L.) [Action, Adventure].zip
 tdc_id: '5768.0'
+parent_id: '5768.2'
 title:
   box: Sapiens
-publisher: Loriciels
+publisher: Loriciels, Proein S.L.
 year: '1987'
 genre:
 - Action
@@ -10,8 +11,9 @@ genre:
 language: English
 date:
   added: '2019-12-19T21:55:42'
-  last_modified: '2024-01-26T16:30:16'
+  last_modified: '2025-01-29T10:12:11'
 type: zip
+media: 360K
 commands:
   play: SAPIENS.EXE
 references:
@@ -19,9 +21,9 @@ references:
 files:
 - name: SAPIENS.EXE
   size: 89916
-  date: '1987-08-21T19:27:50'
+  date: '1987-08-21T18:27:50'
   crc: '0xab05660d'
 - name: SAPIENS.EX_
   size: 89916
-  date: '1987-08-21T19:27:50'
+  date: '1987-08-21T18:27:50'
   crc: '0x5f4021dd'

@@ -1,0 +1,30 @@
+filename: Wolfenstein 3D - Episode One v1.1 (Installer) [SW] (1992)(Apogee Software, Ltd.) [Action].zip
+tdc_id: '16051.34'
+title:
+  screen: Wolfenstein 3D - Episode One
+publisher: Apogee Software, Ltd.
+year: '1992'
+genre: Action
+language: English
+date:
+  added: '2025-02-09T16:37:27'
+  last_modified: '2025-02-14T07:59:54'
+version: '1.1'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: W3D1-ASP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/306/wolfenstein-3d/
+files:
+- name: CATALOG.EXE
+  size: 26997
+  date: '1992-05-27T13:20:46'
+  crc: '0x8098c932'
+- name: W3D1-ASP.EXE
+  size: 644537
+  date: '1992-06-01T21:11:00'
+  crc: '0x9a26c001'

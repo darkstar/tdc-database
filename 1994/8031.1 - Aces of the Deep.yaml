@@ -1,5 +1,6 @@
-filename: Aces of the Deep v4.27 (1994)(Sierra On-Line, Inc.) [Simulation].zip
+filename: Aces of the Deep v1.0 (1994)(Sierra On-Line, Inc.) [Simulation].zip
 tdc_id: '8031.1'
+parent_id: '8031.10'
 title:
   box: Aces of the Deep
 publisher: Sierra On-Line, Inc.
@@ -8,9 +9,15 @@ genre: Simulation
 language: English
 date:
   added: '2019-03-01T21:46:44'
-  last_modified: '2019-03-01T21:46:44'
-version: '4.27'
+  last_modified: '2025-03-16T11:54:40'
+version: '1.0'
 type: zip
+media: 1.44M
+commands:
+  play: AOD.EXE
+  setup: SOUNDSET.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1171/aces-of-the-deep/
 files:
 - name: AOD.EXE
   size: 25062

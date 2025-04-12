@@ -1,0 +1,32 @@
+filename: Война за возвышение v1 (Installer) (Ru) [FW] (1996)(МАГ) [Strategy].zip
+tdc_id: '17815.0'
+title:
+  screen: Война за возвышение
+publisher: МАГ
+year: '1996'
+genre: Strategy
+language: Russian
+date:
+  added: '2025-03-19T13:12:28'
+  last_modified: '2025-03-19T13:12:28'
+version: '1'
+type: zip
+tags:
+- Freeware
+media: Download
+installer: true
+commands:
+  play: INSTALL.COM
+files:
+- name: INSTALL.000
+  size: 1335782
+  date: '1997-01-23T22:06:16'
+  crc: '0x7df9b000'
+- name: INSTALL.001
+  size: 1091547
+  date: '1997-01-23T22:06:22'
+  crc: '0xe8ec6023'
+- name: INSTALL.COM
+  size: 20588
+  date: '1996-09-01T01:01:00'
+  crc: '0x2365b05f'

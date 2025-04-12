@@ -1,5 +1,6 @@
-filename: Aces of the Deep v4.27 (1994)(Sierra On-Line, Inc.) [IMA][1440k].zip
+filename: Aces of the Deep v1.0 (1994)(Sierra On-Line, Inc.) [IMA][1440k][!].zip
 tdc_id: '8031.9'
+parent_id: '8031.19'
 title:
   box: Aces of the Deep
 publisher: Sierra On-Line, Inc.
@@ -8,28 +9,32 @@ genre: IMA
 language: English
 date:
   added: '2023-07-06T12:08:08'
-  last_modified: '2023-07-06T12:08:08'
-version: '4.27'
+  last_modified: '2025-03-16T11:52:50'
+version: '1.0'
 type: IMA
+tags:
+- KnownGood
 media: 1.44M
+references:
+  mobygames: https://www.mobygames.com/game/1171/aces-of-the-deep/
 files:
 - name: disk1.ima
   size: 1474560
-  date: '2018-11-26T23:12:36'
+  date: '2025-03-12T18:17:30'
   crc: '0x23ea3397'
 - name: disk2.ima
   size: 1474560
-  date: '2018-11-26T23:14:56'
+  date: '2025-03-12T18:14:22'
   crc: '0x79d4b2f4'
 - name: disk3.ima
   size: 1474560
-  date: '2018-11-26T23:15:04'
+  date: '2025-03-12T18:11:24'
   crc: '0x1da0f08f'
 - name: disk4.ima
   size: 1474560
-  date: '2018-11-26T23:15:32'
+  date: '2025-03-12T18:08:46'
   crc: '0x696db5a2'
 - name: disk5.ima
   size: 1474560
-  date: '2018-11-26T23:15:42'
+  date: '2025-03-12T18:01:36'
   crc: '0xb050990c'

@@ -1,4 +1,4 @@
-filename: Bob Morane- Jungle 1 (Fr) (1987)(Infogrames Multimedia SA) [Action, Adventure].zip
+filename: Bob Morane- Jungle 1 (1987)(Infogrames Multimedia SA) [Action, Adventure].zip
 tdc_id: '12711.0'
 title:
   box: 'Bob Morane: Jungle 1'
@@ -7,12 +7,15 @@ year: '1987'
 genre:
 - Action
 - Adventure
-language: French
+language: English
 date:
   added: '2019-03-01T18:25:12'
-  last_modified: '2019-03-01T18:25:12'
+  last_modified: '2025-02-16T17:35:56'
 type: zip
+commands:
+  play: TATOU.COM
 references:
+  mobygames: https://www.mobygames.com/game/60477/bob-morane-jungle-1/
   dosid: DOS06366
   exodos: Bob Morane - Jungle 1 (1987).zip
 files:
@@ -44,11 +47,11 @@ files:
   size: 50566
   date: '1987-12-11T17:03:50'
   crc: '0x85fee835'
-- name: TATOU.BAK
+- name: TATOU.COM
+  size: 3559
+  date: '1987-12-15T17:00:30'
+  crc: '0xf1c8fff7'
+- name: TATOU.CO_
   size: 3559
   date: '1987-12-15T17:00:30'
   crc: '0x2f49a23f'
-- name: TATOU.COM
-  size: 3559
-  date: '2012-10-13T11:01:20'
-  crc: '0xf1c8fff7'

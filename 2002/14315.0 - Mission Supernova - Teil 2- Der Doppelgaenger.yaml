@@ -1,4 +1,4 @@
-filename: Mission Supernova - Teil 2- Der Doppelgaenger (De) [FW] (2002)(Thomas & Steffen Dingel) [Adventure].zip
+filename: Mission Supernova - Teil 2- Der Doppelgaenger v1.02 (De) [FW] (2002)(Thomas & Steffen Dingel) [Adventure].zip
 tdc_id: '14315.0'
 title:
   screen: 'Mission Supernova - Teil 2: Der Doppelgaenger'
@@ -8,11 +8,16 @@ genre: Adventure
 language: German
 date:
   added: '2020-03-15T21:24:46'
-  last_modified: '2020-03-15T21:24:46'
+  last_modified: '2025-03-10T08:35:34'
+version: '1.02'
 type: zip
 tags:
 - Freeware
 media: Download
+commands:
+  play: MS2.EXE
+references:
+  mobygames: https://www.mobygames.com/game/4582/mission-supernova/
 files:
 - name: hilfe2.exe
   size: 11264

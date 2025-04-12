@@ -1,0 +1,52 @@
+filename: 天外劍聖錄 (Installer) (Zh) (1993)(Dynasty International Information Co., Ltd.) [Role-Playing (RPG)].zip
+tdc_id: '16682.1'
+title:
+  screen: 天外劍聖錄
+  translation: 'Beyond the Heavens: Holy Sword Chronicles'
+  transliteration: Tian Wai Jian Sheng Lu
+publisher: Dynasty International Information Co., Ltd.
+year: '1993'
+genre: Role-Playing (RPG)
+language: Chinese
+date:
+  added: '2025-04-02T15:00:08'
+  last_modified: '2025-04-02T15:00:08'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/58831/tian-wai-jian-sheng-lu/
+files:
+- name: INSTALL.EXE
+  size: 15592
+  date: '1993-07-27T15:23:52'
+  crc: '0x574e3f6a'
+- name: INSTALL.FBK
+  size: 30477
+  date: '1993-07-27T14:24:44'
+  crc: '0x1252c830'
+- name: SWORDISK.1
+  size: 1167360
+  date: '1993-07-27T15:28:34'
+  crc: '0xa8962f2d'
+- name: SWORDISK.2
+  size: 1213952
+  date: '1993-07-27T15:30:00'
+  crc: '0xec2115e1'
+- name: SWORDISK.3
+  size: 1213952
+  date: '1993-07-27T15:31:32'
+  crc: '0x4ac95e2c'
+- name: SWORDISK.4
+  size: 1213952
+  date: '1993-07-27T15:32:48'
+  crc: '0xcca3c86e'
+- name: SWORDISK.5
+  size: 1213952
+  date: '1993-07-27T15:34:04'
+  crc: '0x127fe8c6'
+- name: SWORDISK.6
+  size: 143811
+  date: '1993-07-27T15:35:28'
+  crc: '0x96861706'

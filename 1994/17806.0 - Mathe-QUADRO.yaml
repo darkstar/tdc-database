@@ -1,0 +1,32 @@
+filename: Mathe-QUADRO v2.0 (Installer) (De) [SW] (1994)(Thomas Lademann) [Educational].zip
+tdc_id: '17806.0'
+title:
+  screen: Mathe-QUADRO
+publisher: Thomas Lademann
+year: '1994'
+genre: Educational
+language: German
+date:
+  added: '2025-03-06T14:45:28'
+  last_modified: '2025-03-06T14:45:28'
+version: '2.0'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: START.COM
+files:
+- name: ARTIKEL.TXT
+  size: 2908
+  date: '1994-09-25T00:00:00'
+  crc: '0x75649484'
+- name: MQUADRO.EXE
+  size: 386085
+  date: '1994-09-25T02:38:52'
+  crc: '0x9f60f2c8'
+- name: START.COM
+  size: 2030
+  date: '1994-08-30T00:00:00'
+  crc: '0x575cd9d2'

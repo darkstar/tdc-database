@@ -1,0 +1,97 @@
+filename: Amstrad Games Pack 1 (Installer) (1991)(Amstrad Soft) [Compilation].zip
+tdc_id: '4206.1'
+parent_id: '4206.0'
+title:
+  box: Amstrad Games Pack 1
+  qualifier: Installer
+publisher: Amstrad Soft
+year: '1991'
+genre: Compilation
+language: English
+date:
+  added: '2025-02-20T08:47:09'
+  last_modified: '2025-02-20T08:47:09'
+type: zip
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.BAT
+files:
+- name: ADDTOCP.BAT
+  size: 1575
+  date: '1991-02-28T10:41:06'
+  crc: '0x3e089b62'
+- name: COPYING.CJL
+  size: 9493
+  date: '1991-02-15T17:37:40'
+  crc: '0x65a59a8a'
+- name: DISK.CJL
+  size: 6146
+  date: '1991-02-15T17:05:40'
+  crc: '0xe312957a'
+- name: ELEVEL.EXE
+  size: 9419
+  date: '1991-08-21T12:12:04'
+  crc: '0x1fef655b'
+- name: F15 PRIN.CE
+  size: 0
+  date: '1991-08-28T15:45:18'
+- name: F15.EXE
+  size: 418717
+  date: '1991-07-23T10:31:18'
+  crc: '0x7af47be2'
+- name: F15V.ICN
+  size: 1446
+  date: '1991-02-04T22:22:02'
+  crc: '0xa1241757'
+- name: FININSTL.BAT
+  size: 96
+  date: '1991-08-28T15:24:26'
+  crc: '0xbaf465ae'
+- name: GOODBYE.CJL
+  size: 11170
+  date: '1991-02-15T17:08:18'
+  crc: '0x20b98b23'
+- name: INSTALL.BAT
+  size: 319
+  date: '1991-02-28T09:21:46'
+  crc: '0xb54dc7da'
+- name: INSTALNK.BAT
+  size: 230
+  date: '1991-02-21T11:07:38'
+  crc: '0xbf2954fa'
+- name: LINKS
+  size: 0
+  date: '1991-08-20T15:44:28'
+- name: LINKS.EXE
+  size: 1443115
+  date: '1991-08-20T16:45:34'
+  crc: '0xab21344f'
+- name: LNKV.ICN
+  size: 1510
+  date: '1991-01-11T11:42:34'
+  crc: '0xc5649c58'
+- name: PERV.ICN
+  size: 2690
+  date: '1991-07-25T10:10:46'
+  crc: '0xcc95d618'
+- name: PRINCE.EXE
+  size: 347653
+  date: '1991-08-27T11:11:50'
+  crc: '0x61f5f9c7'
+- name: SETICON
+  size: 9
+  date: '1991-08-21T13:27:28'
+  crc: '0xf58b7f9b'
+- name: SHOWMCGA.COM
+  size: 4397
+  date: '1991-07-12T14:18:24'
+  crc: '0xabffb9fe'
+- name: WELCOME.CJL
+  size: 10152
+  date: '1991-02-15T17:13:16'
+  crc: '0xa48d0051'
+- name: WRONG.CJL
+  size: 8071
+  date: '1991-02-18T10:51:52'
+  crc: '0xac396516'

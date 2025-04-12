@@ -1,0 +1,92 @@
+filename: Storm Across Europe v1.0 (1990)(Strategic Simulations, Inc.) [Strategy, War][!].zip
+tdc_id: '16164.0'
+parent_id: '16164.1'
+title:
+  box: Storm Across Europe
+publisher: Strategic Simulations, Inc.
+year: '1990'
+genre:
+- Strategy
+- War
+language: English
+date:
+  added: '2019-03-01T18:29:06'
+  last_modified: '2025-03-10T13:35:50'
+version: '1.0'
+type: zip
+tags:
+- KnownGood
+media: 360K
+commands:
+  play: STORM.EXE
+references:
+  mobygames: https://www.mobygames.com/game/9422/storm-across-europe/
+files:
+- name: INSTALL.BAT
+  size: 2919
+  date: '1990-07-05T11:23:52'
+  crc: '0xc89763f2'
+- name: PICTURES\
+  size: 0
+  date: '1990-07-03T20:46:10'
+- name: PICTURES\CGAKEY.PIC
+  size: 11280
+  date: '1990-07-01T03:34:12'
+  crc: '0x7b5c3f9d'
+- name: PICTURES\EGAKEY.PIC
+  size: 22560
+  date: '1990-07-01T01:47:46'
+  crc: '0x0ffdf287'
+- name: PICTURES\MAP.CGA
+  size: 46676
+  date: '1990-07-03T12:11:44'
+  crc: '0xaf4a932c'
+- name: PICTURES\MAP.EGA
+  size: 81114
+  date: '1990-06-02T17:32:48'
+  crc: '0xcd00de8a'
+- name: PICTURES\TGAKEY.PIC
+  size: 22560
+  date: '1990-07-01T02:04:12'
+  crc: '0x1f3adc68'
+- name: SCENARIO\
+  size: 0
+  date: '1990-07-03T20:46:10'
+- name: SCENARIO\AUT39.STR
+  size: 8508
+  date: '1989-12-31T14:51:12'
+  crc: '0xcfd02e0d'
+- name: SCENARIO\SPR40.STR
+  size: 8508
+  date: '1989-12-31T14:57:26'
+  crc: '0xd3ed545b'
+- name: SCENARIO\SUM41.STR
+  size: 8508
+  date: '1989-12-31T14:57:46'
+  crc: '0xb3637096'
+- name: SCENARIO\SUM42.STR
+  size: 8508
+  date: '1989-12-31T14:58:00'
+  crc: '0xa5da4e5b'
+- name: SCENARIO\SUM43.STR
+  size: 8508
+  date: '1989-12-31T14:58:18'
+  crc: '0xf2ea69d0'
+- name: SCENARIO\SUM44.STR
+  size: 8508
+  date: '1989-12-31T14:58:32'
+  crc: '0x8c4ce3d3'
+- name: STORM I
+  size: 0
+  date: '1990-07-03T21:37:40'
+- name: STORM II
+  size: 0
+  date: '1990-07-03T21:45:52'
+- name: STORM.EXE
+  size: 306687
+  date: '1990-07-03T21:15:32'
+  crc: '0x933ff21f'
+- name: STORM.EX_
+  size: 306687
+  date: '1990-07-03T21:15:32'
+  crc: '0x8aa66f6a'

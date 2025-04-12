@@ -1,0 +1,76 @@
+filename: Operation Body Count (demo) (1994)(Universal Software Interactive, Capstone Software) [Action].zip
+tdc_id: '5703.4'
+title:
+  screen: Operation Body Count
+publisher: Universal Software Interactive, Capstone Software
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2025-03-31T09:05:57'
+  last_modified: '2025-03-31T09:05:57'
+type: zip
+media: CD-ROM
+demo: true
+commands:
+  play: BC.EXE
+  setup: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1828/operation-body-count/
+files:
+- name: AUDIOHED.BC
+  size: 1244
+  date: '1994-09-30T17:59:18'
+  crc: '0x2f95c7bf'
+- name: AUDIOMUS.BC
+  size: 1376256
+  date: '1994-10-04T11:06:52'
+  crc: '0x4918a93d'
+- name: AUDIOT.BC
+  size: 197419
+  date: '1994-09-30T17:59:16'
+  crc: '0x1cc906bc'
+- name: BC.BAT
+  size: 420
+  date: '1994-10-24T12:06:24'
+  crc: '0xcbb25c60'
+- name: BCLOG.BAT
+  size: 120
+  date: '1994-11-04T09:53:46'
+  crc: '0x83f30e33'
+- name: COUNT.EXE
+  size: 233984
+  date: '1994-11-09T10:54:18'
+  crc: '0x11d196b7'
+- name: GFXTILES.BC
+  size: 2084536
+  date: '1994-11-09T11:17:02'
+  crc: '0x22233999'
+- name: MAPHEAD.BC
+  size: 402
+  date: '1994-11-09T11:04:08'
+  crc: '0xf9ff1894'
+- name: MAPTEMP.BC
+  size: 7886
+  date: '1994-11-09T11:04:08'
+  crc: '0x28a9b269'
+- name: PRINTLOG.BAT
+  size: 114
+  date: '1994-09-15T17:48:58'
+  crc: '0x7c0b0358'
+- name: SETUP.EXE
+  size: 55134
+  date: '1994-09-23T12:29:52'
+  crc: '0x740f536c'
+- name: VGADICT.BC
+  size: 1024
+  date: '1994-11-08T10:45:00'
+  crc: '0x193332ac'
+- name: VGAGRAPH.BC
+  size: 315195
+  date: '1994-11-08T10:45:00'
+  crc: '0xf751b5b8'
+- name: VGAHEAD.BC
+  size: 177
+  date: '1994-11-08T10:45:00'
+  crc: '0xc6dec3de'

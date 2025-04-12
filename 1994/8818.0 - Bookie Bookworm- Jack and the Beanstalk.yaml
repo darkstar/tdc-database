@@ -1,2250 +1,2257 @@
-filename: Bookie Bookworm- Jack and the Beanstalk (Installer) [SW][b1] (1994)(Cloud Nine Creative Group) [Educational].zip
+filename: Bookie Bookworm- Jack and the Beanstalk v1.0 (Installer) (1994)(Cloud Nine Creative Group) [Educational].zip
 tdc_id: '8818.0'
 title:
-  screen: 'Bookie Bookworm: Jack and the Beanstalk'
+  box: 'Bookie Bookworm: Jack and the Beanstalk'
 publisher: Cloud Nine Creative Group
 year: '1994'
 genre: Educational
 language: English
 date:
   added: '2019-03-01T21:54:54'
-  last_modified: '2019-03-01T21:54:54'
+  last_modified: '2025-01-28T13:01:23'
+version: '1.0'
 type: zip
-tags:
-- Shareware
-- Bad: 1
-media: Download
 installer: true
+commands:
+  play: INSTALL.EXE
 files:
-- name: bookie.exe
+- name: BOOKIE.EXE
   size: 82440
-  date: '1999-12-31T19:00:00'
+  date: '1994-11-20T19:35:48'
   crc: '0xb0b1885d'
-- name: bookie.ico
+- name: BOOKIE.ICO
   size: 766
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xf6d38fb0'
-- name: bookiec.gr
+- name: BOOKIE.PIF
+  size: 545
+  date: '1994-09-09T18:00:02'
+  crc: '0xde95f382'
+- name: BOOKIEC.GR
   size: 786
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xc431662f'
-- name: bookied.gr
+- name: BOOKIED.GR
   size: 786
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x9c310188'
-- name: buttons.img
+- name: BUTTONS.IMG
   size: 61321
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x042e8d8c'
-- name: cover.img
+- name: COVER.IMG
   size: 45866
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x3bc86b73'
-- name: covers\
+- name: COVERS\
   size: 0
-  date: '2013-07-07T13:06:08'
-- name: covers\01.bbp
+  date: '1994-09-09T18:00:02'
+- name: COVERS\01.BBP
   size: 7896
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0xc3fdc794'
-- name: covers\01.bbw
+- name: COVERS\01.BBW
   size: 5785
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0x90eb5878'
-- name: covers\02.bbp
+- name: COVERS\02.BBP
   size: 6323
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0xf07a00f2'
-- name: covers\02.bbw
+- name: COVERS\02.BBW
   size: 7842
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0xe52eb339'
-- name: covers\03.bbp
+- name: COVERS\03.BBP
   size: 9532
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0xb4519168'
-- name: covers\03.bbw
+- name: COVERS\03.BBW
   size: 6743
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0x3c768237'
-- name: covers\04.bbp
+- name: COVERS\04.BBP
   size: 11677
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0xdbd48a71'
-- name: covers\04.bbw
+- name: COVERS\04.BBW
   size: 5416
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0xc4686288'
-- name: covers\05.bbp
+- name: COVERS\05.BBP
   size: 11473
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0x76686dad'
-- name: covers\05.bbw
+- name: COVERS\05.BBW
   size: 6262
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0xc7e6f1a8'
-- name: covers\06.bbp
+- name: COVERS\06.BBP
   size: 6717
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0x60d70aab'
-- name: covers\06.bbw
+- name: COVERS\06.BBW
   size: 5543
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0xcbcd26a3'
-- name: covers\07.bbp
+- name: COVERS\07.BBP
   size: 4856
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0xb124cdab'
-- name: covers\07.bbw
+- name: COVERS\07.BBW
   size: 4783
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0xd4c814fc'
-- name: covers\covers.img
+- name: COVERS\COVERS.IMG
   size: 78656
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0xf2a858be'
-- name: covers\covers.txt
+- name: COVERS\COVERS.TXT
   size: 3203
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0x954aca62'
-- name: covers\dist01.img
+- name: COVERS\DIST01.IMG
   size: 4654
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0x1752122d'
-- name: covers\order01.txt
+- name: COVERS\ORDER01.TXT
   size: 17
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0xbd8d5df5'
-- name: covers\original.col
+- name: COVERS\ORIGINAL.COL
   size: 4096
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0x462486a5'
-- name: covers\reg01.txt
+- name: COVERS\REG01.TXT
   size: 17
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:18'
   crc: '0xbc2f8682'
-- name: help\
+- name: HELP\
   size: 0
-  date: '2013-07-07T13:06:06'
-- name: help\books.bbw
+  date: '1994-09-09T18:00:00'
+- name: HELP\BOOKS.BBW
   size: 3888
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0x97023cfa'
-- name: help\boxaway.bbw
+- name: HELP\BOXAWAY.BBW
   size: 3782
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0xa12eb1ba'
-- name: help\boxaway1.bbw
+- name: HELP\BOXAWAY1.BBW
   size: 16363
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0xf36e9c24'
-- name: help\boxout.bbw
+- name: HELP\BOXOUT.BBW
   size: 4525
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0x25b3deb0'
-- name: help\boxout1.bbw
+- name: HELP\BOXOUT1.BBW
   size: 12748
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0xc9b99feb'
-- name: help\clear.bbw
+- name: HELP\CLEAR.BBW
   size: 4079
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0xed528329'
-- name: help\exit.bbw
+- name: HELP\EXIT.BBW
   size: 5881
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0x195494a0'
-- name: help\fill.bbw
+- name: HELP\FILL.BBW
   size: 2777
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0x483bc484'
-- name: help\helpbutt.bbw
+- name: HELP\HELPBUTT.BBW
   size: 9764
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0x9eb26e5d'
-- name: help\helpcray.bbw
+- name: HELP\HELPCRAY.BBW
   size: 6331
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0x15ee9d44'
-- name: help\helpfact.bbw
+- name: HELP\HELPFACT.BBW
   size: 23939
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0x9c7ed5dc'
-- name: help\helphint.bbw
+- name: HELP\HELPHINT.BBW
   size: 5137
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0x85d265f5'
-- name: help\helpmout.bbw
+- name: HELP\HELPMOUT.BBW
   size: 5559
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0xfa993b07'
-- name: help\helppict.bbw
+- name: HELP\HELPPICT.BBW
   size: 12747
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0xdb34d389'
-- name: help\helpreg.bbw
+- name: HELP\HELPREG.BBW
   size: 14488
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0x8c3fc351'
-- name: help\helptip.bbw
+- name: HELP\HELPTIP.BBW
   size: 7441
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0xe6240f43'
-- name: help\helpword.bbw
+- name: HELP\HELPWORD.BBW
   size: 5796
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0x267c43ce'
-- name: help\insert.bbw
+- name: HELP\INSERT.BBW
   size: 14037
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0x6e50aa2c'
-- name: help\ninstall.bbw
+- name: HELP\NINSTALL.BBW
   size: 16367
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0xf159d316'
-- name: help\nothing.bbw
+- name: HELP\NOTHING.BBW
   size: 2016
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0x6438e8af'
-- name: help\open1st.bbw
+- name: HELP\OPEN1ST.BBW
   size: 11154
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0xd7f4a67c'
-- name: help\popup.bbw
+- name: HELP\POPUP.BBW
   size: 12845
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0xf186aa18'
-- name: help\read.bbw
+- name: HELP\READ.BBW
   size: 2853
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0x80ab779d'
-- name: help\restore.bbw
+- name: HELP\RESTORE.BBW
   size: 4286
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0xc5e82ac3'
-- name: help\theme.bbw
+- name: HELP\THEME.BBW
   size: 73653
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0xc47c4f49'
-- name: help\turn.bbw
+- name: HELP\TURN.BBW
   size: 3396
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0xea0d84fb'
-- name: help\word.bbw
+- name: HELP\WORD.BBW
   size: 4477
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:28'
   crc: '0x385260ee'
-- name: install.exe
+- name: INSTALL.EXE
   size: 97096
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x4aaaaebc'
-- name: jack\
+- name: INSTALL.PIF
+  size: 545
+  date: '1994-09-09T18:00:02'
+  crc: '0x80cecf34'
+- name: JACK\
   size: 0
-  date: '2013-07-07T13:06:08'
-- name: jack\&911.bbw
+  date: '1994-09-09T14:00:02'
+- name: JACK\&911.BBW
   size: 5946
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x5138b71f'
-- name: jack\&axe.bbw
+- name: JACK\&AXE.BBW
   size: 5235
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x2061fddf'
-- name: jack\&bequiet.bbw
+- name: JACK\&BEQUIET.BBW
   size: 3682
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0xaab64291'
-- name: jack\&cool.bbw
+- name: JACK\&COOL.BBW
   size: 1784
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0xd523ac0f'
-- name: jack\&cow.bbw
+- name: JACK\&COW.BBW
   size: 4705
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x0d8e9e51'
-- name: jack\&don'tdo.bbw
+- name: JACK\&DON'TDO.BBW
   size: 3828
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x67dea304'
-- name: jack\&goingup.bbw
+- name: JACK\&GOINGUP.BBW
   size: 2749
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x1818cef3'
-- name: jack\&gojack.bbw
+- name: JACK\&GOJACK.BBW
   size: 5421
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x9928597d'
-- name: jack\&goodlu.bbw
+- name: JACK\&GOODLU.BBW
   size: 6346
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x11111df0'
-- name: jack\&idon't.bbw
+- name: JACK\&IDON'T.BBW
   size: 4072
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0xa6fb9175'
-- name: jack\&laundry.bbw
+- name: JACK\&LAUNDRY.BBW
   size: 5367
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0xdada5b35'
-- name: jack\&pirate.bbw
+- name: JACK\&PIRATE.BBW
   size: 7096
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0xbd811517'
-- name: jack\&shh.bbw
+- name: JACK\&SHH.BBW
   size: 5345
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x52e7b4dd'
-- name: jack\&teens.bbw
+- name: JACK\&TEENS.BBW
   size: 4029
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x4fc272b8'
-- name: jack\&timber.bbw
+- name: JACK\&TIMBER.BBW
   size: 3928
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0xb4709cb8'
-- name: jack\01.bbp
+- name: JACK\01.BBP
   size: 7952
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x8b0cf1d5'
-- name: jack\01.bbw
+- name: JACK\01.BBW
   size: 52348
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:22'
   crc: '0xbb54a2dd'
-- name: jack\0101.bba
+- name: JACK\0101.BBA
   size: 1615
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0xd670a784'
-- name: jack\0102.bba
+- name: JACK\0102.BBA
   size: 2324
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x961e79da'
-- name: jack\0103.bba
+- name: JACK\0103.BBA
   size: 3124
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x7d489221'
-- name: jack\0104.bba
+- name: JACK\0104.BBA
   size: 865
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x43de15f8'
-- name: jack\0105.bba
+- name: JACK\0105.BBA
   size: 1585
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x4d5f39c9'
-- name: jack\0106.bba
+- name: JACK\0106.BBA
   size: 845
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x1b40b2ec'
-- name: jack\0107.bba
+- name: JACK\0107.BBA
   size: 704
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0xc360f071'
-- name: jack\0108.bba
+- name: JACK\0108.BBA
   size: 499
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x117962a5'
-- name: jack\0109.bba
+- name: JACK\0109.BBA
   size: 3159
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0xcfe6d4ce'
-- name: jack\0110.bba
+- name: JACK\0110.BBA
   size: 938
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0xb0a9d79c'
-- name: jack\0111.bba
+- name: JACK\0111.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x50253589'
-- name: jack\0112.bba
+- name: JACK\0112.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x782525bc'
-- name: jack\0113.bba
+- name: JACK\0113.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0xd6f5d790'
-- name: jack\0114.bba
+- name: JACK\0114.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x282505d6'
-- name: jack\02.bbp
+- name: JACK\02.BBP
   size: 11484
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x1601f86e'
-- name: jack\02.bbw
+- name: JACK\02.BBW
   size: 47538
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:22'
   crc: '0x61eb2900'
-- name: jack\0201.bba
+- name: JACK\0201.BBA
   size: 888
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x2a5116f9'
-- name: jack\0202.bba
+- name: JACK\0202.BBA
   size: 1890
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x3f46fbab'
-- name: jack\0203.bba
+- name: JACK\0203.BBA
   size: 2828
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x4b9bfb1d'
-- name: jack\0204.bba
+- name: JACK\0204.BBA
   size: 6217
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0xc288977d'
-- name: jack\0205.bba
+- name: JACK\0205.BBA
   size: 2266
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0xeed3e32d'
-- name: jack\0206.bba
+- name: JACK\0206.BBA
   size: 936
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x3fbe7ecc'
-- name: jack\0207.bba
+- name: JACK\0207.BBA
   size: 1798
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0xc477486d'
-- name: jack\0208.bba
+- name: JACK\0208.BBA
   size: 2038
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x46b2ef76'
-- name: jack\0209.bba
+- name: JACK\0209.BBA
   size: 248
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0xcadbc59b'
-- name: jack\0210.bba
+- name: JACK\0210.BBA
   size: 3335
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x65b60114'
-- name: jack\0211.bba
+- name: JACK\0211.BBA
   size: 1300
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0xa20e6ab1'
-- name: jack\0212.bba
+- name: JACK\0212.BBA
   size: 2003
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0xf8a3e853'
-- name: jack\0213.bba
+- name: JACK\0213.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x69732d42'
-- name: jack\0214.bba
+- name: JACK\0214.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x97a3ff04'
-- name: jack\03.bbp
+- name: JACK\03.BBP
   size: 9264
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x4644f3fa'
-- name: jack\03.bbw
+- name: JACK\03.BBW
   size: 42017
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:22'
   crc: '0xe9af6dc3'
-- name: jack\0301.bba
+- name: JACK\0301.BBA
   size: 1963
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x09c167da'
-- name: jack\0302.bba
+- name: JACK\0302.BBA
   size: 1144
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0xda8e296f'
-- name: jack\0303.bba
+- name: JACK\0303.BBA
   size: 1404
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x6a8c7560'
-- name: jack\0304.bba
+- name: JACK\0304.BBA
   size: 692
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0xcfc8e51f'
-- name: jack\0305.bba
+- name: JACK\0305.BBA
   size: 903
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x96c2345d'
-- name: jack\0306.bba
+- name: JACK\0306.BBA
   size: 1899
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x397d2551'
-- name: jack\0307.bba
+- name: JACK\0307.BBA
   size: 2913
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x82a77a31'
-- name: jack\0308.bba
+- name: JACK\0308.BBA
   size: 1464
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x73bc8fe8'
-- name: jack\0309.bba
+- name: JACK\0309.BBA
   size: 3708
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0xe2fd25f7'
-- name: jack\0310.bba
+- name: JACK\0310.BBA
   size: 648
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x30f78481'
-- name: jack\0311.bba
+- name: JACK\0311.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x85219915'
-- name: jack\0312.bba
+- name: JACK\0312.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0xad218920'
-- name: jack\0313.bba
+- name: JACK\0313.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0x03f17b0c'
-- name: jack\0314.bba
+- name: JACK\0314.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0xfd21a94a'
-- name: jack\04.bbp
+- name: JACK\04.BBP
   size: 13257
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x43793389'
-- name: jack\04.bbw
+- name: JACK\04.BBW
   size: 40815
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:22'
   crc: '0x997bac33'
-- name: jack\0401.bba
+- name: JACK\0401.BBA
   size: 1910
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:02'
   crc: '0xcad4cb8d'
-- name: jack\0402.bba
+- name: JACK\0402.BBA
   size: 240
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0xb39d9300'
-- name: jack\0403.bba
+- name: JACK\0403.BBA
   size: 2321
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x3290ce7a'
-- name: jack\0404.bba
+- name: JACK\0404.BBA
   size: 1833
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0xf6e57b80'
-- name: jack\0405.bba
+- name: JACK\0405.BBA
   size: 1061
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x9b5adf66'
-- name: jack\0406.bba
+- name: JACK\0406.BBA
   size: 3756
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0xba086adc'
-- name: jack\0407.bba
+- name: JACK\0407.BBA
   size: 3155
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0xc997c8fe'
-- name: jack\0408.bba
+- name: JACK\0408.BBA
   size: 1033
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x98ddef2d'
-- name: jack\0409.bba
+- name: JACK\0409.BBA
   size: 1964
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0xd66fbc7f'
-- name: jack\0410.bba
+- name: JACK\0410.BBA
   size: 2402
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x839dd09b'
-- name: jack\0411.bba
+- name: JACK\0411.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x4bdf3cbe'
-- name: jack\0412.bba
+- name: JACK\0412.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x63df2c8b'
-- name: jack\0413.bba
+- name: JACK\0413.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0xcd0fdea7'
-- name: jack\0414.bba
+- name: JACK\0414.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x33df0ce1'
-- name: jack\05.bbp
+- name: JACK\05.BBP
   size: 7556
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0xb727a19e'
-- name: jack\05.bbw
+- name: JACK\05.BBW
   size: 29704
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:22'
   crc: '0xe54a2652'
-- name: jack\0501.bba
+- name: JACK\0501.BBA
   size: 2173
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x32202d4f'
-- name: jack\0502.bba
+- name: JACK\0502.BBA
   size: 1039
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x66ecaea1'
-- name: jack\0503.bba
+- name: JACK\0503.BBA
   size: 476
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x18a43eba'
-- name: jack\0504.bba
+- name: JACK\0504.BBA
   size: 2338
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x2174016d'
-- name: jack\0505.bba
+- name: JACK\0505.BBA
   size: 743
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0xdeb3de7a'
-- name: jack\0506.bba
+- name: JACK\0506.BBA
   size: 2410
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0xf0a93873'
-- name: jack\0507.bba
+- name: JACK\0507.BBA
   size: 662
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x2ebe7eae'
-- name: jack\0508.bba
+- name: JACK\0508.BBA
   size: 697
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x75691c90'
-- name: jack\0509.bba
+- name: JACK\0509.BBA
   size: 2281
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x5efb6a87'
-- name: jack\0510.bba
+- name: JACK\0510.BBA
   size: 900
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0xb1456fc1'
-- name: jack\0511.bba
+- name: JACK\0511.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x215d6af0'
-- name: jack\0512.bba
+- name: JACK\0512.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x095d7ac5'
-- name: jack\0513.bba
+- name: JACK\0513.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0xa78d88e9'
-- name: jack\0514.bba
+- name: JACK\0514.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x595d5aaf'
-- name: jack\06.bbp
+- name: JACK\06.BBP
   size: 7177
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x659fbf6f'
-- name: jack\06.bbw
+- name: JACK\06.BBW
   size: 39034
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:24'
   crc: '0xa1b78499'
-- name: jack\0601.bba
+- name: JACK\0601.BBA
   size: 528
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0xd2d63922'
-- name: jack\0602.bba
+- name: JACK\0602.BBA
   size: 778
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0xbe6a41a9'
-- name: jack\0603.bba
+- name: JACK\0603.BBA
   size: 1244
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0xcca9b9fe'
-- name: jack\0604.bba
+- name: JACK\0604.BBA
   size: 1841
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x6483d36c'
-- name: jack\0605.bba
+- name: JACK\0605.BBA
   size: 1133
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x484fe090'
-- name: jack\0606.bba
+- name: JACK\0606.BBA
   size: 2693
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x53a2344c'
-- name: jack\0607.bba
+- name: JACK\0607.BBA
   size: 1168
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x8473cd0c'
-- name: jack\0608.bba
+- name: JACK\0608.BBA
   size: 798
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x52059ac1'
-- name: jack\0609.bba
+- name: JACK\0609.BBA
   size: 442
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0xc4952c07'
-- name: jack\0610.bba
+- name: JACK\0610.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x300b620e'
-- name: jack\0611.bba
+- name: JACK\0611.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x9edb9022'
-- name: jack\0612.bba
+- name: JACK\0612.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0xb6db8017'
-- name: jack\0613.bba
+- name: JACK\0613.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:04'
   crc: '0x180b723b'
-- name: jack\0614.bba
+- name: JACK\0614.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0xe6dba07d'
-- name: jack\07.bbp
+- name: JACK\07.BBP
   size: 6700
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x2d2bb91b'
-- name: jack\07.bbw
+- name: JACK\07.BBW
   size: 27582
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:24'
   crc: '0x3771b68f'
-- name: jack\0701.bba
+- name: JACK\0701.BBA
   size: 1369
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x35350f99'
-- name: jack\0702.bba
+- name: JACK\0702.BBA
   size: 762
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0xdfc175ad'
-- name: jack\0703.bba
+- name: JACK\0703.BBA
   size: 982
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0xc22cf2af'
-- name: jack\0704.bba
+- name: JACK\0704.BBA
   size: 1578
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0xd313f78e'
-- name: jack\0705.bba
+- name: JACK\0705.BBA
   size: 752
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x3b7c4f6d'
-- name: jack\0706.bba
+- name: JACK\0706.BBA
   size: 2087
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x77872cbe'
-- name: jack\0707.bba
+- name: JACK\0707.BBA
   size: 2062
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0xa343a437'
-- name: jack\0708.bba
+- name: JACK\0708.BBA
   size: 611
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0xbaac88d3'
-- name: jack\0709.bba
+- name: JACK\0709.BBA
   size: 724
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x02f458f7'
-- name: jack\0710.bba
+- name: JACK\0710.BBA
   size: 1621
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x983b334b'
-- name: jack\0711.bba
+- name: JACK\0711.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0xf459c66c'
-- name: jack\0712.bba
+- name: JACK\0712.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0xdc59d659'
-- name: jack\0713.bba
+- name: JACK\0713.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x72892475'
-- name: jack\0714.bba
+- name: JACK\0714.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x8c59f633'
-- name: jack\08.bbp
+- name: JACK\08.BBP
   size: 7894
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x42d03f0c'
-- name: jack\08.bbw
+- name: JACK\08.BBW
   size: 38219
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:24'
   crc: '0x270aa73e'
-- name: jack\0801.bba
+- name: JACK\0801.BBA
   size: 3613
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x92ae05b1'
-- name: jack\0802.bba
+- name: JACK\0802.BBA
   size: 457
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0xf762d0f4'
-- name: jack\0803.bba
+- name: JACK\0803.BBA
   size: 1950
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x49f176f6'
-- name: jack\0804.bba
+- name: JACK\0804.BBA
   size: 1033
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0xbe27c528'
-- name: jack\0805.bba
+- name: JACK\0805.BBA
   size: 1049
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x366a5102'
-- name: jack\0806.bba
+- name: JACK\0806.BBA
   size: 729
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x232ebd55'
-- name: jack\0807.bba
+- name: JACK\0807.BBA
   size: 1766
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x529b5a3c'
-- name: jack\0808.bba
+- name: JACK\0808.BBA
   size: 851
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x123e9ae9'
-- name: jack\0809.bba
+- name: JACK\0809.BBA
   size: 652
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x91dd7aea'
-- name: jack\0810.bba
+- name: JACK\0810.BBA
   size: 478
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0xf5f88b2d'
-- name: jack\0811.bba
+- name: JACK\0811.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0xd857dd35'
-- name: jack\0812.bba
+- name: JACK\0812.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0xf057cd00'
-- name: jack\0813.bba
+- name: JACK\0813.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x5e873f2c'
-- name: jack\0814.bba
+- name: JACK\0814.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0xa057ed6a'
-- name: jack\09.bbp
+- name: JACK\09.BBP
   size: 6401
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x8f83bdea'
-- name: jack\09.bbw
+- name: JACK\09.BBW
   size: 40659
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:24'
   crc: '0x48d2d829'
-- name: jack\0901.bba
+- name: JACK\0901.BBA
   size: 665
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x68f5bf52'
-- name: jack\0902.bba
+- name: JACK\0902.BBA
   size: 1760
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0xf30926a5'
-- name: jack\0903.bba
+- name: JACK\0903.BBA
   size: 1847
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x7c351a94'
-- name: jack\0904.bba
+- name: JACK\0904.BBA
   size: 403
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x5c3441d4'
-- name: jack\0905.bba
+- name: JACK\0905.BBA
   size: 589
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x5bff4d0a'
-- name: jack\0906.bba
+- name: JACK\0906.BBA
   size: 2791
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x7915b7a2'
-- name: jack\0907.bba
+- name: JACK\0907.BBA
   size: 2085
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x028159e5'
-- name: jack\0908.bba
+- name: JACK\0908.BBA
   size: 2138
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0xbd1e91d2'
-- name: jack\0909.bba
+- name: JACK\0909.BBA
   size: 552
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x4fd9c517'
-- name: jack\0910.bba
+- name: JACK\0910.BBA
   size: 1759
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x1538ab82'
-- name: jack\0911.bba
+- name: JACK\0911.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0xb2d58b7b'
-- name: jack\0912.bba
+- name: JACK\0912.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x9ad59b4e'
-- name: jack\0913.bba
+- name: JACK\0913.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x34056962'
-- name: jack\0914.bba
+- name: JACK\0914.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0xcad5bb24'
-- name: jack\10.bbp
+- name: JACK\10.BBP
   size: 9784
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0xc9922631'
-- name: jack\10.bbw
+- name: JACK\10.BBW
   size: 36373
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:24'
   crc: '0xff14f2d5'
-- name: jack\1001.bba
+- name: JACK\1001.BBA
   size: 2184
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0xc935d6e4'
-- name: jack\1002.bba
+- name: JACK\1002.BBA
   size: 2346
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x4ff88d3a'
-- name: jack\1003.bba
+- name: JACK\1003.BBA
   size: 2947
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:06'
   crc: '0x98f5d5d2'
-- name: jack\1004.bba
+- name: JACK\1004.BBA
   size: 1843
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0xd2f4d952'
-- name: jack\1005.bba
+- name: JACK\1005.BBA
   size: 758
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0xd732d6cd'
-- name: jack\1006.bba
+- name: JACK\1006.BBA
   size: 1228
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0xaf505d11'
-- name: jack\1007.bba
+- name: JACK\1007.BBA
   size: 1817
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x62e23d3b'
-- name: jack\1008.bba
+- name: JACK\1008.BBA
   size: 2355
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x462e43f2'
-- name: jack\1009.bba
+- name: JACK\1009.BBA
   size: 2660
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x0fccfaae'
-- name: jack\1010.bba
+- name: JACK\1010.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x05797f2a'
-- name: jack\1011.bba
+- name: JACK\1011.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0xaba98d06'
-- name: jack\1012.bba
+- name: JACK\1012.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x83a99d33'
-- name: jack\1013.bba
+- name: JACK\1013.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x2d796f1f'
-- name: jack\1014.bba
+- name: JACK\1014.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0xd3a9bd59'
-- name: jack\11.bbp
+- name: JACK\11.BBP
   size: 6946
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x8b1e6a2d'
-- name: jack\11.bbw
+- name: JACK\11.BBW
   size: 38998
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:24'
   crc: '0x87db5be8'
-- name: jack\1101.bba
+- name: JACK\1101.BBA
   size: 1731
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0xa724f274'
-- name: jack\1102.bba
+- name: JACK\1102.BBA
   size: 3545
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0xfd876c17'
-- name: jack\1103.bba
+- name: JACK\1103.BBA
   size: 729
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0xf439fcf6'
-- name: jack\1104.bba
+- name: JACK\1104.BBA
   size: 825
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x08bf7c12'
-- name: jack\1105.bba
+- name: JACK\1105.BBA
   size: 1587
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0xa8f2756a'
-- name: jack\1106.bba
+- name: JACK\1106.BBA
   size: 2344
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x2e6caa13'
-- name: jack\1107.bba
+- name: JACK\1107.BBA
   size: 2482
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x38e143ca'
-- name: jack\1108.bba
+- name: JACK\1108.BBA
   size: 1032
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x9ba23f0b'
-- name: jack\1109.bba
+- name: JACK\1109.BBA
   size: 967
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x07eb3a93'
-- name: jack\1110.bba
+- name: JACK\1110.BBA
   size: 585
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x7542e98f'
-- name: jack\1111.bba
+- name: JACK\1111.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0xc12bdb48'
-- name: jack\1112.bba
+- name: JACK\1112.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0xe92bcb7d'
-- name: jack\1113.bba
+- name: JACK\1113.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x47fb3951'
-- name: jack\1114.bba
+- name: JACK\1114.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0xb92beb17'
-- name: jack\12.bbp
+- name: JACK\12.BBP
   size: 6077
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0xb1bdf55c'
-- name: jack\12.bbw
+- name: JACK\12.BBW
   size: 52135
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:24'
   crc: '0x68437302'
-- name: jack\1201.bba
+- name: JACK\1201.BBA
   size: 4165
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x5c0852d5'
-- name: jack\1202.bba
+- name: JACK\1202.BBA
   size: 2336
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0xd757c382'
-- name: jack\1203.bba
+- name: JACK\1203.BBA
   size: 1297
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0xd69fefed'
-- name: jack\1204.bba
+- name: JACK\1204.BBA
   size: 1763
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x9c106f9c'
-- name: jack\1205.bba
+- name: JACK\1205.BBA
   size: 3576
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0xfa01b98b'
-- name: jack\1206.bba
+- name: JACK\1206.BBA
   size: 1206
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x174ca5a5'
-- name: jack\1207.bba
+- name: JACK\1207.BBA
   size: 1615
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x28cc7c50'
-- name: jack\1208.bba
+- name: JACK\1208.BBA
   size: 2890
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0xc0aa8588'
-- name: jack\1209.bba
+- name: JACK\1209.BBA
   size: 1598
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0xb5378404'
-- name: jack\1210.bba
+- name: JACK\1210.BBA
   size: 1238
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0xc911b7cc'
-- name: jack\1211.bba
+- name: JACK\1211.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x7ead219a'
-- name: jack\1212.bba
+- name: JACK\1212.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0x56ad31af'
-- name: jack\1213.bba
+- name: JACK\1213.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:08'
   crc: '0xf87dc383'
-- name: jack\1214.bba
+- name: JACK\1214.BBA
   size: 122
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x06ad11c5'
-- name: jack\13.bbp
+- name: JACK\13.BBP
   size: 924
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x809253c1'
-- name: jack\14.bbp
+- name: JACK\14.BBP
   size: 924
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x809253c1'
-- name: jack\a.bbw
+- name: JACK\A.BBW
   size: 1521
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x50ef32c7'
-- name: jack\again.bbw
+- name: JACK\AGAIN.BBW
   size: 2242
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x628a4af1'
-- name: jack\ago.bbw
+- name: JACK\AGO.BBW
   size: 2523
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0xa13cf5d3'
-- name: jack\almost.bbw
+- name: JACK\ALMOST.BBW
   size: 2571
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x6a18ecd2'
-- name: jack\an.bbw
+- name: JACK\AN.BBW
   size: 1576
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x8ee33894'
-- name: jack\and.bbw
+- name: JACK\AND.BBW
   size: 1963
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x2b99a46c'
-- name: jack\as.bbw
+- name: JACK\AS.BBW
   size: 2105
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x286381e9'
-- name: jack\asleep.bbw
+- name: JACK\ASLEEP.BBW
   size: 2081
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x3900bab1'
-- name: jack\axe.bbw
+- name: JACK\AXE.BBW
   size: 1852
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x6b97f6f5'
-- name: jack\back.bbw
+- name: JACK\BACK.BBW
   size: 1667
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x4d46e175'
-- name: jack\bag.bbw
+- name: JACK\BAG.BBW
   size: 1939
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x7fb965bb'
-- name: jack\be.bbw
+- name: JACK\BE.BBW
   size: 1634
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0xa2ef9e78'
-- name: jack\bean.bbw
+- name: JACK\BEAN.BBW
   size: 1631
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x635f1199'
-- name: jack\beans.bbw
+- name: JACK\BEANS.BBW
   size: 2057
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x1322b390'
-- name: jack\beanstak.bbw
+- name: JACK\BEANSTAK.BBW
   size: 2879
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x6932fe9e'
-- name: jack\because.bbw
+- name: JACK\BECAUSE.BBW
   size: 2721
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:22'
   crc: '0xb8f68b51'
-- name: jack\behind.bbw
+- name: JACK\BEHIND.BBW
   size: 2590
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x3d35a5ac'
-- name: jack\believe.bbw
+- name: JACK\BELIEVE.BBW
   size: 2310
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x50cedfaa'
-- name: jack\bottom.bbw
+- name: JACK\BOTTOM.BBW
   size: 2098
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0xc6ae2b70'
-- name: jack\boy.bbw
+- name: JACK\BOY.BBW
   size: 1809
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x599aa7e5'
-- name: jack\but.bbw
+- name: JACK\BUT.BBW
   size: 1481
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0xe95fd86a'
-- name: jack\castle.bbw
+- name: JACK\CASTLE.BBW
   size: 3043
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:10'
   crc: '0x35291a25'
-- name: jack\chased.bbw
+- name: JACK\CHASED.BBW
   size: 1955
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x914802c7'
-- name: jack\chicken.bbw
+- name: JACK\CHICKEN.BBW
   size: 2416
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x074683e7'
-- name: jack\climb.bbw
+- name: JACK\CLIMB.BBW
   size: 2146
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0xbd4b5684'
-- name: jack\climbed.bbw
+- name: JACK\CLIMBED.BBW
   size: 2428
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x3813c2c2'
-- name: jack\clouds.bbw
+- name: JACK\CLOUDS.BBW
   size: 3014
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0xba9a880a'
-- name: jack\come.bbw
+- name: JACK\COME.BBW
   size: 1734
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x464628a2'
-- name: jack\could.bbw
+- name: JACK\COULD.BBW
   size: 1757
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0xd1ac4d2b'
-- name: jack\cow.bbw
+- name: JACK\COW.BBW
   size: 2136
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x5d31c9a0'
-- name: jack\cows.bbw
+- name: JACK\COWS.BBW
   size: 2113
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0xeb27445c'
-- name: jack\credits.txt
+- name: JACK\CREDITS.TXT
   size: 253
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x190db92a'
-- name: jack\cut.bbw
+- name: JACK\CUT.BBW
   size: 1389
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x3128db5b'
-- name: jack\dads.bbw
+- name: JACK\DADS.BBW
   size: 2144
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0xae2bc320'
-- name: jack\day.bbw
+- name: JACK\DAY.BBW
   size: 1919
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0xc601838d'
-- name: jack\dead.bbw
+- name: JACK\DEAD.BBW
   size: 1994
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0xfeb57dd6'
-- name: jack\deal.bbw
+- name: JACK\DEAL.BBW
   size: 1986
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x0cae5111'
-- name: jack\down.bbw
+- name: JACK\DOWN.BBW
   size: 2301
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x4a7afc77'
-- name: jack\eggs.bbw
+- name: JACK\EGGS.BBW
   size: 2010
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x9d1ccd01'
-- name: jack\ever.bbw
+- name: JACK\EVER.BBW
   size: 2151
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x42d33382'
-- name: jack\everythg.bbw
+- name: JACK\EVERYTHG.BBW
   size: 3304
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0xf5eaf852'
-- name: jack\fast.bbw
+- name: JACK\FAST.BBW
   size: 2484
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x4ee9d9d9'
-- name: jack\fell.bbw
+- name: JACK\FELL.BBW
   size: 2855
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x4e9fab26'
-- name: jack\felt.bbw
+- name: JACK\FELT.BBW
   size: 2602
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x77110da7'
-- name: jack\finally.bbw
+- name: JACK\FINALLY.BBW
   size: 3149
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x983e13d2'
-- name: jack\for.bbw
+- name: JACK\FOR.BBW
   size: 2784
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x61806f47'
-- name: jack\friendsp.bbw
+- name: JACK\FRIENDSP.BBW
   size: 2753
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x49ae2551'
-- name: jack\gave.bbw
+- name: JACK\GAVE.BBW
   size: 2193
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0xf17a8700'
-- name: jack\get.bbw
+- name: JACK\GET.BBW
   size: 1392
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0xb367de0c'
-- name: jack\giant.bbw
+- name: JACK\GIANT.BBW
   size: 3400
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x369e0c8a'
-- name: jack\giants.bbw
+- name: JACK\GIANTS.BBW
   size: 3471
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x07491b2f'
-- name: jack\go.bbw
+- name: JACK\GO.BBW
   size: 1842
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x9c00cec5'
-- name: jack\golden.bbw
+- name: JACK\GOLDEN.BBW
   size: 2914
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0xe6575966'
-- name: jack\got.bbw
+- name: JACK\GOT.BBW
   size: 1577
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0xe8b3adc3'
-- name: jack\grabbed.bbw
+- name: JACK\GRABBED.BBW
   size: 2505
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0xe562499f'
-- name: jack\great.bbw
+- name: JACK\GREAT.BBW
   size: 1868
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x18108105'
-- name: jack\had.bbw
+- name: JACK\HAD.BBW
   size: 2202
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x115f3fe8'
-- name: jack\happy.bbw
+- name: JACK\HAPPY.BBW
   size: 2824
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x0e87ea5b'
-- name: jack\harp.bbw
+- name: JACK\HARP.BBW
   size: 2447
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:12'
   crc: '0x7aa7ef36'
-- name: jack\he.bbw
+- name: JACK\HE.BBW
   size: 1800
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0xbf867137'
-- name: jack\heard.bbw
+- name: JACK\HEARD.BBW
   size: 2115
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x1a95448a'
-- name: jack\hen.bbw
+- name: JACK\HEN.BBW
   size: 1990
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x2b51f848'
-- name: jack\her.bbw
+- name: JACK\HER.BBW
   size: 2199
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x385ea8d6'
-- name: jack\here.bbw
+- name: JACK\HERE.BBW
   size: 2563
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0xb76ee27f'
-- name: jack\heres.bbw
+- name: JACK\HERES.BBW
   size: 3005
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x3c68afe9'
-- name: jack\hes.bbw
+- name: JACK\HES.BBW
   size: 2309
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x65ba2036'
-- name: jack\hi.bbw
+- name: JACK\HI.BBW
   size: 2492
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0xb2bb5ce4'
-- name: jack\him.bbw
+- name: JACK\HIM.BBW
   size: 1868
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x3decf7ca'
-- name: jack\his.bbw
+- name: JACK\HIS.BBW
   size: 2413
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0xf645b011'
-- name: jack\hurry.bbw
+- name: JACK\HURRY.BBW
   size: 2281
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x1a80c632'
-- name: jack\husband.bbw
+- name: JACK\HUSBAND.BBW
   size: 2455
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x1ba7a7a2'
-- name: jack\i.bbw
+- name: JACK\I.BBW
   size: 1725
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x9a0ad1f2'
-- name: jack\ill.bbw
+- name: JACK\ILL.BBW
   size: 1861
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:22'
   crc: '0x9c20795d'
-- name: jack\im.bbw
+- name: JACK\IM.BBW
   size: 1963
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x4ac51cfc'
-- name: jack\in.bbw
+- name: JACK\IN.BBW
   size: 1811
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x6e388d3f'
-- name: jack\instead.bbw
+- name: JACK\INSTEAD.BBW
   size: 2855
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0xec577fe7'
-- name: jack\into.bbw
+- name: JACK\INTO.BBW
   size: 2283
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0xa3403f04'
-- name: jack\it.bbw
+- name: JACK\IT.BBW
   size: 1283
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0xf73f95e1'
-- name: jack\jack.bbw
+- name: JACK\JACK.BBW
   size: 2226
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x286c46c5'
-- name: jack\jack.txt
+- name: JACK\JACK.TXT
   size: 1885
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:22'
   crc: '0x118b45e8'
-- name: jack\jumped.bbw
+- name: JACK\JUMPED.BBW
   size: 2002
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0xd1389ef3'
-- name: jack\kept.bbw
+- name: JACK\KEPT.BBW
   size: 1751
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x99d0585d'
-- name: jack\lady.bbw
+- name: JACK\LADY.BBW
   size: 2184
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x0d676570'
-- name: jack\laid.bbw
+- name: JACK\LAID.BBW
   size: 2113
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0xf8afbe12'
-- name: jack\last.bbw
+- name: JACK\LAST.BBW
   size: 2268
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0xd9939505'
-- name: jack\let.bbw
+- name: JACK\LET.BBW
   size: 1822
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0xbaacceb9'
-- name: jack\long.bbw
+- name: JACK\LONG.BBW
   size: 3140
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0xc736e47c'
-- name: jack\looked.bbw
+- name: JACK\LOOKED.BBW
   size: 1906
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0xa5644f24'
-- name: jack\lousy.bbw
+- name: JACK\LOUSY.BBW
   size: 3091
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x231969c5'
-- name: jack\me.bbw
+- name: JACK\ME.BBW
   size: 1938
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:14'
   crc: '0x3400d83c'
-- name: jack\met.bbw
+- name: JACK\MET.BBW
   size: 1841
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0xa117be2c'
-- name: jack\mom.bbw
+- name: JACK\MOM.BBW
   size: 2138
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0x5e65eda0'
-- name: jack\money.bbw
+- name: JACK\MONEY.BBW
   size: 2177
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0xb85605a4'
-- name: jack\morning.bbw
+- name: JACK\MORNING.BBW
   size: 2197
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0xc83caf9d'
-- name: jack\moved.bbw
+- name: JACK\MOVED.BBW
   size: 2281
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0xf5c3c53a'
-- name: jack\my.bbw
+- name: JACK\MY.BBW
   size: 2365
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0xc4e8fc24'
-- name: jack\names.bbw
+- name: JACK\NAMES.BBW
   size: 2879
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0x234ee518'
-- name: jack\never.bbw
+- name: JACK\NEVER.BBW
   size: 2736
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0x91fe6bc5'
-- name: jack\next.bbw
+- name: JACK\NEXT.BBW
   size: 2287
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0xd54df807'
-- name: jack\night.bbw
+- name: JACK\NIGHT.BBW
   size: 1854
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0x5fcf2530'
-- name: jack\now.bbw
+- name: JACK\NOW.BBW
   size: 2126
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0x30287cef'
-- name: jack\of.bbw
+- name: JACK\OF.BBW
   size: 1392
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0x246f7296'
-- name: jack\oh.bbw
+- name: JACK\OH.BBW
   size: 1775
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0x8de13d1d'
-- name: jack\old.bbw
+- name: JACK\OLD.BBW
   size: 1957
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0xf23a43b2'
-- name: jack\on.bbw
+- name: JACK\ON.BBW
   size: 1769
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0xcf0264f3'
-- name: jack\original.col
+- name: JACK\ORIGINAL.COL
   size: 6656
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x8217aa1a'
-- name: jack\our.bbw
+- name: JACK\OUR.BBW
   size: 1783
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0x8dd43927'
-- name: jack\out.bbw
+- name: JACK\OUT.BBW
   size: 1489
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0x957eebab'
-- name: jack\pants.bbw
+- name: JACK\PANTS.BBW
   size: 1955
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0x799eb422'
-- name: jack\poor.bbw
+- name: JACK\POOR.BBW
   size: 2065
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0x606b0532'
-- name: jack\popup.col
+- name: JACK\POPUP.COL
   size: 6656
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x86bdacbe'
-- name: jack\ran.bbw
+- name: JACK\RAN.BBW
   size: 2016
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0x22eebbec'
-- name: jack\reached.bbw
+- name: JACK\REACHED.BBW
   size: 2578
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0x7db52a7b'
-- name: jack\real.bbw
+- name: JACK\REAL.BBW
   size: 2586
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0x420a6cc8'
-- name: jack\right.bbw
+- name: JACK\RIGHT.BBW
   size: 1990
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0xc8f0c248'
-- name: jack\said.bbw
+- name: JACK\SAID.BBW
   size: 1957
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0x1bd7356e'
-- name: jack\saw.bbw
+- name: JACK\SAW.BBW
   size: 2332
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0x1c09ab71'
-- name: jack\scared.bbw
+- name: JACK\SCARED.BBW
   size: 3060
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0xb9c34cfc'
-- name: jack\screamed.bbw
+- name: JACK\SCREAMED.BBW
   size: 3005
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0x74358d81'
-- name: jack\sell.bbw
+- name: JACK\SELL.BBW
   size: 2378
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0x48304eb0'
-- name: jack\share.bbw
+- name: JACK\SHARE.BBW
   size: 2722
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0xa543a87c'
-- name: jack\she.bbw
+- name: JACK\SHE.BBW
   size: 2584
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:16'
   crc: '0xb1476a46'
-- name: jack\silver.bbw
+- name: JACK\SILVER.BBW
   size: 2812
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0x642ca212'
-- name: jack\singing.bbw
+- name: JACK\SINGING.BBW
   size: 2791
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0x09f6f509'
-- name: jack\sits.bbw
+- name: JACK\SITS.BBW
   size: 2378
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0xc37f5ecf'
-- name: jack\six.bbw
+- name: JACK\SIX.BBW
   size: 2254
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0x0cf57d2a'
-- name: jack\sleeping.bbw
+- name: JACK\SLEEPING.BBW
   size: 3276
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0x123e865b'
-- name: jack\sneak.bbw
+- name: JACK\SNEAK.BBW
   size: 2420
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0x7816e6b1'
-- name: jack\snuck.bbw
+- name: JACK\SNUCK.BBW
   size: 2495
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0x2a4a264b'
-- name: jack\so.bbw
+- name: JACK\SO.BBW
   size: 1959
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0xc2aca563'
-- name: jack\sold.bbw
+- name: JACK\SOLD.BBW
   size: 2198
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0x37493a1a'
-- name: jack\someone.bbw
+- name: JACK\SOMEONE.BBW
   size: 2706
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0xf705213c'
-- name: jack\sorry.bbw
+- name: JACK\SORRY.BBW
   size: 2947
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0x157c6c7e'
-- name: jack\sound.bbw
+- name: JACK\SOUND.BBW
   size: 2415
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0xf3b5b4c7'
-- name: jack\stalk.bbw
+- name: JACK\STALK.BBW
   size: 2198
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0x0b483613'
-- name: jack\started.bbw
+- name: JACK\STARTED.BBW
   size: 2856
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0x8125b1ff'
-- name: jack\stealing.bbw
+- name: JACK\STEALING.BBW
   size: 2711
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0x69d6162b'
-- name: jack\stole.bbw
+- name: JACK\STOLE.BBW
   size: 2452
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0xaf9e6d9e'
-- name: jack\story.bbw
+- name: JACK\STORY.BBW
   size: 2727
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0xc9b873ce'
-- name: jack\stuff.bbw
+- name: JACK\STUFF.BBW
   size: 2325
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0x336b4f77'
-- name: jack\take.bbw
+- name: JACK\TAKE.BBW
   size: 1415
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0x52c9b19b'
-- name: jack\talking.bbw
+- name: JACK\TALKING.BBW
   size: 2089
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0x32b0a7a9'
-- name: jack\tell.bbw
+- name: JACK\TELL.BBW
   size: 1441
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0x09a7d977'
-- name: jack\that.bbw
+- name: JACK\THAT.BBW
   size: 1811
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0x6b6c0499'
-- name: jack\the.bbw
+- name: JACK\THE.BBW
   size: 1868
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0x9e50600b'
-- name: jack\them.bbw
+- name: JACK\THEM.BBW
   size: 1890
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0x15d7c79a'
-- name: jack\there.bbw
+- name: JACK\THERE.BBW
   size: 2063
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0x7140dea9'
-- name: jack\thought.bbw
+- name: JACK\THOUGHT.BBW
   size: 1652
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0x0eed027b'
-- name: jack\threw.bbw
+- name: JACK\THREW.BBW
   size: 2473
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0x39f91d2c'
-- name: jack\thud.bbw
+- name: JACK\THUD.BBW
   size: 2046
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0x3d37a906'
-- name: jack\ticked.bbw
+- name: JACK\TICKED.BBW
   size: 1369
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:18'
   crc: '0xccf743eb'
-- name: jack\time.bbw
+- name: JACK\TIME.BBW
   size: 1907
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0xc3abc4cb'
-- name: jack\to.bbw
+- name: JACK\TO.BBW
   size: 1577
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0x9a1496fc'
-- name: jack\told.bbw
+- name: JACK\TOLD.BBW
   size: 1772
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0xd3026d5a'
-- name: jack\top.bbw
+- name: JACK\TOP.BBW
   size: 1697
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0xf8c48337'
-- name: jack\town.bbw
+- name: JACK\TOWN.BBW
   size: 1881
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0xf5b6d5c7'
-- name: jack\treasurs.bbw
+- name: JACK\TREASURS.BBW
   size: 2927
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0xae61dd91'
-- name: jack\twenty.bbw
+- name: JACK\TWENTY.BBW
   size: 1821
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0x76bf856c'
-- name: jack\us.bbw
+- name: JACK\US.BBW
   size: 1761
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0x6e0d0b1d'
-- name: jack\version.txt
+- name: JACK\VERSION.TXT
   size: 4
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:00'
   crc: '0x6686c27b'
-- name: jack\waiting.bbw
+- name: JACK\WAITING.BBW
   size: 2319
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0x3093dcf5'
-- name: jack\wanted.bbw
+- name: JACK\WANTED.BBW
   size: 2705
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0xcaa53b22'
-- name: jack\was.bbw
+- name: JACK\WAS.BBW
   size: 2164
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0xeed6f166'
-- name: jack\way.bbw
+- name: JACK\WAY.BBW
   size: 1800
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0xeb9716ce'
-- name: jack\we.bbw
+- name: JACK\WE.BBW
   size: 1841
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0x88a3ff4c'
-- name: jack\well.bbw
+- name: JACK\WELL.BBW
   size: 2299
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:22'
   crc: '0xa5249422'
-- name: jack\were.bbw
+- name: JACK\WERE.BBW
   size: 2061
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0x3cf64355'
-- name: jack\what.bbw
+- name: JACK\WHAT.BBW
   size: 1955
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0xa6b5e227'
-- name: jack\when.bbw
+- name: JACK\WHEN.BBW
   size: 2026
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0xb604ea43'
-- name: jack\while.bbw
+- name: JACK\WHILE.BBW
   size: 2029
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0x2facb077'
-- name: jack\whisperd.bbw
+- name: JACK\WHISPERD.BBW
   size: 3309
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0x082f1d58'
-- name: jack\wife.bbw
+- name: JACK\WIFE.BBW
   size: 1886
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0x3970636d'
-- name: jack\window.bbw
+- name: JACK\WINDOW.BBW
   size: 2729
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0x1acac724'
-- name: jack\with.bbw
+- name: JACK\WITH.BBW
   size: 1563
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0xabf19cb9'
-- name: jack\wizard.bbw
+- name: JACK\WIZARD.BBW
   size: 2792
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0x9c0b7995'
-- name: jack\woman.bbw
+- name: JACK\WOMAN.BBW
   size: 1957
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0x49209cca'
-- name: jack\worth.bbw
+- name: JACK\WORTH.BBW
   size: 1838
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0x5bcb2e59'
-- name: jack\would.bbw
+- name: JACK\WOULD.BBW
   size: 1686
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0x50781b89'
-- name: jack\wouldnt.bbw
+- name: JACK\WOULDNT.BBW
   size: 2158
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0x7d9c7a01'
-- name: jack\yelled.bbw
+- name: JACK\YELLED.BBW
   size: 2248
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0xfc234861'
-- name: jack\yelling.bbw
+- name: JACK\YELLING.BBW
   size: 2515
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0xebfbed52'
-- name: jack\you.bbw
+- name: JACK\YOU.BBW
   size: 1751
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0x797efb1d'
-- name: jack\your.bbw
+- name: JACK\YOUR.BBW
   size: 2216
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:20'
   crc: '0x0b36af44'
-- name: jack\youre.bbw
+- name: JACK\YOURE.BBW
   size: 2009
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T14:00:22'
   crc: '0x2b3307f9'
-- name: library\
+- name: LIBRARY\
   size: 0
-  date: '2013-07-07T13:06:08'
-- name: library\applause.bbw
+  date: '1994-09-09T18:00:02'
+- name: LIBRARY\APPLAUSE.BBW
   size: 8187
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0x473cf870'
-- name: library\arrow.bbw
+- name: LIBRARY\ARROW.BBW
   size: 5062
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0xac3cf469'
-- name: library\babycry.bbw
+- name: LIBRARY\BABYCRY.BBW
   size: 6820
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0xd1529025'
-- name: library\bell.bbw
+- name: LIBRARY\BELL.BBW
   size: 4622
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0xe908b9c2'
-- name: library\bikehorn.bbw
+- name: LIBRARY\BIKEHORN.BBW
   size: 2448
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0xf56e6147'
-- name: library\boing.bbw
+- name: LIBRARY\BOING.BBW
   size: 5030
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0x4e7587f1'
-- name: library\boing1.bbw
+- name: LIBRARY\BOING1.BBW
   size: 3698
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0x05316475'
-- name: library\boingzng.bbw
+- name: LIBRARY\BOINGZNG.BBW
   size: 2864
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0x447bacfb'
-- name: library\bonkcuck.bbw
+- name: LIBRARY\BONKCUCK.BBW
   size: 2618
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0xf06b196a'
-- name: library\boo.bbw
+- name: LIBRARY\BOO.BBW
   size: 6569
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0xab22c657'
-- name: library\bowling.bbw
+- name: LIBRARY\BOWLING.BBW
   size: 5663
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0x7661bebc'
-- name: library\brakes.bbw
+- name: LIBRARY\BRAKES.BBW
   size: 5798
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0x540270c8'
-- name: library\bubbles.bbw
+- name: LIBRARY\BUBBLES.BBW
   size: 3436
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0x04a4398c'
-- name: library\burp.bbw
+- name: LIBRARY\BURP.BBW
   size: 723
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0xb576bb85'
-- name: library\canopen.bbw
+- name: LIBRARY\CANOPEN.BBW
   size: 599
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0xfdad4a27'
-- name: library\carhorn.bbw
+- name: LIBRARY\CARHORN.BBW
   size: 2816
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0x71aebe70'
-- name: library\cashreg.bbw
+- name: LIBRARY\CASHREG.BBW
   size: 3713
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:00'
   crc: '0x73f2f685'
-- name: library\cat.bbw
+- name: LIBRARY\CAT.BBW
   size: 2913
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x4f8cc827'
-- name: library\cheer.bbw
+- name: LIBRARY\CHEER.BBW
   size: 9598
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x0b463a85'
-- name: library\chicken.bbw
+- name: LIBRARY\CHICKEN.BBW
   size: 5667
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xc3977cc0'
-- name: library\chirp.bbw
+- name: LIBRARY\CHIRP.BBW
   size: 7263
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x22bdaa13'
-- name: library\copter.bbw
+- name: LIBRARY\COPTER.BBW
   size: 7051
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x1fd1ffd3'
-- name: library\coughgag.bbw
+- name: LIBRARY\COUGHGAG.BBW
   size: 8614
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x836083ba'
-- name: library\cow.bbw
+- name: LIBRARY\COW.BBW
   size: 7683
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x0a928517'
-- name: library\cracking.bbw
+- name: LIBRARY\CRACKING.BBW
   size: 2038
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x7758cf5d'
-- name: library\crash.bbw
+- name: LIBRARY\CRASH.BBW
   size: 4321
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xf7a348c7'
-- name: library\crazygun.bbw
+- name: LIBRARY\CRAZYGUN.BBW
   size: 4699
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x37ae5b4e'
-- name: library\creak.bbw
+- name: LIBRARY\CREAK.BBW
   size: 7342
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xa7a2ee51'
-- name: library\crying.bbw
+- name: LIBRARY\CRYING.BBW
   size: 8737
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xa464f331'
-- name: library\cuckoo.bbw
+- name: LIBRARY\CUCKOO.BBW
   size: 1360
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xb7d0cfde'
-- name: library\cussing.bbw
+- name: LIBRARY\CUSSING.BBW
   size: 4964
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xd41ce467'
-- name: library\cymbal.bbw
+- name: LIBRARY\CYMBAL.BBW
   size: 3554
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x71309e74'
-- name: library\doorbell.bbw
+- name: LIBRARY\DOORBELL.BBW
   size: 5179
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x00d21de2'
-- name: library\drum.bbw
+- name: LIBRARY\DRUM.BBW
   size: 3577
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xa35d4238'
-- name: library\dumbsong.bbw
+- name: LIBRARY\DUMBSONG.BBW
   size: 7213
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xa3829038'
-- name: library\dumlaugh.bbw
+- name: LIBRARY\DUMLAUGH.BBW
   size: 7017
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x3eb6c7ae'
-- name: library\eachpage.bbw
+- name: LIBRARY\EACHPAGE.BBW
   size: 10681
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:06'
   crc: '0xa440d8a9'
-- name: library\eating.bbw
+- name: LIBRARY\EATING.BBW
   size: 4490
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xa8c97d9b'
-- name: library\flap.bbw
+- name: LIBRARY\FLAP.BBW
   size: 657
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x0eb80afd'
-- name: library\flapping.bbw
+- name: LIBRARY\FLAPPING.BBW
   size: 7017
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x19c6b870'
-- name: library\footstep.bbw
+- name: LIBRARY\FOOTSTEP.BBW
   size: 9215
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x75992ddb'
-- name: library\foundme.bbw
+- name: LIBRARY\FOUNDME.BBW
   size: 7315
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x38386adf'
-- name: library\glassbrk.bbw
+- name: LIBRARY\GLASSBRK.BBW
   size: 3882
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x8c4d3e44'
-- name: library\gong.bbw
+- name: LIBRARY\GONG.BBW
   size: 4806
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xf7122001'
-- name: library\gotagain.bbw
+- name: LIBRARY\GOTAGAIN.BBW
   size: 9442
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x88da5698'
-- name: library\gotme.bbw
+- name: LIBRARY\GOTME.BBW
   size: 6154
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xc198d599'
-- name: library\groan.bbw
+- name: LIBRARY\GROAN.BBW
   size: 3707
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x372eb3e5'
-- name: library\growl.bbw
+- name: LIBRARY\GROWL.BBW
   size: 6011
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x73b80566'
-- name: library\guitar.bbw
+- name: LIBRARY\GUITAR.BBW
   size: 9982
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xecaad626'
-- name: library\gulp.bbw
+- name: LIBRARY\GULP.BBW
   size: 2634
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xa9c4c29d'
-- name: library\harp.bbw
+- name: LIBRARY\HARP.BBW
   size: 8546
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x69de9907'
-- name: library\help.bbw
+- name: LIBRARY\HELP.BBW
   size: 4432
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x99995e2b'
-- name: library\hideseek.bbw
+- name: LIBRARY\HIDESEEK.BBW
   size: 6899
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xbff52cec'
-- name: library\hmmm.bbw
+- name: LIBRARY\HMMM.BBW
   size: 4015
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xe5436ddd'
-- name: library\huh.bbw
+- name: LIBRARY\HUH.BBW
   size: 1886
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xaa0ea0b2'
-- name: library\injured.bbw
+- name: LIBRARY\INJURED.BBW
   size: 2490
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xa639d66d'
-- name: library\laughhi.bbw
+- name: LIBRARY\LAUGHHI.BBW
   size: 6027
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x315d18cf'
-- name: library\laughs.bbw
+- name: LIBRARY\LAUGHS.BBW
   size: 7983
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x9cc0e23b'
-- name: library\magic1.bbw
+- name: LIBRARY\MAGIC1.BBW
   size: 5206
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:06'
   crc: '0x38764dbb'
-- name: library\magic2.bbw
+- name: LIBRARY\MAGIC2.BBW
   size: 6934
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:06'
   crc: '0xcb66a963'
-- name: library\magic3.bbw
+- name: LIBRARY\MAGIC3.BBW
   size: 7305
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:06'
   crc: '0x53393745'
-- name: library\monkey.bbw
+- name: LIBRARY\MONKEY.BBW
   size: 5034
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xd07f2802'
-- name: library\nextpage.bbw
+- name: LIBRARY\NEXTPAGE.BBW
   size: 7614
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xe9135d6a'
-- name: library\organ.bbw
+- name: LIBRARY\ORGAN.BBW
   size: 5602
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xb4cbf922'
-- name: library\peekaboo.bbw
+- name: LIBRARY\PEEKABOO.BBW
   size: 7329
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:06'
   crc: '0x008db93d'
-- name: library\ping.bbw
+- name: LIBRARY\PING.BBW
   size: 2672
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x4ccf7e53'
-- name: library\plane.bbw
+- name: LIBRARY\PLANE.BBW
   size: 7463
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x70ac37eb'
-- name: library\pop.bbw
+- name: LIBRARY\POP.BBW
   size: 176
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x160f32ac'
-- name: library\rasberry.bbw
+- name: LIBRARY\RASBERRY.BBW
   size: 4147
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x6e57152f'
-- name: library\rattle.bbw
+- name: LIBRARY\RATTLE.BBW
   size: 3336
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x8b4cce45'
-- name: library\razor.bbw
+- name: LIBRARY\RAZOR.BBW
   size: 5540
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x05c49a50'
-- name: library\revelry.bbw
+- name: LIBRARY\REVELRY.BBW
   size: 5384
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xafeb4fdf'
-- name: library\ricochet.bbw
+- name: LIBRARY\RICOCHET.BBW
   size: 2285
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x15a15a92'
-- name: library\rimshot.bbw
+- name: LIBRARY\RIMSHOT.BBW
   size: 3422
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xa166acf5'
-- name: library\running.bbw
+- name: LIBRARY\RUNNING.BBW
   size: 5875
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xa19cf330'
-- name: library\scary.bbw
+- name: LIBRARY\SCARY.BBW
   size: 6134
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:06'
   crc: '0xf696b075'
-- name: library\shiphorn.bbw
+- name: LIBRARY\SHIPHORN.BBW
   size: 7937
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xfcfd4ee5'
-- name: library\siren.bbw
+- name: LIBRARY\SIREN.BBW
   size: 5680
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xf1a86cf1'
-- name: library\snake.bbw
+- name: LIBRARY\SNAKE.BBW
   size: 4605
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xbfad36ef'
-- name: library\snicker.bbw
+- name: LIBRARY\SNICKER.BBW
   size: 6331
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x6aab7023'
-- name: library\snip.bbw
+- name: LIBRARY\SNIP.BBW
   size: 3011
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xe3acb14d'
-- name: library\snore.bbw
+- name: LIBRARY\SNORE.BBW
   size: 7234
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x35c6c6f7'
-- name: library\splash.bbw
+- name: LIBRARY\SPLASH.BBW
   size: 2416
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x0d314f4d'
-- name: library\sproing.bbw
+- name: LIBRARY\SPROING.BBW
   size: 3204
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x3c830f23'
-- name: library\squawk.bbw
+- name: LIBRARY\SQUAWK.BBW
   size: 2533
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x8d5e1754'
-- name: library\stretch.bbw
+- name: LIBRARY\STRETCH.BBW
   size: 8793
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xcb376395'
-- name: library\subhorn.bbw
+- name: LIBRARY\SUBHORN.BBW
   size: 3236
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x5e64bfa3'
-- name: library\suzuki.bbw
+- name: LIBRARY\SUZUKI.BBW
   size: 5145
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x44ce31f4'
-- name: library\taps.bbw
+- name: LIBRARY\TAPS.BBW
   size: 8763
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x7081ff29'
-- name: library\timpani.bbw
+- name: LIBRARY\TIMPANI.BBW
   size: 7266
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x5403b5b6'
-- name: library\toot.bbw
+- name: LIBRARY\TOOT.BBW
   size: 2205
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xf605fe9c'
-- name: library\train.bbw
+- name: LIBRARY\TRAIN.BBW
   size: 10232
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x0c2c80c8'
-- name: library\trumpets.bbw
+- name: LIBRARY\TRUMPETS.BBW
   size: 8314
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xec566b39'
-- name: library\updown.bbw
+- name: LIBRARY\UPDOWN.BBW
   size: 4461
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x23764db2'
-- name: library\warning.bbw
+- name: LIBRARY\WARNING.BBW
   size: 5260
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xdbdb3240'
-- name: library\whee.bbw
+- name: LIBRARY\WHEE.BBW
   size: 576
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xf1e95443'
-- name: library\whisdown.bbw
+- name: LIBRARY\WHISDOWN.BBW
   size: 3477
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xc7cebfa2'
-- name: library\whistle.bbw
+- name: LIBRARY\WHISTLE.BBW
   size: 5579
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:06'
   crc: '0xa3f500d7'
-- name: library\whisup.bbw
+- name: LIBRARY\WHISUP.BBW
   size: 3858
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x0b5f6550'
-- name: library\whoopie.bbw
+- name: LIBRARY\WHOOPIE.BBW
   size: 6935
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x63890efd'
-- name: library\yehah.bbw
+- name: LIBRARY\YEHAH.BBW
   size: 6572
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0xfbee3034'
-- name: library\yell.bbw
+- name: LIBRARY\YELL.BBW
   size: 4470
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x4cf5cec2'
-- name: library\yeow.bbw
+- name: LIBRARY\YEOW.BBW
   size: 6848
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x86543321'
-- name: library\yuck.bbw
+- name: LIBRARY\YUCK.BBW
   size: 3207
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:04'
   crc: '0x2d2c4204'
-- name: mouse.img
+- name: MOUSE.IMG
   size: 7378
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xa985c06f'
-- name: readme.txt
+- name: README.TXT
   size: 5260
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0xebbe9a0a'
-- name: title.img
+- name: TITLE.IMG
   size: 51704
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x56b551cf'
-- name: version.txt
+- name: VERSION.TXT
   size: 4
-  date: '1999-12-31T19:00:00'
+  date: '1994-09-09T18:00:02'
   crc: '0x6686c27b'

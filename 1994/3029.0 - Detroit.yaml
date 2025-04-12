@@ -1,16 +1,21 @@
-filename: Detroit v2.1 (Zh) (1994)(Impressions Games, Unalis Corp.) [Simulation].zip
+filename: Detroit v2.1 (Zh) (1994)(Impressions Games, Unalis Corporation) [Simulation].zip
 tdc_id: '3029.0'
 title:
   box: Detroit
-publisher: Impressions Games, Unalis Corp.
+publisher: Impressions Games, Unalis Corporation
 year: '1994'
 genre: Simulation
 language: Chinese
 date:
   added: '2019-03-01T21:56:04'
-  last_modified: '2019-03-01T21:56:04'
+  last_modified: '2025-02-25T17:54:21'
 version: '2.1'
 type: zip
+commands:
+  play: DETROIT.BAT
+  setup: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/2694/detroit/
 files:
 - name: ACC.ANM
   size: 83102

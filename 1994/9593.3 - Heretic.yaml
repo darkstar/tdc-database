@@ -1,6 +1,6 @@
-filename: Heretic [SWR] (1994)(id Software, Inc.) [Action].zip
+filename: Heretic v1.0 [SWR] (1994)(id Software, Inc.) [Action].zip
 tdc_id: '9593.3'
-parent_id: '9593.0'
+parent_id: '9593.1'
 title:
   screen: Heretic
 publisher: id Software, Inc.
@@ -9,10 +9,17 @@ genre: Action
 language: English
 date:
   added: '2019-03-01T22:00:30'
-  last_modified: '2019-03-01T22:00:30'
+  last_modified: '2025-02-18T18:48:15'
+version: '1.0'
 type: zip
 tags:
 - SharewareRegistered
+media: Download
+commands:
+  play: HERETIC.EXE
+  setup: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/21987/heretic/
 files:
 - name: DM.EXE
   size: 33678

@@ -1,16 +1,22 @@
-filename: Lost in Time v1.10 (Es) (1993)(Coktel Vision) [Adventure].zip
+filename: Lost in Time parts 1 and 2 v1.10 (Es) (1993)(Coktel Vision) [Adventure].zip
 tdc_id: '11912.5'
 title:
   box: Lost in Time
+  qualifier: parts 1 and 2
 publisher: Coktel Vision
 year: '1993'
 genre: Adventure
 language: Spanish
 date:
   added: '2019-03-01T19:12:10'
-  last_modified: '2019-03-01T19:12:10'
+  last_modified: '2025-03-17T10:58:44'
 version: '1.10'
 type: zip
+commands:
+  play: LOST.EXE
+  setup: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/6098/lost-in-time/
 files:
 - name: BATCOM.ITK
   size: 1874526
@@ -55,11 +61,11 @@ files:
 - name: INTRO.STK
   size: 3936700
   date: '1994-04-27T04:07:10'
+  crc: '0x59cd47dd'
+- name: INTRO.ST_
+  size: 3936700
+  date: '1994-04-27T04:07:10'
   crc: '0xcd22f336'
-- name: LOST.COM
-  size: 430
-  date: '1994-01-06T09:37:12'
-  crc: '0xb6c7c9e9'
 - name: LOST.EXE
   size: 105253
   date: '1994-04-27T04:02:02'

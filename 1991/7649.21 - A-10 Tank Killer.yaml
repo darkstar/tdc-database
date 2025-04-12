@@ -1,4 +1,4 @@
-filename: A-10 Tank Killer v1.5 [a1] (1991)(Dynamix, Inc.) [Simulation].zip
+filename: A-10 Tank Killer v1.5 [a1] (1991)(Dynamix, Inc.) [Simulation][!].zip
 tdc_id: '7649.21'
 parent_id: '7649.30'
 title:
@@ -9,16 +9,32 @@ genre: Simulation
 language: English
 date:
   added: '2022-07-21T08:20:28'
-  last_modified: '2022-07-21T08:20:28'
+  last_modified: '2025-01-23T08:11:54'
 version: '1.5'
 type: zip
 tags:
+- KnownGood
 - Alternate: 1
+media: 1.2M
+commands:
+  play: A10.COM
+  setup: INSTALL.COM
+references:
+  mobygames: https://www.mobygames.com/game/2467/a-10-tank-killer/
 files:
 - name: A.EXE
   size: 206972
   date: '1991-07-01T01:50:02'
   crc: '0x201eb7ae'
+- name: A10 1
+  size: 0
+  date: '1991-07-01T10:41:54'
+- name: A10 2
+  size: 0
+  date: '1991-07-01T10:42:28'
+- name: A10 3
+  size: 0
+  date: '1991-07-01T10:43:10'
 - name: A10.COM
   size: 638
   date: '1991-07-01T01:50:02'

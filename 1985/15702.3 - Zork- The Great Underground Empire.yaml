@@ -1,5 +1,6 @@
-filename: Zork- The Great Underground Empire r88 (Installer) (1985)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+filename: Zork- The Great Underground Empire r88-L (Installer) (1985)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
 tdc_id: '15702.3'
+parent_id: '15702.10'
 title:
   box: 'Zork: The Great Underground Empire'
 publisher: Infocom, Inc.
@@ -10,10 +11,15 @@ genre:
 language: English
 date:
   added: '2022-04-16T14:40:20'
-  last_modified: '2022-04-16T14:40:20'
-release: '88'
+  last_modified: '2025-02-06T07:50:12'
+release: 88-L
 type: zip
+media: 360K
 installer: true
+commands:
+  play: ZORK1.COM
+references:
+  mobygames: https://www.mobygames.com/game/50/zork-the-great-underground-empire/
 files:
 - name: AF.EXE
   size: 13168

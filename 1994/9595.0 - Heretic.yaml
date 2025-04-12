@@ -1,0 +1,43 @@
+filename: Heretic vBeta r941220 (Installer) [SW] (1994)(id Software, Inc.) [Action].zip
+tdc_id: '9595.0'
+title:
+  screen: Heretic
+publisher: id Software, Inc.
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T22:00:30'
+  last_modified: '2025-02-19T10:02:44'
+version: Beta
+release: '941220'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.BAT
+references:
+  mobygames: https://www.mobygames.com/game/21987/heretic/
+files:
+- name: DEICE.EXE
+  size: 17303
+  date: '1994-12-20T16:01:52'
+  crc: '0xaad4552c'
+- name: HT_BETA.1
+  size: 1439232
+  date: '1994-12-20T16:02:52'
+  crc: '0xc4a348aa'
+- name: HT_BETA.2
+  size: 997223
+  date: '1994-12-20T16:03:44'
+  crc: '0x95845fef'
+- name: HT_BETA.DAT
+  size: 261
+  date: '1994-12-20T16:01:52'
+  crc: '0xdd9b5123'
+- name: INSTALL.BAT
+  size: 181
+  date: '1994-12-20T16:06:34'
+  crc: '0x4c907aa6'

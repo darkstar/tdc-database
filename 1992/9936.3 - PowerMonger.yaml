@@ -1,21 +1,25 @@
-filename: PowerMonger (demo) (Installer) (1992)(Electronic Arts, Inc.) [Strategy][!].zip
+filename: PowerMonger (demo) (Installer) [f1] (1992)(Bullfrog Productions Ltd., Electronic Arts, Inc.) [Strategy].zip
 tdc_id: '9936.3'
+parent_id: '9936.9'
 title:
-  screen: PowerMonger
-publisher: Electronic Arts, Inc.
+  box: PowerMonger
+publisher: Bullfrog Productions Ltd., Electronic Arts, Inc.
 year: '1992'
 genre: Strategy
 language: English
 date:
   added: '2019-03-01T18:50:02'
-  last_modified: '2019-03-01T18:50:02'
+  last_modified: '2025-01-26T16:35:13'
 type: zip
 tags:
-- KnownGood
+- Fixed: 1
+media: 1.2M
 installer: true
 demo: true
 commands:
   play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1993/powermonger/
 files:
 - name: D256.HUF
   size: 82569
@@ -40,4 +44,11 @@ files:
 - name: INSTALL.EXE
   size: 12856
   date: '1992-05-19T12:12:44'
+  crc: '0xda1f6e0d'
+- name: INSTALL.EX_
+  size: 12856
+  date: '1992-05-19T12:12:44'
   crc: '0x13e6cff5'
+- name: INSTALL_.PM1
+  size: 0
+  date: '1992-05-21T14:36:32'

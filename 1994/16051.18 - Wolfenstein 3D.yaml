@@ -1,0 +1,77 @@
+filename: Wolfenstein 3D v1.4g [SWR] (1994)(Apogee Software, Ltd.) [Action].zip
+tdc_id: '16051.18'
+parent_id: '16051.17'
+title:
+  box: Wolfenstein 3D
+publisher: Apogee Software, Ltd.
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:52:30'
+  last_modified: '2025-02-05T15:09:54'
+version: 1.4g
+type: zip
+tags:
+- SharewareRegistered
+commands:
+  play: WOLF3D.EXE
+references:
+  mobygames: https://www.mobygames.com/game/306/wolfenstein-3d/
+files:
+- name: AARDWOLF.TXT
+  size: 1087
+  date: '1994-10-01T13:40:00'
+  crc: '0x1c3db70c'
+- name: AUDIOHED.WL6
+  size: 1156
+  date: '1994-10-01T13:40:00'
+  crc: '0x2f3bcb70'
+- name: AUDIOT.WL6
+  size: 320209
+  date: '1994-10-01T13:40:00'
+  crc: '0xc79efd4c'
+- name: GAMEMAPS.WL6
+  size: 150652
+  date: '1994-10-01T13:40:00'
+  crc: '0xada5c827'
+- name: LICENSE.DOC
+  size: 2606
+  date: '1998-07-24T16:37:42'
+  crc: '0xeb88463b'
+- name: MAPHEAD.WL6
+  size: 402
+  date: '1994-10-01T13:40:00'
+  crc: '0x015803e9'
+- name: ORDER.FRM
+  size: 5714
+  date: '1998-04-21T13:24:38'
+  crc: '0xb78426b8'
+- name: SETBLAST.EXE
+  size: 76751
+  date: '1994-10-01T13:40:00'
+  crc: '0xef4f8ced'
+- name: VGADICT.WL6
+  size: 1024
+  date: '1994-10-01T13:40:00'
+  crc: '0x0be27100'
+- name: VGAGRAPH.WL6
+  size: 334506
+  date: '1994-10-01T13:40:00'
+  crc: '0x6aa208a5'
+- name: VGAHEAD.WL6
+  size: 486
+  date: '1994-10-01T13:40:00'
+  crc: '0xeddd83f8'
+- name: VSWAP.WL6
+  size: 1545400
+  date: '1994-10-01T13:40:00'
+  crc: '0x859e8ffc'
+- name: W3DHELP.EXE
+  size: 19742
+  date: '1994-10-01T13:40:00'
+  crc: '0xc75ce2d6'
+- name: WOLF3D.EXE
+  size: 110715
+  date: '1994-10-01T13:40:00'
+  crc: '0xfbe11eb3'

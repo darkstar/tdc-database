@@ -1,5 +1,6 @@
-filename: Spirit of Adventure (De) (1991)(Starbyte Software) [IMA][360k].zip
+filename: Spirit of Adventure v5 (De) (1991)(Starbyte Software) [IMA][360k].zip
 tdc_id: '15408.2'
+parent_id: '15408.3'
 title:
   box: Spirit of Adventure
 publisher: Starbyte Software
@@ -8,31 +9,34 @@ genre: IMA
 language: German
 date:
   added: '2023-02-26T18:15:12'
-  last_modified: '2023-02-26T18:15:12'
+  last_modified: '2025-03-12T15:55:53'
+version: '5'
 type: IMA
 media: 360K
+references:
+  mobygames: https://www.mobygames.com/game/6371/spirit-of-adventure/
 files:
-- name: diska.ima
+- name: DiskA.ima
   size: 368640
-  date: '2021-08-18T17:04:42'
+  date: '2025-03-12T17:17:46'
   crc: '0xbf0bff64'
-- name: diskb.ima
+- name: DiskB.ima
   size: 368640
-  date: '2021-08-18T17:41:10'
+  date: '2025-03-12T17:17:54'
   crc: '0xaa73537d'
-- name: diskc.ima
+- name: DiskC.ima
   size: 368640
-  date: '2021-08-18T17:41:18'
+  date: '2025-03-12T17:18:04'
   crc: '0x938d282d'
-- name: diskd.ima
+- name: DiskD.ima
   size: 368640
-  date: '2021-08-18T17:41:24'
+  date: '2025-03-12T17:18:12'
   crc: '0xd77c42c0'
-- name: diske.ima
+- name: DiskE.ima
   size: 368640
-  date: '2021-08-18T17:41:32'
-  crc: '0x8cf0f12c'
-- name: diskf.ima
+  date: '2025-03-12T17:18:20'
+  crc: '0x79df3509'
+- name: DiskF.ima
   size: 368640
-  date: '2021-08-18T17:41:40'
+  date: '2025-03-12T17:18:30'
   crc: '0x8cf0f12c'

@@ -1,0 +1,58 @@
+filename: Microsoft Space Simulator v1.0 (Installer) (De) (1994)(Microsoft Corporation) [Educational, Simulation][!].zip
+tdc_id: '7807.7'
+parent_id: '7807.6'
+title:
+  box: Microsoft Space Simulator
+publisher: Microsoft Corporation
+year: '1994'
+genre:
+- Educational
+- Simulation
+language: German
+date:
+  added: '2025-01-26T08:11:42'
+  last_modified: '2025-01-26T08:11:42'
+version: '1.0'
+type: zip
+tags:
+- KnownGood
+media: 1.44M
+installer: true
+commands:
+  play: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/2102/microsoft-space-simulator/
+files:
+- name: DISK1.EXE
+  size: 1309093
+  date: '1994-11-10T12:00:00'
+  crc: '0x37ea5e89'
+- name: DISK2.EXE
+  size: 1445926
+  date: '1994-11-10T12:00:00'
+  crc: '0x6c0d285a'
+- name: DISK3.EXE
+  size: 1422788
+  date: '1994-11-10T12:00:00'
+  crc: '0x6f340475'
+- name: INFO.TXT
+  size: 8869
+  date: '1994-11-10T12:00:00'
+  crc: '0xb7d79cd5'
+- name: MAKEBOOT.COM
+  size: 11521
+  date: '1994-11-10T12:00:00'
+  crc: '0x1e9442be'
+- name: SETUP.EXE
+  size: 60924
+  date: '1994-11-10T12:00:00'
+  crc: '0xe73dbd94'
+- name: SSIM100D._01
+  size: 0
+  date: '1994-11-15T00:10:02'
+- name: SSIM100D._02
+  size: 0
+  date: '1994-11-15T00:10:52'
+- name: SSIM100D._03
+  size: 0
+  date: '1994-11-15T00:11:28'

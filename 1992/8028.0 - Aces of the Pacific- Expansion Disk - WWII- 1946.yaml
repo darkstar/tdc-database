@@ -1,0 +1,29 @@
+filename: Aces of the Pacific- Expansion Disk - WWII- 1946 v1.0 (Installer) (1992)(Sierra Entertainment, Inc.) [Simulation, Addon].zip
+tdc_id: '8028.0'
+title:
+  box: 'Aces of the Pacific: Expansion Disk - WWII: 1946'
+publisher: Sierra Entertainment, Inc.
+year: '1992'
+genre:
+- Simulation
+- Addon
+language: English
+date:
+  added: '2019-03-01T18:40:54'
+  last_modified: '2025-03-16T11:03:24'
+version: '1.0'
+type: zip
+installer: true
+commands:
+  play: INSTALL.BAT
+references:
+  mobygames: https://www.mobygames.com/game/1420/aces-of-the-pacific-expansion-disk-wwii-1946/
+files:
+- name: 1946.EXE
+  size: 1194774
+  date: '1992-11-19T01:00:00'
+  crc: '0x421ec4a2'
+- name: INSTALL.BAT
+  size: 5739
+  date: '1992-11-19T01:00:00'
+  crc: '0xf3a35989'

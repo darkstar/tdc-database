@@ -1,0 +1,37 @@
+filename: Dark Seed 1.4a update patch (Installer) (1992)(Cyberdreams, Inc) [Adventure, Addon].zip
+tdc_id: '12929.13'
+title:
+  box: Dark Seed 1.4a update patch
+publisher: Cyberdreams, Inc
+year: '1992'
+genre:
+- Adventure
+- Addon
+language: English
+date:
+  added: '2025-03-26T15:03:45'
+  last_modified: '2025-03-26T15:03:45'
+type: zip
+installer: true
+patch: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/302/dark-seed/
+files:
+- name: DISK.ID
+  size: 31
+  date: '1992-07-30T16:37:18'
+  crc: '0x0a14f8ca'
+- name: DSTECH.ADD
+  size: 3305
+  date: '1992-10-15T17:22:30'
+  crc: '0x163cbdc4'
+- name: INSTALL.EXE
+  size: 106868
+  date: '1992-04-28T15:32:40'
+  crc: '0x08da240f'
+- name: UPDATE.001
+  size: 119788
+  date: '1992-07-30T16:37:46'
+  crc: '0xa66246f5'

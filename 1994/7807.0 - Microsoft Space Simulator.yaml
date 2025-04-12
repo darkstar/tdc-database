@@ -1,5 +1,6 @@
-filename: Microsoft Space Simulator (1994)(Microsoft Corporation) [Educational, Simulation].zip
+filename: Microsoft Space Simulator v1.0 (1994)(Microsoft Corporation) [Educational, Simulation].zip
 tdc_id: '7807.0'
+parent_id: '7807.1'
 title:
   box: Microsoft Space Simulator
 publisher: Microsoft Corporation
@@ -10,15 +11,21 @@ genre:
 language: English
 date:
   added: '2019-03-01T22:02:08'
-  last_modified: '2019-03-01T22:02:08'
+  last_modified: '2025-01-26T08:20:51'
+version: '1.0'
 type: zip
+media: 1.44M
+commands:
+  play: SPACESIM.EXE
+  setup: SETUP.EXE
 references:
+  mobygames: https://www.mobygames.com/game/2102/microsoft-space-simulator/
   dosid: DOS03548
   exodos: Microsoft Space Simulator (1994).zip
 files:
 - name: 1972.STN
   size: 6324
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T00:00:00'
   crc: '0x13fd2c6b'
 - name: 1989N1.MOO
   size: 512
@@ -30,19 +37,19 @@ files:
   crc: '0x8792be7b'
 - name: 1999.STN
   size: 2822
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0xd8c492ef'
 - name: 2100.STN
   size: 7268
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0xb66bd85b'
 - name: 4565.PAL
   size: 384
-  date: '2012-01-15T15:29:36'
+  date: '1994-08-23T00:00:00'
   crc: '0xb3d361aa'
 - name: 4565.R8
   size: 65536
-  date: '2012-01-15T15:29:36'
+  date: '1994-08-23T00:00:00'
   crc: '0xb8b940a3'
 - name: ACHERNAR.STR
   size: 512
@@ -50,11 +57,11 @@ files:
   crc: '0x1c9eaeb0'
 - name: ACRETION.PAL
   size: 384
-  date: '2012-01-15T15:29:48'
+  date: '1994-08-23T00:00:00'
   crc: '0xb194cf22'
 - name: ACRETION.R8
   size: 65536
-  date: '2012-01-15T15:29:48'
+  date: '1994-08-23T00:00:00'
   crc: '0x3d95fe52'
 - name: ALDEBARA.STR
   size: 512
@@ -62,7 +69,7 @@ files:
   crc: '0x00fdb29f'
 - name: ALPHACEN.STN
   size: 2832
-  date: '2012-01-15T15:29:48'
+  date: '1994-08-23T00:00:00'
   crc: '0xcc815124'
 - name: ALPHACEN.STR
   size: 512
@@ -78,7 +85,7 @@ files:
   crc: '0x0a2ff0f8'
 - name: ANTARES.PLN
   size: 852
-  date: '2012-01-15T15:29:48'
+  date: '1994-08-23T00:00:00'
   crc: '0x5d743a87'
 - name: ANTARES.STR
   size: 512
@@ -86,7 +93,7 @@ files:
   crc: '0xdfdfc6ba'
 - name: APROACH.STN
   size: 6316
-  date: '2012-01-15T15:29:48'
+  date: '1994-08-23T00:00:00'
   crc: '0xf60e4d24'
 - name: ARCTURUS.STR
   size: 512
@@ -98,99 +105,99 @@ files:
   crc: '0x051b67cd'
 - name: ASTERG.BIN
   size: 45664
-  date: '2012-01-15T15:29:48'
+  date: '1994-08-23T00:00:00'
   crc: '0x2816d419'
 - name: ASTERGS.BIN
   size: 15888
-  date: '2012-01-15T15:29:48'
+  date: '1994-08-23T00:00:00'
   crc: '0x8a3d9043'
 - name: ASTEROID.BIN
   size: 31952
-  date: '2012-01-15T15:29:48'
+  date: '1994-08-23T00:00:00'
   crc: '0xaaab279b'
 - name: ASTEROIS.BIN
   size: 11120
-  date: '2012-01-15T15:29:48'
+  date: '1994-08-23T00:00:00'
   crc: '0x6aa77cfe'
 - name: ATL.BIN
   size: 17664
-  date: '2012-01-15T15:29:38'
+  date: '1994-08-23T00:00:00'
   crc: '0xc439f668'
 - name: ATLG.BIN
   size: 16880
-  date: '2012-01-15T15:29:38'
+  date: '1994-08-23T00:00:00'
   crc: '0x429f09ed'
 - name: ATLS.BIN
   size: 11664
-  date: '2012-01-15T15:29:38'
+  date: '1994-08-23T00:00:00'
   crc: '0x3c53228f'
 - name: AUTOPAL0.PAL
   size: 384
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T00:00:00'
   crc: '0x29f7f798'
 - name: AUTOPAL1.PAL
   size: 384
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T00:00:00'
   crc: '0xc50c4e2e'
 - name: AUTOPAL2.PAL
   size: 384
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T00:00:00'
   crc: '0xd272f2be'
 - name: AUTOPAL3.PAL
   size: 384
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T00:00:00'
   crc: '0x2aab39c2'
 - name: AUTOPAL4.PAL
   size: 384
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T00:00:00'
   crc: '0x5cb5b755'
 - name: AUTOPAL5.PAL
   size: 384
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T00:00:00'
   crc: '0xdcf223a1'
 - name: AUTOPAL6.PAL
   size: 384
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0x463d3340'
 - name: AUTOPAL7.PAL
   size: 384
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0x7940bdab'
 - name: AUTOPAL8.PAL
   size: 384
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0xbcc36338'
 - name: AUTOPAL9.PAL
   size: 384
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0x44928088'
 - name: AUTOPALA.PAL
   size: 384
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0xc24be2e7'
 - name: AUTOPALB.PAL
   size: 384
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0x06fadbe2'
 - name: AUTOPALC.PAL
   size: 384
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0xfed4d839'
 - name: AUTOPALD.PAL
   size: 384
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0x3e119411'
 - name: AUTOPALE.PAL
   size: 384
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0x6bba1cb0'
 - name: AUTOPALF.PAL
   size: 384
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0x7df606a2'
 - name: BACH1.MDI
   size: 18221
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0xa794265e'
 - name: BACH1.SNG
   size: 512
@@ -210,7 +217,7 @@ files:
   crc: '0xb7ef1644'
 - name: BLUESTAR.PAL
   size: 384
-  date: '2012-01-15T15:29:40'
+  date: '1994-08-23T00:00:00'
   crc: '0xb58d7752'
 - name: BOMBAY.SUR
   size: 512
@@ -222,7 +229,7 @@ files:
   crc: '0x9f85c73e'
 - name: BRAHMS.MDI
   size: 2395
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0xef6dd559'
 - name: BRAHMS.SNG
   size: 512
@@ -230,7 +237,7 @@ files:
   crc: '0xf6bca73f'
 - name: BRAHMS1.MDI
   size: 5615
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0xd40ad1a4'
 - name: BRAHMS1.SNG
   size: 512
@@ -238,7 +245,7 @@ files:
   crc: '0xfa0dd50e'
 - name: BRAHMS2.MDI
   size: 5501
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0x3f8a48bd'
 - name: BRORSEN.CMT
   size: 512
@@ -246,7 +253,7 @@ files:
   crc: '0x3c6b823e'
 - name: BTHVNNO5.MDI
   size: 32744
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0x6ee1e600'
 - name: BTHVNNO5.SNG
   size: 512
@@ -254,7 +261,7 @@ files:
   crc: '0x823b9667'
 - name: BUSSARD.BIN
   size: 19712
-  date: '2012-01-15T15:29:42'
+  date: '1994-08-23T00:00:00'
   crc: '0x1c291b38'
 - name: BUSSARD.CFT
   size: 512
@@ -262,27 +269,27 @@ files:
   crc: '0x1d8aacb4'
 - name: BUSSARD.MSL
   size: 404
-  date: '2012-01-15T15:29:48'
+  date: '1994-08-23T17:12:50'
   crc: '0x221e9947'
 - name: BUSSARDG.BIN
   size: 20224
-  date: '2012-01-15T15:29:42'
+  date: '1994-08-23T00:00:00'
   crc: '0x8ce7fdf8'
 - name: BUSSARDS.BIN
   size: 14272
-  date: '2012-01-15T15:29:42'
+  date: '1994-08-23T00:00:00'
   crc: '0x48a574af'
 - name: CALISTOG.BIN
   size: 23312
-  date: '2012-01-15T15:29:38'
+  date: '1994-08-23T00:00:00'
   crc: '0xb40aeafa'
 - name: CALISTOS.BIN
   size: 11440
-  date: '2012-01-15T15:29:38'
+  date: '1994-08-23T00:00:00'
   crc: '0x45ca618f'
 - name: CALLISTO.BIN
   size: 17520
-  date: '2012-01-15T15:29:38'
+  date: '1994-08-23T00:00:00'
   crc: '0xfb1d33e9'
 - name: CALLISTO.CFT
   size: 512
@@ -298,15 +305,15 @@ files:
   crc: '0xe4720d7e'
 - name: CALLISTO.NOR
   size: 65536
-  date: '2012-01-15T15:29:42'
+  date: '1994-08-23T00:00:00'
   crc: '0x436ce918'
 - name: CALLISTO.PAL
   size: 384
-  date: '2012-01-15T15:29:42'
+  date: '1994-08-23T00:00:00'
   crc: '0x09f434e8'
 - name: CALLISTO.SOU
   size: 65536
-  date: '2012-01-15T15:29:42'
+  date: '1994-08-23T00:00:00'
   crc: '0x1d9b4e75'
 - name: CANOPUS.STR
   size: 512
@@ -314,11 +321,11 @@ files:
   crc: '0x017010e4'
 - name: CAPECAN.BIN
   size: 17872
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0x30335683'
 - name: CAPECAN.PAL
   size: 384
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0x72f04298'
 - name: CAPECAN.SUR
   size: 512
@@ -326,7 +333,7 @@ files:
   crc: '0xcc459016'
 - name: CAPEDUSK.STN
   size: 6694
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T00:00:00'
   crc: '0x8d3ade63'
 - name: CAPELLA.STR
   size: 512
@@ -334,19 +341,19 @@ files:
   crc: '0xab5dad0e'
 - name: CAPENE.R8
   size: 65536
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0xa39821d0'
 - name: CAPENW.R8
   size: 65536
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0xda89b39e'
 - name: CAPESE.R8
   size: 65536
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0x34d7569f'
 - name: CAPESW.R8
   size: 65536
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0x85dd98cb'
 - name: CAPETOWN.SUR
   size: 512
@@ -370,7 +377,7 @@ files:
   crc: '0x4c9ed2a7'
 - name: CHOPIN7.MDI
   size: 2398
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0xab59f425'
 - name: CHOPIN7.SNG
   size: 512
@@ -378,23 +385,23 @@ files:
   crc: '0x6776ab98'
 - name: COASTAL.STN
   size: 2808
-  date: '2012-01-15T15:29:48'
+  date: '1994-08-23T00:00:00'
   crc: '0xb859b2ef'
 - name: COMET.BIN
   size: 31248
-  date: '2012-01-15T15:29:48'
+  date: '1994-08-23T00:00:00'
   crc: '0x751395f7'
 - name: COMETS.BIN
   size: 15728
-  date: '2012-01-15T15:29:48'
+  date: '1994-08-23T00:00:00'
   crc: '0x882c4ec1'
 - name: CONBNDRY.BIN
   size: 8864
-  date: '2012-01-15T15:29:34'
+  date: '1994-08-23T00:00:00'
   crc: '0x4f9b70c2'
 - name: CONSTELL.BIN
   size: 1536
-  date: '2012-01-15T15:29:32'
+  date: '1994-08-23T00:00:00'
   crc: '0x8f751711'
 - name: CORE.SKY
   size: 512
@@ -406,11 +413,11 @@ files:
   crc: '0xc54e3ccc'
 - name: CRAB.PAL
   size: 384
-  date: '2012-01-15T15:29:34'
+  date: '1994-08-23T00:00:00'
   crc: '0xab72e2ca'
 - name: CRAB.R8
   size: 65536
-  date: '2012-01-15T15:29:34'
+  date: '1994-08-23T00:00:00'
   crc: '0x05575f9c'
 - name: CRAB.SKY
   size: 512
@@ -422,11 +429,11 @@ files:
   crc: '0x98932107'
 - name: DANGER-1.STN
   size: 2944
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T00:00:00'
   crc: '0x9085fb99'
 - name: DANUBE.MDI
   size: 19646
-  date: '2012-01-15T15:29:48'
+  date: '1994-08-23T00:00:00'
   crc: '0x6421495e'
 - name: DANUBE.SNG
   size: 512
@@ -442,7 +449,7 @@ files:
   crc: '0x1af8a3a5'
 - name: DEFCRAFT.BIN
   size: 19232
-  date: '2012-01-15T15:29:38'
+  date: '1994-08-23T00:00:00'
   crc: '0xa9900d59'
 - name: DEFCRAFT.CFT
   size: 512
@@ -458,11 +465,11 @@ files:
   crc: '0xc53d5b3b'
 - name: DEFCRFTG.BIN
   size: 29360
-  date: '2012-01-15T15:29:38'
+  date: '1994-08-23T00:00:00'
   crc: '0xf7d09fb9'
 - name: DEFCRFTS.BIN
   size: 10416
-  date: '2012-01-15T15:29:38'
+  date: '1994-08-23T00:00:00'
   crc: '0xac737175'
 - name: DEIMOS.MOO
   size: 512
@@ -470,7 +477,7 @@ files:
   crc: '0xbb0fa51c'
 - name: DEMO.MSL
   size: 2152
-  date: '2012-01-15T15:29:48'
+  date: '1994-08-23T17:12:50'
   crc: '0x0f44cae3'
 - name: DENEB.STR
   size: 512
@@ -486,27 +493,27 @@ files:
   crc: '0xbd97009c'
 - name: DOCKING1.STN
   size: 2824
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T00:00:00'
   crc: '0x46833af3'
 - name: DOCKING2.STN
   size: 2824
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0x48ba3800'
 - name: DUMBELL.PAL
   size: 384
-  date: '2012-01-15T15:29:34'
+  date: '1994-08-23T00:00:00'
   crc: '0x7dcd8c03'
 - name: DUMBELL.R8
   size: 65536
-  date: '2012-01-15T15:29:34'
+  date: '1994-08-23T00:00:00'
   crc: '0x1fe97270'
 - name: EARTH.NOR
   size: 65536
-  date: '2012-01-15T15:29:42'
+  date: '1994-08-23T00:00:00'
   crc: '0xcccc8df1'
 - name: EARTH.PAL
   size: 384
-  date: '2012-01-15T15:29:42'
+  date: '1994-08-23T00:00:00'
   crc: '0x2fe23e66'
 - name: EARTH.PNT
   size: 512
@@ -514,19 +521,19 @@ files:
   crc: '0xd343a30c'
 - name: EARTH.SOU
   size: 65536
-  date: '2012-01-15T15:29:42'
+  date: '1994-08-23T00:00:00'
   crc: '0x2d272a98'
 - name: EARTHCLO.NOR
   size: 65536
-  date: '2012-01-15T15:29:42'
+  date: '1994-08-23T00:00:00'
   crc: '0xab9a363d'
 - name: EARTHCLO.SOU
   size: 65536
-  date: '2012-01-15T15:29:42'
+  date: '1994-08-23T00:00:00'
   crc: '0x9d4b0fb9'
 - name: EARTHORB.STN
   size: 2602
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T00:00:00'
   crc: '0x968f31e6'
 - name: ENCELADU.MOO
   size: 512
@@ -538,11 +545,11 @@ files:
   crc: '0x0976ee0f'
 - name: ETACARIN.PAL
   size: 384
-  date: '2012-01-15T15:29:34'
+  date: '1994-08-23T00:00:00'
   crc: '0x481d8518'
 - name: ETACARIN.R8
   size: 65536
-  date: '2012-01-15T15:29:34'
+  date: '1994-08-23T00:00:00'
   crc: '0x2fcfc3ff'
 - name: EUROPA.MOO
   size: 512
@@ -550,7 +557,7 @@ files:
   crc: '0x6fecee98'
 - name: EUROPA.NOR
   size: 65536
-  date: '2012-01-15T15:29:40'
+  date: '1994-08-23T00:00:00'
   crc: '0x09cac521'
 - name: EUROPA.OID
   size: 512
@@ -558,23 +565,23 @@ files:
   crc: '0x642c7775'
 - name: EUROPA.PAL
   size: 384
-  date: '2012-01-15T15:29:40'
+  date: '1994-08-23T00:00:00'
   crc: '0xf88dc2b9'
 - name: EUROPA.SOU
   size: 65536
-  date: '2012-01-15T15:29:40'
+  date: '1994-08-23T00:00:00'
   crc: '0x82f48efa'
 - name: F79-CAPE.STN
   size: 2774
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T00:00:00'
   crc: '0x42df8440'
 - name: F79-IO.STN
   size: 6824
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T00:00:00'
   crc: '0x99b8782f'
 - name: F79.BIN
   size: 20672
-  date: '2012-01-15T15:29:38'
+  date: '1994-08-23T00:00:00'
   crc: '0x80380e91'
 - name: F79.CFT
   size: 512
@@ -582,23 +589,23 @@ files:
   crc: '0x236e9bfb'
 - name: F79G.BIN
   size: 28256
-  date: '2012-01-15T15:29:38'
+  date: '1994-08-23T00:00:00'
   crc: '0x5b89f2ba'
 - name: F79S.MSL
   size: 52
-  date: '2012-01-15T15:29:48'
+  date: '1994-08-23T17:12:50'
   crc: '0x8df6c773'
 - name: FAR3D.BIN
   size: 112610
-  date: '2012-01-15T15:29:32'
+  date: '1994-08-23T00:00:00'
   crc: '0xe84f8fbb'
 - name: FAR3DS.BIN
   size: 70314
-  date: '2012-01-15T15:29:32'
+  date: '1994-08-23T00:00:00'
   crc: '0xae19a06b'
 - name: FIGARO.MDI
   size: 12752
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0x66ec0a23'
 - name: FIGARO.SNG
   size: 512
@@ -606,15 +613,15 @@ files:
   crc: '0x0198d0c3'
 - name: FINISH.BAT
   size: 318
-  date: '2012-01-15T15:29:30'
+  date: '1994-08-23T00:00:00'
   crc: '0xf6ffd8b0'
 - name: FLIGHT.STN
   size: 2610
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T00:00:00'
   crc: '0xb6ebfd07'
 - name: FLYBY.STN
   size: 6922
-  date: '2012-01-15T15:29:48'
+  date: '1994-08-23T00:00:00'
   crc: '0xa6654063'
 - name: FOMALHAU.STR
   size: 512
@@ -622,7 +629,7 @@ files:
   crc: '0x57e7cbc7'
 - name: FREEDOM.BIN
   size: 15376
-  date: '2012-01-15T15:29:44'
+  date: '1994-08-23T00:00:00'
   crc: '0x5d202988'
 - name: FREEDOM.SIN
   size: 512
@@ -634,11 +641,11 @@ files:
   crc: '0xd42208d3'
 - name: FREEDOMG.BIN
   size: 20544
-  date: '2012-01-15T15:29:44'
+  date: '1994-08-23T00:00:00'
   crc: '0x557f2310'
 - name: FREIGHLR.BIN
   size: 6352
-  date: '2012-01-15T15:29:38'
+  date: '1994-08-23T00:00:00'
   crc: '0x6f5328a9'
 - name: FREIGHT.CFT
   size: 512
@@ -646,11 +653,11 @@ files:
   crc: '0xd04a34da'
 - name: FREIGHT.PLN
   size: 920
-  date: '2012-01-15T15:29:48'
+  date: '1994-08-23T00:00:00'
   crc: '0x10b3e0de'
 - name: FREIGHT1.BIN
   size: 10592
-  date: '2012-01-15T15:29:38'
+  date: '1994-08-23T00:00:00'
   crc: '0x06ab8757'
 - name: FREIGHT1.CIN
   size: 512
@@ -658,15 +665,15 @@ files:
   crc: '0x09931594'
 - name: FREIGHTG.BIN
   size: 14384
-  date: '2012-01-15T15:29:38'
+  date: '1994-08-23T00:00:00'
   crc: '0x5eeed64e'
 - name: FREIGHTR.STN
   size: 7154
-  date: '2012-01-15T15:29:46'
+  date: '1994-08-23T00:00:00'
   crc: '0x58972e29'
 - name: FUGUEGMI.MDI
   size: 29911
-  date: '2012-01-15T15:29:48'
+  date: '1994-08-23T00:00:00'
   crc: '0xa7b0a08d'
 - name: FUGUEGMI.SNG
   size: 512
@@ -674,7 +681,7 @@ files:
   crc: '0x7c938e40'
 - name: FUNKY.MDI
   size: 8095
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0xb3a8dae4'
 - name: FUNKY.SNG
   size: 512
@@ -682,7 +689,7 @@ files:
   crc: '0x41f72846'
 - name: GALAXY.BIN
   size: 60532
-  date: '2012-01-15T15:29:44'
+  date: '1994-08-23T00:00:00'
   crc: '0xf5de48a1'
 - name: GANYMEDE.MOO
   size: 512
@@ -690,23 +697,23 @@ files:
   crc: '0x3678fafe'
 - name: GANYMEDE.NOR
   size: 65536
-  date: '2012-01-15T15:29:40'
+  date: '1994-08-23T00:00:00'
   crc: '0xd2f7dfd9'
 - name: GANYMEDE.PAL
   size: 384
-  date: '2012-01-15T15:29:40'
+  date: '1994-08-23T00:00:00'
   crc: '0x26f75da4'
 - name: GANYMEDE.SOU
   size: 65536
-  date: '2012-01-15T15:29:40'
+  date: '1994-08-23T00:00:00'
   crc: '0x6f64b45e'
 - name: GASGIANT.NOR
   size: 65536
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T00:00:00'
   crc: '0xb0cf342d'
 - name: GASGIANT.SOU
   size: 65536
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T00:00:00'
   crc: '0x12ff3394'
 - name: GASPRA.OID
   size: 512
@@ -714,27 +721,27 @@ files:
   crc: '0xd1435269'
 - name: GENMOON.NOR
   size: 65536
-  date: '2012-01-15T15:29:48'
+  date: '1994-08-23T00:00:00'
   crc: '0xb5a7a9d7'
 - name: GENMOON.SOU
   size: 65536
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T00:00:00'
   crc: '0xca20517f'
 - name: GENMOON1.NOR
   size: 65536
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T00:00:00'
   crc: '0x87c9ec5b'
 - name: GENMOON1.SOU
   size: 65536
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T00:00:00'
   crc: '0x265aa696'
 - name: GENMOON2.NOR
   size: 65536
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T00:00:00'
   crc: '0xfb81a858'
 - name: GENMOON2.SOU
   size: 65536
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T00:00:00'
   crc: '0x8f67ee16'
 - name: GIACOBIN.CMT
   size: 512
@@ -742,31 +749,31 @@ files:
   crc: '0xa756844f'
 - name: GNORTH.BIN
   size: 20464
-  date: '2012-01-15T15:29:40'
+  date: '1994-08-23T00:00:00'
   crc: '0x16c0c8d5'
 - name: GNORTHS.BIN
   size: 5056
-  date: '2012-01-15T15:29:40'
+  date: '1994-08-23T00:00:00'
   crc: '0x7b9a69ec'
 - name: GREYSCAL.PAL
   size: 384
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T00:00:00'
   crc: '0x26f75da4'
 - name: GSOUTH.BIN
   size: 20464
-  date: '2012-01-15T15:29:40'
+  date: '1994-08-23T00:00:00'
   crc: '0x46b2a808'
 - name: GSOUTHS.BIN
   size: 5056
-  date: '2012-01-15T15:29:40'
+  date: '1994-08-23T00:00:00'
   crc: '0x5e7ebb38'
 - name: GSPHERE.BIN
   size: 13296
-  date: '2012-01-15T15:29:40'
+  date: '1994-08-23T00:00:00'
   crc: '0xe369b4a3'
 - name: GSPHERES.BIN
   size: 3216
-  date: '2012-01-15T15:29:40'
+  date: '1994-08-23T00:00:00'
   crc: '0x7508f860'
 - name: HALLEY.CMT
   size: 512
@@ -774,15 +781,15 @@ files:
   crc: '0x0ee155e6'
 - name: HALLEY.STN
   size: 2844
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T00:00:00'
   crc: '0x4d194376'
 - name: HELIX.PAL
   size: 384
-  date: '2012-01-15T15:29:34'
+  date: '1994-08-23T00:00:00'
   crc: '0x1bc73a56'
 - name: HELIX.R8
   size: 65536
-  date: '2012-01-15T15:29:32'
+  date: '1994-08-23T00:00:00'
   crc: '0x2be356fc'
 - name: HIMALIA.MOO
   size: 512
@@ -790,15 +797,15 @@ files:
   crc: '0x52038943'
 - name: HOMELOGO.VDA
   size: 46353
-  date: '2012-01-15T15:29:48'
+  date: '1994-08-23T00:00:00'
   crc: '0x58dcbd27'
 - name: HOMELOGO.VDI
   size: 524
-  date: '2012-01-15T15:32:52'
+  date: '1994-08-23T00:00:00'
   crc: '0x743cc393'
 - name: HOOKED.MDI
   size: 27499
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0x0a495d6b'
 - name: HOOKED.SNG
   size: 512
@@ -806,11 +813,11 @@ files:
   crc: '0x2255cb82'
 - name: HORSEHED.STN
   size: 1854
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T00:00:00'
   crc: '0xe7ebed9d'
 - name: HORSHEAD.R8
   size: 65536
-  date: '2012-01-15T15:29:34'
+  date: '1994-08-23T00:00:00'
   crc: '0x578cbb9a'
 - name: HORSHEAD.SKY
   size: 512
@@ -818,7 +825,7 @@ files:
   crc: '0xeb39bce7'
 - name: HOT-DOG.STN
   size: 2946
-  date: '2012-01-15T15:29:46'
+  date: '1994-08-23T00:00:00'
   crc: '0x9eed0d03'
 - name: HOUSTON.SUR
   size: 512
@@ -826,7 +833,7 @@ files:
   crc: '0x11637b87'
 - name: HOVER.STN
   size: 2428
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0xe8631f97'
 - name: HYGIEA.OID
   size: 512
@@ -842,15 +849,15 @@ files:
   crc: '0xc9fdd8bd'
 - name: IAPETUS.NOR
   size: 65536
-  date: '2012-01-15T15:29:46'
+  date: '1994-08-23T00:00:00'
   crc: '0x342f6cbc'
 - name: IAPETUS.PAL
   size: 384
-  date: '2012-01-15T15:29:46'
+  date: '1994-08-23T00:00:00'
   crc: '0x26f75da4'
 - name: IAPETUS.SOU
   size: 65536
-  date: '2012-01-15T15:29:46'
+  date: '1994-08-23T00:00:00'
   crc: '0x36e08836'
 - name: INTERMAM.OID
   size: 512
@@ -862,15 +869,15 @@ files:
   crc: '0x5767e81d'
 - name: IO.NOR
   size: 65536
-  date: '2012-01-15T15:29:40'
+  date: '1994-08-23T00:00:00'
   crc: '0xa1baa13d'
 - name: IO.PAL
   size: 384
-  date: '2012-01-15T15:29:40'
+  date: '1994-08-23T00:00:00'
   crc: '0xcd11daf2'
 - name: IO.SOU
   size: 65536
-  date: '2012-01-15T15:29:40'
+  date: '1994-08-23T00:00:00'
   crc: '0xd7dc3444'
 - name: JANUS.MOO
   size: 512
@@ -878,19 +885,19 @@ files:
   crc: '0xe585df82'
 - name: JAUNT.PLN
   size: 1124
-  date: '2012-01-15T15:29:48'
+  date: '1994-08-23T00:00:00'
   crc: '0xca8b1440'
 - name: JAUNT.STN
   size: 3368
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0xdaf5edad'
 - name: JUPITER.NOR
   size: 65536
-  date: '2012-01-15T15:29:40'
+  date: '1994-08-23T00:00:00'
   crc: '0x2e9af091'
 - name: JUPITER.PAL
   size: 384
-  date: '2012-01-15T15:29:40'
+  date: '1994-08-23T00:00:00'
   crc: '0xc3388133'
 - name: JUPITER.PNT
   size: 512
@@ -898,11 +905,11 @@ files:
   crc: '0x2af1bf60'
 - name: JUPITER.SOU
   size: 65536
-  date: '2012-01-15T15:29:40'
+  date: '1994-08-23T00:00:00'
   crc: '0x8d191725'
 - name: JUPITER.STN
   size: 3098
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0x18510a12'
 - name: KITTPEAK.SUR
   size: 512
@@ -922,11 +929,11 @@ files:
   crc: '0xb4d7fc68'
 - name: LANDL.PLN
   size: 784
-  date: '2012-01-15T15:29:48'
+  date: '1994-08-23T00:00:00'
   crc: '0xa5418bd0'
 - name: LANDS.PLN
   size: 904
-  date: '2012-01-15T15:29:48'
+  date: '1994-08-23T00:00:00'
   crc: '0x20ca8528'
 - name: LAPALMA.SUR
   size: 512
@@ -938,15 +945,15 @@ files:
   crc: '0x17234be5'
 - name: LAUNCHL.PLN
   size: 580
-  date: '2012-01-15T15:29:48'
+  date: '1994-08-23T00:00:00'
   crc: '0x9db7f114'
 - name: LAUNCHS.PLN
   size: 620
-  date: '2012-01-15T15:29:48'
+  date: '1994-08-23T00:00:00'
   crc: '0x2bcdb290'
 - name: LEM.BIN
   size: 15280
-  date: '2012-01-15T15:29:42'
+  date: '1994-08-23T00:00:00'
   crc: '0xb65f85ba'
 - name: LEM.CFT
   size: 512
@@ -958,7 +965,7 @@ files:
   crc: '0x87eda5a3'
 - name: LEMBOT.BIN
   size: 9968
-  date: '2012-01-15T15:29:42'
+  date: '1994-08-23T00:00:00'
   crc: '0xef8e9434'
 - name: LEMBOT.CFT
   size: 512
@@ -970,35 +977,35 @@ files:
   crc: '0x3cdbf11d'
 - name: LEMDOCK1.STN
   size: 6156
-  date: '2012-01-15T15:29:46'
+  date: '1994-08-23T00:00:00'
   crc: '0xb248af0f'
 - name: LEMDOCK2.STN
   size: 6156
-  date: '2012-01-15T15:29:46'
+  date: '1994-08-23T00:00:00'
   crc: '0x3e272dcc'
 - name: LEMDOCK3.STN
   size: 6156
-  date: '2012-01-15T15:29:46'
+  date: '1994-08-23T00:00:00'
   crc: '0x07b6e404'
 - name: LEMLAND1.STN
   size: 6294
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0x3c5028f6'
 - name: LEMLAND2.STN
   size: 6294
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0xd5fdf3f6'
 - name: LEMLAND3.STN
   size: 6294
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T00:00:00'
   crc: '0xd92cb5ba'
 - name: LEMLANDR.STN
   size: 6334
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T00:00:00'
   crc: '0x66418291'
 - name: LEMTOP.BIN
   size: 5296
-  date: '2012-01-15T15:29:42'
+  date: '1994-08-23T00:00:00'
   crc: '0xa8414cfd'
 - name: LEMTOP.CFT
   size: 512
@@ -1010,15 +1017,15 @@ files:
   crc: '0x9582906e'
 - name: LITTRNE.R8
   size: 65536
-  date: '2012-01-15T15:29:38'
+  date: '1994-08-23T00:00:00'
   crc: '0xa0caa255'
 - name: LITTRNW.R8
   size: 65536
-  date: '2012-01-15T15:29:38'
+  date: '1994-08-23T00:00:00'
   crc: '0x6828e8e6'
 - name: LITTROW.BIN
   size: 4160
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0x124a5961'
 - name: LITTROW.SUR
   size: 512
@@ -1026,19 +1033,19 @@ files:
   crc: '0x2a148637'
 - name: LITTRSE.R8
   size: 65536
-  date: '2012-01-15T15:29:38'
+  date: '1994-08-23T00:00:00'
   crc: '0x0ecaa19d'
 - name: LITTRSW.R8
   size: 65536
-  date: '2012-01-15T15:29:38'
+  date: '1994-08-23T00:00:00'
   crc: '0x1a84d89c'
 - name: LMC.PAL
   size: 384
-  date: '2012-01-15T15:29:36'
+  date: '1994-08-23T00:00:00'
   crc: '0xa3242187'
 - name: LMC.R8
   size: 65536
-  date: '2012-01-15T15:29:36'
+  date: '1994-08-23T00:00:00'
   crc: '0xf28fe283'
 - name: LMC.SKY
   size: 512
@@ -1050,11 +1057,11 @@ files:
   crc: '0x8665d256'
 - name: LOOP.PLN
   size: 6224
-  date: '2012-01-15T15:29:48'
+  date: '1994-08-23T00:00:00'
   crc: '0x29ed66eb'
 - name: LOOP.STN
   size: 3300
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T00:00:00'
   crc: '0x845c4c43'
 - name: LOSANGEL.SUR
   size: 512
@@ -1062,7 +1069,7 @@ files:
   crc: '0x706bcf13'
 - name: LTANK.BIN
   size: 6288
-  date: '2012-01-15T15:29:40'
+  date: '1994-08-23T00:00:00'
   crc: '0x2b78ed72'
 - name: LTANK.CFT
   size: 512
@@ -1082,55 +1089,55 @@ files:
   crc: '0x411d7b74'
 - name: LUNAR0.DLG
   size: 863
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T17:12:50'
   crc: '0xff6456fa'
 - name: LUNAR1.DLG
   size: 553
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T17:12:50'
   crc: '0x6ee482af'
 - name: LUNAR1.STN
   size: 2794
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0xe6239b11'
 - name: LUNAR2.DLG
   size: 403
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T17:12:50'
   crc: '0x2fbcff97'
 - name: LUNAR3.DLG
   size: 285
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T17:12:50'
   crc: '0xb58340a5'
 - name: LUNAR4.DLG
   size: 643
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T17:12:50'
   crc: '0x099fd397'
 - name: LUNAR5.DLG
   size: 528
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T17:12:50'
   crc: '0x85ff7f51'
 - name: LUNAR7.DLG
   size: 232
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T17:12:50'
   crc: '0x5b8b3bdf'
 - name: LUNAR8.DLG
   size: 238
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T17:12:50'
   crc: '0xce6bac33'
 - name: LUNARM.MSL
   size: 1718
-  date: '2012-01-15T15:29:48'
+  date: '1994-08-23T17:12:50'
   crc: '0x6ae04fe2'
 - name: LUNARS.MSL
   size: 426
-  date: '2012-01-15T15:29:48'
+  date: '1994-08-23T17:12:50'
   crc: '0xa9b4072c'
 - name: M13.PAL
   size: 384
-  date: '2012-01-15T15:29:34'
+  date: '1994-08-23T00:00:00'
   crc: '0xba9e1932'
 - name: M13.R8
   size: 65536
-  date: '2012-01-15T15:29:34'
+  date: '1994-08-23T00:00:00'
   crc: '0x2a6fe6e4'
 - name: M13.SKY
   size: 512
@@ -1142,19 +1149,19 @@ files:
   crc: '0x9e9f84ac'
 - name: M31256.PAL
   size: 384
-  date: '2012-01-15T15:29:34'
+  date: '1994-08-23T00:00:00'
   crc: '0xeefc46ae'
 - name: M31256.R8
   size: 65536
-  date: '2012-01-15T15:29:34'
+  date: '1994-08-23T00:00:00'
   crc: '0x682ac764'
 - name: M33.PAL
   size: 384
-  date: '2012-01-15T15:29:36'
+  date: '1994-08-23T00:00:00'
   crc: '0x859cda35'
 - name: M33.R8
   size: 65536
-  date: '2012-01-15T15:29:36'
+  date: '1994-08-23T00:00:00'
   crc: '0x4adf00f9'
 - name: M33.SKY
   size: 512
@@ -1170,11 +1177,11 @@ files:
   crc: '0x060899b6'
 - name: M51.PAL
   size: 384
-  date: '2012-01-15T15:29:36'
+  date: '1994-08-23T00:00:00'
   crc: '0x3f6e0617'
 - name: M51.R8
   size: 65536
-  date: '2012-01-15T15:29:36'
+  date: '1994-08-23T00:00:00'
   crc: '0x26b4c996'
 - name: M51.SKY
   size: 512
@@ -1182,11 +1189,11 @@ files:
   crc: '0x14bc472d'
 - name: M8.PAL
   size: 384
-  date: '2012-01-15T15:29:34'
+  date: '1994-08-23T00:00:00'
   crc: '0xe070c0d5'
 - name: M8.R8
   size: 65536
-  date: '2012-01-15T15:29:34'
+  date: '1994-08-23T00:00:00'
   crc: '0x2154bce4'
 - name: M8.SKY
   size: 512
@@ -1198,31 +1205,31 @@ files:
   crc: '0xcadd5003'
 - name: MAG1.BIN
   size: 822
-  date: '2012-01-15T15:29:32'
+  date: '1994-08-23T00:00:00'
   crc: '0x30b77b0c'
 - name: MAG2.BIN
   size: 1008
-  date: '2012-01-15T15:29:32'
+  date: '1994-08-23T00:00:00'
   crc: '0x0d9a61a9'
 - name: MAG3.BIN
   size: 1746
-  date: '2012-01-15T15:29:32'
+  date: '1994-08-23T00:00:00'
   crc: '0x2f7cc6f4'
 - name: MAG4.BIN
   size: 3834
-  date: '2012-01-15T15:29:32'
+  date: '1994-08-23T00:00:00'
   crc: '0x1294bdeb'
 - name: MAG5.BIN
   size: 10560
-  date: '2012-01-15T15:29:32'
+  date: '1994-08-23T00:00:00'
   crc: '0x3e74fca8'
 - name: MAG6.BIN
   size: 31860
-  date: '2012-01-15T15:29:32'
+  date: '1994-08-23T00:00:00'
   crc: '0x294ffc8f'
 - name: MAG7.BIN
   size: 93756
-  date: '2012-01-15T15:29:32'
+  date: '1994-08-23T00:00:00'
   crc: '0x90e7ba77'
 - name: MAKEBOOT.COM
   size: 10833
@@ -1230,15 +1237,15 @@ files:
   crc: '0xf75a14b4'
 - name: MAPORBIT.STN
   size: 3132
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0x8e090e64'
 - name: MARS.NOR
   size: 65536
-  date: '2012-01-15T15:29:42'
+  date: '1994-08-23T00:00:00'
   crc: '0x22682eb4'
 - name: MARS.PAL
   size: 384
-  date: '2012-01-15T15:29:42'
+  date: '1994-08-23T00:00:00'
   crc: '0x1315e3a7'
 - name: MARS.PNT
   size: 512
@@ -1246,19 +1253,19 @@ files:
   crc: '0xac37030b'
 - name: MARS.SOU
   size: 65536
-  date: '2012-01-15T15:29:42'
+  date: '1994-08-23T00:00:00'
   crc: '0xf1a7a8bf'
 - name: MARSBASE.BIN
   size: 39664
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0x13d7e953'
 - name: MARSBASE.PAL
   size: 384
-  date: '2012-01-15T15:29:48'
+  date: '1994-08-23T00:00:00'
   crc: '0x053b476f'
 - name: MARSBASE.STN
   size: 3144
-  date: '2012-01-15T15:29:46'
+  date: '1994-08-23T00:00:00'
   crc: '0x97ab8692'
 - name: MARSBASE.SUR
   size: 512
@@ -1266,23 +1273,23 @@ files:
   crc: '0x7581bdcd'
 - name: MARSBNE.R8
   size: 65536
-  date: '2012-01-15T15:29:48'
+  date: '1994-08-23T00:00:00'
   crc: '0x66895a0c'
 - name: MARSBNW.R8
   size: 65536
-  date: '2012-01-15T15:29:48'
+  date: '1994-08-23T00:00:00'
   crc: '0x5a1a037a'
 - name: MARSBSE.R8
   size: 65536
-  date: '2012-01-15T15:29:48'
+  date: '1994-08-23T00:00:00'
   crc: '0x22c41cd7'
 - name: MARSBSW.R8
   size: 65536
-  date: '2012-01-15T15:29:48'
+  date: '1994-08-23T00:00:00'
   crc: '0x4eea6549'
 - name: MARSDOCK.STN
   size: 7416
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T00:00:00'
   crc: '0xcc4deb67'
 - name: MAUNAKEA.SUR
   size: 512
@@ -1290,11 +1297,11 @@ files:
   crc: '0x02973dd0'
 - name: MERCURY.NOR
   size: 65536
-  date: '2012-01-15T15:29:40'
+  date: '1994-08-23T00:00:00'
   crc: '0xaaef5a6c'
 - name: MERCURY.PAL
   size: 384
-  date: '2012-01-15T15:29:42'
+  date: '1994-08-23T00:00:00'
   crc: '0x26f75da4'
 - name: MERCURY.PNT
   size: 512
@@ -1302,11 +1309,11 @@ files:
   crc: '0x7459c519'
 - name: MERCURY.SOU
   size: 65536
-  date: '2012-01-15T15:29:42'
+  date: '1994-08-23T00:00:00'
   crc: '0xdb918ad2'
 - name: METAL256.R8
   size: 65536
-  date: '2012-01-15T15:29:38'
+  date: '1994-08-23T00:00:00'
   crc: '0x5237af5a'
 - name: MEXICOCI.SUR
   size: 512
@@ -1318,11 +1325,11 @@ files:
   crc: '0x42582506'
 - name: MILKYWAY.BIN
   size: 432
-  date: '2012-01-15T15:29:32'
+  date: '1994-08-23T00:00:00'
   crc: '0xd286b5ae'
 - name: MILKYWAY.STN
   size: 6010
-  date: '2012-01-15T15:29:48'
+  date: '1994-08-23T00:00:00'
   crc: '0x6f755e60'
 - name: MIMAS.MOO
   size: 512
@@ -1334,27 +1341,27 @@ files:
   crc: '0xbd89e14a'
 - name: MIRANDA.NOR
   size: 65536
-  date: '2012-01-15T15:29:46'
+  date: '1994-08-23T00:00:00'
   crc: '0x05da66b2'
 - name: MIRANDA.PAL
   size: 384
-  date: '2012-01-15T15:29:46'
+  date: '1994-08-23T00:00:00'
   crc: '0x26f75da4'
 - name: MIRANDA.SOU
   size: 65536
-  date: '2012-01-15T15:29:46'
+  date: '1994-08-23T00:00:00'
   crc: '0xf212b80d'
 - name: MMU-CORE.STN
   size: 1824
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T00:00:00'
   crc: '0x5f422b9a'
 - name: MMU-MARS.STN
   size: 3040
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T00:00:00'
   crc: '0x150a683e'
 - name: MMU.BIN
   size: 13568
-  date: '2012-01-15T15:29:44'
+  date: '1994-08-23T00:00:00'
   crc: '0x001d7ea3'
 - name: MMU.CFT
   size: 512
@@ -1366,7 +1373,7 @@ files:
   crc: '0xd847d07a'
 - name: MMU.PLN
   size: 1056
-  date: '2012-01-15T15:29:48'
+  date: '1994-08-23T00:00:00'
   crc: '0xa904f41d'
 - name: MMU1.CIN
   size: 512
@@ -1374,35 +1381,35 @@ files:
   crc: '0xe682ed0d'
 - name: MMU1.STN
   size: 2970
-  date: '2012-01-15T15:29:48'
+  date: '1994-08-23T00:00:00'
   crc: '0xaa2878e5'
 - name: MMUG.BIN
   size: 19776
-  date: '2012-01-15T15:29:44'
+  date: '1994-08-23T00:00:00'
   crc: '0x1537d8b3'
 - name: MMUS.BIN
   size: 9968
-  date: '2012-01-15T15:29:44'
+  date: '1994-08-23T00:00:00'
   crc: '0xf5586c19'
 - name: MMUXPLOR.STN
   size: 3328
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T00:00:00'
   crc: '0xefbe1cc2'
 - name: MOON.NOR
   size: 65536
-  date: '2012-01-15T15:29:42'
+  date: '1994-08-23T00:00:00'
   crc: '0x7d117ef1'
 - name: MOON.PAL
   size: 384
-  date: '2012-01-15T15:29:42'
+  date: '1994-08-23T00:00:00'
   crc: '0x26f75da4'
 - name: MOON.SOU
   size: 65536
-  date: '2012-01-15T15:29:42'
+  date: '1994-08-23T00:00:00'
   crc: '0xbd3ffcc8'
 - name: MOONDANZ.STN
   size: 2794
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T00:00:00'
   crc: '0xfe7832cd'
 - name: MOSCOW.SUR
   size: 512
@@ -1410,7 +1417,7 @@ files:
   crc: '0xa5250710'
 - name: MOZART1.MDI
   size: 6487
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0x7d52a3d5'
 - name: MOZART1.SNG
   size: 512
@@ -1426,31 +1433,31 @@ files:
   crc: '0x573d435b'
 - name: MWAYLEFT.R8
   size: 65536
-  date: '2012-01-15T15:29:44'
+  date: '1994-08-23T00:00:00'
   crc: '0x34f4eefd'
 - name: MWAYRIGT.R8
   size: 65536
-  date: '2012-01-15T15:29:44'
+  date: '1994-08-23T00:00:00'
   crc: '0x056e187a'
 - name: NAMERICA.PAL
   size: 384
-  date: '2012-01-15T15:29:34'
+  date: '1994-08-23T00:00:00'
   crc: '0x8ffb9d04'
 - name: NAMERICA.R8
   size: 65536
-  date: '2012-01-15T15:29:34'
+  date: '1994-08-23T00:00:00'
   crc: '0x46991dbc'
 - name: NEAR3D.BIN
   size: 72738
-  date: '2012-01-15T15:29:32'
+  date: '1994-08-23T00:00:00'
   crc: '0x0686f40f'
 - name: NEPTUNE.NOR
   size: 65536
-  date: '2012-01-15T15:29:46'
+  date: '1994-08-23T00:00:00'
   crc: '0x4b6bc128'
 - name: NEPTUNE.PAL
   size: 384
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0xc7c39f20'
 - name: NEPTUNE.PNT
   size: 512
@@ -1458,7 +1465,7 @@ files:
   crc: '0x3f3be75e'
 - name: NEPTUNE.SOU
   size: 65536
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0x918e3dfb'
 - name: NEREID.MOO
   size: 512
@@ -1506,11 +1513,11 @@ files:
   crc: '0x8eadbda3'
 - name: NORTH.BIN
   size: 20464
-  date: '2012-01-15T15:29:44'
+  date: '1994-08-23T00:00:00'
   crc: '0xc3bf6a22'
 - name: NORTHS.BIN
   size: 5056
-  date: '2012-01-15T15:29:40'
+  date: '1994-08-23T00:00:00'
   crc: '0xd72e5faa'
 - name: NPOLE.SUR
   size: 512
@@ -1522,23 +1529,23 @@ files:
   crc: '0x83e39037'
 - name: OBSERVE.STN
   size: 1364
-  date: '2012-01-15T15:29:46'
+  date: '1994-08-23T00:00:00'
   crc: '0x7766962b'
 - name: OMEGA.PAL
   size: 384
-  date: '2012-01-15T15:29:32'
+  date: '1994-08-23T00:00:00'
   crc: '0x478ed9ea'
 - name: OMEGA.R8
   size: 65536
-  date: '2012-01-15T15:29:34'
+  date: '1994-08-23T00:00:00'
   crc: '0xb7d174b1'
 - name: ORBITCOR.STN
   size: 1790
-  date: '2012-01-15T15:29:46'
+  date: '1994-08-23T00:00:00'
   crc: '0x6c6e4d42'
 - name: ORBITER.BIN
   size: 12096
-  date: '2012-01-15T15:29:38'
+  date: '1994-08-23T00:00:00'
   crc: '0x03cdce67'
 - name: ORBITER.CFT
   size: 512
@@ -1550,19 +1557,19 @@ files:
   crc: '0xd2169e2f'
 - name: ORBITERG.BIN
   size: 15744
-  date: '2012-01-15T15:29:40'
+  date: '1994-08-23T00:00:00'
   crc: '0x35b7c674'
 - name: ORBITERS.BIN
   size: 31112
-  date: '2012-01-15T15:29:38'
+  date: '1994-08-23T00:00:00'
   crc: '0x482ede6c'
 - name: ORION.PAL
   size: 384
-  date: '2012-01-15T15:29:34'
+  date: '1994-08-23T00:00:00'
   crc: '0xa010b504'
 - name: ORION.R8
   size: 65536
-  date: '2012-01-15T15:29:34'
+  date: '1994-08-23T00:00:00'
   crc: '0x67c55a05'
 - name: PAD39A.SUR
   size: 512
@@ -1574,11 +1581,11 @@ files:
   crc: '0xe4ed4001'
 - name: PANEL.STN
   size: 2158
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0x568fe99a'
 - name: PANEL256.R8
   size: 65536
-  date: '2012-01-15T15:29:48'
+  date: '1994-08-23T00:00:00'
   crc: '0x9526847e'
 - name: PARIS.SUR
   size: 512
@@ -1586,7 +1593,7 @@ files:
   crc: '0x9d21fc84'
 - name: PATROL5.STN
   size: 2472
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0x710432b7'
 - name: PHOBOS.MOO
   size: 512
@@ -1602,39 +1609,39 @@ files:
   crc: '0xd6a2ee65'
 - name: PIRATES.STN
   size: 3328
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0xffe3abcc'
 - name: PLANET1.NOR
   size: 65536
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T00:00:00'
   crc: '0x474182e1'
 - name: PLANET1.SOU
   size: 65536
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T00:00:00'
   crc: '0xfe96c15d'
 - name: PLEAIDES.PAL
   size: 384
-  date: '2012-01-15T15:29:36'
+  date: '1994-08-23T00:00:00'
   crc: '0x2457a62c'
 - name: PLEAIDES.R8
   size: 65536
-  date: '2012-01-15T15:29:36'
+  date: '1994-08-23T00:00:00'
   crc: '0x50049f15'
 - name: PLEIADES.STN
   size: 1842
-  date: '2012-01-15T15:29:46'
+  date: '1994-08-23T00:00:00'
   crc: '0x85f8633c'
 - name: PLUMES.R8
   size: 65536
-  date: '2012-01-15T15:29:48'
+  date: '1994-08-23T00:00:00'
   crc: '0xa8a7b076'
 - name: PLUTO.NOR
   size: 65536
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0x500658ad'
 - name: PLUTO.PAL
   size: 384
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0x862a22b6'
 - name: PLUTO.PNT
   size: 512
@@ -1642,7 +1649,7 @@ files:
   crc: '0x49068b6d'
 - name: PLUTO.SOU
   size: 65536
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0x49f90636'
 - name: POLARIS.STR
   size: 512
@@ -1662,15 +1669,15 @@ files:
   crc: '0xaa68c3d1'
 - name: REDSTAR.PAL
   size: 384
-  date: '2012-01-15T15:29:40'
+  date: '1994-08-23T00:00:00'
   crc: '0xc9809f27'
 - name: REENTRY.STN
   size: 2102
-  date: '2012-01-15T15:29:48'
+  date: '1994-08-23T00:00:00'
   crc: '0xa8d24b78'
 - name: RESCUE.STN
   size: 2980
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0x51d8e2f0'
 - name: RHEA.MOO
   size: 512
@@ -1682,7 +1689,7 @@ files:
   crc: '0x750d5627'
 - name: RINGSTAT.BIN
   size: 25472
-  date: '2012-01-15T15:29:44'
+  date: '1994-08-23T00:00:00'
   crc: '0x6c6be00e'
 - name: RINGSTAT.SIN
   size: 512
@@ -1702,19 +1709,19 @@ files:
   crc: '0x1b2569fb'
 - name: ROSETTE.PAL
   size: 384
-  date: '2012-01-15T15:29:34'
+  date: '1994-08-23T00:00:00'
   crc: '0xf4800e35'
 - name: ROSETTE.R8
   size: 65536
-  date: '2012-01-15T15:29:34'
+  date: '1994-08-23T00:00:00'
   crc: '0xf6832393'
 - name: RSTATG.BIN
   size: 25616
-  date: '2012-01-15T15:29:44'
+  date: '1994-08-23T00:00:00'
   crc: '0xe85afcdc'
 - name: RSTATLR.BIN
   size: 16000
-  date: '2012-01-15T15:29:44'
+  date: '1994-08-23T00:00:00'
   crc: '0x759dfdf8'
 - name: RW33.SUR
   size: 512
@@ -3194,11 +3201,11 @@ files:
   crc: '0x23f260dc'
 - name: SATURN.NOR
   size: 65536
-  date: '2012-01-15T15:29:46'
+  date: '1994-08-23T00:00:00'
   crc: '0xe3bdb36c'
 - name: SATURN.PAL
   size: 384
-  date: '2012-01-15T15:29:46'
+  date: '1994-08-23T00:00:00'
   crc: '0x4b6fd1a0'
 - name: SATURN.PNT
   size: 512
@@ -3206,15 +3213,15 @@ files:
   crc: '0xd1ea9997'
 - name: SATURN.RNG
   size: 12736
-  date: '2012-01-15T15:29:46'
+  date: '1994-08-23T00:00:00'
   crc: '0x2a3d2400'
 - name: SATURN.SOU
   size: 65536
-  date: '2012-01-15T15:29:46'
+  date: '1994-08-23T00:00:00'
   crc: '0x0aa416e9'
 - name: SATURN.STN
   size: 3096
-  date: '2012-01-15T15:29:48'
+  date: '1994-08-23T00:00:00'
   crc: '0x30880c03'
 - name: SEATTLE.SUR
   size: 512
@@ -3222,7 +3229,7 @@ files:
   crc: '0x0692ecb4'
 - name: SERVICE.BIN
   size: 12128
-  date: '2012-01-15T15:29:42'
+  date: '1994-08-23T00:00:00'
   crc: '0xc7999034'
 - name: SERVICE.CFT
   size: 512
@@ -3230,11 +3237,11 @@ files:
   crc: '0x93a40347'
 - name: SERVICEG.BIN
   size: 17696
-  date: '2012-01-15T15:29:42'
+  date: '1994-08-23T00:00:00'
   crc: '0xd9fc3d45'
 - name: SERVICES.BIN
   size: 8416
-  date: '2012-01-15T15:29:42'
+  date: '1994-08-23T00:00:00'
   crc: '0x6ac0cf85'
 - name: SETUP.EXE
   size: 59964
@@ -3246,31 +3253,31 @@ files:
   crc: '0xf862024f'
 - name: SHTDOCK1.STN
   size: 6200
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0xad53dc01'
 - name: SHTDOCK2.STN
   size: 6200
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T00:00:00'
   crc: '0x2891a5e9'
 - name: SHTDOCK3.STN
   size: 6200
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T00:00:00'
   crc: '0xa1db6229'
 - name: SHTLAUNC.STN
   size: 6518
-  date: '2012-01-15T15:29:48'
+  date: '1994-08-23T00:00:00'
   crc: '0x9bc35573'
 - name: SHUTCHUG.BIN
   size: 24256
-  date: '2012-01-15T15:29:40'
+  date: '1994-08-23T00:00:00'
   crc: '0xf7f94291'
 - name: SHUTCHUS.BIN
   size: 15552
-  date: '2012-01-15T15:29:40'
+  date: '1994-08-23T00:00:00'
   crc: '0x4712e996'
 - name: SHUTCHUT.BIN
   size: 17808
-  date: '2012-01-15T15:29:40'
+  date: '1994-08-23T00:00:00'
   crc: '0x2d334bf4'
 - name: SHUTCHUT.CFT
   size: 512
@@ -3278,7 +3285,7 @@ files:
   crc: '0x4d071e8d'
 - name: SHUTLAND.BIN
   size: 13648
-  date: '2012-01-15T15:29:42'
+  date: '1994-08-23T00:00:00'
   crc: '0xce12bea7'
 - name: SHUTLAND.CFT
   size: 512
@@ -3286,11 +3293,11 @@ files:
   crc: '0x9ae83582'
 - name: SHUTLANG.BIN
   size: 17952
-  date: '2012-01-15T15:29:42'
+  date: '1994-08-23T00:00:00'
   crc: '0x1414ef1c'
 - name: SHUTTANK.BIN
   size: 23344
-  date: '2012-01-15T15:29:42'
+  date: '1994-08-23T00:00:00'
   crc: '0xb9a6a7e5'
 - name: SHUTTANK.CFT
   size: 512
@@ -3298,7 +3305,7 @@ files:
   crc: '0xafee4e13'
 - name: SHUTTLE.BIN
   size: 24512
-  date: '2012-01-15T15:29:38'
+  date: '1994-08-23T00:00:00'
   crc: '0x1cc5165b'
 - name: SHUTTLE.CFT
   size: 512
@@ -3310,15 +3317,15 @@ files:
   crc: '0xccc1c958'
 - name: SHUTTLE0.DLG
   size: 668
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T17:12:50'
   crc: '0xff2bd478'
 - name: SHUTTLE1.DLG
   size: 275
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T17:12:50'
   crc: '0x058bd189'
 - name: SHUTTLE2.DLG
   size: 413
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T17:12:50'
   crc: '0x7d901a39'
 - name: SHUTTLE3.CFT
   size: 512
@@ -3326,35 +3333,35 @@ files:
   crc: '0x050cf96b'
 - name: SHUTTLE4.DLG
   size: 226
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T17:12:50'
   crc: '0x5aad2910'
 - name: SHUTTLE5.DLG
   size: 460
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T17:12:50'
   crc: '0x2ffbd44e'
 - name: SHUTTLE7.DLG
   size: 254
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T17:12:50'
   crc: '0xcfaecba2'
 - name: SHUTTLE8.DLG
   size: 157
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T17:12:50'
   crc: '0x2fc9d245'
 - name: SHUTTLEG.BIN
   size: 24736
-  date: '2012-01-15T15:29:38'
+  date: '1994-08-23T00:00:00'
   crc: '0x0a84dda5'
 - name: SHUTTLEM.MSL
   size: 1954
-  date: '2012-01-15T15:29:48'
+  date: '1994-08-23T17:12:50'
   crc: '0x868b5f5a'
 - name: SHUTTLES.BIN
   size: 16032
-  date: '2012-01-15T15:29:38'
+  date: '1994-08-23T00:00:00'
   crc: '0x3ecb2d39'
 - name: SHUTTLES.MSL
   size: 1030
-  date: '2012-01-15T15:29:48'
+  date: '1994-08-23T17:12:50'
   crc: '0xe298a55d'
 - name: SIDINGSP.SUR
   size: 512
@@ -3366,11 +3373,11 @@ files:
   crc: '0x33de7b97'
 - name: SMC.PAL
   size: 384
-  date: '2012-01-15T15:29:36'
+  date: '1994-08-23T00:00:00'
   crc: '0xa3242187'
 - name: SMC.R8
   size: 65536
-  date: '2012-01-15T15:29:36'
+  date: '1994-08-23T00:00:00'
   crc: '0x840474c5'
 - name: SMC.SKY
   size: 512
@@ -3382,19 +3389,19 @@ files:
   crc: '0xb60541a6'
 - name: SOUTH.BIN
   size: 20464
-  date: '2012-01-15T15:29:44'
+  date: '1994-08-23T00:00:00'
   crc: '0xb5c810ee'
 - name: SOUTHS.BIN
   size: 5056
-  date: '2012-01-15T15:29:40'
+  date: '1994-08-23T00:00:00'
   crc: '0xa72b0eb2'
 - name: SPACESIM.ADV
   size: 3990
-  date: '2012-01-15T15:29:30'
+  date: '1994-08-23T00:00:00'
   crc: '0x43106dae'
 - name: SPACESIM.EXE
   size: 157625
-  date: '2012-01-15T15:29:30'
+  date: '1994-08-23T00:00:00'
   crc: '0xd44c5920'
 - name: SPACESIM.INI
   size: 186
@@ -3402,11 +3409,11 @@ files:
   crc: '0xa0ed9416'
 - name: SPHERE.BIN
   size: 6656
-  date: '2012-01-15T15:29:44'
+  date: '1994-08-23T00:00:00'
   crc: '0xc3080433'
 - name: SPHERES.BIN
   size: 1616
-  date: '2012-01-15T15:29:44'
+  date: '1994-08-23T00:00:00'
   crc: '0x8a47a091'
 - name: SPICA.STR
   size: 512
@@ -3418,7 +3425,7 @@ files:
   crc: '0x4624cb30'
 - name: SPRITEMG.BIN
   size: 3952
-  date: '2012-01-15T15:29:34'
+  date: '1994-08-23T00:00:00'
   crc: '0xa459a467'
 - name: SRB.CFT
   size: 512
@@ -3430,7 +3437,7 @@ files:
   crc: '0x58e46a9f'
 - name: SRBLEFT.BIN
   size: 2592
-  date: '2012-01-15T15:29:40'
+  date: '1994-08-23T00:00:00'
   crc: '0x4f6ab2b6'
 - name: SRBLEFT.CFT
   size: 512
@@ -3442,7 +3449,7 @@ files:
   crc: '0xceadf6b9'
 - name: SRBRIGHT.BIN
   size: 2576
-  date: '2012-01-15T15:29:40'
+  date: '1994-08-23T00:00:00'
   crc: '0xb6b1835d'
 - name: SRBRIGHT.CFT
   size: 512
@@ -3454,27 +3461,27 @@ files:
   crc: '0x87a15955'
 - name: SS1.EXE
   size: 22711
-  date: '2012-01-15T15:29:30'
+  date: '1994-08-23T00:00:00'
   crc: '0xb71161ce'
 - name: STARTOUR.STN
   size: 1808
-  date: '2012-01-15T15:29:46'
+  date: '1994-08-23T00:00:00'
   crc: '0xbf75bc94'
 - name: STAT1G.BIN
   size: 19232
-  date: '2012-01-15T15:29:44'
+  date: '1994-08-23T00:00:00'
   crc: '0x5c7dcf20'
 - name: STAT1S.BIN
   size: 7184
-  date: '2012-01-15T15:29:44'
+  date: '1994-08-23T00:00:00'
   crc: '0xf0ac270e'
 - name: STATDOCK.STN
   size: 2888
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T00:00:00'
   crc: '0x1696e717'
 - name: STATION1.BIN
   size: 13120
-  date: '2012-01-15T15:29:44'
+  date: '1994-08-23T00:00:00'
   crc: '0x99a02a76'
 - name: STATION1.SIN
   size: 512
@@ -3490,7 +3497,7 @@ files:
   crc: '0xf635ca8e'
 - name: STATION2.BIN
   size: 5360
-  date: '2012-01-15T15:29:42'
+  date: '1994-08-23T00:00:00'
   crc: '0xc666e5b5'
 - name: STATION2.SIN
   size: 512
@@ -3506,43 +3513,43 @@ files:
   crc: '0x388910b4'
 - name: STLANDLR.BIN
   size: 11408
-  date: '2012-01-15T15:29:42'
+  date: '1994-08-23T00:00:00'
   crc: '0x6c4763a9'
 - name: SUN.NOR
   size: 65536
-  date: '2012-01-15T15:29:40'
+  date: '1994-08-23T00:00:00'
   crc: '0x15785d97'
 - name: SUN.PAL
   size: 384
-  date: '2012-01-15T15:29:40'
+  date: '1994-08-23T00:00:00'
   crc: '0x3ad4bf47'
 - name: SUN.SOU
   size: 65536
-  date: '2012-01-15T15:29:40'
+  date: '1994-08-23T00:00:00'
   crc: '0xa912cf89'
 - name: SUNNORTH.BIN
   size: 9360
-  date: '2012-01-15T15:29:40'
+  date: '1994-08-23T00:00:00'
   crc: '0x3f1583d8'
 - name: SUNSOUTH.BIN
   size: 9360
-  date: '2012-01-15T15:29:40'
+  date: '1994-08-23T00:00:00'
   crc: '0xfd644071'
 - name: SVGA.DRV
   size: 17408
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0x63ce8006'
 - name: SVGA.PBL
   size: 6444
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0x317d0e88'
 - name: SVGA8.DRV
   size: 17408
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0x69b31c38'
 - name: SVGA8.PBL
   size: 10188
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0xad97fe04'
 - name: SWIFTTUT.CMT
   size: 512
@@ -3562,15 +3569,15 @@ files:
   crc: '0xbd98735b'
 - name: TETHYS.NOR
   size: 65536
-  date: '2012-01-15T15:29:46'
+  date: '1994-08-23T00:00:00'
   crc: '0x05907ae8'
 - name: TETHYS.PAL
   size: 384
-  date: '2012-01-15T15:29:46'
+  date: '1994-08-23T00:00:00'
   crc: '0x26f75da4'
 - name: TETHYS.SOU
   size: 65536
-  date: '2012-01-15T15:29:46'
+  date: '1994-08-23T00:00:00'
   crc: '0xf91a9e79'
 - name: TIERRAD.SUR
   size: 512
@@ -3586,19 +3593,19 @@ files:
   crc: '0xea778da6'
 - name: TITLE320.VDA
   size: 219628
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T00:00:00'
   crc: '0xfaba5982'
 - name: TITLE320.VDI
   size: 524
-  date: '2012-01-15T15:32:54'
+  date: '1994-08-23T00:00:00'
   crc: '0x8776583c'
 - name: TO-CORE!.STN
   size: 2828
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T00:00:00'
   crc: '0x49cd3adc'
 - name: TO-MBASE.STN
   size: 3066
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T00:00:00'
   crc: '0xb33c293d'
 - name: TOKYO.SUR
   size: 512
@@ -3606,7 +3613,7 @@ files:
   crc: '0x634bfb4f'
 - name: TOVENUS.STN
   size: 2758
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0xd23cc49b'
 - name: TRITON.MOO
   size: 512
@@ -3614,23 +3621,23 @@ files:
   crc: '0x667b2dc9'
 - name: TRITON.NOR
   size: 65536
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0xbe93da3d'
 - name: TRITON.PAL
   size: 384
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0x649deee5'
 - name: TRITON.SOU
   size: 65536
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0xb2a1483b'
 - name: TUCANAE.R8
   size: 65536
-  date: '2012-01-15T15:29:34'
+  date: '1994-08-23T00:00:00'
   crc: '0x47a7f611'
 - name: TUCHDOWN.STN
   size: 6356
-  date: '2012-01-15T15:29:48'
+  date: '1994-08-23T00:00:00'
   crc: '0x50195cc8'
 - name: UMBRIEL.MOO
   size: 512
@@ -3638,7 +3645,7 @@ files:
   crc: '0x96eaf19b'
 - name: URANUS.PAL
   size: 384
-  date: '2012-01-15T15:29:46'
+  date: '1994-08-23T00:00:00'
   crc: '0xe04c5f02'
 - name: URANUS.PNT
   size: 512
@@ -3646,7 +3653,7 @@ files:
   crc: '0xa421db68'
 - name: URANUS.RNG
   size: 2752
-  date: '2012-01-15T15:29:46'
+  date: '1994-08-23T00:00:00'
   crc: '0x94423c64'
 - name: VAB.SUR
   size: 512
@@ -3654,11 +3661,11 @@ files:
   crc: '0xd7b22ee8'
 - name: VALLES-1.STN
   size: 3170
-  date: '2012-01-15T15:29:52'
+  date: '1994-08-23T00:00:00'
   crc: '0x3dbc65f9'
 - name: VARIA18O.MDI
   size: 5783
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0xe9421c62'
 - name: VARIA18O.SNG
   size: 512
@@ -3670,19 +3677,19 @@ files:
   crc: '0x5bb7a9e3'
 - name: VEIL.PAL
   size: 384
-  date: '2012-01-15T15:29:34'
+  date: '1994-08-23T00:00:00'
   crc: '0xff4ade4a'
 - name: VEIL.R8
   size: 65536
-  date: '2012-01-15T15:29:34'
+  date: '1994-08-23T00:00:00'
   crc: '0x2634b130'
 - name: VENUS.NOR
   size: 65536
-  date: '2012-01-15T15:29:42'
+  date: '1994-08-23T00:00:00'
   crc: '0xa73125e6'
 - name: VENUS.PAL
   size: 384
-  date: '2012-01-15T15:29:42'
+  date: '1994-08-23T00:00:00'
   crc: '0xb5bc11b1'
 - name: VENUS.PNT
   size: 512
@@ -3690,7 +3697,7 @@ files:
   crc: '0xfa12ac30'
 - name: VENUS.SOU
   size: 65536
-  date: '2012-01-15T15:29:42'
+  date: '1994-08-23T00:00:00'
   crc: '0xa9a69a3e'
 - name: VESTA.OID
   size: 512
@@ -3698,7 +3705,7 @@ files:
   crc: '0x8902ac94'
 - name: VGA.PBL
   size: 7696
-  date: '2012-01-15T15:29:50'
+  date: '1994-08-23T00:00:00'
   crc: '0xb6039c15'
 - name: WEST.CMT
   size: 512
@@ -3706,5 +3713,5 @@ files:
   crc: '0x64f6d7ac'
 - name: ZAN256.R8
   size: 65536
-  date: '2012-01-15T15:29:38'
+  date: '1994-08-23T00:00:00'
   crc: '0x1c4541f9'

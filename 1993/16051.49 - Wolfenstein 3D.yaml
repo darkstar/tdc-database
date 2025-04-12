@@ -1,0 +1,52 @@
+filename: Wolfenstein 3D - Episode One v1.4 r930101 (Installer) [SW] (1993)(Apogee Software, Ltd.) [Action].zip
+tdc_id: '16051.49'
+title:
+  screen: Wolfenstein 3D
+  qualifier: '- Episode One'
+publisher: Apogee Software, Ltd.
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2025-02-15T12:44:24'
+  last_modified: '2025-02-15T12:44:24'
+version: '1.4'
+release: '930101'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.BAT
+references:
+  mobygames: https://www.mobygames.com/game/306/wolfenstein-3d/
+files:
+- name: CATALOG.EXE
+  size: 24748
+  date: '1993-01-01T00:01:00'
+  crc: '0xf96fb0d1'
+- name: DEICE.EXE
+  size: 16904
+  date: '1993-01-01T00:01:00'
+  crc: '0x5b378bc8'
+- name: FILE_ID.DIZ
+  size: 350
+  date: '1993-01-01T00:01:00'
+  crc: '0x961804d1'
+- name: INSTALL.BAT
+  size: 79
+  date: '1993-01-01T00:01:00'
+  crc: '0x81cbf17c'
+- name: VENDOR.DOC
+  size: 3936
+  date: '1993-01-01T00:01:00'
+  crc: '0xa5da3705'
+- name: WOLF1.1
+  size: 681636
+  date: '1993-01-01T00:01:00'
+  crc: '0x1725822e'
+- name: WOLF1.DAT
+  size: 276
+  date: '1993-01-01T00:01:00'
+  crc: '0x75b8c669'

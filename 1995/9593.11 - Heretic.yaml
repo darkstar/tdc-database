@@ -1,0 +1,63 @@
+filename: Heretic v1.2 (Installer) [SWR] (1995)(id Software, Inc.) [Action].zip
+tdc_id: '9593.11'
+parent_id: '9593.10'
+title:
+  box: Heretic
+publisher: id Software, Inc.
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2025-02-18T18:39:46'
+  last_modified: '2025-02-18T18:39:46'
+version: '1.2'
+type: zip
+tags:
+- SharewareRegistered
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.BAT
+references:
+  mobygames: https://www.mobygames.com/game/21987/heretic/
+files:
+- name: DEICE.EXE
+  size: 17303
+  date: '1995-06-28T01:02:58'
+  crc: '0xaad4552c'
+- name: DISK 1
+  size: 0
+  date: '1995-07-07T01:02:02'
+- name: DISK 2
+  size: 0
+  date: '1995-06-28T01:03:04'
+- name: DISK 3
+  size: 0
+  date: '1995-07-07T01:02:02'
+- name: DISK 4
+  size: 0
+  date: '1995-07-07T01:02:02'
+- name: HTIC1_2R.1
+  size: 1439232
+  date: '1995-06-28T01:02:58'
+  crc: '0xffae8e70'
+- name: HTIC1_2R.2
+  size: 1457664
+  date: '1995-06-28T01:02:58'
+  crc: '0xa61d06f7'
+- name: HTIC1_2R.3
+  size: 1457664
+  date: '1995-06-28T01:02:58'
+  crc: '0x0e8dfc1e'
+- name: HTIC1_2R.4
+  size: 1440612
+  date: '1995-06-28T01:02:58'
+  crc: '0xe409d5ac'
+- name: HTIC1_2R.DAT
+  size: 290
+  date: '1995-06-28T01:02:58'
+  crc: '0xdd18a4f0'
+- name: INSTALL.BAT
+  size: 182
+  date: '1995-06-28T01:02:58'
+  crc: '0x7fc7064e'

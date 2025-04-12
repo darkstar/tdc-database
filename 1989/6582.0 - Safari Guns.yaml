@@ -1,18 +1,23 @@
-filename: Safari Guns (1989)(Infogrames Europe SA) [Action].zip
+filename: Safari Guns (En)(De) (1989)(Infogrames Europe SA) [Action].zip
 tdc_id: '6582.0'
+parent_id: '6582.1'
 title:
   box: Safari Guns
 publisher: Infogrames Europe SA
 year: '1989'
 genre: Action
-language: English
+language:
+- English
+- German
 date:
   added: '2019-03-01T18:28:50'
-  last_modified: '2019-03-01T18:28:50'
+  last_modified: '2025-02-03T08:48:47'
 type: zip
+media: 720K
 commands:
   play: SAFARI.COM
 references:
+  mobygames: https://www.mobygames.com/game/14723/safari-guns/
   dosid: DOS04388
   exodos: Safari Guns (1989).zip
 files:

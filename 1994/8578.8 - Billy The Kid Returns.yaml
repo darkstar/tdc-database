@@ -1,23 +1,24 @@
-filename: Billy The Kid Returns v1.20 (1994)(Universal Software Interactive) [Action].zip
+filename: Billy The Kid Returns v1.20 [SWR] (1994)(Universal Software Interactive, Alive Software) [Action].zip
 tdc_id: '8578.8'
 title:
-  box: Billy The Kid Returns
-publisher: Universal Software Interactive
+  screen: Billy The Kid Returns
+publisher: Universal Software Interactive, Alive Software
 year: '1994'
 genre: Action
 language: English
 date:
   added: '2022-12-19T17:02:16'
-  last_modified: '2022-12-19T17:02:16'
+  last_modified: '2025-03-31T08:52:30'
 version: '1.20'
 type: zip
+tags:
+- SharewareRegistered
+media: Download
 commands:
   play: KID.EXE
+references:
+  mobygames: https://www.mobygames.com/game/39650/billy-the-kid-returns/
 files:
-- name: KID.CFG
-  size: 16
-  date: '1995-05-09T07:59:24'
-  crc: '0x9f7d5d0b'
 - name: KID.DOC
   size: 7472
   date: '1994-12-01T01:20:00'
@@ -86,23 +87,3 @@ files:
   size: 14499
   date: '1994-12-01T01:20:00'
   crc: '0xb8683256'
-- name: XXCDPLAY.BAT
-  size: 353
-  date: '1995-06-29T08:08:12'
-  crc: '0xbe08c36b'
-- name: XXPLAY.BAT
-  size: 7
-  date: '1995-05-09T07:58:38'
-  crc: '0x1c2caeb5'
-- name: XXREMOVE.BAT
-  size: 395
-  date: '1995-06-29T08:08:12'
-  crc: '0x53c17e44'
-- name: XXSETUP.BAT
-  size: 7
-  date: '1995-05-09T07:58:38'
-  crc: '0x1c2caeb5'
-- name: XXUSA.BAT
-  size: 503
-  date: '1995-05-06T15:39:40'
-  crc: '0x09967145'

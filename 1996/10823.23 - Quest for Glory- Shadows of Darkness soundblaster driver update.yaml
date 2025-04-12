@@ -1,0 +1,33 @@
+filename: Quest for Glory- Shadows of Darkness soundblaster driver update (1996)(Sierra On-Line, Inc.) [Action, Adventure, Role-Playing (RPG), Addon].zip
+tdc_id: '10823.23'
+title:
+  screen: 'Quest for Glory: Shadows of Darkness soundblaster driver update'
+publisher: Sierra On-Line, Inc.
+year: '1996'
+genre:
+- Action
+- Adventure
+- Role-Playing (RPG)
+- Addon
+language: English
+date:
+  added: '2025-03-24T09:09:32'
+  last_modified: '2025-03-24T09:09:32'
+type: zip
+media: Download
+patch: true
+references:
+  mobygames: https://www.mobygames.com/game/119/quest-for-glory-shadows-of-darkness/
+files:
+- name: DACBLAST.DRV
+  size: 4717
+  date: '1994-02-04T08:35:00'
+  crc: '0xa577da3b'
+- name: README.BAT
+  size: 16
+  date: '1994-02-11T17:04:08'
+  crc: '0x2f4659ed'
+- name: README.TXT
+  size: 4299
+  date: '1996-01-08T14:58:38'
+  crc: '0x20d3b4e5'

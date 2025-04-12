@@ -1,4 +1,4 @@
-filename: Infestation (1990)(Psygnosis Limited) [Action, Simulation, Strategy].zip
+filename: Infestation (En)(De)(Fr) (1990)(Psygnosis Limited) [Action, Simulation, Strategy].zip
 tdc_id: '11485.0'
 title:
   box: Infestation
@@ -8,14 +8,18 @@ genre:
 - Action
 - Simulation
 - Strategy
-language: English
+language:
+- English
+- French
+- German
 date:
   added: '2019-03-01T18:32:54'
-  last_modified: '2019-03-01T18:32:54'
+  last_modified: '2025-02-10T15:48:52'
 type: zip
 commands:
   play: INFEST.COM
 references:
+  mobygames: https://www.mobygames.com/game/17556/infestation/
   dosid: DOS02733
   exodos: Infestation (1990).zip
 files:

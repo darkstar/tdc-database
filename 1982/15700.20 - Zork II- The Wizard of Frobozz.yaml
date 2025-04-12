@@ -1,0 +1,32 @@
+filename: Zork II- The Wizard of Frobozz r22-A [DC] (1982)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+tdc_id: '15700.20'
+parent_id: '15700.19'
+title:
+  box: 'Zork II: The Wizard of Frobozz'
+publisher: Infocom, Inc.
+year: '1982'
+genre:
+- Adventure
+- Interactive Fiction
+language: English
+date:
+  added: '2025-02-16T15:43:18'
+  last_modified: '2025-02-16T15:43:18'
+release: 22-A
+type: zip
+tags:
+- DOSConversion
+media: 360K
+commands:
+  play: ZORK2.COM
+references:
+  mobygames: https://www.mobygames.com/game/52/zork-ii-the-wizard-of-frobozz/
+files:
+- name: ZORK2.COM
+  size: 12928
+  date: '1980-01-01T00:00:00'
+  crc: '0x0f46d3d6'
+- name: ZORK2.DAT
+  size: 112832
+  date: '1983-03-31T15:39:50'
+  crc: '0xefad30f5'

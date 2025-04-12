@@ -1,7 +1,8 @@
-filename: Elysium (EGA) (De) (1992)(Magic Bytes) [Strategy].zip
+filename: Elysium v1.0 (EGA) (De) (1992)(Magic Bytes) [Strategy].zip
 tdc_id: '13440.0'
+parent_id: '13440.5'
 title:
-  screen: Elysium
+  box: Elysium
   qualifier: EGA
 publisher: Magic Bytes
 year: '1992'
@@ -9,10 +10,14 @@ genre: Strategy
 language: German
 date:
   added: '2019-03-01T18:44:38'
-  last_modified: '2019-03-01T18:44:38'
+  last_modified: '2025-01-19T12:17:00'
+version: '1.0'
 type: zip
+media: 1.44M
 commands:
   play: RUN.EXE
+references:
+  mobygames: https://www.mobygames.com/game/27504/elysium/
 files:
 - name: DES.CFG
   size: 10

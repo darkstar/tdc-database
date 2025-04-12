@@ -27,18 +27,14 @@ files:
   size: 2312
   date: '1989-01-09T16:20:36'
   crc: '0xbda754f6'
-- name: BILL.BIN
-  size: 65982
-  date: '1989-02-08T12:18:58'
-  crc: '0xad047e73'
-- name: BILL.COM
-  size: 1051
-  date: '1989-01-17T09:29:00'
-  crc: '0x821a7814'
 - name: BILL.EXE
   size: 65982
   date: '1989-02-08T12:18:58'
   crc: '0x3bf8595b'
+- name: BILL.EX_
+  size: 65982
+  date: '1989-02-08T12:18:58'
+  crc: '0xeb50c50d'
 - name: BILL.SND
   size: 732
   date: '1989-01-24T18:04:52'
@@ -65,7 +61,7 @@ files:
   crc: '0xba09bbea'
 - name: EGA\
   size: 0
-  date: '2010-06-13T17:00:18'
+  date: '1989-09-20T14:34:24'
 - name: EGA\AUTEUR.MAT
   size: 8007
   date: '1989-01-13T15:50:02'
@@ -134,6 +130,10 @@ files:
   size: 2842
   date: '1989-01-09T16:36:50'
   crc: '0x5ee14323'
+- name: ERE.COM
+  size: 1056
+  date: '1989-01-17T09:29:00'
+  crc: '0x55c6aa11'
 - name: FONTE.MAT
   size: 530
   date: '1989-01-12T15:32:34'
@@ -170,7 +170,3 @@ files:
   size: 2312
   date: '1989-01-09T16:21:12'
   crc: '0xbc477d00'
-- name: RAMBO.BBT
-  size: 53
-  date: '1980-01-01T00:06:46'
-  crc: '0x19af770e'

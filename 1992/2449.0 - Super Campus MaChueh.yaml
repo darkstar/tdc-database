@@ -15,8 +15,14 @@ type: zip
 files:
 - name: INSTALL.BAT
   size: 260
-  date: '1992-05-28T19:21:56'
+  date: '1992-06-27T12:21:50'
   crc: '0xf257c4ea'
+- name: 'SCMC #1'
+  size: 0
+  date: '1992-06-10T15:04:40'
+- name: 'SCMC #2'
+  size: 0
+  date: '1992-06-10T15:05:54'
 - name: SCMC.000
   size: 629286
   date: '1992-06-27T12:21:50'
@@ -27,12 +33,16 @@ files:
   crc: '0x9462b4c5'
 - name: SCMC.CFG
   size: 60
-  date: '2017-08-22T20:38:22'
-  crc: '0x45fd0af6'
+  date: '1992-06-27T12:21:50'
+  crc: '0x9bc5f6ec'
 - name: SCMC.EXE
   size: 129660
   date: '1992-08-18T16:02:34'
   crc: '0x5cfec278'
+- name: SCMC.EX_
+  size: 129660
+  date: '1992-06-27T12:21:50'
+  crc: '0x0c9442ef'
 - name: SCMC.MID
   size: 64138
   date: '1992-06-27T12:21:50'

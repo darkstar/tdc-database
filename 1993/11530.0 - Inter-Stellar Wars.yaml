@@ -1,8 +1,8 @@
-filename: Inter-Stellar Wars (1993)(H-M Software) [Simulation, Strategy].zip
+filename: Inter-Stellar Wars [SW] (1993)(Chuck Homic, Chris McEvoy, H-M Software) [Simulation, Strategy].zip
 tdc_id: '11530.0'
 title:
   screen: Inter-Stellar Wars
-publisher: H-M Software
+publisher: Chuck Homic, Chris McEvoy, H-M Software
 year: '1993'
 genre:
 - Simulation
@@ -10,11 +10,13 @@ genre:
 language: English
 date:
   added: '2019-03-01T19:10:22'
-  last_modified: '2019-03-01T19:10:22'
+  last_modified: '2025-03-11T09:47:04'
 type: zip
-references:
-  dosid: DOS02823
-  exodos: Inter-Stellar Wars (1993).zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: ISW.EXE
 files:
 - name: CHARSET.ISW
   size: 6481

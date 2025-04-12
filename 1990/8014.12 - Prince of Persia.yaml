@@ -1,5 +1,6 @@
-filename: Prince of Persia [tr It] (1990)(Brøderbund Software, Inc.) [Adventure, Action].zip
+filename: Prince of Persia v1.0 [tr It] (1990)(Brøderbund Software, Inc.) [Adventure, Action].zip
 tdc_id: '8014.12'
+parent_id: '8014.6'
 title:
   box: Prince of Persia
 publisher: Brøderbund Software, Inc.
@@ -10,10 +11,16 @@ genre:
 language: Italian
 date:
   added: '2020-06-08T08:48:42'
-  last_modified: '2020-06-08T08:48:42'
+  last_modified: '2025-02-18T17:16:19'
+version: '1.0'
 type: zip
 tags:
 - Translated
+media: Download
+commands:
+  play: PRINCE.EXE
+references:
+  mobygames: https://www.mobygames.com/game/196/prince-of-persia/
 files:
 - name: CDUNGEON.DAT
   size: 9407

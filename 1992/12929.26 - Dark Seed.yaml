@@ -1,0 +1,84 @@
+filename: Dark Seed v1.2 (Installer) (De) (1992)(Cyberdreams, Inc.) [Adventure][!].zip
+tdc_id: '12929.26'
+parent_id: '12929.25'
+title:
+  box: Dark Seed
+publisher: Cyberdreams, Inc.
+year: '1992'
+genre: Adventure
+language: German
+date:
+  added: '2025-04-02T08:16:34'
+  last_modified: '2025-04-02T08:16:34'
+version: '1.2'
+type: zip
+tags:
+- KnownGood
+media:
+- 720K
+- 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/302/dark-seed/
+files:
+- name: DARKSEED.001
+  size: 620456
+  date: '1992-06-12T11:01:12'
+  crc: '0x8cca5918'
+- name: DARKSEED.002
+  size: 1457152
+  date: '1992-06-12T10:47:28'
+  crc: '0xc9e46d8e'
+- name: DARKSEED.003
+  size: 1457152
+  date: '1992-06-12T10:50:14'
+  crc: '0x0958690a'
+- name: DARKSEED.004
+  size: 1457152
+  date: '1992-06-12T10:52:08'
+  crc: '0x746af6b2'
+- name: DARKSEED.005
+  size: 1298714
+  date: '1992-06-12T11:00:34'
+  crc: '0xea943147'
+- name: DARKSEED._1
+  size: 0
+  date: '1992-06-12T10:44:40'
+- name: DARKSEED._2
+  size: 0
+  date: '1992-06-12T10:46:04'
+- name: DARKSEED._3
+  size: 0
+  date: '1992-06-12T10:48:40'
+- name: DARKSEED._4
+  size: 0
+  date: '1992-06-12T10:50:36'
+- name: DARKSEED._5
+  size: 0
+  date: '1992-06-12T10:59:14'
+- name: DISK.ID
+  size: 33
+  date: '1992-06-12T10:44:38'
+  crc: '0x4f771037'
+- name: DISK2.ID
+  size: 33
+  date: '1992-06-12T10:46:00'
+  crc: '0x4d31ae6e'
+- name: DISK3.ID
+  size: 33
+  date: '1992-06-12T10:48:38'
+  crc: '0x4cf3c459'
+- name: DISK4.ID
+  size: 33
+  date: '1992-06-12T10:50:34'
+  crc: '0x49bcd2dc'
+- name: DISK5.ID
+  size: 33
+  date: '1992-06-12T10:59:12'
+  crc: '0x487eb8eb'
+- name: INSTALL.EXE
+  size: 107287
+  date: '1992-04-28T15:32:40'
+  crc: '0x7064a514'

@@ -1,4 +1,4 @@
-filename: Monopoly Deluxe (1992)(Virgin Games, Inc.) [Strategy, Board].zip
+filename: Monopoly Deluxe v1.0 (1992)(Virgin Games, Inc.) [Strategy, Board].zip
 tdc_id: '5603.0'
 title:
   box: Monopoly Deluxe
@@ -10,11 +10,14 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:49:34'
-  last_modified: '2019-03-01T18:49:34'
+  last_modified: '2025-04-02T15:38:42'
+version: '1.0'
 type: zip
+commands:
+  play: MP.EXE
+  setup: SETUP.EXE
 references:
-  dosid: DOS03610
-  exodos: Monopoly Deluxe (1992).zip
+  mobygames: https://www.mobygames.com/game/2032/monopoly-deluxe/
 files:
 - name: ADLIB.ADV
   size: 14693

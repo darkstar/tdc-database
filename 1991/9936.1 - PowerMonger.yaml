@@ -1,18 +1,21 @@
-filename: PowerMonger (demo) (1991)(Electronic Arts, Inc.) [Strategy].zip
+filename: PowerMonger (demo) (1991)(Bullfrog Productions Ltd., Electronic Arts, Inc.) [Strategy].zip
 tdc_id: '9936.1'
 title:
   screen: PowerMonger
-publisher: Electronic Arts, Inc.
+publisher: Bullfrog Productions Ltd., Electronic Arts, Inc.
 year: '1991'
 genre: Strategy
 language: English
 date:
   added: '2020-02-04T21:33:00'
-  last_modified: '2020-02-04T21:33:00'
+  last_modified: '2025-01-26T16:46:32'
 type: zip
+media: Download
 demo: true
 commands:
   play: POWER.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1993/powermonger/
 files:
 - name: 1STMAP.DAT
   size: 528

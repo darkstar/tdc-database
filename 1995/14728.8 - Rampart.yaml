@@ -1,0 +1,35 @@
+filename: Rampart (Installer) (1995)(Big Games, Electronic Arts, Inc.) [Action, Strategy][!].zip
+tdc_id: '14728.8'
+parent_id: '14728.7'
+title:
+  box: Rampart
+publisher: Big Games, Electronic Arts, Inc.
+year: '1995'
+genre:
+- Action
+- Strategy
+language: English
+date:
+  added: '2025-03-16T12:48:01'
+  last_modified: '2025-03-16T12:48:01'
+type: zip
+tags:
+- KnownGood
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/3345/rampart/
+files:
+- name: INSTALL.EXE
+  size: 24205
+  date: '1994-07-06T13:00:28'
+  crc: '0xf8225505'
+- name: RAMPART
+  size: 0
+  date: '1994-07-06T13:04:14'
+- name: RAMPART.RNC
+  size: 947523
+  date: '1994-07-06T12:10:42'
+  crc: '0x59d22076'

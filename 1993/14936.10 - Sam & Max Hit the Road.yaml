@@ -1,17 +1,23 @@
-filename: Sam & Max Hit the Road v1.3 (De) (1993)(Softgold Computerspiele GmbH) [Adventure].zip
+filename: Sam & Max Hit the Road v1.3 (De) (1993)(Softgold Computerspiele GmbH, LucasArts Entertainment Company LLC) [Adventure].zip
 tdc_id: '14936.10'
 parent_id: '14936.12'
 title:
   box: Sam & Max Hit the Road
-publisher: Softgold Computerspiele GmbH
+publisher: Softgold Computerspiele GmbH, LucasArts Entertainment Company LLC
 year: '1993'
 genre: Adventure
 language: German
 date:
   added: '2019-03-01T19:18:22'
-  last_modified: '2019-03-01T19:18:22'
+  last_modified: '2025-03-14T17:58:28'
 version: '1.3'
 type: zip
+media: 1.44M
+commands:
+  play: SAMNMAX.EXE
+  setup: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/745/sam-max-hit-the-road/
 files:
 - name: FM2.MDR
   size: 6592

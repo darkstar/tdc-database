@@ -1,0 +1,44 @@
+filename: Plan 9 From Outer Space (Installer) (De) [a1] (1992)(Gremlin Graphics Software Ltd., Konami Corporation) [Adventure].zip
+tdc_id: '10330.6'
+title:
+  box: Plan 9 From Outer Space
+publisher: Gremlin Graphics Software Ltd., Konami Corporation
+year: '1992'
+genre: Adventure
+language: German
+date:
+  added: '2025-03-01T19:49:33'
+  last_modified: '2025-03-01T19:49:33'
+type: zip
+tags:
+- Alternate: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1293/plan-9-from-outer-space/
+files:
+- name: INSTALL.EXE
+  size: 21242
+  date: '1992-06-01T23:07:10'
+  crc: '0x56b0d99a'
+- name: OPENZIP.EXE
+  size: 9760
+  date: '1990-07-31T23:42:54'
+  crc: '0xeb60d67a'
+- name: P9AR0001.ZIP
+  size: 728064
+  date: '1992-06-02T08:44:20'
+  crc: '0x05118689'
+- name: P9AR0002.ZIP
+  size: 730112
+  date: '1992-06-02T08:46:04'
+  crc: '0x058116de'
+- name: P9AR0003.ZIP
+  size: 587715
+  date: '1992-06-02T08:47:30'
+  crc: '0x7d5a9eb8'
+- name: P9ARC.ZIP
+  size: 698368
+  date: '1992-06-02T08:42:30'
+  crc: '0xd7ca6166'

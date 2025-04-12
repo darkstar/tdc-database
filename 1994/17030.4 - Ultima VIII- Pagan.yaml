@@ -1,5 +1,6 @@
-filename: Ultima VIII- Pagan v2.10 (Installer) (1994)(ORIGIN Systems, Inc.) [Action, Role-Playing (RPG)].zip
+filename: Ultima VIII- Pagan v2.10 (Installer) (1994)(ORIGIN Systems, Inc.) [Action, Role-Playing (RPG)][!].zip
 tdc_id: '17030.4'
+parent_id: '17030.6'
 title:
   box: 'Ultima VIII: Pagan'
 publisher: ORIGIN Systems, Inc.
@@ -10,12 +11,17 @@ genre:
 language: English
 date:
   added: '2019-03-02T07:18:46'
-  last_modified: '2019-03-02T07:18:46'
+  last_modified: '2025-01-24T07:53:32'
 version: '2.10'
 type: zip
+tags:
+- KnownGood
+media: 1.44M
 installer: true
 commands:
   play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/25061/pagan-ultima-viii/
 files:
 - name: DEARJ.EXE
   size: 67782

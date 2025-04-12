@@ -1,5 +1,6 @@
-filename: Hero's Quest- So You Want To Be A Hero v1.001 (1989)(Sierra On-Line, Inc.) [Adventure, Role-Playing (RPG)].zip
+filename: Hero's Quest- So You Want To Be A Hero v1.001 (1989)(Sierra On-Line, Inc.) [Adventure, Role-Playing (RPG)][!].zip
 tdc_id: '11037.2'
+parent_id: '11037.9'
 title:
   box: 'Hero''s Quest: So You Want To Be A Hero'
 publisher: Sierra On-Line, Inc.
@@ -10,9 +11,17 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:27:56'
-  last_modified: '2019-03-01T18:27:56'
+  last_modified: '2025-03-16T08:07:46'
 version: '1.001'
 type: zip
+tags:
+- KnownGood
+media: 360K
+commands:
+  play: HERO.BAT
+  setup: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/168/heros-quest-so-you-want-to-be-a-hero/
 files:
 - name: ADL.DRV
   size: 8896
@@ -176,10 +185,6 @@ files:
   size: 267913
   date: '1989-10-18T11:11:36'
   crc: '0xb110d315'
-- name: RESOURCE.CFG
-  size: 74
-  date: '1992-06-05T07:06:16'
-  crc: '0xbff3abdd'
 - name: RESOURCE.MAP
   size: 6948
   date: '1989-10-18T11:11:36'

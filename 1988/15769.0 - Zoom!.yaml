@@ -10,10 +10,12 @@ genre:
 language: English
 date:
   added: '2021-08-13T08:17:28'
-  last_modified: '2021-08-13T08:17:28'
+  last_modified: '2025-02-07T08:17:28'
 type: zip
 commands:
   play: ZOOM.EXE
+references:
+  mobygames: https://www.mobygames.com/game/26479/zoom/
 files:
 - name: CGA.CDT
   size: 45213
@@ -59,10 +61,6 @@ files:
   size: 3840
   date: '1988-11-07T15:46:18'
   crc: '0x992ade3a'
-- name: SCORES
-  size: 300
-  date: '2009-04-29T22:02:00'
-  crc: '0x665a8ae7'
 - name: TANDY.CDT
   size: 30198
   date: '1988-10-25T18:10:42'
@@ -81,8 +79,8 @@ files:
   crc: '0x1c62cdc9'
 - name: ZOOM.EXE
   size: 58976
-  date: '1988-10-06T17:06:00'
-  crc: '0x98a7c62f'
+  date: '1988-11-08T16:57:14'
+  crc: '0xa72fdb30'
 - name: ZOOM.EX_
   size: 58976
   date: '1988-11-08T16:57:14'

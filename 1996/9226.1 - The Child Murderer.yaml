@@ -22,27 +22,47 @@ commands:
 references:
   mobygames: https://www.mobygames.com/game/49183/the-child-murderer/
 files:
-- name: Cm.PIF
-  size: 967
-  date: '1996-04-24T15:51:02'
-  crc: '0x4b7eec7b'
-- name: Cm.exe
+- name: CM.ACD
+  size: 24576
+  date: '1992-09-02T13:01:42'
+  crc: '0xda8aba7e'
+- name: CM.DAT
+  size: 30721
+  date: '1992-09-02T13:01:42'
+  crc: '0x0daadefd'
+- name: CM.EXE
   size: 168448
   date: '1995-12-17T12:16:32'
   crc: '0x7efdb7b0'
-- name: DEAD.pcx
+- name: CM.PIF
+  size: 967
+  date: '1996-04-24T15:51:02'
+  crc: '0x4b7eec7b'
+- name: CM.TXT
+  size: 3346
+  date: '1996-04-24T15:54:58'
+  crc: '0x9aafc32f'
+- name: COAST.PCX
+  size: 177219
+  date: '1996-03-05T20:20:36'
+  crc: '0x0dd13cb2'
+- name: DEAD.PCX
   size: 88170
   date: '1996-04-19T23:51:16'
   crc: '0xa1cefcde'
-- name: Den.pcx
+- name: DEN.PCX
   size: 119421
   date: '1996-03-09T13:57:28'
   crc: '0x2b1f83d9'
-- name: INFO.pcx
+- name: FILE_ID.DIZ
+  size: 396
+  date: '1996-05-25T17:46:08'
+  crc: '0x8417903c'
+- name: INFO.PCX
   size: 45976
   date: '1996-04-18T16:33:42'
   crc: '0xdb5ac3c2'
-- name: LADY.pcx
+- name: LADY.PCX
   size: 97546
   date: '1996-04-19T23:32:08'
   crc: '0x7ea93fe4'
@@ -50,35 +70,19 @@ files:
   size: 239123
   date: '1996-03-05T16:45:46'
   crc: '0x483b3f1c'
-- name: MASTER.pcx
+- name: MASTER.PCX
   size: 48382
   date: '1996-04-19T23:48:46'
   crc: '0xfa410cd1'
-- name: STRAW.pcx
+- name: STRAW.PCX
   size: 201631
   date: '1996-03-04T22:28:50'
   crc: '0xafd61e5c'
+- name: TITLE1.PCX
+  size: 52190
+  date: '1996-04-17T22:07:46'
+  crc: '0xb7dac00a'
 - name: VIEWER.EXE
   size: 91824
   date: '1995-01-30T01:50:42'
   crc: '0xf10a4999'
-- name: cm.acd
-  size: 24576
-  date: '1992-09-02T13:01:42'
-  crc: '0xda8aba7e'
-- name: cm.dat
-  size: 30721
-  date: '1992-09-02T13:01:42'
-  crc: '0x0daadefd'
-- name: cm.txt
-  size: 3346
-  date: '1996-04-24T15:54:58'
-  crc: '0x9aafc32f'
-- name: coast.pcx
-  size: 177219
-  date: '1996-03-05T20:20:36'
-  crc: '0x0dd13cb2'
-- name: title1.pcx
-  size: 52190
-  date: '1996-04-17T22:07:46'
-  crc: '0xb7dac00a'

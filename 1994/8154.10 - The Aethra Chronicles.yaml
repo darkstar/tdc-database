@@ -1,0 +1,50 @@
+filename: Aethra Chronicles, The v1.0b (Installer) [SWR] (1994)(Michael Lawrence) [Role-Playing (RPG)].zip
+tdc_id: '8154.10'
+title:
+  screen: The Aethra Chronicles
+publisher: Michael Lawrence
+year: '1994'
+genre: Role-Playing (RPG)
+language: English
+date:
+  added: '2025-02-18T17:49:57'
+  last_modified: '2025-02-18T17:49:57'
+version: 1.0b
+type: zip
+tags:
+- SharewareRegistered
+media: Download
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/19880/the-aethra-chronicles-volume-one-celystras-bane/
+files:
+- name: FILE1.LZH
+  size: 560706
+  date: '1994-09-02T04:09:24'
+  crc: '0xc721f838'
+- name: FILE2.LZH
+  size: 614532
+  date: '1994-09-02T05:29:14'
+  crc: '0x72f6f7c5'
+- name: FILE3.LZH
+  size: 676246
+  date: '1994-09-02T04:44:42'
+  crc: '0x19ae91b9'
+- name: INSTALL.EXE
+  size: 69984
+  date: '1994-09-02T01:06:18'
+  crc: '0x14d37fa1'
+- name: LHA.EXE
+  size: 26115
+  date: '1994-09-02T00:00:02'
+  crc: '0x008ef519'
+- name: ONLINE.DOC
+  size: 14907
+  date: '1994-09-02T17:11:40'
+  crc: '0x83da268c'
+- name: README.DOC
+  size: 691
+  date: '1994-09-02T02:39:22'
+  crc: '0x65033a1a'

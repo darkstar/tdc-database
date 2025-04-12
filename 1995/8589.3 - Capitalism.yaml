@@ -1,4 +1,4 @@
-filename: Capitalism [b2] (1995)(Interactive Magic, Inc.) [Simulation, Strategy].zip
+filename: Capitalism v1.0 [b1] (1995)(Interactive Magic, Inc.) [Simulation, Strategy].zip
 tdc_id: '8589.3'
 parent_id: '8589.0'
 title:
@@ -11,13 +11,16 @@ genre:
 language: English
 date:
   added: '2020-03-30T15:24:56'
-  last_modified: '2022-11-29T15:05:15'
+  last_modified: '2025-02-03T11:01:32'
+version: '1.0'
 type: zip
 tags:
-- Bad: 2
+- Bad: 1
 commands:
   play: CAP.BAT
   setup: SETSOUND.BAT
+references:
+  mobygames: https://www.mobygames.com/game/1344/capitalism/
 files:
 - name: CAP.BAT
   size: 182

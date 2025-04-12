@@ -1,5 +1,6 @@
-filename: Wolfenstein 3D [SW] (1992)(Apogee Software, Ltd.) [Action].zip
+filename: Wolfenstein 3D v1.0 [SW] (1992)(Apogee Software, Ltd.) [Action].zip
 tdc_id: '16051.3'
+parent_id: '16051.0'
 title:
   screen: Wolfenstein 3D
 publisher: Apogee Software, Ltd.
@@ -8,11 +9,16 @@ genre: Action
 language: English
 date:
   added: '2019-03-01T18:52:28'
-  last_modified: '2019-03-01T18:52:28'
+  last_modified: '2025-02-08T16:17:03'
+version: '1.0'
 type: zip
 tags:
 - Shareware
 media: Download
+commands:
+  play: WOLF3D.EXE
+references:
+  mobygames: https://www.mobygames.com/game/306/wolfenstein-3d/
 files:
 - name: AUDIOHED.WL1
   size: 988
@@ -22,22 +28,6 @@ files:
   size: 130696
   date: '1992-05-05T13:00:34'
   crc: '0xf65031a7'
-- name: CATALOG.EXE
-  size: 27739
-  date: '1992-05-05T00:50:54'
-  crc: '0x3b2295aa'
-- name: DISK1
-  size: 3
-  date: '2088-01-06T22:25:10'
-  crc: '0x8f93c1e6'
-- name: DISK2
-  size: 3
-  date: '2088-01-06T22:25:58'
-  crc: '0x8dd57fbf'
-- name: INSTALL.EXE
-  size: 1796
-  date: '1992-05-18T09:43:34'
-  crc: '0xd25f2c98'
 - name: MAPHEAD.WL1
   size: 402
   date: '1992-05-05T13:00:18'
@@ -46,10 +36,6 @@ files:
   size: 56618
   date: '1992-05-05T13:00:00'
   crc: '0xf323bce2'
-- name: ORDER.FRM
-  size: 2440
-  date: '1992-05-05T00:53:20'
-  crc: '0x43ca61fe'
 - name: README.WL1
   size: 1057
   date: '1992-05-05T13:00:34'
@@ -69,7 +55,7 @@ files:
 - name: VSWAP.WL1
   size: 707072
   date: '1992-05-05T13:00:16'
-  crc: '0xe0eb4981'
+  crc: '0xf97fe230'
 - name: WOLF3D.EXE
   size: 94379
   date: '1992-05-05T13:00:42'

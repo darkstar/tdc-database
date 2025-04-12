@@ -1,5 +1,6 @@
-filename: Monkey Island 2- LeChuck's Revenge v5.2.02 (1991)(Lucasfilm Games LLC) [IMA][1440k][!].zip
+filename: Monkey Island 2- LeChuck's Revenge v1.0 (1991)(Lucasfilm Games LLC) [IMA][1440k][!].zip
 tdc_id: '7891.20'
+parent_id: '7891.23'
 title:
   box: 'Monkey Island 2: LeChuck''s Revenge'
 publisher: Lucasfilm Games LLC
@@ -8,30 +9,32 @@ genre: IMA
 language: English
 date:
   added: '2023-02-26T17:59:44'
-  last_modified: '2023-02-26T17:59:44'
-version: 5.2.02
+  last_modified: '2025-03-15T13:15:17'
+version: '1.0'
 type: IMA
 tags:
 - KnownGood
 media: 1.44M
+references:
+  mobygames: https://www.mobygames.com/game/289/monkey-island-2-lechucks-revenge/
 files:
-- name: Disk 1.IMA
+- name: Disk1.IMA
   size: 1474560
   date: '2020-04-29T18:40:44'
   crc: '0x590637cc'
-- name: Disk 2.IMA
+- name: Disk2.IMA
   size: 1474560
   date: '2020-04-29T18:42:02'
   crc: '0x164b0750'
-- name: Disk 3.IMA
+- name: Disk3.IMA
   size: 1474560
   date: '2020-04-29T18:46:28'
   crc: '0x53311b2e'
-- name: Disk 4.IMA
+- name: Disk4.IMA
   size: 1474560
   date: '2020-04-29T18:49:52'
   crc: '0x3a3c2fea'
-- name: Disk 5.IMA
+- name: Disk5.IMA
   size: 1474560
   date: '2020-04-29T18:51:30'
   crc: '0xa5c93e24'

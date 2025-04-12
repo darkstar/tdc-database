@@ -1,0 +1,54 @@
+filename: Story of King Aress, The (Zh) (1994)(Unalis Corporation) [Strategy].zip
+tdc_id: '17792.0'
+title:
+  box: The Story of King Aress
+  translation: 亞里斯王物語
+publisher: Unalis Corporation
+year: '1994'
+genre: Strategy
+language: Chinese
+date:
+  added: '2025-02-25T17:51:53'
+  last_modified: '2025-02-25T17:51:53'
+type: zip
+commands:
+  play: PLAY.BAT
+references:
+  mobygames: https://www.mobygames.com/game/124435/the-story-of-king-aress/
+files:
+- name: ARESS.BIN
+  size: 515878
+  date: '1996-08-10T10:15:24'
+  crc: '0x26b21eea'
+- name: ARESS.DAT
+  size: 13863118
+  date: '1996-10-08T13:06:56'
+  crc: '0x3d15250c'
+- name: ARESS.EXE
+  size: 4348
+  date: '2008-02-26T21:52:12'
+  crc: '0x37cca1e1'
+- name: ARESS.NAM
+  size: 12720
+  date: '1996-10-08T13:06:56'
+  crc: '0x7bf05b0c'
+- name: ARESS.POS
+  size: 3186
+  date: '1996-10-08T13:06:56'
+  crc: '0x5d5a6842'
+- name: ARESS0.PRJ
+  size: 38213
+  date: '2013-11-10T17:15:34'
+  crc: '0x9c1841d7'
+- name: ARESS1.PRJ
+  size: 38213
+  date: '2008-04-18T19:57:58'
+  crc: '0xe2cb91d9'
+- name: FIX.COM
+  size: 76
+  date: '2008-04-18T18:44:34'
+  crc: '0xcd9e36a9'
+- name: PLAY.BAT
+  size: 23
+  date: '2008-04-18T21:29:30'
+  crc: '0xba0106eb'

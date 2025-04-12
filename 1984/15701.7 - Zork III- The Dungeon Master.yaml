@@ -1,5 +1,6 @@
-filename: Zork III- The Dungeon Master r17 (booter) (1984)(Infocom, Inc.) [IMA][160k][cr].zip
+filename: Zork III- The Dungeon Master r17-D (booter) (1984)(Infocom, Inc.) [IMA][160k][cr].zip
 tdc_id: '15701.7'
+parent_id: '15701.11'
 title:
   box: 'Zork III: The Dungeon Master'
 publisher: Infocom, Inc.
@@ -8,10 +9,12 @@ genre: IMA
 language: English
 date:
   added: '2023-02-23T20:13:05'
-  last_modified: '2023-02-23T20:13:05'
-release: '17'
+  last_modified: '2025-02-06T15:02:09'
+release: 17-D
 type: IMA
 media: 360K
+references:
+  mobygames: https://www.mobygames.com/game/53/zork-iii-the-dungeon-master/
 files:
 - name: ZORK3R17.IMG
   size: 163840

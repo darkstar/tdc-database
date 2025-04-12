@@ -1,17 +1,22 @@
-filename: Vectorball [a1] (1988)(M.A.D.) [Action].zip
+filename: Vectorball r880802 (1988)(Mastertronic Ltd.) [Action].zip
 tdc_id: '7375.1'
+parent_id: '7375.3'
 title:
   box: Vectorball
-publisher: M.A.D.
+publisher: Mastertronic Ltd.
 year: '1988'
 genre: Action
 language: English
 date:
   added: '2020-07-21T12:20:04'
-  last_modified: '2020-07-21T12:20:04'
+  last_modified: '2025-01-29T09:19:49'
+release: '880802'
 type: zip
-tags:
-- Alternate: 1
+media: 720K
+commands:
+  play: VEC.EXE
+references:
+  mobygames: https://www.mobygames.com/game/16712/vectorball/
 files:
 - name: AUTOEXEC.BAT
   size: 5

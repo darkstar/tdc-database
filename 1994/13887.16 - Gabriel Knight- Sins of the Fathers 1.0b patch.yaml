@@ -15,6 +15,7 @@ date:
 type: zip
 media: Download
 installer: true
+patch: true
 commands:
   play: PATCH.EXE
 files:

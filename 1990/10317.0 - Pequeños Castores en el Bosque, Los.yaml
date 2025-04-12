@@ -23,10 +23,6 @@ files:
   size: 5936
   date: '1990-06-20T13:49:24'
   crc: '0xe014ec0b'
-- name: COMMAND.COM
-  size: 56539
-  date: '1993-09-30T06:20:00'
-  crc: '0x5121d7cc'
 - name: COMMUN.I01
   size: 117037
   date: '1990-06-15T18:06:48'
@@ -50,11 +46,11 @@ files:
 - name: INTRO.TOT
   size: 7120
   date: '1994-07-22T20:03:02'
+  crc: '0x54305073'
+- name: INTRO.TO_
+  size: 7120
+  date: '1994-07-22T20:03:02'
   crc: '0xc2196ead'
-- name: IO.SYS
-  size: 40755
-  date: '1993-09-30T06:20:00'
-  crc: '0x14bcb26b'
 - name: JEUCAR1.LET
   size: 1556
   date: '1990-05-10T17:10:34'
@@ -83,10 +79,6 @@ files:
   size: 69221
   date: '1990-06-15T12:46:48'
   crc: '0xcd304ee5'
-- name: MSDOS.SYS
-  size: 38158
-  date: '1993-09-30T06:20:00'
-  crc: '0x393a4250'
 - name: PERDU.SND
   size: 10036
   date: '1990-06-20T07:49:24'

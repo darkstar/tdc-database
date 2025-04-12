@@ -1,5 +1,6 @@
-filename: King's Quest IV- The Perils of Rosella v2.0 (Installer) [a1] (1988)(Sierra On-Line, Inc.) [Adventure].zip
+filename: King's Quest IV- The Perils of Rosella v2.0 (Installer) [a1] (1988)(Sierra On-Line, Inc.) [Adventure][!].zip
 tdc_id: '11815.9'
+parent_id: '11815.34'
 title:
   box: 'King''s Quest IV: The Perils of Rosella'
 publisher: Sierra On-Line, Inc.
@@ -8,12 +9,19 @@ genre: Adventure
 language: English
 date:
   added: '2021-07-26T15:35:06'
-  last_modified: '2021-07-26T15:35:06'
+  last_modified: '2025-01-23T08:45:41'
 version: '2.0'
 type: zip
 tags:
+- KnownGood
 - Alternate: 1
+media: 360K
 installer: true
+commands:
+  play: SIERRA.COM
+  setup: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/129/kings-quest-iv-the-perils-of-rosella/
 files:
 - name: AGI
   size: 40866

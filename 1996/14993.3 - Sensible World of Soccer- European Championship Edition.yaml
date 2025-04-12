@@ -16,6 +16,7 @@ date:
 version: '2.0'
 type: zip
 installer: true
+patch: true
 commands:
   play: INSTALL.EXE
 files:

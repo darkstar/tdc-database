@@ -1,8 +1,9 @@
-filename: Mario Andretti's Racing Challenge [a1] (1991)(Electronic Arts, Inc.) [Racing - Driving, Simulation, Sports].zip
+filename: Mario Andretti's Racing Challenge (1991)(Electronic Arts Ltd.) [Racing - Driving, Simulation, Sports][!].zip
 tdc_id: '11140.1'
+parent_id: '11140.2'
 title:
   box: Mario Andretti's Racing Challenge
-publisher: Electronic Arts, Inc.
+publisher: Electronic Arts Ltd.
 year: '1991'
 genre:
 - Racing - Driving
@@ -11,10 +12,16 @@ genre:
 language: English
 date:
   added: '2021-11-24T11:38:20'
-  last_modified: '2021-11-24T11:38:20'
+  last_modified: '2025-03-07T08:49:01'
 type: zip
 tags:
-- Alternate: 1
+- KnownGood
+media: 720K
+commands:
+  play: MARIO.COM
+  setup: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/27804/mario-andrettis-racing-challenge/
 files:
 - name: AD15.DRV
   size: 3518
@@ -304,6 +311,10 @@ files:
   size: 826
   date: '1991-04-25T16:19:14'
   crc: '0x865a0c2a'
+- name: MARIO.COM
+  size: 257
+  date: '1980-01-01T00:00:00'
+  crc: '0xceaa95dc'
 - name: MARIO.FNT
   size: 1533
   date: '1990-07-04T13:01:00'

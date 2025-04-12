@@ -1,20 +1,23 @@
-filename: Zork- The Great Underground Empire r75 (booter) (1983)(Infocom, Inc.) [IMA][160k][cr].zip
+filename: Zork- The Great Underground Empire r75-B (booter) (1983)(Infocom, Inc.) [IMA][160k][cr].zip
 tdc_id: '15702.7'
 parent_id: '15702.6'
 title:
   box: 'Zork: The Great Underground Empire'
+  qualifier: booter
 publisher: Infocom, Inc.
 year: '1983'
 genre: IMA
 language: English
 date:
   added: '2023-02-18T16:35:47'
-  last_modified: '2023-02-18T16:35:47'
-release: '75'
+  last_modified: '2025-02-06T07:51:40'
+release: 75-B
 type: IMA
 media: 360K
+references:
+  mobygames: https://www.mobygames.com/game/50/zork-the-great-underground-empire/
 files:
-- name: ZORK1.IMG
+- name: ZORK175B.IMA
   size: 163840
   date: '1983-09-29T12:00:00'
   crc: '0x05e849f6'

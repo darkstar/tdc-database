@@ -1,4 +1,4 @@
-filename: Aces of the Deep v4.27 (Installer) (1994)(Sierra On-Line, Inc.) [Simulation].zip
+filename: Aces of the Deep v1.0 (Installer) (1994)(Sierra On-Line, Inc.) [Simulation][!].zip
 tdc_id: '8031.10'
 parent_id: '8031.9'
 title:
@@ -9,11 +9,17 @@ genre: Simulation
 language: English
 date:
   added: '2023-07-06T12:14:30'
-  last_modified: '2023-07-06T12:14:30'
-version: '4.27'
+  last_modified: '2025-03-16T11:53:20'
+version: '1.0'
 type: zip
+tags:
+- KnownGood
 media: 1.44M
 installer: true
+commands:
+  play: INSTALL.BAT
+references:
+  mobygames: https://www.mobygames.com/game/1171/aces-of-the-deep/
 files:
 - name: COPYFILE.EXE
   size: 77191

@@ -1,6 +1,6 @@
-filename: BattleTech- The Crescent Hawks' Revenge (1990)(Infocom, Inc.) [Strategy].zip
+filename: BattleTech- The Crescent Hawks' Revenge v1.00 (1990)(Infocom, Inc.) [Strategy].zip
 tdc_id: '12522.0'
-parent_id: '12522.3'
+parent_id: '12522.6'
 title:
   box: 'BattleTech: The Crescent Hawks'' Revenge'
 publisher: Infocom, Inc.
@@ -9,9 +9,15 @@ genre: Strategy
 language: English
 date:
   added: '2019-03-01T18:31:52'
-  last_modified: '2019-03-01T18:31:52'
+  last_modified: '2025-01-28T10:11:52'
+version: '1.00'
 type: zip
+media: 720K
+commands:
+  play: REVENGE.EXE
+  setup: INSTALL.EXE
 references:
+  mobygames: https://www.mobygames.com/game/233/battletech-the-crescent-hawks-revenge/
   dosid: DOS00996
   exodos: BattleTech - The Crescent Hawk's Revenge (1990).zip
 files:

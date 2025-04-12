@@ -1,0 +1,50 @@
+filename: Fokker! (1990)(Cosmi Corporation) [Simulation].zip
+tdc_id: '7465.1'
+title:
+  box: Fokker!
+publisher: Cosmi Corporation
+year: '1990'
+genre: Simulation
+language: English
+date:
+  added: '2020-01-18T17:39:04'
+  last_modified: '2025-03-12T17:19:21'
+type: zip
+commands:
+  play: FOKKER.EXE
+references:
+  mobygames: https://www.mobygames.com/game/8592/war-eagles/
+notes: dos? Doubt it.
+files:
+- name: BUNIF.SCN
+  size: 4845
+  date: '1989-07-06T00:07:04'
+  crc: '0x710d713d'
+- name: CRASH.SCN
+  size: 23985
+  date: '1989-07-06T10:47:18'
+  crc: '0x123fcffb'
+- name: FOKKER.EXE
+  size: 283415
+  date: '1989-08-01T09:28:22'
+  crc: '0x3a450392'
+- name: GUNIF.SCN
+  size: 11495
+  date: '1989-07-06T00:09:06'
+  crc: '0x06d90ff1'
+- name: PILOTS.LST
+  size: 96
+  date: '2020-01-18T23:30:08'
+  crc: '0x4f408fcd'
+- name: SCORES.LST
+  size: 256
+  date: '1980-01-04T12:58:22'
+  crc: '0x7a9355ca'
+- name: SIDE.SCN
+  size: 10000
+  date: '1989-07-02T15:04:40'
+  crc: '0xe1cc625b'
+- name: TITLE.SCN
+  size: 13721
+  date: '1990-10-23T20:27:22'
+  crc: '0x2c6e5ee0'

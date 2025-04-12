@@ -1,0 +1,58 @@
+filename: Wolfenstein 3D v1.4 [SWR] (1994)(Mindscape International Ltd., id Software, Inc.) [Action].zip
+tdc_id: '16051.16'
+parent_id: '16051.28'
+title:
+  box: Wolfenstein 3D
+publisher: Mindscape International Ltd., id Software, Inc.
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2007-12-29T13:32:38'
+  last_modified: '2025-02-08T10:51:37'
+version: '1.4'
+type: zip
+tags:
+- SharewareRegistered
+media: 1.44M
+commands:
+  play: WOLF3D.EXE
+references:
+  mobygames: https://www.mobygames.com/game/306/wolfenstein-3d/
+files:
+- name: AUDIOHED.WL6
+  size: 1156
+  date: '1993-02-04T16:01:26'
+  crc: '0x2f3bcb70'
+- name: AUDIOT.WL6
+  size: 320209
+  date: '1993-02-04T16:01:28'
+  crc: '0xc79efd4c'
+- name: GAMEMAPS.WL6
+  size: 150652
+  date: '1993-02-04T15:54:40'
+  crc: '0xada5c827'
+- name: MAPHEAD.WL6
+  size: 402
+  date: '1993-02-04T15:54:50'
+  crc: '0x015803e9'
+- name: VGADICT.WL6
+  size: 1024
+  date: '1993-09-02T20:54:46'
+  crc: '0x8b4ad0f8'
+- name: VGAGRAPH.WL6
+  size: 276096
+  date: '1993-09-02T20:54:46'
+  crc: '0xe0df1ea0'
+- name: VGAHEAD.WL6
+  size: 450
+  date: '1993-09-02T20:54:46'
+  crc: '0x27ee37c4'
+- name: VSWAP.WL6
+  size: 1545400
+  date: '1993-02-04T16:02:48'
+  crc: '0x859e8ffc'
+- name: WOLF3D.EXE
+  size: 259310
+  date: '1993-09-03T13:25:24'
+  crc: '0xded9ff6f'

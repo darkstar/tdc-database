@@ -1,0 +1,58 @@
+filename: Wolfenstein 3D v1.4 [SWR] (1994)(GT Interactive Software Corp., id Software, Inc.) [Action].zip
+tdc_id: '16051.15'
+parent_id: '16051.17'
+title:
+  box: Wolfenstein 3D
+publisher: GT Interactive Software Corp., id Software, Inc.
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:52:30'
+  last_modified: '2025-02-09T14:13:22'
+version: '1.4'
+type: zip
+tags:
+- SharewareRegistered
+media: 720K
+commands:
+  play: WOLF3D.EXE
+references:
+  mobygames: https://www.mobygames.com/game/306/wolfenstein-3d/
+files:
+- name: AUDIOHED.WL6
+  size: 1156
+  date: '1994-04-13T01:40:00'
+  crc: '0x2f3bcb70'
+- name: AUDIOT.WL6
+  size: 320209
+  date: '1994-04-13T01:40:00'
+  crc: '0xc79efd4c'
+- name: GAMEMAPS.WL6
+  size: 150652
+  date: '1994-04-13T01:40:00'
+  crc: '0xada5c827'
+- name: MAPHEAD.WL6
+  size: 402
+  date: '1994-04-13T01:40:00'
+  crc: '0x015803e9'
+- name: VGADICT.WL6
+  size: 1024
+  date: '1994-04-13T01:40:00'
+  crc: '0xaa22054e'
+- name: VGAGRAPH.WL6
+  size: 275774
+  date: '1994-04-13T01:40:00'
+  crc: '0xa4b1de1d'
+- name: VGAHEAD.WL6
+  size: 450
+  date: '1994-04-13T01:40:00'
+  crc: '0xab2b44d3'
+- name: VSWAP.WL6
+  size: 1544376
+  date: '1994-04-13T01:40:00'
+  crc: '0xe610c664'
+- name: WOLF3D.EXE
+  size: 109589
+  date: '1994-04-13T01:40:00'
+  crc: '0xfcdf5431'

@@ -1,5 +1,6 @@
-filename: Superhero League of Hoboken (1994)(Legend Entertainment Company) [Adventure, Role-Playing (RPG)].zip
+filename: Superhero League of Hoboken v1.0 (1994)(Legend Entertainment Company) [Adventure, Role-Playing (RPG)].zip
 tdc_id: '16347.0'
+parent_id: '16347.2'
 title:
   box: Superhero League of Hoboken
 publisher: Legend Entertainment Company
@@ -10,13 +11,16 @@ genre:
 language: English
 date:
   added: '2019-03-02T07:17:52'
-  last_modified: '2019-03-02T07:17:52'
+  last_modified: '2025-02-23T08:58:23'
+version: '1.0'
 type: zip
+media: 1.44M
+commands:
+  play: LEGEND.BAT
+  setup: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1559/superhero-league-of-hoboken/
 files:
-- name: DIALOG.SV0
-  size: 64000
-  date: '1997-08-19T23:42:42'
-  crc: '0xdfc30259'
 - name: HOBOSTR.DAT
   size: 211163
   date: '1994-07-20T01:00:06'
@@ -165,10 +169,6 @@ files:
   size: 14426
   date: '1994-07-20T01:00:06'
   crc: '0x74274063'
-- name: RESTART.DAT
-  size: 26259
-  date: '1997-08-20T01:14:04'
-  crc: '0x1d84424c'
 - name: SLH.EXE
   size: 683274
   date: '1994-07-20T01:00:06'

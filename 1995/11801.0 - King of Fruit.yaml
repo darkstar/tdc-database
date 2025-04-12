@@ -1,8 +1,9 @@
-filename: King of Fruit (1995)(Anonymous) [Simulation, Strategy].zip
+filename: King of Fruit (1995)(Dynasty International Information Co., Ltd.) [Simulation, Strategy].zip
 tdc_id: '11801.0'
 title:
-  screen: King of Fruit
-publisher: Anonymous
+  box: King of Fruit
+  translation: 水果大亨
+publisher: Dynasty International Information Co., Ltd.
 year: '1995'
 genre:
 - Simulation
@@ -10,9 +11,10 @@ genre:
 language: English
 date:
   added: '2019-03-02T08:56:14'
-  last_modified: '2019-03-02T08:56:14'
+  last_modified: '2025-02-23T07:33:44'
 type: zip
-media: Download
+commands:
+  play: FRUIT.EXE
 files:
 - name: AAA.PCX
   size: 27818

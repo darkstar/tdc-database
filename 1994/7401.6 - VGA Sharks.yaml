@@ -1,0 +1,46 @@
+filename: VGA Sharks v1.2 [SWR] (1994)(WizardWorks Group, Inc., Alive Software) [Action].zip
+tdc_id: '7401.6'
+parent_id: '13871.1'
+parent_id_valid: true
+title:
+  screen: VGA Sharks
+publisher: WizardWorks Group, Inc., Alive Software
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2025-02-22T10:49:27'
+  last_modified: '2025-02-22T10:49:27'
+version: '1.2'
+type: zip
+tags:
+- SharewareRegistered
+commands:
+  play: VSHARKS.EXE
+references:
+  mobygames: https://www.mobygames.com/game/965/vga-sharks/
+files:
+- name: SHARK
+  size: 26204
+  date: '1993-11-07T20:38:48'
+  crc: '0xdb6c37c4'
+- name: SHARK2
+  size: 6808
+  date: '1993-10-23T01:19:32'
+  crc: '0xe7730faf'
+- name: SHARK3
+  size: 7128
+  date: '1993-10-23T01:26:30'
+  crc: '0xe7c90cb3'
+- name: VSHARKS.CFG
+  size: 7
+  date: '1994-07-22T10:53:42'
+  crc: '0x2e5e6101'
+- name: VSHARKS.EXE
+  size: 67226
+  date: '1994-02-08T16:00:00'
+  crc: '0x283738f4'
+- name: VSHARKS0.GDL
+  size: 86336
+  date: '1994-02-08T16:00:00'
+  crc: '0x638b6d60'

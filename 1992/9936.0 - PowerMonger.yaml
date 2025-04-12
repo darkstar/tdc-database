@@ -1,5 +1,6 @@
 filename: PowerMonger (1992)(Electronic Arts, Inc.) [Strategy].zip
 tdc_id: '9936.0'
+parent_id: '9936.6'
 title:
   box: PowerMonger
 publisher: Electronic Arts, Inc.
@@ -10,195 +11,207 @@ date:
   added: '2019-03-01T18:50:02'
   last_modified: '2019-03-01T18:50:02'
 type: zip
+media: 720K
+commands:
+  play: PM.BAT
+  setup: PMSETUP.BAT
 references:
   dosid: DOS04084
   exodos: PowerMonger (1992).zip
 files:
 - name: A.ADB
   size: 658
-  date: '1998-11-25T22:50:04'
+  date: '1992-05-18T14:46:18'
   crc: '0x99369ec9'
 - name: ADLIB.FX
   size: 4328
-  date: '1998-11-25T22:50:04'
+  date: '1992-05-18T14:46:18'
   crc: '0x74cc0edb'
 - name: ADV.LIB
   size: 52265
-  date: '1998-11-25T22:50:04'
+  date: '1992-05-18T14:46:18'
   crc: '0xc1d9fc96'
 - name: BEEPER.FX
   size: 2036
-  date: '1998-11-25T22:50:04'
+  date: '1992-05-18T14:46:18'
   crc: '0xa2f67d1d'
 - name: CAPGRAPH.BIN
   size: 32000
-  date: '1998-11-25T22:50:04'
+  date: '1992-05-18T14:46:18'
   crc: '0x7912a27d'
 - name: CAPGRAPH.BLK
   size: 24093
-  date: '1998-11-25T22:50:04'
+  date: '1992-05-18T14:46:18'
   crc: '0x6d2f6373'
 - name: CAPGRAPH.EGA
   size: 32000
-  date: '1998-11-25T22:50:04'
+  date: '1992-05-18T14:46:18'
   crc: '0x73cff29e'
 - name: FINAL001.256
   size: 64000
-  date: '1998-11-25T22:50:04'
+  date: '1992-05-18T14:46:18'
   crc: '0xf463e4de'
 - name: FINAL001.EGA
   size: 32000
-  date: '1998-11-25T22:50:04'
+  date: '1992-05-18T14:46:18'
   crc: '0x545d3af0'
 - name: FINAL001.PAL
   size: 768
-  date: '1998-11-25T22:50:04'
+  date: '1992-05-18T14:46:18'
   crc: '0x324c40de'
 - name: FINAL001.VGA
   size: 32000
-  date: '1998-11-25T22:50:04'
+  date: '1992-05-18T14:46:18'
   crc: '0xf76c9dce'
 - name: FINALANI.256
   size: 124754
-  date: '1998-11-25T22:50:06'
+  date: '1992-05-18T14:46:18'
   crc: '0xbe738c06'
 - name: FINALANI.EGA
   size: 56224
-  date: '1998-11-25T22:50:06'
+  date: '1992-05-18T14:46:18'
   crc: '0xb0c49d60'
 - name: FINALANI.VGA
   size: 74656
-  date: '1998-11-25T22:50:06'
+  date: '1992-05-18T14:46:18'
   crc: '0x914d436c'
 - name: FONT.DAT
   size: 9600
-  date: '1998-11-25T22:50:08'
+  date: '1992-05-18T14:46:18'
   crc: '0x55f7ae03'
 - name: GAME.EXE
   size: 241969
-  date: '1998-11-25T22:50:08'
+  date: '1992-05-18T14:46:18'
   crc: '0xf5f1c5c9'
+- name: GAME.EX_
+  size: 241969
+  date: '1992-05-18T14:46:18'
+  crc: '0x6e294a4d'
 - name: INTRODAT.EGA
   size: 227854
-  date: '1998-11-25T22:50:10'
+  date: '1992-05-18T14:46:18'
   crc: '0x2e5cb485'
 - name: INTRODAT.VGA
   size: 257666
-  date: '1998-11-25T22:50:12'
+  date: '1992-05-18T14:46:18'
   crc: '0xac93b9a3'
 - name: LAP.FX
   size: 12908
-  date: '1998-11-25T22:50:12'
+  date: '1992-05-18T14:46:18'
   crc: '0xd1e54fcd'
 - name: LOSE.256
   size: 64000
-  date: '1998-11-25T22:50:14'
+  date: '1992-05-18T14:46:18'
   crc: '0x34357e95'
 - name: LOSE.BIN
   size: 32000
-  date: '1998-11-25T22:50:16'
+  date: '1992-05-18T14:46:18'
   crc: '0x2fb384bb'
 - name: LOSE.EGA
   size: 32000
-  date: '1998-11-25T22:50:16'
+  date: '1992-05-18T14:46:18'
   crc: '0x6424e6c6'
 - name: LOSE.PAL
   size: 768
-  date: '1998-11-25T22:50:16'
+  date: '1992-05-18T14:46:18'
   crc: '0x5ef0cbcc'
 - name: MAP.256
   size: 97280
-  date: '1998-11-25T22:50:16'
+  date: '1992-05-18T14:46:18'
   crc: '0x2830b018'
 - name: MAP.DAT
   size: 97280
-  date: '1998-11-25T22:50:16'
+  date: '1992-05-18T14:46:18'
   crc: '0x84b343fc'
 - name: MAP.EGA
   size: 97280
-  date: '1998-11-25T22:50:16'
+  date: '1992-05-18T14:46:18'
   crc: '0x88da3ed3'
 - name: MAPDATA.DAT
   size: 65268
-  date: '1998-11-25T22:50:18'
+  date: '1992-05-18T14:46:18'
   crc: '0x50654104'
 - name: MT32.FX
   size: 13184
-  date: '1998-11-25T22:50:18'
+  date: '1992-05-18T14:46:18'
   crc: '0x4a515f5c'
 - name: PADLIB.MID
   size: 37839
-  date: '1998-11-25T22:50:18'
+  date: '1992-05-18T14:46:18'
   crc: '0x7a3d8ff8'
 - name: PBLEEPER.MID
   size: 3682
-  date: '1998-11-25T22:50:18'
+  date: '1992-05-18T14:46:18'
   crc: '0x20c99d9d'
 - name: PLAY16.EXE
   size: 22402
-  date: '1998-11-25T22:50:20'
+  date: '1992-05-18T14:46:18'
   crc: '0x55ece561'
 - name: PLAY256.EXE
   size: 18624
-  date: '1998-11-25T22:50:20'
+  date: '1992-05-18T14:46:18'
   crc: '0xd84592d5'
 - name: PM.BAT
   size: 24
-  date: '1998-11-25T22:50:38'
+  date: '1992-05-18T14:46:18'
   crc: '0xbf76c459'
+- name: PMSETUP.BAT
+  size: 1237
+  date: '1980-01-01T00:00:00'
+  crc: '0xd9409e64'
 - name: PMT32.MID
   size: 41152
-  date: '1998-11-25T22:50:20'
+  date: '1992-05-18T14:46:18'
   crc: '0xbcb6d09c'
 - name: POWER.FLC
   size: 1395022
-  date: '1998-11-25T22:50:36'
+  date: '1992-05-18T14:46:18'
   crc: '0xa2447f06'
 - name: QAZ.256
   size: 64000
-  date: '1998-11-25T22:50:36'
+  date: '1992-05-18T14:46:18'
   crc: '0xe6eaafb5'
 - name: QAZ.BIN
   size: 32000
-  date: '1998-11-25T22:50:36'
+  date: '1992-05-18T14:46:18'
   crc: '0xf63e8967'
 - name: QAZ.EGA
   size: 32000
-  date: '1998-11-25T22:50:36'
+  date: '1992-05-18T14:46:18'
   crc: '0x380fae84'
 - name: SBLAST.FX
   size: 58786
-  date: '1998-11-25T22:50:36'
+  date: '1992-05-18T14:46:18'
   crc: '0x66f55040'
 - name: SPRITE08.EGA
   size: 19580
-  date: '1998-11-25T22:50:38'
+  date: '1992-05-18T14:46:18'
   crc: '0x49db98b4'
 - name: SPRITE16.EGA
   size: 7680
-  date: '1998-11-25T22:50:38'
+  date: '1992-05-18T14:46:18'
   crc: '0x1f61f705'
 - name: SPRITE24.EGA
   size: 12960
-  date: '1998-11-25T22:50:38'
+  date: '1992-05-18T14:46:18'
   crc: '0x6c471056'
 - name: SPRITE32.EGA
   size: 17280
-  date: '1998-11-25T22:50:38'
+  date: '1992-05-18T14:46:18'
   crc: '0xceaa4648'
 - name: WIN.256
   size: 64000
-  date: '1998-11-25T22:50:38'
+  date: '1992-05-18T14:46:18'
   crc: '0x0da8c60b'
 - name: WIN.BIN
   size: 32000
-  date: '1998-11-25T22:50:38'
+  date: '1992-05-18T14:46:18'
   crc: '0xc5bc5662'
 - name: WIN.EGA
   size: 32000
-  date: '1998-11-25T22:50:38'
+  date: '1992-05-18T14:46:18'
   crc: '0xd6c88d6c'
 - name: WIN.PAL
   size: 768
-  date: '1998-11-25T22:50:38'
+  date: '1992-05-18T14:46:18'
   crc: '0x4870565d'

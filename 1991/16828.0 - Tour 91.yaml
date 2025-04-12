@@ -1,4 +1,4 @@
-filename: Tour 91 (Es) [h1] (1991)(Topo Soft) [Action, Sports].zip
+filename: Tour 91 (Es) (1991)(Topo Soft) [Action, Sports].zip
 tdc_id: '16828.0'
 title:
   box: Tour 91
@@ -10,52 +10,50 @@ genre:
 language: Spanish
 date:
   added: '2019-03-01T18:39:50'
-  last_modified: '2019-03-01T18:39:50'
+  last_modified: '2025-02-22T10:09:19'
 type: zip
-tags:
-- Hack: 1
 commands:
   play: GAME.EXE
+references:
+  mobygames: https://www.mobygames.com/game/45948/tour-91/
 files:
 - name: CRONO.PRG
   size: 115846
-  date: '1991-06-26T18:28:54'
+  date: '1991-06-26T19:28:54'
   crc: '0xb1eb45f0'
-- name: DISK1.ID
-  size: 0
-  date: '1992-08-31T17:50:52'
-- name: DISK2.ID
-  size: 0
-  date: '1992-08-31T17:50:52'
 - name: GAME.EXE
   size: 34213
-  date: '1991-06-27T23:10:44'
-  crc: '0xf033597b'
+  date: '1991-06-28T00:10:44'
+  crc: '0x3d8a8c25'
 - name: LLANOS.PRG
   size: 111048
-  date: '1991-06-26T02:48:34'
+  date: '1991-06-26T03:48:34'
   crc: '0xb64fcf3e'
 - name: MENU.PRG
   size: 62176
-  date: '1991-06-27T23:07:36'
+  date: '1991-06-28T00:07:36'
   crc: '0x1ab7cc1d'
 - name: META.PRG
   size: 106888
-  date: '1991-06-26T19:49:12'
+  date: '1991-06-26T20:49:12'
   crc: '0xce9916ad'
 - name: PANCGA.PAN
   size: 4
-  date: '1992-06-15T15:41:36'
+  date: '1992-06-15T16:41:36'
   crc: '0x2144df1c'
 - name: PANEGA.PAN
   size: 4
-  date: '1992-06-15T15:41:36'
+  date: '1992-06-15T16:41:36'
   crc: '0x2144df1c'
+- name: PRESENT.BIN
+  size: 32002
+  date: '1992-06-16T13:25:56'
+  crc: '0xa20f4a02'
 - name: SUBIDA.PRG
   size: 111800
-  date: '1991-06-25T19:44:18'
+  date: '1991-06-25T20:44:18'
   crc: '0x53daa560'
 - name: TOUR91.PRG
   size: 3202
-  date: '1991-05-13T05:42:02'
+  date: '1991-05-13T06:42:02'
   crc: '0xa5ca9e86'

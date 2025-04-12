@@ -1,4 +1,4 @@
-filename: Bob Morane- Science Fiction 1 (1987)(Infogrames Multimedia SA) [Action, Adventure].zip
+filename: Bob Morane- Science Fiction 1 (De)(En)(Es)(Fr) (1987)(Infogrames Multimedia SA) [Action, Adventure].zip
 tdc_id: '12712.0'
 title:
   box: 'Bob Morane: Science Fiction 1'
@@ -7,12 +7,19 @@ year: '1987'
 genre:
 - Action
 - Adventure
-language: English
+language:
+- English
+- Spanish
+- French
+- German
 date:
   added: '2019-03-01T18:25:12'
-  last_modified: '2019-03-01T18:25:12'
+  last_modified: '2025-02-10T15:25:20'
 type: zip
+commands:
+  play: TATOU.COM
 references:
+  mobygames: https://www.mobygames.com/game/50961/bob-morane-science-fiction-1/
   dosid: DOS01122
   exodos: Bob Morane - Science Fiction 1 (1987).zip
 files:
@@ -64,11 +71,11 @@ files:
   size: 8960
   date: '1987-11-26T11:31:04'
   crc: '0x31f368f9'
-- name: TATOU.BAK
+- name: TATOU.COM
+  size: 4087
+  date: '1987-12-04T14:03:32'
+  crc: '0xaba9581c'
+- name: TATOU.CO_
   size: 4087
   date: '1987-12-04T14:03:32'
   crc: '0x76611dfe'
-- name: TATOU.COM
-  size: 4087
-  date: '2012-10-14T13:43:42'
-  crc: '0xaba9581c'

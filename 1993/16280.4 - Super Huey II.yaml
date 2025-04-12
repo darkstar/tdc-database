@@ -1,0 +1,35 @@
+filename: Super Huey II v2.10 (1993)(Celery Software) [Simulation].zip
+tdc_id: '16280.4'
+parent_id: '16280.3'
+title:
+  box: Super Huey II
+publisher: Celery Software
+year: '1993'
+genre: Simulation
+language: English
+date:
+  added: '2025-03-13T08:02:08'
+  last_modified: '2025-03-13T08:02:08'
+version: '2.10'
+type: zip
+commands:
+  play: SH2.EXE
+references:
+  mobygames: https://www.mobygames.com/game/19404/super-huey-ii/
+files:
+- name: GO.CFG
+  size: 463
+  date: '1993-09-02T10:54:56'
+  crc: '0xf9fa4783'
+- name: GO.EXE
+  size: 28092
+  date: '1993-09-02T10:54:56'
+  crc: '0x2a3b65db'
+- name: README.NOW
+  size: 1422
+  date: '1993-09-02T10:54:56'
+  crc: '0x82acccd0'
+- name: SH2.EXE
+  size: 44488
+  date: '1993-09-02T10:54:56'
+  crc: '0x6ff8da38'

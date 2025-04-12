@@ -1,4 +1,4 @@
-filename: Twins (1993)(Spirit) [Strategy, Action].zip
+filename: Twins (En)(Es) (1993)(Spirit) [Strategy, Action].zip
 tdc_id: '2880.0'
 title:
   screen: Twins
@@ -7,16 +7,16 @@ year: '1993'
 genre:
 - Strategy
 - Action
-language: English
+language:
+- English
+- Spanish
 date:
   added: '2019-03-01T21:10:52'
-  last_modified: '2019-03-01T21:10:52'
+  last_modified: '2025-04-01T09:09:37'
 type: zip
+media: Download
 commands:
   play: TWINS.EXE
-references:
-  dosid: DOS00391
-  exodos: Twins (1993).zip
 files:
 - name: FONDO11.DAT
   size: 65448

@@ -1,0 +1,55 @@
+filename: Fritz 3 v3.05 (Installer) (En)(De)(Fr)(It)(Es)(Nl)(Pt) (1995)(ChessBase GmbH, Boeder Software GmbH) [Educational, Strategy, Chess].zip
+tdc_id: '9275.8'
+title:
+  box: Fritz 3
+publisher: ChessBase GmbH, Boeder Software GmbH
+year: '1995'
+genre:
+- Educational
+- Strategy
+- Chess
+language:
+- English
+- Spanish
+- French
+- Italian
+- German
+- Dutch
+- Portuguese
+date:
+  added: '2025-03-01T13:33:37'
+  last_modified: '2025-03-01T13:33:37'
+version: '3.05'
+type: zip
+installer: true
+commands:
+  play: INSTALL.BAT
+files:
+- name: CCMOVE.EXE
+  size: 50754
+  date: '1995-03-14T20:46:36'
+  crc: '0xc82efe61'
+- name: CCONTROL.SYS
+  size: 201
+  date: '1995-03-14T20:46:36'
+  crc: '0x4ab25d59'
+- name: DINSTALL.BAT
+  size: 3733
+  date: '1995-03-14T20:46:36'
+  crc: '0x76601f24'
+- name: FRITZ300.CCC
+  size: 15359
+  date: '1995-03-14T20:46:36'
+  crc: '0xc29035d6'
+- name: FRITZ3_.EX$
+  size: 522245
+  date: '1995-02-21T03:05:10'
+  crc: '0x8c40d23a'
+- name: INSTALL.BAT
+  size: 2213
+  date: '1995-03-14T20:46:36'
+  crc: '0x72c82f2e'
+- name: INSTALL2.BAT
+  size: 1738
+  date: '1995-03-14T20:46:36'
+  crc: '0x14d09269'

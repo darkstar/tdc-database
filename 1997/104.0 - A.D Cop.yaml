@@ -1,17 +1,25 @@
-filename: A.D Cop v2.10 (Installer) (Pl) (1997)(Mirage Media S. C.) [Action].zip
+filename: A.D Cop v2.10 (Installer) (Pl) (1997)(Electronic Music and Animated Graphics Co., Ltd., Union Systems) [Action].zip
 tdc_id: '104.0'
+parent_id: '104.1'
 title:
   box: A.D Cop
-publisher: Mirage Media S. C.
+publisher: Electronic Music and Animated Graphics Co., Ltd., Union Systems
 year: '1997'
 genre: Action
 language: Polish
 date:
   added: '2021-11-02T11:05:54'
-  last_modified: '2021-11-02T11:05:54'
+  last_modified: '2025-01-27T15:25:27'
 version: '2.10'
 type: zip
+media: CD-ROM
 installer: true
+audio:
+- CD-DA
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/89014/ad-cop/
 files:
 - name: AD95_1.ICO
   size: 766

@@ -1,5 +1,6 @@
-filename: Rock 'n Roll r911001 (1991)(Rainbow Arts Software GmbH) [IMA][720k].zip
+filename: Rock 'n Roll r911001 (1991)(Rainbow Arts Software GmbH) [IMA][720k][!].zip
 tdc_id: '6496.7'
+parent_id: '6496.8'
 title:
   box: Rock 'n Roll
 publisher: Rainbow Arts Software GmbH
@@ -8,14 +9,16 @@ genre: IMA
 language: English
 date:
   added: '2023-10-13T17:55:07'
-  last_modified: '2023-10-13T17:55:07'
+  last_modified: '2025-03-07T14:11:13'
 release: '911001'
 type: IMA
+tags:
+- KnownGood
 media: 720K
 references:
   mobygames: https://www.mobygames.com/game/2047/rock-n-roll/
 files:
-- name: disk1.ima
+- name: Disk1.ima
   size: 737280
-  date: '2007-12-16T12:43:46'
-  crc: '0x40f12510'
+  date: '2025-03-07T17:59:22'
+  crc: '0xb315b235'

@@ -1,0 +1,52 @@
+filename: Treasures of the Savage Frontier v1.1 (Installer) [h1] (1992)(Strategic Simulations, Inc.) [Adventure, Role-Playing (RPG)].zip
+tdc_id: '16896.10'
+title:
+  box: Treasures of the Savage Frontier
+publisher: Strategic Simulations, Inc.
+year: '1992'
+genre:
+- Adventure
+- Role-Playing (RPG)
+language: English
+date:
+  added: '2025-03-02T10:02:58'
+  last_modified: '2025-03-02T10:02:58'
+version: '1.1'
+type: zip
+tags:
+- Hack: 1
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/507/treasures-of-the-savage-frontier/
+files:
+- name: INSTALL.EXE
+  size: 11792
+  date: '1992-03-04T10:43:38'
+  crc: '0x8a5067c5'
+- name: TREAS1.EXE
+  size: 622887
+  date: '1992-03-08T19:06:16'
+  crc: '0x90ae2ccc'
+- name: TREAS2.EXE
+  size: 483611
+  date: '1992-06-18T13:35:02'
+  crc: '0x2f68ba54'
+- name: TREAS3.EXE
+  size: 614013
+  date: '1992-03-08T19:06:40'
+  crc: '0x85ce27fd'
+- name: TREASAVE.EXE
+  size: 18446
+  date: '1992-02-27T15:47:36'
+  crc: '0x807eb046'
+- name: TSF_D1_V1_1
+  size: 0
+  date: '1992-07-22T12:14:14'
+- name: TSF_D2_V1_1
+  size: 0
+  date: '1992-07-15T10:34:42'
+- name: TSF_D3_V1_1
+  size: 0
+  date: '1992-07-29T10:52:38'

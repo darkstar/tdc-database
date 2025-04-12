@@ -1,0 +1,67 @@
+filename: Wolfenstein 3D - Episode One v1.4 r930803 [SW] (1993)(Apogee Software, Ltd.) [Action].zip
+tdc_id: '16051.13'
+parent_id: '16051.11'
+title:
+  screen: Wolfenstein 3D - Episode One
+publisher: Apogee Software, Ltd.
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2019-03-01T18:52:30'
+  last_modified: '2025-02-15T12:33:00'
+version: '1.4'
+release: '930803'
+type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: WOLF3D.EXE
+references:
+  mobygames: https://www.mobygames.com/game/306/wolfenstein-3d/
+files:
+- name: AUDIOHED.WL1
+  size: 1156
+  date: '1993-01-01T13:40:00'
+  crc: '0x52133dc4'
+- name: AUDIOT.WL1
+  size: 132613
+  date: '1993-01-01T13:40:00'
+  crc: '0x87bfc399'
+- name: CATALOG.EXE
+  size: 28715
+  date: '1993-08-03T13:00:00'
+  crc: '0x803c7f6e'
+- name: GAMEMAPS.WL1
+  size: 27425
+  date: '1993-01-01T13:40:00'
+  crc: '0xcc53d341'
+- name: MAPHEAD.WL1
+  size: 402
+  date: '1993-01-01T13:40:00'
+  crc: '0x088f7551'
+- name: ORDER.FRM
+  size: 3321
+  date: '1993-08-03T13:00:00'
+  crc: '0x97dbb874'
+- name: VGADICT.WL1
+  size: 1024
+  date: '1993-01-01T13:40:00'
+  crc: '0x358ab877'
+- name: VGAGRAPH.WL1
+  size: 326568
+  date: '1993-01-01T13:40:00'
+  crc: '0x746da9f0'
+- name: VGAHEAD.WL1
+  size: 471
+  date: '1993-01-01T13:40:00'
+  crc: '0xa60a98f0'
+- name: VSWAP.WL1
+  size: 742912
+  date: '1993-01-01T13:40:00'
+  crc: '0x85efac55'
+- name: WOLF3D.EXE
+  size: 109959
+  date: '1993-01-01T13:40:00'
+  crc: '0x65bce7e9'

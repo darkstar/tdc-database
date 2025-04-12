@@ -1,4 +1,4 @@
-filename: Quest for Glory III- Wages of War (Installer) [a1] (1992)(Sierra On-Line, Inc.) [Adventure, Role-Playing (RPG)].zip
+filename: Quest for Glory III- Wages of War v1.0 (Installer) [a1] (1992)(Sierra On-Line, Inc.) [Adventure, Role-Playing (RPG)].zip
 tdc_id: '10820.5'
 title:
   box: 'Quest for Glory III: Wages of War'
@@ -10,11 +10,16 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:50:12'
-  last_modified: '2019-03-01T18:50:12'
+  last_modified: '2025-01-29T10:34:08'
+version: '1.0'
 type: zip
 tags:
 - Alternate: 1
 installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/173/quest-for-glory-iii-wages-of-war/
 files:
 - name: 280.HEP
   size: 3026

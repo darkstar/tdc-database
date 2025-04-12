@@ -1,18 +1,19 @@
-filename: Luigi & Spaghetti (1992)(Topo Soft) [Action].zip
+filename: Luigi & Spaghetti (Es) (1992)(Topo Soft) [Action].zip
 tdc_id: '11954.0'
 title:
   box: Luigi & Spaghetti
 publisher: Topo Soft
 year: '1992'
 genre: Action
-language: English
+language: Spanish
 date:
   added: '2019-03-01T18:49:00'
-  last_modified: '2019-03-01T18:49:00'
+  last_modified: '2025-03-10T16:21:47'
 type: zip
+commands:
+  play: TOPO.BAT
 references:
-  dosid: DOS03266
-  exodos: Luigi and Spaghetti (1992).zip
+  mobygames: https://www.mobygames.com/game/5401/luigi-spaghetti/
 files:
 - name: AGRADECE.BIN
   size: 62528

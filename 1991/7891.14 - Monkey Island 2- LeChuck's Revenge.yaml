@@ -1,5 +1,6 @@
-filename: Monkey Island 2- LeChuck's Revenge v5.2.02 (Installer) (1991)(Lucasfilm Games LLC) [Adventure].zip
+filename: Monkey Island 2- LeChuck's Revenge v1.0 (Installer) (1991)(Lucasfilm Games LLC) [Adventure][!].zip
 tdc_id: '7891.14'
+parent_id: '7891.20'
 title:
   box: 'Monkey Island 2: LeChuck''s Revenge'
 publisher: Lucasfilm Games LLC
@@ -8,40 +9,39 @@ genre: Adventure
 language: English
 date:
   added: '2019-03-01T18:37:00'
-  last_modified: '2019-03-01T18:37:00'
-version: 5.2.02
+  last_modified: '2025-03-15T13:15:50'
+version: '1.0'
 type: zip
+tags:
+- KnownGood
+media: 1.44M
 installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/289/monkey-island-2-lechucks-revenge/
 files:
 - name: INSTALL.EXE
   size: 23448
   date: '1991-11-22T18:01:12'
   crc: '0x2c2e0340'
-- name: MONKEY2.EXE
-  size: 110811
-  date: '1991-12-13T17:02:44'
-  crc: '0x0a93f8ac'
 - name: PCV10__A.MI2
-  size: 1185448
-  date: '1991-11-22T09:54:10'
-  crc: '0x886c6312'
+  size: 1426088
+  date: '1991-11-21T13:33:38'
+  crc: '0x28e784c3'
 - name: PCV10__B.MI2
-  size: 1213448
-  date: '1991-11-22T09:54:10'
-  crc: '0x2a8c04f2'
+  size: 1454088
+  date: '1991-11-21T13:33:38'
+  crc: '0xb600288e'
 - name: PCV10__C.MI2
-  size: 1213448
-  date: '1991-11-22T09:54:10'
-  crc: '0xdda34756'
+  size: 1454088
+  date: '1991-11-21T13:33:38'
+  crc: '0xe4b858f2'
 - name: PCV10__D.MI2
-  size: 1213448
-  date: '1991-11-22T09:54:10'
-  crc: '0xa9b290a5'
+  size: 1454088
+  date: '1991-11-21T13:33:38'
+  crc: '0xb33db0b4'
 - name: PCV10__E.MI2
-  size: 1213448
-  date: '1991-11-22T09:54:10'
-  crc: '0xf06096e9'
-- name: PCV10__F.MI2
-  size: 1194847
-  date: '1991-11-22T09:54:10'
-  crc: '0xdd86de70'
+  size: 1445727
+  date: '1991-11-21T13:33:38'
+  crc: '0xc1b61d84'

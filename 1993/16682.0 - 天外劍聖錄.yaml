@@ -1,5 +1,6 @@
 filename: 天外劍聖錄 (Zh) (1993)(Dynasty International Information Co., Ltd.) [Role-Playing (RPG)].zip
 tdc_id: '16682.0'
+parent_id: '16682.1'
 title:
   screen: 天外劍聖錄
   translation: 'Beyond the Heavens: Holy Sword Chronicles'
@@ -753,6 +754,10 @@ files:
   date: '1993-10-31T20:27:06'
   crc: '0xf6cd4f20'
 - name: GAME.EXE
+  size: 343220
+  date: '1993-08-01T12:43:12'
+  crc: '0x6e97a2bd'
+- name: GAME.EX_
   size: 343220
   date: '1993-10-31T20:24:54'
   crc: '0x2d38135c'

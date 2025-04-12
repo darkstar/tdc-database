@@ -41,14 +41,34 @@ files:
   date: '1992-03-30T10:44:12'
   crc: '0x0a6492d9'
 - name: LHARC.EXE
-  size: 26115
-  date: '2011-11-13T21:00:40'
-  crc: '0xb6fb57af'
+  size: 31256
+  date: '1992-02-06T17:24:50'
+  crc: '0x5edf7134'
 - name: SETUP.BAT
   size: 2466
   date: '1992-04-17T15:19:28'
   crc: '0xe8efad56'
+- name: SETUP4.BAT
+  size: 2466
+  date: '1992-04-17T15:19:28'
+  crc: '0x45d1ee5c'
 - name: TEXT
+  size: 101
+  date: '1992-04-17T15:09:20'
+  crc: '0xcdc696ad'
+- name: TEXT.2
+  size: 101
+  date: '1992-04-17T15:10:18'
+  crc: '0x6540273c'
+- name: TEXT.3
+  size: 101
+  date: '1992-04-17T15:10:52'
+  crc: '0xb086e1c2'
+- name: TEXT.4
+  size: 101
+  date: '1992-04-17T15:11:20'
+  crc: '0x7f0f2d45'
+- name: TEXT.5
   size: 100
   date: '1992-04-17T15:12:04'
   crc: '0xe3a448ce'

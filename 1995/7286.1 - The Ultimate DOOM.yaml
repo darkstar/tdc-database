@@ -1,22 +1,45 @@
-filename: Ultimate DOOM, The v1.9 (Installer) (1995)(id Software, Inc.) [Action].zip
+filename: Ultimate DOOM, The v1.9 (Installer) (1995)(GT Interactive Software Europe Ltd.) [Action][!].zip
 tdc_id: '7286.1'
+parent_id: '7286.3'
 title:
   box: The Ultimate DOOM
-publisher: id Software, Inc.
+publisher: GT Interactive Software Europe Ltd.
 year: '1995'
 genre: Action
 language: English
 date:
   added: '2019-03-02T09:07:14'
-  last_modified: '2019-03-02T09:07:14'
+  last_modified: '2025-02-16T17:16:48'
 version: '1.9'
 type: zip
+tags:
+- KnownGood
+media: 1.44M
 installer: true
+commands:
+  play: INSTALL.BAT
+references:
+  mobygames: https://www.mobygames.com/game/707/the-ultimate-doom/
 files:
 - name: DEICE.EXE
   size: 17303
   date: '1995-05-25T01:09:10'
   crc: '0xaad4552c'
+- name: DISK 1
+  size: 0
+  date: '1995-05-25T01:09:06'
+- name: DISK 2
+  size: 0
+  date: '1995-05-25T01:09:06'
+- name: DISK 3
+  size: 0
+  date: '1995-05-25T01:09:06'
+- name: DISK 4
+  size: 0
+  date: '1995-05-25T01:09:08'
+- name: DISK 5
+  size: 0
+  date: '1995-05-25T01:09:12'
 - name: DOOM_SE.1
   size: 1439232
   date: '1995-05-25T01:09:10'

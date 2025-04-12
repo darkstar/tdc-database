@@ -1,0 +1,108 @@
+filename: Strike Squad v1.0 r930919 (Installer) (1993)(Mindcraft Software, Inc.) [Strategy].zip
+tdc_id: '16198.6'
+title:
+  box: Strike Squad
+publisher: Mindcraft Software, Inc.
+year: '1993'
+genre: Strategy
+language: English
+date:
+  added: '2025-02-23T14:42:12'
+  last_modified: '2025-02-23T14:42:12'
+version: '1.0'
+release: '930919'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/9899/strike-squad/
+files:
+- name: DISK1
+  size: 11
+  date: '1993-09-19T01:00:00'
+  crc: '0x64aaa7af'
+- name: DISK2
+  size: 3
+  date: '1993-09-19T01:00:00'
+  crc: '0xe32fef56'
+- name: DISK3
+  size: 3
+  date: '1993-09-19T01:00:00'
+  crc: '0xe32fef56'
+- name: DISK4
+  size: 3
+  date: '1993-09-19T01:00:00'
+  crc: '0xe32fef56'
+- name: DISK5
+  size: 4
+  date: '1993-09-19T01:00:00'
+  crc: '0xad8bcdd9'
+- name: GAME.INF
+  size: 32
+  date: '1993-09-19T01:00:00'
+  crc: '0xe39baad4'
+- name: HELP.BAT
+  size: 39
+  date: '1993-09-19T01:00:00'
+  crc: '0x8c426a29'
+- name: HELPME.EXE
+  size: 42798
+  date: '1993-09-19T01:00:00'
+  crc: '0xb76f1b42'
+- name: INSTALL.EXE
+  size: 50320
+  date: '1993-09-19T01:00:00'
+  crc: '0x980de92c'
+- name: LASTDISK
+  size: 3
+  date: '1993-09-19T01:00:00'
+  crc: '0xe32fef56'
+- name: LOOK.COM
+  size: 10688
+  date: '1993-09-19T01:00:00'
+  crc: '0x11911507'
+- name: MEM.TXT
+  size: 1610
+  date: '1993-09-19T01:00:00'
+  crc: '0x02f47353'
+- name: README.TXT
+  size: 8567
+  date: '1993-09-19T01:00:00'
+  crc: '0x37dd3653'
+- name: REQ.TXT
+  size: 607
+  date: '1993-09-19T01:00:00'
+  crc: '0xf8c36641'
+- name: SOUND.TXT
+  size: 2065
+  date: '1993-09-19T01:00:00'
+  crc: '0x41573f75'
+- name: STRIKE1.CMP
+  size: 1244705
+  date: '1993-09-19T01:00:00'
+  crc: '0x175bd192'
+- name: STRIKE2.CMP
+  size: 1419969
+  date: '1993-09-19T01:00:00'
+  crc: '0x93e97eb0'
+- name: STRIKE3.CMP
+  size: 1306612
+  date: '1993-09-19T01:00:00'
+  crc: '0xfa5aabda'
+- name: STRIKE3A.CMP
+  size: 45325
+  date: '1993-09-19T01:00:00'
+  crc: '0x8150b22a'
+- name: STRIKE4.CMP
+  size: 1430083
+  date: '1993-09-19T01:00:00'
+  crc: '0x1cd42046'
+- name: STRIKE5.CMP
+  size: 1395148
+  date: '1993-09-19T01:00:00'
+  crc: '0xa5c79234'
+- name: SYSTEM.TXT
+  size: 2035
+  date: '1993-09-19T01:00:00'
+  crc: '0xe7d413e5'

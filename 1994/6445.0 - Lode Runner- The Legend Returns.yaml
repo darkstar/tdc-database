@@ -1,4 +1,4 @@
-filename: Lode Runner- The Legend Returns v1.0 (Installer) (1994)(Sierra On-Line, Inc.) [Action, Strategy].zip
+filename: Lode Runner- The Legend Returns v1.0 (Installer) (1994)(Sierra On-Line, Inc.) [Action, Strategy][!].zip
 tdc_id: '6445.0'
 parent_id: '6445.1'
 title:
@@ -11,15 +11,17 @@ genre:
 language: English
 date:
   added: '2019-03-01T22:01:44'
-  last_modified: '2023-07-15T13:08:54'
+  last_modified: '2025-03-16T12:37:36'
 version: '1.0'
 type: zip
+tags:
+- KnownGood
 media: 1.44M
 installer: true
+commands:
+  play: INSTALL.EXE
 references:
   mobygames: https://www.mobygames.com/game/1131/lode-runner-the-legend-returns/
-  dosid: DOS03208
-  exodos: Lode Runner - The Legend Returns (1994).zip
 files:
 - name: INSTALL.EXE
   size: 77191

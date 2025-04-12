@@ -1,5 +1,6 @@
-filename: Zork II- The Wizard of Frobozz r48 (Installer) (1985)(Infocom, Inc.) [Adventure, Interactive Fiction][!].zip
+filename: Zork II- The Wizard of Frobozz r48-L (Installer) (1985)(Infocom, Inc.) [Adventure, Interactive Fiction][!].zip
 tdc_id: '15700.2'
+parent_id: '15700.11'
 title:
   box: 'Zork II: The Wizard of Frobozz'
 publisher: Infocom, Inc.
@@ -10,13 +11,18 @@ genre:
 language: English
 date:
   added: '2022-06-09T13:11:40'
-  last_modified: '2022-06-09T13:11:40'
-release: '48'
+  last_modified: '2025-02-06T12:49:37'
+release: 48-L
 type: zip
 tags:
 - KnownGood
+media: 360K
 installer: true
+commands:
+  play: ZORK2.COM
+  setup: SETUP.EXE
 references:
+  mobygames: https://www.mobygames.com/game/52/zork-ii-the-wizard-of-frobozz/
   dosid: DOS06015
   exodos: Zork II - The Wizard of Frobozz (1981).zip
 files:

@@ -1,0 +1,38 @@
+filename: Star Crusader- Speech Pack (Installer) (1994)(GameTek UK Ltd.) [Simulation, Addon].zip
+tdc_id: '15497.6'
+parent_id: '15497.19'
+title:
+  box: 'Star Crusader: Speech Pack'
+publisher: GameTek UK Ltd.
+year: '1994'
+genre:
+- Simulation
+- Addon
+language: English
+date:
+  added: '2025-03-05T09:01:15'
+  last_modified: '2025-03-05T09:01:15'
+type: zip
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1490/star-crusader/
+files:
+- name: DISK1.SCS
+  size: 1441280
+  date: '1994-10-17T14:57:18'
+  crc: '0x11559d4f'
+- name: DISK2.SCS
+  size: 1457664
+  date: '1994-10-17T14:58:12'
+  crc: '0xa1b6280b'
+- name: DISK3.SCS
+  size: 538391
+  date: '1994-10-17T14:58:48'
+  crc: '0xfbe4e1e0'
+- name: INSTALL.EXE
+  size: 16128
+  date: '1994-10-06T09:07:38'
+  crc: '0xb5a23ef3'

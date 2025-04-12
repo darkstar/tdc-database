@@ -1,4 +1,4 @@
-filename: Infidel r22 [DC] (1983)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+filename: Infidel r22-A [DC] (1983)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
 tdc_id: '11486.5'
 parent_id: '11486.4'
 title:
@@ -11,14 +11,16 @@ genre:
 language: English
 date:
   added: '2022-06-05T09:53:40'
-  last_modified: '2022-06-05T09:53:40'
-release: '22'
+  last_modified: '2025-02-06T14:28:10'
+release: 22-A
 type: zip
 tags:
 - DOSConversion
 media: 360K
 commands:
   play: INFIDEL.COM
+references:
+  mobygames: https://www.mobygames.com/game/62/infidel/
 files:
 - name: INFIDEL.COM
   size: 12928

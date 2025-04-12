@@ -1,7 +1,9 @@
-filename: Zork III- The Dungeon Master r17 (Installer) (1985)(Infocom, Inc.) [Adventure, Interactive Fiction][!].zip
+filename: Zork III- The Dungeon Master r17-L (Installer) (1985)(Infocom, Inc.) [Adventure, Interactive Fiction][!].zip
 tdc_id: '15701.1'
+parent_id: '15701.9'
 title:
   box: 'Zork III: The Dungeon Master'
+  qualifier: Installer
 publisher: Infocom, Inc.
 year: '1985'
 genre:
@@ -10,12 +12,18 @@ genre:
 language: English
 date:
   added: '2022-04-17T10:01:26'
-  last_modified: '2022-04-17T10:01:26'
-release: '17'
+  last_modified: '2025-02-06T14:58:15'
+release: 17-L
 type: zip
 tags:
 - KnownGood
+media: 360K
 installer: true
+commands:
+  play: ZORK3.COM
+  setup: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/53/zork-iii-the-dungeon-master/
 files:
 - name: AF.EXE
   size: 13168

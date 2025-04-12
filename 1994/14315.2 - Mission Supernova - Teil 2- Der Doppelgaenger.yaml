@@ -1,0 +1,38 @@
+filename: Mission Supernova - Teil 2- Der Doppelgaenger v1.01 (Installer) (De) [SWR] (1994)(Mad Data, Thomas & Steffen Dingel) [Adventure].zip
+tdc_id: '14315.2'
+title:
+  box: 'Mission Supernova - Teil 2: Der Doppelgaenger'
+publisher: Mad Data, Thomas & Steffen Dingel
+year: '1994'
+genre: Adventure
+language: German
+date:
+  added: '2025-03-10T08:46:44'
+  last_modified: '2025-03-10T08:46:44'
+version: '1.01'
+type: zip
+tags:
+- SharewareRegistered
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/4582/mission-supernova/
+files:
+- name: HILFE1
+  size: 11264
+  date: '1994-01-10T00:07:04'
+  crc: '0x5e3254ab'
+- name: HILFE2
+  size: 11264
+  date: '1994-01-10T00:07:04'
+  crc: '0x72419a35'
+- name: INSTALL.EXE
+  size: 15360
+  date: '1994-01-10T00:07:04'
+  crc: '0x27b4cccc'
+- name: MS2_V101
+  size: 1145135
+  date: '1994-01-10T00:07:04'
+  crc: '0xc748c03f'

@@ -1,0 +1,47 @@
+filename: Daniel the Dinosaur Teaches Concepts- Same and Different v1.00 (Installer) (1993)(Software Enterprise Limited) [Educational].zip
+tdc_id: '8470.1'
+parent_id: '8470.0'
+title:
+  box: 'Daniel the Dinosaur Teaches Concepts: Same and Different'
+publisher: Software Enterprise Limited
+year: '1993'
+genre: Educational
+language: English
+date:
+  added: '2025-01-27T17:00:03'
+  last_modified: '2025-01-27T17:00:03'
+version: '1.00'
+type: zip
+media: 720K
+installer: true
+commands:
+  play: INSTALL.EXE
+files:
+- name: DAN.ZIP
+  size: 166475
+  date: '1993-10-09T05:54:54'
+  crc: '0xda85e27e'
+- name: ECHO.ZIP
+  size: 174
+  date: '1993-10-09T05:59:50'
+  crc: '0x940f06f8'
+- name: INSTALL.EXE
+  size: 62328
+  date: '1993-10-20T12:25:46'
+  crc: '0x9b31f9c4'
+- name: NOSND.ZIP
+  size: 139
+  date: '1993-10-09T05:58:30'
+  crc: '0x344fe584'
+- name: PKUNZIP.EXE
+  size: 29378
+  date: '1993-02-01T02:04:16'
+  crc: '0x00832770'
+- name: SBLAST.ZIP
+  size: 13069
+  date: '1993-10-09T06:17:56'
+  crc: '0x56194c52'
+- name: SBPRO.ZIP
+  size: 13071
+  date: '1993-10-11T20:32:24'
+  crc: '0xb85eebe7'

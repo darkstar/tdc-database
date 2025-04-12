@@ -1,18 +1,23 @@
-filename: Star Crusader [SW] (1994)(GameTek, Inc.) [Simulation].zip
+filename: Star Crusader (demo) (1994)(GameTek, Inc., PC Gamer) [Simulation].zip
 tdc_id: '15497.2'
+parent_id: '15497.5'
 title:
   screen: Star Crusader
-publisher: GameTek, Inc.
+  qualifier: demo
+publisher: GameTek, Inc., PC Gamer
 year: '1994'
 genre: Simulation
 language: English
 date:
   added: '2019-03-02T07:17:42'
-  last_modified: '2019-03-02T07:17:42'
+  last_modified: '2025-03-17T14:27:41'
 type: zip
-tags:
-- Shareware
-media: Download
+demo: true
+commands:
+  play: SC.COM
+  setup: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1490/star-crusader/
 files:
 - name: CRUSADER.GL
   size: 314120

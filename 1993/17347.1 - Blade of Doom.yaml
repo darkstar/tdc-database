@@ -1,0 +1,63 @@
+filename: Blade of Doom (Installer) (De) [SW] (1993)(UD Software) [Role-Playing (RPG)].zip
+tdc_id: '17347.1'
+title:
+  screen: Blade of Doom
+publisher: UD Software
+year: '1993'
+genre: Role-Playing (RPG)
+language: German
+date:
+  added: '2025-04-01T09:44:41'
+  last_modified: '2025-04-01T09:44:41'
+type: zip
+tags:
+- Shareware
+media: Download
+installer: true
+commands:
+  play: INSTALL.BAT
+files:
+- name: BESTELL.TXT
+  size: 1154
+  date: '1993-04-03T23:36:48'
+  crc: '0xf78e6ed5'
+- name: BODALL.EXE
+  size: 218207
+  date: '1993-04-03T23:30:16'
+  crc: '0x614bfde8'
+- name: DNGS.EXE
+  size: 10860
+  date: '1993-04-03T23:04:44'
+  crc: '0xef1176f6'
+- name: INSTALL.BAT
+  size: 1202
+  date: '1993-04-03T23:23:14'
+  crc: '0x2a43bd45'
+- name: ITEMS.EXE
+  size: 19030
+  date: '1993-04-03T23:03:44'
+  crc: '0x835720ee'
+- name: LIESMICH.TXT
+  size: 4191
+  date: '1993-04-27T14:19:18'
+  crc: '0x5ae9a05a'
+- name: MONSTERS.EXE
+  size: 11712
+  date: '1993-04-03T23:04:02'
+  crc: '0xa9cd19bf'
+- name: NEWGAM.EXE
+  size: 10866
+  date: '1993-04-03T23:05:10'
+  crc: '0x2c78e997'
+- name: SNDS.EXE
+  size: 97845
+  date: '1993-04-03T23:04:20'
+  crc: '0x5cab0d7b'
+- name: TIMS.EXE
+  size: 229166
+  date: '1993-04-03T23:03:22'
+  crc: '0x5217dd23'
+- name: TXTS.EXE
+  size: 50979
+  date: '1993-04-03T23:04:34'
+  crc: '0x91f8d3fd'

@@ -1,0 +1,92 @@
+filename: Star Crusader v1.01 CD (Installer) (De) (1994)(GameTek UK Ltd.) [Simulation].zip
+tdc_id: '15497.15'
+parent_id: '15497.14'
+title:
+  box: Star Crusader
+publisher: GameTek UK Ltd.
+year: '1994'
+genre: Simulation
+language: German
+date:
+  added: '2025-03-05T15:01:09'
+  last_modified: '2025-03-05T15:01:09'
+version: '1.01'
+type: zip
+media: CD-ROM
+installer: true
+commands:
+  play: START.BAT
+references:
+  mobygames: https://www.mobygames.com/game/1490/star-crusader/
+files:
+- name: INSTALL.EXE
+  size: 14147
+  date: '1994-10-03T18:06:56'
+  crc: '0x31ea644c'
+- name: NSP\
+  size: 0
+  date: '1994-10-18T15:55:24'
+- name: NSP\3DFLUFF.GL
+  size: 4298531
+  date: '1994-06-21T21:28:52'
+  crc: '0xfd97fd43'
+- name: NSP\3DVOICES.VL
+  size: 16187494
+  date: '1994-09-13T14:00:56'
+  crc: '0xc1dbb0f2'
+- name: NSP\BRIEFSND.SL
+  size: 81192872
+  date: '1994-09-09T15:30:42'
+  crc: '0x0aa9f709'
+- name: NSP\CRUSADER.GL
+  size: 1032874
+  date: '1995-06-08T17:17:28'
+  crc: '0xfd478234'
+- name: NSP\NSP.DAT
+  size: 1307
+  date: '1994-07-25T15:17:34'
+  crc: '0x62486174'
+- name: NSP\NSP2D.DAT
+  size: 110154
+  date: '1994-10-10T05:26:08'
+  crc: '0xee3dc3be'
+- name: NSP\NSP3D.DAT
+  size: 216552
+  date: '1994-10-04T15:09:06'
+  crc: '0x1708a358'
+- name: NSP\NSP3D.GL
+  size: 2278755
+  date: '1994-10-04T14:15:18'
+  crc: '0xc65d196c'
+- name: NSP\NSP4D.DAT
+  size: 52953
+  date: '1994-10-18T15:31:22'
+  crc: '0x8d14b4ff'
+- name: NSP\NSP4D.GL
+  size: 69738499
+  date: '1994-10-18T15:32:54'
+  crc: '0x8998af24'
+- name: NSP\NSPCD.DAT
+  size: 1465
+  date: '1994-10-17T10:55:10'
+  crc: '0x83c41105'
+- name: NSP\SETUP.EXE
+  size: 20770
+  date: '1994-10-04T17:59:42'
+  crc: '0x0c94f897'
+- name: NSP\SETUP.GL
+  size: 28580
+  date: '1994-08-14T16:09:58'
+  crc: '0x54b6a805'
+- name: NSP\SPEECH.PAK
+  size: 4732991
+  date: '1994-09-26T17:38:36'
+  crc: '0x1517dd3b'
+- name: SC.COM
+  size: 2114
+  date: '1980-01-01T00:00:00'
+  crc: '0x18d181d9'
+- name: START.BAT
+  size: 27
+  date: '1980-01-01T00:00:00'
+  crc: '0x2c406cee'

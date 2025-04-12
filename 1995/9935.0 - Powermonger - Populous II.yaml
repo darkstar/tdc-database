@@ -1,8 +1,9 @@
-filename: Powermonger - Populous II (Installer) (1995)(Electronic Arts, Inc.) [Strategy, Compilation].zip
+filename: PowerMonger - Populous II (Installer) (1995)(Electronic Arts Ltd.) [Strategy, Compilation].zip
 tdc_id: '9935.0'
+parent_id: '9935.1'
 title:
-  box: Powermonger - Populous II
-publisher: Electronic Arts, Inc.
+  box: PowerMonger - Populous II
+publisher: Electronic Arts Ltd.
 year: '1995'
 genre:
 - Strategy
@@ -10,10 +11,14 @@ genre:
 language: English
 date:
   added: '2021-02-18T13:07:10'
-  last_modified: '2021-02-18T13:07:10'
+  last_modified: '2025-01-27T09:37:08'
 type: zip
+media: CD-ROM
 installer: true
-compilation: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/25303/powermonger-populous-ii/
 files:
 - name: ACROBAT.CAT
   size: 2584468

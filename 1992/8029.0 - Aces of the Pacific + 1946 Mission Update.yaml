@@ -15,6 +15,7 @@ version: B
 type: zip
 media: Download
 installer: true
+patch: true
 files:
 - name: ACEOPAC.1
   size: 1400000

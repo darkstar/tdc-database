@@ -1,17 +1,23 @@
-filename: Ultimate DOOM, The v1.9 (1995)(id Software, Inc.) [Action].zip
+filename: Ultimate DOOM, The v1.9 (1995)(GT Interactive Software Europe Ltd.) [Action].zip
 tdc_id: '7286.0'
+parent_id: '7286.1'
 title:
   box: The Ultimate DOOM
-publisher: id Software, Inc.
+publisher: GT Interactive Software Europe Ltd.
 year: '1995'
 genre: Action
 language: English
 date:
   added: '2019-03-02T09:07:14'
-  last_modified: '2019-03-02T09:07:14'
+  last_modified: '2025-02-16T17:17:44'
 version: '1.9'
 type: zip
+media: 1.44M
+commands:
+  play: DOOM.EXE
+  setup: SETUP.EXE
 references:
+  mobygames: https://www.mobygames.com/game/707/the-ultimate-doom/
   dosid: DOS05391
   exodos: Ultimate DOOM, The (1995).zip
 files:

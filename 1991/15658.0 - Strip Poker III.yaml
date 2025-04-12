@@ -1,4 +1,4 @@
-filename: Strip Poker III (1991)(Artworx Software Company, Inc.) [Strategy, Adult].zip
+filename: Strip Poker III (1991)(Artworx Software Company, Inc.) [Strategy, Cards, Adult].zip
 tdc_id: '15658.0'
 title:
   box: Strip Poker III
@@ -6,15 +6,17 @@ publisher: Artworx Software Company, Inc.
 year: '1991'
 genre:
 - Strategy
+- Cards
 - Adult
 language: English
 date:
   added: '2019-03-01T18:39:34'
-  last_modified: '2019-03-01T18:39:34'
+  last_modified: '2025-03-01T18:42:53'
 type: zip
+commands:
+  play: STRIP.EXE
 references:
-  dosid: DOS04906
-  exodos: Strip Poker III (1991).zip
+  mobygames: https://www.mobygames.com/game/6540/strip-poker-iii/
 files:
 - name: CARDBACK.EGA
   size: 2184

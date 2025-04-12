@@ -1,15 +1,20 @@
-filename: Strong Lines (1994)(Homebrew Software) [Action].zip
+filename: Strong Lines [SW] (1994)(Homebrew Software, Mad Data, WSP) [Action].zip
 tdc_id: '15670.0'
 title:
-  box: Strong Lines
-publisher: Homebrew Software
+  screen: Strong Lines
+publisher: Homebrew Software, Mad Data, WSP
 year: '1994'
 genre: Action
 language: English
 date:
   added: '2019-03-02T07:17:46'
-  last_modified: '2019-03-02T07:17:46'
+  last_modified: '2025-04-07T15:36:20'
 type: zip
+tags:
+- Shareware
+media: Download
+commands:
+  play: START.BAT
 files:
 - name: 0.EXE
   size: 21871
@@ -95,10 +100,6 @@ files:
   size: 274
   date: '1994-12-10T01:00:00'
   crc: '0x6578ca63'
-- name: 29.DAT
-  size: 340
-  date: '1994-12-10T01:00:00'
-  crc: '0x1ec9b5a5'
 - name: 3.DAT
   size: 33588
   date: '1994-12-10T01:00:00'
@@ -111,18 +112,6 @@ files:
   size: 33180
   date: '1994-12-10T01:00:00'
   crc: '0x29851db5'
-- name: '@DIRNAME.000'
-  size: 256
-  date: '1994-12-10T01:00:00'
-  crc: '0xc1ab5707'
-- name: BBS.DOC
-  size: 475
-  date: '1994-12-10T01:00:00'
-  crc: '0xd5432e35'
-- name: DESCRIBE.DOC
-  size: 4463
-  date: '1994-12-10T01:00:00'
-  crc: '0x864e73db'
 - name: HBTITL.VOC
   size: 42624
   date: '1994-12-10T01:00:00'
@@ -135,23 +124,7 @@ files:
   size: 8396
   date: '1994-12-10T01:00:00'
   crc: '0xea33a51a'
-- name: ORDER.DOC
-  size: 2839
-  date: '1994-12-10T01:00:00'
-  crc: '0x1e4fb88e'
 - name: START.BAT
   size: 67
   date: '1994-12-10T01:00:00'
   crc: '0x09ad0580'
-- name: SYSOP.DOC
-  size: 7043
-  date: '1994-12-10T01:00:00'
-  crc: '0xbf8435a4'
-- name: VENDOR.DOC
-  size: 10563
-  date: '1994-12-10T01:00:00'
-  crc: '0xb3e45e6a'
-- name: WARRANTY.DOC
-  size: 2545
-  date: '1994-12-10T01:00:00'
-  crc: '0x9caa82a1'

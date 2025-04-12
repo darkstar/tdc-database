@@ -1,5 +1,6 @@
-filename: Nightmare on Elm Street, A v2.0 (1989)(ShareData, Inc.) [Action, Adventure].zip
+filename: Nightmare on Elm Street, A v2.0 (1989)(ShareData, Inc.) [Action, Adventure][!].zip
 tdc_id: '9909.1'
+parent_id: '9909.3'
 title:
   box: A Nightmare on Elm Street
 publisher: ShareData, Inc.
@@ -10,15 +11,23 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:28:30'
-  last_modified: '2019-03-01T18:28:30'
+  last_modified: '2025-03-30T16:58:24'
 version: '2.0'
 type: zip
+tags:
+- KnownGood
+media: 360K
 commands:
   play: DREAM.EXE
 references:
-  dosid: DOS00797
-  exodos: Nightmare on Elm Street, A (1989).zip
+  mobygames: https://www.mobygames.com/game/1791/a-nightmare-on-elm-street/
 files:
+- name: 600445B
+  size: 0
+  date: '1989-10-16T07:58:12'
+- name: 600446B
+  size: 0
+  date: '1989-10-16T07:57:18'
 - name: AMANDA.ANM
   size: 2050
   date: '1989-09-14T00:06:14'

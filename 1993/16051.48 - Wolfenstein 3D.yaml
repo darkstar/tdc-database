@@ -1,0 +1,59 @@
+filename: Wolfenstein 3D v1.4 r930101 [SWR] (1993)(Apogee Software, Ltd.) [Action].zip
+tdc_id: '16051.48'
+parent_id: '16051.47'
+title:
+  screen: Wolfenstein 3D
+publisher: Apogee Software, Ltd.
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2025-02-15T12:23:19'
+  last_modified: '2025-02-15T12:23:19'
+version: '1.4'
+release: '930101'
+type: zip
+tags:
+- SharewareRegistered
+media: Download
+commands:
+  play: WOLF3D.EXE
+references:
+  mobygames: https://www.mobygames.com/game/306/wolfenstein-3d/
+files:
+- name: AUDIOHED.WL6
+  size: 1156
+  date: '1993-01-01T13:40:30'
+  crc: '0x2f3bcb70'
+- name: AUDIOT.WL6
+  size: 320209
+  date: '1993-01-01T13:40:30'
+  crc: '0xc79efd4c'
+- name: GAMEMAPS.WL6
+  size: 150652
+  date: '1993-01-01T13:40:30'
+  crc: '0xada5c827'
+- name: MAPHEAD.WL6
+  size: 402
+  date: '1993-01-01T13:40:30'
+  crc: '0x015803e9'
+- name: VGADICT.WL6
+  size: 1024
+  date: '1993-01-01T13:40:30'
+  crc: '0x0be27100'
+- name: VGAGRAPH.WL6
+  size: 334506
+  date: '1993-01-01T13:40:30'
+  crc: '0x6aa208a5'
+- name: VGAHEAD.WL6
+  size: 486
+  date: '1993-01-01T13:40:30'
+  crc: '0xeddd83f8'
+- name: VSWAP.WL6
+  size: 1545400
+  date: '1993-01-01T13:40:30'
+  crc: '0x859e8ffc'
+- name: WOLF3D.EXE
+  size: 110715
+  date: '1993-01-01T13:40:30'
+  crc: '0xfbe11eb3'

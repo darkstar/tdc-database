@@ -1,0 +1,85 @@
+filename: Hurlements v1.01 (En)(Fr)(De) (1988)(Ubi Soft Entertainment Software) [Action, Adventure].zip
+tdc_id: '11361.2'
+parent_id: '11361.0'
+title:
+  screen: Hurlements
+publisher: Ubi Soft Entertainment Software
+year: '1988'
+genre:
+- Action
+- Adventure
+language:
+- English
+- French
+- German
+date:
+  added: '2025-02-25T07:57:58'
+  last_modified: '2025-02-25T10:33:58'
+version: '1.01'
+type: zip
+media: Download
+commands:
+  play: HURLE.BAT
+references:
+  mobygames: https://www.mobygames.com/game/193519/hurlements/
+files:
+- name: CHGCOLOR.COM
+  size: 863
+  date: '1988-04-12T22:11:38'
+  crc: '0xa0c09152'
+- name: HURLE.BAT
+  size: 466
+  date: '2013-03-10T11:02:38'
+  crc: '0x046dfbda'
+- name: HURLE.BCK
+  size: 5890
+  date: '2013-02-23T12:24:46'
+  crc: '0xd4ec20b2'
+- name: HURLE.FG
+  size: 9984
+  date: '1988-07-18T00:00:00'
+  crc: '0x7a9db54b'
+- name: HURLE.FNT
+  size: 336
+  date: '1988-07-18T00:00:00'
+  crc: '0xa3dd7f86'
+- name: HURLE.FP
+  size: 10240
+  date: '1988-07-18T00:00:00'
+  crc: '0x15af1f3c'
+- name: HURLE.GRP
+  size: 30930
+  date: '1988-07-18T00:00:00'
+  crc: '0x2bcdfdae'
+- name: HURLE.PRE
+  size: 24038
+  date: '1988-07-18T00:00:00'
+  crc: '0xc8a52d4c'
+- name: HURLE.SCR
+  size: 16000
+  date: '2012-03-16T15:29:42'
+  crc: '0xad505c1e'
+- name: HURLE.TXT
+  size: 1172
+  date: '2012-07-03T22:09:08'
+  crc: '0xa18b21a7'
+- name: H_C.EXE
+  size: 73200
+  date: '2013-02-24T15:21:52'
+  crc: '0x17b536c0'
+- name: LIEUX.DTA
+  size: 5504
+  date: '1988-07-18T00:00:00'
+  crc: '0xb314cd92'
+- name: LIEUX.GRP
+  size: 163840
+  date: '1988-07-18T00:00:00'
+  crc: '0x6e7e2ec5'
+- name: OBJETS.DTA
+  size: 141
+  date: '1988-07-18T00:00:00'
+  crc: '0xdaae0976'
+- name: PLAN.DTA
+  size: 384
+  date: '1988-07-18T00:00:00'
+  crc: '0x0c437b3d'

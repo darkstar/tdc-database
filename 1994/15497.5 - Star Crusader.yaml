@@ -1,0 +1,32 @@
+filename: Star Crusader (demo) (Installer) (1994)(GameTek, Inc., PC Gamer) [Simulation].zip
+tdc_id: '15497.5'
+title:
+  box: Star Crusader
+  qualifier: demo
+publisher: GameTek, Inc., PC Gamer
+year: '1994'
+genre: Simulation
+language: English
+date:
+  added: '2025-03-04T14:51:18'
+  last_modified: '2025-03-04T14:51:18'
+type: zip
+installer: true
+demo: true
+commands:
+  play: INSTALL.BAT
+references:
+  mobygames: https://www.mobygames.com/game/1490/star-crusader/
+files:
+- name: INSTALL.BAT
+  size: 408
+  date: '1994-08-15T11:38:14'
+  crc: '0x428efacc'
+- name: PKUNZIP.EXE
+  size: 29378
+  date: '1993-02-01T01:04:16'
+  crc: '0x00832770'
+- name: STARCRDE.ZIP
+  size: 1155765
+  date: '1994-08-15T09:53:12'
+  crc: '0xe6e2b339'

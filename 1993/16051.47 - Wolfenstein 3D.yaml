@@ -1,0 +1,43 @@
+filename: Wolfenstein 3D v1.4 r930101 (Installer) [SWR] (1993)(Apogee Software, Ltd.) [Action].zip
+tdc_id: '16051.47'
+title:
+  screen: Wolfenstein 3D
+publisher: Apogee Software, Ltd.
+year: '1993'
+genre: Action
+language: English
+date:
+  added: '2025-02-15T12:22:37'
+  last_modified: '2025-02-15T12:22:37'
+version: '1.4'
+release: '930101'
+type: zip
+tags:
+- SharewareRegistered
+media: Download
+installer: true
+commands:
+  play: INSTALL.BAT
+references:
+  mobygames: https://www.mobygames.com/game/306/wolfenstein-3d/
+files:
+- name: CATALOG.EXE
+  size: 24748
+  date: '1993-01-01T13:40:00'
+  crc: '0xf96fb0d1'
+- name: DEICE.EXE
+  size: 17303
+  date: '1993-01-01T13:40:00'
+  crc: '0xaad4552c'
+- name: INSTALL.BAT
+  size: 83
+  date: '1993-01-01T13:40:00'
+  crc: '0x234aaaeb'
+- name: WOLF1-6.1
+  size: 1172073
+  date: '1993-01-01T13:40:00'
+  crc: '0x85191618'
+- name: WOLF1-6.DAT
+  size: 236
+  date: '1993-01-01T13:40:00'
+  crc: '0x2e70fd5a'

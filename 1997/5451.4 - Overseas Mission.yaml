@@ -1,0 +1,128 @@
+filename: Overseas Mission [f1] (1997)(Electronic Music and Animated Graphics Co., Ltd., A4Tech Co., Ltd.) [Action].zip
+tdc_id: '5451.4'
+parent_id: '5451.3'
+title:
+  box: Overseas Mission
+publisher: Electronic Music and Animated Graphics Co., Ltd., A4Tech Co., Ltd.
+year: '1997'
+genre: Action
+language: English
+date:
+  added: '2021-11-06T01:41:00'
+  last_modified: '2025-01-27T15:13:03'
+type: zip
+tags:
+- Fixed: 1
+media: CD-ROM
+audio:
+- CD-DA
+commands:
+  play: PLAY.BAT
+  setup: SETUP.BAT
+references:
+  mobygames: https://www.mobygames.com/game/89143/ad-cop-overseas-mission/
+files:
+- name: ADCOP.CFG
+  size: 376
+  date: '2021-11-04T06:55:20'
+  crc: '0x57857910'
+- name: ADCOP.GAD
+  size: 14389378
+  date: '2021-11-06T05:07:42'
+  crc: '0x6f0498b6'
+- name: API4GW.INI
+  size: 903
+  date: '2021-11-06T05:07:38'
+  crc: '0xa95545e1'
+- name: COP.EXE
+  size: 1435088
+  date: '2021-11-06T05:07:42'
+  crc: '0x8a8ded4d'
+- name: DEFS.SCR
+  size: 9265
+  date: '2021-11-06T05:07:42'
+  crc: '0x97fda98e'
+- name: DIGPAK.ADV
+  size: 400
+  date: '2021-11-06T05:10:28'
+  crc: '0x1bca46c6'
+- name: DIGPAK.COM
+  size: 4798
+  date: '2021-11-06T05:10:28'
+  crc: '0xb47ce8d0'
+- name: DOS4GVM.CFG
+  size: 356
+  date: '2021-11-06T05:07:38'
+  crc: '0x8b877e19'
+- name: DOS4GW.EXE
+  size: 265420
+  date: '2021-11-06T05:07:38'
+  crc: '0xcb214447'
+- name: HISCORE
+  size: 88
+  date: '2021-11-04T15:07:14'
+  crc: '0x7029ce9f'
+- name: IPXNET.EXE
+  size: 17332
+  date: '2021-11-06T05:07:42'
+  crc: '0x58c3a807'
+- name: IPXPLAY.BAT
+  size: 92
+  date: '2021-11-06T05:07:42'
+  crc: '0xb185f493'
+- name: MIDPAK.ADV
+  size: 16263
+  date: '2021-11-06T05:10:28'
+  crc: '0x8a32bcf4'
+- name: MIDPAK.COM
+  size: 13456
+  date: '2021-11-06T05:10:28'
+  crc: '0x8d623b15'
+- name: MIDPAK.OPL
+  size: 3622
+  date: '2021-11-06T05:10:28'
+  crc: '0xbbdffaba'
+- name: MUSIC.MPF
+  size: 273860
+  date: '2021-11-06T05:07:44'
+  crc: '0x1369238e'
+- name: MUSIC.SCR
+  size: 652
+  date: '2021-11-06T05:07:42'
+  crc: '0x4c7b12ce'
+- name: PLAY.BAT
+  size: 83
+  date: '2021-11-06T05:07:44'
+  crc: '0x31fd1612'
+- name: SETUP.BAT
+  size: 54
+  date: '2021-11-06T05:07:44'
+  crc: '0xeefb9f25'
+- name: SETVM.BAT
+  size: 37
+  date: '2021-11-06T05:07:42'
+  crc: '0xa3700c74'
+- name: SNDSETUP.CFG
+  size: 32
+  date: '2021-11-06T05:10:28'
+  crc: '0xebacfbcb'
+- name: SNDSETUP.DRV
+  size: 273604
+  date: '2021-11-06T05:07:38'
+  crc: '0x77a2e784'
+- name: SNDSETUP.EXE
+  size: 221922
+  date: '2021-11-06T05:07:38'
+  crc: '0xba8c9938'
+- name: SOUND.DPF
+  size: 591094
+  date: '2021-11-06T05:07:42'
+  crc: '0xf9de6efe'
+- name: SOUND.SCR
+  size: 2248
+  date: '2021-11-06T05:07:42'
+  crc: '0x303d5a5c'
+- name: THINGS.SCR
+  size: 138782
+  date: '2021-11-06T05:07:42'
+  crc: '0xd4cc8796'

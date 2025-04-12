@@ -1,17 +1,24 @@
-filename: Lost in Time v0.12 (Installer) (Fr) (1993)(Coktel Vision) [Adventure].zip
+filename: Lost in Time part 1 v0.12 (Installer) (Fr) (1993)(Coktel Vision) [Adventure].zip
 tdc_id: '11912.3'
+parent_id: '11912.19'
 title:
   box: Lost in Time
+  qualifier: part 1
 publisher: Coktel Vision
 year: '1993'
 genre: Adventure
 language: French
 date:
   added: '2019-03-01T19:12:06'
-  last_modified: '2019-03-01T19:12:06'
+  last_modified: '2025-03-17T09:09:14'
 version: '0.12'
 type: zip
+media: 1.44M
 installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/6098/lost-in-time/
 files:
 - name: CAT2.#04
   size: 2149
@@ -44,19 +51,15 @@ files:
 - name: INTRO.STK
   size: 72318
   date: '1993-04-29T15:47:40'
-  crc: '0xe89ec144'
+  crc: '0xf0b729d0'
 - name: LOST.EXE
   size: 92826
-  date: '1993-05-09T18:38:18'
+  date: '1993-04-30T11:12:48'
   crc: '0x4a67e434'
 - name: LOST.ICO
   size: 766
   date: '1993-04-04T19:32:50'
   crc: '0x14cd4c7e'
-- name: LOST.PIF
-  size: 967
-  date: '2000-04-29T20:08:10'
-  crc: '0xaaa4bbc3'
 - name: MDO.DEF
   size: 175
   date: '1993-04-27T14:28:54'

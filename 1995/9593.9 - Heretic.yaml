@@ -1,6 +1,6 @@
 filename: Heretic v1.2 [SWR] (1995)(id Software, Inc.) [Action].zip
 tdc_id: '9593.9'
-parent_id: '9593.7'
+parent_id: '9593.11'
 title:
   screen: Heretic
 publisher: id Software, Inc.
@@ -18,87 +18,71 @@ references:
   dosid: DOS02582
   exodos: Heretic (1994).zip
 files:
-- name: DM.EXE
-  size: 20937
-  date: '1995-04-09T19:57:04'
-  crc: '0xbaaab071'
-- name: DM.TXT
-  size: 6397
-  date: '1994-12-24T00:17:46'
-  crc: '0xe272977c'
 - name: DWANGO.EXE
   size: 73621
-  date: '1995-06-28T01:02:58'
+  date: '1995-06-28T01:02:00'
   crc: '0xa8c969ce'
 - name: DWANGO.SRV
   size: 328
-  date: '1995-06-28T01:02:58'
+  date: '1995-06-28T01:02:00'
   crc: '0x86846150'
 - name: DWANGO.STR
   size: 2536
-  date: '1994-12-24T00:17:46'
+  date: '1995-06-28T01:02:00'
   crc: '0x9429e073'
 - name: DWANGO.TXT
   size: 11197
-  date: '1995-06-28T01:02:58'
+  date: '1995-06-28T01:02:00'
   crc: '0x433ece18'
-- name: FILE_ID.DIZ
-  size: 462
-  date: '1995-06-28T01:02:58'
-  crc: '0x236ae36c'
 - name: HELPME.TXT
   size: 4662
-  date: '1995-06-28T01:02:58'
+  date: '1995-06-28T01:02:00'
   crc: '0xca3cd92f'
 - name: HERETIC.EXE
   size: 728031
-  date: '1995-06-28T01:02:58'
+  date: '1995-06-28T01:02:00'
   crc: '0xe8a84e57'
 - name: HERETIC.WAD
   size: 11095516
-  date: '1995-06-28T01:02:58'
+  date: '1995-06-28T01:02:00'
   crc: '0x54759180'
 - name: IPXSETUP.EXE
   size: 17971
-  date: '1994-12-24T00:17:46'
+  date: '1995-06-28T01:02:00'
   crc: '0xc4cd13b0'
 - name: LICENSE.DOC
-  size: 7685
-  date: '1995-06-28T01:02:58'
-  crc: '0xfe4a6b3a'
+  size: 9088
+  date: '1995-06-28T01:02:00'
+  crc: '0xe7b011ce'
 - name: MODEM.CFG
   size: 50
-  date: '1994-12-24T00:17:46'
+  date: '1995-06-28T01:02:00'
   crc: '0xd31b3e59'
 - name: MODEM.NUM
   size: 33
-  date: '1994-12-24T00:17:46'
+  date: '1995-06-28T01:02:00'
   crc: '0xb5d192a9'
 - name: MODEM.STR
   size: 3048
-  date: '1994-12-24T00:17:46'
+  date: '1995-06-28T01:02:00'
   crc: '0x8a8dd2ec'
 - name: ORDER.FRM
   size: 4476
-  date: '1995-06-28T01:02:58'
+  date: '1995-06-28T01:02:00'
   crc: '0xd7a65b73'
 - name: README.TXT
   size: 20353
-  date: '1995-06-28T01:02:58'
+  date: '1995-06-28T01:02:00'
   crc: '0xbd3dd320'
 - name: SERSETUP.EXE
   size: 20257
-  date: '1994-12-24T00:17:46'
+  date: '1995-06-28T01:02:00'
   crc: '0x9dbb9b52'
 - name: SETUP.EXE
   size: 47096
-  date: '1995-06-28T01:02:58'
+  date: '1995-06-28T01:02:00'
   crc: '0x7b379c84'
-- name: VENDOR.DOC
-  size: 556
-  date: '1995-06-28T01:02:58'
-  crc: '0xf09cc340'
 - name: VIOHT.EXE
   size: 19203
-  date: '1995-06-28T01:02:58'
+  date: '1995-06-28T01:02:00'
   crc: '0x2a85dfa2'

@@ -1,9 +1,9 @@
-filename: Chinese Checkers v2.1 (De) (1994)(ImagiSOFT, Inc.) [Strategy, Board].zip
+filename: Chinese Checkers v2.1 (De) (1994)(Mad Data, bhv Verlags GmbH) [Strategy, Board].zip
 tdc_id: '5268.12'
 parent_id: '5268.13'
 title:
-  screen: Chinese Checkers
-publisher: ImagiSOFT, Inc.
+  box: Chinese Checkers
+publisher: Mad Data, bhv Verlags GmbH
 year: '1994'
 genre:
 - Strategy
@@ -11,11 +11,14 @@ genre:
 language: German
 date:
   added: '2022-10-29T15:12:44'
-  last_modified: '2022-10-29T15:12:44'
+  last_modified: '2025-04-07T09:02:52'
 version: '2.1'
 type: zip
+media: 720K
 commands:
   play: CHINESE.EXE
+references:
+  mobygames: https://www.mobygames.com/game/1065/chinese-checkers/
 files:
 - name: '!'
   size: 1459

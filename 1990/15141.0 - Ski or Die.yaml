@@ -1,5 +1,6 @@
-filename: Ski or Die (1990)(Electronic Arts, Inc.) [Sports].zip
+filename: Ski or Die (1990)(Electronic Arts, Inc.) [Sports][!].zip
 tdc_id: '15141.0'
+parent_id: '15141.1'
 title:
   box: Ski or Die
 publisher: Electronic Arts, Inc.
@@ -8,11 +9,15 @@ genre: Sports
 language: English
 date:
   added: '2020-06-18T19:05:54'
-  last_modified: '2020-06-18T19:05:54'
+  last_modified: '2025-03-30T15:44:31'
 type: zip
+tags:
+- KnownGood
+media: 360K
+commands:
+  play: START.BAT
 references:
-  dosid: DOS04602
-  exodos: Ski or Die (1990).zip
+  mobygames: https://www.mobygames.com/game/496/ski-or-die/
 files:
 - name: ACROJUMP.LZW
   size: 9976

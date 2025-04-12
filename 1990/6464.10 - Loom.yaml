@@ -1,5 +1,6 @@
-filename: Loom (1990)(Lucasfilm Games LLC) [Adventure].zip
+filename: Loom v1.0 (1990)(Lucasfilm Games LLC) [Adventure].zip
 tdc_id: '6464.10'
+parent_id: '6464.12'
 title:
   box: Loom
 publisher: Lucasfilm Games LLC
@@ -8,16 +9,21 @@ genre: Adventure
 language: English
 date:
   added: '2019-03-01T18:33:08'
-  last_modified: '2019-03-01T18:33:08'
+  last_modified: '2025-02-07T12:12:39'
+version: '1.0'
 type: zip
+media: 360K
+commands:
+  play: LOOM.EXE
 references:
+  mobygames: https://www.mobygames.com/game/176/loom/
   dosid: DOS03217
   exodos: Loom (1990).zip
 files:
 - name: 00.LFL
   size: 5748
   date: '1990-03-08T00:00:00'
-  crc: '0x7c4ddc1b'
+  crc: '0xe504f353'
 - name: 01.LFL
   size: 55213
   date: '1990-03-08T00:00:00'
@@ -288,7 +294,7 @@ files:
   crc: '0xb3b45971'
 - name: 69.LF_
   size: 52580
-  date: '2015-12-01T12:16:42'
+  date: '1990-03-08T00:00:00'
   crc: '0x2f9e2280'
 - name: 70.LFL
   size: 9100
@@ -314,7 +320,22 @@ files:
   size: 1160
   date: '1990-03-08T00:00:00'
   crc: '0x83a704f2'
+- name: DISK1.ID
+  size: 0
+  date: '1990-03-08T00:00:00'
+- name: DISK2.ID
+  size: 0
+  date: '1990-03-08T00:00:00'
 - name: DISK3.ID
+  size: 0
+  date: '1990-03-08T00:00:00'
+- name: DISK4.ID
+  size: 0
+  date: '1990-03-08T00:00:00'
+- name: DISK5.ID
+  size: 0
+  date: '1990-03-08T00:00:00'
+- name: DISK6.ID
   size: 0
   date: '1990-03-08T00:00:00'
 - name: INSTALL.BAT
@@ -322,10 +343,28 @@ files:
   date: '1990-03-08T00:00:00'
   crc: '0xf76ce1ad'
 - name: INSTALL2.BAT
-  size: 1257
+  size: 1956
   date: '1990-03-08T00:00:00'
-  crc: '0x1db4a579'
+  crc: '0x5b1ac4ab'
 - name: LOOM.EXE
   size: 102339
   date: '1990-03-08T00:00:00'
   crc: '0xd3fa7819'
+- name: Loom 1.0. 1
+  size: 0
+  date: '1990-03-08T17:07:02'
+- name: Loom 1.0. 2
+  size: 0
+  date: '1990-03-08T17:08:34'
+- name: Loom 1.0. 3
+  size: 0
+  date: '1990-03-08T17:10:20'
+- name: Loom 1.0. 4
+  size: 0
+  date: '1990-03-08T17:11:54'
+- name: Loom 1.0. 5
+  size: 0
+  date: '1990-03-08T17:13:26'
+- name: Loom 1.0. 6
+  size: 0
+  date: '1990-03-08T17:14:56'

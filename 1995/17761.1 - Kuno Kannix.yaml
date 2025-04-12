@@ -1,0 +1,48 @@
+filename: Kuno Kannix (De) [FW] (1995)(Christian Rupp, Wolfram Hinderer) [Action].zip
+tdc_id: '17761.1'
+parent_id: '17761.0'
+title:
+  screen: Kuno Kannix
+publisher: Christian Rupp, Wolfram Hinderer
+year: '1995'
+genre: Action
+language: German
+date:
+  added: '2025-01-28T08:44:28'
+  last_modified: '2025-01-28T08:44:28'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: KUNO.BAT
+  setup: KNKSETUP.EXE
+files:
+- name: KKN.EXE
+  size: 62656
+  date: '2024-04-11T01:27:00'
+  crc: '0x4f3aa3ed'
+- name: KKNINTRO.EXE
+  size: 18784
+  date: '2024-04-11T01:27:00'
+  crc: '0xd9d2cc8c'
+- name: KKNSETUP.EXE
+  size: 11360
+  date: '2024-04-11T01:27:00'
+  crc: '0x58e58700'
+- name: KUNO.BAT
+  size: 30
+  date: '2024-04-11T01:27:00'
+  crc: '0x919961b9'
+- name: KUNO.CFG
+  size: 11
+  date: '2024-04-12T20:52:34'
+  crc: '0x68d5deac'
+- name: KUNOLIB.KKN
+  size: 993947
+  date: '2024-04-11T01:27:00'
+  crc: '0xc654f7f9'
+- name: LIESMICH.TXT
+  size: 3168
+  date: '2024-04-11T01:27:00'
+  crc: '0x8d2ae8d3'

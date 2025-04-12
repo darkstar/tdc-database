@@ -1,5 +1,6 @@
-filename: Quest for Glory II- Trial By Fire v0.101 (1990)(Sierra On-Line, Inc.) [Adventure, Role-Playing (RPG)].zip
+filename: Quest for Glory II- Trial By Fire v1.000 (1990)(Sierra On-Line, Inc.) [Adventure, Role-Playing (RPG)].zip
 tdc_id: '10819.2'
+parent_id: '10819.5'
 title:
   box: 'Quest for Glory II: Trial By Fire'
 publisher: Sierra On-Line, Inc.
@@ -10,9 +11,15 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:33:44'
-  last_modified: '2019-03-01T18:33:44'
-version: '0.101'
+  last_modified: '2025-01-29T11:09:01'
+version: '1.000'
 type: zip
+media: 720K
+commands:
+  play: SIERRA.COM
+  setup: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/169/quest-for-glory-ii-trial-by-fire/
 files:
 - name: ADL.DRV
   size: 7969
@@ -118,18 +125,14 @@ files:
   size: 480904
   date: '1990-10-30T18:38:34'
   crc: '0x2929a01b'
-- name: RESOURCE.CFG
-  size: 79
-  date: '1993-08-09T19:15:22'
-  crc: '0x3b9a6c86'
 - name: RESOURCE.MAP
   size: 8148
   date: '1990-10-30T18:38:34'
   crc: '0xbf5d8b74'
 - name: SCIV.EXE
-  size: 61931
-  date: '1990-11-09T16:24:26'
-  crc: '0xd86c73b9'
+  size: 62859
+  date: '1990-11-02T09:09:38'
+  crc: '0xd9b85173'
 - name: SCRIPT.570
   size: 13868
   date: '1990-11-01T17:19:48'
@@ -178,6 +181,10 @@ files:
   size: 7
   date: '1990-10-30T18:12:54'
   crc: '0x14116f09'
+- name: VERSION1
+  size: 7
+  date: '1990-10-31T12:51:40'
+  crc: '0x8ec4273a'
 - name: _HDTRIAL.BAT
   size: 27
   date: '1990-03-07T16:14:36'

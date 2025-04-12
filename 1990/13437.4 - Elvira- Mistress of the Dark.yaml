@@ -1,5 +1,6 @@
-filename: Elvira- Mistress of the Dark (Installer) (1990)(Accolade, Inc.) [Adventure, Role-Playing (RPG)].zip
+filename: Elvira- Mistress of the Dark (Installer) (1990)(Accolade, Inc.) [Adventure, Role-Playing (RPG)][!].zip
 tdc_id: '13437.4'
+parent_id: '13437.9'
 title:
   box: Elvira
   screen: 'Elvira: Mistress of the Dark'
@@ -11,11 +12,16 @@ genre:
 language: English
 date:
   added: '2019-03-01T18:32:32'
-  last_modified: '2019-03-01T18:32:32'
+  last_modified: '2025-01-20T17:03:09'
 type: zip
+tags:
+- KnownGood
+media: 720K
 installer: true
 commands:
   play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/4050/elvira/
 files:
 - name: 01.SND
   size: 16783

@@ -1,5 +1,6 @@
-filename: Pools of Darkness (Installer) (1991)(Strategic Simulations, Inc.) [Adventure, Role-Playing (RPG)].zip
+filename: Pools of Darkness v1.0 (Installer) (1991)(Strategic Simulations, Inc.) [Adventure, Role-Playing (RPG)].zip
 tdc_id: '10421.1'
+parent_id: '10421.3'
 title:
   box: Pools of Darkness
 publisher: Strategic Simulations, Inc.
@@ -10,14 +11,16 @@ genre:
 language: English
 date:
   added: '2019-08-20T19:37:26'
-  last_modified: '2019-08-20T19:37:26'
+  last_modified: '2025-03-25T16:40:13'
+version: '1.0'
 type: zip
+media: 720K
 installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/505/pools-of-darkness/
 files:
-- name: GAME.OVR
-  size: 263841
-  date: '1991-08-27T14:38:36'
-  crc: '0xad93ed4f'
 - name: INSTALL.EXE
   size: 11984
   date: '1991-08-15T12:04:28'

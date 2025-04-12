@@ -1,0 +1,73 @@
+filename: Wolfenstein 3D v1.0alpha [h1] (1992)(Apogee Software, Ltd., id Software, Inc.) [Action].zip
+tdc_id: '16051.29'
+title:
+  screen: Wolfenstein 3D
+publisher: Apogee Software, Ltd., id Software, Inc.
+year: '1992'
+genre: Action
+language: English
+date:
+  added: '2025-02-09T12:46:47'
+  last_modified: '2025-02-09T12:46:47'
+version: 1.0alpha
+type: zip
+tags:
+- Hack: 1
+media: Download
+commands:
+  play: WOLF1V.EXE
+references:
+  mobygames: https://www.mobygames.com/game/306/wolfenstein-3d/
+files:
+- name: AUDIOHED.WL1
+  size: 576
+  date: '1992-03-12T01:37:10'
+  crc: '0x7b9e338a'
+- name: AUDIOT.WL1
+  size: 77265
+  date: '1992-03-12T01:37:10'
+  crc: '0x6df8532f'
+- name: HELPART.WL1
+  size: 1103
+  date: '1992-04-18T06:08:56'
+  crc: '0x52fe336b'
+- name: MAPHEAD.WL1
+  size: 402
+  date: '1992-03-12T01:29:56'
+  crc: '0xeb984d14'
+- name: MAPTEMP.WL1
+  size: 62660
+  date: '1992-03-12T01:23:02'
+  crc: '0xcdd4c671'
+- name: ORDERART.WL1
+  size: 150
+  date: '1992-04-18T06:07:50'
+  crc: '0xfa51dce3'
+- name: README.TXT
+  size: 3871
+  date: '1992-04-18T05:37:12'
+  crc: '0xbe121433'
+- name: VGADICT.WL1
+  size: 1024
+  date: '1992-03-12T01:29:06'
+  crc: '0x78092916'
+- name: VGAGRAPH.WL1
+  size: 195624
+  date: '1992-03-12T01:29:06'
+  crc: '0x9d2c7f3b'
+- name: VGAHEAD.WL1
+  size: 1281
+  date: '1992-03-12T01:29:06'
+  crc: '0x0e0aa60b'
+- name: VSWAP.WL1
+  size: 561192
+  date: '1992-03-12T00:00:08'
+  crc: '0x80cb7a9e'
+- name: WOLF1V.EXE
+  size: 83375
+  date: '1992-03-12T01:40:34'
+  crc: '0x92b9a37f'
+- name: WOLFART.WL1
+  size: 191
+  date: '1992-04-18T06:06:52'
+  crc: '0x483edc89'

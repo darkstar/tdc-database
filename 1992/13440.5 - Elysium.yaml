@@ -1,0 +1,74 @@
+filename: Elysium v1.0 (Installer) (De) (1992)(Magic Bytes) [Strategy].zip
+tdc_id: '13440.5'
+parent_id: '13440.4'
+title:
+  box: Elysium
+publisher: Magic Bytes
+year: '1992'
+genre: Strategy
+language: German
+date:
+  added: '2025-01-19T12:16:23'
+  last_modified: '2025-01-19T12:16:23'
+version: '1.0'
+type: zip
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/27504/elysium/
+files:
+- name: ARJ.EXE
+  size: 104614
+  date: '1992-04-27T18:58:18'
+  crc: '0xab52ea0c'
+- name: BILDER.ARJ
+  size: 742863
+  date: '1992-10-27T01:08:34'
+  crc: '0xcc6a40ce'
+- name: CHKLIST.MS
+  size: 27
+  date: '1994-04-26T14:06:50'
+  crc: '0xfad1e112'
+- name: COM\
+  size: 0
+  date: '1992-11-01T01:14:08'
+- name: COM\CHKLIST.MS
+  size: 27
+  date: '1994-04-26T14:07:04'
+  crc: '0x5a6d4ab2'
+- name: COM\ELYSIUM.002
+  size: 13280
+  date: '1992-11-01T12:00:18'
+  crc: '0x071aa1bb'
+- name: COM\RUN.EXE
+  size: 4951
+  date: '1992-11-11T16:32:50'
+  crc: '0x7d51b6cc'
+- name: EELYSIUM.ARJ
+  size: 282374
+  date: '1992-10-31T22:27:54'
+  crc: '0x1d944169'
+- name: ELEGA.ARJ
+  size: 261013
+  date: '1992-10-27T00:57:12'
+  crc: '0xec9088a4'
+- name: ELMCG.ARJ
+  size: 492789
+  date: '1992-10-26T23:31:42'
+  crc: '0xc16c8364'
+- name: ELYSIUM2
+  size: 0
+  date: '1992-11-03T14:22:00'
+- name: INSTALL
+  size: 0
+  date: '1992-11-10T04:24:00'
+- name: INSTALL.EXE
+  size: 16544
+  date: '1992-11-13T19:54:26'
+  crc: '0xee09f4ea'
+- name: MELYSIUM.ARJ
+  size: 303473
+  date: '1992-11-11T21:58:44'
+  crc: '0x830ff80a'

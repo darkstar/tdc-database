@@ -1,4 +1,4 @@
-filename: Zork II- The Wizard of Frobozz r48 [DC] (1984)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
+filename: Zork II- The Wizard of Frobozz r48-D [DC] (1984)(Infocom, Inc.) [Adventure, Interactive Fiction].zip
 tdc_id: '15700.4'
 parent_id: '15700.9'
 title:
@@ -11,13 +11,16 @@ genre:
 language: English
 date:
   added: '2022-06-09T16:09:54'
-  last_modified: '2022-06-09T16:09:54'
-release: '48'
+  last_modified: '2025-02-06T12:35:51'
+release: 48-D
 type: zip
 tags:
 - DOSConversion
+media: 360K
 commands:
   play: ZORK2.COM
+references:
+  mobygames: https://www.mobygames.com/game/52/zork-ii-the-wizard-of-frobozz/
 files:
 - name: ZORK2.COM
   size: 12928

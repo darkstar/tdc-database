@@ -1,20 +1,21 @@
-filename: Tour 91 [h1] (1991)(Topo Soft) [Sports, Simulation].zip
+filename: Tour 91 (1991)(Topo Soft) [Action, Sports].zip
 tdc_id: '16828.1'
 title:
   box: Tour 91
 publisher: Topo Soft
 year: '1991'
 genre:
+- Action
 - Sports
-- Simulation
 language: English
 date:
   added: '2019-03-01T18:39:50'
-  last_modified: '2019-03-01T18:39:50'
+  last_modified: '2025-02-22T10:27:16'
 type: zip
-tags:
-- Hack: 1
+commands:
+  play: TOUR.EXE
 references:
+  mobygames: https://www.mobygames.com/game/45948/tour-91/
   dosid: DOS02809
   exodos: Tour 91 (1991).zip
 files:
@@ -22,10 +23,6 @@ files:
   size: 115846
   date: '1991-06-26T21:28:54'
   crc: '0xb9b16a98'
-- name: HARD.COM
-  size: 14
-  date: '1991-02-08T19:59:36'
-  crc: '0xba32f48f'
 - name: LLANOS.PRG
   size: 111048
   date: '1991-06-26T05:48:34'

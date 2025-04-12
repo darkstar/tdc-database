@@ -1,5 +1,6 @@
 filename: Space Guardian (1982)(Omric Corporation) [Strategy].zip
 tdc_id: '1031.0'
+parent_id: '1031.2'
 title:
   screen: Space Guardian
 publisher: Omric Corporation
@@ -10,14 +11,31 @@ date:
   added: '2019-03-01T18:23:04'
   last_modified: '2019-03-01T18:23:04'
 type: zip
-media: Download
+media:
+- 360K
+- Download
 commands:
-  play: GUARDIAN.BAT
+  play: gwbasic progload
 references:
   dosid: DOS07091
   exodos: Space Guardian (1982).zip
-notes: +=PCMag Aug.'82, 177 + Sep.'82, 68 + Sep.'82, 315 /// IBM PC, 64K, $34.95
 files:
+- name: AUTOEXEC.BAT
+  size: 40
+  date: '1982-01-12T00:00:00'
+  crc: '0x7bede762'
+- name: BASICA.COM
+  size: 16256
+  date: '1981-08-04T00:00:00'
+  crc: '0x1df9fad6'
+- name: BASNOTE.SCR
+  size: 156
+  date: '1982-01-25T00:00:00'
+  crc: '0x474a3199'
+- name: COMMAND.COM
+  size: 3231
+  date: '1981-08-04T00:00:00'
+  crc: '0x5016c475'
 - name: GAME.FIL
   size: 128
   date: '1988-07-27T01:00:40'
@@ -26,15 +44,35 @@ files:
   size: 25344
   date: '1982-02-03T00:00:00'
   crc: '0x649f5d11'
-- name: GUARDIAN.BAT
-  size: 29
-  date: '2016-03-23T19:21:32'
-  crc: '0xc91cf9df'
-- name: GWBASIC.EXE
-  size: 80608
-  date: '1988-10-05T23:00:08'
-  crc: '0x2a44af39'
+- name: IBMBIO.COM
+  size: 1920
+  date: '1981-07-23T00:00:00'
+  crc: '0xd654ad83'
+- name: IBMDOS.COM
+  size: 6400
+  date: '1981-08-13T00:00:00'
+  crc: '0xbd703152'
+- name: PAGE1.SCR
+  size: 1102
+  date: '1982-01-27T00:00:00'
+  crc: '0x8df508d5'
+- name: PAGE2.SCR
+  size: 956
+  date: '1982-01-28T00:00:00'
+  crc: '0x3ea8534c'
+- name: PAGE4.SCR
+  size: 545
+  date: '1982-01-28T00:00:00'
+  crc: '0xeedf5b54'
 - name: PROGLOAD.BAS
   size: 128
   date: '1982-01-28T00:00:00'
   crc: '0xe18637cb'
+- name: START.BAT
+  size: 232
+  date: '1982-01-28T00:00:00'
+  crc: '0xdfd6d8e1'
+- name: SYSNOTE.SCR
+  size: 212
+  date: '1982-01-25T00:00:00'
+  crc: '0x78c39c7c'

@@ -1,0 +1,35 @@
+filename: Lost in Time CD Patch (1994)(Sierra On-Line, Inc.) [Adventure, Addon].zip
+tdc_id: '11912.21'
+title:
+  screen: Lost in Time CD Patch
+publisher: Sierra On-Line, Inc.
+year: '1994'
+genre:
+- Adventure
+- Addon
+language: English
+date:
+  added: '2025-03-17T09:50:28'
+  last_modified: '2025-03-17T09:50:28'
+type: zip
+media: Download
+patch: true
+references:
+  mobygames: https://www.mobygames.com/game/6098/lost-in-time/
+files:
+- name: '!'
+  size: 1753
+  date: '1994-02-03T08:40:48'
+  crc: '0xcf89f8f2'
+- name: LOST.EXE
+  size: 104386
+  date: '1994-01-19T07:47:50'
+  crc: '0x8611a8a9'
+- name: README.BAT
+  size: 35
+  date: '1994-01-12T10:10:00'
+  crc: '0xa0442cf6'
+- name: README.TXT
+  size: 2903
+  date: '1994-02-02T01:14:50'
+  crc: '0x046c0511'

@@ -1,8 +1,9 @@
-filename: Infidel r22 (Installer) (1985)(Infocom, Inc.) [Adventure, Interactive Fiction][!].zip
+filename: Infidel r22-L (Installer) (1985)(Infocom, Inc.) [Adventure, Interactive Fiction][!].zip
 tdc_id: '11486.1'
-parent_id: '11486.3'
+parent_id: '11486.7'
 title:
   box: Infidel
+  qualifier: Installer
 publisher: Infocom, Inc.
 year: '1985'
 genre:
@@ -11,12 +12,15 @@ genre:
 language: English
 date:
   added: '2022-05-23T12:35:58'
-  last_modified: '2022-05-23T12:35:58'
-release: '22'
+  last_modified: '2025-02-06T14:30:55'
+release: 22-L
 type: zip
 tags:
 - KnownGood
+media: 360K
 installer: true
+references:
+  mobygames: https://www.mobygames.com/game/62/infidel/
 files:
 - name: AF.EXE
   size: 13168

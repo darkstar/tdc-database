@@ -1,8 +1,8 @@
-filename: Dschump! v1.40a (De)(En) [SW] (1994)(Peter Hinz) [Strategy, Action].zip
+filename: Dschump! v1.40a (De)(En) [SW] (1994)(Peter Hinz, Jürgen Egeling Computer) [Strategy, Action].zip
 tdc_id: '6756.3'
 title:
   screen: Dschump!
-publisher: Peter Hinz
+publisher: Peter Hinz, Jürgen Egeling Computer
 year: '1994'
 genre:
 - Strategy
@@ -12,15 +12,17 @@ language:
 - German
 date:
   added: '2019-03-01T21:56:20'
-  last_modified: '2019-03-01T21:56:20'
+  last_modified: '2025-03-29T15:08:16'
 version: 1.40a
 type: zip
 tags:
 - Shareware
 media: Download
+commands:
+  play: DSCHUMP.EXE
+  setup: SETUP.EXE
 references:
-  dosid: DOS15356
-  exodos: Dschump! (1993).zip
+  mobygames: https://www.mobygames.com/game/58244/jump/
 files:
 - name: BESTELL.TXT
   size: 4585

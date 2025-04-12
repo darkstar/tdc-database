@@ -1,0 +1,39 @@
+filename: Wolfenstein 3D v1.4 (Installer) [SWR] (1994)(Mindscape International Ltd., id Software, Inc.) [Action].zip
+tdc_id: '16051.28'
+parent_id: '16051.27'
+title:
+  screen: Wolfenstein 3D
+publisher: Mindscape International Ltd., id Software, Inc.
+year: '1994'
+genre: Action
+language: English
+date:
+  added: '2025-02-08T10:48:34'
+  last_modified: '2025-02-08T10:48:34'
+version: '1.4'
+type: zip
+tags:
+- SharewareRegistered
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.BAT
+references:
+  mobygames: https://www.mobygames.com/game/306/wolfenstein-3d/
+files:
+- name: DEICE.EXE
+  size: 17303
+  date: '1993-02-04T15:33:24'
+  crc: '0xaad4552c'
+- name: INSTALL.BAT
+  size: 81
+  date: '1994-03-10T10:43:12'
+  crc: '0x68078183'
+- name: WOLFMS.1
+  size: 1172747
+  date: '1994-03-10T10:44:12'
+  crc: '0x7337760a'
+- name: WOLFMS.DAT
+  size: 300
+  date: '1994-03-11T16:11:40'
+  crc: '0x745fee8a'

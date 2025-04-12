@@ -1,0 +1,158 @@
+filename: Lost in Time parts 1 and 2 v1.10 (Installer) (De) (1993)(Coktel Vision) [Adventure].zip
+tdc_id: '11912.17'
+parent_id: '11912.16'
+title:
+  box: Lost in Time
+  qualifier: parts 1 and 2
+publisher: Coktel Vision
+year: '1993'
+genre: Adventure
+language: German
+date:
+  added: '2025-03-17T07:58:18'
+  last_modified: '2025-03-17T07:58:18'
+version: '1.10'
+type: zip
+media: 1.44M
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/6098/lost-in-time/
+files:
+- name: BATCOM.#11
+  size: 5660
+  date: '1993-08-23T17:49:32'
+  crc: '0x7d9c71cd'
+- name: BATCOM.$06
+  size: 815104
+  date: '1993-08-24T15:19:56'
+  crc: '0x85b1bbc2'
+- name: BATCOM.$07
+  size: 1059422
+  date: '1993-08-24T15:20:04'
+  crc: '0xe3c6ebb3'
+- name: CAT2.#01
+  size: 2149
+  date: '1993-08-23T17:47:42'
+  crc: '0x5a21cfcf'
+- name: CAT3.#02
+  size: 3063
+  date: '1993-08-23T17:47:50'
+  crc: '0x302d6227'
+- name: CAT4.#03
+  size: 3205
+  date: '1993-08-23T17:47:58'
+  crc: '0x2f94ce2a'
+- name: COMMUN1.#10
+  size: 2165
+  date: '1993-08-23T17:49:32'
+  crc: '0x1703dc18'
+- name: COMMUN1.$14
+  size: 141312
+  date: '1993-08-24T15:21:06'
+  crc: '0x690295a2'
+- name: COMMUN1.$15
+  size: 743709
+  date: '1993-08-24T15:21:10'
+  crc: '0x9b20e5a0'
+- name: INSTALL.ASK
+  size: 15840
+  date: '1993-08-18T18:51:28'
+  crc: '0x7fb25f3b'
+- name: INSTALL.EXE
+  size: 6827
+  date: '1993-04-07T09:04:08'
+  crc: '0x8731e7d3'
+- name: INSTALL.INF
+  size: 996
+  date: '1993-08-24T15:21:16'
+  crc: '0xd39a8ea9'
+- name: INTRO.$02
+  size: 150016
+  date: '1993-08-24T15:19:18'
+  crc: '0x595ea74d'
+- name: INTRO.$03
+  size: 1457664
+  date: '1993-08-24T15:19:28'
+  crc: '0xf8c05cc3'
+- name: INTRO.$04
+  size: 1457664
+  date: '1993-08-24T15:19:40'
+  crc: '0x56be623c'
+- name: INTRO.$05
+  size: 642348
+  date: '1993-08-24T15:19:48'
+  crc: '0x6b071c1c'
+- name: LOST.EXE
+  size: 104874
+  date: '1993-08-19T18:07:54'
+  crc: '0x9f84fcdc'
+- name: LOST.ICO
+  size: 766
+  date: '1993-08-19T18:08:10'
+  crc: '0x14cd4c7e'
+- name: MDO.DEF
+  size: 179
+  date: '1993-08-23T15:50:06'
+  crc: '0xe0c43f07'
+- name: PARTIE1.#06
+  size: 1856
+  date: '1993-08-23T17:49:32'
+  crc: '0xf3c7ed18'
+- name: PARTIE1.ITK
+  size: 612884
+  date: '1993-08-19T18:40:38'
+  crc: '0x7bcd2608'
+- name: PARTIE2.#07
+  size: 10391
+  date: '1993-08-23T17:49:34'
+  crc: '0x906e1710'
+- name: PARTIE2.$08
+  size: 397824
+  date: '1993-08-24T15:20:10'
+  crc: '0x356a2a1a'
+- name: PARTIE2.$09
+  size: 1457664
+  date: '1993-08-24T15:20:20'
+  crc: '0x0623b126'
+- name: PARTIE2.$10
+  size: 1348158
+  date: '1993-08-24T15:20:32'
+  crc: '0x8c4fc27b'
+- name: PARTIE3.#08
+  size: 8631
+  date: '1993-08-23T17:49:36'
+  crc: '0x89f79316'
+- name: PARTIE3.$11
+  size: 109056
+  date: '1993-08-24T15:20:38'
+  crc: '0x36d84daa'
+- name: PARTIE3.$12
+  size: 1457664
+  date: '1993-08-24T15:20:46'
+  crc: '0x48ebd7e5'
+- name: PARTIE3.$13
+  size: 1316274
+  date: '1993-08-24T15:20:58'
+  crc: '0x2b3aaa0f'
+- name: PARTIE4.#09
+  size: 8518
+  date: '1993-08-23T17:49:36'
+  crc: '0xca6652c8'
+- name: PARTIE4.$00
+  size: 1161216
+  date: '1993-08-24T15:19:00'
+  crc: '0x285387f5'
+- name: PARTIE4.$01
+  size: 1298244
+  date: '1993-08-24T15:19:12'
+  crc: '0x26a8eae3'
+- name: SETUP.CMP
+  size: 27935
+  date: '1993-08-19T18:08:02'
+  crc: '0xa22f4a4f'
+- name: SETUP.EXE
+  size: 71036
+  date: '1993-08-19T18:08:00'
+  crc: '0x3a5b4aaf'

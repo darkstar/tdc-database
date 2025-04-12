@@ -1,17 +1,21 @@
-filename: Zork- The Great Underground Empire r88 (booter) (1984)(Infocom, Inc.) [IMA][160k][cr].zip
+filename: Zork- The Great Underground Empire r88-D (booter) (1984)(Infocom, Inc.) [IMA][160k][cr].zip
 tdc_id: '15702.9'
+parent_id: '15702.8'
 title:
   box: 'Zork: The Great Underground Empire'
+  qualifier: booter
 publisher: Infocom, Inc.
 year: '1984'
 genre: IMA
 language: English
 date:
   added: '2023-02-23T20:13:36'
-  last_modified: '2023-02-23T20:13:36'
-release: '88'
+  last_modified: '2025-02-06T07:57:28'
+release: 88-D
 type: IMA
 media: 360K
+references:
+  mobygames: https://www.mobygames.com/game/50/zork-the-great-underground-empire/
 files:
 - name: disk1.ima
   size: 163840

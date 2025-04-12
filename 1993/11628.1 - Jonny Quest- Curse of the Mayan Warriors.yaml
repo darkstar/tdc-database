@@ -1,5 +1,6 @@
-filename: Jonny Quest- Curse of the Mayan Warriors (Installer) [f1] (1993)(Hollyware Entertainment) [Action, Adventure].zip
+filename: Jonny Quest- Curse of the Mayan Warriors v1.00 (Installer) [f1] (1993)(Hollyware Entertainment) [Action, Adventure].zip
 tdc_id: '11628.1'
+parent_id: '11628.2'
 title:
   box: 'Jonny Quest: Curse of the Mayan Warriors'
 publisher: Hollyware Entertainment
@@ -10,18 +11,26 @@ genre:
 language: English
 date:
   added: '2019-03-01T19:10:42'
-  last_modified: '2019-03-01T19:10:42'
+  last_modified: '2025-01-30T09:01:46'
+version: '1.00'
 type: zip
 tags:
 - Fixed: 1
+media: 1.44M
 installer: true
 commands:
   play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/2469/jonny-quest-curse-of-the-mayan-warriors/
 files:
 - name: DISK.ID
   size: 26
   date: '1993-12-17T13:59:12'
   crc: '0x11435326'
+- name: DISK2.ID
+  size: 26
+  date: '1993-12-17T18:18:50'
+  crc: '0x1305ed7f'
 - name: DRIVERS.RED
   size: 261892
   date: '1993-12-17T17:07:54'

@@ -1,20 +1,23 @@
-filename: Ishar 3- The Seven Gates of Infinity (De) [h1] (1994)(Silmarils, Unalis Corp.) [Role-Playing (RPG)].zip
+filename: Ishar 3- The Seven Gates of Infinity (De) (1994)(Silmarils) [Role-Playing (RPG)][!].zip
 tdc_id: '11562.1'
 parent_id: '11562.8'
 title:
   box: 'Ishar 3: The Seven Gates of Infinity'
-publisher: Silmarils, Unalis Corp.
+publisher: Silmarils
 year: '1994'
 genre: Role-Playing (RPG)
 language: German
 date:
   added: '2021-06-29T16:53:14'
-  last_modified: '2021-06-29T16:53:14'
+  last_modified: '2025-02-25T18:10:22'
 type: zip
 tags:
-- Hack: 1
+- KnownGood
+media: 1.44M
 commands:
   play: START.EXE
+references:
+  mobygames: https://www.mobygames.com/game/7702/ishar-3-the-seven-gates-of-infinity/
 files:
 - name: ACCUEIL.IO
   size: 76204
@@ -65,9 +68,9 @@ files:
   date: '1994-06-17T02:46:28'
   crc: '0x0232f206'
 - name: COFFRE.IO
-  size: 836
-  date: '1994-06-19T21:08:36'
-  crc: '0xbf8918be'
+  size: 816
+  date: '1994-07-07T18:38:48'
+  crc: '0x45acbf6a'
 - name: CONT1-3.FIC
   size: 9348
   date: '1994-06-20T12:23:54'
@@ -95,7 +98,7 @@ files:
 - name: CREATE.IO
   size: 48554
   date: '1994-07-08T10:35:08'
-  crc: '0xb92e552e'
+  crc: '0x27d67d8a'
 - name: DEAD.IO
   size: 144730
   date: '1994-06-17T03:48:38'
@@ -252,6 +255,10 @@ files:
   size: 450
   date: '1994-06-11T13:55:46'
   crc: '0x7fe599af'
+- name: INSTALL.BAT
+  size: 1333
+  date: '1994-07-08T15:33:12'
+  crc: '0x2013301c'
 - name: INTRO1.IO
   size: 128974
   date: '1994-06-19T22:59:02'
@@ -309,9 +316,9 @@ files:
   date: '1994-06-16T23:09:24'
   crc: '0x52fa6b36'
 - name: MESSAGE.IO
-  size: 19133
-  date: '1994-06-20T19:39:50'
-  crc: '0xa60b4073'
+  size: 11152
+  date: '1994-07-08T11:24:34'
+  crc: '0x956091cd'
 - name: MOLTUS.IO
   size: 9752
   date: '1994-06-17T01:17:36'
@@ -450,8 +457,8 @@ files:
   crc: '0x6dec5d44'
 - name: START.EXE
   size: 107671
-  date: '1994-06-21T10:30:38'
-  crc: '0x37de040f'
+  date: '1994-07-08T09:17:46'
+  crc: '0xe8562235'
 - name: SVILLE.IO
   size: 7554
   date: '1994-06-18T11:01:26'
@@ -465,17 +472,17 @@ files:
   date: '1994-06-17T00:08:04'
   crc: '0xf0dc8f8d'
 - name: TEXTIN.IO
-  size: 22263
-  date: '1994-06-20T19:37:56'
-  crc: '0xed01085f'
+  size: 14034
+  date: '1994-07-08T14:46:04'
+  crc: '0x474e5257'
 - name: THEFIN.IO
   size: 213926
   date: '1994-06-19T23:09:06'
   crc: '0xfd0ac9ed'
 - name: TYPHUS.IO
-  size: 2215
-  date: '1994-08-22T18:47:14'
-  crc: '0xcfee6ba2'
+  size: 898
+  date: '1994-07-07T18:39:04'
+  crc: '0x6b820d64'
 - name: VARCADE.IO
   size: 23660
   date: '1994-06-17T00:27:36'

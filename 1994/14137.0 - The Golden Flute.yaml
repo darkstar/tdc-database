@@ -1,17 +1,26 @@
-filename: Golden Flute, The (1994)(Delton T. Horn) [Strategy].zip
+filename: Golden Flute, The [FW] (1994)(Anonymous, Delton T. Horn, Dilithium Press) [Adventure, Interactive Fiction].zip
 tdc_id: '14137.0'
 title:
   screen: The Golden Flute
-publisher: Delton T. Horn
+publisher: Anonymous, Delton T. Horn, Dilithium Press
 year: '1994'
-genre: Strategy
+genre:
+- Adventure
+- Interactive Fiction
 language: English
 date:
   added: '2019-03-01T21:57:14'
-  last_modified: '2019-03-01T21:57:14'
+  last_modified: '2025-04-08T12:21:06'
 type: zip
+tags:
+- Freeware
+media:
+- Download
+- Type-In
 commands:
   play: G-FLUTE.EXE
+references:
+  mobygames: https://www.mobygames.com/game/128992/golden-flutes-and-great-escapes/
 files:
 - name: G-FLUTE.EXE
   size: 54672

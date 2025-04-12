@@ -1,0 +1,28 @@
+filename: MegaDschump (Installer) (En)(De) (1994)(Peter Hinz, Mad Data, bhv Verlags GmbH) [Strategy, Action].zip
+tdc_id: '6756.6'
+parent_id: '6756.5'
+title:
+  box: MegaDschump
+publisher: Peter Hinz, Mad Data, bhv Verlags GmbH
+year: '1994'
+genre:
+- Strategy
+- Action
+language:
+- English
+- German
+date:
+  added: '2025-03-31T12:13:16'
+  last_modified: '2025-03-31T12:13:16'
+type: zip
+media: 720K
+installer: true
+commands:
+  play: '!DSCHUMP.EXE'
+references:
+  mobygames: https://www.mobygames.com/game/58244/jump/
+files:
+- name: '!DSCHUMP.EXE'
+  size: 324758
+  date: '1994-06-29T17:39:38'
+  crc: '0x6ea6285f'

@@ -1,4 +1,4 @@
-filename: Eden Blues (Fr) [DC][a1] (1987)(ERE Informatique) [Action, Adventure].zip
+filename: Eden Blues [DC] (1987)(ERE Informatique) [Action, Adventure].zip
 tdc_id: '13301.1'
 title:
   box: Eden Blues
@@ -7,18 +7,23 @@ year: '1987'
 genre:
 - Action
 - Adventure
-language: French
+language: English
 date:
   added: '2019-03-01T18:25:16'
-  last_modified: '2019-03-01T18:25:16'
+  last_modified: '2025-01-25T09:48:54'
 type: zip
 tags:
 - DOSConversion
-- Alternate: 1
 commands:
   play: EDEN.COM
+references:
+  mobygames: https://www.mobygames.com/game/6267/eden-blues/
 files:
 - name: EDEN.COM
   size: 54689
   date: '1997-08-14T11:46:26'
   crc: '0xe9d764ab'
+- name: EDEN.CO_
+  size: 54689
+  date: '1980-01-01T00:00:00'
+  crc: '0x4ce7f144'

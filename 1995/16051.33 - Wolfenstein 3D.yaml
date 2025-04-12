@@ -1,0 +1,205 @@
+filename: Wolfenstein 3D v1.4 (Installer) [SWR] (1995)(GT Interactive Software Corp., id Software, Inc.) [Action].zip
+tdc_id: '16051.33'
+parent_id: '16051.32'
+title:
+  box: Wolfenstein 3D
+publisher: GT Interactive Software Corp., id Software, Inc.
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2025-02-09T15:20:35'
+  last_modified: '2025-02-09T15:20:35'
+version: '1.4'
+type: zip
+tags:
+- SharewareRegistered
+media: CD-ROM
+installer: true
+commands:
+  play: WOLF3D\INSTALL.BAT
+references:
+  mobygames: https://www.mobygames.com/game/306/wolfenstein-3d/
+files:
+- name: IDSTUFF\
+  size: 0
+  date: '1995-10-25T13:00:00'
+- name: IDSTUFF\CURSOR.EXE
+  size: 50688
+  date: '1995-10-06T17:07:50'
+  crc: '0xe84efd72'
+- name: IDSTUFF\DOOM2\
+  size: 0
+  date: '1995-10-13T17:15:18'
+- name: IDSTUFF\DOOM2\DOOM2.MJ3
+  size: 7301068
+  date: '1995-10-15T15:23:04'
+  crc: '0xf7acc34f'
+- name: IDSTUFF\FLOW.EXE
+  size: 662528
+  date: '1995-10-11T17:41:16'
+  crc: '0x0287b421'
+- name: IDSTUFF\FLOWLIB.DIR
+  size: 2164
+  date: '1995-10-15T15:22:06'
+  crc: '0x069d6424'
+- name: IDSTUFF\FLOWLIB.LIB
+  size: 1314335
+  date: '1995-10-15T15:22:10'
+  crc: '0x4bab25f7'
+- name: IDSTUFF\HAMWAL1.WAV
+  size: 13530
+  date: '1995-06-19T12:15:26'
+  crc: '0x04ddad84'
+- name: IDSTUFF\HERETIC\
+  size: 0
+  date: '1995-10-13T17:15:40'
+- name: IDSTUFF\HERETIC\HERETIC.MJ3
+  size: 5827340
+  date: '1995-10-15T15:22:34'
+  crc: '0xc8dc3c2e'
+- name: IDSTUFF\HIGHEDIT.DLL
+  size: 536720
+  date: '1993-11-24T18:52:32'
+  crc: '0x2f312d0c'
+- name: IDSTUFF\INSTALL.BIN
+  size: 43552
+  date: '1995-05-02T17:26:56'
+  crc: '0x61cfd928'
+- name: IDSTUFF\INSTALL.BMP
+  size: 153720
+  date: '1995-10-10T15:23:24'
+  crc: '0x26eaf759'
+- name: IDSTUFF\INSTALL.DLL
+  size: 103424
+  date: '1995-10-13T21:31:38'
+  crc: '0x9732c059'
+- name: IDSTUFF\INSTALL.EXE
+  size: 9216
+  date: '1992-11-22T19:27:22'
+  crc: '0x58f41408'
+- name: IDSTUFF\INSTALL.INF
+  size: 856
+  date: '1995-10-15T15:22:10'
+  crc: '0x35606fb9'
+- name: IDSTUFF\INSTRUCT\
+  size: 0
+  date: '1995-10-14T16:32:22'
+- name: IDSTUFF\INSTRUCT\DOOM2.RTF
+  size: 5283
+  date: '1995-10-13T22:15:08'
+  crc: '0x0205a6f8'
+- name: IDSTUFF\INSTRUCT\HERETIC.RTF
+  size: 5085
+  date: '1995-10-13T22:13:36'
+  crc: '0x1f385001'
+- name: IDSTUFF\INSTRUCT\MASTER.RTF
+  size: 5243
+  date: '1995-10-13T22:16:36'
+  crc: '0x90f0d9fd'
+- name: IDSTUFF\MASTER\
+  size: 0
+  date: '1995-10-13T17:16:00'
+- name: IDSTUFF\MASTER\MASTER.MJ3
+  size: 1468554
+  date: '1995-10-10T11:45:52'
+  crc: '0xaafb7abb'
+- name: IDSTUFF\PAGEMKR.DIR
+  size: 76
+  date: '1995-10-15T15:22:10'
+  crc: '0x251e6d3f'
+- name: IDSTUFF\PAGEMKR.LIB
+  size: 90624
+  date: '1995-10-15T15:22:10'
+  crc: '0x86c9119d'
+- name: IDSTUFF\PHOTOS.DIR
+  size: 172
+  date: '1995-10-13T12:14:38'
+  crc: '0xff09558f'
+- name: IDSTUFF\PHOTOS.LIB
+  size: 907702
+  date: '1995-10-13T12:14:38'
+  crc: '0x329a7c93'
+- name: IDSTUFF\PROCHOOK.DLL
+  size: 4928
+  date: '1994-01-01T03:01:00'
+  crc: '0x82a11cf0'
+- name: IDSTUFF\REDIR16.DLL
+  size: 130619
+  date: '1995-10-06T11:08:26'
+  crc: '0xdb13f44a'
+- name: IDSTUFF\RTF.DLL
+  size: 98037
+  date: '1993-10-01T13:28:22'
+  crc: '0xd6e88c7c'
+- name: IDSTUFF\SKU.4
+  size: 162
+  date: '1995-10-13T20:36:34'
+  crc: '0x9f11fd02'
+- name: IDSTUFF\TAGS.DIR
+  size: 172
+  date: '1995-10-13T12:14:40'
+  crc: '0xbc305fe8'
+- name: IDSTUFF\TAGS.LIB
+  size: 430000
+  date: '1995-10-13T12:14:40'
+  crc: '0xd1b00f7f'
+- name: IDSTUFF\TDWIN.INI
+  size: 103
+  date: '1995-10-13T21:30:36'
+  crc: '0x791b49e9'
+- name: IDSTUFF\UNINSTAL.BIN
+  size: 48205
+  date: '1994-02-25T14:36:38'
+  crc: '0x3880078a'
+- name: IDSTUFF\UNINSTAL.BMP
+  size: 153720
+  date: '1995-10-10T15:27:16'
+  crc: '0xbb10f637'
+- name: IDSTUFF\UNINSTAL.DLL
+  size: 25104
+  date: '1995-10-13T21:36:22'
+  crc: '0x6472a346'
+- name: IDSTUFF\UNINSTAL.EXE
+  size: 13824
+  date: '1994-02-25T14:36:34'
+  crc: '0x4a9a6ddd'
+- name: IDSTUFF\UNINSTAL.INF
+  size: 196
+  date: '1995-10-13T13:00:50'
+  crc: '0xfbd54570'
+- name: IDSTUFF\VIEW.EXE
+  size: 148318
+  date: '1995-10-06T17:08:28'
+  crc: '0xb6f48bf9'
+- name: WOLF3D\
+  size: 0
+  date: '1995-10-25T13:00:00'
+- name: WOLF3D\DEICE.EXE
+  size: 17303
+  date: '1993-02-04T16:33:24'
+  crc: '0xaad4552c'
+- name: WOLF3D\INSTALL.BAT
+  size: 79
+  date: '1994-04-13T08:50:44'
+  crc: '0xf60596b6'
+- name: WOLF3D\W3DGT.1
+  size: 332800
+  date: '1994-04-13T08:53:42'
+  crc: '0x3051a010'
+- name: WOLF3D\W3DGT.2
+  size: 358400
+  date: '1994-04-13T08:53:44'
+  crc: '0xe6d4fac2'
+- name: WOLF3D\W3DGT.3
+  size: 358400
+  date: '1994-04-13T08:53:46'
+  crc: '0x8ab7a9cb'
+- name: WOLF3D\W3DGT.4
+  size: 124552
+  date: '1994-04-13T08:53:46'
+  crc: '0xf297e542'
+- name: WOLF3D\W3DGT.DAT
+  size: 214
+  date: '1994-04-13T08:50:44'
+  crc: '0xf8baf643'

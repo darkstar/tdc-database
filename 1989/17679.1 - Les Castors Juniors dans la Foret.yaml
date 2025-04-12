@@ -46,6 +46,10 @@ files:
 - name: INTRO.TOT
   size: 6869
   date: '1989-12-01T09:20:44'
+  crc: '0x75a9a3ed'
+- name: INTRO.TO_
+  size: 6869
+  date: '1989-12-01T09:20:44'
   crc: '0x44953457'
 - name: JEUCAR1.LET
   size: 1556
@@ -72,10 +76,6 @@ files:
   date: '1989-04-30T18:19:46'
   crc: '0x1adb8676'
 - name: LOADER.EXE
-  size: 112969
-  date: '1989-11-24T15:21:04'
-  crc: '0x831bc016'
-- name: LOADER.EX_
   size: 112969
   date: '1989-11-24T15:21:04'
   crc: '0xe55d6fd9'
@@ -123,7 +123,3 @@ files:
   size: 62340
   date: '1980-01-01T00:00:00'
   crc: '0xfb2d209c'
-- name: VARIABLE.INF
-  size: 1262
-  date: '1995-10-23T00:09:06'
-  crc: '0x498e1db3'

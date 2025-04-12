@@ -1,4 +1,4 @@
-filename: Heretic (Installer) [SWR] (1994)(id Software, Inc.) [Action].zip
+filename: Heretic v1.0 (Installer) [SWR] (1994)(id Software, Inc.) [Action].zip
 tdc_id: '9593.1'
 title:
   screen: Heretic
@@ -8,11 +8,17 @@ genre: Action
 language: English
 date:
   added: '2019-03-01T22:00:28'
-  last_modified: '2019-03-01T22:00:28'
+  last_modified: '2025-02-18T18:47:20'
+version: '1.0'
 type: zip
 tags:
 - SharewareRegistered
+media: Download
 installer: true
+commands:
+  play: INSTALL.BAT
+references:
+  mobygames: https://www.mobygames.com/game/21987/heretic/
 files:
 - name: DEICE.EXE
   size: 17303

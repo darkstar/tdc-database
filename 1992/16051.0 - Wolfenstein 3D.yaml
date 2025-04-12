@@ -1,4 +1,4 @@
-filename: Wolfenstein 3D (Installer) [SW] (1992)(Apogee Software, Ltd.) [Action].zip
+filename: Wolfenstein 3D v1.0 (Installer) [SW] (1992)(Apogee Software, Ltd.) [Action].zip
 tdc_id: '16051.0'
 title:
   screen: Wolfenstein 3D
@@ -8,7 +8,8 @@ genre: Action
 language: English
 date:
   added: '2019-03-01T18:52:28'
-  last_modified: '2019-03-01T18:52:28'
+  last_modified: '2025-02-08T16:15:57'
+version: '1.0'
 type: zip
 tags:
 - Shareware
@@ -16,6 +17,8 @@ media: Download
 installer: true
 commands:
   play: W3D1-ASP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/306/wolfenstein-3d/
 files:
 - name: CATALOG.EXE
   size: 27739

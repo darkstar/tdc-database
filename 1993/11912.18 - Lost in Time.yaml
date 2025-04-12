@@ -1,0 +1,114 @@
+filename: Lost in Time parts 1 and 2 v1.10 (De) (1993)(Coktel Vision) [Adventure].zip
+tdc_id: '11912.18'
+parent_id: '11912.17'
+title:
+  box: Lost in Time
+  qualifier: parts 1 and 2
+publisher: Coktel Vision
+year: '1993'
+genre: Adventure
+language: German
+date:
+  added: '2025-03-17T08:39:48'
+  last_modified: '2025-03-17T08:39:48'
+version: '1.10'
+type: zip
+media: 1.44M
+commands:
+  play: LOST.EXE
+  setup: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/6098/lost-in-time/
+files:
+- name: BATCOM.ITK
+  size: 1874526
+  date: '1993-08-23T11:00:00'
+  crc: '0x07bc7033'
+- name: BATCOM.LTK
+  size: 9488
+  date: '1993-08-23T11:00:00'
+  crc: '0x8d96999e'
+- name: CAT2.INF
+  size: 21880
+  date: '1993-08-23T11:00:00'
+  crc: '0xc9410cd6'
+- name: CAT3.INF
+  size: 21880
+  date: '1993-08-23T11:00:00'
+  crc: '0xa8dfbdc7'
+- name: CAT4.INF
+  size: 21880
+  date: '1993-08-23T11:00:00'
+  crc: '0x73341642'
+- name: COMMUN1.ITK
+  size: 954310
+  date: '1993-08-23T11:00:00'
+  crc: '0xd0801563'
+- name: COMMUN1.LTK
+  size: 3098
+  date: '1993-08-23T11:00:00'
+  crc: '0xde9c199d'
+- name: INSTALL.ASK
+  size: 15840
+  date: '1993-08-23T11:00:00'
+  crc: '0x7fb25f3b'
+- name: INTRO.STK
+  size: 3944090
+  date: '1993-08-23T11:00:00'
+  crc: '0x1179f8ad'
+- name: INTRO.ST_
+  size: 3944090
+  date: '1993-08-23T11:00:00'
+  crc: '0xe796f18c'
+- name: LOST.EXE
+  size: 104874
+  date: '1993-08-23T11:00:00'
+  crc: '0x9f84fcdc'
+- name: LOST.ICO
+  size: 766
+  date: '1993-08-23T11:00:00'
+  crc: '0x14cd4c7e'
+- name: MDO.DEF
+  size: 179
+  date: '1993-08-23T11:00:00'
+  crc: '0xe0c43f07'
+- name: PARTIE1.ITK
+  size: 612884
+  date: '1993-08-23T11:00:00'
+  crc: '0x7bcd2608'
+- name: PARTIE1.LTK
+  size: 2900
+  date: '1993-08-23T11:00:00'
+  crc: '0x2d6d2f73'
+- name: PARTIE2.ITK
+  size: 3203646
+  date: '1993-08-23T11:00:00'
+  crc: '0xa102c04a'
+- name: PARTIE2.LTK
+  size: 17384
+  date: '1993-08-23T11:00:00'
+  crc: '0x8b691060'
+- name: PARTIE3.ITK
+  size: 2882994
+  date: '1993-08-23T11:00:00'
+  crc: '0x15edd1fd'
+- name: PARTIE3.LTK
+  size: 14540
+  date: '1993-08-23T11:00:00'
+  crc: '0x3e07d762'
+- name: PARTIE4.ITK
+  size: 2459460
+  date: '1993-08-23T11:00:00'
+  crc: '0xd62ff493'
+- name: PARTIE4.LTK
+  size: 13748
+  date: '1993-08-23T11:00:00'
+  crc: '0x496482ec'
+- name: SETUP.CMP
+  size: 27935
+  date: '1993-08-23T11:00:00'
+  crc: '0xa22f4a4f'
+- name: SETUP.EXE
+  size: 71036
+  date: '1993-08-23T11:00:00'
+  crc: '0x3a5b4aaf'

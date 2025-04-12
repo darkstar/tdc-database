@@ -1,0 +1,94 @@
+filename: Wolfenstein 3D - Episode One v1.4 (Installer) [SW] (1995)(Apogee Software, Ltd.) [Action].zip
+tdc_id: '16051.52'
+parent_id: '16051.51'
+title:
+  box: Wolfenstein 3D
+  qualifier: '- Episode One'
+publisher: Apogee Software, Ltd.
+year: '1995'
+genre: Action
+language: English
+date:
+  added: '2025-02-15T13:09:44'
+  last_modified: '2025-02-15T13:09:44'
+version: '1.4'
+type: zip
+tags:
+- Shareware
+media:
+- CD-ROM
+- Download
+installer: true
+commands:
+  play: INSTALL.BAT
+references:
+  mobygames: https://www.mobygames.com/game/306/wolfenstein-3d/
+files:
+- name: AUDIOHED.WL1
+  size: 1156
+  date: '1992-12-01T13:40:06'
+  crc: '0x52133dc4'
+- name: AUDIOT.WL1
+  size: 132613
+  date: '1992-12-01T13:40:06'
+  crc: '0x87bfc399'
+- name: CATALOG.DOC
+  size: 33381
+  date: '1992-10-20T23:39:28'
+  crc: '0xc89b28f4'
+- name: DEICE.EXE
+  size: 17303
+  date: '1994-08-30T13:00:00'
+  crc: '0xaad4552c'
+- name: GAMEMAPS.WL1
+  size: 27425
+  date: '1992-12-01T13:40:06'
+  crc: '0xcc53d341'
+- name: INSTALL.BAT
+  size: 83
+  date: '1992-12-15T19:06:20'
+  crc: '0x33cfe7e2'
+- name: MAPHEAD.WL1
+  size: 402
+  date: '1992-12-01T13:40:06'
+  crc: '0x088f7551'
+- name: ORDER.FRM
+  size: 2655
+  date: '1992-10-01T15:52:34'
+  crc: '0x6c75ecf4'
+- name: README.BAT
+  size: 1610
+  date: '1995-01-05T17:16:46'
+  crc: '0x884f7228'
+- name: VGADICT.WL1
+  size: 1024
+  date: '1992-12-01T13:40:06'
+  crc: '0x358ab877'
+- name: VGAGRAPH.WL1
+  size: 326568
+  date: '1992-12-01T13:40:06'
+  crc: '0x746da9f0'
+- name: VGAHEAD.WL1
+  size: 471
+  date: '1992-12-01T13:40:06'
+  crc: '0xa60a98f0'
+- name: VSWAP.WL1
+  size: 742912
+  date: '1992-12-01T13:40:06'
+  crc: '0x85efac55'
+- name: VTOC.SYS
+  size: 4096
+  date: '1995-01-15T20:03:48'
+  crc: '0x4dda9b4e'
+- name: WOLF1.1
+  size: 681636
+  date: '1992-12-15T19:06:00'
+  crc: '0x1725822e'
+- name: WOLF1.DAT
+  size: 259
+  date: '1992-12-15T19:05:08'
+  crc: '0x0942a76c'
+- name: WOLF3D.EXE
+  size: 109959
+  date: '1992-12-01T13:40:06'
+  crc: '0x213d5d76'

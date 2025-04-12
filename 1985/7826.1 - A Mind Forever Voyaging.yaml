@@ -1,5 +1,6 @@
-filename: Mind Forever Voyaging, A r77 (1985)(Infocom, Inc.) [IMA][360k].zip
+filename: Mind Forever Voyaging, A r77 (1985)(Infocom, Inc.) [IMA][360k][!].zip
 tdc_id: '7826.1'
+parent_id: '7826.2'
 title:
   box: A Mind Forever Voyaging
 publisher: Infocom, Inc.
@@ -8,12 +9,16 @@ genre: IMA
 language: English
 date:
   added: '2023-02-24T09:48:51'
-  last_modified: '2023-02-24T09:48:51'
+  last_modified: '2025-04-02T07:51:44'
 release: '77'
 type: IMA
+tags:
+- KnownGood
 media: 360K
+references:
+  mobygames: https://www.mobygames.com/game/94/a-mind-forever-voyaging/
 files:
-- name: disk01.ima
-  size: 368768
-  date: '2022-06-05T10:26:50'
-  crc: '0x966c3ea1'
+- name: Disk1.ima
+  size: 368640
+  date: '2025-04-01T16:06:42'
+  crc: '0x93a938a2'

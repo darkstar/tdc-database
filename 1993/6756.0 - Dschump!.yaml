@@ -1,8 +1,8 @@
-filename: Dschump! v1.2 (De)(En) [SW] (1993)(Peter Hinz) [Strategy, Action].zip
+filename: Dschump! v1.20 (De)(En) [SW] (1993)(Peter Hinz, HomeBrew Software) [Strategy, Action].zip
 tdc_id: '6756.0'
 title:
   screen: Dschump!
-publisher: Peter Hinz
+publisher: Peter Hinz, HomeBrew Software
 year: '1993'
 genre:
 - Strategy
@@ -12,12 +12,17 @@ language:
 - German
 date:
   added: '2009-11-23T05:27:56'
-  last_modified: '2009-11-23T05:27:56'
-version: '1.2'
+  last_modified: '2025-03-29T15:04:37'
+version: '1.20'
 type: zip
 tags:
 - Shareware
 media: Download
+commands:
+  play: DSCHUMP.BAT
+  setup: SETUP.EXE
+references:
+  mobygames: https://www.mobygames.com/game/58244/jump/
 files:
 - name: BESTELL.TXT
   size: 2426

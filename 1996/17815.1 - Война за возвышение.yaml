@@ -1,0 +1,78 @@
+filename: Война за возвышение v1 (Ru) [FW] (1996)(МАГ) [Strategy].zip
+tdc_id: '17815.1'
+parent_id: '17815.0'
+title:
+  screen: Война за возвышение
+  translation: Ascension War
+publisher: МАГ
+year: '1996'
+genre: Strategy
+language: Russian
+date:
+  added: '2025-03-19T13:13:01'
+  last_modified: '2025-03-19T13:13:01'
+version: '1'
+type: zip
+tags:
+- Freeware
+media: Download
+commands:
+  play: GO.BAT
+  setup: SETUP.EXE
+files:
+- name: GO.BAT
+  size: 90
+  date: '1996-09-01T02:01:00'
+  crc: '0x6675f9c9'
+- name: MAGSYS.FNT
+  size: 4096
+  date: '1996-09-01T02:01:00'
+  crc: '0x60a8fc25'
+- name: SETUP.EXE
+  size: 101242
+  date: '1996-09-01T02:01:00'
+  crc: '0x1257a0b5'
+- name: SOUND.CFG
+  size: 8
+  date: '2025-03-10T20:40:32'
+  crc: '0x0f182b46'
+- name: WAR.EXE
+  size: 209914
+  date: '1996-09-01T02:01:00'
+  crc: '0x23bfe914'
+- name: WAR.ICO
+  size: 2238
+  date: '1996-09-01T02:01:00'
+  crc: '0x85f7d13c'
+- name: WAR.PIF
+  size: 995
+  date: '1996-09-01T02:01:00'
+  crc: '0x026fd0bb'
+- name: WAR.TXT
+  size: 3861
+  date: '1996-09-01T02:01:00'
+  crc: '0xdc2ee6f6'
+- name: WARFM.LB
+  size: 28155
+  date: '1996-09-01T02:01:00'
+  crc: '0x72d4119b'
+- name: WARINTR.LB
+  size: 1358103
+  date: '1996-09-01T02:01:00'
+  crc: '0x7430d934'
+- name: WARMUS.LB
+  size: 34223
+  date: '1996-09-01T02:01:00'
+  crc: '0xd5c9e7df'
+- name: WARPIC.LB
+  size: 1128108
+  date: '1996-09-01T02:01:00'
+  crc: '0x1cebad6c'
+- name: WARRIOR.LB
+  size: 291694
+  date: '1996-09-01T02:01:00'
+  crc: '0xf0b12745'
+- name: WARSOU.LB
+  size: 284741
+  date: '1996-09-01T02:01:00'
+  crc: '0x1a5d4343'

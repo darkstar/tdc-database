@@ -1,10 +1,10 @@
-filename: 요정전사 뒤죽 (demo) (Ko) (1992)(Makkoya, SKC Soft Land) [Action, Role-Playing (RPG)].zip
+filename: 요정전사 뒤죽 (demo) (Ko) (1992)(SKC Soft Land) [Action, Role-Playing (RPG)].zip
 tdc_id: '2508.0'
 title:
   screen: 요정전사 뒤죽
   translation: Elf Warrior Dwijuk
   transliteration: Yojeong Jeonsa Dwijuk
-publisher: Makkoya, SKC Soft Land
+publisher: SKC Soft Land
 year: '1992'
 genre:
 - Action
@@ -12,11 +12,14 @@ genre:
 language: Korean
 date:
   added: '2019-03-01T18:52:36'
-  last_modified: '2019-03-01T18:52:36'
+  last_modified: '2025-02-22T15:58:22'
 type: zip
+media: Download
 demo: true
 commands:
   play: MESSY.EXE
+references:
+  mobygames: https://www.mobygames.com/game/56376/yojeong-jeonsa-dwijuk/
 files:
 - name: ASC.FNT
   size: 1824

@@ -1,0 +1,63 @@
+filename: Dark Seed v1.5 (Installer) (1992)(Cyberdreams, Inc., Merit Software) [Adventure].zip
+tdc_id: '12929.14'
+title:
+  box: Dark Seed
+publisher: Cyberdreams, Inc., Merit Software
+year: '1992'
+genre: Adventure
+language: English
+date:
+  added: '2025-03-28T08:57:05'
+  last_modified: '2025-03-28T08:57:05'
+version: '1.5'
+type: zip
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/302/dark-seed/
+files:
+- name: DARKSEED.001
+  size: 621480
+  date: '1992-08-26T10:58:40'
+  crc: '0xa36f3ff1'
+- name: DARKSEED.002
+  size: 1457152
+  date: '1992-08-26T10:53:02'
+  crc: '0x612f53c7'
+- name: DARKSEED.003
+  size: 1457152
+  date: '1992-08-26T10:54:56'
+  crc: '0xd9794d56'
+- name: DARKSEED.004
+  size: 1457152
+  date: '1992-08-26T10:56:36'
+  crc: '0xe0ff4bff'
+- name: DARKSEED.005
+  size: 1169209
+  date: '1992-08-26T10:58:04'
+  crc: '0x5647bda0'
+- name: DISK.ID
+  size: 33
+  date: '1992-08-26T10:50:18'
+  crc: '0x4f771037'
+- name: DISK2.ID
+  size: 33
+  date: '1992-08-26T10:51:42'
+  crc: '0x4d31ae6e'
+- name: DISK3.ID
+  size: 33
+  date: '1992-08-26T10:53:30'
+  crc: '0x4cf3c459'
+- name: DISK4.ID
+  size: 33
+  date: '1992-08-26T10:55:14'
+  crc: '0x49bcd2dc'
+- name: DISK5.ID
+  size: 33
+  date: '1992-08-26T10:56:54'
+  crc: '0x487eb8eb'
+- name: INSTALL.EXE
+  size: 106815
+  date: '1992-04-28T15:32:40'
+  crc: '0x0134f396'

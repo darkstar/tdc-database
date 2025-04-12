@@ -1,0 +1,50 @@
+filename: Eye of the Beholder v1.4 (Installer) (De) (1991)(Softgold Computerspiele GmbH, Strategic Simulations, Inc.) [Action, Adventure, Role-Playing (RPG)][!].zip
+tdc_id: '8998.28'
+parent_id: '8998.31'
+title:
+  box: Eye of the Beholder
+publisher: Softgold Computerspiele GmbH, Strategic Simulations, Inc.
+year: '1991'
+genre:
+- Action
+- Adventure
+- Role-Playing (RPG)
+language: German
+date:
+  added: '2025-03-07T07:41:50'
+  last_modified: '2025-03-07T07:41:50'
+version: '1.4'
+type: zip
+tags:
+- KnownGood
+media: 720K
+installer: true
+commands:
+  play: INSTALL.EXE
+references:
+  mobygames: https://www.mobygames.com/game/835/eye-of-the-beholder/
+files:
+- name: DATA1.EXE
+  size: 352155
+  date: '1991-08-12T15:08:44'
+  crc: '0x8570a63e'
+- name: DATA2.EXE
+  size: 353735
+  date: '1991-08-12T15:18:00'
+  crc: '0x61a3e3d3'
+- name: DATA3.EXE
+  size: 341959
+  date: '1981-01-18T00:29:38'
+  crc: '0x9ae5e723'
+- name: DATA4.EXE
+  size: 356205
+  date: '1981-01-18T00:28:32'
+  crc: '0x45b81925'
+- name: DATA5.EXE
+  size: 332438
+  date: '1991-08-12T18:05:10'
+  crc: '0xaf2fff9b'
+- name: INSTALL.EXE
+  size: 8368
+  date: '1981-01-18T01:13:44'
+  crc: '0x5529b651'
